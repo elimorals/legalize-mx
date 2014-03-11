@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2013-12-02"
+last_updated: "2014-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2014 EN LA G. G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MARZO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -848,6 +850,28 @@ B. Hostigamiento sexual, es el ejercicio del poder, en una relación de subordin
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
 XX. La falta de requisitos que exijan las leyes y reglamentos, necesarios para la prestación del servicio cuando sea imputable al trabajador, desde la fecha en que el patrón tenga conocimiento del hecho, hasta por un periodo de dos meses.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+###### Artículo 93 Bis.
+
+Además de las causas señaladas en el artículo anterior, también serán motivo de rescisión laboral para los servidores públicos docentes, sin responsabilidad para las autoridades educativas, las siguientes:
+
+I. Incumplir con los procesos establecidos para las evaluaciones con fines de ingreso, promoción, permanencia y, en su caso, reconocimiento, en términos de lo prescrito por la Ley General del Servicio Profesional Docente;
+
+II. Incumplir con el periodo de inducción al servicio y no sujetarse a la evaluación obligatoria por la Ley General del Servicio Profesional Docente;
+
+III. No prestar los servicios docentes en la escuela en la que se encuentra adscrito o cambiarse de adscripción, sin previa autorización de la autoridad educativa competente;
+
+IV. Prestar el servicio docente sin haber cumplido los requisitos y procesos que establece la Ley General del Servicio Profesional Docente;
+
+V. No sujetarse a los procesos de evaluación a que se refiere la Ley General del Servicio Profesional Docente, de manera personal;
+
+VI. No atender los programas de regularización, así como aquellos que sean obligatorios de formación continua, capacitación y actualización;
+
+VII. No alcanzar resultados suficientes en la tercera evaluación que se le practique para la permanencia en el servicio, de conformidad con la Ley General del Servicio Profesional Docente;
+
+VIII. Las demás que señale la Ley General del Servicio Profesional Docente y otras disposiciones aplicables.
 
 ###### Artículo 94.
 
@@ -3024,3 +3048,23 @@ Fiscal C1 i,t C2 i,t
 2014 50% 50%
 
 2015 40% 60%
+
+G.G. 11 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El personal que a la entrada en vigor del presente Decreto se encuentra en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la educación básica o de media superior impartida por el Estado y sus organismos descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere la Ley General del Servicio Profesional Docente. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere la Ley General, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la autoridad educativa o el organismo descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización que establece la Ley General del Servicio Profesional Docente, será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según corresponda.
+
+CUARTO.- El personal docente y el personal con funciones de dirección o de supervisión en la educación básica o media superior impartida por el Estado y sus organismos descentralizados que a la entrada en vigor de este Decreto tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en la Ley General del Servicio Profesional Docente, al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará nombramiento definitivo y quedará incorporado al Servicio Profesional Docente.
+
+Será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según sea el caso, el personal que:
+
+I. Se niegue a participar en los procesos de evaluación.
+
+II. No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo procesos de evaluación a que se refiere la Ley General del Servicio Profesional Docente.
+
+III. Obtenga resultados insuficientes en el tercer proceso de evaluación para la permanencia en el servicio.
