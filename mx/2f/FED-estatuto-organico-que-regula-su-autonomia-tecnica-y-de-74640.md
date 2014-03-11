@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-que-regula-su-autonomia-tecnica-y-de-74640"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-04-30"
-last_updated: "2010-04-30"
+last_updated: "2014-03-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-03-30"
 ---
 # ESTATUTO ORGANICO QUE REGULA SU AUTONOMIA TECNICA Y DE GESTION CONSTITUCIONAL
 
-ACUERDO DEL CONTRALOR GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE EXPIDE EL ESTATUTO ORGANICO QUE REGULA SU AUTONOMIA TECNICA Y DE GESTION CONSTITUCIONAL
+ACUERDO DEL CONTRALOR GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO QUE REGULA SU AUTONOMÍA TÉCNICA Y DE GESTIÓN CONSTITUCIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO 1/2014, PUBLICADO EN EL D.O.F. DE 11 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MARZO DE 2014 (SIN EFECTOS).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 30 de abril de 2010.
 
@@ -912,3 +914,19 @@ Sexto.- Los casos o supuestos no previstos en el presente Acuerdo, serán revisa
 Séptimo.- Queda sin efecto el contenido de las disposiciones normativas internas, y de organización y funcionamiento que se contrapongan a lo dispuesto en el presente Acuerdo.
 
 México, Distrito Federal, a 30 de marzo de 2010.- El Contralor General, Gregorio Guerrero Pozas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE MARZO DE 2014.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su emisión.
+
+SEGUNDO.- Conforme a lo dispuesto por el artículo 76, inciso kk), del Reglamento Interior del Instituto Federal Electoral, por conducto del Consejero Presidente Provisional, infórmese al Consejo General del propio Instituto, la expedición del presente Acuerdo.
+
+TERCERO.- Remítase un ejemplar del presente acuerdo al Secretario Ejecutivo del Instituto Federal Electoral para que ordene su publicación en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral, en cumplimiento a lo establecido en artículo Sexto Transitorio del Acuerdo CG294/2013, del Consejo General por el que se reforma el Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública.
+
+CUARTO.- Con la entrada en vigor del presente acuerdo, se dejan sin efectos el Acuerdo del Contralor General del Instituto Federal Electoral, por el que se expide el Estatuto Orgánico que regula su Autonomía Técnica y de Gestión Constitucional publicado en el Diario Oficial de la Federación el 30 de abril del 2010; el Acuerdo del Contralor General del Instituto Federal Electoral por el que se instruye a los servidores públicos que integran la Contraloría General, el procedimiento para la certificación y expedición de copias certificadas de los documentos que se encuentren en sus archivos por el ejercicio de sus funciones, publicado en el Diario Oficial de la Federación el 4 de Noviembre del 2008 y el Acuerdo Número 3/2010 Acuerdo del Contralor General del Instituto Federal Electoral por el que se expiden los Lineamientos para la Elaboración y/o Actualización de las Políticas Bases y Lineamientos en las Materias de Adquisiciones, Arrendamientos y Servicios y de Obras Públicas y Servicios relacionados con las Mismas, expide el Instituto Federal Electoral.
+
+QUINTO.- En caso de que el titular de la Contraloría General, someta a la consideración del Consejo General del Instituto Federal Electoral, algún cambio de denominación de alguna Subcontraloría o dirección de área, se tendrá por actualizado el presente acuerdo, sin necesidad de modificación expresa, a partir de la publicación en el Diario Oficial de la Federación y Gaceta del Instituto Federal Electoral, del referido acuerdo.
+
+SEXTO.- Los casos o supuestos no previstos en el presente Acuerdo, serán revisados y atendidos por el Comité de Dirección y resueltos por el Contralor General.
