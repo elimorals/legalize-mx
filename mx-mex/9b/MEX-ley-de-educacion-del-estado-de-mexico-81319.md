@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2013-12-19"
+last_updated: "2014-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 11 DE MARZO DE 2014.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -41,19 +43,23 @@ LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado de México y tienen como objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, en términos de los artículos 3° de la Constitución Política de los Estados Unidos Mexicanos y 5 de la Constitución Política del Estado Libre y Soberano de México, así como de la Ley General de Educación y de la Ley para la Coordinación de la Educación Superior.
+Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado de México y tienen como objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, en términos de lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley General del Servicio Profesional Docente y la Ley del Instituto Nacional para la Evaluación de la Educación.
 
 Para cumplir con lo dispuesto en la presente Ley, el Estado tomará en cuenta el carácter prioritario de la educación pública para los fines del desarrollo de la entidad.
 
-La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y el párrafo décimo del artículo 5 de la Constitución Política del Estado Libre y Soberano de México, se regulará por las leyes que rigen a dichas instituciones.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
+La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
 ###### Artículo 2.
 
 Son sujetos de las disposiciones de esta Ley:
 
-l. La Autoridad Educativa Estatal;
+I. La Autoridad Educativa Estatal;
 
 II. Las instituciones de educación pública en cualquiera de sus tipos, niveles, modalidades y vertientes a cargo del Estado;
 
@@ -107,19 +113,55 @@ XI. Instituciones de educación pública, a los centros escolares en cualquiera 
 
 XII. Organismos descentralizados, a las instituciones que prestan servicios educativos y que cuentan con personalidad jurídica y patrimonio propios;
 
-XIII. Maestro o educador, al profesional docente al servicio de la educación en el Estado;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-XIV. Educando, al alumno o estudiante del Sistema Educativo; y
+XIII. Maestro, educador, docente o profesor, al profesional al servicio de la educación en el Estado;
 
-XV. Comunidad educativa, al conjunto de personas integrado por los padres de familia o tutores, los directivos, los maestros y los alumnos de cada institución educativa.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIV. Educando, al alumno o estudiante del Sistema Educativo;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XV. Comunidad educativa, al conjunto de personas integrado por los padres de familia o tutores, los directivos, los maestros y los alumnos de cada institución educativa;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVI. Instituto Nacional para la Evaluación de la Educación, al organismo constitucional autónomo al que le corresponde coordinar el Sistema Nacional de Evaluación Educativa;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVII. Autoridades escolares, al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVIII. Ingreso al servicio, al proceso de acceso formal al Servicio Profesional Docente;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIX. Promoción, al acceso a una categoría o nivel docente superior al que se tiene, sin que ello implique necesariamente cambio de funciones, o acceso a un puesto o función de mayor responsabilidad y nivel de ingresos;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XX. Permanencia en el servicio, a la continuidad en el servicio educativo, con pleno respeto a los derechos constitucionales;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XXI. Reconocimiento, a las distinciones, apoyos y opciones de desarrollo profesional que se otorga al personal que destaque en el desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+Además de los términos anteriores serán aplicables en el Sistema Educativo Estatal los contenidos en el artículo 4 de la Ley General del Servicio Profesional Docente.
 
 ### CAPÍTULO SEGUNDO. DE LA EDUCACIÓN EN EL ESTADO DE MÉXICO
 
 #### SECCIÓN PRIMERA. DEL DERECHO A LA EDUCACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 6.
 
-En el Estado de México, todas las personas tienen derecho a recibir educación y, por lo tanto, las mismas oportunidades de acceso al Sistema Educativo con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+En el Estado de México toda persona tiene derecho a recibir educación de calidad y, por lo tanto, las mismas oportunidades de acceso al Sistema Educativo con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
 > <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2012)</small>
 
@@ -129,15 +171,19 @@ La Autoridad Educativa Estatal cuando el educando sea de nuevo ingreso, solicita
 
 Las instituciones de salud del Gobierno del Estado de México, deberán expedir sin costo alguno los certificados médicos que sean solicitados para los educandos de educación básica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 7.
 
-El Estado está obligado a prestar servicios educativos para que la población pueda cursar la educación preescolar, primaria y secundaria. Asimismo, ofrecerá la educación media superior de conformidad con lo que establezcan la Constitución Política de los Estados Unidos Mexicanos y la Ley General.
+El Estado está obligado a prestar servicios educativos de calidad que garanticen el máximo logro de aprendizaje de los educandos, para que su población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General y la presente Ley, respetando y favoreciendo el desarrollo de la población de la entidad.
 
-Además, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación inicial y la superior; apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
+Además, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación inicial, especial y superior, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de la cultura.
 
 La educación que impartan el Estado, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, es un servicio público.
 
-Estos servicios se prestarán en el marco del federalismo y en la concurrencia prevista en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS PRINCIPIOS DE LA EDUCACIÓN
 
@@ -145,9 +191,15 @@ Estos servicios se prestarán en el marco del federalismo y en la concurrencia p
 
 La educación que el Estado imparta será laica y, por lo tanto, garantizará la libertad de creencias y se mantendrá por completo ajena a cualquier doctrina religiosa.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 9.
 
-La educación que el Estado imparta será gratuita; las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo.
+La educación que el Estado imparta será gratuita. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo. La Autoridad Educativa Estatal, establecerá los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias.
+
+Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación del servicio educativo a los educandos.
+
+En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
 ###### Artículo 10.
 
@@ -169,7 +221,9 @@ II. Desarrollar programas de apoyo a los maestros que presten sus servicios en l
 
 III. Promover la prestación de servicios educativos que apoyen en forma permanente el aprendizaje y el aprovechamiento de los educandos;
 
-IV. Prestar los servicios educativos necesarios para que quienes se encuentren en condiciones de rezago concluyan su educación básica, otorgándoles facilidades de acceso, reingreso, permanencia y egreso, particularmente a las mujeres;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+IV. Prestar servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia y egreso a las mujeres;
 
 V. Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos;
 
@@ -177,7 +231,9 @@ VI. Desarrollar programas encaminados a mejorar el aprovechamiento escolar de lo
 
 VII. Promover la creación de servicios de educación media superior y superior en aquellas comunidades cuya ubicación geográfica facilite el acceso de los educandos:
 
-VIII. Fortalecer la educación abierta y a distancia como opciones educativas;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+VIII. Establecer y fortalecer los sistemas de educación abierta y a distancia como opciones educativas que determine la Autoridad Educativa Federal;
 
 IX. Promover para los educandos programas de becas y apoyos económicos con perspectiva de género;
 
@@ -185,9 +241,37 @@ X. Entregar reconocimientos a los particulares, instituciones, asociaciones y or
 
 XI. Diseñar modelos educativos complementarios que permitan diversificar la oferta educativa;
 
-XII. Promover, en su caso, en coordinación con otras dependencias y con la participación de la sociedad, programas de ayuda alimenticia, campañas de salud y demás medidas que tiendan a garantizar la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-XIII. Diseñar y aplicar programas especiales para apoyar a la población escolar afectada por contingencias naturales.
+XII. Promover, en su caso, en coordinación con otras dependencias y con la participación de la sociedad, programas de ayuda alimenticia, campañas de salud y demás medidas que tiendan a garantizar la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIII. Diseñar y aplicar programas especiales para apoyar a la población escolar afectada por contingencias naturales;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIV. Impulsar esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XV. Aplicar, en el ámbito de la competencia de la Autoridad Educativa Estatal, los programas compensatorios implementados por la Autoridad Educativa Federal a través de los recursos específicos que para tal efecto designe ésta, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de los convenios en los que se concierten las proporciones de financiamiento y las acciones específicas que la Autoridad Educativa Estatal deba realizar para reducir y superar dichos rezagos y evaluar en el ámbito de su competencia los resultados de calidad educativa de estos programas, de conformidad con los lineamientos que para tal efecto expida el Instituto Nacional para la Evaluación de la Educación;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVI. Impulsar programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos y fortalezcan el valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVII. Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia o tutores respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVIII. Fortalecer la educación especial e inicial;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIX. Realizar las demás actividades que permitan mejorar la calidad de la educación, ampliar la cobertura de los servicios educativos y alcanzar los propósitos de equidad y efectiva igualdad de oportunidades.
 
 #### SECCIÓN TERCERA. DEL CRITERIO Y LOS FINES DE LA EDUCACIÓN
 
@@ -207,21 +291,31 @@ En los contenidos regionales de los programas de educación básica se considera
 
 El maestro, con el respaldo de las instituciones educativas, los padres de familia y la sociedad en general, será agente fundamental del proceso educativo y un profesional comprometido con la educación de calidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 16.
 
-El criterio que orientará a la educación que impartan el Estado, sus organismos descentralizados y los particulares, se basará en los resultados del progreso científico; y luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra los grupos vulnerables, las mujeres, niñas y niños; debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de gobierno. Además:
+El criterio que orientará a la educación que el Estado y sus organismos descentralizados, así como la que los particulares impartan se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en todos los órdenes de gobierno. Además:
 
-l. Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+I. Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-II. Será nacional, en cuanto, sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-III. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+II. Será nacional, en cuanto sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+III. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+IV. Será de calidad, entendiéndose por ésta, a la cualidad de un sistema educativo que integra las dimensiones de relevancia, pertinencia, equidad, eficiencia, eficacia, impacto y suficiencia.
 
 ###### Artículo 17.
 
 La educación que impartan el Estado, los municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los establecidos en el segundo párrafo del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes fines:
 
-l. Contribuir al desarrollo integral de la persona para que ejerza responsablemente su libertad y sus capacidades para alcanzar una convivencia armónica y comprometida con los valores de la democracia;
+I. Contribuir al desarrollo integral de la persona para que ejerza responsablemente su libertad y sus capacidades para alcanzar una convivencia armónica y comprometida con los valores de la democracia;
 
 II. Difundir el conocimiento de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de México; fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, el conocimiento del Escudo y el Himno del Estado de México; así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del Estado y del país;
 
@@ -297,6 +391,14 @@ La Autoridad Educativa Estatal impulsará la educación en valores, promoviendo 
 
 Los valores desarrollarán la responsabilidad social y cívica de los educandos, para fortalecer su compromiso con la comunidad y promover su participación en asuntos de interés general. Asimismo, fomentarán la solución pacífica de conflictos, en el marco de una forma de vida basada en la justicia y el derecho.
 
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+Los educandos tienen derecho a recibir educación libre de violencia y acoso escolar, las instituciones del sistema educativo de la Entidad velarán por la vigencia de este derecho.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+La Autoridad Educativa Estatal vigilará que en cada escuela de educación básica y media superior se realicen, en el ámbito de sus atribuciones, las acciones necesarias para prevenir la violencia y acoso escolar, generando para ello, un programa público de sana convivencia.
+
 ### CAPÍTULO TERCERO. DE LAS AUTORIDADES EDUCATIVAS Y SUS ATRIBUCIONES
 
 #### SECCIÓN PRIMERA. DE LAS AUTORIDADES EDUCATIVAS
@@ -315,27 +417,45 @@ Corresponde a las autoridades a que se refiere el artículo anterior, el ejercic
 
 Son atribuciones exclusivas de la Autoridad Educativa Estatal las siguientes:
 
-l. Prestar los servicios de educación inicial, básica incluyendo la indígena y la especial, así como la normal y demás para la formación de maestros;
+I. Prestar los servicios de educación inicial, básica incluyendo la indígena y la especial, así como la normal y demás para la formación de maestros;
 
 II. Proponer a la Autoridad Educativa Federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de maestros;
 
 III. Ajustar el calendario escolar para la educación básica, la normal y demás para la formación de maestros, con respecto al calendario fijado por la Autoridad Educativa Federal, cuando ello resulte necesario para atender requerimientos específicos del Estado. Dicho calendario deberá contener doscientos días de clase para los educandos y será publicado en el Periódico Oficial "Gaceta del Gobierno";
 
-IV. Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+IV. Prestar los servicios de formación, actualización, capacitación y superación profesional para docentes de educación básica, de conformidad con las disposiciones generales que la autoridad educativa federal determine y conforme a lo dispuesto por la Ley General del Servicio Profesional Docente;
 
 V. Revalidar y otorgar equivalencias de estudios de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con la normatividad respectiva;
 
 VI. Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, primaria y secundaria, la normal y demás para la formación de maestros;
 
-VII. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-VIII. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
+VII. Coordinar y operar un padrón estatal de estudiantes, docentes, instituciones y centros escolares y un registro estatal de emisión, validación e inscripción de documentos académicos. Para estos efectos, la Autoridad Educativa Estatal deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la Autoridad Educativa Federal y demás disposiciones aplicables;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+VIII. Participar en la integración y operación de un Sistema Nacional de Educación Media Superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y la diversidad educativa;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+IX. Participar con la Autoridad Educativa Federal en la operación de los mecanismos de administración escolar;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+X. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XI. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 25.
 
 Son atribuciones concurrentes de la Autoridad Educativa Estatal con la Autoridad Educativa Federal las siguientes:
 
-l. Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y IV del artículo anterior, de acuerdo con las necesidades nacionales, regionales y estatales;
+I. Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y IV del artículo anterior, de acuerdo con las necesidades nacionales, regionales y estatales;
 
 II. Determinar y formular planes y programas de estudio, distintos a los previstos en la fracción I del artículo 12 de la Ley General:
 
@@ -355,9 +475,41 @@ IX. Fomentar y difundir actividades artísticas, culturales, de activación fís
 
 X. Promover e impulsar, en el ámbito de su competencia, las actividades y programas relacionados con el fomento de la lectura y el libro;
 
-XI. Vigilar el cumplimiento de la Ley General y de sus disposiciones reglamentarias; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-XII. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
+XI. Participar en las actividades tendientes a realizar evaluaciones para el ingreso, la promoción, el reconocimiento y la permanencia en el Servicio Profesional Docente, de conformidad con lo dispuesto en la Ley General del Servicio Profesional Docente;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XII. Ejecutar programas para la inducción, actualización, capacitación y superación de maestros de educación media superior, los que deberán sujetarse en lo conducente, a lo dispuesto por la Ley General del Servicio Profesional Docente;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIII. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIV. Diseñar y aplicar los instrumentos de evaluación que consideren necesarios para garantizar la calidad educativa en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita el Instituto Nacional para la Evaluación de la Educación;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XV. Promover la transparencia en las escuelas públicas y particulares en las que se imparta educación obligatoria, vigilando que se rinda ante toda la comunidad, después de cada ciclo escolar, un informe de sus actividades y rendición de cuentas, a cargo del director del plantel;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVI. Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas, conforme a las garantías procesales y sugerencias respecto del servicio público educativo;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVII. Coordinar y operar un sistema de asesoría y acompañamiento a las escuelas públicas de educación básica y media superior, como apoyo a la mejora de la práctica profesional, bajo la responsabilidad de los supervisores escolares;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVIII. Vigilar el cumplimiento de la Ley General y de sus disposiciones reglamentarias;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIX. Las demás que con tal carácter establezcan la Ley General, esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 26.
 
@@ -367,7 +519,7 @@ La Autoridad Educativa Estatal podrá celebrar convenios con la Autoridad Educat
 
 Además de las atribuciones a que se refieren los artículos 24 y 25 de esta Ley, la Autoridad Educativa Estatal tendrá las siguientes:
 
-l. Fortalecer la educación pública en el Estado;
+I. Fortalecer la educación pública en el Estado;
 
 II. Promover la educación indígena, bilingüe y bicultural, previendo lo necesario para ofrecer una adecuada preparación y capacitación a sus maestros;
 
@@ -399,11 +551,19 @@ XV. Prestar en forma coordinada con las autoridades educativas federal y municip
 
 XVI. Distribuir en forma oportuna, completa y eficiente los libros de texto gratuitos y demás materiales educativos complementarios;
 
-XVII. Publicar, previo al inicio de cada ciclo escolar, en el Periódico Oficial "Gaceta del Gobierno", la relación de las instituciones a las que se haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo, publicar la de aquéllas a las que se les revoque o retire la autorización o el reconocimiento respectivo;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVII. Publicar, previo al inicio de cada ciclo escolar, en el periódico oficial "Gaceta del Gobierno", la relación de las instituciones a las que se haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo, publicar la de aquéllas a las que se les revoque o retire la autorización o el reconocimiento respectivo.
+
+De igual manera indicará en dicha publicación los nombres de los educadores que obtengan resultados suficientes, una vez que aplique las evaluaciones, que dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por la Ley General de Educación, este ordenamiento y demás disposiciones aplicables, les correspondan.
+
+La Autoridad Educativa Estatal deberá entregar a las escuelas particulares un reporte de los resultados que hayan obtenido sus docentes y alumnos en las evaluaciones correspondientes.
 
 XVIII. Incorporar en forma progresiva la enseñanza del inglés u otro idioma extranjero, en todos los tipos y niveles educativos;
 
-XIX. Promover la transformación de las escuelas del sistema tradicional por turno en escuelas de tiempo completo, de acuerdo con la capacitación del personal docente, las condiciones presupuestales y la infraestructura física educativa;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIX. Establecer, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural, respetando los derechos de los docentes;
 
 XX. Establecer y fomentar sistemas de educación a distancia, mediante el uso de tecnologías de la información y la comunicación;
 
@@ -439,7 +599,9 @@ XXXV. Promover acciones de capacitación y difusión, dirigidas a padres de fami
 
 XXXVI. Promover la utilización de los medios de comunicación del Estado para fomentar la educación y la cultura;
 
-XXXVII. Regular los establecimientos que expenden alimentos en las instituciones de educación pública y particulares incorporadas, considerando que deben contribuir a una sana y adecuada nutrición de los educandos;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XXXVII. Vigilar que el expendio y distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela se sujete sin perjuicio del cumplimiento de otras disposiciones que resulten aplicables, a los lineamientos que para tal fin establezca la Autoridad Educativa Federal y que en la elaboración de los alimentos se cumplan los criterios nutrimentales que para tal efecto determine la Secretaría de Salud del Poder Ejecutivo Federal;
 
 XXXVIII. Coordinar acciones con las instituciones del sector salud para revisar periódicamente el tipo y calidad de los alimentos y bebidas que se expenden en las instituciones de educación pública y las particulares incorporadas;
 
@@ -457,13 +619,27 @@ XLIV. Celebrar acuerdos y convenios con la Autoridad Educativa Federal, los ayun
 
 XLV. Vigilar el cumplimiento de las políticas, planes y programas del sector, a través de revisiones y supervisiones que se realicen a las instituciones de educación pública y a las de los particulares, en todos los tipos, niveles, modalidades y vertientes;
 
-XLVI. Dictar las medidas que se estimen necesarias para resolver y atender situaciones emergentes o imprevistas que pongan en riesgo a la comunidad escolar;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XLVI. Dictar las medidas que sean necesarias para resolver situaciones emergentes o imprevistas que pongan en riesgo a la comunidad escolar, asimismo promover ante las autoridades competentes la identificación, prevención y atención de conductas delictivas que afecten la integridad física, moral y psicológica de los alumnos, maestros y demás integrantes de la comunidad escolar;
 
 XLVII. Expedir los reglamentos, decretos, acuerdos, circulares y demás disposiciones de observancia general en el sector educativo;
 
 XLVIII. Realizar acciones encaminadas a mejorar permanentemente la condición de vida para el educador; y
 
-XLIX. Las demás que establezcan la Ley General, esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XLIX. Ejecutar, en el ámbito de sus atribuciones, programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas. Tratándose de educación básica observarán los lineamientos que expida la Autoridad Educativa Federal para formular los programas de gestión escolar, mismos que tendrán como objetivos:
+
+a) Usar los resultados de la evaluación como retroalimentación para la mejora continua en cada ciclo escolar.
+
+b) Desarrollar una planeación anual de actividades, con metas verificables y puestas en conocimiento de la autoridad educativa estatal y la comunidad escolar.
+
+c) Administrar en forma transparente y eficiente los recursos que reciba para mejorar su infraestructura; comprar materiales educativos; resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia o tutores, bajo el liderazgo del director se involucren en la resolución de los retos que cada escuela enfrenta.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+L. Las demás que establezcan la Ley General, esta Ley y otras disposiciones aplicables.
 
 #### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DE LA AUTORIDAD EDUCATIVA MUNICIPAL
 
@@ -471,7 +647,9 @@ XLIX. Las demás que establezcan la Ley General, esta Ley y otras disposiciones 
 
 La Autoridad Educativa Municipal podrá:
 
-l. Promover y prestar servicios educativos de cualquier tipo, nivel y modalidad, con sujeción a las disposiciones aplicables al servicio educativo de que se trate, en coordinación con la Autoridad Educativa Estatal;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+I. Promover y prestar servicios educativos de cualquier tipo o modalidad, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal;
 
 II. Celebrar convenios con la Autoridad Educativa Estatal para coordinar, unificar y realizar actividades educativas;
 
@@ -497,41 +675,63 @@ XII. Promover y apoyar programas y actividades para abatir el rezago educativo;
 
 XIII. Aportar a la Autoridad Educativa Estatal predios con la superficie suficiente para la edificación de nuevas escuelas;
 
-XIV. Coadyuvar con la Autoridad Educativa Estatal a fin de que los particulares que ofrecen servicios educativos cuenten con la autorización o reconocimiento de validez oficial de estudios correspondientes; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-XV. Vigilar, en el ámbito de su competencia, la aplicación de la presente Ley.
+XIV. Coadyuvar con la Autoridad Educativa Estatal, a fin de que los particulares que ofrecen servicios educativos cuenten con la autorización o reconocimiento de validez oficial de estudios correspondientes;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XV. Ejecutar, en el ámbito de sus atribuciones, programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas. Tratándose de educación básica observarán los lineamientos que expida la Autoridad Educativa Federal para formular los programas de gestión escolar, mismos que tendrán como objetivos los señalados en la fracción XLIX del artículo anterior;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XVI. Vigilar, en el ámbito de su competencia, la aplicación de la presente Ley.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+Para el ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
 
 ### CAPÍTULO CUARTO. DEL SISTEMA EDUCATIVO ESTATAL
 
 #### SECCIÓN PRIMERA. DE LA INTEGRACIÓN DEL SISTEMA EDUCATIVO ESTATAL
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 29.
 
 Integran el Sistema Educativo:
 
-I. Los educandos y los maestros;
+I. Los educandos, educadores y los padres de familia o tutores;
 
-II. Las autoridades educativas y su estructura administrativa;
+II. Las autoridades educativas estatal y municipal;
 
-III. Las instituciones educativas del Estado, de sus organismos descentralizados y de los municipios;
+III. El Servicio Profesional Docente;
 
-IV. Los establecimientos de los particulares con autorización o con reconocimiento de validez oficial de estudios;
+IV. Los planes, programas, métodos y materiales educativos;
 
-V. Las instituciones de educación superior a las que la ley otorga autonomía;
+V. Las instituciones educativas del Estado y de sus organismos descentralizados;
 
-VI. El Consejo Estatal Técnico de la Educación;
+VI. Las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios;
 
-VII. El Instituto de Evaluación Educativa del Estado de México;
+VII. Las instituciones de educación superior a las que la ley otorga autonomía;
 
-VIII. Las Comisiones Estatales de Planeación y Programación de la Educación Media Superior y de Planeación de la Educación Superior; y
+VIII. La evaluación educativa;
 
-IX. Los planes, programas, métodos, libros de texto, materiales educativos y cualquier otro elemento que se utilice para la impartición de la educación.
+IX. El Sistema Estatal de Información y Gestión Educativa;
+
+X. La infraestructura educativa.
+
+En el Sistema Educativo Estatal deberá asegurarse la participación directa de todas las personas involucradas en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, docentes, padres de familia o tutores, para alcanzar los fines a que se refiere el artículo 17 de esta Ley.
 
 #### SECCIÓN SEGUNDA. DE LA CALIDAD EN LA EDUCACIÓN
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 30.
 
-La calidad en la educación implica un proceso de mejora continua del Sistema Educativo, a través de acciones corresponsables de las autoridades educativas, los educadores, los padres de familia y los diferentes sectores de la sociedad, que conduzcan al logro de los fines establecidos en esta Ley.
+La calidad en la educación es la cualidad del Sistema Educativo Estatal que integra las dimensiones de relevancia, pertinencia, equidad, eficiencia, eficacia, impacto y suficiencia.
+
+La calidad en la educación implica un proceso de mejora continua del Sistema Educativo, a través de acciones corresponsables de las autoridades educativas, los educadores, los padres de familia o tutores y los diferentes sectores de la sociedad, que conduzcan al logro de los fines establecidos en esta Ley.
 
 ###### Artículo 31.
 
@@ -541,7 +741,7 @@ La Autoridad Educativa Estatal orientará el Sistema Educativo con criterios de 
 
 Para satisfacer las necesidades de la población y elevar la calidad educativa, las autoridades educativas promoverán acciones para:
 
-l. Establecer y modernizar los centros educativos de todos los tipos, niveles y modalidades, a fin de que éstos tengan las condiciones físicas que establece la Ley General de la Infraestructura Física Educativa y la normatividad que de ésta derive;
+I. Establecer y modernizar los centros educativos de todos los tipos, niveles y modalidades, a fin de que éstos tengan las condiciones físicas que establece la Ley General de la Infraestructura Física Educativa y la normatividad que de ésta derive;
 
 II. Dotar a los planteles educativos con instalaciones, personal y equipo necesarios y adecuados para atender satisfactoriamente la demanda educativa;
 
@@ -565,31 +765,121 @@ XI. Disponer de las herramientas tecnológicas que permitan al educando tener ac
 
 XII. Simplificar los procedimientos administrativos en la prestación de servicios educativos.
 
-#### SECCIÓN TERCERA. DE LA EVALUACIÓN DEL SISTEMA EDUCATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2014)</small>
+
+#### SECCIÓN TERCERA. DEL SERVICIO PROFESIONAL DOCENTE Y DE LA EVALUACIÓN EDUCATIVA
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+APARTADO PRIMERO
+
+DEL SERVICIO PROFESIONAL DOCENTE
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 33.
 
-La evaluación es un elemento integrador y orientador del proceso educativo que se traduce en una actividad sistemática y permanente, para obtener un juicio valorativo integral.
+El Servicio Profesional Docente es el conjunto de actividades y mecanismos para el ingreso, promoción, reconocimiento y permanencia en el servicio público educativo y el impulso a la formación continua, con la finalidad de garantizar la idoneidad de los conocimientos y capacidades del personal docente y del personal con funciones de dirección y supervisión en la educación básica y media superior que imparta el Estado y sus organismos descentralizados.
+
+Las funciones docentes de dirección de una escuela o de supervisión de la educación básica y media superior, impartida por el Estado y sus organismos descentralizados, deben orientarse a brindar educación de calidad y al cumplimiento de sus fines. Quienes desempeñen dichas tareas deben reunir las cualidades personales y competencias profesionales para que dentro de los distintos contextos sociales y culturales promuevan el máximo logro de aprendizaje de los educandos, conforme a los perfiles, parámetros e indicadores que garanticen la idoneidad de los conocimientos, aptitudes y capacidades que correspondan.
+
+El Servicio Profesional Docente tiene los propósitos que señala el artículo 13 de la Ley General en la materia.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 34.
 
-La Autoridad Educativa Estatal evaluará de manera continua al Sistema Educativo, sin perjuicio de la que realice la Autoridad Educativa Federal en su respectivo ámbito de competencia. Los responsables de las instituciones educativas tomarán los resultados de las evaluaciones como base para decidir las acciones que habrán de realizarse para mejorar la calidad educativa.
+Los procedimientos para el ingreso, promoción, permanencia y reconocimiento en el servicio de educación básica y media superior que imparta el Estado y sus organismos descentralizados se llevarán a cabo de conformidad con los términos y criterios que establece la Ley General del Servicio Profesional Docente, respetando los derechos de los docentes. Quienes participen en estos actos en forma distinta a lo establecido a las disposiciones legales aplicables, autoricen o efectúen un pago o contraprestación u obtengan algún beneficio incurrirán en responsabilidad y serán acreedores a las sanciones correspondientes. Independientemente de lo anterior, los efectos legales derivados de estos hechos serán nulos.
+
+Las autoridades educativas y los organismos descentralizados observarán en la realización de los concursos el cumplimiento de los principios de legalidad, certeza, imparcialidad, objetividad y transparencia. Las organizaciones sindicales reconocidas, para los efectos del ejercicio de sus funciones de atención laboral de sus agremiados, serán informadas del inicio de los procesos de promoción y recibirán facilidades para la realización de tareas de observación.
+
+Los movimientos laterales de reconocimiento en el servicio se llevarán a cabo mediante procesos de evaluación objetivos y transparentes que la Autoridad Educativa Estatal realice, de conformidad con la Ley General del Servicio Profesional Docente, respetando los derechos de los docentes.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 35.
 
-La Autoridad Educativa Estatal contará con el Instituto de Evaluación Educativa del Estado de México, que será un organismo público descentralizado con autonomía técnica, personalidad jurídica y patrimonio propios, sectorizado a la Secretaría y tendrá por objeto planear, programar, dirigir y ejecutar las acciones específicas que sean necesarias para la evaluación continua del Sistema Educativo, que contribuyan a la eficiencia, eficacia y calidad del proceso educativo.
+Para el desarrollo profesional de los docentes, la Autoridad Educativa Estatal y los organismos descentralizados establecerán periodos mínimos de permanencia en las escuelas y de procesos ordenados para la autorización de cualquier cambio de escuela, comunicando a las representaciones sindicales. Asimismo, en su caso, podrán suscribir convenios para atender solicitudes de cambios de adscripción del personal en distintas entidades federativas.
+
+La Autoridad Educativa Estatal y los organismos descentralizados tomarán las medidas necesarias a efecto de que los cambios de escuela no se produzcan durante el ciclo escolar, salvo por causa de fuerza mayor y conforme a la legislación aplicable.
+
+Los cambios de escuela que no cuenten con la autorización correspondiente serán nulos.
+
+Al término de la vigencia de una licencia que trascienda el ciclo escolar, el personal podrá ser readscrito conforme a las necesidades del servicio, respetando sus derechos laborales.
+
+El otorgamiento de licencias por razones de carácter personal no deberá afectar la continuidad del servicio educativo, solo por excepción, en casos debidamente justificados, estas licencias se podrán conceder durante el ciclo escolar que corresponda.
+
+En cada escuela deberá integrarse una comunidad de docentes que trabaje armónicamente y cumpla con el perfil adecuado.
+
+La Autoridad Educativa Estatal y los organismos descentralizados darán aviso a los directores de las escuelas del perfil de los docentes que pueden ser susceptibles de adscripción. Por su parte, los directores deberán verificar que éstos docentes cumplan con el perfil para los puestos que deben ser cubiertos.
+
+La Autoridad Educativa Estatal y los organismos descentralizados estarán obligados a revisar la adscripción de los docentes cuando los directores señalen incompatibilidad del perfil con las necesidades de la escuela, y efectuar el reemplazo de manera inmediata de acreditarse dicha incompatibilidad.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+APARTADO SEGUNDO
+
+DE LA EVALUACIÓN EDUCATIVA
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 36.
 
-Las instituciones educativas establecidas por el Estado, los municipios, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, brindarán al Instituto todas las facilidades y colaboración para la evaluación del Sistema Educativo.
+La evaluación es la acción de emitir juicios de valor que resultan de comparar los resultados de una medición u observación de componentes, procesos o resultados del Sistema Educativo con un referente previamente establecido.
+
+Las evaluaciones que en el ámbito de su competencia lleve a cabo la Autoridad Educativa Estatal serán sistemáticas, integrales, obligatorias y periódicas y deberán considerar los contextos demográficos, social y económico de los agentes del Sistema Educativo Nacional, los recursos o insumos humanos, materiales y financieros destinados a éste y demás condiciones que intervengan en el proceso de enseñanza aprendizaje. Sus resultados serán tomados como base para que las autoridades educativas, en el ámbito de su competencia, adopten las medidas procedentes.
+
+La evaluación del Sistema Educativo Estatal, como parte integrante del Sistema Educativo Nacional, tendrá entre otros los siguientes fines:
+
+I. Contribuir a mejorar la calidad de la educación;
+
+II. Contribuir a la formulación de política educativa y diseño e implementación de los planes y programa (sic) que de ellas deriven;
+
+III. Ofrecer información sobre el grado de cumplimiento de los objetivos de mejora establecidos por la Autoridad Educativa Estatal;
+
+IV. Mejorar la gestión escolar y los procesos educativos;
+
+V. Fomentar la transparencia y la rendición de cuentas del Sistema Educativo Estatal.
+
+La evaluación sobre el tránsito de alumnos de un grado, nivel o tipo educativos a otro, certificación de egresados, asignación de estímulos y las decisiones, respecto de personas o instituciones en lo particular, basadas en los resultados de los procesos de evaluación para el reconocimiento, será competencia de las autoridades educativas y de los organismos descentralizados conforme a sus atribuciones.
+
+La evaluación interna deberá ser una actividad permanente, de carácter formativo y tendiente al mejoramiento de la práctica profesional de los docentes y al avance continuo de la escuela y de la zona escolar.
+
+Dicha evaluación se llevará a cabo bajo la coordinación y liderazgo del director. Los docentes tendrán la obligación de colaborar en esta actividad.
+
+Los resultados de la evaluación interna deberán dar lugar al establecimiento de compromisos verificables de mejora. En ningún momento podrán ser causal de procedimientos de sanción ni tener consecuencias administrativas o laborales.
+
+La evaluación interna se desarrollará conforme a las disposiciones contenidas en la Ley General del Servicio Profesional Docente.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 37.
 
-El Instituto dará a conocer a los maestros, educandos, padres de familia o tutores, y a la sociedad en general, los resultados de las evaluaciones que realice y la información que permita medir el desarrollo y los avances de la educación.
+Las autoridades educativas, los organismos descentralizados, las autoridades escolares y los particulares con autorización o reconocimiento de validez oficial de estudios tendrán las obligaciones que establece la Ley del Instituto Nacional para la Evaluación de la Educación.
+
+Las autoridades educativas y los organismos descentralizados, en el ámbito de su competencia, garantizarán que la evaluación del personal docente y del personal con funciones de dirección y supervisión contribuya con la calidad de la educación y sea congruente con los objetivos del Sistema Educativo y con la evaluación de los educandos y las escuelas.
+
+El ingreso, promoción, permanencia y reconocimiento en el Servicio Profesional Docente será evaluado, conforme a los perfiles, parámetros e indicadores que establece la Ley General en la materia.
+
+La Autoridad Educativa Estatal y los organismos descentralizados, en el ámbito de su competencia, propondrán perfiles, parámetros e indicadores, de conformidad con la Ley General del Servicio Profesional Docente.
+
+Para alcanzar los propósitos del Servicio Profesional Docente deben desarrollarse perfiles, parámetros e indicadores que sirvan de referente para la buena práctica profesional. Para tal efecto es necesario que los perfiles, parámetros e indicadores permitan al menos lo establecido en el artículo 14 de la Ley General del Servicio Profesional Docente.
+
+La Autoridad Educativa Estatal y los organismos descentralizados propiciarán las condiciones para generar certeza y confianza en el uso de los perfiles, parámetros e indicadores autorizados, conforme a la Ley General del Servicio Profesional Docente, a efecto de que estos sean reconocidos por sus destinatarios y por la sociedad. Asimismo, asegurarán su difusión para que el personal docente y el personal con funciones de dirección y supervisión los conozcan a fondo, comprendan su propósito y sentido y los considere como un referente imprescindible para su trabajo.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 38.
 
-La evaluación de los educandos comprenderá la medición en lo individual de los conocimientos, las habilidades, las destrezas y, en general, del logro de los propósitos establecidos en los planes y programas de estudio. La evaluación servirá también de diagnóstico para estudios subsecuentes.
+Las instituciones educativas establecidas por el Estado, los municipios, los organismos descentralizados, los particulares con autorización o reconocimiento de validez oficial de estudios, así como las autoridades escolares, otorgarán a las autoridades educativas y al Instituto Nacional para la Evaluación de la Educación todas las facilidades y colaboración para la evaluación del Sistema Educativo.
+
+Para ello, proporcionarán oportunamente toda la información que se les requiera; tomarán las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos educativos; facilitarán que el Instituto Nacional para la Evaluación de la Educación las autoridades educativas, los evaluadores certificados y los aplicadores autorizados para tal efecto, realicen las actividades que les corresponden conforme a la normativa aplicable.
+
+El Instituto Nacional para la Evaluación de la Educación y la Autoridad Educativa Estatal darán a conocer a los maestros, alumnos, padres de familia o tutores y a la sociedad en general, los resultados que permitan medir el desarrollo y los avances de la educación nacional y en la Entidad.
+
+Las evaluaciones a las que se refiere este Apartado incluyen también las señaladas en la fracción XIII del artículo 25 de la presente Ley.
+
+Los procesos de evaluación realizados en contravención a los lineamientos emitidos por el Instituto Nacional para la Evaluación de la Educación serán nulos.
 
 ###### Artículo 39.
 
@@ -617,11 +907,15 @@ Adicionalmente, se incorporarán en los planes de estudios, según corresponda, 
 
 ###### Artículo 44.
 
-El Estado, con sujeción a las disposiciones de ingresos y gasto público que resulten aplicables, concurrirá con la Autoridad Educativa Federal al financiamiento de la educación pública y de los servicios educativos.
+El Estado en concurrencia con el Ejecutivo Federal, así como los gobiernos de los municipios, de conformidad con lo establecido en sus respetivas (sic) Leyes de Ingresos, Presupuestos de Egresos, y demás normatividad aplicable, concurrirán en el financiamiento educativo e invertirán recursos económicos que propician el funcionamiento adecuado de los servicios educativos públicos para la educación básica y media superior en la entidad.
 
 Los recursos federales recibidos por el Estado no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la Entidad.
 
 En el evento de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades administrativas, civiles y penales que procedan.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+El Estado otorgará las facilidades necesarias para que el Ejecutivo Federal verifique la correcta aplicación de dichos recursos, así como el funcionamiento y evaluación de las escuelas e instituciones para hacer efectiva la rendición de cuentas a la sociedad, respecto de las políticas, acciones y el uso del presupuesto asignado al sector educativo.
 
 ###### Artículo 45.
 
@@ -630,6 +924,10 @@ Conforme a las disposiciones legales aplicables, el Estado proveerá lo conducen
 ###### Artículo 46.
 
 El monto del financiamiento público deberá mantenerse creciente en términos reales y en recursos para infraestructura, mantenimiento y becas.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+El Ejecutivo del Estado, al presentar ante la Legislatura el proyecto de presupuesto de egresos para el ejercicio fiscal correspondiente, deberá incluir los recursos suficientes para fortalecer la autonomía de gestión escolar.
 
 ###### Artículo 47.
 
@@ -645,9 +943,11 @@ La educación que imparten el Estado, sus organismos descentralizados y los part
 
 A) Tipos y niveles:
 
-l. Tipo básico: Está compuesto por los niveles de preescolar, primaria y secundaria;
+I. Tipo básico: Está compuesto por los niveles de preescolar, primaria y secundaria;
 
-II. Tipo medio superior: Comprende el nivel de bachillerato y los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes como antecedente; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+II. Tipo medio superior: Comprende el nivel de bachillerato y los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes. Se organizará bajo el principio de respeto a la diversidad, a través del Sistema Nacional de Educación Media Superior, el cual establecerá un marco curricular común a nivel nacional y la revalidación y reconocimiento de estudios entre las opciones que ofrece este tipo educativo;
 
 III. Tipo superior: Es el que se imparte después del bachillerato o de sus equivalentes. Está compuesto por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades.
 
@@ -663,7 +963,7 @@ IV. A distancia.
 
 C) Vertientes:
 
-l. En preescolar: indígena, especial y general;
+I. En preescolar: indígena, especial y general;
 
 II. En primaria: indígena, especial y general;
 
@@ -707,13 +1007,23 @@ La Autoridad Educativa Estatal propondrá a la Autoridad Educativa Federal la in
 
 Es responsabilidad de la Autoridad Educativa Estatal ampliar la cobertura y mejorar la calidad de la educación básica, así como abatir el rezago educativo, por lo que, en coordinación con las autoridades educativas federal y municipales, realizará la planeación de las acciones necesarias para su adecuada atención.
 
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+En el ámbito de la educación básica, la Autoridad Educativa Estatal tendrá las atribuciones a que se refiere la Ley General del Servicio Profesional Docente.
+
 ###### Artículo 58.
 
 Las autoridades educativas estatal y municipales realizarán acciones tendientes a procurar la permanencia del educando en el Sistema Educativo.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 59.
 
-En los servicios educativos se tomarán las medidas necesarias para preservar la integridad física, psicológica y social de los educandos, a partir del respeto a su dignidad y autoestima.
+En la impartición de educación para menores de edad se tomarán medidas que aseguren a alumnos la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+
+La Autoridad Educativa Estatal brindará cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
+
+En caso de que los educadores, así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los estudiantes, lo harán del conocimiento inmediato de la autoridad correspondiente, para su protección.
 
 ###### Artículo 60.
 
@@ -741,35 +1051,57 @@ La educación básica indígena deberá adaptarse a las características de cada
 
 Para favorecer el desarrollo de la educación indígena, la Autoridad Educativa Estatal promoverá:
 
-l. La formación docente para los distintos niveles educativos; y
+I. La formación docente para los distintos niveles educativos; y
 
 II. La investigación, difusión y respeto de la realidad sociocultural y etnolingüística de los pueblos indígenas.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+En el caso de docentes de educación indígena que no tengan licenciatura como nivel mínimo de formación deberán participar en los programas de capacitación que diseñe la autoridad educativa y certificar su bilingüismo en la lengua indígena que corresponda y en español, asimismo conocer la cultura del pueblo o comunidad indígena en el que se desempeñan.
 
 APARTADO SEGUNDO
 
 DE LA EDUCACIÓN ESPECIAL
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 65.
 
-La educación especial está destinada a menores de edad con discapacidades transitorias o definitivas, así como con capacidades y aptitudes sobresalientes. Procurará atender a los educandos de manera adecuada a sus propias condiciones, con equidad social.
+La educación especial está destinada a personas con discapacidad transitoria o definitiva, así como aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género. Para tal efecto, la Autoridad Educativa Estatal, en el ámbito de su competencia, destinará recursos, de acuerdo con la disponibilidad presupuestal.
+
+La educación especial incluye la orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 66.
 
-Tratándose de menores de edad con discapacidades transitorias o definitivas, así como con capacidades y aptitudes sobresalientes, la educación especial propiciará su integración a los planteles de educación básica regular, mediante estrategias y apoyos específicos. Para quienes no logren esa integración, se procurará la satisfacción de sus necesidades básicas de aprendizaje para la autónoma convivencia social y productiva.
+Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+
+Los menores a que se refiere el párrafo anterior deberán contar con las instalaciones y material didáctico adecuados a su condición, por lo que se llevarán a cabo las habilitaciones físicas correspondientes. La integración de los grupos se hará con el número de educandos que permita darles una atención especializada.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 67.
 
-Los servicios de educación para menores de edad con discapacidades transitorias o definitivas, así como con capacidades y aptitudes sobresalientes, deberán contar con las instalaciones y material didáctico adecuados a su condición, por lo que se llevarán a cabo las habilitaciones físicas correspondientes. La integración de los grupos se hará con el número de educandos que permita darles una atención especializada.
+Para la identificación, evaluación, atención educativa, acreditación y certificación de alumnos con capacidades y aptitudes sobresalientes, las instituciones que integran el Sistema Educativo Estatal se sujetarán a los lineamientos establecidos por la Autoridad Educativa Federal en la materia, con base en la disponibilidad presupuestal.
 
-La educación especial incluye la orientación a los padres o tutores, así como la capacitación a los maestros y personal de escuelas de educación básica regular que integren a educandos con necesidades especiales.
+Las instituciones de educación superior autónomas por ley podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a estudiantes con capacidades y aptitudes sobresalientes.
 
 APARTADO TERCERO
 
 DE LA EDUCACIÓN PARA LOS ADULTOS Y DE LA FORMACIÓN PARA EL TRABAJO
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 68.
 
-La educación para los adultos está dirigida a las personas de quince años o más que no hayan cursado o concluido la educación primaria o secundaria y considera la alfabetización, la educación primaria y la secundaria; asimismo, comprende la capacitación para el trabajo, con las particularidades adecuadas a dicha población.
+La educación para los adultos está dirigida a las personas de quince años o más que no hayan cursado o concluido la educación primaria, o secundaria y considera la alfabetización, la educación primaria, secundaria y media superior. Asimismo, comprende la capacitación para el trabajo, con las particularidades adecuadas a dicha población.
+
+Las personas atendidas por la educación para adultos podrán acreditar los conocimientos adquiridos mediante evaluaciones parciales o globales conforme a los procedimientos establecidos por la Autoridad Educativa Federal.
+
+La Autoridad Educativa Estatal organizará servicios permanentes de promoción y asesoría de educación para adultos y dará las facilidades necesarias a sus trabajadores, trabajadoras y familiares para estudiar y acreditar la educación primaria, secundaria y media superior.
+
+Quienes participen voluntariamente brindando asesoría en tareas relativas a la educación para los adultos tendrán derecho a que se les acredite como servicio social.
 
 ###### Artículo 69.
 
@@ -805,7 +1137,7 @@ Tratándose de educandos con discapacidades o con necesidades educativas especia
 
 La educación física que se imparta en el Sistema Educativo, tendrá los siguientes propósitos:
 
-l. Estimular la disciplina del ejercicio físico y la práctica del deporte;
+I. Estimular la disciplina del ejercicio físico y la práctica del deporte;
 
 II. Concientizar sobre la preservación de la salud;
 
@@ -821,31 +1153,29 @@ La educación artística comprende la formación en distintas expresiones artís
 
 La Autoridad Educativa Estatal promoverá una educación artística que fomente y desarrolle la sensibilidad y la capacidad creativa de los educandos que valore y proteja el patrimonio cultural, material y simbólico de las diversas comunidades que integran el Estado de México.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 11 DE MARZO DE 2014)</small>
+
 APARTADO QUINTO
 
 DEL CONSEJO ESTATAL TÉCNICO DE LA EDUCACIÓN
 
 ###### Artículo 76.
 
-La Autoridad Educativa Estatal contará con un Consejo Técnico de la Educación como órgano de consulta, que tendrá como funciones:
-
-l. Realizar investigaciones, estudios y análisis de carácter técnico-pedagógico acerca de planes y programas de estudio, contenidos, métodos, materiales de estudio, materiales didácticos y de apoyo al proceso educativo, métodos e instrumentos de evaluación, diseño de espacios, mobiliario, equipos y, en general, de todos los elementos que integran el currículo de la educación básica y los factores que afectan la calidad de los servicios;
-
-II. Hacer un seguimiento permanente, en el ámbito de su competencia, del funcionamiento y calidad de los servicios de educación básica así como de sus resultados, y proponer a la autoridad educativa que corresponda las medidas y reformas de carácter técnico que consideren pertinentes; y
-
-III. Emitir opinión fundada respecto a planes y programas de estudio que proponga la autoridad competente, las actualizaciones de libros de texto, los libros y materiales didácticos y los contenidos educativos.
-
-Su integración, organización y funcionamiento se regirán por el reglamento respectivo.
+(DEROGADO, G.G. 11 DE MARZO DE 2014)
 
 ###### Artículo 77.
 
 La educación de tipo medio superior es la que se imparte después de la secundaria, tiene por objeto propiciar la adquisición de las competencias necesarias para acceder a la educación superior o, en su caso, al sector productivo. La Autoridad Educativa Estatal promoverá la ampliación progresiva de su cobertura para responder a la demanda de este servicio educativo.
 
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+En el ámbito de la educación media superior, la Autoridad Educativa Estatal y los organismos descentralizados, tendrán las atribuciones a que se refiere la Ley General del Servicio Profesional Docente.
+
 ###### Artículo 78.
 
 La educación media superior tiene como objetivos:
 
-l. Articular los conocimientos y aprendizajes de los niveles previos con los de la enseñanza superior;
+I. Articular los conocimientos y aprendizajes de los niveles previos con los de la enseñanza superior;
 
 II. Consolidar e integrar el conjunto de conocimientos que permitan al estudiante desarrollar habilidades de investigación, comunicación y pensamiento crítico, así como aptitudes que enriquezcan su capacidad para tomar decisiones;
 
@@ -863,7 +1193,7 @@ Forman parte de la educación del tipo medio superior del Sistema Educativo, las
 
 La educación media superior permite a los alumnos:
 
-l. Transitar a la educación superior en la vertiente de bachillerato general;
+I. Transitar a la educación superior en la vertiente de bachillerato general;
 
 II. Incorporarse al mercado laboral en la vertiente de profesional medio; o
 
@@ -889,7 +1219,7 @@ La Autoridad Educativa Estatal integrará una Comisión Estatal para la Planeaci
 
 ###### Artículo 85.
 
-La educación de tipo superior es la que se imparte después del bachillerato o sus equivalentes, tiene por objeto preservar, generar, transmitir y difundir los conocimientos humanísticos, científicos y tecnológicos, a fin de formar a los profesionales requeridos para el desarrollo estatal y nacional.
+La educación de tipo superior es la que se imparte después del bachillerato o sus equivalentes, tiene por objeto preservar, generar, transmitir y difundir los conocimientos humanísticos, científicos y tecnológicos, a fin de formar a los profesionales requeridos para el desarrollo estatal y nacional. Su organización y funcionamiento se hará en términos de la Ley para la Coordinación de la Educación Superior.
 
 ###### Artículo 86.
 
@@ -899,7 +1229,7 @@ Forman parte de la educación de tipo superior los organismos descentralizados q
 
 La educación de tipo superior en el Sistema Educativo comprende:
 
-l. El técnico superior universitario, que forma al estudiante para el ejercicio de una actividad técnica y constituye un nivel de alta calificación;
+I. El técnico superior universitario, que forma al estudiante para el ejercicio de una actividad técnica y constituye un nivel de alta calificación;
 
 II. La licenciatura, que forma al estudiante para el ejercicio de una profesión, dotándolo de principios e instrumentos de carácter teórico y práctico;
 
@@ -913,7 +1243,7 @@ V. El doctorado, que tiene como finalidad profundizar y especializar los conocim
 
 La educación superior que imparta la Autoridad Educativa Estatal directamente o a través de sus organismos descentralizados, tendrá las finalidades siguientes:
 
-l. Formar profesionales para satisfacer las necesidades sociales, económicas, culturales y científicas del desarrollo estatal y nacional;
+I. Formar profesionales para satisfacer las necesidades sociales, económicas, culturales y científicas del desarrollo estatal y nacional;
 
 II. Impulsar la formación integral del individuo a través de planes y programas de estudio que permitan incorporar oportunamente los descubrimientos científicos e innovaciones tecnológicas para atender las transformaciones y necesidades de su entorno, propiciando en el educando un sentido crítico y propositivo;
 
@@ -928,6 +1258,8 @@ V. Investigar, extender y difundir la cultura, así como preservar los valores y
 Los planes y programas de educación superior que se apliquen en las instituciones de educación pública, de los organismos descentralizados del Estado, o de los particulares con reconocimiento de validez oficial de estudios, serán los aprobados por las autoridades educativas federal y estatal en sus respectivos ámbitos de competencia.
 
 #### SECCIÓN QUINTA. DEL FINANCIAMIENTO DE LA EDUCACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 90.
 
@@ -959,9 +1291,11 @@ Los educandos y pasantes beneficiados directamente por los servicios educativos 
 
 El servicio social se efectuará preferentemente en actividades relacionadas con la formación profesional de los estudiantes y con una orientación de beneficio social.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 96.
 
-La Autoridad Educativa Estatal podrá equiparar al servicio social con otras prácticas, tales como las estadías y la asesoría en tareas relativas a la educación para los adultos, en términos de las disposiciones legales aplicables.
+La Autoridad Educativa Estatal podrá equiparar al servicio social con otras prácticas, tales como las estadías y la asesoría, en términos de las disposiciones legales aplicables.
 
 #### SECCIÓN SEGUNDA. DE LA EDUCACIÓN INICIAL
 
@@ -983,7 +1317,7 @@ La Autoridad Educativa Estatal impulsará la vinculación de las instituciones d
 
 La Autoridad Educativa Estatal, en coordinación con la Autoridad Educativa Federal y la Autoridad Educativa Municipal, deberá:
 
-l. Promover, fomentar y coordinar acciones programáticas que vinculen la planeación institucional e interinstitucional de la educación media superior con la superior, así como con los objetivos, lineamientos y prioridades que demande el desarrollo integral del Estado;
+I. Promover, fomentar y coordinar acciones programáticas que vinculen la planeación institucional e interinstitucional de la educación media superior con la superior, así como con los objetivos, lineamientos y prioridades que demande el desarrollo integral del Estado;
 
 II. Auspiciar la celebración de convenios para el fomento y desarrollo de la educación media superior y superior;
 
@@ -995,21 +1329,31 @@ IV. Realizar las demás acciones previstas en esta Ley y otras disposiciones apl
 
 El maestro es promotor, coordinador y agente directo del proceso educativo. Deben proporcionársele los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 102.
 
-Para ejercer la docencia en instituciones establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, los maestros deberán satisfacer los requisitos que señale la autoridad educativa competente y, en su caso, acreditar el examen de oposición.
+Para ejercer la docencia en instituciones establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, los maestros deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes y, para la educación básica y media superior deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
 
-Se requerirá que quienes desempeñen esa labor cuenten con estudios concluidos del nivel licenciatura o su equivalente y satisfagan los requisitos establecidos en las demás disposiciones legales aplicables.
+La Autoridad Educativa Estatal, de conformidad con lo dispuesto en la Ley General del Servicio Profesional Docente establecerá la permanencia de los docentes frente a grupo, respetando sus derechos, con la posibilidad para éstos de obtener mejores condiciones y mayor reconocimiento social.
+
+Para garantizar la calidad de la educación obligatoria brindada por los particulares, las autoridades educativas, en el ámbito de sus atribuciones, evaluarán el desempeño de los maestros que prestan sus servicios en estas instituciones. Para tal efecto, dichas autoridades deberán aplicar evaluaciones del desempeño, derivadas de los procedimientos análogos a los determinados por los lineamientos emitidos por el Instituto Nacional para la Evaluación de la Educación, para evaluar el desempeño de los docentes en educación básica y media superior en instituciones públicas.
+
+Las autoridades educativas otorgarán la certificación correspondiente a los maestros que obtengan resultados satisfactorios y ofrecerán cursos de capacitación y programas de regularización a los que presenten deficiencias, para lo cual las instituciones particulares otorgarán las facilidades necesarias a su personal.
+
+El Estado otorgará un salario profesional digno que permita al profesorado de los planteles del propio Estado alcanzar un nivel de vida decoroso en lo individual y para su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna, así como disponer del tiempo necesario para la preparación de las clases que impartan y para realizar actividades destinadas a su desarrollo personal y profesional.
 
 ###### Artículo 103.
 
-La Autoridad Educativa Estatal constituirá el Sistema de Formación, Actualización, Capacitación y Superación Profesional de los Maestros, que formará parte del Sistema Nacional, con las siguientes finalidades:
+La Autoridad Educativa Estatal con base en lo establecido en la Ley General del Servicio Profesional Docente y demás normatividad aplicable, desarrollará en la entidad el proceso de formación, actualización, capacitación y superación profesional para docentes que tendrá las siguientes finalidades:
 
-l. La formación con nivel de licenciatura de los maestros que requiera el Sistema Educativo;
+I. La formación con nivel de licenciatura de los maestros que requiera el Sistema Educativo;
 
 II. La nivelación profesional, para la acreditación con grado de licenciatura de los educadores en servicio;
 
-III. La actualización y superación profesional de los maestros en servicio, estará determinada por las necesidades que se desprendan del ejercicio de la docencia y los resultados de las evaluaciones;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+III. La formación continua, la actualización de conocimientos y superación de docentes en servicio, citados en la fracción anterior. El cumplimiento de estas finalidades, se sujetará en lo conducente a los lineamientos, medidas y demás acciones que resulten de la aplicación de la Ley General del Servicio Profesional Docente, respetando los derechos de los docentes;
 
 IV. La realización de programas de especialización, maestría y doctorado, adecuados a las necesidades del Sistema Educativo; y
 
@@ -1045,9 +1389,31 @@ La Autoridad Educativa Estatal determinará la matrícula de las escuelas normal
 
 Las escuelas del Sistema Educativo deberán colaborar con las instituciones formadoras de maestros, en el desarrollo de prácticas y proyectos educativos que coadyuven a la formación profesional de los futuros maestros.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 109.
 
-La Autoridad Educativa Estatal desarrollará programas de capacitación y actualización de personal con funciones directivas y de supervisión escolar, de conformidad con la normatividad aplicable.
+La Autoridad Educativa Estatal proveerá lo necesario para que el personal docente y el personal con funciones de dirección y supervisión en servicio tengan opciones de formación continua, actualización, desarrollo profesional y avance cultural, respetando los derechos de los docentes.
+
+Para los efectos del párrafo anterior, la Autoridad Educativa Estatal y los organismos descentralizados, ofrecerán programas y cursos.
+
+La oferta de formación continua deberá:
+
+I. Favorecer el mejoramiento de la calidad de la educación;
+
+II. Ser gratuita, diversa y de calidad en función de las necesidades de desarrollo del personal;
+
+III. Ser pertinente con las necesidades de la escuela y de la zona escolar;
+
+IV. Responder, en su dimensión regional, a los requerimientos que el personal solicite para su desarrollo profesional;
+
+V. Tomar en cuenta las evaluaciones internas de las escuelas en la región de que se trate;
+
+VI. Atender a los resultados de las evaluaciones externas que apliquen las autoridades educativas y los organismos descentralizados.
+
+El personal elegirá los programas o cursos de formación en función de sus necesidades y de los resultados en los distintos procesos de evaluación en que participe.
+
+Las acciones de formación continua, actualización y desarrollo profesional se adecuarán conforme a los avances científicos y técnicos.
 
 ###### Artículo 110.
 
@@ -1055,7 +1421,11 @@ La actualización, capacitación y superación profesional constituyen una respo
 
 ###### Artículo 111.
 
-Las autoridades educativas formularán y ejecutarán, de acuerdo con sus presupuestos, programas que promuevan el otorgamiento de recompensas y estímulos encaminados a reconocer el trabajo y méritos de los maestros, considerando para ese objeto los resultados del trabajo académico con sus educandos.
+La Autoridad Educativa Estatal otorgará reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizará actividades que propicien mayor aprecio social por la labor desempeñada por los maestros. Además, establecerá mecanismos de estímulo a la labor docente con base en la evaluación.
+
+El otorgamiento de los reconocimientos, distinciones, estímulos y recompensas que se otorguen al personal docente en instituciones públicas de educación básica y media superior, se realizará conforme a lo dispuesto en la Ley General del Servicio Profesional Docente, respetando los derechos de los docentes.
+
+Además de lo anterior, las autoridades educativas formularán y ejecutarán, de acuerdo con sus presupuestos, programas que promuevan el otorgamiento de recompensas y estímulos encaminados a reconocer el trabajo y méritos de los maestros, considerando para ese objeto los resultados del trabajo académico con sus educandos.
 
 ###### Artículo 112.
 
@@ -1087,7 +1457,7 @@ La autorización y el reconocimiento serán específicos e intransferibles para 
 
 Los particulares que soliciten la autorización y el reconocimiento de validez oficial de estudios, deberán contar:
 
-l. Con personal que acredite la preparación correspondiente para impartir el nivel de educación solicitado, de conformidad con lo establecido en la reglamentación y acuerdos respectivos;
+I. Con personal que acredite la preparación correspondiente para impartir el nivel de educación solicitado, de conformidad con lo establecido en la reglamentación y acuerdos respectivos;
 
 II. Con instalaciones que satisfagan las condiciones pedagógicas de seguridad e higiene que la autoridad educativa determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
 
@@ -1103,11 +1473,13 @@ Una vez obtenida la autorización o el reconocimiento de validez oficial de estu
 
 Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios, deberán:
 
-l. Cumplir con lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, el 5 de la Constitución Política del Estado Libre y Soberano de México, la Ley General, la Ley para la Coordinación de la Educación Superior, la presente Ley y los demás ordenamientos aplicables;
+I. Cumplir con lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, el 5 de la Constitución Política del Estado Libre y Soberano de México, la Ley General, la Ley para la Coordinación de la Educación Superior, la presente Ley y los demás ordenamientos aplicables;
 
 II. Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado procedentes;
 
-III. Mencionar en la documentación y publicidad la leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+III. Mencionar en los documentos que expidan y publicidad que hagan una leyenda que indique su calidad de incorporados, el número y la fecha del acuerdo respectivo, así como la autoridad que lo otorgó;
 
 IV. Proporcionar becas en los términos del reglamento respectivo;
 
@@ -1115,17 +1487,25 @@ V. Facilitar y colaborar en las actividades de supervisión y evaluación que la
 
 VI. Cumplir con los requisitos previstos por esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 120.
 
-Las autoridades educativas estatal y municipales verificarán, en sus respectivos ámbitos de competencia, que los servicios educativos que presten los particulares cuenten con las licencias, autorizaciones o permisos, así como con la autorización o reconocimiento de validez oficial de estudios que requieren para su funcionamiento. En su caso, impondrán las sanciones correspondientes, en términos de la legislación y normatividad aplicables.
+Las autoridades educativas que otorguen autorizaciones o reconocimientos de validez oficial de estudios deberá inspeccionar y vigilar los servicios educativos respecto de los cuales concedieron dichas autorizaciones o reconocimientos. Las autoridades deberán llevar a cabo una visita de inspección por lo menos una vez al año, de conformidad con las disposiciones aplicables.
+
+De la información contenida en el acta correspondiente, así como la documentación relacionada, que en su caso presenten los particulares, la Autoridad Educativa Estatal podrá formular medidas correctivas, mismas que hará del conocimiento de los particulares.
+
+Las visitas de inspección que realice la Autoridad Educativa Estatal deberán observar las disposiciones que para este efecto establece la normatividad aplicable.
 
 ###### Artículo 121.
 
 En el caso de que el particular por cualquier motivo deje de prestar los servicios educativos autorizados o con reconocimiento de validez oficial de estudios, la Autoridad Educativa Estatal dictará las medidas que estime pertinentes para proteger los intereses de los educandos.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 122.
 
-En el caso de la educación inicial y básica deberán, además de contar con personal que acredite la preparación adecuada para impartir ese tipo de educación y con instalaciones que satisfagan las condiciones pedagógicas, higiénicas y de seguridad que la Autoridad Educativa Estatal determine, cumplir los requisitos a que alude la fracción VIII del artículo 12 de la Ley General, así como las medidas a que se refiere el artículo 42 del mismo ordenamiento, y facilitar la supervisión y vigilancia de las autoridades competentes.
+En el caso de la educación inicial deberá además de contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude la fracción VIII del artículo 12 de la Ley General, presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 42 de la Ley General, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
 #### SECCIÓN CUARTA. DE LA EDUCACIÓN MEDIA SUPERIOR
 
@@ -1137,7 +1517,7 @@ Los particulares que presten servicios por los que se impartan estudios que no r
 
 Compete en forma exclusiva a la Autoridad Educativa Estatal otorgar equivalencias y revalidaciones de estudios de educación básica, normal y demás para la formación de maestros de educación básica, y de manera concurrente con la Autoridad Educativa Federal, respecto de estudios de educación media superior y superior conforme a las especificaciones siguientes:
 
-l. Los estudios realizados dentro del Sistema Educativo Nacional podrán, en su caso, declararse equivalentes con los realizados dentro del Sistema Educativo, por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje, según lo establezca la normatividad respectiva;
+I. Los estudios realizados dentro del Sistema Educativo Nacional podrán, en su caso, declararse equivalentes con los realizados dentro del Sistema Educativo, por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje, según lo establezca la normatividad respectiva;
 
 II. Los estudios realizados fuera del Sistema Educativo Nacional podrán adquirir validez oficial, mediante su revalidación, siempre y cuando sean equiparables con los autorizados en el Estado;
 
@@ -1161,19 +1541,27 @@ El certificado de estudios es el documento oficial mediante el cual la Autoridad
 
 Para expedir el certificado de estudios, la instancia correspondiente revisará y, en su caso, cotejará con sus archivos, que el educando haya cumplido con todos y cada uno de los requisitos de los planes y programas de estudio del nivel que corresponda.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2014)</small>
+
 ###### Artículo 128.
 
-La Autoridad Educativa Estatal, establecerá y operará el Registro Estatal de Educación que contendrá:
+La Autoridad Educativa Estatal deberá implantar y mantener actualizado un Sistema Estatal de Información y Gestión Educativa, mismo que deberá proporcionar información para satisfacer las necesidades de operación del Sistema Educativo Estatal. Asimismo participará en la actualización e integración permanente del Sistema de Información y Gestión Educativa, que contendrá:
 
-l. Planes y programas de educación básica;
+I. Planes y programas de educación básica;
 
 II. Planes y programas de estudio de educación media superior y superior;
 
-III. Instituciones educativas;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-IV. Servicios educativos incorporados al Sistema Educativo;
+III. Padrón Estatal de alumnos, docentes, instituciones y centros escolares;
 
-V. Educandos y Maestros, de conformidad con lo establecido en la fracción VII del artículo 13 de la Ley General;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+IV. El Registro Estatal de emisión, validación e inscripción de documentos académicos;
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
+V. Educandos y maestros;
 
 VI. Certificados, diplomas de especialidad, títulos y cédulas profesionales de educación básica, media superior y superior;
 
@@ -1183,6 +1571,22 @@ VIII. Colegios de profesionistas; y
 
 IX. Certificaciones Profesionales, expedidas por los colegios o asociaciones de profesionistas.
 
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+Las autoridades escolares, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios proporcionarán al Sistema Estatal de Información Educativa, la información que se les requiera y le brindarán las facilidades necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+El incumplimiento a lo dispuesto en el párrafo anterior será motivo de responsabilidad que se substanciará conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios o motivo de sanción para los particulares, de conformidad con los términos de la presente Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+Las instituciones de educación pública básica y media superior deberán contar con una estructura ocupacional debidamente autorizada en la que deberá precisarse el número y tipos de puesto de trabajo requerido, atendiendo al número de aulas y espacios disponibles, al alumnado inscrito y al plan de estudios de que se trate revisable por lo menos una vez al año, de conformidad con las reglas que emita la Autoridad Educativa Federal.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2014)</small>
+
+La estructura ocupacional autorizada y la plantilla del personal de cada escuela, así como los datos sobre la formación, trayectoria y desempeño profesional de cada docente deberán estar permanentemente actualizados en el Sistema Estatal de Información y Gestión Educativa.
+
 ###### Artículo 129.
 
 La Autoridad Educativa Estatal promoverá la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública y ampliar la cobertura de los servicios.
@@ -1191,19 +1595,27 @@ La Autoridad Educativa Estatal promoverá la participación de la sociedad en ac
 
 En cada institución pública de educación básica se promoverá el establecimiento de una asociación de padres de familia; en las instituciones públicas de educación media superior podrán integrarse asociaciones similares.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
 #### SECCIÓN QUINTA. DE LA EDUCACIÓN SUPERIOR
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 131.
 
-La Autoridad Educativa Estatal promoverá el establecimiento de un Consejo Estatal de Participación Social en la Educación, como órgano de consulta, orientación y apoyo. Este Consejo se integrará con padres de familia y representantes de sus asociaciones, maestros y representantes de sus organizaciones sindicales, instituciones formadoras de maestros, autoridades educativas estatal y municipales, así como sectores sociales.
+La Autoridad Educativa Estatal promoverá el establecimiento de un Consejo Estatal de Participación Social en la Educación, como órgano de consulta, orientación y apoyo. Este Consejo se integrará con padres de familia o tutores y representantes de sus asociaciones; maestros y representantes de sus organizaciones sindicales, quienes acudirán como representantes de los intereses laborales de los trabajadores; instituciones formadoras de maestros; autoridades educativas estatal y municipales; organizaciones de la sociedad civil, cuyo objeto social sea la educación, así como los sectores social y productivo de la entidad, especialmente interesados en la educación.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 132.
 
-En cada municipio del Estado operará un Consejo Municipal de Participación Social en la Educación, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros, así como representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación.
+En cada municipio del Estado operará un Consejo Municipal de Participación Social en la Educación, integrado por las autoridades municipales, padres de familia o tutores y representantes de sus asociaciones, maestros y directivos de escuelas, representantes de la organización sindical de los maestros, quienes acudirán como representantes de los intereses laborales de los trabajadores, así como representantes de organizaciones de la sociedad civil cuyo objeto social sea la educación y demás interesados con el mejoramiento de la educación.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ###### Artículo 133.
 
-En cada institución pública de educación básica operará un Consejo Escolar de Participación Social, integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, ex alumnos y miembros de la comunidad interesados en el desarrollo de la propia institución.
+En cada escuela pública de educación básica operará un Consejo Escolar de Participación Social, integrado por padres de familia o tutores y representantes de sus asociaciones, maestros y representantes de su organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, directivos de la escuela, ex alumnos y miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
 ###### Artículo 134.
 
@@ -1225,9 +1637,13 @@ Los medios de comunicación social pertenecientes al Gobierno del Estado, propor
 
 Son derechos de quienes ejercen la patria potestad o la tutela:
 
-l. Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria y la secundaria;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-II. Participar a las autoridades de la escuela en la que estén inscritos sus hijas, hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
+I. Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria, la secundaria y la media superior;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+II. Participar con las autoridades de la escuela en la que estén inscritos sus hijos o pupilos menores de edad, en cualquier problema relacionado con la educación de éstos, a fin de que, en conjunto se aboquen a su solución;
 
 III. Colaborar con las autoridades escolares para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
@@ -1235,21 +1651,51 @@ IV. Formar parte de las asociaciones de padres de familia y de los consejos de p
 
 V. Opinar en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen;
 
-VI. Conocer la capacidad profesional de la planta docente así como el resultado de las evaluaciones realizadas de conformidad con lo dispuesto en la fracción VII del artículo 12 de la Ley General;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-VII. Conocer la relación oficial del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijas, hijos o pupilos, misma que será proporcionada por la autoridad escolar;
+VI. Conocer la capacidad profesional de la planta docente, así como el resultado de las evaluaciones realizadas, en términos de lo dispuesto por la Ley General del Servicio Profesional Docente;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+VII. Conocer la relación oficial del personal docente y de apoyo adscritos en la escuela en la que estén inscritos sus hijos o pupilos, misma que será proporcionada por la autoridad escolar;
 
 VIII. Recibir un servicio educativo de calidad para sus hijas, hijos o pupilos;
 
-IX. Conocer la aplicación de las aportaciones voluntarias que acuerden al inicio de cada ciclo escolar y de su administración; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-X. Pedir que se respete la lengua y cultura de sus hijas, hijos o pupilos, por parte de autoridades, profesores y estudiantes de la institución.
+IX. Conocer la aplicación de las aportaciones voluntarias que acuerden al inicio de cada ciclo escolar y de su administración;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+X. Pedir que se respete la lengua y cultura de sus hijos o pupilos, por parte de autoridades, profesores y estudiantes de la institución;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XI. Opinar a través de los Consejos de Participación respecto a las actualizaciones y revisiones de los planes y programas de estudio;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XII. Ser observadores en las evaluaciones a personal docente y directivo, para lo cual deberán cumplir con los lineamientos que al efecto emita el Instituto Nacional para la Evaluación de la Educación;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIII. Conocer los criterios y resultados de las evaluaciones de la escuela a la que asistan sus hijos o pupilos;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIV. Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XV. Presentar quejas, ante las autoridades educativas correspondientes sobre el desempeño de docentes, directores, supervisores y asesores técnico pedagógicos de sus hijos o pupilos menores de edad y las condiciones de la escuela a la que asisten.
 
 ###### Artículo 139.
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-l. Hacer que sus hijas, hijos o pupilos menores de edad, reciban la educación preescolar, la primaria y la secundaria;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+I. Hacer que sus hijas, hijos o pupilos menores de edad reciban la educación preescolar, primaria, secundaria y media superior.
 
 II. Apoyar el proceso educativo de sus hijas, hijos o pupilos;
 
@@ -1267,7 +1713,7 @@ VI. Hacer del conocimiento de la autoridad educativa del plantel, las irregulari
 
 Son infracciones de quienes prestan servicios educativos, las siguientes:
 
-l. Incumplir cualesquiera de las obligaciones previstas en el artículo 119 de la presente Ley;
+I. Incumplir cualesquiera de las obligaciones previstas en el artículo 119 de la presente Ley;
 
 II. Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor;
 
@@ -1291,9 +1737,13 @@ XI. Oponerse a las actividades de evaluación, inspección y vigilancia, así co
 
 XII. Administrar a los educandos, sin previa prescripción médica y consentimiento informado de los padres o tutores, medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XIII. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-XIV. Expulsar o negarse a prestar el servicio educativo a niñas, niños y adolescentes que presenten problemas de aprendizaje; condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos; o presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
+XIII. Promover en el alumnado, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XIV. Expulsar o negarse a prestar el servicio educativo a niños, adolescentes y demás personas que presenten problemas de aprendizaje; condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos o presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
 
 XV. Ostentarse como plantel incorporado sin estarlo;
 
@@ -1305,23 +1755,39 @@ XVIII. Condicionar la inscripción al servicio educativo, las calificaciones o s
 
 XIX. Fomentar o permitir que se realice propaganda política en el plantel escolar;
 
-XX. Atentar contra la integridad física, moral o psicológica de los educandos; y
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-XXI. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+XX. Atentar contra la integridad física, moral o psicológica de los educandos;
 
-Las disposiciones de este artículo no son aplicables a los directivos, maestros y trabajadores de instituciones educativas a cargo del Estado, sus municipios y organismos descentralizados, en virtud de que las infracciones en que incurran serán sancionadas en la forma y términos que establece la legislación aplicable.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XXI. Contravenir las disposiciones contempladas en los artículos 17, 27, fracción XVII segundo párrafo y 102 de esta Ley;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XXII. Incumplir con las medidas correctivas derivadas de las visitas de inspección;
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+
+XXIII. Incumplir cualquiera de las disposiciones de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
+
+Tratándose de infracciones cometidas por directivos, maestros y trabajadores de instituciones educativas a cargo del Estado, sus municipios y organismos descentralizados serán sancionadas en la forma y términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y, en su caso, las demás disposiciones legales aplicables.
 
 ###### Artículo 141.
 
 Tratándose de sanciones aplicables a los particulares se estará a lo siguiente:
 
-l. Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica en que se cometa la infracción cuando se incurra en cualquiera de las infracciones a que se refiere el artículo anterior. Las multas impuestas podrán duplicarse en caso de reincidencia;
+I. Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica en que se cometa la infracción cuando se incurra en cualquiera de las infracciones a que se refiere el artículo anterior. Las multas impuestas podrán duplicarse en caso de reincidencia;
 
 II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente, cuando se incurra en las infracciones establecidas en las fracciones I, VI y VII del artículo anterior;
 
-III. Cuando el infractor haya reincidido en las conductas señaladas en la fracciones II, III, IV, V, IX, X, XI y XXI del artículo anterior, procederá la revocación de la autorización o retiro del reconocimiento de validez oficial de estudios;
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
-IV. En el caso de incurrir en las infracciones establecidas en las fracciones XII y XIII del artículo anterior, se aplicarán las sanciones establecidas en las fracciones I y II de este articulo, sin perjuicio de las penales y de otra índole que resulten; y
+III. Cuando el infractor haya reincidido en las conductas señaladas en la fracciones II, III, IV, V, IX, X, XI, XXI, XXII y XXIII del artículo anterior, procederá la revocación de la autorización o retiro del reconocimiento de validez oficial de estudios;
+
+IV. En el caso de incurrir en las infracciones establecidas en las fracciones XII y XIII del artículo anterior, se aplicarán las sanciones establecidas en las fracciones I y II de este artículo, sin perjuicio de las penales y de otra índole que resulten; y
 
 V. Clausura en el caso de incurrir en los supuestos previstos en las fracciones XV, XVI y XVII del artículo anterior, independiente de la multa señalada en la fracción I de este artículo.
 
@@ -1337,7 +1803,7 @@ La autoridad dictará resolución con base en los datos aportados por el presunt
 
 Para determinar la sanción se considerarán las siguientes circunstancias:
 
-l. La gravedad de la infracción en que se incurra;
+I. La gravedad de la infracción en que se incurra;
 
 II. Los antecedentes del infractor;
 
@@ -1447,9 +1913,35 @@ CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles s
 
 QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
 
+G.G. 11 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El personal que a la entrada en vigor del presente Decreto se encuentra en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la educación básica o de media superior impartida por el Estado y sus organismos descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere la Ley General del Servicio Profesional Docente. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere la Ley General, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la autoridad educativa o el organismo descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización que establece la Ley General del Servicio Profesional Docente, será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según corresponda.
+
+CUARTO.- El personal docente y el personal con funciones de dirección o de supervisión en la educación básica o media superior impartida por el Estado y sus organismos descentralizados que a la entrada en vigor de este Decreto tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en la Ley General del Servicio Profesional Docente, al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará nombramiento definitivo y quedará incorporado al Servicio Profesional Docente.
+
+Será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según sea el caso, el personal que:
+
+I. Se niegue a participar en los procesos de evaluación;
+
+II. No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo procesos de evaluación a que se refiere la Ley General del Servicio Profesional Docente;
+
+III. Obtenga resultados insuficientes en el tercer proceso de evaluación para la permanencia en el servicio.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
 #### SECCIÓN SEGUNDA. DE LA FORMACIÓN, ACTUALIZACIÓN, CAPACITACIÓN Y SUPERACIÓN PROFESIONAL DE LOS MAESTROS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
+
 #### SECCIÓN TERCERA. DE LOS ESTÍMULOS Y RECOMPENSAS
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LOS PARTICULARES QUE IMPARTAN EDUCACIÓN
 
@@ -1459,7 +1951,9 @@ QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estata
 
 #### SECCIÓN SEGUNDA. DE LA CERTIFICACIÓN DE ESTUDIOS
 
-#### SECCIÓN TERCERA. DEL REGISTRO ESTATAL DE EDUCACIÓN
+#### SECCIÓN TERCERA. DEL SISTEMA ESTATAL DE INFORMACIÓN Y GESTIÓN EDUCATIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
 
 ### CAPÍTULO NOVENO. DE LA PARTICIPACIÓN SOCIAL
 
