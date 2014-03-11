@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-para-el-estado-de-aguascalientes-54687"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-12"
-last_updated: "2010-06-28"
+last_updated: "2014-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES
+LEY DE EDUCACIÓN PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 11 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de marzo de 2007.
 
@@ -1944,3 +1946,53 @@ DECRETO NUMERO 420, POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 8 DE LA LEY DE 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2014.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Artículo Segundo.- Se abroga la Ley de Educación para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado de Aguascalientes el 12 de marzo del 2007, sus reformas y adiciones, y se derogan todas las disposiciones legales que se opongan a esta Ley.
+
+Artículo Tercero.- De conformidad con lo establecido en el artículo Octavo Transitorio de la Ley General del Servicio Profesional Docente, el personal que a la entrada en vigor del referido ordenamiento se encontraba en servicio y con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Gobierno del Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Artículo 128 de esta Ley. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el Artículo 128 de esta Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro del servicio educativo, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del Artículo 128 de esta Ley sin causa justificada, será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según corresponda.
+
+Artículo Cuarto.- El Personal Docente y el Personal con Funciones de Dirección o de Supervisión en la Educación Básica o Media Superior impartida por el Gobierno del Estado y sus Organismos Descentralizados que a la entrada en vigor de esta Ley tenga Nombramiento Provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en el Artículo 128 de la presente Ley. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará Nombramiento Definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto por la Ley General del Servicio Profesional Docente y el presente ordenamiento.
+
+Será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según sea el caso, el personal que:
+
+l. Se niegue a participar en los procesos de evaluación;
+
+II. No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo proceso de evaluación a que se refiere el Artículo 128 de esta Ley, o
+
+III. Obtenga resultados insuficientes en el tercer proceso de evaluación previsto en el Artículo 128 del presente ordenamiento.
+
+Artículo Quinto.- Conforme a las disposiciones de la Ley General del Servicio Profesional Docente, el Instituto Nacional para la Evaluación de la Educación, la Secretaría de Educación Pública, las autoridades educativas locales y los Organismos Descentralizados deberán realizar durante el mes de julio del año 2014 los concursos que para el Ingreso al Servicio en la Educación Básica y Media Superior establece el Artículo 122 de esta Ley.
+
+Artículo Sexto.- Las Autoridades Educativas y los Organismos Descentralizados iniciarán el proceso de compactación a que se refieren el artículo 132 del presente ordenamiento, conforme a los lineamientos que al efecto determinen, en tanto se encuentre en operación el sistema de evaluación del desempeño en términos de lo previsto por la Ley General del Servicio Profesional Docente.
+
+Artículo Séptimo.- La Secretaría y las Autoridades Educativas Locales diseñarán un programa, que estas últimas llevarán a cabo, para la regularización progresiva de las plazas con funciones de dirección que correspondan a las estructuras ocupacionales de las escuelas de Educación Básica, de conformidad a la disponibilidad presupuestal, conforme a lo siguiente:
+
+I. Quienes a la entrada en vigor de esta Ley ejerzan funciones de dirección sin el Nombramiento respectivo seguirán en dichas funciones y serán sujetos de la evaluación del desempeño establecida en el artículo 128 de esta Ley. Lo anterior, para determinar si dicho personal cumple con las exigencias de la función directiva;
+
+II. De obtener un resultado suficiente en la evaluación del desempeño el personal recibirá el Nombramiento Definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto en esta Ley, y
+
+III. El personal que incumpla con la obligación de evaluación o cuando en ésta se identifique la insuficiencia en el nivel de desempeño de la función de dirección, volverá a su función docente en la Escuela en que hubiere estado asignado u otra conforme a las necesidades del Servicio, quedando sujeto a lo dispuesto por el Artículo Octavo Transitorio o Noveno Transitorio de la Ley General del Servicio Profesional Docente, según sea el caso.
+
+Artículo Octavo.- El personal que a la entrada en vigor de la presente Ley se encuentre en Servicio y cuente con Nombramiento Definitivo para desempeñar funciones de dirección o de supervisión en la Educación Media Superior impartida por el Estado y sus Organismos Descentralizados, continuará en el desempeño de dichas funciones conforme a lo previsto en esta Ley y la Ley General del Servicio Profesional Docente.
+
+Artículo Noveno.- El Congreso del Estado adecuará las leyes que tengan relación con la materia educativa en un período no mayor de 160 días.
+
+Artículo Décimo.- Mientras que el Gobernador Constitucional del Estado no emita los reglamentos que se derivan de la presente Ley, se aplicarán los existentes en todo aquello que no contravenga las disposiciones aplicables de la misma.
+
+Para efectos de la presente Ley, los conceptos generales de la educación se definirán en los reglamentos respectivos. Los reglamentos se emitirán en un término de 180 días a partir de la publicación del presente Decreto.
+
+Artículo Décimo Primero.- La autoridad educativa del Estado de Aguascalientes respetará íntegramente, de conformidad con las disposiciones de la Fracción III y VIII del Articulo 3° de la Constitución Política de los Estados Unidos Mexicanos y en el marco del Fondo de Aportaciones de Nómina Educativa (FONE), los derechos de los trabajadores de la Educación, para tal efecto reconoce todas las prestaciones alcanzadas en convenios, acuerdos y negociaciones celebradas por esta a través de las instancias respectivas con el Sindicato Nacional de Trabajadores de la Educación.
+
+Articulo Décimo Segundo.- Las autoridades competentes respetarán íntegramente los derechos de los trabajadores de la Educación, la normatividad señalada en el Acuerdo Nacional para la Modernización de la Educación Básica y el Convenio firmado el 18 de mayo de 1992 con el Sindicato Nacional de Trabajadores de la Educación, publicado en el Periódico Oficial del Estado el día 7 de Junio de 1992, en tanto no contravengan las disposiciones de la presente Ley, de la Ley General de Educación, de la Ley General del Servicio Profesional Docente y la Ley del Instituto Nacional para la Evaluación de la Educación.
+
+De acuerdo con el artículo 20 de la Ley del Instituto de Educación de Aguascalientes se reconoce la titularidad de las relaciones laborales colectivas al Sindicato Nacional de Trabajadores de la Educación en términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes.
+
+Articulo Décimo Tercero.- La Autoridad Educativa Estatal con el propósito de fortalecer las capacidades y competencias de los docentes que hayan obtenido resultados insuficientes desde la primera evaluación dispuesta por la Ley General del Servicio Profesional Docente, podrá de conformidad con la disponibilidad presupuestal ofrecer una evaluación opcional, de tal manera que puedan tener mayores posibilidades de obtener resultados satisfactorios en los procesos de evaluación nacional.
+
+Articulo Décimo Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo para el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, derivadas de la presente Ley.
