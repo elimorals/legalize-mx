@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2014-del-pleno-de-la-suprema-corte-990
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-02-25"
-last_updated: "2014-02-25"
+last_updated: "2014-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99016&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2014-02-18"
 ---
 # ACUERDO GENERAL NUMERO 5/2014 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE DISPONE EL APLAZAMIENTO DEL DICTADO DE LA RESOLUCION EN LOS RECURSOS DE REVISION INTERPUESTOS EN JUICIOS DE AMPARO INDIRECTO PROMOVIDOS A PARTIR DEL TRES DE ABRIL DE DOS MIL TRECE, EN CONTRA DE RESOLUCIONES DICTADAS DENTRO DE JUICIO RELACIONADAS CON LA PERSONALIDAD DE LAS PARTES, SIEMPRE Y CUANDO PARA SU RESOLUCION RESULTE NECESARIO FIJAR EL ALCANCE DE LO DISPUESTO EN EL ARTICULO 107, FRACCION V, DE LA LEY DE AMPARO]
 
-ACUERDO GENERAL NÚMERO 5/2014, DE DIECIOCHO DE FEBRERO DE DOS MIL CATORCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO DEL DICTADO DE LA RESOLUCIÓN EN LOS RECURSOS DE REVISIÓN INTERPUESTOS EN JUICIOS DE AMPARO INDIRECTO PROMOVIDOS A PARTIR DEL TRES DE ABRIL DE DOS MIL TRECE, EN CONTRA DE RESOLUCIONES DICTADAS DENTRO DE JUICIO RELACIONADAS CON LA PERSONALIDAD DE LAS PARTES, SIEMPRE Y CUANDO PARA SU RESOLUCIÓN RESULTE NECESARIO FIJAR EL ALCANCE DE LO DISPUESTO EN EL ARTÍCULO 107, FRACCIÓN V, DE LA LEY DE AMPARO
+ACUERDO GENERAL NÚMERO 5/2014, DE DIECIOCHO DE FEBRERO DE DOS MIL CATORCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO DEL DICTADO DE LA RESOLUCIÓN EN LOS RECURSOS DE REVISIÓN Y DE QUEJA INTERPUESTOS EN JUICIOS DE AMPARO INDIRECTO PROMOVIDOS A PARTIR DEL TRES DE ABRIL DE DOS MIL TRECE, EN CONTRA DE RESOLUCIONES DICTADAS DENTRO DE JUICIO RELACIONADAS CON LA PERSONALIDAD DE LAS PARTES, SIEMPRE Y CUANDO PARA SU RESOLUCIÓN RESULTE NECESARIO FIJAR EL ALCANCE DE LO DISPUESTO EN EL ARTÍCULO 107, FRACCIÓN V, DE LA LEY DE AMPARO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 25 de febrero de 2014.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
 
-ACUERDO GENERAL NÚMERO 5/2014, DE DIECIOCHO DE FEBRERO DE DOS MIL CATORCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO DEL DICTADO DE LA RESOLUCIÓN EN LOS RECURSOS DE REVISIÓN INTERPUESTOS EN JUICIOS DE AMPARO INDIRECTO PROMOVIDOS A PARTIR DEL TRES DE ABRIL DE DOS MIL TRECE, EN CONTRA DE RESOLUCIONES DICTADAS DENTRO DE JUICIO RELACIONADAS CON LA PERSONALIDAD DE LAS PARTES, SIEMPRE Y CUANDO PARA SU RESOLUCIÓN RESULTE NECESARIO FIJAR EL ALCANCE DE LO DISPUESTO EN EL ARTÍCULO 107, FRACCIÓN V, DE LA LEY DE AMPARO.
+> <small>(REFORMADO POR EL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL TRES DE MARZO DE DOS MIL CATORCE, D.O.F. 11 DE MARZO DE 2014)</small>
+
+ACUERDO GENERAL NÚMERO 5/2014, DE DIECIOCHO DE FEBRERO DE DOS MIL CATORCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO DEL DICTADO DE LA RESOLUCIÓN EN LOS RECURSOS DE REVISIÓN Y DE QUEJA INTERPUESTOS EN JUICIOS DE AMPARO INDIRECTO PROMOVIDOS A PARTIR DEL TRES DE ABRIL DE DOS MIL TRECE, EN CONTRA DE RESOLUCIONES DICTADAS DENTRO DE JUICIO RELACIONADAS CON LA PERSONALIDAD DE LAS PARTES, SIEMPRE Y CUANDO PARA SU RESOLUCIÓN RESULTE NECESARIO FIJAR EL ALCANCE DE LO DISPUESTO EN EL ARTÍCULO 107, FRACCIÓN V, DE LA LEY DE AMPARO.
 
 CONSIDERANDO:
 
@@ -45,7 +47,9 @@ En consecuencia, con fundamento en lo antes mencionado, el Pleno de la Suprema C
 
 ACUERDO:
 
-ÚNICO. En tanto el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve las contradicciones de tesis 377/2013 y 399/2013, referidas en el Considerando Segundo de este instrumento normativo, y se emite el Acuerdo General Plenario que corresponda, en los recursos de revisión interpuestos en juicios de amparo indirecto promovidos a partir del tres de abril de dos mil trece en contra de resoluciones dictadas dentro de juicio, relacionadas con la personalidad de las partes, siempre y cuando para su resolución resulte necesario fijar el alcance de lo dispuesto en el artículo 107, fracción V, de la Ley de Amparo, se deberá continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta.
+> <small>(REFORMADO POR EL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL TRES DE MARZO DE DOS MIL CATORCE, D.O.F. 11 DE MARZO DE 2014)</small>
+
+ÚNICO. En tanto el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve las contradicciones de tesis 377/2013 y 399/2013, referidas en el Considerando Segundo de este instrumento normativo, y se emite el Acuerdo General Plenario que corresponda, en los recursos de revisión y de queja interpuestos en juicios de amparo indirecto promovidos a partir del tres de abril de dos mil trece en contra de resoluciones dictadas dentro de juicio, relacionadas con la personalidad de las partes, siempre y cuando para su resolución resulte necesario fijar el alcance de lo dispuesto en el artículo 107, fracción V, de la Ley de Amparo, se deberá continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta.
 
 TRANSITORIOS:
 
@@ -58,3 +62,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 5/2014, DE DIECIOCHO DE FEBRERO DE DOS MIL CATORCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DISPONE EL APLAZAMIENTO DEL DICTADO DE LA RESOLUCIÓN EN LOS RECURSOS DE REVISIÓN INTERPUESTOS EN JUICIOS DE AMPARO INDIRECTO PROMOVIDOS A PARTIR DEL TRES DE ABRIL DE DOS MIL TRECE, EN CONTRA DE RESOLUCIONES DICTADAS DENTRO DE JUICIO RELACIONADAS CON LA PERSONALIDAD DE LAS PARTES, SIEMPRE Y CUANDO PARA SU RESOLUCIÓN RESULTE NECESARIO FIJAR EL ALCANCE DE LO DISPUESTO EN EL ARTÍCULO 107, FRACCIÓN V, DE LA LEY DE AMPARO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, José Ramón Cossío Díaz, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Olga Sánchez Cordero de García Villegas, Alberto Pérez Dayán y Presidente Juan N. Silva Meza. La señora Ministra Margarita Beatriz Luna Ramos, estuvo ausente por comisión; y el señor Ministro Sergio A. Valls Hernández estuvo ausente, previo aviso.- México, Distrito Federal, a dieciocho de febrero de dos mil catorce.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de siete fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 5/2014, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a dieciocho de febrero de dos mil catorce.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE MARZO DE 2014.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación, y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2014 en dichos medios electrónicos.
