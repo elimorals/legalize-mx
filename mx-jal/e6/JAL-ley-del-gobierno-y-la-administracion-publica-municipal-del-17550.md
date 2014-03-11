@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2013-10-08"
+last_updated: "2014-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1345,13 +1345,13 @@ II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y 
 
 III. Tener la siguiente escolaridad:
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
 
-a) En los municipios en los que el Ayuntamiento esté integrado hasta por catorce regidores, se requiere la enseñanza media superior y acreditar experiencia o conocimientos en la materia;
+a) En los municipios que la población sea mayor a veinte mil habitantes, se requiere tener título profesional, en las áreas contables o administrativas, con experiencia mínima de un año en la materia, en el servicio público; y
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
 
-b) En los municipios en que el Ayuntamiento esté integrado por más de catorce regidores, se requiere tener título profesional preferentemente en las áreas económico administrativas y acreditar experiencia o conocimientos en la materia;
+b) en los municipios que la población sea menor a veinte mil habitantes, se requiere por lo menos, tener certificado de educación media superior; y acreditar experiencia o conocimientos en la materia.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2495,7 +2495,7 @@ Los ayuntamientos instituirán en su reglamentación y presupuesto al funcionari
 
 ###### Artículo 152.
 
-Los municipios, por conducto del Síndico, podrán invocar la instauración del procedimiento de lesividad ante la autoridad jurisdiccional competente, solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares, cuando se considere que éstas lesionan el interés público de la comunidad. La autoridad jurisdiccional correspondiente substanciará dicho procedimiento en la vía sumaria.
+Los municipios, por conducto del Síndico, podrán invocar la instauración del procedimiento de lesividad ante la autoridad Jurisdiccional competente, solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares, cuando se considere que éstas lesionan el interés público de la comunidad. La autoridad Jurisdiccional correspondiente substanciará dicho procedimiento en la vía sumaria.
 
 T R A N S I T O R I O S
 
@@ -2659,29 +2659,29 @@ Cuarto. Mientras entra en funciones el primer Ayuntamiento, el gobierno y admini
 
 La designación del Consejo Municipal deberá hacerse en Sesión Ordinaria del Congreso del Estado que se celebre previa convocatoria para que presenten propuestas a consejeros a los habitantes del nuevo municipio, a más tardar el 30 de noviembre del año 2005. El Congreso del Estado por dos terceras partes de los diputados que concurran a la Sesión nombrará a los concejales y a quien habrá de fungir como Presidente del Concejo Municipal.
 
-Quinto.- Los miembros del Concejo Municipal de Capilla de Guadalupe rendirán protesta el día 1º de enero de 2006, en sesión solemne de Ayuntamiento que se realizará en la cabecera municipal denominada Capilla de Guadalupe, ante la representación del Congreso, con la presencia del ciudadano Gobernador Constitucional del Estado y del Presidente del Supremo Tribunal de Justicia.
+Quinto.- Los miembros del Consejo Municipal de Capilla de Guadalupe rendirán protesta el día 1º de enero de 2006, en sesión solemne de ayuntamiento que se realizará en la cabecera municipal denominada Capilla de Guadalupe, ante la representación del Congreso, con la presencia del ciudadano Gobernador Constitucional del Estado y del Presidente del Supremo Tribunal de Justicia.
 
-El Concejo Municipal iniciará sus funciones el día 1º de enero del año 2006. A partir de la instalación, el Delegado Municipal de Capilla de Guadalupe cesará en sus funciones, mientras que los demás delegados y agentes municipales que funcionen dentro de la circunscripción del nuevo municipio continuarán en su cargo hasta su ratificación o remoción justificada por parte del propio Concejo.
+El Consejo Municipal iniciará sus funciones el día 1º de enero del año 2006. A partir de la instalación, el Delegado Municipal de Capilla de Guadalupe cesará en sus funciones, mientras que los demás delegados y agentes municipales que funcionen dentro de la circunscripción del nuevo municipio continuarán en su cargo hasta su ratificación o remoción justificada por parte del propio Consejo.
 
 Sexto. En su primera sesión ordinaria el Concejo Municipal de Capilla de Guadalupe deberá nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal.
 
-Séptimo. El Ayuntamiento de Tepatitlán de Morelos, seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Concejo Municipal de Capilla de Guadalupe.
+Séptimo. El Ayuntamiento de Tepatitlán de Morelos, seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Consejo Municipal de Capilla de Guadalupe.
 
-Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Concejo Municipal recibirán del Ayuntamiento de Tepatitlán de Morelos toda la información y documentación de las delegaciones, comunidades y poblaciones que componen al nuevo municipio, necesaria para el buen desempeño de la nueva administración municipal, incluyendo los padrones de contribuyentes, proveedores, acreedores y las cuentas catastrales de la nueva jurisdicción municipal.
+Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Consejo Municipal recibirán del Ayuntamiento de Tepatitlán de Morelos toda la información y documentación de las delegaciones, comunidades y poblaciones que componen el nuevo municipio, necesaria para el buen desempeño de la nueva administración municipal, incluyendo los padrones de contribuyentes, proveedores, acreedores y las cuentas catastrales de la nueva jurisdicción municipal.
 
-Noveno. Una vez que entre en funciones el Concejo Municipal de Capilla de Guadalupe, el Ayuntamiento de Tepatitlán de Morelos, procederá a transferir los bienes muebles e inmuebles a los que se refiere el artículo 84 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, que estén dentro de su patrimonio, los cuales deberán estar dentro de la extensión territorial a que se refiere este decreto, y transferirlos con el destino al que estaban afectos a favor del nuevo municipio.
+Noveno. Una vez que entre en funciones el Consejo Municipal de Capilla de Guadalupe, el Ayuntamiento de Tepatitlán de Morelos, procederá a transferirlo los bienes muebles e inmuebles a los que se refiere el artículo 84 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, que estén dentro de su patrimonio, los cuales deberán estar dentro de la extensión territorial a que se refiere este decreto, y transferirlos con el destino al que estaban afectos a favor del nuevo municipio.
 
 Décimo. A partir del día 1º de enero del año 2006, los residentes del territorio correspondiente al nuevo municipio se considerarán vecinos y habitantes del mismo, quedando sujetos a la jurisdicción de las autoridades de Capilla de Guadalupe. Sólo para efectos de computar antigüedad de residencia se tomará en cuenta la que tuvieren en el lugar desde antes de la constitución del nuevo municipio.
 
-Décimo Primero. Las obligaciones de contenido económico suscritas por el Ayuntamiento de Tepatitlán de Morelos, por obras de beneficio colectivo realizadas en el territorio del Municipio de Capilla de Guadalupe, pasarán a cargo del nuevo municipio a partir del día 1º de enero del año 2006.
+Décimo Primero. Las obligaciones de contenido económico suscritas por el Ayuntamiento de Tepatitlán de Morelos, por obras de beneficio colectivo realizadas en territorio del Municipio de Capilla de Guadalupe, pasarán a cargo del nuevo municipio a partir del día 1º de enero del año 2006.
 
 Décimo Segundo. El Ayuntamiento de Capilla de Guadalupe tendrá presupuesto propio. Para tal efecto su hacienda pública percibirá los ingresos derivados de los impuestos, contribuciones especiales, derechos, productos, aprovechamientos y participaciones establecidos en la Ley de Ingresos del Municipio de Capilla de Guadalupe, la cual deberá ser expedida por el Congreso del Estado a más tardar el día 30 de noviembre del año 2005, para que entre en vigor el 1º del (sic) enero del año 2006.
 
-Serán aplicables en el Municipio de Capilla de Guadalupe, en el ejercicio fiscal del año 2006, las Tablas de Valores vigentes en el Municipio de Tepatitlán de Morelos para el ejercicio fiscal del año 2005.
+Serán aplicables en el Municipio de Capilla de Guadalupe, en el ejercicio fiscal del año 2006, las tablas de valores vigentes en el Municipio de Tepatitlán de Morelos para el ejercicio fiscal del año 2005.
 
 Décimo Tercero. Las obligaciones laborales del Municipio de Tepatitlán de Morelos con los trabajadores a su servicio en las Delegaciones Municipales de Capilla de Guadalupe y San José de Gracia, serán asumidas por el nuevo municipio a partir del día 1º de enero del año 2006, el cual deberá respetar los derechos individuales y colectivos de dichos trabajadores, en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
-Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de Capilla de Guadalupe se observarán en lo conducente las correspondientes al municipio de Tepatitlán de Morelos.
+Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de Capilla de Guadalupe se observarán en lo conducente las correspondientes al Municipio de Tepatitlán de Morelos.
 
 Décimo Quinto. En Congreso del Estado tendrá facultad para dictar las normas interpretativas y aclaratorias del presente Decreto necesarias para resolver cualquier controversia que su aplicación motive.
 
@@ -2890,5 +2890,9 @@ DECRETO No. 24433/LX/13 POR EL QUE SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 3
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 8 DE OCTUBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
