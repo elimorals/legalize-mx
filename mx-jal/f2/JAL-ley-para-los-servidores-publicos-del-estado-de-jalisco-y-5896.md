@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2013-12-03"
+last_updated: "2014-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -2113,7 +2115,9 @@ Los servidores públicos de base se regirán por el Reglamento de Escalafón res
 
 Los servidores públicos incorporados a los Servicios de Salud Jalisco y a la Secretaría de Educación del Estado, que cuenten con un sistema propio de profesionalización y desarrollo, se regirán por sus reglamentos y normas de operación respectivos.
 
-Los servidores públicos de la Procuraduría General de Justicia del Estado y los elementos de la Policía Investigadora, en cuestión de promoción, ascenso y capacitación especializada, se regirán por lo establecido en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Jalisco y su reglamento.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
+
+Los servidores públicos de la Fiscalía General del Estado y los elementos de la Policía Investigadora, en cuestión de promoción, ascenso y capacitación especializada, se regirán por lo establecido en la Ley Orgánica de la Fiscalía General del Estado de Jalisco y su reglamento.
 
 Los elementos de los cuerpos de seguridad pública del Estado y municipios que cuenten con reglamentos y programas en materia de promoción, ascenso y capacitación especializada, se regirán, en su caso, por lo establecido en los mismos.
 
@@ -2708,3 +2712,7 @@ P.O. 3 DE DICIEMBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. En el caso de los magistrados y los jueces se atenderá a lo dispuesto por el artículo 116, fracción III, párrafo sexto de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 11 DE MARZO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
