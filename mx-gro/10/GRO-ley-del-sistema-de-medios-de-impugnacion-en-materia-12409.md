@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-sistema-de-medios-de-impugnacion-en-materia-12409"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-13"
-last_updated: "2010-06-18"
+last_updated: "2014-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144
 
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144
+LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 144
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2014.
 
 Ley Publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 1998.
 
@@ -363,7 +363,7 @@ El incumplimiento de cualquiera de los requisitos previstos por las fracciones I
 
 Cuando la controversia verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en la fracción VI del párrafo 4 de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 22.
 
@@ -423,7 +423,7 @@ VI. Cerrada la instrucción, el Magistrado ponente o el Juez Instructor respecti
 
 La no aportación de las pruebas ofrecidas, en ningún caso será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso, se resolverá con los elementos que obren en autos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 24.
 
@@ -443,7 +443,7 @@ El Magistrado ponente, o en su caso, el Juez Instructor de la Sala Unitaria, en 
 
 ### CAPITULO X. De las Resoluciones y de las Sentencias
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 26.
 
@@ -463,7 +463,7 @@ V. Los puntos resolutivos; y
 
 VI. En su caso, el plazo para su cumplimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 27.
 
@@ -475,7 +475,7 @@ Para la resolución del medio de impugnación previsto en el Título Quinto del 
 
 En todo caso, si se omite señalar los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el Tribunal Electoral, resolverá tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 28.
 
@@ -483,7 +483,7 @@ El Presidente de la Sala de Segunda Instancia o el Magistrado de la Sala Unitari
 
 Las Salas del Tribunal Electoral aprobarán sus sentencias en sesión pública, de conformidad con lo que establezcan la Ley Orgánica del Tribunal Electoral del Estado y su Reglamento Interior, así como con las reglas y el procedimiento siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 I. Abierta la sesión pública por el Presidente y verificado el quórum legal, se procederá a exponer y a discutir cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen, y cuando los magistrados del Tribunal Electoral consideren suficientemente discutido el asunto, el Presidente lo someterá a votación. Las sentencias se aprobarán por unanimidad o por mayoría de votos;
 
@@ -559,7 +559,7 @@ El partido político cuyo representante haya estado presente en la sesión del O
 
 ### CAPITULO XII. De la Acumulación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 35.
 
@@ -621,11 +621,11 @@ III. El recurso de reconsideración.
 
 En los procesos electorales locales extraordinarios, serán procedentes los medios de impugnación a que se refiere el párrafo anterior, debiéndose aplicar en lo conducente las reglas señaladas en el presente ordenamiento y en la Ley Orgánica del Tribunal Electoral del Estado.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 2008)</small>
 
 ## TITULO SEGUNDO. Del Recurso de Revisión
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE ENERO DE 2008)</small>
 
 ### CAPITULO I. De la Procedencia
 
@@ -633,7 +633,7 @@ En los procesos electorales locales extraordinarios, serán procedentes los medi
 
 (DEROGADO, P.O. 1 DE ENERO DE 2008)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE ENERO DE 2008)</small>
 
 ### CAPITULO II. De la Competencia
 
@@ -641,7 +641,7 @@ En los procesos electorales locales extraordinarios, serán procedentes los medi
 
 (DEROGADO, P.O. 1 DE ENERO DE 2008)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 2008)</small>
 
 ### CAPITULO III. De la Sustanciación y de la Resolución
 
@@ -653,7 +653,7 @@ En los procesos electorales locales extraordinarios, serán procedentes los medi
 
 (DEROGADO, P.O. 1 DE ENERO DE 2008)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE ENERO DE 2008)</small>
 
 ### CAPITULO IV. De las Notificaciones
 
@@ -739,7 +739,7 @@ Los recursos de apelación, serán resueltos por la Sala competente del Tribunal
 
 ### CAPITULO VI. De las Notificaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 52.
 
@@ -965,7 +965,7 @@ El recurso de reconsideración, sólo procederá para impugnar las sentencias de
 
 Para el recurso de reconsideración son presupuestos los siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 I. Que las sentencias de las Salas Unitarias del Tribunal Electoral:
 
@@ -1093,7 +1093,7 @@ II. Al Órgano del Instituto Electoral del Estado respectivo, por oficio acompa�
 
 Concluido el proceso electoral, el Instituto Electoral del Estado por conducto de su Presidente, podrá solicitar copia certificada de la documentación que integre los expedientes formados con motivo de los recursos de reconsideración.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ENERO DE 2008)</small>
 
 ## TITULO SEXTO. De las Nulidades y del Recuento Parcial y Total de votos
 
@@ -1157,7 +1157,7 @@ XI. Existir irregularidades graves, plenamente acreditadas y no reparables duran
 
 ### CAPITULO III. De la Nulidad de la Elección
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 80.
 
@@ -1187,7 +1187,7 @@ II. Cuando el candidato electo resulte inelegible.
 
 Ningún partido político, podrá invocar como causa de nulidad, hechos o circunstancias que el propio partido dolosamente haya provocado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 2008)</small>
 
 ### CAPITULO IV. Del Recuento Parcial y Total de Votos de una Elección
 
@@ -1285,7 +1285,7 @@ X. Resguardar el paquete electoral hasta en tanto lo reintegre al organismo elec
 
 ARTICULO 82 BIS 9.- Para el recuento de votos de una elección, la Sala responsable dispondrá las medidas necesarias para estar en condiciones materiales de efectuarla pudiendo quien las presida tomar los acuerdos que el caso amerite. El Tribunal Electoral proveerá hasta donde el presupuesto se lo permita, los recursos humanos y materiales para cumplir con los fines de la Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ENERO DE 2008)</small>
 
 # LIBRO TERCERO
 
@@ -1487,7 +1487,7 @@ Los efectos de la sentencia de la Sala de Segunda Instancia del Tribunal Elector
 
 En el supuesto de que la sentencia ordene dejar sin efecto la destitución del servidor del Instituto Electoral del Estado respectivo o del Tribunal Electoral del Estado, estos últimos podrán negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario, aguinaldo proporcional, más doce días por cada año trabajado por concepto de prima de antigüedad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 2008)</small>
 
 # LIBRO CUARTO. Del Juicio Electoral Ciudadano
 
@@ -1516,6 +1516,10 @@ III. Cuando habiéndose asociado con otros ciudadanos para tomar parte en forma 
 IV. Considere que un acto o resolución de la autoridad responsable, es violatorio de cualquiera otro de sus derechos político-electorales o de militancia partidista.
 
 Los actos o resoluciones que violen el derecho político-electoral de los ciudadanos de votar en las elecciones sólo se impugnarán a través del medio de impugnación correspondiente previsto en la Ley General del Sistema de Medios de Impugnación en Materia Electoral, a menos de que el Instituto Electoral del Estado expidiere el documento oficial mediante el cual los ciudadanos electorales ejerzan su derecho a votar en las elecciones locales, en cuyo caso los actos o resoluciones del Órgano Electoral podrán ser impugnadas conforme a este artículo.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2014)</small>
+
+El actor y el tercero interesado del Juicio, podrán autorizar para oír y recibir notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para hacer todo tipo de promociones en la sustanciación de la demanda hasta que se dicte resolución; las personas autorizadas deberán acreditar ejercer la profesión de Licenciado en Derecho y proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización; este requisito no será exigible a aquellas personas autorizadas solamente para oír y recibir notificaciones e imponerse de los autos.
 
 > <small>(ADICIONADO, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -1585,7 +1589,7 @@ C. LIC. HUMBERTO SALGADO GOMEZ.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE FEBRERO DE 2004.
 
@@ -1608,3 +1612,9 @@ QUINTO.- Se abrogan todas las disposiciones jurídicas que se opongan al present
 P.O. 18 DE JUNIO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
