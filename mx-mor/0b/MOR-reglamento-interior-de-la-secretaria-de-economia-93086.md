@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-economia-93086"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-13"
-last_updated: "2013-03-13"
+last_updated: "2014-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ABRIL DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de marzo de 2013.
 
@@ -73,7 +75,7 @@ IV. Dirección General de Análisis de Negocios;
 
 V. Dirección General de Recursos Federalizados;
 
-VI. Dirección General de Agroindustria;
+VI. (DEROGADA, P.O. 12 DE MARZO DE 2014)
 
 VII. Dirección General de Promoción de Negocios;
 
@@ -147,9 +149,25 @@ XXIII. Coordinar la elaboración e integración de las aportaciones de la Secret
 
 XXIV. Firmar las constancias de identificación del personal de la Secretaría;
 
-XXV. Coordinar las actividades interinstitucionales referentes a los foros de consulta ciudadana inherentes a esta Secretaría, y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
-XXVI. Las demás que señalen las disposiciones jurídicas aplicables o le delegue el Gobernador por mandato específico.
+XXV. Coordinar las actividades interinstitucionales referentes a los foros de consulta ciudadana inherentes a la Secretaría;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XXVI. Promover y negociar, cuando le exija el interés público y de acuerdo con las Leyes respectivas, la designación de bienes que deban destinarse al desarrollo de los programas de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XXVII. Impulsar las acciones que considere necesarias para fomentar el desarrollo económico del Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XXVIII. Asesorar y coordinar la industria penitenciaria con apoyo de las demás Secretarías, Dependencias y Entidades de la Administración Pública Estatal con facultades en la materia, a través de esquemas de producción asociación y comercialización que beneficie a los empresarios participantes y a los internos como trabajadores de la industria penitenciaria, y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XXIX. Las demás que señalen otras disposiciones jurídicas aplicables o le delegue el Gobernador, por mandato específico.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBSECRETARÍAS
 
@@ -199,9 +217,13 @@ XVIII. Delegar sus atribuciones en los titulares de las unidades administrativas
 
 XIX. Recibir en acuerdo a los titulares de las Direcciones Generales de su adscripción para la atención de los asuntos que estimen pertinentes;
 
-XX. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia, y
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
 
-XXI. Las demás que determinen las disposiciones legales aplicables.
+XX. Solicitarle a los comités o consejos de los que forme parte integrante la Secretaría, otorguen la orientación, asesoría y apoyo necesario para la toma de decisiones respecto de las acciones correspondientes de los órganos colegiados titulares de la Secretaría, que deba participar la Subsecretaría, o bien, que le sean asignados;
+
+XXI. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia, y
+
+XXII. Las demás que determinen las disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBSECRETARÍAS
 
@@ -231,9 +253,13 @@ X. Promover el desarrollo de infraestructura económica estratégica;
 
 XI. Promover la cultura de la calidad, innovación y competitividad de las empresas;
 
-XII. Ejecutar los programas y acciones de fomento a las actividades industriales, comerciales y de servicios, y
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
 
-XIII. Las demás que determinen otras disposiciones jurídicas aplicables o le delegue el Secretario.
+XII. Planear y proyectar la industria penitenciaria con apoyo de las demás Secretarías, Dependencias y Entidades de la Administración Pública Estatal, con facultades en la materia, a través de esquemas de producción asociación y comercialización que beneficie a los empresarios participantes y a los internos como trabajadores de la industria penitenciaria;
+
+XIII. Ejecutar los programas y acciones de fomento a las actividades industriales, comerciales y de servicios, y
+
+XIV. Las demás que determinen otras disposiciones jurídicas aplicables o le delegue el Secretario.
 
 ###### Artículo 10.
 
@@ -289,7 +315,7 @@ I. La Dirección General de Análisis de Negocios;
 
 II. La Dirección General de Recursos Federalizados, y
 
-III. La Dirección General de Agroindustria.
+III. (DEROGADA, P.O. 12 DE MARZO DE 2014)
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES
 
@@ -349,9 +375,13 @@ XXIII. Proponer la contratación de prestadores de servicios, de conformidad con
 
 XXIV. Resguardar la documentación soporte de la ejecución y operación de los programas asignados a su área;
 
-XXV. Conceder audiencias al público y recibir en acuerdo a cualquier servidor público subalterno, y
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
 
-XXVI. Las demás que determinen otras disposiciones legales aplicables o le delegue el Secretario o la persona titular de la Subsecretaría a que se encuentre adscrita la Dirección General a su cargo.
+XXV. Solicitarle a los Comités o Consejos de los que forme parte integrante la Secretaría, otorguen la orientación, asesoría y apoyo necesario para la toma de decisiones respecto de las acciones correspondientes de los Órganos colegiados titulares de la Secretaría, que deba participar la Dirección General, o bien, que le sean asignados;
+
+XXVI. Conceder audiencias al público y recibir en acuerdo a cualquier servidor público subalterno, y
+
+XXVII. Las demás que determinen otras disposiciones legales aplicables o le delegue el Secretario o la persona titular de la Subsecretaría a que se encuentre adscrita la Dirección General a su cargo.
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES
 
@@ -423,9 +453,49 @@ V. Llevar el registro y control de las solicitudes de apoyo presentadas, con esp
 
 VI. Evaluar y dar seguimiento a los proyectos de las micro, pequeñas y medianas empresas que son sujetos de apoyos, conforme a los lineamientos y reglas de operación aplicables al caso;
 
-VII. Verificar la correcta aplicación de los recursos autorizados de acuerdo a los convenios de colaboración o instrumentos jurídicos que hayan sido celebrados para tal efecto, y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
-VIII. Llevar el registro y control de los apoyos otorgados con especial atención a la micro, pequeña y mediana empresa.
+VII. Verificar la correcta aplicación de los recursos autorizados de acuerdo a los convenios de colaboración o instrumentos jurídicos que hayan sido celebrados para tal efecto;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+VIII. Llevar el registro y control de los apoyos otorgados con especial atención a la micro, pequeña y mediana empresa;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+IX. Establecer y ejecutar instrumentos de apoyo para la promoción, constitución, instalación, apertura y funcionamiento de agronegocios, comercializadoras y empresas que prestan servicios a la agricultura, ganadería incluyendo la diversificada, acuacultura y silvicultura en el Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+X. Impulsar y coordinar el empleo de materias primas agrícolas, pecuarias, acuícolas y silvícolas producidas en el estado de Morelos para su utilización dentro de los procesos de las agroindustrias morelenses;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XI. Fomentar y promocionar el consumo de los productos elaborados por las diferentes agroindustrias establecidas en el estado de Morelos;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XII. Promover y propiciar en el sector agroindustrial del estado de Morelos relaciones de negocios a largo plazo que minimicen los riesgos y maximicen los rendimientos de las mismas;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XIII. Planear, desarrollar y dirigir los espacios físicos, instalaciones y servicios asignados para instalación y operación de las agroindustrias morelenses;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XIV. Impulsar el desarrollo de proveedores de materias primas, productos y servicios relacionados con la agroindustria;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XV. Proponer con las instancias gubernamentales y financieras, apoyos y líneas de financiamiento para las agroindustrias, que mejoren los indicadores financieros y de mercado;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XVI. Promover y desarrollar innovaciones en los procesos logísticos dentro las actividades de transformación de las agroindustrias morelenses, y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XVII. Coordinar acciones con las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, organismos e instancias competentes para la implementación de acciones que impulsen y simplifiquen la apertura y funcionamiento de agroindustrias, comercializadoras y empresas relacionadas que prestan servicios.
 
 ###### Artículo 19.
 
@@ -451,49 +521,57 @@ IX. Elaborar y proponer estrategias que promuevan los negocios en los mercados n
 
 X. Participar y organizar reuniones con el sector público y privado para la promoción de las exportaciones así como colaborar en la solución de su problemática cuando sean de interés de la Secretaría;
 
-XI. Promover la oferta y demanda de la micro, pequeña y mediana empresa morelense a nivel nacional e internacional; así como la organización y participación en las reuniones de trabajo de eventos en materia de comercio exterior, e
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
-XII. Impulsar el desarrollo de programas que contribuyan a mejorar la comercialización de los bienes y servicios de las empresas morelenses.
+XI. Promover la oferta y demanda de la micro, pequeña y mediana empresa morelense a nivel nacional e internacional; así como la organización y participación en las reuniones de trabajo de eventos en materia de comercio exterior;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XII. Impulsar el desarrollo de programas que contribuyan a mejorar la comercialización de los bienes y servicios de la agroindustria y de las empresas morelenses;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XIII. Atender y desarrollar la industria penitenciaria con apoyo de las demás Secretarías, Dependencias y Entidades de la Administración Pública Estatal con facultades para ello, a través de esquemas de producción asociación y comercialización, que beneficien a los empresarios participantes y a los internos, como trabajadores de la industria penitenciaria;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XIV. Promover la oferta y demanda de la micro, pequeña y mediana empresa morelense a nivel nacional e internacional; así como la organización y participación en las reuniones de trabajo de eventos en materia de comercio exterior;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XV. Evaluar a personas físicas y morales del ramo agroindustrial, mediante la aplicación de herramientas de diagnóstico a fin de conocer su estado actual;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XVI. Difundir los programas gubernamentales federales, estatales y municipales, dirigidos al fomento de agroindustrias, comercializadoras y empresas que prestan servicios y vincular estas con las instituciones que los generen;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XVII. Promover, en el ámbito de sus facultades y en coordinación con la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal, la realización y promoción de ferias, exposiciones, seminarios y congresos afines a las actividades desarrolladas en la agroindustria morelense, a nivel regional, estatal, nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XVIII. Implementar y difundir programas de apoyo en materia de comercio interior y exterior, con la finalidad de impulsar la actividad productiva y exportadora del Estado relacionada a la agroindustria;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XIX. Elaborar, difundir y mantener permanentemente actualizado el catálogo de empresas del sector agroindustrial y de empresas que brinden productos o servicios relacionados al mismo;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XX. Organizar, coordinar y participar en las reuniones de trabajo y logística de los eventos de entrega de premios y reconocimientos en materia de comercio agroindustrial;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XXI. Participar y organizar reuniones en coordinación con el sector público y privado, vinculadas con agronegocios y agroindustrias, para la promoción de las exportaciones, así como laborar en la solución de su problemática, cuando sean de interés de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XXII. Promover la oferta y demanda de las agroindustrias morelenses a nivel nacional e internacional.
 
 ###### Artículo 20.
 
-La persona titular de la Dirección General de Agroindustria tendrá las siguientes Atribuciones:
-
-I. Establecer y ejecutar instrumentos de apoyo para la promoción, constitución, instalación, apertura y funcionamiento de agronegocios, comercializadoras y empresas que prestan servicios a la agricultura, ganadería incluyendo la diversificada, acuacultura y silvicultura en el Estado;
-
-II. Impulsar y coordinar el empleo de materias primas agrícolas, pecuarias, acuícolas y silvícolas producidas en el Estado de Morelos para su utilización dentro de los procesos de las agroindustrias morelenses;
-
-III. Fomentar y promocionar el consumo de los productos elaborados por las diferentes agroindustrias establecidas en el Estado de Morelos;
-
-IV. Promover y desarrollar innovaciones en los procesos logísticos dentro las actividades de transformación de las agroindustrias morelenses;
-
-V. Promover y propiciar en el sector agroindustrial de Morelos relaciones de negocios a largo plazo que minimicen los riesgos y maximicen los rendimientos de las mismas;
-
-VI. Difundir los programas gubernamentales federales, estatales y municipales, dirigidos al fomento de agroindustrias, comercializadoras y empresas que prestan servicios y vincular estas con las instituciones que los generen;
-
-VII. Planear, desarrollar y dirigir los espacios físicos, instalaciones y servicios asignados para instalación y operación de las agroindustrias morelenses;
-
-VIII. Promover, en el ámbito de sus facultades y en coordinación con la Secretaría de Desarrollo Agropecuario, la realización y promoción de ferias, exposiciones, seminarios y congresos afines a las actividades desarrolladas en la agroindustria morelense, a nivel regional, estatal, nacional e internacional;
-
-IX. Coordinar acciones con las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, organismos e instancias competentes para la implementación de acciones que impulsen y simplifiquen la apertura y funcionamiento de agroindustrias, comercializadoras y empresas relacionadas que prestan servicios;
-
-X. Implementar y difundir programas de apoyo en materia de comercio interior y exterior, con la finalidad de impulsar la actividad productiva y exportadora del Estado relacionada a los agroindustria;
-
-XI. Elaborar, difundir y mantener permanentemente actualizado el catálogo de empresas del sector agroindustrial y de empresas que brinden productos o servicios relacionados al mismo;
-
-XII. Organizar, coordinar y participar en las reuniones de trabajo y logística de los eventos de entrega de premios y reconocimientos en materia de comercio agroindustrial;
-
-XIII. Participar y organizar reuniones en coordinación con el sector público y privado vinculadas con agronegocios y agroindustrias, para la promoción de las exportaciones, así como laborar en la solución de su problemática, cuando sean de interés de la Secretaría;
-
-XIV. Promover la oferta y demanda de las agroindustrias morelenses a nivel nacional e internacional;
-
-XV. Impulsar el desarrollo de proveedores de materias primas, productos y servicios relacionados con la agroindustria;
-
-XVI. Impulsar el desarrollo de programas que contribuyan a mejorar la comercialización de los bienes y servicios de las agroindustrias morelenses;
-
-XVII. Evaluar a personas físicas y morales del ramo agroindustrial, mediante la aplicación de herramientas de diagnóstico a fin de conocer su estado actual, y
-
-XVIII. Proponer con las instancias gubernamentales y financieras, apoyos y líneas de financiamiento para las agroindustrias, que mejoren los indicadores financieros y de mercado.
+(DEROGADO, P.O. 12 DE MARZO DE 2014)
 
 ### CAPÍTULO VIII. DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA OFICINA DEL SECRETARIO
 
@@ -636,3 +714,17 @@ EL SECRETARIO DE ECONOMÍA
 JULIO MITRE CENDEJAS
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MARZO DE 2014.
+
+PRIMERA. El presente Decreto, iniciará su vigencia a los diez días hábiles siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo, que contravengan lo establecido en el presente Decreto.
+
+TERCERA. La Secretaría de Economía del Poder Ejecutivo Estatal, tendrá un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para emitir o realizar las actualizaciones a sus Manuales de Organización, y de Políticas y Procedimientos; en tanto sean actualizados, serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente Decreto. La persona titular de la Secretaría, resolverá las cuestiones de interpretación, procedimiento y operación, que se originen por la aplicación del presente Decreto.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Economía del Poder Ejecutivo Estatal, dentro del plazo de diez días hábiles, a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las unidades administrativas de aquella, sufridos en virtud de este Decreto, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Economía del Poder Ejecutivo Estatal, deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
