@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2013-11-22"
+last_updated: "2014-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1395,7 +1395,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
@@ -1403,9 +1403,15 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 ###### Art. 90.
 
-La educación que se imparta en el Estado se regirá por la filosofía y principios que consagra el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y se encauzará tendiendo a alcanzar el desarrollo integral de la personalidad humana. Reforzando esto último con la promoción y difusión de la cultura en sus más diversas expresiones, alentando en esta tarea la mayor participación social.
+La educación que se imparta en el Estado será de calidad y se regirá por la filosofía, directrices, principios y términos que consagra el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, y se encauzará tendiendo a alcanzar el desarrollo integral de la personalidad humana, sustentada en valores éticos universales. Reforzando esto último con la promoción y difusión de la cultura en sus más diversas expresiones, alentando en esta tarea la mayor participación social y de las familias.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+El Estado garantizará la calidad en la educación obligatoria de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa y la idoneidad de docentes y directivos, garanticen el máximo logro de aprendizaje de los educandos. El Ejecutivo del Estado, por conducto de la dependencia competente, tendrá la responsabilidad de la evaluación de la educación estatal y de la emisión de normas para mejorar su calidad, cobertura y equidad, sujetándose a los lineamientos que establezca el Instituto Nacional para la Evaluación de la Educación, de conformidad con los convenios que al efecto se celebren, y con base en las disposiciones jurídicas aplicables.
+
+El servicio profesional docente en la entidad, se sujetará a lo establecido en la ley correspondiente. Los ingresos y promociones que no se otorguen conforme a las disposiciones de dicha ley, serán nulos.
+
+Las autoridades competentes procurarán fortalecer conforme a lo dispuesto en el artículo 3° constitucional, la autonomía de gestión de los centros escolares con el propósito de mejorar sus instalaciones, adquirir materiales educativos, atender su operación básica y favorecer la participación de los padres de familia, alumnos y maestros, mediante el liderazgo del director, se involucren en la solución de los desafíos que enfrenta cada escuela.
+
+En las escuelas que lo requieran, se definirán e impulsarán políticas públicas para el suministro de alimentos nutritivos, a través de microempresas locales. Se prohíbe introducir alimentos nocivos para la salud de los alumnos, en las escuelas del sistema educativo estatal.
 
 Para la regulación de la educación dentro de la esfera de competencia del Estado, se expedirá la Ley correspondiente, cuya ejecución y vigilancia de su cumplimiento estará a cargo del Gobierno del Estado a través de la dependencia competente y de los Municipios.
 
@@ -3458,3 +3464,11 @@ P.O. 13 DE SEPTIEMBRE DE 2013.
 P.O. 22 DE NOVIEMBRE DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, "El Estado de Sinaloa".
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO.- El H. Congreso del Estado expedirá la reforma necesaria a la Ley de Educación para el Estado de Sinaloa, dentro de un plazo de seis meses, contados a partir de la fecha de publicación del presente Decreto.
