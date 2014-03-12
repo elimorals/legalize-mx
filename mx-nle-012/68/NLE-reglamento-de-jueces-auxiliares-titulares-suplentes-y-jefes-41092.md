@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-jueces-auxiliares-titulares-suplentes-y-jefes-410
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-13"
-last_updated: "2004-09-13"
+last_updated: "2014-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE JUECES AUXILIARES TITULARES, SUPLENTES Y JEFES DE MANZANAS DEL MUNICIPIO DE CIENEGA DE FLORES, NUEVO LEON
 
-REGLAMENTO DE JUECES AUXILIARES TITULARES, SUPLENTES Y JEFES DE MANZANA DEL MUNICIPIO DE CIENEGA DE FLORES, NUEVO LEON
+REGLAMENTO DE JUECES AUXILIARES TITULARES, SUPLENTES Y JEFES DE MANZANA DEL MUNICIPIO DE CIÉNEGA DE FLORES, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE CIÉNEGA DE FLORES, PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 13 de septiembre de 2004.
 
@@ -298,3 +300,17 @@ PRESIDENTE MUNICIPAL
 C. IMELDA PALACIOS QUIROGA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MARZO DE 2014.
+
+PRIMERO. Este reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo león.
+
+SEGUNDO. Los Jueces Auxiliares Titulares y Suplentes o Auxiliares continuaran en su función hasta en tanto no sean ratificados o sustituidos por quienes hayan sido designados como Delegados Municipales Titulares o Suplentes y Auxiliares de Manzana.
+
+Se otorga un plazo no mayor de 90 días hábiles para que la Dirección de Participación Ciudadana lleve a cabo las acciones necesarias a fin de dar cumplimiento a lo indicado al principio de este artículo.
+
+SEGUNDO. Envíese para su Publicación al Periódico Oficial del Estado de Nuevo León, entrando en vigor a partir de la fecha de su publicación.
+
+TERCERO. Se abroga el REGLAMENTO DE JUECES AUXILIARES, TITULARES SUPLENTES Y JEFES DE MANZANA, de fecha de publicación 13 de Septiembre de 2004.
