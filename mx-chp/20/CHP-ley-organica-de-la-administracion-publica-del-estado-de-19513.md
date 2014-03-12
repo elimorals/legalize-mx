@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2013-12-31"
+last_updated: "2014-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -775,9 +775,13 @@ XXX. PROMOVER LA COORDINACION ENTRE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTR
 
 XXXI. ACTUAR COMO ORGANO DE ENLACE DEL GOBERNADOR CON LOS ORGANISMOS AUXILIARES DEL ESTADO; ATENDIENDO LAS SOLICITUDES QUE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA ESTATAL LE REALICEN.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
-XXXII. LOS DEMAS ASUNTOS QUE LE CORRESPONDA, EN LOS TERMINOS DE LAS LEYES APLICABLES Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
+XXXII. COORDINAR Y VALIDAR LOS PROYECTOS SOCIALES A EJECUTARSE POR LOS ORGANOS PUBLICOS QUE INTEGRAN LA ADMINISTRACION PUBLICA ESTATAL.
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XXXIII. LOS DEMAS ASUNTOS QUE LE CORRESPONDA, EN LOS TERMINOS DE LAS LEYES APLICABLES Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -2649,7 +2653,7 @@ Artículo Quinto.- Los recursos financieros, humanos y materiales que hasta la e
 
 Las obligaciones laborales del Comité de Construcción de Escuelas, el Instituto de Vivienda y la Comisión Estatal de Agua y Saneamiento, serán asumidas por la Secretaría de Infraestructura y Vivienda, respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
 
-Las obligaciones laborales de los trabajadores de la Comisión de Caminos, que por virtud del presente Decreto se extingue, serán atendidas conforme a lo dispuesto por la ley aplicable.
+Las obligaciones laborales de los trabajadores de la Comisión de Caminos, que por virtud del presente Decreto se extingue (sic), serán atendidas conforme a lo dispuesto por la ley aplicable.
 
 Artículo Sexto.- Los compromisos, derechos y procedimientos que hubieren contraído y/o adquirido el Comité de Construcción de Escuelas, el Instituto de la Vivienda, la Comisión de Caminos y la Comisión Estatal de Agua y Saneamiento, así como las atribuciones que otras leyes les asignen, serán asumidos inmediatamente y, se entenderán conferidas a las Secretaría de Infraestructura y Vivienda, con excepción de lo dispuesto en el párrafo tercero, del artículo transitorio inmediato anterior.
 
@@ -3306,3 +3310,11 @@ Artículo Quinto.- Los compromisos y procedimientos que a la entrada en vigor de
 Artículo Sexto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el Ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
 
 Artículo Séptimo.- El titular de las Secretarías del Campo y de Medio Ambiente e Historia Natural, deberán someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
+
+P.O. 12 DE MARZO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- La Secretaría de Hacienda, como Dependencia normativa del Poder Ejecutivo del Estado, llevará a cabo de inmediato las acciones que sean necesarias para la dictaminación de la estructura orgánica y funcional a que haya lugar, derivado del presente Decreto.
