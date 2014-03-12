@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2013-07-05"
+last_updated: "2014-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -563,21 +563,25 @@ XI. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, 
 
 XII. Procurar la conservación del patrimonio cultural del Estado, mediante la recuperación, remodelación y reglamentación de las zonas y monumentos arqueológicos, históricos, artísticos y documentos históricos, en coordinación con las entidades federales, estatales y municipales, de acuerdo a las leyes vigentes;
 
-XIII. Formular la política estatal en materia de atención a la juventud y organizar, dirigir, supervisar, administrar y coordinar los servicios que se dirijan a ellos en el Estado;
+XIII. (DEROGADA, P.O. 12 DE MARZO DE 2014)
 
 XIV. Coordinar, organizar y promover la enseñanza y la práctica de los deportes en el Estado, así como la participación de la Entidad en torneos y justas deportivas nacionales e internacionales;
 
 XV. Promover, coordinar, vigilar y fomentar los programas de educación y cultura, para mejoramiento del medio ambiente del Estado y la recreación individual y familiar;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
-XVI. Colaborar en la formulación y ejecución de los programas de difusión de los cambios que se aprueben en las normas laborales, programas de capacitación para el trabajo, campañas para prevenir y erradicar la drogadicción, el alcoholismo, los problemas de malnutrición y todas aquellas que redunden en el bienestar social;
+XVI. Coadyuvar en la formulación y ejecución de los programas de difusión de las normas laborales, programas de capacitación para el trabajo, campañas para prevenir y erradicar la drogadicción, el alcoholismo, los problemas de malnutrición y todas aquellas que redunden en el bienestar social, de conformidad con las leyes aplicables;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
-XVII. Implementar medidas y estrategias que propicien la incorporación de hábitos alimenticios sanos en los educandos, estilos de vida saludables como la actividad física y la práctica de ejercicio como medios para un sano desarrollo; y
+XVII. Implementar medidas y estrategias que propicien la incorporación de hábitos alimenticios sanos en los educandos, estilos de vida saludables como la actividad física y la práctica de ejercicio como medios para un sano desarrollo, de conformidad con las leyes aplicables;
 
-XVIII. Las demás que les señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XVIII. Ejercer, dentro de su ámbito de competencia, las atribuciones que en materia del servicio profesional docente y de evaluación educativa, le confieren las leyes y demás disposiciones aplicables; y
+
+XIX. Las que les señalen las demás leyes y disposiciones aplicables.
 
 ### Capítulo Noveno. De la Secretaría de Salud
 
@@ -1158,3 +1162,19 @@ Artículo Decimosegundo. El Poder Ejecutivo del Estado, con el objeto de cumplir
 Artículo Decimotercero. Para el cumplimiento de los artículos 6 y 10, el titular del Poder Ejecutivo, emitirá el Programa Estatal de Transporte, con la participación de los Municipios a partir del 1 de octubre del año 2015.
 
 Artículo Decimocuarto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en esta Ley.
+
+P.O. 12 DE MARZO DE 2014.
+
+Artículo Primero. La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. En tanto se tienen debidamente implementados y en operación los concursos y los procesos de evaluación que defina el Instituto Nacional para la Evaluación de la Educación, se estará a lo previsto en las disposiciones aplicables hasta antes del 12 de septiembre del 2013, fecha de la entrada en vigor (sic) la Ley General del Servicio Profesional Docente, sin perjuicio de que la Autoridad Educativa y los Organismos Descentralizados, en el ámbito de sus respectivas competencias, realicen todas las acciones que determinen como necesarias para el cumplimiento de los propósitos del Servicio Profesional Docente.
+
+En este sentido, los procedimientos de promoción y escalafonarios se desahogarán conforme las reglas previstas en la normatividad aplicable hasta antes de la entrada en vigencia de la Ley General del Servicio Profesional Docente, en tanto se tienen debidamente implementados y en operación los procesos y concursos estipulados en la Ley mencionada.
+
+Artículo Cuarto. El personal que a la entrada en vigor de la presente Ley se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente y lo correlativo al presente ordenamiento. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio educativo, conforme a lo que determine la Autoridad Educativa o el organismo Descentralizado correspondiente, con pleno respeto a los derechos constitucionales adquiridos, privilegiando para su adscripción la residencia habitual del trabajador; o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+Artículo Quinto. Se reconoce la titularidad de las relaciones laborales colectivas al Sindicato Nacional de Trabajadores de la Educación, en términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes.
+
+Artículo Sexto. Las autoridades competentes respetarán íntegramente los derechos de los trabajadores de la Educación, la normatividad señalada en el Acuerdo Nacional para la Modernización de la Educación Básica y los convenios firmados con el Sindicato Nacional de Trabajadores de la Educación, en tanto no contravengan las disposiciones de la presente Ley y de las Leyes Federales aplicables.
