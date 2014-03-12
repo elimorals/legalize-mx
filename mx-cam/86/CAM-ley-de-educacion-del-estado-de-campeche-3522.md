@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2014-03-10"
+last_updated: "2014-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE EDUCACION DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 12 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -1139,9 +1139,13 @@ La autoridad escolar hará lo conducente para que en cada escuela pública de ed
 
 Este consejo:
 
-a) Conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares con el objeto dé coadyuvar con el maestro a su mejor realización;
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2014)</small>
 
-b) Conocerá y dará seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 42 de la presente ley;
+a) Conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
+
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2014)</small>
+
+b) Conocerá y dará seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el penúltimo párrafo del artículo 19 de la presente ley;
 
 c) Conocerá de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicar al educando;
 
@@ -1417,8 +1421,14 @@ SEGUNDO.- Las autoridades competentes deberán tomar oportunamente las prevision
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
 
-CUARTO.- Acorde a lo establecido en el artículo Transitorio Octavo de la Ley General del Servicio Profesional Docente, el personal que se encontraba en servicio activo y cuente con Nombramiento Definitivo, así como el que haya ingresado bajo los procedimientos anteriores y se encuentre en tránsito el trámite respectivo, habiendo cubierto los requisitos establecidos para las funciones de docencia, de dirección o de supervisión en la Educación Básica y en la Educación Media Superior, conservarán a plenitud todos sus derechos laborales y los demás que deriven de ellos, lo anterior de conformidad con los artículos 14 y 123, Apartado B, Fracción IX de la Constitución Política de los Estados Unidos Mexicanos. En ningún momento perderán empleo, categoría, nivel salarial, prestaciones y beneficios, salvo en los casos previstos en esta Ley, en la Ley General de Educación y en la Ley General del Servicio Profesional Docente.
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2014)</small>
 
-QUINTO.- El personal mencionado en el artículo anterior, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de dicha Ley, no será separado de la función pública y será readscrito, conservando sus derechos laborales en términos de las leyes y reglamentos aplicables, de conformidad con su perfil profesional, para continuar en otras tareas académicas dentro de dicho servicio educativo, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+CUARTO.- Acorde a lo establecido en el artículo Transitorio Octavo de la Ley General del Servicio Profesional Docente, el personal que a la entrada en vigor de dicha Ley se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado, se ajustará a los procesos de evaluación y a los programas de regularización correspondientes, en términos del citado artículo.
+
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2014)</small>
+
+QUINTO.- El personal mencionado en el artículo anterior, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de dicha Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la autoridad educativa o el organismo descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 53 de Ley General del Servicio Profesional Docente, será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según corresponda.
 
 SEXTO.- El Programa de Carrera Magisterial seguirá funcionando en tanto entra en vigor el nuevo programa mencionado en el artículo 37 de la Ley General del Servicio Profesional Docente. Los beneficios adquiridos por el personal no podrán ser afectados en el tránsito al nuevo programa; y, se conservarán íntegramente.
