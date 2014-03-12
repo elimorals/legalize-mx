@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-seguridad-publica-70286"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2011-11-23"
+last_updated: "2014-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
 
@@ -69,7 +69,9 @@ La coordinación, en un marco de respeto a las atribuciones entre las instancias
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Academias: a la Institución de Formación, de Capacitación y de Profesionalización Policial;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+I. Academias: A la Institución de Formación, de Capacitación y de Profesionalización Policial y Ministerial.
 
 II. Bases de Datos Criminalísticas y de Personal: Las bases de datos nacionales y la información contenida en ella, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las demás necesarias para la operación del Sistema.
 
@@ -79,15 +81,23 @@ IV. Carrera Pericial: al Servicio Profesional de Carrera Pericial;
 
 V. Carrera Policial: al Servicio Profesional de Carrera Policial;
 
-VI. Consejo Estatal: al Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
-VII. Instituciones de Seguridad Pública: a las Instituciones Policiales, de Procuración de Justicia, Establecimientos Penitenciarios de Detención Preventiva o de Centros de Arraigo y dependencias encargadas de la Seguridad Pública a nivel Estatal y municipal;
+VI. Consejo Estatal: Al Consejo Estatal de Seguridad Pública, como Órgano Colegiado del Sistema Estatal de Seguridad Pública.
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+VII. Instituciones de Seguridad Pública: A las corporaciones de Seguridad y Protección Ciudadana, Procuración de Justicia, del Sistema Estatal de Seguridad Pública y demás dependencias encargadas de la seguridad pública a nivel estatal y municipal.
 
 VIII. Procuraduría de Justicia: a la Procuraduría General de Justicia del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
 
-IX. Instituciones Policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel Estatal y municipal, que realicen funciones similares;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
-X. Institutos: a los órganos de las instituciones de seguridad pública del Estado, encargados de la formación y actualización especializada de aspirantes y servidores públicos de las funciones ministerial, pericial y de policía ministerial;
+IX. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares.
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+X. Institutos: A los órganos de las instituciones de seguridad pública del Estado, encargados de la formación y actualización especializada de aspirantes y servidores públicos de las funciones de seguridad y protección ciudadana, ministerial, pericial y de policía ministerial.
 
 XI. Programa Rector: al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia, respectivamente;
 
@@ -95,7 +105,9 @@ XII. Registro Nacional: al Registro Nacional de Personal de Seguridad Pública;
 
 XIII. Secretaría: a la Secretaría de Seguridad y Protección Ciudadana;
 
-XIV. Secretario Ejecutivo: al Titular del Secretariado Ejecutivo del Sistema;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XIV. Secretario Ejecutivo: Al Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
 
 XV. Sistema: al Sistema Estatal de Seguridad Pública;
 
@@ -157,7 +169,9 @@ En caso de contradicción entre las resoluciones y acuerdos generales adoptados 
 
 El Sistema se integrará por:
 
-I. El Consejo Estatal de Seguridad Pública, que será la instancia de coordinación, planeación e implementación del Sistema Estatal de Seguridad Pública, siendo responsable de dar seguimiento a los acuerdos, lineamientos y políticas emitidas por el Consejo Nacional de Seguridad Pública;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+I. El Consejo Estatal, que será la instancia de coordinación, planeación e implementación del Sistema, siendo responsable de dar seguimiento a los acuerdos, lineamientos y políticas emitidas por el Consejo Nacional de Seguridad Pública.
 
 II. Los Consejos municipales e Intermunicipales; y,
 
@@ -167,63 +181,53 @@ El Tribunal Superior de Justicia del Estado contribuirá con las instancias que 
 
 ### Capítulo II. Del Consejo Estatal de Seguridad Pública
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+
 ###### Artículo 11.
 
 El Consejo Estatal estará integrado por:
 
-I. El Presidente, que será el Gobernador del Estado;
+I. El Presidente, que será el Gobernador del Estado.
 
-II. El Vicepresidente, que será el Secretario General de Gobierno;
+II. El Vicepresidente, que será el Secretario General de Gobierno.
 
-III. El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+III. El Secretario Técnico, que será el Secretario Ejecutivo.
 
-IV. El Representante o Delegado en el Estado de:
+IV. Los Vocales, que serán los siguientes:
 
-a) La Secretaría de la Defensa Nacional.
+a) El Secretario de Planeación, Gestión Pública y Programa de Gobierno.
 
-b) La Secretaría de Marina.
+b) El Secretario de Hacienda.
 
-c) La Secretaría de Comunicaciones y Transportes.
+c) El Procurador General de Justicia del Estado.
 
-d) La Procuraduría General de la República.
+d) El Secretario de Seguridad y Protección Ciudadana.
 
-e) La Policía Federal.
+e) El Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
-f) El Instituto Nacional de Migración.
+f) Los Presidentes Municipales.
 
-V. El Procurador General de Justicia del Estado;
+g) La Secretaría de la Defensa Nacional.
 
-VI. El Secretario de Infraestructura;
+h) La Secretaría de Marina.
 
-VII. El Secretario de Seguridad y Protección Ciudadana;
+i) La Procuraduría General de la República.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+j) El Centro de Investigación y Seguridad Nacional.
 
-VIII. El Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad;
-
-IX. El Secretario de Transportes;
-
-X. El Subsecretario de Protección Civil; y,
-
-XI. Los Presidentes Municipales.
+Los funcionarios mencionados en los incisos g a la j de la fracción IV, serán los representantes del Gobierno Federal en el Estado.
 
 Sus integrantes tendrán derecho a voz y voto; a cada sesión, se invitará cuando menos a dos representantes de la sociedad civil o de la comunidad, de conformidad con los temas a tratar, cuya participación será de carácter honorífico.
 
+El Presidente de la Comisión Estatal de los Derechos Humanos será invitado permanente del Consejo Estatal con derecho a voz.
+
 A convocatoria del Presidente del Consejo Estatal, podrán participar además los servidores públicos que por razón de sus atribuciones estén vinculados con los fines de la Seguridad Pública, así como los auxiliares en la materia, interviniendo en las sesiones con voz pero sin voto.
 
-El Presidente de la Comisión de los Derechos Humanos del Estado de Chiapas será invitado permanente del Consejo Estatal con derecho a voz.
+Las actas que se levanten con motivo de las Sesiones del Consejo Estatal, serán válidas con la asistencia de la mayoría de sus integrantes, requiriéndose en todo caso, la presencia del Presidente o su suplente. Siendo formalmente válidos los acuerdos para todos los miembros del mismo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2011)</small>
+Los acuerdos y resoluciones emitidos por el Consejo Estatal, se aprobarán por mayoría simple de votos, de los miembros presentes y serán ejecutados por el Secretario Ejecutivo. En caso de empate, tendrá voto de calidad el Presidente o su representante.
 
-El Presidente Consejero del Consejo Estatal de los Derechos Humanos será invitado permanente del Consejo Estatal con derecho a voz.
-
-Las actas que se levanten con motivo de las Sesiones del Consejo Estatal, serán válidas con la sola firma de los funcionarios mencionados en las fracciones I, II, III, V, VII, VIII y X, siendo formalmente válidos los acuerdos para todos los miembros del mismo.
-
-Los funcionarios mencionados en las fracciones IV, VI, IX y XI, ocuparán el cargo de vocales.
-
-Los acuerdos y resoluciones emitidos por el Consejo Estatal, se aprobarán por mayoría simple de votos, de los miembros presentes y serán ejecutados por el Secretario Ejecutivo. En caso de empate, tendrá voto de calidad el Presidente.
-
-Con excepción del Secretario Ejecutivo, los demás cargos serán honoríficos.
+Con excepción del Secretario Ejecutivo, los demás cargos tendrán el carácter de honoríficos, el cual desempeñará las funciones de seguimiento y ejecución de las tareas que le sean encomendadas por el Consejo Estatal, su Presidente y las que determinen su Reglamento Interior del Sistema.
 
 ###### Artículo 12.
 
@@ -303,7 +307,21 @@ VI. Celebrar convenios, en representación del Consejo Estatal, con otras autori
 
 VII. Instruir al Secretario Ejecutivo para promover y vigilar el cumplimiento de los acuerdos, convenios y demás resoluciones del Consejo Estatal; y,
 
-VIII. Todas aquellas que le asignen expresamente las disposiciones jurídicas aplicables y las que le confiera el propio Consejo Estatal.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+VIII. Elaborar y publicar anualmente el informe de actividades del Consejo Estatal.
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+IX. Promover la homologación técnica de los proyectos de infraestructura y equipamiento de seguridad pública, en los ámbitos estatal y municipal en concordancia con las políticas, mecanismos y acciones establecidos en la Ley; así como en los acuerdos y resoluciones del Consejo Nacional y Estatal de Seguridad Pública y convenios generales y específicos aprobados en la materia.
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+X. Proponer al Consejo Estatal lineamientos de prevención social de la violencia y la delincuencia, con participación ciudadana a través del diseño de políticas públicas, cuyas acciones tendrán el carácter de permanentes y estratégicas.
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+
+XI. Todas aquellas que le asignen expresamente las disposiciones jurídicas aplicables y las que le confiera el propio Consejo Estatal.
 
 ###### Artículo 15.
 
@@ -316,6 +334,22 @@ II. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo;
 III. Informar al Consejo, por conducto del Secretario Ejecutivo, sobre el resultado de la operatividad, políticas y resoluciones del Consejo Estatal;
 
 IV. Las demás que le sean asignadas por el Presidente del Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2014)</small>
+
+###### Artículo 15 Bis.
+
+El Secretario Técnico del Consejo Estatal, tendrá las siguientes atribuciones:
+
+I. Convocar previo acuerdo con el Presidente, a las sesiones del Consejo Estatal.
+
+II. Elaborar y certificar los acuerdos que se tomen en el Consejo Estatal, a través de las respectivas actas, llevar el archivo de estas, así como los demás documentos de dicho órgano.
+
+III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente.
+
+IV. Coordinar y dar seguimiento a las comisiones que se conformen dentro del órgano colegiado.
+
+V. Todas aquellas que le asigne expresamente el Consejo Estatal, su Presidente y las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 16.
 
@@ -389,9 +423,11 @@ En las Comisiones podrán participar expertos de instituciones académicas, de i
 
 El Consejo promoverá la instalación y funcionamiento de los Consejos Municipales e Intermunicipales de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
+
 ###### Artículo 21.
 
-Los municipios que integran el Consejo Estatal de Seguridad Pública instalarán a propuesta de este último, los Consejos Municipales e Intermunicipales de Coordinación de Seguridad Pública, los cuales se integrarán de manera similar al propio cuerpo consultivo estatal y tendrá las funciones relativas a hacer posible la coordinación, planeación e implementación del Sistema en sus respectivos ámbitos de gobierno. Asimismo, serán los responsables de dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el, en sus respectivos ámbitos de competencia.
+Los municipios que integran el Consejo Estatal instalarán a propuesta de este último, los Consejos Municipales e Intermunicipales de Coordinación de Seguridad Pública, los cuales se integrarán de manera similar al propio cuerpo consultivo estatal y tendrá las funciones relativas a hacer posible la coordinación, planeación e implementación del Sistema en sus respectivos ámbitos de gobierno. Asimismo, serán los responsables de dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el, en sus respectivos ámbitos de competencia.
 
 Por Consejo Municipal se entiende a aquel que se instala en un solo municipio, atendiendo la problemática que, en materia de Seguridad Pública, se presenta dentro del mismo.
 
@@ -405,9 +441,13 @@ I. El Presidente Municipal, que será el Presidente del Consejo;
 
 II. El Síndico Municipal;
 
-III. Un representante del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
-IV. El Fiscal del Ministerio Público con jurisdicción en el Municipio;
+III. Un representante del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+IV. El Ministerio Público con jurisdicción en el Municipio.
 
 V. El Director de la Seguridad Pública del Municipio;
 
@@ -433,7 +473,9 @@ III. Los funcionarios que designe el Secretario de Seguridad y Protección Ciuda
 
 IV. Los Agentes del Ministerio Público con jurisdicción en los municipios coordinados, cuando fueren varios, la Procuraduría de Justicia designará al representante;
 
-V. Un representante del Secretariado Ejecutivo del Consejo Estatal;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+V. Un representante del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
 
 VI. Los Coordinadores de Prevención del Delito y de los municipios integrantes; y,
 
@@ -453,13 +495,17 @@ II. Proponer a los Presidentes Municipales reformas a Reglamentos municipales en
 
 III. Formular propuestas al Sistema Estatal de Seguridad Pública;
 
-IV. Coordinarse con el Sistema, a través del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+IV. Coordinarse con el Sistema, a través del Secretario Ejecutivo.
 
 V. Conocer y, en su caso, aprobar proyectos y estudios que el Consejo someta a su consideración, por conducto del Secretariado Ejecutivo;
 
 VI. Conformar las Comisiones que considere necesarias para el ejercicio de sus atribuciones; y,
 
-VII. Todas las demás que le confiera el Consejo Estatal de Seguridad Pública.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+VII. Todas las demás que le confiera el Consejo Estatal.
 
 Los Consejos Municipales, además de las atribuciones antes mencionadas, deberán formular los Programas Municipales de Seguridad Pública y de prevención del Delito.
 
@@ -473,17 +519,23 @@ II. De Certificación y Acreditación;
 
 III. De Prevención del Delito y Participación Ciudadana.
 
-Estas Comisiones se coordinarán con el Secretario Ejecutivo del Consejo respectivo, para dar seguimiento al cumplimiento de las disposiciones y lineamientos emitidos por el Consejo Estatal; el funcionamiento de estas Comisiones, se determinará en los Reglamentos propios de cada Consejo.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+
+Estas Comisiones se coordinarán con el Secretario Ejecutivo, para dar seguimiento al cumplimiento de las disposiciones y lineamientos emitidos por el Consejo Estatal; el funcionamiento de estas Comisiones, se determinará en los Reglamentos propios de cada Consejo.
 
 ### Capítulo V. Del Secretariado Ejecutivo del Consejo
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+
 ###### Artículo 27.
 
-El Secretario Ejecutivo será nombrado por el titular del Poder Ejecutivo del Estado, y representará al Consejo Estatal, quien tendrá a su cargo la administración y representación del Organismo Público Descentralizado de la Administración Pública Estatal, con las atribuciones establecidas en esta Ley, el decreto de creación del organismo y demás disposiciones aplicables.
+El Titular del Secretariado Ejecutivo, será nombrado por el Ejecutivo del Estado, quien representará y tendrá a su cargo la administración y representación del Organismo Público Descentralizado de la Administración Pública Estatal, con las atribuciones establecidas en esta Ley, el decreto de creación del organismo y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
 
 ###### Artículo 28.
 
-El Secretario Ejecutivo del Consejo, deberá reunir los siguientes requisitos:
+El Secretario Ejecutivo, deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos civiles y políticos.
 
@@ -493,7 +545,7 @@ III. Ser de reconocida capacidad y probidad y contar con experiencia en áreas d
 
 IV. No haber sido condenado por delito doloso.
 
-V. No pertenecer al estado eclesiástico o ser ministro de algún culto religioso.
+V. (DEROGADA, P.O. 12 DE MARZO DE 2014)
 
 VI. No tener antecedentes negativos en los registros Estatal y personal de Seguridad Pública.
 
@@ -501,69 +553,77 @@ VII. Contar con título profesional de nivel Licenciatura debidamente registrado
 
 VIII. No haber sido inhabilitado como servidor público.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+
 ###### Artículo 29.
 
 El Secretario Ejecutivo, tendrá entre otras las siguientes atribuciones:
 
-I. Convocar previo acuerdo con el Presidente, a las sesiones del Consejo Estatal;
+I. Elaborar y someter a la aprobación del Consejo Estatal el programa estatal de Seguridad Pública e informar sobre el programa de Seguridad Pública que proponga el Consejo Nacional de Seguridad Pública.
 
-II. Elaborar y certificar los acuerdos que se tomen en el Consejo Estatal a través de las respectivas actas, llevar el archivo de estas así como los demás documentos de dicho órgano;
+II. Ejercer la dirección administrativa sobre la estructura de apoyo que se determine, para el eficaz desempeño de sus funciones.
 
-III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente;
+III. Asesorar y proponer al respecto de las políticas, lineamientos y acciones a aplicar, para el buen desempeño de las instituciones de Seguridad Pública Estatal y Municipales.
 
-IV. Coordinar y dar seguimiento a las comisiones que se conformen dentro del órgano colegiado;
+IV. Elaborar y publicar anualmente el informe de actividades del Sistema.
 
-V. Elaborar y someter a la aprobación del Consejo Estatal el programa estatal de Seguridad Pública e informar sobre el programa de Seguridad Pública que proponga el Consejo Nacional;
+V. Coordinar las acciones a instrumentar en el Servicio Estatal de Apoyo a la Carrera Policial y las instituciones estatales de formación policial.
 
-VI. Ejercer la dirección administrativa sobre la estructura de apoyo que se determine, para el eficaz desempeño de sus funciones;
+VI. Impulsar y dar seguimiento a la homologación de la Carrera Policial, la Profesionalización y el Régimen Disciplinario en las Instituciones de Seguridad Pública y de Procuración de Justicia.
 
-VII. Asesorar y proponer al respecto de las políticas, lineamientos y acciones a aplicar, para el buen desempeño de las instituciones de Seguridad Pública Estatal y Municipales;
+VII. Proponer a las instituciones de Seguridad Pública, la realización de acciones conjuntas conforme a las bases y reglas que emita el Sistema, a través de su órgano colegiado, y sin menoscabo de otras que realicen las autoridades competentes.
 
-VIII. Elaborar y publicar anualmente el informe de actividades del Consejo Estatal;
+VIII. Supervisar y otorgar seguimiento a la atención de denuncias por faltas administrativas y delitos cometidos por los integrantes de las instituciones de Seguridad Pública o de los particulares involucrados en estas áreas.
 
-IX. Coordinar las acciones a instrumentar en el Servicio Estatal de Apoyo a la carrera policial y las instituciones estatales de formación policial;
+IX. Administrar, impulsar mejoras y sistematizar los instrumentos de información del Sistema, así como requerir y recabar de las instituciones de Seguridad Pública Estatal y Municipal los datos que requiera el Sistema Nacional de Información.
 
-X. Impulsar y dar seguimiento a la homologación de la Carrera Policial, la Profesionalización y el Régimen Disciplinario en las Instituciones de Seguridad Pública y de Procuración de Justicia;
+X. Proponer al Consejo Estatal las políticas, lineamientos, protocolos y acciones para el buen desempeño de las Instituciones de Seguridad Pública.
 
-XI. Proponer a las instituciones de Seguridad Pública, la realización de acciones conjuntas conforme a las bases y reglas que emita el Consejo Estatal y sin menoscabo de otras que realicen las autoridades competentes;
+XI. Coordinar la realización de estudios especializados sobre las materias de Seguridad Pública y formular recomendaciones a las instancias de coordinación previstas en el presente ordenamiento.
 
-XII. Supervisar y otorgar seguimiento a la atención de denuncias por faltas administrativas y delitos cometidos por los integrantes de las instituciones de Seguridad Pública o de los particulares involucrados en estas áreas;
+XII. Proponer a las instituciones encargadas, las medidas necesarias para hacer efectiva la coordinación y preservación de la Seguridad Pública.
 
-XIII. Administrar, impulsar mejoras y sistematizar los instrumentos de información del Sistema Estatal, así como requerir y recabar de las instituciones de Seguridad Pública Estatal y Municipal los datos que requiera el Sistema Nacional de Información;
+XIII. Realizar estudios específicos en materia de Seguridad Pública.
 
-XIV. Proponer al Consejo Estatal las políticas, lineamientos, protocolos y acciones para el buen desempeño de las Instituciones de Seguridad Pública;
+XIV. Informar periódicamente al Consejo Estatal y a su Presidente de sus actividades.
 
-XV. Coordinar la realización de estudios especializados sobre las materias de Seguridad Pública y formular recomendaciones a las instancias de coordinación previstas en el presente ordenamiento;
+XV. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema.
 
-XVI. Proponer a las instituciones encargadas, las medidas necesarias para hacer efectiva la coordinación y preservación de la Seguridad Pública;
+XVI. Verificar el cumplimiento de las disposiciones de esta Ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables e informar lo conducente al Consejo Estatal.
 
-XVII. Realizar estudios específicos en materia de Seguridad Pública;
+XVII. Verificar que los programas, estrategias, acciones, políticas y servicios que adopten los Consejos Municipales e Intermunicipales de Seguridad Pública, cumplan con los lineamientos y acuerdos generales que dicte el Sistema, a través de su órgano colegiado.
 
-XVIII. Informar periódicamente al Consejo Estatal y a su Presidente de sus actividades;
+XVIII. Proponer los criterios de evaluación de las instituciones de Seguridad Pública en los términos de la ley.
 
-XIX. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema;
+XIX. Integrar los criterios para la distribución de los fondos de seguridad pública y someterlos a la aprobación del Consejo Estatal, en términos de las disposiciones legales aplicables.
 
-XX. Verificar el cumplimiento de las disposiciones de esta ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables e informar lo conducente al Consejo Estatal;
+XX. Gestionar ante las autoridades competentes, la administración de los fondos de seguridad pública, de conformidad con los criterios aprobados por el Consejo Estatal y las demás disposiciones aplicables.
 
-XXI. Verificar que los programas, estrategias, acciones, políticas y servicios que adopten los Consejos Municipales e Intermunicipales de Seguridad Pública, cumplan con los lineamientos y acuerdos generales que dicte el Consejo Estatal;
+XXI. Coadyuvar con el Órgano Superior de Fiscalización, del H. Congreso del Estado, y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de los fondos de ayuda federal, así como del cumplimiento de esta Ley.
 
-XXII. Proponer los criterios de evaluación de las instituciones de Seguridad Pública en los términos de la ley;
+XXII. Supervisar la correcta aplicación de los recursos de los fondos por las dependencias ejecutoras y por los municipios.
 
-XXIII. Integrar los criterios para la distribución de los fondos de seguridad pública y someterlos a la aprobación del Consejo Estatal, en términos de las disposiciones legales aplicables;
+XXIII. Elaborar y someter a consideración del Consejo Estatal, opinión fundada y razonada por la que se recomiende la remoción de los titulares de las instituciones de Seguridad Pública.
 
-XXIV. Gestionar ante las autoridades competentes, la ministración de los fondos de seguridad pública, de conformidad con los criterios aprobados por el Consejo Estatal y las demás disposiciones aplicables;
+XXIV. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos a que se refiere el artículo 94 de esta Ley, e informar al respecto al Consejo Nacional.
 
-XXV. Coadyuvar con el Órgano Superior de Fiscalización, del H. Congreso del Estado, y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de los fondos de ayuda federal, así como del cumplimiento de esta Ley;
+XXV. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema.
 
-XXVI. Supervisar la correcta aplicación de los recursos de los fondos por las dependencias ejecutoras y por los municipios;
+XXVI. Dictaminar los proyectos que presenten los municipios en cuanto al cumplimiento normativo aplicable en materia de seguridad pública municipal de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios.
 
-XXVII. Elaborar y someter a consideración del Consejo Estatal, opinión fundada y razonada por la que se recomiende la remoción de los titulares de las instituciones de Seguridad pública;
+XXVII. Impulsar mejoras para los instrumentos de información del Sistema.
 
-XXVIII. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos a que se refiere el artículo 94 de esta Ley, e informar al respecto al Consejo Nacional;
+XXVIII. Formular propuestas para el Programa Rector de Profesionalización.
 
-XXIX. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema;
+XXIX. Verificar el cumplimiento de las disposiciones de la presente Ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables e informar lo conducente al Consejo Estatal.
 
-XXX. Las demás que le confieran las leyes, reglamentos, acuerdos, decretos y que sean necesarias para el funcionamiento del Consejo Estatal.
+XXX. Proponer al Consejo Estatal las políticas, lineamientos, protocolos y acciones para el buen desempeño de las Instituciones de Seguridad Pública.
+
+XXXI. Verificar que los programas, estrategias, acciones, políticas y servicios que se adopten por las Comisiones Permanentes en materia de Seguridad, se coordinen entre sí, y que cumplan con los lineamientos y acuerdos generales que dicte el Sistema a través de su órgano colegiado.
+
+XXXII. Realización de visitas de verificación y revisiones de gabinete a los Organismos Públicos Ejecutores y municipios, de los documentos, instrumentos y mecanismos relativos o inherentes al ejercicio de los recursos de fondos de ayuda federal para la seguridad pública, con el objeto de verificar el correcto cumplimiento de las disposiciones aplicables, así como de las obligaciones a su cargo, debiendo elaborar en un plazo no mayor a cinco días hábiles siguientes a la conclusión de la visita, el informe correspondiente, para ser sometido a la consideración del Consejo Estatal.
+
+XXXIII. Las demás que le confieran las leyes, reglamentos, acuerdos, decretos y que sean necesarias para el funcionamiento del Consejo Estatal.
 
 ###### Artículo 30.
 
@@ -577,9 +637,11 @@ III. Dar seguimiento al suministro y actualización de las Bases de Datos de las
 
 IV. Las demás que establezcan el Consejo Estatal, su Presidente, y el Reglamento del Secretariado Ejecutivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
+
 ###### Artículo 31.
 
-El Secretariado Ejecutivo, a través de la Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a instancias, tendrá como principales atribuciones:
+El Secretario Ejecutivo, a través del Centro Estatal de Prevención Social de la Violencia y Participación Ciudadana, tendrá como principales atribuciones:
 
 I. Proponer al Consejo Estatal lineamientos de prevención social del delito, a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas;
 
@@ -607,7 +669,9 @@ VIII. Coordinarse con otras instancias competentes en la materia para el ejercic
 
 IX. Promover la participación ciudadana para el fortalecimiento del Sistema en los términos de esta Ley; y,
 
-X. Las demás que establezcan el Consejo Estatal, su Presidente, y el Reglamento del Secretariado Ejecutivo.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+X. Las demás que establezcan el Consejo Estatal, su Presidente, y demás disposiciones legales aplicables.
 
 ### Capítulo VI. De la Distribución de Competencias
 
@@ -1205,9 +1269,11 @@ Artículo 43 Novodecies.- Quienes formen parte del servicio de carrera en la Pro
 
 Las legislaciones correspondientes podrán establecer de igual forma los términos que regirán en el Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia, siempre y cuando no contradigan lo establecido por la presente y la Ley General del Sistema Nacional de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+
 ###### Artículo 45.
 
-Las instituciones de Seguridad Pública del Estado y los Municipios se sujetarán a los planes y programas que en materia de profesionalización implemente el Sistema Nacional de Seguridad Pública, por conducto de la Secretaría de Seguridad Pública Federal, mismos que serán promovidos por el Consejo Estatal de Seguridad Pública a través de la (sic) instancias administrativas de formación a la carrera policial y ministerial.
+Las instituciones de Seguridad Pública del Estado y los Municipios se sujetarán a los planes y programas que en materia de profesionalización implemente el Sistema Nacional de Seguridad Pública, por conducto de la Secretaría de Gobernación, mismos que serán promovidos por el Sistema a través de las instancias administrativas de formación a la carrera policial y ministerial.
 
 ###### Artículo 46.
 
@@ -1517,11 +1583,11 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 ### Capítulo Único. De la Acreditación y Control de Confianza
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
 
 ###### Artículo 53.
 
-El Centro Estatal de Control de Confianza Certificado del Estado de chiapas, es un Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Seguridad y Protección Ciudadana, con personalidad jurídica y patrimonio propios, autonomía administrativa, presupuestal, técnica, de gestión, de operación y de ejecución, para lo cual contará con las atribuciones previstas en su Decreto de Creación y demás disposiciones aplicables.
+El Centro Estatal de Control de Confianza, es un órgano Administrativo Desconcentrado, jerárquicamente subordinado al Secretariado Ejecutivo del Sistema, con plena autonomía administrativa, presupuestal, técnica, de gestión, de operación y de ejecución, para lo cual contará con las atribuciones previstas en su Decreto de Creación y demás disposiciones aplicables.
 
 ###### Artículo 54.
 
@@ -1739,9 +1805,11 @@ El incumplimiento a las disposiciones de este capítulo, dará lugar a que la po
 
 ### Capítulo I. De los Servicios de Atención a la Población
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
+
 ###### Artículo 79.
 
-El Secretariado Ejecutivo, a través de su Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a Instancias, establecerá los mecanismos eficaces para que la sociedad participe con base, en los mecanismos que establezca el Centro Nacional de Prevención del Delito y Participación Ciudadana en el seguimiento, evaluación y supervisión del Sistema, en los términos de esta ley y demás ordenamientos aplicables.
+El Secretario Ejecutivo, a través del Centro Estatal de Prevención Social de la Violencia y Participación Ciudadana establecerá los mecanismos eficaces para que la sociedad participe con base, en los mecanismos que establezca el Centro Nacional de Prevención del Delito y Participación Ciudadana en el seguimiento, evaluación y supervisión del Sistema, en los términos de esta ley y demás ordenamientos aplicables.
 
 Dicha participación se realizará en coadyuvancia y corresponsabilidad con las autoridades, a través de:
 
@@ -1749,13 +1817,17 @@ I. La comunidad, tenga o no estructura organizativa; y,
 
 II. La sociedad civil organizada.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+
 ###### Artículo 80.
 
-La Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a instancias impulsará las acciones necesarias para que el Estado y los municipios, establezcan un servicio para la localización de personas y bienes.
+El Centro Estatal de Prevención Social de la Violencia y Participación Ciudadana, impulsará las acciones necesarias para que el Estado y los municipios, establezcan un servicio para la localización de personas y bienes.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
 
 ###### Artículo 81.
 
-La Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a Instancias promoverá que el Estado y los municipios establezcan un servicio de comunicación que reciba los reportes de la comunidad, sobre las emergencias, faltas y delitos de que tenga conocimiento.
+El Centro Estatal de Prevención Social de la Violencia y Participación Ciudadana, promoverá que el Estado y los municipios establezcan un servicio de comunicación que reciba los reportes de la comunidad, sobre las emergencias, faltas y delitos de que tenga conocimiento.
 
 El servicio tendrá comunicación directa con las Instituciones de Seguridad Pública, de salud, de protección civil y las demás asistenciales públicas y privadas.
 
@@ -1777,9 +1849,11 @@ VI. Realizar denuncias o quejas sobre irregularidades; y,
 
 VII. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
+
 ###### Artículo 83.
 
-La Unidad de Prevención del Delito, Participación Ciudadana y Apoyo a Instancias, promoverá que las Instituciones de Seguridad Pública cuenten con una entidad de consulta y participación de la comunidad, para alcanzar los propósitos del artículo anterior.
+El Centro Estatal de Prevención Social de la Violencia y Participación Ciudadana, promoverá que las Instituciones de Seguridad Pública cuenten con una entidad de consulta y participación de la comunidad, para alcanzar los propósitos del artículo anterior.
 
 La participación ciudadana en materia de evaluación de políticas y de instituciones, se sujetará a los indicadores previamente establecidos con la autoridad sobre los siguientes temas:
 
@@ -1815,7 +1889,9 @@ En el marco de las instancias de coordinación de Seguridad Pública se promover
 
 I. Conocer y opinar sobre políticas de Seguridad Pública, sugiriendo medidas específicas y acciones concretas para mejorar esta función;
 
-II. Otorgar el apoyo requerido por el Consejo y los Consejos Municipales de Seguridad Pública para lograr la participación de la comunidad;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+
+II. Otorgar el apoyo requerido por el Consejo Estatal y los Consejos Municipales de Seguridad Pública para lograr la participación de la comunidad.
 
 III. Promover y participar la implementación del programa de prevención del delito en el Estado;
 
@@ -1895,7 +1971,9 @@ Los fondos de ayuda federal para la seguridad pública a que se refiere el artí
 
 El Estado y los municipios deberán concentrar los recursos en una cuenta específica, así como los rendimientos que generen, a efecto de identificarlos y separarlos del resto de los recursos que con cargo a su presupuesto destinen a seguridad pública.
 
-Las autoridades correspondientes del Estado y los municipios deberán rendir informes trimestrales al Secretariado Ejecutivo del Consejo sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos, su destino así como los recursos comprometidos, devengados y pagados.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+
+Las autoridades correspondientes del Estado y los municipios deberán rendir informes trimestrales al Secretariado Ejecutivo del Sistema, sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos, su destino así como los recursos comprometidos, devengados y pagados.
 
 Las aportaciones estatales a los fondos de ayuda federal para la seguridad pública, serán determinadas en el Presupuesto de Egresos del Estado, y serán destinados exclusivamente a estos fines.
 
@@ -2012,3 +2090,9 @@ P.O. 23 DE NOVIEMBRE DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MARZO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
