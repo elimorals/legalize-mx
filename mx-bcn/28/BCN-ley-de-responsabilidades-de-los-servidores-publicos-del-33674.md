@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2013-09-27"
+last_updated: "2014-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -461,17 +461,21 @@ XVI. Presentar en tiempo y forma las Cuentas Públicas y las solventaciones a la
 
 XVII. Facilitar la información, documentación y/o expedir copias certificadas a quienes siendo o habiendo sido servidores públicos hayan sido requeridos por la Comisión de Fiscalización del Gasto Público del Congreso del Estado y/o el Órgano de Fiscalización Superior para esclarecer las observaciones derivadas de la fiscalización de las Cuentas Públicas en las cuales se encuentren relacionados;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
 
-XVIII. Informar por escrito al titular de la dependencia o entidad de adscripción, cuando por motivo de salud deba someterse al tratamiento médico que implique el consumo de algún tipo de sustancia psicotrópica, enervante, depresiva, estupefaciente o similar; y (sic)
+XVIII. Informar por escrito al titular de la dependencia o entidad de adscripción, cuando por motivo de salud deba someterse al tratamiento médico que implique el consumo de algún tipo de sustancia psicotrópica, enervante, depresiva, estupefaciente o similar;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
 
-XIX. Tratándose de los servidores públicos señalados en la fracción III del artículo 4 de la presente ley, someterse a más tardar el 31 de marzo de cada año, a examen para la detección de drogas de abuso, de conformidad con lo dispuesto en la fracción IV del artículo 92 de la Constitución Política del Estado Libre y Soberano de Baja California y disposiciones reglamentarias.
+XIX. Tratándose de los servidores públicos señalados en la fracción III del artículo 4 de la presente ley, someterse a más tardar el 31 de marzo de cada año, a examen para la detección de drogas de abuso, de conformidad con lo dispuesto en la fracción IV del artículo 92 de la Constitución Política del Estado Libre y Soberano de Baja California y disposiciones reglamentarias;
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
 
-XX. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
+XX. Tratándose de servidores públicos pertenecientes al Sistema Educativo Estatal, cumplir las obligaciones previstas en los artículos 21, tercer párrafo del artículo 42 y segundo párrafo del artículo 56 de la Ley General de Educación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
+
+XXI. Las demás que establezcan las leyes, reglamentos y disposiciones administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2006)</small>
 
@@ -1068,3 +1072,7 @@ P.O. 27 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los Órganos de Control, en el ámbito de sus competencias, en un plazo no mayor de ciento veinte días contados a partir de la entrada en vigor de la presente reforma, deberá emitir los criterios administrativos para la aplicación de este Decreto.
+
+P.O. 13 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
