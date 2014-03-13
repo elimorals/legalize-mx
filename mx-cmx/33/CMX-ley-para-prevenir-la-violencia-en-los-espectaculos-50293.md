@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-la-violencia-en-los-espectaculos-50293"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-03"
-last_updated: "2009-02-24"
+last_updated: "2014-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50293&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2006-04-11"
 ---
 # LEY PARA PREVENIR LA VIOLENCIA EN LOS ESPECTACULOS DEPORTIVOS EN EL DISTRITO FEDERAL
 
-LEY PARA PREVENIR LA VIOLENCIA EN LOS ESPECTACULOS DEPORTIVOS EN EL DISTRITO FEDERAL
+LEY PARA PREVENIR LA VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 3 de mayo de 2006.
 
@@ -332,9 +332,13 @@ XI.- Cumplir con los señalamientos de acceso y salida de los establecimientos d
 
 XII.- Abstenerse de interrumpir o dificultar el servicio público de transporte, a través de obstaculizar alguna vía de comunicación o de la retención de algún medio de transporte de pasajeros o de carga;
 
-XIII.- Abstenerse de asistir al Espectáculo Deportivo en estado de ebriedad o bajo el influjo de narcóticos, y
+XIII.- Abstenerse de asistir al Espectáculo Deportivo en estado de ebriedad o bajo el influjo de narcóticos, y (sic)
 
-XIV.- Las demás que señale la Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
+
+XIV.- Abstenerse de exhibir pancartas, mantas o banderas con símbolos, emblemas o leyendas que por su contenido se incite a la violencia, la discriminación o el racismo.
+
+XV.- Las demás que señale la Ley y otras disposiciones aplicables.
 
 ###### Artículo 15.
 
@@ -422,9 +426,11 @@ Se sancionará con el equivalente de 10 a 20 días de salario mínimo, por el in
 
 Se sancionará con el equivalente de 5 a 10 días de salario mínimo, o arresto de 6-12 horas por el incumplimiento de las disposiciones contenidas en la fracción XIII, del artículo 14 de esta Ley.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2014)</small>
+
 ###### Artículo 28.
 
-Se sancionará con el equivalente de 40 a 80 días de salario mínimo o arresto de 12 a 24 horas por el incumplimiento de lo dispuesto en las fracciones II, III, IV y VI del artículo 14 de esta Ley.
+Se sancionará con el equivalente de 40 a 80 días de salario mínimo o arresto de 12 a 24 horas por el incumplimiento de lo dispuesto en las fracciones II, III, IV, VI y XIV del artículo 14 de esta Ley.
 
 ###### Artículo 29.
 
@@ -454,7 +460,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiún días d
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Politica de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los once días del mes de abril de dos mil seis. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUIZ SUÁREZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, JOEL ORTEGA CUEVAS.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 2 DE ABRIL DE 2008.
 
@@ -473,3 +479,7 @@ G.O. 24 DE FEBRERO DE 2009.
 PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
 
 SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
+
+G.O. 13 DE MARZO DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
