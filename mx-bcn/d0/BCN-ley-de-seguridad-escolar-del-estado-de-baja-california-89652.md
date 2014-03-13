@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-escolar-del-estado-de-baja-california-89652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2013-10-18"
+last_updated: "2014-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre del 2012.
 
@@ -346,6 +346,10 @@ VI. Canalizar para su atención a las diversas organizaciones e instituciones de
 VII. Vigilar el aspecto sanitario del centro escolar a su cargo;
 
 VIII. Promover el consumo de alimentos nutritivos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
+
+Los lineamientos a que deberán sujetarse el expendio y distribución de los alimentos y bebidas preparados y procesados, dentro de toda escuela, serán establecidos por la Secretaría de Educación Pública, mediante disposiciones de carácter general que se publicarán en el Diario Oficial de la Federación, con base en los criterios nutrimentales que para tal efecto determine la Secretaría de Salud Federal. Estas disposiciones de carácter general comprenderán las regulaciones que prohíban los alimentos que no favorezcan la salud de los educandos y fomenten aquellos de carácter nutrimental.
 
 IX. Promover el respeto al entorno y al cuidado del medio ambiente;
 
@@ -742,3 +746,7 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 18 DE OCTUBRE DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
