@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6019
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-28"
-last_updated: "2011-08-29"
+last_updated: "2014-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60192&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2008-03-07"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 28 de marzo de 2008.
 
@@ -50,7 +50,7 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN 
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ## TÍTULO PRIMERO. DISPOSICIONES COMUNES PARA LOS ENTES OBLIGADOS
 
@@ -60,7 +60,9 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL.
 
 Las disposiciones de esta Ley son de orden público y de observancia general en el territorio del Distrito Federal.
 
-El presente ordenamiento contempla los principios y bases establecidos en el segundo párrafo del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos; tiene por objeto transparentar el ejercicio de la función pública, garantizar el efectivo acceso de toda persona a la información pública en posesión de los órganos locales: Ejecutivo, Legislativo, Judicial y Autónomos por ley, así como de cualquier entidad, organismo u organización que reciba recursos públicos del Distrito Federal.
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2014)</small>
+
+El presente ordenamiento contempla los principios y bases establecidos en el apartado A del artículo 6º de la Constitución Política de los Estados Unidos Mexicanos; tiene por objeto transparentar el ejercicio de la función pública, garantizar el efectivo acceso de toda persona a la información pública en posesión de los órganos locales: Ejecutivo, Legislativo, Judicial y Autónomos por ley, así como de cualquier entidad, organismo u organización que reciba recursos públicos del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -200,7 +202,7 @@ En el caso de que cualquier disposición de la ley o de los tratados internacion
 
 En todo lo no previsto en la presente Ley, se aplicará de manera supletoria la Ley de Procedimiento Administrativo del Distrito Federal y, a falta de disposición expresa en ella se estará a lo dispuesto por el Código de Procedimientos Civiles para el Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
@@ -242,7 +244,7 @@ VIII. Promover y fomentar una cultura de transparencia y acceso a la informació
 
 Los particulares tendrán acceso preferente a la información personal que de ellos posea cualquier Ente Obligado, en los términos y condiciones establecidos en la Ley de Protección de Datos Personales para el Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -262,7 +264,7 @@ Quienes soliciten información pública tienen derecho, a su elección, a que é
 
 El servidor público responsable de la pérdida, destrucción, modificación, alteración u ocultamiento de los documentos, archivos, registros o datos en que se contenga información pública, será sancionado en los términos de la Ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 12.
 
@@ -314,7 +316,7 @@ XIII. Crear y hacer uso de sistemas de tecnología sistematizados y avanzados, y
 
 XIV. Las demás que se deriven de la normatividad vigente.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO II. DE LA TRANSPARENCIA Y PUBLICIDAD DE LOS ACTOS DE LOS ENTES OBLIGADOS
 
@@ -324,7 +326,7 @@ XIV. Las demás que se deriven de la normatividad vigente.
 
 Todo Ente Obligado del Distrito Federal deberá publicar en sus respectivos sitios de Internet y en los medios que estime necesarios un listado de la información que detentan por rubros generales, especificando el ejercicio al que corresponde, medios de difusión y lugares en donde se pondrá a disposición de los interesados, a excepción de la información reservada o clasificada como confidencial en los términos de Ley. Dicho listado deberá ajustarse a lo dispuesto en el artículo 29 de la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 14.
 
@@ -440,7 +442,7 @@ XXV. Informe de avances programáticos o presupuestales, balances generales y su
 
 XXVI. Cuenta Pública, y
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 XXVII. Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación de cualquier naturaleza, incluyendo el expediente respectivo y el o los contratos celebrados. En el caso que contengan información reservada o confidencial, sobre ellos se difundirá una versión pública que deberá contener:
 
@@ -512,11 +514,11 @@ Los Entes Obligados deberán informar al Instituto, cuáles son los rubros del p
 
 Las Oficinas de Información Pública de los Entes Obligados deberán tener a disposición de las personas interesadas equipo de cómputo, a fin de que éstas puedan obtener la información, de manera directa o mediante impresiones, las cuáles se expedirán previo pago establecido en el Código Fiscal del Distrito Federal. Del mismo modo, deberán apoyar a los usuarios que lo requieran y proveer todo tipo de asistencia respecto de los trámites y servicios que presten.
 
-> <small>(DEROGADO QUINTO PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 La información a que se refiere este artículo estará disponible de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 15.
 
@@ -526,7 +528,9 @@ I. Estadísticas e índices delictivos, así como los indicadores de la procurac
 
 II. En materia de averiguaciones previas: estadísticas sobre el número de averiguaciones previas que fueron desestimadas, en cuántas se ejerció acción penal, en cuántas se decretó el no ejercicio y cuántas se archivaron, además de las órdenes de aprehensión, presentación y cateo;
 
-III. Las cantidades recibidas por concepto de multas y el destino al que se aplicaron;
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2014)</small>
+
+III. Las cantidades recibidas por concepto de multas y servicios de grúa y almacenamiento de vehículos, en su caso, así como el destino al que se aplicaron;
 
 IV. Los reglamentos de las leyes expedidos en ejercicio de sus atribuciones;
 
@@ -558,7 +562,7 @@ XII. Sistema electrónico con el uso de un tabulador que permita consultar el co
 
 XIII. Relación de constancias, certificados, permisos, licencias, autorizaciones, registro de manifestaciones y dictámenes de las obras que se llevan a cabo en cada una de las demarcaciones territoriales, que permita conocer el estado, situación jurídica y modificaciones de cualquier índole de cada predio.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -618,7 +622,7 @@ XVII. Los demás informes que deban presentarse conforme a su Ley Orgánica y Re
 
 XVIII. La dirección donde se encuentre ubicado el Módulo de Orientación y Quejas Ciudadanas de cada uno de los Diputados, así como el tipo y número de gestiones que presten.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -654,7 +658,7 @@ m) Programa anual de obras, programa anual de adquisiciones y programa anual de 
 
 n) El boletín judicial, así como cualquier otro medio en el que se contengan las listas de acuerdos, laudos, resoluciones, sentencias relevantes y la jurisprudencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 II. El Consejo de la Judicatura del Distrito Federal:
 
@@ -684,7 +688,7 @@ k) Resoluciones del órgano de control interno.
 
 III. La Junta Local de Conciliación y Arbitraje del Distrito Federal, deberá publicar la relación de los contratos colectivos de trabajo que tenga registrados, los boletines laborales, el registro de asociaciones, así como los informes mensuales que deriven de sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -726,7 +730,7 @@ V. Las modificaciones que en su caso sufran los contratos o decretos de creació
 
 VI. Causas y motivos por los que se inicia el proceso de extinción del fideicomiso o fondo público, especificando de manera detallada los recursos financieros destinados para tal efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 19.
 
@@ -774,7 +778,7 @@ Los dictámenes y resoluciones que emitan las autoridades electorales locales co
 
 Artículo 19 BIS. En el caso de los partidos políticos, deberán mantener actualizada, de forma impresa para consulta directa y en los respectivos sitios de Internet, la información pública de oficio que se detalla en el Código de Instituciones y Procedimientos Electorales del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 20.
 
@@ -790,7 +794,7 @@ II. Los recursos de queja e impugnación concluidos, así como el concepto por e
 
 III. Estadísticas sobre las quejas presentadas que permitan identificar la edad y el género de la víctima, el motivo de la denuncia y la ubicación geográfica del acto denunciado, cuidando en todo momento no revelar información de acceso restringido.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 21.
 
@@ -804,7 +808,7 @@ III. Los indicadores de resultados en las evaluaciones al desempeño de la plant
 
 IV. Una lista de los profesores con licencia o en año sabático.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 22.
 
@@ -858,7 +862,7 @@ II. Concepto de la concesión, autorización o permiso; y
 
 III. Vigencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 25.
 
@@ -896,13 +900,13 @@ Los entes obligados deberán proporcionar a los solicitantes, la información re
 
 Asimismo, el órgano de control de la gestión pública deberá publicar la relación de todas las vistas dadas por el Instituto, derivadas del incumplimiento de las obligaciones contempladas en esta Ley, incluyendo el motivo que las originó y el seguimiento que se les dió.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 28.
 
 Los Entes Obligados deberán dar acceso a la información a que se refiere este capítulo mediante bases de datos que permitan la búsqueda y extracción de información. Además las páginas deberán contar con buscadores temáticos y disponer de un respaldo con todos los registros electrónicos para cualquier persona que lo solicite.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 > <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -976,7 +980,7 @@ El Instituto de Educación Media Superior del Distrito Federal, procurará inclu
 
 ### CAPÍTULO IV. DE LA INFORMACIÓN DE ACCESO RESTRINGIDO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 36.
 
@@ -992,7 +996,7 @@ La información únicamente podrá ser clasificada como reservada mediante resol
 
 No podrá ser clasificada como información de acceso restringido aquella que no se encuentre dentro de las hipótesis que expresamente señala la presente Ley y en la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 37.
 
@@ -1036,7 +1040,7 @@ XIII. La transcripción de las reuniones e información obtenida por las Comisio
 
 XIV. La relacionada con la seguridad de las instalaciones estratégicas de los Entes Obligados.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 > <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -1076,7 +1080,7 @@ Los créditos fiscales respecto de los cuales haya operado una disminución, red
 
 Esta información mantendrá este carácter de manera indefinida y sólo podrán tener acceso a ella los titulares de la misma y los servidores públicos que requieran conocerla para el debido ejercicio de sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 39.
 
@@ -1088,7 +1092,7 @@ Para los efectos del párrafo anterior, las autoridades que tramiten procesos o 
 
 Sin perjuicio de lo establecido en los dos anteriores párrafos, los Entes Obligados a los que se hace mención en este artículo, tendrán la obligación de publicar en sus sitios de Internet, la lista de acuerdos y el total de los asuntos recibidos y resueltos; estableciendo las medidas necesarias para que esta información no sea registrada por los buscadores de Internet.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 40.
 
@@ -1112,7 +1116,7 @@ Se exceptúa de los plazos anteriores, la información a que hace referencia la 
 
 Cuando concluya el periodo de reserva o hayan desaparecido las causas que le dieron origen, la información será pública sin necesidad de acuerdo previo, debiendo proteger el Ente Obligado la información confidencial que posea.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 41.
 
@@ -1184,7 +1188,7 @@ VII. Orientación y asesoría a los particulares.
 
 Las personas ejercerán su derecho de acceso a la información, por medio de la Oficina de Información Pública del Ente Obligado que la posea.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 47.
 
@@ -1238,7 +1242,7 @@ En caso de que el ente obligado sea parcialmente competente para atender la soli
 
 Las solicitudes de acceso a la información pública serán gratuitas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 Los costos de reproducción de la información solicitada, estarán previstos en el Código Fiscal del Distrito Federal, se cobrarán al solicitante de manera previa a su entrega y se calcularán atendiendo a:
 
@@ -1262,7 +1266,7 @@ En el caso de que el solicitante requiera información pública en los términos
 
 Los Entes Obligados están obligados a orientar en forma sencilla y comprensible a toda persona sobre los trámites y procedimientos que deben efectuarse para solicitar información pública, las autoridades o instancias competentes, la forma de realizarlos, la manera de llenar los formularios que se requieran, así como de las instancias ante las que se puede acudir a solicitar orientación o formular quejas, consultas o reclamos sobre la prestación del servicio o sobre el ejercicio de las funciones o competencias a cargo de los servidores públicos de que se trate. Los Entes Obligados deberán implementar la solicitud de información por vía electrónica.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 50.
 
@@ -1308,7 +1312,7 @@ Las solicitudes de acceso a la información y las respuestas que se les dé, inc
 
 Satisfechos los trámites, plazos, pago de derechos y requisitos exigidos por esta Ley, por el interesado, si la información solicitada no hubiere sido entregada en tiempo por el Ente Obligado correspondiente, se entenderá que la respuesta es en sentido afirmativo en todo lo que le favorezca, excepto cuando la solicitud verse sobre información de acceso restringido, en cuyo caso, se entenderá en sentido negativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 53.
 
@@ -1334,7 +1338,7 @@ En la consulta directa se permitirán los datos o registros originales, sólo en
 
 Bajo ninguna circunstancia se prestará o permitirá la salida de registros o datos originales de los archivos en que se hallen almacenados.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 57.
 
@@ -1476,15 +1480,15 @@ XIX. Las demás que establece la normatividad vigente.
 
 En caso de que la información solicitada no sea localizada, para que el Comité realice la declaración de inexistencia deberán participar en la sesión los titulares de las unidades administrativas competentes en el asunto.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ## TÍTULO TERCERO. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
 ### CAPÍTULO I. DE SU CONFORMACIÓN Y ATRIBUCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
-###### Articulo 63.
+###### Artículo 63.
 
 El Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal es un órgano autónomo del Distrito Federal, con personalidad jurídica propia y patrimonio propio, con autonomía presupuestaria, de operación y de decisión en materia de transparencia y acceso a la información pública, encargado de dirigir y vigilar el cumplimiento de la presente Ley y las normas que de ella deriven, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad imperen en todas sus decisiones.
 
@@ -1496,7 +1500,7 @@ Dicho personal quedará incorporado al régimen del Instituto de Seguridad y Ser
 
 Todos los servidores públicos que integran la planta del Instituto, son trabajadores de confianza debido a la naturaleza de las funciones que éste desempeña.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 64.
 
@@ -1512,7 +1516,7 @@ IV. Las donaciones, herencias y legados que se hicieren a su favor; y
 
 V. Todos los demás ingresos y bienes que le correspondan o adquiera por cualquier otro medio legal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 65.
 
@@ -1536,7 +1540,9 @@ II. En la convocatoria se establecerán los plazos, lugares, y horarios de prese
 
 III. Las Comisiones Unidas realizarán la selección de aspirantes a comisionados ciudadanos y remitirá su propuesta al Pleno de la Asamblea Legislativa del Distrito Federal para que éste, con base en la trayectoria y experiencia de los candidatos, realice la designación correspondiente;
 
-IV. En la conformación del Pleno del Instituto se procurará que exista equidad de género; y
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2014)</small>
+
+IV. En la conformación del Pleno del Instituto se garantizará que exista equidad de género, por lo que deberá conformarse de al menos un cuarenta por ciento de comisionados ciudadanos de un género distinto al de la mayoría; y
 
 V. Una vez designados los comisionados ciudadanos, éstos deberán rendir protesta ante el Pleno de la Asamblea Legislativa del Distrito Federal.
 
@@ -1568,7 +1574,7 @@ VII. Tener mínimo un año de experiencia comprobable en materia de transparenci
 
 En la conformación del Pleno del Instituto se procurará que exista equidad de género.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 68.
 
@@ -1608,7 +1614,7 @@ El Instituto contará con un Secretario Técnico que será designado por el Pres
 
 El Pleno del Instituto podrá sesionar validamente con la presencia de la mayoría simple de sus miembros, pudiéndose tomar los acuerdos por mayoría de votos de los asistentes. En caso de empate el Presidente tendrá voto de calidad. Las sesiones del Pleno del Instituto serán públicas, salvo que medie acuerdo del mismo para declararlas privadas cuando la naturaleza de los temas lo ameriten.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 71.
 
@@ -1796,7 +1802,7 @@ IX. Ejercer por sí o por medio de los órganos designados en el reglamento, el 
 
 X. Las demás que le confiera esta Ley y su reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 73.
 
@@ -1832,7 +1838,7 @@ VII. Las acciones realizadas para la implementación de la Ley.
 
 Los Entes Obligados deberán proporcionar al Instituto la información adicional que se les requiera para la integración del informe anual. La omisión de la presentación de la información requerida será motivo de responsabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 74.
 
@@ -2070,7 +2076,7 @@ II. Durante la sustanciación del recurso de revisión, y en caso de que la info
 
 III. La resolución que se emita, deberá contener una valoración objetiva, cuantitativa y cualitativa, de los intereses en conflicto que permita razonablemente asegurar que los beneficios sociales de divulgar la información serán mayores al daño que se pudiera generar.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 88.
 
@@ -2242,7 +2248,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiséis días
 
 En cumplimiento de lo dispuesto por el artículo 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los siete días del mes de marzo de dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ARQ. JÉSUS ARTURO AISPURO CORONEL.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JORGE ARGANIS DÍAZ LEAL.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, MANUEL MONDRAGÓN Y KALB.- FIRMA.-EL SECRETARIO DE FINANZAS.- MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, JOEL ORTEGA CUEVAS.- FIRMA.- EL SECRETARIO DE TURISMO.- ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.-. FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL.- ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO.- BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN.- AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES.- MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 13 DE ABRIL DE 2009.
 
@@ -2289,3 +2295,27 @@ SÉPTIMO. En relación con lo dispuesto por la fracción XI, del artículo 15, e
 OCTAVO.- Para instrumentar el relevo escalonado de los Comisionados ciudadanos que integren el Instituto, por única ocasión, quienes terminen su encargo durante el año 2012, podrán presentar su candidatura a efecto de que la Asamblea Legislativa, con base en el procedimiento establecido en la presente Ley, seleccione un Comisionado para cubrir un periodo de tres años y sea renovado en 2015 en los términos que la Ley señala.
 
 NOVENO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 13 DE MARZO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 15 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 13 DE MARZO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 66 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 13 DE MARZO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
