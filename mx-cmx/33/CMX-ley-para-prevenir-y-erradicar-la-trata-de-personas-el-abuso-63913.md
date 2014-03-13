@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-erradicar-la-trata-de-personas-el-abuso-639
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-24"
-last_updated: "2008-10-24"
+last_updated: "2014-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63913&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-09-18"
 ---
 # LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS, EL ABUSO SEXUAL Y LA EXPLOTACION SEXUAL COMERCIAL INFANTIL PARA EL DISTRITO FEDERAL
 
-LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS, EL ABUSO SEXUAL Y LA EXPLOTACION SEXUAL COMERCIAL INFANTIL PARA EL DISTRITO FEDERAL
+LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS, EL ABUSO SEXUAL Y LA EXPLOTACIÓN SEXUAL COMERCIAL INFANTIL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 13 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 24 de octubre de 2008.
 
@@ -607,3 +609,19 @@ SÉPTIMO.- Se derogan aquellas disposiciones que se opongan a la presente Ley.
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiocho días del mes de agosto del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. AGUSTÍN CARLOS CASTILLA MARROQUÍN, PRESIDENTE.- SECRETARIA, DIP. LETICIA QUEZADA CONTRERAS.- SECRETARIO, DIP. ALFREDO VINALAY MORA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de septiembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE MARZO DE 2014.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga la Ley para Prevenir y Erradicar la Trata de Personas, el Abuso Sexual y la Explotación Sexual Infantil para el Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal del 24 de octubre de 2008.
+
+TERCERO.- Los procesos penales y sentencias que se sigan o se hayan seguido conforme a los tipos penales establecidos en la Ley para Prevenir y Erradicar la Trata de Personas, el Abuso Sexual y la Explotación Sexual Infantil para el Distrito Federal, se seguirán substanciado (sic) desde su inicio hasta su conclusión y compurgación de acuerdo a las penas, sanciones que señala (sic) Ley antes citada.
+
+CUARTO.- El Jefe de Gobierno contará con noventa días, contados a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones jurídico administrativas para entrada (sic) en vigor de esta norma.
+
+QUINTO.- La Comisión Interinstitucional a que se refiere la presente Ley, deberá instalarse dentro de los noventa días contados a partir de la entrada en vigor de la (sic) presente Decreto.
+
+SEXTO.- El Fondo que (sic) se refiere la presente ley se constituirá e instalará cuando la Asamblea Legislativa otorgue la suficiencia presupuestal para constituirlo.
