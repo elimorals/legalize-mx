@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2013-06-19"
+last_updated: "2014-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -694,9 +694,13 @@ III. De las excusas y recusaciones de los Jueces Penales del Tribunal Superior d
 
 IV. Del conflicto competencial que se susciten en materia penal entre las autoridades judiciales del Tribunal Superior de Justicia del Distrito Federal;
 
-V. De las contiendas de acumulación que se susciten en materia penal, entre las autoridades que expresa la fracción anterior, y
+V. De las contiendas de acumulación que se susciten en materia penal, entre las autoridades que expresa la fracción anterior, y (sic)
 
-VI. De los demás asuntos que determinen las leyes.
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
+
+VI. De las notificaciones que deberán realizar de manera inmediata a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, respecto de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias; y
+
+VII. De los demás asuntos que determinen las leyes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -899,6 +903,10 @@ Los servidores públicos del Tribunal y del Consejo de la Judicatura que con mot
 > <small>(ADICIONADO, G.O. 16 DE JUNIO DE 2011)</small>
 
 Los Juzgados Penales y de justicia para adolescentes conocerán de los delitos en materia de narcomenudeo previstos en el Título Décimo Octavo Capítulo VII de la Ley General de Salud. En los procedimientos penales que se substancien con motivo de los mismos, se observarán las disposiciones previstas en el artículo 480 de dicho ordenamiento.
+
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2014)</small>
+
+Los Jueces penales deberán ordenar de manera inmediata la práctica de la notificación a los Agentes del Ministerio Público adscrito, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1106,9 +1114,13 @@ Los Secretarios de Acuerdos adscritos a los juzgados de justicia oral civil tend
 
 Los Secretarios adscritos a los Juzgados Penales y de Justicia para Adolescentes, tienen las obligaciones y atribuciones que establece esta ley en los artículos 57 y 58 en lo que sean compatibles, y además deberán:
 
-I. Practicar aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del Juez en cuanto a la entrega de los bienes materia del delito que no competa hacerlo a autoridad diversa, y
+I. Practicar aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la Ley o determinación judicial y ejecutar, en su caso, las decisiones del Juez en cuanto a la entrega de los bienes materia del delito que no competa hacerlo a autoridad diversa, y (sic)
 
-II. Las demás que la Ley o los Jueces les encomienden, relativas a asuntos de la oficina.
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
+
+II. Revisar, en el caso de los secretarios de Juzgados Penales, que se lleve a cabo la notificación de manera inmediata a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias; y
+
+III. Las demás que la Ley o los Jueces les encomienden, relativas a asuntos de la oficina.
 
 ###### Artículo 60.
 
@@ -1340,13 +1352,13 @@ Los Juzgados Penales de Delitos No Graves conocerán:
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-I. De los delitos no graves así definidos por la ley penal, y
+I. De los delitos no graves así definidos por la ley penal, y (sic)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+II. De la notificación que deberán realizar de manera inmediata a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias; y
 
-II. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes.
+III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3330,11 +3342,15 @@ XIX. Mostrar notoria ineptitud, negligencia o descuido en el desempeño de las f
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-XX. No practicar las diligencias encomendadas por el Poder Judicial Federal, sin causa justificada. Lo anterior, sin perjuicio de las sanciones que pudieran imponer tales autoridades en términos de los ordenamientos legales aplicables; y,
+XX. No practicar las diligencias encomendadas por el Poder Judicial Federal, sin causa justificada. Lo anterior, sin perjuicio de las sanciones que pudieran imponer tales autoridades en términos de los ordenamientos legales aplicables; y (sic),
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
+
+XXI. No ordenar la práctica de la notificación de manera inmediata a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias; y
 
 > <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
 
-XXI. No iniciar y dar el trámite correspondiente a los procedimientos administrativos a aquel servidor público que esté a su cargo y que incurra en alguna de las faltas previstas por esta ley, así como no remitir la correspondiente acta al Consejo de la Judicatura del Distrito Federal o a la autoridad competente.
+XXII. No iniciar y dar el trámite correspondiente a los procedimientos administrativos a aquel servidor público que esté a su cargo y que incurra en alguna de las faltas previstas por esta ley, así como no remitir la correspondiente acta al Consejo de la Judicatura del Distrito Federal o a la autoridad competente.
 
 En el caso de las fracciones IV, V, VI, VIII, IX y XIII será requisito de procedibilidad que la resolución de que se trate haya sido revocada.
 
@@ -3380,11 +3396,15 @@ IV. No dar cuenta, al Juez o al Presidente de la Sala, de las faltas u omisiones
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
-V. No engrosar, dentro de ocho días siguientes a la decisión del negocio, la sentencia que corresponda, en los casos que fuere su obligación hacerlo, y
+V. No engrosar, dentro de ocho días siguientes a la decisión del negocio, la sentencia que corresponda, en los casos que fuere su obligación hacerlo, y (sic)
+
+> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2014)</small>
+
+VI. En el caso de los secretarios en el ramo penal, no revisar que se realice de manera inmediata la notificación a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias; y
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
-VI. Las señaladas en las fracciones VII, XIV y XVI al XX del artículo 220.
+VII. Las señaladas en las fracciones VII, XIV y XVI al XX del artículo 220.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3462,7 +3482,13 @@ Son faltas de los Secretarios Actuarios:
 
 I. No practicar legalmente o con la debida oportunidad y sin causa justificada, las notificaciones personales, ni llevar a cabo las diligencias de sus atribuciones, cuando deban efectuarse fuera del juzgado o Tribunal.
 
-Solicitar a cualesquiera de las partes, retribuciones económicas o materiales, por sí o por interpósita persona, para efectuar las diligencias o notificaciones, así como solicitar a las partes proporcionen los medios de traslado para realizar las mismas;
+> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2014)</small>
+
+En materia penal, no practicar la notificación de manera inmediata a los Agentes del Ministerio Público adscritos, al momento en que se dicten y previo a su ejecución, de los autos de libertad por falta de elementos para procesar y las sentencias absolutorias.
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2014)</small>
+
+Solicitar a cualesquiera de las partes, retribuciones económicas o materiales, por sí o por interpósita persona, para efectuar las diligencias o notificaciones, así como solicitar a las partes proporcionen los medios e (sic) traslado para realizar las mismas;
 
 > <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
 
@@ -3951,3 +3977,9 @@ QUINTO. Los mediadores privados con certificación y registro vigente ante el Tr
 SEXTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
 
 SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
