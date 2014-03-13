@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-en-materia-de-fiscalizacion-de-los-recursos-de-85539
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2014-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO EN MATERIA DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 31 de diciembre de 2011.
 
@@ -113,9 +113,11 @@ Generalidades de los Ingresos.
 
 3.1 Tanto los ingresos en efectivo como en especie que reciban los partidos por cualquiera de las modalidades de financiamiento, deberán registrarse contablemente y estar sustentados con la documentación original correspondiente, en términos de lo establecido por la Ley y el presente Reglamento.
 
-3.2 Las ministraciones entregadas por el Consejo para actividad ordinaria, correspondientes al financiamiento público, deberán depositarse en una cuenta de cheques abierta a nombre del partido político, en la cual solamente se manejarán recursos públicos estatales. Los ingresos en efectivo, en cheque o por transferencia bancaria que por financiamiento privado obtengan los partidos políticos, deberán depositarse en una cuenta bancaria independiente de la cuenta utilizada para el financiamiento público estatal, a nombre del partido político para el manejo exclusivo de recursos privados.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
 
-Ambas cuentas se utilizarán en forma mancomunada por quienes autorice el encargado del órgano interno. Los registros contables de las cuentas bancarias deberán conciliarse mensualmente con los estados de cuenta respectivos, firmados por los funcionarios facultados para ello, y remitirlos a la Comisión, como anexo de los informes sobre gasto ordinario.
+3.2 Las ministraciones entregadas por el Consejo para actividad ordinaria, correspondientes al financiamiento público, deberán depositarse en una cuenta de cheques abierta a nombre del partido político, en la cual solamente se manejarán recursos públicos estatales. Los ingresos en efectivo, en cheque o por transferencia bancaria que por financiamiento privado obtengan los partidos políticos, deberán depositarse en “una o varias cuentas bancarias independientemente” de la cuenta utilizada para el financiamiento público estatal, a nombre del partido político para el manejo exclusivo de recursos privados.
+
+“La(s) cuenta(s)” se utilizarán en forma mancomunada por quienes autorice el encargado del órgano interno. Los registros contables de las cuentas bancarias deberán conciliarse mensualmente con los estados de cuenta respectivos, firmados por los funcionarios facultados para ello, y remitirlos a la Comisión, como anexo de los informes sobre gasto ordinario.
 
 3.3 Tratándose de aportaciones de los Órganos Ejecutivos Centrales de los partidos políticos aplicadas al gasto ordinario, deberán manejarse en una cuenta de cheques independiente de las cuentas estatales.
 
@@ -1198,3 +1200,7 @@ ANEXOS
 > <small>N. DE E. VÉASE ANEXO T: CONCEPTO DE INGRESOS Y EGRESOS DE UN PARTIDO POLÍTICO, EN EL P.O. 31 DE DICIEMBRE DE 2011, PÁGINAS 50 Y 51.</small>
 
 > <small>N. DE E. VÉASE ANEXO U: CATÁLOGO DE CUENTAS, EN EL P.O. 31 DE DICIEMBRE DE 2011, PÁGINAS 52 A 54.</small>
+
+P.O. 13 DE MARZO DE 2014.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2°. DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ.
