@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2014-03-05"
+last_updated: "2014-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO, UNA VEZ QUE ENTRE EN VIGOR A NIVEL FEDERAL GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE AL EFECTO EMITA EL CONGRESO DE LA UNIÓN PREVIA SOLICITUD CONJUNTA DEL PODER JUDICIAL DE LA FEDERACIÓN, LA SECRETARÍA DE GOBERNACIÓN Y DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA, SIN QUE PUEDA EXCEDER DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2443,9 +2443,9 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 3) Espionaje, previsto en los artículos 127 y 128;
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
 
-4) Terrorismo, previsto en los artículos 139 al 139 Ter y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter;
+4) Terrorismo, previsto en los artículos 139 al 139 Ter, financiamiento al terrorismo previsto en los artículos 139 Quáter y 139 Quinquies y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter;
 
 5) Sabotaje, previsto en el artículo 140, párrafo primero;
 
@@ -2505,7 +2505,9 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 27) Comercialización habitual de objetos robados, previsto en el artículo 368 Ter;
 
-28) (DEROGADO, D.O.F. 24 DE OCTUBRE DE 2011)
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+28) Robo de material radiactivo, material nuclear, combustible nuclear, mineral radiactivo o fuente de radiación, previsto en el artículo 368 Quinquies;
 
 29) Robo, previsto en el artículo 371, párrafo último;
 
@@ -2515,7 +2517,9 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 32) Extorsión, previsto en el artículo 390;
 
-33) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis, y
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+33) El previsto en el artículo 400 Bis;
 
 > <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
@@ -5898,3 +5902,11 @@ El Consejo de Coordinación para la Implementación del Sistema de Justicia Pena
 Revisión legislativa
 
 A partir de la entrada en vigor del Código Nacional de Procedimientos Penales, el Poder Judicial de la Federación, la Procuraduría General de la República, la Comisión Nacional de Seguridad, la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos y la Conferencia Nacional de Procuradores remitirán, de manera semestral, la información indispensable a efecto de que las Comisiones de Justicia de ambas Cámaras del Congreso de la Unión evalúen el funcionamiento y operatividad de las disposiciones contenidas en el presente Código.
+
+D.O.F. 14 DE MARZO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado Código Penal Federal.
+
+TERCERO. A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el Código Federal de Procedimientos Penales, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
