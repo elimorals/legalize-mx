@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2012-10-09"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -1579,11 +1579,17 @@ V. Para Medicamentos Genéricos, en lugar de lo indicado en el inciso c de la fr
 
 VI. Identificación del origen y certificado de buenas prácticas de fabricación del fármaco expedido por la Secretaría o por la autoridad competente del país de origen.
 
-En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y este provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá verificar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y éste provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes. De ser el caso, la Secretaría fijará en un plazo no mayor a veinte días hábiles, la fecha en que la Secretaría o sus terceros autorizados, comprobarán el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos en los términos previstos en la Ley y demás disposiciones aplicables. Si esta comprobación no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
 
 La certificación de las buenas prácticas de fabricación tendrá una vigencia de treinta meses.
 
 Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+Para el otorgamiento del registro sanitario a que se refiere este artículo, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes.
 
 Cuando en la Farmacopea de los Estados Unidos Mexicanos y sus suplementos no exista la información pertinente, podrá utilizarse la información de farmacopeas de otros países cuyos procedimientos de análisis se realicen conforme a especificaciones y recomendaciones de organismos especializados u otras fuentes de información científica internacional.
 
@@ -1629,7 +1635,9 @@ Para el caso de medicamentos que contengan nuevas entidades moleculares que no h
 
 II. Certificado de buenas prácticas de fabricación del fármaco y del medicamento, expedido por la Secretaría o por la autoridad competente del país de origen.
 
-En caso de que el solicitante presente el certificado de la autoridad competente del país de origen y provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá verificar al establecimiento para comprobar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y éste provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes. De ser el caso, la Secretaría fijará en un plazo no mayor a veinte días hábiles, la fecha en que la Secretaría o sus terceros autorizados, comprobarán el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos en los términos previstos en la Ley y demás disposiciones aplicables. Si esta comprobación no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
 
 La certificación de las buenas prácticas de fabricación se realizará a solicitud de parte y tendrán una vigencia de treinta meses.
 
@@ -1640,6 +1648,10 @@ Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá 
 > <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2008)</small>
 
 III. El documento que acredite a un representante legal con domicilio en los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+Para el otorgamiento del registro sanitario a que se refiere este artículo, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes.
 
 ###### ARTÍCULO 171.
 
@@ -1717,6 +1729,10 @@ La Secretaría tendrá cuarenta y cinco días para resolver la solicitud. En cas
 
 En caso de que el solicitante presente dictamen favorable expedido por Tercero Autorizado ante la Secretaría, ésta autorizará el registro en un plazo máximo de quince días.
 
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+Para el otorgamiento del registro sanitario a que se refiere este artículo, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes.
+
 ###### ARTÍCULO 174.
 
 Para obtener el registro de medicamentos herbolarios de fabricación nacional, se requiere presentar solicitud en el formato oficial, al cual se anexará lo siguiente:
@@ -1741,6 +1757,10 @@ La Secretaría tendrá cuarenta y cinco días para resolver la solicitud.
 
 En caso de que el solicitante presente dictamen favorable expedido por Tercero Autorizado ante la Secretaría, ésta otorgará el registro en un plazo de quince días.
 
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+Para el otorgamiento del registro sanitario a que se refiere este artículo, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes.
+
 ###### ARTÍCULO 175.
 
 Para obtener el registro sanitario de medicamentos homeopáticos y herbolarios de fabricación extranjera, además de los requisitos señalados en los artículos 173 y 174 de este Reglamento, se presentará la documentación siguiente:
@@ -1752,6 +1772,10 @@ II. El certificado de análisis emitido por el fabricante del medicamento, en pa
 III. La carta de representación del fabricante, sólo cuando el laboratorio que lo fabrique en el extranjero no sea filial o casa matriz del laboratorio solicitante del registro.
 
 La Secretaría resolverá las solicitudes dentro de los plazos señalados en los artículos 173 y 174 de este Reglamento, según sea el caso.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+Para el otorgamiento del registro sanitario a que se refiere este artículo, la Secretaría verificará que se cumplan las buenas prácticas de fabricación y del proceso de producción del medicamento, así como la certificación de sus principios activos, conforme a las Normas correspondientes, a través de la licencia, certificado o documento expedido por la autoridad competente del país de origen para tales efectos.
 
 ###### ARTÍCULO 176.
 
@@ -2061,9 +2085,15 @@ V. Informe de farmacovigilancia del medicamento, en los términos de la normativ
 
 VI. Para el caso de medicamentos alopáticos, certificado de buenas prácticas de fabricación del fármaco, expedido por la Secretaría o por la autoridad competente del país de origen.
 
-En caso de que el solicitante presente el certificado de la autoridad competente del país de origen y este provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá verificar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y éste provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes. De ser el caso, la Secretaría fijará en un plazo no mayor a veinte días hábiles, la fecha en que la Secretaría o sus terceros autorizados, comprobarán el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos en los términos previstos en la Ley y demás disposiciones aplicables. Si esta comprobación no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
 
 Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+Para el otorgamiento de la prórroga del registro sanitario a que se refiere este artículo, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes.
 
 > <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
 
@@ -2077,9 +2107,15 @@ II. Para el caso de medicamentos alopáticos, certificado de buenas prácticas d
 
 III. Para el caso de medicamentos herbolarios, vitamínicos y homeopáticos, certificado de buenas prácticas de fabricación del medicamento, expedido por la Secretaría o por la autoridad competente del país de origen.
 
-En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y este provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría podrá verificar el cumplimiento de las buenas prácticas de fabricación. En dicho supuesto, la autoridad fijará en un plazo no mayor a veinte días hábiles, la fecha en que se realizará la visita de verificación, conforme al procedimiento establecido por la Secretaría y publicado en el Diario Oficial de la Federación. Si esta visita no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+En caso de que el solicitante presente el certificado de la autoridad competente del país de origen, y éste provenga de países con los cuales la Secretaría no tenga celebrados acuerdos de reconocimiento en materia de buenas prácticas de fabricación, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes. De ser el caso, la Secretaría fijará en un plazo no mayor a veinte días hábiles, la fecha en que la Secretaría o sus terceros autorizados, comprobarán el cumplimiento de las buenas prácticas de fabricación y el proceso de producción del medicamento, así como la certificación de sus principios activos en los términos previstos en la Ley y demás disposiciones aplicables. Si esta comprobación no se realiza en la fecha prevista por razones imputables a la Secretaría, se reprogramará como prioritaria.
 
 Conforme a lo previsto en el artículo 391 bis de la Ley, la Secretaría podrá expedir los certificados, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen los terceros autorizados.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+Para el otorgamiento de la prórroga del registro sanitario a que se refiere este artículo, la Secretaría verificará el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento, así como la certificación de sus principios activos, de conformidad con las Normas correspondientes.
 
 > <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2007)</small>
 
@@ -2586,3 +2622,7 @@ D.O.F. 9 DE OCTUBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días hábiles posteriores a la fecha de su publicación en el Diario Oficial de la Federación, salvo la adición del segundo párrafo a la fracción I del artículo 170 del Reglamento de Insumos para la Salud, la cual entrará en vigor al día siguiente de la publicación de este Decreto.
 
 SEGUNDO.- Las disposiciones del presente Decreto no le serán aplicables a los trámites que hayan sido presentados con anterioridad a la entrada en vigor del mismo.
+
+D.O.F. 14 DE MARZO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
