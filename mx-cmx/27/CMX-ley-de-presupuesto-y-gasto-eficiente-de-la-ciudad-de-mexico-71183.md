@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -122,6 +122,10 @@ Delegaciones: Órganos Político-Administrativos en cada una de las demarcacione
 
 Dependencias: Unidades administrativas que integran la Administración Pública Centralizada, de conformidad con la Ley Orgánica;
 
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2013)</small>
+
+Economías: Diferencia positiva del gasto público generada durante el periodo de vigencia del Presupuesto de Egresos, una vez cumplidos los programas y metas establecidos y que se deriva de la obtención de mejores condiciones en la adquisición de bienes y servicios.
+
 Entidades: Organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del sector paraestatal del Distrito Federal;
 
 Entidades Coordinadas: Las que se designen formando parte de un sector determinado;
@@ -130,7 +134,9 @@ Estatuto: Estatuto de Gobierno del Distrito Federal;
 
 Gaceta: Gaceta Oficial del Distrito Federal;
 
-Informe Trimestral: Informe sobre la ejecución y cumplimiento de los presupuestos y programas aprobados, que el Jefe de Gobierno presenta cada tres meses a la Asamblea;
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2013)</small>
+
+Informe Trimestral: Documento de rendición de cuentas, en el cual el Gobierno del Distrito Federal reporta a la Asamblea, cada tres meses, sobre las Finanzas Públicas y la Deuda Pública, desde el inicio del ejercicio fiscal hasta el término del trimestre correspondiente;
 
 Ingresos Excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los Ingresos Propios de las Entidades;
 
@@ -194,6 +200,10 @@ Reglamento: Reglamento de la Ley de Presupuesto y Gasto Eficiente del Distrito F
 
 Reglamento Interior: Reglamento Interior de la Administración Pública del Distrito Federal;
 
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2013)</small>
+
+Reglas de Operación: Disposiciones a las cuales se sujetan determinados programas de gobierno con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+
 Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos del Distrito Federal, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por la Asamblea;
 
 Resultado: Conjunto de objetivos relacionados entre sí tendientes a crear una transformación de una determinada situación;
@@ -203,6 +213,10 @@ Secretaría: Secretaría de Finanzas del Distrito Federal;
 Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada caso designe el Jefe de Gobierno;
 
 Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2013)</small>
+
+Subsidios: Asignaciones previstas en el Presupuesto de Egresos para los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o eco nómicas prioritarias de interés general
 
 Tesorería: Tesorería del Distrito Federal, y (sic)
 
@@ -2063,3 +2077,7 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1° de enero de 201
 SEGUNDO.- En caso de que sean retenidos los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal, en términos de lo dispuesto por el artículo 66 BIS, la Secretaría compensará a las Demarcaciones Territoriales el ingreso que dejarían de percibir por dicho concepto.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.O. 14 DE MARZO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
