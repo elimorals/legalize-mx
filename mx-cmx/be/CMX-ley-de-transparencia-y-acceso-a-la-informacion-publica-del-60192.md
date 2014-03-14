@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6019
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-28"
-last_updated: "2014-03-13"
+last_updated: "2014-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60192&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-07"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 28 de marzo de 2008.
 
@@ -726,9 +726,53 @@ III. El monto total, el uso y destino de los subsidios, donaciones, transferenci
 
 IV. Monto total de remanentes de un ejercicio fiscal a otro;
 
-V. Las modificaciones que en su caso sufran los contratos o decretos de creación del fideicomiso o del fondo público, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Causas y motivos por los que se inicia el proceso de extinción del fideicomiso o fondo público, especificando de manera detallada los recursos financieros destinados para tal efecto.
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2014)</small>
+
+V. Las modificaciones que, en su caso, sufran los contratos o decretos de creación del fideicomiso o del fondo público;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2014)</small>
+
+VI. Causas y motivos por los que se inicia el proceso de extinción del fideicomiso o fondo público, especificando de manera detallada los recursos financieros destinados para tal efecto;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE MARZO DE 2014)</small>
+
+VII. Reglas de operación y cualquier otra normatividad interna del fideicomiso o fondo público, con independencia de su denominación, sea o no publicada en el (sic) Gaceta Oficial del Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE MARZO DE 2014)</small>
+
+VIII. Impacto social derivado del cumplimiento de las acciones que realiza el fideicomiso o fondo público;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE MARZO DE 2014)</small>
+
+IX. Actas de los comités técnicos y otros órganos colegiados con funciones directivas en el fideicomiso o fondo público, cualquiera que sea su denominación; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE MARZO DE 2014)</small>
+
+X. Indicadores de Gestión del fideicomiso o fondo público y los resultados de su aplicación anual.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE MARZO DE 2014)</small>
+
+En relación con contratos de mandato y otros actos jurídicos por virtud de los cuales los Entes Obligados otorguen representación jurídica, los Entes Obligados deberán mantener actualizada, de forma impresa para su consulta directa y en sus respectivos sitios de Internet, además de lo previsto por la fracción XVII del artículo 14 de la presente ley, cualquier tipo de instrucciones que el mandante exprese al mandatario o cualquier tipo de instrucciones relacionadas con el ejercicio de la facultad de representar, otorgada mediante otro acto jurídico.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE MARZO DE 2014)</small>
+
+La divulgación de la Información Pública objeto del presente artículo deberá respetar las restricciones impuestas por la Ley de Protección de Datos Personales del Distrito Federal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -2319,3 +2363,11 @@ DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1 DE LA LEY DE TRANSPARENCIA Y ACCESO
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 14 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días siguientes a la fecha de su publicación.
+
+SEGUNDO.- El Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal deberá aprobar, dentro de los noventa días siguientes a la fecha de publicación del presente Decreto, los criterios de evaluación de los portales de Internet, aplicables a la reforma prevista en el presente Decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
