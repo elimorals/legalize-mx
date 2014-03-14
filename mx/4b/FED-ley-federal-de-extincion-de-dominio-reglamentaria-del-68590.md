@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-extincion-de-dominio-reglamentaria-del-68590"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2009-05-29"
-last_updated: "2009-05-29"
+last_updated: "2014-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68590&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-05-27"
 ---
 # LEY FEDERAL DE EXTINCION DE DOMINIO, REGLAMENTARIA DEL ARTICULO 22 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-LEY FEDERAL DE EXTINCION DE DOMINIO, REGLAMENTARIA DEL ARTICULO 22 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -97,15 +97,19 @@ A la acción de extinción de dominio se aplicarán las reglas de prescripción 
 
 El Ministerio Público podrá desistirse de la acción de extinción de dominio en cualquier momento, antes de que se dicte sentencia definitiva, previo acuerdo del Procurador General de la República. En los mismos términos, podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
 ###### Artículo 6.
 
-Para la preparación de la acción de extinción de dominio, el Ministerio Público podrá emplear la información que se genere en las averiguaciones previas que inicie en términos del Código Federal de Procedimientos Penales y en su caso, de la Ley Federal Contra la Delincuencia Organizada.
+Para la preparación de la acción de extinción de dominio, el Ministerio Público podrá emplear la información que se genere en las averiguaciones previas que inicie en términos del Código Federal de Procedimientos Penales y, en su caso, de la Ley Federal Contra la Delincuencia Organizada, así como las resoluciones a que se refiere el artículo 12 Bis de esta Ley.
 
 ###### Artículo 7.
 
 La acción de extinción de dominio se ejercerá, respecto de los bienes a que se refiere el artículo siguiente, aún cuando no se haya determinado la responsabilidad penal en los casos de los delitos previstos en la fracción II del artículo 22 constitucional.
 
-El ejercicio de la acción de extinción de dominio se sustentará en la información que recabe el Ministerio Público cuando se haya iniciado la averiguación previa, o en las actuaciones conducentes del procedimiento penal respectivo, o de ambas, cuando de ella se desprenda que el hecho ilícito sucedió y que los bienes se ubican en los supuestos del artículo siguiente.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+El ejercicio de la acción de extinción de dominio se sustentará en la información que recabe el Ministerio Público cuando se haya iniciado la averiguación previa, o en las actuaciones conducentes del procedimiento penal respectivo, o de ambas, cuando de ella se desprenda que el hecho ilícito sucedió y que los bienes se ubican en los supuestos del artículo siguiente, así como las resoluciones a que se refiere el artículo 12 Bis de esta Ley.
 
 La muerte del o los probables responsables no cancela la acción de extinción de dominio.
 
@@ -162,6 +166,18 @@ Son medidas cautelares:
 I. El aseguramiento de bienes;
 
 II. El embargo precautorio;
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+###### Artículo 12 Bis.
+
+El Ministerio Público o, en los casos que determinen las disposiciones aplicables, las autoridades que regulan el sistema financiero nacional podrán ordenar a las entidades financieras la inmovilización provisional e inmediata de fondos o activos cuando reciba resoluciones de las autoridades competentes o de organismos internacionales de los que el Estado mexicano sea parte cuando estén vinculados con los delitos materia de la extinción de dominio.
+
+Se entenderá por inmovilización provisional e inmediata, la prohibición temporal de transferir, depositar, adquirir, dar, recibir, cambiar, invertir, transportar, traspasar, convertir, enajenar, trasladar, gravar, mover o retirar fondos o activos, cuando estos estén vinculados con los delitos materia de la extinción de dominio.
+
+La inmovilización provisional e inmediata ordenada por el Ministerio Público tendrá una vigencia de 20 días contados a partir de que se ordenó la medida, dentro de este plazo, el Ministerio Público solicitará al juez el aseguramiento de los fondos o activos.
+
+En estos casos quedarán salvaguardados los derechos de las entidades financieras respecto de créditos otorgados, garantías u obligaciones contraídas con anterioridad y conforme a la ley.
 
 ###### Artículo 13.
 
@@ -612,3 +628,13 @@ TERCERO.- El Consejo de la Judicatura Federal contará con un plazo que no podr�
 México, D. F., a 30 de abril de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Margarita Arenas Guzmán, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE MARZO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado Código Penal Federal.
+
+TERCERO. A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el Código Federal de Procedimientos Penales, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
