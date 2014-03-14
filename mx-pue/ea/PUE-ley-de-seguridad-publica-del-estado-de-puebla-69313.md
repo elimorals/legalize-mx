@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2013-12-30"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -373,7 +373,7 @@ XII.- Proponer metas, objetivos y acciones para la integración del Programa Est
 
 XIII.- Impulsar y promover la participación social y la cultura de la denuncia;
 
-XIV.- Registrar y autorizar la prestación de servicios de seguridad privada en el Estado;
+XIV.- (DEROGADA, P.O. 14 DE MARZO DE 2014)
 
 XV.- Participar en la integración del Programa Estatal de Seguridad Pública; y
 
@@ -1557,23 +1557,7 @@ Las instancias correspondientes mantendrán sendos registros de los elementos de
 
 ###### Artículo 110.
 
-Los servicios de seguridad privada se refieren a:
-
-I.- Traslado y protección de fondos y valores;
-
-II.- Investigación encaminada a proporcionar informes comerciales o sobre solvencia de las personas;
-
-III.- Vigilancia y custodia de los establecimientos comerciales;
-
-IV.- Vigilancia, custodia y localización de personas y bienes;
-
-V.- Vigilancia y protección a instituciones de servicio, bancarias, financieras y de seguros;
-
-VI.- Establecimiento y operación de sistemas y equipos de seguridad, monitoreo electrónico y vigilancia por medios electrónicos remotos;
-
-VII.- Protección y vigilancia de personas o bienes fuera de las vías o áreas públicas; y
-
-VIII.- La asesoría en materia de prevención de riesgos, investigaciones y la realización de actividades equivalentes a las señaladas en las fracciones anteriores.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 111.
 
@@ -1581,223 +1565,89 @@ Las empresas de seguridad privada son auxiliares de la función de seguridad pú
 
 Las personas que presten servicios de seguridad privada tienen estrictamente prohibido ejercer funciones exclusivas de las autoridades de seguridad pública.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
 ###### Artículo 112.
 
-Las personas que se dediquen al servicio de seguridad privada, así como el personal que utilicen, se regirán en lo conducente, por las normas que esta Ley y las demás aplicables que se establecen para la materia; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia a la autoridad competente.
+Las personas que se dediquen al servicio de seguridad privada, así como el personal que utilicen, se regirán en lo conducente, por las normas que esta Ley, la Ley de Seguridad Privada del Estado Libre y Soberano de Puebla y las demás aplicables que se establecen para la materia; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo, y en general, proporcionar la información estadística y sobre la delincuencia a la autoridad competente.
 
 ###### Artículo 113.
 
-Queda estrictamente prohibido prestar servicios de seguridad privada dentro del Estado, si previamente no se obtiene la autorización correspondiente expedida por la Procuraduría, independientemente de haber obtenido autorización previa de la Secretaría de Seguridad Pública Federal.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ### CAPÍTULO SEGUNDO. DE LA SOLICITUD PARA EL REGISTRO Y AUTORIZACIÓN
 
 ###### Artículo 114.
 
-Las personas que pretendan iniciar los servicios de seguridad privada, deberán presentar su solicitud de funcionamiento, por escrito ante el Titular de la Procuraduría.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 115.
 
-Las personas físicas o morales que pretendan constituir empresas de seguridad privada, deberán acreditar los requisitos siguientes:
-
-I.- Exposición de motivos para la prestación del servicio de seguridad privada;
-
-II.- Acta constitutiva de la sociedad, si es persona moral; copia certificada del acta de nacimiento si se trata de persona física; decreto o acto jurídico constitutivo, si se trata de organismo descentralizado o empresas de participación estatal mayoritaria;
-
-III.- Acreditar el domicilio principal, y en su caso, de las sucursales con las que cuente;
-
-IV.- Datos generales de la persona solicitante;
-
-V.- Copia certificada de la cédula del Registro Federal de Contribuyentes, expedida por la Secretaría de Hacienda y Crédito Público;
-
-VI.- Una relación detallada y copia de sus respectivas identificaciones de las personas asociadas y del personal directivo, administrativo y operativo, acompañada de los requisitos que señala esta Ley;
-
-VII.- Ejemplar del reglamento, manual o bases operativas, al tenor del cual se prestará el servicio;
-
-VIII.- Especificación de vehículos de los que disponga para prestar el servicio de seguridad privada, en la que se detalle, marca, tipo, modelo, número de serie, número de placas y Tarjeta de Circulación;
-
-IX.- En caso de contar con registro de licencia de uso de armas de fuego, la relación de éstas en la que se exprese marca, calibre, modelo, matrícula y asignación respectiva acompañando la licencia particular o colectiva para su portación;
-
-X.- Copia certificada del permiso o similar que haya expedido la autoridad competente, para la instalación del equipo de radiocomunicación y uso de la frecuencia respectiva; así como la lista del equipo de radiocomunicación, anotando marca, modelo, número de serie y frecuencia utilizada;
-
-XI.- Modelo de contrato de prestación de servicios, debidamente autorizado por la Procuraduría Federal de Protección al Consumidor;
-
-XII.- Formato original de la credencial que la prestadora del servicio expida para la identificación de su personal, misma que deberá ser distinta en todas sus características a las asignadas a los Cuerpos de Seguridad Pública, sin que pueda figurar en ellas el Escudo ni los colores de insignias nacionales;
-
-XIII.- El lema de la empresa, si lo hubiere;
-
-XIV.- Fotografía de frente, perfil y espalda, en caso de tratarse de persona física;
-
-XV.- Descripción de los colores e insignias y cualquier aditamento adicional que pretenda emplear en sus vehículos;
-
-XVI.- Libro de actas de asambleas;
-
-XVII.- Libro de Registro de Accionistas, personal directivo, de consejería, de administración, gerencial y operativo, citando sus generales, domicilio y Registro Federal de Contribuyente, identificación oficial y número de credencial;
-
-XVIII.- Libro de control de prestatarios, en el que se asentará el servicio a proporcionar por lugar, fecha de inicio y finalización de actividades; personal asignado, relación del personal y funciones del mismo, y las demás necesarias para el control del personal operativo;
-
-XIX.- Inventario de bienes muebles e inmuebles que sean propiedad de la empresa privada de seguridad y que utilice para prestar el servicio;
-
-XX.- Fotografías a color de los vehículos, con los logotipos y aditamentos que se usen, así como del uniforme que se utilice con todos sus accesorios;
-
-XXI.- Acreditar con la documentación expedida por autoridad competente que el personal operativo esté debidamente capacitado para prestar el servicio;
-
-XXII.- Acreditar con la documentación expedida por la autoridad competente que el personal operativo de la empresa, se ha sometido y aprobado los procedimientos de evaluación y control de confianza que establece la normatividad aplicable; y
-
-XXIII.- Así como las demás que establezcan las leyes y reglamentos de la materia.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 116.
 
-La persona solicitante deberá acreditar los requisitos señalados en el Artículo que antecede en un término máximo de diez días hábiles contados a partir de la presentación de la solicitud respectiva. En caso de que no cumpla con dichos requisitos, la Procuraduría lo prevendrá para que en un plazo improrrogable de veinte días hábiles, subsane las omisiones o deficiencias; transcurrido el citado plazo sin que la persona solicitante las haya subsanado ésta será desechada.
-
-Una vez recibida la documentación mencionada, la Procuraduría procederá en los términos del artículo 121 de esta Ley; verificados los documentos ésta expedirá la orden de pago de derechos correspondiente y a partir de realizado el pago se hará el análisis y diagnóstico de la solicitud, dentro de un término que no exceda de treinta días hábiles.
-
-En el caso de que la o el Titular de la Procuraduría autorice la prestación de los servicios de seguridad privada solicitados, procederá a su registro en el Libro correspondiente, dando aviso inmediatamente a la Secretaria de Seguridad Pública del Estado y remitiendo el expediente de la empresa registrada, para que supervise y vigile sus actividades, quedando en poder de la Procuraduría copia certificada de dicho expediente.
-
-A quienes se les niegue el registro y autorización se les notificará para dar por concluido el procedimiento, archivándose como asunto concluido.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 117.
 
-La empresa de seguridad privada deberá cubrir el importe anual de los derechos correspondientes que establezca la Ley de Ingresos del Ejercicio Fiscal que corresponda.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 118.
 
-Para que pueda revalidarse en forma anual la autorización de funcionamiento, la empresa deberá cubrir los derechos que estipule la Ley de Ingresos del Ejercicio Fiscal que corresponda.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 119.
 
-Los prestadores del servicio que hayan obtenido la autorización a que se refiere este Capítulo y pretendan ampliar o modificar las modalidades que en su momento fueron autorizadas, deberán presentar ante la Secretaría de Seguridad Pública del Estado solicitud por escrito, disponiendo ésta de un término de quince días hábiles para determinar si procede la ampliación o modificación solicitada.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 120.
 
-Para la revalidación de la autorización bastará que quien preste el servicio, ante la Secretaría de Seguridad Pública del Estado, cuando menos con treinta días hábiles previos a la conclusión de la vigencia de la autorización, manifieste bajo protesta de decir verdad que las condiciones en que se le otorgó no han variado.
-
-Una vez presentada la solicitud, dicha Secretaría contará con un término de quince días hábiles para revalidar o no la autorización.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 121.
 
-La Procuraduría entregará al solicitante la constancia de registro y autorización, por su parte la Secretaría de Seguridad Pública del Estado deberá entregar la constancia de revalidación y/o modificación para prestar servicios de seguridad privada, una vez reunidos los requisitos establecidos para cada caso.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 122.
 
-Toda persona que preste servicios de seguridad privada sin contar con la autorización y registro y, en su caso, con la revalidación vigente que prevé la presente Ley, se hará acreedora a las sanciones previstas en el Código de Defensa Social para el Estado Libre y Soberano de Puebla.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ### CAPÍTULO TERCERO. DE LOS REQUISITOS PARA FORMAR PARTE DEL PERSONAL DE LAS EMPRESAS DE SEGURIDAD PRIVADA
 
 ###### Artículo 123.
 
-Para ingresar y permanecer como personal directivo, administrativo u operativo de los prestadores del servicio de seguridad privada, los interesados deberán cumplir con los requisitos siguientes:
-
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos constitucionales;
-
-II.- Tener 18 años cumplidos;
-
-III.-Presentar certificado de secundaria;
-
-IV.- No ser miembro activo de los Cuerpos de Seguridad Pública Federal, Estatal o Municipal, o de las fuerzas armadas;
-
-V.- En su caso, contar con la Cartilla del Servicio Militar;
-
-VI.- No haber sido condenado por delito doloso;
-
-VII.- No ser adicto al consumo de alcohol, sustancias psicotrópicas o estupefacientes, ni otras sustancias que produzcan efectos similares;
-
-VIII.- No haber sido cesado de los Cuerpos de Seguridad Pública, o en su caso, destituido de las fuerzas armadas; y
-
-IX.- Tratándose de personal operativo acreditar la capacitación básica para la prestación del servicio.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 124.
 
-La Secretaría de Seguridad Pública del Estado, o en su caso, la Procuraduría, deberán solicitar informes de los aspirantes a formar parte del personal de prestadores de servicio de seguridad privada al Registro Nacional de Información o las instancias procedentes para este fin.
-
-Asimismo, dichas dependencias podrán verificar la autenticidad de los documentos exhibidos en el trámite correspondiente, ante las instancias que los hayan emitido.
-
-No podrán formar parte del personal directivo, administrativo u operativo de las empresas de seguridad privada, los miembros de las fuerzas armadas, ni los pertenecientes a las instituciones de seguridad pública de los tres niveles de gobierno que se encuentren en activo.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ### CAPÍTULO CUARTO. DE LA VIGILANCIA Y SUPERVISIÓN DE LAS EMPRESAS DE SEGURIDAD PRIVADA
 
 ###### Artículo 125.
 
-Son atribuciones de la Secretaría de Seguridad Pública del Estado, para vigilar y supervisar a las empresas de seguridad privada, las siguientes:
-
-I.- Mantener actualizado el registro de control de los prestadores del servicio y del personal administrativo;
-
-II.- Supervisar que las prestadoras del servicio cumplan con las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables a los servicios de seguridad prestados por empresas privadas;
-
-III.- Implementar acuerdos con las prestadoras del servicio, a fin de instrumentar los planes y programas de capacitación y adiestramiento que autorice o imparta la Secretaría de Seguridad Pública del Estado;
-
-IV.- Vigilar que los prestadores del servicio actúen en auxilio del Ministerio Público y la Policía Ministerial, cuando sean requeridos para tal efecto;
-
-V.- Llevar el control mensual de las altas y bajas de vehículos y del equipo utilizado para la prestación del servicio;
-
-VI.- Llevar a cabo visitas de verificación, las que podrán ser ordinarias y extraordinarias, efectuándose las primeras en días y horas hábiles y las segundas en cualquier tiempo;
-
-VII.- .Levantar el cuestionario de identificación fotográfica y dactiloscópica del personal administrativo y operativo; y
-
-VIII.- Llevar el registro de las altas y bajas del personal operativo, así como recabar la documentación del personal de nuevo ingreso.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ### CAPÍTULO QUINTO. DE LAS OBLIGACIONES DE LAS EMPRESAS DE SEGURIDAD PRIVADA
 
 ###### Artículo 126.
 
-Una vez obtenida la autorización correspondiente para ejercer el servicio de seguridad privada, queda obligada la persona prestadora del servicio ante la Secretaría de Seguridad Pública del Estado a:
-
-I.- Prestar los servicios en los términos establecidos en la autorización, revalidación o la modificación de cualquiera de éstas;
-
-II.- Dar aviso por escrito en caso de realizar actividades adicionales, similares a las declaradas al otorgamiento del registro; así como de las modificaciones que se realicen del objeto social, de sus estatutos o cualquier cambio de accionistas, socios o asociados;
-
-III.- Proponer a la Secretaría de Seguridad Pública del Estado las personas candidatas a pertenecer a la prestadora del servicio de seguridad respectiva, adjuntando los documentos para acreditar los requisitos de ingreso a que se refiere esta Ley, a fin de canalizarlas para su evaluación respectiva;
-
-IV.- Dar aviso por escrito, en un plazo no mayor de cinco días, de las bajas del personal;
-
-V.- Presentar dentro de un término de quince días contados a partir de la entrega de la constancia de autorización, al personal administrativo y operativo, con el objeto de que se levante el cuestionario de identificación fotográfica y dactiloscópica;
-
-VI.- Actuar en auxilio de las Instituciones de Seguridad Pública, cuando sea requerida para el efecto;
-
-VII.- Informar mensualmente sobre las altas y bajas de vehículos y del equipo utilizado para la prestación del servicio, cumpliendo con lo conducente con los requisitos que señala el presente Título;
-
-VIII.- Comunicar por escrito cualquier modificación a los permisos, autorizaciones o licencias que en su caso hayan expedido las autoridades competentes, con respecto al registro y portación de armas, traslado de fondos y valores, uso de frecuencia en equipos de radiocomunicación, así como cambios de domicilio, debiendo exhibir en este último caso, copia certificada del aviso dado a la Secretaría de Hacienda y Crédito Público;
-
-IX.- Facilitar al personal las visitas de inspección que se ordenen;
-
-X.- Comunicar por escrito cualquier suspensión de labores, así como la disolución o liquidación de la empresa, anexando copia certificada de los avisos dados a las autoridades fiscales y labores, según corresponda;
-
-XI.- Dar aviso en forma inmediata de las personas que contraten sus servicios, enviando copia del contrato celebrado;
-
-XII.- Proporcionar la información estadística y sobre la delincuencia para ser remitida al Centro Nacional de Información por conducto de la Secretaría de Seguridad Pública del Estado o bien de la Procuraduría;
-
-XIII.- Entregar la información visual de sus clientes, en tratándose de empresas de monitoreo y vigilancia por medios electrónicos remotos, en el momento en que la autoridad competente lo requiera conforme lo establece la Ley;
-
-XIV.- Someter al personal operativo a las evaluaciones que establezcan las disposiciones legales aplicables para las instituciones de Seguridad Pública;
-
-XV.- Cumplir en la prestación de sus servicios la observancia de las normas oficiales correspondientes y disposiciones aplicables en el uso del uniforme, vehículos, vehículos blindados, perros, armas de fuego, equipos de radiocomunicación o comunicación remota, y demás equipo autorizado; y
-
-XVI.- Abstenerse de contratar a las personas que no cumplan con los requisitos señalados en esta Ley.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 127.
 
-Toda persona que preste los servicios de seguridad privada, está obligada a proporcionar los datos para el registro de su personal y equipo; la información enviada a la Secretaría de Seguridad Pública del Estado se resguardará en los términos que marca la ley de la materia.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ### CAPÍTULO SEXTO. DE LAS SANCIONES DERIVADAS DEL INCUMPLIMIENTO DE LAS EMPRESAS DE SEGURIDAD PRIVADA
 
 ###### Artículo 128.
 
-Atendiendo al interés público o por incumplimiento de los prestadores de servicios a las obligaciones de la presente Ley y su Reglamento, dará origen a la imposición de las sanciones siguientes:
-
-I.- Amonestación pública, con difusión en la página de Internet de la Secretaría de Seguridad Pública del Estado;
-
-II.- Multa de un mil hasta cinco mil veces el salario mínimo general vigente en el Estado;
-
-III.- Suspensión de los efectos de la autorización de uno a seis meses;
-
-IV.- Clausura del establecimiento donde el prestador de servicio tenga su domicilio registrado ante la autoridad competente; y
-
-V.- Revocación de la autorización y registro.
-
-La Secretaría de Seguridad Pública del Estado, en su caso, podrá imponer las sanciones administrativas señaladas en las fracciones anteriores.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 129.
 
-La aplicación de las sanciones establecidas en el presente Capítulo se impondrán con base al procedimiento que para tal efecto disponga el reglamento correspondiente.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ## TÍTULO NOVENO. DE LA PARTICIPACIÓN CIUDADANA Y DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
@@ -1978,3 +1828,21 @@ P.O. 30 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- El Reglamento de la Ley a que se refiere este Decreto, deberá expedirse dentro de los 180 días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO.- Para efectos de revalidación de autorizaciones otorgadas antes de la vigencia del presente Decreto, se homologarán las modalidades bajo los términos señalados en este Decreto.
+
+QUINTO.- Los asuntos que se encuentren en trámite, continuarán desahogándose con las disposiciones vigentes al momento de su inicio y hasta su conclusión.
+
+SEXTO.- Las erogaciones que se deriven de la aplicación de este Decreto estarán sujetas a la suficiencia presupuestal.
+
+SÉPTIMO.- A la publicación de este Decreto quedarán sin efecto todos los convenios, acuerdos y contratos, que contravengan al contenido de lo señalado en el presente Decreto.
+
+OCTAVO.- La Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Estado, la Secretaría General de Gobierno y la Secretaría de la Contraloría, en los ámbitos de competencia que corresponda, acordarán lo necesario para que en un plazo no mayor de noventa días naturales contados a partir del día de la entrada en vigor de este Decreto, se transfieran los archivos y los recursos humanos que sean necesarios, así como los recursos materiales y financieros existentes destinados para la atención de los asuntos relacionados con la materia de este Decreto.
