@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2014-03-10"
+last_updated: "2014-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -7508,7 +7508,9 @@ XXVII. Participar en la instrumentación y seguimiento de la estrategia de Gobie
 
 XXVIII. Diseñar y coordinar la estrategia y políticas del desarrollo e integración de sistemas de información y sistemas de comunicación para la difusión de trámites y servicios en la plataforma de portales gubernamentales de la Administración Pública del Distrito Federal, en coordinación con la Unidad Administrativa competente en la materia;
 
-XXIX. Coordinar y dirigir el portal ciudadano del Gobierno del Distrito Federal y su plataforma de portales, incluyendo sus lineamientos editoriales, así como otras iniciativas similares de sistemas de comunicación que tengan como propósito la difusión de trámites y servicios de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2014)</small>
+
+XXIX. Generar y coordinar los mecanismos necesarios entre los entes públicos involucrados en la estrategia de monitoreo para la evaluación del desempeño gubernamental, a fin de hacer transparente y accesible la información sobre el desempeño público.
 
 XXX. Participar en la conducción de la estrategia de gobierno electrónico, las bases y principios para la elaboración de la política pública de tecnologías de información y comunicaciones para el uso y aprovechamiento de los bienes y servicios relacionados en la Administración Pública del Distrito Federal;
 
@@ -7542,9 +7544,15 @@ XLIV. Establecer los lineamientos para la elaboración, presentación, estudio y
 
 XLV. Impulsar y dirigir la instrumentación y operación de una plataforma integral de trámites y servicios en línea en el Distrito Federal;
 
-XLVI. Promover y coordinar la participación y colaboración con la Federación, Estados, sector social, privado, académico y especialistas, nacionales e internacionales, en materia de mejora regulatoria, simplificación administrativa, funcionamiento integral de las organizaciones, la atención ciudadana, áreas de atención al público, sistemas de comunicación, medición y evaluación del desempeño gubernamental e innovación y proponer la celebración de convenios e instrumentos de colaboración en esas materias, y
+XLVI. Promover y coordinar la participación y colaboración con la Federación, Estados, sector social, privado, académico y especialistas, nacionales e internacionales, en materia de mejora regulatoria, simplificación administrativa, funcionamiento integral de las organizaciones, la atención ciudadana, áreas de atención al público, sistemas de comunicación, medición y evaluación del desempeño gubernamental e innovación y proponer la celebración de convenios e instrumentos de colaboración en esas materias, y (sic)
 
-XLVII. Las demás que instruya el titular de la Oficialía Mayor y las que se le confieran en otros instrumentos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2014)</small>
+
+XLVII. Fomentar una cultura de innovación, emprendimiento y colaboración entre las dependencias, órganos desconcentrados, órganos político-administrativos, entidades de la Administración Pública del Distrito Federal, sector académico y otros sectores de la sociedad civil, con la finalidad de impulsar y difundir casos de éxito y las mejores prácticas de innovación y modernización de la Administración Pública del Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+
+XLVIII. Las demás que instruya el titular de la Oficialía Mayor y las que se le confieran en otros instrumentos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -17532,7 +17540,9 @@ G.O. 28 DE FEBRERO DE 2014.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
-SEGUNDO.- El presente Decreto entrará en vigor el día primero de marzo del presente año.
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 14 de marzo del presente año.
 
 TERCERO.- La transferencia de la Coordinación General de Modernización Administrativa y de la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones a la Oficialía Mayor del Distrito Federal, incluirán personal, mobiliario, equipos, instrumentos, vehículos, maquinaria, aparatos, archivos y, en general, todos los efectos y dispositivos que tienen asignados y los que se requieran para la atención de los asuntos a su cargo, así como los recursos presupuestales correspondientes, de conformidad con las disposiciones jurídicas, administrativas y laborales aplicables.
 
@@ -17553,3 +17563,9 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- La Secretaría de Desarrollo Social deberá actualizar su manual de organización y procedimientos en los plazos que establezca la Contraloría General del Distrito Federal. Dichos Manuales deberán publicarse en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE MARZO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su firma.
