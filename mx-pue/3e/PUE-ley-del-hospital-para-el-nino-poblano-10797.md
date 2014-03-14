@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-hospital-para-el-nino-poblano-10797"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-08"
-last_updated: "1996-03-15"
+last_updated: "2014-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DEL HOSPITAL PARA EL NIÑO POBLANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO QUE SUPRIME EL ORGANISMO PÚBLICO DENOMINADO "HOSPITAL PARA EL NIÑO POBLANO", PUBLICADO EN EL P.O. DE 14 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 8 de diciembre de 1992.
 
@@ -451,7 +453,7 @@ DIPUTADO PRESIDENTE.- LIC. RODOLFO BUDIB LICHTLE.- RUBRICA.- DIPUTADO SECRETARIO
 
 POR TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SUS EFECTOS, DADO EN EL PALACIO DEL PODER EJECUTIVO EN LA HEROICA PUEBLA DE Z., A LOS TRES DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y DOS.- EL GOBERNADOR DEL ESTADO.- LIC. MARIANO PIÑA OLAYA.- RUBRICA.- EL SECRETARIO DE GOBERNACION.- LIC. HECTOR JIMENEZ Y MENESES.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE JULIO DE 1994.
 
@@ -476,3 +478,37 @@ Se derogan las disposiciones que se opongan al presente ordenamiento.
 ###### ARTICULO TERCERO.
 
 El Titular de la Dependencia Coordinadora del Sector, de conformidad con el Acuerdo de Sectorización que emita el Gobernador del Estado, convocará en un plazo no mayor de quince días, contados a partir de la fecha de dicho Acuerdo de iniciación de vigencia del presente Decreto, a la constitución de la Junta Directiva del Hospital para el Niño Poblano.
+
+P.O. 14 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley del Hospital del Niño Poblano, por la cual se crea el Organismo Público Descentralizado "Hospital para el Niño Poblano", publicada en el Periódico Oficial del Estado el día 8 de diciembre de 1992.
+
+TERCERO.- En términos de la legislación aplicable, los recursos materiales y financieros que formen parte del patrimonio del Hospital para el Niño Poblano y aquéllos que tenga derecho a percibir, se transferirán al Organismo Público Descentralizado denominado "Servicios de Salud del Estado de Puebla", en términos de la legislación aplicable, a fin de que este los destine al cumplimiento de su objeto.
+
+Los bienes muebles e inmuebles que a la entrada en vigor del presente Decreto formen parte del Patrimonio del Hospital para el Niño Poblano, o tenga derecho a incorporarlos al mismo, se transmitirán en propiedad al Organismo Público Descentralizado denominado "Servicios de Salud del Estado de Puebla".
+
+CUARTO.- A la entrada en vigor de este Decreto, será transferido al Organismo Público Descentralizado denominado "Servicios de Salud del Estado de Puebla", únicamente el personal del Hospital para el Niño Poblano, que de acuerdo a los perfiles y a las necesidades de los Servicios de Salud del Estado de Puebla, sean requeridos para la prestación del servicio; el resto del personal será liquidado de conformidad con las disposiciones legales aplicables.
+
+QUINTO.- Toda la documentación e información física y electrónica que corresponda al Hospital para el Niño Poblano, deberá ser transferida al Organismo Público Descentralizado denominado Servicios de Salud del Estado de Puebla.
+
+SEXTO.- Los asuntos en trámite, así como los juicios, recursos y procedimientos en los que a la entrada en vigor del presente Decreto sea parte el Hospital para el Niño Poblano, continuarán tramitándose a través de las Unidades Administrativas competentes del Organismo Público Descentralizado denominado "Servicios de Salud del Estado de Puebla".
+
+Asimismo los juicios, recursos y procedimientos distintos a los señalados en el primer párrafo y en los que se encuentren en litigio derechos reales, continuarán tramitándose hasta su total conclusión por el Gobierno del Estado a través de la Secretaría de Finanzas y Administración; los derechos correspondientes o en su defecto los productos que pudieren obtenerse de éstos, se destinarán al Organismo Público Descentralizado denominado Servicios de Salud del Estado de Puebla.
+
+SÉPTIMO.- Los derechos y obligaciones contractuales contraídos por el Hospital para el Niño Poblano, serán atribuidos al Organismo Público Descentralizado denominado "Servicios de Salud del Estado de Puebla".
+
+Respecto de las relaciones laborales y al Contrato Colectivo de Trabajo celebrado entre el Hospital para el Niño Poblano y el Sindicato Único de Trabajadores del Hospital para el Niño Poblano, se estará a las disposiciones aplicables en materia del trabajo, siendo responsabilidad del Encargado de los trámites de Extinción del Organismo a que se refiere el artículo noveno transitorio, realizar los (sic) acciones correspondientes ante las autoridades competentes.
+
+OCTAVO.- Con la intervención de la Secretaría de la Contraloría, el servidor público que a la fecha de publicación del presente Decreto, realice las funciones de Director General del Hospital para el Niño Poblano, en un plazo no mayor a cinco días hábiles a partir de la entrada en vigor de este Decreto, deberá hacer entrega, a quien designe el Director General del Organismo Público Descentralizado denominado "Servicios de Salud del Estado de Puebla", de los recursos patrimoniales que haya• tenido a su disposición, así como toda la documentación e información física o electrónica y asuntos relacionados con las funciones del Organismo que se suprime.
+
+NOVENO.- La persona que a la fecha de la entrada en vigor del presente Decreto haya sido designada por la Junta Directiva del Hospital para el Niño Poblano como encargada de llevar a cabo los trámites legales y administrativos finales del Organismo que resulten de éste Decreto, deberá concluirlos dentro de los noventa días hábiles siguientes; una vez cumplido éste plazo se entenderá que dicha función ha cesado. Los recursos necesarios para cubrir los gastos que se requieran para concretar los trabajos de extinción del Organismo, serán gestionados ante la Secretaría de Finanzas y Administración.
+
+DÉCIMO.- Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad, eficiencia y honestidad para el ejercicio del gasto, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación del “Hospital para el Niño Poblano", se seguirán utilizando hasta que se agoten.
+
+DÉCIMO PRIMERO.- En un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, se realizarán las adecuaciones que, en su caso, resulten necesarias a las disposiciones reglamentarias del Organismo Público Descentralizado denominado Servicios de Salud del Estado de Puebla.
+
+DÉCIMO SEGUNDO.- Las Secretarías General de Gobierno, de Finanzas y Administración, de la Contraloría y de Salud, en el ámbito de sus respectivas atribuciones y de manera coordinada, darán seguimiento a las acciones que resulten conducentes para dar cumplimiento al presente Decreto.
+
+DÉCIMO TERCERO.- Se derogan todas aquéllas disposiciones que contravengan lo dispuesto en el presente Decreto.
