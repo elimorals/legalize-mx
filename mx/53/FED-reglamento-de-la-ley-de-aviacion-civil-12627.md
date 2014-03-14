@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aviacion-civil-12627"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-07"
-last_updated: "2004-06-24"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1998-12-04"
 ---
 # REGLAMENTO DE LA LEY DE AVIACION CIVIL
 
-REGLAMENTO DE LA LEY DE AVIACION CIVIL
+REGLAMENTO DE LA LEY DE AVIACIÓN CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 7 de diciembre de 1998.
 
@@ -633,19 +633,27 @@ El concesionario o permisionario que transporte a un menor de edad sin acompaña
 
 Todo concesionario o permisionario debe brindar a los pasajeros discapacitados las facilidades para su movilización y adoptar las medidas necesarias para la atención de pasajeras embarazadas, así como de personas de edad avanzada.
 
-#### Sección tercera. De las medidas de seguridad para prevenir actos ilícitos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE MARZO DE 2014)</small>
+
+#### Sección tercera. De las medidas de seguridad para proteger a la aviación contra actos de interferencia ilícita
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 43.
 
-Todo pasajero, equipaje de mano, equipaje por facturar y la carga se debe documentar con la anticipación que el concesionario o permisionario indique para ser objeto de revisión antes de su transportación o embarque.
+Todo pasajero, equipaje de mano, equipaje por facturar y la carga se debe documentar con la anticipación que el concesionario o permisionario indique para ser objeto de revisión antes de su transportación o embarque, con el propósito de verificar que no se transporten de forma ilícita armas o materiales, sustancias y objetos peligrosos.
 
 El concesionario o permisionario se debe asegurar que en los aeródromos civiles de los que haga uso se proporcionen servicios de revisión.
 
 En caso de que el pasajero rehuse la revisión, se puede solicitar la intervención de la autoridad competente para que la efectúe. Cuando derivado de la revisión la autoridad niegue el acceso al pasajero, debe informar su determinación lo antes posible al concesionario o permisionario que proporcione la transportación para que tome las medidas pertinentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 44.
 
-Todo concesionario o permisionario debe contar con un manual de prevención de actos de interferencia ilícita y así mismo adoptar las medidas pertinentes para que no se lleven a bordo de la aeronave artículos que dificulten su navegación o pongan en peligro la seguridad del personal técnico aeronáutico y de los pasajeros.
+Todo concesionario o permisionario debe contar con un programa de seguridad para la prevención de actos de interferencia ilícita autorizado por la Secretaría, que cumpla con lo dispuesto en las normas oficiales mexicanas correspondientes y que además contenga las medidas pertinentes para que no se lleven a bordo de la aeronave artículos que dificulten su navegación o pongan en peligro la seguridad del personal técnico aeronáutico y de los pasajeros.
 
 ###### ARTÍCULO 45.
 
@@ -653,9 +661,11 @@ El manejo, embalaje y transporte de materiales, sustancias y objetos peligrosos,
 
 Todo concesionario y permisionario se debe cerciorar de que el usuario que pretenda transportar o embarcar artículos que por su naturaleza sean susceptibles de poner en riesgo la seguridad de los pasajeros o de la aeronave, tales como sustancias químicas, corrosivas, radioactivas, inflamables; armas de fuego; explosivos; municiones; semejantes o similares, cuente con el permiso previo de las autoridades correspondientes para su portación y transportación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 46.
 
-Si un pasajero pretende transportar armas de fuego o algún artículo peligroso, debe presentar en su caso la licencia correspondiente y hacer entrega del mismo al concesionario o permisionario previo inicio del vuelo, quien debe transportarlo en el compartimento de carga de la aeronave, cuando proceda, de conformidad con lo establecido en las normas oficiales mexicanas correspondientes. El bien se debe devolver al pasajero o usuario en el aeródromo civil de destino.
+Si un pasajero pretende transportar armas de fuego o artículos, materiales, sustancias y objetos peligrosos debe presentar a la autoridad competente la licencia o permiso correspondiente y hacer entrega de aquéllos al concesionario o permisionario previo inicio del vuelo, quien debe transportarlo en el compartimento de carga de la aeronave, cuando proceda, de conformidad con lo establecido en las normas oficiales mexicanas correspondientes. El bien se debe devolver al pasajero o usuario en el aeródromo civil de destino.
 
 Cuando se descubra el transporte clandestino de materiales, sustancias y objetos peligrosos por personas que viajen a bordo de la aeronave, el comandante o piloto al mando de la misma, el concesionario o permisionario o cualquier otra persona, debe dar aviso a las autoridades competentes.
 
@@ -663,7 +673,11 @@ Cuando se descubra el transporte clandestino de materiales, sustancias y objetos
 
 Cuando el concesionario o permisionario tenga conocimiento o evidencia de que cualquier persona involucrada en la operación de una aeronave constituye un peligro para los pasajeros, la carga o la aeronave, debe adoptar todas las medidas urgentes para prevenir el caso y avisar de inmediato a las autoridades competentes.
 
-Si la emergencia involucra la comisión de un hecho ilícito, el comandante o piloto al mando de la aeronave debe actuar conforme al manual de prevención de actos de interferencia ilícita y mantener comunicación con los servicios de tránsito aéreo y acatar, hasta donde las circunstancias se lo permitan, las indicaciones que le sean transmitidas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+Si la emergencia involucra la comisión de un hecho ilícito, el comandante o piloto al mando de la aeronave debe actuar conforme al programa de seguridad para la prevención de actos de interferencia ilícita autorizado por la Secretaría y mantener comunicación con los servicios de tránsito aéreo y acatar, hasta donde las circunstancias se lo permitan, las indicaciones que le sean transmitidas.
 
 #### Sección cuarta. De las tarifas
 
@@ -787,7 +801,7 @@ Cuando la Secretaría considere que no existe competencia efectiva procederá, e
 
 ###### ARTÍCULO 55.
 
-Sin perjuicio de l ejercicio de sus atribuciones, la Comisión Federal de Competencia podrá emitir opinión a la Secretaría para que, en su caso, la Secretaría establezca bases de regulación tarifaria de conformidad con lo dispuesto en las fracciones III y IV del artículo 53 del presente Reglamento.
+Sin perjuicio del ejercicio de sus atribuciones, la Comisión Federal de Competencia podrá emitir opinión a la Secretaría para que, en su caso, la Secretaría establezca bases de regulación tarifaria de conformidad con lo dispuesto en las fracciones III y IV del artículo 53 del presente Reglamento.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
@@ -1399,7 +1413,11 @@ VII. Contar con la lista de comprobación que deben seguir las tripulaciones de 
 
 VIII. Contar con un programa de seguridad aérea contenido en un manual autorizado por la Secretaría y elaborado conforme a las normas oficiales mexicanas correspondientes, y
 
-IX. Contar con un manual de prevención de actos de interferencia ilícita autorizado por la Secretaría, que se elaborará de conformidad con las normas oficiales mexicanas correspondientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2014)</small>
+
+IX. Contar con un programa de seguridad para la prevención de actos de interferencia ilícita autorizado por la Secretaría, que se elaborará de conformidad con las normas oficiales mexicanas correspondientes.
 
 Los operadores aéreos deben cumplir con lo dispuesto por las fracciones I, IV, VI y VII del presente artículo.
 
@@ -1839,6 +1857,12 @@ Todo comandante o piloto al mando de una aeronave está obligado a reportar a la
 
 Todo concesionario, permisionario u operador aéreo debe sujetarse a las normas oficiales mexicanas correspondientes y a las disposiciones aplicables de protección al medio ambiente en materia de emisiones de los motores de sus aeronaves.
 
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+###### ARTÍCULO 151 Bis.
+
+Todo concesionario, permisionario u operador aéreo deberá reportar a la autoridad aeronáutica, de manera anual y mediante escrito libre, de las emisiones de gases efecto invernadero y sus variables, producidas por las aeronaves que opere, así como de las medidas operativas, técnicas, y económicas requeridas por la legislación nacional y tratados internacionales suscritos por México en materia de protección al medio ambiente, de conformidad con el artículo 76 de la Ley.
+
 ### Capítulo II. De los servicios a la navegación aérea
 
 ## Título Quinto. De los servicios a la navegación aérea y de las reglas del aire
@@ -2229,7 +2253,7 @@ Para la renovación de los títulos de concesión y permiso a que se refiere el 
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 8 DE AGOSTO DE 2000.
 
@@ -2258,3 +2282,9 @@ QUINTO.- Los requisitos que deberá cumplir el interesado en obtener una licenci
 El personal técnico aeronáutico que hubiera obtenido licencia de piloto comercial o de piloto de TPI antes de la fecha mencionada en el párrafo anterior y esté interesado en convalidar, recuperar o revalidar dicha licencia, deberá cumplir con dichos requisitos a partir del 31 de agosto de 2006; para tal efecto, la Secretaría de Comunicaciones y Transportes promoverá programas que permitan cumplir con lo anterior.
 
 La autorización definitiva para el ejercicio profesional que hubiere sido expedida por la Secretaría de Educación Pública antes de la entrada en vigor del presente Reglamento, será válida para acreditar el cumplimiento de los requisitos previstos en el primer párrafo de este artículo, para convalidar, recuperar o revalidar la licencia de piloto comercial o de TPI.
+
+D.O.F. 14 DE MARZO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con la excepción señalada en el artículo transitorio siguiente.
+
+SEGUNDO. Las reformas señaladas en los artículos 44, 47, párrafo segundo, y 109, en su fracción IX, entrarán en vigor a los veinte días hábiles posteriores a la vigencia de la Norma Oficial Mexicana correspondiente, la cual será expedida por la Secretaría de Comunicaciones y Transportes en un plazo de doscientos sesenta días hábiles, contados a partir del día en que entre en vigor el presente Decreto.
