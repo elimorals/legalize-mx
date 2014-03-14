@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-atencion-integral-del-cancer-de-mama-del-78429"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-21"
-last_updated: "2013-08-07"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78429&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-20"
 
 LEY PARA LA ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2011.
 
@@ -168,7 +168,9 @@ Para el desarrollo de acciones en materia de promoción de la salud, prevención
 
 I. Estudios de mastografía en unidades móviles y clínicas, previa autorización y certificación de las mismas;
 
-II. Jornadas de salud en las 16 demarcaciones territoriales del Distrito Federal y en clínicas;
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2014)</small>
+
+II. Jornadas de salud en las 16 demarcaciones territoriales del Distrito Federal, Centros Femeniles de Readaptación Social del Distrito Federal y en clínicas;
 
 III. Pláticas sobre detección oportuna de cáncer de mama;
 
@@ -270,9 +272,15 @@ Previo a la realización de la mastografía, el personal de salud debidamente ca
 
 La Secretaría de Salud, difundirá por diversos medios de información, las jornadas de mastografías a realizarse en las 16 demarcaciones territoriales del Distrito Federal; asimismo, solicitará la colaboración de la Jefatura Delegacional que corresponda para efectos de apoyar en la organización, difusión, realización y operación de la jornada. Las Jefaturas Delegacionales de las 16 demarcaciones territoriales que lleven a cabo este tipo de jornadas, se sujetarán a lo establecido en la presente Ley y a los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
+
+La Secretaría de Salud, en coordinación con la Subsecretaría de Sistema Penitenciario, fijarán los procedimientos, fechas y espacios para la realización anual de las Jornadas dentro de los Centros Femeniles de Readaptación Social, sujetándose en todo momento a los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal
+
 Los datos que se obtenga de dichas jornadas serán incorporados al sistema de información que integre la Secretaría de Salud en los términos a los que se refiere el artículo 33 de la presente Ley.
 
-Las mujeres que no acudan a las jornadas de mastografías a las que se refiere el presente artículo, podrán acudir a las unidades médicas que señale la Secretaría de Salud del Distrito Federal para la práctica de la mastografía.
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
+
+Las mujeres que no acudan a las jornadas de mastografías a las que se refiere el presente artículo, podrán acudir a las unidades médicas que señale la Secretaría de Salud del Distrito Federal para la práctica de la mastografía; a excepción de las mujeres que se encuentren en un Centro Femenil de Readaptación Social, que podrán realizarse la mastografía exclusivamente cuando se realicen las jornadas dentro del mismo Centro.
 
 > <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
 
@@ -338,15 +346,15 @@ La Secretaría de Salud del Distrito Federal, para dar cumplimiento a esta dispo
 
 Con la finalidad de llevar un control y vigilancia epidemiológica del cáncer de mama en el Distrito Federal que permita determinar la magnitud del problema, así como adoptar las medidas para su debida atención, la Secretaría de Salud integrará una base de datos y un sistema de información con las características contempladas en el presente Capítulo, así como en los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal y en la Norma Oficial Mexicana en materia de cáncer de mama y las autoridades sanitarias correspondientes.
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
 
 ###### Artículo 33.
 
-La Secretaría de Salud incorporará la información obtenida en cada jornada de mastografías que se realice en las 16 demarcaciones territoriales, en una base de datos; asimismo, se integrará la información de las mujeres y hombres a las que se practique examen clínico para la detección de cáncer de mama, a efecto de que se les brinde el servicio dentro del Programa de Atención Integral del Cáncer de Mama.
+La Secretaría de Salud incorporará la información obtenida en cada jornada de mastografías que se realice en las 16 demarcaciones territoriales y en los Centros Femeniles de Readaptación Social, en una base de datos asimismo, se integrará la información de las mujeres a las que se practique examen clínico para la detección de cáncer de mama, a efecto de que se les brinde el servicio dentro del Programa de Atención Integral del Cáncer de Mama.
 
-Las Jefaturas Delegacionales enviarán trimestralmente a la Secretaría de Salud la información obtenida en dichas jornadas, así como los expedientes clínicos que se generen.
+Las Jefaturas Delegacionales enviarán trimestralmente a la Secretaría de Salud la información obtenida en dichas jornadas, así como lo (sic) expedientes clínicos que se generen. Los Centros Femeniles de Readaptación Social del Distrito Federal enviarán dicha información de manera anual, en un plazo no mayor a tres meses posterior a la realización de la jornada.
 
-Los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal establecerán la metodología de coordinación entre la Secretaría de Salud y las Jefaturas Delegacionales de las 16 demarcaciones territoriales donde se realicen acciones de prevención o diagnóstico de cáncer de mama, para que participen en la integración de la información a la que se refiere el presente artículo.
+Los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama del Distrito Federal establecerán la metodología de coordinación entre la Secretaría de Salud y las Jefaturas Delegacionales de las 16 demarcaciones territoriales y Centros Femeniles de Readaptación Social del Distrito Federal donde se realicen acciones de prevención o diagnóstico de cáncer de mama, para que participen en la integración de la información a la que se refiere el presente artículo.
 
 > <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2013)</small>
 
@@ -366,7 +374,9 @@ La información sobre el control y vigilancia epidemiológica del cáncer de mam
 
 La Secretaría de Salud del Distrito Federal en los Anteproyectos de Presupuestos que formule, contendrá la previsión de gasto para el desarrollo de las acciones en la operación del Programa de Atención Integral del Cáncer de Mama.
 
-Dichas previsiones deberán garantizar la cobertura de los servicios a los que se refiere la presente Ley, así como asegurar que se cubra de manera satisfactoria las jornadas de mastografía en las 16 demarcaciones territoriales del Distrito Federal, así como el tratamiento y la rehabilitación integral que, en su caso, se deriven.
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
+
+Dichas previsiones deberán garantizar la cobertura de los servicios a los que se refiere la presente Ley, así como asegurar que se cubra de manera satisfactoria las jornadas de mastografía en las 16 demarcaciones territoriales y en los Centros Femeniles de Readaptación Social del Distrito Federal, así como el tratamiento y la rehabilitación integral que, en su caso, se deriven.
 
 La Secretaría de Finanzas del Distrito Federal, preverá en el Proyecto de Presupuesto de Egresos que el Jefe de Gobierno envíe a la Asamblea Legislativa del Distrito Federal para su análisis, discusión y, en su caso, aprobación, la partida presupuestal respectiva para la operación del Programa de Atención Integral del Cáncer de Mama, el cual deberá estar sectorizado a la Secretaría de Salud, conforme a las previsiones de gasto que esta Dependencia realice y apruebe el Comité Técnico de Evaluación y Seguimiento del Programa de Atención Integral del Cáncer de Mama previsto en la presente Ley.
 
@@ -376,9 +386,13 @@ La Asamblea Legislativa del Distrito Federal, durante el análisis, discusión y
 
 Asimismo, respecto a las partidas presupuestales que en su caso programen dentro de las previsiones de gasto respectivas para el ejercicio fiscal correspondiente las Jefaturas Delegacionales para programas o acciones de detección o atención de cáncer de mama, realizará los ajustes respectivos en el Decreto de Presupuesto de Egresos del Distrito Federal para que la aplicación y ejercicio de ese presupuesto se realice mediante los convenios de colaboración a los que se refiere el artículo 7° de la presente Ley.
 
-La Asamblea Legislativa del Distrito Federal sólo asignará partidas presupuestales para programas o acciones de detección o atención de cáncer de mama que sean las contenidas en el Programa de Atención Integral del Cáncer de Mama operado por la Secretaría de Salud y las que prevean las Jefaturas Delegacionales, previo cumplimiento de lo establecido en la presente Ley.
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
 
-Para la asignación de recursos para programas o acciones de detección o atención de cáncer de mama para las Jefaturas Delegacionales, las o los titulares de cada una de éstas, deberán enviar a la Asamblea Legislativa del Distrito Federal, a más tardar en el mes de noviembre, los proyectos específicos que contengan las acciones a realizar, la implementación, así como información suficiente y necesaria que justifiquen el destino y aplicación de los recursos presupuestales solicitados, los cuales contendrán indicadores que permitan medir el impacto en la promoción de la salud de las mujeres, tomando en cuenta el enfoque de género, y el cumplimiento de las disposiciones de la presente Ley y los lineamientos que emita la Secretaría de Salud. Los proyectos, deberán contar con la autorización previa de la Secretaría de Salud, a efecto de contar con mayores elementos sobre su operatividad y ejecución.
+La Asamblea Legislativa del Distrito Federal sólo asignará partidas presupuestales para programas o acciones de detección o atención de cáncer de mama que sean las contenidas en el Programa de Atención Integral del Cáncer de Mama operado por la Secretaría de Salud y las que prevean las Jefaturas Delegacionales previo cumplimiento de lo establecido en la presente Ley.
+
+> <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
+
+Para la asignación de recursos para programas o acciones de detección o atención de cáncer de mama para las Jefaturas Delegacionales y en los Centros Femeniles de Readaptación Social del Distrito Federal, las o los titulares de cada una de éstas, deberán enviar a la Asamblea Legislativa del Distrito Federal, a más tardar en el mes de noviembre, los proyectos específicos que contengan las acciones a realizar, la implementación, así como información suficiente y necesaria que justifiquen el destino y aplicación de los recursos presupuestales solicitados, los cuales contendrán indicadores que permitan medir el impacto en la promoción de la salud de las mujeres, tomando en cuenta el enfoque de género, y el cumplimiento de las disposiciones de la presente Ley y los lineamientos que emita la Secretaría de Salud. Los proyectos, deberán contar con la autorización previa de la Secretaría de Salud, a efecto de contar con mayores elementos sobre su operatividad y ejecución.
 
 Sin la presentación y la autorización del proyecto al que se refiere el párrafo anterior, la Asamblea Legislativa del Distrito Federal, no asignará partidas presupuestales para programas o acciones de detección o atención de cáncer de mama para la Jefatura Delegacional que incumpla con esta disposición.
 
@@ -464,7 +478,9 @@ III. Aprobar los Anteproyectos de Presupuestos que formule la Secretaría de Sal
 
 IV. Autorizar los convenios de colaboración y de coordinación que se establezcan con instituciones académicas nacionales o internacionales, instituciones de salud a nivel federal, de carácter privado o social, para el cumplimiento del Programa de Atención Integral del Cáncer de Mama, en los términos de la presente Ley;
 
-V. Conocer del programa unificado de jornadas de mastografías en las 16 demarcaciones territoriales del Distrito Federal, así como de las acciones contempladas en el Programa de Atención Integral del Cáncer de Mama, para sus observaciones;
+> <small>(REFORMADA, G.O. 14 DE MARZO DE 2014)</small>
+
+V. Conocer del programa unificado de jornadas de mastografías en las 16 demarcaciones territoriales y Centros Femeniles de Readaptación Social del Distrito Federal, así como de las acciones contempladas en el Programa de Atención Integral del Cáncer de Mama, para sus observaciones.
 
 VI. Emitir opinión sobre los protocolos para la prevención, detección, diagnóstico, tratamiento, seguimiento y rehabilitación integral de cáncer de mama que elabore la Secretaría de Salud en los términos de la presente Ley;
 
@@ -478,9 +494,11 @@ IX. Las demás necesarias para la aplicación de la presente Ley.
 
 El Instituto de las Mujeres, al fungir como Secretaría Ejecutiva del Comité Técnico de Evaluación y Seguimiento del Programa de Atención Integral del Cáncer de Mama del Distrito Federal, tendrá a su cargo elaborar una evaluación de los resultados que se deriven de dicho programa, poniendo énfasis en el indicador de salud y la mortalidad por cáncer de mama.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE MARZO DE 2014)</small>
+
 ###### Artículo 48.
 
-El Instituto de las Mujeres formulará recomendaciones a la Secretaría de Salud y a las Jefaturas Delegacionales de las 16 demarcaciones territoriales del Distrito Federal sobre las mejoras en las acciones que realicen para la prestación de los servicios en la atención integral del cáncer de mama. Dichas instancias remitirán un informe pormenorizado, en un plazo no mayor de 15 días naturales, sobre la respuesta que brindará a la recomendación emitida por el Instituto de las Mujeres del Distrito Federal.
+El Instituto de las Mujeres formulará recomendaciones a la Secretaría de Salud, a las Jefaturas Delegacionales de las 16 demarcaciones territoriales y Centros Femeniles de Readaptación Social del Distrito Federal sobre las mejoras en las acciones que realicen para la prestación de los servicios en la atención integral del cáncer de mama. Dichas instancias remitirán un informe pormenorizado, en un plazo no mayor de 15 días naturales, sobre la respuesta que brindará a la recomendación emitida por el Instituto de las Mujeres del Distrito Federal.
 
 Las recomendaciones y sus respectivos informes a los que se refiere el presente artículo, se harán del conocimiento de las sesiones del Comité Técnico de Evaluación y Seguimiento del Programa de Atención Integral del Cáncer de Mama del Distrito Federal.
 
@@ -511,3 +529,9 @@ Artículo Primero.- decreto (sic) entrará en vigor al día siguiente de su publ
 Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 14 DE MARZO DE 2014.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO: Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
