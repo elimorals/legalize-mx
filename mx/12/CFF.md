@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2014-01-03"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 3 DE ENERO DE 2014.
 
@@ -3510,6 +3510,10 @@ Mediante tratado internacional en vigor del que México sea parte que contenga d
 
 También se podrá proporcionar a la Secretaría del Trabajo y Previsión Social, previa solicitud expresa, información respecto de la participación de los trabajadores en las utilidades de las empresas contenida en la base de datos y sistemas institucionales del Servicio de Administración Tributaria, en los términos y condiciones que para tal efecto establezca el citado órgano desconcentrado.
 
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+Además de los supuestos previstos en el párrafo segundo, tampoco será aplicable la reserva a que se refiere este precepto, cuando se trate de investigaciones sobre conductas previstas en los artículos 139, 139 Quáter, y 148 Bis del Código Penal Federal.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
@@ -3950,8 +3954,6 @@ I. De $2,740.00 a $8,230.00, a las comprendidas en las fracciones I, II y VI.
 
 II. De $3,420.00 a $6,830.00, a la comprendida en la fracción III. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección II de la Ley del Impuesto sobre la Renta, la multa será de $1,140.00 a $2,280.00.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 5 DE ENERO DE 2012.</small>
-
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III. Para la señalada en la fracción IV:
@@ -4183,8 +4185,6 @@ XXXIX. No proporcionar la información a que se refiere el artículo 82, fracci�
 ###### Artículo 82.
 
 A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes, documentación, avisos o información y con la expedición de comprobantes fiscales digitales por Internet o de constancias, a que se refiere el artículo 81 de este Código, se impondrán las siguientes multas:
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 5 DE ENERO DE 2012.</small>
 
 I. Para la señalada en la fracción I:
 
@@ -9399,3 +9399,11 @@ La aplicación de la presente fracción no configurará responsabilidad administ
 D.O.F. 3 DE ENERO DE 2014.
 
 LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 14 DE MARZO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado Código Penal Federal.
+
+TERCERO. A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el Código Federal de Procedimientos Penales, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
