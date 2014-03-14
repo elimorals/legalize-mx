@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-acceso-de-las-mujeres-a-una-598
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-11"
-last_updated: "2013-11-25"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59886&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-10"
 
 REGLAMENTO DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 11 de marzo de 2008.
 
@@ -247,9 +247,7 @@ Los componentes del Modelo de Atención deberán diseñarse en atención a las n
 
 > <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 15 Bis.
-
-El Modelo de Atención contendrá las siguientes acciones:
+ARTÍCULO 15 BIS.- El Modelo de Atención contendrá las siguientes acciones:
 
 I. Brindar servicios gratuitos de atención y apoyo, amplios e integrados que incluyan la ubicación accesible, líneas telefónicas de ayuda, centros de atención en crisis, apoyos al empleo y a la vivienda;
 
@@ -347,9 +345,7 @@ Las entidades federativas y sus municipios, en el ámbito de sus respectivas com
 
 > <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 24 Bis.
-
-Para la ejecución de los Modelos de Sanción, deberán considerarse los siguientes aspectos:
+ARTÍCULO 24 BIS.- Para la ejecución de los Modelos de Sanción, deberán considerarse los siguientes aspectos:
 
 I. Procedimientos judiciales que eviten estereotipos, elementos discriminatorios por razón de género y la revictimización;
 
@@ -507,9 +503,7 @@ Por acuerdo del grupo de trabajo se podrán invitar como observadores a organism
 
 > <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 36 Bis.
-
-Para la realización del estudio y análisis a que se refiere el artículo anterior, el grupo de trabajo contará con treinta días naturales contados a partir del día en que se reúnan por primera vez para integrar y elaborar las conclusiones correspondientes, para lo cual podrá:
+ARTÍCULO 36 BIS.- Para la realización del estudio y análisis a que se refiere el artículo anterior, el grupo de trabajo contará con treinta días naturales contados a partir del día en que se reúnan por primera vez para integrar y elaborar las conclusiones correspondientes, para lo cual podrá:
 
 I. Solicitar, a través de la Comisión Nacional, a las autoridades federales, locales y municipales todo tipo de información y documentación que tengan relación con los hechos de Violencia contra las Mujeres que se afirman en la solicitud;
 
@@ -523,9 +517,7 @@ V. Realizar, en su caso, el estudio legislativo para determinar si existe agravi
 
 > <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 36 Ter.
-
-Las decisiones del grupo de trabajo se tomarán por mayoría de voto de sus integrantes. En caso de empate, la persona coordinadora del grupo tendrá el voto de calidad. Las posiciones minoritarias deberán constar en un apartado del documento para conocimiento del público interesado.
+ARTÍCULO 36 TER.- Las decisiones del grupo de trabajo se tomarán por mayoría de voto de sus integrantes. En caso de empate, la persona coordinadora del grupo tendrá el voto de calidad. Las posiciones minoritarias deberán constar en un apartado del documento para conocimiento del público interesado.
 
 Cuando el grupo de trabajo no encuentre elementos suficientes que le permitan presumir la existencia o la veracidad de los hechos que dieron lugar a la solicitud, lo hará del conocimiento de la Comisión Nacional, así como de la Secretaría Ejecutiva, para que ésta a su vez lo haga del conocimiento de las partes interesadas. No podrá presentarse una nueva solicitud por los mismos hechos, sin que hubieran transcurrido, por lo menos, tres meses.
 
@@ -655,9 +647,7 @@ En caso de que la Víctima o el Agresor no hablen el idioma español, tendrán d
 
 > <small>(ADICIONADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 42 Bis.
-
-Los Mecanismos para el adelanto de las mujeres, a través de sus Sistemas estatales para prevenir, sancionar y erradicar la violencia contra las mujeres, podrán articular las acciones correspondientes para la coordinación de las autoridades competentes para la emisión, ejecución y cumplimiento de las órdenes de protección.
+ARTÍCULO 42 BIS.- Los Mecanismos para el adelanto de las mujeres, a través de sus Sistemas estatales para prevenir, sancionar y erradicar la violencia contra las mujeres, podrán articular las acciones correspondientes para la coordinación de las autoridades competentes para la emisión, ejecución y cumplimiento de las órdenes de protección.
 
 ## TÍTULO CUARTO
 
@@ -873,11 +863,33 @@ VII. Participar en la ejecución del Programa en el ámbito de su competencia, e
 
 VIII. Informar a las autoridades competentes sobre los hechos relacionados con violencia contra las mujeres de conformidad con lo establecido en el artículo 46, fracción XII de la Ley.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 14 DE MARZO DE 2014)</small>
+
+#### SECCIÓN SÉPTIMA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
+
+ARTÍCULO 59 BIS.- La Secretaría del Trabajo y Previsión Social, en su calidad de integrante del Sistema, tendrá las siguientes atribuciones:
+
+I. Informar a la autoridad competente sobre el conocimiento de algún hecho a través del cual se practiquen o se hayan realizado conductas de violencia contra las mujeres en los centros de trabajo;
+
+II. Informar periódicamente a la Secretaría Ejecutiva los casos que tenga conocimiento de violencia laboral contra las mujeres, a fin de diseñar programas que permitan prevenir, atender, sancionar y erradicar dicha violencia en los centros de trabajo;
+
+III. Realizar, en términos de las disposiciones jurídicas aplicables, campañas de difusión en medios de comunicación para informar a la población sobre los supuestos que se consideran violencia laboral, así como para su prevención, atención y erradicación;
+
+IV. Diseñar y difundir materiales que generen una cultura de respeto a los Derechos Humanos de las Mujeres en el ámbito laboral;
+
+V. Propiciar que las Víctimas de violencia laboral reciban asesoría jurídica, a través de las áreas competentes de la Secretaría del Trabajo y Previsión Social, a fin de canalizarlas con las autoridades competentes;
+
+VI. Capacitar y actualizar al personal que labore en el sector de trabajo y previsión social y que participe en la atención de las Víctimas de violencia laboral;
+
+VII. Poner a disposición los medios, preferentemente electrónicos, a las Víctimas de violencia laboral para denunciar su caso ante las autoridades competentes, y
+
+VIII. Las demás previstas en otras disposiciones jurídicas aplicables para el cumplimiento de la Ley y el presente Reglamento.
+
 #### SECCIÓN OCTAVA. DEL INSTITUTO NACIONAL DE LAS MUJERES
 
 > <small>(REFORMADO, D.O.F. 25 DE NOVIEMBRE DE 2013)</small>
-
-#### SECCIÓN NOVENA. DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
 ###### ARTÍCULO 60.
 
@@ -899,7 +911,7 @@ VII. Impulsar, en coordinación con la Comisión Nacional, la armonización de l
 
 VIII. Las demás que establezcan la Ley, la Ley del Instituto Nacional de las Mujeres, el presente Reglamento y demás disposiciones administrativas aplicables.
 
-#### SECCIÓN DÉCIMA. DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN NOVENA. DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
 ###### ARTÍCULO 61.
 
@@ -913,7 +925,7 @@ III. Coadyuvar con las autoridades competentes en la evaluación y seguimiento d
 
 IV. Las demás que establezca la presente la Ley, la Ley Federal para Prevenir y Eliminar la Discriminación y el presente Reglamento.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LAS ENTIDADES FEDERATIVAS
+#### SECCIÓN DÉCIMA. DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### ARTÍCULO 62.
 
@@ -937,11 +949,13 @@ VIII. Prestar servicios de asistencia jurídica, de orientación social y psicol
 
 IX. Incluir en los centros de atención de asistencia social, los servicios de rehabilitación psicológica y social para el agresor, atendiendo a los Modelos.
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LOS MUNICIPIOS
+#### SECCIÓN DÉCIMA PRIMERA. DE LAS ENTIDADES FEDERATIVAS
 
 ###### ARTÍCULO 63.
 
 El Sistema promoverá, por conducto de los Mecanismos para el adelanto de las mujeres, y mediante instrumentos, que las entidades federativas establezcan políticas públicas en materia de violencia contra las mujeres, acordes con el Programa y la Política Nacional Integral.
+
+#### SECCIÓN DÉCIMA SEGUNDA. DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 64.
 
@@ -986,3 +1000,9 @@ SEXTO.- Las acciones que lleven a cabo las dependencias y entidades de la Admini
 SÉPTIMO.- La emisión de lineamientos normativos y metodológicos para prevenir, atender, sancionar y erradicar la violencia contra las mujeres a que hace referencia el artículo 44 del presente Decreto, deberán ser emitidos en un plazo de noventa días naturales a partir de la entrada en vigor de este Decreto.
 
 OCTAVO.- Los procedimientos y asuntos que se encuentren en trámite o pendientes de resolución al momento de la entrada en vigor del presente Decreto se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+D.O.F. 14 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las dependencias encargadas de la implementación del presente Decreto realizarán las acciones necesarias para ello con los recursos aprobados a las mismas, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable en el presente ejercicio fiscal.
