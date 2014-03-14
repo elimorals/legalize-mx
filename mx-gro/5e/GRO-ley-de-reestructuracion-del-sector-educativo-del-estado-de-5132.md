@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-reestructuracion-del-sector-educativo-del-estado-de-5132
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-16"
-last_updated: "2005-10-14"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE REESTRUCTURACION DEL SECTOR EDUCATIVO DEL ESTADO DE GUERRERO NUM. 243
 
-LEY DE REESTRUCTURACION DEL SECTOR EDUCATIVO DEL ESTADO DE GUERRERO NUM. 243
+LEY DE REESTRUCTURACIÓN DEL SECTOR EDUCATIVO DEL ESTADO DE GUERRERO NÚM. 243
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 16 de febrero de 1996.
 
@@ -65,9 +65,11 @@ LEY DE REESTRUCTURACION DEL SECTOR EDUCATIVO DEL ESTADO DE GUERRERO NUM. 243.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 1o.
 
-Esta Ley tiene por objeto la integración de los servicios educativos que prestan los diferentes subsistemas y modalidades que atiende el Gobierno del Estado, integración que estará bajo la coordinación, control, supervisión y evaluación de la Secretaría de Educación Guerrero, de conformidad con lo dispuesto en los artículos 3o. de la Constitución Política de los Estados Unidos Mexicanos, 108 y 109 de la Constitución Política del Estado Libre y Soberano de Guerrero, la Ley General de Educación, la Ley de Educación del Estado, la Ley Orgánica de la Administración Pública del Estado de Guerrero, el Acuerdo Nacional para la Modernización de la Educación Básica y en los Acuerdos de Coordinación celebrados con el Gobierno Federal y demás disposiciones relativas a la materia.
+Esta Ley tiene por objeto la integración de los servicios educativos que prestan los diferentes subsistemas y modalidades que atiende el Gobierno del Estado, integración que estará bajo la coordinación, control, supervisión y evaluación de la Secretaría de Educación Guerrero, de conformidad con lo dispuesto en los artículos 3 de la Constitución Política de los Estados Unidos Mexicanos, 108 y 109 de la Constitución Política del Estado Libre y Soberano de Guerrero, la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación, la Ley de Educación del Estado de Guerrero núm. 158, la Ley Orgánica de la Administración Pública del Estado de Guerrero número 433, el Acuerdo Nacional para la Modernización de la Educación Básica y en los Acuerdos de Coordinación celebrados con el Gobierno Federal y demás disposiciones relativas a la materia.
 
 ###### ARTICULO 2o.
 
@@ -77,9 +79,13 @@ La aplicación y vigilancia del cumplimiento de la presente Ley, corresponde a l
 
 La Secretaría de Educación Guerrero, tendrá las siguientes atribuciones:
 
-I.- Coordinar las áreas de su competencia y las del Gobierno Federal que inciden en el proceso educativo del Estado en todos sus niveles y modalidades, para reestructurar en uno solo, los Sistemas de Educación Básica y Normal.
+> <small>(REFORMADA P.O. 14 DE MARZO DE 2014)</small>
 
-II.- Coordinar acciones con los Ayuntamientos, Consejos Municipales de Educación y Organismos Sindicales del Sector, para promover y fomentar las actividades encaminadas a la Modernización Integral de la Educación y al Federalismo Educativo en el Estado.
+I.- Coordinar las áreas de su competencia y las del Gobierno Federal que inciden en el proceso educativo del Estado en todos sus niveles y modalidades, para reestructurar en uno solo, los Sistemas de Educación Básica, Media Superior y Normal;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
+II.- Coordinar acciones con los Ayuntamientos, a través de las Comisiones de Educación y Cultura, así como con el Consejo de Participación Social, para promover y fomentar las actividades encaminadas al fortalecimiento de los objetivos de la reforma educativa y al Federalismo Educativo en el Estado; y
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
 
@@ -139,13 +145,17 @@ Corresponderá a la Secretaría de Finanzas y Administración del Gobierno del E
 
 ### CAPITULO IV. DE LAS RELACIONES LABORALES
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 7o.
 
-La Secretaría de Educación Guerrero, será la titular de las relaciones laborales con los trabajadores adscritos a los planteles y unidades administrativas de conformidad con lo dispuesto por el apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, la Ley de Trabajo de los Servidores Públicos del Estado, la Ley de Seguridad Social de los Servidores Públicos del Estado de Guerrero, en los Convenios y Acuerdos de Coordinación suscritos entre los Poderes Ejecutivos Federal y Estatal, así como con los Sindicatos Nacional de Trabajadores de la Educación y Unico de Servidores Públicos del Estado de Guerrero.
+La Secretaría de Educación Guerrero, será la titular de las relaciones laborales con los trabajadores adscritos a sus planteles Educativos y Unidades Administrativas de conformidad con lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la Constitución Política del Estado Libre y Soberano de Guerrero, la Ley de Trabajo de los Servidores Públicos del Estado número 248, la Ley Número 912 de Seguridad Social de los Servidores Públicos del Estado de Guerrero y demás ordenamientos aplicables en lo que corresponda, en los Convenios y Acuerdos de Coordinación suscritos entre los Poderes Ejecutivos Federal y Estatal, así como con los Sindicatos Nacional de Trabajadores de la Educación, Único de Servidores Públicos del Estado de Guerrero y demás organizaciones sindicales debidamente reconocidas por la autoridad educativa, conforme a las disposiciones legales aplicables, así como las demás organizaciones Sindicales de nivel medio superior debidamente acreditadas y legitimados ante los Organismos Públicos Descentralizados y establecimientos Públicos de Bienestar Social, que no contravengan las disposiciones de la Ley General del Servicio Profesional Docente.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 8o.
 
-Las relaciones laborales entre la Secretaría de Educación Guerrero y sus trabajadores, se regirán por lo dispuesto en la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero, por los Convenios y Acuerdos suscritos con el Gobierno Federal y el Sindicato Nacional de Trabajadores de la Educación y demás disposiciones legales aplicables a la materia.
+Las relaciones laborales entre la Secretaría de Educación Guerrero y sus trabajadores, se regirán por lo dispuesto en la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero número 248, por los Convenios y Acuerdos suscritos con el Gobierno Federal y el Sindicato Nacional de Trabajadores de la Educación que no contravengan las disposiciones de la Ley General del Servicio Profesional Docente y demás disposiciones legales aplicables a la materia.
 
 ###### ARTICULO 9o.
 
@@ -213,7 +223,7 @@ C. PROFR. ZOTICO D. GARCIA PASTRANA.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE ENERO DE 1997.
 
@@ -224,3 +234,9 @@ P.O. 14 DE OCTUBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado, para sus efectos constitucionales procedentes.
+
+P.O. 14 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Serán nulos los acuerdos y convenios que contravengan las disposiciones de la presente Ley y las relativas al Servicio Profesional Docente y sus ordenamientos que lo regulan.
