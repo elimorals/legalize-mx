@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2012-06-14"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -52,9 +52,9 @@ La presente Ley tiene por objeto establecer reglas para la investigación, perse
 
 Cuando tres o más personas se organicen de hecho para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras, tienen como fin o resultado cometer alguno o algunos de los delitos siguientes, serán sancionadas por ese solo hecho, como miembros de la delincuencia organizada:
 
-> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2014)</small>
 
-I. Terrorismo, previsto en los artículos 139 a 139 Ter y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter; contra la salud, previsto en los artículos 194 y 195, párrafo primero; falsificación o alteración de moneda, previstos en los artículos 234, 236 y 237; el previsto en la fracción IV del artículo 368 Quáter en materia de hidrocarburos; operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis; y el previsto en el artículo 424 Bis, todos del Código Penal Federal;
+I. Terrorismo, previsto en los artículos 139 al 139 Ter, financiamiento al terrorismo previsto en los artículos 139 Quáter y 139 Quinquies y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter; contra la salud, previsto en los artículos 194 y 195, párrafo primero; falsificación o alteración de moneda, previstos en los artículos 234, 236 y 237; el previsto en la fracción IV del artículo 368 Quáter en materia de hidrocarburos; operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis; y el previsto en el artículo 424 Bis, todos del Código Penal Federal;
 
 II. Acopio y tráfico de armas, previstos en los artículos 83 bis y 84 de la Ley Federal de Armas de Fuego y Explosivos;
 
@@ -499,3 +499,11 @@ D.O.F. 15 DE NOVIEMBRE DE 2011.
 D.O.F. 14 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MARZO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado Código Penal Federal.
+
+TERCERO. A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el Código Federal de Procedimientos Penales, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
