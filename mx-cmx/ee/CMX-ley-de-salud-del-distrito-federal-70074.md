@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2013-08-08"
+last_updated: "2014-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -606,7 +606,11 @@ XXIX. Tener bajo su cargo el Sistema de Alerta Sanitaria, así como el Centro de
 
 XXX. Planear, operar, controlar y evaluar el sistema de información en salud del Distrito Federal, para lo cual, las personas físicas y morales de los sectores social y privado que generen y manejen información sobre salud, deberán suministrarla a la Secretaría, con la periodicidad y en los términos establecidos por en las disposiciones aplicables, para el funcionamiento del sistema de información en salud del Distrito Federal;
 
-XXXI. Las demás que señale esta Ley y los instrumentos jurídicos aplicables.
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+
+XXXI. Formular y organizar, en coordinación con la Secretaría del Medio Ambiente del Distrito Federal, programas para la prevención, atención y control de los efectos nocivos del ambiente en la salud que consideren, entre otros, aspectos medidas de adaptación al cambio climático; y
+
+XXXII. Las demás que señale esta Ley y los instrumentos jurídicos aplicables.
 
 ### Capítulo VI. De los Servicios de Salud Pública del Distrito Federal
 
@@ -2915,3 +2919,9 @@ G.O. 8 DE AGOSTO DE 2013.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
