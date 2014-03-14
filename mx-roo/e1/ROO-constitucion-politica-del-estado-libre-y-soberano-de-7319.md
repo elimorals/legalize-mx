@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2014-02-27"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1797,9 +1797,9 @@ El Tribunal Superior de Justicia se integra por nueve magistrados numerarios y e
 
 El Pleno del Tribunal se integrará solamente con los magistrados numerarios, con la excepción señalada en el párrafo tercero del Artículo 110 y la salvedad de lo establecido en el primer párrafo del Artículo 99 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-Las Salas se organizarán por materia o por circuito y se integrarán con tres Magistrados cada una, a excepción de la Sala Constitucional y Administrativa, la que se integrará con un Magistrado Numerario. Las apelaciones en los Juicios de Oralidad Familiar, serán resueltas de forma unitaria en los casos previstos por la ley, por un Magistrado Numerario, con excepción del Magistrado que integra la Sala Constitucional y Administrativa, del Magistrado Consejero y del propio Presidente del Tribunal Superior de Justicia. Las Salas tendrán la competencia y jurisdicción que establezca la Ley Orgánica del Poder Judicial del Estado.
+Las Salas se organizarán por materia o por circuito y se integrarán con tres Magistrados cada una, a excepción de la Sala Constitucional y Administrativa, la que se integrará con un Magistrado Numerario. Las apelaciones en los juicios orales, serán resueltas de forma unitaria en los casos previstos por la ley, por un Magistrado Numerario, con excepción del Magistrado que integra la Sala Constitucional y Administrativa, del Magistrado Consejero y del propio Presidente del Tribunal Superior de Justicia. Las Salas tendrán la competencia y jurisdicción que establezca la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2013)</small>
 
@@ -1881,7 +1881,7 @@ VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Procurad
 
 Los nombramientos de los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
-Los jueces de primera instancia y de paz deberán reunir los mismos requisitos que se establecen para ser Magistrado, con excepción de la edad que deberá ser de veintiocho años por lo menos, y del título y de la cédula profesional que deberá tener una antigüedad mínima de cinco años al día de su nombramiento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4447,18 +4447,22 @@ SEGUNDO. Los Magistrados y Jueces del Poder Judicial del Estado de Quintana Roo,
 
 TERCERO. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
 
-P.O. 27 DE FEBRERO DE 2014.
-
 DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 75 Y SE ADICIONA UN PÁRRAFO TERCERO A LA FRACCIÓN I DEL ARTÍCULO 77 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUINTANA ROO
+
+P.O. 27 DE FEBRERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-P.O. 27 DE FEBRERO DE 2014.
-
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 75 EN SUS FRACCIONES XLV Y XLVI; 76 EN SU FRACCIÓN XI Y 94 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
+
+P.O. 27 DE FEBRERO DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Toda ley o decreto, que haga referencia a la Comisión de Derechos Humanos del Estado de Quintana Roo, se entenderá por ésta, a la Comisión de los Derechos Humanos del Estado de Quintana Roo.
 
 TERCERO. Se derogan las disposiciones legales vigentes que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
