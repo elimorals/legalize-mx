@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-la-policia-estatal-preventiva-de-87802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-04"
-last_updated: "2012-05-04"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE LA POLICÍA ESTATAL PREVENTIVA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 4 de mayo de 2012.
 
@@ -213,6 +213,10 @@ d) Operaciones Caninas, y
 
 e) De Armamento.
 
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 14 DE MARZO DE 2014, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DE LA PRESENTE FRACCIÓN.</small>
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+
 IV.- Dentro de la División de Investigación, se encuentran las siguientes unidades:
 
 1.- Coordinaciones Estatales:
@@ -227,7 +231,7 @@ a.1.2) Jefaturas de Grupo, y
 
 a.1.3) Subjefaturas de Grupo.
 
-b) De Protección a Funcionarios:
+b) De Protección a Funcionarios y Ejecutivos:
 
 b.1) Comandancias de Zona:
 
@@ -235,21 +239,13 @@ b.1.1) Subcomandancias de Zona y
 
 b.1.2) Jefaturas de Grupo.
 
-c) De Protección a Ejecutivos
+c) De Enlace Internacional
 
 c.1) Comandancias de Zona:
 
-c.1.1) Subcomandancias de Zona y
+c.1.1) Subcomandancias de Zona, y
 
 c.1.2) Jefaturas de Grupo.
-
-d) De Enlace Internacional:
-
-d.1) Comandancias de Zona:
-
-d.1.1) Subcomandancias de Zona, y
-
-d.1.2) Jefaturas de Grupo.
 
 V.- Dentro de la División de Inteligencia, se encuentran las siguientes unidades:
 
@@ -261,7 +257,9 @@ b) De Información y Análisis Táctico, y
 
 c) Servicios Técnicos e Informáticos.
 
-El Secretario a propuesta del titular de la Dirección, establecerá la demarcación territorial de las bases operativas, destacamentos, delegaciones y demás unidades policiales a que se hace referencia en la fracción III, número 1, inciso a); y la fracción IV, número 1, incisos a), b), c) y d) del presente Artículo, de acuerdo a las necesidades del servicio y disponibilidad presupuestal.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
+El Secretario a propuesta del titular de la Dirección, establecerá la demarcación territorial de las bases operativas, destacamentos, delegaciones y demás unidades policiales a que se hace referencia en la fracción III, número 1, inciso a); y la fracción IV, número 1, incisos a), b) y c) del presente Artículo, de acuerdo a las necesidades del servicio y disponibilidad presupuestal.
 
 ### CAPÍTULO IV. De las Facultades de los Titulares de las Unidades Policiales
 
@@ -681,73 +679,51 @@ XI.- Ejecutar las técnicas, métodos y estrategias de investigación policial, 
 
 XII.- Las demás que en el ámbito de su competencia le confiera el superior jerárquico, la Ley, el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+
 ###### Artículo 28.
 
-El titular de la Coordinación Estatal de Protección a Funcionarios, tendrá las siguientes facultades y obligaciones:
+El titular de la Coordinación Estatal de Protección a Funcionarios y Ejecutivos, tendrá las siguientes facultades y obligaciones:
 
-I.- Diseñar los protocolos de protección y seguridad para cada caso en particular del servidor público y en su caso de su familia sujetos a protección, lo anterior previa acreditación del estudio de riesgo que realice la Institución Policial;
+I.- Diseñar los protocolos de protección y seguridad para cada caso en particular ya sea servidor público y en su caso de su familia; así como de industriales, empresarios, comerciantes, ejecutivos o cualquier persona que por la propia naturaleza de sus actividades o entorno personal, se encuentre en riesgo su integridad física de su persona o su familia; lo anterior previa acreditación del estudio de riesgo que realice la Institución Policial, y cuando así sea requerido por su superior jerárquico;
 
-II.- Diseñar y elaborar el estudio de riesgo de los funcionarios candidatos a protección, en coordinación con la Subdirección de Investigación;
+II.- Mantener la seguridad en la residencia oficial del Gobernador del Estado y demás lugares donde éste se ubique o transite;
 
-III.- Aplicar los protocolos particulares de protección y seguridad del funcionario, atendiendo la agenda de trabajo del mismo;
+III.- Diseñar y elaborar el estudio de riesgo de los servidores públicos y/o personas prospectas de ser sujetos a protección, en coordinación con su superior inmediato;
 
-IV.- Coordinar con otros órdenes de gobierno la seguridad del servidor público de que se trate, en caso de visitas de trabajo fuera del Estado; en caso de que la visita sea al extranjero tal coordinación será por conducto del área competente de la Institución Policial;
+IV.- Aplicar los protocolos de seguridad y protección que aplique a cada servidor público o persona sujeta a protección, de acuerdo al estudio de riesgo autorizado;
 
-V.- Mantener la seguridad en la residencia oficial del Gobernador del Estado y demás lugares donde éste se ubique o transite;
+V.- Coordinarse con otras instancias o niveles de gobierno para el diseño de estrategias y operativos de seguridad en los casos en que el servidor público y/o la persona sujeta a protección deba acudir a reuniones fuera del Estado, ya sea en el territorio nacional o en el extranjero;
 
-VI.- Diseñar y aplicar los protocolos de protección y seguridad especiales a visitantes distinguidos en el Estado, en coordinación con las áreas competentes de la Institución Policial;
+VI.- Diseñar y aplicar los protocolos de protección y seguridad especiales a visitantes distinguidos en el Estado, en coordinación con las áreas competentes de la Institución Policial, y en su caso con otras instituciones de seguridad pública;
 
-VII.- Informar de manera inmediata al superior jerárquico, sobre hechos que representen una amenaza o peligro para el funcionario que se le proporciona el servicio de protección y seguridad, para los efectos de la elaboración y en su caso ejecución de la estrategia específica de seguridad que corresponda;
+VII.- Informar de manera inmediata al superior jerárquico, sobre hechos que representen una amenaza o peligro para el servidor público y/o persona sujeta protección (sic), para los efectos de la elaboración y en su caso ejecución de la estrategia específica de seguridad para la salvaguarda de su integridad física;
 
-VIII.- Recibir reportes que a criterio del Miembro representen una amenaza o peligro inminente de su protegido;
+VIII.- Hacer del conocimiento inmediato del superior jerárquico, para los efectos de la elaboración y en su caso ejecución de la estrategia específica de seguridad, cuando el servidor público y/o la persona sujeta a protección, requiera un incremento de su nivel de seguridad con motivo de los hechos que representen alguna amenaza o peligro en contra de su integridad física;
 
-IX.- Entregar un reporte por escrito al superior jerárquico respecto de cualquier incidente, que llegara a presentarse con motivo del servicio prestado al funcionario;
+IX.- Recibir reportes que a criterio del Miembro representen una amenaza o peligro inminente de su protegido;
 
-X.- Proponer, programar, coordinar, supervisar y evaluar según corresponda, el adiestramiento, capacitación y actualización del personal que integra la coordinación a su cargo, así como gestionar su asistencia a cursos locales, nacionales y extranjeros que les permita mantenerse vigentes respecto a las tácticas, destrezas e innovaciones que en esta especialidad se generan, en coordinación con la unidad administrativa correspondiente de la Institución Policial;
+X.- Entregar un reporte por escrito al superior jerárquico respecto de cualquier incidente, que llegara a presentarse con motivo del servicio prestado al servidor público o persona sujeta a protección;
 
-XI.- Informar a los servidores públicos usuarios de este servicio, respecto de las normas de empleo y restricciones a que esté sujeto el personal que desempeña el servicio de escolta de seguridad;
+XI.- Informar al servidor público o a la persona sujeta a protección, de las diversas normas de empleo y restricciones que deben ser observadas por los Miembros que se encuentren fungiendo como sus escoltas;
 
-XII.- Realizar evaluaciones constantes del desempeño y eficiencia de los Miembros asignados a la coordinación a su cargo;
+XII.- Proponer, programar, coordinar, supervisar y evaluar según corresponda el adiestramiento, capacitación u actualización del personal a su cargo, así como gestionar su asistencia a programas y eventos de capacitación local, nacional o extranjera que permita la actualización y perfeccionamiento de tácticas, destrezas e innovaciones que en su especialidad requiera, coordinándose con el área administrativa correspondiente de la Institución Policial;
 
-XIII.- Llevar el control operativo y disciplinario de los Miembros que integran la coordinación a su mando, y
+XIII.- Realizar las evaluaciones constantes del desempeño y eficiencia del personal a su cargo;
 
-XIV.- Las demás relativas a la competencia de su área, indispensables para el buen desempeño de sus atribuciones y las que determine el superior jerárquico.
+XIV.- Llevar el control operativo y disciplinario de los Miembros que integran la coordinación a su mando;
+
+XV.- Controlar el armamento asignado a la coordinación, supervisando su correcto funcionamiento en conjunto con la Coordinación de Armamento de la Institución Policial;
+
+XVI.- Participar con el personal de la coordinación a su cargo, cuando sea requerido por el superior jerárquico, en los operativos o actividades de la Institución Policial;
+
+XVII.- Proporcionar al servidor público o persona sujeta a protección, el apoyo en medidas preventivas a seguir, en caso de recibir llamadas de extorsión o amenaza, y
+
+XVIII.- Las demás que en el ámbito de su competencia le confiera el Superior Jerárquico, la Ley, el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 29.
 
-El titular de la Coordinación Estatal de Protección a Ejecutivos, tendrá las siguientes facultades y obligaciones:
-
-I.- Diseñar los protocolos de protección y seguridad para cada caso en particular de industriales, empresarios comerciantes, ejecutivos o cualquier persona que por la propia naturaleza de sus actividades o entorno personal se encuentre en riesgo la integridad física en su persona o su familia, cuando así sea requerido por su superior jerárquico, lo anterior previa acreditación del estudio de riesgo que realice la Institución Policial;
-
-II.- Diseñar y elaborar el estudio de riesgo de las personas referidas en la fracción que antecede candidatos a protección, en coordinación con su superior jerárquico;
-
-III.- Aplicar los protocolos particulares de protección y seguridad de la persona sujeta a protección, que el Subdirector titular de la División de Investigación autorice;
-
-IV.- Proponer, programar, coordinar, supervisar y evaluar según corresponda, el adiestramiento, capacitación y actualización del personal que integra la coordinación a su cargo, así como gestionar su asistencia a cursos locales, nacionales y extranjeros que les permita mantenerse vigentes respecto a las tácticas, destrezas e innovaciones que en esta especialidad se generan, en coordinación con la unidad administrativa correspondiente de la Institución Policial;
-
-V.- Informar a las personas usuarias de este servicio, respecto a las normas de empleo y restricciones a que esté sujeto el personal que desempeña el servicio de escolta de seguridad;
-
-VI.- Realizar evaluaciones constantes del desempeño y eficiencia de los Miembros asignados a la coordinación a su cargo;
-
-VII.- Llevar el control operativo y disciplinario de los Miembros que integran la coordinación a su mando;
-
-VIII.- Hacer del conocimiento inmediato del superior jerárquico, para los efectos de la elaboración y en su caso ejecución de la estrategia específica de seguridad, cuando alguna persona sujeta a protección requiera un incremento de su nivel de seguridad con motivo de los hechos que representen alguna amenaza o peligro en contra de su integridad física;
-
-IX.- Llevar un control de revisión del armamento asignado de los Miembros adscritos a la coordinación a su cargo, en conjunto con la Coordinación de Armamento de la Institución Policial;
-
-X.- Recibir reportes que a criterio del Miembro representen una amenaza o peligro inminente de su protegido;
-
-XI.- Informar, para los efectos correspondientes, de manera inmediata al superior jerárquico, sobre hechos que representen una amenaza o peligro para la persona que se le proporciona el servicio de protección y seguridad;
-
-XII.- Entregar un reporte por escrito al superior jerárquico respecto de cualquier incidente, que llegara a presentarse con motivo del servicio prestado;
-
-XIII.- Participar con el personal de la coordinación a su cargo, cuando sea requerido por el superior jerárquico, en los operativos o actividades de la Institución Policial;
-
-XIV.- Proporcionar el apoyo en medidas preventivas a seguir, en caso de recibir llamadas de extorsión o amenaza;
-
-XV.- Diseñar planes, estratégicas y en su caso ejecutar los operativos de seguridad para ejecutivos que visiten la entidad, cuando se lo requiera el superior jerárquico, y
-
-XVI.- Las demás que en el ámbito de su competencia le confiera el superior jerárquico, la Ley, el presente Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 14 DE MARZO DE 2014)
 
 ###### Artículo 30.
 
@@ -2698,3 +2674,9 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE MARZO DE 2014.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
