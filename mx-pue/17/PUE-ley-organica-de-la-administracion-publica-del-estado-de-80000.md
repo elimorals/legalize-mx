@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2013-12-30"
+last_updated: "2014-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -469,17 +469,17 @@ XLIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en s
 
 XLIV.- Prestar, a través de la unidad administrativa o instancia correspondiente, la asistencia jurídica gratuita en el fuero común, en términos de la Constitución Política de los Estados Unidos Mexicanos, además de otorgar la misma a las personas que carezcan de recursos económicos, que tengan notorio atraso intelectual y aquéllas que por su condición o por disposición de la ley, merezcan especial protección, frente a las que se encuentren en la situación contraria;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+XLV.- Recibir de las Dependencias y Entidades de la Administración Pública Estatal, la información respectiva en materia de derechos humanos, cuando así corresponda en el ámbito de su competencia;
 
-XLV.- Recibir de las Dependencias y Entidades de la Administración Pública Estatal, la información respectiva en materia de derechos humanos, cuando así corresponda en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XLVI.- Intervenir en lo relacionado con la regulación de los servicios de Seguridad Privada prestados por personas físicas y jurídicas, en los términos de la Ley de la materia; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
-XLVI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+XLVII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1897,7 +1897,7 @@ XIII.- Prestar consejo jurídico y representar legalmente al Gobierno del Estado
 
 XIV.- Prestar atención a las víctimas de delitos en los términos establecidos en las leyes de la materia;
 
-XV.- Autorizar el registro y funcionamiento de las personas físicas y jurídicas que presten servicios de Seguridad Privada en el Estado;
+XV.- (DEROGADA, P.O. 14 DE MARZO DE 2014)
 
 XVI.- Organizar, dirigir y administrar el servicio de carrera ministerial, pericial y de policía ministerial;
 
@@ -2490,3 +2490,21 @@ En tanto no se realicen las reformas a que se refiere el párrafo anterior, las 
 CUARTO.- Los recursos humanos, financieros y materiales que sean necesarios, serán transferidos a la Dependencia que corresponda, atendiendo al objeto o naturaleza de sus funciones. Las Secretarías de Finanzas y Administración y de la Contraloría, en el ámbito de su competencia, deberán realizar las acciones conducentes para realizar dichos movimientos.
 
 QUINTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 14 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- El Reglamento de la Ley a que se refiere este Decreto, deberá expedirse dentro de los 180 días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO.- Para efectos de revalidación de autorizaciones otorgadas antes de la vigencia del presente Decreto, se homologarán las modalidades bajo los términos señalados en este Decreto.
+
+QUINTO.- Los asuntos que se encuentren en trámite, continuarán desahogándose con las disposiciones vigentes al momento de su inicio y hasta su conclusión.
+
+SEXTO.- Las erogaciones que se deriven de la aplicación de este Decreto estarán sujetas a la suficiencia presupuestal.
+
+SÉPTIMO.- A la publicación de este Decreto quedarán sin efecto todos los convenios, acuerdos y contratos, que contravengan al contenido de lo señalado en el presente Decreto.
+
+OCTAVO.- La Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Estado, la Secretaría General de Gobierno y la Secretaría de la Contraloría, en los ámbitos de competencia que corresponda, acordarán lo necesario para que en un plazo no mayor de noventa días naturales contados a partir del día de la entrada en vigor de este Decreto, se transfieran los archivos y los recursos humanos que sean necesarios, así como los recursos materiales y financieros existentes destinados para la atención de los asuntos relacionados con la materia de este Decreto.
