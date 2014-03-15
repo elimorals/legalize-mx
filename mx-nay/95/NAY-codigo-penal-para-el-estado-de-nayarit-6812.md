@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2013-10-04"
+last_updated: "2014-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -1997,7 +1997,9 @@ X. Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo
 
 XI. Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación.
 
-Al que cometa el delito de abuso de autoridad se le impondrá prisión de seis meses a seis años y multa de treinta a doscientos días de salario mínimo diario vigente y destitución e inhabilitación por el mismo lapso para desempeñar otro empleo, cargo o comisión pública.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
+
+Al que cometa el delito de abuso de autoridad se le impondrá prisión de seis meses a seis años y multa de treinta a doscientos días de salario mínimo diario vigente y destitución e inhabilitación por el mismo lapso para desempeñar otro empleo, cargo o comisión pública, la sanción se podrá aumentar hasta la mitad si el ofendido resultase menor de edad.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
 
@@ -4472,3 +4474,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 4 DE OCTUBRE DE 2013.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE MARZO DE 2014.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
