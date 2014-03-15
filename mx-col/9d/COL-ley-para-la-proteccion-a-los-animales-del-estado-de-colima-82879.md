@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-a-los-animales-del-estado-de-colima-8287
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-31"
-last_updated: "2011-08-31"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY PARA LA PROTECCION A LOS ANIMALES DEL ESTADO DE COLIMA
 
-LEY PARA LA PROTECCION A LOS ANIMALES DEL ESTADO DE COLIMA
+LEY PARA LA PROTECCIÓN A LOS ANIMALES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
 
-Ley publicada en el Suplemento No.1 del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2011.
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2011.
 
 LIC. MARIO ANGUIANO MORENO, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 
@@ -361,9 +361,15 @@ VI. Celebrar convenios de colaboración con los sectores social y privado, para 
 
 VII. Proceder al sacrificio humanitario de los animales en los términos de la presente Ley, así como a la disposición adecuada de sus cadáveres y residuos biológicos peligrosos conforme a la normatividad vigente;
 
-VIII. Supervisar, verificar y, en su caso, sancionar en términos de la presente Ley y su Reglamento respectivo a los criaderos, establecimientos, refugios, asilos, instalaciones, transporte, espectáculos públicos, instituciones académicas, de investigación y particulares que manejen animales; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
 
-IX. Las demás que esta Ley y otros ordenamientos jurídicos aplicables les confieran.
+VIII. Supervisar, verificar y, en su caso, sancionar en términos de la presente Ley y su Reglamento respectivo a los criaderos, establecimientos, refugios, asilos, instalaciones, transporte, espectáculos públicos, instituciones académicas, de investigación y particulares que manejen animales;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+IX. Informar a las autoridades federales competentes del establecimiento en su territorio de circos que posean animales para espectáculo o exhibición, para efectos de que comprueben su legal posesión y que se encuentren en condiciones adecuadas; y
+
+X. Las demás que esta Ley y otros ordenamientos jurídicos aplicables les confieran.
 
 ### CAPÍTULO III. DEL FOMENTO Y DIFUSIÓN DE UNA CULTURA DE PROTECCIÓN A LOS ANIMALES
 
@@ -433,9 +439,19 @@ III. La venta de animales vivos en tiendas departamentales, tiendas de autoservi
 
 IV. La celebración de espectáculos con animales en la vía pública, con excepción de los legalmente autorizados;
 
-V. La venta o adiestramiento de animales en vía pública y áreas comunes, o en las que se atente o exista riesgo de que se pudiera afectar la integridad física de las personas, o en aquellos establecimientos que no cuenten con las instalaciones adecuadas para hacerlo; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
 
-VI. El uso y tránsito de vehículos de tracción animal en vialidades asfaltadas y para fines distintos al uso agropecuario, con excepción de los autorizados legalmente.
+V. La venta o adiestramiento de animales en vía pública y áreas comunes, o en las que se atente o exista riesgo de que se pudiera afectar la integridad física de las personas, o en aquellos establecimientos que no cuenten con las instalaciones adecuadas para hacerlo;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+VI. El uso y tránsito de vehículos de tracción animal en vialidades asfaltadas y para fines distintos al uso agropecuario, con excepción de los autorizados legalmente; y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+VII. La celebración y realización de espectáculos circenses en los cuales se utilicen animales vivos sea cual sea su especie en cualquier espacio de sus instalaciones.
+
+Sólo se autorizará la exhibición, sin que esta última implique el ejercicio de rutinas de adiestramiento.
 
 ###### Artículo 29.
 
@@ -895,11 +911,11 @@ A la persona que en eventos o lugares públicos, moleste o incite a un animal en
 
 A quien incite a dos o más animales para que se acometan entre si, haciendo de las peleas así provocadas un espectáculo público o privado, cuyo acto de crueldad prevé la fracción VIII del artículo 43 de esta Ley, le será impuesta por el ayuntamiento respectivo una multa de cien a doscientas unidades de salario o arresto administrativo hasta por 36 horas, así como perdida de la custodia del animal o animales, procediéndose a trasladarlos al centro de control animal del ayuntamiento que corresponda.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
+
 ###### Artículo 91.
 
-A quién incurra en las conductas previstas en el artículo 28 de esta Ley, será sancionado por el ayuntamiento respectivo con multa de cinco a cincuenta unidades de salario.
-
-A quién infrinja las conductas prohibidas por el artículo 29 de esta Ley, será sancionado por el ayuntamiento correspondiente con multa de cien a doscientas unidades de salario o arresto administrativo hasta por 36 horas.
+A quién incurra en las conductas previstas en las fracciones I, II, III, IV, V y VI del artículo 28 de esta Ley, será sancionado por el ayuntamiento respectivo con multa de cinco a cincuenta unidades de salario y, en el caso de la fracción de (sic) VII, la multa será de treinta a trescientas unidades de salario, además se emitirá la suspensión del permiso respectivo, y se ordenará el retiro de las instalaciones en que se desarrolle el espectáculo circense.
 
 ###### Artículo 92.
 
@@ -970,3 +986,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 31 del mes de agosto del año dos mil once.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica. EL SECRETARIO DE EDUCACIÓN, PROFR. FEDERICO RANGEL LOZANO. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ING. FRANCISCO JAVIER AGUILAR ZARAGOZA. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA. Rúbrica. EL SECRETARIO DE CULTURA, LIC. RUBÉN PÉREZ ANGUIANO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los ayuntamientos contarán con un plazo de 60 días naturales contados a partir de la entrada en vigor del presente decreto, para adecuar la reglamentación respectiva de conformidad con lo previsto en el mismo.
