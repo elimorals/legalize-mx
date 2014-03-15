@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-11-16"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3025,11 +3025,11 @@ BASE 0%
 
 Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Ayuntamiento celebren convenio para pago en parcialidades.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
-###### ARTICULO OCTAVO.
+###### ARTÍCULO OCTAVO.
 
-Para el Ejercicio fiscal 2013, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta ley, se amplía hasta el 30 de abril.
+Para el Ejercicio fiscal 2014, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta ley se amplía hasta el 30 de abril.
 
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
@@ -3162,3 +3162,7 @@ P.O. 19 DE OCTUBRE DE 2013.
 P.O. 16 DE NOVIEMBRE DE 2013.
 
 UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación, debiendo publicarse en el Periódico Oficial "El Estado de Colima".
