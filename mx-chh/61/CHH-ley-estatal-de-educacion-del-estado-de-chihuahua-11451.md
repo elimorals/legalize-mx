@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2013-12-18"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ESTATAL DE EDUCACION DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2014 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -47,11 +49,11 @@ Se expide la Ley Estatal de Educación para quedar en los siguientes términos:
 
 LEY ESTATAL DE EDUCACIÓN
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+## TÍTULO PRIMERO. DEL SISTEMA EDUCATIVO EN EL ESTADO DE CHIHUAHUA
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
-
-## TITULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -69,7 +71,9 @@ III. Los Organismos Descentralizados; y
 
 IV. Los particulares con autorización o reconocimiento de validez oficial de estudios.
 
-La educación es un servicio público prioritario y un bien social que, por tanto, es responsabilidad del Estado y la sociedad. En consecuencia, promoverá la vinculación entre el sector educativo, sector productivo y los promotores de la cultura, así como también con organismos públicos o privados que promueven el desarrollo individual y colectivo.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
+
+La educación es un servicio público prioritario y un bien social que, por tanto, es responsabilidad del Estado y la sociedad. En consecuencia, promoverá la vinculación entre el sector educativo, sector productivo y los promotores de la cultura, así como también con organismos públicos o privados que promueven el desarrollo individual y colectivo. En el Sistema Educativo Estatal la educación será de calidad, y deberá asegurarse la participación activa de todas las personas involucradas en el Proceso Educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, docentes y padres de familia, para alcanzar los fines a que se refiere el presente Artículo.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -137,7 +141,9 @@ La educación que imparta el Estado, a través de la Autoridad Educativa Estatal
 
 I. Obligatoria, para la educación preescolar, primaria, secundaria y media superior, en los términos de los artículos 3° de la Constitución Política de los Estados Unidos Mexicanos y 143 de la particular del Estado de Chihuahua.
 
-II. Gratuita, presupuestando del gasto público recursos suficientes para la prestación de los servicios educativos; las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del Servicio Educativo, por tal razón, la inscripción o el acceso de los alumnos a los planteles escolares no podrá condicionarse al pago de cuotas o donativos.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+II. Gratuita, presupuestando del gasto público recursos suficientes para la prestación de los servicios educativos; las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del Servicio Educativo. Las Autoridades Educativas, Federal y Estatal, en el ámbito de su competencia, establecerán los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias. Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación del servicio educativo a los educandos. En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
 III. Laica, por lo que se mantendrá ajena a cualquier doctrina religiosa.
 
@@ -211,11 +217,13 @@ XIX. Promover, mediante el establecimiento de procedimientos y formas de organiz
 
 XX. Promover y fomentar el desarrollo de la cultura por la paz y la no violencia, basándose en la convivencia respetuosa y el fomento de la educación libre de cualquier forma de maltrato físico o psicológico entre estudiantes, así como el respeto a las demás personas, la igualdad entre hombres y mujeres y a los principios de equidad y no discriminación, de conformidad a lo establecido en la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia, la Ley para Prevenir y Eliminar la Discriminación en el Estado de Chihuahua y demás disposiciones relacionadas.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 9.
 
-El criterio que orientará a la Autoridad Educativa Estatal, los ayuntamientos y los organismos descentralizados, así como toda la educación preescolar, primaria, secundaria y la normal que los particulares impartan, se basarán en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
+El criterio que orientará a la educación que impartan el Estado y sus organismos descentralizados, así como los particulares, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus causas y sus efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, jóvenes, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en todos los órdenes de gobierno, y asimismo:
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 Además:
 
@@ -226,6 +234,14 @@ II. Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la c
 > <small>(REFORMADA, 24 DE SEPTIEMBRE DE 2011)</small>
 
 III. Contribuirá a la mejor convivencia humana y a la resolución no violenta de conflictos sociales a través de la participación social, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad; así como por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de raza, género, religión, grupo e individuo, así como cualquier forma de maltrato y violencia entre escolares.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+IV. Aportará elementos para robustecer en los educandos el aprecio a la dignidad de la persona y la integridad de los diversos tipos de familia, sustentando los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de raza, religión, grupo, sexo o de orientación sexual y perspectiva de género.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+V. Será de calidad, entendiéndose por esta, a la cualidad de un sistema educativo que integra las dimensiones de relevancia, pertinencia, equidad, eficiencia, eficacia, impacto y suficiencia.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -253,21 +269,37 @@ Son de interés social las actividades e inversiones de cualquier tipo que en ma
 
 El Gobernador del Estado tiene la facultad de nombrar y remover libremente a las autoridades educativas, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política del Estado, en las leyes o en los reglamentos.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+ARTÍCULO 12 BIS.- La Autoridad Educativa Estatal tiene en exclusiva, las atribuciones siguientes:
+
+I. Prestar los servicios de formación, actualización, capacitación y superación profesional para docentes de Educación Básica, de conformidad con las disposiciones generales que la Autoridad Educativa Federal determine, y conforme a lo dispuesto por la Ley General del Servicio Profesional Docente y demás disposiciones aplicables.
+
+II. Coordinar y operar un Padrón Estatal de Estudiantes, Docentes, Instituciones y Centros Escolares y un Registro Estatal de Emisión, Validación e Inscripción de Documentos Académicos. Para estos efectos la Autoridad Educativa Estatal deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la Autoridad Educativa Federal y demás disposiciones aplicables.
+
+III. Implementar y mantener actualizado un Sistema Estatal de Información y Gestión Educativa, mismo que deberá proporcionar información para satisfacer las necesidades de operación del Sistema Educativo Estatal; así mismo, participará en la actualización e integración permanente del Sistema de Información y Gestión Educativa.
+
+IV. Participar con la Autoridad Educativa Federal en la operación de los mecanismos de administración escolar.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 #### SECCIÓN II. DE LA AUTORIDAD EDUCATIVA ESTATAL
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 13.
 
-La Autoridad Educativa Estatal tiene las siguientes facultades y obligaciones:
+Además de las atribuciones exclusivas a las que se refiere el Artículo 12 BIS, la Autoridad Educativa Estatal tiene las siguientes facultades y obligaciones:
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 I. Proporcionar el servicio público de educación en la Entidad, conforme a la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Política del Estado y la presente Ley;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
 
 II. Prestar los servicios de educación inicial, preescolar, primaria, secundaria, incluyendo la indígena, la especial, media superior y superior; además promoverá la creación de una (sic) programa orientado a educar a los alumnos, padres y madres de familia, que de manera sistemática y permanente propicie la superación personal, la convivencia familiar y la participación social. El programa atenderá a su formalización mediante la constancia correspondiente;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 III. Promover el establecimiento, la organización y el sostenimiento, según las necesidades de la demanda en toda la Entidad Federativa de:
 
@@ -321,29 +353,55 @@ u. Centros de Prevención de Deserción Escolar, y
 
 v. Otras.
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 IV. Extender la cobertura del nivel preescolar y otorgar a las instituciones oficiales del mismo, el apoyo económico suficiente y los materiales didácticos adecuados;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 V. Asumir la administración de la educación que se imparta en todos los planteles oficiales, por conducto de la Autoridad Educativa Estatal;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 VI. Conforme al artículo 23 de la Ley General de Educación, vigilar el estricto cumplimiento por parte de las empresas establecidas en el Estado de lo ordenado por la fracción XII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en lo concerniente a la obligación de establecer y sostener escuelas y centros de capacitación;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 VII. Impulsar el intercambio de educandos, educadores, investigadores y científicos con otras Entidades Federativas, el Gobierno Federal y con instituciones educativas extranjeras y, promover cuanto sea necesario para el desarrollo y progreso de la tecnología, la ciencia, la cultura, las artes y la educación en general;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 VIII. Promover y vigilar el consumo de productos alimenticios benéficos para el desarrollo y la salud del estudiante al interior de las instituciones escolares;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 IX. Establecer un sistema de reconocimientos, distinciones, estímulos y recompensas a favor de los trabajadores de la educación, que dediquen su vida profesional a la docencia e investigación o que presten servicios destacados en el ámbito educativo y cultural;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 X. Instituir, conjuntamente con el Congreso del Estado, reconocimientos, distinciones y estímulos a la labor educativa desarrollada, tales como: La Medalla Chihuahua al Mérito Educativo, entre otras.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XI. Promover, conjuntamente con el Congreso del Estado, la institucionalización de eventos conmemorativos referidos a hechos históricos, educativos y culturales con la finalidad de fortalecer la identidad chihuahuense, tales como: Las Jornadas Villistas, La Ruta de Juárez, entre otras;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XII. Promover y estimular la producción de obras científicas, artísticas, didácticas y material escolar;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XIII. Promover el aprendizaje de una lengua extranjera, preferentemente el idioma inglés, el cual se podrá impulsar en toda la educación que se imparte en el Estado;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XIV. Editar y publicar libros, cuadernos de trabajo y materiales didácticos complementarios a los libros de texto gratuitos, que tengan por finalidad aportar conocimientos más amplios de la historia, de los valores sociales, de los bienes y de conformidad con los recursos con que cuenta la Entidad;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XV. Implementar programas de formación para y en el trabajo y la productividad en función de las necesidades de cada región; así como programas de educación extraescolar, fomento cultural, artístico y recreación;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XVI. Vincular la educación con el sector productivo a efecto de que la planeación educativa responda a los requerimientos del desarrollo estatal y regional;
 
@@ -359,47 +417,91 @@ El Sistema se regirá por la normatividad reglamentaria que al efecto se expida;
 
 Las convocatorias para el otorgamiento de becas y créditos educativos, deberán ajustarse a los principios de objetividad, publicidad, transparencia, concurrencia e igualdad sustancial.
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XVIII. Prestar y fortalecer los servicios de formación, actualización, capacitación y superación profesional para los docentes de los diferentes tipos, niveles y modalidades de conformidad con las disposiciones generales que la Autoridad Educativa Federal determine;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XIX. Fortalecer el modelo de formación continua para profesionales de la educación básica, en donde la escuela sea su espacio principal de aprendizaje, con el fin de mejorar la calidad en la prestación del servicio educativo de cada una de las escuelas;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XX. Fortalecer el Servicio de Apoyo Técnico a las escuelas a fin de impulsar el diseño y operación de propuestas innovadoras que contribuyan a mejorar la calidad del servicio educativo, considerando las características regionales y locales específicas;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXI. Promover la gestión escolar participativa y apoyar, tanto técnica como pedagógicamente, a las escuelas a partir de la formulación de proyectos;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XXII. Elaborar y mantener anualmente actualizado el padrón escolar y el inventario de los recursos y bienes destinados a la educación en la Entidad;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXIII. Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de profesionales de la educación;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XXIV. Ajustar calendarios y horarios de clase de acuerdo a las necesidades regionales, dependiendo del tipo y grado de educación y circunstancias de las y los educandos, cumpliendo con el número de días y horas que establece el calendario oficial;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXV. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, normal y demás para la formación de profesionales de la educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XXVI. Revalidar y otorgar equivalencias de estudios distintos de los establecidos en la fracción anterior, de acuerdo a los lineamientos generales que la Secretaría de Educación Pública expida;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXVII. Otorgar, negar o revocar autorización a los particulares para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de profesionales de la educación básica, tomando como criterio para tal efecto los lineamientos establecidos en la Ley General de Educación, la presente Ley y los reglamentos relativos;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XXVIII. Otorgar, negar o revocar reconocimientos de validez oficial a los particulares que impartan educación distinta a la mencionada en la fracción anterior;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXIX. Expedir constancias, certificados de estudio y otorgar diplomas, títulos o grados académicos de acuerdo a las disposiciones legales establecidas para tales efectos;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XXX. Integrar un órgano de consulta, seguimiento y evaluación de los programas y proyectos educativos que se implementen en la Entidad;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXXI. Integrar el Consejo Estatal de Participación Social en la Educación;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XXXII. Vigilar que el embarazo y la maternidad no constituyan impedimento para que las mujeres ingresen y permanezcan realizando sus estudios en los centros educativos del Sistema Educativo Estatal, sin importar su estado civil. Queda prohibida su expulsión por esta causa; de igual manera, la Autoridad Educativa Estatal procurará el apoyo académico a las mismas dentro de las instituciones escolares;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXXIII. Impulsar el servicio de educación vial en el tipo básico, otorgando los apoyos necesarios para que cobre mayor importancia en las escuelas;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XXXIV. Valorar y, en su caso, apoyar las iniciativas de particulares para complementar el servicio educativo;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXXV. Fortalecer el Sistema de Asesoría Escolar en todos los niveles del Sistema Educativo Estatal, sin perjuicio de la orientación vocacional profesional;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XXXVI. Profesionalizar al personal de apoyo y asistencia a la educación, a través de un proceso de formación continua;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXXVII. Capacitar y profesionalizar a los funcionarios estatales del sector educativo; y (sic)
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XXXVIII. Invertir recursos financieros a la investigación pedagógica para la innovación y el desarrollo del sistema educativo;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XXXIX. Supervisar la Vigilancia del ejercicio profesional en el Estado;
 
@@ -429,6 +531,34 @@ XLIV. Informar a los padres de familia o tutores de los educandos que presenten 
 
 XLV. Crear y sostener un sistema estatal de prevención de deserción escolar para estudiantes del Estado.
 
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XLVI. Participar en las actividades tendientes a realizar evaluaciones para el ingreso, la promoción, el reconocimiento y la permanencia en el Servicio Profesional Docente, de conformidad con lo dispuesto en la ley de la materia.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XLVII. Ejecutar programas para la inducción, actualización, capacitación y superación de Maestros de Educación Media superior, los que deberán sujetarse, en lo conducente, a lo dispuesto por la ley en la materia.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XLVIII. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XLIX. Diseñar y aplicar los instrumentos de evaluación que consideren necesarios para garantizar la calidad educativa en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita el Instituto Nacional para la Evaluación de la Educación.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+L. Coordinar y operar un sistema de asesoría y acompañamiento a las Escuelas Públicas de Educación Básica y Media Superior, como apoyo a la mejora de la práctica profesional, bajo la responsabilidad de los Supervisores Escolares, Inspectores u homólogos.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+LI. Promover la transparencia en las Escuelas Públicas y Particulares en las que se imparta educación obligatoria, vigilando que se rinda ante toda la comunidad, después de cada ciclo escolar, un informe de sus actividades y rendición de cuentas, a cargo del Director del Plantel.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+LII. Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 14.
@@ -439,41 +569,79 @@ La Autoridad Educativa Estatal procurará, en forma permanente, ampliar, mejorar
 
 #### SECCIÓN III. DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 15.
 
-Los ayuntamientos podrán, sin perjuicio de la educación que imparte el Estado, promover y prestar servicios en todos sus niveles, tipos o modalidades, ajustándose a sus propios recursos y tendrán, además, las siguientes facultades y obligaciones:
+La Autoridad Educativa Municipal podrá, sin perjuicio de la concurrencia de las Autoridades Educativas Federal y Estatal, promover y prestar servicios educativos de cualquier tipo y modalidad, ajustándose a sus propios recursos y tendrán, además, las siguientes facultades y obligaciones:
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 I. Formar parte del Consejo Municipal de Participación Social en la Educación, en los términos del artículo 130 de esta Ley;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 II. Promover el mantenimiento y dotación de equipo a las escuelas públicas, destinando recursos etiquetados para tal efecto y los que acuerden con el Poder Ejecutivo Estatal a través de la Secretaría de Planeación y Evaluación en base a las recomendaciones de los Consejos Municipales de Evaluación;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 III. Promover e impulsar programas de alfabetización, educación para adultos, educación para y en el trabajo y la productividad;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 IV. Editar libros e introducir otros materiales didácticos, distintos a los libros de texto gratuito;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 V. Promover permanentemente la investigación que sirva como base a la innovación educativa;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 VI. Impulsar el desarrollo de la investigación científica y tecnológica;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 VII. Establecer y sostener los servicios de seguridad pública en el entorno de los planteles educativos, en coordinación con las autoridades escolares;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 VIII. Promover y coordinar con las autoridades educativas, la realización de programas de educación para la salud y protección del medio ambiente;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 IX. Otorgar estímulos y distinciones a las y los trabajadores de la educación adscritos en los planteles de su jurisdicción, que se distingan por su desempeño, preparación profesional o antigüedad;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 X. Otorgar becas a las y los educandos que no cuenten con los recursos económicos para continuar sus estudios, con el objeto de garantizar su permanencia dentro del Sistema Educativo Estatal;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XI. Crear, organizar y dirigir bibliotecas, hemerotecas, casas de cultura, museos y otros similares, que contribuyan al acrecentamiento del acervo cultural de las y los educandos y público en general;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XII. Implementar programas de fomento cultural, recreación y deporte;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 XIII. Apoyar en la gestión que permita ampliar la calidad y la cobertura de los servicios educativos de su región;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 XIV. Las demás que le señalen las leyes.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
 El Gobierno del Estado y los ayuntamientos podrán celebrar convenios para coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+Para el ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección, supervisión o inspección en la Educación Básica y Media Superior que impartan, deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+El Estado promoverá la participación directa del municipio para dar mantenimiento y proveer de equipo básico a las Escuelas Públicas Estatales y Municipales.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
@@ -593,19 +761,83 @@ El Ejecutivo Estatal gestionará, ante otros niveles de Gobierno, la ampliación
 
 En cumplimiento de lo dispuesto en los artículos anteriores de este capítulo, la Autoridad Educativa Estatal tomará en cuenta el carácter prioritario de la educación pública para los fines del desarrollo nacional, estatal y regional.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### ARTÍCULO 24-A.
+
+La Autoridad Educativa Estatal, con base en lo establecido en la Ley General del Servicio Profesional Docente y demás normatividad aplicable, desarrollará en la Entidad el proceso de formación, actualización, capacitación y superación profesional para docentes, que tendrá las finalidades siguientes:
+
+I. La formación, con nivel de licenciatura, de maestros de educación inicial, básica, incluyendo la de aquellos para la atención de la educación indígena, especial y de educación física.
+
+II. La formación continua, la actualización de conocimientos y superación docente de los maestros en servicio, citados en la fracción anterior. El cumplimiento de estas finalidades se sujetará, en lo conducente, a los lineamientos, medidas y demás acciones que resulten de la aplicación de la Ley General del Servicio Profesional Docente.
+
+III. La realización de programas de especialización, maestría y doctorado, adecuados a las necesidades y recursos educativos de la Entidad.
+
+IV. El desarrollo de la investigación pedagógica y la difusión de la cultura educativa.
+
+La Autoridad Educativa Estatal podrá coordinarse para llevar a cabo actividades relativas a las finalidades previstas en este artículo, cuando la calidad de los servicios o la naturaleza de las necesidades hagan recomendables proyectos regionales. Asimismo, podrán suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### ARTÍCULO 24-B.
+
+Para garantizar la calidad de la educación obligatoria brindada por los particulares, las Autoridades Educativas, en el ámbito de sus atribuciones, evaluarán el desempeño de docentes que prestan sus servicios en estas Instituciones. Para tal efecto, dichas autoridades deberán aplicar evaluaciones del desempeño, derivadas de los procedimientos análogos a los determinados por los lineamientos emitidos por el Instituto Nacional para la Evaluación de la Educación, para evaluar el desempeño del Personal Docente en Educación Básica y Media Superior en Instituciones Públicas. Las Autoridades Educativas otorgarán la certificación correspondiente a docentes que obtengan resultados satisfactorios y ofrecerán cursos de capacitación y programas de regularización a los que presenten deficiencias, para lo cual las Instituciones Particulares otorgarán las facilidades necesarias a su personal.
+
+En el caso de docentes de Educación Indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la Autoridad Educativa y certificar su bilingüismo en la lengua indígena que corresponda y en español, asimismo conocer la cultura del Pueblo o Comunidad Indígena en el que se desempeñen.
+
+El Estado otorgará un salario profesional digno, que permita al profesorado de los planteles del propio Estado alcanzar un nivel de vida decoroso en lo individual y para su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y para realizar actividades destinadas a su desarrollo personal y profesional.
+
+Las Autoridades Educativas, de conformidad con lo que establece la Ley General del Servicio Profesional Docente, se sujetarán a lo establecido para la permanencia de los Docentes frente a grupo, con la posibilidad para este Personal de ir obteniendo mejores condiciones y mayor reconocimiento social.
+
+La Autoridad Educativa Estatal otorgará reconocimientos, distinciones, estímulos y recompensas a Docentes que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio. Además, establecerán mecanismos de Estímulo a la Labor Docente con base en la evaluación.
+
+Para ejercer la docencia en instituciones establecidas por el Estado, los Maestros deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes y, para la Educación Básica y Media Superior, deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### ARTÍCULO 24-C.
+
+El expendio y distribución de alimentos y bebidas preparados y procesados dentro de toda Escuela, se sujetará, sin perjuicio del cumplimiento de otras disposiciones que resulten aplicables, a los lineamientos que para tal fin establezca la Autoridad Educativa Estatal. En la elaboración de los alimentos deberán cumplirse los criterios nutrimentales que para tal efecto determine la Secretaría de Salud del Poder Ejecutivo Federal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
+
+### CAPÍTULO III BIS. DEL FINANCIAMIENTO DE LA EDUCACIÓN
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### ARTÍCULO 24-D.
+
+El Estado en concurrencia con el Ejecutivo Federal, así como los gobiernos de los Municipios, de conformidad con lo establecido en sus respectivas Leyes de Ingresos, Presupuestos de Egresos, y demás normatividad aplicable, concurrirán en el financiamiento de la educación pública y de los servicios educativos e invertirán recursos económicos que propicien el funcionamiento adecuado de los servicios educativos públicos para la Educación Básica y Media Superior en la Entidad.
+
+Los recursos federales recibidos para ese fin por cada Entidad Federativa no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia Entidad. El gobierno de cada Entidad Federativa publicará en su respectivo diario oficial, los recursos que la Federación le transfiera para tal efecto, en forma desagregada por nivel, programa educativo y establecimiento escolar.
+
+El Estado otorgará las facilidades necesarias para que el Ejecutivo Federal verifique la correcta aplicación de dichos recursos, así como el funcionamiento y evaluación de las Escuelas e Instituciones para hacer efectiva la rendición de cuentas a la sociedad, respecto de las políticas, acciones y el uso del presupuesto asignado al sector educativo.
+
+El Estado estará obligado a incluir en el proyecto de presupuesto que someta a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer la autonomía de la gestión escolar, prevista en esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### ARTÍCULO 24-E.
+
+Las Autoridades Educativas Estatal y Municipal, en el ámbito de sus atribuciones, deberán ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las Escuelas; tratándose de Educación Básica, observarán los lineamientos que expida la Autoridad Educativa Federal para formular los programas de gestión escolar, mismos que tendrán como objetivos:
+
+I. Usar los resultados de la evaluación como retroalimentación para la mejora continua en cada ciclo escolar.
+
+II. Desarrollar una planeación anual de actividades, con metas verificables y puestas en conocimiento de la Autoridad Educativa Estatal y la Comunidad Escolar.
+
+III. Administrar en forma transparente y eficiente los recursos que reciba para mejorar su infraestructura, comprar materiales educativos, resolver problemas de operación básicos y propiciar condiciones de participación para que Alumnos, Maestros y Padres de Familia, bajo el liderazgo del Director, se involucren en la resolución de los retos que cada Escuela enfrenta.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ### CAPÍTULO IV. DEL SISTEMA EDUCATIVO ESTATAL
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
-
-### CAPÍTULO V. DE LA CALIDAD, LA EQUIDAD Y LA FUNCIÓN SOCIAL DE LA EDUCACIÓN
-
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 25.
 
 El Sistema Educativo Estatal está constituido por los servicios educativos que en cualquier tipo, nivel y modalidad presten la Autoridad Educativa Estatal, los ayuntamientos, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 Son elementos del Sistema Educativo Estatal:
 
@@ -625,7 +857,29 @@ VII. Las instituciones de los particulares con autorización o reconocimiento de
 
 VIII. Las instituciones de formación para el trabajo o las de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características del grupo que la integra; y
 
-IX. Las demás formas de organización establecidas o reconocidas por esta Ley.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+IX. Los Padres de Familia.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+X. El Servicio Profesional Docente.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XI. La Evaluación Educativa.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XII. El Sistema Estatal de Información y Gestión Educativa.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XIII. La Infraestructura Educativa.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XIV. Las demás formas de organización establecidas o reconocidas por esta Ley.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -670,6 +924,10 @@ I. Del Tipo Básico: Está integrado por los niveles preescolar, primaria y secu
 La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las características lingüísticas y culturales de los diversos pueblos y comunidades indígenas del Estado, así como de la población rural dispersa y grupos migratorios.
 
 II. Del Tipo Medio Superior: Es el que se imparte después de la secundaria y se integra por el nivel de bachillerato, sus equivalentes, así como la educación profesional que no requiere bachillerato o sus similares.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+El tipo medio superior se organizará, bajo el principio de respeto a la diversidad, a través del Sistema Nacional de Educación Media Superior, el cual establecerá un marco curricular común a nivel nacional y la revalidación y reconocimiento de estudios entre las opciones que ofrece este tipo educativo.
 
 III. Del Tipo Superior: Es el que se imparte después del bachillerato o de sus equivalentes. Está integrado por los grados académicos de licenciatura, especialización, maestría, doctorado y el posdoctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades, así como la tecnológica y universitaria.
 
@@ -985,6 +1243,10 @@ IV. La Autoridad Educativa Estatal procurará impartir cursos de capacitación a
 
 V. La Autoridad Educativa Estatal, en coordinación con las Instituciones Formadoras de Profesionales de la Educación de la Entidad, ofrecerá formación inicial y el desarrollo profesional para los docentes que la educación especial requiera para atender sus necesidades correspondientes.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+ARTÍCULO 51 BIS.- La educación especial incluye la orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 52.
@@ -1215,11 +1477,15 @@ La educación para los educandos estará destinada a personas con quince años o
 
 Esta educación es un sistema que comprende diversos aspectos de la formación integral del adulto, en su ámbito personal, familiar, laboral y social, que tiende a cubrir tanto las necesidades inmediatas de supervivencia y rezago educativo, como a las propias del ser humano en cuanto al desarrollo de sus potencialidades personales, así como a su reincorporación al sistema educativo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 80.
 
-La Autoridad Educativa Estatal, procurará establecer mecanismos y procedimientos para la acreditación global o parcial de conocimientos adquiridos en forma autodidacta y a través de la experiencia. Así mismo, precisará los criterios mediante los cuales los adultos podrán acreditar los niveles de educación primaria y secundaria y de los elementos susceptibles de certificación de la educación para y en el trabajo y la productividad, conforme a los artículos 45 y 64 de la Ley General de Educación.
+Las personas atendidas por la Educación para Adultos podrán acreditar los conocimientos adquiridos, mediante evaluaciones parciales o globales, conforme a los procedimientos establecidos por la Autoridad Educativa Federal.
+
+El Estado organizará servicios permanentes de promoción y asesoría de Educación para Adultos y dará las facilidades necesarias a sus trabajadores, trabajadoras y familiares para estudiar y acreditar la Educación Primaria, Secundaria y Media Superior.
+
+Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1479,7 +1745,7 @@ Las instituciones de enseñanza superior, mediante convenio con las Autoridades 
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-### CAPITULO VI. DE LA EDUCACIÓN QUE IMPARTAN LOS PARTICULARES
+### CAPÍTULO V. DE LA CALIDAD, LA EQUIDAD Y LA FUNCIÓN SOCIAL DE LA EDUCACIÓN
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1597,7 +1863,7 @@ Los diversos programas que se implementen para conseguir la equidad en la educac
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-### CAPITULO VII. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
+### CAPITULO VI. DE LA EDUCACIÓN QUE IMPARTAN LOS PARTICULARES
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1629,13 +1895,17 @@ V. Con el compromiso de informar a la Autoridad Educativa Estatal de la fecha de
 
 VI. En caso de solicitud de cambio de domicilio en la misma localidad, la misma se presentará por escrito y deberá ajustarse a lo que disponga la normatividad correspondiente en los aspectos técnicos pedagógicos y autorización del uso de suelo en lo que respecta al inmueble propuesto; la Autoridad Educativa verificará mediante visita de supervisión correspondiente, la pertinencia del cambio de domicilio solicitado.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 122.
 
-La Autoridad Educativa Estatal publicará en el Periódico Oficial y en la página electrónica de Gobierno del Estado, antes del inicio de cada ciclo escolar, la relación de las instituciones a las que se haya concedido autorización o reconocimiento de validez oficial de estudios.
+La Autoridad Educativa Estatal publicará en el Periódico Oficial del Estado una relación de las instituciones a las que se les haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicará, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que otorgue, revoque o retire las autorizaciones o reconocimientos respectivos.
 
-De la misma manera, se publicarán los nombres de las instituciones a las que se revoque o retire la autorización o reconocimiento respectivo.
+De igual manera, indicará en dicha publicación, los nombres de los educadores que obtengan resultados suficientes, una vez que aplique las evaluaciones, que dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por la Ley General de Educación y demás disposiciones aplicables, les correspondan.
+
+Las autoridades educativas deberán entregar a las escuelas particulares un reporte de los resultados que hayan obtenido sus docentes y alumnos en las evaluaciones correspondientes.
+
+Los particulares que impartan estudios con autorización o con reconocimiento deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1643,13 +1913,17 @@ De la misma manera, se publicarán los nombres de las instituciones a las que se
 
 Los particulares que impartan estudios con autorización o reconocimiento oficial, deberán especificar en la documentación que expidan y en la publicidad que realicen, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorga.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 124.
 
-Los particulares que impartan educación en el Estado, con autorización o reconocimiento oficial de estudios deberán:
+Los particulares que impartan educación en el Estado, con autorización o reconocimiento de validez oficial de estudios deberán:
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 I. Cumplir con lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley General de Educación, en la presente Ley y demás disposiciones legales;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 II. Cumplir con el calendario escolar, planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
 
@@ -1661,9 +1935,15 @@ Las becas señaladas en el párrafo anterior, no incluyen las otorgadas como par
 
 El Reglamento escolar de cada plantel educativo deberá contener, entre otros aspectos, lo relacionado al procedimiento de otorgamiento de becas autorizado por la instancia educativa responsable de la incorporación de instituciones particulares.
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 IV. Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia, que las autoridades competentes realicen u ordenen de acuerdo con la normatividad legal en la materia;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 V. Cumplir los requisitos previstos en el artículo 121 de esta Ley;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 VI. Participar en los Programas que la Autoridad Educativa Estatal promueva, para elevar la calidad de la educación que imparten los docentes y directivos en servicio.
 
@@ -1692,6 +1972,10 @@ Los particulares podrán presentar a las autoridades educativas, documentación 
 Los particulares que impartan estudios sin reconocimiento de validez oficial, deberán especificar en la documentación correspondiente y en la publicidad que efectúen, una leyenda que indique su calidad de no incorporados.
 
 En el caso de educación inicial y de preescolar deberán, además, contar con personal que acredite la preparación adecuada para impartirla; contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas universalmente aceptadas; cumplir los requisitos a que alude la fracción VII del artículo 12 de la Ley General de Educación; y tomar las medidas a que se refiere el artículo 42 de la misma Ley, así como facilitar la inspección y vigilancia de las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+Asimismo, por lo que respecta a la educación inicial, deberán, además de los requisitos previstos en la presente Ley y otras disposiciones aplicables, presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en la misma, y demás normas correspondientes, que deriven en el marco del Sistema Nacional de Evaluación Educativa, así como tomar las medidas para su cumplimiento, incluido el facilitar la inspección y vigilancia de las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1727,7 +2011,7 @@ La Autoridad Educativa Estatal podrá efectuar supervisiones periódicas en lo p
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-### CAPÍTULO VIII. DE LA PLANEACIÓN Y EVALUACIÓN DEL PROCESO EDUCATIVO
+### CAPITULO VII. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1739,23 +2023,63 @@ La Autoridad Educativa Estatal podrá efectuar supervisiones periódicas en lo p
 
 Son derechos de quienes ejercen la patria potestad o la tutela:
 
-l. Obtener la inscripción en escuelas públicas para que sus hijas, hijos o pupilos, reciban educación preescolar, primaria y secundaria, procurando que cursen el tipo medio superior y superior;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
 
-II. Formar parte de las Asociaciones de Padres de Familia y representar o estar representados en los Consejos de Participación Social a que se refiere la Sección II de este Capítulo;
+I. Obtener la inscripción en escuelas públicas para que sus hijas, hijos o pupilos, que satisfagan los requisitos aplicables, reciban educación preescolar, primaria y secundaria, procurando que cursen el tipo medio superior y superior; la edad mínima para ingresar a la educación básica en el nivel preescolar es de tres años, y para nivel primaria seis años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+II. Formar parte de las Asociaciones de Padres de Familia y de los Consejos de Participación Social a que se refiere la Sección II de este Capítulo.
 
 III. (DEROGADA, P.O. 2 DE FEBRERO DE 2013)
 
 IV. (DEROGADA, P.O. 2 DE FEBRERO DE 2013)
 
-V. Formar parte de las Asociaciones de Padres de Familia y los Consejos de Participación Social a que se refiere este Capítulo;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+V. Participar con las autoridades de la escuela en la que estén inscritos sus hijos o pupilos menores de edad, en cualquier problema relacionado con la educación de estos, a fin de que, en conjunto, se aboquen a su solución.
 
 VI. Participar en el análisis y toma de decisiones respecto de las contraprestaciones que se fijen en el caso de la educación que impartan los particulares;
 
 VII. Recibir información periódica sobre el desempeño de sus hijas, hijos o pupilos;
 
-VIII. Participar en los Programas de Educación para Padres de Familia; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+VIII. Participar en los Programas de Educación para Padres de Familia.
 
 IX. Participar de manera colaborativa con el personal docente y directivo en el diseño, implementación y evaluación del proyecto escolar, con la finalidad de mejorar la calidad de los aprendizajes de las y los alumnos;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+X. Conocer la capacidad profesional de la Planta Docente, así como el resultado de las evaluaciones realizadas.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XI. Conocer la relación oficial del Personal Docente, y de Apoyo, adscrito en la Escuela en la que estén inscritos sus Hijos o Pupilos, misma que será proporcionada por la Autoridad Escolar.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XII. Ser observadores en las evaluaciones a Personal Docente y Directivo, para lo cual deberán cumplir con los lineamientos que al efecto emita el Instituto Nacional para la Evaluación de la Educación.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XIII. Conocer los criterios y resultados de las evaluaciones de la Escuela a la que asistan sus Hijos o Pupilos.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XIV. Opinar a través de los Consejos de Participación respecto a las actualizaciones y revisiones de los planes y programas de estudio;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XV. Conocer el presupuesto asignado a cada Escuela, así como su aplicación y los resultados de su ejecución.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XVI. Presentar quejas ante las Autoridades Educativas correspondientes, sobre el desempeño del Personal Docente, Directivo, de Supervisión, de Inspección u homólogos, y de asesoría técnico pedagógica, de sus Hijos o Pupilos menores de edad y sobre las condiciones de la Escuela a la que asisten.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+ARTÍCULO 130 BIS.- Las Asociaciones de Padres de Familia tendrán por objeto, además de las ya previstas en la presente Ley y disposiciones reglamentarias aplicables, participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por esta Ley, en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1825,11 +2149,11 @@ VI. Informar anualmente en asamblea, a los integrantes de la asociación por con
 
 #### SECCIÓN II. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 135.
 
-Los Consejos de Participación Social en la Entidad son órganos de consulta, orientación y apoyo a la educación. Las autoridades educativas promoverán, de conformidad con los lineamientos que establezca la Autoridad Educativa Federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos. Para su operatividad, deberá constituirse un Consejo de Participación Social a nivel estatal, uno por cada municipio y uno por cada escuela.
+Las Autoridades Escolares harán lo conducente para que en cada Escuela Pública de Educación Básica opere un Consejo Escolar de Participación Social, el cual estará integrado además de las figuras ya previstas en esta Ley, por Personal Directivo de la Escuela. Los Representantes de la Organización Sindical previstos, acudirán como representantes de los intereses laborales de los Trabajadores. Los Consejos de Participación Social en la Entidad son órganos de consulta, orientación y apoyo a la educación. Las autoridades educativas promoverán, de conformidad con los lineamientos que establezca la Autoridad Educativa Federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos. Para su operatividad, deberá constituirse un Consejo de Participación Social a nivel estatal, uno por cada municipio y uno por cada escuela.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2012)</small>
 
@@ -1859,15 +2183,21 @@ V. Proponer ante la Secretaría de Educación, Cultura y Deporte, la actualizaci
 
 Para efecto de dar eficacia a la medida señalada con anterioridad, el Consejo habrá de pedir la opinión del sector productivo del ramo que se trate para delinear los perfiles técnicos o profesionales que requieran sus áreas.
 
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
 
-VI. Los demás asuntos que el reglamento respectivo establezca.
+VI. Proponer estímulos y reconocimientos de carácter social a Alumnos, Maestros, Directivos y Empleados de la Escuela, para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente y demás programas que al efecto determine la Secretaría de Educación Pública del Ejecutivo Federal y las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+VII. Los demás asuntos que el reglamento respectivo establezca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 137.
 
-El Consejo Municipal de Participación Social en la Educación estará integrado por las autoridades municipales, padres y madres de familia y representantes de sus asociaciones, docentes distinguidos por su profesionalismo en el municipio, representantes de la organización sindical de los docentes, así como representantes de la sociedad y demás interesados en el mejoramiento de la educación.
+El Consejo Municipal de Participación Social en la Educación estará integrado por las autoridades municipales, personal directivo de la escuela, padres y madres de familia y representantes de sus asociaciones, docentes distinguidos por su profesionalismo en el municipio, representantes de la organización sindical, quienes acudirán como representantes de los intereses laborales de los trabajadores, así como representantes de la sociedad y demás interesados en el mejoramiento de la educación.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 El Consejo Municipal de Participación Social en la Educación, tendrá las siguientes atribuciones:
 
@@ -1991,7 +2321,7 @@ La Autoridad Educativa Estatal podrá establecer convenios de coordinación, col
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-### CAPÍTULO IX. DE LA VALIDEZ OFICIAL, REVALIDACIÓN, EQUIVALENCIA DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
+### CAPÍTULO VIII. DE LA PLANEACIÓN Y EVALUACIÓN DEL PROCESO EDUCATIVO
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2045,39 +2375,115 @@ V. Líneas de acción; e
 
 VI. Instrumentos para prevenir la deserción escolar.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2014)</small>
 
-#### SECCIÓN II. DE LA EVALUACIÓN
+#### SECCIÓN II. DE LA EVALUACIÓN DEL SISTEMA EDUCATIVO ESTATAL
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 151.
 
-La evaluación es un proceso permanente y esencial que valora resultados contra metas propuestas en los diversos aspectos del proceso educativo y coadyuva en la toma de decisiones encaminadas a la mejora continua de la calidad del Sistema Educativo.
+Corresponde al Instituto Nacional para la Evaluación de la Educación:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+I. La evaluación del Sistema Educativo Nacional en la Educación Preescolar, Primaria, Secundaria y Media Superior, sin perjuicio de la participación que las Autoridades Educativas Federal y Estatal tengan, de conformidad con los lineamientos que expida dicho Organismo, y con la Ley del Instituto Nacional para la Evaluación de la Educación.
+
+II. Fungir como autoridad en materia de evaluación educativa, coordinar el Sistema Nacional de Evaluación Educativa y emitir los lineamientos a que se sujetará la Autoridad Educativa Estatal para realizar las evaluaciones que le corresponden.
+
+III. Emitir directrices, con base en los resultados de la evaluación del Sistema Educativo Nacional, que sean relevantes para contribuir a las decisiones tendientes a mejorar la calidad de la educación y su equidad.
+
+Respecto de los servicios educativos diferentes a los mencionados en la fracción I de este Artículo, la Autoridad Educativa Estatal realizará la evaluación correspondiente, de conformidad con las atribuciones establecidas por la Ley General de Educación y el presente ordenamiento.
+
+Tanto la evaluación que corresponde realizar al Instituto Nacional para la Evaluación de la Educación, como las evaluaciones que, en el ámbito de sus atribuciones y en el marco del Sistema Nacional de Evaluación Educativa, son responsabilidad de las Autoridades Educativas, serán sistemáticas y permanentes. Sus resultados serán tomados como base para que las Autoridades Educativas, en el ámbito de su competencia, adopten las medidas procedentes.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+ARTÍCULO 151 BIS.- Atendiendo las atribuciones que le corresponden al Instituto Nacional para la Evaluación de la Educación, la Autoridad Educativa Estatal:
+
+I. Participará en la evaluación del Sistema Educativo Estatal, en la Educación Preescolar, Primaria, Secundaria y Media Superior, de conformidad con los lineamientos que expida dicho Organismo, y con la Ley del Instituto Nacional para la Evaluación de la Educación.
+
+II. Atenderá las directrices de ese Organismo, derivados de los resultados de la evaluación del Sistema Educativo Estatal, que sean relevantes para contribuir a las decisiones tendientes a mejorar la calidad de la educación y su equidad.
+
+III. Realizará la evaluación correspondiente de los servicios educativos diferentes a los mencionados en la fracción I de este Artículo, de conformidad con las atribuciones establecidas por la Ley General de Educación y el presente ordenamiento.
+
+IV. Será responsable de que los resultados de las evaluaciones que corresponde realizar al Instituto Nacional para la Evaluación de la Educación, como las evaluaciones propias en el ámbito de sus atribuciones, sean tomados en cuenta como base para que, en el ámbito de su competencia, adopte las medidas procedentes.
+
+V. Será autoridad competente de la evaluación sobre el tránsito de los educandos de un grado, nivel o tipo educativo a otro, sobre la certificación de egresados, sobre la asignación de estímulos o cualquier otro tipo de decisiones sobre personas o instituciones en lo particular, serán competencia de las autoridades educativas federal y locales, los organismos descentralizados y los particulares que impartan educación conforme a sus atribuciones.
+
+VI. Coadyuvará y colaborará con el Instituto Nacional para la Evaluación de la Educación, brindando toda la información y tomando las medidas respectivas necesarias para las evaluaciones correspondientes.
+
+VII. Se apoyará en las Comisiones Mixtas de Escalafón para los procesos de evaluación referentes a la promoción, ascenso, reconocimiento y movilidad de los trabajadores de la educación, atendiendo los lineamientos del Instituto Nacional para la Evaluación de la Educación.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 152.
 
-La evaluación imprime dirección al proceso de enseñanza-aprendizaje y a la política pública educativa; así mismo, permite que el aprendizaje tenga sentido para las autoridades educativas, las escuelas y las y los educandos.
+El Instituto Nacional para la Evaluación de la Educación y la Autoridad Educativa Estatal darán a conocer a los Maestros, Alumnos, Padres de Familia y a la sociedad en general, los resultados que permitan medir el desarrollo y los avances de la Educación Nacional y en la propia Entidad.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 153.
 
-La evaluación que realice la Autoridad Educativa deberá ser viable, factible y pertinente, acorde a la realidad contextual en que se encuentra inmerso el Sistema Educativo.
+Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones con mayor rezago educativo o que enfrentan condiciones económicas y sociales de desventaja en términos de lo dispuesto en la Ley General de Educación.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+ARTÍCULO 153 BIS.- Para alcanzar la equidad en la educación, las Autoridades Educativas Estatal y Municipal, en el ámbito de sus respectivas competencias y con la participación que en términos de la Ley General de Educación corresponda a la Autoridad Educativa Federal, atendiendo además, en lo conducente, a las obligaciones previstas en dicha Ley, llevarán a cabo las acciones siguientes:
+
+I. Atenderán de manera especial las escuelas en que, por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de dichas localidades.
+
+II. Desarrollarán programas de apoyo a los maestros que presten sus servicios en localidades aisladas y zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar.
+
+III. Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos.
+
+IV. Prestarán servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia y egreso a las mujeres.
+
+V. Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad.
+
+VI. Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos.
+
+VII. Establecerán y fortalecerán los sistemas de educación a distancia.
+
+VIII. Realizarán campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria.
+
+IX. Desarrollarán programas con perspectiva de género, para otorgar becas y demás apoyos económicos, preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación.
+
+X. Impulsarán programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios.
+
+XI. Otorgarán estímulos a las organizaciones de la sociedad civil y a las cooperativas de maestros que se dediquen a la enseñanza.
+
+XII. Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Capítulo.
+
+XIII. Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior.
+
+XIV. Proporcionarán materiales educativos en las lenguas indígenas que correspondan en las escuelas en donde asista mayoritariamente población indígena.
+
+XV. Realizarán las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior.
+
+XVI. Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros.
+
+XVII. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural.
+
+XVIII. Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
+
+El Estado también llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 154.
 
-La Autoridad Educativa Estatal debe evaluar, a través del organismo competente, en forma sistemática y permanente al Sistema Educativo Estatal, de conformidad con la ley General de Educación, la presente ley y los ordenamientos legales aplicables.
+Además de las actividades enumeradas en el Artículo anterior, la Autoridad Educativa Estatal aplicará los programas compensatorios implementados por la Autoridad Educativa Federal, a través de los recursos específicos que para tal efecto designe esta última, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de convenios en los que se concierten las proporciones de financiamiento y las acciones específicas que la Autoridad Educativa Estatal deba realizar para reducir y superar dichos rezagos.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+El Instituto Nacional para la Evaluación de la Educación y las Autoridades Educativas, de conformidad a los lineamientos que para tal efecto expida el Instituto, evaluarán, en los ámbitos de sus competencias, los resultados de calidad educativa de los programas compensatorios antes mencionados.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 155.
 
-La Autoridad Educativa Estatal procurará fortalecer al Sistema Estatal de Evaluación en la materia para organizar todas las valoraciones que se realicen y que servirán para la planeación estatal, regional, municipal, de zona escolar, escuela y del salón de clases.
+La disciplina escolar para los Alumnos debe ser compatible con su edad. Se brindarán cursos a Docentes y Personal que labora en los planteles educativos, sobre los derechos de los Educandos y la obligación que tienen al estar encargados de su custodia, de protegerles contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
+
+En caso de que los Educadores, así como las Autoridades Educativas, tengan conocimiento de la comisión de algún delito en agravio de los Estudiantes, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2093,33 +2499,57 @@ III. La operatividad, cuyo propósito es determinar la pertinencia de la estruct
 
 IV. Los resultados, para establecer el impacto social del proceso educativo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-#### SECCIÓN I. DE LAS INFRACCIONES
+#### SECCIÓN III. DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 157.
 
-La Autoridad Educativa Estatal se obliga a informar a las y los educandos, docentes, padres y madres de familia y a la sociedad, de los resultados de las evaluaciones que realice.
+Las evaluaciones que en el ámbito de su competencia lleve a cabo la Autoridad Educativa Estatal serán sistemáticas, integrales, obligatorias y periódicas. Estas evaluaciones deberán considerar los contextos demográfico, social y económico de los agentes del Sistema Educativo Nacional, los recursos o insumos humanos, materiales y financieros destinados a este y demás condiciones que intervengan en el proceso de enseñanza-aprendizaje.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 158.
 
-El Sistema Estatal de Evaluación Educativa comprenderá:
+La evaluación sobre el tránsito de Alumnos de un grado, nivel o tipo educativos a otro, certificación de egresados, asignación de estímulos y las decisiones respecto de personas o instituciones en lo particular, basadas en los resultados de los procesos de evaluación para el reconocimiento, serán competencia de la Autoridad Educativa Estatal conforme a sus atribuciones.
 
-l. La aplicación de una prueba anual estandarizada a las y los alumnos de las instituciones educativas. Esta prueba comprenderá la evaluación de conocimientos básicos que integran los planes y programas de estudio vigentes, y será diseñada por un equipo de profesionales en materia educativa;
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-II. La recopilación de datos relacionados con indicadores educativos estadísticos provenientes de las instituciones del Sistema Educativo Estatal, para ser cotejada con la información sociodemográfica de sus alumnas y alumnos;
+ARTÍCULO 158 BIS.- La Autoridad Educativa Estatal, en el ámbito de su competencia y en los términos de la Ley del Instituto Nacional para la Evaluación de la Educación, deberá:
 
-III. La construcción de categorías referidas a los niveles de desempeño escolar, mediante la aplicación de fórmulas que ponderen como mínimo los factores señalados en las fracciones anteriores, a efecto de que la autoridad pueda ubicar a las instituciones educativas, según sus resultados y considerando su conformación, región socioeconómica y características particulares; y
+I. Promover la congruencia de los planes, programas y acciones que emprenda con las directrices que, con base en los resultados de la evaluación, emita el Instituto Nacional para la Evaluación de la Educación.
 
-IV. La publicación del informe de resultados de la evaluación educativa, a través de diversos medios.
+II. Proveer al Instituto Nacional para la Evaluación de la Educación la información necesaria para el ejercicio de sus funciones.
+
+III. Cumplir los lineamientos y atender las directrices que emita el Instituto Nacional para la Evaluación de la Educación e informar sobre los resultados de la evaluación.
+
+IV. Recopilar, sistematizar y difundir la información derivada de las evaluaciones que lleve a cabo.
+
+V. Proponer al Instituto Nacional para la Evaluación de la Educación criterios de contextualización que orienten el diseño y la interpretación de las evaluaciones.
+
+VI. Hacer recomendaciones técnicas sobre los instrumentos de evaluación, su aplicación y el uso de sus resultados.
+
+VII. Opinar sobre los informes anuales que rinda el Presidente del Instituto Nacional para la Evaluación de la Educación, aportando elementos para valorar el nivel de logro de los objetivos establecidos.
+
+VIII. Las demás que se establezcan en otras disposiciones normativas y que sean necesarias para el funcionamiento del Sistema Nacional de Evaluación Educativa.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+ARTÍCULO 158 TER.- Las Autoridades Escolares de las Instituciones Educativas establecidas por el Estado de Chihuahua, por sus Organismos Descentralizados y por los Particulares con Autorización o con Reconocimiento de Validez Oficial de Estudios, además de las que se establecen en las legislaciones estatal y federal, tendrán las obligaciones siguientes:
+
+I. Otorgar al Instituto Nacional para la Evaluación de la Educación y a las Autoridades Educativas, las facilidades y colaboración para la evaluación a que se refiere la Ley del Instituto Nacional para la Evaluación de la Educación.
+
+II. Proporcionar oportunamente la información que se les requiera.
+
+III. Tomar las medidas que permitan la colaboración efectiva de Alumnos, Maestros, Directivos y demás participantes en los procesos de evaluación.
+
+IV. Facilitar que las Autoridades Educativas y el Instituto, realicen actividades de evaluación para fines estadísticos y de diagnóstico, y recaben directamente en las Escuelas la información necesaria para realizar la evaluación.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-### CAPÍTULO X. DE LAS INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
+### CAPÍTULO IX. DE LA VALIDEZ OFICIAL, REVALIDACIÓN, EQUIVALENCIA DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2191,9 +2621,11 @@ La Autoridad Educativa Estatal podrá instrumentar, en coordinación con institu
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-### CAPITULO I. SANCIONES
+### CAPÍTULO X. DE LAS INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-#### SECCIÓN II. DE LAS SANCIONES
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
+#### SECCIÓN I. DE LAS INFRACCIONES
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2247,13 +2679,29 @@ XXI. No cumplir, en los casos de educación inicial y preescolar, con los requis
 
 XXII. Impartir educación preescolar, primaria, secundaria, normal y demás para la formación de profesionales de la educación básica en sus diversos niveles, tipos y modalidades sin contar con la autorización correspondiente;
 
-XXIII. Incumplir cualesquiera de las obligaciones previstas en el artículo 124; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
 
-XXIV. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones reglamentarias que de ella se deriven.
+XXIII. Incumplir cualquiera de las obligaciones previstas en el artículo 124.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XXIV. Promover en el alumnado, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XXV. Expulsar o negarse a prestar el servicio educativo a niños, niñas, adolescentes y demás personas que presenten problemas de aprendizaje, condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos; presionar de cualquier manera a Padres o Tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los Educandos.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XXVI. Incumplir con las medidas correctivas derivadas de las visitas de inspección.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XXVII. Incumplir cualquiera de los demás preceptos de esta Ley, así como las disposiciones reglamentarias que de ella se deriven.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCIÓN III. DEL PROCEDIMIENTO Y RECURSO ADMINISTRATIVO
+#### SECCIÓN II. DE LAS SANCIONES
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2269,7 +2717,9 @@ III. Revocación de la autorización o retiro del reconocimiento de validez ofic
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
-#### SECCION VIII. DISPOSITIVOS TRANSITORIOS CON MOTIVO DE OBRAS
+#### SECCIÓN III. DEL PROCEDIMIENTO Y RECURSO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 170.
 
@@ -2353,909 +2803,647 @@ III. Que, de otorgarse, no implique la continuación o consumación de actos u o
 
 IV. Que no se ocasionen daños o perjuicios a los educandos o terceros en los términos de esta Ley.
 
-## TITULO SEGUNDO. DE LAS REGLAS DE TRANSITO
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-### CAPITULO II. DE LOS RECURSOS
+## TÍTULO SEGUNDO. DEL SERVICIO PROFESIONAL DOCENTE
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-###### ARTICULO 179.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-Queda prohibido jugar en las vías públicas, ya sea en la superficie de rodamiento o en las aceras, salvo en los lugares establecidos en el segundo párrafo del artículo 115 de esta ley.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-###### ARTICULO 180.
+###### ARTÍCULO 179.
 
-Cuando existan aceras, estará prohibido a los peatones caminar por la superficie de rodamiento. Cuando no las haya, transitarán por una zona mínima de 1.50 metros paralela a la alineación de la manzana. En las zonas rurales deberán circular por el acotamiento y a falta de éste, por la orilla de la vía, dando el frente al tránsito.
+En la Educación Básica y Media Superior el ingreso, promoción, reconocimiento y permanencia de Docentes y de Personal con funciones de dirección y de supervisión o inspección, en las Instituciones Educativas dependientes del Estado y sus Organismos Descentralizados, así como de los Ayuntamientos, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y la presente Ley.
 
-###### ARTICULO 181.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Los peatones que empujen o que lleven objetos voluminosos, podrán utilizar la superficie de rodamiento si su circulación por la acera pudiera constituir un estorbo considerable para los demás peatones; en este caso, circularán lo más cerca posible de la orilla de la acera.
+###### ARTÍCULO 180.
 
-###### ARTICULO 182.
+La Autoridad Educativa, para los efectos del Servicio Profesional Docente, deberá realizar acciones de coordinación con los Ayuntamientos.
 
-Todo peatón deberá cruzar las vías públicas en las intersecciones o en las zonas marcadas para tal efecto, excepto cuando se trate de zonas suburbanas, o rurales que podrán cruzarse por cualquier punto, debiendo siempre ceder el paso a los vehículos.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-En los lugares donde haya pasos a desnivel para peatones éstos están obligados a usarlos.
+###### ARTÍCULO 181.
 
-Ningún peatón cruzará la intersección diagonalmente, excepto en los casos en que los dispositivos para el control del tránsito lo permitan.
+Las funciones docentes, de dirección de una Escuela o de supervisión o inspección de la Educación Básica y Media Superior impartida por el Estado y sus Organismos Descentralizados, deberán orientarse a brindar educación de calidad y al cumplimiento de sus fines. Quienes desempeñen dichas tareas deben reunir las cualidades personales y competencias profesionales para que dentro de los distintos contextos sociales y culturales promuevan el máximo logro de aprendizaje de los Educandos, conforme a los perfiles, parámetros e indicadores que garanticen la idoneidad de los conocimientos, aptitudes y capacidades que correspondan.
 
-Entre dos intersecciones contiguas controladas con semáforos, los peatones sólo cruzarán la calle en las zonas de paso marcadas para el efecto.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTÍCULO 182.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+La Autoridad Educativa Estatal, en el ámbito de la Educación Básica y respecto del Servicio Profesional Docente, tendrá las atribuciones siguientes:
 
-###### ARTICULO 183.
+I. Someter a consideración de la Secretaría de Educación Pública Federal sus propuestas de perfiles, parámetros e indicadores de carácter complementario para el ingreso, promoción, permanencia y, en su caso, reconocimiento que estimen pertinentes.
 
-Los peatones deberán tomar todas las precauciones al cruzar una vía y no irrumpirán, intempestivamente, la superficie de rodamiento, buscando evitar accidentes de tránsito en todo momento.
+II. Llevar a cabo la selección y capacitación de los Evaluadores conforme a los lineamientos que el Instituto Nacional para la Evaluación de la Educación expida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III. Llevar a cabo la selección de los Aplicadores que podrán auxiliar en la aplicación de los instrumentos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+IV. Convocar para los concursos de oposición, para el ingreso a la función docente y la promoción a cargos con funciones de dirección, de supervisión o inspección, y participar en su ejecución de conformidad con los lineamientos que el Instituto Nacional para la Evaluación de la Educación determine.
 
-Los peatones que se encuentren involucrados en un accidente de tránsito por no tomar las medidas preventivas serán responsables por los daños materiales y lesiones ocasionados.
+V. Participar en los procesos de evaluación del desempeño docente y de quienes ejerzan funciones de dirección, supervisión o inspección, de conformidad con los lineamientos y periodicidad que el Instituto Nacional para la Evaluación de la Educación determine.
 
-###### ARTICULO 184.
+VI. Calificar, conforme a los lineamientos que el Instituto Nacional para la Evaluación de la Educación expida, las etapas de los procesos de evaluación que en su caso determine el propio Instituto.
 
-Iniciado el cruce de una vía, los peatones no deberán demorarse sin necesidad.
+VII. Operar y, en su caso, diseñar programas de reconocimiento para Docentes y para el Personal con funciones de dirección, supervisión o inspección, que se encuentren en servicio, conforme a los lineamientos que al efecto se emitan.
 
-###### ARTICULO 185.
+VIII. Ofrecer programas y cursos gratuitos, idóneos, pertinentes y congruentes con los niveles de desempeño que se desea alcanzar, para la formación continua, actualización de conocimientos y desarrollo profesional del Personal Docente y del Personal con funciones de dirección, supervisión o inspección, que se encuentren en servicio.
 
-Los peatones deberán transitar por la mitad derecha de las zonas de cruce.
+IX. Ofrecer al Personal Docente y al Personal con funciones de dirección, supervisión o inspección, programas de desarrollo de capacidades para la evaluación interna a que se refiere la Ley General del Servicio Profesional Docente.
 
-###### ARTICULO 186.
+X. Organizar y operar el Servicio de Asistencia Técnica a la Escuela, de conformidad con los lineamientos generales que la Secretaría de Educación Pública determine.
 
-Los peatones que no se encuentren en completo uso de sus facultades y los menores de 8 años de edad, deberán ser conducidos por personas aptas al cruzar las vías, los invidentes deberán usar bastón blanco, a fin de que puedan ser distinguidos por los conductores. Los carentes de sentido del oído deberán usar brazalete amarillo.
+XI. Ofrecer los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente.
 
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+XII. Ofrecer los programas de desarrollo de liderazgo y gestión pertinentes.
 
-###### ARTICULO 187.
+XIII. Emitir los lineamientos a los que se sujetará la elección de Personal a que refiere el Artículo 47 de la Ley General del Servicio Profesional Docente.
 
-Las personas con discapacidad que se desplacen en sillas de ruedas u otros medios especiales, no deberán transitar en la vía pública a mayor velocidad que la de marcha normal de los peatones.
+XIV. Administrar la asignación de plazas con estricto apego al orden establecido con base en los puntajes obtenidos de mayor a menor, de los sustentantes que resultaron idóneos en el concurso. Podrán asignarse para el inicio del ciclo escolar o en el transcurso de este cuando se generen vacantes que la Autoridad Educativa determine que deban ser ocupadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XV. Celebrar, conforme a los lineamientos del Instituto Nacional para la Evaluación de la Educación, convenios con Instituciones Públicas autorizadas por el propio Instituto para que participen en la realización de concursos de oposición y los procesos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente.
 
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+XVI. Emitir los actos jurídicos que crean, declaran, modifican o extinguen derechos y obligaciones, de conformidad con lo previsto en la Ley General del Servicio Profesional Docente.
 
-###### ARTICULO 188.
+XVII. Proponer a la Secretaría de Educación Pública Federal, los requisitos y perfiles que deberán reunirse para el ingreso, promoción, reconocimiento y permanencia en el Servicio Profesional Docente.
 
-Ninguna persona debe ofrecer mercancías o servicios a los ocupantes de los vehículos, repartirles propaganda o solicitarles ayuda económica o solicitar transportación en vehículos que no sean de servicio público autorizado ni ofrecerse para cuidar o realizar labores de limpieza en la vía pública.
+XVIII. Determinar, dentro de la estructura ocupacional autorizada, qué puestos del Personal Técnico Docente formarán parte del Servicio Profesional Docente.
 
-###### ARTICULO 189.
+XIX. Establecer los mecanismos mediante los cuales los representantes de organizaciones no gubernamentales y Padres de Familia participarán como observadores en los procesos de evaluación que el Instituto Nacional para la Evaluación de la Educación determine, conforme a las reglas que al efecto expida.
 
-Se prohibe a los pasajeros obstruir la visibilidad del conductor o interferir los controles de manejo.
+XX. Las demás que establezca la Ley General del Servicio Profesional Docente y otras disposiciones aplicables.
 
-###### ARTICULO 190.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Ninguna persona deberá ocupar un remolque mientras se encuentre en movimiento, excepto cuando haya sido diseñado para transporte de personas y aprobado por la autoridad de tránsito.
+###### ARTÍCULO 183.
 
-###### ARTICULO 191.
+La Autoridad Educativa Estatal y los Organismos Descentralizados, respecto de las Escuelas a su cargo, en el ámbito de la Educación Media Superior y respecto del Servicio Profesional Docente, tendrán las atribuciones siguientes:
 
-Se prohibe a los pasajeros ascender o descender de vehículos en movimiento.
+I. Participar con la Secretaría de Educación Pública Federal en la elaboración de los programas anual y de mediano plazo conforme a los cuales se llevarán a cabo los procesos de evaluación que se refiere la Ley General del Servicio Profesional Docente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Determinar los perfiles y los requisitos mínimos que deberán reunirse para el ingreso, promoción, reconocimiento y permanencia en el Servicio Profesional Docente.
 
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+III. Participar en las etapas del procedimiento para la propuesta y definición de los parámetros e indicadores para el ingreso, promoción, reconocimiento y permanencia en el Servicio Profesional Docente, en términos de los lineamientos que la Secretaría de Educación Pública expida para estos propósitos. En las propuestas respectivas se incluirán, de ser el caso, los perfiles, parámetros e indicadores complementarios que se estimen pertinentes.
 
-###### ARTICULO 192.
+IV. Proponer al Instituto Nacional para la Evaluación de la Educación las etapas, aspectos y métodos que comprenderán los procesos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente.
 
-Los pasajeros deberán viajar en el interior de los vehículos, absteniéndose de hacerlo en salpicaderas, estribos, plataformas, quemacocos, techo, cofre ó cualquier parte externa de los mismos.
+V. Proponer al Instituto Nacional para la Evaluación de la Educación los instrumentos de evaluación y perfiles de Evaluadores para los efectos de los procesos de evaluación obligatorios que la Ley General del Servicio Profesional Docente prevé.
 
-Tampoco lo harán de manera que alguna parte del cuerpo del pasajero sobresalga del vehículo y pueda ser lesionado.
+VI. Llevar a cabo la selección y capacitación de los Evaluadores conforme a los lineamientos que el Instituto Nacional para la Evaluación de la Educación expida.
 
-###### ARTICULO 193.
+VII. Llevar a cabo la selección de los Aplicadores que podrán auxiliar en la aplicación de los instrumentos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente.
 
-Las indicaciones y dispositivos a que se refiere este Capítulo deberán de sujetarse a las políticas de vialidad que conforme a los Planes de Desarrollo Urbano y Rural se establezcan en los términos de la presente Ley.
+VIII. Convocar a los concursos de oposición para el ingreso a la función docente y la promoción a cargos con funciones de dirección, supervisión o inspección, de conformidad con los lineamientos que el Instituto Nacional para la Evaluación de la Educación determine.
 
-###### ARTICULO 194.
+IX. Participar en los procesos de evaluación del desempeño docente y de quienes ejerzan funciones de dirección, supervisión o inspección, de conformidad con los lineamientos y periodicidad que el Instituto Nacional para la Evaluación de la Educación determine.
 
-Queda prohibida la colocación de placas, carteles, marcas o instalaciones que puedan confundirse con las señales o dispositivos destinados a regular la circulación o que reduzcan la visibilidad o la eficiencia de los mismos, deslumbren a los usuarios de la vía pública o distraiga su atención implicando un riesgo.
+X. Calificar, conforme a los lineamientos que el Instituto Nacional para la Evaluación de la Educación expida, las etapas de los procesos de evaluación que en su caso determine el propio Instituto.
 
-###### ARTICULO 195.
+XI. Diseñar y operar programas de reconocimiento para el Personal Docente y para el Personal con funciones de dirección, supervisión o inspección, que se encuentren en servicio.
 
-Cuando el tránsito sea dirigido por policías y sean fácilmente visibles a distancia, tanto de noche como de día, éstos lo harán a base de ademanes combinados con toques de silbato reglamentario, en la siguiente forma:
+XII. Ofrecer programas y cursos para la formación continua del Personal Docente y del Personal con funciones de dirección, supervisión o inspección, que se encuentren en servicio.
 
-I.- El frente o la espalda del policía:
+XIII. Ofrecer al Personal Docente y con funciones de dirección, supervisión o inspección, programas de desarrollo de capacidades para la evaluación.
 
-a).- Indica a los conductores que deben detenerse antes de entrar en la zona de cruce de peatones; en defecto de ésta antes de entrar en la intersección.
+XIV. Organizar y operar el Servicio de Asistencia Técnica a la Escuela.
 
-b).- Indica a los peatones que deben abstenerse de cruzar la vía.
+XV. Ofrecer los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente.
 
-II.- Los costados del policía:
+XVI. Administrar la asignación de plazas con estricto apego al orden establecido con base en los puntajes obtenidos de mayor a menor, de los sustentantes que resultaron idóneos en el concurso. Podrán asignarse para el inicio del ciclo escolar o en el transcurso de este cuando se generen vacantes que la Autoridad Educativa determine que deban ser ocupadas.
 
-a).- Indica a los conductores que pueden seguir de frente o dar vuelta a la derecha, si no existe prohibición en contrario. También indica vuelta a la izquierda en vías de un solo sentido, cuando dicha vuelta esté permitida.
+XVII. Celebrar, conforme a los lineamientos del Instituto Nacional para la Evaluación de la Educación, convenios con Instituciones Públicas autorizadas por el propio Instituto para que participen en la realización de concursos de oposición y los procesos de evaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente.
 
-b).- Indica a los peatones que pueden cruzar la vía.
+XVIII. Emitir los actos jurídicos que crean, declaran, modifican o extinguen derechos y obligaciones de conformidad con lo previsto en la Ley General del Servicio Profesional Docente.
 
-III.- Cuando el policía se encuentre en posición de "siga" y levante un brazo horizontalmente con la mano extendida hacia arriba del lado de donde procede la circulación, o ambos, si éste se verifica en dos sentidos:
+XIX. Determinar, dentro de la estructura ocupacional autorizada, qué puestos del Personal Técnico Docente formarán parte del Servicio Profesional Docente.
 
-a).- Advierte a los conductores que está a punto de hacerse el cambio de "siga" a "alto" y que deben tomar sus precauciones.
+XX. Establecer los mecanismos mediante los cuales los representantes de organizaciones no gubernamentales y Padres de Familia participarán como observadores en los procesos de evaluación que el Instituto Nacional para la Evaluación de la Educación determine, conforme a las reglas que al efecto expida.
 
-b).- Indica a los peatones que deben abstenerse de iniciar el cruce.
+XXI. Distribuir materiales y equipo de trabajo, así como garantizar las condiciones de infraestructura adecuadas, dignas y confortables a los docentes que se inscriban en los cursos a los que convoque.
 
-IV.- Cuando el policía haga el ademán de "preventiva" con un brazo y de "siga" con el otro:
+XXII. Las demás que establezcan la Ley General del Servicio Profesional Docente y otras disposiciones aplicables.
 
-a).- Advierte a unos que deben detener la marcha y a otros que pueden continuar en el sentido que indica el ademán.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-V.- Cuando el policía levante el brazo derecho en posición vertical:
+### CAPÍTULO II. DE LA MEJORA DE LA PRÁCTICA PROFESIONAL
 
-a) Indica a los conductores y peatones una situación de emergencia, motivada por la aproximación de vehículos de emergencia o algún otro servicio especial y que por lo tanto, deben despejar la vía e impedir su cruce.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-VI.- Al hacer las señales a que se refieren las anteriores fracciones, los policías emplearán toques de silbato en la siguiente forma: ALTO, un toque corto; ADELANTE, dos toques cortos; PREVENTIVA, un toque largo; ALTO GENERAL, tres toques largos. En los casos de congestionamiento de vehículos, darán una serie de toques cortos a fin de activar el tránsito.
+###### ARTÍCULO 184.
 
-###### ARTICULO 196.
+La evaluación interna deberá ser una actividad permanente, de carácter formativo y tendiente al mejoramiento de la práctica profesional de los Docentes y al avance continuo de la Escuela, y de la Zona Escolar.
 
-Cuando los policías encargados de dirigir el tránsito no sean claramente visibles a distancia, deberán portar chaleco color anaranjado fosforescente y harán los ademanes auxiliados con una linterna que emita luz roja.
+Dicha evaluación se llevará a cabo bajo la coordinación y liderazgo del Director. Los Docentes tendrán la obligación de colaborar en esta actividad.
 
-Las posiciones del policía son las indicadas en el Artículo anterior y la linterna indicará:
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-a).- Con movimiento pendular por el frente del policía indica Alto a los vehículos que circulen en dirección transversal a dicho movimiento y Siga a los que circulen en la misma dirección del movimiento.
+###### ARTÍCULO 185.
 
-b).- La lámpara sostenida con el brazo extendido hacia ella, en posición fija es indicación preventiva.
+Para el impulso de la evaluación interna, la Autoridad Educativa Estatal y los Organismos Descentralizados deberán:
 
-###### ARTICULO 197.
+I. Ofrecer al Personal Docente y al Personal con funciones de dirección, supervisión o inspección, programas de desarrollo de capacidades para la evaluación. Esta oferta tendrá como objetivo generar las competencias para el buen ejercicio de la función evaluadora, e incluirá una revisión periódica de los avances que las Escuelas y las Zonas Escolares alcancen en dichas competencias.
 
-Las señales gráficas se clasifican en: PREVENTIVAS, RESTRICTIVAS e INFORMATIVAS.
+II. Organizar en cada Escuela los espacios físicos y de tiempo para intercambiar experiencias, compartir proyectos, problemas y soluciones con la comunidad de Docentes y el trabajo en conjunto entre las Escuelas de cada Zona Escolar, que permita la disponibilidad presupuestal; así como aportar los apoyos que sean necesarios para su debido cumplimiento.
 
-Las señales se aplican a toda la superficie de rodamiento, no obstante, su aplicación podrá limitarse a uno o más carriles demarcados mediante rayas longitudinales o suspendiendo las señales sobre el carril en que se aplica.
+Los programas a que se refiere la fracción I, considerarán los perfiles, parámetros e indicadores para el desempeño docente, determinados conforme a la Ley General del Servicio Profesional Docente, en los aspectos que sean conducentes.
 
-I.- SEÑALES PREVENTIVAS.- Tienen por objeto advertir la existencia y naturaleza de un riesgo en el camino, son tableros de forma cuadrada, colocados con una de sus diagonales verticalmente, pintados de amarillo, con símbolos, caracteres y filete en negro. Entre otras, las gráficas de la Tabla número 1.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-II.- SEÑALES RESTRICTIVAS.- Tienen por objeto indicar la existencia de ciertas limitaciones o prohibiciones que regulan el tránsito. A excepción de las de Alto y Ceda el Paso, son tableros de forma circular pintados de color blanco y letras, números y símbolos de color negro inscritos en un anillo de color rojo. Entre otras, las gráficas de la Tabla número 2.
+###### ARTÍCULO 186.
 
-Cuando indican una prohibición, la señal lleva una franja diametral, inclinada a 45 grados bajando hacia la derecha:
+El Servicio de Asistencia Técnica a la Escuela apoyará a los docentes en la práctica de la evaluación interna, así como en la interpretación y uso de las evaluaciones externas. Este servicio se brindará a solicitud de los docentes, del director o cuando la Autoridad Educativa o el Organismo Descentralizado determinen que una Escuela requiere de algún apoyo específico.
 
-a) La señal "ALTO" es de forma octagonal, pintada de rojo, con letras y filetes blancos.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-El conductor que se acerque a una señal de "ALTO", deberá detener la marcha antes de entrar en la zona de peatones; en defecto de ésta, antes de entrar a la intersección; podrá proseguir después de ceder el paso a cualquier vehículo que se acerque de modo que represente un riesgo.
+###### ARTÍCULO 187.
 
-b) La señal de "CEDA EL PASO" tiene forma de triángulo equilátero, con un vértice hacia abajo, pintado de blanco, franja perimetral roja y leyenda negra.
+El Servicio de Asistencia Técnica a la Escuela será brindado por Personal con Funciones de Dirección o Supervisión y por Personal Docente con Funciones de Asesor Técnico Pedagógico que determinen la Autoridad Educativa Estatal o los Organismos Descentralizados; este personal deberá cumplir con los procesos de evaluación correspondientes.
 
-El conductor que se aproxime a una señal de "CEDA EL PASO", deberá disminuir la velocidad o detenerse, si es necesario, para ceder el paso a cualquier vehículo que se acerque de modo que represente un riesgo.
+En el caso del Personal Docente con Funciones de Asesoría Técnica Pedagógica, dicha determinación se hará conforme lo establecido en el artículo 41 de la Ley General del Servicio Profesional Docente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La Autoridad Educativa Estatal y los Organismos Descentralizados deberán hacer pública la información sobre las plazas docentes con funciones de Asesor Técnico Pedagógico existentes y las responsabilidades de quienes las ocupan en cada Escuela y zona escolar.
 
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-c) Señal indicativa de zona exclusiva para personas con algún tipo de discapacidad, consistente en señal de fondo azul y silueta blanca.
+###### ARTÍCULO 188.
 
-III.- SEÑALES INFORMATIVAS.- Tienen por objeto guiar al usuario a lo largo de su ruta e informarle sobre las calles o caminos que encuentre y los nombres de poblaciones, lugares de interés y sus distancias. Entre otras, Tabla número 3. Se dividen en cuatro grupos:
+En la Educación Básica la prestación del Servicio de Asistencia Técnica a la Escuela deberá ajustarse a los lineamientos generales que emita la Secretaría de Educación Pública.
 
-a) De identificación de la carretera.
+En la Educación Media Superior la Autoridad Educativa Estatal y los Organismos Descentralizados organizarán y operarán dicho Servicio de Asistencia Técnica a la Escuela y, en todo caso, propiciarán que sea eficaz y pertinente.
 
-Indican los caminos según el número que les haya sido asignado. Tienen forma de escudo, se usan flechas complementarias para indicar la dirección que sigue el camino. Su color es blanco con caracteres, símbolos y filetes negros.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-d) (sic) De destino.
+###### ARTÍCULO 189.
 
-Indican las vías que pueden seguirse para llevar a determinados lugares y en algunos casos las distancias a que estos se encuentran. Son de forma rectangular con su mayor dimensión, horizontal de color blanco, con caracteres, símbolos y filetes negros. A excepción de las elevadas que son verdes con caracteres, símbolos y filetes blancos.
+Los resultados de la evaluación interna deberán dar lugar al establecimiento de compromisos verificables de mejora. En ningún momento podrán ser causal de procedimientos de sanción ni tener consecuencias administrativas o laborales.
 
-c) De servicio.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-Indican los lugares donde pueden obtenerse ciertos servicios. Tienen forma rectangular con la mayor dimensión vertical, su color azul y símbolo negro dentro de un cuadro blanco, excepto la señal "PUESTO DE SOCORRO", que lleva símbolo rojo. Además, pueden llevar caracteres o flechas; éstas son de color blanco.
+### CAPÍTULO III. DEL INGRESO AL SERVICIO PROFESIONAL DOCENTE
 
-d) De información general.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Indican lugares, nombres de calles y avenidas, sentidos de circulación de tránsito de vehículos, límites del Municipio y Entidades, postes de kilometraje y otros.
+###### ARTÍCULO 190.
 
-Tiene forma y color igual a las de destino, excepto la de sentido de circulación de tránsito de vehículos que tienen fondo negro y flecha blanca y la de kilometraje que consiste en un poste corto.
+El ingreso al servicio en la Educación Básica y Media Superior que imparta el Estado y sus Organismos Descentralizados, se llevará a cabo mediante concursos públicos de oposición, preferentemente anuales, que garanticen la idoneidad de los conocimientos y las capacidades necesarias.
 
-###### ARTICULO 198.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Las señales a que se refiere el Artículo anterior, son las que se consignan, con una descripción del símbolo en los siguientes cuadros:
+###### ARTÍCULO 191.
 
-SEÑALES PREVENTIVAS
+Para el ingreso al Servicio Profesional Docente en la Educación Básica, la Autoridad Educativa Estatal, deberá:
 
-Tienen por objeto advertir la existencia y naturaleza de un riesgo en el camino, son tableros de forma cuadrada, colocados con una de sus diagonales verticalmente pintadas de amarillo, con símbolos, caracteres y filete en negro, entre otras, las gráficas de la tabla número 1.
+I. Expedir las convocatorias públicas para el ingreso al Servicio Profesional Docente, con base en la información derivada del Sistema de Información y Gestión Educativa.
 
-SP-6 La señal CURVA, DERECHA ó IZQUIERDA, se utilizará para indicar curvas a la derecha ó a la izquierda con deflexión comprendida entre 10 y 45 grados de curvatura comprendido entre 4º y 20°.
+Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados; los criterios para la asignación de las plazas, y demás elementos que la Secretaría de Educación Pública estime pertinentes. En su caso, las convocatorias describirán los perfiles complementarios autorizados por la Secretaría de Educación Pública.
 
-SP-7 La señal CODO, DERECHA ó IZQUIERDA, se utilizará para indicar curvas a la derecha ó a la izquierda con deflexión comprendida entre 10 y 45 grados de curvatura mayor de 20°. También se usará para indicar curvas con deflexión de más de 45 grados de curvatura mayor de 15°.
+II. Publicar las citadas convocatorias, de acuerdo a lo establecido en la legislación aplicable.
 
-SP-8 La señal CURVA-INVERSA, DERECHA-IZQUIERDA ó IZQUIERDA-DERECHA, se utilizará para indicar la presencia de dos curvas de dirección contraria, separadas por una tangente de 60 m. cuando sus características (sic) las indicadas en el inciso SP-6.
+III. Expedir convocatorias extraordinarias cuando a juicio de la Autoridad Educativa Estatal lo justifique, atendiendo a las leyes de la materia.
 
-SP-9 La señal CODO INVERSO, DERECHO-IZQUIERDO ó IZQUIERDO-DERECHO, se utilizará para indicar la presencia de dos curvas de dirección contraria, separadas por una tangente menor de 60 m. cuando sus características geométricas sean las indicadas en el inciso SP-7.
+IV. En los concursos se utilizarán los perfiles, parámetros, indicadores e instrumentos de evaluación que para fines de Ingreso sean definidos conforme a lo previsto en la Ley General del Servicio Profesional Docente.
 
-SP-10 La señal CAMINO SINUOSO se utilizará para indicar varias curvas sucesivas. Se usará una señal de camino sinuoso, derecho ó izquierdo, según sea la primera curva del tramo.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SP-11 La señal CRUCE DE CAMINOS se utilizará para indicar la intersección de dos caminos.
+###### ARTÍCULO 192.
 
-SP-12 La señal INTERSECCIÓN EN T se utilizará para indicar un entronque en T de un camino con otro, aún en el caso de que dichos caminos se intersecten con un ángulo diferente de 90°.
+Para el ingreso al Servicio Profesional Docente en la Educación Media Superior, la Autoridad Educativa Estatal y los Organismos Descentralizados, deberán emitir, con la anticipación suficiente, al inicio del ciclo académico y de acuerdo a las necesidades del servicio y a los programas anual y de mediano plazo, conforme a los cuales se llevarán a cabo los procesos de evaluación, las convocatorias para el ingreso al Servicio Profesional Docente en la Educación Media Superior.
 
-SP-13 La señal INTERSECCIÓN LATERAL, DERECHA ó IZQUIERDA, se utilizará para indicar un entronque lateral con un camino, que lleva el usuario, cuando el camino lateral sea sensiblemente normal ó tenga una deflexión mayor de 90°.
+Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados y los criterios para la asignación del número de ingresos, y demás elementos que la Autoridad Educativa Estatal o los Organismos Descentralizados estimen pertinentes. Las convocatorias deberán contemplar las distintas modalidades de este tipo educativo, así como las especialidades correspondientes.
 
-SP-14 La señal INTERSECCIÓN LATERAL OBLICUA, DERECHA O IZQUIERDA se utilizará para indicar el entronque de un camino lateral que intersecta al camino que lleva el usuario, con una deflexión sensiblemente menor de 90°.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SP-15 La señal INTERSECCIÓN EN Y se utilizará para indicar un entronque en forma de Y. No deberá usarse en intersecciones canalizadas, excepto cuando el usuario pueda optar indistintamente por circuitos a derecha ó izquierda.
+###### ARTÍCULO 193.
 
-SP-16 La señal GLORIETA se usará para indicar al conductor la proximidad de una intersección de tipo rotatorio.
+En la Educación Básica y Media Superior el ingreso a una plaza docente dará lugar a un nombramiento definitivo de Base después de seis meses de servicio sin nota desfavorable en su expediente, en términos de la Ley General del Servicio Profesional Docente.
 
-SP-17 La señal INCORPORACIÓN DE TRANSITO se usará para advertir al usuario de la proximidad de una confluencia derecha ó izquierda por donde se le incorporará un volumen de tránsito en el mismo sentido.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SP-18 La señal DOBLE CIRCULACION se usará para advertir al conductor que vaya por una vía de un solo sentido, que se aproxima a un tramo con circulación en ambos sentidos.
+###### ARTÍCULO 194.
 
-SP-19 La señal SALIDA se usará para advertir la proximidad de una rampa exclusica(sic) de salida.
+La Autoridad Educativa Estatal y los Organismos Descentralizados, según sea el caso, deberán:
 
-SP-20 La señal ESTRECHAMIENTO DEL CAMINO se usará para indicar que la anchura del camino se reduce, ya sea reduciendo el número de carriles ó simplemente las dimensiones de la sección transversal, en forma simétrica.
+I. Designar a los Tutores que acompañarán al Personal Docente de nuevo ingreso durante dos años con el objeto de fortalecer las capacidades, conocimientos y competencias de dicho Personal.
 
-SP-21 La señal ESTRECHAMIENTO ASIMETRICO se utilizará para indicar una reducción del camino por ocupación temporal de un lado de la corona, como cuando haya material acamellonado a la derecha. El símbolo invertido servirá para indicar la transición del lado izquierdo.
+II. Realizar una evaluación al término del primer año escolar y brindar los apoyos y programas pertinentes para fortalecer las capacidades, conocimientos y competencias del Docente.
 
-SP-22 La señal PUENTE LEVADIZO se usará para indicar la proximidad de un puente cuyo sistema de piso puede estar momentáneamente elevado.
+III. Evaluar el desempeño del Docente al término del periodo de inducción para determinar si en la práctica favorece el aprendizaje de los Alumnos y, en general, cumple con las exigencias propias de la función docente.
 
-SP-23 La señal PUENTE ANGOSTO se utilizará para indicar la proximidad de un puente cuya distancia entre guarniciones sea mayor de 6.50 m.
+IV. Dar por terminados los efectos del nombramiento, sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado respectivo, en el caso de que el Personal no atienda los apoyos y programas previstos o incumpla con la obligación de la evaluación.
 
-SP-24 La señal ANCHURA LIBRE se utilizará para indicar la proximidad de pasos inferiores angostos u otras estructuras angostas que no permitan normalmente el paso simultaneo de dos vehículos. La distancia que marque la señal deberá indicar la anchura libre, aproximada al decímetro inferior.
+V. Asignar las plazas que durante el ciclo escolar queden vacantes, conforme a lo siguiente:
 
-SP-25 La señal ALTURA LIBRE se utilizará para indicar la proximidad de un paso inferior con un camino, ferrocarril ó cualquier otra estructura, cuyo espacio libre vertical sea menor de 4.50 m.
+a) Con estricto apego al orden de prelación de los sustentantes, con base en los puntajes de mayor a menor, que resultaron idóneos en el último concurso de oposición y que no hubieran obtenido una plaza anteriormente. Este ingreso quedará sujeto a lo establecido desde luego en las demás disposiciones aplicables. La adscripción de la plaza tendrá vigencia durante el ciclo escolar en que sea asignada y el Docente podrá ser readscrito, posteriormente, a otra Escuela conforme a las necesidades del Servicio.
 
-En la parte media de la placa se anotará la altura libre aproximada al decímetro inferior.
+b) De manera extraordinaria y solo cuando se hubiera agotado el procedimiento señalado en el inciso anterior, a Docentes distintos a los señalados. Los nombramientos que se expidan serán por tiempo fijo y con una duración que no podrá exceder el tiempo remanente hasta la conclusión del ciclo escolar correspondiente. Solo podrán ser otorgados a Docentes que reúnan el perfil.
 
-SP-26 La señal VADO se utilizará para indicar la proximidad de un vado ó depresión inesperada en el camino.
+VI. Asignar horas al Personal Docente que no sea de jornada, en términos del Artículo 42 de la Ley General del Servicio Profesional Docente.
 
-SP-27 La señal TOPES se utilizará para indicar la proximidad de una irregularidad en la superficie de rodamiento. La irregularidad puede estar constituida por topes metálicos, bordos ó corrugaciones de concreto.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SP-28 La señal SUPERFICIE DERRAPANTE se utilizará para indicar la proximidad de un tramo con material suelto ó de un pavimento resbalosos (sic) en época de lluvias.
+###### ARTÍCULO 195.
 
-SP-29 La señal PENDIENTE PELIGROSA se utilizará para indicar la proximidad de una pendiente descendente en la cual se requiera frenar constantemente, de preferencia con el motor.
+En los concursos de oposición para el ingreso que se celebren en los términos de la Ley General del Servicio Profesional Docente, podrán participar todas las personas que cumplan con el perfil relacionado con el nivel, tipo, modalidad y materia educativa correspondiente; así como con los requisitos que establezca la convocatoria respectiva, en igualdad de condiciones, sin demérito de origen, residencia, lugar o formación profesional. En la Educación Básica dicho perfil corresponderá al Académico con formación docente pedagógica o áreas afines que corresponda a los niveles educativos, privilegiando el perfil pedagógico docente de los candidatos; también se considerarán perfiles correspondientes a las disciplinas especializadas de la enseñanza.
 
-SP-30 La señal ZONA DE DERRUMBES se utilizará para indicar a los conductores de vehículos la presencia de un tramo de camino en el cual existen posibilidades de encontrar derrumbes sobre el camino.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SP-31 La señal OBRAS EN EL CAMINO se utilizará para marcar un tramo ocupado temporalmente por trabajadores, ó equipo dedicado a labores de conservación ó reconstrucción, ó por instalaciones que requieren invasión ó cruces en la superficie de rodamiento.
+###### ARTÍCULO 196.
 
-SP-32 La señal PEATONES se utilizará para advertir a los conductores de vehículos la proximidad de lugares frecuentados por peatones, ó bien de un cruce especialmente destinado a ellos.
+Quienes participen en alguna forma de ingreso distinta a lo establecido en la Ley General del Servicio Profesional Docente y en la presente Ley, autoricen o efectúen algún pago o contraprestación u obtengan algún beneficio, incurrirán en responsabilidad y serán acreedores a las sanciones correspondientes.
 
-SP-33 La señal ESCUELA se utilizará para indicar la proximidad de un edificio escolar ó lugares cercanos de cruce habitual de escolares.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-SP-34 La señal GANADO se utilizará para advertir a los conductores de vehículos la posibilidad de encontrar ganado sobre el camino.
+### CAPÍTULO IV. DE LA PROMOCIÓN A CARGOS CON FUNCIONES DE DIRECCIÓN, DE SUPERVISIÓN O DE INSPECCIÓN
 
-SP-35 La señal CRUCE DE FERROCARRIL se utilizará para advertir a los conductores de vehículos la proximidad de un cruce de ferrocarril a nivel.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SP-36 La señal MAQUINARIA AGRICOLA se utilizará para advertir a los conductores de vehículos la posibilidad de encontrar maquinaria agrícola sobre el camino.
+###### ARTÍCULO 197.
 
-SP-37 La señal SEMAFORO se usará antes de las intersecciones aisladas que estén controladas por semáforos, ó cuando se entra a una zona donde no se espera encontrarlos.
+La promoción a cargos con funciones de dirección, de supervisión o de inspección en la Educación Básica que imparta el Estado, se llevará a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y las capacidades necesarias, además de haber ejercido como Docente un mínimo de dos años y con sujeción a los términos y criterios siguientes:
 
-SP-38 La señal COMIENZA CAMINO DIVIDIDO se usará para advertir a los usuarios la proximidad de una faja separadora central, que divide el camino.
+I. Formular las convocatorias para los concursos correspondientes, mismos que serán públicos.
 
-SP-39 La señal TERMINA CAMINO DIVIDIDO se usará para indicar la próxima terminación de la faja separadora central.
+Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados y los criterios para la asignación de las plazas, y demás elementos que la Secretaría de Educación Pública estime pertinentes.
 
-SP-40 La señal GRAVA SUELTA se usará para indicar la proximidad de un tramo en el que existe grava suelta sobre la superficie de rodamiento.
+II. Publicar las citadas convocatorias autorizadas por la Secretaría de Educación Pública Federal, con la anticipación suficiente al inicio del ciclo escolar y de acuerdo a los programas anual y de mediano plazo conforme a los cuales se llevarán a cabo los procesos de evaluación.
 
-SEÑALES RESTRICTIVAS
+III. Expedir convocatorias extraordinarias cuando a juicio de la Autoridad Educativa Estatal lo justifique.
 
-Tienen por objeto indicar la existencia de ciertas limitaciones ó prohibiciones que regulen el tránsito. A excepción de las de ALTO y CEDA EL PASO, son tableros de forma circular pintados de color blanco y letras, números y símbolos de color negro inscritos en un anillo de color rojo.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SR-6 El uso de la señal ALTO deberá determinarse siempre mediante un estudio cuidadoso de las condiciones locales del tránsito. Por ello, sólo se dan aquí algunas orientaciones de carácter general al respecto.
+###### ARTÍCULO 198.
 
-Normalmente la señal ALTO podrá colocarse en los siguientes casos:
+En la Educación Básica la promoción a una plaza con funciones de dirección dará lugar a un nombramiento definitivo, sujeto a un periodo de inducción con duración de dos años ininterrumpidos, dentro del cual el personal de que se trate deberá cursar los programas de desarrollo de liderazgo y gestión escolar determinados por la Autoridad Educativa Local.
 
-1) En el cruce de dos caminos principales, en donde no sea posible atenerse a la regla general del derecho de paso.
+Durante el periodo de inducción, la Autoridad Educativa Estatal brindará las orientaciones y los apoyos pertinentes para fortalecer las capacidades de liderazgo y gestión escolar. Al término del periodo de inducción, la Autoridad Educativa evaluará el desempeño del personal para determinar si cumple con las exigencias propias de la función directiva. Si el personal cumple con dichas exigencias, se le otorgará nombramiento definitivo.
 
-2) En el entronque de un camino secundario con uno principal.
+Cuando en la evaluación se identifique la insuficiencia en el nivel de desempeño de las funciones de dirección, el personal volverá a su función docente en la Escuela en que hubiere estado asignado.
 
-3) En el cruce a nivel de un camino con un ferrocarril siempre que se considere necesario.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-4) En cualquier intersección urbana en donde la posibilidad de accidentes haga imperativo el uso de una señal ALTO.
+###### ARTÍCULO 199.
 
-En todos los casos, la señal se colocará sobre el camino ó calle de menor volumen de tránsito, en el lugar preciso donde deban deternerse (sic) los vehículos.
+En la Educación Básica la promoción a una plaza con funciones de supervisión dará lugar a un nombramiento definitivo. El personal deberá participar en los procesos de formación que determine la Autoridad Educativa Estatal.
 
-SR-7 La señal CEDA EL PASO implica que el conductor detenga ó aminore la velocidad de su vehículo, cuando sea necesario ceder el paso al tránsito que se va a cruzar ó a incorporar.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SR-8 La señal ADUANA se utilizará para indicar que todos los vehículos deberán detenerse en el lugar que se requiera, para revisión aduanal. En la parte inferior de la señal llevará la palabra ADUANA.
+###### ARTÍCULO 200.
 
-SR-9 La señal VELOCIDAD RESTRINGIDA se utilizará para indicar la limitación de velocidad que se imponga a una arteria ó tramo de camino. En la parte inferior se colocará la palabra MAXIMA, MINIMA, FIJA ó SALIDA, según sea el caso.
+Cuando en la evaluación se identifique la insuficiencia en el nivel de desempeño de las funciones de dirección, el personal volverá a su función docente en la Escuela en que hubiere estado asignado.
 
-SR-10 La señal VUELTA CONTINUA A LA DERECHA se utilizará en las intersecciones controladas por semáforo ó por agentes en las cuales está permitida la vuelta derecha en forma continua, aunque para el tránsito que siga de frente se indique el ALTO.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SR-11 La señal CIRCULACIÓN se usará en las intersecciones en que se desee indicar a los usuarios la obligación de circular en el sentido indicado, a fin de no invadir un carril de circulación de sentido contrario. La flecha se colocará horizontal ó inclinada indicando el sentido del tránsito.
+###### ARTÍCULO 201.
 
-SR-12 La señal SOLO VUELTA IZQUIERDA se usará en ciertas intersecciones ó en su proximidad, donde se requiera indicar que uno ó varios carriles deberán usarse exclusivamente para ese movimiento y no deberán ser ocupados por vehículos que sigan de frente.
+La promoción a cargos con funciones de dirección, de supervisión o de inspección, en la Educación Media Superior que imparta el Estado y sus Organismos Descentralizados, se llevará a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y las capacidades necesarias, además de haber ejercido como Docente un mínimo de dos años y con sujeción a los términos y criterios siguientes:
 
-Esta señal también podrá ser de SOLO VUELTA DERECHA, aplicando el mismo concepto, previo cambio del símbolo a uno ó varios carriles que deben usarse exclusivamente para la vuelta derecha.
+I. Formular las convocatorias para los concursos correspondientes, mismos que serán públicos.
 
-SR-13 La señal CONSERVA SU DERECHA se empleará para advertir a los conductores de vehículos que deben transitar a su derecha, con objeto de dejar libre el carril ó los carriles de la izquierda, para permitir el rebase a los vehículos que circulan a mayor velocidad ó bien para facilitar movimientos de incorporación del lado izquierdo.
+Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados y los criterios para la asignación de las plazas, y demás elementos que la Autoridad Educativa o los Organismos Descentralizados estimen pertinentes.
 
-SR-14 La señal DOBLE CIRCULACIÓN será empleada en aquellas vías de un solo sentido cuando cambien a un tramo en el que se permita la circulación en dos sentidos.
+II. Emitir, de acuerdo a las necesidades del servicio y a los programas anual y de mediano plazo conforme a los cuales se llevarán a cabo los procesos de evaluación, las convocatorias para la promoción a cargos con funciones de dirección, de supervisión o de inspección en la Educación Media Superior
 
-SR-15 La señal ALTURA LIBRE RESTRINGIDA se utilizará cuando la altura libre de un paso inferior u otra estructura sea menor de 4.30 m., para advertir a los conductores que está limitada a la que se específica la señal.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SR-16 La señal ANCHURA LIBRE RESTRINGIDA se utilizará para advertir a los conductores que el ancho de la estructura no permite, normalmente, el paso simultaneo de dos vehículos.
+###### ARTÍCULO 202.
 
-SR-17 La señal PESO MAXIMO RESTRINGIDO se colocará en los puentes u otros lugares del camino donde sea necesario limitar el peso de los vehículos, ya sea por la capacidad de los puentes ó por la de la superficie de rodamiento. Dentro del círculo se marcará el peso máximo permitido en toneladas.
+En la Educación Media Superior la promoción a una plaza con funciones de dirección dará lugar a un nombramiento por tiempo fijo. La Autoridad Educativa Estatal y los Organismos Descentralizados determinarán la duración de los nombramientos conforme a las disposiciones aplicables. Al término del nombramiento, quien hubiera ejercido las funciones de dirección volverá a su función docente, preferentemente en la Escuela en que hubiere estado asignado o, de no ser posible, a otra que la Autoridad Educativa o el Organismo Descentralizado determine en función de las necesidades del Servicio Educativo.
 
-SR-18 La señal PROHIBIDO REBASAR se empleará para advertir a los conductores de vehículos los tramos en que no se permita rebasar a otro vehículo, por las condiciones especiales del ancho del camino, visibilidad, etc.
+El personal que reciba el nombramiento por primera vez deberá participar en los procesos de formación que definan la Autoridad Educativa Estatal o los Organismos Descentralizados. Quien no se incorpore a estos procesos volverá a su función docente en la Escuela que la Autoridad Educativa o el Organismo Descentralizado determine en función de las necesidades del Servicio Educativo.
 
-SR-19 La señal PEATONES A SU IZQUIERDA se usará en las regiones o tramos de caminos con tránsito frecuente de peatones, para advertir a estos que para su propia seguridad deben caminar al lado izquierdo, de frente al tránsito que se aproxima.
+Los nombramientos a cargos con funciones de dirección podrán ser renovables, para lo cual se tomarán en cuenta los resultados de la evaluación del desempeño a que se refiere el artículo 52 de la Ley General de Servicio Profesional Docente y demás requisitos y criterios que la Autoridad Educativa Estatal o los Organismos Descentralizados señalen.
 
-SR-20 La señal ESTACIONAMIENTO PROHIBIDO A CIERTAS HORAS será empleada en aquellas arterias donde no se admite el estacionamiento de vehículos a ciertas horas del día por la demanda de espacio para circulación. Aunque el ejemplo indica la prohibición de 8 a 21 horas, estos limites podrán variar según las necesidades locales.
+Los nombramientos a que se refiere este artículo serán remunerados conforme a la percepción determinada para la plaza correspondiente a la función directiva o conforme a la percepción correspondiente a la plaza con que cuenta el personal de que se trate, más la compensación que la Autoridad Educativa o los Organismos Descentralizados señalen.
 
-SR-22 La señal ESTACIONAMIENTO PERMITIDO UN CORTO PERIODO DENTRO DE UN HORARIO, se utilizará en aquellos sitios donde se desee obtener una mayor utilización del espacio disponible, beneficiando a un mayor número de usuarios en ese horario.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SR-23 La señal PRINCIPIA PROHIBICIÓN DE ESTACIONAMIENTO se empleará al iniciarse el tramo, de un camino ó de una calle, en los que los vehículos no deben estacionarse.
+###### ARTÍCULO 203.
 
-SR-24 La señal TERMINA PROHIBICION DE ESTACIONAMIENTO se empleará al terminar el tramo, de un camino ó de una calle, en los que los vehículos no deben estacionarse.
+En la Educación Media Superior la promoción a una plaza con funciones de supervisión dará lugar a un nombramiento por tiempo fijo. La Autoridad Educativa Estatal y los Organismos Descentralizados determinarán su duración. Dichos nombramientos podrán ser renovables, para lo cual se tomarán en cuenta los resultados de la evaluación del desempeño a que se refiere el artículo 52 de esta Ley y demás requisitos y criterios que la Autoridades (sic) Educativa o los Organismos Descentralizados señalen.
 
-SR-25 La señal PROHIBIDO ESTACIONARSE será utilizada en aquellos lugares donde esté completamente prohibido el estacionamiento de vehículos.
+Los nombramientos a que se refiere este artículo serán remunerados conforme a la percepción determinada para la plaza correspondiente a la función de supervisión o conforme a la percepción correspondiente a la plaza con que cuenta el personal de que se trate más la compensación que la Autoridad Educativa Estatal o los Organismos Descentralizados señalen.
 
-SR-26 La señal PROHIBIDO VUELTA A LA DERECHA será empleada en aquellos lugares donde no se permita la vuelta a la derecha, ya sea por tratarse de una circulación de sentido contrario, ó en casos específicos, para no interferir con otros movimientos importantes, inclusive el de peatones.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SR-27 La señal PROHIBIDA VUELTA A LA IZQUIERDA será empleada en los mismos términos que la señal anterior, referidos al movimiento a la izquierda.
+###### ARTÍCULO 204.
 
-SR-28 La señal PROHIBIDO EL RETORNO deberá emplearse en aquellas arterias donde la vuelta "U" pueda representar un riesgo mayor o causar serios inconvenientes al tránsito de vehículos.
+En la Educación Básica y Media Superior la Autoridad Educativa y los Organismos Descentralizados podrán cubrir temporalmente las plazas con funciones de dirección, de supervisión o de inspección a que se refiere el Capítulo IV del Título Segundo de la Ley General del Servicio Profesional Docente, cuando por las necesidades del servicio no deban permanecer vacantes. Los nombramientos que expidan serán por tiempo fijo; solo podrán ser otorgados a Docentes en servicio por el tiempo remanente hasta la conclusión del ciclo escolar correspondiente y dichas plazas deberán ser objeto del concurso inmediato posterior.
 
-SR-29 La señal PROHIBIDO SEGUIR DE FRENTE se empleará al principiar un tramo en el que no se permite el tránsito de frente, especialmente por casos en que cambie el sentido de la circulación.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SR-30 La señal PROHIBIDO EL PASO A BICICLETAS, VEHICULOS PESADOS Y MOTOCICLETAS se usará para prohibir el paso de dichos vehículos en determinado tramo del camino ó calle.
+###### ARTÍCULO 205.
 
-SR-31 La señal PROHIBIDO EL PASO DE VEHICULOS TIRADOS POR ANIMALES se usará para evitar que dichos vehículos transiten sobre el camino.
+Quienes participen en alguna forma de promoción a cargos con funciones de dirección, de supervisión o de inspección distinta a lo establecido en el Capítulo IV del Título Segundo de la Ley General del Servicio Profesional Docente o en esta Ley, autoricen o efectúen algún pago o contraprestación u obtengan algún beneficio, incurrirán en responsabilidad y serán acreedores a las sanciones correspondientes.
 
-SR-32 La señal PROHIBIDO EL PASO DE MAQUINARIA AGRICOLA se utilizará para evitar que dicha maquinaria circule sobre el camino.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SR-33 La señal PROHIBIDO EL PASO A BICICLETAS se usará en aquellos caminos ó calles donde un estudio técnico indique la necesidad de prohibir la circulación de ciclistas en bien de la seguridad general.
+###### ARTÍCULO 206.
 
-SR-34 La señal PROHIBIDO EL PASO DE PEATONES se usará al principio de aquellos caminos ó calles en los que el tránsito de vehículos haga peligroso el paso ó cruce de peatones y éstos tengan otro lugar por donde transitar o cruzar.
+La Autoridad Educativa Estatal y los Organismos Descentralizados observarán en la realización de los concursos el cumplimiento de los principios que refiere esta Ley. La o las organizaciones sindicales reconocidas, para los efectos del ejercicio de sus funciones de atención laboral de sus agremiados, serán informadas del inicio de los procesos de promoción y recibirán facilidades para la realización de tareas de observación.
 
-SR-35 La señal PROHIBIDO EL PASO DE VEHICULOS PESADOS se empleará al principio de ciertos tramos de caminos ó rutas urbanas en los que no se permite el paso de vehículos pesados.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SR-36 La señal PROHIBIDAS LAS SEÑALES ACUSTICAS se usará para recordar a los usuarios la prohibición de sonar la bocina excepto para prevenir un accidente.
+###### ARTÍCULO 207.
 
-SEÑALES INFORMATIVAS
+La Autoridad Educativa Estatal y los Organismos Descentralizados podrán establecer, tanto en la Educación Básica como en la Media Superior, otros programas de promoción distintos a los previstos en el Capítulo VI del Título Segundo de la Ley General del Servicio Profesional Docente, que premien el mérito y que se sustenten en la evaluación del desempeño.
 
-Tienen por objeto guiar al usuario a lo largo de su ruta e informarle sobre las calles ó caminos que encuentre y los nombres de poblaciones, lugares de interés y sus distancias.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SI-15 La señal CRUCE se utilizará en las intersecciones, para indicar las poblaciones importantes situadas sobre cada ruta, debiendo aquellas figurar en los mapas de caminos.
+###### ARTÍCULO 208.
 
-SI-16 La señal ENTRONQUE se utilizará en intersecciones para indicar los dos poblados importantes sobre cada ruta, que figuren en los mapas de caminos.
+El nombramiento como Personal Docente con Funciones de Asesoría Técnica Pedagógica será considerado como una promoción. La selección se llevará a cabo mediante concurso de oposición, de conformidad con lo señalado en el Título Segundo, Capítulo IV de La Ley General del Servicio Profesional Docente. El personal seleccionado estará sujeto a un periodo de inducción con duración de dos años ininterrumpidos, a cursos de actualización profesional y a una evaluación para determinar si cumple con las exigencias propias de la función.
 
-SI-17 La señal POBLADO se utilizará para indicar poblados de poca importancia, comunicados mediante un ramal de cualesquier tipo.
+Durante el periodo de inducción el personal recibirá incentivos temporales y continuará con su plaza docente. En caso de que acredite la suficiencia en el nivel de desempeño correspondiente al término del periodo de inducción, la Autoridad Educativa Estatal u Organismo Descentralizado otorgará el nombramiento definitivo con la categoría de Asesor Técnico Pedagógico prevista en la estructura ocupacional autorizada.
 
-SI-18 La señal CONFORMACION podrá llevar el nombre de uno ó dos poblados, con sus respectivas distancias.
+El personal que incumpla este periodo de inducción, con la obligación de evaluación o cuando en esta se identifique la insuficiencia en el nivel de desempeño correspondiente, volverá a su función docente en la Escuela en que hubiere estado asignado.
 
-SI-19 La señal LUGAR se utilizará para indicar a los conductores de vehículos la población ó lugar de interés al cual van a llegar inmediatamente.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SI-20 La señal de MONTAJE TUBULAR se usará en zona urbana y representa un sistema diferente de montaje para combinar los tableros de destino y dirección con la numeración carretera. Tendrá el objeto de señalar la dirección a seguir para encontrar la avenida o calle indicada.
+###### ARTÍCULO 209.
 
-SI-21 Las SEÑALES ELEVADAS se emplearan cuando se estima que las señales laterales no son debidamente eficientes:
+En la Educación Básica y Media Superior la asignación de horas adicionales para los docentes que no sean de jornada, será considerada una promoción en función de las necesidades del servicio.
 
-a) Cuando se desea controlar el tránsito en determinado carril.
+Para obtener esta promoción los docentes deberán:
 
-b) En arterias de dos ó más carriles en un solo sentido con alto volumen de tránsito.
+I. Reunir el perfil requerido para las horas disponibles.
 
-c) En vías de alta velocidad, en donde no haya espacio para el señalamiento a los lados ó bien, donde la iluminación de la zona lo hagan poco efectivo.
+II. Obtener en la evaluación del desempeño a que se refiere el artículo 52 de la Ley General del Servicio Profesional Docente, un resultado que sea igual o superior al nivel que la Autoridad Educativa Estatal o el Organismo Descentralizado proponga.
 
-d) En las intersecciones de caminos importantes.
+Estas promociones se podrán llevar a cabo en los casos siguientes:
 
-e) En autopistas, en entronques con otras carreteras.
+a) En el mismo plantel en que el docente preste total o principalmente sus servicios,
 
-SI-22 Las señales NOMENCLATURA con los nombres de calles y avenidas, serán colocadas por las autoridades locales.
+b) En el plantel en que el docente no preste principalmente sus servicios, siempre y cuando haya compatibilidad de horarios y distancias con el plantel donde principalmente presta sus servicios y, adicionalmente, no tenga horas asignadas en un tercer plantel.
 
-SI-23 La señal SENTIDO DEL TRANSITO se usará para advertir a los conductores que en la calle que van a cruzar, el tránsito de vehículos está permitido en una sola dirección.
+c) En un plantel en que el docente no presta sus servicios, siempre y cuando se trate de horas fraccionadas, en el número que determine la Autoridad Educativa Estatal o el Organismo Descentralizado, y en dicho plantel no exista personal que cumpla con lo establecido en las fracciones I y II del presente artículo.
 
-SI-24 La señal LIMITE DE ESTADOS se usará en aquellos puntos del camino donde se cruza un límite de Estados.
+La Autoridad Educativa Estatal y los Organismos Descentralizados preverán, conforme a los criterios establecidos en este artículo, las reglas necesarias para seleccionar al Personal Docente que recibirá la promoción cuando haya más de uno que cumpla con los requisitos establecidos.
 
-SI-25 Los POSTES DE KILOMETRAJE Y NUMERO DE CARRETERA llevaran el kilometraje de ese lugar, contando a partir del origen que determine la Secretaría de Obras Públicas y abajo el escudo con el número de carretera que le corresponda, por ambas caras.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SI-26 La señal SERVICIO TELEFONICO se utilizará para informar al usuario de la existencia del servicio indicado.
+###### ARTÍCULO 210.
 
-SI-27 La señal SERVICIO MECANICO se utilizará para informar al usuario la existencia del servicio indicado. Podrá llevar una flecha en vez de la distancia.
+En la Educación Básica y Media Superior la Autoridad Educativa Estatal y los Organismos Descentralizados podrán establecer otros programas de promoción que premien el mérito y que se sustenten en la evaluación del desempeño.
 
-SI-28 La señal SERVICIO DE COMBUSTIBLE se usará para informar al usuario la existencia del servicio indicado.
+En las promociones a que se refiere este Capítulo solo podrá participar el personal en servicio y que previamente haya realizado la evaluación del desempeño. No obstante, en el caso de escuelas que estén en la etapa de apertura de nuevos grados como parte de su proceso de crecimiento natural, también podrán ser beneficiados de la promoción señalada en el artículo 42 de la Ley General del Servicio Profesional Docente, los docentes que aún no hayan sido objeto de la evaluación del desempeño, siempre y cuando hayan obtenido en el concurso de ingreso un puntaje superior al propuesto, para estos efectos, por la Autoridad Educativa o el Organismo Descentralizado.
 
-SI-29 La señal PRIMEROS AUXILIOS se utilizará para indicar la existencia de este servicio.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-SI-30 La señal SERVICIO SANITARIO servirá para indicar la existencia de este servicio.
+### CAPÍTULO V. DEL RECONOCIMIENTO EN EL SERVICIO
 
-SI-31 La señal SERVICIO DE TRANSBORDADOR se usará para informar al usuario la existencia del servicio de chalan para cruzar algún río, brazo de mar o laguna.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SI-32 La señal SERVICIO DE RESTAURANTE se usará para informar al usuario la existencia del servicio indicado.
+###### ARTÍCULO 211.
 
-SI-33 La señal ESTACIONAMIENTO DE CASAS RODANTES se utilizará para indicar al usuario la existencia de un lugar apropiado para el estacionamiento de éste tipo de vehículos.
+El Personal Docente y el Personal con Funciones de Dirección y de Supervisión que destaque en su desempeño y, en consecuencia, en el cumplimiento de su responsabilidad, será objeto del reconocimiento que al efecto otorgue la Autoridad Educativa Estatal u Organismo Descentralizado respetando los ya existentes e incorporando los que se consideren pertinentes.
 
-SI-34 La señal AEROPUERTO se utilizará para informar al usuario del camino la existencia del servicio indicado.
+Los programas de reconocimiento para docentes en servicio deben:
 
-SI-35 La señal PARADA PERMITIDA se colocará en el lugar y servirá para informar a los operadores de vehículos del servicio público y a los usuarios el lugar preciso en que se detiene el vehículo para tomar ó dejar pasaje.
+I. Reconocer y apoyar al docente en lo individual, al equipo de docentes en cada Escuela y a la profesión en su conjunto.
 
-SI-36 La señal ESTACIONAMIENTO PERMITIDO se utilizará para informar al usuario el lugar donde puede estacionar su vehículo.
+II. Considerar incentivos temporales por única vez y permanentes según corresponda.
 
-SI-37 La señal PARADA DE TREN O TROLEBUS se colocará en el lugar y servirá para informar a los operadores de ésta clase de vehículos y a los usuarios, el lugar preciso en que se detiene el vehículo para tomar ó dejar pasaje.
+III. Ofrecer mecanismos de acceso al desarrollo profesional.
 
-SI-38 La señal HOTEL O MOTEL se colocará para informar al usuario la existencia del servicio indicado.
+La Autoridad Educativa Estatal y los Organismos Descentralizados realizarán las acciones necesarias para que en el diseño y operación de los programas de reconocimiento se cumpla con lo dispuesto en este artículo.
 
-SI-39 La señal RUINAS ARQUEOLOGICAS se usará para informar al usuario la existencia de estos atractivos turísticos.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SI-40 La señal MONUMENTO COLONIAL se usará para informar al usuario la existencia de éste atractivo turístico.
+###### ARTÍCULO 212.
 
-SI-41 La señal CAMPAMENTO se usará para informar a los excursionistas la existencia de éste servicio.
+En el servicio se deberán prever los mecanismos para facilitar distintos tipos de experiencias profesionales que propicien el reconocimiento de las funciones docente y de dirección, mediante movimientos laterales que permitan a los docentes y directivos, previo su consentimiento, desarrollarse en distintas funciones según sus intereses, capacidades o en atención de las necesidades del sistema, conforme lo determinen la Autoridad Educativa Estatal y los Organismos Descentralizados, con la participación de la representación sindical de los trabajadores de la educación.
 
-###### ARTICULO 199.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Las marcas son rayas, símbolos de color blanco, que se pintan y colocan sobre el pavimento, estructuras, guarniciones u objetos dentro o adyacentes a las vías de circulación, a fin de indicar ciertos riesgos, regular o canalizar el tránsito o complementar las indicaciones de otras señales.
+###### ARTÍCULO 213.
 
-I.- Marcas en el pavimento.
+En la Educación Básica los movimientos laterales objeto de este artículo deben basarse en procesos de evaluación que se realizarán conforme a los lineamientos que la Autoridad Educativa Estatal expida respetando los derechos laborales, prestacionales, de seguridad social, entre otros, previamente adquiridos. La elección del personal se sujetará a lo siguiente:
 
-a) Rayas longitudinales. Delimitan los carriles de circulación y guía a los conductores dentro de los mismos.
+I. Cuando se trate de tutorías con responsabilidad de secciones de una Escuela, coordinación de materias, de proyectos u otras análogas que se lleven a cabo al interior del centro escolar, será el director de la Escuela quien, con base en la evaluación que haga del Personal Docente a su cargo, hará la elección de los docentes frente a grupo que desempeñarán este tipo de funciones adicionales, conforme a los lineamientos que para estos efectos emita la Autoridad Educativa Local.
 
-b) Raya longitudinal continua sencilla, no debe ser rebasada.
+Los docentes que realicen dichas funciones adicionales recibirán incentivos que reconozcan su mérito y favorezcan su avance profesional.
 
-c) Raya longitudinal discontinua sencilla, puede ser rebasada para cambiar de carril o adelantar otros vehículos si las condiciones del tráfico lo permiten.
+II. Cuando se trate de tutorías, coordinación de materias, de proyectos u otras análogas que rebasen el ámbito de la Escuela pero queden dentro de la zona escolar, los directores de las escuelas propondrán, con base en la evaluación que hagan del Personal Docente a su cargo, a los docentes frente a grupo para desempeñar este tipo de funciones adicionales. Quien en la zona escolar tenga las funciones de supervisión hará la elección de conformidad con los lineamientos que para estos efectos emita la Autoridad Educativa Local.
 
-d) Rayas longitudinales dobles, una continua y otra discontinua. Conservan la significación de la más próxima al vehículo al tiempo de iniciar la maniobra. No deben ser rebasadas, si la línea continua está al lado del vehículo.
+Los docentes que realicen dichas funciones adicionales recibirán incentivos que reconozcan su mérito y favorezcan su avance profesional.
 
-En caso contrario, pueden ser rebasadas sólo durante el tiempo que dure la maniobra.
+III. Cuando se trate de asesoría técnica en apoyo a actividades de dirección a otras escuelas, la elección del director que desempeñará este tipo de funciones adicionales estará a cargo de quien tenga funciones de supervisión en la zona escolar, de conformidad con los lineamientos que para estos efectos emita la Autoridad Educativa Local.
 
-e) Rayas transversales. Indican el límite de parada de los vehículos o delimitan la zona de cruce de peatones. No deben ser rebasadas mientras subsista el motivo de la detención del vehículo. En cualquier caso, los cruces de peatones protegidos por estas rayas deberán franquearse con precaución.
+Los directores que realicen dichas funciones adicionales recibirán incentivos que reconozcan su mérito y favorezcan su avance profesional.
 
-f) Rayas oblicuas. Advierten la proximidad de un obstáculo y los conductores deben extremar sus precauciones.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-g) Rayas para estacionamiento. Delimitan los espacios donde es permitido el estacionamiento.
+###### ARTÍCULO 214.
 
-II.- Marcas en guarniciones.
+En el caso de movimientos laterales temporales a funciones de Asesoría Técnica Pedagógica en la Educación Básica, la selección de los docentes se llevará a cabo mediante procesos de evaluación, objetivos y transparentes, que la Autoridad Educativa Local realice al amparo de los lineamientos que el Instituto expida. El personal seleccionado mantendrá su plaza docente, respetando sus derechos laborales, prestacionales, de seguridad social, entre otros previamente adquiridos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los docentes que realicen dichas funciones de Asesoría Técnica Pedagógica recibirán incentivos que reconozcan su mérito y favorezcan su avance profesional. Al término de dicha función de carácter temporal, los docentes volverán a la Escuela en que hubieren estado asignados.
 
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-a) Guarniciones pintadas de rojo: Indican estacionamiento prohibido.
+###### ARTÍCULO 215.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En la Educación Básica los movimientos laterales serán temporales, con una duración de hasta tres ciclos escolares, sin que los docentes pierdan el vínculo con la docencia, respetando sus derechos laborales, prestacionales, de seguridad social, entre otros previamente adquiridos.
 
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+Los movimientos laterales a funciones de Asesoría Técnica Pedagógica temporales solo podrán renovarse por un ciclo escolar más.
 
-b) Guarniciones pintadas de amarillo: Indican estacionamiento exclusivo.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTÍCULO 216.
 
-> <small>(REFORMADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+Los movimientos laterales solo podrán realizarse previamente al inicio del ciclo escolar o ciclo lectivo, por lo que deberán tomarse las previsiones necesarias para no afectar la prestación del servicio educativo.
 
-c) Guarniciones pintadas de blanco o sin pintar: Indican estacionamiento permitido.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTÍCULO 217.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+La Autoridad Educativa Estatal y los Organismos Descentralizados podrán otorgar otros reconocimientos en función de la evaluación del desempeño docente y de quienes realizan funciones de dirección o supervisión. Estos reconocimientos podrán ser individuales o para el conjunto de docentes y el director en una Escuela.
 
-d) Guarniciones pintadas de azul: Indican estacionamiento exclusivo para personas con algún tipo de discapacidad.
+Los reconocimientos económicos de conjunto deberán considerar los resultados del aprendizaje de los alumnos, teniendo en cuenta las condiciones sociales y económicas de las escuelas.
 
-III.- Letras y símbolos.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-a) Cruce de ferrocarril el símbolo "FXC" advierte la proximidad de un cruce de ferrocarril.
+### CAPÍTULO VI. DE LA PERMANENCIA EN EL SERVICIO
 
-b) Para uso de carriles direccionales en intersecciones. Indican al conductor el carril que debe tomar al aproximarse a una intersección según la dirección que pretenda seguir. Cuando un vehículo tome ese carril, estará obligado a continuar en la dirección indicada por las marcas.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-IV.- Marcas en obstáculos.
+###### ARTÍCULO 218.
 
-a) Indicadores de peligro. Advierten a los conductores la presencia de obstáculos y son tableros con franjas oblicuas de color blanco y negro alteradas. Las franjas pueden estar pintadas directamente sobre el obstáculo.
+Las Autoridades Educativas y los Organismos Descentralizados deberán evaluar el desempeño Docente y de quienes ejerzan funciones de dirección, de supervisión o de inspección en la Educación Básica y Media Superior que imparta el Estado.
 
-b) Indicadores de alineamiento o fantasmas. Son postes cortos de color blanco y material reflectante. Delinean la orilla de los acotamientos.
+La evaluación a que se refiere el párrafo anterior será obligatoria. El Instituto Nacional para la Evaluación de la Educación determinará su periodicidad, considerando por lo menos una evaluación cada cuatro años y vigilará su cumplimiento.
 
-###### ARTICULO 200.
+En la evaluación del desempeño se utilizarán los perfiles, parámetros e indicadores y los instrumentos de evaluación que para fines de permanencia sean definidos y autorizados conforme a la Ley General del Servicio Profesional Docente.
 
-Las isletas son superficies ubicadas en las intersecciones de las vías de circulación o en sus inmediaciones, delimitadas por guarniciones, grapas, rayas u otros materiales que sirven para canalizar el tránsito o como refugio de peatones. Los vehículos no deben invadir las isletas ni sus marcas de aproximación.
+Los Evaluadores que participen en la evaluación del desempeño deberán estar evaluados y certificados por el Instituto Nacional para la Evaluación de la Educación.
 
-###### ARTICULO 201.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Los vibradores son acanalamientos transversales al eje de la vía. Advierten la proximidad de un peligro y los conductores deben disminuir la velocidad y extremar sus precauciones al cruzarlos.
+###### ARTÍCULO 219.
 
-###### ARTICULO 202.
+Cuando en la evaluación a que se refiere este Capítulo se identifique la insuficiencia en el nivel de desempeño de la función respectiva, el personal de que se trate se incorporará a los programas de regularización que la Autoridad Educativa o el Organismo Descentralizado respectivo determine, según sea el caso. Dichos programas incluirán el esquema de tutoría correspondiente.
 
-Las guías son tubos verticales colocados a ambos lados de los vados y a todo lo largo de los mismos para delimitar su anchura. Antes de cruzarlos debe el conductor observar las escalas de profundidad, fijadas en algunas guías.
+El personal sujeto a los referidos programas de regularización, tendrá la oportunidad de sujetarse a una segunda oportunidad de evaluación en un plazo no mayor de doce meses después de la evaluación a que se refiere el artículo anterior, la cual deberá efectuarse antes del inicio del siguiente ciclo escolar o lectivo.
 
-###### ARTICULO 203.
+De ser insuficientes los resultados en la segunda evaluación, el evaluado se reincorporará a los programas de regularización para sujetarse a una tercera evaluación que se llevará a cabo en un plazo no mayor de doce meses.
 
-Los contratistas o encargados de la ejecución de obras en las vías públicas, aún tratándose de oficiales, están obligados a instalar los dispositivos transitorios para el control de tránsito, sujetándose a las especificaciones establecidas por las autoridades competentes.
+En caso de que el personal no alcance un resultado suficiente en la tercera evaluación que se le practique, se darán por terminados los efectos del nombramiento correspondiente, sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según corresponda.
 
-Consisten, desde un simple abanderamiento, señales manuales con bandera roja, barreras, conos, tambores o una serie de señales y lámparas intermitentes durante el día, hasta mecheros, linternas, reflectantes y lámparas intermitentes durante la noche.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-###### ARTICULO 204.
+###### ARTÍCULO 220.
 
-Las señales manuales con bandera roja indican:
+Para la Educación Básica, los programas de regularización serán definidos de conformidad con los lineamientos generales que la Secretaría de Educación Pública del Poder Ejecutivo Federal expida. En el caso de la Educación Media Superior los programas de regularización serán determinados por las Autoridades Educativas y Organismos Descentralizados, según corresponda.
 
-a) SEÑAL DE ALTO.- La bandera sostenida en posición fija con el brazo horizontal.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-b) SIGA CON PRECAUCION.- La bandera sostenida en posición fija con el brazo extendido hacia abajo y moviendo el otro brazo en el sentido de la circulación.
+### CAPÍTULO VII. DE LOS PERFILES, PARÁMETROS E INDICADORES
 
-###### ARTICULO 205.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-SEMAFOROS.- Tienen por objeto dirigir y regular el tránsito de vehículos y peatones por medio de lámparas eléctricas que proyectan a través de lentes y contra el sentido de la circulación, luz roja, ámbar, verde o flecha de este último color, una por una o en combinación, a excepción de los exclusivos para peatones que deben proyectar luz blanca o anaranjada.
+###### ARTÍCULO 221.
 
-Los lentes de los semáforos estarán dispuestos verticalmente en el siguiente orden descendente: Roja, ámbar y verde; en el caso de semáforos horizontales deberán estar en el mismo orden, de izquierda a derecha.
+Para la determinación de los perfiles, parámetros e indicadores, en el ámbito de la Educación Básica y Media Superior, la Autoridad Educativa y los Organismos Descentralizados se sujetarán a lo previsto en el Título Tercero de la Ley General del Servicio Profesional Docente.
 
-Dichas luces indican a los conductores y peatones que las observen de frente, que deben obedecerlas en los siguientes términos:
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-I.- Luz roja fija y sola "ALTO".
+### CAPÍTULO VIII. OTRAS CONDICIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+###### ARTÍCULO 222.
 
-a).- El tránsito vehicular deberá detenerse antes de entrar en la zona de peatones; en defecto de ésta, antes de entrar en la intersección. Los vehículos no deberán seguir de frente ni dar vuelta a la izquierda, a menos que una señal permita dichas maniobras.
+Las Escuelas en las que el Estado y sus Organismos Descentralizados impartan la Educación Básica y Media Superior, deberán contar con una estructura ocupacional debidamente autorizada, de conformidad con las reglas que al efecto expida la Secretaría de Educación Pública, en consulta con la Autoridad Educativa Estatal, para las particularidades regionales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En la estructura ocupacional de cada Escuela deberá precisarse el número y tipos de puestos de trabajo requeridos, atendiendo al número de aulas y espacios disponibles, al alumnado inscrito, y al Plan de Estudios de que se trate.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
+Las estructuras ocupacionales deberán ser revisadas y, en su caso, ajustadas por lo menos una vez al año de conformidad con las reglas que determine la Secretaría de Educación Pública.
 
-La vuelta a la derecha en rojo será permitida después de detener totalmente su marcha, cediendo el paso a cualquier vehículo o peatón que pueda representar un riesgo.
+El Personal Docente y el Personal con Funciones de Dirección que ocupe los puestos definidos en la estructura ocupacional de la Escuela, deben reunir el perfil apropiado para el puesto correspondiente, y conformar la plantilla de personal de la Escuela.
 
-b) Los peatones deberán abstenerse de cruzar la vía.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-II.- Luz ámbar fija "PREVENTIVA".
+###### ARTÍCULO 223.
 
-a) Advierten a los conductores que está a punto de aparecer la luz roja y deben tomar las precauciones necesarias.
+La estructura ocupacional autorizada y la plantilla de personal de cada Escuela, así como los datos sobre la formación, trayectoria y desempeño profesional de cada Docente deberán estar permanentemente actualizados en el Sistema de Información y Gestión Educativa.
 
-b) Los peatones son advertidos de que no les queda tiempo suficiente para cruzar la vía, antes que aparezca la luz roja y debe abstenerse de iniciar el cruce.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
 
-III.- Luz verde "SIGA".
+### CAPÍTULO IX. DERECHOS Y OBLIGACIONES
 
-a) Los vehículos deberán seguir de frente o dar vuelta a la derecha o a la izquierda a menos que una señal prohiba dicha maniobra.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-b) Los peatones podrán cruzar la vía.
+###### ARTÍCULO 224.
 
-IV.- Flecha verde sola en combinación con otra luz.
+Quienes participen en el Servicio Profesional Docente previsto en la ley de la materia, tendrán los siguientes derechos:
 
-a) Los vehículos deberán continuar la marcha en la dirección marcada por la flecha o hacer cualquier movimiento permitido por otras indicaciones simultáneas.
+I. Participar en los concursos y procesos de evaluación respectivos.
 
-b) Cuando la flecha aparezca en combinación con otra luz, los peatones obedecerán la indicación de dicha luz.
+II. Conocer con al menos tres meses de anterioridad los perfiles, parámetros e indicadores, con base en los cuales se aplicarán los procesos de evaluación.
 
-c) Cuando la flecha aparezca sola y en posición vertical los peatones podrán cruzar la vía.
+III. Recibir junto con los resultados del proceso de evaluación o concurso, el dictamen de diagnóstico que contenga las necesidades de regularización y formación continua que correspondan.
 
-V.- Luz roja intermitente.
+IV. Tener acceso a los programas de capacitación y formación continua, necesarios para mejorar su práctica docente con base en los resultados de su evaluación.
 
-El tránsito vehicular frente a la luz roja intermitente deberá detenerse antes de entrar en la zona de peatones, en defecto de ésta, antes de la intersección, y podrá continuar la marcha después de cerciorarse de que no hay riesgo.
+V. Ser incorporados, en su caso, a los programas de inducción, reconocimiento, formación continua, desarrollo de capacidades, regularización, desarrollo de liderazgo y gestión que correspondan.
 
-VI.- Luz amarilla intermitente.
+VI. Que durante el proceso de evaluación sea considerado el contexto regional y sociocultural.
 
-Los conductores reducirán la velocidad y podrán continuar la marcha tomando las precauciones necesarias.
+VII. Ejercer el derecho de interponer su defensa en los términos del Artículo 81 de la Ley General del Servicio Profesional Docente, así como en lo dispuesto en el presente ordenamiento.
 
-###### ARTICULO 206.
+VIII. Acceder a los mecanismos de promoción y reconocimiento contemplados en esta Ley con apego y respeto a los méritos y resultados en los procesos de evaluación y concursos conforme a los lineamientos aplicables.
 
-Donde haya semáforos para peatones, éstos atenderán exclusivamente sus indicaciones en la siguiente forma:
+IX. Que la valoración de los procesos de evaluación se efectúe bajo los principios de legalidad, imparcialidad y objetividad.
 
-I.- Pase o siga en leyenda o símbolo con luz verde fija, los peatones podrán cruzar la vía.
+X. Los demás previstos en la Ley General del Servicio Profesional Docente y en esta Ley.
 
-II.- No pase o no siga en leyenda o símbolo con luz anaranjada fija o intermitente. Los peatones se abstendrán de iniciar el cruce de la vía. Los peatones se abstendrán de la indicación pase, continuarán hasta situarse en la acera o zona de seguridad inmediata.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-###### ARTICULO 207.
+###### ARTÍCULO 225.
 
-Los semáforos para el control de circulación en carriles, colocados sobre el centro de cada uno de ellos indican:
+El Personal Docente y el Personal con Funciones de Dirección, de Supervisión o de Inspección en la Educación Básica y Media Superior tendrán, conforme a la Ley General del Servicio Profesional Docente y en esta Ley, las obligaciones siguientes:
 
-I.- Equis (X) mayúscula roja. Los vehículos no pueden proseguir por el carril correspondiente.
+I. Cumplir con los procesos establecidos para las evaluaciones con fines de ingreso, promoción, permanencia y, en su caso, reconocimiento, en términos de lo prescrito por la Ley General del Servicio Profesional Docente y en la presente Ley.
 
-II.- Flecha verde vertical. Los vehículos pueden proseguir por el carril correspondiente.
+II. Cumplir con el periodo de inducción al servicio y sujetarse a la evaluación que para dichos efectos refiere la Ley General del Servicio Profesional Docente y en la presente Ley.
 
-###### ARTICULO 208.
+III. Prestar los servicios docentes en la Escuela en la que se encuentre adscrito y abstenerse de cualquier cambio de adscripción, sin previa autorización, conforme a lo previsto en la Ley General del Servicio Profesional Docente y esta Ley.
 
-Los semáforos en cruceros de ferrocarril, consisten en luces rojas que se encienden y apagan alternadamente o una luz roja en el centro de un disco que oscila como péndulo en algunos casos se complementan con campanas eléctricas sincronizadas con las luces y barreras que atraviesan los carriles de circulación.
+IV. Abstenerse de prestar el Servicio Docente sin haber cumplido los requisitos y procesos a que se refiere la Ley General del Servicio Profesional Docente, en el presente ordenamiento y demás disposiciones aplicables.
 
-Son dispositivos que al funcionar indican alto total a los conductores y peatones, ya que se aproxima o pasa un tren.
+V. Presentar documentación fidedigna dentro de los procesos a que se refiere la Ley General del Servicio Profesional Docente, y esta Ley.
 
-###### ARTICULO 209.
+VI. Sujetarse a los procesos de evaluación a que se refiere la Ley General del Servicio Profesional Docente y este ordenamiento de manera personal.
 
-Los automóviles de alquiler, deberán portar en la parte delantera del parabrisas o del techo, un letrero intercambiable y visible con las palabras "LIBRE" u "OCUPADO", para indicar que están disponibles para ser ocupados o no, para su uso por parte del público.
+VII. Atender los programas de regularización; así como aquellos que sean obligatorios de formación continua, capacitación y actualización.
 
-Asimismo, deberán ser del color que determinará la Dirección de Transporte del Estado, debiendo, además en las portezuelas graficarse el Estado de Sonora con señalamiento expreso del Municipio donde se encuentran autorizados, el número económico y el sitio correspondiente.
+VIII. Las demás que señale la Ley General del Servicio Profesional Docente, el presente ordenamiento y otras disposiciones aplicables.
 
-###### ARTICULO 210.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Los vehículos destinados al transporte público de pasaje colectivo urbano, deberán ostentar en lugar visible la denominación de la ruta y el número económico así como ser del color que señale la Dirección de Transporte del Estado con el fin de orientar al público usuario.
+###### ARTÍCULO 226.
 
-###### ARTICULO 211.
+Los Servidores Públicos de la Autoridad Educativa y los Organismos Descentralizados que incumplan con lo previsto en la Ley General del Servicio Profesional Docente y en el presente ordenamiento estarán sujetos a las responsabilidades que procedan.
 
-Los vehículos destinados al servicio público de transporte de pasaje colectivo, en los sistemas suburbanos y foráneos, deberán ostentar el número del permiso y señalamiento de la ruta.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Por lo que respecta al color de las unidades, éste deberá diferenciarse en los servicios de primera y segunda clase. Cuando la clase de servicio tenga el mismo origen y destino de ruta, las unidades deberán ser uniformes en cuanto al color, el cual se determinará por la Dirección de Transporte del Estado.
+###### ARTÍCULO 227.
 
-###### ARTICULO 212.
+Será nula y, en consecuencia, no surtirá efecto alguno toda forma de ingreso o de promoción distinta a lo establecido en la Ley General del Servicio Profesional Docente y en esta Ley. Dicha nulidad será declarada por el área competente, aplicando para ello el procedimiento previsto en el Artículo 75 de la Ley General del Servicio Profesional Docente, y en lo que resulte aplicable de la presente Ley.
 
-Cuando un vehículo de transporte público de pasaje colectivo por alguna razón que así lo obligue, no esté prestando servicio al público o transite fuera de la ruta autorizada, deberá ostentar en las condiciones señaladas con anterioridad un letrero con las palabras "SERVICIO ESPECIAL" o simplemente "ESPECIAL".
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-###### ARTICULO 213.
+###### ARTÍCULO 228.
 
-Los vehículos destinados al servicio particular para el transporte colectivo de personas o de carga, deberán ostentar en las portezuelas el número de permiso, la razón social y la palabra "PARTICULAR" o cualquier otra que denote que no es para servicio público.
+Será separado del Servicio Público sin responsabilidad para la Autoridad Educativa o para el Organismo Descentralizado, según sea el caso, el Evaluador que no se excuse de intervenir en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge, su concubina o concubinario, o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 3 DE NOVIEMBRE DE 2014)</small>
+Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
 
-###### ARTICULO 214.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-El conductor de cualquier vehículo implicado en un accidente con saldo de muertos o daños materiales en vehículos u otras propiedades, debe inmediatamente dejar estacionado el vehículo en el lugar del accidente y permanecer en dicho sitio, colocando las señales de protección hasta que tome conocimiento de los hechos la autoridad competente.
+###### ARTÍCULO 229.
 
-###### ARTICULO 215.
+La Autoridad Educativa y los Organismos Descentralizados deberán revisar y cotejar la documentación presentada por los aspirantes en los concursos de oposición a que se refieren la Ley General del Servicio Profesional Docente y esta Ley.
 
-El conductor de cualquier vehículo implicado en un accidente con saldo de lesionados, debe proceder a prestar ayuda a éstos y, si es preciso, procurar por los medios a su alcance o con su propio vehículo, el traslado de los lesionados al lugar más próximo en que puedan recibir asistencia médica.
+De comprobarse que la documentación es apócrifa o ha sido alterada, se desechará el trámite. En cualquier caso se dará parte a las autoridades competentes para los efectos legales que procedan.
 
-En todo caso, el implicado en un accidente de tránsito que haya abandonado el sitio del siniestro en busca de auxilio para las víctimas, está obligado a regresar a dicho lugar, y ponerse a disposición de la autoridad que tome conocimiento del mismo.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Los conductores de los demás vehículos que pasen por el lugar del accidente, están obligados a detenerse a la indicación que se les haga y colaborar en el auxilio de los lesionados. La misma obligación se impone a toda persona que llegue al lugar del accidente, sea conductor, pasajero o peatón.
+###### ARTÍCULO 230.
 
-###### ARTICULO 216.
+El incumplimiento de las obligaciones establecidas en el artículo 69 de la Ley General del Servicio Profesional Docente, dará lugar a la terminación de los efectos del nombramiento correspondiente sin responsabilidad para la Autoridad Educativa Estatal o para el Organismo Descentralizado, y sin necesidad de que exista resolución previa del Tribunal Federal de Conciliación y Arbitraje o de los tribunales equivalentes en la Entidad.
 
-El conductor de un vehículo que cause daños a otros vehículos o propiedad no vigilados, deberá detenerse, localizar y comunicar al conductor o al propietario del vehículo o de los bienes dañados, su nombre, dirección y los del propietario del vehículo que conduce. Si no lo encuentra deberá fijar en un lugar visible del vehículo o propiedad dañados, una nota con los datos mencionados.
+Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
 
-###### ARTICULO 217.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-Si a consecuencia de un accidente del que no resulten muertos, ni lesionados, se causan daños materiales, en bienes que no sean del dominio público, las partes pueden llegar a un acuerdo, el que se hará constar mediante convenio suscrito por los interesados, con sus nombres, domicilios y número de placas de circulación de los vehículos y una breve descripción del accidente. Los convenios celebrados ante la presencia del Jefe de Tránsito, o de quien supla sus funciones conforme a esta Ley, tendrán la calidad de documentos públicos.
+###### ARTÍCULO 231.
 
-###### ARTICULO 218.
+Cuando la Autoridad Educativa o el Organismo Descentralizado consideren que existen causas justificadas que ameriten la imposición de sanciones, lo harán del conocimiento del probable infractor para que, dentro de un plazo de diez días hábiles, manifieste lo que a su derecho convenga y proporcione los documentos y demás elementos de prueba que considere pertinentes.
 
-El propietario, el conductor o los ocupantes de un vehículo implicado en un accidente de tránsito con saldo de víctimas o daños materiales en bienes de dominio público, deberán dar aviso inmediato de lo ocurrido a la Oficina de Tránsito más cercana o bien, a un representante de esa autoridad:
+La Autoridad Educativa o el Organismo Descentralizado dictará resolución en un plazo máximo de diez días hábiles con base en los datos aportados por el probable infractor y demás constancias que obren en el expediente respectivo.
 
-a) Cuando el conductor esté físicamente incapacitado para dar el aviso anterior y haya otra persona ocupando el vehículo en el momento del accidente, con capacidad para hacerlo, el ocupante deberá dar aviso del accidente ocurrido.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-b) Cuando el propietario de un vehículo que tenga conocimiento de que éste, ha participado en un accidente, estará obligado solidariamente con su conductor a dar el aviso correspondiente.
+###### ARTÍCULO 232.
 
-###### ARTICULO 219.
+Con el propósito de asegurar la continuidad en el Servicio Educativo, el Servidor Público del Sistema Educativo Nacional, el Personal Docente y el Personal con funciones de dirección, de supervisión o de inspección en la Educación Básica y Media Superior que incumpla con la asistencia a sus labores por más de tres días consecutivos o discontinuos, en un periodo de treinta días naturales, sin causa justificada, será separado del servicio sin responsabilidad para la Autoridad Educativa o para el Organismo Descentralizado respectivo, aplicando para ello el procedimiento previsto en el Artículo 75 de la Ley General del Servicio Profesional Docente y demás disposiciones aplicables de esta Ley.
 
-Cualquier persona que proporcione a la Autoridad de Tránsito, informes orales o escritos relativos a un accidente de tránsito, que resulten evidentemente falsos, estará sujeta a las sanciones previstas por la Legislación Penal.
+Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
 
-###### ARTICULO 220.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-La falta de licencia hace presumir la impericia del conductor, en caso de un accidente.
+###### ARTÍCULO 233.
 
-###### ARTICULO 221.
+Las sanciones que prevén la Ley General del Servicio Profesional Docente y el presente ordenamiento, se aplicarán sin perjuicio de las previstas en otras disposiciones legales, reglamentarias o administrativas.
 
-Los Agentes de Tránsito actuarán en los términos del Artículo 223 de la presente Ley al darse cuenta o tomar conocimiento de un accidente.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
-###### ARTICULO 222.
+###### ARTÍCULO 234.
 
-Las infracciones a la presente Ley se sancionarán con:
-
-I.- Multa.
-
-II.- Arresto hasta por 36 horas.
-
-III.- Detención de vehículos.
-
-IV.- Suspensión y cancelación de licencias.
-
-> <small>(ADICIONADA, B.O. 7 DE MAYO DE 1992)</small>
-
-V.- Retención de la tarjeta de circulación.
-
-Podrá también recogerse la licencia de operador de servicio público de transporte por las causas y en los términos señalados en la Ley de Transporte del Estado.
-
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
-
-Las infracciones a las disposiciones que establecen condiciones de peso, dimensiones, capacidad y otras especificaciones que deberán cumplir los vehículos destinados al servicio de transporte público o privado que circulen en vías de jurisdicción estatal, serán sancionadas con multa y retiro del vehículo de la circulación, según sea el caso, por la Coordinación Estatal de Seguridad Pública y Tránsito, en los términos que establezcan las normas reglamentarias respectivas.
-
-> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2002)</small>
-
-Las autoridades administrativas competentes, en la aplicación de las sanciones previstas por esta Ley, tomarán en cuenta, para la individualización de la sanción, la gravedad de la infracción, la capacidad económica, reincidencia y demás circunstancias especiales de los hechos constitutivos de la infracción, procurando que las multas no sean excesivas y se encuentren al amparo del principio de proporcionalidad establecido por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
-
-###### ARTICULO 223.
-
-Al darse cuenta o al tener conocimiento de una infracción, los Agentes de Tránsito, acudirán inmediatamente al lugar donde ocurra y tomarán las siguientes medidas según el caso:
-
-I.- Las que sean necesarias para mantener la fluidez de la circulación.
-
-II.- Las tendientes a impedir daños a personas y a las propiedades.
-
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
-
-III.- En caso de flagrante delito, pondrán a los detenidos a disposición de la jefatura de policía o de la autoridad inmediata, y ésta, con la misma prontitud, a la del Ministerio Público.
-
-IV.- Si hubiere lesionados, llamarán al servicio médico.
-
-V.- Si las circunstancias lo ameritan, se solicitará el auxilio de otros elementos de policía.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-VI.- Cuando la infracción sea causada por un error o una situación inevitable, siempre y cuando la conducta no sea reiterada, los agentes de tránsito podrán hacer constar, por escrito, una amonestación oficial en sus libretas de infracciones, la cual no llevará carga punitiva pero quedará constancia en el registro respectivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-VII.- Harán constar la infracción en la boleta oficial impresa en sus libretas de infracciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU NUMERACIÓN, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-VIII.- Los agentes de tránsito, además de levantar la infracción, deberán impedir que el vehículo continúe transitando y remitirlo al Departamento de Tránsito exclusivamente en los siguientes casos:
-
-a) Conducir en estado de ebriedad o bajo el efecto de enervantes.
-
-b) No portar el vehículo, placas de circulación o portar placas alteradas o vencidas.
-
-c) En caso de accidente o comisión de algún delito.
-
-d) Cuando se preste un servicio público de transporte sin tener concesión o permiso.
-
-> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
-
-e).- Cuando se aprecie en forma ostensible que las sustancias contaminantes que emiten pueden rebasar los límites máximos permisibles, determinados por las normas técnicas ecológicas aplicables. En este caso, el Departamento de Tránsito ordenará la remisión inmediata del vehículo a un centro de verificación autorizado, quien emitirá su dictamen de la revisión que efectúe.
-
-> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-f) Conducir sin portar su licencia o permiso de conducir, o cuando éstos se encuentren cancelados.
-
-> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-g) Por estacionarse en zonas prohibidas.
-
-> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-h) Por orden de autoridad judicial.
-
-> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-i) Por realizar maniobras de carga y descarga sin el permiso correspondiente o fuera del horario establecido.
-
-> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
-
-Si el resultado del dictamen es negativo, y si portaba la calcomanía, la infracción quedará sin efecto; si la calcomanía faltaba, el centro de verificación expedirá la constancia respectiva. De ser positivo el dictamen, la autoridad que hizo el traslado retendrá la tarjeta de circulación del vehículo, y el propietario tendrá un plazo de treinta días naturales para presentar nuevamente a verificación el vehículo y subsanar las deficiencias detectadas, pudiendo circular en ese período sólo para ser conducido al taller respectivo.
-
-> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
-
-A los conductores procedentes de entidades o municipios donde no se encuentre en vigencia el programa de verificación vehicular obligatoria, cuyos vehículos ostensiblemente contaminen, rebasando los límites permisibles para emisiones tóxicas por automotores, se les retendrá la tarjeta de circulación y les será devuelta en cuanto comprueben que no rebasaron el límite de contaminación o en cuanto paguen la multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTICULO 224.
-
-Las infracciones se harán constar en los talonarios oficiales, tratándose de las levantadas por agentes de tránsito y en las actas respectivas que al efecto se formulen, cuando se refieran a las infracciones que, por su naturaleza, no puedan consignarse en las boletas oficiales. Las infracciones se levantarán a personas físicas, a las cuales se les deberá abrir un registro electrónico personal que quedará inscrito tanto en las agencias fiscales como en las respectivas bases de datos de las autoridades de tránsito y seguridad pública, las cuales deberán estar desvinculadas del vehículo; de ninguna manera se levantarán infracciones "A quien corresponda", exceptuándose los casos de zonas de estacionamiento en vía pública acondicionadas con parquímetros y zonas prohibidas, cuando por su naturaleza la infracción sea ligada directamente al vehículo, ésta se levantará a nombre del conductor pero será registrada y vinculada con las placas o número de serie del vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-Las infracciones no podrán eliminarse del registro electrónico personal, a menos que sea a través de una resolución de autoridad competente.
-
-###### ARTICULO 225.
-
-Cuando el infractor, en un solo hecho viole varias disposiciones de esta ley, se aplicará la sanción que corresponda a la infracción de mayor gravedad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-ARTICULO 225 BIS.- Se consideran infracciones graves las siguientes:
-
-I. Conducir en estado de ebriedad o bajo la acción de drogas o sustancias que disminuyan su aptitud para conducir.
-
-II. Conducir en exceso de velocidad;
-
-III. No obedecer las indicaciones de semáforos y altos;
-
-IV. No respetar la preferencia de paso de vehículos, peatones o ciclistas;
-
-V. Hacer uso de teléfonos celulares al conducir;
-
-VI. Transportar a menores de 6 años sin reunir los requisitos de seguridad establecidos en el tercer párrafo del artículo 108 de la presente ley;
-
-VII. Transportar personas en el exterior de la carrocería;
-
-VIII. No obedecer las indicaciones del personal de seguridad pública;
-
-IX. Cambiar intempestivamente de un carril a otro, cruzando la trayectoria de otro vehículo;
-
-X. Salir intempestivamente y sin precaución del lugar de estacionamiento;
-
-XI. Estacionarse en carril de circulación, cuando el vehículo no sea visible a distancia, exceptuando cuando esto se derive de una falla mecánica;
-
-XII. Detenerse en carril de circulación a consecuencia de una falla mecánica sin instalar los dispositivos de advertencia correspondientes.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
-
-Tratándose de la infracción señalada en la fracción V de este artículo, el infractor deberá llevar un curso de concientización que impartirá la autoridad municipal correspondiente o con quien haya convenido el Municipio para impartir dicho curso, en caso de que el Municipio no cuente con el recurso humano o la infraestructura para impartir el curso, o bien, no haya alguna institución pública o privada con la cual pueda convenir, el infractor realizará trabajo social.
-
-###### ARTICULO 226.
-
-Al infractor reincidente, se le aplicará el doble de la multa que corresponda a la infracción cometida. Para los efectos de esta ley, se considerará como reincidencia la infracción de una misma disposición en más de tres ocasiones diversas durante el lapso de un año, contado a partir de la primera infracción.
-
-###### ARTICULO 227.
-
-El total de las multas que se impongan, tratándose de jornaleros, obreros o trabajadores, no podrán exceder del importe a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. El recaudador ante quien se haga el entero de la multa, recabará en su caso, el número de afiliación y grupo de salario a que pertenezca, con vista a los documentos justificativos expedidos por la Institución de Seguridad Social de la que sea derechohabiente y que estén vigentes.
-
-###### ARTICULO 228.
-
-El pago de la multa deberá hacerse precisamente en la caja recaudadora municipal del lugar donde se cometió la infracción, dentro del término de quince días a partir de la fecha en que se impuso la multa.
-
-El pago podrá también hacerse por correo, remitiendo la boleta de infracción con su importe en cheque o giro postal adherido en este caso. El descuento a que se refiere el Artículo 229 de la presente ley, únicamente surtirá efectos si la pieza postal es depositada en cualquier oficina de correo del País, antes de que expire el término de gracia.
-
-Las multas podrán pagarse mediante cheque personal sin necesidad de certificación.
-
-###### ARTICULO 229.
-
-El infractor que pague la multa, dentro de las veinticuatro horas siguientes a la de su imposición, gozará de un descuento del 50% de su importe.
-
-Si el pago de la multa se hace después de las veinticuatro horas, pero dentro de los tres días siguientes al de su imposición, el descuento será únicamente del 25%.
-
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
-
-No se aplicarán los descuentos antes aludidos, cuando se actualice la infracción señalada en la fracción V del artículo 225 BIS de esta Ley.
-
-###### ARTICULO 230.
-
-Prescribirá en seis meses la acción de las autoridades de tránsito para determinar la responsabilidad de una infracción y para establecer la sanción que le corresponda.
-
-La acción del Fisco para hacer efectivas las sanciones señaladas en esta Ley, prescribirán en cinco años.
-
-En ambos casos, el término de la prescripción corre a partir de la fecha en que se haya cometido la infracción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
-
-###### ARTICULO 231.
-
-Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
-
-a) Por transportar en los vehículos, explosivos o productos altamente inflamables sin el permiso correspondiente.
-
-b) Por prestar servicio público de transporte sin estar concesionado, por cada ocasión. En este caso, además se detendrá hasta por 72 horas el vehículo, impidiendo que continúe circulando y se remitirá al Departamento de Tránsito. A la vez, se comunicará tal situación a la Dirección de Transporte del Estado.
-
-c) Por prestar el servicio público de transporte con las unidades de emergencia simultáneamente con las autorizadas, independientemente de la sanción de cancelación que establece la Ley de Transporte del Estado de Sonora.
-
-> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
-
-d) Por no presentar los vehículos para la verificación de emisiones contaminantes en los términos del artículo 53, último párrafo, de esta Ley, así como por no portar la calcomanía correspondiente vigente o, portándola, ser evidente que el vehículo emite sustancias contaminantes que puedan rebasar los límites permisibles señalados por la normatividad aplicable. En este último caso, se estará a lo establecido por el inciso e) del artículo 223 de esta Ley.
-
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-En los casos en que se compruebe que el vehículo no aprobó el examen de verificación de emisiones contaminantes, y no ha sido presentado a segunda verificación en el plazo que se le haya concedido, en lugar de la multa señalada en el primer párrafo de este artículo, se impondrá una multa equivalente a veinticuatro Unidades de Medida y Actualización.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
-
-###### ARTICULO 232.
-
-Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
-
-a) Por conducir vehículos en estado de ebriedad o bajo influencia de estupefacientes y arresto hasta por 36 horas, siempre que no constituya delito, procediendo conforme al Artículo 223, Fracción VII de esta Ley.
-
-b) Por circular con un vehículo al que le falten las dos placas de circulación, con placas alteradas, vencidas o que no le correspondan, procediéndose además a impedir la circulación del vehículo y debiéndose remitir al Departamento de Tránsito.
-
-c) Por permitir el propietario o poseedor de un vehículo que lo conduzcan por personas menores de 18 años o que carezcan éstos de permiso respectivo, debiéndose además impedir la circulación del vehículo.
-
-Si el automóvil es propiedad de un menor de 18 años y éste es quien lo conduce sin permiso correspondiente, la multa se aplicará a los padres, tutores o quienes ejerzan la patria potestad.
-
-d) Por hacer sitio los automóviles de alquiler en lugar no autorizado.
-
-e) Por prestar el servicio público de pasaje fuera de la ruta o del horario autorizados.
-
-f) Por hacer terminal sobre la vía pública o en lugares no autorizados a los vehículos de servicio público de pasaje.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
-
-###### ARTICULO 233.
-
-Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
-
-a) Por hacer uso cualquier vehículo de sirenas y luces reservadas a los vehículos de emergencia, debiéndose además obligar al conductor a que retire del vehículo dichos dispositivos.
-
-b) Por causar daños a la vía pública o bienes del Estado o del Municipio, con motivo del tránsito de vehículos.
-
-c) Por falta de permiso para circular con equipo especial movible.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
-
-###### ARTICULO 234.
-
-Se impondrá multa que habrá de determinarse en las Leyes de Ingresos de los Ayuntamientos, de conformidad con las bases establecidas en esta Ley:
-
-a) Realizar competencias de velocidades o aceleración de vehículo, en las vías públicas.
-
-b) Circular vehículos de transporte de pasaje colectivo, en doble fila.
-
-c) No portar en lugar visible al usuario, los vehículos de servicio público de transporte de pasaje y carga, la tarifa autorizada, así como alterarla.
-
-d) Falta de colocación de banderolas en el día, o de lámparas en la noche, en caso de estacionamiento o detención de vehículos sobre el arroyo de circulación, en lugares de escasa visibilidad.
-
-e) Por circular en sentido contrario.
-
-f) Por negarse a prestar el servicio público sin causa justificada, así como abastecerse de combustible los vehículos de servicio público de transporte colectivo con pasajeros a bordo.
-
-g) Por circular los vehículos de servicio público de pasaje, sin puertas o con puertas abiertas.
-
-h) Por no respetar la preferencia de paso de los vehículos considerados como de emergencia.
-
-i) Por no respetar la preferencia de paso a otros vehículos en avenidas y vías rápidas o de mayor volumen.
-
-j) Por circular en las vías públicas a velocidades superiores a las autorizadas.
-
-k) Por no realizar la limpieza, tanto interior como exterior de vehículos de servicio público de pasaje.
-
-l) Por efectuar reparaciones que no sean de urgencia, así como lavados de vehículos en las vías públicas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE JULIO DE 2002)</small>
+Las personas que decidan aceptar el desempeño de un empleo, cargo o comisión que impidan el ejercicio de su función docente, de dirección, de supervisión o de inspección, deberán separarse del servicio, sin goce de sueldo, mientras dure el empleo, cargo o comisión.
 
 ## TRANSITORIOS
 
@@ -3585,7 +3773,7 @@ A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Est
 
 P.O. 20 DE JULIO DE 2013.
 
-DECRETO No. 1274/2013 II P.O, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 1274/2013 II P.O., POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3653,11 +3841,75 @@ DECRETO NÚMERO 1329/2013 XI P.E., POR EL QUE SE REFORMAN LA FRACCIÓN III DEL A
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 15 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, quedando vigentes las que sean acordes o armónicas con las previstas en la Ley General de Educación, Ley General del Servicio Profesional Docente, Ley del Instituto Nacional para la Evaluación de la Educación y demás disposiciones que de tales ordenamientos deriven.
+
+Así mismo, quedan vigentes las disposiciones comprendidas en la normatividad que la Autoridad Estatal aplica, hasta en tanto se expidan los reglamentos y demás disposiciones que de la presente Ley se deriven, conforme a la Ley General de Educación, Ley General del Servicio Profesional Docente y Ley del Instituto Nacional para la Evaluación de la Educación.
+
 ###### ARTÍCULO TERCERO.
 
-Cuando se señale en el Código Fiscal del Estado, Ley de Hacienda del Estado, Ley de Tránsito del Estado y Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora, la mención de salarios mínimos diario general vigente en el área geográfica "b", deberá entenderse como salarios mínimos diario general vigente en el área geográfica única, en virtud de la reforma al salario mínimo efectuada mediante Resolución del H. Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos que revisa los salarios mínimos generales y profesionales vigentes desde el 1 de abril de 2015, publicada en el Diario Oficial de la Federación con fecha 30 de septiembre de 2015, con vigencia a partir del 1 de octubre de 2015.
+En la Entidad Federativa se reconoce al Sindicato Nacional de Trabajadores de la Educación (SNTE), como el titular de las relaciones laborales colectivas de los trabajadores de la educación, en los términos de su registro vigente y de acuerdo con las disposiciones legales en la materia.
 
-B.O. 3 DE AGOSTO DE 2017.
+El Gobierno del Estado de Chihuahua se obliga a respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como a reconocer los acuerdos que estipule beneficios y/o prestaciones laborales, profesionales, salariales y sociales alcanzados a través de convenios, minutas y cualquier otro instrumento legal señalado por este y el Sindicato Nacional de Trabajadores de la Educación, en lo que no contravenga a las disposiciones legales vigentes.
+
+###### ARTÍCULO CUARTO.
+
+El personal que a la entrada en vigor del presente Decreto se encuentre en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de dicha Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 53 del supracitado ordenamiento, será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según corresponda.
+
+###### ARTÍCULO QUINTO.
+
+El Personal Docente y el Personal con Funciones de Dirección o de Supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados que a la entrada en vigor de la Ley General del Servicio Profesional Docente, tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en el artículo 52 del referido ordenamiento. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará nombramiento definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto en el citado ordenamiento.
+
+Será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según sea el caso, el personal que incurra en alguna de las siguientes hipótesis:
+
+I. Se niegue a participar en los procesos de evaluación.
+
+II. No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primero o segundo proceso de evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente.
+
+III. Obtenga resultados insuficientes en el tercer proceso de evaluación previsto en el artículo 53 de la Ley General del Servicio Profesional Docente.
+
+###### ARTÍCULO SEXTO.
+
+Conforme a lo previsto en el Décimo Transitorio de la Ley General del Servicio Profesional Docente, las Autoridades Educativas Locales y los Organismos Descentralizados deberán implementar un programa integral que organice y estructure debidamente las funciones y la adscripción del Personal con Funciones de Asesoría Técnica Pedagógica en servicio.
+
+Dicho programa deberá contemplar como primera acción prioritaria que el personal en servicio que desempeñe funciones de Asesoría Técnica Pedagógica, se reintegre a la función docente.
+
+Una acción subsecuente del programa integral será que solo el personal que cumpla con los requisitos que las Autoridades Educativas u Organismos Descentralizados determinen expresamente, podrá continuar temporalmente con las funciones de Asesoría Técnica Pedagógica, sujetándose a los procedimientos que establece la Ley General del Servicio Profesional Docente. En ningún caso podrán desempeñar funciones administrativas.
+
+En la implementación del programa integral, la Secretaría propiciará la coordinación necesaria con las Autoridades Educativas Locales y los Organismos Descentralizados.
+
+###### ARTÍCULO SÉPTIMO.
+
+El programa de Carrera Magisterial continuará en funcionamiento hasta en tanto entre en vigor el programa a que se refiere el artículo 37 de la Ley General del Servicio Profesional Docente, cuya publicación deberá hacerse a más tardar el 31 de mayo del año 2015.
+
+Lo anterior, sin perjuicio de que antes de esa fecha la Secretaría ajuste los factores, puntajes e instrumentos de evaluación de Carrera Magisterial y, en general, realice las acciones que determine necesarias para transitar al programa a que se refiere el artículo 37 de dicha Ley.
+
+Los beneficios adquiridos por el personal que participa en Carrera Magisterial no podrán ser afectados en el tránsito al programa a que se refiere el artículo 37 de dicha Ley.
+
+La XXII etapa de Carrera Magisterial para los docentes de Educación Básica se desahogará en los términos señalados por la convocatoria correspondiente a dicha etapa.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría de Educación Pública y las Autoridades Educativas del Estado de Chihuahua diseñarán un programa, que estas últimas llevarán a cabo, para la regularización progresiva de las plazas con funciones de dirección que correspondan a las estructuras ocupacionales de las escuelas de Educación Básica, de conformidad a la disponibilidad presupuestal, conforme a lo siguiente:
+
+I. Quienes a la entrada en vigor de la Ley General del Servicio Profesional Docente ejerzan funciones de dirección sin el nombramiento respectivo, seguirán en dichas funciones y serán sujetos de la evaluación del desempeño establecida en el artículo 52 de la referida Ley. Lo anterior, para determinar si el personal cumple con las exigencias de la función directiva.
+
+II. De obtener un resultado suficiente en la evaluación del desempeño, el personal recibirá el nombramiento definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto en dicha Ley.
+
+III. El personal que incumpla con la obligación de evaluación o cuando en esta se identifique la insuficiencia en el nivel de desempeño de la función de dirección, volverá a su función docente en la Escuela en que hubiere estado asignado u otra conforme a las necesidades del servicio, quedando sujeto a lo dispuesto por el artículo Octavo Transitorio o Noveno Transitorio de dicha Ley, según sea el caso.
+
+###### ARTÍCULO NOVENO.
+
+El personal que a la entrada en vigor de la Ley General del Servicio Profesional Docente se encuentre en servicio y cuente con nombramiento definitivo para desempeñar funciones de dirección o de supervisión en la Educación Media Superior impartida por el Estado y sus Organismos Descentralizados, continuará en el desempeño de dichas funciones conforme a lo previsto en esta Ley.
 
 ###### ARTÍCULO TERCERO.
 
