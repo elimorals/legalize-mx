@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2013-03-13"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -425,9 +425,9 @@ TERCERO.- En tanto se establecen los órganos de lo contencioso-administrativos 
 
 CUARTO.- Los Ayuntamientos expedirán los reglamentos municipales a que se refiere esta Ley, en un plazo que no excederá de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
-QUINTO.- Para el Ejercicio fiscal 2013, el plazo a que se refiere el artículo 14 de esta Ley se amplía hasta el 30 de abril.
+QUINTO.- Para el Ejercicio fiscal 2014, el plazo a que se refiere el artículo 14 de esta Ley se amplía hasta el 30 de abril.
 
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
@@ -482,3 +482,7 @@ P.O. 19 DE FEBRERO DE 2011.
 P.O. 13 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día su aprobación, debiendo publicarse en el Periódico Oficial "El Estado de Colima".
