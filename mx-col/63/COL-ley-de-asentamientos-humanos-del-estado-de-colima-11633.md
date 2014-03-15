@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2011-11-19"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -159,11 +159,13 @@ III. LA SECRETARIA: la dependencia de la Administración Pública Estatal compet
 
 IV. LA DEPENDENCIA MUNICIPAL: la entidad de la Administración Pública Municipal competente en materia de desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
 
-V. LA COMISION ESTATAL: La Comisión Estatal de Desarrollo Urbano, órgano de participación social de carácter técnico, consultivo y determinativo para los casos previstos por esta Ley, en materia de desarrollo urbano;
+V. LA COMISIÓN ESTATAL: La comisión Estatal de Ordenamiento Territorial y Desarrollo Urbano, órgano de participación social de carácter técnico, consultivo y determinativo para los casos previstos por esta Ley, misma que respetará las competencias municipales en la materia;
 
-VI. LA COMISION MUNICIPAL: la Comisión Municipal de Desarrollo Urbano, órgano de participación social de carácter técnico y consultivo en desarrollo urbano, en el ámbito municipal;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+VI. LA COMISION MUNICIPAL: La Comisión Municipal de Ordenamiento Territorial y Desarrollo Urbano, órgano de participación social de carácter técnico y consultivo en desarrollo urbano, en el ámbito municipal;
 
 VII. EL INSTITUTO: al organismo de la Administración Pública Estatal competente en materia de reservas territoriales y vivienda;
 
@@ -303,9 +305,13 @@ V. La Dependencia Municipal.
 
 Son organismos auxiliares y de participación social:
 
-I. La Comisión Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
 
-II. Las Comisiones Municipales de Desarrollo Urbano;
+I. La Comisión Estatal;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+II. Las Comisiones Municipales;
 
 III. El Comité de Planeación para el Desarrollo del Estado;
 
@@ -329,15 +335,19 @@ VIII. Las Asociaciones o Patronatos que se integren para promover la conservaci�
 
 IX.- Las Comisiones Municipales relacionadas con el cuidado y protección del medio ambiente.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 16.
 
-Las atribuciones concurrentes que en materia de desarrollo urbano establece la presente Ley, serán ejercidas de manera coordinada por las autoridades estatales y municipales, en los ámbitos de su jurisdicción y competencia.
+Las atribuciones concurrentes que en materia de ordenamiento territorial y desarrollo urbano establece la presente Ley, serán ejercidas de manera coordinada por las autoridades estatales y municipales, en los ámbitos de su jurisdicción y competencia.
 
-Las dependencias y entidades de los gobiernos estatal y municipales ejercerán sus atribuciones relativas al desarrollo urbano y la vivienda, de manera congruente con los objetivos y prioridades de los Planes Estatal y Municipales de Desarrollo, y de los diferentes programas de desarrollo urbano que de éstos se deriven.
+Las dependencias y entidades de los gobiernos estatal y municipales ejercerán sus atribuciones relativas al ordenamiento territorial, al desarrollo urbano y la vivienda, de manera congruente con los objetivos y prioridades de los Planes Estatal y Municipales de Desarrollo, y de los diferentes programas de ordenamiento territorial y desarrollo urbano que de éstos se deriven.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 17.
 
-La coordinación y concertación que en materia de desarrollo urbano, vivienda, infraestructura vial, patrimonio natural, urbano y arquitectónico, se suscite por parte del Gobierno del Estado y de los ayuntamientos con las autoridades federales, se sujetará a las disposiciones previstas en esta Ley, en la Ley General de Asentamientos Humanos y demás ordenamientos federales y estatales en materia de planeación, equilibrio ecológico y protección del ambiente, agraria, aprovechamiento de aguas y patrimonio cultural.
+La coordinación y concertación que en materia ordenamiento (sic) territorial, de desarrollo urbano, vivienda, infraestructura vial, patrimonio natural, urbano y arquitectónico, se suscite por parte del Gobierno del Estado y de los ayuntamientos con las autoridades federales, se sujetará a las disposiciones previstas en esta Ley, en la Ley General de Asentamientos Humanos y demás ordenamientos federales y estatales en materia de planeación, equilibrio ecológico y protección del ambiente, agraria, aprovechamiento de aguas y patrimonio cultural.
 
 ### Capítulo II. Del Congreso del Estado
 
@@ -361,11 +371,15 @@ V. Ejercer las demás atribuciones que le otorguen la presente Ley y otros orden
 
 El Gobernador del Estado tendrá las siguientes facultades en aplicación de la presente Ley:
 
-I. Ordenar la elaboración, ejecución, control, revisión y evaluación de los Programas Estatales de Desarrollo Urbano, así como de los demás que de éstos se deriven;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+I. Ordenar la elaboración, ejecución, control, revisión y evaluación de los Programas Estatales de Ordenamiento Territorial, de Desarrollo Urbano, así como de los demás que de éstos se deriven;
 
 II. Aprobar los programas de desarrollo urbano que sean de su competencia;
 
-III. Proponer ante los municipios la modificación de los programas de desarrollo urbano, a fin de ejecutar las acciones de fundación, conservación, mejoramiento y crecimiento previstas en el Programa Estatal y en los programas regionales;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+III. Proponer ante los municipios la modificación de los programas de ordenamiento territorial y a los de desarrollo urbano, a fin de ejecutar las acciones de fundación, conservación, mejoramiento y crecimiento previstas en el Programa Estatal y en los programas regionales;
 
 IV. Proponer al Congreso del Estado la fundación de centros de población;
 
@@ -419,7 +433,9 @@ XXVII. Las demás que le confieran la presente Ley y otros ordenamientos.
 
 La Secretaría tendrá las siguientes atribuciones:
 
-I. Coordinar la elaboración, ejecución, control, modificación, actualización y evaluación de los Programas Estatales de Desarrollo Urbano, así como de los demás que de éstos se deriven;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+I. Coordinar la elaboración, ejecución, control, modificación, actualización y evaluación de los Programas Estatales de Desarrollo Urbano y los de Ordenamiento Territorial, así como de los demás que de éstos se deriven;
 
 II. Asesorar y apoyar a los ayuntamientos, cuando éstos lo soliciten, en la elaboración, ejecución, control, actualización y evaluación de la planeación urbana municipal;
 
@@ -427,7 +443,9 @@ III. Coordinar con los ayuntamientos, la elaboración, ejecución, control y eva
 
 IV. Asumir de manera total o parcial las funciones técnicas que le corresponden al Municipio en la aplicación de esta Ley y ejecutar obras municipales, conforme al convenio que celebre el Gobernador del Estado y el Ayuntamiento;
 
-V. Fungir como Secretariado Técnico de la Comisión Estatal;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+V. Fungir como Secretariado Técnico de la Comisión Estatal, así como de los consejos especializados en la materia;
 
 VI. Promover y adquirir con base en los programas de desarrollo urbano, las reservas territoriales por parte del Gobierno del Estado, en coordinación con el Instituto y, en su caso, conjuntamente con los Ayuntamientos, para la ejecución de dichos programas;
 
@@ -693,21 +711,81 @@ VI. Opinar sobre los programas de regularización de la tenencia de la tierra qu
 
 VII. Opinar y proponer acciones en materia de conservación y mejoramiento de sitios, fincas y monumentos del patrimonio urbano y arquitectónico;
 
-VIII. Conocer y opinar sobre los programas que propongan la ejecución de obras de infraestructura y equipamiento financiadas mediante una contribución decretada por el Congreso del Estado, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
 
-IX. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
+VIII. Conocer y opinar sobre los programas que propongan la ejecución de obras de infraestructura y equipamiento financiadas mediante una contribución decretada por el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+IX. Opinar sobre la ocupación y el uso del territorio según su aptitud, señalada en el programa Estatal de Ordenamiento Territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+X. Opinar sobre el aprovechamiento de las vocaciones del territorio;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XI. Opinar sobre la integración de los sistemas urbano-rurales en función de la dinámica económica, la movilidad y conectividad;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XII. Promover y dar seguimiento a los programas de ordenamiento territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XIII. Coordinar la integración, operación y actualización permanente del sistema estatal de información territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XIV. Identificar e introducir acciones para reducir la vulnerabilidad de los asentamientos humanos ante fenómenos naturales y de impactos al medio ambiente, converger las políticas sectoriales y aprovechamiento de las ventajas de competitividad;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XV. Definir funcionamiento y recursos que pueden contribuir a fortalecer la realización de acciones en materia de ordenamiento territorial en beneficio del ordenamiento territorial del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XVI. La Planeación y ejecución de políticas públicas en materia de ordenamiento territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XVII. Establecer mecanismos de coordinación entre los tres órdenes de gobierno en materia de ordenamiento territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XVIII. Promover la celebración de convenios de colaboración y coordinación con los H. Ayuntamientos de los Municipios que conforman el Estado de Colima, en materia de ordenamiento territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XIX. Gestionar recursos económicos para la ejecución de las acciones en materia de ordenamiento territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XX. Participar en la elaboración del Programa de Ordenamiento Territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+
+XXI. Crear Consejos Especializados con participación pública y social en cumplimiento del objeto de la presente Ley, definiendo en el acto de su creación su finalidad y operatividad; y
+
+XXII. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 29.
 
 Las Comisiones Municipales tendrán por objeto:
 
-I. Participar y opinar en relación con los programas municipales de desarrollo urbano, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
 
-II. Promover la participación de los particulares en las acciones para impulsar el desarrollo urbano en sus municipios.
+I. Participar y opinar en relación con los programas municipales de ordenamiento territorial y los de desarrollo urbano, y
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+
+II. Promover la participación de los particulares en las acciones para impulsar el ordenamiento territorial y el desarrollo urbano en sus municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 30.
 
-Las Comisiones Municipales o Consejos Consultivos de Desarrollo Urbano, funcionarán en forma permanente, teniendo su sede en las cabeceras municipales, y se integrarán por:
+Las Comisiones Municipales o Consejos Consultivos de Ordenamiento Territorial y de Desarrollo Urbano, funcionarán en forma permanente, teniendo su sede en las cabeceras municipales, y se integrarán por:
 
 I. Un presidente, que será el Presidente Municipal del Ayuntamiento correspondiente;
 
@@ -4333,7 +4411,7 @@ Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Colima, a 26 de abril de 1994.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE OCTUBRE DE 1997.
 
@@ -4366,3 +4444,7 @@ P.O. 29 DE AGOSTO DE 2009.
 P.O. 19 DE NOVIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
