@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2013-12-18"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES -ANTES LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA-
 
-LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE CHIHUAHUA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -1451,11 +1453,15 @@ La libertad definitiva se otorgará cuando el condenado a pena privativa de libe
 
 Ningún funcionario puede, sin causa justificada, aplazar, demorar u omitir el cumplimiento de lo dispuesto en el párrafo anterior, de hacerlo, incurrirá en responsabilidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
+
 ###### Artículo 84.
 
 Asistencia pospenitenciaria.
 
-La libertad definitiva que se otorgue conforme a este título, será comunicada de inmediato al patronato de asistencia a liberados, para los fines de asistencia pospenitenciaria a que se refiere la presente Ley.
+La libertad definitiva que se otorgue conforme a este título, será comunicada de inmediato al Patronato de Ayuda para la Reinserción Social, para los fines de asistencia pospenitenciaria a que se refiere la presente Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2441,23 +2447,15 @@ Asistencia y atención a liberados y externados.
 
 Para la asistencia y atención a liberados y externados, la Fiscalía se coordinará con instituciones, públicas o privadas, que presten estos servicios, las que procurarán fortalecer la reinserción social, auxiliándolos para canalizarlos y ubicarlos en fuentes de trabajo donde puedan desarrollar sus aptitudes y orientando su tiempo libre a determinadas actividades de esparcimiento familiar, social, deportivo, entre otros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### Artículo 172.
 
 Patronato de Ayuda para la Reinserción Social.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
-
-El Patronato de Ayuda para la Reinserción Social, dependiente de la Fiscalía, tiene por objeto prestar asistencia jurídica, moral, económica, médica, social y laboral, a las personas que gocen de cualquiera de los beneficios previstos en esta ley, o que hayan sido puestas en libertad definitiva; será un órgano auxiliar en el tratamiento post-penitenciario y además de las atribuciones anteriores tendrá la de estar en contacto periódico con las personas que gocen de un beneficio de libertad anticipada o definitiva, para lo cual podrá coordinarse con las autoridades correspondientes, así como con las organizaciones de la sociedad civil y de la iniciativa privada que le auxilien para concretar sus fines.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
-
-La Fiscalía de Ejecución de Penas proporcionará al patronato los estudios de personalidad de los externados y liberados, así como el expediente respectivo en donde se contengan los informes de actividades penitenciarias y aptitudes respectivas, para efectos de que el patronato y de acuerdo al método que defina, establezca contacto y esté en posibilidad de prestar la asistencia necesaria.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
-
-El patronato deberá contar con el personal especializado para la realización de sus fines y podrá contar con la participación de la sociedad civil organizada; su composición y funcionamiento se hará en base al reglamento de la presente ley.
+El Patronato de Ayuda para la Reinserción Social, dependiente de la Fiscalía, tiene por objeto prestar asistencia jurídica, moral, económica, médica, social, laboral, y recomendar el beneficio de reserva de la información en el certificado de antecedentes penales para efectos empresariales, a las personas que gocen de cualquiera de los beneficios previstos en esta Ley, o que hayan sido puestas en libertad definitiva.
 
 ## TÍTULO OCTAVO. EXTINCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -2480,6 +2478,132 @@ IV.- Perdón del ofendido, cuando proceda.
 V.- Prescripción.
 
 VI.- Las demás que señale el Código Penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
+
+## TÍTULO NOVENO. DEL CERTIFICADO DE ANTECEDENTES PENALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
+
+### CAPÍTULO PRIMERO. DE LA SOLICITUD Y LOS EFECTOS DEL BENEFICIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### Artículo 174.
+
+Solicitud de reserva.
+
+Al otorgarse cualquiera de los beneficios previstos en esta Ley o determinarse la libertad definitiva, de oficio o a petición de parte, el Consejo emitirá un informe al Patronato de Reinserción Social, conteniendo un estudio para demostrar que la persona puesta en libertad se encuentra en posibilidades de ser reinsertado a la vida en sociedad; en base a este estudio, el Patronato de Ayuda para la Reinserción Social podrá conceder el beneficio al liberado, solicitando a la Fiscalía se reserve la información del antecedente penal en el certificado de antecedentes penales para efectos empresariales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### Artículo 175.
+
+Efecto del beneficio.
+
+La recomendación de reserva de información del antecedente penal en el certificado de antecedentes penales, solo operará para efectos empresariales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
+
+### CAPÍTULO SEGUNDO. DE LA PRESENTACIÓN ANTE EL PATRONATO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### Artículo 176.
+
+Continuidad del beneficio.
+
+Salvo causa justificada, el beneficiario habrá de presentarse en la periodicidad, forma y condiciones estipuladas por el Patronato, a efecto de que este valore, en base al seguimiento pospenitenciario, la continuidad de la reserva de la información en el certificado de antecedentes penales.
+
+Dicha presentación, habrá de ser al menos una vez al año y durante el tiempo que el Patronato lo considere, sin exceder de diez años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### Artículo 177.
+
+Incumplimiento al Plan de Presentación.
+
+En caso de que el beneficiario injustificadamente incumpla con el plan de presentación ante el Patronato, este dará aviso inmediatamente a la Fiscalía para incluir en el certificado de antecedentes penales la información relativa a estos.
+
+Una vez satisfecho el incumplimiento a criterio del Patronato, podrá aplicarse nuevamente el beneficio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)</small>
+
+### CAPÍTULO TERCERO. MEDIOS DE IMPUGNACIÓN DE LOS ACTOS ADMINISTRATIVOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### Artículo 178.
+
+Sujeción de su actuación.
+
+El Patronato de Ayuda para la Reinserción Social deberá sujetar su actuación a las facultades que le estén conferidas por la Ley, los reglamentos y los acuerdos dictados por el Fiscal General del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### Artículo 179.
+
+Recurso de revisión.
+
+El acto que dicte el Patronato de Ayuda para la Reinserción Social, puede impugnarse mediante el recurso de revisión ante el Fiscal Especializado en Ejecución de Penas y Medidas Judiciales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### Artículo 180.
+
+Efectos de la negativa del beneficio.
+
+Cuando el Patronato niegue la recomendación de reserva en el certificado de antecedentes penales, el liberado podrá solicitarlo nuevamente después de transcurridos sesenta días hábiles contados a partir de la notificación de la negativa, u optar por la tramitación del recurso correspondiente.
+
+La solicitud será realizada ante el Patronato de Ayuda para la Reinserción Social, quien determinará la procedencia o no del beneficio.
+
+Si fuesen acumuladas cinco desaprobaciones, no podrá solicitarse nuevamente la reserva en el certificado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+
+###### Artículo 181.
+
+Tramitación del recurso.
+
+La tramitación del recurso, se sujeta al procedimiento siguiente:
+
+I. Se interpondrá personalmente, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del distrito judicial donde fue liberado; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, solo serán admisibles las que hubiere ofrecido y no se hubieran desahogado por causas no imputables a él y las supervenientes;
+
+II. El escrito deberá presentarse dentro de los quince días hábiles siguientes a la notificación del acto que se impugna. No será admisible la interposición de recursos por medio del correo;
+
+III. Interpuesto el recurso, la autoridad recabará de oficio los informes y constancias necesarias para determinar la existencia del acto impugnado, las razones que lo justifiquen y la fecha de su notificación; en vista de lo anterior, acordará si es de admitirse o desecharse el recurso;
+
+IV. El Fiscal Especializado en Ejecución de Penas y Medidas Judiciales, proveerá desde luego a la recepción de las pruebas ofrecidas, señalando para ello un término de quince días hábiles. Serán admisibles todos los medios de prueba admitidos por el derecho común con excepción de la confesional de las autoridades;
+
+V. Recibidas las pruebas y los informes o transcurrido el periodo probatorio, se abrirá un período de alegatos de tres días hábiles;
+
+VI. Formulados los alegatos o transcurrido el término que para el efecto se concedió, el Fiscal Especializado en Ejecución de Penas y Medidas Judiciales elaborará el acuerdo correspondiente dentro del término de cinco días hábiles, y
+
+VII. El acuerdo del Fiscal Especializado en Ejecución de Penas y Medidas Judiciales será notificado personalmente en el domicilio señalado.
 
 ## TRANSITORIOS
 
@@ -2742,3 +2866,13 @@ P.O. 18 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General del Estado, contará con un plazo de ciento ochenta días contados a partir del día siguiente de la publicación del presente Decreto en el Periódico Oficial del Estado, para consolidar su organización jurídica, técnica y administrativa, a efecto de estar en aptitud de cumplir con los fines del presente Decreto y constituir el Consejo de Patronos del Patronato de Ayuda para la Reinserción Social, según lo establecido en su Acuerdo de creación.
