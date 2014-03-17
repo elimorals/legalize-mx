@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2013-12-16"
+last_updated: "2014-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -491,9 +491,11 @@ II.- Conocer y emitir resolutivos de los asuntos que les sean turnados, relativo
 
 III.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 39.
 
-Corresponde a la Comisión de Equidad de Género:
+Corresponde a la Comisión de Igualdad de Género:
 
 I.- Conocer y emitir resolutivos de los asuntos que les sean turnados relativos a las desigualdades sociales, económicas y culturales entre los hombres y las mujeres, desde una perspectiva de género y el combate a toda forma de discriminación; y
 
@@ -617,9 +619,11 @@ I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia 
 
 II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 54.
 
-Corresponde a la Comisión de Desarrollo Social:
+Corresponde a la Comisión de Desarrollo Social y Humano:
 
 I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relacionados con el combate a la pobreza y protección a los grupos vulnerables, con énfasis en atención a mujeres, niños, discapacitados, adultos mayores, indígenas y demás grupos marginados, para el mejoramiento de las condiciones de vida y bienestar de la población; y
 
@@ -1364,3 +1368,9 @@ Artículo Único.- Envíese el presente Decreto al Ejecutivo del Estado para los
 P.O. 16 DE DICIEMBRE DE 2013.
 
 Único.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MARZO DE 2014.
+
+ÚNICO.- Envíese el Decreto al Titular del Poder Ejecutivo de la Entidad, para su publicación en el Periódico Oficial del Estado.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
