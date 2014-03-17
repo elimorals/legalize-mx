@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2013-12-16"
+last_updated: "2014-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -75,7 +75,7 @@ Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Período
 
 El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
 
-El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
+El Congreso, podrá celebrar Sesiones Extraordinarias durante los periodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
 
@@ -745,7 +745,9 @@ XII.- Comisión de Fomento Cooperativo, Economía, Industria, Comercio y Servici
 
 XIII.- Comisión de Obras Públicas, Desarrollo Urbano y Vivienda;
 
-XIV.- Comisión de Equidad de Género;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2014)</small>
+
+XIV.- Comisión de Igualdad de Género;
 
 XV.- Comisión de Comunicaciones y Transportes;
 
@@ -783,9 +785,9 @@ XXVII.- Comisión de Cultura;
 
 XXVIII.- Comisión de los Adultos Mayores;
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2014)</small>
 
-XXIX.- Comisión de Desarrollo Social;
+XXIX.- Comisión de Desarrollo Social y Humano.
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2011)</small>
 
@@ -1887,7 +1889,7 @@ IV.- Directores Generales y de Área, Subdirectores, Auditores, Jefes de Departa
 
 ###### ARTÍCULO 205.
 
-la declaración patrimonial, deberá presentarse en los siguientes plazos:
+La declaración patrimonial, deberá presentarse en los siguientes plazos:
 
 I.- La inicial, dentro de los sesenta días hábiles siguientes al inicio de sus funciones;
 
@@ -1937,7 +1939,7 @@ En cualquiera de los casos previstos en los Artículos anteriores, los miembros 
 
 ###### ARTÍCULO 214.
 
-Si el Congreso conoció de algún asunto de los que se mencionan en este Capítulo, y entró en receso antes de ser resuelto, la Comisión designada seguirá conociéndolo y tocará resolver a la Diputación Permanente. Si fue la Diputación Permanente la que primeramente conoció del asunto y antes de resolverlo, inició la Legislatura nuevo período de Sesiones, seguirá actuando la comisión designada y corresponderá al Pleno resolver. Si el conflicto fue planteado y la Legislatura concluye su Período Constitucional, se pasará el asunto junto con toda la documentación que integre el expediente respectivo, para que sea la nueva Legislatura quién continúe el procedimiento y resuelva en definitiva.
+Si el Congreso conoció de algún asunto de los que se mencionan en este Capítulo, y entró en receso antes de ser resuelto, la Comisión designada seguirá conociéndolo y tocará resolver a la Diputación Permanente. Si fue la Diputación Permanente la que primeramente conoció del asunto y antes de resolverlo, inició la Legislatura nuevo periodo de Sesiones, seguirá actuando la comisión designada y corresponderá al Pleno resolver. Si el conflicto fue planteado y la Legislatura concluye su Periodo Constitucional, se pasará el asunto junto con toda la documentación que integre el expediente respectivo, para que sea la nueva Legislatura quién continúe el procedimiento y resuelva en definitiva.
 
 T R A N S I T O R I O S
 
@@ -2044,3 +2046,7 @@ LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA EN SUS DISPOSICIONES TRANSIT
 P.O. 16 DE DICIEMBRE DE 2013.
 
 Único.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MARZO DE 2014.
+
+ÚNICO.- Envíese el Decreto al Titular del Poder Ejecutivo de la Entidad, para su publicación en el Periódico Oficial del Estado.
