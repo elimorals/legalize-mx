@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2013-12-24"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -865,17 +865,17 @@ El Ministerio Público velará por los intereses del ausente y será parte neces
 
 El Registro Civil es una institución de orden público que tiene por objeto hacer constar de una manera auténtica todos los actos y hechos relacionados con el estado civil de las personas físicas, mediante la intervención de funcionarios dotados de fe pública, denominados Oficiales del Registro Civil, y a través de un sistema organizado de publicidad.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
-Así mismo, el Registro Civil tendrá a su cargo la creación y manejo del Registro Estatal de Deudores Alimentarios Morosos, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias, decretadas por la autoridad judicial correspondiente por un periodo de tres meses consecutivos o no.
+Así mismo, el Registro Civil tendrá a su cargo la creación y manejo del Registro Estatal de Deudores Alimentarios Morosos, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias por un periodo de tres meses consecutivos o no, decretadas por la autoridad judicial correspondiente o por la Procuraduría de la Familia.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 El Registro Civil, estará facultado para la expedición de constancias que informen si quien la solicita se encuentra inscrito o no, en el Registro Estatal de Deudores Alimentarios Morosos.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
-El Registro Civil, una vez hecha la inscripción a que se refiere el segundo párrafo, solicitará al Registro Público de la Propiedad la anotación de la constancia respectiva en los bienes de los que sea propietario el Deudor Alimentario inscrito. El Registro Público de la Propiedad deberá informar al Registro Civil en un plazo de 3 días hábiles si fue procedente la anotación. Igualmente, el Registro Civil efectuará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia a fin de suministrarles la información contenida en el Registro Estatal de Deudores Alimentarios Morosos.
+El Registro Civil, una vez hecha la inscripción a que se refiere el segundo párrafo, solicitará al Registro Público de la Propiedad la anotación de la constancia respectiva en los bienes de los que sea propietario el Deudor Alimentario inscrito. El Registro Público de la Propiedad deberá informar al Registro Civil en un plazo de 3 días hábiles si fue procedente la anotación. Igualmente, el Registro Civil efectuará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia a fin de suministrarles la información contenida en el Registro Estatal de Deudores Alimentarios Morosos. La anotación realizada en el Registro Público surtirá efectos de embargo precautorio.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
@@ -1027,21 +1027,19 @@ Podrá reconocerse al hijo producto de relaciones incestuosas. Los progenitores 
 
 Toda persona que encontrare un menor expósito, conforme a lo dispuesto en el artículo 605, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo de forma inmediata ante la Procuraduría de la Familia o las Unidades de Atención a la Violencia ubicadas en los diversos municipios del Estado, con los vestidos, documentos o cualesquiera otros objetos encontrados con el que pudiera conducir a su posterior identificación, y declarara el día, mes, año y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 ARTÍCULO 172 BIS. En el caso del artículo que antecede, corresponde a la Procuraduría de la Familia y las Unidades de Atención a la Violencia ubicadas en los diversos municipios del Estado:
 
-> <small>(F. DE E., P.O. 18 DE ENERO DE 2008)</small>
+I.- Dar vista al Ministerio Público, a fin de que se inicien las investigaciones necesarias y la averiguación previa correspondiente, para que se determine el origen, la edad aparente, y demás circunstancias relacionadas con el menor, para lo anterior se auxiliarán de constancia expedida por el médico legista y las personas e instituciones que estimen conveniente para ello, resultados que deberán rendirse ante la autoridad correspondiente en un plazo que no excederá de 90 días.
 
-I.- Dar vista al Ministerio Público, a fin de que se inicien las investigaciones necesarias y la averiguación previa correspondiente, para que se determine el origen, la edad aparente, y demás circunstancias relacionadas con el menor, para lo anterior se auxiliarán de constancia expedida por el médico legista y las personas e instituciones que estimen conveniente para ello, resultados que deberán rendirse ante la autoridad correspondiente en un plazo que no excederá de 180 días.
+Entre tanto se obtienen los resultados de la investigación el Registro Civil a petición del Ministerio Público o de la Procuraduría de la Familia deberá realizar un registro provisional del menor con la finalidad de garantizar durante este plazo su identidad. Ese registro provisional carecerá de validez una vez que se obtengan los resultados de la investigación y que, en su caso, se realice el registro definitivo.
 
 II.- Proveer transitoriamente la guarda y custodia del menor expósito, quien quedará bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila, conforme a lo establecido en el artículo 603.
 
-III.- Presentar al menor ante el Oficial del Registro Civil, con los documentos que se hubieran encontrado y los resultados de las investigaciones, así como la averiguación previa, para realizar la inscripción del mismo.
+III.- Presentar al menor de edad ante el Oficial del Registro Civil, con los documentos que se hubieran encontrado y los resultados de las investigaciones, así como la averiguación previa, para realizar la inscripción del mismo.
 
-> <small>(F. DE E., P.O. 18 DE ENERO DE 2008)</small>
-
-Una vez transcurridos los 180 días establecidos para realizar las investigaciones necesarias y la averiguación previa correspondiente, y no habiendo encontrado quien pudiere ejercer la patria potestad del menor, la Procuraduría de la Familia y las Unidades de Atención a la Violencia ubicadas en los diversos municipios del Estado, presentarán al menor ante el Oficial del Registro Civil, con la finalidad de que se realice el registro del mismo.
+Una vez transcurridos los 90 días establecidos para realizar las investigaciones necesarias y la averiguación previa correspondiente, y no habiendo encontrado quien pudiere ejercer la patria potestad del menor, la Procuraduría de la Familia y las Unidades de Atención a la Violencia ubicada en los diversos municipios del Estado, presentarán al menor de edad ante el Oficial del Registro Civil, con la finalidad de que se realice el registro del mismo.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2679,11 +2677,9 @@ II. Los nacidos de la mujer que tenga el carácter de compañera civil, dentro d
 
 Resultan aplicables en lo conducente, para estas presunciones, los artículos 433 a 481, de este Código.
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
-
 ###### ARTÍCULO 385
 
-7. Los compañeros civiles del mismo sexo no podrán realizar adopciones en forma conjunta ni individual. No podrán compartir o encomendar la patria potestad o guardia y custodia de los hijos menores del otro. Es nulo de pleno derecho cualquier pacto que contravenga esta última disposición.
+7. (DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 > <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
 
@@ -3289,9 +3285,11 @@ VI. Por confesión judicial.
 
 VII. Por declaración o afirmación incidental hecha de manera clara e inequívoca en un acto realizado con otro objeto, siempre que conste en documento público.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 467.
 
-Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles.
+Cuando la madre o el padre reconozcan separadamente a un hijo, no podrán dejar constancia, en el acto del reconocimiento, del nombre de la persona con quien fue habido. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles. Sin embargo, cuando al momento del registro se señale el nombre y el domicilio del posible progenitor, se informará a la Procuraduría de la Familia para que actúe conforme a lo dispuesto en el artículo 81 de la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
 
 Se exceptúa de lo dispuesto en este artículo, el reconocimiento del hijo que no ha nacido, salvo que se trate del hijo de una mujer casada, en cuyo caso no podrá efectuarse el reconocimiento.
 
@@ -3299,9 +3297,11 @@ Se exceptúa de lo dispuesto en este artículo, el reconocimiento del hijo que n
 
 El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el notario que consientan en la violación del artículo que precede, serán sancionados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 469.
 
-El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal si no es con la anuencia expresa de éste.
+El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a la guarda y custodia si en su domicilio conyugal no se garantiza la integridad física y mental del hijo para lo cual deberá solicitarse la intervención del Juez Familiar o de la Procuraduría de la Familia quienes deberán valorar las condiciones del entorno conyugal y familiar del padre o madre. La madre o el padre podrá tener la guarda y custodia provisional del hijo entretanto se resuelve en definitiva conforme a las disposiciones que resulten aplicables.
 
 ###### ARTÍCULO 470.
 
@@ -3349,9 +3349,11 @@ I. A alimentos, si al hacer el reconocimiento tenía necesidad de ellos.
 
 II. A heredar al hijo si el reconocimiento se hizo durante la última enfermedad de éste.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 478.
 
-Está permitido al hijo y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios: pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+Está permitido al hijo y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios. Cuando la investigación de la maternidad tenga por objeto atribuir el hijo a una mujer casada deberá fundarse en un principio de prueba contra la pretendida madre.
 
 ###### ARTÍCULO 479.
 
@@ -4397,9 +4399,11 @@ VI. El tutor que se ausente por más de seis meses del lugar en que debe desempe
 
 No pueden ser tutores de las personas comprendidas en la fracción II del artículo 48, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 620.
 
-El Ministerio Público y los parientes del pupilo deben promover la separación de los tutores, que se encuentren en alguno de los casos previstos en los artículos 617 y 618, pero debe el juez iniciar y continuar de oficio el procedimiento de separación del tutor, si no fuere promovido por ellos, o por el mismo incapaz en su caso.
+El Ministerio Público, la Procuraduría de la Familia y los parientes del pupilo deben promover la separación de los tutores, que se encuentren en alguno de los casos previstos en los artículos 617 y 618, pero debe el juez iniciar y continuar de oficio el procedimiento de separación del tutor, si no fuere promovido por ellos, o por el mismo incapaz en su caso.
 
 ###### ARTÍCULO 621.
 
@@ -4499,19 +4503,23 @@ Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudie
 
 Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario, y sólo podrá ejecutar los actos que el juez autorice y que se limitarán a los indispensables para la conservación de los bienes y percepción de los productos.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 634.
 
 Están exceptuados de la obligación de dar garantía:
 
-I. El tutor testamentario, cuando expresamente lo haya relevado de esta obligación el testador.
+I. El tutor testamentario, cuando expresamente lo haya relevado de esta obligación el testador;
 
-II. El tutor testamentario, legítimo o dativo, si el incapaz no está en posesión efectiva de sus bienes, y tenga sólo créditos o derechos litigiosos.
+II. El tutor testamentario, legítimo o dativo, si el incapaz no está en posesión efectiva de sus bienes, y tenga sólo créditos o derechos litigiosos;
 
-III. El cónyuge del incapaz y el padre, madre, abuelo o abuela, en los casos en que conforme a la ley son llamados a la tutela de sus descendientes, salvo lo dispuesto en el artículo 638.
+III. El cónyuge del incapaz y el padre, madre, abuelo o abuela, en los casos en que conforme a la ley son llamados a la tutela de sus descendientes, salvo lo dispuesto en el artículo 638;
 
-IV. Los tutores a que se refieren las fracciones I y II del artículo 603, salvo que hayan recibido pensión para cuidar del menor, o cuando el tutor haya sido nombrado en cumplimiento de la fracción IV del mismo artículo.
+IV. Los tutores a que se refieren las fracciones I y II del artículo 603, salvo que hayan recibido pensión para cuidar del menor, o cuando el tutor haya sido nombrado en cumplimiento de la fracción IV del mismo artículo;
 
-V. El tutor designado conforme al artículo 616.
+V. El tutor designado conforme al artículo 616; y
+
+VI. La Procuraduría de la Familia cuando obtenga el pago de una pensión alimenticia a favor de una persona sujeta a su cuidado de conformidad con lo dispuesto en la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 635.
 
@@ -20872,3 +20880,9 @@ TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 24 DE DICIEMBRE DE 2013.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
