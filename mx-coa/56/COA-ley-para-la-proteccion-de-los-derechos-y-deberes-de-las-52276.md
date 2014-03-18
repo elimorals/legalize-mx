@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-los-derechos-y-deberes-de-las-52276"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2012-04-03"
+last_updated: "2014-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y DEBERES DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 18 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de octubre de 2006.
 
@@ -1264,3 +1266,17 @@ P.O. 3 DE ABRIL DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se abroga la Ley para la Protección de los Derechos y Deberes de las Niñas, Niños y Adolescentes del Estado de Coahuila publicada en el Periódico Oficial el 27 de octubre de 2006.
+
+TERCERO.- El Sistema Estatal, para la Garantía de los Derechos Humanos de Niños y Niñas y la Procuraduría para Niños, Niñas y la Familia contarán con un periodo de tres meses contado a partir de la entrada en vigor del presente decreto para su implementación en el Estado de Coahuila de Zaragoza en los términos establecidos en la nueva Ley.
+
+CUARTO.- Se cambia la denominación de la Procuraduría de la Familia y Protección de Derechos para llamarse como ha quedado prescrito en la nueva Ley. Cuando se haga alusión en un ordenamiento jurídico a la Procuraduría de la familia y Protección de Derechos se entenderá que alude a la Procuraduría para Niños, Niñas y la familia sin perjuicio de que con posterioridad se hagan los ajustes normativos necesarios.
+
+QUINTO.- Las actuaciones de la Procuraduría para Niños, Niñas y la Familia previas a la entrada en vigor de la presente Ley que no hayan sido resueltas se resolverán conforme a la legislación anterior.
+
+SEXTO.- Se derogan las disposiciones que se opongan al presente decreto.
