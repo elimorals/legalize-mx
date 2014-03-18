@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-y-los-jovenes-del-estado-de-durango-29613"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-06"
-last_updated: "2005-12-25"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE LAS Y LOS JOVENES DEL ESTADO DE DURANGO
 
-LEY DE LAS Y LOS JOVENES DEL ESTADO DE DURANGO
+LEY DE LAS Y LOS JÓVENES DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 6 de marzo de 2003.
 
@@ -231,7 +231,7 @@ ARTÍCULO 11 BIS.- DERECHO AL DESARROLLO SOCIAL Y HUMANO.- Las y los jóvenes te
 
 DERECHO AL TRABAJO. Todas las y los jóvenes tienen derecho a un trabajo digno, socialmente útil y bien remunerado, de conformidad con la Ley Federal del Trabajo y acercándolos a la posibilidad de mejorar la calidad de vida en su entorno social, en un ambiente laboral sano.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO III. DE LOS JÓVENES EN DESVENTAJA SOCIAL
 
@@ -241,7 +241,7 @@ DERECHO AL TRABAJO. Todas las y los jóvenes tienen derecho a un trabajo digno, 
 
 Todas las y los jóvenes en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tiene derecho a reinsertarse e integrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida. A recibir información, orientación y apoyo para la protección de sus derechos y para ser sujetos y beneficiarios de las políticas, programas y acciones de desarrollo social y humano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 14.
 
@@ -391,7 +391,7 @@ III. Contribuir al avance de la vida democrática del Estado participando en los
 
 IV. Mantener dentro y fuera del territorio del Estado actitudes que dignifiquen el nombre de Durango.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO V. DEL INSTITUTO DURANGUENSE DE LA JUVENTUD
 
@@ -455,9 +455,39 @@ XVIII. Promover la participación de las y los jóvenes para su desarrollo y el 
 
 XIX. Llevar a cabo acciones tendientes a elevar el nivel de la calidad de vida de las y los jóvenes e impulsar la equidad entre los sectores vulnerables de la juventud;
 
-XX. Impulsar el diseño de políticas integrales que incluyan la perspectiva generacional, y
+XX. Impulsar el diseño de políticas integrales que incluyan la perspectiva generacional, y (sic)
 
-XXI. Los demás que determine la presente Ley.
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXI. Apoyar a las instituciones educativas, poniendo especial énfasis en la información y prevención con relación a las diferentes temáticas y problemáticas de la juventud del Estado, en particular en temas como la ecología, la participación ciudadana, los valores, las adicciones, la sexualidad, las enfermedades venéreas, los embarazos no planeados, el bullying, la paternidad responsable, problemas psico-sociales, entre otros;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXII. Promover y estimular mediante programas conjuntos con la iniciativa privada, la contratación de jóvenes trabajadores de primer empleo;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXIII. Apoyar a los jóvenes en la búsqueda de programas de financiamiento bajo supervisión, que les permitan acceder a créditos sociales para el desarrollo de sus proyectos;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXIV. Promover la no discriminación en el empleo a las jóvenes embarazadas o en período de lactancia;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXV. Fomentar que los jóvenes con capacidades diferentes, participen en programas que les permita desarrollar habilidades para ser autosuficientes;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXVI. Promover y difundir mensajes educativos y de reconocimiento de los derechos y obligaciones de los jóvenes;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXVII. Facilitar la inserción de los jóvenes en los proyectos de desarrollo cultural; y
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXVIII. Los demás que determine la presente Ley.
 
 ###### ARTÍCULO 27.
 
@@ -565,7 +595,7 @@ IV. Delegar en los miembros de la Junta de Gobierno la ejecución y realización
 
 V. Las demás que establezcan las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 33.
 
@@ -667,7 +697,7 @@ III. Por diez representantes de organizaciones juveniles del Estado, y de los se
 
 Las autoridades y servidores públicos consideradas (sic) en la presente ley que incumplan con la misma, serán sujetos de responsabilidad, de conformidad con lo dispuesto por la Constitución Política de los Estados Mexicanos, la particular del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO VII. DEL RÉGIMEN DE TRABAJO
 
@@ -723,7 +753,7 @@ LIC. JOSE MIGUEL CASTRO CARRILLO.
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE DICIEMBRE DE 2005.
 
@@ -732,3 +762,9 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- En virtud del cambio de denominación del Instituto, las atribuciones que en materia de atención a la juventud correspondan actualmente al Instituto de la Juventud de Durango, las asumirá el Instituto de la Juventud Duranguense.
 
 Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
