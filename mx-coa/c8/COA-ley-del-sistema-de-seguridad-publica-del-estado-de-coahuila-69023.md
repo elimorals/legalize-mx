@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-19"
-last_updated: "2012-10-19"
+last_updated: "2014-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de junio de 2009.
 
@@ -151,7 +151,9 @@ X. Dependencias o instituciones: Las Subsecretarías, Subprocuradurías, direcci
 
 XI. Estado: El Estado de Coahuila de Zaragoza;
 
-XII. Fuerzas de seguridad pública estatales: Las corporaciones policiales de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XII. Fuerzas de seguridad pública estatales: Las corporaciones policiales de la Secretaría de Seguridad Pública, de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza y de la Procuraduría para Niños, Niñas y la Familia;
 
 XIII. Fuerzas de seguridad pública municipales: Las fuerzas de seguridad pública de los Municipios;
 
@@ -297,13 +299,21 @@ I. El Titular del Ejecutivo Estatal, quien lo presidirá;
 
 II. La Secretaría de Seguridad;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
 III. La Procuraduría;
 
-IV. Los Ayuntamientos, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-V. Los Consejos y Comités de Seguridad Pública
+IV. La Procuraduría para Niños, Niñas y la Familia
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+V. Los Ayuntamientos, y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+VI. Los Consejos y Comités de Seguridad Pública
 
 ### CAPÍTULO SEGUNDO. DE LAS BASES GENERALES DE LA COORDINACIÓN
 
@@ -549,11 +559,15 @@ La Secretaría de Seguridad, la Procuraduría y los municipios tienen la obligac
 
 Subsistema Estatal de Prevención Social de la Delincuencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 33.
 
 Dentro del Sistema Estatal de Seguridad Pública se establecerá el subsistema de prevención social de la delincuencia. El Centro Estatal de Prevención, es la autoridad competente para llevar a cabo las acciones previstas en esta ley y en los demás ordenamientos correspondientes en materia de prevención social de la violencia y la delincuencia.
 
-La Secretaría de Seguridad, la Procuraduría y los municipios incorporarán en el programa estatal y en los programas municipales de seguridad pública, los subprogramas necesarios para fomentar la cultura de la prevención de la violencia y la delincuencia y el desarrollo de los valores sociales.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
+La Secretaría de Seguridad, la Procuraduría, la Procuraduría para Niños, Niñas y la Familia y los municipios incorporarán en el programa estatal y en los programas municipales de seguridad pública, los subprogramas necesarios para fomentar la cultura de la prevención de la violencia y la delincuencia y el desarrollo de los valores sociales.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -589,9 +603,11 @@ El estado y los municipios concretizarán la práctica de los propósitos, fines
 
 Contenido
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 36.
 
-El programa estatal es el conjunto de acciones inmediatas, de mediano y largo plazo que en forma coordinada aprueban, operan y supervisan el Estado, a través de la Secretaría de Seguridad y la Procuraduría, y los municipios.
+El programa estatal es el conjunto de acciones inmediatas, de mediano y largo plazo que en forma coordinada aprueban, operan y supervisan el Estado, a través de la Secretaría de Seguridad, la Procuraduría, la Procuraduría para Niños, Niñas y la Familia, y los Municipios
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -605,11 +621,17 @@ El programa estatal se integra en el estado al Plan Estatal de Desarrollo, y en 
 
 Autoridad y término para la elaboración y aprobación de los programas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 38.
 
-El proyecto del programa estatal lo elaborará la Secretaría de Seguridad, integrando en lo conducente el proyecto que presente la Procuraduría General, y deberá presentarlo oportunamente al gobernador, para su aprobación, quien lo someterá a consideración del Consejo de Estado y lo dará a conocer al Consejo Estatal dentro de los primeros tres meses del año de ejercicio.
+El proyecto del programa estatal lo elaborará la Secretaría de Seguridad, integrando en lo conducente el proyecto que presente la Procuraduría General y la Procuraduría para Niños, Niñas y la Familia, y deberá presentarlo oportunamente al gobernador, para su aprobación, quien lo someterá a consideración del Consejo de Estado y lo dará a conocer al Consejo Estatal dentro de los primeros tres meses del año de ejercicio.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 Los proyectos de los programas municipales los elaborarán los consejos consultivos municipales y deberán presentarlo oportunamente a sus ayuntamientos, para que lo aprueben y propongan al Consejo Estatal para su evaluación dentro de los primeros tres meses del año de ejercicio.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 El incumplimiento en la elaboración, presentación y ejecución de los programas dará lugar a la imposición de las sanciones que el propio consejo estatal determine.
 
@@ -637,55 +659,63 @@ II. El Presidente del Tribunal Superior de Justicia del Estado;
 
 III. El titular de la Secretaría de Seguridad;
 
-IV. El titular de la Procuraduría;
+IV El titular de la Procuraduría;
 
-V. El titular de la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-VI. El titular de la Secretaría de Finanzas;
+V. Titular de la Procuraduría para Niños, Niñas y la Familia
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-VII. El titular de la Secretaría de Desarrollo Social;
+VI. El titular de la Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-VIII. El titular de la Secretaría de Salud;
+VII. El titular de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-IX. El titular de la Administración Fiscal General;
+VIII. El titular de la Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-X. Un representante del Congreso del Estado;
+IX. El titular de la Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-XI. El titular de la Subsecretaría de Políticas Públicas e información, quien será el Secretario Ejecutivo;
+X. El titular de la Administración Fiscal General;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-XII. Siete representantes de la sociedad civil;
+XI. Un representante del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-XIII. Un representante del consejo ciudadano de vinculación social;
+XII. El titular de la Subsecretaría de Políticas Públicas e información, quien será el Secretario Ejecutivo;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-XIV. Los presidentes municipales;
+XIII. Siete representantes de la sociedad civil;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-XV. El delegado de la Procuraduría General de la República;
+XIV. Un representante del consejo ciudadano de vinculación social;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-XVI. El comandante de la Sexta Zona Militar, y
+XV. Los presidentes municipales;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-XVII. El comandante de las Fuerzas Federales en el estado; (sic)
+XVI. El delegado de la Procuraduría General de la República;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XVII. El comandante de la Sexta Zona Militar, y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XVIII. El comandante de las Fuerzas Federales en el estado;
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -697,7 +727,9 @@ La junta organizará el proceso de selección y presentará al Congreso del Esta
 
 Sólo en caso debidamente justificado, el gobernador podrá hacerse representar por el Secretario de Gobierno, quien presidirá la sesión del consejo informando de inmediato el resultado al titular del ejecutivo. En ningún otro caso se admitirá suplencia.
 
-El consejo estatal podrá invitar, por la naturaleza de sus asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública y procuración de justicia. Dicha participación será con carácter honorífico. Así mismo, el presidente de la Comisión de Derechos Humanos del Estado de Coahuila, será invitado permanentemente de este consejo estatal. Estos últimos tendrán derecho a voz pero no a voto.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
+El consejo estatal podrá invitar, por la naturaleza de sus asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública y procuración de justicia. Dicha participación será con carácter honorífico. Así mismo, el presidente de la Comisión de Derechos Humanos del Estado de Coahuila de Zaragoza, será invitado permanentemente de este consejo estatal. Estos últimos tendrán derecho a voz pero no a voto.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -991,7 +1023,9 @@ VIII. El Director General de la Policía Investigadora;
 
 IX. El Titular de la Unidad Desconcentrada para la Ejecución de Penas y Reinserción Social;
 
-X. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2014)</small>
+
+X. Titular de la Procuraduría para Niños, Niñas y la Familia;
 
 XI. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
 
@@ -1205,15 +1239,27 @@ VII. Propiciar la participación de la ciudadanía en el análisis de la problem
 
 VIII. Las demás que le confieran esta ley, el reglamento interior y otros ordenamientos aplicables.
 
-> <small>(DEROGADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2014)</small>
 
-#### SECCIÓN SEXTA. DEL COORDINADOR GENERAL DE LA POLICÍA DEL ESTADO
+#### SECCIÓN SEXTA. DE LA PERSONA TITULAR DE LA PROCURADURÍA PARA NIÑOS, NIÑAS Y LA FAMILIA
 
-Atribuciones y deberes del Coordinador General
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 70.
 
-(DEROGADO, P.O. 8 DE ABRIL DE 2012)
+Son atribuciones y deberes de la persona titular de la Procuraduría para Niños, Niñas y la Familia, además de las previstas en la Constitución del Estado y la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza:
+
+I. Supervisar en el área de su competencia la elaboración del proyecto y ejecución del Programa Estatal;
+
+II. Coordinar, dirigir y supervisar la ejecución del Programa Estatal en el área de su competencia;
+
+III. Formar parte del Sistema y del Consejo Estatal de Seguridad Pública;
+
+IV. Cumplir y hacer cumplir los programas, acciones y disposiciones del Sistema Estatal;
+
+V. Hacer observar el Programa Rector de Profesionalización;
+
+VI. Las demás que le confieran las demás disposiciones legales aplicables.
 
 #### SECCIÓN SÉPTIMA. DE LA UNIDAD DESCONCENTRADA DE EJECUCIÓN DE PENAS Y REINSERCIÓN SOCIAL
 
@@ -1321,17 +1367,25 @@ Las atribuciones y obligaciones de las fuerzas de seguridad pública son las est
 
 Fuerzas públicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 78.
 
-Son fuerzas de seguridad pública estatales:
+Son fuerzas de seguridad pública estatal:
 
 I. En la prevención especial y general del delito y para sancionar las faltas administrativas:
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
-1. La Policía Operativa del Estado, la cual tendrá competencia en todo el territorio, y
+1. La Policía Operativa del Estado, la cual tendrá competencia en todo el territorio;
 
-2. Las Policías Preventivas Municipales con competencia en las circunscripciones territoriales que les correspondan.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
+2. El Cuerpo Especializado de Seguridad Pública de la Procuraduría para Niños, Niñas y la Familia; y
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+3. Las Policías Preventivas Municipales con competencia en las circunscripciones territoriales que les correspondan.
 
 II. En la investigación y persecución del delito, como auxiliares del Ministerio Público:
 
@@ -1361,13 +1415,17 @@ Estructura
 
 La Policía del Estado para el cumplimiento de sus atribuciones se conformará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-I. Policía Operativa, y
+I. Policía Operativa;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-II. Policía Investigadora.
+II. Policía Investigadora; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+III. Cuerpo Especializado de Seguridad Pública de la Procuraduría para Niños, Niñas y la Familia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -3141,13 +3199,15 @@ Se prohíbe la expedición y el uso de credenciales metálicas.
 
 Autorización de las credenciales
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 231.
 
-Todas las credenciales deberán de firmarse por el Secretario de Seguridad o por el Procurador General, según corresponda, y en su caso, por el titular de la licencia oficial colectiva para uso de armas de fuego, expedida por la Secretaría de la Defensa Nacional. Sin ese requisito no tendrán validez oficial.
+Todas las credenciales deberán de firmarse por el Secretario de Seguridad, por el Procurador General o por la persona titular de la Procuraduría para Niños, Niñas y la Familia, según corresponda, y en su caso, por el titular de la licencia oficial colectiva para uso de armas de fuego, expedida por la Secretaría de la Defensa Nacional. Sin ese requisito no tendrán validez oficial.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 Las credenciales deberán ser firmadas también por los siguientes funcionarios:
-
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
 I. Tratándose del personal de la policía del estado por el Subsecretario de Operación Policial o por el Subprocurador Ministerial, según corresponda, y por el agente de policía;
 
@@ -3447,9 +3507,11 @@ Las relaciones laborales de los servidores públicos del estado, en materia de s
 
 Autoridad estatal competente
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 265.
 
-La Dirección General de Responsabilidades de la Procuraduría, y el órgano interno que se designe en el Reglamento Interior de la Secretaria de Seguridad Pública, serán los responsables, en el ámbito de su competencia, de vigilar que todos los servidores públicos, cumplan cabalmente con las obligaciones que les correspondan y de ejercer los derechos y acciones a que haya lugar.
+La Dirección General de Responsabilidades de la Procuraduría, el órgano interno que se designe en el Reglamento Interior de la Secretaria de Seguridad Pública y el órgano de control interno de la Procuraduría para Niños, Niñas y la Familia, serán los responsables, en el ámbito de su competencia, de vigilar que todos los servidores públicos, cumplan cabalmente con las obligaciones que les correspondan y de ejercer los derechos y acciones a que haya lugar.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -3491,9 +3553,11 @@ Las personas al servicio de los municipios no tendrán ningún derecho ni acció
 
 Normatividad
 
-###### ARTÍCULO 270.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
-Las relaciones de los agentes del Ministerio Público, los policías y peritos de la Procuraduría, así como los policías de la Secretaría de Seguridad son de naturaleza administrativa y se regirán por lo dispuesto en la fracción XIII, apartado "B" del artículo 123 de la constitución general, en la ley de procuración de justicia, el reglamento interior y demás disposiciones aplicables.
+###### Artículo 270.
+
+Las relaciones de los agentes del Ministerio Público, los policías y peritos de la Procuraduría, así como los policías de la Secretaría de Seguridad y el cuerpo especializado de seguridad pública de la Procuraduría para Niños, Niñas y la Familia, son de naturaleza administrativa y se regirán por lo dispuesto en la fracción XIII, apartado "B" del artículo 123 de la constitución general, en la ley de procuración de justicia, el reglamento interior y demás disposiciones aplicables.
 
 ###### ARTÍCULO 271.
 
@@ -3589,9 +3653,11 @@ Las instituciones de seguridad pública estatales y municipales, conforme a lo d
 
 Obligatoriedad
 
-###### ARTÍCULO 282.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
-Todo el personal de la Secretaría de Seguridad, de la Procuraduría y de seguridad pública de los municipios están obligados (sic) a someterse al proceso de evaluación y certificación de confianza, en los términos de las disposiciones.
+###### Artículo 282.
+
+Todo el personal de la Secretaría de Seguridad, de la Procuraduría, de la Procuraduría para Niños, Niñas y la Familia y de seguridad pública de los municipios están obligados a someterse al proceso de evaluación y certificación de confianza, en los términos de las disposiciones.
 
 Periodicidad
 
@@ -3715,9 +3781,11 @@ En dicho ordenamiento también se regularán las consecuencias de la no presenta
 
 Legislación aplicable
 
+> <small>(REFORMADO, P.O. 18 DE MARZO 2014)</small>
+
 ###### ARTÍCULO 292.
 
-Todas las personas al servicio de la Secretaría de Seguridad para garantizar que cumplan sus funciones de manera objetiva, imparcial, profesional, transparente, responsable, eficiente y honesta, independientemente de que sus relaciones sean administrativas o laborales, están sujetas al régimen de responsabilidades administrativas, instituido y regulado por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza. Por lo que hace a los integrantes de la Procuraduría, se sujetarán a las disposiciones de la Ley de Procuración de Justicia.
+Todas las personas al servicio de la Secretaría de Seguridad y de la Procuraduría para Niños, Niñas y la Familia para garantizar que cumplan sus funciones de manera objetiva, imparcial, profesional, transparente, responsable, eficiente y honesta, independientemente de que sus relaciones sean administrativas o laborales, están sujetas al régimen de responsabilidades administrativas, instituido y regulado por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza. Por lo que hace a los integrantes de la Procuraduría, se sujetarán a las disposiciones de la Ley de Procuración de Justicia.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -4018,3 +4086,9 @@ P.O. 19 DE OCTUBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE MARZO 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
