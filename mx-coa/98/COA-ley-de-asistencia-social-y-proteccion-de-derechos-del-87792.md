@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2012-11-20"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -71,7 +71,9 @@ II. La Secretaria. La Secretaría de Salud.
 
 III. El Organismo. El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza. Al Organismo también se le podrá denominar DIF COAHUILA.
 
-IV. La Procuraduría. La Procuraduría de la Familia y Protección de Derechos.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+IV. La Procuraduría: La Procuraduría para Niños, Niñas y la Familia.
 
 V. Asistencia Social: Conjunto de acciones del gobierno y la sociedad dirigidas a las personas en situación de vulnerabilidad y sus familias, para favorecer sus capacidades y el ejercicio de sus derechos encaminadas a una vida plena y productiva dentro de un marco de corresponsabilidad, temporalidad y selectividad.
 
@@ -83,9 +85,39 @@ VIII. Personas en situación de vulnerabilidad: Aquellas que por diversas circun
 
 ### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### Artículo 4.
 
-El Sistema Estatal de Asistencia Social se integra por las dependencias y entidades de la administración pública, tanto estatal como municipal, y por las personas físicas o morales de los sectores social y privado que presten servicios de asistencia social.
+El Sistema Estatal de Asistencia Social y Protección de Derechos se integra por las dependencias y entidades de la administración pública, tanto estatal como municipal, y por las personas físicas o morales de los sectores social y privado que presten servicios de asistencia social.
+
+El Organismo actuara como entidad rectora del Sistema Estatal de Asistencia Social y Protección de Derechos para garantizar el cumplimiento de las disposiciones de la presente ley.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+Artículo 4 bis.- Con el objetivo de mejorar las acciones encaminadas a la asistencia social, se crea la Unidad de Evaluación y Seguimiento para la Protección de Derechos como auxiliar del Organismo, que a través de su titular tendrá las siguientes facultades:
+
+I. Auxiliar al organismo en las actividades de seguimiento y evaluación de las acciones encaminadas a la asistencia social y la protección de derechos, con la finalidad de determinar su eficacia y mejorar la calidad de los servicios;
+
+II. Diagnosticar y evaluar el impacto social de las acciones de asistencia social y los beneficios que generan;
+
+III. Hacer saber al Organismo los resultados obtenidos de las actividades y la evolución de las acciones de asistencia social;
+
+IV. Contribuir para que la actuación de las dependencias y entidades públicas estatales y municipales así como de las personas físicas o morales del sector social o privado del Sistema se realicen con apego a la ley;
+
+V. Elaborar informes que permitan identificar áreas de oportunidad en materia de asistencia social y protección de derechos;
+
+VI. Llevar a cabo las acciones de seguimiento y evaluación que el Organismo le ordene;
+
+VII. Promover y asegurar el enfoque de asistencia social en los programas y acciones de las dependencias y entidades públicas del Estado;
+
+VIII. Elaborar un plan de trabajo, encaminado a normar su actuación como área auxiliar del Organismo;
+
+IX. Dirigir y organizar el Sistema Estatal de Información para la Asistencia Social y Protección de Derechos regulado en el artículo 47 de la presente Ley;
+
+X. Fungir como Secretaría Técnica del Consejo Técnico de Adopciones;
+
+XI. Las demás que se desprendas de la Ley o su reglamento.
 
 ###### Artículo 5.
 
@@ -757,6 +789,8 @@ VI. La información relativa a la cancelación del reconocimiento otorgado a las
 
 ### CAPÍTULO PRIMERO. DEL OBJETO Y ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### Artículo 49.
 
 Cada uno de los municipios de la entidad contará con un organismo descentralizado que tendrá por objeto proporcionar asistencia social en el ámbito municipal que corresponda, así como llevar a cabo la realización de todas aquellas actividades relacionadas con esa materia.
@@ -769,297 +803,181 @@ II. Una Dirección General, cuyo titular será designado por la Junta de Gobiern
 
 La Junta de Gobierno podrá designar un Presidente Honorario que no formará parte de la misma para los efectos de las atribuciones y obligaciones que las disposiciones legales le asignen, pero podrá participar en las sesiones y eventos especiales que se verifiquen, con voz pero sin voto.
 
-## TÍTULO TERCERO. DE LA PROCURADURÍA DE LA FAMILIA Y PROTECCIÓN DE DERECHOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2014)</small>
+
+## TÍTULO TERCERO. DE LA PROCURADURÍA PARA NIÑOS, NIÑAS Y LA FAMILIA
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA PROCURADURÍA DE LA FAMILIA Y PROTECCIÓN DE DERECHOS
 
 ###### Artículo 50.
 
-La Procuraduría de la Familia es la institución dependiente del organismo, que cuenta con autonomía técnica y de gestión; cuyo objeto es brindar orientación, asistencia jurídica, defensa, protección y vigilancia para garantizar los derechos de las personas sujetas a asistencia social.
+La Procuraduría para Niños, Niñas y la Familia es el organismo público centralizado de la administración pública del Estado cuyo objeto y atribuciones, además de lo establecido en la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza, son brindar orientación, asistencia jurídica, defensa, protección y vigilancia para garantizar los derechos de las personas sujetas a asistencia social conforme a la presente Ley.
 
 ###### Artículo 51.
 
-La Procuraduría será gestora del bienestar de la familia y velará por la protección de sus intereses y por mejorar las relaciones entre sus miembros, con la finalidad de lograr su integración armónica.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 52.
 
-Para el cumplimiento de su objeto, la Procuraduría tendrá las siguientes atribuciones:
-
-I. La protección de los derechos de la población vulnerable y su familia, en el ámbito de su competencia;
-
-II. Realizar diagnósticos sociales, en coordinación con las autoridades competentes, para la detección de indicadores de violencia y victimización;
-
-III. Coadyuvar con la prevención y erradicación de la violencia familiar;
-
-IV. Recibir todo reporte respecto a menores en situación extraordinaria, así como de personas adultas mayores, personas con discapacidad, incapaces, mujeres o cualquier otro integrante de una familia que sea sujeto de violencia, maltrato o abandono;
-
-V. Establecer los programas y mecanismos administrativos procedentes para la prevención y atención especializada de la violencia familiar, violencia escolar y de menores en situación extraordinaria;
-
-VI. Promover ante la autoridad judicial los procedimientos de guarda y custodia, pérdidas de patria potestad y adopción de menores institucionalizados, en los términos previstos en el Código Civil y de Procedimientos Civiles para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables;
-
-VII. Aplicar preferentemente medios alternos de solución de controversias ante situaciones que afecten el bienestar de los niños, niñas y adolescentes y la familia, salvo cuando se trate de violencia familiar o abuso sexual en cualquiera de sus modalidades;
-
-VIII. Solicitar ante las autoridades administrativas y judiciales las medidas inmediatas necesarias, para la atención y protección de los derechos de los menores, en los casos que así lo señale la ley;
-
-IX. Proporcionar asesoría jurídica y orientación a las personas que sean objeto de violencia familiar y en general en todos los asuntos de controversias familiares;
-
-X. Coadyuvar en la vigilancia del cumplimiento de las disposiciones laborales aplicables a menores y adolescentes;
-
-XI. Promover, dirigir y coordinar programas y campañas tendientes a la protección de los derechos de los menores y la familia, previniendo en los primeros situaciones de institucionalización;
-
-XII. Proteger el derecho a la identidad de los menores que estén bajo la custodia del organismo, mediante la realización de los trámites necesarios ante las autoridades del registro civil;
-
-XIII. Vigilar que los menores concurran a su educación básica, exhortando a sus padres, tutores o custodios para que los inscriban y los hagan asistir;
-
-XIV. Colaborar con los Sistemas Federal, Estatales y Municipales para el Desarrollo Integral de la Familia, en los términos de la presente ley;
-
-XV. Investigar, en el ámbito de su competencia, los reportes de maltrato, violencia familiar, violencia escolar y de omisión de cuidado a grupos vulnerables;
-
-XVI. Interponer denuncias o querellas, en representación de menores, ante la falta o negativa de a quien legalmente corresponda, en los términos de las disposiciones aplicables;
-
-XVII. Realizar visitas de supervisión a las diferentes instituciones públicas y privadas que alberguen o brinden cuidados alternativos o atiendan a niños, niñas y adolescentes en el estado;
-
-XVIII. Fungir como organismo auxiliar de la administración de justicia del estado;
-
-XIX. Realizar los estudios psicosociales en los juicios de adopción;
-
-XX. Determinar, en casos urgentes, las medidas provisionales de protección y asistencia de niños, niñas y adolescentes en situación de (sic) extraordinaria;
-
-XXI. Determinar el egreso de los niños, niñas y adolescentes que se encuentran bajo su custodia;
-
-XXII. Ordenar la comparecencia, mediante citatorios, de las personas que sean parte de controversias familiares presentadas ante esta institución;
-
-XXIII. Solicitar al Ministerio Publico y a la Secretaría de Salud la práctica de exámenes médicos o psicológicos necesarios para determinar si un menor se encuentra en situación extraordinaria, y
-
-XXIV. Las demás que le confieran ésta y otras disposiciones aplicables.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE ACTUACIÓN DE LA PROCURADURÍA DE LA FAMILIA Y PROTECCIÓN DE LOS DERECHOS
 
 ###### Artículo 53.
 
-La Procuraduría se integra:
-
-I. Por un Procurador o Procuradora;
-
-II. Por Delegaciones Regionales;
-
-III. Por áreas de Adopción, Jurídica, Trabajo Social y Psicológica, y
-
-IV. El demás personal técnico y administrativo necesario.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 54.
 
-El titular del Poder Ejecutivo Estatal designará y removerá libremente a la persona encargada de la Procuraduría.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 55.
 
-Las personas a que se refiere el artículo 53 fracciones I, II y III del presente ordenamiento deberán satisfacer los siguientes requisitos:
-
-I. Contar con nacionalidad mexicana y encontrarse en pleno goce de sus derechos civiles y políticos;
-
-II. Tener título de Licenciado en Derecho y cédula profesional;
-
-III. Ser de reconocida honorabilidad, y
-
-IV. Tener conocimiento y experiencia en asuntos de índole familiar.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 56.
 
-Quien sea titular de la Procuraduría ejercerá las atribuciones enunciadas en esta ley y distribuirá las que corresponda al personal a su cargo.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 57.
 
-La persona encargada de la Procuraduría tendrá las facultades y obligaciones siguientes:
-
-I. Elaborar el plan de trabajo integral de la Procuraduría, de acuerdo al Plan Estatal de Desarrollo y velar por su ejecución;
-
-II. Elaborar los programas de detección, prevención y atención de la violencia familiar y violencia escolar;
-
-III. Promover y celebrar convenios de colaboración con el Poder Judicial del Estado, la Procuraduría General de Justicia del Estado, la Defensoría de Oficio Estatal y Federal, las Universidades Públicas y Privadas, Colegios y Barras de Abogados, así como otras instituciones, dependencias o asociaciones afines con el propósito de que faciliten a la Procuraduría apoyos técnicos y humanos para el mejor desempeño de sus funciones;
-
-IV. Coordinar las funciones a cargo de la Procuraduría y las labores de las áreas que la componen;
-
-V. Informar en forma periódica a la Dirección General del organismo, del despacho general de los asuntos de su competencia, así como rendir los informes que le sean solicitados en cualquier tiempo;
-
-VI. Adoptar las medidas que juzgue pertinentes para el eficaz y eficiente desarrollo de las actividades de la Procuraduría;
-
-VII. Designar, en caso de ausencia, falta o excusa de las personas titulares de las Delegaciones Regionales, quien temporalmente desempeñará las funciones inherentes al cargo;
-
-VIII. Dirigir, coordinar, supervisar y evaluar el desempeño y funcionamiento de las unidades administrativas que le estén adscritas;
-
-IX. Ordenar las visitas de supervisión interna y externa que le competen a la Procuraduría;
-
-X. Proponer al personal técnico y administrativo adscrito a la Procuraduría;
-
-XI. Participar en los procesos de selección del personal de la Procuraduría o de cualquier otro servicio público correspondiente a la dependencia a su cargo;
-
-XII. Conocer y resolver sobre los asuntos relacionados con menores de doce años, quienes hayan realizado una conducta tipificada por las leyes penales como delito;
-
-XIII. Solicitar el uso de fuerza pública en los casos que se requiera;
-
-XIV. Fungir como secretario técnico del consejo de adopciones;
-
-XV. Proponer el reglamento interno de la Procuraduría, y
-
-XVI. Las demás que le confiera el presente ordenamiento y otras disposiciones aplicables.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 58.
 
-Quienes estén a cargo de las Delegaciones Regionales, ejercerán las mismas atribuciones que quien sea titular de la Procuraduría, siempre que sean compatibles con su cargo, pero en todo caso estarán sujetos a las instrucciones que reciban del mismo.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
-###### Artículo 59.
+###### Articulo 59.
 
-Las actuaciones practicadas por las personas encargadas de la Procuraduría y de las Delegaciones Regionales, en ejercicio de sus atribuciones, tendrán el valor que se le otorga a los testimonios investidos de fe pública.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 60.
 
-El personal de la Procuraduría está obligado a guardar absoluta discreción y reserva acerca de los asuntos que en ella se traten.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ### CAPÍTULO CUARTO. DE LAS SANCIONES
 
 ###### Artículo 61.
 
-Los servicios que presta la Procuraduría son gratuitos. En los procedimientos prevalecerán los principios de interés superior del menor, de protección de derechos de la familia, oralidad, economía procesal, inmediatez y de solución anticipada de conflictos.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 62.
 
-Las denuncias o quejas ante la Procuraduría podrán realizarse por cualquier medio.
-
-El reporte que para tales efectos levante la Procuraduría consignará cuando sea posible, la conducta denunciada y las circunstancias de su realización, el nombre, edad, domicilio, vínculos familiares o de otro tipo existente entre las personas involucradas y todos aquellos datos que consideren necesarios para la integración del caso.
-
-La Procuraduría garantizará, en todo momento, el resguardo de la identidad de quien presente una denuncia o aporte datos que coadyuven en la investigación de la misma, si así lo solicitaré.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 63.
 
-Una vez recibido el reporte, la Procuraduría ordenará de manera inmediata las medidas que sean pertinentes para su investigación, otorgando la atención y asistencia necesarias.
-
-En caso de no ser competente para conocer de la misma, se canalizará ante la autoridad correspondiente.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 64.
 
-La Procuraduría podrá girar citatorios, realizar investigaciones e implementar las acciones necesarias para constatar los hechos denunciados, para lo cual se apoyará de las autoridades competentes.
-
-La Procuraduría deberá levantar acta circunstanciada de las diligencias que lleve a cabo para la investigación de cada uno de los casos, y recabará las pruebas fehacientes que fueren necesarias para dar cumplimiento a lo dispuesto en esta ley.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 #### SECCIÓN PRIMERA. ATENCIÓN Y PROTECCIÓN A NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN EXTRAORDINARIA
 
 ###### Artículo 65.
 
-La Procuraduría y las Delegaciones Regionales, en su caso, deberán recibir todo reporte de maltrato o abandono de niñas, niños y adolescentes que se les presenten.
-
-Los directores y el personal encargado de los centros de salud, educativos, albergues, guarderías, estancias infantiles, tutelares o cualquier otro sitio donde permanezcan, se atienda o se le preste algún servicio a niñas, niños y adolescentes, sean públicos o privados, están obligados a reportar cualquier situación extraordinaria respecto a los mismos.
-
-Recibido el reporte procederán a su investigación.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 66.
 
-Para determinar si el menor se encuentra en riesgo o en situación extraordinaria conforme a esta ley, la Procuraduría solicitará a los departamentos de trabajo social y psicología, la práctica de los exámenes psicosociales necesarios.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 67.
 
-La Procuraduría podrá, por acuerdo de su titular o, en su caso, de quienes ocupen las Delegaciones Regionales, separar preventivamente al menor de la situación considerada como de riesgo o extraordinaria y, en su caso, de su hogar o de quien ejerza la patria potestad, tutela o guarda y custodia legal o de hecho, cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro inminente e inmediato a su seguridad o salud, aún cuando no se hayan concluido las investigaciones a que se refiere el artículo anterior.
-
-Al llevar a cabo la medida a que se refiere este artículo, la Procuraduría deberá notificarla a las autoridades judiciales correspondientes, acompañando de (sic) las constancias respectivas, en un plazo que no excederá de setenta y dos horas, a efecto de que dicha medida sea ratificada, en su caso, por aquéllas.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 68.
 
-El Estado, a través de los encargados de los centros con que el organismo cuente para ello, ejercerá la guarda y custodia de las niñas, niños y adolescentes en las instalaciones de asistencia pública o privada, así como en hogares provisionales que determine para tal efecto, privilegiando cuando esto sea posible que los hermanos queden juntos, en tanto no se resuelva en definitiva la situación jurídica.
-
-El personal de la Procuraduría realizará visitas periódicas a los lugares a que se refiere el párrafo que antecede, a efecto de vigilar la atención y cuidados que se brinden a niñas, niños y adolescentes, pudiendo llevar a cabo las acciones conducentes a su protección y salvaguarda.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 69.
 
-Toda persona o institución que tenga bajo su custodia o cuidado a niñas, niños y adolescentes en situación extraordinaria, deberán permitir el contacto del personal de la Procuraduría con los mismos y deberán presentarlos para las entrevistas y diligencias que deban llevarse a cabo, bajo apercibimiento de que en caso de no cumplir con lo anterior se hará el retiro del menor, sin perjuicio de la (sic) demás responsabilidades administrativas, civiles y penales en que pueda incurrir.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 70.
 
-La autoridad judicial en el caso a que se refiere el artículo 71 de esta ley, dentro de un plazo que no exceda de quince días contados a partir de la fecha de presentación de la solicitud, deberá ratificar la medida de la Procuraduría o, en su caso, resolver sobre la reincorporación a su núcleo familiar.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 71.
 
-Para la investigación de la situación extraordinaria en que se encuentren las niñas, niñas y adolescentes, la Procuraduría realizará todas las acciones conducentes para el esclarecimiento del caso, pudiendo solicitar tratándose de notoria urgencia y bajo su responsabilidad, el auxilio de la fuerza pública para la seguridad en la práctica de sus diligencias.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 72.
 
-En caso de oposición de particulares para que se lleve a cabo una medida de protección a un menor en situación de riesgo o extraordinaria, la Procuraduría podrá solicitar al juez competente lleve a cabo tales acciones, en los términos de las disposiciones legales aplicables.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 73.
 
-La Procuraduría procederá a solicitar a la autoridad judicial competente la pérdida de la patria potestad, si la situación de riesgo extraordinario persiste durante los noventa días posteriores a la ratificación de la medida.
-
-Determinada la imposibilidad de reincorporación al núcleo familiar y habiendo resolución de la autoridad judicial competente sobre la pérdida de la patria potestad, la Procuraduría podrá iniciar el procedimiento de adopción correspondiente, previa opinión del Consejo Técnico de Adopciones, en los términos de esta ley y demás disposiciones aplicables.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 74.
 
-La Procuraduría, con independencia de las medidas urgentes que lleve a cabo, deberá solicitar a la autoridad judicial competente de vista al Ministerio Publico de hechos posiblemente constitutivos de delito.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 #### SECCIÓN SEGUNDA. DE LOS PROCEDIMIENTOS DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS
 
 ###### Artículo 75.
 
-La mediación y la conciliación familiar constituyen la vía preferente para resolver de manera extrajudicial los conflictos sobre derechos y obligaciones en materia familiar que sean planteados al organismo y que no se trate de violencia familiar, abuso sexual en cualquiera de sus modalidades ni asuntos que por su naturaleza deban ser resueltos de manera exclusiva por la autoridad judicial, de conformidad con lo dispuesto en la Ley de Medios Alternos de Solución de Controversias para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 76.
 
-Antes de iniciar el procedimiento de que se trate, se informará a las partes del contenido y alcance de esta ley y de la ley de la materia, así como de los derechos que le asisten y de los procedimientos administrativos, civiles o penales que existan en la materia.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 77.
 
-El procedimiento se iniciará a petición de una de las partes o de ambas. Tratándose de los casos en que sea una de las partes quien lo solicite se deberá indicar brevemente las causas que motiven la solicitud.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 78.
 
-Las Delegaciones Regionales girarán invitación por vía escrita, telefónica o por medios electrónicos según proceda, en el que se indicará lugar, fecha y hora para que participe en un procedimiento de mediación familiar.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 79.
 
-La intervención de las Delegaciones Regionales o funcionarios que lleven a cabo la sesión respectiva, se limitará a estimular a las partes para desarrollar posibles soluciones, a proponer alternativas de solución y a la formulación, en su caso, del convenio respectivo que ponga fin al conflicto.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 80.
 
-En caso de incumplimiento de las obligaciones y deberes establecidos en el convenio, según sea el caso, se solicitará a la autoridad judicial competente su ejecución, de conformidad con lo dispuesto en la Ley de Medios Alternos de Solución de Controversias para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 81.
 
-Si las partes no lograran resolver sus controversias, se les hará saber de las instancias correspondientes y, en todo caso, sus derechos quedarán a salvo para ejercerlos por la vía conducente.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 #### SECCIÓN TERCERA. ATENCIÓN A MENORES DE 12 AÑOS EN CONFLICTO CON LA LEY
 
 ###### Artículo 82.
 
-Los menores de doce años de edad a quienes se les impute la comisión de una conducta tipificada por las leyes penales como delito, serán sujetos de rehabilitación y asistencia social a través del Organismo por conducto de la Procuraduría, de conformidad con lo establecido en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y en los artículos 3 y 4 de la Ley de Justicia para Adolescentes del Estado de Coahuila de Zaragoza.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 83.
 
-Para los efectos de esta ley, la edad del menor se comprobará con el acta respectiva expedida por las autoridades del registro civil. De no ser esto posible, se acreditará por medio de dictamen médico rendido por perito adscrito a la Procuraduría General de Justicia del Estado.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 84.
 
-La Procuraduría recibirá denuncias y canalizaciones referentes a menores de doce años a quienes se les atribuya la comisión de una conducta tipificada por las leyes penales como delito.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 85.
 
-La Procuraduría llevará a cabo los procedimientos a que se refiere este capítulo en vía de justicia restaurativa.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 86.
 
-La Procuraduría citará a quien ejerza la patria potestad, tutela o guarda y custodia legal o de hecho del menor en compañía del mismo, así como al denunciante u ofendido, con la finalidad de que los segundos expresen de manera libre y en un ambiente seguro y de respeto el impacto que la conducta atribuida al menor ocasionó en la vida de estos y concientizarlos de la importancia de reparar el daño causado.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 87.
 
-En la diligencia a que se refiere el artículo anterior, la Procuraduría informará a quienes ejerzan la patria potestad, guarda y custodia o tutela de la conducta tipificada por las leyes penales como delito que se le imputa al menor, así como, de los elementos de convicción con que se cuente.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 88.
 
-Una vez concluido satisfactoriamente el procedimiento al que se sujetaren las partes, la Procuraduría tendrá a su disposición el convenio o en su caso la resolución respectiva, para que ante su incumplimiento y a solicitud de la parte interesada sea remitido al juez civil competente.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 89.
 
-La Procuraduría canalizará a las familias y menores a que se refiere el artículo 86 de la presente ley, a terapia psicológica o programas de orientación de acuerdo a la problemática presentada.
-
-Lo anterior con independencia de que la Procuraduría pueda realizar las investigaciones que considere pertinentes para determinar si el menor o los menores involucrados se encuentren en situación extraordinaria.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 #### SECCIÓN CUARTA. PROCESO ADMINISTRATIVO DE ADOPCIONES DE MENORES INSTITUCIONALIZADOS
 
@@ -1069,11 +987,11 @@ Es facultad del organismo, a través del Consejo Técnico de Adopciones, conocer
 
 ###### Artículo 91.
 
-En el proceso administrativo, las Delegaciones Regionales deberán integrar el expediente respectivo que contenga la documentación requerida por el área de adopciones, así como los estudios psicosociales realizados por personal adscritos al organismo y la constancia de asistencia al Curso Taller de Padres Adoptivos.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 92.
 
-Una vez integrado el expediente, las Delegaciones Regionales lo remitirán al área de adopciones del organismo, a fin de registrar su solicitud de adopción.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 93.
 
@@ -1089,7 +1007,7 @@ Concluida la fase anterior se llevarán a cabo las convivencias entre ambos con 
 
 ###### Artículo 96.
 
-La Procuraduría, una vez concluido el procedimiento judicial, realizará el seguimiento que establece el Código Civil, con la finalidad de verificar que el menor ha logrado su integración plena a su nuevo núcleo familiar.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ### CAPÍTULO QUINTO. DE LAS RELACIONES LABORALES DEL ORGANISMO
 
@@ -1204,3 +1122,9 @@ P.O. 20 DE NOVIEMBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo previsto en este Decreto.
+
+P.O. 18 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
