@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2009-05-12"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA FAMILIAR
 
-LEY DE PREVENCION, ASISTENCIA Y ATENCION DE LA VIOLENCIA FAMILIAR
+LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -69,7 +69,7 @@ La atención especializada que se proporcione en materia de violencia familiar p
 
 La aplicación de esta Ley en el ámbito de sus respectivas competencias:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 I. Al Poder Ejecutivo a través de:
 
@@ -107,9 +107,11 @@ d) Los Jueces de Primera Instancia en Materia Familiar.
 
 IV. A los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### Artículo 7.
 
-Para los efectos de esta ley, la Procuraduría de la Familia, las Delegaciones de la misma y las Unidades de Atención, podrán actuar con el carácter de Autoridades para decretar custodias de emergencia; separaciones provisionales o preventivas del seno familiar; medidas de apremio; cauciones de no ofender con cargo a las personas generadoras de violencia familiar; prohibición para ir a lugar determinado o residir en él; imponer sanciones administrativas y en los demás casos en que la ley les autorice.
+Para los efectos de esta ley, la Procuraduría de la Familia, las Delegaciones de la misma y las Unidades de Atención, podrán actuar con el carácter de autoridades para decretar custodias de emergencia; separaciones provisionales o preventivas del seno familiar; medidas de apremio; prohibición para ir a lugar determinado o residir en él; imponer sanciones administrativas y en los demás casos en que la ley les autorice.
 
 ###### Artículo 8.
 
@@ -129,7 +131,11 @@ III. "Junta Directiva": La Junta Directiva para la Prevención, Asistencia y Ate
 
 IV. "Consejos Regionales": Los órganos político administrativos establecidos en las diferentes regiones del Estado, para la prevención, asistencia y atención de la violencia familiar.
 
-V. "Unidades de Atención": Las instancias, de la administración pública establecidas en las cabeceras municipales, encargadas de prevenir la violencia, asistir y atender a las personas receptoras y generadoras de violencia familiar, en los términos que establezca el programa general. Tendrán a su cargo la dirección de los procedimientos de mediación, conciliatorios y amigable composición, así como la ejecución, en su caso, de las medidas requeridas para hacer cesar y erradicar la violencia familiar.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+V. “Unidades de Atención”: Las instancias, de la administración pública establecidas en las cabeceras municipales, encargadas de prevenir la violencia, asistir y atender a las personas receptoras y generadoras de violencia familiar, en los términos que establezca el programa general.
+
+Tendrán a su cargo la dirección de los procedimientos de mediación y conciliación, así como la ejecución, en su caso, de las medidas requeridas para hacer cesar y erradicar la violencia familiar.
 
 VI. "DIF": El Sistema para el Desarrollo Integral de la Familia.
 
@@ -191,17 +197,19 @@ XII. "Mediación": Procedimiento no adversarial, informal, voluntario, confidenc
 
 XIII. "Conciliación": El arreglo amistoso de un conflicto familiar por las partes, a su propia iniciativa, mediante la conducción de un conciliador que limitará su intervención a la propuesta de alternativas de solución y a la formulación, en su caso, del convenio que le ponga fin al conflicto.
 
-XIV. "Amigable composición": El arreglo de un conflicto de intereses entre las partes, provocado por actos de violencia familiar, mediante la intervención de un tercero amigable componedor, a través de procedimientos sencillos, sin sujeción estricta a normas de derecho, y mediante una decisión fundada en la equidad y en la confianza.
+XIV. (DEROGADA, P.O. 18 DE MARZO DE 2014)
 
-XV. "Procedimientos en casos de violencia familiar": Los de mediación, conciliación y amigable composición, que se instruyen por las Unidades de Atención.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-XVI. "Procesos en casos de violencia familiar": El que se tramita ante un Juez de Primera Instancia en materia Familiar, en los términos previstos por el Código Procesal Civil para el Estado.
+XV. “Procedimientos en casos de violencia familiar”: Los de mediación y conciliación, que se instruyen por las Unidades de Atención.
 
-XVII. "Sanciones": Las que aplica la Procuraduría de la Familia, sus delegaciones y las unidades de atención, por las infracciones previstas en esta ley.
+XVI. (DEROGADA, P.O. 18 DE MARZO DE 2014)
 
-XVIII. "Caución de no ofender": Medida impuesta a una persona por las autoridades a que se refiere la fracción anterior, para prevenir que pueda incurrir en nuevos hechos de violencia familiar.
+XVII. (DEROGADA, P.O. 18 DE MARZO DE 2014)
 
-XIX. "Ley": La Ley de Prevención, Asistencia y Atención de la Violencia Familiar.
+XVIII. (DEROGADA, P.O. 18 DE MARZO DE 2014)
+
+XIX. (DEROGADA, P.O. 18 DE MARZO DE 2014)
 
 ## TITULO SEGUNDO. DE LA COORDINACION DE LAS ACCIONES PUBLICAS Y PRIVADAS
 
@@ -279,13 +287,13 @@ Estos Consejos Regionales tendrán las mismas características del Consejo Estat
 
 Los Consejos Regionales, previa convocatoria de las Delegaciones de la Procuraduría de la Familia, se reunirán una vez al mes para atender los asuntos de su competencia.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### Artículo 15.
 
-La Junta Directiva, por conducto de la Procuraduría de la Familia, creará en cada cabecera municipal una o más Unidades de Atención, según sea necesario, para la Prevención, Atención y Asistencia de la Violencia Familiar, las que deberán contar con los recursos necesarios para el cumplimiento de sus funciones.
+La Procuraduría con la asistencia de la Junta Directiva, creará en cada cabecera municipal una o más Unidades de Atención, según sea necesario, para la Prevención, Atención y Asistencia de la Violencia Familiar, las que deberán contar con los recursos necesarios para el cumplimiento de sus funciones.
 
 Estas Unidades estarán presididas por la persona designada para ese efecto y contará con un grupo técnico de expertas y expertos en las áreas: psicoterapéutica, jurídica, clínico-médica y de trabajo social, especialistas en la atención de la violencia familiar.
-
-La forma de organización, selección del personal y funciones de las Unidades, se establecerán en el reglamento que formule la Junta Directiva, aprobado por el Consejo Estatal.
 
 ###### Artículo 16.
 
@@ -325,7 +333,7 @@ III. Llevar cuenta de la información estadística sobre los diferentes aspectos
 
 IV. Diseñar y poner en marcha una base de datos común a todas las instituciones, que atienda a indicadores de detección uniforme.
 
-V. Conformar por conducto de la Procuraduría de la Familia, las Unidades de Atención, seleccionando a las personas que deban integrarlas y a quienes deban presidirlas, en los términos de esta ley y del Reglamento respectivo.
+V. (DEROGADA, P.O. 18 DE MARZO DE 2014)
 
 VI. Coordinar las acciones de concertación, defensa, protección, prevención y atención de la violencia, en particular la que afecta a las mujeres, menores de edad, a las personas con capacidad diferente y a las de la tercera edad.
 
@@ -501,95 +509,11 @@ Dicho personal deberá participar en los procesos de selección, capacitación y
 
 ###### Artículo 29.
 
-Corresponde a la Procuraduría de la Familia:
-
-I. Crear las Unidades de Atención, con especialistas en las áreas psicológica, médica, jurídica y social.
-
-II. Establecer y mantener una coordinación adecuada con las Unidades de Atención y con las Agencias del Ministerio Público; así como con las autoridades policíacas del Estado y los Municipios, para lograr su intervención oportuna y brindar atención a quienes resulten víctimas de la violencia familiar.
-
-III. Organizar y promover cursos de capacitación y sensibilización al personal de las diferentes áreas a quienes corresponda la prevención, asistencia y atención de la violencia familiar, a efecto de optimizar la prestación de servicios a quienes los requieran.
-
-IV. Sensibilizar, a través de programas de difusión sobre la violencia familiar, a las comunidades del área de influencia de las Unidades de Atención; difundiendo información respecto a las medidas de atención y prevención que estas y otras instituciones ofrecen en materia de violencia familiar.
-
-V. Promover campañas en coordinación con el Instituto Coahuilense de las Mujeres, encaminadas a sensibilizar y concientizar a la población en general, sobre las formas de expresión de la violencia familiar, sus efectos en las víctimas y demás integrantes del núcleo de convivencia, así como de las formas de prevenirla, combatirla y erradicarla.
-
-VI. Incentivar el estudio e investigación sobre violencia familiar y difundir los resultados que derivan de dichos estudios e investigaciones.
-
-VII. Instrumentar programas de prevención, asistencia, asesoría, defensa, protección y orientación a las personas receptoras de violencia familiar.
-
-VIII. Diseñar un modelo de atención integral para las personas involucradas en casos de violencia dentro de la familia, a fin de apoyarlas en el aprendizaje de formas de convivencia pacífica o bien rescatarlas mediante la protección y la rehabilitación de las personas receptoras de violencia y la sanción y rehabilitación de las personas generadoras de la misma.
-
-IX. Establecer mecanismos de consulta constante y urgente, y de intercambio de datos sobre la detección, la atención y los resultados de las investigaciones en materia de violencia familiar.
-
-X. Aplicar métodos para la eficaz atención de las diversas personas involucradas en los casos de violencia familiar.
-
-XI. Recibir por sí o a través de sus delegados todas las denuncias de maltrato de menores, mujeres, personas con capacidades diferentes o de la tercera edad y dispensarles la atención que en derecho proceda.
-
-XII. Conocer por sí o a través de las Unidades de Atención de los actos de violencia familiar.
-
-XIII. Establecer las políticas administrativas necesarias, para la prevención y atención de la violencia familiar, en las Unidades de Atención.
-
-XIV. Decretar por sí o a través de las Unidades de Atención, las custodias de emergencia, las separaciones provisionales o preventivas del seno familiar, las cauciones de no ofender, las prohibiciones de ir a determinado lugar y las sanciones administrativas a que se refiere esta ley.
-
-XV. Promover, en su caso, ante las autoridades judiciales la tramitación de los juicios relativos a custodias definitivas, pérdidas de la patria potestad o procedimientos de violencia familiar.
-
-XVI. Crear un modelo de detección de violencia familiar entre menores infractores, para identificar su posible relación con la conducta antisocial asumida.
-
-XVII. Establecer un modelo de atención psicoterapéutica, que permita determinar en qué medida la violencia familiar es factor de riesgo para la comisión de infracciones por menores de edad.
-
-XVIII. Promover y fomentar la creación de brigadas para la prevención y atención de problemas familiares.
-
-XIX. Difundir por los medios más eficaces el contenido y sentido de la presente ley, a efecto de lograr su plena observancia.
-
-XX. Editar manuales explicativos de los modelos de atención a personas receptoras de violencia, dirigidos a servidoras y servidores públicos y a las personas usuarias de los diferentes servicios.
-
-XXI. Las demás que establezcan las leyes.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 30.
 
-Las Unidades de Atención, tendrán las siguientes atribuciones:
-
-I. Promover acciones y programas de protección y atención a las personas receptoras de violencia familiar.
-
-II. Conocer de los procedimientos de mediación, conciliación y amigable composición.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
-
-III. Solicitar a la Fiscalía General del Estado, a través de la Fiscalía Ministerial de Investigación y Operación Policial, y de los Servicios Periciales, las siguientes colaboraciones:
-
-a) La remisión de las personas receptoras y generadoras de la violencia familiar, para los efectos procedimentales que les confiere la ley, cuando no existe ilícito penal o se trata de delitos de querella.
-
-b) Elaborar o proporcionar los certificados provisionales y definitivos de las lesiones y daños psicoemocionales ocasionados a la víctima con motivo de la violencia familiar.
-
-IV. A través de quienes instruyan los procedimientos de mediación, conciliación o amigable composición:
-
-a) Decretar custodias de emergencia y separaciones provisionales o preventivas en el seno familiar, en los casos que se estimen necesarios.
-
-b) Atender los procedimientos de mediación, conciliación y amigable composición.
-
-c) Determinar las cauciones de no ofender y las prohibiciones de ir a determinados lugares, en los casos que estime necesarios.
-
-d) Aplicar medidas de apremio y sanciones administrativas cuando procedan.
-
-V. Solicitar a los jueces familiares que dicten las medidas cautelares o precautorias previstas en el Código Procesal Civil, a efecto de proteger a las personas receptoras del maltrato, que estén en riesgo de sufrir graves daños a su salud como consecuencia de la violencia familiar.
-
-VI. Promover, en su caso, por instrucción de la Procuraduría de la Familia ante las autoridades judiciales, la tramitación de los juicios relativos a custodias definitivas, pérdidas de la patria potestad o procedimientos de violencia familiar.
-
-VII. Denunciar los hechos de violencia familiar de los que tenga conocimiento, que ameriten la intervención del Ministerio Público.
-
-VIII. Coadyuvar con las víctimas de la violencia familiar en la formulación de denuncias, cuando así se lo soliciten o canalizarlas a las defensorías de oficio para que reciban la asistencia necesaria.
-
-IX. Atender con modelos psicoterapéuticos a las personas receptoras y generadoras de violencia, para prevenir y erradicar esta conducta.
-
-X. Procurar atención, o en su caso canalizar a las clínicas de salud o centros hospitalarios, a las víctimas de violencia familiar que requieran atención medica.
-
-XI. Llevar un registro con la información obligatoria de quienes afrontan violencia familiar; características sociodemográficas de los actores del hecho, estructura de la familia, forma de la violencia denunciada, medidas adoptadas, curso y evaluación del tratamiento.
-
-XII. Asegurar la adhesión de la comunidad a las medidas destinadas a combatir la violencia familiar, a través de los medios de comunicación.
-
-XIII. Realizar las investigaciones y estudios que consideren pertinentes a fin de orientar la planeación de las acciones establecidas en el Programa General.
-
-XIV. Las demás que les confieran las leyes y el Reglamento que norme sus actividades; así como las que expresamente les encomiende la Junta Directiva para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 31.
 
@@ -609,7 +533,7 @@ V. Vigilar y garantizar el cumplimiento de esta ley, de conformidad con las atri
 
 VI. Las demás que establecen las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### Artículo 32.
 
@@ -765,13 +689,15 @@ En todo lo que no se oponga a las normas especiales de esa ley, son aplicables l
 
 ### CAPITULO II. DEL CONOCIMIENTO DE LOS CONFLICTOS EN MATERIA DE VIOLENCIA FAMILIAR
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### Artículo 46.
 
-Para el conocimiento de los conflictos en materia de violencia familiar en las vías de mediación, conciliación y amigable composición, serán competentes las Unidades de Atención.
+Para el conocimiento de los conflictos en materia de violencia familiar en las vías de mediación y conciliación, podrán ser competentes las Unidades de Atención.
 
-En estos casos el procedimiento lo instruirá el Titular de la Unidad, quien podrá delegar su atención, tratándose del de mediación o el de conciliación, a los integrantes de la Unidad, preferentemente a quienes cuenten con especializaciones en psicología o psiquiatría.
+En estos casos el procedimiento lo instruirá la persona titular de la Unidad, quien podrá delegar su atención, tratándose del de mediación o el de conciliación, a los integrantes de la Unidad, preferentemente a quienes cuenten con especializaciones en psicología o psiquiatría.
 
-Quien medie, concilie o actúe como amigable componedor, podrá asociar a quienes conforman el equipo técnico interdisciplinario de la Unidad, o solo a aquellos cuya opinión estime necesaria.
+Quien medie o concilie, podrá asociar a quienes conforman el equipo técnico interdisciplinario de la Unidad, o solo a aquellos cuya opinión estime necesaria.
 
 En los lugares en que no fuese posible contar con una persona especialista dentro del equipo, la evaluación podrá ser encomendada a las instituciones o profesionales del lugar.
 
@@ -855,11 +781,13 @@ Las dependencias de la Fiscalía General del Estado y de la Procuraduría de la 
 
 Toda autoridad administrativa, director o administrador de un hospital u otra institución de salud pública o privada, director de escuela o maestro, podrá asumir la protección de menores, mujeres, personas con capacidades diferentes o de la tercera edad, cuando tenga motivo razonable para creer que ha sido víctima de violencia familiar. Esta protección no podrá exceder de 36 horas, excepción hecha de que por cualquier medio se produzca la intervención de un Juez de lo Familiar, en cuyos casos se estará a lo que éste disponga.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### Artículo 61.
 
 Los Juzgados de lo Familiar o la Procuraduría de la Familia a través de su titular, o por conducto de sus Delegados o titulares de las Unidades de Atención, en caso de urgencia, informados de una situación de violencia familiar o requeridos al efecto, adoptarán las medidas que estimen convenientes, según la gravedad del caso, incluyendo la hospitalización y el tratamiento médico de la persona receptora de la violencia.
 
-Así mismo, estarán obligados a prevenir la repetición de los hechos, para lo cual dispondrán, a través de los organismos competentes, una adecuada atención psicoterapéutica y rehabilitación de las personas receptoras de la violencia, independientemente de que se exija al generador de la violencia una caución de no ofender o la prohibición de ir a lugar determinado o residir en él, o cualquier otra medida que se estime efectiva.
+Así mismo, estarán obligados a prevenir la repetición de los hechos, para lo cual dispondrán, a través de los organismos competentes, una adecuada atención psicoterapéutica y rehabilitación de las personas receptoras de la violencia, independientemente de que se imponga alguna medida de protección que se estime efectiva.
 
 ###### Artículo 62.
 
@@ -903,63 +831,39 @@ La facilitación de servicios de protección, no exime al padre, a la madre o a 
 
 ###### Artículo 67.
 
-Las partes en un conflicto familiar podrán resolver sus diferencias extrajudicialmente, mediante los procedimientos:
-
-I. De mediación.
-
-II. De conciliación.
-
-III. De amigable composición.
-
-Dichos procedimientos estarán a cargo de las Unidades de Atención y serán voluntarios e informales. Las actuaciones que en ellos tengan lugar, excepción hecha de los acuerdos y resoluciones que se adopten, serán confidenciales y no podrán ser utilizadas como medio de prueba en otros juicios, ni los mediadores, conciliadores o amigables componedores podrán ser compelidos a declarar como testigos.
-
-Se exceptúan de lo dispuesto en este artículo, aquellas controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persigan de oficio.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 68.
 
-Es obligación de la persona mediadora, conciliadora o amigable componedora, antes de iniciar cualquier procedimiento, preguntar a las partes si éstas se encuentran dirimiendo sus conflictos ante autoridad judicial, civil o penal, e informarles pormenorizadamente del contenido y alcances de la presente ley y de los procedimientos administrativos, jurisdiccionales, civiles y penales que existan en la materia; así como de las sanciones a las que se harán acreedores en caso de incumplimiento de las determinaciones que en estas vías se dicten o en caso de reincidencia.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 69.
 
-Los procedimientos previstos en la presente ley no excluyen, ni son presupuesto previo para llevar a cabo un procedimiento jurisdiccional. Al término de los procedimientos de mediación, conciliación, o amigable composición, en caso de que existiera un litigio en relación con el mismo asunto, el mediador, el conciliador o el amigable componedor, enviará al juez de la causa el convenio o la resolución correspondiente, con total reserva de las actuaciones, en los términos previstos por el artículo 67, párrafo segundo de esta Ley.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 70.
 
-Los procedimientos de solución de los conflictos familiares a que se refieren los artículos anteriores, se llevarán a cabo a lo sumo en dos audiencias.
-
-En todo caso, tratándose de menores antes de dictar la resolución o de establecer la conciliación, deberá oírseles atendiendo a su edad y condición, a fin de que su opinión sea tomada en cuenta en todos los asuntos que les afecten.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 71.
 
-Las audiencias de mediación se desarrollarán mediante entrevistas iniciales con cada una de las partes, seguidas por entrevistas conjuntas, en las que la persona mediadora les ayudará a desarrollar opciones y propuestas alternativas para solucionar su conflicto, a fin de que lo puedan concluir mediante un acuerdo mutuo aceptable.
-
-La persona mediadora omitirá externar opiniones y emitir juicios, limitándose a conducir el proceso de mediación.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 72.
 
-Para el caso de que en el procedimiento de mediación no se obtengan resultados favorables; las partes, si esta es su voluntad, podrán sujetarse al procedimiento de conciliación.
-
-En las audiencias de conciliación, la persona conciliadora procederá a buscar la avenencia entre las partes, proporcionándoles toda clase de alternativas, exhortándolos a que lo hagan, dándoles a conocer las consecuencias en caso de continuar con su conflicto.
-
-Una vez que las partes lleguen a una conciliación, se celebrará el convenio correspondiente que será firmado, por quienes intervengan en el mismo.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 73.
 
-De no verificarse el supuesto anterior, podrá intentarse la amigable composición una vez que las partes hubiesen decidido de común acuerdo y por escrito someterse a ella, en cuyo caso la decisión de quien intervenga en la amigable composición, tendrá carácter vinculatorio y será exigible para ambas partes, a quienes se informará sobre las consecuencias que puede generar el no cumplimiento de las determinaciones.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 74.
 
-El procedimiento de amigable composición a que hace alusión el artículo anterior, se verificará en las audiencias de amigable composición y resolución de la siguiente forma:
-
-I. Se iniciará con la comparecencia de ambas partes o con la presentación de la constancia administrativa proveniente de autoridad competente, en la que se contengan los datos generales y la relación sucinta de los hechos constitutivos de la violencia familiar, así como la aceptación expresa de someterse al procedimiento.
-
-II. Las partes en dicha comparecencia ofrecerán las pruebas que a su derecho convenga a excepción de la confesional, pudiendo allegarse, la o el amigable componedor de todos los medios de prueba que estén reconocidos legalmente, que le permitan emitir su resolución, aplicándose supletoriamente el Código Procesal Civil del Estado.
-
-III. Una vez admitidas y desahogadas las pruebas, se recibirán los alegatos verbales de las partes quedando asentados en autos, procediendo la o el amigable componedor a emitir su resolución en conciencia, conforme a la equidad.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ###### Artículo 75.
 
-Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios o en la resolución de la amigable composición; la otra, podrá acudir ante la autoridad jurisdiccional respectiva para su ejecución, quien deberá despachársela sin mayores requisitos, salvo que el convenio conciliatorio sea contrario a derecho; ello independientemente de la sanción administrativa que sea aplicable por el incumplimiento.
+(DEROGADO, P.O. 18 DE MARZO DE 2014)
 
 ### CAPITULO VII. DE LOS PROCESOS JUDICIALES POR HECHOS QUE IMPORTEN VIOLENCIA FAMILIAR
 
@@ -1151,7 +1055,7 @@ EL SECRETARIO DE SEGURIDAD PUBLICA Y PROTECCION CIUDADANA
 
 CMDTE. ANTONIO GARZA GARCIA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE ENERO DE 2008.
 
@@ -1178,3 +1082,9 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
