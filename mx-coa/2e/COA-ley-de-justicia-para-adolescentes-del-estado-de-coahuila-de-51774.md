@@ -4,7 +4,7 @@ identifier: "COA-ley-de-justicia-para-adolescentes-del-estado-de-coahuila-de-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-01"
-last_updated: "2009-05-12"
+last_updated: "2014-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 1 de septiembre de 2006.
 
@@ -51,11 +51,13 @@ AMBITO DE APLICACIÓN SEGÚN LOS SUJETOS. Esta ley se aplicará para exigir la r
 
 También se aplicará a quienes, durante el procedimiento cumplan la mayoría de edad. Igualmente, será aplicable a las que hubieren cometido la conducta delictiva cuando tenían la edad señalada en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 3.
 
-MENORES DE 12 AÑOS Y ADOLESCENTES EN SITUACIÓN EXTRAORDINARIA. Los menores de doce años de edad a quienes se les impute la comisión de una conducta tipificada por las leyes penales como delito, serán sujetos de rehabilitación y asistencia social a través del Sistema para el Desarrollo Integral de la Familia, por sí o a través de las instituciones de los sectores públicos, social y privado que se ocupen de esta materia.
+MENORES DE 12 AÑOS Y ADOLESCENTES EN SITUACIÓN EXTRAORDINARIA. Los menores de doce años de edad a quienes se les impute la comisión de una conducta tipificada por las leyes penales como delito, serán sujetos de rehabilitación y asistencia social a través del Sistema para el Desarrollo Integral de la Familia y la Procuraduría para Niños, Niñas y la Familia, por sí o a través de las instituciones de los sectores públicos, social y privado que se ocupen de esta materia.
 
-Los adolescentes que se encuentren en situación extraordinaria, en estado de abandono o peligro no podrán estar privados de la libertad por esa situación especialmente difícil, y su atención estará a cargo del Sistema para el Desarrollo Integral de la Familia en los términos que su propia ley establezca y de acuerdo con los programas que para tal efecto implemente.
+Los adolescentes que se encuentren en situación extraordinaria, en estado de abandono o peligro no podrán estar privados de la libertad por esa situación especialmente difícil, y su atención estará a cargo del Sistema para el Desarrollo Integral de la Familia o de la Procuraduría para Niños, Niñas y la Familia en los términos que establezcan sus propias leyes y de acuerdo con los programas que para tal efecto implementen.
 
 ###### ARTÍCULO 4.
 
@@ -389,7 +391,7 @@ VII. Contar con un registro actualizado de las instituciones públicas y privada
 
 VIII. Las demás previstas por esta ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 44.
 
@@ -2019,7 +2021,7 @@ LIC. FAUSTO DESTENAVE KURI
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE ENERO DE 2008.
 
@@ -2046,3 +2048,9 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
