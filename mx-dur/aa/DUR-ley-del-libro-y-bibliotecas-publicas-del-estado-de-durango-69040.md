@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-libro-y-bibliotecas-publicas-del-estado-de-durango-6904
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2009-06-07"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DEL LIBRO Y BIBLIOTECAS PUBLICAS DEL ESTADO DE DURANGO
 
-LEY DEL LIBRO Y BIBLIOTECAS PUBLICAS DEL ESTADO DE DURANGO
+LEY DEL LIBRO Y BIBLIOTECAS PÚBLICAS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -77,27 +77,49 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Biblioteca Central: La Biblioteca Central Pública del Estado "Lic. José Ignacio Gallegos Caballero";
 
-II. Depositarias: La Biblioteca Central Pública del Estado de Durango "Lic. José Ignacio Gallegos Caballero" y el Archivo Histórico del Estado;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-III. Depositante: Persona física o moral, con domicilio o residencia en el Estado de Durango, que edite o produzca material intelectual;
+II. Biblioteca pública: Todo establecimiento que opere en la entidad que contenga un acervo de carácter general superior a quinientos títulos catalogados y clasificados y que se encuentre destinado a atender en forma gratuita a toda persona que solicite la consulta o préstamo del acervo en los términos de las normas administrativas aplicables;
 
-IV. Depósito legal: Obligación de entregar al Estado en las instituciones depositarias, los ejemplares que se señalen de toda nueva publicación o aquellas que hayan sido actualizadas por su autor;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-V. Editor: Persona o entidad que produce un documento para ponerlo a disposición del público por venta, donación o cualquier otro medio fuera del dominio privado;
+III. Dirección: La Dirección de Bibliotecas Públicas del Estado;
 
-VI. Publicación: Toda obra o producción intelectual que constituya expresión literaria, educativa, científica, cultural, artística o técnica, cuyo fin sea la venta, el alquiler o la simple distribución sin costo, contenida en soportes materiales resultantes de cualquier procedimiento técnico de producción o que esté disponible al público mediante sistemas de transmisión de información electrónica, digital o cualquier otro medio;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-VII. Software: Conjunto de programas, instrucciones y reglas informáticas para ejecutar ciertas tareas en una computadora;
+IV. Depositante: Persona física o moral, con domicilio o residencia en el Estado de Durango, que edite o produzca material intelectual;
 
-VIII. Biblioteca pública: Todo establecimiento que opere en la entidad y que contenga un acervo de carácter general superior a quinientos títulos catalogados y clasificados y que se encuentre destinado a atender en forma gratuita a toda persona que solicite la consulta o préstamo del acervo en los términos de las normas administrativas aplicables;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-IX. Instituto. Al Instituto de Cultura del Estado de Durango;
+V. Depositarias: La Biblioteca Central Pública del Estado de Durango "Lic. José Ignacio Gallegos Caballero" y el Archivo Histórico del Estado;
 
-X. Ley. A la presente Ley;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-XI. Dirección. La Dirección de Bibliotecas Públicas del Estado; y
+VI. Deposito Legal: Obligación de entregar al Estado en las instituciones depositarias, los ejemplares que se señalen de toda nueva publicación o aquellas que hayan sido actualizadas por su autor;
 
-XII. Red Nacional. Red Nacional de Bibliotecas Públicas del Consejo Nacional para la Cultura y las Artes.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+VII. Editor: Persona o entidad que produce un documento para ponerlo a disposición del público por venta, donación o cualquier otro medio fuera del dominio privado;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+VIII. Instituto: Al Instituto de Cultura del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+IX. Ley: A la presente Ley;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+X. Publicación: Toda obra o producción intelectual que constituya expresión literaria, educativa, científica, cultural, artística o técnica, cuyo fin sea la venta, el alquiler o la simple distribución sin costo, contenida en soportes materiales resultantes de cualquier procedimiento técnico de producción o que este disponible al publico mediante sistemas de transmisión de información electrónica, digital o cualquier otro medio;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XI. Red Nacional: Red Nacional de Bibliotecas Públicas del Consejo Nacional para la Cultura y las Artes; y
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XII. Software: Conjunto de Programas, instituciones y reglas informáticas para ejecutar ciertas tareas en una computadora.
 
 ###### Artículo 4.
 
@@ -873,6 +895,38 @@ En contra de los actos y resoluciones dictadas en los procedimientos administrat
 
 La interposición del recurso de inconformidad, será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo para el Estado de Durango.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MARZO DE 2014)</small>
+
+## TÍTULO QUINTO. DE LA LECTURA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MARZO DE 2014)</small>
+
+### CAPÍTULO ÚNICO. DEL MES DE LA LECTURA DURANGUENSE
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+###### Artículo 72.
+
+El Gobierno del Estado con la asesoría y participación del Instituto, organizara cada año, durante el mes de abril, el Mes de la Lectura Duranguense, durante este mes se promoverá (sic) actividades diversas apoyadas por una intensa campaña de difusión para fomentar la lectura en el Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+###### Artículo 73.
+
+Durante el Mes de la Lectura Duranguense deberá difundir al acervo de los libros editados en Durango y de los que resultaron del esfuerzo creativo o de investigación de autores Duranguenses.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+###### Artículo 74.
+
+Las actividades del Mes de la Lectura Duranguense comprenderán todos los Municipios del Estado, procurando involucrar a la mayor cantidad posible de personas interesadas y en particular para motivar la participación de los estudiantes de todos los niveles. Se buscará alentar, de igual forma, la participación de organismos cívicos y empresas privadas.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+###### Artículo 75.
+
+En el caso de las actividades que serán realizadas en los municipios se buscará fomentar la participación de los ciudadanos mediante los patronatos en cada biblioteca, con organismos de representación vinculados a cada Gobierno Municipal.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
@@ -910,3 +964,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MARZO DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que opongan (sic) al presente decreto.
