@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-los-no-fumadores-en-el-estado-de-5601
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-01"
-last_updated: "2009-05-12"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY PARA LA PROTECCION DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
 
-LEY PARA LA PROTECCION DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
+LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 1 de junio de 2007.
 
@@ -113,6 +113,14 @@ XXIII. Fiscalía General: La Fiscalía General del Estado;
 
 XXIV. Terraza: Área de un establecimiento para que los clientes puedan sentarse al aire libre.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2014)</small>
+
+XXV. Secretaría de Medio Ambiente: a la Secretaría del Medio Ambiente del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2014)</small>
+
+XXVI. Procuraduría del Ambiente: La Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza.
+
 ###### Artículo 4.
 
 En el procedimiento de inspección, verificación, impugnación y sanción será aplicable la Ley en la materia para el Estado de Coahuila de Zaragoza.
@@ -169,9 +177,11 @@ VII. Imponer las sanciones correspondientes en caso de que se comprueben infracc
 
 VIII. Ejercer las demás atribuciones que determine la presente ley y disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### Artículo 9.
 
-Corresponde a la Secretaría de Salud:
+Corresponden a la Secretaría de Salud y a la Secretaría de Medio Ambiente mediante la Procuraduría de Protección al Ambiente:
 
 I. Conocer de las denuncias presentadas por los ciudadanos o usuarios, cuando en los edificios, establecimientos mercantiles, médicos, industriales, de enseñanza, edificios e instalaciones de los órganos del Gobierno del Estado, de los municipios y órganos autónomos del Estado, no se establezcan salas para fumadores aisladas de las áreas de uso común, o habiéndolas no se respete la prohibición de fumar fuera de las áreas destinadas para ello.
 
@@ -183,15 +193,13 @@ III. Diseñar el catálogo de letreros y/o señalamientos preventivos, informati
 
 IV. Informar a los órganos de control interno de las oficinas o instalaciones que pertenezcan a los órganos del Gobierno del Estado y los ayuntamientos, la violación a la presente ley por parte de los servidores públicos, a efecto de que se inicien los procedimientos administrativos correspondientes;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
-
-V. Coordinarse con la Fiscalía General para poner a disposición de la autoridad municipal de salud a las personas físicas que incumplan con lo establecido en la presente ley. Así mismo, deberán entregar a dicha autoridad la información que sustente la violación a lo establecido en esta ley;
+V. Coordinarse con la Procuraduría General de Justicia del Estado, para poner a disposición de la autoridad municipal de salud a las personas físicas que incumplan con lo establecido en la presente ley. Así mismo, deberán entregar a dicha autoridad la información que sustente la violación a lo establecido en esta ley;
 
 VI. Realizar, en conjunto con la iniciativa privada u organizaciones no gubernamentales, campañas de información y difusión para prevenir el uso y consumo de tabaco, y
 
 VII. Las demás que le otorgue la ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### Artículo 10.
 
@@ -419,9 +427,11 @@ Los integrantes de las asociaciones de padres de familia de las escuelas e insti
 
 #### SECCIÓN QUINTA. DE LAS INSPECCIONES Y VERIFICACIONES
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### Artículo 35.
 
-La Secretaría de Salud ejercerá las funciones de vigilancia, inspección y verificación que correspondan y aplicará las sanciones que en este ordenamiento se establecen, sin perjuicio de las facultades que se confieran a otras dependencias del Ejecutivo Estatal o las que establezcan los ordenamientos federales y locales aplicables.
+Secretaría (sic) de Salud y a la Secretaria de Medio Ambiente mediante la Procuraduría de Protección al Ambiente ejercerá las funciones de vigilancia, inspección y verificación que correspondan y aplicará las sanciones que en este ordenamiento se establecen, sin perjuicio de las facultades que se confieran a otras dependencias del Ejecutivo Estatal o las que establezcan los ordenamientos federales y locales aplicables.
 
 ###### Artículo 36.
 
@@ -429,7 +439,9 @@ Las inspecciones y verificaciones se sujetarán a las siguientes bases:
 
 I. El verificador deberá contar con orden por escrito que contendrá la fecha y ubicación de local cerrado o establecimiento por inspeccionar; objeto y aspectos de la visita; el fundamento legal y la motivación de la misma; el nombre y la firma de la autoridad que expida la orden y el nombre del inspector;
 
-II. El verificador se deberá identificar ante el dueño, propietario, poseedor o responsable del lugar, con la credencial vigente que para tal efecto expida la Secretaría de Salud o en su caso la autoridad municipal de salud, y entregará copia legible de la orden de inspección;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+II. El verificador se deberá identificar ante el dueño, propietario, poseedor o responsable del lugar, con la credencial vigente que para tal efecto expida la Secretaria de Salud o la Secretaria de Medio Ambiente y entregará copia legible de la orden de inspección;
 
 III. Los verificadores practicarán la visita dentro de las 24 horas siguientes a la expedición de la orden;
 
@@ -437,13 +449,19 @@ IV. Al inicio de la visita de inspección, el verificador deberá requerir al vi
 
 V. De toda visita se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas, en la que se expresará: lugar, fecha y nombre de la persona con quien se entienda la diligencia, así como las incidencias y el resultado de las mismas; el acta deberá ser firmada por el verificador, por la persona con quien se entendió la diligencia, y por los testigos de asistencia propuestos por ésta o nombrados por el inspector en el caso de la fracción anterior. Si alguna de las personas señaladas se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento;
 
-VI. El verificador comunicará al visitado si existen omisiones en el cumplimiento de cualquier obligación a su cargo ordenada por el presente ordenamiento, haciendo constar en el acta que cuenta con diez días hábiles para impugnarla por escrito ante la Secretaría de Salud o en su caso ante la autoridad municipal de salud, y exhibir las pruebas y alegatos que a su derecho convengan, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
-VII. Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y la copia restante se entregarán a la Secretaría de Salud o en su caso a la autoridad municipal de salud.
+VI. El verificador comunicará al visitado si existen omisiones en el cumplimiento de cualquier obligación a su cargo ordenada por el presente ordenamiento, haciendo constar en el acta que cuenta con diez días hábiles para impugnarla por escrito ante la Autoridad Respectiva a fin de exhibir las pruebas y alegatos que a su derecho convengan, y
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+VII. Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y la copia restante se entregarán a la Autoridad que realizó la verificación.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 ###### Artículo 37.
 
-Transcurrido el plazo a que se refiere la fracción VI del artículo anterior, la Secretaría de Salud o en su caso la autoridad municipal de salud, calificará las faltas dentro de un término de tres días hábiles considerando la gravedad de la infracción; determinará si existe reincidencia, las circunstancias en que hubieren concurrido, las pruebas aportadas y los alegatos formulados, en su caso, y dictará la resolución que proceda debidamente fundada y motivada, notificándola personalmente al visitado.
+Transcurrido el plazo a que se refiere la fracción VI del artículo anterior, la Secretaria de Salud o bien la Secretaria de Medio Ambiente por medio de la Procuraduría de Protección al Ambiente, calificará las faltas dentro de un término de tres días hábiles considerando la gravedad de la infracción; determinará si existe reincidencia, las circunstancias en que hubieren concurrido, las pruebas aportadas y los alegatos formulados, en su caso, y dictará la resolución que proceda debidamente fundada y motivada, notificándola personalmente al visitado.
 
 ### CAPÍTULO CUARTO. DE LAS SANCIONES
 
@@ -461,7 +479,9 @@ Para la fijación de la sanción económica, que deberá hacerse entre el mínim
 
 Las sanciones administrativas podrán consistir en:
 
-I. Multa, que podrá ser de hasta por el importe entre diez a cien días de salario mínimo diario general vigente en el Estado;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+I. Multa, que podrá ser de hasta por el importe entre 1, 000 a 4,000 días de salario mínimo diario general vigente en el Estado;
 
 II. Arresto hasta por 36 horas, y
 
@@ -545,6 +565,34 @@ Si transcurrido el plazo no se ha notificado la resolución que corresponda, se 
 
 El procedimiento ante la Secretaría de Salud o en su caso ante la autoridad municipal correspondiente se regulará por lo que establece la Ley de la materia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MARZO DE 2014)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA DENUNCIA CIUDADANA
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+###### Artículo 55.
+
+Cualquier persona podrá presentar ante la autoridad correspondiente una denuncia ciudadana, en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta Ley, el Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+###### Artículo 56.
+
+La autoridad competente salvaguardará la identidad e integridad del ciudadano denunciante.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+###### Artículo 57.
+
+La Secretaria de Salud y la Secretaria de Medio Ambiente mediante la Procuraduría del Ambiente pondrán en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias, así como respecto del incumplimiento de esta Ley, el Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+###### Artículo 58.
+
+Al conocer de una denuncia ciudadana mediante la que se reporte el incumplimiento de esta Ley y su Reglamento, la Secretaría y la Procuraduría del Ambiente ordenarán la realización de visitas de verificación en el lugar en que presuntamente se esté cometiendo o se haya cometido la infracción, a efecto de que, en su caso, se impongan las sanciones que correspondan.
+
 T R A N S I T O R I O S.
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -607,7 +655,7 @@ DR. RAYMUNDO S. VERDUZCO ROSAN
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE ENERO DE 2008.
 
@@ -634,3 +682,7 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2014.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
