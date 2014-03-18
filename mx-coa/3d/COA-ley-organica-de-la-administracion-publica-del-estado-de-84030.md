@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2014-03-08"
+last_updated: "2014-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -341,25 +339,27 @@ Para ser titular de la Consejería Jurídica se deberán reunir los mismos requi
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE AGOSTO DE 2012)</small>
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-Quienes sean titulares de las dependencias, entidades, de la Procuraduría General de Justicia y demás servidores públicos del estado, antes de tomar posesión de su cargo o empleo, deberán rendir protesta.
+Quienes sean titulares de las dependencias, entidades, de la Procuraduría para Niños, Niñas y la Familia de la Procuraduría General de Justicia y demás servidores públicos del estado, antes de tomar posesión de su cargo o empleo, deberán rendir protesta.
 
-El servidor público que deba rendir protesta lo hará ante el gobernador invariablemente cuando se trate de quienes vayan a ocupar la titularidad de una secretaría o de la Procuraduría General de Justicia, en los demás casos lo podrán hacer ante quien el gobernador designe.
+El servidor público que deba rendir protesta lo hará ante el gobernador invariablemente cuando se trate de quienes vayan a ocupar la titularidad de una Secretaría, de la Procuraduría para Niños, Niñas y la Familia o de la Procuraduría General de Justicia, en los demás casos lo podrán hacer ante quien el gobernador designe.
 
 El servidor público será interrogado por quien le tome la protesta en los siguientes términos:
 
-"PROTESTA USTED GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES EMANADAS O QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE (cargo que protesta), QUE LE HA SIDO CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN DEL ESTADO?"
+“PROTESTA USTED GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES EMANADAS O QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE (cargo que protesta), QUE LE HA SIDO CONFERIDO MIRANDO EN TODO MOMENTO POR EL BIEN DEL ESTADO?”
 
-Si el interrogado responde afirmativamente, deberá hacerlo levantando la mano que la persona decida a la altura del hombro y decir "SI, PROTESTO"
+Si el interrogado responde afirmativamente, deberá hacerlo levantando la mano que la persona decida a la altura del hombro y decir “SI, PROTESTO”
 
-Quien le tome la protesta responderá entonces: "SI ASI LO HACE QUE EL ESTADO SE LO RECONOZCA Y SI NO, QUE SE LO DEMANDE"
+Quien le tome la protesta responderá entonces: “SI ASI LO HACE QUE EL ESTADO SE LO RECONOZCA Y SI NO, QUE SE LO DEMANDE”
 
 Una vez concluida la ceremonia, se asentará en el acta correspondiente y el nombramiento surtirá todos sus efectos legales.
 
 Del acta de protesta se remitirá un ejemplar a la Secretaría de Fiscalización y Rendición de Cuentas.
 
-Al tomar posesión del cargo, quienes sean titulares de las dependencias, entidades y de la Procuraduría General de Justicia, recibirán los asuntos inherentes a su competencia, así como los recursos humanos, materiales y financieros en los términos de las disposiciones aplicables.
+Al tomar posesión del cargo, quienes sean titulares de las dependencias, entidades, de la Procuraduría para Niños, Niñas y la Familia y de la Procuraduría General de Justicia, recibirán los asuntos inherentes a su competencia, así como los recursos humanos, materiales y financieros en los términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 18.
 
@@ -413,7 +413,9 @@ XII. Secretaría de las Mujeres;
 
 XIII. Secretaría de Salud;
 
-XIV. (DEROGADA, P.O. 20 DE DE MAYO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2014)</small>
+
+XIV. Procuraduría para Niños, Niñas y la Familia
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
 
@@ -435,11 +437,17 @@ XVIII. Procuraduría General de Justicia del Estado.
 
 XIX. Consejería Jurídica.
 
-Quienes sean titulares de las secretarías y de la Procuraduría General de Justicia, integrarán el gabinete legal.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
+Quienes sean titulares de las Secretarías, la Procuraduría para Niños, Niñas y la Familia y de la Procuraduría General de Justicia, integrarán el gabinete legal.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
 Las dependencias de la administración pública centralizada tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Sin perjuicio de lo anterior, por acuerdo del Ejecutivo del Estado, la Secretaría de Gobierno coordinará las acciones de los Secretarios y demás funcionarios de la Administración Pública para garantizar el cumplimiento de las órdenes y acuerdos del Gobernador.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+Para la garantía de los derechos humanos de niños y niñas, el gabinete legal conformará el Consejo para la Garantía de los Derechos Humanos de Niños y Niñas en conjunto con las personas y con las facultades que se establecen en la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 21.
 
@@ -507,9 +515,15 @@ XXX. Elaborar, al inicio de cada ejercicio fiscal el programa de austeridad y bu
 
 XXXI. Cuidar el cumplimiento de las normas de protección civil, salud, seguridad e higiene en las oficinas de la dependencia a su cargo y en las políticas públicas que se generen;
 
-XXXII. Cuidar el cumplimiento estricto de los calendarios cívicos nacional y estatal, y promover acciones que fortalezcan el respeto a los símbolos patrios, la identidad coahuilense, el escudo y el himno del estado, y
+XXXII. Cuidar el cumplimiento estricto de los calendarios cívicos nacional y estatal, y promover acciones que fortalezcan el respeto a los símbolos patrios, la identidad coahuilense, el escudo y el himno del estado, y (sic)
 
-XXXIII. Las demás que le confieran expresamente este ordenamiento, otras disposiciones aplicables y aquellas que le encomiende el gobernador.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXXIII. Integrar el Consejo para la Garantía de los Derechos Humanos de Niños y Niñas, regulado por la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de la (sic) Niños y Niñas del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
+
+XXXIV. Las demás que le confieran expresamente este ordenamiento, otras disposiciones aplicables y aquellas que le encomiende el gobernador.
 
 ###### ARTÍCULO 22.
 
@@ -1363,9 +1377,15 @@ XV. Apoyar las acciones en materia de salubridad local a cargo de los municipios
 
 XVI. Ejercer la vigilancia y control sanitario en los establecimientos y servicios en los términos de la Ley Estatal de Salud.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 34.
 
-(DEROGADO, P.O. 20 DE MAYO DE 2013)
+A la Procuraduría para Niños, Niñas y la Familia corresponde el despacho de los siguientes asuntos:
+
+I.- Ejercer las atribuciones que en materia de promoción, respeto y protección de los derechos humanos a favor de los niños, niñas y la protección de la familia le correspondan al ejecutivo.
+
+II.- Ejercer las atribuciones que le otorga la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza y demás disposiciones que regulen su actuación así como satisfacer su cumplimiento en el Estado.
 
 ###### ARTÍCULO 35.
 
@@ -1742,3 +1762,9 @@ TERCERO.- Las autoridades escolares de las instituciones educativas establecidas
 CUARTO.- Las instituciones educativas, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios que a la entrada en vigor de la presente Ley se encuentren con permiso de suspensión deberán realizar las acciones conducentes a fin de reanudar sus labores educativas y en su caso atender lo dispuesto por el artículo 80 Bis de la presente Ley.
 
 QUINTO.- El Estatuto deberá armonizar sus términos a lo establecido por la Ley General del Servicio Profesional Docente, dentro de los seis meses siguientes a la entrada en vigor de la presente reforma.
+
+P.O. 18 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
