@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cambio-climatico-del-estado-de-durango-95588"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-07"
-last_updated: "2013-07-07"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de julio de 2013.
 
@@ -45,9 +45,11 @@ LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el territorio del Estado de Durango; y tiene por objeto establecer las disposiciones concurrentes para el Estado y los Municipios en la elaboración y aplicación de las políticas públicas de protección al medio ambiente y de restauración del equilibrio ecológico en materia de cambio climático, así como la mitigación de sus efectos adversos, para proteger a la población coadyuvando al desarrollo sustentable.
+La presente Ley es reglamentaria del artículo 26 de la Constitución Política del Estado Libre y Soberano de Durango de orden público, interés social y de observancia general en el territorio del Estado de Durango; y tiene por objeto establecer las disposiciones concurrentes para el Estado y los Municipios en la elaboración y aplicación de las políticas públicas de mitigación y adaptación al cambio climático, para la preservación y mejoramiento de los recursos naturales.
 
 En lo no previsto por esta Ley, se aplicarán de manera supletoria y complementaria los ordenamientos estatales en materia ambiental.
 
@@ -107,15 +109,19 @@ XXXIV (SIC). Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capa
 
 ### CAPÍTULO II. DE LOS CRITERIOS GENERALES PARA LA DEFINICIÓN DE POLÍTICAS DE MITIGACIÓN Y ADAPTACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 3.
 
-Los habitantes del Estado deberán participar, de manera ordenada y activa, en la protección al ambiente y de preservación y restauración del equilibrio ecológico así como en la mitigación y prevención de la vulnerabilidad ante el cambio climático.
+Los habitantes del Estado deberán participar, de manera ordenada y activa, en la mitigación y prevención de la vulnerabilidad ante el cambio climático.
 
 Para el cumplimiento de los objetivos establecidos en esta Ley, el Plan Estatal de Desarrollo, los Programas Sectoriales y la Estrategia Estatal, se deberán fijar metas y objetivos específicos de mitigación y adaptación e indicadores de sustentabilidad de las acciones.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
-En la definición de los objetivos y metas de adaptación y mitigación al cambio climático, las autoridades estatales y municipales deberán tomar en cuenta las evaluaciones de impacto económico del cambio climático, atlas de riesgo, desarrollo de capacidades de adaptación y demás estudios para hacer frente al cambio climático, las cuales deberán basarse en un diagnostico que tome en todo momento la base de los indicadores establecidos en la presente ley, los cuales deberán ser revisados por la Comisión de manera periódica.
+En la definición de los objetivos y metas de adaptación y mitigación al cambio climático, las autoridades estatales y municipales deberán tomar en cuenta las evaluaciones de impacto económico del cambio climático, atlas de riesgo, desarrollo de capacidades de adaptación y demás estudios para hacer frente al cambio climático.
 
 ###### ARTÍCULO 5.
 
@@ -445,9 +451,11 @@ X. Se monitoreará, verificará e informará, de las acciones de mitigación emp
 
 ### CAPÍTULO IX. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 30.
 
-El Gobierno del Estado y los Municipios deberán promover la participación corresponsable de la sociedad en la planeación, ejecución y vigilancia de la Política Estatal y Municipal de Cambio Climático.
+El Gobierno del Estado y los Municipios promoverán la participación de la sociedad en la planeación, ejecución y vigilancia de la Política Estatal y Municipal de Cambio Climático.
 
 ###### ARTÍCULO 31.
 
@@ -501,6 +509,16 @@ Las dependencias, servidores públicos, y la Comisión, bajo su más estricta re
 
 En caso de la presunta comisión de delitos, se dará parte al Ministerio Público.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE MARZO DE 2014)</small>
+
+### CAPÍTULO XI. DEL RECURSO ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+
+###### ARTÍCULO 40.
+
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales estatales relativas al cambio climático y disposiciones que de ella emanen, podrán ser impugnadas sin que se pruebe el interés jurídico, mediante el recurso que corresponda conforme a las disposiciones de la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
@@ -536,3 +554,11 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MARZO DE 2014.
+
+Artículo Primero. El presente decreto entrará en vigor al día de su publicación.
+
+Articulo Segundo. Se derogan todas las disposiciones que convengan a las contenidas en el presente.
