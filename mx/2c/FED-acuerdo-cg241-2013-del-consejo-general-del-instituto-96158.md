@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg241-2013-del-consejo-general-del-instituto-96158"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-10-09"
-last_updated: "2013-10-09"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96158&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-09-26"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE CREA LA UNIDAD TÉCNICA DE IGUALDAD DE GÉNERO Y NO DISCRIMINACIÓN, ADSCRITA A LA PRESIDENCIA DEL CONSEJO GENERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de octubre de 2013.
 
@@ -503,7 +503,7 @@ i) En todo momento observará las disposiciones que en materia de igualdad y de 
 
 j) Las demás que le confiera el Reglamento Interior del Instituto Federal Electoral.
 
-Quinto.- La Unidad Técnica de Igualdad de Género y no Discriminación deberá presentar cuatrimestralmente a la Junta General Ejecutiva un informe sobre el desarrollo de sus actividades, a efecto de que el mismo sea presentado al Consejo General del Instituto.
+Quinto.- (DEROGADO, D.O.F. 18 DE MARZO DE 2014)
 
 Sexto.- El presente Acuerdo deberá ser publicado en el Diario Oficial de la Federación.
 
@@ -522,3 +522,15 @@ Quinto.- En términos de lo establecido en el artículo 86 del Reglamento Interi
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 26 de septiembre de dos mil trece, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctor Lorenzo Córdova Vianello, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctora María Marván Laborde, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE MARZO DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.</small>
+
+Primero.- Se deroga el Punto de Acuerdo Quinto del Acuerdo CG241/2013 del Consejo General del Instituto Federal Electoral por el que se crea la Unidad Técnica de Igualdad de Género y No Discriminación, adscrita a la Presidencia del Consejo General.
+
+Segundo.-Se confirma que la Unidad Técnica de Igualdad de Género y No Discriminación deberá integrar, bajo la supervisión de la Presidencia, los informes trimestrales y anual, mismos que deberán presentarse a la Junta General Ejecutiva y al Consejo General, respectivamente.
+
+Tercero.- El presente Acuerdo tendrá vigencia a partir del siguiente día de su aprobación, y deberá ser publicado en el Diario Oficial de la Federación.
