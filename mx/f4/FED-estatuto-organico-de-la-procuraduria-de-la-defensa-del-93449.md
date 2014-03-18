@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-de-la-defensa-del-93449"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-04-03"
-last_updated: "2013-04-03"
+last_updated: "2014-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93449&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-03-07"
 
 ESTATUTO ORGÁNICO DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, PUBLICADO EN EL D.O.F. DE 18 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 3 de abril de 2013.
 
@@ -1836,3 +1838,23 @@ CUARTO.- El nombramiento del Titular de la Unidad de Auditoría Preventiva de la
 QUINTO.- La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro ante las Secretarías de la Función Pública y de Hacienda y Crédito Público.
 
 México, D.F., a 7 de marzo de 2013.- La Procuradora de la Defensa del Contribuyente, Diana Rosalía Bernal Ladrón de Guevara.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE MARZO DE 2014.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Procuraduría de la Defensa del Contribuyente publicado en el Diario Oficial de la Federación el 3 de abril de 2013, en cumplimiento al acuerdo número SO1/OG/ST/01/2014, tomado en la primera sesión ordinaria, celebrada el día 19 de febrero de dos mil catorce, por el Organo de Gobierno de la Procuraduría de la Defensa del Contribuyente.
+
+TERCERO.- Se deja sin efectos el Acuerdo No. 010/2012 por el que se delegan en los Delegados Regionales de la Procuraduría de la Defensa del Contribuyente, la facultad de celebrar convenios y acuerdos de colaboración, coordinación o concentración en materia de promoción y difusión de la cultura contributiva, con las dependencias y entidades de los gobiernos estatales y municipales, así como con las organizaciones privadas de sus respectivas jurisdicciones territoriales, de fecha 16 de julio de 2012.
+
+CUARTO.- Se deja sin efectos el Acuerdo No. 001/2014 por el que se delega, a los titulares de la Coordinación General Ejecutiva y a los Delegados Regionales y Estatales de la Procuraduría de la Defensa del Contribuyente, el ejercicio de las atribuciones y facultades contenidas en los Lineamientos que regulan el procedimiento para la adopción de acuerdos conclusivos ante la Procuraduría de la Defensa del Contribuyente, de fecha 2 de enero de 2014.
+
+QUINTO.- Se deja sin efecto cualquier acuerdo o disposición interna que se oponga a lo previsto en el presente Estatuto Orgánico.
+
+SEXTO.- El nombramiento del Titular de la Unidad de Auditoría Preventiva de la Procuraduría de la Defensa del Contribuyente se llevará a cabo en el plazo y con las condiciones que determine la Secretaría de Hacienda y Crédito Público o en su caso, la Secretaría de la Función Pública.
+
+SEPTIMO.- La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro ante las Secretarías de la Función Pública y de Hacienda y Crédito Público.
+
+OCTAVO.- Los expedientes y documentación que obren en las unidades administrativas cuyas funciones se transfieren, por virtud del presente Estatuto Orgánico, a otras unidades administrativas, pasarán a formar parte de éstas a fin de continuar su trámite y resolución.
