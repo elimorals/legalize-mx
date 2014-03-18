@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2013-12-24"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -911,7 +911,9 @@ III. Las agrupaciones sin personalidad jurídica, reconocidas por la ley, por me
 
 IV. Las instituciones y dependencias de la administración pública, a través de sus órganos representativos.
 
-V. El Ministerio Público en aquellos casos expresamente previstos en la ley o que puedan afectar los intereses de la sociedad.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+V. El Ministerio Público, la Procuraduría de la Familia y los Defensores de los derechos de los niños, niñas y de la familia en aquellos casos expresamente previstos en la ley o que puedan afectar los intereses de la sociedad.
 
 VI. Cualquiera de los integrantes de un grupo afectado, que garantice una adecuada defensa para el interés general, o las instituciones, asociaciones o agrupaciones privadas, no políticas ni gremiales, especializadas en la defensa de los intereses sociales colectivos, cuando se trata de la tutela de intereses difusos, de grupos indeterminados que no constituyan una persona moral.
 
@@ -6457,15 +6459,17 @@ La resolución que se dicte no es apelable.
 
 ###### ARTÍCULO 607.
 
-Requisitos para que se autorice judicialmente la adopción.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
 
-Para que se autorice la adopción, el que pretenda adoptar a uno o más menores, o a uno o más incapacitados, deberá acreditar:
+Requisitos para que se autorice judicialmente la adopción. Para que se autorice la adopción, el que pretenda adoptar a uno o más menores, o a uno o más incapacitados, deberá acreditar:
 
 (REFORMADA, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 18 DE ENERO DE 2008)
 
 I. Ser mayor de 25 años, tener 17 años más que el adoptado, el Juez lo puede dispensar en beneficio del adoptado, y a solicitud de los promoventes de forma personal y directa, atendiendo al interés superior del menor.
 
-II. Que existe común acuerdo entre marido y mujer para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+
+II. Que existe común acuerdo entre la pareja para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes.
 
 III. Que el adoptante o adoptantes tienen medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijos propios, según las circunstancias de la persona que trate de adoptarse.
 
@@ -13444,3 +13448,9 @@ P.O. 24 DE DICIEMBRE DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE MARZO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
