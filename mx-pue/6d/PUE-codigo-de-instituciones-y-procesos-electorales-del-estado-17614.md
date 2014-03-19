@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2013-11-29"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -766,6 +766,10 @@ Los partidos políticos tendrán derecho al financiamiento público, de conformi
 I.- El monto de financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral con corte al treinta y uno de agosto del año anterior a su entrega, por el veinte por ciento del salario mínimo diario vigente en el Estado. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección inmediata anterior de diputados por el principio de mayoría relativa. La entrega de dicho financiamiento se realizará en el mes de febrero del año que corresponda.
 
 El Consejo General fijará el monto de financiamiento público anual en el presupuesto que el Instituto envíe al Congreso para el siguiente ejercicio fiscal. La partida será destinada exclusivamente para este fin.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+Los partidos políticos destinarán anualmente el dos por ciento de su financiamiento público ordinario, a la capacitación, promoción y desarrollo del liderazgo político de las mujeres.
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -6268,3 +6272,9 @@ SEGUNDO.- Las disposiciones relacionadas con el voto de los poblanos residentes 
 TERCERO.- El Instituto deberá incluir en el proyecto de presupuesto de egresos correspondiente, la partida presupuestal necesaria para instrumentar el voto de los poblanos residentes en el extranjero.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
