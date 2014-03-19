@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-consejo-nacional-de-ciencia-y-tecnologia-24878
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-05"
-last_updated: "2012-04-09"
+last_updated: "2014-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24878&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -71,7 +71,11 @@ IX. Promover la participación de la comunidad científica y de los sectores pú
 
 X. Proponer a las autoridades competentes y, en su caso, definir políticas, instrumentos y medidas de apoyo a la ciencia y la tecnología por parte de la Administración Pública Federal, especialmente en cuanto a estímulos fiscales y financieros, facilidades administrativas, de comercio exterior y regímenes de propiedad intelectual;
 
-XI. Apoyar la generación, difusión y aplicación de conocimientos científicos y tecnológicos;
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
+
+XI. Apoyar la generación, difusión y aplicación de conocimientos científicos y tecnológicos.
+
+Para ello, el CONACyT deberá emprender acciones que fomenten y fortalezcan las actividades de divulgación científica entre los investigadores del país y las organizaciones de la sociedad civil. De igual forma, deberá incentivar la vinculación entre estos actores y las instituciones del sistema educativo nacional a fin de fortalecer la capacitación de los educadores en materia de cultura científica y tecnológica;
 
 XII. Emitir los criterios generales, términos de referencia y parámetros de evaluación para medir el impacto, los resultados y beneficios de los recursos asignados a los programas de las dependencias, órganos administrativos desconcentrados y entidades paraestatales que realicen investigación científica y tecnológica, así como de los apoyos otorgados para la investigación científica y tecnológica;
 
@@ -309,7 +313,7 @@ Los trabajadores del CONACyT continuarán incorporados al régimen de la Ley del
 
 ###### ARTÍCULO 15.
 
-> <small>(REFORMADO. D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 El CONACyT contará con un órgano de vigilancia integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, y tendrán las facultades que les otorgan la Ley Federal de las Entidades Paraestatales y las demás disposiciones legales aplicables.
 
@@ -368,3 +372,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 19 DE MARZO DE 2014.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
