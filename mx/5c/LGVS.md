@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2013-12-26"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -926,9 +926,11 @@ d) El alto grado de interés social, cultural, científico o económico.
 
 Las listas a que se refiere este artículo serán actualizadas por lo menos cada 3 años, debiendo publicarse la actualización en el Diario Oficial de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 62.
 
-La Secretaría promoverá el desarrollo de proyectos para la conservación, recuperación de especies y poblaciones prioritarias para la conservación, con la participación en su caso de las personas que manejen dichas especies o poblaciones y demás involucrados.
+La Secretaría deberá implementar programas para la conservación, recuperación, reproducción y reintroducción en su hábitat, de especies y poblaciones prioritarias para la conservación, con la participación en su caso de las personas que manejen dichas especies o poblaciones y demás involucrados.
 
 La información relativa a los proyectos de conservación y recuperación de especies y poblaciones prioritarias para la conservación, estará a disposición del público.
 
@@ -1526,7 +1528,7 @@ XXII. Exportar o importar ejemplares, partes o derivados de la vida silvestre, o
 
 XXIII. Realizar actos que contravengan las disposiciones de trato digno y respetuoso a la fauna silvestre, establecidas en la presente Ley y en las disposiciones que de ella se deriven.
 
-Se considerarán infractores no sólo las personas que hayan participando en su comisión, sino también quienes hayan participado en su preparación o en su encubrimiento.
+Se considerarán infractores no sólo las personas que hayan participando (sic) en su comisión, sino también quienes hayan participado en su preparación o en su encubrimiento.
 
 ###### Artículo 123.
 
@@ -1815,3 +1817,7 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Ejecutivo Federal contará con un plazo de dieciocho meses para armonizar el Reglamento respectivo.
 
 Tercero. La Secretaría emitirá guías técnicas que establezcan los requerimientos mínimos necesarios para el manejo de cada especie en confinamiento de acuerdo a lo establecido en el último párrafo del artículo 78 Bis, en un plazo de dieciocho meses.
+
+D.O.F. 19 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
