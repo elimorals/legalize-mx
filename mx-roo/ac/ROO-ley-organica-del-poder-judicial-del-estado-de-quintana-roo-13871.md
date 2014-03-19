@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2013-12-24"
+last_updated: "2014-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -165,11 +165,11 @@ El Tribunal Superior de Justicia realizará sus labores en forma permanente, con
 
 #### Sección Segunda. De la integración y funcionamiento del Pleno del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 13.
 
-El Pleno del Tribunal Superior de Justicia, se integrará únicamente por los Magistrados Numerarios, con la excepción señalada en el cuarto párrafo del artículo 110 de la Constitución Política del Estado. Los Magistrados Supernumerarios integrarán Pleno cuando sustituyan a los de Número por excusa, recusación o alguna otra razón a juicio del propio Pleno.
+El Pleno del Tribunal Superior de Justicia, se integrará únicamente por los Magistrados Numerarios, con las excepciones previstas en el artículo 98 de la Constitución Política del Estado. Los Magistrados Supernumerarios integrarán Pleno cuando sustituyan a los de Número por excusa, recusación o alguna otra razón a juicio del propio Pleno.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -269,9 +269,9 @@ XII.- Iniciar ante la Legislatura del Estado las leyes y decretos que tengan por
 
 XIII.- Expedir en el ámbito de su competencia el Reglamento Interior del Tribunal Superior de Justicia, remitiéndolo al Periódico Oficial del Gobierno del Estado para su publicación.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-XIV.- Llamar a los Magistrados Supernumerarios que deban suplir a los Magistrados de Número ante el Pleno;
+XIV.- Llamar y adscribir a los Magistrados Supernumerarios para que integren el Pleno o las Salas en los casos previstos en la Constitución Política del Estado de Quintana Roo y esta Ley;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -493,9 +493,13 @@ VII.- Las demás que les encomienden las leyes.
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 35.
 
-Las faltas accidentales o temporales de los Magistrados de Número serán suplidas por el Magistrado Supernumerario que determine el Tribunal Pleno. En caso de falta absoluta se procederá de acuerdo con lo establecido en el artículo 102 de la Constitución Política del Estado y en los términos previstos en esta ley
+Las faltas y sustituciones temporales de los Magistrados de Número serán suplidas por el Magistrado Supernumerario que determine el Tribunal Pleno. En caso de falta absoluta se procederá de acuerdo con lo establecido en el artículo 102 de la Constitución Política del Estado y en los términos previstos en esta ley.
+
+Mientras dure la falta absoluta de los Magistrados de Número, el Tribunal Pleno llamará a los Magistrados Supernumerarios para que integren este o las Salas que corresponda.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -515,9 +519,13 @@ Los Magistrados separados del cargo con licencia concedida por la Legislatura de
 
 El Presidente del Tribunal Superior de Justicia del Estado, durará en su cargo tres años, y podrá ser reelecto por una sola vez, para un periodo de igual duración.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 39.
 
 El Presidente del Tribunal será elegido por mayoría de votos en escrutinio secreto, en la primera sesión del Pleno que se celebre en el mes de agosto del año correspondiente.
+
+Tratándose del tercer año de ejercicio de la presidencia, la sesión solemne en la que el Presidente del Tribunal Superior de Justicia deba rendir su informe se celebrará el día treinta del mes de agosto. El Presidente electo iniciará sus funciones el día primero del mes de septiembre siguiente a la elección.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3398,6 +3406,12 @@ CUARTO.- El título Vigésimo Tercero denominado "De la Administración de Gesti
 QUINTO.- El Consejo de la Judicatura del Estado debe realizar las adecuaciones necesarias en el Reglamento de la Visitaduría Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo.
 
 P.O. 24 DE DICIEMBRE DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 19 DE MARZO DE 2014.
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
