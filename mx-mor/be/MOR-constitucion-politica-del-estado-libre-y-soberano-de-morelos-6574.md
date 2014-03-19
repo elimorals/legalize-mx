@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2013-10-30"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -740,9 +740,9 @@ I.- El Gobernador del Estado, ya sea con carácter de interino, sustituto o prov
 
 II.- (DEROGADA [N. DE E. REPUBLICADA], P.O. 1 DE OCTUBRE DE 1999)
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1999) (F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-III.- Los Secretarios o Subsecretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Administradores de Rentas, los Delegados o equivalentes de la federación, los Miembros del Ejército en servicio activo, los Jefes de Policía de Seguridad Pública y los Presidentes Municipales.
+III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Magistrados del Tribunal Superior de Justicia, Tribunal de lo Contencioso Administrativo, Tribunal Estatal Electoral y del Magistrado del Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas estatales o municipales, los delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo, los jefes o mandos superiores de Policía de Seguridad Pública Estatal o Municipal y los Presidentes Municipales;
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -844,7 +844,9 @@ Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con auto
 
 A más tardar el quince de febrero de cada año, el Gobernador del Estado enviará al Congreso del Estado un informe por escrito de la situación que guarda la administración pública estatal, salvo el último año de su gestión, en el cual también deberá enviar el informe a más tardar el primer día (sic) septiembre.
 
-El Congreso analizará el informe y dentro de los veinte días hábiles siguientes a su presentación, podrá solicitar al Ejecutivo amplíe la información mediante pregunta por escrito y citar a los Secretarios de Despacho, al Procurador General de Justicia y a los directores de las entidades paraestatales, para que comparezcan y rindan los informes solicitados bajo protesta de decir verdad.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+El Congreso analizará el informe y dentro de los veinte días hábiles siguientes a su presentación, podrá solicitar al Ejecutivo amplíe la información mediante pregunta por escrito y citar a los Secretarios de Despacho y a los Directores de las Entidades Paraestatales, para que comparezcan y rindan los informes solicitados bajo protesta de decir verdad.
 
 El Congreso del Estado, podrá requerir información o documentación a los titulares de las dependencias y entidades del gobierno del Estado, mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a quince días naturales a partir de su formulación.
 
@@ -1046,11 +1048,9 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
-
-XXVII.- Recibir de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor Superior de Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución.
+XXVII.- Recibir de los Diputados, Gobernador, Fiscal General del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor Superior de Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -1072,17 +1072,13 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los diputado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, Tribunal Estatal Electoral, Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, del Fiscal General del Estado, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior de Fiscalización; del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como de los Titulares de los órganos superiores de los Organismos Constitucionales Autónomos;
 
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral y del Procurador General de Justicia, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior de Fiscalización; del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos superiores de los organismos constitucionales autónomos.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
-
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, al del Tribunal Unitario de Justicia para Adolescentes, al Procurador General de Justicia y al Auditor Superior de Fiscalización, siempre que su ausencia exceda de treinta días.
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, al del Tribunal Unitario de Justicia para Adolescentes, al Fiscal General del Estado y al Auditor Superior de Fiscalización, siempre que su ausencia exceda de treinta días;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1096,9 +1092,9 @@ XXXV.- Designar al representante del Poder Legislativo ante el Consejo de la Jud
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal Estatal Electoral; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y al Magistrado del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Procurador General de Justicia del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal Estatal Electoral; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y al Magistrado del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Fiscal General del Estado, éste último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
 
 Asimismo, designar si fuera procedente, por un período más a los Magistrados Numerarios del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrados del Tribunal Estatal Electoral y Magistrado del Tribunal Unitario de Justicia para Adolescentes.
 
@@ -1116,9 +1112,9 @@ XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al E
 
 XL.- Nombrar a los Consejeros propietarios y suplentes del Instituto Morelense de Información Pública y Estadística, previa consulta pública.
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-XLI.- Declarar que ha lugar o no a la formación de causa por delitos oficiales o del orden común en contra de los Diputados, Gobernador y Magistrados del Tribunal Superior de Justicia y Consejeros de la Judicatura.
+XLI.- Declarar que ha lugar o no a la formación de causa por delitos federales en contra de los Diputados, Gobernador y Magistrados del Tribunal Superior de Justicia y Consejeros de la Judicatura, en términos del artículo 111, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1170,9 +1166,9 @@ LI.- Expedir la Ley que instituya el tribunal de lo Contencioso-Administrativo d
 
 LII.- Expedir el bando solemne para dar a conocer en todo el Estado, la declaración de Gobernador electo que hubiere hecho el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en su caso.
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-LIII.- Aprobar por mayoría simple de los integrantes de la Legislatura, la solicitud de remoción del Procurador General de Justicia que presente el Titular del Poder Ejecutivo del Estado.
+LIII.- Aprobar por la mayoría simple de los integrantes de la Legislatura, la solicitud de remoción del Fiscal General del Estado que presente el Titular del Poder Ejecutivo del Estado.
 
 (REFORMADA, P.O. 11 DE AGOSTO DE 2003) (F. DE E., P.O. 19 DE NOVIEMBRE DE 2003)
 
@@ -1202,9 +1198,13 @@ a) Establecer, mediante la expedición de una ley, las bases conforme a las cual
 
 b) Autorizar, en su caso, conforme a las bases que se establezcan en la ley, al Estado, a los Municipios, a los organismos descentralizados estatales o municipales, a las empresas de participación estatal o municipal mayoritaria y a los fideicomisos públicos que formen parte de la Administración Pública Paraestatal y Paramunicipal, para la celebración de contratos de colaboración público privada; para la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de dichos contratos o de cualesquier otros actos jurídicos relacionados con los mismos; y para la celebración de las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran.
 
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+
+LVIII.- Recibir las propuestas que formule el Gobernador Constitucional del Estado respecto de iniciativas de leyes generales, de competencia concurrente, o sus reformas, dando a las mismas el tratamiento legislativo que en el ámbito estatal se previene en esta Constitución; y
+
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-LVIII.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
+LIX.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1458,9 +1458,9 @@ II.- Los miembros del Ejército Mexicano y quienes tengan mando de fuerza dentro
 
 III.- Los que tengan algún empleo, cargo o comisión civil del Gobierno Federal, si no se separan noventa días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-IV.- Los Secretarios del Despacho, el Procurador General de Justicia y los Magistrados del Tribunal Superior de Justicia si no se separan de sus respectivas funciones 90 días antes del día de la elección.
+IV.- Los Secretarios del Despacho, el Fiscal General del Estado y los Magistrados del Tribunal Superior de Justicia, si no se separan de sus respectivas funciones 90 días antes del día de la elección;
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 1933)</small>
 
@@ -1690,9 +1690,9 @@ XXXII.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal 
 
 XXXIII.- Presentar su declaración patrimonial de bienes en los términos que determine esta Constitución.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-XXXIV.- Presentar al Congreso del Estado la terna de ciudadanos de entre quienes se designe al Procurador General de Justicia, así como solicitar a la Legislatura la remoción del mismo, exponiendo los motivos o razones para ello.
+XXXIV.- Presentar al Congreso del Estado la terna de ciudadanos de entre quienes se designe al Fiscal General del Estado, así como solicitar a la Legislatura la remoción del mismo, exponiendo los motivos o razones para ello;
 
 (ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
@@ -1722,9 +1722,13 @@ XL.- Informar trimestralmente al Congreso, sobre el ejercicio de las partidas co
 
 XLI.- Dirigir la política turística estatal y presidir el Consejo Estatal de Turismo, la ley establecerá los términos en que se integrará el mismo. En tal conducción de tal política, el Titular del Poder Ejecutivo observará los principios de sustentabilidad, competitividad, desarrollo social y seguridad integral a la inversión productiva.
 
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+
+XLII.- Presentar al Congreso del Estado propuestas que se puedan adoptar por éste como iniciativas de leyes generales, de competencia concurrente, o sus reformas; y
+
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
-XLII.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
+XLIII.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1764,7 +1768,9 @@ DE LOS SECRETARIOS Y DEMAS SERVIDORES PUBLICOS.
 
 Para el despacho de las facultades encomendadas al Ejecutivo, habrá Secretarios de Despacho, un Consejero Jurídico y los servidores públicos que establezca la ley, la que determinará su competencia y atribuciones.
 
-Se consideran Secretarios de Despacho, el Secretario de Gobierno, el Procurador General de Justicia del Estado y los demás funcionarios públicos que con ése carácter determine la Ley.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+Se consideran Secretarios de Despacho, el Secretario de Gobierno y los demás funcionarios públicos que con ese carácter determine la Ley.
 
 El Consejero Jurídico estará sujeto a las responsabilidades que determina el Título Séptimo de esta Constitución.
 
@@ -1808,7 +1814,9 @@ El decreto promulgatorio que realice el titular del Ejecutivo del Estado respect
 
 Los Secretarios de Despacho serán los órganos de comunicación por cuyo conducto hará saber el Gobernador sus resoluciones y en su caso, llevarán la voz de éste ante el Congreso, cuando el Gobernador o la Legislación local lo juzguen oportuno.
 
-En cualquier tiempo, el Congreso o la Diputación Permanente, en su caso, podrá citar al Procurador General de Justicia o a los Titulares de las Secretarías para informar del estado que guarde la administración de la dependencia a su cargo, o para explicar y asesorar cuando se discuta un proyecto legislativo, o se estudie un asunto relacionado con sus atribuciones.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+En cualquier tiempo, el Congreso o la Diputación Permanente, en su caso, podrá citar al Fiscal General del Estado o a los Titulares de las Secretarías para informar del estado que guarde la administración del área a su cargo, o para explicar y asesorar cuando se discuta un proyecto legislativo, o se estudie un asunto relacionado con sus atribuciones.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -1824,73 +1832,75 @@ Los Servidores Públicos a que se refiere el artículo 74 de esta Constitución,
 
 Los servidores públicos a que alude este precepto, así como aquellos que del mismo Poder Ejecutivo del Estado determine la Ley de Responsabilidades de los Servidores Públicos del Estado, deberán entregar al Congreso del Estado, las declaraciones patrimoniales de bienes que establece el Artículo 133 bis de la presente Constitución.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2014)</small>
 
-### CAPITULO IV.
+### CAPÍTULO IV.
 
-DE LA PROCURADURIA GENERAL DE JUSTICIA.
+DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 79-A.
 
-El Ministerio Público tiene las atribuciones fundamentales siguientes:
+El ejercicio de las funciones del Ministerio Público se realizará por medio de la Fiscalía General del Estado de Morelos, la que estará dotada de autonomía de gestión, técnica y de ejercicio y aplicación del gasto público que le asigne el Congreso del Estado en el presupuesto anual correspondiente. Su Titular será el Fiscal General del Estado.
 
-I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a las garantías individuales en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita.
+En el Decreto del Presupuesto de Egresos del Gobierno del Estado, la asignación de recursos destinados a la Fiscalía General del Estado nunca será menor a la que le haya correspondido en el Ejercicio Fiscal del año anterior.
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+El Ministerio Público, además de las atribuciones que la Constitución Política de los Estados Unidos Mexicanos le confiere, tendrá las siguientes:
 
-II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia, a él corresponderá recibir las denuncias, acusaciones o querellas tanto de las autoridades como de los particulares, practicar desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de las autoridades judiciales, buscar y presentar las pruebas que acrediten los elementos del cuerpo del delito de que se trate, así como las que acrediten la probable responsabilidad de los inculpados;
+I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a los Derechos Humanos en todos los asuntos en que intervenga;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+II.- Interponer los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita;
 
-III.- Ejercitar acción penal en contra de los probables responsables del delito ante los Tribunales competentes, solicitando las órdenes de aprehensión que procedan con arreglo a la ley.
+III.- Investigar y perseguir ante los tribunales del orden común los delitos, en términos de lo dispuesto por las normas penales, tanto del fuero común como cuando se produzca la competencia concurrente en el ámbito federal;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+IV.- Como participante de los Sistemas De Seguridad Pública, establecer la coordinación necesaria con las Policías Preventivas, Estatales y Municipales, para las acciones de investigación y persecución de los delitos, para una efectiva Seguridad Pública, diseñando y aplicando los protocolos pertinentes;
 
-IV.- Hacer lo conducente para que los juicios se sigan con toda regularidad, pidiendo la aplicación de las penas que estime procedentes en sus respectivos casos;
+V.- Atender, en sus términos, la legislación relativa a la atención de víctimas de delitos y de violaciones de Derechos Humanos, incorporando estrategias, políticas y modelos de profesionalización de los recursos humanos que tenga asignados;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+VI.- Intervenir en los procedimientos judiciales en que tenga competencia, atendiendo las reglas del debido proceso y, en su caso, en los asuntos judiciales que interesen a la sociedad y a las personas a quienes la ley conceda especial protección, en la forma y términos que la misma determine;
 
-V.- Intervenir en los asuntos judiciales que interesen a la sociedad y a las personas a quienes la ley conceda especial protección, en la forma y términos que la misma determine;
+VII.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a quienes tengan entre doce años cumplidos y menos de dieciocho años de edad y se les atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, y
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+VIII.- Ejercer las demás atribuciones que le encomienden las leyes.
 
-VI.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a los menores que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los derechos fundamentales que reconoce la Constitución de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley;
-
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
-
-VII.- Ejercer las demás atribuciones que le encomienden las leyes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 79-B.
 
-El personal del Ministerio Público estará integrado por un Procurador General de Justicia, que será el jefe de la institución, y por agentes de su dependencia, a quienes nombrará y removerá libremente; en el aspecto administrativo, la Procuraduría y su Titular dependerán directamente del Ejecutivo del Estado; para la designación del Procurador General de Justicia se observará lo establecido en la fracción LIII, del artículo 40 de esta Constitución.
+La Institución del Ministerio Público estará integrada por un Fiscal General del Estado de Morelos, que será el jefe de la misma, y por agentes del Ministerio Público de su Dependencia, a quienes nombrará y removerá libremente.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+La Fiscalía General del Estado es una institución integrada al Poder Ejecutivo del Estado.
+
+La designación del Fiscal General del Estado se hará en términos de lo dispuesto por la fracción XXXVII del artículo 40 de esta Constitución.
+
+Para dar cumplimiento a lo que se refiere en el párrafo anterior, el Gobernador del Estado deberá presentar al Congreso del Estado la terna de ciudadanos en un plazo máximo de treinta días.
+
+En caso de falta absoluta del Fiscal General del Estado, el Gobernador enviará al Congreso, en un plazo de treinta días, la terna para la designación de uno nuevo; en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo; el encargado deberá cumplir los mismos requisitos que para ser Fiscal General del Estado esta Constitución establece.
+
+Cuando sea renovado el Poder Ejecutivo, por elección directa o por el Congreso del Estado, su Titular podrá solicitar al Poder Legislativo, dentro del primer semestre de su administración, la designación de un nuevo Fiscal General del Estado.
+
+El Fiscal General del Estado deberá comparecer ante el Pleno del Congreso del Estado a rendir un informe semestral de su gestión.
 
 La ley organizará al Ministerio Público y determinará la forma y términos en que deba ejercer sus funciones.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+Para ser Fiscal General del Estado se deberán reunir los siguientes requisitos:
 
-El Procurador General de Justicia será designado en términos de lo dispuesto por la fracción XXXVII, (sic) artículo 40 de la presente Constitución.
+I.- Ser ciudadano morelense o ciudadano mexicano, en éste último caso, con una residencia de tres años inmediatos anteriores en el Estado; en pleno ejercicio de sus derechos;
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+II.- Contar con treinta y cinco años de edad y no ser mayor de sesenta y cinco años de edad, a la fecha de su designación;
 
-Para dar cumplimiento a lo que se refiere el párrafo anterior, el Gobernador del Estado deberá presentar al Congreso del Estado la terna de ciudadanos en un plazo máximo de 30 días.
+III.- Poseer título y cédula profesional de licenciatura en derecho, con antigüedad de cinco años previos a la fecha de su designación;
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+IV.- Ser de reconocida honorabilidad y honradez;
 
-En caso de falta absoluta del Procurador General, el Gobernador enviará al Congreso, en un plazo de treinta días, la terna para la designación de uno nuevo; en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo; el encargado deberá cumplir los mismos requisitos que para ser Procurador esta Constitución establece.
+V.- No haber sido sentenciado a pena privativa de libertad por delito doloso. Empero, si se tratare de ilícitos que lesionen seriamente la buena fama de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo, cualquiera que haya sido la penalidad impuesta; y
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+VI.- No haber sido inhabilitado para el ejercicio de cargos, empleos o comisiones públicos.
 
-Cuando sea renovado el Poder Ejecutivo, por elección directa o por el Congreso del Estado, su Titular podrá solicitar al Poder Legislativo la designación de un nuevo Procurador.
+La residencia no se interrumpirá por el desempeño de un cargo de elección popular al Congreso de la Unión o un empleo, cargo o comisión en la Administración Pública Federal.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
-
-El Procurador designado invariablemente deberá tener los mismos requisitos que para ser Magistrado del Tribunal Superior exige el artículo 90 de esta Constitución.
+El requisito de residencia a que se refiere la fracción I del presente artículo, podrá ser dispensado en el caso de que quien ocupe el cargo de Fiscal General del Estado acredite fehacientemente el haber servido en alguna institución del Ministerio Público del País, durante al menos los cinco años previos a la designación.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 1988)</small>
 
@@ -2150,9 +2160,9 @@ VII.- Cumplir con los requisitos, criterios, procedimientos, e indicadores de ge
 
 Los nombramientos de los Magistrados deberán recaer preferentemente entre aquéllas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados.
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-VIII.- No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Procurador General de Justicia o Diputado Local, durante el año previo al día de su designación.
+VIII.- No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Fiscal General del Estado o Diputado Local, durante el año previo al día de su designación.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -2316,7 +2326,9 @@ III.- Antes de resolver sobre la controversia, en cuanto al fondo, el Tribunal c
 
 IV.- El Tribunal resolverá las controversias que se le sometan como puntos de mero hecho; se limitará a decidir si el precepto que contiene la resolución de que se trate pugna o no con el artículo constitucional que reclame el Ejecutivo, desentendiéndose de la conveniencia o inconveniencia política o administrativa de la Ley o acto reclamado y de los trámites que haya observado el Congreso al ser presentados y discutidos.
 
-V.- El Tribunal deberá resolver, a más tardar dentro del término, de cinco días, contados desde la fecha en que se le hubiere promovido la controversia, atendiendo únicamente al texto expreso de la Constitución, sin interpretar en ningún caso ni usar del arbitrio judicial. La consecuencia única de la declaración del Tribunal, será la subsistencia o nulidad de la Ley o acto reclamado, cuyos efectos estarán suspensos entre tanto. El Procurador General de Justicia tendrá voz en las discusiones.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+V.- El Tribunal deberá resolver, a más tardar dentro del término de cinco días, contados desde la fecha en que le hubiere promovido la controversia, atendiendo únicamente al texto expreso de la Constitución, sin interpretar en ningún caso ni usar el arbitrio judicial. La consecuencia única de la declaración del Tribunal, será la subsistencia o nulidad de la Ley o acto reclamado, cuyos efectos estarán suspensos entretanto. El Fiscal General del Estado tendrá voz en las discusiones.
 
 VI.- Si transcurriere el término a que se refiere la fracción anterior, sin que el Tribunal haga la declaración que corresponda, subsistirán definitivamente la Ley o acto reclamado, sin perjuicio de exigir la responsabilidad en que hubieren incurrido los Magistrados por la omisión del fallo.
 
@@ -3028,15 +3040,15 @@ La Comisión correspondiente del Congreso del Estado, instruirá el expediente s
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
-Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor Superior de Fiscalización, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
+Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor Superior de Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
 
-(REFORMADO, P.O. 11 DE AGOSTO DE 2003) (F. DE E., P.O. 20 DE AGOSTO DE 2003)
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 137.
 
-Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión Estatal de Derechos Humanos.
+Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Fiscal General del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión Estatal de Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -3044,15 +3056,15 @@ Son responsables y serán sometidos a juicio político por actos y omisiones en 
 
 En los casos del Artículo anterior, el Congreso erigido en Jurado de declaración oirá al acusado, a su defensor o a ambos si quisieren, y previa lectura del expediente respectivo decidirá si es o no responsable. Si la declaración fuere absolutoria el Servidor Público continuará en el ejercicio de su encargo. Si fuere condenatorio, quedará suspenso y a disposición del Tribunal Superior de Justicia para los efectos del Artículo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 139.
 
-El Tribunal Superior de Justicia como jurado de sentencia, previa audiencia del acusador, del Procurador de Justicia y del acusado, su defensor o de ambos, procederá por mayoría absoluta de votos, a dictar la resolución que en derecho proceda. Si el hecho motivo del procedimiento ameritare sanción penal conforme a la ley, el responsable quedará a disposición de la autoridad competente para que se le instruya el proceso respectivo.
+El Tribunal Superior de Justicia como jurado de sentencia, previa audiencia del acusador, del Fiscal General del Estado y del acusado, su defensor o de ambos, procederá por mayoría absoluta de votos, a dictar la resolución que en derecho proceda. Si el hecho motivo del procedimiento ameritare sanción penal conforme a la ley, el responsable quedará a disposición de la autoridad competente para que se le instruya el proceso respectivo.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
-Cuando el Acusado sea el Procurador de Justicia ejercerá las funciones de tal el que designe el Ejecutivo o el Servidor Público que deba suplirlo con arreglo a la Ley.
+Cuando el acusado sea el Fiscal General del Estado ejercerá las funciones de tal el que designe el Ejecutivo o el servidor público que deba suplirlo con arreglo a la Ley.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -4395,3 +4407,21 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 EI presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 19 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda vez que fue emitida la Declaratoria y aprobado el presente Decreto por el Constituyente Permanente, las reformas a diversas disposiciones de la Constitución Política del Estado por las que se crea la Fiscalía General del Estado, entrarán en vigor en la misma fecha en que lo hagan las normas secundarias que expida el Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Procurador General de Justicia que se encuentre en funciones al momento de expedirse la Declaratoria a que se refiere el transitorio anterior, quedará designado por virtud de este Decreto, como Fiscal General del Estado, sin perjuicio del procedimiento de remoción previsto en la fracción XXXIV del artículo 70.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de las reformas a que se refiere el Transitorio Segundo, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General del Estado que el propio Decreto establece, respetándose los derechos de los Servidores Públicos de la institución, en términos de la normativa que resulte aplicable a cada caso.
