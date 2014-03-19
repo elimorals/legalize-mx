@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-expropiacion-para-el-estado-de-puebla-65165"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-03"
-last_updated: "2009-08-14"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE EXPROPIACION PARA EL ESTADO DE PUEBLA
 
-LEY DE EXPROPIACION PARA EL ESTADO DE PUEBLA
+LEY DE EXPROPIACIÓN PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de diciembre de 2008.
 
@@ -41,9 +41,11 @@ LEY DE EXPROPIACIÓN PARA EL ESTADO DE PUEBLA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente Ley son de interés público y de observancia general en el Estado de Puebla; tienen por objeto determinar las causas de utilidad pública y regular el procedimiento que el Estado o los Municipios deberán efectuar para llevar a cabo las expropiaciones, ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, las cuales sólo podrán hacerse por causa de utilidad pública y mediante indemnización, previa la declaratoria respectiva.
+Las disposiciones contenidas en la presente Ley son de interés público y de observancia general en el Estado de Puebla; tienen por objeto determinar las causas de utilidad pública y regular el procedimiento que el Estado o los Municipios deberán efectuar para llevar a cabo las expropiaciones, ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, las cuales sólo podrán hacerse por causa de utilidad pública y mediante indemnización, previo el decreto correspondiente.
 
 En lo no previsto por la presente Ley y resulte conducente, se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
@@ -101,7 +103,9 @@ XX.- Los demás casos previstos por Leyes especiales.
 
 En los casos comprendidos en el artículo que antecede, previa declaración del Ejecutivo del Estado o del Ayuntamiento del Municipio dentro de cuya jurisdicción se encuentre comprendido el caso de utilidad pública, procederá la expropiación, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio para los fines que se establezcan en la propia declaratoria.
 
-### CAPÍTULO II. EL PROCEDIMIENTO DE DECLARACIÓN DE UTILIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2014)</small>
+
+### CAPÍTULO II. DEL PROCEDIMIENTO DE DECLARACIÓN DE UTILIDAD PÚBLICA Y DE EXPROPIACIÓN
 
 ###### Artículo 4.
 
@@ -111,35 +115,71 @@ I.- El Titular del Ejecutivo del Estado, cuando la obra de utilidad pública ben
 
 II.- El Ayuntamiento del Municipio en que va a ejecutarse la obra de que se trata, cualquiera que ésta sea, siempre y cuando, se afecte exclusivamente al interés de los centros de población del mismo Municipio.
 
-En el primer caso el Secretario de Gobernación, y en el segundo el Síndico Municipal del Ayuntamiento correspondiente, a través de las Unidades Administrativas respectivas, tramitarán el expediente de expropiación, de ocupación temporal o de limitación de dominio.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+En el primer caso el Secretario General de Gobierno, y en el segundo el Síndico Municipal del Ayuntamiento correspondiente, a través de las Unidades Administrativas respectivas, tramitarán el expediente de expropiación, de ocupación temporal o de limitación de dominio.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 5.
 
-En los casos previstos en el artículo anterior, la Autoridad Expropiante iniciará el procedimiento para declarar la utilidad pública de un bien, de conformidad con lo siguiente:
+La Autoridad Expropiante deberá formar el expediente correspondiente conforme al procedimiento siguiente:
 
-I.- El expediente que contenga el inicio de la declaratoria de utilidad pública se formará con la emisión de un Acuerdo por parte de la Autoridad Expropiante, en el que se haga constar el estudio económico, social y técnico, que justifique la necesidad de la afectación del inmueble, así como la factibilidad del proyecto a ejecutar;
+I.- La Autoridad Expropiante iniciará fijando la causa de utilidad pública que corresponda con base en los estudios económicos, sociales y técnicos que al efecto emita la Dependencia o Entidad competente, en términos de la materia de que se trate;
 
-II.- Una vez integrado el expediente señalado en la fracción anterior, la Autoridad Expropiante correspondiente, notificará de manera personal y por escrito al propietario o propietarios del bien afectado, en términos del artículo 8 de la presente Ley, haciendo de su conocimiento el contenido del expediente en cuestión, corriéndole traslado con el Acuerdo respectivo, otorgándole un término no mayor de cinco días hábiles para que se imponga de las constancias integrantes del mismo, y ocho días hábiles para que manifiesten lo que a su derecho e interés convenga, ante la Autoridad Expropiante, presentando las pruebas que establezca el Código de Procedimientos Civiles para el Estado de Puebla, a excepción de la declaración de parte sobre hechos propios o ajenos y la testimonial; aquéllas deberán desahogarse en un periodo no mayor a diez días hábiles;
+II.- Con base en lo anterior, la Autoridad Expropiante emitirá la declaratoria de utilidad pública en la que se justifique la necesidad de la afectación del inmueble, así como la factibilidad del proyecto a ejecutar; la mandará a publicar en el Periódico Oficial del Estado y en un diario de la Entidad, y notificará de manera personal a los titulares de los bienes o derechos que resultarían afectados.
 
-III.- En el expediente respectivo se harán constar los datos generales, informes y cualquier otra documentación pertinente al caso, que sean aportados por la Autoridad Expropiante, así como las manifestaciones y pruebas que serán presentados por los propietarios del bien afectado, en el periodo previsto para su defensa, el cual posterior a la presentación de los argumentos de los propietarios, deberá ser resuelto por la Autoridad Expropiante fundando y motivando debidamente el resultado, en un término no mayor a veinticinco días hábiles;
+En caso de ignorarse quiénes son los titulares o bien su domicilio o localización, se efectuará una segunda publicación de la declaratoria en el Periódico Oficial del Estado, dentro de los cinco días hábiles siguientes a la primera publicación, la cual surtirá efectos de notificación personal.
 
-IV.- Una vez realizado el estudio y análisis de los argumentos que fundamentaron la causa de utilidad pública, y de las pruebas presentadas por el o los propietarios, de considerarlo procedente, se procederá a decretar por causa de utilidad pública la expropiación respectiva. Decreto de Expropiación o limitación de dominio que sólo podrá ser emitido por la Autoridad Expropiante, posteriormente a ser oído el o los propietarios del bien afectado; y
+Se ordenará se realice la anotación preventiva del Decreto de Utilidad Pública ante el Registro Público de la Propiedad del Municipio al que corresponda el bien materia de la expropiación.
 
-V.- Se ordenará se realice la anotación preventiva del Decreto de Utilidad Pública ante el Registro Público de la Propiedad del Municipio al que corresponda el bien materia de la expropiación.
+III.- Los interesados tendrán un plazo de doce días hábiles a partir de la notificación o de la segunda publicación en el Periódico Oficial del Estado, para manifestar ante la Autoridad Expropiante lo que a su derecho convenga y presentar las pruebas que estimen pertinentes;
+
+IV.- En su caso, la Autoridad Expropiante citará a una audiencia para el desahogo de pruebas, misma que deberá verificarse dentro de los cinco días hábiles siguientes a la recepción de las manifestaciones a que se refiere el párrafo anterior. Concluida dicha audiencia, se otorgará un plazo de tres días hábiles para presentar alegatos por escrito;
+
+V.- Presentados los alegatos o fenecido el plazo para ello sin que se presenten, la Autoridad Expropiante contará con un plazo de diez días hábiles para confirmar, modificar o revocar la declaratoria de utilidad pública. Dicha resolución se notificará personalmente al interesado entregándole copia íntegra de la misma;
+
+VI.- De subsistir la necesidad, la Autoridad Expropiante, dentro de los treinta días hábiles siguientes a que se haya dictado la resolución a que se refiere el párrafo anterior, emitirá el decreto de expropiación correspondiente, el cual se mandará a publicar en el Periódico Oficial del Estado, y
+
+VII.- Transcurrido el plazo sin que se haya emitido el decreto respectivo, la declaratoria de utilidad pública quedará sin efectos.
+
+Lo dispuesto en este artículo será aplicable en lo conducente en los casos en los que se decrete la ocupación temporal o la limitación de dominio.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+###### Artículo 5 Bis.
+
+En los casos previstos en las fracciones I, II, VI, XII y XIV del artículo 2 de esta Ley, la Autoridad Expropiante podrá emitir la declaratoria de utilidad pública y decretar la expropiación. En estos casos, no será aplicable lo dispuesto en las fracciones III a VII del artículo 5 de esta Ley.
+
+Contra la resolución que conforme a este artículo se emita, es admisible el recurso administrativo de revocación.
+
+Decretada la expropiación se tomará posesión provisional de los bienes afectados, destinándolos desde luego a la satisfacción de las necesidades públicas que la hubieren motivado; sin perjuicio de que, resuelto el recurso administrativo, si fuere procedente, se reponga al propietario afectado en los bienes expropiados, si fuere posible, excepto el uso que de ellos se hubiere hecho, por el cual se compensará en forma equitativa y prudente, así como también cuando se hubieren consumido las cosas expropiadas o transformado de modo que no sea posible restituirlas a su antiguo estado, se otorgará una compensación equitativa.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+###### Artículo 5 Ter.
+
+Una vez realizada la declaratoria de utilidad pública y en tanto se expida el decreto de expropiación, la Autoridad Expropiante podrá convenir con los titulares de los bienes o derechos afectados la ocupación previa.
 
 ###### Artículo 6.
 
 El procedimiento señalado en el artículo que antecede será substanciado y resuelto por la Autoridad Expropiante, a través de:
 
-I.- La Secretaría de Gobernación si la expropiación fue realizada por el Titular del Poder Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-II.- El Sindico Municipal cuando la expropiación fue realizada por un Ayuntamiento.
+I.- La Secretaría General de Gobierno, si la expropiación corresponde al Titular del Poder Ejecutivo del Estado; y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+II.- El Síndico Municipal, cuando la expropiación corresponde al Ayuntamiento.
 
 ###### Artículo 7.
 
 El Decreto de Expropiación contendrá:
 
-I.- La declaratoria de utilidad pública fundada en alguna de las causas previstas en el artículo 2 de esta Ley;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+I.- Un extracto de la declaratoria de utilidad pública en el que se advierta el fundamento y motivo de alguna de las causas previstas en el artículo 2 de esta Ley;
 
 II.- Si se trata de bienes inmuebles la ubicación linderos y extensión superficial, así como el valor con que aparezca registrado en las Oficinas Fiscales y sí se trata de bienes muebles, la descripción de los mismos;
 
@@ -149,31 +189,43 @@ IV.- La mención de haber otorgado el derecho de audiencia al propietario; y
 
 V.- La declaratoria de expropiación con expresión del fin que pretende alcanzarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 8.
 
-El Decreto de Expropiación se mandará publicar por una sola vez en el Periódico Oficial del Estado y en otro de mayor circulación en la Entidad y se notificará al propietario del bien expropiado personalmente, o por medio de instructivo cuando se tuviere conocimiento de su domicilio. El instructivo se entregará a los parientes o domésticos del interesado o a cualquier otra persona que viva en la casa, o en defecto de éstos, a alguno de los vecinos inmediatos o al inspector de la sección, cerciorándose previamente la persona comisionada para hacer la notificación de que en ese lugar reside efectivamente el interesado, y asentará la razón correspondiente. El instructivo contendrá copia íntegra del Decreto Expropiatorio, y la fecha y hora en que se deja, así como el nombre y apellido de la persona a quien se entrega.
+El Decreto de Expropiación se mandará publicar por una sola vez en el Periódico Oficial del Estado y en un diario de mayor circulación en la Entidad y se notificará al propietario del bien expropiado, personalmente o por medio de instructivo cuando se tuviere conocimiento de su domicilio. El instructivo se entregará a los parientes o empleados del interesado o a cualquier otra persona que viva en el inmueble, o en defecto de éstos, a alguno de los vecinos inmediatos o al inspector de la sección, previa verificación de la persona comisionada para hacer la notificación de que en ese lugar reside efectivamente el interesado, y asentará la razón correspondiente. La notificación contendrá copia íntegra del Decreto Expropiatorio, y la fecha y hora en que se deja, así como el nombre y apellido de la persona a quien se entrega.
 
-Si el propietario del bien expropiado no es vecino del Estado o del Municipio en los casos a que se refiere este artículo, se le notificará por medio de oficio remitido por correo certificado con acuse de recibo.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+Si el propietario del bien expropiado no es vecino del Estado o del Municipio, se le notificará por medio de oficio remitido por correo certificado con acuse de recibo.
 
 En caso de ignorarse el domicilio de la persona o personas interesadas, se les notificará el Decreto Expropiatorio por edictos publicados tres veces consecutivas en el Periódico Oficial del Estado y en otro de mayor circulación en la Entidad, a juicio de la Autoridad Expropiante y bajo su responsabilidad.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 9.
 
-Una vez publicado el Decreto de Expropiación y notificado al propietario o propietarios, se mandará inscribir en el Registro Público de la Propiedad que corresponda, tratándose de inmuebles; la Autoridad Expropiante podrá proceder a la ocupación de los bienes muebles o inmuebles, objeto de la expropiación, o imponer la ejecución inmediata de las disposiciones limitativas al dominio.
+Una vez publicado el Decreto de Expropiación, se notificará al propietario o propietarios, y tratándose de inmuebles, se mandará inscribir en el Registro Público de la Propiedad que corresponda; la Autoridad Expropiante podrá proceder a la ocupación de los bienes muebles o inmuebles, objeto de la expropiación, o imponer la ejecución inmediata de la ocupación temporal, total o parcial o de las disposiciones limitativas al dominio.
 
 ### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO DE REVOCACIÓN
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 10.
 
-Los propietarios afectados, dentro de los ocho días hábiles siguientes a la notificación del Decreto Expropiatorio, podrán interponer Recurso Administrativo de Revocación contra la declaratoria correspondiente, ante el Titular del Poder Ejecutivo del Estado.
+En contra del Decreto Expropiatorio, dentro de los ocho días hábiles siguientes a su notificación, los propietarios afectados, podrán interponer Recurso Administrativo de Revocación ante el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 11.
 
 El escrito mediante el cual se interponga el Recurso Administrativo de Revocación contendrá:
 
-I.- El nombre y domicilio para recibir notificaciones del propietario o propietarios afectados con la expropiación;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-II.- La personalidad con que se actúa;
+I.- Nombre del propietario o propietarios afectados con la expropiación, así como domicilio en la Ciudad de Puebla para recibir notificaciones;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+II.- Documentos que acrediten la personalidad con que se ostenta;
 
 III.- Los datos del bien o bienes afectados;
 
@@ -187,7 +239,9 @@ VII.- La expresión de los agravios que a juicio del recurrente se causen;
 
 VIII.- Las pruebas que estime convenientes, mismas que deberán guardar estrecha relación con los hechos y agravios aducidos, así como la expresión concreta en cada caso de qué es lo que se pretende probar; y
 
-IX.- La firma autógrafa del recurrente.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+IX.- La firma autógrafa del recurrente, o su huella digital en caso de no saber firmar.
 
 ###### Artículo 12.
 
@@ -197,9 +251,11 @@ Al escrito del Recurso Administrativo de Revocación deberá acompañarse copia 
 
 Dentro del Recurso Administrativo de Revocación podrán ofrecerse las pruebas que se establecen en el Código de Procedimientos Civiles para el Estado de Puebla, con excepción de la declaración de partes sobre hechos propios o ajenos y la testimonial, conforme a las reglas que para su desahogo se determinan en el mismo.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 14.
 
-El Gobernador del Estado facultará mediante Acuerdo, a la Consejería Jurídica del Ejecutivo Estatal, para que sea la Dependencia encargada de llevar a cabo el trámite y substanciación del Recurso Administrativo de Revocación, efectuando todas y cada una de las diligencias necesarias para el adecuado desahogo del Recurso, hasta poner en estado de resolución el mismo, lo cual no deberá de exceder de un término de sesenta días hábiles.
+La Consejería Jurídica del Gobernador, será la Dependencia encargada de llevar a cabo el trámite y substanciación del Recurso Administrativo de Revocación, efectuando todas y cada una de las diligencias necesarias para el adecuado desahogo del Recurso, hasta poner en estado de resolución el mismo.
 
 ###### Artículo 15.
 
@@ -219,15 +275,15 @@ II.- Si encontrare motivo manifiesto e indubitable de improcedencia; y
 
 III.- Cuando prevenido el recurrente para que aclare o cumplimente el escrito de interposición, no lo hiciere dentro del término correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 18.
 
-La interposición del recurso suspenderá la ejecución del acto impugnado, en los siguientes casos:
+La interposición del Recurso suspenderá la ejecución del acto impugnado, siempre que concurran los requisitos siguientes:
 
-I.- Lo solicite expresamente el recurrente;
+I.- Que lo solicite el recurrente; y
 
-II.- No se siga perjuicio al interés social o se contravengan disposiciones de orden público; y
-
-III.- No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable.
+II.- Que no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
 
 ###### Artículo 19.
 
@@ -275,9 +331,11 @@ IV.- La expresión en los puntos resolutivos de la reposición del procedimiento
 
 Contra la resolución dictada no procederá recurso alguno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 23.
 
-Agotadas todas las diligencias necesarias del Recurso Administrativo de Revocación, la Consejería Jurídica del Ejecutivo Estatal remitirá al Titular del Ejecutivo la Resolución que conforme a derecho proceda, debidamente fundada y motivada sobre la eficacia de los agravios expresados por el recurrente, confirmando, modificando o revocando la declaratoria impugnada.
+Una vez que el expediente del Recurso se encuentre en estado de resolución, la Consejería Jurídica del Gobernador someterá el mismo a la consideración del Titular del Ejecutivo, para que dicte la resolución que conforme a derecho proceda confirmando, modificando o revocando la declaratoria impugnada.
 
 La resolución a que se refiere el párrafo anterior, deberá ser notificada personalmente al recurrente.
 
@@ -287,9 +345,11 @@ La resolución a que se refiere el párrafo anterior, deberá ser notificada per
 
 Decretada la expropiación, el afectado con ella y la autoridad que la ordenó podrán llegar a un convenio sobre el importe de la indemnización, siempre y cuando dicho convenio se firme en un plazo no mayor de diez días hábiles contados a partir de la notificación del Decreto Expropiatorio. En el caso de no celebrarse este convenio se procederá de acuerdo con los siguientes artículos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 25.
 
-Iniciado el término a que se refiere el artículo anterior, la autoridad que decretó la expropiación procederá a fijar el monto de la indemnización de acuerdo con las siguientes bases:
+Una vez transcurrido el término a que se refiere el artículo anterior sin que exista convenio con el afectado de la expropiación, la autoridad que la decretó procederá a fijar el monto de la indemnización de acuerdo con lo siguiente:
 
 El precio que se fijará como indemnización a la cosa expropiada se basará en la cantidad que como valor fiscal de ella figure en las Oficinas Fiscales, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que podrá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las Oficinas Fiscales.
 
@@ -307,7 +367,9 @@ Si una de las partes no nombra perito o cualquiera de los nombrados no presentar
 
 Rendidos los peritajes conforme al artículo anterior, el juez resolverá con arreglo a las siguientes bases:
 
-El avalúo hecho por un solo perito en el caso del artículo anterior, o por dos si éstos hubieran estado conformes, se tendrá como precio de la cosa valuada. Si hubiere diferencia menor de un diez por ciento, se tomará el promedio de los dos avalúos; pero si la diferencia fuere mayor, se recabará el peritaje del tercero en discordia, y el precio legítimo será el que fije el juez analizando los dictámenes.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+En el caso de que el avalúo sea hecho por un solo perito, o por dos si éstos hubieran estado conformes, se tendrá como precio de la cosa valuada. Si hubiere diferencia menor de un diez por ciento, se tomará el promedio de los dos avalúos; pero si la diferencia fuere mayor, se recabará el peritaje del tercero en discordia, y el precio legítimo será el que fije el Juez analizando los dictámenes.
 
 ###### Artículo 28.
 
@@ -335,29 +397,51 @@ Los actos de expropiación por causa de utilidad pública referentes a inmuebles
 
 Si los bienes que han originado una declaratoria de expropiación no fueren destinados al fin que dio causa a la declaratoria respectiva, transcurrido el término de cinco años, el propietario afectado podrá reclamar la reversión del bien de que se trate.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+El término comenzará a correr a partir de la publicación del Decreto respectivo en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 34.
 
-La Acción de Reversión a que se refiere el artículo anterior, se interpondrá directamente por escrito ante el Ejecutivo del Estado, dentro del plazo de dos años a partir de la fecha en que sea exigible.
+La Acción de Reversión a que se refiere el artículo anterior, se interpondrá por escrito directamente ante el Ejecutivo del Estado, dentro del plazo de dos años a partir de la fecha en que sea exigible.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 35.
 
-El promovente en su escrito de ejercicio de la Acción de Reversión del bien expropiado, deberá señalar domicilio en esta Ciudad de Puebla, para recibir notificaciones, acompañará los documentos justificativos de su personalidad e interés jurídico, así como las copias necesarias para el traslado a la Autoridad Expropiante y al Tercero Interesado si existiere y deberá ofrecer las pruebas que estime pertinentes para acreditar la procedencia de su pretensión.
+El promovente en su escrito de ejercicio de la Acción de Reversión del bien expropiado, deberá señalar domicilio en esta Ciudad de Puebla, para recibir notificaciones, acompañará los documentos que justifiquen la personalidad e interés jurídico con la que se ostentan, así como, copias necesarias para correr traslado a la Autoridad Expropiante y al Tercero Interesado si existiere y deberá ofrecer las pruebas que estime pertinentes para acreditar la procedencia de su pretensión.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 36.
 
-El Ejecutivo del Estado, al recibir el escrito de la Acción de Reversión, lo remitirá a la Secretaría de Gobernación para que a través de la Dirección General de Asuntos Jurídicos, tramite la substanciación del procedimiento de la Acción de Reversión, dicte los proveídos necesarios y practique las diligencias correspondientes hasta la conclusión de su trámite; incluyendo la presentación del proyecto de resolución definitiva para consideración y firma del Ejecutivo del Estado en términos de la legislación aplicable.
+El Ejecutivo del Estado, al recibir el escrito de la Acción de Reversión, lo remitirá a la Secretaría General de Gobierno para que a través de la Dirección General de Asuntos Jurídicos, tramite la substanciación del procedimiento de la Acción de Reversión, dicte los proveídos necesarios y practique las diligencias correspondientes hasta la conclusión de su trámite; incluyendo la presentación del proyecto de resolución definitiva para consideración y firma del Ejecutivo del Estado, en términos de la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 37.
 
-Recibido por la Dirección General de Asuntos Jurídicos, el escrito del promovente y sus anexos, lo radicará y formará expediente, registrándolo con el número que le corresponda en el libro respectivo.
+Recibido el escrito del promovente y sus anexos, la Dirección General de Asuntos Jurídicos, lo radicará y formará expediente, registrándolo con el número que le corresponda en el libro respectivo.
 
-La Dirección General de Asuntos Jurídicos revisará que se cumpla con los requisitos señalados en el artículo 35 de esta Ley, si faltare alguno de ellos, a fin de no violar la garantía de audiencia del accionante, lo requerirá mediante notificación personal para que dentro del término de cinco días hábiles lo aclare y/o subsane en la parte en que fue omisa, apercibiéndole que de no cumplir se tendrá por no interpuesta la Acción de Reversión.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
-Si no encontrare motivo de improcedencia, tales como falta de interés jurídico, extemporaneidad y desistimiento, admitirá a trámite la Acción de Reversión, agregará el expediente de Reversión, el correspondiente al Decreto Expropiatorio; ordenará se notifique personalmente en el domicilio señalado en autos y dictará los proveídos que le resulten conducentes.
+La Dirección General de Asuntos Jurídicos revisará que se cumpla con los requisitos señalados en el artículo 35 de esta Ley, si faltare alguno de ellos, a fin de no violar la garantía de audiencia del accionante, lo requerirá mediante notificación personal para que dentro del término de cinco días hábiles se aclare y/o subsane la parte en que se omitió, apercibiéndole que de no cumplir, se tendrá por no interpuesta la Acción de Reversión
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+Si no encontrare motivo de improcedencia, tales como falta de interés jurídico, extemporaneidad, consentimiento tácito o expreso del accionante, desistimiento, actos consumados o que ya hayan sido materia de substanciación del procedimiento de reversión, o prescripción de la acción, admitirá a trámite la Acción de Reversión, agregará al expediente de Reversión el correspondiente Decreto Expropiatorio; ordenará se notifique de manera personal al accionante en el domicilio que se señaló en autos y dictará los proveídos que resulten conducentes.
 
 Asimismo, se concederá un plazo de veinte días hábiles al promovente, para que exhiba la cantidad relativa al monto indemnizatorio, contados a partir del día siguiente de su notificación.
 
-En el caso de que el inmueble que se pretenda revertir, haya sufrido mejoras que incremente su valor, éstas serán cuantificadas por el Instituto de Catastro del Estado de Puebla, las cuales deberán ser pagadas previamente a la ejecución de la resolución que concede la Reversión.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+La omisión del promovente de exhibir el monto indemnizatorio en el plazo señalado, originará la suspensión del procedimiento, y empezará a correr el término de la caducidad de la instancia con sus efectos y consecuencias inherentes.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+En el caso de que el inmueble que se pretenda revertir, haya sufrido mejoras que incremente su valor, éstas serán cuantificadas por la autoridad estatal en materia de catastro, las cuales deberán ser pagadas previamente a la ejecución de la resolución que conceda la Reversión.
 
 ###### Artículo 38.
 
@@ -365,13 +449,29 @@ En la notificación a los terceros interesados si existieren, se les correrá tr
 
 La Dirección General de Asuntos Jurídicos podrá solicitar a las Dependencias de la Administración Pública, Federal, Estatal o Municipal, los informes que requiera para mejor proveer y ordenar la práctica de las diligencias que estime pertinentes, así como a petición de parte, conceder un solo término supletorio hasta por cinco días hábiles, para recibir las pruebas que ofrecidas en tiempo y con la oportunidad debida, no hayan podido desahogarse por causas independientes a la voluntad de los interesados; el plazo es común a las partes.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 39.
 
-Transcurrido el término a que se refiere el artículo anterior, la Dirección General de Asuntos Jurídicos, concederá tres días hábiles siguientes para que las partes formulen sus alegatos por escrito; transcurrido dicho plazo, con éstos o sin ellos al día siguiente, debidamente integrado el expediente formado con las constancias y actuaciones que se hubieren ordenado, se pondrá a la consideración del Ejecutivo del Estado, para que dicte la resolución correspondiente dentro de los quince días hábiles siguientes.
+Transcurrido el término a que se refiere el artículo anterior, la Dirección General de Asuntos Jurídicos, concederá tres días hábiles siguientes para que las partes formulen sus alegatos por escrito; transcurrido dicho plazo, con éstos o sin ellos y de no existir cuestiones pendientes por resolver, al día siguiente, debidamente integrado el expediente formado con las constancias y actuaciones que se hubieren ordenado, se pondrá a la consideración del Ejecutivo del Estado, para que dicte la resolución correspondiente dentro de los quince días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+###### Artículo 39 Bis.
+
+La inactividad procesal por parte del accionante por un término de noventa días hábiles, dará origen a la caducidad de la instancia.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+###### Artículo 39 Ter.
+
+La acción de reversión, prescribirá en el plazo máximo de dos años a partir del día siguiente a aquél en que debió ejercitarse conforme a lo previsto en el artículo 34 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### Artículo 40.
 
-Para los efectos de la presente Ley son días hábiles todos los del año, a excepción de los inhábiles señalados en la Ley Orgánica del Poder Judicial del Estado.
+Para los efectos de la presente Ley, son días hábiles todos los del año, a excepción de los inhábiles señalados en la Ley Orgánica del Poder Judicial del Estado y en la Ley de los Trabajadores al Servicio del Estado.
 
 ###### Artículo 41.
 
@@ -385,13 +485,19 @@ De igual forma, en la resolución del Ejecutivo del Estado, se ordenará la apli
 
 En el caso de que la indemnización hubiera sido pagada en especie, será optativo para la Autoridad Expropiante solicitar la devolución de ésta, o del importe en la que haya sido valuada al momento de la expropiación, más el valor de las mejoras o adecuaciones que se hayan realizado al bien respectivo, las cuales serán determinadas por avalúo que se haya emitido en los términos del artículo 37 de esta Ley. El importe de las mismas, deberá ser cubierto en el plazo de treinta días hábiles a partir de la notificación, para que proceda la retrocesión. En caso de inconformidad sobre el valor de las mejoras, el promovente deberá seguir el procedimiento señalado en los artículos 26, 27 y 28 de la Ley.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+En el caso de que el inmueble que se pretenda revertir, haya sufrido mejoras que incrementen su valor, éstas deberán ser pagadas previamente a la ejecución de la resolución que conceda la Reversión según la cuantificación que al respecto emita la autoridad estatal en materia de catastro.
+
 ###### Artículo 43.
 
 Contra los proveídos y las resoluciones dictadas en la substanciación a la Acción de Reversión, no procede recurso alguno.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 44.
 
-Una vez que cause estado la resolución en definitiva de la Acción de Reversión, si fuere procedente, se restituirá al propietario del inmueble expropiado en la posesión, levantándose al efecto acta circunstanciada.
+Una vez que cause estado la resolución en definitiva de la Acción de Reversión, si fuere procedente, se restituirá al propietario del inmueble expropiado en la posesión, levantándose al efecto acta circunstanciada por la Autoridad Expropiante.
 
 ## TRANSITORIOS
 
@@ -407,10 +513,18 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Diputado Secretario.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica. Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de noviembre de dos mil ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE AGOSTO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La substanciación de los expedientes de expropiación que se encuentren pendientes se sujetará a las disposiciones de este Decreto, en el estado en que se encontraren cuando comience su vigencia; pero si los términos que se señalen para algún acto procesal fueren menores que los señalados por las disposiciones reformadas, se observarán éstas, si esos términos estuvieren ya corriendo.
