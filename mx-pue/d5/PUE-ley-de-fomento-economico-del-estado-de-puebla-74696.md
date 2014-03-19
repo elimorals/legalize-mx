@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-economico-del-estado-de-puebla-74696"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-16"
-last_updated: "2012-12-31"
+last_updated: "2014-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FOMENTO ECONÓMICO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de abril de 2010.
 
@@ -215,7 +215,15 @@ II.- La reducción en el pago de contribuciones estatales, de manera gradual y p
 
 III.- La gestión de becas o apoyos económicos para capacitación y adiestramiento al capital humano que esté orientado a la productividad y competitividad de las empresas;
 
-IV.- El otorgamiento de recursos o el apoyo para obras de infraestructura que propicien el asentamiento, instalación o expansión de las empresas, u otorgamiento de recursos que pueden ser económicos o en especie para su ejecución;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+IV.- El otorgamiento de recursos o el apoyo para obras de infraestructura o para la dotación de servicios que propicien el asentamiento, instalación o expansión de las empresas, u otorgamiento de recursos que pueden ser económicos o en especie para su ejecución o dotación.
+
+Para el otorgamiento del incentivo económico descrito en el párrafo que antecede, la Secretaría solicitará a la Secretaría de Finanzas y Administración seguir, en lo conducente, los procedimientos descritos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal o equivalente, para determinar a qué empresa se adjudica el citado otorgamiento.
+
+Los procedimientos de adjudicación a que se refiere el párrafo anterior se llevarán a cabo por la Secretaría de Finanzas y Administración, en tanto que la interpretación para la solución de controversias suscitadas de la aplicación de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal, para el otorgamiento de los incentivos correrá a cargo de la Secretaría de Competitividad, Trabajo y Desarrollo Económico.
+
+La finalidad del proceso de adjudicación será la de garantizar al Estado que con el otorgamiento del incentivo se realicen las obras de infraestructura en las mejores condiciones en cuanto a calidad, tiempo de ejecución y menor monto de incentivo solicitado.
 
 V.- El mejoramiento de los servicios públicos que sean necesarios para el proyecto;
 
@@ -233,9 +241,11 @@ X.- Los apoyos para el establecimiento de vínculos con nuevos mercados potencia
 
 XI.- Todos aquellos apoyos y aportaciones que fomenten el desarrollo económico, que apruebe y otorgue la Secretaría o en su caso los Ayuntamientos, previo cumplimiento de los requisitos que establece esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 10.
 
-Las erogaciones por concepto de incentivos a la inversión antes mencionados, se determinarán en forma anual de conformidad con la Ley de Egresos para el Ejercicio Fiscal que corresponda, pudiéndose de conformidad con la disponibilidad presupuestal, establecer dichos incentivos por actividad, región o sector económico que determine la Secretaría o en su caso el Ayuntamiento, quedando sujeto su otorgamiento a la disponibilidad presupuestal.
+Las erogaciones por concepto de incentivos a la inversión antes mencionados, podrán ser determinados en forma anual de conformidad con la Ley de Egresos para el Ejercicio Fiscal que corresponda, pudiéndose, de conformidad con la disponibilidad presupuestal, establecer dichos incentivos por actividad, región o sector económico que determine la Secretaría, o en su caso, el Ayuntamiento, quedando sujeto su otorgamiento a la disponibilidad presupuestal.
 
 ###### ARTÍCULO 11.
 
@@ -245,9 +255,11 @@ Sin perjuicio de lo dispuesto en las leyes fiscales aplicables del Estado, los M
 
 Los incentivos a la inversión, que deriven de la presente Ley, no serán aplicables a aquellas empresas, que mediante un acto de simulación, presenten una inversión que ya fue apoyada por el Gobierno del Estado, como una nueva, para gozar de dichos beneficios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 13.
 
-Para el otorgamiento de los incentivos, se deberán utilizar los criterios de rentabilidad social y desarrollo sustentable para cualquier tipo de empresa o inversionista, pudiéndose tomar en consideración entre otros los siguientes aspectos:
+Para el otorgamiento de los incentivos, excepto los descritos en la fracción IV del artículo 9 de la presente Ley, se deberán utilizar los criterios de rentabilidad social y desarrollo sustentable para cualquier tipo de empresa o inversionista, pudiéndose tomar en consideración, entre otros, los siguientes aspectos:
 
 I.- El número de empleos directos a generar, tiempo de creación y duración de los nuevos empleos;
 
@@ -287,9 +299,11 @@ XVIII.- Los apoyos que hayan sido otorgados a la comunidad por parte de la empre
 
 XIX.- Los demás que en los términos de esta Ley y su reglamento se consideren relevantes según el caso de que se trate, sin omitir la referencia y consideración de las anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 14.
 
-Para obtener algún incentivo a la inversión, las empresas o inversionistas que lo pidan, deberán presentar ante la Secretaría o en su caso el Ayuntamiento de que se trate, según sea el tipo de apoyo requerido, su respectiva solicitud, indicando debidamente los elementos señalados en el artículo anterior y presentándolo en escrito libre, debiendo tener como mínimo los siguientes requisitos:
+Para obtener algun incentivo a la inversión, excepto el incentivo económico previsto en la fracción IV del artículo 9 de la presente Ley, las empresas o inversionistas que lo pidan, deberán presentar ante la Secretaría, o en su caso, el Ayuntamiento de que se trate, según sea el tipo de apoyo requerido, su respectiva solicitud, indicando debidamente los elementos señalados en el artículo anterior y presentándolo en escrito libre, debiendo tener como mínimo los siguientes requisitos:
 
 a) Nombre, denominación o razón social, nacionalidad y domicilio fiscal;
 
@@ -389,7 +403,9 @@ La Secretaría de Finanzas del Estado, en conjunto con la Secretaría, emitirá 
 
 ARTÍCULO 15 QUINQUIES.- Para determinar el monto de los estímulos a que se refieren los artículos 15 Bis, 15 Ter y 15 Quater de esta Ley, se aplicará la siguiente fórmula:
 
-Mts = (Ss + Spi + Sas) * 0.02
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+Mts = (Ss + Spi + Sas) * 0.03
 
 Donde:
 
@@ -1231,7 +1247,7 @@ En todos los casos la Secretaría o los Ayuntamientos, deberán observar las for
 
 Los actos de visita deberán iniciarse mediante escrito debidamente fundado y motivado, emitido por la autoridad competente, en donde se deberá de indicar lo siguiente:
 
-I- El lugar o lugares donde deba efectuarse la visita;
+I.- El lugar o lugares donde deba efectuarse la visita;
 
 II.- El Nombre o nombres del o los visitados;
 
@@ -1364,3 +1380,9 @@ P.O. 31 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de la misma naturaleza que contravengan lo establecido por el presente Decreto.
+
+P.O. 19 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
