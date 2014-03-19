@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-coordinacion-hacendaria-del-estado-de-puebla-y-sus-67898
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2009-03-20"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE COORDINACION HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-LEY DE COORDINACION HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
+LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 20 de marzo de 2009.
 
@@ -49,9 +49,11 @@ La presente Ley es de orden público, de observancia general en el territorio de
 
 I. Promover un federalismo hacendario que haga vigentes los principios constitucionales de la soberanía estatal y de la autonomía municipal;
 
-II. Impulsar y normar el Sistema de Coordinación Hacendaria del Estado de Puebla y sus Municipios;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-III. Constituir los organismos de coordinación hacendaria y establecer las bases para su organización, funcionamiento y atribuciones;
+II. Impulsar el Sistema de Coordinación Hacendaria del Estado de Puebla y sus Municipios;
+
+III. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
 IV. Establecer las bases de coordinación y colaboración administrativa en materia hacendaria entre el Estado y sus Municipios;
 
@@ -59,9 +61,9 @@ V. Fijar las bases para la administración y distribución de participaciones y 
 
 VI. Normar, en términos de la Ley de Coordinación Fiscal, la administración, distribución y ejercicio de las aportaciones federales que correspondan al Estado y sus Municipios;
 
-VII. Consolidar la planeación y participación social en los ámbitos estatal y municipal;
+VII. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-VIII. Propiciar el fortalecimiento y la equidad municipal;
+VIII. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
 IX. Regular las acciones de control, supervisión y fiscalización de los recursos materia de esta Ley; y
 
@@ -93,7 +95,7 @@ II. Las aportaciones federales, que correspondan al Estado y a los Municipios, e
 
 III. Las reasignaciones y transferencias de gasto derivadas del Presupuesto de Egresos de la Federación que se reciban, administren y ejerzan por el Estado y los Municipios, en términos de los convenios, acuerdos, anexos y demás documentos de naturaleza análoga que se suscriban con la Federación.
 
-Los recursos a que se refieren las fracciones II y III del presente artículo, no perderán su naturaleza federal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 7.
 
@@ -115,15 +117,17 @@ Los Municipios deberán expedir y remitir a la Secretaría de Finanzas y Adminis
 
 En las relaciones de los Gobiernos Federal y Estatal, derivadas del Sistema Nacional de Coordinación Fiscal, los Municipios tendrán una efectiva participación a través de los organismos del Sistema de Coordinación Hacendaria del Estado y sus Municipios.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
-El Ejecutivo del Estado y los Ayuntamientos, participarán en el desarrollo y consolidación del Sistema de Coordinación Hacendaria del Estado y sus Municipios a través de los organismos siguientes:
+El Ejecutivo del Estado y los Ayuntamientos, participarán en el desarrollo y consolidación del Sistema de Coordinación Hacendaria del Estado y sus Municipios, a través de los organismos que resulten necesarios y de conformidad con los lineamientos que para tales efectos emita la Secretaría de Finanzas y Administración, los cuales establecerán como mínimo lo siguiente:
 
-I. La Asamblea de Funcionarios Hacendarios del Estado;
+I. Los organismos que habrán de constituirse;
 
-II. La Comisión Permanente de Funcionarios Hacendarios del Estado; y
+II. Las atribuciones de los organismos a que se refiere este artículo; y
 
-III. Las demás instancias que se decida crear para fortalecer la Coordinación Hacendaria.
+III. La integración y funcionamiento de dicho organismos.
 
 ### CAPÍTULO II. DE LOS ORGANISMOS DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO Y SUS MUNICIPIOS
 
@@ -131,275 +135,145 @@ III. Las demás instancias que se decida crear para fortalecer la Coordinación 
 
 ###### ARTÍCULO 12.
 
-La Asamblea de Funcionarios Hacendarios del Estado estará integrada por:
-
-I. El Titular del Poder Ejecutivo del Estado, quien fungirá como Presidente Honorario;
-
-II. El Secretario de Finanzas y Administración del Estado, quien fungirá como Presidente Ejecutivo;
-
-III. Los Presidentes de los Ayuntamientos de cada uno de los Municipios del Estado;
-
-IV. Los Subsecretarios de Ingresos, de Egresos y de Administración de la Secretaría de Finanzas y Administración; y
-
-V. Los Tesoreros de los Ayuntamientos de cada uno de los Municipios del Estado.
-
-La Asamblea de Funcionarios Hacendarios del Estado, contará con un Secretario Técnico que será designado por el Presidente Ejecutivo.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 13.
 
-La Asamblea de Funcionarios Hacendarios del Estado, se reunirá en sesión ordinaria cuando menos una vez en cada ejercicio fiscal, previa convocatoria que emita por escrito el Presidente Ejecutivo de la misma, y sesionará en forma extraordinaria a convocatoria del Presidente Honorario o de la Comisión Permanente.
-
-En el ejercicio fiscal en que se realice el cambio de Administración de los Ayuntamientos de la Entidad, la Asamblea de Funcionarios Hacendarios del Estado, se reunirá dentro de los primeros tres meses del inicio de la gestión municipal.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 14.
 
-Para la validez de las sesiones de la Asamblea de Funcionarios Hacendarios del Estado, se requerirá de la asistencia de cuando menos la mitad más uno de sus integrantes, entre los cuales deberá estar su Presidente Ejecutivo.
-
-Las decisiones que se tomen en la Asamblea, para ser válidas requerirán de la aprobación de la mayoría de los asistentes a la sesión de que se trate.
-
-De cada sesión, el Secretario Técnico de la Asamblea levantará el Acta respectiva.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 15.
 
-La Asamblea de Funcionarios Hacendarios del Estado, tendrá las atribuciones siguientes:
-
-I. Establecer las medidas para el mejor desarrollo y consolidación del Sistema de Coordinación Hacendaria del Estado y sus Municipios;
-
-II. Promover el fortalecimiento municipal, mediante acciones coordinadas entre el Estado y sus Municipios tendientes a incentivar y apoyar la eficiencia recaudatoria;
-
-III. Opinar sobre el cumplimiento de los convenios de coordinación y colaboración administrativa en materia hacendaría, suscritos entre el Estado y sus Municipios, a fin de proponer las acciones conducentes;
-
-IV. Emitir los lineamientos para el adecuado funcionamiento de los organismos que integran el Sistema de Coordinación Hacendaria del Estado y sus Municipios, en los que se especificarán entre otros, la representación, integración, funcionamiento, objetivos, facultades y obligaciones;
-
-V. Designar comisiones o grupos de trabajo que considere necesarios para el estudio y desahogo de los asuntos específicos que así lo requieran;
-
-VI. Aprobar el Informe Anual de la Comisión Permanente de Funcionarios Hacendarios del Estado;
-
-VII. Conocer y, en su caso, opinar sobre las disposiciones legales y administrativas que incidan en la coordinación y colaboración administrativa en materia hacendaria a que se refiere esta Ley; y
-
-VIII. Las demás que sean necesarias para una mejor coordinación hacendaría en el Estado y las que deriven de esta Ley.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 #### SECCIÓN II. DE LA COMISIÓN PERMANENTE DE FUNCIONARIOS HACENDARIOS DEL ESTADO
 
 ###### ARTÍCULO 16.
 
-La Comisión Permanente de Funcionarios Hacendarios del Estado, estará integrada por:
-
-I. Un Coordinador General que será el Secretario de Finanzas y Administración del Gobierno del Estado;
-
-II. Los Tesoreros Municipales representantes de cada una de las Regiones siguientes:
-
-a) Región Tehuacán y Sierra Negra: Ajalpan, Altepexi, Caltepec, Coxcatlán, Coyomeapan, Chapulco, Eloxochitlán, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, San Sebastián Tlacotepec, Santiago Miahuatlán, Tehuacán, Tepanco de López, Tlacotepec de Benito Juárez, Vicente Guerrero, Yehualtepec, Zapotitlán, Zinacatepec y Zoquitlán;
-
-b) Región Mixteca: Acatlán, Ahuehuetitla, Albino Zertuche, Atexcal, Axutla, Coatzingo, Cohetzala, Coyotepec, Cuayuca de Andrade, Chiautla, Chigmecatitlán, Chila, Chila de la Sal, Chinantla, Guadalupe, Huatlatlauca, Huehuetlán el Chico, Huitziltepec, Ixcamilpa de Guerrero, Ixcaquixtla, Jolalpan, Juan N. Méndez, La MagdalenaTlatlauquitepec, Molcaxac, Petlalcingo, Piaxtla, San Jerónimo Xayacatlán, San Juan Atzompa, San Miguel Ixitlán, San Pablo Anicano, San Pedro Yeloixtlahuaca, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Huehuetlán el Grande, Tecomatlán, Tehuitzingo, Teotlalco, Tepexi de Rodríguez, Totoltepec de Guerrero, Tulcingo, Tzicatlacoyan, Xayacatlán de Bravo, Xicotlán, Xochitlán Todos Santos y Zacapala;
-
-c) Región valle de Atlixco y Matamoros: Acteopan, Ahuatlán, Atlixco, Atzala, Atzitzihuacan, Cohuecan, Chietla, Epatlán, Huaquechula, Izúcar de Matamoros, San Diego la Mesa Tochimiltzingo, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Martín Totoltepec, Santa Isabel Cholula, Teopantlán, Tepemaxalco, Tepeojuma, Tepexco, Tianguismanalco, Tilapa, Tlapanalá, Tochimilco y Xochiltepec;
-
-d) Región Serdán: Acatzingo, Aljojuca, Atzitzintla, Cuapiaxtla de Madero, Cuyoaco, Chalchicomula de Sesma, Chichiquila, Chilchotla, Esperanza, General Felipe Ángeles, Guadalupe Victoria, Lafragua, Libres, Mazapiltepec de Juárez, Cañada Morelos, Ocotepec, Oriental, Palmar de Bravo, Quecholac, Quimixtlán, Rafael Lara Grajales, Los Reyes de Juárez, San José Chiapa, San Juan Atenco, San Nicolás Buenos Aires, San Salvador el Seco, San Salvador Huixcolotla, Soltepec, Tecamachalco, Tepeyahualco y Tlachichuca;
-
-e) Región Sierra Nororiental: Acateno, Atempan, Ayotoxco de Guerrero, Caxhuacan, Cuetzalan del Progreso, Chignautla, Huehuetla, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Atlequizayan, Ixtepec, Jonotla, Nauzontla, Tenampulco, Teteles de Ávila Castillo, Teziutlán, Tlatlauquitepec, Tuzamapan de Galeana, Xiutetelco, Xochitlán de Vicente Suárez, Yaohanuac, Zacapoaxtla, Zapotitlán de Méndez, Zaragoza, Zautla y Zoquiapan;
-
-f) Región Sierra Norte: Ahuacatlán, Ahuazotepec, Amixtlán, Aquixtla, Camocuatla, Coatepec, Cuautempan, Chiconcuautla, Chignahuapan, Honey, Francisco Z. Mena, Hermenegildo Galeana, Huauchinango, Ixtacamaxtitlán, Jalpan, Jopa la, Juan Galindo, Naupan, Olintla, Pahuatlán, Pantepec, San Felipe Tepatlán, Tepango de Rodríguez, Tepetzintla, Tlacuilotepec, Tetela de Ocampo, Tlaola, Tlapacoya, Tlaxco, Venustiano Carranza, Xicotepec de Juárez, Xochiapulco, Zacatlán, Zihuateutla, Zongozotla; y
-
-g) Región Angelópolis: Acajete, Amozoc, Atoyatempan, Calpan, Coronango, Cuautinchán, Cuautlancingo, Chiautzingo, Domingo Arenas, Huejotzingo, Juan C. Bonilla, Mixtla, Nealtican, Nopalucan, Ocoyucan, Puebla, San Andrés Cholula, San Felipe Teotlalcingo, San Martín Texmelucan, San Matías Tlalancaleca, San Miguel Xoxtla, San Nicolás de los Ranchos, San Pedro Cholula, San Salvador el Verde, Santo Tomás Hueyotlipan, Tecali de Herrera, Tepatlaxco de Hidalgo, Tepeaca, Tepeyahualco de Cuauhtémoc, Tlahuapan, Tlaltenango, Tlanepantla y Tochtepec.
-
-El Tesorero Municipal representante de cada Región se elegirá y desempeñará su encargo, de conformidad con los lineamientos que para tales efectos emita la Asamblea de Funcionarios Hacendarios del Estado.
-
-III. Los Subsecretarios de Ingresos, de Egresos y de Administración de la Secretaría de Finanzas y Administración del Gobierno del Estado.
-
-La Comisión Permanente de Funcionarios Hacendarios del Estado, contara con un Secretario Técnico que será designado por el Coordinador General.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 17.
 
-La Comisión Permanente de Funcionarios Hacendarios del Estado, sesionará cuantas veces sea necesario para el cumplimiento de sus funciones, previa convocatoria que emita por escrito el Coordinador General de la misma.
-
-En el ejercicio fiscal en que se realice el cambio de Administración de los Ayuntamientos de la Entidad, la Comisión Permanente de Funcionarios Hacendarios del Estado sesionará dentro de los tres meses siguientes a aquél en que haya sesionado la Asamblea de Funcionarios Hacendarios del Estado.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 18.
 
-Para la validez de las sesiones de la Comisión Permanente de Funcionarios Hacendarios del Estado, se requerirá de la asistencia de cuando menos la mitad más uno de sus integrantes, entre los cuales deberá estar su Coordinador General.
-
-Las decisiones que se tomen en la Comisión Permanente, para ser válidas requerirán de la aprobación de la mayoría de los asistentes a la sesión de que se trate.
-
-De cada sesión, el Secretario Técnico de la Comisión Permanente levantará el Acta respectiva.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 19.
 
-La Comisión Permanente de Funcionarios Hacendarios del Estado, tendrá las atribuciones siguientes:
-
-I. Preparar las sesiones de la Asamblea de Funcionarios Hacendarios del Estado y definir los asuntos de que ésta se ocupará;
-
-II. Proponer a la Asamblea de Funcionarios Hacendarios del Estado, las medidas para el mejor desarrollo y consolidación del Sistema de Coordinación Hacendaria del Estado y sus Municipios;
-
-III. Proponer a la Asamblea de Funcionarios Hacendarios del Estado, para su aprobación, los lineamientos para el adecuado funcionamiento de la Comisión Permanente;
-
-IV. Informar a la Asamblea de Funcionarios Hacendarios del Estado, del cumplimiento a los convenios de coordinación y colaboración administrativa en materia hacendaria, suscritos entre el Estado y sus Municipios;
-
-V. Integrar grupos de trabajo para el estudio y desahogo de los asuntos que considere necesarios y supervisar su funcionamiento;
-
-VI. Promover la realización de acciones coordinadas entre el Estado y sus Municipios, tendientes a incentivar y apoyar la eficiencia recaudatoria de ambos niveles de gobierno;
-
-VII. Propiciar, de conformidad con las disposiciones legales aplicables, el establecimiento de bases para que los niveles de gobierno local, procuren armonizar los procesos de supervisión, control y evaluación;
-
-VIII. Impulsar el establecimiento de sistemas de información hacendaria;
-
-IX. Establecer criterios que faciliten la integración de los informes que en términos de las disposiciones aplicables, deban presentarse a las autoridades competentes;
-
-X. Impulsar la capacitación de los funcionarios hacendarios del Estado y los Municipios;
-
-XI. Presentar anualmente a la Asamblea de Funcionarios Hacendarios del Estado, un informe sobre las actividades realizadas; y
-
-XII. Las demás que sean necesarias para su mejor desempeño.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ## TÍTULO TERCERO. DE LA COORDINACIÓN Y COLABORACIÓN ADMINISTRA TIVA EN MATERIA HACENDARIA
 
 ### CAPÍTULO I. DE LOS CONVENIOS EN GENERAL
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 20.
 
-El Ejecutivo del Estado y los Municipios, podrán celebrar Convenios de Coordinación y Colaboración Administrativa en materia hacendaria y sus Anexos para dar cumplimiento a las disposiciones previstas en este ordenamiento y demás aplicables.
+El Ejecutivo del Estado y los Municipios, podrán celebrar Convenios de Coordinación y Colaboración Administrativa en materia de ingresos, gasto, patrimonio y deuda pública y sus Anexos, para dar cumplimiento a las disposiciones previstas en este ordenamiento y demás aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 21.
 
-El Ejecutivo del Estado, por conducto de las instancias competentes, podrá celebrar Convenios de Coordinación y Colaboración Administrativa con la Federación y delegar, en su caso a los Municipios, las funciones que en dichos convenios y sus anexos se establezcan.
+Los Convenios de Coordinación y de Colaboración Administrativa en materia hacendaria y sus Anexos que se celebren entre el Gobierno del Estado y los Municipios de la Entidad, deberán publicarse en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 22.
 
-Los Convenios de Coordinación y de Colaboración Administrativa en materia hacendaria y sus Anexos que se celebren entre el Gobierno del Estado y los Municipios de la Entidad, deberán publicarse en el Periódico Oficial del Estado.
+El orden de gobierno que mediante convenio delegue sus facultades o atribuciones en materia hacendaria, mantendrá las de establecer los criterios de interpretación y aplicación de las disposiciones de coordinación y/o colaboración administrativa que señale el respectivo convenio.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 23.
 
-El orden de gobierno que mediante convenio delegue sus facultades o atribuciones en materia hacendaria, mantendrá las de establecer los criterios de interpretación y aplicación de las disposiciones de coordinación y/o colaboración administrativa que señale el respectivo convenio.
+El Estado, por conducto de las instancias competentes y los Municipios, en ejercicio de las atribuciones que les otorgan las leyes, podrán celebrar convenios de coordinación y colaboración administrativa en materia de gasto público para la ejecución de acciones y programas conjuntos, así como para la aplicación de recursos en la realización de obras, proyectos y prestación de servicios públicos, con el objeto de optimizar los recursos públicos, satisfacer las necesidades colectivas e impulsar el desarrollo de la Entidad.
+
+Para aquellos instrumentos legales en los que se establezcan obligaciones financieras a cargo de los Municipios, éstos deberán presentar la documentación que garantice su aportación para el cumplimiento oportuno de los compromisos adquiridos, de conformidad con las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+###### ARTÍCULO 23 Bis.
+
+Sin perjuicio de los Convenios de Coordinación y Colaboración Administrativa a que se refieren los artículos anteriores, el Estado y los Municipios podrán convenir, destinar recursos para la instrumentación, desarrollo y operación de un programa de apoyo y fortalecimiento institucional a Municipios.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN Y COLABORACIÓN ADMINISTRATIVA EN INGRESOS
 
 ###### ARTÍCULO 24.
 
-En tanto el Estado de Puebla se mantenga adherido al Sistema Nacional-de Coordinación Fiscal, el Estado y los Municipios observarán, en lo conducente, la Ley de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus Anexos, el Convenio de Colaboración Administrativa en materia Fiscal Federal y sus Anexos, así como demás disposiciones relativas, por lo que mantendrán en suspenso las contribuciones locales que se fijan en los instrumentos legales señalados, hasta en tanto no se modifique o suspenda el propio Sistema.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 25.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración y en estricto respeto a la autonomía municipal, procurará que ambos niveles de gobierno local, den pleno cumplimiento a los compromisos adquiridos en el Sistema Nacional de Coordinación Fiscal.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 26.
 
-El Ejecutivo del Estado, por conducto de las instancias competentes y los Municipios, podrán celebrar Convenios de Coordinación y Colaboración Administrativa para la administración de contribuciones locales, así como de las federales que se acuerden en el Sistema Nacional de Coordinación Fiscal; podrán ser ratificados por la siguiente administración municipal.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 27.
 
-Los convenios a que se refiere el artículo anterior, señalarán cuando menos:
-
-I. Las partes que intervienen;
-
-II. Las contribuciones o materias objeto de coordinación y/o colaboración administrativa;
-
-III. Las facultades, obligaciones y responsabilidades de cada una de las partes;
-
-IV. Las instancias responsables de la ejecución de las acciones objeto del convenio;
-
-V. Los beneficios o incentivos que obtendrá cada una de las partes;
-
-VI. La vigencia;
-
-VII. Las causales para su terminación anticipada; y
-
-VIII. Las demás disposiciones para la mejor coordinación y/o colaboración administrativa entre las partes.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 28.
 
-Las autoridades fiscales municipales, en el ejercicio de las facultades y funciones derivadas de los convenios a que se refiere el presente Capítulo, serán consideradas como autoridades fiscales federales o estatales según sea el caso, debiendo ajustar sus actuaciones, en lo conducente, a lo dispuesto en la legislación aplicable.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ### CAPÍTULO III. DE LA COORDINACIÓN Y COLABORACIÓN ADMINISTRATIVA EN GASTO
 
 ###### ARTÍCULO 29.
 
-El Estado, por conducto de las instancias competentes y los Municipios, en ejercicio de las atribuciones que les otorgan las leyes, podrán celebrar convenios de coordinación y colaboración administrativa en materia de gasto público para la ejecución de acciones y programas conjuntos, así como para la aplicación de recursos en la realización de obras, proyectos y prestación de servicios públicos, con el objeto de optimizar los recursos públicos, satisfacer las necesidades colectivas e impulsar el desarrollo de la Entidad.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 30.
 
-El proceso administrativo del gasto público comprende las funciones de planeación, programación, presupuestación, ejecución, control y evaluación de los recursos que se destinan al ejercicio de la función pública en los ámbitos estatal y municipal.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 31.
 
-Los convenios de coordinación y/o colaboración en materia de gasto, tendrán principalmente entre otros objetivos:
-
-I. Que una de las partes reciba recursos y/o ejecute funciones o preste los servicios públicos que la otra parte descentralice a su favor;
-
-II. La transferencia de recursos entre los gobiernos estatal y municipal, para destinarlos a un fin especifico o para el mejor cumplimiento de las obligaciones que en el ámbito de su competencia tengan a su cargo; y
-
-III. La conjunción de recursos entre el Estado y sus Municipios, o entre Municipios colindantes o de una misma región, para la realización de acciones, programas y proyectos de beneficio mutuo o de desarrollo regional.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 32.
 
-Los convenios a que se refiere este Capitulo, señalarán cuando menos:
-
-I. Las partes que intervienen;
-
-II. Las acciones y recursos, materia de la coordinación o colaboración administrativa;
-
-III. Las facultades, obligaciones y responsabilidades de cada una de las partes;
-
-IV. Las instancias responsables de la ejecución de las acciones objeto del convenio;
-
-V. Las especificaciones administrativas y financieras que se requieran para la instrumentación del convenio;
-
-VI. La vigencia;
-
-VII. Las causales para su terminación anticipada; y
-
-VIII. Las demás disposiciones para la mejor coordinación y/o colaboración administrativa entre las partes.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 33.
 
-El Ejecutivo del Estado, por conducto de las instancias competentes, revisará y en su caso, autorizará las acciones, programas y proyectos de inversión para la Entidad que impliquen la conjunción de recursos entre ambos niveles de gobierno local, cuidando que éstos se encuentren alineados a los objetivos de los Planes Nacional, Estatal y Municipales de Desarrollo, así como a los programas sectoriales y regionales derivados de los mismos.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 34.
 
-El Ejecutivo del Estado será el conducto para formalizar los instrumentos de coordinación y/o colaboración administrativa con el Ejecutivo Federal, respecto de todas aquellas acciones, programas y proyectos cuya ejecución deba realizarse conjuntamente, dando la participación que corresponda a los Municipios de la Entidad, en los casos que proceda.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ### CAPÍTULO IV. DE LA COORDINACIÓN Y COLABORACIÓN ADMINISTRATIVA EN PATRIMONIO
 
 ###### ARTÍCULO 35.
 
-El Ejecutivo del Estado, por conducto de las instancias competentes y los Municipios, podrán celebrar Convenios de Coordinación y Colaboración Administrativa sobre su patrimonio, principalmente respecto de aquellos bienes destinados a un servicio público que hayan acordado prestar de manera conjunta o coordinada.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 36.
 
-El Ejecutivo del Estado y los Municipios, podrán celebrar Convenios de Coordinación y Colaboración Administrativa para optimizar el registro y administración de su patrimonio, así como para la conservación, mantenimiento y recuperación del mismo.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 37.
 
-Los convenios a que se refiere el presente Capitulo, contendrán cuando menos:
-
-I. Las partes que intervienen;
-
-II. Los datos y características de los bienes materia de coordinación y/o colaboración administrativa;
-
-III. Las facultades, obligaciones y responsabilidades de cada una de las partes;
-
-IV. Las instancias responsables de la ejecución de las acciones objeto del convenio;
-
-V. La vigencia;
-
-VI. Las causales para su terminación anticipada; y
-
-VII. Las demás disposiciones para la mejor coordinación y/o colaboración administrativa entre las partes.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ### CAPÍTULO V. DE LA COORDINACIÓN Y COLABORACIÓN ADMINISTRATIVA EN DEUDA PÚBLICA
 
 ###### ARTÍCULO 38.
 
-En materia de deuda pública; el Estado y los Municipios, podrán celebrar convenios para llevar a cabo los actos necesarios que les permitan concertar y formalizar financiamientos y/o empréstitos, así como para dar cumplimiento a las disposiciones que en materia de coordinación prevea la Ley de Deuda Pública para el Estado Libre y Soberano de Puebla.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 39.
 
-El objeto de la coordinación a que se refiere el artículo anterior, se orientará principalmente a:
-
-I. Establecer los mecanismos que con arreglo a las bases, requisitos y los procedimientos previstos en la Ley de la materia y en la presente Ley, le permitan al Estado y a los Municipios, así como a sus respectivas Entidades, contratar los citados financiamientos o empréstitos en las mejores condiciones de mercado; así como aquellos para garantizar y pagar dichas operaciones;
-
-II. Fijar las bases para el intercambio de la información que permita conocer la capacidad de endeudamiento y pago de los Municipios, así como de sus Entidades para los efectos previstos en la Ley estatal de la materia; y
-
-III. Realizar las demás acciones para dar cumplimiento a las disposiciones legales y administrativas en la materia.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ## TÍTULO CUARTO. DE LAS PARTICIPACIONES Y DEMÁS FONDOS Y RECURSOS PARTICIPABLES
 
@@ -409,31 +283,37 @@ III. Realizar las demás acciones para dar cumplimiento a las disposiciones lega
 
 El Estado de Puebla recibirá las participaciones que de conformidad con la Ley de Coordinación Fiscal le correspondan, las cuales serán distribuidas y entregadas a los Municipios por el Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, con base en las fórmulas y procedimientos previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 41.
 
-Las participaciones que correspondan a los Municipios, serán cubiertas en efectivo por el Estado a través de la Secretaria de Finanzas y Administración, en los términos que prevé la Ley de Coordinación Fiscal mediante transferencia electrónica, depósito bancario o cheque nominativo.
+Las participaciones que correspondan a los Municipios, serán cubiertas en términos de lo señalado en la Ley de Coordinación Fiscal.
 
-De las liquidaciones que haga la Secretaria de Finanzas y Administración a los Municipios, les entregará a través de la Cuenta Liquidada Certificada (C.L.C.), constancia pormenorizada de cada uno de los conceptos.
+De los pagos que haga la Secretaría de Finanzas y Administración a los Municipios, les entregará a través de la Cuenta Liquidada Certificada (C.L.C.), constancia pormenorizada de cada uno de los conceptos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 42.
 
-El Estado, por conducto de la Secretaria de Finanzas y Administración, podrá instrumentar mecanismos de captación, distribución, o ambos, de las participaciones, para su posterior entrega a los Municipios, a través de cuentas, depósitos, fondos, fideicomisos u otros medios legales, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega que prevén las disposiciones legales aplicables.
+El Estado, por conducto de la Secretaría de Finanzas y Administración, podrá instrumentar mecanismos de captación, distribución, o ambos, de las participaciones, para su posterior entrega a los Municipios, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega que prevén las disposiciones legales aplicables.
 
 Lo anterior, sin perjuicio de cumplir con los fines de las afectaciones que, como fuente de pago y/o garantía hubieren realizado los Municipios a favor de sus acreedores, en términos de la legislación aplicable.
 
-Los fideicomisos que se constituyan para los fines establecidos en el párrafo anterior, no serán considerados Entidades Paraestatales.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 43.
 
-El Ejecutivo Estatal, deberá prever en el Presupuesto de Egresos del Estado, el monto estimado de participaciones que corresponderá a cada uno·de Ios Municipios, los cuales estarán sujetos al Presupuesto de Egresos de la Federación y a las modificaciones o ajustes que durante el ejercicio fiscal correspondiente determine el Gobierno Federal en términos de la Ley de Coordinación Fiscal y demás disposiciones aplicables.
+El Ejecutivo Estatal, deberá prever en el Presupuesto de Egresos del Estado, el monto estimado de participaciones que corresponderá a cada uno de los Municipios, los cuales estarán sujetos al Presupuesto de Egresos de la Federación y a las modificaciones o ajustes que durante el ejercicio fiscal correspondiente determine el Gobierno Federal en términos de la Ley de Coordinación Fiscal y demás disposiciones aplicables.
 
-###### ARTICULO 44.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
-Las participaciones que correspondan al Estado y a sus Municipios son inembargables, no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por la Entidad o Municipios, con autorización del H. Congreso del Estado, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
+###### ARTÍCULO 44.
+
+Las participaciones que correspondan al Estado y a sus Municipios son inembargables, no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por la Entidad o Municipios, con autorización del H. Congreso del Estado, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana y deberán sujetarse a lo dispuesto en el artículo 9 de la Ley de Coordinación Fiscal y su Reglamento.
 
 ###### ARTÍCULO 45.
 
-Las afectaciones a las participaciones que correspondan al Estado y a sus Municipios, se inscribirán tanto en el Registro Único de Obligaciones y Empréstitos del Estado, como en el Registro correspondiente de la Secretaria de Hacienda y Crédito Público.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 46.
 
@@ -445,13 +325,13 @@ El Estado, por conducto de la Secretaría de Finanzas y Administración, podrá 
 
 La compensación entre el derecho del Estado y de los Municipios a recibir las participaciones que les correspondan y las obligaciones que tengan con la Federación o el Estado, se llevará a cabo en términos de la Ley de Coordinación Fiscal.
 
-En estos casos, los Municipios deberán informar al Ejecutivo del Estado por conducto de la Secretaría de Finanzas y Administración para los efectos propios de su competencia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 48.
 
-Dentro de los 15 días siguientes a aquél en el que la Secretaria de Hacienda y Crédito Publico hubiere publicado el calendario de entrega, porcentaje, fórmulas, variables utilizadas y montos estimados de las participaciones que recibirá el Estado y de las que deben participar sus Municipios, el Ejecutivo Estatal, por conducto de la Secretaria de Finanzas y Administración, publicará en el Periódico Oficial del Estado y en su página electrónica de Internet, los datos antes referidos respecto de las participaciones que correspondan a cada uno de los Municipios.
-
-La Secretaría de Finanzas y Administración publicará trimestralmente en los medios señalados en el párrafo anterior, el importe de las participaciones entregadas a los Municipios y en su caso, el ajuste realizado al término de cada ejecución fiscal.
+El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, publicará en el Periódico Oficial del Estado y en su página electrónica de Internet, la información prevista en el artículo 6 de la Ley de Coordinación Fiscal y en los términos que el mismo establece.
 
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE PARTICIPACIONES A LOS MUNICIPIOS
 
@@ -471,7 +351,9 @@ I. El Fondo General de Participaciones incluyendo sus incrementos;
 
 II. La participación que le corresponda al Estado del Impuesto Especial Sobre Producción y Servicios aplicado a la cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados;
 
-III. La recaudación que se realice en el Estado de los Impuestos Federales Sobre Tenencia o Uso de Vehículos y de Automóviles Nuevos; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+III. La recaudación que se realice en el Estado del Impuesto Sobre Automóviles Nuevos; y
 
 IV. La recaudación del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos.
 
@@ -515,31 +397,31 @@ Ingresos.
 
 El indicador se construye estableciendo la relación entre la población ocupada con ingresos hasta de un salario mínimo, y el total de la población ocupada en el Municipio en estudio:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Educación.
 
 Este indicador representa la proporción de la población mayor de 15 años sin primaria completa, respecto del total de la población mayor de 15 años del Municipio en cuestión:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Vivienda.
 
 Para la conformación de este indicador, se tomará en cuenta el promedio de ocupantes por cuarto en viviendas particulares de cada uno de los Municipios de la Entidad. Para este fin, el procedimiento empleado es una interpolación lineal, resultando la siguiente expresión:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Electrificación.
 
 Este indicador se traduce en la relación entre las viviendas particulares sin energía eléctrica y las viviendas particulares habitadas en el Municipio en estudio:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Drenaje.
 
 El indicador de carencia en materia de drenaje se constituye estableciendo la relación entre las viviendas particulares sin drenaje y las viviendas particulares habitadas del Municipio en estudio:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Una vez determinados los cinco indicadores, éstos deben ponderarse, combinarse entre si y producir un valor índice antes de elevarse a la a, lo que servirá para acentuar las carencias significativas entre los Municipios. El resultado de esta expresión, se denomina Índice Integrador de Déficit Social para el i-ésimo Municipio:
 
@@ -561,7 +443,7 @@ Ti = Total de la población del i-ésimo Municipio.
 
 Una vez determinada la situación de pobreza en el Municipio, se define la del Estado mediante la suma de los Déficit Sociales Relativos de los Municipios que lo integran, como se expresa a continuación:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Con esta transformación a déficit relativos se traduce el fenómeno a una misma expresión estatal y así la asignación se sujeta a los mismos criterios, es decir, en función de la magnitud de la pobreza de cada Municipio.
 
@@ -569,7 +451,7 @@ Para fines de aplicación de esta fórmula, los datos estadísticos se tomarán 
 
 La fórmula para la aplicación de los recursos a que se refiere la fracción II de este artículo es la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Si el monto recibido de los recursos a que se refiere esta fracción es igual o menor al del ejercicio fiscal inmediato anterior, éste será distribuido aplicando el coeficiente de participación relativa del citado ejercicio.
 
@@ -591,7 +473,9 @@ La Secretaría de Finanzas y Administración obtendrá los coeficientes definiti
 
 El Estado y los Municipios, en términos de la Ley de Coordinación Fiscal, percibirán ingresos distintos de las participaciones que en ingresos federales les correspondan, provenientes de los fondos y recursos participables siguientes:
 
-I. Fondo de Fiscalización;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+I. Fondo de Fiscalización y Recaudación,
 
 II. Recursos provenientes de las cuotas impuestas a la venta final de gasolinas y diesel; y
 
@@ -601,9 +485,11 @@ III. Demás que en términos de la Ley de Coordinación Fiscal tengan derecho a 
 
 Las fórmulas para la distribución y entrega de los fondos y recursos participables que correspondan a los Municipios, así como los montos estimados que corresponderán a cada uno de éstos y su calendario de entrega, se darán a conocer mediante los Acuerdos que para estos efectos emita el Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración, los cuales se publicarán en el Periódico Oficial del Estado y en su página electrónica de Internet.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 57.
 
-Los fondos y recursos participables a que se refiere el presente Capítulo, serán cubiertos a los Municipios en efectivo por el Estado a través de la Secretaría de Finanzas y Administración, mediante transferencia electrónica, depósito bancario o cheque nominativo.
+Los fondos y recursos participables a que se refiere el presente Capítulo, serán cubiertos a los Municipios en términos de lo señalado en la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 58.
 
@@ -613,55 +499,39 @@ La administración, distribución y ejercicio de los recursos participables adic
 
 ###### ARTÍCULO 59.
 
-De los recursos que reciba el Estado provenientes del Fondo de Fiscalización, los Municipios recibirán el 20%.
-
-El Ejecutivo Estatal por conducto de la Secretaría de Finanzas y Administración, tomando como base criterios de recaudación de las contribuciones municipales del impuesto predial y los derechos por servicio de agua y eficiencia en la misma, establecerá la fórmula para la distribución de estos recursos a los Municipios.
-
-Los recursos de este Fondo, se entregarán a los Municipios, siempre y cuando se ajusten estrictamente a lo establecido en el artículo 10-A de la Ley de Coordinación Fiscal.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 #### SECCIÓN II. DE LOS RECURSOS PROVENIENTES DE LAS CUOTAS IMPUESTAS A LA VENTA FINAL DE GASOLINAS Y DIESEL
 
 ###### ARTÍCULO 60.
 
-De los recursos que correspondan al Estado en términos de la Ley de Coordinación Fiscal, provenientes de la recaudación derivada de la aplicación de las cuotas previstas en el artículo 2°-A fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, a la venta de gasolinas y diesel en el territorio de la Entidad, los Municipios recibirán el 20%.
-
-El Ejecutivo Estatal por conducto de la Secretaría de Finanzas y Administración, establecerá la fórmula para la distribución de estos recursos a los Municipios.
-
-En la distribución del porcentaje de recursos que correspondan a los Municipios, el Estado considerará un 70% en proporción directa a la población, de acuerdo a la última información que hubiere dado a conocer el Instituto Nacional de Estadística, Geografía e Informática al iniciarse el ejercicio fiscal correspondiente.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 61.
 
-Los recursos previstos en esta Sección, que obtengan el Estado y los Municipios, podrán afectarse hasta en un 25%, para el pago de obligaciones que hubieren contraído con autorización del H. Congreso del Estado, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
-
-Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas, lo que resulte mayor entre aplicar el 25% a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE PARTICIPACIONES A JUNTAS AUXILIARES
 
 ###### ARTÍCULO 62.
 
-Las Juntas Auxiliares de los Municipios coadyuvarán con los Ayuntamientos en las funciones que les corresponden en términos de la Ley Orgánica Municipal y demás legislación aplicable.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 63.
 
-Los Ayuntamientos destinarán anualmente en sus Juntas Auxiliares, para obras, servicios públicos y gasto corriente, un monto equivalente de las participaciones que reciban, de conformidad con los porcentajes siguientes:
-
-I. El 5% cuando el Municipio cuente con 1 y hasta 5 Juntas Auxiliares;
-
-II. El 10% cuando el Municipio cuente con 6 y hasta 10 Juntas Auxiliares; y
-
-III. El 15% cuando el Municipio cuente con 11 ó más Juntas Auxiliares.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 64.
 
-Los Municipios incluirán en su Cuenta Pública, los recursos que hubieren devengado en sus Juntas Auxiliares.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 65.
 
-Las Juntas Auxiliares deberán remitir a los Municipios y éstos al Órgano de Fiscalización Superior del Estado, en los plazos a que se refiere la Ley Orgánica Municipal y para los efectos procedentes, los informes del ejercicio de los recursos a que se refiere este Capitulo y los demás que les hayan transferido y autorizado los Municipios.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 66.
 
-Las Juntas Auxiliares deberán observar en el ejercicio de los recursos, los criterios de comprobación, de racionalidad y de austeridad que señalen las leyes aplicables.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ## TÍTULO QUINTO. DE LOS FONDOS DE APORTACIONES FEDERALES
 
@@ -673,7 +543,7 @@ El Estado de Puebla recibirá los fondos de aportaciones federales que de confor
 
 Los fondos de aportaciones federales que correspondan a los Municipios, serán entregados a éstos a través del Ejecutivo del Estado, con base en las fórmulas, procedimientos y plazos previstos en esta Ley, sin que procedan anticipos.
 
-Ambos niveles de gobierno canalizarán dichos fondos para fortalecer su capacidad de respuesta, que les permita elevar la eficiencia y eficacia en la atención de las demandas de educación, salud, infraestructura básica, fortalecimiento financiero, seguridad pública, programas alimenticios y de asistencia social, entre otros rubros.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 68.
 
@@ -701,9 +571,9 @@ Cuando los recursos de los fondos de aportaciones a que se refiere este Título 
 
 Los expedientes técnicos que se integren para la ejecución de obras y acciones, serán validados por las Dependencias, Entidades o instancias normativas competentes, debiendo sujetarse además de lo dispuesto en esta Ley, a la normatividad, supervisión técnica y asesoría que para tales efectos emitan dichas instancias.
 
-Las validaciones a que se refiere el párrafo anterior, se procurarán realizar de manera ágil y expedita, a efecto de que no impliquen en modo alguno, limitaciones o restricciones en la administración y ejercicio de los recursos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
-El Ejecutivo del Estado, a través de las Dependencias y Entidades competentes y previa solicitud de los Municipios, podrá apoyar a los mismos con capacitación y asesoría en la elaboración e integración de los expedientes técnicos de obra y/o acciones.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 74.
 
@@ -711,7 +581,7 @@ Las obras y/o acciones financiadas con aportaciones federales podrán complement
 
 ###### ARTÍCULO 75.
 
-El Estado y los Municipios procurarán que las obras y/o acciones financiadas con recursos de los fondos de aportaciones federales, además de impulsar el desarrollo sustentable de la Entidad, sean compatibles con la preservación y protección del medio ambiente.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 76.
 
@@ -719,7 +589,7 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administra
 
 En la operación de los mecanismos a que se refiere el párrafo anterior, se deberán respetar los montos, plazos y condiciones de entrega que prevén la Ley de Coordinación Fiscal y la presente Ley, sin perjuicio de cumplir con los fines de las afectaciones que, como fuente de pago y/o garantía hubieren realizado el Estado o los Municipios a favor de sus acreedores, en términos de la legislación aplicable.
 
-En caso de que se constituyan fideicomisos para los fines establecidos en el párrafo anterior, éstos no serán considerados Entidades Paraestatales.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 77.
 
@@ -731,7 +601,9 @@ II. De Aportaciones para los Servicios de Salud;
 
 III. De Aportaciones para la Infraestructura Social;
 
-IV. De Aportaciones para el Fortalecimiento de los Municipios;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+IV. Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal;
 
 V. De Aportaciones Múltiples;
 
@@ -841,15 +713,15 @@ Para la administración de los recursos de este Fondo, la Secretaría de Salud d
 
 ### CAPÍTULO IV. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 90.
 
-Los recursos que del Fondo de Aportaciones para la Infraestructura Social, reciban el Gobierno del Estado y los Municipios, se destinarán a financiar obras y realizar acciones sociales básicas e inversiones que beneficien directamente a sectores de la población que se encuentre en condiciones de rezago social y de pobreza extrema, en los rubros a que se refiere esta Ley.
+Los recursos que del Fondo de Aportaciones para la Infraestructura Social, reciban el Gobierno del Estado y los Municipios, se destinarán exclusivamente a financiar obras y realizar acciones sociales básicas e inversiones que beneficien directamente a población en pobreza extrema, localidades con alto y muy alto nivel de rezago social en los rubros de gasto a que se refiere la Ley de Coordinación Fiscal y demás disposiciones aplicables en la materia.
 
 ###### ARTÍCULO 91.
 
-El Estado y los Municipios podrán destinar, hasta el 3% de los recursos que les correspondan de este Fondo, para ser aplicados como gastos indirectos de cada una de las obras y acciones que realicen.
-
-Los recursos destinados a gastos indirectos en términos del párrafo anterior, se orientarán principalmente a la realización de estudios, a la elaboración y evaluación de proyectos, a la supervisión y control de las obras que se ejecuten, entre otros rubros.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 92.
 
@@ -861,35 +733,43 @@ Los recursos que obtengan el Estado y los Municipios con motivo de los financiam
 
 El Gobierno del Estado y los Municipios podrán efectuar los pagos de las obligaciones contraídas en los términos de este artículo, a través de mecanismos de garantía o de fuente de pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 93.
 
-En el ejercicio de los recursos que de este Fondo correspondan al Estado y los Municipios, cada uno de éstos en el ámbito de sus respectivas competencias deberá:
+En el ejercicio de los recursos que de este Fondo correspondan al Estado y los Municipios, deberán observar lo dispuesto en el artículo 33, apartado B, fracción II de la Ley de Coordinación Fiscal.
 
-I. Hacer del conocimiento de sus habitantes, los montos que reciban las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios;
+I. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-II. Promover la participación de las comunidades beneficiarias en su destino, aplicación y vigilancia, así como en la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar;
+II. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-III. Detonar el desarrollo de las regiones identificadas en los programas regionales, subregionales y especiales;
+III. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-IV. Informar a sus habitantes al término de cada ejercicio, sobre los resultados alcanzados; y
+IV. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-V. Proporcionar a la Secretaría de Desarrollo Social Federal, la información que sobre la utilización de este Fondo les sea requerida. En el caso de los Municipios, lo harán por conducto de la Dependencia Estatal competente; lo anterior, sin perjuicio de la que les sea requerida por la Secretaría de Finanzas y Administración, de conformidad con la normatividad federal y estatal aplicable.
+V. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 94.
 
 El Fondo de Aportaciones para la Infraestructura Social a que se refiere este Capítulo se integra por:
 
-I. Fondo de Aportaciones para la Infraestructura Social Estatal; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-II. Fondo de Aportaciones para la Infraestructura Social Municipal.
+I. Fondo de Infraestructura Social para las Entidades; y
 
-#### SECCIÓN I. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL ESTATAL
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+II. Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2014)</small>
+
+#### SECCIÓN I. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL PARA LAS ENTIDADES
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 95.
 
-Los recursos del Fondo para la Infraestructura Social Estatal, se ejercerán por el Ejecutivo del Estado y serán destinados a la realización de obras de infraestructura social y acciones de fomento, de impacto regional o intermunicipal que beneficien a sectores que se encuentren en condiciones de rezago social y pobreza extrema.
-
-Las obras y acciones a que se refiere el párrafo anterior, serán determinadas en congruencia con las directrices del Plan Estatal de Desarrollo vigente.
+Los recursos del Fondo para la Infraestructura Social para las Entidades, se ejercerán por el Ejecutivo del Estado y serán destinados a la realización de obras y acciones que beneficien preferentemente a la población de los municipios, demarcaciones territoriales y localidades que presenten mayores niveles de rezago social y pobreza extrema en la Entidad, conforme a las disposiciones, lineamientos y demás instrumentos que para tales efectos se emitan.
 
 ###### ARTÍCULO 96.
 
@@ -903,77 +783,45 @@ Para la liberación de los recursos de este Fondo, la instancia estatal ejecutor
 
 La instancia estatal que tenga a su cargo la ejecución de las obras y acciones a financiarse con recursos del Fondo de Aportaciones a que se refiere esta Sección, será responsable de su correcta aplicación, en términos de las disposiciones federales y estatales aplicables.
 
-#### SECCIÓN II. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2014)</small>
+
+#### SECCIÓN II. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DE LAS DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 99.
 
-El Gobierno del Estado distribuirá entre los Municipios los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal, considerando criterios de pobreza extrema, conforme a la fórmula y procedimientos establecidos en la Ley de Coordinación Fiscal.
+El Gobierno del Estado distribuirá entre los Municipios, los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, conforme a la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 100.
 
-El Ejecutivo del Estado por conducto de las Dependencias competentes, publicará en el Periódico Oficial del Estado a más tardar el 31 de enero del ejercicio fiscal correspondiente, la metodología, fórmula y distribución de los recursos de este Fondo, así como el calendario de enteros y de fechas en que se transferirán a los Municipios.
-
-Para el cálculo de la distribución a que se refiere el párrafo anterior, el Estado suscribirá el convenio respectivo con la Secretaría de Desarrollo Social Federal a que se refiere el artículo 33 de la Ley de Coordinación Fiscal.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 101.
 
-El Gobierno del Estado enterará mensualmente a los Municipios los recursos de este Fondo, dentro de los primeros diez meses del ejercicio fiscal de que se trate por partes iguales, de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 102.
 
-Los Municipios destinarán los recursos de este Fondo a cada uno de los rubros siguientes:
+Los Municipios destinarán los recursos de este Fondo de acuerdo a lo establecido en la Ley de Coordinación Fiscal y demás disposiciones aplicables en la materia.
 
-I. Agua potable, drenaje, letrinas, alcantarillado y tratamiento de aguas residuales:
+I. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-a) Optimizar y ampliar la cobertura de la extracción, aprovechamiento y disposición del agua, promoviendo la creación de organismos operadores de agua autosuficientes en los Municipios;
+II. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-b) Incrementar la cobertura del sistema de drenaje, alcantarillado y tratamiento de aguas residuales, que respondan a las expectativas de desarrollo económico y social de la Entidad; y
+III. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-c) Instalar plantas de tratamiento de aguas residuales, para prevenir la contaminación de mantos acuíferos y cuerpos superficiales.
+IV. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-II. Electrificación rural y de colonias populares:
+V. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-a) Optimizar y ampliar la cobertura de la electrificación rural y de colonias populares, que garanticen el bienestar de la población, y el aprovechamiento racional del recurso, mediante la promoción de campañas que contribuyan al ahorro y a eficietar (sic) el uso de la energía eléctrica, en estrecha colaboración con los organismos responsables de la generación y distribución de la energía eléctrica; y
+VI. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-b) Vigilar que el proceso de aprobación de proyectos de electrificación rural y de colonias populares, se realice con eficiencia y diligencia.
+VII. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-III. Infraestructura básica de salud y educativa:
-
-a) Establecer mecanismos para la atención de las necesidades de infraestructura básica de salud y educativa, en especial en los Municipios que carezcan de ella en cantidad y calidad, impulsando acciones de ejecución inmediata que gradualmente reduzcan el rezago social. Los recursos que se apliquen en este rubro son adicionales a los incluidos en los Fondos de Aportaciones para la Educación Básica y Normal y de Aportaciones para los
-
-Servicios de Salud.
-
-IV. Mejoramiento de vivienda:
-
-a) Impulsar la construcción y dignificación de la vivienda rural, urbana y la constitución o formación de reservas territoriales, así como apoyar, alentar y promover el ordenamiento urbano en los Municipios y Localidades del territorio del Estado a través de la integración de concentraciones urbanas de al menos 3,000 habitantes, para poder dotarlos de servicios de vivienda e infraestructura urbana;
-
-b) Elaborar e instrumentar programas de capacitación en autoconstrucción;
-
-c) Estimular la construcción de vivienda, propiciando el uso adecuado de la infraestructura de las ciudades;
-
-d) Favorecer las condiciones legales, técnicas y financieras tendientes a que la población marginada tenga mayor acceso a la construcción y mejoramiento de la vivienda; y
-
-e) Consolidar la política federal en materia de reordenamiento urbano y atención del derecho a vivienda digna y decorosa.
-
-V. Caminos rurales:
-
-a) Desarrollar y modernizar integralmente la infraestructura carretera, aumentando la cobertura de la red de carreteras secundarias y de caminos rurales, en apoyo a la integración de Municipios marginados en el medio rural y la consolidación de polos de desarrollo para dar servicio a todos los Municipios del Estado; y
-
-b) Impulsar la red de caminos del Estado en zonas marginadas, con la participación de las comunidades y el sector público estatal y municipal.
-
-VI. Infraestructura productiva rural:
-
-a) Promover la ejecución de los programas sociales y proyectos productivos, incrementando la eficiencia del campo, apoyándose en esquemas de asociación de productores que promuevan la tecnificación de los procesos productivos;
-
-b) Incentivar una mayor productividad y eficiencia en la explotación del campo e incrementar el valor de su producción, enfatizando el uso racional de los recursos naturales;
-
-e) Impulsar programas tendientes a incrementar el rendimiento de los cultivos básicos del Estado;
-
-d) Recopilar la información fitosanitaria sobre desarrollo, distribución y dispersión de plagas y enfermedades agrícolas.
-
-VII. Urbanización Municipal; y
-
-VIII. Las demás que establezcan las leyes y demás ordenamientos aplicables.
+VIII. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 103.
 
@@ -985,29 +833,37 @@ Los Municipios, serán responsables de la integración y resguardo de la documen
 
 ###### ARTÍCULO 105.
 
-Los Municipios podrán disponer de hasta un 2% del total de recursos que de este Fondo les correspondan, para la realización de un Programa de Desarrollo Institucional Municipal, el cual será convenido en términos de la Ley de Coordinación Fiscal.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
-### CAPÍTULO V. DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MARZO DE 2014)</small>
+
+### CAPÍTULO V. DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS Y DE LAS DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 106.
 
-Los recursos provenientes del Fondo de Aportaciones para el Fortalecimiento de los Municipios, se destinarán a la satisfacción de sus requerimientos, para lo cual, los Municipios darán prioridad al cumplimiento de sus obligaciones financieras, a la atención de las necesidades directamente vinculadas con la seguridad pública de sus habitantes, a la ejecución de obras de infraestructura y al pago de derechos y aprovechamientos por concepto de agua.
+Los recursos provenientes del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, se destinarán de conformidad a lo señalado en la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 107.
 
-La distribución de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios, se realizará por el Gobierno del Estado en proporción directa del número de habitantes de cada Municipio, con base en la información oficial más reciente publicada por el Instituto Nacional de Estadística, Geografía e Informática.
+La distribución de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, se realizará de conformidad a lo señalado en la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 108.
 
-El Ejecutivo del Estado por conducto de las Dependencias competentes, publicará en el Periódico Oficial del Estado a más tardar el 31 de enero del ejercicio fiscal correspondiente, las variables y fórmulas para determinar los montos de los recursos que de este Fondo correspondan a los Municipios, así como el calendario de enteros y de fechas en que se transferirán a los mismos.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 109.
 
-El Gobierno del Estado enterará mensualmente por partes iguales a los Municipios de recursos de este Fondo, de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 110.
 
-Para el óptimo aprovechamiento de los recursos de este Fondo, los Municipios los destinarán a la satisfacción de sus requerimientos, dando prioridad a los rubros siguientes:
+Para el óptimo aprovechamiento de los recursos de este Fondo, los Municipios los destinarán a lo establecido en la Ley de Coordinación Fiscal.
 
 I. Amortización de empréstitos contraídos;
 
@@ -1015,29 +871,35 @@ II. Al pago de sus necesidades vinculadas a la seguridad pública;
 
 III. A la ejecución de obra de infraestructura; y
 
-IV. Al pago de derechos y aprovechamientos por concepto de agua.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+IV. Al pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 111.
 
-En el ejercicio de los recursos de este Fondo, los Municipios deberán:
+En el ejercicio de los recursos de este Fondo, los Municipios deberán observar lo dispuesto en el artículo 33, apartado B, fracción II, incisos a) y c) de la Ley de Coordinación Fiscal.
 
-I. Hacer del conocimiento de sus habitantes, los montos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios; y
+I. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-II. Informar a sus habitantes al término de cada ejercicio, sobre los resultados alcanzados.
+II. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 112.
 
-Para efectos de la fracción I del artículo 110 de esta Ley, los Municipios informarán al Ejecutivo del Estado por conducto de la Secretaría de Finanzas y Administración al inicio de cada ejercicio fiscal, la deuda directa y contingente a su cargo, así como la de sus Entidades Paramunicipales, a efecto de que se realicen las anotaciones correspondientes en el Registro Único de Obligaciones y Empréstitos del Estado.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 113.
 
 Para efectos de la fracción II del artículo 110 de esta Ley, los Municipios podrán convenir con el Estado la realización de acciones en el marco de los Sistemas Nacional y Estatal de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 114.
 
-Para efectos de la fracción IV del artículo 110 de esta Ley, los Municipios, previa autorización expresa e individual del H. Congreso del Estado, podrán afectar recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios, para garantizar el cumplimiento de sus obligaciones de pago de derechos y aprovechamientos que por concepto de agua deban cubrir a la Comisión Nacional del Agua o en su caso, al organismo prestador de los servicios correspondientes.
+Para efectos de la fracción IV del artículo 110 de esta Ley, los Municipios, podrán afectar recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios, para garantizar el cumplimiento de sus obligaciones de pago de derechos y aprovechamientos que por concepto de agua y descargas de aguas residuales, deban cubrir a la Comisión Nacional del Agua, o en su caso, al organismo prestador de los servicios correspondientes.
 
-En caso de que los Municipios registren adeudos con una antigüedad mayor a 90 días naturales por incumplimiento de sus obligaciones de pago de los derechos y aprovechamientos a que se refiere el acápite de este artículo, el Gobierno del Estado previa solicitud y acreditamiento de dicho incumplimiento por escrito, debidamente fundado y motivado por parte de la Comisión Nacional del Agua o del organismo prestador de los servicios correspondientes, y con base en la autorización a que se refiere el párrafo anterior, podrá retenerles los recursos que les correspondan de este Fondo, para cubrir el pago de los citados adeudos, siempre y cuando no se afecte el cumplimiento de las obligaciones que previamente hubieren adquirido los Municipios con cargo este (sic) Fondo, en los rubros de deuda y seguridad pública, así como de infraestructura.
+En caso de que los Municipios registren adeudos con una antigüedad mayor a 90 días naturales por incumplimiento de sus obligaciones de pago de los derechos y aprovechamientos a que se refiere el acápite de este artículo, el Gobierno del Estado previa solicitud y acreditamiento de dicho incumplimiento por escrito, debidamente fundado y motivado por parte de la Comisión Nacional del Agua o del organismo prestador de los servicios correspondientes, podrá retenerles los recursos que les correspondan de este Fondo, para cubrir el pago de los citados adeudos, siempre y cuando no se afecte el cumplimiento de las obligaciones que previamente hubieren adquirido los Municipios con cargo a este Fondo, en los rubros de deuda y seguridad pública a que se refieren las fracciones I y II del artículo 110 de esta Ley.
 
 ###### ARTÍCULO 115.
 
@@ -1053,25 +915,31 @@ Los Municipios, serán responsables de la integración y resguardo de la documen
 
 ### CAPÍTULO VI. DEL FONDO DE APORTACIONES MÚLTIPLES
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 118.
 
-El Gobierno del Estado fortalecerá la asistencia social en materia alimentaria y de apoyo a la población en desamparo, así como lo relacionado con la ampliación de la infraestructura física de la educación a nivel básico y superior.
+El Fondo de Aportaciones Múltiples que reciba el Gobierno del Estado, permitirá fortalecer la asistencia social en materia alimentaria y de apoyo a la población en desamparo, así como lo relacionado con la infraestructura física de la educación a nivel básica, media superior y superior en su modalidad universitaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 119.
 
-Los recursos que del Fondo de Aportaciones Múltiples reciba el Gobierno del Estado, se destinarán exclusivamente a:
+La distribución, aplicación y destino de los recursos del Fondo de Aportaciones Múltiples, serán aquellos que se describan dentro de la Ley de Coordinación Fiscal y demás disposiciones aplicables en la materia.
 
-I. El Otorgamiento de desayunos escolares;
+I. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-II. Apoyos alimentarios y de asistencia social a la población en condiciones de pobreza extrema;
+II. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-III. Apoyos a la población en desamparo; y
+III. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-IV. A la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica y superior en su modalidad universitaria.
+IV. (DEROGADA, P.O. 19 DE MARZO DE 2014)
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 120.
 
-El Ejecutivo del Estado, por conducto de las Dependencias y Entidades competentes, será responsable de la administración y ejercicio de los recursos señalados en el artículo anterior.
+Las instancias ejecutoras estatales deberán considerar en sus procesos de planeación, programación, presupuestación y ejecución de las acciones y obras a su cargo, el monto y calendario de ministración correspondiente para cada uno de los componentes, que para tal efecto den a conocer las dependencias federales a más tardar el 31 de enero del ejercicio de que se trate, de conformidad con la Ley de Coordinación Fiscal.
 
 #### SECCIÓN I. DE LA ASISTENCIA SOCIAL
 
@@ -1113,25 +981,29 @@ El Gobierno del Estado recibirá los recursos que de este Fondo le correspondan,
 
 ### CAPÍTULO VIII. DEL FONDO DE APORTACIONES PARA LA SEGURIDAD PÚBLICA DEL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 127.
 
-Los recursos que con cargo a este Fondo reciba el Gobierno del Estado, se destinarán exclusivamente para:
+Los recursos que con cargo a este Fondo reciba el Gobierno del Estado, se destinarán exclusivamente para los destinos de gasto establecidos en la Ley de Coordinación Fiscal.
 
-I. Reclutar, formar, seleccionar, evaluar y depurar los recursos humanos vinculados con las tareas de seguridad pública;
+I. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-II. El otorgamiento de percepciones extraordinarias a los Agentes del Ministerio Público, los policías judiciales o sus equivalentes y los peritos de la Procuraduría General de Justicia del Estado, de los policías preventivos o de custodia de los centros penitenciarios y de menores infractores; estos recursos tendrán la naturaleza de no regularizables para los Presupuestos de Egresos del Estado de ejercicios subsecuentes al de su otorgamiento;
+II. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-III. Equipar a la policía judicial o sus equivalentes, los peritos, los ministerios públicos y los policías preventivos o de custodia de los centros penitenciarios y de menores infractores;
+III. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-IV. Establecer y operar la red nacional de telecomunicaciones e informática para la seguridad pública y el servicio telefónico nacional de emergencia;
+IV. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-V. Construir, mejorar o ampliar las instalaciones para la procuración e impartición de justicia, de los centros de readaptación social y de menores infractores, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación; y
+V. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-VI. El seguimiento y evaluación de las acciones señaladas en las fracciones anteriores.
+VI. (DEROGADA, P.O. 19 DE MARZO DE 2014)
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 128.
 
-La aplicación de los recursos que integran el Fondo de Aportaciones para la Seguridad Pública del Estado, se realizará por las instancias estatales competentes y de conformidad con los Programas Estatales de Seguridad pública derivados del Programa Nacional de Seguridad Pública, acordados por el Consejo Nacional de Seguridad Pública con base en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, así mismo en los acuerdos, resoluciones, convenios y anexos específicos que suscriba la Federación con el Estado y demás disposiciones aplicables.
+La aplicación de los recursos que integran el Fondo de Aportaciones para la Seguridad Pública del Estado, se realizará por las instancias estatales competentes y de conformidad con los Programas Estatales de Seguridad Pública derivados del Programa Nacional de Seguridad Pública con base en la Ley General del Sistema Nacional de Seguridad Pública, así como en los acuerdos aprobados por el Consejo Nacional de Seguridad Pública.
 
 ###### ARTÍCULO 129.
 
@@ -1141,27 +1013,29 @@ La instancia estatal competente, además proporcionará a la Federación, la inf
 
 ### CAPÍTULO IX. DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LAS ENTIDADES FEDERATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 130.
 
-Los recursos que con cargo al Fondo de Aportaciones para el Fortalecimiento de la Entidad Federativa reciba el Gobierno del Estado, tienen por objeto fortalecer el presupuesto del mismo, así como a las regiones que conforman el Estado, por lo que se destinarán:
+Los recursos que con cargo al Fondo de Aportaciones para el Fortalecimiento de la Entidad Federativa reciba el Gobierno del Estado, tienen por objeto fortalecer el presupuesto del mismo, así como a las regiones que conforman el Estado, y se aplicarán a los destinos de gasto y porcentajes previstos en la Ley de Coordinación Fiscal.
 
-I. A la inversión en infraestructura física, incluyendo la construcción, reconstrucción, ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de bienes para el equipamiento de las obras generadas o adquiridas; infraestructura hidroagrícola, y hasta un 3% del costo del programa o proyecto programado en el ejercicio fiscal correspondiente, para gastos indirectos, consistentes en la realización de estudios, elaboración y evaluación de proyectos y supervisión y control;
+I. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-II. Al saneamiento financiero, preferentemente a través de la amortización de deuda pública, expresada como una reducción al saldo registrado al 31 de diciembre del año inmediato anterior. Asimismo, podrán realizarse otras acciones de saneamiento financiero, siempre y cuando se acredite un impacto favorable en la fortaleza de las finanzas públicas del Estado;
+II. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-III. Para apoyar el saneamiento de pensiones y, en su caso, reformas a los sistemas de pensiones del Estado, prioritariamente a las reservas actuariales;
+III. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-IV. A la modernización del Registro Público de la Propiedad y del Comercio; así como para apoyar a los Municipios en la modernización de sus catastros, con el objeto de actualizar los valores de los bienes y hacer más eficiente la recaudación de contribuciones;
+IV. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-V. Para modernizar los sistemas de recaudación del Estado y para desarrollar mecanismos impositivos que permitan ampliar la base gravable de las contribuciones locales, lo cual genere un incremento neto en la recaudación;
+V. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-VI. Al fortalecimiento de los proyectos de investigación científica y desarrollo tecnológico, siempre y cuando sean adicionales a los recursos de naturaleza estatal previstos en este rubro en el Presupuesto de Egresos del Estado;
+VI. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-VII. Para el Sistema Estatal de Protección Civil, siempre y cuando sean adicionales a los recursos de naturaleza estatal previstos en este rubro en el Presupuesto de Egresos del Estado:
+VII. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-VIII. Para apoyar la educación pública, siempre y cuando sean adicionales a los recursos de naturaleza estatal previstos en este rubro en el Presupuesto de Egresos del Estado y que el monto de estos recursos se incremente en términos reales respecto al presupuestado en el año inmediato anterior; y
+VIII. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
-IX. Para destinarlas a fondos constituidos por el Estado para apoyar proyectos de infraestructura concesionada o aquellos en que se combinen recursos públicos y privados; al pago de obras públicas de infraestructura que sean susceptibles de complementarse con inversión privada, en forma inmediata o futura, así como a estudios, proyectos, supervisión, liberación del derecho de vía, y otros bienes y servicios relacionados con las mismas.
+IX. (DEROGADA, P.O. 19 DE MARZO DE 2014)
 
 ###### ARTÍCULO 131.
 
@@ -1305,15 +1179,17 @@ El ejercicio de las atribuciones que correspondan a las instancias locales de co
 
 El Estado, y los Municipios a través de las instancias ejecutoras competentes, deberán presentar a la Secretaría de Hacienda y Crédito Público a través del sistema y/o mecanismo que instrumente la misma, los informes sobre el ejercicio y destino de los recursos de los fondos de aportaciones federales que les correspondan, así como los resultados obtenidos, en la forma, términos y plazos señalados en la Ley de Coordinación Fiscal y demás disposiciones aplicables.
 
-La información consolidada de ambos niveles de gobierno deberá remitirse a través de las instancias estatales competentes a la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
-Los informes a que se refiere el presente artículo, se darán a conocer por el Estado y los Municipios de conformidad con lo establecido en la Ley de Coordinación Fiscal.
+La Secretaría de Finanzas y Administración podrá emitir los Lineamientos que permitan dar cumplimiento a lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+La calidad y veracidad de la información que se reporte, así como la oportunidad con que se realice, será responsabilidad única y exclusiva de las instancias ejecutoras. Así como lo correspondiente a la publicación y difusión de dichos informes que refiere la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 150.
 
-El ejercicio de los recursos de los fondos de aportaciones y demás recursos federales que sean transferidos al Estado y los Municipios, se sujetará a la evaluación a que se refiere la Ley de Coordinación Fiscal, la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones legales aplicables.
-
-El Estado, y los Municipios a través de aquél, darán a conocer a la Secretaría de Hacienda y Crédito Público los resultados de las evaluaciones a que se refiere el presente artículo, en la forma, términos y plazos previstos en los ordenamientos legales señalados en el párrafo anterior.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ## TÍTULO DÉCIMO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -1321,7 +1197,7 @@ El Estado, y los Municipios a través de aquél, darán a conocer a la Secretar�
 
 ###### ARTÍCULO 151.
 
-Las infracciones en que incurran los servidores públicos estatales o municipales a las disposiciones de esta Ley, se sancionarán por los órganos de control, supervisión y fiscalización del Estado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, la Ley del Órgano de Fiscalización Superior del Estado y demás ordenamientos aplicables, sin perjuicio de las responsabilidades civiles y penales a que hubiere lugar, en términos de la legislación correspondiente.
+(DEROGADO, P.O. 19 DE MARZO DE 2014)
 
 ## TRANSITORIOS
 
@@ -1344,3 +1220,11 @@ OCTAVO.- Se derogan todas aquellas disposiciones de carácter legal y administra
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los doce días del mes de marzo de dos mil nueve.- Diputado Presidente.- JOSÉ OTHÓN BAILLERES CARRILES.- Rubrica.- Diputada Vicepresidenta.- CARMEN ERIKA SUCK MENDIETA.- Rúbrica.- Diputada Secretaria.- LUANA ARMIDA AMADOR VALLEJO.- Rúbrica.- IRMA RAMOS GALINDO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de marzo de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto deberá ser publicado en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas aquéllas disposiciones que contravengan lo dispuesto en el presente Decreto.
