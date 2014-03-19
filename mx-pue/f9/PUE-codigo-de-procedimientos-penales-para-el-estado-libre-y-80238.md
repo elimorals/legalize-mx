@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-penales-para-el-estado-libre-y-80238"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-02-21"
-last_updated: "2013-12-30"
+last_updated: "2014-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO PUBLICADO EL 19 DE MARZO DE 2014, QUE DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE PUEBLA, SE ABROGA EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO POR DECRETO DEL HONORABLE CONGRESO DEL ESTADO DE PUEBLA DE VEINTIUNO DE FEBRERO DE DOS MIL ONCE, CON EXCEPCIÓN DEL TÍTULO DÉCIMO RELATIVO A LA "EJECUCIÓN DE LA SENTENCIA", EL CUAL DEBERÁ MANTENERSE VIGENTE HASTA QUE EL CONGRESO DE LA UNIÓN EXPIDA LA LEGISLACIÓN ÚNICA EN MATERIA DE EJECUCIÓN DE PENAS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 21 de febrero de 2011.
 
@@ -7064,3 +7066,25 @@ P.O. 30 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO ÚNICO DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2014.</small>
+
+DECRETO
+
+ÚNICO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, con fundamento en el artículo Segundo Transitorio del Decreto que expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce, DECLARA la entrada en vigor de ese ordenamiento en el Estado de Puebla, atendiendo la gradualidad establecida en los artículos transitorios de la Ley Orgánica del Poder Judicial del Estado de Puebla, a partir del día veintiuno de mayo de dos mil catorce, conforme a los Decretos publicados en el Periódico Oficial del Estado de fechas diecisiete de junio de dos mil once y trece de septiembre de dos mil trece.
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+SEGUNDO.- Comuníquese al Congreso de la Unión y a los demás Poderes del Estado.
+
+TERCERO.- Se abroga el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, publicado por Decreto del Honorable Congreso del Estado de Puebla de veintiuno de febrero de dos mil once, con excepción del Título Décimo relativo a la "Ejecución de la Sentencia", el cual deberá mantenerse vigente hasta que el Congreso de la Unión expida la legislación única en materia de ejecución de penas.
+
+Se exceptúan de la abrogación del Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, la aplicación del mismo en aquellos procesos penales que hayan iniciado entre el quince de enero de dos mil trece y el veinte de mayo de dos mil catorce en la Región Judicial Oriente del Estado, con sede en Teziutlán, mismos que deberán sustanciarse hasta su conclusión definitiva, conforme al Código de Procedimientos Penales aplicable al momento de su inicio.
+
+CUARTO.- La entrada en vigor del Código Nacional de Procedimientos Penales surtirá sus efectos en el territorio del Estado, a partir del veintiuno de mayo de dos mil catorce en las Regiones Judiciales Oriente, Norte y Sur del Estado de Puebla, de acuerdo a lo que establece el artículo 10 Bis de la Ley Orgánica del Poder Judicial del Estado de Puebla y en el resto del territorio del Estado, de acuerdo a lo que establece el artículo Segundo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Puebla, conforme a los Decretos publicados en el Periódico Oficial del Estado de fechas diecisiete de junio de dos mil once y trece de septiembre de dos mil trece.
+
+QUINTO.- No procede la acumulación de procesos penales cuando uno de ellos se esté tramitando conforme al Código Nacional de Procedimientos Penales y el otro conforme a la legislación adjetiva abrogada.
