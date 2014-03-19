@@ -4,7 +4,7 @@ identifier: "LGPSEDMTP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-14"
-last_updated: "2012-06-14"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88192&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSEDMTP"
 
 LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de junio de 2012.
 
@@ -718,7 +718,11 @@ Las autoridades responsables de atender a las víctimas del delito en los ámbit
 
 I. Establecer mecanismos adecuados para identificar a las víctimas y posibles víctimas;
 
-II. Crear programas de protección y asistencia previos, durante y posteriores al proceso judicial, así como de asistencia jurídica durante todas las etapas del procedimiento penal, civil y administrativo;
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
+
+II. Crear programas de protección y asistencia previos, durante y posteriores al proceso judicial, así como de asistencia jurídica durante todas las etapas del procedimiento penal, civil y administrativo.
+
+Asimismo, deberán proporcionar a las víctimas en un idioma o lengua con su respectiva variante lingüística que comprendan, y de acuerdo a su edad, información sobre sus derechos, garantizando su integridad psicológica y la protección de su identidad e intimidad;
 
 III. Diseñar y poner en marcha modelos de protección y asistencia inmediatas a víctimas o posibles víctimas ante la comisión o posible comisión de los delitos previstos en esta Ley;
 
@@ -1627,3 +1631,9 @@ TRANSITORIO DEL DECRETO DE REFORMAS
 México, D. F., a 27 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE MARZO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
