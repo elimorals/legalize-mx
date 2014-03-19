@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-cultura-fisica-y-deporte-para-el-estado-de-nayarit-74405
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-03"
-last_updated: "2010-04-03"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE NAYARIT
 
-LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE NAYARIT
+LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 3 de abril de 2010.
 
@@ -73,21 +73,31 @@ XI. Sistema: Sistema Estatal de Cultura Física y Deporte, y,
 
 XII. Sistemas Municipales: Sistemas Municipales de Cultura Física y Deporte.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 3.
 
 Para los efectos de la aplicación de la presente Ley, se consideran definiciones básicas las siguientes:
 
-I. Actividad Física: Actos motores propios del ser humano realizados como parte de sus actividades cotidianas;
+I. Activación Física: El ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas;
 
-II. Cultura Física: Conjunto de bienes integrados por los conocimientos, ideas, valores y elementos materiales que el hombre ha producido con relación al movimiento y uso de su cuerpo;
+II. Actividad Física: Actos motores propios del ser humano realizados como parte de sus actividades cotidianas;
 
-III. Deporte: Actividad física institucionalizada y reglamentada, practicada con fines de competencia entre individuos o grupos;
+III. Cultura Física: Conjunto de bienes integrados por los conocimientos, ideas, valores y elementos materiales que el hombre ha producido con relación al movimiento y uso de su cuerpo;
 
-IV. Educación Física: Proceso por medio del cual se adquiere, transmite y acrecienta la cultura física;
+IV. Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones;
 
-V. Recreación Física: Actividad física con fines de esparcimiento que permiten la utilización positiva del tiempo libre; y
+V. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
 
-VI. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando a su cuerpo por medio de ellas.
+VI. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+
+VII. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones estatales y nacionales que representan al Estado y al país en competiciones y pruebas oficiales de carácter nacional o internacional;
+
+VIII. Educación Física: Proceso por medio del cual se adquiere, transmite y acrecienta la cultura física;
+
+IX. Recreación Física: Actividad física con fines de esparcimiento que permiten la utilización positiva del tiempo libre, y
+
+X. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando a su cuerpo por medio de ellas.
 
 ###### Artículo 4.
 
@@ -205,9 +215,25 @@ VIII. Promover la construcción, conservación y adecuación de la infraestructu
 
 IX. Organizar programas especiales de recreación física y práctica deportiva entre los adultos en plenitud, personas con discapacidades, comunidades indígenas, rurales y demás sectores con características y necesidades especiales;
 
-X. Establecer programas que faciliten el acceso de la mujer a la práctica deportiva; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-XI. Las demás que le otorgue la presente ley y su reglamento.
+X. Establecer programas que faciliten el acceso de la mujer a la práctica deportiva;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+XI. Establecer los criterios y acciones a efecto de prevenir la violencia en la práctica del deporte;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+
+XII. Fomentar la cultura física y la práctica del deporte en la población, como medio para la prevención de actos delictivos;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+
+XIII. Apoyar preferentemente el deporte social y el deporte de rendimiento, y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+
+XIV. Las demás que le otorgue la presente ley y su reglamento.
 
 ###### Artículo 11.
 
@@ -229,19 +255,21 @@ I. Un Presidente, que será el Gobernador del Estado o la persona que designe;
 
 II. Un Secretario, que será el Director General;
 
-III. Consejeros nombrados por cada una de las siguientes dependencias;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-a. Secretaría de Educación Básica;
+III. Consejeros nombrados por cada una de las siguientes dependencias:
 
-b. Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica;
+a. Secretaría de Educación;
 
-c. Secretaría de Hacienda;
+b. DEROGADO, P.O. 19 DE MARZO DE 2014
+
+c. Secretaría de Administración y Finanzas;
 
 d. Secretaría de Salud;
 
-e. Secretaría de Planeación, Programación y Presupuesto;
+e. Secretaría de Planeación, Programación y Presupuesto, y
 
-f. Sistema para el Desarrollo Integral de la Familia;
+f. Sistema Estatal para el Desarrollo Integral de la Familia;
 
 IV. Un consejero integrante de la Comisión Legislativa del Congreso del Estado en materia de deporte que preferentemente será su Presidente.
 
@@ -323,9 +351,17 @@ VII. Presentar a la Junta, un informe anual sobre las actividades realizadas por
 
 VIII. Rendir trimestralmente a la Junta, un informe de los avances en el ejercicio del presupuesto de ingresos y de egresos correspondiente, así como los estados financieros del Instituto;
 
-IX. Convocar a las sesiones de la Junta; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-X. Las demás que le confiera esta Ley, su Reglamento y disposiciones legales aplicables.
+IX. Convocar a las sesiones de la Junta;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+X. Presentar dentro de los primeros 15 días de noviembre de cada año un informe ante el Congreso del Estado, que presente las metas alcanzadas y los retos en la materia, y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+
+XI. Las demás que le confiera esta Ley, su Reglamento y las disposiciones legales aplicables.
 
 ## Título Cuarto. De los Organismos Deportivos
 
@@ -467,17 +503,17 @@ I. El Instituto Nayarita de Cultura Física y Deporte, representado por la Junta
 
 II. Los Institutos Municipales de Cultura Física y Deporte;
 
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
 III. Las siguientes dependencias de la administración pública estatal:
 
 a) Secretaría de Salud;
 
-b) Secretaría de Educación Básica;
+b) Secretaría de Educación;
 
-c) Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica;
+c) Secretaría de Planeación, Programación y Presupuesto, y
 
-d) Secretaría de Planeación, Programación y Presupuesto; y
-
-e) Secretaría de Hacienda.
+d) Secretaría de Administración y Finanzas.
 
 IV. La Comisión Legislativa competente del H. Congreso del Estado en materia de deporte;
 
@@ -520,6 +556,10 @@ VIII. Las demás que le otorgue esta Ley, su reglamento y otras disposiciones ap
 ###### Artículo 45.
 
 El Programa es el instrumento de planeación donde se establecen las políticas públicas en materia deportiva, está constituido por el conjunto de estrategias y acciones orientadas a la organización, coordinación, fomento, desarrollo y capacitación de la cultura física y el deporte en la entidad.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+El Instituto publicará su presupuesto, programa y sistemas de evaluación, en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 ###### Artículo 46.
 
@@ -807,6 +847,10 @@ VI. Las demás que se determinen en la presente Ley y su reglamento.
 
 Queda prohibido el uso y consumo de sustancias farmacológicas que aumenten artificialmente las capacidades físicas de los deportistas.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+El Comité y el Sistema en el ámbito de sus respectivas competencias, con la participación de los sectores social y privado velarán por la aplicación de la Convención Internacional Contra el Dopaje en el Deporte y demás instrumentos internacionales que resulten aplicables.
+
 ###### Artículo 82.
 
 Se entenderá por dopaje en el deporte, cuando los deportistas ingieran sustancias farmacológicas prohibidas que figuren en la lista que emita la CONADE.
@@ -863,7 +907,9 @@ La Comisión Estatal de Apelación y Arbitraje Deportivo es el organismo compete
 
 La Comisión estará integrada por un Presidente, un Secretario y tres Vocales, mismos que serán nombrados por el Ejecutivo Estatal a propuesta del Sistema, desempeñando su encargo con carácter honorífico.
 
-Los nombramientos deben recaer en personas con amplia experiencia y conocimientos en el ámbito deportivo, así como de reconocido prestigio y calidad moral. Por cada miembro titular deberá nombrarse un suplente.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
+Los nombramientos deben recaer preferentemente en personas con profesión de Licenciado en Derecho o Abogado, amplio conocimiento y experiencia en el ámbito deportivo, y reconocido prestigio y calidad moral. Por cada miembro titular deberá nombrarse un suplente.
 
 Los miembros de la Comisión durarán en su encargo tres años, pudiendo ser ratificados por única vez para un periodo igual.
 
@@ -881,9 +927,81 @@ Las resoluciones definitivas emitidas por la Comisión no admitirán recurso alg
 
 El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la Comisión.
 
-### Capítulo II. De las Sanciones por Infracción a esta Ley
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MARZO DE 2014)</small>
 
-### Capítulo III. De las Sanciones por Infracción a Estatutos y Reglamentos Deportivos
+### Capítulo II. De la Prevención de la Violencia en el Deporte
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+###### Artículo 94 Bis.
+
+Las disposiciones previstas en este capítulo, serán aplicables a todos los eventos deportivos.
+
+El Instituto, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos, cuando así lo requieran.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+###### Artículo 94 Ter.
+
+Para efectos de esta Ley, de manera enunciativa y no limitativa se entienden por actos o conductas violentas o que incitan a la misma en el deporte, las siguientes:
+
+I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+II. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquéllos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+IV. La irrupción no autorizada en los terrenos de juego;
+
+V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+
+VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación, y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
+
+VII. Las que establezca la presente Ley, su reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+###### Artículo 94 Quáter.
+
+El instituto en materia de prevención de la violencia en el deporte, tendrá las atribuciones siguientes:
+
+I. Promover e impulsar acciones de prevención contra la violencia en el deporte;
+
+II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia y la discriminación, con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
+
+III. Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos;
+
+IV. Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, procuradurías, áreas de seguridad pública y protección civil tanto en el Estado como en los Municipios;
+
+V. Emitir recomendaciones y orientar a los miembros del Sistema sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
+
+VI. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte, y
+
+VII. Las que establezca la presente Ley, su reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+Artículo 94 Quintus.- Dentro de los lineamientos que emite el Instituto a que se refiere el artículo anterior, deberán regularse en lo concerniente al acceso a los eventos deportivos, de manera enunciativa, las siguientes medidas:
+
+I. La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales, mismos que puedan poner en peligro la integridad física de los deportistas, entrenadores, directivos, árbitros y de espectadores o asistentes en general;
+
+II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos;
+
+III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena visualización de los espectadores o aficionados en general;
+
+IV. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva Asociación Deportiva Nacional, y
+
+V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
+
+Artículo 94 Sextus.- Toda persona en calidad de asistente o espectador que acuda a la celebración de un evento deportivo, deberá:
+
+I. Acatar las disposiciones normativas relacionadas con la celebración de eventos deportivos que emita el Instituto, así como las de la localidad en donde se lleven a cabo, y
+
+II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo. Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal, del Distrito Federal y municipal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+
+### Capítulo III. De las Sanciones por Infracción a esta Ley
 
 #### Sección Primera. De las infracciones y Sanciones
 
@@ -989,7 +1107,7 @@ El Instituto tendrá las más amplias facultades de allegarse los elementos de c
 
 Lo no previsto en la presente sección se suplirá con las disposiciones de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
-### Capítulo IV. De los Recursos
+### Capítulo IV. De las Sanciones por Infracción a Estatutos y Reglamentos Deportivos
 
 ###### Artículo 106.
 
@@ -1025,7 +1143,7 @@ II. Ante los Institutos Municipales, cuando la resolución recurrida la haya dic
 
 Contra la resolución que recaiga al recurso de inconformidad, procede el recurso de apelación ante la Comisión.
 
-### Capítulo Único. De los Institutos Municipales de Cultura Física y Deporte
+### Capítulo V. De los Recursos
 
 #### Sección Primera. Del Recurso de Inconformidad
 
@@ -1065,7 +1183,7 @@ Celebrada la audiencia la Comisión emitirá resolución en los siguientes tres 
 
 ## Título Décimo Primero. De la Participación de los Municipios
 
-### Capítulo Único 2
+### Capítulo Único. De los Institutos Municipales de Cultura Física y Deporte
 
 ###### Artículo 119.
 
@@ -1097,9 +1215,21 @@ II. Procurar el mantenimiento y conservación de las instalaciones deportivas ex
 
 III. Otorgar reconocimientos y estímulos a aquellas personas y organismos que se hayan distinguido en la promoción, fomento y desarrollo de la práctica deportiva dentro del municipio;
 
-IV. Fijar las bases a las que se sujetará la participación de deportistas en competencias y eventos municipales; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-V. Las demás que le otorgue su normativa interna.
+IV. Fijar las bases a las que se sujetará la participación de deportistas en competencias y eventos municipales;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+V. Coordinarse con la Comisión Nacional de Cultura Física y Deporte, los Estados, el Distrito Federal y con los municipios para la promoción, fomento y desarrollo de la cultura física y el deporte;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+
+VI. Promover la participación de los sectores social y privado para el desarrollo de la activación física, la cultura física y el deporte, y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+
+VII. Las demás que le otorgue su normativa interna.
 
 ###### Artículo 123.
 
@@ -1145,19 +1275,19 @@ Contenido Página
 
 ## Título Primero. Disposiciones Generales
 
-### Capítulo I. De los Derechos 3
+### Capítulo Único 2
 
 ## Título Segundo. De los Derechos y Deberes del Deportista
 
-### Capítulo II. De los Deberes 3
+### Capítulo I. De los Derechos 3
 
-### Capítulo I. Disposiciones Generales 4
+### Capítulo II. De los Deberes 3
 
 ## Título Tercero. Del Instituto Nayarita de Cultura Física y Deporte
 
-### Capítulo II. Órganos del Instituto 5
+### Capítulo I. Disposiciones Generales 4
 
-### Capítulo I. Del Reconocimientos de los Organismos Deportivos 7
+### Capítulo II. Órganos del Instituto 5
 
 #### Sección Primera. La Junta de Gobierno 5
 
@@ -1165,9 +1295,9 @@ Contenido Página
 
 ## Título Cuarto. De los Organismos Deportivos
 
-### Capítulo II. De los Organismos Deportivos en Particular 8
+### Capítulo I. Del Reconocimientos de los Organismos Deportivos 7
 
-### Capítulo Tercero. Prevenciones Especiales 9
+### Capítulo II. De los Organismos Deportivos en Particular 8
 
 #### Sección Primera. De los Equipos y Clubes 8
 
@@ -1175,23 +1305,25 @@ Contenido Página
 
 #### Sección Tercera. De las Asociaciones Deportivas 9
 
-### Capítulo Único. Del Sistema Estatal 10
+### Capítulo Tercero. Prevenciones Especiales 9
 
 ## Título Quinto. Del Sistema Estatal de Cultura Física y Deporte
 
-### Capítulo I. Del Programa Estatal de Cultura Física y Deporte 11
+### Capítulo Único. Del Sistema Estatal 10
 
 ## Título Sexto. Del Programa y del Registro Estatal de Cultura Física y Deporte
 
-### Capítulo II. Del Requisito Estatal de Cultura Física v Deporte 12
+### Capítulo I. Del Programa Estatal de Cultura Física y Deporte 11
 
-### Capítulo Único. De las Instalaciones 13
+### Capítulo II. Del Requisito Estatal de Cultura Física v Deporte 12
 
 ## Título Séptimo. De las Instalaciones Deportivas
 
-### Capítulo I. Prevenciones Generales 13
+### Capítulo Único. De las Instalaciones 13
 
 ## Título Octavo. Del Fomento y Estimulo al Deporte
+
+### Capítulo I. Prevenciones Generales 13
 
 ### Capítulo II. Del Fondo Estatal del Deporte 14
 
@@ -1201,13 +1333,11 @@ Contenido Página
 
 ### Capítulo V. Del Salón de la Fama 15
 
-### Capítulo I. Del Servicio Médico 16
-
 ## Título Noveno. Del Servicio Medico y del Control Antidopaje
 
-### Capítulo II. Del Comité y del Control Antidopaje 17
+### Capítulo I. Del Servicio Médico 16
 
-### Capítulo I. De la Comisión Estatal de Apelación de Arbitraje. Deportivo 19
+### Capítulo II. Del Comité y del Control Antidopaje 17
 
 #### Sección Primera. Del Comité Antidopaje 17
 
@@ -1215,22 +1345,34 @@ Contenido Página
 
 ## Título Décimo. De la Justicia en el Deporte
 
-### Capítulo II. De las Sanciones por Infraccione a esta Ley 20
+### Capítulo I. De la Comisión Estatal de Apelación de Arbitraje. Deportivo 19
 
-### Capítulo III. De las Sanciones por Infracción a Estatutos y. Reglamentos Deportivos 22
+### Capítulo II. De las Sanciones por Infraccione a esta Ley 20
 
 #### Sección Primera. De las Infracciones y Sanciones 20
 
 #### Sección Segunda. De la Substanciación del Procedimiento 21
 
+### Capítulo III. De las Sanciones por Infracción a Estatutos y. Reglamentos Deportivos 22
+
 ### Capítulo IV. De los Recursos 23
-
-### Capítulo Único. De los Instituto Municipales de Cultura Física. y Deporte 23
-
-Transitorios 25
 
 #### Sección Primera. Del Recurso de Inconformidad 23
 
 #### Sección Segunda. Del Recurso de Apelación 23
 
 ## Título Décimo Primero. De la Participación de los Municipios
+
+### Capítulo Único. De los Instituto Municipales de Cultura Física. y Deporte 23
+
+Transitorios 25
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2014
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo segundo.- El Titular del Poder Ejecutivo del Estado, deberá emitir la reglamentación conducente, dentro de los 180 días naturales contados a partir de su vigencia.
+
+Artículo tercero.- Los ayuntamientos deberán modificar o emitir la reglamentación conducente, dentro de los 180 días naturales contados a partir de su vigencia.
