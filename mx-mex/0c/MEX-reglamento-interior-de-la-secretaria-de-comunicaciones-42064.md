@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-comunicaciones-42064"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-29"
-last_updated: "2012-09-14"
+last_updated: "2014-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MARZO DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 29 de noviembre de 2004.
 
@@ -343,7 +343,9 @@ VI. Tramitar los movimientos de altas, bajas, cambios, permisos y licencias de l
 
 VII. Promover y coordinar las actividades de capacitación, adiestramiento y motivación dirigidas a los servidores públicos de la Secretaría.
 
-VIII. Presidir el Comité de Adquisiciones y Servicios de la Secretaría, de acuerdo con la normatividad aplicable.
+> <small>(REFORMADA, G.G. 19 DE MARZO DE 2014)</small>
+
+VIII. Participar en el Comité de Adquisiciones y Servicios de la Secretaría de Finanzas, de acuerdo con el Reglamento de la Ley de Contratación Pública y demás normatividad aplicable.
 
 IX. Coordinar y, en su caso, ejecutar los procedimientos de adquisición de bienes y contratación de servicios que requiera la Secretaría, de acuerdo con la normatividad aplicable.
 
@@ -486,3 +488,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 19 DE MARZO DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
