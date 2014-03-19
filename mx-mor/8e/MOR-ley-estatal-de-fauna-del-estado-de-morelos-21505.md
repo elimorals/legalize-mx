@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-fauna-del-estado-de-morelos-21505"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2014-03-05"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ESTATAL DE FAUNA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE MARZO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 
@@ -479,9 +479,9 @@ III.- Descuidar la morada y las condiciones de movilidad, higiene al albergue de
 
 IV.- La muerte producida utilizando un medio que prolongue la agonía del animal, causándole sufrimientos innecesarios.
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+(ADICIONADA, P.O. 5 DE MARZO DE 2014)(F. DE E., P.O. 19 DE MARZO DE 2014)
 
-V.- Utilización de animales en espectáculos públicos o privados cuando dicha utilización sea para infringir maltrato intencional al animal, ocasionándole afectaciones en su integridad física, tales como heridas cualquiera que sea su gravedad o su muerte, con excepción de lo establecido en el artículo 12.
+V.- Utilización de animales en espectáculos públicos o privados cuando dicha utilización sea para infligir maltrato intencional al animal, ocasionándole afectaciones en su integridad física, tales como heridas cualquiera que sea su gravedad o su muerte, con excepción de lo establecido en el artículo 12.
 
 VI.- Cualquier mutilación orgánica grave que no se efectúe por necesidad y bajo el cuidado de un médico veterinario o persona con conocimientos técnicos en la materia.
 
