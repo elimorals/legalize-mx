@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2013-11-05"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -232,7 +232,9 @@ La Federación, las entidades federativas y los municipios, ejercerán sus atrib
 
 Son facultades de la Federación:
 
-I. Formular, conducir y evaluar la política nacional en materia de residuos así como elaborar el Programa Nacional para la Prevención y Gestión Integral de los Residuos y el de Remediación de Sitios Contaminados con éstos, en el marco del Sistema Nacional de Planeación Democrática, establecido en el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
+
+I. Formular, conducir y evaluar la política nacional en materia de residuos así como elaborar el Programa Nacional para la Prevención y Gestión Integral de los Residuos, el Programa Nacional para la Prevención y Gestión Integral de los Residuos de Manejo Especial y el Programa Nacional de Remediación de Sitios Contaminados y coordinar su instrumentación con las entidades federativas y municipios, en el marco del Sistema Nacional de Planeación Democrática, establecido en el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Expedir reglamentos, normas oficiales mexicanas y demás disposiciones jurídicas para regular el manejo integral de los residuos peligrosos, su clasificación, prevenir la contaminación de sitios o llevar a cabo su remediación cuando ello ocurra;
 
@@ -316,11 +318,17 @@ Las dependencias y entidades de la Administración Pública Federal, que ejerzan
 
 Son facultades de las Entidades Federativas:
 
-I. Formular, conducir y evaluar la política estatal, así como elaborar los programas en materia de residuos de manejo especial, acordes al Programa Nacional para la Prevención y Gestión Integral de los Residuos y el de Remediación de Sitios Contaminados con éstos, en el marco del Sistema Nacional de Planeación Democrática, establecido en el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
 
-II. Expedir conforme a sus respectivas atribuciones, y de acuerdo con las disposiciones de esta Ley, los ordenamientos jurídicos que permitan darle cumplimiento conforme a sus circunstancias particulares, en materia de manejo de residuos de manejo especial, así como de prevención de la contaminación de sitios con dichos residuos y su remediación;
+I. Formular, conducir y evaluar la política estatal, así como elaborar de manera coordinada con la Federación los programas en materia de residuos de manejo especial, acordes al Programa Nacional para la Prevención y Gestión Integral de los Residuos, el Programa Nacional para la Prevención y Gestión Integral de los Residuos de Manejo Especial y el Programa Nacional de Remediación de Sitios Contaminados, en el marco del Sistema Nacional de Planeación Democrática, establecido en el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
 
-III. Autorizar el manejo integral de residuos de manejo especial, e identificar los que dentro de su territorio puedan estar sujetos a planes de manejo;
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
+
+II. Expedir conforme a sus respectivas atribuciones, y de acuerdo con las disposiciones de esta Ley, en coordinación con la Federación y de conformidad con el Programa Nacional para la Prevención y Gestión Integral de los Residuos, el Programa Nacional para la Prevención y Gestión Integral de los Residuos de Manejo Especial y el Programa Nacional de Remediación de Sitios Contaminados, los ordenamientos jurídicos que permitan darle cumplimiento conforme a sus circunstancias particulares, en materia de manejo de residuos de manejo especial, así como de prevención de la contaminación de sitios con dichos residuos y su remediación;
+
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
+
+III. Autorizar el manejo integral de residuos de manejo especial, e identificar los que dentro de su territorio puedan estar sujetos a planes de manejo, en coordinación con la Federación y de conformidad con el Programa Nacional para la Prevención y Gestión Integral de los Residuos, el Programa Nacional para la Prevención y Gestión Integral de los Residuos de Manejo Especial y el Programa Nacional de Remediación de Sitios Contaminados;
 
 IV. Verificar el cumplimiento de los instrumentos y disposiciones jurídicas referidas en la fracción anterior en materia de residuos de manejo especial e imponer las sanciones y medidas de seguridad que resulten aplicables;
 
@@ -470,9 +478,15 @@ VI. Residuos de tiendas departamentales o centros comerciales generados en grand
 
 VII. Residuos de la construcción, mantenimiento y demolición en general;
 
-VIII. Residuos tecnológicos provenientes de las industrias de la informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil, por sus características, requieren de un manejo específico, y
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
 
-IX. Otros que determine la Secretaría de común acuerdo con las entidades federativas y municipios, que así lo convengan para facilitar su gestión integral.
+VIII. Residuos tecnológicos provenientes de las industrias de la informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil, por sus características, requieren de un manejo específico;
+
+> <small>(ADICIONADA, D.O.F. 19 DE MARZO DE 2014)</small>
+
+IX. Pilas que contengan litio, níquel, mercurio, cadmio, manganeso, plomo, zinc, o cualquier otro elemento que permita la generación de energía en las mismas, en los niveles que no sean considerados como residuos peligrosos en la norma oficial mexicana correspondiente, y
+
+X. Otros que determine, la Secretaría de común acuerdo con las entidades federativas y municipios, que así lo convengan para facilitar su gestión integral.
 
 ###### Artículo 20.
 
@@ -526,9 +540,11 @@ El Programa Nacional para la Prevención y Gestión Integral de los Residuos se 
 
 El Diagnóstico Básico para la Gestión Integral de Residuos es el estudio que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MARZO DE 2014)</small>
+
 ###### Artículo 26.
 
-Las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, deberán elaborar e instrumentar los programas locales para la prevención y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con esta Ley, con el Diagnóstico Básico para la Gestión Integral de Residuos y demás disposiciones aplicables. Dichos programas deberán contener al menos lo siguiente:
+Las entidades federativas y los municipios, en el ámbito de sus respectivas competencias y en coordinación con la Federación, deberán elaborar e instrumentar los programas locales para la prevención y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con esta Ley, con el Diagnóstico Básico para la Gestión Integral de Residuos y demás disposiciones aplicables. Dichos programas deberán contener al menos lo siguiente:
 
 I. El diagnóstico básico para la gestión integral de residuos de su competencia, en el que se precise la capacidad y efectividad de la infraestructura disponible para satisfacer la demanda de servicios;
 
@@ -566,9 +582,17 @@ Estarán obligados a la formulación y ejecución de los planes de manejo, segú
 
 I. Los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en los residuos peligrosos a los que hacen referencia las fracciones I a XI del artículo 31 de esta Ley y los que se incluyan en las normas oficiales mexicanas correspondientes;
 
-II. Los generadores de los residuos peligrosos a los que se refieren las fracciones XII a XV del artículo 31 y de aquellos que se incluyan en las normas oficiales mexicanas correspondientes, y
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
 
-III. Los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las normas oficiales mexicanas correspondientes; así como los residuos de envases plásticos, incluyendo los de poliestireno expandido.
+II. Los generadores de los residuos peligrosos a los que se refieren las fracciones XII a XV del artículo 31 y de aquellos que se incluyan en las normas oficiales correspondientes;
+
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
+
+III. Los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las normas oficiales mexicanas correspondientes; así como los residuos de envases plásticos, incluyendo los de poliestireno expandido, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE MARZO DE 2014)</small>
+
+IV. Los grandes generadores y los productores, importadores, exportadores y distribuidores de pilas y baterías eléctricas que sean considerados como residuos de manejo especial en la norma oficial mexicana correspondiente.
 
 ###### Artículo 29.
 
@@ -1513,3 +1537,9 @@ TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán 
 D.O.F. 5 DE NOVIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Medio Ambiente y Recursos Naturales, realizará las modificaciones necesarias a la Norma Oficial Mexicana correspondiente y demás disposiciones que considere aplicables a fin de adecuarlas al contenido del presente decreto, en un plazo no mayor de 180 días posteriores a la entrada en vigor.
