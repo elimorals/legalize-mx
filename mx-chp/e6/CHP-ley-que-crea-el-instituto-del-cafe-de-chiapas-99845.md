@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-el-instituto-del-cafe-de-chiapas-99845"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2014-03-05"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY QUE CREA EL INSTITUTO DEL CAFE DE CHIAPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MARZO DE 2014, EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE CREA EL INSTITUTO DEL CAFÉ DE CHIAPAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE MARZO DE 2014.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 5 de marzo de 2014.
 
@@ -349,17 +349,25 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 
 Artículo Segundo.- Se abroga la Ley que crea la Comisión para el Desarrollo y Fomento del Café de Chiapas, expedida mediante Decreto número 194, de fecha 10 de agosto del año 2000 y publicada en el Periódico Oficial número 036-4a. Sección-2a. Parte, de fecha 16 de agosto del año 2000.
 
-Artículo Tercero.- Los recursos humanos, financieros y materiales que correspondían a la Comisión Para el Desarrollo y Fomento del Café de Chiapas, serán trasferidos al Instituto Estatal del café de Chiapas.
+> <small>(F. DE E., P.O. 19 DE MARZO DE 2014)</small>
 
-Artículo Cuarto.- Las menciones y atribuciones contenidas en otras leyes, reglamentos y en general en cualquier disposición normativa que se refieran a las relacionadas con el objeto del organismos que este decreto crea, se entenderán concedidas al Instituto Estatal del Café de Chiapas.
+Artículo Tercero.- Los recursos humanos, financieros y materiales que correspondían a la Comisión para el Desarrollo y Fomento del Café de Chiapas, serán trasferidos al Instituto del Café de Chiapas.
 
-Artículo Quinto.- Los compromisos y procedimientos que a la entrada en vigor del presente decreto, hubieren contraído la Comisión para el Desarrollo y fomento del Café de Chiapas, serán asumidos inmediatamente y conferidos al Instituto estatal del café de Chiapas.
+> <small>(F. DE E., P.O. 19 DE MARZO DE 2014)</small>
+
+Artículo Cuarto.- Las menciones y atribuciones contenidas en otras leyes, reglamentos y en general en cualquier disposición normativa que se refieran a las relacionadas con el objeto del organismos (sic) que este decreto crea, se entenderán concedidas al Instituto del Café de Chiapas.
+
+> <small>(F. DE E., P.O. 19 DE MARZO DE 2014)</small>
+
+Artículo Quinto.- Los compromisos y procedimientos que a la entrada en vigor del presente decreto, hubieren contraído la Comisión para el Desarrollo y fomento del Café de Chiapas, serán asumidos inmediatamente y conferidos al Instituto del Café de Chiapas.
 
 Artículo Sexto.- Los trabajos de transferencia a que se refiere el Artículo Tercero transitorio de este decreto, deberán iniciarse al día siguiente de la publicación del mismo; y las instancias conducentes procuraran incluir los recursos asignados al Instituto dentro de la iniciativa del Presupuesto de Egresos del Estado para el ejercicio fiscal inmediato.
 
 Artículo Séptimo.- Las dependencias normativas y financieras del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones técnico administrativas que sean necesarias para el funcionamiento de la estructura orgánica y plantillas de plazas del Instituto que se crea, en plena observancia a las disposiciones aplicables y respeto a los derechos laborales.
 
-Artículo Octavo.- El reglamento interior del Instituto Estatal del Café de Chiapas, deberá ser expedido dentro de los 90 días hábiles siguientes a la publicación del presente decreto.
+> <small>(F. DE E., P.O. 19 DE MARZO DE 2014)</small>
+
+Artículo Octavo.- El reglamento interior del Instituto del Café de Chiapas, deberá ser expedido dentro de los 90 días hábiles siguientes a la publicación del presente decreto.
 
 Artículo Noveno.- Se derogan todas las disposiciones que se opongan al presente decreto, con las salvedades previstas en el mismo.
 
