@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2014-01-15"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -954,6 +954,14 @@ En el caso de que el trabajador obtenga crédito de alguna entidad financiera y 
 
 Previo convenio con la entidad financiera participante, el Instituto podrá incluir en el porcentaje de descuento que el patrón efectúe al salario del trabajador acreditado, el importe que corresponda a los créditos otorgados en los términos del presente artículo.
 
+> <small>(ADICIONADO, D.O.F. 19 DE MARZO DE 2014)</small>
+
+ARTICULO 43 TER.- El Instituto podrá celebrar convenios con las instituciones de seguridad social para definir los procedimientos de transferencia de las aportaciones acumuladas en la subcuenta de vivienda de los trabajadores que por cuestiones laborales o de contratación cambien de sistema.
+
+Los trabajadores que obtengan un crédito de vivienda bajo el régimen de otros institutos de seguridad social o del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que tengan recursos acumulados por concepto de vivienda en su cuenta individual conforme al régimen de los mismos, podrán solicitar que se acumulen para aplicarse como pago inicial de su crédito y que las aportaciones sucesivas a cualquiera de los institutos sean destinadas a reducir el saldo insoluto a cargo del propio trabajador.
+
+En el caso que los trabajadores se encuentren amortizando un crédito de vivienda otorgado por el Instituto o por algún instituto de seguridad social, y que por establecer una nueva relación laboral cambien de régimen de seguridad social, deberán seguir utilizando sus aportaciones de vivienda para el pago del crédito correspondiente.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 44.
@@ -1529,3 +1537,9 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 15 DE ENERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE MARZO DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la publicación de este ordenamiento, el Instituto del Fondo Nacional de la Vivienda para los trabajadores contará con 8 meses para la creación de las reglas y convenios necesarios para dar cumplimiento a este ordenamiento.
