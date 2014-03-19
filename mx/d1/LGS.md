@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2014-01-15"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -5880,11 +5880,13 @@ El control sanitario de la disposición de sangre lo ejercerá la Secretaría de
 
 La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones aplicables. La sangre será considerada como tejido.
 
-> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 341 Bis.
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, deberán impulsar la donación de células progenitoras hematopoyéticas, para coadyuvar en el tratamiento o curación de los pacientes que las requieran, asimismo, la Secretaría de Salud fijará las bases y modalidades a las que se sujetará el Sistema Nacional de Salud al respecto.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, deberán impulsar la donación de sangre, componentes sanguíneos y células troncales o progenitoras, para coadyuvar en el tratamiento o curación de los pacientes que las requieran, asimismo, la Secretaría de Salud fijará las bases y modalidades a las que se sujetará el Sistema Nacional de Salud al respecto.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 La Secretaría de Salud, emitirá las disposiciones que regulen tanto la infraestructura con que deberán contar los bancos de sangre que lleven a cabo actos de disposición y distribución de células progenitoras hematopoyéticas, como la obtención, procesamiento y distribución de dichas células.
 
@@ -7204,7 +7206,7 @@ La mujer casada no podrá otorgar su consentimiento para ser inseminada sin la c
 
 Al que induzca o propicie que menores de edad o incapaces consuman, mediante cualquier forma, substancias que produzcan efectos psicotrópicos, se le aplicará de siete a quince años de prisión.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO "EN LA PORCIÓN NORMATIVA QUE REMITE A LA FRACCIÓN IV DEL ARTÍCULO 245 DE LA PROPIA LEY", LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE DICIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 1 DE DICIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO “EN LA PORCIÓN NORMATIVA QUE REMITE A LA FRACCIÓN IV DEL ARTÍCULO 245 DE LA PROPIA LEY”, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE DICIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -8045,3 +8047,7 @@ D.O.F. 15 DE ENERO DE 2014.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las erogaciones que en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal en sus ámbitos de competencia, para dar cumplimiento a lo dispuesto por el presente decreto, deberán cubrirse en función de sus respectivas disponibilidades presupuestarias.
+
+D.O.F. 19 DE MARZO DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
