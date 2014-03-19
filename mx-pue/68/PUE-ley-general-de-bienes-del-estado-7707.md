@@ -4,7 +4,7 @@ identifier: "PUE-ley-general-de-bienes-del-estado-7707"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-12-25"
-last_updated: "2012-09-19"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY GENERAL DE BIENES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 25 de diciembre de 1973.
 
@@ -113,9 +113,9 @@ Los bienes de dominio privado del Estado, estarán sometidos en todo lo no previ
 
 BIS.- El Ejecutivo del Estado podrá otorgar a los particulares, el uso y/o aprovechamiento de bienes de dominio público y privado para la instrumentación de proyectos para prestación de servicios a largo plazo.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
-Para efectos del párrafo anterior, el Titular del Ejecutivo del Estado directamente o por conducto de la Secretaría de Administración, autorizará el uso, explotación y/o aprovechamiento de los citados bienes.
+Para efectos del párrafo anterior, el Titular del Ejecutivo del Estado directamente o por conducto de la Secretaría de Finanzas y Administración, autorizará el uso, explotación y/o aprovechamiento de los citados bienes.
 
 ###### ARTICULO 7o.
 
@@ -151,27 +151,29 @@ VI.- Anular administrativamente los acuerdos, concesiones, permisos o autorizaci
 
 VII.- En general, dictar las disposiciones ejecutivas que demande el cumplimiento de esta Ley o de las disposiciones a que estén sometidos los bienes del dominio público.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
-Las facultades que este artículo señala se ejercitarán directamente por el Titular del Ejecutivo del Estado o por conducto de la Secretaría de Administración.
+Las facultades que este artículo señala se ejercitarán directamente por el Titular del Ejecutivo del Estado o por conducto de la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 10.
 
 Cuando a juicio del Ejecutivo existan motivos que lo ameriten, podrá abstenerse de dictar las resoluciones concretas o de seguir los procedimientos a que se refiere el artículo anterior, y ordenar al Ministerio Público que someta el asunto al conocimiento de los Tribunales. Pudiendo solicitar de inmediato dentro del procedimiento respectivo la ocupación administrativa de los bienes que serán decretados de plano. El procedimiento se tramitará sumariamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 11.
 
-Las resoluciones a que se refiere el artículo 9o., podrán ser reclamadas ante el Ejecutivo por medio de la Secretaría de Servicios Legales y Defensoría Pública, quien conocerá y resolverá el recurso, mediante el procedimiento que se sujetará a las siguientes reglas:
+Las resoluciones a que se refiere el artículo 9o., podrán ser reclamadas ante el Ejecutivo por medio de la Consejería Jurídica del Gobernador, quien conocerá y resolverá el recurso, mediante el procedimiento que se sujetará a las siguientes reglas:
 
 I.- Cualquiera que sufra un perjuicio individual directo y actual, tendrá derecho a oponerse a la resolución correspondiente;
 
 II.- La instancia deberá proponerse dentro de los quince días siguientes a aquel de la notificación al opositor o del inicio de la ejecución cuando no haya habido notificación.
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
-III.- Interpuesto el recurso, procede la suspensión contra la resolución impugnada siempre y cuando el recurrente la solicite y excepto en casos urgentes o de interés público. Ésta será ordenada por la Secretaría de Servicios Legales y Defensoría Pública. Una vez concedida, para que la suspensión subsista, el recurrente deberá exhibir garantía bastante que determine el Ejecutivo a través de la Secretaría de Servicios Legales y Defensoría Pública, además, de adoptar las providencias adecuadas para la salvaguarda de los derechos del Estado;
+III.- Interpuesto el recurso, procede la suspensión contra la resolución impugnada siempre y cuando el recurrente la solicite y no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
+
+En los casos en que sea procedente la suspensión pero pueda ocasionar daño o perjuicio a tercero y la misma se conceda, el recurrente deberá otorgar garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causaren si no obtuviere resolución favorable. Cuando con la suspensión puedan afectarse derechos de terceros que no sean estimables en dinero, se fijará discrecionalmente el importe de la garantía.
 
 IV.- Interpuesto el recurso, se comunicará al tercero interesado si lo hubiere, y se concederá un término prudente, nunca inferior a veinte días, para pruebas. La admisión de éstas se hará en lo posible, conforme al procedimiento sumario que prescribe el Código de Prosedimientos (sic) Civiles del Estado pero no procederá la confesional y en la pericial se designará solamente el perito que el opositor proponga, salvo cuando hubiere tercero, caso en el que éste tendrá también derecho a designar uno;
 
@@ -225,9 +227,11 @@ Cuando de acuerdo con lo que establece el Artículo 15, puedan enajenarse y se v
 
 El derecho que este artículo concede, deberá ejercitarse precisamente dentro de los ocho días siguientes al aviso respectivo. Cuando éste no se haya dado, los colindantes podrán pedir la rescisión del contrato celebrado sin oírlos, dentro de seis meses contados desde la fecha en que tengan conocimiento de su celebración.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 18.
 
-También corresponderá al derecho de tanto al último propietario de un bien adquirido por procedimiento de derecho público, que vaya a ser vendido, excepto cuando se esté en los casos previstos por los artículos 8o. segundo párrafo y 21 de esta Ley. Este aviso se dará personalmente al interesado cuando se conozca su domicilio en caso contrario se hará la notificación mediante una sola publicación en el Periódico Oficial.
+También corresponderá al derecho de tanto al último propietario de un bien adquirido por procedimiento de derecho público, que vaya a ser vendido, excepto cuando se esté en los casos previstos por los artículos 8o. segundo párrafo y 21 de esta Ley. Este aviso se dará personalmente al interesado cuando se conozca su domicilio, en caso contrario se hará la notificación mediante una sola publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO 19.
 
@@ -259,11 +263,11 @@ Los bienes a que se refiere la fracción VII del artículo 19, siempre que no se
 
 Otorgada la aprobación a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos las acciones que les correspondan sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 22.
 
-Cuando una Dependencia del Ejecutivo estimare conveniente la adquisición de un inmueble para destinarlo al Servicio Público o para uso común, lo comunicará a la Secretaría de Administración la que previo acuerdo con el C. Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos, llegando al otorgamiento, registro y archivo de los documentos respectivos.
+Cuando una Dependencia del Ejecutivo estimare conveniente la adquisición de un inmueble para destinarlo al Servicio Público o para uso común, lo comunicará a la Secretaría de Finanzas y Administración la que previo acuerdo con el C. Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos, llegando al otorgamiento, registro y archivo de los documentos respectivos.
 
 ###### ARTICULO 23.
 
@@ -281,19 +285,19 @@ Para destinar un inmueble propiedad del Estado, a determinado servicio público,
 
 No pierden su carácter de bienes destinados a un servicio público, los que, estándolo de hecho o por derecho, fueren sin embargo aprovechados temporalmente en todo o parte para otro objeto que no se puede considerar como servicio público, mientras no se dicte la declaración respectiva en la forma prevista por el artículo anterior.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 27.
 
-Los inmuebles destinados a un servicio público serán asignados a la Dependencia que tenga a su cargo dicho servicio pero quedarán bajo el control de la Secretaría de Administración. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Ejecutivo del Estado.
+Los inmuebles destinados a un servicio público serán asignados a la Dependencia que tenga a su cargo dicho servicio, pero quedarán bajo el control de la Secretaría de Finanzas y Administración. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Ejecutivo del Estado.
 
 ###### ARTICULO 28.
 
 Si estuvieren alojados en un mismo inmueble propiedad del Estado, varias instituciones u oficinas de diversas Dependencias, el inmueble quedará a cargo de la Dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc. y no en las partes interiores del edificio, que sirvan para uso de las instituciones u oficinas dependientes de otros organismos.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
-En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Administración, resolverá cuál de las Dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
+En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Finanzas y Administración, resolverá cuál de las Dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
 
 ###### ARTICULO 29.
 
@@ -303,11 +307,11 @@ No se permitirá a funcionarios públicos empleados o agentes de la administraci
 
 De los Inmuebles de Dominio Privado.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 30.
 
-La posesión, conservación y administración de los bienes del Estado, corresponde, por regla general y a falta de prevención en contrario, a la Secretaría de Administración, lo mismo que el conocimiento y la resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
+La posesión, conservación y administración de los bienes del Estado, corresponde, por regla general y a falta de prevención en contrario, a la Secretaría de Finanzas y Administración, lo mismo que el conocimiento y la resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
 ###### ARTICULO 31.
 
@@ -321,39 +325,43 @@ Los particulares pueden adquirir por prescripción los inmuebles de dominio priv
 
 El Ejecutivo Local gestionará que el Gobierno Federal ceda o enajene a título gratuito los bienes propios federales que se encuentran dentro dl (sic) Estado y no estén destinados a algún servicio público social, en los términos del artículo 38 de la Ley General de Bienes Nacionales.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 34.
 
-La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija esta Ley y previo avalúo de los mismos por el Instituto Registral y Catastral.
+La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija esta Ley y previo avalúo de los mismos por el Instituto Registral y Catastral del Estado de Puebla.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 35.
 
-Las enajenaciones de dichos bienes se harán en la forma ordinaria con sujeción a las reglas de derecho común en lo que respecta a condiciones esenciales y seguridades; pero con la clara obligación por parte del Gobierno de salvaguardar en cada caso concreto, los intereses generales, dándoles siempre a las enajenaciones un sentido práctico en beneficio de la colectividad, previo avalúo que de los mismos haga el Instituto Registral y Catastral.
+Las enajenaciones de dichos bienes se harán en la forma ordinaria con sujeción a las reglas de derecho común en lo que respecta a condiciones esenciales y seguridades; pero con la clara obligación por parte del Gobierno de salvaguardar en cada caso concreto, los intereses generales, dándoles siempre a las enajenaciones un sentido práctico en beneficio de la colectividad, previo avalúo que de los mismos haga el Instituto Registral y Catastral del Estado de Puebla.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+Si una vez licitados por segunda ocasión los bienes inmuebles propiedad del Gobierno del Estado, éstos no se enajenaran, se podrán adjudicar, pudiendo reducir como máximo hasta un treinta por ciento del valor previsto en el avalúo del Instituto Registral y Catastral del Estado de Puebla.
 
-Si una vez licitados por segunda ocasión los bienes inmuebles propiedad del Gobierno del Estado, éstos no se enajenaran, se podrán adjudicar, pudiendo reducir como máximo hasta un treinta por ciento del valor previsto en el avalúo del Instituto Catastral y Registral.
+En caso de no lograrse la enajenación de los bienes inmuebles mediante los procedimientos señalados en el párrafo anterior, la Secretaría de Finanzas y Administración, por sí o a través de la instancia federal o estatal competente, podrá enajenarlos mediante subasta en pública almoneda en términos de la legislación aplicable y la normatividad que para tales efectos emita la Dependencia referida, o en su caso, bajo el procedimiento que la instancia federal ya tenga establecido.
+
+El precio base de los bienes inmuebles, que se subastarán, será de por lo menos el cincuenta y uno por ciento del valor comercial que para tales efectos fije el Instituto Registral y Catastral del Estado de Puebla.
 
 ###### ARTICULO 36.
 
 Ninguna venta de inmueble podrá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entregue el dinero en efectivo, cuando menos el veinticinco por ciento de dicho precio. La finca se hipotecará en favor de la Hacienda Pública del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de demora en su caso.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 37.
 
-Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de un tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Secretaría de Administración mientras no esté pagado íntegramente el precio.
-
-En los contratos relativos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, implicará la rescisión del contrato.
+Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de un tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Secretaría de Finanzas y Administración, mientras no esté pagado íntegramente el precio.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
 
+En los contratos relativos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, implicará la rescisión del contrato.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 38.
 
-Cuando se trate de permutar bienes estatales, los que deba recibir el Gobierno se valuarán por el Instituto Registral y Catastral; la diferencia que resulte en favor o en contra del Erario se cubrirá en efectivo precisamente en el momento de la operación.
+Cuando se trate de permutar bienes estatales, los que deba recibir el Gobierno se valuarán por el Instituto Registral y Catastral del Estado de Puebla; la diferencia que resulte en favor o en contra del Erario se cubrirá en efectivo precisamente en el momento de la operación.
 
 ###### ARTICULO 39.
 
@@ -381,25 +389,25 @@ De los Muebles del Dominio Privado.
 
 Pertenecen al Estado todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
-La clasificación y sistemas de inventarios, así como la estimación de la depreciación de los muebles propiedad estatal son facultades de la Secretaría de Administración.
+La clasificación y sistemas de inventarios, así como la estimación de la depreciación de los muebles propiedad estatal son facultades de la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 44.
 
-La administración y control de los bienes muebles de propiedad estatal corresponde a la Secretaría de Administración.
+La administración y control de los bienes muebles de propiedad estatal, corresponde a la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 45.
 
 Rige también respecto a los muebles de dominio privado lo establecido en preceptos anteriores sobre prescripción en favor de particulares y retención administrativa de la posesión y recuperación interina o definitiva de la misma posesión.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 46.
 
-Acordada la enajenación o la destrucción de un mueble inútil para el servicio, se da de baja en el inventario, y en los casos de enajenación se observarán los procedimientos previstos en las disposiciones y normatividad aplicables, previo avalúo de la Secretaría de Administración, o podrán donar con la autorización del Gobernador del Estado, a personas indigentes que lo soliciten.
+Acordada la enajenación o la destrucción de un mueble inútil para el servicio, se dará de baja en el inventario, y en los casos de enajenación se observarán los procedimientos previstos en las disposiciones y normatividad aplicables, previo avalúo de la Secretaría de Finanzas y Administración, o podrán donar con la autorización del Gobernador del Estado, a personas indigentes que lo soliciten.
 
 ### CAPITULO V
 
@@ -441,13 +449,13 @@ No se hará inscripción de los bienes de dominio público, sino cuando sean de 
 
 #### SECCIÓN PRIMERA. Disposiciones comunes de la Concesión
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 50.
 
-El Titular del Ejecutivo del Estado o la Secretaría de Administración, podrán otorgar concesiones para el uso, explotación o aprovechamiento de bienes del dominio público, o que conforme a la ley aplicable, se equiparen a los mismos.
+El Titular del Ejecutivo del Estado o la Secretaría de Finanzas y Administración, podrán otorgar concesiones para el uso, explotación o aprovechamiento de bienes del dominio público, o que conforme a la ley aplicable, se equiparen a los mismos.
 
-Las Dependencias y Entidades de la Administración Pública Estatal podrán llevar a cabo los actos a que se refiere este Capítulo, respecto de asuntos concretos y previa autorización de la Secretaría de Administración.
+Las Dependencias y Entidades de la Administración Pública Estatal podrán llevar a cabo los actos a que se refiere este Capítulo, respecto de asuntos concretos y previa autorización de la Secretaría de Finanzas y Administración.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -455,11 +463,13 @@ Las Dependencias y Entidades de la Administración Pública Estatal podrán llev
 
 Las personas físicas o morales a quienes se otorgue una concesión, llevarán a cabo la misma con inversión total a su cargo, o bien, con inversión mixta entre el Estado y el concesionario; en este último supuesto, siempre y cuando así se prevea desde la suscripción del título de concesión.
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 52.
 
-Las concesiones podrán cederse, gravarse o enajenarse, con el acuerdo previo y por escrito del Titular del Poder Ejecutivo o de la Secretaría de Administración, y del Titular de la Dependencia o Entidad de la Administración Pública otorgante. La transmisión de las concesiones no modifica los términos originalmente establecidos y las demás condiciones en ellas estipuladas, por lo que el cesionario será responsable del cumplimiento de todas las obligaciones inherentes a las mismas.
+Las concesiones podrán cederse, gravarse o enajenarse, con el acuerdo previo y por escrito del Titular del Poder Ejecutivo o de la Secretaría de Finanzas y Administración, y del Titular de la Dependencia o Entidad de la Administración Pública otorgante. La transmisión de las concesiones no modifica los términos originalmente establecidos y las demás condiciones en ellas estipuladas, por lo que el cesionario será responsable del cumplimiento de todas las obligaciones inherentes a las mismas.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2012)</small>
 
 No obstante lo anterior, los derechos económicos derivados de los títulos de concesión, podrán cederse, darse en garantía o afectarse de cualquier manera, sin que medie autorización previa de la otorgante.
 
@@ -569,29 +579,49 @@ Al resolverse sobre el otorgamiento de la concesión, la caución otorgada para 
 
 #### SECCIÓN TERCERA. De las Excepciones a la Licitación Pública
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 60.
 
-Bajo su más estricta responsabilidad, el Titular del Ejecutivo del Estado directamente, o a través de la Secretaría de Administración, podrán optar por no llevar a cabo el procedimiento de licitación pública y otorgar la concesión a través de invitación restringida a cuando menos tres personas, o en caso de no existir idoneidad, por adjudicación directa cuando se justifique que se cumple alguna de las siguientes condiciones:
+Bajo su más estricta responsabilidad, el Titular del Ejecutivo del Estado directamente, o a través de la Secretaría de Finanzas y Administración, podrán optar por no llevar a cabo el procedimiento de licitación pública y otorgar la concesión a través de invitación restringida a cuando menos tres personas, o en caso de no existir idoneidad, por adjudicación directa cuando se justifique que se cumple alguna de las siguientes condiciones:
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2012)</small>
 
 I.- Que existan circunstancias que puedan provocar pérdidas o costos adicionales importantes o casos de emergencia al Estado;
 
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2012)</small>
+
 II.- Cuando haya sido declarada desierta una licitación pública en al menos una ocasión, siempre que no se modifiquen los requisitos originalmente establecidos en las bases de licitación, por no haber recibido propuestas solventes o se cancele la licitación;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2012)</small>
 
 III.- Que existan circunstancias especiales que, con base en estudios realizados por la otorgante, lleven a concluir que la concesión deba ser otorgada a cierta persona en particular, ya sea física o moral, quien por su naturaleza y características, cuente con capacidades técnicas idóneas para el objeto de la concesión;
 
-IV.- Que se hubiere revocado alguna concesión previa, por causas imputables al concesionario que hubiere resultado ganador en una licitación. En estos casos, el Titular del Ejecutivo, o la Secretaría de Administración, podrá otorgar la concesión al licitante que haya presentado la propuesta de máxima calificación inmediata inferior al licitante ganador en el caso de puntos y porcentajes o la de costo inmediato superior que resulte solvente en el caso de menor costo;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+IV.- Que se hubiere revocado alguna concesión previa, por causas imputables al concesionario que hubiere resultado ganador en una licitación. En estos casos, el Titular del Ejecutivo, o la Secretaría de Finanzas y Administración, podrá otorgar la concesión al licitante que haya presentado la propuesta de máxima calificación inmediata inferior al licitante ganador en el caso de puntos y porcentajes o la de costo inmediato superior que resulte solvente en el caso de menor costo;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2012)</small>
 
 V.- No existan opciones suficientes de desarrollo de infraestructura o equipamiento, o bien, que en el mercado sólo exista un posible oferente, o se trate de una persona que posea la titularidad exclusiva de patentes, derechos de autor y otros derechos exclusivos;
 
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2012)</small>
+
 VI.- Se realicen con fines exclusivamente de seguridad del Estado, procuración de justicia, readaptación social, inteligencia y comunicaciones o su contratación mediante concurso ponga en riesgo la seguridad pública, en los términos de las leyes de la materia;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2012)</small>
 
 VII.- De realizarse bajo un procedimiento de licitación se comprometa en forma grave la seguridad del Estado; y
 
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2012)</small>
+
 VIII.- Se trate de la sustitución de un concesionario por revocación o extinción anticipada de la concesión, por causas imputables a él.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2012)</small>
+
 La excepción a la licitación que la convocante realice deberá fundarse y motivarse, según las circunstancias que concurran en cada caso y que aseguren las mejores condiciones para el Estado. En estos supuestos, la convocante enviará a la Secretaría de la Contraloría, en un lapso de treinta días hábiles posteriores al otorgamiento de la concesión, un informe sobre la misma, y acompañará copia del escrito aludido en este artículo y de un dictamen en el que se hará constar el análisis de la o las proposiciones y las razones para el otorgamiento de la concesión.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2012)</small>
 
 La selección del procedimiento de adjudicación directa y el proceso correspondiente deberán fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el objeto de la Ley. La acreditación de los criterios mencionados y la justificación de las razones para el ejercicio de la opción y para el otorgamiento de la concesión respectiva, deberá constar por escrito y ser validado por la Secretaría de la Contraloría.
 
@@ -719,7 +749,9 @@ V.- La revocación;
 
 VI.- El rescate mediante declaratoria; y
 
-VII.- Cualquier otra prevista en el título de concesión y en la presente Ley, en cuyo caso, el procedimiento de que se trate lo tramitará la Secretaría de Administración.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
+VII.- Cualquier otra prevista en el título de concesión y en la presente Ley, en cuyo caso, el procedimiento de que se trate lo tramitará la Secretaría de Finanzas y Administración.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -798,5 +830,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE SEPTIEMBRE DE 2012.
 
 PRIMERO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
