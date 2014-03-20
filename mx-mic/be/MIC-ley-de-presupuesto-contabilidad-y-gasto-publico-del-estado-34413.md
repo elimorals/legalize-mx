@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3441
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2011-12-30"
+last_updated: "2014-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE PRESUPUESTO, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2003.
 
@@ -685,7 +687,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE DICIEMBRE DE 2006.
 
@@ -742,3 +744,23 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del H. Congreso del Estado de Michoacán de Ocampo.
+
+P.O. 20 DE MARZO DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+SEGUNDO. Se abroga la Ley de Presupuesto, Contabilidad Gubernamental y Gasto Público del Estado de Michoacán de Ocampo, publicada el día 14 de octubre de 2003.
+
+TERCERO. El Congreso del Estado de Michoacán de Ocampo, deberá en un término de noventa días contados a partir de la entrada en vigor de esta Ley, adicionar en el Código Penal del Estado de Michoacán, las sanciones correspondientes, al servidor público que incurra en cualquiera de los supuestos establecidos en el artículo 104 fracciones II y IV de esta Ley; así como las contenidas en la Ley General de Contabilidad Gubernamental.
+
+CUARTO. El Ejecutivo del Estado, deberá de emitir el Reglamento respectivo de la presente Ley en un periodo de hasta ciento ochenta días naturales, a partir del día siguiente de su publicación en el Periódico Oficial.
+
+QUINTO. Los sujetos de ésta Ley realizarán sus reglamentos y disposiciones administrativas que, en su caso, sean necesarias para dar cumplimiento a la presente Ley, a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de la misma.
+
+SEXTO. Los poderes Ejecutivo, Legislativo y Judicial del Estado, los gobiernos municipales, Organismos Autónomos, Entidades y Organismos Descentralizados, deberán implementar las acciones necesarias para efectos de promover, difundir y respetar la planeación hacendaria, programación, presupuesto, ejercicio y control de los recursos presupuestarios del Estado, contabilidad, control, vigilancia y evaluación del Gasto Público, bajo apego estricto a sus principios rectores consignados en la presente Ley.
+
+SÉPTIMO. El Congreso en coordinación con el Poder Ejecutivo del Estado, Auditoría Superior de Michoacán, Centro Estatal para el Desarrollo Municipal, el Consejo, y la Secretaría de Finanzas deberán desarrollar programas específicos de capacitación y difusión para la implementación y entrada vigor (sic) de la presente Ley, para coadyuvar a la aplicación y observancia de los entes públicos de la presente Ley.
+
+OCTAVO. Se derogan todas las disposiciones en la materia que se opongan a la presente Ley.
+
+NOVENO. Dése cuenta de la presente Ley al Titular de Poder Ejecutivo, del Poder Judicial, de los Órganos Autónomos y a los 113 Ayuntamientos del Estado de Michoacán de Ocampo.
