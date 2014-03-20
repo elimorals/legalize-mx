@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-65081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2013-06-12"
+last_updated: "2014-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -2108,3 +2110,21 @@ P.O. 12 DE JUNIO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 20 DE MARZO DE 2014.
+
+Artículo Primero. La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. En lo relativo a la implementación del Sistema Penal Acusatorio Adversarial, la vigencia de esta Ley será gradual y regional, por lo tanto, su aplicación será progresiva, conforme a las siguientes fechas:
+
+a) EI 02 de junio de 2014: en los Distritos Judiciales de San Juan del Rio, que comprende los Municipios de San Juan del Río, Tequisquiapan y Pedro Escobedo; y Amealco de Bonfil, integrado por los Municipios de Amealco de Bonfil y Huimilpan.
+
+b) EI 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Montes, que comprende los Municipios de Cadereyta de Montes, Ezequiel Montes y San Joaquín; Tolimán que abarca los Municipios de Tolimán, Colón y Peñamiller; y Jalpan de Serra que está integrado por los Municipios de Jalpan de Serra, Pinal de Amoles, Landa de Matamoros y Arroyo Seco.
+
+c) EI 30 de marzo de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, EI Marqués y Corregidora.
+
+Artículo Tercero. Se abroga la Ley Orgánica del Poder Judicial del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" número 69, de fecha 17 de diciembre de 2008.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Quinto. Los actuales magistrados del Tribunal Superior de Justicia, jueces de primera instancia y jueces menores, en lo relativo a su duración en el cargo, se regirán por las leyes vigentes al momento de su designación.
