@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-procuraduria-general-de-justicia-del-estado-de-67269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-20"
-last_updated: "2013-06-12"
+last_updated: "2014-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, PERO SEGUIRÁ RIGIENDO EN LO CONDUCENTE CONFORME A LA GRADUALIDAD ESTABLECIDA, PARA APLICARSE EN LOS PROCEDIMIENTOS INICIADOS DURANTE SU VIGENCIA Y HASTA EN TANTO QUEDEN CONCLUIDOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de febrero de 2009.
 
@@ -1514,3 +1516,33 @@ P.O. 12 DE JUNIO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 20 DE MARZO DE 2014.
+
+Artículo Primero. La presente Ley iniciará su vigencia, previa publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga", en las modalidades y fechas dispuestas en los siguientes artículos.
+
+Artículo Segundo. La vigencia de la presente Ley, se ajustará a la implementación del Sistema de Justicia Penal Acusatorio en el Estado de Querétaro, será gradual y regional; por lo tanto, la vigencia y aplicación de este ordenamiento será progresiva, conforme a las siguientes fechas:
+
+a) El 02 de junio de 2014: en los Distritos Judiciales de San Juan del Río, que comprende los Municipios de San Juan del Río, Tequisquiapan y Pedro Escobedo; y Amealco de Bonfil, integrado por los Municipios de Amealco de Bonfil y Huimilpan.
+
+b) El 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Montes, que comprende los Municipios de Cadereyta de Montes, Ezequiel Montes y San Joaquín; Tolimán que abarca los Municipios de Tolimán, Colón y Peñamiller; y Jalpan de Serra que está integrado por los Municipios de Jalpan de Serra, Pinal de Amoles, Landa de Matamoros y Arroyo Seco.
+
+c) El 30 de marzo de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
+
+Artículo Tercero. Las disposiciones de esta Ley se aplicarán a hechos de los que se tome conocimiento a partir de las cero horas de las fechas señaladas en el artículo anterior, en los territorios de los distritos judiciales que en el mismo se precisan.
+
+Artículo Cuarto. La Ley de la Procuraduría General de Justicia del Estado de Querétaro actualmente en vigor, quedará abrogada a la entrada en vigor del presente Ordenamiento, pero seguirá rigiendo en lo conducente conforme a la gradualidad establecida, para aplicarse en los procedimientos iniciados durante su vigencia y hasta en tanto queden concluidos.
+
+Artículo Quinto. Las Direcciones, Unidades Administrativas y demás áreas de la Procuraduría General de Justicia del Estado de Querétaro, para operar el Sistema de Justicia Penal Acusatorio, se conformarán de manera gradual de acuerdo con los recursos que se destinen para ello y las necesidades que del servicio se tengan.
+
+Para el inicio de funciones de áreas de nueva creación, que sean necesarias para el Sistema de Justicia Penal Acusatorio, se podrán nombrar encargados de despacho, en tanto se cuente con la designación de los titulares.
+
+Artículo Sexto. Los procedimientos de responsabilidad administrativa, iniciados por la Dirección de la Visitaduría General antes de la entrada en vigor del presente Ordenamiento, se regirán por la Ley de la Procuraduría General de Justicia del Estado de Querétaro, en lo que no se oponga a la presente Ley.
+
+Artículo Séptimo. En el plazo de un año, contado a partir de la entrada en vigor de la presente Ley, el titular del Poder Ejecutivo del Estado expedirá las disposiciones reglamentarias, relativas al presente Ordenamiento, al Servicio Profesional de Carrera, a la Policía de Investigación del Delito y las demás que se deriven de esta normatividad. En el mismo plazo, las reglas de operación del Fideicomiso para la Procuración de Justicia, Asistencia y Apoyo a las Víctimas del Delito, deberán ajustarse a las disposiciones de esta Ley.
+
+En tanto se publiquen y entren en vigor los Reglamentos mencionados en el párrafo anterior, se aplicarán en todo aquello que no se oponga a la presente Ley, las disposiciones actualmente vigentes.
+
+Artículo Octavo. Los acuerdos, circulares y demás disposiciones aplicables, emitidas por el Procurador General de Justicia del Estado, con fundamento en la Ley de la Procuraduría General de Justicia del Estado que se abroga, continuarán vigentes en lo que no se opongan a la presente Ley.
+
+Artículo Noveno. Los servidores públicos que sean designados para operar el Sistema de Justicia Penal Acusatorio, conservarán los derechos que hayan adquirido con motivo de su relación laboral o administrativa.
