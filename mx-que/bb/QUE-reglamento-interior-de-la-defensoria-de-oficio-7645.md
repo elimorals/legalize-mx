@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-defensoria-de-oficio-7645"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-05-31"
-last_updated: "1984-05-31"
+last_updated: "2014-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA DEFENSORIA DE OFICIO
 
-REGLAMENTO INTERIOR DE LA DEFENSORIA DE OFICIO
+REGLAMENTO INTERIOR DE LA DEFENSORÍA DE OFICIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 1984.
 
@@ -336,3 +338,29 @@ RAFAEL CAMACHO GUZMAN.
 La C. Secretario de Gobierno,
 
 LIC. SONIA ALCANTARA MAGOS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MARZO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Defensoría de Oficio, publicado el día 31 de mayo de 1984, en el Periódico Oficial del Gobierno Estado (sic) de Querétaro "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. El Estatuto de Servicio Profesional de Carrera de la Defensoría Pública, será expedido por el Gobernador del Estado, a más tardar 30 días naturales previos al 02 de junio de 2014 y partir (sic) de tal fecha tendrá vigor en todo el territorio del Estado.
+
+Artículo Quinto. El Gobernador del Estado nombrará al Director General del Instituto, a más tardar el 29 de marzo de 2015.
+
+En el mismo plazo mencionado en el primer párrafo de este artículo, el Consejo Directivo del Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Querétaro, celebrará su sesión de instalación.
+
+Artículo Sexto. En tanto es nombrado el Director General del Instituto y se instala el Consejo Directivo de dicho ente descentralizado, continuará en sus funciones para todos sus efectos legales, el Jefe de Departamento de Defensoría Pública de la Dirección Jurídica y Consultiva de la Secretaría de Gobierno del Estado de Querétaro.
+
+Artículo Séptimo. A partir de la fecha referida en el Artículo Quinto Transitorio de esta Ley, todos los programas públicos, recursos humanos, materiales, financieros, bienes muebles e inmuebles asignados al Sistema Estatal de Asesoría y Defensoría Pública de la Secretaría de Gobierno del Estado de Querétaro, que comprende la Defensoría de Oficio, los Bufetes Jurídicos Gratuitos y las demás unidades administrativas, quedarán transferidos al Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Querétaro, quien, a partir de ese momento, sustituirá a dicho Sistema para todos los efectos legales a que haya lugar.
+
+Artículo Octavo. Los trabajadores de (sic) Sistema Estatal de Asesoría y Defensoría Pública de la Secretaría de Gobierno del Estado de Querétaro, que sean transferidos al Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Querétaro, conservarán sus derechos laborales.
+
+Artículo Noveno. El Consejo Directivo presentará al Gobernador del Estado, para su aprobación, el proyecto de reglamento interior del Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Querétaro, en un plazo no mayor de noventa días hábiles, contados a partir de la fecha de la legal instalación de dicho órgano colegiado.
+
+Artículo Décimo. A partir de la entrada en vigor del (sic) presente Ley, todas las referencias en otros ordenamientos legales al Sistema Estatal de Asesoría y Defensoría Pública de la Secretaría de Gobierno del Estado de Querétaro, a la Defensoría Pública o de Oficio y a los Bufetes Jurídicos Gratuitos de dicho Sistema, se entenderán hechas al Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Querétaro.
