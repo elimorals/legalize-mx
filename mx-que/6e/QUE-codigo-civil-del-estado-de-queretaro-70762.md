@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2013-06-12"
+last_updated: "2014-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -5305,9 +5305,23 @@ IV. Por resolución judicial;
 
 V. Por despojo, si la desposesión dura más de un año;
 
-VI. Por reivindicación del propietario; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Por expropiación, por causa de utilidad pública.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2014)</small>
+
+VI. Por reivindicación del propietario;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2014)</small>
+
+VII. Por expropiación, por causa de utilidad pública; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2014)</small>
+
+VIII. Por resolución judicial dictada en un procedimiento de extinción de dominio.
 
 ###### Artículo 825.
 
@@ -5320,6 +5334,12 @@ Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando
 ###### Artículo 826.
 
 El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que fijen las leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2014)</small>
+
+La propiedad se pierde, en razón de la sentencia ejecutoriada que se emita en un procedimiento de extinción de dominio, en los términos que al efecto prevea la ley de la materia.
 
 ###### Artículo 827.
 
@@ -15794,3 +15814,15 @@ P.O. 12 DE JUNIO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 20 DE MARZO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado promoverá las modificaciones jurídicas e instruirá se realicen las administrativas y presupuestales necesarias para implementar las instituciones previstas en el presente ordenamiento, para el siguiente ejercicio fiscal.
+
+Artículo Cuarto. La Procuraduría General de Justicia y el Poder Judicial del Estado, ambos del Estado de Querétaro, dentro los sesenta días naturales siguientes al inicio de vigencia de la presente Ley, proporcionarán la capacitación técnica respectiva a los Jueces, Agentes del Ministerio Público y personal al que corresponda conocer de los procedimientos de extinción de dominio.
+
+Asimismo, el titular del Poder Ejecutivo del Estado, en el mismo plazo referido en el párrafo anterior, deberá proporcionar la capacitación técnica al personal de su adscripción que participe en los procedimientos de extinción de dominio.
