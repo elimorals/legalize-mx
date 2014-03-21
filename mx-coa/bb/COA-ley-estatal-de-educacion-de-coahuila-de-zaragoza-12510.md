@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2014-03-08"
+last_updated: "2014-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY ESTATAL DE EDUCACION DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 21 DE MARZO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -241,7 +241,7 @@ III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestr
 
 Corresponden a la autoridad educativa estatal, de manera concurrente con la federación, las atribuciones que señala la Ley General de Educación y demás disposiciones aplicables.
 
-El Ejecutivo del Estado podrá celebrar con la Federación convenios para coordinar y unificar las actividades educativas a que se refiere este artículo en los términos establecidos en la Ley General de Educación.
+El Ejecutivo del Estado podrá celebrar con la Federación convenios para coordinar y unificar las actividades educativas a que se refiere este artículo en los términos establecidos en a Ley General de Educación.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1345,9 +1345,9 @@ II.- Colaborar en el mejoramiento de la comunidad escolar y proponer a las autor
 
 III.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 8 DE MARZO DE 2014) (F. DE E., P.O. 21 DE MARZO DE 2014)
 
-V (SIC).- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y no se entenderá como contraprestaciones al servicio educativo.
+IV.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y no se entenderá como contraprestaciones al servicio educativo.
 
 V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad en el servicio que se ofrece o en el trato que se da a los educandos.
 
