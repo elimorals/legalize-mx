@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-instituto-municipal-de-la-mujer-celayense-80526"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-29"
-last_updated: "2011-03-29"
+last_updated: "2014-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER CELAYENSE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER CELAYENSE, PUBLICADO EN EL P.O. DE 21 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014 (DEROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato el martes 29 de marzo de 2011.
 
@@ -448,3 +450,13 @@ LIC. RUBÍ LAURA LÓPEZ SILVA
 SECRETARIO DEL H. AYUNTAMIENTO
 
 ARQ. JUAN MALDONADO PATLÁN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MARZO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato
+
+SEGUNDO. Se deroga el Reglamento del Instituto de la Mujer Celayense, aprobado por el Ayuntamiento en sesión ordinaria trigésimo segunda, de fecha 19 de enero de 2011 y publicado en el periódico de (sic) Gobierno del Estado, número 50, tomo CXLIX, de fecha 29 de marzo de 2011.
+
+TERCERO. Se instruye al Presidente Municipal, para que por esta única ocasión, integre el Consejo Directivo del Instituto de la Mujer Celayense, dentro de los treinta días siguientes a la entrada en vigor del presente reglamento.
