@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-inversiones-del-instituto-de-seguridad-y-95126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-05"
-last_updated: "2013-07-05"
+last_updated: "2014-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE INVERSIONES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 5 de julio de 2013.
 
@@ -149,9 +149,13 @@ VII. Activos objeto de inversión denominados en divisas;
 
 VIII. Componentes de renta fija;
 
-IX. Préstamos para sus derechohabientes; y,
+IX. Préstamos para sus derechohabientes; y, (sic)
 
 X. Sociedades de Inversión.
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2014)</small>
+
+XI. Productos Alternativos.
 
 Tercera Sección
 
@@ -392,3 +396,9 @@ En Representación de (sic) Poder Legislativo
 Dra. Sandra Edith Tristán Garza
 
 Directora General y Secretaria del Consejo Directivo del ISSSTELEON
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MARZO DE 2014.
+
+Único.- La presente Reforma por Adición al Reglamento del Inversiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Nuevo León. A treinta y uno de enero del dos mil catorce, así lo acuerdan y firman los integrantes del H. Consejo Directivo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León.
