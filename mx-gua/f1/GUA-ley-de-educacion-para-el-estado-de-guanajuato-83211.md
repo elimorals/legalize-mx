@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2014-03-10"
+last_updated: "2014-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE MARZO DE 2014.</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -1695,9 +1695,9 @@ La Secretaría coordinará el Sistema Estatal de Formación Continua y Superaci�
 
 Los servicios de formación, actualización, capacitación y superación profesional docente, se prestarán de acuerdo a lo establecido en la Ley General de Educación, Ley General del Servicio Profesional Docente y Ley del Instituto Nacional para la Evaluación Educativa, los ordenamientos normativos en la materia, las disposiciones que la Secretaria de Educación Pública determine y los convenios que para tal efecto se suscriban.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE MARZO DE 2014)</small>
+(REFORMADA SU NUMERACIÓN, P.O. 10 DE MARZO DE 2014) (F. DE E., P.O. 21 DE MARZO DE 2014)
 
-### Capítulo IX (Sic). Infraestructura física educativa
+### Capítulo X. Infraestructura física educativa
 
 Creación de instituciones educativas públicas
 
