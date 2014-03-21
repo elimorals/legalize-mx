@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2014-02-21"
+last_updated: "2014-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -941,7 +941,9 @@ VII.- Planeación del Desarrollo Municipal;
 
 VIII.- Desarrollo y Asistencia Social;
 
-IX.- Turismo y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2014)</small>
+
+IX.- Desarrollo Económico, Turismo y Federalismo
 
 X.- Desarrollo Rural;
 
@@ -1109,15 +1111,19 @@ VI.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
 (DEROGADO, P.O. 29 DE FEBRERO DE 2008)
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 88.
 
-Comisión de Turismo y Desarrollo Económico.- La Comisión de Turismo y Desarrollo económico tendrá las siguientes atribuciones:
+Comisión de Desarrollo Económico, Turismo y Federalismo.- La Comisión de Desarrollo Económico, Turismo y Federalismo tendrá las siguientes atribuciones:
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de turismo y desarrollo económico;
+I.- Dictaminar sobre proyectos de reglamentos, iniciativas de Ley, decretos y disposiciones normativas de observancia general en materia Desarrollo Económico, Turismo y Federalismo;
 
-II.- Proponer al Cabildo la adopción de programas y medidas que tiendan a incentivar la promoción turística y la inversión en el Municipio, fortaleciendo las oportunidades de empleo y desarrollo integral de sus habitantes;
+II.- Proponer al Cabildo la adopción de programas y medidas que tiendan a incentivar la promoción turística y la inversión en el municipio, fortaleciendo las oportunidades de empleo y desarrollo integral de sus habitantes.
 
-III.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+III.- Promover y realizar encuentros, foros, conferencias así como elaborar documentos y publicaciones sobre el tema del Federalismo y el Fortalecimiento Municipal.
+
+IV.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
 ###### ARTICULO 89.
 
@@ -1528,6 +1534,10 @@ SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICAC
 P.O. 21 DE FEBRERO DE 2014.
 
 ÚNICO.- Las presentes Modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
+
+P.O. 21 DE MARZO DE 2014.
+
+ÚNICO: LAS PRESENTES MODIFICACIONES ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
