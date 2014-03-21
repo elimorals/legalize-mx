@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2013-12-13"
+last_updated: "2014-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -575,35 +575,39 @@ IV.- Conforme a los mismos requisitos y procedimientos se designarán a los Cons
 
 La Ley fijará los requisitos y el procedimiento para la elección de los Consejeros Electorales que integren los Consejos Distritales Electorales.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
 
-###### ARTICULO 22.
+###### ARTÍCULO 22.
 
 El Congreso del Estado tendrá cada año tres períodos de Sesiones ordinarias, el Primer Período inicia a partir del primero de octubre al último día de enero de cada año, el Segundo Período comprende del primero de febrero al último día de mayo de cada año, y el Tercer Período será a partir del primero de junio al último día de septiembre de cada año.
 
-En los tres períodos ordinarios, la Legislatura del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos económicos; y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
+APARTADO A. De los Periodos de Sesiones.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+En los tres períodos ordinarios, la Legislatura del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos económicos; y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
 
 En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica, así como de las iniciativas que el Gobernador del Estado haya señalado con ese carácter conforme a esta Constitución.
 
+APARTADO B. De la Glosa del Informe anual del Gobernador.
+
 Durante el Primer Período Ordinario de Sesiones, concluida la Glosa del Informe, el Congreso del Estado podrá solicitar durante los siguientes 15 días al Gobernador ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito y tendrá un plazo de 30 días para su respuesta. Los titulares de las dependencias del Poder Ejecutivo o de las entidades paraestatales, al comparecer ante el congreso rendirán sus informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-Adicionalmente a lo dispuesto en el párrafo anterior, los Titulares de las Dependencias del Ejecutivo Estatal incluido el Secretario General de Gobierno y el Procurador General de Justicia del Estado, así como los titulares e integrantes de Consejos Municipales, Directores Generales o sus equivalentes de las entidades paraestatales, estarán obligados a acudir a comparecer, bajo protesta de decir verdad, ante el Pleno o las Comisiones respectivas, cuando así lo acuerde el Congreso, por votación mayoritaria de sus integrantes.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+Adicionalmente a lo dispuesto en el párrafo anterior, los Titulares de las Dependencias del Ejecutivo Estatal, incluido el Secretario General de Gobierno y el Procurador General de Justicia del Estado, así como los titulares e integrantes de Consejos Municipales, Directores Generales o sus equivalentes de las entidades paraestatales, estarán obligados a acudir a comparecer, bajo protesta de decir verdad, ante el Pleno o las Comisiones respectivas, cuando así lo acuerde el Congreso, por votación mayoritaria de sus integrantes.
 
 El Gobernador del Estado tendrá voz en el Congreso del Estado por sí o a través del Secretario General de Gobierno, para presentar iniciativas, informes o responder a preguntas, mediando solicitud para hacerlo o por invitación del Congreso del Estado, en los términos de esta Constitución y en las leyes que de ella emanen.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+APARTADO C. De las Leyes de Ingresos, los Presupuestos de Egresos y las Cuentas Públicas.
 
 En el Primer Período Ordinario, antes de concluir el año, examinará, discutirá, y en su caso, modificará y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, correspondiente al siguiente Ejercicio Fiscal, en los términos de la ley de la materia. Si al iniciarse el año fiscal correspondiente, el Congreso del Estado no hubiese aprobado las leyes de ingresos del Estado y de los Municipios, así como los presupuestos de Egresos correspondientes, en tanto sean expedidas, continuará rigiendo el Presupuesto que hubiere estado vigente el año anterior.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
 En el Segundo Período Ordinario de cada año, el Congreso deberá concluir la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de la Ley de la materia.
+
+APARTADO D. De las Remuneraciones de los Servidores Públicos.
+
+Los poderes Ejecutivo, Legislativo y Judicial, así como los Organismos Públicos Autónomos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos y deberán observar el mismo procedimiento para la aprobación del presupuesto de egresos, previsto en esta Constitución y en las demás Leyes aplicables en la materia.
+
+El Congreso del Estado, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la remuneración que corresponda a un empleo que este establecido por la ley; y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
+
+En todo caso, dicho señalamiento deberá respetar las bases previstas en los artículos 97 y demás relativos de esta Constitución, así como las leyes que en la materia expida el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -649,7 +653,9 @@ En caso de que el Gobernador del Estado, dentro de los noventa días siguientes 
 
 IV.- Fijar la división territorial, política, administrativa y judicial del Estado;
 
-V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la Administración, así como aumentar o disminuir los emolumentos de que éstos gocen, teniendo en cuenta las condiciones de la Hacienda Pública y lo que disponga la Ley del Servicio Civil del Estado;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2014)</small>
+
+V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la Administración, así como aumentar o disminuir los emolumentos de que éstos gocen, teniendo en cuenta lo establecido en el artículo 97 y demás relativos de esta Constitución, las condiciones de la Hacienda Pública y los demás ordenamientos legales aplicables en la materia;
 
 VI.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;
 
@@ -2077,7 +2083,9 @@ Los ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del 
 
 Los ayuntamientos remitirán al Congreso para su revisión y fiscalización, cada año, las cuentas públicas del ejercicio anterior, dentro del término y conforme a las formalidades que señale la Ley.
 
-Los presupuestos de egresos serán aprobados por los ayuntamientos, con base en sus ingresos disponibles.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
+
+Los Presupuestos de Egresos serán aprobados por los Ayuntamientos, con base en sus ingresos disponibles, y deberán integrar anualmente los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos demás relativos de esta Constitución, así como en las leyes aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2289,9 +2297,27 @@ La Capital del Estado de Baja California será la ciudad de Mexicali, donde resi
 
 Los funcionarios públicos no tienen más facultades que las que expresamente les otorgan las leyes.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
 
-Los Servidores Públicos Titulares de los Poderes Legislativo, Ejecutivo, Judicial y de los Ayuntamientos recibirán una retribución adecuada e irrenunciable por el desempeño de su función, misma que será equitativa y congruente con la situación socioeconómica que guarde el Estado y con las condiciones de la Hacienda Pública, determinada en su monto total en el Presupuesto Anual de Egresos y dada a conocer en forma pública con la situación patrimonial de dichos titulares.
+Los Servidores Públicos adscritos a los Poderes Ejecutivo, Legislativo, Judicial y de los Ayuntamientos, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos; Instituciones y Organismos Públicos Autónomos y en general, toda persona que desempeñe un empleo, cargo o comisión, en cualquier órgano o entidad de carácter público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión proporcional a sus responsabilidades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MARZO DE 2014)</small>
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I.- Las remuneraciones que por el desempeño de su función cargo o comisión reciban los servidores públicos, deberán determinarse de manera congruente y equitativa con la situación socioeconómica que guarde el Estado y con las condiciones de la Hacienda Pública, y demás disposiciones legales aplicables;
+
+II.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+
+III.- Ningún servidor público podrá recibir una remuneración superior a la aprobada en el Presupuesto de Egresos del Estado para el Gobernador del Estado;
+
+IV.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función;
+
+V.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado;
+
+VI.- Las remuneraciones que perciban los servidores públicos, así como los tabuladores en que estas se establezcan serán públicas, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie, y
+
+VII.- El Congreso del Estado expedirá las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, así como para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de estas disposiciones.
 
 ###### ARTICULO 98.
 
@@ -3648,3 +3674,23 @@ PRIMERO.- Aprobada que sea ésta Iniciativa por esta Honorable Asamblea, envíes
 SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MARZO DE 2014.
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California. Las disposiciones que contravengan el presente decreto quedarán sin efectos.
+
+CUARTO.- Las remuneraciones que sean superiores a la máxima establecida en el decreto que se aprueba, deberán ser ajustadas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente decreto.
+
+QUINTO.- A partir del ejercicio fiscal del año siguiente a aquél en que hayan entrado en vigor las presentes reformas, las percepciones de Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado se sujetarán a lo siguiente:
+
+I.- Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la fracción III del artículo 97 de la Constitución Política del Estado Libre y Soberano de Baja California, se mantendrán para los funcionarios que actualmente se encuentran en su encargo.
+
+II.- Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la fracción III del artículo 97 de la Constitución Política del Estado Libre y Soberano de Baja California, y
+
+III.- Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+SEXTO.- El Congreso del Estado de Baja California expedirá la Ley Reglamentaria en los términos del presente decreto, y realizará las adecuaciones legislativas pertinentes para establecer el régimen de sanciones penales y administrativas por conductas que impliquen el incumplimiento de las nuevas disposiciones en materia de remuneraciones de los servidores públicos. Asimismo exhortará a los Ayuntamientos para que generen los elementos jurídicos para satisfacer el cumplimiento del presente Decreto.
