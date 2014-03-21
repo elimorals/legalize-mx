@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-animal-del-estado-de-queretaro-69503"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2009-07-24"
+last_updated: "2014-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE PROTECCION ANIMAL DEL ESTADO DE QUERETARO
 
-LEY DE PROTECCION ANIMAL DEL ESTADO DE QUERETARO
+LEY DE PROTECCIÓN ANIMAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -105,9 +105,17 @@ X. Protección a los animales: La ejecución de acciones encaminadas al trato di
 
 XI. Rastro: El establecimiento de servicio público donde se realizan actividades de matanza y desuello de animales para su distribución y consumo;
 
-XII. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Querétaro; y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2014)</small>
 
-XIII. Unidades de manejo para la conservación de la fauna silvestre: Los predios e instalaciones registrados que operen de conformidad con un plan de manejo aprobado, dentro de los cuales se dé seguimiento al estado del hábitat y de poblaciones o ejemplares que ahí se encuentren.
+XII. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2014)</small>
+
+XIII. Unidades de manejo para la conservación de la fauna silvestre: Los predios e instalaciones registrados que operen de conformidad con un plan de manejo aprobado, dentro de los cuales se dé seguimiento al estado del hábitat y de poblaciones o ejemplares que ahí se encuentren; y
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2014)</small>
+
+XIV. Espectáculo circense: Aquel realizado de manera itinerante dentro de una carpa movible, sin espacio físico fijo para su estancia.
 
 ###### Artículo 4.
 
@@ -415,7 +423,9 @@ XXI. El maltrato en la vía pública, aunque se trate de animales deambulantes, 
 
 XXII. Todas aquellas que produzcan tensión, sufrimiento, traumatismo o dolor innecesarios.
 
-Los espectáculos de tauromaquia, charrería y peleas de gallos, no se considerarán como actos de crueldad o maltrato, para los efectos del presente artículo, siempre y cuando se realicen conforme a los reglamentos que al efecto emitan las autoridades municipales competentes.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
+
+Los espectáculos de tauromaquia, charrería, pelea de gallos y fiestas tradicionales locales, no se considerarán como actos de crueldad o maltrato, para tal efecto del presente artículo, siempre y cuando se realicen conforme a los reglamentos que al efecto emitan las autoridades municipales competentes.
 
 ###### Artículo 38.
 
@@ -705,13 +715,17 @@ La práctica de vivisección sólo se efectuará por personal que cuente con tí
 
 ### Capítulo Décimo. De los animales para entretenimiento público
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
+
 ###### Artículo 82.
 
-Los municipios expedirán el permiso para la utilización de animales en festividades públicas o espectáculos de circo o análogos. Si las condiciones de cuidado de los animales se deterioran o se verifican infracciones del permisionario que impliquen crueldad hacia los animales, la autoridad municipal retirará inmediatamente el permiso y procederá a la cancelación del evento.
+Los municipios expedirán el permiso para la utilización de animales en festividades públicas o análogas. Si las condiciones de cuidado de los animales se deterioran o se verifican infracciones del permisionario que impliquen crueldad hacia los animales, la autoridad municipal retirará inmediatamente el permiso y procederá a la cancelación del evento.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
 
 ###### Artículo 83.
 
-Corresponde a las autoridades federal, estatal y municipal, coordinadas en el ámbito de sus respectivas competencias, vigilar las condiciones en que se encuentren los animales destinados a festividades públicas y espectáculos circenses.
+Corresponde a las autoridades federal, estatal y municipal, coordinadas en el ámbito de sus respectivas competencias, vigilar las condiciones en que se encuentren los animales destinados a festividades públicas.
 
 ###### Artículo 84.
 
@@ -720,6 +734,14 @@ Se prohíben las peleas de perros como espectáculo público o privado y la util
 En caso de denuncia de pelea de perros, ésta deberá suspenderse de inmediato con el apoyo de la fuerza pública estatal o municipal.
 
 Los animales empleados para peleas serán asegurados por la autoridad y serán sacrificados luego del procedimiento en que se garantice la defensa de quien acredite tener la posesión legítima del animal.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2014)</small>
+
+Artículo 84 bis. Queda prohibida la celebración y realización de espectáculos circenses públicos o privados en los cuales se utilicen animales vivos sea cual sea su especie, con fines de explotación, exposición, exhibición y/o participación.
+
+Se sancionará con el equivalente de cinco mil Veces el Salario Mínimo General Diario Vigente en la Zona, a quién celebre o realice clandestinamente espectáculos circenses públicos o privados en los cuales se utilicen animales vivos.
+
+La autoridad municipal hará del conocimiento de la Delegación Estatal de la Procuraduría Federal de Protección al Ambiente, aquellos circos que incumplan con lo dispuesto en el presente artículo, a fin de que instaure el procedimiento administrativo correspondiente, en contra de los propietarios o representantes de los circos y que proceda al aseguramiento precautorio de los ejemplares rescatados, para trasladarlos a los Centros para la Conservación e Investigación de la Vida Silvestre de acuerdo a las leyes federales aplicables.
 
 ###### Artículo 85.
 
@@ -949,7 +971,7 @@ Cuando varias personas participen en la comisión de una misma infracción, resp
 
 ###### Artículo 118.
 
-Contra las resoluciones dictadas con motivo de la aplicación de la 1presente Ley, procede el recurso de revisión que se interpondrá, substanciará y resolverá, de conformidad con las disposiciones de la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y de la Ley de Procedimientos Administrativos del Estado de Querétaro.
+Contra las resoluciones dictadas con motivo de la aplicación de la presente Ley, procede el recurso de revisión que se interpondrá, substanciará y resolverá, de conformidad con las disposiciones de la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y de la Ley de Procedimientos Administrativos del Estado de Querétaro.
 
 ## TRANSITORIOS
 
@@ -998,3 +1020,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MARZO DE 2014.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Cada uno de Ayuntamientos (sic) de los Municipios del Estado de Querétaro realizará las adecuaciones y modificaciones en los reglamentos administrativos.
