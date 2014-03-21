@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-archivo-municipal-de-san-miguel-de-allende-39295
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-10-21"
-last_updated: "1994-10-21"
+last_updated: "2014-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 REGLAMENTO DEL ARCHIVO MUNICIPAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL DEL MUNICIPIO DE SAN MIGUEL DE ALLENDE, GUANAJUATO, PUBLICADO EN EL P.O. DE 21 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de octubre de 1994.
 
@@ -137,7 +139,7 @@ IX. En coordinación con las áreas administrativas y de concentración, formula
 
 X. Ser responsable de los acervos documentales que están bajo, su custodia.
 
-XI. Realizar los trámites necesarios par la adquisición de fondos documentales que se consideren de interés para el enriquecimiento del acervo histórico, y
+XI. Realizar los trámites necesarios para la adquisición de fondos documentales que se consideren de interés para el enriquecimiento del acervo histórico, y
 
 XII. Llevar a cabo la promoción del Archivo como lugar de interés público.
 
@@ -268,3 +270,19 @@ E INACTIVA.
 ### CAPITULO IV DE LAS POLITICAS GENERALES PARA LOS
 
 SERVIDORES PUBLICOS Y LOS USUARIOS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MARZO DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Reglamento que se abroga
+
+Artículo Segundo. Se abroga el Reglamento del Archivo Municipal para el Municipio de San Miguel de Allende, Gto., publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 84, segunda parte, del 21 de octubre de 1994.
+
+Derogación de disposiciones
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al contenido del presente Reglamento.
