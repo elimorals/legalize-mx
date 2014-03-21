@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-4470
 country: "mx"
 rank: "estatuto"
 publication_date: "1961-03-29"
-last_updated: "2014-03-08"
+last_updated: "2014-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # ESTATUTO JURIDICO PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 21 DE MARZO DE 2014.</small>
 
 Estatuto Jurídico publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 29 de marzo de 1961.
 
@@ -429,9 +429,9 @@ i) (sic).- Por falta comprobada de incumplimiento al contrato de trabajo o por s
 
 ### CAPÍTULO OCTAVO. DEL SERVICIO PROFESIONAL DOCENTE
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
+(ADICIONADO, P.O. 8 DE MARZO DE 2014) (F. DE E., P.O. 21 DE MARZO DE 2014)
 
-ARTICULO 42o BIS.- El ingreso, la promoción, el reconocimiento y la permanencia del personal docente y con funciones de dirección y supervisión así como de los asesores técnicos pedagógicos en la educación Básica que imparta el Estado de Coahuila de Zaragoza se regirán por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley Estatal de Educación de Coahuila de Zaragoza.
+ARTICULO 42o BIS.- El ingreso, la promoción, el reconocimiento y la permanencia del personal docente y con funciones de dirección y supervisión así como de los asesores técnicos pedagógicos en la educación Básica y Media Superior que imparta el Estado de Coahuila de Zaragoza se regirán por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley Estatal de Educación de Coahuila de Zaragoza.
 
 ## TITULO TERCERO.
 
