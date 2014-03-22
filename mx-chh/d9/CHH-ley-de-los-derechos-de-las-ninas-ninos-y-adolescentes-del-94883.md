@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-94883
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-12"
-last_updated: "2013-06-12"
+last_updated: "2014-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 12 de junio de 2013.
 
@@ -485,9 +485,11 @@ Con el propósito de ampliar la cobertura y calidad en la atención, así como e
 
 Se crea el Comité Estatal de Seguimiento y Vigilancia de la Aplicación de los Derechos de las Niñas, Niños y Adolescentes, como órgano colegiado de vigilancia, opinión, colaboración, coordinación, consulta, promoción y asesoría para la institucionalización de los derechos de las niñas, niños y adolescentes en el quehacer del Gobierno del Estado, teniendo como objetivo general, el seguimiento y vigilancia de la aplicación de la Convención sobre los Derechos del Niño, así como la concertación entre los sectores público, social y privado para el cumplimiento de lo señalado en la presente Ley.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 44.
 
-En cada Municipio se creará un Comité de Seguimiento que se coordinará con el Comité Estatal. Los DIF de los Municipios, determinarán su estructura y funcionamiento.
+En cada Municipio se creará un Comité de Seguimiento que se coordinará con el Comité Estatal. Los DIF de los Municipios, determinarán su estructura y funcionamiento, replicando en lo conducente la estructura, objetivos y facultades que se señalan para el Comité Estatal.
 
 ###### ARTÍCULO 45.
 
@@ -531,9 +533,11 @@ Las sesiones extraordinarias se celebrarán cuando existan causas urgentes que l
 
 Para la validez de las sesiones del Comité se requerirá la asistencia de más de la mitad de sus integrantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 51.
 
-El Comité Estatal, a fin de coadyuvar en el proceso que permita garantizar a la niñez y adolescencia el cabal cumplimiento de sus derechos, tendrá las siguientes facultades:
+El Comité Estatal, a fin de coadyuvar en el proceso que permita garantizar a la niñez y adolescencia el cabal cumplimiento de sus derechos a partir de la primera infancia, tendrá las siguientes facultades:
 
 I. Establecer estrategias interinstitucionales que permitan elaborar y mantener actualizado el análisis de situación de la niñez en el Estado.
 
@@ -1016,3 +1020,15 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los seis días del mes de junio del año dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Comités Municipales a que se refiere el artículo 44 de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Chihuahua, contarán con un término de quince días naturales a partir de la entrada en vigor del presente Decreto, para realizar los ajustes necesarios en su integración.
