@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transparencia-y-acceso-a-la-informacion-38012"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-06"
-last_updated: "2004-03-06"
+last_updated: "2014-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COL"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE COLIMA
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE COLIMA
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE COLIMA, PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial El Estado de Colima, el sábado 6 de marzo de 2004.
 
@@ -338,3 +340,15 @@ TERCERO. Hasta en tanto el Congreso expida la ley que establezca el costo de rep
 Dado en el Salón de Cabildos del Honorable Ayuntamiento de Colima, a los 26 días del mes de febrero de 2004.
 
 C.P. LEONCIO A. MORAN SANCHEZ. Presidente Municipal.- Rúbrica.- L.A.E. SALVADOR CARDENAS MORALES. Secretario del H. Ayuntamiento.- Rúbrica.- C. ENRIQUE SILVA ALCARAZ. Síndico Municipal.- Rúbrica.- LIC. GLADYS Z. RODRIGUEZ DE LA ROSA. Regidora.- Rúbrica.- LIC. LAURA ROCHA PEREZ. Regidora.- Rúbrica.- ARQ. ANTONIO ANDRADE GUZMAN. Regidor.- Rúbrica.- ARQ. MA. DEL ROCIO APOLINAR ACEVEDO. Regidora.- Rúbrica.- LIC. JOSE ANGEL BECERRA SAINZ. Regidor.- Rúbrica.- PROFR. MARCO ANTONIO LEPE ANZAR. Regidor.- Rúbrica.- LIC. ROBERTO CHAPULA DE LA MORA. Regidor.- Rúbrica.- PROFR. FEDERICO RANGEL LOZANO. Regidor.- Rúbrica.- C. MARTHA ARTEMIZA CRUZ ALCARAZ. Regidora.- Rúbrica.- LIC. RUBEN PEREZ ANGUIANO. Regidor.- Rúbrica.- MTRO. RAMON LEON MORALES. Regidor.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MARZO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Reglamento de Transparencia y Acceso a la Información del Municipio de Colima, publicado en el Periódico Oficial "El Estado de Colima", el 06 de marzo de 2004.
+
+TERCERO. A la entrada en vigor del presente Reglamento, las Dependencias contarán con un término de quince días hábiles para designar al Enlace de Transparencia e informarlo a la Unidad de Información, así como un plazo de treinta días hábiles para remitir a dicha Unidad, la Información Pública oficiosa, a efecto de que se realice la actualización y alimentación de la página web.
+
+CUARTO. El H. Ayuntamiento, contará con un término de 90 días hábiles posteriores a la publicación del presente Reglamento para emitir los catálogos documentales.
