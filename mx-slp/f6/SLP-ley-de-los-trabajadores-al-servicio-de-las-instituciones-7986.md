@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2014-02-25"
+last_updated: "2014-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -1019,9 +1019,9 @@ IV.- La facultad de las autoridades para cesar a los trabajadores, tomando en cu
 
 V.- El derecho para impugnar las resoluciones que establezcan sanciones impuestas por los titulares de las entidades o dependencias, cuando no amerite cese.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2014)</small>
 
-ARTICULO 113 BIS.- Las acciones de los trabajadores para exigir la reinstalación en su trabajo o la indemnización que la ley concede para el caso de despido o suspensión injustificados, prescriben en cuatro meses; término contado a partir del momento en que sea notificado el trabajador; o sea despedido o suspendido de su trabajo.
+ARTICULO 113 BIS.- Las acciones de los trabajadores para exigir la reinstalación en su trabajo, o la indemnización que la ley concede para el caso de despido o suspensión injustificados, prescriben en dos meses; término contado a partir del momento en que sea notificado el trabajador; o sea despedido o suspendido de su trabajo.
 
 ###### ARTICULO 114.
 
@@ -1746,6 +1746,12 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE FEBRERO DE 2014.
 
 DECRETO NO. 517 POR EL QUE SE REFORMAN LOS ARTÍCULOS, 140, Y 176 EN SU FRACCIÓN I, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
