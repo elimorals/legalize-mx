@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2013-12-31"
+last_updated: "2014-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJA DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, Y QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MARZO DE 2014.</small>
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -4603,7 +4603,7 @@ I. Los cometidos por culpa;
 
 II .Los de querella previstos en los Artículos 189, 235, 236, 262, 271 bis, 280, 282, 284, 285, 291, 300 en relación con el Artículo 301 fracción I, 300 en relación con el Artículo 301 fracción II, 338, 342, 344, 360, 381 en relación con el 382 fracción I, 382 fracción II, 383 en relación con el 382 fracción I, 383 en relación al 382 fracción II, 384 en relación con el 382 fracción I, 384 en relación al 382 fracción II, 385 fracción I, 385 fracción II, 386 en relación al 385 fracción I, 386 en relación al 385 fracción II, 392, 402 en relación con el 367;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013) (F. DE E., P.O. 24 DE MARZO DE 2014)
 
 III. Los de oficio previstos en los artículos 166 fracción I, 171, 172 primer párrafo, 178, 180, 180 bis, 182, 183, 184, 196, 197,197 bis, 198, 201 bis 1, 201 bis 2, 203, 205, 215 en relación con el 216 fracción I, 217 en relación con el 218 fracción I, 220 en relación con el 221 segundo párrafo, 222, 232, 233, 253, 259, 260 bis, 271 bis 2, 274, 276, 278, 280 bis, 287 bis, 287 bis 2, 295, 300 en relación con el Artículo 301 fracción I, 300 en relación con el Artículo 301 fracción II, 323, 332, 335, 336, 336 bis, 337, 353 bis, 364 en relación con el 367 fracción I, 364 en relación con el 367 fracción II, 373, 377, 378, 379, 380, 402 en relación con el 367 y 402 bis.
 
