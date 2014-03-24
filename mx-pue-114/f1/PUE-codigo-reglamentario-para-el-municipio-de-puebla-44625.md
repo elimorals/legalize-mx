@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2014-02-28"
+last_updated: "2014-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -10435,7 +10435,7 @@ DISPOSICIONES GENERALES
 
 Las disposiciones del presente Capítulo tienen por objeto implementar el cerco sanitario municipal tendiente a regular la apertura, funcionamiento y operaciones de los negocios dedicados a la venta de productos cárnicos y/o subproductos y aves muertas para consumo humano, así como su transporte, conforme a las atribuciones que corresponden en la materia al Ayuntamiento del Municipio de Puebla.
 
-ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 639 Ter.
 
@@ -10697,9 +10697,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -20955,7 +20955,7 @@ Los titulares de Permisos Publicitarios no podrán:
 
 I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-II. Instalar anuncios en los vehículos que presten el servicio de transporte privado de carga;
+II. Instalar anuncios en los vehículos que presten el servicio de transporte de carga;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20977,7 +20977,7 @@ IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. Instalar o dar mantenimiento a anuncios en vehículos de transporte en la vía pública; y
+X. Instalar o dar mantenimiento a anuncios en vehículos de transporte privado en la vía pública; y
 
 XI. Instalar anuncios con movimiento al interior o exterior del vehículo.
 
@@ -26839,7 +26839,9 @@ X. Energía Térmica: Es la capacidad que tiene un cuerpo para producir calor o 
 
 XI. Flora y Fauna Acuáticas: Las especies biológicas y elementos biogenéticos, que tiene como medio de vida temporal o permanente, las aguas de jurisdicción municipal;
 
-XII. Forestar: Poblar un terreno con plantas forestales y ornamentales;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
+
+XII. Autorizar podas, derribos y despuntes de árboles, observando lo dispuesto en el presente Capítulo y los Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales, en el Municipio de Puebla.
 
 XIII. Gestión Ambiental: Es la planeación, instrumentación y aplicación de la política ambiental, tendiente a lograr el ordenamiento racional del ambiente, a través de acciones gubernamentales y no gubernamentales;
 
@@ -27321,17 +27323,133 @@ Las construcciones, fraccionamientos, desarrollos habitacionales y viviendas en 
 
 El H. Ayuntamiento se reserva el derecho de establecer condiciones particulares para la realización de cada proyecto, siempre y cuando los mismos no ocasionen afectaciones irreversibles al medio ambiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
 
 ###### Artículo 1741.
 
-El Honorable Ayuntamiento, a través de la Agencia, autorizará y supervisará el derribo, despunte o poda de árboles. En el caso de derribo en vía pública, se deberá contar con autorización correspondiente por parte de la Agencia, deberá realizar el pago correspondiente, así como recuperar la cobertura vegetal perdida.
+El Honorable Ayuntamiento, a través de la Secretaría de Medio Ambiente y Servicios Públicos, autorizará y supervisará el derribo o poda de árboles. Para los efectos anteriores deberá sujetarse a los Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles; comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales, en el Municipio de Puebla.
 
-En los predios urbanos de propiedad privada, el derribo de árboles deberá notificarse a la Agencia, así como realizarse el pago correspondiente por la autorización de derribo, asumiendo el responsable, el compromiso de recuperar la vegetación perdida.
+Para los efectos anteriores, la Secretaría de Medio Ambiente, será la encargada de llevar a cabo una visita de inspección en el sitio donde se ubiquen el o los árboles y de emitir el dictamen técnico que especifique las condiciones en que se encuentran, así como la conclusión que permita determinar la viabilidad de llevar a cabo la poda el trasplante o derribo de los árboles, y en su caso, la recuperación de la vegetación perdida, previa solicitud y pago correspondiente de la parte interesada.
 
-El derribo, despunte y poda de árboles se realizará en los términos de la disposición administrativa que establezca los lineamientos técnicos que emita el Honorable Ayuntamiento de Puebla en Sesión de Cabildo, escuchando las propuestas que para este fin emita la Agencia.
+Para la recuperación de cobertura vegetal a la que se refiere este artículo, la Secretaría de Medio Ambiente y Servicios Públicos determinará la especie, considerándose el impacto al ambiente de la zona, así como, las condiciones económicas del solicitante, no pudiendo ser menor a la masa vegetal de la cobertura perdida.
 
-Para la recuperación de cobertura vegetal a la que se refiere este artículo, la Agencia determinará la especie, considerándose el impacto al ambiente de la zona, así como, las condiciones económicas del solicitante, no pudiendo ser menor a la masa vegetal de la cobertura perdida.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
+###### Artículo 1741 Bis.
+
+En caso de ser procedente el derribo o poda de un árbol en áreas o espacios públicos, éste será realizado por el personal de la Dirección de Servicios Públicos.
+
+Si la tala se hace en propiedad particular ésta deberá de ser a cargo del propietario o poseedor del inmueble, debiéndose apegar a los lineamientos marcados en el dictamen técnico, realizado por la Secretaría de Medio Ambiente y Servicios Públicos; y en el caso de que sea realizado por personal de la Dirección de Servicios Públicos, su costo será el que contemple la Ley de Ingresos.
+
+Cuando se autorice lo señalado en el párrafo anterior, el particular a quien se le prestó el servicio, tiene la obligación de en un plazo no mayor a los 30 días naturales, de suministrar y en su caso plantar la cantidad de árboles de acuerdo a lo establecido en el dictamen técnico; estos podrán ser en el mismo lugar u otro de acuerdo a los Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales en el Municipio de Puebla.
+
+Cuando se trate de emergencia determinada por la Unidad Operativa Municipal de Protección Civil, la tala podrá ser realizada sin el dictamen correspondiente, debiendo notificar a la Secretaría de Medio Ambiente y Servicios Públicos, a fin de que pueda llevarse a cabo la restitución de la masa vegetal de la cobertura perdida.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
+###### Artículo 1741 Ter.
+
+En el Municipio de Puebla queda prohibido:
+
+a) Atentar contra los árboles mediante acciones de mutilación, podas drásticas, desmoche, remoción de la corteza parcial o total alrededor del tronco, envenenamiento por sustancias químicas, o cualquier otra sustancia que pongan en riesgo la vida del árbol.
+
+b) Podar árboles con el propósito de proporcionar visibilidad a los anuncios o bien para permitir las maniobras de instalación de anuncios nuevos, mantenimiento o remodelación de los ya existentes.
+
+c) Clavar, sujetar, amarrar o colgar letreros, publicidad, cables, tendederos de ropa y cualquier otro elemento, en árboles y plantas de ornato de las áreas verdes del fundo municipal y vialidades.
+
+d) Derramar cualquier sustancia líquida a excepción de agua, que cause daños a la salud de los árboles y arbustos.
+
+e) Quemar cualquier tipo de residuos que ponga en riesgo, el tronco y follaje de los árboles y arbustos.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
+###### Artículo 1741 Quater.
+
+Para los efectos anteriores, toda persona podrá formular la queja o denuncia correspondiente ante la Secretaría del Medio Ambiente y Servicios Públicos de los hechos, actos y omisiones respecto a poda o daños a los árboles dentro del territorio Municipal, la cual se manejará con la debida reserva.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
+###### Artículo 1741 Quinquies.
+
+Para la atención de las quejas o denuncias, que sean de jurisdicción municipal, la Secretaría de Medio Ambiente y Servicios Públicos, ordenará la práctica de una visita de verificación a la fuente denunciada para la comprobación de los datos aportados por el denunciante.
+
+Las visitas de verificación sólo podrán realizarse mediante orden escrita y por el personal debidamente autorizado quien deberá identificarse con el presunto infractor y dejar copia de la orden escrita, debidamente fundada y motivada, en la que se señalará el personal facultado para realizar la diligencia, en el lugar o zona a inspeccionarse, el objeto y el alcance de la misma.
+
+El personal autorizado para la práctica de la visita de verificación seguirá el procedimiento de la siguiente forma:
+
+1. Requerirá a la persona con la que ésta se entienda, para que ésta designe uno o dos testigos que deberán estar presentes durante el desarrollo de la misma. En caso de negatividad o ausencia de aquellos, el personal de inspección hará la designación.
+
+2. Dará a conocer los hechos denunciados al presunto infractor.
+
+3. Levantará acta en la que se hará constar los hechos u omisiones observados o acontecidos en el desarrollo de la misma, dándose la intervención a la persona con la que se entienda la diligencia para que exponga lo que a su derecho convenga, lo que también asentará en el acta correspondiente.
+
+4. Concluido el levantamiento del acta de inspección, ésta será firmada por la persona que haya intervenido en la misma, por el o los testigos y por el personal de inspección.
+
+5. En caso de que la persona con la que se entendió la diligencia o los testigos se nieguen a firmarla, así se hará constar en al acta sin que ello afecte la validez de la misma.
+
+6. Al término de la verificación, entregará una cédula informativa en la que registrarán los hechos, actos u omisiones que hubiere observado durante la visita, fijando las medidas de mitigación.
+
+Dicha visita de verificación será acompañada con las impresiones fotográficas que puedan aportar una mejor concepción de los hechos verificados y estas se agregarán al expediente correspondiente.
+
+En caso de no encontrarse el presunto infractor se le dejará citatorio para que dentro de las veinticuatro horas siguientes espere al personal de inspección autorizado a una hora determinada para el desahogo de la diligencia. Al día siguiente y en la hora previamente fijada, de no ser atendido el citatorio, la diligencia se practicará con la persona que en el lugar se encuentre.
+
+Cuando en el lugar objeto de la diligencia, alguno o algunas personas manifiesten oposición y obstaculizan la práctica de la misma, el personal que lleve a cabo la visita de verificación podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
+###### Artículo 1741 Sexies.
+
+Las infracciones de carácter administrativo a los preceptos contenidos en el presente Capítulo del Código Reglamentario para el Municipio de Puebla, serán sancionadas conforme a lo siguiente:
+
+I. Multa por el equivalente de uno o cien días de salario mínimo general vigente en el Estado de Puebla, en el momento a imponer la sanción.
+
+II. Reparación del daño ocasionado.
+
+III. En caso grave, arresto administrativo hasta por 36 horas.
+
+Las sanciones a que se refiere este artículo, se aplicarán sin perjuicio de las sanciones penales que proceda.
+
+En los casos de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo permitido.
+
+Para la imposición de las sanciones por infracciones a este Reglamento obligatoriamente se tomará en cuenta:
+
+I. La gravedad de la infracción considerando primordialmente los siguientes criterios:
+
+a) El daño ocasionado al área verde o a la vegetación.
+
+b) La afectación al patrimonio ecológico del Municipio.
+
+c) La degradación ecológica sufrida en el área.
+
+d) La especie de vegetación a la que ocasionó el daño (especies en peligro, tamaño, edad, estado de salud, etc).
+
+II. La condición socioeconómica del infractor en los términos que dispone el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+III. Si existe o no reincidencia.
+
+IV. Si la infracción o infracciones fueron cometidas intencionalmente o imprudencialmente, o si la infracción que se comprometió fue por omisión o por no cumplir alguna orden de autoridad competente.
+
+V. Si el infractor o infractores obtuvieron algún beneficio al cometer las infracciones.
+
+VI. Si el infractor actuó por órdenes o instrucciones de algún superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
+###### Artículo 1741 Septies.
+
+En los casos en los cuales el infractor o infractores reparen o subsanen los daños, que no se consideren graves tomando en cuenta la afectación, daño o degradación ocasionados a juicio de la autoridad municipal, esta situación se podrá considerar como atenuante para aplicación de las sanciones.
+
+La autoridad municipal que impone las sanciones, podrá otorgar la acción al infractor o infractores de pagar la multa y/o efectuar labores de reforestación en el Municipio de Puebla; para tales efectos la autoridad municipal deberá señalarle por escrito el área a reforestar, el tipo y especie de vegetación o de flora que deberá sembrar y el número de ellas, así como las técnicas que deberá de utilizar para la siembra, las medidas que tomará para proteger las áreas reforestadas así como el término para su cumplimiento.
+
+Lo anterior será procedente siempre y cuando se garanticen plenamente las obligaciones que deberá de cumplir el infractor, y que la autoridad municipal justifique plenamente la determinación que asumió, incluso tomando en cuenta la condición socioeconómica del infractor.
+
+Las sanciones de carácter pecuniarias impuestas al infractor y que representen una cantidad determinada de dinero tendrán el carácter de créditos fiscales y podrán ser exigibles mediante el ejercicio de la facultad económica coativa (sic).
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
+###### Artículo 1741 Octies.
+
+En contra de los actos y resoluciones realizados y emitidos, con motivo de la aplicación del presente Capítulo, procede el Recurso de Inconformidad, cuya tramitación se sujetará a las disposiciones que la Ley Orgánica Municipal establece.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -35836,3 +35954,7 @@ SEGUNDO.- Se renovarán todos los Consejos Ciudadanos en el año 2015, en observ
 TERCERO.- Para efecto de la homologación en materia electoral los Consejeros Ciudadanos durarán en su encargo por única ocasión cuatro años seis meses.
 
 CUARTO.- Se derogan las disposiciones que se opongan a lo establecido en la presente reforma.
+
+P.O. 24 DE MARZO DE 2014.
+
+ÚNICO.- Las presentes Reformas y Adiciones al Código Reglamentario para el Municipio de Puebla, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
