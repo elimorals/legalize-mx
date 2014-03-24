@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-293"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-14"
-last_updated: "2014-01-24"
+last_updated: "2014-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1986-04-29"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PRESTACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -1281,7 +1281,55 @@ III.- Las demás que le señalen las disposiciones jurídicas aplicables.
 
 ARTICULO 138 BIS 27.- En caso de que el enfermo en situación terminal decida revocar o modificar las directrices anticipadas, deberá cumplir con las mismas formalidades y requisitos que se exigieron para su suscripción.
 
-### CAPITULO X. De las Autorizaciones y Revocación de las Mismas
+### CAPÍTULO IX BIS. De la Atención Médica a Víctimas
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 1.- El presente Capítulo tiene por objeto regular la prestación de los servicios de Atención Médica, incluyendo la atención de Emergencias Médicas, odontológicas, quirúrgicas y hospitalarias, en términos de lo dispuesto por la Ley, la Ley General de Víctimas y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 2.- Para efectos del presente Capítulo, además de las definiciones contenidas en los demás artículos de este Reglamento, se entenderá por:
+
+I. Emergencia Médica: A la urgencia médica, en términos de lo dispuesto por el artículo 72 de este Reglamento, que presenta una persona, como consecuencia de la comisión de un delito o de la violación a sus derechos humanos, y
+
+II. Víctima: La persona física que se encuentre en los supuestos del artículo 4, párrafos primero y segundo, de la Ley General de Víctimas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 3.- Las Víctimas que hayan sufrido lesiones, enfermedades y traumas emocionales provenientes de la comisión de un delito o de la violación a sus derechos humanos, tienen el derecho de que se les restituya su salud física y mental. Para tal efecto, los Establecimientos para la Atención Médica del sector público, se encuentran obligados a brindarles servicios de Atención Médica, incluyendo la atención de Emergencias Médicas, en términos de la Ley, la Ley General de Víctimas, el presente Reglamento, las disposiciones que emita cada institución pública que preste servicios de Atención Médica y demás instrumentos jurídicos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 4.- Los Establecimientos para la Atención Médica del sector público que brinden servicios de Atención Médica a Víctimas, incluyendo la atención de Emergencias Médicas, odontológicas, quirúrgicas y hospitalarias, deberán, conforme al modelo de atención integral en salud a que se refiere el artículo 32 de la Ley General de Víctimas, establecer los mecanismos que correspondan para garantizar la atención a aquellas Víctimas que no sean derechohabientes o beneficiarios de la institución a la que pertenezca el Establecimiento para la Atención Médica en la que brinde la Atención Médica, así como para la referencia a otros Establecimientos para la Atención Médica, cuando los servicios especializados que requiere la Víctima no puedan ser brindados por el Establecimiento en el cual se le prestan los servicios.
+
+La Atención Médica que se brinde en términos del párrafo anterior, deberá tomar en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales para la protección de Víctimas establecidos en las disposiciones aplicables y, en particular, el enfoque diferencial para las mujeres, niños, niñas, adolescentes, personas con discapacidad, adultos mayores y población indígena.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 5.- El responsable del Establecimiento para la Atención Médica que brinde servicios a una Víctima, deberá supervisar que se valore su estado de salud general, a efecto de determinar las lesiones y demás afecciones causadas por la comisión del delito o la violación de sus derechos humanos.
+
+Tratándose de Emergencia Médica, el responsable del servicio de urgencias del Establecimiento para la Atención Médica está obligado a tomar las medidas necesarias que aseguren, una vez realizada la valoración médica de la Víctima, el tratamiento completo de la Emergencia Médica o, la estabilización de sus condiciones físicas generales para que pueda ser referida a otro Establecimiento para la Atención Médica, cuando así proceda.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 6.- En caso de Emergencia Médica, los Establecimientos para la Atención Médica del sector público estarán obligados a brindar a la Víctima los servicios a que se refiere el artículo 30 de la Ley General de Víctimas, con independencia de su capacidad socioeconómica o nacionalidad y sin que puedan condicionar su prestación a la presentación de la denuncia o querella, según corresponda, sin perjuicio de que con posterioridad se les reconozca tal carácter en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 7.- Para la Atención Médica y el seguimiento del estado de salud de la Víctima, el responsable del Establecimiento para la Atención Médica y el médico tratante, deberán tomar en consideración lo siguiente:
+
+I. Realizar la referencia a un Hospital de mayor resolución, en el que se puedan brindar los servicios de especialidad que requiera la Víctima hasta el final de su tratamiento.
+
+El traslado se llevará a cabo con recursos propios del Establecimiento que hace el envío. De no contarse con los medios de transporte adecuados, se utilizarán los del Establecimiento para la Atención Médica receptor.
+
+Para efectos de lo dispuesto en el párrafo primero de esta fracción, el final del tratamiento será determinado por el médico tratante a través del alta médica, la cual deberá estar fundada en un conjunto de valoraciones del estado de salud del Usuario y, en su caso, apoyada por los estudios de laboratorio y de gabinete, incluyendo los de imagen, que correspondan;
+
+II. La cita médica que solicite la Víctima deberá ser otorgada en un periodo no mayor a ocho días. Para el caso de que se trate de una Emergencia Médica, la Víctima deberá ser atendida de inmediato;
+
+III. Realizar a la Víctima los estudios de laboratorio y de gabinete, incluyendo los de imagen, que se requieran para establecer un diagnóstico adecuado y dar el seguimiento oportuno a la evolución de su estado de salud, y
+
+IV. Para el caso de servicios odontológicos reconstructivos, la Víctima deberá recibir todos los servicios que requiera por los daños causados como consecuencia del delito o la violación de sus derechos humanos.
 
 #### SECCION PRIMERA
 
@@ -1829,11 +1877,13 @@ IV.- Administración, e
 
 V.- Instalaciones Sanitarias.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE MARZO DE 2014)</small>
+
+### CAPITULO X. De las Autorizaciones y Revocación de las Mismas
+
 ### CAPITULO XI. De la Vigilancia de la Prestación de los Servicios de Atención Médica
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
-
-### CAPITULO XII. De las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 216.
 
@@ -1976,6 +2026,8 @@ La revocación de las autorizaciones a que se refiere este capítulo se ajustar�
 ###### ARTICULO 232.
 
 La Secretaría dispondrá de un plazo de sesenta días hábiles para resolver sobre la solicitud de autorizaciones, contado a partir de la fecha de presentación de la solicitud, o desde la fecha en la que se le proporcionen las aclaraciones o informaciones adicionales que expresamente se requieran al solicitante. Si la resolución no se dictare dentro del plazo señalado, la licencia o permiso solicitados se considerarán negados.
+
+### CAPITULO XII. De las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 233.
 
@@ -2188,3 +2240,9 @@ D.O.F. 1 DE NOVIEMBRE DE 2013.
 D.O.F. 24 DE ENERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MARZO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para tal fin a la Secretaría de Salud o entidades de la Administración Pública Federal que correspondan, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
