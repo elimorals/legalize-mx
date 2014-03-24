@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-reclutamiento-de-personal-para-el-ejercito-42391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-20"
-last_updated: "2012-07-04"
+last_updated: "2014-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2005-01-14"
 ---
 # REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJERCITO Y FUERZA AEREA MEXICANOS --
 
-REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJERCITO Y FUERZA AÉREA MEXICANOS
+REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 20 de enero de 2005.
 
@@ -173,9 +173,11 @@ I. Ser mexicano por nacimiento y no haber adquirido otra nacionalidad;
 
 II. Ser soltero o soltera, y no vivir en concubinato;
 
-III. Tener dieciocho años cumplidos y no ser mayor de treinta. Cuando las necesidades del servicio lo justifiquen y previa autorización de la Secretaría de la Defensa Nacional, los mayores de treinta años podrán causar alta como Técnicos y Especialistas de ambos sexos;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
 
-> <small>(ADICIONADO, D.O.F. 4 DE JULIO DE 2012)</small>
+III. Tener dieciocho años cumplidos y no ser mayor de treinta.
+
+El personal técnico o especialista no podrá ser mayor de treinta y dos años, salvo que las necesidades del servicio lo justifiquen y previa autorización de la Secretaría de la Defensa Nacional, se podrá dar de alta a mayores de esta edad.
 
 Podrán causar alta en el Sistema Educativo Militar como discentes, para su formación en las Instituciones Educativas Militares, los menores de dieciocho años con quince cumplidos, siempre que cuenten con el consentimiento del padre, madre, tutor o representante legal;
 
@@ -213,9 +215,9 @@ a) Personal masculino en Unidades, Dependencias e Instalaciones, 1.63 metros;
 
 b). Personal en la Escuela Militar de Aviación 1.65 metros, y
 
-> <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2014)</small>
 
-c). Personal femenino en Unidades, Dependencias e Instalaciones, 1.55 metros.
+c) Personal femenino en Unidades, Dependencias e Instalaciones, 1.60 metros;
 
 d). (DEROGADO, D.O.F. 4 DE JULIO DE 2012)
 
@@ -223,7 +225,13 @@ d). (DEROGADO, D.O.F. 4 DE JULIO DE 2012)
 
 X. Suscribir el Contrato de Enganche.
 
-En el caso de aspirantes a causar alta en el Sistema Educativo Militar que sean menores de dieciocho años, el Contrato de Enganche será suscrito por el padre, madre, tutor o representante legal, mismo que será ratificado por el aspirante, una vez que alcance la mayoría de edad.
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+En el caso de aspirantes a causar alta en el Sistema Educativo Militar que sean menores de dieciocho años, el Contrato de Enganche será suscrito por el padre, madre, tutor o representante legal, mismo que será ratificado por el aspirante, una vez que alcance la mayoría de edad, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+XI. Los aspirantes a causar alta en los Cuerpos Especiales a que se refiere el artículo 102 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, además de los requisitos anteriores, deberán acreditar las pruebas físicas de la especialidad, que determine la Secretaría de la Defensa Nacional.
 
 ### CAPÍTULO V. De los Exámenes Médicos y Psicológicos
 
@@ -806,3 +814,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto, serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional debe sujetarse al Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2012 y no incrementar su presupuesto regularizable.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados y no se requerirán recursos adicionales por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
