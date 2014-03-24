@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-para-el-estado-de-oaxaca-96002"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-30"
-last_updated: "2013-08-30"
+last_updated: "2014-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2014.
 
 Ley publicada en el número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de agosto del año 2013.
 
@@ -1027,13 +1027,19 @@ I. Ser conducto de comunicación entre el Congreso y la Auditoría;
 
 II. Recibir del Pleno o de la Diputación Permanente las Cuentas Públicas de las entidades fiscalizables y turnarlas a la Auditoría;
 
-III. Dictaminar las respectivas Cuentas Públicas;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
 
-IV. Conocer el Programa Anual de Actividades que para el debido cumplimiento de sus funciones, elabore la Auditoría, así como sus modificaciones y evaluar su cumplimiento;
+III. Dictaminar las cuentas públicas, con base en el informe de resultados de revisión y fiscalización que formule y entregue el Auditor Superior a la Comisión.
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
+
+IV. Conocer y evaluar el Programa Anual de Actividades que para el debido cumplimiento de sus funciones, elabore la Auditoría.
 
 V. Vigilar y evaluar que la Auditoría cumpla con sus funciones conforme a la Constitución Local, la presente Ley, el Código y demás disposiciones legales;
 
-VI. Recibir quejas y denuncias derivadas del incumplimiento de las obligaciones por parte de los servidores públicos de la Auditoría, iniciar las investigaciones y en su caso fincar las responsabilidades administrativas disciplinarias sancionatorias a que haya lugar;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
+
+VI. Recibir quejas y denuncias derivadas del incumplimiento de las obligaciones por parte de los servidores públicos de la Auditoria, iniciar las investigaciones y en su caso fincar las responsabilidades administrativas disciplinarias sancionatorias a que haya lugar, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
 
 VII. Citar por conducto de su Presidente al Auditor Superior, para conocer sobre las actividades de la Dependencia a su cargo y en específico, sobre los informes de resultados de la revisión de las Cuentas Públicas;
 
@@ -1047,7 +1053,9 @@ La evaluación del desempeño tendrá por objeto conocer si la entidad de fiscal
 
 XI. Presentar al Pleno del Congreso, el dictamen relativo a la solicitud de licencia, renuncia o remoción del Auditor Superior y Subauditores Superiores;
 
-XII. Presentar al Congreso, el dictamen relativo a la terna de aspirantes para ocupar el cargo de Auditor Superior y Subauditores Superiores, mismo que se integrará con las propuestas recibidas;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
+
+XII. Emitir la Convocatoria, desahogar el procedimiento y presentar al Congreso, el dictamen relativo a la terna de aspirantes para ocupar el cargo de Auditor Superior y Subauditores Superiores, mismo que se integrará con las propuestas recibidas;
 
 XIII. Proponer la contratación del personal de la Unidad Técnica, misma que auxiliara a la Comisión en el desempeño de sus funciones;
 
@@ -1103,6 +1111,24 @@ XII. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus at
 
 XIII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
+###### Artículo 85 Bis.
+
+La Unidad Técnica tendrá las siguientes obligaciones:
+
+a) Apoyar a la Comisión para determinar si los resultados de la revisión de las Cuentas Públicas, se apegaron a los principios de imparcialidad y legalidad, y si estos resultados se encuentran debidamente fundados y motivados.
+
+b) Apoyar a la Comisión para determinar si la revisión de los Informes de Avance de Gestión Financiera, se apegaron a los principios de imparcialidad y legalidad, y si estos resultados se encuentran debidamente fundados y motivados.
+
+c) Apoyar a la Comisión para determinar si el Estado de Solventación de Observaciones de la revisión de las Cuentas Públicas, se encuentra debidamente soportado a través de la comprobación, justificación y/o aclaraciones presentadas por los funcionarios responsables.
+
+d) Apoyar a la Comisión para la debida integración del Dictamen de las Cuentas Públicas.
+
+e) Apoyar a la Comisión para evaluar el Programa Anual de Actividades que elabore y presente la Auditoria.
+
+f) Para el debido cumplimiento de sus funciones la Unidad Técnica, podrá tener acceso a toda la información impresa, digital, software y a todos los programas establecidos en la Auditoria, pudiendo efectuar revisiones de gabinete y/o en el domicilio de la propia Auditoria.
+
 ###### Artículo 86.
 
 El titular de la Unidad Técnica será propuesto por la propia Comisión y designado por el Congreso, mediante el voto mayoritario de sus miembros presentes en la sesión respectiva.
@@ -1115,7 +1141,9 @@ I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener treinta y cinco años cumplidos al día de la designación;
 
-III. Poseer el día del nombramiento título y cédula profesional a nivel licenciatura en contaduría pública, derecho, economía o administración;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
+
+III. Poseer al día del nombramiento titulo y cédula profesional a nivel de licenciatura.
 
 IV. No tener antecedentes penales;
 
@@ -1145,9 +1173,11 @@ Para el ejercicio de las atribuciones que tiene conferidas la Unidad Técnica, c
 
 El reglamento de la Unidad Técnica que expida el Congreso establecerá la competencia de las áreas a que alude el párrafo anterior y aquellas otras unidades administrativas que sean indispensables para el debido funcionamiento de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2014)</small>
+
 ###### Artículo 91.
 
-Los servidores públicos de la Unidad Técnica deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control.
+Los servidores públicos de la Unidad Técnica deberán cumplir con el grado de Licenciatura, preferentemente en materias de fiscalización, evaluación del desempeño y control.
 
 El ingreso a la Unidad Técnica será mediante convocatoria pública y examen de oposición.
 
@@ -1304,3 +1334,11 @@ Tlalixtac de Cabrera, Centro, Oax., a 13 de agosto de 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a las presentes reformas y adiciones contenidas en la Ley de Fiscalización Superior para el Estado de Oaxaca.
