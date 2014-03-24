@@ -4,7 +4,7 @@ identifier: "LVIV"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-27"
-last_updated: "2013-12-26"
+last_updated: "2014-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50855&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVIV"
 
 LEY DE VIVIENDA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2006.
 
@@ -54,7 +54,9 @@ La presente Ley es reglamentaria del artículo 4o. de la Constitución Política
 
 La vivienda es un área prioritaria para el desarrollo nacional. El Estado impulsará y organizará las actividades inherentes a la materia, por sí y con la participación de los sectores social y privado, de acuerdo con las disposiciones de esta Ley.
 
-La política nacional y los programas, así como el conjunto de instrumentos y apoyos que señala este ordenamiento, conducirán el desarrollo y promoción de las actividades de las dependencias y entidades de la Administración Pública Federal en materia de vivienda, su coordinación con los gobiernos de las entidades federativas y municipios, y la concertación con los sectores social y privado.
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+La política nacional y los programas, así como el conjunto de instrumentos y apoyos que señala este ordenamiento, conducirán el desarrollo y promoción de las actividades de las dependencias y entidades de la Administración Pública Federal en materia de vivienda, su coordinación con los gobiernos de las entidades federativas y municipios, y la concertación con los sectores social y privado, a fin de sentar las bases para aspirar a un desarrollo nacional más equitativo, que integre entre sí a los centros de población más desarrollados con los centros de desarrollo productivo, considerando también a los de menor desarrollo, para corregir las disparidades regionales y las inequidades sociales derivadas de un desordenado crecimiento de las zonas urbanas.
 
 ###### ARTÍCULO 2.
 
@@ -128,9 +130,25 @@ VI. Propiciar que las acciones de vivienda constituyan un factor de sustentabili
 
 VII. Promover que los proyectos urbanos y arquitectónicos de vivienda, así como sus procesos productivos y la utilización de materiales se adecuen a los rasgos culturales y locales para procurar su identidad y diversidad;
 
-VIII. Promover una distribución y atención equilibrada de las acciones de vivienda en todo el territorio nacional, considerando las necesidades y condiciones locales y regionales, así como los distintos tipos y modalidades del proceso habitacional, y
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
 
-IX. Promover medidas que proporcionen a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad y acerca de las opciones que ofrecen los programas institucionales y el mercado, de acuerdo con sus necesidades, posibilidades y preferencias.
+VIII. Promover una distribución y atención equilibrada de las acciones de vivienda en todo el territorio nacional, considerando las necesidades y condiciones locales y regionales, así como los distintos tipos y modalidades del proceso habitacional;
+
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+IX. Promover medidas que proporcionen a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad y acerca de las opciones que ofrecen los programas institucionales y el mercado, de acuerdo con sus necesidades, posibilidades y preferencias;
+
+> <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+X. Establecer esquemas y mecanismos institucionales de coordinación intergubernamental e interestatal en las zonas urbanas para hacer viable la convivencia en esos espacios que exhiben la diversidad social, política y cultural de la nación;
+
+> <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+XI. Proveer esquemas que permitan la participación de las comunidades de las diversas regiones del país, principalmente las situadas en zonas en alta y muy alta marginación, de acuerdo con los indicadores del Consejo Nacional de Evaluación de la Política de Desarrollo Social, con la finalidad del mejoramiento continúo de sus viviendas e infraestructura pública, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+XII. Vigilar la correcta aplicación de los indicadores de marginación, que emite el Consejo Nacional de Evaluación de la Política de Desarrollo Social, para atender el direccionamiento de los programas federales, estatales y municipales en materia de vivienda.
 
 ### CAPÍTULO II. De la programación
 
@@ -278,7 +296,9 @@ I. Formular y aprobar los programas estatales de vivienda, en congruencia con lo
 
 II. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda de la entidad federativa, otorgando atención preferente a la población en situación de pobreza;
 
-III. Convenir programas y acciones de suelo y vivienda con el Gobierno Federal, con los gobiernos de otras entidades federativas y con municipios;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+III. Convenir programas y acciones de suelo y vivienda con el Gobierno Federal, con los gobiernos de las entidades federativas y de los municipios; bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana y vivienda sustentable, procurando el aprovechamiento y explotación racional de los recursos naturales y el respeto al medio ambiente;
 
 IV. Apoyar a las autoridades municipales que lo soliciten, en la planeación, gestión de recursos, operación de programas y en la ejecución de acciones en materia de suelo y vivienda;
 
@@ -300,7 +320,9 @@ V. Prestar, en términos de las disposiciones jurídicas aplicables, los servici
 
 VI. Coordinar acciones con el gobierno de su entidad federativa con la finalidad de recibir apoyo para la planeación, gestión de recursos, operación de programas y ejecución de acciones en materia de suelo y vivienda, y
 
-VII. Coordinar acciones en materia de suelo y vivienda con otros municipios.
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+VII. Coordinar acciones en materia de suelo y vivienda con otros municipios, bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana y vivienda sustentable, procurando el aprovechamiento y explotación racional de los recursos naturales y el respeto al medio ambiente.
 
 ### CAPÍTULO III. De la Comisión Nacional de Vivienda
 
@@ -390,7 +412,9 @@ V. El Titular de la Secretaría de Comunicaciones y Transportes;
 
 VI. El Titular de la Secretaría de Medio Ambiente y Recursos Naturales;
 
-VII. El Titular de la Secretaría de la Reforma Agraria, y
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+VII. El Titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano, y
 
 VIII. El Director General de la Comisión, quien fungirá como Secretario Técnico, que tendrá voz pero no voto;
 
@@ -548,7 +572,9 @@ IX. Trabajo y Previsión Social;
 
 X. Salud, y
 
-XI. Reforma Agraria.
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+XI. Desarrollo Agrario, Territorial y Urbano.
 
 A las sesiones de la Comisión Intersecretarial podrán ser invitados a participar otras dependencias y entidades de la Administración Pública Federal, de acuerdo con los temas de que se trate.
 
@@ -616,9 +642,21 @@ IX. Establecer medidas que fortalezcan la capacidad de gestión de los municipio
 
 X. Promover la homologación normativa y la simplificación de los trámites administrativos que se requieran para la ejecución de acciones de vivienda, reconociendo los distintos tipos y modalidades de producción habitacional;
 
-XI. Facilitar mecanismos de información y elaboración de estudios sobre las necesidades, inventario, modalidades y características de la vivienda, y
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
 
-XII. La realización de las demás acciones tendientes a cumplir con los fines previstos en esa Ley.
+XI. Facilitar mecanismos de información y elaboración de estudios sobre las necesidades, inventario, modalidades y características de la vivienda;
+
+> <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+XII. Impulsar estrategias incluyentes para incrementar el impacto social de los recursos fiscales, con el objetivo de promover programas de vivienda a partir de la planeación para el desarrollo regional y la ordenación urbana y territorial;
+
+> <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+XIII. Promover mecanismos de coordinación y planeación que permitan identificar las prioridades comunes para la región y conjuntar recursos para financiar proyectos que detonen los programas de vivienda y del desarrollo regional, y
+
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+
+XIV. La realización de las demás acciones tendientes a cumplir con los fines previstos en esa Ley.
 
 En los convenios y acuerdos que señala este artículo, lo referido al suelo tendrá que observar las disposiciones correspondientes que establece la Ley General de Asentamientos Humanos y demás ordenamientos aplicables.
 
@@ -688,9 +726,11 @@ Entre otros indicadores de evaluación, deberán considerarse los siguientes: me
 
 La Comisión diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 46.
 
-Los gobiernos de las entidades federativas y de los municipios, las organizaciones de los sectores social y privado, así como las instituciones de educación superior y de investigación, proporcionarán la información correspondiente en el marco de los acuerdos y convenios que al efecto se celebren con la Comisión.
+Los gobiernos de las entidades federativas y de los municipios, las organizaciones de los sectores social y privado, así como las instituciones de educación superior y de investigación, proporcionarán la información correspondiente en el marco de los acuerdos y convenios que al efecto se celebren con la Comisión, en la que se deberá tomar en cuenta las prioridades comunes para la región y la conjunción de recursos para financiar proyectos que detonen el desarrollo de la vivienda.
 
 ## TÍTULO CUARTO. DEL FINANCIAMIENTO PARA LA VIVIENDA
 
@@ -1057,3 +1097,7 @@ D.O.F. 16 DE JUNIO DE 2011.
 D.O.F. 26 DE DICIEMBRE DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MARZO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
