@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-publico-de-agua-potable-y-servicios-709
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-06"
-last_updated: "2011-06-28"
+last_updated: "2014-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO PUBLICO DE AGUA POTABLE Y SERVICIOS COMPLEMENTARIOS PARA EL MUNICIPIO DE GUANAJUATO, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2014.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de noviembre de 2009.
 
@@ -593,27 +593,43 @@ El SIMAPAG será responsable solidario por los daños causados por los servidore
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN Y FACULTADES DEL SIMAPAG
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2014)</small>
+
 ###### Artículo 61.
 
-El SIMAPAG, para el estudio, planeación, dirección, ejecución, evaluación y despacho de los asuntos de su competencia, estará dirigido y administrado por un Consejo Directivo, integrado por un Consejero Presidente, un Consejero Secretario, un Consejero Financiero, un Consejero Jurídico y seis Consejeros Vocales quienes durarán en su encargo cuatro años. El Consejo se renovará por mitad cada dos años.
+El SIMAPAG, para el estudio, planeación, dirección, ejecución, evaluación y despacho de los asuntos de su competencia, estará dirigido y administrado por un Consejo Directivo, el cual se integrará de la siguiente manera: un Consejero Presidente, un Consejero Secretario, un Consejero Financiero, un Consejero Jurídico y seis Consejeros Vocales, dicho Consejo durará en su encargo un periodo de tres años.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2014)</small>
+
+La Comisión de Contraloría y Fiscalización del Honorable Ayuntamiento se encargara de la vigilancia y del estudio de los asuntos relacionados con la operación del SIMAPAG.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2014)</small>
+
+Los miembros de la Comisión de manera enunciativa y no limitativa contarán con las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
+
+I. Asistir a las sesiones del Consejo, para lo cual deberán ser convocados como si fuesen Consejeros, lo anterior, previa notificación de la convocatoria que se haga en los términos de este Reglamento.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2011)</small>
-
-El Honorable Ayuntamiento a propuesta del Presidente Municipal, designará un Comité de Vigilancia para que sus miembros además del estudio de los asuntos del servicio, puedan acudir a las sesiones del Consejo Directivo. Lo anterior, previa notificación de la convocatoria que en los términos de este Reglamento deberá efectuar el mencionado Consejo.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2011)</small>
-
-Dicho Comité deberá integrarse con cuando menos tres miembros del Honorable Ayuntamiento que tengan preferentemente un perfil técnico, jurídico y administrativo respectivamente y tendrán las siguientes atribuciones:
-
-I. Asistir a las sesiones del Consejo, para lo cual deberán ser convocados como si fuesen Consejeros;
 
 II. Participar con derecho a voz pero sin voto en las sesiones del Consejo; y,
 
-III. Solicitar y obtener del Consejo, así como de las áreas operativas del SIMAPAG, toda la información que requieran para cumplir con la finalidad de su función de representante del órgano máximo de Gobierno del Municipio.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
+
+III. Solicitar y obtener del Consejo, así como de las áreas operativas del SIMAPAG, los informes que requieran para cumplir con la finalidad de vigilancia que se les encomendó, pudiendo con ello emitir parámetros para evaluar el desempeño de los miembros de dicho Consejo, los cuales serán tomados en cuenta en el momento en que se haga la propuesta de reelección contemplada en el artículo 61 BIS del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2014)</small>
+
+###### Artículo 61 Bis.
+
+El Consejo Directivo podrá ser ratificado para seguir desempeñando su cargo por un periodo igual a propuesta del Presidente Municipal, la cual deberá de ser aprobada por el H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2014)</small>
 
 ###### Artículo 62.
 
-Con el propósito de renovar el Consejo Directivo en los términos del artículo anterior, el Ayuntamiento designará a propuesta del Presidente Municipal, una Comisión plural. Dicha Comisión será la responsable de establecer las bases para el proceso de convocatoria y dictámenes de integración del Consejo Directivo del SIMAPAG, mismos que deberán ser aprobados por el pleno del Ayuntamiento.
+En caso de que el Ayuntamiento no apruebe la propuesta enunciada en el artículo anterior, o bien, no se haya realizado ninguna propuesta, para efecto de renovar el Consejo Directivo, la Comisión de Contraloría y Fiscalización del Honorable Ayuntamiento será la responsable de establecer las bases para el proceso de convocatoria y dictámenes para la integración del Consejo Directivo del SIMAPAG, mismos que deberán ser aprobados por el pleno del Ayuntamiento.
 
 ###### Artículo 63.
 
@@ -639,9 +655,11 @@ VIII. Industria minera.
 
 La convocatoria deberá ser firmada por el Presidente Municipal y será publicada en dos ocasiones con intervalo de dos días naturales en los periódicos de mayor circulación en el Municipio y en la página web del SIMAPAG.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2014)</small>
+
 ###### Artículo 65.
 
-El Ayuntamiento dentro de la segunda quincena del mes de marzo de cada dos años, emitirá la convocatoria referida, para la integración del Consejo Directivo.
+Dentro de la segunda quincena del mes de marzo del año en que termine su encargo el Consejo Directivo, el Ayuntamiento emitirá la convocatoria para la integración del nuevo Consejo Directivo.
 
 ###### Artículo 66.
 
@@ -667,9 +685,11 @@ VIII. Contar con credencial para votar.
 
 IX. Acreditar una escolaridad mínima de preparatoria terminada, bachillerato o su equivalente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2014)</small>
+
 ###### Artículo 67.
 
-Una vez cerrado el registro, la Secretaría del Ayuntamiento, revisará en un solo acto, los expedientes de los propuestos y en acta circunstanciada asentará los datos de quienes cumplieron los requisitos solicitados, detallando los documentos probatorios con los que se acredite el cumplimiento de las referidas exigencias. Asimismo, se anotará a quienes no los hayan cubierto, remitiendo todos los expedientes, dentro de las cuarenta y ocho horas siguientes, a la Comisión del Ayuntamiento designada para tal efecto.
+Una vez cerrado el registro, la Secretaría del Ayuntamiento, revisará en un solo acto, los expedientes de las personas propuestas y en acta circunstanciada asentará los datos de aquellas que cumplieron los requisitos solicitados, detallando los documentos con los que se acredite dicha situación. Asimismo, se anotará a quienes no los hayan cubierto, remitiendo todos los expedientes, dentro de las cuarenta y ocho horas siguientes, a la Comisión de Contraloría y Fiscalización del Honorable Ayuntamiento.
 
 La Comisión analizará las propuestas tomando en cuenta el perfil y la experiencia laboral de los ciudadanos que cumplieron con los requisitos exigidos por este Reglamento y por la convocatoria, presentando el dictamen respectivo que contenga los nombres de los diez consejeros propietarios, cada uno con su respectivo consejero suplente, al pleno del Ayuntamiento en la siguiente sesión para su aprobación.
 
@@ -1456,3 +1476,13 @@ SECRETARIO DEL H. AYUNTAMIENTO
 P.O. 28 DE JUNIO DE 2011.
 
 ÚNICO: Las adiciones a que se refiere el presente acuerdo surtirán sus efectos y entrarán en vigor a partir del quinto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE MARZO DE 2014.
+
+Primero.- Las presentes modificaciones entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Segundo.- Los miembros del Consejo Directivo que se encuentren en funciones antes de la entrada en vigor de la presente reforma, y que deberían de concluir su periodo de encargo en el 2014, se ampliara su encargo hasta el año 2016, sin posibilidad de ser ratificados en los términos de la reforma que aquí se contempla.
+
+Tercero.- La otra parte del Consejo Directivo que se encuentra en funciones actualmente y concluye su encargo en el 2016, no tendrá derecho a ser ratificado en los términos de la reforma al Reglamento que se enuncia.
+
+Cuarto.- Respecto de los Consejeros que se mencionan en el artículo segundo transitorio del presente documento, estarán sujetos a que cada seis meses se les efectúe una evaluación en lo individual por parte de la Comisión de Contraloría y Fiscalización del Honorable Ayuntamiento con la finalidad de observar su correcto desempeño en su encargo; pudiendo derivar en caso de que se detecten inconsistencias en la revocación de esa ampliación de dos años en el cargo.
