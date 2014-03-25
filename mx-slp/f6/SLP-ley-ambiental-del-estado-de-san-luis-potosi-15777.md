@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2013-08-01"
+last_updated: "2014-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1701,9 +1701,23 @@ I. El uso de sistemas de reciclamiento de desechos sólidos para disminuir su ca
 
 II. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos urbanos y residuos de manejo especial;
 
-III. La fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos, y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
 
-IV. Que los lodos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales que no se consideren como residuos peligrosos, se les dé la disposición final adecuada en los términos que así lo determine normativamente la SEGAM.
+III. La fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
+
+IV. Que los lodos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales que no se consideren como residuos peligrosos, se les dé la disposición final adecuada en los términos que así lo determine normativamente la SEGAM; y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2014)</small>
+
+V. La exhaustiva supervisión, vigilancia y sanción sobre los siguientes temas de competencia concurrente:
+
+a) La incineración de residuos sólidos urbanos por parte de particulares.
+
+b) El arrojo o depósito de basura por parte de particulares en la vía pública, en terrenos baldíos, y en áreas verdes.
+
+c) La entrega gratuita por parte de establecimientos comerciales y mercantiles, de bolsas de plástico para el traslado de mercancías; procurando entregar bolsas reusables a sus clientes, que sean preferentemente reciclables.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -1743,13 +1757,13 @@ VI. El vertido directo de lodos provenientes de procesos industriales y de las p
 
 VII. La circulación de vehículos en áreas urbanas o consideradas como tales, según los respectivos planes o programas de desarrollo urbano y ordenamiento ecológico, y conforme al respectivo reglamento, cuando su carga contenga sustancias peligrosas, ya fueren materias primas, productos, subproductos, desechos o residuos;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
 
-VIII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado, y
+VIII. La incineración de residuos sólidos urbanos, y de residuos de manejo especial en el Estado, y el arrojo o depósito de basura en la vía pública, en terrenos baldíos y áreas verdes o de equipamiento urbano, y
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
 
-IX. La dádiva de bolsas de plástico o polietileno por parte de establecimientos mercantiles, utilizadas para la trasportación, contención y envase de los productos que comercialicen. Esta prohibición quedará sin efecto en el caso de que las bolsas de plástico utilizadas, cuenten con la calidad de biodegradables.
+IX. La dádiva de bolsas de plástico o polietileno por parte de establecimientos mercantiles, utilizadas para la trasportación, contención y envase de los productos que comercialicen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -2948,6 +2962,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación, en
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 1 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
