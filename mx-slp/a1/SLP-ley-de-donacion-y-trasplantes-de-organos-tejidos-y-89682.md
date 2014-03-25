@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-donacion-y-trasplantes-de-organos-tejidos-y-89682"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-15"
-last_updated: "2012-09-15"
+last_updated: "2014-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 25 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 15 de septiembre de 2012.
 
@@ -1026,3 +1028,23 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MARZO DE 2014.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Decreto, se abroga la Ley de Donación y Transplantes (sic) de Órganos, Tejidos y Componentes para el Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el quince de septiembre de dos mil doce.
+
+TERCERO. Se derogan todas aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
+
+CUARTO. Los recursos económicos, créditos, bienes muebles e inmuebles, y, en general, el patrimonio que pertenecía al Centro Estatal de Trasplantes instituido mediante la Ley que se abroga, pasarán a formar parte del organismo que se crea mediante el presente Decreto.
+
+QUINTO. El personal del Centro Estatal de Trasplantes creado por la Ley que se abroga, pasará a formar parte de la plantilla laboral del Centro Estatal de Trasplantes que se crea mediante este Decreto, sin que se afecten los derechos que se hayan adquirido en virtud de su relación laboral con el primer ente.
+
+SEXTO. Los asuntos de trámite, los derechos, obligaciones, compromisos laborales, así como de otra naturaleza que correspondan al Centro Estatal de Trasplantes creado por la Ley que se abroga, con la entrada en vigor de este Decreto, pasarán íntegramente a formar parte del organismo que se crea mediante éste.
+
+SÉPTIMO. Todos aquellos actos que se hayan realizado por el Centro Estatal de Trasplantes creado por la Ley que se abroga, seguirán contando con plena validez legal, por lo que los derechos, obligaciones y demás actos jurídicos contraídos por ese organismo se declaran subsistentes.
+
+OCTAVO. El Reglamento de esta Ley, así como el Reglamento Interior del Centro Estatal de Trasplantes, que se crea mediante este Decreto, deberán ser expedidos y publicados en el Periódico Oficial del Estado, dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
