@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-57923"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2010-07-07"
+last_updated: "2014-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 26 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -705,7 +707,7 @@ IV. A uno de sus ascendientes; y
 
 V. A cualquier otra persona de las que dependan económicamente de él.
 
-En los casos a que se refieren las fracciones III, lV y V, si al fallecimiento del concesionario resultan dos o más personas con derecho a heredar, estas gozarán de treinta días a partir de la muerte del concesionario para decidir quién, de entre ellos, conservará los derechos de explotación de la Concesión. En caso de que no se pusieran de acuerdo, el titular del Poder Ejecutivo emitirá la convocatoria correspondiente para su concurso.
+En los casos a que se refieren las fracciones III, IV y V, si al fallecimiento del concesionario resultan dos o más personas con derecho a heredar, estas gozarán de treinta días a partir de la muerte del concesionario para decidir quién, de entre ellos, conservará los derechos de explotación de la Concesión. En caso de que no se pusieran de acuerdo, el titular del Poder Ejecutivo emitirá la convocatoria correspondiente para su concurso.
 
 Si el titular de la concesión es demandado por alimentos, la autoridad judicial, sólo podrá decretar medida cautelar, sobre el producto de los derechos de explotación y no sobre la concesión.
 
@@ -1103,7 +1105,7 @@ El titular de la Dirección General de Transportes será el responsable del Regi
 
 La Secretaría de Seguridad Pública, a través de las áreas que para tal efecto designe, remitirá a la Dirección General de Transportes la información a que se refiere la fracción VI del artículo 74 de esta ley, y tendrá acceso al Registro Estatal de Concesionarios y Permisionarios del Servicio de Transporte Público para poder ejercer debidamente la supervisión, el control y la vigilancia del transporte.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 2 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 74.
 
@@ -1211,7 +1213,7 @@ I.- Operar las unidades con precaución y seguridad para no poner en peligro la 
 
 II.- Realizar ascenso y descenso de pasaje, sólo en los lugares autorizados para tal efecto;
 
-IlI.- Mantener una buena presentación;
+III.- Mantener una buena presentación;
 
 IV.- No exceder la cantidad de pasajeros señalada para cada vehículo;
 
@@ -1299,9 +1301,9 @@ La publicidad que porten los vehículos destinados al servicio de transporte pú
 
 La Publicidad se clasifica en:
 
-l.- Denominativa: Cuando contenga nombre o razón social, profesión o actividad a la que se dedica la persona física o moral de que se trate;
+I.- Denominativa: Cuando contenga nombre o razón social, profesión o actividad a la que se dedica la persona física o moral de que se trate;
 
-II.- ldentificativa: Ya sea de una negociación o un producto como los son (sic) logotipos de propaganda, marcas, productos, eventos, servicios o actividades análogas, para promover su venta, uso o consumo;
+II.- Identificativa: Ya sea de una negociación o un producto como los son (sic) logotipos de propaganda, marcas, productos, eventos, servicios o actividades análogas, para promover su venta, uso o consumo;
 
 III.- Religiosa;
 
@@ -1309,7 +1311,7 @@ IV.- Cívica; y
 
 V.- Electoral y/o Política.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 89.
 
@@ -1423,7 +1425,7 @@ En caso de que se detecte un vehículo operando servicios de transporte público
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
 ###### ARTÍCULO 106.
 
@@ -1617,7 +1619,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE MARZO DE 2008.
 
@@ -1688,3 +1690,27 @@ EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL
 ###### ARTÍCULO SEGUNDO.
 
 APROBADO QUE SEA REMÍTASE EL PRESENTE, AL TITULAR DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PARA LOS EFECTOS DE LO DISPUESTO EN LOS ARTÍCULOS 44 Y 70 FRACCIÓN XVII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+P.O. 26 DE MARZO DE 2014.
+
+Primero.- Remítase la presente Ley al Gobernador Constitucional del Estado de Morelos, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de Difusión del Gobierno del Estado de Morelos.
+
+Segundo.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+Tercero.- Se abroga la Ley de Transporte del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 4576, el día 12 de diciembre del año 2007 y, se derogan las demás disposiciones legales que se opongan a lo establecido en la presente Ley.
+
+Cuarto.- Los Procedimientos de transmisión de concesiones que se hayan iniciado antes de la entrada en vigor de la presente Ley, se resolverán hasta su total resolución con las disposiciones de la Ley de Transporte del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 4576, el día 12 de diciembre del año 2007.
+
+Quinto.- Las infracciones cometidas con anterioridad a la entrada en vigor de esta Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
+
+Sexto.- Las personas físicas o morales que al entrar en vigor la presente Ley, tengan solicitudes de concesiones, permisos o autorizaciones en trámite, se resolverán en los términos previstos en las disposiciones vigentes.
+
+Séptimo.- Se otorga un plazo de noventa días hábiles, contados a partir de la entrada en vigor de la presente Ley para que el Consejo Consultivo de Transporte, determine la plataforma de rastreo del Sistema de Posicionamiento Global que deberán de utilizar los concesionarios y la Secretaría.
+
+Octavo.- Se otorga un plazo improrrogable de seis meses, contados a partir de la entrada en vigor de la presente Ley, para hacer efectivas las disposiciones de este ordenamiento en materia de rastreo del Sistema de Posicionamiento Global.
+
+Noveno.- Se otorga un plazo de seis meses improrrogables, contados a partir de la entrada en vigor de la presente Ley, para hacer efectivas las disposiciones de este ordenamiento en materia de sustitución de vehículos.
+
+Décimo.- El Gobernador Constitucional del Estado de Morelos dispondrá lo necesario, para que en un plazo de noventa días hábiles, se expida el Reglamento derivado de la presente Ley.
+
+Décimo Primero.- El Gobernador Constitucional del Estado de Morelos, dispondrá lo necesario para realizar las reformas pertinentes al Reglamento Interior de la Secretaría de Movilidad y Transporte en un plazo no mayor a 30 días hábiles.
