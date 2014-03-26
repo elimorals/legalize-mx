@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2013-05-15"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -575,7 +575,9 @@ III.- Secretaría de Educación;
 
 IV.- Secretaría de Salud;
 
-V.- Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+V.- Comisión Estatal de Seguridad Pública;
 
 VI.- Procuraduría General de Justicia del Estado;
 
@@ -705,7 +707,9 @@ XII.- Celebrar convenios de cooperación y coordinación económica para financi
 
 XIII.- Las demás previstas para el cumplimiento de la presente ley.
 
-#### SECCIÓN SEXTA. DE LA SECRETARIA DE SEGURIDAD PÚBLICA
+#### SECCIÓN SEXTA. DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 53.
 
@@ -781,11 +785,13 @@ XI.- Establecer programas temáticos sobre la no discriminación y erradicación
 
 XII.- Las demás previstas para el cumplimiento de la presente ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2014)</small>
+
 #### SECCIÓN NOVENA. DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### Artículo 56.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Corresponde a la Comisión Estatal de Seguridad Pública:
 
 I.- Diseñar la política en materia de seguridad pública para la prevención, atención y erradicación de la violencia contra las mujeres en el marco de la política integral con perspectiva de género;
 
@@ -1096,3 +1102,15 @@ Artículo Primero.- El presente decreto iniciará su vigencia a partir del día 
 Artículo Segundo.- Remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan con lo dispuesto por el presente decreto.
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal Seguridad Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
