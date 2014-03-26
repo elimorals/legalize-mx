@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-cultura-del-estado-9051
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-05"
-last_updated: "2012-12-05"
+last_updated: "2014-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2012.
 
@@ -67,21 +67,35 @@ I. Subsecretaría de Desarrollo Cultural Comunitario;
 
 II. Subsecretaría de Fomento a las Artes;
 
-III. Subsecretaría de Patrimonio Cultural;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Dirección General de Desarrollo Cultural;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+III. Subsecretaría de Patrimonio Cultural y Artístico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+IV. (DEROGADA, P.O. 26 DE MARZO DE 2014)
 
 V. Dirección General de Música;
 
-VI. Dirección General de Museos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Dirección General de de (sic) Arte Popular;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+VI. Dirección General de Museos y Exposiciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VII. (DEROGADA, P.O. 26 DE MARZO DE 2014)
 
 VIII. Dirección General de Administración;
 
 IX. Dirección General Jurídica;
 
-X. Dirección General de Planeación y Evaluación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+X. (DEROGADA, P.O. 26 DE MARZO DE 2014)
 
 XI. Dirección General de Difusión, y
 
@@ -89,31 +103,31 @@ XII. Dirección General de la Comisión de Filmaciones.
 
 Las Unidades Administrativas se integrarán por sus titulares, Directores de Área, Subdirectores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que se señalen en el Manual de Organización, y según la disponibilidad presupuestal de la Secretaría, y ejercerán sus atribuciones de conformidad con las disposiciones jurídicas aplicables, ajustándose a los lineamientos, políticas internas que fije la persona titular de la Secretaría.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 4.
 
-La Secretaría se organizará de la siguiente manera:
+La Secretaría, se organizará de la siguiente manera:
 
-I. Dependerán directamente de la persona titular de la Secretaría las siguientes Direcciones Generales:
+I. Dependerán directamente de la persona titular de la Secretaría:
 
-a) Dirección General Jurídica;
+a) La Dirección General Jurídica;
 
-b) Dirección General de Administración;
+b) La Dirección General de Administración, y
 
-c) Dirección General de Planeación y Evaluación;
+c) La Dirección General de Difusión.
 
-d) Dirección General de Difusión, y
+II. La persona titular de la Subsecretaría de Desarrollo Cultural Comunitario, tendrá a su cargo las unidades administrativas encargadas de desarrollar los programas de cultura comunitaria;
 
-e) Dirección General de la Comisión de Filmaciones.
+III. La persona titular de la Subsecretaría de Fomento a las Artes tendrá a su cargo:
 
-II. La persona titular de la Subsecretaría de Desarrollo Cultural Comunitario tendrá a su cargo la Dirección General de Desarrollo Cultural;
+a) La Dirección General de Música, y
 
-III. La persona titular de la Subsecretaría de Fomento a las Artes tendrá a su cargo la Dirección General de Música, y
+b) La Dirección General de la Comisión de Filmaciones.
 
-IV. La persona titular de la Subsecretaría de Patrimonio Cultural tendrá a su cargo las siguientes:
-
-a) Dirección General de Museos, y
-
-b) Dirección General de Arte Popular.
+IV. La persona titular de la Subsecretaría de Patrimonio Cultural y Artístico tendrá a su cargo la Dirección General de Museos y Exposiciones.
 
 ###### Artículo 5.
 
@@ -131,7 +145,11 @@ La representación de la Secretaría, así como el trámite y resolución de los
 
 La persona titular de la Secretaría tendrá las siguientes atribuciones específicas:
 
-I. Conducir las actividades de la Secretaría conforme a lo establecido en el Plan Estatal de Desarrollo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+I. Impulsar, coordinar y desarrollar las actividades artísticas y culturales en el Estado, incluyendo las relacionadas con el desarrollo del arte popular, conforme a lo establecido en el Plan Estatal de Desarrollo, para lo cual podrá apoyarse en los organismos públicos descentralizados que se encuentren sectorizados a la Secretaría;
 
 II. Establecer la planeación, organización, integración, dirección, control y evaluación de las actividades de la Secretaría;
 
@@ -151,7 +169,11 @@ IX. Proponer el anteproyecto anual del Presupuesto de Egresos de la Secretaría 
 
 X. Elaborar el Programa Operativo Anual de la Secretaría y presentarlo ante la Secretaría de Hacienda para su respectiva aprobación;
 
-XI. Otorgar los nombramientos de los titulares de las Unidades Administrativas y Órganos Desconcentrados de la Secretaría;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XI. Otorgar y revocar los nombramientos de los titulares de las Unidades Administrativas que integran la estructura de la Secretaría; así como nombrar y remover a los empleados de confianza que integren el personal de la Secretaría en términos de la Ley del Servicio Civil del Estado de Morelos;
 
 XII. Resolver las dudas que se susciten sobre la interpretación o aplicación del presente Reglamento y sobre los casos no previstos en el mismo;
 
@@ -211,6 +233,10 @@ XVI. Diseñar los mecanismos de coordinación y participación concertada con lo
 
 XVII. Las demás que determinen las disposiciones jurídicas aplicables y le delegue la persona titular de la Secretaría.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 10.
 
 La persona titular de la Subsecretaría de Desarrollo Cultural Comunitario tendrá las siguientes atribuciones:
@@ -219,57 +245,59 @@ I. Diseñar y operar los programas que promuevan el desarrollo cultural de los h
 
 II. Coordinar los programas de cultura local con los del Gobierno Federal y Municipal;
 
-III. Establecer estrategias, a través de promotores culturales, que extiendan servicios culturales y artísticos a la población del Estado;
+III. Crear redes sociales para impulsar el intercambio cultural y artístico entre las comunidades, creadores, promotores y gestores culturales;
 
-IV. Crear redes sociales para impulsar el intercambio cultural y artístico entre las comunidades, creadores, promotores y gestores culturales;
+IV. Propiciar la creación de espacios comunitarios para la convivencia social a partir de la satisfacción de las necesidades de expresión y manifestación cultural y artística;
 
-V. Propiciar la creación de espacios comunitarios para la convivencia social a partir de la satisfacción de las necesidades de expresión y manifestación cultural y artística;
+V. Establecer contacto con promotores, gestores culturales y sociales a fin de realizar esfuerzos conjuntos para satisfacer las necesidades culturales en el mayor número de comunidades;
 
-VI. Establecer contacto con promotores, gestores culturales y sociales a fin de realizar esfuerzos conjuntos para satisfacerlas necesidades culturales en el mayor número de comunidades;
+VI. Obtener, analizar y procesar la información acerca de los requerimientos de capacitación de los promotores y gestores culturales institucionales e independientes, a fin de elaborar los programas de capacitación correspondientes;
 
-VII. Obtener, analizar y procesar la información acerca de los requerimientos de capacitación de los promotores y gestores culturales institucionales e independientes, a fin de elaborar los programas de capacitación correspondiente;
+VII. Fomentar el acceso a bienes, servicios artísticos y culturales de calidad en las comunidades, así como desarrollar metodologías que impulsen el uso y aprovechamiento cultural de los espacios públicos;
 
-VIII. Fomentar el acceso a bienes, servicios artísticos y culturales de calidad en las comunidades, así como desarrollar metodologías que impulsen el uso y aprovechamiento cultural de los espacios públicos;
+VIII. Generar y operar los programas que permitan apoyar la creación literaria, la difusión editorial y el hábito de la lectura entre los habitantes del Estado;
 
-IX. Fomentar el acceso a bienes y servicios artísticos y culturales de calidad en las comunidades, así como desarrollar metodologías que impulsen el uso y aprovechamiento cultural de los espacios públicos;
+IX. Crear, diseñar y operar los Centros Culturales Comunitarios, así como los espacios orientados a la promoción, fomento, formación y enseñanza de las artes y oficios, a partir de las necesidades de expresión cultural y artística de los morelenses;
 
-X. Diseñar y operar las Fábricas de Artes y Oficios como espacios orientados a la promoción, fomento, formación y enseñanza de las disciplinas artísticas y oficios;
+X. Definir un plan estratégico que permita el desarrollo de la industria cultural como un sector de la economía generadora de empleos y de producción artística y cultural;
 
-XI. Definir un plan estratégico que permita el desarrollo de la industria cultural como un sector de la economía generadora de empleos y de producción artística y cultural;
+XI. Promover, en conjunto con las instancias públicas, privadas y sociales, proyectos culturales y artísticos individuales y colectivos que les permitan su desarrollo y vinculación con las comunidades del Estado;
 
-XII. Promover, en conjunto con las instancias públicas, privadas y sociales, proyectos culturales y artísticos individuales y colectivos que les permitan su desarrollo y vinculación con las comunidades del Estado;
+XII. Gestionar, previa autorización de la persona titular de la Secretaría, con las distintas autoridades de la Administración Pública Estatal, los apoyos necesarios para incrementar, asegurar y difundir la capacidad de producción creativa de las empresas culturales;
 
-XIII. Gestionar, previa autorización de la persona titular de la Secretaría con las distintas autoridades de la Administración Pública Estatal, los apoyos necesarios para incrementar, asegurar y difundir la capacidad de producción creativa de las empresas culturales;
+XIII. Vincular a la Secretaría, previa autorización de la persona titular de la Secretaría, con las instancias Municipales, Estatales y Federales, Académicas, Internacionales, así como Asociaciones Civiles y Empresariales, para promover y ampliar la oferta de las actividades Culturales y Artísticas en el Estado;
 
-XIV. Diseñar y operar los programas que impulsen el desarrollo de actividades artísticas y culturales en los Municipios en coordinación con sus autoridades;
+XIV. Institucionalizar la coordinación y la vinculación con los regidores y las áreas de cultura de todos los Municipios del Estado y las Organizaciones de la Sociedad Civil dedicadas a la Cultura y las Artes para ampliar la cobertura de la promoción, el desarrollo y la difusión de las artes y la cultura, con el objeto de potenciar los recursos y avanzar en el acceso con equidad al derecho a la cultura;
 
-XV. Vincular a la Secretaría, previa autorización de la persona titular de la Secretaría, con las instancias municipales, estatales y federales, académicas, internacionales, así como asociaciones civiles y empresariales para promover y ampliar la oferta de las actividades culturales y artísticas en el Estado;
+XV. Apoyar a los Municipios en la definición e implementación de políticas culturales y artísticas comunitarias;
 
-XVI. Promover la creación de Consejos Municipales de Fomento y Desarrollo Cultural, así mismo, apoyar en la elaboración de sus planes de trabajo, así como establecer mecanismos de coordinación con los Municipios del Estado para el desarrollo de eventos culturales y de proyectos de desarrollo cultural comunitario;
+XVI. Proponer el establecimiento de vínculos de colaboración en materia de cultura con las Organizaciones Estatales, Nacionales e Internacionales que desarrollen actividades afines;
 
-XVII. Institucionalizar la coordinación y la vinculación con los regidores y las áreas de cultura de todos los Municipios del Estado y las organizaciones de la sociedad civil dedicadas a la cultura y las artes para ampliar la cobertura de la promoción, el fenómeno, desarrollo y la difusión de las artes y la cultura, con el objeto de potenciar los recursos y avanzar en el acceso con equidad al derecho a la cultura;
+XVII. Coordinar con las diversas Unidades Administrativas de la Secretaría, el apoyo a las organizaciones de la sociedad en materia de cultura;
 
-XVIII. Apoyar a los Municipios en la definición e implementación de políticas culturales comunitarias;
+XVIII. Elaborar y mantener actualizado un directorio de organizaciones de la sociedad civil dedicadas a la cultura y las artes para los fines específicos de la Subsecretaría;
 
-XIX. Proponer el establecimiento de vínculos de colaboración en materia de cultura con las organizaciones estatales, nacionales e internacionales que desarrollen actividades afines;
+XIX. Ejecutar los proyectos y programas especiales que requieran de la participación de diferentes niveles e instancias de gobierno, actores privados y sociales, así como de diversas Unidades Administrativas de la Secretaría, y
 
-XX. Coordinar con las diversas Unidades Administrativas de la Secretaría de Cultura el apoyo a las organizaciones de la sociedad en materia de cultura;
-
-XXI. Elaborar y mantener actualizado un directorio de organizaciones de la sociedad civil dedicadas a la cultura y las artes para los fines específicos de la Subsecretaría;
-
-XXII. Ejecutar los proyectos y programas especiales que, requieran de la participación de diferentes niveles e instancias de gobierno, actores privados y sociales, así como de diversas Unidades Administrativas de la Secretaría de Cultura, y
-
-XXIII. Las demás que determinen las disposiciones jurídicas aplicables y le delegue la persona titular de la Secretaría.
+XX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
 
 ###### Artículo 11.
 
 La persona titular de la Subsecretaría de Fomento a las Artes tendrá las siguientes atribuciones:
 
-I. Generar los mecanismos que permitan apoyar, preservar y difundir las manifestaciones y producciones artísticas en todos sus géneros, de manera colectiva e individual en todos los sectores de la sociedad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+I. Fomentar, preservar y difundir todas las expresiones culturales del Estado, así como generar los mecanismos que permitan apoyar, preservar y difundir las manifestaciones y producciones artísticas en todos sus géneros, de manera colectiva e individual en todos los sectores de la sociedad;
 
 II. Generar los mecanismos para otorgar reconocimientos y estímulos a los creadores artísticos, investigadores, intérpretes, cronistas o promotores culturales, estableciendo los procedimientos de evaluación para ese efecto, bajo los principios de objetividad, imparcialidad y equidad;
 
-III. Generar las estrategias que fomenten y difundan el trabajo de los creadores artísticos morelenses en todas las disciplinas, así como promover ante las instancias correspondientes, previa autorización de la persona titular de la Secretaría la apertura de nuevos centros culturales y expresión artística;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+III. Generar las estrategias que fomenten, preserven y difundan el trabajo de los creadores artísticos morelenses en todas las disciplinas, así como promover ante las instancias correspondientes, previa autorización de la persona titular de la Secretaría, la apertura de nuevos centros culturales y de expresión artística;
 
 IV. Generar y operar los programas de fomento musical en el Estado;
 
@@ -297,63 +325,133 @@ XV. Formar un catálogo de artistas y grupos musicales con el fin de disponer de
 
 XVI. Proponer el calendario de festividades, proyectos, exhibiciones y eventos en espacios públicos y recintos culturales;
 
-XVII. Generar y operar los programas que permitan apoyar la creación literaria, la difusión editorial, y el hábito de la lectura entre los habitantes del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVIII. Administrar y programar las actividades de las compañías y elencos artísticos, teatros y centros culturales que se encuentren adscritos, y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-XIX. Las demás que determinen las disposiciones jurídicas aplicables y le delegue la persona titular de la Secretaría.
+XVII. Administrar y programar las actividades de las compañías y elencos artísticos, teatros y centros culturales que se encuentren adscritos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XVIII. Programar, producir y coordinar los eventos o festivales, culturales o artísticos, que realice la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XIX. Programar y coordinar la presentación de los eventos o festivales, culturales o artísticos, en los que participe la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XX. Establecer los programas, proyectos y actividades de las Unidades Administrativas de la Secretaría, de acuerdo a las actividades que desarrolle cada una de ellas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XXI. Generar mensualmente la programación de eventos y festivales en materia cultural, que celebrará la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XXII. Proponer y supervisar la producción de eventos culturales, así como realizar la planificación cultural de los eventos a desarrollar por la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XXIII. Proporcionar a la Dirección de Difusión, en periodos mensuales, la información necesaria, para que esta sea incluida en los medios de difusión que utiliza la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XXIV. Gestionar y Programar nuevos festivales culturales en el Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XXV. Programar en los Municipios del Estado actividades culturales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XXVI. Establecer programas y políticas tendientes a la promoción de proyectos de la industria audiovisual y cinematográfica, a través de la Dirección General de la Comisión de Filmaciones, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XXVII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 12.
 
-La persona titular de la Subsecretaría de Patrimonio Cultural tendrá las siguientes atribuciones:
+La persona titular de la Subsecretaría de Patrimonio Cultural y Artístico tendrá las siguientes atribuciones:
 
-I. Generar las acciones para preservar y difundir el patrimonio cultural material e inmaterial del Estado, y procurar la conservación y fortalecimiento de todas sus expresiones culturales, en coordinación con las instancias competentes;
+I. Generar las acciones para preservar y difundir el patrimonio cultural material e inmaterial del Estado, y procurar la conservación y fortalecimiento de todas sus expresiones, en coordinación con las instancias competentes;
 
 II. Promover el desarrollo cultural de los habitantes del Estado y coordinar los programas de cultura local en el tema de patrimonio cultural, con los del Gobierno Federal;
 
-III. Generar los lineamientos para la salvaguarda, preservación, restauración, exhibición, uso y mantenimiento del acervo cultural e histórico que les sea conferido;
+III. Generar los lineamientos para la salvaguarda, mantenimiento y difusión del acervo cultural e histórico que le sea conferido;
 
-IV. Apoyar, preservar y difundir el patrimonio materia e inmaterial, de manera colectiva e individual en todos los sectores de la sociedad, así como otorgar reconocimientos y estímulos a los investigadores, cronistas o promotores culturales, estableciendo los procedimientos de evaluación para tal efecto, bajo los principios de objetividad, imparcialidad y equidad;
+IV. Registrar, preservar y difundir el patrimonio material e inmaterial, de manera colectiva e individual en todos los sectores de la sociedad, así como incentivar reconocimientos y estímulos a los investigadores, cronistas o promotores culturales, estableciendo los criterios para tal efecto, bajo los principios de objetividad, imparcialidad y equidad;
 
-V. Propiciar la participación estatal en la administración y preservación de los bienes muebles e inmuebles que constituyen en patrimonio arqueológico, histórico, artístico y cultural de la Entidad, en el ámbito de su competencia, y mantener la actualización de su inventario, proponiendo las adquisiciones que en su caso correspondan;
+V. Propiciar la participación Estatal en el registro, la administración y preservación de los bienes muebles e inmuebles que constituyen el patrimonio arqueológico, histórico, artístico y cultural de la Entidad, en el ámbito de su competencia, y mantener la actualización de su inventario;
 
-VI. Impulsar el desarrollo de las actividades para la preservación y difusión del patrimonio cultural en los Municipios, en coordinación con las autoridades correspondientes, así como promover la realización de otras formas de participación cultural;
+VI. Impulsar el desarrollo de las actividades para la salvaguarda y difusión del patrimonio cultural en los municipios, en coordinación con las autoridades correspondientes, así como promover la participación cultural de la comunidad;
 
-VII. Fomentar, apoyar y difundir el trabajo de los investigadores, cronistas y promotores culturales, en torno al patrimonio cultural de la Entidad;
+VII. Fomentar, apoyar y difundir el trabajo de los investigadores, cronistas, creadores y promotores culturales, en torno al patrimonio cultural de la Entidad;
 
-VIII. Promover acciones tendientes a fomentar los valores cívicos y las conductas que refuercen los derechos culturales en el Estado mediante la implementación de programas con los sectores públicos y privados para la preservación del patrimonio cultural;
+VIII. Promover acciones tendientes a fomentar los valores cívicos y las prácticas que refuercen el ejercicio de los derechos culturales en el Estado mediante la implementación de programas con los sectores públicos y privados para la preservación del patrimonio cultural;
 
-IX. Incentivar y promover la ceración y ampliación de diversas opciones de organización, administración y financiamiento que permitan impulsar y fortalecer el mejoramiento y la rehabilitación de la infraestructura cultural, con diferentes organismos de la Administración Pública Estatal, así como del sector privado;
+IX. Incentivar y promover la creación y ampliación de diversas opciones de organización, administración y financiamiento que permitan impulsar y fortalecer el mejoramiento y la rehabilitación de la infraestructura cultural, con diferentes organismos de la Administración Pública Estatal y Federal, así como del sector privado;
 
 X. Fomentar el desarrollo y la promoción de los museos a cargo de la Secretaría, así como de los museos comunitarios en la Entidad;
 
-XI. Generar acciones que hagan efectiva la participación de los habitantes del Estado en la preservación del patrimonio cultural que fomenten su desarrollo integral;
+XI. Generar acciones que hagan efectiva la participación de los habitantes del Estado en la salvaguarda del patrimonio cultural que fomenten su desarrollo integral;
 
-XII. Elaborar, difundir y mantener vigentes las políticas, criterios y lineamientos administrativos para regular la utilización, custodia, clasificación y conservación de los documentos que forman parte del acervo histórico del Estado;
+XII. Elaborar, difundir y aplicar las políticas, criterios y lineamientos administrativos para regular la custodia, clasificación y conservación de los documentos que forman parte del acervo histórico del estado de Morelos, en coordinación con el Instituto Estatal de Documentación;
 
-XIII. Preservar, catalogar, investigar y difundir el patrimonio documental de la Entidad a través del Archivo Histórico del Estado;
+XIII. Preservar, catalogar, investigar y difundir el patrimonio documental de la Entidad a través del Archivo Histórico del Estado, en coordinación con el Instituto Estatal de Documentación;
 
-XIV. Promover la creación de Consejos Municipales de Crónica a fin de preservar la memoria histórica de los morelenses;
+XIV. Generar la investigación, el registro y la difusión de las diversas expresiones que integran la memoria histórica de los morelenses;
 
-XV. Fomentar en los Pueblos y Comunidades Indígenas el derecho de conservar, enriquecer y difundir su identidad, .así como su patrimonio cultural y lingüístico, en coordinación con las instancias competentes;
+XV. Promover la creación de Consejos Municipales de Crónica a fin de contribuir a la preservación y difusión de la memoria histórica de los morelenses;
 
-XVI. Apoyar, preservar y difundir las expresiones de cultura popular, festividades, tradiciones, usos y costumbres de las comunidades en el Estado;
+XVI. Fomentar en los Pueblos y Comunidades Indígenas el derecho de conservar, enriquecer y difundir su identidad, así como su patrimonio cultural, en coordinación con las instancias competentes;
 
-XVII. Proponer que en las instituciones educativas incluyan, dentro de los planes académicos, la preservación y difusión del patrimonio cultural del Estado;
+XVII. Apoyar, preservar y difundir las expresiones de cultura popular, arte, festividades, tradiciones, usos y costumbres de las comunidades y los municipios en el Estado;
 
-XVIII. Contribuir a la protección, identificación, investigación, catalogación, promoción, diagnóstico y conservación de los bienes artísticos y culturales;
+XVIII. Promover que las instituciones educativas incluyan, dentro de los planes académicos, contenidos educativos locales para la preservación y difusión del patrimonio cultural del Estado;
 
-XIX. Asesorar a los Ayuntamientos de la Entidad en los temas de promoción, conservación y catalogación del patrimonio cultural material e inmaterial cuando así lo soliciten, y
+XIX. Contribuir a la identificación, investigación, catalogación, difusión, diagnóstico y conservación de los bienes artísticos y culturales;
 
-XX. Las demás que determinen las disposiciones jurídicas aplicables y le delegue la persona titular de la Secretaría.
+XX. Asesorar a los Municipios de la Entidad en los temas de promoción, conservación y catalogación del patrimonio cultural material e inmaterial cuando así lo soliciten, y
+
+XXI. Las demás que determinen las disposiciones jurídicas aplicables o, en su caso, le delegue la persona titular de la Secretaría.
 
 ### CAPÍTULO IV
 
 DE LAS DIRECCIONES GENERALES.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 13.
 
-Al frente de cada Dirección habrá una persona titular, quien se auxiliará de Subdirectores, Jefes de Departamento, Jefes de Oficina y demás personal necesario para el desempeño de sus funciones, mismo que estarán definidos en el Manual de Organización de la Secretaría y considerados en el Presupuesto de Egresos de la Secretaría.
+Al frente de cada Dirección General, habrá una persona titular, quien se auxiliará de Directores de Área, Subdirectores, Jefes de Departamento, Jefes de Oficina y demás personal necesario para el desempeño de sus funciones, mismos que estarán definidos en el Manual de Organización de la Secretaría, y considerados en el Presupuesto de Egresos de la Secretaría.
 
 ###### Artículo 14.
 
@@ -365,87 +463,93 @@ II. Acordar con la persona titular de la Subsecretaría y, en su caso, con la pe
 
 III. Emitir dictámenes, opiniones e informes sobres los asuntos de su competencia, así como aquellos que les encargue la persona titular de la Subsecretaría o de la Secretaría;
 
-IV. Proponer a la persona titular de la Secretaría por conducto de la persona titular de la Subsecretaría, las políticas internas, lineamientos, criterios, sistemas y métodos de trabajo que normarán el funcionamiento de la Dirección General a su cargo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV. Proponer a la persona titular de la Secretaría, por conducto de la persona titular de la Subsecretaría a la que se encuentren adscritas, o de manera directa, según sea el caso, las políticas internas, lineamientos, criterios, sistemas y métodos de trabajo que normarán el funcionamiento de la Dirección General a su cargo;
 
 V. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como aquellos que les correspondan por delegación o suplencia;
 
-VI. Proponer a la persona titular de la Secretaría por conducto de la persona titular de la Subsecretaría, las modificaciones a la organización, estructura administrativa, plantillas de personal, atribuciones y demás aspectos que permitan mejorar el funcionamiento de la Dirección General a su cargo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+VI. Proponer a la persona titular de la Secretaría, por conducto de la persona titular de la Subsecretaría a la que se encuentren adscritas, o de manera directa, según sea el caso, las modificaciones a la organización, estructura administrativa, plantillas de personal, atribuciones y demás aspectos que permitan mejorar el funcionamiento de la Dirección General a su cargo;
 
 VII. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia y que se encuentren en los archivos de la Dirección General a su cargo;
 
 VIII. Asesorar, proporcionar información, datos y, en su caso, la cooperación técnica, en las materias de su competencia, a las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, y a los sectores social y privado, con apego a las políticas y normas, establecidas por la persona titular de la Secretaría;
 
-IX. Proponer a la persona titular de la Secretaría por conducto de la persona titular de la Subsecretaría, la celebración de convenios y acuerdos con las Dependencias y Entidades Federales, Estatales y Municipales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IX. Proponer a la persona titular de la Secretaría, por conducto de la persona titular de la Subsecretaría a la que se encuentren adscritas, o de manera directa, según sea el caso, la celebración de convenios y acuerdos con las Dependencias del Poder Ejecutivo del Estado, Entidades Federales, Estatales y Municipales;
 
 X. Participar en la elaboración, instrumentación, ejecución, seguimiento, control y evaluaciones de los planes y programas que determinen las autoridades competentes, sujetándose invariablemente a las normas y lineamientos definidos para tal efecto;
 
-XI. Elaborar y proponer a la persona titular de la Secretaría por conducto de la persona titular de la Subsecretaría, el anteproyecto del programa y presupuesto anual de la Dirección General a su cargo, así como proceder a su ejercicio, conforme a las normas establecidas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Proponer a la persona titular de la Secretaría, por conducto de la persona titular de la
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-Subsecretaría, la delegación de facultades en servidores públicos subalternos;
+XI. Elaborar y proponer a la persona titular de la Secretaría, por conducto de la persona titular de la Subsecretaría a la que se encuentren adscritas, o, de manera directa, según sea el caso, el anteproyecto del programa y presupuesto anual de la Dirección General a su cargo, así como proceder a su ejercicio, conforme a las normas establecidas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XII. Proponer a la persona titular de la Secretaría, por conducto de la persona titular de la Subsecretaría a la que se encuentren adscritas, o de manera directa, según sea el caso, la delegación de facultades en servidores públicos subalternos;
 
 XIII. Formular los proyectos de Manuales Administrativos de la Dirección General a su cargo, en coordinación con la Unidad Administrativa que corresponda y con sujeción a las normas y lineamientos que ésta determine;
 
-XIV. Desempeñar las comisiones que le encomiende la persona titular de la Subsecretaría, y en su caso, la persona titular de la Secretaría, y mantenerla informada del desarrollo de las mismas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Proponer a la persona titular de la Secretaría, por conducto de la persona titular de la
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-Subsecretaría, la creación o modificación de las disposiciones que regulan su ámbito de competencia para el mejor desempeño de sus funciones;
+XIV. Desempeñar las comisiones que le encomiende la persona titular de la Secretaría o bien el titular de la Subsecretaría a la que se encuentre adscrita, informando el desarrollo de las mismas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XV. Proponer a la persona titular de la Secretaría, por conducto de la persona titular de la Subsecretaría a la que se encuentren adscritas, o de manera directa, según sea el caso, la creación o modificación de las disposiciones que regulan su ámbito de competencia para el mejor desempeño de sus funciones;
 
 XVI. Acordar y resolver los asuntos competencia de la Unidades Administrativas que integran la Dirección General a su cargo;
 
 XVII. Vigilar el debido cumplimiento de las leyes, reglamentos, manuales y demás disposiciones aplicables en el ámbito de su competencia;
 
-XVIII. Informar a la persona titular de la Secretaría, por conducto de la persona titular de la
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Subsecretaría, con la periodicidad que establezca, sobre el avance, del programa de trabajo y de los programas encomendados;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XVIII. Informar a la persona titular de la Secretaría, por conducto de la persona titular de la Subsecretaría a la que se encuentren adscritas, o de manera directa, según sea el caso, con la periodicidad que establezca, sobre el avance del programa de trabajo y de los programas encomendados;
 
 XIX. Administrar los recursos humanos, materiales y financieros para la operación de los programas de las Unidades Administrativas a su cargo;
 
 XX. Conceder audiencias al público y recibir en acuerdo a cualquier servidor público para el despacho de los asuntos de su competencia, y
 
-XXI. Las demás que determinen las disposiciones jurídicas aplicables y le delegue la persona titular de la Subsecretaría o, en su caso, la persona titular de la Secretaría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XXI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría o, en su caso, la persona titular de la Subsecretaría a la que se encuentren adscritas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 15.
 
-La persona titular de la Dirección General de Desarrollo Cultural tendrá las siguientes atribuciones:
-
-I. Desarrollar metodologías e instrumentos de promoción cultural a partir de las disciplinas de las ciencias sociales, que permitan un trabajo efectivo de promoción cultural;
-
-II. Elaborar y coordinar proyectos de desarrollo cultural comunitario que fortalezcan la Red Cultural de Morelos;
-
-III. Diseñar y promover actividades para el fortalecimiento de los vínculos entre colectivos culturales comunitarios, creadores artísticos, promotores y gestores culturales;
-
-IV. Crear una base de datos de producción artística individual y colectiva del Estado, vinculada con las comunidades;
-
-V. Promover la vinculación de la promoción con el desarrollo económico para generar condiciones constantes de mejoramiento en los habitantes del Estado;
-
-VI. Definir y promover la base de la oferta cultural, adecuada a las necesidades de las comunidades, y apoyar la gestión de recursos;
-
-VII. Propiciar la creación de espacios comunitarios para la convivencia social a partir de la satisfacción de las necesidades de expresión y manifestación cultural y artística;
-
-VIII. Establecer contacto con promotores, gestores culturales y sociales a fin de realizar esfuerzos conjuntos para satisfacer las necesidades culturales en el mayor número de comunidades;
-
-IX. Apoyar y asesorar a los promotores y gestores culturales en la materia que a cada uno le corresponda, con el fin de colaborar en el buen desempeño de sus funciones;
-
-X. Obtener, analizar y procesar la información acerca de los requerimientos de capacitación de los promotores y gestores culturales institucionales e independientes, a fin de elaborar el programa de capacitación correspondiente;
-
-XI. Elaborar lineamientos para regular el uso y aprovechamiento cultural de los espacios públicos;
-
-XII. Elaborar y definir un plan estratégico que permita el desarrollo de la industria cultural como un sector de la economía generadora de empleos y de producción artística y cultural;
-
-XIII. Gestionar con las distintas instancias de la Administración Pública del Estado los apoyos necesarios para incrementar, asegurar y difundir la capacidad de la producción creativa de las empresas culturales;
-
-XIV. Diseñar y operar los programas que impulsen el desarrollo de actividades artísticas y culturales en los Municipios, en coordinación con sus autoridades, y
-
-XV. Las demás que determinen las disposiciones jurídicas aplicables y le delegue la persona titular de la Subsecretaría o, en su caso, la persona titular de la Secretaría.
+(DEROGADO, P.O. 26 DE MARZO DE 2014)
 
 ###### Artículo 16.
 
 La persona titular de la Dirección General de Música tendrá las siguientes atribuciones:
 
-I. Diseñar y operar los programas de fomento musical en el Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+I. Diseñar y operar los programas de Fomento Musical en el Estado, así como promover los programas del Sistema Nacional de Fomento Musical;
 
 II. Coordinar, organizar y dirigir los coros infantiles y juveniles en el Estado;
 
@@ -455,11 +559,19 @@ IV. Coordinar, organizar y ejecutar los programas de bandas y agrupaciones tradi
 
 V. Promover y generar el intercambio musical entre los Municipios del Estado, así como con otras Entidades Federativas, la Federación y el extranjero, y
 
-VI. Las demás qua determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Subsecretaría 0, en su caso, la persona titular de la Secretaría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría o, en su caso, la persona titular de la Subsecretaría a la que se encuentre adscrita.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 17.
 
-La persona titular de la Dirección General de Museos tendrá las siguientes atribuciones:
+La persona titular de la Dirección General de Museos y Exposiciones, tendrá las siguientes atribuciones:
 
 I. Preservar y difundir el patrimonio cultural material e inmaterial a través de los museos a cargo de la Secretaría, en todos los sectores de la sociedad;
 
@@ -477,33 +589,35 @@ VII. Difundir las expresiones de cultura popular, festividades, tradiciones, uso
 
 VIII. Establecer criterios y procedimientos legales y administrativos para la generación de mecanismos de financiamiento a través de aportaciones, donaciones y cuotas de recuperación;
 
-IX. Desarrollar acciones para contribuir al desarrollo de una mayor cultura museística entre los morelenses, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Subsecretaría o, en su caso, la persona titular de la Secretaría.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IX. Desarrollar acciones para contribuir al desarrollo de una mayor cultura museística;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+X. Autogenerar recursos a través de los diversos recintos culturales, ya sea por uso o aprovechamiento, taquilla, recepción de donativos o patrocinios, para ser reinvertidos en las actividades y necesidades de los diversos recintos culturales que les sean adscritos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XI. Elaborar y definir en conjunto con la Subsecretaría de Fomento a las Artes los criterios para la utilización y asignación de los recintos a su cargo, para la realización de eventos culturales o artísticos, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría o, en su caso, la persona titular de la Subsecretaría a la que se encuentre adscrita.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 18.
 
-La persona titular de la Dirección General de Arte Popular tendrá las siguientes atribuciones:
-
-I. Promover la valoración del Arte Popular como una expresión de la identidad de los morelenses;
-
-II. Fomentar la creación de Arte Popular para impulsar el desarrollo de la cultura del Estado;
-
-III. Desarrollar las actividades de apoyo y vinculación en materia de comercialización, capacitación y asesoramiento a los artesanos morelenses;
-
-IV. Elaborar estudios de mercado, investigación, y análisis de información para la promoción y comercialización del Arte Popular morelense;
-
-V. Coadyuvar al desarrollo regional sustentable en materia de Arte Popular y satisfacer la demanda de insumos;
-
-VI. Pugnar por el abastecimiento de materias primas con fines productivos, vinculadas con los creadores de Arte Popular;
-
-VII. Realizar el padrón de creadores de Arte Popular que refleje su naturaleza, expresiones y categorías;
-
-VIII. Coordinar en la Dirección General de Museos, el apoyo museográfico para los centros de expresión y comercialización de Arte Popular;
-
-IX. Establecer y mantener actualizados los sistemas de información de los proyectos de vinculación con los creadores de Arte Popular, y
-
-X. Las demás que determinen las disposiciones jurídicas aplicables y le delegue la persona titular de la Subsecretaría o, en su caso, la persona titular de la Secretaría.
+(DEROGADO, P.O. 26 DE MARZO DE 2014)
 
 ###### Artículo 19.
 
@@ -547,7 +661,11 @@ I. Revisar y validar la participación de la Secretaría en la celebración de c
 
 II. Asesorar y apoyar en materia jurídica, y actuar en defensa de la Secretaría en los asuntos en que sea parte y asistirla en cualquier otro caso en que la persona titular de la Secretaría requiera asesoría legal para el ejercicio de sus funciones;
 
-III. Establecer la comunicación y coordinación necesaria con la Consejería Jurídica para la atención, por excepción y a solicitud expresa del Gobernador del Estado, de juicios de amparo, laborales, civiles y penales así como de derechos humanos, derechos de autor, derechos de propiedad intelectual y los que resulten en materia jurídica en que la primera coadyuve con la Secretaría, a quien corresponde llevar a cabo la defensa de sus respectivos intereses.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+III. Establecer la comunicación y coordinación necesaria con la Consejería Jurídica para la atención de juicios de amparo, laborales, civiles y penales, así como de derechos humanos, derechos de autor, derechos de propiedad intelectual y los que resulten en materia jurídica, cuando la primera coadyuve con la Secretaría para llevar a cabo la defensa de sus respectivos intereses;
 
 IV. Asesorar y asistir en materia legal a las Unidades Administrativas de la Secretaría y apoyar en la elaboración de actas y demás instrumentos jurídicos que resulten procedentes;
 
@@ -561,41 +679,55 @@ VIII. Convocar a las Unidades Administrativas de la Secretaría a reuniones y ta
 
 IX. Apoyar en la tramitación de autorizaciones para la legal estancia en territorio mexicano de extranjeros que sean contratados por la Secretaría, así como dar seguimiento a las relaciones de la misma con el Instituto Nacional de Migración;
 
-X. Elaborar los contratos, convenios y otros actos jurídicos suscritos por las Unidades Administrativas de la Secretaría, así como apoyar en el seguimiento del cumplimiento de las obligaciones contractuales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+X. Elaborar los contratos, convenios y demás actos jurídicos que deba celebrar la persona titular de la Secretaría o alguna de sus Unidades Administrativas, así como apoyar en el cumplimiento de las obligaciones contractuales dentro del ámbito de sus facultades;
 
 XI. Preparar, revisar y validar formatos generales para la formalización de actos jurídicos competencia de la Secretaría;
 
-XII. Apoyar a las Unidades Administrativas de la Secretaría en el análisis, coordinación y elaboración de proyectos de iniciativas de Ley, Reglamentos que le instruya la persona titular de la Secretaría, en materia de su competencia para ser propuestos por el Gobernador del Estado, previa validación de la Consejería Jurídica;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XII. Apoyar a las Unidades Administrativas de la Secretaría, en el análisis, coordinación y elaboración de proyectos de iniciativas de Ley solicitadas por la persona titular de la Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
 XIII. Atender, coordinar y supervisar las funciones de la Unidad de Información Pública;
 
-XIV. Vigilar y generar los mecanismos para el cumplimiento a la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos en lo que competa a la Secretaría, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Las demás que determinen otras disposiciones jurídicas aplicables y le delegue la persona titular de la Secretaría.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XIV. Vigilar y generar dentro de la Secretaría los mecanismos para el cumplimiento de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XV. Requerir a las Unidades Administrativas de la Secretaría, los informes, dictámenes, documentación, objetos, apoyo técnico y demás elementos necesarios, para la defensa de los intereses dela (sic) Secretaría;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XVI. Intervenir como apoderado de la Secretaría en todos los juicios o negocios en que esta sea parte o se corra el riesgo de causar una afectación al patrimonio de la misma, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XVII. Las demás que determinen otras disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 21.
 
-La persona titular de la Dirección General de Planeación y Evaluación tendrá las siguientes atribuciones:
-
-I. Participar en la elaboración, instrumentación, ejecución, seguimiento y evaluación de los planes, programas, proyectos, informes y estudios de la Secretaría;
-
-II. Generar indicadores, diagnósticos y mecanismos de evaluación para los programas de la Secretaría;
-
-III. Elaborar lineamientos para regular el uso y aprovechamiento cultural de los espacios públicos, en coordinación con las áreas que se encuentre asignados;
-
-IV. Elaborar y gestionar, conforme a las normas aplicables, las propuestas de reorganización de la Secretaría y presentarlas a la persona titular de la misma para su autorización;
-
-V. Coordinar la integración y elaboración de los informes programáticos trimestrales sobre el avance físico y financiero del Programa Operativo Anual de las diferentes Unidades Administrativas que conforman a la Secretaría;
-
-VI. Coordinar las actividades interinstitucionales referentes a los foros de consulta ciudadana inherentes a la Secretaría;
-
-VII. Integrar la información de las diferentes Unidades Administrativas de la Secretaría, en cuanto a sus actividades, para la elaboración del Informe Anual de Gobierno;
-
-VIII. Coordinar la elaboración de las presentaciones para las comparecencias de la persona titular de la Secretaría;
-
-IX. Mantener estrecha relación con los investigadores dedicados al análisis y reflexión de temas culturales, así como recibir sus propuestas en temas relativos a las políticas culturales, y
-
-X. Las demás que determinen otras disposiciones jurídicas aplicables y le delegue la persona titular de la Secretaría.
+(DEROGADO, P.O. 26 DE MARZO DE 2014)
 
 ###### Artículo 22.
 
@@ -623,11 +755,19 @@ X. Realizar la supervisión del uso correcto de logotipos e imagen institucional
 
 XI. Generar un programa en materia editorial de las publicaciones de las diferentes Unidades Administrativas de la Secretaría;
 
-XII. Las demás que determinen otras disposiciones jurídicas aplicables o le encomiende la persona titular de la Secretaría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría o, en su caso, la persona titular de la Subsecretaría a la que se encuentre adscrita.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 23.
 
-La persona titular de la Dirección General de la Comisión de Filmaciones tendrá las siguientes atribuciones:
+La persona titular de la Dirección General de la Comisión de Filmaciones tendrá, además de las establecidas en la Ley de Filmaciones del Estado de Morelos, las siguientes atribuciones:
 
 I. Establecer programas y políticas tendientes a la promoción de proyectos de inversión de la industria audiovisual y cinematográfica;
 
@@ -645,27 +785,117 @@ VII. Concertar con las instituciones educativas el establecimiento de programas,
 
 VIII. Establecer los mecanismos de vinculación con los sectores público, social y privado para brindar el apoyo a las producciones de la industria audiovisual y cinematográfica que se desarrollen en el Estado, y
 
-IX. Las demás que determinen otras disposiciones jurídicas aplicables y le delegue la persona titular de la Secretaría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría o, en su caso, la persona titular de la Subsecretaría a la que se encuentre adscrita.
 
 ### CAPÍTULO V
 
 DE LAS SUPLENCIAS DE LOS SERVIDORES PÚBLICOS.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 24.
 
-Las ausencias temporales hasta por 90 días de la persona titular de la Secretaría serán cubiertas por el Subsecretario que al efecto designe.
+En el despacho y resolución de los asuntos de su competencia, los servidores públicos de la Secretaría de Cultura, serán suplidos en sus ausencias temporales hasta por 3 días, conforme a las siguientes reglas:
+
+I. La persona titular de la Secretaría, por la persona titular de la Subsecretaría que al efecto designe el mismo o, en su caso, el Titular del Poder Ejecutivo Estatal, o bien por los servidores públicos de jerarquía inmediata inferior que de ella dependan, en los asuntos de su respectiva competencia;
+
+II. Las personas titulares de las Subsecretarias, por las personas titulares de las Direcciones Generales que de ellas dependan, o bien por los servidores públicos de jerarquía inmediata inferior que de ellos dependan, en los asuntos de su respectiva competencia, y
+
+III. Las personas titulares de las Direcciones Generales, por los servidores públicos de jerarquía inmediata inferior que de ellos dependan, en los asuntos de su respectiva competencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 25.
 
-Las ausencias temporales hasta por 90 días de las personas titulares de la Subsecretarías se cubrirán por las personas titulares de la Dirección General que designe la persona titular de la Secretaría.
+En las ausencias temporales de 4 hasta por 90 días de la persona titular de la Secretaría serán cubiertas por el Subsecretario que al efecto designe.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 26.
 
-Las ausencias temporales hasta por 90 días de las personas titulares de las Directores Generales se cubrirán por el servidor público que designa la persona titular de la Secretaría.
+Las ausencias temporales de 4 y hasta por 90 días de las personas titulares de las Subsecretarías se cubrirán por las personas titulares de la Dirección General que designe la persona titular de la Secretaría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 27.
 
-Cuando por cualquier motivo alguna Unidad Administrativa carezca de titular, el despacho y resolución de los asuntos de su competencia estarán a cargo del servidor público que designe la persona titular de la Secretaría o, en su caso, el titular del Poder Ejecutivo del Estado, hasta en tanto realice la designación definitiva, pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían al titular de la Unidad Administrativa de que se trate, sin dejar que por ello genere mayores derechos o prestaciones de las que legalmente corresponden por su cargo original.
+Las ausencias temporales de 4 y hasta por 90 días de las personas titulares de las Direcciones Generales se cubrirán por el servidor público que designe la persona titular de la Secretaría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+
+###### Artículo 28.
+
+Cuando por cualquier motivo la Secretaría carezca de titular en forma definitiva, el despacho y resolución de los asuntos de su competencia estarán a cargo del servidor público que designe la persona titular del Poder Ejecutivo del Estado, hasta en tanto se realice la designación definitiva, pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían al titular de la Secretaría, sin que por ello genere mayores derechos o prestaciones de las que legalmente le corresponderían por su cargo original.
+
+Cuando por cualquier motivo alguna Unidad Administrativa carezca de titular, el despacho y resolución de los asuntos de su competencia estarán a cargo del servidor público que designe la persona titular de la Secretaría o, en su caso, el titular del Poder Ejecutivo del Estado, hasta en tanto se realice la designación definitiva, pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían al titular de la Unidad Administrativa de que se trate, sin dejar que por ello genere mayores derechos o prestaciones de las que legalmente corresponden por su cargo original.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MARZO DE 2014)</small>
+
+### CAPÍTULO VI
+
+DE LAS ATRIBUCIONES GENERALES DE LAS DIRECCIONES DE ÁREA, SUBDIRECCIONES Y JEFATURAS DE LA SECRETARÍA.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+
+###### Artículo 29.
+
+Son atribuciones generales de los Directores de Área, Subdirectores y Jefes, sin perjuicio de aquellas conferidas en el presente Reglamento o en otras disposiciones jurídicas y administrativas, las siguientes:
+
+I. Acordar con su superior jerárquico el trámite y resolución de los asuntos de su competencia;
+
+II. Preparar y revisar la documentación que deba suscribir su superior jerárquico;
+
+III. Llevar la administración y gestión de los asuntos asignados por su superior jerárquico;
+
+IV. Dirigir, controlar, evaluar, coordinar y supervisar las funciones del personal de las Unidades Administrativas a su cargo;
+
+V. Supervisar la correcta y oportuna ejecución de recursos económicos y materiales de las Unidades de Apoyo Técnico-Operativo que les correspondan;
+
+VI. Desempeñar los encargos o comisiones oficiales que sus superiores jerárquicos les asignen, manteniéndolos informados sobre su desarrollo;
+
+VII. Proponer normas y procedimientos administrativos para el funcionamiento de las Unidades de Apoyo Técnico-Operativo que les correspondan;
+
+VIII. Coadyuvar con el superior jerárquico inmediato, en la atención de los asuntos de su competencia;
+
+IX. Vigilar que se cumplan las disposiciones legales aplicables en los asuntos de su competencia;
+
+X. Someter a la consideración de su superior jerárquico inmediato, sus propuestas de organización, programas y presupuesto de las Unidades de Apoyo Técnico-Operativo a ellos adscritas;
+
+XI. Conocer y observar las disposiciones que regulan las relaciones con su personal adscrito;
+
+XII. Informar sobre el desarrollo de las labores del personal a su cargo en los términos que les solicite su superior jerárquico;
+
+XIII. Formular dictámenes, opiniones e informes que les sean solicitados por sus superiores jerárquicos;
+
+XIV. Participar en la coordinación y vigilancia de las prestaciones de carácter social y cultural, así como las actividades de capacitación del personal a su cargo, de acuerdo con las normas y principios establecidos por la autoridad competente;
+
+XV. Proponer programas de excelencia y calidad, tendientes a incrementar la productividad y mejorar la calidad de vida en el trabajo de su unidad;
+
+XVI. Formular, cuando así proceda, proyectos de planes y programas de trabajo de su unidad y demás Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, considerando las necesidades y expectativas de los ciudadanos y la mejora de los sistemas de atención al público;
+
+XVII. Ejercer sus atribuciones coordinadamente con las demás Unidades Administrativas de Apoyo Técnico-Operativo, para el mejor despacho de los asuntos de su competencia;
+
+XVIII. Llevar a cabo con el personal a su cargo, las labores encomendadas a su unidad, conforme a los planes y programas que establezca la persona titular de la Unidad Administrativa a la que se encuentre adscrito, y
+
+XIX. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos y que correspondan a la jefatura de unidad departamental, a su cargo.
 
 DISPOSICIONES TRANSITORIAS.
 
@@ -694,3 +924,17 @@ LA SECRETARÍA DE CULTURA
 CRISTINA JOSEFINA FAESLER BREMER.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. El presente Decreto iniciará su vigencia a los diez días hábiles siguientes de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Cultura del Poder Ejecutivo Estatal deberá actualizar los Manuales de Organización y de Políticas y Procedimientos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Cultura del Poder Ejecutivo Estatal, dentro del plazo de diez días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las unidades administrativas de aquella, sufridos en virtud de este Decreto, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Cultura del Poder Ejecutivo Estatal, deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
