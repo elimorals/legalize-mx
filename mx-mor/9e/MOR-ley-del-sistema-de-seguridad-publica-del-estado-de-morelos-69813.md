@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2013-06-26"
+last_updated: "2014-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -53,69 +53,81 @@ La seguridad pública es una función a cargo del Estado y los Municipios, la cu
 
 Comprende la prevención especial y general de los delitos; la investigación para hacerla efectiva; la sanción de las infracciones administrativas; la investigación y la persecución de delitos y conductas antisociales tipificadas como tales; la reinserción social del individuo y la reintegración social y familiar del adolescente, en términos de esta Ley, en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, y las demás leyes aplicables a la materia.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+
+###### Artículo 2 Bis.
+
+El Gobernador Constitucional del Estado, como Jefe de la Fuerza Pública Estatal, ejerce las atribuciones legales en materia de Seguridad Pública, por conducto del Secretario de Gobierno; los elementos de Seguridad Pública Estatal se integran en una Unidad Administrativa denominada Comisión Estatal de Seguridad Pública, así como en los Órganos Desconcentrados creados por Decreto legislativo o gubernativo, bajo el mando directo de un Comisionado Estatal de Seguridad Pública, dependiente del Secretario de Gobierno.
+
 ###### Artículo 3.
 
 Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos. Deberán fomentar la participación ciudadana y rendir cuentas en términos de ley.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 4.
 
-Para los efectos de la presente ley, se entiende por:
+Para los efectos de la presente Ley, se entiende por:
 
-I. Auxiliares de la Seguridad Pública: Prestadores de Servicios de Seguridad Privada y todas aquellas personas que realicen funciones y servicios relacionados con la Seguridad Pública;
+I. Auxiliares de la Seguridad Pública, a los prestadores de Servicios de Seguridad Privada y todas aquellas personas que realicen funciones y servicios relacionados con la Seguridad Pública;
 
-II. Centro Estatal: Centro Estatal de Análisis de Información sobre Seguridad Pública;
+II. Centro Estatal, al Centro Estatal de Análisis de Información sobre Seguridad Pública;
 
-III. Colegio: Al Colegio Estatal de Seguridad Pública del Estado de Morelos. También se entenderá como tal a la institución de formación, capacitación y profesionalización policial a que hace referencia el artículo 5, fracción I de la Ley General del Sistema Nacional de Seguridad Pública;
+III. Colegio, al Colegio Estatal de Seguridad Pública del Estado de Morelos. También se entenderá como tal a la institución de formación, capacitación y profesionalización policial a que hace referencia el artículo 5, fracción I, de la Ley General del Sistema Nacional de Seguridad Pública;
 
-IV. Consejo Estatal: Al Consejo Estatal de Seguridad Pública;
+IV. Comisionado Estatal, al Comisionado Estatal de Seguridad Pública;
 
-V. Consejo Municipal: Al Consejo Municipal de Seguridad Pública;
+V. Consejo Estatal, al Consejo Estatal de Seguridad Pública;
 
-VI. Consejo Nacional: Al Consejo Nacional de Seguridad Pública;
+VI. Consejo Municipal, al Consejo Municipal de Seguridad Pública;
 
-VII. Constitución General: A la Constitución Política de los Estados Unidos Mexicanos;
+VII. Consejo Nacional, al Consejo Nacional de Seguridad Pública;
 
-VIII. Constitución Local: A la Constitución Política del Estado Libre y Soberano de Morelos;
+VIII. Constitución General, a la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Estado: Al Estado Libre y Soberano de Morelos;
+IX. Constitución Local, a la Constitución Política del Estado Libre y Soberano de Morelos;
 
-X. Gobernador: Al Gobernador Constitucional del Estado Libre y Soberano de Morelos y Presidente del Consejo Estatal de Seguridad Pública;
+X. Comisión Estatal de Seguridad Pública, a la Unidad Administrativa perteneciente a la Secretaría de Gobierno, en la que se integran las fuerzas públicas estatales, bajo el mando del Comisionado Estatal de Seguridad Pública;
 
-XI. Instancias Regionales: A las Instancias Regionales de coordinación en materia de seguridad pública estatales y municipales;
+XI. Estado, al Estado Libre y Soberano de Morelos;
 
-XII. Institución de Procuración de Justicia: A la dependencia del estado que integra al Ministerio Público, los servicios periciales, y demás auxiliares de aquél; la Procuraduría General de Justicia del Estado;
+XII. Gobernador, al Gobernador Constitucional del Estado Libre y Soberano de Morelos y Presidente del Consejo Estatal de Seguridad Pública;
 
-XIII. Instituciones de Seguridad Pública: A las instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y de las dependencias encargadas de la Seguridad Pública a nivel estatal y municipal, así como a los encargados de su capacitación, formación y profesionalización durante el desarrollo del servicio de carrera;
+XIII. Instancias Regionales, a las Instancias Regionales de coordinación, estatales o municipales, en materia de seguridad pública;
 
-XIV. Instituciones Policiales: A los elementos de policía preventiva estatal con sus grupos de investigación, y municipal, de policía ministerial, a los elementos de vigilancia y custodia de los establecimientos penitenciarios, así como a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares tanto de adolescentes como de adultos, bomberos y de rescate; y en general todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal;
+XIV. Institución de Procuración de Justicia, a la Dependencia del Estado que integra al Ministerio Público, los servicios periciales, y demás auxiliares de aquél;
 
-XV. Ley de Responsabilidades: A la Ley Estatal de Responsabilidades de los Servidores Públicos;
+XV. Instituciones de Seguridad Pública, a las instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y de las Dependencias encargadas de la Seguridad Pública a nivel Estatal y Municipal, así como a los encargados de su capacitación, formación y profesionalización durante el desarrollo del servicio de carrera;
 
-XVI. Ley General: A la Ley General del Sistema Nacional de Seguridad Pública;
+XVI. Instituciones Policiales, a los elementos de Policía Preventiva Estatal con sus grupos de investigación, y municipal, de Policía Ministerial, a los elementos de vigilancia y custodia de los establecimientos penitenciarios, así como a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares tanto de adolescentes como de adultos, bomberos y de rescate; y en general, todas las dependencias encargadas de la seguridad pública a nivel Estatal y Municipal;
 
-XVII. Ley: A la Ley del Sistema de Seguridad Pública del Estado de Morelos;
+XVII. Ley de Responsabilidades, a la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
-XVIII. Procuraduría: A la Procuraduría General de Justicia del Estado de Morelos;
+XVIII. Ley General, a la Ley General del Sistema Nacional de Seguridad Pública;
 
-XIX. Programa Estatal: Al Programa Estatal de Seguridad Pública;
+XIX. Ley, a la Ley del Sistema de Seguridad Pública del Estado de Morelos;
 
-XX. Secretaría: A la Secretaría de Seguridad Pública del Estado de Morelos;
+XX. Fiscalía, a la Fiscalía General del Estado de Morelos;
 
-XXI. Secretariado Ejecutivo: Al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+XXI. Programa Estatal, al Programa Estatal de Seguridad Pública;
 
-XXII. Secretario Ejecutivo Municipal: Al Secretario Ejecutivo del Consejo Municipal de Seguridad Pública;
+XXII. Secretaría, a la Secretaría de Gobierno del Poder Ejecutivo del Estado;
 
-XXIII. Secretario Ejecutivo: Al Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+XXIII. Secretariado Ejecutivo, a al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-XXIV. Secretario: Al titular de la Secretaría de Seguridad Pública Estatal;
+XXIV. Secretario Ejecutivo Municipal, al Secretario Ejecutivo del Consejo Municipal de Seguridad Pública;
 
-XXV. Servicio Profesional de Carrera: Al servicio profesional de carrera policial, ministerial y pericial;
+XXV. Secretario Ejecutivo, a la persona titular del Secretariado Ejecutivo;
 
-XXVI. Sistema Estatal: Al Sistema Estatal de Seguridad Pública;
+XXVI. Secretario, a la persona titular de la Secretaría de Gobierno del Poder Ejecutivo del Estado;
 
-XXVII. Sistema Nacional: Al Sistema Nacional de Seguridad Pública;
+XXVII. Servicio Profesional de Carrera, al Servicio Profesional de Carrera Policial, Ministerial y Pericial;
 
-XXVIII. Tribunal: Al Tribunal Superior de Justicia del Estado de Morelos.
+XXVIII. Sistema Estatal, al Sistema Estatal de Seguridad Pública;
+
+XXIX. Sistema Nacional, al Sistema Nacional de Seguridad Pública, y
+
+XXX. Tribunal, al Tribunal Superior de Justicia del Estado de Morelos.
 
 ###### Artículo 5.
 
@@ -173,15 +185,17 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario de Gobierno;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-III. El Secretario;
+III. El Comisionado Estatal;
 
 > <small>(REFORMADA (N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2013)</small>
 
 IV. El Secretario Ejecutivo;
 
-V. El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+V. El Fiscal General del Estado de Morelos;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
 
@@ -201,9 +215,13 @@ XI. El Secretario de Turismo;
 
 XII. El Presidente del Tribunal Superior de Justicia, como representante del Poder Judicial y coadyuvante en el cumplimiento de los fines de la seguridad pública;
 
-XIII. El Diputado Presidente de la Comisión de Seguridad Pública del Congreso del Estado;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-XIV. El Diputado Presidente de la Comisión de Justicia del Congreso del Estado;
+XIII. El Diputado Presidente de la Comisión de Seguridad Pública y Protección Civil del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XIV. El Diputado Presidente de la Comisión de Justicia y Derechos Humanos del Congreso del Estado;
 
 XV. Seis Presidentes Municipales representantes de los Municipios del Estado;
 
@@ -339,11 +357,15 @@ VI. Proponer al Consejo Estatal la instalación de comisiones especiales para es
 
 VII. Solicitar a través del Secretario Ejecutivo, cualquier tipo de información que sea necesaria para los fines de la seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 17.
 
-En cada sesión ordinaria del Consejo Estatal las instituciones de seguridad pública entregarán con cinco días de anticipación, un informe actualizado que deberá contener datos precisos que permitan medir su desempeño, sobre lo siguiente:
+En cada Sesión Ordinaria del Consejo Estatal, las Instituciones de Seguridad Pública entregarán con cinco días de anticipación, un informe actualizado que deberá contener datos precisos que permitan medir su desempeño, sobre lo siguiente:
 
-I. Secretaría de Seguridad Pública:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
+I. Comisión Estatal de Seguridad Pública:
 
 a) Estadística general del índice delictivo registrado derivado de sus funciones;
 
@@ -375,7 +397,9 @@ n) En su caso, aquellas medidas que en lo general se hayan adoptado para el mejo
 
 o) Cualquier otra información que para sus fines requiera el Consejo Estatal y el Secretariado Ejecutivo;
 
-II. Procuraduría General de Justicia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
+II. Fiscalía General del Estado de Morelos:
 
 a) Estado que guarda el rezago de las averiguaciones previas;
 
@@ -473,29 +497,37 @@ El Estado y los Municipios se integrarán al Sistema Nacional, mediante instanci
 
 ### CAPÍTULO IV. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2012) (F. DE E., P.O. 19 DE DICIEMBRE DE 2012)
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 22.
 
-El Secretariado Ejecutivo es el órgano desconcentrado de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Morelos, operativo del Sistema Estatal de Seguridad Pública, gozará de autonomía técnica, de gestión presupuestal, y se integrará por las unidades administrativas y operativas, el personaltécnico (sic), administrativo, de asesoría y apoyo que se requiera para el cumplimiento de su pluralidad funcional y dada su naturaleza, de conformidadconel (sic) presupuesto autorizado.
+El Secretariado Ejecutivo, es el Órgano Desconcentrado de la Secretaría, operativo del Sistema Estatal de Seguridad Pública, que gozará de autonomía técnica, de gestión presupuestal, y se integrará por las Unidades Administrativas y operativas, el personal técnico, administrativo, de asesoría y apoyo que se requiera para el cumplimiento de su pluralidad funcional y dada su naturaleza, de conformidad con el presupuesto autorizado.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
+El órgano desconcentrado estará a cargo del Secretario Ejecutivo; durante sus ausencias temporales o indefinidas, la función será asumida, de manera integral, por el Comisionado Estatal de Seguridad Pública. Su organización y procedimientos específicos se establecerán en el Reglamento Interno que para tal efecto se expida.
 
-El órgano desconcentrado estará a cargo del Secretario Ejecutivo quien será designado por el Gobernador del Estado; durante sus ausencias temporales o indefinidas, la función será asumida, de manera integral, por el titular de la Secretaría de Seguridad Pública. Su organización y procedimientos específicos se establecerán en el Reglamento Interno que para tal efecto se expida, el cual invariablemente deberá considerar como parte de su estructura orgánica a la unidad académica encargada de capacitar, evaluar y certificar a las instituciones y auxiliares de la Seguridad Pública.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 23.
 
-El Secretario Ejecutivo será nombrado y removido libremente por el Gobernador del Estado y deberá cumplir con los siguientes requisitos:
+El Secretario Ejecutivo será nombrado y removido libremente por el Secretario y deberá cumplir con los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
 
 I. Ser ciudadano mexicano por nacimiento, que no tenga otra nacionalidad y este en pleno goce de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
+
 II. Tener más de treinta años de edad;
+
+> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
 
 III. Contar con título profesional de nivel Licenciatura debidamente registrado;
 
+> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
+
 IV. Tener reconocida capacidad y probidad; y
+
+> <small>(REFORMADA, P.O. 1 DEMARZO DE 2013)</small>
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
@@ -517,13 +549,13 @@ VI. Vigilar el estricto ejercicio de los recursos financieros asignados a la Seg
 
 VII. Preparar, con el auxilio de los integrantes del Consejo Estatal que tengan competencia para tal efecto, los informes que se presenten en las sesiones; así como recabar las propuestas para punto de acuerdo que sean remitidas por los mismos, para ser sometidas a su consideración;
 
-VIII. Calificar los procesos de formación y profesionalización;
+VIII. (DEROGADA, P.O. 26 DE MARZO DE 2014)
 
-IX. Realizar las evaluaciones y exámenes de control de confianza;
+IX. (DEROGADA, P.O. 26 DE MARZO DE 2014)
 
-X. Emitir la certificación de los aspirantes y activos de las instituciones de seguridad pública, prestadores de seguridad privada y sus auxiliares;
+X. (DEROGADA, P.O. 26 DE MARZO DE 2014)
 
-XI. Realizar evaluaciones de seguimiento, cumplimiento y del desempeño al personal de las instituciones de seguridad pública, unidades de adscripción, o cualquier área que afecte directa o indirectamente en la seguridad pública del Estado, debiendo presentar los resultados y las recomendaciones que sobre éstas deba conocer el Consejo Estatal;
+XI. (DEROGADA, P.O. 26 DE MARZO DE 2014)
 
 XII. Proponer al Consejo Estatal la realización de estudios especializados en materia de seguridad pública, y en su caso, coordinar las acciones conjuntas de las instituciones de seguridad pública;
 
@@ -553,9 +585,9 @@ XXII. Informar periódicamente al Consejo Estatal de sus actividades;
 
 XXIII. Coadyuvar y en su caso proponer las medidas pertinentes y necesarias para eficientar la seguridad del Ejecutivo;
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-XXIV. Coadyuvar en la instrumentación, preparación, ejecución y evaluación del Mando Único Policial en el Estado, atendiendo las indicaciones que le transmita el Gobernador del Estado, el Secretario de Gobierno o el Secretario de Seguridad Pública; y
+XXIV. Coadyuvar en la instrumentación, preparación, ejecución y evaluación del Mando Único Policial en el Estado, atendiendo las indicaciones que le transmita el Gobernador del Estado, el Secretario o el Comisionado Estatal, y
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
@@ -637,7 +669,9 @@ VIII. Un representante de la Secretaría;
 
 IX. Un representante de la Procuraduría;
 
-X. El Diputado representante de la Comisión de Seguridad Pública, así como del Diputado del Distrito respectivo del Congreso del Estado o las personas que éstas designen como sus representantes;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+X. El Diputado representante de la Comisión de Seguridad Pública y Protección Civil, así como del Diputado del Distrito respectivo del Congreso del Estado o las personas que éstas designen como sus representantes;
 
 XI. Hasta 3 vocales representantes de organismos de participación ciudadana con que cuente el municipio, o en su caso, representantes de los sectores productivos y sociales debidamente organizados con amplia representación en el municipio, así como los que a título personal representen algún sector de la población, estos serán propuestos al seno del consejo municipal y deberán ser aprobados por el mismo;
 
@@ -645,7 +679,9 @@ XII. Un representante o representantes de los comisariados ejidales o de bienes 
 
 Además, el Consejo Municipal podrá invitar a cualquier funcionario federal, estatal o municipal, autoridades auxiliares, organización civil o persona física que aporte elementos útiles para el cumplimiento de los fines de la seguridad pública.
 
-Para el cumplimiento, ejecución y seguimiento de sus determinaciones, el Consejo Municipal se auxiliará de un Secretario Ejecutivo, que será designado por el Presidente del Consejo Municipal; quien ocupe este cargo no podrá tener otro cargo gubernamental y deberá contar con TÍTULO y cédula profesional de nivel licenciatura debidamente registrado.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+Para el cumplimiento, ejecución y seguimiento de sus determinaciones, el Consejo Municipal, se auxiliará de un Secretario Ejecutivo, que será designado por el Presidente del Consejo Municipal; quien ocupe este cargo no podrá tener otro cargo gubernamental y deberá contar con título y cédula profesional de nivel licenciatura debidamente registrados.
 
 ###### Artículo 30.
 
@@ -747,21 +783,21 @@ Las autoridades a través del Centro Estatal de Prevención Social de la Violenc
 
 En materia de seguridad pública la participación ciudadana es prioritaria, por lo que toda autoridad estatal o municipal estará obligada a proveer lo necesario para incluir la participación ciudadana en todas sus actividades. Con excepción de las acciones reservadas al sector público, la ciudadanía podrá participar organizadamente para una eficaz y oportuna prevención de delitos y conductas antisociales, para mejorar la procuración y administración de justicia y para lograr que la reinserción social de los sentenciados y la reintegración social y familiar de los adolescentes sea plena y sin restricciones, de conformidad con los programas aprobados en el seno del Consejo Estatal de Seguridad Pública, estableciendo al efecto los programas que éste considere pertinentes, entre ellos la promoción de la denuncia anónima y ciudadana.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 35.
 
-El Secretario Ejecutivo Municipal y la Secretaría de Seguridad Pública del Estado a través del Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana, se coordinarán para establecer en los Municipios comités y programas de apoyo y cooperación voluntaria de la ciudadanía tendientes a la prevención de delitos y conductas antisociales en los ámbitos escolar, patrimonial, familiar, domiciliario y personal.
+El Secretario Ejecutivo Municipal y la Secretaría, a través del Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana, se coordinarán para establecer en los Municipios comités y programas de apoyo y cooperación voluntaria de la ciudadanía tendientes a la prevención de delitos y conductas antisociales en los ámbitos escolar, patrimonial, familiar, domiciliario y personal.
 
 ###### Artículo 36.
 
 La ciudadanía podrá participar en la elaboración de medidas para la vigilancia y seguridad de la población que auxilien a los cuerpos de seguridad pública a través de los comités de participación ciudadana que se describen en el siguiente artículo, así como aquellas comisiones que sean aprobadas por los Consejos Estatal, Regional y Municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 37.
 
-El Consejo Estatal, a través del Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana, apoyará al Secretario Ejecutivo Municipal en la promoción e integración de Comités de Consulta y Participación Ciudadana, que estarán vinculados con los Consejos Estatal y Municipal, siendo estos los siguientes:
+La Secretaría, a través del Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana o de la Subsecretaría de Gobierno, según sea el caso, apoyará al Secretario Ejecutivo Municipal en la promoción e integración de Comités de Consulta y Participación Ciudadana, que estarán vinculados con los Consejos Estatal y Municipal, siendo estos los siguientes:
 
 I. Comité Municipal de Consulta y Participación Ciudadana en Seguridad Pública: Son agrupaciones de personas físicas y representantes de personas morales integrantes de la sociedad, representativas del municipio y coordinadas por el Secretario Ejecutivo Municipal;
 
@@ -769,7 +805,9 @@ II. Comités de Vigilancia Vecinal: Están constituidos por personas físicas qu
 
 III. Comités de Participación Ciudadana Especializada: Están integrados por instituciones de educación superior, barras o asociaciones de abogados, especialistas y profesionistas en general; y
 
-IV. Subcomités de Seguridad Pública: Son agrupaciones de personas físicas y representantes de personas morales pertenecientes a las colonias, calles, planteles educativos y grupos organizados de la sociedad que participen en acciones de seguridad pública;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV. Subcomités de Seguridad Pública: Son agrupaciones de personas físicas y representantes de personas morales pertenecientes a las colonias, calles, planteles educativos y grupos organizados de la sociedad que participen en acciones de seguridad pública.
 
 Para estos fines serán convocados los sectores que integran la sociedad civil, así como las instituciones que fomenten la educación, el desarrollo económico, agropecuario y social, la cultura, el deporte y cualquier otra que tenga como finalidad coadyuvar en la seguridad pública.
 
@@ -839,11 +877,13 @@ a) El Gobernador;
 
 b) El Secretario de Gobierno;
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
-c) El Secretario de Seguridad Pública
+c) El Comisionado Estatal;
 
-d) El Procurador General de Justicia;
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+d) El Fiscal General del Estado de Morelos, y
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2013)</small>
 
@@ -863,9 +903,13 @@ Son Instituciones en materia de Seguridad Pública:
 
 I. Estatales:
 
-a) La Secretaría de Seguridad Pública;
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
-b) La Procuraduría General de Justicia;
+a) La Comisión Estatal de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+b) La Fiscalía General del Estado de Morelos, y
 
 c) El Secretariado Ejecutivo;
 
@@ -873,31 +917,29 @@ II. Municipales:
 
 a) El área responsable de la seguridad pública en los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 44.
 
-El Titular de la Secretaría deberá satisfacer los siguientes requisitos:
+El Comisionado Estatal de Seguridad Pública deberá satisfacer los siguientes requisitos:
 
-I. Poseer preferentemente el grado de mínimo de escolaridad de licenciatura, contando con título y cédula profesional expedidos por las autoridades correspondientes, o estudios superiores en materia de seguridad pública;
+I. Ser ciudadano mexicano por nacimiento y no tener otra nacionalidad así como encontrarse en pleno goce de sus derechos;
 
-II. No pertenecer al estado eclesiástico, ni ser Ministro de algún culto religioso;
+II. Tener treinta años de edad, cumplidos a la fecha de su designación;
 
-III. No haber sido destituido o inhabilitado de alguna institución de seguridad pública, contraloría o autoridad competente, federal, estatal o municipal para ocupar un cargo de ésta naturaleza;
+III. Contar con título y cédula profesional, legalmente expedidos;
 
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+IV. Ser de reconocida honorabilidad y honradez;
 
-IV. Contar con una residencia en el Estado en términos del artículo 75 fracción I de la Constitución Local, sin que se considere interrumpido este plazo cuando las ausencias, independientemente de su duración, sean con motivo del desempeño de un Cargo Público de la Federación o de elección popular;
+V. No haber sido sentenciado a pena privativa de libertad por delito doloso. De tratarse de ilícitos que lesionen seriamente la buena fama de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo, cualquiera que haya sido la penalidad impuesta;
 
-V. No haber sido condenado por la comisión de delito doloso castigado con pena privativa de libertad superior a un año, en cualquier Estado de la República; y
+VI. Acreditar fehacientemente haber servido en alguna corporación de seguridad pública del país, durante al menos cinco años, y
 
-VI. No usar ni consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares y no ser adictos a las bebidas alcohólicas.
+VII. No haber sido inhabilitado para el ejercicio de cargos, empleos o comisiones públicos.
 
-El Titular no desempeñará, simultáneamente, otro cargo, empleo o comisión en el ámbito federal, estatal o municipal, aunque sea sin goce de sueldo, excepto empleos y comisiones de educación y beneficencia pública.
+El Comisionado Estatal no desempeñará, simultáneamente, otro cargo, empleo o comisión en el ámbito Federal, Estatal o Municipal, aunque sea sin goce de sueldo, excepto empleos y comisiones de educación, beneficencia pública y seguridad pública.
 
-Cualquier otro cargo que tenga en el ámbito de la seguridad pública será exclusivamente honorario.
-
-El Titular tampoco podrá poseer por sí o por interpósita persona acciones o cualquier tipo de derecho en empresas o servicios auxiliares de seguridad pública.
+El Comisionado Estatal, tampoco podrá poseer por sí o por interpósita persona acciones o cualquier tipo de derecho en empresas o servicios auxiliares de seguridad pública.
 
 ###### Artículo 45.
 
@@ -959,9 +1001,11 @@ Las atribuciones de la Policía Preventiva Estatal, Policía Industrial, Bancari
 
 A la Policía Ministerial le competen las facultades que determinen la presente ley, la legislación procesal aplicable, y los demás reglamentos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 50.
 
-El mando supremo de las instituciones de seguridad pública del Gobierno del Estado, corresponde al Gobernador, quien delega el ejercicio de esta función en el ámbito de sus competencias en el Secretario de Gobierno, en el Secretario de Seguridad Pública y en el Procurador General de Justicia, para los efectos de llevar a cabo lo dispuesto en el presente ordenamiento y las demás leyes aplicables.
+El mando supremo de las Instituciones de Seguridad Pública del Gobierno del Estado, corresponde al Gobernador, quien delega el ejercicio de esta función en el ámbito de sus competencias en el Secretario de Gobierno, en el Comisionado Estatal de Seguridad Pública y en el Fiscal General del Estado de Morelos, para los efectos de llevar a cabo lo dispuesto en el presente ordenamiento y las demás leyes aplicables.
 
 El mando directo e inmediato de la policía municipal corresponde a los Presidentes Municipales, de conformidad con lo establecido en esta Ley y los reglamentos que de ella deriven, en los cuales se establecerán entre otros rubros los siguientes:
 
@@ -1097,11 +1141,11 @@ Las empresas de seguridad privada serán directamente responsables de la relaci�
 
 Para todo lo relativo a la integración, registro y funcionamiento de los prestadores del servicio de seguridad privada, se estará a lo dispuesto por la presente ley y por el reglamento que rige esta actividad.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 64.
 
-La Secretaría enviará en forma periódica al Secretariado Ejecutivo, la información relativa al registro del personal, equipo, información estadística y demás datos relativos a la seguridad privada, a través de los medios tecnológicos previstos por el Sistema Nacional, para efecto de mantener actualizado el padrón y lograr una mejor coordinación en materia de seguridad pública.
+El Comisionado Estatal, proporcionará al Secretariado Ejecutivo, cuando así resulte necesario, la información relativa al registro del personal, equipo, información estadística y demás datos relativos a la seguridad privada, a través de los medios tecnológicos previstos por el Sistema Nacional, para efecto de mantener actualizado el padrón y lograr una mejor coordinación en materia de seguridad pública.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
@@ -1505,31 +1549,51 @@ La imposición de las sanciones que determinen las autoridades correspondientes 
 
 La institución de procuración de justicia aplicará, operará y supervisará su régimen disciplinario a través de la instancia que para tal efecto determine, sobre las bases de la presente ley en concordancia con su normatividad interna.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 99 Bis.
 
-La Secretaría de Seguridad Pública, es la facultada exclusivamente para dictar los lineamientos o protocolos del uso de la fuerza pública en el Estado y que deberán asumir la institución de Procuración de Justicia, las propias instituciones de Seguridad Pública y las Instituciones Policiales, de conformidad con las bases siguientes:
+La Secretaría, a propuesta del Comisionado Estatal, es la facultada exclusivamente para dictar los lineamientos o protocolos del uso de la fuerza pública en el Estado y que deberán asumir la institución de Procuración de Justicia, las propias Instituciones de Seguridad Pública y las Instituciones Policiales, de conformidad con las bases siguientes:
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
 
 I. Señalará con toda precisión qué tipo de armas pueden usar los elementos para atender cada caso o situación particular y la gradualidad del uso de las armas.
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
 II. Establecerá disposiciones tendientes a fomentar el uso de las armas menos lesivas;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
 
 III. Contemplará mecanismos de control tanto para el almacenamiento como para la distribución de las armas;
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
 IV. Precisará la obligación de dar avisos de advertencia, previos al uso de las armas;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
 
 V. Preverá los lineamientos para la planeación estratégica y coordinada de los operativos, identificando tácticas y fuerzas a emplear en los diferentes escenarios, a fin de ajustarse al principio de proporcionalidad del uso de la fuerza;
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
 VI. Plasmará las condicionantes que justifican los operativos y las causas de suspensión de los mismos;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
 
 VII. Preverá los riesgos que pudieran presentarse en las acciones y sus respectivas alternativas de solución;
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+
 VIII. Especificará el curso de acción luego de una detención; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
 
 IX. Contemplará, en caso de llegar al uso de la fuerza, que trato y cuidado deben darse a las personas heridas y el aviso inmediato a sus familiares como una prioridad.
 
-La Secretaría de Seguridad Pública, está obligada a actualizar de manera mensual cada lineamiento o protocolo respectivo y de notificar fehacientemente a cada Institución su contenido.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+El Comisionado Estatal está obligado a actualizar de manera mensual cada lineamiento o protocolo respectivo y de notificar fehacientemente a cada Institución su contenido, con las autorizaciones que correspondan.
 
 ## TÍTULO SÉPTIMO. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
@@ -1703,9 +1767,11 @@ Las Instituciones de Seguridad Pública, conforme a lo dispuesto en la ley que p
 
 ### CAPÍTULO III. DEL COLEGIO ESTATAL DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 107.
 
-La Federación y las entidades federativas establecerán y operarán Academias e Institutos que serán responsables de aplicar los Programas Rectores de Profesionalización que tendrán, entre otras, las siguientes funciones:
+La Secretaría, en coordinación con el Comisionado Estatal, establecerá y operará Academias o Institutos que serán responsables de aplicar los Programas Rectores de Profesionalización que tendrán, entre otras, las siguientes funciones:
 
 I. Aplicar los procedimientos homologados del Sistema;
 
@@ -1741,9 +1807,11 @@ XVI. Supervisar que los aspirantes e integrantes de las Instituciones Policiales
 
 XVII. Las demás que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 108.
 
-En materia de planes y programas de Profesionalización para las Instituciones Policiales, la Secretaría tendrá la facultad de proponer a las Instancias de Coordinación de esta ley lo siguiente:
+En materia de planes y programas de profesionalización para las Instituciones Policiales, la Comisión Estatal de Seguridad Pública, tendrá la facultad de proponer a las Instancias de Coordinación de esta Ley lo siguiente:
 
 I. Los contenidos básicos de los programas para la formación, capacitación y profesionalización de los mandos de las Instituciones policiales;
 
@@ -1823,9 +1891,11 @@ V. El fortalecimiento de la participación ciudadana para el cumplimiento de los
 
 VI. La aplicación de los conocimientos y descubrimientos científicos para el logro de lo expuesto en las fracciones anteriores del presente artículo.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
-Artículo 114 bis.- Cuando de las acciones realizadas dentro de la entidad, derivadas del ejercicio de los Cuerpos de Seguridad Pública o de las fuerzas armadas federales, cuya finalidad haya sido preservar la seguridad pública, por las cuales se haya causado daño o perjuicio a las personas o sus bienes, el Titular del Poder Ejecutivo del Estado, adoptará de inmediato las providencias necesarias que permitan salvaguardar la vida y la integridad personal de los afectados, así como resarcir en la medida presupuestal autorizada el daño causado, por conducto de la Secretaría de Finanzas y Planeación del Gobierno del Estado, de las que deberá informar al Congreso de la entidad, al rendir la Cuenta Pública correspondiente.
+Artículo 114 bis.- El Gobernador adoptará de inmediato las providencias necesarias que permitan salvaguardar la vida y la integridad personal de los afectados que, como consecuencia de las acciones realizadas, dentro de la Entidad, por los Cuerpos de Seguridad Pública o de las fuerzas armadas federales, cuya finalidad haya sido preservar la seguridad pública y que por las cuales se haya causado daño o perjuicio a las personas o sus bienes, ordenando, resarcir el daño causado.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2010)</small>
 
 Lo anterior independientemente y sin perjuicio de las pretensiones o acciones que correspondan a los afectados, de conformidad con lo dispuesto por el Artículo 113 Segundo (sic) párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1849,7 +1919,9 @@ Las instituciones de seguridad pública realizarán las acciones necesarias para
 
 Promoverán el establecimiento de un servicio de comunicación que reciba los reportes de la comunidad, sobre las emergencias, faltas y delitos de que tenga conocimiento.
 
-El servicio tendrá comunicación directa con la Secretaría, la cual inmediatamente canalizará a las Instituciones de Seguridad Pública, de salud, de protección civil y las demás asistenciales públicas y privadas que corresponda, para su efectiva atención.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+El servicio tendrá comunicación directa con la Comisión Estatal de Seguridad Pública, la cual inmediatamente canalizará a las Instituciones de Seguridad Pública, de salud, de protección civil y las demás asistenciales públicas y privadas que corresponda, para su efectiva atención.
 
 ###### Artículo 117.
 
@@ -1867,7 +1939,9 @@ V. Proponer reconocimientos por méritos o estímulos para los Integrantes de la
 
 VI. Realizar denuncias o quejas sobre irregularidades, y
 
-Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de Seguridad Pública.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+VII. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de Seguridad Pública.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
@@ -1977,27 +2051,11 @@ Con el objeto de establecer el Sistema de Prevención, Combate, Protección, Ate
 
 El Consejo Estatal de Seguridad Pública, conformará en los términos del artículo 14 de la presente Ley, una comisión permanente cuyo propósito será promover, proponer y concertar acciones en la Entidad que prevengan, combatan y procuren la sanción de la trata de personas y de todos los medios que le asisten a su perpetración.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011) (REFORMADA SU NUMERACIÓN [N. DE E. ANTES ARTÍCULO 131-C], P.O. 26 DE MARZO DE 2014)
 
-## TÍTULO NOVENO. DE LA PLANEACIÓN
+###### Articulo 130-C.
 
-### CAPÍTULO I. DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
-
-###### Artículo 131.
-
-El Programa Estatal es un instrumento que tiene como propósitos:
-
-I. Formalizar ante la sociedad los compromisos de mejora constante de la seguridad pública y en particular la prevención del delito;
-
-II. Establecer los mecanismos para combatir las causas generadoras de inseguridad pública;
-
-III. Desarrollar las operaciones de una manera organizada, racional y eficiente; y
-
-IV. Facilitar la rendición de cuentas y la evaluación del sistema estatal.
-
-###### Articulo 131
-
-C (SIC).- En la conformación de esta Comisión, el Consejo Estatal deberá garantizar que la misma contará con los representantes de las dependencias de la administración pública estatal, del Congreso del Estado y del Tribunal Superior de Justicia y de los especialistas, académicos y representes de la sociedad, suficientes para cumplir con los; cometidos siguientes:
+En la conformación de esta Comisión, el Consejo Estatal deberá garantizar que la misma contará con los representantes de las dependencias de la administración pública estatal, del Congreso del Estado y del Tribunal Superior de Justicia y de los especialistas, académicos y representes de la sociedad, suficientes para cumplir con los cometidos siguientes:
 
 I. Elaborar los estudios para conformar un diagnóstico anual acerca de la situación de la trata de personas en el Estado;
 
@@ -2021,7 +2079,7 @@ X. Recopilar, con la ayuda de instituciones y organismos pertinentes, los datos 
 
 a. El número de detenciones, procesos judiciales y sentencias condenatorias en el que estén involucrados tratantes de personas;
 
-b. El numero de víctimas de trata de personas, su sexo, estado civil, edad, nacionalidad, modalidad de victimización, y en su caso, calidad migratoria.
+b. El número de víctimas de trata de personas, su sexo, estado civil, edad, nacionalidad, modalidad de victimización, y en su caso, calidad migratoria.
 
 XI. Elaborar esquemas que someta a la consideración del Consejo Estatal, de cómo propiciar una adecuada comunicación y colaboración con otros órganos colegiados de la Federación, las Entidades Federativas y el Distrito Federal, con facultades para combatir y erradicar la trata de personas;
 
@@ -2029,31 +2087,31 @@ XII. Fungir como órgano asesor de los tres poderes públicos del Estado de en m
 
 XIII. Las demás que el Consejo Estatal le atribuya para cumplir cabalmente con su propósito.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 131-D], P.O. 26 DE MARZO DE 2014)</small>
 
-###### Artículo 131
+###### Artículo 130-D.
 
-D (SIC).- El Consejo Estatal en materia de trata de personas, además de las atribuciones que tiene enunciadas en el artículo 15 de la presente Ley, tendrá en materia de política de prevención y protección a las víctimas de la trata de personas, las siguientes:
+El Consejo Estatal en materia de trata de personas, además de las atribuciones que tiene enunciadas en el artículo 15 de la presente Ley, tendrá en materia de política de prevención y protección a las víctimas de la trata de personas, las siguientes:
 
-XIV.(SIC) Sensibilizar a la población mediante la divulgación de material referente al delito de trata de personas y los derechos de las víctimas;
+I.- Sensibilizar a la población mediante la divulgación de material referente al delito de trata de personas y los derechos de las víctimas;
 
-XV. Proponer medidas educativas, sociales, culturales y de cualquier otra Índole para desalentar la demanda que propicia cualquier forma de explotación relacionada con la trata de personas, señalando las repercusiones que el delito conlleva;
+II.- Proponer medidas educativas, sociales, culturales y de cualquier otra índole para desalentar la demanda que propicia cualquier forma de explotación relacionada con la trata de personas, señalando las repercusiones que el delito conlleva;
 
-XVI. Realizar campañas de información acerca de los métodos utilizados por los responsables del delito de trata de personas para captar o reclutar a las víctimas;
+III.- Realizar campañas de información acerca de los métodos utilizados por los responsables del delito de trata de personas para captar o reclutar a las víctimas;
 
-XVII. Informar sobre los riesgos a la salud que sufren las víctimas de trata de personas;
+IV.- Informar sobre los riesgos a la salud que sufren las víctimas de trata de personas;
 
-XVIII. Fomentar la participación ciudadana y la solidaridad, a fin de reducir los factores de vulnerabilidad de las personas;
+V.- Fomentar la participación ciudadana y la solidaridad, a fin de reducir los factores de vulnerabilidad de las personas;
 
-XIX. Promover la cultura de la denuncia como un factor indispensable en la lucha contra el crimen organizado, la impunidad y la aceptación, social del delito; y
+VI.- Promover la cultura de la denuncia como un factor indispensable en la lucha contra el crimen organizado, la impunidad y la aceptación social del delito, y
 
-XX. Las demás que considere necesarias para la prevención del delito de trata de personas.
+VII.- Las demás que considere necesarias para la prevención del delito de trata de personas.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011) (REFORMADA SU NUMERACIÓN [N. DE E. ANTES ARTÍCULO 131-E, P.O. 26 DE MARZO DE 2014)
 
-###### Articulo 131
+###### Articulo 130-E.
 
-E (SIC).-. Las autoridades y dependencias que integran al Consejo Estatal de Seguridad Pública, con el objeto de procurarles a las víctimas del delito de trata de personas la restitución de sus derechos y dignidad, dentro de la esfera de competencia de cada una, garantizarán a los sujetos pasivos de este delito lo siguiente:
+. Las autoridades y dependencias que integran al Consejo Estatal de Seguridad Pública, con el objeto de procurarles a las víctimas del delito de trata de personas la restitución de sus derechos y dignidad, dentro de la esfera de competencia de cada una, garantizarán a los sujetos pasivos de este delito lo siguiente:
 
 I. Proporcionarles información, asesoramiento en su idioma o lengua materna sobre sus derechos y el proceso de los trámites judiciales y administrativos, de manera gratuita y expedita, acorde a su edad y madurez;
 
@@ -2071,17 +2129,49 @@ VII. Facilitarles el retorno al lugar en el que tuvieran su domicilio; y
 
 VIII. Las demás que se precisen necesarias para restituirles el ejercicio pleno de todos sus derechos humanos.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011) (REFORMADA SU NUMERACIÓN [N. DE E. ANTES ARTÍCULO 131-F, P.O. 26 DE MARZO DE 2014)
 
-###### Artículo 131
+###### Artículo 130-F.
 
-F (SIC).- Cuando el Consejo Estatal conozca de asuntos relacionados con la trata de personas, se incorporarán a él los siguientes legisladores al Congreso del Estado de Morelos:
+Cuando el Consejo Estatal conozca de asuntos relacionados con la trata de personas, se incorporarán a él los siguientes legisladores al Congreso del Estado de Morelos:
 
 a. El que presida la Comisión de Grupos Indígenas;
 
 b. El que presida la Comisión de Equidad de Género; y
 
 c. El que presida la Comisión de Migración.
+
+###### Artículo 131-C.
+
+(DEROGADO, P.O. 26 DE MARZO DE 2014)
+
+###### Artículo 131-D.
+
+(DEROGADO, P.O. 26 DE MARZO DE 2014)
+
+###### Artículo 131-E.
+
+(DEROGADO, P.O. 26 DE MARZO DE 2014)
+
+###### Artículo 131-F.
+
+(DEROGADO, P.O. 26 DE MARZO DE 2014)
+
+## TÍTULO NOVENO. DE LA PLANEACIÓN
+
+### CAPÍTULO I. DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
+
+###### Artículo 131.
+
+El Programa Estatal es un instrumento que tiene como propósitos:
+
+I. Formalizar ante la sociedad los compromisos de mejora constante de la seguridad pública y en particular la prevención del delito;
+
+II. Establecer los mecanismos para combatir las causas generadoras de inseguridad pública;
+
+III. Desarrollar las operaciones de una manera organizada, racional y eficiente; y
+
+IV. Facilitar la rendición de cuentas y la evaluación del sistema estatal.
 
 ###### Artículo 132.
 
@@ -2155,17 +2245,21 @@ Las instituciones de seguridad pública integrarán instrumentos, políticas y a
 
 Toda institución de seguridad pública, está obligada a suministrar la información necesaria a las bases de datos del Sistema Nacional, en los términos de la Ley General y acuerdos de los Consejos Nacional y Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 140.
 
-Con el fin de concentrar la información a que se refiere el artículo anterior, contar con estadísticas, índices delictivos, estrategias, programas y estudios especializados que permitan cumplir con los objetivos y metas propuestas, existirá una unidad administrativa denominada Centro Estatal de Análisis de Información sobre Seguridad Pública, que será operada por la Secretaría.
+Para los efectos del artículo anterior, el Análisis de la Información, estará a cargo de la Comisión Estatal de Seguridad Pública, por conducto de la Unidad Administrativa denominada Centro Estatal de Análisis de Información sobre Seguridad Pública, la que será la encargada de concentrar la información con el fin de contar con estadísticas, índices delictivos, estrategias, programas y estudios especializados, que permitan cumplir con los objetivos y metas propuestas, en materia de seguridad pública.
 
-El Centro Estatal se enlazará con el Sistema Nacional de Información sobre Seguridad Pública, con lo que tendrá acceso a las bases de datos de todo el país y contará de esta manera, con la información necesaria para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+La información se enlazará con el sistema de información sobre seguridad pública, con lo que tendrá acceso a las bases de datos de todo el país y contará de esta manera, con la información necesaria para el cumplimiento de sus funciones.
 
 El Coordinador del Centro Estatal, deberá contar con licenciatura y cédula profesional debidamente registrada y experiencia en el análisis de la información y con experiencia acreditada en la materia.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
-El Secretario dispondrá la evaluación periódica del funcionamiento del Centro Estatal y ordenará las acciones procedentes.
+El Comisionado Estatal dispondrá la evaluación periódica del funcionamiento del Centro Estatal y ordenará las acciones procedentes.
 
 ###### Artículo 141.
 
@@ -2247,9 +2341,11 @@ Para el acceso del público en general el principio que prevalecerá es que todo
 
 El Estado administrara la información de las bases de datos estatal y municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 147.
 
-El Secretario Ejecutivo con la información que le proporcione la Secretaria deberá presentar al Consejo Estatal en forma trimestral, un informe estadístico delincuencial con los siguientes aspectos:
+El Secretario Ejecutivo, con la información que le proporcione la Comisión Estatal de Seguridad Pública, deberá presentar al Consejo Estatal en forma trimestral, un informe estadístico delincuencial con los siguientes aspectos:
 
 I. Incidencias delictivas en faltas Administrativas;
 
@@ -2299,13 +2395,15 @@ Por lo que respecta al Tribunal Superior de Justicia están obligados a proporci
 
 ### CAPÍTULO III. DE LOS REGISTROS DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 149.
 
-Las instituciones de seguridad pública, cumplirán y mantendrán actualizados los registros previstos por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+Las Instituciones de Seguridad Pública, cumplirán y mantendrán actualizados los registros previstos por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 
-En el Estado el responsable de la operación y seguimiento de los registros nacionales de seguridad pública será la Secretaría en coordinación con el Secretariado Ejecutivo, siguiendo las políticas del Sistema Nacional y dando cumplimiento a los acuerdos nacionales.
+En el Estado el responsable de la operación y seguimiento de los Registros Nacionales de Seguridad Pública será la Comisión Estatal de Seguridad Pública en coordinación con el Secretariado Ejecutivo, siguiendo las políticas del Sistema Nacional y dando cumplimiento a los acuerdos nacionales.
 
-La Secretaría entregará un informe de los avances y nivel de actualización de los registros de las instituciones de seguridad pública al Secretariado Ejecutivo para hacerlo del conocimiento del Consejo Estatal.
+La Comisión Estatal de Seguridad Pública, entregará un informe de los avances y nivel de actualización de los registros de las Instituciones de Seguridad Pública al Secretariado Ejecutivo para hacerlo del conocimiento del Consejo Estatal.
 
 ### CAPÍTULO IV. DEL REGISTRO NACIONAL DEL PERSONAL EN SEGURIDAD PÚBLICA
 
@@ -2337,7 +2435,9 @@ II. Las armas y municiones que les hayan sido autorizadas por las dependencias c
 
 Los integrantes de las instituciones de Seguridad Pública y los prestadores del servicio de seguridad privada, sólo podrán portar las armas de cargo que les hayan sido autorizadas individualmente o aquéllas que se les hubiesen asignado en lo particular y que estén registradas colectivamente para la institución de seguridad pública a que pertenezca, de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
 
-A través de la Secretaría, mantendrán un registro de los elementos de identificación de huella balística de las armas asignadas a sus integrantes. Dicha huella deberá registrarse en una base de datos del Sistema.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+A través de la Comisión Estatal de Seguridad Pública, mantendrán un registro de los elementos de identificación de huella balística de las armas asignadas a sus integrantes. Dicha huella deberá registrarse en una base de datos del Sistema.
 
 ###### Artículo 155.
 
@@ -2419,19 +2519,19 @@ VI. La reincidencia en que haya incurrido el sujeto a procedimiento, la cual hay
 
 Las sanciones que determine el Consejo de Honor y Justicia o la instancia correspondiente, serán independientes de las responsabilidades en las materias penal, civil o administrativa en términos de la Ley de Responsabilidades, en que incurran los elementos de las instituciones de seguridad pública estatal o municipal.
 
-CAPÍTULO (SIC)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2014)</small>
 
-DE LA VISITADURÍA GENERAL Y LAS UNIDADES DE ASUNTOS INTERNOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
-
-### CAPÍTULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
+### CAPÍTULO II. DE LA VISITADURÍA Y LAS UNIDADES DE ASUNTOS INTERNOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
 ###### Artículo 162.
 
 En la Procuraduría, existirá una unidad administrativa que fungirá como órgano de control interno, investigación, vigilancia, supervisión y evaluación técnica-jurídica, denominada Visitaduría General, la cual, previa la investigación de los hechos denunciados, y en su caso, el desahogo del procedimiento administrativo correspondiente, someterá al Consejo de Honor y Justicia que para tal efecto se constituya, la propuesta de sanción derivada del procedimiento previsto en su propia Ley Orgánica en concordancia con lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 163.
 
-En la Secretaría y en las áreas de seguridad pública municipal, existirá una Unidad de Asuntos Internos, que estará bajo el mando inmediato de los Titulares de las Instituciones de Seguridad Pública respectivos.
+En la Comisión Estatal de Seguridad Pública y en las áreas de Seguridad Pública Municipal, existirá una Unidad de Asuntos Internos, que estará bajo el mando inmediato de los Titulares de las Instituciones de Seguridad Pública respectivos.
 
 Serán observadores y conocerán de aquellas actuaciones que ameriten algún reconocimiento o sanción para los elementos de las instituciones policiales, ya sea de oficio o a petición de algún mando.
 
@@ -2443,7 +2543,9 @@ I. Cuando reciban quejas y denuncias recibidas por cualquier medio, interpuestas
 
 II. Cuando por su competencia o a petición del superior jerárquico inmediato se considere que el elemento infringió los principios de actuación, obligaciones ó deberes establecidos en la presente Ley y otros ordenamientos legales;
 
-III. Aquéllos que instruya el titular de Seguridad Pública Estatal o Municipal, en su caso, incluidos los que correspondan al cumplimiento de una recomendación emitida por las Comisiones Estatal o Nacional de Derechos Humanos, aceptada por el propio titular; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+III. Aquellos que instruya el Comisionado Estatal o el titular de Seguridad Pública Municipal, en su caso, incluidos los que correspondan al cumplimiento de una recomendación emitida por las Comisiones Estatal o Nacional de Derechos Humanos, aceptada por el propio titular, y
 
 IV. Por acuerdos emitidos de los Consejos Municipales y Estatal de Seguridad Pública.
 
@@ -2527,17 +2629,19 @@ En aquellos casos que con motivo de su actuación, la Unidad de Asuntos Internos
 
 La Visitaduría General y las Unidades de Asuntos Internos, ejecutarán las resoluciones que tome el Consejo de Honor y Justicia y notificarán al elemento en proceso, y una vez que queden firmes, vigilarán y se coordinarán con las áreas administrativas y operativas correspondientes en lo relativo a la suspensión ó destitución, descuentos de adeudos, resguardos e inventario de equipo, inscripción en el Sistema Nacional de Personal de Seguridad Pública y otras medidas conducentes, su incumplimiento dará lugar a las sanciones previstas por la Ley Estatal de Responsabilidades.
 
-### CAPÍTULO l. DE LA QUEJA
+### CAPÍTULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 176.
 
-La Procuraduría, la Secretaría de Seguridad Pública Estatal y las áreas de seguridad pública municipales, contarán con un Consejo de Honor y Justicia, el cual conocerá y resolverá los asuntos que le sean turnados por la Visitaduría General y las Unidades de Asuntos Internos; una vez que se haya agotado todo el procedimiento establecido en esta ley y dentro de los plazos establecidos por la misma.
+La Fiscalía, la Comisión Estatal de Seguridad Pública y las áreas de Seguridad Pública Municipales, contarán con un Consejo de Honor y Justicia, el cual conocerá y resolverá los asuntos que le sean turnados por la Visitaduría y las Unidades de Asuntos Internos; una vez que se haya agotado todo el procedimiento establecido en esta Ley y dentro de los plazos establecidos por la misma.
 
 El Consejo de Honor y Justicia confirmará, modificará o negará la propuesta de sanción, por unanimidad o mayoría simple de sus miembros, respecto de los siguientes asuntos:
 
-I. La suspensión temporal del elemento;
+I. La suspensión temporal del elemento, y
 
-II. Los recursos de queja, revisión, rectificación.
+II. Los recursos de queja, revisión o rectificación.
 
 ###### Artículo 177.
 
@@ -2553,15 +2657,19 @@ I. El titular o el representante que éste designe de la institución de segurid
 
 II. Un representante del Secretariado Ejecutivo Estatal, quien intervendrá en los Consejos de Honor y Justicia Estatales y Municipales;
 
-III. Un representante del Secretariado Ejecutivo Municipal;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+III. Un representante del Secretariado Ejecutivo Municipal, en su caso;
 
 IV. Un representante de la Secretaría de Gobierno;
 
 V. Un representante de la Secretaría de Contraloría;
 
-VI. Un representante de la Facultad de Derecho y Ciencias Sociales de la Universidad Autónoma del Estado, en el caso de las instituciones estatales;
+VI. (DEROGADA, P.O. 26 DE MARZO DE 2014)
 
-VII. Dos vocales ciudadanos, que serán designados por el Consejo Estatal y Municipal de Seguridad Pública, según sea el caso; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+VII. Dos vocales ciudadanos, que serán designados por el Consejo Estatal o Municipal de Seguridad Pública, según sea el caso, y
 
 VIII. El titular de la Visitaduría General o de la Unidad de Asuntos Internos, quien fungirá como secretario técnico y sólo tendrá derecho a voz;
 
@@ -2587,7 +2695,7 @@ Para los efectos de práctica de diligencia, audiencia y notificaciones se consi
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS RECURSOS EN EL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. DE LA RECLAMACIÓN
+### CAPÍTULO l. DE LA QUEJA
 
 ###### Artículo 183.
 
@@ -2607,13 +2715,13 @@ El Presidente del Consejo de Honor y Justicia, tan pronto como reciba la queja, 
 
 En caso de declararse procedente la queja, la resolución que así lo determine fijará los lineamientos a que debe someterse la autoridad para debido cumplimiento a la misma.
 
-### CAPÍTULO III. DEL RECURSO DE REVISIÓN
+### CAPÍTULO II. DE LA RECLAMACIÓN
 
 ###### Artículo 185.
 
 El recurso de reclamación procede en contra del acuerdo dictado por el titular de la Unidad de Asuntos Internos respectiva, en el que se desechen las pruebas ofrecidas durante el procedimiento.
 
-### CAPÍTULO IV. DEL RECURSO DE RECTIFICACIÓN
+### CAPÍTULO III. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 186.
 
@@ -2635,9 +2743,7 @@ Concluido el período probatorio en su caso, la autoridad resolverá dentro de l
 
 No procederá el Recurso de Revisión, contra un cambio de adscripción decretado en razón de las necesidades del servicio y que no tenga el carácter de sanción.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
+### CAPÍTULO IV. DEL RECURSO DE RECTIFICACIÓN
 
 ###### Artículo 191.
 
@@ -2653,11 +2759,13 @@ Las resoluciones del Consejo de Honor y Justicia que recaigan sobre el Recurso d
 
 ## TÍTULO DÉCIMO TERCERO. RELACIÓN ADMINISTRATIVA DEL PERSONAL DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 194.
 
-Los titulares, mandos superiores y mandos medios de la Secretaría de Seguridad Pública, Procuraduría General de Justicia, Secretariado Ejecutivo del Sistema Estatal, las corporaciones de seguridad pública municipal se considerarán personal de seguridad pública; serán de libre designación y remoción, sujetándose para su ingreso y permanencia a las evaluaciones de certificación y control de confianza.
+Los titulares, mandos superiores y mandos medios de la Comisión Estatal de Seguridad Pública, Fiscalía, Secretariado Ejecutivo del Sistema Estatal, las corporaciones de Seguridad Pública Municipal se considerarán personal de seguridad pública; serán de libre designación y remoción, sujetándose para su ingreso y permanencia a las evaluaciones de certificación y control de confianza.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
 
@@ -2748,6 +2856,8 @@ III.- Las acciones para impugnar la resolución que de por terminada la relació
 La prescripción no comenzará a computarse contra los elementos que se encuentren privados de su libertad, siempre que sean absueltos por sentencia ejecutoriada.
 
 ## TÍTULO DÉCIMO QUINTO. DE LAS SANCIONES ADMINISTRATIVAS A LOS TITULARES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 203.
 
@@ -2924,3 +3034,15 @@ PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado,
 SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente decreto.
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal (sic) Seguridad Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
