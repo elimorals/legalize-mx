@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2014-02-26"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -455,9 +455,15 @@ El Instituto contará para el cumplimiento de sus atribuciones con:
 
 I. Una Junta de Gobierno;
 
-II. Un Director General; y
+II. Un Director General; y (sic)
 
-III. Un Consejo Consultivo, que será el Consejo Estatal del Deporte y Cultura Física.
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+III. Un órgano de vigilancia; y
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV. Un Consejo Consultivo, que será el Consejo Estatal del Deporte y Cultura Física.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2014)</small>
 
@@ -501,23 +507,31 @@ La Junta sesionará de manera ordinaria cada dos meses y de manera extraordinari
 
 Cuando la Junta de Gobierno así lo considere podrá invitar con voz pero sin voto, a quienes puedan coadyuvar con sus opiniones al mejor desarrollo del organismo.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 33.
 
-El Director General será nombrado y removido por el Titular del Ejecutivo Estatal y durará en su cargo tres años, pudiendo ser designado por un período más.
+El Director General del Instituto, será nombrado y removido por el Titular del Poder Ejecutivo Estatal, o previo acuerdo con la persona de la Secretaría coordinadora de sector, dicha designación quedará a cargo del Gobernador, y durará en su cargo tres años. Cuando exista cambio del Titular del Poder Ejecutivo Estatal, procederá el nombramiento de un nuevo Titular o Director General, excepto en el caso de que, quien se encuentre en su cargo, sea nombrado por un período más.
 
 ###### ARTÍCULO 34.
 
 Para ser Director General, deberán reunirse los siguientes requisitos:
 
-I. Ser preferentemente ciudadano morelense y acreditar tener conocimiento en la materia para el buen desempeño de su función;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+I. Ser ciudadano morelense por nacimiento o por residencia, en este último caso, haber residido en la entidad un mínimo de diez años anteriores a la fecha del nombramiento.
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 II. Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en el artículo 81, fracciones II, III y IV, de la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
-III. Contar preferentemente con Título y Cédula Profesional a nivel Licenciatura en cualquiera de las siguientes especialidades: Educación Física, Entrenamiento deportivo, Cultura Física, Administración Deportiva, además tener experiencia y liderazgo en gestión administrativa, deportiva y social; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-IV. Ser mayor de veinticinco años.
+III. Tener conocimiento y experiencia en materia administrativa; y
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV. Tener 25 años de edad al momento de su nombramiento.
 
 ###### ARTÍCULO 35.
 
@@ -551,7 +565,9 @@ IX. Aprobar anualmente con base en el informe de los comisarios y dictamen de lo
 
 X. Autorizar el otorgamiento de becas a deportistas, así como de reconocimientos a los mismos; de acuerdo a los procedimientos y reglas aplicables;
 
-XI. Aprobar el Reglamento Interior del Instituto del Deporte y Cultura Física, así como los Manuales de Organización, de Procedimientos y de Servicios al público, así como las reformas y adiciones;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XI. Establecer las bases esenciales de la estructura del Instituto y sus modificaciones; además aprobar y expedir su Estatuto Orgánico y las demás disposiciones reglamentarias o administrativas.
 
 XII. Establecer las bases esenciales de la estructura básica de la organización del Instituto y sus modificaciones que procedan a la misma;
 
@@ -597,7 +613,9 @@ XI. Establecer relaciones de coordinación con las autoridades federales, estata
 
 XII. Realizar las actividades que se requieran para lograr la óptima realización de los servicios deportivos a la comunidad;
 
-XIII. Someter a la aprobación de la Junta de Gobierno, el Reglamento Interno del Instituto del Deporte y Cultura Física y sus modificaciones;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XIII. Someter a la aprobación de la Junta de Gobierno, el Estatuto Orgánico del Instituto y sus modificaciones, así como las demás disposiciones reglamentarias o administrativas.
 
 XIV. Someter a la aprobación de la Junta de Gobierno el Programa Operativo Anual y el Proyecto de Presupuesto Anual de Ingresos y Egresos del Instituto del Deporte y Cultura Física;
 
@@ -667,9 +685,11 @@ V. Solicitar a la Junta de Gobierno o al Director General información que requi
 
 ### CAPÍTULO SÉPTIMO. DE LAS RELACIONES LABORALES
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 42.
 
-Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la Ley del Servicio Civil del Estado de Morelos.
+Las relaciones laborales entre el Instituto y sus trabajadores se regirán por la legislación aplicable y el Reglamento de las condiciones generales de trabajo que se establezca.
 
 ## TÍTULO TERCERO. DE LA PARTICIPACIÓN DE LOS SECTORES
 
@@ -1496,3 +1516,11 @@ Dentro de un plazo de 90 días hábiles contados a partir de la instalación de 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
