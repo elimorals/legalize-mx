@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2013-08-14"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -589,13 +589,19 @@ I.- Gobernador del Estado, quien lo Presidirá;
 
 II.- Secretaría de Salud, que asumirá la vicepresidencia;
 
-III.- Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-IV.- Secretaría de Desarrollo Humano y Social,
+III.- Secretaría de Gobierno, representada por el Comisionado Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV.- Secretaría de Desarrollo Social;
 
 V.- Secretaría de Educación;
 
-VI.- Secretaría de Finanzas y Planeación.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+VI.- Secretaría de Hacienda.
 
 Las personas titulares asistirán a las reuniones del Consejo, los cuales podrán nombrar a un suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al del titular.
 
@@ -603,7 +609,9 @@ La Secretaría invitará a formar parte del Consejo de manera permanente, a un r
 
 Los integrantes del Consejo tendrán derecho a voz y voto.
 
-Serán invitados permanentes del Consejo las y los Presidentes de las Comisiones de Salud, Justicia y Derechos Humanos, Atención a Grupos Vulnerables y Personas con Discapacidad, Equidad de Género y Participación Ciudadana del Congreso del Estado de Morelos.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+Serán invitados permanentes del Consejo las y los Diputados Presidentes de las Comisiones de Salud, Justicia y Derechos Humanos, Atención a Grupos Vulnerables y Personas con Discapacidad, Equidad de Género y Participación Ciudadana y Reforma Política, todas ellas del Congreso del Estado de Morelos.
 
 A las sesiones podrán asistir como invitados, personas expertas en materia de salud mental, de los sectores público, social y privado que el pleno del Consejo considere para emitir opiniones, aportar información, o apoyar acciones sobre el tema que se defina.
 
@@ -820,3 +828,15 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
