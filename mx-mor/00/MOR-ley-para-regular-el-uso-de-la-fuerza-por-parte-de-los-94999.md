@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-regular-el-uso-de-la-fuerza-por-parte-de-los-94999"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-26"
-last_updated: "2013-06-26"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA REGULAR EL USO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de junio de 2013.
 
@@ -47,13 +47,15 @@ LEY PARA REGULAR EL USO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCI
 
 La presente Ley es de orden público y tiene por objeto regular el uso de la fuerza por parte de los elementos de las instituciones policiales del Sistema de Seguridad Pública del Estado de Morelos, que tengan la facultad de emplearla para cumplir sus funciones de salvaguarda de la integridad, derechos y bienes de las personas, preservar la paz y la seguridad pública, así como la prevención y combate de la delincuencia.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 2.
 
 Para efectos de esta Ley se entiende por:
 
 Arma: Cualquier instrumento u objeto susceptible de causar daño, lesiones o privar de la vida;
 
-Armas de fuego: Las autorizadas para el uso de las instituciones policiales y de procuración de justicia del Sistema de Seguridad Pública del Estado de Morelos, de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, así como en términos de la Licencia Oficial Colectiva correspondiente;
+Armas de fuego: Las autorizadas para el uso de las Instituciones Policiales y de Procuración De Justicia del Sistema de Seguridad Pública del Estado de Morelos, de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, así como en términos de la Licencia Oficial Colectiva correspondiente;
 
 Armas incapacitantes no letales: Aquellas que por su naturaleza no ocasionan lesiones que puedan poner en riesgo la vida de las personas;
 
@@ -61,9 +63,9 @@ Armas letales: Las que ocasionan o pueden ocasionar lesiones graves o la muerte;
 
 Control físico: Empleo de técnicas y métodos sobre una persona con la finalidad de asegurarla o inmovilizar sus movimientos para realizar una revisión de seguridad, a efecto de que no pueda dañarse a sí mismo, al elemento o a terceros;
 
-Elementos: Los miembros de la Policía Preventiva Estatal con sus grupos de investigación, de las policías municipales hayan o no celebrado Convenio para el Mando Único Policial en el Estado, de la policía ministerial, así como los encargados de la vigilancia y custodia de los establecimientos de reinserción social, de seguridad durante los procesos judiciales, así como de vigilancia en el cumplimiento de las medidas cautelares tanto de adolescentes como de adultos;
+Elementos: Los miembros de la Policía Preventiva Estatal con sus grupos de investigación, de las Policías Municipales hayan o no celebrado Convenio para el Mando Único Policial en el Estado, de la Policía de Investigación Criminal, así como los encargados de la vigilancia y custodia de los establecimientos de reinserción social, de seguridad durante los procesos judiciales, así como de vigilancia en el cumplimiento de las medidas cautelares tanto de adolescentes como de adultos;
 
-Ley: La presente Ley para regular el Uso de la Fuerza por parte de los Elementos de las Instituciones Policiales del Sistema de Seguridad Pública del Estado de Morelos;
+Ley: La presente Ley para regular el Uso de la Fuerza por parte de los Elementos de las Instituciones Policiales del Sistema de Seguridad Pública del Estado de Morelos.
 
 Persuasión Verbal: Empleo del lenguaje y de modulación progresiva de la voz por parte del elemento para que alguna persona desista de realizar una acción que implique un ilícito, falta administrativa o cualesquier otra que obstaculice y ponga en riesgo la seguridad u otros bienes jurídicamente tutelados;
 
@@ -75,9 +77,9 @@ Resistencia activa: La que efectúa una persona con el propósito de provocar le
 
 Resistencia agravada: La que realiza una persona y que se traduce en una agresión real, actual o inminente, y sin derecho, sea a la vida propia, de terceros o del elemento, con la finalidad de impedir su detención o desobedecer un mandamiento legal del elemento u otra autoridad competente;
 
-Secretaría: La Secretaría de Seguridad Pública del Estado de Morelos, y
+Comisión Estatal: La Comisión Estatal de Seguridad Pública, y
 
-Uso legítimo de la fuerza: El que se efectúa mediante el empleo de técnicas, tácticas, procedimientos estandarizados y métodos ajustados a los distintos niveles de fuerza que pueden ser empleados sobre las personas, de conformidad con las disposiciones de esta Ley, y los Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego por los Funcionarios así como el Código de Conducta para Funcionarios encargados de hacer cumplir la Ley, ambos adoptados por la Asamblea General de las Naciones Unidas.
+Uso legitimo de la fuerza: El que se efectúa mediante el empleo de técnicas, tácticas, procedimientos estandarizados y métodos ajustados a los distintos niveles de fuerza que pueden ser empleados sobre las personas, de conformidad con las disposiciones de esta Ley, y los Principios Básicos sobre el Empleo de la Fuerza y de Armas de Fuego por los Funcionarios así como el Código de Conducta para Funcionarios encargados de hacer cumplir la Ley, ambos adoptados por la Asamblea General de las Naciones Unidas.
 
 ###### Artículo 3.
 
@@ -343,9 +345,11 @@ Los elementos deberán preservar las evidencias, objetos e indicios del lugar de
 
 ### CAPÍTULO VIII. OBLIGACIONES DE LAS INSTITUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 29.
 
-La Secretaría, además de las obligaciones que le confieran otras disposiciones jurídicas aplicables, tendrá las siguientes:
+La Comisión Estatal, además de las obligaciones que le confieran otras disposiciones jurídicas aplicables, tendrá las siguientes:
 
 Emitir los lineamientos o protocolos en el uso de la fuerza, considerando la infraestructura técnica, material y humana necesaria para la planeación y la operación de los mismos;
 
@@ -355,19 +359,25 @@ Establecer mecanismos de control para el almacenamiento, entrega y resguardo de 
 
 Determinar políticas para prevenir incidentes de uso ilegítimo de la fuerza por parte de los elementos.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 30.
 
-La Secretaría, la Procuraduría General de Justicia del Estado de Morelos y las autoridades en materia de reinserción social, deberán dar respuesta, en términos de la legislación de la materia, a las solicitudes de información, peticiones o recomendaciones de las autoridades u organismos competentes, respecto del uso de la fuerza por parte de sus elementos.
+La Comisión Estatal, la Fiscalía General del Estado de Morelos y las autoridades en materia de reinserción social, deberán dar respuesta, en términos de la legislación de la materia, a las solicitudes de información, peticiones o recomendaciones de las autoridades u organismos competentes, respecto del uso de la fuerza por parte de sus elementos.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 31.
 
-La Secretaría, la Procuraduría General de Justicia del Estado de Morelos y las autoridades en materia de reinserción social, o los Ayuntamientos que no hayan celebrado convenio para el mando único policial, deberán contar con una base de datos que contenga el registro de las armas con que cuenten, así como el detalle de las armas y equipo asignado a cada elemento.
+La Comisión Estatal, la Fiscalía General del Estado de Morelos y las autoridades en materia de reinserción social, o los Ayuntamientos que no hayan celebrado convenio para el mando único policial, deberán contar con una base de datos que contenga el registro de las armas con que cuenten, así como el detalle de las armas y equipo asignado a cada elemento.
 
 ### CAPÍTULO IX. PROTOCOLOS Y MANUALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 32.
 
-La Secretaría dictará los lineamientos o protocolos del uso de la fuerza pública en el Estado, de conformidad con la presente Ley, ajustándose a las bases siguientes:
+La Comisión Estatal, dictará los lineamientos o protocolos del uso de la fuerza pública en el Estado, de conformidad con la presente Ley, ajustándose a las bases siguientes:
 
 Señalará con toda precisión qué tipo de armas pueden usar los elementos, para atender cada caso o situación particular y la gradualidad o niveles del uso de las armas;
 
@@ -387,7 +397,9 @@ Especificará el curso de acción luego de una detención, y
 
 Contemplará, en caso de llegar al uso de la fuerza, qué trato y cuidados deben darse a las personas heridas y el aviso inmediato a sus familiares como una prioridad.
 
-La Secretaría está obligada a actualizar de manera mensual los lineamientos o protocolos y notificar su contenido, fehacientemente, a cada institución que deba cumplirlos.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+La Comisión Estatal, está obligada a actualizar de manera mensual los lineamientos o protocolos y notificar su contenido, fehacientemente, a cada institución que deba cumplirlos.
 
 ###### Artículo 33.
 
@@ -397,9 +409,11 @@ Los lineamientos o protocolos sobre el uso de la fuerza a que hace referencia el
 
 Los lineamientos o protocolos sobre el uso de la fuerza determinarán las prácticas que el elemento deberá cumplir para considerarse capacitado para el uso de la fuerza, en los distintos niveles permisibles, así como la periodicidad del entrenamiento o adiestramiento para el uso legítimo de las armas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 35.
 
-La Secretaría deberá emitir el Manual de evaluación, control y supervisión del uso de la fuerza.
+La Comisión Estatal deberá emitir el Manual de evaluación, control y supervisión del uso de la fuerza.
 
 Su finalidad será establecer los procedimientos y metodologías que sirvan para verificar la aplicación de las prácticas estandarizadas contenidas en los lineamientos o protocolos sobre el uso de la fuerza, con el objeto de supervisar y evaluar que sea legítimo, en términos de la presente Ley; para que del análisis y resultados de la evaluación se puedan inferir enseñanzas y buenas prácticas, o en su defecto hacer del conocimiento de la autoridad competente los hechos de uso ilegítimo de la fuerza para que puedan seguirse los procedimientos legales tendientes a aplicar las medidas o sanciones disciplinarias, administrativas o de otra naturaleza que resulten procedentes.
 
@@ -415,9 +429,11 @@ Con motivo de la concurrencia en materia de seguridad pública, cuando para el u
 
 Cada elemento tiene el derecho humano a la protección de su vida e integridad física, así como al respeto de su dignidad como persona y al reconocimiento de la autoridad institucional que representa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 38.
 
-La Secretaría, la Procuraduría General de Justicia del Estado de Morelos y las autoridades en materia de reinserción social o, en su caso, los Ayuntamientos deberán proporcionar a sus respectivos elementos distintos tipos de armas y municiones para que puedan hacer un uso diferenciado de la fuerza y de las armas de fuego, atendiendo a los niveles permitidos por la presente Ley. Entre dichas armas deben proporcionarse armas incapacitantes no letales para emplearlas cuando fuera apropiado, a fin de restringir en la medida de lo posible el empleo de fuerza letal.
+La Comisión Estatal, la Fiscalía General del Estado de Morelos y las autoridades en materia de reinserción social o, en su caso, los Ayuntamientos deberán proporcionar a sus respectivos elementos distintos tipos de armas y municiones para que puedan hacer un uso diferenciado de la fuerza y de las armas de fuego, atendiendo a los niveles permitidos por la presente Ley. Entre dichas armas deben proporcionarse armas incapacitantes no letales para emplearlas cuando fuera apropiado, a fin de restringir en la medida de lo posible el empleo de fuerza letal.
 
 También debe proporcionarse a los elementos equipo de autoprotección como escudos, cascos, chalecos a prueba de balas y medios de transporte, de ser posible blindados.
 
@@ -528,3 +544,17 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado (sic) Unidos Mexicanos.
