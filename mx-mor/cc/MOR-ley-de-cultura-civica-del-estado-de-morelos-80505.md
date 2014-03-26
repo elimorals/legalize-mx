@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-cultura-civica-del-estado-de-morelos-80505"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2011-03-30"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE CULTURA CIVICA DEL ESTADO DE MORELOS
 
-LEY DE CULTURA CIVICA DEL ESTADO DE MORELOS
+LEY DE CULTURA CIVICA DEL ESTADO DE MORELOS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Reglamento publicado en la segunda sección del Periódico Oficial del estado de Morelos, el miércoles 30 de marzo de 2011.
 
@@ -35,7 +35,7 @@ Que el Congreso del Estado se ha servido enviarme para su promulgación lo sigui
 
 LA QUINCUAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-I. ANTECEDENTES:.
+I. ANTECEDENTES:...
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -49,6 +49,10 @@ LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS.
 
 Las disposiciones de esta Ley son de orden público y de interés social, regirán en todo el Estado y tiene por objeto, establecer las reglas mínimas de comportamiento cívico para garantizar el respeto a las personas, los bienes públicos y privados, así como determinar las acciones para su cumplimiento.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+
+Así como la promoción de una cultura de legalidad, en la que prevalezca la difusión del orden normativo, de los derechos y obligaciones de los ciudadanos y los servidores públicos, así como la convivencia armónica.
+
 ###### Artículo 2.
 
 Son valores cívicos en el Estado, los que favorecen la convivencia respetuosa y armónica de sus habitantes, tales como los siguientes:
@@ -59,9 +63,15 @@ II. La autorregulación, sustentada en la capacidad de los habitantes del estado
 
 III. La prevalencia del diálogo y la conciliación como medios de solución de conflictos;
 
-IV. El sentido de pertenencia a la comunidad y al Estado, y
+IV. El sentido de pertenencia a la comunidad y al Estado, y (sic)
 
-V. La solidaridad y colaboración entre ciudadanos y autoridades, corno una vertiente del mejoramiento del entorno y de la calidad de vida.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+V. La solidaridad y colaboración entre ciudadanos y autoridades, como una vertiente del mejoramiento del entorno y de la calidad de vida; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+VI. La legalidad como un sistema normativo y una cultura de acciones orientadas al ejercicio, respeto y cumplimiento de la ley por parte de ciudadanos y servidores públicos.
 
 ###### Artículo 3.
 
@@ -137,7 +147,9 @@ V. Secretarios de los Juzgados Cívicos.
 
 Corresponde al Ejecutivo del Estado:
 
-I. Implementar e impulsar a través de las Secretarías que comprenden la Administración Pública Estatal, las políticas públicas tendientes a la difusión de los valores y principios cívicos, éticos y morales como formas de una cultura cívica;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+I. Implementar e impulsar a través de las Secretarías que comprenden la Administración Pública Estatal, las políticas públicas tendientes a la difusión de los valores y principios cívicos, éticos y morales como formas de una cultura cívica y de la legalidad;
 
 II. Promover la difusión de los valores y principios cívicos, éticos y morales como parte de la cultura cívica a través de campañas de información sobre sus objetivos y alcances;
 
@@ -177,7 +189,9 @@ l. Dotar de espacios físicos, recursos materiales y financieros para la eficaz 
 
 II. Conservar los Juzgados en óptimas condiciones de uso;
 
-III. Promover en el ámbito de su competencia la difusión de los principios y valores, así como de los derechos y obligaciones de los habitantes del Estado, como parte del fomento de la cultura cívica del Estado;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+III. Promover en el ámbito de su competencia la difusión de los principios y valores, profundizando en el conocimiento y observancia de los derechos y obligaciones de ciudadanos y servidores públicos en la materia, como parte del fomento de la cultura cívica del Estado;
 
 IV. Implementar campañas de información sobre los objetivos y alcances del fomento de la cultura cívica en los términos de esta Ley y el Reglamento que al efecto expida el Cabildo;
 
@@ -185,9 +199,13 @@ V. Supervisar y evaluar el desempeño de su personal en la aplicación de la pre
 
 VI. Llevar a cabo de forma periódica cursos formativos de cultura cívica a su personal y a la sociedad en general;
 
-VII. Registrar a través del área de seguridad pública correspondiente, las detenciones y remisiones de probables infractores realizadas por los policías; y
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
 
-VIII. Las que determine esta Ley y demás ordenamientos aplicables.
+VII. Proporcionar al Juez Cívico y al Secretario del Juzgado, capacitación en métodos alternos de solución de conflictos, como la mediación y conciliación;
+
+VIII. Registrar, a través del área de seguridad pública correspondiente, las detenciones y remisiones de probables infractores realizadas por los policías; y
+
+IX. Las que determine esta Ley y demás ordenamientos aplicables.
 
 ###### Artículo 12.
 
@@ -249,9 +267,11 @@ VIII. Suplir las ausencias del Juez.
 
 ### CAPÍTULO I. DE LA CULTURA CÍVICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 14.
 
-Para la preservación del orden público, la Administración Pública Estatal y la Municipal, en el ámbito de su competencia, promoverá el desarrollo de una cultura cívica, sustentada en los valores y principios de prudencia, respeto, justicia, equidad, honestidad, responsabilidad, libertad, igualdad, solidaridad, diálogo, corresponsabilidad, identidad, autorregulación, colaboración, conciliación, y sentido de pertenencia, con el objeto de:
+Para la preservación del orden público, la Administración Pública Estatal y la Municipal, en el ámbito de su competencia, promoverá el desarrollo de una cultura cívica, sustentada en los valores y principios de prudencia, respeto, justicia, legalidad, equidad, honestidad, responsabilidad, libertad, igualdad, solidaridad, diálogo, corresponsabilidad, identidad, autorregulación, colaboración, conciliación, y sentido de pertenencia, con el objeto de:
 
 I. Fomentar la participación activa de los habitantes del Estado y sus municipios, en la preservación del orden público, por medio del conocimiento, ejercicio, respeto y cumplimiento de sus derechos y obligaciones; y
 
@@ -292,6 +312,22 @@ VIII. Conservar limpias las vías y espacios públicos;
 IX. Hacer uso adecuado de los bienes, espacios y servicios públicos conforme a su naturaleza y destino;
 
 X. Proteger, conservar y cuidar los recursos culturales y naturales del Estado y municipios.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XI. Preservar el equipamiento y mobiliario urbano, así como los bienes de interés cultural, urbanístico y arquitectónico de la ciudad;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XII. Resguardar la flora y fauna en áreas verdes, áreas de valor ambiental, áreas naturales protegidas y conservación del suelo del Estado de Morelos;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XIII. Denunciar o dar aviso a las autoridades de la comisión de cualquier infracción a las leyes o delitos, así como de cualquier actividad o hechos que causen daño a terceros o afecten la convivencia; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XIV. Colaborar con las autoridades competentes en las acciones y programas que promuevan el mejoramiento de la salud, conservación del medio ambiente y la ecología, así como en las medidas en casos de siniestros y desastres para la prevención y protección civil.
 
 ## TÍTULO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -335,9 +371,11 @@ VI. Invitar a la prostitución o ejercerla, así como solicitar dicho servicio. 
 
 VII. Ocupar los accesos de oficinas públicas o sus inmediaciones ofreciendo la realización de trámites que en la misma se proporcionen, sin tener autorización para ello.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 19.
 
-Las infracciones contra la tranquilidad de las personas establecidas en el artículo anterior se sancionarán: fracción I: multa por el equivalente de 1 a 10 días de salario mínimo o con arresto de 6 a 12 horas; fracciones II y VI, multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas; y la fracción VII con arresto de 20 a 36 horas.
+Las infracciones contra la tranquilidad de las personas establecidas en el artículo anterior se sancionarán: fracción I: multa por el equivalente de 1 a 10 días de Salario Mínimo o con arresto de 6 a 12 horas; fracciones II a VI, multa por el equivalente de 11 a 20 días de Salario Mínimo o con arresto de 13 a 24 horas; y la fracción VII con arresto de 20 a 36 horas.
 
 ###### Artículo 20.
 
@@ -381,19 +419,23 @@ Cuando se cause daño a un bien mueble o inmueble ajeno, en forma culposa y con 
 
 Las infracciones contra la seguridad ciudadana, previstas en el artículo anterior se sancionarán: fracciones I, y III, multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
 
-Las infracciones establecidas en las fracciones IV a XIII se sancionarán con multa por el equivalente de 21 a 30 días de salario mínimo o con arresto de 25 a 36 horas; las establecidas en las fracciones XIV, XV y XVI se sancionarán con arresto de 20 a 36 horas.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+Las infracciones establecidas en las fracciones IV a XIII se sancionarán con multa por el equivalente de 21 a 30 días de Salario Mínimo o con arresto de 25 a 36 horas; las establecidas en las fracciones XIV y XV se sancionarán con arresto de 20 a 36 horas.
 
 ###### Artículo 22.
 
 Son infracciones contra el entorno urbano:
 
-I Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un animal de su propiedad o bajo su custodia;
+I. Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un animal de su propiedad o bajo su custodia;
 
 II. Orinar o defecar en los lugares a que se refiere el artículo 7 de la presente Ley;
 
 II. Arrojar, tirar o abandonar en la vía pública animales muertos, desechos, objetos o sustancias;
 
-IV. Tirar basura en lugares no autorizados;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV. Tirar o abandonar basura en las calles y en lugares no autorizados;
 
 V. Cambiar, de cualquier forma, el uso o destino de áreas o vía pública, sin la autorización correspondiente;
 
@@ -415,9 +457,13 @@ XIII. Colocar transitoriamente o fijar sin autorización para ello, elementos de
 
 XIV. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio, o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 23.
 
-Las infracciones contra el entorno ciudadano a que se refiere el artículo anterior se sancionarán de la siguiente manera: fracciones I a VII: multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas; Fracciones VIII a XIV: multa por el equivalente de 21 a 30 días de salario mínimo o con arresto de 25 a 36 horas y fracción XV: arresto de 20 a 36 horas.
+Las infracciones contra el entorno urbano a que se refiere el artículo anterior se sancionarán de la siguiente manera: fracciones I, II, III, V, VI y VII: multa por el equivalente de 11 a 20 días de Salario Mínimo o con arresto de 13 a 24 horas; fracciones VIII a XIV: multa por el equivalente de 21 a 30 días de Salario Mínimo o con arresto de 25 a 36 horas.
+
+Lo referente a la fracción IV, se sancionará con multa de 5 a 99 días de salario mínimo.
 
 ###### Artículo 24.
 
@@ -813,7 +859,7 @@ En el caso de que el quejoso o el probable infractor no presentaren en la audien
 
 ###### Artículo 84.
 
-En el supuesto de que se libre orden de presentación al presunto infractor y el día de la presentación no estuviere presente el quejoso, se llevará cabo (sic) el procedimiento previsto en el artículo 67 de esta Ley, y si se encuentra el quejoso, se llevará a cabo el procedimiento por queja.
+En el supuesto de que se libre orden de presentación al presunto infractor y el día de la presentación no estuviere presente el quejoso, se llevará a cabo el procedimiento previsto en el artículo 67 de esta Ley, y si se encuentra el quejoso, se llevará cabo (sic) el procedimiento por queja.
 
 ###### Artículo 85.
 
@@ -850,3 +896,11 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 47, fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
