@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-atender-sancionar-y-erradicar-la-67940"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2009-04-01"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -147,15 +147,19 @@ El personal que preste la atención a que se refieren los dos artículos anterio
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LAS AUTORIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 12.
 
-La Secretaría de Desarrollo Humano y Social, será la dependencia encargada de establecer la política permanente de coordinación entre las dependencias e instancias de la administración pública estatal, así como de vinculación con las autoridades municipales en materia de violencia familiar. Tendrá a su cargo el diseño del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar.
+La Secretaría de Desarrollo Social, será la dependencia encargada de establecer la política permanente de coordinación entre las dependencias e instancias de la Administración Pública Estatal, así como de vinculación con las autoridades municipales en materia de violencia familiar. Tendrá a su cargo el diseño del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar.
 
 Para el cumplimiento de todas y cada una de las atribuciones y facultades que le confiere esta ley, se coordinará con el Sistema Estatal para el Desarrollo Integral de la Familia y las áreas encargadas de la atención del menor y la familia en los municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 13.
 
-La Secretaría de Desarrollo Humano y Social deberá:
+La Secretaría de Desarrollo Social deberá:
 
 I.- Participar en la elaboración de las políticas públicas estatales y municipales de prevención, atención, sanción y erradicación de violencia familiar;
 
@@ -317,11 +321,11 @@ VII.- Llevar un registro de los casos de violencia familiar detectados y canaliz
 
 VIII.- Las demás que le confieran otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
-La Secretaría de Seguridad
-
-Pública deberá:
+La Comisión Estatal de Seguridad Pública deberá:
 
 I.- lncluir en los cursos de formación y capacitación policial temas sobre prevención de violencia familiar y atención al receptor de violencia familiar respetando su dignidad, intimidad y privacidad;
 
@@ -588,3 +592,17 @@ SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal Seguridad Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado (sic) Unidos Mexicanos.
