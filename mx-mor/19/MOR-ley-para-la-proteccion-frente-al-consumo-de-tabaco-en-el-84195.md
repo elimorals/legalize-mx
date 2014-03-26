@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-proteccion-frente-al-consumo-de-tabaco-en-el-84195"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -97,11 +97,17 @@ VIII. Policía: elemento de la policía adscrito al Gobierno del Estado de Morel
 
 IX. Secretaría de Salud: a la Secretaría de Salud del Estado de Morelos;
 
-X. Seguridad Pública: a la Secretaría de Seguridad Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-XI. Sitios de Concurrencia colectiva: centros deportivos, recreativos, parques, alamedas, jardines y plazas cívicas;
+X. Seguridad Pública: a la Comisión Estatal de Seguridad Pública;
 
-XII. Zonas exclusivamente para fumar: lugar al aire libre delimitado y designado únicamente para fumar donde no se podrá servir alimentos y bebidas, ni habilitarse, ni utilizarse, como sitio de recreación, mismas que no deberán ser lugar de paso, no se permitirá el acceso a menores y a las mujeres embarazadas se les deberá notificar los riesgos a la salud que conlleva el ingresar a la misma;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XI. Sitios de Concurrencia colectiva: centros deportivos, recreativos, parques, alamedas, jardines y plazas cívicas, y
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+XII. Zonas exclusivamente para fumar: lugar al aire libre delimitado y designado únicamente para fumar donde no se podrá servir alimentos y bebidas, ni habilitarse, ni utilizarse, como sitio de recreación, mismas que no deberán ser lugar de paso, no se permitirá el acceso a menores y a las mujeres embarazadas se les deberá notificar los riesgos a la salud que conlleva el ingresar a la misma.
 
 ## TÍTULO SEGUNDO. ATRIBUCIONES DE LA AUTORIDAD
 
@@ -133,7 +139,9 @@ En los centros deportivos, recreativos, parques, alamedas, jardines y plazas cí
 
 La Secretaría de Salud, a través del Organismo Público Descentralizado denominado Servicios de Salud del Estado de Morelos, ejercerá las siguientes atribuciones:
 
-I. Llevar a cabo en coordinación con la Secretaría de Seguridad Pública del Estado de Morelos y los municipios la operación del Programa contra el Tabaquismo;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+I. Llevar a cabo en coordinación con Seguridad Pública y los Municipios la operación del Programa contra el Tabaquismo;
 
 II. Llevar a cabo campañas para la detección temprana del fumador, diseño de programas, de servicio de cesación y opciones terapéuticas que ayuden a dejar de fumar combinado con consejerías y otras intervenciones.
 
@@ -434,3 +442,17 @@ SECRETARIO DE GOBIERNO
 Dr. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal (sic) Seguridad Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
