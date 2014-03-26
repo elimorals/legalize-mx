@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-forestal-sustentable-del-estado-de-morelos-57
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2007-12-05"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -449,7 +449,9 @@ II. La Comisión;
 
 III. La Secretaría de Gobierno;
 
-IV. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV. La Comisión Estatal de Seguridad Pública;
 
 V. La Secretaría de Desarrollo Agropecuario;
 
@@ -458,6 +460,8 @@ VI. La Secretaría de Desarrollo Urbano y Obras Públicas;
 VII. La Secretaria de Turismo;
 
 VIII. Los ayuntamientos de la entidad en sus correspondientes ámbitos de competencia, y
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
 IX. El Consejo Forestal del Estado de Morelos.
 
@@ -523,9 +527,11 @@ III. Auxiliar a las instancias competentes con el equipo y con los recursos mate
 
 IV. Las demás que le confiera esta ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 28.
 
-Corresponden a la Secretaría de Seguridad Pública, las atribuciones siguientes, sin perjuicio de lo previsto en el artículo 13 de la Ley General:
+Corresponden al Comisionado Estatal de Seguridad Pública dependiente de la Secretaría de Gobierno, las atribuciones siguientes, sin perjuicio de lo previsto en el artículo 13, de la Ley General:
 
 I. Proporcionar, a través de los elementos de seguridad pública estatal, a las autoridades competentes en la materia, el apoyo que para la prevención de las eventualidades forestales le sea requerido, así como el apoyo en la vigilancia del tránsito de productos forestales;
 
@@ -547,9 +553,11 @@ IV. Coordinar con las dependencias competentes de la Administración Pública Fe
 
 V. Coordinar y supervisar la quema de parcelas agrícolas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 30.
 
-Corresponden a la Secretaría de Desarrollo Urbano y Obras Públicas, las atribuciones siguientes, sin perjuicio de lo previsto en el artículo 13 de la Ley General:
+Corresponden a la Secretaría de Obras Públicas las atribuciones siguientes, sin perjuicio de lo previsto en el artículo 13, de la Ley General:
 
 I. Definir las bases para organizar e instrumentar el desarrollo urbano sustentable, considerando las vertientes sociales, económicas y la protección a los ecosistemas forestales en la planeación del desarrollo urbano;
 
@@ -597,7 +605,9 @@ VII. Otorgar, negar o condicionar las autorizaciones, licencias y constancias de
 
 VIII. Expedir autorizaciones sobre licencias de construcción, de conformidad con las disposiciones contenidas en los programas de desarrollo urbano y forestal, el Programa de Ordenamiento Ecológico Territorial, los Programas de Manejo de las Áreas Naturales Protegidas de Conservación y demás disposiciones normativas;
 
-IX. Expedir las autorizaciones de licencias o permisos de uso del suelo, fusiones, divisiones, modificaciones, fraccionamiento de terrenos, régimen en condominio y conjuntos urbanos, de conformidad con las disposiciones contenidas en los programas de desarrollo forestal, el Programa de Ordenamiento Ecológico Territorial, los Programas de Manejo de las Áreas Naturales Protegidas de Conservación y demás disposiciones normativas informando a la Secretaría de Desarrollo Urbano y Obras Públicas y a la Comisión en su carácter de dependencias normativas;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IX. Expedir las autorizaciones de licencias o permisos de uso del suelo, fusiones, divisiones, modificaciones, fraccionamiento de terrenos, régimen en condominio y conjuntos urbanos, de conformidad con las disposiciones contenidas en los Programas de Desarrollo Forestal, el Programa de Ordenamiento Ecológico Territorial, los Programas de Manejo de las Áreas Naturales Protegidas de Conservación y demás disposiciones normativas informando a la Secretaría de Obras Públicas y a la Comisión en su carácter de dependencias normativas;
 
 X. En los términos de la presente Ley y demás normas aplicables, para efectos de la fracción anterior, el Municipio deberá convenir con el Gobierno del Estado los mecanismos a través de los cuales se expedirán dichas autorizaciones o licencias;
 
@@ -1285,7 +1295,9 @@ II. El titular de la Subsecretaría Ejecutiva de Ecología y Medio Ambiente de l
 
 III. El titular de la Dirección de Planeación y Protección Ambiental de la Comisión fungirá como Secretario Técnico;
 
-IV. Los representantes que designen las (sic) Secretarios de Gobierno, Seguridad Pública, Salud, Planeación y Finanzas, Desarrollo Urbano y Obras Públicas, y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV. Los representantes que designen las Secretarías de Gobierno, de Salud, de Hacienda y de Obras Públicas, y
 
 V. Las demás dependencias del orden estatal, federal y municipal que convoque el presidente.
 
@@ -1539,7 +1551,9 @@ II. El titular de la Subsecretaría Ejecutiva de Ecología y Medio Ambiente (sic
 
 III. El representante de la CONAFOR en el Estado de Morelos, fungirá como secretario técnico;
 
-IV. Los representantes que designen las (sic) Secretarios de Gobierno, Seguridad Pública y el Procurador General de Justicia del Estado, y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV. Los representantes que designen la Secretaría de Gobierno, la Comisión Estatal de Seguridad Pública y el Fiscal General del Estado, y
 
 V. Las demás dependencias del orden estatal, federal y municipal que convoque el Presidente.
 
@@ -1565,9 +1579,11 @@ El Comité para la Prevención, Control y Combate de Incendios, evaluará los pr
 
 las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad forestal, deberán sujetarse a las disposiciones de las Leyes de Ingresos, del Presupuesto de Egresos del Estado y los municipios para el ejercicio fiscal que corresponda y deberán asegurar su eficacia, selectividad y transparencia, pudiendo considerar el establecimiento y vinculación de cualquier mecanismo normativo o administrativo de carácter fiscal, financiero y de mercado establecidos en otras leyes, incluyendo los estímulos fiscales, los créditos, las fianzas, los seguros, los fondos y los fideicomisos, así como las autorizaciones en materia forestal, cuando atiendan o posibiliten la realización de los propósitos y objetivos prioritarios de promoción y desarrollo forestal. En todo caso los programas e instrumentos económicos deberán prever la canalización efectiva y suficiente de apoyos para fomentar las actividades forestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 121.
 
-La Secretaría de Finanzas y Planeación diseñará, propondrá y aplicará medidas para asegurar que el Estado, los municipios, la sociedad y los particulares, coadyuven financieramente para la realización de tareas de conservación, protección, restauración, vigilancia, silvicultura, ordenación y manejo sustentable de los ecosistemas forestales.
+La Secretaría de Hacienda diseñará, propondrá y aplicará medidas para asegurar que el Estado, los Municipios, la sociedad y los particulares, coadyuven financieramente para la realización de tareas de conservación, protección, restauración, vigilancia, silvicultura, ordenación y manejo sustentable de los ecosistemas forestales.
 
 El Estado establecerá estímulos fiscales y creará los instrumentos crediticios adecuados para el financiamiento de la actividad forestal, incluyendo tasas de interés preferencial y garantizará mecanismos de apoyo para impulsar el desarrollo forestal sustentable.
 
@@ -1625,7 +1641,9 @@ Los instrumentos que se apliquen deberán observar las disposiciones contenidas 
 
 La Comisión promoverá e impulsará la empresa social forestal en los ejidos o comunidades con áreas forestales y bajo programa de manejo forestal, atendiendo a lo señalado por la Ley Agraria.
 
-La Secretaría de Planeación y Finanzas otorgará incentivos económicos-fiscales de acuerdo a las leyes correspondientes, a las personas jurídicas que bajo este esquema impulsen el sector forestal del Estado.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+La Secretaría de Hacienda otorgará incentivos económicos fiscales, de acuerdo a las leyes correspondientes, a las personas jurídicas que bajo este esquema impulsen el sector forestal del Estado.
 
 Los ejidatarios, comuneros, comunidades indígenas y demás propietarios, poseedores de terrenos forestales o preferentemente forestales que por la carencia de recursos económicos no estén en posibilidades de cubrir los costos de elaboración del programa de manejo forestal, podrán recurrir a la Comisión, en los términos del reglamento de esta Ley, para que les proporcione asesoría técnica y/o apoyo financiero para la elaboración de éste, lo cual se hará en la medida de las posibilidades presupuestales de la Comisión, previa comprobación de la carencia de dichos recursos.
 
@@ -1715,7 +1733,9 @@ n) Las demás que surjan de la planeación estratégica regional y estatal.
 
 El patrimonio del Fondo Forestal Estatal se integra por:
 
-I. Las aportaciones iniciales que realice el Estado, por conducto de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+I. Las aportaciones iniciales que realice el Estado, por conducto de la Secretaría de Hacienda;
 
 II. Las subsecuentes aportaciones que realice el Estado con recursos propios o de la Federación; y
 
@@ -1979,9 +1999,9 @@ c. Con el equivalente de 500 a 40,000 días de salario mínimo general vigente e
 
 i. (sic) Clausura temporal o definitiva, parcial o total de los establecimientos, a las personas físicas o morales que incurran en los supuestos previstos en las fracciones III, IV, VI, X, XI, XII, XIII, XIX y XX;
 
-ii. (sic) Cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso; de la inscripción registral o de las actividades de que se trate, a las personas físicas o morales señaladas en la fracción anterior, y
+ii. Cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso; de la inscripción registral o de las actividades de que se trate, a las personas físicas o morales señaladas en la fracción anterior, y
 
-iii. (sic) Además de las sanciones que se establecen en las fracciones anteriores, se harán acreedores, en su caso, al decomiso de las materias primas obtenidas; de los instrumentos, maquinaria, equipos y herramientas o medios de transporte utilizados, las personas físicas o morales que incurran en cualquiera de los supuestos previstos por el artículo 144 de esta Ley.
+iii. Además de las sanciones que se establecen en las fracciones anteriores, se harán acreedores, en su caso, al decomiso de las materias primas obtenidas; de los instrumentos, maquinaria, equipos y herramientas o medios de transporte utilizados, las personas físicas o morales que incurran en cualquiera de los supuestos previstos por el artículo 144 de esta Ley.
 
 Podrá imponerse una o más de las sanciones previstas en el presente artículo.
 
@@ -2051,7 +2071,7 @@ La Comisión podrá dar destino final a los productos maderables o no maderables
 
 En contra de los actos y resoluciones dictadas en los procedimientos administrativos que con motivo de la aplicación de los convenios celebrados con la Federación se instauren, se estará a lo dispuesto en dichos instrumento (sic) y, en su defecto, a lo establecido por la Ley Federal de Procedimiento Administrativo.
 
-En contra de los actos y resoluciones dictadas en los procedimientos administrativos que con motivo de la aplicación de esta Ley y sus reglamentos se instauren, así como las regulaciones administrativas que de ella deriven, se estará a lo dispuesto par la Ley de Procedimiento Administrativo para el Estado de Morelos.
+En contra de los actos y resoluciones dictadas en los procedimientos administrativos que con motivo de la aplicación de esta Ley y sus reglamentos se instauren, así como las regulaciones administrativas que de ella deriven, se estará a lo dispuesto por la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
 ## TRANSITORIOS
 
@@ -2075,7 +2095,7 @@ DIP. MARTHA PATRICIA FRANCO GUTIÉRREZ
 
 PRESIDENTA.
 
-DIP. FRANCISCO ARTURO SANTlLLÁN ARREDONDO.
+DIP. FRANCISCO ARTURO SANTILLÁN ARREDONDO.
 
 SECRETARIO.
 
@@ -2097,6 +2117,20 @@ DR. MARCO ANTONIO ADAME CASTILLO
 
 SECRETARIO DE GOBIERNO
 
-LIC. SERGlO ALVAREZ MATA
+LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
