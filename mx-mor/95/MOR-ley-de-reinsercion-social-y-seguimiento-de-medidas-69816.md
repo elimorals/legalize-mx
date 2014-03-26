@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-reinsercion-social-y-seguimiento-de-medidas-69816"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2013-04-24"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -355,7 +355,9 @@ II. La Secretaría de Gobierno;
 
 III. La Secretaría del Trabajo;
 
-IV. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+IV. El Comisionado Estatal de Seguridad Pública;
 
 V. Los cuerpos policiales en el Estado;
 
@@ -463,9 +465,7 @@ Cuando se decrete el Arraigo Domiciliario sin vigilancia, el Juez de control est
 
 ###### Artículo 28.
 
-Arraigo Domiciliario con modalidades.
-
-Si se decreta el Arraigo Domiciliario con modalidades, además de cumplir con lo dispuesto en el artículo anterior, el Juez de Control determinará en su resolución las modalidades que acompañen al cumplimiento de dicha medida, las cuales no podrán desvirtuar la naturaleza de la misma. Si la modalidad se trata de vigilancia de la autoridad, se comunicará el proveído a la Secretaría de Seguridad Pública Estatal o Municipal, en su caso, en donde se determine la vigilancia permanente o intermitente del imputado en el domicilio señalado.
+(DEROGADO, P.O. 26 DE MARZO DE 2014)
 
 #### SECCIÓN 7. PROHIBICIÓN DE ACUDIR A DETERMINADAS REUNIONES, O DE VISITAR CIERTOS LUGARES
 
@@ -1885,9 +1885,9 @@ f) Procuraduría General de Justicia del Estado;
 
 g) Sistema para el Desarrollo Integral de la Familia, (D.I.F.) Morelos;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
-h) Secretaría de Seguridad Pública;
+h) Comisión Estatal de Seguridad Pública;
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
@@ -2099,7 +2099,9 @@ En el marco de la conferencia de Reinserción Social el Servicio de Seguridad y 
 
 De las Bases Mínimas.
 
-La regulación, selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes, la operación y desarrollo de estas acciones será competencia de la Secretaria de la Contraloría del Estado, Procuraduría General de Justicia del Estado, Dirección de Control de Confianza de la Secretaría de Seguridad Pública, así como del Colegio Estatal de Seguridad Pública en el ámbito de sus respectivas atribuciones y con apego a la legislación federal y local en la materia.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+La regulación, selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes, la operación y desarrollo de estas acciones será competencia de la Secretaría de la Contraloría del Estado, Fiscalía General del Estado de Morelos, Dirección de Control de Confianza de la Secretaría de Gobierno, así como del Colegio Estatal de Seguridad Pública en el ámbito de sus respectivas atribuciones y con apego a la legislación federal y local en la materia.
 
 ## TRANSITORIOS
 
@@ -2109,7 +2111,7 @@ SEGUNDO.- Se abroga la Ley de Ejecución de Sanciones y Medidas de Seguridad, Pr
 
 TERCERO.- Esta Ley surtirá efectos para todos aquellos procedimientos penales iniciados a la entrada en vigor del Nuevo Sistema de Impartición de Justicia Penal Acusatorio Adversarial, promulgado en el periódico oficial 4570 de fecha veintidós de noviembre del dos mil siete y que entró en vigor el Treinta de octubre del dos mil ocho en el Primer Distrito Judicial.
 
-CUARTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, Promulgada el 20 de marzo de 1973, y vigente desde el 21 de mazo de 1973. Seguirá rigiendo en lo conducente en los procedimientos iniciados con anterioridad a la vigencia de esta nueva Ley.
+CUARTO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos, Promulgada el 20 de marzo de 1973, y vigente desde el 21 de marzo de 1973. Seguirá rigiendo en lo conducente en los procedimientos iniciados con anterioridad a la vigencia de esta nueva Ley.
 
 QUINTO.- En un plazo de ciento ochenta días hábiles contados a partir de la fecha de entrada en vigor de la presente ley, deberá expedirse el Reglamento de la presente Ley.
 
@@ -2162,3 +2164,15 @@ PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente al de su p
 SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas, de igual o menor rango jerárquico normativo, que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
