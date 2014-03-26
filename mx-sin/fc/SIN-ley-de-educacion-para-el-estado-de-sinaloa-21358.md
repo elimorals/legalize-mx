@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-21358"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-30"
-last_updated: "2013-08-16"
+last_updated: "2014-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 26 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO A SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 30 de abril de 2001.
 
@@ -1278,3 +1280,25 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro del plazo de 120 días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las modificaciones reglamentarias y las reasignaciones presupuestarias necesarias para la debida observancia del presente Decreto.
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Se abroga la Ley de Educación para el Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa", el 30 de abril de 2001.
+
+TERCERO.- Las autoridades competentes respetarán íntegramente los derechos adquiridos por los trabajadores de la educación y reconocerán la titularidad de las Condiciones Generales de Trabajo, las relaciones laborales colectivas, del Sindicato Nacional de Trabajadores de la Educación, en los términos de su registro vigente en la Entidad, sin menoscabo de las normas locales y federales sobre la materia que sean aplicables y de acuerdo con las disposiciones legales correspondientes al expedir esta Ley.
+
+CUARTO.- El personal que se encuentre en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la
+
+Ley General del Servicio Profesional Docente, conforme al artículo octavo transitorio de dicha Ley, será readscrito para continuar en otras tareas dentro de dicho servicio educativo, conforme a lo que determine la Autoridad Educativa, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+QUINTO.- En tanto el Ejecutivo Estatal expide las normas reglamentarias que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, así como las disposiciones administrativas, en lo que no contravengan a la Ley General, a la presente Ley, y a las regulaciones federales aplicables.
+
+SEXTO.- Continuarán en operación los Consejos de Educación Básica, en lo que no se oponga a la presente Ley, independientemente de continuar impulsando los Consejos Técnicos-Pedagógicos que deban integrarse al interior de los planteles y zonas para planificar, organizar y evaluar el trabajo escolar anual.
+
+SÉPTIMO.- Los contenidos regionales en los planes y programas de educación preescolar, primaria, secundaria, normal y grupos afines, para la formación de maestros de educación básica a que hace referencia esta Ley, deberán ser propuestos a la Autoridad Educativa Federal, noventa días después de su entrada en vigor.
+
+OCTAVO.- El Ejecutivo del Estado, de acuerdo a la disponibilidad presupuestal, deberá resolver las deficiencias de los programas de salud, infraestructura, nombramientos y funciones del personal del Sistema Educativo.
+
+NOVENO.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a la presente Ley.
