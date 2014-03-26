@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2014-03-10"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE EDUCACION DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE MARZO DE 2014.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -1315,7 +1315,9 @@ P.O. 10 DE MARZO DE 2014.
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
 
-Artículo Segundo.- Con el propósito de dar cumplimiento a la obligación de garantizar la calidad en la educación obligatoria, en el marco de las disposiciones que regulan el servicio profesional docente, dentro de un plazo de 120 días contados a partir de día siguiente de la publicación de este decreto, las autoridades educativas, adecuaran su normativa de naturaleza laboral y administrativa, debiendo dejar sin efectos las que se opongan o limiten el cumplimiento de dicha obligación.
+> <small>(F. DE E., 26 DE MARZO DE 2014)</small>
+
+Artículo Segundo.- Con el propósito de dar cumplimiento a la obligación de garantizar la calidad en la educación obligatoria, en el marco de las disposiciones que regulan el servicio profesional docente, y en atención a los lineamientos que se emitan, las autoridades educativas, actualizarán los instrumentos de naturaleza laboral y administrativa, debiendo dejar sin efectos las que se opongan o limiten el cumplimiento de dicha obligación.
 
 Artículo Tercero.- Los procedimientos y recursos administrativos que se encuentren en trámite a la entrada en vigor del presente decreto, se substanciarán de conformidad a las disposiciones legales vigentes al momento de su tramitación.
 
@@ -1329,8 +1331,12 @@ Por lo que respecta al personal provisional se estará a lo dispuesto al artícu
 
 Para tales efectos, se tendrá pleno respeto a los derechos constitucionales de los trabajadores de la educación, de conformidad a lo dispuesto por la fracción III del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Artículo Séptimo.- Las autoridades educativas, de acuerdo a la disponibilidad presupuestal y en coordinación con el Instituto Nacional para la Evaluación de la Educación, impulsarán programas de capacitación docente de calidad que atiendan el ejercicio del servicio docente en nuestro estado, a fin de que se obtengan los mejores resultados posibles en las evaluaciones a las que sean sometidos derivado de la implementación del Servicio Profesional Docente.
+> <small>(F. DE E., 26 DE MARZO DE 2014)</small>
 
-Artículo Octavo.- El Congreso del Estado, dentro del plazo de 60 días contados a partir del día siguiente de la publicación del presente decreto en el Periódico Oficial, deberá realizar las modificaciones legales correspondientes relativas a esta reforma, a la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y al Decreto 7510 de Creación del Organismo Público Descentralizado Servicios de Educación Pública del Estado de Nayarit.
+Artículo Séptimo.- Las autoridades educativas, de acuerdo a la disponibilidad presupuestal y atendiendo los lineamientos del Instituto Nacional para la Evaluación de la Educación, impulsarán programas de capacitación docente de calidad que atiendan el ejercicio del servicio docente en nuestro estado, a fin de que se obtengan los mejores resultados posibles en las evaluaciones a las que sean sometidos derivado de la implementación del Servicio Profesional Docente.
+
+> <small>(F. DE E., 26 DE MARZO DE 2014)</small>
+
+Artículo Octavo.- El Congreso del Estado, deberá realizar el alineamiento correspondiente a la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y el Decreto de Creación del Organismo Público Descentralizado Servicios de Educación Pública del Estado de Nayarit.
 
 Artículo Noveno.- Se derogan todas las disposiciones que se opongan al presente decreto.
