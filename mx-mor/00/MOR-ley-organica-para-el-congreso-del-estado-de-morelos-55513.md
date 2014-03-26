@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2013-06-26"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -907,7 +907,7 @@ VI. Las demás que el pleno le confiera.
 
 Corresponde a la Comisión de Hacienda, Presupuesto y Cuenta Pública, el conocimiento y dictamen de los asuntos siguientes:
 
-l. Conocer sobre la cuenta pública trimestral del Poder Ejecutivo;
+I. Conocer sobre la cuenta pública trimestral del Poder Ejecutivo;
 
 II. Conocer y dictaminar sobre el Presupuesto de Egresos del Gobierno del Estado;
 
@@ -967,7 +967,7 @@ VIII. Las demás que el pleno del Congreso del Estado le confiera.
 
 Corresponde a la Comisión de Educación y Cultura, el conocimiento y en su caso el dictamen de los asuntos siguientes:
 
-l. Los derivados de las leyes relacionadas con la educación y la cultura en el Estado;
+I. Los derivados de las leyes relacionadas con la educación y la cultura en el Estado;
 
 II. Los relativos a la creación de instituciones culturales que son competencia del Estado;
 
@@ -1043,7 +1043,9 @@ Corresponderá a la Comisión de Seguridad Pública y Protección Civil:
 
 I. Analizar y dictaminar las iniciativas relacionadas con la seguridad pública y protección civil;
 
-II. Representar al Congreso del Estado, por conducto de su Presidente ante el Consejo Estatal de Seguridad Pública, Consejos Municipales, el Consejo de Honor y Justicia de la Secretaría de Seguridad Pública; la Junta de Gobierno del Colegio Estatal de Seguridad Pública y ante el Consejo de Protección Civil
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+II. Representar al Congreso del Estado, por conducto de su Presidente ante el Consejo Estatal de Seguridad Pública, Consejos Municipales, el Consejo de Honor y Justicia de la Comisión Estatal de Seguridad Pública; la Junta de Gobierno del Colegio Estatal de Seguridad Pública y ante el Consejo de Protección Civil;
 
 III. Conocer y dictaminar en su caso las iniciativas relacionadas con la prevención del delito; y
 
@@ -1171,7 +1173,7 @@ Corresponde a la Comisión de Recursos Naturales y Agua:
 
 I. Conocer y dictaminar en su caso, los asuntos relacionados con la legislación en materia de agua y recursos naturales;
 
-II. Mantener un contacto directo y permanente con la Comisión Estatal del Agua y Medio Ambiente y dependencias involucradas, así como con los diversos órganos que 1a integran, con el propósito de conocer sus programas de operación y la problemática que enfrentan y brindar soluciones legislativas;
+II. Mantener un contacto directo y permanente con la Comisión Estatal del Agua y Medio Ambiente y dependencias involucradas, así como con los diversos órganos que la integran, con el propósito de conocer sus programas de operación y la problemática que enfrentan y brindar soluciones legislativas;
 
 III. Impulsar la transparencia en la asignación y aplicación de los recursos destinados a los diversos programas destinados a la protección y cuidado de los recursos naturales y el agua;
 
@@ -2366,3 +2368,15 @@ El presente decreto entrará en vigor el mismo día de su aprobación por el Ple
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Ejecutivo del Estado de Morelos, para los efectos de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado para su divulgación.
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal (sic) Seguridad Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
