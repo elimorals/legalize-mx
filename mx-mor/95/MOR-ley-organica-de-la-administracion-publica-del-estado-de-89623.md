@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2013-12-20"
+last_updated: "2014-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -173,7 +173,7 @@ XIV. Secretaría de Obras Públicas;
 
 XV. Secretaría de Salud;
 
-XVI. Secretaría de Seguridad Pública;
+XVI. (DEROGADA, P.O. 26 DE MARZO DE 2014)
 
 XVII. Secretaría del Trabajo;
 
@@ -183,9 +183,17 @@ XIX. Secretaría de Administración.
 
 Asimismo, para el cumplimiento de sus funciones, se auxiliará de la Consejería Jurídica.
 
-La Procuraduría General de Justicia se regirá por las disposiciones que al respecto se contienen en, la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, su Ley Orgánica y las demás leyes aplicables.
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
 
-Además, en el ejercicio de las atribuciones legales que le corresponden, la administración pública se complementará con la paraestatal, compuesta por las entidades descentralizadas, empresas de participación mayoritaria y fideicomisos.
+La función de la Seguridad Pública Estatal, estará asignada a la Secretaría de Gobierno, y se ejercerá por conducto del servidor público que al efecto se designe, así como de las Unidades Administrativas y Órganos Desconcentrados de su adscripción.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+La Fiscalía General del Estado de Morelos, se regirá por las disposiciones que al respecto se contienen en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, su Ley Orgánica y las demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+Además, en el ejercicio de las atribuciones legales que le corresponden, la Administración Pública se complementará con la Paraestatal, compuesta por las Entidades Descentralizadas, empresas de participación mayoritaria y fideicomisos.
 
 ###### Artículo 12.
 
@@ -979,59 +987,61 @@ XXII. Dictar en los términos de las disposiciones jurídicas aplicables, las me
 
 XXIII. Impulsar las acciones necesarias para la ejecución y consolidación del Sistema de Protección Social en Salud.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
 ###### Artículo 35.
 
-A la Secretaría de Seguridad Pública, le corresponden las siguientes atribuciones:
+A la Secretaría de Gobierno, en materia de Seguridad Pública, le corresponde las siguientes atribuciones:
 
 I. Conservar y preservar el orden, la tranquilidad y la seguridad pública en el Estado de Morelos;
 
-II. Cumplir los objetivos y fines en la materia, en coordinación con las instancias federales, estatales y municipales, participando en la integración de las instancias, instrumentos, políticas, servicios y acciones, tendientes a cumplir con estos, en los términos que dispongan los ordenamientos jurídicos federales y estatales aplicables generando los convenios con las autoridades municipales para la implementación de acciones policiales homologadas;
+II. Cumplir los objetivos y fines en la materia, en coordinación con las instancias Federales, Estatales y Municipales, participando en la integración de las instancias, instrumentos, políticas, servicios y acciones, tendientes a cumplir con estos, en los términos que dispongan los ordenamientos jurídicos Federales y Estatales aplicables generando los convenios con las autoridades municipales para la implementación de acciones policiales homologadas;
 
-III. Conducir en el Estado las normas, políticas y programas en materia de seguridad pública que deriven de la Constitución Política de los Estados Unidos Mexicanos y demás cuerpos normativos federales y estatales;
+III. Conducir en el Estado las normas, políticas y programas en materia de seguridad pública que deriven de la Constitución Política de los Estados Unidos Mexicanos y demás cuerpos normativos Federales y Estatales;
 
-IV. Prevenir el delito en el ámbito de su competencia, en conjunción con la (sic) secretarías, dependencias y entidades, implementando acciones de prevención en coordinación con las autoridades municipales y los consejos ciudadanos;
+IV. Prevenir el delito en el ámbito de su competencia, en conjunción con las Secretarías, Dependencias y Entidades, implementando acciones de prevención en coordinación con las autoridades municipales y los consejos ciudadanos;
 
-V. Establecer la creación, estructuración y aplicación de los programas tendientes a combatir los hechos delictivos e infracciones administrativas, en los que deben participar las diferentes instituciones policiales;
+V. Establecer la creación, estructuración y aplicación de los programas tendientes a combatir los hechos delictivos e infracciones administrativas, en los que deben participar las diferentes Instituciones Policiales;
 
-VI. Diseñar, implementar y evaluar las políticas tendientes a la prevención de conductas antisociales, atendiendo a las modalidades sociales, económicas y culturales de la colectividad y con estricto apego al respeto de los derechos humanos;
+VI. Diseñar, implementar y evaluar las políticas tendientes a la prevención de conductas antisociales, atendiendo a las modalidades sociales, económicas y culturales de la colectividad y con estricto apego al respeto de los Derechos Humanos;
 
-VII. Planear, organizar y ejecutar los programas relativos a la protección de los habitantes, al orden público, a la prevención de delitos, respetando los derechos humanos conforme lo disponga la normatividad respectiva;
+VII. Planear, organizar y ejecutar los programas relativos a la protección de los habitantes, al orden público, a la prevención de delitos, respetando los Derechos Humanos, conforme lo disponga la normatividad respectiva;
 
-VIII. Diseñar, implantar y evaluar instrumentos y programas de educación preventiva, de la cultura de la legalidad, de prevención del delito y de organización vecinal, apoyándose, en medios eficaces de promoción, difusión y comunicación masiva dirigidos a la colectividad; promoviendo valores de respeto, civilidad, corresponsabilidad ciudadana y de derechos humanos;
+VIII. Diseñar, implantar y evaluar instrumentos y Programas de Educación Preventiva, de la cultura de la legalidad, de prevención del delito y de organización vecinal, apoyándose, en medios eficaces de promoción, difusión y comunicación masiva dirigidos a la colectividad; promoviendo valores de respeto, civilidad, corresponsabilidad ciudadana y de derechos humanos;
 
 IX. Difundir entre la población los programas que se establezcan de manera particular y general, en materia de prevención del delito;
 
 X. Implantar, impulsar vigilar y fortalecer los programas tendientes al desarrollo policial, la carrera policial, los sistemas de acreditación y la profesionalización del personal dedicado a las tareas de seguridad pública y la seguridad y custodia penitenciaria, así como para implantar los mecanismos en la selección de los aspirantes, de su capacitación, de manera sistemática y continua, de conformidad con lo previsto en el marco jurídico federal y estatal aplicable, con el fin de brindar un servicio profesional y promover la dignificación de la labor policial;
 
-XI. Proponer al titular del Poder Ejecutivo las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos con el fin de combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial;
+XI. Proponer al Titular del Poder Ejecutivo, las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, objetividad, eficiencia, honradez y respeto a los Derechos Humanos, con el fin de combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial;
 
-XII. Conducir las funciones y vigilar la aplicación de las resoluciones emitidas por el Consejo de Honor y Justicia de las diversas corporaciones policiales del Estado de Morelos, en los términos de ley;
+XII. Conducir las funciones y vigilar la aplicación de las resoluciones emitidas por el Consejo de Honor y Justicia de las diversas corporaciones policiales del Estado de Morelos, en los términos de Ley;
 
 XIII. Registrar de las denuncias y procedimientos administrativos del personal operativo en la base de datos correspondiente en el Sistema Nacional de Seguridad Pública;
 
-XIV. Administrar los recursos que le sean asignados a efecto de realizar una equitativa distribución de los mismos, entre las diferentes áreas que la integran asignando de acuerdo a las necesidades y requerimientos de cada una de ellas, los recursos financieros, humanos y materiales de que disponga, de acuerdo a la normatividad e instrumentos existentes para tal efecto;
+XIV. Administrar los recursos que le sean asignados, a efecto de realizar una equitativa distribución de los mismos, entre las diferentes áreas que la integran asignando, de acuerdo a las necesidades y requerimientos de cada una de ellas, los recursos financieros, humanos y materiales de que disponga, de acuerdo a la normatividad e instrumentos existentes para tal efecto;
 
-XV. Fomentar y fortalecer la participación ciudadana en la realización de programas y acciones tendientes a prevenir la drogadicción, la fármacodependencia, el alcoholismo y la toxicomanía en todos sus tipos, coordinándose con las autoridades competentes;
+XV. Fomentar y fortalecer la participación ciudadana en la realización de programas y acciones tendientes a prevenir la drogadicción, la fármaco-dependencia, el alcoholismo y la toxicomanía en todos sus tipos, coordinándose con las autoridades competentes;
 
 XVI. Auxiliar, dentro del marco legal aplicable a las autoridades judiciales, administrativas y del trabajo para el ejercicio de sus funciones;
 
-XVII. Otorgar la protección y auxilio necesario a la población, en casos de catástrofe, siniestro o desastres naturales en coordinación con las secretarías y entidades directamente responsables para ello;
+XVII. Otorgar la protección y auxilio necesario a la población, en casos de catástrofe, siniestro o desastres naturales en coordinación con las Secretarías y Entidades directamente responsables para ello;
 
-XVIII. Llevar el control de las estadísticas y reportes de las acciones y operativos que realice la policía estatal y supervisar, controlar y custodiar el registro administrativo de detenciones;
+XVIII. Llevar el control de las estadísticas y reportes de las acciones y operativos que realice la Policía Estatal y supervisar, controlar y custodiar el registro administrativo de detenciones;
 
-XIX. Vigilar y controlar el uso, portación y adquisición de armas de fuego de los diferentes cuerpos policiales de los municipios y de la corporación estatal bajo su mando y que se encuentren registradas en la licencia oficial colectiva correspondiente;
+XIX. Vigilar y controlar el uso, portación y adquisición de armas de fuego de los diferentes cuerpos policiales de los Municipios y de la corporación estatal bajo su mando y que se encuentren registradas en la licencia oficial colectiva correspondiente;
 
-XX. Crear, administrar y actualizar en acciones coordinadas con el Secretariado Ejecutivo, la Procuraduría General de Justicia del Estado y los municipios, las bases de información criminógena, que permitirán el análisis y planeación estratégica de las labores que debe realizar la Secretaría, para la prevención del delito y la preservación de la seguridad pública del estado de Morelos. El incumplimiento de proveer la información por parte de la autoridad emisora será causal de responsabilidad de conformidad con lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos;
+XX. Crear, administrar y actualizar en acciones coordinadas con el Secretariado Ejecutivo, la Fiscalía General del Estado de Morelos y los Municipios, las bases de información criminógena, que permitirán el análisis y planeación estratégica de las labores que debe realizar la Secretaría, para la prevención del delito y la preservación de la Seguridad Pública del Estado de Morelos. El incumplimiento de proveer la información por parte de la autoridad emisora será causal de responsabilidad, de conformidad con lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
-XXI. Concentrar, registrar, procesar y analizar la estadística de la incidencia delictiva del Estado, como una herramienta básica en la toma de decisiones de los mandos operativos de la policía preventiva estatal y que sea soporte de la planeación de acciones para la reducción de los índices delictivos;
+XXI. Calificar los procesos de formación y profesionalización; realizar las evaluaciones y exámenes de control de confianza; emitir la certificación de los aspirantes y activos de las Instituciones de Seguridad Pública, prestadores de seguridad privada y sus auxiliares; así como realizar evaluaciones de seguimiento, cumplimiento y del desempeño al personal de las Instituciones de Seguridad Pública, unidades de adscripción, o cualquier área que afecte directa o indirectamente en la seguridad pública del Estado, debiendo presentar los resultados y las recomendaciones que sobre éstas deba conocer el Consejo Estatal;
 
-XXII. Regular, supervisar, controlar y vigilar la prestación de los servicios de seguridad privada, y en consecuencia, expedir la autorización y revalidación para el establecimiento, integración y operación de las empresas del ramo que llevan a cabo sus funciones dentro del territorio estatal;
+XXII. Concentrar, registrar, procesar y analizar la estadística de la incidencia delictiva del Estado, como una herramienta básica en la toma de decisiones de los mandos operativos de la Policía Preventiva Estatal y que sea soporte de la planeación de acciones para la reducción de los índices delictivos;
 
-XXIII. (DEROGADA, P.O. 24 DE ABRIL DE 2013)
+XXIII. Regular, supervisar, controlar y vigilar la prestación de los servicios de seguridad privada, y en consecuencia, expedir la autorización y revalidación para el establecimiento, integración y operación de las empresas del ramo que llevan a cabo sus funciones dentro del territorio estatal, y
 
-XXIV. (DEROGADA, P.O. 24 DE ABRIL DE 2013)
+XXIV. Integrar la Conferencia Nacional de Secretarios de Seguridad Pública.
 
-XXV. (DEROGADA, P.O. 24 DE ABRIL DE 2013)
+Las anteriores atribuciones serán ejercidas por la Comisión Estatal de Seguridad Pública, bajo el mando directo e inmediato del Comisionado Estatal de Seguridad Pública y, sin perjuicio de poder ejercer directamente por parte de la Secretaría de Gobierno dichas facultades.
 
 ###### Artículo 36.
 
@@ -1850,3 +1860,15 @@ SEGUNDA.- El presente Decreto por el que se expide la Ley de Ingresos del Gobier
 TERCERA.- Con la finalidad de homologar los sistemas automatizados de recaudación, así como el proceso de depósito de recursos en el sistema bancario nacional, respecto del esquema aplicado en la determinación de los impuestos y derechos cuyo importe sea o comprenda fracciones en pesos, se autoriza que en el caso de productos y aprovechamientos se aplique un ajuste de los montos a la unidad más próxima; por lo que, tratándose de cantidades terminadas hasta cincuenta centavos, el ajuste se hará a la unidad inmediata inferior y tratándose de cantidades terminadas por arriba de los cincuenta centavos, el ajuste se hará a la unidad inmediata superior.
 
 CUARTA.- Se derogan todas las disposiciones que concedan subsidios o exenciones y se hayan publicado con anterioridad al inicio de vigencia de la presente Ley, con excepción de las previstas en la Ley General de Hacienda del Estado de Morelos y de los subsidios fiscales que se encuentren vigentes en materia del Impuesto sobre Nóminas.
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
