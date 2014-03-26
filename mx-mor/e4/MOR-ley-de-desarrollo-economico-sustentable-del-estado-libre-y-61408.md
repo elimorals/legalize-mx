@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2013-11-20"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -89,7 +89,9 @@ VIII. MIPYMES: Las micro, pequeñas y medianas empresas morelenses legalmente co
 
 IX. Reglamento: El Reglamento de la Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos; y
 
-X. Secretaría: La Secretaría de Desarrollo Económico del Poder Ejecutivo del Estado de Morelos.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+X. Secretaría: La Secretaría de Economía del Estado de Morelos.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES Y ÓRGANOS COMPETENTES
 
@@ -369,7 +371,7 @@ Para la aplicación de una tasa preferencial, se deberá acreditar una relación
 
 Lo anterior, tendrá aplicación en cuanto a los derechos de inscripción en el Registro Público de la Propiedad y el Comercio del Estado de Morelos, de actas constitutivas y de contratos destinados estrictamente a la actividad productiva, entre otros de naturaleza similar.
 
-La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado, para su entrada en vigor.
+La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado, para su entrada en vigor.
 
 ###### Artículo 23.
 
@@ -499,7 +501,9 @@ Se crea el CCDE, como órgano de consulta estatal entre los sectores público, s
 
 El CCDE estará integrado por:
 
-I. La persona titular de la Secretaría de Desarrollo Económico, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+
+I.- El Titular de la Secretaría de Economía quien fungirá como Presidente.
 
 II. La persona titular de la Subsecretaría de Inversiones, como Secretario Técnico;
 
@@ -652,3 +656,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 26 DE MARZO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo para su Publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor a partir del día siguiente a su publicación.
