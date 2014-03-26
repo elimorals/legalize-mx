@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2012-12-26"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -225,31 +225,13 @@ La afectación de aportaciones federales y sus accesorios como garantía o fuent
 
 El Congreso del Estado a través del Órgano técnico de fiscalización será el responsable de supervisar, vigilar, fiscalizar, constatar e informar de la correcta aplicación de los recursos de los fondos de aportaciones federales que reciban el estado y los municipios, así como fincar, en su caso, las responsabilidades correspondientes.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-Artículo 15 bis.- Se instituye el Fondo Morelense para la Seguridad Pública Municipal, que se determinará aplicando, sólo para efectos de referencia, los porcentajes de los ingresos que perciba el Gobierno del Estado por concepto de las Participaciones en la proporción que para cada fondo se establece a continuación:
-
-I.- Del Fondo General de Participaciones, el 5% del total;
-
-II.- Del Impuesto sobre Tenencia o Uso de Vehículos, el 5% del total;
-
-III.- Del impuesto especial sobre producción y servicios, el 5% del total;
-
-IV.- Del Impuesto Sobre Automóviles Nuevos, el 5% del total, y
-
-V.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, el 5% del total.
-
-Este fondo lo administrará el Ejecutivo Estatal a través de la Secretaría de Seguridad Pública y lo asignará en los municipios en la misma proporción de conformidad con los factores que se obtengan de aplicar la fórmula estipulada en el Artículo 7 de la presente Ley. Los recursos de este Fondo podrán ser aplicados en proyectos conjuntos mediante esquemas de colaboración o a la par con la Federación, organismos internacionales u otras entidades que realicen proyectos en materia de seguridad en el Estado de Morelos.
-
-Los municipios del Estado de Morelos podrán presentar proyectos de inversión en materia de seguridad, atendiendo las necesidades y prioridades municipales, a fin de ser financiados por este Fondo. Asimismo, este fondo podrá financiar proyectos intermunicipales, respetando de manera agregada los valores señalados en el párrafo anterior, con el propósito de orientar las políticas en materia de seguridad del ámbito regional.
-
-El monto total de los recursos de este Fondo que resulte de la suma de los importes a que se refieren las fracciones de la I a la V del presente Artículo, se invertirán hasta en un cinco por ciento para el pago de nóminas, gasto corriente o de operación; el resto se aplicará en infraestructura, equipamiento y controles de confianza, en materia de seguridad pública.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 15.
 
 Se instituye el Fondo de Aportaciones Estatales para el Desarrollo Económico de los Municipios que se determinará aplicando, sólo para efectos de referencia, el 1.5% al monto total que resulte de la suma de los ingresos propios, participaciones federales e ingresos coordinados señalados en la Ley de Ingresos para el Gobierno del Estado de Morelos, que se distribuirá entre los municipios con base a los coeficientes de participación que a continuación se indican:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
@@ -266,6 +248,28 @@ En caso de desastres naturales o presencia de brotes epidémicos, que pongan en 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 La distribución por municipios se incluirá en el Presupuesto de Egresos del Gobierno del Estado de cada ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+Artículo 15 bis.- Se instituye el Fondo Morelense para la Seguridad Pública Municipal, que se determinará aplicando, sólo para efectos de referencia, los porcentajes de los ingresos que perciba el Gobierno del Estado por concepto de las Participaciones en la proporción que para cada fondo se establece a continuación:
+
+I.- Del Fondo General de Participaciones, el 5% del total;
+
+II.- Del Impuesto sobre Tenencia o Uso de Vehículos, el 5% del total;
+
+III.- Del impuesto especial sobre producción y servicios, el 5% del total;
+
+IV.- Del Impuesto Sobre Automóviles Nuevos, el 5% del total, y
+
+V.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, el 5% del total.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+
+Este fondo lo administrará el Ejecutivo Estatal, a través de la Secretaría de Gobierno del Poder Ejecutivo Estatal y lo asignará en los Municipios en la misma proporción, de conformidad con los factores que se obtengan de aplicar la fórmula estipulada en el Artículo 7 de la presente Ley. Los recursos de este Fondo, podrán ser aplicados en proyectos conjuntos mediante esquemas de colaboración o a la par con la Federación, Organismos Internacionales u otras Entidades que realicen proyectos en materia de seguridad en el Estado de Morelos.
+
+Los municipios del Estado de Morelos podrán presentar proyectos de inversión en materia de seguridad, atendiendo las necesidades y prioridades municipales, a fin de ser financiados por este Fondo. Asimismo, este fondo podrá financiar proyectos intermunicipales, respetando de manera agregada los valores señalados en el párrafo anterior, con el propósito de orientar las políticas en materia de seguridad del ámbito regional.
+
+El monto total de los recursos de este Fondo que resulte de la suma de los importes a que se refieren las fracciones de la I a la V del presente Artículo, se invertirán hasta en un cinco por ciento para el pago de nóminas, gasto corriente o de operación; el resto se aplicará en infraestructura, equipamiento y controles de confianza, en materia de seguridad pública.
 
 ### CAPÍTULO V. De la Coordinación en Materia de Deuda Pública
 
@@ -498,3 +502,15 @@ SEXTO.- Túrnese la presente resolución al Titular del Poder Ejecutivo del Esta
 SÉPTIMO.- El inicio de vigencia de las disposiciones contenidas en fracciones VI y VII del artículo 84 BIS-1 de la Ley General de Hacienda del Estado de Morelos, se dará a partir de la Declaratoria que expida la Secretaría de Hacienda del Estado, por la cual se concluya el proceso de captura, grabación y colocación de la constancia de inscripción al Registro Público Vehicular en las unidades que se encuentran registradas en el padrón vehicular estatal.
 
 OCTAVO.- A partir del inicio de vigencia del presente Decreto, la Secretaría de Seguridad Pública del Gobierno del Estado, tendrá un plazo de 30 días naturales para publicar y difundir entre los Municipios de la Entidad, las Reglas de Operación y rendición de cuentas, aplicables al Fondo a que se refiere el artículo 15 Bis de la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+P.O. 26 DE MARZO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal Seguridad Pública.
+
+QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
