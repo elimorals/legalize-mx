@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-control-331
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-02-20"
-last_updated: "2012-01-27"
+last_updated: "2014-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=331&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1985-02-18"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 20 de febrero de 1985.
 
@@ -51,6 +53,8 @@ Que en ejercicio de la facultad que el Ejecutivo Federal confiere la Constituci�
 
 REGLAMENTO de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
+
 ### CAPITULO I. Disposiciones Generales
 
 > <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
@@ -67,7 +71,7 @@ Cuando en este Reglamento se haga referencia a la "Ley" y a la "Secretaría", se
 
 La aplicación de este Reglamento compete a la Secretaría. Los gobiernos de las Entidades Federativas, en los términos de los Acuerdos de Coordinación que suscriban con dicha Dependencia, podrán participar en la prestación de los servicios a que el mismo se refiere.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 4o.
 
@@ -143,7 +147,7 @@ XXV.- Terapéutica: La rama de la medicina que establece los principios aplicabl
 
 XXVI.- Transfusión: Procedimiento a través del cual se suministra sangre o cualquiera de sus componentes a un ser humano, solamente con fines terapéuticos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 7o.
 
@@ -177,6 +181,8 @@ Corresponde a la Secretaría controlar, programar, coordinar, supervisar y evalu
 
 En ningún caso se podrá disponer de órganos, tejidos, productos y cadáveres, en contra de la voluntad del disponente originario.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
+
 ### CAPITULO II. De los Disponentes
 
 ###### ARTICULO 10.
@@ -187,7 +193,7 @@ En los términos de la Ley y de este Reglamento, los disponentes pueden ser orig
 
 Es disponente originario la persona con respecto a su propio cuerpo y los productos del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 12.
 
@@ -225,7 +231,7 @@ De conformidad con la propia ley, en los casos en que la autoridad competente or
 
 La preferencia entre los disponentes secundarios a que se refiere la fracción I del artículo 13, se definirá conforme a las reglas de parentesco que establece el Código Civil para el Distrito Federal en materia común y para toda la República en materia federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 16.
 
@@ -245,7 +251,11 @@ V.- Haber expresado su voluntad por escrito, libre de coacción física o moral,
 
 Tratándose de trasplantes de médula ósea, la Secretaría podrá, en su caso, eximir al disponente originario del requisito a que se refiere la fracción I de este artículo. Al efecto deberán presentarse ante la Secretaría los estudios y diagnósticos terapéuticos que ésta determine y, cuando proceda, el consentimiento de los representantes legales del disponente, a quienes también se les deberá proporcionar la información a que se refiere la fracción IV de este artículo.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
+
 ### CAPITULO III. De la Disposición de Organos, Tejidos y Productos
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
 
 #### SECCION PRIMERA. Disposiciones Comunes
 
@@ -270,6 +280,8 @@ Para llevar a cabo actos de disposición de órganos y tejidos en cualquiera de 
 ###### ARTICULO 20.
 
 Los establecimientos de salud, previa autorización de la Secretaría, podrán instalar y mantener, para fines terapéuticos, bancos de órganos y tejidos, cuyo funcionamiento se regirá por las disposiciones de la Ley, de este Reglamento y por las normas técnicas que emita la citada dependencia.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
 
 #### SECCION SEGUNDA. De la Disposición de Organos y Tejidos Para Fines Terapéuticos
 
@@ -337,7 +349,7 @@ IV.- Haber expresado su voluntad por escrito, una vez enterado del objeto de la 
 
 V.- Ser compatible con el disponente originario del que se vaya a tomar el órgano o tejido.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 26.
 
@@ -367,7 +379,7 @@ XI.- Lugar y fecha en que se emite, y
 
 XII.- Nombre, firma y domicilio de los testigos si se trata de documento privado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 27.
 
@@ -397,7 +409,7 @@ IV.- No haber presentado infecciones graves y otros padecimientos que pudieren, 
 
 La obtención, guarda, conservación, preparación y utilización de órganos, tejidos, sus componentes y productos de seres humanos vivos, o de cadáveres, para fines terapéuticos, de investigación científica o de docencia, sólo podrá hacerse en instituciones autorizadas para ello.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 30.
 
@@ -513,7 +525,9 @@ VI.- Las demás similares a las anteriores que señale la Secretaría.
 
 Los establecimientos que realicen actos de disposición de órganos y tejidos con fines terapéuticos, rendirán un informe de sus actividades a los Registros Nacionales de Trasplantes y de Transfusiones, a que alude el artículo anterior, en los términos, forma y periodicidad que señale la Secretaría.
 
-> <small>(REFORMADA LA DENOMINACION, D. O. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
+
+> <small>(REFORMADA LA DENOMINACIÓN, D. O. 26 DE NOVIEMBRE DE 1987)</small>
 
 #### SECCION TERCERA. De la Disposición de Sangre y sus Componentes
 
@@ -527,7 +541,7 @@ En el caso de disposición de sangre, no es necesario que el disponente exprese 
 
 La sangre en ningún caso podrá ser objeto de actos de comercio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 40.
 
@@ -695,6 +709,8 @@ Las transfusiones de sangre solamente se realizarán con propósitos terapéutic
 
 De cada unidad de sangre o sus fracciones se tendrá una muestra piloto que se conservará por un mínimo de 24 horas, después de haberse transfundido.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
+
 > <small>(F. DE E., D. O. 9 DE JULIO DE 1985)</small>
 
 #### SECCION CUARTA. De la Disposición de Productos
@@ -712,6 +728,8 @@ La disposición de células germinales se llevará a cabo de conformidad con lo 
 ###### ARTICULO 57.
 
 Los establecimientos de salud podrán destinar, para usos científicos o industriales, las placentas que obtengan, ya sea mediante alguna contraprestación o a titulo gratuito, siempre que sean manejadas de conformidad con las normas técnicas que emita la Secretaría.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
 
 ### CAPITULO IV. De la Disposición de Cadáveres
 
@@ -812,6 +830,8 @@ Los establecimientos que apliquen las técnicas y procedimientos para la conserv
 ###### ARTICULO 73.
 
 Las disposiciones generales sobre cadáveres serán aplicadas, en su caso, a los de embriones y fetos.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
 
 ### CAPITULO V. De la Investigación y Docencia
 
@@ -953,6 +973,8 @@ Los cadáveres o partes de los mismos que no puedan seguir siendo utilizados par
 
 Las instituciones educativas serán responsables del uso adecuado y ético de los cadáveres. Sólo se podrá entregar anualmente y como máximo, el número de cadáveres que expresamente les haya autorizado la Secretaría, y para el empleo de un número mayor, la institución respectiva deberá presentar solicitud en la que exprese los motivos que los justifiquen.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
+
 ### CAPITULO VI. De las Autorizaciones
 
 ###### ARTICULO 89.
@@ -1011,7 +1033,7 @@ IX. Los demás que señale este Reglamento y demás disposiciones jurídicas apl
 
 Los establecimientos que realizan exclusivamente trasplante de córnea deberán de reunir únicamente los requisitos que señalan las fracciones I, II, III, V, VII, VIII y IX.
 
-> <small>(REFORMADO PRIMER PARRAFO, D. O. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D. O. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 93.
 
@@ -1045,7 +1067,7 @@ IV.- En el caso de los bancos de sangre y plasma, así como de los servicios de 
 
 V.- Los demás que señale este Reglamento y las normas técnicas que expida la Secretaría.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D. O. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D. O. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 94.
 
@@ -1311,7 +1333,7 @@ IV.- Cuando las modificaciones sean para mejorar la organización.
 
 En los anteriores casos bastará con dar aviso a la Secretaría dentro de los quince días siguientes a la fecha en que sucedan. La inobservancia del aviso hará incurrir al titular de la autorización, en la causal prevista en la fracción IV del artículo 122 de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 119.
 
@@ -1326,6 +1348,8 @@ Los permisos a que se prefiere (sic) este Reglamento, podrán ser revisados por 
 ###### ARTICULO 121.
 
 La Secretaría dispondrá de plazo de cuarenta y cinco días hábiles para resolver sobre la solicitud de licencia o permiso sanitarios, contado a partir de la fecha de presentación de la solicitud, o desde la fecha en la que se le proporcionen las aclaraciones o informaciones adicionales que expresamente se requieran al solicitante. Si la resolución no se dictare dentro del plazo señalado, la licencia o permiso solicitados se considerarán concedidos.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
 
 ### CAPITULO VII. De la Revocación de Autorizaciones
 
@@ -1363,7 +1387,7 @@ Cuando los bancos de órganos, tejidos y sus componentes dejen de prestar en for
 
 En estos casos, se deberá notificar a la Secretaría dentro de los diez días hábiles siguientes a la fecha en que se deje de prestar en forma definitiva los servicios, adjuntándose las autorizaciones respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 124.
 
@@ -1374,6 +1398,8 @@ Cuando los bancos de órganos, tejidos y sus componentes suspendan temporalmente
 La suspensión mayor de sesenta días naturales se considerará como definitiva; no obstante, la Secretaría podrá conceder un plazo mayor cuando existan causas que, a su juicio, lo justifique.
 
 La reanudación del servicio deberá ser notificada a la Secretaría, dentro del plazo de cinco días hábiles siguientes a la misma.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
 
 ### CAPITULO VIII. De la Vigilancia e Inspección
 
@@ -1388,6 +1414,8 @@ La vigilancia sanitaria a que se refiere el artículo anterior, se realizará co
 ###### ARTICULO 127.
 
 Durante la inspección y para el caso de que la Secretaría lo estime necesario, se podrán obtener muestras-testigo de los órganos, tejidos y productos a que se refiere este Reglamento para su análisis en los laboratorios de la Secretaría o los expresamente autorizados por ella. De igual manera se podrá ordenar y verificar los mencionados análisis en el local del establecimiento visitado, cuando las circunstancias lo permitan. De las muestras-testigo obtenidas se dará cuenta pormenorizada en el acta que al efecto se levante con las formalidades señaladas en el Capítulo Unico del Título Décimo Séptimo de la Ley.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
 
 ### CAPITULO IX. De las Medidas de Seguridad
 
@@ -1406,6 +1434,8 @@ II.- El aseguramiento y destrucción de objetos, productos o substancias;
 III.- La prohibición de actos de uso, y
 
 IV.- Las demás de índole sanitaria que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
 
 ### CAPITULO X. De las Sanciones Administrativas
 
@@ -1431,11 +1461,15 @@ La violación de las disposiciones contenidas en los artículos 9o., 21, 22, 23,
 
 Las infracciones no previstas en este capítulo serán sancionadas en los términos del artículo 422 de la Ley.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
+
 ### CAPITULO XI. Procedimiento Para Aplicar Sanciones y Medidas de Seguridad
 
 ###### ARTICULO 135.
 
 Los procedimientos para la aplicación de las medidas de seguridad y sanciones se ajustarán a lo establecido en la Ley.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE TRASPLANTES, PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 26 DE MARZO DE 2014, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, QUE SE REFIRIERAN A LA DONACIÓN, DISPOSICIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS, DISTINTAS A LA SANGRE Y SUS COMPONENTES, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS O TRONCALES, ASÍ COMO AQUELLAS DISPOSICIONES QUE SE OPONGAN A DICHO REGLAMENTO. EN CONSECUENCIA, SE MANTIENEN VIGENTES LAS SECCIONES TERCERA Y CUARTA DEL CAPÍTULO III; EL CAPÍTULO IV, Y EL CAPÍTULO V DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS, ASÍ COMO LAS DEMÁS DISPOSICIONES DEL MISMO ORDENAMIENTO, QUE RESULTEN NECESARIAS PARA LA APLICACIÓN DE DICHAS SECCIONES Y CAPÍTULOS ANTES CITADOS.</small>
 
 ### CAPITULO XII. Del Recurso de Inconformidad
 
@@ -1459,7 +1493,7 @@ Se abrogan el Reglamento Federal Para la Disposición de Organos, Tejidos y Cad�
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de febrero de mil novecientos ochenta y cinco.-Miguel de la Madrid H.-Rúbrica.-El Secretario de Salud, Guillermo Soberón Acevedo.-Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 26 DE NOVIEMBRE DE 1987.
 
@@ -1470,3 +1504,21 @@ D.O.F. 27 DE ENERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Aquéllos trámites de solicitud de licencia sanitaria, cuya resolución se encuentre pendiente al momento de la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones jurídicas vigentes al momento de su presentación.
+
+D.O.F. 26 DE MARZO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones del Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos, que se refieran a la donación, disposición y trasplante de órganos, tejidos y células, distintas a la sangre y sus componentes, células progenitoras hematopoyéticas o troncales, así como aquellas disposiciones que se opongan al presente Reglamento.
+
+En consecuencia, se mantienen vigentes las Secciones Tercera y Cuarta del Capítulo III; el Capítulo IV, y el Capítulo V del Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos, así como las demás disposiciones del mismo ordenamiento, que resulten necesarias para la aplicación de dichas Secciones y Capítulos antes citados.
+
+TERCERO. Se abroga el Acuerdo mediante el cual se establecen los lineamientos para la asignación y distribución de órganos y tejidos de cadáveres de seres humanos para trasplante, publicado en el Diario Oficial de la Federación el 23 de abril de 2009.
+
+CUARTO. Se abroga el Acuerdo por el que se delega en el Titular de la Comisión Federal para la Protección contra Riesgos Sanitarios la atención del trámite que se indica, publicado en el Diario Oficial de la Federación el 16 de junio de 2011.
+
+QUINTO. El Centro Nacional de Trasplantes tendrá un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, para la emisión de los formatos a que hacen referencia los artículos 8 y 11 del presente ordenamiento.
+
+SEXTO. Los trámites y procedimientos administrativos relacionados con el objeto de este Reglamento que se encuentren en trámite al momento de su entrada en vigor, se resolverán conforme a las disposiciones vigentes en la fecha en que iniciaron dichos trámites y procedimientos.
+
+SÉPTIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Salud, por lo que no requerirá de ampliaciones presupuestales adicionales y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal.
