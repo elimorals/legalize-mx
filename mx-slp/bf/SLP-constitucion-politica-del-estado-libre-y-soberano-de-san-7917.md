@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2010-11-06"
+last_updated: "2014-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -701,11 +701,11 @@ Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley
 
 El diputado que no concurra a tres sesiones consecutivas sin previa licencia del Congreso, o sin causa justificada calificada por la Directiva del mismo, cesará en el desempeño de su cargo. En este caso será llamado, desde luego, su suplente, quien tendrá derecho a percibir las dietas correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 52.
 
-El Congreso del Estado tendrá anualmente dos períodos ordinarios de sesiones. El primero comenzará el quince de septiembre y concluirá el quince de diciembre; y el segundo, que será improrrogable, comenzará el uno de marzo y concluirá el treinta de junio. El primer período se podrá ampliar hasta por un mes más si se considera indispensable, según las necesidades públicas o a petición del Titular del Ejecutivo.
+El Congreso del Estado tendrá anualmente dos periodos ordinarios de sesiones. El primero comenzará el quince de septiembre y concluirá el quince de diciembre; y el segundo, que será improrrogable, comenzará el uno de febrero y concluirá el treinta de junio. El primer periodo se podrá ampliar hasta por un mes más, si se considera indispensable, según las necesidades públicas o a petición del Titular del Ejecutivo.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2606,3 +2606,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año dos mil once.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 27 DE MARZO DE 2014.
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento establecido en el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
