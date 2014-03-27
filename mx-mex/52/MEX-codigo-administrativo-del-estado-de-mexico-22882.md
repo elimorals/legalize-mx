@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-01-24"
+last_updated: "2014-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MEX"
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 27 DE MARZO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2385,9 +2387,9 @@ X. La suspensión temporal hasta por noventa días a establecimientos con venta 
 
 Una vez aplicada esta medida de seguridad, se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento, se sancione con la clausura temporal o definitiva, parcial o total, según corresponda. Además se procederá penalmente conforme a la ley de la materia.
 
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+(REFORMADA, G.G. 22 DE ENERO DE 2014) (F. DE E., G.G. 27 DE MARZO DE 2014)
 
-XI. La colocación de sello de aviso para requerir se acredite el cumplimiento de disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, de la Ley General de Salud, la Ley General del Tabaco y su reglamento;
+XI. La colocación de sello de aviso para requerir se acredite el cumplimiento de disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, de la Ley General de Salud, la Ley General para el Control del Tabaco y su reglamento;
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -2437,7 +2439,9 @@ d) Deberá contener el escudo del Gobierno del Estado de México y de la COPRISE
 
 e) Nombre y firma de los verificadores sanitarios, así como fecha de la verificación y el folio correspondiente;
 
-f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General del Tabaco y su Reglamento.
+> <small>(F. DE E., G.G. 27 DE MARZO DE 2014)</small>
+
+f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento.
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -11529,7 +11533,7 @@ II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de s
 
 III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
 
-IV. Aquellos cuya publicación esté determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -13015,11 +13019,11 @@ VIII. Los demás lugares que expresamente prohíban otras leyes y demás disposi
 
 En el caso de colocación de publicidad exterior en puentes peatonales, también se estará a las disposiciones del Programa Estatal de Publicidad Exterior.
 
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(REFORMADO, G.G. 22 DE ENERO DE 2014) (F. DE E., G.G. 27 DE MARZO DE 2014)
 
 ###### Artículo 17.
 
-37.- Son responsables solidarios del pago de multas, aplicación de medidas de seguridad, sanciones y su ejecución, las personas físicas o morales, responsables del inmueble donde se instale o pretenda instalar cualquier elemento de publicidad exterior.
+37.- Son responsables solidarios del pago de multas, aplicación de medidas de seguridad, sanciones y su ejecución, las personas físicas o jurídicas colectivas, responsables del inmueble donde se instale o pretenda instalar cualquier elemento de publicidad exterior.
 
 Ante el ejercicio de las facultades de verificación de la autoridad competente, los responsables solidarios deberán permitir el acceso al inmueble y brindar todas las facilidades que resulten necesarias.
 
@@ -16405,11 +16409,11 @@ CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 3 DE MAYO DE 2013.
 
-DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 26 DE OCTUBRE DE 2012.
+DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 26 DE OCTUBRE DE 2012.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
