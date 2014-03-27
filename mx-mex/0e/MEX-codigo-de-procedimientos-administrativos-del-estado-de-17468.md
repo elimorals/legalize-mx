@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2014-01-22"
+last_updated: "2014-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 27 DE MARZO DE 2014.</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -171,11 +171,11 @@ Toda promoción que sea presentada por escrito deberá contener la firma autógr
 
 En materia de transparencia también podrán presentarse promociones por medios electrónicos.
 
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+(REFORMADO, G.G. 22 DE ENERO DE 2014) (F. DE E., G.G. 27 DE MARZO DE 2014)
 
 ###### Artículo 10.
 
-Los menores de edad, los sujetos a interdicción, las sucesiones, las quiebras y las personas jurídico colectivas, actuarán por conducto de sus representantes, en términos de la legislación aplicable.
+Los menores de edad, los sujetos a interdicción, las sucesiones, las quiebras y las personas jurídicas colectivas, actuarán por conducto de sus representantes, en términos de la legislación aplicable.
 
 ###### Artículo 11.
 
@@ -1007,13 +1007,15 @@ IX. Con las mismas formalidades indicadas en los puntos anteriores, se levantar�
 
 X. El visitado, su representante o la persona con la que se haya entendido la verificación, podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos u omisiones contenidos en el acta de la misma o bien hacer uso de ese derecho, por escrito, dentro del término de tres días siguientes a la fecha en que se hubiere levantado el acta.
 
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+(ADICIONADA, G.G. 22 DE ENERO DE 2014) (F. DE E., G.G. 27 DE MARZO DE 2014)
 
-XI. Al momento de practicar la primera visita de verificación y de encontrarse el establecimiento cerrado, se colocará sello de aviso donde invariablemente se requerirá al visitado para que dentro de los tres días siguientes, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de su negociación, a fin de acreditar el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario y aviso de funcionamiento, además del Cumplimiento de la Ley General de Salud, la Ley General del Tabaco y su reglamento.
+XI. Al momento de practicar la primera visita de verificación y de encontrarse el establecimiento cerrado, se colocará sello de aviso donde invariablemente se requerirá al visitado para que dentro de los tres días siguientes, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de su negociación, a fin de acreditar el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario y aviso de funcionamiento, además del Cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su reglamento.
 
 Sello que deberá contener la siguiente leyenda:
 
-En términos del artículo 2.68 fracción XI del Código Administrativo del Estado de México, se exhorta al propietario y/o representante legal de este establecimiento para que dentro del término de tres días, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de la negociación, a fin de que acredite el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General del Tabaco y su Reglamento, apercibido que de no dar cumplimiento a este requerimiento se hará uso de los medios de apremios y medidas de seguridad previstas en el artículo 404 de la Ley General de Salud y 2.49 del Código Administrativo del Estado de México respectivamente; con la advertencia de que el retiro o destrucción de este aviso sin la orden de la autoridad competente, será sancionado en términos del artículo 19 fracciones I, IV y V del Código de Procedimientos Administrativos del Estado de México;
+> <small>(F. DE E., G.G. 27 DE MARZO DE 2014)</small>
+
+En términos del artículo 2.68 fracción XI del Código Administrativo del Estado de México, se exhorta al propietario y/o representante legal de este establecimiento para que dentro del término de tres días, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de la negociación, a fin de que acredite el cumplimiento de las disposiciones sanitarias consistentes en el dictamen de factibilidad de impacto sanitario, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento, apercibido que de no dar cumplimiento a este requerimiento se hará uso de los medios de apremios y medidas de seguridad previstas en el artículo 404 de la Ley General de Salud y 2.49 del Código Administrativo del Estado de México respectivamente; con la advertencia de que el retiro o destrucción de este aviso sin la orden de la autoridad competente, será sancionado en términos del artículo 19 fracciones I, IV y V del Código de Procedimientos Administrativos del Estado de México;
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
