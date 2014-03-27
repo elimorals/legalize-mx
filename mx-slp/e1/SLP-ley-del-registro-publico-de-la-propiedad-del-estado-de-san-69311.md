@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-del-estado-de-san-6931
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-11"
-last_updated: "2013-10-12"
+last_updated: "2014-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 11 de julio de 2009.
 
@@ -745,9 +745,17 @@ El Registrador denegará la inscripción de los actos que se presenten a registr
 
 I. Cuando se trate de actos que no sean inscribibles por disposición de esta Ley u otros ordenamientos legales;
 
-II. Cuando el contenido de los asientos inscritos en el Registro Público de la Propiedad no coincida plenamente con el acto cuya inscripción se solicita, o
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2014)</small>
 
-III. Cuando falte algún requisito que no sea subsanable y que deba constar en la forma precodificada para efectos de su registro, de acuerdo con esta Ley y su Reglamento.
+II. Cuando el contenido de los asientos inscritos en el Registro Público de la Propiedad no coincida plenamente con el acto cuya inscripción se solicita;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2014)</small>
+
+III. Cuando falte algún requisito que no sea subsanable y que deba constar en la forma precodificada para efectos de su registro, de acuerdo con esta Ley y su Reglamento, o
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2014)</small>
+
+IV. Cuando se trate de bienes inmuebles del dominio del Estado y municipios y que éstos sean susceptibles de enajenación y se carezca de la previa autorización del Congreso del Estado.
 
 ## TITULO QUINTO. DE LA RECTlFICACION Y CANCELACION DE INSCRIPCIONES
 
@@ -916,3 +924,9 @@ P.O. 12 DE OCTUBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MARZO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
