@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2014-02-25"
+last_updated: "2014-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -211,7 +211,7 @@ IV. Recibir, en los términos que establece esta Ley y el Reglamento, el informe
 
 V. Otorgar al gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública, las que quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;
 
-VI. Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
+VI Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
 
 VII. Trasladar, a solicitud del Ejecutivo, la residencia de los poderes del Estado, cuando sea necesario por circunstancias extraordinarias;
 
@@ -419,13 +419,17 @@ III. Expedir, reformar, adicionar o derogar el Reglamento para el Gobierno Inter
 
 ### Capítulo II. De los Periodos de Sesiones
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2014)</small>
+
 ###### ARTICULO 35.
 
-El Congreso tendrá anualmente dos periodos ordinarios de sesiones. El primero comenzará el quince de septiembre y concluirá el quince de diciembre; y el segundo, que será improrrogable, comenzará el uno de marzo y concluirá el treinta de junio. El primer periodo se podrá ampliar hasta por un mes más, si se considera indispensable, según las necesidades públicas o a petición del titular del Ejecutivo.
+El Congreso tendrá anualmente dos periodos ordinarios de sesiones. El primero comenzará el quince de septiembre y concluirá el quince de diciembre; y el segundo, que será improrrogable, comenzará el uno de febrero y concluirá el treinta de junio. El primer periodo se podrá ampliar hasta por un mes más, si se considera indispensable, según las necesidades públicas o a petición del titular del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 36.
 
-En la apertura de los periodos ordinarios de sesiones, el quince de septiembre y el uno de marzo de cada año, el Presidente de la Legislatura declarará la apertura del respectivo periodo de sesiones del año de la Legislatura correspondiente.
+En la apertura de los periodos ordinarios de sesiones, el quince de septiembre; y el uno de febrero, el Presidente de la Directiva declarará la apertura del respectivo periodo de sesiones del año de la Legislatura correspondiente.
 
 ###### ARTICULO 37.
 
@@ -2174,3 +2178,9 @@ P.O. 25 DE FEBRERO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MARZO DE 2014.
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento establecido en el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
