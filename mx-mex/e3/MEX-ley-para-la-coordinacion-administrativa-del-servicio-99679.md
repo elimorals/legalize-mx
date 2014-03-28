@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-administrativa-del-servicio-99679"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2014-03-11"
+last_updated: "2014-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA COORDINACION ADMINISTRATIVA DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA COORDINACIÓN ADMINISTRATIVA DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 28 DE MARZO DE 2014.</small>
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 11 de marzo de 2014.
 
@@ -551,7 +551,9 @@ TERCERO. De conformidad con lo establecido en el artículo Octavo Transitorio de
 
 El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 35 de esta Ley, será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según corresponda.
 
-CUARTO. El personal docente y el personal con funciones de dirección o de supervisión en la educación básica o media superior impartida por el Gobierno del Estado y sus organismos descentralizados que a la entrada en vigor de esta Ley tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en los artículos 34 y 35 de la presente Ley. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará nombramiento definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto por la Ley General del Servicio Profesional Docente y el presente ordenamiento.
+> <small>(F. DE E., G. G. 28 DE MARZO DE 2014)</small>
+
+CUARTO. El personal docente y el personal con funciones de dirección o de supervisión en la educación básica o media superior impartida por el Gobierno del Estado y sus organismos descentralizados que a la entrada en vigor de la Ley General del Servicio Profesional Docente tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en los artículos 34 y 35 de la presente Ley. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgarán nombramiento definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto por la Ley General del Servicio Profesional Docente y el presente ordenamiento.
 
 Será separado del servicio público sin responsabilidad para la autoridad educativa estatal o el organismo descentralizado, según sea el caso, el personal que:
 
