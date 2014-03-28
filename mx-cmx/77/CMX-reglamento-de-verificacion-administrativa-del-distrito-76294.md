@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-verificacion-administrativa-del-distrito-76294"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-31"
-last_updated: "2011-06-14"
+last_updated: "2014-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76294&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2010-08-30"
 ---
 # REGLAMENTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-REGLAMENTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
+REGLAMENTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE MARZO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 31 de agosto de 2010.
 
@@ -599,6 +599,10 @@ III. El retiro de instalaciones, y
 IV. Las demás que establezcan los ordenamientos legales o reglamentarios aplicables, necesarias para preservar la integridad de las personas o de sus bienes, la seguridad pública y la salud de la población.
 
 Las medidas de seguridad tendrán por objeto eliminar el riesgo o la situación de peligro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE MARZO DE 2014)</small>
+
+El instituto ejecutará las suspensiones otorgadas por el Tribunal de lo Contencioso administrativo del Distrito Federal, dictadas en los juicios de lesividad promovidos por la Administración Pública del Distrito Federal.
 
 ###### Artículo 42.
 
@@ -1177,3 +1181,9 @@ TERCERO. Los procedimientos administrativos de verificación que se encuentren e
 CUARTO. Las menciones que se hagan a otras autoridades en cualquier disposición normativa relacionada con el ejercicio de las atribuciones en materia de transporte que corresponden al Instituto conforme a la Ley, se entenderán hechas al Instituto.
 
 QUINTO. Las menciones realizadas al personal de verificación en cualquier disposición normativa relacionada con el ejercicio de las atribuciones en las materias de verificación que corresponden al Instituto en materia de transporte, se entenderán hechas al personal especializado en funciones de verificación del propio Instituto.
+
+G.O. 28 DE MARZO DE 2014.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
