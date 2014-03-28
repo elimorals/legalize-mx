@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-coordinacion-general-de-77486"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-09"
-last_updated: "2010-11-09"
+last_updated: "2014-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE OAXACA
 
-REGLAMENTO INTERNO DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE OAXACA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 9 de noviembre de 2010.
 
@@ -394,3 +396,15 @@ LIC. MANUEL FRANCISCO MÁRQUEZ MÉNDEZ.
 LA COORDINADORA GENERAL DE COMUNICACIÓN SOCIAL DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE OAXACA
 
 LIC. SOLEDAD JUANA ROJAS WALLS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MARZO DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado de Oaxaca, publicado en el Extra del Periódico Oficial del Gobierno del Estado el nueve de noviembre de dos mil diez, así como, todas las disposiciones reglamentarias y administrativas del mismo rango que se opongan a lo establecido en el presente Reglamento.
+
+TERCERO.- La emisión de manuales y demás normatividad requerida para su ejercicio, deberá realizarse dentro de los noventa días hábiles siguientes a la entrada en vigor del mismo.
