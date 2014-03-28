@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-de-acceso-de-las-mujeres-a-una-vida-70462"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-26"
-last_updated: "2009-09-26"
+last_updated: "2014-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "COL"
 
 REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial de Estado de Colima, el sábado 26 de septiembre de 2009.
 
 LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, en ejercicio de las atribuciones que me otorga el artículo 58, fracción III de la Constitución Política del Estado Libre y Soberano de Colima; y con fundamento en los artículos 2 y 12 de la Ley Orgánica de la Administración Pública del Estado de Colima; y los relativos y aplicables de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Colima y;
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo antes expuesto tengo a bien expedir el siguiente:
 
@@ -191,13 +191,17 @@ Es responsabilidad de la Administración Pública y privada proporcionar las int
 
 ### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO ANTE LA VIOLENCIA FEMINICIDA Y AGRAVIO COMPARADO
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
-La declaratoria de alerta de violencia de género tiene como objeto fundamental garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las desigualdades producidas por la existencia de un agravio comparado a través de acciones gubernamentales federales y de coordinación con las entidades federativas, para enfrentar y erradicar la violencia feminicida en un territorio determinado, en términos de los artículos 28 al 30 y del 32 al 36 de la Ley.
+La declaratoria de alerta de violencia de género tiene por objeto fundamental garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las desigualdades producidas por la existencia de un agravio comparado a través de acciones de emergencia, gubernamentales federales y de coordinación con las entidades federativas y los municipios, para enfrentar y erradicar la violencia feminicida en un territorio determinado, en términos de los artículos 28 al 30 y del 32 al 36 de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 12.
 
-Procederá la declaratoria de la Alerta de Género cuando se demuestre que en el Estado suceda alguno de los siguientes casos:
+Procederá la declaratoria de la Alerta de Violencia de Género cuando se demuestre que en el Estado suceda alguno de los siguientes casos:
 
 I. Que Exista violación de los Derechos Humanos de las Mujeres en el ámbito público o privado.
 
@@ -209,43 +213,59 @@ a) Distinciones, restricciones o derechos específicos diversos para una misma p
 
 b) Que no se proporcione la equidad de género en igualdad de circunstancias jurídicas, generando discriminación y consecuente agravio, o
 
-c) Que se genere una aplicación inequitativa de la ley, lesionándose los derechos de las mujeres.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2014)</small>
+
+c) Que se genere una aplicación inequitativa de la Ley, lesionándose los derechos humanos de las mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 13.
 
-En caso de que se realice algún supuesto del artículo anterior, la Secretaría Ejecutiva, podrá recibir la solicitud escrita por parte de cualquier organismo, institución o individuo del Estado, quien en un término de 2 días hábiles revisará que contenga los siguientes requisitos:
+La solicitud de la declaratoria de alerta de violencia de género podrá ser presentada por los organismos de derechos humanos internacionales, nacional o estatal, así como las organizaciones de la sociedad civil legalmente constituidas.
 
-I. Nombre del solicitante;
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
 
-II. Carácter con el que actúa el solicitante;
+La solicitud se presentará por escrito directamente ante la Secretaría Ejecutiva del Sistema Nacional, a través de correo, o bien, ante la Secretaría Ejecutiva del Sistema Estatal, quién lo remitirá dentro del término de 24 horas hábiles de su recepción, a la Secretaría Ejecutiva del Sistema Nacional, debiendo contener los siguientes requisitos:
 
-III. Domicilio para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-IV. Lugar o lugares donde se presenta dicha violencia de género;
+I. Denominación o razón social de quién o quiénes promuevan o, en su caso, nombre de su representante legal;
 
-V. Descripción de los hechos violatorios de los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+II. Domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+III. Los documentos que sean necesarios para acreditar la personalidad con la que promueve, así como la legal existencia del organismo o asociación que promueva;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+IV. Narración de los hechos en que se basa para estimar que existen delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, que perturben la paz social en un territorio determinado y la sociedad así lo reclame, o que en dicho territorio existe un agravio comparado en términos del artículo 12 de este Reglamento, y
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+V. Descripción de los hechos violatorios de los derechos humanos de las mujeres, y tratándose de agravio comparado, señalar las leyes, reglamentos, políticas o disposiciones jurídicas que consideran les agravian.
 
 VI. Grupo de mujeres afectadas y número aproximado, y
 
 VII. Tiempos o periodos de las conductas.
 
-En caso de que observe que existe alguna omisión, la Secretaría Ejecutiva, prevendrá al solicitante para que subsane en un término de 5 días hábiles. Transcurrido el plazo sin que se desahogue la prevención, se desechará el trámite. Cuando haya sido declarada improcedente una solicitud, se garantizará el derecho de audiencia en sesión extraordinaria del Sistema.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 14.
 
 Una vez reunidos los requisitos, la Secretaría Ejecutiva, convocará al Sistema Estatal a reunión extraordinaria en un término de 5 días para que éste resuelva en definitiva si procede o no iniciar la investigación solicitada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
+
 ###### ARTÍCULO 15.
 
-De ser procedente la solicitud de declaratoria de alerta de género, el Sistema Estatal, en su primera sesión extraordinaria, tomará las siguientes medidas:
+La Declaratoria de Alerta de Violencia de Género se establecerá conforme al procedimiento previsto en el Reglamento de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en su (sic) artículos 30, 31, 32, 33, 35, 36, 36 Bis, 36 Ter, 37, 38 y 38 Bis.
 
-I. Hará del conocimiento del Ejecutivo Estatal, de la procedencia de la solicitud, exhortándolo a que rinda su informe sobre los hechos señalados, en un plazo no mayor de 8 días hábiles.
+I. (DEROGADA, P.O. 28 DE MARZO DE 2014)
 
-II. Conformará un grupo interinstitucional y multidisciplinario para el estudio y análisis de los hechos que puedan ser constitutivos de la declaración de alerta de violencia de género contra las mujeres, debiendo presentar su informe en un término no mayor de 8 días hábiles.
-
-El grupo interinstitucional y multidisciplinario, para la debida integración del informe que se remita al Sistema, podrá solicitar a las autoridades locales, la información y documentación que tenga relación con la investigación; así como a las personas físicas o morales, que considere necesarias a fin de que manifiesten los hechos o datos que les consten.
-
-La documentación y demás información que genere el grupo interinstitucional y multidisciplinario es confidencial en los términos de los artículos 13 y 14 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; asimismo, las personas que integren o participen en éste tienen obligación de guardar la más estricta confidencialidad sobre el expediente e información respectivos, quedando sujeto el infractor, al procedimiento de responsabilidad correspondiente.
+II. (DEROGADA, P.O. 28 DE MARZO DE 2014)
 
 ###### ARTÍCULO 16.
 
@@ -1514,3 +1534,9 @@ TERCERO. La Secretaría Ejecutiva del Sistema y el Secretario Ejecutivo del Cons
 Dado en la Residencia del Poder Ejecutivo, en Palacio de Gobierno del Estado de Colima, Colima, a los 23 días del mes de septiembre del año 2009.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESUS SILVERIO CAVAZOS CEBALLOS. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMAN. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2014.
+
+ÚNICO:- La Presente Reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial "El Estado de Colima".
