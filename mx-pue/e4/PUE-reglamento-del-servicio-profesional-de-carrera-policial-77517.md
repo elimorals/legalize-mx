@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-servicio-profesional-de-carrera-policial-77517"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-27"
-last_updated: "2010-10-27"
+last_updated: "2014-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARIA DE SEGURIDAD PUBLICA Y TRANSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, PUEBLA
 
-REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARIA DE SEGURIDAD PUBLICA Y TRANSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
+REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2014.
 
 Reglamento publicado en la Tercera Sección, del Periódico Oficial del Estado de Puebla, el miércoles 27 de octubre de 2010.
 
@@ -227,19 +227,11 @@ Para mejorar la integración, desarrollo, funcionamiento de la estructura orgán
 
 ###### Artículo 18.
 
-Dentro del Servicio se entender (sic) a la autoridad ejercida por un superior jerárquico de la Secretaría, en servicio activo, sobre sus inferiores o iguales en grado, cuando éstos se encuentren subordinados a él, en razón de su categoría, cargo o comisión.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ###### Artículo 19.
 
-Para el cumplimiento de sus funciones, así como para el desarrollo de sus operaciones en cuanto a dirección y disciplina, la Secretaría contará con los siguientes niveles de mando:
-
-I. Alto mando;
-
-II. Mandos superiores;
-
-III. Mandos operativos; y
-
-IV. Mandos subordinados.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ### CAPÍTULO TERCERO. DEL PERFIL DEL GRADO DEL POLICÍA DE CARRERA
 
@@ -486,6 +478,32 @@ IX. Conocer de las bajas o separación del Servicio por: renuncia, muerte, jubil
 X. Coordinarse con las demás autoridades e instituciones, a cuya área de atribuciones y actividades correspondan obligaciones relacionadas con el Servicio; y
 
 XI. Las demás que señale el Reglamento, así como las disposiciones legales y administrativas aplicables para el funcionamiento del Servicio.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2014)</small>
+
+Para el cumplimiento correcto del presente artículo, el Comité contará con un registro del Plan Individual de Carrera Policial, que contenga mínimamente una base de datos con la información completa del miembro del servicio, para lo cual, las diferentes áreas que integran la Secretaría, deberán de proporcionar la información que corresponda.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2014)</small>
+
+###### Artículo 42 Bis.
+
+El Plan Individual de Carrera es la herramienta que contiene el registro de la ruta profesional de cada miembro del servicio, desde el momento en que ingresa a la Institución y hasta que causa baja de la misma; con la intención de fomentar en el integrante un sentido de pertenencia y para otorgarle certeza y certidumbre al conservar la categoría y jerarquía a la que vaya accediendo. Al respecto el registro de Plan Individual de Carrera se integrará por:
+
+I. Ascenso de nivel escolar o grado académico;
+
+II. Promociones de grado;
+
+III. Comisiones en Unidades Administrativas;
+
+IV. Cursos de capacitación continua, especializada u otros;
+
+V. Estímulos, reconocimientos o recompensas obtenidos;
+
+VI. Sanciones basadas en el Régimen Disciplinario;
+
+VII. Fecha de evaluaciones: control de confianza, habilidades, destrezas, conocimientos y desempeño; y
+
+VIII. Actividades inherentes al servicio, como son las remisiones y aseguramientos.
 
 ###### Artículo 43.
 
@@ -1391,9 +1409,17 @@ XXVIII. Abstenerse de emitir órdenes que menoscaben la dignidad de quien las re
 
 XXIX. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la corporación, dentro o fuera del servicio;
 
-XXX. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas y juegos u otros lugares de este tipo, salvo que actúe en ejercicio de sus funciones; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-XXXI. Las demás que determinen sus superiores jerárquicos, el Comisario y el Comité, en apego a las disposiciones aplicables.
+XXX. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas y juegos u otros lugares de este tipo, salvo que actúe en ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+XXXI. En caso de encontrarse cumpliendo alguna comisión especial en el servicio, realizarlo correcta y enfocada estrictamente a la actividad encomendada; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
+
+XXXII. Las demás que determinen sus superiores jerárquicos, el Comisario y el Comité, en apego a las disposiciones aplicables.
 
 ###### Artículo 138.
 
@@ -1501,7 +1527,9 @@ En el caso de lesiones sufridas en el desempeño de sus funciones, el pago de la
 
 El régimen de seguridad social para los miembros del Servicio será el mismo que para el resto de los trabajadores del Ayuntamiento.
 
-#### SECCIÓN ÚNICA. DE LOS DESCANSOS, PERIODOS VACACIONALES Y PERMISOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2014)</small>
+
+#### SECCIÓN ÚNICA. DE LOS DESCANSOS, PERÍODOS VACACIONALES, PERMISOS Y LICENCIAS
 
 ###### Artículo 146.
 
@@ -1544,6 +1572,20 @@ Los miembros del Servicio tienen derecho a cuatro días de permiso durante el a�
 ###### Artículo 155.
 
 El permiso no se otorgará cuando se encuentre ligado al periodo vacacional o día de descanso normal u obligatorio.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2014)</small>
+
+###### Artículo 155 Bis.
+
+Licencia, es la autorización que de manera especial se otorga a los miembros del servicio, para ausentarse de sus obligaciones laborales, misma que se otorgará únicamente en los siguientes casos y condiciones:
+
+I. Por enfermedad;
+
+II. Por muerte de un familiar; y
+
+III. Por embarazo.
+
+En el caso de la fracción I, la licencia se ajustara a lo dispuesto por la Ley de Trabajadores al Servicio del Ayuntamiento; en el supuesto previsto en la fracción II, el permiso se otorgará solo cuando se trata de familiares ascendientes o descendientes en primer grado, por un tiempo no mayor a tres días; y por cuanto hace a la fracción III, esta se sujetara en los términos de la ley de la materia.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA FORMACIÓN CONTINUA Y ESPECIALIZADA
 
@@ -1817,47 +1859,35 @@ Cuando el miembro del Servicio esté imposibilitado temporalmente por enfermedad
 
 ###### Artículo 195.
 
-Podrán otorgarse promociones por mérito especial a los miembros del Servicio que destaquen por actos de reconocido valor o por méritos extraordinarios durante el desarrollo de sus funciones, independientemente de los estímulos que se deriven de dichos actos, debiéndose considerar que en el acto hubieren salvado la vida de personas o bienes con riesgo de la propia.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ###### Artículo 196.
 
-El miembro del Servicio que sea promovido por mérito especial, deberá cumplir con los requisitos del procedimiento de formación inicial, continua y especializada, así como de permanencia.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ###### Artículo 197.
 
-Se considera escalafón al sistema organizado en forma descendente, de acuerdo a su categoría, jerarquía o grado, departamento, servicio, antigüedad y demás elementos pertinentes, de todos los miembros del Servicio.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ###### Artículo 198.
 
-Serán factores escalafonarios los siguientes:
-
-I. Los resultados de la formación inicial, continua, especializada y de la evaluación para la permanencia;
-
-II. La disposición con el Servicio;
-
-III. La antigüedad en el Servicio y en el grado;
-
-IV. La disciplina cotejada en su hoja de servicios;
-
-V. La puntualidad y asistencia; y
-
-VI. La preservación de los requisitos de permanencia a que se refiere el procedimiento de separación y retiro.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ###### Artículo 199.
 
-El Comisario podrá, por necesidades del servicio, determinar el cambio de los miembros del Servicio de un departamento a otro, de un departamento a un servicio, de un servicio a otro y de un servicio a un departamento; sin perjuicio de los derechos escalafonarios que correspondan, en tal caso, el miembro del Servicio conservará su categoría, jerarquía o grado.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ###### Artículo 200.
 
-Cuando los cambios a que se refiere el artículo anterior sean solicitados por los miembros del Servicio y autorizados por el Comisario, se asignará el último lugar en el escalafón y categoría jerárquica que les corresponda.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ###### Artículo 201.
 
-En caso de ausencia de los miembros del Servicio por incapacidad, permiso o suspensión, que no exceda de seis meses, no se promoverá el escalafón y el Comisario podrá designar a quien cumpla con el perfil correspondiente, a excepción de los titulares de Unidad Administrativa.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ###### Artículo 202.
 
-Para el caso de que exista concurrencia sobre derechos escalafonarios, relativo a la misma fecha de ingreso, categoría, jerárquica o grado, se considerará preferentemente al que acredite mayor tiempo de servicio en el grado anterior al que pretende ascender; si es igual, al que tenga mayor tiempo y si también fuere igual, tendrá prioridad el que haya obtenido los mejores resultados en el procedimiento de formación inicial, continua o especializada. Si en este caso aún existe empate, se procederá a un nuevo examen de oposición.
+(DEROGADO, P.O. 28 DE MARZO DE 2014)
 
 ### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA EL DESARROLLO Y LA PROMOCIÓN
 
@@ -2058,6 +2088,10 @@ d) Consistentes en operaciones o maniobras de riesgo extraordinario;
 e) Los que comprometan la vida de quien las realice; y
 
 f) Actos heroicos que conserven los bienes de la Nación, Estado o Municipio.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2014)</small>
+
+A los miembros del servicio que recaigan en las acciones previstas en los incisos e) y f) del presente artículo, de manera complementaria podrán ser acreedores a una remuneración de carácter económica, la que dependerá de la disponibilidad presupuestal de la Secretaría.
 
 ###### Artículo 225.
 
@@ -2738,3 +2772,11 @@ Atentamente.- "Sufragio Efectivo. No Reelección". H. Puebla de Zaragoza, a 26 d
 Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Municipio de Puebla.- Periodo 2008-2011.- Secretaría del Honorable Ayuntamiento.
 
 El Secretario del Ayuntamiento del Municipio de Puebla, en ejercicio de las facultades que le confieren los artículos 138 fracción VII de la Ley Orgánica Municipal y 7 fracción IV del Reglamento Interior de la Secretaría del Ayuntamiento del Municipio de Puebla. CERTIFICA: Que las presentes copias fotostáticas compuestas de sesenta y tres fojas útiles por su anverso, son copia de su original, a las que me remito, tuve a la vista y cotejé, relativas al Dictamen del Honorable Ayuntamiento del Municipio de Puebla, por el que se aprueba el Reglamento del Servicio Profesional de Carrera Policial para la Secretaría de Seguridad Pública y Tránsito Municipal del Honorable Ayuntamiento del Municipio de Puebla, mismo que obra en el archivo de la Dirección Jurídica de la Secretaría del Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los veinticinco días del mes de agosto del año dos mil diez, para los efectos legales a que haya lugar, quedando registrada con el numero 2439.- El Secretario del Ayuntamiento del Municipio de Puebla.- LICENCIADO CÉSAR PÉREZ LÓPEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2014.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Dictamen.
