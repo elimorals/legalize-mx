@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2014-03-11"
+last_updated: "2014-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2014 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 11 DE MARZO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 28 DE MARZO DE 2014.</small>
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -1919,11 +1919,15 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- El personal que a la entrada en vigor del presente Decreto se encuentra en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la educación básica o de media superior impartida por el Estado y sus organismos descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere la Ley General del Servicio Profesional Docente. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere la Ley General, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la autoridad educativa o el organismo descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+> <small>(F. DE E., G.G. 28 DE MARZO DE 2014)</small>
+
+TERCERO.- El personal que a la entrada en vigor de la Ley General del Servicio Profesional Docente se encuentra en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la educación básica o de media superior impartida por el Estado y sus organismos descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere la Ley General del Servicio Profesional Docente. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere la Ley General del Servicio Profesional Docente, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la autoridad educativa o el organismo descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
 El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización que establece la Ley General del Servicio Profesional Docente, será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según corresponda.
 
-CUARTO.- El personal docente y el personal con funciones de dirección o de supervisión en la educación básica o media superior impartida por el Estado y sus organismos descentralizados que a la entrada en vigor de este Decreto tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en la Ley General del Servicio Profesional Docente, al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará nombramiento definitivo y quedará incorporado al Servicio Profesional Docente.
+> <small>(F. DE E., G.G. 28 DE MARZO DE 2014)</small>
+
+CUARTO.- El personal docente y el personal con funciones de dirección o de supervisión en la educación básica, o media superior impartida por el Estado y sus organismos descentralizados que a la entrada en vigor de la Ley General del Servicio Profesional Docente tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en la Ley General del Servicio Profesional Docente, al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará nombramiento definitivo y quedará incorporado al Servicio Profesional Docente.
 
 Será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según sea el caso, el personal que:
 
