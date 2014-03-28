@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-profesional-docente-del-estado-de-baja-99714"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-13"
-last_updated: "2014-03-13"
+last_updated: "2014-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 (NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ LA INVALIDEZ DE LA LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO DE BAJA CALIFORNIA, CONTENIDA EN EL DECRETO No. 41 PUBLICADO EN EL PERIÓDICO OFICIAL DE TRECE DE MARZO DE DOS MIL CATORCE, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO DE BAJA CALIFORNIA.
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE MARZO DE 2014.</small>
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 13 de marzo de 2014.
 
@@ -907,7 +907,9 @@ CUARTO.- En tanto se tienen debidamente implementados y en operación los concur
 
 Los procedimientos y los dictámenes escalafonarios quedarán supeditados a las fechas o plazos que para la promoción se establezcan en el calendario que publique el Instituto, conforme a lo previsto en el artículo anterior.
 
-QUINTO.- El personal que a la entrada en vigor de la presente Ley se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de esta Ley. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 49 de la Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro del Sistema Educativo Estatal, respetando sus derechos adquiridos, conforme a lo que determine la Autoridad Educativa correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+> <small>(F. DE E., P.O. 28 DE MARZO DE 2014)</small>
+
+QUINTO.- El personal que a la entrada en vigor de la presente Ley se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de esta Ley. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 49 de la Ley, no será separado de la función pública y será readscrito respetando sus derechos adquiridos, para continuar en otras tareas dentro del Sistema Educativo Estatal, conforme a lo que determine la Autoridad Educativa correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
 El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 49 de la Ley, será separado del servicio público sin responsabilidad para la Autoridad Educativa, según corresponda.
 
