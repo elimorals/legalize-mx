@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-del-tribunal-federal-de-justicia-fiscal-y-83350
 country: "mx"
 rank: "codigo"
 publication_date: "2011-10-25"
-last_updated: "2012-03-21"
+last_updated: "2014-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83350&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-10-12"
 
 CÓDIGO DE ÉTICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MARZO DE 2014.
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación, el martes 25 de octubre de 2011.
 
@@ -329,7 +329,9 @@ Los integrantes de este Tribunal, están conscientes de que todos los materiales
 
 12.1. La Junta de Honor del Tribunal Federal de Justicia Fiscal y Administrativa estará integrada por tres ex servidores públicos jurisdiccionales del Tribunal, de reconocido prestigio y trayectoria, designados por el Pleno Jurisdiccional y la Junta de Gobierno y Administración en sesión solemne. Esta Junta tendrá funciones consultivas que radicarán en resolver contradicciones y controversias de interpretación que se presenten en relación con la aplicación de este Código y que ponga a su consideración el Pleno de este Tribunal.
 
-12.2. Asimismo se crea la Comisión de Etica del Tribunal Federal de Justicia Fiscal y Administrativa, que funcionará por periodos de tres años, integrada por dos Magistrados de la Sala Superior y tres de Sala Regional propuestos por el Presidente del Tribunal y designados por el Pleno Jurisdiccional. Asimismo, se integrará por el Secretario Técnico Ejecutivo de la Junta de Gobierno y Administración, por el Secretario Operativo de Administración y por un Secretario de Acuerdos designado por el Presidente del Tribunal que tendrá el carácter de secretario técnico. Esta Comisión tendrá las atribuciones que se especificarán en el Reglamento que se expedirá por el Pleno Jurisdiccional de la Sala Superior.
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 2014)</small>
+
+12.2. Asimismo se crea la Comisión de Ética del Tribunal Federal de Justicia Fiscal y Administrativa, que funcionará por periodos de tres años, integrada por dos Magistrados de la Sala Superior y tres de Sala Regional, a sugerencia de cualquier integrante del Pleno de la Sala Superior y propuestos por el Presidente del Tribunal a efecto de que sean designados por el Pleno Jurisdiccional. Asimismo, se integrará por el Secretario Operativo de Administración y por un Secretario de Acuerdos designado por el Presidente del Tribunal que tendrá el carácter de Secretario Técnico. Esta Comisión tendrá las atribuciones que se especificarán en el Reglamento que se expedirá por el Pleno Jurisdiccional de la Sala Superior.
 
 ### CAPITULO IV. LEALTAD Y COMPROMISO
 
@@ -368,3 +370,7 @@ D.O.F. 21 DE MARZO DE 2012.
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se ordena la publicación del presente Acuerdo en el Diario Oficial de la Federación, así como en la página web de este Tribunal.
+
+D.O.F. 28 DE MARZO DE 2014.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Pleno Jurisdiccional del Tribunal Federal de Justicia Fiscal y Administrativa.
