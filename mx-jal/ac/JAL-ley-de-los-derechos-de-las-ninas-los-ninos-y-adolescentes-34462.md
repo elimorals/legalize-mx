@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2013-08-03"
+last_updated: "2014-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -61,7 +61,9 @@ I. Niña o Niño: todo ser humano menor de 12 años de edad;
 
 II. Adolescente: todo ser humano mayor de 12 y menor de 18 años de edad;
 
-III. Comisión: la Comisión Estatal Coordinadora para el Desarrollo y Protección de las niñas, los niños y adolescentes;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+III. Comité: el Comité Estatal de Seguimiento y Vigilancia de la Aplicación de la Convención sobre los Derechos del Niño;
 
 IV. Autoridades: las dependencias y entidades que forman parte de la Administración Pública, tanto en el ámbito estatal como municipal; y
 
@@ -151,17 +153,23 @@ La adolescencia debe ser considerada en su justa dimensión, entendiendo que es 
 
 Las niñas, los niños y adolescentes tienen derecho a gozar de los beneficios de la seguridad social, y los servicios de salud, así como a crecer y desarrollarse en buena salud, en los términos de la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
+
 ###### Artículo 9.
 
-Las autoridades correspondientes deben implementar los programas necesarios a fin de:
+Las autoridades estatales y municipales, en los ámbitos de su respectiva competencia, deben implementar los programas necesarios a fin de:
 
 I. Reducir la mortalidad infantil;
 
 II. Asegurar asistencia médica y sanitaria para la atención y tratamiento de las enfermedades que más afecten a las niñas, los niños y adolescentes;
 
-III. Promover la alimentación directa de la madre al recién nacido;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-IV. Combatir la desnutrición mediante la promoción de una alimentación adecuada;
+III. Promover el inicio de la lactancia materna exclusiva a libre demanda dentro de los primeros 30 minutos de vida del recién nacido, en aquellas mujeres cuyas condiciones lo permitan, así como fomentar y promover la lactancia de un periodo mínimo de seis meses y como máximo el que la madre considere necesario;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+IV. Prevenir y combatir la desnutrición y obesidad mediante el fomento y la promoción de una alimentación adecuada, así como prevenir y tratar los trastornos alimenticios en niñas, niños y adolescentes;
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -181,13 +189,17 @@ XI. Otorgar cuidados paliativos para liberar a las niñas, los niños y adolesce
 
 XII. Promover campañas de atención médica preventiva dirigidas a las niñas, los niños y adolescentes; y (sic)
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-XIII. Prestar asistencia médica gratuita a las niñas, los niños y adolescentes que se encuentren en circunstancias especialmente difíciles; y
+XIII. Prestar asistencia médica gratuita a las niñas, los niños y adolescentes que se encuentren en circunstancias especialmente difíciles;
 
-(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-XIV. Prevenir y tratar los trastornos alimenticios en adolescentes.
+XIV. Ejecutar los programas de acción a favor de la infancia y la adolescencia instrumentados por el Comité; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
+
+XV. Atender, dar seguimiento e informar sobre el cumplimiento a los protocolos, acuerdos y las recomendaciones que al efecto dicte el Sistema DIF Jalisco.
 
 ### CAPÍTULO III. Del derecho a un ambiente familiar sano
 
@@ -489,35 +501,51 @@ VI. Todos los demás delitos en los que pueda ser víctima.
 
 Las niñas, los niños y adolescentes tienen derecho a ser sujetos de protección, atención y asistencia social por parte de sus padres o tutores y de las autoridades correspondientes cuando se encuentren en circunstancias especialmente difíciles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2014)</small>
+
 ###### Artículo 36.
 
-Son niñas, niños y adolescentes en circunstancias especialmente difíciles, aquellos que se encuentran en alguno de los siguientes grupos:
+Son niñas, niños y adolescentes en circunstancias especialmente difíciles, aquellos que se encuentren en condiciones de vulnerabilidad y requieran medidas de protección, como son:
 
 I. De la y en la calle;
 
 II. Con enfermedades terminales;
 
-III. Maltratados, abusados o explotados;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-IV. Farmacodependientes o drogadictos;
+III. Violentados, maltratados, abusados o explotados;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+IV. Con problemas de adicciones;
 
 V. Con discapacidad;
 
-VI. Infractores;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-VII. Hijos de los presos;
+VI. En conflicto con la ley;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+VII. Hijas e hijos de presos;
 
 VIII. Víctimas de delito;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-IX. Refugiados;
+IX. Refugiados o desplazados;
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-X. Las adolescentes embarazadas o que sean madres y que no cuenten con el respaldo de su familia ni con el sustento necesario para su manutención y la de sus hijos; y
+X. Las adolescentes embarazadas o que sean madres y que no cuenten con el respaldo de su familia ni con el sustento necesario para su manutención y la de sus hijos;
 
-XI. Demás niñas, niños y adolescentes que sean considerados como grupo vulnerable.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+XI. Huérfanos; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2014)</small>
+
+XII. Demás niñas, niños y adolescentes que sean considerados grupo en condición de vulnerabilidad.
 
 ###### Artículo 37.
 
@@ -527,7 +555,9 @@ I. Garantizar el acceso de las niñas, los niños y adolescentes con discapacida
 
 II. Realizar acciones tendientes a prevenir y combatir las diversas formas de maltrato, abuso o explotación;
 
-III. Brindar la asistencia y apoyo necesario para combatir la desnutrición infantil;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+III. Brindar la asistencia y apoyo necesario para combatir la desnutrición y la obesidad en niños y adolescentes;
 
 IV. Observar un trato respetuoso y apropiado en todos los procedimientos judiciales en los que intervengan;
 
@@ -541,7 +571,9 @@ VIII. Vigilar que en los centros de tratamiento de menores infractores, se lleve
 
 IX. Promover los mecanismos de colaboración y fomentar los programas de protección para que las niñas, los niños y adolescentes que se ven en la necesidad de trabajar cuenten con las suficientes garantías laborales;
 
-X. Establecer clínicas de rehabilitación destinadas a las niñas, los niños y adolescentes drogadictos y alcohólicos, así como realizar campañas de concientización sobre los daños que estos vicios ocasionan;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
+
+X. Establecer clínicas de rehabilitación destinadas a las niñas, los niños y adolescentes con problemas de adicciones, así como realizar campañas de concientización y para su prevención;
 
 XI. Implementar programas dirigidos a las niñas, los niños y adolescentes con enfermedades terminales a fin de que sean liberados del dolor por todos los medios clínicos posibles, en armonía con el tratamiento de curación, nunca acelerando el momento de la muerte. Así mismo, a ser atendidos por personal capacitado y a que se les proporcione información veraz y oportuna, relativa a su enfermedad en los términos necesarios y comprensibles acorde a su edad y madurez;
 
@@ -635,77 +667,165 @@ Asimismo, debe vigilar la actuación del Estado en cuanto a los programas dirigi
 
 Toda persona que tenga conocimiento de hechos o actos que atenten contra los derechos de las niñas, los niños y adolescentes, deberá dar parte a las autoridades correspondientes, así mismo deberá auxiliar en los casos de extrema necesidad.
 
-## TÍTULO CUARTO. DE LA COMISIÓN ESTATAL COORDINADORA PARA EL DESARROLLO Y PROTECCION DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES
+> <small>(REFORMADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 2014)</small>
 
-### CAPÍTULO ÚNICO. De su integración y facultades
+## TÍTULO CUARTO. DEL COMITÉ ESTATAL DE SEGUIMIENTO Y VIGILANCIA DE LA APLICACIÓN DE LA CONVENCIÓN SOBRE LOS DERECHOS DEL NIÑO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2014)</small>
+
+### CAPÍTULO ÚNICO. De su Integración y Facultades
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2014)</small>
 
 ###### Artículo 46.
 
-La Comisión es un órgano consultivo que tiene por objeto vigilar y coordinar la planeación y aplicación de las políticas públicas, encaminadas a atender y proteger a las niñas, los niños y adolescentes; y dependerá administrativamente de la Secretaría de Desarrollo Humano.
+El Comité es el órgano rector del sistema de protección integral de los derechos de la infancia en el Estado de Jalisco para el diseño, ejecución y seguimiento a las políticas públicas que garanticen a las niñas, los niños y los adolescentes el ejercicio pleno de sus derechos constitucionales, la legislación general en la materia y en observancia de la Convención sobre los Derechos del Niño.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2014)</small>
 
 ###### Artículo 47.
 
-La Comisión estará integrada por un representante de las siguientes entidades:
+El Comité es un órgano colegiado con personalidad jurídica propia. Se integrará de manera honoraria por los siguientes:
 
-I. Secretaría de Desarrollo Humano, quien presidirá la Comisión;
+A. Son Órganos del Comité:
 
-II. Secretaría de Educación;
+I. Una Presidencia que será ocupada por el titular del Poder Ejecutivo del Estado;
 
-III. Secretaría de Salud;
+II. Una Vicepresidencia que será ocupada por el titular de la Presidencia del Sistema DIF Jalisco;
 
-IV. Sistema Estatal para el Desarrollo Integral de la Familia;
+III. Una Coordinación General, bajo la responsabilidad del titular de la Dirección General del Sistema DIF Jalisco;
 
-V. Instituto Jalisciense de Asistencia Social;
+IV. Una Secretaría Técnica, que operará como Organismo Auxiliar de la Coordinación General, a cargo del titular de la Dirección de Protección a la Infancia del Sistema DIF Jalisco;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+El Comité será representado por el titular de la Coordinación General, facultad que podrá delegar en los términos que establezcan el reglamento. Los titulares de los órganos integrarán el Comité, quienes podrán designar un suplente.
 
-VI. Hogar Cabañas;
+B. Son integrantes del Comité los titulares de las siguientes dependencias y organismos, quienes podrán designar un suplente:
 
-VII. Comisión Estatal de Derechos Humanos; y
+I. Congreso del Estado;
 
-VIII. Las tres instituciones de asistencia social privada que su objeto sea la atención a las niñas, los niños y adolescentes, con mayor representatividad en el Estado, a invitación del Titular del Ejecutivo, previa convocatoria a la sociedad.
+II. Poder Judicial;
 
-Habrá un Secretario Técnico designado por el presidente de la Comisión quien tendrá derecho a voz. Todos los cargos dentro de la Comisión Estatal son honoríficos, excepto el cargo de Secretario Técnico.
+III. Secretaría General de Gobierno;
 
-Cuando los temas a tratar lo ameriten, el Titular del Ejecutivo podrá invitar a los representantes de instituciones públicas o privadas que estime pertinentes, concurriendo éstos sólo con derecho a voz y por el tiempo que estime necesario.
+IV. Fiscalía General;
+
+V. Secretaría de Salud Jalisco;
+
+VI. Secretaría de Educación Jalisco;
+
+VII. Secretaría de Trabajo y Previsión Social;
+
+VIII. Secretaría de Desarrollo e Integración Social;
+
+IX. Secretaría de Cultura;
+
+X. Secretaría de Planeación, Administración y Finanzas;
+
+XI. Sistema Jalisciense de Radio y Televisión;
+
+XII. Consejo Deportivo Estatal;
+
+XIII. Instituto Estatal de Educación para Adultos;
+
+XIV. Instituto Jalisciense de Asistencia Social;
+
+XV. Instituto Jalisciense de la Juventud;
+
+XVI. Comisión Estatal de Derechos Humanos;
+
+XVII. Instituto Jalisciense de la Mujer;
+
+XVIII. Procuraduría Social;
+
+XIX. Comisión Estatal Indígena;
+
+XX. Los titulares de los siguientes organismos federales con representación en Jalisco, previa invitación del Poder Ejecutivo del Estado de Jalisco a sus titulares, y aceptación de parte de los mismos:
+
+a) Secretaría de Relaciones Exteriores delegación Jalisco;
+
+b) Secretaría de Comunicaciones y Transportes delegación Jalisco, y
+
+c) Secretaría de Desarrollo Social delegación Jalisco.
+
+C. Serán vocales del Comité:
+
+I. Representantes de universidades, medios de comunicación como radio, televisión, internet y prensa escrita, organismos sociales y de sociedad civil especializados en temáticas de la niñez, a invitación del Comité;
+
+II. Por lo menos tres presidentes municipales, corresponderán, de manera enunciativa, más no limitativa, a las regiones norte, sur y centro del Estado; a invitación del Comité; y
+
+III. Los responsables operativos de las dependencias o instituciones públicas, relacionados con los temas de niñez, a invitación del Comité.
+
+El reglamento que al efecto expida el Comité establecerá el número y requisitos para los vocales, así como la temporalidad de su permanencia en el Comité.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2014)</small>
 
 ###### Artículo 48.
 
-El Secretario Técnico tendrá las atribuciones que se establezcan en el reglamento interno de la Comisión.
+El Comité tendrá las siguientes atribuciones:
+
+I. Establecer estrategias interinstitucionales y políticas transversales que permitan elaborar y mantener actualizado el diagnóstico y análisis de la situación de la niñez y adolescencia en el Estado;
+
+II. Diseñar e instrumentar programas y acciones interinstitucionales y de vinculación con la sociedad civil, que permita dar cumplimiento a los principios y disposiciones emanadas de la Convención sobre los Derechos del Niño, y de la presente Ley;
+
+III. Promover estrategias encaminadas a generar un proceso de cambio social para hacer de los derechos de las niñas, niños y adolescentes, una práctica cotidiana entre las familias, comunidades y las instituciones de la entidad;
+
+IV. Impulsar acciones de difusión sobre los derechos de la niñez y adolescencia así como promover a través de los medios masivos de comunicación la sensibilización comunitaria acerca de la problemática que viven algunos niños y niñas de la entidad;
+
+V. Diseñar e instrumentar modelos de intervención, en los cuales las instituciones puedan articular sus recursos humanos, materiales y operativos para la atención y prevención de las problemáticas que enfrenta la niñez y la adolescencia en el Estado y que limitan su adecuado desarrollo;
+
+VI. Propiciar que los principios básicos de la Convención sobre los Derechos del Niño sean considerados en el proceso de toma de decisiones y en la formulación e instrumentación de las políticas públicas, programas y presupuestos, que tengan impacto directo en las acciones a favor de la niñez y la adolescencia que se ejecuten en la entidad;
+
+VII. Promover la existencia de canales adecuados de denuncia de violaciones a los derechos de la niñez y adolescencia;
+
+VIII. Apoyar y colaborar en el diseño y ejecución de los Programas de acción a favor de la infancia y la adolescencia a nivel estatal y municipal;
+
+IX. Promover las adecuaciones legislativas a fin de hacer compatibles las leyes, normas y reglamentos estatales con los principios de la Convención sobre los Derechos del Niño y la Constitución Política de los Estados Unidos Mexicanos;
+
+X. Promover la participación permanente de la niñez y adolescencia en el conocimiento, difusión y puesta en práctica de la Convención sobre los Derechos del Niño, a fin de permitirles actuar como agentes de cambio en sus propias vidas, la de sus familias y comunidades;
+
+XI. Promover y apoyar la formación de estructuras similares en el ámbito estatal y municipal;
+
+XII. Coadyuvar con el Sistema Nacional de Seguimiento y Vigilancia de la Aplicación de la Convención sobre los Derechos del Niño;
+
+XIII. Promover y apoyar la investigación académica relacionada con el tema de las niñas, los niños y adolescentes; y (sic)
+
+XIV. Proponer al Sistema DIF Jalisco que requiera informes a instituciones públicas y privadas sobre asuntos relacionados con niñez de que conozcan. Las instituciones antes mencionadas están obligadas entregar la información a la brevedad en los términos que el reglamento establezca;
+
+XV. Proponer al Sistema DIF Jalisco que dicte medidas cautelares y providencias precautorias para el caso de urgencia en la materia;
+
+XVI. Proponer al Sistema DIF Jalisco que emita recomendaciones, protocolos y acuerdos de aplicación a instituciones públicas estatales y municipales, organismos e instituciones privadas, así como de observancia general en el Estado y sus municipios; y
+
+XVIII (SIC). Las demás que señale esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2014)</small>
 
 ###### Artículo 49.
 
-La Comisión sesionará por lo menos una vez cada tres meses y tomará sus decisiones por mayoría de votos. En caso de empate, el presidente tendrá el voto de calidad.
+Las decisiones del Comité serán colegiadas bajo las bases siguientes:
+
+I. El Comité sesionará cada tres meses de manera ordinaria y de manera extraordinaria cuantas veces sea necesario, en los términos del reglamento que al efecto expida;
+
+II. Los integrantes del Comité, sean titulares o sus suplentes, tendrán derecho a voz y voto, y los vocales sólo tendrán derecho a voz;
+
+III. Se integrarán subcomités especializados en los términos del reglamento;
+
+IV. Las decisiones del Comité y los subcomités constarán en acuerdo suscrito por el titular de la Secretaria Técnica; y
+
+V. Tanto el Comité como los subcomités podrán emitir acuerdos y recomendaciones; serán vinculantes con efectos plenos para las partes según su competencia.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2014)</small>
 
 ###### Artículo 50.
 
-La Comisión tendrá las siguientes atribuciones:
+El titular de la Secretaría Técnica deberá llevar un registro de los acuerdos y recomendaciones del Comité y deberá dar seguimiento e informar sobre su cumplimiento:
 
-I. Realizar estudios y evaluaciones sobre la situación de las niñas, los niños y adolescentes en el Estado;
+a) Los integrantes del Comité deberán informar a la Secretaría Técnica sobre el cumplimiento a los acuerdos y recomendaciones, en los términos del reglamento;
 
-II. Diseñar y evaluar políticas públicas que permitan dar cumplimiento a los principios y disposiciones emanadas de la presente ley;
+b) El titular de la Secretaría Técnica deberá informar en cada sesión ordinaria del seguimiento al cumplimiento a los acuerdos y recomendaciones; y
 
-III. Impulsar acciones de difusión sobre los derechos de las niñas, los niños y adolescentes, así como sensibilizar a la sociedad sobre su problemática;
+c) En caso de incumplimiento, el titular de la Secretaría Técnica, previo acuerdo con el titular de la Coordinación General, interpondrá queja ante el órgano interno de control del Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, para que se proceda a la investigación y en su caso, se inicie procedimiento administrativo de responsabilidad en los términos de la legislación correspondiente.
 
-IV. Procurar que los principios y disposiciones de la presente Ley, sean considerados en el proceso de toma de decisiones y en la formulación e implementación de las políticas públicas y presupuestos, que tengan impacto en las acciones a favor de las niñas, los niños y adolescentes;
-
-V. Apoyar y colaborar en el diseño y ejecución de los programas de acción a favor de las niñas, los niños y adolescentes a nivel estatal y municipal;
-
-VI. Promover la existencia de canales adecuados de denuncia de violaciones a los derechos de las niñas, los niños y adolescentes, cuando así se requiera;
-
-VII. Promover la participación permanente de las niñas, los niños y adolescentes en el conocimiento, la difusión y aplicación de la presente Ley;
-
-VIII. Promover y apoyar la formación de estructuras similares en el ámbito municipal o regional;
-
-IX. Recomendar a las instituciones públicas y privadas de asistencia social, las medidas tendientes al desarrollo integral de niñas, niños y adolescentes;
-
-X. Invitar a otras entidades, dependencias, instituciones, ayuntamientos y organismos para tratar asuntos relativos a su área de competencia;
-
-XI. Aprobar el reglamento interno a propuesta del Presidente;
-
-XII. Apoyar la investigación académica relacionada con el tema de las niñas, los niños y adolescentes; y
-
-XIII. Las demás que señale esta ley y otras disposiciones aplicables.
+Para los casos en que se requiera de la intervención urgente para la protección y restitución de los derechos de las niñas, niños y adolescentes, los órganos del Comité sesionarán de manera permanente, y enviarán las propuestas al Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco para que este requiera la información necesaria, dicte las medidas cautelares o providencias precautorias y las que considere suficientes para preservar y restituir los derechos conforme al interés superior de la niñez. El titular de la Secretaría Técnica informará al Comité, en la sesión ordinaria inmediata, de las medidas emitidas, el seguimiento y cumplimiento.
 
 ## TÍTULO QUINTO. DE LA PROCURADURÍA SOCIAL
 
@@ -880,5 +1000,9 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Para la implementación de los programas, mecanismos y protocolos de seguridad para la búsqueda inmediata de menores que se indican en la fracción VIII del artículo 40 de esta reforma, se observará en materia de secuestro a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 P.O. 3 DE AGOSTO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
