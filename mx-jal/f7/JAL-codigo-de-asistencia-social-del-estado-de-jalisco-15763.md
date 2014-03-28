@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2013-11-09"
+last_updated: "2014-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2014.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -85,7 +85,7 @@ IV. Instituto.- Es el Instituto Jalisciense de Asistencia Social;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-V. El Hogar Juan Cruz Ruiz de Cabañas y Crespo, conocido indistintamente con el nombre de Hogar Cabañas, y (sic)
+V. El Hogar Juan Cruz Ruiz de Cabañas y Crespo, conocido indistintamente con el nombre de Hogar Cabañas, y
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -303,7 +303,7 @@ a) Fomento de hábitos de conducta y valores que contribuyan a la dignificación
 
 b) Promoción del servicio voluntario para la realización de tareas básicas de asistencia social bajo la dirección de las autoridades correspondientes;
 
-IV. Promoverán acciones tendientes a la obtención de recursos económicos y materiales en apoyo a los programas asistenciales; y (sic)
+IV. Promoverán acciones tendientes a la obtención de recursos económicos y materiales en apoyo a los programas asistenciales; y
 
 > <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
 
@@ -377,13 +377,29 @@ XV. Promover la participación de las familias jaliscienses en el desarrollo de 
 
 XVI. Realizar estudios e investigaciones sobre la familia; así como promover acciones a favor de su atención, defensa y protección;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-XVII. Realizar acciones de apoyo para los migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad, en coordinación con autoridades de los tres órdenes de gobierno; y
+XVII. Realizar acciones de apoyo para los migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad, en coordinación con autoridades de los tres órdenes de gobierno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
-XVIII. Las demás que establezcan las leyes aplicables en la materia.
+XVIII. Requerir información a instituciones públicas y privadas sobre asuntos relacionados con la niñez de acuerdo de acuerdo (sic) con la propuesta que les haga el comité Estatal de Seguimiento y Vigilancia de la Aplicación de la Convención sobre los Derechos del Niño; las instituciones éstan obligadas a entregar la información a la brevedad en los términos que el reglamento establezca;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2014)</small>
+
+XIX. Dictar las medidas cautelares y providencias precautorias para el caso de una urgencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2014)</small>
+
+XX. Aprobar recomendaciones y emitir protocolos y acuerdos de aplicación a instituciones públicas estatales y municipales, organismos e instituciones privadas, así como de observancia general en el Estado y sus municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2014)</small>
+
+XXI. Mandar publicar en el periódico oficial El Estado de Jalisco los protocolos, acuerdos y recomendaciones que sean de aplicación general en el Estado y sus municipios; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2014)</small>
+
+XXII. Las demás que establezcan las leyes aplicables en la materia.
 
 ###### Artículo 19.
 
@@ -653,11 +669,11 @@ V. Expedir y modificar su Reglamento Interior;
 
 VI. Acordar los casos en que deba eximirse del cobro de la cuota de recuperación en los negocios en que le corresponda intervenir, previo estudio socioeconómico;
 
-VII. Actuar como árbitro o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y (sic)
+VII. Actuar como árbitro o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
-VIII. Aprobar el número, asignación y nombramiento de los delegados; y (sic)
+VIII. Aprobar el número, asignación y nombramiento de los delegados; y
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -697,7 +713,7 @@ VIII. Promover y fomentar estudios sobre las materias de su competencia, a trav�
 
 IX. Colaborar en la elaboración de los informes anuales de actividades que el Consejo Estatal de Familia deberá rendir el día treinta de abril de cada año;
 
-X. Resolver en definitiva sobre las inconformidades que por actuación de sus delegados planteen los interesados; y (sic)
+X. Resolver en definitiva sobre las inconformidades que por actuación de sus delegados planteen los interesados; y
 
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
@@ -839,7 +855,7 @@ I. Estar inscrito en el Registro Estatal de Asistencia Social;
 
 II. Perseguir fines no lucrativos, en las condiciones y dentro de los límites fijados por el presente ordenamiento;
 
-III. Ser dirigido y administrado por personas cualificadas por su integridad moral y por su formación o experiencia para actuar en el ámbito del Derecho Familiar; y (sic)
+III. Ser dirigido y administrado por personas cualificadas por su integridad moral y por su formación o experiencia para actuar en el ámbito del Derecho Familiar; y
 
 IV. Estar sometido al control del Consejo Estatal de Familia en cuanto a su funcionamiento y situación financiera;
 
@@ -923,7 +939,7 @@ II. Los subsidios, subvenciones, aportaciones bienes y demás ingresos que las d
 
 III. Las aportaciones, donaciones, herencias, legados, adjudicaciones judiciales, que se decreten en favor del Instituto, de la Beneficencia Pública, o que se hicieren en favor de personas indeterminadas, cuando se señale como beneficiarios a los pobres, a los ancianos, a los ciegos y a otras expresiones similares y demás liberalidades, que reciba de personas físicas o jurídicas, nacionales o extranjeras;
 
-IV. Los rendimientos, recuperaciones, bienes, derechos, y demás ingresos que les generen sus inversiones, operaciones y bienes muebles e inmuebles que eran propiedad plena o desmembrada del Patronato de Asistencia Social en el Estado, entre los bienes mencionados, se consideran los productos de operación de los estacionamientos: subterráneo de la Plaza del Ayuntamiento de Guadalajara y el ubicado en la confluencia de las calles Dr. R. Michel y Los Angeles, (exterior de la antigua central camionera), así como las fincas rústicas y urbanas que fueron adjudicadas al Patronato de la Asistencia Social;
+IV. Los rendimientos, recuperaciones, bienes, derechos, y demás ingresos que les generen sus inversiones, operaciones y bienes muebles e inmuebles que eran propiedad plena o desmembrada del Patronato de Asistencia Social en el Estado, entre los bienes mencionados, se consideran los productos de operación de los estacionamientos: subterráneo de la Plaza del Ayuntamiento de Guadalajara y el ubicado en la confluencia de las calles Dr. R. Michel y Los Ángeles, (exterior de la antigua central camionera), así como las fincas rústicas y urbanas que fueron adjudicadas al Patronato de la Asistencia Social;
 
 V. Las concesiones, permisos, licencias, y autorizaciones que se les otorguen conforme a la ley;
 
@@ -1013,7 +1029,7 @@ Servicios Médicos y Hospitalarios
 
 Clubes Sociales y de Servicio; y
 
-VIII. Demás representación es (sic) que el instituto considere necesario integrar a través de la Junta de Gobierno.
+VIII. demás representación es (sic) que el instituto considere necesario integrar a través de la Junta de Gobierno.
 
 Las representaciones antes descritas y los integrantes de la Comisión de Vigilancia, serán elegidos por la propia Junta de Gobierno.
 
@@ -1167,7 +1183,7 @@ V. Haber residido en el Estado por lo menos los tres años anteriores al día de
 
 Son facultades y atribuciones de la Secretaría y Procuraduría Jurídica del Instituto las siguientes:
 
-I. Vigilar el cumplimiento estricto de las normas legales y reglamentarias de los Organos de Gobierno de las distintas instituciones que formen parte del Instituto;
+I. Vigilar el cumplimiento estricto de las normas legales y reglamentarias de los Órganos de Gobierno de las distintas instituciones que formen parte del Instituto;
 
 II. Denunciar ante las autoridades competentes todo acto que pudiera implicar la violación del presente Código en perjuicio del Instituto o sus dependencias; así como demandar en los casos en que proceda, la responsabilidad civil por los daños o perjuicios que hubiere sufrido el Instituto;
 
@@ -1667,7 +1683,7 @@ Las personas jurídicas que se dediquen a la asistencia social privada, antes de
 
 ###### Artículo 93.
 
-El instituto realizará el registro, análisis y propuesta de la constitución de aquellas instituciones de asistencia social privada que pretenda (sic) integrarse al Sistema de Asistencia Social.
+El Instituto realizará el registro, análisis y propuesta de la constitución de aquellas instituciones de asistencia social privada que pretenda (sic) integrarse al Sistema de Asistencia Social.
 
 ###### Artículo 94.
 
@@ -3344,5 +3360,9 @@ P.O. 3 DE AGOSTO DE 2010.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 9 DE NOVIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
