@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2013-07-27"
+last_updated: "2014-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 27 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, UNA VEZ QUE ENTRE EN VIGOR, EN LAS MODALIDADES Y FECHAS DISPUESTAS EN LOS ARTÍCULOS PRIMERO, SEGUNDO Y TERCERO DE DICHA LEY.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, DECLARA QUE EN LA LEGISLACIÓN LOCAL HA QUEDADO INCORPORADO EL SISTEMA PROCESAL PENAL ACUSATORIO Y DECLARA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A PARTIR DEL 02 DE JUNIO DE 2014; NO OBSTANTE, SEGUIRÁ RIGIENDO EN LO CONDUCENTE, CONFORME A LA GRADUALIDAD ESTABLECIDA EN EL ARTÍCULO TERCERO DE ESTE DECRETO, RESPECTO DE LOS PROCEDIMIENTOS INICIADOS DURANTE SU VIGENCIA Y HASTA EN TANTO QUEDEN CONCLUIDOS, DEBIENDO OBSERVARSE PARA ELLOS LAS DISPOSICIONES PROCESALES VIGENTES AL MOMENTO DE LA COMISIÓN DE LOS HECHOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -293,7 +293,7 @@ VI.- Ofrecer y aportar los medios de prueba pertinentes y promover en el proceso
 
 VII.- Formular conclusiones en los términos señalados por la ley;
 
-VIII.- Interponer los medios de impugnación que la ley concede y expresar los agravios correspondientes, y (sic)
+VIII.- Interponer los medios de impugnación que la ley concede y expresar los agravios correspondientes, y
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -347,7 +347,7 @@ ARTICULO 29 (Derechos del procesado).- Además de los derechos señalados en el 
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
-I.- Inmediatamente que lo solicite, será puesto en libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y las sanciones pecuniarias que en su caso pudieran imponerse al inculpado, siempre que dicho delito sea de los que admiten el beneficio de libertad provisional bajo caución, misma que fijará el juzgador, tomando en cuenta las circunstancias personales del inculpado y la gravedad del delito que se le impute, sin más requisito que poner la suma de dinero respectiva a disposición de la autoridad jurisdiccional u otorgar otra caución bastante para asegurarla, bajo la responsabilidad del juzgador en su aceptación, y (sic)
+I.- Inmediatamente que lo solicite, será puesto en libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y las sanciones pecuniarias que en su caso pudieran imponerse al inculpado, siempre que dicho delito sea de los que admiten el beneficio de libertad provisional bajo caución, misma que fijará el juzgador, tomando en cuenta las circunstancias personales del inculpado y la gravedad del delito que se le impute, sin más requisito que poner la suma de dinero respectiva a disposición de la autoridad jurisdiccional u otorgar otra caución bastante para asegurarla, bajo la responsabilidad del juzgador en su aceptación, y
 
 II.- Se le hará saber en audiencia pública, y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
@@ -905,7 +905,7 @@ XV.- El terrorismo en el supuesto del primer párrafo del artículo 254;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-XVI.- El sabotaje en los supuestos de las fracciones I y II del artículo 255, y (sic)
+XVI.- El sabotaje en los supuestos de las fracciones I y II del artículo 255, y
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -3092,3 +3092,51 @@ Artículo Noveno. Las diligencias o actos procedimentales que se realicen en alg
 Artículo Décimo. Cuando un asunto se inicie en una región y se hubiesen realizado diligencias o actos procedimentales en ésta, se seguirá conforme al ordenamiento que se aplicó, independientemente que por razón de competencia corresponda a otra región cuyo sistema procesal penal sea diferente.
 
 Artículo Decimoprimero. En los casos en que el asunto provenga de otra entidad federativa, se substanciará conforme a las reglas del presente Ordenamiento o del Código de Procedimientos Penales para el Estado de Querétaro que se abroga, según el sistema en que se haya tramitado en la entidad de origen.
+
+P.O. 29 DE MARZO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL DECRETO POR EL QUE LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, DECLARA QUE EN LA LEGISLACIÓN LOCAL HA QUEDADO INCORPORADO EL SISTEMA PROCESAL PENAL ACUSATORIO Y DECLARA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
+
+Artículo Primero. La Quincuagésima Séptima Legislatura del Estado de Querétaro, en cumplimiento a lo dispuesto por el Artículo Segundo Transitorio, párrafo tercero, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, declara que el Sistema Procesal Penal Acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero, 17, párrafos tercero, cuarto y sexto, 19, 20 y 21, párrafos tercero y séptimo, de la Constitución General de la República, ha quedado incorporado en la Constitución Política del Estado de Querétaro y en la legislación local secundaria aplicable en la materia.
+
+En consecuencia de lo anterior, las garantías que consagran los artículos antes indicados, regulan la forma y términos en que se substanciarán los procedimientos penales, referentes a los hechos que ocurran con posterioridad a la entrada en vigor del Sistema Procesal Penal Acusatorio, bajo una modalidad gradual y regional, conforme a la vigencia y aplicación progresiva siguiente:
+
+a) El 02 de junio de 2014: en los Distritos Judiciales de San Juan del Río, que comprende los Municipios de San Juan del Río, Tequisquiapan y Pedro Escobedo; y Amealco de Bonfil, integrado por los Municipios de Amealco de Bonfil y Huimilpan.
+
+b) El 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Montes, que comprende los Municipios de Cadereyta de Montes, Ezequiel Montes y San Joaquín; Tolimán, que abarca los Municipios de Tolimán, Colón y Peñamiller; y Jalpan de Serra, que está integrado por los Municipios de Jalpan de Serra, Pinal de Amoles, Landa de Matamoros y Arroyo Seco.
+
+c) El 30 de marzo de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
+
+Artículo Segundo. La Quincuagésima Séptima Legislatura del Estado de Querétaro, observando lo mandatado por el Artículo Segundo Transitorio, párrafo segundo, de la Ley que reforma los artículos 2 y 24 de la Constitución Política del Estado de Querétaro, declara que el Sistema Procesal Penal Acusatorio previsto en la Constitución Política de los Estados Unidos Mexicanos, ha quedado incorporado en la Constitución Política del Estado de Querétaro y en la legislación local secundaria aplicable en la materia.
+
+La vigencia y aplicación de la mencionada legislación secundaria, se llevará a cabo de manera progresiva, bajo una modalidad gradual y regional, acorde a la calendarización establecida en los incisos a), b) y c) del párrafo segundo, del Artículo Primero de este Decreto.
+
+Artículo Tercero. La Quincuagésima Séptima Legislatura del Estado de Querétaro, declara el inicio de la vigencia del Código Nacional de Procedimientos Penales en la Entidad, a partir del 02 de junio de 2014, por lo que sus disposiciones regirán la sustanciación de los procedimientos penales, respecto de los hechos que ocurran con posterioridad a la entrada en vigor del Sistema Procesal Penal Acusatorio; vigencia que operará de manera progresiva en el Estado, bajo una modalidad gradual y regional, en las fechas y territorios siguientes:
+
+a) El 02 de junio de 2014: en los Distritos Judiciales de San Juan del Río, que comprende los Municipios de San Juan del Río, Tequisquiapan y Pedro Escobedo; y Amealco de Bonfil, integrado por los Municipios de Amealco de Bonfil y Huimilpan.
+
+b) El 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Montes, que comprende los Municipios de Cadereyta de Montes, Ezequiel Montes y San Joaquín; Tolimán, que abarca los Municipios de Tolimán, Colón y Peñamiller; y Jalpan de Serra, que está integrado por los Municipios de Jalpan de Serra, Pinal de Amoles, Landa de Matamoros y Arroyo Seco.
+
+c) El 30 de marzo de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
+
+## TRANSITORIOS
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Dado el inicio de vigencia del Código Nacional de Procedimientos Penales en la Entidad, el Código de Procedimientos Penales para el Estado de Querétaro actualmente en vigor, quedará abrogado a partir del 02 de junio de 2014; no obstante, seguirá rigiendo en lo conducente, conforme a la gradualidad establecida en el Artículo Tercero de este Decreto, respecto de los procedimientos iniciados durante su vigencia y hasta en tanto queden concluidos, debiendo observarse para ellos las disposiciones procesales vigentes al momento de la comisión de los hechos.
+
+Artículo Tercero. No procederá la acumulación de procesos sobre hechos previstos en la ley como delitos, cuando alguno de ellos esté sometido al Código Nacional de Procedimientos Penales y otro al del Código de Procedimientos Penales abrogado.
+
+Artículo Cuarto. Las diligencias o actos procedimentales que se realicen en algún lugar del Estado de Querétaro, en que conforme a la gradualidad establecida en el Artículo Tercero de este Decreto aún no opere el Sistema Procesal Penal Acusatorio, deberán desahogarse conforme a las disposiciones del mismo, si derivan de un procedimiento donde ya se aplique éste.
+
+Artículo Quinto. Cuando un asunto se inicie en una región y se hubiesen realizado diligencias o actos procedimentales en ésta, se seguirá conforme al ordenamiento que se aplicó, independientemente que por razón de competencia corresponda a otra región cuyo sistema procesal penal sea diferente.
+
+Artículo Sexto. En los casos en que un asunto .provenga de otra Entidad Federativa, se substanciará conforme a las reglas del Código Nacional de Procedimientos Penales o del Código de Procedimientos Penales para el Estado de Querétaro abrogado, según el sistema en que se haya tramitado en la Entidad de origen.
+
+P.O. 29 DE MARZO DE 2014.
+
+LEY QUE ABROGA LA LEY DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERÉTARO.
+
+> <small>N. DE E. VÉASE TRANSITORIOS SEGUNDO Y QUINTO DEL P.O. DE 27 DE JULIO DE 2013.</small>
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
