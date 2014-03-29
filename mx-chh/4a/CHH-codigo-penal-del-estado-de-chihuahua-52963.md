@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2013-12-18"
+last_updated: "2014-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "CHH"
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MARZO DE 2014.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3971,13 +3973,35 @@ A quien haga aparecer ganado bovino como nacido en la Entidad, sin serlo, se le 
 
 Si en la comisión de cualesquiera de las conductas previstas en los artículos 361 y 362 se afecta el estatus zoosanitario del Estado, las sanciones se incrementarán hasta en un tercio de la pena a imponer.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2013) (F. DE E., P.O. 29 DE MARZO DE 2014)
 
-## TÍTULO VIGÉSIMO OCTAVO. DELITOS FISCALES
+## TÍTULO VIGÉSIMO OCTAVO. DELITOS EN CONTRA DE LOS ANIMALES DE COMPAÑÍA POR ACTOS DE MALTRATO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013) (F. DE E., P.O. 29 DE MARZO DE 2014)
 
 ###### Artículo 364.
+
+Se impondrá multa de hasta doscientos salarios a quien omita dolosamente prestar cuidados a un animal de compañía, que sea de su propiedad y que esta omisión ponga en peligro la salud del animal.
+
+(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013) (F. DE E., P.O. 29 DE MARZO DE 2014)
+
+###### Artículo 365.
+
+Al que dolosamente cometa actos de maltrato en contra de cualquier animal de compañía, causándole lesiones que pongan en peligro la vida del animal, se le impondrá de seis meses a un año de prisión y multa de hasta doscientos cincuenta salarios.
+
+(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013) (F. DE E., P.O. 29 DE MARZO DE 2014)
+
+###### Artículo 366.
+
+Al que dolosamente cometa actos de maltrato en contra de algún animal de compañía, causándole la muerte, se le impondrá de seis meses a dos años de prisión y multa de hasta doscientos cincuenta salarios.
+
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013) (F. DE E., P.O. 29 DE MARZO DE 2014)
+
+## TÍTULO VIGÉSIMO NOVENO. DELITOS FISCALES
+
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013) (F. DE E., P.O. 29 DE MARZO DE 2014)
+
+###### Artículo 367.
 
 Para iniciarse el procedimiento penal por los delitos fiscales, es necesario denuncia precisamente de la autoridad fiscal correspondiente.
 
@@ -3987,9 +4011,9 @@ En los delitos fiscales no se aplicarán sanciones pecuniarias en el procedimien
 
 Para que se otorgue el beneficio de la condena condicional o del procedimiento especial abreviado, además de los requisitos señalados en el Código de la materia, deberá acreditarse que el interés fiscal está satisfecho o garantizado.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013) (F. DE E., P.O. 29 DE MARZO DE 2014)
 
-###### Artículo 365.
+###### Artículo 368.
 
 Habrá lugar al procedimiento penal en los términos señalados en el artículo anterior, cuando se realicen las conductas que a continuación se describen:
 
@@ -4029,9 +4053,9 @@ a) Al que sin causa justificada, por vías de hecho se oponga o resista a las vi
 
 b) Al que viole, deteriore o destruya los sellos o marcas colocados con finalidad fiscal, con el propósito de que dejen de cumplir el objeto para el que fueron destinados.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013) (F. DE E., P.O. 29 DE MARZO DE 2014)
 
-###### Artículo 366.
+###### Artículo 369.
 
 Independientemente de las medidas de carácter administrativo a que se refiere la fracción I del artículo 94 del Código Fiscal del Estado de Chihuahua, se impondrá de seis meses a tres años de prisión al causante que deliberadamente y con el fin de defraudar al fisco, falsee sus declaraciones o realice maniobras tendientes a ocultar sus verdaderos ingresos, sin perjuicio de exigirse el pago del adeudo y de las sanciones fiscales procedentes.
 
