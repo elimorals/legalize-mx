@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-para-la-creacion-de-libros-y-la-lectura-del-7530
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-29"
-last_updated: "2010-05-29"
+last_updated: "2014-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE FOMENTO PARA LA CREACION DE LIBROS Y LA LECTURA DEL ESTADO DE NAYARIT
 
-LEY DE FOMENTO PARA LA CREACION DE LIBROS Y LA LECTURA DEL ESTADO DE NAYARIT
+LEY DE FOMENTO PARA LA CREACIÓN DE LIBROS Y LA LECTURA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2014.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 29 de mayo de 2010.
 
@@ -67,9 +67,11 @@ IX. Promoción de la lectura: Acciones encaminadas a la formación de lectores a
 
 X. Salas de lectura: Espacios alternos a las escuelas y bibliotecas, coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y otros materiales impresos, así como a diversas actividades encaminadas al fomento a la lectura.
 
-XI. Secretaría de Educación: La Secretaría de Educación Básica del Estado de Nayarit.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2014)</small>
 
-XII. SEMSSICYT: La Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica.
+XI. Secretaría de Educación: La Secretaría de Educación del Estado de Nayarit.
+
+XII. (DEROGADA, P.O. 29 DE MARZO DE 2014)
 
 XIII. SEPEN: Servicios de Educación Pública del Estado de Nayarit.
 
@@ -107,7 +109,7 @@ Corresponde la aplicación de la presente ley en el ámbito de sus competencias,
 
 I. La Secretaría de Educación;
 
-II. SEMSSICYT;
+II. (DEROGADA, P.O. 29 DE MARZO DE 2014)
 
 III. SEPEN;
 
@@ -137,7 +139,9 @@ VI. Involucrar en el ámbito de su competencia a las autoridades municipales, la
 
 VII. Considerar dentro de la jornada escolar cuando menos una hora hábil a la semana para el trabajo con un círculo de lectores, con la finalidad de desarrollar la comprensión lectora, garantizar el uso de los acervos de las bibliotecas escolares;
 
-VIII. Gestionar por medio de la SEMSSICYT que las instituciones de los niveles de Educación Media Superior y Superior en nuestro Estado, conformen sus Bibliotecas Escolares y promuevan las actividades de lectura y escritura, preferentemente con recursos propios;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2014)</small>
+
+VIII. Gestionar que las instituciones de los niveles de Educación Media Superior y Superior en nuestro Estado, conformen sus Bibliotecas Escolares y promuevan las actividades de lectura y escritura, preferentemente con recursos propios;
 
 IX. Promover que las autoridades del ámbito municipal aporten lo conducente para la actualización y mantenimiento de los acervos, edificios, equipamiento informático, capacitación y salarios de quienes laboran en las bibliotecas municipales a efecto de garantizar un servicio de calidad a los usuarios, y
 
@@ -145,9 +149,11 @@ X. Cualquier otra medida conducente al fomento para la creación de libros y la 
 
 Para el ejercicio de las atribuciones anteriores preferentemente deberá considerar la opinión y propuestas que en su caso plantee el Consejo Nacional de Fomento para el Libro y la Lectura, la Secretaría de Educación Pública Federal y el Consejo Nacional para la Cultura y las Artes.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2014)</small>
+
 ###### Artículo 6.
 
-La SEMSSICYT y los SEPEN dentro del ámbito de sus respectivas competencias y en coordinación con la Secretaría de Educación, coadyuvarán al cumplimiento de la presente ley.
+Los SEPEN dentro del ámbito de su respectiva competencia y en coordinación con la Secretaría de Educación, coadyuvará al cumplimiento de la presente ley.
 
 ###### Artículo 7.
 
@@ -191,7 +197,7 @@ VI. El Presidente de la Comisión de Niñez, Juventud y Deporte del Honorable Co
 
 VII. Un representante por cada una de las siguientes instituciones:
 
-a) SEMSSICYT;
+a) (DEROGADO, P.O. 29 DE MARZO DE 2014)
 
 b) COCYTEN;
 
@@ -475,6 +481,54 @@ El Consejo Nayarita y los Consejos Municipales preverán lo necesario para la ob
 
 En lo no previsto por esta ley, se aplicará supletoriamente la Ley General de Educación, la Ley de Educación del Estado de Nayarit y la Ley de Fomento a la Cultura y el Arte para el Estado de Nayarit.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2014)</small>
+
+### Capítulo Noveno. Sistema Estatal de Bibliotecas
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2014)</small>
+
+###### Artículo 42.
+
+El Sistema Estatal de Bibliotecas se integrará por todas las bibliotecas escolares, públicas, universitarias y especializadas pertenecientes a dependencias o entidades del sector público.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2014)</small>
+
+###### Artículo 43.
+
+La responsabilidad de coordinar el Sistema recaerá en la Secretaría de Educación.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2014)</small>
+
+###### Artículo 44.
+
+El Sistema Estatal de Bibliotecas contará con un consejo de carácter consultivo de carácter honorífico, el cual se integrará y funcionará de manera participativa conforme al Reglamento que emita la Secretaría de Educación.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2014)</small>
+
+###### Artículo 45.
+
+El Consejo Consultivo tendrá la obligación de reunirse cada 90 días a partir de su instalación y semestralmente tendrá la obligación de remitir un informe a la Secretaría de Educación donde de manera pormenorizada explicara las acciones ejercidas y los proyectos pendientes por realizar, inherentes a la función encomendada.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2014)</small>
+
+###### Artículo 46.
+
+El Sistema Estatal de Bibliotecas principalmente promoverá el desarrollo de las siguientes acciones:
+
+I. Elaborar un listado general de las bibliotecas que se integren al Sistema;
+
+II. Orientar a las bibliotecas pertenecientes al Sistema respecto de los medios técnicos en materia bibliotecaria y su actualización, para su mejor organización y operación;
+
+III. Configurar un catálogo general de acervos impresos y digitales de las bibliotecas incorporadas al Sistema, conforme a las reglas de catalogación y clasificación bibliográfica que adopte el Sistema para lograr su uniformidad;
+
+IV. Operar como medio de enlace entre los participantes, y entre éstos y las organizaciones bibliotecológicas nacionales, para desarrollar programas conjuntos;
+
+V. Apoyar programas de capacitación técnica y profesional del personal que tenga a su cargo servicios bibliotecarios, tendiendo a la optimización de éstos y al apoyo de las labores en la materia;
+
+VI. Proporcionar servicios de catalogación y clasificación a solicitud de los interesados en general, mediante el pago de las cuotas a que haya lugar, y
+
+VII. Las demás que sean análogas a las anteriores, que le permitan alcanzar sus propósitos.
+
 ## Transitorios
 
 Artículo Primero. La presente ley entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial del Estado.
@@ -490,3 +544,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Rigoberto Ríos Jara, Presidente.- Rúbrica.- Dip. Juan José Castellanos Franco, Secretario.- Rúbrica.- Dip. Gloria Noemí Ramírez Bucio, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintiocho días del mes de mayo del año dos mil diez.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MARZO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El Consejo Consultivo al que se hace alusión en la presente reforma, deberá ser instalado a más tardar noventa días después de la entrada en vigor del presente Decreto.
