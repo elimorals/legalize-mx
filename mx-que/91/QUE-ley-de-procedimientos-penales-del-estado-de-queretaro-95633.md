@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-procedimientos-penales-del-estado-de-queretaro-95633"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-27"
-last_updated: "2013-07-27"
+last_updated: "2014-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DE LA LEY QUE ABROGA LA LEY DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 29 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 27 de julio de 2013.
 
@@ -3880,3 +3882,9 @@ Lic. Arsenio Durán Becerra
 Procurador General de Justicia del Estado
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MARZO DE 2014.
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
