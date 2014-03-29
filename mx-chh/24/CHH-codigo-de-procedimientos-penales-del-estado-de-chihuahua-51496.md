@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2013-12-18"
+last_updated: "2014-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE MARZO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 1307 PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2013.</small>
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -853,7 +855,7 @@ I. Se trate de un hecho socialmente insignificante o de mínima o exigua culpabi
 
 No podrá aplicarse el principio de oportunidad en los casos de delitos contra la libertad y seguridad sexuales o de violencia familiar, por afectar gravemente el interés público.
 
-II Se trate de la actividad de organizaciones criminales, de delitos que afecten seriamente bienes jurídicos fundamentales o de investigación compleja, y el imputado colabore eficazmente con la misma, brinde información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado u otros conexos o proporcione información útil para probar la participación de otros imputados que tengan funciones de dirección o administración dentro de las organizaciones criminales, y siempre que los hechos que motivan la acción penal de la cual se prescinda, resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
+II. Se trate de la actividad de organizaciones criminales, de delitos que afecten seriamente bienes jurídicos fundamentales o de investigación compleja, y el imputado colabore eficazmente con la misma, brinde información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado u otros conexos o proporcione información útil para probar la participación de otros imputados que tengan funciones de dirección o administración dentro de las organizaciones criminales, y siempre que los hechos que motivan la acción penal de la cual se prescinda, resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
 
 III. El imputado haya sufrido, a consecuencia del hecho, daño físico o psicológico grave que torne desproporcionada la aplicación de una pena;
 
@@ -3677,7 +3679,7 @@ IV. Esté previsto específicamente en este Código o en otra ley.
 
 La resolución será fundada y constará en el registro del debate de juicio oral. Desaparecida la causa se permitirá ingresar nuevamente al público y quien presida el debate informaré brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando de no afectar el bien protegido por la reserva. El Tribunal podrá imponer a las partes en el acto el deber de reserva sobre aquellas circunstancias que han presenciado, decisión que constará en el registro del debate de juicio oral.
 
-El Tribunal señalará en cada caso las condiciones en que se ejercerá el derecho a informar y podrá restringir o prohibir, mediante resolución fundada la grabación, fotografía, edición o reproducción de la audiencia, cuando puedan resultar afectados algunos de los intereses señalados en este Artículo o cuando se límite el derecho del acusado o de la víctima u ofendido a un juicio imparcial y justo.
+El Tribunal señalará en cada caso las condiciones en que se ejercerá el derecho a informar y podrá restringir o prohibir, mediante resolución fundada, la grabación, fotografía, edición o reproducción de la audiencia, cuando puedan resultar afectados algunos de los intereses señalados en este Artículo o cuando se límite el derecho del acusado o de la víctima u ofendido a un juicio imparcial y justo.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -4009,7 +4011,7 @@ Métodos de autenticación e identificación.
 
 La autenticidad e identificación de los documentos no mencionados en el Artículo que antecede, se probará por métodos como los siguientes:
 
-I. Reconocimiento de la persona que lo ha elaborado, manuscrito, mecanografiado, impreso, firmado o producido.
+l. Reconocimiento de la persona que lo ha elaborado, manuscrito, mecanografiado, impreso, firmado o producido.
 
 II. Reconocimiento de la parte contra la cual se aduce.
 
@@ -4785,7 +4787,7 @@ Motivos de casación de carácter procesal.
 
 El juicio y la sentencia serán motivos de casación cuando:
 
-l. En la tramitación de la audiencia de debate de juicio oral se hubieren infringido derechos fundamentales asegurados por la Constitución Federal o Local, o por los Tratados Internacionales ratificados por el Estado Mexicano que se encuentren vigentes.
+I. En la tramitación de la audiencia de debate de juicio oral se hubieren infringido derechos fundamentales asegurados por la Constitución Federal o Local, o por los Tratados Internacionales ratificados por el Estado Mexicano que se encuentren vigentes.
 
 II. La sentencia hubiere sido pronunciada por un Tribunal incompetente o que, en los términos de la ley, no garantice su imparcialidad.
 
