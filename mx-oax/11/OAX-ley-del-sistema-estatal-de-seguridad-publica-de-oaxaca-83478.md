@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2013-11-08"
+last_updated: "2014-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -1139,9 +1139,15 @@ XXV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos
 
 XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
 
-XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y
+XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio, y (sic)
 
-XXVIII. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XXVIII. Los uniformes de los integrantes de instituciones de Seguridad Pública deberán ser de color azul marino o en su caso de colores oscuros. Los vehículos policiales tendrán las mismas características que los uniformes y portarán el Escudo del Gobierno del Estado, debiendo rotular un número telefónico para que la ciudadanía pueda reportar sus quejas. Queda estrictamente prohibido utilizar en ellos colores o emblemas o logotipos similares o que tengan parecido con los de las organizaciones o partidos políticos, y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XXIX. Las demás que establezcan las disposiciones legales aplicables.
 
 Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna, con respeto a las garantías y derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
 
@@ -2854,3 +2860,7 @@ QUINTO. Las secretarías de Seguridad Pública y General de Gobierno, reformadas
 SEXTO. En todos los casos que por la aplicación de este Decreto, se modifique la estructura orgánica de las Dependencias o Unidades Administrativas, que cuenten con trabajadores de base, sus derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado de Oaxaca y demás leyes aplicables a la materia.
 
 SÉPTIMO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública de Oaxaca, como Unidad Administrativa de la Secretaría de Seguridad Pública, que por este Decreto se reforma, continuarán surtiendo sus efectos, y se entenderán como subrogados y contraídos por el Órgano Desconcentrado de la Secretaría General de Gobierno, denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+P.O. 31 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
