@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-derecho-de-acceso-a-la-informacion-publica-44022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-04"
-last_updated: "2006-10-04"
+last_updated: "2014-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MONTERREY
 
-REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MONTERREY
+REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Monterrey, el viernes 4 de marzo de 2005.
 
@@ -443,13 +443,63 @@ XIV. Las demás que le confieran este Reglamento y demás disposiciones jurídic
 
 El Comisionado rendirá semestralmente un informe al. R. Ayuntamiento sobre su actuación; el cumplimiento del presente reglamento y el ejercicio del Derecho a la Información Pública. Los Sujetos Obligados deberán de rendir un informe bimestral al Comisionado sobre el cumplimiento del Presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2014)</small>
+
 ###### Artículo 33.
 
-El Comisionado se auxiliará con tres Representantes Ciudadanos y el Síndico Segundo Municipal, quienes actuarán como consejeros del Comisionado, y cuyos cargos serán honoríficos, no remunerados.
+De acuerdo a lo mencionado en el artículo 7 del Reglamento Interior de la Oficina del Comisionado para la Transparencia Municipal; el Comisionado se auxiliará con un Consejo Ciudadano de Transparencia conformado por tres Representantes Ciudadanos y el Síndico Segundo Municipal, quienes actuarán como consejeros del Comisionado, y cuyos cargos serán honoríficos, no remunerados.
 
-Los Representantes Ciudadanos y el Síndico Segundo Municipal no tienen facultades de decisión ni ejecutivas y sólo podrán coadyuvar con el Comisionado al mejor cumplimiento de este Reglamento y la Ley. Para efecto de lo anterior, el Comisionado, los Representantes Ciudadanos y el Síndico Segundo Municipal, se reunirán una vez al mes constituidos en Consejo para analizar y evaluar el cumplimiento del Reglamento y la Ley y el ejercicio del Derecho de Acceso a la Información Pública objeto de este Reglamento, y hacer las recomendaciones conducentes.
+Las decisiones del Consejo serán adoptadas por mayoría simple.
 
-Los Representantes Ciudadanos serán elegidos por el R. Ayuntamiento de entre una lista que se integrará previa convocatoria pública, en la que se fijen las reglas correspondientes y que será expedida por el R. Ayuntamiento. Para ser Representante Ciudadano, deberán acreditarse los mismos requisitos que para Comisionado, durarán en su cargo dos años, y podrán ser removidos por las mismas causas que este Reglamento prevé para la remoción del Comisionado en lo que les resulte aplicable.
+Para efecto de lo anterior, el Consejo se reunirá una vez al mes de manera ordinaria y de manera extraordinaria las veces que acuerde el Consejo.
+
+Los Representantes Ciudadanos se elegirán por el Ayuntamiento de entre una lista que se integrará previa convocatoria pública y que será expedida por el Ayuntamiento.
+
+Para ser Representante Ciudadano deberán acreditarse los siguientes requisitos:
+
+I. Ser ciudadano mexicano con una residencia mínima de 5-cinco años en el Estado de Nuevo León y que se encuentre en pleno ejercicio de sus derechos políticos;
+
+II. Tener al menos veinticinco años cumplidos al día de su designación;
+
+III. Contar con título profesional legalmente expedido por la Autoridad correspondiente;
+
+IV. No haber desempeñado en el periodo de dos años anteriores a su designación, ningún cargo público en la Federación, las Entidades Federativas, Municipios u Organismos Descentralizados, excepto aquellas relacionadas con la docencia o bien el haber desempeñado con anterioridad el cargo de Consejero Ciudadano;
+
+V. No haber sido condenado por delito intencional;
+
+VI. No haber sido dirigente de ningún Partido Político a nivel Nacional, Estatal o Municipal, o de una Asociación Política en el periodo de cinco años anteriores a la fecha de su designación;
+
+VII. No ser ministro o dirigente de algún culto o asociación religiosa; y
+
+VIII. Que no se trate del cónyuge, hijos, parientes por consanguinidad en línea recta sin limitación de grado, a los colaterales dentro del cuarto; y los afines dentro del segundo grado de algún miembro del Ayuntamiento del Comisionado en funciones.
+
+Los Consejeros Ciudadanos durarán en su cargo dos años, y podrán ser causas de terminación del cargo, las siguientes:
+
+I. Dejar de asistir a tres juntas del Consejo en forma sucesiva o a cinco alternas durante un año, sin causa justificada;
+
+II. La separación voluntaria por escrito;
+
+III. La conclusión del periodo para el cual fueron designados; y
+
+IV. La muerte.
+
+Los representantes ciudadanos podrán ser ratificados hasta por un periodo adicional y se mantendrán en su cargo hasta que los representantes ciudadanos que los sustituyan hayan sido nombrados.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+###### Artículo 33 Bis.
+
+Adicionalmente a las atribuciones que se establecen en el artículo 10 del Reglamento Interior de la Oficina del Comisionado para la Transparencia Municipal el Consejo Ciudadano de Transparencia, tendrá las siguientes funciones:
+
+I. Coadyuvar con el Comisionado al mejor cumplimiento con este Reglamento y la Ley;
+
+II. Promover e impulsar entre los Ciudadanos el derecho de la información;
+
+III. Realizar propuestas en materia de transparencia;
+
+IV. Promocionar los programas de la Dirección de Transparencia, y
+
+V. Fortalecer la cultura de transparencia entre los ciudadanos y servidores públicos.
 
 ### CAPÍTULO VII. DEL RECURSO DE INCONFORMIDAD
 
@@ -597,10 +647,20 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 C. EDGAR RODOLFO OLÁIZ ORTÍZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-P.O. 4 DE OCTUBRE DE 2006
+P.O. 4 DE OCTUBRE DE 2006.
 
 PRIMERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- (sic) Publíquese en la Gaceta Municipal y el Periódico Oficial del Estado por ser de interés general.
+
+P.O. 31 DE MARZO DE 2014.
+
+DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO: Las presentes Reformas por Modificación al artículo 33 y adición del artículo 33 Bis del Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO: Se ordena la publicación de los presentes acuerdos en el Periódico Oficial del Estado, en la Gaceta Municipal y difúndase en el portal de Internet http://portal.monterrey.gob.mx.
