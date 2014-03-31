@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2014-03-14"
+last_updated: "2014-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -58,6 +58,14 @@ El Estado y los Municipios observarán las bases de coordinación con la Federac
 La seguridad pública es la función a cargo del Estado y los Municipios, que tiene como fines salvaguardar la integridad física, los derechos y bienes de las personas; preservar las libertades, la paz y el orden público; y comprende la prevención especial y general de los delitos y la investigación para hacerla efectiva; la sanción de las infracciones administrativas; la investigación y la persecución de los delitos; y, la reinserción social de las personas.
 
 El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+Los particulares que otorguen servicios de operaciones de depósitos de valores o en efectivo, prendarias, o de juegos y apuestas, tienen la obligación de adquirir y mantener servicios de seguridad privada y medidas de seguridad adecuadas para evitar la comisión de delitos y brindar atención y respuesta oportuna a sus clientes.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+El incumplimiento de esta obligación dará lugar a las sanciones que establezca el Reglamento de esta Ley.
 
 ###### Artículo 3.
 
@@ -118,6 +126,10 @@ VII.- Establecer las bases sobre las cuales se prestarán los servicios de segur
 VIII.- Diseñar y aplicar estrategias, planes y programas para combatir la delincuencia; y
 
 IX.- Desarrollar e instrumentar acciones, estrategias y programas en materia de prevención; así como de reinserción social y, en su caso, tratamiento de adolescentes que hayan cometido conductas tipificadas como delitos por la legislación penal.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+Los particulares están obligados a contribuir al objeto de esta Ley conforme sus capacidades, recursos y aptitudes, en términos de las disposiciones que la misma establezca.
 
 ###### Artículo 5.
 
@@ -285,7 +297,9 @@ II.- Analizar, evaluar e informar al Titular del Ejecutivo sobre cualquier situa
 
 III.- Proponer políticas y acciones en materia de seguridad pública al Titular del Ejecutivo;
 
-IV.- Dar seguimiento y vigilar el cumplimiento de los acuerdos tomados en el seno de las conferencias nacionales de Secretarios de Seguridad Pública y del Sistema Penitenciario;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+
+IV.- Dar seguimiento y vigilar el cumplimiento de las disposiciones de esta Ley y de los acuerdos tomados en el seno de las conferencias nacionales de Secretarios de Seguridad Pública y del Sistema Penitenciario;
 
 V.- Suscribir, previo acuerdo del Titular del Ejecutivo, los convenios de coordinación en materia de seguridad pública con la Federación, los Estados y los Municipios;
 
@@ -1846,3 +1860,9 @@ SEXTO.- Las erogaciones que se deriven de la aplicación de este Decreto estará
 SÉPTIMO.- A la publicación de este Decreto quedarán sin efecto todos los convenios, acuerdos y contratos, que contravengan al contenido de lo señalado en el presente Decreto.
 
 OCTAVO.- La Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Estado, la Secretaría General de Gobierno y la Secretaría de la Contraloría, en los ámbitos de competencia que corresponda, acordarán lo necesario para que en un plazo no mayor de noventa días naturales contados a partir del día de la entrada en vigor de este Decreto, se transfieran los archivos y los recursos humanos que sean necesarios, así como los recursos materiales y financieros existentes destinados para la atención de los asuntos relacionados con la materia de este Decreto.
+
+P.O. 31 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
