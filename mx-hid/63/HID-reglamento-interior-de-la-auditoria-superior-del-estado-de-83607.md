@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-auditoria-superior-del-estado-de-8360
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-10"
-last_updated: "2011-10-10"
+last_updated: "2014-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE HIDALGO
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE HIDALGO
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de octubre de 2011.
 
@@ -61,15 +61,17 @@ VII.- Reglamento: Reglamento Interior de la Auditoría Superior del Estado de Hi
 
 ### CAPÍTULO II. De la organización interna de la Auditoría Superior
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2014)</small>
+
 ###### Artículo 4.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Auditoría Superior contará con los siguientes servidores públicos y unidades administrativas:
+Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Auditoría Superior contará con las siguientes unidades administrativas:
 
-Auditor Superior del Estado de Hidalgo
+Despacho del Auditor Superior
 
 Dirección de Administración
 
-Dirección de Mejora Continua
+Dirección de Mejora Continua y Profesionalización
 
 Dirección de Tecnología de la Información
 
@@ -77,13 +79,13 @@ Secretaría Técnica
 
 Unidad de Vigilancia, Control y Evaluación
 
-Director General de Auditoría Estatal
+Dirección General de Auditoría Estatal
 
 Dirección de Planeación y Seguimiento
 
 Dirección de Auditoría Financiera y de Cumplimiento
 
-Director General de Auditoría del Sector Paraestatal
+Dirección General de Auditoría del Sector Paraestatal
 
 Dirección de Planeación
 
@@ -91,23 +93,25 @@ Dirección de Auditoría Financiera
 
 Dirección de Cumplimiento y Seguimiento
 
-Director General de Auditoría Municipal
+Dirección General de Auditoría Sobre el Desempeño
 
-Dirección de Auditoría Financiera y de Cumplimiento "A"
+Dirección de Área de Desempeño
 
-Dirección de Auditoría Financiera y de Cumplimiento "B"
+Dirección General de Auditoría a Municipios y Obra Pública
 
-Director General de Inspección Técnica y Evaluación
+Dirección de Auditoría Financiera y de Cumplimiento “A”
+
+Dirección de Auditoría Financiera y de Cumplimiento “B”
 
 Dirección de Planeación y Seguimiento
 
-Dirección de Inspección Técnica
+Dirección General de Asuntos Jurídicos
 
-Director General de Asuntos Jurídicos
+Dirección Jurídica
 
-Dirección de lo Contencioso
+Dirección de Responsabilidades
 
-Dirección de Asesoría
+Dirección de Normatividad
 
 Supervisores u homólogos
 
@@ -147,7 +151,9 @@ IX.- Determinar los daños y perjuicios que afecten las Haciendas Públicas Esta
 
 X.- Instruir los procedimientos que resulten procedentes, en su carácter de Órgano de Control Interno del Congreso del Estado y en términos de la Ley de Responsabilidades de los Servidores Públicos; así como aquellos para el fincamiento de las responsabilidades resarcitorias, previstos en la Ley, por las irregularidades en que incurran los servidores, ex servidores públicos, particulares, personas físicas o morales, que por actos u omisiones causen daño o perjuicio, o ambos, estimables en dinero al Estado o Municipios en su Hacienda Pública o al patrimonio de las demás entidades fiscalizadas y resolver sobre la existencia o inexistencia de responsabilidad o de abstención de sanción y, en su caso, fincar a los responsables el pliego definitivo de responsabilidades;
 
-XI.- Promover ante las autoridades competentes el fincamiento de otras responsabilidades en que incurran los servidores o ex servidores públicos;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XI.- Promover ante las autoridades competentes el fincamiento de otras responsabilidades, así como las acciones de responsabilidad a que se refiere el Título Décimo de la Constitución Política del Estado y, presentar denuncias y querellas penales, misma que se ejercerá a través de la Dirección General de Asuntos Jurídicos;
 
 XII.- Certificar los documentos que le soliciten conforme a derecho y que obren en el archivo de la Auditoría Superior;
 
@@ -155,9 +161,17 @@ XIII.- Participar en los procesos de entrega recepción de los titulares de las 
 
 XIV.- Recibir, registrar, controlar y dar seguimiento a las declaraciones patrimoniales de los servidores públicos a que se refiere el Artículo 58 de la Ley;
 
-XV.- Expedir los acuerdos, circulares, lineamientos y demás disposiciones administrativas que se requieran para la debida organización y funcionamiento del Órgano Técnico; y
+XV.- Expedir los acuerdos, circulares, lineamientos y demás disposiciones administrativas que se requieran para la debida organización y funcionamiento del Órgano Técnico; y (sic)
 
-XVI.- Las demás que señale la Ley y el presente Reglamento.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XVI.- Imponer las medidas de apremio que resulten procedentes en términos de la ley para el cumplimiento de sus determinaciones;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XVII.- Recibir, atender y dar seguimiento dentro del ámbito de su competencia a las quejas y denuncias que se presenten ante la Auditoría Superior; y
+
+XVIII.- Las demás que señale la Ley y el presente Reglamento.
 
 ###### Artículo 7.
 
@@ -185,7 +199,7 @@ X.- Designar y expedir los nombramientos del personal de la Auditoría Superior,
 
 XI.- Adscribir orgánicamente las unidades administrativas de la Auditoría Superior y delegar las facultades que sean procedentes, mediante los acuerdos correspondientes que deberán ser Publicados en el Periódico Oficial del Estado de Hidalgo;
 
-XII.- Imponer las medidas de apremio, en los casos que resulte procedente, en términos de la Ley;
+XII.- (DEROGADA, P.O. 31 DE MARZO DE 2014)
 
 XIII.- Resolver el recurso de revocación interpuesto en contra de los actos y resoluciones definitivos que emita, de conformidad a lo dispuesto en la Ley de la Auditoría Superior del Estado;
 
@@ -215,9 +229,11 @@ Los Directores Generales para el despacho de los asuntos de su competencia y el 
 
 ### CAPÍTULO IV. De las atribuciones de las Direcciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2014)</small>
+
 ###### Artículo 8.
 
-El Auditor Superior del Estado, para el ejercicio de sus funciones se auxiliará de las Direcciones Generales de Auditoría Estatal, del Sector Paraestatal, Municipal e Inspección Técnica y Evaluación, cuyos titulares tendrán además de las facultades y obligaciones señaladas en otros Artículos de la Ley y del presente Reglamento, las siguientes atribuciones generales:
+El Auditor Superior del Estado, para el ejercicio de sus funciones se auxiliará de las Direcciones Generales de Auditoría Estatal, del Sector Paraestatal, Auditoría a Municipios y Obra Pública y, de Auditoría Sobre el Desempeño, cuyos titulares tendrán, las siguientes atribuciones generales:
 
 I.- Autorizar el Programa Operativo Anual del área a su cargo y someter a consideración del Auditor Superior las adecuaciones y modificaciones correspondientes;
 
@@ -277,13 +293,21 @@ XXVIII.- Emitir las disposiciones internas aplicables, que aseguren el adecuado 
 
 XXIX.- Verificar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables;
 
-XXX.- Acordar con el Auditor Superior la resolución de los asuntos cuya tramitación se encuentre dentro del ámbito de su competencia; y
+XXX.- Acordar con el Auditor Superior la resolución de los asuntos cuya tramitación se encuentre dentro del ámbito de su competencia; y (sic)
 
-XXXI.- Las demás que señale la Ley, el presente Reglamento o el Auditor Superior.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XXXI. Formular los apercibimientos e imponer las medidas de apremio que resulten procedentes en términos de la ley para el cumplimiento de sus determinaciones; y
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XXXII. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2014)</small>
 
 ###### Artículo 9.
 
-Asimismo, el Auditor Superior, para el ejercicio de sus funciones se auxiliará de la Dirección General de Asuntos Jurídicos, cuyo titular tendrá además de las facultades y obligaciones señaladas en otros Artículos de la Ley y del presente Reglamento, las siguientes:
+Asimismo, el Auditor Superior, para el ejercicio de sus funciones se auxiliará de la Dirección General de Asuntos Jurídicos, cuyo titular tendrá las facultades y obligaciones siguientes:
 
 I.- Autorizar el Programa Operativo Anual del área a su cargo, y someter a consideración del Auditor Superior las adecuaciones y modificaciones correspondientes;
 
@@ -325,9 +349,75 @@ XIX.- Asesorar y participar en materia jurídica en la elaboración y celebraci�
 
 XX.- Verificar que la información y documentación generada por la Dirección a su cargo y que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables que al respecto emita;
 
-XXI.- Acordar con el Auditor Superior la resolución de los asuntos cuya tramitación se encuentre dentro del ámbito de su competencia; y
+XXI.- Acordar con el Auditor Superior la resolución de los asuntos cuya tramitación se encuentre dentro del ámbito de su competencia; y (sic)
 
-XXII.- Las demás que señale la Ley, el presente Reglamento o el Auditor Superior.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XXII. Formular los requerimientos necesarios para el cumplimiento de sus funciones e imponer las medidas de apremio que resulten procedentes en términos de la ley para el cumplimiento de sus determinaciones;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XXIII. Requerir a las entidades fiscalizadas, a los terceros que hubieren celebrado operaciones con éstas, servidores públicos, autoridades, personas físicas o morales, la información, documentación y el auxilio que se requiera para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XXIV. Recibir, atender y dar seguimiento a las quejas y denuncias que se presenten ante la Auditoría Superior; y
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XXV. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+###### Artículo 9 Bis.
+
+La Dirección General de Auditoría sobre el Desempeño, tendrá las siguientes atribuciones:
+
+I. Autorizar el Programa Operativo Anual de la unidad administrativa a su cargo y someter a consideración del Auditor Superior las adecuaciones y modificaciones correspondientes;
+
+II. Proporcionar la información relativa a los requerimientos de la unidad administrativa a su cargo, para la elaboración del anteproyecto de Presupuesto Anual de Egresos de la Auditoría Superior;
+
+III. Integrar el Programa anual de auditorías, visitas, revisiones e inspecciones que se presentará al Auditor Superior para su aprobación, así como sus modificaciones y proponer al personal que intervendrá en las mismas;
+
+IV. Elaborar y someter a la aprobación del Auditor Superior los criterios y procedimientos para la realización de auditorías sobre el desempeño;
+
+V. Dirigir, supervisar y coordinar que las auditorías sobre el desempeño permitan constatar que los bienes producidos y servicios ofrecidos por las entidades fiscalizadas, correspondieron a los recursos erogados, objetivos y metas aprobadas en el Presupuesto;
+
+VI. Evaluar el cumplimiento de los objetivos y metas establecidos en los programas estatales y municipales, conforme a los indicadores respectivos;
+
+VII. Planear y supervisar que en las auditorías se verifique que el impacto de los programas, proyectos, políticas y acciones gubernamentales correspondan a lo planeado cumpliendo las expectativas previstas;
+
+VIII. Constatar que los programas y proyectos sujetos a revisión se hayan concebido y ejecutado considerando los efectos ambientales, conforme a las disposiciones legales aplicables;
+
+IX. Formular las recomendaciones que procedan a las entidades fiscalizadas con motivo de las auditorías sobre el desempeño practicadas;
+
+X. Participar y, en su caso, elaborar los Informes Previos de la Revisión, los Informes del Resultado de la Revisión, pliegos de recomendaciones, constancias de solventación y demás acciones de su competencia;
+
+XI. Dar seguimiento a las recomendaciones emitidas con la finalidad de propiciar la adopción de prácticas de buen gobierno para mejorar la administración de las entidades sujetas a su revisión;
+
+XII. Designar a los servidores públicos que realizarán las notificaciones de los Informes Previos de la Revisión, Informes del Resultado de la Revisión, pliegos de recomendaciones y demás acciones, así como las constancias de solventación, acuerdos y otros requerimientos relacionados con las entidades de fiscalización correspondientes;
+
+XIII. Requerir a las entidades fiscalizadas, servidores públicos y, en general, a cualquier entidad o persona física o moral, pública o privada, la información y documentación necesaria para realizar la función de fiscalización;
+
+XIV. Solicitar a las instancias de control competentes, en el ámbito de sus atribuciones, su intervención para el cumplimiento y seguimiento de las acciones que emita y, en su caso, copia de los informes y dictámenes de las auditorías por ellas practicadas o a través de despachos externos;
+
+XV. Elaborar el dictamen técnico e integrar el expediente debidamente soportado que será remitido a la Dirección General de Asuntos Jurídicos para el ejercicio de las acciones legales correspondientes;
+
+XVI. Tramitar e instruir el recurso de revocación interpuesto en contra de los actos y resoluciones definitivos que emita y someter a consideración del Auditor Superior el proyecto de resolución;
+
+XVII. Supervisar la integración, clasificación, control y guarda de los expedientes de los papeles de trabajo que respaldan las auditorías realizadas;
+
+XVIII. Coordinar el diseño, implementación y actualización de un sistema integral de información automatizada, que permita conocer en línea la aplicación de las medidas preventivas y correctivas impuestas por la Auditoría Superior, así como los indicadores relativos al avance en la gestión por parte de las entidades;
+
+XIX. Promover y coordinar con las entidades fiscalizadas que las Cuentas Públicas y los Informes de Avance de Gestión Financiera incluyan indicadores que permitan evaluar los resultados de la gestión gubernamental y verificar la administración responsable y transparente de los recursos públicos;
+
+XX. Elaborar y mantener actualizados los manuales administrativos que se requieran, para la debida organización y funcionamiento de la unidad administrativa a su cargo;
+
+XXI. Verificar que la información y documentación generada por la unidad administrativa a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables que al respecto emita;
+
+XXII. Acordar con el Auditor Superior la resolución de los asuntos cuya tramitación se encuentre dentro del ámbito de su competencia; y
+
+XXIII. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO V. De las atribuciones de los Directores de área adscritos a las Direcciones Generales
 
@@ -515,209 +605,227 @@ XII.- Proporcionar a las unidades administrativas, la información, documentaci�
 
 XIII.- Las demás que señale el presente Reglamento o el Director General.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2014)</small>
+
 ###### Artículo 12.
 
-A la Dirección General de Auditoría Municipal corresponde la fiscalización de las Cuentas Públicas de los Ayuntamientos, Organismos Descentralizados Municipales y Empresas de Participación Municipal, para el desempeño de sus atribuciones y obligaciones contará con dos Direcciones de Auditoría Financiera y de Cumplimiento, a cuyos titulares compete:
+La Dirección General de Auditoría a Municipios y Obra Pública, se encargará de la fiscalización de las Cuentas Públicas de los Ayuntamientos, Organismos Descentralizados Municipales y Empresas de Participación Municipal; asimismo, verificará que los proyectos, estudios, acciones, servicios y erogaciones en materia de obra pública de las entidades fiscalizadas, se hayan planeado, realizado, ejecutado o prestado de acuerdo a las metas y especificaciones programadas y autorizadas y de conformidad a los procedimientos establecidos, para tal efecto, contará con dos Direcciones de Auditoría Financiera y de Cumplimiento y, una de Planeación y Seguimiento, a cuyos titulares compete:
 
-I.- Coordinar la elaboración del Programa Operativo Anual de la Dirección General, así como las adecuaciones y modificaciones correspondientes;
+A. Direcciones de Auditoría Financiera y de Cumplimiento:
 
-II.- Coadyuvar con su superior jerárquico en la integración de la información relativa al anteproyecto de Presupuesto Anual de Egresos de la Auditoría Superior;
+I. Coordinar la elaboración del Programa Operativo Anual de la Dirección General de Auditoría a Municipios y Obra Pública y someterlo a la consideración del Director General, dando seguimiento al avance y cumplimiento del mismo y elaborar los reportes e informes que le soliciten;
 
-III.- Controlar, analizar y resguardar la documentación relativa a los Informes de Avance de Gestión Financiera y de las Cuentas Públicas que presenten las entidades fiscalizadas;
+II. Recabar la información que corresponda a la Dirección General para la elaboración del anteproyecto de Presupuesto Anual de Egresos de la Auditoría Superior;
 
-IV.- Planear las auditorías conforme al análisis de los Informes de Avance de Gestión Financiera, de las Cuentas Públicas y demás información e integrar el Programa Anual de Auditorías, que se presentará al Auditor Superior para su aprobación, proponer al personal que intervendrá en ellas y, en su caso, llevar el registro de las modificaciones que se efectúen al respecto;
+III. Intervenir en la planeación específica de las auditorías que habrán de practicarse e integrar el Programa anual de auditorías, visitas, revisiones e inspecciones, que se presentará al Auditor Superior para su aprobación;
 
-V.- Coordinar la práctica de auditorías a la Cuenta Pública y a los procesos reportados como concluidos en los Informes de Avance de Gestión Financiera de las entidades fiscalizadas, conforme al Programa Anual de Auditorías aprobado;
+IV. Proponer a su superior jerárquico al personal que intervendrá en las auditorías consideradas en el Programa anual de auditorías, visitas, revisiones e inspecciones autorizado, así como al que realizará las notificaciones de los asuntos de la competencia de la Dirección a su cargo;
 
-VI.- Verificar si los ingresos públicos recaudados por las Entidades fiscalizadas, fueron obtenidos, registrados, administrados, manejados, aplicados, ejercidos y custodiados de conformidad con las disposiciones jurídicas aplicables y conforme a los planes, presupuestos y programas autorizados;
+V. Obtener durante el desarrollo de las auditorías el original o copia certificada de los documentos que garanticen el soporte adecuado de las irregularidades detectadas;
 
-VII.- Revisar que la contratación, registro, reestructuración, administración, y pago por concepto de deuda pública, se realizaron conforme a lo previsto y en cumplimiento de las disposiciones jurídicas aplicables en la materia;
+VI. Participar en el levantamiento de las actas circunstanciadas que se requieran durante el desarrollo de las auditorías, vistas e inspecciones;
 
-VIII.- Verificar que los egresos de las Entidades fiscalizadas, se encuentren debidamente registrados en su contabilidad, justificados y comprobados conforme a los ordenamientos legales aplicables, asimismo que se hayan ajustado a lo presupuestado y aplicado al fin establecido;
+VII. Supervisar la elaboración del Informe Previo de la Revisión y presentarlo al Director General;
 
-IX.- Practicar auditorías sobre el desempeño para evaluar el cumplimiento de los objetivos y metas establecidos en los planes y programas, conforme a los indicadores aprobados y demás normatividad aplicable, verificando el desempeño de los mismos y la legalidad en el uso de los recursos públicos, conforme a las disposiciones jurídicas aplicables;
+VIII. Elaborar y presentar al Director General los oficios relativos a las medidas de apremio que habrán de imponerse a las entidades fiscalizadas;
 
-X.- Analizar el contenido de las actas circunstanciadas que se hayan formulado durante el desarrollo de las auditorías o visitas domiciliarias practicadas y comunicar de ello al Director General;
+IX. Integrar los expedientes de las auditorías practicadas e instruir la guarda correspondiente;
 
-XI.- Obtener durante el desarrollo de las auditorías a su cargo, copia certificada de los documentos relacionados con la fiscalización, que garanticen el soporte adecuado de las irregularidades detectadas;
+X. Practicar las auditorías solicitadas por la Auditoría Superior de la Federación y elaborar los informes correspondientes;
 
-XII.- Supervisar la elaboración del Informe Previo de la Revisión, del Informe del Resultado de la Revisión, pliegos de observaciones y recomendaciones y presentarlos al Director General;
+XI. Participar en el proceso de entrega recepción de los titulares de las entidades fiscalizadas de su competencia;
 
-XIII.- Elaborar y presentar al Director General los oficios relativos a las medidas de apremio impuestas a las Entidades fiscalizadas;
+XII. Coadyuvar en los trabajos relativos a las modificaciones y actualizaciones de los lineamientos técnicos y criterios para las auditorías y su seguimiento, así como a los procedimientos, métodos, guías y sistemas necesarios para la fiscalización e integración de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera;
 
-XIV.- Celebrar la reunión de confronta y elaborar el acta correspondiente;
+XIII. Elaborar y mantener actualizados los manuales administrativos que se requieran, para la debida organización y funcionamiento de la Dirección General, presentándolos a su superior jerárquico;
 
-XV.- Coadyuvar en la integración de los expedientes de las auditorías practicadas y llevar su control y seguimiento;
+XIV. Proporcionar a las unidades administrativas, la información, documentación, datos, informes, asesorías y colaboración que le requieran, previa instrucción del titular de la Dirección General;
 
-XVI.- Practicar las auditorías solicitadas por la Auditoría Superior de la Federación y elaborar los informes correspondientes;
+XV. Supervisar y controlar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus funciones, se archive de conformidad con las disposiciones internas aplicables; y
 
-XVII.- Analizar y resguardar la información y documentación que las entidades fiscalizadas presenten en respuesta a las observaciones y recomendaciones formuladas;
+XVI. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
 
-XVIII.- Elaborar el dictamen técnico e integrar el expediente que será remitido a la Dirección General de Asuntos Jurídicos, debidamente soportados con las evidencias suficientes, competentes, relevantes y pertinentes que acrediten las irregularidades detectadas en las auditorías derivadas de la fiscalización;
+B. Dirección de Planeación y Seguimiento
 
-XIX.- Tramitar e instruir el recurso de revocación interpuesto en contra de los actos y resoluciones definitivos que emita la Dirección General y someter a consideración de su superior jerárquico el proyecto de resolución;
+I. Proponer al Director General las directrices, criterios de análisis y evaluación cuantitativa y cualitativa de los Informes de Avance de Gestión Financiera, Cuenta Pública e información complementaria para la elaboración del proyecto del Programa anual de auditorías, visitas, revisiones e inspecciones;
 
-XX.- Actualizar el importe de los daños y perjuicios contenidos en el pliego definitivo de responsabilidades resarcitorias en la forma y términos que establezca la Legislación fiscal;
+II. Participar en el proceso de planeación general de las auditorías que habrán de efectuarse conforme al Programa anual de auditorías, visitas, revisiones e inspecciones, visitas, revisiones e inspecciones (sic), que se presentará al Auditor Superior para su aprobación;
 
-XXI.- Proponer a su superior jerárquico los servidores públicos que realizarán las notificaciones de los asuntos de su competencia;
+III. Coordinar la recepción del Informe de Avance de Gestión Financiera y la Cuenta Pública de las entidades fiscalizadas de su competencia;
 
-XXII.- Formular los estudios, investigaciones, proyectos, análisis y demás documentos que sean necesarios para el mejor funcionamiento de la Dirección General;
+IV. Celebrar la reunión de confronta y elaborar el acta correspondiente;
 
-XXIII.- Dar seguimiento al avance y cumplimiento del Programa Operativo Anual y elaborar los reportes e informes correspondientes;
+V. Supervisar la elaboración del Informe del Resultado de la Revisión, pliegos de observaciones y recomendaciones y presentarlos al Director General;
 
-XXIV.- Participar en el proceso de entrega recepción de los titulares de las Entidades fiscalizadas de su competencia;
+VI. Coordinar la elaboración y dar seguimiento a los pliegos de observaciones y de recomendaciones;
 
-XXV.- Supervisar y controlar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables;
+VII. Analizar y resguardar la información y documentación que las entidades fiscalizadas presenten en respuesta a las observaciones y recomendaciones formuladas;
 
-XXVI.- Coordinar y participar en los trabajos sobre las modificaciones y actualizaciones a los lineamientos técnicos y criterios para las auditorías y su seguimiento, así como a los procedimientos, métodos, guías y sistemas necesarios para la fiscalización e integración de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera;
+VIII. Dar seguimiento a las acciones derivadas de la fiscalización, proponiendo las estrategias para su optimización;
 
-XXVII.- Elaborar y mantener actualizados los manuales administrativos que se requieran, para la debida organización y funcionamiento de la Dirección General, presentándolos a su superior jerárquico;
+IX. Someter a consideración del Director General la promoción de Responsabilidad Administrativa Sancionatoria, derivada de la fiscalización y, en su caso, ejercer la acción legal correspondiente;
 
-XXVIII.- Proporcionar a las unidades administrativas, la información, documentación, datos, informes, asesorías o colaboración que le requieran, previa instrucción del titular de la Dirección General; y
+X. Elaborar y presentar al Director General los oficios relativos a las medidas de apremio impuestas a las entidades fiscalizadas;
 
-XXIX.- Las demás que señale el presente Reglamento o el Director General.
+XI. Elaborar el Dictamen técnico e integrar el expediente que será remitido a la Dirección General de Asuntos Jurídicos, verificando que contenga las evidencias suficientes, competentes, relevantes y pertinentes que acrediten las irregularidades referidas en el dictamen;
+
+XII. Tramitar e instruir el recurso de revocación interpuesto en contra de los actos y resoluciones definitivos que emita la Dirección General y someter a consideración de su superior jerárquico el proyecto de resolución;
+
+XIII. Actualizar el importe de los daños y perjuicios contenidos en el pliego definitivo de responsabilidades resarcitorias en la forma y términos que establezca la legislación fiscal;
+
+XIV. Proponer a su superior jerárquico los servidores públicos que realizarán las notificaciones de los asuntos de la competencia de la Dirección a su cargo;
+
+XV. Participar en el proceso de entrega recepción de los titulares de las entidades fiscalizadas de su competencia;
+
+XVI. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2014)</small>
 
 ###### Artículo 13.
 
-A la Dirección General de Inspección Técnica y Evaluación corresponde verificar que los proyectos, estudios, obras, acciones y servicios de las Entidades fiscalizadas, se hayan planeado, realizado, ejecutado o prestado de acuerdo a las metas y especificaciones programadas y autorizadas y de conformidad a los procedimientos establecidos; para el desempeño de sus atribuciones y obligaciones contará con las siguientes direcciones:
+La Dirección General de Auditoría Sobre el Desempeño para el desarrollo de sus atribuciones y obligaciones, contará con la Dirección de Desempeño a cuyo titular compete:
 
-A).- Dirección de Planeación y Seguimiento, a cuyo titular compete:
+I. Coordinar la elaboración del Programa Operativo Anual de la Dirección General de Auditoría sobre Desempeño y someterlo a la consideración del Director General;
 
-I.- Coordinar la elaboración del Programa Operativo Anual de la Dirección General, así como las adecuaciones y modificaciones correspondientes;
+II. Recabar la información que corresponda a la Dirección General para la elaboración del anteproyecto de Presupuesto Anual de Egresos de la Auditoría Superior;
 
-II.- Coadyuvar con su superior jerárquico en la integración de la información relativa al anteproyecto de Presupuesto Anual de Egresos de la Auditoría Superior;
+III. Sugerir al Director General las auditorías sobre el desempeño que deberán practicarse y que se someterán a consideración del Auditor Superior para su inclusión en el Programa anual de auditorías, visitas, revisiones e inspecciones, así como el personal que intervendrá en las mismas;
 
-III.- Controlar, analizar y resguardar la documentación relativa a los Informes de Avance de Gestión Financiera y de las Cuentas Públicas que presenten las Entidades fiscalizadas;
+IV. Proponer al Director General los procedimientos, métodos y sistemas relativos a las auditorías sobre el desempeño;
 
-IV.- Planear las auditorías conforme al análisis de los Informes de Avance de Gestión Financiera, de las Cuentas Públicas y demás información e integrar el Programa Anual de Auditorías, que se presentará al Auditor Superior para su aprobación, proponer al personal que intervendrá en ellas y, en su caso, llevar el registro de las modificaciones que se efectúen al respecto;
+V. Diseñar los indicadores necesarios para la fiscalización de las Cuentas Públicas y los Informes de Avance de Gestión Financiera y someterlos a la aprobación del Director General, mismos que deberán ser autorizados por el Auditor Superior;
 
-V.- Elaborar y presentar al Director General los oficios relativos a las medidas de apremio impuestas a las entidades fiscalizadas por la omisión, deficiencias o entrega extemporánea de los Informes de Avance de Gestión Financiera, de las Cuentas Públicas y demás documentación necesaria para la planeación de las auditorías;
+VI. Practicar auditorías sobre el desempeño con el objeto de evaluar el cumplimiento de los objetivos contenidos en los programas, verificando la eficiencia, eficacia y economía de los mismos, así como el cumplimiento de las metas con base en los indicadores autorizados;
 
-VI.- Analizar y resguardar la información y documentación que las Entidades fiscalizadas presenten en respuesta a las observaciones y recomendaciones formuladas;
+VII. Verificar que los Informes Previos, de Resultados, así como los pliegos de recomendaciones cumplan con la normatividad;
 
-VII.- Recibir de la Dirección de Inspección Técnica, los expedientes de las auditorías practicadas para su control y seguimiento;
+VIII. Verificar la integración de los expedientes técnicos que se remitirán a la Dirección General de Asuntos Jurídicos para la promoción de las acciones legales correspondientes;
 
-VIII.- Elaborar el dictamen técnico e integrar el expediente que será remitido a la Dirección General de Asuntos Jurídicos, debidamente soportados con las evidencias suficientes, competentes, relevantes y pertinentes que acrediten las irregularidades detectadas en las auditorías derivadas de la fiscalización;
+IX. Formular los proyectos de estudio, opiniones, dictámenes, informes y demás documentos que le sean requeridos por el Director General;
 
-IX.- Tramitar e instruir el recurso de revocación interpuesto en contra de los actos y resoluciones definitivos que emita la Dirección General y someter a consideración de su superior jerárquico el proyecto de resolución;
+X. Supervisar y controlar que la información y documentación generada por la Dirección General con motivo del ejercicio de sus funciones, se archive de conformidad con las disposiciones legales aplicables; y
 
-X.- Actualizar el importe de los daños y perjuicios contenidos en el pliego definitivo de responsabilidades resarcitorias en la forma y términos que establezca la legislación fiscal;
+XI. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
 
-XI.- Proponer a su superior jerárquico los servidores públicos que realizarán las notificaciones de los asuntos de su competencia;
-
-XII.- Formular los estudios, investigaciones, proyectos, análisis y demás documentos que sean necesarios para el mejor funcionamiento de la Dirección General;
-
-XIII.- Dar seguimiento al avance y cumplimiento del Programa Operativo Anual y elaborar los reportes e informes correspondientes;
-
-XIV.- Participar en el proceso de entrega recepción de los titulares de las entidades fiscalizadas de su competencia;
-
-XV.- Supervisar y controlar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables;
-
-XVI.- Coordinar y participar en los trabajos sobre las modificaciones y actualizaciones a los lineamientos técnicos y criterios para las auditorías y su seguimiento, así como a los procedimientos, métodos, guías y sistemas necesarios para la fiscalización e integración de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera;
-
-XVII.- Elaborar y mantener actualizados los manuales administrativos que se requieran, para la debida organización y funcionamiento de la Dirección General, presentándolos a su superior jerárquico;
-
-XVIII.- Proporcionar a las unidades administrativas, la información, documentación, datos, informes, asesorías o colaboración que le requieran, previa instrucción del titular de la Dirección General; y
-
-XIX.- Las demás que señale el presente Reglamento o el Director General.
-
-B).- Dirección de Inspección Técnica, a cuyo titular compete:
-
-I.- Coadyuvar en la elaboración del Programa Anual de Auditorías de la Entidad de fiscalización;
-
-II.- Coordinar la práctica de auditorías a la Cuenta Pública y a los procesos reportados como concluidos en los Informes de Avance de Gestión Financiera de las Entidades fiscalizadas, conforme al Programa Anual de Auditorías aprobado;
-
-III.- Verificar si los ingresos públicos recaudados por las Entidades fiscalizadas, fueron obtenidos, registrados, administrados, manejados, aplicados, ejercidos y custodiados de conformidad con las disposiciones jurídicas aplicables y conforme a los planes, presupuestos y programas autorizados;
-
-IV.- Revisar que la contratación, registro, reestructuración, administración, y pago por concepto de deuda pública, se realizaron conforme a lo previsto y en cumplimiento de las disposiciones jurídicas aplicables en la materia;
-
-V.- Verificar que los egresos de las Entidades fiscalizadas, se encuentren debidamente registrados en su contabilidad, justificados y comprobados conforme a los ordenamientos legales aplicables, asimismo que se hayan ajustado a lo presupuestado y aplicado al fin establecido;
-
-VI.- Practicar auditorías sobre el desempeño para evaluar el cumplimiento de los objetivos y metas establecidos en los planes y programas, conforme a los indicadores aprobados y demás normatividad aplicable, verificando el desempeño de los mismos y la legalidad en el uso de los recursos públicos, conforme a las disposiciones jurídicas aplicables;
-
-VII.- Analizar el contenido de las actas circunstanciadas que se hayan formulado durante el desarrollo de las auditorías o visitas domiciliarias practicadas y comunicar de ello al Director General;
-
-VIII.- Obtener durante el desarrollo de las auditorías a su cargo, copia certificada de los documentos relacionados con la fiscalización, que garanticen el soporte adecuado de las irregularidades detectadas;
-
-IX.- Supervisar la elaboración del Informe Previo de la Revisión, del Informe del Resultado de la Revisión, pliegos de observaciones y recomendaciones y presentarlos al Director General;
-
-X.- Elaborar y presentar al Director General los oficios relativos a las medidas de apremio impuestas a las entidades fiscalizadas durante el desarrollo de las auditorías;
-
-XI.- Celebrar la reunión de confronta y elaborar el acta correspondiente;
-
-XII.- Proponer a su superior jerárquico los servidores públicos que realizarán las notificaciones de los asuntos de su competencia;
-
-XIII.- Coadyuvar en la integración de los expedientes de las auditorías practicadas;
-
-XIV.- Practicar las auditorías solicitadas por la Auditoría Superior de la Federación y elaborar los informes correspondientes;
-
-XV.- Formular los estudios, investigaciones, proyectos, análisis y demás documentos que sean necesarios para el mejor funcionamiento de la Dirección General;
-
-XVI.- Supervisar y controlar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables;
-
-XVII.- Participar en los trabajos sobre las modificaciones y actualizaciones a los lineamientos técnicos y criterios para las auditorías y su seguimiento, así como a los procedimientos, métodos, guías y sistemas necesarios para la fiscalización e integración de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera;
-
-XVIII.- Proporcionar a las unidades administrativas, la información, documentación, datos, informes, asesorías o colaboración que le requieran, previa instrucción del titular de la Dirección General; y
-
-XIX.- Las demás que señale el presente Reglamento o el Director General.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2014)</small>
 
 ###### Artículo 14.
 
 La Dirección General de Asuntos Jurídicos, para el desempeño de sus atribuciones y obligaciones contará con las siguientes direcciones:
 
-A.- Dirección de lo Contencioso, a cuyo titular compete:
+A. Dirección Jurídica, a cuyo titular compete:
 
-I.- Ejercer en el ámbito de su competencia las acciones que correspondan en los juicios y procedimientos civiles, penales, administrativos, laborales o de cualquier otra índole en que la Auditoría Superior sea parte, contestar demandas, presentar pruebas y formular alegatos y dar el debido seguimiento a dichos procesos y juicios, en representación de la Auditoría Superior;
+I. Ejercer en representación de la Auditoría Superior y, en el ámbito de su competencia, las acciones civiles, administrativas o de cualquier otra índole en los juicios y procedimientos en que ésta sea parte, promover y contestar demandas, presentar pruebas, absolver posiciones y formular alegatos, interponer toda clase de recursos y dar el debido seguimiento a dichos juicios, hasta que se cumplimenten las resoluciones que en ellos se dicten; y, presentar denuncias o querellas penales cuando se afecte el patrimonio de la Auditoría Superior o en las que tenga interés jurídico;
 
-II.- Revisar el dictamen técnico y expediente que remitan las áreas auditoras y, en su caso, proponer su devolución cuando no se encuentren debidamente soportados con las evidencias suficientes, competentes, relevantes y pertinentes que acrediten las irregularidades detectadas en las auditorías practicadas, con la finalidad de estar en posibilidad de que se ejerzan las acciones legales correspondientes, formulando las observaciones respectivas;
+II. Representar legalmente al Auditor Superior, a la Auditoría Superior y a los Titulares de Unidades Administrativas ante la Junta Local de Conciliación y Arbitraje en los conflictos que se susciten con motivo de la aplicación de la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados, del Estado de Hidalgo, en su caso, formular demandas de terminación de la relación laboral de los servidores públicos de la institución, contestar demandas laborales, formular y absolver pliegos de posiciones y presentar todas aquellas promociones que se requieran en el curso de los procedimientos;
 
-III.- Substanciar el procedimiento administrativo disciplinario, derivado del incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado, así como el procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere la Ley, presentando al Director General el proyecto de resolución correspondiente y, en su caso, el pliego definitivo de responsabilidades, dando seguimiento a la ejecución de las sanciones impuestas por la Auditoría Superior;
+III. Asesorar al Auditor Superior y a las unidades administrativas de la Auditoría Superior, en aspectos legales concretos relacionados con las funciones que les competen;
 
-IV.- Tramitar, instruir y resolver el recurso de revocación interpuesto en contra de las resoluciones definitivas derivadas de los procedimientos que haya sustanciado;
+IV. Orientar jurídicamente, a petición de las áreas auditoras, sobre la formulación de los Informes Previos y del Resultado de la fiscalización de la Cuenta Pública, pliegos de observaciones y dictámenes técnicos que emitan;
 
-V.- Formular el oficio mediante el cual se solicita a la Secretaría de Finanzas y Administración del Gobierno del Estado o a las Tesorerías Municipales, la instauración del procedimiento administrativo de ejecución;
+V. Intervenir y asesorar, cuando lo soliciten las áreas auditoras, en el levantamiento de las actas circunstanciadas que se requieran durante el proceso de fiscalización o por el incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado;
 
-VI.- Llevar el registro de los servidores y ex servidores públicos, particulares, personas físicas o morales sancionados por resolución definitiva firme, haciéndolo del conocimiento de las instancias de control competentes;
+VI. Atender las solicitudes de información en el ámbito de competencia de la Dirección General y remitir las respuestas oportunamente a la Unidad de Información Pública Gubernamental de la Auditoría Superior del Estado;
 
-VII.- Recibir, atender y dar seguimiento a las quejas y denuncias que se presenten ante la Auditoría Superior, practicando las investigaciones correspondientes dentro del ámbito de la entidad de fiscalización;
+VII. Asesorar en materia jurídica en la celebración de convenios de coordinación o colaboración en los que participe la Auditoría Superior con los Poderes de la Unión, los Poderes de los Estados, órganos constitucionalmente autónomos, legislaturas locales, la Asamblea Legislativa del Distrito Federal, las entidades de fiscalización superior de las legislaturas locales y de la Asamblea Legislativa del Distrito Federal, municipios y órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, así como con los organismos nacionales e internacionales que agrupen a entidades de fiscalización superior homólogas, o con éstas directamente, con el sector privado y con los colegios de profesionales, instituciones académicas e instituciones de reconocido prestigio de carácter multinacional, con apego a las disposiciones jurídicas aplicables.
 
-VIII.- Elaborar los proyectos de denuncias penales o de juicio político y promover las acciones de responsabilidad a que se refieren los Artículos 27 fracción III y 70 fracción XXI de la Ley, con apoyo en los dictámenes técnicos respectivos elaborados por sus titulares y proceder a su presentación una vez que hayan sido autorizados por el Auditor Superior;
+VIII. Promover y proponer a su superior jerárquico, la celebración de convenios de coordinación y colaboración con las instancias de control interno de las entidades fiscalizadas para fortalecer el Sistema Nacional de Fiscalización;
 
-IX.- Informar a los titulares de las áreas auditoras, el resultado final de las acciones legales promovidas en relación con las irregularidades contenidas en los dictámenes técnicos remitidos;
+IX. Practicar auditorías de legalidad conforme al Programa anual de auditorías, visitas, revisiones e inspecciones autorizado, con el objeto de comprobar que los actos y procedimientos administrativos relativos a la gestión financiera de las entidades fiscalizadas se instruyeron, tramitaron o ejecutaron en apego a las disposiciones legales aplicables;
 
-X.- Instruir la elaboración de los informes previos y justificados que deba rendir la Auditoría Superior en los juicios de amparo, intervenir en su representación cuando tenga el carácter de tercero perjudicado y, en general, formular todas las promociones que se refieran a dichos juicios;
+X. Obtener durante el desarrollo de las auditorías a su cargo, copia certificada de los documentos que soporten los hallazgos;
 
-XI.- Proponer a su superior jerárquico los servidores públicos que realizarán las notificaciones de los asuntos de su competencia;
+XI. Formular los proyectos de los Informes Previos de la Revisión, de los Informes del Resultado de la Revisión, de los pliegos de observaciones y de recomendaciones y someterlos a consideración del Director General;
 
-XII.- Supervisar y controlar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables; y
+XII. Llevar a cabo las reuniones a que se refiere el artículo 18 de la Ley;
 
-XIII.- Las demás que señale el presente Reglamento o el Director General.
+XIII. Elaborar el dictamen técnico y presentarlo al Director General para su aprobación, e integrar el expediente técnico para el ejercicio de las acciones legales que procedan;
 
-B.- Dirección de Asesoría, a cuyo titular compete:
+XIV. Analizar la información que presenten las entidades fiscalizadas para la atención del Informe Previo de la Revisión y de los pliegos de observaciones y de recomendaciones con motivo de las auditorías que practique;
 
-I.- Coordinar la elaboración del Programa Operativo Anual de la Dirección General, así como las adecuaciones y modificaciones correspondientes;
+XV. Recibir, atender y dar seguimiento a las quejas y denuncias que se presenten ante la Auditoría Superior, practicando dentro del ámbito de competencia las investigaciones correspondientes;
 
-II.- Coadyuvar con su superior jerárquico en la integración de la información relativa al anteproyecto de Presupuesto Anual de Egresos de la Auditoría Superior;
+XVI. Llevar a cabo la investigación, tramitación y sustanciación del procedimiento administrativo disciplinario, derivado del incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado, presentando al Director General el proyecto de resolución correspondiente;
 
-III.- Analizar los aspectos legales concretos que le soliciten las unidades administrativas contenidos en los oficios, informes y demás documentación que generen en uso de sus atribuciones; así como el de los manuales, lineamientos, guías, circulares, acuerdos y otras disposiciones administrativas que emita la entidad de fiscalización;
+XVII. Tramitar, instruir, elaborar y someter a consideración del Director General el proyecto de resolución del recurso de revocación interpuesto por los servidores públicos del Congreso del Estado;
 
-IV.- Formular los estudios, proyectos e investigaciones que competan a la entidad de fiscalización, así como aquellos que sean necesarios para el mejor funcionamiento de la Dirección General;
+XVIII. Elaborar y presentar al Director General para su autorización los informes previos y justificados que deba rendir la Auditoría Superior en los juicios de amparo promovidos por los servidores públicos del Congreso del Estado, derivados de los procedimientos administrativos disciplinarios; intervenir en su representación cuando tenga el carácter de tercero perjudicado y, en general, formular todas la promociones que se refieran a dichos juicios;
 
-V.- Participar en el levantamiento de actas administrativas al interior de la Entidad de fiscalización y coordinar la asesoría que para tal efecto requieran las áreas auditoras;
+XIX. Proponer a su superior jerárquico los servidores públicos que realizarán las notificaciones de los asuntos de su competencia;
 
-VI.- Recibir, custodiar y dar seguimiento a las declaraciones de situación patrimonial de los servidores públicos de los Municipios y del Congreso del Estado, obligados en términos de la Ley; así como elaborar los manuales, formatos e instructivos, conforme a los cuales deberán presentarla;
+XX. Controlar y actualizar el registro público de los servidores públicos, particulares, personas físicas o morales, públicas o privadas, sancionados por resolución definitiva firme, a través del procedimiento para el fincamiento de responsabilidades resarcitorias a que hace referencia la Ley o mediante el procedimiento administrativo disciplinario;
 
-VII.- Proponer y someter a la consideración de su superior jerárquico los proyectos de reformas y/o adiciones al presente Reglamento;
+XXI. Registrar las recuperaciones y resarcimientos, derivados de los procedimientos instruidos por la Auditoría Superior, así como las multas impuestas por la Dirección General;
 
-VIII.- Compilar las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones federales, estatales y municipales relacionadas con la fiscalización y verificar su actualización;
+XXII. Proponer y coordinar el diseño, implementación y actualización de un Sistema Integral de Información Automatizada, que permita conocer en línea el seguimiento y atención de las acciones y medidas de apremio emitidas por la Auditoría Superior;
 
-IX.- Coordinar la elaboración de los convenios de coordinación y colaboración en los que participe la Auditoría Superior con los Poderes de la Unión, Auditoría Superior de la Federación, autoridades Federales, Estatales y Municipales, así como con entidades de fiscalización homólogas y con personas físicas o morales, con apego a las disposiciones jurídicas aplicables;
+XXIII. Formular los estudios, opiniones, dictámenes, informes y demás documentos que les sean requeridos por su superior jerárquico;
 
-X.- Elaborar y mantener actualizados los manuales administrativos que se requieran, para la debida organización y funcionamiento de la Dirección General, presentándolos a su superior jerárquico;
+XXIV. Supervisar y controlar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables; y
 
-XI.- Supervisar y controlar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables; y
+XXV. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
 
-XII.- Las demás que señale el presente Reglamento o el Director General.
+B. Dirección de Responsabilidades, a cuyo titular compete:
+
+I. Representar legalmente a la Auditoría Superior del Estado ante las autoridades judiciales y administrativas federales y estatales, atender los requerimientos relacionados con los procedimientos administrativos resarcitorios o las denuncia (sic) penales presentadas como consecuencia de los resultados de la fiscalización de las cuentas públicas; ofrecer pruebas, absolver posiciones, formular alegatos, interponer toda clase de recursos y dar el debido seguimiento a dichos juicios, hasta su total conclusión;
+
+II. Revisar el expediente técnico que remitan las áreas auditoras para el ejercicio de las acciones legales correspondientes y, en su caso, proponer su devolución formulando las observaciones respectivas cuando las irregularidades no sean precisas o no se encuentren debidamente soportadas con evidencias suficientes, competentes, relevantes y pertinentes;
+
+III. Sustanciar el procedimiento de responsabilidad resarcitoria a que se refiere la Ley, presentando al Director General el proyecto de resolución correspondiente y, en su caso, el pliego definitivo de responsabilidades;
+
+IV. Tramitar, elaborar y someter a consideración del Director General el proyecto de resolución del recurso de revocación interpuesto en contra de las resoluciones definitivas derivadas de los procedimientos que haya sustanciado;
+
+V. Dar seguimiento a la ejecución de las sanciones impuestas por la Auditoría Superior y, en su caso, solicitar a la Secretaría de Finanzas y Administración del Gobierno del Estado o a las Tesorerías Municipales, la instauración del procedimiento administrativo de ejecución, previa autorización del Director General;
+
+VI. Elaborar y someter a consideración del Director General los proyectos de denuncias penales, de juicio político o de las acciones de responsabilidad administrativa disciplinaria a que se refieren los artículos 27 fracción III y 70 fracción XXI de la Ley de la Auditoría Superior del Estado de Hidalgo, dando el trámite y seguimiento puntual a dichas acciones, una vez que hayan sido autorizadas por el Auditor Superior;
+
+VII. Proyectar y presentar al Director General para su autorización, los informes previos y justificados que deba rendir la Auditoría Superior en los juicios de amparo relacionados con los procedimientos administrativos resarcitorios; intervenir en su representación cuando tenga el carácter de tercero perjudicado y, en general, formular todas las promociones que se refieran a dichos juicios;
+
+VIII. Recibir, atender y dar seguimiento a las quejas y denuncias a que se refieren los artículos 56 bis fracción III párrafo segundo de la Constitución Política del Estado de Hidalgo y 25 de la Ley de la Auditoría Superior del Estado;
+
+IX. Proporcionar a la Dirección Jurídica, la información necesaria para mantener actualizado el registro de los servidores y ex servidores públicos, particulares, personas físicas o morales sancionados por resolución definitiva firme;
+
+X. Informar a los titulares de las áreas auditoras el resultado final de las acciones legales promovidas en relación con las irregularidades contenidas en los expedientes técnicos remitidos;
+
+XI. Proponer a su superior jerárquico los servidores públicos que realizarán las notificaciones de los asuntos de su competencia;
+
+XII. Formular los estudios, opiniones, dictámenes, informes y demás documentos que les sean requeridos por su superior jerárquico;
+
+XIII. Supervisar y controlar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables; y
+
+XIV. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
+
+C. Dirección de Normatividad, a cuyo titular compete:
+
+I. Elaborar y proponer al superior jerárquico el Proyecto del Programa Operativo Anual de la Dirección General, así como las adecuaciones y modificaciones correspondientes;
+
+II. Coadyuvar con su superior jerárquico en la integración de la información relativa al anteproyecto de Presupuesto Anual de Egresos de la Auditoría Superior;
+
+III. Analizar, revisar, formular y someter a consideración de su superior jerárquico, los proyectos de estudios, reformas, modificaciones o adiciones de leyes, decretos, reglamentos, manuales, circulares, acuerdos y demás normatividad interna que se requiera para la debida organización, funcionamiento y desempeño de las funciones de la Auditoría Superior;
+
+IV. Participar en la elaboración y, en su caso, presentación de estudios, proyectos e investigaciones que competan a la Auditoría Superior, en la forma y términos que determine el Director General;
+
+V. Compilar y difundir, con apoyo de la Dirección de Tecnología de la Información, las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones federales, estatales y municipales relacionadas con la fiscalización, así como verificar su actualización;
+
+VI. Proponer a su superior jerárquico los programas y cursos de formación, capacitación para elevar el nivel técnico y profesional del personal de la Dirección General, así como evaluar su desempeño conforme a las políticas y procedimientos establecidos en la Auditoría Superior;
+
+VII. Coadyuvar con la Dirección de Mejora Continua y Profesionalización en la integración, revisión permanente y actualización del marco normativo aplicable a los procedimientos de fiscalización de la Auditoría Superior;
+
+VIII. Verificar que los servidores públicos de la Auditoría Superior observen las disposiciones emitidas para la fiscalización de las Cuentas Públicas e informes de Avance de Gestión Financiera;
+
+IX. Expedir lineamientos sobre el levantamiento de las actas administrativas que se requieran durante el proceso de fiscalización o por el incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado;
+
+X. Coadyuvar en la mejora de la calidad de las funciones de las unidades administrativas, utilizando las mejores prácticas;
+
+XI. Participar en la organización y funcionamiento del sistema de gestión de la calidad en la Auditoría Superior;
+
+XII. Proponer a su superior jerárquico, conforme a los ordenamientos legales aplicables, la expedición, modificación y derogación de las normas y lineamientos para la guarda y conservación de la información y documentación obtenida en el ejercicio de las atribuciones del Órgano Técnico, así como para su baja para efectos de destrucción y custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente;
+
+XIII. Formular los estudios, opiniones, dictámenes, informes y demás documentos que les sean requeridos por su superior jerárquico;
+
+XIV. Supervisar y controlar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables; y
+
+XV. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO VI. De las atribuciones de las unidades administrativas adscritas al Despacho del Auditor Superior
 
@@ -769,45 +877,57 @@ XXI.- Acordar con el Auditor Superior la resolución de los asuntos cuya tramita
 
 XXII.- Las demás que señale la Ley, el presente Reglamento o el Auditor Superior.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2014)</small>
+
 ###### Artículo 16.
 
-El titular de la Dirección de Mejora Continua, tendrá las siguientes atribuciones:
+El titular de la Dirección de Mejora Continua y Profesionalización, tendrá las siguientes atribuciones:
 
-I.- Autorizar el Programa Operativo Anual de la unidad administrativa a su cargo y someter a consideración del Auditor Superior las adecuaciones y modificaciones correspondientes;
+I. Autorizar el Programa Operativo Anual de la unidad administrativa a su cargo y someter a consideración del Auditor Superior las adecuaciones y modificaciones correspondientes;
 
-II.- Proporcionar información relativa a los requerimientos de la Dirección a su cargo, para la elaboración del anteproyecto de Presupuesto Anual de Egresos de la Auditoría Superior;
+II. Proporcionar información relativa a los requerimientos de la Dirección a su cargo, para la elaboración del anteproyecto de Presupuesto Anual de Egresos de la Auditoría Superior;
 
-III.- Determinar el clima organizacional de la Auditoría Superior para la toma de decisiones;
+III. Determinar el clima organizacional de la Auditoría Superior para la toma de decisiones;
 
-IV.- Identificar áreas de oportunidad y proponer los indicadores y estrategias de mejora;
+IV. Identificar áreas de oportunidad y proponer los indicadores y acciones de mejora que permitan alcanzar los objetivos estratégicos de la Auditoría Superior;
 
-V.- Elaborar en coordinación con las unidades administrativas, el Programa Anual de Capacitación de la Auditoría Superior; así como diseñar las políticas, normas y procedimientos relativos a la misma, sometiéndolos a la aprobación del Auditor Superior;
+V. Realizar diagnósticos y estudios que coadyuven a mejorar los niveles de eficiencia de las diferentes áreas auditoras de la Auditoría Superior del Estado de Hidalgo;
 
-VI.- Proponer la contratación de expositores e instructores que impartirán los cursos contenidos en el Programa Anual de Capacitación de la Auditoría Superior;
+VI. Formular propuestas tendientes a homologar los procesos de fiscalización aplicables a nivel nacional y someterlas a consideración del Auditor Superior;
 
-VII.- Participar en la organización de los cursos y eventos de capacitación que se impartirán al personal de la Auditoría Superior y de las Entidades fiscalizadas;
+VII. Promover la innovación y mejora constante en los procesos de fiscalización a través del análisis, diseño y operación del Plan Estratégico de Innovación y Mejora al Proceso de Fiscalización;
 
-VIII.- Capacitar al personal de nuevo ingreso en las funciones de fiscalización que realiza la Auditoría Superior;
+VIII. Elaborar el Programa Anual de Capacitación de la Auditoría Superior;
 
-IX.- Evaluar al personal capacitado conforme a los lineamientos que al respecto se emitan y registrar los resultados obtenidos;
+IX. Proponer la contratación de expositores e instructores que impartirán los cursos contenidos en el Programa Anual de Capacitación de la Auditoría Superior;
 
-X.- Promover una comunicación permanente con los titulares de las unidades administrativas, a fin de conocer inquietudes, criterios y propuestas que contribuyan a una mejora constante en los resultados de sus actividades;
+X. Organizar los cursos y eventos de capacitación que se impartirán al personal de la Auditoría Superior y de las entidades fiscalizadas;
 
-XI.- Diseñar e instrumentar el sistema de gestión de calidad de la Auditoría Superior;
+XI. Capacitar al personal de nuevo ingreso en las funciones de fiscalización que realiza la Auditoría Superior;
 
-XII.- Coordinar los estudios e investigaciones en las materias relacionadas con la fiscalización y difundir sus resultados entre las distintas unidades administrativas del Órgano Técnico y en las entidades fiscalizadas;
+XII. Evaluar al personal capacitado conforme a los lineamientos que al respecto se emitan y registrar los resultados obtenidos;
 
-XIII.- Proponer al Auditor Superior los convenios de coordinación y colaboración a celebrarse con las entidades públicas o privadas, que contribuyan al cumplimiento de los objetivos y metas de la entidad de fiscalización;
+XIII. Diseñar e instrumentar el sistema de gestión de calidad de la Auditoría Superior;
 
-XIV.- Diseñar en coordinación con la Dirección de Administración los manuales de organización y de procedimientos de la Auditoría Superior sometiéndolos a consideración del Auditor Superior;
+XIV. Proponer al Auditor Superior los convenios de coordinación y colaboración a celebrarse con las entidades públicas o privadas, que contribuyan al cumplimiento de los objetivos y metas de la entidad de fiscalización;
 
-XV.- Elaborar el Código de Ética y presentarlo al Auditor Superior para su aprobación;
+XV. Establecer vínculos con instituciones nacionales e internacionales, que puedan contribuir a los propósitos de transparencia en la aplicación de recursos públicos y combate a la corrupción, mediante convenios específicos que precisen actividades y resultados a alcanzar;
 
-XVI.- Verificar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables que al respecto emita;
+XVI. Coadyuvar en la elaboración y actualización de los manuales administrativos que se requieran, para la debida organización y funcionamiento de la Auditoría Superior;
 
-XVII.- Acordar con el Auditor Superior la resolución de los asuntos cuya tramitación se encuentre dentro del ámbito de su competencia; y
+XVII. Proponer e implementar los programas de capacitación y desarrollo para mejorar la preparación técnica y profesional del personal de las áreas auditoras;
 
-XVIII.- Las demás que señale el presente Reglamento o el Auditor Superior.
+XVIII. Requerir a las áreas auditoras la información necesaria para mejorar la calidad de las revisiones a cargo de la Auditoría Superior;
+
+XIX. Coordinar la implementación y/o actualización de métodos, prácticas y tipos de auditoría, así como las actividades de seguimiento inherentes, de acuerdo a las tendencias de vanguardia en materia de fiscalización;
+
+XX. Atender los requerimientos de información relacionados con el Programa para la Fiscalización del Gasto Federalizado;
+
+XXI. Verificar que la información y documentación generada por la Dirección a su cargo o que se encuentre bajo su resguardo con motivo del ejercicio de sus atribuciones, se archive de conformidad con las disposiciones internas aplicables;
+
+XXII. Acordar con el Auditor Superior la resolución de los asuntos cuya tramitación se encuentre dentro del ámbito de su competencia; y
+
+XXIII. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 17.
 
@@ -919,9 +1039,11 @@ XIX.- Las demás que señale el presente Reglamento o el Auditor Superior.
 
 ### CAPÍTULO VII. De las facultades y obligaciones de los servidores públicos auxiliares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2014)</small>
+
 ###### Artículo 20.
 
-Corresponde a los supervisores u homólogos y auditores u homólogos de las áreas auditoras ejercer las siguientes facultades generales, sin perjuicio de lo dispuesto en los manuales de organización y procedimientos:
+Corresponde a los supervisores u homólogos y auditores u homólogos de las áreas auditoras las siguientes obligaciones y facultades generales, sin perjuicio de lo dispuesto en los manuales de organización y de procedimientos:
 
 I.- Realizar las auditorías, visitas, revisiones e inspecciones para las cuales sean comisionados conforme a las disposiciones aplicables y representar a la Auditoría Superior en lo concerniente a la comisión conferida;
 
@@ -933,17 +1055,31 @@ IV.- Investigar en el ámbito de su competencia los actos u omisiones que impliq
 
 V.- Levantar actas circunstanciadas sobre hechos relevantes relacionados con la fiscalización, conforme a las disposiciones que para tal efecto emitida (sic) la Auditoría Superior;
 
-VI.- Elaborar, organizar e integrar los expedientes con los papeles de trabajo correspondientes a cada auditoría;
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
 
-VII.- Participar en la elaboración de los Informes Previos, Informes del Resultado de la Revisión, pliegos de observaciones y de recomendaciones, derivados de las auditorías en que hubieren intervenido;
+VI. Analizar, para efectos de la planeación y ejecución de auditorías, la información derivada de la Cuenta Pública y de los Informes de Avance de Gestión Financiera que las entidades fiscalizadas presenten, requiriendo, en su caso, a través de los conductos legales correspondientes, la información adicional o complementaria que se requiera;
 
-VIII.- Coadyuvar en el análisis de la documentación e información que presenten las entidades fiscalizadas en relación al Informe Previo, Informe del Resultado de la Revisión y los pliegos de observaciones y de recomendaciones;
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
 
-IX.- Controlar y resguardar la documentación que tengan bajo su cuidado con motivo de sus funciones;
+VII. Recabar elementos que proporcionen información veraz sobre los hallazgos encontrados, así como evidencia suficiente, competente, relevante y pertinente;
 
-X.- Guardar estricta reserva y confidencialidad sobre las actuaciones, observaciones e información de que tengan conocimiento en el desempeño de sus actividades; y
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
 
-XI.- Las demás que le señale la Ley, el presente Reglamento y demás disposiciones apiicables (sic).
+VIII. Obtener, durante el desarrollo de las auditorías, el original o copia certificada de los documentos originales relacionados con las irregularidades encontradas;
+
+IX. Elaborar, organizar e integrar los expedientes con los papeles de trabajo correspondientes a cada auditoría;
+
+X. Participar en la elaboración de los Informes Previos, Informes del Resultado de la Revisión, pliegos de observaciones y de recomendaciones, derivados de las auditorías en que hubieren intervenido;
+
+XI. Coadyuvar en el análisis de la documentación e información que presenten las entidades fiscalizadas en relación al Informe Previo, Informe del Resultado de la Revisión y los pliegos de observaciones y de recomendaciones;
+
+XII. Controlar y resguardar la documentación que tengan bajo su cuidado con motivo de sus funciones;
+
+XIII. Guardar estricta reserva y confidencialidad sobre las actuaciones, observaciones e información de que tengan conocimiento en el desempeño de sus actividades; y
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+
+XIV. Las demás que señale la Ley, el presente Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO VIII. De la suplencia de los servidores públicos de la Auditoría Superior
 
@@ -972,3 +1108,11 @@ Dado en la ciudad de Pachuca de Soto, Hidalgo, a los 27 veintisiete días del me
 C.P. JOSÉ RODOLFO PICAZO MOLINA
 
 AUDITOR SUPERIOR DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MARZO DE 2014.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Hidalgo.
