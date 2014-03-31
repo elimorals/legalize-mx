@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2014-03-12"
+last_updated: "2014-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -2009,7 +2009,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
-TERCERO.- El personal que a la entrada en vigor del presente Decreto se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere esta Ley. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere este Decreto, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2014)</small>
+
+TERCERO.- El personal que a la entrada en vigor de la Ley General del Servicio Profesional Docente se encontraba en servicio y contaba con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere este Decreto. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere este Decreto, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
 El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización, será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según corresponda.
 
@@ -2026,3 +2028,9 @@ III.- Obtenga resultados insuficientes en el tercer proceso de evaluación previ
 QUINTO.- La Autoridad Educativa Estatal emitirá o propondrán a la instancia correspondiente para su aprobación, en su caso, las disposiciones normativas derivadas de este Decreto.
 
 SEXTO.- La Autoridad Educativa Estatal respetará los derechos de los trabajadores de la educación y reconoce la titularidad de las relaciones laborales colectivas de su Organización Sindical en los términos de su registro vigente.
+
+P.O. 31 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
