@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2013-05-24"
+last_updated: "2014-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2014.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -505,7 +505,9 @@ I. Representar legalmente a la Comisión y a su Director General, ante los tribu
 
 II. Defender los intereses jurídicos de la Comisión y representarla en los juicios, procedimientos y recursos administrativos, judiciales, laborales o arbitrales en que sea parte o tenga interés jurídico. Estas facultades también podrán ejercerlas el Gerente de Asuntos Contenciosos y los titulares de las Áreas Administrativas Regionales. El Gerente de Relaciones Laborales también podrá ejercerlas en el ámbito de su competencia.
 
-III. Fungir como órgano jurídico central para homologar los criterios, normas, principios y procedimientos en todas las áreas jurídicas de la Comisión; coordinar todas las áreas jurídicas regionales y de las propias Direcciones de la Comisión y apoyar en la atención de los asuntos de carácter jurídico en que intervenga la Comisión para el cumplimiento de su objeto.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2014)</small>
+
+III. Fungir como órgano jurídico central para homologar los criterios, normas, principios y procedimientos en todas las áreas jurídicas de la Comisión; coordinar todas las áreas jurídicas regionales y de las propias Direcciones de la Comisión y apoyar en la atención de los asuntos de carácter jurídico en que intervenga la Comisión para el cumplimiento de su objeto. Las unidades jurídicas de cualquier naturaleza en la Comisión, dependerán funcionalmente de la Oficina del Abogado General.
 
 IV. Establecer los criterios para prevenir problemas jurídicos en las servidumbres legales, vigilar el otorgamiento de los títulos de propiedad y establecer un registro inmobiliario de la Comisión que se regirá conforme a lo previsto en el manual de procedimientos que para tal efecto expida.
 
@@ -2219,63 +2221,43 @@ Los Departamentos Jurídicos de las Areas Administrativas Regionales están facu
 
 ### Capítulo IX. Del Organo Interno de Control
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2014)</small>
 
 ###### Artículo 54.
 
-La Comisión cuenta con un Organo Interno de Control, al frente del cual habrá un Titular designado en términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, quien ejercerá las facultades previstas en el artículo 79 del Reglamento Interior de la Secretaría de la Función Pública.
+La Comisión cuenta con un Órgano Interno de Control, al frente del cual habrá un Titular designado en términos de los artículos 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y, Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, quien ejercerá las facultades previstas en el artículo 79 del Reglamento Interior de la Secretaría de la Función Pública.
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+Asimismo, cuenta con un Titular del Área de Responsabilidades y de Quejas y con un Titular del Área de Auditoría para el Desarrollo y Mejora de la Gestión Pública, designados en los mismos términos del párrafo anterior, quienes ejercerán las facultades previstas en las fracciones, I y III; y II, inciso b), respectivamente, del artículo 80 del Reglamento Interior de la Secretaría de la Función Pública.
 
-Asimismo, cuenta con un Titular del Area de Responsabilidades y con un Titular del Area de Auditoría para Desarrollo y Mejora de la Gestión Pública, designados en los mismos términos del párrafo anterior, quienes ejercerán las facultades previstas en las fracciones, I y II inciso b), respectivamente, del artículo 80 del Reglamento Interior de la Secretaría de la Función Pública.
+A su vez, contará con un Titular del Área de Auditoría Interna "A" y un Titular del Área de Auditoría Interna "B" que designe el Secretario de la Función Pública, en términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación del 2 de enero de 2013, quienes ejercerán las facultades previstas en la fracción II, inciso a), del artículo 80 del Reglamento Interior de la Secretaría de la Función Pública.
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-A su vez, contará con cuantos Titulares del Area de Auditoría Interna y Titulares del Area de Quejas designe el Secretario de la Función Pública en términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, quienes ejercerán las facultades previstas en las fracciones II, inciso a) y III, respectivamente, del artículo 80 del Reglamento Interior de la Secretaría de la Función Pública.
-
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-Los Titulares del Area de Auditoría Interna y los Titulares del Area de Quejas designados en los términos del párrafo anterior, ejercerán sus facultades en la sede del Organo Interno de Control o en sus oficinas regionales que se encuentran distribuidas en el país, las cuales se ubicarán en un ámbito territorial que comprenda al menos una de las Areas Administrativas Regionales de la Comisión Federal de Electricidad establecidas conforme al artículo 52, fracción III, de este Estatuto.
-
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-El ámbito de competencia de los Titulares del Area de Auditoría Interna y de los Titulares del Area de Quejas que ejerzan sus funciones en las oficinas regionales, comprenderá a todas las Areas Administrativas establecidas en el artículo 52 de este Estatuto que se encuentren en su circunscripción.
-
-> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2014)</small>
 
 ###### Artículo 55.
 
 El Órgano Interno de Control queda conformado por las siguientes unidades administrativas:
 
-I. Organo Interno de Control.
+I. Órgano Interno de Control.
 
-II. Area de Auditoría Interna.
+II. Área de Auditoría Interna "A".
 
-III. Area de Responsabilidades.
+III. Área de Auditoría Interna "B".
 
-IV. Area de Quejas.
+IV. Área de Responsabilidades y de Quejas.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+V. Área de Auditoría para el Desarrollo y Mejora de la Gestión Pública.
 
-V. Area de Auditoría para Desarrollo y Mejora de la Gestión Pública.
-
-VI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-VII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-VIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2014)</small>
 
 ###### Artículo 56.
 
-Los Titulares del Area de Auditoría Interna se auxiliarán de una Subgerencia de Normatividad de Operación y Construcción, del personal adscrito a dicha Area y del demás personal adscrito a las oficinas regionales del Organo Interno de Control, en términos de lo establecido en el artículo 82, primer párrafo del Reglamento Interior de la Secretaría de la Función Pública.
+El Titular del Área de Auditoría Interna "A", se auxiliará de tres Subgerencias: la de Coordinación de Auditoría a Regionales "A", la Coordinación de Auditoría a Regionales "B" y la de Auditoría a Oficinas Nacionales; de los Jefes de Departamento y de Oficina y así como del personal adscrito a dichas Áreas; y de los Jefes de Departamento y de Oficina, y demás personal adscrito a las oficinas regionales del Órgano Interno de Control, que dependen de las mismas, y que se encuentran distribuidas en el país, las cuales se ubican en un ámbito territorial que comprende al menos una de las áreas administrativas regionales de la Comisión, establecidas conforme al artículo 52, fracción III, de este Estatuto, actuando en términos de lo establecido en el artículo 82, primer párrafo, del Reglamento Interior de la Secretaría de la Función Pública.
 
-El Titular del Area de Auditoría para Desarrollo y Mejora de la Gestión Pública, se auxiliará del personal adscrito a dicha Area y del demás personal adscrito a las oficinas regionales del Organo Interno de Control, en términos del artículo 82, primer párrafo, del Reglamento Interior de la Secretaría de la Función Pública.
+El Titular del Área de Auditoría Interna "B", se auxiliará de dos Subgerencias: la de Supervisión de Procesos de Licitación y Cumplimiento de Contratos de Bienes y Servicios y la de Supervisión de Procesos de Licitación de Ejecución de Obras y Cumplimiento de Contratos; de los Jefes de Departamento y de Oficina y demás personal adscrito a dichas Áreas y de los Jefes de Departamento y de Oficina, y demás personal adscrito a la oficinas regionales del Órgano Interno de Control que dependen de las mismas y que se encuentran distribuidas en el país, las cuales se ubican en un ámbito territorial que comprende al menos una de las áreas administrativas regionales de la Comisión, establecidas conforme al artículo 52, fracción III, de este Estatuto, actuando en términos de lo establecido en el artículo 82, primer párrafo, del Reglamento Interior de la Secretaría de la Función Pública.
 
-Los Titulares del Area de Quejas se auxiliarán de una Subgerencia de Quejas y Denuncias, del personal adscrito a dicha Area y del demás personal adscrito a las oficinas regionales del Organo Interno de Control en términos del artículo 82, primer párrafo, del Reglamento Interior de la Secretaría de la Función Pública.
+El Titular del Área de Auditoría para Desarrollo y Mejora de la Gestión Pública, se auxiliará de dos Subgerencias: la de Procesos Sustantivos y la de Procesos Administrativos y del personal adscrito a dichas Áreas, actuando en términos del artículo 82, primer párrafo, del Reglamento Interior de la Secretaría de la Función Pública.
 
-El Titular del Area de Responsabilidades se auxiliará de las Subgerencias de Responsabilidades, de Inconformidades y de lo Contencioso y Conciliaciones, y demás personal adscrito a dicha Area en términos del artículo 82, primer párrafo, del Reglamento Interior de la Secretaría de la Función Pública.
+El Titular del Área de Responsabilidades y de Quejas, se auxiliará de tres Subgerencias: la de Responsabilidades, la de Inconformidades y Conciliaciones, y la de Quejas; de los Jefes de Departamento y de Oficina y demás personal adscrito a dichas Áreas y del personal adscrito a las oficinas regionales del Órgano Interno de Control que dependan de ellas y que se encuentran distribuidas en el país, las cuales se ubican en un ámbito territorial que comprende al menos una de las áreas administrativas regionales de la Comisión establecidas conforme al artículo 52, fracción III, de este Estatuto, actuando en términos del artículo 82, primer párrafo, del Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### Artículo 57.
 
@@ -2309,13 +2291,13 @@ Los Directores y el Abogado General serán suplidos, indistintamente, por los Su
 
 Los Subdirectores y los Coordinadores serán suplidos, indistintamente, por los Gerentes que de ellos dependan.
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2014)</small>
 
 ###### Artículo 61.
 
-Las ausencias del Titular del Organo Interno de Control serán suplidas, conforme a lo establecido en el párrafo segundo del artículo 88 del Reglamento Interior de la Secretaría de la Función Pública, en primer orden por el Titular del Area de Responsabilidades. En caso de ausencia de este último, las ausencias de aquél serán suplidas, en su orden, por el Titular del Area de Auditoría Interna que el propio Titular del Organo Interno de Control designe; por el Titular del Area de Auditoría para Desarrollo y Mejora de la Gestión Pública; y por el Titular del Area de Quejas que el Titular del Organo Interno de Control designe.
+Las ausencias del Titular del Órgano Interno de Control serán suplidas, conforme a lo establecido en el párrafo segundo del artículo 88 del Reglamento Interior de la Secretaría de la Función Pública, en primer orden por el Titular del Área de Responsabilidades y de Quejas. En caso de ausencia de este último, las ausencias de aquél serán suplidas, en su orden, por el Titular del Área de Auditoría Interna que el propio Titular del Órgano Interno de Control designe; y por el Titular del Área de Auditoría para Desarrollo y Mejora de la Gestión Pública.
 
-Las ausencias del Titular del Area de Responsabilidades, de los Titulares del Area de Auditoría Interna, del Titular de Auditoría para Desarrollo y Mejora de la Gestión Pública o de los Titulares del Area de Quejas, serán suplidas por el Titular de Area que el Titular del Organo Interno de Control designe en los términos previstos en el párrafo tercero del artículo 88 del Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del Titular del Área de Responsabilidades y de Quejas, de los Titulares de las Áreas de Auditoría Interna, del Titular de Auditoría para Desarrollo y Mejora de la Gestión, serán suplidas por el Titular de Área que el Titular del Órgano Interno de Control designe, en los términos previstos en el párrafo tercero del artículo 88 del Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### Artículo 62.
 
@@ -2410,3 +2392,9 @@ La presente reforma al Estatuto Orgánico de la Comisión Federal de Electricida
 D.O.F. 24 DE MAYO DE 2013.
 
 ÚNICO. Las presentes reformas al Estatuto Orgánico de la Comisión Federal de Electricidad entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE MARZO DE 2014.
+
+PRIMERO. Las presentes reformas al Estatuto Orgánico de la Comisión Federal de Electricidad entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que se encuentren en trámite en las Áreas que dirigen los Titulares de Auditoría Interna y Quejas en las oficinas regionales, serán atendidos y resueltos por los Titulares de Auditoría A y B, así como por el Titular de Responsabilidades y Quejas, de acuerdo a sus respectivas facultades y personal de apoyo, con fundamento en los artículos 82 del Reglamento Interior de la Secretaría de la Función Pública y segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación del 2 de enero de 2013.
