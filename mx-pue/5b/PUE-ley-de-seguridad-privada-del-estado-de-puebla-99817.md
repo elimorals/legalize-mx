@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2014-03-14"
+last_updated: "2014-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -265,15 +265,29 @@ II. Seguridad Privada en Investigación.- Se refiere a sistemas de prevención y
 
 III. Seguridad Privada en los Bienes.- Consiste en la prestación del servicio de custodia, cuidado, protección, y en su caso, localización de bienes muebles e inmuebles, comerciales o no comerciales;
 
-IV. Seguridad Privada a Personas.- Consiste en la protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal del prestatario;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
 
-V. Seguridad Privada de la Información.- Consiste en la preservación, integridad y disponibilidad de la información del prestatario, a través de sistemas de administración de seguridad de bases de datos, redes locales, corporativas y globales, sistemas de cómputo, transacciones electrónicas, así como respaldo y recuperación de dicha información, sea esta documental, electrónica o multimedia;
+IV. De vigilancia y protección a servicios de depósito de valores y efectivo, operaciones prendarias y de juegos y apuestas.- Consiste en la prestación del servicio de seguridad para usuarios de los mencionados servicios.
 
-VI. Servicios de alarmas y de monitoreo electrónico.- Consistente en la instalación de sistemas de alarmas y monitoreo en vehículos, casas, oficinas, empresas y en todo tipo de lugares que se quiera proteger o vigilar, a partir del aviso de los prestatarios, así como recibir y administrar las señales enviadas a la central de monitoreo por los sistemas, y en forma inmediata, dar aviso de las mismas, tanto a las autoridades correspondientes como a los usuarios de los sistemas y equipos, así como a los prestatarios;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
 
-VII. Actividad Vinculada con Servicios de Seguridad Privada.- Se refiere a la actividad relacionada directa o indirectamente con la instalación o comercialización de sistemas de blindaje en todo tipo de vehículos automotores y establecimientos, y de los equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados, y
+V. Seguridad Privada a Personas.- Consiste en la protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal del prestatario;
 
-VIII. Actividades relacionadas con consultoría en la materia.- Consistente en brindar asesoría en materia de análisis para la prevención de riesgos y vulnerabilidades.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+
+VI. Seguridad Privada de la Información.- Consiste en la preservación, integridad y disponibilidad de la información del prestatario, a través de sistemas de administración de seguridad de bases de datos, redes locales, corporativas y globales, sistemas de cómputo, transacciones electrónicas, así como respaldo y recuperación de dicha información, sea ésta documental, electrónica o multimedia;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+
+VII. Servicios de alarmas y de monitoreo electrónico.- Consistente en la instalación de sistemas de alarmas y monitoreo en vehículos, casas, oficinas, empresas y en todo tipo de lugares que se quiera proteger o vigilar, a partir del aviso de los prestatarios, así como recibir y administrar las señales enviadas a la central de monitoreo por los sistemas, y en forma inmediata, dar aviso de las mismas, tanto a las autoridades correspondientes como a los usuarios de los sistemas y equipos, así como a los prestatarios;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
+
+VIII. Actividad Vinculada con Servicios de Seguridad Privada.- Se refiere a la actividad relacionada directa o indirectamente con la instalación o comercialización de sistemas de blindaje en todo tipo de vehículos automotores y establecimientos, y de los equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2014)</small>
+
+IX. Actividades relacionadas con consultoría en la materia.- Consistente en brindar asesoría en materia de análisis para la prevención de riesgos y vulnerabilidades.
 
 Para la prestación del servicio se atenderán las restricciones que señale el Reglamento.
 
@@ -654,3 +668,11 @@ OCTAVO.- La Secretaría de Seguridad Pública, la Procuraduría General de Justi
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de marzo de dos mil catorce.- Diputada Presidenta.- SUSANA DEL CARMEN RIESTRA PIÑA.- Rúbrica.- Diputado Vicepresidente.- LEOBARDO SOTO MARTÍNEZ.- Rúbrica.- Diputada Secretaria.- MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO.- Rúbrica.- Diputado Secretario.- JULIÁN RENDÓN TAPIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de marzo de dos mil catorce.- El Gobernador Constitucional del Estado.- C RAFAEL MORENO VALLE ROSAS Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
