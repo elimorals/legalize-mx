@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-derecho-de-acceso-a-la-informacion-publica-44022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-04"
-last_updated: "2006-10-04"
+last_updated: "2014-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,39 @@ state: "NLE"
 ---
 # REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MONTERREY
 
-LEY NÚMERO 637 DE INGRESOS DEL MUNICIPIO DE PUENTE NACIONAL, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE Al EJERCICIO FISCAL DEL AÑO 2024
+REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
 
-Ley publicada en el Número Ext. 520 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 29 de diciembre de 2023.
+Reglamento publicado en el Periódico Oficial del Estado de Monterrey, el viernes 4 de marzo de 2005.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+C. Integrantes del R. Ayuntamiento de la Ciudad de Monterrey.
+
+La Comisión que suscribe, recibió para su estudio y dictamen a través de la Secretaría del R. Ayuntamiento, PROYECTO DE ABROGACIÓN al "REGLAMENTO DE DERECHO A LA INFORMACIÓN DEL MUNICIPIO DE MONTERREY" y expedición del "REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY"
+
+En atención a lo anterior, la Comisión de Gobernación y Reglamentación, en ejercicio de las facultades que le confieren los Artículos 115 de la Constitución Política de los Estados Unidos Mexicanos; 26 inciso a), fracción VII, de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, y los artículos 56 y 59, fracción I, del Reglamento Interior del R. Ayuntamiento de la Ciudad de Monterrey, presenta a este H. Cuerpo Colegiado, para su consideración y, en su caso, aprobación, el siguiente Dictamen:
+
+ANTECEDENTES:
+
+I. Conforme a lo establecido en el Artículo 71 del Reglamento Interior del R. Ayuntamiento, la Comisión de Gobernación y Reglamentación recibió del C. Presidente Municipal, por conducto de la Secretaría del R. Ayuntamiento, proyecto de Abrogación al "Reglamento de Derecho a la Información del Municipio de Monterrey" publicado en el Periódico Oficial del Estado número 62 de fecha 20 de mayo de 2002, y expedición del "Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey" para su adecuación con la "Ley de Acceso a la Información Pública", publicada en el Decreto 305 en el Periódico Oficial del Estado número 25, de fecha 21 de febrero de 2003, y reformada por los Decretos 107 y 108, publicados en el Periódico Oficial número 90 de fecha 14 de julio de 2004.
+
+1.- Que dicha propuesta fue debidamente analizada y discutida en el seno de la Comisión que suscribe el presente dictamen con la participación de todos y cada uno de sus integrantes.
+
+Consecuentemente, y
+
+CONSIDERANDO:
+
+I. Que el presente dictamen busca simplificar el ejercicio del derecho de los ciudadanos para acceder a la información pública adecuándose a la "Ley de Acceso a la Información Pública" vigente en el Estado de Nuevo León, publicada según Decreto 305 en el Periódico Oficial del Estado número 25, de fecha 21 de febrero de 2003.
+
+II. Que el R. Ayuntamiento de Monterrey, dentro de sus atribuciones, conforme a la Constitución Política de los Estados Unidos Mexicanos en sus artículos 21 Y 115, fracción III, la Constitución Política del Estado de Nuevo León, en sus artículos 130, así corno en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, tiene la facultad de expedir disposiciones jurídicas reglamentarias, a fin de brindar al ciudadano condiciones de tranquilidad social, seguridad y certidumbre jurídica.
+
+III. Que toda reforma, modificación o adición, en el caso del Reglamento de Derecho a la Información del Municipio de Monterrey, Nuevo León, debe tener como objetivos fundamentales su simplificación y adecuación con la "Ley de Acceso a la Información Pública", así como garantizar a toda persona el ejercicio del derecho de acceso a la información en posesión de las dependencias y entidades del Gobierno Municipal de Monterrey, sustentándose en los principios democráticos de publicidad de los actos de gobierno; de rendición de cuentas de los servidores públicos, y en el derecho a la información y de petición, garantías consagradas en los artículos 6 y 8 de la Constitución Política de los Estados Unidos Mexicanos.
+
+IV. Que para la revisión y consulta del presente reglamento, la Comisión de Gobernación y Reglamentación del R. Ayuntamiento de Monterrey, tomó en consideración las opiniones vertidas en los diferentes foros efectuados desde que se realizó la consulta para la reforma del Reglamento de Derecho a la Información del Municipio de Monterrey, Nuevo León. Dentro de las opiniones recibidas se encuentran las realizadas por organismos civiles como la Asociación de Abogadas Egresadas de la Facultad de Derecho y Criminología de la Universidad Autónoma de Nuevo León, Asociación Neoleonesa de Abogadas, Asociación Nacional de Abogados Democráticos, A. C. así como opiniones de Sindicatos como la C. N. O. P., Colegios de Abogados como la Barra Mexicana del Colegio de Abogados, Colegio de Abogados de Nuevo León, A. C., Bloque de Abogados de Nuevo León, Colegio de Abogados de Guadalupe y Colegio de Doctores en Derecho; Corredores Públicos; Abogados Postulantes; Estudiantes y Representantes de Universidades como la Universidad Autónoma de Nuevo León, Universidad Regiomontana, la Facultad Libre de Derecho de Monterrey y el Instituto Tecnológico y de Estudios Superiores de Monterrey. De igual forma desde el pasado 07 de octubre del año próximo pasado se ha dado difusión al proyecto de reforma a través de la página de internet del Municipio.
+
+Conforme a lo anteriormente expuesto y fundado, se abroga el Reglamento de Derecho a la Información del Municipio de Monterrey, Nuevo León, y se expide el "Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey" en los siguientes términos:
+
+REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -247,21 +273,29 @@ Contra la negativa de entregar o corregir Datos Personales procederá la interpo
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2006)</small>
+
 ###### Artículo 17.
 
-Cualquier persona o su representante podrá solicitar a las Dependencias o Entidades, la información mediante escrito, o bien en los formatos que apruebe el Comisionado.
+Cualquier persona o su representante podrá solicitar a las Dependencias o Entidades, la información mediante escrito, o en el formato que apruebe el Comisionado, o bien por correo electrónico.
 
-La solicitud deberá contener:
+En todo caso, la solicitud deberá contener:
 
-I. El nombre del solicitante y domicilio u otro medio para recibir notificaciones, como el correo electrónico.
+I. El nombre del solicitante y domicilio para recibir notificaciones, en su caso, el correo electrónico.
 
-II. La descripción razonable y comprensible de los documentos administrativos de los cuales solicita información.
+II. La descripción razonable, comprensible y específica de los documentos administrativos de los cuales solicita información.
 
-III. Cualquier otro dato que propicie su localización con objeto de facilitar su búsqueda.
+III. Cualquier otro dato que propicie su identificación y localización con objeto de facilitar su búsqueda.
 
-IV. La modalidad en que se solicita se otorgue el acceso a la información, la cual podrá ser de manera directa, copias simples, certificadas u otro tipo de medio.
+IV. La modalidad en que se solicita se otorgue el acceso a la información, la cual podrá ser por escrito, mediante copias simples, o certificadas, correo electrónico u otro tipo de medio, registro, soporte digital, siempre que la Autoridad cuente con la información en dicho formato. Cuando no se mencione la modalidad de entrega de información, la misma será proporcionada por la dependencia en el formato que considere idóneo, en atención a su naturaleza.
 
-Cuando la solicitud presentada no sea suficiente para identificar la información de que se trata, la Autoridad dentro del término de tres días hábiles requerirá por escrito al solicitante las aclaraciones que permita atender debidamente su petición. Los peticionarios no están obligados a la ratificación del escrito, ni a manifestar el uso que darán a la información, ni a justificar el motivo de su petición.
+V. En el caso de solicitud por correo electrónico se entenderá la misma vía para la respuesta, salvo especificación en contrario.
+
+En el caso de que la presentación de la solicitud sea por vía electrónica, se tendrá por recibida en la fecha asentada en el registro electrónico del equipo receptor de la misma. En caso de que la fecha asentada sea inhábil, se considerará que la solicitud fue presentada el día hábil siguiente de su recepción.
+
+Cuando la solicitud presentada no sea suficiente para identificar la información de que se trata, la Autoridad dentro del término de tres días hábiles requerirá por escrito al solicitante, en su caso por correo electrónico las aclaraciones que permita atender debidamente su petición.
+
+Los peticionarios no están obligados a la ratificación del escrito, ni a manifestar el uso que darán a la información, ni a justificar el motivo de su petición.
 
 La Oficina del Comisionado a través de las Unidades de enlace auxiliará a los particulares en la elaboración de las solicitudes de acceso a la información, en particular en los casos en que el solicitante no sepa leer ni escribir.
 
@@ -281,25 +315,11 @@ Las Autoridades no están obligadas a proporcionar información que es del conoc
 
 ###### Artículo 19.
 
-Los Derechos por Servicios Prestados por la Tesorería se causarán y pagarán de conformidad con las cuotas que en cada caso se señalan:
-
-I. a VI. […]
-
-(NOTA: EL 8 DE OCTUBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 44/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-VII. LA CERTIFICACIÓN DE DOCUMENTOS PÚBLICOS QUE OBRAN EN EL ARCHIVO DE LA TESORERÍA, 1 UMAS.
+La Dependencia o Entidad turnará la solicitud a la Unidad Administrativa que tenga o pueda tener la información, con objeto de que ésta la localice, verifique su clasificación y le comunique a la primera la procedencia del acceso y la manera en que se encuentra disponible. Las Unidades Administrativas podrán entregar documentos administrativos que contengan información clasificada como Reservada o Restringida, siempre y cuando los documentos en que conste la información permitan eliminar las partes o secciones clasificadas. En tales casos deberán señalarse las partes o secciones que fueron eliminadas.
 
 ###### Artículo 20.
 
-Los Derechos por los Servicios del Registro Civil se causarán y pagarán, en Unidades de Medida y Actualización, de acuerdo a las cuotas siguientes:
-
-I. a II. […]
-
-(NOTA: EL 8 DE OCTUBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 44/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-III. RECONOCIMIENTO DE HIJOS, UNA;
-
-IV. a VIII. […]
+La Autoridad proporcionará la información en un plazo que no podrá exceder de 10 días hábiles, contados desde la presentación de aquella, siempre que el solicitante haya cubierto el pago de los derechos correspondientes. Este plazo podrá ampliarse hasta por un periodo igual por única vez, cuando medien circunstancias que no permitan proporcionar la información dentro del plazo establecido, estando obligada la Autoridad a hacerlo del conocimiento del peticionario mediante escrito fundado y motivado.
 
 ###### Artículo 21.
 
@@ -423,13 +443,63 @@ XIV. Las demás que le confieran este Reglamento y demás disposiciones jurídic
 
 El Comisionado rendirá semestralmente un informe al. R. Ayuntamiento sobre su actuación; el cumplimiento del presente reglamento y el ejercicio del Derecho a la Información Pública. Los Sujetos Obligados deberán de rendir un informe bimestral al Comisionado sobre el cumplimiento del Presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2014)</small>
+
 ###### Artículo 33.
 
-El Comisionado se auxiliará con tres Representantes Ciudadanos y el Síndico Segundo Municipal, quienes actuarán como consejeros del Comisionado, y cuyos cargos serán honoríficos, no remunerados.
+De acuerdo a lo mencionado en el artículo 7 del Reglamento Interior de la Oficina del Comisionado para la Transparencia Municipal; el Comisionado se auxiliará con un Consejo Ciudadano de Transparencia conformado por tres Representantes Ciudadanos y el Síndico Segundo Municipal, quienes actuarán como consejeros del Comisionado, y cuyos cargos serán honoríficos, no remunerados.
 
-Los Representantes Ciudadanos y el Síndico Segundo Municipal no tienen facultades de decisión ni ejecutivas y sólo podrán coadyuvar con el Comisionado al mejor cumplimiento de este Reglamento y la Ley. Para efecto de lo anterior, el Comisionado, los Representantes Ciudadanos y el Síndico Segundo Municipal, se reunirán una vez al mes constituidos en Consejo para analizar y evaluar el cumplimiento del Reglamento y la Ley y el ejercicio del Derecho de Acceso a la Información Pública objeto de este Reglamento, y hacer las recomendaciones conducentes.
+Las decisiones del Consejo serán adoptadas por mayoría simple.
 
-Los Representantes Ciudadanos serán elegidos por el R. Ayuntamiento de entre una lista que se integrará previa convocatoria pública, en la que se fijen las reglas correspondientes y que será expedida por el R. Ayuntamiento. Para ser Representante Ciudadano, deberán acreditarse los mismos requisitos que para Comisionado, durarán en su cargo dos años, y podrán ser removidos por las mismas causas que este Reglamento prevé para la remoción del Comisionado en lo que les resulte aplicable.
+Para efecto de lo anterior, el Consejo se reunirá una vez al mes de manera ordinaria y de manera extraordinaria las veces que acuerde el Consejo.
+
+Los Representantes Ciudadanos se elegirán por el Ayuntamiento de entre una lista que se integrará previa convocatoria pública y que será expedida por el Ayuntamiento.
+
+Para ser Representante Ciudadano deberán acreditarse los siguientes requisitos:
+
+I. Ser ciudadano mexicano con una residencia mínima de 5-cinco años en el Estado de Nuevo León y que se encuentre en pleno ejercicio de sus derechos políticos;
+
+II. Tener al menos veinticinco años cumplidos al día de su designación;
+
+III. Contar con título profesional legalmente expedido por la Autoridad correspondiente;
+
+IV. No haber desempeñado en el periodo de dos años anteriores a su designación, ningún cargo público en la Federación, las Entidades Federativas, Municipios u Organismos Descentralizados, excepto aquellas relacionadas con la docencia o bien el haber desempeñado con anterioridad el cargo de Consejero Ciudadano;
+
+V. No haber sido condenado por delito intencional;
+
+VI. No haber sido dirigente de ningún Partido Político a nivel Nacional, Estatal o Municipal, o de una Asociación Política en el periodo de cinco años anteriores a la fecha de su designación;
+
+VII. No ser ministro o dirigente de algún culto o asociación religiosa; y
+
+VIII. Que no se trate del cónyuge, hijos, parientes por consanguinidad en línea recta sin limitación de grado, a los colaterales dentro del cuarto; y los afines dentro del segundo grado de algún miembro del Ayuntamiento del Comisionado en funciones.
+
+Los Consejeros Ciudadanos durarán en su cargo dos años, y podrán ser causas de terminación del cargo, las siguientes:
+
+I. Dejar de asistir a tres juntas del Consejo en forma sucesiva o a cinco alternas durante un año, sin causa justificada;
+
+II. La separación voluntaria por escrito;
+
+III. La conclusión del periodo para el cual fueron designados; y
+
+IV. La muerte.
+
+Los representantes ciudadanos podrán ser ratificados hasta por un periodo adicional y se mantendrán en su cargo hasta que los representantes ciudadanos que los sustituyan hayan sido nombrados.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+###### Artículo 33 Bis.
+
+Adicionalmente a las atribuciones que se establecen en el artículo 10 del Reglamento Interior de la Oficina del Comisionado para la Transparencia Municipal el Consejo Ciudadano de Transparencia, tendrá las siguientes funciones:
+
+I. Coadyuvar con el Comisionado al mejor cumplimiento con este Reglamento y la Ley;
+
+II. Promover e impulsar entre los Ciudadanos el derecho de la información;
+
+III. Realizar propuestas en materia de transparencia;
+
+IV. Promocionar los programas de la Dirección de Transparencia, y
+
+V. Fortalecer la cultura de transparencia entre los ciudadanos y servidores públicos.
 
 ### CAPÍTULO VII. DEL RECURSO DE INCONFORMIDAD
 
@@ -576,3 +646,21 @@ C. JESÚS RICARDO CANAVATI TAFICH
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 C. EDGAR RODOLFO OLÁIZ ORTÍZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE OCTUBRE DE 2006.
+
+PRIMERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- (sic) Publíquese en la Gaceta Municipal y el Periódico Oficial del Estado por ser de interés general.
+
+P.O. 31 DE MARZO DE 2014.
+
+DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO: Las presentes Reformas por Modificación al artículo 33 y adición del artículo 33 Bis del Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO: Se ordena la publicación de los presentes acuerdos en el Periódico Oficial del Estado, en la Gaceta Municipal y difúndase en el portal de Internet http://portal.monterrey.gob.mx.
