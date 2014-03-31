@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2014-02-12"
+last_updated: "2014-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -3165,7 +3165,9 @@ Las Juntas Auxiliares serán electas en plebiscito, que se efectuará de acuerdo
 
 El Ayuntamiento podrá celebrar convenio con el Instituto Electoral del Estado, en términos de la legislación aplicable, para que éste coadyuve con la elección para elegir a las personas que formarán parte de las Juntas Auxiliares.
 
-En caso de que el Ayuntamiento celebre el convenio a que hace mención el párrafo anterior, las bases de la convocatoria respectiva podrán contemplar, entre otros, el sufragio libre, directo y secreto, además de sujetarse a los principios rectores de legalidad, imparcialidad, objetividad, certeza e independencia, que rigen la función electoral.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2014)</small>
+
+Los Ayuntamientos, en los reglamentos respectivos, fijarán las bases mínimas que contendrán las convocatorias para el registro de candidatos, mismas que deberán observar las disposiciones constitucionales y legales en materia electoral aplicables.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -3732,3 +3734,13 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los Ayuntamientos deberán expedir, o en su caso, adecuar las disposiciones reglamentarias a que se refiere el artículo 225 de esta Ley, dentro del término de ocho días siguientes a la entrada en vigor del presente Decreto.
+
+Si no se expidieran o adecuaran los reglamentos, en todo caso las convocatorias emitidas para el registro de candidatos, deberán observar las disposiciones constitucionales y legales en materia electoral aplicables.
