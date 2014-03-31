@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2014-03-19"
+last_updated: "2014-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -3741,6 +3741,60 @@ La lista de representación proporcional se integrará por fórmulas de candidat
 
 Respecto de los Ayuntamientos, los partidos políticos no podrán postular candidatos en un porcentaje menor al treinta por ciento de fórmulas de un mismo género.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+ARTÍCULO 201 BIS.- Los ciudadanos podrán participar como candidatos independientes a los cargos de elección popular para Gobernador, fórmulas de diputados por el principio de mayoría relativa y miembros de ayuntamientos.
+
+En lo no previsto respecto de las candidaturas independientes, se aplicarán en lo conducente, las disposiciones establecidas en este Código para los candidatos de partidos políticos.
+
+Los ciudadanos que pretendan postularse como candidatos independientes deberán presentar su manifestación por escrito de esta intención.
+
+Los ciudadanos que aspiren a ser registrados como candidatos independientes deberán atender las disposiciones constitucionales, legales y reglamentarias establecidas al efecto, así como los criterios o acuerdos que emitan las autoridades electorales competentes.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+ARTÍCULO 201 TER.- El Consejo General aprobará los Lineamientos y la Convocatoria para que los interesados que lo deseen y cumplan los requisitos correspondientes, participen en el proceso de registro para contender como candidatos independientes a un cargo de elección popular.
+
+La Convocatoria deberá publicarse en al menos dos medios de comunicación impresos de mayor circulación en la Entidad y en la página de Internet del Instituto, y contendrá al menos los siguientes elementos:
+
+I.- Fecha, nombre, cargo y firma del órgano que la expide;
+
+II.- Los cargos para los que se convoca;
+
+III.- Los requisitos para que los ciudadanos emitan los respaldos a favor de los aspirantes;
+
+IV.- El calendario que establezca fechas, horarios y domicilios en los cuales se deberán presentar las solicitudes de aspirantes y la comparecencia de los ciudadanos que acudan personalmente a manifestarle su apoyo;
+
+V.- La forma de llevar a cabo el cómputo de dichos respaldos, y
+
+VI.- Los términos para el rendimiento de cuentas del gasto de tope de campaña y la procedencia legal de su origen y destino.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+ARTÍCULO 201 QUATER.- Los ciudadanos que de manera independiente pretendan ser candidatos, deberán acompañar, a la solicitud de su registro ante el organismo electoral respectivo:
+
+I.- Una relación que contenga el nombre, domicilio, clave de elector y firma autógrafa de cada uno de los ciudadanos que respalden dicha candidatura en la demarcación correspondiente. De acuerdo a lo siguiente:
+
+a) Para Gobernador del Estado, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del padrón electoral correspondiente a todo el Estado.
+
+b) Para la fórmula de Diputados de Mayoría relativa, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del padrón electoral correspondiente al Distrito de que se trate.
+
+c) Para la elección de planillas de ayuntamientos de municipios y para todas las Juntas Auxiliares en el Estado, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del padrón electoral correspondiente al Municipio o territorio de la Junta Auxiliar de que se trate.
+
+II.- La relación de integrantes de su Comité de Organización y Financiamiento, señalándose las funciones de cada uno y el respectivo domicilio oficial;
+
+III.- El emblema y colores con los que pretende contender, en caso de aprobarse el registro; mismos que no deberán ser análogos a los de los partidos políticos con registro ante el Instituto;
+
+IV.- Presentar su respectiva plataforma política electoral, y
+
+V.- El monto de los recursos que pretende gastar en la campaña, y el origen de los mismos.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
+
+ARTÍCULO 201 QUINQUIES.- El candidato independiente que obtenga el triunfo en la elección correspondiente podrá recuperar del Instituto, hasta un 50% de gastos máximos de campaña establecidos para la respectiva elección, previa comprobación de dicho gasto.
+
+En caso de que un candidato independiente que resulte triunfador hubiere excedido en sus gastos máximos de campaña correspondiente, no tendrá derecho a la recuperación a que se refiere el párrafo anterior. Lo anterior sin perjuicio de las sanciones a que sea acreedor el candidato, de conformidad con lo establecido en este Código.
+
 ### CAPÍTULO III. DE LA PROPAGANDA ELECTORAL
 
 ###### ARTÍCULO 202.
@@ -6278,3 +6332,11 @@ P.O. 19 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Lo dispuesto por el presente Decreto no se aplicará a los procedimientos electorales extraordinarios de los Municipios de Cuapiaxtla de Madero y Acajete.
