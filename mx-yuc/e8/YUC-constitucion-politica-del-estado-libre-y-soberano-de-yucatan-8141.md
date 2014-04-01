@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2013-09-26"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2014.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -426,6 +426,10 @@ La ley establecerá las reglas para el desarrollo de las precampañas y las camp
 > <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
 
 En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2014)</small>
+
+La ley determinará las reglas para garantizar la paridad de género en la asignación de candidaturas a diputados.
 
 > <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -4016,5 +4020,19 @@ D.O. 26 DE SEPTIEMBRE DE 2013.
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
+
+D.O. 1 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán, dentro de los ciento ochenta días siguientes contados a partir de la entrada en vigor de este decreto.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
