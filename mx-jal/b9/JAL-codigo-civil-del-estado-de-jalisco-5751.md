@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2014-02-08"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3899,9 +3899,9 @@ I. Cuando quien la ejerce comete algún delito intencional que afecte al menor o
 
 II. Cuando el que la ejerce es condenado expresamente a su pérdida;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-III. Cuando por malas costumbres de quienes la ejerzan o abandono de sus deberes frente a sus descendientes, se comprometa la seguridad o la moralidad de aquellos sobre de quienes se ejerce, aunque esos hechos no sean penalmente punibles, o consientan que terceras personas lo realicen;
+III. Cuando quien la ejerce, tenga conductas nocivas para la salud física o psiquica del menor aunque tales no sean penalmente punibles, o consienta que terceras personas las realicen;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -3927,7 +3927,13 @@ c) Abandone por más de un día a su descendiente, si el menor no hubiere quedad
 
 d) Cometa actos de violencia intrafamiliar, hacia sus descendientes u adoptados menores de edad.
 
-VI. En los casos de divorcio cuando así se establezca.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+VI. En los casos de divorcio, cuando así se establezca; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+VII. Cuando quien la ejerce, abandone sus deberes frente a sus descendientes.
 
 ###### Art. 599.
 
@@ -18238,5 +18244,9 @@ NOVENO. La vigencia de los certificados electrónicos a que se refiere el artíc
 DÉCIMO. Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.
 
 P.O. 8 DE FEBRERO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 1 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
