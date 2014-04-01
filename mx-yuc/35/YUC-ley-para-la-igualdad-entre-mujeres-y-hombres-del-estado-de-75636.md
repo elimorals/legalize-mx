@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7563
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-07"
-last_updated: "2010-07-07"
+last_updated: "2014-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATAN
 
-LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATAN
+LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 7 de julio de 2010.
 
@@ -63,17 +63,23 @@ II.- La no discriminación, y
 
 III.- La equidad y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en los instrumentos internacionales aplicables en la materia en los que México sea parte.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
+
 ###### Artículo 3.
 
-Son sujetos de los derechos de igualdad que establece esta Ley todos los hombres y mujeres independientemente de su edad, estado civil, profesión, cultura, origen étnico, condición social, salud, religión, opinión, nacionalidad o capacidades diferentes.
+Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en el estado, que por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidades, condiciones de salud, social, económica o lingüística, preferencias sexuales, identidad sexual, filiación, instrucción, religión, ideología política, o cualquier otro, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta ley tutela.
 
 ###### Artículo 4.
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Acciones afirmativas.- El conjunto de medidas de carácter temporal encaminadas a la aceleración de la igualdad de hecho entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-II.- Programa Estatal.- Programa Estatal para la Igualdad entre Mujeres y Hombres;
+I.- Acciones Afirmativas.- Conjunto de medidas de carácter temporal encaminadas a la aceleración de la igualdad de hecho entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+II.- Programa Especial.- Programa Especial para la Igualdad entre Mujeres y Hombres;
 
 III.- Sistema Estatal.- Sistema Estatal para la Igualdad entre Mujeres y Hombres, y
 
@@ -129,11 +135,25 @@ Corresponde al Poder Ejecutivo del Estado de Yucatán:
 
 I.- Determinar y conducir la Política Estatal en materia de igualdad entre mujeres y hombres;
 
-II.- Crear y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-III.- Elaborar las políticas públicas locales, con una proyección de mediano y largo alcance, debidamente armonizadas con los programas nacionales, dando cabal cumplimiento a la presente Ley, y
+II.- Crear y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres, mediante la aplicación del principio de transversalidad, a través del Instituto para la Equidad de Género;
 
-IV.- Promover, en coordinación con las dependencias de la Administración Pública Federal la aplicación de la presente Ley.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+III.- Elaborar las políticas públicas locales, con una proyección de mediano y largo alcance, debidamente armonizadas con los programas nacionales, dando cabal cumplimiento a esta ley;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+IV.- Promover, en coordinación con las dependencias de la Administración Pública federal la aplicación de esta ley;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+V.- Incorporar en el Presupuesto de Egresos del Gobierno del Estado, la asignación de recursos para el cumplimiento de la política local en materia de igualdad, y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+VI.- Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ###### Artículo 13.
 
@@ -171,9 +191,25 @@ III.- Fomentar la participación y representación política equilibrada entre m
 
 IV.- Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
-V.- Promover la igualdad entre mujeres y hombres en la vida civil y en la vida económica del Estado, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-VI.- Promover la eliminación de estereotipos establecidos en función del género.
+V.- Promover la igualdad entre mujeres y hombres en la vida civil y en la vida económica del estado;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+VI.- Promover la eliminación de estereotipos establecidos en función del sexo;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+VII.- Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+VIII.- Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres, y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+IX.- Establecer medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres.
 
 ### CAPÍTULO II. De los Instrumentos de Política en Materia de Igualdad entre Mujeres y Hombres
 
@@ -183,7 +219,9 @@ Son instrumentos de la Política Estatal para la Igualdad entre mujeres y hombre
 
 I.- El Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
-II.- El Programa Estatal para la Igualdad entre Mujeres y Hombres, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+II.- El Programa Especial para la Igualdad entre Mujeres y Hombres, y
 
 III.- La Observancia para la Igualdad entre Mujeres y Hombres.
 
@@ -191,13 +229,17 @@ III.- La Observancia para la Igualdad entre Mujeres y Hombres.
 
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política para igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
+
 ###### Artículo 18.
 
-El Poder Ejecutivo del Estado es el encargado de la aplicación del Sistema y del Programa Estatal para la Igualdad entre Mujeres y Hombres, a través de los órganos correspondientes.
+El Poder Ejecutivo del estado es el encargado de la aplicación del Sistema Estatal y del Programa Especial, a través de los órganos correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
 
 ###### Artículo 19.
 
-El Instituto para la Equidad de Género, a través de su Consejo Directivo, sin menoscabo de las atribuciones que le confiere el decreto de su creación, tendrá a su cargo la coordinación del Sistema Estatal para la Igualdad entre Mujeres y Hombres, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
+El Instituto para la Equidad de Género, sin menoscabo de las atribuciones que le confiere el decreto de su creación, tendrá a su cargo la coordinación del Sistema Estatal para la Igualdad entre Mujeres y Hombres, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de esta Ley.
 
 ### CAPÍTULO III. Del Sistema Estatal para la Igualdad entre Mujeres y Hombres
 
@@ -205,13 +247,17 @@ El Instituto para la Equidad de Género, a través de su Consejo Directivo, sin 
 
 El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la Administración Pública Estatal entre sí, con las organizaciones de los diversos grupos sociales y con las autoridades de los Municipios, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
+
 ###### Artículo 21.
 
-El Instituto para la Equidad de Género coordinará, a través de su Consejo Directivo, las acciones que el Sistema Estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y Municipal.
+El Instituto para la Equidad de Género coordinará las acciones que el Sistema Estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y expedirá las reglas para su organización y funcionamiento, así como las medidas para vincularlo con otros de carácter nacional y municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2014)</small>
 
 ###### Artículo 22.
 
-Al Consejo Directivo del Instituto para la Equidad de Género corresponderá:
+Al Instituto para la Equidad de Género corresponderá:
 
 I.- Proponer al Poder Ejecutivo del Estado políticas públicas en materia de equidad de género, en los términos que establezcan ésta y demás Leyes y disposiciones aplicables;
 
@@ -221,9 +267,17 @@ III.- Auxiliar y capacitar en materia de equidad de género, al personal de las 
 
 IV.- Auxiliar y capacitar en materia de equidad de género, a cualquier otra autoridad estatal o municipal que así lo solicite;
 
-V.- Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-VI.- Las demás, que se requieran para el cumplimiento de los objetivos del Sistema Estatal y las que determinen las disposiciones generales aplicables.
+V.- Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+VI.- Suscribir convenios a fin de promover la difusión y cumplimiento de esta Ley, y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+VII.- Las demás, que se requieran para el cumplimiento de los objetivos del Sistema Estatal y las que determinen las disposiciones generales aplicables.
 
 ###### Artículo 23.
 
@@ -245,21 +299,29 @@ I.- Definición de las responsabilidades que asuman los integrantes de los secto
 
 II.- Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
 
-### CAPÍTULO IV. Del Programa Estatal para la Igualdad entre Mujeres y Hombres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO IV. Del Programa Especial para la Igualdad entre Mujeres y Hombres
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
 
 ###### Artículo 25.
 
-El Programa Estatal para la igualdad entre Mujeres y Hombres será propuesto al Poder Ejecutivo del Estado, por el Instituto para la Equidad de Género y tomará en cuenta las necesidades y particularidades en materia de desigualdad de género de cada región.
+El Programa Especial será propuesto al Poder Ejecutivo del estado, por el Instituto para la Equidad de Género y tomará en cuenta las necesidades y particularidades en materia de desigualdad de género de cada región.
 
-Los demás programas del Gobierno del Estado deberán ser diseñados, elaborados, aplicados y evaluados, teniendo en cuenta los criterios e instrumentos establecidos en el Programa Estatal para la igualdad entre Mujeres y Hombres, una vez aprobado por el Poder Ejecutivo del Estado.
+Los demás programas del Gobierno del estado deberán ser diseñados, elaborados, aplicados y evaluados, teniendo en cuenta los criterios e instrumentos establecidos en el Programa Especial, una vez aprobado por el Poder Ejecutivo del estado.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
 
 ###### Artículo 26.
 
-El Instituto para la Equidad de Género deberá revisar anualmente el Programa Estatal para la igualdad entre Mujeres y Hombres, e informarlo al Poder Ejecutivo del Estado a más tardar el último día del mes de junio de cada año.
+El Poder Ejecutivo del estado podrá prescindir de la expedición del Programa Especial, siempre y cuando otro programa de mediano plazo contenga las acciones y estrategias tendientes a lograr la igualdad entre mujeres y hombres.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
 
 ###### Artículo 27.
 
-Los informes anuales del Poder Ejecutivo del Estado deberán contener el estado que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley.
+Los informes anuales del Poder Ejecutivo del estado deberán contener el estado que guarda la ejecución del Programa Especial, así como las demás acciones relativas al cumplimiento de lo establecido en esta ley.
 
 ## TÍTULO CUARTO. DE LAS ACCIONES PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -277,9 +339,17 @@ Será objetivo de la Política Estatal en materia de equidad y de género:
 
 I.- Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-II.- Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica, e
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-III.- Impulsar liderazgos igualitarios.
+II.- Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+III.- Impulso de liderazgos igualitarios, y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+IV.- Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
 
 ###### Artículo 30.
 
@@ -299,9 +369,17 @@ VI.- Evitar la segregación de las personas por razón de su género, del mercad
 
 VII.- Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
 
-VIII.- Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-IX.- Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia.
+VIII.- Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+IX.- Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia, y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+X.- Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
 
 ### CAPÍTULO III. De la Participación y Representación Política Equilibrada de las Mujeres y los Hombres
 
@@ -335,9 +413,17 @@ Con el fin de promover la igualdad en el acceso a los derechos sociales y el ple
 
 I.- Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social;
 
-II.- Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-III.- Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
+II.- Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+III.- Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género, y
+
+ADICIONADA, P.O. 1 DE ABRIL DE 2014)
+
+IV.- Modificar los patrones socioculturales de conducta de mujeres y hombres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de mujeres y hombres.
 
 ###### Artículo 34.
 
@@ -393,9 +479,21 @@ La Política Estatal para la igualdad entre mujeres y hombres, tendrá como obje
 
 I.- Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género; que fomentan la discriminación y la violencia por razones del género;
 
-II.- Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-III.- Vigilar la integración de una perspectiva de género en todas las políticas públicas.
+II.- Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+III.- Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+IV.- Velar por que los medios de comunicación transmitan una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje, y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+V.- Promover la utilización de un lenguaje con perspectiva de género.
 
 ### CAPÍTULO VII. Del Derecho a la Información entre Mujeres y Hombres
 
@@ -430,3 +528,15 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2014.
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Disposición derogatoria
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
