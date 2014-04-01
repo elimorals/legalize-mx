@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-03-27"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -51,11 +51,11 @@ El Estado de San Luis Potosí es la organización política y jurídica de sus h
 
 El Estado es parte integrante de los Estados Unidos Mexicanos; es libre y soberano en cuanto a su régimen interior, sin más limitaciones que aquéllas que la Constitución Política de los Estados Unidos Mexicanos establece a las Entidades Federativas.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
 
-###### ARTÍCULO 3o.
+###### ARTICULO 3o.
 
-El Estado de San Luis Potosí adopta para su régimen interior la forma de gobierno republicano, representativo y popular, y lo ejerce por medio de los Poderes Legislativo, Ejecutivo y Judicial. En ningún momento podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo. Los Poderes del Estado no tendrán más atribuciones que las que les confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que de ellas emanen.
+El Estado de San Luis Potosí adopta para su régimen interior la forma de gobierno republicano, representativo, laico, y popular, y lo ejerce por medio de los poderes, Legislativo; Ejecutivo; y Judicial. En ningún momento podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo. Los poderes del Estado no tendrán más atribuciones que las que les confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -169,11 +169,11 @@ El Estado reconoce los mismos derechos a las comunidades que sean equiparables a
 
 Es responsabilidad del Congreso del Estado vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado en las lenguas propias de los pueblos indígenas de la Entidad para su aplicación y entrada en vigor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 10.
 
-Todas las personas tienen el derecho de recibir educación. La educación que imparta el Estado en todos sus tipos y modalidades será gratuita. La educación preescolar, primaria y secundaria serán obligatorias.
+Todas las personas tienen el derecho de recibir educación. La educación que imparta el Estado en todos sus tipos y modalidades será gratuita. La educación preescolar, primaria, secundaria, y media superior, serán obligatorias.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -183,13 +183,17 @@ La educación que imparta el Estado será laica y tendrá por objeto el pleno de
 
 La educación en el Estado estará regida por los criterios y lineamientos que la Constitución Política de los Estados Unidos Mexicanos establece en relación a la democracia, su carácter nacional, sus contenidos y las condiciones para la mejor convivencia humana, la dignidad de la persona, la integridad de la familia y el interés general de la sociedad.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2014)</small>
 
-El Ejecutivo del Estado, coadyuvará con la Federación en el establecimiento de los planes y programas de estudio de la educación preescolar, primaria, secundaria y normal, considerando la opinión de los ayuntamientos y de los sectores sociales involucrados en la educación, en los términos de las leyes respectivas; asimismo, promoverá y apoyará la educación científica y tecnológica.
+El Estado, acorde a lo dispuesto por el artículo 3° de la Carta Magna Federal, garantizará la calidad en la educación obligatoria, ante todo buscará que los materiales y métodos educativos, la organización escolar, la infraestructura educativa, así como la idoneidad de los docentes y los directivos, garanticen el máximo logro de aprendizaje de los estudiantes.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
 
-Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
+El Ejecutivo del Estado coadyuvará con la Federación en el establecimiento de los planes y programas de estudio de la educación preescolar, primaria, secundaria, media superior, y normal, considerando la opinión de los ayuntamientos y de los sectores sociales involucrados en la educación, en los términos de las leyes respectivas; asimismo, promoverá y apoyará la educación científica y tecnológica.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
+
+Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará, y retirará, el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2612,3 +2616,19 @@ P.O. 27 DE MARZO DE 2014.
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento establecido en el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 550. POR EL QUE SE REFORMA EL ARTÍCULO 10 EN SUS PÁRRAFOS, PRIMERO, Y ACTUALES CUARTO, Y QUINTO; Y ADICIONA PÁRRAFO AL MISMO ARTÍCULO 10, ÉSTE COMO CUARTO POR LO QUE LOS AHORA CUARTO Y QUINTO PASAN A SER PÁRRAFOS QUINTO Y SEXTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento establecido en el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 551. POR EL QUE SE REFORMA EL ARTÍCULO 3°, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación en términos del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
