@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2014-02-25"
+last_updated: "2014-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -825,11 +825,23 @@ Las leyes, decretos, acuerdos administrativos y reglamentos, sólo serán de cum
 
 ARTICULO 84 BIS. Las convocatorias que emita la Legislatura para ocupar cargos públicos o reconocer el mérito ciudadano, una vez redactadas por la comisión, o comisiones competentes, serán sometidas a la consideración del Pleno que podrá, aprobarlas, modificarlas, o rechazarlas.
 
-### CAPITULO I. DE LOS DICTAMENES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO IX. DE LA INSCRIPCIÓN DE EPÍGRAFES EN EL MURO DE HONOR
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2014)</small>
+
+ARTICULO 84 TER. La inscripción de un epígrafe en letras doradas en el Muro de Honor del Salón de Plenos del Congreso, tiene como propósito rendir un homenaje excepcional a los potosinos eminentes; las instituciones que contribuyen de forma trascendente al mejoramiento del Estado; o aquéllos sucesos históricos relevantes para la Entidad.
+
+La Comisión de Educación, Cultura, Ciencia y Tecnología resolverá sobre las propuestas de inscripción de epígrafe presentadas, valorando virtudes, méritos, grado de eminencia, contribución y relevancia histórica, sujetándose en todo momento a principios de ética, imparcialidad, objetividad y transparencia. Para que la inscripción sea procedente se requerirá la aprobación de las dos terceras partes de los diputados presentes en el Pleno.
+
+En el caso de la propuesta para la inscripción de un epígrafe con el nombre o nombres de personas, deberán haber transcurrido cuando menos veinte años desde su fallecimiento. Las características físicas de los nuevos epígrafes serán idénticas respecto de las previamente existentes.
+
+Una vez realizada la inscripción del epígrafe podrá convocarse a la realización de una Sesión Solemne para su develación.
 
 ## TITULO SEPTIMO. DE LOS MECANISMOS LEGISLATIVOS
 
-### CAPITULO II. DEL TRAMITE DE DISCUSION Y APROBACION
+### CAPITULO I. DE LOS DICTAMENES
 
 ###### ARTICULO 85.
 
@@ -855,7 +867,7 @@ IV. Para los acuerdos administrativos o económicos, o puntos de acuerdo, se pre
 
 Una vez firmados en los términos de ley, los dictámenes sólo podrán ser modificados por acuerdo de la mayoría de los que lo suscribieron, hasta antes de su lectura en el Pleno, siempre y cuando se trate de modificaciones que cambien su sentido y alcance. Tratándose de enmiendas meramente de forma, éstas deberán hacerse antes de su inclusión en la Gaceta Parlamentaria.
 
-### CAPITULO III. DE LOS DEBATES
+### CAPITULO II. DEL TRAMITE DE DISCUSION Y APROBACION
 
 ###### ARTICULO 88.
 
@@ -887,7 +899,7 @@ En el caso de los informes financieros del Congreso del Estado, éstos deberán 
 
 Los dictámenes no resueltos por una sesión, serán presentados en orden de prioridad en la siguiente, conforme a lo dispuesto por este Reglamento.
 
-### CAPITULO IV. DE LAS VOTACIONES
+### CAPITULO III. DE LOS DEBATES
 
 ###### ARTICULO 91.
 
@@ -993,7 +1005,7 @@ Si se solicitara hacer uso de la palabra sólo por oradores en contra, se emplea
 
 Declarado un asunto suficientemente discutido no se volverá a tomar la palabra sobre el mismo.
 
-### CAPITULO V. DE LAS ACTAS
+### CAPITULO IV. DE LAS VOTACIONES
 
 ###### ARTICULO 110.
 
@@ -1061,9 +1073,9 @@ IV. Si al conocerse los resultados de la votación económica en voz de la Presi
 
 Previamente a su inclusión en la Gaceta Parlamentaria, el texto de los dictámenes aprobados por las comisiones deberá ser revisado, en cuanto a redacción y estilo, por la Coordinación de Servicios Parlamentarios, la que de encontrar observaciones que trasciendan su sentido, lo comunicará por escrito a los presidentes de las comisiones de origen, a efecto de que se tomen las medidas pertinentes. El dictamen se publicará en la Gaceta hasta que lo ordenen las propias comisiones.
 
-### CAPITULO I. DE LA JUNTA DE COORDINACION POLITICA
+### CAPITULO V. DE LAS ACTAS
 
-### CAPITULO II. DE LAS COMISIONES
+### CAPITULO I. DE LA JUNTA DE COORDINACION POLITICA
 
 ###### ARTICULO 118.
 
@@ -1097,7 +1109,7 @@ El Congreso deberá mantener actualizados dos libros de actas; en el primero que
 
 ## TITULO OCTAVO. DE LA ORGANIZACION INTERNA DEL CONGRESO
 
-### CAPITULO III. DE LOS GRUPOS Y REPRESENTACIONES PARLAMENTARIAS
+### CAPITULO II. DE LAS COMISIONES
 
 ###### ARTICULO 121.
 
@@ -1185,7 +1197,7 @@ V. Las demás que de manera temporal, especial o permanente, le confiera en form
 
 En los casos de extrema urgencia, gravedad o circunstancia apremiante, el Presidente de la Junta podrá disponer, ordenar o tomar decisiones administrativas, de las cuales dará cuenta en la próxima reunión de la Junta.
 
-### CAPITULO IV. DEL MODULO DE ACCESO A LA INFORMACION PUBLICA
+### CAPITULO III. DE LOS GRUPOS Y REPRESENTACIONES PARLAMENTARIAS
 
 #### Sección Primera. Generalidades
 
@@ -1467,7 +1479,7 @@ Las comisiones contarán con un secretario técnico que les será asignado por l
 
 Asimismo, para la elaboración de los dictámenes que corresponda, las comisiones contarán con el apoyo de un asesor que con base en su perfil profesional y experiencia, les asignará la Coordinación de Asesoría y Secretariado Técnico de Comisiones.
 
-### CAPITULO UNICO. DE LOS DIPUTADOS
+### CAPITULO IV. DEL MODULO DE ACCESO A LA INFORMACION PUBLICA
 
 ###### ARTICULO 161.
 
@@ -1479,7 +1491,7 @@ Presentada la circunstancia de que un diputado se declarara independiente, éste
 
 Una representación parlamentaria se tendrá por legalmente constituida, cuando entregue a la Directiva, un oficio expedido de acuerdo con la normatividad del partido político al que pertenezca, que certifique el nombramiento del diputado como representante de dicho partido político ante el Congreso del Estado.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DE LOS DIPUTADOS
 
 ###### ARTICULO 163.
 
@@ -1491,7 +1503,7 @@ Las solicitudes de información serán recibidas y atendidas conforme a la ley d
 
 ## TITULO NOVENO
 
-### CAPITULO II. DE LA OFICIALIA MAYOR
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 165.
 
@@ -1559,15 +1571,13 @@ Los diputados deberán presentar la declaración de su situación patrimonial, c
 
 ## TITULO DECIMO. DE LOS ORGANOS TECNICOS, ADMINISTRATIVOS Y DE APOYO
 
-### CAPITULO III. DE LA COORDINACION DE FINANZAS
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+### CAPITULO II. DE LA OFICIALIA MAYOR
 
 ###### ARTICULO 171.
 
 Los titulares de los órganos de soporte técnico y de apoyo del Congreso del Estado, podrán ser removidos por causa justificada, cuando así lo determine el Pleno por mayoría de votos de los diputados presentes en la sesión de que se trate.
 
-### CAPITULO IV. DE LA COORDINACION DE SERVICIOS INTERNOS
+### CAPITULO III. DE LA COORDINACION DE FINANZAS
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -1647,7 +1657,7 @@ XII. Ser directamente responsable del cuidado y control del archivo administrati
 
 XIII. Las demás que le confiera la Ley Orgánica y las que la Junta le asigne.
 
-### CAPITULO V. DE LA COORDINACION DE INFORMATICA
+### CAPITULO IV. DE LA COORDINACION DE SERVICIOS INTERNOS
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -1699,7 +1709,7 @@ XV. Realizar las adquisiciones que requiera el Congreso del Estado de acuerdo co
 
 XVI. Las demás que le confiera la Ley Orgánica, y las que la Junta y la Oficialía Mayor le asignen.
 
-### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+### CAPITULO V. DE LA COORDINACION DE INFORMATICA
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -1735,7 +1745,7 @@ VII. Auxiliar al Oficial Mayor en mantener actualizado el inventario de inmueble
 
 VIII. Controlar y disponer que se realice el servicio de intendencia, conservación y limpieza del recinto del Congreso.
 
-### CAPITULO VII. DE LA COORDINACION DE SERVICIOS PARLAMENTARIOS
+### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -1783,7 +1793,7 @@ XIII. Coordinarse con el Instituto de Investigaciones Legislativas, para la corr
 
 XIV. Las demás que le asignen la Oficialía, Mayor y la Junta de Coordinación Política.
 
-### CAPITULO VIII. DE LA COORDINACION DE ASESORIA Y SECRETARIADO TECNICO DE COMISIONES
+### CAPITULO VII. DE LA COORDINACION DE SERVICIOS PARLAMENTARIOS
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -1809,7 +1819,7 @@ IV. No haber sido condenado por delito doloso, y
 
 V. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses.
 
-### CAPITULO IX. DE LA COORDINACION DE ASUNTOS JURIDICOS
+### CAPITULO VIII. DE LA COORDINACION DE ASESORIA Y SECRETARIADO TECNICO DE COMISIONES
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -1861,7 +1871,9 @@ XII. Tener bajo su resguardo el archivo vigente de la Legislatura, sistematizarl
 
 XIII. Las demás que le atribuya la Ley Orgánica y le asigne la Directiva conforme a su competencia.
 
-### CAPITULO X. DE LA COORDINACION DE COMUNICACION SOCIAL
+### CAPITULO IX. DE LA COORDINACION DE ASUNTOS JURIDICOS
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 187.
 
@@ -1933,9 +1945,7 @@ VI. Elaborar y presentar para su aprobación a la comisión, los informes que é
 
 VII. Las demás que le asigne la comisión en relación con el trabajo de la misma.
 
-### CAPITULO XI. DE LA CONTRALORIA INTERNA
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+### CAPITULO X. DE LA COORDINACION DE COMUNICACION SOCIAL
 
 ###### ARTICULO 191.
 
@@ -1965,9 +1975,9 @@ Dependiente de la Coordinación de Asuntos Jurídicos habrá una Unidad de Notif
 
 Para ser notificador del Congreso se requiere ser licenciado en derecho, con título y cédula profesional legalmente expedidos; y contar con una experiencia mínima de tres años en el ejercicio profesional.
 
-### CAPÍTULO XII. DEL ARCHIVO ADMINISTRATIVO E HISTÓRICO DEL CONGRESO
+### CAPITULO XI. DE LA CONTRALORIA INTERNA
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 194.
 
@@ -2000,6 +2010,10 @@ II. La difusión de la legislación del Estado;
 III. La edición bimestral impresa de la Gaceta Parlamentaria, y
 
 IV. El apoyo en las relaciones públicas del Congreso.
+
+### CAPÍTULO XII. DEL ARCHIVO ADMINISTRATIVO E HISTÓRICO DEL CONGRESO
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 197.
 
@@ -2290,3 +2304,9 @@ P.O. 25 DE FEBRERO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
