@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2013-10-26"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -32,8 +32,6 @@ C.P. Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y S
 DECRETO 476
 
 LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
-
-.
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
 
@@ -1417,9 +1415,9 @@ I. Establecer en el ámbito de su competencia, los lineamientos y políticas en 
 
 II. Aprobar el Programa Operativo Anual que le presente el Director General;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-III. Remitir al Congreso, para su aprobación, las cuotas y tarifas por la prestación del servicio, a más tardar el cinco de noviembre de cada año, de conformidad con lo establecido en la presente Ley;
+III. Remitir al Congreso, para su aprobación, las cuotas y tarifas por la prestación del servicio, a más tardar el cinco de noviembre de cada año, de conformidad con lo establecido en la presente Ley; de no hacerlo oportunamente, o de no apegarse a la metodología para el cálculo de las cuotas y tarifas, se tomará como propuesta las que hubiesen regido durante el año fiscal inmediato anterior;
 
 IV. Designar y remover al Director General del organismo;
 
@@ -3204,6 +3202,12 @@ PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 26 DE OCTUBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
