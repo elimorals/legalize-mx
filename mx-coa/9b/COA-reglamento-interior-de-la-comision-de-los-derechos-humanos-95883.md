@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-comision-de-los-derechos-humanos-9588
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-03"
-last_updated: "2013-09-03"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,11 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 3 de septiembre de 2013.
 
-REGLAMENTO INTERIOR DE LA COMISIÓN DE LOS DERECHOS HUMANOS
-
-DEL ESTADO DE COAHUILA DE ZARAGOZA.
+REGLAMENTO INTERIOR DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -349,7 +347,7 @@ I. Tener título de Licenciado en Derecho expedido legalmente;
 
 II. Ser mexicano en pleno ejercicio de sus derechos;
 
-III. Tener, cuando menos, veinticinco años de edad cumplidos al día de su nombramiento;
+III. (DEROGADA, P.O. 1 DE ABRIL DE 2014)
 
 IV. Tener la experiencia necesaria, a juicio del Presidente, para el desempeño de las atribuciones correspondientes; y,
 
@@ -485,9 +483,45 @@ V. Elaborar y en su caso vigilar los procedimientos de amparo en que la Comisió
 
 VI. Las demás que le asigne el Presidente.
 
-### CAPÍTULO ÚNICO. LA PROTECCIÓN NO JURISDICCIONAL DE LOS DERECHOS HUMANOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO VI. DEL CENTRO DE INVESTIGACIÓN Y ESTUDIOS DE DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2014)</small>
+
+ARTÍCULO 60 BIS.- La Comisión contará con un órgano desconcentrado denominado “Centro de Investigación y Estudios de Derechos Humanos”, que tendrá por objeto realizar estudios e investigaciones académicas a fin de generar, formar y difundir conocimiento de las ciencias sociales en materia de derechos humanos, coadyuvando a la construcción de una sólida cultura de esa materia.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2014)</small>
+
+ARTÍCULO 60 TER.- El Centro de Investigación y Estudios de Derechos Humanos tendrá las siguientes atribuciones:
+
+I. Realizar investigación académica e interdisciplinaria en materia de derechos humanos;
+
+II. Promover el intercambio académico con instituciones nacionales e internacionales;
+
+III. Ofrecer programas de formación especializada en relación a los derechos humanos, en colaboración con otros organismos o instituciones académicas en la materia;
+
+IV. Promover la divulgación académica y facilitar el acceso a la información científica actualizada de los avances en investigación acerca de los derechos humanos;
+
+V. Impulsar el acervo de la Biblioteca de la Comisión, así como apoyar, con los servicios bibliotecarios, a los órganos y unidades administrativas de la Comisión, investigadores, especialistas y público en general;
+
+VI. Organizar el material y supervisar la publicación de la Gaceta;
+
+VII. Programar y coordinar la edición de las publicaciones que realice la Comisión;
+
+VIII. Realizar la difusión y distribución de las publicaciones de la Comisión;
+
+IX. Colaborar con las instancias competentes en la elaboración del Informe Anual de Actividades de la Comisión; y
+
+X. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2014)</small>
+
+ARTÍCULO 60 QUARTER.- Para el logro de su objeto y el cumplimiento de sus atribuciones, el Presidente designará a un Director General del Centro de Investigación y Estudios de Derechos Humanos, así como al personal profesional, técnico y administrativo necesario para el ejercicio de sus atribuciones, de conformidad con la disponibilidad presupuestal de la Comisión.
 
 ## TITULO CUARTO. DE LOS SERVICIOS QUE PRESTA LA COMISIÓN
+
+### CAPÍTULO ÚNICO. LA PROTECCIÓN NO JURISDICCIONAL DE LOS DERECHOS HUMANOS
 
 #### SECCIÓN PRIMERA. GENERALIDADES DEL PROCESO
 
@@ -962,3 +996,11 @@ DR. XAVIER DÍEZ DE URDANIVIA FERNÁNDEZ
 PRESIDENTE DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2014.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
