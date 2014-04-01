@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-sistema-de-agua-potable-y-alcantarillado-de-203
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-08"
-last_updated: "1996-10-08"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20315&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY QUE CREA EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE UNION DE TULA, JALISCO
 
-LEY QUE CREA EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE UNION DE TULA, JALISCO
+LEY QUE CREA EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE UNIÓN DE TULA, JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 8 de octubre de 1996.
 
@@ -79,9 +79,13 @@ V.- El Regidor encargado de la Comisión de Agua Potable y Alcantarillado.
 
 Los funcionarios citados en las fracciones anteriores durarán en su encargo el período correspondiente a la administración municipal;
 
-VI.- Un representante de la Secretaría de Desarrollo Urbano y Rural del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
 
-VII.- Un representante de la Secretaría de Salud y Bienestar Social del Estado de Jalisco;
+VI.- Un representante de la Secretaría de Medio Ambiente y Desarrollo Territorial del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+VII.- Un representante de la Secretaría de Salud del Estado de Jalisco;
 
 VIII.- Un representante de la Comisión Nacional del Agua.
 
@@ -137,7 +141,9 @@ XII.- Resolver sobre las solicitudes para la prestación de los servicios de agu
 
 XIII.- Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación resolviendo lo relativo a sus mejoras y ampliaciones;
 
-XIV.- Promover ante el Ayuntamiento de Unión de Tula, Jalisco, cuando se ejercite la facultad económico-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal; o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Finanzas de la Entidad, se haga cargo de la recaudación o intervengan para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+
+XIV.- Promover ante el Ayuntamiento de Unión de Tula, Jalisco, cuando se ejercite la facultad económico-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Planeación, Administración y Finanzas de la Entidad, se haga cargo de la recaudación o intervengan para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
 
 XV.- Vigilar el cumplimiento de las disposiciones de esta ley y su reglamento, por parte de los usuarios de los servicios, a través de su Director General y las dependencias que se determinen;
 
@@ -294,3 +300,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
