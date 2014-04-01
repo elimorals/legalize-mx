@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2014-03-27"
+last_updated: "2014-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -485,7 +485,9 @@ IV. Solemnes: aquellas en que:
 
 a) Se tome la protesta a los diputados locales y se instale la Legislatura.
 
-b) Rinda la protesta de ley el titular del Poder Ejecutivo del Estado, al asumir su cargo.
+b) Rinda la protesta de ley el titular del Poder Ejecutivo
+
+del Estado, al asumir su cargo.
 
 c) Les sea tomada la protesta de ley a los servidores públicos que deban rendirla ante él.
 
@@ -1751,9 +1753,11 @@ III. De acuerdo administrativo: cuando se trate de una iniciativa que se refiera
 
 IV. De acuerdo económico: cuando la determinación del Congreso del Estado tiene efectos internos en la administración de sus órganos, dependencias y comisiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 132.
 
-Los diputados en lo particular, las comisiones, los grupos parlamentarios y la Junta, pueden proponer al Pleno, Puntos de Acuerdo, en relación con asuntos o materias que consideren de interés público y no sean de su propia competencia; o que se refieran al cumplimiento de las funciones de los municipios y demás poderes del Estado, de otras entidades federativas, de la Federación y de asuntos internacionales.
+Los diputados en lo particular, las comisiones, los grupos parlamentarios; y la Junta, pueden proponer al Pleno Puntos de Acuerdo en relación con asuntos o materias que consideren de interés público y no sean de su propia competencia; o que se refieran al cumplimiento de las funciones de los municipios y los demás poderes del Estado, de los organismos constitucionales autónomos, de otras entidades federativas, de la Federación, y de asuntos internacionales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2008)</small>
 
@@ -2184,3 +2188,9 @@ P.O. 27 DE MARZO DE 2014.
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento establecido en el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
