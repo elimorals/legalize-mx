@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2012-05-28"
+last_updated: "2014-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -524,9 +524,15 @@ La mujer Trabajadora, la pensionada, la cónyuge del Trabajador o del Pensionado
 
 I. Asistencia obstétrica necesaria a partir del día en que el Instituto certifique el estado de embarazo. La certificación señalará la fecha probable del parto para los efectos del artículo 28 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 Constitucional;
 
-II. Ayuda para la lactancia cuando, según dictamen médico, exista incapacidad física o laboral para amamantar al hijo. Esta ayuda será proporcionada en especie, hasta por un lapso de seis meses con posterioridad al nacimiento, y se entregará a la madre o, a falta de ésta, a la persona encargada de alimentarlo, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-III. Con cargo al seguro de salud, una canastilla de maternidad, al nacer el hijo, cuyo costo será señalado periódicamente por el Instituto, mediante acuerdo de la Junta Directiva.
+II. A la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y ayuda para la lactancia cuando, según dictamen médico, exista incapacidad física o laboral para amamantar al hijo. Esta ayuda será proporcionada en especie, hasta por un lapso de seis meses con posterioridad al nacimiento, y se entregará a la madre o, a falta de esta, a la persona encargada de alimentarlo;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+III. Durante el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia, y
+
+IV. Con cargo al seguro de salud, una canastilla de maternidad, al nacer el hijo, cuyo costo será señalado periódicamente por el Instituto, mediante acuerdo de la Junta Directiva.
 
 ###### Artículo 40.
 
@@ -2558,7 +2564,7 @@ OCTAVO. Los Trabajadores que hubieran optado por el régimen del artículo déci
 
 NOVENO. El valor nominal de emisión expresado en unidades de inversión de los Bonos de Pensión del ISSSTE que se calculará a cada Trabajador será el que se determine conforme a la tabla siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
 
@@ -2860,7 +2866,7 @@ El Banco de México tendrá a su cargo las funciones de custodia, administració
 
 VIGÉSIMO PRIMERO. Los Bonos de Pensión del ISSSTE podrán ser redimidos antes de su vencimiento, cuando el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, lo considere conveniente o cuando el Trabajador tenga derecho a pensionarse. En estos casos, el Trabajador recibirá la cantidad que representen sus Bonos de Pensión del ISSSTE a la fecha de redención anticipada conforme a la fórmula siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Donde:
 
@@ -2878,7 +2884,7 @@ Esta fórmula utiliza los mismos supuestos de cálculo utilizados para determina
 
 De conformidad con la fórmula de pago anticipado, el valor de redención expresado en unidades de inversión de los Bonos de Pensión del ISSSTE a la fecha de su emisión será el siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico mensual, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
 
@@ -3049,3 +3055,9 @@ D.O.F. 27 DE MAYO DE 2011.
 D.O.F. 28 DE MAYO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
