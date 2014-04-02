@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2013-11-07"
+last_updated: "2014-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -271,9 +271,21 @@ Tanto el Presidente de la Comisión, como los Visitadores Generales y los visita
 
 El Consejo a que se refiere el artículo 5o. de esta ley, estará integrado por diez personas que gocen de reconocido prestigio en la sociedad, mexicanos en pleno ejercicio de sus derechos ciudadanos, y cuando menos siete de entre ellos no deben desempeñar ningún cargo o comisión como servidor público.
 
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-El Presidente de la Comisión Nacional lo será también del Consejo Consultivo. Los cargos de los demás miembros del Consejo serán honorarios. A excepción de su Presidente, anualmente, durante el mes de octubre, serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo. Para el caso de que existan más de dos consejeros con la misma antigüedad, será el propio Consejo quien proponga el orden cronológico que deba seguirse.
+El Presidente de la Comisión Nacional lo será también del Consejo Consultivo. Los cargos de los demás miembros del Consejo serán honorarios. A excepción de su Presidente, anualmente, durante el mes de octubre, serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo. Para el caso de que existan más de dos consejeros con la misma antigüedad, será el propio Consejo quién disponga el orden cronológico que deba seguirse; sin que puedan ser más de dos nombramientos, derivados por el principio de renovación anual a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+En caso de falta absoluta de cualquier integrante del Consejo Consultivo, el Presidente de la Comisión Nacional notificará inmediatamente a la Cámara de Senadores o, en su caso, a la Comisión Permanente; y se llevará a cabo el procedimiento establecido en el artículo 18 de esta Ley, dentro de los 90 días siguientes, independientemente de la renovación anual a que se refiere este artículo y por procedimiento separado. Esta designación será por un periodo completo.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+De realizarse más de un procedimiento de selección y designación de miembros del Consejo Consultivo, en el mismo año natural a aquel en que haya participado un candidato, éste podrá acudir al segundo o ulteriores procedimientos, siempre que haya cubierto los requisitos en aquel en que participó.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+En tal caso, bastará con que manifieste su deseo e interés de volver a participar, por escrito, sin necesidad de realizar trámite de registro adicional, siempre que su manifestación se realice hasta antes de que fenezca el periodo para registrarse conforme a la convocatoria correspondiente.
 
 > <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2013)</small>
 
@@ -792,5 +804,9 @@ DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 27 DE LA LEY DE L
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 7 DE NOVIEMBRE DE 2013.
+
+Único. El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2014.
 
 Único. El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
