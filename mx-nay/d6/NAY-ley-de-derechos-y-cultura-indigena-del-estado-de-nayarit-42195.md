@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-derechos-y-cultura-indigena-del-estado-de-nayarit-42195"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-18"
-last_updated: "2013-11-29"
+last_updated: "2014-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Vigésima Segunda del Periódico Oficial del Estado de Nayarit, el sábado 18 de diciembre de 2004.
 
@@ -349,6 +349,10 @@ La educación en los niveles preescolar, primaria y secundaria que se impartan e
 
 La educación bilingüe e intercultural deberá fomentar la enseñanza-aprendizaje tanto en la lengua de la comunidad indígena en que se imparta, como en el idioma castellano para que, como consecuencia, al término de la educación básica egresen alumnos que hablen con fluidez las dos lenguas.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2014)</small>
+
+En atención a lo anterior la Secretaría de Educación en el Estado y el Departamento de Educación Indígena de los Servicios de Educación Pública del Estado de Nayarit; se coordinarán con la Dirección General de Educación Indígena de la Secretaría de Educación Pública y el Instituto Nacional de Lenguas Indígenas, para impulsar la implementación de planes y programas en el Sistema de Educación Básica para logar (sic) la enseñanza-aprendizaje de los niños y las niñas de los pueblos indígenas, de acuerdo a lo establecido en el párrafo anterior.
+
 ###### Artículo 59.
 
 La educación que se imparta a los integrantes de las comunidades indígenas incluirá, además, el conocimiento de la historia y tradiciones de los pueblos indígenas.
@@ -518,3 +522,7 @@ P.O. 29 DE NOVIEMBRE DE 2013.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 2 DE ABRIL DE 2014.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
