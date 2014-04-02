@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "2006-05-03"
+last_updated: "2014-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFTSE"
 ---
 # LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
+LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MAYO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -272,9 +272,11 @@ Cuando por circunstancias especiales deban aumentarse las horas de jornada máxi
 
 Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 28.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1987)</small>
 
@@ -294,7 +296,7 @@ Durante las horas de jornada legal, los trabajadores tendrán obligación de des
 
 ### CAPITULO III
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 32.
 
@@ -394,13 +396,13 @@ ARTICULO 42 BIS.- Los trabajadores tendrán derecho a un aguinaldo anual que est
 
 ### CAPITULO IV
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 43.
 
 Son obligaciones de los titulares a que se refiere el Artículo 1o. de esta Ley:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 I.- Preferir en igualdad de condiciones, de conocimientos, aptitudes y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; a quienes representen la única fuente de ingreso familiar; a los Veteranos de la Revolución; a los supervivientes de la invasión norteamericana de 1914; a los que con anterioridad les hubieren prestado servicios y a los que acrediten tener mejores derechos conforme al escalafón.
 
@@ -1092,7 +1094,7 @@ IV.- Tramitar la correspondencia relacionada con los asuntos de la competencia d
 
 V.- Las demás que le confieran las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 121.
 
@@ -1498,19 +1500,19 @@ Joaquín Gamboa Pascoe.- D.P.- Rúbrica.- Lic. Manuel Moreno Sánchez, S.P.- Rú
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de mil novecientos sesenta y tres.- Adolfo López Mateos.- Rúbrica.- El Subsecretario de Gobernación Encargado del Despacho, Luis Echeverría.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Marina, Manuel Zermeño Araico.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortíz Mena.- Rúbrica.- El Secretario del Patrimonio Nacional, Eduardo Bustamante.- Rúbrica.- El Secretario de Industria y Comercio, Raúl Salinas Lozano.- Rúbrica.- El Secretario de Agricultura y Ganadería, Julián Rodríguez Adame.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Walter C. Buchanan.- Rúbrica.- El Secretario de Obras Públicas, Javier Barros Sierra.- Rúbrica.- El Secretario de Recursos Hidráulicos, Alfredo del Mazo.- Rúbrica.- El Secretario de Educación Pública, Jaime Torres Bodet.- Rúbrica.- El Secretario de Salubridad y Asistencia, José Alvarez Amezquita.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Secretario de la Presidencia, Donato Miranda Fonseca.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Roberto Barrios.- Rúbrica.- El Jefe del Departamento de Turismo, Francisco González de la Vega.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ernesto P. Uruchurtu.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 20 DE ENERO DE 1967.
 
-DECRETO QUE ADICIONA Y REFORMA DIVERSOS ARTICULOS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+DECRETO QUE ADICIONA Y REFORMA DIVERSOS ARTÍCULOS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTÍCULO 123 CONSTITUCIONAL.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 20 DE ENERO DE 1967.
 
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 46 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 46 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTÍCULO 123 CONSTITUCIONAL.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 28 DE DICIEMBRE DE 1972.
 
@@ -1570,13 +1572,13 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 D.O.F. 15 DE ENERO DE 1980.
 
-DECRETO DE REFORMAS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+DECRETO DE REFORMAS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTÍCULO 123 CONSTITUCIONAL.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 15 DE ENERO DE 1980.
 
-DECRETO DE REFORMAS AL ARTICULO 62 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+DECRETO DE REFORMAS AL ARTÍCULO 62 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTÍCULO 123 CONSTITUCIONAL.
 
 UNICO.- Este Decreto entrará en vigor el 1o. de enero de 1980.
 
@@ -1592,7 +1594,7 @@ El presente Decreto entrará en vigor a partir del día siguiente de su publicac
 
 D.O.F. 12 DE ENERO DE 1984.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTÍCULO 123 CONSTITUCIONAL.
 
 PRIMERO.- Las reformas y adiciones a la Ley Federal de los Trabajadores al Servicio del Estado que establece este Decreto, entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
 
@@ -1604,7 +1606,7 @@ CUARTO.- El Pleno del Tribunal deberá expedir su Reglamento Interior dentro de 
 
 D.O.F. 12 DE ENERO DE 1984.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 5, 32, 43 Y 65 A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, 32, 43 Y 65 A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTÍCULO 123 CONSTITUCIONAL.
 
 ###### ARTICULO PRIMERO.
 
@@ -1649,3 +1651,9 @@ D.O.F. 23 DE ENERO DE 1998.
 D.O.F. 3 DE MAYO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
