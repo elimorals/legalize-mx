@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-puertos-8972"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-21"
-last_updated: "2000-08-08"
+last_updated: "2014-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8972&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE LA LEY DE PUERTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 21 de noviembre de 1994.
 
@@ -95,31 +95,21 @@ Los administradores, operadores, concesionarios, permisionarios, prestadores de 
 
 ### CAPITULO II. OBRAS
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-###### Artículo 8.
-
-Las solicitudes para ejecutar obras, deberán contener los requisitos establecidos en las fracciones I a IV y VI del artículo 17 de este Reglamento, además de lo siguiente:
-
-I. Los montos de inversión;
-
-II. Título de concesión, en su caso, de la zona federal marítimo terrestre o zona federal terrestre, y
-
-III. Autorización en materia de impacto ambiental para realizar la obra.
-
-La Secretaría deberá dar respuesta a las solicitudes en un plazo que no exceda de cuarenta y cinco días naturales contados a partir de la recepción de la misma.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### Artículo 8o.
 
-La solicitud para ejecutar obras deberá ser acompañada de:
+Las solicitudes para la autorización de obras marítimas o dragado deberán cumplir con los requisitos establecidos en las fracciones I a IV, VI, IX, X y XII a XVII del artículo 17 de este Reglamento.
 
-I. Los proyectos generales y ejecutivos;
+La Secretaría podrá requerir información adicional debidamente relacionada con la solicitud de autorización para obras marítimas o dragado. Una vez que la solicitud se encuentre debidamente integrada, la Secretaría deberá dar respuesta a la solicitud en un plazo que no exceda de cuarenta y cinco días naturales.
 
-II. El programa de ejecución respectivo;
+Las solicitudes podrán presentarse, a elección del particular:
 
-III. Los aspectos relativos a las técnicas de construcción, y
+I.- En la ventanilla de la oficialía de partes correspondiente, o
 
-IV. Los montos de inversión.
+II.- Por medios electrónicos, con su Firma Electrónica Avanzada, utilizando el Sistema de Trámites Digitales de la Secretaría. En este caso, el interesado deberá manifestar expresamente su conformidad en términos del artículo 11 de la Ley de Firma Electrónica Avanzada.
+
+Las solicitudes presentadas en términos de la fracción II de este artículo deberán observar, en lo conducente, las disposiciones de la Ley de Firma Electrónica Avanzada y su Reglamento.
 
 ###### Artículo 9o.
 
@@ -177,25 +167,71 @@ En ambos casos la Secretaría, en las bases del concurso, establecerá los monto
 
 Las solicitudes de concesiones sobre bienes del dominio público de la Federación, que se adjudiquen directamente a los propietarios de los terrenos colindantes, deberán contener la siguiente información y documentación:
 
-I. La escritura constitutiva de la persona moral, inscrita en el Registro Público de Comercio o acta de nacimiento de la persona física, según sea el caso. Ambos documentos debidamente certificados;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-II. Los poderes y nombramientos que haya otorgado el solicitante al que, en su caso, promueva en su nombre;
+I. Copia certificada del acta constitutiva de la persona moral, inscrita en el Registro Público de Comercio o acta de nacimiento de la persona física, según sea el caso;
 
-III. La descripción de la obra que se pretenda construir;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-IV. Los proyectos, general y ejecutivos, correspondientes;
+II. Los poderes y nombramientos que haya otorgado el solicitante al que, en su caso, promueva en su nombre o la constancia del Registro de Personas Acreditadas;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+III. La descripción de la obra construida o que se pretenda construir;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+IV. Los proyectos general y ejecutivos, correspondientes y de los montos de inversión, cuando existan obras por construir;
 
 V. La descripción de los servicios que se pretendan prestar;
 
-VI. La acreditación de que cuenta con los recursos financieros, materiales y humanos para realizar el proyecto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-VII. Los títulos de propiedad de los terrenos colindantes, inscritos en el Registro Público de la Propiedad y certificados por fedatario público, y (sic)
+VI. La acreditación de que cuenta con los recursos financieros, materiales y humanos para realizar el proyecto, cuando existan obras por construir;
 
-> <small>(ADICIONADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-VIII. La garantía de trámite que fije la Secretaría, y
+VII. Copia certificada de los títulos de propiedad de los terrenos colindantes a la zona federal marítimo terrestre de que se trate, inscritos en el Registro Público de la Propiedad;
 
-IX. La demás información que el solicitante considere conveniente.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+VIII. La garantía de trámite mediante cualquier forma prevista por el artículo 137 del Reglamento de la Ley del Servicio de Tesorería de la Federación, por la cantidad equivalente a noventa y cinco días de salario mínimo en el Distrito Federal y área metropolitana;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+IX. El plano general de dimensionamiento que contenga el croquis de localización y los cuadros de construcción en coordenadas calculadas con el sistema de coordenadas universal transversal de Mercator;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+X. Fotografías del sitio donde se pretende construir la obra o, en su caso, de las obras construidas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+XI. Estudio económico financiero que contenga el análisis de flujo de efectivo proyectado a los años requeridos en concesión, los montos de inversión desglosados y el informe ejecutivo del proyecto en términos económicos, técnicos y del entorno del negocio;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+XII. Comprobante de pago de derechos por el estudio, trámite y, en su caso, expedición de la concesión;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+XIII. Título de concesión, en su caso, de la zona federal marítimo terrestre o zona federal terrestre;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+XIV. Copia certificada de la autorización en materia de impacto ambiental o, en su caso, su exención, que sea congruente el uso con el objeto de la solicitud, cuando se trate de obras por construir;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+XV. Copia del Registro Federal de Contribuyentes del solicitante;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+XVI. Copia de la Clave Única de Registro de Población, en caso de persona física, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+XVII. La demás información que el solicitante considere conveniente.
 
 La Secretaría podrá requerir información adicional relacionada con la concesión solicitada, y resolverá en un plazo no mayor de sesenta días hábiles, a partir de que se cumplan los anteriores requisitos. En caso de que no responda, se considerará denegada.
 
@@ -203,11 +239,21 @@ La Secretaría podrá requerir información adicional relacionada con la concesi
 
 La Secretaría fijará el monto de la garantía que deberá otorgar el concesionario para garantizar el cumplimiento de las obligaciones, la cual se actualizará y mantendrá vigente durante todo el tiempo de la concesión.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+Las solicitudes previstas en este artículo podrán presentarse, a elección del particular:
+
+I. En la ventanilla de la oficialía de partes correspondiente, o
+
+II. Por medios electrónicos, con su Firma Electrónica Avanzada, utilizando el Sistema de Trámites Digitales de la Secretaría. En este caso, el interesado deberá manifestar expresamente su conformidad en términos del artículo 11 de la Ley de Firma Electrónica Avanzada. Las solicitudes presentadas utilizando este medio deberán observar, en lo conducente, las disposiciones de la Ley de Firma Electrónica Avanzada y su Reglamento.
+
 ###### Artículo 18.
 
 Las solicitudes para la prórroga o ampliación de concesiones deberán hacerse por escrito ante la Secretaría con las razones que las justifiquen. Se anexará, en su caso, el programa maestro para la prórroga, o los ajustes a este último como resultado de la ampliación.
 
-La Secretaría podrá requerir a los solicitantes información adicional o complementaria que sea indispensable o las aclaraciones que considere necesarias, en relación con la solicitud de prórroga o ampliación.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+La Secretaría podrá requerir a los solicitantes información adicional o complementaria que sea indispensable, en términos del artículo 17 del presente Reglamento o las aclaraciones que considere necesarias, en relación con la solicitud de prórroga o ampliación.
 
 La Secretaría resolverá sobre la solicitud en un plazo no mayor de ciento veinte días naturales, contado a partir de su presentación debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que consideren la rentabilidad de la concesión.
 
@@ -229,33 +275,39 @@ Las concesiones podrán ser rescatadas por el Ejecutivo Federal, mediante indemn
 
 ### CAPITULO IV. PERMISOS
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### Artículo 21.
 
-Para obtener permiso para construir y usar embarcaderos, atracaderos, botaderos y demás similares, se requerirá solicitud por escrito a la Secretaría, indicando el uso que se le pretende dar a la obra, acompañada con los requisitos establecidos en las fracciones I a III del artículo 8o. y I a IV, VI, VIII y IX del artículo 17 de este Reglamento, así como la cédula del Registro Federal de Contribuyentes.
+Para obtener permiso para construir y usar embarcaderos, atracaderos, botaderos de uso particular, y demás similares en las vías generales de comunicación por agua, fuera de puertos, terminales y marinas, se deberán cumplir con los requisitos establecidos en las fracciones I a IV, VI, VIII, IX, X y XII a XVII del artículo 17 de este Reglamento.
 
-Para construir las obras antes descritas, en zonas fluviales o lacustres, de uso particular, deberá presentar los requisitos señalados en las fracciones I a III del artículo 8o. y I, II, VIII y IX del artículo 17 de este Reglamento, además de croquis de localización que contenga las técnicas de construcción, la cédula del Registro Federal de Contribuyentes.
+Para construir las obras antes descritas, en zonas fluviales o lacustres, de uso particular, se deberán presentar los requisitos señalados en las fracciones I a III, VI, VIII, IX, X, XII, XIII, XIV y XVII del artículo 17 de este Reglamento.
 
-Para obtener permiso para prestar servicios portuarios se deberán presentar los documentos señalados en las fracciones I, II, V, VI, VIII y IX del artículo 17, además de lo siguiente:
+Para obtener permiso para prestar servicios portuarios se deberán presentar los documentos señalados en las fracciones I, II, V, VI, VIII, XII, XV, XVI y XVII del artículo 17, además de lo siguiente:
 
-I. En todos los casos:
+I.- En todos los casos:
 
-a) Características técnicas del servicio;
+a. Características técnicas del servicio;
 
-b) Los compromisos de calidad;
+b. Los compromisos de calidad;
 
-c) Las metas de productividad calendarizadas;
+c. Las metas de productividad calendarizadas;
 
-d) Montos de inversión, y
+d. Montos de inversión, y
 
-e) Cédula del Registro Federal de Contribuyentes;
+e. Cédula del Registro Federal de Contribuyentes;
 
-II. Para prestar el servicio de combustibles, además la franquicia de Petróleos Mexicanos;
+II.- Para prestar el servicio de combustibles, además la franquicia que otorgue Petróleos Mexicanos;
 
-III. Para prestar el servicio de suministro de agua potable, además la autorización de la Comisión Nacional del Agua, y
+III.- Para prestar el servicio de suministro de agua potable, además la autorización de la Comisión Nacional del Agua, y
 
-IV. Para el servicio de recolección de basura y eliminación de aguas residuales, además la autorización de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca.
+IV.- Para la prestación de servicios de manejo de residuos, además la autorización de la Secretaría de Medio Ambiente y Recursos Naturales, en los casos que corresponda y en términos de la legislación aplicable.
+
+Las solicitudes para obtener los permisos previstos en este artículo podrán presentarse, a elección del particular:
+
+I.- En la ventanilla de la oficialía de partes correspondiente, o
+
+II.- Por medios electrónicos, con su Firma Electrónica Avanzada, utilizando el Sistema de Trámites Digitales de la Secretaría. En este caso, el interesado deberá manifestar expresamente su conformidad en términos del artículo 11 de la Ley de Firma Electrónica Avanzada. Las solicitudes presentadas utilizando este medio deberán observar, en lo conducente, las disposiciones de la Ley de Firma Electrónica Avanzada y su Reglamento.
 
 ###### Artículo 22.
 
@@ -357,9 +409,39 @@ Los administradores federales serán independientes de las capitanías, pero deb
 
 El director general de la administración portuaria integral, o su equivalente, deberá acreditar ante la capitanía su personalidad, debiendo contar con los poderes suficientes que garanticen su eficaz desempeño, como responsable de dicha administración.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### Artículo 32.
 
-Cuando en el título de concesión se determine la admisión de todos los prestadores de servicios que reúnan los requisitos establecidos, el administrador portuario tendrá la obligación de celebrar contratos con todos los solicitantes, previo cumplimiento de los requisitos que establezcan las reglas de operación del puerto.
+Cuando en el título de concesión se determine la admisión de todos los prestadores de servicios portuarios que reúnan los requisitos establecidos, el administrador portuario tendrá la obligación de celebrar contratos con todos los solicitantes, previo cumplimiento de los requisitos que establezcan las reglas de operación del puerto.
+
+Las prórrogas de contratos de cesión parcial de derechos y de prestación de servicios, en términos del último párrafo del artículo 51 de la Ley de Puertos, se sujetarán a lo siguiente:
+
+I.- El cesionario titular deberá estar al corriente en el cumplimiento de las obligaciones derivadas del contrato respectivo;
+
+II.- La duración de la prórroga solicitada no podrá exceder la vigencia de la concesión de la administración portuaria integral de que se trate;
+
+III.- Se podrán otorgar hasta por un plazo igual al otorgado en el contrato original, y
+
+IV.- La solicitud de prórroga deberá presentarse ante la administración portuaria integral de que se trate, durante la última tercera parte del plazo original de vigencia y a más tardar seis meses antes de su conclusión, acompañando el programa de inversión y mantenimiento, tanto en materia de infraestructura como de equipamiento, que justifique el periodo solicitado en prórroga.
+
+El programa de inversión de infraestructura y equipamiento deberá contener lo siguiente:
+
+a. Análisis financiero de flujos de efectivo proyectados de los años requeridos en prórroga, que justifique el periodo solicitado, elaborado por perito en la materia, para lo cual deberá realizar las corridas financieras para diferentes periodos de retorno de la inversión y determinar los indicadores financieros tales como valor presente neto y la tasa interna de retorno que permitan evaluar la viabilidad del proyecto propuesto;
+
+b. Análisis de flujo proyectado que deberá incluir, los montos de inversión desglosados y, en su caso, calendarizados en las diferentes etapas de construcción y/o mantenimiento, y
+
+c. Informe ejecutivo del proyecto en términos económicos, técnicos y del entorno del negocio por el que se justifique la prórroga solicitada, debiendo incluir la metodología utilizada y los planteamientos hipotéticos de la prórroga para las que se realizó el flujo financiero.
+
+El programa de mantenimiento deberá contener:
+
+a. Programa de mantenimiento calendarizado que garantice la conservación de la infraestructura y el buen funcionamiento del equipo en operación, y
+
+b. Programa de actividades que asegure la operación de la terminal, instalaciones portuarias o servicios cuando se trate del periodo de mantenimiento.
+
+El administrador portuario emitirá dictamen sobre la procedencia o improcedencia, mismo que dará a conocer al cesionario solicitante, en un término no mayor de noventa días naturales, contados a partir de la recepción de la solicitud debidamente requisitada.
+
+La prórroga correspondiente se enviará para su registro a la Secretaría, por conducto de la administración portuaria integral, en términos del artículo 51 de la Ley de Puertos, acompañada del dictamen respectivo.
 
 ###### Artículo 33.
 
@@ -475,6 +557,72 @@ La información que el presidente solicite deberá entregarse en un plazo máxim
 
 Cualquier parte interesada podrá presentar quejas al presidente del comité de operación, respecto de la actuación de los prestadores de servicios, usuarios y autoridades relacionadas para que se someta a conocimiento del comité. En caso de que el asunto de que se trate no se someta al comité oportunamente, cualquier parte interesada podrá presentar ante la Secretaría un informe pormenorizado de las circunstancias respectivas, la que tomará las medidas conducentes.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+###### Artículo 44 Bis.
+
+Para los efectos del artículo 58 Bis de la Ley de Puertos, el Comité de Planeación se integrará con los siguientes representantes permanentes:
+
+I.- El administrador portuario quien lo presidirá;
+
+II.- El Capitán de Puerto;
+
+III.- Un representante de la Secretaría de Medio Ambiente y Recursos Naturales;
+
+IV.- Un representante de las empresas cesionarias establecidas en el Puerto, y
+
+V.- Un representante de los prestadores de servicios portuarios de mayor influencia en la operación del puerto.
+
+En las reuniones del Comité de Planeación podrá participar con voz pero sin voto cualquier cesionario o prestador de servicio del Puerto, previa invitación hecha por el Presidente de dicho órgano colegiado.
+
+Los representantes permanentes tendrán la calidad de miembros propietarios y designarán a un suplente quién actuará con las mismas atribuciones, cuando asistan a las reuniones del Comité de Planeación por la ausencia de los miembros propietarios.
+
+La asignación de representante de los cesionarios y representante de los prestadores de servicios portuarios de mayor influencia en la operación del puerto, se llevará a cabo en sesión pública en presencia del administrador portuario y del Capitán de Puerto y con la mayoría de los cesionarios y prestadores de servicio del puerto, en la que manifestarán por escrito su conformidad de representación.
+
+Para la sustitución de un miembro propietario, se requiere la aprobación correspondiente al Comité de Planeación.
+
+El nombramiento de los miembros propietarios del Comité de Planeación será honorífico y por su desempeño no percibirán emolumento por asistir a las sesiones y por el ejercicio de su cargo.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+###### Artículo 44 Ter.
+
+Para los efectos del segundo párrafo del artículo 58 Bis de la Ley de Puertos, el Comité de Planeación conocerá:
+
+I.- Del Programa Maestro de Desarrollo Portuario y sus modificaciones:
+
+a. Se entenderá modificación sustancial la que modifique los usos, destinos y modos de operación previstos para las diferentes zonas del puerto o grupos de ellos, y
+
+b. Se entenderá modificación menor todas aquéllas que no modifiquen en modo alguno los usos, destinos y modos de operación previstos para las diferentes zonas del puerto o grupos de ellos;
+
+II.- De la Asignación de áreas, terminales y contratos de servicios portuarios que celebre el administrador portuario, y
+
+III.- Cualquier asunto que afecte la operatividad a largo plazo del puerto.
+
+El administrador portuario revisará que las recomendaciones aprobadas por el Comité de Planeación, no contravengan las condiciones de competencia, eficiencia, calidad e interés público, ni confieran exclusividad a algún cesionario o prestador de servicio del Puerto.
+
+El administrador portuario enviará a la Secretaría las recomendaciones del Comité de Planeación, con la finalidad de verificar su viabilidad conforme a las Políticas y Programas del Puerto de que se trate y el Sistema Portuario Nacional.
+
+El Comité de Planeación funcionará conforme a lineamientos, que para tal efecto haya emitido el propio Comité a propuesta del administrador portuario, mismos que deberán enviarse a la Secretaría para su previa autorización, la que tendrá un plazo de noventa días naturales, siguientes a su recepción, para resolver lo conducente, transcurrido dicho plazo sin que se emita la respuesta correspondiente se considerarán aprobados.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+###### Artículo 44 Quáter.
+
+Los lineamientos del Comité de Planeación deberán sujetarse a lo siguiente:
+
+I.- Las sesiones del Comité de Planeación deberán celebrarse en la localidad en donde se ubique el puerto;
+
+II.- Sesionará cuando menos tres veces al año, o a solicitud de cualquiera de sus integrantes, y sus recomendaciones se tomarán por mayoría de votos de los presentes;
+
+III.- Las convocatorias serán elaboradas por el administrador portuario y entregadas con tres días hábiles de anticipación a la fecha de la sesión a todos los representantes de sus miembros propietarios, en los domicilios que tengan registrados. Las convocatorias contendrán la fecha, el lugar y el orden del día;
+
+IV.- A las sesiones sólo podrá asistir el representante en funciones previamente acreditado. Para tal efecto, el administrador portuario conservará, con base en la información proporcionada, el registro de los representantes de cada uno de sus integrantes. Para cualquier cambio se dará aviso por escrito con acuse de recibo al administrador portuario. A dichas sesiones se podrán invitar especialistas en la materia con el objeto de explicar o proporcionar información que no se encuentre al alcance de ninguno de los integrantes del Comité de Planeación;
+
+V.- El administrador portuario presidirá todas las sesiones del Comité de Planeación. Para considerar legalmente instalada una sesión, en primera convocatoria será necesaria la asistencia de la mayoría de sus miembros propietarios, en segunda convocatoria la sesión se llevará a cabo con los que asistan y las resoluciones en ambos casos serán tomadas por mayoría de votos.
+
+Para la modificación de los Lineamientos del Comité de Planeación se requerirá al menos la aprobación de dos terceras partes de los miembros del Comité y la asistencia del administrador portuario, del Capitán de Puerto y del representante de la Secretaría de Medio Ambiente y Recursos Naturales. La modificación deberá ser presentada a la Secretaría para su autorización.
+
 ### CAPITULO IX. MARINAS
 
 ###### Artículo 45.
@@ -486,6 +634,18 @@ Las relaciones entre los propietarios de embarcaciones que se encuentren en dep�
 El titular de la concesión podrá operar la marina directamente o a través de terceros.
 
 La prestación de servicios portuarios en las mismas podrá efectuarse directamente por el titular, o por terceros que lo hagan por cuenta y orden de aquél, sin que se requiera de permiso específico para el servicio o servicios de que se trate, sin perjuicio de que el titular de la concesión siga siendo el responsable ante autoridades, usuarios y prestadores de servicios.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+Para la procedencia de la autorización por parte de la Secretaría de los contratos de uso, que los titulares de marinas y terminales de cruceros celebren en términos del penúltimo párrafo del artículo 20 de la Ley de Puertos, respecto de locales o espacios destinados a actividades relacionadas con el objeto de la concesión, se deberá observar lo siguiente:
+
+I.- Que la vigencia del contrato de uso no rebase la vigencia de la concesión;
+
+II.- Que el área materia del contrato esté debidamente delimitada con medidas y colindancias, mediante plano de localización, con cuadros de construcción en coordenadas calculadas con el sistema de coordenadas universal transversal de Mercator;
+
+III.- Que el titular del contrato de uso, cuente con seguro de responsabilidad civil de daños a terceros en sus personas o bienes, y
+
+IV.- Que en caso de terminación de la concesión por cualquiera de las causales previstas en el artículo 32 de la Ley Puertos, el contrato de uso, dejará de surtir efectos.
 
 ###### Artículo 47.
 
@@ -521,9 +681,11 @@ El operador de una marina será responsable de llevar un registro de entradas, e
 
 El operador de una marina no podrá negar la entrada o los servicios a las embarcaciones, excepto cuando no reúnan los requisitos mínimos de seguridad, pongan en peligro a las demás embarcaciones o a las instalaciones, o puedan provocar daños ecológicos.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### Artículo 50.
 
-La Secretaría podrá designar a un delegado honorario de la capitanía en cada marina, a propuesta del operador, expidiéndole para tal efecto el nombramiento respectivo.
+La Secretaría designará a un delegado honorario de la capitanía en cada marina, a propuesta del operador, expidiéndole para tal efecto el nombramiento respectivo.
 
 ###### Artículo 51.
 
@@ -711,9 +873,7 @@ c. Los prestadores de servicios responsables de la ejecución de maniobras, con 
 
 d. La relación del equipo necesario para la realización de las maniobras, en su caso;
 
-IV. La forma de acceso y suministro de información, que tenga como fin el logro de una programación de los servicios y maniobras necesarias para la eficiente realización de las actividades portuarias, así como las de los medios de comunicación para la transmisión de dicha
-
-información;
+IV. La forma de acceso y suministro de información, que tenga como fin el logro de una programación de los servicios y maniobras necesarias para la eficiente realización de las actividades portuarias, así como las de los medios de comunicación para la transmisión de dicha información;
 
 V. Los requisitos que deban cumplir los prestadores de servicios y la forma y términos en que desempeñarán sus funciones;
 
@@ -1084,3 +1244,7 @@ D.O.F. 8 DE AGOSTO DE 2000.
 SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE ENCUENTRAN RELACIONADOS CON EL PRESENTE REGLAMENTO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
