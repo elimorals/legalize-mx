@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-20026"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-17"
-last_updated: "2013-03-23"
+last_updated: "2014-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 2 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de julio de 1999.
 
@@ -1062,3 +1064,29 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 2 DE ABRIL DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley de Educación del Estado de Zacatecas, publicada en Suplemento 2 al número 57 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al sábado 17 de julio de 1999.
+
+Artículo Tercero. Dentro del término de noventa días naturales contados a partir de la vigencia de la presente Ley, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con las presentes disposiciones.
+
+Artículo Cuarto. Con el propósito de dar cumplimiento a la obligación de garantizar la calidad en la educación obligatoria, en el marco de las disposiciones que regulan el servicio profesional docente, el Ejecutivo del Estado, las Autoridades municipales y los organismos descentralizados, adecuarán su normativa de naturaleza laboral y administrativa, debiendo dejar sin efectos la que se oponga o limite el cumplimiento de dicha obligación.
+
+Artículo Quinto. Se derogan todas las disposiciones administrativas que se opongan a la presente
+
+Ley.
+
+Artículo Sexto. El Estado reconoce a todas las organizaciones sindicales del ámbito educativo, que cuenten con el reconocimiento legal, como las titulares de las relaciones laborales, en términos de su registro vigente y de acuerdo con las disposiciones legales aplicables.
+
+Artículo Séptimo. El personal docente y el personal con funciones de dirección o de supervisión en la educación básica o media superior impartida por el Estado, que a la entrada en vigor de esta Ley tenga nombramiento provisional, continuará en la función que desempeña y será sujeto de la evaluación que la propia Ley establece.
+
+Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará nombramiento definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto por la Ley General del Servicio Profesional Docente y en el presente ordenamiento.
+
+Será separado del servicio público sin responsabilidad para la Secretaría o el organismo descentralizado, el personal con nombramiento provisional que:
+
+a) Se niegue a participar en los procesos de evaluación.
+
+b) No se incorpore al programa de regularización correspondiente, cuando obtenga resultados insuficientes en el primero o segundo proceso de evaluación establecido en la presente Ley.
