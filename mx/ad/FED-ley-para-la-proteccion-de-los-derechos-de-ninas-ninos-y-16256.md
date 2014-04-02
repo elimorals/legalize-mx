@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-16256"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-29"
-last_updated: "2010-08-19"
+last_updated: "2014-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16256&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2000-05-23"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de mayo de 2000.
 
@@ -263,15 +263,19 @@ Tratándose de adopción internacional, las normas internas deben disponer lo ne
 
 ### Capítulo Octavo. Del Derecho a la Salud
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### Artículo 28.
 
-Niñas, niños y adolescentes tienen derecho a la salud. Las autoridades federales, del Distrito Federal, estatales y municipales en el ámbito de sus respectivas competencias, se mantendrán coordinados a fin de:
+Niñas, Niños y Adolescentes tienen derecho a la salud. Las autoridades federales, del Distrito Federal, estatales y municipales en el ámbito de sus respectivas competencias, se mantendrán coordinados a fin de:
 
 A. Reducir la mortalidad infantil.
 
 B. Asegurarles asistencia médica y sanitaria para la prevención, tratamiento y la rehabilitación de su salud.
 
-C. Promover la lactancia materna.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+C. Capacitar y fomentar la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
 
 D. Combatir la desnutrición mediante la promoción de una alimentación adecuada.
 
@@ -563,8 +567,14 @@ México, D.F., a 28 de abril de 2000.- Dip. Francisco José Paoli Bolio, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 19 DE AGOSTO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
