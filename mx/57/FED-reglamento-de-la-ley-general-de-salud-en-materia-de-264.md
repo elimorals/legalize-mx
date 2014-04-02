@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-264"
 country: "mx"
 rank: "reglamento"
 publication_date: "1987-01-06"
-last_updated: "1987-01-06"
+last_updated: "2014-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1986-12-23"
 ---
 # REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD
 
-REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD
+REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACIÓN PARA LA SALUD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 6 de enero de 1987.
 
@@ -149,9 +149,19 @@ En la formulación de políticas de investigación y en la coordinación de acci
 
 La Secretaría, en coordinación con la Secretaría de Educación Pública y con la colaboración del Consejo Nacional de Ciencia y Tecnología y las instituciones de educación superior, realizará y mantendrá actualizado el inventario nacional de investigación en el área de su competencia.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 10.
 
-Para los fines señalados en el artículo anterior y en los términos de la Ley para Coordinar y Promover el Desarrollo Científico y Tecnológico, se establecerá un Sistema Nacional de Registro de la Investigación y Desarrollo Tecnológico, y la Secretaría emitirá las normas técnicas correspondientes a que deberán sujetarse las instituciones que la realicen, para el registro y seguimiento de los proyectos.
+Para los fines señalados en el artículo anterior y en los términos del artículo 99 de la Ley, la Secretaría deberá llevar y mantener actualizado en forma anual, un inventario de la investigación que se realiza en el sistema institucional de la Secretaría, el cual contemplará el registro de:
+
+I. Los centros donde se realice investigación;
+
+II. Los investigadores;
+
+III. Las publicaciones científicas de los investigadores, y
+
+IV. El desempeño de los investigadores.
 
 ###### ARTICULO 11.
 
@@ -177,7 +187,9 @@ En toda investigación en la que el ser humano sea sujeto de estudio, deberán p
 
 La Investigación que se realice en seres humanos deberá desarrollarse conforme a las siguientes bases:
 
-I. Se ajustará a los principios científicos y éticos que la justifiquen;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+I. Deberá adaptarse a los principios científicos y éticos que justifican la investigación médica, especialmente en lo que se refiere a su posible contribución a la solución de problemas de salud y al desarrollo de nuevos campos de la ciencia médica;
 
 II. Se fundamentará en la experimentación previa realizada en animales, en laboratorios o en otros hechos científicos;
 
@@ -185,13 +197,27 @@ III. Se deberá realizar sólo cuando el conocimiento que se pretenda producir n
 
 IV. Deberán prevalecer siempre las probabilidades de los beneficiados esperados sobre los riesgos predesibles;
 
-V. Contará con el consentimiento informado y por escrito del sujeto de investigación o su representante legal, con las excepciones que este Reglamento señala;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+V. Contará con el consentimiento informado del sujeto en quien se realizará la investigación, o de su representante legal, en caso de incapacidad legal de aquél, en términos de lo dispuesto por este Reglamento y demás disposiciones jurídicas aplicables;
 
 VI. Deberá ser realizada por profesionales de la salud a que se refiere el artículo 114 de este Reglamento, con conocimiento y experiencia para cuidar la integridad del ser humano, bajo la responsabilidad de una institución de atención a la salud que actúe bajo la supervisión de las autoridades sanitarias competentes y que cuente con los recursos humanos y materiales necesarios, que garanticen el bienestar del sujeto de investigación;
 
-VII. Contará con el dictamen favorable de las Comisiones de Investigación, Etica y la de Bioseguridad, en su caso, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-VIII. Se llevará a cabo cuando se tenga la autorización del titular de la institución de atención a la salud y, en su caso, de la Secretaría, de conformidad con los artículos 31, 62, 69, 71, 73, y 88 de este Reglamento.
+VII. Contará con el dictamen favorable de los Comités de Investigación, de Ética en Investigación y de Bioseguridad, en los casos que corresponda a cada uno de ellos, de conformidad con lo dispuesto en el presente Reglamento y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+VIII. Se llevará a cabo cuando se tenga la autorización del titular de la institución de atención a la salud y, en su caso, de la Secretaría, de conformidad con los artículos 31, 62, 69, 71, 73, y 88 de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+IX. Deberá ser suspendida la investigación de inmediato por el investigador principal, en el caso de sobrevenir el riesgo de lesiones graves, discapacidad o muerte del sujeto en quien se realice la investigación, así como cuando éste lo solicite, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+X. Será responsabilidad de la institución de atención a la salud en la que se realice la investigación proporcionar atención médica al sujeto de investigación que sufra algún daño, si estuviere relacionado directamente con la investigación, sin perjuicio de la indemnización que legalmente corresponda.
 
 ###### ARTICULO 15.
 
@@ -213,11 +239,11 @@ III.- Investigación con riesgo mayor que el mínimo: Son aquéllas en que las p
 
 ###### ARTICULO 18.
 
-El investigador principal suspenderá la investigación de inmediato, al advertir algún riesgo o daño a la salud del sujeto en quien se realice la investigación. Asimismo, será suspendida de inmediato cuando el sujeto de investigación así lo manifieste.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2014)
 
 ###### ARTICULO 19.
 
-Es responsabilidad de la institución de atención a la salud proporcionar atención médica al sujeto que sufra algún daño, si estuviere relacionado directamente con la investigación, sin perjuicio de la indemnización que legalmente corresponda.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2014)
 
 ###### ARTICULO 20.
 
@@ -253,9 +279,13 @@ XI. Que si existen gastos adicionales, éstos serán absorbidos por el presupues
 
 El consentimiento informado deberá formularse por escrito y deberá reunir los siguientes requisitos:
 
-I. Será elaborado por el investigador principal, indicando la información señalada en el artículo anterior y de acuerdo a la norma técnica que emita la Secretaría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-II. Será revisado y, en su caso, aprobado por la Comisión de Etica de la institución de atención a la salud;
+I. Será elaborado por el investigador principal, señalando la información a que se refiere el artículo anterior y atendiendo a las demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+II. Será revisado y, en su caso, aprobado por el Comité de Ética en Investigación de la institución de atención a la salud;
 
 III. Indicará los nombres y direcciones de dos testigos y la relación que éstos tengan con el sujeto de investigación;
 
@@ -265,7 +295,7 @@ V. Se extenderá por duplicado, quedando un ejemplar en poder del sujeto de inve
 
 ###### ARTICULO 23.
 
-En caso de investigaciones con riesgo mínimo, la Comisión de Etica, por razones justificadas, podrá autorizar que el consentimiento informado se obtenga sin formularse por escrito y, tratándose de investigaciones sin riesgo, podrá dispensar al investigador la obtención del consentimiento informado.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2014)
 
 ###### ARTICULO 24.
 
@@ -273,11 +303,11 @@ Si existiera algún tipo de dependencia, ascendencia o subordinación del sujeto
 
 ###### ARTICULO 25.
 
-Cuando sea necesario determinar la capacidad mental de un individuo para otorgar su consentimiento, el investigador principal deberá evaluar su capacidad de entendimiento, razonamiento y lógica, de acuerdo a los parámetros aprobados por la Comisión de Etica.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2014)
 
 ###### ARTICULO 26.
 
-Cuando se presuma que la capacidad mental de un sujeto hubiere variado en el tiempo, el consentimiento informado de éste o, en su caso, de su representante legal, deberá ser avalado por un grupo de profesionales de reconocida capacidad científica y moral en los campos específicos de la investigación así como de un observador que no tenga relación con la investigación, para asegurar la idoneidad del mecanismo de obtención del consentimiento, así como su validez durante el curso de la investigación.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2014)
 
 ###### ARTICULO 27.
 
@@ -293,9 +323,13 @@ Las investigaciones referidas a la salud humana en comunidades serán admisibles
 
 En las investigaciones en comunidades, el investigador principal deberá obtener la aprobación de las autoridades de salud y otras autoridades civiles de la comunidad a estudiar, además de obtener la carta de consentimiento informado de los individuos que se incluyan en el estudio, dándoles a conocer la información a que se refieren los artículos 21 y 22 de este Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+Tratándose de comunidades que por sus condiciones económicas o sociales, se encuentren en situación de vulnerabilidad, entre ellas, las comunidades y pueblos indígenas, se requerirá además, que el Comité de Ética en Investigación de la institución a la que pertenece el investigador principal, opine favorablemente la realización de la investigación.
+
 ###### ARTICULO 30.
 
-Cuando los individuos que conforman una comunidad no tengan la capacidad para comprender las implicaciones de participar en una investigación, la Comisión de Etica de la institución a la que pertenece el investigador principal, podrá autorizar o no que el escrito de consentimiento informado de los sujetos sea obtenida a través de una persona confiable con autoridad moral sobre la comunidad. En caso de no autorizarse por la Comisión, la investigación no se realizará. Por otra parte, la participación de los individuos será enteramente voluntaria y cada uno estará en libertad de abstenerse o dejar de participar en cualquier momento del estudio.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2014)
 
 ###### ARTICULO 31.
 
@@ -325,9 +359,11 @@ Para la realización de investigaciones en menores o incapaces, deberá, en todo
 
 Cuando dos personas ejerzan la patria potestad de un menor, sólo será admisible el consentimiento de una de ellas si existe imposibilidad fehaciente o manifiesta de la otra para proporcionarlo o en caso de riesgo inminentes para la salud o la vida del menor o incapaz.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 37.
 
-Cuando la capacidad mental y estado psicológico del menor o incapaz lo permitan, deberá obtenerse, además, su aceptación para ser sujeto de investigación, después de explicarle lo que se pretende hacer. La Comisión de Etica podrá dispensar el cumplimiento de estos requisitos por razones justificadas.
+Cuando la capacidad mental y estado psicológico del menor o incapaz lo permitan, deberá obtenerse, además, su aceptación para ser sujeto de investigación, después de explicarle lo que se pretende hacer. El Comité de Ética en Investigación podrá dispensar el cumplimiento de estos requisitos por causas justificadas.
 
 ###### ARTICULO 38.
 
@@ -427,7 +463,9 @@ Durante la ejecución de investigaciones en mujeres embarazadas:
 
 I. Los investigadores no tendrán autoridad para decidir sobre el momento, método o procedimiento empleados para terminar el embarazo, ni participarán en decisiones sobre la vialidad del feto;
 
-II. Sólo con la autorización de la Comisión Etica podrá modificarse el método para terminar el embarazo con propósitos de investigación, cuando tales modificaciones signifiquen un riesgo mínimo para la salud de la madre y no representen riesgo alguno para la sobrevivencia del feto, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+II. Sólo con la autorización del Comité de Ética en Investigación podrá modificarse el método para terminar el embarazo con propósitos de investigación, cuando tales modificaciones signifiquen un riesgo mínimo para la salud de la madre y no representen riesgo alguno para la sobrevivencia del feto, y
 
 III. En todo caso queda estrictamente prohibido otorgar estímulos monetarios o de otro tipo para interrumpir el embarazo, por el interés de la investigación o por otras razones.
 
@@ -469,9 +507,11 @@ La investigación sobre fertilización asistida sólo será admisible cuando se 
 
 Se entiende por grupos subordinados a los siguientes: a los estudiantes, trabajadores de laboratorios y hospitales, empleados, miembros de las fuerzas armadas, internos en reclusorios o centros de readaptación social y otros grupos especiales de la población, en los que el consentimiento informado pueda ser influenciado por alguna autoridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 58.
 
-Cuando se realicen investigaciones en grupos subordinados, en la Comisión de Etica deberá participar uno o más miembros de la población en estudio, capaz de representar los valores morales, culturales y sociales del grupo en cuestión y vigilar:
+Cuando se realicen investigaciones en grupos subordinados, los representantes del núcleo afectado o de las personas usuarias que participen en el Comité de Ética en Investigación, en términos de lo dispuesto por el párrafo segundo del artículo 41 Bis de la Ley, vigilarán:
 
 I. Que la participación, el rechazo de los sujetos a intervenir o retiro de su consentimiento durante el estudio, no afecte su situación escolar, laboral, militar o la relacionada con el proceso judicial al que estuvieran sujetos y las condiciones de cumplimiento de sentencia, en su caso;
 
@@ -485,9 +525,11 @@ III. Que la institución de atención a la salud y los patrocinadores se respons
 
 La investigación a que se refiere este Capítulo comprende la que incluye la utilización de órganos, tejidos y sus derivados, productos y cadáveres de seres humanos, así como el conjunto de actividades relativas a su obtención, conservación, utilización, preparación, suministro y destino final.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 60.
 
-Esta investigación deberá observar, además del debido respeto al cadáver humano, las disposiciones aplicables estipuladas en el presente ordenamiento y lo establecido en el Título Décimo Cuarto de la Ley y su Reglamento en Materia de Control Sanitario de la disposición de Organos, Tejidos y Cadáveres de Seres Humanos.
+La investigación a que se refiere este Capítulo deberá observar, además del respeto, dignidad y consideración al cadáver humano, lo dispuesto por el presente Reglamento y lo establecido en el Título Décimo Cuarto de la Ley y demás disposiciones jurídicas aplicables.
 
 ## TITULO TERCERO. De la investigación de nuevos Recursos Profilácticos, de Diagnósticos, Terapéuticos y de Rehabilitación
 
@@ -497,15 +539,21 @@ Esta investigación deberá observar, además del debido respeto al cadáver hum
 
 Cuando se realice investigación en seres humanos, sobre nuevos recursos profilácticos, de diagnóstico, terapéutico y de rehabilitación o se pretenda modificar los ya conocidos, deberá observarse, en lo aplicable, lo dispuesto en los artículos anteriores y satisfacer lo señalado en este Título.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 62.
 
-Las autoridades correspondientes de las instituciones de atención a la salud que realicen estas investigaciones deberán obtener la autorización de la Secretaría. Al efecto, presentarán la siguiente documentación:
+Los interesados en realizar las investigaciones a que se refiere este Título deberán obtener la autorización de la Secretaría. Al efecto, presentarán su solicitud por escrito anexando la siguiente documentación:
 
 I. Protocolo de investigación que deberá contener un análisis objetivo y completo de los riesgos involucrados, comparados con los riegos de los métodos de diagnóstico y tratamiento establecidos y la expectativa de las condiciones de vida del sujeto con y sin el procedimiento o tratamiento propuesto;
 
-II. Carta de aceptación del titular de la institución donde se efectuará la investigación;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-III. Dictamen favorable de las Comisiones de Investigación, Etica y, en su caso, de bioseguridad;
+II. Carta de aceptación del titular de la institución donde se efectuaría la investigación, así como del investigador principal responsable de la misma;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+III. Dictamen favorable de los Comités de Investigación y de Ética en Investigación y, en su caso, de Bioseguridad;
 
 IV. Descripción de los recursos disponibles, incluyendo áreas, equipo y servicios auxiliares de laboratorios y gabinetes;
 
@@ -513,11 +561,21 @@ V. Descripción de los recursos disponibles para el manejo de urgencias médicas
 
 VI. Historial profesional del investigador principal, que incluya su preparación académica, producción científica representativa y práctica clínica o experiencia en el área de la investigación propuesta;
 
-VII. Preparación académica y experiencia del personal médico, paramédico y otros expertos que participaran en las actividades de la investigación;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-VIII. Los requisitos señalados en los artículos 69 y 73 de este Reglamento, en su caso, y
+VII. Aquélla que compruebe la preparación académica y experiencia del personal médico, paramédico y otros expertos que participarán en las actividades de la investigación;
 
-IX. Las demás que señalen las normas técnicas que al efecto emita la Secretaría.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+VIII. Aquélla con la que, en su caso, se acredite la información, señalada en los artículos 69 y 73 de este Reglamento, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+IX. La demás que señalen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+Los interesados podrán presentar con su solicitud de autorización el dictamen emitido por un tercero autorizado para tal efecto por la Secretaría, el cual deberá contener el informe técnico sobre la seguridad y validez científica del protocolo de investigación correspondiente, de conformidad con las disposiciones jurídicas aplicables, mismo que será valorado por la Secretaría, a efecto de determinar si procede otorgar la autorización. En este supuesto, la Secretaría resolverá lo conducente, en un plazo de treinta días hábiles, contados a partir del día siguiente al de la presentación de la solicitud.
 
 ###### ARTICULO 63.
 
@@ -527,15 +585,21 @@ Cuando exista patrocinio u otras formas de remuneración, deberán establecerse 
 
 En el desarrollo de las investigaciones contempladas en este Título deberán cumplirse las obligaciones siguientes:
 
-I. El investigador principal informará a la Comisión de Etica de todo efecto adverso probable o directamente relacionado con la investigación;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+I. El investigador principal informará al Comité de Ética en Investigación de todo efecto adverso probable o directamente relacionado con la investigación;
 
 II. El titular de la institución, a su vez, notificará a la Secretaría la presencia de cualquier efecto adverso, dentro de un plazo máximo de 15 días hábiles siguentes (sic) a su presentación;
 
-III. El investigador principal, la Comisión de Etica, los funcionarios facultados de la institución de atención a la salud de que se trate o la Secretaría, deberán suspender o cancelar la investigación ante la presencia de cualquier efecto adverso que sea impedimento desde el punto de vista ético o técnico para continuar con el estudio;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+III. El investigador principal, el Comité de Ética en Investigación, los funcionarios facultados de la institución de atención a la salud de que se trate o la Secretaría, deberán suspender o cancelar la investigación ante la presencia de cualquier efecto adverso que sea impedimento desde el punto de vista ético o técnico para continuar con el estudio;
 
 IV. La institución de atención a la salud rendirá a la Secretaría un informe dentro de los 15 días hábiles siguientes a aquél en que se haya acordado la suspensión o cancelación del estudio, que especifique el efecto advertido, las medidas adoptadas y secuelas producidas, y
 
-V. Las demás que señalen las normas técnicas que al efecto emita la Secretaría.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+V. Las demás que señalen las disposiciones jurídicas aplicables.
 
 ### CAPITULO II. De la Investigación Farmacológica
 
@@ -543,9 +607,11 @@ V. Las demás que señalen las normas técnicas que al efecto emita la Secretar�
 
 Para los efectos de este Reglamento, se entiende por investigación farmacológica a las actividades científicas tendientes al estudio de medicamentos y productos biológicos para uso en humanos, respecto de los cuales no se tenga experiencia previa en el país, que no hayan sido registrados por la Secretaría y, por lo tanto, no sean distribuidos en forma comercial, así como los medicamentos registrados y aparobados (sic) para su venta, cuando se investigue su uso con modalidades, indicaciones, dosis o vías de administración diferentes de las establecidas, incluyendo su empleo en combinaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 66.
 
-La investigación de medicamentos en farmacología clínica comprende la secuencia de estudios que se llevan a cabo desde que se administran por primera vez al ser humano hasta que se obtienen datos sobre su eficacia y seguridad terapéutica en grandes grupos de población. Para tal efecto se consideran las siguientes fases:
+La investigación de medicamentos en farmacología clínica comprende la secuencia de estudios que se llevan a cabo desde que se administran por primera vez al ser humano hasta que se obtienen datos sobre su eficacia, calidad y seguridad terapéutica en grandes grupos de población. Para tal efecto se consideran las siguientes fases:
 
 FASE I.- Es la administración por primera vez de un medicamento de investigación al ser humano sano, sin beneficio diagnóstico o terapéutico, en dosis únicas o múltiples, en grupos pequeños hospitalizados , para establecer parámetros farmacológicos iniciales en el hombre;
 
@@ -581,11 +647,15 @@ II. Se realicen solamente en sujetos voluntarios con la enfermedad específica a
 
 III. No ocasionen gastos al paciente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 71.
 
-En el tratamiento de urgencia en condiciones que amenazan la vida de una persona, cuando se considere necesario usar un medicamento de investigación o un medicamento conocido empleando indicaciones, dosis y vías de administración diferentes de las establecidas, el médico deberá obtener el dictamen favorable de la Comisión de Investigación de la institución de atención a la salud y la carta de consentimiento informado del sujeto de investigación o, en su caso, de su representante legal, según lo permitan las circunstancias, de acuerdo a las siguientes bases:
+En el tratamiento de urgencia en condiciones que amenazan la vida de una persona, cuando se considere necesario usar un medicamento de investigación o un medicamento conocido empleando indicaciones, dosis y vías de administración diferentes de las establecidas, el médico tratante deberá obtener el dictamen favorable de los Comités de Investigación y de Ética en Investigación de la institución de atención a la salud, así como la carta de consentimiento informado del sujeto de investigación o, en su caso, de su representante legal, según lo permitan las circunstancias, de acuerdo a las siguientes bases:
 
-I. Las Comisiones de Investigaciones y de Etica serán informadas del empleo del medicamento de investigación de manera anticipada si el investigador puede prever la necesidad de su uso en situaciones de urgencia. En forma retrospectiva, si el uso del medicamento, la indicación, dosis o vías de administración nuevas surgieran como necesidades no previstas. En ambos casos las comisiones emitirán el dictamen en favor o en contra de aprobar el uso planeado o la repetición del uso no previsto del medicamento y el titular de la institución de atención médica será responsable de requerir que la Secretaría autorice tales usos, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+I. Los Comités de Investigación y de Ética en Investigación serán informados del empleo del medicamento de investigación de manera anticipada si el investigador puede prever la necesidad de su uso en situaciones de urgencia. En forma posterior, si el uso del medicamento, la indicación, dosis o vías de administración nuevas surgieran como necesidades no previstas. En ambos casos los Comités emitirán el dictamen en favor o en contra de aprobar el uso planeado o la repetición del uso no previsto del medicamento, y
 
 II. La carta de consentimiento informado será obtenida del sujeto de investigación, en su aso (sic), de su representante legal o del familiar más cercano en vínculo, excepto cuando la condición del sujeto le incapacite o impida otorgarlo, el representante legal o el familiar no estén disponibles y el dejar de usar el medicamento de investigación represente un riesgo casi absoluto de muerte.
 
@@ -603,17 +673,99 @@ I. Los fundamentos científicos, información sobre la experimentación previa r
 
 II. Estudios previos de investigación clínica, cuando los hubiere.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 74.
 
-Todas las investigaciones sobre injertos y trasplantes deberán observar, además de las disposiciones aplicables del presente Reglamento, lo estipulado en materia de control sanitario de la disposición de órganos, tejidos, y cadáveres de seres humanos.
+Las investigaciones relacionadas con la disposición de órganos, tejidos y células, incluyendo la sangre y sus componentes, deberá sujetarse a lo previsto por la Ley, el presente Reglamento y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+## TÍTULO TERCERO BIS. Terceros Autorizados
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 1.- Para efectos de este Reglamento, se considera tercero autorizado a la persona física o moral autorizada por la Secretaría para emitir los dictámenes a que hace referencia el párrafo segundo del artículo 102 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 2.- La Secretaría publicará en el Diario Oficial de la Federación las convocatorias dirigidas a las personas físicas y morales interesadas en fungir como tercero autorizado, en las cuales se establecerán, entre otros aspectos, el alcance, los requisitos y las condiciones para su autorización.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 3.- La Secretaría formará un comité técnico integrado por expertos en materia de investigación en seres humanos, representantes de cámaras y asociaciones y, en su caso, de la entidad de acreditación, que tendrá como función opinar técnicamente las solicitudes para el otorgamiento de autorizaciones de terceros.
+
+La operación y funcionamiento del comité técnico a que se refiere el párrafo anterior, será conforme a las reglas de operación que para tal efecto emita dicho comité.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 4.- Para obtener la autorización como tercero autorizado, el interesado deberá cumplir con los siguientes requisitos:
+
+I. Presentar solicitud en el formato que establezca la Secretaría. Para tal efecto, la Secretaría dará a conocer el formato correspondiente mediante publicación que se realice en el Diario Oficial de la Federación;
+
+II. Acompañar la documentación que acredite la experiencia y capacidad legal, técnica, material, humana y financiera para emitir los dictámenes a que se refiere el segundo párrafo del artículo 102 de la Ley;
+
+III. Contar con las instalaciones, equipo y tecnología para llevar a cabo las pruebas, estudios y demás actividades necesarias para emitir los dictámenes a que se refiere el segundo párrafo del artículo 102 de la Ley;
+
+IV. Contar con procedimientos normalizados de operación que garanticen la calidad en el desempeño de sus funciones;
+
+V. Acompañar escrito que señale bajo protesta de decir verdad, que no está sujeto a influencia directa por algún fabricante, comerciante, persona física o moral, mercantil de los protocolos de investigación a dictaminar, y
+
+VI. Presentar sus propuestas de actividades para dictaminar protocolos de investigación, así como describir los servicios que pretende prestar y los procedimientos a utilizar para realizar dichos dictámenes.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 5.- Presentada la solicitud para la autorización de tercero autorizado, la Secretaría procederá a realizar las visitas de verificación y, conjuntamente con el comité a que se refiere el artículo 74 Bis 3 del presente Reglamento, realizará las evaluaciones que sean necesarias para dictaminar si se cumplen los requisitos a que se refiere el artículo anterior.
+
+En caso de no ser favorable el dictamen que emita la Secretaría, se otorgará un plazo de hasta ciento ochenta días naturales al solicitante, contados a partir del día siguiente al que se le haya notificado dicho dictamen, para corregir las anomalías detectadas. El plazo otorgado podrá prorrogarse por un período igual, por una sola ocasión, cuando el solicitante justifique la necesidad de ello.
+
+En caso de que el solicitante no corrija las anomalías detectadas en el plazo que se le otorgue, conforme a lo dispuesto en el párrafo anterior, se tendrá por desistida su solicitud.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 6.- La autorización como tercero tendrá una vigencia de dos años, misma que podrá prorrogarse por plazos iguales, a solicitud del interesado.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 7.- Los terceros autorizados deberán:
+
+I. Cumplir con las disposiciones contenidas en la Ley, este Reglamento y demás disposiciones jurídicas aplicables;
+
+II. Abstenerse de prestar sus servicios como tercero autorizado, cuando sean accionistas, asesores, causahabientes, apoderados, consejeros, comisarios, o cualquier otro tipo de relación con la persona que solicita sus servicios, que pueda significar un conflicto de intereses;
+
+III. Informar de manera inmediata a la Secretaría, de cualquier irregularidad o incumplimiento a las disposiciones sanitarias que identifiquen durante la evaluación de los protocolos de investigación que realice;
+
+IV. Proporcionar a la Secretaría informes sobre los dictámenes y recomendaciones técnicas que expidan sobre los protocolos de investigación que evalúen, así como proporcionar la información que les sea requerida por dicha dependencia;
+
+V. Asistir a la Secretaría en casos de emergencia sanitaria, y
+
+VI. Permitir la verificación de sus actividades por parte de la Secretaría y facilitar a sus verificadores el libre acceso a sus instalaciones.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 8.- El resultado de las pruebas que realice el tercero autorizado, se hará constar en un dictamen que será firmado, bajo su responsabilidad, por la persona facultada para ello. Dichos dictámenes tendrán validez ante la Secretaría conforme a las funciones que le hayan sido autorizadas al tercero.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 9.- La Secretaría podrá, en cualquier tiempo, realizar visitas de verificación a los terceros autorizados para comprobar que las condiciones bajo las cuales se otorgó la autorización correspondiente son cumplidas.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 10.- Si derivado de las visitas de verificación, la Secretaría advierte que las condiciones a que se refiere el artículo anterior no subsisten, o bien, no se cumple con las disposiciones jurídicas aplicables, ésta prevendrá al interesado para que subsane las anomalías encontradas y le otorgará un plazo de hasta ciento ochenta días, contados a partir del día siguiente al que se le haya notificado dichas anomalías, para corregirlas. Lo anterior, sin perjuicio de que cuando la irregularidad detectada implique un riesgo para la salud, la Secretaría podrá ordenar la suspensión temporal de las actividades que realiza el tercero autorizado.
+
+Si el tercero autorizado no desahoga la prevención, en el plazo que se le otorgue conforme a lo dispuesto en el párrafo anterior, será causa de suspensión de la autorización otorgada, en términos del artículo 412 de la Ley, y la Secretaría concederá un nuevo plazo de noventa días para corregir dichas irregularidades. En caso de que no se cumpla con lo señalado por la Secretaría dentro de este último plazo, se revocará la autorización.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+ARTICULO 74 BIS 11.- La Secretaría publicará en el Diario Oficial de la Federación la relación de los terceros autorizados para dictaminar protocolos de investigación, así como las suspensiones y revocaciones a dichas autorizaciones.
 
 ## TITULO CUARTO. De la Bioseguridad de las Investigaciones
 
 ### CAPITULO I. De la Investigación con Microorganismos Patógenos o Material Biológico que pueda Contenerlos
-
-## TITULO QUINTO. De las Comisiones Internas en las Instituciones de Salud
-
-### CAPITULO II. De la investigación que implique construcción y manejo de ácidos nucleicos recombinantes
 
 ###### ARTICULO 75.
 
@@ -653,11 +805,15 @@ II. Seguridad personal de los empleados;
 
 III. Manejo y mantenimiento de insolaciones y equipos;
 
-IV. Situaciones de urgencia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+IV. Situaciones de emergencia;
 
 V. Restricciones de entrada y tránsito;
 
-VI. Recepción de transportes de materiales biológicos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+VI. Recepción y transporte de materiales biológicos;
 
 VII. Disposiciones de desechos;
 
@@ -665,9 +821,11 @@ VIII. Descontaminación, y
 
 IX. Los demás que se consideren necesarios para lograr la seguridad microbiológica.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 78.
 
-El investigador principal, de acuerdo con un superior jerárquico, la Comisión de Bioseguridad y el titular de la institución, determinará, conforme a las normas técnicas emitidas por la Secretaría, el tipo de laboratorio en el que deberá realizar las investigaciones propuestas, así como los procedimientos respectivos, tomando en cuenta el grado de riesgo de infección que presenten los microorganismos a utilizar.
+El investigador principal, de acuerdo con su superior jerárquico, el Comité de Bioseguridad y el titular de la institución de atención a la salud, determinará, conforme a las disposiciones aplicables, el tipo de laboratorio en el que deberá realizar las investigaciones propuestas, así como los procedimientos respectivos, tomando en cuenta el grado de riesgo de infección que presenten los microorganismos a utilizar.
 
 ###### ARTICULO 79.
 
@@ -705,23 +863,33 @@ Los microorganismos que se clasifiquen en el grupo de riesgo IV deberán manejar
 
 Durante el desarrollo de las investigaciones a las que se refiere este Capítulo, el investigador principal tendrá a su cargo:
 
-I. Determinar los riesgos reales y potenciales de las investigaciones propuestas y, en caso de que se aprueben por parte de las comisiones de la institución de salud, darlos a conocer a los investigadores asociados y al demás personal que participará en la investigación;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+I. Determinar los riesgos reales y potenciales de las investigaciones propuestas y, en caso de que se aprueben por parte de los Comités de la institución de salud, conforme a su ámbito de competencia, darlos a conocer a los investigadores asociados y al demás personal que participará en la investigación;
 
 II. Determinar el nivel apropiado de contención física, seleccionar las prácticas microbiológicas idóneas y diseñar procedimientos para atender posibles accidentes durante la investigación e instruir al personal participante sobre estos aspectos;
 
 III. Vigilar que el personal participante cumpla con los requerimientos de profilaxis médica, vacunaciones o pruebas serológicas;
 
-IV. Supervisar que el transporte de materiales infecciosos se haga en forma apropiada, de acuerdo a las normas técnicas emitidas por la Secretaría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-V. Informar a la Comisión de Bioseguridad sobre la ocurrencia de enfermedad entre el personal participante en la investigación, que pudiera atribuirse a la inoculación transcutánea, ingestión o inhalación de materiales infecciosos, así como accidentes que causen contaminación que pueda afectar al personal o al ambiente, y
+IV. Supervisar que el transporte de materiales infecciosos se haga en forma apropiada, de acuerdo a las disposiciones jurídicas aplicables;
 
-VI. Reportar a la Comisión de Bioseguridad las dificultades o fallas en la implantación de los procedimientos de seguridad, corregir errores de trabajo que pudiera ocasionar la liberación de material infeccioso y asegurar la integridad de las medidas de contención física.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+V. Informar al Comité de Bioseguridad sobre la ocurrencia de enfermedad entre el personal participante en la investigación, que pudiera atribuirse a la inoculación transcutánea, ingestión o inhalación de materiales infecciosos, así como accidentes que causen contaminación que pueda afectar al personal o al ambiente, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+VI. Informar al Comité de Bioseguridad las dificultades o fallas en la implantación de los procedimientos de seguridad, así como corregir errores de trabajo que pudiera ocasionar la liberación de material infeccioso y asegurar la integridad de las medidas de contención física.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 84.
 
-las Comisiones de Bioseguridad de las instituciones de salud deberán realizar visitas con la periodicidad que ellas determinen, para evaluar el cumplimiento de las medidas y para recomendar modificaciones a las practicas de laboratorio, incluyendo la suspensión temporal o definitiva de la (sic) investigaciones que representen un riesgo no controlado de infección o contaminación para los trabajadores de laboratorio, la comunidad o el medio ambiente.
+El Comité de Bioseguridad de las instituciones de salud deberán realizar visitas con la periodicidad que ellos determinen, para evaluar el cumplimiento de las medidas de seguridad y emitir recomendaciones a las prácticas de laboratorio, incluyendo la suspensión temporal o definitiva de las investigaciones que representen un riesgo no controlado de infección o contaminación para los trabajadores de laboratorio, la comunidad o el medio ambiente.
 
-### CAPITULO III. De la investigación con isótopos radiactivos y dispositivos y generadores de radiaciones ionizantes y electromagnéticas
+### CAPITULO II. De la investigación que implique construcción y manejo de ácidos nucleicos recombinantes
 
 ###### ARTICULO 85.
 
@@ -731,9 +899,11 @@ Para los efectos de este Reglamento, se entenderá por ácidos nuccleicos (sic) 
 
 Las investigaciones con ácidos nucleicos recombinantes deberán diseñarse en tal forma que se logre el máximo nivel de contención biológica, seleccionando los sistemas de huésped y vector idóneos que disminuyan la probabilidad de diseminación fuera del laboratorio de las moléculas recombinantes, tomando en cuenta el origen del material genético y las normas técnicas que emita la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 87.
 
-El investigador principal, de acuerdo con su superior jerárquico, con la de Comisión de Bioseguridad y con el titular de la institución de salud, determinará, conforme a las normas técnicas emitidas por la Secretaría, el tipo de laboratorio de microbiología en el que habrá de realizar los experimentos a que se refiere este Capítulo, tomando en cuenta el origen del material genético que se pretenda replicar.
+El investigador principal, de acuerdo con su superior jerárquico, el Comité de Bioseguridad y el titular de la institución de salud, determinará, conforme a las disposiciones jurídicas aplicables, el tipo de laboratorio de microbiología en el que habrá de realizar los experimentos a que se refiere este Capítulo, tomando en cuenta el origen del material genético que se pretenda replicar.
 
 ###### ARTICULO 88.
 
@@ -749,15 +919,19 @@ IV. Transferencia de resistencia a los antibióticos a microorganismos que no la
 
 V. Experimentos con microorganismos con ácidos nucleicos recombinantes en cultivos mayores de 10 litros, debido a que su contención física y biológica es más difícil, a menos que las moléculas recombinantes se hayan caracterizado rigurosamente y se demuestre la ausencia de genes peligrosos en ellas. Quedan excluidos aquellos procesos de carácter industrial y agropecuario no relacionados directa y específicamente con las actividades establecidas en el artículo 3o. del presente Reglamento.
 
-### CAPITULO UNICO
+### CAPITULO III. De la investigación con isótopos radiactivos y dispositivos y generadores de radiaciones ionizantes y electromagnéticas
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 89.
 
-Las investigaciones que impliquen el uso en seres humanos para fines médicos de isótopos radiactivos y dispositivos generadores de radiaciones ionizantes y electromagnéticas de radiaciones ionizantes y electromagnéticas deberán realizarse de conformidad con las leyes, reglamentos y normas sobre seguridad radiológica, así como con las disposiciones que emita la Secretaría, y en los ámbitos respectivos de su competencia, las Secretarías de Energía, Minas e Industria Paraestatal; Comunicaciones y Transportes; Trabajo y Previsión Social y Desarrollo Urbano y Ecología.
+Las investigaciones que impliquen el uso de isótopos radiactivos y dispositivos generadores de radiaciones ionizantes y electromagnéticas en seres humanos para fines médicos, deberán realizarse de conformidad con las leyes, reglamentos y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 90.
 
-En las instituciones de salud donde se realicen estas investigaciones, la Comisión de Bioseguridad vigilará que para cada estudio se identifique a la persona responsable de la seguridad radiológica y física ante la Comisión Nacional de Seguridad Nuclear y Salvaguardias, para el cumplimiento de los requisitos y obligaciones como encargado de la seguridad radiológica.
+En las instituciones de salud donde se realicen las investigaciones a que se refiere este Capítulo, el Comité de Bioseguridad vigilará que para cada estudio se autorice a la persona responsable de la seguridad radiológica por parte de la Comisión Nacional de Seguridad Nuclear y Salvaguardias, para el cumplimiento de los requisitos y obligaciones que deriven como encargado de la seguridad radiológica.
 
 ###### ARTICULO 91.
 
@@ -769,9 +943,11 @@ II. Elaborar, en los términos de la Ley Reglamentaria del Artículo 27 Constitu
 
 III. Adiestrar al personal sobre procedimientos de trabajo y las características del laboratorio y equipo.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 92.
 
-Todo el personal involucrado directa o indirectamente en este tipo de investigaciones deberá estar adecuadamente informado, por la persona responsable de la seguridad radiológica y física, de los riesgos a la salud que representan las dosis de radiación a las que se expone y deberá conocer los principios básicos de protección radiológica, como son: Blindaje, tiempo de exposición, distancia y control de la contaminación y desechos radiactivos, entre otros, con el objeto de que se garantice un conocimiento preciso de las medidas de protección radiología, como son: Blindaje , tiempo de exposición, distancia y control de la contaminación y desechos radiactivos, entre otros, con el objeto de que se garantice un conocimiento preciso de las medidas de protección radiológica que asegure la bioseguridad de los procedimientos utilizados en la investigación, con la participación que corresponda a la Secretaría de Energía, Minas e Industria Paraestatal.
+El personal involucrado directa o indirectamente en las investigaciones a que se refiere este Capítulo, deberá estar adecuadamente informado por la persona responsable de la seguridad radiológica, sobre los riesgos a la salud que representan las dosis de radiación a las que se expone, así como conocer los principios básicos de protección radiológica, como son: blindaje, tiempo de exposición, distancia y control de la contaminación y desechos radiactivos, entre otros, con el objeto de que se garantice un conocimiento preciso de las medidas de protección radiológica que asegure la bioseguridad de los procedimientos utilizados en la investigación, con la participación que corresponda a la Secretaría de Energía.
 
 ###### ARTICULO 93.
 
@@ -807,7 +983,9 @@ Se prohibe la investigación que incluya la exposición de mujeres embarazadas a
 
 En las investigaciones con beneficio directo al sujeto de investigación, el criterio para limitar las dosis de radiaciones debe ser el mismo que se aplica para otras exposiciones requeridas por razones médicas, como las debidas a procedimientos de diagnóstico y tratamiento.
 
-## TITULO SEXTO. De la Ejecución de la Investigación en las Instituciones de atención a la salud
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+## TÍTULO QUINTO. De los Comités Internos en las Instituciones de Salud
 
 ### CAPITULO UNICO
 
@@ -819,15 +997,23 @@ Para los efectos del presente Reglamento, se considera como institución de salu
 
 En toda institución de salud en donde se realice investigación para la salud, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, se constituirán:
 
-I. Una Comisión de Ética en el caso de que realicen investigación en seres humanos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-II. Una Comisión de Bioseguridad si se desarrolla investigación que involucre la utilización ionizantes y electromagnéticas, isótopos radiactivos, microorganismos patógenos, ácidos nucleicos recombinantes u otros procedimientos análogos que puedan representar riesgo para la salud, y
+I. Un Comité de Ética en Investigación en el caso de que realicen investigación en seres humanos;
 
-III. Una comisión de investigación, cuya integración será obligatoria para las instituciones de atención a la salud y las demás instituciones la conformarán de acuerdo con sus reglamentos internos.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+II. Un Comité de Bioseguridad encargado de determinar y normar al interior de la institución el uso de radiaciones ionizantes o de técnicas de ingeniería genética, con base en las disposiciones jurídicas aplicables, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+III. Un Comité de Investigación, cuya integración será obligatoria para las instituciones de atención a la salud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 100.
 
-Las finalidades principales de las comisiones que se constituyan en las instituciones de salud serán las siguientes:
+Las funciones generales de los Comités a que se refiere el artículo anterior, serán las siguientes:
 
 I. Proporcionar asesoría a los titulares o responsables de la institución, que apoye la decisión sobre la autorización para el desarrollo de investigaciones;
 
@@ -835,57 +1021,83 @@ II. Auxiliar a los investigadores para la realización óptima de sus estudios, 
 
 III. Vigilar la aplicación de este Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 101.
 
-Los titulares de las instituciones de salud registrarán las comisiones ante la Secretaría, la cual determinará las características y la periodicidad de los informes que habrán de proporcionar.
+Los titulares de las instituciones de salud registrarán los Comités a que se refiere el artículo 99 del presente Reglamento ante la Secretaría, la cual determinará las características y la periodicidad de los informes que habrán de proporcionar. Cuando se trate de los Comités de Ética en Investigación, el registro se realizará ante la Comisión Nacional de Bioética.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 102.
 
-El titular de la institución de salud, con base en los dictámenes de la Comisión de Investigación, decidirá si autoriza la realización de las investigaciones que sean propuestas, excepto cuando se trate de investigaciones que requieran la autorización especifica de la Secretaría, como se indica en los artículos 31, 62, 69, 71, 73 y 88 de este Reglamento.
+El titular de la institución de salud, con base en los dictámenes de los Comités de Investigación, de Ética en Investigación y de Bioseguridad, según corresponda, decidirá si autoriza la realización de las investigaciones que sean propuestas, excepto cuando se trate de investigaciones que requieran la autorización de la Secretaría, en términos de los artículos 31, 62, 69, 71, 73 y 88 de este Reglamento.
+
+Para efectos de lo establecido en el párrafo anterior, los Comités de Ética en Investigación, de Investigación y de Bioseguridad, podrán sesionar conjuntamente.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 103.
 
-Las comisiones se integrarán con un mínimo de tres científicos cada una, con experiencia en materia de investigación.
+Los Comités de Investigación y de Bioseguridad se integrarán con un mínimo de tres científicos, con experiencia en materia de investigación.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 104.
 
-Para constituir la Comisión de Ética se deberán incluir miembros de ambos sexos. Será recomendable que cuando menos uno de ellos no pertenezcan a la institución de salud y se incluya a profesionales de la medicina con capacidad de representar los valores morales, culturales y sociales de los grupos de investigación.
+Los Comités de Ética en Investigación se integrarán por personal médico de distintas especialidades y por personas de las profesiones de psicología, enfermería, trabajo social, sociología, antropología, filosofía o derecho que cuenten con capacitación en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido por sus miembros, de conformidad con las disposiciones generales que al efecto emita la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 105.
 
-Para constituir la Comisión de Bioseguridad se incluirán científicos con amplia experiencia o conocimiento en este campo, sean o no miembros del personal de la institución de salud, para asegurar que las actividades de investigación se realicen bajo adecuadas medidas de bioseguridad.
+Para constituir el Comité de Bioseguridad se incluirán científicos con amplia experiencia o conocimiento en este campo, sean o no miembros del personal de la institución de salud, para asegurar que las actividades de investigación se realicen bajo adecuadas medidas de bioseguridad.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 106.
 
-Para constituir la Comisión de Investigación se dará preferencia a los miembros de la institución de salud con conocimientos y experiencia en la metodología científica.
+Para constituir el Comité de Investigación se dará preferencia a los miembros de la institución de salud con conocimientos y experiencia en la metodología científica.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 107.
 
-Cuando dentro de la institución no se logre reunir a las personas adecuadas para constituir las comisiones, el titular respectivo podrá solicitar el apoyo y asesoría de las comisiones constituidas en el nivel inmediato superior de su propia dependencia o ajenas a la misma, a condición de que se reúnan los requisitos mencionados.
+Cuando dentro de la institución no se logre reunir a las personas adecuadas para constituir los Comités, el titular respectivo podrá solicitar el apoyo y asesoría de los Comités constituidos en el nivel inmediato superior de su propia dependencia o ajenas a la misma, a condición de que se reúnan los requisitos mencionados.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 108.
 
-Los miembros de las comisiones permanecerán en funciones por un período de tres años, pudiendo ser ratificados para un período igual y serán relevados de sus funciones durante la evaluación y dictamen de sus propias investigaciones. El funcionamiento de cada comisión se sujetará a las normas técnicas que al efecto dicte la Secretaría, así como al reglamento interior que formule la propia comisión y apruebe la autoridad correspondiente en la institución.
+Los miembros de los Comités permanecerán en funciones por un período de tres años, pudiendo ser ratificados para un período igual. Asimismo, los miembros de los Comités deberán excusarse de participar en la evaluación o emisión de dictámenes de investigaciones en las que hayan participado. El funcionamiento de los Comités de Investigación y de Bioseguridad se sujetará a las disposiciones generales que al efecto emita la Secretaría, así como a las reglas de funcionamiento que formulen dichos Comités.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 109.
 
-Es atribución de la Comisión de Ética emitir la opinión técnica sobre los aspectos éticos de las investigaciones propuestas, mediante la revisión de los riesgos, los beneficios y la carta de consentimiento informado, entre otros, contenidos en los protocolos y sus competentes, para garantizar el bienestar y los derechos de los sujetos de investigación.
+El Comité de Ética en Investigación evaluará y dictaminará los protocolos de investigación en seres humanos, formulando las recomendaciones de carácter ético procedentes, para lo cual revisará los riesgos y los beneficios de la investigación, así como la carta del consentimiento informado del sujeto que será objeto de la investigación, entre otros elementos, para garantizar el bienestar y los derechos de los sujetos de investigación, así como dar seguimiento a dichas recomendaciones.
+
+Asimismo, el Comité de Ética en Investigación elaborará los lineamientos y guías éticas para la realización de investigación en seres humanos de la institución de salud a la que pertenecen.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 110.
 
-Es atribución de la Comisión de Bioseguridad emitir la opinión técnica de los aspectos de bioseguridad de las investigaciones propuestas, mediante la revisión de las instalaciones, los materiales y los métodos involucrados, a fin de garantizar el resguardo de la integridad física biológica del personal ocupacionalmente expuesto, así como de los sujetos de investigación, la comunidad y el medio ambiente.
+El Comité de Bioseguridad emitirá la opinión técnica de los aspectos de bioseguridad de las investigaciones propuestas, mediante la revisión de las instalaciones, los materiales y métodos involucrados, entre otros elementos, a fin de garantizar el resguardo de la integridad física biológica del personal ocupacionalmente expuesto, así como de los sujetos de investigación, la comunidad y el medio ambiente.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 111.
 
-Es atribución de la Comisión de Investigación evaluar la calidad técnica y el mérito científico de la investigación propuesta, formulando la opinión correspondiente, y emitir el dictamen que, en su caso, debe contener la opinión correspondiente, y emitir la opinión de las Comisiones de Etica y Bioseguridad.
+El Comité de Investigación evaluará la calidad técnica y el mérito científico de la investigación propuesta, formulando la opinión correspondiente, y emitirá el dictamen que, en su caso, debe contener la opinión de los Comités de Ética en Investigación y de Bioseguridad.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 112.
 
-Las comisiones y las autoridades a las que éstas informen mantendrán confidencialidad sobre los reportes que reciban de los investigadores, principalmente si las investigaciones están relacionadas con el desarrollo de insumos, tecnología y otros procesos aplicativos susceptibles de patentes o desarrollo comercial.
+Los Comités a que se refiere este Capítulo y las autoridades a las que éstas informen, mantendrán confidencialidad sobre los reportes que reciban de los investigadores, principalmente si las investigaciones están relacionadas con el desarrollo de insumos, tecnología y otros procesos aplicativos susceptibles de patentes o desarrollo comercial.
 
-## TITULO SEPTIMO
-
-De la Investigación que incluya la utilización de animales de experimentación.
+## TITULO SEXTO. De la Ejecución de la Investigación en las Instituciones de atención a la salud
 
 ### CAPITULO UNICO
 
@@ -927,15 +1139,19 @@ El investigador principal seleccionará a los investigadores asociados con la fo
 
 El investigador principal seleccionará al personal técnico y de apoyo con la experiencia necesaria para asegurar su competencia en la realización de las actividades que se les asignen y, en su caso, cuidará que reciban adiestramiento y capacitación para realizar correctamente sus tareas de acuerdo al nivel de supervisión que estará disponible durante la conducción del estudio.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 119.
 
-Al término de la ejecución de la investigación, el investigador principal tiene la responsabilidad de presentar a la Comisión de Investigación de la institución de atención a la salud, un informe técnico que incluya los elementos que indique la norma técnica que al respecto emita la Secretaría.
+Al término de la ejecución de la investigación, el investigador principal tiene la responsabilidad de presentar al Comité de Investigación de la institución de atención a la salud, un informe técnico que incluya los elementos que establezcan las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 120.
 
 El investigador principal podrá publicar informes parciales y finales de los estudios y difundir sus hallazgos por otros medios, cuidando que se respete la confidencialidad a que tienen derechos los sujetos de investigación, así como la que se haya acordado con los patrocinadores del estudio. Además de dar el debido crédito a los investigadores asociados y al personal técnico que hubiera participado en la investigación, deberá entregar una copia de éstas publicaciones a la Dirección de la Institución.
 
-## TITULO OCTAVO. De las Medidas de Seguridad
+## TITULO SEPTIMO
+
+De la Investigación que incluya la utilización de animales de experimentación.
 
 ### CAPITULO UNICO
 
@@ -963,7 +1179,7 @@ Los bioterios de producción o mantenimiento crónico serán supervisados por pr
 
 El titular de la institución de salud en donde se realice investigación a la que se refiere este Capítulo, deberá establecer y vigilar el cumplimiento de las medidas de seguridad para el cuidado y manejo de los animales, así como las medidas de profilaxis y vacunación necesarias para la protección del personal ocupacionalmente expuesto.
 
-## TITULO NOVENO. Del Seguimiento y Observancia
+## TITULO OCTAVO. De las Medidas de Seguridad
 
 ### CAPITULO UNICO
 
@@ -997,6 +1213,10 @@ X. La prohibición de actos de uso, y
 
 XI. Las demás de índole sanitaria que determinen las autoridades sanitarias competentes, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
 
+## TITULO NOVENO. Del Seguimiento y Observancia
+
+### CAPITULO UNICO
+
 ###### ARTICULO 129.
 
 Corresponde a las autoridades sanitarias, en el ámbito de sus respectivas competencias, el seguimiento y la observancia de este Reglamento y demás disposiciones aplicables, conforme a lo dispuesto en el Título Décimo Séptimo de la Ley.
@@ -1009,7 +1229,13 @@ Quien realice investigaciones para la salud que incluyan el empleo de seres huma
 
 la autoridad competente podrá revocar las autorizaciones sanitarias que haya otorgado para realizar investigaciones para la salud, cuando no se ajusten a las disposiciones contenidas en la Ley, este Reglamento y demás disposiciones que deriven de él. Para la Substanciación del procedimiento de la revocación de las autorizaciones, se observará lo dispuesto en el Capítulo II del Título Decimosexto de la Ley.
 
-ARTICULO 152 (SIC).- Contra actos y resoluciones de las autoridades sanitarias que, con motivo de la aplicación de este Reglamento, den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de inconformidad, el cual se substanciará en los términos de la Ley.
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+###### ARTICULO 132.
+
+Contra actos y resoluciones de las autoridades sanitarias que, con motivo de la aplicación de este Reglamento, den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de inconformidad, el cual se substanciará en términos del Capítulo IV del Título Décimo Octavo de la Ley.
+
+ARTICULO 152 (SIC).- (DEROGADO, D.O.F. 2 DE ABRIL DE 2014)
 
 ## TRANSITORIOS
 
@@ -1018,3 +1244,9 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se abrogan el Acuerdo de creación de las Comisiones de Investigación y de Etica, del veintitrés de diciembre de mil novecientos ochenta y uno, publicado en el Diario Oficial de la Federación el veintiséis de enero de mil novecientos ochenta y dos, y el Decreto de creación de las Comisiones de Bioseguridad, del ocho de julio de mil novecientos ochenta y dos, publicado en el Diario Oficial de la Federación el cuatro de agosto del mismo año. Asimismo, se derogan las demás disposiciones sobre la materia que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos ochenta y seis.- Miguel de la Madrid H.-Rúbrica.-El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- El Secretario de Energía, Minas e Industria Paraestatal, Alfredo del Mazo González.- Rúbrica.- El Secretario de Educación Pública, Miguel González Avelar.-Rúbrica.- El Secretario de Salud, Guillermo Soberón Acevedo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
