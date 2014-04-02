@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2014-01-16"
+last_updated: "2014-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -1222,9 +1222,15 @@ En caso de maternidad, el Instituto otorgará a la asegurada durante el embarazo
 
 I. Asistencia obstétrica;
 
-II. Ayuda en especie por seis meses para lactancia, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2014)</small>
 
-III. Una canastilla al nacer el hijo, cuyo importe será señalado por el Consejo Técnico.
+II. Ayuda en especie por seis meses para lactancia y capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2014)</small>
+
+III. Durante el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para efectuar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia, y
+
+IV. Una canastilla al nacer el hijo, cuyo importe será señalado por el Consejo Técnico.
 
 ###### Artículo 95.
 
@@ -4121,3 +4127,9 @@ D.O.F. 28 DE MAYO DE 2012.
 D.O.F. 16 DE ENERO DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
