@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-codigo-fiscal-de-la-federacion-71084"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-07"
-last_updated: "2009-12-07"
+last_updated: "2014-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71084&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-12-04"
 ---
 # REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION
 
-REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION
+REGLAMENTO DEL CÓDIGO FISCAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CÓDIGO FISCAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 2 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 7 de diciembre de 2009.
 
@@ -2098,3 +2100,23 @@ Continuarán vigentes, en lo que no se opongan al Reglamento que se expide, las 
 Tercero.- La cantidad que establece el artículo 104 de este Reglamento, se encuentra actualizada al 1 de enero de 2009.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de diciembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE ABRIL DE 2014.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento del Código Fiscal de la Federación publicado el 7 de diciembre de 2009 en el Diario Oficial de la Federación.
+
+Continuarán vigentes, en lo que no se opongan al Reglamento que se expide, las disposiciones de carácter administrativo, reglas, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación.
+
+Tercero.- Lo dispuesto en los artículos 11, 61, segundo párrafo y 69, fracción I de este Reglamento, relativo al buzón tributario entrará en vigor en los mismos términos a que hace referencia el Segundo Transitorio, fracción VII del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013.
+
+Cuarto.- Las obligaciones derivadas de las situaciones jurídicas previstas en los artículos vigentes a la entrada en vigor de este Reglamento que regulan los dictámenes y declaratorias del contador público registrado, salvo lo dispuesto por el artículo 52 de este Reglamento, que hubieren nacido durante su vigencia, se deberán cumplir en las formas y plazos establecidos en los mismos.
+
+Quinto.- Lo dispuesto en el artículo 53 de este Reglamento será aplicable a la renovación a que se refiere el Segundo Transitorio, fracción VIII del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones del Código Fiscal de la Federación, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013.
+
+Sexto.- Lo dispuesto en el artículo 57, último párrafo de este Reglamento, será aplicable para los dictámenes del ejercicio fiscal 2014 y posteriores.
+
+Séptimo.- La cantidad contenida en el artículo 92 de este Reglamento, se encuentra actualizada a partir del 1 de enero de 2012.
