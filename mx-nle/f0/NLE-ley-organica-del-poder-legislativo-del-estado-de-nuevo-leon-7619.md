@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2011-02-28"
+last_updated: "2014-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -293,13 +293,15 @@ La Directiva podrá girar invitaciones a otras autoridades y ciudadanos para que
 
 ### CAPITULO I. DE LOS GRUPOS LEGISLATIVOS
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
 ###### Artículo 40.
 
-Los Diputados que pertenezcan a un mismo Partido Político se constituirán en un Grupo Legislativo para actuar en forma orgánica y coordinada en todos los trabajos del Congreso.
+Podrán Constituir un Grupo Legislativo los Diputados que pertenezcan a un mismo Partido Político o aquellos que sean considerados como Diputados Independientes, para actuar de forma orgánica y coordinada en los trabajos del Congreso.
 
-Los Diputados no podrán pertenecer a dos o más Grupos Legislativos, los que pertenezcan a un mismo partido, en ningún caso pueden constituir uno o más Grupos Legislativos separados.
+Los Diputados no podrán pertenecer a dos o más Grupos Legislativos; los que pertenezcan a un mismo partido o los que sean considerados Independientes, en ningún caso pueden constituir uno o más Grupos Legislativos separados.
+
+Serán considerados como Diputados Independientes aquellos que hayan participado en el proceso electoral como Candidatos Independientes o aquellos que dejen de pertenecer al partido político que los postuló y se declaren independientes.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
@@ -311,9 +313,11 @@ Todos los Grupos Legislativos, con las excepciones previstas en esta Ley, y en e
 
 Los Grupos Legislativos son organismos coadyuvantes del proceso legislativo y tienden a lograr la participación de los Diputados en las actividades legislativas y a contribuir y orientar la formación de criterios comunes en las deliberaciones y discusiones que se lleven a cabo, por los integrantes del Congreso en las Sesiones correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
+
 ###### Artículo 43.
 
-Para crear un Grupo Legislativo es requisito esencial que lo integren Diputados de igual afiliación partidista. Se tendrán por legalmente constituídos cuando presenten a la Directiva del Congreso los documentos siguientes:
+Para crear un Grupo Legislativo es requisito esencial que lo integren Diputados de igual afiliación partidista o ser Diputado Independiente. Se tendrán por legalmente constituidos cuando presenten a la Directiva del Congreso los documentos siguientes:
 
 I.- Acta en la que conste la decisión de los Diputados de constituirse en Grupo, especificando el nombre del mismo y agregando la lista de los integrantes.
 
@@ -345,11 +349,13 @@ I.- Cuando un Partido Político cambie de denominación;
 
 II.- Cuando se disuelva un Grupo Legislativo; y
 
-III.- (DEROGADA, P.O. 9 DE ABRIL DE 1999)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+III.- Cuando uno o más integrantes dejen de pertenecer a algún Partido Político y constituyan un Grupo Legislativo de Diputados Independientes, siempre y cuando éste no se haya integrado anteriormente.
 
-Sólo podrán formar Grupos Legislativos los Diputados cuyos partidos hayan participado en la elección. Aquellos que no se inscriban o dejen de pertenecer a un Grupo Legislativo, sin integrarse a otro existente, serán considerados como Diputados sin partido y tendrán las mismas consideraciones y prerrogativas que los demás Legisladores y se les apoyará de igual manera para que puedan desempeñar sus funciones.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+
+Sólo podrán formar Grupos Legislativos los Diputados cuyos partidos hayan participado en la elección y los Diputados Independientes. Aquellos que no se inscriban o dejen de pertenecer a un Grupo Legislativo, sin integrarse a otro existente, serán considerados como Diputados sin partido y tendrán las mismas consideraciones y prerrogativas que los demás Legisladores y se les apoyará de igual manera para que puedan desempeñar sus funciones.
 
 ###### Artículo 47.
 
@@ -1225,7 +1231,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALEJANDRO LAMBRETON NARRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE JUNIO DE 1994.
 
@@ -1273,7 +1279,7 @@ P.O. 9 DE ABRIL DE 1999.
 
 Primero.- El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Las veintiséis Comisiones de Dictamen Legislativo integradas actualmente, en virtud de lo dispuesto en los artículos 70 de la Ley Orgánica del Poder Legislativo del Estado y 39 del Reglamento para el Gobierno Interior del Congreso del Estado vigentes en la presente fecha continuarán funcionando transitoriamente hasta la aprobación por parte del Pleno del Congreso de los integrantes de las trece Comisiones de Dictamen Legislativo establecidas mediante el presente Decreto.
+Segundo.- Las veintiséis Comisiones de Dictamen Legislativo integradas actualmente, en virtud de lo dispuesto en los artículos 70 de la Ley Orgánica del Poder Legislativo del Estado y 39 del Reglamento para el Gobierno Interior del Congreso del Estado vigentes en la presente fecha, continuarán funcionando transitoriamente hasta la aprobación por parte del Pleno del Congreso de los integrantes de las trece Comisiones de Dictamen Legislativo establecidas mediante el presente Decreto.
 
 Tercero.- En la quinta sesión del Primer Período Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional se elegirá o se ratificará a los integrantes de las Comisiones de Dictamen Legislativo, en los términos del artículo 67 de la Ley Orgánica del Poder Legislativo.
 
@@ -1386,3 +1392,7 @@ P.O. 28 DE FEBRERO DE 2011.
 Primero.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Por única ocasión, la Agenda Temática Mínima que regirá los trabajos legislativos del Segundo Período Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional de la LXXII Legislatura al Congreso del Estado, deberá presentarse ante el Pleno para su aprobación, a más tardar en la quinta Sesión del mismo.
+
+P.O. 2 DE ABRIL DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
