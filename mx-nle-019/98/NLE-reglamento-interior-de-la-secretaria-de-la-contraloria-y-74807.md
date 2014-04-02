@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-la-contraloria-y-74807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-15"
-last_updated: "2011-07-18"
+last_updated: "2014-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 18 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 2 DE ABRIL DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de marzo de 2010.
 
@@ -49,7 +49,7 @@ Durante el plazo de consulta pública, la Secretaría de la Contraloría y Trans
 
 CONSIDERANDOS
 
-PRIMERO. Esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento del Municipio de San Pedro Garza García, Nuevo León, tiene atribuciones para estudiar y dictaminar lo relativo al proceso de INICIATIVA DE DE REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, atento a lo dispuesto por los artículos 58, 60 fracción I, 61 fracción I numerales 1 y 3, 63 y 64 del Reglamento para el Gobierno Interior del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León.
+PRIMERO. Esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento del Municipio de San Pedro Garza García, Nuevo León, tiene atribuciones para estudiar y dictaminar lo relativo al proceso de INICIATIVA DE REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, atento a lo dispuesto por los artículos 58, 60 fracción I, 61 fracción I numerales 1 y 3, 63 y 64 del Reglamento para el Gobierno Interior del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León.
 
 SEGUNDO. Que las atribuciones de los Republicanos Ayuntamientos para aprobar, reformar, modificar, adicionar, derogar o abrogar reglamentos, se encuentran contenidas en los artículos 115, fracción V inciso a) de la Constitución Política de los Estados Unidos Mexicanos: 132, fracción II inciso a) de la Constitución Política del Estado Libre y Soberano de Nuevo León y numerales 160 y 161 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, disposiciones que deben ser adminiculadas con lo establecido en los artículos 72 inciso f), de la Constitución Política de los Estados Unidos Mexicanos y 73 de la Constitución Política del Estado Libre y Soberano de Nuevo León, así como en los diversos 70, 71, 73. 74. 75. 76 y 77 del Reglamento para el Gobierno Interior del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León.
 
@@ -73,39 +73,57 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA y TRANSPARENCIA MUNICIP
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente reglamento es de orden público, de interés social, siendo obligatorio para el personal adscrito a la Secretaria de la Contraloría y Transparencia Municipal. Su objeto es establecer las bases de organización, funcionamiento y distribución de atribuciones de las unidades administrativa que lo integran así como la fiscalización y revisión de los actos administrativos realizados y la normatividad y responsabilidades de los servidores públicos que integran la Administración Pública Municipal.
+El presente reglamento es de orden público, de interés social, siendo obligatorio para el personal adscrito a la Secretaria de la Contraloría y Transparencia. Su objeto es establecer las bases de organización, funcionamiento y distribución de atribuciones de las unidades administrativa (sic) que lo integran así como la fiscalización y revisión de los actos administrativos realizados y la normatividad y responsabilidades de los servidores públicos que integran la Administración Pública Municipal.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
 ###### Artículo 2.
 
-La Secretaría de la Contraloría y Transparencia Municipal, es un órgano auxiliar del Honorable Ayuntamiento en materia de vigilancia, control interno y fiscalización de los recursos públicos municipales, de conformidad con las atribuciones que le confieren los artículos 34 y 7 del Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
+La Secretaría de la Contraloría y Transparencia, es un órgano auxiliar del Honorable Ayuntamiento en materia de vigilancia, control interno y fiscalización de los recursos públicos municipales, de conformidad con las atribuciones que le confieren los artículos 7 y 32 del Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
+
+> <small>N. DE E. DE LA APLICACIÓN DE REFORMA AL PRESENTE ARTÍCULO, PUBLICADA EN EL P.O. DE 2 DE ABRIL DE 2014, SE ADVIERTE QUE EN SU TEXTO ORIGINAL LA NUMERACIÓN SE INTEGRABA POR NÚMEROS ARÁBIGOS, SIENDO ESTA MODIFICADA POR NÚMEROS ROMANOS.</small>
 
 ###### Artículo 3.
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-1. Administración Municipal: La Administración Municipal de San Pedro Garza García, Nuevo León.
+I. Administración Municipal: La Administración Municipal de San Pedro Garza García, Nuevo León.
 
-2. Ayuntamiento: El Republicano Ayuntamiento de San Pedro Garza García, Nuevo León.
+II. Ayuntamiento: El Republicano Ayuntamiento de San Pedro Garza García, Nuevo León.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
 
-3. Comisión de Honor y Justicia: La Comisión de Honor y Justicia en Materia de Seguridad Municipal.
+III. Comisión de Honor y Justicia: La Comisión de Honor y Justicia en Materia de Seguridad Municipal.
 
-4. Contralor: El Secretario de la Contraloría y Transparencia Municipal.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-5. Contraloría: La Secretaría de la Contraloría y Transparencia Municipal de San Pedro Garza García, Nuevo León.
+IV. Contralor: El Secretario de la Contraloría y Transparencia.
 
-6. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
-7. Municipio: El Municipio de San Pedro Garza García, Nuevo León.
+V. Contraloría: La Secretaría de la Contraloría y Transparencia de San Pedro Garza García, Nuevo León.
 
-8. Reglamento: Reglamento Interior de la Secretaría de la Contraloría y Transparencia Municipal de San Pedro Garza García, Nuevo León.
+VI. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
-9. Reglamento Orgánico: Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García
+VII. Ley de Transparencia: Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+
+VIII. Municipio: El Municipio de San Pedro Garza García, Nuevo León.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+
+IX. Reglamento: Reglamento Interior de la Secretaría de la Contraloría y Transparencia de San Pedro Garza García, Nuevo León.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2014)</small>
+
+X. Reglamento Orgánico: Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES
 
@@ -121,13 +139,19 @@ Tiene competencia para practicar auditorias, labores de vigilancia y evaluación
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos de su competencia, la Contraloría contará con la siguiente estructura:
 
-I. Dirección de Auditoría;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-II. Dirección Jurídica;
+I. Dirección de Auditoría y Control Interno;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+
+II. Dirección de Procedimientos de Responsabilidad Administrativa;
 
 III. Dirección de Normatividad, Transparencia y Cuenta Pública;
 
-IV. Coordinador Administrativo; y,
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+
+IV. Coordinación de Control y Seguimiento;
 
 V. El demás personal administrativo, contable, jurídico y técnico que establezca el presupuesto de egresos.
 
@@ -149,25 +173,41 @@ I.- Asistir a las juntas de carácter administrativo de las diferentes dependenc
 
 II.- Asistir a las sesiones del Comité de Apoyo para la adjudicación y fallo de los concursos de obra pública municipal;
 
-III.- Concurrir a las juntas del Comité de Adquisiciones dentro del procedimiento de adquisiciones, arrendamientos y contratación de servicios que realice el Municipio; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-IV.- Solicitar a la Dirección Jurídica que inicie y sustancie el procedimiento de fincamiento de responsabilidades.
+III.- Concurrir a las juntas del Comité de Adquisiciones dentro del procedimiento de adquisiciones, arrendamientos y contratación de servicios que realice el Municipio;
+
+IV.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
 ###### Artículo 9.
 
-Son indelegables las atribuciones señaladas en el artículo 34 del Reglamento Orgánico.
+Son indelegables las atribuciones señaladas en el artículo 32 del Reglamento Orgánico.
 
-### CAPÍTULO V. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE AUDITORÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2014)</small>
+
+CAPIÍTULO (SIC) V
+
+DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE AUDITORÍA Y CONTROL INTERNO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
+
+### CAPITULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE PROCEDIMIENTOS DE RESPONSABILIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
 
 ###### Artículo 10.
 
-El Titular de la Dirección de Auditoría tendrá de las siguientes atribuciones:
+La Dirección de Auditoría y Control Interno tendrá las siguientes atribuciones:
 
 I.- Llevar a cabo auditorias y revisiones a las dependencias municipales y organismos paramunicipales, con el objeto de detectar las irregularidades y comprobar el cumplimiento de los objetivos, además del apego a las leyes, decretos, reglamentos, presupuestos y políticas aplicables;
 
 II.- Presentar ante el Contralor informes trimestrales antes de que sean propuestos al Cabildo para su aprobación;
 
-III.- Verificar con la Secretaría de Finanzas y Tesorería Municipal, los informes de avance de gestión financiera antes de ser presentado al Cabildo para su aprobación;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+
+III.- Verificar con la Secretaría de Finanzas y Tesorería, los informes de avance de gestión financiera antes de ser presentado al Cabildo para su aprobación;
 
 IV.- Dar puntual seguimiento a las observaciones detectadas por la Auditoria Superior del Estado o de la Auditoría Superior de la Federación;
 
@@ -175,51 +215,69 @@ V.- Vigilar que se cumplan las disposiciones de los acuerdos, convenios y contra
 
 VI.- Previa la instrucción del Contralor, solicitará las revisiones, fiscalizaciones y evaluaciones de las obras públicas, con el objeto de verificar su autorización, aprobación, licitación, contratación, anticipo y pago de estimaciones, así como el finiquito, entrega y recepción de las mismas;
 
-VII.- Supervisará los procedimientos de adquisiciones, arrendamientos y contratación de servicios;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-VIII.- Coordinará y certificará el proceso de entrega-recepción del estado que guarda la administración pública municipal en los términos de lo dispuesto en la fracción IX, inciso B) del artículo 34 del Reglamento Orgánico, así como cuando las dependencias y unidades administrativas cambien de titular;
+VII.- Supervisar los procedimientos de adquisiciones, arrendamientos y contratación de servicios;
+
+VIII.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
 
 IX.- Requerir a los titulares de las entidades fiscalizadas la información y documentación que sea necesaria para realizar la función de revisión; y,
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE ABRIL DE 2014)</small>
+
 IX (SIC).- Las demás atribuciones que le asigne el Contralor.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2014)</small>
 
 ###### Artículo 11.
 
-La Dirección de Auditoría contará con la siguiente estructura jerarquizada para el desempeño de sus funciones:
+La Dirección de Auditoría y Control Interno contará con la siguiente estructura jerarquizada para el desempeño de sus funciones:
 
 I.- Director
 
-II.- Supervisor;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+
+II.- Supervisor de Auditoría y Supervisor de Obra Pública;
 
 III.- Auditores;
 
 IV.- Auditor de Obra Pública; y,
 
-V.- El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-### CAPÍTULO VI. DIRECCION JURIDICA
+V.- Jefe de Control Interno y Auxiliares Administrativos de Control Interno; y el demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE NORMATIVIDAD, TRANSPARENCIA Y CUENTA PÚBLICA
 
+### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LA COORDINACIÓN DE CONTROL Y SEGUIMIENTO
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+
 ###### Artículo 12.
 
-La Dirección Jurídica de la Contraloría tendrá a su cargo el ejercicio de las siguientes atribuciones:
+La Dirección de Procedimientos de Responsabilidades Administrativas tendrá a su cargo el ejercicio de las siguientes atribuciones:
 
-I.- Previa instrucción del Contralor, deberá iniciar, instrumentar y resolver las investigaciones y procedimientos administrativos que presuman responsabilidad de servidores públicos municipales, con excepción de los de elección popular, en los términos de la Ley de Responsabilidades nombre de la Ley, emitiendo las resoluciones correspondientes conforme a la legislación aplicable;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-II.- Bajo la supervisión del Contralor, coadyuvar con el Síndico Segundo para que los servidores publicos obligados, presenten en tiempo y forma su manifestación de bienes en los términos de la Ley de Responsabilidades, nombre de la Ley;
+I.- Previa instrucción del Contralor, deberá instrumentar las investigaciones e iniciar los procedimientos administrativos que presuman responsabilidad de servidores públicos municipales, con excepción de los de elección popular, en los términos de la Ley de Responsabilidades y proponer la resolución respectiva a fin de que la emita la autoridad competente;
+
+II.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
 
 III.- Dar atención y seguimiento a las quejas y denuncias recibidas en contra de los servidores públicos.
 
-IV.- Brindar apoyo al Contralor en materia jurídica cuando lo requiera;
+IV.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
 
-V.- Dar asistencia jurídica a las Direcciones que integran la Contraloría;
+V.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
 
-VI.- Formular y revisar las circulares, acuerdos, resoluciones, convenios y contratos que le sean turnados;
+VI.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
 
 VII.- Llevar el control de las sanciones que se apliquen a los servidores públicos;
 
-VIII.- Recibir y tramitar los recursos que sean competencia de la Contraloría, incluyendo la elaboración del proyecto de resolución que corresponda y su respectiva notificación; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+
+VIII.- Recibir y tramitar los recursos que sean competencia de la Contraloría, incluyendo la elaboración del proyecto de resolución que corresponda y su respectiva notificación;
 
 IX.- Las demás atribuciones que le asigne el Contralor.
 
@@ -235,7 +293,9 @@ III.- Asistentes jurídicos; y,
 
 IV.- El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
-### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LA COORDINACIÓN ADMINISTRATIVA
+### CAPÍTULO VIII BIS. DEL ÓRGANO SANCIONADOR
+
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 14.
 
@@ -257,9 +317,21 @@ VII.- Dar seguimiento a las quejas o denuncias que los ciudadanos presenten resp
 
 VIII.- Integrar la información que le proporcionen las dependencias municipales para propósitos de su difusión;
 
-IX.- Ejecutar las recomendaciones que emita el Cabildo y vigilar su exacto cumplimiento, debiendo rendir un informe a dicha Comisión; y,
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-X.- Tener el carácter de “Enlace de Transparencia” en los términos del artículo 84 de la Ley de la Materia.
+IX.- Dar respuesta a las solicitudes de información, de acuerdo con lo que señala el Reglamento de Acceso a la Información Pública Gubernamental del Municipio;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+
+X.- Ejecutar las recomendaciones que emita el Republicano Ayuntamiento y vigilar su exacto cumplimiento, debiendo rendir un informe a dicha Comisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
+
+XI.- Tener el carácter de Enlace de Transparencia, en los términos de la Ley de Transparencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
+
+XII.- Coordinar y certificar el proceso de entrega-recepción del estado que guarda la administración pública municipal, así como cuando las dependencias y unidades administrativas cambien su titular, en los términos de lo dispuesto en el Reglamento Orgánico.
 
 ###### Artículo 15.
 
@@ -275,31 +347,33 @@ IV.- Analistas; y,
 
 V.- El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
-### CAPÍTULO VIII BIS. DEL ÓRGANO SANCIONADOR
-
-> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
-
-###### ARTÍCULO 16.
-
-La Coordinación Administrativa tendrá a su cargo las siguientes atribuciones:
-
-I.- Verificar la correcta aplicación de los recursos asignados a la Contraloría e informar al titular de la misma acerca de su ejercicio;
-
-II.- Formular y tramitar en tiempo y forma las requisiciones de compra, órdenes de pago, solicitudes de cheque, reposición de fondo fijo, comprobaciones de gasto, solicitudes de inversión, entre otros;
-
-III.- Vigilar y supervisar la actualización del inventario de bienes muebles, a través de las altas, bajas, cambios y modificaciones de los bienes, informando oportunamente de dichos movimientos a la Dirección de Patrimonio;
-
-IV.- Mantener el control de las existencias del almacén de papelería de la dependencia;
-
-V.- Resguardar los recursos asignados al fondo fijo;
-
-VI.- Controlar el uso de los vehículos oficiales asignados a la Contraloría; y,
-
-VII.- Las demás que le asigne el Contralor.
-
-> <small>(ADICIONADO CON LOS TITULOS, DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2014)</small>
 
 ### CAPÍTULO IX. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LA CONTRALORÍA
+
+###### Artículo 16.
+
+La Coordinación de Control y Seguimiento, dependerá directamente del Contralor y tendrá a su cargo las siguientes atribuciones:
+
+I. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias, órganos y unidades de la administración pública municipal centralizada, sin perjuicio de que otros ordenamientos establezcan procedimientos de impugnación diferentes;
+
+II. Bajo la supervisión del Contralor, coadyuvar con el Síndico Segundo para que los servidores publico s (sic) obligados, presenten en tiempo y forma su manifestación de bienes en los términos de la Ley de Responsabilidades;
+
+III. Dar asistencia jurídica al Contralor y a las Direcciones que integran la Contraloría;
+
+IV. Formular y revisar las circulares, acuerdos, resoluciones, convenios y contratos que le sean turnados;
+
+V. Impartir asesorías y capacitaciones a las dependencias municipales y órganos descentralizados que así lo soliciten en materia de obligaciones de los servidores públicos;
+
+VI. Colaborar en la elaboración y presentación de las respuestas a los resultados de las auditorías practicadas por la Auditoría Superior del Estado o por la Auditoría Superior de la Federación, en apoyo a las dependencias, órganos y unidades de la administración pública centralizada;
+
+VII. Procesar, dar seguimiento y brindar respuesta en tiempo y forma a las solicitudes de acceso a la información que competan a la Contraloría, en los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León y el reglamento municipal.
+
+VIII. Las demás atribuciones que le asigne el Contralor.
+
+> <small>(ADICIONADO CON LOS TÍTULOS, DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+
+### CAPÍTULO X. DEL RECURSO DE INCONFORMIDAD
 
 ## TÍTULO PRIMERO. DE LA COMISIÓN DE HONOR Y JUSTICIA EN MATERIA DE SEGURIDAD MUNICIPAL
 
@@ -309,7 +383,7 @@ VII.- Las demás que le asigne el Contralor.
 
 La Comisión de Honor y Justicia tendrá competencia para conocer y sustanciar los procedimientos de responsabilidad administrativa derivados del incumplimiento a los deberes u obligaciones profesionales del personal adscrito, de las quejas y denuncias que en su contra se presenten, la aplicación de sanciones y los acuerdos necesarios para su funcionamiento, preservando el derecho a la garantía de audiencia.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE JULIO DE 2011)</small>
 
 DE SU INTEGRACIÓN
 
@@ -325,7 +399,7 @@ II. Cuatro vocales; y
 
 III. Contará además con un Coordinador de Asuntos Internos, quién deberá ser Licenciado en Ciencias Jurídicas, con voz, sin derecho a voto y el personal necesario para el cumplimiento de sus atribuciones.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
 
 DE LA DESIGNACIÓN DE SUS INTEGRANTES
 
@@ -359,7 +433,7 @@ Los vocales pertenecientes a las Direcciones de Policía y Tránsito durarán en
 
 El Coordinador de Asuntos Internos y el personal necesario para el cumplimiento de las funciones de la Comisión de Honor y Justicia serán designados o removidos por el Presidente de la misma, y tendrá el carácter de confianza.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
 
 DE LOS ACUERDOS Y RESOLUCIONES
 
@@ -387,7 +461,7 @@ El quórum necesario para la validez de los acuerdos y resoluciones de la Comisi
 
 El Coordinador de Asuntos Internos del Comité de Honor y Justicia o el servidor público que designe el Pleno del mismo, sustanciará los procedimientos y será el ejecutor de sus acuerdos o resoluciones.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
 
 DE SU FUNCIONAMIENTO Y ATRIBUCIONES
 
@@ -433,7 +507,7 @@ IV. Requerir a las dependencias administrativas municipales para que le proporci
 
 La Comisión de Honor y Justicia informará a la Secretaría de la Contraloría y Transparencia Municipal y a la dependencia del Gobierno del Estado que corresponda las sanciones administrativas que imponga, en cumplimiento a lo dispuesto por el artículo 94 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
 
 DEL PROCEDIMIENTO
 
@@ -471,7 +545,7 @@ La sustanciación del procedimiento de responsabilidad administrativa y la impos
 
 Las actuaciones de la Comisión de Honor y Justicia, deberán constar por escrito y ser suscritas por quienes las autorizaron.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2011)</small>
 
 ## TÍTULO SEGUNDO. DEL RECURSO DE REVOCACIÓN
 
@@ -481,7 +555,7 @@ Las actuaciones de la Comisión de Honor y Justicia, deberán constar por escrit
 
 El recurso de revocación procederá en contra de los actos o determinaciones emitidas por la Comisión de Honor y Justicia y se substanciará en los términos de la Ley de Seguridad Pública para el Estado de Nuevo León.
 
-### CAPÍTULO X. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XI. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
 ###### Artículo 17.
 
@@ -587,7 +661,7 @@ LIC. FERNANDO CANALES STELZER
 
 C. SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 18 DE JULIO DE 2011.
 
@@ -598,3 +672,13 @@ Artículo Segundo.- Se derogan todas las disposiciones que contravengan lo dispu
 Artículo Tercero.- Lo no previsto en este reglamento se sujetará a las disposiciones de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León y del Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García Nuevo León.
 
 Artículo Cuarto.- El manual de Operaciones a que se refiere el artículo 16 Bis 11 del presente reglamento, deberá expedirse dentro del término de 30 días hábiles contados a partir de la entrada en vigor de las presentes reformas.
+
+P.O. 2 DE ABRIL DE 2014.
+
+" Artículo Primero.- Las reformas al presente Reglamento entrarán en vigor al día siguiente hábil al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.-...
+
+Artículo Tercero.-...
+
+Artículo Cuarto.-... "
