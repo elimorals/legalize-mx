@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-las-victimas-de-los-delitos-para-el-72763"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-05"
-last_updated: "2012-08-30"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LAS VÍCTIMAS DE LOS DELITOS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de mayo de 2009.
 
@@ -325,7 +325,9 @@ VI.- El Sistema para el Desarrollo Integral de la Familia del Estado.
 
 3. Los apoyos social y laboral correrán a cargo del Sistema para el Desarrollo Integral de la Familia del Estado y la instancia de promoción del empleo de la Secretaría de Desarrollo Económico y del Empleo, según corresponda.
 
-4. La Secretaría de Seguridad Pública dispondrá del personal que custodie a las víctimas o a los ofendidos del delito y sus familiares, cuando así lo solicite el Instituto de Atención a las Víctimas de los Delitos u otra instancia competente de la Procuraduría General de Justicia. Asimismo, se ocupará de todo aquello que corresponda en cuanto a la prevención y readaptación social procedente.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+4. La Secretaría de Seguridad Pública dispondrá del personal que custodie a las víctimas o a los ofendidos del delito y sus familiares, cuando así lo solicite el Instituto de Atención a las Víctimas de los Delitos u otra instancia competente de la Procuraduría General de Justicia. Asimismo, se ocupará de todo aquello que corresponda en cuanto a la prevención y reinserción social procedente.
 
 ###### ARTICULO 17.
 
@@ -408,3 +410,9 @@ Los asuntos que con motivo del presente Decreto pasen del conocimiento de una de
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
