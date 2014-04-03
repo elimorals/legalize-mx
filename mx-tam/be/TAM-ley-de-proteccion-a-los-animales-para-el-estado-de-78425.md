@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2010-12-16"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
+LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -99,7 +99,9 @@ II. Los abandonados y callejeros;
 
 III. Los deportivos;
 
-IV. Los guías, de utilidad para las actividades con personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+IV. Los animales complementarios o que son utilizados como guías, de utilidad para las actividades con personas con alguna discapacidad;
 
 V. Los que se utilizan para la práctica de la animaloterapia en cualquiera de sus formas;
 
@@ -137,7 +139,9 @@ II. Animales domésticos: Las especies que se crían bajo el cuidado del ser hum
 
 III. Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identidad u otro signo de identificación; así como aquéllos que queden sin el cuidado o protección de sus propietarios o poseedores dentro de los bienes del dominio privado;
 
-IV. Animal guía: Los animales complementarios o que son utilizados para o en apoyos terapéuticos o adiestrados para ayudar al desarrollo de las personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+IV. Animal guía: Los animales complementarios o que son utilizados para o en apoyos terapéuticos o adiestrados para ayudar al desarrollo de las personas con alguna discapacidad;
 
 V. Animal para monta, carga o tiro: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe beneficios económicos a su propietario, poseedor o encargado;
 
@@ -361,9 +365,11 @@ VIII. Recoger las heces fecales ocasionadas por la mascota cuando transite con e
 
 IX. Responsabilizarse de los daños, trastornos o perjuicios que el animal ocasione. Las indemnizaciones serán de mayor cuantía cuando el daño, trastorno o perjuicio sea provocado si permite que transite libremente en la vía pública, o que lo abandone. Esto no tiene aplicación en el caso de animales domésticos destinados a labores de vigilancia y protección que actúen en defensa de sí mismos, de sus propietarios o del área donde habiten o trabajen.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 17.
 
-Los animales que asistan a personas con capacidades diferentes, tienen libre acceso a todos los lugares y servicios públicos.
+Los animales que asistan a personas con discapacidad, tienen libre acceso a todos los lugares y servicios públicos.
 
 ### CAPITULO VIII. DEL TRATO DIGNO Y RESPETUOSO DE LOS ANIMALES
 
@@ -1138,3 +1144,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veinticuatro días del mes de noviembre del año dos mil diez.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- HUGO ANDRES ARAUJO DE LA TORRE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
