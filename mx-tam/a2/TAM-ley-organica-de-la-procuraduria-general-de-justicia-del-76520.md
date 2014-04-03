@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2013-06-07"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -269,9 +269,13 @@ II. Atender y proteger a la víctima y al ofendido por un delito, que comprende:
 
 10. Ejercer las acciones a favor o en beneficio de víctimas y ofendidos previstas en las disposiciones legales aplicables;
 
-11. Promover la reserva de identidad y otros datos personales de la víctima y el ofendido cuando sean menores de edad, se trate de delitos de violación, secuestro o delincuencia organizada y en los demás casos que se considere necesario para su protección;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
 
-12. Informar a la víctima o al ofendido menor de edad que no está obligado a carearse con el inculpado cuando se trate de delitos de violación o secuestro;
+11. Promover la reserva de identidad y otros datos personales de la víctima y el ofendido, cuando sean menores de edad; se trate de delitos de violación, secuestro, trata de personas o delincuencia organizada; y en los demás casos que se considere necesario para su protección;
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+12. Informar a la víctima o al ofendido menor de edad que no está obligado a carearse con el inculpado cuando se trate de delitos de violación, secuestro o trata de personas;
 
 > <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -519,13 +523,17 @@ IX. Delegados;
 
 X. Fiscal para Asuntos Electorales;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
-XI. Unidad Especializada en la Investigación y Persecución del Secuestro; y
+XI. Unidad Especializada en la Investigación y Persecución del Secuestro;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
-XII. Agentes del Ministerio Público.
+XII. Unidad Especializada en la Investigación y Persecución de los Delitos en Materia de Trata de Personas; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+XIII. Agentes del Ministerio Público.
 
 B) Con funciones auxiliares del Ministerio Público:
 
@@ -813,6 +821,12 @@ ARTICULO 20 BIS.- La Unidad Especializada en la Investigación y Persecución de
 
 Para ser integrante de la Unidad Especializada en la Investigación y Persecución del Secuestro deberán reunir los requisitos establecidos en la presente ley, así como los dispuestos en el artículo 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+ARTICULO 20 TER.- La Unidad Especializada en la Investigación y Persecución de los Delitos en Materia de Trata de Personas, será una unidad administrativa dependiente directamente del Procurador, estará integrada con personal especializado y deberá contar, al menos, con Ministerios Públicos, Peritos, Policías Investigadores y Ministeriales, así como con los recursos humanos, financieros y materiales necesarios para su efectiva operación.
+
+Para ser integrante de la Unidad Especializada en la Investigación y Persecución de los Delitos en Materia de Trata de Personas, deberán reunir los requisitos establecidos en la presente ley.
+
 ###### ARTICULO 21.
 
 Los Agentes del Ministerio Público tendrán las atribuciones señaladas en esta Ley y su Reglamento.
@@ -846,6 +860,10 @@ X.- Proponer al Procurador General de Justicia del Estado, en el marco de la col
 XI.- Utilizar cualquier medio de investigación que les permita regresar con vida a la víctima, identificar y ubicar a los presuntos responsables y cumplir con los fines de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando dichas técnicas de investigación sean legales y con pleno respeto a los derechos humanos, y
 
 XII.- Las demás que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+ARTICULO 22 BIS.- Los integrantes de la Unidad Especializada en la Investigación y Persecución de los Delitos en Materia de Trata de Personas tendrán las facultades y obligaciones previstas para los Ministerios Públicos, Peritos, Policías Investigadores y Ministeriales, previstos en la presente Ley, además de las establecidas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos y demás legislación aplicable.
 
 ###### ARTICULO 23.
 
@@ -3166,3 +3184,17 @@ Cuando con motivo del presente Decreto se confieran una denominación nueva o di
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de trata de personas previstas en la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas y en el Código de Procedimientos Penales para el Estado de Tamaulipas vigentes hasta la entrada en vigor del Decreto mediante el cual se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
