@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2013-09-30"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -453,17 +453,19 @@ p).- Las demás que fijen las leyes.
 
 Las penas señaladas en los incisos b), c), y d) tienen también la naturaleza de alternativas a la de prisión y podrán decretarse conjunta o separadamente con las medidas de seguridad a que se refieren los artículos 66 a 68 y la fracción IV del 108 de este Código, según lo determine la Ley o el Juez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 46.
 
-La pena de prisión consiste en la privación de la libertad corporal del sentenciado, desde tres días hasta cincuenta años. Esta pena se cumplirá y se entiende impuesta bajo la normatividad y con las modalidades que, para su aplicación, se establecen en este Código y en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas, con la finalidad de ejercer sobre el condenado una acción readaptadora.
+La pena de prisión consiste en la privación de la libertad corporal del sentenciado, desde tres días hasta cincuenta años. Esta pena se cumplirá y se entiende impuesta bajo la normatividad y con las modalidades que, para su aplicación, se establecen en este Código y en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas, con la finalidad de ejercer sobre el condenado una acción que lo conduzca hacia la reinserción social.
 
 En toda pena de prisión que se imponga por sentencia, se computará el tiempo de la detención preventiva.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
 
-ARTICULO 46 BIS.- Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la readaptación social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
+ARTICULO 46 BIS.- Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la reinserción social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
 
 I.- La prisión intermitente, que consiste en la alternación de períodos de libertad y privación de la misma, según los casos, en las formas siguientes:
 
@@ -483,11 +485,15 @@ Quienes cumplan prisión intermitente, en los periodos que deban internarse perm
 
 II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales, educativas o no lucrativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
 
-El trabajo en favor de la comunidad puede ser pena sustitutiva de prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
+El trabajo en favor de la comunidad puede ser pena sustitutiva de la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
 
 Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante al condenado.
 
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+
 III.- El régimen especial en libertad, que consiste en la aplicación de una o varias de las sanciones establecidas en los incisos f) y k) del artículo 45 de este Código.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 La duración de las penas sustitutivas no podrán exceder de la correspondiente a la pena de prisión sustituida. En todo caso en que proceda la substitución de la pena, al hacerse el cálculo de la sanción sustitutiva se disminuirá el tiempo durante el cual el sentenciado sufrió prisión preventiva.
 
@@ -977,9 +983,9 @@ c).- Las medidas de seguridad previstas en la fracción IV de este artículo dur
 
 d).- Las actividades obligadas que con el número 10 se refieren en el inciso b) de la fracción III de este mismo numeral, durante todo el tiempo de la condena.
 
-(REFORMADO, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 23 DE JULIO DE 2003)
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
 
-El Juez, al decretar la sustitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso d) anterior.
+El Juez, al decretar la sustitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su reinserción. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso d) anterior.
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -991,9 +997,9 @@ b).- Las medidas de seguridad previstas en la fracción IV de este artículo dur
 
 c).- Las actividades obligadas que con el número 10 se refieren en el inciso b) de la fracción III de este mismo numeral, durante todo el tiempo que deba efectuar el trabajo a favor de la comunidad.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
 
-El Juez, al decretar la substitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso c) anterior.
+El Juez, al decretar la sustitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su reinserción. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso c) anterior.
 
 Para la procedencia de los sustitutivos mencionados en las fracciones I y II anteriores será necesario que el sentenciado opte por ellos y acredite la disponibilidad de la institución donde prestará sus servicios de carácter laboral.
 
@@ -1041,7 +1047,9 @@ e).- Son aplicables al sustitutivo del régimen especial en libertad, las previs
 
 IV.- Las penas sustitutivas a que se refieren las fracciones anteriores se aplicarán independientemente de las medidas educativas, laborales y curativas siguientes:
 
-a).- Recibir educación básica, entendiendo por ésta, la primaria y secundaria obligatorias para quienes no la tuvieren terminada;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+a).- Recibir educación básica, entendiendo por ésta, la primaria, secundaria y educación media superior obligatorias para quienes no la tuvieren terminada;
 
 b).- Recibir capacitación para el trabajo y cursos de especialización en su ámbito laboral y profesional;
 
@@ -1069,7 +1077,9 @@ Si la sentencia condena a la reparación del daño, pero sin fijar su monto en c
 
 Si el sentenciado no se encuentra detenido y se hubiere otorgado caución para reparar el daño, ésta se hará efectiva en las garantías exhibidas, lo anterior sin perjuicio de ulterior liquidación y pago de la diferencia resultante, que de no ser cubierta en el plazo o plazos que prudentemente fije el Juez de Ejecución de Sanciones y no acredite su imposibilidad para hacerlo dentro del plazo otorgado, motivará la revocación del sustitutivo concedido y se ordenará la aprehensión o reaprehensión en los términos del párrafo anterior;
 
-d).- La pena de prisión que no se estime como más adecuada que el sustitutivo. El sustitutivo se estimará como más adecuado que la pena de prisión, salvo que en atención a las circunstancias personales del sentenciado y a su comportamiento previo o en relación al proceso, se desprendan motivos razonables por los que el órgano jurisdiccional considere preferible la de prisión, para cumplir los fines de readaptación social; y
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+d).- La pena de prisión no se estime como más adecuada que el sustitutivo. El sustitutivo se estimará como más adecuado que la pena de prisión, salvo que en atención a las circunstancias personales del sentenciado y a su comportamiento previo o en relación al proceso, se desprendan motivos razonables por los que el órgano jurisdiccional considere preferible la de prisión, para cumplir los fines de reinserción social; y
 
 e).- Otorgue caución para asegurar su presentación cuantas veces sea llamado por la autoridad.
 
@@ -1881,7 +1891,7 @@ Se aplicarán las sanciones de tres a cinco años de prisión y multa de cien a 
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 204 BIS.- Para los efectos de este capítulo se entenderá por:
+ARTICULO 204 BIS. Para los efectos de este capítulo se entenderá por:
 
 I. Comercio: La venta, compra, adquisición o enajenación de algún narcótico;
 
@@ -1903,7 +1913,7 @@ VIII. Tabla: La relación de narcóticos y la orientación de dosis máximas de 
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 204 TER.- Comete el delito de narcomenudeo, quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
+ARTICULO 204 TER. Comete el delito de narcomenudeo, quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
 
 Por la comisión de este delito se impondrá prisión de cuatro a ocho años y sanción pecuniaria de doscientos a cuatrocientos días multa.
 
@@ -2263,7 +2273,9 @@ III.- Indebidamente retarde o niegue a los particulares la protección o servici
 
 IV.- El encargado de una fuerza pública requerido legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo;
 
-V.- Estando encargado de cualquier establecimiento destinado a la ejecución de resoluciones privativas de libertad, de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, sin los requisitos legales reciba como presa, detenida, arrestada o interna a una persona o le mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente, niegue que esté detenida si lo estuviere o no cumpla la orden de libertad girada por la autoridad competente;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+V.- Estando encargado de cualquier Centro de Ejecución de Sanciones de instituciones de reinserción social o de custodia y rehabilitación de menores (Centro de Reintegración Social y Familiar para Adolescentes) y de reclusorios preventivos o administrativos, sin los requisitos legales reciba como presa, detenida, arrestada o interna a una persona o le mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente, niegue que esté detenida si lo estuviere o no cumpla la orden de libertad girada por la autoridad competente;
 
 VI.- Teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar también inmediatamente, si esto estuviere en sus atribuciones;
 
@@ -5492,3 +5504,9 @@ P.O. 30 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
