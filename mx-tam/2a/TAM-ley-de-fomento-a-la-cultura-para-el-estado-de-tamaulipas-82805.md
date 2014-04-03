@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-cultura-para-el-estado-de-tamaulipas-82805"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2011-09-01"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada el Periódico Oficial, el jueves 1 de septiembre de 2011.
 
@@ -117,7 +117,9 @@ III. Ejecutar y dar seguimiento al Programa, en sus respectivos ámbitos de su c
 
 IV. Integrar una lista de los elementos culturales y artísticos con los que cuenten;
 
-V. Programar actividades culturales y artísticas entre las personas adultas mayores y con capacidades diferentes; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+V. Programar actividades culturales y artísticas entre las personas adultas mayores y personas con discapacidad; y
 
 VI. Fomentar la cultura y las artes entre la población en general.
 
@@ -159,7 +161,9 @@ V. Promover, fomentar y difundir, en su ámbito de competencia, las manifestacio
 
 VI. Promover la celebración de ferias, festivales y otras actividades análogas en los municipios, regiones y ciudades del Estado, con el propósito de preservar las tradiciones y proteger la cultura de la entidad;
 
-VII. Formular programas de fomento a la cultura y las artes entre personas adultas mayores y con capacidades diferentes;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+VII. Formular programas de fomento a la cultura y las artes entre personas adultas mayores y personas con discapacidad;
 
 VIII. Establecer medios para el fomento de la cultura y la expresión del arte; y
 
@@ -578,3 +582,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los treinta y un días del mes de agosto del año dos mil once.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.-EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.­- MORELOS CANSECO GÓMEZ.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
