@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2013-09-24"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1027,9 +1027,11 @@ III.- La organización, operación y supervisión de instituciones dedicadas al 
 
 El internamiento de personas con padecimientos mentales en establecimientos destinados para tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría y que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 44.
 
-Las autoridades sanitarias e instituciones de salud, conforme a las Normas Oficiales Mexicanas, promoverán servicios de salud mental a personas que se encuentren en los Centros de Readaptación Social y Centros de Observación y Tratamiento para Menores Infractores. Para tal efecto se coordinarán con las autoridades competentes.
+Las autoridades sanitarias e instituciones de salud, conforme a las Normas Oficiales Mexicanas, promoverán servicios de salud mental a personas que se encuentren en los Centros de Ejecución de Sanciones y Centros de Reintegración Social y Familiar para Adolescentes. Para tal efecto se coordinarán con las autoridades competentes.
 
 ## TITULO CUARTO. DE LOS RECURSOS HUMANOS PARA LA SALUD
 
@@ -1535,9 +1537,9 @@ I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilita
 
 II.- La educación y difusión sobre los efectos del alcohol en la salud de las personas, considerando las diferencias por edad, género y actividad, a través de métodos individuales, sociales o de comunicación masiva; y
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
-III.- El fomento de estilos de vida saludables, a través de actividades de orientación, cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y entre los grupos de población considerados de alto riesgo, particularmente de los centros de readaptación social y de rehabilitación contra adicciones.
+III.- El fomento de estilos de vida saludables, a través de actividades de orientación, cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y entre los grupos de población considerados de alto riesgo, particularmente los Centros de Ejecución de Sanciones y de rehabilitación contra adicciones.
 
 ###### ARTICULO 97.
 
@@ -3538,3 +3540,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
