@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2013-09-24"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -477,7 +477,9 @@ d) alentar la formación y práctica de conductas sustentadas en principios y va
 
 1. Es derecho y deber del padre y de la madre educar y formar integral y armoniosamente a sus hijos, facilitarles el acceso al sistema educativo y orientarles en la elección de una profesión u oficio.
 
-2. Si el hijo padeciere de deficiencia física o mental, los padres deberán procurarle educación especial y, si fuere discapacitado, su rehabilitación. En todo caso, velarán por su bien, aún cuando hubiere alcanzado la mayoría de edad, si la deficiencia física o mental le impidiere valerse por sí mismo.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+2. Si el hijo padeciere algún tipo de discapacidad, los padres deberán procurarle su rehabilitación y educación especial, en su caso; y, deberán velar siempre por su bien, aún cuando hubiere alcanzado la mayoría de edad, si la discapacidad le impidiere valerse por sí mismo.
 
 3. Cuando en el hijo menor de edad exista causa de incapacidad y razonablemente se prevea que continuará después de alcanzar su mayoría de edad, antes de que la cumpla los padres deberán solicitar la declaratoria correspondiente, para los efectos previstos en esta ley.
 
@@ -756,3 +758,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
