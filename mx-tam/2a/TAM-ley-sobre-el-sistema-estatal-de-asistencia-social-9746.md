@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2013-09-18"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -205,9 +205,9 @@ Para los efectos de esta Ley, se entienden como actividades básicas de salud en
 
 I.- Promover el desarrollo integral de la familia, procurando que sus miembros se desenvuelvan en un ambiente de plena salud física, mental y social;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
-II.- Atender a personas que, por sus carencias socioeconómicas, por discapacidad o con capacidades diferentes, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+II.- Atender a personas que, por sus carencias socioeconómicas, por discapacidad se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -751,7 +751,9 @@ A propuesta del Organismo, las autoridades correspondientes dictaminarán el oto
 
 El Gobierno del Estado, a través del Organismo y mediante la inducción promoverá la organización y participación activa de la comunidad en atención de aquellos casos de salud, que por sus características requieren de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
 
-El Gobierno del Estado y el Organismo pondrán especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono, minusválidos, inválidos e incapaces física o mentalmente.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+El Gobierno del Estado y el Organismo pondrán especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono o con discapacidad.
 
 ###### ARTICULO 49.
 
@@ -854,3 +856,9 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
