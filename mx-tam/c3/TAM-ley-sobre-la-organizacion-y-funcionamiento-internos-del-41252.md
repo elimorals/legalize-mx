@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2014-03-25"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -507,7 +507,9 @@ f) Las demás que deriven de esta ley y de los ordenamientos de la actividad par
 
 a) Gobernación;
 
-b) Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+b) Seguridad Pública, Prevención y Reinserción Social;
 
 c) Finanzas, Planeación, Presupuesto y Deuda Pública;
 
@@ -2672,3 +2674,9 @@ P.O. 25 DE MARZO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
