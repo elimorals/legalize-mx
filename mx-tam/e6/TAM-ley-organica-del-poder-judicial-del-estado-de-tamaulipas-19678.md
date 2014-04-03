@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2013-09-25"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -575,9 +575,11 @@ XXIX.- Las demás facultades y obligaciones que las leyes les otorguen.
 
 El Supremo Tribunal de Justicia tendrá un Presidente que será designado de entre los Magistrados de Número presentes en la sesión plenaria inmediata posterior al día quince de enero del año que corresponda, por mayoría de votos. Ejercerá el cargo durante seis años y no podrá ser reelecto para otro período.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 22.
 
-El Presidente asumirá la representación del Poder Judicial del Estado y tendrá las atribuciones y obligaciones que le confieran esta ley y los demás ordenamientos legales aplicables. Su función será velar porque la administración de justicia sea pronta, completa e imparcial en todos los tribunales del Estado, en cuya virtud se encuentra facultado para establecer una vigilancia permanente y visitar personalmente o mandar visitar los Juzgados y Centros de Readaptación de manera periódica, por lo menos 2 veces al año; dictando al efecto las providencias que considere oportunas.
+El Presidente asumirá la representación del Poder Judicial del Estado y tendrá las atribuciones y obligaciones que le confieran esta ley y los demás ordenamientos legales aplicables. Su función será velar porque la administración de justicia sea pronta, completa e imparcial en todos los tribunales del Estado, en cuya virtud se encuentra facultado para establecer una vigilancia permanente y visitar personalmente o mandar visitar los Juzgados y Centros de Ejecución de Sanciones de manera periódica, por lo menos 2 veces al año; dictando al efecto las providencias que considere oportunas.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -2015,11 +2017,11 @@ III.- Supervisar el tratamiento que reciban los procesados; y,
 
 IV.- Constatar la estricta observancia de las prescripciones relativas al régimen penitenciario.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 119.
 
-El Magistrado o Juez que practique la visita al Centro Estatal de Readaptación Social lo hará acompañado del Secretario, quien levantará en cada visita un acta detallada en la que hará constar la información que reciban, así como las quejas y reclamaciones que presenten los presos a su disposición o los adolescentes infractores a quienes se hubiere impuesto tratamiento privativo de la libertad, y las observaciones que hagan los jefes o directores de los reclusorios o de los Centros de Reintegración Social y Familiar para Adolescentes Infractores.
+El Magistrado o Juez que practique la visita al Centro de Ejecución de Sanciones lo hará acompañado del Secretario, quien levantará en cada visita un acta detallada en la que hará constar la información que reciban, así como las quejas y reclamaciones que presenten los presos a su disposición o los adolescentes infractores a quienes se hubiere impuesto tratamiento privativo de la libertad, y las observaciones que hagan los jefes o directores de los reclusorios o de los Centros de Reintegración Social y Familiar para Adolescentes.
 
 ###### ARTICULO 120.
 
@@ -3874,3 +3876,9 @@ Los asuntos promovidos en contra de los Ayuntamientos cuya demanda haya sido adm
 ###### ARTÍCULO CUARTO.
 
 Los profesionistas o expertos cuya designación como peritos haya sido realizada con anterioridad a la entrada en vigor de este Decreto, deberán protestar el cargo que les fue conferido de conformidad con las reglas anteriores.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
