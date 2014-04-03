@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-para-el-estado-9608
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2013-09-25"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -311,7 +311,9 @@ XI.- El personal profesional, técnico y de apoyo administrativo necesario para 
 
 El Auditor será designado por el Congreso a propuesta de la Junta de Coordinación Política, en los términos establecidos por la Constitución y la ley, para fungir por un período de siete años y podrá ser nombrado para un nuevo período por una sola vez.
 
-El titular de la Auditoría, deberá permanecer en su cargo al término de su período, hasta que el Pleno del Congreso designe al nuevo titular.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+El titular de la Auditoría, deberá permanecer en su cargo al término de su período, hasta que el Pleno del Congreso designe al nuevo titular. Si es removido o se ausenta del cargo, será suplido por el primer Auditor Especial.
 
 El Auditor podrá ser removido sólo por las causas graves que señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, que deberá juzgar y aprobar el Pleno del Congreso por el voto de cuando menos las dos terceras partes de sus miembros presentes. Podrá separarse del cargo por incapacidad legal para ejercer su encargo, o por enfermedad evidente y dictaminada.
 
@@ -415,7 +417,9 @@ Apartado B
 
 El Auditor y los Auditores Especiales durante el ejercicio de su encargo tendrán prohibido:
 
-a).- Formar parte de partido político alguno, participar en actos políticos y partidistas y hacer cualquier tipo de propaganda o promoción partidista;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+a).- Formar parte de partido político alguno, participar en actos políticos y partidistas y hacer cualquier tipo de propaganda o promoción partidista o de candidatos en forma independiente a cargos de elección popular;
 
 b).- Desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia; y
 
@@ -1152,3 +1156,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los dieciocho días del mes de septiembre del año dos mil trece.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
