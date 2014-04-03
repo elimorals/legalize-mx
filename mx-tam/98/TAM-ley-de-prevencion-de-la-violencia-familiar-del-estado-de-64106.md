@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2013-09-24"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -169,7 +169,9 @@ II. Instruir a su personal para hacer llegar los citatorios o notificaciones que
 
 III. Incluir la capacitación sobre violencia familiar; y en el programa de formación policial; y
 
-IV. Establecer en los programas de readaptación y reinserción social, talleres terapéutico-educativos encaminados a erradicar la violencia familiar.
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+IV. Establecer en los programas de reinserción social, talleres terapéutico-educativos encaminados a erradicar la violencia familiar.
 
 ###### Artículo 10.
 
@@ -229,7 +231,9 @@ II. Acordar de manera urgente e inmediata, hasta en tanto se resuelva el procedi
 
 a) Prevenir al agresor se separe de la residencia común y se ordene la entrega de su ropa y los bienes que sean necesarios para el trabajo que realice;
 
-b) Ordenar la asistencia obligatoria a instituciones oficiales que ejecuten los programas terapéutico-educativos para su readaptación;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+b) Ordenar la asistencia obligatoria a instituciones oficiales que ejecuten los programas terapéutico-educativos para su reinserción;
 
 c) Suspender al presunto agresor el derecho de visitar a sus hijos, en caso de agresión sexual contra menores de edad o incapacitados;
 
@@ -460,3 +464,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
