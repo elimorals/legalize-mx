@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2013-06-07"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LA FECHA Y ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN QUE DETERMINEN LOS DECRETOS A QUE ALUDE EL ARTÍCULO PRIMERO TRANSITORIO DEL ORDENAMIENTO EN MENCIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -1157,7 +1155,7 @@ XIII.- De los delitos comprendidos en el título de encubrimiento.
 
 a) Operaciones con recursos de procedencia ilícita, previsto por el artículo 443 Bis.
 
-También será grave el delito de trata de personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
 
@@ -5176,3 +5174,17 @@ DECRETO NÚMERO LXI-862, POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍC
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de trata de personas previstas en la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas y en el Código de Procedimientos Penales para el Estado de Tamaulipas vigentes hasta la entrada en vigor del Decreto mediante el cual se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
