@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2013-08-27"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO, COMPETITIVIDAD E INNOVACIÓN DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -147,9 +147,9 @@ XIII. Desarrollar estrategias para promover la instalación de empresas en regio
 
 XIV. Promover y gestionar ante el Gobernador del Estado la firma de convenios de colaboración con gobiernos de otras entidades federativas, a fin de impulsar la ejecución conjunta de programas de desarrollo regional;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
 
-XV. Alentar acciones para incorporar a las actividades productivas personas con capacidades diferentes y adultos mayores.
+XV. Alentar acciones para incorporar a las actividades productivas a las personas con discapacidad y a los adultos mayores;
 
 Así mismo, con el objeto de alentar la incorporación de los jóvenes al sector productivo se fomentará la realización de ferias de empleo dirigidas preponderante (sic) a personas menores de 30 años en coordinación con los tres niveles de gobierno;
 
@@ -255,11 +255,9 @@ XI. Informar al término de cada sesión, en forma oportuna y veraz, sobre las d
 
 XII. Implementar con los gobiernos federal, estatal y municipales estrategias para dar preferencia en la adquisición de bienes y servicios a empresas y empresarios tamaulipecos; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XIII. Proponer la entrega de reconocimientos a empresas tamaulipecas que contribuyan al desarrollo y la innovación científica y tecnológica; realicen acciones a favor del desarrollo sustentable y para mejorar el medio ambiente; desarrollen procedimientos para incrementar la competitividad y productividad del recurso humano; incorporen adultos mayores y personas con capacidades diferentes a su planta laboral, y participen activamente en el comercio exterior.
+XIII. Proponer la entrega de reconocimientos a empresas tamaulipecas que contribuyan al desarrollo y la innovación científica y tecnológica; realicen acciones a favor del desarrollo sustentable y para mejorar el medio ambiente; desarrollen procedimientos para incrementar la competitividad y productividad del recurso humano; incorporen adultos mayores y personas con alguna discapacidad a su planta laboral, y participen activamente en el comercio exterior.
 
 ###### ARTICULO 8°.
 
@@ -457,19 +455,29 @@ Para la obtención de los estímulos que señalan en los incisos a) y b) del pá
 
 El Consejo podrá proponer el otorgamiento de estímulos fiscales con respecto al impuesto sobre nóminas, conforme a las previsiones del tabulador que establezca para determinar la contribución de las empresas al desarrollo económico y la competitividad, siempre que: sean de nueva creación; comprueben pagar salarios superiores al mínimo general y no califiquen en alguno de los supuestos de la fracción I de este artículo; desarrollen alta tecnología en sus procesos; sean ecológicamente responsables o estén establecidas en regiones de menor crecimiento en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 20.
 
-Las empresas de nueva creación o las ya establecidas que a partir de la entrada de vigor de esta ley, contraten personas de 60 años de edad o más, o con capacidades diferentes, podrán solicitar el beneficio de los estímulos fiscales siguientes:
+Las empresas de nueva creación o las ya establecidas que a partir de la entrada de vigor de esta ley, contraten personas de 60 años de edad o más, o con alguna discapacidad, podrán solicitar el beneficio de los estímulos fiscales siguientes:
 
-I. Bonificación integral del impuesto sobre nóminas correspondiente a las erogaciones efectuadas a personas de 60 años de edad o más, o con capacidades diferentes.
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+I. Bonificación integral del impuesto sobre nóminas correspondiente a las erogaciones efectuadas a personas de 60 años de edad o más, o con alguna discapacidad.
 
 II. Adicionalmente, las de nueva creación con más de 30 trabajadores, bonificación del:
 
-a) 25% de subsidio al impuesto sobre nóminas a su cargo, cuando ocupen 10% o más de su planta de trabajadores con personas mayores o con capacidades diferentes; o,
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
 
-b) 50% de subsidio al impuesto sobre nóminas a su cargo, cuando ocupen 20% o más de su planta de trabajadores con personas mayores o con capacidades diferentes.
+a) 25% de subsidio al impuesto sobre nóminas a su cargo, cuando ocupen 10% o más de su planta de trabajadores con personas mayores o con alguna discapacidad; o,
 
-Para tener derecho a estos estímulos, los contribuyentes deberán solicitar al Consejo, mediante la presentación de las declaraciones del impuesto sobre nóminas, el número de personas mayores o con capacidades diferentes que trabajen en la empresa y su remuneración. El Consejo resolverá si propone al Ejecutivo el otorgamiento de los estímulos fiscales solicitados.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+b) 50% de subsidio al impuesto sobre nóminas a su cargo, cuando ocupen 20% o más de su planta de trabajadores con personas mayores o con alguna discapacidad.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+Para tener derecho a estos estímulos, los contribuyentes deberán solicitar al Consejo, mediante la presentación de las declaraciones del impuesto sobre nóminas, el número de personas mayores o con alguna discapacidad que trabajen en la empresa y su remuneración. El Consejo resolverá si propone al Ejecutivo el otorgamiento de los estímulos fiscales solicitados.
 
 ###### ARTICULO 21.
 
@@ -858,3 +866,9 @@ P.O. 27 DE AGOSTO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
