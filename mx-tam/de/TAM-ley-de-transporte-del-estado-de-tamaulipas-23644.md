@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2012-02-17"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -865,9 +865,11 @@ I.- Invadir o utilizar rutas que no le han sido autorizadas. No se considerará 
 
 II.- Modificar las rutas, fraccionarlas o utilizar vialidades alternas no autorizadas. En casos debidamente justificados, el Ejecutivo podrá autorizar temporalmente, por necesidades del servicio o de las vialidades, la modificación de las rutas, su fraccionamiento o la utilización de vialidades alternas.
 
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 74.
 
-Previa aprobación de la Dependencia Estatal, los prestadores del servicio de pasajeros deberán de introducir en los vehículos con los que presten el servicio las adaptaciones necesarias para facilitar el ascenso y descenso de personas con capacidades diferentes o destinar unidades especiales para ese fin.
+Previa aprobación de la Dependencia Estatal, los prestadores del servicio de pasajeros deberán de introducir en los vehículos con los que presten el servicio las adaptaciones necesarias para facilitar el ascenso y descenso de personas con alguna discapacidad o destinar unidades especiales para ese fin.
 
 ###### ARTÍCULO 75.
 
@@ -1582,3 +1584,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para efectos de la actualización de las placas y la documentación con la que se esté prestando el servicio público de transporte, los concesionarios o prestadores del servicio público de transporte, contarán con un plazo de 90 días a partir de la entrada en vigor del presente Decreto, a fin de llevar a cabo los trámites necesarios para estar al corriente en sus obligaciones.
 
 Lo anterior, para efectos de la no aplicación de la multa señalada en la fracción XIX del artículo 119 que se adiciona mediante el presente Decreto, sin demérito del retiro de las unidades a los depósitos de guarda y custodia de vehículos infraccionados, hasta el cumplimiento sus obligaciones.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
