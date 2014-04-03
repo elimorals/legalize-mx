@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2014-03-07"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -747,17 +747,25 @@ El tipo medio superior comprende el nivel de bachillerato, los demás niveles eq
 
 Las escuelas de educación media terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la Entidad, con el fin de generar recursos humanos en las diferentes actividades de la industria y del trabajo en general.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 29.
 
-La educación especial está destinada a personas con discapacidades transitorias o definitivas, así como a aquellos con capacidades diferentes y aptitudes sobresalientes. Procurará atender al educando de manera adecuada a sus propias condiciones, con todo respeto a sus derechos y reconociendo su potencial, con equidad social incluyente y con perspectiva de género e igualdad de oportunidades educativas, sociales y laborales.
+La educación especial está destinada a personas con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Procurará atender al educando de manera adecuada a sus propias condiciones, con todo respeto a sus derechos y reconociendo su potencial, con equidad social incluyente y con perspectiva de género e igualdad de oportunidades educativas, sociales y laborales.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
 
 Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
+
 Esta educación incluye orientación a los padres, madres o tutores, así como también a las y los maestros y personal de escuelas de educación básica regular y media superior regulares que integran a alumnas y alumnos con necesidades especiales de educación.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
+
 Para la identificación, evaluación, atención educativa, acreditación y certificación, de alumnos con capacidades y aptitudes sobresalientes, las instituciones que integran el sistema educativo estatal se sujetarán a los lineamientos establecidos por la autoridad educativa federal en la materia, con base en la disponibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
 
 Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a estudiantes con capacidades y aptitudes sobresalientes.
 
@@ -2059,7 +2067,9 @@ CUARTO. Se abroga el Reglamento para el Proceso Selectivo de Ingreso al Sistema 
 
 QUINTO. El Ejecutivo del Estado, tomará las medidas administrativas necesarias para crear el Órgano Desconcentrado, dependiente de la Secretaría de Educación de Tamaulipas, al que facultará para ejercer las atribuciones de esta Secretaría en materia del Servicio Profesional Docente.
 
-SEXTO. La Secretaría de Educación de Tamaulipas tendrá la facultad de nombrar las Comisiones Mixtas que sean necesarias para el cumplimiento del presente Decreto y el ejercicio de la reforma educativa.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+SEXTO. La Secretaría de Educación de Tamaulipas tendrá la facultad de nombrar las Comisiones Mixtas que sean necesarias para el cumplimiento del presente Decreto.
 
 SÉPTIMO. De conformidad con lo establecido en el artículo octavo transitorio de la Ley General del Servicio Profesional Docente, el personal que a la entrada en vigor del referido ordenamiento se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Gobierno del Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere esta Ley. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere esta Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
@@ -2084,3 +2094,19 @@ Lo anterior, sin perjuicio de que antes de esa fecha la Secretaría ajuste los f
 Los beneficios adquiridos por el personal que participa en Carrera Magisterial no podrán ser afectados en el tránsito al programa a que se refiere el artículo 37 de la Ley General del Servicio Profesional Docente.
 
 La XXII etapa de Carrera Magisterial para los docentes de Educación Básica se desahogará en los términos señalados por la convocatoria correspondiente a dicha etapa.
+
+P.O. 3 DE ABRIL DE 2014.
+
+DECRETO NO. LXII-216 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 29 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2014.
+
+DECRETO NO. LXII-219 POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NO. LXII-208, DE FECHA 7 DE MARZO DE 2014, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULlPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
