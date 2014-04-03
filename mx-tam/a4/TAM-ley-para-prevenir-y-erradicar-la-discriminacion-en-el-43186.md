@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-43186"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2014-03-06"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -53,7 +53,9 @@ Las disposiciones de esta ley son de orden público, de interés social y de obs
 
 ###### Artículo 3.
 
-1. Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+1. Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 2. Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deben combatirse.
 
@@ -574,6 +576,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
 
 P.O. 6 DE MARZO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
