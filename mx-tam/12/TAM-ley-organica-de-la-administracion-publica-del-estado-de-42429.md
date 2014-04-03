@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2014-03-07"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -1289,7 +1289,9 @@ XXI. Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Procuradur�
 
 XXII. Ejecutar las penas por delitos del orden común y administrar el sistema penitenciario del Estado, así como organizar y dirigir las actividades de apoyo a liberados;
 
-XXIII. Implementar, dirigir y ejecutar los programas de readaptación social de los infractores de la ley penal y administrar los Centros de Readaptación Social del Estado;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+XXIII. Implementar, dirigir y ejecutar los programas de reinserción social de los infractores de la ley penal y administrar los Centros de Ejecución de Sanciones del Estado;
 
 XXIV. Tramitar, por Acuerdo del Gobernador, las solicitudes de libertad anticipada y traslado de internos;
 
@@ -1883,7 +1885,9 @@ CUARTO. Se abroga el Reglamento para el Proceso Selectivo de Ingreso al Sistema 
 
 QUINTO. El Ejecutivo del Estado, tomará las medidas administrativas necesarias para crear el Órgano Desconcentrado, dependiente de la Secretaría de Educación de Tamaulipas, al que facultará para ejercer las atribuciones de esta Secretaría en materia del Servicio Profesional Docente.
 
-SEXTO. La Secretaría de Educación de Tamaulipas tendrá la facultad de nombrar las Comisiones Mixtas que sean necesarias para el cumplimiento del presente Decreto y el ejercicio de la reforma educativa.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+SEXTO. La Secretaría de Educación de Tamaulipas tendrá la facultad de nombrar las Comisiones Mixtas que sean necesarias para el cumplimiento del presente Decreto.
 
 SÉPTIMO. De conformidad con lo establecido en el artículo octavo transitorio de la Ley General del Servicio Profesional Docente, el personal que a la entrada en vigor del referido ordenamiento se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Gobierno del Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere esta Ley. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere esta Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
@@ -1908,3 +1912,19 @@ Lo anterior, sin perjuicio de que antes de esa fecha la Secretaría ajuste los f
 Los beneficios adquiridos por el personal que participa en Carrera Magisterial no podrán ser afectados en el tránsito al programa a que se refiere el artículo 37 de la Ley General del Servicio Profesional Docente.
 
 La XXII etapa de Carrera Magisterial para los docentes de Educación Básica se desahogará en los términos señalados por la convocatoria correspondiente a dicha etapa.
+
+P.O. 3 DE ABRIL DE 2014.
+
+DECRETO NÚMERO LXII-217 POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTICULO 35 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 3 DE ABRIL DE 2014.
+
+DECRETO NO. LXII-219 POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NO. LXII-208, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EXTRAORDINARIO AL NÚMERO 3 DE FECHA 7 DE MARZO DEL 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
