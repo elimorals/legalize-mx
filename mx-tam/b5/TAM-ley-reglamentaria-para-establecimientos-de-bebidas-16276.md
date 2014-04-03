@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2013-12-17"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -481,7 +481,7 @@ XIV.- Copia de la solicitud de inscripción en el Registro Federal de Contribuye
 
 XV.- Los demás requisitos que fijen las leyes o sus reglamentos, así como los que determine la Secretaría para cada tipo de establecimiento.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 26.
 
@@ -541,7 +541,7 @@ El establecimiento con actividades diversas en un mismo local, queda sujeto a di
 
 Queda prohibido utilizar una licencia para amparar más de un establecimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 36.
 
@@ -569,7 +569,7 @@ Se considerará vigente la licencia o constancia sanitaria estatal, en tanto la 
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 39.
 
@@ -819,7 +819,9 @@ Se prohibe el almacenamiento, distribución y enajenación de bebidas alcohólic
 
 I.- Lugares públicos, tales como la vía pública, parques y plazas;
 
-II.- El interior de los planteles educativos de todo nivel académico, templos, cementerios, kermesses infantiles y en los establecimientos de readaptación social;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+II.- El interior de los planteles educativos de todo nivel académico, templos, cementerios, kermesses infantiles y en los Centros de Ejecución de Sanciones;
 
 III.- Lugares en que lo exija la moralidad o salud pública; y
 
@@ -997,7 +999,7 @@ Cuando no se acompañe el documento a que se refiere la fracción I del presente
 
 Cuando no se acompañen los documentos señalados en las fracciones II y III de este artículo se requerirá al recurrente para que los presente en un plazo de tres días hábiles; transcurrido dicho término, y el promovente no los presentare, se tendrá por no interpuesto el recurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 77.
 
@@ -1049,7 +1051,7 @@ ATENTAMENTE "Sufragio Efectivo. No Reelección"
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.-
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 25 DE DICIEMBRE DE 2001
 
@@ -1088,3 +1090,9 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2014 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
 
 Este porcentaje será distribuido en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
