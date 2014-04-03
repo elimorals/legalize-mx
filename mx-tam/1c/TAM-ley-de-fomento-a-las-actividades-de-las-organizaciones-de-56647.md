@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-56647
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-02"
-last_updated: "2013-09-24"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de agosto de 2007.
 
@@ -109,7 +109,9 @@ IV. Asistencia jurídica;
 
 V. Promoción de la equidad de género;
 
-VI. Aportación de servicios para la atención a grupos sociales con capacidades diferentes;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+VI. Aportación de servicios para la atención a grupos sociales con alguna discapacidad;
 
 VII. Acciones en favor de comunidades rurales y urbanas marginadas;
 
@@ -512,3 +514,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
