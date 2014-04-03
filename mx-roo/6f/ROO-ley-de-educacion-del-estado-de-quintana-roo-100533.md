@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-100533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2014-02-27"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley Publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 27 de febrero de 2014.
 
@@ -883,9 +883,11 @@ En los concursos de oposición para el ingreso que se celebren en los términos 
 
 Para el ingreso al servicio profesional docente en la educación básica, la autoridad educativa estatal, deberá:
 
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
 I. Expedir las convocatorias para el ingreso al Servicio Profesional Docente, con base en la información derivada del Sistema de Información y Gestión Educativa.
 
-Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados; los criterios para la asignación de las plazas, y demás elementos que la Secretaría estime pertinentes. En su caso, las convocatorias describirán los perfiles complementarios autorizados por la Secretaría;
+Las convocatorias describirán el perfil que deberán reunir los aspirantes; las plazas sujetas a concurso; los requisitos, términos y fechas de registro; las etapas, los aspectos y métodos que comprenderá la evaluación; las sedes de aplicación; la publicación de resultados; los criterios para la asignación de las plazas, y demás elementos que la Autoridad Educativa Federal estime pertinentes. En su caso, las convocatorias describirán los perfiles complementarios autorizados por la Autoridad Educativa Federal;
 
 II. Publicar las citadas convocatorias aprobadas por la Secretaría de Educación Pública Federal, de acuerdo a los programas anual y de mediano plazo conforme a los cuales se llevarán a cabo los procesos de evaluación, y
 
@@ -2148,3 +2150,9 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
