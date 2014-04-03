@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-presea-de-honor-estado-de-mexico-28547"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-11"
-last_updated: "2003-02-11"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA PRESEA DE "HONOR ESTADO DE MEXICO"
 
-REGLAMENTO DE LA PRESEA DE HONOR ESTADO DE MEXICO
+REGLAMENTO DE LA PRESEA DE HONOR ESTADO DE MÉXICO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE ABRIL DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 11 de febrero de 2003.
 
@@ -41,9 +41,11 @@ REGLAMENTO DE LA PRESEA DE "HONOR ESTADO DE MEXICO"
 
 El presente reglamento tiene por objeto regular el procedimiento para otorgar la presa de "Honor Estado de México" a la que se refiere el artículo 3.24 del Código Administrativo del Estado de México.
 
+> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2014)</small>
+
 ###### Artículo 2.
 
-La presea de "Honor Estado de México" se otorgará anualmente a los profesionistas al servicio de la educación que se distingan en grado eminente por su eficiencia, constancia y méritos profesionales en el servicio de la educación pública, en sus diversos tipos, modalidades y niveles educativos, tanto del subsistema educativo estatal como del federalizado, en ceremonia solemne el 15 de mayo de cada año, bajo los auspicios del Gobierno del Estado en conmemoración del Día del Maestro.
+La presea de "Honor Estado de México" se otorgará anualmente a los profesionistas al servicio de la educación que se distingan en grado eminente por su eficiencia, constancia y méritos profesionales en el servicio de la educación pública, en sus diversos tipos, modalidades y niveles educativos, tanto del subsistema educativo estatal, como del federalizado, en ceremonia solemne con motivo de la celebración del Día del Maestro.
 
 ### CAPITULO SEGUNDO. DE LA PRESEA
 
@@ -57,11 +59,15 @@ La presea se otorgará a doce maestros del subsistema educativo estatal y a doce
 
 ### CAPITULO TERCERO. DEL CONSEJO TECNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE ABRIL DE 2014)</small>
+
 ###### Artículo 5.
 
-Para el otorgamiento de la presea de "Honor Estado de México", la Secretaría de Educación, Cultura y Bienestar Social, contará con un Consejo Técnico, el cual estará integrado por:
+Para el otorgamiento de la presea de "Honor Estado de México", la Secretaría de Educación contará con un Consejo Técnico, el cual estará integrado por:
 
-I. El Secretario de Educación, Cultura y Bienestar Social, quien lo presidirá.
+> <small>(REFORMADA, G.G. 3 DE ABRIL DE 2014)</small>
+
+I. El Secretario de Educación, quien lo presidirá.
 
 II. El subsecretario de Planeación y Administración, quien fungirá como Secretario Técnico.
 
@@ -75,7 +81,9 @@ VI. Dos representantes del Sindicato de Maestros al Servicio del Estado de Méxi
 
 VII. El Director General de Servicios Educativos Integrados al Estado de México.
 
-VIII. El Coordinador de Operación Educativa o su equivalente de Servicios Educativos Integrados al Estado de México.
+> <small>(REFORMADA, G.G. 3 DE ABRIL DE 2014)</small>
+
+VIII. El Coordinador Académico y de Operación Educativa o su equivalente de Servicios Educativos Integrados al Estado de México.
 
 IX. Un profesor por cada subsistema, que haya sido acreedor a la presea en los últimos cinco años a la nueva promoción.
 
@@ -162,3 +170,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 3 DE ABRIL DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
