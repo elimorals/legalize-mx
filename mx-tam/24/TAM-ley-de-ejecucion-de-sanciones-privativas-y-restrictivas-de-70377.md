@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-7037
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2013-06-07"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -163,9 +163,9 @@ XI. Coordinar y practicar periódicamente las revisiones al interior de los Cent
 
 XII. Organizar, supervisar y vigilar que los titulares y el personal adscrito a los Centros y de los Consejos, se conduzcan con el debido y estricto respeto a los derechos humanos y cumplimiento a las disposiciones legales vigentes;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
-XIII. Promover programas integrales de educación, trabajo, capacitación para el mismo, salud, desarrollo humano, mediación y actividades culturales, deportivas y de recreación, que propicien la readaptación social y la reinserción de los internos;
+XIII. Promover programas integrales de educación, trabajo, capacitación para el mismo, salud, desarrollo humano, mediación y actividades culturales, deportivas y de recreación, que propicien la reinserción social de los internos;
 
 XIV. Coordinar y administrar los servicios de salud que sean proporcionados dentro de los Centros;
 
@@ -423,11 +423,11 @@ IV. Tener experiencia de por lo menos un año en la materia de reinserción soci
 
 V. No haber sido condenado por sentencia ejecutoriada como responsable de delito doloso, ni inhabilitado por responsabilidad alguna.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 32.
 
-El Director del Centro tendrá a su cargo el establecimiento. Al efecto, ajustará su actuación a los términos de la ley y del reglamento, y cuidará primordialmente la efectiva aplicación del sistema de readaptación y reinserción social; la observancia del régimen interno; el funcionamiento y administración del Centro; la seguridad del establecimiento; y la ejecución de las medidas y órdenes que se acuerden por la Subsecretaría.
+El Director del Centro tendrá a su cargo el establecimiento. Al efecto, ajustará su actuación a los términos de la ley y del reglamento, y cuidará primordialmente la efectiva aplicación del sistema de reinserción social; la observancia del régimen interno; el funcionamiento y administración del Centro; la seguridad del establecimiento; y la ejecución de las medidas y órdenes que se acuerden por la Subsecretaría.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -1400,3 +1400,9 @@ Toda referencia que se haga de la Subsecretaría de Reinserción Social y de la 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
