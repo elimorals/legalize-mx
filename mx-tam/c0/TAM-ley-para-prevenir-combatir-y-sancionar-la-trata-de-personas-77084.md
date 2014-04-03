@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-19"
-last_updated: "2010-10-19"
+last_updated: "2014-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de octubre de 2010.
 
@@ -49,83 +49,59 @@ LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAM
 
 ### CAPITULO I. DEL OBJETO Y AMBITO DE APLICACION
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 1.
 
-La presente ley tiene por objeto la prevención y sanción del delito de trata de personas, así como la protección, atención y asistencia a las víctimas del mismo, a fin de garantizar el respeto a la dignidad humana y el libre desarrollo de la personalidad de las víctimas. Esta ley se aplicará en el territorio del Estado de Tamaulipas y sus disposiciones son de orden público e interés social.
+La presente ley tiene por objeto la prevención, investigación, persecución y sanción de los delitos en materia de trata de personas, establecidos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, así como la protección, atención y asistencia a las víctimas, ofendidos y testigos del mismo, a fin de garantizar el respeto a la dignidad humana y el libre desarrollo de la personalidad de las víctimas. Esta ley se aplicará en el territorio del Estado de Tamaulipas y sus disposiciones son de orden público e interés social.
 
 ###### ARTICULO 2.
 
 Las autoridades estatales, en el ámbito de sus respectivas atribuciones, tienen la obligación de actuar con diligencia para perseguir y sancionar el delito de trata de personas, realizando las investigaciones y acciones necesarias para sancionar a los responsables, brindar atención y protección a las víctimas y prevenir la comisión del delito, mediante el desarrollo de programas permanentes.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 3.
 
-El delito de trata de personas se investigará y perseguirá de oficio.
+Las autoridades estatales, en el ámbito de sus respectivas atribuciones, serán competentes para conocer investigar, perseguir y sancionar los delitos en materia de trata de personas, con excepción de los supuestos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de competencia exclusiva de la Federación.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 4.
 
-En todo lo no previsto por esta ley, serán aplicables supletoriamente las disposiciones del Código Penal y del Código de Procedimientos Penales para el Estado de Tamaulipas.
+En todo lo no previsto por esta ley, serán aplicables supletoriamente las disposiciones de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, del Código Penal y del Código de Procedimientos Penales para el Estado de Tamaulipas.
 
-### CAPITULO II. DEL DELITO DE TRATA DE PERSONAS
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE ABRIL DE 2014)</small>
+
+### CAPITULO II
 
 ###### ARTICULO 5.
 
-Comete el delito de trata de personas quien reclute, promueva, ofrezca, facilite, traslade, entregue o reciba a una o varias personas a través del engaño, la violencia física o moral, privación de la libertad, el abuso de poder o el abuso de una situación de vulnerabilidad, con fines de explotación sexual, laboral o de esclavitud o prácticas análogas a la esclavitud, para la extracción de órganos, tejidos o sus componentes.
+(DEROGADO, P.O. 3 DE ABRIL DE 2014)
 
 ###### ARTICULO 6.
 
-Al responsable del delito de trata de personas, además del decomiso de todos los bienes producto de las conductas antes descritas, se le impondrán las siguientes penas:
-
-I. De seis a doce años de prisión y multa de quinientos a mil quinientos días de salario mínimo; y
-
-II. De nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta días de salario mínimo, si el delito es cometido en contra de una persona menor de dieciocho años de edad o en contra de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo.
+(DEROGADO, P.O. 3 DE ABRIL DE 2014)
 
 ###### ARTICULO 7.
 
-Las penas que resulten de las fracciones I y II del artículo anterior, se incrementarán hasta en una mitad:
-
-I. Si el agente se valiese de la función pública que tuviere o hubiere ostentado sin tenerla. Además, se impondrá al servidor público la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por un tiempo igual al de la pena de prisión impuesta;
-
-II. Cuando el sujeto activo del delito se aproveche de la condición de vulnerabilidad derivada de la suma ignorancia, notoria inexperiencia, extrema miseria o extrema necesidad de la víctima, o cuando ésta sea persona mayor de sesenta años de edad, cuando se trate de persona indígena o migrante; y
-
-III. Cuando el sujeto activo del delito sea cónyuge de la víctima, tenga parentesco civil, por afinidad o consanguinidad con la víctima hasta el cuarto grado; habite en el mismo domicilio que la víctima; sea tutor o curador de la víctima; sea ministro de culto religioso o se aproveche de una posición de autoridad por virtud de una relación laboral, docente, doméstica, médica o cualquier otra que implique subordinación.
-
-En los casos señalados en este inciso el Juez podrá, atendiendo a las circunstancias del hecho, decretar además la pérdida del derecho a alimentos que le correspondiera por su relación con la víctima, así como la pérdida de la patria potestad.
-
-Cuando en la comisión del delito de trata de personas concurra otro delito, se aplicarán las reglas del concurso establecidas en el Código Penal para el Estado de Tamaulipas.
+(DEROGADO, P.O. 3 DE ABRIL DE 2014)
 
 ###### ARTICULO 8.
 
-Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientos días multa.
-
-Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para denunciar el delito de trata de personas de cuya comisión tenga conocimiento.
+(DEROGADO, P.O. 3 DE ABRIL DE 2014)
 
 ###### ARTICULO 9.
 
-El consentimiento de la víctima a cualquier forma de explotación no constituye causal excluyente del delito.
-
-La tentativa del delito de trata de personas se sancionará con pena de prisión que no será menor a la pena mínima y podrá llegar hasta las dos terceras partes de la sanción máxima prevista para el delito consumado.
+(DEROGADO, P.O. 3 DE ABRIL DE 2014)
 
 ###### ARTICULO 10.
 
-Cuando una persona sea sentenciada como penalmente responsable de la comisión del delito, el Juez deberá condenarla también al pago de la reparación del daño; ésta incluirá:
-
-I. Los costos del tratamiento médico;
-
-II. Los costos de la terapia y rehabilitación física y ocupacional;
-
-III. Los costos del transporte, incluido el de retorno a su lugar de origen, gastos de alimentación, vivienda provisional y cuidado de personas menores de dieciocho o mayores de sesenta años de edad, así como, quienes no tengan capacidad para comprender el significado del hecho, o para resistirlo o que sean personas indígenas;
-
-IV. Los ingresos perdidos;
-
-V. El resarcimiento de los perjuicios ocasionados;
-
-VI. La indemnización por daño moral; y
-
-VII. El resarcimiento derivado de cualquier otra pérdida sufrida por la víctima que haya sido generada por la comisión del delito.
+(DEROGADO, P.O. 3 DE ABRIL DE 2014)
 
 ###### ARTICULO 11.
 
-Para todos los efectos legales y por afectar de manera importante los valores fundamentales de la sociedad, el delito de trata de personas se considera delito grave. La tentativa punible de éste ilícito también se considera grave.
+(DEROGADO, P.O. 3 DE ABRIL DE 2014)
 
 ## TITULO SEGUNDO. DE LA COMISION INTERINSTITUCIONAL
 
@@ -141,21 +117,27 @@ La Comisión Interinstitucional tendrá por objeto coordinar las acciones de los
 
 ### CAPITULO II. ESTRUCTURA DE LA COMISION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 14.
 
-La Comisión estará integrada por los titulares de las siguientes dependencias:
+La Comisión estará integrada por los titulares de las siguientes dependencias y entidades:
 
 I. Secretaría General de Gobierno;
 
 II. Secretaría de Seguridad Pública;
 
-III. Secretaria de Salud;
+III. Secretaría de Salud;
 
 IV. Secretaría de Desarrollo Social;
 
-V. Secretaría de Educación Pública;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
-VI. Secretaría de Turismo;
+V. Secretaría de Educación del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+VI. Secretaría de Desarrollo Económico y Turismo;
 
 VII. Procuraduría General de Justicia del Estado;
 
@@ -169,7 +151,7 @@ Por cada miembro propietario de la Comisión Interinstitucional habrá un suplen
 
 Podrán participar en las reuniones de la Comisión Interinstitucional, con derecho a voz pero sin voto:
 
-l. Un representante del Congreso del Estado;
+I. Un representante del Congreso del Estado;
 
 II. Un representante del Poder Judicial del Estado, designado para tal efecto por el Presidente del Supremo Tribunal de Justicia del Estado;
 
@@ -259,7 +241,7 @@ VI. Las demás que se consideren necesarias para el cumplimento de las atribucio
 
 El Secretario Técnico tendrá a su cargo las siguientes facultades:
 
-l. Apoyar al Presidente en la organización y logística de las sesiones de la Comisión;
+I. Apoyar al Presidente en la organización y logística de las sesiones de la Comisión;
 
 II. Recibir las propuestas de temas que le envíen los integrantes de la Comisión para la conformación del orden del día;
 
@@ -325,31 +307,63 @@ II. La capacitación y formación antes señaladas incluirán los tratados inter
 
 III. La capacitación y formación tendrán como principio rector el respeto a los derechos fundamentales de la víctima, el ofendido y el victimario.
 
-### CAPITULO II. DE LA PROTECCION DE LAS VICTIMAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2014)</small>
+
+### CAPITULO II. DE LA PROTECCION DE LAS VICTIMAS, OFENDIDOS Y TESTIGOS
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+ARTICULO 25 BIS.- Para los efectos de esta ley, se considera víctima al titular del bien jurídico lesionado o puesto en peligro por la acción u omisión por los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+Lo anterior con independencia de que se identifique, aprehenda, sujete a procesos o condene al autor, coautor o partícipe del delito y con independencia de la relación familiar entre éste y la víctima u ofendido.
+
+Los ofendidos gozarán de los mismos derechos reconocidos a la víctima.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+ARTICULO 25 TER.- Tendrán la calidad de ofendido, los familiares de la víctima hasta en (sic) cuarto grado, dependientes económicos, así como a cualquier otra persona que tenga una relación de hecho o convivencia afectiva con la víctima y que sufran, hayan sufrido o se encuentren en situación de riesgo de sufrir algún daño o perjuicio por motivos o a consecuencia de la comisión del delito. Entre los que se encuentran:
+
+I. Hijos o hijas de la víctima;
+
+II. El cónyuge, concubina o concubinario;
+
+III. El heredero declarado judicialmente en los delitos cuyo resultado sea la muerte de la víctima u ofendido;
+
+IV. La persona que hubiere vivido de forma permanente con la víctima durante por lo menos dos años anteriores al hecho; y
+
+V. La persona que haya sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+ARTICULO 25 QUATER.- Tendrá la calidad de testigo toda persona que de forma directa o indirecta, a través de sus sentidos tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 26.
 
-Las autoridades estatales realizarán las acciones necesarias para identificar a las posibles víctimas y víctimas del delito de trata de personas, y adoptarán las siguientes medidas de atención y protección:
+Las autoridades estatales realizarán las acciones necesarias para identificar a las víctimas, ofendidos y testigos del delito de trata de personas, y adoptarán las siguientes medidas de atención y protección:
 
-Proporcionarán orientación jurídica, asistencia social, educativa y laboral a las víctimas del delito de trata de personas. En el caso de que las víctimas pertenezcan a alguna etnia o comunidad indígena o hablen un dialecto o idioma diferente al castellano se designará a un traductor, quien le asistirá en todo momento:
+I. Proporcionarán orientación jurídica, asistencia social, educativa y laboral a las víctimas del delito de trata de personas. En el caso de que las víctimas pertenezcan a alguna etnia o comunidad indígena o hablen un dialecto o idioma diferente al castellano se designará a un traductor, quien le asistirá en todo momento;
 
-l. Garantizarán asistencia material, médica y psicológica, en todo momento a las víctimas del delito, la cual según sea el caso, deberá ser en su lengua o idioma;
+II. Garantizarán asistencia material, médica y psicológica, en todo momento a las víctimas del delito, la cual según sea el caso, deberá ser en su lengua o idioma;
 
-II. Fomentarán oportunidades de empleo, educación y capacitación para el trabajo a las víctimas del delito;
+III. Fomentarán oportunidades de empleo, educación y capacitación para el trabajo a las víctimas del delito;
 
-III. Desarrollarán y ejecutarán planes y programas de asistencia, incluyendo la construcción de albergues específicamente creados para las víctimas de trata de personas, donde se les brinden las condiciones para garantizar el respeto a sus derechos fundamentales, así como alojamiento por el tiempo necesario, asistencia médica y psicológica, alimentación y cuidados, atendiendo a las necesidades particulares de las víctimas;
+IV. Desarrollarán y ejecutarán planes y programas de asistencia, incluyendo la construcción de albergues específicamente creados para las víctimas de trata de personas, donde se les brinden las condiciones para garantizar el respeto a sus derechos fundamentales, así como alojamiento por el tiempo necesario, asistencia médica y psicológica, alimentación y cuidados, atendiendo a las necesidades particulares de las víctimas;
 
-IV. Asegurarán que la estancia en los albergues o en cualquier otra instalación sea de carácter voluntario, y que la víctima pueda salir del lugar si así lo desea;
+V. Asegurarán que la estancia en los albergues o en cualquier otra instalación sea de carácter voluntario, y que la víctima pueda salir del lugar si así lo desea;
 
-V. Garantizarán que la víctima pueda razonablemente comunicarse en todo momento con cualquier persona;
+VI. Garantizarán que la víctima pueda razonablemente comunicarse en todo momento con cualquier persona;
 
-VI. Brindarán orientación jurídica migratoria a las víctimas del delito que así lo requieran, facilitarán la comunicación con su representante consular y, en su caso, cooperarán en la repatriación de la víctima, otorgándole plena seguridad de sus derechos fundamentales;
+VII. Brindarán orientación jurídica migratoria a las víctimas del delito que así lo requieran, facilitarán la comunicación con su representante consular y, en su caso, cooperarán en la repatriación de la víctima, otorgándole plena seguridad de sus derechos fundamentales;
 
-VII. Garantizarán que bajo ninguna circunstancia se albergará a las víctimas en centros preventivos o penitenciarios, ni en lugares habilitados para tal efecto;
+VIII. Garantizarán que bajo ninguna circunstancia se albergará a las víctimas en centros preventivos o penitenciarios, ni en lugares habilitados para tal efecto;
 
-VIII. Proporcionarán protección, seguridad y salvaguarda de su integridad y la de sus familiares ante amenazas, agresiones, intimidaciones o venganzas de los responsables del delito o de quienes estén ligados con ellos; y
+IX. Proporcionarán protección, seguridad y salvaguarda de su integridad y la de sus familiares ante amenazas, agresiones, intimidaciones o venganzas de los responsables del delito o de quienes estén ligados con ellos;
 
-IX. Proporcionarán asesoría jurídica respecto de los derechos y procedimientos legales a seguir; asimismo, brindarán asistencia jurídica durante todo el proceso legal, en especial para exigir la reparación del daño sufrido.
+X. Proporcionarán asesoría jurídica respecto de los derechos y procedimientos legales a seguir; asimismo, brindarán asistencia jurídica durante todo el proceso legal, en especial para exigir la reparación del daño sufrido; y
+
+XI. Las demás que se establezcan en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos y en la Ley de Protección a las Víctimas de los Delitos para el Estado de Tamaulipas.
 
 ###### ARTICULO 27.
 
@@ -425,7 +439,9 @@ VI. Proporcionen los datos necesarios para el desarrollo (sic) investigaciones y
 
 Con la participación ciudadana se podrán constituir fondos de financiamiento, en los que concurran las organizaciones civiles y sociales, las instituciones académicas, grupos empresariales y agencias de cooperación, que estarán destinados para el desarrollo de proyectos en la materia.
 
-### CAPITULO III. DE LOS RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2014)</small>
+
+### CAPITULO III. DE LOS RECURSOS Y EL FONDO
 
 ###### ARTICULO 36.
 
@@ -434,6 +450,34 @@ Las dependencias y entidades que constituyan la Comisión Interinstitucional, de
 ###### ARTICULO 37.
 
 Para financiar las acciones del Programa Estatal, el Estado podrá recibir y administrar los recursos que provengan de donaciones que realicen empresarios u organismos internacionales o de la sociedad civil, a través de la Secretaría de Hacienda.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2014)</small>
+
+###### ARTICULO 38.
+
+El Gobierno del Estado establecerá un Fondo para la Protección y Asistencia a las Víctimas de los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+El Fondo previsto en el presente artículo se integrará de la siguiente manera:
+
+I. Recursos previstos para dicho fin en el presupuesto de egresos, del Estado;
+
+II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales que correspondan a los delitos materia de trata de personas;
+
+III. Recursos adicionales obtenido (sic) por los bienes que causen abandono;
+
+IV. Recursos producto de los bienes que hayan sido objeto de extinción de dominio y estén relacionados con la comisión de los delitos materia de trata de personas;
+
+V. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad judicial;
+
+VI. Recursos que se produzcan por la administración de valores o los depósitos en dinero de los recursos derivados del propio Fondo, distintos a los que se refiere la fracción anterior; y
+
+VII. Las donaciones o aportaciones hechas a su favor por terceros.
+
+El Fondo para la Protección y Asistencia a las Víctimas de los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, será administrado por el Instituto de Atención a las Víctimas de los Delitos de la Secretaría General de Gobierno, siguiendo criterios de transparencia, oportunidad, eficiencia y racionalidad, el cual determinará los criterios de asignación de recursos.
+
+Los recursos que integren el Fondo, serán fiscalizados por la Auditoría Superior del Estado.
+
+Los recursos del Fondo, podrán utilizarse para el pago de la reparación del daño a la víctima, en los términos de las legislaciones Federal y local en materia de extinción de dominio, en caso de que los recursos del sentenciado sean insuficientes para cubrir el monto determinado por el juzgador.
 
 T R A N S I T O R I O S
 
@@ -474,3 +518,19 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR
 
 CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- HUGO ANDRES ARAUJO DE LA TORRE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de trata de personas previstas en la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas y en el Código de Procedimientos Penales para el Estado de Tamaulipas vigentes hasta la entrada en vigor del Decreto mediante el cual se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
