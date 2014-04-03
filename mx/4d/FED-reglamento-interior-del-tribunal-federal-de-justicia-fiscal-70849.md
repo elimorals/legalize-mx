@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2013-11-21"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2009-11-11"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2014 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -1555,9 +1557,9 @@ X. Cualquier informe que la Sala Superior, el Presidente o los Magistrados visit
 
 La Junta evaluará el Sistema de Control y Seguimiento de Juicios así como el Sistema de Justicia en Línea y, en su caso, autorizará las propuestas de adecuaciones necesarias para optimizar su operación.
 
-> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2014)</small>
 
-En caso de ser necesario corregir la información contenida en los Sistemas respectivos, las Salas Regionales deberán solicitarlo a la Junta, por conducto de la Unidad de Seguimiento de Visitas, mediante escrito en el que motiven su petición y una vez autorizada, la Dirección General del Sistema de Justicia en Línea podrá efectuar la corrección.
+En caso de ser necesario corregir la información contenida en los Sistemas del Tribunal, las Salas Regionales deberán solicitarlo a la Contraloría Interna, para que por conducto de la Unidad de Seguimiento de Visitas, someta la solicitud a consideración de la Junta, y una vez autorizada, la Dirección General del Sistema de Justicia en Línea podrá efectuar la corrección.
 
 ### Capítulo XIII. Del Sistema de Justicia en Línea
 
@@ -2367,27 +2369,27 @@ XIII. Las demás que le confieran las disposiciones jurídicas aplicables y los 
 
 Para el desempeño de sus funciones, la Contraloría Interna contará y tendrá adscritas una Coordinación de Gestión y las Direcciones de Auditoría, de Quejas, Denuncias y Responsabilidades, de Control y Evaluación y de Registro Patrimonial, y para el ejercicio de las atribuciones previstas en la fracción XII de este artículo contará con la Unidad de Seguimiento de Visitas.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO SS/3/2014 PUBLICADO EN EL D.O.F. DE 3 DE ABRIL DE 2014, LA ANTERIOR FRACCIÓN I FUE DEROGADA, RECORRIÉNDOSE HASTA LA FRACCIÓN VI, EN SU ORDEN.</small>
+
 > <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 ###### Artículo 95.
 
 A la Unidad de Seguimiento de Visitas corresponde:
 
-I. Efectuar, al inicio de cada año, un diagnóstico global de funcionamiento de las Salas Regionales con base en el análisis de los resultados de las visitas, y entregar a la Junta un resumen del estado que guardan las Salas visitadas, con la expresión gradual de las incidencias que requieran decisiones correctivas urgentes a cargo de la Junta;
+I. Apoyar a la Contraloría Interna, en el registro, control y seguimiento de las visitas efectuadas por los Magistrados Integrantes de la Junta a las Salas Regionales, incluyendo el seguimiento de las recomendaciones u observaciones resultado de dichas visitas, así como rendir los informes relativos a su cumplimiento, conforme a las instrucciones de la Contraloría Interna y los lineamientos jurídicos emitidos para tal efecto;
 
-II. Apoyar a la Contraloría Interna, en el registro, control y seguimiento de las visitas efectuadas por los Magistrados Integrantes de la Junta a las Salas Regionales, incluyendo el seguimiento de las recomendaciones u observaciones resultado de dichas visitas, así como rendir los informes relativos a su cumplimiento, conforme a las instrucciones de la Contraloría Interna y los lineamientos jurídicos emitidos para tal efecto;
+II. Compilar y difundir las normas y lineamientos que se dicten para la realización de las visitas, así como los estándares o procedimientos internos de las Salas Regionales que regulen las actividades materia de revisión y evaluación por parte de la Junta;
 
-III. Compilar y difundir las normas y lineamientos que se dicten para la realización de las visitas, así como los estándares o procedimientos internos de las Salas Regionales que regulen las actividades materia de revisión y evaluación por parte de la Junta;
+III. Coadyuvar con la Dirección General del Sistema de Justicia en Línea, en la verificación aleatoria de la autenticidad de los datos que proporcionen las Salas Regionales en los informes estadísticos mensuales, informando de ello a la Junta por conducto de la Contraloría Interna;
 
-IV. Coadyuvar con la Dirección General del Sistema de Justicia en Línea, en la verificación aleatoria de la autenticidad de los datos que proporcionen las Salas Regionales en los informes estadísticos mensuales, informando de ello a la Junta por conducto de la Contraloría Interna;
+IV. Recibir y analizar las solicitudes de corrección a la información contenida en el Sistema de Control y Seguimiento de Juicios, sometiéndolas por conducto de la Contraloría Interna a la autorización de la Junta y en su caso, remitirlas a la Dirección General del Sistema de Justicia en Línea para su corrección;
 
-V. Recibir y analizar las solicitudes de corrección a la información contenida en el Sistema de Control y Seguimiento de Juicios, sometiéndolas por conducto de la Contraloría Interna a la autorización de la Junta y en su caso, remitirlas a la Dirección General del Sistema de Justicia en Línea para su corrección;
+V. Verificar que la Dirección General del Sistema de Justicia en Línea, realice las correcciones a la información contenida en el Sistema de Control y Seguimiento de Juicios, autorizadas por la Junta;
 
-VI. Verificar que la Dirección General del Sistema de Justicia en Línea, realice las correcciones a la información contenida en el Sistema de Control y Seguimiento de Juicios, autorizadas por la Junta;
+VI. Proponer a la Contraloría Interna, para su presentación a la Junta, políticas y procedimientos para el seguimiento de las visitas, con el fin de asegurar la correcta administración y la disponibilidad inmediata de la información relativa al cumplimiento de las observaciones y recomendaciones realizadas por los Magistrados integrantes de la Junta, y
 
-VII. Proponer a la Contraloría Interna, para su presentación a la Junta, políticas y procedimientos para el seguimiento de las visitas, con el fin de asegurar la correcta administración y la disponibilidad inmediata de la información relativa al cumplimiento de las observaciones y recomendaciones realizadas por los Magistrados integrantes de la Junta, y
-
-VIII. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias.
+VIII (SIC). Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 96.
 
@@ -2421,17 +2423,19 @@ VI. Turnar a la Dirección de Quejas, Denuncias y Responsabilidades los expedien
 
 VII. Supervisar la destrucción de expedientes tanto jurisdiccionales como administrativos que tengan el carácter de archivo muerto, así como la baja, enajenación y destino final de bienes muebles del Tribunal;
 
-VIII. Participar en los procesos que se lleven a cabo para la adquisición y arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
 
-IX. Intervenir como asesor en los Comités de Adquisiciones, Bienes Muebles y Obras Públicas del Tribunal, así como en los Subcomités y reuniones que deriven de los mismos a que sea convocado el Contralor, de conformidad con las disposiciones jurídicas aplicables;
+VIII. Intervenir en términos del artículo 105 del Reglamento Interior del Tribunal, en representación de la Contraloría Interna en las actas de entrega-recepción de los servidores públicos de confianza del Tribunal al concluir sus nombramientos o separarse de sus cargos por cualquier causa.
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>N. DE E. LA ANTERIOR FRACCIÓN IX FUE DEROGADA DE CONFORMIDAD CON EL ACUERDO SS/3/2014 PUBLICADO EN EL D.O.F. DE 3 DE ABRIL DE 2014, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES.</small>
 
-X. Efectuar revisiones técnico-normativas en materia de adquisiciones y obra pública, realizar las investigaciones de oficio, así como aquéllas que con ese carácter convenga llevar a cabo, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+IX. Efectuar revisiones técnico-normativas en materia de adquisiciones y obra pública, realizar las investigaciones de oficio, así como aquéllas que con ese carácter convenga llevar a cabo, y
 
-XI. Las demás que le confieran otras disposiciones jurídicas o el Pleno Jurisdiccional de la Sala Superior.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+
+X. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
 
 ###### Artículo 98.
 
@@ -2445,13 +2449,31 @@ III. Acordar con el Contralor la resolución de los asuntos relevantes a su carg
 
 IV. Recibir los recursos que se promuevan en contra de las resoluciones que emita, y someterlos a la consideración del Contralor para su resolución en términos de las disposiciones jurídicas aplicables;
 
-V. Recibir, tramitar y resolver las inconformidades que presenten los particulares, conforme a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+V. Recibir, instruir y resolver las inconformidades interpuestas por los actos que contravengan las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, de obra pública y servicios relacionados con la misma;
 
-VI. Hacer del conocimiento de la Junta y de la Unidad de Asuntos Jurídicos los hechos de que tenga conocimiento y que puedan ser constitutivos de delitos imputables a los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3, de la Ley, y
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2014)</small>
 
-VII. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+VI. Iniciar, instruir y resolver el procedimiento de intervenciones de oficio, si así lo considera conveniente por presumir la inobservancia de las disposiciones contenidas en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+
+VII. Tramitar, instruir y resolver los procedimientos administrativos correspondientes e imponer las sanciones a los licitantes, proveedores y contratistas en los términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+
+VIII. Tramitar los procedimientos de conciliación en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma derivados de las solicitudes de conciliación que presenten los proveedores o contratistas por incumplimiento a los contratos celebrados o a los pedidos formulados por el Tribunal;
+
+Para efecto de lo anterior, podrán emitir todo tipo de acuerdos, así como presidir y conducir las sesiones de conciliación y lleva (sic) a cabo las diligencias, requerimientos, citaciones, notificaciones y prevenciones a que haya lugar;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+
+IX. Hacer del conocimiento de la Junta y de la Unidad de Asuntos Jurídicos los hechos de que tenga conocimiento y que puedan ser constitutivos de delitos imputables a los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3 de la Ley, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+
+X. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
 
 ###### Artículo 99.
 
@@ -2465,9 +2487,19 @@ III. Apoyar y verificar el cumplimiento de las acciones de mejora derivadas de l
 
 IV. Revisar el cumplimiento de los programas establecidos por las áreas administrativas;
 
-V. Levantar y formalizar actas o minutas para establecer los compromisos de atención a las observaciones derivadas de la evaluación de programas y cumplimiento de disposiciones normativas, para corregir deficiencias y evitar su recurrencia, y
+V. Levantar y formalizar actas o minutas para establecer los compromisos de atención a las observaciones derivadas de la evaluación de programas y cumplimiento de disposiciones normativas, para corregir deficiencias y evitar su recurrencia, y (sic)
 
-VI. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+
+VI. Participar en los procesos que se lleven a cabo para la adquisición y arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+
+VII. Intervenir como asesor en los Comités de Adquisiciones, Bienes Muebles y Obras Públicas del Tribunal, así como en los Subcomités y reuniones que deriven de los mismos a que sea convocado el Contralor, de conformidad con las disposiciones jurídicas aplicables, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+
+VIII. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
 
 ###### Artículo 100.
 
@@ -2848,3 +2880,13 @@ PRIMERO.- A partir del martes diecinueve de noviembre de dos mil trece, el domic
 SEGUNDO.- El inventario de los asuntos que se encuentran radicados en la Primera, Segunda y Tercera Salas Regionales del Noreste y que serán trasladados a la nueva sede de las Salas, se encuentran registrados electrónicamente en el Sistema de Control y Seguimiento de Juicios, en términos del artículo 66 del Reglamento Interior de este Tribunal.
 
 TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, en la página de internet del Tribunal y en el periódico de mayor circulación en los Estados de Nuevo León y Tamaulipas.
+
+D.O.F. 3 DE ABRIL DE 2014.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en este ordenamiento.
+
+CUARTO.- Los asuntos que a la entrada en vigor de este Acuerdo deban pasar de una unidad administrativa de la Contraloría Interna a otra u otras, continuarán su trámite y serán resueltas por aquella o aquellas unidades a las que se les haya atribuido la competencia en el presente ordenamiento.
