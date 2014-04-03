@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-justicia-para-adolescentes-del-estado-51775"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2013-06-07"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de septiembre de 2006.
 
@@ -53,9 +53,9 @@ Generalidades, principios, derechos y garantías.
 
 ###### Artículo 1.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
 
-1. Esta ley se aplica a todo adolescente a quien se le atribuya la realización de una conducta tipificada como delito en las leyes penales del Estado y en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos.
+1. Esta ley se aplica a todo adolescente a quien se le atribuya la realización de una conducta tipificada como delito en las leyes penales estatales, generales y federales, éstas últimas en lo que respecta a las materias concurrentes.
 
 2. Para los efectos de esta ley se entiende por niño, al menor de doce años de edad, y por adolescente, a toda persona mayor de doce y menor de dieciocho años de edad.
 
@@ -65,7 +65,9 @@ Generalidades, principios, derechos y garantías.
 
 ###### Artículo 2.
 
-1. Todo adolescente a quien se atribuya la realización de una conducta tipificada como delito en las leyes penales del Estado, será sujeto al régimen especial previsto por esta ley. En ningún caso podrá ser juzgado como adulto, ni se le aplicarán las sanciones previstas por las leyes penales para los adultos.
+> <small>(REFORMADO, P.O. 3 DE ABRIL 2014)</small>
+
+1. Todo adolescente a quien se atribuya la realización de una conducta tipificada como delito en las leyes penales estatales, generales y federales, éstas últimas en lo que respecta a las materias concurrentes, será sujeto al régimen especial previsto por esta ley. En ningún caso podrá ser juzgado como adulto, ni se le aplicarán las sanciones previstas por las leyes penales para los adultos.
 
 2. Los adolescentes responderán por sus conductas ilícitas en la medida de su responsabilidad, en forma diferenciada a los adultos.
 
@@ -95,11 +97,11 @@ III. Aquellos que tengan entre dieciséis y menos de dieciocho años de edad.
 
 3. Si la duda se refiere al grupo de edad al que pertenece el adolescente, se presumirá que forma parte del que le sea más conveniente.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL 2014)</small>
 
 ###### Artículo 6.
 
-La interpretación y aplicación de las disposiciones contenidas en esta ley se hará en armonía con sus principios rectores, en la forma que mejor se garanticen los derechos fundamentales y específicos contenidos en las (sic) Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los Tratados Internacionales de los cuales sea parte el Estado Mexicano, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro y las leyes estatales aplicables.
+La interpretación y aplicación de las disposiciones contenidas en esta ley se hará en armonía con sus principios rectores, en la forma que mejor se garanticen los derechos fundamentales y específicos contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los Tratados Internacionales de los cuales sea parte el Estado Mexicano, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos y las leyes estatales aplicables.
 
 ###### Artículo 7.
 
@@ -1265,9 +1267,9 @@ El internamiento es una medida de tratamiento de carácter excepcional, que debe
 
 ###### Artículo 141.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL 2014)</small>
 
-1. El internamiento en un Centro de Reintegración Social y Familiar para Adolescentes podrá ser aplicado únicamente en las conductas tipificadas como delito de secuestro en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro; y en los casos de los delitos graves siguientes:
+1. El internamiento en un Centro de Reintegración Social y Familiar para Adolescentes podrá ser aplicado únicamente en las conductas tipificadas como delito de secuestro y trata de personas establecidos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro y en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, respectivamente; y en los casos de los delitos graves siguientes:
 
 I. Cuando se trate de los sujetos comprendidos en la fracción II del artículo 4 de esta ley, la restricción de la libertad no podrá exceder los cuatro años, en caso de que fueran encontrados responsables de alguna de las siguientes conductas previstas en el Código Penal para el Estado de Tamaulipas:
 
@@ -2004,6 +2006,20 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal para el Estado de Tamaulipas y de la Ley de Justicia para Adolescentes del Estado vigentes hasta la entrada en vigor del Decreto mediante el cual se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de trata de personas previstas en la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas y en el Código de Procedimientos Penales para el Estado de Tamaulipas vigentes hasta la entrada en vigor del Decreto mediante el cual se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
 
 ###### ARTÍCULO TERCERO.
 
