@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2011-11-22"
+last_updated: "2014-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -1567,7 +1567,7 @@ c) Deberá cumplir con los lineamientos urbanísticos en materia de vialidades y
 
 d) En caso de que el área de cesión se proponga en más de un polígono, ninguno deberá tener menos de siete mil quinientos metros cuadrados, con excepción de la superficie de camellones a que se refiere la fracción II de este mismo artículo.
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 52 Bis.
 
@@ -1591,7 +1591,9 @@ VIII.- La habilitación de las vías públicas conforme a las especificaciones q
 
 IX.- Las obras de infraestructura troncal o de servicios básicos que se requieran para su incorporación al área urbana;
 
-X.- Las obras y previsiones necesarias para facilitar el acceso, circulación y uso de espacios e instalaciones para personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+
+X.- Las obras y previsiones necesarias para facilitar el acceso, circulación y uso de espacios e instalaciones a las personas con discapacidad;
 
 XI.- La habilitación, equipamiento y arbolado de áreas verdes, camellones y banquetas de concreto, conforme los lineamientos que señale la autoridad municipal correspondiente;
 
@@ -2423,7 +2425,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE OCTUBRE DE 2006.
 
@@ -2460,3 +2462,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El otorgamiento de licencias de uso de suelo de estaciones de servicio denominadas gasolineras, deberá sujetarse a las disposiciones aplicables en materia de protección civil, ambiental, de comunicaciones y demás administrativas pertinentes.
+
+P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
