@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2014-01-13"
+last_updated: "2014-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -1311,6 +1311,10 @@ III. Elaborar, con apoyo del Director de Servicios Administrativos y el Director
 
 IV. Turnar al titular del Poder Ejecutivo del Estado, el Proyecto de Presupuesto de Ingresos y Egresos del Poder Legislativo para que lo incluya en las iniciativas correspondientes de cada ejercicio fiscal, en el que deberán incluirse partidas presupuestales para: implementación de políticas públicas y programas de carácter social de los diputados, capacitación a diputados y personal de la Legislatura, servicios de asesoría, estadística y análisis profesional, publicaciones institucionales, comunicación y difusión del trabajo legislativo, mismos que por acuerdo de ésta podrán modificarse y variar con relación a los tiempos y necesidades de la Legislatura;
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
+
+El proyecto de Presupuesto de Ingresos y Egresos del Poder Legislativo que se elabore anualmente, señalará de manera ineludible las obligaciones de pago multianuales previstas en los contratos de mediano y largo plazo celebrados por el Poder Legislativo del Estado de Querétaro, en términos del segundo párrafo, del artículo 3 del presente ordenamiento, que se encuentran vigentes, tanto para el ejercicio fiscal correspondiente como para los subsecuentes. El Poder Legislativo garantizará prioritariamente los recursos suficientes y necesarios para el cumplimiento de las obligaciones que se contraigan en los ejercicios fiscales correspondientes, mediante los contratos que el Poder Legislativo celebre con fundamento en lo previsto en el presente ordenamiento y demás leyes aplicables;
+
 V. Proponer a la Legislatura la integración de sus órganos y la substitución de sus miembros, así como la designación de los titulares de las dependencias;
 
 VI. Comunicar a la Mesa Directiva, la inclusión de asuntos en el orden del día para las sesiones del Pleno;
@@ -1325,9 +1329,9 @@ IX. Proponer a la Legislatura el nombramiento y remoción de los funcionarios ex
 
 X. Supervisar y ordenar el trabajo de la Coordinación de Comunicación Social;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
 
-XI. Proponer al Pleno de la Legislatura la contratación de empréstitos, arrendamientos financieros o la utilización de cualquier instrumento financiero y de crédito en sus diversas modalidades, con el fin de que el Poder Legislativo del Estado de Querétaro, con asignación directa y con el voto de la mayoría de los integrantes presentes de la Legislatura, construya infraestructura propia y desarrolle proyectos que impliquen el correcto y buen funcionamiento de la actividad legislativa y de representación de los diputados; y
+XI. Proponer al Pleno de la Legislatura, en términos del artículo 3 del presente ordenamiento, la celebración de contratos a que alude el segundo párrafo de dicho numeral, pudiendo también proponer, en su caso, que el Poder Ejecutivo del Estado intervenga en la celebración del contrato correspondiente como aval o deudor solidario, de las obligaciones que contraiga la Legislatura del Estado en ejercicio de la atribución conferida en el presente numeral. Los contratos correspondientes, podrán ser adjudicados o asignados directamente por el Poder Legislativo del Estado de Querétaro; y
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -1693,7 +1697,9 @@ VII. A través del personal a su cargo, prestar, conducir y controlar los servic
 
 VIII. Rendir y entregar ante la Comisión de Transparencia y Rendición de Cuentas, cuanto informe le requiera sobre su gestión;
 
-IX. Proponer, conjuntamente con el Director de Servicios Financieros, a la Junta de Concertación Política, el proyecto de presupuesto de ingresos y egresos de la Legislatura;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+
+IX. Proponer conjuntamente con el Director de Servicios Financieros, a la Junta de Concertación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en los artículos 139, fracción IV del presente ordenamiento y 24, último párrafo, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
 
 X. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento;
 
@@ -1755,7 +1761,9 @@ XI. Intervenir en el proceso de entrega-recepción, de acuerdo con las prevencio
 
 XII. Ejecutar los acuerdos del Pleno de la Legislatura, en el ámbito de su competencia;
 
-XIII. Conjuntamente con el Director de Servicios Administrativos, proponer a la Junta de Concertación Política, el proyecto de presupuesto de ingresos y egresos de la Legislatura;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+
+XIII. Proponer conjuntamente con el Director de Servicios Administrativos, a la Junta de Concertación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en los artículos 139, fracción IV del presente ordenamiento y 24, último párrafo, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
 
 XIV. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento; y
 
@@ -2162,3 +2170,9 @@ P.O. 13 DE ENERO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 4 DE ABRIL DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Una vez aprobada por el Pleno de la Legislatura del Estado, envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
