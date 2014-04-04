@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2013-09-27"
+last_updated: "2014-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2014.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -83,6 +83,10 @@ Se reconoce el derecho a la práctica del deporte para alcanzar una mejor calida
 
 En el Estado se reconoce la presencia de sus pueblos y comunidades indígenas, admitiendo que fueron la base para su conformación política y territorial; garantizará que la riqueza de sus costumbres y tradiciones; territorio, lengua y patrimonio cultural, medicina tradicional y acceso a recursos naturales, así como su autonomía, libre determinación, sistemas normativos y el acceso a la consulta, sean preservados y reconocidos a través de la ley respectiva.
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
+
+En el Estado de Querétaro el Gobierno se sustenta en el valor de la ética, por lo que todos los entes Públicos cuentan con un Código de Ética, mediante el establecimiento de una adecuada política, la creación de un comité de ética formalmente constituida y de la realización de la capacitación y difusión en dicho valor.
+
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 4.
@@ -100,6 +104,10 @@ La cultura de los queretanos constituye un bien irrenunciable y un derecho funda
 Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar integral; es obligación de las autoridades y de los habitantes protegerlo.
 
 La protección, la conservación, la restauración y la sustentabilidad de los recursos naturales serán tareas prioritarias del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
+
+El Estado de Querétaro tiene el deber principal de desarrollar la estructura e implementar políticas y estrategias tendientes a fortalecer y garantizar la protección y asistencia de las poblaciones, así como salvaguardar la propiedad y el medio ambiente frente a los desastres naturales o antropogénicas y en condiciones de vulnerabilidad. Por lo tanto es un Derecho Humano de todas las personas el acceso a la protección civil del Estado y los Municipios al presentarse una catástrofe, teniendo los habitantes, a su vez, el deber de participar activamente, cumpliendo con las medidas necesarias y colaborando con las autoridades en la prevención de los desastres.
 
 > <small>(REFORMADO, P. O. 19 DE JULIO DE 2013)</small>
 
@@ -313,7 +321,9 @@ VIII. Por acuerdo de las dos terceras partes de sus integrantes, crear nuevos Mu
 
 IX. Decretar la traslación provisional de los Poderes de la entidad fuera del Municipio de su residencia;
 
-X. Aprobar anualmente la Ley de Ingresos del Estado y la de cada municipio, así como el Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+
+X. Aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Estado, las Leyes de Ingresos de los Municipios, así como revisar y fiscalizar sus cuentas públicas. Para este efecto la Entidad Superior de Fiscalización del Estado de Querétaro, actuara como órgano técnico de asesoría;
 
 XI. Autorizar al titular del Poder Ejecutivo para que contrate empréstitos y otorgue avales para garantizar obligaciones legalmente contraídas;
 
@@ -587,21 +597,37 @@ Los jueces de la entidad serán designados por el Tribunal Superior de Justicia 
 
 ### Capítulo Quinto. Organismos Autónomos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 31.
 
-La Entidad Superior de Fiscalización del Estado, es el organismo público autónomo, mediante el cual se ejercerá la función de fiscalización, en los términos que establece la ley y conforme a los principios de posterioridad, legalidad, imparcialidad y confiabilidad. Tendrá a su cargo:
+La Entidad Superior de Fiscalización del Estado de Querétaro, es el organismo público autónomo, mediante el cual se ejercerá la función de fiscalización, en los términos que establece la ley y conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad. Tendrá a su cargo:
 
-I. Fiscalizar, en forma posterior, los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los Poderes del Estado, de los Municipios, de las Entidades Públicas, cualquiera que sea su naturaleza jurídica, y, en general, cualquier persona física o moral que recaude, administre, maneje o ejerza recursos públicos, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+
+I. Fiscalizar, en forma posterior, los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los Poderes del Estado, de las Entidades Públicas, cualquiera que sea su naturaleza jurídica, y, en general, cualquier persona física o moral que recaude, administre, maneje o ejerza recursos públicos, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 II. Investigar los actos y omisiones que impliquen irregularidad o conducta ilícita en materia de cuenta pública y manejo de recursos públicos;
 
-III. Determinar los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, promoviendo ante las autoridades competentes el fincamiento de responsabilidades. En su caso podrá imponer las sanciones correspondientes; y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
 
-IV. Entregar el informe del resultado de la revisión de la Cuenta Pública al Presidente de la Legislatura del Estado, debiendo guardar reserva de sus actuaciones y observaciones hasta que se publiquen los informes de la misma.
+III. Determinar los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, promoviendo ante las autoridades competentes el fincamiento de responsabilidades. En su caso podrá imponer las sanciones correspondientes;
 
-Los Poderes del Estado y demás entidades públicas, independientemente de su naturaleza, son sujetos de fiscalización y estarán obligados, en los términos de ley, a rendir cuentas del ejercicio presupuestal que les corresponda ante la Entidad Superior de Fiscalización del Estado, así como a facilitar los auxilios que requiera la misma para el ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+
+IV. Entregar el informe del resultado de la revisión de la Cuenta Pública al Presidente de la Legislatura del Estado, debiendo guardar reserva de sus actuaciones y observaciones hasta que se publiquen los informes de la misma; y
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2014)</small>
+
+V. Actuar como órgano técnico de la Legislatura para la revisión y fiscalización de las cuentas públicas de los municipios, en los términos que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2014)</small>
+
+Los Poderes del Estado y demás entidades públicas, independientemente de su naturaleza, son sujetos de fiscalización y estarán obligados, en los términos de Ley, a rendir cuentas del ejercicio presupuestal que les corresponda ante la Entidad Superior de Fiscalización del Estado, así como a facilitar los auxilios que requiera la misma para el ejercicio de sus funciones, con excepción de los Municipios, que lo harán ante la Legislatura.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 El Auditor Superior del Estado durará en su encargo siete años y podrá ser ratificado por una sola vez por un periodo igual. Solo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
@@ -1426,3 +1452,33 @@ Artículo Primero. La presente ley quedará aprobada una vez satisfechos los req
 Artículo Segundo. Las presentes modificaciones constitucionales, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Tercero. La Legislatura del Estado, a efecto de armonizar las reformas a la Constitución Política del Estado de Querétaro, modificará las disposiciones de la Ley de Derechos Humanos del Estado de Querétaro y las demás relativas y aplicables en la materia, en un plazo máximo de un año contado a partir de la publicación de la presente Ley.
+
+P.O. 4 DE ABRIL DE 2014.
+
+LEY QUE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado de Querétaro.
+
+Artículo Segundo. Las presentes modificaciones constitucionales, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Los Poderes del Estado, los Municipios, los órganos con autonomía constitucional, las empresas de participación estatal y los Organismos Descentralizados de la Administración Pública Estatal y Municipal, deberán contar con un Código de Ética en los términos dispuestos por el artículo 3 de la presente Ley, en un plazo no mayor a un año contado a partir de la entrada en vigor.
+
+P.O. 4 DE ABRIL DE 2014.
+
+LEY QUE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado de Querétaro.
+
+Artículo Segundo. Las presentes modificaciones constitucionales, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 4 DE ABRIL DE 2014.
+
+LEY QUE REFORMA LOS ARTÍCULOS 17 Y 31 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. La Legislatura del Estado, dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, adecuará las leyes secundarias incluyendo su Ley Orgánica al contenido de este ordenamiento legal.
+
+Artículo Tercero. La Mesa Directiva de la Legislatura del Estado reordenara el trámite de las cuentas públicas municipales recibidas a partir del 26 de septiembre del 2013 a través de la Entidad Superior de Fiscalización de Estado de Querétaro, para que sean revisadas y fiscalizadas en los términos de la presente Ley.
