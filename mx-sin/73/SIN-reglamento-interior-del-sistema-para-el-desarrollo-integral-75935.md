@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-sistema-para-el-desarrollo-integral-759
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-16"
-last_updated: "2012-09-21"
+last_updated: "2014-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 4 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 16 de julio de 2010.
 
@@ -822,3 +824,11 @@ Director General del Sistema para el Desarrollo Integral de la Familia del Estad
 P.O. 21 DE SEPTIEMBRE DE 2012.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO SINALOA.
+
+P.O. 4 DE ABRIL DE 2014.
+
+Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo.- Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" el día 16 de julio de 2010.
+
+Tercero.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este Decreto.
