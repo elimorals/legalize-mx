@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-medalla-al-merito-civico-eduardo-neri-66365"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-17"
-last_updated: "2013-02-25"
+last_updated: "2014-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66365&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-02-12"
 
 REGLAMENTO DE LA MEDALLA AL MÉRITO CÍVICO "EDUARDO NERI, LEGISLADORES DE 1913"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de febrero de 2009.
 
@@ -209,11 +209,11 @@ A los candidatos que pasen a la etapa de resolución y no resulten electos para 
 
 El pleno de la Cámara, previo dictamen de la Comisión, aprobará el decreto por que se conferirá la Medalla al ciudadano o ciudadana que se haya distinguido de manera relevante, sirviendo a la colectividad nacional, a la República y a la humanidad.
 
-> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2014)</small>
 
 ###### Artículo 30.
 
-Durante el mes de septiembre de cada año de ejercicio, la Mesa Directiva encargará a la Casa de Moneda de la Nación la elaboración de dos ejemplares de la Medalla que vaya a entregarse. Uno de los ejemplares será el que se entregue a la persona galardonada y el otro será para el acervo histórico de la Cámara.
+Durante el mes de septiembre de cada año de ejercicio, la Mesa Directiva encargará a la Casa de Moneda de la Nación la elaboración de dos ejemplares de la Medalla que vaya a entregarse. Uno de los ejemplares será el que se entregue a la persona galardonada y el otro será entregado al Museo Legislativo para su exhibición al público en general, en un plazo no mayor a 30 días naturales, posteriores a la celebración de la sesión solemne.
 
 ###### Artículo 31.
 
@@ -260,3 +260,9 @@ D.O.F. 25 DE FEBRERO DE 2013.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- A la entrada en vigor del presente Decreto, la entrega de la Medalla correspondiente al Primer Año de Ejercicio Legislativo de la LXII Legislatura, se llevará a cabo durante el Segundo Periodo Ordinario de Sesiones.
+
+D.O.F. 4 DE ABRIL DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Mesa Directiva de la Cámara de Diputados solicitará, a más tardar en septiembre de 2014, a la Casa de Moneda los ejemplares de las Medallas correspondientes a los años 1969, 1972, 1975, 1981, 1984 y 2003, a fin de que el acervo histórico de este reconocimiento esté completo y se exhiba en el Museo Legislativo.
