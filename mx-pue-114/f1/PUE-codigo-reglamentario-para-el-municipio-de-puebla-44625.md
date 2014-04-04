@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2014-03-24"
+last_updated: "2014-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4295,7 +4295,9 @@ III. Tomar las precauciones necesarias en caso de no existir semáforo;
 
 IV. Obedecer las indicaciones de los agentes, promotores voluntarios de seguridad vial y las señales de tránsito; y
 
-V. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con capacidades diferentes y/o obstáculos que impidan el estacionamiento de vehículos en la vía pública.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+
+V. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con discapacidad y/o obstáculos que impidan el estacionamiento de vehículos en la vía pública.
 
 Los peatones que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
@@ -4312,6 +4314,82 @@ I. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no a
 II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía y haya ciclistas cruzando ésta, siempre y cuando el ciclista observe las disposiciones de conducción y circulación de vehículos que establece el presente Capitulo; y
 
 III. Los vehículos deban circular o cruzar una ciclovía y en ésta haya ciclistas circulando.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
+
+###### Artículo 281 Ter.
+
+Los ciclistas deben:
+
+I. Dar preferencia al peatón, respetar las señales de tránsito y las indicaciones de los Agentes de Tránsito;
+
+II. Transitar en el sentido de la circulación vehicular;
+
+III. Llevar a bordo sólo al número de personas para el que exista asiento disponible;
+
+IV. Utilizar el carril de extrema derecha de circulación;
+
+V. Contar con timbre en su bicicleta;
+
+VI. Rebasar sólo por el carril izquierdo;
+
+VII. El ciclista debe usar aditamentos o bandas reflejantes para uso nocturno;
+
+VIII. El ciclista circulará preferentemente por las vías destinadas para ello;
+
+IX. El ciclista debe compartir de manera responsable con los vehículos y el transporte público la circulación en carriles de la extrema derecha;
+
+X. Debe usar las señales apropiadas para dar vuelta a la izquierda o a la derecha y para indicar la dirección de su giro o cambio de carril;
+
+XI. Los ciclistas tienen los mismos derechos y las mismas obligaciones aplicables para un conductor de cualquier otro vehículo, exceptuando lo establecido en el presente Capítulo, así como todas las provisiones que por naturaleza propia de la bicicleta no tengan aplicación;
+
+XII. Circular sin mascotas excepto si las transportan en canastillas y debidamente aseguradas;
+
+XIII. Dentro del Centro Histórico, en las calles donde se cuenta con ciclovía, los ciclistas deberán circular en ella; y
+
+XIV. Los ciclistas que no cumplan con las obligaciones de este Capítulo, serán amonestados verbalmente por los Agentes de Tránsito y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
+
+###### Artículo 281 Quater.
+
+Se prohíbe a los ciclistas:
+
+I. Circular entre carriles, excepto cuando el ciclista se encuentre con tránsito detenido y busque colocarse en lugar visible para reiniciar la marcha;
+
+II. Circular por los carriles confinados para el transporte público de pasajeros (RUTA);
+
+III. Circular sobre las banquetas y áreas reservadas al uso exclusivo de peatones;
+
+IV. Transportar pasajero en lugar intermedio entre la persona que conduce y el manubrio;
+
+V. Transportar carga que impida mantener ambas manos sobre el manubrio, y un debido control del vehículo o su necesaria estabilidad;
+
+VI. Circular a velocidad mayor de 20 kilómetros por hora;
+
+VII. Circular en estado de ebriedad;
+
+VIII. Asirse o sujetarse a otros vehículos en movimiento; y
+
+IX. Circular haciendo uso de teléfonos celulares y otros dispositivos electrónicos, haciendo uso también de audífonos.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
+
+###### Artículo 281 Quinquies.
+
+Los usuarios de las ciclovías:
+
+I. Tienen derecho a circular por la ciclovía libremente. Sin más restricciones que las establecidas en el presente Capítulo;
+
+II. Deben avisar de su presencia mediante su voz o el timbre de su bicicleta a otros usuarios, encontrándose obligados a disminuir su velocidad y ceder el paso a los peatones;
+
+III. Solo pueden transportar carga, bultos u objetos en una bicicleta, cuando con ello no se entorpezcan los movimientos del ciclista, ni se estorbe a la circulación por la ciclovía a los demás usuarios;
+
+IV. Están obligados a obedecer la señalización, y en su caso, las indicaciones de los Agentes de Tránsito;
+
+V. En caso de falla mecánica, efectuarán las reparaciones preferentemente fuera de la superficie de rodamiento; y
+
+VI. Deberán observar lo establecido en el artículo 281 Ter, del presente Capítulo y demás relativos.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -10609,9 +10687,9 @@ V. Exhibir la documentación comprobatoria de la sanidad y legal procedencia de 
 
 VI. Cumplir con la normatividad municipal, estatal y federal vigente aplicables en la materia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS MUNICIPALES Y/O DE APOYO
+DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS TEMPORALES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -10671,9 +10749,9 @@ V. Facilitar la inspección sanitaria, exhibiendo la documentación comprobatori
 
 VI. Cumplir con la normatividad municipal, estatal y federal vigente aplicables en la materia.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS TEMPORALES
+DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS MUNICIPALES Y/O DE APOYO
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -10707,7 +10785,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -14563,9 +14641,13 @@ PAVIMENTOS
 
 Corresponde a la Dirección la fijación del tipo de pavimento que debe ser colocado tanto en las nuevas áreas del Municipio, como en aquellas en que habiendo pavimento, sea éste renovado o mejorado.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2014)</small>
+
 ###### Artículo 927.
 
-Se admitirán los pavimentos de concreto hidráulico a base de cemento Pórtland y pavimentos de concreto asfáltico, cuando las condiciones económicas lo permitan. Asimismo se autorizarán como superficie de rodamiento los empedrados o los de carpeta asfáltica, previa autorización de la Dirección, así como para el caso de adoquinado.
+Se admitirán los pavimentos de concreto hidráulico a base de cemento pórtland y pavimentos de concreto asfáltico, cuando las condiciones técnicas lo requieran. Asimismo se autorizarán como superficie de rodamiento los empedrados o los de carpeta asfáltica, previa autorización de la Dirección, así como para el caso de adoquinado.
+
+La capa de rodamiento para el sistema vial primario y corredores urbanos será preferentemente de concreto hidráulico. Sin prejuicio de lo anterior, la Dirección podrá autorizar que se emplee otro tipo de capa, siempre y cuando el diseño de ésta garantice una vida útil mínima de 30 años. Entendiéndose por vialidades primarias y corredores urbanos, aquéllos que cumplan con los lineamientos considerados en el Programa Municipal de Desarrollo Urbano Sustentable de Puebla y las que se actualicen con base a las necesidades territoriales del Municipio.
 
 ###### Artículo 928.
 
@@ -17889,11 +17971,11 @@ IV. Regular las obras de construcción, conservación, restauración, adecuació
 
 V. Regular y especificar el contenido de el Programa de Desarrollo Urbano aplicables en la zona, para determinar adecuadamente los usos del suelo en la misma, señalándolos en las licencias correspondientes;
 
-VI. Regular conjuntamente con el Capítulo correspondiente de este Código Reglamentario, la colocación, fijación y diseño de anuncios y mobiliario urbano, así como su mantenimiento y conservación a fin de preservar la fisonomía e imagen urbana de la zona, preservándola de la contaminación visual, auditiva y ambiental;
-
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales (Unidad Operativa Municipal de Protección Civil), así como los organismos sociales y académicos competentes en la materia;
+
+VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales, así como los organismos sociales y académicos competentes en la materia;
 
 VIII. Normar la ubicación y prestación de los servicios urbanos y de equipamiento en la zona;
 
@@ -32665,7 +32747,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+II. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -33619,7 +33701,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
@@ -33921,7 +34003,7 @@ Como un estímulo para los luchadores, se constituye en el Municipio, el título
 
 ###### Artículo 2236.
 
-Para poder ostentar cualquier título, será necesario contar con licencia legalmente expedida por la Comisión, o bien por alguna otra Comisión o Consejo de Lucha Libre Municipal, en los términos establecidos por el presente Capítulo.
+Para poder ostentar cualquier título, será necesario contar con licencia legalmente expedida por la Comisión, o bien por alguna otra Comisión o Consejo de Lucha Libre Municipal, en los términos establecidos por el presente Capitulo.
 
 El Título de Campeón Estatal de Lucha Libre, se otorgará al que resulte vencedor de quien actualmente y de manera legal ostente un Campeonato, reconocido por las Comisiones o Consejos de Box y Lucha del Estado.
 
@@ -35958,3 +36040,15 @@ CUARTO.- Se derogan las disposiciones que se opongan a lo establecido en la pres
 P.O. 24 DE MARZO DE 2014.
 
 ÚNICO.- Las presentes Reformas y Adiciones al Código Reglamentario para el Municipio de Puebla, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 4 DE ABRIL DE 2014.
+
+ACUERDO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 281 Y SE ADICIONAN LOS ARTÍCULOS 281 TER; 281 QUÁTER Y 281 QUINQUIES, DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 4 DE ABRIL DE 2014.
+
+ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 927 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+ÚNICO.- La presente reforma y adición del artículo 927 del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
