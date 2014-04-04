@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2013-05-17"
+last_updated: "2014-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2014.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -427,7 +427,9 @@ En el caso del primer periodo del primer año de ejercicio, se elegirá adiciona
 
 La Mesa Directiva será electa por el Pleno, por el voto de la mitad más uno de los diputados integrantes de la Legislatura.
 
-En los periodos extraordinarios de sesiones, actuará la Mesa Directiva del periodo ordinario inmediato anterior.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2014)</small>
+
+En los periodos extraordinarios de sesiones, actuará la Mesa Directiva de la Diputación Permanente, fungiendo el primer vocal de la Diputación Permanente como segundo secretario de la misma.
 
 ###### Artículo 43.
 
@@ -2944,3 +2946,7 @@ Artículo segundo. Las diputadas y diputado (sic) integrantes de la actual Comis
 Artículo tercero. Todos los asuntos que se encuentren en trámite o en proceso ante la Comisión de Equidad de Género, se entenderán turnados a la Comisión para la Igualdad de Género.
 
 Artículo cuarto. Las referencias que en otros ordenamientos se hagan a la Comisión de Equidad de Género, se entenderán hechas a la Comisión para la Igualdad de Género.
+
+P.O. 4 DE ABRIL DE 2014.
+
+Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
