@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2014-03-22"
+last_updated: "2014-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -321,7 +321,7 @@ Salario es la retribución que deben pagar las instituciones públicas de gobier
 
 ###### ARTICULO 39.
 
-Las instituciones públicas de gobierno y los sindicatos, conjuntamente, en los períodos que estimen convenientes, revisarán los salarios y las prestaciones que disfrutarán los trabajadores,.(sic)
+Las instituciones públicas de gobierno y los sindicatos, conjuntamente, en los períodos que estimen convenientes, revisarán los salarios y las prestaciones que disfrutarán los trabajadores,.
 
 Los salarios nunca podrán ser inferiores al mínimo general y profesional, para el área económica donde se preste el servicio.
 
@@ -1577,9 +1577,15 @@ III.- La nulidad; y
 
 IV.- La acumulación.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 192.
 
-Cuando se promueva un incidente durante la celebración de una audiencia o diligencia, se substanciará y resolverá de plano, oyendo a las partes y se continuará el procedimiento de inmediato. Cuando se trate de nulidad, competencia y en los casos de acumulación, dentro de las veinticuatro horas siguientes, se señalará el día y hora para la audiencia incidental, en la que se resolverá la cuestión planteada.
+Cuando se promueva algún incidente durante la celebración de una audiencia o diligencia, se substanciará y resolverá de plano oyendo a las partes, y se continuará el procedimiento de inmediato.
+
+Tratándose de nulidad, competencia y, en los casos de acumulación, se dará vista de la cuestión incidental a las demás partes por un término de tres días, a efecto de que en el mismo ofrezcan pruebas y formulen sus alegatos. Una vez transcurrido ese término el Tribunal contará con tres días hábiles para resolver la cuestión incidental.
+
+El Tribunal Estatal de Conciliación y Arbitraje podrá desechar de plano los incidentes notoriamente improcedentes, sustentando las causas de tal determinación.
 
 ###### ARTICULO 193.
 
@@ -1651,7 +1657,9 @@ I.- Con el escrito de solicitud se ofrecerán las pruebas respectivas;
 
 II.- Con el escrito se dará vista por el término de tres días a la contra parte para que manifieste su defensa y ofrezca las pruebas conducentes; y
 
-III.- Dentro de los diez días siguientes a la presentación del escrito de revisión, se citará a una audiencia de pruebas y alegatos, determinándose las pruebas que se admitan, las que deberán desahogarse, procediendo luego de ello a dictar resolución.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+III. Transcurrido el término que señala la fracción anterior, el Tribunal contará con tres días hábiles para resolver el recurso.
 
 Si se declara procedente la revisión, se modificará el acto que la originó en el sentido que legalmente corresponda.
 
@@ -1713,7 +1721,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN JOSE RODRIGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIóN SE TRANSCRIBEN LOS ARTíCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE OCTUBRE DE 2010.
 
@@ -1752,6 +1760,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 22 DE MARZO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
