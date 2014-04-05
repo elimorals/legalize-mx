@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-04-01"
+last_updated: "2014-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -675,13 +675,13 @@ No estarán impedidos los ciudadanos a que se refiere la fracción II si se sepa
 
 Los Diputados propietarios no podrán ser reelectos para el período inmediato, ni aún como suplentes. Los Diputados suplentes podrán ser electos para el período inmediato como propietarios, siempre que no hubieran estado en ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 49.
 
-Los Diputados, desde el día de su elección hasta aquél en que concluyan su encargo, no pueden desempeñar, sin previa licencia del Congreso o de la Diputación Permanente, comisiones, cargos o empleos de los gobiernos federal, estatal o municipal por los que devenguen sueldo, en cuyo caso cesarán en sus funciones representativas mientras dure la licencia. Los Diputados suplentes en ejercicio de sus funciones están sujetos al mismo requisito. Se exceptúa de esta prohibición el empleo en el ramo de la educación pública.
+Los diputados, desde el día en que rindan protesta de su encargo hasta aquél en que concluya el mismo, no podrán desempeñar, sin previa licencia del Congreso o de la Diputación Permanente, comisiones, cargos o empleos en los gobiernos, federal, estatal o municipal por los que devenguen sueldo; en cuyo caso cesarán en sus funciones representativas mientras dure la licencia. Los diputados suplentes, en ejercicio de sus funciones, están sujetos al mismo requisito. Se exceptúa de esta prohibición el empleo en el ramo de la educación pública.
 
-La infracción de este artículo se sancionará con la pérdida del cargo de Diputado. La ley orgánica establecerá el procedimiento respectivo.
+La infracción de este artículo se sancionará con la pérdida del cargo de Diputado. La Ley Orgánica del Poder Legislativo del Estado de San Luis Potosí, establecerá el procedimiento respectivo.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2632,3 +2632,9 @@ DECRETO NÚMERO 551. POR EL QUE SE REFORMA EL ARTÍCULO 3°, DE LA CONSTITUCIÓN
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación en términos del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2014.
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento establecido en el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
