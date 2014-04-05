@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2013-08-10"
+last_updated: "2014-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ABRIL DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -2631,6 +2633,14 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ART. 411.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+Los ascendientes deben procurar el respeto y el acercamiento constante de los menores con el otro ascendiente, en consecuencia, cada uno de los ascendientes deberá evitar cualquier acto de alienación parental.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo, mediante la desaprobación o crítica tendiente a obtener la denigración exagerada y/o injustificada del otro progenitor para producir en el menor, rechazo, rencor, odio o desprecio hacia éste.
+
 ART. 412.- Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
 ART. 413.- La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto, en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las leyes respectivas.
@@ -2649,7 +2659,19 @@ Si viven separados se observará en su caso, lo dispuesto en los artículos 380 
 
 ART. 416.- En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y cuidado de los menores. En caso de desacuerdo, el juez de lo familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto por el artículo 94, del Código de Procedimientos Civiles para el Estado de Colima.
 
-En este supuesto, el menor quedará bajo los cuidados y atenciones de uno de ellos. El otro, estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y convivencia con aquél, conforme a las modalidades previstas en el convenio o resolución judicial.
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE PÁRRAFO ES SIMILAR A LA SEGUNDA PARTE DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ABRIL DE 2014)</small>
+
+En caso de desacuerdo, el Juez de lo Familiar, con base al interés superior del menor resolverá lo conducente oyendo a los menores y al Ministerio Público, sin perjuicio de lo previsto en el artículo 94 del Código de Procedimientos Civiles para el Estado de Colima y con base en el resultado de las pruebas periciales que oficiosamente habrán de practicárseles a ambos en materia de trabajo social y de psicología familiar, así como cualquiera otra probanza que le alleguen las partes y las que estime pertinente para resolver lo más favorable a los menores.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el o los menores, conforme a las modalidades previstas en el convenio o resolución judicial.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 416 BIS.- A efecto de que el menor sea adecuadamente escuchado independientemente de su edad, deberá contar con un Asistente de Menores, designado para tal efecto por el Juez que conozca del asunto, pudiendo auxiliarse en los Sistemas para el Desarrollo Integral de la Familia, Estatal o Municipales. Dicho asistente deberá ser un profesional en psicología, que asista al menor para facilitar su comunicación libre y espontánea, valorar su aptitud para comprender los hechos, y darle protección psico-emocional en las sesiones donde éste sea oído por el Juez en privado, sin la presencia de los progenitores.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
@@ -3205,19 +3227,25 @@ II.- El mayor de edad con algún tipo de discapacidad intelectual, aunque pudier
 
 III.- (DEROGADA, P.O. 26 DE MAYO DE 2007)
 
-IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes, siempre que esto conlleve a que no puedan gobernarse y obligarse por sí mismos.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
 
 ART. 451.- Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionen en el artículo relativo al capítulo I de (sic) título décimo de este libro.
 
-ART. 452.- La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 452.- La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima, salvo el caso de la tutela cautelar cuyo desempeño es voluntario.
 
 ART. 453.- El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
 
 ART. 454.- La tutela se desempeñará por el tutor con la intervención del curador, del juez Civil o Mixto de Primera Instancia y del consejo local de tutelas, en los términos establecidos en este Código.
 
-ART. 455.- Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 455.- Ningún incapaz puede tener al mismo tiempo más de un tutor y un curador definitivos; salvo lo que hubiere dispuesto el otorgante tratándose de la tutela cautelar.
 
 ART. 456.- El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapaces. Si éstos son hermanos, o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean más de tres.
 
@@ -3225,13 +3253,19 @@ ART. 457.- Cuando los intereses de alguno o algunos de los incapaces, sujetos a 
 
 ART. 458.- Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta o dentro del cuarto grado de la colateral.
 
-ART. 459.- No pueden ser nombrados tutores o curadores las personas que desempeñen el Juzgado Civil o Mixto de Primera Instancia y las que integren los consejos locales de tutela, ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
-ART. 460.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al juez respectivo, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
+ART. 459.- No pueden ser nombrados tutores o curadores las personas que desempeñen algún cargo en el Juzgado Civil o Mixto de Primera Instancia y las que integren los consejos locales de tutela, ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 460.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez respectivo, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de ocho a diez días de salario mínimo vigente.
 
 Los oficiales del Registro Civil, las autoridades administrativas y las judiciales, tienen obligación de dar aviso a los jueces correspondientes de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
-ART. 461.- La tutela es testamentaria, legítima o dativa.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 461.- La tutela es cautelar, testamentaria, legítima o dativa.
 
 ART. 462.- Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
 
@@ -3255,7 +3289,79 @@ ART. 468.- El juez del domicilio del incapacitado, y si no lo hubiere, el Juez d
 
 ART. 469.- El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 2014)</small>
+
 ## TITULO NOVENO. De la tutela
+
+### CAPITULO I BIS. De la tutela cautelar
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 469 BIS 1.- Toda persona en pleno ejercicio de sus derechos puede nombrar tutor o tutores, y a sus sustitutos en previsión de ser declarado judicialmente en estado de interdicción, a efecto de que se encarguen de su persona y patrimonio.
+
+El nombramiento hecho excluye de su ejercicio a las personas a quienes pudiera corresponderles su desempeño con arreglo a este código.
+
+A la persona que nombre tutor se le denominará designante u otorgante; al nombrado, tutor cautelar.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 469 BIS 2.- Puede desempeñar el cargo de tutor cautelar cualquier persona mayor de edad con capacidad jurídica que no tenga algún impedimento de los señalados en el artículo 503 de este ordenamiento. Las fundaciones o asociaciones que se encuentren constituidas para éste efecto también podrán desempeñar las funciones del tutor cautelar por designación del otorgante.
+
+Si se nombran varios tutores desempeñarán su cargo de acuerdo a las obligaciones y facultades que les hayan sido conferidas.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 469 BIS 3.- Puede hacerse la designación de dos o más tutores sustitutos en caso de muerte, incapacidad, excusa, remoción, no aceptación, relevo del cargo o cualquier otra circunstancia que impida ejercer el cargo al tutor cautelar.
+
+En caso de nombramiento de tutores sustitutos, deberá establecerse una prelación u orden para el ejercicio de la tutela, de no hacerse así los tutores serán elegidos y ejercerán la tutela en el orden de su nombramiento.
+
+En caso de que no hubiere persona que pudiera desempeñar el cargo de tutor cautelar, el incapaz quedará sujeto a las reglas generales de la tutela.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 469 BIS 4.- El nombramiento mencionado en el artículo anterior podrá realizarse a opción del interesado ante notario público haciéndose constar en escritura pública, o bien ante un Juez de lo Familiar mediante un procedimiento de jurisdicción voluntaria, procurando en ambos casos la aceptación expresa del tutor o tutores cautelares.
+
+El notario o el juez, cuando lo estimen necesario y atendiendo a las circunstancias del caso, podrán requerir al designante para que acredite con constancias expedidas por al menos dos médicos, preferentemente de instituciones oficiales de salud, que se encuentra en pleno uso de sus facultades al momento de realizar el presente nombramiento.
+
+El notario público o el Juez de lo Familiar en su caso, darán aviso de la designación del tutor cautelar a la Secretaría General de Gobierno dentro de los siguientes cinco días posteriores a su otorgamiento, mediante la remisión de una copia autorizada del instrumento que contenga la designación.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 469 BIS 5.- El contenido del documento de la tutela cautelar es modificable y revocable por el otorgante en todo momento, debiendo revestir en ambos casos la misma formalidad exigida para su otorgamiento.
+
+Una vez que el otorgante haya sido declarado en estado de interdicción, el documento podrá ser modificado o revocado, a solicitud del propio tutor cautelar, del curador, del Ministerio Público o cualquier otro interesado, siempre que exista causa grave en perjuicio del incapaz, que ponga en peligro su patrimonio o su integridad personal.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 469 BIS 6.- El instrumento donde se haga constar la designación del tutor cautelar contendrá expresamente las facultades y obligaciones a las que habrá de sujetarse el tutor o los tutores para el cuidado de la persona y de su patrimonio, debiéndose precisar al menos las siguientes:
+
+I. Las relativas a la protección de la persona de acuerdo a sus particulares condiciones de vida, su custodia, sostenimiento y las relativas a los cuidados de específicos de salud.
+
+II. La forma de administración de sus bienes, otorgando las facultades requeridas para la explotación o la sola conservación del patrimonio.
+
+III. Si el tutor habrá o no de dar caución para la administración del patrimonio del incapaz. Solo se podrá eximir de dar caución cuando expresamente así lo haya dispuesto el designante.
+
+IV. La forma de rendir cuentas, precisando las medidas de protección y los periodos para su rendimiento que será al menos una vez por año.
+
+El cumplimiento de esta obligación no puede ser dispensado y toda estipulación en contrario será nula.
+
+El Juez que conozca del asunto, a petición del tutor o del curador, y en caso de no existir éstos, los sustitutos nombrados por el Juez tomando en cuenta la opinión del Consejo de Tutelas, podrá modificar las reglas establecidas si las circunstancias o condiciones originalmente tomadas en cuenta por la persona capaz en su designación, han variado al grado que perjudiquen la persona o patrimonio del tutelado.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 469 BIS 7.- El tutor tiene derecho a recibir una retribución por el ejercicio de la tutela cautelar que desempeñe en beneficio del incapaz, quien deberá establecer en el documento respectivo los porcentajes o cantidades líquidas, así como la periodicidad y forma en que deba recibirlas el tutor cautelar.
+
+Esta retribución podrá ser igual o superior a la fijada en el artículo 586 de este código, la cual será observada además en caso de que el incapaz no hubiere otorgado disposición al respecto.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 469 BIS 8.- En todo aquello no previsto en el contenido de la tutela cautelar, se aplicarán supletoriamente las disposiciones de la tutela en general y el contrato de mandato atendiendo a la naturaleza y fines perseguidos por la tutela cautelar.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 469 BIS 9.- El Estado garantizará el derecho a la libre determinación de la persona, por lo que su actuación se limitará a vigilar el cumplimiento de las disposiciones dictadas por el otorgante y, en caso de incumplimiento o negligencias graves, ordenará la remoción del tutor cautelar designado.
+
+Siempre que el otorgante hubiere dejado disposición expresa al respecto, no serán aplicables a la tutela cautelar los artículos 549, 554, 561, 566, 568, 569, 573 y 575 de éste código, ni los artículos 914 al 921 del Código de Procedimientos Civiles y todas aquellas que se contrapongan a la esencia y fines de la tutela cautelar.
 
 ### CAPITULO II. De la tutela testamentaria
 
@@ -3287,7 +3393,9 @@ ART. 481.- El adoptante que ejerza la patria potestad tiene derecho de nombrar t
 
 ART. 482.- Ha lugar a tutela legítima:
 
-I.- Cuando no hay quien ejerza la patria potestad, ni tutor testamentario;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+I.- Cuando no hay quien ejerza la patria potestad, ni tutor cautelar o testamentario;
 
 II.- Cuando deba nombrarse tutor por causa de divorcio.
 
@@ -3341,7 +3449,9 @@ ART. 494.- Los responsables de casa de asistencia, ya sean públicas o privadas,
 
 ART. 495.- La tutela dativa tiene lugar:
 
-I.- Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponde la tutela legítima;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+I.- Cuando no hay tutor testamentario o cautelar ni persona a quien conforme a la ley corresponde la tutela legítima;
 
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 483.
 
@@ -3407,11 +3517,15 @@ XIII.- Los demás a quienes lo prohiba la ley.
 
 ART. 504.- Serán separados de la tutela:
 
-I.- Los que sin haber caucionado su manejo conforme a la ley ejerzan la administración de la tutela;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+I.- Los que sin haber caucionado su manejo conforme a la ley ejerzan la administración de la tutela; salvo que se hubiere liberado de modo expreso al tutor cautelar de dicha obligación;
 
 II.- Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
 
-III.- Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 590;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+III.- Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 590 o aquél que se hubiere fijado en la tutela cautelar;
 
 IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
 
@@ -3481,7 +3595,9 @@ La garantía prendaria que preste el tutor se constituirá depositando las cosas
 
 ART. 520.- Están exceptuados de la obligación de dar garantía:
 
-I.- Los tutores testamentarios, cuando expresamente los haya relevado de esta obligación el testador;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+I.- Los tutores testamentarios y cautelares, cuando expresamente se les haya relevado de esta obligación;
 
 II.- El tutor que no administre bienes;
 
@@ -3547,7 +3663,13 @@ La administración de los bienes que el pupilo ha adquirido con su trabajo le co
 
 V.- A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
 
-VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+VII.- A dar cabal cumplimiento en todos sus términos a las disposiciones dictadas para el desempeño de la tutela cautelar.
 
 ART. 538.- Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
 
@@ -3613,7 +3735,9 @@ ART. 566.- Se requiere licencia judicial para que el tutor pueda transigir o com
 
 ART. 567.- El nombramiento de árbitros hechos por el tutor, deberá sujetarse a la aprobación del juez.
 
-ART. 568.- Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales, cuya cuantía exceda de mil pesos, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 568.- Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales, cuya cuantía exceda de ciento sesenta días de salario mínimo vigente, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -3657,9 +3781,15 @@ ART. 583.- Cuando la tutela recaiga en cualquiera otra persona, se ejercerá con
 
 ART. 584.- En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado, o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado o del Consejo Local de Tutelas.
 
-ART. 585.- El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento, y para los tutores legítimos y dativos la fijará el juez.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 585.- El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y para los tutores legítimos y dativos la fijará el Juez, y en el caso de la tutela cautelar, la que fije el propio designante.
 
 ART. 586.- En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+Tratándose de la tutela cautelar la retribución será designada por el propio otorgante, la cual podrá ser igual o superior a la señalada en el párrafo anterior
 
 ART. 587.- Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el juez, con audiencia del curador.
 
@@ -3670,6 +3800,10 @@ ART. 589.- El tutor no tendrá derecho a remuneración alguna, y restituirá lo 
 ### CAPITULO XI. De las cuentas de la tutela
 
 ART. 590.- El tutor está obligado a rendir al juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+Tratándose de la tutela cautelar la rendición de cuentas se sujetará a los dispuesto en la fracción IV del artículo 469 BIS 6.
 
 ART. 591.- También tiene obligación de rendir cuenta, cuando por causas graves, que calificará el juez, la exijan el curador, el Consejo Local de Tutelas o el mismo menor que haya cumplido dieciséis años de edad.
 
@@ -3737,7 +3871,9 @@ ART. 617.- Si la tutela hubiera fenecido durante la minoridad, el menor podrá e
 
 ### CAPITULO XIV. Del curador
 
-ART. 618.- Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 492 y 500.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 618.- Todos los individuos sujetos a tutela, ya sea testamentaria, legítima, dativa o cautelar, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 492 y 500.
 
 ART. 619.- En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se haya impedido.
 
@@ -3837,6 +3973,8 @@ ART. 644.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
 ART. 645.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
+## TITULO DECIMO. De la emancipación y de la mayor edad
+
 ### CAPITULO II. De la mayor edad
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
@@ -3844,8 +3982,6 @@ ART. 645.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 ART. 646.- La mayor edad comienza a los dieciocho años cumplidos.
 
 ART. 647.- El mayor de edad dispone libremente de su persona y de de (sic) sus bienes.
-
-## TITULO DECIMO. De la emancipación y de la mayor edad
 
 ### CAPITULO I. De las medidas provisionales en caso de ausencia
 
@@ -3913,6 +4049,8 @@ ART. 667.- Los edictos se publicarán por dos meses, con intervalo de quince dí
 
 ART. 668.- El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
 
+## TITULO UNDÉCIMO. De los ausentes e ignorados
+
 ### CAPITULO II. De la declaración de ausencia
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
@@ -3944,8 +4082,6 @@ ART. 676.- Si hubiere algunas noticias u oposición el juez no declarará la aus
 ART. 677.- La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules, como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
 
 ART. 678.- El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
-
-## TITULO UNDÉCIMO. De los ausentes e ignorados
 
 ### CAPITULO III. De los efectos de la declaración de ausencia
 
@@ -4219,6 +4355,8 @@ ART. 745.- El Ministerio Público será oído en la extinción y en la reducció
 
 ART. 746.- Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasan a sus herederos, si aquél ha muerto.
 
+## TITULO DUODECIMO. Del patrimonio de la familia
+
 ### CAPITULO I. De los bienes inmuebles
 
 ART. 750.- Son bienes inmuebles:
@@ -4251,7 +4389,17 @@ XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y tele
 
 ART. 751.- Los bienes muebles, por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles cuando el mismo dueño los separa del edificio, salvo el caso de que en el valor de éste se haya computado el de aquéllos para constituir algún derecho real a favor de un tercero.
 
-## TITULO DUODECIMO. Del patrimonio de la familia
+# LIBRO SEGUNDO. DE LOS BIENES
+
+## TITULO PRIMERO. Disposiciones preliminares
+
+ART. 747.- Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio.
+
+ART. 748.- Las cosas pueden estar fuera del comercio por su naturaleza o por disposición de la ley.
+
+ART. 749.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley, las que ella declara irreductibles a propiedad particular.
+
+## TITULO SEGUNDO. Clasificación de los bienes
 
 ### CAPITULO II. De los bienes muebles
 
@@ -4282,18 +4430,6 @@ ART. 762.- Cuando por la redacción de un testamento o de un convenio se descubr
 ART. 763.- Los bienes muebles son fungibles o no fungibles. Pertenecen a la primera clase, los que pueden ser reemplazados por otros de la misma especie, calidad y cantidad.
 
 Los no fungibles son los que no pueden ser sustituidos por otros de la misma especie, calidad y cantidad.
-
-# LIBRO SEGUNDO. DE LOS BIENES
-
-## TITULO PRIMERO. Disposiciones preliminares
-
-ART. 747.- Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio.
-
-ART. 748.- Las cosas pueden estar fuera del comercio por su naturaleza o por disposición de la ley.
-
-ART. 749.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley, las que ella declara irreductibles a propiedad particular.
-
-## TITULO SEGUNDO. Clasificación de los bienes
 
 ### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
 
@@ -4481,6 +4617,8 @@ VII.- Por expropiación por causa de utilidad pública.
 
 ART. 829.- Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando no se ejercen por el tiempo que baste para que queden prescritos.
 
+## TITULO TERCERO. De la posesión
+
 ### CAPITULO I. Disposiciones generales
 
 ART. 830.- El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que fijen las leyes.
@@ -4529,7 +4667,7 @@ ART. 849.- La distancia de que habla el artículo anterior se mide desde la lín
 
 ART. 850.- El propietario de un edificio está obligado a construir sus tejados y azoteas de tal manera que las aguas pluviales no caigan sobre el suelo o edificio vecino.
 
-## TITULO TERCERO. De la posesión
+## TITULO CUARTO. De la propiedad
 
 ### CAPITULO II. De la apropiación de los animales
 
@@ -4574,8 +4712,6 @@ ART. 869.- No se entiende que las abejas han abandonado la colmena, cuando se ha
 ART. 870.- Los animales feroces que se escaparen del encierro en que los tengan sus dueños, podrán ser destruidos o capturados por cualquiera. Pero los dueños pueden recuperarlos si indemnizan los daños y perjuicios que hubieren ocasionado.
 
 ART. 871.- La apropiación de los animales domésticos se rige por las disposiciones contenidas en el título de los bienes mostrencos.
-
-## TITULO CUARTO. De la propiedad
 
 ### CAPITULO III. De los tesoros
 
@@ -4773,44 +4909,6 @@ ART. 983.- Los derechos y obligaciones del usufructuario y del propietario se ar
 
 ART. 984.- Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituido sobre bienes de esta clase.
 
-### CAPITULO II. De los derechos del usufructuario
-
-ART. 985.- El usufructuario tiene derecho de ejercitar todas las acciones y excepciones reales, personales o posesorias, y de ser considerado como parte en todo litigio, aunque sea seguido por el propietario, siempre que en él se interese el usufructo.
-
-ART. 986.- El usufructuario tiene derecho de percibir todos los frutos, sean naturales, industriales o civiles.
-
-ART. 987.- Los frutos naturales o industriales pendientes al tiempo de comenzar el usufructo, pertenecerán al usufructuario. Los pendientes al tiempo de extinguirse el usufructo pertenecen al propietario. Ni éste ni el usufructuario tienen que hacerse abono alguno por razón de labores, semillas u otros gastos semejantes. Lo dispuesto en este artículo no perjudica a los aparceros o arrendatarios que tengan derecho de percibir alguna porción de frutos, al tiempo de comenzar o extinguirse el usufructo.
-
-ART. 988.- Los frutos civiles pertenecen al usufructuario en proporción del tiempo que dure el usufructo, aún cuando no estén cobrados.
-
-ART. 989.- Si el usufructo comprendiera cosa (sic) que se deteriorasen por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino, y no está obligado a restituirlas, al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación de indemnizar al propietario del deterioro que hubiere sufrido por dolo o negligencia.
-
-ART. 990.- Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas; pero está obligado a restituirlas al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubieren dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
-
-ART. 991.- Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquéllos; pero para que el capital se redima anticipadamente, para que se haga novación de la obligación primitiva, para que se sustituya la persona del deudor, si no se trata de derechos garantizados con gravamen real, así como para que el capital redimido vuelva a imponerse, se necesita el consentimiento del usufructuario.
-
-> <small>(F. DE E., P.O. 2 DE ABRIL DE 1955)</small>
-
-ART. 992.- El usufructuario de un monte disfruta de todos los productos que provengan de éste, según su naturaleza.
-
-ART. 993.- Si el monte fuera talar o de maderas de construcción, podrá el usufructuario hacer en él las talas o cortes ordinarios que haría el dueño, acomodándose en el modo, porción o época a las leyes espaciales o a las costumbres del lugar.
-
-ART. 994.- En los demás casos, el usufructuario no podrá cortar árboles por el pie, como no sea para reponer o reparar algunas de las cosas usufructuadas, y en este caso acreditará previamente al propietario la necesidad de la obra.
-
-ART. 995.- El usufructuario podrá utilizar los viveros, sin perjuicio de su conservación y según las costumbres del lugar y lo dispuesto en las leyes respectivas.
-
-ART. 996.- Corresponde al usufructuario el fruto de los aumentos que reciban las cosas por accesión y el goce de las servidumbres que tengan a su favor.
-
-ART. 997.- No corresponden al usufructuario los productos de las minas que se exploten en el terreno dado en usufructo, a no ser que expresamente se le concedan en el título constitutivo del usufructo o que éste sea universal; pero debe indemnizarse al usufructuario de los daños y perjuicios que se le originen por la interrupción del usufructo a consecuencia de las obras que se practiquen para el laboreo de las minas.
-
-ART. 998.- El usufructuario no puede gozar por sí mismo de la cosa usufructuada. Puede enajenar, arrendar y gravar su derecho de usufructo, pero todos los contratos que celebre como usufructuario terminarán con el usufructo.
-
-ART. 999.- El usufructuario puede hacer mejoras útiles y puramente voluntarias; pero no tiene derecho de reclamar su pago, aunque sí puede retirarlas, siempre que sea posible hacerlo sin detrimento de la cosa en que esté constituido el usufructo.
-
-ART. 1000.- El propietario de bienes en que otro tenga el usufructo, puede enajenarlos, con la condición de que se conserve el usufructo.
-
-ART. 1001.- El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 969, en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
-
 ###### Art. 947.
 
 Cuando los diferentes pisos, departamentos, viviendas, casas o locales de un inmueble, construídos en forma vertical, horizontal o mixto, susceptibles de aprovechamientos independiente (sic) por tener salida propia a un elemento, común de aquel o a la vía pública, pertenecieren a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su piso, departamento, vivienda, casa o local y, además un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute.
@@ -4898,6 +4996,44 @@ ART. 974.- La división de bienes inmuebles es nula, si no se hace con las misma
 ART. 975.- Son aplicables a la división entre partícipes las reglas concernientes a la división de herencias.
 
 ## TITULO QUINTO. Del usufructo, del uso y de la habitación
+
+### CAPITULO II. De los derechos del usufructuario
+
+ART. 985.- El usufructuario tiene derecho de ejercitar todas las acciones y excepciones reales, personales o posesorias, y de ser considerado como parte en todo litigio, aunque sea seguido por el propietario, siempre que en él se interese el usufructo.
+
+ART. 986.- El usufructuario tiene derecho de percibir todos los frutos, sean naturales, industriales o civiles.
+
+ART. 987.- Los frutos naturales o industriales pendientes al tiempo de comenzar el usufructo, pertenecerán al usufructuario. Los pendientes al tiempo de extinguirse el usufructo pertenecen al propietario. Ni éste ni el usufructuario tienen que hacerse abono alguno por razón de labores, semillas u otros gastos semejantes. Lo dispuesto en este artículo no perjudica a los aparceros o arrendatarios que tengan derecho de percibir alguna porción de frutos, al tiempo de comenzar o extinguirse el usufructo.
+
+ART. 988.- Los frutos civiles pertenecen al usufructuario en proporción del tiempo que dure el usufructo, aún cuando no estén cobrados.
+
+ART. 989.- Si el usufructo comprendiera cosa (sic) que se deteriorasen por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino, y no está obligado a restituirlas, al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación de indemnizar al propietario del deterioro que hubiere sufrido por dolo o negligencia.
+
+ART. 990.- Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas; pero está obligado a restituirlas al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubieren dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
+
+ART. 991.- Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquéllos; pero para que el capital se redima anticipadamente, para que se haga novación de la obligación primitiva, para que se sustituya la persona del deudor, si no se trata de derechos garantizados con gravamen real, así como para que el capital redimido vuelva a imponerse, se necesita el consentimiento del usufructuario.
+
+> <small>(F. DE E., P.O. 2 DE ABRIL DE 1955)</small>
+
+ART. 992.- El usufructuario de un monte disfruta de todos los productos que provengan de éste, según su naturaleza.
+
+ART. 993.- Si el monte fuera talar o de maderas de construcción, podrá el usufructuario hacer en él las talas o cortes ordinarios que haría el dueño, acomodándose en el modo, porción o época a las leyes espaciales o a las costumbres del lugar.
+
+ART. 994.- En los demás casos, el usufructuario no podrá cortar árboles por el pie, como no sea para reponer o reparar algunas de las cosas usufructuadas, y en este caso acreditará previamente al propietario la necesidad de la obra.
+
+ART. 995.- El usufructuario podrá utilizar los viveros, sin perjuicio de su conservación y según las costumbres del lugar y lo dispuesto en las leyes respectivas.
+
+ART. 996.- Corresponde al usufructuario el fruto de los aumentos que reciban las cosas por accesión y el goce de las servidumbres que tengan a su favor.
+
+ART. 997.- No corresponden al usufructuario los productos de las minas que se exploten en el terreno dado en usufructo, a no ser que expresamente se le concedan en el título constitutivo del usufructo o que éste sea universal; pero debe indemnizarse al usufructuario de los daños y perjuicios que se le originen por la interrupción del usufructo a consecuencia de las obras que se practiquen para el laboreo de las minas.
+
+ART. 998.- El usufructuario no puede gozar por sí mismo de la cosa usufructuada. Puede enajenar, arrendar y gravar su derecho de usufructo, pero todos los contratos que celebre como usufructuario terminarán con el usufructo.
+
+ART. 999.- El usufructuario puede hacer mejoras útiles y puramente voluntarias; pero no tiene derecho de reclamar su pago, aunque sí puede retirarlas, siempre que sea posible hacerlo sin detrimento de la cosa en que esté constituido el usufructo.
+
+ART. 1000.- El propietario de bienes en que otro tenga el usufructo, puede enajenarlos, con la condición de que se conserve el usufructo.
+
+ART. 1001.- El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 969, en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
 
 ### CAPITULO III. De las obligaciones del usufructuario
 
@@ -5061,6 +5197,8 @@ ART. 1062.- Las servidumbres son indivisibles. Si el predio sirviente se divide 
 
 ART. 1063.- Las servidumbres traen su origen de la voluntad del hombre o de la ley; las primeras se llaman voluntarias y las segundas legales.
 
+## TITULO SEXTO. De las servidumbres
+
 ### CAPITULO II. De las servidumbres legales
 
 ART. 1064.- Servidumbre legal es la establecida por la ley, teniendo en cuenta la situación de los predios y en vista de la utilidad pública y privada conjuntamente.
@@ -5068,8 +5206,6 @@ ART. 1064.- Servidumbre legal es la establecida por la ley, teniendo en cuenta l
 ART. 1065.- Es aplicable a las servidumbres legales lo dispuesto en los artículos del 1,115 al 1,123, inclusive.
 
 ART. 1066.- Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales y, en su defecto, por las disposiciones de este título.
-
-## TITULO SEXTO. De las servidumbres
 
 ### CAPITULO III. De la servidumbre legal de desagüe
 
@@ -5283,6 +5419,8 @@ ART. 1145.- El que prescriba puede completar el término necesario para su presc
 
 ART. 1146.- Las disposiciones de este título, relativas al tiempo y demás requisitos necesarios para la prescripción, sólo dejarán de observarse en los casos en que la ley prevenga expresamente otra cosa.
 
+## TITULO SEPTIMO. De la prescripción
+
 ### CAPITULO II. De la prescripción positiva
 
 ART. 1147.- La posesión necesaria para prescribir debe ser:
@@ -5316,8 +5454,6 @@ ART. 1151.- La posesión adquirida por medio de un delito se tendrá en cuenta p
 ART. 1152.- El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
 
 ART. 1153.- La sentencia ejecutoria que declare procedente la acción de prescripción se inscribirá en el Registro Público y servirá de título de propiedad al poseedor.
-
-## TITULO SEPTIMO. De la prescripción
 
 ### CAPITULO III. De la prescripción negativa
 
@@ -5441,28 +5577,6 @@ ART. 1199.- Si un testamento se pierde por un evento ignorado por el testador, o
 
 ART. 1200.- La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
 
-### CAPITULO II. De la capacidad para testar
-
-ART. 1201.- Pueden testar todos aquellos a quienes la ley no prohibe expresamente el ejercicio de ese derecho.
-
-ART. 1202.- Están incapacitados para testar:
-
-I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
-
-II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
-
-ART. 1203.- Es válido el testamento hecho por un demente en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones siguientes.
-
-ART. 1204.- Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y, en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar.
-
-ART. 1205.- Se hará constar en acta formal el resultado del reconocimiento.
-
-ART. 1206.- Si éste fuere favorable, se procederá desde luego a la formación de testamento ante notario público, con todas las solemnidades que se requieren para los testamentos públicos abiertos.
-
-ART. 1207.- Firmarán el acta, además del notario y de los testigos, el juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio, y sin este requisito y su constancia, será nulo el testamento.
-
-ART. 1208.- Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
-
 # LIBRO TERCERO. DE LAS SUCESIONES
 
 ## TITULO PRIMERO. Disposiciones preliminares
@@ -5496,6 +5610,28 @@ ART. 1189.- Si dos o más coherederos quisieren hacer uso del derecho del tanto,
 ART. 1190.- El derecho concedido en el artículo 1,188 cesa si la enajenación se hace a un coheredero.
 
 ## TITULO SEGUNDO. De la sucesión por testamento
+
+### CAPITULO II. De la capacidad para testar
+
+ART. 1201.- Pueden testar todos aquellos a quienes la ley no prohibe expresamente el ejercicio de ese derecho.
+
+ART. 1202.- Están incapacitados para testar:
+
+I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
+
+II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
+
+ART. 1203.- Es válido el testamento hecho por un demente en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones siguientes.
+
+ART. 1204.- Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y, en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar.
+
+ART. 1205.- Se hará constar en acta formal el resultado del reconocimiento.
+
+ART. 1206.- Si éste fuere favorable, se procederá desde luego a la formación de testamento ante notario público, con todas las solemnidades que se requieren para los testamentos públicos abiertos.
+
+ART. 1207.- Firmarán el acta, además del notario y de los testigos, el juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio, y sin este requisito y su constancia, será nulo el testamento.
+
+ART. 1208.- Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
 
 ### CAPITULO III. De la capacidad para heredar
 
@@ -6051,6 +6187,8 @@ ART. 1405.- Lo dispuesto en el artículo que precede se observará también por 
 
 ART. 1406.- Si los interesados están ausentes o son desconocidos, la noticia se dará al juez en cualquiera de las vías de comunicación antes referidas.
 
+## TITULO TERCERO. De la forma de los testamentos
+
 ### CAPITULO II. Del testamento público abierto
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
@@ -6094,8 +6232,6 @@ En este caso el intérprete podrá intervenir, además, como testigo de conocimi
 ART. 1415.- Las formalidades expresadas en este Capítulo se practicarán en un solo acto que comenzará con la lectura del testamento y el notario dará fe de haberse llenado aquellas.
 
 ART. 1416.- Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
-
-## TITULO TERCERO. De la forma de los testamentos
 
 ### CAPITULO III. Testamento público cerrado
 
@@ -6339,6 +6475,8 @@ ART. 1496.- Los parientes que se hallaren en el mismo grado, heredarán por part
 
 ART. 1497.- Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el capítulo I, título VI, libro primero.
 
+## TITULO CUARTO. De la sucesión legítima
+
 ### CAPITULO II. De la sucesión de los descendientes
 
 ART. 1498.- Si a la muerte de los padres quedaren sólo hijos, la herencia se dividirá entre todos, por partes iguales.
@@ -6360,8 +6498,6 @@ ART. 1504.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 ART. 1504 BIS.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 ART. 1505.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
-
-## TITULO CUARTO. De la sucesión legítima
 
 ### CAPITULO III. De la sucesión de los ascendientes
 
@@ -6475,6 +6611,8 @@ ART. 1538.- Para cualesquiera de las diligencias que se practiquen conforme a lo
 
 ART. 1539.- La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; mas los acreedores podrán ser pagados por mandato judicial.
 
+## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
+
 ### CAPITULO II. De la apertura y transmisión de la herencia
 
 ART. 1540.- La sucesión se abre en el momento en que muere el autor de la herencia y cuando se declara la presunción de muerte de un ausente.
@@ -6484,8 +6622,6 @@ ART. 1541.- No habiendo albacea nombrado, cada uno de los herederos puede, si no
 ART. 1542.- Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos tienen derecho a pedir su remoción.
 
 ART. 1543.- El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
-
-## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
 
 ### CAPITULO III. De la aceptación y de la repudiación de la herencia
 
@@ -7221,6 +7357,14 @@ ART. 1749.- Los contratos que no están especialmente reglamentados en este Cód
 
 ART. 1750.- Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se oponga a la naturaleza de éste o a disposiciones especiales de la ley sobre los mismos.
 
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+De las obligaciones en general
+
+## TITULO PRIMERO. Fuentes de las obligaciones
+
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
 ART. 1751.- El hecho de ofrecer al público objetos a determinado precio, obliga al dueño a sostener su ofrecimiento.
@@ -7276,14 +7420,6 @@ ART. 1770.- La obligación del que emite el título al portador no desaparece, a
 ART. 1771.- El suscriptor del título al portador no puede oponer más excepciones que las que se refieren a la nulidad del mismo título, las que se deriven de su texto o las que tengan en contra del portador que lo presente.
 
 ART. 1772.- La persona que ha sido desposeída injustamente de títulos al portador, sólo con orden judicial puede impedir que se paguen al detentador que los presente al cobro.
-
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-De las obligaciones en general
-
-## TITULO PRIMERO. Fuentes de las obligaciones
 
 ### CAPITULO III. Del enriquecimiento ilegítimo
 
@@ -7521,6 +7657,8 @@ ART. 1842.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo 
 
 ART. 1843.- Si la rescisión del contrato dependiere de un tercero y ése fuera dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 
+## TITULO SEGUNDO. Modalidades de las obligaciones
+
 ### CAPITULO II. De las obligaciones a plazo
 
 ART. 1844.- Es obligación a plazo aquella para cuyo cumplimiento se ha señalado un día cierto.
@@ -7546,8 +7684,6 @@ II.- Cuando no otorgue al acreedor las garantías a que estuviere comprometido.
 III.- Cuando por actos propios hubiese disminuido aquellas garantías después de establecidas, y cuando por caso fortuito desaparecieren, a menos que sean inmediatamente substituidas por otras igualmente seguras.
 
 ART. 1851.- Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en él se designan.
-
-## TITULO SEGUNDO. Modalidades de las obligaciones
 
 ### CAPITULO III. De las obligaciones conjuntivas y alternativas
 
@@ -7813,6 +7949,8 @@ ART. 1940.- El cesionario debe, por su parte, satisfacer al cedente todo lo que 
 
 ART. 1941.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
 
+## TITULO TERCERO. De la transmisión de las obligaciones
+
 ### CAPITULO II. De la cesión de deudas
 
 ART. 1942.- Para que haya sustitución de deudor es necesario que el acreedor consienta expresa o tácitamente.
@@ -7828,8 +7966,6 @@ ART. 1946.- El deudor sustituto queda obligado en los términos en que lo estaba
 ART. 1947.- El deudor sustituto puede oponer al acreedor las excepciones que se originen de la naturaleza de la deuda y las que le sean personales, pero no puede oponer las que sean personales del deudor primitivo.
 
 ART. 1948.- Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios, pero con la reserva de derechos que pertenecen a tercero de buena fe.
-
-## TITULO TERCERO. De la transmisión de las obligaciones
 
 ### CAPITULO III. De la subrogación
 
@@ -7927,6 +8063,12 @@ ART. 1986.- La obligación queda extinguida cuando el acreedor recibe en pago un
 
 ART. 1987.- Si el acreedor sufre la evicción de la cosa que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
 
+## TITULO CUARTO. Efecto de las obligaciones
+
+I.- Efectos de las obligaciones entre las partes
+
+Cumplimiento de las obligaciones
+
 ### CAPITULO II. Del ofrecimiento del pago y de la consignación
 
 ART. 1988.- El ofrecimiento seguido de la consignación hace veces de pago, si reúne todos los requisitos que para éste exige la ley.
@@ -7944,12 +8086,6 @@ ART. 1993.- Aprobada la consignación por el juez, la obligación queda extingui
 ART. 1994.- Si el ofrecimiento y la consignación se han hecho legalmente, todos los gastos serán de cuenta del acreedor.
 
 Incumplimiento de las obligaciones
-
-## TITULO CUARTO. Efecto de las obligaciones
-
-I.- Efectos de las obligaciones entre las partes
-
-Cumplimiento de las obligaciones
 
 ### CAPITULO I. Consecuencias del incumplimiento de las obligaciones
 
@@ -8227,6 +8363,8 @@ ART. 2095.- Las deudas pagaderas en diferentes lugares, pueden compensarse media
 
 ART. 2096.- La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
 
+## TITULO QUINTO. Extinción de las obligaciones
+
 ### CAPITULO II. De la confusión de derechos
 
 ART. 2097.- La obligación se extingue por confusión cuando las calidades de acreedor y de deudor se reúnen en una misma persona. La obligación renace si la confusión cesa.
@@ -8234,8 +8372,6 @@ ART. 2097.- La obligación se extingue por confusión cuando las calidades de ac
 ART. 2098.- La confusión que se verifica en la persona del acreedor o deudor solidario, sólo produce sus efectos en la parte proporcional de su crédito o deuda.
 
 ART. 2099.- Mientras se hace la partición de una herencia, no hay confusión, cuando el deudor hereda al acreedor o éste a aquél.
-
-## TITULO QUINTO. Extinción de las obligaciones
 
 ### CAPITULO III. De la remisión de la deuda
 
@@ -8317,18 +8453,6 @@ ART. 2158.- Son nulas las ventas que produzcan la concentración o acaparamiento
 
 ART. 2159.- Las ventas al menudeo de bebidas embriagantes, hechas al fiado en cantinas, no dan derecho para exigir su precio.
 
-### CAPITULO II. De la materia de compraventa
-
-ART. 2160.- Ninguno puede vender sino lo que es de su propiedad.
-
-ART. 2161.- La venta de cosa ajena es nula y el vendedor es responsable de los daños y perjuicios si procede con dolo o mala fe; debiendo tenerse en cuenta lo que se dispone en el título relativo al Registro Público, para los adquirentes de buena fe.
-
-ART. 2162.- El contrato quedará revalidado, si antes de que tenga lugar la evicción adquiere el vendedor, por cualquier título legítimo, la propiedad de la cosa vendida.
-
-ART. 2163.- La venta de cosa o derechos litigiosos no está prohibida; pero el vendedor que no declare circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando, además, sujeto a las penas respectivas.
-
-ART. 2164.- Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
-
 ## TITULO SEXTO. De la inexistencia y de la nulidad
 
 ART. 2115.- El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto alguno legal. No es susceptible de valor por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
@@ -8386,6 +8510,18 @@ ART. 2137.- Para que la promesa de contratar sea válida debe constar por escrit
 ART. 2138.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ## TITULO SEGUNDO. De la compra-venta
+
+### CAPITULO II. De la materia de compraventa
+
+ART. 2160.- Ninguno puede vender sino lo que es de su propiedad.
+
+ART. 2161.- La venta de cosa ajena es nula y el vendedor es responsable de los daños y perjuicios si procede con dolo o mala fe; debiendo tenerse en cuenta lo que se dispone en el título relativo al Registro Público, para los adquirentes de buena fe.
+
+ART. 2162.- El contrato quedará revalidado, si antes de que tenga lugar la evicción adquiere el vendedor, por cualquier título legítimo, la propiedad de la cosa vendida.
+
+ART. 2163.- La venta de cosa o derechos litigiosos no está prohibida; pero el vendedor que no declare circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando, además, sujeto a las penas respectivas.
+
+ART. 2164.- Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
 
 ### CAPITULO III. De los que pueden vender y comprar
 
@@ -8609,12 +8745,6 @@ ART. 2245.- Si la donación fuere de todos los bienes, el donatario será respon
 
 ART. 2246.- Salvo que el donador dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
 
-### CAPITULO II. De las personas que pueden recibir donaciones
-
-ART. 2247.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 337.
-
-ART. 2248.- Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
-
 ## TITULO TERCERO. De la permuta
 
 ART. 2217.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2,141.
@@ -8628,6 +8758,12 @@ ART. 2220.- Lo dispuesto en el artículo anterior no perjudica los derechos que 
 ART. 2221.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se oponga a los artículos anteriores.
 
 ## TITULO CUARTO. De las donaciones
+
+### CAPITULO II. De las personas que pueden recibir donaciones
+
+ART. 2247.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 337.
+
+ART. 2248.- Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
 ### CAPITULO III. De la revocación y reducción de las donaciones
 
@@ -8727,6 +8863,8 @@ ART. 2281.- En el caso de haberse pactado que la restitución se hará cuando pu
 
 ART. 2282.- No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
+## TITULO QUINTO. Del mutuo
+
 ### CAPITULO II. Del mutuo con interés
 
 ART. 2283.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
@@ -8738,8 +8876,6 @@ ART. 2285.- El interés legal es el nueve por ciento anual. El interés convenci
 ART. 2286.- Si se ha convenido un interés más alto que el legal, el deudor, después de seis meses contados desde que se celebró el contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor con dos meses de anticipación y pagando los intereses vencidos.
 
 ART. 2287.- Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
-
-## TITULO QUINTO. Del mutuo
 
 ### CAPITULO I. Disposiciones generales
 
@@ -8827,6 +8963,8 @@ ART. 2300.- Si la transmisión de la propiedad se hiciere por causa de utilidad 
 
 ART. 2301.- Los arrendamientos de bienes nacionales, municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este título.
 
+## TITULO SEXTO. Del arrendamiento
+
 ### CAPITULO II. De los derechos y obligaciones del arrendador
 
 ART. 2302.- El arrendador está obligado, aunque no haya pacto expreso:
@@ -8874,8 +9012,6 @@ II.- Si se trata de mejoras útiles y por culpa del arrendador se rescindiese el
 III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluido el arrendamiento.
 
 ART. 2314.- Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
-
-## TITULO SEXTO. Del arrendamiento
 
 ### CAPITULO III. De los derechos y obligaciones del arrendatario
 
@@ -9157,22 +9293,6 @@ ART. 2427.- El posadero no se exime de la responsabilidad que le imponen los dos
 
 ART. 2428.- Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-### CAPITULO II. Del secuestro
-
-ART. 2429.- El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quien deba entregarse.
-
-ART. 2430.- El secuestro es convencional o judicial.
-
-ART. 2431.- El secuestro convencional se verifica cuando los litigantes depositan la cosa litigiosa en poder de un tercero que se obliga a entregarla, concluido el pleito, al que conforme a la sentencia tenga derecho a ella.
-
-ART. 2432.- El encargado del secuestro convencional no puede libertarse de él antes de la terminación del pleito, sino consistiendo en ello todas las partes interesadas; o por una causa que el juez declare legítima.
-
-ART. 2433.- Fuera de las excepciones acabadas de mencionar, rigen para el secuestro convencional las mismas disposiciones que para el depósito.
-
-ART. 2434.- Secuestro judicial es el que se constituye por decreto del juez.
-
-ART. 2435.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
-
 ## TITULO SEPTIMO. Del comodato
 
 ART. 2387.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
@@ -9214,6 +9334,22 @@ ART. 2404.- Cuando la cosa prestada tiene defectos tales que causen perjuicios a
 ART. 2405.- El comodato termina por la muerte del comodatario.
 
 ## TITULO OCTAVO. Del depósito y del secuestro
+
+### CAPITULO II. Del secuestro
+
+ART. 2429.- El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quien deba entregarse.
+
+ART. 2430.- El secuestro es convencional o judicial.
+
+ART. 2431.- El secuestro convencional se verifica cuando los litigantes depositan la cosa litigiosa en poder de un tercero que se obliga a entregarla, concluido el pleito, al que conforme a la sentencia tenga derecho a ella.
+
+ART. 2432.- El encargado del secuestro convencional no puede libertarse de él antes de la terminación del pleito, sino consistiendo en ello todas las partes interesadas; o por una causa que el juez declare legítima.
+
+ART. 2433.- Fuera de las excepciones acabadas de mencionar, rigen para el secuestro convencional las mismas disposiciones que para el depósito.
+
+ART. 2434.- Secuestro judicial es el que se constituye por decreto del juez.
+
+ART. 2435.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
 
 ### CAPITULO I. Disposiciones generales
 
@@ -9285,6 +9421,8 @@ En este caso, el mandatario es el obligado directamente en favor de la persona c
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
+## TITULO NOVENO. Del mandato
+
 ### CAPITULO II. De las obligaciones del mandatario con respecto al mandante
 
 ART. 2452.- El mandatario, en el desempeño de su encargo, se sujetará a las instrucciones recibidas del mandante y en ningún caso podrá proceder contra disposiciones expresas del mismo.
@@ -9316,8 +9454,6 @@ ART. 2464.- El mandatario puede encomendar a un tercero el desempeño del mandat
 ART. 2465.- Si se le designó la persona del substituto, no podrá nombrar a otro; si no se le designó persona, podrá nombrar a la que quiera, y en este último caso solamente será responsable cuando la persona elegida fuere de mala fe o se hallare en notoria insolvencia.
 
 ART. 2466.- El sustituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
-
-## TITULO NOVENO. Del mandato
 
 ### CAPITULO III. De las obligaciones del mandante con relación al mandatario
 
@@ -9451,6 +9587,8 @@ ART. 2494.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con
 
 ART. 2495.- El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo, y el contrato de aprendizaje, se regirán por la Ley Federal del Trabajo.
 
+## TITULO DECIMO. Del contrato de prestación de servicios
+
 ### CAPITULO II. De la prestación de servicios profesionales
 
 ART. 2496.- El que presta y el que recibe los servicios profesionales pueden fijar, de común acuerdo, retribución debida por ellos.
@@ -9474,8 +9612,6 @@ ART. 2503.- Los profesores tienen derecho de exigir sus honorarios, cualquiera q
 ART. 2504.- Siempre que un profesor no pueda continuar prestando sus servicios, deberá avisar oportunamente a la persona que los ocupe, quedando obligado a satisfacer los daños y perjuicios que se causen cuando no diere este aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2,479.
 
 ART. 2505.- El que preste servicios profesionales sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
-
-## TITULO DECIMO. Del contrato de prestación de servicios
 
 ### CAPITULO III. Del contrato de obras a precio alzado
 
@@ -10577,6 +10713,8 @@ ART. 2867.- Los gastos judiciales hechos por un acreedor, en lo particular, ser�
 
 ART. 2868.- El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores; además de las penas que merezca por el fraude.
 
+## TITULO PRIMERO. De la concurrencia y prelación de los créditos
+
 ### CAPITULO II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegios
 
 ART. 2869.- Preferentemente se pagarán los adeudos fiscales provenientes de impuestos, con el valor de los bienes que los hayan causado.
@@ -10616,8 +10754,6 @@ I.- Si la separación de los bienes no fuere pedida dentro de tres meses, contad
 II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro modo hubieren aceptado la responsabilidad personal del heredero.
 
 ART. 2881.- Los acreedores que obtuvieren la separación de bienes no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
-
-## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
 ### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
 
@@ -10698,6 +10834,10 @@ ART. 2891.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO 
 ART. 2892.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
 ART. 2893.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
+
+## TITULO SEGUNDO. Del Registro Público
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
@@ -10798,10 +10938,6 @@ ART. 2928.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO 
 ART. 2929.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
 ART. 2930.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
-
-## TITULO SEGUNDO. Del Registro Público
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
@@ -11172,3 +11308,7 @@ P.O. 10 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- La Dirección General del Registro Civil del Estado, así como las Oficialías del Registro Civil de cada uno de los diez Municipios de la entidad, contarán con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto, para que adopten las medidas técnicas y administrativas a efecto de cumplimentar el mismo.
+
+P.O. 5 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
