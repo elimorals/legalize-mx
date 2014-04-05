@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2014-01-16"
+last_updated: "2014-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -311,11 +311,47 @@ l. Los instrumentos de control archivístico referidos en la Ley de Archivos del
 
 II. Las leyes, reglamentos, decretos, acuerdos, circulares, Periódico Oficial del Estado, y demás disposiciones administrativas o instrumento legal, que le dan sustento al ejercicio de sus funciones públicas;
 
-III. La información acerca de los sistemas, procesos, oficinas, ubicación, teléfonos, horario de atención, página electrónica, cuotas y responsables de atender las solicitudes de acceso a la información, así como las solicitudes recibidas y las respuestas dadas por los servidores públicos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
-IV. El nombre, puesto, domicilio oficial, teléfono y dirección electrónica de los servidores públicos responsables de atender las solicitudes de acceso, y
+III. Las iniciativas anuales de leyes de, Ingresos; y del Presupuesto de Egresos del Estado. El Poder Ejecutivo y los municipios incluirán en sus respectivas leyes de ingresos y presupuestos de egresos, apartados específicos con la información siguiente:
 
-V. La información de utilidad e interés público que contribuya a la transparencia gubernamental y social, a la rendición de cuentas, y al mejor ejercicio del derecho de acceso a la información pública.
+a) Leyes de ingresos:
+
+1. Las fuentes de sus ingresos sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que se estimen serán transferidos por la Federación, a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones locales.
+
+2. Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras, o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Asimismo, la composición de dichas obligaciones y el destino de los recursos obtenidos.
+
+b) Presupuestos de egresos:
+
+1. Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros.
+
+2.- El listado de programas, así como sus indicadores estratégicos y de gestión aprobados.
+
+3. La aplicación de los recursos conforme a las clasificaciones administrativa, funcional, programática, económica y, en su caso, geográfica y sus interrelaciones, que faciliten el análisis para valorar la eficiencia y eficacia en el uso y destino de los recursos y sus resultados.
+
+En el proceso de integración de la información financiera para la elaboración de los presupuestos, se deberán incorporar los resultados que deriven de los procesos de implantación y operación del presupuesto basado en resultados y del sistema de evaluación del desempeño, establecidos en términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las normas, metodologías, clasificadores y los formatos, con la estructura y contenido de la información, para armonizar la elaboración y presentación de los documentos señalados en esta fracción, se establecerán conforme a lo dispuesto por la Ley General de Contabilidad Gubernamental;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+IV. La información acerca de los sistemas, procesos, oficinas, ubicación, teléfonos, horario de atención, página electrónica, cuotas y responsables de atender las peticiones de acceso a la información, así como las solicitudes recibidas y las respuestas dadas por los servidores públicos;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+V. El nombre, puesto, domicilio oficial, teléfono y dirección electrónica de los servidores públicos responsables de atender las peticiones de acceso;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+VI. La información de utilidad e interés público que contribuya a la transparencia gubernamental y social, a la rendición de cuentas, y al mejor ejercicio del derecho de acceso a la información pública;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+VII. El programa anual de evaluaciones, así como las metodologías e indicadores de desempeño, a más tardar el último día hábil del mes de abril, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+VIII. Los resultados de las evaluaciones, a más tardar a los treinta días posteriores a la conclusión de las mismas, e informar sobre las personas que las realizaron.
 
 ###### ARTICULO 19.
 
@@ -343,7 +379,11 @@ IX. Los informes anuales de actividades, los balances generales y estados financ
 
 X. La información sobre la situación económica, estados financieros y endeudamiento de las entidades públicas, incluyendo una lista de los bienes inmuebles y de los vehículos adscritos a las mismas;
 
-XI. La información de los movimientos de ingresos y egresos, que deberán contener, en el caso de egresos, el monto, beneficiario, concepto, fecha, folio, institución bancaria y funcionario que lo autoriza. En el caso de ingresos, el número de entero, monto, concepto, contribuyente y fecha;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+XI. La información de los movimientos de ingresos y egresos, que deberán contener, en el caso de egresos, el monto, beneficiario, concepto, fecha, folio, institución bancaria y funcionario que lo autoriza. En el caso de ingresos, el número de entero, monto, concepto, contribuyente y fecha. Además, la relación de las cuentas bancarias productivas específicas en las cuales se depositaron los recursos federales transferidos por cualquier concepto, durante el ejercicio fiscal correspondiente.
+
+Las cuentas bancarias a que se refiere el párrafo anterior se harán del conocimiento previo a la Tesorería de la Federación, para el efecto de la radicación de los recursos;
 
 XII. Los contratos de prestación de servicios que establezcan personas físicas o morales con las entidades públicas, y todo documento e informe relacionado con los mismos;
 
@@ -357,15 +397,21 @@ XVI. Los resultados de los concursos, licitaciones, adquisiciones, arrendamiento
 
 XVII. Cuando se trate del otorgamiento de concesiones, licencias, permisos o autorizaciones a particulares, la información al respecto deberá contener el nombre o razón social del titular, el concepto y los objetivos de la concesión, licencia, autorización o permiso, el fundamento legal y el tiempo de vigencia;
 
-XVIII. La información detallada de las obras que directa o indirectamente tienen que ejecutar con cargo al presupuesto público, con préstamos, subvenciones o aportaciones privadas de carácter nacional e internacional. En este caso, deberá precisarse el monto, lugar, plazo de ejecución, entidad pública y servidores públicos responsables de la obra, y mecanismos de vigilancia ciudadana;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+XVIII. La información pormenorizada sobre el avance físico de las obras y acciones respectivas que, directa o indirectamente, tienen que ejecutar con cargo al presupuesto público, con préstamos, subvenciones o aportaciones privadas de carácter nacional e internacional. En este caso, deberá precisarse el monto, lugar, plazo de ejecución, entidad pública y servidores públicos responsables de la obra, y mecanismos de vigilancia ciudadana. Adicionalmente, cuando corresponda, la diferencia entre el monto de los recursos transferidos y aquéllos erogados, así como los resultados de las evaluaciones que se hayan realizado;
 
 XIX. La información contenida en los documentos y expedientes relativos a todo tipo de auditorías concluidas y realizadas, para evaluar el ejercicio presupuestal y la gestión de cada dependencia o unidad administrativa del Estado y los municipios, que realicen la Contraloría del Estado, las contralorías internas, la Auditoría Superior del Estado, o la Auditoría Superior de la Federación, o las equivalentes de cualquiera de todas las anteriores, así como las aclaraciones que correspondan;
 
 XX. El programa de trabajo de los titulares de las entidades públicas, dependencias y unidades administrativas, y el informe de labores y actividades. Esta información deberá hacerse pública, a más tardar quince días hábiles después de haberse producido;
 
-XXI. La información presupuestal detallada que contenga por lo menos los datos acerca de los destinatarios, usos, montos, criterios de asignación, mecanismos de evaluación e informes sobre su ejecución. Además, deberá difundirse la información relativa a los montos recibidos por concepto de multas, recargos, cuotas, depósitos y fianzas, señalando el nombre de los responsables de recibirlos, administrarlos y ejercerlos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
-XXII. La información de los padrones de beneficiarios de los programas sociales aplicados por el Estado y los municipios, así como, la información sobre el diseño, montos, acceso, ejecución y beneficiarios de los programas de subsidio;
+XXI. La información presupuestal detallada que contenga por lo menos los datos acerca de los destinatarios, usos, montos, criterios de asignación, mecanismos de evaluación e informes sobre su ejecución. Además, deberá difundirse la información relativa a los montos recibidos por concepto de multas, recargos, cuotas, depósitos y fianzas, señalando el nombre de los responsables de recibirlos, administrarlos y ejercerlos. Por lo que se refiere a los recursos federales transferidos al Estado y los municipios, se observarán las disposiciones específicas de las leyes, General de Contabilidad Gubernamental; Federal de Presupuesto y Responsabilidad Hacendaria; y de Fiscalización y Rendición de Cuentas de la Federación;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+XXII. La información de los padrones de beneficiarios de los programas sociales aplicados por el Estado y los municipios, así como, la información sobre los montos pagados durante el periodo por concepto de ayudas y subsidios a los sectores económicos y sociales, identificando el nombre del beneficiario, o el Registro Federal de Contribuyentes con homoclave cuando sea persona moral o persona física, con actividad empresarial y profesional, así como el monto recibido;
 
 XXIII. La información sobre la ejecución del presupuesto aprobado a las entidades públicas previstas en la presente Ley, que deberá actualizarse trimestralmente; así como, los criterios de asignación, el tiempo de ejecución, los mecanismos de evaluación, y los responsables de su recepción y ejecución final;
 
@@ -389,9 +435,17 @@ III. La información detallada que contengan los planes de ordenamiento territor
 
 IV. Los montos recibidos por concepto de multas, recargos, depósitos fiscales y fianzas, así como el nombre de los responsables de recibirlos, administrarlos y ejercerlos;
 
-V. Las políticas y mecanismos de participación ciudadana en los procesos de elaboración, implementación y evaluación de políticas públicas, así como, en la toma de decisiones de las entidades públicas, y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
-VI. Los estudios de factibilidad ecológica, impacto ambiental, desarrollo urbano y de servicios públicos.
+V. Las políticas y mecanismos de participación ciudadana en los procesos de elaboración, implementación y evaluación de políticas públicas, así como, en la toma de decisiones de las entidades públicas;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+VI. Los estudios de factibilidad ecológica, impacto ambiental, desarrollo urbano y de servicios públicos; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+VII. Previo convenio de colaboración administrativa, la información relativa al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, especificando cada uno de los destinos señalados para dicho Fondo en la Ley de Coordinación Fiscal.
 
 ###### ARTICULO 21.
 
@@ -429,9 +483,27 @@ XI. Las demás que establezcan su Ley Orgánica y demás disposiciones aplicable
 
 Además de la señalada en los artículos 18 y 19 de esta Ley, el Poder Ejecutivo deberá poner a disposición del público, de oficio, y en forma completa y actualizada, la siguiente información:
 
-I. El Plan Estatal de Desarrollo, los programas operativos anuales sectoriales y las modificaciones que a los mismos se propongan, y (sic)
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
-II. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2010)
+I. El Plan Estatal de Desarrollo, los programas operativos anuales sectoriales y las modificaciones que a los mismos se propongan;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+II. Previo convenio de colaboración administrativa, la información relativa al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, especificando cada uno de los destinos señalados para dicho Fondo en la Ley de Coordinación Fiscal, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+III. La información relativa a los fondos de ayuda federal para la seguridad pública, incluyendo lo siguiente:
+
+a) La información sobre el ejercicio, destino y cumplimiento de los indicadores de desempeño de los programas beneficiados con los recursos de los fondos.
+
+b) Las disponibilidades financieras con que, en su caso, cuenten de los recursos de los fondos, correspondientes a otros ejercicios fiscales.
+
+c) El presupuesto comprometido, devengado y pagado correspondiente al ejercicio fiscal.
+
+La información sobre el destino de los recursos deberá estar claramente asociada con los objetivos de las estrategias definidas por el Consejo Nacional de Seguridad Pública.
+
+Para el cumplimiento de lo previsto en este artículo, el consejo solicitará al Consejo Nacional de Seguridad Pública, los lineamientos y el modelo de estructura de información que sean necesarios.
 
 ###### ARTICULO 23.
 
@@ -490,6 +562,10 @@ El Sistema Estatal de Documentación y Archivo expedirá los lineamientos genera
 La información que se difunda tendrá soporte en documentos. La difusión deberá actualizarse, por lo menos una vez al mes. Los entes obligados deberán difundir, preferentemente, a través de los medios electrónicos, la información a que se refieren en cada caso los artículos 19, 20, 21, 22, 23, 24 y 25 de esta Ley.
 
 Cuando por las características de la información y los sistemas informativos utilizados, no sea posible publicar toda la información, se difundirá sólo el índice o catálogo donde se describan sus características técnicas, la oficina y ubicación, y los responsables de su administración, archivo y resguardo, a través de los medios que resulten convenientes.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+La publicación de la información financiera de los entes públicos, se hará conforme a lo que establece la Ley General de Contabilidad Gubernamental. Dicha información podrá complementar la que otros ordenamientos jurídicos aplicables ya disponen en este ámbito, para presentarse en informes periódicos y en las cuentas públicas. Asimismo, la información se difundirá en los medios oficiales de difusión en términos de las disposiciones aplicables.
 
 ###### ARTICULO 28.
 
@@ -1462,6 +1538,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se deroga cualquier disposición contraria a este Decreto.
 
 P.O. 16 DE ENERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición contraria al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
