@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2013-11-12"
+last_updated: "2014-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1429,7 +1429,9 @@ I.- Garantizar la supremacía y tutela de la presente Constitución, interpretar
 
 II.- Garantizar y proteger los derechos fundamentales previstos en esta Constitución;
 
-III.- Resolver las controversias del orden civil, familiar, penal, de adolescentes del fuero común, y mercantil en jurisdicción concurrente;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+III.- Resolver las controversias del orden civil, familiar, penal, administrativo, de adolescentes del fuero común, y mercantil en jurisdicción concurrente;
 
 IV.- Resolver los medios de impugnación en materia electoral en los términos que disponga la ley de la materia; y
 
@@ -1489,13 +1491,17 @@ La planeación del desarrollo institucional, evaluación, administración, vigil
 
 7.- El Consejo Consultivo se integrará por cinco consejeros abogados de reconocido prestigio en el Estado, con carácter honorario, designados por el Tribunal Superior de Justicia y funcionará según lo disponga la ley.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
 
 ###### Art. 86.
 
-El Tribunal Superior de Justicia cada cuatro años, designará uno de sus miembros como Presidente y al concluir su mandato no podrá ser reelecto para el período inmediato.
+El Tribunal Superior de Justicia cada cuatro años, designará uno de sus miembros como Presidente, podrá ser reelecto, por única ocasión, para el periodo siguiente. En ningún caso la temporalidad al frente de la Presidencia podrá exceder al periodo para el que fue designado como magistrado.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 El Presidente del Tribunal Superior de Justicia, rendirá anualmente, ante el Congreso, un informe por escrito respecto del ejercicio de facultades y atribuciones que esta Constitución y las leyes confiere al Poder Judicial, en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 Los Magistrados del Tribunal Superior de Justicia al inicio de su encargo, rendirán protesta ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente en la forma siguiente:
 
@@ -1508,6 +1514,8 @@ El Magistrado:
 El Presidente:
 
 "Si no lo hiciereis así, la Nación y Nayarit os lo demande".
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 El Secretario General de Acuerdos, los Jueces y demás servidores que señale la Ley Orgánica del Poder Judicial, protestarán ante el Tribunal Superior de Justicia.
 
@@ -1725,47 +1733,33 @@ El Estado garantizará la existencia de un servicio de defensoría pública del 
 
 La Ley organizará la institución, fijará su estructura administrativa, los requisitos para desempeñarse como defensor de oficio y las bases de coordinación con las instituciones educativas y asociaciones o colegios de profesionistas.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2014)</small>
 
-### CAPITULO V. De la Justicia Administrativa
+### CAPÍTULO V. DE LA JURISDICCIÓN ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
 ###### Art. 103.
 
-La jurisdicción administrativa en el Estado de Nayarit se ejerce por conducto del Tribunal de Justicia Administrativa, órgano autónomo e independiente de cualquier autoridad, dotado de plena jurisdicción para dictar y hacer cumplir sus resoluciones.
+La jurisdicción administrativa en el Estado de Nayarit se ejerce por conducto del Poder Judicial de conformidad a lo previsto en el artículo 82 de la presente Constitución.
 
-La ley establecerá la integración y funcionamiento de este Tribunal así como los términos para la formación, promoción y permanencia en la carrera jurisdiccional.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
 ###### Art. 104.
 
-Para ser magistrado del Tribunal se requiere:
+El Poder Judicial estará dotado de plena autonomía para dictar las resoluciones que diriman las controversias administrativas y fiscales que se susciten entre la Administración Pública Estatal y Municipal con los particulares en los términos de la ley de la materia.
 
-I. Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Tener más de 30 años al día de la designación;
-
-III. Ser originario del Estado de Nayarit o haber residido en el mismo durante los dos años anteriores al día de la designación;
-
-IV. Ser licenciado en derecho con título profesional, con cinco años de antigüedad al día de la designación;
-
-V. Tener por lo menos tres años de práctica profesional en materia administrativa o fiscal;
-
-VI. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza o alguno otro que lastime seriamente la fama en el servicio público inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
-
-VII. No tener ni haber tenido cargo alguno de elección popular durante el año anterior al nombramiento, ni haber sido secretario del despacho del Poder Ejecutivo, Fiscal General o haber pertenecido a las fuerzas armadas, y
-
-VIII. No ser ministro de algún culto religioso, a menos que se haya separado formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de la designación.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
 ###### Art. 105.
 
-Los Magistrados del Tribunal de Justicia Administrativa durarán en su encargo seis años pudiendo ser ratificados por una sola vez y por el mismo periodo, previa evaluación en los términos que disponga la Ley de la materia. Solo podrán ser privados de su cargo en los términos del Título Octavo de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Las leyes que rigen al Poder Judicial y la materia contenciosa administrativa, establecerán respectivamente las normas para su organización, funcionamiento, procedimiento y los recursos contra sus resoluciones.
 
 ## TITULO SEXTO
 
@@ -2059,7 +2053,9 @@ En todo caso, si de las auditorías que realice aparecieran discrepancias entre 
 
 Sin perjuicio del principio de anualidad, el Órgano de Fiscalización Superior del Estado podrá solicitar y fiscalizar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, derivado de denuncias, podrá requerir a los sujetos fiscalizables que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se impondrán las sanciones previstas en la misma. El Órgano de Fiscalización Superior del Estado rendirá un informe específico al Congreso y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales o extraordinarias que determine la ley de la materia, derivado de denuncias que acompañen elementos de prueba, convenios o solicitudes formuladas por los propios sujetos fiscalizables, podrá requerir a los mismos la información necesaria para su revisión durante el ejercicio fiscal en curso. Si los requerimientos formulados tienen como origen una denuncia y no fueren atendidos en los plazos y formas señalados por la ley, se impondrán las sanciones previstas en la misma. El Órgano de Fiscalización Superior del Estado rendirá un informe específico al Congreso y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
 II. Entregar el informe del resultado de la revisión de las cuentas públicas a más tardar el 15 de noviembre del año siguiente al que se revise, el cual se someterá a la consideración del pleno del Congreso y tendrá carácter público y su contenido deberá difundirse en todo el estado. Dentro de dicho informe se incluirán las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos estatales y municipales por parte de los sujetos fiscalizables a que se refiere la fracción anterior y a la verificación del desempeño en el cumplimiento de los objetivos de los programas, así como también un apartado específico con las observaciones del Órgano de Fiscalización Superior del Estado que incluya las justificaciones y aclaraciones que, en su caso, los sujetos fiscalizados hayan presentado sobre las mismas, así como las acciones promovidas.
 
@@ -2075,7 +2071,9 @@ III. Investigar los actos u omisiones que impliquen alguna irregularidad o condu
 
 IV. Determinar los daños y perjuicios que afecten a las haciendas públicas estatal y municipales, o al patrimonio de los sujetos fiscalizables y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Octavo de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
 
-Las sanciones y demás resoluciones del Órgano de Fiscalización Superior del Estado podrán ser impugnadas por los servidores públicos y las demás personas afectadas, ante el propio Órgano y ante el Tribunal de Justicia Administrativa del Estado, conforme a lo previsto en la ley.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+Las sanciones y demás resoluciones del Órgano de Fiscalización Superior del Estado podrán ser impugnadas por los servidores públicos y las demás personas afectadas, ante el propio Órgano y ante la autoridad jurisdiccional competente en materia administrativa del Estado, conforme a lo previsto en la ley.
 
 Los sujetos fiscalizables facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos locales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales, deberán proporcionar la información y documentación que solicite el Órgano de Fiscalización Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
 
@@ -2181,11 +2179,11 @@ Para esos efectos el Congreso del Estado se constituirá separadamente en Jurado
 
 Las declaraciones y Resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
 
 ###### Art. 125.
 
-Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces de Primera Instancia, los Magistrados del Tribunal de Justicia Administrativa, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Fiscal General, los Presidentes, Regidores y Síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces de Primera Instancia, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Fiscal General, los Presidentes, Regidores y Síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -3452,3 +3450,31 @@ P.O. 12 DE NOVIEMBRE DE 2013.
 Artículo Primero.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Articulo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los ayuntamientos de la entidad.
+
+P.O. 5 DE ABRIL DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, salvo las disposiciones previstas en el artículo segundo transitorio.
+
+Artículo Segundo.- En lo concerniente a las reformas en materia de jurisdicción administrativa, la reforma entrará en vigor el día 19 de diciembre del año 2014, con la salvedad prevista en la fracción IV de la presente disposición transitoria.
+
+I. De conformidad a la reforma de los artículos 103, 104 y 105 del presente Decreto, el Tribunal de Justicia Administrativa concluirá sus funciones el 18 de diciembre de 2014;
+
+II. Las adecuaciones legales que deberán armonizarse a la reforma contenida en el presente Decreto, se realizarán dentro de un plazo que no exceda seis meses contados a partir de la publicación del presente Decreto;
+
+III. Los actuales Magistrados del Tribunal de Justicia Administrativa concluirán el período para el cual fueron expresamente designados, con la salvedad que se presente la falta absoluta de alguno de ellos, en cuyo supuesto el Congreso del Estado designará al sustituto sólo para cubrir la conclusión del período;
+
+IV. Al día siguiente de la publicación del presente Decreto, se deja sin efecto el proceso de evaluación del desempeño de los actuales Magistrados del Tribunal de Justicia Administrativa, como consecuencia de la conclusión simultánea del período para el que fueron designados y la extinción del Tribunal;
+
+V. A partir de la entrada en vigor del presente Decreto y como consecuencia de la extinción del Tribunal de Justicia Administrativa, deberán realizarse todas las acciones jurídicas y administrativas necesarias para proceder a la transferencia de los recursos materiales y financieros al Poder Judicial del Estado de Nayarit;
+
+En el caso de los recursos humanos, se procederá a la liquidación conforme a derecho, salvo el personal que por su perfil especializado se estime necesario, será transferido al Poder Judicial.
+
+VI. El Poder Judicial, de conformidad a su Ley Orgánica procederá a dictar los acuerdos conducentes, a efecto de habilitar a los Magistrados que conocerán la materia Administrativa, y
+
+VII. Los asuntos que estén en trámite al momento de la entrada en vigor del presente Decreto, serán substanciados de conformidad a las disposiciones que rigen la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Cuarto.- Dentro de un plazo de sesenta días contados a partir del día siguiente de la publicación de este Decreto, el Poder Legislativo deberá realizar las adecuaciones a las disposiciones pertinentes de la Ley del Órgano de Fiscalización Superior del Estado.
+
+Artículo Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la entidad.
