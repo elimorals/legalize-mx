@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2013-11-30"
+last_updated: "2014-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -4727,13 +4727,13 @@ PRIMERO.- La presente Ley entrará en vigor el día primero de enero de 1993, pr
 
 SEGUNDO.- Se abroga la Ley de Hacienda del Estado expedida el 23 de diciembre de 1981, y publicada en el Periódico Oficial "EL ESTADO DE COLIMA", el 26 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
-TERCERO.- En el ejercicio fiscal 2013, el plazo señalado en el Artículo 41 Z BIS 12 de la Ley de Hacienda del Estado de Colima, para el pago del Impuesto Sobre Tenencia o Uso de Vehículos se amplía hasta el día 19 de abril del mismo año.
+TERCERO.- En el ejercicio fiscal 2014, el plazo señalado en el Artículo 41 Z BIS 12 de la Ley de Hacienda del Estado de Colima, para el pago del Impuesto Sobre Tenencia o Uso de Vehículos se amplía hasta el día 16 de abril del mismo año.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
-CUARTO.- En el ejercicio fiscal 2013, el plazo señalado en el Artículo 53, fracción IV, Segundo párrafo, de la Ley de Hacienda del Estado de Colima, para el pago del derecho por la renovación anual de la calcomanía fiscal vehicular se amplía hasta el día 19 de abril del mismo año.
+CUARTO.- En el ejercicio fiscal 2014, el plazo señalado en el Artículo 53, fracción IV, Segundo párrafo, de la Ley de Hacienda del Estado de Colima, para el pago del derecho por la renovación anual de la calcomanía fiscal vehicular se amplía hasta el día 16 de abril del mismo año.
 
 El Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
 
@@ -5175,7 +5175,9 @@ a).- No tener adeudos del ejercicio 2013 y anteriores, por cualquiera de los con
 
 3).- Impuesto Predial y Derechos por los Servicios Públicos de Agua Potable, Alcantarillado y Saneamiento, con cualesquiera de los Municipios y Organismos Operadores en la Entidad.
 
-b).- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2014 que resulte procedente, se efectúe de enero a marzo de dicho año.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+b).- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2014 que resulte procedente, se efectúe hasta el 16 de abril del presente año.
 
 Para los efectos de la aplicación del subsidio a que se refiere este Transitorio, se considerará que el arrendatario es el tenedor o usuario del vehículo, cuando la posesión del mismo se le hubiera otorgado mediante arrendamiento puro o financiero.
 
@@ -5190,3 +5192,7 @@ III.- Que la inscripción en el Registro Público Vehicular del Estado, de los v
 Para los efectos de la aplicación del subsidio a que se refiere este Transitorio, se considerará que el arrendatario es el tenedor o usuario del vehículo, cuando la posesión del mismo se le hubiera otorgado mediante arrendamiento puro o financiero.
 
 CUARTO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios y Trámites Electrónicos, durante el año 2014 el monto se ajustará a la decena de pesos inferior más próxima.
+
+P.O. 5 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
