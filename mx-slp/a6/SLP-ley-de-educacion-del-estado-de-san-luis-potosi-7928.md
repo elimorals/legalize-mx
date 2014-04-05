@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2014-01-14"
+last_updated: "2014-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -785,15 +785,15 @@ IV.- Criterios y procedimientos de evaluación y acreditación, para verificar q
 
 Los programas de estudio fijan los propósitos específicos de aprendizaje y determinan el orden y distribución de los contenidos educativos mínimos de cada grado, área o asignatura de un ciclo escolar, así como los criterios y procedimientos que servirán de base para su evaluación y acreditación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 43.
 
-En los niveles de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, serán obligatorios en esta Entidad, los planes y programas de estudio determinados por la Secretaría de Educación Pública de la Administración Pública Federal, conforme a los principios y criterios establecidos en los artículos 9°. y 10 de esta Ley. En el caso de los programas de educación normal y demás para la formación de maestros de educación básica, serán revisados y evaluados al menos cada cuatro años.
+En los niveles de educación preescolar, primaria, secundaria, media superior, normal, y demás para la formación de maestros de educación básica, serán obligatorios en esta Entidad, los planes y programas de estudio determinados por la Secretaría de Educación Pública de la Administración Pública Federal, conforme a los principios y criterios establecidos en los artículos 9º y 10 de esta Ley. En el caso de los programas de educación normal y demás para la formación de maestros de educación básica, serán revisados y evaluados al menos cada cuatro años.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
-La Autoridad Educativa Local dará a conocer a la Secretaría de Educación de la Administración Pública Federal, sus opiniones sobre planes y programas de estudio, y propondrá para su consideración y, en su caso, para su autorización, contenidos regionales que, sin mengua de carácter nacional de los planes y programas citados, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, tradiciones, ecosistemas, y demás aspectos propios de la Entidad y sus municipios.
+La autoridad educativa local dará a conocer a la Secretaría de Educación de la Administración Pública Federal, sus opiniones sobre los planes y programas de estudio, y propondrá para su consideración y, en su caso, para su autorización, contenidos regionales que, sin detrimento de los planes y programas de carácter nacional, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres o tradiciones, ecosistemas, y demás aspectos propios de la Entidad y sus municipios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -803,13 +803,17 @@ Sin menoscabo de las funciones establecidas para el Consejo Estatal de Participa
 
 I. Secretaría de Cultura: historia, costumbres y tradiciones;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
-II. Instituto Nacional de Estadística y Geografía; y, Consejo Estatal de Población: geografía, y
+II. Instituto Nacional de Estadística y Geografía; y, Consejo Estatal de Población: geografía;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
-III. Secretaría de Ecología y Gestión Ambiental: aspectos relacionados con ecología, ecosistemas y cambio climático.
+III. Secretaría de Ecología y Gestión Ambiental: aspectos relacionados con ecología, ecosistemas y cambio climático, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+IV. La Coordinación Estatal de Protección Civil, en el ámbito de sus atribuciones.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2008)</small>
 
@@ -822,6 +826,10 @@ Sin menoscabo de la propuesta realizada a la Secretaría de Educación Pública 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
 
 La Autoridad Educativa Local realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas de estudio a que se refiere el presente artículo, para vigilar su cumplimiento y recoger informaciones que permitan mantenerlos permanentemente actualizados; en el caso de los programas de educación normal y demás para la formación de maestros en educación básica deberán de mantenerse actualizados conforme a los parámetros y perfiles a los que se refiere la Ley General del Servicio Profesional Docente.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+La autoridad educativa local, en coadyuvancia con la Coordinación Estatal de Protección Civil, determinarán los planes y programas especiales para las instituciones educativas, con el fin de prevenir y disminuir los riesgos que pueden ser causados por fenómenos y agentes naturales y humanos, así como la forma de actuar ante los desastres provocados por esos mismos agentes y fenómenos.
 
 ###### ARTICULO 44.
 
@@ -1587,7 +1595,9 @@ VII.- Atender el interés familiar y comunitario por el desempeño del educando,
 
 VIII.- Opinar en asuntos pedagógicos, y contribuir a reducir las condiciones sociales adversas que influyan en la educación.
 
-Están facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; respaldar las labores cotidianas de la escuela y, en general, realizar actividades para beneficio de la propia escuela, sin menoscabo de las acciones que instrumenten otras organizaciones.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+Están facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; realizar los simulacros necesarios que permitan el desalojo ordenado ante una eventualidad o siniestro, de acuerdo con los planes y programas que establece el párrafo último del artículo 43 de la presente Ley; asimismo, atendiendo lo dispuesto en el artículo 44 de la Ley del Sistema de Protección Civil del Estado de San Luis Potosí, respaldar las labores cotidianas de la escuela y, en general, realizar actividades para beneficio de la propia escuela, sin menoscabo de las acciones que instrumenten otras organizaciones.
 
 Consejos análogos pueden operar en las escuelas particulares de educación básica.
 
@@ -2160,6 +2170,12 @@ QUINTO. Para efectos de dar cumplimiento a lo establecido en el artículo 15 de 
 SEXTO. La aplicación de este Decreto se hará con pleno respeto a los derechos laborales de los trabajadores al servicio de la educación pública, por tanto, el Gobierno del Estado, y los 58 gobiernos municipales de la Entidad, reconocen a las secciones, 26, y 52, del Sindicato Nacional de los Trabajadores de la Educación, como representantes legales de los mismos.
 
 En consecuencia, para continuar impulsando el establecimiento de acuerdos que respondan a los derechos laborales de los trabajadores de la educación, así como a los mecanismos pertinentes para atender los compromisos presentes y futuros que impulsen la construcción del sistema educativo público de calidad, se establecerá por parte de la autoridad educativa estatal, el diálogo permanente y respetuoso con las representaciones dé las referidas secciones sindicales, estando en posibilidad de armonizar las leyes y decretos federales y estatales que resulten con motivo de este Decreto, y que incorporen, en su caso, aspectos relacionados con el Servicio Profesional Docente.
+
+P.O. 5 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones normativas de igual o inferior jerarquía jurídica que se opongan a la presente Ley.
 
 ## TRANSITORIOS
 
