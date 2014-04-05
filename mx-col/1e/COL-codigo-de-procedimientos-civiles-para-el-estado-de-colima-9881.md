@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2013-08-10"
+last_updated: "2014-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ABRIL DE 2014 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -5575,35 +5577,57 @@ ART. 900.- En los negocios de menores e incapacitados intervendrán el juez de p
 
 ART. 901.- Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
 
-La declaración de estado de minoridad o demencia puede pedirse: 1o.- Por el mismo menor si ha cumplido dieciséis años; 2o.- Por su cónyuge; 3o.- Por sus presuntos herederos legítimos; 4o.- Por el albacea; 5o.- Por el Ministerio Público.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+La declaración de estado de minoridad o interdicción puede pedirse: 1°.- Por el mismo menor si ha cumplido dieciséis años; 2°.- Por su cónyuge; 3°.- Por sus presuntos herederos legítimos; 4°.- Por el albacea; 5°.- Por el Ministerio Público; 6°.- Por la persona designada como tutor cautelar.
 
 Pueden pedir la declaración de minoridad los funcionarios encargados de ello por el Código Civil.
 
 ART. 902.- Si a la petición de declaración de minoridad se acompaña la certificación del registro civil, se hará la declaración de plano. En caso contrario, se citará inmediatamente a una audiencia dentro del tercer día, a la que concurrirán el menor si fuere posible y el Ministerio Público. En ella, con o sin la asistencia de éste y por las certificaciones del registro civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquellas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
 
-ART. 903.- La declaración de incapacidad por causa de demencia, se acreditará en juicio sumario que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el Juez.
+ART. 903.- La declaración de incapacidad por alguna de las causas previstas en las fracciones II y IV del artículo 450 del Código Civil para el Estado de Colima, se acreditará en juicio sumario que se seguirá entre el peticionario y un tutor que para tal objeto designe el Juez.
 
-Como diligencias prejudiciales se practicarán las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
 
-I.- Recibida la demanda de interdicción, el Juez ordenará las medidas tutelares conducentes al aseguramiento de la persona y bienes del señalado como incapacitado; ordenará que la persona que auxilie a aquél de cuya interdicción se trata lo ponga a disposición de los médicos alienistas en el plazo de 72 horas para que sea sometido a examen; ordenará que el afectado sea oído personalmente o representado durante este procedimiento; y que la persona bajo cuya guarda se encuentra el indicado como incapaz se abstenga de disponer de los bienes del incapacitado siempre que, a la demanda se acompañe certificado de un médico alienista o informe fidedigno de la persona que lo auxilia u otro medio de convicción que justifique la necesidad de estas medidas.
+Como diligencias preventivas se practicarán las siguientes:
 
-II.- Los médicos que practiquen el examen deberán ser designados por el Juez y serán de preferencia alienistas. Dicho examen se hará en presencia del Juez, previa citación de la persona que hubiere pedido la interdicción y del Ministerio Público.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
-III.- Si del dictamen pericial resultare comprobada la incapacidad, o por lo menos hubiere duda fundada acerca de la capacidad de la persona cuya interdicción se pide, el Juez proveerá las siguientes medidas:
+I.- Recibida la demanda de interdicción, el Juez ordenará las medidas tutelares conducentes al aseguramiento de la persona y bienes del señalado como incapacitado; ordenará que la persona que auxilia a aquél de cuya interdicción se trata lo ponga a disposición de los médicos alienistas o especializados en el área de la medicina de la cual derive la incapacidad correspondientes (sic) para que sea sometido a examen; fijará fecha bajo su más estricta responsabilidad dentro de los quince días hábiles siguientes a su recepción para que el presunto interdictado sea examinado; ordenará que el afectado sea oído personalmente o representado durante este procedimiento; mandará recabar informe de la Secretaría General de Gobierno, sobre el registro de designación cautelar de la persona cuya interdicción se pide, la cual quedará obligada a dar respuesta en un plazo de tres días hábiles desde la recepción de la solicitud; y que la persona bajo cuya guarda se encuentra el indicado como incapaz se abstenga de disponer de los bienes del incapacitado siempre que, a la demanda se acompañe certificado de un médico alienista o especialista calificado, o informe fidedigno de la persona que lo auxilia u otro medio de convicción que justifique la necesidad de estas medidas.
 
-a).- Nombrar tutor y curador interinos, cargos que deberán recaer en las personas siguientes: si tuvieren la aptitud necesaria para desempeñarlos; padre, madre, cónyuge, hijos, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias. En caso de no haber ninguna de las personas indicadas o no siendo aptas para la tutela el Juez con todo escrúpulo deba nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencias con el solicitante de la declaración.
+El requisito antes señalado será omitido en aquellos casos en que se trate de una persona cuya incapacidad derive de enfermedad congénita o discapacidad adquirida durante el periodo de niñez, caso en el cual bastará con la presentación de resumen clínico o diagnóstico médico elaborado por médico especialista tratante de la discapacidad, y su ratificación ante el Juez.
 
-b).- Poner los bienes del presunto incapacitado bajo la administración del tutor interino. Los de la sociedad conyugal, si la hubiere, quedarán bajo la administración del otro cónyuge.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+II.- Serán tres los médicos alienistas o especialistas calificados, los que practiquen el reconocimiento médico al presunto incapaz, mismos que serán designados por el Juez y preferentemente de instituciones públicas oficiales de salud.
+
+Dicho examen se hará en presencia del Juez, previa citación de la persona que hubiere pedido la interdicción y del Ministerio Público, observándose lo dispuesto en los artículos 348, 349 y 423 de éste código.
+
+Cuando el promovente de la interdicción acredite al Juez, la carencia de recursos económicos para cubrir el pago del peritaje médico señalado en el artículo anterior, se nombrarán médicos alienistas o especialistas correspondientes, que pertenezcan al servicio médico público para que tome parte en la audiencia y se oigan sus dictámenes;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
+
+III.- Salvo en los casos en que la incapacidad derive de enfermedad congénita o discapacidad adquirida durante el periodo de niñez, si del dictamen pericial resultare comprobada la incapacidad, o por lo menos hubiere duda fundada acerca de la capacidad de la persona cuya interdicción se pide, el Juez proveerá las siguientes medidas:
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+a).- Nombrar tutor y curador con el carácter de interinos atendiendo a la designación que previamente hubiere hecho el incapaz y en caso contrario los cargos deberán recaer en las personas siguientes: si tuviere la aptitud necesaria para desempeñarlos; padre, madre, cónyuge, hijos, abuelos y hermanos del incapacitado.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+b).- Poner los bienes del presunto incapacitado bajo la administración del tutor interino. Los de la sociedad conyugal, si la hubiere, quedarán bajo la administración del otro cónyuge, siempre que no hubiera disposición en contrario.
 
 c).- Proveer legalmente de la patria potestad o tutela a las personas que tuvieren bajo su guarda al presunto incapacitado.
 
 De la resolución en que se dicten las providencias mencionadas en este artículo procede el recurso de apelación en el efecto devolutivo.
 
-IV.- Dictadas las providencias que establecen las fracciones anteriores se procederá a un segundo reconocimiento médico del presunto incapacitado, con peritos diferentes, en los mismos términos que los señalados por la fracción II. En caso de discrepancia con los peritos que rindieron el primer dictamen se practicará una junta de avenencia a la mayor brevedad posible y si no la hubiere el Juez designará peritos terceros en discordia.
+IV.- (DEROGADA, P.O. 5 DE ABRIL DE 2014)
 
-V.- Hecho lo anterior el Juez citará a una audiencia, en la cual, si estuvieren conformes el tutor y el Ministerio Público con el solicitante de la interdicción, dictará resolución declarando o no ésta.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+V.- Rendidos en la audiencia los dictámenes médicos y acreditada que fuera la incapacidad de la persona, con el acuerdo del promovente y del Ministerio Público, el Juez dictará resolución declarando o no la incapacidad de la persona en un plazo no mayor a diez días hábiles bajo su más estricta responsabilidad.
 
 Si en dicha audiencia hubiere oposición de parte, se sustanciará en juicio sumario con intervención del Ministerio Público.
 
@@ -5611,7 +5635,9 @@ ART. 904.- En el juicio a que se refiere el artículo anterior se observarán la
 
 I.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente, previa autorización judicial;
 
-II.- El estado de demencia puede probarse por testigos o documentos, pero en todo caso se requiere la certificación de tres médicos por lo menos, preferentemente alienistas, que en el Estado, de ser posible, pertenecerán al servicio médico legal. El tutor puede nombrar un médico para que tome parte en la audiencia y se oiga su dictamen;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+II.- El estado de incapacidad del mayor de edad puede probarse por cualquier medio idóneo de convicción pero en todo caso se requiere la certificación de tres médicos por lo menos preferentemente alienistas y tratándose de menores bastará con el resumen clínico elaborado por médico especialista tratante de la discapacidad que produjo la incapacidad y, que en el Estado, de ser posible, pertenezca al servicio médico público para que tome parte en la audiencia y se oiga su dictamen;
 
 III.- Si la sentencia de primera instancia fuere declaratoria de estado, proveerá el juez, aunque fuere apelada o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo la guarda del presunto incapacitado y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidado de la persona;
 
@@ -5619,11 +5645,21 @@ III.- Si la sentencia de primera instancia fuere declaratoria de estado, proveer
 
 IV.- El que promueva dolosamente el juicio de interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar por concepto de indemnización de cien a quinientos días de salario mínimo general vigente en el Estado al momento de su imposición, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
 
-V.- Luego que cause ejecutoria la sentencia de interdicción se proveerá a discernir el cargo al tutor propietario, en los términos de ley.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+V.- Luego que cause ejecutoria la sentencia de interdicción se proveerá a discernir el cargo al tutor propietario, en los términos de ley; y
 
-ART. 905.- Todo tutor, cualquiera que sea su clase, debe aceptar previamente y prestar las garantías exigidas por el Código Civil para que se le discierna el cargo, a no ser que la Ley lo exceptuare expresamente.
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2014)</small>
+
+VI.- El tutor interino deberá rendir cuenta al tutor definitivo con intervención del curador.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 904 BIS.- Las mismas reglas establecidas en los artículos anteriores serán observadas para el juicio que tenga por objeto hacer cesar la interdicción de una persona.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 905.- Todo tutor, salvo las disposiciones establecidas para el ejercicio de la tutela cautelar, debe aceptar previamente y prestar las garantías exigidas por el Código Civil para que se le discierna el cargo, a no ser que la Ley lo exceptuare expresamente.
 
 El tutor debe manifestar si acepta o no el cargo dentro de los cinco días que sigan a la notificación de su nombramiento. En igual término debe manifestar sus impedimentos o excusas, disfrutando de un día más por cada doscientos kilómetros que medien entre su domicilio y el lugar de la residencia del juez competente.
 
@@ -5635,7 +5671,9 @@ La aceptación o el transcurso de los términos en su caso, sin hacer manifestac
 
 ART. 906.- El menor podrá oponerse al nombramiento de tutor hecho por la persona que no siendo ascendiente, le haya instituído heredero o legatario, cuando tuviere dieciséis años o más.
 
-ART. 907.- Siempre que el tutor nombrado no reúna los requisitos que la ley exige para ser tutor o curador, el juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos por el Código Civil.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+
+ART. 907.- Siempre que el tutor nombrado no reúna los requisitos que la ley exige para ser tutor o curador y no existieran tutores sustitutos o habiéndolos no pudieran desempeñar su función, el Juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos por el Código Civil.
 
 ART. 908.- En los juzgados de primera instancia, bajo el cuidado y responsabilidad del titular y a disposición del consejo de tutelas, habrá un registro en que se pondrá testimonio simple de todos los discernimientos que se hicieren del cargo de tutor y curador.
 
@@ -6392,3 +6430,7 @@ P.O. 10 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- La Dirección General del Registro Civil del Estado, así como las Oficialías del Registro Civil de cada uno de los diez Municipios de la entidad, contarán con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto, para que adopten las medidas técnicas y administrativas a efecto de cumplimentar el mismo.
+
+P.O. 5 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
