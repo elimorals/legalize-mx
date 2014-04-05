@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2014-03-15"
+last_updated: "2014-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -4231,17 +4231,11 @@ AÑO 2003 2004 2005 2006
 
 BASE 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago del Impuesto Predial de los años anteriores y 2013, se les aplicará el cobro en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en el periodo y porcentaje siguiente:
-
-PERIÓDO Del 17 de noviembre de 2013 al 20 de diciembre de 2013
-
-BASE 0%
-
-Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Ayuntamiento celebren convenio para pago en parcialidades.
+Para el ejercicio fiscal 2014 se amplía el plazo de pronto pago por anualidad adelantada que establece el segundo párrafo del artículo 19 de esta Ley hasta el 16 de abril, concediéndoseles una bonificación del 10 por ciento, sin que se generen recargos y multas.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -4418,3 +4412,7 @@ P.O. 22 DE FEBRERO DE 2014.
 P.O. 15 DE MARZO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación, debiendo publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
