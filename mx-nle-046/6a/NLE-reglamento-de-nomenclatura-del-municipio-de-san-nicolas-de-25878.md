@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-nomenclatura-del-municipio-de-san-nicolas-de-2587
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-11-19"
-last_updated: "1993-11-19"
+last_updated: "2014-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25878&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 19 de noviembre de 1993.
 
@@ -49,7 +49,9 @@ Queda reservada al H. Ayuntamiento Municipal, la facultad de decidir las denomin
 
 Serán principios de observancia obligatoria en esta materia los siguientes:
 
-I. No asignar el nombre de personas vivas, a ningún bien del Dominio Público Municipal.
+> <small>(REFORMADA, P. O. 7 DE ABRIL DE 2014)</small>
+
+I. Se podrá asignar el nombre de personas vivas o fallecidas a cualquier bien del Dominio Público Municipal, siempre y cuando hayan sido personas con destacada trayectoria para el engrandecimiento del Municipio.
 
 II. Observar en todos los casos el procedimiento establecido en este Reglamento.
 
@@ -126,3 +128,13 @@ SEGUNDO.- Las vías publicas como áreas verdes, edificios, monumentos y demás 
 Es dado en el Salón de Sesiones del R. Ayuntamiento de San Nicolás de los Garza, Nuevo León, a los dieciocho días del mes de Septiembre de mil novecientos noventa y tres.
 
 Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en dicho órgano y se le dé el debido cumplimiento. C. JESÚS HINOJOSA TIJERINA, PRESIDENTE MUNICIPAL; C. ING. EDUARDO ARIAS APARICIO, SECRETARIO DEL R. AYUNTAMIENTO. RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P. O. 7 DE ABRIL DE 2014.
+
+PRIMERO: Se aprueba la reforma por modificación al Reglamento del Servicio de Limpieza Municipal de San Nicolás de los Garza, Nuevo León en la forma y términos señalados.
+
+SEGUNDO: La reforma por modificación al Reglamento del Servicio de Limpieza Municipal de San Nicolás de los Garza, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+TERCERO: Gírense las instrucciones al Secretario del R. Ayuntamiento para el exacto cumplimiento del presente acuerdo.
