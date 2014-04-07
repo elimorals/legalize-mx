@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-alternativa-para-el-estado-de-quintana-roo-7263
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-16"
-last_updated: "2011-03-22"
+last_updated: "2014-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 7 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2014 (ABROGADA).
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2009.
 
@@ -565,7 +567,7 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EDUARDO OVANDO MARTINEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE MARZO DE 2011.
 
@@ -574,3 +576,17 @@ PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación
 SEGUNDO.- El Centro Estatal de Justicia Alternativa del Estado de Quintana Roo, dentro del término de 60 días naturales a partir de la entrada en vigor de la presente ley, deberá realizar las adecuaciones normativas previstas en el reglamento interno y manual de procedimiento operativo del Centro Estatal de Justicia Alternativa del Estado de Quintana (sic), para la implementación de los mecanismos en la Justicia Penal Restaurativa. Dentro del mismo plazo deberán ser presentados para su aprobación ante el Consejo de la Judicatura del Estado. Documentos que el Consejo deberá aprobar, a más tardar, dentro del término de 30 días hábiles siguientes a las de su presentación.
 
 TERCERO.- Se derogan las disposiciones que se opongan a la presente ley.
+
+P.O. 7 DE ABRIL DE 2014.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Queda abrogada la Ley de Justicia Alternativa para el Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo el día 16 de diciembre de 2009.
+
+TERCERO. El Consejo de la Judicatura del Poder Judicial del Estado en un plazo no mayor a sesenta días contados a partir de la entrada en vigor de la presente ley, deberá emitir el reglamento de la ley y el manual procedimental del Centro de Justicia Alternativa del Estado.
+
+CUARTO. Se derogan las disposiciones que se opongan a la presente ley.
+
+QUINTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente ley, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos.
+
+SEXTO. Las disposiciones relativas a los mecanismos alternativos de solución de controversias en el sistema penal acusatorio a que se refiere esta ley quedarán derogadas cuando en el Estado inicie la vigencia de la legislación única en materia de mecanismos alternativos de solución de controversias que expida el Congreso de la Unión.
