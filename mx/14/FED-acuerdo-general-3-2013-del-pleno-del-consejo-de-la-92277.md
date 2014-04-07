@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2014-02-27"
+last_updated: "2014-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -185,7 +185,7 @@ VII. SEPTIMO CIRCUITO:
 
 > <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO 37/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
 
-3. Dieciséis juzgados de Distrito en el Estado de Veracruz, dos especializados en Procesos Penales Federales, con residencia en Villa Aldama; cuatro con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba".
+3. Dieciséis juzgados de Distrito en el Estado de Veracruz, dos especializados en Procesos Penales Federales, con residencia en Villa Aldama; cuatro con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba”.
 
 VIII. OCTAVO CIRCUITO:
 
@@ -271,7 +271,9 @@ XVI. DECIMOSEXTO CIRCUITO:
 
 2. Tres tribunales unitarios con sede en Guanajuato.
 
-3. Diez juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León, tres con residencia en Celaya y dos con sede en Irapuato.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 7/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE ABRIL DE 2014)</small>
+
+3. Once juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, cuatro con sede en León, tres con residencia en Celaya y dos con sede en Irapuato.
 
 XVII. DECIMOSEPTIMO CIRCUITO:
 
@@ -1066,5 +1068,13 @@ D.O.F. 27 DE FEBRERO DE 2014.
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 53/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 7 DE ABRIL DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
