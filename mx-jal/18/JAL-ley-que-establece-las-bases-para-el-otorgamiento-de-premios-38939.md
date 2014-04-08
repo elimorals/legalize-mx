@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2012-03-06"
+last_updated: "2014-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -101,7 +101,9 @@ I. Secretaría de Educación;
 
 II. Secretaría de Cultura;
 
-III. Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+III. Secretaría de Planeación, Administración y Finanzas;
 
 IV. Universidad de Guadalajara;
 
@@ -391,7 +393,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE FEBRERO DE 2005.
 
@@ -415,8 +417,12 @@ DECRETO No. 23972/LIX/12 POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 3 DE LA
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
+P.O. 6 DE MARZO DE 2012.
+
 DECRETO No. 23974/LIX/12 POR LO QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 9.º DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO.
 
-P.O. 6 DE MARZO DE 2012.
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
