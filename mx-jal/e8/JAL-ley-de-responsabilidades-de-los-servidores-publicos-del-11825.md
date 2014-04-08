@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2013-12-03"
+last_updated: "2014-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -815,11 +815,17 @@ XXXIV. Informar al área de recursos humanos o quien haga sus veces, dentro de l
 
 XXXV. Responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
 
-A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar, a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa, y
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2012)</small>
+A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado de Jalisco podrá llamar, a los servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa;
 
-XXXVII (sic). Las demás que le impongan las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XXXVII (SIC). Abstenerse de realizar la enajenación o donación de cualquier bien del dominio privado durante los últimos seis meses de la Administración Pública Municipal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2014)</small>
+
+XXXVIII. Las demás que le impongan las leyes y reglamentos.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1656,3 +1662,7 @@ SEXTO. Los procedimientos penales iniciados a la luz del artículo 298 fraccione
 P.O. 3 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día primero de enero de 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
