@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2013-12-26"
+last_updated: "2014-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "JAL"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 9 DE MAYO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -686,11 +688,15 @@ ARTICULO 68 bis.- En los procedimientos en que intervengan personas que aleguen 
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2009)</small>
 
-ARTICULO 68 ter.- Los agentes de la Procuraduría Social intervendrán en todos los juicios en los que:
+ARTICULO 68 TER.- Los agentes de la Procuraduría Social intervendrán en todos los juicios en los que:
 
 I. Se afecten los intereses sociales;
 
-II. Se afecte a la persona, bienes o derechos de menores, incapaces, adultos mayores o ausentes, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+II. Se afecte a la persona, bienes o derechos de menores, incapaces, adultos mayores, ausentes o personas con discapacidad; y
 
 III. En todos los casos que dispusiere la ley.
 
@@ -708,9 +714,11 @@ Los jueces y magistrados a quienes corresponda, presidirán todos los actos de p
 
 Toda diligencia judicial de audiencia, se asentará en un acta circunstanciada, en la que se deberá de hacer constar que se dio fe de conocimiento o de los medios sustitutos que se utilizaron para identificar a los comparecientes.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando no se conozca a los comparecientes, y siempre que no fuese posible su identificación por algún medio fehaciente, como documentos oficiales expedidos por autoridades federales, estatales, municipales, u organismos paraestatales, descentralizados o similares, se citará al Agente de la Procuraduría Social y a juicio del juzgador, intervendrán dos testigos, conocidos o identificados por aquél, que certifiquen la identidad de dichos comparecientes.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+Cuando no se conozca a los comparecientes, y siempre que no fuese posible su identificación por medio de documentos oficiales, se le identificará por dos testigos propuestos por aquél, que manifestarán bajo protesta de decir verdad, la identidad del compareciente.
 
 El servidor público judicial podrá dar fe de conocimiento en los términos antes citados, cuando el compareciente, se hubiere identificado ante él con los documentos indicados en el párrafo anterior.
 
@@ -1032,9 +1040,13 @@ II.- Los anteriores respecto de los cuales, protestando decir verdad, asevere la
 
 III.- Los que no hayan sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada y siempre que se hubiere hecho oportunamente la designación expresada en el penúltimo párrafo del artículo 90 de este código.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 93 bis.- Los documentos que no tengan el carácter de fundatorios, deberán ser presentados dentro del término de ofrecimiento de pruebas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
+ARTICULO 93 BIS.- Los documentos que tengan el carácter de probatorios deberán ser presentados con el escrito inicial de demanda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 Después de este período no podrán admitirse sino los que dentro del término hubieren sido pedidos con anterioridad y no fueren remitidos al juzgado, sino hasta después; y los documentos justificativos de hechos ocurridos con posterioridad o de los anteriores cuya existencia ignore el que los presente, aseverándolo así bajo protesta de decir verdad.
 
@@ -1074,11 +1086,13 @@ De los Exhortos y Despachos.
 
 Los exhortos y despachos que reciban las autoridades judiciales del Estado, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los cinco días inmediatos, a no ser que lo que haya de practicarse exija necesariamente mayor tiempo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 100.
 
-Las diligencias que no puedan practicarse en el partido judicial en que se siga el juicio, deberán encomendarse al tribunal de aquél en que han de ejecutarse.
+Las diligencias que no puedan practicarse en el partido judicial en que se siga el juicio, deberán encomendarse al tribunal de aquel en que han de ejecutarse de conformidad con este Código.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2152,6 +2166,38 @@ De la Separación de Personas como Acto Prejudicial.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
 
+#### Sección Primera Bis. De la Declaración de Parte
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+ARTICULO 328 BIS.- La declaración de parte es la deposición que realiza el actor o demandado y que sea hecha respecto a los puntos de controversia en el juicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+ARTICULO 328 TER.- Las partes podrán pedir desde la demanda o su contestación, por una sola vez, que la contraparte se presente a declarar personalmente y no mediante apoderado sobre los interrogatorios que por anticipado o en el acto de la diligencia se le formulen.
+
+Están obligadas a declarar las mismas personas que están obligadas a absolver posiciones.
+
+Para esta probanza los interrogatorios podrán formularse libremente sin más limitación que las preguntas se refieran a los hechos objeto del debate.
+
+Las preguntas podrán ser abiertas y podrán referirse a hechos no propios, con tal de que el que declare tenga conocimiento de los mismos.
+
+La declaración oficial de las partes se recibirá de acuerdo con las siguientes reglas:
+
+I. Podrá recibirse con independencia de la prueba de posiciones;
+
+II. El interrogatorio podrá ser formulado por escrito al momento de ofrecer las pruebas, o en forma oral al momento de su desahogo; y
+
+III. En caso de incomparecencia se tendrán por reconocidos los hechos a que se refieran las preguntas.
+
+Sección 2a.
+
+De los Documentos.
+
 ###### ARTICULO 221.
 
 Cuando alguno de los cónyuges, intente, o fuese a intentar demanda, querella o denuncia, puede solicitar la separación al Juez, acreditando por los medios permitidos a su alcance, la urgencia y necesidad de la medida. Dicha autoridad, desde luego, dispondrá las medidas necesarias para que el cónyuge que tuviere el cuidado del hogar y de los hijos siga habitando la casa conyugal y prevendrá al otro cónyuge que señale el domicilio donde deberá habitar durante el curso del procedimiento respectivo.
@@ -2548,7 +2594,11 @@ V.- Originar el interés legal en las obligaciones pecuniarias sin causa de réd
 
 Siempre que conforme a la Ley deba denunciarse el juicio a un tercero para que le perjudique la sentencia que en él se dicte, el demandado, al contestar la demanda, pedirá al juez que se haga la denuncia, señalando el nombre y el domicilio donde deba ser emplazado el tercero. Con la petición presentará copia del escrito de denuncia, así como de la demanda y de los documentos con los que se le corrió traslado.
 
-Con la petición y los documentos antes señalados el juez mandará llamar al tercero, emplazándolo para que en un término de ocho días si el juicio fuere ordinario y cinco si el juicio fuera sumario, salga al juicio y apercibiéndolo que de no hacerlo le perjudicará la sentencia que se dicte.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+El juez mandará llamar al tercero, emplazándolo para que en un término de ocho días si el juicio fuere ordinario y cinco si el juicio fuera sumario, salga al juicio observándose lo prevenido para la contestación de la demanda y apercibiéndolo que, de no hacerlo, le perjudicará la sentencia que se dicte.
 
 En su caso, deberán observarse las disposiciones relativas al nombramiento de un representante común.
 
@@ -2590,17 +2640,31 @@ Si fueren varios los demandados y propusieren diferentes excepciones dilatorias,
 
 Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria que no fuere de previo pronunciamiento, se abstendrá el Juez de fallar la cuestión principal, reservando el derecho al actor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 279.
 
-Transcurrido el término del emplazamiento sin haber sido contestada la demanda, se hará la declaración de rebeldía, se abrirá el término de ofrecimiento de pruebas y se observarán las prescripciones del Título Duodécimo, Capítulo I de este código.
+Trascurrido el término del emplazamiento sin haber sido contestada la demanda, se hará la declaración de rebeldía y se observarán las prescripciones del capítulo I del Título Décimo Segundo de este Código.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2011)</small>
 
 Para hacer la declaración de rebeldía, el Juez examinará de oficio y de manera exhaustiva si las citaciones, notificaciones y emplazamientos fueron hechas al demandado en la forma establecida por este código caso contrario, deberá reponer el procedimiento sin esperar al dictado de la sentencia.
 
 Se presumen confesados los hechos de la demanda que se dejó de contestar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
+
+Realizada la declaración de rebeldía, el juez de oficio citará a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto, sin que la celebración de la audiencia de conciliación prevista por este Código suspenda este plazo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
+
+Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas ofertadas, primero las de la parte actora, posteriormente las del demandado y, una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes para oír sentencia, misma que deberá ser dictada dentro de los treinta días siguientes.
 
 ###### ARTICULO 280.
 
@@ -2624,25 +2688,45 @@ Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se p
 
 De la Audiencia de Conciliación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
+ARTICULO 282 BIS.- Contestada que sea la demanda y, en su caso, la reconvención, el juez de oficio deberá citar a las partes a una audiencia conciliatoria que se verificará por una sola vez dentro de los quince días siguientes, sin que se suspenda el procedimiento ni los términos que estén corriendo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+Al citar a las partes a esta audiencia, se les apercibirá que, en caso de no asistir con justa causa, se les impondrá una multa hasta por el equivalente a ciento veinte días de salario mínimo. Las partes deberán comparecer personalmente o a través de representante facultado para cumplimentar el fin de la audiencia.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-ARTICULO 282 bis.- Contestada que sea la demanda y en su caso, la reconvención, el juez de oficio deberá citar a las partes a una audiencia conciliatoria que se verificará dentro de los quince días siguientes, sin que se suspenda el procedimiento ni los términos que estén corriendo.
-
-Al citar a las partes a esta audiencia, se les apercibirá que en caso de no asistir con justa causa, se les impondrá una multa hasta por el equivalente a 120 días de salario mínimo, multa que se duplicará en caso de reincidencia. Las partes deberán comparecer personalmente o a través de representante facultado para cumplimentar el fin de la audiencia.
 
 La audiencia la presidirá el Secretario Conciliador o quien haga sus veces, el que deberá cuidar siempre que se mantenga el buen orden y previa identificación de los comparecientes, exhortará a las partes a conciliar sus intereses y llegar a un convenio.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 En esta audiencia se concederá el uso de la palabra primero al actor y después al demandado y en su caso al tercero si lo hubiere, no se admitirán pruebas, ni preguntas que tiendan a acreditar o demostrar algún punto controvertido en el juicio.
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 1995)</small>
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
 En el caso de que las partes lleguen a un convenio, se asentará éste en el acta que se levante, pasándolo con el juez que conoce de los autos para su aprobación o reprobación dentro del término de tres días. Si el convenio no fuese aprobado por el juez, deberá expresar los motivos respectivos, lo que se hará del conocimiento de las partes en igual término debiendo darse vista a éstas para que dentro del mismo plazo señalado reconsideren los puntos desaprobados o manifiesten si insisten en el convenio original, de lo cual se dará vista al juez para que resuelva en definitiva, debiendo cuidar que no se afecten intereses de terceros.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 Aprobado el convenio se elevará éste a la categoría de sentencia ejecutoriada.
 
-De no ser posible conciliar los intereses de las partes, porque así se hubiere manifestado, porque alguna de ellas no hubiere asistido a dos audiencias conciliatorias en forma consecutiva, o porque el juez no aprobó el convenio presentado por las partes, se asentará razón en el acta que se levante, con lo cual se dará por concluida la etapa conciliatoria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+De no ser posible conciliar los intereses de las partes, porque así se hubiere manifestado, porque alguna de ellas no hubiere asistido a la misma o porque el juez no aprobó el convenio presentado por las partes, se asentará razón en el acta que se levante, con lo cual se dará por concluida la etapa conciliatoria.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 La resolución que aprueba el convenio no admite recurso, la que la niegue, será apelable en ambos efectos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 La aprobación y ejecución del convenio en su caso, no estará sujeto al pago de ningún impuesto o derecho de índole estatal.
 
@@ -2694,11 +2778,15 @@ ARTICULO 289 bis.- El tribunal aplicará el derecho extranjero tal como lo harí
 
 Para informarse del texto, vigencia, sentido y alcance legal del derecho extranjero, el tribunal podrá valerse de informes oficiales al respecto, pudiendo solicitarlos al Servicio Exterior Mexicano, o bien ordenar o admitir las diligencias probatorias que considere necesarias o que ofrezcan las partes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 290.
 
-Después de la contestación de la demanda o, en su caso, de contestado el escrito en que se proponga compensación o reconvención, la denuncia del pleito a un tercero, o el acuse de rebeldía, el juez, de oficio o a petición de parte, concederá un término de diez días para el ofrecimiento de pruebas.
+Después de la contestación de la demanda o, en su caso, de contestado el escrito en que se proponga compensación o reconvención, la denuncia del pleito a un tercero, y una vez desahogada la audiencia prevista por el artículo 282 bis, el juez deberá citar a la audiencia de pruebas y alegatos, la que tendrá verificativo dentro de los treinta días posteriores a la petición.
+
+La audiencia será oral y una vez abierta se procederá al desahogo, por su orden, de las pruebas ofertadas, primero las de la parte actora, posteriormente las del demandado y, una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes para oír sentencia, misma que deberá ser dictada dentro del término legal.
 
 El auto en que se ordene que el negocio se reciba a prueba, no admite recurso, aquél en que se niegue será apelable en ambos efectos si lo fuere la sentencia definitiva.
 
@@ -2736,17 +2824,19 @@ Cuando con causa justificada alguno se oponga a exhibir documentos o cosas que t
 
 Las pruebas deberán ser ofrecidas relacionándolas con cada uno de los puntos controvertidos, señalando el nombre y domicilio de los testigos, y pidiendo la citación de la contraparte para absolver posiciones. La omisión de lo anterior será causa para no admitir las propuestas. No será necesario declarar el nombre y domicilio de los testigos, cuando las partes por sí mismas ofrezcan presentarlos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 296.
 
-Las partes deberán ofrecer sus pruebas dentro del término señalado en el artículo 290 de este código, mismo que se contará a partir del día siguiente en que se notifique la resolución correspondiente.
+(DEROGADO, P.O. 8 DE ABRIL DE 2014)
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 297.
 
-Al día siguiente en que termine el período de ofrecimiento de pruebas, el Juez dictará resolución en la que determinará las que se admitan sobre cada hecho, pudiendo señalar día y hora para el desahogo de una o todas, sucesivamente y sin que la imposibilidad de rendir una de ellas impida la recepción de las restantes; igualmente podrá limitar el número de testigos prudencialmente.
+En la audiencia de pruebas y alegatos, el juez señalará las que se admitan sobre cada hecho, teniendo por desahogadas aquellas que no requieran preparación especial y señalando, en su caso, el día y hora en que tendrán desahogo las que así lo requieran. Una vez ofrecidas las pruebas, solamente serán admitidas aquellas que tengan el carácter de supervenientes. En ningún caso la imposibilidad de rendir una de ellas impedirá la recepción de las restantes; igualmente podrá limitar el número de testigos prudencialmente.
 
 No se admitirán diligencias de prueba contra derecho, contra la moral, o sobre hechos que no hayan sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles.
 
@@ -2768,7 +2858,11 @@ VI.- Declaraciones de testigos;
 
 VII.- Fotografías, copias fotostáticas, registros dactiloscópicos, y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia;
 
-VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1994)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2014)</small>
+
+VIII.- La declaración de parte;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2788,15 +2882,13 @@ Siempre que las partes ofrezcan cualquier otro medio de prueba distinto de los n
 
 Del Término Probatorio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 299.
 
-El término probatorio es ordinario, extraordinario ó supletorio. El ordinario será de cuarenta y cinco días improrrogables. Para el término extraordinario se estará a lo dispuesto por el artículo 302 de este código.
+(DEROGADO, P.O. 8 DE ABRIL DE 2014)
 
-El término probatorio se abrirá por proveído expreso siempre que hubiese concluido el concedido para el ofrecimiento de pruebas a las partes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 300.
 
@@ -2832,31 +2924,37 @@ El litigante a quien se hubiese concedido la dilación extraordinaria y no rindi
 
 El término extraordinario de prueba será:
 
-I.- De hasta sesenta días, si las pruebas para las que se solicitó hubieren de practicarse dentro del territorio nacional y fuera del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+I.- De hasta sesenta días, si las pruebas para las que se solicitó hubieren de practicarse dentro del territorio del Estado; y
 
 II.- De hasta ciento veinte días si hubieren de practicarse en cualquiera otra parte.
 
 Para la fijación de los términos antes establecidos, el juez atenderá a la distancia, dificultad de las comunicaciones y demás circunstancias especiales invocadas por el oferente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 303.
 
-Después de concluido el término ordinario, no se recibirá prueba alguna que no fuere aquélla para cuya recepción se concedió el término extraordinario.
+Una vez concluido el desahogo de las pruebas materia del término extraordinario, en los supuestos del artículo anterior, el juez ordenará la continuación de la audiencia prevista por el artículo 290 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El término extraordinario correrá desde el día siguiente a la notificación del proveído que lo conceda y concluirá luego que se rindan aquéllas para las que se pidió, aunque no haya expirado el plazo señalado. Esto sin perjuicio de que el ordinario se de por concluido al finalizar el plazo legal que le corresponde.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 304.
 
-Ni el término ordinario ni el extraordinario podrán suspenderse ni ampliarse, ni aún por el consentimiento común de los interesados, pero los tribunales podrán dar por concluido el ordinario en forma anticipada, siempre que estén desahogadas todas las pruebas admitidas a las partes o no hubiese sido admitida prueba alguna. Sólo causas muy graves, a juicio del juez y bajo su responsabilidad, podrán producir la suspensión.
+La audiencia de pruebas no podrá suspenderse ni ampliarse, ni aún por el consentimiento común de los interesados. Solo causas muy graves, a juicio del juez y bajo su responsabilidad, cuando sea necesario el desahogo de pruebas técnicas, exista caso fortuito, fuerza mayor o dolo en el colitigante, podrán producir la suspensión de la audiencia de pruebas, señalándose nueva fecha para su continuación dentro de los quince días siguientes con la prevención al oferente para que realice todas las gestiones necesarias para que éstas se desahoguen en dicho término, bajo el apercibimiento de declarar desierta la prueba en caso de incumplimiento, continuando con la audiencia de pruebas hasta su conclusión.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 305.
 
-Las diligencias de prueba sólo podrán practicarse dentro del término probatorio bajo pena de nulidad y de responsabilidad del juez. Se exceptúan aquellas diligencias que, pedidas en tiempo legal, no hubieren podido practicarse por causas independientes del interesado, caso fortuito, fuerza mayor o dolo en el colitigante; en estos casos el juez, si lo cree conveniente, podrá mandarlas concluir, dando conocimiento de ellas a las partes y señalando al efecto, por una sola vez, un término prudente, previniendo al oferente para que realice todas las gestiones necesarias para que éstas se desahoguen en dicho término, bajo el apercibimiento de declarar desierta la prueba en caso de incumplimiento.
+(DEROGADO, P.O. 8 DE ABRIL DE 2014)
 
 ###### ARTICULO 306.
 
@@ -3026,9 +3124,9 @@ Se tendrá por confeso al articulante respecto de los hechos que afirmare en las
 
 Las autoridades, las corporaciones oficiales y los establecimientos que forman parte de la administración pública, no absolverán posiciones en la forma que establecen los artículos anteriores; pero la parte contraria podrá pedir que se les libre oficio, insertando las posiciones que quiera hacerles para que, por vía de informe, sean contestadas dentro del término que designe el tribunal, que no excederá de ocho días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro del término que se le hubiere fijado, o si no lo hiciere categóricamente, afirmando o negando los hechos.
 
-Sección 2a.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-De los Documentos.
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 329.
 
@@ -3642,9 +3740,21 @@ Las presunciones legales de que trata el artículo 390, hacen prueba plena.
 
 Las demás presunciones legales hacen prueba plena, mientras no se pruebe lo contrario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 416.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
+La declaración de parte hace prueba plena cuando concurren en ella las siguientes condiciones:
+
+I. Que sea hecha por persona capaz de obligarse;
+
+II. Que sea hecha con pleno conocimiento y sin coacción ni violencia;
+
+III. Que sea de hecho propio o del que tenga conocimiento y concerniente al negocio; y
+
+IV. Que se haga conforme a las prescripciones de la Ley.
 
 ###### ARTICULO 417.
 
@@ -3662,11 +3772,11 @@ La valorización de las pruebas se hará de acuerdo con el presente Capítulo, a
 
 De los Alegatos y Citación para Sentencia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 419.
 
-En la resolución en que se de por concluida la recepción de las pruebas ofrecidas, se mandarán poner los autos a disposición de las partes en la Secretaría del juzgado, para que dentro de los cinco días siguientes de aquél en que se les notifique tal proveído, aleguen lo que en su derecho corresponda. Dicho acuerdo surtirá efectos de citación para sentencia, la que se pronunciará dentro de los 30 días siguientes.
+(DEROGADO, P.O. 8 DE ABRIL DE 2014)
 
 ### CAPITULO VII.
 
@@ -3771,6 +3881,12 @@ IV. Exhibir una copia del escrito para correr traslado del mismo a cada una de l
 V. Abstenerse de denostar a la autoridad, de lo contrario quedará sujeto a la sanción prevista en el artículo 72 de este código;
 
 VI. Señalar domicilio para recibir notificaciones en segunda instancia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
+
+En materia familiar, cuando sea en beneficio de menores, o incapacitados, o personas con discapacidad, el Tribunal de Apelación deberá suplir la deficiencia de los conceptos de agravio expresados
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -4022,19 +4138,15 @@ La falta o deficiencia del informe con justificación, establece la presunción 
 
 De la Revisión de Oficio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 457.
 
-Las sentencias que se dicten en los juicios sobre nulificación, anotación, rectificación, reposición y de convalidación de actas del Registro Civil, en los términos que prevé el Código Civil, así como las que se pronuncien en los juicios de divorcio necesario o de nulidad de matrimonio y siempre que hubiese prosperado, parcial o totalmente, la acción ejercitada, serán revisadas de oficio por la sala que corresponda del Supremo Tribunal de Justicia, con intervención del Agente de la Procuraduría Social, y aun cuando se promueva apelación, mientras el tribunal examina la legalidad del fallo, quedará en suspenso de ejecución.
+Las sentencias que se dicten en los juicios sobre nulificación, anotación, rectificación, reposición y de convalidación de actas del Registro Civil, en los términos que prevé el Código Civil, así como las que se pronuncien en los juicios de divorcio necesario o de nulidad de matrimonio y siempre que hubiese prosperado, parcial o totalmente, la acción ejercitada, cuando no se promueva apelación, el juez ordenará la publicación de un extracto de las proposiciones contenidas en la sentencia pronunciada, por una sola vez, en el periódico oficial El Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-El juez que pronuncie sentencia en los términos antes indicados, transcurrido el término que tienen las partes para apelar las mismas, remitirá los autos y documentos originales, a la sala que corresponda la revisión de su sentencia.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-Cuando no exista promovido recurso de apelación, las revisiones se tramitarán y resolverán por la sala sin sustanciación alguna dentro del término improrrogable de 30 días; en caso contrario, ésta la tramitará y resolverá juntamente con la apelación interpuesta.
+La prescripción del derecho de terceros que consideren tener interés legítimo en la acción deducida en el juicio se regirá conforme al artículo 1740 del Código Civil del Estado de Jalisco, contándose a partir de la fecha de publicación del extracto referido en este artículo.
 
 ###### ARTICULO 458.
 
@@ -5236,17 +5348,35 @@ El auto de emplazamiento bajo la responsabilidad del juez y del secretario, se d
 
 El mismo día deberá notificarse el auto en el domicilio que se indique en la demanda o en el lugar que señale, aún verbalmente, el interesado. Este tendrá derecho de acompañar al notificador para hacerle las indicaciones que faciliten la diligencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 623.
 
-(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
+El actor deberá acompañar a su escrito inicial de demanda, los documentos tendientes a la justificación de su acción y ofrecer los medios de convicción que considere oportunos. De la misma manera, al momento de la contestación de la demanda, la contraparte deberá aportar los medios de convicción pertinentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 624.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
+El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
+
+Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
+
+Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 625.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
+La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, cuando la causa del diferimiento sea la imposibilidad de desahogar en ese momento alguna prueba.
+
+El juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 ###### ARTICULO 626.
 
@@ -5676,19 +5806,19 @@ V.- En caso de muerte del comodatario o cuando así lo solicite el comodante si 
 
 Para que surta efectos de oposición del arrendador a la continuación de la ocupación del inmueble por el arrendatario, la demanda en que se ejercite la acción de terminación de contrato por tiempo definido deberá presentarse dentro de los treinta días naturales siguientes al vencimiento del mismo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 685.
 
-En cualquiera de los supuestos del artículo 683, el actor deberá acompañar a su escrito inicial de demanda, los documentos tendientes a la justificación de su acción y ofrecer los medios de convicción que considere oportunos. De la misma manera, al momento de la contestación de la demanda, la contraparte deberá aportar los medios de convicción pertinentes.
+Recibida la demanda en la que se reclame el pago de rentas vencidas con los documentos que justifiquen la celebración del arrendamiento, si lo pide el actor, el juez dictará auto con efectos de cateo disponiendo se requiera al demandado para que en el acto de la diligencia, compruebe con los documentos respectivos, estar al corriente en el pago de las rentas, y si no lo hiciera se le embarguen bienes bastantes para cubrir las pensiones y costas reclamadas y acto continuo se le emplazará para que en el término de cinco días dé contestación a la demanda.
 
-Recibida la demanda en la que se reclame el pago de rentas vencidas con los documentos que justifiquen la celebración del arrendamiento, si lo pide el actor, el juez dictará auto con efectos de cateo disponiendo se requiera al demandado para que en el acto de la diligencia, compruebe con los documentos respectivos, estar al corriente en el pago de las rentas, y si no lo hiciera se le embarguen bienes bastantes para cubrir las pensiones y costas reclamadas y acto continuo se le emplazará para que en el término de cinco días de contestación a la demanda.
+En los casos a que se refieren las fracciones I y II del artículo 683 de este Código, y siempre que exista contrato por escrito, el juez ordenará, a petición del actor, se requiera al arrendatario, a efecto de que acredite la legal ocupación del inmueble, prevenido que de no hacerlo, tendrá un plazo de sesenta días naturales para desocupar totalmente y entregar el inmueble, apercibiéndolo que de no realizarlas en el plazo concedido, se procederá al lanzamiento a su costa.
 
-En los casos a que se refieren las fracciones I y II del artículo 683, y siempre que exista contrato por escrito, el juez ordenará, a petición del actor, se requiera al arrendatario, a efecto de que acredite la legal ocupación del inmueble, prevenido que de no hacerlo, tendrá un plazo de sesenta días naturales para desocupar totalmente y entregar el inmueble, apercibiéndolo que de no realizarlas en el plazo concedido, se procederá al lanzamiento a su costa.
+La medida contenida en el párrafo anterior sólo podrá decretarse si el actor otorga garantía bastante para asegurar el pago de los daños y perjuicios que se pudieran ocasionar con la adopción de esta providencia.
 
-La medida contenida en el párrafo anterior, sólo podrá decretarse si el actor otorga garantía bastante para asegurar el pago de los daños y perjuicios que se pudieran ocasionar con la adopción de esta providencia.
-
-Cuando el arrendamiento se hubiere cumplido voluntariamente sin otorgarse el documento respectivo, o éste se hubiere perdido, previamente se justificará la existencia del contrato por cualesquiera de los medios de prueba que autoriza este código, el juez procederá como se previene en los párrafos anteriores.
+Cuando el arrendamiento se hubiere cumplido voluntariamente sin otorgarse el documento respectivo, o éste se hubiere perdido, previamente se justificará la existencia del contrato por cual quiera de los medios de prueba que autoriza este Código, el juez procederá como se previene en los párrafos anteriores.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -5698,23 +5828,13 @@ En el caso previsto por la fracción III del artículo 683, si en el acto de la 
 
 Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado exhibe el importe de las pensiones debidas, el juez dará por terminado el negocio sin condenación a costas. Si la exhibición del importe se realiza con posterioridad, el juez también dará por terminado el negocio, pero impondrá al arrendatario la condenación en costas, a menos que juntamente con la rescisión del contrato, se hubiere demandado la desocupación del inmueble por otra diversa causal, en cuyo caso continuará el procedimiento.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
+ARTICULO 686 BIS.- (DEROGADO, P.O. 8 DE ABRIL DE 2014)
 
-Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
+ARTICULO 686 TER.- (DEROGADO, P.O. 8 DE ABRIL DE 2014)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5944,25 +6064,17 @@ Cuando la sentencia decrete la demolición de la obra peligrosa, el Juez dispond
 
 De la Pérdida de la Patria Potestad.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 721 bis.- En el supuesto de la fracción VI del artículo 618 del Código de Procedimientos Civiles del Estado de Jalisco, el actor deberá acompañar a su escrito inicial de demanda los documentos tendientes a la justificación de su acción y ofrecer los medios de convicción que considere adecuados. De la misma manera, al momento de la contestación de la demanda, la contraparte deberá aportar los medios de convicción pertinentes.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-El juez debe citar a la audiencia de pruebas y alegatos, dentro de los quince días posteriores a la emisión del auto que declara la rebeldía, admite la contestación de la demanda o de la reconvención, en su caso; resolverá sobre la admisión de las pruebas, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
+ARTICULO 721 BIS.- En el supuesto de la fracción VI del artículo 618 del Código de Procedimientos Civiles del Estado de Jalisco, el juez, de oficio o a petición de parte, dictará las medidas que considere adecuadas para respetar la dignidad del menor y el ejercicio pleno de sus derechos, cuidando siempre que no se comprometa la seguridad física y el desarrollo emocional del mismo.
 
-En este mismo auto, y atendiendo a las circunstancias especiales del caso, el Juez debe dar cumplimiento a los (sic) dispuesto por el artículo 573 del Código Civil, así como ordenar la práctica de cualquiera de las diligencias para mejor proveer que señala el artículo 82, al igual que las previstas por los artículos 283 y 284 de esta Ley y que estime sean necesarias para conocer la verdad sobre los puntos controvertidos, velando siempre por el interés superior de la niñez.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En especial en tratándose de esta clase de juicios no se celebrará la audiencia conciliatoria prevista en el artículo 282 bis de este Código.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-ARTICULO 721 ter.- Abierta la audiencia se procederá al desahogo de las pruebas admitidas y de las ordenadas oficiosamente, una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada dentro de los quince días siguientes.
-
-Las partes podrán alegar verbalmente sin que los mismos se excedan de veinte minutos por cada parte.
-
-La audiencia podrá ser diferida, a criterio del Juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el Juez señalará nueva fecha para su celebración dentro de los cinco días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se le tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
+ARTICULO 721 TER.- Una vez desahogadas las pruebas, previo a dictar la resolución a que haya lugar, el juez deberá fijar día y hora para dar cumplimiento al artículo 573 del Código Civil del Estado de Jalisco.
 
 ## TITULO DECIMO SEGUNDO.
 
@@ -8991,3 +9103,9 @@ OCTAVO. Cuando otros ordenamientos legales del Estado de Jalisco se refieran a l
 NOVENO. La vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el Periódico Oficial "El Estado de Jalisco".
 
 DÉCIMO. Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.
+
+P.O. 8 DE ABRIL DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, deberán substanciarse conforme a las disposiciones vigentes en aquel momento.
