@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2012-03-13"
+last_updated: "2014-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -171,7 +171,9 @@ IV. Diseñar, operar y evaluar, en coordinación con la Secretaría de Educació
 
 V. Promover estrategias de financiamiento y programas de estímulos fiscales a personas físicas y jurídicas que destinen recursos a las actividades culturales que son objeto de esta ley, diseñando, inclusive, los mecanismos adecuados para expedir recibos deducibles de impuestos para apoyar el mecenazgo por particulares;
 
-VI. Promover ante la Secretaría de Desarrollo Urbano, la ampliación de infraestructura, construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas; así como encargarse de la conservación, equipamiento y de las mejoras físicas y tecnológicas de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+VI. Promover ante la Secretaría de Infraestructura y Obra Pública, la ampliación de infraestructura, construcción de espacios públicos con usos y destinos para el desarrollo de actividades culturales y artísticas; así como encargarse de la conservación, equipamiento y de las mejoras físicas y tecnológicas de espacios públicos con usos y destinos para el cumplimiento de los fines de la presente ley;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -281,9 +283,13 @@ a) La Secretaría de Educación;
 
 b) La Secretaría de Turismo;
 
-c) La Secretaría de Promoción Económica;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-d) La Secretaría de Desarrollo Urbano;
+c) La Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+d) La Secretaría de Infraestructura y Obra Pública;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -441,9 +447,13 @@ b) Secretaría de Educación;
 
 c) Secretaría de Turismo;
 
-d) Secretaría de Finanzas;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-e) Secretaría de Desarrollo Urbano;
+d) Secretaría de Planeación, Administración y Finanzas;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+e) Secretaría de Infraestructura y Obra Pública;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -837,7 +847,9 @@ I. Un representante de la Secretaría de Cultura;
 
 II. Un representante del Consejo Estatal para la Cultura y las Artes;
 
-III. Un representante de la Secretaría de Finanzas, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+III. Un representante de la Secretaría de Planeación, Administración y Finanzas; y
 
 IV. Un representante de la institución fiduciaria.
 
@@ -1002,3 +1014,7 @@ P.O. 13 DE MARZO DE 2012.
 PRIMERO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El Poder Ejecutivo del Estado tendrá un plazo no mayor de seis meses para constituir el fideicomiso y su reglamento, a partir de la entrada de vigor de esta ley.
+
+P.O. 8 DE ABRIL DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
