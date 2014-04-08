@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2013-10-08"
+last_updated: "2014-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -1953,9 +1953,23 @@ XI. Tener a su cargo los libros pertenecientes al Juzgado;
 
 XII. Custodiar el sello del juzgado;
 
-XIII. Organizar el archivo del juzgado; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV. Desempeñar todas las funciones que la ley y el reglamento determinen.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XIII. Organizar el archivo del juzgado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XIV. Llevar un registro diario de oficios y correspondencia diaria; de exhortos; de amparos; de entrega y recibo de expedientes al Archivo Judicial; de turno para sentencias; de registro de cédulas profesionales; así como de registro de valores; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XV. Desempeñar todas las funciones que la ley y el reglamento determinen.
 
 ###### Artículo 113.
 
@@ -3656,3 +3670,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En caso de presentarse solicitudes de haber por retiro durante el presente ejercicio fiscal sin que se haya fijado la partida correspondiente en el presupuesto anual, el Consejo de la Judicatura o los Presidentes de Tribunales, deberán realizar los trámites correspondientes ante la Secretaría de Planeación, Administración y Finanzas para pagar los haberes que por retiro se adeuden y correspondan, para lo cual se autoriza a ésta a realizar todas las acciones necesarias para el cumplimiento del presente decreto.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 8 DE ABRIL DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, deberán substanciarse conforme a las disposiciones vigentes en aquel momento.
