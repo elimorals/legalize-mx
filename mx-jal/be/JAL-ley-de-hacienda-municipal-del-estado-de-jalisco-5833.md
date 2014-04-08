@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2012-11-06"
+last_updated: "2014-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 6 DE NOVIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1929,13 +1927,17 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 Sólo podrán ser enajenados los bienes inmuebles municipales, en los casos previstos en la ley que establezca las bases generales de la administración pública municipal, o cuando resulten antieconómicos en su conservación y mantenimiento. Excepcionalmente, podrán ser donados dichos bienes a instituciones públicas oficiales, cuando éstos no sean indispensables para los fines del Ayuntamiento y que la obra, que se pretenda llevar a cabo en los mismos, represente un beneficio común para los habitantes del Municipio, conforme a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-I. La Tesorería Municipal, cuando lo acuerde el Ayuntamiento, formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará el producto de la venta; y
+I. La Tesorería Municipal, cuando lo acuerde el Ayuntamiento, formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará el producto de la venta;
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN III], P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-II. La venta se efectuará en subasta pública que anuncie y presida el Tesorero Municipal, con citación del Síndico del Ayuntamiento.
+II. La venta se efectuará en subasta pública que anuncie y presida el Tesorero Municipal, con citación del Síndico del Ayuntamiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2014)</small>
+
+III. No se puede realizar la enajenación o donación de ningún bien de dominio privado durante los últimos seis meses de la Administración Pública Municipal.
 
 Dichas enajenaciones, para que tengan validez jurídica, deberán ser aprobadas por el Gobierno Municipal, en sesión de Ayuntamiento, conforme a la ley.
 
@@ -3604,3 +3606,7 @@ SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organism
 P.O. 23 DE AGOSTO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
