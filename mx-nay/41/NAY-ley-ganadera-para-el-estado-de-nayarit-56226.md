@@ -4,7 +4,7 @@ identifier: "NAY-ley-ganadera-para-el-estado-de-nayarit-56226"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2013-03-16"
+last_updated: "2014-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY GANADERA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 4 de julio de 2007.
 
@@ -1001,67 +1001,93 @@ Cuando se conduzcan o transporten pieles de ganado orejano o cuya marca se hubie
 
 Las personas físicas y/o colectivas que se dediquen a comercializar, almacenar o curtir pieles, deben permitir el acceso a sus establecimientos al inspector de la localidad o a la autoridad que lo requiera, para identificar y comprobar la legal posesión de las pieles.
 
-## TÍTULO SÉPTIMO. DE LOS RASTROS Y SANIDAD ANIMAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2014)</small>
+
+## TÍTULO SÉPTIMO
+
+DE LOS RASTROS, UNIDADES DE SACRIFICIO Y DEMÁS ESTABLECIMIENTOS DEDICADOS AL PROCESAMIENTO O INDUSTRIALIZACIÓN DE BIENES DE ORIGEN ANIMAL PARA CONSUMO HUMANO Y LA SANIDAD ANIMAL
 
 ### CAPÍTULO I. SACRIFICIO DEL GANADO
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 121.
 
-Para efectos de inspección y vigilancia ganadera, la Secretaría, llevará el registro de los rastros que funcionan en el Estado, así como de sus condiciones sanitarias.
+Para efectos de inspección y vigilancia ganadera, la Secretaría llevará el registro de los rastros, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano que funcionan en el Estado, así como de sus condiciones sanitarias.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 122.
 
-Todos los rastros, empacadoras y lugares de matanza, deberán reunir los requisitos que señala la Ley de Salud para el Estado de Nayarit, los ordenamientos federales aplicables en la materia, y la presente ley.
+Todos los rastros, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, deberán reunir los requisitos que señala la Ley de Salud para el Estado de Nayarit, los ordenamientos federales aplicables en la materia, y la presente ley.
 
 ###### ARTÍCULO 123.
 
 El sacrificio de ganado para consumo público sólo podrá hacerse en lugares debidamente acondicionados y legalmente autorizados siendo indispensable la previa comprobación de la propiedad, presentar la guía de tránsito, el pago de los derechos respectivos y el certificado zoosanitario.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 124.
 
-La autorización para la apertura y operación de los rastros la proporcionará la autoridad municipal, quién será la responsable de que se cumplan los requerimientos mínimos marcados por las autoridades, leyes aplicables y por las NOM's con relación a las instalaciones y funcionamiento de este tipo de locales.
+La autorización para la apertura y operación de los rastros, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, la proporcionará la autoridad municipal, quién será la responsable de que se cumplan los requerimientos mínimos marcados por las autoridades, leyes aplicables y por las Normas Oficiales Mexicanas, con relación a las instalaciones y funcionamiento de este tipo de locales.
+
+La autoridad municipal podrá solicitar a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, así como a la Secretaría de Salud, ambas del Gobierno Federal, para que en el ámbito de sus respectivas competencias, lleven a cabo la inspección, verificación, supervisión y certificación de los rastros, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano.
+
+En tal caso, la autoridad municipal promoverá que los rastros, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, obtengan la certificación de calidad que otorga la autoridad federal.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 125.
 
-En todo rastro habrá un administrador nombrado por la autoridad municipal correspondiente, siendo su obligación vigilar el adecuado funcionamiento del lugar, la aplicación de las normas que en materia de sanidad estén vigentes y, los demás requisitos que para el sacrificio establezca la presente ley.
+En todo rastro, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, habrá un administrador nombrado por la autoridad municipal correspondiente, quien deberá vigilar el adecuado funcionamiento del lugar, la aplicación de las normas que en materia de sanidad estén vigentes, y los demás requisitos que para el sacrificio establezca la presente ley.
 
-Para la operación del rastro deberá contarse con atención de un médico veterinario zootecnista acreditado por la SAGARPA, que vigile que se cumplan las NOM's.
+Para la operación del rastro, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, se deberá contar durante las horas laborales, con el servicio de cuando menos un médico veterinario zootecnista acreditado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para fines de control de bienestar animal, de vigilancia epidemiológica, otras medidas zoosanitarias; de buenas prácticas pecuarias y de sustancias tóxicas y/o peligrosas, además de vigilar que se cumplan las Normas Oficiales Mexicanas en la materia.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 126.
 
-Para ser administrador de un rastro, es necesario que se reúnan los mismos requisitos que para ser inspector.
+Para ser administrador de un rastro, unidad de sacrificio o establecimiento dedicado al procesamiento o industrialización de bienes de origen animal para consumo humano, es necesario que se reúnan los mismos requisitos que para ser inspector.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 127.
 
-Los administradores de los rastros están obligados a llevar un libro autorizado por la Presidencia Municipal respectiva, en el que por número de orden y fecha anotarán la entrada de los animales al rastro, el del rancho o lugar de procedencia, especie, raza, número de arete, color, edad aproximada, fierros o señales, número y fecha de la guía de tránsito y/o certificado zoosanitario y el nombre de quien la expidió, los nombres del vendedor y el comprador, el introductor responsable, fecha de sacrificio, pago de derechos, así mismo, se reservará una columna para cualquier aclaración pertinente. Si por omisión, contravención o alteración de los requisitos anteriores se sacrificase ilegalmente algún animal o dejaren de pagarse los derechos correspondientes, el administrador o encargado del rastro será igualmente responsable, y consecuentemente se harán merecedores a la sanción o sanciones correspondientes.
+Los administradores de los rastros, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, están obligados a llevar un libro autorizado por la Presidencia Municipal respectiva, en el que por número de orden y fecha, anotarán la entrada de los animales a los establecimientos, el del rancho o lugar de procedencia, especie, raza, número de arete, color, edad aproximada, fierros o señales, número y fecha de la guía de tránsito y/o certificado zoosanitario y el nombre de quien la expidió, los nombres del vendedor y el comprador, el introductor responsable, fecha de sacrificio, pago de derechos, asimismo, se reservará una columna para cualquier aclaración pertinente. Si por omisión, contravención o alteración de los requisitos anteriores se sacrificase ilegalmente algún animal o dejaren de pagarse los derechos correspondientes, el administrador o encargado del rastro, unidad de sacrificio o del establecimiento dedicado al procesamiento o industrialización de bienes de origen animal para consumo humano, será igualmente responsable y, consecuentemente, se hará merecedor a la sanción o sanciones correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 128.
 
-Los libros de registros de los rastros y empacadoras, podrán ser revisados en cualquier tiempo por la autoridad municipal o por los inspectores, pudiendo hacer cualquiera de ellos las gestiones que procedan para remediar las irregularidades.
+Los libros de registros de los rastros, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, podrán ser revisados en cualquier tiempo por la autoridad municipal o por los inspectores, pudiendo hacer cualquiera de ellos las gestiones que procedan para remediar las irregularidades.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 129.
 
-La autoridad municipal por conducto del administrador del rastro municipal, tiene la obligación de reportar mensualmente a la Secretaría, el movimiento de ganado y sacrificios registrados con los datos de registro y estado de salud.
+La autoridad municipal por conducto del administrador del rastro municipal, unidad de sacrificio o del administrador o encargado del establecimiento dedicado al procesamiento o industrialización de bienes de origen animal para consumo humano, tiene la obligación de reportar mensualmente a la Secretaría, el movimiento de ganado y sacrificios registrados con los datos de registro y estado de salud.
 
 ###### ARTÍCULO 130.
 
 Queda prohibido el sacrificio de hembras gestantes aptas para la reproducción de la especie bovina, salvo aquéllas que los justifiquen por su baja calidad genética o por encontrarse inutilizadas.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 131.
 
-Cuando deba sacrificarse algún animal donde no haya rastro público, se destine a consumo doméstico o industrialización familiar, se deberá dar aviso al inspector más cercano para justificar la propiedad legal y recabar la inspección sanitaria por el Médico Veterinario habilitado legalmente por la autoridad municipal.
+Cuando deba sacrificarse algún animal donde no haya rastro público, unidad de sacrificio o establecimiento dedicado al procesamiento o industrialización de bienes de origen animal para consumo humano, se destine a consumo domestico o industrialización familiar, se deberá dar aviso al inspector más cercano para justificar la propiedad legal y recabar la inspección sanitaria por el Médico Veterinario habilitado legalmente por la autoridad municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 132.
 
-Los sellos para el marcado de carnes serán metálicos y de rodillo, para marcar las canales desde los cuartos traseros hasta la cabeza, con la denominación del rastro, el número oficial de registro, la ubicación del establecimiento y las palabras, según sea el caso:
+Los sellos para el marcado de carnes serán metálicos y de rodillo, para marcar las canales desde los cuartos traseros hasta la cabeza, con la denominación del rastro, unidad de sacrificio o establecimiento dedicado al procesamiento o industrialización de bienes de origen animal para consumo humano, el número oficial de registro, la ubicación del establecimiento y las palabras, según sea el caso:
 
 "Inspeccionado y Aprobado", "Inspeccionado y rechazado", "Decomisado".
 
-Las tintas empleadas serán iguales para todos los rastros, debiendo ser indelebles y no tóxicas.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+Las tintas empleadas serán iguales para todos los rastros, unidades de sacrificio o establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, debiendo ser indelebles y no tóxicas.
 
 ### CAPÍTULO II. ESTABLECIMIENTOS DE DISTRIBUCIÓN
 
@@ -1374,3 +1400,7 @@ Constitución Política del Estado y para su debida observancia, promulgo el pre
 P.O. 16 DE MARZO DE 2013.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE ABRIL DE 2014.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
