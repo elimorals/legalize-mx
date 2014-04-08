@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2013-12-14"
+last_updated: "2014-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -345,7 +345,9 @@ La aprobación a que hace referencia el párrafo anterior se hará por acuerdo a
 
 El acuerdo administrativo del Titular del Ejecutivo Estatal a que hace referencia el artículo anterior, se remitirá al Congreso del Estado en un plazo de seis meses, contados a partir de la fecha en que el primero tome posesión.
 
-El Congreso del Estado en un plazo que no excederá de sesenta días contados a partir de su recepción, podrá emitir un acuerdo económico que contenga las opiniones respecto a dicho plan o bien a su actualización o sustitución; al término de este periodo, sin haber emitido el acuerdo económico de referencia, se entenderá que el Congreso no tuvo consideraciones que hacer al Plan Estatal o a sus actualizaciones, por lo que será publicado en los términos que señala esta ley.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+El Congreso del Estado en un plazo que no excederá de sesenta días contados a partir de su recepción, podrá emitir un acuerdo legislativo que contenga las opiniones respecto a dicho plan o bien a su actualización o sustitución; al término de este periodo, sin haber emitido el acuerdo legislativo de referencia, se entenderá que el Congreso no tuvo consideraciones que hacer al Plan Estatal o a sus actualizaciones, por lo que será publicado en los términos que señala esta ley.
 
 Con base en las opiniones emitidas por el Congreso, si las hubiere, el Titular del Poder Ejecutivo dará contestación a las mismas por escrito, justificando sus determinaciones finales y realizará en su caso las adecuaciones que considere pertinentes, previo a su publicación.
 
@@ -904,3 +906,7 @@ P.O. 14 DE DICIEMBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Lo previsto en el artículo 29-Bis que se adiciona mediante este decreto a la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco, será aplicable para la preparación del presupuesto del ejercicio fiscal de 2015.
+
+P.O. 8 DE ABRIL DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
