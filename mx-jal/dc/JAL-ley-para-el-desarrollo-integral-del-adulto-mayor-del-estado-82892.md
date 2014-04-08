@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2011-12-27"
+last_updated: "2014-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -397,9 +397,11 @@ VII. Gestionar ante las instancias públicas y privadas el reconocimiento y resp
 
 VIII. Contribuir a que se mantengan productivos y socialmente integrados.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 13.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco, deberá tomar las medidas de prevención y supervisión para que la familia participe en la atención de los adultos mayores en situación de riesgo o desamparo, pudiendo solicitar el apoyo tanto de la Procuraduría Social para la asesoría y patrocinio legal que corresponda, como de la Dirección de Atención a Víctimas del Delito de la Procuraduría General de Justicia del Estado, para que formulen las denuncias que correspondan y se dé seguimiento a la averiguación previa correspondiente.
+El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco, deberá tomar las medidas de prevención y supervisión para que la familia participe en la atención de los adultos mayores en situación de riesgo o desamparo, pudiendo solicitar el apoyo tanto de la Procuraduría Social para la asesoría y patrocinio legal que corresponda, como de la unidad administrativa en materia de atención a víctimas del delito de la Fiscalía General del Estado, para que formulen las denuncias que correspondan y se dé seguimiento a la averiguación previa correspondiente.
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA SOCIEDAD
 
@@ -467,9 +469,11 @@ XIII. Establecer páginas electrónicas en las dependencias públicas que tengan
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE DESARROLLO HUMANO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 22.
 
-La Secretaría de Desarrollo Humano deberá coordinar e implementar las acciones que se requieran para promover el desarrollo integral de los adultos mayores, así como:
+La Secretaría de Desarrollo e Integración social deberá coordinar e implementar las acciones que se requieran para promover el desarrollo integral de los adultos mayores, así como:
 
 I. Coordinar y ejecutar las políticas de asistencia social y atención integral a las que se refiere esta ley;
 
@@ -591,9 +595,11 @@ II. Promover la participación de los adultos mayores en la formulación y revis
 
 ### CAPÍTULO IX. DE LA SECRETARÍA DE PROMOCIÓN ECONÓMICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 29.
 
-Corresponde a la Secretaría de Promoción Económica, en materia de adultos mayores, entre otras cosas, las siguientes:
+Corresponde a la Secretaría de Desarrollo Económico, en materia de adultos mayores, entre otras cosas, las siguientes:
 
 I. Promover y difundir la participación de los sectores social y privado del estado en la formulación de planes y programas de desarrollo socioeconómico a favor de los adultos mayores;
 
@@ -601,9 +607,11 @@ II. Promover, impulsar y difundir la celebración de convenios con la iniciativa
 
 ### CAPÍTULO X. DE LA SECRETARÍA DE VIALIDAD Y TRANSPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 30.
 
-Corresponde a la Secretaría de Vialidad y Transporte:
+Corresponde a la Secretaría de Movilidad:
 
 I. Vigilar que las condiciones de tránsito sean óptimas para los adultos mayores, procurando que se respeten sus necesidades y derechos, y (sic)
 
@@ -613,9 +621,11 @@ III. Promover una campaña de concientización entre los usuarios, permisionario
 
 ### CAPÍTULO XI. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 31.
 
-Corresponde a la Secretaría de Seguridad Pública, Prevención y Readaptación Social prevenir la comisión de actos de violencia o abusos en contra de adultos mayores, a través de programas de prevención y vigilancia.
+Corresponde a la Fiscalía General del Estado, prevenir la comisión de actos de violencia o abusos en contra de adultos mayores, a través de programas de prevención y vigilancia.
 
 ### CAPÍTULO XII. DE LA PROCURADURÍA SOCIAL
 
@@ -653,7 +663,9 @@ I. Proporcionar los servicios gratuitos de asesoría jurídica a los adultos may
 
 II. Realizar programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
 
-III. Coadyuvar con la Procuraduría General de Justicia del Estado en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+III. Coadyuvar con la Fiscalía General del Estado en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
 
 IV. Impulsar y promover el reconocimiento y ejercicio de los derechos de los adultos mayores;
 
@@ -681,9 +693,11 @@ III. Elaborar programas especiales para que los adultos mayores puedan formar el
 
 ### CAPÍTULO I. DEL INSTITUTO JALISCIENSE DEL ADULTO MAYOR
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 37.
 
-Para el debido cumplimiento de esta ley se crea el Instituto Jalisciense del Adulto mayor, el cual está constituido como un organismo público descentralizado que depende de la Secretaría de Desarrollo Humano del Gobierno del Estado de Jalisco, con personalidad jurídica y patrimonio propios.
+Para el debido cumplimiento de esta ley se crea el Instituto Jalisciense del Adulto Mayor, el cual está constituido como un organismo público descentralizado que depende de la Secretaría de Desarrollo e Integración Social, con personalidad jurídica y patrimonio propios.
 
 ###### Artículo 38.
 
@@ -745,11 +759,15 @@ II. Un Secretario Técnico, que será el Director General del Instituto;
 
 III. Dieciocho vocalías, que serán integradas por los titulares, de las siguientes dependencias:
 
-a) Secretaría de Desarrollo Humano;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-b) Secretaría de Finanzas;
+a) Secretaría de Desarrollo e Integración Social;
 
-c) Secretaría de Administración;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+b) Secretaría de Planeación, Administración y Finanzas;
+
+c) (DEROGADO, P.O. 8 DE ABRIL DE 2014)
 
 d) Secretaría de Educación;
 
@@ -759,13 +777,17 @@ f) Secretaría del Trabajo y Previsión Social;
 
 g) Secretaría de Desarrollo Rural;
 
-h) Secretaría de Promoción Económica;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+h) Secretaría de Desarrollo Económico;
 
 i) Secretaría de Turismo;
 
 j) Secretaría de Cultura;
 
-k) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+k) Fiscalía General del Estado;
 
 l) Procuraduría Social;
 
@@ -1069,7 +1091,9 @@ III. Arresto administrativo hasta por treinta y seis horas, que sólo procederá
 
 La aplicación de las sanciones estará debidamente fundada y motivada y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiere lugar. Será aplicada acorde con su naturaleza.
 
-Para el caso de la multa económica a que se refiere la fracción II del artículo 63, el Procurador Social del Estado de Jalisco valorará las condiciones que se señalan en el artículo 61 de esta ley y aplicará la que le corresponda a cada infracción, girando oficio a la Secretaría de Finanzas del Estado para que realice el cobro correspondiente; así en caso de que la investigación de origen a delito alguno, se dará vista al agente del Ministerio Público competente para que inicie la averiguación previa que corresponda.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+Para el caso de la multa económica a que se refiere la fracción II del artículo 63, el Procurador Social del Estado de Jalisco valorará las condiciones que se señalan en el artículo 61 de esta ley y aplicará la que le corresponda a cada infracción, girando oficio a la Secretaría de Planeación, Administración y Finanzas del Estado para que realice el cobro correspondiente, así en caso de que la investigación dé origen a delito alguno, se dará vista al agente del Ministerio Público competente para que inicie la averiguación previa que corresponda.
 
 Tratándose de la amonestación, el encargado será el Procurador Social y podrá solicitar el arresto administrativo a la autoridad competente.
 
@@ -1085,9 +1109,11 @@ III. Las condiciones socioeconómicas del infractor, y
 
 IV. Si la conducta del infractor implica reincidencia.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 66.
 
-El cobro de las multas impuestas, con apego a las formalidades, por la autoridad a que se refiere esta ley, corresponderá a la Secretaría de Finanzas, la cual podrá para ello hacer uso del procedimiento económico coactivo previsto en el Código Fiscal del Estado.
+El cobro de las multas impuestas, con apego a las formalidades, por la autoridad a que se refiere esta ley, corresponderá a la Secretaría de Planeación, Administración y Finanzas, la cual podrá para ello hacer uso del procedimiento económico coactivo previsto en el Código Fiscal del Estado.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO
 
@@ -1240,3 +1266,7 @@ PRIMERO. El titular del Poder Ejecutivo estatal, conforme al Presupuesto de Egre
 SEGUNDO. El Poder Ejecutivo adecuará el reglamento o acuerdos correspondientes para el cumplimento de las disposiciones contenidas en el presente decreto en un plazo no mayor a ciento veinte días naturales contados a partir del inicio de la vigencia del presente decreto.
 
 TERCERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
