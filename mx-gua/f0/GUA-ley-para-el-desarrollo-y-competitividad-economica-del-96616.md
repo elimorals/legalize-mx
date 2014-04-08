@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-desarrollo-y-competitividad-economica-del-96616"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2013-11-15"
+last_updated: "2014-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GUA"
 ---
 # LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONOMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ABRIL DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2014 PREVIA SU PUBLICACIÓN.</small>
 
 TEXTO ORIGINAL.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 8 DE ABRIL DE 2014.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -591,11 +591,13 @@ Capacitación y adiestramiento
 
 La Secretaría promoverá la capacitación y el adiestramiento de los trabajadores, que les permite elevar su nivel de productividad.
 
+> <small>(F. DE E., P.O. 8 DE ABRIL DE 2014)</small>
+
 Expedición de certificados
 
 ###### Artículo 29.
 
-La Secretaría de Educación evaluará las competencias laborales y al efecto expedirá los certificados respectivos.
+La Secretaría evaluará las competencias laborales y al efecto expedirá los certificados respectivos.
 
 Estándares de competencia laboral
 
