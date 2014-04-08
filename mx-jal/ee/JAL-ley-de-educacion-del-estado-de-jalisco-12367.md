@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2014-02-27"
+last_updated: "2014-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -377,9 +377,9 @@ IV.- Elaborar, coordinar, ejecutar y evaluar los programas operativos anuales en
 
 V.- Vigilar el estricto cumplimiento por parte de las empresas establecidas en el Estado de lo ordenado por la fracción XII del artículo 123 apartado A de la Constitución Política de los Estados Unidos Mexicanos en lo concerniente a la obligación de establecer y sostener escuelas y centros de capacitación;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-VI.- Convocar a reuniones para estudiar los problemas educativos de la Entidad e impulsar el intercambio de estudiantes, profesores, investigadores y científicos con otros Estados, la Federación y con Instituciones educativas extranjeras y promover cuanto sea necesario para el desarrollo de la innovación, la ciencia, la tecnología, la cultura, las artes y la educación en general;
+VI.- Convocar a reuniones para estudiar los problemas educativos de la Entidad, encontrando las posibles soluciones mediante la implantación, promoción y el establecimiento de políticas públicas; así como impulsar el intercambio de estudiantes, profesores, investigadores y científicos con otros Estados, la Federación y con instituciones educativas extranjeras y promover cuanto sea necesario para el desarrollo de la innovación, la tecnología, la ciencia, la cultura, las artes y la educación en general;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1191,6 +1191,10 @@ Los proyectos educativos deberán atender a los fines y objetivos establecidos e
 
 Los materiales educativos son auxiliares didácticos que facilitan el proceso de enseñanza-aprendizaje; incrementan la motivación y estimulan el trabajo del educando, en ellos deben incorporarse los avances de la didáctica, la ciencia y la tecnología.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+ARTICULO 77 BIS.- Los padres de familia o tutores adquirirán los materiales educativos y uniformes en donde más les convenga, sin que se les pueda obligar a comprarlos en lugar o marca determinados.
+
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 78.
@@ -1201,9 +1205,11 @@ La educación se realiza mediante procesos que comprenden la enseñanza, el apre
 
 Los planes y programas correspondientes a la educación de tipo básico, normal y otros para la formación de educadores de preescolar, primaria y secundaria, se sujetarán a las disposiciones contenidas en el artículo 48 de la Ley General de Educación, a las directrices de los Programas Nacionales de Desarrollo Educativo y a los Acuerdos de Coordinación que se celebren con la autoridad educativa federal, así como a las disposiciones contenidas en esta Ley y sus reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 80.
 
-La estrategia educativa estatal deberá ser congruente con la dinámica del desarrollo de la entidad y la relación del educando con su entorno; orientará al alumno a la consecución del bienestar público y del trabajo socialmente útil.
+La estrategia educativa estatal deberá ser congruente con la dinámica del desarrollo de la entidad y la relación del educando con su entorno; orientará al alumno acerca de la importancia de la consecución de sus estudios, del bienestar público y del trabajo socialmente útil.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1293,9 +1299,11 @@ En la esfera de su competencia la Autoridad Educativa, los municipios y sus Orga
 
 ARTICULO 90 BIS.- La Autoridad Educativa observará que en los centros escolares públicos o privados de cualquier nivel y modalidad en el Estado, otorguen dentro de sus facultades y atribuciones, apoyo educativo para coadyuvar a que las niñas, niños y adolescentes en circunstancias especialmente difíciles, den inicio, continuación y conclusión a sus estudios, conforme lo previsto en la presente Ley, la Ley de las Niñas, los Niños y Adolescentes del Estado de Jalisco, y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 91.
 
-Se tomarán las medidas pertinentes a través de programas adicionales, para lograr los objetivos descritos en favor de los grupos y regiones con mayor rezago educativo, y grupos con necesidades educativas especiales, así como las que tengan condiciones económicas y sociales de mayor marginación, para que, en forma constante y permanente, reciban la atención y auxilios necesarios.
+Se tomarán las medidas pertinentes a través de políticas públicas, para lograr los objetivos descritos en favor de los grupos y regiones con mayor rezago educativo, y grupos con necesidades educativas especiales, así como las que tengan condiciones económicas y sociales de mayor marginación, para que, en forma constante y permanente, reciban la atención y auxilios necesarios para la consecución de sus estudios evitando así la deserción escolar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1689,7 +1697,9 @@ La Autoridad Educativa deberá entregar a las escuelas particulares un reporte d
 
 Los particulares que impartan servicios educativos con incorporación o reconocimiento de validez oficial de estudios, en cualquiera de sus niveles, tipos o modalidades, deben proporcionar becas de un cinco por ciento como mínimo del total de la matrícula del periodo escolar en cada nivel educativo, mismas que se destinarán a los alumnos que satisfagan los requisitos que en el reglamento de becas se establezcan.
 
-Invariablemente todos los alumnos que reciban becas deberán contar con alta escolaridad y comprobar que su familia no puede solventar los gastos escolares.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+Invariablemente todos los alumnos que reciban becas deberán contar con alta escolaridad y comprobar que su familia no puede solventar, total o parcialmente, los gastos escolares.
 
 Adicionalmente los particulares podrán asignar medias y cuartos de becas para auxiliar al mayor número de becarios.
 
@@ -1861,6 +1871,10 @@ VII.- Presentar quejas contra las autoridades educativas por irregularidades que
 
 Las Asociaciones de padres de familia se abstendrán de intervenir en los aspectos administrativos, pedagógicos y laborales de los establecimientos educativos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
+
+De igual forma, los establecimientos educativos no intervendrán en la vida interna y administración de las asociaciones de padres de familia, por lo que en ningún momento podrán participar en la captación y administración de sus recursos o en el establecimiento de sus programas de actividades.
+
 ### CAPÍTULO II
 
 DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL.
@@ -1895,33 +1909,41 @@ g) Fomentar y promover la participación de la familia en beneficio de los educa
 
 h) Opinar en asuntos pedagógicos;
 
-i) Contribuir a reducir las condiciones sociales adversas que influyen en la educación de los alumnos, y
+i) Contribuir a reducir las condiciones sociales adversas que influyen en la educación de los alumnos, y (sic)
 
 j) Organizar y convocar a la realización de trabajos específicos para el mejoramiento de las instalaciones escolares, y efectuar todo tipo de actividades en beneficio del plantel apoyando las actividades cotidianas de la escuela.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2000)</small>
 
-k) Promover la atención de alumnos con problemas de bajo aprovechamiento escolar y a los que requieran educación especial; y
+k) Promover la atención de alumnos con problemas de bajo aprovechamiento escolar y a los que requieran educación especial; y (sic)
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2000)</small>
 
 l) Realizar acciones orientadas a la conservación y mejoramiento ambiental de las zonas en que se ubiquen los planteles educativos.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-m) Fomentar y promover en los padres de familia y tutores, la vigilancia y orientación que deben realizar en los programas televisivos, cine o videos, así como sitios de Internet que ven los niños y adolescentes, y
+m) Fomentar y promover en los padres de familia y tutores, la vigilancia y orientación que deben realizar en los programas televisivos, cine o videos, así como sitios de Internet que ven los niños y adolescentes;
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-n) Promover la atención de educandos con problemas en lo individual, familiar o en su entorno social, con respecto a asuntos relacionados con las adicciones y sus consecuencias.
+n) Promover la atención de educandos con problemas en lo individual, familiar o en su entorno social, con respecto a asuntos relacionados con las adicciones y sus consecuencias;
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
 
-o) Vincularse con los Consejos Municipales y Estatal de Participación Social en la Educación.
+ñ) Vincularse con los Consejos Municipales y Estatal de Participación Social en la Educación;
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-p) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela, para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente y demás programas que al efecto determine las autoridades educativas federal y local.
+o) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela, para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional docente y demás programas que al efecto determine (sic) las autoridades educativas federal y local;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+p) Promover y coadyuvar para que las asociaciones de padres de familia y las propias autoridades de los planteles educativos, en ningún caso, exijan cuotas o aportaciones de forma obligatoria, en violación a lo dispuesto por la presente ley; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2014)</small>
+
+q) Coadyuvar en el cumplimiento de las disposiciones que la ley establece en materia de útiles escolares, uniformes y becas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -3794,3 +3816,15 @@ DÉCIMO SEGUNDO. El personal que a la entrada en vigor de la presente Ley se enc
 DÉCIMO TERCERO. El artículo 209 de la presente ley entrará en vigor para la Educación Básica en los términos de lo establecido en el artículo Vigésimo Primero Transitorio de la Ley General del Servicio Profesional Docente, en tanto, las convocatorias para concursos de oposición para el Ingreso a la Educación Básica serán sólo para los egresados de las Normales y sólo en el caso de que no se cubran las vacantes mediante dichos concursos, se emitirán convocatorias públicas abiertas.
 
 DÉCIMO CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo para el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, derivadas del presente decreto
+
+P.O. 8 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 24839/LX/14, POR EL QUE SE REFORMAN LOS ARTÍCULOS 14, FRACCIÓN VI, 80 Y 91 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 24843/LX/14, POR EL QUE SE REFORMAN LOS ARTÍCULOS 123, 131 Y 133, Y SE ADICIONA EL ARTÍCULO 77 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
