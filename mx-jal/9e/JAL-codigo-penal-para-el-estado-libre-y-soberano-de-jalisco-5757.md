@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2013-12-03"
+last_updated: "2014-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2731,15 +2731,17 @@ Cometen incesto, los parientes que copulan entre sí, siempre que se trate de as
 
 El incesto entre ascendientes con descendientes se castigará con prisión de uno a cuatro años y los demás con prisión de seis meses a tres años.
 
-### CAPITULO V. Reglas generales
+### CAPITULO IV BIS. De los Delitos contra la Dignidad de las Personas
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Art. 182.
 
 Se impondrán de quince días a dos años de prisión al hombre o mujer que tengan entre sí relaciones sexuales, bien sea en el domicilio conyugal o causando escándalo, sabiendo que uno de ellos o los dos están casados con otra u otras personas. Este delito se sancionará por querella del ofendido, pero el perdón del último beneficiará a ambos responsables, siempre que se otorgue hasta antes de dictar sentencia.
 
-### CAPITULO I. Disparo de arma de fuego sobre persona, ataque peligroso y maltrato al infante
+### CAPITULO V. Reglas generales
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 183.
 
@@ -2777,7 +2779,7 @@ Art. 185 A. Para que el perdón concedido por el ofendido o su representante pue
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO II. Lesiones
+### CAPITULO I. Disparo de arma de fuego sobre persona, ataque peligroso y maltrato al infante
 
 ###### Art. 186.
 
@@ -2791,9 +2793,7 @@ III. Que retenga o se apodere de un cadáver, sin la anuencia de los deudos del 
 
 Si la retención del cadáver ocurre en un hospital particular, la pena que se aplique al responsable será de seis meses a tres años de prisión y multa por el importe de cuatro a ochenta días de salario.
 
-### CAPITULO III. Homicidio
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO II. Lesiones
 
 ###### Art. 187.
 
@@ -2805,7 +2805,9 @@ II. Que profane un cadáver o restos humanos con actos de vilipendio, obscenidad
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO IV. Reglas comunes para los delitos de lesiones y homicidios
+### CAPITULO III. Homicidio
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 188.
 
@@ -2821,9 +2823,7 @@ Si cumple la amenaza, se le impondrán además las penas que procedan por los de
 
 A quien, una vez consumado un secuestro, sin ser partícipe del mismo, de modo persistente y mediante cualquier acción, amenace a la víctima, a sus familiares o representantes, para que no colaboren con las autoridades competentes, se le impondrá de seis meses a tres años de prisión y multa por el importe de trescientos a seiscientos días de salario.
 
-### CAPITULO V. Parricidio
-
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2004)</small>
+### CAPITULO IV. Reglas comunes para los delitos de lesiones y homicidios
 
 ###### Art. 189.
 
@@ -2847,9 +2847,9 @@ Al agente del Ministerio Público, de la Policía Investigadora o de las policí
 
 Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
-### CAPITULO VI. Instigación o ayuda al suicidio
+### CAPITULO V. Parricidio
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2004)</small>
 
 ###### Art. 190.
 
@@ -2857,7 +2857,9 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO VII. Infanticidio
+### CAPITULO VI. Instigación o ayuda al suicidio
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 191.
 
@@ -2865,7 +2867,7 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO VIII. Aborto
+### CAPITULO VII. Infanticidio
 
 ###### Art. 192.
 
@@ -2875,9 +2877,7 @@ Las sanciones a que se refiere este artículo se impondrán independientemente d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO IX. Abandono de personas
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+### CAPITULO VIII. Aborto
 
 ###### Art. 193.
 
@@ -2885,9 +2885,9 @@ Se impondrán de seis meses a cuatro años de prisión al particular que ilegít
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 1999)</small>
 
-### CAPITULO X. Feminicidio
+### CAPITULO IX. Abandono de personas
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 194.
 
@@ -2901,7 +2901,9 @@ Se impondrán de seis meses a cuatro años de prisión al particular que ilegít
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MAYO DE 2008)</small>
 
-### CAPITULO I. Robo
+### CAPITULO X. Feminicidio
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 195.
 
@@ -2915,9 +2917,7 @@ Se impondrán de seis meses a cuatro años de prisión al particular que ilegít
 
 ## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
 
-### CAPITULO II. Abigeato y robo de animales
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
+### CAPITULO I. Robo
 
 ###### Art. 197.
 
@@ -2925,7 +2925,9 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO III. Abuso de confianza
+### CAPITULO II. Abigeato y robo de animales
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
 
 ###### Art. 198.
 
@@ -2933,7 +2935,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO IV. Violación de depósito
+### CAPITULO III. Abuso de confianza
 
 ###### Art. 199.
 
@@ -2945,7 +2947,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO V. Fraude
+### CAPITULO IV. Violación de depósito
 
 ###### Art. 201.
 
@@ -2955,13 +2957,35 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 (DEROGADO, P.O. 23 DE OCTUBRE DE 2007)
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE ABRIL DE 2014)</small>
+
+### CAPITULO V. Fraude
+
+###### Art. 202 Bis.
+
+Se impondrán de cincuenta a cien días de multa o de treinta a cien jornadas de trabajo a favor de la comunidad, a quien al que (sic) por razones de origen étnico, edad, sexo, embarazo, estado civil, raza, nacionalidad, idioma, religión, ideología, preferencia sexual, condición social o económica, trabajo o profesión, discapacidad, características físicas, estado de salud o cualquier otra causa que atente contra la dignidad humana, limite, anule o genere un menoscabo a los derechos, libertades y seguridad de la persona.
+
+Al reincidente, se le impondrá de uno a tres años de prisión.
+
+Las mismas penas se impondrán a quien:
+
+I. Provoque o incite a la discriminación, odio y a la violencia contra una persona o grupo de personas;
+
+II. Niegue a una persona o grupo de personas una prestación o servicio al que tiene derecho el público en general;
+
+III. Veje, humille, denigre o excluya a alguna persona o grupo de personas;
+
+IV. Niegue o restrinja los derechos laborales adquiridos; o
+
+V. Niegue o restrinja los derechos educativos y de salud.
+
+No serán consideradas como discriminatorias todas aquellas medidas tendientes a la protección de los grupos vulnerables, de conformidad a la ley.
+
+Al servidor público que, por las razones previstas en este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en el presente artículo y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
+
 ### CAPITULO VI. Delitos contra el Desarrollo Urbano
 
 > <small>(REFORMADO Y REUBICADO, P.O. 5 DE ENERO DE 2007)</small>
-
-### CAPITULO VII. Administración Fraudulenta
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 203.
 
@@ -2975,7 +2999,9 @@ No se procederá contra los autores de los delitos a que se refiere este título
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
+### CAPITULO VII. Administración Fraudulenta
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 205.
 
@@ -2993,7 +3019,7 @@ Cuando por el número de disparos o la prolongación del ataque grave haya base 
 
 Se impondrá una pena de tres meses a tres años de prisión y de veinte a cien jornadas de trabajo a favor de la comunidad, a quien agreda a un menor de edad causándole, alteración en la salud o integridad física, ya sea con o sin objeto contundente o arma. Independientemente de las penas que correspondan en su caso, por otros delitos, aplicando al caso específico las reglas del concurso.
 
-### CAPITULO IX. Usura
+### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
 ###### Art. 224.
 
@@ -3063,11 +3089,9 @@ Si en un mismo evento se producen varias de las lesiones previstas en los artíc
 
 No es atribuible al acusado el aumento de gravedad en las lesiones, proveniente (sic) de circunstancias particulares del ofendido, si las ignoraba al cometer el delito.
 
+### CAPITULO IX. Usura
+
 ### CAPITULO X. Daños en las cosas
-
-### CAPITULO XI. Daño al patrimonio urbano
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 213.
 
@@ -3105,7 +3129,9 @@ No se tendrá como mortal una lesión, aunque muera el que la recibió, cuando l
 
 Cuando el homicidio se cometa en riña inesperada, se impondrá al provocado una sanción comprendida de la mitad del mínimo a la mitad del máximo de la aplicable al autor del homicidio simple intencional, y al provocador las dos terceras partes. Esta última sanción será impuesta a quienes cometan homicidio en duelo o en riña previamente concertado.
 
-### CAPITULO XII. Despojo de inmuebles y aguas
+### CAPITULO XI. Daño al patrimonio urbano
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 232
 
@@ -3213,23 +3239,21 @@ III. Si existen lesiones mortales y no mortales y no se puede precisar cuál de 
 
 Si con motivo de un delito de tránsito, fallecen o resultan lesionados los ocupantes de un vehículo de servicio particular, o público en servicio particular, ligados al conductor por vínculos de consanguinidad, afinidad o civil, o por lazos de estrecha amistad o de trabajo o de gratitud, el delito se perseguirá por querella de parte, siempre que el conductor no se encuentre, al momento de cometer la infracción, bajo el influjo de bebidas embriagantes, de enervantes o psicotrópicos. Para los casos de homicidio, se tendrá como legítimo representante del ofendido, al que pudiera tener derecho a su sucesión legítima.
 
-### CAPITULO XIII. Del pillaje
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPITULO XII. Despojo de inmuebles y aguas
 
 ###### Art. 223.
 
 Se impondrán de veinticinco a cuarenta y cinco años de prisión al que dolosamente prive de la vida al cónyuge o a cualquier ascendiente o descendiente consanguíneo en línea recta o colateral hasta en cuarto grado, hermano, concubina o concubinario, adoptante o adoptado, sabiendo el delincuente esta relación.
+
+### CAPITULO XIII. Del pillaje
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ### CAPITULO I. Encubrimiento
 
 ### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
-
-### CAPITULO I. De las Definiciones
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 225.
 
@@ -3243,9 +3267,9 @@ Si en la muerte del infante tomare participación un médico, cirujano, enfermer
 
 Para que proceda la aplicación de la pena de infanticidio, se requiere que la mujer no tenga mala fama; que haya ocultado su embarazo; que el nacimiento del infante haya sido oculto y no se hubiere inscrito en el Registro Civil y que, además, no sea habido en matrimonio o concubinato. En caso contrario, se aplicarán las sanciones del homicidio simple y, si no se llenan los extremos legales del infanticidio, se aplicarán las penas del parricidio.
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 227.
 
@@ -3283,9 +3307,9 @@ No es punible el aborto culposo causado por la mujer embarazada ni cuando el emb
 
 Tampoco lo será cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Art. 230.
 
@@ -3307,7 +3331,7 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3315,9 +3339,9 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 233.
 
@@ -3561,9 +3585,9 @@ II. Cuando el valor de lo robado no pase del máximo establecido en la fracción
 
 Si en el mismo caso, la restitución y reparación se verifican después de iniciadas las investigaciones, pero antes de formularse conclusiones en el proceso, la pena será solo la multa del triple del valor de lo robado y especial amonestación. Sin perjuicio de que si la víctima u ofendido se desista o renuncie a la restitución de lo robado o a los daños o perjuicios, en cuyo caso procederá a la exhoneración.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Art. 240.
 
@@ -3691,7 +3715,9 @@ II. Si la información aconteciere durante el proceso, el beneficio será de sei
 
 En todos los casos previstos en este capítulo será aplicable, en lo conducente, lo dispuesto en el Art. 238 de este Código.
 
-### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+### CAPITULO VI. Disposiciones Comunes
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 245.
 
@@ -3721,11 +3747,7 @@ Se impondrán las mismas sanciones del abuso de confianza, a quien, requerido fo
 
 Es aplicable a este Capítulo, en lo conducente, al Artículo 238 de este Código.
 
-### CAPITULO UNICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
 ###### Art. 249.
 
@@ -3747,7 +3769,9 @@ Es aplicable a este capítulo en lo conducente el artículo 238 de este Código.
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Art. 250.
 
@@ -3852,6 +3876,10 @@ XXIV. Al que enajene, comercialice o distribuya vales apócrifos utilizados para
 XXV. Al que con fines de lucro y a sabiendas de que un producto o servicio no cumple con las especificaciones técnicas de la normatividad correspondiente o de que sea de calidad inferior a la que se ofrece al público, intervenga de cualquier manera en su comercialización o producción.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
 
 ###### Art. 253.
 
@@ -5221,7 +5249,7 @@ P.O. 12 DE NOVIEMBRE DE 2013.
 
 ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-P.O. 3 DE DICIEMBRE DE 2013
+P.O. 3 DE DICIEMBRE DE 2013.
 
 DECRETO NÚMERO 24545/LX/13 POR EL QUE SE REFORMAN LOS ARTÍCULOS 267 Y 270 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
 
@@ -5230,5 +5258,9 @@ DECRETO NÚMERO 24545/LX/13 POR EL QUE SE REFORMAN LOS ARTÍCULOS 267 Y 270 DEL 
 P.O. 3 DE DICIEMBRE DE 2013.
 
 DECRETO NÚMERO 24549/LX/13 POR EL QUE SE REFORMAN LOS ARTÍCULOS 236 FRACCIONES XVI, XVII Y XVIII Y 236 BIS INCISO B); Y SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 236 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
