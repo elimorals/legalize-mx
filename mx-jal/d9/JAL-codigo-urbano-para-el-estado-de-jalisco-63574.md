@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2013-09-24"
+last_updated: "2014-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -135,7 +135,9 @@ VII. Aprovechamiento de la infraestructura básica existente: La contribución q
 
 VIII. Área: La porción de territorio que comparte los mismos grados de ordenamiento y gestión pública, a efecto de planear y regular las acciones de conservación, mejoramiento y crecimiento en la misma; se tipifica, clasifica y delimita en función de las características del medio físico natural y transformado que le afectan;
 
-IX. Área Metropolitana: Cuando dos o más municipios del estado formen un mismo centro de población que por su crecimiento urbano, continuidad física y relaciones socioeconómicas sea declarado como tal por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+IX. Área Metropolitana: Centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios, con una población de cuando menos cincuenta mil habitantes; que por su crecimiento urbano, continuidad física y relaciones socioeconómicas es declarado oficialmente con ese carácter por decreto del Congreso del Estado;
 
 X. Áreas de beneficio o afectación: Las generadas por las acciones de conservación, mejoramiento y crecimiento; su determinación y delimitación tiene por efectos demarcar los predios o fincas a cuyos titulares corresponderán los derechos y las obligaciones específicas por la ejecución de esas acciones, las cuales se establecen con el fin de distribuir en forma equitativa, proporcional y justa sus costos, servicios o provechos;
 
@@ -143,13 +145,13 @@ XI. Áreas de cesión para destino: Las que se determinan en los planes y progra
 
 XII. Áreas de gestión urbana integral: Las que se identifiquen y determinen en los planes y programas de desarrollo urbano, por sus características naturales o históricoñpatrimoniales (sic), su problemática urbanística o por constituir espacios estratégicos para el desarrollo urbano de la población, por lo cual se hace necesaria su promoción coordinada y para tal efecto, se requiera de una gestión urbana integral. Estas áreas se desarrollarán mediante una asociación, organismo o entidad, en cuya constitución podrán participar personas físicas o jurídicas, públicas o privadas;
 
-XIII Áreas de restricción: Son las áreas que por razones de seguridad o requerimiento de infraestructura y servicios está condicionada a usos y giros diferentes a las áreas que la circundan;
+XIII. Áreas de restricción: Son las áreas que por razones de seguridad o requerimiento de infraestructura y servicios está condicionada a usos y giros diferentes a las áreas que la circundan;
 
-XIV Áreas y predios de conservación ecológica: Las tierras, aguas y bosques que por sus características de valor científico, ambiental o paisajístico deben ser conservadas;
+XIV. Áreas y predios de conservación ecológica: Las tierras, aguas y bosques que por sus características de valor científico, ambiental o paisajístico deben ser conservadas;
 
 XV. Áreas y predios rústicos: Las tierras, aguas y bosques que son susceptibles de explotación racional agropecuaria, piscícola, minera o forestal; así como los predios comprendidos en las áreas de reservas de un centro de población, donde no se hayan realizado obras de urbanización;
 
-XVI Asentamiento humano: La radicación de un grupo de personas, con el conjunto de sus sistemas de convivencia en un área localizada, considerando en la misma los elementos naturales y las obras materiales que la integran;
+XVI. Asentamiento humano: La radicación de un grupo de personas, con el conjunto de sus sistemas de convivencia en un área localizada, considerando en la misma los elementos naturales y las obras materiales que la integran;
 
 XVII. Autorización: El acto regulativo mediante el cual se aprueba un plan, programa, proyecto o estudio, para su aplicación o a fin de ejecutar las obras o realizar las acciones urbanísticas objeto del presente ordenamiento;
 
@@ -201,7 +203,7 @@ XXXVIII. Índice de edificación: La unidad de medida que sirve para conocer cua
 
 XXXIX. Integración urbanística: Conjunto de elementos que permiten establecer la congruencia e integración funcional de las obras de urbanización o edificación de un predio, en relación con los usos o destinos y su estructura urbana, que se determinan para el mismo en el plan o programa de desarrollo urbano y se certificaron en el dictamen de trazo, usos y destinos específicos;
 
-XL. La Secretaría: La Secretaría de Desarrollo Urbano del Estado de Jalisco;
+XL. (DEROGADA, P.O. 8 DE ABRIL DE 2014)
 
 XLI. Licencia: El acto administrativo mediante el cual se precisan los derechos y obligaciones específicos para ejecutar obras o realizar acciones determinadas, en relación con una persona física o jurídica determinada, que deberán cumplirse en el plazo o término que se establezca. Cuando una licencia se emita en forma simultánea con una autorización, para su vigencia o efectos indefinidos o limitados, se entenderán como dos actos administrativos diversos;
 
@@ -243,7 +245,9 @@ LIX. Predio rústico intra-urbano: Se consideran aquellas superficies de terreno
 
 LX. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
 
-LXI. Región Metropolitana Cuando dos o más centros urbanos ubicados en el territorio de dos o más municipios del estado que por su cercanía geográfica, tendencias de crecimiento, y relaciones socioeconómicas sean declarados como tales por el Congreso del Estado a propuesta del Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+LXI. Región Metropolitana: Delimitación geográfica integrada por un Área Metropolitana y uno o más centros de población, geográficamente cercanos, con tendencias de crecimiento que los acerquen y relaciones socioeconómicas, declarada oficialmente con ese carácter por decreto del Congreso del Estado;
 
 LXII. Relotificación: El cambio en la distribución o dimensiones de los lotes en un predio, cuyas características hayan sido autorizadas con anterioridad;
 
@@ -369,17 +373,67 @@ XXII. Proveer al cumplimiento de las disposiciones de este Código, expidiendo r
 
 XXIII. Las demás que le atribuya este Código y otros ordenamientos legales.
 
-#### Sección Segunda. De las Atribuciones de la Secretaría
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2014)</small>
 
-###### Artículo 9º.
+#### Sección Segunda. De las Atribuciones
 
-La Secretaría es la dependencia de la Administración Pública Estatal que tiene a su cargo ejecutar la política del Gobierno del Estado en el sector de desarrollo urbano. Sus atribuciones son las siguientes:
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+###### Artículo 9°.
+
+El Poder Ejecutivo del Estado tiene a su cargo la ejecución de la política del Gobierno del Estado en los sectores de desarrollo urbano y ordenamiento territorial, a través de las Secretarías de Infraestructura y Obra Pública, y de Medio Ambiente y Desarrollo Territorial, en el ámbito de sus competencias.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+###### Artículo 9° Bis.
+
+Son atribuciones de la Secretaría de Infraestructura y Obra Pública:
+
+I. Participar, en forma conjunta con la Secretaría de Medio Ambiente y Desarrollo Territorial y con los ayuntamientos involucrados, conforme a las disposiciones de este Código y los respectivos convenios de coordinación, en la ejecución de los planes regionales de integración urbana;
+
+II. Promover acciones de información y capacitación dirigidas al personal de la administración pública estatal y de los ayuntamientos, relacionadas con la ejecución de acciones en materia de infraestructura y obra pública;
+
+III. Coordinar las acciones que, en materia de infraestructura y obra pública, implemente el gobierno federal en apoyo del Estado y los municipios, de conformidad con los convenios respectivos;
+
+IV. Auxiliar a los ayuntamientos que lo soliciten, en la ejecución de obras que de acuerdo a las autorizaciones y permisos expedidos, debieron ejecutarlas los particulares a su cargo;
+
+V. Cuando un Ayuntamiento carezca de los órganos correspondientes, o la complejidad de los asuntos lo requiera, a solicitud previa del Ayuntamiento respectivo, conforme al convenio que celebren, podrá ejecutar obras públicas municipales;
+
+VI. Definir, conjuntamente con la Secretaría de Medio Ambiente y Desarrollo Territorial, los criterios técnicos para la ubicación de los inmuebles destinados a oficinas y servicios públicos de las dependencias y entidades de la Administración Pública Estatal;
+
+VII. Realizar los trabajos de construcción, adaptación, restauración y conservación de los inmuebles de propiedad estatal y de aquellos de relevante valor artístico o histórico, integrando los proyectos y realizando los estudios previos que se requieran, de acuerdo a las normas y criterios técnicos establecidos, satisfaciendo en los casos que proceda, los requisitos que establece la Ley Federal sobre monumentos y Zonas Arqueológicos, Artísticos e Históricos;
+
+VIII. Proponer al Titular del Poder Ejecutivo y a los ayuntamientos acciones para conservar y mejorar el patrimonio inmobiliario del Estado y proveer su ejecución en el ámbito de su competencia;
+
+IX. Establecer las normas de calidad que deberán observarse en el diseño y ejecución de obras de infraestructura y equipamiento urbano;
+
+X. Señalar las bases con arreglo a las disposiciones vigentes, para determinar el monto de las indemnizaciones convencionales, en los casos de expropiación de bienes de propiedad privada por causa de utilidad pública;
+
+XI. Apoyar a la Secretaría General de Gobierno, en los juicios sobre determinación del monto de las indemnizaciones que deben de cubrirse, en los términos de las disposiciones legales aplicables;
+
+XII. Promover la realización de obras y la prestación de servicios públicos a nivel estatal, intermunicipal o donde participe el Gobierno del Estado, mediante la elaboración de proyectos y estudios técnicos que comprendan especificaciones y presupuestos;
+
+XIII. Participar, en el área de su competencia, en la elaboración y revisión de los convenios de coordinación que acuerde el Gobernador del Estado, con las dependencias de la Administración Pública Federal, los gobiernos de otras entidades federativas y de los municipios, a fin de ejecutar las acciones conforme a las finalidades y objetivos propuestos en los diversos programas y planes de desarrollo urbano;
+
+XIV. Opinar en materia de financiamiento de obras, bases de empréstitos y contratos que provengan de otros órganos de planeación de la Administración Pública Estatal;
+
+XV. Realizar las obras de infraestructura y equipamiento previstas en los planes regionales de integración urbana, que le correspondan administrar conforme a su competencia;
+
+XVI. Supervisar, mediante inspección técnica en el ámbito de su competencia, el cumplimiento exacto que deba darse a este Código; y
+
+XVII. Las demás que le atribuyan este Código, y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+###### Artículo 9° Ter.
+
+Son atribuciones de la Secretaría de Medio Ambiente y Desarrollo Territorial:
 
 I. Promover la presentación de proposiciones, concentrar y administrar información, realizar investigaciones y establecer mecanismos de difusión y comunicación con toda clase de instituciones públicas y privadas, para la mejor elaboración del Programa Estatal de Desarrollo Urbano y de los programas y planes municipales de desarrollo urbano;
 
-II. Concentrar y administrar la información geográfica y estadística vinculada al desarrollo urbano en los ámbitos estatal, regional y municipal, generada por las dependencias e instituciones públicas y privadas, así como la derivada del Plan Nacional de Desarrollo Urbano, a efecto de contribuir al Sistema de Información Territorial del Estado de Jalisco y puedan servirse de ella las dependencias e instituciones vinculadas al fenómeno urbano;
+II. Coadyuvar con el organismo público competente en la concentración de la información geográfica y estadística vinculada al desarrollo urbano y territorial en los ámbitos estatal, regional y municipal, generada por las dependencias e instituciones públicas y privadas, así como la derivada del Plan Nacional de Desarrollo Urbano, a efecto de contribuir al Sistema de Información y puedan servirse de ella las dependencias e instituciones vinculadas al fenómeno urbano;
 
-III. Solicitar cuando se requiera, asesoría y apoyo técnico a las dependencias de la Administración Pública Federal, para la elaboración de los programas y planes de desarrollo urbano de carácter estatal, y los municipales, cuando el ayuntamiento correspondiente así lo haya pedido;
+III. Solicitar cuando se requiera, asesoría y apoyo técnico a las dependencias de la Administración Pública Federal, para la elaboración de los programas y planes de desarrollo urbano de carácter estatal, y los municipales cuando el Ayuntamiento correspondiente así lo haya pedido;
 
 IV. Promover investigaciones académicas en coordinación con las instituciones de educación superior que operen en el Estado, para apoyar la gestión del desarrollo urbano;
 
@@ -387,7 +441,7 @@ V. Elaborar, en los términos que fija este Código, el proyecto de Programa Est
 
 VI. Promover los estudios que sustenten las propuestas para establecer la regionalización del territorio del Estado, a efecto de sustentar las propuestas del Programa Estatal de Desarrollo Urbano y los planes regionales;
 
-VII. Participar en forma conjunta con los ayuntamientos involucrados, conforme a las disposiciones de este Código y los respectivos convenios de coordinación, en la formulación, aprobación, ejecución, control, evaluación y revisión de los planes regionales de integración urbana;
+VII. Participar, en forma conjunta con la Secretaría de Infraestructura y Obra Pública y con los ayuntamientos involucrados, conforme a las disposiciones de este Código y los respectivos convenios de coordinación , en la formulación, aprobación, ejecución, control, evaluación y revisión de los planes regionales de integración urbana;
 
 VIII. Proponer mecanismos de coordinación con la autoridad catastral, para integrar en sus registros la información derivada de los diversos programas y planes de desarrollo urbano y la zonificación de los centros de población, que resulte relevante para sus fines, y, por otra parte, facilitar la información catastral para elaborar, aplicar y revisar los mismos programas y planes y la zonificación que se establezca en los mismos;
 
@@ -399,57 +453,39 @@ XI. Apoyar a los ayuntamientos que lo soliciten, en la elaboración de sus progr
 
 XII. Participar, en el área de su competencia, en la elaboración y revisión de los convenios de coordinación que acuerde el Gobernador del Estado, con las dependencias de la Administración Pública Federal, los gobiernos de otras entidades federativas y de los municipios, a fin de ejecutar acciones conforme a las finalidades y objetivos propuestos en los diversos programas y planes de desarrollo urbano;
 
-XIII. Coordinar las acciones que en materia de desarrollo urbano, que implemente el Gobierno Federal en apoyo al Estado y los municipios;
+XIII. Coordinar las acciones que en materia de desarrollo urbano y vivienda, implemente el Gobierno Federal en apoyo al Estado y los municipios;
 
-XIV. Auxiliar, a los ayuntamientos que lo soliciten, en la ejecución de obras que de acuerdo a las autorizaciones y permisos expedidos, debieron ejecutarlas los particulares a su cargo;
+XIV. Auxiliar, a los ayuntamientos que lo soliciten, en la determinación y aplicación de medidas de seguridad que deban ejecutar en los términos del presente Código;
 
-XV. Auxiliar, a los ayuntamientos que lo soliciten, en la determinación y aplicación de medidas de seguridad que deban ejecutar en los términos del presente Código;
+XV. Cuando un Ayuntamiento carezca de los órganos administrativos correspondientes, o la complejidad de los asuntos lo requiera , a solicitud previa del ayuntamiento respectivo, conforme al convenio que celebren, podrá asumir de manera total o parcial las funciones técnicas que le corresponden al Municipio en materia de desarrollo urbano y vivienda, en la aplicación de éste Código;
 
-XVI. Cuando un Ayuntamiento carezca de los órganos administrativos correspondientes, o la complejidad de los asuntos lo requiera, a solicitud previa del ayuntamiento respectivo, conforme al convenio que celebren, deberá asumir de manera total o parcial las funciones técnicas que le corresponden al Municipio, en la aplicación de éste Código y ejecutar obras públicas municipales;
+XVI. Participar en la elaboración y revisión de los convenios y contratos que celebre el Gobierno del Estado con personas, instituciones o grupos del sector privado y social, para concertar acciones previstas en los programas y planes de desarrollo urbano del Estado;
 
-XVII. Participar en la elaboración y revisión de los convenios y contratos que celebre el Gobierno del Estado con personas, instituciones o grupos del sector privado y social, para concertar acciones previstas en los programas y planes de desarrollo urbano del Estado;
+XVII. Dictaminar, en caso de controversia, a fin de precisar los predios incluidos en las áreas y zonas que se clasifiquen y establezcan en los programas y planes de desarrollo urbano;
 
-XVIII. Dictaminar, en caso de controversia, a fin de precisar los predios incluidos en las áreas y zonas que se clasifiquen y establezcan en los programas y planes de desarrollo urbano;
+XVIII. Definir, conjuntamente con la Secretaría de Infraestructura y Obra Pública, los criterios técnicos para la ubicación de los inmuebles destinados a oficinas y servicios públicos de las dependencias y entidades de la Administración Pública Estatal;
 
-XIX. Definir los criterios técnicos para la ubicación de los inmuebles destinados a oficinas y servicios públicos de las dependencias y entidades de la Administración Pública Estatal;
+XIX. Realizar los estudios y dictámenes de impacto ambiental necesarios en toda autorización, permiso o licencia de construcción o de realización de cualquier obra pública estatal;
 
-XX. Solicitar a la Secretaria de Medio Ambiente para el Desarrollo Sustentable los estudios y dictámenes de impacto ambiental necesarios en toda autorización, permiso o licencia de construcción o de realización de cualquier obra de la entidad;
+XX. Conforme a la participación que corresponde al Gobierno del Estado, intervenir en la instrumentación de la política integral de suelo urbano y reservas territoriales, en los términos de los convenios de coordinación que se establezcan con el Gobierno Federal y los Ayuntamientos;
 
-XXI. Realizar los trabajos de construcción, adaptación, restauración y conservación de los inmuebles de propiedad estatal y de aquellos de relevante valor artístico o histórico, integrando los proyectos y realizando los estudios previos que se requieran, de acuerdo a las normas y criterios técnicos establecidos, satisfaciendo en los casos que proceda, los requisitos que establece la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos;
+XXI. Participar, a solicitud de los municipios, en la elaboración, ejecución, control, evaluación y revisión de los planes parciales de desarrollo urbano que se expidan para la utilización parcial o total de la reserva territorial y de las zonas sujetas a conservación ecológica;
 
-XXII. Proponer al Titular del Poder Ejecutivo y a los ayuntamientos acciones para conservar y mejorar el patrimonio inmobiliario del Estado y proveer su ejecución en el ámbito de su competencia;
+XXII. Participar, en el ámbito de su competencia, en la elaboración y ejecución de los programas y planes parciales de desarrollo urbano que se implementen, con el propósito de regularizar la tenencia de la tierra urbana como acción de mejoramiento, en los términos de la legislación aplicable y los convenios de coordinación, a fin de resolver los problemas generados por los asentamientos irregulares existentes y establecer medidas para evitar su proliferación;
 
-XXIII. Establecer las normas de calidad que deberán observarse en el diseño y ejecución de obras de infraestructura y equipamiento urbano;
+XXIII. Instrumentar las acciones para que el Gobierno del Estado ejerza el derecho de preferencia en lo relativo a predios comprendidos en las áreas de reservas, de acuerdo a las disposiciones de este Código;
 
-XXIV. Señalar las bases con arreglo a las disposiciones vigentes, para determinar el monto de las indemnizaciones convencionales, en los casos de expropiación de bienes de propiedad privada por causa de utilidad pública;
+XXIV. Promover, en coordinación con los ayuntamientos, la constitución de los consejos regionales de desarrollo urbano y apoyarlos en sus actividades;
 
-XXV. Apoyar a la Procuraduría General de Justicia del Estado, en los juicios sobre determinación del monto de las indemnizaciones legales, en los términos de la Ley de Expropiación de Bienes Muebles e Inmuebles de Propiedad Privada;
+XXV. Emprender acciones, en coordinación con los ayuntamientos, para promover la constitución de asociaciones para la conservación y mejoramiento de sitios y fincas afectos al patrimonio cultural del Estado y apoyarlas en sus actividades;
 
-XXVI. Conforme a la participación que corresponde al Gobierno del Estado, intervenir en la instrumentación de la política integral de suelo urbano y reservas territoriales, en los términos de los convenios de coordinación que se establezcan con el Gobierno Federal y los Ayuntamientos;
+XXVI. Supervisar, mediante inspección técnica en el ámbito de su competencia, el cumplimiento que deba darse a este Código;
 
-XXVII. Participar, a solicitud de los municipios, en la elaboración, ejecución, control, evaluación y revisión de los planes parciales de desarrollo urbano que se expidan para la utilización parcial o total de la reserva territorial y de las zonas sujetas a conservación ecológica;
+XXVII. Determinar las infracciones y calificar las sanciones y medidas de seguridad que competa aplicar al Gobernador del Estado o sean de su propia competencia, conforme a las disposiciones de este Código;
 
-XXVIII. Tomar la participación que le corresponda, en la elaboración y ejecución de los programas y planes parciales de desarrollo urbano que se implementen, con el propósito de regularizar la tenencia de la tierra urbana como acción de mejoramiento, en los términos de la legislación aplicable y los convenios de coordinación, a fin de resolver los problemas generados por los asentamientos irregulares existentes y establecer medidas para evitar su proliferación;
+XXVIII. Tramitar y resolver el recurso administrativo previsto en este Código, cuando el mismo se haya interpuesto en contra de resoluciones emanadas de autoridades estatales; y
 
-XXIX. Instrumentar las acciones para que el Gobierno del Estado ejerza el derecho de preferencia en lo relativo a predios comprendidos en las áreas de reservas de acuerdo a las disposiciones de este Código;
-
-XXX. Promover la realización de obras y la prestación de servicios públicos a nivel estatal, intermunicipal o donde participe el Gobierno del Estado, mediante la elaboración de proyectos y estudios técnicos que comprendan especificaciones y presupuestos;
-
-XXXI. Opinar en materia de financiamiento de obras, bases de empréstitos y contratos que provengan de otros órganos de planeación de la Administración Pública Estatal;
-
-XXXII. Realizar las obras de infraestructura y equipamiento previstas en los planes regionales de integración urbana, que le correspondan administrar conforme a su competencia;
-
-XXXIII. En coordinación con los Ayuntamientos, promover la constitución de los consejos regionales de desarrollo urbano y apoyarlos en sus actividades;
-
-XXXIV. En coordinación con los Ayuntamientos, emprender acciones para promover la constitución de asociaciones para la conservación y mejoramiento de sitios y fincas afectos al Patrimonio Cultural del Estado y apoyarlas en sus actividades;
-
-XXXV. Supervisar, mediante inspección técnica en el ámbito de su competencia, el cumplimiento exacto que deba darse a este Código;
-
-XXXVI. Determinar las infracciones y calificar las sanciones y medidas de seguridad que competa aplicar al Gobernador del Estado o sean de su propia competencia, conforme a las disposiciones de este Código;
-
-XXXVII. Tramitar y resolver el recurso administrativo previsto en este Código, cuando el mismo se haya interpuesto en contra de resoluciones emanadas de autoridades estatales, y
-
-XXXVIII. Las demás que le atribuyan este Código, y posiciones aplicables.
+XXIX. Las demás que le atribuyan este Código, y otras disposiciones aplicables.
 
 ### CAPITULO III. De los Municipios
 
@@ -479,13 +515,19 @@ IX. Participar en el ordenamiento y regulación de las áreas o regiones metropo
 
 X. Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades de este Código en el ámbito de su jurisdicción, mediante la celebración del convenio de coordinación que corresponda;
 
-XI. Solicitar a la Secretaria de Medio Ambiente para el Desarrollo Sustentable los estudios y dictámenes de impacto ambiental necesarios en toda autorización, permiso o licencia de construcción o de realización de cualquier obra en el municipio;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-XII. Solicitar a la Secretaría, la asesoría y apoyo técnico que requiera, para elaborar sus programas y planes de desarrollo urbano, aplicarlos, controlarlos, evaluarlos y revisarlos, conforme a los convenios de coordinación que celebre con el Titular del Poder Ejecutivo Estatal;
+XI. Solicitar a la Secretaría de Medio Ambiente y Desarrollo Territorial los estudios y dictámenes de impacto ambiental necesarios en toda autorización, permiso o licencia de construcción o de realización de cualquier obra en el municipio;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XII. Solicitar a la Secretaría de Medio Ambiente y Desarrollo Territorial, la asesoría y apoyo técnico que requiera, para elaborar sus programas y planes de desarrollo urbano, aplicarlos, controlarlos, evaluarlos y revisarlos, conforme a los convenios de coordinación que celebre con el Titular del Poder Ejecutivo Estatal;
 
 XIII. Celebrar con el Gobierno del Estado y, con su concurrencia, con la Federación y los gobiernos de otras entidades federativas, los convenios que apoyen los objetivos y prioridades propuestos en los programas y planes de desarrollo urbano que se ejecuten en su territorio municipal, de conformidad con este Código y demás ordenamientos aplicables;
 
-XIV. Convenir con el Titular del Poder Ejecutivo que la Secretaría desempeñe de manera total o parcial, las funciones técnicas que le corresponden en la aplicación de éste Código y ejecute obras públicas municipales, cuando carezca de los órganos administrativos correspondientes o la complejidad de los asuntos lo requiera;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XIV. Convenir con el Titular del Poder Ejecutivo que la Secretaría de Infraestructura y Obra Pública ejecute obras públicas municipales, cuando carezca de los órganos administrativos correspondientes o la complejidad de los asuntos lo requiera;
 
 XV. Coordinarse y asociarse con otros municipios de la Entidad para el cumplimiento de los programas y planes de desarrollo urbano;
 
@@ -559,13 +601,17 @@ XLVIII. Aprobar los convenios de coordinación metropolitana propuestos por las 
 
 XLIX. Participar en la construcción de los Institutos Metropolitanos de Planeación que les correspondan,
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-L. Llevar a cabo acciones para el acondicionamiento y servicios para las personas con discapacidad, y
+L. Llevar a cabo acciones para el acondicionamiento y servicios para las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-LI. Las demás que le atribuyan este código y disposiciones aplicables.
+LI. Convenir con el Titular del Poder Ejecutivo que la Secretaría de Medio Ambiente y Desarrollo Territorial desempeñe de manera total o parcial, las funciones técnicas que le corresponden en la aplicación de este Código, cuando carezca de los órganos administrativos correspondientes o la complejidad de los asuntos lo requiera; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+LII. Las demás que le atribuyan este Código y disposiciones aplicables.
 
 #### Sección Segunda. De Las Atribuciones del Presidente Municipal
 
@@ -573,7 +619,9 @@ LI. Las demás que le atribuyan este código y disposiciones aplicables.
 
 Son atribuciones del Presidente Municipal:
 
-I. Solicitar a la Secretaría la información relativa a los programas y planes nacionales y estatales de desarrollo urbano que requiera el ayuntamiento, para elaborar y revisar los programas y planes municipales;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+I. Solicitar a la Secretaría de Medio Ambiente y Desarrollo Territorial la información relativa a los programas y planes nacionales y estatales de desarrollo urbano que requiera el ayuntamiento, para elaborar y revisar los programas y planes municipales;
 
 II. Supervisar la elaboración, ejecución, control, evaluación y revisión del Programa Municipal de Desarrollo Urbano, de los planes que se deriven del mismo;
 
@@ -605,9 +653,13 @@ XV. Vigilar toda forma de publicidad comercial de urbanizaciones, para constatar
 
 XVI. Determinar las infracciones y medidas de seguridad de su competencia, que deban aplicarse en los términos del presente Código y conforme a las disposiciones de la Ley del Procedimiento Administrativo;
 
-XVII. Solicitar el apoyo de la Secretaría, cuando fuere necesario, para aplicar las medidas de seguridad a que se refiere la fracción anterior;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-XVIII. Ejecutar, con los medios del Ayuntamiento o solicitando el apoyo de la Secretaría, con cargo a las personas que realicen obras de urbanización o edificación, las obras que éstos omitan y que debieron ejecutar de conformidad con las autorizaciones y permisos otorgados;
+XVII. Solicitar el apoyo de la Secretaría de Medio Ambiente y Desarrollo Territorial, cuando fuere necesario, para aplicar las medidas de seguridad a que se refiere la fracción anterior;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XVIII. Ejecutar, con los medios del Ayuntamiento o solicitando el apoyo de la Secretaría de Infraestructura y Obra Pública, con cargo a las personas que realicen obras de urbanización o edificación, las obras que éstos omitan y que debieron ejecutar, de conformidad con las autorizaciones y permisos otorgados;
 
 XIX. Tramitar el recurso administrativo previsto en este Código, y
 
@@ -615,13 +667,17 @@ XX. Las demás que le señalen este Código y demás normas legales y reglamenta
 
 ### CAPITULO IV. De la Procuraduría de Desarrollo Urbano
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 12.
 
-El presente Capítulo tiene por objeto establecer la forma de, organización y funcionamiento de la Procuraduría de Desarrollo Urbano y sus disposiciones son del orden público e interés social y por tanto de observancia general en la Entidad.
+El presente Capítulo tiene por objeto establecer la forma de organización y funcionamiento de la Procuraduría de Desarrollo Urbano, y sus disposiciones son de orden público, de interés social y de observancia general en la entidad.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 13.
 
-La Procuraduría de Desarrollo Urbano es el Organismo Público Descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, a quien le corresponden las atribuciones de orientar y defender a los ciudadanos en la aplicación de la legislación urbanística, vigilar la correcta ejecución de la misma, así como promover la solución de todos los asuntos relacionados con el proceso de urbanización, conforme las disposiciones de este ordenamiento, observando los procedimientos administrativos o jurisdiccionales en los casos que establezcan las leyes.
+La Procuraduría de Desarrollo Urbano es el organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, encargado de orientar y defender a los ciudadanos en la aplicación de la legislación urbanística, vigilar la correcta ejecución de la misma, así como promover la solución de todos los asuntos relacionados con el proceso de urbanización, conforme las disposiciones de este ordenamiento, observando los procedimientos administrativos o jurisdiccionales en los casos que establezcan las leyes.
 
 ###### Artículo 14.
 
@@ -649,7 +705,9 @@ X. Prestar servicios gratuitos de asesoría a los ciudadanos que requieran y le 
 
 XI. Recibir y encauzar debidamente las peticiones relacionadas con la promoción del desarrollo urbano, que le formulen los vecinos de cualquier centro de población de la Entidad;
 
-XII. Dictaminar cuando así le sea solicitado y emitir el resolutivo correspondiente, respecto a la aplicación de las normas que ordenen y regulen el asentamiento humano en la Entidad, con el propósito de aclarar las controversias que se presenten;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XII. Emitir dictamen, cuando así le sea solicitado por una de las partes, respecto de la aplicación de las normas que ordenen y regulen los asentamientos humanos en la entidad, con el propósito de aclarar las controversias que se presenten;
 
 XIII. Vigilar los acuerdos y convenios que celebren las dependencias y organismos federales, estatales y municipales que tengan por objeto ejecutar acciones de conservación y mejoramiento en sitios, predios y fincas afectos al Patrimonio Cultural del Estado, para que estos se realicen con apego a la normatividad aplicable;
 
@@ -687,7 +745,9 @@ XXIX. Fungir como instancia de mediación o arbitraje en los casos de conflictos
 
 XXX. Desempeñar el cargo de director responsable ante toda clase de autoridades que soliciten sus servicios, con relación a la aplicación o interpretación de este Código;
 
-XXXI. Denunciar ante el Ministerio Público los actos y hechos a que contravengan las disposiciones señaladas en el Código Penal del Estado de Jalisco, en materia de delitos en materia de Desarrollo Urbano, ya sean que los persiga de oficio o le sean puestos en conocimiento por los particulares, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XXXI. Denunciar ante el Ministerio Público los actos, hechos u omisiones que puedan contravenir las disposiciones señaladas en el Código Penal del Estado de Jalisco, y que puedan constituir delitos en materia de desarrollo urbano, ya sean que los persiga de oficio o le sean puestos en conocimiento por los particulares; y
 
 XXXII. Las demás que expresamente le asignen el presente Código, la legislación civil y otros ordenamientos de la materia.
 
@@ -699,13 +759,15 @@ Los dictámenes que emita la Procuraduría, en ejercicio de la atribución que l
 
 La actuación que realice la Procuraduría de Desarrollo Urbano en la defensa y representación de los particulares, se iniciará de oficio o a petición de parte interesada, en forma gratuita y siempre atenta al ejercicio de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 17.
 
-Cuando la Procuraduría de Desarrollo Urbano intervenga conforme a lo previsto en la fracción XIV, del artículo 14 mediante acuerdo fundado y motivado, solicitará a la autoridad encargada de la vigilancia y control de esas acciones los informes respecto a las contravenciones, denuncias y en su caso la aplicación de medidas de seguridad que se hayan determinado y aplicado.
+Cuando la Procuraduría de Desarrollo Urbano intervenga conforme a lo previsto en la fracción XIV del artículo 14, mediante acuerdo fundado y motivado, solicitará a la autoridad encargada de la vigilancia y control de esas acciones, los informes respecto de las contravenciones, denuncias y, en su caso, la aplicación de medidas de seguridad que se hayan determinado y aplicado.
 
-La autoridad requerida dentro de los diez días hábiles siguientes a su recepción, rendirá informe fundado y motivado.
+La autoridad requerida, dentro de los diez días hábiles siguientes a su recepción, rendirá informe fundado y motivado.
 
-A falta de observancia a esta disposición nuevamente requerirá al municipio para que en un plazo de cinco días hábiles acate dicha solicitud, a falta de ésta, tramitará el recurso administrativo ante la autoridad competente previsto en este Código o en su caso, denunciar ante el ministerio público cualquier conducta que se presuma delictiva.
+A falta de observancia de esta disposición, nuevamente requerirá al municipio para que en un plazo de cinco días hábiles acate dicha solicitud, a falta de ésta, tramitará el recurso administrativo ante la autoridad competente, previsto en este Código o, en su caso, denunciará ante el ministerio público cualquier conducta que se presuma delictiva.
 
 ###### Artículo 18.
 
@@ -727,9 +789,13 @@ IV. Tener título en alguna licenciatura;
 
 V. Tener conocimientos y experiencia mínima de cinco años en materia de ordenamiento y regulación del asentamiento humano, y
 
-VI. No haber desempeñado, durante los últimos cuatro años anteriores, el cargo de Secretario de Desarrollo Urbano del Estado, ni haber sido titular, responsable o encargado de dependencia estatal o municipal responsable de emitir dictámenes, licencias, permisos y autorizaciones en materia de urbanizaciones, edificaciones, subdivisiones, relotificaciones e intervención en inmuebles afectos al patrimonio cultural edificado, ni haberse desempeñado como director responsable, apoderado general o representante en el ámbito privado en la misma materia.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-El Congreso del Estado emitirá la convocatoria conforme a lo establecido en el presente Código, para que los interesados presenten sus propuestas, quien en base a ellas designará al titular de la Procuraduría de Desarrollo Urbano.
+VI. No haber desempeñado, durante los últimos cuatro años anteriores, el cargo de Secretario de Infraestructura y Obra Pública o de Secretario de Medio Ambiente y Desarrollo Territorial, ni haber sido titular, responsable o encargado de dependencia estatal o municipal responsable de emitir dictámenes, licencias, permisos y autorizaciones en materia de urbanizaciones, edificaciones, subdivisiones, relotificaciones e intervención en inmuebles afectos al patrimonio cultural edificado, ni haberse desempeñado como director responsable, apoderado general o representante en el ámbito privado en la misma materia.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+El Congreso del Estado emitirá la convocatoria conforme a lo establecido en el presente Código para que los interesados presenten sus propuestas, el cual, con base en ellas, designará al titular de la Procuraduría de Desarrollo Urbano.
 
 ###### Artículo 20.
 
@@ -745,7 +811,9 @@ I. Representar a la Procuraduría, ante las autoridades administrativas, judicia
 
 II. Convocar a dependencias, organismos e instituciones públicas estatales y municipales; a los organismos de participación social y vecinal; así como a los organismos, instituciones y grupos sociales, para su información y consulta, en forma directa o a través del Consejo Estatal de Desarrollo Urbano o el Consejo Municipal de Desarrollo Urbano correspondiente;
 
-III. Suscribir los contratos, convenios, acuerdos y dictámenes que deba celebrar o expedir la Procuraduría, en el ejercicio de sus atribuciones y facultades; así como en el ejercicio de su función específica de titular del organismo, para el adecuado funcionamiento del mismo;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+III. Suscribir los contratos, convenios, acuerdos, opiniones y dictámenes que deba celebrar o expedir la Procuraduría, en el ejercicio de sus atribuciones y facultades; así como en el ejercicio de su función específica de titular del organismo, para el adecuado funcionamiento del mismo;
 
 IV. Proponer al Ejecutivo del Estado los proyectos de programas y el presupuesto de egresos para el ejercicio correspondiente a las funciones de la Procuraduría de Desarrollo Urbano;
 
@@ -792,6 +860,18 @@ IV. De Regulación y Ordenamiento de los Centros de Población;
 V. De Capacitación Ciudadana, Información y Difusión, y
 
 VI. De Gestión, Patrimonio y Apoyo Operativo.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+###### Artículo 23 Bis.
+
+Para ser designado como Director de Área de la Procuraduría de Desarrollo Urbano se requiere:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos;
+
+II. Tener título en alguna licenciatura. En el caso del Director del Área Jurídica, éste deberá contar con cédula profesional de Abogado o de Licenciado en Derecho, registrada en la Dirección de Profesiones del Estado; y
+
+III. Tener conocimientos y experiencia mínima de tres años en la materia propia de su Dirección de Área.
 
 ###### Artículo 24.
 
@@ -877,13 +957,19 @@ El Comité de Administración se integra con:
 
 I. Un presidente que será el titular del organismo público;
 
-II. Tres vocalías que corresponderán a los representantes de las dependencias del Poder Ejecutivo del Estado que a continuación se indican:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
 
-a) Secretaría General de Gobierno;
+II. Dos vocalías que corresponderán a los representantes de las dependencias del Poder Ejecutivo del Estado que a continuación se indican:
 
-b) Secretaría de Finanzas, y
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-c) Secretaría de Administración;
+a) Secretaría General de Gobierno; y
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+b) Secretaría de Planeación, Administración y Finanzas;
+
+c) (DEROGADO, P.O. 8 DE ABRIL DE 2014)
 
 III. Una vocalía que corresponderá al Director de Coordinación de la Procuraduría;
 
@@ -935,73 +1021,89 @@ El Consejo Estatal de Desarrollo Urbano, es el organismo de promoción, particip
 
 I. El Gobernador del Estado, quien será el presidente;
 
-II. El Titular de la Secretaría, quien será el secretario técnico;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-III. Un consejero por cada uno de los siguientes organismos representativos de la población del Estado de Jalisco:
+II. El Titular de la Secretaría de Infraestructura y Obra Pública, quién será el secretario técnico;
 
-a) Las Cámaras de Comercio en la Entidad,
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-b) Las Cámaras de Industria especializadas con sede en el Estado,
+III. El Titular de la Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-c) La Delegación de la Cámara Mexicana de la Industria de la Construcción,
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-d) La Delegación de la Cámara Nacional de Empresas de Consultoría,
+IV. Un consejero por cada uno de los siguientes organismos representativos de la población del Estado de Jalisco:
 
-e) La organización mayoritaria de peritos valuadores en el Estado de Jalisco,
+a) Las Cámaras de Comercio en la entidad;
 
-f) La Cámara de la Propiedad Urbana de Jalisco,
+b) Las Cámaras de Industria especializadas con sede en el Estado;
 
-g) El Colegio de Notarios del Estado,
+c) La Delegación de la Cámara Mexicana de la Industria de la Construcción;
 
-h) El colegio mayoritario de arquitectos del Estado de Jalisco,
+d) La Delegación de la Cámara Nacional de Empresas de Consultoría;
 
-i) El colegio mayoritario de ingenieros civiles del Estado de Jalisco,
+e) La organización mayoritaria de peritos valuadores en el Estado de Jalisco;
 
-j) El Centro Bancario Local,
+f) La Cámara de la Propiedad Urbana de Jalisco;
 
-k) La delegación de la Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda,
+g) El Colegio de Notarios del Estado;
 
-l) El sindicato patronal registrado ante la Junta Local de Conciliación y Arbitraje,
+h) El colegio mayoritario de arquitectos del Estado de Jalisco;
 
-m) Las dos organizaciones obreras mayoritarias en el Estado, según determine la Junta Local de Conciliación y Arbitraje, conforme al registro correspondiente,
+i) El colegio mayoritario de ingenieros civiles del Estado de Jalisco;
+
+j) El Centro Bancario Local;
+
+k) La delegación de la Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda;
+
+l) El sindicato patronal registrado ante la Junta Local de Conciliación y Arbitraje;
+
+m) Las dos organizaciones obreras mayoritarias en el Estado, según determine la Junta Local de Conciliación y Arbitraje, conforme al registro correspondiente;
 
 n) Las cuatro organizaciones mayoritarias de asociaciones de vecinos en el Estado, conforme las disposiciones que reglamenten su constitución;
 
-o) Un representante de las asociaciones civiles especializadas en materia de monumentos y sitios históricos,
+o) Un representante de las asociaciones civiles especializadas en materia de monumentos y sitios históricos;
 
-p) La organización mayoritaria de los ejidatarios, comuneros y trabajadores agrícolas en el Estado de Jalisco,
+p) La organización mayoritaria de los ejidatarios, comuneros y trabajadores agrícolas en el Estado de Jalisco;
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2013)</small>
+q) La organización mayoritaria de propietarios rurales en el Estado;
 
-q) La organización mayoritaria de propietarios rurales en el estado;
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2013)</small>
-
-r) El Consejo de Peritos en Supervisión Municipal, y
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2013)</small>
+r) El Consejo de Peritos en Supervisión Municipal; y
 
 s) El Colegio Mayoritario de Ingenieros Mecánicos y Electricistas del estado de Jalisco;
 
-IV. El Diputado Presidente de la Comisión de Desarrollo Urbano del Congreso del Estado;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-V. Un representante de la Dependencia del Poder Ejecutivo Federal competente en materia de desarrollo urbano y ordenamiento territorial;
+V. El Diputado Presidente de la Comisión de Desarrollo Urbano del Congreso del Estado;
 
-VI. Un representante por cada una de las dependencias y organismos del Poder Ejecutivo Estatal en materia de:
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-a) Planeación económica y social,
+VI. Un representante de la Dependencia del Poder Ejecutivo Federal competente en materia de desarrollo urbano y ordenamiento territorial;
 
-b) Vías de comunicación y transporte,
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-c) Equilibrio ecológico y la protección del ambiente,
+VII. Un representante por cada una de las dependencias y organismos del Poder Ejecutivo Estatal en materia de:
 
-d) Reservas territoriales y promoción de la vivienda;
+a) Planeación;
 
-VII. Un representante por cada consejo regional de desarrollo urbano;
+b) Desarrollo económico;
 
-VIII. Un representante de cada una de las tres principales universidades del Estado, que cuenten con estudios profesionales en el área de la arquitectura, ingeniería civil o desarrollo urbano, y
+c) Desarrollo social;
 
-IX. El Procurador de Desarrollo Urbano del estado de Jalisco.
+d) Promoción de la vivienda;
+
+e) Vías de comunicación y movilidad;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+VIII. Un representante por cada consejo regional de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+IX. Un representante de cada una de las tres principales universidades del Estado, que cuenten con estudios profesionales en el área de la arquitectura, ingeniería civil o desarrollo urbano; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+X. El Procurador de Desarrollo Urbano del Estado de Jalisco.
 
 ###### Artículo 40.
 
@@ -1053,9 +1155,17 @@ XIII. Elaborar el proyecto de su reglamento y presentarlo a consideración del T
 
 XIV. Conferir a sus miembros, comisiones especiales en la esfera de sus atribuciones;
 
-XV. Invitar en forma permanente a organismos de investigación o de participación o promoción urbana que consideren permanente, con derecho a voz pero sin derecho a voto, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-XVI. Las demás funciones que se le atribuyan en el presente Código.
+XV. Invitar en forma permanente a organismos de investigación o de participación o promoción urbana que consideren permanente, con derecho a voz pero sin derecho a voto;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XVI. Dictaminar y emitir el resolutivo correspondiente, respecto a la aplicación de las normas que ordenen y regulen los asentamientos humanos en la entidad, con el propósito de aclarar las controversias que se presenten; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XVII. Las demás funciones que se le atribuyan en el presente Código.
 
 ###### Artículo 44.
 
@@ -1125,9 +1235,11 @@ IV. Los proyectos estratégicos y los avances de la inversión pública para el 
 
 V. La evolución de los fenómenos y problemas urbanos y metropolitanos de la entidad y de cada municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 52.
 
-Para apoyar el funcionamiento de los observatorios urbanos, la Secretaría y los municipios deberán:
+Para apoyar el funcionamiento de los observatorios urbanos, la Secretaría de Medio Ambiente y Desarrollo Territorial y los municipios deberán:
 
 I. Producir información asequible sobre el proceso de desarrollo urbano que refleje la diversidad de las ciudades del Estado;
 
@@ -1355,9 +1467,11 @@ De cada programa o plan de desarrollo urbano, el Ejecutivo Estatal y el Presiden
 
 Los planes y programas de desarrollo urbano así como, los proyectos definitivos de urbanización que modifiquen el uso de suelo deberán someterse a evaluación en materia de impacto ambiental de forma previa a su autorización, para el fortalecimiento de la sustentabilidad del desarrollo urbano y contar con dictamen probatorio de su evaluación por la autoridad competente conforme a las disposiciones aplicables en materia de planeación y los ordenamientos ecológicos.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 87.
 
-Los programas y planes de desarrollo urbano, se mantendrán disponibles para información y consulta del público en las oficinas en donde se lleve su registro, en la Secretaría, en la Procuraduría de Desarrollo Urbano y en las dependencias municipales que designen los ayuntamientos.
+Los programas y planes de desarrollo urbano se mantendrán disponibles para información y consulta del público en las oficinas en donde se lleve su registro, en la Secretaría de Medio Ambiente y Desarrollo Territorial, en la Procuraduría de Desarrollo Urbano y en las dependencias municipales que designen los ayuntamientos.
 
 #### Sección Primera. Del Programa Estatal de Desarrollo Urbano
 
@@ -1425,9 +1539,11 @@ X. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplic
 
 XI. La implementación de infraestructura para espacios destinados a ciclovías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 91.
 
-El proyecto de Programa Estatal de Desarrollo Urbano será formulado por la Secretaría, a partir de las opiniones vertidas en foros con los sectores organizados de la sociedad para efecto de recoger sus inquietudes y demandas con el fin de integrarla al diagnostico, así como de los estudios e investigaciones que realice; de las propuestas que hagan las dependencias y entes públicos de ese sector de la Administración Pública Estatal; de las recomendaciones que presente el Consejo Estatal de Desarrollo Urbano y la Procuraduría de Desarrollo Urbano; de las propuestas que formulen los gobiernos municipales y las comisiones de áreas metropolitanas y de la evaluación que se realice del mismo programa.
+El proyecto de Programa Estatal de Desarrollo Urbano será formulado por la Secretaría de Medio Ambiente y Desarrollo Territorial con la coadyuvancia de la Secretaría de Infraestructura y Obra Pública, a partir de las opiniones vertidas en foros con los sectores organizados de la sociedad para efecto de recoger sus inquietudes y demandas con el fin de integrarla al diagnóstico, así como de los estudios e investigaciones que realice; de las propuestas que hagan las dependencias y entes públicos de ese sector de la administración pública estatal; de las recomendaciones que presente el Consejo Estatal de Desarrollo Urbano y la Procuraduría de Desarrollo Urbano; de las propuestas que formulen los gobiernos municipales y las comisiones de áreas metropolitanas y de la evaluación que se realice del mismo programa.
 
 La elaboración del Programa Estatal de Desarrollo Urbano, se sujetará a los procedimientos generales de la legislación aplicable en materia de planeación, así como a las disposiciones del presente Código.
 
@@ -1439,13 +1555,15 @@ I. Se convocará y desarrollará por el Consejo Estatal de Desarrollo Urbano;
 
 II. El Consejo Estatal al someter a consulta pública el proyecto de Programa Estatal de Desarrollo Urbano o su actualización, establecerá un término no menor de un mes, para recibir por escrito los comentarios y aportaciones que consideren oportuno formular las personas, instituciones y los distintos grupos que integran la comunidad, y
 
-III. Los comentarios y aportaciones de la consulta serán analizados. Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundamentarse y estarán a consulta de los interesados en las oficinas de la Secretaría, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+III. Los comentarios y aportaciones de la consulta serán analizados. Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundamentarse y estarán a consulta de los interesados en las oficinas de la Secretaría de Medio Ambiente y Desarrollo Territorial, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 93.
 
-Una vez elaborado el proyecto del Programa Estatal de Desarrollo Urbano, la Secretaría lo someterá a la aprobación del Gobernador del Estado, previo dictamen de la Dependencia del Ejecutivo Estatal competente en materia de planeación.
-
-Aprobado el Programa Estatal de Desarrollo Urbano, el mismo Gobernador ordenará su publicación, en los términos del artículo 82 de este Código.
+Una vez elaborado el proyecto del Programa Estatal de Desarrollo Urbano, la Secretaría de Medio Ambiente y Desarrollo Territorial lo someterá a la aprobación del Gobernador del Estado, previo dictamen de la Dependencia del Ejecutivo Estatal competente en materia de planeación.
 
 #### Sección Segunda. Del Programa Municipal de Desarrollo Urbano
 
@@ -1523,7 +1641,9 @@ II. Para elaborar el proyecto de programa, la Dependencia Municipal realizará f
 
 III. El Ayuntamiento por medio de su comisión en materia de planeación socioeconómica, urbanización y edificación convocarán y coordinarán la consulta pública, a fin de promover la participación de los distintos grupos sociales que integran la comunidad;
 
-IV. El proyecto se publicará en los estrados de la Presidencia Municipal, en las delegaciones y en los lugares de mayor concurrencia de la población. Asimismo se enviará copia a la Secretaría y a la Procuraduría de Desarrollo Urbano y se facilitarán a las personas, instituciones y asociaciones de todos los sectores que lo requieran, quienes dispondrán de un mes contado a partir de la fecha cuando se publique la convocatoria, para formular por escrito los comentarios, críticas y proposiciones concretas que consideren oportunos; de abstenerse se entenderá que no hay comentarios que presentar por parte de estas dependencias, institución o asociación, respecto del mismo;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+IV. El proyecto se publicará en los estrados de la Presidencia Municipal, en las delegaciones y en los lugares de mayor concurrencia de la población. Asimismo se enviará copia a la Secretaría de Medio Ambiente y Desarrollo Territorial y a la Procuraduría de Desarrollo Urbano y se facilitarán a las personas, instituciones y asociaciones de todos los sectores que lo requieran, quienes dispondrán de un mes contado a partir de la fecha cuando se publique la convocatoria, para formular por escrito los comentarios, críticas y proposiciones concretas que consideren oportunos; de abstenerse se entenderá que no hay comentarios que presentar por parte de estas dependencias, institución o asociación, respecto del mismo;
 
 V. Cumplidas las consultas a que se refiere la fracción anterior, se procederá a revisar el proyecto para considerar las opiniones recibidas;
 
@@ -1673,11 +1793,15 @@ V. La instrumentación técnica, administrativa y jurídica.
 
 Para integrar el ordenamiento territorial de la región, se aplicarán las normas referidas por este Código. Asimismo podrán estipularse criterios específicos aplicables a las áreas y predios localizados en el territorio regional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 111.
 
-La Secretaría someterá el proyecto de Plan Regional de Integración Urbana a consideración del consejo regional correspondiente y de los ayuntamientos comprendidos en su región, a fin de que expresen sus opiniones en el término de un mes a partir de la fecha en que reciban el documento.
+La Secretaría de Medio Ambiente y Desarrollo Territorial someterá el proyecto de Plan Regional de Integración Urbana a consideración del consejo regional correspondiente y de los ayuntamientos comprendidos en su región, a fin de que expresen sus opiniones en el término de un mes a partir de la fecha en que reciban el documento.
 
-Recibidas las observaciones de los ayuntamientos, la Secretaría ajustará el proyecto de plan a las mismas, en los casos que procedan.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+Recibidas las observaciones de los ayuntamientos, la Secretaría referida en el párrafo anterior, ajustará el proyecto de plan a las mismas, en los casos que procedan.
 
 El proyecto, previo dictamen de la Dependencia del ejecutivo estatal competente en materia de planeación, se someterá a la consideración del Gobernador del Estado, quien una vez que lo haya aprobado, procederá a establecer la coordinación con los gobiernos municipales involucrados.
 
@@ -1843,7 +1967,9 @@ I. El ayuntamiento aprobará se elabore el plan parcial de desarrollo urbano o s
 
 II. El Presidente Municipal, a través de la dependencia técnica, coordinará la elaboración del plan parcial de desarrollo urbano; se harán las consultas con los titulares y habitantes de inmuebles, así como a los grupos organizados de la sociedad a quienes corresponda participar de acuerdo al área de aplicación del plan parcial de desarrollo urbano o a las acciones urbanísticas propuestas y se realizarán los estudios que considere necesarios, apoyándose en las comisiones permanentes del Municipio, relacionadas con las actividades objeto del plan parcial de desarrollo urbano;
 
-III. Formulado el proyecto de plan parcial de desarrollo urbano, se remitirá al Consejo Municipal de Desarrollo Urbano, a la Secretaría y a la Procuraduría de Desarrollo Urbano para los efectos de su consulta pública así como, el procedimiento señalado en el artículo 98 de este Código;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+III. Formulado el proyecto de plan parcial de desarrollo urbano, se remitirá al Consejo Municipal de Desarrollo Urbano, a la Secretaría de Medio Ambiente y Desarrollo Territorial y a la Procuraduría de Desarrollo Urbano para los efectos de su consulta pública así como, el procedimiento señalado en el artículo 98 de este Código;
 
 IV. Recibidas las observaciones de la consulta pública, se integrarán las procedentes al proyecto de plan parcial de desarrollo urbano;
 
@@ -1911,9 +2037,11 @@ II. Los dictámenes, certificaciones, autorizaciones, licencias o permisos que s
 
 III. Las obras de urbanización, edificación, restauración e infraestructura que sean a cargo de las autoridades federales, estatales o municipales, se ejecutarán en los términos previstos en este Código, los programas y planes de desarrollo urbano y demás disposiciones específicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 132.
 
-Las autoridades municipales correspondientes y la Secretaría, en sus ámbitos de competencia, supervisarán la ejecución de los proyectos y verificarán, en todo momento, que las obras y demás actividades estén de acuerdo con los lineamientos señalados en los programas y planes de desarrollo urbano aplicables y en los convenios respectivos.
+Las autoridades municipales correspondientes, así como las Secretarías de Infraestructura y Obra Pública y la de Medio Ambiente y Desarrollo Territorial, en sus ámbitos de competencia, supervisarán la ejecución de los proyectos y verificarán, en todo momento, que las obras y demás actividades estén de acuerdo con los lineamientos señalados en los programas y planes de desarrollo urbano aplicables y en los convenios respectivos.
 
 Las visitas de verificación se realizarán conforme a las disposiciones que se indican en el Título Décimo Segundo de este Código.
 
@@ -2499,9 +2627,11 @@ IV. Reducir y abatir los procesos de ocupación irregular de áreas y predios, m
 
 V. Fortalecer los catastros y registros públicos de la propiedad y la modernización de las haciendas municipales, promoviendo la actualización de los tributos relacionados con la propiedad inmobiliaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 188.
 
-Para los efectos del artículo anterior, la Secretaría en coordinación con la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado, suscribirá acuerdos de coordinación con los municipios y las entidades y dependencias federales y, en su caso, convenios de concertación con los sectores social y privado, en los que se especificarán:
+Para los efectos del artículo anterior, la Secretaría de Medio Ambiente y Desarrollo Territorial en coordinación con la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado, suscribirá acuerdos de coordinación con los municipios y las entidades y dependencias federales y, en su caso, convenios de concertación con los sectores social y privado, en los que se especificarán:
 
 I. Los requerimientos de suelo y reservas territoriales para el desarrollo urbano para sus distintos usos, conforme a lo previsto en los programas en la materia;
 
@@ -2523,9 +2653,11 @@ IX. Los compromisos para la modernización de procedimientos y trámites adminis
 
 X. Los mecanismos e instrumentos financieros para la dotación de infraestructura, equipamiento y servicios urbanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 189.
 
-En materia de suelo y reservas territoriales la Secretaría, en coordinación con otras autoridades competentes en la materia, promoverá:
+En materia de suelo y reservas territoriales la Secretaría de Medio Ambiente y Desarrollo Territorial, en coordinación con otras autoridades competentes en la materia, promoverá:
 
 I. La transferencia, enajenación, expropiación o destino de terrenos para la ejecución de planes o programas de desarrollo urbano, a favor de los gobiernos federal, estatal, municipales o de los promotores sociales o privados, conforme a las disposiciones jurídicas aplicables;
 
@@ -2593,11 +2725,13 @@ Los notarios públicos y demás fedatarios sólo podrán autorizar escrituras de
 
 En los casos de tierras ejidales o comunales ubicadas dentro de los límites de un centro de población, los notarios y demás fedatarios públicos sólo podrán autorizar escrituras de actos, convenios y contratos de transmisión o enajenación de derechos agrarios, previa comprobación de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios, de conformidad con lo previsto con este Código y los planes o programas de desarrollo urbano aplicables; mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 198.
 
-Si el ayuntamiento y la Secretaría, en forma expresa declinan el ejercicio del derecho de preferencia en la adquisición del predio, o si en el plazo señalado en el artículo que antecede, no dan respuesta, las partes procederán a perfeccionar el acto traslativo de dominio y el notario autorizará las escrituras correspondientes, en el precio notificado a la autoridad, en un plazo máximo de tres meses.
+Si el Ayuntamiento y la Secretaría de Medio Ambiente y Desarrollo Territorial, en forma expresa declinan el ejercicio del derecho de preferencia en la adquisición del predio, o si en el plazo señalado en el artículo que antecede, no dan respuesta, las partes procederán a perfeccionar el acto traslativo de dominio y el notario autorizará las escrituras correspondientes, en el precio notificado a la autoridad, en un plazo máximo de tres meses.
 
-Si el acto traslativo de dominio, por cualquier causa se difiere y transcurre el plazo de tres meses, para su realización será necesario repetir el procedimiento dispuesto en el artículo anterior. Igualmente procederá informar a la Presidencia Municipal y a la Secretaría, si las partes acuerdan modificar las condiciones para la enajenación del predio, fijando un precio menor al informado a las autoridades.
+Si el acto traslativo de dominio, por cualquier causa se difiere y transcurre el plazo de tres meses, para su realización será necesario repetir el procedimiento dispuesto en el artículo anterior. Igualmente procederá informar a la Presidencia Municipal y a la Secretaría de Medio Ambiente y Desarrollo Territorial, si las partes acuerdan modificar las condiciones para la enajenación del predio, fijando un precio menor al informado a las autoridades.
 
 ###### Artículo 199.
 
@@ -2615,9 +2749,11 @@ Para el ejercicio del derecho consignado en el artículo 196 de este Código, en
 
 El derecho de preferencia, sólo se ejercerá en el caso de enajenación a título oneroso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 203.
 
-El Notario Público, una vez que autorice la escritura donde conste el acto traslativo de dominio de predios comprendidos en la determinación de reserva, en un plazo de treinta días deberá informar a la Presidencia Municipal y a la Secretaría, sobre las condiciones definitivas de la operación, adjuntando:
+El Notario Público, una vez que autorice la escritura donde conste el acto traslativo de dominio de predios comprendidos en la determinación de reserva, en un plazo de treinta días deberá informar a la Presidencia Municipal y a la Secretaría de Medio Ambiente y Desarrollo Territorial, sobre las condiciones definitivas de la operación, adjuntando:
 
 I. Copia de la escritura autorizada por el notario, y
 
@@ -2625,9 +2761,11 @@ II. Copia de las comunicaciones enviadas por el notario, en cumplimiento de las 
 
 III. Copia de los documentos que acrediten las excepciones.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 204.
 
-Si del informe que presente el Notario Público a la Presidencia Municipal y a la Secretaría conforme el artículo que antecede, la autoridad advierte que no fue notificado, o que el precio pagado por el predio es menor al informado, conforme al artículo 196 de este Código, o se invocó alguna de las excepciones sin acreditarla, podrá comunicar al adquirente y al notario, en un plazo no mayor de treinta días, su decisión de ejercer el derecho de preferencia, pagando el mismo precio fijado en la operación, o en su caso, el que se determine conforme al artículo 201 de este Código y, en tal caso, la operación de que se trate será nula.
+Si del informe que presente el Notario Público a la Presidencia Municipal y a la Secretaría de Medio Ambiente y Desarrollo Territorial conforme el artículo que antecede, la autoridad advierte que no fue notificado, o que el precio pagado por el predio es menor al informado, conforme al artículo 196 de este Código, o se invocó alguna de las excepciones sin acreditarla, podrá comunicar al adquirente y al notario, en un plazo no mayor de treinta días, su decisión de ejercer el derecho de preferencia, pagando el mismo precio fijado en la operación, o en su caso, el que se determine conforme al artículo 201 de este Código y, en tal caso, la operación de que se trate será nula.
 
 ###### Artículo 205.
 
@@ -2761,13 +2899,17 @@ VII. Vestíbulos de acceso a edificios;
 
 VIII. Vía pública;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-IX. Señalamientos y provisiones; y
+IX. Señalamientos y provisiones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-X. sistemas de recuperación y almacenamiento de agua pluviales.
+X. Sistemas de recuperación y almacenamiento de aguas pluviales; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+XI. Instalaciones para energía alternativa.
 
 ###### Artículo 224.
 
@@ -2847,9 +2989,11 @@ Las actividades urbanísticas normadas por el presente Código, en el ámbito mu
 
 El municipio, conforme a las disposiciones y bases de la ley en materia de administración pública municipal, establecerá la dependencia que tendrá a su cargo los procedimientos para expedir los dictámenes, autorizaciones y licencias previstas en el artículo 10 y demás disposiciones del presente Código.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 232.
 
-En caso de que el municipio haya celebrado con el Ejecutivo Estatal el convenio correspondiente, la Secretaría elaborará y expedirá los dictámenes previstos en los procedimientos de autorización, obras de urbanización y en su caso, autorizar las obras de edificación.
+En caso de que el municipio haya celebrado con el Ejecutivo Estatal el convenio correspondiente, la Secretaría de Medio Ambiente y Desarrollo Territorial con la coadyuvancia de la Secretaría de Infraestructura y Obra Pública, elaborará y expedirá los dictámenes previstos en los procedimientos de autorización, obras de urbanización y en su caso, autorizar las obras de edificación.
 
 ###### Artículo 233.
 
@@ -3241,11 +3385,15 @@ II. En caso de no inicio o suspensión de las obras, el urbanizador deberá noti
 
 III. Las obras de urbanización deberán concluirse en el plazo que se fije en su licencia o permiso, salvo causas graves de fuerza mayor, justificadas en los registros de bitácora de obra, autorizados por el supervisor municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 268.
 
-Tanto la Dependencia Municipal como la Secretaría en sus respectivos ámbitos de competencia, deberán en todo tiempo supervisar, mediante inspección técnica, la ejecución de las obras, vigilando el debido cumplimiento de las normas de calidad y de las especificaciones del proyecto autorizado para las obras de urbanización.
+Tanto la Dependencia Municipal como la Secretaría de Infraestructura y Obra Pública en sus respectivos ámbitos de competencia, deberán en todo tiempo supervisar, mediante inspección técnica, la ejecución de las obras, vigilando el debido cumplimiento de las normas de calidad y de las especificaciones del proyecto autorizado para las obras de urbanización.
 
-La Secretaría cuando practique una inspección a obras de urbanización, comunicará sus observaciones a la Dependencia Municipal correspondiente, a fin de enterarlo de posibles anomalías en el proceso de ejecución de las obras.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+La Secretaría referida en el párrafo anterior, cuando practique una inspección a obras de urbanización, comunicará sus observaciones a la Dependencia Municipal correspondiente, a fin de enterarlo de posibles anomalías en el proceso de ejecución de las obras.
 
 Los urbanizadores y los directores responsables, cumplirán las indicaciones que hagan los inspectores técnicos de la Dependencia Municipal, mismas que deberán apegarse al proyecto definitivo de urbanización.
 
@@ -3651,6 +3799,8 @@ III. La concesión de servicios municipales relativos a obras de vialidad, cuand
 
 ### CAPÍTULO II. De la imagen urbana
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 306.
 
 Las disposiciones de este Capítulo son aplicables a los actos de fusión, subdivisión y relotificación de predios, ubicados dentro y fuera de los centros de población.
@@ -3885,7 +4035,9 @@ IV. Se informará y asesorará a los adquirentes respecto de los sistemas técni
 
 Para promover una acción urbanística de objetivo social será necesario:
 
-I. Realizar los estudios que la fundamenten, tanto en lo económico y social, como en lo relativo a la posibilidad de urbanizar los terrenos donde se proyecte el desarrollo, en relación con los servicios de agua potable, drenaje, electricidad, entre otros;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+I. Realizar los estudios que la fundamenten, tanto en lo económico y social, como en lo relativo a la posibilidad de urbanizar los terrenos donde se proyecte el desarrollo, en relación con los servicios de agua potable, drenaje, electricidad, sistemas para energía alternativa y aprovechamiento sustentable de recursos, entre otros;
 
 II. Con base a estos estudios, el municipio tomará la decisión en un plazo no mayor de 30 días de autorizar la urbanización bajo este sistema;
 
@@ -3955,7 +4107,7 @@ Las dependencias de cultura tendrán la obligación de participar y opinar sobre
 
 ###### Artículo 337.
 
-La Secretaría y los municipios promoverán la imagen urbana de los centros de población en el Estado, con la finalidad de coadyuvar a la adecuada conservación, mantenimiento y preservación de las áreas y estructuras urbanas, evitando que los intereses particulares se antepongan a la conservación general de las mismas, sujetándose a las prescripciones contenidas en el presente capítulo.
+La Secretaría de Infraestructura y Obra Pública y los municipios promoverán la imagen urbana de los centros de población en el estado, con la finalidad de coadyuvar a la adecuada conservación, mantenimiento y preservación de las áreas y estructuras urbanas, evitando que los intereses particulares se antepongan a la conservación general de las mismas, sujetándose a las prescripciones contenidas en el presente Capítulo.
 
 ###### Artículo 338.
 
@@ -4107,33 +4259,55 @@ Los peritos en supervisión municipal tendrán una función de orden normativo, 
 
 Por la modalidad de su actuación y alcance de su responsabilidad los directores responsables, se clasifican según su desempeño y especialidad, de la siguiente manera:
 
-I. En Planeación Urbana: Son los profesionistas que apoyan a las autoridades en las tareas de la planeación del desarrollo urbano, con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y legalmente establecidos, responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, así como con otros niveles de planeación y demás leyes y reglamentos aplicables;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+I. En Planeación Urbana: Son los profesionistas que apoyan a las autoridades en las tareas de la planeación del desarrollo urbano, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y legalmente establecidos, responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, así como con otros niveles de planeación y demás leyes y reglamentos aplicables;
 
 II. En Proyecto: Son los profesionistas autores de los proyectos y expertos en la elaboración de los proyectos ejecutivos, que se encuentran legalmente establecidos, clasificados en cuanto a su profesión, ejercicio, especialización y responsabilidad, de la siguiente manera;
 
-a) De Edificación: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de edificación con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, el reglamento de construcción municipal y demás leyes y reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-b) De Restauración: Son los responsables de la elaboración de los proyectos ejecutivos de restauración de edificios y monumentos del patrimonio histórico y cultural, con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, la Ley del Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios, el presente Código Urbano, los reglamentos municipales y demás leyes y disposiciones aplicables;
+a) De Edificación: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de edificación con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, el reglamento de construcción municipal y demás leyes y reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables;
 
-c) Urbanización: Son responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra urbana, con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables, y
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-d) De Infraestructura: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de infraestructura, con título, cedula profesional de ingeniero civil o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los programas y planes de desarrollo urbano aplicables.
+b) De Restauración: Son los responsables de la elaboración de los proyectos ejecutivos de restauración de edificios y monumentos del patrimonio histórico y cultural, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley del Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios, el presente Código Urbano, los reglamentos municipales y demás leyes y disposiciones aplicables;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+c) Urbanización: Son responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra urbana, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables; y
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+d) De Infraestructura: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los programas y planes de desarrollo urbano aplicables; y
 
 III. En Obra: Son los profesionistas responsables del control y construcción de cualquier género de obra, que se encuentran legalmente establecidos, responsabilizándose que la ejecución de las obras que le sean encomendadas, cuidando y dirigiendo bajo su responsabilidad que, se realicen estrictamente de acuerdo a los proyectos ejecutivos y especificaciones aprobados por la autoridad municipal, de las leyes y reglamentos que correspondan, de las autorizaciones para el inicio, durante y la terminación de la misma, de las normas de seguridad, del sistema constructivo, de la calidad de los materiales, de la afectación a terceros y de todo cuanto se requiera durante el proceso, terminación y finiquito de la obra, clasificados en cuanto a su profesión, ejercicio, especialización y responsabilidad, de la siguiente manera:
 
-a) De Edificación: Son los responsables de cualquier género de obra de edificación, con título, cedula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad y experiencia en la materia;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-b) De Restauración: Son los responsables de cualquier género de obra de restauración de edificios y monumentos del patrimonio histórico, cultural y artístico, con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia;
+a) De Edificación: Son los responsables de cualquier género de obra de edificación, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia;
 
-c) De Urbanización: Son los responsables de cualquier género de obra urbana, con título, cedula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad y experiencia en la materia, y
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-d) Infraestructura: Son los responsables de cualquier género de obra de infraestructura, con título, cedula profesional de ingeniero civil, o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad y experiencia en la materia.
+b) De Restauración: Son los responsables de cualquier género de obra de restauración de edificios y monumentos del patrimonio histórico, cultural y artístico, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+c) De Urbanización: Son los responsables de cualquier género de obra urbana, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia; e
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+d) Infraestructura: Son los responsables de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil, o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 350.
 
-Los peritos en supervisión municipal son los profesionistas auxiliares de la autoridad municipal en la verificación de las obras de urbanización o edificación, con título, cedula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad y experiencia en la materia, que son los contratados por la autoridad municipal para auxiliarla en la verificación de las acciones urbanísticas, con el propósito de que éstas se ejecuten estrictamente de acuerdo a los proyectos y especificaciones aprobados por la autoridad municipal, reportando las anomalías que detecte, asumiendo en cada caso las responsabilidades legales que de tal proceso se deriven, teniendo, asimismo, la responsabilidad de informar periódicamente o antes en el caso de ser necesario, a la dependencia municipal correspondiente.
+Los peritos en supervisión municipal son los profesionistas auxiliares de la autoridad municipal en la verificación de las obras de urbanización o edificación, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia, que son los contratados por la autoridad municipal para auxiliarla en la verificación de las acciones urbanísticas, con el propósito de que éstas se ejecuten estrictamente de acuerdo a los proyectos y especificaciones aprobados por la autoridad municipal, reportando las anomalías que detecte, asumiendo en cada caso las responsabilidades legales que de tal proceso se deriven, teniendo, asimismo, la responsabilidad de informar periódicamente o antes en el caso de ser necesario, a la dependencia municipal correspondiente.
 
-Adicionalmente los directores responsables podrán auxiliarse de los Corresponsables de Obra que son los profesionistas que tiene conocimientos especializados en un área específica del proyecto, de la construcción, de la restauración, de la urbanización o infraestructura y que por ello puede responsabilizarse junto con el Director Responsable de Proyecto u Obras, cuando éste así lo solicite o cuando la complejidad o el tamaño de la obra lo requiera en el área específica de su especialidad, deberá contar con su título, cedula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad y experiencia en la materia.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+Adicionalmente los directores responsables podrán auxiliarse de los corresponsables de obra que son los profesionistas que tiene conocimientos especializados en un área específica del proyecto, de la construcción, de la restauración, de la urbanización o infraestructura y que por ello puede responsabilizarse junto con el Director Responsable de Proyecto u Obras, cuando éste así lo solicite o cuando la complejidad o el tamaño de la obra lo requiera en el área específica de su especialidad, deberá contar con su título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia.
 
 La clasificación de los directores responsables no es limitativa, los profesionistas tienen la posibilidad de tener diversas, siempre y cuando reúnan los requisitos necesarios para desempeñar su actividad en diferentes especialidades, las cuales serán certificadas por el Colegio de Profesionistas al que pertenezcan y ratificadas por la autoridad municipal.
 
@@ -4153,6 +4327,8 @@ La autoridad municipal deberá llevar un catálogo o registro pormenorizado y p�
 
 De las normas aplicables al procedimiento administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 353.
 
 Para el ejercicio de sus funciones los peritos supervisores municipales deberán tramitar y obtener su registro ante el Consejo Estatal de Peritos en Supervisión Municipal.
@@ -4161,15 +4337,21 @@ Los peritos supervisores municipales deberán refrendar su registro cada tres a�
 
 Cuando un Municipio cobre los derechos por supervisión de obras, tendrá la obligación de realizarlas directamente o con el apoyo de los peritos supervisores municipales.
 
-El Consejo Estatal de Peritos en Supervisión Municipal deberá llevar un catálogo o registro pormenorizado y público de los peritos supervisores municipales que hayan reunido los requisitos correspondientes y por tanto pueden fungir como tales y notificará a la Secretaría y a los municipios para su ratificación.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+El Consejo Estatal de Peritos en Supervisión Municipal deberá llevar un catálogo o registro pormenorizado y público de los peritos supervisores municipales que hayan reunido los requisitos correspondientes y, que por tanto, pueden fungir como tales, notificando a la Secretaría de Infraestructura y Obra Pública y a los municipios para su ratificación.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 354.
 
-La Secretaría y los municipios podrán auxiliarse del Consejo Estatal de Peritos (sic) Supervisión Municipal, como organismo técnico ciudadano que apoya la actuación y capacitación de los mismos, en los términos de las normas reglamentarias correspondientes.
+La Secretaría de Infraestructura y Obra Pública y los municipios podrán auxiliarse del Consejo Estatal de Peritos Supervisión Municipal, como organismo técnico ciudadano que apoya la actuación y capacitación de los mismos, en los términos de las normas reglamentarias correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 355.
 
-El Consejo Estatal de Peritos en Supervisión Municipal estará integrado por los representantes de los colegios de profesionistas de ingenieros civiles y arquitectos legalmente establecidos y registrados en el Estado de Jalisco y acreditados por la dirección de profesiones del estado de Jalisco.
+El Consejo Estatal de Peritos en Supervisión Municipal estará integrado por los representantes de los colegios de profesionistas de ingenieros civiles y arquitectos legalmente establecidos y registrados en el Estado de Jalisco y acreditados por la Dirección de Profesiones del Estado de Jalisco.
 
 ###### Artículo 356.
 
@@ -4263,7 +4445,7 @@ VII. Permitir y facilitar las labores de verificación de la autoridad municipal
 
 ###### Artículo 361.
 
-Las autoridades municipales correspondientes y la Secretaría, en sus ámbitos de competencia, supervisarán la ejecución de los proyectos y verificarán, en todo momento, que las obras y demás actividades estén de acuerdo con los lineamientos señalados en los planes y programas de desarrollo urbano aplicables y en los convenios respectivos.
+Las autoridades municipales correspondientes y las Secretarías de Infraestructura y Obra Pública y de Medio Ambiente y Desarrollo Territorial, en sus ámbitos de competencia, supervisarán la ejecución de los proyectos y verificarán, en todo momento, que las obras y demás actividades estén de acuerdo con los lineamientos señalados en los planes y programas de desarrollo urbano aplicables y en los convenios respectivos.
 
 Las visitas de verificación se realizarán conforme a las disposiciones que se indican en el presente Título de este Código.
 
@@ -4333,7 +4515,9 @@ V. Los recursos administrativos y procesos jurisdiccionales para la defensa de l
 
 Son autoridades competentes para determinar y ejecutar las medidas de seguridad y aplicar las sanciones administrativas previstas en este Código:
 
-I. El Gobernador del Estado y la Secretaría, en el ámbito de competencia de las autoridades estatales, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+I. El Gobernador del Estado y la Secretaría de Medio Ambiente y Desarrollo Territorial, en el ámbito de competencia de las autoridades estatales; y
 
 II. Los ayuntamientos y los presidentes municipales.
 
@@ -4347,7 +4531,9 @@ I. Las autoridades competentes, a petición de parte o de oficio, resolverán ad
 
 II. Esta resolución expresará sus fundamentos y motivación, y será comunicada en forma personal a quienes se señale como responsables;
 
-III. La determinación de la responsabilidad será precisada, en su caso, por dictamen de peritos nombrados por el ayuntamiento que corresponda, por la Secretaría, por la parte agraviada y por él o los presuntos responsables que deberán ser oídos en el procedimiento;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+
+III. La determinación de la responsabilidad será precisada, en su caso, por dictamen de peritos nombrados por el ayuntamiento que corresponda, por la Secretaría de Medio Ambiente y Desarrollo Territorial que en caso de requerirlo deberá ser auxiliada por la Secretaría de Infraestructura y Obra Pública, por la parte agraviada y por el o los presuntos responsables que deberán ser oídos en el procedimiento;
 
 IV Los peritos emitirán su dictamen conjunta o separadamente. En caso necesario, la autoridad competente nombrará un perito tercero en discordia;
 
@@ -4760,3 +4946,23 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los gobiernos municipales del Estado de Jalisco, conforme a la soberanía que les señala el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán realizar las adecuaciones necesarias en sus reglamentos relacionados con el tema, dentro de los 90 días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 8 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 24851/LX/14, POR EL QUE SE REFORMAN LOS ARTÍCULOS 223, FRACCIONES IX Y X, Y 327, FRACCIÓN I, Y ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 223 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los gobiernos municipales del Estado de Jalisco, conforme a la soberanía que les señala el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán realizar las reformas necesarias en sus reglamentos relacionados con medio ambiente, sustentabilidad y desarrollo urbano, dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto.
+
+P.O. 8 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 24850/LX/14, POR EL QUE SE REFORMAN LOS ARTÍCULOS 5° FRACCIONES IX Y LXI, LA DENOMINACIÓN DE LA SECCIÓN SEGUNDA DEL CAPÍTULO II DEL TÍTULOS SEGUNDO, 9°, 10 FRACCIONES XI, XII, XIV, L Y LI, 11 FRACCIONES I, XVII Y XVIII, 12, 13, 14 FRACCIONES XII Y XXXI , 17, 19 FRACCIÓN VI Y ÚLTIMO PÁRRAFO, 21 FRACCIÓN III, 33 FRACCIÓN II, 39 FRACCIONES II, III, IV, V, VI, VII, VIII Y IX, 43 FRACCIONES XV Y XVI, 52 PRIMER PÁRRAFO, 87, 91 PRIMER PÁRRAFO, 92 FRACCIÓN III, 93, 98 FRACCIÓN IV, 111 PÁRRAFOS PRIMERO Y SEGUNDO, 123 FRACCIÓN III, 132 PRIMER PÁRRAFO, 188 PRIMER PÁRRAFO, 189, 198, 203 PRIMER PÁRRAFO, 204, 232, 268 PÁRRAFOS PRIMERO Y SEGUNDO, 337, 349 FRACCIONES I, II INCISOS A), B), C) Y D), Y III INCISOS A), B), C) Y D), 350 PÁRRAFOS PRIMERO Y SEGUNDO, 353 ÚLTIMO PÁRRAFO, 354, 355, 361 PRIMER PÁRRAFO, 365 FRACCIÓN I Y 366 FRACCIÓN III; SE ADICIONAN LOS ARTÍCULOS 9° BIS, 9° TER, 23 BIS, UNA FRACCIÓN LII AL ARTÍCULO 10, UNA FRACCIÓN X AL ARTÍCULO 39, Y UNA FRACCIÓN XVII AL ARTÍCULO 43; Y SE DEROGA LA FRACCIÓN XL DEL ARTÍCULO 5° DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente decreto.
+
+TERCERO. El Poder Ejecutivo del Estado, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, realizará las adecuaciones reglamentarias necesarias para el debido cumplimiento del (sic) este Decreto.
+
+CUARTO. El Consejo Estatal de Desarrollo Urbano, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, realizará las adecuaciones necesarias a su normatividad interna, de conformidad con lo establecido en la fracción XIII del artículo 43 del Código Urbano para el Estado de Jalisco.
