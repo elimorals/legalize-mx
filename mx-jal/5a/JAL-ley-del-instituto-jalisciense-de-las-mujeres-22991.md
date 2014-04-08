@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-jalisciense-de-las-mujeres-22991"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-29"
-last_updated: "2013-05-25"
+last_updated: "2014-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 29 de diciembre de 2001.
 
@@ -347,9 +347,11 @@ XVIII. Las que le confieran las demás disposiciones jurídicas aplicables.
 
 ### Capítulo IV. De la Junta
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+
 ###### Artículo 14.
 
-La Junta está integrada:
+La Junta se integra por:
 
 I. La Presidenta;
 
@@ -365,29 +367,43 @@ a) Los titulares o sus subalternos con capacidad de decisión de las siguientes 
 
 3. Secretaría de Salud;
 
-4. Secretaría de Promoción Económica;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+4. Secretaría de Desarrollo Económico;
 
 5. Secretaría de Desarrollo Rural;
 
 6. Secretaría de Cultura;
 
-7. Secretaría del Medio Ambiente y Desarrollo Sustentable;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-8. Secretaría de Finanzas;
+7. Secretaría del Medio Ambiente y Desarrollo Territorial;
 
-9. Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-10. Procuraduría General de Justicia del Estado;
+8. Secretaría de Planeación, Administración y Finanzas;
 
-11. Secretaría de Desarrollo Humano;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
-12. Secretaría del Trabajo y Prevención (sic) Social;
+9. Fiscalía General del Estado;
+
+10. (DEROGADO, P.O. 8 DE ABRIL DE 2014)
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+11. Secretaría de Desarrollo e Integración Social;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+12. Secretaría del Trabajo y Previsión Social; y
 
 13. Las demás secretarías y entidades del Ejecutivo Estatal que en el futuro se llegaren a constituir;
 
 b) Los titulares o subalternos con capacidad de decisión de los siguientes organismos:
 
-1. Sistema de Desarrollo Integral de la Familia-Jalisco;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+
+1. Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco; y
 
 2. Instituto Jalisciense de Asistencia Social.
 
@@ -674,3 +690,7 @@ SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley p
 P.O. 25 DE MAYO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
