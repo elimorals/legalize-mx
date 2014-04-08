@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2014-03-01"
+last_updated: "2014-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -159,9 +159,9 @@ XXX. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así co
 
 XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
-XXXII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial; (sic)
+XXXII. Procuraduría: Órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial, denominado Procuraduría Estatal de Protección al Ambiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1621,27 +1621,27 @@ La Secretaría en coordinación con los gobiernos municipales, deberá elaborar 
 
 La Secretaría deberá elaborar una gaceta en la que se publicarán las disposiciones jurídicas, la normatividad estatal que se expida, los decretos, reglamentos, acuerdos y demás actos administrativos, así como la información de interés general en materia ambiental que se publique en el periódico oficial "El Estado de Jalisco" o en otros órganos de difusión. Igualmente, en dicha gaceta se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y aprovechamiento sustentable de los recursos naturales.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 112.
 
-Toda persona tendrá derecho a que la Secretaría y los gobiernos municipales, según corresponda, pongan a su disposición la información ambiental que les soliciten, en los términos previstos por la Ley de Transparencia e Información Pública del Estado de Jalisco.
+Toda persona por sí o por medio de representante legal, tiene derecho a presentar solicitud de acceso a la información ambiental, sin necesidad de sustentar justificación o motivación alguna. La Secretaría y los gobiernos municipales, según corresponda, deberán poner a disposición la información ambiental que les soliciten, en los términos previstos por la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 113.
 
-Las autoridades a que se refiere el artículo anterior sólo negarán la información en los supuestos previstos por la Ley de Transparencia e Información Pública del Estado de Jalisco.
+Las autoridades a que se refiere el artículo anterior sólo negaran el acceso a la información solicitada o resolverán improcedente la solicitud de información, cuando se trate de información clasificada como reservada o confidencial o de información inexistente, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 114.
 
-La Secretaría y los gobiernos municipales deberán responder por escrito a los solicitantes de información ambiental en un plazo no mayor de quince días hábiles contados a partir del día siguiente de la recepción de la petición respectiva.
+La Secretaría y los gobiernos municipales resolverán y notificarán al solicitante, dentro de los cinco días hábiles siguientes a la admisión de la solicitud, respecto a la existencia de la información y la procedencia de su acceso, de acuerdo con la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, los lineamientos generales de clasificación de información pública y los criterios de clasificación de información pública de dichas instituciones.
 
-Si transcurrido el plazo establecido en el párrafo anterior, la autoridad correspondiente no ha emitido la respuesta por escrito, la petición se entenderá resuelta en sentido negativo para el promovente.
+A falta de resolución y notificación de una solicitud de información en el plazo señalado, se entenderá resuelta en sentido procedente, salvo que se trate de información clasificada como reservada o confidencial o de información inexistente, por lo que la Secretaría y los gobiernos municipales deberán permitir el acceso a la información en los términos de esta ley, cubriendo el solicitante los costos que, en su caso, se generen.
 
-La autoridad correspondiente, dentro de los diez días hábiles siguientes a la solicitud de información, deberá notificar al generador o propietario de la misma, de la recepción de la solicitud. Los actos de la Secretaría y los gobiernos municipales, regulados en éste capítulo, podrán ser impugnados por los directamente afectados mediante la interposición del recurso de revisión, de conformidad con lo dispuesto en esta ley.
+Los actos de la Secretaría y los gobiernos municipales, regulados en este Capítulo, podrán ser impugnados por los directamente afectados mediante la interposición del recurso de revisión, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 115.
 
@@ -2396,5 +2396,17 @@ P.O. 3 DE DICIEMBRE DE 2013.
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 1 DE MARZO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 24847/LX/14, POR EL QUE SE REFORMA EL ARTÍCULO 3° DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 24848/LX/14, POR EL QUE SE REFORMAN LOS ARTÍCULOS 112, 113 Y 114 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
