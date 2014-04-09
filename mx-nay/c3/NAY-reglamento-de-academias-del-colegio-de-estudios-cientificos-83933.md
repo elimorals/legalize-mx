@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-academias-del-colegio-de-estudios-cientificos-839
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-09"
-last_updated: "2011-11-09"
+last_updated: "2014-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "NAY"
 ---
 # REGLAMENTO DE ACADEMIAS DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE NAYARIT
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2014 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE ACADEMIAS DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO 1 Y 2 DEL REGLAMENTO DE ACADEMIAS DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NAYARIT (CECYTEN), PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 9 de noviembre de 2011.
 
@@ -584,3 +588,13 @@ f) Obtener los reconocimientos que por su desempeño como miembro de la Academia
 Dado en la Ciudad de Tepic, Nayarit, en la Sala de Juntas del Colegio de Estudios Científicos y Tecnológicos del Estado de Nayarit, a los treinta días del mes de noviembre del año dos mil diez.
 
 LIC. JOSÉ SILVERIO LÓPEZ CUEVAS, Suplente del Presidente de la H. Junta Directiva.- Rúbrica.- LIC. LUIS A. CERVERA AYUSO, Rpte. del Gobierno Federal.- Rúbrica.- ING. OSCAR J. VILLASEÑOR ANGUIANO, Rpte. del Gobierno Federal.- Rúbrica.- LIC. MIGUEL A. DELGADO CONTRERAS, Rpte. de la Contraloria del Gob. del Edo.- Rúbrica.- LIC. JAIR OMAR GUTIERREZ IBARRA, Rpte. Sector Gob. de los Municipios.- Rúbrica.- C. LUCIANO MEDINA MEDINA, Rpte. Sector Social.- Rúbrica.- C. GUSTAVO SALCEDO FLETES, Rpte. Padres de Familia.- Rúbrica.- L.I. SERGIO GARCIA BERNAL, Rpte. SEMSSICyT.- Rúbrica.- MTRA. FREYRA G. LOMELI AGUILAR, Rpte. S. E. M. S.- Rúbrica.- LIC. JOSÉ PARTIDA ZAMORA, Secretario Técnico.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE ABRIL DE 2014.
+
+1. Se abroga el Reglamento de Academias, expedido el 1º de diciembre de 2001 (sic).
+
+2. El presente Reglamento entrará en vigor a partir de (sic) día siguiente de su autorización por la H. Junta Directiva del CECyTEN.
+
+3. Los casos no previstos en este Reglamento serán resueltos por la Dirección General del CECyTEN.
