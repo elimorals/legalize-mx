@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2014-03-26"
+last_updated: "2014-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -815,9 +815,11 @@ Las personas físicas que realicen actividades deportivas podrán participar en 
 
 El Programa Estratégico del Deporte y Cultura Física será el instrumento rector de la política y norma deportiva en el Estado y deberá ser elaborado con la participación de los integrantes del Sistema Estatal del Deporte y Cultura Física y mediante la coordinación del Consejo Estatal del Deporte y Cultura Física, conforme a los lineamientos establecidos en el Sistema y Programa Nacional del Deporte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 59.
 
-El Programa estratégico establecerá diagnósticos, objetivos, lineamientos y acciones, así como la participación de los sectores público, privado y social, con el fin de ordenar la planificación, organización y desarrollo del deporte y la cultura física a través de su práctica, y de manera específica contendrá:
+El Programa Estratégico, establecerá diagnósticos, objetivos, lineamientos y acciones, así como la participación de los sectores público, privado y social, con el fin de ordenar la planificación, organización y desarrollo del deporte y la cultura física, a través de su práctica, y de manera específica contendrá:
 
 I. La política del deporte y de la cultura física;
 
@@ -854,6 +856,26 @@ i) Charrería;
 j) Deportes extremos o de alto riesgo; e
 
 k) Instalaciones deportivas.
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
+
+VIII. El diagnóstico estatal de la situación actual del deporte y la cultura física en la Entidad, su problemática, necesidades y prioridades;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
+
+IX. La ruta crítica y los lineamientos para la ejecución y seguimiento de las acciones y estrategias a seguir;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
+
+X. Los mecanismos de coordinación o concertación con los sectores público, social, académico y privado, así como con los medios de comunicación;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
+
+XI. Los recursos humanos, materiales y financieros necesarios para la consecución de los objetivos, así como las instituciones o personas responsables de su ejecución; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2014)</small>
+
+XII. Los mecanismos de seguimiento, control, evaluación y modificación, en su caso.
 
 ## TÍTULO QUINTO. DEL FOMENTO, ESTÍMULO AL DEPORTE Y A LA CULTURA FÍSICA Y SU INFRAESTRUCTURA
 
@@ -1530,3 +1552,17 @@ PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publica
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, "Tierra y Libertad", Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador Constitucional del Estado, para efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
