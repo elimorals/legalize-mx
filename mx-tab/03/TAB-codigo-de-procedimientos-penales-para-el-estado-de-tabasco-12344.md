@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "2013-11-14"
+last_updated: "2014-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO TRANSITORIO DEL DECRETO NÚMERO 206, PUBLICADO EN EL SUPLEMENTO 7302 C DEL P.O. DE 29 DE AGOSTO DE 2012, EL PRESENTE CÓDIGO SE SEGUIRÁ APLICANDO EN LOS MUNICIPIOS DEL ESTADO EN LOS QUE NO HAYA ENTRADO EN VIGOR EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO CONFORME A LOS TIEMPOS QUE SE SEÑALAN EN EL ARTÍCULO SEGUNDO TRANSITORIO Y EN LOS MUNICIPIOS DEL ESTADO, EN LOS QUE HABIENDO ENTRADO EN VIGOR EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO, SE TRATE DE HECHOS DELICTIVOS Y PROCEDIMIENTOS PENALES, COMETIDOS O INICIADOS CON ANTERIORIDAD A ESE MOMENTO. LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE TABASCO SERÁ GRADUAL Y POR REGIONES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -853,7 +853,9 @@ Si corresponde a una autoridad satisfacer esos requisitos o formular instancia p
 
 Cuando se trate de delitos contra el patrimonio de las personas, perseguibles mediante querella, una vez recibida ésta y antes de proseguir la averiguación, el Ministerio Público dispondrá que se haga formal requerimiento al indiciado para que devuelva los objetos, bienes o valores a su cargo, o formule las aclaraciones que a su derecho convengan. El Ministerio Público se abstendrá de ordenar el requerimiento y acordará el trámite que corresponda a la querella formulada, cuando el querellante demuestre haber realizado dicho requerimiento por cualquier medio fehaciente previsto por la ley.
 
-El Ministerio Público se cerciorará de la identidad del denunciante y de la legitimación del querellante, así como de la autenticidad de los documentos que presenten. Igualmente, dispondrá que se compruebe el domicilio de ambos.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2014)</small>
+
+El Ministerio Público se cerciorará de la identidad del denunciante y del querellante, de la legitimación de éste último, así como de la autenticidad de los documentos que presenten.
 
 ###### ARTÍCULO 113.
 
@@ -2286,3 +2288,9 @@ PRIMERO.- El presente decreto entra en vigor, al día siguiente de su publicaci�
 SEGUNDO.- Las averiguaciones previas que se hayan iniciado antes de la entrada en vigor del presente decreto, o los procesos que se encuentren en trámite ante los órganos jurisdiccionales o administrativos respectivos, se continuarán tramitando conforme a las disposiciones anteriores.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 9 DE ABRIL DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente decreto.
