@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2014-04-02"
+last_updated: "2014-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE VICTIMAS DEL ESTADO DE MORELOS -- ANTES LEY DE ATENCION Y REPARACION A VICTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS --
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ABRIL DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 9 DE ABRIL DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -1235,11 +1235,11 @@ El Gobernador del Estado, designará al titular de la Coordinación Ejecutiva, e
 
 El Titular del Ejecutivo Estatal expedirá el Reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014) (F. DE E., P.O. 9 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 103.
 
-Los cinco comisionados a que se refiere la fracción IV, del artículo anterior, integrante del Consejo de la Comisión Ejecutiva Estatal, durarán en el cargo tres años, pudiendo ser designados por un período más; anualmente, la Comisión Estatal Ejecutiva dispondrá de una partida presupuestal suficiente para cubrir las costas o aportaciones económicas que resulten convenientes con su función, sin que represente de manera alguna una retribución a su actividad.
+Los cinco comisionados a que se refiere la fracción IV, del artículo anterior, integrantes del Consejo de la Comisión Ejecutiva Estatal, durarán en el cargo tres años, pudiendo ser designados por un período más; anualmente, la Comisión Estatal Ejecutiva dispondrá de una partida presupuestal suficiente para cubrir las costas o aportaciones económicas que resulten convenientes con su función, sin que represente de manera alguna una retribución a su actividad.
 
 La sustitución de los comisionados se hará de manera alternada, tres en la primera sustitución y dos en la siguiente.
 
