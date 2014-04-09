@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-documentacion-y-archivos-de-morelos-70164"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-16"
-last_updated: "2012-02-01"
+last_updated: "2014-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE DOCUMENTACIÓN Y ARCHIVOS DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de septiembre de 2009.
 
@@ -283,7 +283,9 @@ Conforme a las condiciones presupuestales sólo el archivo de gestión y el hist
 
 Cada unidad administrativa debe elaborar los catálogos con la información contenida en los expedientes del archivo que corresponda de conformidad con las determinaciones del área coordinadora de archivos, en todo caso, quienes remitirán los catálogos al área en cuestión son:
 
-I. En el poder ejecutivo: Los Directores Generales; para el caso de los organismos descentralizados y fideicomisos los Directores de área o aquellos servidores públicos que se encuentren en el puesto jerárquico inmediatamente inferior al encargado del organismo; para el caso de la defensoría pública, la documentación generada por ésta debe ser integrada por el área coordinadora de archivos de la Secretaría de Gobierno.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2014)</small>
+
+I. En el Poder Ejecutivo: Los Directores Generales; para el caso de los Organismos Descentralizados y Fideicomisos los Directores de área o aquellos Servidores Públicos que se encuentren en el puesto jerárquico inmediatamente inferior al encargado del Organismo.
 
 II. En los ayuntamientos: La oficina del Presidente Municipal, los Directores Generales, Secretarios o el servidor público con un puesto afín de conformidad con la estructura orgánica aprobada por el ayuntamiento, los regidores, el síndico, y el Secretario del ayuntamiento.
 
@@ -760,3 +762,13 @@ PRIMERO.- Aprobado que sea el presente decreto, túrnese al Titular del Poder Ej
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 9 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de (sic) del Gobierno del Estado.
