@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-agropecuario-rural-y-sustentable-de-la-84078"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-08"
-last_updated: "2011-12-08"
+last_updated: "2014-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84078&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-12-07"
 
 LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE ABRIL DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
@@ -792,6 +792,24 @@ Se ejecutarán de manera específica las políticas sociales enfocadas a la prop
 
 La Secretaría impulsará programas para fomentar la cultura alimentaria encaminados a salvaguardar la soberanía alimentaria y apoyar los esfuerzos para una alimentación sana para la población en general.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO XIV. DE LA ADMINISTRACIÓN DE RIESGOS Y DAÑOS
+
+> <small>(ADICIONADO, G.O. 9 DE ABRIL DE 2014)</small>
+
+###### Artículo 67.
+
+El Gobierno del Distrito Federal, a través de la Secretaría, impulsará, promoverá y garantizará entre los productores la contratación del seguro agrícola por contigencias (sic) climatológicas, sanitarias y biológicas, a efecto de proporcionarles mayor capacidad para administrar los riesgos relevantes en la actividad económica del sector.
+
+Adicionalmente, la Secretaría fomentará la elaboración de esquemas de fondos de autoaseguro que permitan el uso del servicio de aseguramiento a los productores, en el marco de las leyes vigentes en la materia, para la cobertura de este tipo de contingencias.
+
+> <small>(ADICIONADO, G.O. 9 DE ABRIL DE 2014)</small>
+
+###### Artículo 68.
+
+El Gobierno del Distrito Federal, a través de la Secretaría y con base en su disponibilidad presupuestal, contemplará la parte proporcional que le corresponda por el pago de la prima al contrato de seguro agrícola de los productores, que emane de los siniestros por causa de contingencias climatológicas, sanitarias y biológicas, y según los lineamientos emitidos por la Secretaría de acuerdo con esta ley, así como de las leyes federales correspondientes y demás disposiciones sobre la materia.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
@@ -809,3 +827,19 @@ QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciocho días del mes de octubre del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. RAFAEL MIGUEL MEDINA PEDERZINI, PRESIDENTE.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JORGE PALACIOS ARROYO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los siete días del mes de diciembre del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 9 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Distrito Federal emitirá las reglas para la constitución y operación del seguro agrícola por contingencias climatológicas, sanitarias y biológicas, dentro de los 90 días naturales siguientes a la publicación de este decreto en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Diario Oficial de la Federación, para su mayor difusión.
