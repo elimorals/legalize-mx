@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2014-01-22"
+last_updated: "2014-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -641,6 +641,10 @@ Las sesiones del Ayuntamiento serán ordinarias, extraordinarias y solemnes.
 
 I.- Las sesiones ordinarias se llevarán a cabo por lo menos cada quince días, o antes si la naturaleza del asunto lo amerita y se permitirá el libre acceso al público y a los servidores del Ayuntamiento, excepto cuando por acuerdo del Cabildo y por la naturaleza de los asuntos a tratar deban tener el carácter de privada.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2014)</small>
+
+Cuando asista público a las sesiones observará respeto y compostura, cuidando quien las presida, que por ningún motivo, tome parte en las deliberaciones del Ayuntamiento, ni exprese manifestaciones que alteren el orden en el Recinto Oficial del Cabildo.
+
 El Ayuntamiento deberá determinar, para cada año, el calendario de sesiones ordinarias a celebrar;
 
 II.- Las sesiones extraordinarias se llevarán a cabo cuando se considere que debe tratarse algún o algunos asuntos que requieran urgente solución. En las sesiones extraordinarias se tratarán exclusivamente los asuntos que las hayan motivado;
@@ -997,11 +1001,11 @@ XII. Nombrar y remover a los servidores públicos municipales cuya designación 
 
 XIII. Visitar los centros de población del Municipio para conocer los problemas de las localidades y tomar las medidas tendientes a su resolución y, en su caso, proponer al Ayuntamiento la creación, reconocimiento y denominación de los centros de población en el Municipio, proponer las expropiaciones de bienes por causas de utilidad pública, ésta última para someterla a la consideración del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2014)</small>
 
-XIV. Presentar en el mes de diciembre de cada año, por escrito, un informe del estado que guarde la administración y de las labores desarrolladas durante el año;
+XIV.- Presentar en el mes de diciembre por escrito, el informe del estado que guarde la administración y de las actividades desarrolladas por su Administración Pública Municipal durante la anualidad que corresponda. En el último año de la gestión Administrativa del Ayuntamiento, el informe se presentará en forma global, comprendiendo la totalidad del Período Constitucional.
 
-XV. Presentar el día treinta y uno de octubre de cada año, en sesión solemne de Cabildo, un informe del estado que guarde la administración y de las labores desarrolladas durante el año, así como dar contestación a las cuestiones que se le formulen por los regidores y síndico integrantes del Cabildo;
+XV.- (DEROGADA, P.O. 9 DE ABRIL DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3318,6 +3322,38 @@ SÉPTIMO.- Para la elaboración y consecuente publicación del Reglamento Intern
 OCTAVO.- Para la elaboración y consecuente publicación del Reglamento Interno de Expedición de Pensiones a favor de los Elementos de Seguridad Pública Municipales, los Cabildos en todo momento observarán lo dispuesto en la Constitución Federa (sic); la Constitución Política del Estado Libre y Soberano de Morelos; la Ley del Sistema de Seguridad Pública del Estado de Morelos; la Ley Orgánica Municipal; y la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública; y las Bases Generales de los Procedimientos para la Expedición de Acuerdos de Pensión de las Instituciones Policiales del Sistema de Seguridad Pública de los Ayuntamientos del Estado.
 
 NOVENO.- Remítase al Poder Ejecutivo del Estado de Morelos, para los efectos de su promulgación, refrendo y promulgación en términos de los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 9 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 1,312 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO, DE LA FRACCIÓN I, DEL ARTÍCULO 30, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 9 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 1,313 POR EL QUE SE REFORMA LA FRACCIÓN XIV Y SE DEROGA LA FRACCIÓN XV, DEL ARTÍCULO 41, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
