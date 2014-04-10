@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-de-transporte-colectivo-57338"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-11-06"
-last_updated: "2011-05-31"
+last_updated: "2014-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57338&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,9 +19,11 @@ scjn_last_update: "2024-09-17"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE AGOSTO DE 2014, EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2011.
+ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ABRIL DE 2014.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el martes 6 de noviembre de 2007.
 
@@ -189,11 +191,15 @@ Los miembros del Consejo de Administración durarán en sus cargos por todo el t
 
 En ningún caso podrán ser miembros del Consejo de Administración las personas a que se refiere el artículo 51 de la Ley.
 
+> <small>(REFORMADO, G.O. 10 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 9º.
 
-El Consejo de Administración sesionará en reuniones ordinarias y extraordinarias, y tratándose de las ordinarias, como mínimo, cuatro veces al año. El propio Órgano de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública del Distrito Federal. Los acuerdos se tomarán por mayoría de votos de los miembros presentes, en caso de empate, el Presidente del Consejo de Administración tendrá voto de calidad, conforme a lo señalado por el artículo 52 de la Ley.
+El Consejo de Administración sesionará en reuniones ordinarias como mínimo, cuatro veces al año y se reunirá en sesiones extraordinarias y emergentes a convocatoria del Presidente del Órgano de Gobierno, cuando así lo considere necesario.
 
-Los miembros del Consejo de Administración deberán asistir a las sesiones ordinarias y extraordinarias a las que sean convocados con la información previa de los asuntos a tratar; de haber impedimento lo comunicarán con la debida oportunidad al Secretario del propio Consejo de Administración. En caso de que la reunión convocada no pueda llevarse a cabo en la fecha programada, por causas debidamente justificadas, deberá celebrarse entre los cinco y quince días hábiles siguientes. La falta injustificada de los servidores públicos a las sesiones a que sean convocados, dará lugar a la aplicación de las sanciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos.
+> <small>(ADICIONADO, G.O. 10 DE ABRIL DE 2014)</small>
+
+ARTÍCULO 9º BIS.- El Presidente del Consejo de Administración podrá convocar cuando lo considere conveniente a sesiones extraordinarias, con dos días hábiles de anticipación a la celebración de la sesión, así mismo en casos excepcionales y debidamente fundamentados, podrá convocar, a sesiones emergentes dada la gravedad del tema que por sus características de obvia y urgente resolución, sean impostergables, para lo cual se omitirá la entrega de la información del asunto a tratar, únicamente se convocará, a través de los medios de comunicación disponibles.
 
 ###### ARTÍCULO 10.
 
@@ -247,7 +253,9 @@ El Presidente del Consejo de Administración tendrá las siguientes atribuciones
 
 I.- Autorizar el orden del día a propuesta del Secretario del Consejo de Administración;
 
-II.- Convocar a sesiones ordinarias o extraordinarias;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2014)</small>
+
+II.- Convocar a sesiones extraordinarias cuando lo considere necesario, así como a sesiones emergentes en casos excepcionales y debidamente justificados, en los términos establecidos en el presente Estatuto;
 
 III.- Programar y organizar las sesiones del Consejo de Administración y actuar como moderador de las mismas, así como anualmente proponer al Consejo de Administración el calendario de sesiones ordinarias;
 
@@ -283,9 +291,13 @@ I.- Pasar lista de asistencia y verificar que exista el quórum para las sesione
 
 II.- Al final de cada sesión levantar las actas de las sesiones e integrarlas al registro de actas autorizado;
 
-III.- Hacer llegar a los miembros del Consejo de Administración, con una anticipación no menor de cinco días hábiles, la convocatoria, el orden del día y el apoyo documental de los asuntos que deban conocer;
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2014)</small>
 
-IV.- Convocar a las sesiones ordinarias con base en el calendario anual aprobado, y a las extraordinarias, a indicación del presidente del Órgano de Gobierno;
+III.- Hacer llegar a los miembros del Consejo de Administración, la convocatoria, el orden del día y el apoyo documental de los asuntos que deban conocer, con una anticipación no menor de cinco días hábiles a la celebración de sesiones ordinarias, para las extraordinarias se remitirán con dos días hábiles de anticipación;
+
+> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2014)</small>
+
+IV.- Convocar a las sesiones ordinarias con base en el calendario anual aprobado, y a las extraordinarias y emergentes por indicación del Presidente del Órgano de Gobierno, conforme a lo establecido en el Artículo 9 BIS del presente Estatuto.
 
 V.- Asistir a las sesiones con voz pero sin voto;
 
@@ -1859,10 +1871,16 @@ ING. FRANCISCO BOJÓRQUEZ HERNÁNDEZ
 
 DIRECTOR GENERAL DEL SISTEMA DE TRANSPORTE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 G.O. 31 DE MAYO DE 2011.
 
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Las presentes reformas y modificaciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE ABRIL DE 2014.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
