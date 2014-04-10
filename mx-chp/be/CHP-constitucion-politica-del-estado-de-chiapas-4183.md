@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2014-03-05"
+last_updated: "2014-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2014.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -539,7 +539,9 @@ Tendrá derecho a la asignación de Diputados de representación proporcional el
 
 I. Que haya registrado candidatos a diputados de mayoría relativa en cuando menos la mitad de los distritos uninominales.
 
-II. Que haya obtenido por lo menos el 2% de la votación total válida de diputados en el Estado.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2014)</small>
+
+II. Que haya obtenido por lo menos el 3% de la votación total válida de diputados en el Estado.
 
 La legislación respectiva determinará las reglas y el procedimiento a que se sujetará la asignación de Diputados de Representación Proporcional, en los que invariablemente deberá asegurarse que se mantenga la representación del partido que haya resultado favorecido en la asignación de Diputaciones Plurinominales.
 
@@ -4124,3 +4126,9 @@ Artículo Tercero.- Dentro del término de 180 días hábiles, posteriores a la 
 Artículo Cuarto.- Para efecto de dar cumplimiento a lo establecido en este Decreto, del derecho de acceder de forma libre y universal a internet y a las tecnologías de la información y la comunicación, el Estado de acuerdo a la suficiencia presupuestaria, llevará a cabo de manera paulatina la implementación de la infraestructura necesaria en aquellos espacios públicos que para tal efecto se establezcan.
 
 Artículo Quinto.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE ABRIL DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
