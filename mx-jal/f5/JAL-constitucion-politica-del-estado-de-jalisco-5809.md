@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2013-12-17"
+last_updated: "2014-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -191,41 +191,237 @@ II. Obedecer y respetar las instituciones, leyes y autoridades del Estado; y
 
 III. Sujetarse a los fallos y sentencias de los tribunales.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2014)</small>
 
 ###### Art. 6º.
 
 Corresponde exclusivamente a los ciudadanos mexicanos, participar en la vida política del Estado, en la forma y términos que señalen las leyes.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+I. Son jaliscienses:
 
-###### Art. 7º.
+a) Los nacidos en el territorio del Estado; y
 
-Son jaliscienses:
-
-I. Los nacidos en el territorio del Estado; y
-
-II. Los mexicanos por nacimiento o naturalización avecindados en el Estado y que no manifiesten su deseo de conservar su residencia anterior, en la forma que establezca la ley.
+b) Los mexicanos por nacimiento o naturalización avecindados en el Estado y que no manifiesten su deseo de conservar su residencia anterior, en la forma que establezca la ley.
 
 La vecindad no se pierde por ausencia debida al desempeño de cargos públicos, de elección popular, o en defensa de la patria y de sus instituciones.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2005)</small>
+II. Son prerrogativas de los ciudadanos jaliscienses:
 
-###### Art. 8º.
+a) Votar en las elecciones populares, así como en los procesos de plebiscito y referéndum;
 
-Son prerrogativas de los ciudadanos jaliscienses:
+b) Ser votado en toda elección popular, siempre que el individuo reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus respectivas leyes reglamentarias y no esté comprendido en alguna de las causas de incapacidad establecidas por las mismas. El derecho de solicitar el registro de candidatos ante la autoridad electoral correspondiente a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley;
 
-I. Votar en las elecciones populares, así como en los procesos de plebiscito y referéndum;
+c) Desempeñar preferentemente cualquier empleo del Estado, cuando el individuo tenga las condiciones que la ley exija para cada caso; y
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+d) Afiliarse individual y libremente, al partido político de su preferencia.
 
-II. Ser votado en toda elección popular, siempre que el individuo reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus respectivas leyes reglamentarias y no esté comprendido en alguna de las causas de incapacidad establecidas por las mismas. El derecho de solicitar el registro de candidatos ante la autoridad electoral correspondiente a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley;
+III. Son obligaciones de los ciudadanos jaliscienses, las contenidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos.
 
-III. Desempeñar preferentemente cualquier empleo del Estado, cuando el individuo tenga las condiciones que la ley exija para cada caso; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO, SEGUNDO Y TERCERO DEL DECRETO NÚMERO 24859/LX/14 PUBLICADO P.O. 10 DE ABRIL DE 2014, QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Afiliarse individual y libremente, al partido político de su preferencia.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2014)</small>
 
-Son obligaciones de los ciudadanos jaliscienses, las contenidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos.
+###### Art. 7º.
+
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+
+Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal.
+
+Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
+
+Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+
+Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+
+En toda orden de cateo, que sólo la autoridad judicial podrá expedir, a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
+
+Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualquier acto que atente contra la libertad y privacía de las mismas, excepto cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la ley.
+
+Exclusivamente la autoridad judicial federal, a petición de la autoridad federal que faculte la ley o del Fiscal General del Estado, podrá autorizar la intervención de cualquier comunicación privada. Para ello, la autoridad competente deberá fundar y motivar las causas legales de la solicitud, expresando además, el tipo de intervención, los sujetos de la misma y su duración. La autoridad judicial federal no podrá otorgar estas autorizaciones cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral o administrativo, ni en el caso de las comunicaciones del detenido con su defensor.
+
+El Poder Judicial contará con jueces de control que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
+
+Las intervenciones autorizadas se ajustarán a los requisitos y límites previstos en las leyes. Los resultados de las intervenciones que no cumplan con éstos, carecerán de todo valor probatorio.
+
+La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades prescritas para los cateos.
+
+La correspondencia que bajo cubierta circule por las estafetas estará libre de todo registro, y su violación será penada por la ley.
+
+En tiempo de paz ningún miembro del Ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
+
+A. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+La ley preverá mecanismos alternativos de solución de controversias.
+
+Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
+
+Las leyes estatales establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+
+El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+
+B. Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
+
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+El Estado podrá celebrar convenios para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
+
+El Estado establecerá, en el ámbito de su respectiva competencia, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, solo serán sujetos a rehabilitación y asistencia social.
+
+La operación del sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
+
+Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará solo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
+
+Los sentenciados de nacionalidad mexicana que se encuentren compurgando penas en países extranjeros, podrán ser trasladados a la República para que cumplan sus condenas con base en los sistemas de reinserción social previstos en este artículo, y los sentenciados de nacionalidad extranjera por delitos del orden federal o del fuero común, podrán ser trasladados al país de su origen o residencia, sujetándose a los Tratados Internacionales que se hayan celebrado para ese efecto. El traslado de los reclusos sólo podrá efectuarse con su consentimiento expreso.
+
+Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social. Esta disposición no aplicará respecto de internos que requieran medidas especiales de seguridad.
+
+Para la reclusión preventiva y la ejecución de sentencias para internos que requieran medidas especiales de seguridad se podrán destinar centros especiales. En este caso, las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a quienes se encuentren internos en estos establecimientos, en términos de la ley.
+
+C. Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud.
+
+La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
+
+El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del indiciado, en la forma que señale la ley. La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el indiciado, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso y del que decrete la prisión preventiva, o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad.
+
+Todo proceso se seguirá forzosamente por el hecho o hechos delictivos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de investigación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+
+Todo mal tratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución, en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
+
+D. El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
+
+I. De los principios generales:
+
+a) El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
+
+b) Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
+
+c) Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo;
+
+d) El juicio se celebrará ante un juez que no haya conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;
+
+e) La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
+
+f) Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establece la Constitución Política de los Estados Unidos Mexicanos y esta Constitución;
+
+g) Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad;
+
+h) El juez sólo condenará cuando exista convicción de la culpabilidad del procesado;
+
+i) Cualquier prueba obtenida con violación de derechos fundamentales será nula; y
+
+j) Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
+
+II. De los derechos de toda persona imputada:
+
+a) A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
+
+b) A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio;
+
+c) A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten;
+
+d) Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
+
+e) Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo;
+
+f) Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
+
+El imputado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
+
+g) Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
+
+h) Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera; y
+
+i) En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
+
+La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del imputado. Si cumplido este término no se ha pronunciado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.
+
+En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+
+III. De los derechos de la víctima o del ofendido:
+
+a) Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos y esta Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+
+b) Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley.
+
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
+
+c) Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
+
+d) Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+
+La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
+
+e) Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+
+El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y, en general, todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
+
+f) Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos; e
+
+g) Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO, SEGUNDO Y TERCERO DEL DECRETO NÚMERO 24859/LX/14 PUBLICADO P.O. 10 DE ABRIL DE 2014, QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2014)</small>
+
+###### Art. 8°.
+
+La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+
+El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
+
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
+
+Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso.
+
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
+
+A. La seguridad pública es una función a cargo del Estado y los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución señalan. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
+
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales de los tres órdenes de gobierno deberán coordinarse entre sí para cumplir los objetivos de la seguridad pública y conformarán el Sistema Nacional de Seguridad Pública, que estará sujeto a las siguientes bases mínimas:
+
+I. La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia de la Federación, el Distrito Federal, los Estados y los municipios en el ámbito de sus respectivas atribuciones;
+
+II. El establecimiento de las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificado y registrado en el sistema;
+
+III. La formulación de políticas públicas tendientes a prevenir la comisión de delitos;
+
+IV. Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública; y
+
+V. Los fondos de ayuda federal para la seguridad pública serán aportados al Estado y los municipios para ser destinados exclusivamente a estos fines.
+
+B. Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.
+
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las siguientes reglas:
+
+I. Será jurisdiccional y autónomo del de materia penal;
+
+II. Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+
+a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió;
+
+b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior;
+
+c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo; o
+
+d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales o de delincuencia organizada, y el acusado por estos delitos se comporte como dueño.
+
+III. Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2005)</small>
 
@@ -3096,3 +3292,15 @@ P.O. 17 DE DICIEMBRE DE 2013.
 DECRETO NÚMERO 24457/LX/13, POR EL QUE SE REFORMAN LOS ARTÍCULOS 8° Y 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 PRIMERO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE ABRIL DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, con excepción de lo establecido en los artículos siguientes.
+
+SEGUNDO. Las disposiciones relativas al sistema de justicia adversarial entrarán en vigor una vez que se publique en el Periódico Oficial “El Estado de Jalisco” la declaratoria de incorporación prevista en el artículo segundo transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos publicada en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+TERCERO. Los tres Poderes del Estado y los gobiernos municipales realizarán las acciones necesarias para aplicar el sistema acusatorio antes del 18 de junio de 2016 en todo el territorio del Estado de Jalisco.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+QUINTO. De conformidad con el artículo 118 de la Constitución Política del Estado de Jalisco, remítase el presente decreto al Titular del Poder Ejecutivo para su promulgación.
