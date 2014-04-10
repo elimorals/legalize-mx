@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2013-11-22"
+last_updated: "2014-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PROCESAL PENAL DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO DE MANERA PROGRESIVA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EMITE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO SE ABROGA, EL CUAL SEGUIRÁ RIGIENDO EN LO CONDUCENTE EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES DE CONFORMIDAD CON LA CALENDARIZACIÓN DE LOS DISTRITOS JUDICIALES QUE CONFORMAN LA JURISDICCIÓN DE LA ENTIDAD ESTABLECIDA EN ESTE DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2014.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -4382,3 +4382,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE NOVIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE ABRIL DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo publicado en el Periódico Oficial del Estado de Quintana Roo el 7 de octubre de 1980, el cual seguirá rigiendo en lo conducente en los procedimientos iniciados con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales de conformidad con la calendarización de los distritos judiciales que conforman la jurisdicción de la Entidad establecida en este Decreto.
+
+TERCERO. Se abroga el Código Procesal Penal para el Estado Libre y Soberano de Quintana Roo publicado en el Periódico Oficial del Estado de Quintana Roo de fecha 17 de febrero de 2012.
+
+CUARTO. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las entidades federativas y del Distrito Federal, así como a los demás poderes del Estado, para su conocimiento y efectos a que haya lugar.
