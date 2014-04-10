@@ -4,7 +4,7 @@ identifier: "ROO-codigo-procesal-penal-para-el-estado-libre-y-soberano-de-86729"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-17"
-last_updated: "2013-09-06"
+last_updated: "2014-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NÚMERO 065 PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012 Y REFORMADO POR DECRETO NÚMERO 309 PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2013, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR DE MANERA PROGRESIVA, EL 10 DE JUNIO DEL AÑO DOS MIL CATORCE, EN EL DISTRITO JUDICIAL DE CHETUMAL, DE ACUERDO CON LA "DECLARATORIA DE QUE EL SISTEMA PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL ESTADO DE QUINTANA ROO" Y EN LOS DEMÁS DISTRITOS JUDICIALES CONFORME A LAS FECHAS QUE CONTENDRÁ LA DECLARATORIA SEÑALADA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 104 QUE EXPIDE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2014 (ABROGADO).
 
 Código publicado en el Número 5 Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de febrero de 2012.
 
@@ -5576,3 +5576,15 @@ P.O. 6 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 104 QUE EXPIDE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE QUINTANA ROO.</small>
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Código de Procedimientos Penales para el Estado Libre y Soberano de Quintana Roo publicado en el Periódico Oficial del Estado de Quintana Roo el 7 de octubre de 1980, el cual seguirá rigiendo en lo conducente en los procedimientos iniciados con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales de conformidad con la calendarización de los distritos judiciales que conforman la jurisdicción de la Entidad establecida en este Decreto.
+
+TERCERO. Se abroga el Código Procesal Penal para el Estado Libre y Soberano de Quintana Roo publicado en el Periódico Oficial del Estado de Quintana Roo de fecha 17 de febrero de 2012.
+
+CUARTO. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las entidades federativas y del Distrito Federal, así como a los demás poderes del Estado, para su conocimiento y efectos a que haya lugar.
