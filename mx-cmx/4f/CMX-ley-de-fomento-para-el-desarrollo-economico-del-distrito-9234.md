@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-el-desarrollo-economico-del-distrito-9234"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-26"
-last_updated: "2012-09-14"
+last_updated: "2014-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1996-12-18"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 10 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ABRIL DE 2014 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 26 de diciembre de 1996.
 
@@ -929,3 +931,13 @@ SEGUNDO.- El presente Decreto entrará en vigor a los 120 días naturales siguie
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 CUARTO.- La Secretaría en un término de 90 días naturales a la entrada en vigor de la presente reforma, deberá instrumentar y firmar los convenios correspondientes con las Instituciones Públicas y Colegios de Profesionistas especialistas en el ramo, para su viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos del FONDO PyME.
+
+G.O. 10 DE ABRIL DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se abroga la Ley de Fomento para el Desarrollo Económico publicada en el Diario Oficial de la Federación el 26 de diciembre de 1996.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se contrapongan al presente ordenamiento, en materia de Desarrollo Económico.
