@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-acceso-a-la-75297"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2010-06-04"
+last_updated: "2014-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de junio de 2010.
 
@@ -1520,3 +1522,13 @@ Por lo tanto, se manda publicar, circular y dar el debido cumplimiento. Dado en 
 El Presidente del Consejo General del Instituto de Acceso a la Información Pública, Lic. Eduardo Aboites Arredondo.- Rúbrica.
 
 El Secretario de Acuerdos del Consejo General del Instituto de Acceso a la Información Pública, Lic. Moisés Gaytán Arredondo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE ABRIL DE 2014.
+
+PRIMERO. Este Reglamento Interior, entra en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto de Acceso a la Información Pública aprobado por el Consejo General del Instituto en fecha 20 veinte de noviembre de 2009 dos mil nueve y publicado en el Periódico Oficial, número 89 ochenta y nueve, segunda parte el 4 cuatro de junio de 2010 dos mil diez.
+
+TERCERO. El Consejo General contará con un plazo de 120 días para expedir los Reglamentos en su carácter de sujeto obligado dada su naturaleza de organismo constitucionalmente autónomo en materias de Transparencia y Acceso a la Información Pública, Archivos Generales, Protección de Datos Personales, y demás que resulten aplicables, en tanto podrán seguir aplicando los Reglamentos que en esas materias observa al efecto el Poder Ejecutivo.
