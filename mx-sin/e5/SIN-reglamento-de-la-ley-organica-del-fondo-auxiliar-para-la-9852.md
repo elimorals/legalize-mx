@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-organica-del-fondo-auxiliar-para-la-9852"
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-08-12"
-last_updated: "1985-08-12"
+last_updated: "2014-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE SINALOA
 
-REGLAMENTO DE LA LEY ORGANICA DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE SINALOA
+REGLAMENTO DE LA LEY ORGÁNICA DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Sinaloa, el lunes 12 de agosto de 1985
 
@@ -93,19 +93,17 @@ El Pleno sesionará ordinariamente por lo menos una vez por mes, para tratar los
 
 El quórum del Pleno y la mayoría necesaria para la validez de los acuerdos de actos relativos al Fondo, serán los que señala la Ley Orgánica del Poder Judicial. De las sesiones se levantará acta, la cual será válida con la firma del Presidente y de otro miembro del Pleno que se designe como Secretario.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 10o.
 
-Para la mejor administración del Fondo, el Pleno del Supremo Tribunal de Justicia se auxiliará nombrando al siguiente personal:
+Para la administración del Fondo, el Pleno se auxiliará de la Oficialía Mayor del propio Supremo Tribunal de Justicia.
 
-I.- Un Jefe Administrativo;
-
-II.- Un Auxiliar Contable; y,
-
-III.- El demás personal que las necesidades del servicio requieran.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 11o.
 
-El Jefe Administrativo del Fondo tendrá las siguientes atribuciones:
+En relación a la administración del Fondo Auxiliar para la Administración de Justicia, el Oficial Mayor tendrá las siguientes atribuciones:
 
 I.- Llevar la contabilidad del Fondo;
 
@@ -130,6 +128,10 @@ X.- Formular, revisar y mantener actualizado el inventario del mobiliario, equip
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1985)</small>
 
 XI. En general, realizar todos aquellos actos de ejecución y vigilancia que para la mejor administración del Fondo le encargue el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+Para el ejercicio de dichas atribuciones el Oficial Mayor se auxiliará del Área de Recursos Financieros, así como del personal que las necesidades del servicio requieran.
 
 ### CAPITULO III. EL DESTINO Y LA APLICACIÓN DEL FONDO
 
@@ -278,3 +280,11 @@ LIC. JESUS MANUEL SARABIA
 La Secretaria de Acuerdos
 
 LIC. MARTHA B. DE PALAZUELOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE ABRIL DE 2014.
+
+PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Comuníquese a los Jueces de Primera Instancia, Magistrados de Circuito y dependencias administrativas del Poder Judicial del Estado, para su conocimiento.
