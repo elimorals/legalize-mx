@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2014-04-08"
+last_updated: "2014-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -323,9 +323,9 @@ XIX.- Evaluará en los ámbitos de su competencia los resultados de calidad educ
 
 XX.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO II
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2014)</small>
 
-DE LAS OBLIGACIONES Y ATRIBUCIONES DEL EJECUTIVO ESTATALA (SIC) TRAVÉS DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO.
+### CAPÍTULO II. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL EJECUTIVO ESTATAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1651,9 +1651,11 @@ Para que los servicios educativos prestados por los particulares tengan validez 
 
 I.- Respecto a la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, deberán obtener con anterioridad al inicio de la prestación del servicio y por cada nivel, la autorización expresa de la Secretaría de Educación del Estado mediante incorporación; y
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-II.- Por lo que concierne a estudios distintos de los enumerados en la fracción anterior, lo particulares deberán solicitar autorización de los estudios de ciclos, niveles o carreras que imparta el Gobierno del Estado o bien, tramitar el reconocimiento de validez oficial de estudios; ambos ante la autoridad competente;
+II.- Por lo que concierne a estudios distintos de los enumerados en la fracción anterior, los particulares deberán tramitar el reconocimiento de validez oficial de estudios, ante la autoridad competente.
+
+Tales autorizaciones o reconocimientos de validez oficial de estudios serán específicos para cada plan de estudios, los cuales serán presentados por cursos, ciclos o carreras debidamente desglosados para su aprobación. Para impartir nuevos estudios se requerirán las autorizaciones o reconocimientos de validez oficial de estudios correspondientes.
 
 ###### ARTICULO 120.
 
@@ -2183,9 +2185,9 @@ El retiro del reconocimiento de validez oficial se referirá a los estudios que 
 
 La autoridad que dicte la resolución adoptará las medidas que sean necesarias para evitar perjuicios a los educandos. En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando a juicio y bajo vigilancia de la autoridad hasta que aquél concluya.
 
-### CAPÍTULO II
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2014)</small>
 
-DEL RECURSOS (SIC) ADMINISTRATIVO.
+### CAPÍTULO II. DEL RECURSO ADMINISTRATIVO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -2555,11 +2557,13 @@ La Secretaría de Educación deberá implementar el programa para fomentar la co
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 189.
 
-El presente Título establece los criterios, los términos y condiciones para el Ingreso, la Promoción, el Reconocimiento y la Permanencia en el Servicio.
+El presente Título, de conformidad con lo dispuesto por la Ley General del Servicio Profesional Docente, refiere los criterios, los términos y condiciones para el Ingreso, la Promoción, el Reconocimiento y la Permanencia en el Servicio.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 Sus disposiciones no serán aplicables a las universidades y demás instituciones a que se refiere la fracción VII del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, ni a los institutos de educación para adultos.
 
@@ -3137,11 +3141,13 @@ V.- Cuando se trate de asesoría técnica en apoyo a actividades de dirección a
 
 VI.- Los directores que realicen dichas funciones adicionales recibirán Incentivos que reconozcan su mérito y favorezcan su avance profesional.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 233.
 
-En el caso de movimientos laterales temporales a funciones de Asesoría Técnica Pedagógica en la Educación Básica, la selección de los docentes se llevará a cabo mediante procesos de evaluación, objetivos y transparentes que la Autoridad Educativa realice al amparo de los lineamientos que el Instituto Estatal de Evaluación Educativa expida. El personal seleccionado mantendrá su plaza docente.
+En el caso de movimientos laterales temporales a funciones de Asesoría Técnica Pedagógica en la Educación Básica, la selección de los docentes se llevará a cabo mediante procesos de evaluación, objetivos y transparentes que la Autoridad Educativa realice al amparo de los lineamientos que el Instituto Nacional para la Evaluación de la Educación expida. El personal seleccionado mantendrá su plaza docente.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 Los docentes que realicen dichas funciones de Asesoría Técnica Pedagógica recibirán Incentivos que reconozcan su mérito y favorezcan su avance profesional. Al término de dicha función de carácter temporal, los docentes volverán a la Escuela en que hubieren estado asignados.
 
@@ -3303,9 +3309,9 @@ El Personal Docente, el Personal Técnico Docente y el Personal con Funciones de
 
 La estructura ocupacional autorizada y la plantilla de personal de cada escuela, así como los datos sobre la formación, trayectoria y desempeño profesional de cada docente deberán estar permanentemente actualizados en el Sistema de Información y Gestión Educativa.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE ABRIL DE 2014)</small>
 
-### CAPÍTULO XI (SIC). DE LOS DERECHOS Y OBLIGACIONES
+### CAPÍTULO XII. DE LOS DERECHOS Y OBLIGACIONES
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -3785,11 +3791,15 @@ Los procedimientos y los dictámenes escalafonarios quedarán supeditados a las 
 
 En este sentido, los procedimientos de promoción y escalafonarios que se hayan instaurado antes del 12 de septiembre del 2013, y se encuentren pendientes de resolución, se desahogarán ante la Comisión Estatal Mixta de Escalafón, la Comisión Estatal Mixta de Promociones y la Comisión Mixta de Escalafón, según corresponda.
 
-SÉPTIMO. El personal que a la entrada en vigor de la presente Ley se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente y lo correlativo al presente ordenamiento. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio educativo, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
+SÉPTIMO. El personal que a la entrada en vigor de la Ley General del Servicio Profesional Docente se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Titulo Segundo, Capitulo VIII de la Ley General del Servicio Profesional Docente y lo correlativo al presente ordenamiento. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
 El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 53 de la Ley General del Servicio Profesional Docente y el correlativo de esta ley, será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según corresponda.
 
-OCTAVO. El Personal Docente y el Personal con Funciones de Dirección o de Supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados que a la entrada en vigor de esta ley tenga Nombramiento Provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en el artículo 52 de la Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará Nombramiento Definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto en la Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
+OCTAVO. El Personal Docente y el Personal con Funciones de Dirección o de Supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados que a la entrada en vigor de la Ley General del Servicio Profesional Docente tenga Nombramiento Provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en el artículo 52 de la Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley. Al personal que obtenga• resultados suficientes en dicha evaluación, se le otorgará Nombramiento Definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto en la. Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley.
 
 Será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según sea el caso, el personal que:
 
@@ -3799,7 +3809,9 @@ II. No se incorpore al programa de regularización correspondiente cuando obteng
 
 III. Obtenga resultados insuficientes en el tercer proceso de evaluación previsto en el artículo 53 Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley.
 
-NOVENO. Dentro de los doce meses siguientes a la entrada en vigor de la presente ley, la Autoridad Educativa y los Organismos Descentralizados deberán haber cumplido con la obligación de hacer púbica la información sobre las plazas docentes con Función de Asesor Técnico Pedagógico existentes y las responsabilidades de quienes la ocupan en cada escuela y zona escolar.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
+NOVENO. Dentro de los dieciocho meses siguientes a la entrada en vigor de la Ley General del Servicio Profesional Docente, la Autoridad Educativa y los Organismos Descentralizados deberán haber cumplido con la obligación de hacer pública la información sobre las plazas docentes con Función de Asesor Técnico Pedagógico existentes y las responsabilidades de quienes la ocupan en cada escuela y zona escolar.
 
 Para dichos efectos, la Autoridad Educativa y los Organismos Descentralizados deberán implementar un programa integral que organice y estructure debidamente las funciones y la adscripción del Personal con Funciones de Asesoría Técnica Pedagógica en servicio.
 
@@ -3828,3 +3840,9 @@ P.O. 8 DE ABRIL DE 2014.
 DECRETO NÚMERO 24843/LX/14, POR EL QUE SE REFORMAN LOS ARTÍCULOS 123, 131 Y 133, Y SE ADICIONA EL ARTÍCULO 77 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE ABRIL DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
