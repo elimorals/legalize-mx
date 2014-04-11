@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2012-01-19"
+last_updated: "2014-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -53,7 +53,9 @@ I. En materia de defensoría de oficio:
 
 a) Organizar la defensoría de oficio en el Estado;
 
-b) Representar y defender a los indiciados y procesados en todas las etapas de los procedimientos penales, o hasta que éste nombre defensor particular; y
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+b) Representar y defender a los imputados en todas las etapas de los procedimientos penales, o hasta que éste nombre defensor particular; y
 
 c) Representar a los adolescentes infractores en todas las etapas de los procedimientos contemplados por la Ley de Justicia Integral para Adolescentes del Estado, o hasta que éstos nombren defensor particular.
 
@@ -177,11 +179,17 @@ XV. Calificar las excusas e impedimentos de los sub procuradores y directores ge
 
 XVI. Sancionar, en su caso, las faltas administrativas cometidas por los servidores públicos de la dependencia, en los términos de la Ley de los Servidores Públicos del Estado y sus Municipios, así como la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-XVII. Ordenar las visitas de inspección interna y externa que le competen a la Procuraduría Social, y
+XVII. Ordenar las visitas de inspección interna y externa que le competen a la Procuraduría Social;
 
-XVIII. Las demás que le confieran las leyes y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XVIII. Gestionar y tramitar apoyos económicos en la aplicación de medidas Cautelares; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XIX. Las demás que le confieran las leyes y demás disposiciones aplicables.
 
 El Procurador Social podrá delegar sus facultades en servidores públicos subalternos, mediante acuerdo publicado en el Periódico Oficial “El Estado de Jalisco” sin perjuicio del ejercicio directo de sus atribuciones y facultades.
 
@@ -267,7 +275,9 @@ VIII. Las demás que la presente ley y el reglamento interior le confieran.
 
 La Sub procuraduría de la Defensoría de Oficio, es la encargada de ejercer las funciones de la Procuraduría Social, contenidas en la fracción I del artículo 3, tiene como atribuciones:
 
-I. Defender al indiciado de un delito, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado de Jalisco, cuando no cuente con asistencia de un defensor particular en la etapa de Averiguación Previa, durante todo el proceso penal y hasta el juicio de amparo;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+I. Defender al imputado de un delito, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado de Jalisco, cuando no cuente con asistencia de un defensor particular en la etapa de Averiguación Previa, durante todo el proceso penal y hasta el juicio de amparo;
 
 > <small>(F. DE E., P.O. 10 DE MARZO DE 2007)</small>
 
@@ -285,9 +295,17 @@ II. Proponer a la Dirección Administrativa, el programa anual de capacitación 
 
 III. Adoptar las medidas necesarias para el cumplimiento del programa que se refiere la fracción anterior;
 
-IV. Promover en materia familiar, siempre que lo permitan las circunstancias, cualquier medio alternativo de solución de conflictos, antes de iniciar las acciones jurisdiccionales correspondientes; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-V. Las demás que la presente ley y el reglamento interior le confieran.
+IV. Promover en materia familiar, siempre que lo permitan las circunstancias, cualquier medio alternativo de solución de conflictos, antes de iniciar las acciones jurisdiccionales correspondientes;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+V. Generar estadísticas respecto del desempeño de la función de la Subprocuraduría; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+VI. Las demás que le confiera el Código Nacional de Procedimientos Penales, esta Ley, el Reglamento y otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
@@ -711,9 +729,17 @@ VII. Emitir opinión pública que implique prejuzgar sobre un asunto atendido en
 
 VIII. Negarse injustificadamente a prestar los servicios de la Procuraduría que de acuerdo a esta ley y demás disposiciones aplicables le competan;
 
-IX. Dejar de interponer en tiempo y forma los recursos legales que procedan, desatender su trámite, desistirse de ellos o abandonarlos en perjuicio de su defendido, asistido o usuario, y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-X. Dejar de cumplir con cualquiera de las demás obligaciones que, en virtud de la existencia de la institución, se les han conferido.
+IX. Dejar de interponer en tiempo y forma los recursos legales que procedan, desatender su trámite, desistirse de ellos o abandonarlos en perjuicio de su defendido, asistido o usuario;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+X. Dejar de cumplir con cualquiera de las demás obligaciones que, en virtud de la existencia de la institución, se les han conferido; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XI. Asistir a un imputado o sentenciado cuando éste tenga defensor particular presente y no haya sido revocado.
 
 ## TRANSITORIOS
 
@@ -794,3 +820,9 @@ SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones enc
 P.O. 19 DE ENERO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE ABRIL DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor de conformidad con la declaratoria de incorporación prevista por el artículo segundo transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos publicada en el Diario Oficial de la Federación el 18 de junio de 2008, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado deberá efectuar las modificaciones correspondientes a sus reglamentos a más tardar el día 1 de octubre de 2014.
