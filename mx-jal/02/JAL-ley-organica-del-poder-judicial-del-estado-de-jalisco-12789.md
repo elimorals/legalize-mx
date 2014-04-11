@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2014-04-08"
+last_updated: "2014-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -463,7 +463,11 @@ h) Las quejas presentadas en contra del magistrado y el sentido de su resolució
 
 El dictamen técnico, así como los demás datos, informaciones y opiniones que se hagan llegar al Congreso del Estado, tanto del Supremo Tribunal de Justicia, como de particulares, servirán para el proceso de ratificación de los magistrados. Estos elementos no limitan la facultad soberana del Congreso del Estado, de ratificar o no ratificar a los magistrados del Supremo Tribunal de Justicia del Estado.
 
-XXVII. Sugerir al Consejo General la modificación en el número y límites territoriales de los partidos judiciales en que se divide el territorio del Estado, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XXVII. Proponer al Consejo de la Judicatura la modificación en el número y límites territoriales de los distritos judiciales en que se divide el territorio del Estado, y
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
 
@@ -495,7 +499,11 @@ Para ser Secretario General de Acuerdos se requiere:
 
 I. Ser mexicano por nacimiento, en pleno goce de sus derechos civiles y políticos;
 
-II. Tener su domicilio dentro del Primer Partido Judicial del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+II. Tener su domicilio dentro del Primer Distrito Judicial del Estado;
 
 III. Haber cumplido veintisiete años de edad y ser menor de sesenta y cinco;
 
@@ -707,7 +715,11 @@ Los notificadores estarán obligados a practicar las notificaciones y citaciones
 
 Las salas que conozcan de la materia penal, en los asuntos de los juzgados de su jurisdicción, resolverán:
 
-I. De la apelación, denegada apelación y revisión oficiosa que se interponga en contra de las resoluciones dictadas por los jueces;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+I. De los recursos que se interpongan contra las resoluciones emitidas por los diversos órganos jurisdiccionales en materia penal según corresponda;
 
 II. De la revisión de las causas de la competencia del Jurado Popular;
 
@@ -767,11 +779,13 @@ VI. De los demás asuntos que fijen las leyes.
 
 Los conflictos de competencia que se susciten entre juzgados de la jurisdicción de diferentes salas, serán resueltos por el Pleno del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### Artículo 51.
 
-Las salas auxiliares y regionales mixtas en su caso, tendrán jurisdicción en los partidos judiciales que les adscriba el pleno, con las atribuciones y facultades que les sean asignadas.
+Las salas auxiliares y regionales mixtas en su caso, tendrán jurisdicción en los distritos judiciales que les adscriba el pleno, con las atribuciones y facultades que les sean asignadas.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -887,9 +901,11 @@ El Presidente del Tribunal de lo Administrativo, tendrá las siguientes atribuci
 
 I. Representar al Tribunal ante toda clase de autoridades;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Presidir una de las Salas del Tribunal del primer Partido Judicial del Estado;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+II. Presidir una de las Salas del Tribunal del primer Distrito Judicial del Estado;
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2000)</small>
 
@@ -1009,9 +1025,11 @@ En los casos de licencia de los magistrados, el Pleno designará a un magistrado
 
 El Pleno del Tribunal de lo Administrativo conocerá de los asuntos en que se dé trámite a recursos de apelación, reclamación y los que se deriven de la aplicación de la Ley de Responsabilidad Patrimonial del Estado y de los Municipios.
 
-> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las Salas del primer partido judicial del estado, las Regionales y las Auxiliares del Tribunal de lo Administrativo, conocerán de los juicios que se instauren en contra de:
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+Las Salas del primer distrito judicial del estado, las Regionales y las Auxiliares del Tribunal de lo Administrativo, conocerán de los juicios que se instauren en contra de:
 
 I. Las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los municipios y de los organismos descentralizados, cuando éstos actúen como autoridades, que causen agravio a los particulares;
 
@@ -1751,7 +1769,9 @@ En el supuesto de que la resolución ordene dejar sin efectos la destitución de
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012) (F. DE E., P.O. 5 DE JUNIO DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ## TÍTULO QUINTO. DE LOS JUZGADOS Y JURADO POPULAR
 
@@ -1759,9 +1779,21 @@ En el supuesto de que la resolución ordene dejar sin efectos la destitución de
 
 ###### Artículo 101.
 
-Los juzgados de la Entidad conocerán de los asuntos de materia penal, civil, familiar y mercantil, según determine el Pleno del Consejo General, conforme a las reglas siguientes:
+Los juzgados de la Entidad conocerán de los asuntos de materia penal, civil, familiar y mercantil, según determine el Pleno del Consejo de la Judicatura, conforme a las reglas siguientes:
 
-I. En materia penal, conocerán de toda clase de delitos del fuero común, sea cual fuere la pena que les corresponda;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+I. En materia penal, los diversos órganos jurisdiccionales de conformidad a lo dispuesto por el Código Nacional de Procedimientos Penales conocerán de toda clase de delitos del fuero común, y aquellos cuya competencia sea concurrente cual fuere la pena que les corresponda y ejercerán las facultades que la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y sus leyes reglamentarias les confiera;
+
+a) Los juzgados de control intervendrán desde el principio del procedimiento y hasta el dictado del auto de apertura a juicio;
+
+b) Los Juzgados de enjuiciamiento intervendrán desde el auto de apertura a juicio oral hasta el dictado y explicación de sentencia;
+
+Los Juzgados de enjuiciamiento se integrarán por uno o tres jueces según corresponda;
+
+c) Los juzgados de ejecución de penas intervendrán según lo determine la legislación única en materia de ejecución de penas;
 
 (NOTA: EL 20 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 34/2012, DECLARÓ LA INVALIDEZ DE LA FE DE ERRATAS RELATIVA AL DECRETO 23965/LIX/12, IDENTIFICADA CON EL NÚMERO DPL-869-LIX, PUBLICADA EL CINCO DE JUNIO DE DOS MIL DOCE EN EL PERIÓDICO OFICIAL “EL ESTADO DE JALISCO”, ÚNICAMENTE POR LO QUE HACE A LA FRACCIÓN II DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1795,21 +1827,13 @@ IV. Los juzgados de lo mercantil, conocerán de toda clase de juicios o trámite
 
 V. Los juzgados mixtos, conocerán de toda clase de asuntos mencionados en las fracciones anteriores.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### Artículo 102.
 
-Los juzgados especializados en materia penal se integraran con:
-
-I. Un Juez;
-
-II. Un Secretario de Acuerdos;
-
-III. Un Secretario o secretarios;
-
-IV. Actuarios;
-
-V. Un Notificador o notificadores; y
-
-VI. Los servidores públicos de la administración de justicia, que determine el Consejo General y que permita el Presupuesto de Egresos.
+Los diversos órganos jurisdiccionales especializados en materia penal se integrarán con los servidores públicos de la administración de justicia, que determine el Consejo de la Judicatura y que permita el Presupuesto de Egresos.
 
 ###### Artículo 103.
 
@@ -1859,9 +1883,41 @@ IV. Acreditar cuando menos cinco años de práctica profesional desde la obtenci
 
 V. Aprobar el examen de oposición;
 
-VI. Tener reconocida probidad y honradez; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. No haber sido condenado por delito doloso que amerite pena corporal.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+VI. Tener reconocida probidad y honradez;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+VII. No haber sido condenado por delito doloso que amerite pena corporal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+VIII. No tener impedimento físico o enfermedad que lo imposibilite para el desempeño del cargo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+IX. Acreditar los conocimientos, habilidades y competencias que se requieran para el desempeño de su cargo, de conformidad con lo que establezcan las demás disposiciones aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+X.- Satisfacer con eficiencia y probidad sus servicios en la administración de la justicia o gozar de conocida honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XI. No ser ministro de culto religioso.
 
 Para el nombramiento de jueces, en igualdad de circunstancias, se preferirá al aspirante que preste sus servicios con eficiencia, probidad y honradez en la administración de justicia.
 
@@ -1899,7 +1955,11 @@ V. Excusarse en los casos previstos por la ley;
 
 VI. Acatar sin demora las ejecutorias y requerimientos de sus supervisores;
 
-VII. Residir en la cabecera del partido judicial de su adscripción;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+VII. Residir en la cabecera del distrito judicial de su adscripción;
 
 VIII. Cumplimentar sin demora alguna, los exhortos que se reciban de otras autoridades, siempre que a su juicio están ajustadas a la ley, procediendo en su caso como lo disponen las normas adjetivas correspondientes;
 
@@ -1921,9 +1981,13 @@ XIII. Las demás que les impongan las leyes.
 
 En el caso de la fracción XI, los jueces al proponer el personal del juzgado deberán hacerlo preferentemente a favor de quien tenga mejor derecho de acuerdo al sistema de Carrera Judicial, de no ser así, podrán hacerlo a favor de persona ajena al Poder Judicial, en cuyo caso deberá motivarse la propuesta. Si el Consejo no aprueba al candidato, el juez presentará otra y hasta una tercera propuesta, de ser necesario. De ser rechazadas el Consejo elegirá para el cargo a quien hubiere obtenido mayor votación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### Artículo 111.
 
-El Juez Mixto de Primera Instancia o Especializado en materia penal del partido judicial que corresponda, propondrá candidatos al Pleno del Consejo General para que se elija a los jueces menores o de paz.
+El Juez Mixto de Primera Instancia o Especializado en materia penal del distrito judicial que corresponda, propondrá candidatos al Pleno del Consejo General para que se elija a los jueces menores o de paz.
 
 ###### Artículo 112.
 
@@ -1971,6 +2035,18 @@ XIV. Llevar un registro diario de oficios y correspondencia diaria; de exhortos;
 
 XV. Desempeñar todas las funciones que la ley y el reglamento determinen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+No obstante, en materia penal los jueces de los distintos órganos jurisdiccionales y magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+En materia penal tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con lo previsto en la Ley de Firma Electrónica Avanzada del Estado de Jalisco y sus municipios para garantizar su autenticidad, integridad y seguridad.
+
 ###### Artículo 113.
 
 Los secretarios conciliadores tienen las siguientes obligaciones y facultades:
@@ -1999,7 +2075,11 @@ VI. Dar cuenta al Juez sin demora alguna, de las solicitudes de libertad caucion
 
 VII. Las demás que la ley o el Juez le encomiende.
 
-En los juzgados especializados y mixtos fuera del Primer Partido Judicial en los que solamente actúe un Secretario, tendrá las atribuciones que en lo conducente señala esta ley para los secretarios de acuerdos y conciliadores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+En los juzgados especializados y mixtos fuera del Primer Distrito Judicial en los que solamente actúe un Secretario, tendrá las atribuciones que en lo conducente señala esta ley para los secretarios de acuerdos y conciliadores.
 
 ###### Artículo 115.
 
@@ -2087,19 +2167,31 @@ VII. No haber sido condenado por delito doloso que amerite pena corporal.
 
 Todo ciudadano residente en el Estado de Jalisco que reúna los requisitos señalados por el artículo anterior, tiene la obligación de desempeñar el cargo de Jurado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### Artículo 124.
 
-En el Primer Partido Judicial, se nombrarán por el Consejo General, cincuenta ciudadanos que desempeñen el cargo de jurados durante un año contado desde el primero de enero. También se nombrarán veinticinco ciudadanos para cada uno de los demás partidos judiciales en el Estado que deban desempeñar por un año el cargo de jurados.
+En el Primer Distrito Judicial, se nombrarán por el Consejo de la Judicatura, cincuenta ciudadanos que desempeñen el cargo de jurados durante un año contado desde el primero de enero. También se nombrarán veinticinco ciudadanos para cada uno de los demás distritos judiciales en el Estado que deban desempeñar por un año el cargo de jurados.
 
 En ambos casos la designación se hará en los primeros quince días del mes de octubre y la lista de los nombramientos se publicará en el Boletín Judicial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### Artículo 125.
 
-El Jurado se integrará por siete ciudadanos electos mediante un sistema de insaculación por el Pleno del Consejo General, sujeto a las siguientes bases:
+El Jurado se integrará por siete ciudadanos electos mediante un sistema de insaculación por el Pleno del Consejo de la Judicatura, sujeto a las siguientes bases:
 
 I. La insaculación de jurados se hará en público el día anterior al en que deba celebrarse el juicio, debiendo estar presentes el Juez, su Secretario de Acuerdos, el Ministerio Público, el acusado y su defensor. La ausencia de los dos últimos no impedirá la insaculación;
 
-II. Reunidas las personas referidas en la fracción anterior, el Juez introducirá en una ánfora, boletas individuales con el nombre de los jurados que integren la lista del partido judicial de que se trate, eligiendo al azar y leyendo en voz alta el nombre de los ciudadanos que deban integrar el Jurado correspondiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+II. Reunidas las personas referidas en la fracción anterior, el Juez introducirá en una ánfora, boletas individuales con el nombre de los jurados que integren la lista del distrito judicial de que se trate, eligiendo al azar y leyendo en voz alta el nombre de los ciudadanos que deban integrar el Jurado correspondiente;
 
 III. Tanto el acusado o su defensor podrán recusar sin expresión de causa, hasta dos de los Jurados electos, que serán sustituidos inmediatamente en el mismo evento de la insaculación; y
 
@@ -2137,13 +2229,17 @@ El procedimiento, recusación, el orden que debe seguirse en las audiencias y en
 
 Los jueces de primera instancia del Estado serán suplidos en sus faltas temporales o absolutas por los que nombre el Consejo General del Poder Judicial. En tanto se haga el nombramiento, en los juzgados especializados los sustituirán los secretarios de acuerdos, y en los juzgados mixtos el Secretario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### Artículo 131.
 
-En los casos de recusación o excusa de un Juez de Primera Instancia Especializado del Primer Partido Judicial, le sustituirá el que le siga en número y materia, y agotados estos, lo será el titular del Juzgado más afín a la materia siguiendo el orden numérico.
+En los casos de recusación o excusa de un Juez de Primera Instancia Especializado del Primer Distrito Judicial, le sustituirá el que le siga en número y materia, y agotados estos, lo será el titular del Juzgado más afín a la materia siguiendo el orden numérico.
 
-En el caso de los jueces penales, agotados los del ramo, serán suplidos por los de lo civil del mismo partido judicial, en el orden del párrafo anterior.
+En el caso de los jueces penales, agotados los del ramo, serán suplidos por el juez o jueces especializados del distrito judicial próximo.
 
-En tratándose de excusa o recusación del Juez que no pertenezca al Primer Partido Judicial, la competencia corresponderá al Juez especializado más próximo según la materia del negocio de que se trate.
+En tratándose de excusa o recusación del Juez que no pertenezca al Primer Distrito Judicial, la competencia corresponderá al Juez especializado más próximo según la materia del negocio de que se trate.
 
 ###### Artículo 132.
 
@@ -2153,9 +2249,13 @@ En sus faltas temporales el Secretario de Acuerdos de las salas, será publido (
 
 En los juzgados especializados, los secretarios suplirán a los secretarios de acuerdos o conciliadores, en los casos de excusa y recusaciones, faltas o ausencias temporales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### Artículo 134.
 
-Los demás secretarios de los juzgados de primera instancia del Primer Partido Judicial, y de los especializados que existan en otros partidos, se suplirán recíprocamente en los casos de excusas, recusaciones, faltas o ausencias temporales.
+Los demás secretarios de los juzgados de primera instancia del Primer Distrito Judicial, y de los especializados que existan en otros partidos, se suplirán recíprocamente en los casos de excusas, recusaciones, faltas o ausencias temporales.
 
 En los demás juzgados donde solo actúe un Secretario, sus faltas serán cubiertas por el Notificador y la de éste, por testigos de asistencia, fungiendo como tales dos servidores públicos que laboren en el Tribunal de que se trate.
 
@@ -2307,7 +2407,11 @@ XXIII. Convocar a congresos estatales o regionales de jueces, asociaciones profe
 
 XXIV. Apercibir, amonestar e imponer multas, hasta de ciento ochenta días del importe del salario mínimo general vigente en la zona metropolitana de Guadalajara al día de cometerse la falta, a quienes falten al respeto a algún órgano o miembro del Poder Judicial del Estado en las promociones que hagan ante el Consejo General del Poder Judicial del Estado;
 
-XXV. Elaborar anualmente una lista con los nombres de las personas que puedan fungir como auxiliares de la administración de justicia ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y partidos judiciales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XXV. Elaborar anualmente una lista con los nombres de las personas que puedan fungir como auxiliares de la administración de justicia ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
 
 XXVI. Ejercer el Presupuesto de Egresos del Poder Judicial del Estado, con excepción del que corresponde al Supremo Tribunal de Justicia, al Tribunal de lo Administrativo y al Tribunal Electoral;
 
@@ -2329,9 +2433,29 @@ XXXIV. Dictar las medidas que exijan el buen servicio y la disciplina en las ofi
 
 XXXV. Regular las autorizaciones para abandonar el lugar de residencia de los funcionarios judiciales en los casos contemplados en el presente ordenamiento;
 
-XXXVI. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXVII. Desempeñar cualquier otra función que la ley encomiende al Consejo General del Poder Judicial del Estado.
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XXXVI. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XXXVII. Elaborar la base de datos para el registro único de profesionales del derecho que ejercen la abogacía ante los órganos jurisdiccionales del Poder Judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XXXVIII. Acordar de conformidad con el Presupuesto de Egresos, el número necesario de juzgados de primera instancia, incluyendo los especializados, en la entidad; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XXXIX. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -2611,7 +2735,25 @@ Del acta elaborada por el Visitador, deberán ser entregadas copias al titular d
 
 El Pleno del Consejo General del Poder Judicial y el Titular de la Dirección de Visitaduría podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por cualquier servidor público adscrito al Juzgado de Primera Instancia, Menor o de Paz.
 
-### CAPÍTULO IX. DE LA CARRERA JUDICIAL
+### CAPÍTULO VIII bis. DE LA ORGANIZACIÓN Y LOGÍSTICA DE LA FUNCIÓN JURISDICCIONAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+Artículo 179 bis.- Corresponde a la Dirección de (sic) Logística la organización y distribución ordenada de tareas necesarias para el desarrollo de las diligencias y audiencias a celebrar en los distintos órganos jurisdiccionales especializados en materia penal.
+
+La Dirección de Logística contará con las siguientes atribuciones:
+
+I. Proveer la programación de diligencias y audiencias necesarias para el desarrollo de la función jurisdiccional;
+
+II. Custodiar los bienes y valores que se encuentren a disposición de los Juzgados con motivo de la tramitación de asuntos;
+
+III. Distribuir equitativamente las labores en la agenda de los jueces;
+
+IV. Resolver previa autorización del Consejo, la ausencia y suplencia de los jueces; y
+
+VI. (SIC) Las demás que esta Ley, su Reglamento y demás disposiciones aplicables le confieran.
 
 ###### Artículo 178.
 
@@ -2627,9 +2769,13 @@ II. Elaborar los dictámenes de proyectos de Presupuesto de Egresos, planeación
 
 III. Comprobar el cumplimiento por parte de los órganos administrativos de cada órgano jurisdiccional, respecto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos.
 
-### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO IX. DE LA CARRERA JUDICIAL
+
+### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
 
 ###### Artículo 180.
 
@@ -2675,9 +2821,7 @@ XIII. Juez Menor y Juez de Paz.
 
 El Consejo General del Poder Judicial del Estado establecerá, de acuerdo con su Presupuesto de Egresos y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios, respetando los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación.
 
-### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
+### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
 
 ###### Artículo 183.
 
@@ -2745,7 +2889,9 @@ IV. El titular del Instituto de Formación y Actualización Judicial.
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
-### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
+### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 189.
 
@@ -2795,7 +2941,7 @@ IV. No haber sido sancionado por falta grave, con motivo de una queja de caráct
 
 V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
 
-### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS FUNCIONARIOS JUDICIALES
+### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
 
 ###### Artículo 193.
 
@@ -2825,7 +2971,7 @@ Para los efectos de la Ley de Prensa, el impresor será responsable de su actuac
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y CONFLICTOS LABORALES
 
-### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS FUNCIONARIOS JUDICIALES
 
 ###### Artículo 196.
 
@@ -2839,9 +2985,9 @@ También se procederá en los términos del párrafo anterior cuando los magistr
 
 Los magistrados del Supremo Tribunal, del Tribunal de lo Administrativo y del Tribunal Electoral, serán responsables al establecer o fijar la interpretación de los preceptos legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
+### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
-### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
 
 ###### Artículo 198.
 
@@ -2981,7 +3127,7 @@ VI. Incumplir las instrucciones de sus superiores jerárquicos relacionadas con 
 
 VII. Retirarse de su área de trabajo sin autorización o causa justificada.
 
-### CAPÍTULO I. DE LOS TRIBUNALES
+### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
 
 ###### Artículo 201.
 
@@ -3055,7 +3201,7 @@ Si el Pleno de los Tribunales correspondientes, el Consejo General del Poder Jud
 
 Las resoluciones por las que el Pleno del Consejo General del Poder Judicial del Estado imponga sanciones administrativas consistentes en la destitución del cargo de Juez de Primera Instancia, Menor o de Paz, podrán ser impugnadas por el servidor público ante el Pleno del Tribunal de lo Administrativo mediante el recurso de revisión administrativa.
 
-### CAPÍTULO II. DE LOS JUZGADOS
+### CAPÍTULO I. DE LOS TRIBUNALES
 
 ###### Artículo 207.
 
@@ -3099,7 +3245,7 @@ La nulidad del acto que se reclame no producirá la invalidez de las actuaciones
 
 La interposición de la revisión administrativa no interrumpirá en ningún caso, los efectos de la resolución impugnada.
 
-### CAPÍTULO III. DE LOS PERITOS E INTÉRPRETES
+### CAPÍTULO II. DE LOS JUZGADOS
 
 ###### Artículo 214.
 
@@ -3151,7 +3297,7 @@ III. Otras en que quede sin materia el procedimiento administrativo iniciado.
 
 ## TÍTULO OCTAVO. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO IV. DE LOS SÍNDICOS DE CONCURSO
+### CAPÍTULO III. DE LOS PERITOS E INTÉRPRETES
 
 ###### Artículo 222.
 
@@ -3163,7 +3309,7 @@ II. Vigilar la conducta de los auxiliares de la administración de justicia en l
 
 III. Las demás que le asignen las leyes, el reglamento y el Pleno del Tribunal respectivo en el ámbito de su competencia.
 
-### CAPÍTULO V. DE LOS ALBACEAS, INTERVENTORES, DEPOSITARIOS, TUTORES Y CURADORES
+### CAPÍTULO IV. DE LOS SÍNDICOS DE CONCURSO
 
 ###### Artículo 223.
 
@@ -3201,7 +3347,7 @@ Sólo en el caso de que no existiere lista de peritos en el arte o ciencia de qu
 
 Los auxiliares de justicia, en la prestación de sus servicios, devengarán honorarios de acuerdo a la ley o aranceles aplicables.
 
-### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA Y DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO V. DE LOS ALBACEAS, INTERVENTORES, DEPOSITARIOS, TUTORES Y CURADORES
 
 ###### Artículo 228.
 
@@ -3215,9 +3361,7 @@ Los peritajes que versen sobre materias relativas a una profesión, deberán enc
 
 En los casos de extrema pobreza, a criterio del juzgador, los servicios que presten los peritos se estimarán de asistencia social, por lo que se otorgarán gratuitamente.
 
-### CAPÍTULO I. DEL HABER POR RETIRO DE LOS MAGISTRADOS DEL PODER JUDICIAL
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA Y DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 231.
 
@@ -3261,7 +3405,7 @@ Los daños y perjuicios que se ocasionaren por culpa o negligencia del Síndico 
 
 La garantía no podrá ser cancelada ni devuelta hasta transcurridos seis meses de la conclusión del cargo.
 
-### CAPÍTULO II. DEL HABER POR RETIRO DE LOS JUECES DEL PODER JUDICIAL
+### CAPÍTULO I. DEL HABER POR RETIRO DE LOS MAGISTRADOS DEL PODER JUDICIAL
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
 
@@ -3272,6 +3416,10 @@ Los albaceas, interventores, depositarios, tutores y curadores desempeñan una f
 Quedan sujetos a las determinaciones de esta ley, su reglamento y las demás leyes aplicables.
 
 ## TÍTULO NOVENO. DE LA JURISPRUDENCIA
+
+### CAPÍTULO II. DEL HABER POR RETIRO DE LOS JUECES DEL PODER JUDICIAL
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
 
 ###### Artículo 238.
 
@@ -3676,3 +3824,13 @@ P.O. 8 DE ABRIL DE 2014.
 PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, deberán substanciarse conforme a las disposiciones vigentes en aquel momento.
+
+P.O. 11 DE ABRIL DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor de conformidad con la declaratoria de incorporación prevista por el artículo segundo transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos publicada en el Diario Oficial de la Federación el 18 de junio de 2008, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, las referencias que hagan las leyes estatales a los partidos judiciales se entenderán hechas a los distritos judiciales.
+
+TERCERO. Para la creación y funcionamiento de los órganos judiciales encargados de resolver los asuntos relacionados con la ejecución de penas se deberá estar a lo que al efecto se disponga en la Legislación Única en esa materia, y en su caso deberán ser instalados a más tardar el 1ro de enero de 2015.
+
+CUARTO. El Consejo de la Judicatura del Estado de Jalisco deberá efectuar las modificaciones correspondientes a sus reglamentos a más tardar el día 1ro de octubre de 2014.
