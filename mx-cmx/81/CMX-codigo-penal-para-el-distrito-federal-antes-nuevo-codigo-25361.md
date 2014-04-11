@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2014-03-10"
+last_updated: "2014-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ABRIL DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2352,9 +2352,9 @@ II. Prisión de seis meses a dos años y sesenta a ciento cincuenta días multa,
 
 III. Prisión de dos a cuatro años y de ciento cincuenta a cuatrocientos días multa, cuando el valor de lo robado exceda de trescientas pero no de setecientas cincuenta veces el salario mínimo, y
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 11 DE ABRIL DE 2014)</small>
 
-IV. Prisión de cuatro a diez años y de cuatrocientos o seiscientos días multa, cuando el valor de lo robado exceda de setecientas cincuenta veces el salario mínimo.
+IV. Prisión de cuatro a diez años y de cuatrocientos a seiscientos días multa, cuando el valor de lo robado exceda de setecientas cincuenta veces el salario mínimo.
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
@@ -4825,3 +4825,9 @@ G.O. 10 DE MARZO DE 2014.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 11 DE ABRIL DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
