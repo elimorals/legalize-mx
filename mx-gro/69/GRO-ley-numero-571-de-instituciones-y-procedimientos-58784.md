@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-571-de-instituciones-y-procedimientos-58784"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-01"
-last_updated: "2013-08-27"
+last_updated: "2014-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 1 de enero de 2008.
 
@@ -437,9 +437,11 @@ Para los efectos de la asignación de regidurías de representación proporciona
 
 ### CAPÍTULO IV. DEL PROCESO ELECTORAL ORDINARIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 24.
 
-Las elecciones ordinarias deberán celebrarse el primer domingo de Julio del año que corresponda, para elegir:
+Las elecciones ordinarias deberán celebrarse el primer domingo de junio del año que corresponda, para elegir:
 
 I. Gobernador del Estado de Guerrero, cada seis años; y
 
@@ -1621,7 +1623,9 @@ Los integrantes de los consejos electorales del Instituto Electoral, están obli
 
 El Consejo General del Instituto, se reunirá en sesión ordinaria cada mes. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los Consejeros Electorales o de los representantes de los partidos políticos, conjunta o indistintamente.
 
-Para la preparación del proceso electoral, el Consejo General del Instituto, se reunirá en la primera semana del mes de enero. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General se reunirá en sesión ordinaria, por lo menos una vez al mes.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+Para la preparación del proceso electoral, el Consejo General del Instituto, se reunirá en la primera semana del mes de octubre del año anterior a la elección. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General se reunirá en sesión ordinaria, por lo menos una vez al mes.
 
 Cuando deban celebrarse elecciones extraordinarias, el Presidente del Consejo General del Instituto convocará a los demás integrantes a las sesiones previas que estime necesarias.
 
@@ -1687,9 +1691,9 @@ VIII. Aprobar la estructura de las Direcciones y demás Órganos del Instituto E
 
 IX. Vigilar la oportuna integración y adecuado funcionamiento de los Órganos Electorales del Instituto Electoral, y conocer, por conducto de su Presidente y de sus Comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General del Instituto estime necesario solicitarles;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-X. Designar por las dos terceras partes, a más tardar la segunda semana de enero del año de la elección, de entre las propuestas que al efecto haga el Consejero Presidente a los Consejeros Electorales de los Consejos Distritales, a que se refiere el artículo 126 de esta Ley, derivado de la convocatoria pública expedida;
+X. Designar por las dos terceras partes, a más tardar la primer semana de noviembre del año anterior a la elección, de entre las propuestas que al efecto haga el Consejero Presidente a los Consejeros Electorales de los Consejos Distritales, a que se refiere el artículo 126 de esta Ley, derivado de la convocatoria pública expedida;
 
 XI. Resolver sobre las consultas y controversias que le sometan los partidos políticos o coaliciones, relativas a la integración o funcionamiento de los Organismos Electorales y demás asuntos de su competencia;
 
@@ -2695,9 +2699,11 @@ Los Consejeros Electorales, deberán reunir los requisitos que señala el artíc
 
 El Secretario Técnico, será nombrado por las dos terceras partes de los Consejeros Electorales, a propuesta del Presidente de cada Consejo Distrital y deberá poseer Título de Licenciado en Derecho legalmente expedido; debiendo reunir los requisitos que señala el artículo 92 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 127.
 
-Los Consejos Distritales, se instalarán a más tardar en el mes de Marzo del año del proceso electoral.
+Los Consejos Distritales, se instalarán a más tardar en el mes de diciembre del año anterior a la elección.
 
 A partir de su instalación y hasta la conclusión del proceso, los Consejos sesionarán por lo menos una vez al mes, entrando en receso al concluir el proceso electoral respectivo.
 
@@ -3381,9 +3387,11 @@ La organización de los procesos de participación ciudadana será responsabilid
 
 Los procesos de participación ciudadana se realizarán en día domingo. Para su desarrollo, el Gobierno del Estado otorgará al Instituto Electoral los recursos económicos necesarios, adicionalmente al presupuesto anual ordinario autorizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 183.
 
-El proceso electoral ordinario se inicia la primer semana de Enero del año en que deban realizarse elecciones locales y concluye una vez que la autoridad jurisdiccional correspondiente, haya resuelto el último medio de impugnación que se haya interpuesto en contra de los actos relativos a los resultados electorales, calificación de las elecciones, otorgamiento de las constancias de mayoría y validez de las elecciones respectivas, declaración de elegibilidad de candidatos y asignación de diputados y regidores por ambos principios, así como de presidentes municipales y síndicos.
+El proceso electoral ordinario se inicia la primer semana de octubre del año anterior a las elecciones locales y concluye una vez que la autoridad jurisdiccional correspondiente, haya resuelto el último medio de impugnación que se haya interpuesto en contra de los actos relativos a los resultados electorales, calificación de las elecciones, otorgamiento de las constancias de mayoría y validez de las elecciones respectivas, declaración de elegibilidad de candidatos y asignación de diputados y regidores por ambos principios, así como de presidentes municipales y síndicos.
 
 Para los efectos de esta Ley, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -3393,9 +3401,13 @@ b) Jornada electoral;
 
 c) Resultados y declaración de validez de las elecciones; y
 
-La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto Electoral, celebre la primera semana de Enero, y concluye al iniciarse la jornada electoral.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
-La etapa de la jornada electoral, se inicia a las 8:00 horas del primer domingo de Julio y concluye con la clausura de Casilla y la remisión de la documentación y los expedientes electorales a los respectivos consejos distritales.
+La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto Electoral, celebre la primera semana de octubre del año anterior a la elección, y concluye al iniciarse la jornada electoral.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+La etapa de la jornada electoral, se inicia a las 8:00 horas del primer domingo de junio y concluye con la clausura de Casilla y la remisión de la documentación y los expedientes electorales a los respectivos consejos distritales.
 
 La etapa de resultados y de declaraciones de validez de las elecciones se inicia con la remisión de la documentación y expedientes electorales a los Consejos Distritales y concluye con los cómputos y declaraciones que realicen los Consejos del Instituto respectivos, o las resoluciones, que en su caso, emita en última instancia la autoridad electoral correspondiente.
 
@@ -3465,11 +3477,17 @@ La plataforma electoral, deberá presentarse para su registro ante el Consejo Ge
 
 Los plazos y órganos competentes para el registro de las candidaturas son los siguientes:
 
-I. Para diputados por el principio de mayoría relativa y Ayuntamientos, del 3 al 18 de Mayo, por los Consejos Distritales Electorales correspondientes;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-II. Para Diputados por el principio de Representación Proporcional, del 16 al 30 de Mayo, por el Consejo General del Instituto Electoral; y
+I. Para diputados por el principio de mayoría relativa y Ayuntamientos, del tres al dieciocho de abril, por los Consejos Distritales Electorales correspondientes;
 
-III. Para Gobernador del Estado, del 1º al 15 de Abril del año de la elección por el Consejo General del Instituto Electoral.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+II. Para Diputados por el principio de Representación Proporcional, del dieciséis al treinta de abril, por el Consejo General del Instituto Electoral; y
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+III. Para Gobernador del Estado, del primero al quince marzo (sic) del año de la elección por el Consejo General del Instituto Electoral.
 
 Los Consejos Electorales, darán amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente Capítulo.
 
@@ -3617,7 +3635,7 @@ d) Gastos para el retiro de propaganda y limpieza de lugares públicos, durante 
 
 No se considerarán dentro de los topes de campaña los gastos que realicen los partidos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
 
-En el desarrollo de la campaña electoral estará prohibida la pinta de bardas para promocionar el voto a favor de un partido político, coalición o candidato.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 II. Para la elección de Gobernador, el Consejo General del Instituto Electoral, previo al inicio de la campaña electoral, fijará el tope máximo de gastos para dicha elección, tomando en cuenta los siguientes elementos:
 
@@ -3801,29 +3819,53 @@ En cada Casilla se procurará la instalación de mamparas, donde los votantes pu
 
 El procedimiento para integrar las Mesas Directivas de Casilla será el siguiente:
 
-I. El Consejo General del Instituto, en la fecha que determine, sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los ciudadanos que integran las Mesas Directivas de Casilla;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-En el caso de que (sic) resultado del sorteo, se obtenga el mes que haya sido la base de insaculación en el proceso electoral local o federal inmediato anterior, se realizará un nuevo sorteo.
+I. El Consejo General del Instituto, en el mes de diciembre del año previo de la elección, sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los ciudadanos que integran las Mesas Directivas de Casilla.
 
-II. Conforme al resultado obtenido en el sorteo a que se refiere el inciso anterior, en la fecha que señale el Consejo General del Instituto, los Consejos Distritales procederán a insacular de las listas nominales de electores, a un 15% de ciudadanos por cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a 50; para ello deberán apoyarse en la información del Registro Federal de Electores del Instituto Federal Electoral, en los términos del convenio que al efecto se celebre. Podrán estar presentes en el procedimiento de insaculación, los miembros del Consejo General del Instituto, según la programación que previamente se determine;
+Tratándose de un proceso electoral concurrente, se excluirán del sorteo, el mes base el (sic) sorteo realizado por órgano electoral federal, con la finalidad de que el órgano electoral local insacule ciudadanos de los meses que no han sido sorteados
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
+II. Conforme al resultado obtenido en el sorteo a que se refiere la fracción anterior, del primero al quince de febrero, los Consejos Distritales procederán a insacular de las listas nominales de electores integradas con los ciudadanos que obtuvieron su credencial para votar con fotografía al quince de enero del año de la elección, a un 15% de ciudadanos por cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a 50; para ello deberán apoyarse en la información del Instituto Nacional de Elecciones, en los términos del convenio que al efecto se celebre. Podrán estar presentes en el procedimiento de insaculación, los miembros del Consejo General del Instituto, según la programación que previamente se determine;
 
 Del porcentaje mencionado en esta fracción, se excluirán todos aquellos ciudadanos que tengan al día de la elección más de 70 años.
 
-III. A los ciudadanos que resulten seleccionados, se les convocará para que asistan a un curso de capacitación;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-IV. Los Consejos Distritales, harán una evaluación objetiva para seleccionar, con base en los datos que los ciudadanos aporten durante los cursos de capacitación, a los que resulten aptos en términos de esta Ley, prefiriendo a los de mayor escolaridad;
+III. A los ciudadanos que resulten seleccionados, se les convocará para que asistan a un curso de capacitación que se impartirá del quince de febrero al treinta y uno de marzo del año de la elección;
 
-V. El Consejo General del Instituto, en la fecha que determine, sorteará las veintinueve letras que componen el alfabeto a fin de obtener la letra a partir de la cual con base en el apellido paterno, se seleccionará a los ciudadanos que integrarán las Mesas Directivas de Casilla;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-VI. De acuerdo a los resultados obtenidos en el sorteo a que se refiere la fracción anterior, los Consejos Distritales harán una relación de aquellos ciudadanos que, habiendo acreditado la capacitación, no tengan impedimento alguno para desempeñar el cargo. De esta relación, los Consejos Distritales insacularán a los ciudadanos que integrarán las Mesas Directivas de Casilla;
+IV. Los Consejos Distritales, harán una evaluación imparcial y objetiva para seleccionar, en igualdad de oportunidades, con base en los datos que los ciudadanos aporten durante los cursos de capacitación, a los que resulten aptos en términos de esta Ley, prefiriendo a los de mayor escolaridad; y se excluirá a los ciudadanos que estén legalmente impedidos para desempeñar el cargo de funcionario de mesa directiva de casilla, de lo anterior se informará en sesión a los integrantes de los Consejos Distritales Electorales;
 
-VII. Los Consejos Distritales, integrarán las Mesas Directivas de Casilla, con los ciudadanos seleccionados conforme al procedimiento descrito en el inciso anterior, y determinarán según su escolaridad y experiencia electoral, las funciones que cada uno desempeñará en la Casilla.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+V. El Consejo General del Instituto, en el mes de marzo del año de la elección, sorteará las letras que componen el alfabeto a fin de obtener la letra a partir de la cual con base en el apellido paterno, se seleccionará a los ciudadanos que integrarán las Mesas Directivas de Casilla;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+VI. De acuerdo a los resultados obtenidos en el sorteo a que se refiere la fracción anterior, los Consejos Distritales harán una relación de aquellos ciudadanos que, habiendo acreditado la capacitación, no tengan impedimento alguno para desempeñar el cargo. De esta relación, los Consejos Distritales insacularán a los ciudadanos que integrarán las Mesas Directivas de Casilla, a más tardar el catorce de abril;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
+VII. Los Consejos Distritales, integrarán las Mesas Directivas de Casilla, con los ciudadanos seleccionados conforme al procedimiento descrito en el inciso anterior, y determinarán según su escolaridad y experiencia electoral, las funciones que cada uno desempeñará en la Casilla, a más tardar el quince de abril.
 
 En este caso tendrán preferencia para integrar las Mesas Directivas de Casilla, los ciudadanos que hayan participado en alguna otra elección federal o local como integrante de mesa directiva de casilla, siempre y cuando cumplan con los requisitos legales y el procedimiento previsto en este artículo.
 
-VIII. Realizada la integración de las Mesas Directivas de Casilla, los Consejos Distritales ordenarán la publicación de las listas de sus miembros para todas las secciones electorales en cada Distrito; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+VIII. Realizada la integración de las Mesas Directivas de Casilla, los Consejos Distritales entre el quince y el veinticinco de mayo del año de la elección, ordenarán la publicación de las listas de sus miembros para todas las secciones electorales en cada Distrito; y (sic)
 
 IX. Los Consejos Distritales, notificarán personalmente a los integrantes de las Mesas Directivas de Casilla, su respectivo nombramiento y los citarán a rendir la protesta de ley.
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+X. En caso de sustituciones, los Consejos Distritales Electorales deberán informar de las mismas a los representantes de los partidos políticos o coaliciones en forma detallada y oportuna;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+XI. Los Consejos Distritales continuarán con la capacitación específica a los ciudadanos que integrarán las Mesas Directivas de Casilla conforme al cargo que les fue designado.
 
 Los representantes de los partidos políticos o coaliciones en los Consejos Distritales, podrán vigilar el desarrollo del procedimiento previsto en este artículo.
 
@@ -3849,19 +3891,29 @@ Para la ubicación de las Casillas se preferirán, en caso de reunir los requisi
 
 El procedimiento para determinar la ubicación de las Casillas será el siguiente:
 
-I. Durante el mes de Marzo del año de la elección, los Consejos Distritales Electorales, recorrerán las secciones de los correspondientes Distritos, con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo anterior, elaborando listas de los lugares recorridos;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+I. Del quince de febrero al quince de marzo del año de la elección, los Consejos Distritales Electorales, recorrerán las secciones de los correspondientes Distritos, con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo anterior, elaborando listas de los lugares recorridos;
 
 II. Elaboradas las listas, los Consejos distritales examinarán que los lugares cumplan con los requisitos fijados por el artículo anterior y, en su caso, harán los cambios necesarios;
 
-III. Los Consejos Distritales, en sesión que celebren a más tardar durante la tercera semana de Abril, aprobarán las listas en que se contenga la ubicación de las Casillas; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-IV. El Presidente del Consejo Distrital, ordenará la publicación de la lista de ubicación de Casillas a más tardar la última semana de Abril.
+III. Los Consejos Distritales, en sesión que celebren a más tardar durante la segunda semana de abril del año de la elección aprobarán las listas en que se contenga la ubicación de las Casillas; y
 
-En caso de cambios en los domicilios, el Presidente del Consejo Distrital ordenará una segunda publicación, de los ajustes correspondientes a más tardar la segunda semana de Mayo del año de la elección.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+IV. El Presidente del Consejo Distrital, ordenará la publicación de la lista de ubicación de Casillas a más tardar la segunda semana de mayo del año de la elección.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+En caso de cambios en los domicilios, el Presidente del Consejo Distrital ordenará una segunda publicación, de los ajustes correspondientes del quince al veinticinco de mayo del año de la elección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 217.
 
-Las publicaciones de las listas de integrantes de las Mesas Directivas y ubicación de las Casillas, se fijarán en los edificios y lugares públicos más concurridos del Distrito y el día de la jornada electoral se encartará en los diarios de mayor circulación en el Estado, garantizando que se difunda en toda la entidad.
+Las publicaciones de las listas de integrantes de las mesas directivas y ubicación de las casillas, se fijarán, en tiempo y forma, en los edificios y lugares públicos más concurridos del distrito, y el día de la jornada electoral se encartarán en los diarios de mayor circulación en el estado, garantizando que se difunda en toda la entidad.
 
 El secretario técnico del Consejo Distrital entregará copia impresa y en medio magnético de la lista mencionada en el párrafo que antecede a cada uno de los representantes de los partidos políticos, haciendo constar la entrega.
 
@@ -3879,7 +3931,9 @@ En cada Distrito Electoral, se instalará por lo menos una Casilla Especial, sin
 
 Los partidos políticos y las coaliciones, una vez registrados sus candidatos, fórmulas, planillas y listas, y hasta trece días antes del día de la elección, tendrán derecho a nombrar un representante propietario y un suplente, ante cada Mesa Directiva de Casilla, y representantes generales propietarios.
 
-Los partidos políticos o las coaliciones, podrán acreditar en cada uno de los Distritos Electorales de Mayoría Relativa, un representante general por cada diez Casillas Electorales ubicadas en zonas urbanas y uno por cada cinco casillas rurales.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+Los partidos políticos y las coaliciones, podrán acreditar en cada uno de los Distritos Electorales un representante general por cada diez Casillas Electorales ubicadas en secciones urbanas y uno por cada cinco casillas ubicadas en secciones rurales.
 
 Los representantes de los partidos políticos o las coaliciones, ante las Mesas Directivas de Casilla y generales, no podrán utilizar el día de la jornada electoral vestimenta que contenga los colores que identifiquen al partido político o candidato que representen y que se haya utilizado durante la campaña electoral, pudiendo portar en lugar visible durante todo el día de la jornada electoral, un distintivo de 2.5 por 2.5 centímetros, con el emblema del partido político o coalición que representen y con la leyenda visible de “Representante”. Asimismo, podrán firmar sus nombramientos hasta antes de acreditarse en la casilla.
 
@@ -3961,7 +4015,9 @@ I. Se hará mediante escrito firmado por el dirigente o representante del partid
 
 II. El oficio deberá acompañarse con una relación, en orden numérico de Casillas, de los nombres de los representantes, propietarios y suplentes, señalando la clave de la credencial para votar con fotografía de cada uno de ellos;
 
-III. Las solicitudes de registro que carezcan de alguno o algunos de los datos del representante ante las Mesas Directivas de Casilla, se regresarán al partido político o coalición solicitantes, para que dentro de los tres días siguientes subsane las omisiones o en su caso, registre un nuevo nombramiento; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+III. Las solicitudes de registro que carezcan de alguno o algunos de los datos del representante ante las Mesas Directivas de Casilla, se regresarán al partido político o coalición solicitantes, para que dentro de los tres días siguientes subsane las omisiones o en su caso, registre un nuevo nombramiento. Este plazo no deberá exceder al previsto en esta Ley para las sustituciones de representantes; y
 
 IV. Vencido el término a que se refiere la fracción anterior sin corregirse las omisiones o se registre un nuevo nombramiento, se tendrá por precluido el derecho para realizarlo.
 
@@ -4121,9 +4177,11 @@ Los Consejos Distritales, darán publicidad a la lista de los lugares en que hab
 
 ### CAPÍTULO I. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 237.
 
-El primer domingo de Julio del año de la elección ordinaria, a las 8:00 horas, los ciudadanos Presidente, Secretario y Escrutadores de las Mesas Directivas de las Casillas, nombrados como propietarios, procederán a la instalación de la Casilla en presencia de los representantes de los partidos políticos o coaliciones que concurran.
+El primer domingo de Junio del año de la elección ordinaria, a las 8:00 horas, los ciudadanos Presidente, Secretario y Escrutadores de las Mesas Directivas de las Casillas, nombrados como propietarios, procederán a la instalación de la Casilla en presencia de los representantes de los partidos políticos o coaliciones que concurran.
 
 Durante el día de la elección se levantará el acta de la jornada electoral, que contendrá los datos comunes a cada elección y las actas relativas al escrutinio y cómputo de cada una de las elecciones.
 
@@ -5878,3 +5936,13 @@ P.O. 27 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y publicación en el Periódico Oficial del Estado de Guerrero.
+
+P.O. 11 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
