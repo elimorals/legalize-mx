@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2013-12-24"
+last_updated: "2014-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO SE DECLARA INCORPORADO AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, MISMO QUE INICIARÁ SU VIGENCIA DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NÚMERO 24864/LX/14.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -4174,3 +4174,47 @@ P.O. 15 DE OCTUBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El Ejecutivo del Estado dispondrá del plazo de treinta días naturales para emitir el reglamento a que hace referencia el artículo 64 Bis de la Ley del Sistema de Seguridad Pública para el Estado de Jalisco.
+
+P.O. 11 DE ABRIL DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+###### ARTICULO PRIMERO.
+
+Se declara incorporado al orden jurídico del Estado de Jalisco, el Sistema Penal Acusatorio consagrado en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, el cual entrará en vigor para todos los delitos previstos por el Código Penal para el Estado Libre y Soberano de Jalisco y la Ley Estatal para Prevenir y Sancionar la Tortura, en los municipios del Estado de conformidad con lo dispuesto en este artículo, y en consecuencia, los derechos y las garantías que consagra dicha Constitución empezarán a regular la forma y términos en que se substanciarán los procedimientos penales:
+
+I. 1 de octubre de 2014: Amacueca, Atemajac de Brizuela, Jilotlán de Dolores, Gómez Farías, San Gabriel, Sayula, Tapalpa, Techaluta de Montenegro, Tecalitlán, Tamazula de Gordiano, Tonila, Tuxpan, Zacoalco de Torres, Zapotiltic, Zapotitlán de Vadillo, Zapotlán el Grande, Pihuamo, Santa María del Oro, Quitupan, Atoyac.
+
+II. 15 de enero de 2015: Cabo Corrientes, Puerto Vallarta, Tomatlán, San Sebastián del Oeste, Mascota.
+
+III. 29 de mayo de 2015: Acatic, Arandas, Cañadas de Obregón, Jalostotitlán, Jesús María, Mexticacán, San Julián, San Miguel el Alto, Tepatitlán de Morelos, Valle de Guadalupe, Yahualica de González Gallo, San Ignacio Cerro Gordo, Ixtlahuacán del Río, Cuquio.
+
+IV. 29 de mayo de 2015: Encarnación de Díaz, Lagos de Moreno, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, Teocaltiche, Unión de San Antonio, Villa Hidalgo.
+
+V. 24 de agosto de 2015: Autlán de Navarro, Chiquilistlán, Ejutla, El Grullo, El Limón, Juchitlán, Tecolotlán, Tolimán, Tonaya, Tuxcacuesco, Unión de Tula, Cuautla, Ayutla.
+
+VI. 24 de agosto de 2015: Atenguillo, Atengo, Ameca, Guachinango, Cocula, Mixtlán, San Martín Hidalgo, Talpa de Allende, Tenamaxtlán.
+
+VII. 24 de agosto de 2015: Ahualulco de Mercado, Amatitán, Tala, San Juanito de Escobedo, El Arenal, Tequila, Etzatlán, San Cristóbal de la Barranca, Magdalena, San Marcos, Teuchitlán, Hostotipaquillo.
+
+VIII. 30 de noviembre de 2015: Atotonilco el Alto, Ayotlán, Zapotlán del Rey, Degollado, Jamay, Tototlán, La Barca, Ocotlán, Poncitlán.
+
+IX. 30 de noviembre de 2015: Concepción de Buenos Aires, El Salto, La Manzanilla de la Paz, Ixtlahuacán de los Membrillos, Mazamitla, Chapala, Juanacatlán, Jocotepec, Teocuitatlán de Corona, Valle de Juárez, Tizapán el Alto, Tuxcueca, Acatlán de Juárez, Villa Corona.
+
+X. 15 de enero de 2016: Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero.
+
+XI. 15 de enero de 2016: Villa Purificación, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta.
+
+XII. 5 de febrero de 2016: Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúñiga y Zapotlanejo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se declara incorporado al orden jurídico del Estado de Jalisco, el Código Nacional de Procedimientos Penales, mismo que iniciará su vigencia de conformidad con lo establecido en el artículo anterior.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Antes del 1 de octubre de 2014 se deberán publicar las reformas a las leyes y demás normatividad complementaria que resulten necesarias para la implementación del Sistema Penal Acusatorio.
+
+TERCERO. Remítase copia de la presente declaratoria al H. Congreso de la Unión, a las legislaturas estatales y a la Asamblea Legislativa del Distrito Federal, a los Poderes Ejecutivo y Judicial de la Federación, así como a los del Estado de Jalisco.
