@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-64679"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-27"
-last_updated: "2013-12-18"
+last_updated: "2014-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2008.
 
@@ -393,9 +393,9 @@ Vigésimo Cuarto Distrito: Cacahoatán (cabecera), que comprende los municipios 
 
 Para efectos de la elección de Diputados por el principio de representación proporcional, se constituirán cuatro circunscripciones plurinominales que comprenderán los veinticuatro distritos de mayoría relativa en que se divide el territorio del Estado. Las cuatro circunscripciones plurinominales no tendrán residencia específica, con independencia de los distritos que las integren, y estarán conformadas, de la siguiente forma:
 
-Circunscripción Distritos que la Integran Municipios que la Integran
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2011)</small>
+Circunscripción Distritos que la Integran Municipios que la Integran
 
 Uno I Tuxtla Oriente Tuxtla Gutiérrez, Chiapa de
 
@@ -403,41 +403,35 @@ II Tuxtla Poniente Corzo, Acala, Ixtapa,
 
 III Chiapa de Corzo Suchiapa, Soyaló, Emiliano
 
-IV Venustiano Carranza Zapata, Venustiano
+XIV Cintalapa Zapata,
 
-V San Cristóbal de las Carranza, Nicolás Ruiz,
+XXIII Villaflores Cintalpa, Jiquipilas,
 
-Casas Totolapa, San Lucas,
+Ocozocoautla de Espinoza,
 
-Chiapilla, Amatenango del
+Berriozabal, Belisario Domínguez,
 
-Valle, Socoltenango, San
+Villaflores, Ángel Albino Corzo,
 
-Cristóbal de las Casas,
+La Concordia, Villa Corzo,
 
-Teopisca,
+Monte Cristo de Guerrero y
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2011)</small>
+El Parral
 
-Dos XIV Cintalapa Cintalapa, Jiquipilas,
+Dos XV Tonalá Tonalá, Pijijiápan, Arriaga,
 
-XV Tonalá Ocozocoautla, Berriozábal,
+XVI Huixtla Mapastepec, Huixtla, Mazatán,
 
-XVI Huixtla Belisario Domínguez,
+XVII Motozintla Huehuetán, Tuzantán,
 
-XVII Motozintla Tonalá, Pijijiapan, Arriaga,
+XVIII Tapachula Norte Villa Comaltitlan, Escuintla,
 
-XVIII Tapachula Norte Mapastepec, Huixtla,
+XIX Tapachula Sur Acapetahua, Acacoyahua,
 
-XIX Tapachula Sur Mazatán, Huehuetán,
+XXIV Cacahoatán Motozintla, El Porvenir,
 
-XXII (SIC) Villa Flores Tuzantán, Villa Comaltitlán,
-
-XXIV Cacahoatán Escuintla, Acapetahua,
-
-Acacoyagua, Motozintla, El
-
-Porvenir, La Grandeza,
+La Grandeza,
 
 Siltepec, Mazapa de Madero,
 
@@ -449,21 +443,13 @@ Bella Vista, Chicomuselo,
 
 Frontera Comalapa,
 
-Tapachula, Villa Flores, Villa
+Tapachula, Cacahoatán,
 
-Corzo, Ángel Albino Corzo,
+Tuxtla Chico, Unión Juárez,
 
-La Concordia, Montecristo de
+Metapa, Frontera Hidalgo
 
-Guerrero, El Parral,
-
-Cacahoatán, Tuxtla Chico,
-
-Unión Juárez, Metapa,
-
-Frontera Hidalgo y Suchiate.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2011)</small>
+y Suchiate
 
 Tres VII Ocosingo Ocosingo, Altamirano, Sitalá,
 
@@ -471,23 +457,11 @@ VIII Yajalón Chilón, Benemérito de las
 
 IX Palenque Américas, Marqués de
 
-X Bochil Comillas, Yajalón, Sabanilla,
+XII Pichucalco Comillas, Yajalón, Sabanilla,
 
-XI Pueblo Nuevo Tila, Tumbalá, Palenque, La
+XIII Copainalá Tila, Tumbalá, Palenque, la XX Las Margaritas Libertad, Catazajá,
 
-Solistahuacán Libertad, Catazajá, Salto de
-
-XII Pichucalco Agua, Bochil, Simojovel, El
-
-VI Comitán Bosque, Huitiupán, San
-
-XIII Copainala Andrés Duraznal, Pueblo
-
-Nuevo Solistahuacán,
-
-Tapilula, Jitotol, Pantepec,
-
-Rayón, Tapalapa, Pichucalco,
+Salto de Agua, Pichucalco,
 
 Reforma, Juárez,
 
@@ -499,35 +473,59 @@ Ostuacán, Ixhuatán,
 
 Chapultenango, Amatán,
 
-Comitán de Domínguez, la
-
-Trinitaria, Tzimol, Las Rosas,
-
 Copainalá, Coapilla,
 
 Tecpatán, Chicoasen,
 
 Osumacinta, Ocotepec,
 
-Francisco León, San Fernando
+Francisco León, San Fernando,
 
-y Mezcalapa.
+Mezcalapa, Las Margaritas,
 
-Cuatro XX Las Margaritas Las Margaritas, La
+La Independencia y
 
-XXI Tenejapa Independencia, Maravilla
+Maravilla Tenejapa
 
-XXII Chamula Tenejapa, Tenejapa, San
+Cuatro IV Venustiano Carranza Venustiano Carranza,
 
-Juan Cancuc, Chanal,
+V San Cristobal de Nicolás Ruiz, Totolapa,
 
-Huixtán, Oxchuc, Chamula,
+las Casas San Lucas, Chiapilla,
 
-Chalchihuitán, Chenalhó,
+VI Comitán Amatenango del Valle,
 
-Larrainzar, Mitontic, Pantelhó,
+X Bochil Socoltenango,
 
-Zinacantan, Aldama y
+XI Pueblo Nuevo San Cristóbal de Las Casas,
+
+Solistahuacan Teopisca, Comitán de
+
+XXI Tenejapa Domínguez, La Trinitaria,
+
+XXII Chamula Tzimol, Las Rosas, Bochil,
+
+Simojovel, El Bosque,
+
+Huitiupan, San Andrés
+
+Duraznal, Pueblo Nuevo
+
+Solistahucán, Tapilula,
+
+Jitotol, Pantepec, Rayón,
+
+Tapalapa, Tenejapa,
+
+San Juan Cancuc,
+
+Chanal, Huixtán, Oxchuc,
+
+Chamula, Chalchihuitán,
+
+Chenalhó, Larrainzar, Mitontic,
+
+Pantelhó, Zinacantán, Aldama,
 
 Santiago el Pinar.
 
@@ -567,7 +565,9 @@ Para tener derecho a participar en la asignación de Diputados de representació
 
 I. Acreditar, bajo cualquier modalidad, la postulación de candidatos de mayoría relativa, en por lo menos, la mitad de los distritos electorales.
 
-II. Haber obtenido, al menos, el 2% de la votación valida emitida en el Estado.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+II. Haber obtenido, al menos, el 3% de la votación válida emitida en el Estado.
 
 Cada partido político deberá registrar una lista de cuatro fórmulas de candidatos propietarios y suplentes por cada circunscripción plurinominal.
 
@@ -689,9 +689,9 @@ II. Los Ayuntamientos se integrarán en términos del artículo 59 de la Constit
 
 III. Cada partido político deberá postular en planilla la totalidad de candidatos para los cargos a elegir. El candidato a Presidente Municipal ocupará el primer lugar en la lista de la planilla; el candidato a Síndico ocupará el segundo lugar en dicha lista, y los restantes candidatos a Regidor ocuparán los siguientes lugares hasta completar el número que corresponda de Regidores por el principio de mayoría relativa;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-IV. Para tener derecho a participar en la asignación de Regidores según el principio de representación proporcional, se requiere que los partidos políticos obtengan al menos el 2% de la votación válida emitida en el municipio de que se trate;
+IV. Para tener derecho a participar en la asignación de Regidores según el principio de representación proporcional, se requiere que los partidos políticos obtengan al menos el 3% de la votación válida emitida en el municipio de que se trate;
 
 V. No podrá participar de la asignación de regidores por el principio de representación proporcional, el partido político que hubiere alcanzado la mayoría de votos en la elección municipal de que se trate;
 
@@ -699,11 +699,11 @@ VI. Si ningún partido minoritario obtiene el porcentaje de votación requerido 
 
 VII. Sí sólo un partido obtiene el mínimo de votación requerido para tener derecho a la asignación de regidores de representación proporcional, se asignará a dicho partido la mitad de los regidores de representación proporcional que correspondan de acuerdo con el artículo 58 de la Constitución Particular.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### Artículo 38.
 
-Tratándose de coaliciones formadas para la elección de Ayuntamientos, deberán obtener a su favor, en el municipio correspondiente, al menos 2% de la votación válida emitida.
+Tratándose de coaliciones formadas para la elección de Ayuntamientos, deberán obtener a su favor, en el municipio correspondiente, al menos el 3% de la votación válida emitida.
 
 ###### Artículo 39.
 
@@ -815,7 +815,9 @@ VI. Promover, en los términos que determinen sus documentos básicos, una mayor
 
 Para poder participar en las elecciones, los partidos políticos locales o nacionales deberán haber obtenido el registro o acreditación en su caso, conforme a lo dispuesto en el presente Código.
 
-Si un partido político nacional pierde su registro con este carácter, pero en la última elección de Diputados y Ayuntamientos del Estado, hubiere obtenido por lo menos el 2% de la votación válida emitida y hubiere postulado candidatos propios en al menos la mitad de los municipios y distritos, podrá optar por el registro como partido político local, debiendo cumplir con todos los requisitos para la constitución de partido político local, con excepción de lo señalado en el artículo 54 de este Código.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+Si un partido político nacional pierde su registro con este carácter, pero en la última elección de Diputados y Ayuntamientos del Estado, hubiere obtenido por lo menos el 3% de la votación válida emitida y hubiere postulado candidatos propios en al menos la mitad de los municipios y distritos, podrá optar por el registro como partido político local, debiendo cumplir con todos los requisitos para la constitución de partido político local, con excepción de lo señalado en el artículo 54 de este Código.
 
 ## Título Segundo. Constitución, registro, derechos y obligaciones de los partidos políticos
 
@@ -831,9 +833,13 @@ Toda asociación política estatal registrada ante el Instituto que pretenda con
 
 Para que una asociación política estatal pueda obtener su registro como partido político estatal en los términos de este Código, es necesario que satisfaga los siguientes requisitos:
 
-I. Haber sido asociación política estatal registrada, al menos, durante los tres años anteriores a la fecha en que se presente la solicitud a la que se refiere el artículo 55 de este Código;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-II. Contar con un número de afiliados, en cuando menos la tercera parte de los municipios del Estado, igual o mayor al 3% del padrón electoral del Estado;
+I. Ser Asociación Política Estatal registrada a la fecha en que se presente la solicitud a la que se refiere el artículo 55 de este Código;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+II. Contar con un número de afiliados, en cuando menos el 20% de los municipios del Estado, igual o mayor al 1.5% del listado nominal de electores del Estado;
 
 III. Haber celebrado en cada uno de los municipios mencionados una Asamblea, en presencia de fedatario público o de quien haga sus veces por ministerio de Ley o de un juez municipal o de primera instancia o de un funcionario acreditado por el propio Instituto, los que para tal efecto certificarán que a la Asamblea concurrieron sus afiliados y que aprobaron la declaración de principios, programas de acción y estatutos, y que suscribieron el documento de manifestación formal de afiliación;
 
@@ -851,13 +857,19 @@ V. Que con las personas mencionadas en la fracción III quedaron formadas las li
 
 VI. Que en la realización de la asamblea de que se trate, no existió intervención de organizaciones gremiales o de otras con objeto social diferente al de constituir el partido político.
 
-El costo de las certificaciones requeridas será con cargo al presupuesto del Instituto. Los funcionarios autorizados para expedirlas están obligados a realizar las actuaciones correspondientes.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+El costo de las certificaciones requeridas será con cargo a los interesados. Los funcionarios autorizados para expedirlas están obligados a realizar las actuaciones correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### Artículo 55.
 
-Para constituir un partido político estatal, la asociación política interesada notificará ese propósito al Instituto en el mes de enero del año siguiente al de la elección de Gobernador. A partir de la notificación, la organización interesada deberá informar mensualmente al propio Instituto del origen y destino de los recursos que obtenga para el desarrollo de sus actividades tendentes a la obtención del registro legal, así como también realizará las acciones pertinentes que demuestren el cumplimiento de los requisitos señalados en el artículo anterior.
+Para constituir un partido político estatal, la asociación política interesada notificará ese propósito al Instituto en el mes de Mayo del año anterior al de la elección. A partir de la notificación, la organización interesada deberá informar mensualmente al propio Instituto del origen y destino de los recursos que obtenga para el desarrollo de sus actividades tendentes a la obtención del registro legal, así como también realizará las acciones pertinentes que demuestren el cumplimiento de los requisitos señalados en el artículo anterior.
 
-Para obtener su registro como partido político estatal, las organizaciones interesadas deberán haber satisfecho los requisitos a que se refiere este Código, presentando para tal efecto durante el mes de septiembre del año anterior al de la elección, ante el Instituto la solicitud de registro respectiva, acompañándola de los siguientes documentos:
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+Para obtener su registro como partido político estatal, las organizaciones interesadas deberán haber satisfecho los requisitos a que se refiere este Código, presentando para tal efecto durante el mes de agosto del año anterior al de la elección, ante el Instituto la solicitud de registro respectiva, acompañándola de los siguientes documentos:
 
 I. La declaración de principios, el programa de acción y los estatutos;
 
@@ -869,15 +881,21 @@ III. Las actas de las asambleas celebradas en los Municipios y la de la Asamblea
 
 El Consejo General, al conocer la solicitud de la asociación política que pretenda su registro como partido político estatal, integrará una comisión de tres Consejeros Electorales para examinar los documentos a que se refiere el artículo anterior a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en este Código. La comisión a que se refiere este párrafo, formulará el proyecto de dictamen de registro.
 
-El Consejo General por conducto de la comisión a que se refiere el párrafo anterior, verificará la autenticidad de las afiliaciones al nuevo partido, de tal forma que se verifique que cuando menos el 3% corresponda al padrón electoral actualizado a la fecha de la solicitud de que se trate, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad, como mínimo, dentro del partido político de nueva creación.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
-El Consejo, con base en el proyecto de dictamen de la comisión integrada y dentro del plazo de sesenta días contados a partir de que tenga conocimiento de la presentación de la solicitud de registro, resolverá lo conducente.
+El Consejo General, por conducto de la comisión a que se refiere el párrafo anterior, verificará la autenticidad de las afiliaciones al nuevo partido, de tal forma que se verifique que cuando menos el 1.5% corresponda al listado nominal de electores actualizado a la fecha de la solicitud de que se trate, cerciorándose de que dichas afiliaciones cuenten con un mes de antigüedad, como mínimo, dentro del partido político de nueva creación.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+El Consejo, con base en el proyecto de dictamen de la comisión integrada y dentro del plazo de treinta días contados a partir de que tenga conocimiento de la presentación de la solicitud de registro, resolverá lo conducente.
 
 ###### Artículo 57.
 
 Cuando proceda, el Instituto expedirá certificado haciendo constar el registro respectivo. En caso de negativa, fundará y motivará la resolución comunicándola a los interesados. Toda resolución deberá publicarse en el Periódico Oficial del Estado.
 
-Cuando el registro o la acreditación de los partidos políticos hubiese procedido, surtirá sus efectos a partir del inicio del proceso electoral inmediato siguiente.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+Cuando el registro o la acreditación de los partidos políticos hubiese procedido, surtirá sus efectos a partir del inicio del proceso electoral inmediato.
 
 ###### Artículo 58.
 
@@ -931,15 +949,17 @@ I. Una Asamblea Estatal;
 
 II. Un Comité Ejecutivo que tendrá la representación del partido en todo el Estado, con facultades de supervisión y en su caso, de autorización en las decisiones de las demás instancias partidistas;
 
-III. Comités Municipales constituidos por lo menos en un tercio de los municipios que integran el Estado; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+III. Comités Municipales constituidos por lo menos en un 20% de los municipios que integran el Estado; y
 
 IV. Un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos ordinarios, de precampaña y campaña a que se refiere este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### Artículo 62.
 
-Al partido político que no obtenga por lo menos el 2% de la votación válida emitida en alguna de las elecciones ordinarias de Gobernador o Diputados locales en que participe, le será cancelado su registro o acreditación ante el Instituto y perderá todos los derechos y prerrogativas que establece este Código.
+Al partido político que no obtenga por lo menos el 3% de la votación válida emitida en alguna de las elecciones ordinarias de Gobernador o Diputados locales en que participe, le será cancelado su registro o acreditación ante el Instituto y perderá todos los derechos y prerrogativas que establece este Código.
 
 La pérdida de registro o acreditación a que se refiere el párrafo anterior, no tendrá efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones estatales, distritales o municipales.
 
@@ -1683,7 +1703,9 @@ Para que el partido político que resulte de la fusión pueda participar en un p
 
 Los partidos políticos perderán su registro o acreditación ante el Instituto por las siguientes causas:
 
-I. No haber obtenido cuando menos el 2% de la votación válida emitida en el Estado en cualquiera de las elecciones ordinarias en que participe;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+
+I. No haber obtenido cuando menos el 3% de la votación válida emitida en el Estado en cualquiera de las elecciones ordinarias en que participe;
 
 II. Haber dejado de reunir los requisitos necesarios para obtener su registro o acreditación;
 
@@ -7106,3 +7128,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- El Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá aprobar las adecuaciones que al efecto requiera su Reglamento Interior, para su publicación correspondiente.
+
+P.O. 11 DE ABRIL DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
