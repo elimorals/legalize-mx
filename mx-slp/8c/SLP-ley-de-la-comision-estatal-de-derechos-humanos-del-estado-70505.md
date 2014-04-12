@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2013-11-14"
+last_updated: "2014-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -133,7 +133,9 @@ I. Contar con un Consejo, integrado por ciudadanas y ciudadanos, de acuerdo a lo
 
 II. Invitar a participar a organizaciones civiles y sociales cuyas labores estén relacionadas con la materia, durante la elaboración del diagnóstico sobre la situación de los Derechos Humanos en el Estado;
 
-III. Invitar a las autoridades tradicionales, los representantes de organizaciones civiles y sociales, y de movimientos locales a los informes anuales. Estos informes deberán celebrarse cada año en distinto municipio del Estado, procurando la participación de la población local, y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2014)</small>
+
+III. Invitar al informe anual a las autoridades tradicionales, a los representantes de organizaciones civiles y sociales, así como de movimientos locales. Este informe deberá celebrarse de conformidad a lo establecido en la fracción IX del artículo 33 de la presente Ley; además, la Comisión lo remitirá a los ayuntamientos del Estado, y
 
 IV. Permitir a la sociedad en general, el acceso permanente y abierto a la información pública relacionada con la administración y gestión de la Comisión, de acuerdo con la ley de la materia.
 
@@ -509,7 +511,13 @@ VII. Distribuir y delegar sus atribuciones a los servidores públicos de la Comi
 
 VIII. Elaborar políticas públicas, proyectos y programas, y opiniones sobre la legislación vigente bajo el principio de perspectiva de género;
 
-IX. Presentar cada año, ante los tres poderes del Estado y la sociedad, los organismos constitucionales autónomos y población, un Informe sobre las actividades de la Comisión, previamente aprobado por el Consejo;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2014)</small>
+
+IX. Rendir, ante el Honorable Congreso del Estado, por conducto de la Comisión de Derechos Humanos, Equidad y Género, en reunión pública de comisión, un informe por escrito y en forma personal, dentro de los primeros dos meses del año, el cual será remitido a los tres poderes del Estado, los organismos constitucionales autónomos y, difundido a la población en general.
+
+El informe deberá contener como mínimo lo siguiente: indicadores acerca de la situación de las víctimas de violaciones de derechos humanos, incluyendo un reporte sobre los patrones que encuentre; y un diagnóstico sobre violaciones a los derechos económicos, sociales, culturales y ambientales que haya encontrado.
+
+En todo tiempo la Comisión garantizara la difusión del informe;
 
 X. Celebrar todo tipo de convenios con instituciones públicas y privadas con el objeto de cumplir los fines de la Comisión;
 
@@ -1616,6 +1624,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 14 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
