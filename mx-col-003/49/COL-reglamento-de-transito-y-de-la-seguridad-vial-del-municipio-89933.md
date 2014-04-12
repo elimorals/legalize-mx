@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transito-y-de-la-seguridad-vial-del-municipio-899
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-27"
-last_updated: "2013-01-26"
+last_updated: "2014-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
 
 Reglamento publicado en el Suplemento No. 2 al Número 52 del Periódico Oficial del Estado de Colima, el sábado 27 de octubre de 2012.
 
@@ -2197,6 +2197,62 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 143.- Dejar vehículo descompuesto o detenido en la vía pública sin señalamiento preventivo.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+144.- Chocar contra vehículo o algún objeto fijo
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+145.- Circular con velocidad inferior a la permitida en la zona urbana
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+146.- Circular el conductor sin el cinturón de seguridad puesto
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+147.- Colocar objetos en la vía pública para apartar lugar
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+148.- Emitir los vehículos en forma notoria humo
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+149.- Estacionarse en batería en lugares no autorizados
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+150.- Estacionarse antes de los 5m. de las esquinas
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+151.- Estacionarse en curva o acotamiento
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+152.- Falta de anteojos cuando así lo indique la licencia
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+153.- No portar tarjeta de circulación y/o calcomanía vigente
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+154.- Cualquier otra que no se contenga en el presente reglamento y que evidentemente constituya un riesgo para la seguridad vial
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+155.- Obstruir zona peatonal al hacer alto
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+156.- Prohibido viajar tres o más personas en motocicleta
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+157.- Subir o bajar pasaje en lugares no autorizados
+
 ###### ARTÍCULO 242.
 
 Las infracciones que señala este reglamento causarán multa de acuerdo al tabulador que apruebe el Ayuntamiento. Para la aplicación de las multas antes mencionadas, el Director General por conducto del Jefe del Departamento (sic) Normas e Infracciones o del Juez Calificador, en su caso, se encargará de imponer las sanciones que correspondan de acuerdo a los siguientes factores:
@@ -2323,9 +2379,11 @@ IX. Con posterioridad al levantamiento de la boleta de infracción se identifica
 
 X. Una vez conocido quien es el propietario del vehículo se le notificará en el domicilio registrado ante las autoridades de la Dirección General de Transporte y de la Seguridad Vial, entregándole el original de la boleta, para que en un plazo no mayor a 15 días manifieste lo que a su derecho convenga ante la Dirección General, la Notificación se hará en los términos del procedimiento administrativo que establece el Código Fiscal Municipal.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 249.
 
-Las infracciones a este reglamento no previstas en los códigos del artículo 239, se sancionarán con multas por cinco unidades como mínimo y diez días como máximo. Para los ciclistas las multas serán de una unidad mínimo y dos como máximo.
+Las infracciones a este reglamento no previstas en los códigos del artículo 241, se sancionarán con multas por cinco unidades como mínimo y diez días como máximo. Para los ciclistas las multas serán de una unidad mínimo y dos como máximo.
 
 ### CAPÍTULO VIGÉSIMO. DEL RECURSO DE RECONSIDERACIÓN
 
@@ -2444,3 +2502,9 @@ P.O. 26 DE ENERO DE 2013.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA Y MODIFICACIÓN A LOS ARTÍCULOS 92, 241, 247 Y 248, Y ADICIÓN DEL TABULADOR DE SANCIONES EN EL TRANSITORIO CUARTO DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA”.]
 
 PRIMERO.- La presente reforma, modificación y adición iniciará su vigencia al día siguiente de su Publicación en el Periódico Oficial de "El Estado de Colima".
+
+P.O. 12 DE ABRIL DE 2014.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ARTÍCULO 249 Y ADICIÓN DEL TABULADOR DE SANCIONES DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA”.]
+
+PRIMERO (SIC).- La presente reforma, modificación y adición iniciará su vigencia al día siguiente de su Publicación en el Periódico Oficial de "El Estado de Colima".
