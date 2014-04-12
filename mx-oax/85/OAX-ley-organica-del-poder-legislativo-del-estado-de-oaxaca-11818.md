@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2013-12-04"
+last_updated: "2014-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -71,11 +71,11 @@ Esta Ley, sus reformas y adiciones, y los Reglamentos que de ella se deriven, no
 
 El Congreso del Estado, tendrá su residencia oficial en la Ciudad de Oaxaca de Juárez, celebrará sus sesiones en el edificio sede del Poder Legislativo y no podrá trasladarse a otro lugar, sin que así lo acuerden las tres cuartas partes de los Diputados presentes.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 7º.
 
-El Congreso del Estado, tendrá cada año dos periodos ordinarios de sesiones; el primero comenzará el quince de noviembre y terminará el treinta de abril; y el segundo dará principio el primero de junio y concluirá el treinta de septiembre.
+El Congreso del Estado, tendrá cada año dos periodos ordinarios de sesiones; el primero comenzará el quince de noviembre y terminará el quince de abril; y el segundo dará principio el primero de julio y concluirá el treinta de septiembre.
 
 ###### ARTICULO 8º.
 
@@ -1056,3 +1056,7 @@ PRIMERO.- El presente Decreto, entrará en vigor el día 13 de noviembre de 2013
 P.O. 4 DE DICIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor día el (sic) primero de mayo del presente año, publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
