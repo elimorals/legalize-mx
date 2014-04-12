@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2013-12-21"
+last_updated: "2014-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -647,7 +647,9 @@ I. Un Presidente del Consejo, que será el Presidente Municipal;
 
 II. Dos miembros del Cabildo designados por el mismo;
 
-III. Un Secretario Técnico del Consejo, que será el Coordinador de Desarrollo Social Municipal o quien el Presidente designe para estas funciones;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2014)</small>
+
+III. Un Secretario Técnico del Consejo, que será el Coordinador de Desarrollo Social Municipal, o quien el presidente designe para estas funciones; quien deberá contar con carrera técnica o licenciatura en las áreas, rural, social o económico-administrativa, y con experiencia en trabajo de campo;
 
 IV. Dos Vocales de Control y Vigilancia, que serán electos por el Pleno del Consejo de entre los Representantes Sociales Comunitarios y no deberán ostentar ningún cargo público;
 
@@ -950,3 +952,9 @@ P.O. 21 DE DICIEMBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
