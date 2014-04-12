@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2013-12-27"
+last_updated: "2014-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DEL 12 DE ABRIL DE 2014, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL PRIMERO DE MAYO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1133,11 +1135,11 @@ Los diputados electos que cuenten con su constancia de mayoría y validez expedi
 
 Para tal efecto, deberán presentar dentro de los días siete a nueve de noviembre del año de la elección, ante el Oficial Mayor del Congreso del Estado, la constancia o resolución de referencia para su registro, toma de razón y entrega de la credencial de acceso a la sesión de instalación y toma de protesta, que tendrá verificativo el día trece de noviembre del año de la elección, en cuya fecha se hará la elección de los integrantes de la Mesa Directiva en los términos de la Ley Orgánica del Poder Legislativo y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 42.
 
-La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día quince de noviembre y concluirá el treinta de abril, y el segundo período, dará principio el primero de junio y concluirá el treinta de septiembre.
+La Legislatura tendrá periodos ordinarios de sesiones dos veces al año; el primer periodo de sesiones dará principio el día quince de noviembre y concluirá el quince de abril, y el segundo periodo, dará principio el primero de julio y concluirá el treinta de septiembre.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -4086,3 +4088,7 @@ P.O. 27 DE DICIEMBRE DE 2013.
 PRIMERO.- EI presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se deroga toda disposición que se oponga a la presente reforma.
+
+P.O. 12 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor día (sic) el primero de mayo del presente año, publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
