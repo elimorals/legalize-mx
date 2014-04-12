@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-04-05"
+last_updated: "2014-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -201,7 +201,7 @@ Los particulares podrán impartir educación en todos sus tipos y modalidades. E
 
 La Universidad de San Luis Potosí es autónoma en todo lo que respecta a su régimen interior. Realizará sus fines de educar, investigar y difundir la cultura con base en la libertad de cátedra e investigación y en el libre examen y discusión de las ideas, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en su ley orgánica. El Estado, en la medida de sus posibilidades presupuestales, la dotará con un subsidio anual.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2001)</small>
 
 ###### ARTÍCULO 12.
 
@@ -211,13 +211,17 @@ La Familia constituye la base fundamental de la sociedad. La familia, las person
 
 El Estado protegerá y promoverá el derecho fundamental a la salud de sus habitantes. La ley establecerá programas y estrategias basadas en la educación para la salud y en la participación comunitaria.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2014)</small>
 
-El Estado en la medida de sus posibilidades presupuestales, proveerá a la alimentación y salud de los niños y las niñas, las personas con discapacidad y de los senectos en estado de abandono.
+El Estado en la medida de sus posibilidades presupuestales, proveerá la salud de los niños y las niñas, las personas con discapacidad y los adultos mayores.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2014)</small>
 
-Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. Las autoridades proveerán lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos, y otorgarán facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de salud, educación y sano esparcimiento para su desarrollo integral. Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. Las autoridades proveerán lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos, y otorgarán facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+El Estado garantizará el acceso de toda persona a una alimentación suficiente, nutricionalmente adecuada, inocua y culturalmente aceptable para llevar una vida activa y saludable. A fin de evitar las enfermedades de origen alimentario, el Estado deberá implementar las medidas que propicien la adquisición de buenos hábitos alimenticios entre la población, y fomentará la producción y el consumo de alimentos con alto valor nutricional.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -553,7 +557,7 @@ Los ciudadanos de la Entidad podrán solicitar al Consejo Estatal Electoral y de
 
 La ley establecerá las materias, requisitos, alcances, términos y procedimiento a que se sujetará el referéndum. El Consejo Estatal Electoral y de Participación Ciudadana resolverá, con base en la trascendencia de la materia y en el cumplimiento de los requisitos que establezca la ley, sobre la procedencia del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 39.
 
@@ -719,7 +723,7 @@ Cuando concluido un período ordinario de sesiones el Congreso esté conociendo 
 
 La Ley Orgánica del Congreso señalará las formalidades con que deban celebrarse la apertura y clausura de las sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 53.
 
@@ -745,7 +749,7 @@ Las cuentas públicas municipales anuales, previa su aprobación por los ayuntam
 
 Los demás entes auditables deberán entregar al Congreso sus respectivas cuentas públicas, a más tardar el quince de febrero del año siguiente a su ejercicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2006)</small>
 
@@ -821,7 +825,7 @@ X.- Elaborar su respectivo presupuesto de egresos; el cual deberá incluir los t
 
 XI.- Fijar los ingresos y egresos del Estado con base en los presupuestos anuales que el Ejecutivo deberá presentar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2006)</small>
 
@@ -843,7 +847,7 @@ XVIII.- Aprobar el Plan Estatal de Desarrollo;
 
 XIX.- Fijar las contribuciones que deban recibir los municipios; establecer anualmente las bases, montos y plazos para la entrega de las participaciones federales que les corresponden y aprobar sus leyes de ingresos, cuotas y tarifas de los servicios públicos, conforme lo establezcan las leyes respectivas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 XX.- (DEROGADA, P.O. 18 DE MAYO DE 2006)
 
@@ -903,7 +907,7 @@ XLI.- Conceder premios y reconocimientos por servicios eminentes e importantes p
 
 XLII.- Trasladar, a solicitud del Ejecutivo, la residencia de los Poderes del Estado cuando sea necesario por circunstancias extraordinarias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2006)</small>
 
@@ -1149,7 +1153,7 @@ IV.- Concurrir a la apertura y clausura de los períodos ordinarios y extraordin
 
 V.- Presentar ante el Congreso del Estado, durante la segunda quincena de septiembre de cada año, un informe por escrito en el que manifieste el estado que guarda la administración pública y comparecer posteriormente, cuando así lo acuerde con el Poder Legislativo, a fin de responder a las observaciones que los Diputados le presenten sobre el particular;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2006)</small>
 
@@ -1665,7 +1669,7 @@ e).- Las disposiciones aplicables en aquellos municipios que no cuenten con los 
 
 La Legislatura estatal emitirá las normas que establezcan los procedimientos, mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) anteriores;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2000)</small>
 
 III.- Los municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
@@ -1809,7 +1813,7 @@ I.- Ser ciudadano potosino en ejercicio de sus derechos;
 
 II.- Ser originario del municipio y con un año, por lo menos, de residencia efectiva en el mismo, inmediata anterior a la fecha de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de dos años inmediata anterior al día de la elección o designación; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2008)</small>
 
 III.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión.
 
@@ -1867,7 +1871,7 @@ II.- No prestar los servicios públicos que tiene a su cargo o prestarlos en for
 
 III.- Cualquier otra consignada en las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 122.
 
@@ -1925,7 +1929,7 @@ La ley establecerá su organización, funcionamiento, el procedimiento y los rec
 
 Los Magistrados deberán reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado en la misma forma y términos que establece el artículo 96 de la presente Constitución. Durarán en su cargo seis años, durante los cuales podrán ser separados libremente del mismo por el Congreso del Estado a propuesta del Ejecutivo. Si son ratificados para otro período igual, sólo podrán ser privados de sus cargos por causa grave y previo juicio de responsabilidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2004)</small>
 
 TÍTULO DECIMOSEGUNDO
 
@@ -1963,7 +1967,7 @@ III.- Se aplicarán sanciones administrativas a los servidores públicos por los
 
 Se concede acción popular para denunciar los supuestos anteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2006)</small>
 
@@ -1987,7 +1991,7 @@ En los casos a que se refiere el segundo párrafo del Artículo 110 de la Consti
 
 Las declaraciones y resoluciones del Congreso no son recurribles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 127.
 
@@ -2103,7 +2107,7 @@ Todo funcionario, antes de tomar posesión de su empleo, hará la protesta de gu
 
 Las adquisiciones, arrendamientos y enajenaciones de toda clase de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra se llevarán a cabo y adjudicarán, de manera que se garanticen al Estado y sus municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, según las leyes respectivas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2006)</small>
 
@@ -2171,15 +2175,15 @@ El Srio. General de Gobierno,
 
 JOSE GONZALEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 26 DE MARZO DE 1923.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 18 DE ABRIL DE 1937.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 11 DE MAYO DE 1943.
 
@@ -2201,7 +2205,7 @@ TERCERO:- Quedan derogadas todas las leyes o disposiciones que se opongan a la p
 
 P.O. 19 DE SEPTIEMBRE DE 1948.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 24 DE DICIEMBRE DE 1950.
 
@@ -2209,11 +2213,11 @@ UNICO.- Estas reformas entrarán en vigor después de su publicación en el Peri
 
 P.O. 9 DE AGOSTO DE 1953.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 13 DE NOVIEMBRE DE 1958.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 6 DE JUNIO DE 1968.
 
@@ -2225,7 +2229,7 @@ UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publica
 
 P.O. 21 DE ENERO DE 1973.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 19 DE ABRIL DE 1973.
 
@@ -2515,7 +2519,7 @@ OCTAVO. Instalado el Consejo de la Judicatura, se coordinará con el Supremo Tri
 
 P.O. 18 DE MAYO DE 2006.
 
-DECRETO No. 496, POR EL QUE SE REFORMA EL ARTICULO 17 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI.
+DECRETO No. 496, POR EL QUE SE REFORMA EL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Una vez ratificado por los ayuntamientos de la Entidad conforme lo establecido en el artículo 138 de la Constitución Local, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2523,7 +2527,7 @@ SEGUNDO. Se abrogan todas las disposiciones que se opongan a este decreto.
 
 P.O. 18 DE MAYO DE 2006.
 
-DECRETO No. 497, POR EL QUE SE REFORMAN LOS ARTICULOS 54; 57 FRACCIONES XII Y XLIII; 80 FRACCION VI; 126 PRIMER PARRAFO; 127 PRIMER PARRAFO; Y 135 SEGUNDO PARRAFO. Y SE DEROGA LA FRACCION XX DEL ARTICULO 57, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI.
+DECRETO No. 497, POR EL QUE SE REFORMAN LOS ARTÍCULOS 54; 57 FRACCIONES XII Y XLIII; 80 FRACCIÓN VI; 126 PRIMER PÁRRAFO; 127 PRIMER PÁRRAFO; Y 135 SEGUNDO PÁRRAFO. Y SE DEROGA LA FRACCIÓN XX DEL ARTÍCULO 57, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Una vez ratificado por los ayuntamientos de la Entidad conforme lo establecido en el artículo 138 de la Constitución Local, y previa publicación en el Periódico Oficial de Estado, el presente Decreto entrará en vigor el día uno de enero del año dos mil siete.
 
@@ -2638,3 +2642,9 @@ P.O. 5 DE ABRIL DE 2014.
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento establecido en el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2014.
+
+PRIMERO. Cumplido lo dispuesto por el artículo 138 de la propia Constitución Local, este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
