@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2013-12-21"
+last_updated: "2014-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -2333,11 +2333,11 @@ Cuando las lesiones, sean inferidas a un menor o a quien no tenga capacidad para
 
 Cuando el lesionado sea ascendiente consanguíneo en línea recta o adoptante del autor y éste haya obrado con conocimiento del parentesco, las sanciones se aumentarán en los términos del Artículo 175.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2014)</small>
 
-###### ARTICULO 178.
+###### ARTÍCULO 178.
 
-Igual agravación se aplicará cuando el ofendido sea ascendiente consanguíneo en línea recta, adoptado mayor de edad o hermano, y el autor tenga conooimiento (sic) de esa relación, o quien fue o es cónyuge, concubina, concubinario o pareja del autor de las lesiones. Requiriéndose la querella de parte ofendida.
+Igual agravación se aplicará cuando el ofendido sea ascendiente consanguíneo en línea recta, adoptado mayor de edad o hermano, y el autor tenga conocimiento de esa relación, o quien fue o es cónyuge, concubina, concubinario o pareja del autor de las lesiones.
 
 ###### ARTICULO 179.
 
@@ -4186,3 +4186,7 @@ P.O. 23 DE NOVIEMBRE DE 2013.
 P.O. 21 DE DICIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
