@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2013-10-26"
+last_updated: "2014-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -381,7 +381,7 @@ II. Colocar en un lugar visible dentro de su establecimiento un letrero con la s
 
 ARTICULO 12 BIS 2.- Los Ayuntamientos conjuntamente con las autoridades educativas y de salud en el Estado llevarán a cabo una campaña de orientación para evitar que en los trabajos escolares se empleen o se le haga algún uso indebido de alguna de las substancias señaladas en el artículo 12 Bis de esta Ley.
 
-De igual forma, los inspectores municipales promoverán y llevarán a cabo campañas permanentes de información y orientación al público en general, para la prevención de daños a la salud provocadas por el consumo de subtancias inhalantes, a través de foros de información y publicaciones periódicas al respecto.
+De igual forma, los inspectores municipales promoverán y llevarán a cabo campañas permanentes de información y orientación al público en general, para la prevención de daños a la salud provocadas por el consumo de substancias inhalantes, a través de foros de información y publicaciones periódicas al respecto.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1217,13 +1217,23 @@ IV.- Entregar los animales a sus propietarios, previo diagnóstico negativo a ra
 
 V.- Vacunar a los animales capturados y reclamados por sus propietarios así como de aquéllos que para tal fin sean llevados voluntariamente por sus propietarios. En ambos casos los costos erogados serán cubiertos por sus propietarios;
 
-VI.- Practicar en coordinación con la autoridad zoosanitaria competente, la necropsia de animales sospechosos de padecer rabia, obtener los diagnósticos de rabia por medio de análisis de laboratorio e informar los resultados de manera inmediata a la Secretaría; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2014)</small>
 
-VII.- Canalizar a las personas agredidas para su tratamiento oportuno.
+VI.- Practicar en coordinación con la autoridad zoosanitaria competente, la necropsia de animales sospechosos de padecer rabia, obtener los diagnósticos de rabia por medio de análisis de laboratorio e informar los resultados de manera inmediata a la Secretaría;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2014)</small>
+
+VII.- Canalizar a las personas agredidas para su tratamiento oportuno; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2014)</small>
+
+VIII.- Realizar visitas e inspecciones a las casas habitación y otros espacios en la zona urbana, en los que se presuma, resguarden o críen animales en condiciones insalubres y que represente un riesgo para la salud pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 91.
 
-Los propietarios de animales estarán obligados a vacunarlos ante las autoridades sanitarias o servicios particulares, mantenerlos dentro de sus domicilios y bajo su control, quedando prohibido que deambulen libremente en espacios públicos para evitar que representen un riesgo o daño a la salud pública.
+Los propietarios o poseedores de animales estarán obligados a vacunarlos ante las autoridades sanitarias o servicios particulares, mantenerlos dentro de los domicilios y bajo su control, manteniendo en todo momento limpio y libre de pulgas y garrapatas el espacio en el que se tenga o resguarde, quedando prohibido que deambule libremente en espacios públicos para evitar que representen un riesgo o daño a la salud pública.
 
 Los propietarios serán responsables de las lesiones y daños a terceros que causen sus animales. Como medida preventiva, los propietarios que saquen a sus animales a la vía pública deberán hacerlo con el bozal y la correa o cadena respectiva.
 
@@ -1383,6 +1393,10 @@ Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efe
 
 Los propietarios, administradores, responsables, encargados u ocupantes de establecimientos comerciales, industriales, de servicios o cualquier otro regulado por esta Ley, estarán obligados a permitir el libre acceso y a dar facilidades e informes a los verificadores para el desarrollo de su función.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+Los propietarios o poseedores de animales, permitirán libremente el acceso al domicilio en el que habrá de practicarse la visita o inspección, dando las facilidades necesarias para que la misma se realice.
+
 ###### ARTICULO 119.
 
 En la práctica de visitas, los verificadores deberán estar provistos de órdenes escritas, con firma autógrafa, expedidas por la autoridad sanitaria competente, en las que se deberá precisar el giro o establecimiento que ha de verificarse, su domicilio, el objeto de la visita, el alcance que debe tener y las disposiciones jurídicas que la fundamenten.
@@ -1489,9 +1503,15 @@ VIII.- La prohibición de actos de uso;
 
 IX.- El aseguramiento y destrucción de objetos, productos o sustancias;
 
-X.- La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2014)</small>
 
-XI.-. Las demás de índole sanitaria que puedan evitar que se causen riesgos o daños a la salud y que determinen las autoridades competentes.
+X.- La desocupación o desalojo de casa, edificio, establecimientos y, en general de cualquier predio;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2014)</small>
+
+XI.- La orden de limpieza y desinfección del lugar en el que se tengan, críen o resguarden animales; y
+
+XII.- Las demás de índole sanitaria que puedan evitar que se causen riesgos o daños a la salud y que determinen las autoridades competentes.
 
 En lo relativo a las medidas de seguridad, materia de salubridad general, se estará a lo dispuesto por la Ley General.
 
@@ -1500,6 +1520,10 @@ En lo relativo a las medidas de seguridad, materia de salubridad general, se est
 ###### ARTICULO 128.
 
 La Secretaría, en coordinación con las dependencias encargadas de la sanidad animal, podrá ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades a las personas, o que pongan en riesgo la salud de las mismas.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+
+La Secretaría en coordinación con la autoridad municipal podrá ordenar la limpieza y desinfección del lugar en el que se tengan, críen o resguarden animales y verificar su cumplimiento, y en su caso considerar las medidas de apremio.
 
 ###### ARTICULO 129.
 
@@ -1856,3 +1880,9 @@ P.O. 26 DE OCTUBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- La Secretaría de Salud y Bienestar Social del Gobierno del Estado, deberá cumplir con las disposiciones contenidas en el Capítulo III, intitulado "ATENCIÓN MATERNO INFANTIL", del Título Segundo denominado "SISTEMA ESTATAL DE SALUD", el 1° de enero del año 2015.
+
+P.O. 12 DE ABRIL DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se otorga un plazo de 120 días naturales a la Secretaría de Salud y Bienestar Social, así como a los diez Ayuntamientos del Estado, para que realicen las adecuaciones correspondientes a sus respectivos reglamentos, con relación a lo dispuesto por el presente Decreto.
