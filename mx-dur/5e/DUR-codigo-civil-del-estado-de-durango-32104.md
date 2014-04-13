@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2013-04-21"
+last_updated: "2014-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2014.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -3321,6 +3321,16 @@ ART. 717.- Son susceptibles de constituir el patrimonio de la familia:
 
 Los bienes inmuebles, muebles y semovientes, que no rebasen la cuantía contenida en el Artículo 724 de este Código.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2014)</small>
+
+Pudiendo ser los siguientes:
+
+I. La casa que ésta habita, incluyendo el mobiliario y equipo de la vivienda;
+
+II. Un vehículo automotor;
+
+III. El equipo y herramienta de la micro o pequeña industria que sirva de sustento económico a la familia; (sic)
+
 ART. 718.- La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que le constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
 ART. 719.- Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Ese derecho es intransmisible; pero debe tener en cuenta lo dispuesto en el artículo 734.
@@ -3329,15 +3339,23 @@ ART. 720.- Los beneficiarios de los bienes afectos al patrimonio de la familia s
 
 El representante tendrá también la administración de dichos bienes.
 
-ART. 721.- Los bienes afectos al patrimonio de la familia son inalineables (sic) y no estarán sujetos a embargo ni a gravamen alguno.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2014)</small>
+
+ART. 721.- Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen alguno.
+
+Exceptuando los siguientes casos:
+
+I. Cuando deban de ministrarse alimentos por resolución judicial, podrán embargarse únicamente el 50% de los frutos del Patrimonio;
+
+II. Cuando se demuestre judicialmente que medie gran necesidad o notoria utilidad para gravarlo, exclusivamente con el fin de construir, ampliar o mejorar los bienes. En este caso, liberados los bienes del gravamen continuarán afectados al Patrimonio de Familia.
 
 ART. 722.- Sólo puede constituirse el patrimonio de la familia con bienes sitos en el Municipio en que esté domiciliado el que lo constituya.
 
 ART. 723.- Cada familia sólo puede constituir un patrimonio. Los que constituyen subsistiendo el primero no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2014)</small>
 
-ART. 724.- El valor máximo permitido en términos de ley, respecto de los bienes que conforman el patrimonio de la familia, será de 50 salarios mínimos generales vigentes en el Estado, elevados al año. El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente tampoco será embargable; pero el valor original y su incremento, si podrán disminuírse para encuadrarse dentro de los límites establecidos por este Código.
+ART. 724.- El valor máximo permitido en términos de ley, respecto de los bienes que conforman el patrimonio de la familia, será de 75 salarios mínimos generales vigentes en el Estado, elevados al año. El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente tampoco será embargable; pero el valor original y su incremento, si podrán disminuirse para encuadrarse dentro de los límites establecidos por este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -6137,7 +6155,7 @@ ART. 1658.- Si el testador hubiere legado alguna pensión o renta vitalicia, sin
 
 ART. 1659.- En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión corresponderá a cada uno de los herederos luego que aquella se extinga.
 
-ART. 1660.- Cuando todos los herederos sean mayores y el interés del Fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo o terminación de la testamentaría o del intestado.
+ART. 1660.- Cuando todos los herederos sean mayores y el interés del Fisco, si lo hubiere, este cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo o terminación de la testamentaría o del intestado.
 
 Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al juez, y éste, oyendo al Ministerio Público, dará us (sic) aprobación, si no se lesionan los derechos de los menores.
 
@@ -10430,3 +10448,9 @@ El Sistema para el Desarrollo Integral de la Familia del Estado, tendrá un plaz
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 13 DE ABRIL DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones jurídicas que resulten contradictorias con el contenido del presente Decreto.
