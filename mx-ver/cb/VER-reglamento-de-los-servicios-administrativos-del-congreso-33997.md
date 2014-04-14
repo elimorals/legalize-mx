@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-los-servicios-administrativos-del-congreso-33997"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2006-12-14"
+last_updated: "2014-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ABRIL DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 9 de septiembre de 2003.
 
@@ -129,9 +129,13 @@ f) La Coordinación de Informática;
 
 g) La Oficina de Oficialía de Partes;
 
-h) La Oficina de Servicios Médicos; y
+h) La Oficina de Servicios Médicos; y (sic)
 
 i) La Oficina de Seguridad.
+
+> <small>(ADICIONADO, G.O. 14 DE ABRIL DE 2014)</small>
+
+j) El Centro de Estudios para la Igualdad de Género y los Derechos Humanos.
 
 II. A la Secretaría de Servicios Legislativos:
 
@@ -175,6 +179,30 @@ VIII. Jefaturas de Departamento: Contar con título profesional en la materia de
 
 IX. Jefaturas de Oficina: Contar, por lo menos, con carta de pasante, preferentemente con experiencia de un año en la materia de su competencia.
 
+> <small>(ADICIONADO, G.O. 14 DE ABRIL DE 2014)</small>
+
+###### Artículo 8 Bis.
+
+Los requisitos que debe cubrir la Titular de la Dirección del Centro de Estudios para la Igualdad de Género y los Derechos Humanos son:
+
+I. Ser ciudadana veracruzana en términos de lo dispuesto por la Constitución Política del Estado de Veracruz, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Tener residencia efectiva en el Estado tres años anteriores a la fecha de su designación;
+
+III. No ostentar, ni haber desempeñado en los últimos tres años anteriores al nombramiento, cargo de elección popular o dirigencia partidista;
+
+IV. Poseer al día de la designación, título profesional, preferentemente en áreas de las Ciencias Sociales, Administrativas o Jurídicas, expedido por institución de educación superior legalmente facultada para ello;
+
+V. Contar con estudios de posgrado, preferentemente en Género o Derechos Humanos;
+
+VI. Contar con una edad mínima de treinta años al día de su designación;
+
+VII. Contar, preferentemente, con experiencia en materia legislativa, en formulación de políticas públicas o en programas relacionados con la igualdad de oportunidades y de género;
+
+VIII. No haber sido inhabilitada para ocupar cargo público en el ámbito federal, estatal o municipal, por el órgano fiscalizador correspondiente; y
+
+IX. No haber sido condenada por delito intencional que haya ameritado pena privativa de libertad.
+
 ### CAPÍTULO II. De las Disposiciones Generales de la Secretaría General
 
 ###### Artículo 9.
@@ -214,6 +242,14 @@ Las ausencias temporales de los Secretarios de Servicios serán suplidas por los
 ###### Artículo 13.
 
 Las unidades administrativas a que se refiere este Capítulo, estarán a cargo de un titular que será designado por la Junta de Coordinación Política, a propuesta de la Secretaría General. Tendrán igual categoría que sus similares de la administración pública estatal.
+
+> <small>(ADICIONADO, G.O. 14 DE ABRIL DE 2014)</small>
+
+###### Artículo 13 Bis.
+
+La elección de la Directora se hará a partir de una terna, resultado de una Convocatoria que emitirán las Comisiones de Equidad, Género y Familia y de Derechos Humanos, Atención a Grupos Vulnerables y Migrantes, a más tardar quince días antes de que concluya el encargo la Directora en funciones.
+
+La Directora del Centro durará en el cargo tres años, con posibilidad de ser ratificada únicamente por un segundo período de tres años.
 
 ###### Artículo 14.
 
@@ -547,9 +583,47 @@ IX. Ordenar y administrar a la guardia del Congreso, o a los grupos policiales c
 
 X. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
 
-#### SECCIÓN PRIMERA. De la Dirección de Asistencia Técnica Legislativa
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 14 DE ABRIL DE 2014)</small>
 
-#### SECCIÓN SEGUNDA. De la Dirección de Registro Legislativo y Publicaciones Oficiales
+#### SECCIÓN DÉCIMA. Del Centro de Estudios para la Igualdad de Género y los Derechos Humanos
+
+> <small>(ADICIONADO, G.O. 14 DE ABRIL DE 2014)</small>
+
+###### Artículo 31 Bis.
+
+El Centro de Estudios para la Igualdad de Género y los Derechos Humanos estará conformado por:
+
+I. La Directora;
+
+II. Un cuerpo de investigadoras o investigadores permanentes, que cuenten con título de licenciatura en áreas de las Ciencias Sociales o Jurídicas y estudios, experiencia, especialidad o posgrado en Género o Derechos Humanos y que su formación profesional, preferentemente, esté vinculada a la docencia e investigación; y
+
+III. El personal que requiera para cumplir con sus atribuciones, con base al presupuesto asignado.
+
+Al Centro de Estudios para la Igualdad de Género y los Derechos Humanos le corresponde:
+
+a) Desarrollar, formular, coordinar y supervisar la información estadística, jurídica, histórica, económica, política y social, que desde una perspectiva de los derechos humanos y de género, permita orientar y acompañar el trabajo legislativo;
+
+b) Acompañar las iniciativas que las diferentes comisiones formulen, con la finalidad de que incorporen los principios establecidos en los Tratados Internacionales en materia de derechos humanos ratificados por el Estado Mexicano, así como en las leyes nacionales en la materia;
+
+c) Apoyar el diseño de reformas legislativas para lograr la participación entre mujeres y hombres en condiciones de igualdad en todos los ámbitos, de conformidad con lo que señala la Ley para la Igualdad entre Mujeres y Hombres para el Estado de Veracruz de Ignacio de la Llave;
+
+d) Contribuir al seguimiento de las políticas públicas que formulen las diversas Secretarías de Gobierno, de conformidad con lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley para la Igualdad entre Mujeres y Hombres para el Estado de Veracruz de Ignacio de la Llave;
+
+e) Coadyuvar en la revisión de los Presupuestos de las Secretarías, Dependencias de la Administración Pública Estatal, del Poder Judicial del Estado y Organismos Autónomos, a fin de que contengan recursos etiquetados con perspectiva de género y los mecanismos para su seguimiento;
+
+f) Integrar y coordinar bases de datos que permitan contar con un diagnóstico de la situación de las mujeres y de los hombres en el Estado de Veracruz, para que la formulación de leyes y reformas respondan a la realidad social en que viven;
+
+g) Crear indicadores de género para apoyar los trabajos de las comisiones legislativas;
+
+h) Impulsar, coordinar y supervisar los informes de impacto de género, que permitan una evaluación previa sobre los resultados y efectos que una iniciativa o reforma de ley tendrá en la vida de las mujeres y los hombres y su relación con la igualdad de oportunidades;
+
+i) Promover seminarios, cursos, talleres, reuniones académicas o foros, con instituciones de educación superior, nacionales e internacionales, dirigidas al personal del Poder Legislativo, a fin de reforzar el conocimiento de los derechos humanos y la igualdad de género, acorde con las exigencias de los estándares internacionales en la materia;
+
+j) Difundir, en coordinación con las áreas correspondientes del Congreso, temas relacionados con los Derechos Humanos, el adelanto de las mujeres y la perspectiva de género; y
+
+k) Las demás que la normatividad del Congreso del Estado le señalen.
+
+#### SECCIÓN PRIMERA. De la Dirección de Asistencia Técnica Legislativa
 
 ### CAPÍTULO II. De la Secretaría de Servicios Legislativos
 
@@ -575,7 +649,7 @@ VII. Emitir su opinión obligatoria para cualquier publicación del Congreso de 
 
 VIII. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
 
-#### SECCIÓN PRIMERA. De la Dirección de Recursos Humanos
+#### SECCIÓN SEGUNDA. De la Dirección de Registro Legislativo y Publicaciones Oficiales
 
 ###### Artículo 33.
 
@@ -665,7 +739,7 @@ XI. Integrar los directorios de los miembros de las Comisiones Permanentes y, en
 
 XII. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
 
-#### SECCIÓN SEGUNDA. De la Dirección de Tesorería
+#### SECCIÓN PRIMERA. De la Dirección de Recursos Humanos
 
 ###### Artículo 36.
 
@@ -813,7 +887,7 @@ XII. Dar seguimiento al cumplimiento de los programas operativos anuales de las 
 
 XIII. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
 
-#### SECCIÓN TERCERA. De la Dirección de Recursos Materiales y Servicios Generales
+#### SECCIÓN SEGUNDA. De la Dirección de Tesorería
 
 ###### Artículo 40.
 
@@ -881,7 +955,7 @@ V. Colaborar en el diseño y control de los formatos oficiales de las unidades a
 
 VI. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
 
-#### SECCIÓN PRIMERA. De la Dirección de Auditoría y Revisión Financiera
+#### SECCIÓN TERCERA. De la Dirección de Recursos Materiales y Servicios Generales
 
 ###### Artículo 44.
 
@@ -963,7 +1037,7 @@ III. Tener a su cargo el manejo del archivo contable, mediante mecanismos de con
 
 IV. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
 
-#### SECCIÓN SEGUNDA. De la Dirección de Normatividad, Control y Seguimiento
+#### SECCIÓN PRIMERA. De la Dirección de Auditoría y Revisión Financiera
 
 ###### Artículo 48.
 
@@ -1072,6 +1146,8 @@ XI. Supervisar las actividades de los interventores designados por el Congreso; 
 XII. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
 
 Las observaciones a que se refieren las fracciones VII y VIII se formularán por escrito al Ayuntamiento, por conducto del Presidente Municipal, a efecto de que se solventen en un plazo no mayor de treinta días naturales, de lo contrario, se procederá conforme a la Ley.
+
+#### SECCIÓN SEGUNDA. De la Dirección de Normatividad, Control y Seguimiento
 
 ###### Artículo 53.
 
@@ -1251,7 +1327,7 @@ diputado secretario
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 16 DE OCTUBRE DE 2004.
 
@@ -1266,3 +1342,9 @@ G.O. 14 DE DICIEMBRE DE 2006.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE ABRIL DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo.- Para los efectos del artículo 13 Bis, la primera convocatoria será emitida por las Comisiones de Equidad, Género y Familia, y de Derechos Humanos, Atención a Grupos Vulnerables y Migrantes del H. Congreso del Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor a diez días naturales contados a partir de la entrada en vigor del presente Decreto.
