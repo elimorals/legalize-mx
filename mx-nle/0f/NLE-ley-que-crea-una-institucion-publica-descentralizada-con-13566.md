@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-una-institucion-publica-descentralizada-con-13566"
 country: "mx"
 rank: "ley"
 publication_date: "1956-05-09"
-last_updated: "2007-02-07"
+last_updated: "2014-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY QUE CREA UNA INSTITUCION PUBLICA DESCENTRALIZADA CON PERSONALIDAD JURIDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
 
-LEY QUE CREA UNA INSTITUCION PUBLICA DESCENTRALIZADA CON PERSONALIDAD JURIDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
+LEY QUE CREA UNA INSTITUCIÓN PÚBLICA DESCENTRALIZADA CON PERSONALIDAD JURÍDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 1956.
 
@@ -73,11 +73,13 @@ Los bienes y derechos a que se refiere este artículo pasarán a formar el patri
 
 Los bienes y derechos que integran el patrimonio de la institución estarán afectos a los fines de la misma, entre los cuales, se considera también la posibilidad de afectarlos como garantía y fuente de pago para créditos obtenidos con destino a ampliar o mejorar los sistemas de agua y drenaje. En consecuencia, será nulo cualquier acto o contrato que los distraiga de su objeto.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 5o.
 
-El Gobierno de la Institución estará a cargo de un Consejo de Administración compuesto por el Titular del Poder Ejecutivo del Estado o quien este designe, que lo presidirá, y seis miembros más, que serán designados de la siguiente forma: uno por el Titular del Poder Ejecutivo del Estado; un representante de los Municipios del Estado que lo designará el Ayuntamiento de Monterrey; uno por los usuarios de los servicios de agua y drenaje; uno por la Cámara Nacional de Comercio, Servicios y Turismo de Monterrey; uno por la Cámara de propietarios de Bienes Raíces del Estado de Nuevo León, A.C. y uno por la Cámara de la Industria de la Transformación de Nuevo León. Por cada miembro propietario deberá designarse un suplente.
+El Gobierno de la Institución estará a cargo de un Consejo de Administración compuesto por el Titular del Poder Ejecutivo del Estado o quien éste designe, que lo presidirá, y siete miembros más, que serán designados de la siguiente forma: uno por el Titular del Poder Ejecutivo del Estado; un Diputado Local, representante del Poder Legislativo, que será designado por el Pleno del Congreso del Estado, un representante de los Municipios del Estado que lo designará el Ayuntamiento de Monterrey; uno por los usuarios de los servicios de agua y drenaje; uno por la Cámara Nacional de Comercio, Servicios y Turismo de Monterrey; uno por la Cámara de propietarios de Bienes Raíces del Estado de Nuevo León, A.C., y uno por la Cámara de la Industria de la Transformación de Nuevo León. Por cada propietario deberá designarse un suplente.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 La administración de la Institución estará a cargo de un Director General que será nombrado y removido por el Titular del Ejecutivo del Estado, quien también designará y removerá al Secretario Técnico, cuyas funciones le serán asignadas por el Consejo de Administración.
 
@@ -123,7 +125,7 @@ El Consejo de Administración se reunirá por lo menos cada dos meses y cuantas 
 
 En caso de empate, el Presidente del Consejo tendrá voto de calidad para deducir la cuestión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 9o.
 
@@ -247,7 +249,7 @@ El Secretario General de Gobierno.
 
 LIC. ROBERTO HINOJOSA
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 26 DE DICIEMBRE DE 1970.
 
@@ -306,3 +308,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 7 DE FEBRERO DE 2007.
 
 Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 14 DE ABRIL DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
