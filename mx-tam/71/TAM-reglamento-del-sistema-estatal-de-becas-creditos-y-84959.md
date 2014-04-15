@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-sistema-estatal-de-becas-creditos-y-84959"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2011-12-01"
+last_updated: "2014-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO DEL SISTEMA ESTATAL DE BECAS, CREDITOS Y ESTIMULOS EDUCATIVOS DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DEL SISTEMA ESTATAL DE BECAS, CRÉDITOS Y ESTÍMULOS EDUCATIVOS DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 1 de diciembre de 2011.
 
@@ -59,13 +61,17 @@ IV. Secretaría: La Secretaría de Educación del Gobierno del Estado; y
 
 V. Sistema: El Sistema Estatal de Becas, Créditos y Estímulos Educativos de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
-El Ejecutivo del Estado, a través del Instituto, como única instancia, tendrá en todo tiempo la organización del Sistema y la facultad de otorgarlos, así como la facultad de establecer las normas, lineamientos y criterios para dicho otorgamiento, atendiendo los casos específicos, conforme al monto, duración, tipo y modalidad del beneficio otorgado.
+La Secretaría de Educación, en coordinación con el Instituto, tendrá en todo momento la organización del Sistema Estatal de Becas, así como la facultad de establecer las normas, lineamientos y criterios para el otorgamiento de becas, atendiendo los casos específicos, conforme al monto, duración, tipo y modalidad del beneficio otorgado.
 
 ###### ARTÍCULO 5.
 
-1. El debido cumplimiento del presente reglamento es responsabilidad del Instituto que integrará, vinculará, coordinará y aplicará los apoyos del Sistema, en los niveles educativos de:
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+
+1. El debido cumplimiento del presente reglamento es responsabilidad del Instituto que aplicará los apoyos del Sistema, en los niveles educativos de:
 
 I. Inicial;
 
@@ -87,7 +93,13 @@ VIII. La Educación Especial, considerada en el otorgamiento de becas y estímul
 
 1. Será obligación del Director de cada Institución Educativa proporcionar al Instituto las bajas de los alumnos becados indicando la causa, así como el tipo de baja ya sea de carácter temporal, definitiva, o de cualquier otra naturaleza.
 
-2. Los Directores de cada Institución Educativa, rendirán información relacionada con las becas en cualquier momento que el Instituto lo solicite; asimismo, la Secretaría, le proporcionará al Instituto la base de datos en la cual se encuentre el padrón de a quienes se les está otorgando una Beca Comisión (sic).
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+
+2. Los Directores de cada Institución Educativa, rendirán información relacionada con las becas en cualquier momento que el Instituto lo solicite.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+
+3. La Secretaría, a través de la coordinación de becas y estímulos educativos, proporcionará al Instituto al inicio de cada ciclo escolar la base de datos actualizada.
 
 ### CAPÍTULO II. DEL OBJETO Y PRESUPUESTO
 
@@ -259,9 +271,11 @@ XII. Fallecimiento del becario o acreditado.
 
 ### CAPÍTULO V. DE LOS TIPOS DE BECAS Y ESTÍMULOS EDUCATIVOS
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-Las becas y los estímulos educativos consisten en apoyos de forma económica, y por exención y en especie, para promover y coadyuvar la formación educativa integral, cultural, deportiva, emprendedora, técnica y profesional de las personas de la entidad.
+Las becas y los estímulos educativos consisten en apoyos de forma económica directa y en especie, para promover y coadyuvar en la formación educativa integral, cultural, deportiva, emprendedora, técnica y profesional de las personas de la entidad.
 
 ###### ARTÍCULO 18.
 
@@ -269,7 +283,7 @@ Los tipos de becas y estímulos son:
 
 I. Económica: Asignación mensual económica otorgada a los becarios;
 
-II. Exención de beca: consiste en la exención total o parcial, de los gastos correspondientes a los estudios o investigaciones realizados por los becarios; y
+II. (DEROGADA, P.O. 15 DE ABRIL DE 2014)
 
 III. En especie: consiste en la entrega de material escolar diverso para complementar y facilitar el aprendizaje de los becarios.
 
@@ -295,9 +309,17 @@ VI. Becas de Transporte;
 
 VII. Becas Comisión y Becas al Extranjero a Docentes;
 
-VIII. Becas para Estudios de Posgrado; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-IX. Cualquier otra que se instituya por las autoridades responsables.
+VIII.- Becas para Estudios de Posgrado;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+IX.-Becas en Escuelas Particulares; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+X.- Cualquier otra que se instituya por las autoridades responsables.
 
 #### SECCIÓN SEGUNDA. BECAS A LA EXCELENCIA EDUCATIVA
 
@@ -339,13 +361,17 @@ A los alumnos que hayan obtenido un promedio general al menos de 9, en escala de
 
 Las becas que las Instituciones Educativas otorguen en forma directa, no interferirán con el 5% marcado en la Ley.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 27.
 
-El cambio de Nivel Educativo o de Institución será considerado como renovación, sin embargo, dependerá del porcentaje disponible al momento de su ingreso al nivel educativo. Dicha situación debe hacerse del conocimiento del Instituto, en un plazo no mayor a 10 días hábiles posteriores, a fin de considerarse para el siguiente ciclo escolar.
+El cambio de Nivel Educativo o de Institución será considerado como renovación, sin embargo, dependerá del porcentaje disponible al momento de su ingreso al nivel educativo. Dicha situación debe hacerse del conocimiento de la Secretaría, en un plazo no mayor a 10 días hábiles posteriores, a fin de considerarse para el siguiente ciclo escolar.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 28.
 
-Por ningún motivo las Escuelas Particulares de los niveles de Primaria, Secundaria, Medio Superior y Superior, condicionarán la aceptación de la beca otorgada, a la prestación de un Servicio Social o de un apoyo a la propia Institución, así mismo, estarán obligadas a proporcionar las facilidades a la autoridad educativa y al Instituto, para que realice la inspección sobre la aplicación del presente lineamiento.
+Por ningún motivo las Escuelas Particulares de los niveles de Inicial, Preescolar, Primaria, Secundaria, Medio Superior y Superior, condicionarán la aceptación de la beca otorgada, a la prestación de un Servicio Social o de un apoyo a la propia Institución, así mismo, estarán obligadas a proporcionar las facilidades a la autoridad educativa y al Instituto, para que realice la inspección sobre la aplicación del presente lineamiento.
 
 ###### ARTÍCULO 29.
 
@@ -580,3 +606,15 @@ CUARTO. Todos los asuntos que se encuentren en trámite al entrar en vigor el pr
 Dado en la sede del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los 30 días de noviembre del dos mil once.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
