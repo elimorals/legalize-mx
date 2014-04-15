@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2012-12-22"
+last_updated: "2014-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -79,7 +79,9 @@ IV. Los funcionarios y empleados que desempeñen una labor, cargo o comisión de
 
 V. Los miembros de los tribunales de justicia administrativa y laboral, y demás funcionarios y empleados de los mismos;
 
-VI. El presidente de la Comisión Estatal de Derechos Humanos, y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+VI. Los integrantes, funcionarios y empleados de los organismos a los que la Constitución Política del Estado otorgue autonomía, y
 
 VII. En general, todas aquellas personas que manejen o apliquen recursos públicos federales, estatales o municipales, con motivo de un empleo, cargo o comisión en el servicio público, del Estado o municipios, o de sus entidades, no enunciado en las fracciones anteriores.
 
@@ -109,13 +111,21 @@ IX. El Tribunal de lo Contencioso Administrativo del Estado;
 
 X. La Junta Local de Conciliación y Arbitraje del Estado;
 
-XI. El Tribunal Estatal de Conciliación y Arbitraje, y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-XII. Las demás que determinen las leyes.
+XI. El Tribunal Estatal de Conciliación y Arbitraje;
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-Para efectos de esta Ley se entenderá como órganos de control, la Auditoria Superior del Estado, la Contraloría, la Contraloría del Poder Judicial, y las contralorías internas de las dependencias y entidades de la administración pública del Estado y de los municipios.
+XII. Los organismos a los que la Constitución Política del Estado otorgue autonomía, así como a sus respectivas contralorías internas, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+XII (SIC). Las demás que determinen las leyes.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+
+Para los efectos de esta Ley se entenderá como órganos de control, la Auditoría Superior del Estado; la Contraloría; la Contraloría del Poder Judicial; las contralorías internas de los organismos a los que la Constitución Política del Estado otorgue autonomía; así como de las dependencias y entidades de la administración pública del Estado y de los municipios.
 
 ###### ARTICULO 4º.
 
@@ -873,9 +883,17 @@ V. En el Tribunal de lo Contencioso Administrativo, y en los tribunales del trab
 
 VI. En la administración pública municipal: desde el presidente municipal, regidores, síndicos, secretario, tesorero, oficial mayor y contralor interno, hasta los servidores públicos con nivel de jefes de departamento o sus equivalentes, así como los agentes de Policía y Tránsito;
 
-VII. En la administración pública paramunicipal: directores generales, gerentes, jefes de departamento, servidores públicos equivalentes de los organismos descentralizados, empresas de participación municipal mayoritaria, sociedades y asociaciones similares, y fideicomisos públicos, y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-VIII. En general, todos aquellos servidores públicos que desempeñen un cargo de dirección, o administren recursos financieros.
+VII. En la administración pública paramunicipal: directores generales, gerentes, jefes de departamento, servidores públicos equivalentes de los organismos descentralizados, empresas de participación municipal mayoritaria, sociedades y asociaciones similares, y fideicomisos públicos;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+VIII. En los organismos a los que la Constitución Política del Estado otorgue autonomía, todos los servidores públicos, desde sus titulares hasta los servidores públicos con nivel de jefes de departamento o sus equivalentes, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+IX. En general, todos aquellos servidores públicos que desempeñen un cargo de dirección, o administren recursos financieros.
 
 Los órganos de control establecerán los sistemas y procedimientos necesarios, para requerir y proporcionar información y documentos relativos a las declaraciones patrimoniales de los servidores públicos, que cambien su adscripción de la administración estatal a la municipal, o viceversa, o bien de un poder a otro; asimismo, cuando tales datos sean necesarios en las investigaciones, auditorías y demás procedimientos que se lleven a cabo.
 
@@ -983,7 +1001,7 @@ LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE DICIEMBRE DE 2004.
 
@@ -1106,3 +1124,9 @@ P.O. 22 DE DICIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
