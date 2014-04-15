@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2014-03-06"
+last_updated: "2014-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -257,29 +257,55 @@ d) la garantía de otorgar pensión alimenticia provisional e inmediata.
 
 3. El Sistema Estatal se integrará con los titulares de:
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
 
-a) La Secretaría de Desarrollo Social;
+a) El Gobernador del Estado, quien lo presidirá;
 
-b) la Secretaría de Seguridad Pública;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
 
-c) la Procuraduría General de Justicia;
+b) La Secretaría de Desarrollo Social;
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
 
-d) La Secretaría de Salud;
+c) La Secretaría General de Gobierno;
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+d) La Secretaría del Trabajo y Asuntos Jurídicos;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
 
 e) La Secretaría de Educación;
 
-f) los Sistemas para el Desarrollo Integral de la Familia del Estado y de los municipios;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
 
-g) el Instituto de la Mujer Tamaulipeca; y
+f) La Secretaría de Salud;
 
-h) las corporaciones policiales preventivas municipales.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+g) La Secretaría de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+h) La Procuraduría General de Justicia;
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+i) El Instituto de la Mujer Tamaulipeca, quien ocupará la Secretaría Ejecutiva del Sistema;
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+j) Los Sistemas para el Desarrollo Integral de la Familia del Estado y de los municipios; y
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+k) Los Institutos de la Mujer de los Municipios o las unidades administrativas con funciones similares;
 
 4. A su vez, el Sistema Estatal se coordinará con el Sistema Nacional en términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y considerará las directrices que promueva en la materia, a fin de implementar acciones para ejercerlas en su ámbito de competencia.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+5. Las ausencias del Gobernador serán suplidas por el Secretario de Desarrollo Social, los demás integrantes del Sistema nombrarán a su respectivo suplente, quien deberá desempeñar una función del nivel administrativo inmediato inferior.
 
 ###### Artículo 12.
 
@@ -594,3 +620,9 @@ P.O. 6 DE MARZO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
