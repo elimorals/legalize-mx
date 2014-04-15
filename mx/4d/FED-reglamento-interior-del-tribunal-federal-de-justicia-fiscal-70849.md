@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2014-04-03"
+last_updated: "2014-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2014 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 15 DE ABRIL DE 2014.</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -707,7 +705,11 @@ Bis.- El Tribunal contará con las Salas Auxiliares siguientes, cuya denominaci�
 
 I. Primera Sala Auxiliar, con sede en la Ciudad de México, Distrito Federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
 II. (DEROGADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
@@ -728,6 +730,8 @@ VI. Sexta Sala Auxiliar, con sede en la ciudad de Morelia, Estado de Michoacán,
 > <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
 
 VII. Séptima Sala Auxiliar, con sede en la ciudad de Zacatecas, Estado de Zacatecas, que será la Sala Regional del Norte-Centro IV, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21 fracción XXIII, y 22 fracción XXIII, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
@@ -2369,8 +2373,6 @@ XIII. Las demás que le confieran las disposiciones jurídicas aplicables y los 
 
 Para el desempeño de sus funciones, la Contraloría Interna contará y tendrá adscritas una Coordinación de Gestión y las Direcciones de Auditoría, de Quejas, Denuncias y Responsabilidades, de Control y Evaluación y de Registro Patrimonial, y para el ejercicio de las atribuciones previstas en la fracción XII de este artículo contará con la Unidad de Seguimiento de Visitas.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO SS/3/2014 PUBLICADO EN EL D.O.F. DE 3 DE ABRIL DE 2014, LA ANTERIOR FRACCIÓN I FUE DEROGADA, RECORRIÉNDOSE HASTA LA FRACCIÓN VI, EN SU ORDEN.</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 ###### Artículo 95.
@@ -2389,7 +2391,9 @@ V. Verificar que la Dirección General del Sistema de Justicia en Línea, realic
 
 VI. Proponer a la Contraloría Interna, para su presentación a la Junta, políticas y procedimientos para el seguimiento de las visitas, con el fin de asegurar la correcta administración y la disponibilidad inmediata de la información relativa al cumplimiento de las observaciones y recomendaciones realizadas por los Magistrados integrantes de la Junta, y
 
-VIII (SIC). Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias.
+> <small>(F. DE E., D.O.F. 15 DE ABRIL DE 2014)</small>
+
+VII. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 96.
 
