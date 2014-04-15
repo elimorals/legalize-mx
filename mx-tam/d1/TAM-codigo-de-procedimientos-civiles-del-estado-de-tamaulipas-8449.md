@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2013-09-25"
+last_updated: "2014-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -39,11 +39,11 @@ CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
 ### CAPITULO I. GENERALIDADES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 1.
 
-Las disposiciones de este Código regirán en el Estado de Tamaulipas y el procedimiento será de estricto derecho para los asuntos de carácter civil. En las cuestiones de orden familiar, y sin alterar el principio de igualdad y equidad procesal entre las partes, el Juez podrá, de oficio suplir sus deficiencias sobre la base de proteger el interés de la familia, mirando siempre por lo que más favorezca a los menores e incapaces.
+Las disposiciones de este Código regirán en el Estado de Tamaulipas y el procedimiento será de estricto derecho para los asuntos de carácter civil. En las cuestiones de orden familiar, y sin alterar el principio de igualdad y equidad procesal entre las partes, el Juez suplirá de oficio sus deficiencias sobre la base de proteger el interés de la familia, mirando siempre por lo que más favorezca a los adultos mayores en estado de necesidad, menores e incapaces.
 
 ###### ARTICULO 2.
 
@@ -5409,7 +5409,7 @@ I.- El depositario que se nombre tendrá el carácter de simple custodio de los 
 
 II.- Si los muebles embargados produjeren frutos o rendimientos, el depositario quedará obligado a rendir una cuenta mensual, que presentará al juzgado dentro de los primeros diez días de cada mes natural;
 
-III.- El depositario pondrá en conocimiento del juzgado el lugar en que quede constituído el depósito, y recabará la autorización para hacer, en caso necesario, los gastos de almacenaje. Si no pudiere el depositario hacer los gastos que demande el depósito, pondrá esta circunstancia en conocimiento del juez para que éste, oyendo a las partes en una junta que se celebrará dentro de tres días, decrete el modo de hacer los gastos, en la forma en que acuerden aquéllas o en caso de que no estén de acuerdo, imponga tal obligación a quien obtuvo la orden de secuestro;
+III.- El depositario pondrá en conocimiento del juzgado el lugar en que quede constituído el depósito y recabará la autorización para hacer, en caso necesario, los gastos de almacenaje. Si no pudiere el depositario hacer los gastos que demande el depósito, pondrá esta circunstancia en conocimiento del juez para que éste, oyendo a las partes en una junta que se celebrará dentro de tres días, decrete el modo de hacer los gastos, en la forma en que acuerden aquéllas o en caso de que no estén de acuerdo, imponga tal obligación a quien obtuvo la orden de secuestro;
 
 IV.- Si los muebles depositados fueren cosas fungibles, el depositario tendrá, además de la obligación que le impone la fracción anterior, la de investigar el precio que en plaza tengan los efectos confiados a su guarda, a fin de que si encuentra ocasión favorable para la venta, lo ponga desde luego en conocimiento del juez, con objeto de que éste determine lo que fuere conveniente; y,
 
@@ -7932,3 +7932,9 @@ Los asuntos promovidos en contra de los Ayuntamientos cuya demanda haya sido adm
 ###### ARTÍCULO CUARTO.
 
 Los profesionistas o expertos cuya designación como peritos haya sido realizada con anterioridad a la entrada en vigor de este Decreto, deberán protestar el cargo que les fue conferido de conformidad con las reglas anteriores.
+
+P.O. 15 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
