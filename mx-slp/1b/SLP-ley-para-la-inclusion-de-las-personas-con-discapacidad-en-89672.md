@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2012-09-13"
+last_updated: "2014-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -687,9 +687,17 @@ Los derechos de las personas con discapacidad son los que consagra la Constituci
 
 I. Derecho de preferencia: Al uso de los sitios destinados a las personas con discapacidad en transportes y sitios públicos, el cual significa que los lugares pueden ser utilizados por otras personas en tanto no haya una con discapacidad que lo requiera. Dichos espacios deban estar señalizados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley, además de la leyenda "USO PREFERENTE";
 
-II. Derecho de uso exclusivo: Lugares y servicios que son de uso único y exclusivo para personas con discapacidad, los cuales en ningún momento pueden ser utilizados por otras personas, como es el caso de los cajones de estacionamiento, y los baños públicos, entre otros. Dichos espacios deban estar señalados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley, además de la leyenda "USO EXCLUSIVO", y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-II (SIC). Derecho de libre tránsito: libertad de transitar por todos los lugares públicos sin que se obstruya los accesos específicos para su circulación como, rampas, puertas, elevadores, entre otros; deben estar señalizados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley.
+II. Derecho de uso exclusivo: Lugares y servicios que son de uso único y exclusivo para personas con discapacidad, los cuales en ningún momento pueden ser utilizados por otras personas, como es el caso de los cajones de estacionamiento, y los baños públicos, entre otros. Dichos espacios deban estar señalados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley, además de la leyenda "USO EXCLUSIVO";
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+III. Derecho de libre tránsito: libertad de transitar por todos los lugares públicos sin que se obstruya los accesos específicos para su circulación como, rampas, puertas, elevadores, entre otros; deben estar señalizados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+IV. Derecho de libre acceso y permanencia a todo lugar físico público o privado a las personas con discapacidad visual y motora que se encuentren acompañadas de perros guías: el usuario del perro guía deberá acreditar de modo idóneo que el animal ha adquirido las aptitudes de adiestramiento para acompañamiento, conducción y ayuda. Toda persona con discapacidad que se encuentre acompañada por su perro guía, tiene el derecho a acceder y permanecer junto a su perro en espacios comerciales y organismos oficiales cuyo ingreso no se halle vedado al público en general, tales como: establecimientos hoteleros, centros turísticos, culturales, deportivos, establecimientos de enseñanza pública o privada, religiosos, sanitarios, asistenciales y cualquier otro espacio de similar naturaleza; así como también, a todo transporte público o privado de pasajeros, a las terminales o estaciones utilizadas por dichos medios de transporte, cumpliendo con las normas de seguridad correspondientes.
 
 La violación a estos derechos será sancionada severa e inmediatamente por las autoridades competentes.
 
@@ -1019,7 +1027,7 @@ CUARTO. El Sistema para el Desarrollo Integral de la Familia Estatal contará co
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-D A D O en el Salón de sesiones ·Ponciano Arriaga Leija" del Honorable Congreso del Estado, el treinta de agosto de dos mil doce.
+D A D O en el Salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el treinta de agosto de dos mil doce.
 
 Diputado Presidente: Pedro Pablo Cepeda Sierra; Diputado Primer Secretario: José Guadalupe Rivera Rivera; Diputado Segundo Secretario: J. Jesús Soni Bulos (Rúbricas).
 
@@ -1038,3 +1046,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
