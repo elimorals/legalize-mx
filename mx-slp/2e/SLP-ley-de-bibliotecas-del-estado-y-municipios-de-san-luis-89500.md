@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bibliotecas-del-estado-y-municipios-de-san-luis-89500"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2012-09-13"
+last_updated: "2014-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,493 +21,303 @@ state: "SLP"
 ---
 # LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE CATASTRO PARA EL ESTADO DE CHIAPAS
+LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
-Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de diciembre del 2002.
+Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre de 2012.
 
-Pablo Salazar Mendiguchía, Gobernador del Estado Libre y Soberano de Chiapas, a sus habitantes hace saber: Que la Honorable Sexagésima Primera Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
+Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-Decreto Número 019
+DECRETO 1143
 
-La Sexagésima Primera Legislatura Constitucional del Honorable Congreso del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política Local; y,
+LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, DECRETA
 
-Considerando
+EXPOSICION DE MOTIVOS.
 
-Que la fracción I del Artículo 29; de la Constitución Política Local faculta al Congreso del Estado, Legislar en las materias que no estén reservadas al Congreso de la Unión, así como en aquellas en que existan facultades concurrentes, conforme a Leyes Federales.
-
-Que con fecha 18 de marzo de 1987, fue publicada en el Periódico Oficial del Estado, la Ley de Catastro para el Estado de Chiapas. Considerando que la naturaleza de este ordenamiento es dinámica, resulta indispensable mantener actualizado el marco jurídico a las necesidades que se derivan del proceso de modernización y desarrollo.
-
-Que la actividad catastral en el Estado no sólo satisface los requerimientos de información para fines tributarios de los municipios, sino que se considera prioritaria para la integración del Sistema de Información Territorial del Estado, que estará a cargo de la actual Dirección de Catastro Urbano y Rural y será el organismo rector en materia catastral inmobiliaria.
-
-Que la presente Ley de Catastro para el Estado de Chiapas tiene su fundamento en la adecuación del marco jurídico estatal. La actualización del instrumento jurídico incorpora situaciones que no están contempladas en el ordenamiento vigente y regula el pleno desarrollo de las actividades catastrales contemplando la participación de los municipios.
-
-Que esta Ley contempla al catastro como un sistema de información territorial relativo a las características de los bienes inmuebles que lo conforman. Es un prestador de servicios y a la vez generador y proveedor de información veraz a las dependencias e instituciones oficiales, gobiernos municipales y la ciudadanía en general. Tiene la virtud de establecer normas para proporcionar la información catastral y la prestación de servicios catastrales.
-
-Que en ejercicio de la facultad que le confiere la Fracción I del Artículo 27 de la Constitución Política Local y como responsable del buen funcionamiento de la Administración Pública del Estado, el Titular del Poder Ejecutivo del Estado con fecha 03 de Diciembre del año 2002, presento a esta Soberanía Popular, Iniciativa de Decreto por el que se crea la Ley de Catastro para el Estado de Chiapas.
-
-Que por todo lo antes expuesto fue turnada a la Comisión de Hacienda, la Iniciativa de Decreto por el que se crea la Ley de Catastro para el Estado de Chiapas, que la citada Comisión sé reunió y emitió el Dictamen correspondiente, mismo que a su vez fue presentado al Pleno de la Sexagésima Primera Legislatura, acordándose en este, aprobar el Decreto por el que se crea la Ley de Catastro para el Estado de Chiapas.
-
-Por las razones anteriores, este Honorable Congreso ha tenido a bien emitir el siguiente:
-
-Decreto por el que se crea la
-
-Ley de Catastro para el Estado de Chiapas
+Por ello, el Honorable Congreso del Estado de San Luis Potosí emite esta nueva norma que regula el funcionamiento de las bibliotecas públicas; que rescata la función social preservando el objetivo cultural de las bibliotecas.
 
 ###### ARTICULO PRIMERO.
 
-EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+Se expide la Ley de Bibliotecas de la Entidad, para quedar como sigue
 
-###### ARTICULO SEGUNDO.
+LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LAS PERSONAS FISICAS O MORALES QUE HAYAN CONSTITUIDO FRACCIONAMIENTOS O CONDOMINIOS CON ANTERIORIDAD A LA PROMULGACION DE LA LEY DE FRACCIONAMIENTOS Y LA LEY SOBRE REGIMEN DE PROPIEDAD EN CONDOMINIO, VIGENTE, DEBERAN ACREDITAR EL CUMPLIMIENTO DE LOS REQUISITOS QUE EXIGIA LA LEGISLACION EN EL MOMENTO DE SU CONSTITUCION.
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(F. DE E., P.O. 21 DE ENERO DE 2004)</small>
+### Capítulo Unico
 
-EN TODO CASO, PARA REALIZAR LAS OPERACIONES CATASTRALES, DEBERAN PRESENTAR, COMO MINIMO, LA ESCRITURA GENERAL DEL PREDIO, PLANO DE LOTIFICACION Y EN SU CASO AUTORIZACION DEL MUNICIPIO.
+###### ARTICULO 1°.
 
-P.O. 5 DE NOVIEMBRE DE 2004.
+Esta Ley es de observancia general y sus disposiciones de orden público e interés social; tiene, en concordancia con la Ley General de Bibliotecas, los siguientes objetivos:
 
-PRIMERO.- LAS MODIFICACIONES, ADICIONES Y DEROGACIONES A LA PRESENTE LEY, ENTRARAN EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+I. La coordinación y distribución de la función educativa y cultural que se lleva a cabo mediante el establecimiento, sostenimiento y organización de bibliotecas públicas, entre el Gobierno del Estado y los municipios;
 
-SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A LO DISPUESTO EN LA PRESENTE LEY.
+II. El señalamiento de las normas básicas para la configuración y administración de la Red Estatal de Bibliotecas Públicas, y
 
-P.O. 21 DE DICIEMBRE DE 2005.
+III. La determinación de lineamientos en la materia, para llevar a cabo la concertación con los sectores social y privado en la Entidad.
 
-> <small>(F. DE E., P.O. 11 DE ENERO DE 2006)</small>
+###### ARTICULO 2°.
 
-Artículo Primero.- Las modificaciones, adiciones a la presente Ley, entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+Para los efectos de la presente Ley se entiende por:
 
-Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+I. Acervo: conjunto de obras que integran las colecciones de una biblioteca;
 
-### Capítulo primero. Disposiciones generales
+II. Biblioteca Central del Estado: institución que por su magnitud y diversidad de servicios, funge como modelo para el resto de las bibliotecas de la Red Estatal de Bibliotecas Públicas; y sirve de apoyo en las tareas de la Coordinación Estatal de Bibliotecas Públicas;
 
-###### Artículo 1.
+III. Biblioteca pública: todo establecimiento que contenga un acervo de carácter general superior a quinientos títulos, catalogados y clasificados, y que se encuentren destinados a atender en forma gratuita a toda persona que solicite la consulta o préstamo del mismo, en los términos de las normas administrativas aplicables;
 
-La presente Ley es de observancia obligatoria, de orden público, interés social y aplicable en todo el territorio del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-Las disposiciones de la presente Ley, tienen por objeto establecer:
+IV. Biblioteca Móvil: biblioteca pública pronosticada para poder trasladarla continuamente a distintas zonas de la Entidad, ante la ausencia de una biblioteca permanente;
 
-a) Los lineamientos y principios básicos para el desarrollo de las actividades catastrales.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-b) Las normas de carácter técnico para la identificación, registro y valuación de los bienes inmuebles, y
+V. Bibliotecario: encargado de una biblioteca pública en el Estado o municipios de San Luis Potosí, que cuenta con la acreditación de cursos correspondientes o licenciatura en biblioteconomía o carrera afín;
 
-c) Las bases para el uso y administración de la información catastral.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+VI. Catálogo: conjunto de tarjetas, cada una de las cuales contiene la información que describe las características fundamentales de las obras de la biblioteca. Se clasifica en cinco partes, autor, título, materia, topográfico, y adquisiciones; los dos últimos sólo para uso interno;
 
-La interpretación y aplicación de la presente Ley y su Reglamento corresponde a las autoridades catastrales; a falta de disposición expresa en cuanto a la aplicación e interpretación de esta Ley, se aplicarán supletoriamente, las del Código de la Hacienda Pública para el Estado de Chiapas y en su caso las del derecho común.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+VII. Colección especial: acervo bibliográfico, hemerográfico o de material de archivo que por su antigüedad, temática, rareza, riqueza, etcétera, merece tratamiento y uso diferente al de los materiales que forman parte de colecciones generales;
 
-###### Artículo 2.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-Para efectos de esta Ley, el catastro es un sistema de información territorial encargado de recabar, integrar, registrar, generar, actualizar, resguardar y administrar información relativa a los bienes inmuebles que conforman el territorio del Estado.
+VIII. Coordinación Estatal de Bibliotecas Públicas: órgano dependiente de la Secretaría de Educación de Gobierno del Estado, instituido con el fin de coordinar el funcionamiento de la Red Estatal de Bibliotecas Públicas, en cumplimiento de las obligaciones que establece al Estado, la Ley General de Bibliotecas, y las que deriven de los convenios de coordinación con los gobiernos federal, y municipales;
 
-### Capítulo segundo. De la terminología
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-###### Artículo 3.
+IX. Dirección General de Bibliotecas (DGB): institución dependiente del Consejo Nacional para la Cultura y las Artes, que tiene sustento jurídico en la Ley General de Bibliotecas, y opera a nivel federal la Red Nacional de Bibliotecas Públicas;
 
-El catastro tiene como objeto lograr el conocimiento de las características cualitativas y cuantitativas de los bienes inmuebles, mediante la formación, actualización y conservación de los registros catastrales, que tendrán un uso multifinalitario, orientado hacia tres propósitos fundamentales:
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-I. Proporcionar información para la implementación de planes, programas y acciones que coadyuven al desarrollo socioeconómico de la Entidad.
+X. Fomento al hábito de la lectura: programa permanente de las bibliotecas públicas, diseñado para introducir a niños, jóvenes y adultos, en la lectura recreativa y fortalecer su vida cultural;
 
-II. Apoyar la administración de las contribuciones inmobiliarias con apego a los principios de equidad y proporcionalidad, cuando los Ayuntamientos así lo requieran, y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+XI. Ley General de Bibliotecas: documento normativo que tiene por objeto la distribución y coordinación entre los gobiernos Federal, estatales, y municipales, de la función educativa y cultural que se lleve a cabo mediante el establecimiento, sostenimiento y organización de bibliotecas públicas; y establece las normas básicas para la configuración de la Red Nacional de Bibliotecas Públicas;
 
-III. Proporcionar servicios catastrales oportunos y de calidad a los propietarios y poseedores de bienes inmuebles, así como a las dependencias e instituciones públicas.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-Asimismo, la Dirección de Catastro Urbano y Rural, proporcionara a las oficinas Publicas y a los Ayuntamientos los datos que soliciten y que consten en los registros catastrales, que sirvan a las funciones propias de aquellos.
+XII. Red Estatal de Bibliotecas: Es la red de bibliotecas públicas del Estado;
 
-###### Artículo 4.
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-El catastro consta de los siguientes registros:
+XIII. Red Nacional de Bibliotecas: conjunto de bibliotecas públicas que operan a nivel nacional, coordinada por la Dirección General de Bibliotecas, dependiente del Consejo Nacional para la Cultura y las Artes, y
 
-I. Registro Gráfico, que podrá integrarse con cualquiera de los siguientes:
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-a) Plano general catastral del Estado,
+XIV. Usuario: persona física o moral que acude a la biblioteca pública a solicitar cualquiera de los servicios que en ella se prestan; es el actor principal de la biblioteca y, constituye, la razón de nuestra misión y visión.
 
-b) Planos catastrales de los municipios,
+## TITULO SEGUNDO. DE LAS AUTORIDADES
 
-c) Planos de las zonas y sectores catastrales,
+### Capítulo Unico
 
-d) Planos catastrales a nivel manzana,
+###### ARTICULO 3°.
 
-e) Planos catastrales a nivel predio, y
+Son autoridades en materia de coordinación de las bibliotecas, las siguientes:
 
-f) Demás elementos cartográficos.
+I. El titular del Ejecutivo del Estado;
 
-II. Registro Alfanumérico, que se constituye por los padrones que deberán contener los siguientes datos:
+II. El Secretario de Educación;
 
-a) La clave catastral o número de registro del predio,
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+III. El Secretario de Cultura;
 
-b) El nombre y domicilio del propietario o poseedor,
+IV. El Coordinador Estatal de Bibliotecas Públicas, y
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+V. Los ayuntamientos.
 
-c) La ubicación y tipo del predio,
+###### ARTICULO 4°.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+El Coordinador Estatal de Bibliotecas Públicas será designado por el Secretario de Educación de Gobierno del Estado. Para ser designado Coordinador debe contar por lo menos con licenciatura, preferentemente en el área de biblioteconomía; experiencia mínima de cinco años; y reconocida capacidad profesional y técnica en el manejo o dirección de bibliotecas.
 
-d) El área del terreno,
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+###### ARTICULO 5°.
 
-e) El valor catastral,
+Corresponde a la Coordinación Estatal de Bibliotecas, proponer, ejecutar y evaluar la política estatal de bibliotecas, atendiendo al Plan Estatal de Desarrollo y programas sectoriales correspondientes, de conformidad a los criterios, líneas de acción y políticas definidas por la Secretaría de Educación, misma que tomará en cuenta las propuestas que realice la Secretaría de Cultura.
 
-f) Los demás datos que se requieran conforme a ésta Ley y su Reglamento.
+Asimismo, emitir los lineamientos en relación con las bibliotecas públicas para:
 
-###### Artículo 5.
+I. Dotarlas de acervos propios y fortalecer su infraestructura con ampliación, mantenimiento, mejoras físicas y tecnológicas, y
 
-Para los efectos catastrales, los bienes inmuebles se clasifican en urbanos, suburbanos y rústicos.
+II. Actualizar la información general de los acervos~ (sic) modernizar los servicios bibliotecarios, a través de la automatización de la información~ (sic) promover las distintas colecciones dedicadas a fomento a la lectura y el interés por la información~ (sic) generar exposiciones bibliográficas con material de diversas editoriales públicas y privadas, e integrar en dichas colecciones obras de autores locales.
 
-###### Artículo 5-A.
+###### ARTICULO 6°.
 
-(DEROGADO, P.O. 5 DE NOVIEMBRE DE 2004)
+El Gobierno del Estado, y los ayuntamientos, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de bibliotecas públicas, así como los servicios culturales complementarios que a través de éstas se otorguen.
 
-###### Artículo 6.
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
 
-Para los efectos de esta Ley y su Reglamento se entiende por:
+De igual forma, en la medida de sus respectivos presupuestos implementarán el sistema de bibliotecas móviles, con el propósito de garantizar el acceso a dichos servicios en aquellos lugares que aún no cuentan con una biblioteca próxima a su domicilio o localidad.
 
-I. ACTUALIZACIÓN DE VALORES UNITARIOS.- La determinación de nuevos valores unitarios para terrenos y construcciones, con base en el estudio de los factores que los alteren y se vean reflejados en el mercado inmobiliario.
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
 
-II. ÁREA.- Extensión comprendida dentro de un perímetro, referida al plano horizontal.
+Dichos entes de gobierno deberán desarrollar programas para la actualización del sistema de bibliotecas, y propiciar la formación de especialistas e investigadores en la materia, con el fin de restaurar y conservar el material bibliográfico.
 
-III. BIENES INMUEBLES.- El suelo, las construcciones y todo lo que está adherido a él de manera fija, de modo que no pueda separarse sin causarle deterioro al mismo ó al objeto que se separe; y en general los que considera como tales el Código Civil del Estado de Chiapas.
+## TITULO TERCERO. DE LA RED ESTATAL DE BIBLIOTECAS PUBLICAS
 
-IV. COEFICIENTE DE DEMÉRITO.- Factor de porcentaje que disminuye los valores unitarios, por condiciones desfavorables del terreno, construcción, instalaciones u otros bienes.
+### Capítulo Unico
 
-V. COEFICIENTE DE INCREMENTO.- Factor de porcentaje que aumenta los valores unitarios por condiciones favorables del terreno, construcción, instalaciones u otros bienes.
+###### ARTICULO 7°.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+Se integra la Red Estatal de Bibliotecas Públicas con todas aquéllas constituidas y en operación, dependientes del Estado y de los municipios.
 
-VI. CORREDOR DE VALOR.- Es una franja homogénea de valor unitario referido a una vialidad, que por sus características propias tiene un valor más alto que el de las zonas colindantes.
+Para la expansión de la Red Estatal de Bibliotecas Públicas, la Coordinación Estatal de Bibliotecas celebrará con los gobiernos de los municipios, los acuerdos de coordinación necesarios.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
 
-VII. CLAVE O NÚMERO DE REGISTRO CATASTRAL.- Los caracteres numéricos o alfanuméricos que identifica a un predio en el catastro.
+###### ARTICULO 8°.
 
-VIII. CÉDULA – AVALÚO CATASTRAL.- Es el documento en el que se consignan las características y el valor de mercado de un predio o fracción de éste.
+Con el propósito de conjuntar esfuerzos, a la Red Estatal de Bibliotecas Públicas podrán integrarse voluntariamente aquellas bibliotecas universitarias, y especializadas, pertenecientes a dependencias, entidades y personas físicas o morales de los sectores, público, social, y privado, cuando no dependan del Estado y de los municipios, conservando su propia regulación.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+La Red Estatal procurará contar con una biblioteca digital para con ello facilitar el acceso remoto a los usuarios del sistema, misma que deberá ser operada por personal capacitado que provea de técnicas y conocimientos para su mejor funcionamiento.
 
-IX. CÉDULA CATASTRAL.- El documento que comprueba que un predio está registrado en el catastro, certifica la existencia del mismo y contiene la información de sus características físicas principales.
+###### ARTICULO 9°.
 
-X. CONSTRUCCIÓN.- Las edificaciones de cualquier tipo, destino o uso, inclusive los equipos e instalaciones adheridas permanentemente y que forman parte integral de ella.
+Las bibliotecas pertenecientes a los sectores social y privado, que presten servicios con características de biblioteca pública en los términos de la presente Ley, y que manifiesten su disposición a incorporarse a la Red Estatal de Bibliotecas Públicas, celebrarán con el Gobierno del Estado y con los ayuntamientos, según sea el caso, convenio de colaboración y adhesión.
 
-XI. CONSTRUCCIÓN PERMANENTE.- La que está adherida de manera fija al terreno, en condiciones tales que no pueden separarse de él, sin deterioro de la propia construcción o de los demás inmuebles unidos a aquél ó a ésta.
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
 
-XII. CONSTRUCCIÓN PROVISIONAL.- La que por su estructura sea fácilmente desmontable en cualquier momento. En los casos dudosos la autoridad catastral determinará si las construcciones son o no provisionales.
+Las bibliotecas que pertenezcan a la Red Estatal procesarán y llevarán a cabo programas culturales para fomentar la lectura, así como dar promoción a los autores y sus obras.
 
-XIII. CONSTRUCCIÓN RUINOSA.- La que por su estado de conservación o estabilidad representa un riesgo grave para su habitabilidad.
+Las bibliotecas cuyas características sean diferentes a las de biblioteca pública, señaladas en esta Ley, podrán ser incorporadas a la Red Estatal de Bibliotecas Públicas, mediante el correspondiente compromiso de integración que celebren sus titulares con la Coordinación Estatal de Bibliotecas.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+###### ARTICULO 10.
 
-XIV. CONDOMINIO.- Inmueble construido o sin construcción, con áreas privativas y de uso común, sobre el cual se constituye el régimen de propiedad en condominio, pudiendo ser vertical u horizontal, de acuerdo a la Ley de la materia.
+La Biblioteca Central del Estado tiene el carácter de biblioteca pública, para todos los efectos de la Red Estatal de Bibliotecas Públicas.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+###### ARTICULO 11.
 
-XV. FRACCIONAMIENTO.- La división de un terreno en lotes siempre que para ello se establezcan una o más vialidades.
+La Red Estatal de Bibliotecas Públicas tiene por objeto:
 
-XVI. FUSIÓN.- La unión de dos o más predios contiguos.
+I. Integrar los recursos de las bibliotecas públicas, y coordinar sus funciones para fortalecer y optimizar la operación de éstas, y
 
-XVII. GPS.- Sistema de Posicionamiento Global.
+II. Ampliar y diversificar los acervos, y orientar los servicios de las bibliotecas públicas.
 
-XVIII. LEVANTAMIENTO CATASTRAL.- Conjunto de operaciones necesarias para la identificación y descripción de las características cuantitativas y cualitativas de los bienes inmuebles para su inscripción en los registros catastrales.
+###### ARTICULO 12.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+Para el cumplimiento de sus propósitos, la Coordinación Estatal de Bibliotecas Públicas, promoverá el desarrollo de las siguientes acciones:
 
-XIX. LEVANTAMIENTO GEODÉSICO.- Conjunto de procedimientos y operaciones de campo y gabinete destinado a determinar las coordenadas geodésicas de puntos sobre el terreno.
+I. Elaborar un registro general de las bibliotecas que se integren a la Red Estatal de Bibliotecas;
 
-XX. LEVANTAMIENTO TOPOGRÁFICO.- Conjunto de operaciones necesarias para medir un terreno y representarlo a escala en un plano. Puede incluir aspectos tales como pendientes, curvas de nivel y estructuras.
+II. Orientar a las bibliotecas de la Red Estatal de Bibliotecas Públicas, respecto de los medios técnicos en materia bibliotecaria y su actualización, para su mejor organización y operación;
 
-XXI. LOTE.- Predio resultante de un fraccionamiento.
+III. Configurar un catálogo general de acervos de las bibliotecas incorporadas a la Red Estatal de Bibliotecas Públicas, conforme a las reglas de catalogación y clasificación bibliográfica, para lograr su uniformidad;
 
-XXII. PREDIO BALDÍO.- Terreno que carece de cualquier tipo de construcción.
+IV. Operar como medio de enlace entre los participantes, y entre éstos y las organizaciones bibliotecológicas con las que se relacionen, para desarrollar programas conjuntos;
 
-XXIII. LOTE TIPO.- El que por sus dimensiones se determina como más frecuente para una zona especifica.
+V. Apoyar programas de capacitación técnica y profesional del personal que tenga a su cargo servicios bibliotecarios, tendiendo a la optimización de éstos y al apoyo de las labores en la materia;
 
-XXIV. MANZANA.- Área o superficie de terreno delimitada por una o más vías públicas, límites físicos o perímetro urbano.
+VI. Impulsar que los directivos o encargados de una biblioteca sean técnicos o profesionales del área de bibliotecas o, en su caso, profesionalizarlos durante el ejercicio de su cargo, y
 
-XXV. PERÍMETRO URBANO.- La poligonal que delimita a la zona urbana.
+VII. Las demás que sean análogas a las anteriores, que le permitan alcanzar sus propósitos.
 
-XXVI. PREDIO.- El terreno, con o sin construcciones, cuyos linderos formen un perímetro determinado.
+###### ARTICULO 13.
 
-XXVII. PREDIO RÚSTICO.- El que, fuera de las poblaciones, está dedicado a uso agrícola, pecuario o forestal.
+Son facultades de la Coordinación Estatal de Bibliotecas:
 
-XXVIII. PREDIO URBANO.- El ubicado dentro del perímetro urbano de un centro de población, que cuenta con disponibilidad de vialidades y servicios públicos.
+I. Integrar la Red Estatal de Bibliotecas Públicas;
 
-XXIX. PREDIO SUBURBANO.- El ubicado dentro de la zona suburbana.
+II. Efectuar la coordinación de la Red Estatal de Bibliotecas Públicas, con la Secretaría de Educación Pública del Gobierno Federal, a través de la Red Nacional de Bibliotecas Públicas, con las demás dependencias y entidades del Estado que cuenten con bibliotecas públicas, y con los ayuntamientos, mediante los convenios respectivos;
 
-XXX. PREDIOS CONSTRUÍDOS. - Los que tengan construcciones permanentes.
+III. Establecer los mecanismos participativos para programar la expansión de la Red Estatal de Bibliotecas Públicas;
 
-XXXI. PREDIOS NO CONSTRUÍDOS.- Los que no tengan construcciones permanentes.
+IV. Emitir la normatividad técnica para las bibliotecas de la Red Estatal de Bibliotecas Públicas, y supervisar su cumplimiento;
 
-XXXII. PROPIEDAD - Derecho de goce y disposición que una persona tiene sobre un bien inmueble determinado.
+V. Seleccionar, determinar y desarrollar las colecciones de cada biblioteca pública, de acuerdo con el programa correspondiente;
 
-XXXIII. PROPIEDAD RAÍZ.- Los bienes inmuebles ubicados dentro del territorio del Estado y municipios
+VI. Dotar a las nuevas bibliotecas públicas de un acervo de publicaciones informativas, recreativas y formativas; así como obras de consulta y publicaciones periódicas, a efecto de que respondan a las necesidades culturales, educativas y de desarrollo en general de los habitantes de la localidad;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+VII. Recibir de las bibliotecas que integran la Red Estatal de Bibliotecas Públicas, las publicaciones obsoletas o poco utilizadas, y redistribuirlas, en su caso;
 
-XXXIV. RED GEODESICA.- Conjunto de puntos situados sobre el terreno, establecidos físicamente mediante monumentos, de los cuales se determinan sus coordenadas geodésicas que permiten su interconexión con relación al sistema de referencia establecido. Conformada en Red Geodésica Activa, Pasiva, Altimétrica y Gravimétrica.
+VIII. Enviar a las bibliotecas integrantes de la Red Estatal de Bibliotecas Públicas, los materiales bibliográficos catalogados y clasificados de acuerdo con las normas técnicas autorizadas, a efecto de que los servicios puedan ofrecerse con mayor eficiencia;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+IX. Apoyar en la catalogación de acervos complementarios de las bibliotecas integrantes de la Red Estatal de Bibliotecas Públicas;
 
-XXXV REGISTROS CATASTRALES.- Conjunto de elementos gráficos o datos alfanuméricos que caracterizan a los bienes inmuebles inscritos en el catastro.
+X. Proporcionar asesoría técnica al personal de las bibliotecas incluidas en la Red Estatal de Bibliotecas Públicas;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+XI. Difundir a nivel estatal los servicios bibliotecarios y actividades afines;
 
-XXXVI. SECTOR.- El área o superficie en que se dividen las zonas urbanas, suburbanas y rústicas para fines catastrales.
+XII. Vincular entre sí a las bibliotecas integrantes de la Red Estatal de Bibliotecas Públicas, con la comunidad bibliotecaria nacional e internacional;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+XIII. Impulsar investigaciones que promuevan el uso de los servicios bibliotecarios y el gusto por la lectura;
 
-XXXVII. SUBDIVISIÓN.- La división de un predio en dos o más partes siempre y cuando no se requiera o establezca una vialidad.
+XIV. Impartir cursos de reparación y encuadernación de libros;
 
-XXXVIII. MANUAL DE VALUACIÓN.- Es el documento que contiene los criterios y procedimientos valuatorios a los cuales tiene que sujetarse la operación catastral consistente en la determinación de valor catastral y pericial, según sea el caso.
+XV. Promover ante las autoridades municipales, la dotación a sus bibliotecas de los locales y equipo necesarios; así como asegurarlos de modo integral, y conservarlos en buen estado, y
 
-XXXIX. VALUACIÓN.- La determinación del valor catastral de los bienes inmuebles, mediante la aplicación de los valores unitarios de terrenos y construcción o según estimación en los casos previstos por la presente Ley, su Reglamento y el manual de valuación que al efecto elabore y expida la Dirección.
+XVI. Realizar las demás funciones que sean análogas a las anteriores, y que le permitan alcanzar sus propósitos.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+###### ARTICULO 14.
 
-XL. VALOR CATASTRAL.- Es el que determina la autoridad catastral para los bienes inmuebles, determinado de acuerdo a condiciones generales por zonas homogéneas y sus características similares a prototipos, aplicando valores unitarios previstos en las normas sobre la materia.
+Se crea el Consejo de la Red Estatal de Bibliotecas Públicas, con carácter de órgano consultivo, que tiene las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+I. Presentar propuestas para mejorar los servicios que prestan las bibliotecas integrantes de la Red Estatal de Bibliotecas Públicas, y
 
-XLI. VALOR COMERCIAL O DE MERCADO.- Es el que determina la ley de la oferta y la demanda, aplicada a los bienes inmuebles, en una determinada circunscripción territorial.
+II. Formular recomendaciones para lograr una mayor participación de los sectores social y privado, comunidades y personas interesadas en el desarrollo de la Red Estatal de Bibliotecas Públicas.
 
-XLII. VALOR UNITARIO.- El que se determina por unidad de área, para terrenos y construcciones.
+###### ARTICULO 15.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+El Consejo de la Red Estatal de Bibliotecas Públicas está integrado por:
 
-XLIII.- VIALIDAD.- Superficie de terreno destinada para el tránsito, constituida por avenidas, calles, calzadas, andadores, banquetas y otros, ya sea pública o privada.
+I. Un presidente que será el titular de la Secretaría de Educación de Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-XLIV. VÍA PÚBLICA.- Superficie de terreno destinada para el libre tránsito, que comprende calles, banquetas, andadores, jardines públicos, avenidas, calzadas u otros.
+II. Un vicepresidente, que será el titular de la Secretaría de Cultura de Gobierno del Estado;
 
-XLV. ZONA HOMOGENEA.- Circunscripción territorial que posee características similares en cuanto a la existencia, calidad y disponibilidad de los servicios públicos, uso del suelo, infraestructura y equipamiento urbano, tipo de construcciones predominantes, régimen de tenencia de la tierra, nivel socioeconómico de la población, entre otras; y por consiguiente un valor unitario de suelo similar.
+III. Un Secretario Ejecutivo, que será el Coordinador Estatal de Bibliotecas Públicas, quien tendrá a su cargo ejecutar los programas respectivos, y
 
-XLVI. ZONA URBANA.- El área o superficie comprendida dentro del perímetro urbano y que generalmente cuenta con vialidades y servicios públicos.
+IV. Los siguientes vocales invitados a participar en dicho Consejo, conforme a los siguientes criterios de representación:
 
-XLVII. ZONA SUBURBANA.- Es el área o superficie fuera del perímetro urbano, constituida por el área de crecimiento de una localidad.
+a) Un diputado integrante de la Comisión de Educación, Cultura, Ciencia y Tecnología del Poder Legislativo Local.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+b) Un representante de la biblioteca del Poder Judicial.
 
-XLVIII. ZONA RÚSTICA.- El área o superficie que se ubica fuera del perímetro y del área de crecimiento urbano, destinada generalmente para uso agropecuario, forestal, minero u otros.
+c) El responsable de los programas oficiales de lectura en el nivel básico.
 
-### Capítulo tercero
+d) Dos representantes de las instituciones educativas de nivel medio superior, a invitación del titular de la Secretaría de Educación.
 
-De las Autoridades Catastrales y sus atribuciones.
+e) Cinco representantes de instituciones educativas de nivel superior de la Entidad, a invitación del titular de la Secretaría de Educación de Gobierno del Estado.
 
-###### Artículo 7.
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
 
-Son autoridades catastrales:
+f) Dos representantes de la Secretaría de Cultura.
 
-I. El Gobernador del Estado;
+g) Cuatro representantes de los ayuntamientos del Estado, seleccionados mediante insaculación, cuyas características se establecen en el Reglamento de esta Ley.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+h) Un representante de los profesionales egresados de la Escuela de Bibliotecología e Información de la Universidad Autónoma de San Luis Potosí.
 
-II. El Secretario de Planeación y Finanzas;
+Los vocales representantes de las instituciones educativas y de los ayuntamientos serán designados de conformidad con los mecanismos de selección que emita el Presidente del Consejo de la Red Estatal de Bibliotecas Públicas, de conformidad con el Reglamento de esta Ley.
 
-III. El Subsecretario de Ingresos;
+El Consejo de la Red Estatal de Bibliotecas Públicas se reunirá por lo menos cada seis meses y, en cualquier caso, a convocatoria del Presidente; y sesionará de conformidad con lo establecido en su Reglamento Interior.
 
-IV. El Director de Catastro Urbano y Rural.
+###### ARTICULO 16.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+La Red Estatal de Bibliotecas Públicas conjuntará los esfuerzos para lograr la coordinación dentro del sector público y la participación voluntaria de los sectores social y privado a través de la concertación, a fin de integrar y ordenar la información bibliográfica disponible en apoyo a las labores educativas, de investigación y cultural en general, de la preservación, enriquecimiento y fomento de las lenguas de las comunidades indígenas en el Estado, de sus conocimientos y todos los elementos que conformen su identidad cultural, para el desarrollo integral de la entidad y de sus habitantes.
 
-###### Artículo 8.
+## TITULO CUARTO. DE LAS CARACTERISTICAS MINIMAS DE LAS BIBLIOTECAS
 
-Son atribuciones del Gobernador del Estado:
+### Capítulo Unico
 
-I. Establecer las normas, políticas y lineamientos generales relativos al ejercicio de las funciones catastrales.
+###### ARTICULO 17.
 
-II. Suscribir los convenios de coordinación en materia de catastro que se requieran para el eficaz ejercicio de las funciones correspondientes, con dependencias y entidades de la administración pública federal y otras entidades federativas.
+Las bibliotecas deben contar con espacios libres de barreras para usuarios en sillas de ruedas, muletas, aparatos ortopédicos u otros, así como dimensiones especiales para el acceso y uso de los servicios prestados por la misma.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+###### ARTICULO 18.
 
-###### Artículo 9.
+Las bibliotecas de estantería abierta tendrán la separación necesaria a fin de facilitar su uso a personas con discapacidad, principalmente a aquellas que requieran movilizarse en silla de ruedas, aparatos ortopédicos, muletas u otros, de conformidad con las normas oficiales mexicanas.
 
-Son atribuciones del Secretario de Planeación y Finanzas:
+Por lo menos el veinte por ciento del acervo en las bibliotecas públicas deberá estar disponible en el sistema de escritura Braille, y en audio, tomando en consideración criterios de biblioteconomía. Asimismo, se preverá que los acervos digitales estén al alcance de las personas con discapacidad.
 
-I. Establecer las normas para la integración, conservación y actualización de los registros y sistemas de información necesarios para identificar y catalogar los elementos físicos, técnicos, administrativos, geográficos, estadísticos, fiscales, económicos, jurídicos y sociales que conforman el territorio del Estado.
+###### ARTICULO 19.
 
-II. Determinar los procedimientos conforme a los cuales se llevarán a cabo las actividades relativas a la identificación, registro, clasificación y valuación de los predios ubicados en el territorio del Estado.
-
-III. Procurar la equidad y justicia en la determinación de los procedimientos de las actividades catastrales.
-
-IV. Solicitar a las Dependencias, Entidades y Organismos de la Administración Pública Federal, Estatal y Municipal, los documentos e información que sean necesarios para integrar o actualizar el catastro.
-
-V. Suscribir los convenios o contratos inherentes a la actividad catastral, con la Federación, municipios e iniciativa privada, salvaguardando en todo tiempo el interés del Estado.
-
-###### Artículo 10.
-
-Son atribuciones del Subsecretario de Ingresos:
-
-I. Supervisar la determinación del valor catastral de los bienes inmuebles ubicados dentro del territorio del Estado, conforme a la valuación ó actualización de valores que se realicen de los mismos, al tenor de lo dispuesto por las disposiciones legales y reglamentarias de la materia.
-
-II. Aprobar el otorgamiento del registro a los peritos valuadores de bienes inmuebles, previo cumplimiento de los requisitos establecidos en el Reglamento de la Ley de Catastro del Estado de Chiapas, así como verificar la vigencia del registro para validar el ejercicio y función de la actividad valuatoria de los mismos.
-
-III. Designar a los peritos valuadores que se requieran para la formulación y desarrollo de los dictámenes propios del Gobierno del Estado, y que se encuentren relacionados con los asuntos de su conocimiento, competencia y especialidad.
-
-IV. Requerir a los propietarios, poseedores o usufructuarios de bienes inmuebles ubicados en el territorio del Estado, o a sus representantes legales, para que manifiesten la adquisición o modificación de los mismos, acompañando los documentos que señala la Ley de Catastro del Estado de Chiapas y su Reglamento.
-
-V. Supervisar la expedición de documentos catastrales y copias certificadas de los planos y demás, relacionados con los predios ubicados dentro del territorio del Estado.
-
-(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2004)
-
-VI. Imponer las multas a los propietarios, poseedores, usufructuarios o representantes legales de bienes inmuebles, ubicados dentro del territorio Estado; así como a los peritos valuadores por las infracciones de esta Ley.
-
-VII. Establecer los programas en materia catastral; así como vigilar y comprobar, mediante visitas de verificación ó supervisión, el cumplimiento de los mismos conforme a las leyes, reglamentos, acuerdos o circulares que se encuentren en vigor.
-
-VIII. Las demás que las Leyes inherentes le otorguen.
-
-###### Artículo 11.
-
-Son atribuciones del Director de Catastro Urbano y Rural:
-
-I. Dirigir, ordenar y vigilar, el debido cumplimiento de los objetivos del Catastro;
-
-II. Dictar las instrucciones técnicas y administrativas a que deberán sujetarse las operaciones catastrales;
-
-III. Vigilar el desarrollo de las funciones catastrales;
-
-IV. Promover la determinación, actualización y modificación en su caso, de los valores unitarios de terrenos y construcciones;
-
-V. Autorizar con su firma todos los documentos, certificados, planos e informes que se expidan;
-
-VI. Proponer las reformas necesarias a la Legislación Catastral, tendientes al mejoramiento del catastro;
-
-VII. Formular los anteproyectos de convenios en materia catastral.
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
-
-VIII. Coordinar los trabajos para la determinación de los valores unitarios del municipio que lo solicite.
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
-
-IX. Las demás que le confiere el presente ordenamiento, su Reglamento y demás disposiciones relativas.
-
-Los particulares, podrán solicitar aclaraciones a las autoridades catastrales, sobre los actos que estas emitan, dentro de un plazo de seis días hábiles siguientes a aquel que haya tenido conocimiento del acto, debiendo la autoridad resolver en un plazo de quince días hábiles contados a partir de la recepción de la solicitud.
-
-Lo previsto en el párrafo anterior no constituye instancia, no interrumpe o suspende los plazos para que los particulares puedan interponer los medios de defensa.
-
-###### Artículo 12.
-
-La Dirección de Catastro Urbano y Rural, es el órgano administrativo de la Secretaría de Planeación y Finanzas, encargado del cumplimiento de esta Ley, su Reglamento y disposiciones relativas y tendrá bajo su dirección y control, la ejecución general de las actividades catastrales en el Estado, regulando el funcionamiento técnico y administrativo.
-
-###### Artículo 13.
-
-Corresponde a la Dirección de Catastro Urbano y Rural:
-
-I. Integrar, actualizar y conservar los registros catastrales por medio de los sistemas técnicos más apropiados;
-
-II. Practicar los levantamientos catastrales, así como todo lo relacionado con trabajos técnicos sobre la fijación o rectificación de los límites de la propiedad pública y privada en el territorio del Estado;
-
-III. Elaborar, actualizar y conservar los planos catastrales generales y específicos que sean necesarios;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-IV. Registrar oportunamente los predios urbanos, suburbanos y rústicos; así como las modificaciones que se operen en los bienes inmuebles que alteren los datos que integran la inscripción catastral;
-
-V. Practicar la inspección catastral de los bienes inmuebles, mediante su localización, deslinde y mensura, con el objeto de recabar sus elementos físicos, técnicos, fiscales, jurídicos, económicos, sociales y estadísticos;
-
-VI. Establecer la normatividad y regular la realización de los estudios para la determinación o actualización de los valores unitarios de terreno y construcción, para los bienes inmuebles en todo el territorio del Estado;
-
-VII. Determinar el valor de los bienes inmuebles en particular, según sus características, observando las disposiciones que establece esta Ley y su Reglamento, a fin de procurar que su aplicación fiscal sea proporcional y equitativa;
-
-VIII. Determinar los coeficientes de incrementos y deméritos aplicables en la valuación de los bienes inmuebles;
-
-IX. Solicitar y obtener de las Autoridades, Dependencias o Instituciones de carácter Federal, Estatal o Municipal, así como de las personas físicas o morales todos los datos, documentos e informes que sean necesarios para la formación, actualización y conservación del catastro;
-
-X. Notificar los actos y resoluciones de su competencia;
-
-XI. Expedir los documentos o copias certificadas relativos a los bienes inmuebles inscritos en el catastro;
-
-XII. Formular la normatividad técnica a la que se sujetará la actividad catastral y supervisar la realización de las mismas;
-
-XIII. Formular los instructivos necesarios para el desarrollo de las operaciones catastrales;
-
-XIV. Auxiliar en el deslinde y descripción de los perímetros divisorios entre el Estado y las Entidades limítrofes, así como los límites de los municipios que integran al Estado;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-XV. Apoyar a los organismos e instituciones cuyas atribuciones en materia de obras públicas, planificación u otros proyectos requieran de los datos contenidos en el catastro; con apego a la normatividad de la materia;
-
-XVI. Asesorar, previa solicitud y firma de convenio, a los Ayuntamientos en la determinación de los valores unitarios de terrenos y construcciones, y coadyuvar en la definición de tasas, cuotas y tarifas para las contribuciones inmobiliarias, y (sic)
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-XVII. Coadyuvar con las actividades geográficas y geodésicas del Estado con apoyo de la estación base de referencia GPS o Red Geodésica Estatal;
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-XVIII. Las demás que señale esta Ley y su Reglamento.
-
-### Capítulo quinto. De las operaciones catastrales
-
-###### Artículo 14.
-
-Las operaciones catastrales son los actos o procedimientos que conllevan a efectuar la identificación, descripción, mensura, valuación, inscripción, registro y conformación del Sistema de Información Catastral.
-
-###### Artículo 15.
-
-La Dirección de Catastro Urbano y Rural, realizará las operaciones catastrales siguientes:
-
-I. Localización y levantamiento catastral de bienes inmuebles;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-II. Levantamiento topográfico y geodésico;
-
-III. Deslinde catastral;
-
-IV. Elaboración de cartografía;
-
-V. Investigación de las características físicas y socioeconómicas de las regiones, municipios y localidades del Estado, así también del mercado inmobiliario;
-
-VI. Inspección de los bienes inmuebles para recabar o verificar información catastral;
-
-VII. Valuación y actualización de valores de los bienes inmuebles;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-VIII. Georreferenciación y monumentación de coordenadas para fines geodésicos-catastrales, y
-
-IX. Las demás que sean necesarias para la integración, actualización y mejoramiento del Catastro.
-
-###### Artículo 16.
-
-La localización y levantamiento catastral de bienes inmuebles, comprende los trabajos necesarios para determinar las características cuantitativas y cualitativas de los mismos, tales como: ubicación, medidas, colindancias, topografía, perímetros, niveles de construcciones y elementos referenciales.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-El levantamiento topográfico de bienes inmuebles, comprende los trabajos de campo y gabinete necesario para determinar los elementos físicos existentes, tales como linderos, cercos, bardas, drenes, canales, carreteras, postes, etcétera, mediante la medición de ángulos y distancias, los cuales deberán ligarse a puntos del sistema de coordenadas o cualquier otro punto oficial georeferenciado.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-El levantamiento geodésico de bienes inmuebles, comprende los trabajos de campo y gabinete destinado a determinar las coordenadas geodésicas de puntos físicos sobre el terreno, mediante observaciones diferenciales GPS y con relación al sistema de referencia establecido.
-
-### Capítulo Cuarto. De la Dirección de Catastro Urbano y Rural y sus funciones
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 17.
-
-El deslinde catastral, tiene por objeto ratificar, rectificar o aclarar los linderos entre predios colindantes.
-
-La Dirección de Catastro Urbano y Rural, practicará el deslinde catastral, en atención a la solicitud de los interesados, previo pago de los derechos que determine la Ley de Ingresos del Estado vigente, o bien de manera oficial para la actualización de los registros catastrales.
-
-###### Artículo 18.
-
-Con base en los datos obtenidos en la localización, levantamiento, deslinde o inspección catastral, se elaborará la cartografía que se requiera, mediante los procedimientos técnicos que garanticen mayor exactitud, para el conocimiento objetivo de las áreas y características de los bienes inmuebles.
-
-###### Artículo 19.
-
-La Dirección de Catastro Urbano y Rural, efectuará la investigación de las características de las regiones, municipios, localidades del Estado y mercado inmobiliario, para conocer el uso, potencialidad y el valor del suelo, coadyuvando en la implementación de planes, programas, proyectos y acciones para el desarrollo socioeconómico y apoyo en la administración de las contribuciones inmobiliarias.
+La señalización para la identificación de espacios en las bibliotecas, se hará mediante el empleo de placas que contengan números, leyendas, símbolos realzados o rehundidos, en colores contrastantes, con la finalidad de facilitar su localización y lectura.
 
 ###### Artículo 20.
 
@@ -523,670 +333,42 @@ La valuación y actualización de valores catastrales tienen por objeto la deter
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 23.
+## TRANSITORIOS
 
-La Dirección de Catastro Urbano y Rural, sólo podrá previo pago de los derechos correspondientes que determine la Ley de Ingresos del Estado vigente, expedir documentos, planos y copias certificadas relacionados con los bienes inmuebles a:
+PRIMERO. La Ley que se expide, así como los artículos, segundo, y tercero de este Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-I. Su propietario;
+SEGUNDO. Las bibliotecas que bajo el esquema que determina la Ley que se expide, se integren a la Red Estatal de Bibliotecas Públicas, y formen parte de la (sic) ésta última, seguirán dependiendo presupuestal, administrativa y operativamente, de las dependencias o entidades a las que actualmente pertenezcan; y deben atender para su funcionamiento los lineamientos que expida la Coordinación Estatal de Bibliotecas Públicas, de la Secretaría de Educación de Gobierno del Estado.
 
-II. Su poseedor legalmente reconocido;
+TERCERO. El Consejo de la Red Estatal de Bibliotecas Públicas debe integrarse en un plazo máximo de treinta días a la entrada en vigor de esta Ley; y su Reglamento Interior debe expedirse dentro del término de noventa días a partir de su vigencia.
 
-III. Sus representantes legalmente autorizados;
+CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
-IV. Las autoridades administrativas o judiciales, organismos e instituciones, mediante solicitud oficial;
+Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+D A D O en el Salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el treinta de agosto de dos mil doce.
 
-V. Los Notarios Públicos, que con ese carácter intervengan en actos o contratos relacionados con dichos predios, mediante solicitud escrita.
+Diputado Presidente: Pedro Pablo Cepeda Sierra; Diputado Primer Secretario: José Guadalupe Rivera Rivera; Diputado Segundo Secretario: J. Jesús Soni Bulos (Rúbricas).
 
-###### Artículo 24.
+Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
-La Dirección de Catastro Urbano y Rural, podrá notificar a los propietarios, poseedores de predios o sus representantes legales, Notarios Públicos, Peritos Valuadores y Corredores Públicos; los actos y resoluciones de su competencia; en las instalaciones de la propia dependencia, en el predio objeto de la operación o en el domicilio señalado para recibir notificaciones.
+D A D O en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los once días del mes de septiembre de dos mil doce.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+El Gobernador Constitucional del Estado
 
-###### Artículo 25.
+Dr. Fernando Toranzo Fernández
 
-Las resoluciones, documentos y productos catastrales, producirán efectos fiscales y estadísticos, así como para otros fines, cuando lo determine un ordenamiento legal.
+(Rúbrica)
 
-Solo podrán considerarse como elementos jurídicos a juicio de las autoridades correspondientes.
+El Secretario General de Gobierno
 
-### Capítulo Sexto. De la valuación de los bienes inmuebles
+Lic. Cándido Ochoa Rojas
 
-###### Artículo 26.
+(Rúbrica)
 
-Todos los bienes inmuebles ubicados en el territorio del Estado deberán ser valuados en los términos de esta Ley y su Reglamento.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-###### Artículo 27.
+P.O. 15 DE ABRIL DE 2014.
 
-En la valuación se deberán considerar los elementos, características y condiciones de los bienes inmuebles, aplicando los valores unitarios y los coeficientes de incremento y demérito procedentes.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### Artículo 28.
-
-Para la determinación de los valores unitarios de terrenos y construcciones, se deberá efectuar la investigación de los factores que influyen en el valor de los bienes inmuebles y las condiciones del mercado inmobiliario.
-
-Se deberá fijar un valor en moneda nacional por unidad de medida; para terrenos por cada zona, sector, manzana o vialidad y para construcciones por cada clasificación para las diferentes clases de predios.
-
-###### Artículo 29.
-
-Para la determinación o actualización de los valores unitarios de terrenos para bienes inmuebles urbanos, se tomará en cuenta la ubicación, la topografía, los servicios públicos, el equipamiento urbano, las vías de comunicación, la zonificación por uso de los bienes inmuebles, la densidad de construcción, las tendencias del crecimiento urbano y otros factores que puedan influir en los valores unitarios; además, deberán considerarse los valores del mercado inmobiliario.
-
-Los valores unitarios podrán indicarse en planos o tablas con su respectiva numeración catastral, ya sea por zonas homogéneas, valores por manzana, valores de calle, corredores o zonas de valor.
-
-###### Artículo 30.
-
-Los valores unitarios de terrenos para bienes inmuebles rústicos se determinarán o actualizarán tomando en cuenta las características agronómicas, pecuarias y forestales, la ubicación de los centros de abasto y consumo, la topografía, las vías de comunicación, el régimen de tenencia y demás factores que puedan influir en los valores unitarios; además; en los casos que sea conocido, se tomará en cuenta el valor derivado de operaciones de compra - venta.
-
-Los valores podrán indicarse en planos o tablas; ya sea por clasificación de tierras, por zonas homogéneas, corredores o zonas de valor.
-
-###### Artículo 31.
-
-Los terrenos de los bienes inmuebles rústicos se clasificarán como de riego, humedad, temporal, agostadero, cerril, forestal, almacenamiento, extracción y asentamiento humano ejidal o las que por sus características determine la autoridad catastral.
-
-Los criterios para la clasificación de tierras y la definición de las categorías de cada una de ellas deberán indicarse en el Reglamento de esta Ley.
-
-###### Artículo 32.
-
-En el caso de las zonas destinadas a la explotación de recursos minerales o metalúrgicas, la determinación de los valores unitarios se hará tomando en consideración las especificaciones y limitaciones que para el efecto prevengan las leyes federales sobre la materia.
-
-###### Artículo 33.
-
-En el caso de zonas en que predominen los bosques, para la determinación de los valores catastrales unitarios no deberán tomarse en cuenta criterios derivados de la explotación forestal, sino las normas técnicas de valuación de terrenos, sin prescindir de lo dispuesto en el artículo y en las leyes en materia ecológica.
-
-###### Artículo 34.
-
-Los valores unitarios de construcción se determinarán tomando en cuenta la estructura, instalaciones, acabados y materiales empleados, así como el costo de los materiales de construcción y de la mano de obra; aplicando tabuladores vigentes de precios unitarios de instituciones y dependencias oficiales.
-
-Los valores unitarios se indicarán para cada una de las clasificaciones de construcción, en tablas por cada localidad o localidades de cada municipio.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-Para fines distintos de los fiscales, se podrán aplicar los costos indirectos al valor unitario de las construcciones, que se hayan edificado cumpliendo la normatividad de la materia.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 35.
-
-La Dirección de Catastro Urbano y Rural, deberá efectuar de manera permanente el estudio de los valores unitarios de terrenos y construcciones, de acuerdo a los factores que influyan en su determinación, manteniéndolos actualizados para los efectos procedentes.
-
-Para fines fiscales se deberán utilizar los valores unitarios vigentes para terrenos y construcciones, aprobados por el Congreso del Estado y publicados en el Periódico Oficial del Estado, con excepción de los casos previstos en los Artículos 44 y 48 de esta Ley.
-
-Para los fines distintos de los fiscales, se podrán aplicar valores unitarios comerciales; para el caso de terrenos, deberá sustentarse con investigación de mercado.
-
-###### Artículo 36.
-
-Las construcciones se clasificarán de acuerdo con su tipo y calidad. Por su tipo pueden ser: antigua, moderna, industrial y especial. Por su calidad pueden ser: corriente, económica, mediana y superior.
-
-Los criterios para la definición de cada clasificación de construcción se indicarán en el Reglamento de esta Ley.
-
-###### Artículo 37.
-
-La Dirección de Catastro Urbano y Rural, determinará los coeficientes de incremento y demérito que se utilizarán para modificar los valores catastrales unitarios, de acuerdo a las condiciones ventajosas o desfavorables de los predios; debiendo revisarlos y ajustarlos cuando lo considere pertinente.
-
-El Ejecutivo del Estado, publicará los coeficientes de incremento y demérito en el Periódico Oficial del Estado, para los efectos correspondientes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 38.
-
-Los ayuntamientos podrán presentar para opinión de la Dirección de Catastro Urbano y Rural, las propuestas de valores unitarios durante los meses de julio y agosto para que ésta haga las observaciones y éstos en su caso procedan a realizar las adecuaciones correspondientes, a más tardar en el mes de septiembre.
-
-La Dirección de Catastro Urbano y Rural, podrá opinar en todo tiempo la elaboración de las propuestas de valores unitarios.
-
-###### Artículo 39.
-
-Los valores unitarios de terrenos y construcciones equiparables a valores de mercado deberán ser propuestos y remitidos por los Ayuntamientos al Congreso del Estado para su aprobación, pudiendo en su caso acompañarlo de la opinión de la Dirección de Catastro Urbano y Rural, del cumplimiento de la normatividad sobre la materia.
-
-(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2004)
-
-Cuando un Ayuntamiento omita la presentación de su propuesta, la Dirección de Catastro Urbano y Rural la podrá elaborar a solicitud del Congreso del Estado.
-
-###### Artículo 40.
-
-El valor de los bienes inmuebles se determinará, en su caso, con los siguientes elementos:
-
-I. El valor del terreno;
-
-II. El valor de las construcciones;
-
-III. El valor de las instalaciones;
-
-IV. El valor de los bienes distintos a la tierra.
-
-###### Artículo 41.
-
-El valor catastral de un predio tendrá vigencia durante el ejercicio fiscal en que se determine, en tanto no esté en los supuestos del artículo 44.
-
-###### Artículo 42.
-
-La cédula - avalúo tendrá una vigencia de seis meses, contados a partir de la fecha de su expedición.
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
-
-###### Artículo 42-A.
-
-Para efectos de las operaciones traslativas de dominio de bienes inmuebles se deberá considerar invariablemente el valor emitido por la autoridad catastral o por los peritos autorizados por la Dirección de Catastro Urbano y Rural.
-
-###### Artículo 43.
-
-El avalúo emitido por perito valuador, tendrá una vigencia de seis meses, contados a partir de la fecha de su determinación.
-
-###### Artículo 44.
-
-El valor catastral de los bienes inmuebles, deberá actualizarse en los siguientes casos:
-
-I. Cuando concluya su vigencia;
-
-II. Cuando el bien inmueble sufra un cambio físico que afecte su valor;
-
-III. Cuando se fusionen, subdividan o sean motivo de fraccionamiento;
-
-IV. Cuando en el bien inmueble se hagan construcciones, ampliaciones, reconstrucciones, adaptaciones, modificaciones o demoliciones en las construcciones ya existentes;
-
-V. Cuando una construcción tenga más de un año en proceso de edificación o sea ocupada sin terminar;
-
-VI. Cuando por la ejecución de obras públicas o privadas, se altere el valor de los bienes inmuebles directamente afectados, así como en su zona de influencia, determinados por las dependencias del ramo competente;
-
-VII. Cuando se tengan los elementos técnicos necesarios y el avalúo existente se haya hecho en los términos del artículo 48 de esta Ley, aún cuando no haya transcurrido su vigencia;
-
-VIII. Cuando la totalidad o partes del bien inmueble sea objeto de traslado de dominio, u otra causa que modifique su régimen de tenencia;
-
-IX. Cuando lo solicite la autoridad municipal donde se ubique el bien inmueble, con fundamento en la Ley Fiscal respectiva y de acuerdo a los convenios suscritos;
-
-X. Cuando lo solicite el propietario, poseedor, usufructuario o el representante legal de estos, de acuerdo con lo establecido en la presente Ley;
-
-XI. Cuando por cualquier motivo se modifiquen las características jurídicas o económicas que afecten su valor, a juicio de las autoridades catastrales.
-
-###### Artículo 45.
-
-Las construcciones de tipo especial o que por sus características fuera de lo común, no estén contenidas dentro de las clasificaciones establecidas, la autoridad catastral determinará el valor de las mismas tomando como referencia los tabuladores de precios unitarios de las dependencias o instituciones oficiales aprobados para la ejecución de la obra pública. En todo caso, el valor deberá ser equiparable al de mercado.
-
-###### Artículo 46.
-
-Para las edificaciones constituidas bajo régimen de propiedad en condominio, deberá fijarse el valor para cada uno de los departamentos, despachos, o cualquier otro tipo de locales, comprendiéndose en la valuación la parte proporcional de los bienes comunes o indivisos, de conformidad con lo que establece esta Ley y los ordenamientos relativos.
-
-###### Artículo 47.
-
-En los casos de bienes inmuebles que no estén registrados en la Dirección de Catastro Urbano y Rural, por causa imputable al propietario, poseedor, usufructuario o representante legal de estos; deberán valuarse de acuerdo con la situación que guarden en la fecha de su registro.
-
-###### Artículo 48.
-
-La Dirección de Catastro Urbano y Rural, podrá determinar valores provisionales, en los siguientes casos:
-
-I. Cuando el propietario, poseedor, usufructuario, administrador de bienes raíces o cualquier otra persona encargada de un bien inmueble, no proporcione los datos, informes y documentos que le soliciten o no permita el acceso al interior del mismo, para su inspección catastral a los verificadores o inspectores debidamente autorizados para el efecto;
-
-II. Cuando no se cuente con todos los elementos necesarios, debido a la falta de estudio técnico catastral de la zona o localidad que se trate.
-
-En ambos casos, con base en los elementos disponibles, se estimará el valor provisional del bien inmueble de manera razonable con el valor que a la fecha se observe en el mercado inmobiliario, mientras se recaban los datos, informes y documentos necesarios o se efectúa el estudio técnico respectivo.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 49.
-
-La Dirección de Catastro Urbano y Rural, está facultada para la elaboración de avalúos de los bienes inmuebles ubicados en el territorio del Estado, los cuales se utilizarán como base gravable para el cobro de las contribuciones inmobiliarias; para la adquisición, desincorporación o arrendamiento de inmuebles por parte de las dependencias y entidades de la administración pública estatal y municipal, según proceda; la indemnización a expropiaciones por causa de utilidad pública y la liberación del derecho de vía para la construcción de vialidades terrestres, entre otros.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-###### ARTÍCULO 50.
-
-La Autoridad Catastral, podrá delegar la facultad para la elaboración de avalúos para operaciones traslativas de dominio de bienes inmuebles, a los peritos valuadores con registro ante la Secretaría de Planeación y Finanzas, que garanticen un eficaz y honesto desempeño, debiendo cumplir la normatividad indicada por la Dirección de Catastro Urbano y Rural, la cual verificará el debido cumplimiento.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-En casos excepcionales, la Autoridad Catastral podrá autorizar por escrito a los peritos valuadores revalidados para que efectúen avalúos con fines distintos a los de traslado de dominio.
-
-Son obligaciones de los Peritos Valuadores con registro ante la Secretaría de Planeación y Finanzas las siguientes:
-
-I. Acudir personalmente al predio e inspeccionar directamente el bien inmueble cuyo avalúo formulará.
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-II. Establecer oficina en el lugar autorizado para ejercer la función de perito valuador, para la debida atención de los interesados debiendo anunciar su especialidad y número de registro.
-
-III. Cumplir con legalidad y honradez el ejercicio de su actividad.
-
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2004)</small>
-
-IV. Observar en todo caso cualquier disposición normativa que dicte la Secretaría de Planeación y Finanzas a través de la Dirección de Catastro Urbano y Rural.
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-V. Presentar ante las Oficinas Catastrales sus avalúos dentro de los quince días siguientes, a partir de la fecha de elaboración.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 51.
-
-La Secretaría de Planeación y Finanzas, a través de la Dirección de Catastro Urbano y Rural, deberá expedir y revalidar el registro de los peritos valuadores de bienes inmuebles, controlar y verificar la veracidad de los datos asentados en los avalúos elaborados, evaluar el desempeño de los peritos y en su caso, aplicar las sanciones procedentes, suspender o cancelar el registro, de acuerdo con esta Ley y su Reglamento.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 52.
-
-La Dirección de Catastro Urbano y Rural, tendrá en cualquier tiempo la atribución para verificar las características de los bienes inmuebles, revisar y en su caso ratificar o rectificar el valor de los mismos.
-
-### Capítulo Séptimo. De los Fraccionamientos y Condominios
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 53.
-
-Las personas físicas o morales que pretendan llevar a cabo el fraccionamiento, lotificación o relotificación, de bienes inmuebles, así como la constitución del Régimen de Propiedad en Condominio, deberán solicitar a la Dirección de Catastro Urbano y Rural, el deslinde catastral del predio o predios en que se ubiquen y las Reglas para establecer la numeración de lotes o unidades de propiedad en condominio.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 54.
-
-Las autoridades competentes deberán comunicar por escrito a la Dirección de Catastro Urbano y Rural, la aprobación de los proyectos de fraccionamientos o condominios que, en los términos de la Ley respectiva, le hayan sido presentados. Esta comunicación deberá hacerse dentro del término de los quince días siguientes a la fecha en que se hubiese dado la aprobación de los proyectos y deberá acompañarse del permiso y de los planos aprobados; así como cualquier modificación que se autorice a los proyectos aprobados con anterioridad.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 55.
-
-Concluidas las obras de urbanización del fraccionamiento o edificación de condominio, las autoridades competentes, comunicarán por escrito a la Dirección de Catastro Urbano y Rural, dentro del término de quince días.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-###### Artículo 56.
-
-Para el registro catastral de los predios resultantes, las personas físicas o morales que hayan construido fraccionamientos o condominios, deberán presentar el aviso de terminación de las obras de urbanización señalado en el artículo anterior, además de los requisitos establecidos en el Reglamento de esta Ley.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 57.
-
-La Dirección de Catastro Urbano y Rural determinará el valor del área lotificada y comercial del fraccionamiento o la unidad en condominio, expidiendo al interesado la cédula-avalúo respectiva, dando aviso al H. Ayuntamiento para efectos del cobro del impuesto correspondiente.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 58.
-
-Efectuado lo dispuesto por el artículo anterior y previo pago de los derechos contemplados en la Ley de Ingresos del Estado vigente, en un plazo de treinta días hábiles se devolverá al propietario del fraccionamiento o condominio, un tanto del plano con las claves asignadas, los documentos en que se indiquen los valores asignados y la cédula-avalúo o cédula catastral por cada lote del fraccionamiento o cada unidad de propiedad en condominio; siempre que el solicitante cumpla oportunamente con los requisitos establecidos en el reglamento de esta ley.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 59.
-
-En los casos de los fraccionamientos o condominios, que se desarrollen total o parcialmente sin la autorización respectiva, y que la Dirección de Catastro Urbano y Rural tenga conocimiento, comunicará de inmediato a las autoridades competentes para que se apliquen a los infractores las sanciones que sean procedentes y se tomen las medidas que la propia autoridad determine.
-
-###### Artículo 60.
-
-Los propietarios de fraccionamientos o condominios no podrán celebrar contratos de compraventa, de promesa de venta, de venta con reserva de dominio o cualquier otro acto traslativo de dominio, en tanto no hayan cumplido con las disposiciones establecidas en la presente Ley y su Reglamento y demás disposiciones sobre desarrollo urbano establecidas en las Leyes y Reglamentos sobre la materia.
-
-Los Fedatarios Públicos no autorizarán las escrituras de los actos señalados anteriormente y las autoridades competentes no las inscribirán. De celebrarse dichos contratos, éstos serán considerados nulos de pleno derecho, independientemente de la aplicación de las sanciones que procedan.
-
-### Capítulo Octavo. De los Servicios Catastrales
-
-###### Artículo 61.
-
-Los servicios que presta la Dirección de Catastro Urbano y Rural, son los siguientes:
-
-I. Expedición de Cédula-Avalúo;
-
-II. Expedición de cédula catastral;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-III. Verificación de avalúo efectuado por perito valuador autorizado por la Secretaria de Planeación y Finanzas;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-IV. Dictamen de avalúo efectuado por perito valuador autorizado por la Secretaria de Planeación y Finanzas;
-
-V. Expedición de constancias catastrales;
-
-VI. Expedición de copias simples de escritura o título de propiedad o documento con el que se registro catastralmente el bien inmueble por hoja;
-
-VII. Expedición de copia certificada de escritura o título de propiedad o documento con el que se registro catastralmente el bien inmueble por hoja;
-
-VIII. Cambio de clave o número de registro catastral por causas imputables al propietario, poseedor o usufructuario;
-
-IX. Expedición de padrones de predios a sus propietarios y Ayuntamientos;
-
-X. Expedición de plano catastral de predios que figuren en el registro gráfico, a escala solicitada;
-
-XI. Expedición de planos catastrales de localidades;
-
-XII. Certificación de planos topográficos presentados, incluyendo verificación de campo;
-
-XIII. Levantamiento y elaboración de planos topográficos;
-
-XIV. Deslinde y elaboración de planos catastrales;
-
-XV. Información de coordenadas geográficas de puntos monumentados de la red geodésica estatal;
-
-XVI. Información de la lectura de la estación base para corrección diferencial GPS;
-
-XVII. Establecimiento de puntos monumentados GPS;
-
-XVIII. Registro catastral de fusión de bienes inmuebles;
-
-XIX. Registro catastral de subdivisión de bienes inmuebles, y
-
-XX. Otros servicios catastrales autorizados por la Dirección de Catastro Urbano y Rural.
-
-Para la obtención de estos servicios, los solicitantes deberán cumplir con los requisitos establecidos en el Artículo 23 de esta Ley y su Reglamento, previo pago de derechos señalados en la Ley de Ingresos del Estado.
-
-### Capítulo Noveno. De las obligaciones
-
-###### Artículo 62.
-
-Todos los propietarios o poseedores de bienes inmuebles ubicados en el Estado o sus representantes legales, tienen la obligación de manifestarlos a la Dirección de Catastro Urbano y Rural, en los formatos autorizados para tal efecto, en el término de treinta días naturales a partir de la fecha de adquisición o posesión.
-
-No se exime de la obligación anterior a los que, por disposiciones de las leyes fiscales, estén exentos del pago del Impuesto Predial.
-
-###### Artículo 63.
-
-Los propietarios o poseedores de bienes inmuebles ubicados en el Estado, o sus representantes legales, tienen la obligación de manifestar también cualquier modificación que se realice, tales como nuevas construcciones, modificaciones, ampliaciones, reconstrucciones, adaptaciones o demoliciones de construcciones ya existentes, así como fusiones, subdivisiones, fraccionamiento del bien inmueble o cambio en el régimen de propiedad.
-
-Lo anterior en el término de treinta días naturales a partir de la fecha de modificación.
-
-###### Artículo 64.
-
-A la manifestación a que se refieren los artículos anteriores, deberán anexarse los siguientes documentos, de conformidad a los casos específicos establecidos en el Reglamento de esta Ley:
-
-I. Copia de la escritura, título o documento que ampare la propiedad o posesión del bien inmueble, con sus datos de inscripción en el Registro Público de la Propiedad y del Comercio. La posesión de buena fé deberá acreditarse conforme lo establece el Código Civil del Estado;
-
-II. Cédula catastral, de fecha concurrente con el documento que ampare la propiedad o posesión legalmente reconocida; inclusive deberán presentar las posesiones de buena fe que estén inscritas en el catastro;
-
-III. Plano o Croquis del bien inmueble, conforme se establece en el Reglamento que esta Ley señale;
-
-IV. Copia del comprobante de pago del Impuesto Predial, vigente;
-
-V. Copia de la autorización de fraccionamiento, fusiones y subdivisiones de bienes inmuebles o constitución del régimen de propiedad en condominio, expedida por la autoridad competente, en los casos que se deriven de estos actos.
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-VI. Los establecidos en el artículo 45 del Reglamento de esta Ley.
-
-###### Artículo 65.
-
-Cuando en las manifestaciones catastrales de un bien inmueble se expresen datos incorrectos, incompletos o no se anexen los documentos o planos requeridos, la Dirección de Catastro Urbano y Rural dará un plazo de quince días hábiles para que se corrija la omisión.
-
-###### Artículo 66.
-
-Cuando se detecte un bien inmueble no manifestado, la Dirección de Catastro Urbano y Rural, procederá en los términos y procedimientos que fija esta Ley y su Reglamento, la cual será a costa del propietario o poseedor del inmueble, sin perjuicio de imponer las sanciones que procedan.
-
-###### Artículo 67.
-
-Los Notarios, Corredores Públicos y en general todos aquellos funcionarios que dan fé pública, en los casos de operaciones de traslación de dominio, modificaciones o correcciones sobre bienes inmuebles ubicados en la Entidad; deberán requerir a los interesados la cédula catastral o cédula - avalúo vigente.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
-
-En la escritura pública o instrumento que formulen deberán de asentar la clave o número de registro catastral del bien inmueble de que se trate, obteniéndola de la cédula catastral o cédula avalúo.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-Debiendo asentar invariablemente los datos contemplados por la Ley del Notariado del Estado de Chiapas.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 68.
-
-La omisión de lo establecido en el artículo anterior, será suficiente para que no se efectúe la traslación de dominio, inscripción, modificación o corrección de los registros.
-
-###### Artículo 69.
-
-Los Notarios Públicos, Corredores Públicos o cualquier otro funcionario que tenga fé pública, que intervengan en el otorgamiento de contratos que transmitan o modifiquen el dominio directo de un bien inmueble tienen la obligación de manifestar por escrito a la Dirección de Catastro Urbano y Rural, en los formatos oficiales respectivos, el tipo de operaciones que con su intervención se hubieren realizado, dentro de los 30 días naturales siguientes a la fecha de los contratos.
-
-Tratándose de particulares cuyas operaciones consten en documentos privados los avisos deberán presentarse dentro de los 30 días naturales siguientes a la fecha de la operación respectiva.
-
-###### Artículo 70.
-
-Las autoridades municipales deberán enviar a la Dirección de Catastro Urbano y Rural, avisos de terminación de obras con copias de planos arquitectónicos de las licencias otorgadas para nuevas construcciones, ampliaciones, remodelaciones y la constitución del régimen de propiedad en condominio y en los casos de fraccionamiento anexar el plano de lotificación debidamente autorizado, dentro de los treinta días naturales siguientes.
-
-###### Artículo 71.
-
-Las dependencias y entidades oficiales que conozcan o autoricen actos que modifiquen la situación de los bienes inmuebles de la Entidad, están obligados a manifestarlos a la Dirección de Catastro Urbano y Rural, en la forma y términos que establece esta Ley, dentro de los treinta días naturales siguientes.
-
-###### Artículo 72.
-
-Las Autoridades Judiciales están obligadas a dar aviso a la Dirección de Catastro Urbano y Rural, de todas las resoluciones que causen ejecutoria en las que se traslade el dominio de bienes inmuebles, dentro los treinta días naturales siguientes a la fecha en que se dicten.
-
-###### Artículo 73.
-
-La Dirección de Catastro Urbano y Rural, deberá efectuar invariablemente la verificación de los datos manifestados, mediante inspección a los bienes inmuebles que se inscriben al catastro por vez primera y de aquellos que difieran a los contenidos en los registros catastrales con anterioridad.
-
-###### Artículo 74.
-
-Derivado de las manifestaciones recibidas, la Dirección de Catastro Urbano y Rural, formulará la nueva cédula catastral del predio correspondiente.
-
-También se expedirá la cédula catastral para los predios, cuyos propietarios o poseedores hayan omitido presentar la manifestación correspondiente.
-
-###### Artículo 75.
-
-Todos los propietarios y poseedores legalmente reconocidos deberán contar con la cédula catastral que identifique y compruebe la inscripción de sus predios en el catastro.
-
-###### Artículo 76.
-
-Para efectos de trámites, ante dependencias y entidades de la administración pública federal, estatal y municipal, la cédula catastral tendrá una vigencia de seis meses a partir de la fecha en que se expida.
-
-La expedición de una nueva cédula catastral, dejará sin efecto a las expedidas anteriormente.
-
-###### Artículo 77.
-
-Para cualquier trámite ante la Dirección de Catastro Urbano y Rural, relacionado con un bien inmueble que figure en los registros catastrales, será indispensable la presentación de la cédula-avalúo o cédula catastral, independientemente de su vigencia.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-###### Artículo 78.
-
-Para los efectos de su inscripción en el Registro Público de la Propiedad y del Comercio del Estado, el contrato relativo a un predio deberá acompañarse de la cédula catastral o cédula-avalúo, vigente a la fecha del contrato.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 79.
-
-El Registro Público de la Propiedad y del Comercio, tiene la obligación de remitir a la Dirección de Catastro Urbano y Rural, dentro del mes siguiente al de su inscripción, una relación de los documentos registrados durante el mes inmediato anterior, relativos a los actos relacionados con el dominio de bienes inmuebles.
-
-###### Artículo 80.
-
-Los propietarios, poseedores o inquilinos o cualquier otra persona encargada de un bien inmueble, están obligados a proporcionar a los empleados de la Dirección de Catastro Urbano y Rural debidamente autorizados para el efecto, los datos o informes que les soliciten, así como permitirles el acceso al interior de los mismos y a dar toda clase de facilidades para la realización de las operaciones catastrales.
-
-### Capítulo Décimo. De las Infracciones y Sanciones
-
-###### Artículo 81.
-
-Son infracciones a la presente Ley y su Reglamento:
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-I. Omitir o no presentar en el plazo estipulado avalúos, documentos, declaraciones, manifestaciones o avisos indicados en la presente Ley y su Reglamento;
-
-II. No colaborar con las autoridades catastrales en el desempeño de sus labores, teniendo la obligación de hacerlo;
-
-III. Rehusar mostrar o proporcionar títulos, planos, contratos, constancias, o cualquier otro documento o información que solicite el personal autorizado para practicar las operaciones catastrales, con el objeto de conocer o actualizar las características reales del bien inmueble o datos adicionales de éste;
-
-IV. No permitir o interferir la ejecución de las operaciones catastrales;
-
-V. Celebrar contratos de compraventa, de promesa de venta, de venta con reserva de dominio o cualquier otro acto traslativo de dominio de fraccionamientos o condominios en tanto no cumplan con las obligaciones establecidas en el presente ordenamiento;
-
-VI. Autorizar escrituras, en contravención a las disposiciones de la presente Ley y su Reglamento;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-VII. Consignar datos falsos o dolosamente alterados en los avalúos, manifestaciones, avisos o declaraciones;
-
-VIII. El perjuicio al catastro, al fisco estatal o municipal, así como a propietarios o poseedores de bienes inmuebles, causados por servidores públicos;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-IX. No observar la normatividad valuatoria establecida en esta Ley y su Reglamento, en el caso de los Peritos Valuadores;
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-X. Revalidar extemporáneamente, el registro de Perito Valuador.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-Los Peritos Valuadores de Bienes Inmuebles con registro de la Secretaría de Planeación y Finanzas, se asimilan al concepto de Servidores Públicos y por ende sujetos a la Ley de Responsabilidades, independientemente de lo preceptuado en esta Ley;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-XI. Elaborar avalúos sin haber obtenido el registro definitivo, una vez concluida la vigencia del permiso provisional o sin estar revalidado el registro de perito valuador;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-XII. No establecer Oficina en el lugar asignado al otorgársele el registro de perito valuador.
-
-###### Artículo 82.
-
-Las personas físicas o morales que incurran en las infracciones enumeradas en el artículo anterior, les serán aplicadas las siguientes sanciones:
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-I. De diez a quince días de salario mínimo vigente en el Estado, por contravenir lo establecido en las fracciones II y III, y tratándose de la fracción I por cada avalúo, documento, declaración, manifestación, aviso o información omitida;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-II. De veinte a treinta días de salario mínimo diario vigente en el Estado, por contravenir lo dispuesto en las fracciones IV y V;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-III. De cincuenta a sesenta días de salario mínimo diario vigente en el Estado, a quienes no se apeguen a lo dispuesto en las fracciones VI y VII, sin perjuicio de las sanciones penales, fiscales o de otro carácter;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-IV. De cincuenta a sesenta días de salario mínimo diario vigente en el Estado, a los peritos valuadores, que se encuentren en el supuesto de las fracciones VIII, X y XII; y por cada avalúo indicado en las fracciones IX y XI;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-V. A los servidores públicos infractores de la fracción VIII, les serán aplicables las sanciones contenidas en la Ley de Responsabilidades de los Servidores Públicos;
-
-Independientemente de lo establecido en la fracción IV, a los peritos valuadores se aplicarán las siguientes sanciones administrativas:
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-VI. Amonestación por escrito, en una falta leve en el ejercicio valuatorio;
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-VII. Suspensión del registro por un tiempo de seis meses, en los casos siguientes:
-
-a) Por no desempeñar personalmente sus funciones.
-
-b) Consignar datos falsos, en los avalúos realizados.
-
-c) Por reincidencias en faltas leves;
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-VIII. Cancelación definitiva del registro:
-
-a) Por reincidir en los actos que hayan motivado una suspensión temporal.
-
-b) Por renuncia.
-
-c) Por la revelación injustificada y dolosa de datos.
-
-d) Cuando hubiere obtenido su inscripción en el registro de peritos proporcionando datos falsos.
-
-e) En caso de inhabilitación por decisión judicial.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-En los casos de residencia se aplicaran las sanciones máximas que en este artículo se establecen.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
-
-###### Artículo 82-A.
-
-Independientemente de lo establecido en el artículo anterior, a los peritos valuadores se aplicarán las siguientes sanciones administrativas:
-
-I. Amonestación por escrito, en una primera falta en el ejercicio valuatorio.
-
-II. Suspensión temporal del registro por un tiempo de cinco a siete meses, en los casos siguientes:
-
-a) No desempeñar personalmente sus funciones.
-
-b) Presentar datos falsos en los avalúos que realice.
-
-III. Baja del registro:
-
-a) Por renuncia.
-
-b) En casos de resolución judicial.
-
-c) Por no revalidar el registro durante dos años consecutivos
-
-Aquellos profesionistas a los que les sea dado de baja el registro de perito valuador, podrán solicitarla nuevamente cumpliendo los requisitos que establece esta Ley y su Reglamento.
-
-IV. Cancelación definitiva del registro, en los casos siguientes:
-
-a) Por reincidir en los actos que hayan motivado una suspensión temporal.
-
-b) Por la revelación injustificada y dolosa de datos.
-
-c) Cuando hubiere obtenido su inscripción en el Registro de peritos proporcionando datos falsos.
-
-Aquellos profesionistas a los que les sea cancelado el registro definitivo de perito valuador quedan inhabilitados para volver a obtener el registro ante esta Secretaría.
-
-###### Artículo 83.
-
-Se consideran infractoras de esta Ley a las personas físicas o morales que utilicen información, ejerzan funciones o realicen actividades relativas al catastro sin consentimiento de la autoridad catastral del Estado.
-
-En este caso se presentará la denuncia correspondiente ante las autoridades competentes.
-
-### Capítulo Décimo Primero. Del Recurso Administrativo de Revocación
-
-###### Artículo 84.
-
-Los propietarios o poseedores legalmente reconocidos, de bienes inmuebles ubicados en el territorio del Estado, podrán interponer por si o por conducto de sus representantes legales, el recurso de revocación que establece el Código de la Hacienda Pública para el Estado de Chiapas, en contra de los actos emitidos por las autoridades catastrales.
-
-###### Artículo 85.
-
-El recurso de revocación procederá contra los siguientes actos:
-
-I. Error en la determinación de las medidas del bien inmueble que hayan servido para establecer el valor catastral;
-
-II. Error en la clasificación de las características físicas y ubicación del terreno o de las características y atributos físicos de la construcción;
-
-III. Error en la aplicación de los valores unitarios que sirvieron de base para la determinación del valor catastral;
-
-IV. Omisión o error en la aplicación de los coeficientes de demérito o incremento que señala esta Ley y su Reglamento;
-
-V. Cualquier otro error u omisión que afecte la valuación o datos del registro del bien inmueble.
-
-### Capítulo Décimo Segundo. De los convenios en materia catastral
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 86.
-
-El Gobierno del Estado, por conducto de la Secretaría de Planeación y Finanzas, podrá celebrar Convenios de Coordinación o Colaboración Administrativa con los Ayuntamientos para realizar acciones conjuntas que propicien el desarrollo de las actividades catastrales y el uso compartido de la información.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 87.
-
-La Secretaría de Planeación y Finanzas, a través de la Dirección de Catastro Urbano y Rural, previa solicitud de los Ayuntamientos y mediante convenio, podrá formular el proyecto de valores unitarios de terrenos y construcciones, y coadyuvar a la adecuación de las cuotas, tarifas y tasas de las contribuciones inmobiliarias, las cuales entregará al Ayuntamiento correspondiente, a efecto de que si lo considera pertinente las presente al H. Congreso del Estado, para su aprobación.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-###### Artículo 88.
-
-Los convenios a que se refiere (sic) los artículos anteriores, deberán contemplar entre otros aspectos, el importe que por servicios se establezcan y su vigencia, sin menoscabo de las atribuciones y obligaciones de las partes que intervienen.
-
-Transitorios:
-
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Se abroga la Ley de Catastro del Estado de Chiapas, publicada en el Periódico Oficial del Estado numero 11 de fecha 30 de enero de 1987.
-
-TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
-
-CUARTO.- A la entrada en vigencia de la presente Ley quedan sin efecto los convenios en materia catastral suscritos por el Ejecutivo del Estado y los municipios.
-
-QUINTO.- El Titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de esta Ley, en un plazo no mayor de 90 días contados a partir de la entrada en vigor de la presente Ley.
-
-El Ejecutivo del Estado dispondrá se publique, circule y se le dé él debido cumplimiento.
-
-Dado en el salón de sesiones del H. Congreso del Estado Libre y Soberano de Chiapas, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los veinte días del mes de Diciembre del año dos mil dos.- D. P. C. Víctor Hugo Ruiz Guillén. - D. S. C. Rodolfo Martínez Morales.- Rúbricas.
-
-De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veintitrés días del mes de diciembre del año dos mil dos.
-
-Pablo Salazar Mendiguchía, Gobernador del Estado.- Emilio Zebadúa González, Secretario de Gobierno.- Evelio Rojas Morales.- Secretario de Hacienda.- Rúbricas.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 19 DE DICIEMBRE DE 2003.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
