@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bibliotecas-del-estado-y-municipios-de-san-luis-89500"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2012-09-13"
+last_updated: "2014-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre de 2012.
 
@@ -67,23 +67,49 @@ II. Biblioteca Central del Estado: institución que por su magnitud y diversidad
 
 III. Biblioteca pública: todo establecimiento que contenga un acervo de carácter general superior a quinientos títulos, catalogados y clasificados, y que se encuentren destinados a atender en forma gratuita a toda persona que solicite la consulta o préstamo del mismo, en los términos de las normas administrativas aplicables;
 
-IV. Bibliotecario: encargado de una biblioteca pública en el Estado o municipios de San Luis Potosí, que cuenta con la acreditación de cursos correspondientes o licenciatura en biblioteconomía o carrera afín;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-V. Catálogo: conjunto de tarjetas, cada una de las cuales contiene la información que describe las características fundamentales de las obras de la biblioteca. Se clasifica en cinco partes, autor, título, materia, topográfico, y adquisiciones; los dos últimos sólo para uso interno;
+IV. Biblioteca Móvil: biblioteca pública pronosticada para poder trasladarla continuamente a distintas zonas de la Entidad, ante la ausencia de una biblioteca permanente;
 
-VI. Colección especial: acervo bibliográfico, hemerográfico o de material de archivo que por su antigüedad, temática, rareza, riqueza, etcétera, merece tratamiento y uso diferente al de los materiales que forman parte de colecciones generales;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-VII. Coordinación Estatal de Bibliotecas Públicas: órgano dependiente de la Secretaría de Educación de Gobierno del Estado, instituido con el fin de coordinar el funcionamiento de la Red Estatal de Bibliotecas Públicas, en cumplimiento de las obligaciones que establece al Estado, la Ley General de Bibliotecas, y las que deriven de los convenios de coordinación con los gobiernos federal, y municipales;
+V. Bibliotecario: encargado de una biblioteca pública en el Estado o municipios de San Luis Potosí, que cuenta con la acreditación de cursos correspondientes o licenciatura en biblioteconomía o carrera afín;
 
-VIII. Dirección General de Bibliotecas (DGB): institución dependiente del Consejo Nacional para la Cultura y las Artes, que tiene sustento jurídico en la Ley General de Bibliotecas, y opera a nivel federal la Red Nacional de Bibliotecas Públicas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-IX. Fomento al hábito de la lectura: programa permanente de las bibliotecas públicas, diseñado para introducir a niños, jóvenes y adultos, en la lectura recreativa y fortalecer su vida cultural;
+VI. Catálogo: conjunto de tarjetas, cada una de las cuales contiene la información que describe las características fundamentales de las obras de la biblioteca. Se clasifica en cinco partes, autor, título, materia, topográfico, y adquisiciones; los dos últimos sólo para uso interno;
 
-X. Ley General de Bibliotecas: documento normativo que tiene por objeto la distribución y coordinación entre los gobiernos Federal, estatales, y municipales, de la función educativa y cultural que se lleve a cabo mediante el establecimiento, sostenimiento y organización de bibliotecas públicas; y establece las normas básicas para la configuración de la Red Nacional de Bibliotecas Públicas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-XI. Red Nacional de Bibliotecas: conjunto de bibliotecas públicas que operan a nivel nacional, coordinada por la Dirección General de Bibliotecas dependiente del Consejo Nacional para la Cultura y las Artes, y
+VII. Colección especial: acervo bibliográfico, hemerográfico o de material de archivo que por su antigüedad, temática, rareza, riqueza, etcétera, merece tratamiento y uso diferente al de los materiales que forman parte de colecciones generales;
 
-XII. Usuario: persona física o moral que acude a la biblioteca pública a solicitar cualquiera de los servicios que en ella se prestan; es el actor principal de la biblioteca y constituye, la razón de nuestra misión y visión.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+VIII. Coordinación Estatal de Bibliotecas Públicas: órgano dependiente de la Secretaría de Educación de Gobierno del Estado, instituido con el fin de coordinar el funcionamiento de la Red Estatal de Bibliotecas Públicas, en cumplimiento de las obligaciones que establece al Estado, la Ley General de Bibliotecas, y las que deriven de los convenios de coordinación con los gobiernos federal, y municipales;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+IX. Dirección General de Bibliotecas (DGB): institución dependiente del Consejo Nacional para la Cultura y las Artes, que tiene sustento jurídico en la Ley General de Bibliotecas, y opera a nivel federal la Red Nacional de Bibliotecas Públicas;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+X. Fomento al hábito de la lectura: programa permanente de las bibliotecas públicas, diseñado para introducir a niños, jóvenes y adultos, en la lectura recreativa y fortalecer su vida cultural;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+XI. Ley General de Bibliotecas: documento normativo que tiene por objeto la distribución y coordinación entre los gobiernos Federal, estatales, y municipales, de la función educativa y cultural que se lleve a cabo mediante el establecimiento, sostenimiento y organización de bibliotecas públicas; y establece las normas básicas para la configuración de la Red Nacional de Bibliotecas Públicas;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+XII. Red Estatal de Bibliotecas: Es la red de bibliotecas públicas del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+XIII. Red Nacional de Bibliotecas: conjunto de bibliotecas públicas que operan a nivel nacional, coordinada por la Dirección General de Bibliotecas, dependiente del Consejo Nacional para la Cultura y las Artes, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+XIV. Usuario: persona física o moral que acude a la biblioteca pública a solicitar cualquiera de los servicios que en ella se prestan; es el actor principal de la biblioteca y, constituye, la razón de nuestra misión y visión.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -97,17 +123,23 @@ I. El titular del Ejecutivo del Estado;
 
 II. El Secretario de Educación;
 
-III. El Coordinador Estatal de Bibliotecas Públicas, y
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-IV. Los ayuntamientos.
+III. El Secretario de Cultura;
+
+IV. El Coordinador Estatal de Bibliotecas Públicas, y
+
+V. Los ayuntamientos.
 
 ###### ARTICULO 4°.
 
 El Coordinador Estatal de Bibliotecas Públicas será designado por el Secretario de Educación de Gobierno del Estado. Para ser designado Coordinador debe contar por lo menos con licenciatura, preferentemente en el área de biblioteconomía; experiencia mínima de cinco años; y reconocida capacidad profesional y técnica en el manejo o dirección de bibliotecas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 5°.
 
-Corresponde a la Coordinación Estatal de Bibliotecas, proponer, ejecutar y evaluar la política estatal de bibliotecas, atendiendo al Plan Estatal de Desarrollo y programas sectoriales correspondientes, de conformidad a los criterios, líneas de acción y políticas definidas por la Secretaría de Educación.
+Corresponde a la Coordinación Estatal de Bibliotecas, proponer, ejecutar y evaluar la política estatal de bibliotecas, atendiendo al Plan Estatal de Desarrollo y programas sectoriales correspondientes, de conformidad a los criterios, líneas de acción y políticas definidas por la Secretaría de Educación, misma que tomará en cuenta las propuestas que realice la Secretaría de Cultura.
 
 Asimismo, emitir los lineamientos en relación con las bibliotecas públicas para:
 
@@ -119,6 +151,14 @@ II. Actualizar la información general de los acervos~ (sic) modernizar los serv
 
 El Gobierno del Estado, y los ayuntamientos, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de bibliotecas públicas, así como los servicios culturales complementarios que a través de éstas se otorguen.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+
+De igual forma, en la medida de sus respectivos presupuestos implementarán el sistema de bibliotecas móviles, con el propósito de garantizar el acceso a dichos servicios en aquellos lugares que aún no cuentan con una biblioteca próxima a su domicilio o localidad.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+
+Dichos entes de gobierno deberán desarrollar programas para la actualización del sistema de bibliotecas, y propiciar la formación de especialistas e investigadores en la materia, con el fin de restaurar y conservar el material bibliográfico.
+
 ## TITULO TERCERO. DE LA RED ESTATAL DE BIBLIOTECAS PUBLICAS
 
 ### Capítulo Unico
@@ -129,13 +169,21 @@ Se integra la Red Estatal de Bibliotecas Públicas con todas aquéllas constitui
 
 Para la expansión de la Red Estatal de Bibliotecas Públicas, la Coordinación Estatal de Bibliotecas celebrará con los gobiernos de los municipios, los acuerdos de coordinación necesarios.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 8°.
 
-Con el propósito de conjuntar esfuerzos, a la Red Estatal de Bibliotecas Públicas podrán integrarse voluntariamente aquellas bibliotecas universitarias, y especializadas, pertenecientes a dependencias, entidades y personas físicas o morales de los sectores, público, social, y privado; cuando no dependan del Estado y de los municipios conservando su propia regulación.
+Con el propósito de conjuntar esfuerzos, a la Red Estatal de Bibliotecas Públicas podrán integrarse voluntariamente aquellas bibliotecas universitarias, y especializadas, pertenecientes a dependencias, entidades y personas físicas o morales de los sectores, público, social, y privado, cuando no dependan del Estado y de los municipios, conservando su propia regulación.
+
+La Red Estatal procurará contar con una biblioteca digital para con ello facilitar el acceso remoto a los usuarios del sistema, misma que deberá ser operada por personal capacitado que provea de técnicas y conocimientos para su mejor funcionamiento.
 
 ###### ARTICULO 9°.
 
 Las bibliotecas pertenecientes a los sectores social y privado, que presten servicios con características de biblioteca pública en los términos de la presente Ley, y que manifiesten su disposición a incorporarse a la Red Estatal de Bibliotecas Públicas, celebrarán con el Gobierno del Estado y con los ayuntamientos, según sea el caso, convenio de colaboración y adhesión.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+
+Las bibliotecas que pertenezcan a la Red Estatal procesarán y llevarán a cabo programas culturales para fomentar la lectura, así como dar promoción a los autores y sus obras.
 
 Las bibliotecas cuyas características sean diferentes a las de biblioteca pública, señaladas en esta Ley, podrán ser incorporadas a la Red Estatal de Bibliotecas Públicas, mediante el correspondiente compromiso de integración que celebren sus titulares con la Coordinación Estatal de Bibliotecas.
 
@@ -219,9 +267,13 @@ El Consejo de la Red Estatal de Bibliotecas Públicas está integrado por:
 
 I. Un presidente que será el titular de la Secretaría de Educación de Gobierno del Estado;
 
-II. Un Secretario Ejecutivo, que será el Coordinador Estatal de Bibliotecas Públicas, quien tendrá a su cargo ejecutar los programas respectivos, y
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-III. Los siguientes vocales invitados a participar en dicho Consejo, conforme a los siguientes criterios de representación:
+II. Un vicepresidente, que será el titular de la Secretaría de Cultura de Gobierno del Estado;
+
+III. Un Secretario Ejecutivo, que será el Coordinador Estatal de Bibliotecas Públicas, quien tendrá a su cargo ejecutar los programas respectivos, y
+
+IV. Los siguientes vocales invitados a participar en dicho Consejo, conforme a los siguientes criterios de representación:
 
 a) Un diputado integrante de la Comisión de Educación, Cultura, Ciencia y Tecnología del Poder Legislativo Local.
 
@@ -233,9 +285,13 @@ d) Dos representantes de las instituciones educativas de nivel medio superior, a
 
 e) Cinco representantes de instituciones educativas de nivel superior de la Entidad, a invitación del titular de la Secretaría de Educación de Gobierno del Estado.
 
-f) Cuatro representantes de los ayuntamientos del Estado, seleccionados mediante insaculación, cuyas características se establecen en el Reglamento de esta Ley.
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
 
-g) Un representante de los profesionales egresados de la Escuela de Bibliotecología e Información de la Universidad Autónoma de San Luis Potosí.
+f) Dos representantes de la Secretaría de Cultura.
+
+g) Cuatro representantes de los ayuntamientos del Estado, seleccionados mediante insaculación, cuyas características se establecen en el Reglamento de esta Ley.
+
+h) Un representante de los profesionales egresados de la Escuela de Bibliotecología e Información de la Universidad Autónoma de San Luis Potosí.
 
 Los vocales representantes de las instituciones educativas y de los ayuntamientos serán designados de conformidad con los mecanismos de selección que emita el Presidente del Consejo de la Red Estatal de Bibliotecas Públicas, de conformidad con el Reglamento de esta Ley.
 
@@ -294,3 +350,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
