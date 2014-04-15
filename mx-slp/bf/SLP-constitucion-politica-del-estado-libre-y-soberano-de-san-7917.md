@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-04-12"
+last_updated: "2014-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -230,6 +230,10 @@ El Estado promoverá el bienestar social, así como la vivienda digna para las f
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Las leyes regularán el patrimonio de la familia y los bienes que lo constituyan serán inalienables y no estarán sujetos a embargo ni a gravamen.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
+
+El Estado Libre y Soberano de San Luis Potosí reconoce como un Derecho Humano el acceso al agua de calidad.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1969,7 +1973,7 @@ Se concede acción popular para denunciar los supuestos anteriores.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2006)</small>
 
 ###### ARTÍCULO 126.
 
@@ -2648,3 +2652,9 @@ P.O. 12 DE ABRIL DE 2014.
 PRIMERO. Cumplido lo dispuesto por el artículo 138 de la propia Constitución Local, este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento establecido en el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente decreto.
