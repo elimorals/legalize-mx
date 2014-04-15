@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2014-04-05"
+last_updated: "2014-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -826,6 +826,12 @@ Sin menoscabo de la propuesta realizada a la Secretaría de Educación Pública 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
 
 La Autoridad Educativa Local realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas de estudio a que se refiere el presente artículo, para vigilar su cumplimiento y recoger informaciones que permitan mantenerlos permanentemente actualizados; en el caso de los programas de educación normal y demás para la formación de maestros en educación básica deberán de mantenerse actualizados conforme a los parámetros y perfiles a los que se refiere la Ley General del Servicio Profesional Docente.
+
+> <small>N. DE E. EL DECRETO 565 SEÑALA QUE SE REFORMA EL PÁRRAFO ÚLTIMO DEL PRESENTE ARTÍCULO, SIN EMBARGO, DEL ANÁLISIS A DICHO DECRETO, SE ADVIERTE QUE CORRESPONDE AL PENÚLTIMO PÁRRAFO, EN RAZÓN DE QUE EL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO FUE ADICIONADO MEDIANTE DECRETO 531 PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2014.</small>
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014)</small>
+
+La Autoridad Educativa Federal realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas de estudio a que se refiere el presente artículo, para vigilar su cumplimiento y recoger informaciones que permitan mantenerlos permanentemente actualizados; en el caso de los programas de educación normal y demás para la formación de maestros en educación básica deberán de mantenerse actualizados conforme a los parámetros y perfiles a los que se refiere la Ley General del Servicio Profesional Docente.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2014)</small>
 
@@ -2176,6 +2182,12 @@ P.O. 5 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones normativas de igual o inferior jerarquía jurídica que se opongan a la presente Ley.
+
+P.O. 15 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ## TRANSITORIOS
 
