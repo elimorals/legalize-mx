@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2014-04-03"
+last_updated: "2014-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -191,9 +191,17 @@ VI.- La integración;
 
 VII.- El respeto;
 
-VIII.- La accesibilidad universal; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-IX.- El fomento a la vida independiente.
+VIII.- La accesibilidad universal;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+IX.- El fomento a la vida independiente; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+X.- La igualdad de oportunidades para mujeres y hombres con discapacidad.
 
 ### CAPITULO III. DE LAS AUTORIDADES
 
@@ -315,9 +323,9 @@ I.- Conjuntar esfuerzos con instituciones, asociaciones y grupos de los sectores
 
 II.- Promover e impulsar acciones que busquen la igualdad de oportunidades para lograr la incorporación de personas con discapacidad al desarrollo político, económico, social y cultural del Estado, así como su dignificación a través de proyectos integrales en las áreas de salud, educación, deporte, trabajo, cultura, accesibilidad y transporte, buscándose alentar la cultura de respeto hacia las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-III.- Impulsar y consolidar programas y acciones que garanticen la integración de las personas con discapacidad;
+III.- Impulsar y consolidar programas y acciones que garanticen la integración de las personas con discapacidad a un mejor desarrollo, en coordinación con las dependencias de la administración pública estatal que corresponda, así como promover todos sus derechos reconocidos constitucionalmente y en tratados internacionales;
 
 > <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
 
@@ -327,25 +335,27 @@ IV.- Establecer vínculos de coordinación con los Ayuntamientos y los organismo
 
 V.- Alentar y fortalecer los proyectos y programas que promuevan los sectores social y privado a favor de la integración de las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+
+VI.- Promover la apertura de establecimientos especializados impulsando así la asistencia social, protección y albergue para personas con discapacidad en situación de pobreza, abandono y marginación;
+
+VII.- Difundir la Ley de Integración Social de Personas con Discapacidad en Tamaulipas y promover su aplicación;
+
 > <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
 
-VI.- Difundir la Ley de Integración Social de Personas con Discapacidad en Tamaulipas y promover su aplicación;
+VIII.- Promover la adopción de compromisos para la prevención y atención de la discapacidad por parte de los miembros que forman el Consejo, y dar seguimiento y evaluación a los avances de su cumplimiento, conforme a la función o actividad que desarrollen los responsables;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
-VII.- Promover la adopción de compromisos para la prevención y atención de la discapacidad por parte de los miembros que forman el Consejo, y dar seguimiento y evaluación a los avances de su cumplimiento, conforme a la función o actividad que desarrollen los responsables;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-VIII.- Celebrar foros de consulta en materia de discapacidad;
+IX.- Celebrar foros e impulsar el desarrollo de la investigación de la asistencia social para las personas con discapacidad, a fin de que la prestación de estos servicios se realice adecuadamente;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-IX.- Determinar un programa de becas orientado al fomento de actividades educativas, culturales, deportivas, artísticas, tecnológicas que faciliten la integración social de las personas con discapacidad; y
+X.- Determinar un programa de becas orientado al fomento de actividades educativas, culturales, deportivas, artísticas, tecnológicas que faciliten la integración social de las personas con discapacidad; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-X.- Las demás que le señale esta Ley y otras disposiciones legales.
+XI.- Las demás que le señale esta Ley y otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
 
@@ -1060,3 +1070,9 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 15 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
