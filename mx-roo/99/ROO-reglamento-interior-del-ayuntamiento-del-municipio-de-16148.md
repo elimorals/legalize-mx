@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-ayuntamiento-del-municipio-de-16148"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-07-15"
-last_updated: "1992-07-15"
+last_updated: "2014-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,6 +22,12 @@ state: "ROO"
 # REGLAMENTO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE COZUMEL, QUINTANA ROO
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO MUNICIPIO DE COZUMEL, QUINTANA ROO
+
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DEL MUNICIPIO DE COZUMEL, QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014 (ABROGADO).
+
+Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 15 de julio de 1992.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -604,3 +610,15 @@ OCTAVO REGIDOR
 C. JOSE ENCARNACION CHALE KU
 
 ESTE REGLAMENTO FUE PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 15 DE JULIO DE 1992.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2014.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo.- Se abroga el Reglamento Interior del Ayuntamiento Municipio de Cozumel, Quintana Roo, publicado en el Periódico Oficial del Estado el día 15 de julio de 1992.
+
+Tercero.- Se derogan todas aquellas disposiciones que contravengan el presente Reglamento
+
+Cuarto.- Para el Período Constitucional de este Ayuntamiento, las Comisiones Ordinarias a que se refiere el artícul (sic) 73 del presente Reglamento, estarán integradas como hasta ahora, en términos de lo acordado en la Primer Sesión Ordinaria, de fecha 30 de septiembre del 2013.
