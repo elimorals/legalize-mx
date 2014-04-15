@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mediacion-y-conciliacion-para-el-estado-de-san-luis-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2013-08-01"
+last_updated: "2014-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 15 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de octubre de 2012.
 
@@ -1262,3 +1264,21 @@ P.O. 1 DE AGOSTO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2014.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de este Decreto, se abroga la Ley de Mediación y Conciliación para el Estado de San Luis Potosí publicada en el Periódico Oficial del Estado con el Decreto Legislativo número 1154, el dieciséis de octubre del dos mil doce.
+
+TERCERO. Los centros públicos, iniciarán sus funciones después de noventa días de la entrada en vigor de esta Ley, término dentro del cual deberán capacitarse, certificarse, contar con las instalaciones adecuadas y elaborar las disposiciones legales orgánicas y reglamentarias necesarias para su debido funcionamiento, con excepción del Centro de Solución de Controversias de la Procuraduría General de Justicia del Estado, que iniciará funciones de acuerdo con lo establezcan (sic) sus ordenamientos legales.
+
+Los centros privados, podrán iniciar sus funciones ciento veinte días después que los centros públicos, por lo que dentro de ese término deberán constituirse, capacitarse, certificarse, contar con las instalaciones adecuadas, elaborar su reglamento interno y manual de operaciones.
+
+Las referencias que en este Ordenamiento se hacen a la Ley de Mecanismos Alternativos de Solución de Controversias en Materia Penal para el Estado de San Luis Potosí, serán aplicables una vez que el decreto que la expide entre en vigor.
+
+CUARTO. El Ejecutivo del Estado deberá contemplar en sus presupuestos los recursos necesarios para el funcionamiento de los centros públicos de solución de controversias.
+
+QUINTO. Los ayuntamientos del Estado deberán emitir la reglamentación de esta Ley en el ámbito de su competencia, de manera previa a la implementación de los mecanismos que regula esta Ley.
+
+SEXTO. Se derogan todas las disposiciones de igual o menor rango en lo que se opongan a esta Ley.
