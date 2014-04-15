@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2014-01-15"
+last_updated: "2014-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ABRIL DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -326,9 +326,15 @@ IX. Comparecer ante la Asamblea Legislativa en los casos previstos por el Estatu
 
 X. Proponer, formular y ejecutar las medidas de modernización, simplificación y desregulación administrativa, entre las que se incluya la habilitación de un sistema de orientación telefónica y un portal de Internet, podrán asimismo habilitar la apertura de cuentas en redes sociales de Internet a efecto de difundir la información relativa a los servicios públicos y trámites administrativos que les sean propios.
 
+> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2014)</small>
+
 ###### Artículo 17.
 
-Al frente de cada Secretaría, de la Oficialía Mayor, de la Contraloría General del Distrito Federal y de la Consejería Jurídica y de Servicios Legales habrá un titular, quien para el despacho de los asuntos de su competencia se auxiliará en su caso, por los Subsecretarios, Directores Generales, Directores de Area, Subdirectores y Jefes de Unidad Departamental, así como por los demás servidores públicos que se establezcan en el Reglamento Interior y los manuales administrativos.
+Al frente de cada Secretaria, de la Oficialía Mayor, de la Contraloría General del Distrito Federal y de la Consejería Jurídica y de Servicios Legales habrá un titular, quien para el despacho de los asuntos de su competencia se auxiliara en su caso por los subsecretarios, directores generales, directores de área, subdirectores y jefes de unidad departamental, así como por los demás servidores públicos que establezcan en el Reglamento Interior y los Manuales Administrativos.
+
+El Jefe de Gobierno coadyuvará a la promoción de la participación equitativa del 50% en cargos públicos de mujeres y hombres, de las dependencias mencionadas en el artículo 15 del presente ordenamiento.
+
+De manera progresiva el Jefe de Gobierno verificará que ese proceso de participación se dé bajo los principios de equidad y paridad de género, incluyendo los cargos de nivel Subsecretaría y Direcciones Generales u Homólogos.
 
 ###### Artículo 18.
 
@@ -1638,11 +1644,11 @@ b) Contar con una experiencia mínima de 2 años en el ejercicio de un cargo den
 
 c) De no contar con lo señalado en los incisos anteriores deberá someterse y cumplir cabalmente con lo establecido en el procedimiento de capacidad comprobada que para tal fin determinen la Secretaría de Finanzas y la Escuela de Administración Pública, ambas del Gobierno del Distrito Federal, con base a los ordenamientos que regulan la Administración Pública del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ABRIL DE 2014)</small>
 
 ###### Artículo 39.
 
-Corresponde a los Titulares de los Órganos Político-Administrativos de cada demarcación territorial:
+Corresponde a las y los Titulares de los Órganos Político-Administrativos de cada demarcación territorial:
 
 I. Legalizar las firmas de sus subalternos, y certificar y expedir copias y constancias de los documentos que obren en los archivos de la Delegación;
 
@@ -1808,11 +1814,17 @@ LXXV. Realizar recorridos periódicos, audiencias públicas y difusión pública
 
 LXXVI. Coordinar acciones de participación ciudadana en materia de prevención del delito;
 
-LXXVII. Promover, coordinar y fomentar los programas de salud, así como campañas para prevenir y combatir la farmacodependencia, el alcoholismo, la violencia o desintegración familiar, en el ámbito de su competencia territorial, y
+LXXVII. Promover, coordinar y fomentar los programas de salud, así como campañas para prevenir y combatir la farmacodependencia, el alcoholismo, la violencia o desintegración familiar, en el ámbito de su competencia territorial, y (sic)
+
+> <small>N. DE E. DEL ANÁLISIS AL DECRETO DE REFORMA PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2014, SE ADVIERTE QUE EN DICHA PUBLICACIÓN SE ADICIONA LA FRACCIÓN LXXVIII SIN INDICAR LA REUBICACIÓN DE LAS SUBSECUENTES FRACCIONES TODA VEZ QUE YA EXISTÍAN.</small>
+
+> <small>(ADICIONADA, G.O. 15 DE ABRIL DE 2014)</small>
+
+LXXVIII. Verificar que de manera progresiva los cargos correspondientes a Direcciones Generales y Direcciones de Área y homólogos, sean ocupados por mujeres, en concordancia con el estipulado para el Jefe de Gobierno.
 
 > <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2004)</small>
 
-LXXVIII. Designar a los servidores públicos de la Delegación, sujetándose a las disposiciones del Servicio Civil de Carrera. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por el Jefe de (sic) Delegacional;
+LXXVIII (SIC). Designar a los servidores públicos de la Delegación, sujetándose a las disposiciones del Servicio Civil de Carrera. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por el Jefe de (sic) Delegacional;
 
 > <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
 
@@ -2499,3 +2511,9 @@ CUARTO.- El personal que, en ejecución del presente decreto, deba ser transferi
 QUINTO.- En la transferencia de las unidades administrativas que por la ejecución del presente decreto deban pasar de una dependencia a otra, se incluirá al personal de servicio, mobiliario, equipo, instrumentos, vehículos, maquinaria, aparatos, archivos y, en general, todos los efectos y dispositivos que se utilicen para la atención de los asuntos a su cargo, así como los recursos presupuestales correspondientes.
 
 SEXTO.- Los asuntos que a la entrada en vigor del presente decreto se encuentren en trámite y deban ser atendidos por las unidades administrativas objeto de transferencia, serán resueltos por la dependencia que los recibe, dentro de los plazos establecidos al efecto.
+
+G.O. 15 DE ABRIL DE 2014.
+
+PRIMERO.- La participación equitativa del 50% en cargos públicos de mujeres y hombres, a la que se refiere el artículo 17, se dará de manera progresiva hasta que se complete en su totalidad para el inicio del ejercicio fiscal 2019.
+
+SEGUNDO.- La participación equitativa del 50% en cargos públicos de mujeres y hombres, a la que se refiere el artículo 39, se dará de manera progresiva hasta que se complete en su totalidad para el inicio del ejercicio fiscal 2016.
