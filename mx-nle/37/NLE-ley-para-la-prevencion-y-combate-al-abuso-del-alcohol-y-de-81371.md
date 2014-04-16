@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-prevencion-y-combate-al-abuso-del-alcohol-y-de-8137
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-18"
-last_updated: "2013-12-27"
+last_updated: "2014-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de mayo de 2011.
 
@@ -247,11 +247,15 @@ Los municipios, en el caso de la sanción a la infracción establecida en el art
 
 ## TÍTULO SEGUNDO. DE LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL
 
-### CAPÍTULO ÚNICO. ACCIONES PARA PREVENIR O COMBATIR EL ABUSO EN EL CONSUMO DEL ALCOHOL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2014)</small>
+
+### CAPITULO ÚNICO. ACCIONES PARA PREVENIR O COMBATIR EL USO Y ABUSO EN EL CONSUMO DEL ALCOHOL
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 12.
 
-La Secretaría de Educación implementará programas, acciones y campañas permanentes de difusión, tendientes a inhibir en los alumnos el consumo de bebidas alcohólicas mediante el conocimiento de los efectos que el abuso del alcohol genera y fomentará la participación de las asociaciones de padres de familia en los mismos.
+La Secretaría de Educación implementará programas, acciones y campañas permanentes de difusión, tendientes a inhibir en los alumnos en su niñez y adolescencia el consumo de bebidas alcohólicas mediante el conocimiento de los efectos que el alcohol genera y se fomentará la participación de las asociaciones de padres de familia en esta campaña. Así mismo se realizarán campañas preventivas para concientizar a la juventud nuevoleonesa de los efectos nocivos del alcohol en la salud, especialmente en mujeres embarazadas o que desean concebir para que eviten el consumo de bebidas alcohólicas en su embarazo, por el daño que causan al ser que conciben y en el periodo de lactancia.
 
 ###### ARTÍCULO 13.
 
@@ -1638,3 +1642,7 @@ P.O. 26 DE DICIEMBRE DE 2011.
 P.O. 27 DE DICIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ABRIL DE 2014.
+
+Único.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
