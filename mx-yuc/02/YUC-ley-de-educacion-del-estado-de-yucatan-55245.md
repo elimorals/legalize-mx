@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2013-11-22"
+last_updated: "2014-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE ABRIL DE 2014.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -237,9 +237,9 @@ IV.- Mantener una relación estrecha con las entidades descentralizadas, y autó
 
 V.- Mantener relación con las instituciones particulares para optimizar su contribución al desarrollo de la Entidad y de sus servicios educativos;
 
-> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 16 DE ABRIL DE 2014)</small>
 
-VI.- Coordinarse con la Secretaría de Salud para implementar políticas públicas que fomenten en los educandos y sus familias, el consumo de alimentos con alto valor nutricional, la práctica de ejercicio saludable así como también establecer lineamientos generales para regular y en su caso, evitar la venta o consumo de alimentos y bebidas con bajo o nulo valor nutricional en las tiendas escolares y, en general en los espacios donde se expenden alimentos en las instituciones de nivel básico. Asimismo, realizar las inspecciones necesarias a fin de vigilar el cumplimiento de las disposiciones relativas, procurando coadyuvar a una dieta balanceada y con alto valor nutricional para los educandos;
+VI.- Coordinarse con la Secretaría de Salud para implementar, conforme a los lineamientos de carácter general que emita la Secretaría de Educación Pública, políticas públicas que fomenten en los educandos y sus familias, el consumo de alimentos con alto valor nutricional, la práctica de ejercicio saludable y, en su caso, evitar la venta o consumo de alimentos y bebidas con bajo o nulo valor nutricional en las tiendas escolares y, en general en los espacios donde se expenden alimentos en las instituciones de nivel básico. Asimismo, realizar las inspecciones necesarias a fin de vigilar el cumplimiento de las disposiciones relativas, procurando coadyuvar a una dieta balanceada y con alto valor nutricional para los educandos;
 
 > <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -345,9 +345,9 @@ I.- Los padres de familia o tutores envíen a sus hijos o pupilos a la escuela d
 
 II.- Los trabajadores de la educación desarrollen su trabajo con responsabilidad, vocación, competencia y eficacia;
 
-> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 16 DE ABRIL DE 2014)</small>
 
-III.- El ingreso promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan el Estado o los municipios, se ajuste a lo dispuesto en la Ley General del Servicio Profesional Docente;
+III.- El ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan el Estado o los municipios, se ajuste a lo dispuesto en la Ley General del Servicio Profesional Docente, la Ley General de Educación, y la Ley del Instituto Nacional para la Evaluación de la Educación;
 
 IV.- Los directivos y supervisores realicen su tarea ofreciendo los apoyos pedagógicos y administrativos que se requiera para el adecuado funcionamiento de los centros escolares;
 
@@ -355,11 +355,13 @@ V.- Las actividades de otras instituciones o áreas de la administración públi
 
 VI.- Los planteles de educación básica cuenten con su proyecto escolar.
 
-> <small>(ADICIONADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 16 DE ABRIL DE 2014)</small>
 
 ###### Artículo 22 Bis.
 
-El personal que se encuentre en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la educación básica o media superior impartida por el Estado, que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente, conforme al artículo Octavo Transitorio de dicha Ley, será readscrito para continuar en otras tareas dentro de dicho servicio educativo, conforme a lo que determine la autoridad educativa, o bien, se le ofrecerá incorporarse a los programas de retiro que garanticen el pago de las prestaciones legales correspondientes.
+El personal que se encontraba en servicio a la entrada en vigor de la Ley General del Servicio Profesional Docente y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la educación básica o media superior impartida por el Estado, que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la citada ley, conforme al artículo octavo transitorio de la misma, será readscrito para continuar en otras tareas distintas de las funciones de docencia, dirección o supervisión dentro de dicho servicio, conforme a lo que determine la autoridad educativa, o bien, se le ofrecerá incorporarse a los programas de retiro que garanticen el pago de las prestaciones legales correspondientes.
+
+> <small>(ADICIONADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 En la readscripción a que se refiere el párrafo anterior, se observará lo siguiente:
 
@@ -371,7 +373,9 @@ III.- Se conservará sueldo, prestaciones adquiridas, antigüedad, carga horaria
 
 IV.- No se ocasionará perjuicio alguno a otros derechos laborales como pensión, jubilación, seguridad social, cambios geográficos, beneficios adquiridos en Carrera Magisterial y Carrera Docente, y demás que legalmente le corresponda;
 
-V.- La determinación de la tarea que se desempeñará estará acorde con el perfil del docente, y
+> <small>(REFORMADA, D.O. 16 DE ABRIL DE 2014)</small>
+
+V.- La determinación de la tarea que se desempeñará estará acorde con el perfil del interesado, y
 
 VI.- El lugar de la nueva adscripción, previo derecho de audiencia que se otorgue en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, será en:
 
@@ -385,7 +389,13 @@ d) Alguno de los programas educativos que la Secretaría de Educación ejecute, 
 
 e) Al interior del organismo descentralizado al que pertenezca, con las mismas condiciones señaladas en esta fracción.
 
+> <small>(ADICIONADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 En contra de las resoluciones administrativas que se pronuncien, los interesados podrán optar por interponer el recurso de revisión ante la autoridad educativa que emitió la resolución o acudir a la autoridad jurisdiccional que corresponda.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+La Secretaría de Educación, en materia de evaluación, se sujetará a las disposiciones que emita el Instituto Nacional para la Evaluación de la Educación, en el ejercicio de las atribuciones que le confieren la Constitución Política de los Estados Unidos Mexicanos y la Ley del Instituto Nacional para la Evaluación de la Educación.
 
 ###### Artículo 23.
 
@@ -949,11 +959,13 @@ X.- Las demás que le confiera la Secretaría de Educación y las que establezca
 
 #### Sección Cuarta. De la Educación Media-Superior
 
-> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 16 DE ABRIL DE 2014)</small>
 
 ###### Artículo 54.
 
-La educación media superior es obligatoria y comprende el nivel de bachillerato en sus distintas modalidades, así como las carreras técnicas y profesionales y se impartirá a quien acredite haber concluido la educación secundaria.
+La educación media superior es obligatoria y comprende el nivel de bachillerato en sus distintas modalidades, así como las carreras técnicas y profesionales y se impartirá a quien acredite haber concluido la educación secundaria, de conformidad con las disposiciones de la Ley General de Educación.
+
+Se organizará, bajo el principio de respeto a la diversidad, a través de un sistema que establezca un marco curricular común a nivel nacional y la revalidación y reconocimiento de estudios entre las opciones que ofrece este tipo educativo.
 
 ###### Artículo 55.
 
@@ -1000,6 +1012,138 @@ Para lograr estos fines se podrán crear nuevos organismos para atender de maner
 ###### Artículo 57.
 
 Los estudiantes de educación técnica profesional prestarán servicio social de conformidad con las disposiciones reglamentarias del artículo 5º de la Constitución Política de los Estados Unidos Mexicanos y del artículo 24 de la Ley General de Educación, y con las derivadas de esta ley y demás normas aplicables.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 57 Bis.
+
+El Sistema de Educación Media Superior del Estado de Yucatán tiene por objeto impulsar la planeación, coordinación, gestión, operación y desarrollo de la educación media superior en la entidad.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 57 Ter.
+
+El Sistema de Educación Media Superior del Estado de Yucatán tiene los siguientes fines:
+
+I.- Contribuir al logro de los objetivos y metas del Plan Estatal de Desarrollo y del programa sectorial de educación;
+
+II.- Propiciar una mejor y más efectiva planeación y coordinación del desarrollo de la educación media superior en la entidad;
+
+III.- Articular y potenciar las capacidades de las instituciones que lo integran para atender la demanda de este tipo de estudios en el estado en el régimen de obligatoriedad;
+
+IV.- Promover una amplia y diversificada oferta de servicios educativos del tipo medio superior en sus diferentes modalidades;
+
+V.- Promover la implementación de nuevos modelos interculturales de formación con un enfoque de equidad;
+
+VI.- Establecer programas para abatir el abandono y el rezago escolar, y
+
+VII.- Aprovechar y optimizar de manera integral los recursos humanos.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 57 Quáter.
+
+El Sistema de Educación Media Superior del Estado de Yucatán, se integra con las siguientes escuelas:
+
+I.- Las escuelas públicas de bachillerato dependientes de la Secretaría de Educación del Estado;
+
+II.- La Universidad Autónoma de Yucatán con sus planteles de educación media superior y las instituciones particulares que tiene incorporadas y que ofrecen estudios de este tipo;
+
+III.- El Colegio de Bachilleres del Estado de Yucatán y sus planteles;
+
+IV.- El Colegio de Educación Profesional Técnica del Estado de Yucatán y sus planteles;
+
+V.- El Colegio de Estudios Científicos y Tecnológicos del Estado de Yucatán y sus planteles;
+
+VI.- Los planteles de la Dirección General de Educación Tecnológica Industrial;
+
+VII.- Los planteles de la Dirección General de Educación Tecnológica Agropecuaria;
+
+VIII.- El Centro para el Desarrollo de las Artes, y
+
+IX.- Las instituciones particulares que ofrecen estudios de bachillerato en el estado y cuenten con reconocimiento federal o estatal de validez oficial de estudios.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 57 Quinquies.
+
+La Secretaría de Educación Estatal integrará e instalará el Consejo Estatal de Planeación y Coordinación, que tendrá por objeto fomentar la correcta organización e instrumentación del Sistema de Educación Media Superior del Estado de Yucatán.
+
+El Consejo Estatal de Planeación y Coordinación podrá establecer comisiones cuando lo considere necesario para el análisis de materias específicas.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 57 Sexies.
+
+El Consejo Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Yucatán tendrá las siguientes atribuciones:
+
+I.- Formular los objetivos, políticas, estrategias, programas y metas estatales y regionales del sistema;
+
+II.- Analizar los resultados obtenidos de la evaluación de las escuelas del sistema y los niveles de logro educativo alcanzados por los alumnos y diseñar acciones para su mejora continua, así como para la atención oportuna de las recomendaciones formuladas por las autoridades encargadas de la evaluación;
+
+III.- Promover el fortalecimiento de la formación disciplinaria y las competencias docentes de los profesores;
+
+IV.- Impulsar la mejora de los niveles de logro educativo de los alumnos y la incorporación en la práctica educativa de modelos educativos de formación integral e intercultural, inclusivos, innovadores y centrados en competencias;
+
+V.- Promover la actualización de los programas educativos tomando en consideración los resultados de las evaluaciones internas y externas y las tendencias nacionales e internacionales de la educación media superior;
+
+VI.- Fomentar el incremento en las tasas de eficiencia terminal de los estudios y la reducción del abandono escolar, en particular de los alumnos en zonas de alta y muy alta marginación;
+
+VII.- Evaluar los alcances e impactos de los programas de becas, créditos y otros apoyos y con base en los resultados formular propuestas para propiciar el cumplimiento de sus objetivos;
+
+VIII.- Realizar estudios para prever con oportunidad la demanda de estudios del tipo medio superior y de formación de bachilleres y técnicos en la entidad;
+
+IX.- Promover acuerdos entre instituciones que faciliten el tránsito de los alumnos entre instituciones de educación media superior, considerando el análisis de equivalencias y otras oportunidades de logro educativo;
+
+X.- Acordar medidas para promover y fortalecer la vinculación de las instituciones de educación media superior con organismos de los sectores público, social y productivo del Estado;
+
+XI.- Proponer políticas y estrategias para el desarrollo de la educación media superior y emitir recomendaciones respecto a la creación de nuevas instituciones en el Estado, de acuerdo a las posibilidades económicas y socioculturales de la entidad, y
+
+XII.- Las demás que le asigne la Secretaría de Educación del Estado para el cumplimiento de los fines del sistema y que no se contrapongan a lo establecido en esta ley.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 57 Septies.
+
+El Consejo Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Yucatán se integra por:
+
+I.- El Secretario de Educación del Estado, quien lo presidirá;
+
+II.- Los titulares de los organismos públicos de educación media superior señalados de la fracción III a la fracción VIII del artículo 57 Quáter;
+
+III.- Un representante de la delegación de la Secretaría de Educación Pública en Yucatán a invitación del Presidente;
+
+IV.- El rector de la Universidad Autónoma de Yucatán a invitación del Presidente, y
+
+V.- Los directores de las seis instituciones particulares, de mayor matrícula, con Reconocimiento de Validez Oficial de Estudios de acuerdo con los criterios de matrícula, calidad y regionalización que establezca la Secretaría de Educación del Estado, a invitación del Presidente.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 57 Octies.
+
+El Consejo Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Yucatán contará con un Secretario Técnico, quien tendrá derecho a voz pero no a voto, y será designado por el Secretario de Educación del Estado.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 57 Nonies.
+
+Los integrantes del Consejo Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Yucatán deberán designar a los funcionarios que los sustituirán en casos de ausencia, los cuales deberán tener, al menos, el rango de director o su equivalente.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 57 Decies.
+
+Los cargos de los integrantes del Consejo Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Yucatán son de carácter honorífico, por tanto, quienes lo ocupen no recibirán retribución alguna por su desempeño.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+Artículo 57 Undecies.- Las sesiones serán válidas con la asistencia de la mitad más uno de los integrantes del Consejo Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Yucatán.
+
+Los acuerdos se tomarán por el voto de la mayoría simple que asista a la sesión de que se trate. En caso de empate, el presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+Artículo 57 Duodecies.- El reglamento interior del Consejo Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Yucatán deberá establecer lo relativo a la organización y desarrollo de las sesiones, las formalidades de las convocatorias y de las actas.
 
 #### Sección Quinta. De la Educación Superior
 
@@ -1203,11 +1347,11 @@ II.- Las necesidades individuales, grupales y comunitarias para propiciar que lo
 
 III.- Las necesidades de los sectores productivos.
 
-> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 16 DE ABRIL DE 2014)</small>
 
 ###### Artículo 74.
 
-La Secretaría de Educación establecerá los criterios y procedimientos mediante los cuales los adultos podrán acreditar los niveles de educación primaria, secundaria y media superior, así como los elementos susceptibles de certificación de la formación para el trabajo. En coordinación con la autoridad federal, cuándo proceda, se instrumentarán mecanismos que faciliten la acreditación efectiva, global o parcial, de conocimientos adquiridos en forma autodidáctica o a través de la experiencia.
+La Secretaría de Educación, en apego a lo establecido por la Ley General de Educación, aplicará los criterios y procedimientos de la Secretaría de Educación Pública, para que los adultos puedan acreditar los niveles de educación primaria, secundaria y media superior, así como los elementos susceptibles de certificación de la formación para el trabajo. En coordinación con la autoridad federal, cuando proceda, se instrumentarán mecanismos que faciliten la acreditación efectiva, global o parcial, de conocimientos adquiridos en forma autodidáctica o a través de la experiencia.
 
 > <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -1222,6 +1366,10 @@ Las autoridades educativas estatal y municipales estarán obligadas, en la medid
 ###### Artículo 76.
 
 La formación para el trabajo procurará la adquisición de competencias, conocimientos, habilidades y destrezas, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación o algún oficio calificados. Las autoridades estatales promoverán la certificación de las competencias laborales.
+
+> <small>(ADICIONADA, D.O. 16 DE ABRIL DE 2014)</small>
+
+#### Sección Décimo Primera. De la Educación Normal
 
 > <small>(ADICIONADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -1292,6 +1440,36 @@ III.- Promover la mejora continua y el aseguramiento de la calidad de los progra
 IV.- Estudiar la demanda de formación de profesionales de la educación básica en el estado y formular iniciativas para su oportuna atención, y
 
 V.- Las demás que le asigne la Secretaría de Educación y que sean necesarias para el cumplimiento de los fines del Sistema de Educación Normal en los términos de lo establecido en esta ley y en otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 76 Octies.
+
+Los directores de las escuelas normales serán nombrados por el Gobernador del Estado.
+
+> <small>(ADICIONADO, D.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 76 Nonies.
+
+Los directores de las escuelas normales del Estado tendrán las siguientes funciones:
+
+I.- Representar legalmente a la escuela;
+
+II.- Establecer las medidas necesarias para que la educación se imparta con orden, regularidad y eficacia, así como con los más altos parámetros de calidad;
+
+III.- Suscribir los títulos profesionales que la escuela expida y la demás documentación que lo requiera;
+
+IV.- Aplicar, en el ámbito de su competencia, la política educativa establecida por la Secretaría de Educación del Estado;
+
+V.- Proponer a la Secretaría de Educación del Estado los movimientos del personal que procedan y solicitar los nombramientos y remoción del personal de confianza, con estricto respeto de sus derechos laborales;
+
+VI.- Promover acciones tendientes al mejoramiento académico, cultural y disciplinario de la escuela;
+
+VII.- Proponer ante la Junta de Coordinación y Planeación del Sistema de Educación Normal, las medidas que tiendan a mejorar las actividades académicas y adiministrativas (sic) de la escuela;
+
+VIII.- Verificar la correcta aplicación del presupuesto e informar acerca de su ejercicio, así como sobre los ingresos y egresos propios de sus actividades de conformidad con la normatividad contable y de auditoría que para el efecto tenga establecida la Secretaría de Educación del Estado, y
+
+IX.- Las demás que le confiera esta ley, la Secretaría de Educación Pública del Estado y demás disposiciones legales y normativas aplicables.
 
 ### CAPÍTULO VI. Del Calendario Escolar
 
@@ -1705,7 +1883,7 @@ El Poder Ejecutivo del Estado deberá expedir los instrumentos normativos que re
 
 ###### ARTÍCULO TERCERO.
 
-La Secretaría de Educación deberá expedir las disposiciones que regirán la evaluación del Sistema Educativo Estatal en los términos de lo dispuesto en este Decreto. Para ello organizará foros de análisis en los que participen representantes de las organizaciones educativas y sindicatos de trabajadores de la educación que funcionen en la entidad, a efecto de conocer sus propuestas e intereses en la materia y considerarlos en los contenidos de las disposiciones que al efecto se expidan.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL DECRETO NO. 167/2014, D.O. 16 DE ABRIL DE 2014)
 
 ###### ARTÍCULO CUARTO.
 
@@ -1724,3 +1902,15 @@ La capacitación a que se refiere el artículo 48 Ter de este Decreto será impl
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
+
+D.O. 16 DE ABRIL DE 2014.
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. El Consejo Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Yucatán deberá instalarse en un plazo no mayor de cuarenta y cinco días naturales contados a partir de la entrada en vigor de este decreto.
+
+Artículo tercero. A partir de la entrada en vigor de este decreto, quedarán abrogadas la Ley de Enseñanza Normal de Educación Preescolar, la Ley de Enseñanza Normal de Educación Primaria y la Ley de Enseñanza Normal de Educación Superior, todas del Estado de Yucatán publicadas mediante decretos 299, 300 y 349 en el Diario Oficial del Gobierno del Estado de Yucatán, los días 4 de junio de 1990, la primera y la segunda, y 20 de diciembre de 1990, la tercera.
+
+Artículo cuarto. La evaluación estatal a que se refiere el artículo quinto transitorio del decreto número 122 por el que se reforman, derogan y adicionan diversas disposiciones de la Ley de Educación del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 22 de noviembre de 2013, será para el fortalecimiento de las capacidades y competencias de los docentes en servicio, sin contravenir las disposiciones emanadas de la Ley General del Servicio Profesional Docente o de la Ley del Instituto Nacional para la Evaluación de la Educación.
+
+Artículo quinto. Se derogan todas las disposiciones legales y reglamentarias que se opongan a la Ley General del Servicio Profesional Docente o al presente decreto.
