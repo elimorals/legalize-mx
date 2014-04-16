@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2014-03-05"
+last_updated: "2014-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2014.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -129,9 +129,11 @@ Por tanto, los maestros, directores y supervisores tendrán a su cargo tomar las
 
 En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, o la entrega de documentación a los educandos, al pago de contraprestación alguna. Por tanto, se prohíbe cualquier pago que impida o condicione la prestación del servicio educativo a los educandos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2014)</small>
+
 ###### Artículo 11.
 
-No se entenderán como contraprestaciones del servicio educativo las donaciones o cuotas voluntarias que se efectúen con el propósito de coadyuvar a la mejora de la infraestructura escolar, compra de materiales educativos y a resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia, bajo la autoridad y liderazgo del director, se involucren en la resolución de los retos que cada escuela enfrenta.
+No se entenderán como contraprestaciones del servicio educativo las donaciones o cuotas voluntarias que se efectúen con motivo de los programas de gestión escolar, para el propósito de coadyuvar a la mejora de la infraestructura escolar, compra de materiales educativos y a resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia, bajo la autoridad y liderazgo del director, se involucren en la resolución de los retos que cada escuela enfrenta.
 
 Las autoridades competentes en materia de contraloría y fiscalización, de conformidad con las leyes de la materia y los lineamientos que expida la Secretaría de Educación Pública, vigilarán el destino, aplicación y transparencia de las donaciones o cuotas voluntarias.
 
@@ -333,7 +335,9 @@ XV. Participar, en forma periódica y sistemática, en la realización de evalua
 
 XVI. Promover prácticas cooperativas de ahorro, producción y consumo, de acuerdo a lo establecido en la legislación y en los reglamentos aplicables en materia educativa;
 
-XVII. Diseñar y aplicar los instrumentos de evaluación que se estimen necesarios para garantizar la calidad educativa, atendiendo los lineamientos que en ejercicio de sus atribuciones emita el Instituto Nacional para la Evaluación de la Educación y el Instituto Veracruzano para el Desarrollo Profesional y la Evaluación Educativa;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
+
+XVII. Operar y aplicar los instrumentos de evaluación que se estimen necesarios para garantizar la calidad educativa, atendiendo los lineamientos que en ejercicio de sus atribuciones emita el Instituto Nacional para la Evaluación de la Educación;
 
 XVIII. Coordinar y operar un sistema de asesoría y acompañamiento en las escuelas públicas de educación básica y media superior, como apoyo a la mejora de la práctica profesional, bajo la responsabilidad de las autoridades educativas competentes;
 
@@ -397,7 +401,9 @@ III. El Consejo Consultivo.
 
 El Instituto Veracruzano tiene por objeto:
 
-I. Lograr la formación, capacitación, superación y desarrollo profesional de los docentes, directivos, supervisores y demás autoridades educativas que establece esta ley; y contribuir, conforme a la Ley del Instituto Nacional para la Evaluación de la Educación a diseñar y realizar la evaluación de sus conocimientos, aptitudes y rendimiento, así como de las características de las políticas, instituciones y programas educativos, componentes, procesos o resultados del Sistema Educativo Veracruzano; y
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
+
+I. Lograr la formación, capacitación, superación y desarrollo profesional de los docentes, directivos, supervisores y demás autoridades educativas que establece esta Ley; y contribuir, conforme a la Ley del Instituto Nacional para la Evaluación de la Educación a operar y realizar la evaluación de sus conocimientos, aptitudes y rendimiento, así como de las características de las políticas, instituciones y programas educativos, componentes, procesos o resultados del Sistema Educativo Veracruzano; y
 
 II. Participar en la realización, en forma periódica y sistemática, de los procesos de evaluación a los educandos, en los términos que disponga esta ley, y en cumplimiento de la ley, criterios y lineamientos del Instituto Nacional para la Evaluación de la Educación.
 
@@ -747,7 +753,9 @@ VI. Llevar a cabo la selección y capacitación de los Evaluadores conforme a lo
 
 VII. Llevar a cabo la selección de los Aplicadores que podrán auxiliar en la aplicación de los instrumentos de evaluación obligatorios a que se refiere la ley de la materia, esta ley y demás disposiciones aplicables;
 
-VIII. Convocar los concursos de oposición para el ingreso a la función docente y la promoción a cargos con funciones de dirección o de supervisión, en atención a los perfiles, parámetros e indicadores complementarios que estime pertinentes y de conformidad con los lineamientos que emita el Instituto Nacional para la Evaluación de la Educación;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
+
+VIII. Convocar los concursos de oposición para el ingreso a la función docente y la promoción a cargos con funciones de dirección o de supervisión, de conformidad con los lineamientos que emita el Instituto Nacional para la Evaluación de la Educación;
 
 IX. Participar en los procesos de evaluación del desempeño docente y de quienes ejerzan funciones de dirección o de supervisión, de conformidad con los lineamientos y periodicidad que el Instituto Nacional para la Evaluación de la Educación determine;
 
@@ -847,15 +855,19 @@ IV. Aplicar las disposiciones de la Ley General del Servicio Profesional Docente
 
 V. Asignar las plazas que durante el ciclo escolar queden vacantes de forma definitiva en términos de ley, conforme a lo siguiente:
 
-a) Con estricto apego al orden de prelación de los sustentantes, con base en los puntajes de mayor a menor, que resultaron idóneos en el último concurso de oposición y que no hubieran obtenido una plaza de jornada anteriormente. Este ingreso quedará sujeto a lo establecido en el artículo 58 de la presente ley. La adscripción de la plaza se otorgará en la escuela en que se generó la vacancia a partir de que sea asignada; y
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2014)</small>
+
+a) Con estricto apego al orden de prelación de los sustentantes, con base en los puntajes de mayor a menor, que resultaron idóneos en el último concurso de oposición y que no hubieran obtenido una plaza de jornada anteriormente. Este ingreso quedará sujeto a lo establecido en este artículo y el artículo 58 de la presente Ley. La adscripción de la plaza se otorgará en la escuela en que se generó la vacancia a partir de que sea asignada; y
 
 b) De manera extraordinaria y sólo cuando se hubiera agotado el procedimiento señalado en el inciso anterior, a docentes distintos a los señalados. Los nombramientos que se expidan serán por tiempo fijo y con una duración que no podrá exceder el tiempo remanente hasta la conclusión del ciclo escolar correspondiente. Sólo podrán ser otorgados a docentes que reúnan el perfil; y
 
 VI. Asignar horas al personal docente que no sea de jornada en términos del artículo 42 de la Ley General del Servicio Profesional Docente.
 
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2014)</small>
+
 ###### Artículo 60.
 
-En los concursos de oposición para el Ingreso que se celebren en los términos de la Ley General del Servicio Profesional Docente, podrán participar todas las personas que cumplan con el perfil relacionado con el nivel, tipo, modalidad y materia educativa correspondiente; así como con los requisitos que establezca la convocatoria respectiva, en igualdad de condiciones, sin demérito de origen, residencia, lugar, formación profesional o participación previa en la función docente. En la Educación Básica dicho perfil corresponderá al académico con formación docente pedagógica o en áreas afines a los niveles educativos, preferentemente al normalista, egresado del sistema educativo veracruzano de conformidad con los requisitos establecidos en las convocatorias expedidas para tal fin.
+En los concursos de oposición para el Ingreso que se celebren en los términos de la Ley General del Servicio Profesional Docente, podrán participar todas las personas que cumplan con el perfil relacionado con el nivel, tipo, modalidad y materia educativa correspondiente; así como con los requisitos que establezca la convocatoria respectiva, en igualdad de condiciones, sin demérito de origen, residencia, lugar, formación profesional o participación previa en la función docente. En la Educación Básica dicho perfil corresponderá al académico con formación docente pedagógica o en áreas afines a los niveles educativos, privilegiando el perfil pedagógico docente de los candidatos y también se considerarán perfiles correspondientes a las disciplinas especializadas de la enseñanza, de conformidad con los requisitos establecidos en las convocatorias expedidas para tal fin.
 
 ###### Artículo 61.
 
@@ -913,9 +925,11 @@ Quienes participen en alguna forma de Promoción a cargos con funciones de direc
 
 Quienes participen en alguna forma de Promoción en la función distinta a lo establecido en la Ley General del Servicio Profesional Docente o en esta ley, autoricen o efectúen algún pago o contraprestación u obtengan algún beneficio, incurrirán en responsabilidad y serán acreedores a las sanciones correspondientes.
 
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2014)</small>
+
 ###### Artículo 68.
 
-La Autoridad Educativa Estatal y los Organismos Descentralizados podrán establecer, tanto en la Educación Básica como en la Media Superior, otros programas de Promoción distintos a los previstos en el Capítulo VI del Título Segundo de la Ley General del Servicio Profesional Docente, que premien el mérito y que se sustenten en la evaluación del desempeño.
+La Autoridad Educativa Estatal y los Organismos Descentralizados podrán otorgar otros reconocimientos en función de la evaluación del desempeño docente y de quienes realizan funciones de dirección o supervisión.
 
 ###### Artículo 69.
 
@@ -955,11 +969,13 @@ En la evaluación del desempeño se utilizarán los perfiles, parámetros e indi
 
 Los Evaluadores que se designen de conformidad con lo dispuesto por esta ley para participar en la evaluación del desempeño, deberán estar evaluados y certificados por el Instituto Nacional para la Evaluación de la Educación.
 
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2014)</small>
+
 ###### Artículo 75.
 
-Para efectos del artículo anterior serán aplicables las disposiciones previstas en la Ley General del Servicio Profesional Docente. En consecuencia, el personal en servicio con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de desarrollo profesional a que se refiere la presente ley y, en todo caso, el personal que no alcance un resultado suficiente en la tercera evaluación, no será separado de la función pública educativa y será readscrito en otras tareas dentro de dicho servicio, con pleno respeto a los derechos constitucionales y laborales adquiridos de los trabajadores de la educación y a los criterios de arraigo y residencia. Lo anterior, sin demérito de su derecho a participar en los procesos y concursos a que se refiere la presente ley.
+Para efectos del artículo anterior serán aplicables las disposiciones previstas en el Capítulo VIII de la Ley General del Servicio Profesional Docente.
 
-El personal obligado que no se incorpore a los programas de desarrollo profesional o que no se sujete a los procesos de evaluación previstos en la presente ley, tendrá la responsabilidad que dispone esta ley y demás disposiciones aplicables.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 16 DE ABRIL DE 2014)</small>
 
 La Autoridad Educativa Estatal aplicará las disposiciones, de la Ley General del Servicio Profesional Docente en los casos que el personal no atienda los apoyos y programas previstos, incumpla con la obligación de la evaluación o cuando al término del periodo se identifique su insuficiencia en el nivel de desempeño de la función docente.
 
@@ -1041,9 +1057,11 @@ Los servidores públicos de la Autoridad Educativa Estatal y los Organismos Desc
 
 Será nula y, en consecuencia, no surtirá efecto alguno, toda forma de Ingreso o de Promoción distinta a lo establecido en la Ley General del Servicio Profesional Docente y en esta ley. Dicha nulidad será declarada por el área competente, aplicando para ello el procedimiento previsto en el artículo 75 de la Ley General del Servicio Profesional Docente y en la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2014)</small>
+
 ###### Artículo 84.
 
-Será separado del servicio público el Evaluador que no se excuse de intervenir en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge, su concubina o concubinario, o parientes consanguíneos o por afinidad hasta el cuarto grado.
+Será separado del servicio público sin responsabilidad para la Autoridad Educativa o para el Organismo Descentralizado, y sin necesidad de que exista resolución previa del tribunal laboral competente, el Evaluador que no se excuse de intervenir en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge, su concubina o concubinario, o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles.
 
 Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
 
@@ -1056,6 +1074,10 @@ De comprobarse que la documentación es apócrifa o ha sido alterada, se desecha
 ###### Artículo 86.
 
 El incumplimiento de las obligaciones establecidas en la Ley General del Servicio Profesional Docente y en el presente ordenamiento, dará lugar a la aplicación, conforme a las formalidades del caso, de las sanciones correspondientes, sin perjuicio del derecho del interesado de impugnar por sí, por apoderado legal o su representación sindical, la resolución respectiva ante las autoridades competentes.
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2014)</small>
+
+Lo anterior sin perjuicio de que se den por terminados los nombramientos, en los términos de esta Ley y la Ley General del Servicio Profesional Docente, sin responsabilidad para la Autoridad Educativa o para el Organismo descentralizado y sin necesidad de que exista resolución previa del tribunal laboral competente.
 
 ###### Artículo 87.
 
@@ -1885,7 +1907,9 @@ Segundo. Se derogan la Ley de Educación publicada en la Gaceta Oficial del Esta
 
 En tanto se expide la reglamentación a que se refiere el artículo quinto transitorio de esta ley, se aplicará lo dispuesto en el artículo tercero transitorio de la ley a que se refiere el párrafo anterior.
 
-Tercero. La Autoridad Educativa Estatal diseñará, en términos de ley, un programa para la regularización progresiva de las plazas con funciones de dirección que correspondan a las estructuras ocupacionales de las escuelas de educación básica y de media superior, de conformidad con la disponibilidad presupuestal, y atendiendo a las disposiciones en materia de desarrollo profesional y evaluación formativa, con pleno respeto a los derechos constitucionales y laborales adquiridos de los trabajadores de la educación.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2014)</small>
+
+Tercero. La Autoridad Educativa Estatal diseñará, en términos de la Ley General del Servicio Profesional Docente, un programa para la regularización progresiva de las plazas con funciones de dirección que correspondan a las estructuras ocupacionales de las escuelas de educación básica y de media superior, de conformidad con la disponibilidad presupuestal, y atendiendo a las disposiciones en materia de desarrollo profesional y evaluación formativa, con pleno respeto a los derechos constitucionales y laborales adquiridos de los trabajadores de la educación.
 
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo para el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, derivadas de esta ley.
 
@@ -1895,13 +1919,19 @@ Sexto. En relación con los Consejos Estatal, Escolares y Municipales de Partici
 
 Séptimo. Los docentes que, a la entrada en vigor del presente ordenamiento, se encuentren con nombramientos de personal interino, continuarán su procedimiento de regularización con sujeción a las disposiciones vigentes con anterioridad a la presente ley, en atención a lo dispuesto por el artículo Quinto Transitorio anterior.
 
-Octavo. En tanto se expide la reglamentación que regule el ingreso al servicio docente se continuarán aplicando las disposiciones vigentes.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2014)</small>
+
+Octavo. En tanto se tienen debidamente implementados y en operación los concursos y los procesos de evaluación se estará a lo previsto en las disposiciones aplicables, en términos de lo previsto por las disposiciones transitorias de la Ley General del Servicio Profesional Docente.
 
 Noveno. Para garantizar la continuidad de la prestación del servicio educativo, la Autoridad Educativa Estatal, atendiendo al origen de la plaza, establecerá a la brevedad posible los procedimientos administrativos correspondientes, con base en los criterios, perfiles, parámetros e indicadores previstos en esta ley y demás disposiciones aplicables.
 
 Décimo. Para no afectar la prestación del servicio educativo, en tanto se integran y funcionan las áreas y órganos administrativos previstos en la presente ley, y mientras se generan las condiciones para el efectivo y eficaz funcionamiento del Servicio Profesional Docente en el Estado, las dependencias, órganos, áreas y unidades administrativas que han operado los procesos y procedimientos de evaluación y asignación de plazas de educación básica y de media superior, continuarán desempeñando esas funciones con regularidad, permanencia y continuidad para salvaguardar los derechos y obligaciones, facultades y deberes, a que se refiere el presente ordenamiento.
 
 Décimo Primero. Por única ocasión, a la brevedad posible, la Junta Directiva se instalará y funcionará con los integrantes previstos en el artículo 35, fracciones I, IV, V, VI, VII y VIII, para el propósito de acordar el nombramiento del Director General, así como de tomar el acuerdo para la formalización del procedimiento de integración del Consejo Consultivo y los representantes de éste ante la Junta Directiva del Instituto Veracruzano. Asimismo, durante el período de integración del Consejo Consultivo, la Junta Directiva podrá aprobar, atendiendo a la importancia o urgencia de los asuntos que deba resolver, los acuerdos necesarios para su debida organización y funcionamiento.
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2014)</small>
+
+Décimo Segundo. El personal en servicio que a la entrada en vigor de la Ley General del Servicio Profesional Docente cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de desarrollo profesional a que se refiere dicha Ley y, en todo caso, el personal que no alcance un resultado suficiente en la tercera evaluación, no será separado de la función pública educativa y será readscrito en otras tareas dentro de dicho servicio, con pleno respeto a los derechos constitucionales y laborales adquiridos de los trabajadores de la educación y a los criterios de arraigo y residencia. Lo anterior, sin demérito de su derecho a participar en los procesos y concursos a que se refiere la presente Ley.
 
 DADA EN EL SALÓN DE SESIONES DE LA LXIII LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS CUATRO DÍAS DEL MES DE MARZO DEL AÑO DOS MIL CATORCE.
 
@@ -1928,3 +1958,9 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 16 DE ABRIL DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
