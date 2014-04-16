@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2014-03-14"
+last_updated: "2014-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -15638,7 +15638,7 @@ XII (SIC). Realizar acciones tendientes a la promoción turística de la demarca
 
 XIV. Promover la realización de ferias, exposiciones y congresos de carácter local, nacional e internacional, vinculados a la promoción de actividades industriales, comerciales y económicas en el marco del desarrollo sustentable;
 
-XV. Ordenar la ejecución de visitas domiciliarias y actos de inspección, así como la imposición de medidas de seguridad, correctivas o de urgente aplicación, dentro de la demarcación territorial, en los términos y condiciones establecidos en la Ley Ambiental del Distrito Federal; y
+XV. (DEROGADA, G.O. 16 DE ABRIL DE 2014)
 
 XVI. Promover, orientar y estimular el desarrollo y la modernización del sector empresarial de la demarcación territorial.
 
@@ -15648,11 +15648,15 @@ XVI. Promover, orientar y estimular el desarrollo y la modernización del sector
 
 Corresponde a la Dirección Ejecutiva de Mejora Comunitaria las siguientes atribuciones:
 
-I. Coordinar la atención territorial de los servicios de mantenimiento menor de la infraestructura urbana;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
+
+I. Coordinar la atención territorial de los servicios de mantenimiento preventivo y correctivo de la infraestructura urbana realizada con recursos propios de la Delegación, dando atención oportuna a escuelas, lecherías, centros comunitarios y de salud, distintas a las que correspondan a la Dirección General de Obras y Desarrollo Urbano y Dirección General de Servicios Urbanos;
 
 II. Ejecutar las acciones de mantenimiento correctivo menor a la infraestructura urbana de la Delegación;
 
-III. Proponer al jefe Delegacional proyectos de mantenimiento menor preventivo de la infraestructura urbana de la Delegación;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
+
+III. Proponer los proyectos de mantenimiento menor preventivo de la infraestructura urbana de la Delegación;
 
 IV. Coordinar los estudios y proyectos de obras de mantenimiento menor, preventivo y correctivo, del equipamiento e infraestructura de vialidades secundarias y demás instalaciones de orden público responsabilidad de la Delegación;
 
@@ -15660,7 +15664,9 @@ V. Disponer de los métodos de verificación para el cumplimiento de planes, pro
 
 VI. Coordinar la atención inmediata de las acciones de obra, mantenimiento y rehabilitación de vialidades secundarias, guarniciones y banquetas en la demarcación; y
 
-VII. Establecer con la comunidad de la Delegación Cuauhtémoc, planes y programas de mantenimiento menor de la infraestructura urbana.
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
+
+VII. Establecer con la comunidad de la Delegación Tlalpan, planes y programas de mantenimiento menor de la infraestructura urbana.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -17569,3 +17575,11 @@ G.O. 14 DE MARZO DE 2014.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su firma.
+
+G.O. 16 DE ABRIL DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- El Órgano Político-Administrativo en Tlalpan deberá actualizar su Manual Administrativo.
