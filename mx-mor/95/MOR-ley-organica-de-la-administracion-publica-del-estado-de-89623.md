@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2014-03-26"
+last_updated: "2014-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -277,9 +277,11 @@ El Gobernador del Estado podrá celebrar convenios de coordinación de acciones 
 
 Asimismo, podrá celebrar convenios de concertación con los sectores social y privado dentro del ámbito de sus atribuciones, con apego a la legislación correspondiente.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2014)</small>
+
 ###### Artículo 19.
 
-El Gobernador del Estado resolverá lo procedente, cuando exista duda sobre la competencia de alguna unidad administrativa o entidad o cuando exista controversia sobre la competencia de dos o más de estas.
+El Gobernador del Estado resolverá lo procedente, cuando exista duda sobre la competencia de alguna Unidad Administrativa o Entidad o cuando exista controversia sobre la competencia de dos o más de estas; la comunicación oficial de tal determinación se realizará por conducto del Titular de la Secretaría de Gobierno.
 
 ###### Artículo 20.
 
@@ -1872,3 +1874,13 @@ TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respe
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 16 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado.
