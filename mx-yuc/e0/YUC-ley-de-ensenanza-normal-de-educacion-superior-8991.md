@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ensenanza-normal-de-educacion-superior-8991"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-20"
-last_updated: "1990-12-20"
+last_updated: "2014-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE ENSEÑANZA NORMAL DE EDUCACION SUPERIOR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 167/2014 QUE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 16 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE ABRIL DE 2014 (ABROGADA).
 
 Ley publicada en el Diario Oficial el Jueves 20 de Diciembre de 1990.
 
@@ -120,3 +122,17 @@ LIC. VICTOR MANZANILLA SCHAFFER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 ING. MILTON RUBIO MADERA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 16 DE ABRIL DE 2014.
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. El Consejo Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Yucatán deberá instalarse en un plazo no mayor de cuarenta y cinco días naturales contados a partir de la entrada en vigor de este decreto.
+
+Artículo tercero. A partir de la entrada en vigor de este decreto, quedarán abrogadas la Ley de Enseñanza Normal de Educación Preescolar, la Ley de Enseñanza Normal de Educación Primaria y la Ley de Enseñanza Normal de Educación Superior, todas del Estado de Yucatán publicadas mediante decretos 299, 300 y 349 en el Diario Oficial del Gobierno del Estado de Yucatán, los días 4 de junio de 1990, la primera y la segunda, y 20 de diciembre de 1990, la tercera.
+
+Artículo cuarto. La evaluación estatal a que se refiere el artículo quinto transitorio del decreto número 122 por el que se reforman, derogan y adicionan diversas disposiciones de la Ley de Educación del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 22 de noviembre de 2013, será para el fortalecimiento de las capacidades y competencias de los docentes en servicio, sin contravenir las disposiciones emanadas de la Ley General del Servicio Profesional Docente o de la Ley del Instituto Nacional para la Evaluación de la Educación.
+
+Artículo quinto. Se derogan todas las disposiciones legales y reglamentarias que se opongan a la Ley General del Servicio Profesional Docente o al presente decreto.
