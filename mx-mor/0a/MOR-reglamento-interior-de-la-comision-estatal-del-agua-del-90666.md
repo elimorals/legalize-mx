@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-comision-estatal-del-agua-del-90666"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-12"
-last_updated: "2014-01-29"
+last_updated: "2014-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre del 2012.
 
@@ -1146,33 +1146,21 @@ III. Secretario Técnico: La persona titular de la Dirección General de Adminis
 
 IV. Vocales: Las personas titulares de las Subsecretarías Ejecutivas de Infraestructura Hidroagrícola y Protección contra Inundaciones y de Agua Potable, Drenaje y Saneamiento;
 
-V. Asesores: El Comisario y la persona titular de la Dirección General Jurídica de la Comisión, quienes participarán con voz pero sin voto, e
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2014)</small>
+
+V. Invitados Permanentes: El Comisario Público y la persona Titular de la Dirección General Jurídica de la Comisión, quienes participarán con voz pero sin voto.
 
 VI. Invitados: Los que se consideren necesarios que asistan, a fin de proporcionar o aclarar la información de los asuntos a tratar, de acuerdo con las necesidades particulares de la Comisión, quienes tendrán derecho a voz pero no a voto.
 
-Los integrantes del Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios de la Comisión, nombrarán a un suplente para asistir a las sesiones en los casos en que el titular no pueda asistir, lo que deberán comunicar por escrito al Secretario Ejecutivo.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2014)</small>
+
+Los integrantes del Subcomité cuando lo consideren necesario, podrán invitar a las personas que consideren puedan proporcionar o aclarar la información de los asuntos a tratar de acuerdo con las necesidades particulares de la Comisión, invitados que tendrán derecho a, voz pero no a voto.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2014)</small>
 
 ###### Artículo 52.
 
-El Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios de la Comisión, tendrá las atribuciones siguientes:
-
-I. Divulgar el contenido de la normatividad vigente en materia de adquisiciones, enajenaciones, arrendamientos y prestación de servicios, así como las demás disposiciones jurídicas aplicables a dichas actividades, además de orientar al personal responsable del abastecimiento y manejo de almacenes, paré el cumplimiento de tales normas;
-
-II. Ejecutar sus funciones de conformidad con la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado de Morelos, las leyes federales en la materia y los convenios suscritos con la Federación, que le otorguen facultades específicas;
-
-III. Establecer la coordinación correspondiente con el Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos, para tratar los asuntos en las materias de su competencia y coadyuvar al cumplimiento de las normas y acuerdos que dicte el mencionado Comité, como órgano de autoridad en la materia;
-
-IV. Sugerir las investigaciones y métodos necesarios para otorgar mayor eficacia y unificación a los sistemas y procedimientos relacionados con las adquisiciones a realizar por la Comisión;
-
-V. Supervisar que los bienes adquiridos cumplan con las especificaciones y calidades señaladas en los pedidos y contratos respectivos;
-
-VI. Supervisar la aplicación de los mecanismos de comunicación, coordinación, vigilancia y evaluación sobre el cumplimiento de especificaciones, condiciones y requisitos a que se deben sujetar los proveedores y contratistas, así como el personal de la Comisión asignado a tales actividades;
-
-VII. Someter a la consideración de las Dependencias competentes de la Administración Pública Federal o Estatal, según corresponda, los casos que por su naturaleza o disposición de Ley así lo requieran;
-
-VIII. Las que confiere el Acuerdo por el que se crean Subcomités para el Control de las Adquisiciones de las Dependencias y Organismos Descentralizados de la Administración Pública Estatal, y
-
-IX. Las demás que le sean necesarias para el cumplimiento de sus funciones, atendiendo en todo caso, los convenios y acuerdos de coordinación celebrados entre el Ejecutivo Federal y el Ejecutivo del Estado, así como los demás ordenamientos aplicables en la materia.
+El Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios de la Comisión, para su funcionamiento y desahogo de sus sesiones, observará en lo aplicable, las disposiciones previstas en la Ley Sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos y de su Reglamento.
 
 ### CAPÍTULO XIV. DE LAS MODIFICACIONES AL PRESENTE REGLAMENTO
 
@@ -1249,5 +1237,9 @@ P.O. 28 DE AGOSTO DE 2013.
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 P.O. 29 DE ENERO DE 2014.
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en (sic) Periódico Oficial "Tierra y Libertad".
+
+P.O. 16 DE ABRIL DE 2014.
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en (sic) Periódico Oficial "Tierra y Libertad".
