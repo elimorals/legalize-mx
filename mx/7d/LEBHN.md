@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2013-06-10"
+last_updated: "2014-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -223,6 +223,12 @@ Aniversario de la Toma de Querétaro, por las Fuerzas de la República, en 1867.
 21 de junio:
 
 Aniversario de la Victoria de las armas nacionales sobre el Imperio, en 1867.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2014)</small>
+
+13 de agosto:
+
+Aniversario de la firma de los Tratados de Teoloyucan, en 1914.
 
 > <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2012)</small>
 
@@ -817,3 +823,7 @@ D.O.F. 17 DE ENERO DE 2012.
 D.O.F. 10 DE JUNIO DE 2013.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE ABRIL DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
