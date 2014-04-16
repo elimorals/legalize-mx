@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2014-04-09"
+last_updated: "2014-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -1505,9 +1505,9 @@ El Tesorero y los servidores públicos que manejen fondos o valores estarán obl
 
 El Ayuntamiento deberá exigir la exhibición de la fianza, antes de iniciar el ejercicio de sus funciones. Dicha garantía será renovada en términos del contrato respectivo en tanto la persona ocupe el cargo.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2014)</small>
 
-El monto de la fianza será determinado, por cada Ayuntamiento proporcionalmente al monto del presupuesto ejercido. En ningún caso el Tesorero Municipal podrá tomar posesión de su cargo si omite cumplir con este requisito.
+El monto de la fianza será determinado por cada Ayuntamiento, proporcionalmente al monto del presupuesto ejercido, sin ser menor al 1% de dicho presupuesto, la cual deberá estar vigente hasta la liberación de la cuenta pública. En ningún caso, el Tesorero Municipal podrá tomar posesión de su cargo si omite este requisito.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3350,6 +3350,20 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 16 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO TERCERO.
 
