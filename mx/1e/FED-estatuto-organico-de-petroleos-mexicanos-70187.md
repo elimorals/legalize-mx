@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-70187"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-24"
-last_updated: "2014-02-07"
+last_updated: "2014-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-24"
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 24 de septiembre de 2009.
 
@@ -90,6 +90,10 @@ IX. Plan de Negocios: Aquél a que se refieren los artículos 19, fracción III;
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 2014)</small>
 
 IX-A. Procura y Abastecimiento: Actividades encaminadas a cubrir las necesidades de contratación de bienes, servicios, arrendamientos y obra, considerando calidad, cantidad, tiempo, precio y ubicación para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2014)</small>
+
+IX-B. Salvaguardia Estratégica: Acciones tendientes a proporcionar la seguridad física integral del personal, instalaciones, bienes y valores de PEMEX y Organismos Subsidiarios y, en su caso, filiales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE FEBRERO DE 2014)</small>
 
@@ -597,7 +601,7 @@ I.- Dirección General
 
 II.- Dirección Corporativa de Administración
 
-1. Gerencia de Servicios de Seguridad Física
+1. (DEROGADO, D.O.F. 16 DE ABRIL DE 2014)
 
 2. (DEROGADO, D.O.F. 4 DE FEBRERO DE 2014)
 
@@ -605,7 +609,19 @@ II.- Dirección Corporativa de Administración
 
 3. Gerencia de Seguridad, Salud en el Trabajo y Protección Ambiental
 
-a) Coordinación de Programas Gubernamentales y Consolidación Estratégica
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2014)</small>
+
+a) Subdirección de Salvaguardia Estratégica
+
+1. Gerencia de Estrategia y Sistemas de Seguridad y Monitoreo
+
+2. Gerencia de Seguridad Física
+
+3. Gerencia de Vinculación Interinstitucional de Salvaguardia y Logística
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2014)</small>
+
+a) Bis. Coordinación de Programas Gubernamentales y Consolidación Estratégica
 
 b) Subdirección de Recursos Humanos y Relaciones Laborales
 
@@ -1071,7 +1087,9 @@ IX. Dictaminar y, en su caso, autorizar o someter a consideración superior las 
 
 X. Establecer los sistemas de remuneraciones y de evaluación del desempeño del personal de PEMEX y organismos subsidiarios, con excepción de aquellos mecanismos que correspondan al Consejo de Administración autorizar;
 
-XI. Coordinar la prestación del servicio de seguridad física en PEMEX y organismos subsidiarios, así como autorizar sus respectivos planes y programas;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2014)</small>
+
+XI. Coordinar la prestación del servicio de salvaguardia estratégica en PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como autorizar sus respectivos planes y programas;
 
 XII. Dirigir, coordinar, y evaluar los servicios de salud otorgados a los trabajadores, jubilados y derechohabientes de PEMEX y de los organismos subsidiarios;
 
@@ -1115,37 +1133,99 @@ XXV. Coordinar la ejecución de los planes y programas del Sistema de Administra
 
 XXVI. Administrar el uso del acrónimo “Pemex” y de las marcas respectivas, así como, en su caso, suscribir los convenios que se requieran para ello, en representación de PEMEX.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2014)</small>
+
 ###### Artículo 37.
 
-La Gerencia de Servicios de Seguridad Física tendrá las funciones siguientes:
+La Subdirección de Salvaguardia Estratégica tendrá las funciones siguientes:
 
-I. Coordinar la prestación del servicio de seguridad física del personal, instalaciones, bienes y valores de PEMEX y de los organismos subsidiarios;
+I. Coordinar la prestación de servicios en materia de salvaguardia estratégica del personal, instalaciones, bienes y valores de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-II. Proponer, coordinar e instrumentar los programas de seguridad física en PEMEX, organismos subsidiarios y, en su caso, filiales;
+II. Establecer las estrategias, sistemas, procedimientos y programas en materia de salvaguardia estratégica, en beneficio de PEMEX, Organismos Subsidiarios y, en su caso, filiales, y coordinar su instrumentación;
 
-III. Coordinar las estrategias, sistemas y procedimientos tendentes a preservar y garantizar la seguridad e integridad física del personal, instalaciones, bienes y valores de PEMEX y de los organismos subsidiarios;
+III. (DEROGADA, D.O.F. 16 DE ABRIL DE 2014)
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+IV. Promover y operar los convenios de colaboración en materia de salvaguardia estratégica, en representación de PEMEX, Organismos Subsidiarios y, en su caso, filiales, con las fuerzas armadas y demás dependencias y entidades de la Administración Pública;
 
-IV. Promover y operar los convenios en materia de seguridad física que se suscriban entre PEMEX, Organismos Subsidiarios y filiales, con las fuerzas armadas y demás dependencias de la Administración Pública;
+V. Establecer, evaluar y coordinar las acciones orientadas a detectar riesgos y prevenir actos de terrorismo, sabotaje, robo y cualquier otro que desestabilice el orden y la integridad del personal, bienes muebles e inmuebles y valores de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-V. Dirigir, coordinar y llevar a cabo las acciones orientadas a detectar riesgos y prevenir la realización de actos de terrorismo, sabotaje, robo y cualquier otro, que pongan en peligro el orden laboral, la integridad del personal, bienes muebles e inmuebles y valores de PEMEX, organismos subsidiarios y, en su caso, filiales;
+VI. Determinar la clasificación de las instalaciones estratégicas de PEMEX y Organismos Subsidiarios; así como de la reclasificación de las mismas cuando corresponda mediante la evaluación de los estudios respectivos;
 
-VI. Determinar la vulnerabilidad del personal e instalaciones de PEMEX, organismos subsidiarios y, en su caso, filiales, para incorporar tecnología de punta en materia de inteligencia, protección y seguridad física;
+VII. Representar a PEMEX, Organismos Subsidiarios y, en su caso, filiales, ante las fuerzas armadas y demás dependencias y entidades de la Administración Pública, en materia de salvaguardia estratégica de las instalaciones, así como en los casos de apoyo a la población en casos de desastre;
 
-VII. Representar a PEMEX y organismos subsidiarios ante las fuerzas armadas, dependencias y entidades federales, estatales y municipales, para coordinar la protección física de sus instalaciones y el apoyo a la población en casos de desastre;
+VIII. (DEROGADA, D.O.F. 16 DE ABRIL DE 2014)
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+IX. Dirigir la capacitación institucional, profesional y especializada para el personal de agentes de salvaguardia estratégica;
 
-VIII. Proponer la clasificación o reclasificación “AAA”, “AA” y “A” de las instalaciones estratégicas de PEMEX y Organismos Subsidiarios, de acuerdo con los lineamientos institucionales en materia de integridad operativa;
+X. Gestionar los requerimientos de información para detectar riesgos, amenazas o acontecimientos que puedan afectar a PEMEX, Organismos Subsidiarios y, en su caso, filiales, en su personal, instalaciones, bienes y valores, así como para combatir de manera eficiente el robo de hidrocarburos; sin afectar los sistemas de operación;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+XI. Analizar la evaluación y registro de la información de los sistemas de medición en ductos, en materia de salvaguardia estratégica, sin afectar los sistemas de operación;
 
-IX. Seleccionar, de conformidad con las disposiciones administrativas en materia de reclutamiento y perfil del puesto, al personal de confianza que labore en las actividades de seguridad física, y
+XII. Coordinar la operación de los sistemas de video vigilancia en materia de salvaguardia estratégica y de transporte de personal, aéreos, terrestres y marítimos;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+XIII. Coordinar el control y evaluación de la operación de los sistemas de seguridad, vigilancia, monitoreo y controles de acceso y salida, en materia de salvaguardia estratégica, y
 
-X. Planear y operar un sistema de información sobre riesgos, amenazas o acontecimientos de seguridad física, que puedan afectar a PEMEX, Organismos Subsidiarios y filiales, en su personal, instalaciones, bienes y valores.
+XIV. Dirigir los estudios prospectivos que permitan armonizar la planeación estratégica en materia de salvaguardia estratégica, con los planes nacionales de desarrollo y de negocios.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2014)</small>
+
+Artículo 37 A.- La Gerencia de Estrategia y Sistemas de Seguridad y Monitoreo tendrá las funciones siguientes:
+
+I. Diseñar estrategias para el desempeño de los servicios de salvaguardia estratégica en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+II. Elaborar estudios de vulnerabilidad y análisis de riesgos de las instalaciones estratégicas de PEMEX y Organismos Subsidiarios;
+
+III. Proponer la clasificación y reclasificación de las instalaciones estratégicas de PEMEX y Organismos Subsidiarios;
+
+IV. Diseñar y supervisar un sistema estratégico de salvaguardia, relacionado con el robo de hidrocarburos, así como los actos que pongan en peligro la integridad del personal, instalaciones y valores de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+V. Organizar y dirigir, en coordinación con la Gerencia de Seguridad Física, la operación de los sistemas de video vigilancia, en materia de salvaguardia estratégica, tanto aéreos, terrestres y marítimos;
+
+VI. Supervisar, controlar y evaluar los sistemas de seguridad, vigilancia, monitoreo y controles de acceso y salida de PEMEX y Organismos Subsidiarios;
+
+VII. Analizar la información de los sistemas de medición en ductos; así como conocer sobre su registro y difusión en materia de salvaguardia estratégica, sin afectar las funciones de operación;
+
+VIII. Integrar y supervisar la información de datos, voz e imágenes de los sistemas de seguridad y vigilancia aérea, terrestre y marítima de PEMEX y Organismos Subsidiarios;
+
+IX. Gestionar la información de las bases de datos y estadísticas que coadyuven en el desarrollo de la información, que permitan revelar actos ilícitos en contra de PEMEX y Organismos Subsidiarios, en materia de salvaguardia estratégica, sin afectar la operación de los sistemas;
+
+X. Organizar y supervisar las evaluaciones de control y confianza al personal que aspira a ingresar a la Subdirección de Salvaguardia Estratégica, así como al personal que labora en la misma y al encargado de la vigilancia en el interior y área perimetral de los centros de trabajo de PEMEX y Organismos Subsidiarios;
+
+XI. Realizar el intercambio de información en materia de salvaguardia estratégica con las dependencias y entidades competentes de la Administración Pública;
+
+XII. Organizar y controlar la selección y despliegue del personal de la Subdirección de Salvaguardia Estratégica;
+
+XIII. Elaborar los estudios que permitan mantener actualizados los requerimientos tecnológicos en materia de salvaguardia estratégica de PEMEX y Organismos Subsidiarios, y
+
+XIV. Establecer y operar el sistema de denuncia anónima y ciudadana de PEMEX y Organismos Subsidiarios relacionado con actos ilícitos que atenten contra la seguridad del personal, instalaciones y valores de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2014)</small>
+
+Artículo 37 B.- La Gerencia de Seguridad Física tendrá las funciones siguientes:
+
+I. Establecer y dar seguimiento al desempeño de los servicios de salvaguardia estratégica de PEMEX y Organismos Subsidiarios;
+
+II. Determinar las áreas geográficas donde serán empleados los sistemas de video vigilancia aéreos, terrestres y marítimos, en materia de salvaguardia estratégica;
+
+III. Operar los sistemas de video vigilancia en materia de salvaguardia estratégica y de transporte de personal, tanto aéreos, terrestres y marítimos;
+
+IV. Conducir acciones de salvaguardia estratégica, orientadas a prevenir y disminuir riesgos y actos de vandalismo, terrorismo, sabotaje, robo y cualquier otro que desestabilice el orden laboral, la integridad del personal, instalaciones y valores de PEMEX y Organismos Subsidiarios;
+
+V. Proporcionar la capacitación y adiestramiento especializados al personal de la Subdirección de Salvaguardia Estratégica, incluyendo al de contratación especial y al que efectúa labores de vigilancia en PEMEX y Organismos Subsidiarios, y
+
+VI. Dirigir y desplegar las acciones de control orientadas a repeler posibles agresiones y/o conductas en los trabajadores, que alteren el orden laboral o pongan en riesgo a los centros de trabajo de PEMEX y Organismos Subsidiarios.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2014)</small>
+
+Artículo 37 C.- La Gerencia de Vinculación Interinstitucional de Salvaguardia y Logística tendrá las funciones siguientes:
+
+I. Elaborar convenios de colaboración en materia de salvaguardia estratégica entre PEMEX, Organismos Subsidiarios y, en su caso, filiales, con las fuerzas armadas y demás dependencias y entidades de la Administración Pública, en términos de la normativa interna aplicable;
+
+II. Gestionar los requerimientos especializados, que en materia de recursos humanos, materiales y financieros, sean necesarios para proporcionar los servicios de salvaguardia estratégica en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+III. Operar el sistema especializado de reclutamiento, selección, contratación, capacitación y adiestramiento del recurso humano de contratación especial, adscrito a la Subdirección de Salvaguardia Estratégica, y
+
+IV. Administrar el manejo eficiente de la licencia oficial colectiva, otorgada a PEMEX.
 
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2014)</small>
 
@@ -6456,3 +6536,11 @@ DÉCIMO TERCERO. La estructura orgánica autorizada deberá presentarse para su 
 DÉCIMO CUARTO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
 
 DÉCIMO QUINTO. Una vez que formalmente hayan sido transferidos los recursos, a que se refiere el artículo Séptimo Transitorio, se deberá publicar en el Diario Oficial de la Federación el aviso para los efectos correspondientes frente a terceros.
+
+D.O.F. 16 DE ABRIL DE 2014.
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las referencias que se hagan a la Gerencia de Servicios de Seguridad Física que cambia de denominación por virtud de las presentes modificaciones, así como las atribuciones que se le otorgan en otros instrumentos, se entenderán hechas o conferidas a la Subdirección de Salvaguardia Estratégica y a sus unidades administrativas que correspondan, conforme a las presentes modificaciones.
+
+TERCERO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos y Organismos Subsidiarios.
