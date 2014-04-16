@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2013-09-13"
+last_updated: "2014-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -378,9 +378,17 @@ VIII. Los establecimientos de impacto zonal, deberán tener alcoholímetros o me
 
 El titular o empleado deberá sugerirle al conductor que sea notorio su estado de ebriedad que no conduzca;
 
-IX. Los establecimientos mercantiles de impacto zonal, deberán contar con sistemas de recuperación de aguas grises y sistemas de ahorro de agua, asimismo contar con focos de bajo consumo de energía y con mingitorios de los llamados secos. Respecto a las botellas vacías de vinos y licores todas deberán romperse, a fin de evitar que sean comercializadas y reutilizadas para la venta de bebidas adulteradas; y
+IX. Los establecimientos mercantiles de impacto zonal, deberán contar con sistemas de recuperación de aguas grises y sistemas de ahorro de agua, asimismo contar con focos de bajo consumo de energía y con mingitorios de los llamados secos.
 
-X. Las demás que les señalen esta Ley y la normatividad aplicable. En los Avisos y Solicitudes de Permisos los titulares de los establecimientos no estarán obligados al cumplimiento de requisitos adicionales a los que establece el presente ordenamiento.
+Respecto a las botellas vacías de vinos y licores todas deberán romperse, a fin de evitar que sean comercializadas y reutilizadas para la venta de bebidas adulteradas; y (sic)
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2014)</small>
+
+Se deberán de instalar sistemas de purificación de agua, y/o dispensadores de agua potable, para los clientes que así lo soliciten para su consumo.
+
+X. Las demás que les señalen esta Ley y la normatividad aplicable.
+
+En los Avisos y Solicitudes de Permisos los titulares de los establecimientos no estarán obligados al cumplimiento de requisitos adicionales a los que establece el presente ordenamiento.
 
 ###### Artículo 11.
 
@@ -723,6 +731,10 @@ Los restaurantes, los establecimientos de hospedaje, clubes privados y los estab
 Los titulares de este tipo de establecimientos procurarán que en las cartas o menús se establezca la información nutricional de los alimentos y bebidas que ofrecen al público, especificando, en caso de ser posible, el porcentaje o cantidad que contienen de sodio, calorías, carbohidratos, proteínas, grasa y azúcar, entre otros. Igualmente, procurarán contar con carta o menú en escritura tipo braille.
 
 Sus titulares serán responsables de que la asignación de una mesa o el ingreso del público asistente no se condicionen al pago de un consumo mínimo, y no se exija el consumo constante de alimentos y/o bebidas, para poder permanecer en el establecimiento.
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2014)</small>
+
+En los establecimientos que señala el presente artículo se deberá proporcionar de manera obligatoria y gratuita, agua potable a los clientes que así lo soliciten.
 
 La Secretaría de Salud del Gobierno del Distrito Federal, en coordinación con las autoridades competentes, determinarán e impulsarán en los establecimientos a que hace mención el párrafo primero del presente artículo, la adopción de medidas que permitan la realización de acciones específicas de prevención y fomento al cuidado personal de la salud en materia de VIH-SIDA y otras infecciones de transmisión sexual.
 
@@ -1230,9 +1242,11 @@ Cuando se detecte la expedición o venta de bebidas alcohólicas en contravenci�
 
 El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al sitio de almacenaje destinado por la Autoridad, previo inventario del aseguramiento, del cual se entregará copia de manera inmediata al titular del establecimiento o evento de que se trate.
 
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2014)</small>
+
 ###### Artículo 64.
 
-Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones VIII y IX inciso a); 10 apartado B fracciones I y IX; 11 fracción VIII; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo y cuarto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
+Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 Apartado A fracciones VIII y IX inciso a); 10 apartado B fracciones I y IX; 11 fracción VIII; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo, cuarto y quinto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley." (sic)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1489,3 +1503,11 @@ G.O. 13 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- La sanción establecida en el artículo 65, con relación a la fracción X del artículo 48 de la Ley de Establecimientos Mercantiles del Distrito Federal, entrara en vigor a partir de los 90 días hábiles de la publicación del presente Decreto. Con la finalidad de que los establecimientos obligados realicen las adecuaciones correspondientes a sus instalaciones para el cumplimiento de la Ley.
+
+G.O. 16 DE ABRIL DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Los establecimientos mercantiles a que hace referencia la presente reforma contarán con 180 días naturales para efectuar las modificaciones necesarias.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
