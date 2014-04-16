@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2011-06-21"
+last_updated: "2014-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2000-05-05"
 ---
 # LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-LEY DE EDUCACION DEL DISTRITO FEDERAL
+LEY DE EDUCACIÓN DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -77,6 +77,10 @@ Las universidades y demás instituciones de educación superior establecidas en 
 ###### Artículo 4°.
 
 El Gobierno del Distrito Federal tiene la obligación de atender y prestar a todos los habitantes de la entidad educación preescolar, primaria, secundaria y media superior. Además, atenderá, promoverá e impartirá todos los tipos, niveles y modalidades educativos, incluida la educación superior; apoyará la investigación científica y tecnológica; alentará, fortalecerá y difundirá la cultura regional, nacional y universal, así como la práctica de actividades relacionadas con la Educación Física y el Deporte.
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2014)</small>
+
+Asimismo, garantizará el suministro de agua potable, mediante la instalación de bebederos en todos los planteles de educación básica y media superior que formen parte del sistema educativo del Distrito Federal.
 
 ###### Artículo 5º.
 
@@ -436,11 +440,11 @@ Es obligación de la Secretaría de Educación del Distrito Federal vigilar que 
 
 Se consideran de interés social las inversiones que en materia educativa realicen el Gobierno del Distrito Federal, sus organismos descentralizados y desconcentrados, y los particulares.
 
-> <small>(REFORMADO, G.O. 8 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2014)</small>
 
 ###### Artículo 33.
 
-En el gasto educativo del Gobierno del Distrito Federal se deberá tomar en cuenta, prioritariamente, a los factores que determinan la calidad y mejoría de los servicios educativos, tales como el salario profesional de los profesores, la formación, actualización y capacitación de los docentes, la innovación e investigación educativas, la orientación vocacional, la dotación de materiales curriculares de calidad, el otorgamiento de libros de texto para secundaria, los desayunos escolares, las becas, anteojos, en caso de que su estado de salud lo requiera; la inspección y la evaluación del sistema educativo de la Ciudad de México.
+En el gasto educativo del Gobierno del Distrito Federal se deberá tomar en cuenta, prioritariamente, a los factores que determinan la calidad y mejoría de los servicios educativos, tales como el salario profesional de los profesores, la formación, actualización y capacitación de los docentes, la innovación e investigación educativas, la orientación vocacional, la dotación de materiales curriculares de calidad, el otorgamiento de libros de texto para secundaria, los desayunos escolares, el suministro de agua potable a través de bebederos en las instalaciones educativas de preescolar, primaria, secundaria y media superior, las becas, anteojos, en caso de que su estado de salud lo requiera; la inspección y la evaluación del sistema educativo de la Ciudad de México.
 
 ###### Artículo 34.
 
@@ -548,7 +552,7 @@ Para ejercer las funciones de dirección de los centros escolares, jefaturas de 
 
 ### CAPÍTULO IV. DE LA EDUCACIÓN MEDIA SUPERIOR
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 51.
 
@@ -742,7 +746,7 @@ Es obligación de la Secretaria de Educación del Distrito Federal difundir los 
 
 Los centros de educación especial serán atendidos por un equipo multidisciplinario, integrado por profesionales de diversas áreas del conocimiento cuya responsabilidad principal es apoyar a las personas que requieran de los servicios de educación especial y se constituirá por especialistas titulados y demás personal profesional que demande el servicio. Los integrantes de este equipo deberán ejercer funciones acordes con su formación, estarán encargados del apoyo a las personas con necesidades educativas especiales, mediante el proceso de detección, determinación, atención, evaluación y seguimiento. La función académica será exclusiva de profesores egresados de las instituciones formadoras de docentes.
 
-###### Articulo 91.
+###### Artículo 91.
 
 Es derecho y obligación de los padres de familia o tutores de personas con necesidades educativas especiales recibir la debida orientación y participar en los programas que promuevan el desarrollo integral de sus hijos o pupilos, así como la toma de decisiones que favorezcan su educación. También es facultad de ellos organizarse y participar con las instituciones en la integración de las personas con necesidades educativas especiales.
 
@@ -948,9 +952,9 @@ III. Construir y dar mantenimiento, a los centros de educación especial.
 
 IV. Establecer sistemas efectivos de educación abierta y supervisar la calidad del servicio.
 
-> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
 
-V. Mantener y rehabilitar permanentemente los edificios escolares, sus anexos y el equipo educativo, incluyendo las instalaciones destinadas a la práctica de actividades relacionadas con la Educación Física y el Deporte.
+V. Mantener y rehabilitar permanentemente los edificios escolares, sus anexos y el equipo educativo, incluyendo las instalaciones destinadas a la práctica de actividades relacionadas con la Educación Física y el Deporte, así como el mantenimiento e instalación de bebederos de agua potable.
 
 VI. Satisfacer la demanda de personal docente, técnico, especializado y de apoyo a la educación, necesario para atender a todos los educandos en forma óptima.
 
@@ -982,9 +986,9 @@ XVIII. Dotar de libros de texto gratuitos a todos los estudiantes de educación 
 
 XIX. Inspeccionar y supervisar los establecimientos privados que impartan educación, para que cumplan con los planes y programas de estudio oficiales, exigiendo rigurosidad y apego a los mismos, particularmente en aquellos de educación especial, para adultos, técnica y abierta y,
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
 
-XX. Los demás que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, en los que se privilegien programas de educación artística, cívica y físico-deportivas; y se combata la desnutrición, obesidad, y el consumo de sustancias que atenten contra la integridad física, emocional, intelectual, psíquica y social de los educandos.
+XX. Los demás que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, en los que se privilegien programas de educación artística, cívica y físico-deportivas, y de fomento de consumo de agua potable; y se combata la desnutrición, obesidad, y el consumo de sustancias que atenten contra la integridad física, emocional, intelectual, psíquica y social de los educandos.
 
 ###### Artículo 120.
 
@@ -1191,6 +1195,12 @@ X. Recibir apoyos compensatorios cuando demuestren que sus recursos económicos 
 XI. Tener acceso gratuitamente a los servicios médicos que proporcione el Gobierno del Distrito Federal.
 
 XII. Conocer las disposiciones contenidas en los reglamentos de las instituciones en las que están inscritos.
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2014)</small>
+
+###### Artículo 142 Bis.
+
+Los educandos de los niveles preescolar, primaria, secundaria y media superior, tendrán derecho al acceso a que se les suministre agua potable para su consumo a través de bebederos.
 
 ###### Artículo 143.
 
@@ -1534,7 +1544,7 @@ La imposición de las sanciones establecidas en la presente ley no excluye la po
 
 ## TRANSITORIO
 
-> <small>(DEROGADO [N. DE E. REFORMADA SU NUMERACION], G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(DEROGADO [N. DE E. REFORMADA SU NUMERACIÓN], G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1566,11 +1576,11 @@ Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 28 de abri
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los cinco días del mes de mayo de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 13 DE OCTUBRE DE 2006.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
 
 G.O. 6 DE FEBRERO DE 2007.
 
@@ -1657,3 +1667,13 @@ G.O. 21 DE JUNIO DE 2011.
 Primero. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 Segundo. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 16 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El cumplimiento del presente Decreto por parte del Gobierno del Distrito Federal se hará conforme a la suficiencia presupuestal con que se cuente en cada ejercicio presupuestal correspondiente, conforme a las disposiciones federales aplicables.
