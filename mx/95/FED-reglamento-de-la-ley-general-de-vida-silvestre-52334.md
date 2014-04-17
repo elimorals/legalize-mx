@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-vida-silvestre-52334"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-30"
-last_updated: "2006-11-30"
+last_updated: "2014-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52334&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-11-29"
 
 REGLAMENTO DE LA LEY GENERAL DE VIDA SILVESTRE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2014.
 
 Reglamento publicado en la Séptima Sección del Diario Oficial de la Federación, el jueves 30 de noviembre de 2006.
 
@@ -125,7 +125,9 @@ c) Su carácter endémico, cuando se trate de especies o poblaciones en riesgo, 
 
 d) El alto grado de interés social, cultural, científico o económico existente respecto a ellas.
 
-III. La declaración de hábitat críticos para la conservación de la vida silvestre;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2014)</small>
+
+III. El establecimiento de hábitats críticos para la conservación de la vida silvestre;
 
 IV. La revocación de autorizaciones otorgadas para el aprovechamiento de especies silvestres en los términos previstos en el artículo 90, inciso b), de la Ley;
 
@@ -697,9 +699,11 @@ VI. La finalidad del movimiento.
 
 La Secretaría, a través de la PROFEPA y de la unidad administrativa encargada de emitir las autorizaciones a las que se refiere el presente Reglamento, deberán integrar una base de datos electrónica sobre las importaciones, exportaciones y reexportaciones autorizadas y realizadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ABRIL DE 2014)</small>
+
 ###### Artículo 62.
 
-Los interesados en realizar importaciones de ejemplares, partes y derivados de la vida silvestre que requieran de permisos o certificados CITES, conforme al artículo 55 de la Ley, deberán solicitarlo a la Secretaría, cumpliendo con los siguientes requisitos:
+Los interesados en realizar importaciones de ejemplares, partes y derivados de la vida silvestre, que requieran de permisos o certificados CITES, conforme al artículo 55 de la Ley o de autorización en los términos del artículo 55 bis del mismo ordenamiento, deberán solicitarlo a la Secretaría, cumpliendo con los siguientes requisitos:
 
 I. Indicar si la importación es de forma definitiva o temporal;
 
@@ -731,9 +735,11 @@ II. Copia simple del permiso CITES de importación, en la que conste la verifica
 
 III. Copia simple del documento en que conste la verificación sanitaria realizada por las autoridades competentes, en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ABRIL DE 2014)</small>
+
 ###### Artículo 65.
 
-Los interesados en realizar exportaciones o reexportaciones de ejemplares, partes o derivados de la vida silvestre que requieran de permisos o certificados CITES, conforme al artículo 55 de la Ley, deberán solicitarlo a la Secretaría cumpliendo con los siguientes requisitos:
+Los interesados en realizar exportaciones o reexportaciones de ejemplares, partes o derivados de la vida silvestre, que requieran de permisos o certificados CITES, conforme al artículo 55 de la Ley o de autorización en los términos del artículo 55 bis del mismo ordenamiento, deberán solicitarlo a la Secretaría, cumpliendo con los siguientes requisitos:
 
 I. Indicar si la exportación es de forma definitiva o temporal;
 
@@ -779,31 +785,43 @@ Para efectos de la exención de autorizaciones de exportación e importación a 
 
 ### CAPÍTULO PRIMERO. Hábitat Crítico para la Conservación de la Vida Silvestre
 
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2014)</small>
+
 ###### Artículo 70.
 
-Para los efectos del artículo 63 de la Ley, la declaración de hábitat crítico que realice la Secretaría será publicada en el Diario Oficial de la Federación y prevendrá la coordinación con las dependencias y entidades de la Administración Pública Federal para que éstas no autoricen proyectos o provean fondos que puedan destruir o amenazar las áreas designadas.
+Para los efectos del artículo 63 de la Ley, el Acuerdo Secretarial por el que se establezca el hábitat crítico para la conservación de la vida silvestre se publicará en el Diario Oficial de la Federación y prevendrá la coordinación con las dependencias y entidades de la Administración Pública Federal para que éstas no autoricen proyectos o provean fondos que puedan destruir o amenazar las áreas designadas.
 
-Cuando en un área declarada hábitat crítico se realicen actividades que puedan acelerar los procesos de degradación o destrucción del hábitat, respecto de los cuales se hayan expedido autorizaciones que se encuentren vigentes al momento de la declaración correspondiente, las autoridades que hubiesen expedido dichas autorizaciones promoverán la incorporación de sus titulares a los planes de recuperación previstos en la declaratoria del hábitat crítico de que se trate. Las áreas que se declaren hábitat crítico se definirán por la superficie que ocupaba la distribución de la especie en el momento en que fue listada.
+Cuando se establezca un hábitat crítico y se realicen actividades que puedan acelerar los procesos de degradación o destrucción del hábitat, respecto de los cuales se hayan expedido autorizaciones que se encuentren vigentes al momento de su establecimiento, las autoridades que hubiesen expedido dichas autorizaciones promoverán la incorporación de sus titulares a los planes de recuperación previstos en el Acuerdo Secretarial del hábitat crítico de que se trate. Las áreas establecidas como hábitat crítico se definirán por la superficie que ocupaba la distribución de la especie en el momento en que fue listada.
 
-Para el cumplimiento de las metas establecidas en la declaratoria correspondiente, la Secretaría podrá solicitar al Ejecutivo Federal la expropiación de la zona declarada, o bien, la imposición de limitaciones o modalidades a la propiedad del sitio de que se trate, en los términos de los artículos 64 de la Ley, y 1, fracción X, y 2 de la Ley de Expropiación.
+Para el cumplimiento de las metas establecidas en el Acuerdo Secretarial correspondiente, la Secretaría podrá solicitar al Ejecutivo Federal la expropiación de la zona establecida como hábitat crítico, o bien, la imposición de limitaciones o modalidades a la propiedad del sitio de que se trate, en los términos de los artículos 64 de la Ley, y 1, fracción X, y 2 de la Ley de Expropiación.
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2014)</small>
 
 ###### Artículo 71.
 
-El Consejo deberá dar respuesta dentro de los quince días hábiles siguientes a la fecha en la cual la Secretaría solicite la opinión a que se refiere el artículo 63 de la Ley. En caso de no tener respuesta dentro del plazo señalado, la Secretaría podrá proceder a la declaratoria de hábitat crítico.
+El Consejo deberá dar respuesta dentro de los quince días hábiles siguientes a la fecha en la cual la Secretaría solicite la opinión a que se refiere el artículo 16 de la Ley. En caso de no tener respuesta dentro del plazo señalado, la Secretaría podrá continuar con el procedimiento para expedir el Acuerdo por el que se establezca un hábitat crítico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ABRIL DE 2014)</small>
 
 ###### Artículo 72.
 
-La declaratoria de hábitat crítico deberá contener:
+El Acuerdo Secretarial por el que se establezca un hábitat crítico deberá contener:
 
-I. El objeto de la misma;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2014)</small>
+
+I. El objeto del mismo;
 
 II. Las medidas o acciones a realizar para el logro de dicho objetivo;
 
 III. El plan para la recuperación que se estime necesario aplicar al caso concreto;
 
-IV. Los mecanismos de coordinación a implementarse para la consecución del objeto de la declaratoria;
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2014)</small>
 
-V. Las medidas especiales de manejo y conservación que deberán considerarse en los planes de manejo de las UMA que pudieran desarrollarse en el mismo, y
+IV. Los mecanismos de coordinación a implementarse para la consecución de su objeto;
+
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2014)</small>
+
+V. Las medidas especiales de manejo, mitigación de impactos y conservación que deberán considerarse en los planes de manejo de las UMA que pudieran desarrollarse en el mismo, y
 
 VI. La superficie y determinación del polígono en coordenadas UTM.
 
@@ -832,6 +850,12 @@ c) Problemática de la especie que motive la declaración, y
 d) Justificación para el establecimiento del área de refugio.
 
 III. Aspectos socioeconómicos de las actividades que afecten la especie o hábitat objeto del acuerdo de refugio correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2014)</small>
+
+Artículo 73 bis. La Secretaría previo a la elaboración de los estudios justificativos a que se refiere el artículo 67 de la Ley, podrá solicitar la opinión técnica de alguna dependencia de la Administración Pública Federal, cuando por las características del área de refugio así se requiera.
+
+Las dependencias deberán de emitir la opinión a que se refiere el párrafo anterior en un plazo de 30 días naturales.
 
 ###### Artículo 74.
 
@@ -957,11 +981,37 @@ En caso de colecta o captura ilícita flagrante, la Secretaría podrá liberar i
 
 Queda prohibida la liberación de ejemplares de especies domésticas o exóticas.
 
-### CAPÍTULO PRIMERO. Aprovechamiento Extractivo
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 17 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO SEXTO. Atención al Varamiento de Mamíferos Marinos
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2014)</small>
+
+Artículo 90 BIS. La Secretaría elaborará, con la intervención que corresponda a la Secretaría de Marina, el Protocolo para definir las acciones generales de organización y actuación inmediata para la atención al varamiento de mamíferos marinos y lo expedirá mediante Acuerdo que publicará en el Diario Oficial de la Federación.
+
+El Protocolo de atención para varamiento de mamíferos marinos, contendrá lo siguiente:
+
+I. Los tipos de varamiento, clasificados considerando el número de animales involucrados, sus especies, su condición vital y su estado físico;
+
+II. Los mecanismos de organización entre las autoridades y la población para la atención del varamiento;
+
+III. Las acciones preventivas, incluyendo la capacitación a la población y a las autoridades de otras dependencias o entidades de la Administración Pública Federal involucradas en la atención a varamientos;
+
+IV. Los mecanismos para la información sobre la existencia de un varamiento;
+
+V. El procedimiento general de atención a varamientos, que comprenderá las acciones previas, inmediatas y de manejo de los ejemplares involucrados;
+
+VI. Las medidas generales para el manejo de los ejemplares, así como el esquema de decisiones que pueden adoptarse para la atención del varamiento, incluyendo los diagramas correspondientes;
+
+VII. Los mecanismos para la organización para diversos sectores interesados en apoyar a la PROFEPA durante y después de la atención a un varamiento, y
+
+VIII. Las demás acciones técnicas u operativas que la Secretaría o la PROFEPA consideren necesarias.
+
+Las dependencias y entidades de la Administración Pública Federal prestarán a la Secretaría y a la PROFEPA, la colaboración, apoyo técnico y asistencia que se requiera para la atención al varamiento de mamíferos marinos.
 
 ## TÍTULO QUINTO. APROVECHAMIENTO SUSTENTABLE DE LA VIDA SILVESTRE
 
-### CAPÍTULO SEGUNDO. Aprovechamiento para fines de subsistencia
+### CAPÍTULO PRIMERO. Aprovechamiento Extractivo
 
 #### Sección Primera. Disposiciones generales
 
@@ -1071,7 +1121,7 @@ El aprovechamiento de ejemplares en confinamiento quedará sujeto a que de la ev
 
 Los responsables de las UMA o predios e instalaciones en los que se maneje vida silvestre que realicen actividades de aprovechamiento deberán incluir en el informe anual al que se refiere el artículo 50 del presente Reglamento, la información relativa al desarrollo de estas actividades.
 
-### CAPÍTULO TERCERO. Aprovechamiento en Ritos y Ceremonias Tradicionales
+### CAPÍTULO SEGUNDO. Aprovechamiento para fines de subsistencia
 
 ###### Artículo 106.
 
@@ -1099,7 +1149,7 @@ La Secretaría podrá aplicar los criterios previstos en el presente artículo p
 
 La Secretaría promoverá y reconocerá la creación de figuras asociativas que integren las personas que realicen aprovechamiento de subsistencia, en los términos pactados en los convenios que se realicen entre éstas, conforme a los criterios señalados en el artículo anterior.
 
-### CAPÍTULO CUARTO. Aprovechamiento mediante la Caza Deportiva
+### CAPÍTULO TERCERO. Aprovechamiento en Ritos y Ceremonias Tradicionales
 
 ###### Artículo 110.
 
@@ -1123,7 +1173,7 @@ VI. Volumen y temporalidad del aprovechamiento.
 
 Para lograr la sustentabilidad en este tipo de aprovechamientos, la Secretaría podrá establecer medidas para la conservación o limitaciones para el aprovechamiento de ejemplares silvestres en ritos y ceremonias tradicionales, informando lo conducente a las comunidades involucradas, cuando determine, con base en información científica, técnica y tradicional disponible, que ciertos aprovechamientos estén poniendo en riesgo a las poblaciones de especies silvestres, o cuando tenga conocimiento que se modificaron las técnicas y medios de aprovechamiento.
 
-### CAPÍTULO QUINTO. Colecta Científica y con Propósitos de Enseñanza
+### CAPÍTULO CUARTO. Aprovechamiento mediante la Caza Deportiva
 
 #### Sección Primera. Disposiciones preliminares
 
@@ -1231,7 +1281,7 @@ IV. Descripción de las actividades realizadas, y
 
 V. Nombre de los asistentes que participaron en su ejecución.
 
-### CAPÍTULO SEXTO. Aprovechamiento Extractivo con Fines de Reproducción
+### CAPÍTULO QUINTO. Colecta Científica y con Propósitos de Enseñanza
 
 ###### Artículo 123.
 
@@ -1349,7 +1399,7 @@ La Secretaría contará con quince días hábiles a partir de la recepción de l
 
 Para el caso de que el particular no atienda el apercibimiento en el plazo de quince días, se tendrá por no presentado el informe.
 
-### CAPÍTULO SÉPTIMO. Conservación de la Vida Silvestre fuera de su Hábitat Natural
+### CAPÍTULO SEXTO. Aprovechamiento Extractivo con Fines de Reproducción
 
 ###### Artículo 128.
 
@@ -1365,7 +1415,7 @@ En este supuesto, el interesado se sujetará a los porcentajes establecidos en l
 
 La Secretaría tomará en consideración los resultados del material parental autorizado en la reproducción para otorgar o negar nuevas autorizaciones.
 
-### CAPÍTULO OCTAVO. Aprovechamiento No Extractivo
+### CAPÍTULO SÉPTIMO. Conservación de la Vida Silvestre fuera de su Hábitat Natural
 
 ###### Artículo 131.
 
@@ -1389,7 +1439,7 @@ Recibida la solicitud, se entenderá que la colección ha quedado registrada en 
 
 Los titulares de las colecciones registradas deberán actualizar anualmente ante la Secretaría, la información a que se refieren las fracciones I y II del presente artículo mediante un escrito libre. Una vez recibido el aviso, se entenderá que la información ha quedado actualizada en el Padrón.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO OCTAVO. Aprovechamiento No Extractivo
 
 ###### Artículo 132.
 
@@ -1440,6 +1490,8 @@ IX. La demás necesaria para evitar efectos negativos sobre la vida silvestre.
 ###### Artículo 135.
 
 Para la transferencia de derechos de aprovechamiento no extractivo, los titulares de autorizaciones seguirán el procedimiento establecido en el artículo 92 de este Reglamento.
+
+### CAPÍTULO ÚNICO
 
 ## TÍTULO SEXTO. INSPECCIÓN, VIGILANCIA, MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
@@ -1546,3 +1598,17 @@ NOVENO. A las UMA que sean registradas a partir de la entrada en vigor de este R
 DÉCIMO. La Secretaría, durante el plazo de ciento veinte días naturales contados a partir de la fecha en que entre en vigor el presente Reglamento, dará a conocer a través del Diario Oficial de la Federación, los formatos, manuales e instructivos previstos en este ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, José Luis Luege Tamargo.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE ABRIL DE 2014.
+
+DECRETO POR EL QUE SE ADICIONA EL CAPÍTULO SEXTO AL TÍTULO CUARTO Y EL ARTÍCULO 90 BIS AL REGLAMENTO DE LA LEY GENERAL DE VIDA SILVESTRE.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, EN SU FRACCIÓN III, 62, PÁRRAFO PRIMERO, 65, PÁRRAFO PRIMERO, 70, 71 Y 72, PÁRRAFO PRIMERO Y EN SUS FRACCIONES I, IV Y V, Y SE ADICIONA UN ARTÍCULO 73 BIS, DEL REGLAMENTO DE LA LEY GENERAL DE VIDA SILVESTRE.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
