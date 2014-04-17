@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-la-procuraduria-general-de-la-47131"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-12-16"
-last_updated: "2005-12-16"
+last_updated: "2014-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47131&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-12-08"
 ---
 # CODIGO DE CONDUCTA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-CODIGO DE CONDUCTA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
+CÓDIGO DE CONDUCTA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA, PUBLICADO EN EL D.O.F. DE 17 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2014 (ABROGADO).
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de diciembre de 2005.
 
@@ -110,3 +112,11 @@ SEGUNDO. Quedan sin efectos el Código de Conducta y Mística Institucional de l
 Sufragio Efectivo. No Reelección.
 
 México, D.F., a 8 de diciembre de 2005.- El Procurador General de la República, Daniel Francisco Cabeza de Vaca Hernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE ABRIL DE 2014.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan los Acuerdos A/217/05 por el que se expide el Código de Conducta de la Procuraduría General de la República, y el Acuerdo A/290/12 por el que se reforma el diverso A/217/05 por el que se expide el Código de Conducta de la Procuraduría General de la República.
