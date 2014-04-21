@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-9-2010-del-pleno-del-consejo-de-la-75132"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-06-02"
-last_updated: "2010-06-02"
+last_updated: "2014-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75132&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-05-25"
 ---
 # ACUERDO GENERAL 9/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [REFORMA EL DIVERSO 32/2005 QUE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y DE APOYO ECONOMICO EXTRAORDINARIO]
 
-ACUERDO GENERAL 9/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTICULOS 6, 8, 16 Y 25 DEL ACUERDO GENERAL 32/2005 DEL PROPIO PLENO, QUE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y DE APOYO ECONOMICO EXTRAORDINARIO A LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
+ACUERDO GENERAL 9/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 6, 8, 16 Y 25 DEL ACUERDO GENERAL 32/2005 DEL PROPIO PLENO, QUE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y DE APOYO ECONÓMICO EXTRAORDINARIO A LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL CONJUNTO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL Y DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA EL PLAN DE APOYOS MÉDICOS COMPLEMENTARIOS Y DE APOYO ECONÓMICO EXTRAORDINARIO PARA LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 21 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de junio de 2010.
 
@@ -100,3 +102,15 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 32/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 MARIA DOLORES OMAÑA RAMIREZ, SECRETARIA EJECUTIVA DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 9/2010, del Pleno del Consejo de la Judicatura Federal, que Reforma los Artículos 6, 8, 16 y 25 del Acuerdo General 32/2005 del propio Pleno, que Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de doce de mayo de dos mil diez, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a veinticinco de mayo de dos mil diez.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE ABRIL DE 2014.
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente a su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga el Acuerdo General 32/2005 del Pleno del Consejo de la Judicatura Federal, por el que se Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, publicado en el Diario Oficial de la Federación el diecinueve de agosto de dos mil cinco, asimismo, la Aclaración a dicho Acuerdo General publicada en el Diario Oficial de la Federación el veintitrés de agosto de dos mil cinco, así como los Acuerdos Generales 23/2006, 9/2008, 9/2010 y 14/2011 que reforman y derogan diversas disposiciones, publicados en el Diario Oficial de la Federación el once de abril de dos mil seis, el catorce de marzo de dos mil ocho, dos de junio de dos mil diez y doce de mayo de dos mil once, respectivamente.
+
+CUARTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo señalado en este Acuerdo General.
