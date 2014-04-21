@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2014-04-10"
+last_updated: "2014-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA RO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EMITE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO SE ABROGA, EL CUAL SEGUIRÁ RIGIENDO EN LO CONDUCENTE EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES DE CONFORMIDAD CON LA CALENDARIZACIÓN DE LOS DISTRITOS JUDICIALES QUE CONFORMAN LA JURISDICCIÓN DE LA ENTIDAD ESTABLECIDA EN ESTE DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -993,9 +993,9 @@ Cuando lo solicite la víctima podrá ser atendida en su domicilio por profesion
 
 Queda estrictamente prohibido aprehender a persona alguna sin orden de aprehensión librada por la autoridad judicial competente de conformidad con el artículo 16 de la Constitución Política de los Estado Unidos Mexicanos; hecha excepción en los términos del citado precepto de los casos de flagrante delito o casos urgentes respecto de la comisión de delitos graves.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
-Se consideran como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 87 en relación al sujeto del delito que actuó como provocador, 88, 89, 89-Bis, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 118, 119, 124, 127, 128, 129 párrafo segundo, 145 Bis, 148 Bis, 148 Ter, en sus Fracciones II y III, 149 Bis, 153 fracción XV, 156, 159 párrafo segundo, 171 párrafo primero, 172 Bis, 172 Ter, 189 bis, 191, 192 bis, 192 ter, 192 quáter, 194 quinquies, 202, 203, 204 y 268 fracciones I, II, III, IV y V del Código Penal para el Estado Libre y Soberano de Quintana Roo, así como los artículos 6 y 9 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas del Estado de Quintana Roo.
+Se consideran como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 87 en relación al sujeto del delito que actuó como provocador, 88, 89, 89-Bis, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 118, 119, 124, 127, 128, 129 párrafo segundo, 145 Bis, 146 Bis, 148 Bis, 148 Ter, en sus fracciones II y III, 149 Bis, 153 fracción XV, 156, 159 párrafo segundo, 171 párrafo primero, 172 Bis, 172 Ter, 189 Bis, 191, 192 Bis, 192 Ter, 192 quáter, 194 quinquies, 202, 203, 204 y 268 fracciones I, II, III, IV y V del Código Penal para el Estado Libre y Soberano de Quintana Roo, así como los artículos 6 y 9 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas de Quintana Roo.
 
 El Ministerio Público podrá duplicar el plazo de 48 horas previsto en el citado artículo 16 Constitucional, en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina o jerarquía, para cometer de modo violento o reiterado o con fines predominantemente lucrativos, alguno de los delitos previstos en este artículo como graves.
 
@@ -4392,3 +4392,9 @@ SEGUNDO. Se abroga el Código de Procedimientos Penales para el Estado Libre y S
 TERCERO. Se abroga el Código Procesal Penal para el Estado Libre y Soberano de Quintana Roo publicado en el Periódico Oficial del Estado de Quintana Roo de fecha 17 de febrero de 2012.
 
 CUARTO. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las entidades federativas y del Distrito Federal, así como a los demás poderes del Estado, para su conocimiento y efectos a que haya lugar.
+
+P.O. 21 DE ABRIL DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
