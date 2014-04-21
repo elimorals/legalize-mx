@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2014-02-27"
+last_updated: "2014-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -147,7 +147,7 @@ Cada período de sesiones ordinarias durará el tiempo necesario para tratar tod
 
 ###### ARTICULO 12.
 
-La Legislatura, a convocatoria de la Diputación Permanente, por sí o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivare.
+La Legislatura, a convocatoria de la Diputación Permanente, por si o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivare.
 
 ###### ARTICULO 13.
 
@@ -531,7 +531,9 @@ Las Comisiones ordinarias serán:
 
 15.- Comisión de Derechos Humanos.
 
-16.- Comisión de Equidad y Género.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+16.- Comisión para la Igualdad de Género.
 
 17.- Comisión de Educación, Ciencia y Tecnología.
 
@@ -1799,9 +1801,9 @@ La Legislatura conocerá de la suspensión y desaparición de los Ayuntamientos;
 
 ###### ARTICULO 159.
 
-La Legislatura, por conducto de la Dirección de Archivo General y Biblioteca mandará publicar, con la periodicidad que fije el Reglamento respectivo, un "DIARIO DE LOS DEBATES", que será el órgano oficial del Poder Legislativo del Estado, en el que se publicarán los debates que en las sesiones se produjeren. En él se consignarán la fecha, el sumario, el nombre del Diputado que presida la sesión y el período al que corresponda, así como la transcripción fiel de la sesión y versión exacta de las discusiones en el orden en que se desarrollen. También se insertarán todos los documentos a los que se les dé lectura en las sesiones.
+La Legislatura, por conducto de la Dirección de Archivo General y Biblioteca mandará publicar, con la periodicidad que fije el Reglamento respectivo, un “DIARIO DE LOS DEBATES”, que será el órgano oficial del Poder Legislativo del Estado, en el que se publicarán los debates que en las sesiones se produjeren. En él se consignarán la fecha, el sumario, el nombre del Diputado que presida la sesión y el período al que corresponda, así como la transcripción fiel de la sesión y versión exacta de las discusiones en el orden en que se desarrollen. También se insertarán todos los documentos a los que se les dé lectura en las sesiones.
 
-Las discusiones y documentos relacionados con las sesiones de carácter secreto, se editarán en números especiales del "DIARIO DE LOS DEBATES", a los cuales no se les dará publicidad ni se permitirá su circulación, debiendo resguardarse en el secreto del archivo de la Legislatura, para consulta exclusiva de los Diputados.
+Las discusiones y documentos relacionados con las sesiones de carácter secreto, se editarán en números especiales del “DIARIO DE LOS DEBATES”, a los cuales no se les dará publicidad ni se permitirá su circulación, debiendo resguardarse en el secreto del archivo de la Legislatura, para consulta exclusiva de los Diputados.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -2028,3 +2030,13 @@ P.O. 30 DE JULIO DE 2013.
 P.O. 27 DE FEBRERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
