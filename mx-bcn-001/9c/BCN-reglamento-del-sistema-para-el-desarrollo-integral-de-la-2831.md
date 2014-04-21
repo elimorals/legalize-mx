@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2009-08-21"
+last_updated: "2014-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -108,9 +108,9 @@ a).- El Presidente Municipal o quien el designe;
 
 b).- El Presidente del Sistema DIF municipal, que sera el conyuge del Presidente Municipal o quien el designe, mismo que fungirá como Presidente del Consejo;
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
-c).- Dos regidores, quienes serán designados por el Ayuntamiento en Sesión de Cabildo, a propuesta del C. Presidente Municipal;
+c).- Dos regidores, quienes serán el coordinador y secretario de la Comisión de la Familia;
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2002)</small>
 
@@ -458,7 +458,7 @@ SECRETARIO GENERAL DEL AYUNTAMIENTO
 
 LIC. RUBEN REYES MORENO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 25 DE JUNIO DE 1999.
 
@@ -487,3 +487,9 @@ P.O. 21 DE AGOSTO DE 2009.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
 
 ENTRADA EN VIGOR.
+
+P.O. 21 DE ABRIL DE 2014.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
+
+SEGUNDO.- Por única ocasión se mantendrán en funciones hasta concluir su encargo, los dos regidores que hayan sido designados por el XXI Ayuntamiento, a propuesta del Presidente Municipal, en los términos previstos por las disposiciones que se reforman.
