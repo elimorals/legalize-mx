@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2013-12-16"
+last_updated: "2014-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -869,7 +869,7 @@ Los plazos para la prescripción de las sanciones serán continuos y correrán d
 
 ###### ARTICULO 84.
 
-Las penas privativas de la libertad prescribirá en un lapso igual al fijado en la sentencia, pero no podrá ser inferior a tres años ni superior a quince.
+Las penas privativas de la libertad prescribirán en un lapso igual al fijado en la sentencia, pero no podrá ser inferior a tres años ni superior a quince.
 
 La prescripción de la pena de multa prescribirá en dos años; la de las demás penas y medidas de seguridad prescribirá en un lapso igual al que deberán durar, sin que pueda ser inferior a dos años ni exceder de ocho, y las que no tengan temporalidad prescribirán en dos años. Los plazos serán contados a partir de la fecha en que cause ejecutoria la resolución.
 
@@ -1761,7 +1761,7 @@ QUATER.- A quien incurra en forma reincidente en las conductas tipificadas como 
 
 ### CAPITULO XI. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL PATRIMONIO
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 150.
 
@@ -1915,7 +1915,7 @@ Si el daño recae en bienes de valor científico, artístico, cultural o de util
 
 ###### ARTICULO 163.
 
-Los delitos previstos en este Título solo podrán perseguirse por querella de la parte ofendida, con excepción de los delitos de robo, en materia de apicultura, abigeato, y de lo previsto en el párrafo segundo del artículo 159 de este Código, respecto de estos delitos que se perseguirán de oficio. Estos delitos, previstos en los capítulos I, II y III, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge; concubino, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos.
+Los delitos previstos en este Título solo podrán perseguirse por querella de la parte ofendida, con excepción de los delitos de robo, en materia de apicultura, abigeato, extorsión y de lo previsto en (sic) párrafo segundo del Artículo 159 de este Código, respecto de estos delitos que se perseguirán de oficio. Estos delitos, previstos en los capítulos I, II y III, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubino, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos.
 
 ###### ARTICULO 164.
 
@@ -2313,7 +2313,7 @@ II.- Use indebidamente los objetos señalados en la fracción anterior.
 
 Se impondrá prisión de seis meses a tres años y de quince a noventa días multa, al que para obtener un beneficio o para causar un daño, falsifique o altere un documento público o privado.
 
-Las mismas penas se impondrá al que, a sabiendas y con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero, expedido en favor de otro, como si hubiera sido expedido a su nombre.
+Las mismas penas se impondrá (sic) al que, a sabiendas y con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero, expedido en favor de otro, como si hubiera sido expedido a su nombre.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -3463,7 +3463,7 @@ P.O. 30 DE JUNIO DE 2009.
 
 DECRETO NUMERO 158, POR EL QUE SE ADICIONA EL CAPITULO VII Y LOS ARTICULOS 113 BIS, TER, QUATER Y QUINQUIES AL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+ÚNICO.- El presente Decreta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 6 DE OCTUBRE DE 2009.
 
@@ -3648,3 +3648,9 @@ P.O. 16 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE ABRIL DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
