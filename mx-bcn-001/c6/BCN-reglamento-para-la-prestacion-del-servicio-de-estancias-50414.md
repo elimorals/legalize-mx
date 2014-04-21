@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-prestacion-del-servicio-de-estancias-50414"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-28"
-last_updated: "2006-04-28"
+last_updated: "2014-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA PRESTACION DEL SERVICIO DE ESTANCIAS INFANTILES EN EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO PARA LA PRESTACION DEL SERVICIO DE ESTANCIAS INFANTILES EN EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO DE ESTANCIAS INFANTILES EN EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de abril de 2006.
 
@@ -243,39 +243,73 @@ I. El Titular de Estancias Infantiles adscrito al Sistema Municipal para el Desa
 
 II. El Regidor coordinador de la Comisión de Salud;
 
-III. Un representante de la Secretaria de Administración Urbana;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-IV. Un representante de las escuelas de Psicología existentes establecidas en el municipio de Ensenada;
+III. El Regidor coordinador de la Comisión de la Familia;
 
-V. Un representante del Colegio de Pediatría;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-VI. Un representante de la Dirección de Bomberos y Protección Civil;
+IV. Un representante de la Dirección de Administración Urbana;
 
-VII. Un representante de la Procuraduría para la Defensa del Menor;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-VIII. Un representante de la Sociedad Civil;
+V. Un representante de las escuelas de Psicología existentes establecidas en el municipio de Ensenada;
 
-IX. Un representante del Sistema del Estancias infantiles adscrito al sector salud;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-X. Un representante del Sistema Educación Estatal de nivel preescolar;
+VI. Un representante del Colegio de Pediatría;
 
-XI. Un representante de la Procuraduría de los Derechos Humanos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-XII. Un representante de las Estancias del sector privado, inscritas en el padrón de Estancias Infantiles;
+VII. Un representante de la Dirección de Bomberos y Protección Civil;
 
-XIII. Un representante de las Estancias Familiares inscritas en el padrón de Estancias Infantiles;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-XIV. Un representante de las Estancias Infantiles del sector privado, que cuenten con el servicio de preescolar y/o acepten niños en edad escolar, que se encuentren inscritas en el padrón de Estancias Infantiles.
+VIII. Un representante de la Procuraduría para la Defensa del Menor;
 
-Los integrantes a que se refieren las fracciones IV, VIII, XII, XIII y XIV del presente artículo serán seleccionados conforme a las bases de la convocatoria que para tal efecto emita el H. Ayuntamiento, a propuesta de la Comisión de salud y asistencia social los cuales analizarán los perfiles de las personas participantes.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+IX. Un representante de la Sociedad Civil;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+X. Un representante del Sistema del Estancias infantiles adscrito al sector salud;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+XI. Un representante del Sistema Educación Estatal de nivel preescolar;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+XII. Un representante de la Procuraduría de los Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+XIII. Un representante de las Estancias del sector privado, inscritas en el padrón de Estancias Infantiles;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+XIV. Un representante de las Estancias Familiares inscritas en el padrón de Estancias Infantiles;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+XV. Un representante de las Estancias Infantiles del sector privado, que cuenten con el servicio de preescolar y/o acepten niños en edad escolar, que se encuentren inscritas en el padrón de Estancias Infantiles.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Los integrantes a que se refieren las fracciones V, IX, XIII, XIV y XV del presente artículo serán seleccionados conforme a las bases de la convocatoria que para tal efecto emita el H. Ayuntamiento, a propuesta de la Comisión de salud y asistencia social los cuales analizarán los perfiles de las personas participantes.
 
 Todos los miembros del Consejo tendrán derecho a voz y voto, y deberán nombrar a un suplente que asista en sus ausencias.
 
 Todos los miembros del Consejo serán honoríficos por lo que no recibirán por sus servicios compensación particular alguna.
 
-Para el caso de que no acudan a la convocatoria emitida por el Ayuntamiento, el Consejo quedara instalado con las personas, a que se refieren las fracciones I, II, III, V, VI, VII, IX, X y XI
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
-ARTÍCULO.- 16.- La convocatoria para la conformación del Consejo, se emitirá de conformidad con las siguientes bases:
+Para el caso de que no acudan a la convocatoria emitida por el Ayuntamiento, el Consejo quedara instalado con las personas, a que se refieren las fracciones I, II, III, IV, VI, VII, VIII, X, XI y XII.
+
+###### ARTÍCULO 16.
+
+La convocatoria para la conformación del Consejo, se emitirá de conformidad con las siguientes bases:
 
 I. Todos los aplicantes deberán cumplir con los siguientes requisitos:
 
@@ -1052,3 +1086,11 @@ PRESIDENTE MUNICIPAL
 C. LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2014.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
+
+SEGUNDO.- Dentro de los 30 días siguientes a la entrada en vigor de las presentes reformas, se convocará a sesión del Consejo de Estancias Infantiles para tomar protesta al Regidor coordinador de la Comisión de la Familia como nuevo integrante.
