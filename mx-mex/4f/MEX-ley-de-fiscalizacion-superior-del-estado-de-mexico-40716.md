@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2013-07-15"
+last_updated: "2014-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ABRIL DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -289,7 +289,9 @@ VIII. Promover las medidas necesarias para la restitución al erario público de
 
 IX. Promover el fincamiento e imposición de las demás responsabilidades y sanciones a que hubiere lugar ante las instancias competentes;
 
-X. Establecer, con base en el Reglamento, los criterios generales para determinar el monto de las cauciones o garantías que deben otorgar los tesoreros municipales y los servidores públicos que de acuerdo con la Ley deban hacerlo. Dichas cauciones o garantías deberán mantenerse vigentes hasta tres años después de la conclusión de sus cargos;
+> <small>(REFORMADA, G.G. 21 DE ABRIL DE 2014)</small>
+
+X. Establecer, con base en el Reglamento, los criterios generales para contratar las cauciones o garantías que deben otorgar los tesoreros municipales y los servidores públicos que de acuerdo con la ley deban hacerlo. Dichas cauciones o garantías deberán mantenerse vigentes hasta tres años después de la conclusión de sus cargos;
 
 XI. Formular el Reglamento del Organo Superior, el cual será sometido a la consideración de la Comisión;
 
@@ -1122,3 +1124,13 @@ G.G. 15 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
