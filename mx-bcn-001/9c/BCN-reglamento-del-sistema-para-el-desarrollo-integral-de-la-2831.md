@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2009-08-21"
+last_updated: "2014-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,13 +22,13 @@ state: "BCN"
 ---
 # REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+LEY DE INGRESOS DEL MUNICIPIO DE ZARAGOZA, S.L.P. PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
+TEXTO ORIGINAL.
 
-Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 30 de diciembre de 2025.
 
-REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -350,19 +350,27 @@ X. Turnar de inmediato al Director del DIF el resultado de las Inspecciones real
 
 XI. Las demás que le otorgue el presente Reglamento, el reglamento de Estancias Infantiles del municipio de Ensenada, o le ordene el Director del DIF municipal.
 
-###### ARTICULO 24.
+###### ARTÍCULO 24.
 
-Las funciones del área de autorización y revalidación serán:
+Por la expedición de licencia de uso de suelo se aplicarán las siguientes cuotas, dependiendo de su tipo, pues estas pueden ser para construcción y para funcionamiento:
 
-I. Otorgar el formato de Solicitud para la autorización de instalación y operación de Estancias Infantiles en el Municipio de Ensenada.
+[…]
 
-II. Inmediatamente que se reciba una solicitud, se deberá seguir el procedimiento establecido en el Titulo Cuarto Capítulo I, del Reglamento de Estancias Infantiles para el Municipio de Ensenada.
+I. Licencia de uso de suelo para actividades constructivas se causará según lo establecido en las Leyes y Reglamentos respectivos, y se aplicará la siguiente tarifa:
 
-III. Turnar la solicitud recibida, al Director del Sistema para el Desarrollo Integral de la Familia, a efecto de que este la haga del conocimiento del Consejo.
+a) a j) […]
 
-IV. Aprobada o negada una solicitud de autorización para la creación o permanencia de una estancia infantil, realizar la notificación correspondiente; y
+k) Instalaciones especiales e infraestructura
 
-V. Las demás que le confieran el presente reglamento, el Reglamento de Estancias infantiles, el director del Sistema Municipal para el desarrollo integral de la Familia y el Titular del departamento de atención a Estancias Infantiles.
+UMA
+
+1. Acueductos, colectores, basureros, rellenos y plantas de tratamiento, potabilizadoras, lagunas de control y regularización, termoeléctricas, repetidoras, subestación eléctrica, transformadores, torre o mástil (Postes, estructuras, torres, etc.), tanques de almacenamiento de agua, tendido de redes, agua potable, drenaje, electricidad, televisión por cable, viales primarios, vías de ferrocarril, bordos y canales, carreteras estatales y federales, estaciones de riego, instalaciones generadoras de energía, líneas de alta tensión, presas viales regionales, crematorios, panteones, cementerios, centro de rehabilitación social y centro federal de rehabilitación social, depósito de desechos industriales o similar, depósito de explosivos (cumpliendo con las disposiciones de seguridad de la materia), gasoductos, granjas de recuperación, incinerador de: basura, desechos biológicos infecciosos, instalaciones militares y cuarteles 600.00
+
+2. Antenas: radiofónicas, televisoras, telefónicas, microondas, radio base celular o sistema de transmisión de frecuencia, mástiles, estructura para anuncio, estaciones de servicio 500.00
+
+l) a n) […]
+
+[…]
 
 ###### ARTICULO 25.
 
