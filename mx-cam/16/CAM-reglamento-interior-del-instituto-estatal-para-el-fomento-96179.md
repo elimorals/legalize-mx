@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-instituto-estatal-para-el-fomento-96179
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-12"
-last_updated: "2013-09-12"
+last_updated: "2014-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL PARA EL FOMENTO DE LAS ACTIVIDADES ARTESANALES EN CAMPECHE
 
-TEXTO ORIGINAL.
+TEXTO ORIGINAL. (REPUBLICADO, P.O. 21 DE ABRIL DE 2014)
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el jueves 12 de septiembre de 2013.
 
@@ -191,13 +191,17 @@ XII. Las demás que le señale el Director General y otras disposiciones legales
 
 ### CAPÍTULO IV. DE LAS DIRECCIONES
 
-> <small>N. DE E. EL TEXTO DE LAS FRACCIONES I A LA III DEL PRESENTE ARTÍCULO ES ILEGIBLE EN EL P.O. DE 12 DE SEPTIEMBRE DE 2013, PÁGINA 8.</small>
+(PUBLICADO, P.O. 21 DE ABRIL DE 2014)
 
 ###### Artículo 11.
 
 Compete a la Dirección de Diseño y Desarrollo Artesanal:
 
-I. ... (SIC)
+I. Realizar el análisis y dictamen de la viabilidad de los proyectos productivos que los artesanos propongan al Instituto, para el otorgamiento de créditos que establece el Reglamento de la Ley, así como su gestión ante otras instituciones competentes para su financiamiento;
+
+II. Desarrollar proyectos artesanales de índole cultural o productivo y proporcionar asesoría y asistencia técnica a los grupos de artesanos;
+
+III. Realizar convenios de colaboración con el sector público y privado, validados por el Director General, para generar fuentes de financiamiento para el Instituto;
 
 IV. Proporcionar asesoría y gestión de solicitudes de créditos de los artesanos inscritos en el Registro, ante las instancias correspondientes;
 
