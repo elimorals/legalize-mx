@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-organo-superior-de-fiscalizacion-53796"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-26"
-last_updated: "2013-07-15"
+last_updated: "2014-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ABRIL DE 2014.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 26 de diciembre de 2006.
 
@@ -181,7 +181,9 @@ XII. Instruir los procedimientos para el fincamiento de las responsabilidades ad
 
 XIII. Nombrar y remover libremente a los titulares de las unidades administrativas con excepción de las señaladas en la Ley de Fiscalización y en el presente reglamento; y
 
-XIV. Establecer los criterios generales que contengan las normas técnicas y administrativas y, las políticas de operación para la contratación de garantías que deben otorgar los servidores públicos que de acuerdo con la ley estén obligados a hacerlo, considerando como base de la garantía el 1% del presupuesto de egresos anual autorizado de la entidad fiscalizable correspondiente, incluyendo todos los conceptos que lo integran. La contratación de la fianza deberá realizarse con la afianzadora que cumpla con las normas emitidas por el Órgano Superior y que ofrezca las mejores condiciones, de conformidad con lo establecido en el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
+> <small>(REFORMADA, G.G. 21 DE ABRIL DE 2014)</small>
+
+XIV. Establecer los criterios generales que contengan las normas técnicas y administrativas y, las políticas de operación para la contratación de garantías que deben otorgar los servidores públicos que de acuerdo con la ley estén obligados a hacerlo. La contratación de la fianza deberá realizarse con la afianzadora que cumpla con las normas emitidas por el Órgano Superior y que ofrezca las mejores condiciones, de conformidad con lo establecido en la Ley de Contratación Pública del Estado de México y Municipios, y su Reglamento.
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS AUDITORES ESPECIALES
 
@@ -574,3 +576,13 @@ G.G. 15 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
