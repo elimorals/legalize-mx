@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2013-11-26"
+last_updated: "2014-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ABRIL DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1803,7 +1803,9 @@ Para ser tesorero municipal se requiere, además de los requisitos del artículo
 
 I. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del ayuntamiento; contar con título profesional en las áreas económicas o contable-administrativas, con experiencia mínima de un año y con la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México, con anterioridad a la fecha de su designación;
 
-II. Caucionar el manejo de los fondos en términos de ley;
+> <small>(REFORMADA, G.G. 21 DE ABRIL DE 2014)</small>
+
+II. Caucionar el manejo de los fondos municipales, por un monto equivalente al uno al millar del importe correspondiente a los ingresos propios del municipio y las participaciones que en ingresos federales y estatales le correspondieron en el ejercicio inmediato anterior;
 
 III. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
@@ -3958,3 +3960,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El Ayuntamiento de Jocotitlán, mediante Bando solemne, difundirá la declaratoria de la denominación y categoría política a que se refiere el artículo anterior.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 21 DE ABRIL DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
