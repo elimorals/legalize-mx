@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2013-11-25"
+last_updated: "2014-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2487,21 +2487,31 @@ III.- Secretaría de Contraloría Interna;
 
 IV.- Secretaría de Seguridad Pública y Vialidad;
 
-V.- Secretaría de Planeación y Desarrollo Municipal;
+V.- (DEROGADA, P.O. 21 DE ABRIL DE 2014)
 
-VI.- Secretaría de Obras Públicas;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+VI.- Secretaría de Obras Públicas, Planeación y Desarrollo Urbano,
 
 VII.- Secretaría de Servicios Públicos;
 
 VIII.- Secretaría de Desarrollo Social;
 
-IX.- Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-X.- Secretaría de Desarrollo Rural Sustentable;
+IX.- Secretaría de Desarrollo Económico y Turismo,
 
-XI.- Secretaría de Desarrollo Integral de la Familia; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+X.- Secretaría de Desarrollo Rural,
+
+XI.- Secretaría de Desarrollo Integral de la Familia; y (sic)
 
 XII.- Secretaría Particular.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+XIII.- Secretaría Ejecutiva.
 
 ###### Artículo 305.
 
@@ -2531,123 +2541,165 @@ Los Manuales de Organización y Procedimientos serán elaborados por cada depend
 
 Las dependencias de la Administración Pública Municipal contarán con las siguientes Unidades Administrativas:
 
-I.- Secretaría de Gobernación y del H. Ayuntamiento:
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-a).- Coordinación de Comunicación Social;
+I. Secretaría de Gobernación y del H. Ayuntamiento:
 
-b).- Departamento de Giras, Eventos y Vinculo con la Educación;
+a). Coordinación Municipal de Protección Civil, Bomberos y Atención Pre hospitalaria,
 
-c).- Departamento Jurídico y de Gobernación;
+b). Departamento Jurídico,
 
-d).- Departamento de Reglamentos y Regulación Sanitaria;
+c). Departamento de Reglamentos y Control Sanitario,
 
-e).- Departamento de Enlace con Relaciones Exteriores; y
+d). Departamento de Coordinación Educativa,
 
-f).- Oficina de Atención al Migrante.
+e). Departamento de Atención al Migrante,
 
-II.- Secretaría del Finanzas y Administración:
+f). Departamento de Enlace con Relaciones Exteriores,
 
-a).- Departamento de Programación y Control Presupuestal;
+g). Departamento de Archivo General de Gobierno, y
 
-b).- Departamento de Contabilidad;
+h). Departamento de Jueces Calificadores.
 
-c).- Departamento de Ingresos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-d).- Departamento de Recursos Humanos;
+II. Secretaría de Finanzas y Administración:
 
-e).- Departamento de Recursos Materiales;
+a). Departamento de Contabilidad,
 
-f).- Departamento de Parque de Maquinaria; y
+b). Departamento de Programación y Control Presupuestal,
 
-g).- Departamento de Ejecución, Apremios e Inspección Fiscal.
+c). Departamento de Recursos Materiales y Control Patrimonial,
 
-III.- Secretaría de Contraloría Interna:
+d). Departamento de Recursos Humanos, y
 
-a).- Departamento de Auditoría Financiera;
+e). Departamento de Ejecución, Apremios e Inspección Fiscal.
 
-b).- Departamento de Supervisión de Obras;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-c).- Departamento de Sistemas Integrales de Control, Gestión y Quejas Ciudadanas; y
+III. Secretaría de Contraloría Interna:
 
-d).- Departamento Jurídico de la Contraloría Interna.
+a). Departamento de Auditoría Financiera,
 
-IV.- Secretaría de Seguridad Pública y Vialidad:
+b). Departamento de Supervisión de Obras,
 
-a).- Dirección de Seguridad Pública;
+c). Departamento de Sistemas Integrales de Control, Gestión y Quejas Ciudadanas, y
 
-b).- Departamento Operativo; y
+d). Departamento Jurídico de Contraloría Interna.
 
-c).- Unidad de Protección Civil.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-V.- Secretaría de Planeación y Desarrollo Municipal:
+IV. Secretaría de Seguridad Pública y Vialidad:
 
-a).- Departamento de Desarrollo y Control Urbano;
+a). Dirección Operativa,
 
-b).- Departamento de Gestión Ambiental; y
+b). Dirección Administrativa,
 
-c).- Departamento de Planeación e Información.
+1). Departamento de Servicios Médicos, y
 
-VI.- Secretaría de Obras Públicas:
+2). Departamento de Prevención del Delito.
 
-a).- Departamento de Proyectos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-b).- Departamento de Costos y Presupuestos;
+V. Secretaría de Obras Públicas, Planeación y Desarrollo Urbano:
 
-c).- Departamento de Supervisión de Obra; y
+a). Dirección de Obras Públicas,
 
-d).- Departamento de Calidad de Obra.
+1). Departamento de Licitaciones y Costos,
 
-VII.- Secretaría de Servicios Públicos:
+2). Departamento de Proyectos,
 
-a).- Departamento de Aseo Público;
+3). Departamento de Supervisión,
 
-b).- Departamento de Parques, Jardines y Cementerios;
+4). Departamento de Calidad de Obra y Administración, y
 
-c).- Departamento de Administración y Mantenimiento de Edificios; y
+5). Departamento de Parque de Maquinaria.
 
-d).- Rastro Municipal.
+b). Dirección de Planeación y Desarrollo Urbano,
 
-VIII.- Secretaría de Desarrollo Social:
+1). Departamento de Planeación y Estadística Urbano Rural
 
-a).- Coordinación Médica;
+2). Departamento de Desarrollo Urbano e Imagen Urbana,
 
-b).- Departamento de Desarrollo Social;
+3). Departamento de Gestión Ambiental, y
 
-c).- Departamento de Participación Ciudadana; y
+4). Departamento Jurídico Administrativo.
 
-d).- Departamento de Desarrollo Humano.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-IX.- Secretaría de Desarrollo Económico:
+VI. Secretaría de Servicios Públicos:
 
-a).- Departamento de Fomento a la Industria y el Comercio;
+a). Departamento de Limpia y Aseo Público,
 
-b).- Departamento de Turismo; y
+b). Departamento de Alumbrado Público,
 
-c).- Departamento de Promoción Municipal.
+c). Departamento de Parques Jardines y Panteones,
 
-X.- Secretaría de Desarrollo Rural Sustentable:
+d). Departamento de Administración y Mantenimiento de Edificios, y
 
-a).- Departamento de Proyectos Productivos; y
+e). Departamento del Rastro Municipal.
 
-b).- Departamento de Desarrollo Agropecuario.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-XI.- Secretaría de Desarrollo Integral de la Familia:
+VII. Secretaría de Desarrollo Social:
 
-a).- Comité de Desarrollo Integral de la Familia, con facultades de instrucción y decisión, que será integrado, ocupando la presidencia del mismo quien tenga el carácter de cónyuge del Presidente Municipal o en su defecto, quien éste designe y por dos personas más, que no serán funcionarios públicos, designados por quien ocupe la presidencia del propio Comité;
+a). Departamento de Desarrollo Social,
 
-b).- Departamento de Desarrollo Comunitario y Nutrición;
+b). Departamento de Participación Ciudadana,
 
-c).- Departamento de Atención Social; y
+c). Departamento de Desarrollo Humano, y
 
-d).- Departamento de Fortalecimiento Social.
+d). Departamento de Coordinación de la Juventud de Calvillo (COJUCA).
 
-XII.- Secretaría Particular:
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-a).- Secretario(a) Particular;
+VIII. Secretaría de Desarrollo Económico y Turismo:
 
-b).- Coordinación de Comunidades y Colonias; y
+a). Departamento de la Industria y el Comercio,
 
-c).- Departamento de Atención Ciudadana.
+b). Departamento de Desarrollo y Fomento Económico,
+
+c). Departamento de Turismo y Promoción Municipal, y
+
+d). Departamento de Pueblo Mágico y Artesanos.
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+IX. Secretaría de Desarrollo Rural:
+
+a). Departamento de Desarrollo Agropecuario, y
+
+b). Departamento de Proyectos Productivos.
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+X. Secretaría Particular:
+
+a). Departamento de Comunicación Social e Imagen Institucional,
+
+b). Departamento de Relaciones Públicas,
+
+c). Departamento de Gestión Social,
+
+d). Departamento de Giras y Eventos, y
+
+e). Departamento de Coordinación con Autoridades Auxiliares.
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+XI. Secretaría para el Desarrollo Integral de la Familia;
+
+a). Departamento de Programas Alimenticios,
+
+b). Departamento de Rehabilitación Física y Psicología,
+
+c). Departamento Jurídico de la Defensa del Menor y la Familia, y
+
+d). Departamento de Coordinación del INAPAM; y
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+XII. Secretaría Ejecutiva.
 
 ###### Artículo 312.
 
@@ -3641,7 +3693,35 @@ X.- Observar las normas que la Coordinación de Comunicación Social y Relacione
 
 XI.- Las demás que el Presidente Municipal le encomiende.
 
-#### SECCIÓN PRIMERA. Del Instituto de la Mujer de Calvillo
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2014)</small>
+
+#### SECCIÓN PRIMERA (SIC). De la Secretaría Ejecutiva
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+###### Artículo 340 Bis.
+
+Corresponde a la Secretaría Ejecutiva:
+
+I. Fungir como enlace, bajo la supervisión del Presidente Municipal, para asegurar una adecuada vinculación de las dependencias y organismos de la Administración Pública Municipal con los diferentes niveles y poderes de gobierno, así como con las diversas instituciones y organizaciones de la sociedad en general;
+
+II. Establecer los mecanismos necesarios para el seguimiento y cumplimiento de los acuerdos entre el Presidente Municipal y los Titulares de las Dependencias y Organismos de la Administración Pública Municipal;
+
+III. Coordinar la organización de los trabajos de las Dependencias y Organismos de la Administración Pública Municipal en Gabinetes Temáticos para garantizar la eficacia de la Administración Pública Municipal;
+
+IV. Dar seguimiento y evaluar periódicamente los planes, programas y proyectos para el cumplimiento de las metas establecidas en el Plan de Desarrollo Municipal;
+
+V. Coordinar las acciones con las Dependencias y Organismos de la Administración Pública Municipal en las actividades relacionadas con el diseño y la gestión de los proyectos estratégicos derivados del Plan de Desarrollo Municipal;
+
+VI. Coordinar los servicios de asesoría y consultaría al Presidente Municipal;
+
+VII. Realizar análisis, estudios y encuestas en materia de opinión pública y documentar los resultados y datos estadísticos, así como coordinar la elaboración de otro tipo de estudios pertinentes para la innovación y mejora de la gestión pública y el desempeño gubernamentales;
+
+VIII. Coordinar las acciones con los Titulares de las Dependencias y Organismos de la Administración Pública Municipal para integrar y elaborar los documentos relacionados con los Informes de Gobierno;
+
+IX. Llevar a cabo la coordinación con la Secretaría Particular del Presidente Municipal para el diseño, seguimiento y evaluación de la agenda, así como para establecer las bases para la integración y contenido de las giras del Presidente Municipal; y
+
+X. Llevar a cabo la coordinación con el área de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -3777,7 +3857,7 @@ Los Comisarios municipales podrán ser adscritos bajo la dirección y supervisi�
 
 En el Municipio de Calvillo funcionarán como órganos auxiliares de la Administración Pública, con el carácter de cuerpos consultivos y sin que ejerzan funciones de autoridad frente a los particulares, el Consejo de Participación Ciudadana y Colaboración Municipal, la Comisión de Planeación para el Desarrollo Municipal, el Consejo Municipal de Protección Civil, el Comité Ciudadano de Control y Vigilancia de la Obra Pública Municipal en los términos previstos en la legislación municipal aplicable, el Comité Municipal del Deporte, el Consejo Municipal de Seguridad Pública, el Consejo Municipal de Salud, el Consejo Municipal de Participación Social en la Educación y la Junta de Festejos Patrióticos, así como los demás Consejos, Comités y Comisiones que se creen por acuerdo del Ayuntamiento, estableciéndose sus funciones, facultades, atribuciones, integración, organización y estructura.
 
-#### SECCIÓN SEGUNDA. Del Comité Municipal del Deporte
+#### SECCIÓN PRIMERA. Del Instituto de la Mujer de Calvillo
 
 ###### Artículo 367.
 
@@ -3843,11 +3923,63 @@ La distribución de la partida asignada en el presupuesto municipal a favor del 
 
 Con el fin de conocer, analizar y evaluar la actividad del instituto, la Directora General rendirá un informe trimestral al Presidente Municipal y al H. Ayuntamiento de Calvillo, de manera integral sobre la operación y funcionamiento del mismo y quien ocupe la Presidencia Municipal incluirá lo relativo al instituto en el correspondiente informe anual de gobierno.
 
-#### SECCIÓN TERCERA. Del Instituto de la Familia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. Del Instituto del Deporte de Calvillo
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 ###### Artículo 383.
 
-El Comité Municipal del Deporte tiene como finalidad el promover, estimular y fomentar el desarrollo de la cultura física y deporte, así como propiciar la coordinación de actividades deportivas en la localidad y vincularse con las acciones y programas en general del Instituto del Deporte del Estado de Aguascalientes.
+Para promover, estimular y fomentar el desarrollo de la cultura física y el deporte, así como para propiciar la coordinación de las actividades deportivas con las acciones y programas de los tres niveles de gobierno y con la sociedad civil, se instituye el Organismo Público Descentralizado de la Administración Pública Municipal denominado Instituto del Deporte de Calvillo.
+
+El Instituto del Deporte de Calvillo, contará con personalidad jurídica, patrimonio propio y con domicilio en la Ciudad de Calvillo, Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 383 A.- El Instituto del Deporte de Aguascalientes, tiene las siguientes atribuciones:
+
+I. Las que conforme a la Ley le correspondan, en materia de cultura física y deporte;
+
+II. Convocar a las dependencias y entidades del sector público y a las instituciones de los sectores social y privado;
+
+III. Proponer, dirigir, ejecutar, evaluar y vigilar la política municipal de cultura física y deporte;
+
+IV. Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, del Estado y los Municipios de la entidad, a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y deporte;
+
+V. Integrar el Programa Municipal de Cultura Física y Deporte;
+
+VI. Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales e internacionales, sin contravenir lo dispuesto por las reglas internacionales;
+
+VII. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte;
+
+VIII. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte;
+
+IX. Diseñar y establecer los criterios para asegurar la uniformidad y congruencia entre los programas de cultura física y deporte del sector público municipal y la asignación de los recursos para los mismos fines;
+
+X. Promover e incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan con el objeto de organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del Municipio;
+
+XI. Impulsar la práctica de actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
+
+XII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+
+XIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y
+
+XIV Las demás que Ley (sic) u otras disposiciones legales determinen.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 383 B.- El patrimonio del Instituto del Deporte de Calvillo, se integrará con:
+
+I. Las aportaciones que realice el Gobierno Municipal, a través de los recursos que se le asignen en el Presupuesto de Egresos del Municipio de Calvillo, así como los subsidios y demás recursos que reciba;
+
+II. Las aportaciones que en su caso, le realicen el Gobierno Federal, Estatal y Municipal, así como las aportaciones que le realicen las personas físicas y morales, estatales, nacionales, a través de donaciones, legados, fideicomisos y premios, los cuales de ninguna manera podrán implicar condiciones contrarias a su objetivo conforme lo establece la Ley del Deporte del Estado de Aguascalientes;
+
+III. Los bienes muebles e inmuebles que adquiera o se le destinen para su servicio;
+
+IV. Los recursos que el propio Instituto del Deporte de Calvillo genere; y
+
+V. Los demás recursos, bienes y derechos que se adquieran o reciban por cualquier otro título legal.
 
 ###### Artículo 384.
 
@@ -3901,25 +4033,99 @@ XVI.- Fomentar los vínculos con las instituciones, organismos y agrupaciones de
 
 XVII.- Las demás que determinen otras leyes y reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+
 ###### Artículo 387.
 
-El Comité Municipal del Deporte estará integrado por:
+La administración del Instituto del Deporte de Calvillo, y de las estructuras administrativas que se establezcan estará a cargo de un Órgano de Gobierno denominado Junta Directiva.
 
-I.- Un Presidente Honorario, que será el Presidente Municipal del H. Ayuntamiento;
+Tendrá un Director General que será designado y removido por el Presidente Municipal.
 
-II.- Un Presidente Ejecutivo, que será elegido por el Comité;
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
 
-III.- Un Secretario Técnico que será el responsable del Fomento Deportivo del Municipio;
+Artículo 387 A.- La Junta Directiva a que se refiere el artículo anterior, estará integrada por un representante de cada una de las siguientes dependencias:
 
-IV.- Regidor de la Comisión de Educación, Cultura y Deporte;
+I. Secretaría de Gobernación y del H. Ayuntamiento;
 
-V.- Representantes de Educación Medía, Medía Superior y Superior en la localidad;
+II. Secretaría de Finanzas y Administración;
 
-VI.- Organismos Públicos y Privados;
+III. Secretaría de Desarrollo Social;
 
-VII.- Sociedades y Asociaciones; y
+IV. Secretaría de Seguridad Pública y Vialidad;
 
-VIII.- Consejeros ciudadanos, que serán todas aquellas personas que habiten en el Municipio de Calvillo, Ags; y que se distingan por su especial interés en la materia deportiva y que deseen colaborar en el Comité Municipal del Deporte, en lo concerniente a lograr el objetivo de dicho organismo.
+V. El Regidor Presidente de la Comisión de Educación, Cultura y Deportes;
+
+VI. Secretaría de la Defensa Nacional con la representación en el Municipio; e
+
+VII. Instituto de Educación en el Municipio.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 387 B.- La Junta Directiva será presidida por el titular del Instituto del Deporte de Calvillo, quien convocará a participar como invitado permanente al Contralor Interno, quien participará con voz pero sin voto.
+
+Podrán ser invitados a participar con voz pero sin voto, personalidades distinguidas de los sectores sociales y privado que por su relación, nexos, vinculación y aportaciones con la práctica de la cultura física y deporte e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
+
+La determinación de quienes deben de participar en los casos señalados en el párrafo anterior, serán acordados previamente por el Presidente de la Junta Directiva, a propuesta de los integrantes de la misma.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 387 C.- La Junta Directiva tendrá las siguientes facultades:
+
+I. Establecer en congruencia con el programa sectorial, las políticas y definir las prioridades a las que deberá sujetarse el Instituto del Deporte de Calvillo, relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la cultura física y deporte;
+
+II. Aprobar los programas y presupuesto del Instituto del Deporte de Calvillo, así como sus modificaciones, en los términos de la legislación aplicable;
+
+III. Aprobar de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto del Deporte de Calvillo, con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
+
+IV. Aprobar la estructura básica de la organización del Instituto del Deporte de Calvillo, y las modificaciones que procedan a la misma;
+
+V. Autorizar la creación de comités de apoyo;
+
+VI. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto del Deporte de Calvillo requiera para la prestación de sus servicios;
+
+VII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General;
+
+VIII. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados del Instituto del Deporte de Calvillo;
+
+IX. Realizar los actos que sean necesarios para el cumplimiento de los objetivos del Instituto del Deporte de Calvillo;
+
+X. Las demás que le confieran las disposiciones legales aplicables en la materia; (sic)
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 387 D.- El nombramiento de Director General del Instituto del Deporte de Calvillo deberá recaer en persona que reúna los requisitos que a continuación se señalan:
+
+I. Ser mexicano por nacimiento o por naturalización;
+
+II. Ser mayor de 25 años al día de su nombramiento;
+
+III. Tener conocimientos en materia de deporte; y
+
+IV. Ser de probada honorabilidad.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 387 E.- El Director General tendrá las siguientes atribuciones y obligaciones:
+
+I. Presidir él la Junta de Gobierno;
+
+II. Administrar y representar legalmente al Instituto del Deporte de Calvillo;
+
+III. Formular los programas institucionales de corto, mediano y largo plazos, así como el presupuesto del Instituto del Deporte de Calvillo y presentarlos para su aprobación a la instancia correspondiente;
+
+IV. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Instituto;
+
+V. Tomar las medidas pertinentes a fin de que las funciones del Instituto, se realicen de manera articulada, congruente y eficaz;
+
+VI. Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en las políticas aprobadas por la Junta Directiva;
+
+VII. Recabar información y elementos estadísticos que reflejen el estado de las funciones del Instituto, para así poder mejorar la gestión del mismo;
+
+VIII. Establecer sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+
+IX. Presentar periódicamente a la Junta Directiva el informe del desempeño de las actividades del Instituto, incluido el ejercicio del presupuesto de ingresos, egresos y los estados financieros correspondientes; y
+
+X. Las demás que le confiera las disposiciones legales aplicables.
 
 ###### Artículo 388.
 
@@ -4131,7 +4337,7 @@ III.- Los servidores públicos que cometan errores u omisiones graves en contra 
 
 Las sanciones que contempla la Ley de Cultura Física y Deporte del Estado de Aguascalientes serán las mismas que aplicará el Comité, dentro del ámbito de su competencia.
 
-#### SECCIÓN PRIMERA. Del Consejo Directivo
+#### SECCIÓN TERCERA. Del Instituto de la Familia
 
 ###### Artículo 411.
 
@@ -8001,7 +8207,7 @@ IV.- Un Comisario; y
 
 V.- El personal técnico y administrativo que se requiera para su funcionamiento.
 
-#### SECCIÓN SEGUNDA. Del Consejo Consultivo
+#### SECCIÓN PRIMERA. Del Consejo Directivo
 
 ###### Artículo 878.
 
@@ -8225,7 +8431,7 @@ La denuncia de cualquiera de las causas de remoción puede ser presentada ante e
 
 Para la remoción de cualquiera de los integrantes del Consejo Directivo que incurra en cualquiera de las causas antes señaladas, bastará con la verificación hecha por el Presidente Municipal, y dictamen sobre la denuncia, debiendo convocar al H. Ayuntamiento para que dictamine y en su caso nombre a quien deba sustituirlo.
 
-#### SECCIÓN TERCERA. Del Director General
+#### SECCIÓN SEGUNDA. Del Consejo Consultivo
 
 ###### Artículo 892.
 
@@ -8285,7 +8491,7 @@ VIII.- Evaluar los resultados del OOSAC; y
 
 IX.- Las demás que le señale el presente Título o les delegue el H. Ayuntamiento.
 
-#### SECCIÓN CUARTA. Del Comisario
+#### SECCIÓN TERCERA. Del Director General
 
 ###### Artículo 897.
 
@@ -8361,7 +8567,7 @@ XXIX.- Suscribir, junto con el Presidente o Tesorero, los títulos de crédito, 
 
 XXX.- Las demás que le señale el Consejo Directivo, este Código, la Ley de la materia y el Código Municipal.
 
-#### SECCIÓN PRIMERA. Definiciones
+#### SECCIÓN CUARTA. Del Comisario
 
 ###### Artículo 899.
 
@@ -8621,7 +8827,7 @@ La Comisión podrá solicitar al Instituto del Agua del Estado, la asesoría, ap
 
 la Comisión podrá solicitar al Instituto del Agua del Estado, su coadyuvancia en las gestiones de financiamiento y planeación de obras para la captación, potabilización, conducción, almacenamiento y distribución de agua potable, el alcantarillado, así como el tratamiento de aguas residuales y manejo de lodos.
 
-#### SECCIÓN SEGUNDA. De la Amonestación
+#### SECCIÓN PRIMERA. Definiciones
 
 # LIBRO CUARTO. DE LA SEGURIDAD PÚBLICA Y VIALIDAD
 
@@ -9485,7 +9691,7 @@ Toda solicitud que hubiera sido denegada por la superioridad, no podrá repetirs
 
 ### CAPÍTULO XI. De los Correctivos Disciplinarios
 
-#### SECCIÓN TERCERA. Del Arresto
+#### SECCIÓN SEGUNDA. De la Amonestación
 
 ###### Artículo 1012.
 
@@ -9525,7 +9731,7 @@ IV.- Las condiciones externas que motivaron la falta y los medios de ejecución;
 
 V.- La reincidencia en el incumplimiento de sus obligaciones.
 
-#### SECCIÓN CUARTA. Del Cambio de Adscripción
+#### SECCIÓN TERCERA. Del Arresto
 
 ###### Artículo 1015.
 
@@ -9625,7 +9831,7 @@ XLIV.- Por no proporcionar al superior jerárquico de quien dependan, el domicil
 
 XLV.- Por las demás infracciones a la Ley o el presente Código que no ameriten la imposición de otro correctivo disciplinario.
 
-#### SECCIÓN QUINTA. De la Suspensión Temporal
+#### SECCIÓN CUARTA. Del Cambio de Adscripción
 
 ###### Artículo 1017.
 
@@ -9729,7 +9935,7 @@ h).- Por abandonar el servicio sin causa justificada, considerándose abandono d
 
 i).- Por usar el uniforme, salvo instrucciones expresas de la superioridad, fuera de los actos del servicio y durante sus horas de descanso o por realizar actividades de seguridad privada.
 
-#### SECCIÓN SEXTA. De la Pérdida de Grado
+#### SECCIÓN QUINTA. De la Suspensión Temporal
 
 ###### Artículo 1018.
 
@@ -9745,7 +9951,7 @@ IV.- Por temor fundado de que pueda ser sujeto de represalias por parte de delin
 
 V.- Por requerirse para mantener una buena relación e imagen con la comunidad donde se desempeña.
 
-#### SECCIÓN SÉPTIMA. Del Descuento en las Percepciones
+#### SECCIÓN SEXTA. De la Pérdida de Grado
 
 ###### Artículo 1019.
 
@@ -9781,13 +9987,13 @@ XIV.- Por Aceptar obsequios de sus subalternos o permitir que se promuevan o col
 
 Si el elemento operativo suspendido no resulta responsable de los hechos, éste será reinstalado en su puesto en los términos del artículo 118 tercer párrafo de la Ley de Seguridad Pública para el Estado.
 
-#### SECCIÓN OCTAVA. De la Destitución
+#### SECCIÓN SÉPTIMA. Del Descuento en las Percepciones
 
 ###### Artículo 1020.
 
 Se impondrá la sanción de pérdida de grado cuando se niegue a asistir a los cursos de capacitación programados para los de su jerarquía, o asistiendo los repruebe, o no resulte aprobado en las certificaciones que haga el Instituto de Seguridad Pública o demuestre ineficiencia para ejercer sus funciones.
 
-#### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad Pública
+#### SECCIÓN OCTAVA. De la Destitución
 
 ###### Artículo 1021.
 
@@ -9799,7 +10005,7 @@ II.- Por acumular tres retardos que no excedan de diez minutos, dentro del perio
 
 III.- Por retardo que exceda de quince minutos, se descontará el equivalente a un día de salario.
 
-#### SECCIÓN SEGUNDA. De las Faltas Contra el Civismo
+#### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad Pública
 
 ###### Artículo 1022.
 
@@ -20195,43 +20401,255 @@ V.- El Patronato; y
 
 VI.- Los Comités.
 
-### CAPÍTULO II
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2014)</small>
 
-Del Patronato de Ferias y Fiestas Municipales de Calvillo, Aguascalientes.
+### CAPÍTULO II. Del Instituto de Promoción y Fomento Cultural de Calvillo
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 ###### Artículo 2116.
 
-Para la organización de las diferentes ferias y fiestas patronales y populares en el Municipio de Calvillo, se crea un Organismo Público Descentralizado de la Administración Pública Municipal, denominado "Patronato de Ferias y Fiestas Municipales de Calvillo, Aguascalientes."
+Para la organización de los diferentes festivales culturales y ferias patronales y populares en el Municipio de Calvillo, Aguascalientes, se crea el Organismo Público Descentralizado de la Administración Pública Municipal, denominado "Instituto de Promoción y Fomento Cultural de Calvillo".
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 ###### Artículo 2117.
 
-Para todos los efectos legales, el Patronato tiene personalidad jurídica, patrimonio propio y domicilio en la ciudad de Calvillo, Aguascalientes.
+El Instituto de Promoción y Fomento Cultural de Calvillo, contará con personalidad jurídica, patrimonio propio y domicilio en la Ciudad de Calvillo, Aguascalientes.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 ###### Artículo 2118.
 
-Es objeto del Patronato la organización, fomento y comercialización de la "Feria de la Guayaba", así como de las demás fiestas patronales y populares que se celebren en el Municipio; estas últimas en coordinación con los Comités.
+El Instituto de Promoción y Fomento Cultural de Calvillo, tendrá como objetivos:
+
+I. Aprovechar plenamente los recursos naturales, artísticos, artesanales e históricos en beneficio de la economía del Municipio y de sus habitantes;
+
+II. Fomentar e incentivar y desarrollar actividades educativas y de difusión de los valores históricos y de turismo cultural del Municipio;
+
+III. Promover e incrementar el número de visitantes al Municipio, ofreciendo una mejor y mayor calidad de los servicios de turismo cultural;
+
+IV. Aumentar la captación de los recursos provenientes de la actividad cultural, destinándolos a la conservación, ampliación y mejoramiento de las instalaciones, eventos y fomento de la cultura Calvillense;
+
+V. Promover regional, nacional e internacionalmente la cultura, el arte y en especial el trabajo artesanal de nuestra gente, a través de los diversos eventos, festivales y demostraciones culturales;
+
+VI. Organizar, supervisar y controlar las ferias tradicionales del Municipio, como son la Feria del Señor del Salitre y la Feria de la Guayaba, asumiendo los derechos, obligaciones y atribuciones que le otorga el presente Código y demás disposiciones legales aplicables; y
+
+VII. Coadyuvar en la producción ejecutiva de eventos artísticos a nivel estatal, regional, nacional e internacional que impulsen al Municipio, así como llevar a cabo su promoción.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 ###### Artículo 2119.
 
-El patrimonio del Patronato se integra con:
+El patrimonio del Instituto de Promoción y Fomento Cultural de Calvillo, se integrará:
 
-I.- Los bienes muebles e inmuebles, derechos y obligaciones que le asigne y transmita el gobierno Federal, Estatal o Municipal y los que adquiera por cualquier otro título legal;
+I. Con los bienes muebles e inmuebles, derechos y obligaciones que le asigne y le transmita los gobiernos Federal, Estatal o Municipal y los que adquiera por cualquier otro título legal;
 
-II.- Las herencias o legados que en bienes o en efectivo le otorguen los particulares o cualquier institución de beneficencia;
+II. Con los subsidios, transferencias o donaciones que hagan en su favor los gobiernos Federal, Estatal, Municipal o en general, instituciones o personas físicas o morales;
 
-III.- Los subsidios o aportaciones que en su favor hagan los gobiernos Federal, del Estado y del Municipio;
+III. Con los beneficios que obtenga de su patrimonio y de las utilidades que logre en el desarrollo de sus actividades;
 
-IV.- Los recursos que se obtengan derivados de sus actividades; y
+IV. Con los intereses que produzcan sus inversiones;
 
-V.- Las acciones, productos o derechos que adquiera por cualquier otro título legal.
+V. Con los productos que obtenga de las concesiones o arrendamientos de los locales comerciales y de las instalaciones que conforman su patrimonio, así como los que administre; y
+
+VI. En general, con los productos que obtenga de cualquier concesión que otorgue, de conformidad con las disposiciones correspondientes.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 ###### Artículo 2120.
 
-El Patronato se compone de un Presidente, un Secretario Técnico, un Tesorero, un Comisario y Vocales.
+El Instituto de Promoción y Fomento Cultural de Calvillo, quedará integrado de la manera siguiente:
+
+I. La Junta de Gobierno,
+
+II. El Consejo Consultivo, y
+
+III. El Director General.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
 ###### Artículo 2121.
 
-El Presidente, el Tesorero y el Secretario Técnico, serán propuestos por el Presidente Municipal y ratificados por el Ayuntamiento.
+La Junta de Gobierno del Instituto de Promoción y Fomento Cultural de Calvillo, estará integrada por:
+
+I. Un Presidente, que será el Presidente Municipal;
+
+II. Un Secretario Técnico, que será el titular de la Secretaría Ejecutiva;
+
+III. Un Tesorero, que será el Secretario de Finanzas y Administración;
+
+IV. El Secretario de Gobernación y del Ayuntamiento, que además, suplirá en sus ausencias al Presidente; y
+
+V. El Regidor, titular de la Comisión de Educación, Cultura y Deporte.
+
+El Instituto de Promoción y Fomento Cultural de Calvillo, contará con un Secretario de Actas y Acuerdos, que asistirá a las sesiones de la Junta de Gobierno, con voz pero sin derecho a voto.
+
+El Director General no formará parte de la Junta de Gobierno, pero deberá asistir a las sesiones teniendo derecho a voz, pero no a voto.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 A.- La Junta de Gobierno del Instituto de Promoción y Fomento Cultural de Calvillo, tendrá las funciones siguientes:
+
+I. Normar el aprovechamiento, la administración y la vigilancia de los proyectos culturales que se desarrollen en el Municipio, así como de las instalaciones e infraestructura de carácter cultural y de turismo cultural que el Instituto administre y todas aquellas actividades afines que se determinen;
+
+II. Autorizar la adquisición y enajenación de los bienes muebles e inmuebles que constituyan el patrimonio del Instituto de conformidad con la normatividad y el procedimiento aplicable;
+
+III. Conocer y evaluar los informes de actividades que presente el Director General;
+
+IV. Conocer los informes financieros y los avances en el Programa de Gastos que presente el Director General;
+
+V. Aprobar los programas operativos anuales que presente el Director General;
+
+VI. Determinar el destino de los excedentes económicos que se generen del cobro de los servicios y concesiones de conformidad con las disposiciones legales aplicables;
+
+VII. Aprobar los reglamentos y demás disposiciones de carácter legal que rijan el funcionamiento del Instituto, así como de los servicios que preste, para someterlos a la consideración del Ayuntamiento;
+
+VIII. Aprobar las concesiones de servicios y conocer del procedimiento de asignación que en su caso se siga para otorgarlas;
+
+IX. Determinar las tarifas con cargo a los usuarios de los servicios que proporcione el Instituto; y
+
+X. Conocer y autorizar la contratación de los créditos y las fuentes de financiamiento que sean necesarios para la consecución de sus objetivos de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 B.- La Junta de Gobierno, previa convocatoria, deberá celebrar sesiones semestralmente, así como las extraordinarias que estime conveniente para resolver asuntos urgentes.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 C.- Las convocatorias serán suscritas por el Presidente o por el Secretario Técnico y contendrán el lugar, la fecha y la hora de la celebración de la sesión, así como el proyecto del orden del día, a la que se acompañará la documentación relativa a los asuntos considerados en la misma y el Acta de la sesión anterior.
+
+El Secretario Técnico hará llegar la convocatoria a los miembros de la Junta de Gobierno cuando menos con cinco días hábiles de anticipación a la fecha de celebración de la sesión.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 D.- El quórum requerido para la celebración de las sesiones se integrará con la asistencia de la mitad más uno de sus integrantes, siempre y cuando esté presente el Presidente o el suplente.
+
+Si la sesión no pudiese celebrarse en el día y hora señalados por falta de quórum, se realizará una nueva convocatoria señalando los motivos y en ésta segunda convocatoria, se celebrará con los miembros presentes.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 E.- Los acuerdos de la Junta de Gobierno serán aprobados por mayoría de votos de los asistentes. En caso de empate, el Presidente o en su caso el Suplente, tendrán voto de calidad.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 F.- El Acta de cada sesión de la Junta de Gobierno deberá ser aprobada por ésta, será suscrita por todos los asistentes y se hará constar en ella, la lista de asistencia, el orden del día y las resoluciones acordadas.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 G.- Los recursos que obtenga el Instituto de Promoción y Fomento Cultural de Calvillo por las actividades que desempeñe deberán aplicarse al funcionamiento, operación, mantenimiento, conservación, fomento promoción, organización, producción, difusión, cultura turística y actividades administrativas que tenga a su cargo.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 H.- El Consejo Consultivo se integrará por:
+
+I. El Director General del Instituto, quien fungirá como Presidente del mismo;
+
+II. El Jefe del Departamento de Turismo;
+
+III. Los vocales con derecho a voz y voto, que serán:
+
+a). El Secretario de Gobernación y del Ayuntamiento;
+
+b). El Secretario de Obras Públicas, Planeación y Desarrollo Urbano;
+
+c). El Secretario de Servicios Públicos;
+
+d). El Director de la Casa de la Cultura de Calvillo;
+
+e). Un representante del Sindicato de Músicos:
+
+f). El Presidente del Consejo Turístico de Calvillo;
+
+g). El Presidente de los Comerciantes Establecidos;
+
+h). El Presidente del Comité Pueblo Mágico;
+
+i). El Coordinador de Educación en el Municipio;
+
+j). El Presidente del Consejo de la Guayaba;
+
+k). El Presidente de la Asociación Ganadera;
+
+l). Asociación de Charros de Calvillo; y
+
+m). Asociación de Autos Antiguos.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 I.- El Consejo Consultivo tendrá las siguientes funciones:
+
+I. Conocer y evaluar los programas del Instituto;
+
+II. Emitir opinión respecto de los asuntos que le encomiende la Junta de Gobierno;
+
+III. Realizar propuestas para la elaboración del Programa Anual de Actividades del Instituto;
+
+IV. Proponer y coordinar los programas y eventos especiales y campañas de promoción turística y cultural que tiendan a reforzar las labores del Instituto y a utilizar integralmente las instalaciones y los servicios que se ofrecen; y
+
+V. Elaborar y someter a la consideración de la Junta de Gobierno su Reglamento Interno y las demás disposiciones de carácter legal que sean necesarias para su correcto funcionamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 J.- El Consejo Consultivo sesionará ordinariamente cada cuatro meses y extraordinariamente cuando el caso lo requiera.
+
+Las convocatorias para las sesiones del Consejo Consultivo serán expedidas por el Director General con tres días de (sic) anteriores a la fecha señalada para la sesión de que se trate.
+
+El quórum requerido para cualquier sesión del Consejo Consultivo será de la mitad más uno de sus miembros presentes.
+
+Si la sesión no pudiera celebrarse en la fecha y hora señaladas por falta de quórum, se deberá realizar una nueva convocatoria y en esta segunda ocasión, se celebrará la sesión con los miembros presentes.
+
+Las decisiones del Consejo Consultivo se tomarán por mayoría simple de votos.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 K.- El Director General del Instituto de Promoción y Fomento Cultural de Calvillo será nombrado por el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+Artículo 2121 L.- El Director General del Instituto de Promoción y Fomento Cultural de Calvillo tendrá las siguientes funciones:
+
+I. Representar legalmente al Instituto;
+
+II. Actuar como Apoderado General del Instituto con facultades para pleitos y cobranzas y actos de administración;
+
+III. Procurar la defensa, promoción y representación jurídica de los intereses del Instituto en todos aquellos litigios en que éste sea parte, realizándolo por sí o por abogados que sean autorizados por el Ayuntamiento para comparecer ante todo tipo de autoridades civiles, penales, mercantiles, administrativas y del trabajo ya sean locales o federales y de manera conjunta o separada, con facultades para formular y contestar demandas, ejercitar acciones y para desistirse de ellas, para transigir, para comprometer en árbitros y para desahogar y ofrecer pruebas, para absolver posiciones aún las de carácter personal. para recusar, para hacer y recibir pagos, contestar reconvenciones, oponer excepciones dilatorias y perentorias, reconocer firmas y documentos, presentar testigos, protestar a los de la contraria y para que los repregunte y tache, oír autos interlocutorios y definitivos, consentir los favorables e interponer recursos incluyendo el juicio de garantías, nombrar peritos y recusar a los de la contraria, formular acusaciones, denuncias o querellas penales y otorgar el perdón, asumir soluciones conciliatorias, llevar todo tipo de convenios y finiquitos, redargüir documentos falsos, pedir aclaración de sentencias, ejecutar embargos y representar al Instituto en los embargos que en su contra se decreten, pedir el remate de los bienes embargados, asistir a las almonedas, tranzar en juicio, percibir valores y otorgar recibos y cartas de pago, someter juicios a la decisión de jueces, árbitros y arbitradores, gestionar el otorgamiento de garantías y en fin, para promover todos los recursos que favorezcan los intereses del Instituto.
+
+IV. Ejercer Actos de dominio para adquirir y enajenar bienes muebles e inmuebles de conformidad con la normatividad aplicable;
+
+V. Tramitar créditos y fuentes de financiamiento a favor del Instituto y suscribir los títulos de crédito y los convenios y contratos que sean necesarios para este fin, de conformidad con la normatividad aplicable;
+
+VI. Administrar el patrimonio del Instituto;
+
+VII. Rendir el informe trimestral de actividades, financiero y del avance de los programas de gastos del Instituto ante la Junta de Gobierno y demás instancias correspondientes en los términos de la normatividad aplicable;
+
+VIII. Convocar y coordinar las sesiones del Consejo Consultivo;
+
+IX. Elaborar el Plan Anual de Actividades del Instituto y someterlo a la consideración y aprobación de la Junta de Gobierno;
+
+X. Seleccionar y contratar al personal que habrá de prestar sus servicios en el Instituto;
+
+XI. Suscribir convenios, contratos y otorgar concesiones relativas a los servicios que ofrece el Instituto;
+
+XII. Ejercer el control, el orden, la vigilancia, el mantenimiento y la limpieza de las unidades de los servicios culturales y feriales del Instituto;
+
+XIII. Elaborar la normatividad aplicable al Instituto y someterla a la consideración de la Junta de Gobierno para posteriormente presentarla a la aprobación del Ayuntamiento;
+
+XIV. Organizar, coordinar, supervisar y evaluar los festivales y fiestas patronales;
+
+XV. Proponer a la Junta de Gobierno los "perímetros feriales" para las diversas ferias y eventos populares y culturales que se realicen en el municipio;
+
+XVI. Disponer del área a que se refiere la fracción anterior para los efectos de la instalación de las negociaciones y de los atractivos en general que corresponden a la feria y fiestas.
+
+XVII. Fijar las tarifas, gravámenes o exenciones en su caso, que sean de la competencia del Municipio y que deban aplicarse por el uso del suelo, servicios y otros espectáculos que se relacionen directamente con la feria y las fiestas o eventos culturales que organice el Instituto.
+
+XVIII. Vigilar que las empresas que proporcionan diversión y esparcimiento a la niñez y a las familias ofrezcan sus servicios a precios accesibles a la economía popular, por lo que las tarifas que les fije el patronato deberán ser consideradas en precio especial;
+
+XIX. Recaudar las cantidades que correspondan por los conceptos a que se refiere la fracción XIV de este artículo;
+
+XX. Promover y difundir la cultura y el turismo cultural en todos los eventos y fiestas que realice; y
+
+XXI. Las demás que le sean encomendadas por el Presidente Municipal o por el Ayuntamiento.
 
 ###### Artículo 2122.
 
@@ -21637,7 +22055,7 @@ El objeto del establecimiento de las faltas cívicas, es contar con reglas míni
 
 Para los efectos de este Capítulo son responsables las personas de doce años o más que cometan infracciones, así como las personas físicas o morales que hubiesen ordenado la realización de las conductas que importen la comisión de una infracción.
 
-#### SECCIÓN TERCERA. De las Faltas Contra la Propiedad Pública
+#### SECCIÓN SEGUNDA. De las Faltas Contra el Civismo
 
 ###### Artículo 2355.
 
@@ -21673,7 +22091,7 @@ XIV.- Realizar actos de violencia contra las mujeres en la comunidad, en términ
 
 XV.- Oponerse, impedir o tratar de impedir que una autoridad municipal realice una diligencia legitima o imponga una sanción.
 
-#### SECCIÓN CUARTA. De las Faltas Contra la Salubridad
+#### SECCIÓN TERCERA. De las Faltas Contra la Propiedad Pública
 
 ###### Artículo 2356.
 
@@ -21687,7 +22105,7 @@ III.- Portar, usar o utilizar de manera negligente los símbolos patrios, sin el
 
 IV.- Portar insignias, escudos, ropas ó identificaciones de uso exclusivo de corporaciones policíacas del Estado y sus Municipios, sin estar debidamente autorizado para ello.
 
-#### SECCIÓN QUINTA. De las Faltas Contra el Bienestar Colectivo
+#### SECCIÓN CUARTA. De las Faltas Contra la Salubridad
 
 ###### Artículo 2357.
 
@@ -21711,7 +22129,7 @@ VIII.- Borrar, cubrir o alterar los números o letras con que están marcadas la
 
 IX.- Obstruir por cualquier medio parcial o totalmente calles, avenidas, calzadas, puentes u otros lugares públicos sin permiso de la autoridad correspondiente.
 
-#### SECCIÓN SEXTA. De las Faltas Contra la Integridad de las Personas y sus Bienes
+#### SECCIÓN QUINTA. De las Faltas Contra el Bienestar Colectivo
 
 ###### Artículo 2358.
 
@@ -21741,7 +22159,7 @@ XI.- Omitir limpiar o recoger los responsables de la guarda y cuidado de cualqui
 
 XII.- Sacar la basura de los contenedores o de los depósitos destinados para tal fin o prenderles fuego.
 
-#### SECCIÓN SÉPTIMA. De las Faltas Contra la Integridad Moral del Individuo
+#### SECCIÓN SEXTA. De las Faltas Contra la Integridad de las Personas y sus Bienes
 
 ###### Artículo 2359.
 
@@ -21772,6 +22190,8 @@ XI.- Difundir o poner a la vista cualquier tipo de material con sexo explicito o
 XII.- Realizar acoso contra las mujeres del Municipio, siempre y cuando no constituya algún delito; y
 
 XIII.- Obstruir, rentar o pedir propina por o para el uso de los espacios públicos para ser utilizados como estacionamiento de vehículos automotores.
+
+#### SECCIÓN SÉPTIMA. De las Faltas Contra la Integridad Moral del Individuo
 
 ###### Artículo 2360.
 
@@ -23554,3 +23974,13 @@ SÍNDICO MUNICIPAL.
 Ing. Salvador Contreras Velasco,
 
 SECRETARIO DEL AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2014.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PUESTA EN VIGENCIA DEL ORDENAMIENTO.
+
+Artículo Segundo.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
