@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-para-adolescentes-del-estado-de-quintana-roo-75
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2013-06-14"
+last_updated: "2014-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio del 2010.
 
@@ -237,7 +237,7 @@ En todos los casos, el adolescente aislado tiene derecho a que el Juez de Ejecuc
 
 XXI. No ser sujeto de represión psicológica;
 
-XXII. No ser controlado con fuerza o con instrumentos de coerción, salvo cuando se ocupen para impedir que lesione a otros adolescentes, a sí mismo, o que cause daños materiales;
+XXII. No ser controlado con fuerza o con instrumentos de coerción, salvo cuando se ocupen para impedir que lesione a otros adolescentes, así mismo, o que cause daños materiales;
 
 XXIII. Permanecer separado, cuando esté sujeto a internamiento preventivo, de aquellas personas a quienes ya se haya impuesto la medida de internamiento definitivo;
 
@@ -2455,7 +2455,13 @@ VI. Homicidio, previsto en los Artículos 86 en relación al 14 respecto de la c
 
 VII. Secuestro, previsto en el Artículo 117 del Código Penal del Estado;
 
-VIII. Robo, previsto en el Artículo 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII del Código Penal del Estado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+VIII. Robo, previsto en el primer párrafo del artículo 142 del Código Penal del Estado, en relación al:
+
+a) Artículo 145 Bis fracciones I, II, IV, V, VI y VII del Código Penal del Estado, cuando el valor de lo robado exceda de trescientos días de salario mínimo vigente en el Estado, o
+
+b) Artículo 146 Bis del Código Penal del Estado;
 
 IX. Aborto, previsto en el Artículo 94 del Código Penal del Estado;
 
@@ -3040,3 +3046,9 @@ LIC. EDUARDO OVANDO MARTINEZ
 P.O. 14 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE ABRIL DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
