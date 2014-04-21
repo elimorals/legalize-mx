@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-comisiones-del-poder-legislativo-del-estado-93975
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-09"
-last_updated: "2013-04-09"
+last_updated: "2014-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
 
 Reglamento publicado en el número extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 9 de abril de 2013.
 
@@ -95,7 +95,9 @@ Son comisiones ordinarias:
 
 15.- Comisión de Derechos Humanos.
 
-16.- Comisión de Equidad y Género.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+16.- Comisión para la Igualdad de Género.
 
 17.- Comisión de Educación, Ciencia y Tecnología.
 
@@ -329,13 +331,19 @@ IV. Las políticas planes y programas para el fortalecimiento de los Derechos Hu
 
 V. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2014)</small>
+
 ###### Artículo 20.
 
-Corresponde a la Comisión de Equidad y Género el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+Corresponde a la Comisión para la Igualdad de Género el estudio y dictamen o el conocimiento, respectivamente de los asuntos relacionados con:
 
-I. La legislación tendiente a garantizar la equidad entre la mujer y el hombre en la sociedad y aquellas con el objeto de garantizar la igualdad, equidad y la tolerancia, así como evitar la discriminación al respecto;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
-II. Las políticas, planes y programas tendientes al fortalecimiento de los valores universales y de equidad y género;
+I. La legislación tendiente a garantizar la igualdad entre la mujer y el hombre en la sociedad y aquellas con el objeto de garantizar la igualdad, equidad y tolerancia, así como evitar la discriminación al respecto;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+
+II. Las políticas, planes y programas tendientes al fortalecimiento de los valores universales para la igualdad de género.
 
 III. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
@@ -694,3 +702,15 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
