@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-del-estado-libre-y-soberano-de-hidalgo-para-979
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2014.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -111,7 +111,9 @@ aprovechamiento de bienes no sujetos
 
 a régimen de dominio público 49,969,212.00
 
-5.9 (sic) Otros productos que generan ingresos corrientes 17,969,287.00
+5.9 (sic) Otros productos que generan ingresos
+
+Corrientes 17,969,287.00
 
 6 Aprovechamientos de tipo corriente 182,482,561.00
 
@@ -133,9 +135,19 @@ de organismos descentralizados 68,262,072.00
 
 8.2 Aportaciones 15,840,727,512.00
 
-8.3 Convenios 30,711,151.00
+0.3 Convenios 30,711,151.00
 
-TOTAL 28,453,231,567.00
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2014)</small>
+
+0. Ingresos derivados de Financiamientos 497,388,449.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2014)</small>
+
+0.1 Endeudamiento Interno 497,388,449.00
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+
+TOTAL 28,950,620,016.00
 
 ###### Artículo 2.
 
@@ -222,3 +234,11 @@ AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTICULO 51 DE LA CONSTITUCION 
 Y EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL TRECE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+P.O. 21 DE ABRIL DE 2014.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
