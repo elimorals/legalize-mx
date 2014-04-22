@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procuracion-de-justicia-del-estado-de-coahuila-de-61580"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-16"
-last_updated: "2014-01-10"
+last_updated: "2014-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 10 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 16 de mayo de 2008.
 
@@ -1045,9 +1043,11 @@ En los supuestos a que se refieren las fracciones II y III del mismo artículo e
 
 En cualquier caso las actuaciones realizadas se considerarán como Averiguación Previa para los efectos de la acción penal y para el ejercicio de las atribuciones encomendadas al Ministerio Público y se sujetarán a los requisitos y formalidades que establece la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 67.
 
-ACTAS DE CONCILIACIÓN PRELIMINAR. EL Ministerio Público formará actas de conciliación preliminar cuando se le denuncien hechos que aún pudiendo ser eventualmente constitutivos de los delitos de injurias, amenazas, calumnia, difamación, lesiones levísimas no calificadas o robo simple de menor cuantía, el ofendido o víctima acepten expresamente someterse a conciliación ante el propio Ministerio Público.
+ACTAS DE CONCILIACIÓN PRELIMINAR. EL Ministerio Público formará actas de conciliación preliminar cuando se le denuncien hechos que aún pudiendo ser eventualmente constitutivos de los delitos de amenazas, lesiones levísimas no calificadas o robo simple de menor cuantía, el ofendido o víctima acepten expresamente someterse a conciliación ante el propio Ministerio Público.
 
 En estos casos el Ministerio Público levantará constancia de los hechos denunciados y procederá a citar al inculpado y a la víctima u ofendido para el sólo efecto de procurar su conciliación. Si la misma se lograre hará constar lo convenido y se archivará lo actuado. En caso contrario procederá a la integración de la averiguación previa que corresponda.
 
@@ -7158,3 +7158,7 @@ P.O. 24 DE DICIEMBRE DE 2013.
 PRIMERO.- La presente reforma entrará en vigor un mes después, contado a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE ABRIL DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
