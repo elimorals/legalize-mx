@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2014-03-06"
+last_updated: "2014-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -861,19 +861,11 @@ El Gobierno del Estado promoverá la participación de los sectores social y pri
 
 El Gobierno del Estado, buscará la participación equitativa de los empresarios y de los padres de familia, en el financiamiento de la educación pública superior.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 53 Bis.
 
 La Secretaría y las autoridades municipales, en el ámbito de sus atribuciones, deberán ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas.
-
-La Secretaría emitirá los lineamientos que deberán seguir las escuelas de educación básica para formular los programas de gestión escolar, con base en las disposiciones de la SEP, mismos que tendrán como objetivos:
-
-I.- Usar los resultados de la evaluación como retroalimentación para la mejora continua en cada ciclo escolar;
-
-II.- Desarrollar una planeación anual de actividades, con metas verificables y puestas en conocimiento de la autoridad y la comunidad escolar; y
-
-III.- Administrar en forma transparente y eficiente los recursos que reciba para mejorar su infraestructura, comprar materiales educativos, resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia, bajo el liderazgo del director, se involucren en la resolución de los retos que cada escuela enfrenta.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2415,10 +2407,18 @@ El Gobierno del Estado expedirá los reglamentos necesarios para regular las con
 
 Se abroga el Decreto Administrativo de fecha 19 de febrero de 1998, publicado en el Periódico Oficial del Gobierno del Estado No. 25, de marzo de 1998, por lo tanto se extingue el Consejo Estatal Técnico de Educación Básica, el personal docente y administrativo del Consejo mediante los mecanismos normativos y por disposición de su titular, se integrará a las diferentes áreas de la Estructura Orgánica de la Secretaría de Educación, según sus perfiles profesionales.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO SEXTO.
 
-El personal que conforme a las disposiciones de la Ley General del Servicio Profesional Docente, se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el citado ordenamiento. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de dicha Ley, no será separado de la función pública educativa y será readscrito para continuar en otras tareas dentro de dicho servicio educativo, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+El personal que conforme a las disposiciones de la Ley General del Servicio Profesional Docente, se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados a la entrada en vigor de dicha ley, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el citado ordenamiento. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de dicha Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
 ###### ARTÍCULO SÉPTIMO.
 
 Las autoridades competentes están obligadas a respetar íntegramente los derechos adquiridos de los trabajadores de la educación y, la titularidad de las relaciones laborales colectivas de la organización sindical en los términos de su registro vigente, de acuerdo con las disposiciones legales correspondientes.
+
+P.O. 22 DE ABRIL DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
