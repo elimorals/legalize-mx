@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-2914"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-10"
-last_updated: "2013-07-20"
+last_updated: "2014-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 22 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE ABRIL DE 2014 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 10 de junio de 1994.
 
@@ -986,3 +988,49 @@ B.O. 20 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 22 DE ABRIL DE 2014.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Educación para el Estado de Baja California Sur, expedida mediante Decreto 987; así como los Decretos 1177, 1230, 1708, 1885, 1920, mediante los cuales se reformaron, adicionaron y derogaron diversas disposiciones de la citada Ley de Educación para el Estado de Baja California Sur.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+CUARTO.- Las autoridades a que se refiere esta Ley, se obligan a respetar íntegramente los derechos adquiridos de los trabajadores de la educación y las promociones adquiridas mediante los procesos administrativos correspondientes, así como reconocer la titularidad de las relaciones laborales colectivas de su organización sindical, en los términos de su registro vigente y de acuerdo con las disposiciones legales en vigor.
+
+QUINTO.- El ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica o media superior que impartan el Estado o los Municipios de Baja California Sur, se ajustarán a lo dispuesto en la Ley General de Servicio Profesional Docente para cada nivel educativo, considerando que el personal que se encuentre en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en el nivel educativo en que se encuentre, que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente, conforme al artículo Octavo Transitorio de dicha Ley, será readscrito para continuar en otras tareas dentro de dicho servicio educativo, conforme a lo que determine la autoridad educativa, o bien, se le ofrecerá incorporarse a los programas de retiro que garanticen el pago de las prestaciones legales correspondientes.
+
+En la readscripción a que se refiere el párrafo anterior, se observará lo siguiente:
+
+I.- Será en la Secretaría de Educación del Estado o en el organismo descentralizado que corresponda;
+
+II.- Será con pleno respeto a los derechos constitucionales de los trabajadores de la educación;
+
+III.- El lugar de la nueva adscripción, previo derecho de audiencia que se otorgue en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, será en:
+
+a).- El mismo centro de trabajo;
+
+b).- Otro centro de trabajo en la misma zona escolar o en el mismo Municipio de su centro de trabajo anterior;
+
+c).- La unidad administrativa de la Secretaría de Educación Pública más cercana a su anterior centro de adscripción;
+
+d).- Alguno de los programas educativos que la Secretaría de Educación ejecute; o
+
+e).- Al interior del organismo descentralizado al que pertenezca, con las condiciones señaladas en esta fracción acordes al caso.
+
+Lo anterior, atendiendo las necesidades del servicio.
+
+En contra de las resoluciones administrativas que se pronuncien, los interesados podrán optar por interponer el recurso de revisión ante la autoridad educativa que emitió la resolución o acudir a la autoridad jurisdiccional que corresponda.
+
+SEXTO.- El Personal Docente y el Personal con Funciones de Dirección o de Supervisión en la Educación Básica o Media Superior impartida por el Gobierno del Estado y sus Organismos Descentralizados que a la entrada en vigor de esta Ley tenga Nombramiento Provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en el Artículo 78 de la presente Ley. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará Nombramiento Definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto por la Ley General del Servicio Profesional Docente y el presente ordenamiento.
+
+Será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según sea el caso, el personal que:
+
+I.- Se niegue a participar en los procesos de evaluación;
+
+II.- No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo proceso de evaluación a que se refiere el Artículo 79 de la presente Ley, o
+
+III.- Obtenga resultados insuficientes en el tercer proceso de evaluación previsto en el Artículo 79 de la presente Ley.
+
+SEPTIMO.- El Gobernador del Estado y la Secretaría de Educación Pública, según corresponda, deberán actualizar y en su caso, expedirán las disposiciones de carácter administrativo que sean necesarias para la aplicación y cumplimiento de lo dispuesto en la presente Ley.
