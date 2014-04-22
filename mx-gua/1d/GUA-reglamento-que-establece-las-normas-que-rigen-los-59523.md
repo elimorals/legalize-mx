@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-que-establece-las-normas-que-rigen-los-59523"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-25"
-last_updated: "2010-05-28"
+last_updated: "2014-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO QUE ESTABLECE LAS NORMAS QUE RIGEN LOS MECANISMOS, PROCEDIMIENTOS Y CRITERIOS DE EVALUACION DE MAGISTRADOS Y CONSEJEROS DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO QUE ESTABLECE LAS NORMAS QUE RIGEN LOS MECANISMOS, PROCEDIMIENTOS Y CRITERIOS DE EVALUACION DE MAGISTRADOS Y CONSEJEROS DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
+REGLAMENTO QUE ESTABLECE LAS NORMAS QUE RIGEN LOS MECANISMOS, PROCEDIMIENTOS Y CRITERIOS DE EVALUACIÓN DE MAGISTRADOS Y CONSEJEROS DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de enero del 2008.
 
@@ -43,13 +43,17 @@ En consecuencia, con apoyo en las disposiciones constitucionales y legales anter
 
 ### CAPITULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 1º.
 
-El presente reglamento tiene como objeto normar la facultad de supervisión y evaluación de la Comisión de Evaluación del Poder Judicial del Estado que se ejercerá de acuerdo a la información objetiva que permita calificar el desempeño de los Magistrados y Consejeros con la finalidad de contribuir a garantizar el derecho de los justiciables a que la función judicial se realice con apego a los principios previstos en el artículo 55-F de la Ley Orgánica.
+El presente reglamento tiene como objeto normar la facultad de supervisión y evaluación de la Comisión de Evaluación del Poder Judicial del Estado que se ejercerá de acuerdo a la información objetiva que permita calificar el desempeño de los Magistrados y Consejeros, con la finalidad de contribuir a garantizar el derecho de los justiciables a que la función judicial se realice con apego a los principios previstos en el artículo 75 de la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 2º.
 
-Estas reglas establecen los mecanismos y procedimientos para la obtención de información y la práctica de auditorías a Magistrados y Consejeros, para llevar a cabo su evaluación, así como los parámetros para realizar ésta.
+Estas reglas establecen los mecanismos y procedimientos para la obtención de información y la práctica de revisiones a Magistrados y Consejeros, para llevar a cabo su evaluación, así como los parámetros para realizar ésta.
 
 ###### Artículo 3º.
 
@@ -63,19 +67,27 @@ III).- Comisión.- La Comisión de Evaluación del Poder Judicial del Estado.
 
 IV).- Secretario.- El Secretario de la Comisión de Evaluación.
 
-V).- Consejero.- El Consejero y/o Magistrado Consejero del Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+V).- Consejero.- El Consejero del Poder Judicial del Estado.
 
 VI).- Magistrado.- El Magistrado del Supremo Tribunal de Justicia del Estado.
 
-VII).- Comisionado Visitador.- El integrante de la Comisión de Evaluación designado por acuerdo de ésta para realizar las supervisiones y auditorías que la propia Comisión le asigne.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-VIII).- Evaluado.- El Magistrado o el Consejero y/o Magistrado Consejero sujeto al procedimiento de evaluación.
+VII).- Comisionado Visitador.- El integrante de la Comisión de Evaluación designado por acuerdo de ésta para realizar las revisiones que la propia Comisión le asigne.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+VIII).- Evaluado.- El Magistrado o el Consejero sujeto al procedimiento de evaluación.
 
 IX).- Agente Auxiliar.- El personal de apoyo para que el Comisionado Visitador cumpla su encomienda.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 4º.
 
-La evaluación de Magistrados y Consejeros será permanente y continua en los términos y condiciones que establezca el presente reglamento.
+La evaluación de Magistrados y Consejeros será permanente y continua en los términos y condiciones que establezcan la Ley Orgánica del Poder Judicial y el presente reglamento.
 
 ###### Artículo 5º.
 
@@ -87,75 +99,117 @@ Esta información podrá ser verificada por la Comisión cuando así lo estime c
 
 II).- Informe mensual que deberá proporcionar el Presidente del Supremo Tribunal de Justicia del Estado y del Consejo del Poder Judicial, respecto de las resoluciones definitivas dictadas por los órganos que representa, en procedimientos disciplinarios instruidos a Magistrados y Consejeros.
 
-III).- Informe anual que deberá rendir la Contraloría del Poder Judicial, respecto al cumplimiento que cada Magistrado o Consejero haya dado a sus obligaciones sobre declaraciones patrimoniales.
+III).- (DEROGADA, P.O. 22 DE ABRIL DE 2014)
 
-IV).- Informe mensual que sobre el estado comparativo de las Salas rinda la Contraloría del Poder Judicial.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-V).- Documentos que los Magistrados y Consejeros aporten a la Comisión, en relación a su actividad académica o docente o publicación de trabajos jurídicos. Así como los informes sobre actividades o comisiones especiales.
+IV).- Informe mensual que sobre el equilibrio estadístico mensual de las Salas rinda la Dirección de Planeación y Estadística.
 
-VI).- Copias certificadas de expedientes formados con motivo de auditorías especiales que contengan información que debe tomarse en cuenta para la evaluación.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-VII).- Práctica de auditorías a Magistrados y Consejeros.
+V).- Documentos que los Magistrados y Consejeros aporten a la Comisión, en relación a su actividad académica o docente o publicación de trabajos jurídicos.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+VI).- Copias certificadas de expedientes formados con motivo de revisiones o auditorias que contengan información que debe tomarse en cuenta para la evaluación.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+VII).- Práctica de revisiones a Magistrados y Consejeros.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 6º.
 
-La práctica de las auditorías para evaluar el desempeño de Magistrados y Consejeros, deberá ser previamente acordada por la Comisión y se sujetará a las disposiciones contenidas en este reglamento.
+La práctica de las revisiones para evaluar el desempeño de Magistrados y Consejeros, deberá ser previamente acordada por la Comisión y se sujetará a las disposiciones contenidas en este reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 7º.
 
-Las auditorías serán practicadas por el Comisionado o Comisionados Visitadores designados para cada caso por la Comisión, sin perjuicio de otros Agentes Auxiliares que se estimen pertinentes.
+Las revisiones serán practicadas por el Comisionado o Comisionados Visitadores designados para cada caso por la Comisión, sin perjuicio de otros Agentes Auxiliares que se estimen pertinentes.
 
 ###### Artículo 8º.
 
 El Comisionado Visitador tendrá las siguientes funciones y obligaciones:
 
-I).- Practicar las auditorías ajustándose a este reglamento.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-II).- Expresar ante la Comisión el impedimento que tenga para realizar la auditoría.
+I).- Practicar las revisiones ajustándose a este reglamento.
 
-III).- Remitir al Secretario un tanto del acta y el expediente integrado con motivo de la auditoría.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-IV).- Llevar registro de las auditorías por él practicadas.
+II).- Expresar ante la Comisión el impedimento que tenga para realizar la revisión.
 
-V).- Dar seguimiento a las determinaciones de la Comisión derivadas de las auditorías e informarle sobre su cumplimiento.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-VI).- Abstenerse de emitir juicios de aprobación o desaprobación sobre el resultado de la auditoría ante personas ajenas a la Comisión.
+III).- Remitir al Secretario un tanto del acta y el expediente integrado con motivo de la revisión.
 
-VII).- Cumplir con el calendario de las auditorías.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+IV).- Llevar registro de las revisiones por él practicadas.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+V).- Dar seguimiento a las determinaciones de la Comisión derivadas de las revisiones e informarle sobre su cumplimiento.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+VI).- Abstenerse de emitir juicios de aprobación o desaprobación sobre el resultado de la revisión ante personas ajenas a la Comisión.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+VII).- Cumplir con el calendario de las revisiones.
 
 VIII).- Las demás que le asigne este reglamento o la Comisión.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 9º.
 
-El Comisionado o Comisionados Visitadores y en su caso los Agentes Auxiliares, estarán impedidos para realizar auditorías, cuando exista algún interés, amistad íntima o enemistad con el Evaluado.
+El Comisionado o Comisionados Visitadores y en su caso los Agentes Auxiliares, estarán impedidos para realizar revisiones, cuando exista algún interés, amistad íntima o enemistad con el Evaluado.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 10.
 
-El Comisionado o Comisionados Visitadores y los Agentes Auxiliares no serán recusables, pero de actualizarse alguna de las hipótesis previstas por el artículo anterior, deberán manifestarlo por escrito a más tardar al día siguiente de que se les haya asignado para intervenir en la auditoría o al siguiente de que llegue a su conocimiento el motivo de la excusa, si surgió con posterioridad a su designación. En caso de auditorías especiales, el Comisionado Visitador deberá manifestar de inmediato el motivo de su excusa.
+El Comisionado o Comisionados Visitadores y los Agentes Auxiliares no serán recusables, pero de actualizarse alguna de las hipótesis previstas por el artículo anterior, deberán manifestarlo por escrito a más tardar al día siguiente de que se les haya asignado para intervenir en la revisión o al siguiente de que llegue a su conocimiento el motivo de la excusa, si surgió con posterioridad a su designación. En caso de revisiones especiales, el Comisionado Visitador deberá manifestar de inmediato el motivo de su excusa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 11.
 
-La calificación del impedimento se hará de plano por la Comisión en el plazo de 3 tres días. Si se trata de una auditoría especial la calificación será inmediata.
+La calificación del impedimento se hará de plano por la Comisión en el plazo de 3 tres días. Si se trata de una revisión especial la calificación será inmediata.
 
 Admitida una causa de impedimento, el Presidente llamará al Suplente que corresponda y en su caso proveerá la designación de un Agente Auxiliar.
 
-## TITULO SEGUNDO. DE LAS AUDITORIAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2014)</small>
 
-### CAPITULO PRIMERO. DE LAS AUDITORIAS DE EVALUACION
+## TITULO SEGUNDO. DE LAS REVISIONES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2014)</small>
+
+### CAPITULO PRIMERO. DE LAS REVISIONES DE EVALUACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 12.
 
-Para efectos de evaluación, se practicará una auditoría al cumplirse cada año del periodo de desempeño, de acuerdo al calendario que apruebe la Comisión.
+Para efectos de evaluación, se practicará una revisión al cumplirse cada año del periodo de desempeño, de acuerdo al calendario que apruebe la Comisión.
 
 La correspondiente al último año del período del Evaluado, se practicará de ser posible cuatro meses antes de la fecha de terminación de su nombramiento, para que pueda realizarse en forma oportuna el proceso de reelección.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 13.
 
-Para el desarrollo de las auditorías, el Evaluado asignará un espacio físico adecuado al Comisionado Visitador y a sus Agentes Auxiliares, procurando que con ello no se entorpezca el funcionamiento normal del órgano auditado.
+Para el desarrollo de las revisiones, el Evaluado asignará un espacio físico adecuado al Comisionado Visitador y a sus Agentes Auxiliares, procurando que con ello no se entorpezca el funcionamiento normal del órgano revisado.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 14.
 
-Durante el desarrollo de las auditorías el Evaluado brindará al Comisionado Visitador y a sus Agentes Auxiliares, el apoyo e información necesarios para el cumplimiento de su función.
+Durante el desarrollo de las revisiones el Evaluado brindará al Comisionado Visitador y a sus Agentes Auxiliares, el apoyo e información necesarios para el cumplimiento de su función.
 
 ###### Artículo 15.
 
@@ -163,17 +217,23 @@ El Comisionado Visitador y sus Agentes Auxiliares deberán abstenerse de:
 
 I).- Intervenir o influir en las decisiones del Evaluado; y,
 
-II).- Emitir o asentar exhortaciones, requerimientos, felicitaciones o cualquier opinión respecto al resultado de la auditoria.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+II).- Emitir o asentar exhortaciones, requerimientos, felicitaciones o cualquier opinión respecto al resultado de la revisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 16.
 
-Las auditorías que tengan por objeto obtener información para la evaluación del desempeño de Magistrados, necesariamente deben ocuparse de lo siguiente:
+Las revisiones que tengan por objeto obtener información para la evaluación del desempeño de Magistrados, necesariamente deben ocuparse de lo siguiente:
 
 I).- Verificar si los libros de gobierno están al corriente en los datos que deben contener.
 
 II).- Las fechas en que se han turnado los asuntos, dictado los acuerdos y las resoluciones y en que han sido notificados.
 
-III).- El número de entradas, salidas y saldos mensuales; así como los saldos anuales del año al que corresponda la auditoría.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+III).- El número de entradas, salidas y saldos mensuales; así como los saldos anuales del año al que corresponda la revisión.
 
 IV).- Número de amparos solicitados, concedidos, negados o sobreseídos.
 
@@ -183,9 +243,11 @@ V).- Número de resoluciones sin amparo interpuesto.
 
 Para efectos de las fracciones II y III se deberá considerar el estado procesal de los asuntos al momento de emitir el acuerdo o resolución correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 17.
 
-Las auditorías que tengan por objeto obtener información para la evaluación del desempeño de los Consejeros, necesariamente deben ocuparse de lo siguiente:
+Las revisiones que tengan por objeto obtener información para la evaluación del desempeño de los Consejeros, necesariamente deben ocuparse de lo siguiente:
 
 I).- Revisar si los medios de control implementados están al corriente en los datos que deben contener;
 
@@ -221,9 +283,7 @@ Se revisará el contenido jurídico de las resoluciones y acuerdos para verifica
 
 V).- Las asistencias y proyectos de acuerdos presentados en el Comité de Contrataciones y Adquisiciones del Poder Judicial;
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2009)</small>
-
-VI).- El cumplimiento de obligaciones sobre declaraciones patrimoniales;
+VI).- (DEROGADA, P.O. 22 DE ABRIL DE 2014)
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -233,65 +293,97 @@ VII).- El uso adecuado de los recursos humanos y materiales puestos a su disposi
 
 VIII).- La realización de los cursos de capacitación, especialización, maestrías, doctorados, etcétera, así como la publicación de los artículos, impartición de clases, preferentemente en materia jurídica.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 18.
 
-· Las auditorías que tengan por objeto obtener información para la evaluación del desempeño del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, necesariamente deben ocuparse de lo siguiente:
+Las revisiones que tengan por objeto obtener información para la evaluación del desempeño del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, necesariamente deben ocuparse de lo siguiente:
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 I.- Actos en los que ejerza la representación del Poder Judicial del Estado y naturaleza de los mismos;
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 II.- Actividades y decisiones adoptadas para vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, incluyendo los acuerdos y circulares, dándole cuenta al Pleno del Supremo Tribunal de Justicia y al Consejo del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 III.- Propuestas de acuerdos y circulares presentadas al Pleno del Supremo Tribunal de Justicia y al Consejo del Poder Judicial para vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita;
 
-IV.- Número y tipo de sesiones ordinarias o extraordinarias en las que participe en el Pleno del Supremo Tribunal de Justicia, Consejo del Poder Judicial, Comisión de Evaluación de Magistrados y Consejeros y Comité de Contrataciones y Adquisiciones del Poder Judicial;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+IV.- Número y tipo de sesiones ordinarias o extraordinarias en las que participe en el Pleno del Supremo Tribunal de Justicia, Consejo del Poder Judicial, la Comisión y Comité de Contrataciones del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 V.- Número y tipo de asuntos tramitados, de la competencia del Pleno del Supremo Tribunal de Justicia, hasta ponerlos en estado de resolución;
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 VI.- La rendición del informe anual sobre la impartición de justicia y sobre la administración del Poder Judicial, durante el tiempo de su encargo; y
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 VII.- Actos en que participó con ponencias o conferencias, las publicaciones realizadas así como los cargos que ocupó en organizaciones locales o nacionales en representación del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 19.
 
-Las auditorías se efectuarán en días hábiles de acuerdo con el calendario del Poder Judicial. Lo anterior sin perjuicio de los que habilite la Comisión.
+Las revisiones se efectuarán en días hábiles de acuerdo con el calendario del Poder Judicial. Lo anterior sin perjuicio de los que habilite la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 20.
 
-La Comisión elaborará anualmente un calendario de auditorías.
+La Comisión elaborará anualmente un calendario de revisiones.
 
-Las auditorías se practicarán en forma proporcional por los integrantes de la Comisión, con excepción del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, a quienes se les asignarán a través de sorteo.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+Las revisiones se asignarán a los comisionados y sus agentes auxiliares, de manera proporcional por los integrantes de la Comisión, con excepción de las que se practiquen al Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado y de los consejeros del Poder Judicial, las que se asignarán a través de sorteo.
 
 Una vez que se conozca el resultado del sorteo a que se refiere el párrafo anterior, los Comisionados Visitadores previo aviso al Evaluado, procederán a su ejecución conforme al programa y calendario previamente elaborados.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 21.
 
-El Comisionado Visitador informará por escrito al Evaluado al menos con diez días naturales de anticipación la fecha de inicio de la auditoría.
+El Comisionado Visitador informará por escrito al Evaluado al menos con diez días naturales de anticipación la fecha de inicio de la revisión.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 22.
 
-Cuando exista causa justificada a juicio de la Comisión, se podrá adelantar, postergar o suspender el desarrollo de la auditoría. No influirá en su práctica la ausencia accidental o temporal del Evaluado.
+Cuando exista causa justificada a juicio de la Comisión, se podrá adelantar, postergar o suspender el desarrollo de la revisión. No influirá en su práctica la ausencia accidental o temporal del Evaluado.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 23.
 
-Las auditorías a Magistrados serán atendidas por el Evaluado o, en su ausencia, por el Secretario de Acuerdos o Proyectista respectivo. En el supuesto de no encontrarse presentes al inicio alguno de los servidores públicos referidos, el Comisionado Visitador realizará el acto con cualquier empleado de la plantilla del personal del órgano al que pertenezca el Evaluado, haciendo constar las ausencias y, en su caso, la presencia posterior de cualquiera de aquellos.
+Las revisiones a Magistrados serán atendidas por el Evaluado o, en su ausencia, por el Secretario de Acuerdos o Proyectista respectivo. En el supuesto de no encontrarse presentes al inicio alguno de los servidores públicos referidos, el Comisionado Visitador realizará el acto con cualquier empleado de la plantilla del personal del órgano al que pertenezca el Evaluado, haciendo constar las ausencias y, en su caso, la presencia posterior de cualquiera de aquellos.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 24.
 
-Las auditorías a Consejeros serán atendidas por el Evaluado o, en su ausencia, por su Secretario Técnico. En el supuesto de no encontrarse presentes al inicio alguno de los servidores públicos referidos, el Comisionado Visitador realizará el acto con cualquier empleado de la plantilla del personal del órgano al que pertenezca el Evaluado, haciendo constar las ausencias y, en su caso, la presencia posterior de cualquiera de aquellos.
+Las revisiones a Consejeros serán atendidas por el Evaluado o, en su ausencia, por su Secretario Técnico. En el supuesto de no encontrarse presentes al inicio alguno de los servidores públicos referidos, el Comisionado Visitador realizará el acto con cualquier empleado de la plantilla del personal del órgano al que pertenezca el Evaluado, haciendo constar las ausencias y, en su caso, la presencia posterior de cualquiera de aquellos.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 25.
 
-Las auditorías al Presidente del Supremo Tribunal de Justicia del Estado y del Consejo del Poder Judicial serán atendidas por éste, o, en su ausencia, por su Secretario Particular. En el supuesto de no encontrarse presentes al inicio alguno de los servidores públicos referidos, el Comisionado Visitador realizará el acto con cualquier empleado de la plantilla del personal de la Presidencia, haciendo constar las ausencias y, en su caso, la presencia posterior de cualquiera de aquellos.
+Las revisiones al Presidente del Supremo Tribunal de Justicia del Estado y del Consejo del Poder Judicial serán atendidas por éste, o, en su ausencia, por su Secretario Particular. En el supuesto de no encontrarse presentes al inicio alguno de los servidores públicos referidos, el Comisionado Visitador realizará el acto con cualquier empleado de la plantilla del personal de la Presidencia, haciendo constar las ausencias y, en su caso, la presencia posterior de cualquiera de aquellos.
 
 ###### Artículo 26
 
 El Comisionado Visitador solicitará al Evaluado designe, en su caso, a la persona o personas que proporcionarán los datos o elementos que se le requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 27.
 
-En las auditorías, el Comisionado Visitador o en su caso el Agente Auxiliar, tomando en cuenta las particularidades del órgano del que sea titular el Evaluado, además realizará lo siguiente:
+En las revisiones, el Comisionado Visitador o en su caso el Agente Auxiliar, tomando en cuenta las particularidades del órgano del que sea titular el Evaluado, además realizará lo siguiente:
 
 I).- Pedirá la lista del personal para comprobar su asistencia;
 
@@ -303,57 +395,79 @@ IV).- Entrevistará al personal para escuchar sus opiniones; y
 
 V).- Cualquier otra actividad que la Comisión le encomiende.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 28.
 
-De toda auditoría se levantará acta circunstanciada, la que firmarán el Comisionado Visitador, el Evaluado, el Agente Auxiliar, el designado para atender la auditoría y todos aquellos que hubieren intervenido en la misma. Se levantará en dos tantos, uno se entregará al Evaluado y otro lo conservará el Comisionado Visitador, para los efectos conducentes. Si alguno de los que debieran firmar se negara a hacerlo, se asentará esta circunstancia y las razones de ello.
+De toda revisión se levantará acta circunstanciada, la que firmarán el Comisionado Visitador, el Evaluado, el Agente Auxiliar, el designado para atender la revisión y todos aquellos que hubieren intervenido en la misma. Se levantará en dos tantos, uno se entregará al Evaluado y otro lo conservará el Comisionado Visitador, para los efectos conducentes. Si alguno de los que debieran firmar se negara a hacerlo, se asentará esta circunstancia y las razones de ello.
 
-Lo asentado por el Comisionado Visitador como ocurrido en la práctica de las auditorías se tendrá como cierto, salvo prueba en contrario.
+Lo asentado por el Comisionado Visitador como ocurrido en la práctica de las revisiones se tendrá como cierto, salvo prueba en contrario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 29.
 
-Al finalizar la auditoría y antes del cierre del acta, el Comisionado Visitador permitirá que el Evaluado se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga y podrá hacerlo verbalmente en ese momento, o por escrito ante el Comisionado Visitador, dentro de los diez días siguientes al cierre del acta; manifestaciones que serán consideradas al realizar el dictamen correspondiente, expresando sus conceptos de defensa y aportando pruebas tendientes a probar las mismas, por ser el momento procesal oportuno para ello.
+Al finalizar la revisión y antes del cierre del acta, el Comisionado Visitador permitirá que el Evaluado se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga y podrá hacerlo verbalmente en ese momento, o por escrito ante la Comisión, dentro de los diez días hábiles siguientes al cierre del acta; manifestaciones que serán consideradas al realizar el dictamen correspondiente, expresando sus conceptos de defensa y aportando pruebas tendientes a probar las mismas, por ser el momento procesal oportuno para ello.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
 
 El acta deberá contener los datos de identificación de los expedientes, resoluciones y acuerdos que se consideren extemporáneos, así como de los amparos concedidos.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-El plazo contemplado por el artículo 55-H, tercer párrafo, de la Ley Orgánica del Poder Judicial solamente se otorgará para el efecto de que los magistrados y consejeros del Poder Judicial hagan valer excepciones supervenientes o cualquier otra circunstancia que no se hubiese asentado en el acta de visita.
+Una vez notificado el dictamen de evaluación anual, los magistrados y consejeros del Supremo Tribunal de Justicia contarán con un plazo de diez días hábiles para el efecto de que hagan valer excepciones supervenientes o cualquier otra circunstancia que no se hubiese asentado en el acta de visita.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+Para los efectos del párrafo anterior, en relación con la evaluación final se estará conforme a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 30.
 
-Concluido el término a que se refiere el artículo anterior, el Comisionado Visitador entregará al Presidente el acta de auditoría dentro de los diez días siguientes, acompañada del expediente integrado y con un dictamen sobre el resultado de la misma, que será sometido a consideración de la Comisión para su aprobación, en su caso.
+Concluido el plazo a que se refiere el artículo anterior, el Comisionado Visitador entregará al Presidente de la Comisión el acta de revisión dentro de los diez días siguientes, acompañada del expediente integrado para su dictaminación.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 31.
 
-Salvo disposición en contrario la Comisión resolverá sobre la aprobación o desaprobación del dictamen dentro de un plazo de tres meses a partir de la fecha de recepción del dictamen.
+La Comisión emitirá dictamen dentro de un plazo de tres meses a partir de la fecha de recepción del acta de revisión.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 32.
 
-El dictamen aprobado por la Comisión se notificará personalmente al Evaluado, con copia certificada, dentro de los cinco días siguientes a la fecha de la resolución.
+El dictamen emitido por la Comisión se notificará personalmente al Evaluado, con copia certificada, dentro de los cinco días hábiles siguientes a la fecha de la resolución.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 33.
 
-Los dictámenes de auditoría serán considerados para efectos del dictamen de evaluación final del desempeño del Evaluado.
+Los dictámenes de revisión serán considerados para efectos del dictamen de evaluación final del desempeño del Evaluado.
 
-### CAPITULO SEGUNDO. REGLAS PARA LA EVALUACIÓN DE MAGISTRADOS Y CONSEJEROS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2014)</small>
+
+### CAPITULO SEGUNDO. BASES PARA LA EVALUACION DE MAGISTRADOS Y CONSEJEROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 34.
 
-La Comisión, para emitir el dictamen de evaluación anual de Magistrados, teniendo en cuenta la información obtenida y auditorías practicadas, se sujetará a los siguientes lineamientos:
+La Comisión, para emitir el dictamen de evaluación anual de Magistrados, teniendo en cuenta la información obtenida y revisiones practicadas, se sujetará a los siguientes lineamientos:
 
-Los principios de independencia, imparcialidad, honestidad invulnerable, honradez, honorabilidad, lealtad, probidad, rectitud, objetividad y veracidad que deben caracterizar a la función jurisdiccional, son cualidades esenciales de la actuación del Magistrado y constituyen presupuestos para conservar el cargo y aspirar a la reelección, sujeta además a la evaluación de su desempeño.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+Los principios de independencia judicial, imparcialidad, honestidad invulnerable, honradez, honorabilidad, lealtad, probidad y rectitud, objetividad y veracidad que deben caracterizar a la función jurisdiccional, son cualidades esenciales de la actuación del Magistrado y constituyen presupuestos para conservar el cargo y aspirar a la reelección, sujeta además a la evaluación de su desempeño.
 
 El que no tenga acreditadas dichas cualidades, no podrá ser propuesto por la Comisión para ser reelecto, con independencia del resultado de la evaluación de su desempeño.
 
-Estas cualidades se presumen, salvo prueba en contrario.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+Estas cualidades se presumen, salvo prueba en contrario y solo podrán ser vulnerados mediante conductas dolosas.
 
 La Comisión revisará la información obtenida y determinará si de ella se desprende prueba en contra de la presunción establecida en el párrafo anterior.
 
-Dichas cualidades sólo se vulneran mediante conductas dolosas.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 35.
 
@@ -369,17 +483,19 @@ III).- La calidad de las resoluciones.
 
 La calidad de las resoluciones se determinará tomando como referencia el grado de asertividad y la puntuación a obtener.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-El porcentaje de asertividad se obtendrá teniendo en cuenta el número de resoluciones pronunciadas por la Sala en relación al número de amparos concedidos, en el periodo que comprenda la evaluación. Para ello se multiplica la cantidad de amparos concedidos por el puntaje máximo que se otorga a esta fracción, y el resultado que arroje dicha operación se divide entre la cantidad de tocas resueltos.
+El porcentaje de asertividad se obtendrá teniendo en cuenta el número de resoluciones de fondo pronunciadas por la Sala, además de aquellas en donde haya concluido la segunda instancia porque el recurso se haya declarado inadmisible, desierto o haya desistimiento del impugnante, así como en las que se decrete por cualquier otra causa el sobreseimiento, en relación al número de amparos concedidos por el puntaje máximo que se otorga a esta fracción, y el resultado que arroje dicha operación se divide entre la cantidad de tocas así resueltos.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
 Para obtener el puntaje que a este rubro corresponde, tratándose de Salas Civiles y Penales, se aplicará la siguiente fórmula:
 
-25
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-Puntaje: AC * -------
+Puntaje: AC * 30
+
+----------
 
 TR
 
@@ -389,17 +505,21 @@ AC: Son los amparos concedidos que haya tenido el Evaluado durante el periodo de
 
 TR: Son los tocas resueltos por el Evaluado durante el periodo de su evaluación.
 
-25: Es el puntaje máximo que otorga a esta fracción el artículo 36 del Reglamento.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+30: Es el puntaje máximo que otorga a esta fracción el artículo 36 del Reglamento.
 
 El asterisco (*) indica multiplicación.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-La cantidad obtenida de dicha operación se restará al puntaje máximo que otorga esta fracción (25 puntos), y la cantidad que se obtenga será el puntaje del evaluado por lo que ve a esta fracción; así tenemos:
+La cantidad obtenida de dicha operación se restará al puntaje máximo que otorga esta fracción (30 puntos), y la cantidad que se obtenga será el puntaje del evaluado por lo que ve a esta fracción; así tenemos:
 
-25
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-Puntaje: 25 - [ AC* ------ ]
+Puntaje: 30 - [ AC*30 ]
+
+----------
 
 TR
 
@@ -407,17 +527,13 @@ IV).- La oportunidad en el dictado de acuerdos, conforme a la ley.
 
 V).- La oportunidad en la presentación de proyectos de resolución de negocios de competencia del Pleno, dentro del plazo que la ley le señala a éste.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-VI).- La calidad de los proyectos de resolución a que se refiere el inciso anterior, la cual se evaluará conforme a la siguiente tabla:
-
-A) Argumentación 3 puntos
-
-B) Fundamentación 3 puntos
-
-C).Sentido 3 puntos
+VI).- La calidad de los proyectos de resolución a que se refiere la fracción anterior, se medirá atendiendo al sentido, otorgando a este aspecto tres puntos.
 
 VII).- El equilibrio estadístico mensual entre entradas y salidas de negocios.
+
+-
 
 Habrá equilibrio estadístico mensual de entradas y salidas, en cualquiera de los siguientes supuestos:
 
@@ -427,15 +543,9 @@ B).- Sean por lo menos iguales las salidas a las entradas.
 
 C).- Cuando aunque (sic) sean mayores las entradas que las salidas, esto se deba a que el estado procesal de los asuntos no permita resolverlos.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+VIII).- (DEROGADA, P.O. 22 DE ABRIL DE 2014)
 
-VIII).- Sobresalir en el comparado de equilibrio estadístico entre la Sala evaluada y sus pares, de acuerdo con lo que se derive de la fracción anterior.
-
-El resultado de la comparación otorgará al evaluado que ocupe del primero al tercer lugar los puntos a que se refiere la fracción VIII del artículo 36, y a los demás evaluados se les asignará, de manera proporcional, dependiendo del lugar que ocupen, de manera descendente el puntaje que les corresponda.
-
-En las evaluaciones anuales no se otorgará puntuación al evaluado que no haya mantenido equilibrio estadístico cuando menos en 6 seis meses durante el periodo del año evaluado.
-
-IX).- El cumplimiento de obligaciones sobre declaraciones patrimoniales.
+IX).- (DEROGADA, P.O. 22 DE ABRIL DE 2014)
 
 X).- El uso adecuado de los recursos humanos y materiales puestos a su disposición para la realización del servicio.
 
@@ -451,55 +561,49 @@ A) Asistencias a sesiones del Pleno;
 
 B) Asistencias a semiplenas de Magistrados;
 
-C) Realización de comisiones encomendadas por el Pleno, debiendo diferenciar las comisiones de trabajo de aquéllas que sólo son de representación.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+C) Realización de comisiones de trabajo encomendadas por el Pleno.
 
 Por el cumplimiento de las actividades enunciadas en el inciso A) se otorgarán hasta 3 puntos, por las mencionadas en el inciso B) se asignarán hasta 2 puntos y por las comisiones encomendadas por el Pleno, inciso C), se concederán 8 puntos.
 
-En relación con las comisiones debe precisarse que al evaluado que haya realizado una o más comisiones de trabajo, durante el período sujeto a evaluación, se le otorgarán 6 puntos, y al que haya realizado una o más comisiones de representación se le otorgarán 2 puntos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 36.
 
-Los aspectos a que se refieren los incisos del I) al XIl) del artículo anterior se evaluarán conforme a la siguiente tabla:
+Los aspectos a que se refieren las fracciones I a XIl del artículo anterior se evaluaran conforme a la siguiente tabla:
 
 I) 5 puntos
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-II) 16 puntos
+II) 20 puntos
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-III) 25 puntos
+III) 30 puntos
 
-IV) 5 puntos
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+IV) 8 puntos
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
 
 V) 3 puntos
 
-VI) 10 puntos
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
-
-VI) A) 3 puntos
-
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
-
-VI) B) 3 puntos
-
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2010)</small>
-
-VI) C) 3 puntos
+VI) 3 puntos
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 VII) 12 puntos
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+VIII) (DEROGADA, P.O. 22 DE ABRIL DE 2014)
 
-VIII) 5 puntos
-
-IX) 1 punto
+IX) (DEROGADA, P.O. 22 DE ABRIL DE 2014)
 
 X) 1 punto
 
@@ -523,41 +627,51 @@ XII) B) 2 puntos
 
 XII) C) 8 puntos
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-El puntaje señalado en la tabla anterior, en los incisos del I) al VIII), corresponde a lo correcto del universo de los datos a que se refiere cada inciso, y esa calificación irá disminuyendo y se determinará mediante la aplicación de una regla de tres.
+El puntaje señalado en la tabla anterior, en las fracciones I a VII, corresponde a lo correcto del universo de los datos a que se refiere cada fracción, y esa calificación irá disminuyendo y se determinará mediante la aplicación de una regla de tres.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-Respecto a los incisos del IX) al XII), se determinará si se han realizado o no conductas tendientes a la satisfacción de los supuestos ahí contemplados y en consecuencia se otorgará el puntaje señalado.
+Respecto a las fracciones X a XII, se determinará si se han realizado o no conductas tendientes a la satisfacción de los supuestos ahí contemplados y en consecuencia se otorgará el puntaje señalado.
 
-Las calificaciones obtenidas en cada uno de los incisos del I) al XII) se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-Para determinar la evaluación comparativa del Evaluado con sus pares, se procederá del siguiente modo:
+Las calificaciones obtenidas en cada una de las fracciones anteriores se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
 
-I).- En los mismos términos establecidos se evaluará a los pares del Evaluado, por el mismo periodo, hasta obtener la calificación individual del desempeño de cada uno.
-
-II).- Los resultados se sumarán y se dividirán entre el número de pares y ello dará el promedio general comparativo.
-
-III).- La calificación individual del Evaluado se comparará con dicho promedio general y si es superior, el resultado se considerará como óptimo en relación con sus pares.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 37.
 
 Con la evaluación de los aspectos a que se refiere el artículo 35 de este reglamento se determina si el desempeño del Evaluado cumple con los principios de eficiencia, eficacia, legalidad, excelencia profesional, diligencia, celeridad y competencia, en los siguientes términos:
 
-I).- La eficiencia es el aprovechamiento y utilización correcta de los recursos materiales y humanos de que dispone el juzgador para impartir justicia, dedicándolos exclusivamente al fin para el que se le proporcionan, así como la observancia oportuna de los plazos previstos en las leyes para que la función judicial sea pronta y expedita con los menores costos para el Estado, la sociedad y las partes, de modo que las resoluciones se dicten en el menor tiempo posible. Estas circunstancias se desprenden de los incisos II), IV), V), VII) y IX) del artículo 35 de este reglamento.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-II).- La eficacia es la exigencia de aplicarse debidamente para el cumplimiento de la ley y la impartición de una justicia pronta, completa e imparcial, obteniéndose los mejores efectos de la actuación del titular del órgano jurisdiccional para cumplir con el mandato contenido en el artículo 17 de la Constitución Federal. La determinación de si el Evaluado ha cumplido con el principio de eficacia se desprende de la evaluación de los aspectos señalados en los incisos I), II), III), IV), V), VI) y VII) del artículo 35 del presente ordenamiento.
+I.- La eficiencia es el aprovechamiento y utilización correcta de los recursos materiales y humanos de que dispone el juzgador para impartir justicia, dedicándolos exclusivamente al fin para el que se le proporcionan, así como la observancia oportuna de los plazos previstos en las leyes para que la función judicial sea pronta y expedita con los menores costos para el Estado, la sociedad y las partes, de modo que las resoluciones se dicten en el menor tiempo posible. Estas circunstancias se desprenden de las fracciones II, IV, V y VII del artículo 35 de este reglamento.
 
-III).- La legalidad es la conformidad y sujeción estricta de las conductas y decisiones a lo ordenado por la ley. Este principio se evalúa a través de medir los aspectos a que se refieren los incisos I), II), III), IV) y VI) del artículo 35 de este cuerpo normativo.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-IV).- La excelencia profesional es la actuación con una calidad superior que sobresale en mérito y que va más allá de lo ordinario o normalmente exigido en la actuación jurisdiccional. El ejercicio de la profesión con relevante capacidad y aplicación. Este principio se evalúa al medir los aspectos a que se refieren los incisos VIII) y IX) del artículo 35 de este reglamento.
+II.- La eficacia es la exigencia de aplicarse debidamente para el cumplimiento de la ley y la impartición de una justicia pronta, completa e imparcial, obteniéndose los mejores efectos de la actuación del titular del órgano jurisdiccional para cumplir con el mandato contenido en el artículo 17 de la Constitución Federal. La determinación de si el Evaluado ha cumplido con el principio de eficacia se desprende de la evaluación de los aspectos señalados en las fracciones I, II, III, IV, V, VI y VII del artículo 35 del presente ordenamiento.
 
-V).- La diligencia consiste en que los órganos jurisdiccionales se conduzcan en todos sus actos con el cuidado debido y principalmente que impartan justicia pronta y expedita. Este principio se mide a través del análisis de los aspectos a que se refieren los incisos II), IV), V), VII) y XII) del artículo 35 de este ordenamiento.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
 
-VI).- La celeridad es actuar con rapidez y velocidad. Se traduce en la capacidad de agilizar los procesos, conforme a la ley, evitando su retraso o demora indebidas, a fin de lograr que la justicia se imparta con prontitud y expeditez. Este principio se evalúa a través del estudio de los aspectos a que se refieren los incisos II), IV), V) y VII) del artículo 35 de este reglamento.
+III.- La legalidad es la conformidad y sujeción estricta de las conductas y decisiones a lo ordenado por la ley. Este principio se evalúa a través de medir los aspectos a que se refieren las fracciones I, II, III, IV y VI del artículo 35 de este cuerpo normativo.
 
-VII).- La competencia es el conjunto de conocimientos y capacidades de una persona que lo acredita para el correcto y adecuado desempeño del cargo, calificándolo como idóneo. Esta característica se presume que la tiene el Evaluado desde que fue designado para el cargo y la misma se mide a través de los aspectos a que se refieren los incisos I), II), III), IV), V), VI), VII), X) y XI) del artículo 35 de este cuerpo normativo.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+IV.- La excelencia profesional es la actuación con una calidad superior que sobresale en mérito y que va más allá de lo ordinario o normalmente exigido en la actuación jurisdiccional. El ejercicio de la profesión con relevante capacidad y aplicación. Este principio se evalúa al medir los aspectos a que se refieren las fracciones II, III, IV y VII del artículo 35 de este reglamento.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+V.- La diligencia consiste en que los órganos jurisdiccionales se conduzcan en todos sus actos con el cuidado debido y principalmente que impartan justicia pronta y expedita. Este principio se mide a través del análisis de los aspectos a que se refieren las fracciones II, IV, V, VII y XII del artículo 35 de este ordenamiento.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+VI.- La celeridad es actuar con rapidez y velocidad. Se traduce en la capacidad de agilizar los procesos, conforme a la ley, evitando su retraso o demora indebidas, a fin de lograr que la justicia se imparta con prontitud y expeditez. Este principio se evalúa a través del estudio de los aspectos a que se refieren las fracciones II, IV, V y VII del artículo 35 de este reglamento.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+VII.- La competencia es el conjunto de conocimientos y capacidades de una persona que lo acredita para el correcto y adecuado desempeño del cargo, calificándolo como idóneo. Esta característica se mide a través de los aspectos a que se refieren las fracciones I, II, III, IV, V, VI, VII, X y XI del artículo 35 de este cuerpo normativo.
 
 ###### Artículo 38.
 
@@ -587,63 +701,89 @@ En lo conducente será aplicable lo previsto en el artículo precedente.
 
 De la evaluación global de todos los aspectos referidos, la Comisión determinará si se han cumplido los principios que rigen la función jurisdiccional y si recomienda o no la proposición de la reelección del Magistrado evaluado.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 42.
 
-La existencia de circunstancias comprobadas que afecten la independencia, imparcialidad, lealtad, honestidad, probidad, rectitud, objetividad y veracidad del Evaluado, por sí mismas son suficientes para determinar una evaluación negativa y en su caso, generar la recomendación de la propuesta de no reelección de un Magistrado, con independencia del resultado de la evaluación de su desempeño.
+La existencia de circunstancias comprobadas que afecten la independencia judicial, imparcialidad, lealtad, honestidad invulnerable, probidad y rectitud, objetividad y veracidad del Evaluado, por sí mismas son suficientes para determinar una evaluación negativa y en su caso, generar la recomendación de la propuesta de no reelección de un Magistrado, con independencia del resultado de la evaluación de su desempeño.
 
 ###### Artículo 43.
 
 En la hipótesis del artículo anterior, la Comisión determinará que no se han cumplido los principios que rigen la función jurisdiccional, resultando innecesaria la evaluación del desempeño del Evaluado, pues los principios a que se refiere el artículo anterior, son presupuestos indispensables para dicha evaluación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 44.
 
-La Comisión, para emitir el dictamen de evaluación anual de Consejeros, teniendo en cuenta la información objetiva que se desprenda de los informes y auditorías practicados, se sujetará a los siguientes lineamientos:
+La Comisión, para emitir el dictamen de evaluación anual de Consejeros, teniendo en cuenta la información objetiva que se desprenda de los informes y revisiones practicados, se sujetará a los siguientes lineamientos:
 
 Emitirá una calificación de 0 cero a 100 cien puntos.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
-Los aspectos a que se refieren los incisos del I) al VIII) del artículo 17 de este reglamento se evaluarán conforme a la siguiente tabla:
+Los aspectos a que se refieren las fracciones I a VIII del artículo 17 de este reglamento se evaluarán conforme a la siguiente tabla:
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 I) 10 puntos
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 II) A) 15 puntos
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 II) B) 15 puntos
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 II) C) 15 puntos
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 II) D) 10 puntos
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 II) E) 5 puntos
 
-III) 3 puntos
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2014)</small>
+
+III) 4 puntos
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 IV) 15 puntos
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 V) 5 puntos
 
-VI) 1 punto
+VI) (DEROGADA, P.O. 22 DE ABRIL DE 2014)
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 VII) 1 punto
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 VIII) 5 puntos
 
-(REFORMADO, P.O. 6 DE MARZO DE 2009) (F. DE E., P.O. 6 DE MARZO DE 2009)
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-El puntaje señalado en la tabla anterior, en los incisos II), III) y IV) corresponde a lo correcto del universo de los datos a que se refiere cada inciso, y esa calificación irá disminuyendo y se determinará mediante la aplicación de una regla de tres.
+El puntaje señalado en la tabla anterior, en las fracciones II), III) y V) corresponde a lo correcto del universo de los datos a que se refiere cada fracción, y esa calificación irá disminuyendo y se determinará mediante la aplicación de una regla de tres.
 
-(REFORMADO, P.O. 6 DE MARZO DE 2009) (F. DE E., P.O. 6 DE MARZO DE 2009)
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-Las calificaciones obtenidas en cada uno de los incisos del I) al VIII) se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
+Las calificaciones obtenidas en cada una de las fracciones I) al VIII) se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
 
 Con la evaluación de los aspectos a que se refiere este artículo se determina si el desempeño del Evaluado cumple con los principios de eficiencia, eficacia, diligencia, celeridad, competencia y excelencia profesional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
 ###### Artículo 45.
 
-La Comisión, para emitir la evaluación anual del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, teniendo en cuenta la información objetiva que se desprenda de los informes y auditorías practicadas, se sujetará a los siguientes lineamientos.
+La Comisión, para emitir la evaluación anual del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, teniendo en cuenta la información objetiva que se desprenda de los informes y revisiones practicadas, se sujetará a los siguientes lineamientos.
 
 Emitirá una calificación de 0 cero a 100 cien puntos.
 
@@ -651,27 +791,41 @@ Emitirá una calificación de 0 cero a 100 cien puntos.
 
 Para fijar la calificación de la evaluación del Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, la Comisión atenderá a los siguientes parámetros:
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2014)</small>
 
-Los aspectos a que se refieren los incisos del I) al VII) del artículo 18 de este reglamento se evaluarán conforme a la siguiente tabla:
+Los aspectos a que se refieren las fracciones I a VII del artículo 18 de este reglamento se evaluarán conforme a la siguiente tabla:
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 I) 15 puntos
 
-II) 15 puntos
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 II) 15 puntos
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
+II) 15 puntos
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 IV) 15 puntos
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 V) 15 puntos
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 VI) 20 puntos
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 VII) 5 puntos
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
 
-Las calificaciones obtenidas en cada uno de los incisos del I) al VII) se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
+Las calificaciones obtenidas en cada uno de las fracciones I a VII se sumarán y el resultado representará la calificación individual del desempeño del Evaluado.
 
 Con la evaluación de los aspectos a que se refiere este artículo se determina si el desempeño del Evaluado cumple con los principios de eficiencia, eficacia, diligencia, celeridad, competencia y excelencia profesional.
 
@@ -679,9 +833,11 @@ Con la evaluación de los aspectos a que se refiere este artículo se determina 
 
 Las resoluciones definitivas en procedimientos disciplinarios, que impongan una sanción, se tomarán como elementos de demérito al analizar cada uno de los puntos establecidos en los artículos 35, 44 y 45 de este reglamento, respectivamente, dependiendo de cuál de ellos tenga relación con dicha resolución, así como la gravedad de la falta.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
 ###### Artículo 47.
 
-Las auditorías serán anuales y comprenderán un año completo de ejercicio, a partir de la fecha de inicio de actividades de cada Evaluado, y la que se refiere en el segundo párrafo del artículo 12 de este reglamento comprenderá la parte del último año que corresponda, excepto los últimos cuatro meses.
+Las revisiones serán anuales y comprenderán un año completo de ejercicio, a partir de la fecha de inicio de actividades de cada Evaluado, y la que se refiere en el segundo párrafo del artículo 12 de este reglamento comprenderá la parte del último año que corresponda, excepto los últimos cuatro meses.
 
 ###### Artículo 48.
 
@@ -699,7 +855,7 @@ El Secretario de la comisión.
 
 Consejero Víctor Federico Pérez Hernández.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE MARZO DE 2009.
 
@@ -710,3 +866,9 @@ Segundo.- Las reformas y adiciones contenidas en el presente, se aplicarán a pa
 P.O. 28 DE MAYO DE 2010.
 
 Primero.- La presente modificación entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE ABRIL DE 2014.
+
+Primero.- El presente Acuerdo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Las reformas, adiciones y derogaciones a diversos artículos del Reglamento que Establece las Normas que Rigen los Mecanismos, Procedimientos y Criterios de Evaluación de Magistrados y Consejeros del Poder Judicial del Estado de Guanajuato, contenidas en el presente acuerdo, se aplicarán a las evaluaciones que se realicen a partir del año 2014.
