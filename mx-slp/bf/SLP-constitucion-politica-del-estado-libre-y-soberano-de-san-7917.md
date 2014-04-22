@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-04-15"
+last_updated: "2014-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -982,6 +982,14 @@ XII.- Cumplir con las obligaciones que le impongan la Legislatura y las disposic
 ###### ARTÍCULO 61.
 
 El derecho de iniciar leyes corresponde a los diputados, al Gobernador, al Supremo Tribunal de Justicia, y a los ayuntamientos, así como a los ciudadanos del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+El día de la apertura del primer periodo ordinario de sesiones, el Gobernador del Estado podrá presentar hasta una iniciativa para trámite preferente, o señalar con tal carácter hasta una que hubiere presentado en periodos anteriores, cuando esté pendiente de dictamen. La iniciativa deberá ser discutida y votada por el Pleno del Congreso del Estado, en un plazo máximo de cuarenta y cinco días naturales. Si no fuere así, en sus términos y sin mayor trámite, la iniciativa será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+No podrán tener carácter preferente las iniciativas que propongan modificar esta Constitución.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2658,3 +2666,9 @@ P.O. 15 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento establecido en el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente decreto.
+
+P.O. 22 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación por el voto de cuando menos las tres cuartas partes de los ayuntamientos de la Entidad, en términos del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
