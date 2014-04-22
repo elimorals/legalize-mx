@@ -4,7 +4,7 @@ identifier: "COA-ley-forestal-del-estado-de-coahuila-de-zaragoza-52032"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-03"
-last_updated: "2013-12-17"
+last_updated: "2014-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY FORESTAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 3 de octubre de 2006.
 
@@ -783,7 +783,7 @@ El Gobierno del Estado y los municipios en el ámbito de su competencia, conside
 
 ###### Artículo 70.
 
-La reforestación que se realice con propósitos de conservación y restauración, las actividades de forestación y las prácticas de agrosiIvicultura en terrenos degradados de vocación forestal, no requerirán de autorización y solamente estarán sujetas a las Normas Oficiales Mexicanas.
+La reforestación que se realice con propósitos de conservación y restauración, las actividades de forestación y las prácticas de agrosilvicultura en terrenos degradados de vocación forestal, no requerirán de autorización y solamente estarán sujetas a las Normas Oficiales Mexicanas.
 
 Las acciones de reforestación que se lleven a cabo en los terrenos forestales sujetos al aprovechamiento deberán incluirse en el programa de manejo forestal correspondiente. El prestador de servicios técnicos forestales que, en su caso, funja como encargado técnico será responsable solidario junto con el titular, de la ejecución del programa en este aspecto.
 
@@ -1119,6 +1119,46 @@ En contra de los actos y resoluciones administrativas dictadas con motivo de la 
 
 Toda persona podrá denunciar ante la Secretaría o autoridad correspondiente, todo hecho, acto u omisión que produzca o pueda producir un riesgo, daño o deterioro al ecosistema forestal o a una parte de ellos, o bien, que contravenga las disposiciones de la presente ley y las demás que regulen actividades relacionadas con los ecosistemas forestales o bienes y servicios ambientales asociados a éstos.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO VIII. DE LA COORDINACIÓN ENTRE FEDERACIÓN, ESTADO Y GOBIERNOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+###### Artículo 103.
+
+La coordinación entre Federación, Estado y Municipios será ejercida de conformidad con la distribución de competencias que hace la Ley General y la presente Ley, atendiendo además a lo dispuesto en otros ordenamientos aplicables.
+
+Para efecto de la coordinación de acciones, siempre que exista transferencia de atribuciones, el Gobierno del Estado y los Gobiernos Municipales deberán celebrar convenios entre ellos y/o con la Federación, en los casos y las materias que se precisan en la Ley General y la presente Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO IX. DE LA SANIDAD FORESTAL
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+###### Artículo 104.
+
+La Secretaría se coordinará con los Gobiernos Federal, Estatal y Municipal para establecer un sistema permanente de inspección y evaluación técnica de la condición sanitaria de los terrenos forestales, así como de las plantaciones forestales y productos de las mismas, y difundirá con la mayor amplitud y oportunidad sus resultados.
+
+Las dependencias y entidades del Gobierno del Estado y, en su caso, las de los gobiernos municipales, en los términos de los acuerdos y convenios que celebren, ejercerán las inspecciones y evaluaciones en forma coordinada para detectar, diagnosticar, prevenir, controlar y combatir plagas y enfermedades forestales.
+
+Cuando por motivos de sanidad forestal sea necesario realizar un aprovechamiento o eliminación de la vegetación forestal, deberá implementarse un programa que permita la reforestación, restauración y conservación de suelos, estando obligados los propietarios, poseedores o usufructuarios a restaurar mediante la regeneración natural o artificial en un plazo no mayor a dos años.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+###### Artículo 105.
+
+Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, así como los titulares de autorizaciones de aprovechamiento de recursos forestales, quienes realicen actividades de forestación o plantaciones forestales comerciales y de reforestación, los prestadores de servicios técnicos forestales responsables de los mismos y los responsables de la administración de las áreas naturales protegidas, en forma inmediata a la detección de plagas o enfermedades, estarán obligados a dar aviso de ello a la Secretaría para que se canalice a través de ella a la autoridad federal competente.
+
+Quienes detenten autorizaciones de aprovechamiento forestal y sus responsables técnicos forestales, estarán obligados a ejecutar los trabajos de sanidad forestal, conforme a los tratamientos contemplados en los Programas de Manejo y a los lineamientos que se les proporcionen por la Secretaría, en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+###### Artículo 106.
+
+Ante la certificación por parte de la autoridad de la presencia de una plaga o enfermedad forestal en terrenos forestales o preferentemente forestales, se dará aviso al propietario o poseedor del mismo para el efecto de que realice e implemente lo necesario a fin de combatir la plaga o enfermedad forestal, el cual podrá solicitar el auxilio y colaboración de la Autoridad cuando acredite que no cuenta con los recursos necesarios; si el particular no actuara en tiempo y forma, la Secretaría intervendrá a fin de sanear y restaurar el terreno forestal o preferentemente forestal a costa del propietario o poseedor, adquiriendo el carácter de crédito fiscal la erogación que para el efecto se haga.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1190,3 +1230,7 @@ SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opon
 P.O. 17 DE DICIEMBRE DE 2013.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE ABRIL DE 2014.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
