@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-general-de-gobierno-92520"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-18"
-last_updated: "2013-02-18"
+last_updated: "2014-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ABRIL DE 2014.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el lunes 18 de febrero de 2013.
 
 DOCTOR ERUVIEL ÁVILA VILLEGAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 77, FRACCIONES IV, XXVIII, XXXVIII Y XLVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O ...
 
 En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
@@ -163,7 +163,9 @@ X. Suplir las faltas temporales del Gobernador, en términos de lo dispuesto por
 
 XI. Conducir las relaciones del Poder Ejecutivo con los otros Poderes del Estado y los ayuntamientos de la Entidad, así como con las autoridades de otras entidades federativas.
 
-XII. Proponer y acordar con el Gobernador, los programas relativos a protección civil, desarrollo político, participación social, desarrollo municipal y la protección jurídica de las personas y sus bienes.
+> <small>(REFORMADA, G.G. 22 DE ABRIL DE 2014)</small>
+
+XII. Proponer y acordar con el Gobernador, los programas relativos al desarrollo político, participación social y desarrollo municipal.
 
 XIII. Impulsar en el ámbito de su competencia, el cumplimiento de las disposiciones jurídicas en materia electoral.
 
@@ -205,7 +207,9 @@ XXXI. Determinar, con la Secretaría de Finanzas y la Coordinación General de C
 
 XXXII. Proporcionar los datos de las labores desarrolladas por la Secretaría, para la formulación del Informe de Gobierno.
 
-XXXIII. Organizar y controlar a la Comisión Ejecutiva Estatal de Atención a Víctimas.
+> <small>(REFORMADA, G.G. 22 DE ABRIL DE 2014)</small>
+
+XXXIII. Coordinar las distintas comisiones, consejos u órganos colegiados similares que le encomiende el Gobernador, así como aquellos que se señalen en otras disposiciones legales, de acuerdo al ámbito de su competencia.
 
 XXXIV. Las demás que le confieren otras disposiciones legales y las que le encomiende el Gobernador.
 
@@ -665,7 +669,9 @@ Corresponden a la Coordinación Administrativa, las atribuciones siguientes:
 
 I. Planear, organizar y controlar el aprovechamiento de los recursos humanos, materiales, financieros y técnicos, necesarios para el funcionamiento de la Secretaría, manteniendo una coordinación permanente con las dependencias vinculadas a dichas actividades.
 
-II. Realizar las gestiones necesarias para constituir y tener a su cargo el funcionamiento del Comité de Adquisiciones de la Secretaría, cuyas funciones serán las que establece el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
+> <small>(REFORMADA, G.G. 22 DE ABRIL DE 2014)</small>
+
+II. Gestionar las solicitudes de bienes o servicios para su contratación, de acuerdo con la Ley de Contratación Pública del Estado de México y Municipios.
 
 III. Programar, tramitar y ejecutar las acciones y procedimientos, con base en las normas y políticas aplicables, para realizar la adquisición de bienes muebles, la contratación del arrendamiento de bienes muebles y servicios de cualquier naturaleza, siempre que no se trate de operaciones consolidadas, así como la contratación de obra pública dentro de los montos de actuación que la Secretaría del Ramo faculte a las dependencias, bajo los procedimientos legales aplicables, según la normatividad en materia de obra pública, que requiera la Secretaría y sus unidades administrativas para el desempeño de sus funciones.
 
@@ -693,9 +699,9 @@ XIV. Programar y tramitar, ante la Secretaría de Finanzas, los requerimientos d
 
 XV. Implantar los lineamientos que permitan mantener actualizados los registros administrativos sobre recursos humanos, materiales, financieros, programas de inversión, archivo, correspondencia, inventario de bienes muebles e inmuebles, y apoyos técnicos.
 
-XVI. Proveer el uso de tecnologías de información a través del desarrollo e integración de sistemas de información automatizados y redes de comunicación electrónica, así como dirigir los programas de informática con la finalidad de estandarizar los criterios técnicos y tecnológicos.
+XVI. (DEROGADA, G.G. 22 DE ABRIL DE 2014)
 
-XVII. Gestionar ante la Secretaría de Finanzas, los dictámenes de licitación y selección de proveedores de los equipos y suministros que en la materia requiera la Secretaría y las unidades administrativas que la integran.
+XVII. (DEROGADA, G.G. 22 DE ABRIL DE 2014)
 
 XVIII. Las demás que le confieren las disposiciones legales y aquellas que le encomiende el Secretario.
 
@@ -776,3 +782,11 @@ SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN ROJAS DÁVILA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 22 DE ABRIL DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno.
