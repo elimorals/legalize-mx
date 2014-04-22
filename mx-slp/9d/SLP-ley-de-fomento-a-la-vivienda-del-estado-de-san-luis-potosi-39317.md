@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-a-la-vivienda-del-estado-de-san-luis-potosi-3931
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-13"
-last_updated: "2012-10-06"
+last_updated: "2014-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de mayo de 2004.
 
@@ -489,13 +489,17 @@ El procedimiento para la vigilancia y la aplicación de la presente Ley, los reg
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Los recursos económicos, créditos, bienes muebles e inmuebles y, en general, el patrimonio que actualmente pertenece a la Promotora del Estado de San Luis Potosí, pasarán a formar parte del patrimonio del Instituto de Vivienda del Estado de San Luis Potosí, que se crea mediante este Decreto, sin perjuicio de lo dispuesto en el artículo 18 fracción VI de esta Ley, exceptuándose aquellos que sean necesarios para resolver los asuntos que se encuentran en trámite y que impliquen controversia jurídica, los que pasarán al patrimonio del Instituto una vez resueltas las controversias.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2014)</small>
+
+SEGUNDO. Los recursos económicos, créditos, bienes muebles e inmuebles y, en general, el patrimonio que actualmente pertenece a la Promotora del Estado de San Luis Potosí, pasarán a formar parte del patrimonio del Instituto de Vivienda del Estado de San Luis Potosí que se crea mediante este Decreto, sin perjuicio de lo dispuesto en el artículo 18 fracción VI de esta Ley.
+
+La Promotora del Estado de San Luis Potosí conservará el patrimonio y recursos humanos necesarios para cumplir con las funciones inherentes a la regularización de la tenencia de la tierra urbana y rústica, que no hubieran sido trasmitidos al Instituto de la Vivienda del Estado de San Luis Potosí, para continuar resolviendo los asuntos que se encuentren en trámite.
 
 TERCERO. Para los efectos del artículo anterior, el Instituto de Vivienda del Estado de San Luis Potosí deberá informar de todos los bienes que constituyan su patrimonio inicial, en un plazo no mayor de treinta días a partir de su instalación.
 
 CUARTO. Corresponderá a la Promotora del Estado la atención de todos los asuntos que impliquen controversia jurídica, y que se encuentren en trámite a la fecha de entrada en vigor de esta Ley, cualquiera que fuere su estado, quien los conducirá, tramitará y resolverá ante las instancias correspondientes y conforme a los ordenamientos y disposiciones legales vigentes.
 
-QUINTO. Se faculta al Ejecutivo del Estado para que, en su momento, mediante Acuerdo Administrativo disponga la liquidación y extinción del organismo público descentralizado denominado Promotora del Estado de San Luis Potosí, creado mediante similar instrumento publicado el 8 de enero de 2002, previo informe detallado que rinda al Congreso del Estado.
+QUINTO. (DEROGADO, P.O. 22 DE ABRIL DE 2014)
 
 SEXTO. El titular del Ejecutivo del Estado contará con un plazo de treinta días, contados a partir de la entrada en vigor de esta Ley, para convocar a los funcionarios que deberán integrar el Instituto de Vivienda del Estado de San Luis Potosí, e instalarlo en un acto formal.
 
@@ -532,3 +536,9 @@ P.O. 6 DE OCTUBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente.
+
+P.O. 22 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
