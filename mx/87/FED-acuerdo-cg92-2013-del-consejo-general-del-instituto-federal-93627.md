@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg92-2013-del-consejo-general-del-instituto-federal-936
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-04-11"
-last_updated: "2013-04-11"
+last_updated: "2014-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-20"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE DETERMINA LA REALIZACIÓN DE ESTUDIOS DE LA DOCUMENTACIÓN ELECTORAL UTILIZADA DURANTE EL PROCESO ELECTORAL FEDERAL 2005-2006
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE ABRIL DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de abril de 2013.
 
@@ -151,7 +151,7 @@ Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículo
 
 ACUERDO
 
-PRIMERO. Se determina la realización del Estudio muestral de la participación ciudadana en las elecciones federales de 2006, coordinado por la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica.
+PRIMERO. (SIN EFECTOS [N. DE E. DEROGADO], POR EL PUNTO PRIMERO DEL ACUERDO CG/129/2014 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 22 DE ABRIL DE 2014)
 
 SEGUNDO. Se determina la realización del Estudio muestral sobre las características de los votos nulos en la elección presidencial federal de 2006, coordinado por la Dirección Ejecutiva de Organización Electoral.
 
@@ -306,3 +306,17 @@ Participantes
 Periodo estimado de realización
 
 Enero - mayo de 2014.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE ABRIL DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO</small>
+
+PRIMERO. En razón de que se realizaron las acciones mandatadas por el Consejo General en el Acuerdo CG92/2013 con miras a la realización del Estudio muestral de la participación ciudadana en las elecciones federales de 2006, y dado que existe imposibilidad material y técnica para cumplir con los objetivos de dicho Estudio, se deja sin efectos el mandato del Consejo General respecto del Punto Primero de Acuerdo del Acuerdo CG92/2013.
+
+SEGUNDO. Una vez concluido el Estudio muestral sobre las características de los votos nulos en la elección presidencial federal de 2006, a que se refiere el Punto Segundo de Acuerdo del Acuerdo CG92/2013, a cargo de la Dirección Ejecutiva de Organización Electoral, se llevará a cabo la destrucción de las listas nominales que fueron recuperadas junto con la documentación contenida en los paquetes de la muestra correspondiente.
+
+TERCERO. El presente Acuerdo entrará en vigor al momento de su aprobación.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
