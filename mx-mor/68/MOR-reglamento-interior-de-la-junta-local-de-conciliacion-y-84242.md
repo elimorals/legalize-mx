@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-junta-local-de-conciliacion-y-84242"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-28"
-last_updated: "2011-12-28"
+last_updated: "2014-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 23 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 28 de diciembre de 2011.
 
@@ -790,3 +792,13 @@ TERCERO. Los Manuales de Organización y de Políticas y Procedimientos deberán
 Dado en el Salón de Plenos de la Junta Local de Conciliación y Arbitraje del estado de Morelos a los veintitrés días del mes de noviembre del año dos mil once.
 
 LIC. KARLA ALINE HERRERA ALONSO, Presidente de la Junta Local de Conciliación y Arbitraje, por mandato del Pleno de la Junta Local de Conciliación y Arbitraje, quien actúa por (sic) ante la fé pública de la Secretaria General LIC. ANA LAURA PASTRANA IBARRA. RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ABRIL DE 2014.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Junta Local de Conciliación y Arbitraje del estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 4942, de fecha veintiuno de diciembre de 2011 y las demás disposiciones de rango igual o inferior que se opongan al presente Reglamento.
+
+TERCERA. Los Manuales de Organización, y de Políticas y Procedimientos de la Junta Local de Conciliación y Arbitraje del Estado de Morelos, deberán emitirse en un plazo no mayor a sesenta días hábiles, contados a partir de la entrada en vigencia del presente Reglamento.
