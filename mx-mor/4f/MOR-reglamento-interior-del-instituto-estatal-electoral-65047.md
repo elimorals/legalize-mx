@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-estatal-electoral-65047"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2008-12-24"
+last_updated: "2014-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL
 
-REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL
+REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2014.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Morelos, el jueves 24 de diciembre del 2008.
 
@@ -99,19 +99,27 @@ Al margen Izquierdo un emblema que dice: Instituto Estatal Electoral.- IEE.- Mor
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 1.
 
-El presente reglamento tiene por objeto establecer las normas conforme a las cuales se regula el funcionamiento del Instituto Estatal Electoral para el correcto ejercicio de sus atribuciones constitucionales y legales relacionadas con el cumplimiento de sus fines.
+El presente Reglamento tiene por objeto establecer las normas conforme a las cuales se regula el funcionamiento del Instituto Estatal Electoral para el correcto ejercicio de sus atribuciones constitucionales y legales relacionadas con el cumplimiento de sus fines.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 2.
 
-El presente reglamento es de observancia general y obligatoria para todos los órganos y el personal del Instituto. El Consejo Estatal Electoral vigilará el cumplimiento de las disposiciones contenidas en el mismo.
+El presente Reglamento es de observancia general y obligatoria para todos los órganos y el personal del Instituto. El Consejo Estatal Electoral vigilará el cumplimiento de las disposiciones contenidas en el mismo.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 3.
 
-Para los efectos de este reglamento se entenderá:
+Para los efectos de este Reglamento se entenderá:
 
 a) Por lo que se refiere a los ordenamientos jurídicos:
 
@@ -137,7 +145,11 @@ VI. Secretario Ejecutivo: el Secretario Ejecutivo del Instituto Estatal Electora
 
 VII. Directores: los Directores de área de la Secretaría Ejecutiva del Instituto Estatal Electoral.
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ### CAPÍTULO SEGUNDO. DE LA ESTRUCTURA DEL INSTITUTO ESTATAL ELECTORAL
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 4.
 
@@ -157,7 +169,11 @@ VI.- Mesas Directivas de Casilla;
 
 Para el desempeño de sus actividades el instituto contará con el personal calificado y suficiente para prestar el servicio electoral profesional.
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL ELECTORAL
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 5.
 
@@ -179,69 +195,91 @@ Todos los integrantes del Consejo Estatal Electoral tendrán derecho a voz, pero
 
 El Consejero Presidente y los Consejeros Electorales, designarán de acuerdo con la disponibilidad presupuestal, las normas administrativas correspondientes y la estructura previamente aprobada por el Consejo, al personal adscrito a su oficina.
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ###### ARTÍCULO 6.
 
 Corresponde al Consejo en su carácter de órgano superior de deliberación y dirección conocer y en su caso aprobar los dictámenes e informes que presenten las comisiones sobre el cumplimiento de los programas anuales de actividades señaladas en el párrafo que antecede.
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ### CAPÍTULO CUARTO. DE LAS COMISIONES
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 7.
 
-Las comisiones conformadas por el Consejo Estatal Electoral tendrán el carácter de permanentes y provisionales.
+Las Comisiones conformadas por el Consejo Estatal Electoral tendrán el carácter de permanentes y provisionales.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 8.
 
 Las Comisiones permanentes del Consejo Estatal Electoral tendrán como objetivo supervisar el desarrollo adecuado de las actividades de las diferentes direcciones y órganos técnicos del Instituto de acuerdo a la materia encomendada, mismas que serán presididas por quien el Pleno del Consejo determine y se integrarán de la siguiente forma:
 
-a) Por los Consejeros Estatales Electorales designados mediante acuerdo del Consejo Estatal Electoral, en términos del Código Electoral.
+a) Por los Consejeros Estatales Electorales designados mediante Acuerdo del Consejo Estatal Electoral, en términos del Código Electoral.
 
 b) El Secretario Ejecutivo, quien se desempeñará como Coordinador de los trabajos de las mismas.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 9.
 
-Las Comisiones provisionales serán creadas para la realización de tareas específicas temporales, y se integrarán de igual manera que las permanentes.
+Las Comisiones Provisionales serán creadas para la realización de tareas específicas temporales, y se integrarán de igual manera que las permanentes.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 10.
 
-Los directores de área correspondientes, prestarán el apoyo a las comisiones para la realización de sus actividades o programas específicos.
+Los Directores de Área correspondientes, prestarán el apoyo a las Comisiones para la realización de sus actividades o programas específicos.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 11.
 
-Las comisiones permanentes y provisionales, para su eficaz desempeño podrán contar con el personal técnico que autorice el Consejo, de conformidad a la disponibilidad presupuestal.
+Las Comisiones Permanentes y Provisionales, para su eficaz desempeño podrán contar con el personal técnico que autorice el Consejo, de conformidad a la disponibilidad presupuestal.
 
-En el caso que se requiera, las Comisiones también contaran con el auxilio o asesoría técnico-científica de especialistas.
+En el caso que se requiera, las Comisiones también contarán con el auxilio o asesoría técnico-científica de especialistas.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 12.
 
-El Presidente de cada una de las comisiones, será quien modere y conduzca el desarrollo y las discusiones en las reuniones de trabajo de las mismas.
+El Presidente de cada una de las Comisiones, será quien modere y conduzca el desarrollo y las discusiones en las reuniones de trabajo de las mismas.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 13.
 
-El Consejero Presidente y los Consejeros Estatales Electorales miembros de las comisiones, además de las atribuciones conferidas por la ley, tendrán las siguientes:
+El Consejero Presidente y los Consejeros Estatales Electorales miembros de las Comisiones, además de las atribuciones conferidas por la Ley, tendrán las siguientes:
 
-a) Tener voz y voto durante las sesiones de trabajo de las Comisiones.
+a) Tener voz y voto durante las Sesiones de trabajo de las Comisiones.
 
-b) Solicitar información oportuna y suficiente sobre los puntos contenidos en el orden del día de las sesiones de trabajo y demás asuntos que se aborden en el seno de las Comisiones, debiendo utilizar dicha información con ética.
+b) Solicitar información oportuna y suficiente sobre los puntos contenidos en el orden del día de las Sesiones de Trabajo y demás asuntos que se aborden en el seno de las Comisiones, debiendo utilizar dicha información con ética.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 14.
 
-El Secretario coordinará el trabajo de las Comisiones, quien además de las atribuciones conferidas por la ley, tendrán las siguientes:
+El Secretario coordinará el trabajo de las Comisiones, quien además de las atribuciones conferidas por la Ley, tendrán las siguientes:
 
 a) Tener derecho a voz en las Comisiones.
 
-b) Convocar por instrucciones del Presidente de la comisión, a las reuniones de trabajo. Podrá también hacerlo a petición de la mayoría de los Consejeros Electorales que integren la Comisión respectiva.
+b) Convocar por instrucciones del Presidente de la Comisión, a las reuniones de trabajo. Podrá también hacerlo a petición de la mayoría de los Consejeros Electorales que integren la Comisión respectiva.
 
 c) Llevar el archivo de las Comisiones.
 
 d) Presentar el orden del día durante las reuniones de las Comisiones, de acuerdo al seguimiento de los trabajos en las mismas.
 
-e) Elaborar las actas de las sesiones de trabajo y los informes de las Comisiones que deberán presentarse al Consejo.
+e) Elaborar las Actas de las Sesiones de Trabajo y los informes de las Comisiones que deberán presentarse al Consejo.
 
 f) Circular con toda oportunidad, entre los integrantes de las Comisiones, los documentos y anexos necesarios para la comprensión y discusión de los asuntos contenidos en el orden del día.
 
 g) Someter a consideración de las Comisiones respectivas las minutas de las reuniones de trabajo y los informes de las mismas que deberá presentar en cada sesión del Consejo Estatal Electoral.
 
 h) Presentar a consideración del Consejo Estatal Electoral los informes, dictámenes o proyectos de resolución que se acuerden en las Comisiones para su aprobación.
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 15.
 
@@ -253,25 +291,35 @@ b) Auxiliar al Coordinador de la Comisión en el ejercicio de sus funciones.
 
 c) Aportar los elementos materiales que le sean requeridos, así como la información que se derive del ejercicio de sus atribuciones.
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ###### ARTÍCULO 16.
 
 Las Comisiones permanentes del Consejo Estatal Electoral se deberán reunir por lo menos dos veces al año, o en cualquier tiempo a convocatoria del Presidente de la Comisión respectiva o de la mayoría de los Consejeros Electorales que integren la Comisión respectiva.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-Los informes, dictámenes y proyectos de resolución que emitan las comisiones, serán remitidas al pleno del Consejo Estatal Electoral.
+Los informes, dictámenes y proyectos de resolución que emitan las Comisiones, serán remitidas al pleno del Consejo Estatal Electoral.
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ### CAPÍTULO QUINTO. DE LA SECRETARÍA EJECUTIVA
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 18.
 
 El Instituto Estatal Electoral tendrá un Secretario Ejecutivo, que también lo será del Consejo Estatal Electoral, quien también coordinará el trabajo de las Comisiones, además de las atribuciones previstas en el Código Electoral.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
 La Secretaría Ejecutiva del Instituto Estatal Electoral contará con las siguientes direcciones de área:
 
-I. Dirección de Organización y Partidos políticos;
+I. Dirección de Organización y Partidos Políticos;
 
 II. Dirección de Capacitación y Educación Electoral; y
 
@@ -281,11 +329,15 @@ La Secretaría Ejecutiva y las demás áreas que la integran, para el desarrollo
 
 Las designaciones del personal operativo se efectuarán de acuerdo con la disponibilidad presupuestal, las normas administrativas correspondientes y la estructura previamente aprobada por el Consejo.
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ### CAPÍTULO SEXTO. DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 20.
 
-La preparación, desarrollo y vigilancia de los procesos electorales ordinarios y en su caso, de los extraordinarios, de los distritos uninominales y de los municipios, corresponderá a los Consejos Distritales y Municipales. Dichos órganos tendrán carácter temporal y dependerán del Consejo Estatal Electoral.
+La preparación, desarrollo y vigilancia de los procesos electorales ordinarios y en su caso, de los extraordinarios, de los distritos uninominales y de los Municipios, corresponderá a los Consejos Distritales y Municipales. Dichos órganos tendrán carácter temporal y dependerán del Consejo Estatal Electoral.
 
 Los Consejos Distritales y Municipales Electorales se integrarán de la siguiente forma:
 
@@ -295,17 +347,25 @@ II. Cuatro Consejeros Electorales con derecho a voz y voto designados por el Con
 
 III. Por un Secretario designado por el Consejo Estatal Electoral y sólo tendrá derecho a voz; y
 
-IV. Por un representante de cada uno de los partidos políticos o coaliciones con registro, con derecho a voz.
+IV. Por un representante de cada uno de los Partidos Políticos o coaliciones con registro, con derecho a voz.
 
-### CAPÍTULO SÉPTIMO. DE LAS DE LAS MESAS DIRECTIVAS DE CASILLA
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
+### CAPÍTULO SÉPTIMO. DE LAS DE LAS (SIC) MESAS DIRECTIVAS DE CASILLA
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 21.
 
-Las Mesas Directivas de Casilla son los órganos electorales integrados por ciudadanos facultados para recibir la votación, realizar el escrutinio y cómputo del sufragio en cada una de las casillas ubicadas en las distintas secciones de los distritos electorales y los municipios del Estado.
+Las Mesas Directivas de Casilla son los órganos electorales integrados por ciudadanos facultados para recibir la votación, realizar el escrutinio y cómputo del sufragio en cada una de las casillas ubicadas en las distintas secciones de los distritos electorales y los Municipios del Estado.
 
-Las mesas directivas de casillas deberán integrarse en forma independiente, autónoma y separada para la elección federal y local.
+Las Mesas Directivas de casillas deberán integrarse en forma independiente, autónoma y separada para la elección Federal y Local.
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ### CAPÍTULO OCTAVO. DE LA SUPERVISIÓN Y VIGILANCIA
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 22.
 
@@ -315,9 +375,11 @@ a) Solicitar por escrito información sobre las labores propias del Instituto.
 
 b) Apoyarse con el Secretario Ejecutivo del Instituto Estatal Electoral.
 
-c) En caso de encontrar elementos probatorios suficientes que presuman violaciones a los ordenamientos legales aplicables, al presente reglamento o a los manuales de organización y procedimientos del Instituto; informar al Consejo Estatal Electoral para su conocimiento y resolución.
+c) En caso de encontrar elementos probatorios suficientes que presuman violaciones a los ordenamientos legales aplicables, al presente Reglamento o a los Manuales De Organización y Procedimientos del Instituto; informar al Consejo Estatal Electoral para su conocimiento y resolución.
 
 d) Realizar las demás actividades necesarias para el cumplimiento de sus atribuciones.
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 23.
 
@@ -331,15 +393,23 @@ c) Realizar reuniones de trabajo con los Directores y demás personal del Instit
 
 d) Realizar las demás actividades necesarias para el cumplimiento de sus atribuciones.
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ### CAPÍTULO NOVENO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 24.
 
 Los acuerdos y resoluciones del Consejo Estatal Electoral, en el ejercicio de sus atribuciones legales tendrán prioridad sobre los de cualquier otro órgano o miembro del Instituto.
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ###### ARTÍCULO 25.
 
 Lo relativo a la organización interna del Instituto, sus relaciones de autoridad, y su operación y funcionamiento, quedará regulado en los manuales de organización y procedimientos que para tal efecto apruebe el Consejo Estatal Electoral.
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 26.
 
@@ -347,7 +417,11 @@ Durante los procesos electorales, el Consejo, las Comisiones, la Secretaría Eje
 
 Atendiendo a la naturaleza de los procesos electorales, la contratación del personal de apoyo referido, será por tiempo determinado, el cual en ningún caso podrá ser considerado como personal de base.
 
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
+
 ### CAPÍTULO DÉCIMO. DE LAS COMPENSACIONES Y ESTÍMULOS ECONÓMICOS OTORGADOS A LOS FUNCIONARIOS Y TRABAJADORES DEL INSTITUTO
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 27.
 
@@ -355,15 +429,27 @@ Durante el año en que tengan verificativo los procesos electorales, los trabaja
 
 Quedan exceptuados de lo anterior, el Consejero Presidente, Consejeros Electorales y el Secretario Ejecutivo del instituto.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 28.
 
 El pago de las compensaciones y estímulos estará sujeto a la disponibilidad presupuestal del Instituto Estatal Electoral durante el año electoral correspondiente.
 
-Para tal efecto, la Dirección de Administración y Financiamiento de este organismo electoral, en cada ejercicio presupuestal en que proceda efectuar el pago de las compensaciones y estímulos, propondrá la partida presupuestal y el monto que deba erogarse por dicho concepto, así como los limites y parámetros para los estímulos y compensaciones que de manera general se otorgará a los trabajadores de base del Instituto Estatal Electoral.
+Para tal efecto, la Dirección de Administración y Financiamiento de este Organismo Electoral, en cada ejercicio presupuestal en que proceda efectuar el pago de las compensaciones y estímulos, propondrá la partida presupuestal y el monto que deba erogarse por dicho concepto, así como los limites y parámetros para los estímulos y compensaciones que de manera general se otorgará a los trabajadores de base del Instituto Estatal Electoral.
+
+(REPUBLICADO, P.O. 23 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 29.
 
 Las compensaciones y estímulos que otorgue el Instituto Estatal Electoral, podrán ser pagados de forma trimestral, semestral o anual, de acuerdo a la disponibilidad presupuestal del Instituto Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 30.
+
+Al final del mandato constitucional por el que se hubieren desempeñado los ciudadanos como Consejeros Electorales del Instituto Estatal Electoral, les corresponderá una indemnización equivalente al importe de tres meses del total de su salario, más doce días por año laborado, distinto al pago de derechos proporcionales a que hubiere lugar o a los derechos adquiridos conforme lo establece la Ley del Servicio Civil.
+
+En caso de remoción o terminación anticipada del cargo conferido, independientemente de la razón o motivo, se indemnizará a los Consejeros integrantes del Consejo Estatal Electoral, con el importe salarial y demás prestaciones económicas equivalentes al tiempo faltante del período constitucional por el que fueren originalmente designados, independientemente de la indemnización que corresponda de acuerdo con la Ley del Servicio Civil vigente en la Entidad.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -422,3 +508,15 @@ C. MAURICIO ARZAMENDI GORDERO
 PARTIDO NUEVA ALIANZA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ABRIL DE 2014.
+
+Primero.- El presente Reglamento Interior del Instituto Estatal Electoral, entrará en vigor a partir del día de su aprobación por el Consejo Estatal Electoral.
+
+La adición del artículo 30, del Reglamentó Interior del Instituto Estatal Electoral, entrará en vigor a partir del día de su aprobación por el Consejo Estatal Electoral.
+
+Segundo.- Se derogan todas las disposiciones y acuerdos aprobados con anterioridad por el Consejo Estatal Electoral que contravengan al presente Reglamento.
+
+Tercero.- Mándese publicar el presente Reglamento en el Periódico Oficial "Tierra y Libertad" Órgano informativo del Gobierno del Estado Libre y Soberano de Morelos.
