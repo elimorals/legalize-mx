@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2014-03-15"
+last_updated: "2014-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY ESTATAL DE EDUCACION DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2014 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -2411,7 +2409,7 @@ V. Será autoridad competente de la evaluación sobre el tránsito de los educan
 
 VI. Coadyuvará y colaborará con el Instituto Nacional para la Evaluación de la Educación, brindando toda la información y tomando las medidas respectivas necesarias para las evaluaciones correspondientes.
 
-VII. Se apoyará en las Comisiones Mixtas de Escalafón para los procesos de evaluación referentes a la promoción, ascenso, reconocimiento y movilidad de los trabajadores de la educación, atendiendo los lineamientos del Instituto Nacional para la Evaluación de la Educación.
+VII. (DEROGADA, P.O. 23 DE ABRIL DE 2014)
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -3001,7 +2999,9 @@ Las convocatorias describirán el perfil que deberán reunir los aspirantes; las
 
 II. Publicar las citadas convocatorias, de acuerdo a lo establecido en la legislación aplicable.
 
-III. Expedir convocatorias extraordinarias cuando a juicio de la Autoridad Educativa Estatal lo justifique, atendiendo a las leyes de la materia.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2014)</small>
+
+III. Expedir convocatorias extraordinarias cuando a juicio de la Autoridad Educativa Estatal lo justifique, atendiendo a las leyes de la materia y con la anuencia de la Secretaría de Educación Pública.
 
 IV. En los concursos se utilizarán los perfiles, parámetros, indicadores e instrumentos de evaluación que para fines de Ingreso sean definidos conforme a lo previsto en la Ley General del Servicio Profesional Docente.
 
@@ -3031,7 +3031,9 @@ II. Realizar una evaluación al término del primer año escolar y brindar los a
 
 III. Evaluar el desempeño del Docente al término del periodo de inducción para determinar si en la práctica favorece el aprendizaje de los Alumnos y, en general, cumple con las exigencias propias de la función docente.
 
-IV. Dar por terminados los efectos del nombramiento, sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado respectivo, en el caso de que el Personal no atienda los apoyos y programas previstos o incumpla con la obligación de la evaluación.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2014)</small>
+
+IV. Dar por terminados los efectos del nombramiento, sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado respectivo, en el caso de que el personal no atienda los apoyos y programas previstos, incumpla con la obligación de la evaluación o cuando al término del periodo se identifique su insuficiencia en el nivel de desempeño de la función docente.
 
 V. Asignar las plazas que durante el ciclo escolar queden vacantes, conforme a lo siguiente:
 
@@ -3773,7 +3775,7 @@ A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Est
 
 P.O. 20 DE JULIO DE 2013.
 
-DECRETO No. 1274/2013 II P.O., POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 1274/2013 II P.O, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3859,9 +3861,11 @@ En la Entidad Federativa se reconoce al Sindicato Nacional de Trabajadores de la
 
 El Gobierno del Estado de Chihuahua se obliga a respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como a reconocer los acuerdos que estipule beneficios y/o prestaciones laborales, profesionales, salariales y sociales alcanzados a través de convenios, minutas y cualquier otro instrumento legal señalado por este y el Sindicato Nacional de Trabajadores de la Educación, en lo que no contravenga a las disposiciones legales vigentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO CUARTO.
 
-El personal que a la entrada en vigor del presente Decreto se encuentre en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de dicha Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+El personal que, a la entrada en vigor de la Ley General del Servicio Profesional Docente, se encontraba en servicio y contaba con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII de la Ley General del Servicio Profesional Docente. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de dicha Ley, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
 El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 53 del supracitado ordenamiento, será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según corresponda.
 
@@ -3910,6 +3914,12 @@ III. El personal que incumpla con la obligación de evaluación o cuando en esta
 ###### ARTÍCULO NOVENO.
 
 El personal que a la entrada en vigor de la Ley General del Servicio Profesional Docente se encuentre en servicio y cuente con nombramiento definitivo para desempeñar funciones de dirección o de supervisión en la Educación Media Superior impartida por el Estado y sus Organismos Descentralizados, continuará en el desempeño de dichas funciones conforme a lo previsto en esta Ley.
+
+P.O. 23 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO TERCERO.
 
