@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2012-11-05"
+last_updated: "2014-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2014.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -2042,6 +2042,10 @@ f) Por incrementos o disminuciones a los conceptos de gasto de inversión financ
 g) Afectaciones en las asignaciones de los programas y proyectos financiados con crédito externo;
 
 h) Afectaciones en las asignaciones destinadas para servicios de comunicación social, en términos de las disposiciones generales aplicables;
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2014)</small>
+
+i) Afectaciones en las asignaciones destinadas a los programas y proyectos de inversión, en los términos de las disposiciones que emita la Secretaría;
 
 IV. Modificaciones a los calendarios de presupuesto no compensadas y, en su caso, las compensadas que establezca la Secretaría;
 
@@ -4814,3 +4818,7 @@ IV. Todas las demás disposiciones administrativas y criterios generales relativ
 OCTAVO.- Las disposiciones a que se refieren los artículos sexto y séptimo transitorios anteriores sólo continuarán aplicándose en relación con los proyectos mencionados en el primer párrafo del artículo cuarto transitorio de este decreto.
 
 NOVENO.- La Secretaría expedirá los lineamientos previstos en el artículo 26 del Reglamento, en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor de este Reglamento.
+
+D.O.F. 24 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
