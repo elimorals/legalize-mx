@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-direccion-general-de-seguridad-94711"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-06"
-last_updated: "2013-06-06"
+last_updated: "2014-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2014.
 
 Reglamento publicado en la Edición Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de junio de 2013.
 
@@ -1731,6 +1731,80 @@ La suspensión es la interrupción temporal de la relación administrativa exist
 
 El infractor no deberá prestar sus servicios y, en consecuencia, la Dirección no le cubrirá sus percepciones, en virtud de lo cual el infractor deberá entregar su identificación, municiones, armamento, equipo, documentación y demás bienes de la Dirección que se le hubieren ministrado bajo su resguardo para el cumplimiento de sus funciones.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2014)</small>
+
+La suspensión de funciones hasta por noventa días sin goce de sueldo, se impondrá cuando las faltas sean graves, tomando en cuenta los antecedentes del infractor, siendo la Comisión de Honor y Justicia de la corporación, la facultada para su aplicación, por las siguientes causas:
+
+I.- Por reincidir en la comisión de faltas que generen un arresto;
+
+II.- Por hacerse acompañar por persona ajena a la corporación, sin autorización, a la prestación de un servicio de seguridad y vigilancia o permitir, ordenar o autorizar a un subordinado que lo haga;
+
+III.- Presentarse al servicio en estado de ebriedad, bajo el influjo de drogas, estupefacientes o enervantes, o con secuela por el consumo de éstos o por haber ingerido bebidas embriagantes;
+
+IV.- Cometer actos inmorales dentro o fuera del servicio;
+
+V.- No hacer entrega a la autoridad responsable de aquellos objetos que han sido asegurados a presuntos infractores;
+
+VI.- Presentarse uniformado a un establecimiento público y no guardar las normas mientras se encuentre dentro del interior del mismo;
+
+VII.- Presentar un documento público ya sea un certificado de primaria, secundaria, preparatoria o título profesional, que no se encuentre legalmente certificado por las autoridades de la Secretaría de Educación Pública o Instituto Nacional para la Educación de los Adultos;
+
+VIII.- Presentar más de cuatro incapacidades por enfermedad general que serán sujetas a análisis por la superioridad;
+
+IX.- Se niegue a acatar una orden de su superior jerárquico inmediato siempre y cuando no constituya un delito;
+
+X.- No guardar las consideraciones de respeto a su superior jerárquico;
+
+XI.- Por proferir o vociferar palabras altisonantes u obscenas en perjuicio de un superior jerárquico o inmediato, dentro o fuera de servicio;
+
+XII.- Por participar en un hecho contrario a la Ley del Sistema de Seguridad Pública del Estado y al Reglamento Interior de la Dirección General de Seguridad Pública del Estado y demás Leyes que nos rigen;
+
+XIII.- Por encontrarse dormido dentro de su servicio y sea sorprendido por su superior jerárquico inmediato o mediato;
+
+XIV.- No cuidar su equipo de trabajo y que por su negligencia se ocasione un daño al mismo que le impida desarrollar sus funciones dentro de su servicio asignado;
+
+XV.- Negarse a firmar una acta administrativa, acta circunstanciada, cambio de adscripción o destruir una boleta de arresto o cualquier documento oficial que le sea presentado por su superior jerárquico inmediato o mediato;
+
+XVI.- Por no acatar la instrucción de orden cerrado al momento de la impartición;
+
+XVII.- Por alterar el orden dentro del pase de lista;
+
+XVIII.- Abandonar su servicio nombrado en un área específica que le haya sido designado por su superior jerárquico inmediato;
+
+XIX.- Por no portar debidamente el uniforme de la corporación;
+
+XX.- Por detener injustificadamente a una persona que no haya cometido delito alguno o faltas al Bando de Policía y Gobierno;
+
+XXI.- Por ocasionar daños en cualquier bien inmueble público o privado fuera del servicio;
+
+XXII.- Por no orientar o auxiliar debidamente a una persona y que por el hecho dé una mala imagen corporativa;
+
+XXIII.- Por aplicar a un subalterno en forma dolosa o reiterada, correctivos disciplinarios notoriamente injustificados;
+
+XXIV.- Por portar el arma de cargo, particular de su propiedad fuera del servicio;
+
+XXV.- Por encontrarse con aliento alcohólico o en estado de ebriedad, bajo el influjo de drogas, estupefacientes o enervantes fuera de servicio;
+
+XXVI.- A quien por cualquier causa incurra en una mala imagen corporativa dentro o fuera de servicio;
+
+XXVII.- Arrogarse facultades o atribuciones que no le correspondan dentro de la corporación;
+
+XXVIII.- Cuando se reciba queja de derechos humanos en contra de un elemento que actúe contrario a sus funciones, y mediante previa investigación se verifique que los hechos que se le imputen sean ciertos;
+
+XXIX.- Al que por negligencia, dolo, deshonestidad, prepotencia, afectara física, moral, materialmente a la ciudadanía o corporación;
+
+XXX.- Cometer actos de violencia, amagos, injurias, malos tratos o faltas de respeto contra sus superiores, compañeros o subordinados y a sus familiares, dentro o fuera de las áreas de trabajo, en servicio o fuera de él;
+
+XXXV (SIC).- Por causas de responsabilidad que se consideren particularmente graves que a juicio de la Comisión de Honor y Justicia, no constituyan motivo de baja.
+
+En los casos no justificados de pérdida o extravío de armas, radios o aparatos de comunicación, fornituras o cualquier equipo proporcionado por la Dirección, dentro o fuera de servicio o cuando por negligencia, ésta sea la causa única del perjuicio, los elementos responsables de los mismos tienen la obligación de reintegrar el equipo o cubrir el precio de los mismos al valor actual y, además, tal conducta será sancionada de la siguiente manera:
+
+a) En los casos de pérdida o extravío de radios o aparatos de comunicación, fornituras o cualquier otro equipo: de uno a tres meses de suspensión;
+
+b) Pérdida o extravío de arma corta: de tres a seis meses de suspensión;
+
+c) Pérdida o extravío de arma larga: seis meses a un año de suspensión.
+
 ###### Artículo 100.
 
 Concluida la suspensión el Integrante se presentará en su unidad de adscripción, informando por escrito su reincorporación al servicio.
@@ -1738,6 +1812,80 @@ Concluida la suspensión el Integrante se presentará en su unidad de adscripci�
 ###### Artículo 101.
 
 La remoción o destitución del cargo, es la terminación de la relación administrativa entre la Secretaría y Dirección con el infractor, sin responsabilidad para aquéllas, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2014)</small>
+
+La Comisión de Honor y Justicia de la Corporación, es la facultada para aplicar la remoción o destitución del cargo por infracción que ameriten los elementos policíacos y serán las causas, las siguientes:
+
+I.- Haber sido condenado por sentencia irrevocable por delito doloso;
+
+II.- Reincidir en la falta que amerite una suspensión;
+
+III.- Por acumular más de tres faltas consecutivas o no consecutivas en un periodo de 30 días sin causa justificada con oportunidad;
+
+IV.- Abandonar las funciones que se le tengan encomendadas, sin causa justificada;
+
+V.- Solicitar o aceptar personalmente o por interpósita persona, para sí o para otro, dádivas o prestaciones por hacer algo indebido o dejar de hacer algo debido, relacionado con sus funciones;
+
+VI.- Revelar asuntos secretos o reservados de que tuvieran conocimiento, con motivo del ejercicio de sus funciones;
+
+VII.- Ejercer presión en uso de su autoridad, para obtener de sus subordinados, prestaciones de cualquier tipo;
+
+VIII.- Cuando intencionalmente se ocasionen daños a bienes propiedad del Estado, dentro o fuera del servicio o cuando por negligencia, esta sea la causa única del perjuicio;
+
+IX.- Aplicar u ordenar medidas contrarias a una Ley, Reglamento, disposición legal o cualquier otra directriz superior o impedir su ejecución;
+
+X.- Resultar positivo en los exámenes ordenados por la superioridad, en los cuales se muestre el uso o adicción de drogas o enervantes. Esta sanción se aplicará sin perjuicio de presentar denuncia ante las autoridades competentes, cuando la falta cometida pueda ser constitutiva de delito;
+
+XI.- Ingerir bebidas alcohólicas y presentarse en estado de embriaguez o bajo la influencia de algún narcótico, enervante o droga salvo que exista prescripción médica, en los establecimientos o lugares de servicio que les sean asignados;
+
+XII.- Realizar reuniones sediciosas contra la autoridad, el orden público o la disciplina de la corporación; presentar peticiones que tiendan a contrariar las ordenes que reciban y fomentar cualquier conducta que obstaculice la correcta prestación del servicio;
+
+XIII.- Por utilizar documentos falsos para acreditar no antecedentes penales, no antecedentes policiales negativos, estudio de cualquier nivel, realización del servicio militar nacional u otros necesarios para el ingreso y permanencia dentro de la corporación;
+
+XIV.- Comprometer el elemento por su imprudencia o descuido inexcusable, la seguridad de los lugares o de las personas en cualquier área de su servicio;
+
+XV.- Desobedecer, sin causa justificada, las órdenes que se reciban de la superioridad inmediata o mediata;
+
+XVI.- Por utilizar o portar armas de fuego que no estén contempladas en la Licencia Oficial Colectiva No. 196, que se tiene concedida por la Dirección General de Armas de fuego y control de explosivos, de la Secretaría de la Defensa Nacional, a la Secretaría, durante el desempeño de su servicio que le sea asignado con motivo de sus funciones;
+
+XVII.- Por utilizar el equipo, mobiliario y parque vehicular, propiedad de (sic) Gobierno del Estado, con cargo a la Corporación, para objeto distinto de aquel a que están destinados o sean utilizados en usos personales o particulares sin previa autorización del superior jerárquico;
+
+XVIII.- A quien se le sorprenda o sea señalado vendiendo o sustrayendo el equipo policiaco de trabajo para desempeñar las funciones que tiene asignadas;
+
+XIX.- Apoderarse, venda, rente, empeñe o destruya equipos de trabajo propiedad de (sic) Gobierno del Estado con cargo a la Dirección;
+
+XX.- A quien solicite determinada cantidad de dinero o especie para efectos de otorgar un permiso, vacaciones u otros dentro del servicio;
+
+XXI.- A quien ocasione lesiones sin ningún motivo, a los infractores que remita o a la ciudadanía en general;
+
+XXII.- Incurrir en faltas de probidad y honradez;
+
+XXIII.- A quien con su mala conducta ocasione una imagen denigrante a la corporación, sea por cualquier medio de difusión o no-difusión;
+
+XXIV.- Reincidencia en la pérdida o extravío de armas.
+
+XXV.- No aprobar cualquiera de los exámenes que son aplicados en los procesos de evaluación de control de confianza, previsto en el artículo 65 de la Ley del Sistema de Seguridad Pública del Estado, y que son los siguientes:
+
+a).- Examen psicológico,
+
+b).- Examen médico,
+
+c).- Examen toxicológico,
+
+d).- Examen socio económico,
+
+e).- Examen poligráfico.
+
+XXVI.- La baja de un elemento de la Dirección procederá de manera inmediata cuando estando privado de su libertad y sujeto a un procedimiento penal, se le dicte sentencia condenatoria por delito grave sin derecho alguno de obtener su libertad; en este caso, y una vez corroborado que la sentencia quedo firme al haberse agotado los medios de defensa que consagran los ordenamientos aplicables, ya sea ante las instancias federales o estatales; la Dirección le notificara personalmente en el lugar donde se encuentre, la determinación por escrito, emitida por la Comisión de Honor y de Justicia.
+
+XXVII.- La baja de un elemento de la Dirección procederá de manera inmediata cuando presente de manera continua incapacidades por enfermedad general, en un periodo de seis meses consecutivos o no consecutivos; la Dirección General le notificara personalmente en el lugar donde se encuentre, la determinación por escrito, emitida por la Comisión de Honor y de Justicia.
+
+En los casos señalados en las fracciones XXVI y XXVII cuando el Policía se negare a recibir la notificación, se procederá a la elaboración de la constancia de notificación respectiva, en presencia de dos testigos, para efectos de tener por realizada la notificación y por consiguiente la respectiva Baja.
+
+XXVIII.- Por violaciones a las Leyes y al presente Reglamento;
+
+XXIX.- Por causas de responsabilidad que se consideren graves y a juicio de la Comisión de Honor y Justicia, sean causales para la baja o cese.
 
 ###### Artículo 102.
 
@@ -2378,3 +2526,9 @@ SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 MTRO. JOEL MELGAR ARREDONDO
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE ABRIL DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
