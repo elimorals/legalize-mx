@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-actividad-de-comercio-y-oficios-en-las-82244"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-21"
-last_updated: "2011-07-21"
+last_updated: "2014-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO DE LA ACTIVIDAD DE COMERCIO Y OFICIOS EN LAS VIAS Y AREAS PUBLICAS DEL MUNICIPIO DE PUERTO PEÑASCO, SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE ABRIL DE 2014.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 21 de julio de 2011.
 
@@ -45,6 +45,8 @@ De acuerdo con lo establecido en los artículos 61, fracción I, inciso B, 343, 
 
 El presente reglamento es de observancia general, sus disposiciones son de interés público y obligatorio en el municipio de Puerto Peñasco, para toda persona física o moral y tiene por objeto reglamentar cualquier actividad comercial no establecida, así como la práctica de todo oficio y servicio que se realice u oferte en la vía pública, en las playas, en la zona federal marítimo terrestre y terrenos ganados al mar, dentro del municipio de Puerto Peñasco, Sonora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE ABRIL DE 2014)</small>
+
 ###### Artículo 2.
 
 Para los efectos de este reglamento se entiende por comercio no establecido y oficio en la vía pública, en las playas, en la zona federal marítimo terrestre y terrenos ganados al mar, toda aquella actividad habitual o eventual, mediante la cual una persona física o moral, proporcione a otro un bien o servicio, obteniendo por ello un beneficio económico, considerándose las siguientes modalidades de comercio en la vía pública:
@@ -56,6 +58,10 @@ II. Vendedor ambulante con vehículo.
 III. Vendedor con puesto semifijo.
 
 IV. Vendedor con puesto fijo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 24 DE ABRIL DE 2014)</small>
+
+V. Prestador de Servicios Turísticos.
 
 ###### Artículo 3.
 
@@ -351,7 +357,13 @@ RUVALP Registro Único de Vendedores de Alimentos en Playas
 
 RUP Registro Único de Palaperos
 
-RUPTC Registro Único de Promotores de Tiempo Compartido
+> <small>(REFORMADO, B.O. 24 DE ABRIL DE 2014)</small>
+
+RUPTC Registro Único de promotores de Tiempo Compartido
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], B.O. 24 DE ABRIL DE 2014)</small>
+
+RUMAP Registro Único de Masajistas en Áreas de Playa.
 
 ###### Artículo 32.
 
@@ -489,25 +501,33 @@ El Consejo será presidido por el Presidente Municipal. El Secretario Técnico s
 
 El Presidente Municipal podrá ser suplido por el Secretario General Municipal y el Secretario Técnico por quien decida el propio Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE ABRIL DE 2014)</small>
+
 ###### Artículo 41.
 
-Se conformara un Consejo de Inspección y Vigilancia, donde se resolverán problemas de tipo sanciones, Ingresos de nuevos de (sic) vendedores o promotores, revocación de permisos y demás temas involucrados directamente con la (sic) actividades comerciales,
-
-El Consejo estará integrado por:
+Se conformara un Consejo de Inspección y Vigilancia, donde se resolverán problemas de tipo sanciones, Ingresos de nuevos de (sic) vendedores o promotores y Prestadores de Servicios Turísticos; así como revocación de permisos y demás temas involucrados directamente con la (sic) actividades comerciales. El Consejo estará integrado por:
 
 l. Secretario Municipal.
 
 II. Regidor Encargado de la comisión de Turismo o Hacienda.
 
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2014)</small>
+
 III. Coordinador de Organizaciones Ciudadana (sic).
 
 IV. Jefe de Inspección y Vigilancia.
 
-V. Representantes acreditados ante Secretaría Municipal de las Agrupaciones.
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2014)</small>
 
-VI. Director de seguridad Publica o Representante.
+V. Representantes acreditados ante (sic) Secretaría Municipal de las Agrupaciones,
 
-VII. Encargado del Jurídico del Ayuntamiento.
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2014)</small>
+
+VI. Director de seguridad Publica o Representante
+
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2014)</small>
+
+VII. Encargado del Jurídico del Ayuntamiento
 
 ### CAPITULO TERCERO. DE LOS SUJETOS PASIVOS
 
@@ -537,7 +557,9 @@ d. Pintores y rotulistas que no tengan un negocio establecido;
 
 e. Albañiles, carpinteros, yeseros. Jardineros, cargadores, estibadores, y similares que ofrezcan sus servicios en la vía pública;
 
-f. Voceadores o vendedores de periódicos, publicaciones y revistas. Se exceptúa del régimen fiscal a los voceadores menores de 16 y mayores de 14 años, siempre que hayan cumplido con los requisitos que se les exige para dicho ejercicio;
+> <small>(REFORMADO, B.O. 24 DE ABRIL DE 2014)</small>
+
+f. Voceadores o vendedores de periódicos, publicaciones y revistas. Se exceptúa del régimen fiscal a los voceadores menores de 16 años y mayores de 14 años, siempre que hayan cumplido con los requisitos que se les exige para dicho ejercicio;
 
 g. Los demás que realicen cualquier tipo de actividades remunerativas o lucrativas sobre la vía pública.
 
@@ -545,7 +567,9 @@ II. Con el carácter de comercio en la vía pública:
 
 a. Los vendedores de comestibles y bebidas de frutas naturales o aguas gaseosas;
 
-b. Los vendedores de todo tipo de artículos para las personas, el hogar, el comercio, la oficina, la industria, las ramas agropecuarias, el turismo, la pesca y demás similares por cuya actividad se obtenga un provecho personal.
+> <small>(REFORMADO, B.O. 24 DE ABRIL DE 2014)</small>
+
+b. Los vendedores de todo tipo de artículos para las personas, el hogar, el comercio, la oficina, la industria, las ramasagropecuarias (sic), el turismo, la pesca y demás similares por cuya actividad se obtenga un provecho personal.
 
 III. Con el carácter de comercio en puestos o instalaciones semi fijas:
 
@@ -570,6 +594,10 @@ f. Estibadores, cargadores, maleteros, recaderos, y mensajeros, acomodadores de 
 g. El comercio establecido que desee ofrecer privilegio de establecimiento en vía pública;
 
 h. Cualquier actividad que las personas físicas, morales o colectivas realicen en beneficio de otras de carácter remunerativo y cuyo ejercicio requiera el uso y ocupación de bienes áreas o vías públicas;
+
+> <small>(REFORMADO [N. D E. ADICIONADO], B.O. 24 DE ABRIL DE 2014)</small>
+
+i. Prestador de Servicios Turísticos
 
 V. Con carácter de actividades sociales no lucrativas;
 
@@ -601,11 +629,25 @@ V. Exhibir la licencia sanitaria en su caso y los permisos o licencias que le au
 
 VI. Circunscribirse en el ejercicio de sus actividades al área, perímetro, lugar, horario y materia que su permiso o licencia les autoriza;
 
-VII. Pagar los derechos y demás obligaciones fiscales contraídos con el municipio por el ejercicio de las actividades que regula este ordenamiento y los demás que resulten de su incumplimiento;
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2014)</small>
 
-VIII. Tratándose de solicitudes para ejercer el comercio ambulante en zona federal además de los puntos señalados anteriormente, deberá contar con el permiso otorgado por la autoridad federal competente.
+VII. Pagar los derechos y demás obligaciones fiscales contraídos con el municipio por el ejercicio de las actividades que (sic)
 
-IX. Con la finalidad de velar por los residentes de la ciudad, el H. Ayuntamiento convocara en tiempo y forma a los integrantes del los Registros mencionados en el artículo 31 apartado VII, para que revaliden su credencial, en un plazo no mayor a 2 meses.
+> <small>(REFORMADA [N. D E. ADICIONADA], B.O. 24 DE ABRIL DE 2014)</small>
+
+VIII. regula este ordenamiento y los demás que resulten de su incumplimiento;
+
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2014)</small>
+
+IX. Tratándose de solicitudes para ejercer el comercio ambulante en zona federal además de los puntos señalados anteriormente, deberá contar con el permiso otorgado por la autoridad federal competente.
+
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2014)</small>
+
+X. Con la finalidad de velar por los residentes de la ciudad, el H Ayuntamiento convocara en tiempo y forma a los integrantes de los Registros mencionados en el artículo 31 apartado VII, para que revaliden su credencial, en plazo no mayor a 2 meses,
+
+> <small>(ADICIONADA, B.O. 24 DE ABRIL DE 2014)</small>
+
+XI. Tratándose de solicitudes para ejercer el oficio de masajistas terapéuticas, se requiere la certificación de la autoridad educativa correspondiente y el permiso de la Secretaría de Salud.
 
 ###### Artículo 45.
 
@@ -1260,3 +1302,11 @@ PRIMERO: El presente reglamento entrará en vigor el día siguiente de su public
 SEGUNDO: Con la entrada en vigor del presente ordenamiento, se deroga (sic) aquellas disposiciones de igual o menor jerarquía que contravengan al presente reglamento.
 
 Y para los fines a que haya lugar, expido la presente certificación, en la ciudad de Puerto Peñasco, Sonora, a los trece días del mes de julio de dos mil once.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 24 DE ABRIL DE 2014.
+
+PRIMERO: Las presentes modificaciones entrarán en vigor el día siguiente de su publicación.
+
+SEGUNDO: Con la entrada en vigor del presente ordenamiento, se deroga (sic) aquellas disposiciones de igual o menor jerarquía que contravengan al presente reglamento.
