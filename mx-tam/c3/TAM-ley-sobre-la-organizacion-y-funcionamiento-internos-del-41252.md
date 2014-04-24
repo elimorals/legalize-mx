@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2014-04-03"
+last_updated: "2014-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -539,9 +539,9 @@ i) Ciencia y Tecnología;
 
 j) Salud;
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2014)</small>
 
-k) Desarrollo Urbano;
+k) Desarrollo Urbano y Puertos;
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
@@ -593,13 +593,17 @@ u) Atención a Grupos Vulnerables;
 
 v) Recurso Agua;
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2014)</small>
 
-w) Fomento al Comercio Exterior; y
+w) Fomento al Comercio Exterior;
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2014)</small>
 
-x) de Juventud.
+x) Juventud; y
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2014)</small>
+
+y) Desarrollo de Zonas Metropolitanas.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -2680,3 +2684,19 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 24 DE ABRIL DE 2014.
+
+DECRETO NÚMERO LXII-225 POR EL CUAL SE REFORMAN LOS INCISOS W) Y X), Y SE ADICIONA EL INCISO Y) AL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULlPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado.
+
+P.O. 24 DE ABRIL DE 2014.
+
+DECRETO NÚMERO LXII-230 MEDIANTE EL CUAL SE REFORMA EL INCISO K) DEL PÁRRAFO 2 DEL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULlPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
