@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-la-fauna-del-estado-de-yucatan-80910"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-19"
-last_updated: "2011-04-19"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LA FAUNA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2014.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de abril de 2011.
 
@@ -419,6 +419,14 @@ Queda prohibida la exhibición de animales enfermos o lesionados, independientem
 
 Las autoridades en su ámbito de competencia deberán reglamentar sobre las dimensiones adecuadas respecto a los espacios y dimensiones que garanticen un mejor desplazamiento, alimentación, ventilación y condiciones de higiene adecuadas de éstos, así como el tiempo de exhibición en público acorde a su especie.
 
+> <small>(ADICIONADO, D.O. 25 DE ABRIL DE 2014)</small>
+
+###### Artículo 40 Bis.
+
+Queda prohibida la utilización de animales, que no estén permitidos en la normatividad aplicable, así como de aquellos que no cuenten con las condiciones adecuadas para su manejo, atención, resguardo y desplazamiento de conformidad con lo que al efecto se establece en el artículo anterior, en la celebración y/o realización de espectáculos públicos o privados circenses, fijos o itinerantes.
+
+Las autoridades competentes, podrán sancionar a cualquier persona física o moral que no cumpla con lo establecido en este artículo de conformidad con lo establecido en el Título Cuarto de esta Ley, así como en las demás disposiciones jurídicas aplicables.
+
 ###### Artículo 41.
 
 Se prohíbe ofrecer o distribuir animales vivos de cualquier especie con fines de propaganda, promoción o premiación en sorteos, loterías, juegos, kermeses y eventos, o actividades análogas a su utilización o destino como juguete infantil.
@@ -710,3 +718,11 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 25 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+Esta (sic) decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
