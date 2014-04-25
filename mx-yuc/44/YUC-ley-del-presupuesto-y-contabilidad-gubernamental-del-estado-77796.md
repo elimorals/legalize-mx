@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-y-contabilidad-gubernamental-del-estado-777
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2012-08-31"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2014.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2010.
 
@@ -470,6 +470,24 @@ La contratación de Deuda Pública para financiar el déficit presupuestal deber
 ###### Artículo 23.
 
 Los Poderes Legislativo y Judicial, los organismos autónomos y las Dependencias y Entidades, que reciban recursos económicos provenientes de programas federales permanentes, mediante acuerdo o convenio, deberán prever en sus proyectos de ingresos y egresos correspondientes el ejercicio de los mismos, e informarán de ello para la integración de la Cuenta Pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
+
+Los ejecutores de gasto, con cargo a sus respectivos presupuestos y de conformidad con las disposiciones generales aplicables, deberán cubrir las contribuciones federales, estatales y municipales correspondientes, así como las obligaciones de cualquier índole que se deriven de resoluciones definitivas emitidas por autoridad competente, que hayan causado estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
+
+Las adecuaciones presupuestarias que, en su caso, sean necesarias para el pago de las obligaciones a que se refiere el párrafo anterior, no podrán afectar el cumplimiento de los objetivos y las metas de los programas prioritarios aprobados en el Presupuesto de Egresos respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
+
+Los ejecutores de gasto que no puedan cubrir la totalidad de las obligaciones conforme a lo previsto en el párrafo anterior, presentarán ante la autoridad competente un programa de cumplimiento de pago que deberá ser considerado para todos los efectos legales en vía de ejecución respecto de la resolución que se hubiese emitido, con la finalidad de cubrir las obligaciones hasta por un monto que no afecte el cumplimiento de los objetivos y metas de los programas prioritarios, sin perjuicio de que el resto de la obligación será pagada en los ejercicios fiscales subsecuentes conforme lo establezca dicho programa.
 
 ###### Artículo 24.
 
@@ -2314,3 +2332,9 @@ D.O. 31 DE AGOSTO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 25 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
