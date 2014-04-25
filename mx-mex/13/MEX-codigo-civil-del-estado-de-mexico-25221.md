@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2013-05-07"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -723,11 +723,57 @@ II. Para modificar o cambiar el nombre propio, si una persona demuestra que ha u
 
 III. Para corregir algún dato esencial.
 
-Legitimación para pedir la modificación o rectificación de acta
+> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
+
+Modificación del sustantivo propio
 
 ### CAPITULO VII. De la rectificación de las Actas del Estado Civil
 
 Rectificación de actas del estado civil
+
+###### Artículo 3.
+
+38 bis.- La modificación o cambio del sustantivo propio registrado, por la afectación a su dignidad humana como consecuencia de la exposición al ridículo, podrá solicitarse ante el o la Oficial del Registro Civil donde está asentada el acta de nacimiento por:
+
+l. La persona interesada, si es mayor de edad;
+
+II. Los padres, el padre, la madre o quien ejerza la patria potestad del menor de doce años de edad o del incapaz;
+
+III. La persona menor de dieciocho pero mayor de doce años de edad, con el consentimiento de sus padres, de su padre, de su madre, de su representante legal, o en su caso, de la persona o institución que lo tuviere a su cargo.
+
+En caso de que la registrada o el registrado tenga dos o más nombres en el sustantivo propio, sólo surtirá efecto en el sustantivo propio expuesto al ridículo.
+
+La solicitud de modificación o cambio del sustantivo propio registrado por ser expuesto al ridículo será resuelta por el Consejo Dictaminador, en términos de lo dispuesto en los lineamientos que para el efecto emita el Consejo Dictaminador.
+
+De proceder la modificación o cambio del sustantivo propio se tendrá por entendido, para efectos legales, que se trata de la misma persona, lo que se hará constar en el documento que para tal efecto se expida.
+
+> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
+
+Integración del Consejo Dictaminador
+
+###### Artículo 3.
+
+38 ter.- El Consejo Dictaminador será un órgano colegiado que se conformará con la única finalidad de resolver sobre las solicitudes de cambio de sustantivo propio que mediante solicitud expresa se haya formulado en términos del presente Código y demás disposiciones aplicables y estará integrado por las o los titulares de:
+
+l. La Consejería Jurídica del Ejecutivo Estatal, quien lo presidirá;
+
+ll. La Dirección General del Registro Civil con el carácter de Secretaría Técnica.
+
+Y como Vocales:
+
+III. El Poder Judicial del Estado de México;
+
+IV. La Universidad Autónoma del Estado de México;
+
+V. El Colegio de Notarios del Estado de México;
+
+VI. El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México;
+
+VII. La Comisión de Derechos Humanos del Estado de México.
+
+Cada integrante designará a su respectivo suplente.
+
+Legitimación para pedir la modificación o rectificación de acta
 
 ###### Artículo 3.
 
@@ -1193,9 +1239,9 @@ Inventario por terminación de la sociedad
 
 42.- Terminada la sociedad se procederá a su liquidación, formándose el inventario, excluyéndose los objetos de uso personal de los cónyuges.
 
-Liquidación de la sociedad conyugal
-
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+Liquidación de la sociedad conyugal
 
 ###### Artículo 4.
 
@@ -2397,7 +2443,7 @@ Respeto y consideración entre hijos y ascendientes
 
 ###### Artículo 4.
 
-199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Código.
+199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Códig.
 
 Seguimiento de las adopciones internacionales
 
@@ -2405,7 +2451,7 @@ Seguimiento de las adopciones internacionales
 
 ###### Artículo 4.
 
-200.- Las adopciones internacionales siempre serán plenas, pero el Sistema Estatal para el Desarrollo Integral de la Familia del Estado estará facultado para dar seguimiento de las condiciones físicas, educativas y emocionales del menor dado en adopción.
+200.- En las adopciones internacionales el Sistema Estatal para el Desarrollo Integral de la Familia del Estado estará facultado para dar seguimiento de las condiciones físicas, educativas y emocionales del menor dado en adopción.
 
 ###### Artículo 4.
 
@@ -2885,7 +2931,7 @@ III. Tratándose de menores y a falta de los mencionados en los supuestos anteri
 
 Elección de tutor legítimo por el Juez
 
-### CAPITULO V. De la Tutela Legítima de los Expósitos o Abandonados
+### CAPITULO V. De la Tutela Legítima de los expósitos o abandonados
 
 Tutela de expósitos y de abandonados
 
@@ -17606,3 +17652,13 @@ El Gobierno del Estado de México vigilará, de ser el caso, que los contratos d
 ###### ARTÍCULO TERCERO.
 
 Este Decreto entrará en vigor a los 60 días de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE ABRIL DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado proveerá en la esfera administrativa la exacta observancia del presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
