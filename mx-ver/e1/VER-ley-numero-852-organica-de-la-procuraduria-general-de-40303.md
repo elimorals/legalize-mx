@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-852-organica-de-la-procuraduria-general-de-40303"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-12"
-last_updated: "2013-08-13"
+last_updated: "2014-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 852 ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE ABRIL DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 12 de julio de 2004.
 
@@ -133,9 +133,9 @@ XVII. Poner a los inimputables mayores de edad a disposición del órgano jurisd
 
 XVIII. Las demás que señalen otras disposiciones legales.
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 25 DE ABRIL DE 2014)</small>
 
-Las denuncias o querellas por delitos del orden común, podrán ser presentadas ante un Agente Investigador del Ministerio Público, ante la Dirección General de Investigaciones Ministeriales o ante la policía adscrita a la Agencia Veracruzana de Investigaciones, quienes procederán, en consecuencia, de acuerdo a lo que esta Ley y el Código de Procedimientos Penales prescriben.
+Las denuncias o querellas por delitos del orden común, podrán ser presentadas ante un Agente Investigador del Ministerio Público, ante la Dirección General de Investigaciones Ministeriales o ante la Policía Ministerial, quienes procederán, en consecuencia, de acuerdo a lo que esta Ley y el Código de Procedimientos Penales prescriben.
 
 ###### Artículo 4.
 
@@ -373,11 +373,11 @@ El Procurador, en atención a las disposiciones presupuestales, podrá crear uni
 
 El Procurador podrá establecer delegaciones con carácter de organismos desconcentrados por territorio, con autonomía técnica y operativa, cuyos titulares estarán subordinados a él y las Agencias del Ministerio Público que considere necesarias, de acuerdo con las disponibilidades presupuestarias.
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 25 DE ABRIL DE 2014)</small>
 
 ###### Artículo 21.
 
-La policía adscrita a la Agencia Veracruzana de Investigaciones estará bajo la autoridad y mando inmediato del Procurador General de Justicia y, en sus respectivos ámbitos de competencia, de los Subprocuradores y los Agentes del Ministerio Público.
+La Policía Ministerial estará bajo la autoridad y mando inmediato del Procurador General de Justicia y, en sus respectivas áreas de competencia, de los Subprocuradores y de los Agentes del Ministerio Público.
 
 ### Capítulo III. Del Procurador
 
@@ -483,7 +483,9 @@ I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos;
 
 II. Tener cuando menos treinta años cumplidos el día de la designación tratándose de subprocuradores y directores y veinticinco años en el caso de los Agentes del Ministerio Público;
 
-III. Tener el grado de Licenciatura conforme a la función a desempeñar, con título expedido por autoridad o institución legalmente facultada para ello, preferentemente con experiencia en el ramo o estudios de postgrado;
+> <small>(REFORMADA, G.O. 25 DE ABRIL DE 2014)</small>
+
+III. Tener el grado de Licenciatura conforme a la función a desempeñar, con título expedido por autoridad o institución legalmente facultada para ello, preferentemente con experiencia en el ramo o estudios de postgrado. Tratándose del Director de la Policía Ministerial podrá dispensarse el grado académico cuando el titular sea un especialista en técnicas para el combate a la delincuencia.
 
 IV. Haber observado buena conducta;
 
@@ -497,19 +499,21 @@ VII. Los demás requisitos que señale el reglamento.
 
 Los requisitos que deberá reunir el demás personal, serán señalados en el reglamento de esta ley y en las disposiciones que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE ABRIL DE 2014)</small>
 
 ###### Artículo 30.
 
-Son auxiliares directos del Ministerio Público, la policía adscrita a la Agencia Veracruzana de Investigaciones y los Servicios Periciales.
+Son auxiliares directos del Ministerio Público, la Policía Ministerial y los Servicios Periciales.
 
 La policía preventiva dependiente de la Secretaría de Seguridad Pública del Estado y los demás agentes que funcionen legalmente le prestarán colaboración y ayuda, en los términos de las leyes aplicables.
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 25 DE ABRIL DE 2014)</small>
 
 ###### Artículo 31.
 
-La policía adscrita a la Agencia Veracruzana de Investigaciones actuará bajo la conducción y el mando del Ministerio Público, y lo auxiliará en la investigación de los delitos y, en su caso, en la persecución de los presuntos responsables. Por consiguiente, conforme a las instrucciones que dicte el Ministerio Público, llevará a cabo las actuaciones que le encomiende durante la investigación ministerial, cumplirá las citaciones, presentaciones y notificaciones que le ordene, ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que dispongan los órganos jurisdiccionales.
+La Policía Ministerial actuará bajo la autoridad y el mando inmediato del Ministerio Público y lo auxiliará en la investigación de los delitos y en su caso, en la persecución de los presuntos responsables.
+
+Por consiguiente, conforme a las instrucciones que dicte el Ministerio Público, llevará a cabo las actuaciones que se le encomienden durante la investigación ministerial, cumplirá las citaciones, presentaciones y notificaciones que se le ordenen, ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que dispongan los órganos jurisdiccionales.
 
 ###### Artículo 32.
 
@@ -611,25 +615,25 @@ VI. Promover el respeto a los derechos humanos; y
 
 VII. Las que establezca el reglamento y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE ABRIL DE 2014)</small>
 
-### Capítulo VI Bis. De la Agencia Veracruzana de Investigaciones
+### CAPÍTULO VI Bis. De la Policía Ministerial
 
-> <small>(REFORMADO Y REUBICADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 25 DE ABRIL DE 2014)</small>
 
 ###### Artículo 45.
 
-La Agencia Veracruzana de Investigaciones es un órgano de la Procuraduría General de Justicia del Estado, que tendrá adscrito al personal de la policía ministerial y estará bajo el mando directo del Procurador General de Justicia. Su organización y funcionamiento se regirán por las disposiciones de la presente ley, del reglamento y demás aplicables.
+La Policía Ministerial es un órgano de la Procuraduría General de Justicia del Estado, que tendrá adscrito al personal de la Policía Ministerial y estará bajo el mando directo del Procurador General de Justicia. Su organización y funcionamiento se regirán por las disposiciones de la presente Ley, del reglamento y demás aplicables.
 
-Estará a cargo de un titular nombrado por el Procurador, que deberá ser licenciado en derecho con título expedido por institución legalmente facultada para ello y con antigüedad mínima de cinco años en el ejercicio de la profesión.
+Estará a cargo de un Director nombrado por el Procurador, y contará, como mínimo, con las áreas de Inteligencia, Investigación Policial, Análisis y Estadística, Grupos de Reacción y la Unidad de Combate al Secuestro.
 
-Contará, como mínimo, con las áreas de Inteligencia, Investigación Policial, Análisis y Estadística, Grupos de Reacción Inmediata y la Unidad de Combate al Secuestro.
-
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE ABRIL DE 2014)</small>
 
 ###### Artículo 45 Bis.
 
-La Agencia Veracruzana de Investigaciones tendrá las atribuciones siguientes:
+La Policía Ministerial de Investigaciones tendrá las atribuciones siguientes:
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
 
 I. Establecer, operar, mantener actualizadas con los avances tecnológicos, y supervisar las áreas de:
 
@@ -641,23 +645,43 @@ c). Grupos de Reacción Inmediata;
 
 d). Unidad de Combate al Secuestro;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 II. Coordinarse con el Sistema Nacional de Seguridad y con los de otras entidades federativas;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
 
 III. Investigar los hechos delictuosos de que tenga conocimiento en los términos de las disposiciones legales aplicables;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 IV. Recabar pruebas de la existencia de los delitos y las que tiendan a determinar la responsabilidad de quienes en ellos participen;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
 
 V. Hacer cumplir las órdenes que, de conformidad con la ley aplicable, resulten de la investigación ministerial y del procedimiento penal;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 VI. Presentar a las personas para la práctica de diligencias ordenadas por los Agentes del Ministerio Público;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
 
 VII. Dirigir y coordinar los grupos especializados de investigación de los delitos que al efecto acuerde el Procurador;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 VIII. Promover la asesoría técnica en materia de investigación policial;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
 
 IX. Vigilar que sus funciones se realicen dentro del marco de legalidad, con respeto a los derechos humanos;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
+
 X. Controlar el armamento, municiones, vehículos, así como aparatos de radio comunicación y equipo en general que tenga asignados;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
 
 XI. Las demás que señalen las leyes y los reglamentos.
 
@@ -793,7 +817,7 @@ Sufragio efectivo. No reelección
 
 LICENCIADO MIGUEL ALEMÁN VELAZCO, GOBERNADOR DEL ESTADO.- RÚBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 28 DE AGOSTO DE 2006.
 
@@ -842,3 +866,11 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 13 DE AGOSTO DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 25 DE ABRIL DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Todas las disposiciones normativas que hagan referencia a la Agencia Veracruzana de Investigaciones, se entenderán que aluden a la Policía Ministerial.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
