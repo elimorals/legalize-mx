@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-97066"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA, PARA EL EJERCICIO FISCAL DEL AÑO 2014
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2014.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el martes 31 de diciembre de 2013.
 
@@ -209,6 +209,8 @@ No se causará el impuesto adicional para la educación media y superior respect
 
 IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
 El Impuesto sobre Diversiones y Espectáculos Públicos, se causa conforme a las siguientes
@@ -232,8 +234,6 @@ Para efectos de este impuesto se considerará también como boletos vendidos aqu
 Para la determinación del impuesto, en los casos en que para un espectáculo se vendan boletos con distinto costo para una misma sección, zona o ubicación, se considerará como base gravable el de costo mayor.
 
 Cuando estos espectáculos sean realizados por Organismos no lucrativos que brinden servicios y asistencia médica de manera gratuita a enfermos que padezcan cáncer en etapa terminal, debidamente registrados en la Secretaría de Salud del Estado 0.00%
-
-Se derogan las disposiciones que se establezcan en otras Leyes, Códigos, reglamentos, acuerdos, circulares o disposiciones administrativas en la parte que contengan exenciones, totales o parciales, beneficios o estímulos fiscales, o consideren a personas como no sujetos de este impuesto, distintas a las comprendidas en los ordenamientos fiscales o en las disposiciones de carácter general que emite el Gobernador del Estado con fundamento en el artículo 35 del Código Fiscal del Estado de Baja California.
 
 ### CAPÍTULO IV
 
@@ -3370,3 +3370,9 @@ GOBERNADOR DEL ESTADO
 GUILLERMO TREJO DOZAL
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ABRIL DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
