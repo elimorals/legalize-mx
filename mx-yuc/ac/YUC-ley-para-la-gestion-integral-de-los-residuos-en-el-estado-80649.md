@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-gestion-integral-de-los-residuos-en-el-estado-80649
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2011-04-08"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY PARA LA GESTION INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATAN
 
-LEY PARA LA GESTION INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATAN
+LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2014.
 
 Ley publicada en el suplemento del Diario Oficial del Estado de Yucatán, el viernes 8 de abril de 2011.
 
@@ -349,7 +349,9 @@ El Programa Estatal deberá formularse en concordancia con lo que establezca el 
 
 I.- Elaborar un diagnóstico de los residuos para precisar la capacidad y efectividad de la infraestructura existente;
 
-II.- Adoptar los principios de valorización y responsabilidad compartida para el Manejo y Gestión Integral de Residuos;
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+II.- Difundir y promover los principios de valorización y responsabilidad compartida para el manejo y gestión integral de residuos;
 
 III.- Instituir medidas para reducir la Generación de Residuos, su separación en la fuente de origen, así como su adecuado acopio, aprovechamiento, tratamiento y disposición final, previniendo su liberación para evitar daños al medio ambiente o a la salud humana;
 
@@ -359,9 +361,17 @@ V.- Promover medidas para evitar el acopio de residuos en áreas o en condicione
 
 VI.- Reincorporar al ciclo productivo los residuos susceptibles a reutilizarse o reciclarse, así como promover el desarrollo de mercados de subproductos para la valorización de los residuos;
 
-VII.- Determinar las medidas apropiadas para evitar la disposición final de residuos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que no hayan sido sometidos a procesos de tratamiento, y
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
 
-VIII.- Las demás que establezca el Reglamento de esta Ley y otros ordenamientos jurídicos aplicables.
+VII.- Determinar las medidas apropiadas para evitar la disposición final de residuos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que no hayan sido sometidos a procesos de tratamiento;
+
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+VIII.- Regular los almacenes temporales de acopio y capacitar al personal para su adecuado manejo, y
+
+> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+IX.- Las demás que establezca el Reglamento de esta Ley y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 13.
 
@@ -375,7 +385,9 @@ Los planes de manejo tendrán por objeto:
 
 I.- Identificar formas de prevenir o reducir la Generación de Residuos;
 
-II.- Establecer esquemas de manejo en los que aplique el principio de Responsabilidad compartida de los distintos sectores involucrados;
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+II. Promover y establecer esquemas de manejo en los que se aplique el principio de Responsabilidad compartida de los distintos sectores involucrados;
 
 III.- Crear mecanismos para reutilizar, reciclar o aprovechar los residuos, de conformidad con las disposiciones legales aplicables y en la medida que esto sea ambientalmente adecuado, económicamente viable y tecnológicamente factible;
 
@@ -443,11 +455,13 @@ IV.- Cualquier otro tipo de compensaciones de carácter legal.
 
 ### CAPÍTULO IV. De la Educación, Difusión y Participación Social
 
+> <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
+
 ###### Artículo 22.
 
-Las autoridades educativas del Estado promoverán la incorporación de contenidos de cultura ambiental a los programas de estudio, que permitan el desarrollo de conductas encaminadas a facilitar la separación de los residuos tan pronto como se generen, así como su reciclaje y manejo adecuado, creando una cultura y hábitos para lograr la minimización de la generación de residuos.
+Las autoridades educativas del Estado promoverán la incorporación de contenidos de cultura ambiental a los programas de estudio, que permitan el desarrollo de conductas y hábitos encaminados a reducir y facilitar la separación de los residuos tan pronto como se generen, así como su reciclaje y manejo adecuado, creando una cultura y hábitos para lograr la minimización de la generación de residuos.
 
-Las instituciones educativas del Estado serán corresponsables para incorporar, como parte de su infraestructura, contenedores para el depósito separado de residuos sólidos y de manejo especial, de conformidad con las disposiciones de esta Ley y otros ordenamientos aplicables.
+Las instituciones educativas del Estado serán corresponsables de realizar un estudio de generación de sus residuos, que sirva para incorporar, como parte de su infraestructura, la cantidad y ubicación estratégica de contenedores para el depósito separado de residuos sólidos y de manejo especial de conformidad con las disposiciones de esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 23.
 
@@ -495,9 +509,17 @@ III.- Aplicar las disposiciones específicas, criterios, normas y recomendacione
 
 IV.- Denunciar ante las autoridades competentes las infracciones contra la normatividad en materia residuos;
 
-V.- Observar los planes y programas de manejo que se establezcan, y
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
 
-VI.- Las demás que establezcan las normas oficiales mexicanas y las normas técnicas ambientales aplicables.
+V.- Observar los planes y programas de manejo que se establezcan;
+
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+VI.- Establecer medidas de minimización, aplicables desde el punto de origen de la generación, y
+
+> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+VII.- Las demás que establezcan las normas oficiales mexicanas y las normas técnicas ambientales aplicables.
 
 ###### Artículo 28.
 
@@ -685,9 +707,15 @@ La transportación de residuos sólidos en el Estado, se realizará con la autor
 
 I.- Que se cumplan las condiciones necesarias para el transporte, establecidas en el Reglamento de esta Ley;
 
-II.- Que se implementen las medidas de seguridad en el transporte, para proteger el medio ambiente de forma integral y, prioritariamente, la salud humana, y
+II.- Que se implementen las medidas de seguridad en el transporte, para proteger el medio ambiente de forma integral y, prioritariamente, la salud humana, y (sic)
 
-III.- Que se diseñen y usen las mejores rutas de transporte, dependiendo de los lugares de salida y destino de los residuos, para evitar cualquier contaminación al medio ambiente.
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+III.- Que se diseñen rutas de transporte y en su caso se adapten a las necesidades que vaya generando el crecimiento del centro poblacional, y
+
+> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+IV.- Que se empleen las mejores rutas de transporte, dependiendo de los lugares de salida y destino de los residuos, para evitar cualquier contaminación al medio ambiente.
 
 ### CAPÍTULO III. Del Aprovechamiento de Residuos
 
@@ -801,13 +829,17 @@ Las personas físicas o morales que sean autorizadas para brindar servicios a te
 
 Las etapas que comprenden el Manejo integral de residuos de manejo especial, se deberán llevar a cabo conforme a lo establecido en esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
+
 ###### Artículo 70.
 
-Los establecimientos mercantiles, expendios de combustibles y lubricantes, lavaderos de vehículos automotores y demás establecimientos similares, cuidarán que sus locales, las banquetas y pavimentos ubicadas enfrente de sus instalaciones y áreas adyacentes, se mantengan limpios, evitando la derrama en la vía pública de aceites, líquidos, los residuos de manejo especial a que se refiere esta Ley.
+Los establecimientos mercantiles, expendios de combustibles y lubricantes, lavaderos de vehículos automotores y demás establecimientos similares, cuidarán que sus locales, las banquetas y pavimentos ubicadas enfrente de sus instalaciones y áreas adyacentes, se mantenga limpios, evitando la derrama en los suelos de la vía pública de aceites, líquidos y los residuos de manejo especial a que se refiere esta ley.
+
+> <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
 
 ###### Artículo 71.
 
-Los propietarios o poseedores de los establecimientos mencionados en el artículo anterior, serán corresponsables con las autoridades competentes de buscar alternativas e implementar acciones para reducir o minimizar la generación o en su caso, procurar la biodegradabilidad de los mismos, utilizando las mejores tecnologías para ello.
+Los propietarios o poseedores de los establecimientos mencionados en el artículo anterior, serán corresponsables con las autoridades competentes de buscar alternativas e implementar acciones para reducir o minimizar la generación o en su caso, procurar la biodegradabilidad de los mismos, utilizando las mejores tecnologías y procedimientos para ello.
 
 ###### Artículo 72.
 
@@ -833,9 +865,11 @@ Además deberán vigilar que los residuos sean depositados correctamente en los 
 
 Los locatarios citados anteriormente serán considerados por las autoridades competentes, como responsables solidarios del manejo de los residuos sólidos o de manejo especial colocados en los contenedores citados, en tanto no los entreguen a los servicios de recolección.
 
+> <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
+
 ###### Artículo 76.
 
-Los dueños o poseedores de mascotas están obligados a recoger las heces fecales generadas por éstas en la vía pública o en las áreas comunes, y depositarlas en los recipientes o contenedores específicos en las citadas vías o dentro de sus domicilios.
+Los dueños o poseedores de mascotas están obligados a recoger las heces fecales generadas por éstas en la vía pública o en las áreas comunes, y depositarlas en los recipientes o contenedores específicos de las citadas vías o dentro de sus domicilios, y en caso de incumplir se sancionará según lo establecido en esta Ley y en los reglamentos respectivos.
 
 ###### Artículo 77.
 
@@ -845,9 +879,11 @@ Los lodos provenientes del tratamiento de las aguas residuales, que no sean cara
 
 Los residuos de servicios de salud que no sean considerados biológico-infecciosos, deberán ser clasificados y colocarse en recipientes debidamente marcados para someterse a los planes o programas de manejo establecidos.
 
+> <small>(REFORMADO, D.O. 25 DE ABRIL DE 2014)</small>
+
 ###### Artículo 79.
 
-Los residuos de las actividades pesqueras, agrícolas, silvícolas, forestales, avícolas, ganaderas y sus insumos, se clasificarán y se dispondrán en contenedores para su disposición final.
+Los residuos de las actividades pesqueras, agrícolas, silvícolas, forestales, avícolas, ganaderas y sus insumos, que no pueden ser aprovechados para otro fin se clasificarán y se dispondrán en contenedores para su disposición final.
 
 ###### Artículo 80.
 
@@ -1092,3 +1128,11 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 25 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
