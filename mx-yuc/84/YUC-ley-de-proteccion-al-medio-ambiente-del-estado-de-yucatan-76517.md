@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-al-medio-ambiente-del-estado-de-yucatan-76517
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-08"
-last_updated: "2010-09-08"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2014.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 8 de septiembre de 2010.
 
@@ -397,6 +397,10 @@ I.- Los ecosistemas son patrimonio común de la sociedad y de su equilibrio depe
 
 II.- Quienes realicen obras o actividades que afecten o puedan afectar el equilibrio ecológico o el ambiente, estarán obligados a prevenir, minimizar o reparar los daños que causen, así como asumir los costos que dicha afectación implique;
 
+> <small>(ADICIONADO, D.O. 25 DE ABRIL DE 2014)</small>
+
+Asimismo, debe incentivarse a quien proteja el ambiente, promueva o realice acciones de mitigación y adaptación a los efectos del cambio climático y aproveche de manera sustentable los recursos naturales.
+
 III.- La responsabilidad respecto al equilibrio ecológico, y la protección al ambiente comprende tanto las condiciones presentes como las necesarias para determinar la calidad de vida de las generaciones actuales y futuras;
 
 IV.- Para evitar los desequilibrios ecológicos, el medio más eficaz es la prevención de las causas que los generan;
@@ -527,9 +531,17 @@ V.- Será prioritario el establecimiento y administración de las áreas de cons
 
 VI.- En el proceso de creación, modificación y mejoramiento del ambiente, es indispensable fortalecer las previsiones de carácter ecológico, ambiental, así como los efectos causados por el cambio climático, para proteger y mejorar la calidad de vida;
 
-VII.- La observación de las disposiciones relativas contenidas en los Programas de Ordenamiento Ecológico del Territorio del Estado de Yucatán, y
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
 
-VIII.- Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental.
+VII.- La observación de las disposiciones relativas contenidas en los Programas de Ordenamiento Ecológico del Territorio del Estado de Yucatán;
+
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+VIII.- Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental, y
+
+> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+IX.- Las autoridades estatales y municipales, en la esfera de su competencia, deberán evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
 
 ###### Artículo 26.
 
@@ -1149,9 +1161,33 @@ VI.- Integrar y mantener actualizado un informe de los resultados obtenidos en l
 
 VII.- Solicitar a la autoridad competente el retiro de la circulación de los automotores cuyos niveles de emisión de contaminantes, rebasen los límites máximos permisibles determinados en las normas estatales y normas oficiales vigentes en la Entidad;
 
-VIII.- Dictar las medidas preventivas necesarias para evitar las contingencias ambientales por contaminación atmosférica, y
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
 
-IX.- Ejercer las demás facultades que le confieran otras disposiciones en materia ambiental.
+VIII.- Dictar las medidas preventivas necesarias para evitar las contingencias ambientales por contaminación atmosférica;
+
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+IX.- Aplicar los criterios generales para la protección de la atmósfera en las declaratorias de usos, destinos, reservas y provisiones del suelo, definiendo las zonas en que sea permitida la instalación de industrias;
+
+> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+X.- Promover la inserción de criterios ecológicos en los planes de desarrollo urbano estatal y municipal, para el mejoramiento de la calidad del aire;
+
+> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+XI.- Establecer y operar el Programa Estatal de Verificación Vehicular que sean de jurisdicción local;
+
+> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+XII.- Elaborar los informes sobre el estado del ambiente en la entidad o municipios correspondientes;
+
+> <small>(ADICIONADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+XIII.- Formular y aplicar programas de gestión de calidad del aire, con base en las Normas Oficiales Mexicanas y los criterios y normas técnicas estatales para establecer la calidad ambiental en el territorio estatal, y
+
+> <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
+
+XIV.- Ejercer las demás facultades que le confieran otras disposiciones en materia ambiental.
 
 ###### Artículo 101.
 
@@ -1508,3 +1544,11 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 25 DE ABRIL DE 2014.
+
+Artículo primero.- Las disposiciones de este Decreto entrarán en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo.- Para los efectos de este Decreto, se deroga todo aquello que conforme a la normativa estatal se oponga al mismo.
