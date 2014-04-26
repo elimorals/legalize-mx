@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2012-10-27"
+last_updated: "2014-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -1741,7 +1741,9 @@ Forma de las notificaciones
 
 Las notificaciones se deberán hacer:
 
-I.- Personalmente o por cédula;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2014)</small>
+
+I.- Personalmente por cédula;
 
 II.- Por lista;
 
@@ -1749,9 +1751,17 @@ III.- Por edictos;
 
 IV.- Por correo;
 
-V.- Por telégrafo; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2014)</small>
 
-VI.- Por cualquier otro medio idóneo diverso a los anteriores, que estime pertinente el juzgador.
+V.- Por telégrafo;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2014)</small>
+
+VI.- Por medio electrónico; y,
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2014)</small>
+
+VII.- Por cualquier otro medio idóneo diverso a los anteriores, que estime pertinente el juzgador.
 
 La forma como se deben llevar a cabo las notificaciones, se determinará con base en lo que disponen los artículos siguientes.
 
@@ -1774,6 +1784,10 @@ IV.- Las sentencias definitivas;
 V.- En casos urgentes o cuando concurran circunstancias especiales, a juicio del juzgador; y
 
 VI.- Los demás casos en que la ley expresamente lo disponga.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2014)</small>
+
+La notificación surtirá sus efectos al día hábil siguiente a aquél en que se practique.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -1800,6 +1814,22 @@ VII.- El nombre y cargo de la persona que practique la diligencia.
 La cédula también podrá entregarse a los parientes, empleados o domésticos del interesado o a cualquier otra persona que viva en el domicilio señalado, después de que el actuario se haya cerciorado de que ahí lo tiene la persona que deba ser notificada. En todo caso, el actuario deberá exponer en el acta que levante de la diligencia, los medios por los cuales se haya cerciorado de que ahí tiene su domicilio la persona buscada.
 
 Al acta que se levante de la diligencia deberá agregarse copia de la cédula, de ser posible con la firma de recibido de la persona a la que se haya entregado el original.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2014)</small>
+
+Las partes podrán autorizar que se le realicen notificaciones de carácter personal por medio electrónico, a excepción del emplazamiento, proporcionando la dirección electrónica en la que deseen recibir tales notificaciones, lo que implicará la autorización expresa del solicitante en el sentido de que dichas notificaciones se tendrán por legalmente practicadas y surtirán todos sus efectos legales.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2014)</small>
+
+Las cédulas que se transmitan por vía electrónica deberán cumplir con los requisitos previstos en este artículo.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2014)</small>
+
+Se agregará al expediente físico, una impresión de la cédula respectiva, la cual será firmada por el notificador que la haya practicado y se le colocará el sello del juzgado respectivo. Además, el notificador hará constar en el expediente los datos que permitan identificar cada una de las notificaciones transmitidas por medio electrónico y que aseguren que fueron enviadas a sus destinatarios.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2014)</small>
+
+La notificación por vía electrónica se tendrá por practicada y surtirá todos sus efectos legales al día hábil siguiente de su realización, con independencia de la fecha en que se consulte el medio respectivo.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9989,7 +10019,7 @@ LIC. VÍCTOR MANUEL BARCELÓ RODRÍGUEZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 15 DE OCTUBRE DE 2003.
 
@@ -10040,3 +10070,9 @@ En cuanto a los procedimientos iniciados y que se encuentren en trámite, se les
 P.O. 27 DE OCTUBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ABRIL DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
