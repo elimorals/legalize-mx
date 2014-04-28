@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-fideicomiso-que-administrara-el-fondo-para-1841
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2009-08-13"
+last_updated: "2014-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18418&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2000-12-27"
 ---
 # LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARA EL FONDO PARA EL FORTALECIMIENTO DE SOCIEDADES Y COOPERATIVAS DE AHORRO Y PRESTAMO Y DE APOYO A SUS AHORRADORES
 
-LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARA EL FONDO PARA EL FORTALECIMIENTO DE SOCIEDADES Y COOPERATIVAS DE AHORRO Y PRESTAMO Y DE APOYO A SUS AHORRADORES
+LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARA EL FONDO PARA EL FORTALECIMIENTO DE SOCIEDADES Y COOPERATIVAS DE AHORRO Y PRÉSTAMO Y DE APOYO A SUS AHORRADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 29 de diciembre de 2000.
 
@@ -77,13 +77,17 @@ VII. Saldo Neto de Ahorro: el resultado del monto que conste en los títulos de 
 
 VIII. Secretaría: a la Secretaría de Hacienda y Crédito Público;
 
-IX. Sociedad Objeto de esta Ley, en singular o plural: a las sociedades a que se refiere el artículo 7o. de esta Ley y que manifiesten su intención de apegarse a los términos de la Ley de Ahorro y Crédito Popular, o que en virtud de no poder ajustarse a los requisitos establecidos en la misma, deban proceder a su disolución y liquidación o que se encuentren en procedimiento de quiebra, en concurso o entren en concurso mercantil;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+IX. Sociedad Objeto de esta Ley, en singular o plural: a las sociedades a que se refiere el artículo 7o. de esta Ley y que manifiesten su intención de apegarse a los términos de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, o que en virtud de no poder ajustarse a los requisitos establecidos en ésta, deban proceder a su disolución y liquidación o que se encuentren en procedimiento de quiebra, en concurso o entren en concurso mercantil;
 
 > <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
 
 X. Trabajos de Auditoría Contable: a los trabajos de análisis y evaluación de los estados financieros de una sociedad cuyos ahorradores sean sujetos de apoyo en los términos de esta Ley, los cuales deberán ser pagados con recursos públicos provenientes de las entidades federativas en las que se ubiquen dichas sociedades; estos trabajos deberán realizarse con apego a los principios de contabilidad generalmente aceptados, y con base en normas de auditoría generalmente aceptadas, y
 
-XI. Trabajos de Consolidación: a los trabajos que se lleven a cabo en las Sociedades Objeto de esta Ley, con excepción de las señaladas en el artículo 7o. fracción I, por consultores con experiencia internacional en finanzas populares; estos trabajos comprenden asistencia técnica en materia de mejora, estabilización, saneamiento y/o liquidación de Sociedades, los cuales serán contratados por el Gobierno Federal a través del Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo, en su carácter de agente financiero del Gobierno Federal, con recursos provenientes de organismos financieros internacionales.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+XI. Trabajos de Consolidación: a los trabajos que se lleven a cabo en las Sociedades Objeto de esta Ley, con excepción de las señaladas en el artículo 7o, fracción I, por consultores con experiencia en finanzas populares, los cuales podrán ser contratados por el Gobierno Federal a través del Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo o por la institución pública que al efecto determine la Secretaría. Estos trabajos comprenden una auditoría contable consistente en el análisis y evaluación de los estados financieros de la sociedad de que se trate para valuar sus activos y pasivos, así como de asistencia técnica para determinar lo conducente en términos de las fracciones II y IV del artículo 8o Bis o bien, la liquidación de las Sociedades.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -173,9 +177,9 @@ XIII. Girar instrucciones a la Fiduciaria acerca de las personas a quienes deber
 
 XIV. Proponer las modificaciones que se pretendan realizar al Fideicomiso;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-XV. Determinar los casos en los que la Fiduciaria podrá renunciar a los derechos de cobro respecto de los cuales se haya subrogado en términos de lo señalado por el artículo 11, Base SEXTA de esta Ley, siempre que tal renuncia sea en beneficio de ahorradores no apoyados por el Fideicomiso en términos de la misma; o bien, cuando la Fiduciaria lo solicite en virtud de la notoria imposibilidad legal o material de hacer efectivos los mencionados derechos, o que los procesos que deban seguirse para hacerlos efectivos resulten excesivamente onerosos. Cuando se determine renunciar a los derechos de cobro de conformidad con lo establecido en la presente fracción, los recursos aportados para el pago a ahorradores serán a fondo perdido;
+XV. Determinar los casos en los que la Fiduciaria podrá renunciar a los derechos de cobro respecto de los cuales se haya subrogado en términos de lo señalado por el artículo 11, Base SEXTA de esta Ley o en los que tenga carácter de acreedor en virtud de los apoyos otorgados en términos del artículo 8o. Bis de esta Ley, siempre que se presenten elementos al Comité que hagan procedente tal renuncia en beneficio de ahorradores no apoyados por el Fideicomiso o se considere conveniente para lograr la finalidad de esta Ley o para darle viabilidad a los esquemas de apoyo implementados bajo la misma; o bien, cuando la Fiduciaria lo solicite en virtud de la notoria imposibilidad legal o material de hacer efectivos los mencionados derechos, que los procesos que deban seguirse para hacerlos efectivos resulten excesivamente onerosos. Cuando se determine renunciar a los derechos de cobro de conformidad con lo establecido en la presente fracción, los recursos aportados serán a fondo perdido;
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -195,11 +199,15 @@ XVIII. Cualesquiera otras derivadas de la legislación aplicable y de la present
 
 Las Sociedades Objeto de esta Ley, se dividirán en:
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-I. Sociedades de Tipo "I": a) Sociedades de Ahorro y Préstamo que se hayan constituido conforme a la Ley General de Organizaciones y Actividades Auxiliares del Crédito, y que ya no realicen operaciones activas ni pasivas; b) Sociedades Cooperativas que cuenten con secciones de ahorro y préstamo que se hayan organizado conforme a la Ley General de Sociedades Cooperativas, y que ya no realicen operaciones activas ni pasivas; c) Asociaciones y Sociedades Civiles que hayan realizado actividades de captación de recursos de sus integrantes para su colocación entre éstos, que ya no realicen operaciones activas ni pasivas; d) Sociedades de Solidaridad Social a que hace referencia la Ley de Sociedades de Solidaridad Social, que hayan realizado actividades de captación de recursos de sus integrantes para su colocación entre éstos, que ya no realicen operaciones activas ni pasivas.
+I. Sociedades de tipo "I": a) Sociedades de Ahorro y Préstamo que se hayan constituido conforme a la Ley General de Organizaciones y Actividades Auxiliares del Crédito y que ya no realicen operaciones activas ni pasivas; b) Sociedades Cooperativas que cuenten con secciones de ahorro y préstamo que se hayan organizado conforme a la Ley General de Sociedades Cooperativas, y que ya no realicen operaciones activas ni pasivas; c) Asociaciones y Sociedades Civiles que hayan realizado operaciones de captación de recursos de sus integrantes para su colocación entre estos, que ya no realicen operaciones activas ni pasivas; d) Sociedades de Solidaridad Social a que hace referencia la Ley de Sociedades de Solidaridad Social, que hayan realizado actividades de captación de recursos de sus integrantes para su colocación entre estos, que ya no realicen operaciones ni activas ni pasivas y, e) Sociedades Cooperativas de Ahorro y Préstamo que hubiesen sido clasificadas en categoría D, por el Comité de Supervisión Auxiliar del Fondo de Protección previsto en la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, o que no hubieren dado cumplimiento a lo dispuesto por el Artículo Primero o la fracción II del Artículo Tercero Transitorios de esta última que estén o no realizando operaciones activas y pasivas.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 En los casos a los que se refieren los incisos c) y d) se requerirá adicionalmente que durante el tiempo en que realizaron dichas operaciones, hayan observado el primer párrafo del artículo 38-P de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, en lo referente al número de integrantes o el monto de activos señalados en las Reglas Generales emitidas por la Secretaría, es decir, que indistintamente se cumpla con el requisito de que el número total de sus socios no fue superior a quinientos sin importar el monto total de sus activos, o bien, habiendo sido este número mayor, el monto de sus activos no excedió el millón y medio de pesos;
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 Para efectos de las sociedades señaladas en los incisos c) y d) anteriores, también serán Sociedades Objeto de esta Ley, las que hayan solicitado autorización a la Secretaría para constituirse y operar como sociedades de ahorro y préstamo;
 
@@ -211,9 +219,9 @@ II. Sociedades de tipo “II”: A las mismas sociedades a que se refieren los i
 
 Sólo podrán acogerse al contenido de este ordenamiento, las Sociedades Objeto de esta Ley, que cumplan los siguientes requisitos y condiciones:
 
-> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-I. Haberse constituido legalmente antes del 31 de diciembre de 2002, y acreditar que cumplen con los supuestos a que se refiere el artículo 7o de la Ley;
+I. Haberse constituido legalmente antes del 31 de diciembre de 2002, o haberse inscrito en el registro a que se refiere el artículo 7 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo antes del 1 de febrero de 2014, o haberse constituido a más tardar el 13 de agosto de 2009 y haber dejado de celebrar operaciones pasivas y activas antes del 31 de diciembre de 2012.
 
 II. Tratándose de las sociedades a que se refiere la fracción I del artículo inmediato anterior, deberán someterse a un Trabajo de Auditoría Contable y aceptar el resultado del mismo. En el caso de las sociedades a que se refiere la fracción II del mismo artículo, deberán someterse a un Trabajo de Consolidación, así como acatar su resultado, derivado del cual se deberá instrumentar cualquiera de los esquemas a que se refiere el artículo 8o. BIS de esta Ley.
 
@@ -221,7 +229,9 @@ II. Tratándose de las sociedades a que se refiere la fracción I del artículo 
 
 En caso de que el Trabajo de Consolidación determine la procedencia del esquema de disolución y liquidación, dicho Trabajo establecerá cuáles son los activos de la Sociedad en cuestión. La Sociedad de que se trate utilizará sus activos líquidos para disminuir sus pasivos con los Ahorradores, previo a la participación del Fideicomiso en el proceso de apoyo;
 
-III. Firmar el convenio correspondiente con la Fiduciaria, en caso de que el Trabajo de Consolidación que se le haya aplicado determine la procedencia para el otorgamiento de alguno de los apoyos a que se refieren las fracciones II y III del artículo 8o. BIS siguiente; en dicho convenio las Sociedades Objeto de esta Ley se obligarán a dar seguimiento y cumplimiento en forma exacta al esquema que el Trabajo de Consolidación respectivo haya determinado que es más conveniente para que se mantengan en operación.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+III. Firmar el convenio correspondiente con la Fiduciaria, en caso de que el Trabajo de Consolidación que se le haya aplicado determine la procedencia para el otorgamiento de algunos de los apoyos a que se refieren las fracciones II y IV del artículo 8o. BIS siguiente. En dicho convenio las Sociedades Objeto de esta Ley se obligarán a dar seguimiento y cumplimiento en forma exacta al esquema que el Trabajo de Consolidación haya determinado aplicable.
 
 El mencionado convenio contemplará, entre otras cuestiones, las sanciones a que se hará acreedora la Sociedad Objeto de esta Ley, en caso de no cumplir con algunas de sus disposiciones, así como con cualquiera de las obligaciones que esta Ley le impone;
 
@@ -231,39 +241,51 @@ IV. (DEROGADA, D.O.F. 31 DE AGOSTO DE 2007)
 
 V. Tratándose de sociedades cuyos Ahorradores sean sujetos de apoyo conforme a lo establecido en el artículo 1o. fracción II de esta Ley, éstas deberán acreditar haber iniciado los trámites para efectuar los Trabajos de Auditoría Contable con el propósito de determinar su insolvencia en el caso de las sociedades señaladas en el artículo 7 fracción I; en el caso de las sociedades señaladas en la fracción II del citado artículo, éstas deberán acreditar haber iniciado los Trabajos de Consolidación.
 
-Asimismo, las sociedades de que trata esta fracción, deberán acreditar que previamente a su disolución y liquidación, quiebra o concurso, según sea el caso, no experimentaron una reducción drástica en sus disponibilidades e inversiones en valores por causas distintas a la operación habitual de la misma, en los seis meses anteriores a la fecha en que se determine su insolvencia. Para tales efectos, se entiende que existe una reducción drástica, cuando se presenta una disminución en el saldo conjunto de disponibilidades e inversiones en valores igual o mayor al 40% del saldo promedio de dichos conceptos, observado en los dos últimos años.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-Las disponibilidades e inversiones en valores a que se refiere el párrafo anterior, serán clasificadas de acuerdo con los criterios emitidos por la Comisión Nacional Bancaria y de Valores para el caso de las entidades de ahorro y crédito popular.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-Si como consecuencia de los resultados de los Trabajos de Auditoría Contable, se hubiere dictaminado una reducción drástica en las referidas disponibilidades e inversiones en valores por causas distintas a la operación habitual de alguna sociedad de las referidas en esta fracción, así como su posterior reintegración, se tendrá por acreditado el requisito a que se refiere esta fracción.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-En el caso de los apoyos a que se refiere el esquema descrito en la fracción II del artículo 8o. BIS, las Sociedades Objeto de esta Ley deberán presentar copia certificada del o los acuerdos de los órganos competentes en el o los que se hayan acordado su fusión con alguna entidad de ahorro y crédito popular, o bien, del esquema jurídico o financiero que implique la cesión de activos y pasivos a ésta, cumpliendo con los requisitos que se establecen en esta Ley, así como aceptar someterse a lo que la entidad de ahorro y crédito popular fusionante o cesionaria determine, con relación a la integración de sus Órganos de Gobierno.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-Para poder recibir los apoyos a que se refiere el esquema descrito en la fracción III del artículo 8o. BIS, las Sociedades Objeto de esta Ley deberán exhibir copia certificada del o los acuerdos de los órganos competentes en el que se haya acordado su transformación en alguna de las sociedades que prevé la Ley de Ahorro y Crédito Popular; su afiliación a una Federación o, en su caso, acordar su supervisión auxiliar con alguna Federación; así como la remoción de su o sus administradores o sus órganos equivalentes, y
+En el caso de los apoyos a que se refiere el esquema descrito en la fracción II del artículo 8o BIS, las Sociedades Objeto de esta Ley deberán presentar copia certificada del o los acuerdos de los órganos competentes en el o los que se hayan acordado su fusión con alguna Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación del I al IV, o bien, del esquema jurídico o financiero que implique la cesión de activos y pasivos hacia cualquier persona, cumpliendo con los requisitos que se establecen en esta Ley y en apego a las demás disposiciones legales, así como aceptar someterse a lo que la entidad fusionante o cesionaria determine, con relación a la integración de sus Órganos de Gobierno.
 
-> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-VI. Tratándose de Sociedades Objeto de esta Ley que se encuentren en procedimiento de quiebra, en concurso o lleguen a ubicarse en concurso mercantil o civil, cumplirán los requisitos a que se refieren las fracciones I, II, IV y V del presente artículo, en el entendido de que los Trabajos de Auditoría Contable podrán ser llevados a cabo por el síndico tratándose del procedimiento de quiebra, o por los especialistas del proceso concursal, o por sus equivalentes en el concurso civil, según corresponda.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+VI. Tratándose de Sociedades Objeto de esta Ley que se encuentren en procedimiento de quiebra, en concurso o lleguen a ubicarse en concurso mercantil o civil, cumplirán con los requisitos a que se refieren las fracciones I, II y V del presente artículo, en el entendido de que los Trabajos de Auditoría Contable podrán ser llevados a cabo por el síndico tratándose del procedimiento de quiebra, o por los especialistas del proceso concursal, o por sus equivalentes en el concurso civil, según corresponda.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ARTÍCULO 8o BIS.- Los esquemas que se podrán implementar como resultado de los Trabajos de Consolidación, son los siguientes:
 
-I. Disolución y liquidación; en cuyo caso las Sociedades Objeto de esta Ley a las cuales se aplique este esquema deberán someterse a un Trabajo de Auditoría Contable y aceptar el resultado del mismo, así como realizar los actos corporativos para estos efectos, en los plazos que dicte el Comité, como condición para que se efectúe el pago a sus Ahorradores, además de cumplir con los demás requisitos que al efecto se establecen en la presente Ley;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-II. Fusión con una entidad de ahorro y crédito popular autorizada por la Comisión Nacional Bancaria y de Valores para operar como tal, o bien algún otro esquema jurídico o financiero que implique la cesión de activos y pasivos provenientes de alguna Sociedad Objeto de esta Ley, a una entidad de ahorro y crédito popular autorizada por la mencionada Comisión. Este esquema deberá sujetarse a lo siguiente:
+I. Disolución y liquidación; en cuyo caso las Sociedades Objeto de esta Ley a las cuales se aplique este esquema deberán someterse a un Trabajo de Auditoría Contable y realizar los actos corporativos para esos efectos, en los plazos que dicte el Comité, como condición para que se efectúe el pago a sus Ahorradores, además de cumplir con los demás requisitos que al efecto se establecen en la presente Ley;
 
-a) Sólo podrán participar en este esquema, las entidades de ahorro y crédito popular que no hayan sido objeto de apoyo a través de alguno de los esquemas señalados en la presente fracción, así como en las fracciones III y IV siguientes;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-b) El Trabajo de Consolidación correspondiente, deberá clasificar contablemente la cartera crediticia de la Sociedad Objeto de esta Ley de que se trate, identificando la cartera vigente y la vencida, así como calificar la propia cartera crediticia y estimar el faltante de provisiones, de acuerdo con las Reglas que emita la Comisión Nacional Bancaria y de Valores, aplicables a las entidades de ahorro y crédito popular en esta materia;
+II. Fusión con una Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación del I al IV, o bien algún otro esquema jurídico o financiero que implique la cesión de activos y pasivos hacia cualquier persona, cumpliendo con los requisitos que se establecen en esta Ley y en apego a las demás disposiciones legales. Este esquema deberá sujetarse a lo siguiente:
 
-c) El faltante de provisiones que se determine de conformidad con la calificación que se haga de la cartera en el Trabajo de Consolidación, será cubierto con cargo al patrimonio del Fideicomiso y la totalidad de la cartera será administrada por la entidad de ahorro y crédito popular, llevándose a cabo los actos jurídicos necesarios;
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+a) Sólo podrán participar en este esquema las Sociedades Objeto de esta Ley que no hayan sido apoyadas a través de alguno de los esquemas señalados en la presente fracción, así como en la fracción IV siguiente;
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+b) El Trabajo de Consolidación correspondiente, deberá clasificar contablemente la cartera crediticia de la Sociedad Objeto de esta Ley de que se trate, identificando la cartera vigente y la vencida, así como calificar la propia cartera crediticia y estimar el faltante de provisiones, de acuerdo con las Reglas que emita la Comisión Nacional Bancaria y de Valores, aplicables a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación del I al IV en esta materia;
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+c) El faltante de provisiones que se determine de conformidad con la calificación que se haga de la cartera en el Trabajo de Consolidación, será cubierto con cargo al patrimonio del Fideicomiso y la totalidad de la cartera será administrada por la sociedad fusionante o cesionaria, para lo cual se llevarán a cabo los actos jurídicos necesarios;
 
 d) (DEROGADO, D.O.F. 31 DE AGOSTO DE 2007)
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-e) En el convenio con la Fiduciaria, se establecerá entre ésta y la entidad de ahorro y crédito popular, un esquema de incentivos a efecto de lograr la mayor recuperación posible de la cartera que dicha entidad tenga bajo su administración y que hubiere sido provisionada con cargo al patrimonio del Fideicomiso;
+e) En el convenio con la Fiduciaria, se establecerá un esquema de incentivos con el fin de lograr la mayor recuperación posible de la cartera que hubiere sido provisionada con cargo al patrimonio del Fideicomiso;
 
 f) La cartera que se haya clasificado como cartera vencida y que tenga este carácter durante un plazo mayor de 270 días, contado a partir de que se emita dicha clasificación, se considerará irrecuperable, procediendo el Comité a ordenar su quebranto, y
 
@@ -275,11 +297,13 @@ ii) Efectuada la aplicación a que se refiere la fracción anterior, se proceder
 
 iii) Derivado de lo anterior, las partes sociales de la Sociedad Objeto de esta Ley serán tomadas a su valor contable para efectos del canje a que se refiere el numeral iv) siguiente;
 
-iv) En ejercicio de su derecho preferente y conforme al porcentaje de su participación social, los socios efectuarán las aportaciones correspondientes a fin de obtener el canje de las partes sociales, dentro del plazo que se convenga con la entidad de ahorro y crédito popular, y
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+iv) En caso de fusión o cesión de activos y pasivos con una Sociedad Cooperativa de Ahorro y Préstamo con Nivel de Operación I a IV, en ejercicio de su derecho preferente y conforme al porcentaje de su participación social, los socios efectuarán las aportaciones correspondientes a fin de obtener el canje de las partes sociales, dentro del plazo que se convenga con la Sociedad Cooperativa de Ahorro y Préstamo con Nivel de Operación I a IV, quedando a juicio de esta última hacer las aportaciones correspondientes, y
 
 v) La Sociedad Objeto de esta Ley que haya cedido sus activos y pasivos, deberá entrar en estado de disolución.
 
-III. Otorgamiento de créditos del Fideicomiso a Sociedades Objeto de esta Ley y/o adquisición de instrumentos de capitalización emitidos por éstas a cargo del Fideicomiso, cuyos montos serán determinados por el Trabajo de Consolidación respectivo. Este esquema deberá sujetarse a lo siguiente:
+III. (DEROGADA, D.O.F. 28 DE ABRIL DE 2014)
 
 a) Con base en el presente esquema y en virtud de lo determinado por el Trabajo de Consolidación correspondiente, el Fideicomiso otorgará un crédito a la Sociedad Objeto de esta Ley de que se trate, o bien, adquirirá instrumentos de capitalización emitidos por ésta, cuando la normatividad que les sea aplicable así lo permita. Los términos y condiciones del crédito, así como las características de los instrumentos de capitalización, serán determinados por el Comité;
 
@@ -295,13 +319,15 @@ f) Los recursos que se depositen en la institución de banca de desarrollo de qu
 
 IV. Cualquier otro esquema diverso de los anteriores, señalando las reglas y condiciones correspondientes, que sea propuesto en los Trabajos de Consolidación como alternativa para el saneamiento de la Sociedad Objeto de esta Ley de que trate.
 
-Las sociedades a las cuales se aplique cualquiera de los esquemas señalados en el presente artículo, tendrán la obligación de presentar informes trimestrales, tanto de los avances en el proceso de disolución y liquidación en el caso del esquema contenido en la fracción I; como del cumplimiento de las metas establecidas en los convenios a que se refiere la fracción III del artículo 8o. anterior a la Fiduciaria. Tratándose de los esquemas señalados en las fracciones II y III de este artículo, deberán presentarse al Comité de Supervisión de la Federación que le corresponda o, en su caso, al que le indique la Comisión Nacional Bancaria y de Valores. Sin perjuicio de lo anterior, las sociedades a que se refiere el presente párrafo deberán proporcionar cualquier otra información que en su momento les sea solicitada por la Fiduciaria o el Comité.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+Las sociedades a las cuales se aplique cualquiera de los esquemas señalados en el presente artículo, tendrán la obligación de presentar informes a la Fiduciaria con la periodicidad que ésta lo establezca, tanto de los avances en el proceso de disolución y liquidación en el caso del esquema contenido en la fracción I, como del cumplimiento de las metas establecidas en los convenios a que se refiere la fracción III del artículo 8o. Sin perjuicio de lo anterior, las sociedades a que se refiere el presente párrafo deberán proporcionar cualquier otra información que en su momento les sea solicitada por la Fiduciaria o el Comité.
 
 Los beneficios que en su caso consideren los esquemas contenidos en el presente artículo, sólo podrán ser aplicados a las Sociedades Objeto de esta Ley en una ocasión, y una vez que se determine la aplicación de uno de los esquemas descritos en este artículo, la sociedad de que se trate no podrá acceder a ningún otro.
 
-> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-Los esquemas previstos en las fracciones II a IV de este artículo, únicamente aplicarán cuando el apoyo que deba otorgar el Fideicomiso en términos de lo que en esas fracciones se establece resulte inferior al monto que para la misma sociedad debería aportar el Fideicomiso para el caso de pago a Ahorradores.
+Asimismo, los esquemas a que se refieren las fracciones II y IV anteriores únicamente aplicarán cuando el apoyo que deba otorgar el Fideicomiso en términos de lo que en esas fracciones se establece resulte inferior al monto que para la misma sociedad debería aportar el Fideicomiso para el esquema del pago a Ahorradores, y deberán implementarse, de resultar procedentes, en los plazos previstos en los propios Trabajos de Consolidación, sin que en ningún caso dicha implementación exceda de un plazo de doce meses contado a partir de que los resultados de los trabajos se notifiquen a la sociedad. En caso de que el costo del apoyo antes referido resulte mayor o si los esquemas no se implementan en el plazo previsto en el Trabajo de Consolidación, procederá la disolución y liquidación prevista en la fracción I del presente artículo.
 
 ###### ARTÍCULO 9o.
 
@@ -856,3 +882,49 @@ CUARTO.- Las referencias que otras Leyes, reglamentos o disposiciones hagan resp
 QUINTO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 28 DE ABRIL DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, excepto por lo dispuesto en los artículos siguientes.
+
+SEGUNDO.- Las sociedades que a la entrada en vigor de este Decreto, ya se hubieren sometido a un trabajo de consolidación en términos de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, deberán concluir su implementación en los términos establecidos en el propio trabajo de consolidación.
+
+TERCERO.- Las evaluaciones a que se refiere el artículo 15 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, deberán realizarse a partir del 1 de junio de 2015.
+
+CUARTO.- Las sociedades a que se refiere el primer párrafo del Artículo Tercero de los TRANSITORIOS DEL ARTICULO PRIMERO, del "Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito", publicado en el Diario Oficial de la Federación, el 13 de agosto de 2009, que al 31 de marzo de 2014 estuvieren clasificadas en las categorías A, B o C y que no hubieren presentado su solicitud de autorización ante la Comisión para continuar realizando operaciones de ahorro y préstamo en términos de dicho precepto, en excepción a lo dispuesto en el primer párrafo del Artículo Cuarto Transitorio del "Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito", publicado en el Diario Oficial de la Federación, el 13 de agosto de 2009, podrán seguir realizando operaciones que impliquen captación de recursos en términos de la Ley para regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y de la Ley de Instituciones de Crédito, durante un plazo de doce meses contado a partir de que se notifiquen a la sociedad correspondiente los resultados de los trabajos de consolidación, en términos de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, y siempre y cuando:
+
+I. A más tardar el 30 de abril de 2014, manifiesten a la Comisión su intención de sujetarse a los trabajos de consolidación a que se refiere la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores y le presenten copia de su escritura constitutiva; un listado de todas las sucursales u oficinas de atención al público que tengan, señalando su ubicación y estados financieros al 31 de diciembre de 2013. Asimismo, deberán presentar a la Comisión a más tardar el 30 de mayo de 2014 estados financieros al 31 de marzo de 2014; bases de datos con información relativa a la captación y operaciones de crédito individualizadas por socio al 31 de marzo de 2014, las cuales deberán estar contenidas en un dispositivo de almacenamiento electrónico y copia de la publicación en un diario de circulación local correspondiente al domicilio social de la sociedad de la convocatoria a la Asamblea General de Socios a celebrarse a más tardar 90 días contados a partir del día siguiente de dicha publicación, en cuyo orden del día se establezca lo siguiente:
+
+a) Informe relativo a la falta de presentación de la solicitud de autorización a que se refiere el Artículo Tercero Transitorio del "Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito", publicado en el Diario Oficial de la Federación, el 13 de agosto de 2009, así como de sus consecuencias para la Sociedad.
+
+b) Propuesta para facultar al Consejo de Administración para que realice las gestiones necesarias a fin de que la sociedad pueda ser beneficiaria de los esquemas a que se refiere el artículo 8o. BIS de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+
+c) Aceptación de los términos que resulten del trabajo de consolidación derivado de las gestiones del inciso anterior.
+
+II. A más tardar el 31 de octubre de 2014, la sociedad solicite la inscripción en el Registro Público de Comercio del acta de la sesión de la Asamblea General mencionada en la fracción anterior, dentro de un plazo de 15 días naturales posteriores a su celebración, así como que presente ante la Comisión dicha acta debidamente protocolizada.
+
+III. A más tardar el 31 de octubre de 2014, la sociedad haya recibido del Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, el escrito en que se le informe del cumplimiento de los requisitos para dar inicio al trabajo de consolidación correspondiente y presente copia de tal documento a la Comisión. Asimismo, la sociedad deberá presentar, en tiempo y forma, la información que con motivo de la realización de los trabajos de consolidación le sea requerida.
+
+IV. La sociedad no celebre operaciones con nuevos socios, ni establezca nuevas sucursales u oficinas de atención al público.
+
+En caso de incumplirse alguno de los requisitos establecidos en las fracciones anteriores, las mencionadas sociedades deberán abstenerse de realizar operaciones que impliquen captación de recursos, a partir de la actualización del incumplimiento.
+
+La misma restricción será aplicable de no iniciarse los trabajos de consolidación a que se refiere la fracción XI del artículo 2o. de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, o de no implementarse éstos en tiempo y forma por causas imputables a la sociedad. Para verificar lo anterior la Comisión podrá requerir toda la información necesaria.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo, Sociedades Financieras Populares, Sociedades Financieras de Objeto Múltiple, Instituciones de Banca Múltiple, Casas de Bolsa, así como las instituciones integrantes de la Administración Pública Federal, con excepción de las Instituciones de Banca de Desarrollo, o Estatal y fideicomisos públicos, constituidos por el Gobierno Federal o estatales para el fomento económico, que realicen actividades financieras, tendrán prohibido celebrar operaciones activas, pasivas o de servicios con las Sociedades Cooperativas que se ubiquen en los supuestos de incumplimiento a que se refiere este artículo. Asimismo, dichas entidades deberán realizar los actos necesarios para rescindir las operaciones que tuvieren contratadas con las referidas Sociedades Cooperativas, de conformidad con las disposiciones legales aplicables y acorde a la naturaleza de tales operaciones.
+
+QUINTO.- A las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere el primer párrafo del artículo Tercero de los TRANSITORIOS DEL ARTICULO PRIMERO, del "Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito", publicado en el Diario Oficial de la Federación, el 13 de agosto de 2009, que habiendo presentado su solicitud de autorización ante el Comité de Supervisión Auxiliar reciban de este un dictamen desfavorable, o les sea negada la autorización correspondiente por la Comisión, les resultará aplicable lo dispuesto en el artículo Cuarto anterior.
+
+Al efecto, para dar cumplimiento a lo dispuesto por la fracción I del artículo Cuarto anterior, relativo a la convocatoria a la Asamblea General de Socios, las Sociedades referidas contarán con un plazo de 30 días contados a partir de la notificación del dictamen desfavorable o resolución desfavorable, según sea el caso. En sustitución del informe señalado en el inciso a) de dicho precepto, deberán presentar una copia del dictamen o resolución desfavorable.
+
+Asimismo las Sociedades a las que se refiere el párrafo anterior, tendrán 60 días a partir de la fecha antes mencionada para celebrar la Asamblea a que se refiere el párrafo anterior.
+
+Asimismo, contarán con noventa días contados a partir de la citada notificación para cumplir con lo establecido en las fracciones II y III del referido artículo Cuarto anterior.
+
+SEXTO.- El plazo previsto en el tercer párrafo del Artículo Quinto anterior, comenzará a computar a partir de la publicación de este instrumento, respecto de aquellas Sociedades Cooperativas de Ahorro y Préstamo que sean notificadas del dictamen desfavorable o bien, de la resolución en sentido negativo de la Comisión Nacional Bancaria y de Valores, con anterioridad al 1 de abril de 2014.
+
+Asimismo, si las sociedades señaladas presentaron ante el Comité de Supervisión Auxiliar una solicitud de revisión del dictamen desfavorable que les hubiere sido expedido en términos de lo preceptuado por el artículo 10, quinto párrafo de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, podrán presentar a la Comisión Nacional Bancaria y de Valores el dictamen desfavorable, sin esperar a que concluya la revisión solicitada, a efecto de acogerse a lo contenido en el Artículo Cuarto Transitorio anterior de este Decreto.
+
+SÉPTIMO.- Una vez que venzan los plazos establecidos en el presente Decreto, las personas que realicen operaciones de captación en contravención a este instrumento legal podrán incurrir en alguna responsabilidad penal en el grado de autoría o participación que determinen las Leyes aplicables, por lo que cualquiera que tenga conocimiento de algún hecho presumiblemente constitutivo de delito lo podrá hacer del conocimiento de las autoridades competentes.
+
+Para los efectos del párrafo anterior, también se considerarán responsables penalmente aquellas personas que determinen dolosamente a otro a la realización de las conductas ilícitas o los que lo lleven a cabo sirviéndose de otro.
