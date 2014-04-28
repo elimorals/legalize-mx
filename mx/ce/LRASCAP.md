@@ -4,7 +4,7 @@ identifier: "LRASCAP"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-13"
-last_updated: "2014-01-10"
+last_updated: "2014-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69506&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRASCAP"
 
 LEY PARA REGULAR LAS ACTIVIDADES DE LAS SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2014.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el jueves 13 de agosto de 2009.
 
@@ -102,6 +102,12 @@ Se exceptúa de la aplicación de lo anterior, a las cajas de ahorro a que hace 
 
 Las Sociedades Cooperativas de Ahorro y Préstamo estarán exceptuadas de lo que se establece en el primer párrafo del artículo 103 de la Ley de instituciones de Crédito y, en consecuencia, podrán captar recursos monetarios de sus Socios de conformidad con lo que establece la fracción V de dicho artículo.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+###### Artículo 4 Bis.
+
+Los socios deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa en términos de lo que al efecto dispone la Ley General de Sociedades Cooperativas, y de ser suyas las firmas o las huellas digitales que obran en el acta constitutiva, exclusivamente ante fedatario público.
+
 ###### Artículo 5.
 
 En lo no previsto por la presente Ley, a los sujetos de la misma se les aplicarán de manera supletoria y en el orden siguiente:
@@ -140,9 +146,11 @@ Asimismo, el Fondo de Protección deberá proporcionar la información contenida
 
 De manera adicional, el Fondo de Protección deberá poner a disposición del público en general, la información correspondiente al registro a que se refiere el presente Artículo en su página electrónica en la red mundial “Internet”.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
 ###### Artículo 8.
 
-Las Sociedades Cooperativas de Ahorro y Préstamo deberán solicitar su inscripción en el registro a que se refiere el Artículo 7 anterior, dentro de los 180 días naturales siguientes a su inscripción en el Registro Público de Comercio del domicilio social correspondiente.
+Las Sociedades Cooperativas de Ahorro y Préstamo deberán solicitar su inscripción en el registro a que se refiere el Artículo 7 anterior, dentro de los 5 días naturales siguientes a su inscripción en el Registro Público de Comercio del domicilio social correspondiente.
 
 El citado registro deberá solicitarse ante el Comité de Supervisión Auxiliar. Para tales efectos, las Federaciones podrán actuar como coadyuvantes de las Sociedades Cooperativas de Ahorro y Préstamo para que cumplan con el citado registro.
 
@@ -150,7 +158,9 @@ En este último caso, las Federaciones que actúen como coadyuvantes, serán cor
 
 El Comité de Supervisión Auxiliar deberá informar a la Comisión haber efectuado la inscripción en el registro de las Sociedades Cooperativas de Ahorro y Préstamo, en la forma y términos que al efecto establezca la Comisión mediante disposiciones de carácter general.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+El Comité de Supervisión Auxiliar cancelará el registro de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV cuya autorización para continuar realizando operaciones de ahorro y préstamo sea revocada por la Comisión; de las Sociedades Cooperativas de Ahorro y Préstamo de nivel básico que por haber sido evaluadas en categoría D se les ordene su disolución y liquidación o bien, de las que acuerden su disolución y liquidación.
 
 ###### Artículo 9.
 
@@ -174,7 +184,11 @@ VIII. El nivel de operaciones que corresponda. Tratándose de Sociedades Coopera
 
 IX. En su caso, nombre y domicilio de la Federación a la que esté afiliada.
 
-X. Otras anotaciones registrales.
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+X. En su caso, la causa por la que se cancele el registro.
+
+XI. Otras anotaciones registrales.
 
 El Comité de Supervisión Auxiliar deberá actualizar la información del citado registro de manera trimestral y, en su caso, semestral, con base en la información que les proporcionen las Sociedades Cooperativas de Ahorro y Préstamo en términos de lo dispuesto por los Artículos 15 y 34 de la presente Ley.
 
@@ -240,6 +254,10 @@ VII. La demás documentación e información que, en su caso, establezca la Comi
 
 La Comisión tendrá la facultad de verificar que la solicitud a que se refieren el Artículo 10 anterior y el presente Artículo, cumpla con lo previsto en esta Ley, para lo cual dicha Comisión contará, entre otras, con facultades para corroborar la veracidad de la información proporcionada, incluso, con dependencias y entidades de la Administración Pública Federal, así como las demás instancias federales, quienes deberán proporcionar la información relacionada.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+La Comisión al notificar el otorgamiento de la autorización respectiva, podrá expedir asimismo un sello que deberán exhibir las Sociedades Cooperativas con Nivel de Operaciones I a IV, en términos de lo que al efecto disponga la propia Comisión en disposiciones de carácter general. En todo caso, la falsificación del sello de referencia, será castigada según lo dispuesto en los ordenamientos penales aplicables.
+
 ###### Artículo 12.
 
 Las Sociedades Cooperativas de Ahorro y Préstamo con activos inferiores al equivalente en moneda nacional a 2'500,000 UDIS podrán solicitar autorización para operar con un nivel de operaciones distinto al básico. La citada solicitud de autorización deberá presentarse ante la Comisión en los mismos términos que establece el Artículo 10 de la presente Ley, y acompañarse de la información y documentación a que se refiere el Artículo 11 anterior.
@@ -251,6 +269,14 @@ Las Sociedades Cooperativas de Ahorro y Préstamo con activos inferiores al equi
 ###### Artículo 13.
 
 Las Sociedades Cooperativas de Ahorro y Préstamo cuyo monto total de activos no rebase el límite equivalente en moneda nacional a 2'500,000 UDIS contarán con un nivel de operaciones básico y no requerirán de la autorización de la Comisión para realizar operaciones de ahorro y préstamo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+Sin perjuicio de lo anterior y para todos los efectos legales, solamente se considerará como Sociedad Cooperativa de Ahorro y Préstamo con nivel de operaciones básico, a aquella sociedad cooperativa que se encuentre registrada en términos del artículo 7 de esta Ley, por lo que las sociedades que no obtengan su registro y aquéllas a las que les sea cancelado, no tendrán el carácter de Sociedad Cooperativa de Ahorro y Préstamo con nivel de operaciones básico.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+El fedatario público ante quienes los Socios, hayan acreditado su identidad y ratificado su voluntad de constituir la sociedad cooperativa y de ser suyas las firmas o las huellas digitales que obran en el acta constitutiva, deberá dar aviso de ello al Comité de Supervisión Auxiliar a más tardar 20 días hábiles después de realizados dichos actos.
 
 ###### Artículo 14.
 
@@ -280,13 +306,47 @@ Las Sociedades Cooperativas de Ahorro y Préstamo de nivel de operaciones básic
 
 En ningún caso las Sociedades Cooperativas de Ahorro y Préstamo de nivel de operaciones básico podrán autorizar a sus Socios la expedición de cheques a su cargo, en términos de lo que dispone el Título Primero Capítulo IV de la Ley General de Títulos y Operaciones de Crédito.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
 ###### Artículo 15.
 
-Las Sociedades Cooperativas de Ahorro y Préstamo con nivel de operaciones básico deberán presentar al Comité de Supervisión Auxiliar sus estados financieros básicos con base en los formatos establecidos por dicho Comité para tal efecto.
+A las Sociedades Cooperativas de Ahorro y Préstamo con nivel de operaciones básico, les será aplicable lo siguiente:
 
-Los estados financieros citados aprobados por el Consejo de Administración de la Sociedad correspondiente, deberán presentarse de manera trimestral dentro de los meses de abril, julio, octubre y enero de cada ejercicio social, con cifras a los meses de marzo, junio, septiembre y diciembre, según corresponda. Tratándose de Sociedades Cooperativas de Ahorro y Préstamo con nivel de operaciones básico con menos de 2,000 Socios únicamente deberán presentar los citados estados financieros de manera semestral, dentro de los meses de julio y enero de cada ejercicio social, con cifras a los meses de junio y diciembre, respectivamente.
+I. Serán evaluadas por el Comité de Supervisión Auxiliar semestralmente de acuerdo al Nivel de Capitalización con el que cuenten y el apego que tengan a las disposiciones que en materia de información financiera y requerimientos de capitalización, emita la Comisión. Dichas evaluaciones se llevarán a cabo con información a junio y diciembre de cada año, debiendo publicarse durante los meses de septiembre y marzo inmediatos siguientes, según corresponda, por lo que en las citadas disposiciones deberá precisarse la forma y plazos de entrega de la información.
 
-La formulación y presentación de tales estados financieros al Comité de Supervisión Auxiliar, serán bajo la responsabilidad del Consejo de Administración de las Sociedades Cooperativas de Ahorro y Préstamo, quien deberá cuidar que aquéllos revelen la verdadera situación financiera de la Sociedad.
+Como resultado de tal evaluación, las Sociedades Cooperativas de Ahorro y Préstamo de nivel de operaciones básico, serán clasificadas en alguna de las categorías siguientes:
+
+a) Categoría A. Aquellas sociedades que presenten un Nivel de Capitalización igual o superior al 150 por ciento y cuya información financiera cumpla con las reglas para la elaboración y presentación de los estados financieros básicos establecidas por la Comisión, por lo que el riesgo de pérdida de patrimonio de sus socios es bajo.
+
+b) Categoría B. Aquellas sociedades que presenten un Nivel de Capitalización igual o mayor al 100 por ciento y menor al 150 por ciento y cuya información financiera cumpla con las reglas para la elaboración y presentación de los estados financieros básicos determinadas por la Comisión, por lo que el riesgo de pérdida de patrimonio de sus socios es moderadamente bajo.
+
+c) Categoría C. Aquellas sociedades que presenten un Nivel de Capitalización igual o mayor al 50 por ciento y menor al 100 por ciento o que teniendo un nivel de capitalización superior al 100 por ciento, no se apegan a las reglas para la elaboración y presentación de los estados financieros básicos determinadas por la Comisión, por lo que son sociedades con riesgo de caer en estado de insolvencia si no adoptan medidas correctivas inmediatas, a efecto de disminuir el riesgo de pérdida de patrimonio de sus socios.
+
+d) Categoría D. Aquellas sociedades que presenten un Nivel de Capitalización inferior al 50 por ciento y:
+
+i. que no presenten sus estados financieros básicos dentro de los plazos y términos que se fijen en las disposiciones que emita la Comisión o bien,
+
+ii. si se trata de las sociedades que se encuentren clasificadas en categoría C conforme a la fracción III de este artículo, que no presenten dichos estados financieros en la forma que igualmente se determine en las disposiciones de la Comisión.
+
+Estas sociedades, en protección del patrimonio de sus socios, deben abstenerse de celebrar operaciones de captación e iniciar su disolución y liquidación.
+
+II. Deberán notificar a su asamblea general de socios, la última clasificación que les hubiere sido asignada, en la sesión inmediata siguiente a la fecha en que el Comité de Supervisión Auxiliar les comunique el resultado, salvo si fueron clasificadas en categoría C o D, en cuyo caso deberán hacerlo del conocimiento de dicha asamblea a más tardar 30 días contados a partir del día siguiente en que se haya hecho la notificación del resultado. A efecto de comprobar lo anterior, las Sociedades Cooperativas de Ahorro y Préstamo de nivel de operaciones básico, deberán enviar al Comité de Supervisión Auxiliar, copia de la convocatoria para la celebración de la Asamblea General de Socios y del acta debidamente protocolizada en la que se hubiere informado sobre el particular, dentro de los 60 días siguientes a su celebración.
+
+III. Las sociedades que acumulen dos clasificaciones consecutivas en categoría C, serán clasificadas en la categoría D en protección de sus socios ahorradores. Asimismo, las sociedades que de manera recurrente incumplan con las obligaciones previstas en este artículo y las demás contenidas en esta Ley, podrán ser clasificadas en la categoría D en protección de sus socios ahorradores.
+
+IV. Las Sociedades Cooperativas de Ahorro y Préstamo con un nivel de operaciones básico, que sean clasificadas en categoría D, en protección de los ahorros de sus socios, deberán abstenerse de realizar operaciones que impliquen captación de recursos, a partir del día siguiente a que surta efectos la notificación por parte de la Comisión en términos del artículo 15 Bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+###### Artículo 15 Bis.
+
+El Comité de Supervisión Auxiliar deberá informar por escrito a la Comisión respecto de aquellas Sociedades Cooperativas de Ahorro y Préstamo con nivel de operaciones básico que hubieren sido clasificadas en la categoría D a los diez días hábiles siguientes a aquel en que haya notificado tal clasificación a la propia sociedad, a efecto de que aquella publique a través de su página de Internet un listado de las sociedades que tengan esa categoría. Asimismo, el Comité de Supervisión Auxiliar publicará dicho listado en su propia página de Internet.
+
+La Comisión, una vez que tenga conocimiento de la clasificación en la categoría D de alguna Sociedad Cooperativa de Ahorro y Préstamo con nivel de operaciones básico, podrá practicarle visitas de investigación en términos de lo previsto en esta Ley, a efecto de confirmar la información proporcionada por el Comité de Supervisión Auxiliar, caso en el cual, podrá ordenarle su disolución y liquidación, en términos de lo dispuesto por el artículo 83 de esta Ley.
+
+Una vez ordenada la disolución y liquidación señalada en el párrafo anterior, la Comisión notificará al Comité de Supervisión Auxiliar a efecto de que éste cancele el registro de la sociedad correspondiente.
 
 ###### Artículo 16.
 
@@ -804,7 +864,9 @@ Las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a 
 
 El Gobierno Federal, a través de la Secretaría, constituirá un fideicomiso que se denominará Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores, que para efectos de esta Ley se denomina como Fondo de Protección.
 
-El Fondo de Protección tendrá como finalidad llevar a cabo la supervisión auxiliar de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV; realizar operaciones preventivas tendientes a evitar problemas financieros que puedan presentar dichas sociedades, así como procurar el cumplimiento de obligaciones relativas a los depósitos de ahorro de sus Socios, en los términos y condiciones que esta Ley establece.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+El Fondo de Protección tendrá como finalidad llevar a cabo la supervisión auxiliar de las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación de I a IV; realizar operaciones preventivas tendientes a evitar problemas financieros que puedan presentar dichas sociedades, llevar a cabo las evaluaciones a que se refiere esta Ley a las Sociedades Cooperativas de Ahorro y Préstamo con nivel de operaciones básico, así como, procurar el cumplimiento de obligaciones relativas a los depósitos de ahorro de sus Socios en los términos y condiciones que esta Ley establece.
 
 La constitución del fideicomiso por el Gobierno Federal deberá efectuarse en una institución de banca de desarrollo, quien actuará como institución fiduciaria. Dicho fideicomiso no tendrá el carácter de entidad de la administración pública federal ni de fideicomiso público y, por lo tanto, no estará sujeto a las disposiciones aplicables a dichas entidades, sin perjuicio de las facultades que en dichas materias ejerza directamente la Comisión.
 
@@ -1040,7 +1102,15 @@ XI. Reportar a la Comisión las irregularidades detectadas a las Sociedades Coop
 
 Las oficinas regionales adicionalmente deberán informar al propio Comité de Supervisión Auxiliar, respecto de las irregularidades a que se refiere el párrafo anterior.
 
-XII. Las demás que esta Ley le otorgue, así como las que se prevean en las disposiciones de carácter general que de ella emanen para el cumplimiento de su objeto, y las previstas por el contrato constitutivo del Fondo de Protección.
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+XII. Realizar las evaluaciones a las Sociedades Cooperativas de Ahorro y Préstamo con nivel de operaciones básico a que se refiere el artículo 15 de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+XIII. Reportar a la Comisión las Sociedades Cooperativas de Ahorro y Préstamo con nivel de operaciones básico que sean clasificadas en D.
+
+XIV. Las demás que esta Ley le otorgue, así como las que se prevean en las disposiciones de carácter general que de ella emanen para el cumplimiento de su objeto, y las previstas por el contrato constitutivo del Fondo de Protección.
 
 ###### Artículo 53.
 
@@ -1572,6 +1642,10 @@ II. Si la Sociedad Cooperativa de Ahorro y Préstamo se niega reiteradamente a p
 
 III. Cuando el número de Socios llegare a ser inferior al fijado como mínimo en la Ley General de Sociedades Cooperativas.
 
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+IV. Si la Comisión confirma los supuestos para ser clasificada en la categoría D de conformidad con el artículo 15 Bis.
+
 La Comisión deberá hacer del conocimiento de la Sociedad de que se trate y de manera previa a que ordene su disolución y liquidación, la actualización de cualquiera de los supuestos señalados en las fracciones anteriores, a fin de que dicha Sociedad en un plazo de 90 días siguientes a la notificación del escrito correspondiente, manifieste lo que a su derecho convenga. Una vez escuchada la Sociedad Cooperativa de Ahorro y Préstamo de que se trate, y siempre que subsistan los incumplimientos detectados, la Comisión deberá emitir la orden de disolución y liquidación debidamente fundada y motivada, derivada de resolución administrativa, previamente agotado el procedimiento administrativo, y verificando las formalidades esenciales.
 
 La orden que emita la Comisión incapacitará a la Sociedad Cooperativa de Ahorro y Préstamo de que se trate para realizar sus operaciones a partir de la fecha en que se notifique la misma y se pondrá en estado de disolución y liquidación, sin necesidad del acuerdo de la asamblea de Socios. Dicha orden de disolución y liquidación se inscribirá en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Cooperativa de Ahorro y Préstamo de que se trate. En todo caso, el cargo de liquidador deberá recaer en algunas de las personas a que se refiere la fracción IV del Artículo 91 de la presente Ley.
@@ -2092,9 +2166,31 @@ Los consejeros, directores o gerentes generales y demás directivos, funcionario
 
 Los consejeros, directores o gerentes generales y demás directivos, funcionarios, empleados, socios, prestadores de servicios o comisionistas que inciten u ordenen a directivos o empleados o a quien ostente un cargo o comisión de la Sociedad a la comisión de los delitos que se refieren en los artículos 110 y 111 fracción II de esta Ley, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+Lo anterior, sin perjuicio de que también serán responsables penalmente aquellas personas que determinen o inciten dolosamente a otro a la realización de las conductas ilícitas previstas en el presente capítulo o los que lleven a cabo sirviéndose de otro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
 ###### Artículo 114.
 
-Serán sancionados con penas de prisión de 3 a 15 años y multa hasta de 100,000 días de salario, las personas físicas, consejeros, directivos, funcionarios o administradores de personas morales que lleven a cabo operaciones de las reservadas para las Sociedades Cooperativas de Ahorro y Préstamo, sin contar con las autorizaciones previstas en la Ley.
+Serán sancionados con penas de prisión de 3 a 15 años y multa de hasta 100,000 días de salario quienes lleven a cabo operaciones de las reservadas para las Sociedades Cooperativas de Ahorro y Préstamo, sin contar con las autorizaciones previstas en la Ley o con el registro correspondiente a que se refiere el Artículo 13 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+La Comisión, en la realización de investigaciones para determinar la posible comisión del delito a que refiere el párrafo anterior, en cualquier momento y previo a la emisión de opinión de delito a la Secretaría, podrá ordenar como medida cautelar a las entidades financieras sujetas a su supervisión, la inmovilización provisional e inmediata de los fondos o activos registrados o que pudiesen estar relacionados con la comisión del delito a que refiere el primer párrafo de éste artículo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+La propia Comisión, en cualquier momento y previo a la imposición de la sanción a que alude el artículo 108 Bis 1, fracción III de la Ley de Instituciones de Crédito, podrá ordenar la medida cautelar prevista en el párrafo que antecede tratándose de personas morales que realicen operaciones reservadas para las Sociedades Cooperativas de Ahorro y Préstamo, sin contar con la autorización prevista en esta Ley o con el registro correspondiente a que se refiere el Artículo 13 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+Se entenderá por inmovilización provisional e inmediata, la prohibición temporal de transferir, traspasar, convertir, enajenar, trasladar, gravar, mover o retirar fondos o activos, cuando estos actos estén relacionados con las conductas previstas en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+Una vez que la Secretaría formule la petición a que se refiere el artículo 109 de esta Ley deberá solicitar al Ministerio Público de la Federación competente que ordene una medida cautelar para efecto de inmovilizar los recursos correspondientes. En caso de que la medida cautelar dictada por la Comisión no se haya derivado de una investigación para emitir la opinión de delito a la Secretaría, o bien, en caso de no expedir tal opinión por no encontrarse elementos, la Comisión deberá otorgar el derecho de audiencia a la persona física o moral respecto de cuyas cuentas se haya decretado la medida, en un plazo de 10 días hábiles, a efecto de resolver lo conducente.
 
 Asimismo, serán sancionados con prisión de uno a seis años las personas que por sí o a través de otra persona o por medio de nombres comerciales, por cualquier medio de publicidad se ostenten frente al público como Sociedades Cooperativas de Ahorro y Préstamo, sin contar con las autorizaciones previstas en la Ley.
 
@@ -2268,9 +2364,9 @@ SEGUNDO.- Las Sociedades Cooperativas de Ahorro y Préstamo que hubieren sido au
 
 Dichas Sociedades Cooperativas de Ahorro y Préstamo deberán modificar sus bases constitutivas conforme a lo previsto por el presente Decreto, en Asamblea General extraordinaria de Socios que se lleve a cabo dentro de los trescientos sesenta días naturales siguientes a la fecha de publicación de este Decreto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2014)</small>
 
-TERCERO.- Las Sociedades Cooperativas de cualquier tipo, distintas a las señaladas por el Artículo Segundo Transitorio anterior, cuyo monto total de activos rebase el equivalente en moneda nacional a 2'500,000 UDIS que a la fecha de entrada en vigor de este Decreto realicen operaciones que impliquen la captación de recursos de sus Socios para su colocación entre éstos y no hubiesen presentado una solicitud de autorización ante la Comisión Nacional Bancaria y de Valores, tendrán hasta el 31 de marzo de 2014 para constituirse como Sociedades Cooperativas de Ahorro y Préstamo conforme a la Ley General de Sociedades Cooperativas y solicitar la autorización de la Comisión Nacional Bancaria y de Valores para continuar realizando operaciones de ahorro y préstamo, siempre y cuando se ajusten a lo siguiente:
+TERCERO.- Las Sociedades Cooperativas de cualquier tipo, distintas a las señaladas por el Artículo Segundo Transitorio anterior, cuyo monto total de activos rebase el equivalente en moneda nacional a 2'500,000 UDIS que a la fecha de entrada en vigor de este Decreto realicen operaciones que impliquen la captación de recursos de sus Socios para su colocación entre éstos y no hubiesen presentado una solicitud de autorización ante la Comisión Nacional Bancaria y de Valores, tendrán hasta el 31 de marzo de 2014 para constituirse como Sociedades Cooperativas de Ahorro y Préstamo conforme a la Ley General de Sociedades Cooperativas y solicitar la autorización de la Comisión Nacional Bancaria y de Valores para continuar realizando operaciones de ahorro y préstamo. No obstante lo anterior, el Comité de Supervisión Auxiliar contará con un plazo de 180 días para emitir el dictamen respecto de aquellas solicitudes que para tal fin hubiere recibido a más tardar el 31 de marzo de 2014; dicho plazo correrá a partir de la fecha en que el Comité de Supervisión Auxiliar haya recibido la solicitud, sin que el cómputo de dicho plazo se suspenda por los requerimientos de información o documentación que realice el Comité de Supervisión Auxiliar a la Sociedad solicitante. El plazo anterior podrá ser ampliado por la Comisión por un período de 90 días adicionales, cuando el Comité de Supervisión Auxiliar así lo solicite y a juicio de la Comisión se justifiquen las razones para ello. La autorización de referencia podrá solicitarse, siempre y cuando las sociedades mencionadas se ajusten a lo siguiente:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2013)</small>
 
@@ -2342,7 +2438,9 @@ CUARTO.- Las Sociedades Cooperativas que tengan por objeto la captación de recu
 
 Las Sociedades Cooperativas mencionadas en el párrafo anterior, así como las señaladas en el antepenúltimo párrafo del Artículo Tercero Transitorio anterior, deberán hacer del conocimiento de sus Socios esta situación, mediante publicación en un periódico de amplia circulación en las plazas en las que operen, así como mediante la colocación de avisos en sus oficinas o sucursales. Lo anterior, sin perjuicio de que el Comité de Supervisión Auxiliar a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo podrá hacer este hecho del conocimiento público por los medios que considere conveniente para tales efectos.
 
-Las Sociedades Cooperativas de Ahorro y Préstamo, Sociedades Financieras Populares, sociedades financieras de objeto múltiples, instituciones de crédito, casas de bolsa, así como las instituciones integrantes de la Administración Pública Federal o Estatal y fideicomisos públicos, constituidos por el Gobierno Federal o estatales para el fomento económico, que realicen actividades financieras, tendrán prohibido celebrar operaciones activas, pasivas o de servicios con las Sociedades Cooperativas que se ubiquen en los supuestos de incumplimiento a que se refiere este Artículo. Asimismo, dichas entidades deberán realizar los actos necesarios para rescindir las operaciones que tuvieren contratadas con las referidas Sociedades Cooperativas, de conformidad con las disposiciones legales aplicables y acorde a la naturaleza de tales operaciones.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2014)</small>
+
+Las Sociedades Cooperativas de Ahorro y Préstamo, Sociedades Financieras Populares, Sociedades Financieras de Objeto Múltiple, Instituciones de Banca Múltiple, Casas de Bolsa, así como las instituciones integrantes de la Administración Pública Federal, con excepción de las Instituciones de Banca de Desarrollo, o Estatal y fideicomisos públicos, constituidos por el Gobierno Federal o estatales para el fomento económico, que realicen actividades financieras, tendrán prohibido celebrar operaciones activas, pasivas o de servicios con las Sociedades Cooperativas que se ubiquen en los supuestos de incumplimiento a que se refiere este Artículo. Asimismo, dichas entidades deberán realizar los actos necesarios para rescindir las operaciones que tuvieren contratadas con las referidas Sociedades Cooperativas, de conformidad con las disposiciones legales aplicables y acorde a la naturaleza de tales operaciones.
 
 Sin perjuicio de lo anterior, el Comité de Supervisión Auxiliar proveerá al adecuado cumplimiento y observancia de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, cuando detecte que se verifique algún incumplimiento a lo dispuesto en los Artículos Primero, Segundo y Tercero Transitorios de la presente Ley, para lo cual incluirán en las publicaciones a que se refiere el último párrafo del Artículo Tercero Transitorio anterior a las Sociedades Cooperativas que se ubiquen en los supuestos de incumplimiento mencionados.
 
@@ -2463,3 +2561,49 @@ III. La Comisión Nacional Bancaria y de Valores diseñará medidas para evitar 
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 28 DE ABRIL DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, excepto por lo dispuesto en los artículos siguientes.
+
+SEGUNDO.- Las sociedades que a la entrada en vigor de este Decreto, ya se hubieren sometido a un trabajo de consolidación en términos de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, deberán concluir su implementación en los términos establecidos en el propio trabajo de consolidación.
+
+TERCERO.- Las evaluaciones a que se refiere el artículo 15 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, deberán realizarse a partir del 1 de junio de 2015.
+
+CUARTO.- Las sociedades a que se refiere el primer párrafo del Artículo Tercero de los TRANSITORIOS DEL ARTICULO PRIMERO, del “Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito”, publicado en el Diario Oficial de la Federación, el 13 de agosto de 2009, que al 31 de marzo de 2014 estuvieren clasificadas en las categorías A, B o C y que no hubieren presentado su solicitud de autorización ante la Comisión para continuar realizando operaciones de ahorro y préstamo en términos de dicho precepto, en excepción a lo dispuesto en el primer párrafo del Artículo Cuarto Transitorio del “Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito”, publicado en el Diario Oficial de la Federación, el 13 de agosto de 2009, podrán seguir realizando operaciones que impliquen captación de recursos en términos de la Ley para regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y de la Ley de Instituciones de Crédito, durante un plazo de doce meses contado a partir de que se notifiquen a la sociedad correspondiente los resultados de los trabajos de consolidación, en términos de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, y siempre y cuando:
+
+I. A más tardar el 30 de abril de 2014, manifiesten a la Comisión su intención de sujetarse a los trabajos de consolidación a que se refiere la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores y le presenten copia de su escritura constitutiva; un listado de todas las sucursales u oficinas de atención al público que tengan, señalando su ubicación y estados financieros al 31 de diciembre de 2013. Asimismo, deberán presentar a la Comisión a más tardar el 30 de mayo de 2014 estados financieros al 31 de marzo de 2014; bases de datos con información relativa a la captación y operaciones de crédito individualizadas por socio al 31 de marzo de 2014, las cuales deberán estar contenidas en un dispositivo de almacenamiento electrónico y copia de la publicación en un diario de circulación local correspondiente al domicilio social de la sociedad de la convocatoria a la Asamblea General de Socios a celebrarse a más tardar 90 días contados a partir del día siguiente de dicha publicación, en cuyo orden del día se establezca lo siguiente:
+
+a) Informe relativo a la falta de presentación de la solicitud de autorización a que se refiere el Artículo Tercero Transitorio del “Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito”, publicado en el Diario Oficial de la Federación, el 13 de agosto de 2009, así como de sus consecuencias para la Sociedad.
+
+b) Propuesta para facultar al Consejo de Administración para que realice las gestiones necesarias a fin de que la sociedad pueda ser beneficiaria de los esquemas a que se refiere el artículo 8o. BIS de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+
+c) Aceptación de los términos que resulten del trabajo de consolidación derivado de las gestiones del inciso anterior.
+
+II. A más tardar el 31 de octubre de 2014, la sociedad solicite la inscripción en el Registro Público de Comercio del acta de la sesión de la Asamblea General mencionada en la fracción anterior, dentro de un plazo de 15 días naturales posteriores a su celebración, así como que presente ante la Comisión dicha acta debidamente protocolizada.
+
+III. A más tardar el 31 de octubre de 2014, la sociedad haya recibido del Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, el escrito en que se le informe del cumplimiento de los requisitos para dar inicio al trabajo de consolidación correspondiente y presente copia de tal documento a la Comisión. Asimismo, la sociedad deberá presentar, en tiempo y forma, la información que con motivo de la realización de los trabajos de consolidación le sea requerida.
+
+IV. La sociedad no celebre operaciones con nuevos socios, ni establezca nuevas sucursales u oficinas de atención al público.
+
+En caso de incumplirse alguno de los requisitos establecidos en las fracciones anteriores, las mencionadas sociedades deberán abstenerse de realizar operaciones que impliquen captación de recursos, a partir de la actualización del incumplimiento.
+
+La misma restricción será aplicable de no iniciarse los trabajos de consolidación a que se refiere la fracción XI del artículo 2o. de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, o de no implementarse éstos en tiempo y forma por causas imputables a la sociedad. Para verificar lo anterior la Comisión podrá requerir toda la información necesaria.
+
+Las Sociedades Cooperativas de Ahorro y Préstamo, Sociedades Financieras Populares, Sociedades Financieras de Objeto Múltiple, Instituciones de Banca Múltiple, Casas de Bolsa, así como las instituciones integrantes de la Administración Pública Federal, con excepción de las Instituciones de Banca de Desarrollo, o Estatal y fideicomisos públicos, constituidos por el Gobierno Federal o estatales para el fomento económico, que realicen actividades financieras, tendrán prohibido celebrar operaciones activas, pasivas o de servicios con las Sociedades Cooperativas que se ubiquen en los supuestos de incumplimiento a que se refiere este artículo. Asimismo, dichas entidades deberán realizar los actos necesarios para rescindir las operaciones que tuvieren contratadas con las referidas Sociedades Cooperativas, de conformidad con las disposiciones legales aplicables y acorde a la naturaleza de tales operaciones.
+
+QUINTO.- A las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere el primer párrafo del artículo Tercero de los TRANSITORIOS DEL ARTICULO PRIMERO, del “Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito”, publicado en el Diario Oficial de la Federación, el 13 de agosto de 2009, que habiendo presentado su solicitud de autorización ante el Comité de Supervisión Auxiliar reciban de este un dictamen desfavorable, o les sea negada la autorización correspondiente por la Comisión, les resultará aplicable lo dispuesto en el artículo Cuarto anterior.
+
+Al efecto, para dar cumplimiento a lo dispuesto por la fracción I del artículo Cuarto anterior, relativo a la convocatoria a la Asamblea General de Socios, las Sociedades referidas contarán con un plazo de 30 días contados a partir de la notificación del dictamen desfavorable o resolución desfavorable, según sea el caso. En sustitución del informe señalado en el inciso a) de dicho precepto, deberán presentar una copia del dictamen o resolución desfavorable.
+
+Asimismo las Sociedades a las que se refiere el párrafo anterior, tendrán 60 días a partir de la fecha antes mencionada para celebrar la Asamblea a que se refiere el párrafo anterior.
+
+Asimismo, contarán con noventa días contados a partir de la citada notificación para cumplir con lo establecido en las fracciones II y III del referido artículo Cuarto anterior.
+
+SEXTO.- El plazo previsto en el tercer párrafo del Artículo Quinto anterior, comenzará a computar a partir de la publicación de este instrumento, respecto de aquellas Sociedades Cooperativas de Ahorro y Préstamo que sean notificadas del dictamen desfavorable o bien, de la resolución en sentido negativo de la Comisión Nacional Bancaria y de Valores, con anterioridad al 1 de abril de 2014.
+
+Asimismo, si las sociedades señaladas presentaron ante el Comité de Supervisión Auxiliar una solicitud de revisión del dictamen desfavorable que les hubiere sido expedido en términos de lo preceptuado por el artículo 10, quinto párrafo de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, podrán presentar a la Comisión Nacional Bancaria y de Valores el dictamen desfavorable, sin esperar a que concluya la revisión solicitada, a efecto de acogerse a lo contenido en el Artículo Cuarto Transitorio anterior de este Decreto.
+
+SÉPTIMO.- Una vez que venzan los plazos establecidos en el presente Decreto, las personas que realicen operaciones de captación en contravención a este instrumento legal podrán incurrir en alguna responsabilidad penal en el grado de autoría o participación que determinen las Leyes aplicables, por lo que cualquiera que tenga conocimiento de algún hecho presumiblemente constitutivo de delito lo podrá hacer del conocimiento de las autoridades competentes.
+
+Para los efectos del párrafo anterior, también se considerarán responsables penalmente aquellas personas que determinen dolosamente a otro a la realización de las conductas ilícitas o los que lo lleven a cabo sirviéndose de otro.
