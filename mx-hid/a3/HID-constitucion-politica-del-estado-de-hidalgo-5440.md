@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2014-03-03"
+last_updated: "2014-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ABRIL DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2014.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 3 DE MARZO DE 2014.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 28 DE ABRIL DE 2014.</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -623,13 +621,11 @@ Los hidalguenses serán preferidos para toda clase de concesiones y para todo em
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 1987)</small>
+### CAPITULO UNICO. (REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 1987) (F. DE E., P.O. 28 DE ABRIL DE 2014)
 
 ###### Artículo 23.
 
-El Territorio del Estado es el expresado en el Supremo Decreto de Erección de 15 de enero de 1869, y se integra con los 84 Municipios que a continuación se enumeran: 1. Acatlán. 2. Acaxochitlán. 3. Actopan. 4. Agua Blanca de Iturbide. 5. Ajacuba. 6. Alfajayucan. 7. Almoloya. 8. Apan. 9. Atitalaquia. 10. Atlapexco. 11. Atotonilco El Grande. 12. Atotonilco de Tula. 13. Calnali. 14. Cardonal. 15. Cuauhtepec de Hinojosa. 16. Chapantongo. 17. Chapulhuacán. 18. Chilcuauhtla. 19. El Arenal. 20. Eloxochitlán. 21. Emiliano Zapata. 22. Epazoyucán. 23. Francisco I. Madero. 24. Huasca de Ocampo. 25. Huauhtla. 26. Huazalingo. 27. Huehuetla. 28. Huejutla de Reyes. 29. Huichapan. 30. Ixmiquilpan. 31. Jacala de Ledezma. 32. Jaltocán. 33. Juárez Hidalgo. 34. La Misión. 35. Lolotla. 36. Metepec. 37. Metztitlán. 38. Mineral del Chico. 39. Mineral del Monte. 40. Mineral de la Reforma. 41. Mixquiahuala de Juárez. 42. Molango de Escamilla. 43. Nicolás de Flores. 44. Nopala de Villagrán. 45. Omitlán de Juárez. 46. Pacula. 47. Pachuca de Soto. 48. Pisaflores. 49. Progreso de Obregón. 50. San Agustín Mezquititlán. 51. San Agustín Tlaxiaca. 52. San Bartolo Tutotepec. 53. San Felipe Orizatlán. 54. San Salvador. 55. Santiago de Anaya. 56. Santiago Tulantepec de Lugo Guerrero. 57. Singuilucan. 58. Tasquillo. 59. Tecozautla. 60. Tenango de Doria. 61. Tepeapulco. 62. Tepehuacán de Guerrero. 63. Tepeji del Río de Ocampo. 64. Tepetitlán. 65. Tetepango. 66. Tezontepec de Aldama. 67. Tianguistengo. 68. Tizayuca. 69. Tlahuelilpan. 70. Tlahuiltepa. 71. Tlanalapa. 72. Tlanchinol. 73. Tlaxcoapan. 74. Tolcayuca. 75. Tula de Allende. 76. Tulancingo de Bravo. 77. Villa de Tezontepec. 78. Xochiatipan. 79. Xochicoatlán. 80. Yahualica. 81. Zacualtipán de Ángeles. 82. Zapotlán de Juárez. 83. Zempoala. 84. Zimapán.
+El Territorio del Estado es el expresado en el Supremo Decreto de Erección de 15 de enero de 1869, y se integra con los 84 Municipios que a continuación se enumeran: 1.- Acatlán. 2.- Acaxochitlán. 3.- Actopan. 4.- Agua Blanca de Iturbide. 5.- Ajacuba. 6.- Alfajayucan. 7.- Almoloya. 8.- Apan. 9.- Atitalaquia. 10.- Atlapexco. 11.- Atotonilco El Grande. 12.- Atotonilco de Tula. 13.- Calnali. 14.- Cardonal. 15.- Cuautepec de Hinojosa. 16.- Chapantongo. 17.- Chapulhuacán. 18.- Chilcuautla. 19.- El Arenal. 20.- Eloxochitlán. 21.- Emiliano Zapata. 22.- Epazoyucan 23.- Francisco I. Madero. 24.- Huasca de Ocampo. 25.- Huautla. 26.- Huazalingo. 27.- Huehuetla. 28.- Huejutla de Reyes. 29.- Huichapan. 30.- Ixmiquilpan. 31.- Jacala de Ledezma. 32.- Jaltocan. 33.- Juárez Hidalgo. 34.- La Misión. 35.- Lolotla. 36.- Metepec. 37.- Metztitlán. 38.- Mineral del Chico. 39.- Mineral del Monte. 40.- Mineral de la Reforma. 41.- Mixquiahuala de Juárez. 42.- Molango. 43.- Nicolás Flores. 44.- Nopala de Villagrán 45.- Omitlán de Juárez. 46.- Pacula. 47.- Pachuca de Soto. 48.- Pisaflores. 49.- Progreso de Obregón. 50.- San Agustín Metzquititlán. 51.- San Agustín Tlaxiaca. 52.- San Bartolo Tutotepec. 53.- San Felipe Orizatlán. 54.- San Salvador. 55.- Santiago de Anaya. 56.- Santiago Tulantepec de Lugo Guerrero. 57.- Singuilucan. 58.- Tasquillo. 59.- Tecozautla. 60.- Tenango de Doria. 61.- Tepeapulco. 62.- Tepehuacán de Guerrero. 63.- Tepeji del Río de Ocampo. 64.- Tepetitlán. 65.- Tetepango. 66.- Tezontepec de Aldama. 67.- Tianguistengo. 68.- Tizayuca. 69.- Tlahuelilpan. 70.- Tlahuiltepa. 71.- Tlanalapa. 72.- Tlanchinol. 73.- Tlaxcoapan. 74.- Tolcayuca. 75.- Tula de Allende. 76.- Tulancingo de Bravo. 77.- Villa de Tezontepec. 78.- Xochiatipan. 79.- Xochicoatlán. 80.- Yahualica. 81.- Zacualtipán de Ángeles. 82.- Zapotlán de Juárez. 83.- Zempoala. 84.- Zimapán.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1986)</small>
 
