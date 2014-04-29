@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2014-03-04"
+last_updated: "2014-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -441,7 +441,9 @@ Durante el tiempo que comprendan las campañas electorales, y hasta la conclusi�
 
 Apartado F.- La ley preverá los procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los partidos políticos y los candidatos independientes y establecerá las sanciones por el incumplimiento a las disposiciones en esta materia.
 
-Apartado G.- Conforme a las reglas que para tal efecto se establezcan en la ley, los partidos políticos no podrán proponer a más del 60% de candidatos de un mismo género.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+Apartado G.- Conforme a las reglas que para tal efecto se establezcan en la ley, los partidos políticos no podrán proponer a más del 50% de candidatos de un mismo género.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -4236,3 +4238,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo no mayor a 180 días naturales, contados a partir de la publicación del presente Decreto, se deberán realizar las adecuaciones conducentes a la ley reglamentaria respectiva.
+
+P.O. 29 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
