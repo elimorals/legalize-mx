@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-para-el-estado-de-tamaulipas-8223"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-30"
-last_updated: "2010-11-09"
+last_updated: "2014-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 30 de junio de 1993.
 
@@ -73,7 +73,7 @@ IX.- Concertar programas que mejoren la calidad de los servicios turísticos e i
 
 X.- Desarrollar acciones que favorezcan la oferta turística y fomenten la afluencia del turismo nacional y extranjero hacia el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 3o.
 
@@ -155,13 +155,15 @@ Una vez aprobado el Programa Estatal de Turismo, deberá publicarse en el Perió
 
 La Secretaría deberá implementar el Programa Operativo Anual que defina las acciones concretas que permitan el cumplimiento del Programa Estatal de Turismo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2014)</small>
 
-### CAPITULO III. TURISMO SOCIAL Y DE NATURALEZA
+### CAPITULO III. TURISMO SOCIAL, DE NATURALEZA Y DEPORTIVO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 12.
 
-El Turismo Social comprende todos aquellos mecanismos y acciones que contribuyan a hacer accesibles los servicios turísticos a las personas de recursos limitados, para su descanso, esparcimiento, integración familiar y socio-cultural.
+El Turismo Social comprende todos aquellos mecanismos y acciones que contribuyan a hacer accesibles los servicios turísticos a las personas de recursos limitados, para su descanso, esparcimiento, integración familiar y socio-cultural o la práctica de alguna actividad deportiva.
 
 Corresponde a la Secretaría y demás Dependencias y Entidades de la Administración Pública Estatal, conjuntar esfuerzos para el desarrollo del turismo social. Además deberán promoverlo entre sus trabajadores.
 
@@ -177,7 +179,7 @@ La Secretaría podrá concertar acuerdos con los prestadores de servicios turís
 
 La Secretaría concertará con los sectores social y privado su participación en programas que hagan posible el turismo de sus trabajadores en temporadas y condiciones convenientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -195,7 +197,7 @@ El turismo rural está constituido por las visitas y recorridos que tienen como 
 
 El ecoturismo está constituido por las visitas y recorridos de espacios naturales con el compromiso de no afectarlos ni perturbarlos. Es una modalidad turística ambientalmente responsable, cuyo fin es disfrutar, apreciar o estudiar los atractivos naturales de dichos espacios, así como de cualquier manifestación natural o cultural del presente y del pasado que ahí se encuentre, a través de un proceso que promueve la conservación del área. El ecoturismo tiene bajo impacto ambiental y cultural e induce a un involucramiento activo con las poblaciones locales para su beneficio económico y social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -218,6 +220,10 @@ VII. Observación geológica: las actividades de ocio destinadas a conocer, apre
 VIII. Observación sideral: las actividades de ocio consistentes en la apreciación o disfrute de las manifestaciones del cosmos a campo abierto; y
 
 IX. Senderismo interpretativo: las actividades recreativas consistentes en el tránsito a pie o en transporte no motorizado por un camino a campo traviesa predefinido y equipado con cédulas de información o señalamientos o con base en la guía de intérpretes de la naturaleza, cuyo objetivo es el conocimiento de un medio natural.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+ARTICULO 15 QUATER.- El Turismo Deportivo comprende todos los mecanismos y acciones que tienen como finalidad la promoción de los recursos naturales y la infraestructura con que cuenta el Estado, para la realización de torneos, competencias y actividades deportivas.
 
 ### CAPITULO IV. ZONAS DE DESARROLLO TURISTICO PRIORITARIO
 
@@ -311,7 +317,7 @@ La Secretaría promoverá la formación de profesionales y técnicos en las rama
 
 Para el cumplimiento de lo señalado en el Artículo anterior, la Secretaría celebrará los acuerdos de coordinación y cooperación necesarios con las autoridades educativas y con otros organismos privados o sociales que impartan educación o capacitación en materia turística
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 34.
 
@@ -383,7 +389,7 @@ II.- Solo establecerá garantías a cargo de los prestadores de servicios cuando
 
 Las normas oficiales mexicanas y las normas mexicanas relacionadas con la prestación de los servicios turísticos, serán emitidas por el nivel federal, en los términos de la legislación correspondiente, debiendo apegarse la actividad turística del Estado a ellas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -405,7 +411,7 @@ V.- Conservar en las mejores condiciones de higiene y eficiencia los locales, in
 
 VI.- Observar las disposiciones legales existentes en materia de turismo, salud, prevención y protección al consumidor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -555,7 +561,7 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.
 
 El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- El Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE OCTUBRE DE 2005.
 
@@ -588,3 +594,9 @@ P.O. 9 DE NOVIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto inicia su vigencia a partir de su expedición y se publicará en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
