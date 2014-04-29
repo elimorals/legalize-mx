@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2014-04-03"
+last_updated: "2014-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -649,13 +649,17 @@ X.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
 XI.- La promoción del mejoramiento de la nutrición;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XII.- La asistencia social a los grupos más vulnerables; y
+XII.- La asistencia social a los grupos más vulnerables;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIII.- Las demás que establezcan otras disposiciones legales aplicables.
+XIII.- La promoción de la actividad física y el deporte; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIV.- Las demás que establezcan otras disposiciones legales aplicables.
 
 ### CAPITULO II. DE LA ATENCION MEDICA
 
@@ -3546,3 +3550,9 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 29 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
