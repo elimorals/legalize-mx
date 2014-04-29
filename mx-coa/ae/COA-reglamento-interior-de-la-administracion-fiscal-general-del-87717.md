@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-administracion-fiscal-general-del-877
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-08"
-last_updated: "2012-05-08"
+last_updated: "2014-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN FISCAL GENERAL DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de mayo de 2012.
 
@@ -61,67 +61,131 @@ La Administración General Tributaria, con sede en el municipio de Saltillo y co
 
 I. La Administración Central de Recaudación, con sede en el municipio de Arteaga y competencia en todo el territorio del Estado de Coahuila de Zaragoza y que a su vez tendrá adscritas las oficinas siguientes:
 
-1. Administración de Recaudación con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+1. Administración de Coordinación de Recaudación con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
 
 2. Administración de Asistencia Fiscal con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
 
 3. Administración de Control Vehicular con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
 
-4. Administración de Padrones con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-5. Administración Local de Recaudación de Acuña, con sede en el municipio de Acuña y con circunscripción territorial en los municipios de Acuña y Jiménez, ambos del Estado de Coahuila de Zaragoza.
+4. Administración de Control de Padrones con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
 
-6. Administración Local de Recaudación de Allende, con sede en el municipio de Allende y con circunscripción territorial en los municipios de Allende, Morelos, Villa Unión y Zaragoza, todos del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-7. Administración Local de Recaudación de Cuatro Ciénegas de Carranza, con sede en el municipio de Cuatro Ciénegas de Carranza y circunscripción territorial en los municipios de Cuatro Ciénegas de Carranza, Ocampo y Sierra Mojada, todos del Estado de Coahuila de Zaragoza.
+5. Administración de Promoción y Vigilancia del Cumplimiento con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
 
-8. Administración Local de Recaudación de Francisco I. Madero, con sede en el municipio de Francisco I. Madero del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-9. Administración Local de Recaudación de Matamoros, con sede en el municipio de Matamoros y circunscripción territorial en el municipio de Matamoros y Viesca, ambos del Estado de Coahuila de Zaragoza.
+6. Subadministración de Registro Contable con sede en el municipio de Arteaga y con competencia en todo territorio del Estado de Coahuila de Zaragoza.
 
-10. Administración Local de Recaudación de Monclova con sede en el municipio de Monclova y circunscripción territorial en los municipios de Monclova. Castaños, Candela, Escobedo y Frontera, todos del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-11. Administración Local de Recaudación de Múzquiz con sede en el municipio de Múzquiz del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+7. Administración Local de Recaudación de Acuña, con sede en el municipio de Acuña y con circunscripción territorial en los municipios de Acuña y Jiménez, ambos del Estado de Coahuila de Zaragoza.
 
-12. Administración Local de Recaudación de Nava, con sede en el municipio de Nava del Estado de Coahuila de Zaragoza y con circunscripción territorial en el mismo municipio.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-13. Administración Local de Recaudación en Parras, con sede en el municipio de Parras del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+8. Administración Local de Recaudación de Allende, con sede en el municipio de Allende y con circunscripción territorial en los municipios de Allende, Morelos y Villa Unión, todos del Estado de Coahuila de Zaragoza.
 
-14. Administración Local de Recaudación de Piedras Negras, con sede en el municipio de Piedras Negras y con circunscripción territorial en los municipios de Piedras Negras, Hidalgo y Guerrero, todos del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-15. Administración Local de Recaudación en Ramos Arizpe, con sede en el municipio de Ramos Arizpe del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+9. Administración Local de Recaudación de Cuatro Ciénegas de Carranza, con sede en el municipio de Cuatro Ciénegas de Carranza y circunscripción territorial en los municipios de Cuatro Ciénegas de Carranza, Ocampo y Sierra Mojada, todos del Estado de Coahuila de Zaragoza.
 
-16. Administración Local de Recaudación de Sabinas con sede en el municipio de Sabinas y circunscripción territorial en los municipios de Sabinas, Juárez y Progreso, todos del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-17. Administración Local de Recaudación de San Buenaventura con sede en el municipio de San Buenaventura y circunscripción territorial en los municipios de San Buenaventura, Abasolo, Lamadrid, Nadadores y Sacramento, todos del Estado de Coahuila de Zaragoza.
+10. Administración Local de Recaudación de Francisco I. Madero, con sede en el municipio de Francisco I. Madero del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
 
-18. Administración Local de Recaudación de San Juan de Sabinas con sede en el municipio de San Juan de Sabinas del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-19. Administración Local de Recaudación en Saltillo, con sede en el municipio de Saltillo y circunscripción territorial en los municipios de Saltillo, Arteaga y General Cepeda, todos del Estado de Coahuila de Zaragoza.
+11. Administración Local de Recaudación de Matamoros, con sede en el municipio de Matamoros y circunscripción territorial en el municipio de Matamoros del Estado de Coahuila de Zaragoza.
 
-20. Administración Local de Recaudación de San Pedro, con sede en el municipio de San Pedro de las Colonias del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-21. Administración Local de Recaudación de Torreón, con sede en el municipio de Torreón del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+12. Administración Local de Recaudación de Monclova con sede en el municipio de Monclova y circunscripción territorial en los municipios de Monclova, Castaños, Candela, Escobedo y Frontera, todos del Estado de Coahuila de Zaragoza.
 
-II. Administración Central de Fiscalización con sede en la municipio (sic) de Arteaga y competencia en todo el territorio del Estado de Coahuila de Zaragoza, que a su vez tendrá adscritas las unidades administrativas siguientes:
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+13. Administración Local de Recaudación de Múzquiz con sede en el municipio de Múzquiz del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+14. Administración Local de Recaudación de Nava, con sede en el municipio de Nava del Estado de Coahuila de Zaragoza y con circunscripción territorial en el mismo municipio.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+15. Administración Local de Recaudación en Parras, con sede en el municipio de Parras del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+16. Administración Local de Recaudación de Piedras Negras, con sede en el municipio de Piedras Negras y con circunscripción territorial en los municipios de Piedras Negras, Hidalgo y Guerrero, todos del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+17. Administración Local de Recaudación en Ramos Arizpe, con sede en el municipio de Ramos Arizpe del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+18. Administración Local de Recaudación de Sabinas con sede en el municipio de Sabinas y circunscripción territorial en los municipios de Sabinas, Juárez y Progreso, todos del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+19. Administración Local de Recaudación de San Buenaventura con sede en el municipio de San Buenaventura y circunscripción territorial en los municipios de San Buenaventura, Abasolo, Lamadrid, Nadadores y Sacramento, todos del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+20. Administración Local de Recaudación de San Juan de Sabinas con sede en el municipio de San Juan de Sabinas del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+21. Administración Local de Recaudación en Saltillo, con sede en el municipio de Saltillo y circunscripción territorial en los municipios de Saltillo, Arteaga y General Cepeda, todos del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+22. Administración Local de Recaudación de San Pedro, con sede en el municipio de San Pedro de las Colonias del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+23. Administración Local de Recaudación de Torreón, con sede en el municipio de Torreón del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+24. Administración Local de Recaudación de Viesca, con sede en el municipio de Viesca del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+25. Administración Local de Recaudación de Zaragoza, con sede en el municipio de Zaragoza del Estado de Coahuila de Zaragoza y circunscripción territorial en el mismo municipio.
+
+II. Administración Central de Fiscalización con sede en la (sic) municipio de Arteaga y competencia en todo el territorio del Estado de Coahuila de Zaragoza, que a su vez tendrá adscritas las unidades administrativas siguientes:
 
 1. Administración Local de Comercio Exterior, con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
 
 2. Administración Local de Programación de la Fiscalización, con sede en el municipio de Arteaga y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
 
-3. Administración Local de Fiscalización de Piedras Negras, con sede en el municipio de Piedras Negras y con competencia territorial en los municipios de Piedras Negras, Acuña, Guerrero, Hidalgo, Jiménez, Allende, Morelos, Nava, Villa Unión, Zaragoza, Juárez. Múzquiz, Progreso, Sabinas y San Juan de Sabinas, todos del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-4. Administración Local de Fiscalización de Monclova con sede en el municipio de Monclova y con competencia territorial en los municipios de Monclova, Frontera, Castaños, Candela, Abasolo, Nadadores, San Buenaventura. Escobedo, Lamadrid, Sacramento, Sierra Mojada, Ocampo y Cuatro Ciénegas de Carranza, todos del Estado de Coahuila de Zaragoza.
+3. Administración Local de Fiscalización de Piedras Negras, con sede en el municipio de Piedras Negras y con competencia territorial en todo el territorio del Estado de Coahuila de Zaragoza.
 
-5. Administración Local de Fiscalización de Saltillo, con sede en el municipio de Arteaga y con competencia territorial en los municipios de Arteaga, General Cepeda, Ramos Arizpe, Saltillo y Parras, todos del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-6. Administración Local de Fiscalización de Torreón, con sede en el municipio de Torreón y con competencia territorial en los municipios de Torreón, San Pedro, Francisco I. Madero, Matamoros, Viesca, todos del Estado de Coahuila de Zaragoza.
+4. Administración Local de Fiscalización de Monclova con sede en el municipio de Monclova y con competencia territorial en todo el territorio del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+5. Administración Local de Fiscalización de Saltillo, con sede en el municipio de Arteaga y con competencia territorial en todo el territorio del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+6. Administración Local de Fiscalización de Torreón, con sede en el municipio de Torreón y con competencia territorial en todo el territorio del Estado de Coahuila de Zaragoza.
 
 7. Administración Local de Análisis Estadístico y Seguimiento de Auditorías, con sede en el municipio de Saltillo y con competencia en todo el territorio del Estado de Coahuila de Zaragoza.
 
 Los administradores locales de fiscalización, de programación de la fiscalización, de análisis estadístico y seguimiento de auditorías y de comercio exterior podrán ejercer en forma conjunta o separadamente con el Administrador Central de Fiscalización las facultades conferidas en este reglamento. Los administradores locales de fiscalización, de programación de la fiscalización y de comercio exterior ejercerán las facultades conferidas en este Reglamento, dentro de la circunscripción territorial que les corresponda.
 
-III. La Administración Central de Ejecución Fiscal, con sede en el municipio de Saltillo y competencia en todo el territorio del Estado de Coahuila de Zaragoza y tendrá adscritas las oficinas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2014)</small>
+
+III. La Administración Central de Ejecución Fiscal, con sede en el municipio de Arteaga y competencia en todo el territorio del Estado de Coahuila de Zaragoza y tendrá adscritas las oficinas siguientes:
 
 1. Administración Local de Ejecución Fiscal de Acuña, con sede en el municipio de Acuña y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de Acuña y Jiménez, todos del Estado de Coahuila de Zaragoza.
 
@@ -129,13 +193,25 @@ III. La Administración Central de Ejecución Fiscal, con sede en el municipio d
 
 3. Administración Local de Ejecución Fiscal de Piedras Negras, con sede en el municipio de Piedras Negras y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de Allende, Guerrero, Hidalgo, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza, todos del Estado de Coahuila de Zaragoza.
 
-4. Administración Local de Ejecución Fiscal de Saltillo, con sede en el municipio de Arteaga y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo, todos del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-5. Administración Local de Ejecución Fiscal de Sabinas, con sede en el municipio de Sabinas y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas, todos del Estado de Coahuila de Zaragoza.
+4. Administración Local de Ejecución Fiscal de Saltillo, con sede en el municipio de Arteaga y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de Arteaga, General Cepeda, Parras y Saltillo, todos del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+5. Administración Local de Ejecución Fiscal de Sabinas, con sede en el municipio de Sabinas y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de Sabinas, Juárez y Progreso, todos del Estado de Coahuila de Zaragoza.
 
 6. Administración Local de Ejecución Fiscal de San Pedro, con sede en el municipio de San Pedro y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de San Pedro, Francisco I. Madero y Sierra Mojada, todos del Estado de Coahuila de Zaragoza.
 
 7. Administración Local de Ejecución Fiscal de Torreón, con sede en el municipio de Torreón y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de Matamoros, Torreón y Viesca, todos del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+8. Administración Local de Ejecución Fiscal de Ramos Arizpe, con sede en el municipio de Ramos Arizpe y competencia para conocer los asuntos de contribuyentes domiciliados en el municipio de Ramos Arizpe del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+9. Administración Local de Ejecución Fiscal de San Juan de Sabinas, con sede en el municipio de San Juan de Sabinas y competencia para conocer los asuntos de contribuyentes domiciliados en los municipios de San Juan de Sabinas y Múzquiz del Estado de Coahuila de Zaragoza.
 
 IV. La Administración Central de Evaluación y Seguimiento tendrá su sede en el municipio de Saltillo y competencia en todo el Territorio del Estado de Coahuila de Zaragoza.
 
@@ -357,45 +433,87 @@ XXXIX. Solicitar a las instituciones bancarias y a las organizaciones auxiliares
 
 XL. Revisar las declaraciones presentadas por los contribuyentes, así como determinar, emitir la notificación y cobrar las diferencias detectadas en las contribuciones, así como los recargos, multas, accesorios, gastos y honorarios que se causen en los procedimientos que se lleven a cabo.
 
-XLI. Proponer para la baja administrativa correspondiente los créditos incobrables e incosteables, e informar al área correspondiente los casos de depositaria infiel y responsabilidad solidaria.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLI. Cancelar los créditos incobrables e incosteables, en los términos de la normatividad local y federal aplicables.
 
 XLII. Notificar de acuerdo con las disposiciones aplicables, las resoluciones que determinen créditos fiscales, estatales y federales coordinados, citatorios, clausuras de establecimientos, requerimientos, solicitud de informes y otros actos administrativos de su competencia.
 
-XLIII. Llevar a cabo en el ámbito de su competencia y en términos de las disposiciones aplicables, el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, así como las garantías constituidas para asegurar el interés fiscal, inclusive las fianzas a favor de la Administración Fiscal General, y/o de la Secretaría de Finanzas, otorgadas para garantizar los créditos fiscales respecto de los cuales ejerza el procedimiento administrativo de ejecución.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XLIV. Ordenar y sustanciar el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales y las garantías constituidas para asegurar el interés fiscal en dichos créditos, inclusive tratándose de fianzas otorgadas para garantizar obligaciones fiscales a cargo de terceros.
+XLIII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por las Administraciones Centrales y demás oficinas adscritas a la Administración General Tributaria conforme a las disposiciones legales estatales o federales por ingresos coordinados.
 
-XLV. Enajenar fuera de remate bienes embargados, así como expedir el documento que ampare la enajenación de los bienes rematados y proceder a la ampliación del embargo en otros bienes del contribuyente, cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XLVI. Aceptar, previa calificación, las garantías del interés fiscal que se otorguen con relación a contribuciones y accesorios, respecto de los cuales se ejerza el procedimiento administrativo de ejecución, o sobre los que se deba resolver acerca del pago en parcialidades; así como la sustitución de las citadas garantías y anularlas cuando proceda, asimismo, vigilar que dichas garantías sean suficientes tanto al momento de su aceptación como con posterioridad y en su caso, solicitar su ampliación.
+XLIV. Llevar a cabo en el ámbito de su competencia y en términos de las disposiciones aplicables, el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, así como las garantías constituidas para asegurar el interés fiscal, inclusive las fianzas a favor de la Administración Fiscal General, y/o de la Secretaría de Finanzas, otorgadas para garantizar los créditos fiscales respecto de los cuales ejerza el procedimiento administrativo de ejecución.
 
-XLVII. Aceptar, previa calificación, las garantías que se otorguen para garantizar el interés fiscal en los créditos fiscales cuyo cobro le corresponda registrar, exigir su ampliación, autorizar su sustitución y cancelar.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XLVIII. Requerir el pago y ejecutar las acciones necesarias para hacer efectivas las garantías que se otorguen consistentes en fianza, hipoteca, prenda o embargo en la vía administrativa, cuando proceda.
+XLV. Ordenar y sustanciar el procedimiento administrativo de ejecución, para hacer efectivos los créditos fiscales y las garantías constituidas para asegurar el interés fiscal en dichos créditos, inclusive tratándose de fianzas otorgadas para garantizar obligaciones fiscales a cargo de terceros.
 
-XLIX. Autorizar el pago diferido o en parcialidades de los créditos fiscales cuyo cobro le corresponda, previa garantía del interés fiscal de su importe y sus accesorios legales y llevar a cabo el embargo en la vía administrativa como medio de garantía.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-L. Imponer las multas por infracciones a las disposiciones fiscales de su ámbito de competencia, en los términos del Código Fiscal para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables; así como aquellas que correspondan por infracciones al Código Fiscal de la Federación y demás disposiciones fiscales federales en los términos que establezcan los convenios celebrados por el Estado con la Federación.
+XLVI. Enajenar fuera de remate bienes embargados, así como expedir el documento que ampare la enajenación de los bienes rematados y proceder a la ampliación del embargo en otros bienes del contribuyente, cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente.
 
-LI. Tramitar, hasta su conclusión, la dación de bienes en pago y/o el pago en especie de los créditos fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LII. Designar peritos, a efecto de que lleven a cabo el avalúo de los bienes que se ofrezcan como dación en pago y/o pago en especie de contribuciones y en los demás casos que así se requiera.
+XLVII. Aceptar, previa calificación, las garantías del interés fiscal que se otorguen con relación a contribuciones y accesorios, respecto de los cuales se ejerza el procedimiento administrativo de ejecución, o sobre los que se deba resolver acerca del pago en parcialidades; así como la sustitución de las citadas garantías y anularlas cuando proceda, asimismo, vigilar que dichas garantías sean suficientes tanto al momento de su aceptación como con posterioridad y en su caso, solicitar su ampliación.
 
-LIII. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia y hacerlos exigibles mediante el procedimiento administrativo de ejecución.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LIV. Establecer conjuntamente con el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público, los programas de trabajo derivados del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado por el Estado con el Gobierno Federal.
+XLVIII. Aceptar, previa calificación, las garantías que se otorguen para garantizar el interés fiscal en los créditos fiscales cuyo cobro le corresponda registrar, exigir su ampliación, autorizar su sustitución y cancelar.
 
-LV. Coordinarse con las autoridades fiscales federales y municipales, para el mejor ejercicio de sus facultades.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LVI. Revocar de oficio o a petición de parte, los actos emitidos cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales y demás disposiciones aplicables, y en su caso, ordenar su reposición.
+XLIX. Requerir el pago y ejecutar las acciones necesarias para hacer efectivas las garantías que se otorguen consistentes en fianza, hipoteca, prenda o embargo en la vía administrativa, cuando proceda.
 
-LVII. Ordenar y llevar a cabo la suspensión o clausura que corresponda en términos de las disposiciones aplicables, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LVIII. Llevar a cabo el control documental y físico de los fondos, bienes y valores bajo su custodia.
+L. Autorizar el pago diferido o en parcialidades de los créditos fiscales cuyo cobro le corresponda, previa garantía del interés fiscal de su importe y sus accesorios legales y llevar a cabo el embargo en la vía administrativa como medio de garantía.
 
-LIX. Celebrar contratos, convenios vinculados con organismos, instituciones privadas y municipios para otorgar facilidades a sus trabajadores para que puedan cumplir con sus obligaciones fiscales en materia de control vehicular, mediante el descuento por nómina.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LX. Proporcionar asistencia gratuita a los contribuyentes, procurando:
+LI. Imponer las multas por infracciones a las disposiciones fiscales de su ámbito de competencia, en los términos del Código Fiscal para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables; así como aquellas que correspondan por infracciones al Código Fiscal de la Federación y demás disposiciones fiscales federales en los términos que establezcan los convenios celebrados por el Estado con la Federación.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LII. Tramitar, hasta su conclusión, la dación de bienes en pago y/o el pago en especie de los créditos fiscales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LIII. Designar peritos, a efecto de que lleven a cabo el avalúo de los bienes que se ofrezcan como dación en pago y/o pago en especie de contribuciones y en los demás casos que así se requiera.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LIV. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia y hacerlos exigibles mediante el procedimiento administrativo de ejecución.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LV. Establecer conjuntamente con el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público, los programas de trabajo derivados del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado por el Estado con el Gobierno Federal.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LVI. Coordinarse con las autoridades fiscales federales y municipales, para el mejor ejercicio de sus facultades.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LVII. Revocar de oficio o a petición de parte, los actos emitidos cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales y demás disposiciones aplicables, y en su caso, ordenar su reposición.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LVIII. Ordenar y llevar a cabo la suspensión o clausura que corresponda en términos de las disposiciones aplicables, en el ámbito de su competencia.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LIX. Llevar a cabo el control documental y físico de los fondos, bienes y valores bajo su custodia.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LX. Celebrar contratos, convenios vinculados con organismos, instituciones privadas y municipios para otorgar facilidades a sus trabajadores para que puedan cumplir con sus obligaciones fiscales en materia de control vehicular, mediante el descuento por nómina.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXI. Proporcionar asistencia gratuita a los contribuyentes, procurando:
 
 1. Orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones, explicándoles las disposiciones fiscales y, de ser necesario, elaborar y distribuir material informativo encaminado a este fin.
 
@@ -409,81 +527,157 @@ LX. Proporcionar asistencia gratuita a los contribuyentes, procurando:
 
 6. Realizar estudios y proyectos técnicos de investigación en el área de su competencia, y mejorar los métodos y técnicas de orientación al contribuyente.
 
-LXI. Recibir avisos, registros, manifestaciones, instrumentos autorizados y demás documentación a que obliguen a los particulares las disposiciones fiscales, así como dar asistencia al contribuyente para su correcta presentación y orientar a quien deba presentarlos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXII. Integrar y mantener actualizados los padrones de contribuyentes previstos en la legislación estatal y los demás que deba llevar conforme a los convenios celebrados con la Federación.
+LXII. Recibir avisos, registros, manifestaciones, instrumentos autorizados y demás documentación a que obliguen a los particulares las disposiciones fiscales, así como dar asistencia al contribuyente para su correcta presentación y orientar a quien deba presentarlos.
 
-LXIII. Ordenar las inspecciones y visitas domiciliarias, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de solicitudes y avisos en materia de registro de contribuyentes y, en su caso, realizar inscripciones de oficio por actos de autoridad.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXIV. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la presentación de declaraciones, la imposición de multas, requerimientos, solicitudes y avisos al registro de contribuyentes.
+LXIII. Integrar y mantener actualizados los padrones de contribuyentes previstos en la legislación estatal y los demás que deba llevar conforme a los convenios celebrados con la Federación.
 
-LXV. Ordenar las devoluciones o las compensaciones procedentes a que haya lugar en materia de ingresos fiscales estatales o federales conforme a los convenios celebrados con la Federación.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXVI. Realizar actos de control de obligaciones para mantener actualizado el padrón de contribuyentes de impuestos federales coordinados, conforme al Convenio de Colaboración Administrativa en Materia Fiscal, celebrado por el Gobierno del Estado con la Federación y sus Anexos.
+LXIV. Ordenar las inspecciones y visitas domiciliarias, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de solicitudes y avisos en materia de registro de contribuyentes y, en su caso, realizar inscripciones de oficio por actos de autoridad.
 
-LXVII. Contestar, de conformidad con las disposiciones en la materia, las solicitudes de acceso a la información pública que le competan.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXVIII. Emitir los requerimientos para la exigir la presentación de solicitudes y avisos de registros, declaraciones, pagos e instrumentos autorizados, inclusive los derivados de impuestos federales coordinados, cuando los obligados no lo hagan en los plazos establecidos, así como las sanciones que deriven de su incumplimiento.
+LXV. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la presentación de declaraciones, la imposición de multas, requerimientos, solicitudes y avisos al registro de contribuyentes.
 
-LXIX. Vigilar el cumplimiento oportuno de los contribuyentes, responsables solidarios y demás obligados en la presentación de solicitudes y avisos de registros, declaraciones, pagos e instrumentos autorizados, inclusive los derivados de impuestos federales coordinados.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXX. Atender y responder las solicitudes de información referentes a la validación de vehículos regularizados, a través de las consultas a la base de datos de los vehículos en la Secretaría de Hacienda y Crédito Público, verificando la procedencia.
+LXVI. Ordenar las devoluciones o las compensaciones procedentes a que haya lugar en materia de ingresos fiscales estatales o federales conforme a los convenios celebrados con la Federación.
 
-LXXI. Concentrar en las cuentas bancarias autorizadas por su superior jerárquico, o la unidad competente de conformidad con las disposiciones aplicables, los ingresos recaudados, así como rendir la cuenta del movimiento de fondos y valores.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXXII. Vigilar y validar la concentración de fondos en las cuentas bancarias autorizadas.
+LXVII. Realizar actos de control de obligaciones para mantener actualizado el padrón de contribuyentes de impuestos federales coordinados, conforme al Convenio de Colaboración Administrativa en Materia Fiscal, celebrado por el Gobierno del Estado con la Federación y sus Anexos.
 
-LXXIII. Recaudar por conducto de las administraciones locales de recaudación y de las instituciones de crédito o establecimientos autorizados, los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos y demás contribuciones que correspondan al Estado conforme a las disposiciones fiscales estatales y a los convenios celebrados por el Estado con la Federación y/o los municipios.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXXIV. Llevar la contabilidad de los ingresos recaudados para su integración a la contabilidad general de la Administración Fiscal General.
+LXVIII. Contestar, de conformidad con las disposiciones en la materia, las solicitudes de acceso a la información pública que le competan.
 
-LXXV. Remitir diariamente a la unidad administrativa correspondiente la documentación comprobatoria del movimiento de ingresos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXXVI. Participar en la determinación del procedimiento de registro de las diferentes radicaciones de recursos federales, vía descentralización de gasto, gasto federal programable, participaciones y demás recursos similares que reciba el Estado.
+LXIX. Emitir los requerimientos para la (sic) exigir la presentación de solicitudes y avisos de registros, declaraciones, pagos e instrumentos autorizados, inclusive los derivados de impuestos federales coordinados, cuando los obligados no lo hagan en los plazos establecidos, así como las sanciones que deriven de su incumplimiento.
 
-LXXVII. Validar, emitir, distribuir y llevar el control y vigilancia de valores y formas numeradas, destinadas a la prestación de servicios y recaudación de ingresos, así como vigilar su destrucción cuando queden fuera de uso.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXXVIII. Informar de los hechos que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir infracciones o delitos de los servidores públicos de la Administración General Tributaria en el desempeño de sus funciones.
+LXX. Vigilar el cumplimiento oportuno de los contribuyentes, responsables solidarios y demás obligados en la presentación de solicitudes y avisos de registros, declaraciones, pagos e instrumentos autorizados, inclusive los derivados de impuestos federales coordinados.
 
-LXXIX. Entrevistar y aplicar evaluaciones de confiabilidad a los candidatos a ingresar a la Administración General Tributaria, investigar antecedentes académicos, así como practicar investigaciones socioeconómicas a los servidores públicos que ocupen cualquier puesto y a los candidatos para ocuparlos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXXX. Ordenar y practicar revisiones administrativas a las actuaciones de los servidores públicos con motivo de denuncias por presuntos actos de corrupción y quejas relacionadas con aspectos laborales o administrativos, a fin de constatar su probidad en el cumplimiento de las disposiciones aplicables y que sus actividades se realizan conforme al marco normativo que regula la operación de su cargo o comisión; así como formular o, en su caso, ordenar la elaboración de las actas de constancias de hechos correspondientes.
+LXXI. Atender y responder las solicitudes de información referentes a la validación de vehículos regularizados, a través de las consultas a la base de datos de los vehículos en la Secretaría de Hacienda y Crédito Público, verificando la procedencia.
 
-LXXXI. Atender las observaciones y sugerencias realizadas a la Administración Fiscal General, turnándolas al responsable de la unidad administrativa que en cada caso corresponda, e investigar las quejas y denuncias personales o institucionales, respecto a los servicios que opera la Administración General Tributaria.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXXXII. Expedir las constancias de identificación del personal de la Administración General Tributaria y de las administraciones centrales y locales que tiene adscritas, a fin de habilitarlos para la práctica de actos relacionados con el desempeño de sus facultades.
+LXXII. Concentrar en las cuentas bancarias autorizadas por su superior jerárquico, o la unidad competente de conformidad con las disposiciones aplicables, los ingresos recaudados, así como rendir la cuenta del movimiento de fondos y valores.
 
-LXXXIII. Determinar el perjuicio que sufre o pudo haber sufrido el fisco para efectos del artículo 81 del Código Fiscal para el Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXXXIV. Participar en los comités de aceptación de pago en especie con bienes o servicios, en el de estudios fiscales y en los demás que se creen como resultado de las funciones y atribuciones delegadas.
+LXXIII. Vigilar y validar la concentración de fondos en las cuentas bancarias autorizadas.
 
-LXXXV. Instalar los módulos de cobro y emisión de documentos, a través de instituciones de crédito y establecimientos autorizados de contribuciones estatales o federales coordinadas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXXXVI. Ejecutar las sanciones administrativas impuestas a los trabajadores, en los términos en que las autoridades competentes lo determinen.
+LXXIV. Recaudar por conducto de las administraciones locales de recaudación y de las instituciones de crédito o establecimientos autorizados, los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos y demás contribuciones que correspondan al Estado conforme a las disposiciones fiscales estatales y a los convenios celebrados por el Estado con la Federación y/o los municipios.
 
-LXXXVII. Prever las cuentas por pagar de las diversas unidades administrativas adscritas a la Administración Fiscal General, que afectan los diversos capítulos del presupuesto autorizado.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LXXXVIII. Integrar los requerimientos de materiales de consumo y bienes muebles diversos de las unidades administrativas que tenga adscritas, y elaborar el programa anual de adquisiciones para su aprobación.
+LXXV. Llevar la contabilidad de los ingresos recaudados para su integración a la contabilidad general de la Administración Fiscal General.
 
-LXXXIX. Administrar, controlar y vigilar los almacenes o lugares en donde se depositen bienes o valores de las dependencias adscritas a la Administración General Tributaria.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XC. Proponer los estímulos fiscales que puedan otorgarse sobre las contribuciones locales, considerando su impacto en los ingresos y el beneficio que se pudiera obtener.
+LXXVI. Remitir diariamente a la unidad administrativa correspondiente la documentación comprobatoria del movimiento de ingresos.
 
-XCI. Participar con las unidades administrativas competentes en el anteproyecto del presupuesto anual de ingresos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XCII. Participar con las autoridades federales y estatales competentes en los grupos de trabajo que se creen dentro del Sistema Nacional de Coordinación Fiscal, para lograr la adecuada interpretación y aplicación de la legislación fiscal en materia tributaria.
+LXXVII. Participar en la determinación del procedimiento de registro de las diferentes radicaciones de recursos federales, vía descentralización de gasto, gasto federal programable, participaciones y demás recursos similares que reciba el Estado.
 
-XCIII. Vigilar la aplicación de acuerdos y convenios de coordinación en materia de ingresos fiscales celebrados con las autoridades municipales, federales y con otras entidades federativas, así como evaluar sus resultados.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XCIV. Solicitar a las unidades correspondientes del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público información relativa a la presentación de declaraciones informativas, así corno del pago de impuestos de contribuyentes que por sus obligaciones fiscales estén comprendidos en los convenios de colaboración administrativa celebrados entre el Estado y la Federación.
+LXXVIII. Validar, emitir, distribuir y llevar el control y vigilancia de valores y formas numeradas, destinadas a la prestación de servicios y recaudación de ingresos, así como vigilar su destrucción cuando queden fuera de uso.
 
-XCV. Participar en el diseño de los programas operativos de fiscalización tanto del ámbito federal, en concordancia con los Convenios de Colaboración Administrativa celebrados entre el Estado y la Federación, como de programas de fiscalización respecto a contribuciones estatales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XCVI. Participar en los comités de programación con las administraciones locales de fiscalización de la Administración Fiscal General, para acordar las acciones de fiscalización.
+LXXIX. Informar de los hechos que tenga conocimiento en el ejercicio de sus facultades, que puedan constituir infracciones o delitos de los servidores públicos de la Administración General Tributaria en el desempeño de sus funciones.
 
-XCVII. Proponer los lineamientos en materia de licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que Incluyan el expendio de dichas bebidas, así como lo correspondiente a espectáculos públicos conforme a los requisitos establecidos en las disposiciones fiscales, y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XCVIII. Las demás que le atribuyan este reglamento y otras las disposiciones aplicables, así corno aquellas que le confiera el Administrador Fiscal del Estado.
+LXXX. Entrevistar y aplicar evaluaciones de confiabilidad a los candidatos a ingresar a la Administración General Tributaria, investigar antecedentes académicos, así como practicar investigaciones socioeconómicas a los servidores públicos que ocupen cualquier puesto y a los candidatos para ocuparlos.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXI. Ordenar y practicar revisiones administrativas a las actuaciones de los servidores públicos con motivo de denuncias por presuntos actos de corrupción y quejas relacionadas con aspectos laborales o administrativos, a fin de constatar su probidad en el cumplimiento de las disposiciones aplicables y que sus actividades se realizan conforme al marco normativo que regula la operación de su cargo o comisión; así como formular o, en su caso, ordenar la elaboración de las actas de constancias de hechos correspondientes.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXII. Atender las observaciones y sugerencias realizadas a la Administración Fiscal General, turnándolas al responsable de la unidad administrativa que en cada caso corresponda, e investigar las quejas y denuncias personales o institucionales, respecto a los servicios que opera la Administración General Tributaria.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXIII. Expedir las constancias de identificación del personal de la Administración General Tributaria y de las administraciones centrales y locales que tiene adscritas, a fin de habilitarlos para la práctica de actos relacionados con el desempeño de sus facultades.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXIV. Determinar el perjuicio que sufre o pudo haber sufrido el fisco para efectos del artículo 81 del Código Fiscal para el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXV. Participar en los comités de aceptación de pago en especie con bienes o servicios, en el de estudios fiscales y en los demás que se creen como resultado de las funciones y atribuciones delegadas.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXVI. Instalar los módulos de cobro y emisión de documentos, a través de instituciones de crédito y establecimientos autorizados de contribuciones estatales o federales coordinadas.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXVII. Ejecutar las sanciones administrativas impuestas a los trabajadores, en los términos en que las autoridades competentes lo determinen.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXVIII. Prever las cuentas por pagar de las diversas unidades administrativas adscritas a la Administración Fiscal General, que afectan los diversos capítulos del presupuesto autorizado.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXIX. Integrar los requerimientos de materiales de consumo y bienes muebles diversos de las unidades administrativas que tenga adscritas, y elaborar el programa anual de adquisiciones para su aprobación.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XC. Administrar, controlar y vigilar los almacenes o lugares en donde se depositen bienes o valores de las dependencias adscritas a la Administración General Tributaria.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCI. Proponer los estímulos fiscales que puedan otorgarse sobre las contribuciones locales, considerando su impacto en los ingresos y el beneficio que se pudiera obtener.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCII. Participar con las unidades administrativas competentes en el anteproyecto del presupuesto anual de ingresos.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCIII. Participar con las autoridades federales y estatales competentes en los grupos de trabajo que se creen dentro del Sistema Nacional de Coordinación Fiscal, para lograr la adecuada interpretación y aplicación de la legislación fiscal en materia tributaria.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCIV. Vigilar la aplicación de acuerdos y convenios de coordinación en materia de ingresos fiscales celebrados con las autoridades municipales, federales y con otras entidades federativas, así como evaluar sus resultados.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCV. Solicitar a las unidades correspondientes del Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público información relativa a la presentación de declaraciones informativas, así como del pago de impuestos de contribuyentes que por sus obligaciones fiscales estén comprendidos en los convenios de colaboración administrativa celebrados entre el Estado y la Federación.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCVI. Participar en el diseño de los programas operativos de fiscalización tanto del ámbito federal, en concordancia con los Convenios de Colaboración Administrativa celebrados entre el Estado y la Federación, como de programas de fiscalización respecto a contribuciones estatales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCVII. Participar en los comités de programación con las administraciones locales de fiscalización de la Administración Fiscal General, para acordar las acciones de fiscalización.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCVIII. Proponer los lineamientos en materia de licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que Incluyan el expendio de dichas bebidas, así como lo correspondiente a espectáculos públicos conforme a los requisitos establecidos en las disposiciones fiscales, y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCIX. Las demás que le atribuyan este reglamento y otras las disposiciones aplicables, así como aquellas que le confiera el Administrador Fiscal del Estado.
 
 ###### ARTÍCULO 13.
 
@@ -521,9 +715,15 @@ XV. Resolver, conforme a las disposiciones aplicables respecto de la devolución
 
 XVI. Interponer ante los Tribunales Colegiados de Circuito que corresponda, el recurso de revisión fiscal, en contra de resoluciones emitidas por el H. Tribunal Federal de Justicia Fiscal y Administrativa o sus salas, en los términos que establezcan los convenios que se tengan celebrados con la Federación.
 
-XVII. Coordinar las labores y acciones a implementar para dar trámite y seguimiento hasta su total conclusión a las solicitudes de información presentadas ante la Administración Fiscal General; así como rendir y presentar los informes, documentos y demás información que sea requerida por el Instituto Coahuilense de Acceso a la Información, en términos de las disposiciones legales aplicables, y
+XVII. Coordinar las labores y acciones a implementar para dar trámite y seguimiento hasta su total conclusión a las solicitudes de información presentadas ante la Administración Fiscal General; así como rendir y presentar los informes, documentos y demás información que sea requerida por el Instituto Coahuilense de Acceso a la Información, en términos de las disposiciones legales aplicables, y (sic)
 
-XVIII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como aquellas que le confiera el titular de la Administración Fiscal General.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVIII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administración Central de lo Contencioso conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIX. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como aquellas que le confiera el titular de la Administración Fiscal General.
 
 Para el ejercicio de las facultades a que se refiere el presente artículo, la Administración General Jurídica tendrá competencia dentro de todo el territorio del Estado de Coahuila de Zaragoza.
 
@@ -657,37 +857,83 @@ I. Formular y proponer, en el ámbito de su competencia, para su aprobación al 
 
 6. Padrones de contribuyentes, visitas domiciliarias, verificaciones en materia de registro de contribuyentes, requerimientos de obligaciones e imposición de sanciones.
 
-II. Aplicar la política, los programas, sistemas, procedimientos, métodos de trabajo y criterios que al efecto se aprueben por la Administración General Tributaria.
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+7. Análisis del comportamiento de la recaudación estatal y federal coordinada.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+II. Implementar, dirigir y coordinar la aplicación de la política, los programas, sistemas, procedimientos, métodos de trabajo y criterios que al efecto se aprueben por la Administración General Tributaria.
 
 III. Diagnosticar el comportamiento de la recaudación a través de un sistema de indicadores de control de gestión, que permita informar el avance y cumplimiento de objetivos y metas en materia de recaudación, así como identificar posibles situaciones de riesgo y elaborar, en su caso, medidas que permitan su solución, además de proyectar mensualmente la recaudación de contribuciones.
 
-IV. Diseñar las formas oficiales de avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-V. Autorizar la emisión, distribución y control de valores y formas numeradas, destinadas a la prestación de servicios y recaudación de ingresos; así como autorizar y vigilar su destrucción cuando quedan fuera de uso.
+IV. Realizar la supervisión de las Administraciones que de ella dependen,
 
-VI. Recaudar por conducto de las administraciones locales de recaudación o por las instituciones de crédito o establecimientos autorizados, los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos y demás contribuciones, correspondan al Estado conforme a las disposiciones fiscales estatales y a los convenios celebrados por el Estado con la Federación y/o con los Municipios.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-VII. Efectuar el corte diario de caja y llevar los registros necesarios para el control de movimientos de ingresos y presentarlos a su superior jerárquico.
+V. Establecer los lineamientos operativos de las Administraciones que de ella dependen, así como los sistemas de registro y recaudación de ingresos y sus procedimientos de operación.
 
-VIII. Coordinar los registros de información de pagos en las diferentes instituciones de crédito o establecimientos autorizados e internet.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-IX. Concentrar en las cuentas bancarias autorizadas, los ingresos recaudados y rendir la cuenta del movimiento de fondos y valores.
+VI. Participar en el ámbito de su competencia en la formulación de acuerdos y convenios de coordinación en materia fiscal con las autoridades municipales, estatales y federales y con otras entidades federativas, así como con diversas autoridades y terceros, y vigilar su aplicación y evaluar sus resultados.
 
-X. Autorizar y coordinar la instalación de módulos de cobro y emisión de documentos a través de instituciones de crédito y establecimientos autorizados de contribuciones estatales o federales coordinadas, vigilar la concentración de fondos en las cuentas bancarias autorizadas para tal efecto, así como de los descuentos por nómina de control vehicular e infracciones municipales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XI. Rendir la cuenta diaria y mensual de ingresos e informar del comportamiento al Administrador General Tributario.
+VII. Diseñar las formas oficiales de avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales.
 
-XII. Realizar convenios con las instituciones de crédito y establecimientos autorizados relativos a la prestación de servicios bancarios de cobranza de los impuestos, derechos y contribuciones estatales y federales coordinadas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIII. Validar la contabilidad de los ingresos recaudados para su integración a la contabilidad general de la Administración Fiscal General.
+VIII. Autorizar la emisión, distribución a solicitud del contribuyente y control y resguardo de valores y formas numeradas, destinadas a la prestación de servicios y recaudación de ingresos; así como autorizar y vigilar su destrucción cuando quedan fuera de uso.
 
-XIV. Llevar a cabo el mantenimiento y codificación de los catálogos del Sistema Integral de Ingresos
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XV. Recibir, a través de las administraciones locales de recaudación, las declaraciones, avisos, registros, manifestaciones, instrumentos autorizados y demás documentación a que obliguen a los particulares las disposiciones fiscales, así como dar asistencia al contribuyente para su correcta presentación y orientar a quien deba presentarlos.
+IX. Recaudar por conducto de las administraciones locales de recaudación o por las instituciones de crédito o establecimientos autorizados, los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos y demás contribuciones, correspondan al Estado conforme a las disposiciones fiscales estatales y a los convenios celebrados por el Estado con la Federación y/o con los Municipios.
 
-XVI. Revisar las declaraciones presentadas por los contribuyentes.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVII. Proporcionar asistencia gratuita a los contribuyentes, procurando:
+X. Efectuar el corte diario de caja y llevar los registros necesarios para el control de movimientos de ingresos y presentarlos a su superior jerárquico.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XI. Coordinar los registros de información de pagos en las diferentes instituciones de crédito o establecimientos autorizados e internet.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XII. Concentrar en las cuentas bancarias autorizadas, los ingresos recaudados y rendir la cuenta del movimiento de fondos y valores.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIII. Autorizar y coordinar la instalación de módulos de cobro y emisión de documentos a través de instituciones de crédito y establecimientos autorizados de contribuciones estatales o federales coordinadas, vigilar la concentración de fondos en las cuentas bancarias autorizadas para tal efecto, así como de los descuentos por nómina de control vehicular e infracciones municipales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIV. Consolidar y rendir la cuenta diaria y mensual de ingresos e informar del comportamiento de los ingresos captados diarios, mensuales y acumulados al Administrador General Tributario.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XV. Realizar convenios con las instituciones de crédito y establecimientos autorizados relativos a la prestación de servicios bancarios de cobranza de los impuestos, derechos y contribuciones estatales y federales coordinadas.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVI. Validar la contabilidad de los ingresos recaudados para su integración a la contabilidad general de la Administración Fiscal General.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVII. Llevar a cabo el mantenimiento y codificación de los catálogos del Sistema Integral de Ingresos.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVIII. Recibir, a través de las demás unidades administrativas de la la (sic) Administración General Tributaria y de las administraciones locales de recaudación, las declaraciones, avisos, registros, manifestaciones, instrumentos autorizados, dictámenes fiscales y demás documentación a que obliguen a los particulares las disposiciones fiscales, así como dar asistencia al contribuyente para su correcta presentación y orientar a quien deba presentarlos.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIX. Revisar las declaraciones presentadas por los contribuyentes.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XX. Proporcionar asistencia gratuita a los contribuyentes, procurando:
 
 1. Orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones, explicándoles las disposiciones fiscales y, de ser necesario, elaborar y distribuir material informativo encaminado a este fin.
 
@@ -701,161 +947,405 @@ XVII. Proporcionar asistencia gratuita a los contribuyentes, procurando:
 
 6. Realizar estudios y proyectos técnicos de investigación en el área de su competencia y mejorar los métodos y técnicas de orientación al contribuyente.
 
-XVIII. Tramitar y resolver las devoluciones y las compensaciones procedentes a que haya lugar en materia de ingresos fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIX. Tramitar las solicitudes de acceso a la información pública que le competan.
+XXI. Tramitar y resolver las solicitudes de devoluciones y las compensaciones que procedan conforme a las leyes fiscales, así como solicitar la documentación para verificar su procedencia en materia de ingresos fiscales.
 
-XX. Ejecutar los programas para la detección de contribuyentes omisos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXI. Dar trámite a las solicitudes de certificación de pagos de control vehicular realizados en el Estado o en otra Entidad Federativa.
+XXII. Tramitar las solicitudes de acceso a la información pública que le competan.
 
-XXII. Integrar, controlar y mantener actualizados los padrones de contribuyentes previstos en la legislación, así como ordenar y practicar visitas domiciliarias, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de solicitudes y avisos en materia de registro de contribuyentes y en su caso, realizar inscripciones de oficio por actos de autoridad.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXIII. Realizar actos de verificación para mantener actualizado el padrón de contribuyentes de impuestos federales coordinados, conforme a los convenios celebrados con las autoridades federales, a través de visitas domiciliarias, requiriendo, en su caso, la solicitud de inscripción o avisos al Registro Federal de Contribuyentes cuando los obligados no lo hubieran hecho, así como imponer las sanciones correspondientes.
+XXIII. Ejecutar los programas para la detección de contribuyentes omisos, nuevos contribuyentes, así como la detección de toda actividad comercial que por ley, deberá ser gravada.
 
-XXIV. Autorizar o revocar el pago diferido o en parcialidades de acuerdo a la legislación fiscal del Estado o Federal en materia de contribuciones coordinadas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXV. Designar y expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de diligencias.
+XXIV. Dar trámite a las solicitudes de certificación de pagos de impuestos, derechos y obligaciones realizados en el Estado o en otra Entidad Federativa.
 
-XXVI. Habilitar días y horas para la práctica de diligencias según lo establezcan las leyes fiscales federales y/o estatales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXVII. Designar a los interventores y verificadores fiscales que se requiera.
+XXV. Integrar, controlar y mantener actualizados los padrones de contribuyentes previstos en la legislación, así como ordenar y practicar visitas domiciliarias, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de solicitudes y avisos en materia de registro de contribuyentes y en su caso, realizar inscripciones de oficio por actos de autoridad.
 
-XXVIII. Definir, de conformidad con las disposiciones aplicables, los lineamientos en materia de licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, así como lo correspondiente a espectáculos públicos conforme a los requisitos establecidos en las disposiciones fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXIX. Requerir a los contribuyentes para que exhiban en las administraciones locales de recaudación y las oficinas de recaudación, la documentación comprobatoria de sus obligaciones fiscales cuya vigilancia se encuentre encomendada a dichas unidades administrativas.
+XXVI. Realizar actos de verificación para mantener actualizado el padrón de contribuyentes de impuestos federales coordinados, conforme a los convenios celebrados con las autoridades federales, a través de visitas domiciliarias, requiriendo, en su caso, la solicitud de inscripción o avisos al Registro Federal de Contribuyentes cuando los obligados no lo hubieran hecho, así como imponer las sanciones correspondientes.
 
-XXX. Revocar de oficio o a petición de parte, los actos emitidos por la misma y por los administradores locales de recaudación y de las oficinas de recaudación, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales, y en su caso, ordenar su reposición.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXI. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la presentación de declaraciones, requerimientos, solicitudes y avisos al registro de contribuyentes.
+XXVII. Autorizar o revocar el pago diferido o en parcialidades de acuerdo a la legislación fiscal del Estado o Federal en materia de contribuciones coordinadas.
 
-XXXII. Colaborar con las autoridades competentes cuando así sea solicitado en la investigación de hechos que puedan constituir infracciones administrativas, de seguridad pública, fiscales y de servidores públicos, delitos fiscales y delitos de servidores públicos en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXIII. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, para el mejor ejercicio de sus facultades.
+XXVIII. Designar y expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de diligencias.
 
-XXXIV. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXV. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+XXIX. Habilitar días y horas para la práctica de diligencias según lo establezcan las leyes fiscales federales y/o estatales.
 
-XXXVI. Resguardar los bienes que integran el patrimonio de la dependencia e intervenir en el proceso de entrega-recepción de las unidades administrativas, para efectos de verificar la existencia y condición de los activos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXVII. Elaborar anualmente el presupuesto-proyección anual y su distribución mensual de ingresos de las administraciones locales y oficinas de recaudación.
+XXX. Designar a los interventores, verificadores fiscales y notificadores que se requiera.
 
-XXXVIII. Participar en los comités de aceptación de pago en especie con bienes o servicios, en el de estudios fiscales, y en los demás que se formen como resultado de las funciones y atribuciones delegadas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXIX. Vigilar el cumplimiento de las obligaciones fiscales estatales y federales coordinadas, notificar y requerir el cumplimiento, así como aplicar las sanciones y multas que deriven de su incumplimiento.
+XXXI. Expedir las licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, así como lo correspondiente a espectáculos públicos conforme a los requisitos establecidos en las disposiciones fiscales, así como definir los lineamientos en esta materia.
 
-XL. Celebrar convenios con dependencias centralizadas, entidades públicas, organismos privados y municipios para la prestación de descuento por nómina de los impuestos y derechos en materia de control vehicular.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XLI. Validar la información contable de las administraciones locales de recaudación
+XXXII. Requerir a los contribuyentes para que exhiban en las administraciones locales de recaudación y las oficinas de recaudación, la documentación comprobatoria de sus obligaciones fiscales cuya vigilancia se encuentre encomendada a dichas unidades administrativas.
 
-XLII. Realizar la vigilancia de obligaciones mediante llamadas telefónicas a los contribuyentes con mora en el pago de sus impuestos estatales y federales coordinados.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XLIII. Colaborar en el diseño, evaluación y modernización de los procedimientos administrativos y las políticas y sistemas de control interno de las administraciones locales de recaudación.
+XXXIII. Revocar de oficio o a petición de parte, los actos emitidos por la misma y por las Administraciones y Oficinas que de ella dependan, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales, y en su caso, ordenar su reposición.
 
-XLIV. Validar e incluir los ingresos federales coordinados integrados en la contabilidad de ingresos a fin de reportar al área correspondiente para su integración a la cuenta mensual comprobable.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XLV. Coordinar y conciliar con las dependencias y entidades de la administración pública que brindan los servicios establecidos en la Ley de Hacienda para el Estado de Coahuila de Zaragoza y los Decretos de apoyos económicos a la población en general para su registro y acreditación de instituciones de crédito y establecimientos autorizados.
+XXXIV. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la presentación de declaraciones, requerimientos, solicitudes y avisos al registro de contribuyentes.
 
-XLVI. Identificar y determinar los procedimientos administrativos que deban automatizarse y solicitar a la Administración Central de Sistemas, el apoyo requerido para llevarlo a cabo.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XLVII. Realizar el cobro de contribuciones estatales y federales coordinadas a través de medios electrónicos, en coordinación con las instituciones de crédito, así como realizar el diseño y control de información de la página web que se asigne para tal efecto.
+XXXV. Colaborar con las autoridades competentes cuando así sea solicitado en la investigación de hechos que puedan constituir infracciones administrativas, de seguridad pública, fiscales y de servidores públicos, delitos fiscales y delitos de servidores públicos en el ámbito de su competencia.
 
-XLVIII. Recaudar, a través de los inspectores e interventores autorizados para tal efecto, el pago correspondiente al impuesto sobre espectáculos públicos y expedir un recibo provisional válido en el momento del evento, para ingresarlo a la cuenta de la Administración Fiscal General correspondiente.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XLIX. Clausurar o suspender espectáculos públicos a través de los inspectores e interventores autorizados cuando no se reúnan los requisitos fiscales para su desarrollo o no se garantice el cumplimiento de la obligación fiscal correspondiente.
+XXXVI. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, para el mejor ejercicio de sus facultades.
 
-L. Participar en los procesos licitatorios para la adquisición de valores y formas numeradas destinadas a la prestación de servicios y recaudación de ingresos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-LI. Administrar los sistemas de recaudación de acuerdo a la normatividad existente que impliquen el registro de padrones de contribuyentes, y
+XXXVII. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones.
 
-LII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como aquellas que le confiera su superior jerárquico inmediato.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXVIII. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXIX. Resguardar los bienes que integran el patrimonio de la dependencia e intervenir en el proceso de entrega-recepción de las unidades administrativas, para efectos de verificar la existencia y condición de los activos.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XL. Elaborar anualmente el presupuesto-proyección anual y su distribución mensual de ingresos de las administraciones locales y oficinas de recaudación.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLI. Participar en los comités de aceptación de pago en especie con bienes o servicios, en el de estudios fiscales, y en los demás que se formen como resultado de las funciones y atribuciones delegadas.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLII. Vigilar el cumplimiento de las obligaciones fiscales estatales y federales coordinadas, notificar y requerir el cumplimiento, así como aplicar las sanciones y multas que deriven de su incumplimiento.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLIII. Celebrar convenios con dependencias centralizadas, entidades públicas, organismos privados y municipios para la prestación de descuento por nómina de los impuestos y derechos en materia de control vehicular.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLIV. Identificar los contribuyentes con incumplimiento en sus obligaciones fiscales estatales y federales coordinadas, y requerir la presentación de declaraciones, avisos, documentos e instrumentos autorizados, cuando los obligados no lo hagan en los plazos respectivos y simultánea o sucesivamente hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate o a la que resulte determinada por la autoridad, así como requerir la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos, documentos e instrumentos autorizados, en términos de las disposiciones fiscales, así como aplicar sanciones y multas que deriven de su incumplimiento
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLV. Validar la información contable de las administraciones locales de recaudación
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLVI. Realizar la vigilancia de obligaciones mediante llamadas telefónicas a los contribuyentes con mora en el pago de sus impuestos estatales y federales coordinados.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLVII. Colaborar en el diseño, evaluación y modernización de los procedimientos administrativos y las políticas y sistemas de control interno de las administraciones locales de recaudación.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLVIII. Validar e incluir los ingresos federales coordinados integrados en la contabilidad de ingresos a fin de reportar al área correspondiente para su integración a la cuenta mensual comprobable.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLIX. Coordinar y conciliar con las dependencias y entidades de la administración pública que brindan los servicios establecidos en la Ley de Hacienda para el Estado de Coahuila de Zaragoza y los Decretos de apoyos económicos a la población en general para su registro y acreditación de instituciones de crédito y establecimientos autorizados.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+L. Identificar y determinar los procedimientos administrativos que deban automatizarse y solicitar a la Coordinación Central de Informática, el apoyo requerido para llevarlo a cabo.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LI. Realizar el cobro de contribuciones estatales y federales coordinadas a través de medios electrónicos, en coordinación con las instituciones de crédito, así como realizar el diseño y control de información de la página web que se asigne para tal efecto.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LII. Recaudar, a través de los inspectores e interventores autorizados para tal efecto, el pago correspondiente al impuesto sobre espectáculos públicos y expedir un recibo provisional válido en el momento del evento, para ingresarlo a la cuenta de la Administración Fiscal General correspondiente.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LIII. Clausurar o suspender espectáculos públicos a través de los inspectores e interventores autorizados cuando no se reúnan los requisitos fiscales para su desarrollo o no se garantice el cumplimiento de la obligación fiscal correspondiente.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LIV. Participar en los procesos licitatorios públicos para la adquisición de valores y formas numeradas destinadas a la prestación de servicios y recaudación de ingresos, así como validar las medidas de seguridad de las formas valoradas.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LV. Administrar los sistemas de recaudación de acuerdo a la normatividad existente que impliquen el registro de padrones de contribuyentes.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LVI. Realizar estudios y proyectos técnicos de investigación en el área de su competencia a fin de mejorar los métodos y técnicas de orientación al contribuyente.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LVII. Revisar la información de las declaraciones, avisos, registros, manifestaciones, instrumentos autorizados, dictámenes fiscales y demás documentación a que obliguen a los particulares las disposiciones fiscales con el propósito de instrumentar programas para la detección de contribuyentes omisos en el cumplimiento de sus obligaciones fiscales.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LVIII. Conciliar y cotejar la información contenida en los padrones de contribuyentes y demás registros previstos en la legislación fiscal con que se (sic) cuenta la Administración Central de Recaudación, con la que se obtenga mediante convenios celebrados con otras autoridades fiscales afines, con el propósito de verificar el exacto cumplimiento de las obligaciones fiscales.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LIX. Vigilar que los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y sus accesorios, cumplan con la obligación de presentar declaraciones, así como solicitar a dichas personas y a terceros los datos, informes o documentos para aclarar la información asentada en las declaraciones de pago provisional, definitivo, del ejercicio y complementarias.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LX. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXI. Verificar la información de los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por contador público registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Nóminas, Impuesto por Servicios de Hospedaje, e Impuesto Sobre Rifas, Sorteos y Juegos con Apuestas.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXII. Participar en la definición e instrumentación de los mecanismos para la implementación de los proyectos especiales en materia de recaudación, en forma desagregada por sector de contribuyentes.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXIII. Coadyuvar en el análisis de los proyectos e iniciativas de carácter legislativo, en materias relacionadas con la competencia de la Administración Fiscal General.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXIV. Establecer el criterio de interpretación que las unidades administrativas de la Administración Fiscal General deberán seguir en la aplicación de las disposiciones fiscales y aduaneras, en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y sus accesorios de carácter federal, así como de este Reglamento, con excepción de los señalados como competencia de otra unidad administrativa de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXV. Asistir a las unidades administrativas adscritas a la Administración Fiscal General, a fin de que en los procedimientos administrativos que dichas unidades lleven a cabo se cumplan las formalidades previstas en las disposiciones que los regulan, de oficio o a petición de parte.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXVI. Elaborar propuestas de modificación a leyes o decretos; a los reglamentos, decretos, acuerdos y órdenes del Gobernador del Estado, y a las demás disposiciones de observancia general, que deban proponerse a la unidad administrativa correspondiente de la Secretaría de Finanzas, en las materias de la competencia de la Administración Fiscal General, así como solicitar a las unidades administrativas de dicho órgano desconcentrado la información necesaria para tales efectos, emitir opinión respecto de las propuestas referidas y fungir como enlace de la Administración Fiscal General ante dicha Dependencia para estos efectos.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXVII. Compilar la normatividad interna del (sic) la Administración Fiscal General, en la materia fiscal.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXVIII. Analizar de oficio o previa solicitud de la unidad administrativa, que los actos administrativos dirigidos de manera individual a contribuyentes, que emitan las unidades administrativas de la Administración Fiscal General, cumplan las formalidades previstas en las disposiciones legales que regulan dichos actos, a fin de evitar vicios de fondo o de procedimiento.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXIX. Desarrollar esquemas de evaluación de la eficiencia y productividad de los procesos que aplica la Administración Fiscal General.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXX. Coordinar los proyectos que se requieran para promover el cumplimiento de los objetivos del plan estratégico de la Administración Fiscal General.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXI. Estudiar, analizar e investigar el comportamiento de los diversos sectores que conforman la economía nacional, con el propósito de identificar conductas tendientes a la evasión fiscal y contrabando de mercancías y evaluar el impacto económico que dichas conductas generen en la recaudación, así como proponer a las unidades administrativas de la Administración Fiscal General estrategias y alternativas tendientes a combatir las citadas conductas.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXII. Determinar el importe de los honorarios por notificación y los gastos de ejecución en materia de su competencia, así como hacerlos efectivos en términos de las disposiciones fiscales aplicables.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXIII. Proporcionar información en materia de su competencia a las autoridades judiciales y administrativas que así lo soliciten, así como abstenerse de proporcionarla en términos del artículo 62 del Código Fiscal del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXIV. Entregar a las personas habilitadas para el efecto, las nóminas de las dependencias del Gobierno del Estado que le encomiende la Secretaria de Finanzas.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXV. Coordinar y gestionar en coordinación de la Administración Central de Recursos Materiales y Financieros y sus áreas adscritas, la renta y mejora de inmuebles o espacios necesarios para la operación de la Administración Central de Recaudación y sus áreas adscritas.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXVI. Llevar a cabo el control de archivo y mensajería de la Administración Central de Recaudación, a través de una Oficialía de Partes, establecer los lineamientos a las Administraciones Locales de Recaudación.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXVII. Organizar los programas de capacitación afines a la Administración Central de Recaudación.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXVIII. Actualizar la página de internet en el ámbito de la competencia de la Administración Central de Recaudación.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXIX. Recepción de quejas, sugerencias y/o propuestas del contribuyente a través de los buzones instalados en las administraciones locales de recaudación, realizando las acciones correspondientes a fin de darles la debida atención.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXX. Elaborar encuestas de estudios de calidad en el servicio para las administraciones locales de recaudación, generando un informe para el Administrador Central de Recaudación.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXI. Elaborar el formato para pago en bancos y centros comerciales generados en la Unicaja del sistema integral de ingresos, respecto de todos los ingresos estatales y federales coordinados.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXII. Participar en acuerdos con el transporte Público para la aplicación de Programas de actualización del parque vehicular.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXIII. Recibir, validar y autorizar la documentación presentada por los contribuyentes relativos al control vehicular.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXIV. Elaborar acuerdos de cancelación de requerimientos y créditos fiscales en materia de su competencia.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXV. Concentrar la información de ingresos por impuestos por diversiones y espectáculos públicos para el cálculo y distribución de gastos.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXVI. Realizar cruces de información de padrones con otras autoridades fiscales, para la detección de contribuyentes omisos.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXVII. Colaborar con otras dependencias estatales en operativos de seguridad pública.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXVIII. Llevar a cabo la vigilancia de fondos y valores que se le sean encomendados para tal efecto.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+LXXXIX. Certificar hechos, documentos y expedir las constancias correspondientes a los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XC. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administración Central de Recaudación y las oficinas adscritas a la misma, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XCI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como aquellas que le confiera su superior jerárquico inmediato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 20.
 
-Corresponde a la Administración de Recaudación:
+Corresponde a la Administración de Coordinación de Recaudación:
 
 I. Formular y proponer en el ámbito de su competencia para su aprobación al Administrador Central de Recaudación, las políticas y programas de actividades a los que deben sujetarse las unidades administrativas de su adscripción, así como coordinarse con las autoridades fiscales federales y municipales en materia de:
 
-1. Recaudación de contribuciones, aprovechamientos, productos estatales y federales coordinados.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
-2. Contabilidad de ingresos, movimiento de fondos, valores y análisis del comportamiento de la recaudación, estatal y federal coordinada.
+1. Capacitación al personal de las administraciones adscritas a la Administración Central de Recaudación.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+2. Devolución de pago de lo indebido.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+3. Administración de Recursos Materiales, Humanos y Servicios.
 
 II. Realizar la supervisión de las Administraciones Locales de Recaudación en materia de su competencia.
 
 III. Aplicar la política, los programas, sistemas, procedimientos, métodos de trabajo y criterios que al efecto se aprueben por la Administración Central de Recaudación.
 
-IV. Establecer los lineamientos operativos de la Administración de Recaudación, de las Administraciones Locales de Recaudación, así como los sistemas de registro y recaudación de ingresos y sus procedimientos de operación.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-V. Participar en el ámbito de su competencia en la formulación de acuerdos y convenios de coordinación en materia fiscal con las autoridades municipales, federales y con otras entidades federativas, vigilar su aplicación y evaluar sus resultados.
+IV. Establecer los lineamientos operativos de la Administración de Coordinación de Recaudación, de las Administraciones Locales de Recaudación, en el ámbito de su competencia.
 
-VI. Recaudar por conducto de las Administraciones Locales de Recaudación o por las instituciones de crédito o establecimientos autorizados, los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos y demás contribuciones, correspondan al Estado conforme a las disposiciones fiscales estatales y a los convenios celebrados por el Estado con la Federación y/o con los Municipios.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-VII. Efectuar el corte diario de caja y llevar los registros necesarios para el control de movimientos de ingresos y presentarlos a su superior jerárquico.
+V. Tramitar y resolver las devoluciones y las compensaciones que procedan conforme a las leyes fiscales, así como solicitar la documentación para verificar su procedencia en materia de ingresos fiscales.
 
-VIII. Coordinar los registros de información de pagos en las diferentes instituciones de crédito o establecimientos autorizados e internet.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-IX. Concentrar en las cuentas bancarias autorizadas, los ingresos recaudados y rendir la cuenta del movimiento de fondos y valores.
+VI. Tramitar las solicitudes de Acceso a la Información Pública que le sean turnadas a la Administración Central de Recaudación.
 
-X. Autorizar y coordinar la instalación de módulos de cobro y emisión de documentos a través de instituciones de crédito y establecimientos autorizados de contribuciones estatales o federales coordinadas, vigilar la concentración de fondos en las cuentas bancarias autorizadas para tal efecto, así como de los descuentos por nómina de control vehicular, e infracciones municipales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XI. Consolidar y rendir la cuenta diaria y mensual de ingresos e informar del comportamiento a la Administración Central de Recaudación.
+VII. Colaborar con las autoridades competentes cuando así sea solicitado en la investigación de hechos que puedan constituir infracciones administrativas, de seguridad pública, fiscales y de servidores pública (sic) delitos fiscales y delitos de servidores públicos en el ámbito de su competencia.
 
-XII. Tramitar convenios con las instituciones de crédito y establecimientos autorizados relativos a la prestación de servicios de cobranza.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIII. Validar la contabilidad de los ingresos recaudados para su integración a la contabilidad general de la Administración Fiscal General.
+VIII. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, así como con las diferentes unidades administrativas de la Administración Fiscal General, para el mejor ejercicio de sus facultades.
 
-XIV. Llevar a cabo el mantenimiento y codificación de los catálogos del Sistema Integral de Ingresos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XV. Remitir diariamente a la unidad administrativa correspondiente la documentación comprobatoria del movimiento de ingresos.
+IX. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
 
-XVI. Recibir a través de las administraciones locales de recaudación las declaraciones, avisos, registros, manifestaciones, instrumentos autorizados y demás documentación a que obliguen a los particulares las disposiciones fiscales, así como dar asistencia al contribuyente para su correcta presentación y orientar a quien deba presentarlos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVII. Proporcionar asistencia gratuita a los contribuyentes, procurando:
+X. Resguardar los bienes que integran el patrimonio de la dependencia e intervenir en el proceso de entrega-recepción de las unidades administrativas, para efectos de verificar la existencia y condición de los activos.
 
-1. Orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones, explicándoles las disposiciones fiscales y, de ser necesario, elaborar y distribuir material informativo encaminado a este fin.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-2. Difundir entre los contribuyentes los derechos y medios de defensa que pueden hacer valer contra las resoluciones de las autoridades fiscales.
+XI. Identificar y determinar los procedimientos administrativos que deban automatizarse y solicitar a la Coordinación Central de Informática, el apoyo requerido para llevarlo a cabo.
 
-3. Difundir entre los contribuyentes las disposiciones de carácter general que establezcan estímulos o beneficios fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-4. Efectuar reuniones de concertación en el ámbito de su competencia, para informar a contribuyentes sobre sus obligaciones fiscales, especialmente cuando se modifiquen los ordenamientos que las regulan, y
+XII. Tramitar y gestionar altas, bajas, comisiones, cambios de adscripción y sustituciones del personal adscrito a la Administración Central de Recaudación ante la unidad administrativa correspondiente, así como llevar el control del Servicio Profesional de Carrera.
 
-5. Realizar estudios y proyectos técnicos de investigación en el área de su competencia y mejorar los métodos y técnicas de orientación al contribuyente.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVIII. Tramitar y resolver las devoluciones y las compensaciones procedentes a que haya lugar en materia de ingresos fiscales.
+XIII. Tramitar y gestionar los recursos materiales, tecnológicos e insumos, y de infraestructura para el buen funcionamiento de la Administración Central de Recaudación y las áreas adscritas a la misma.
 
-XIX. Tramitar las solicitudes de Acceso a la Información Pública que le sean turnadas a la Administración Central de Recaudación.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XX. Tramitar a las solicitudes de certificación de pagos de impuestos, derechos y obligaciones realizados en el Estado o en otra entidad federativa.
+XIV. Coordinar y gestionar en coordinación de la Administración Central de Recursos Materiales y Financieros y sus áreas adscritas, la renta y mejora de inmuebles o espacios necesarios para la operación de la Administración Central de Recaudación y sus áreas adscritas.
 
-XXI. Tramitar las credenciales o constancias de identificación del personal que se autorice para la práctica de diligencias.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXII. Revocar de oficio o a petición de parte, los actos emitidos por la misma y por las Administradores Locales de Recaudación, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales, y en su caso, ordenar su reposición.
+XV. Llevar a cabo el control de archivo y mensajería de la Administración Central de Recaudación, a través de una Oficialía de Partes, establecer los lineamientos a las Administraciones Locales de Recaudación.
 
-XXIII. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la presentación de declaraciones, requerimientos, solicitudes y avisos al registro de contribuyentes.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXIV. Colaborar con las autoridades competentes cuando así sea solicitado en la investigación de hechos que puedan constituir infracciones administrativas, de seguridad pública, fiscales y de servidores pública delitos fiscales y delitos de servidores públicos en el ámbito de su competencia.
+XVI. Tramitar las credenciales o constancias de identificación del personal adscrito a la Administración Central de Recaudación.
 
-XXV. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, para el mejor ejercicio de sus facultades.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVI. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones.
+XVII. Organizar los programas de capacitación afines a la Administración Central de Recaudación.
 
-XXVII. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXVIII. Resguardar los bienes que integran el patrimonio de la dependencia e intervenir en el proceso de entrega-recepción de las unidades administrativas, para efectos de verificar la existencia y condición de los activos.
+XVIII. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
 
-XXIX. Elaborar anualmente el presupuesto-proyección anual y su distribución mensual de ingresos de las administraciones locales de recaudación.
+XIX. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
 
-XXX. Identificar y determinar los procedimientos administrativos que deban automatizarse y solicitar a la Administración Central de Sistemas, el apoyo requerido para llevarlo a cabo.
+XX. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
 
-XXXI. Realizar el cobro de contribuciones estatales y federales coordinadas a través de medios electrónicos, en coordinación con las instituciones de crédito, así como realizar el diseño y control de información de la página web que se asigne para tal efecto.
+XXI. (DEROGADA, P.O. 29 DE ABRIL DE 2014).
 
-XXXII. Tramitar y gestionar altas, bajas y sustituciones del personal adscrito a la Administración Central de Recaudación ante la unidad administrativa correspondiente, así como llevar el control del Servicio Profesional de Carrera.
+XXII. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
 
-XXXIII. Tramitar y gestionar los recursos materiales, tecnológicos e insumos, y de infraestructura para el buen funcionamiento de la Administración Central de Recaudación y las áreas adscritas a la misma.
+XXIII. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
 
-XXXIV. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
+XXIV. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXV. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXVI. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXVII. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXVIII. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXIX. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXX. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXXI. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXXII. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXXIII. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
+
+XXXIV. (DEROGADA, P.O. 29 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 21.
 
@@ -871,37 +1361,99 @@ I. Formular y proponer en el ámbito de su competencia para su aprobación al Ad
 
 II. Realizar la supervisión a las administraciones locales de recaudación en materia de su competencia.
 
-III. Aplicar la política, los programas, sistemas, procedimientos, métodos de trabajo y criterios que al efecto se aprueben por la Administración Central de Recaudación.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-IV. Establecer los lineamientos operativos de la Administración de Asistencia Fiscal, de las administraciones locales de recaudación, así como los sistemas de registro y recaudación de ingresos y sus procedimientos de operación.
+III. Aplicar la política, los programas, sistemas, procedimientos, métodos de trabajo y criterios que al efecto se aprueben por la Administración Central de Recaudación, en materia de su competencia.
 
-V. Participar en el ámbito de su competencia en la formulación de acuerdos y convenios de coordinación en materia fiscal con las autoridades municipales, federales y con otras entidades federativas, vigilar su aplicación y evaluar sus resultados.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+IV. Establecer los lineamientos operativos de la Administración de Asistencia Fiscal, de las administraciones locales de recaudación, así como los sistemas de registro y recaudación de ingresos y sus procedimientos de operación, en materia de asistencia al contribuyente.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+V. Participar en el ámbito de su competencia en la formulación de acuerdos y convenios de coordinación en materia fiscal con las autoridades municipales, federales y con otras entidades federativas, vigilar su aplicación y evaluar sus resultados, en materia de su competencia.
 
 VI. Recaudar por conducto de las administraciones locales de recaudación o por las instituciones de crédito o establecimientos autorizados, los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos y demás contribuciones, correspondan al Estado conforme a las disposiciones fiscales estatales y a los convenios celebrados por el Estado con la Federación y/o con los municipios.
 
 VII. Coordinar el Centro de Atención Telefónica y Trámites.
 
-VIII. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, para el mejor ejercicio de sus facultades.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-IX. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones.
+VIII. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, para el mejor ejercicio de sus facultades, en materia de su competencia.
 
-X. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+IX. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones, en materia de su competencia.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+X. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias, en materia de su competencia.
 
 XI. Tramitar y vigilar convenios con Organismos Públicos Centralizados, Descentralizados, Privados y Municipios para la prestación de Descuento por Nómina de los Impuestos y Derechos en materia de Control Vehicular.
 
-XII. Validar la información contable de las Administraciones Locales de Recaudación
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIII. Realizar la vigilancia de obligaciones mediante llamadas telefónicas a los contribuyentes con mora en el pago de sus impuestos estatales y federales coordinados.
+XII. Realizar la vigilancia de obligaciones mediante llamadas telefónicas a los contribuyentes con mora en el pago de sus impuestos estatales y federales coordinados.
 
-XIV. Proponer en el ámbito de su competencia la publicidad relativa a impuestos y contribuciones estatales y federales coordinadas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XV. Identificar y determinar los procedimientos administrativos que deban automatizarse y solicitar a la Administración Central de Sistemas, el apoyo requerido para llevarlo a cabo.
+XIII. Proponer en el ámbito de su competencia la publicidad relativa a impuestos y contribuciones estatales y federales coordinadas.
 
-XVI. Colaborar en el diseño, evaluación y modernización de los procedimientos administrativos y las políticas y sistemas de control interno de las Administraciones Locales de Recaudación.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVII. Validar e integrar los ingresos federales coordinados integrados en la contabilidad de ingresos a fin de reportar al área correspondiente para su integración a la Cuenta Mensual Comprobable, y
+XIV. Identificar y determinar los procedimientos administrativos que deban automatizarse y solicitar a la Coordinación Central de Informática, el apoyo requerido para llevarlo a cabo, en materia de su competencia.
 
-XVIII. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XV. Colaborar en el diseño, evaluación y modernización de los procedimientos administrativos y las políticas y sistemas de control interno de las Administraciones Locales de Recaudación.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVI. Autorizar y coordinar la instalación de módulos de cobro y emisión de documentos a través de instituciones de crédito y establecimientos autorizados de contribuciones estatales o federales coordinadas, vigilar la concentración de fondos en las cuentas bancarias autorizadas para tal efecto, así como de los descuentos por nómina de control vehicular, e infracciones municipales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVII. Recibir a través de las administraciones locales de recaudación las declaraciones, avisos, registros, manifestaciones, instrumentos autorizados y demás documentación a que obliguen a los particulares las disposiciones fiscales, así como dar asistencia al contribuyente para su correcta presentación y orientar a quien deba presentarlos.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVIII. Proporcionar asistencia gratuita a los contribuyentes, procurando:
+
+1. Orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones, explicándoles las disposiciones fiscales y, de ser necesario, elaborar y distribuir material informativo encaminado a este fin.
+
+2. Elaborar formularios de declaraciones simplificadas, en forma que puedan ser llenados fácilmente por los contribuyentes.
+
+3. Difundir entre los contribuyentes los derechos y medios de defensa que pueden hacer valer contra las resoluciones de las autoridades fiscales.
+
+4. Difundir entre los contribuyentes las disposiciones de carácter general que establezcan estímulos o beneficios fiscales.
+
+5. Efectuar reuniones en distintas partes del estado, para informar a contribuyentes sobre sus obligaciones fiscales, especialmente cuando se modifiquen los ordenamientos que las regulan, y
+
+6. Realizar estudios y proyectos técnicos de investigación en el área de su competencia y mejorar los métodos y técnicas de orientación al contribuyente.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIX. Actualizar la página de internet en el ámbito de la competencia de la Administración Central de Recaudación.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XX. Recepción de quejas, sugerencias y/o propuestas del contribuyente a través de los buzones instalados en las administraciones locales de recaudación, realizando las acciones correspondientes a fin de darles la debida atención.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXI. Elaborar encuestas de estudios de calidad en el servicio para las administraciones locales de recaudación, generando un informe para el Administrador Central de Recaudación.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXII. Elaborar el formato para pago en bancos y centros comerciales generados en la Unicaja del sistema integral de ingresos, respecto de todos los ingresos estatales y federales coordinados.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIII. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la presentación de declaraciones, requerimientos, solicitudes y avisos al registro de contribuyentes.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIV. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
 
 ###### ARTÍCULO 22.
 
@@ -909,11 +1461,15 @@ Corresponde a la Administración de Control Vehicular:
 
 I. Formular y proponer en el ámbito de su competencia para su aprobación al Administrador Central de Recaudación, las políticas y programas de actividades a los que deben sujetarse las unidades administrativas de su adscripción, así como coordinarse con las autoridades fiscales federales y municipales en materia de:
 
-1. Pago en parcialidades de contribuciones, aprovechamientos, derechos, productos y sus accesorios, estatales y federales coordinados.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+1. Autorizar el pago en parcialidades de contribuciones, aprovechamientos, derechos, productos y sus accesorios, estatales y federales coordinados.
 
 2. Vigilancia del cumplimiento de las obligaciones fiscales estatales y federales coordinadas, requerimientos en esta materia, así como la aplicación de sanciones que deriven de su incumplimiento.
 
-3. Padrones de contribuyentes, visitas domiciliarias, verificaciones en materia de registro de contribuyentes, requerimientos de obligaciones e imposición de sanciones.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+3. Ordenar visitas domiciliarias, verificaciones en materia de registro de contribuyentes, requerimientos de obligaciones e imposición de sanciones en materia de Control Vehicular.
 
 II. Realizar la supervisión a las Administraciones Locales de Recaudación en materia de su competencia.
 
@@ -927,7 +1483,9 @@ VI. Llevar a cabo la administración, control, entrega de valores y formas numer
 
 VII. Participar en el ámbito de su competencia en la formulación de acuerdos y convenios de coordinación en materia fiscal con las autoridades municipales, federales y con otras entidades federativas, vigilar su aplicación y evaluar sus resultados.
 
-VIII. Autorizar la emisión, distribución y control de valores y formas numeradas, destinadas a la prestación de servicios y recaudación de ingresos; así como autorizar y vigilar su destrucción cuando quedan fuera de uso.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+VIII. Autorizar la emisión, distribución a solicitud del contribuyente, control y resguardo de valores y formas numeradas, destinadas a la prestación de servicios y recaudación de ingresos; así como autorizar y vigilar su destrucción cuando quedan fuera de uso.
 
 IX. Ejecutar los programas para la detección de contribuyentes omisos.
 
@@ -941,11 +1499,65 @@ XIII. Identificar y determinar los procedimientos administrativos que deban auto
 
 XIV. Participar en los procesos licitatorios para la adquisición de valores y formas numeradas destinadas a la prestación de servicios y recaudación de ingresos.
 
-XV. Colaborar con las autoridades competentes cuando así sea solicitado en la investigación de hechos que puedan constituir infracciones administrativas, de seguridad pública, fiscales y de servidores pública (sic) delitos fiscales y delitos de servidores públicos en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVI. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones, y
+XV. Colaborar con las autoridades competentes cuando así sea solicitado en la investigación de hechos que puedan constituir infracciones administrativas, de seguridad pública, fiscales y de servidores públicos delitos fiscales y delitos de servidores públicos en el ámbito de su competencia.
 
-XVII. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVI. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVII. Recibir, a través de las administraciones locales de recaudación, las declaraciones, avisos, registros, manifestaciones, instrumentos autorizados y demás documentación a que obliguen a los particulares las disposiciones fiscales, así como dar asistencia al contribuyente para su correcta presentación y orientar a quien deba presentarlos.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVIII. Ejecutar los Programas para la detección de Contribuyentes Omisos y nuevos contribuyentes.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIX. Autorizar o revocar el pago diferido o en parcialidades de acuerdo a la legislación fiscal del Estado o Federal en materia de contribuciones coordinadas.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XX. Designar y expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de diligencias.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXI. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, para el mejor ejercicio de sus facultades.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXII. Requerir la presentación de declaraciones, avisos, documentos e instrumentos autorizados, cuando los obligados no lo hagan en los plazos respectivos y simultánea o sucesivamente hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate o a la que resulte determinada por la autoridad, así como requerir la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos, documentos e instrumentos autorizados, en términos de las disposiciones fiscales, así como aplicar sanciones y multas que deriven de su incumplimiento.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIII. Participar en licitaciones Públicas para la adquisición de valores, así como validar las medidas de seguridad de las formas valoradas.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIV. Definir y Establecer los procedimientos operativos de las Administraciones Locales de Recaudación, en materia de su competencia, así como vigilar su cumplimiento.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXV. Participar en acuerdos con el transporte Público para la aplicación de Programas de actualización del parque vehicular.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVI. Recibir, validar y autorizar la documentación presentada por los contribuyentes relativos al control vehicular.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVII. Proporcionar información en materia de su competencia a las autoridades judiciales y administrativas que así lo soliciten, así como abstenerse de proporcionarla en términos del artículo 62 del Código Fiscal del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVIII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administración de Control Vehicular, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIX. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
 
 ###### ARTÍCULO 23.
 
@@ -983,61 +1595,213 @@ IX. Recibir a través de las Administración Locales de Recaudación las declara
 
 X. Revisar las declaraciones presentadas por los contribuyentes.
 
-XI. Proporcionar asistencia gratuita a los contribuyentes, procurando:
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-1. Orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones, explicándoles las disposiciones fiscales y, de ser necesario, elaborar y distribuir material informativo encaminado a este fin.
+XI. Efectuar reuniones de concertación en el ámbito de su competencia, para informar a los contribuyentes sobre sus obligaciones fiscales, especialmente cuando se modifiquen los ordenamientos que las regulan.
 
-2. Elaborar formularios de declaraciones simplificados, en forma que puedan ser llenados fácilmente por los contribuyentes.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-3. Difundir entre los contribuyentes los derechos y medios de defensa que pueden hacer valer contra las resoluciones de las autoridades fiscales.
+XII. Ejecutar los programas para la detección de contribuyentes omisos.
 
-4. Difundir entre los contribuyentes las disposiciones de carácter general que establezcan estímulos o beneficios fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-5. Efectuar reuniones en distintas partes del Estado, para informar a contribuyentes sobre sus obligaciones fiscales, especialmente cuando se modifiquen los ordenamientos que las regulan, y
+XIII. Tramitar las solicitudes de certificación de pagos de padrones realizados en el Estado o en otra entidad federativa.
 
-6. Realizar estudios y proyectos técnicos de investigación en el área de su competencia y mejorar los métodos y técnicas de orientación al contribuyente.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XII. Efectuar reuniones de concertación en el ámbito de su competencia, para informar a los contribuyentes sobre sus obligaciones fiscales, especialmente cuando se modifiquen los ordenamientos que las regulan.
+XIV. Integrar, controlar y mantener actualizados los padrones de contribuyentes previstos en la legislación, así como ordenar y practicar visitas domiciliarias, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de solicitudes y avisos en materia de registro de contribuyentes y en su caso, realizar inscripciones de oficio por actos de autoridad; y orientar a los contribuyentes en el cumplimiento de tales obligaciones.
 
-XIII. Asistir a los contribuyentes en el cumplimiento de sus obligaciones, difundiendo las disposiciones fiscales y en su caso los medios de defensa que pueden hacer valer contra resoluciones de las autoridades fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIV. Ejecutar los programas para la detección de contribuyentes omisos.
+XV. Realizar actos de verificación para mantener actualizado el padrón de contribuyentes de impuestos federales coordinados, conforme a los convenios celebrados con las autoridades federales, a través de visitas domiciliarias, requiriendo, en su caso, la solicitud de inscripción o avisos al Registro Federal de Contribuyentes cuando los obligados no lo hubieran hecho, así como imponer las sanciones correspondientes.
 
-XV. Tramitar las solicitudes de certificación de pagos de padrones realizados en el Estado o en otra entidad federativa.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVI. Integrar, controlar y mantener actualizados los padrones de contribuyentes previstos en la legislación, así como ordenar y practicar visitas domiciliarias, a fin de verificar el cumplimiento de las obligaciones relacionadas con la presentación de solicitudes y avisos en materia de registro de contribuyentes y en su caso, realizar inscripciones de oficio por actos de autoridad; y orientar a los contribuyentes en el cumplimiento de tales obligaciones.
+XVI. Designar y expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de diligencias.
 
-XVII. Realizar actos de verificación para mantener actualizado el padrón de contribuyentes de impuestos federales coordinados, conforme a los convenios celebrados con las autoridades federales, a través de visitas domiciliarias, requiriendo, en su caso, la solicitud de inscripción o avisos al Registro Federal de Contribuyentes cuando los obligados no lo hubieran hecho, así como imponer las sanciones correspondientes.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVIII. Tramitar las credenciales o constancias de identificación del personal que se autorice para la práctica de diligencias.
+XVII. Habilitar días y horas para la práctica de diligencias según lo establezcan las leyes fiscales federales o estatales.
 
-XIX. Habilitar días y horas para la práctica de diligencias según lo establezcan las leyes fiscales federales y/o estatales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XX. Tramitar la designación de los interventores y verificadores fiscales que se requiera.
+XVIII. Tramitar la designación de los interventores y verificadores fiscales que se requiera.
 
-XXI. Definir los lineamientos en materia de licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que Incluyan el expendio de dichas bebidas, así como lo correspondiente a espectáculos públicos conforme a los requisitos establecidos en las disposiciones fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXII. Recaudar a través de los inspectores e interventores autorizados el pago correspondiente al impuesto sobre espectáculos públicos y expedir un recibo provisional válido en el momento del evento, para ingresarlo a la cuenta de la Administración Fiscal General correspondiente.
+XIX. Expedir las licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que Incluyan el expendio de dichas bebidas, así como lo correspondiente a espectáculos públicos conforme a los requisitos establecidos en las disposiciones fiscales.
 
-XXIII. Clausurar o suspender espectáculos públicos a través de los inspectores e interventores autorizados cuando no se reúnan los requisitos fiscales para su desarrollo o no se garantice el cumplimiento de la obligación fiscal correspondiente.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXIV. Requerir a los contribuyentes para que exhiban en las Administraciones Locales de Recaudación la documentación comprobatoria de sus obligaciones fiscales cuya vigilancia se encuentren encomendadas a dichas unidades administrativas.
+XX. Recaudar a través de los inspectores e interventores autorizados el pago correspondiente al impuesto sobre espectáculos públicos y expedir un recibo provisional válido en el momento del evento, para ingresarlo a la cuenta de la Administración Fiscal General correspondiente.
 
-XXV. Revocar de oficio o a petición de parte, los actos emitidos por la misma y por las administraciones locales de recaudación y de las oficinas de recaudación, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales, y en su caso, ordenar su reposición.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXVI. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la presentación de declaraciones, requerimientos, solicitudes y avisos al registro de contribuyentes.
+XXI. Clausurar o suspender espectáculos públicos a través de los inspectores e interventores autorizados cuando no se reúnan los requisitos fiscales para su desarrollo o no se garantice el cumplimiento de la obligación fiscal correspondiente.
 
-XXVII. Colaborar con las autoridades competentes cuando así sea solicitado en la investigación de hechos que puedan constituir infracciones administrativas, de seguridad pública, fiscales y de servidores pública delitos fiscales y delitos de servidores públicos en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXVIII. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, para el mejor ejercicio de sus facultades.
+XXII. Requerir a los contribuyentes para que exhiban en las Administraciones Locales de Recaudación la documentación comprobatoria de sus obligaciones fiscales cuya vigilancia se encuentren encomendadas a dichas unidades administrativas, incluyendo requerimientos electrónicos a contribuyentes omisos.
 
-XXIX. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXX. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+XXIII. Revocar de oficio o a petición de parte, los actos emitidos por la misma y por las administraciones locales de recaudación y de las oficinas de recaudación, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales, y en su caso, ordenar su reposición.
 
-XXXI. Vigilar el cumplimiento de las obligaciones fiscales estatales y federales coordinadas, notificar y requerir el cumplimiento: así como aplicar sanciones y multas que deriven de su incumplimiento.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXII. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
+XXIV. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la presentación de declaraciones, requerimientos, solicitudes y avisos al registro de contribuyentes.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXV. Colaborar con las autoridades competentes cuando así sea solicitado en la investigación de hechos que puedan constituir infracciones administrativas, de seguridad pública, fiscales y de servidores pública delitos fiscales (sic) y delitos de servidores públicos en el ámbito de su competencia.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVI. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, para el mejor ejercicio de sus facultades.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVII. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVIII. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIX. Requerir la presentación de declaraciones, avisos, documentos e instrumentos autorizados, cuando los obligados no lo hagan en los plazos respectivos y simultánea o sucesivamente hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate o a la que resulte determinada por la autoridad, así como requerir la rectificación de errores u omisiones contenidas en las declaraciones, solicitudes, avisos, documentos e instrumentos autorizados, en términos de las disposiciones fiscales, así como aplicar sanciones y multas que deriven de su incumplimiento.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXX. Elaborar acuerdos de cancelación de requerimientos y créditos fiscales en materia de su competencia.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXI. Concentrar la información de ingresos por impuestos por diversiones y espectáculos públicos para el cálculo y distribución de gastos.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXII. Generar la emisión de liquidaciones provisionales de impuestos a contribuyentes omisos y no registrados en términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXIII. Realizar cruces de información de padrones con otras autoridades fiscales, para la detección de contribuyentes omisos.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXIV. Colaborar con otras dependencias estatales en operativos de seguridad pública.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXV. Determinar el importe de los honorarios por notificación y los gastos de ejecución en materia de su competencia, así como hacerlos efectivos en términos de las disposiciones fiscales aplicables.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXVI. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administración de Control de Padrones, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXVII. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 23-A.
+
+Corresponde a la Administración de Promoción y Vigilancia del Cumplimiento:
+
+I. Formular y proponer para su aprobación, en el ámbito de su competencia, al Administrador Central de Recaudación, las políticas y programas de actividades a los que deben sujetarse las unidades administrativas de su adscripción, así como coordinarse con las autoridades fiscales federales y municipales en materia de:
+
+1. Recaudación de contribuciones, aprovechamientos, productos estatales y federales coordinados.
+
+2. Análisis del comportamiento de la recaudación, estatal y federal coordinada.
+
+3. Revisión de las declaraciones de impuestos estatales y federales coordinados, para la determinación de diferencias.
+
+II. Aplicar la política, programas, sistemas, procedimientos, métodos de trabajo y criterios que al efecto se aprueben por la Administración Central de Recaudación.
+
+III. Recibir a través de las demás unidades administrativas de la Administración Central de Recaudación y de la Administración General Tributaria, información de las declaraciones, avisos, registros, manifestaciones, instrumentos autorizados, dictámenes fiscales y demás documentación que obligue a los particulares respecto a las disposiciones fiscales.
+
+IV. Realizar estudios y proyectos técnicos de investigación en el área de su competencia, a fin de mejorar los métodos y técnicas de orientación al contribuyente.
+
+V. Revisar la información de las declaraciones, avisos, registros, manifestaciones, instrumentos autorizados, dictámenes fiscales y demás documentación que obligue a los particulares respecto a las disposiciones fiscales con el propósito de instrumentar programas para la detección de contribuyentes omisos en el cumplimiento de sus obligaciones fiscales.
+
+VI. Conciliar y cotejar la información contenida en los padrones de contribuyentes y demás registros previstos en la legislación fiscal con que se (sic) cuenta la Administración Central de Recaudación, con la que se obtenga mediante convenios celebrados con otras autoridades fiscales afines, con el propósito de verificar el exacto cumplimiento de las obligaciones fiscales.
+
+VII. Vigilar que los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y sus accesorios, cumplan con la obligación de presentar sus declaraciones, así como solicitar a dichas personas y a terceros, los datos, informes y documentos para aclarar la información asentada en las declaraciones de pago provisional, definitivo, del ejercicio y complementarias.
+
+VIII. Designar y expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de diligencias.
+
+IX. Coordinarse con las diferentes unidades administrativas de la Administración Fiscal General para definir los procedimientos de cobro de contribuciones.
+
+X. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+
+XI. Identificar los contribuyentes con incumplimiento en sus obligaciones fiscales estatales y federales coordinadas, a efecto de que el área competente de la Administración Central de Recaudación: Requiera la presentación de declaraciones, avisos, documentos e instrumentos autorizados, cuando los obligados no la hagan en los plazos respectivos; y simultánea o sucesivamente hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte determinada por la autoridad, así como requerir la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos, documentos e instrumentos autorizados.
+
+XII. Identificar y determinar los procedimientos administrativos que deban automatizarse, y solicitar a la Coordinación Central de Informática, el apoyo requerido para llevarlos a cabo.
+
+XIII. Certificar los documentos correspondientes a los asuntos de su competencia.
+
+XIV. Verificar la información de los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado un dictamen formulado por contador público registrado sobre estados financieros, y que sean sujetos del Impuesto Sobre Nóminas, Impuesto por Servicios de Hospedaje, e Impuesto Sobre Rifas, Sorteos y Juegos con Apuestas.
+
+XV. Participar en la definición e instrumentación de los mecanismos para la implementación de los proyectos especiales en materia de recaudación, en forma desagregada por sector de contribuyentes.
+
+XVI. Coadyuvar en el análisis de los proyectos e iniciativas de carácter legislativo, en materias relacionadas con la competencia de la Administración Central de Recaudación.
+
+XVII. Establecer el criterio de interpretación que las unidades administrativas de la Administración Central de Recaudación deberán seguir en la aplicación de las disposiciones fiscales y aduaneras, en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y sus accesorios de carácter federal, así como de este Reglamento, con excepción de los señalados como competencia de otra unidad administrativa de la Administración Fiscal General.
+
+XVIII. Asistir a las unidades administrativas adscritas a la Administración Central de Recaudación, a fin de que en los procedimientos administrativos que dichas unidades lleven a cabo se cumplan las formalidades previstas en las disposiciones que los regulan, de oficio o a petición de parte.
+
+XIX. Elaborar propuestas de modificación a leyes o decretos; a los reglamentos, decretos, acuerdos y órdenes del Gobernador del Estado, y a las demás disposiciones de observancia general, que deban proponerse a la unidad administrativa correspondiente de la Secretaría de Finanzas, en las materias de la competencia de la Administración Central de Recaudación, y emitir opinión respecto de las propuestas referidas fungiendo como enlace de la Administración Central de Recaudación ante dicha Dependencia para estos efectos.
+
+XX. Compilar la normatividad interna de la Administración Central de Recaudación.
+
+XXI. Analizar de oficio o previa solicitud de la unidad administrativa, que los actos administrativos dirigidos de manera individual a contribuyentes, que emitan las unidades administrativas de la Administración Central de Recaudación, cumplan las formalidades previstas en las disposiciones legales que regulan dichos actos, a fin de evitar vicios de fondo o de procedimiento.
+
+XXII. Desarrollar esquemas de evaluación de la eficiencia y productividad de los procesos que aplica la Administración Central de Recaudación.
+
+XXIII. Coordinar los proyectos que se requieran para promover el cumplimiento de los objetivos del plan estratégico de la Administración Central de Recaudación.
+
+XXIV. Estudiar, analizar e investigar el comportamiento de los diversos sectores que conforman la economía nacional, con el propósito de identificar conductas tendientes a la evasión fiscal y contrabando de mercancías y evaluar el impacto económico que dichas conductas generen en la recaudación, así como proponer a las unidades administrativas de la Administración Central de Recaudación, las estrategias y alternativas tendientes a combatir las citadas conductas.
+
+XXV. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 23-B.
+
+Corresponde a la Subadministración de Registro Contable:
+
+I. Formular y proponer para su aprobación, en el ámbito de su competencia, al Administrador General Fiscal, las políticas y programas de actividades a los que deben sujetarse las unidades administrativas de su adscripción, así como coordinarse con las autoridades fiscales federales y municipales en materia de:
+
+1. Recaudación de contribuciones, aprovechamientos, productos estatales y federales coordinados.
+
+2. Contabilidad de ingresos, movimiento de fondos, valores y análisis del comportamiento de la recaudación, estatal y federal coordinada.
+
+3. Pago en parcialidades de contribuciones, aprovechamientos, derechos, productos y sus accesorios, estatales y federales coordinados.
+
+II. Participar en el ámbito de su competencia en la formulación de acuerdos y convenios de coordinación en materia fiscal con las autoridades municipales, federales y con otras entidades federativas, vigilar su aplicación y evaluar sus resultados.
+
+III. Recaudar por conducto de las Administraciones Locales de Recaudación o por las instituciones de crédito o establecimientos autorizados, los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos y demás contribuciones, correspondan al Estado conforme a las disposiciones fiscales estatales y a los convenios celebrados por el Estado con la Federación o con los Municipios.
+
+IV. Efectuar el corte diario de caja y llevar los registros necesarios para el control de movimientos de ingresos y presentarlos a su superior jerárquico.
+
+V. Coordinar los registros de información de pagos en las diferentes instituciones de crédito o establecimientos autorizados e internet.
+
+VI. Concentrar en las cuentas bancarias autorizadas, los ingresos recaudados y rendir la cuenta del movimiento de fondos y valores.
+
+VII. Autorizar y coordinar la instalación de módulos de cobro y emisión de documentos a través de instituciones de crédito y establecimientos autorizados de contribuciones estatales o federales coordinadas, vigilar la concentración de fondos en las cuentas bancarias autorizadas para tal efecto, así como de los descuentos por nómina de control vehicular, e infracciones municipales.
+
+VIII. Consolidar y rendir la cuenta diaria y mensual de ingresos e informar su comportamiento a la Administración Central de Recaudación.
+
+IX. Tramitar convenios con las instituciones de crédito y establecimientos autorizados relativos a la prestación de servicios de cobranza.
+
+X. Validar la contabilidad de los ingresos recaudados para su integración a la contabilidad general de la Administración Fiscal General.
+
+XI. Tramitar las solicitudes de certificación de pagos de impuestos, derechos y obligaciones realizadas en el Estado o en otra entidad federativa.
+
+XII. Coordinarse en materia de su competencia con las autoridades fiscales federales, municipales y de otras entidades federativas, para el mejor ejercicio de sus facultades.
+
+XIII. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
 
 ###### ARTÍCULO 24.
 
@@ -1051,9 +1815,25 @@ III. Llevar a cabo la vigilancia de fondos y valores que se le sean encomendados
 
 IV. Recibir las declaraciones, avisos, registros, manifestaciones, instrumentos autorizados y toda documentación a que obliguen a los particulares las disposiciones fiscales, así como dar asistencia al contribuyente para su correcta presentación y orientar a quien deba presentarlos.
 
-V. Asistir a los contribuyentes en el cumplimiento de sus obligaciones, difundiendo las disposiciones fiscales y en su caso los medios de defensa que pueden hacer valer contra resoluciones de las autoridades fiscales y judiciales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-VI. Tramitar ante la Administración Central de Recaudación las devoluciones y compensaciones procedentes a que haya lugar en materia de ingresos fiscales, cuando medie resolución administrativa o judicial.
+V. Proporcionar asistencia gratuita a los contribuyentes, procurando:
+
+1. Orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones, explicándoles las disposiciones fiscales y, de ser necesario, elaborar y distribuir material informativo encaminado a este fin.
+
+2. Elaborar formularios de declaraciones simplificadas, en forma que puedan ser llenados fácilmente por los contribuyentes.
+
+3. Difundir entre los contribuyentes los derechos y medios de defensa que pueden hacer valer contra las resoluciones de las autoridades fiscales.
+
+4. Difundir entre los contribuyentes las disposiciones de carácter general que establezcan estímulos o beneficios fiscales.
+
+5. Efectuar reuniones en distintas partes del estado, para informar a los contribuyentes sobre sus obligaciones fiscales, especialmente cuando se modifiquen los ordenamientos que las regulan, y
+
+6. Realizar estudios y proyectos técnicos de investigación en el área de su competencia y mejorar los métodos y técnicas de orientación al contribuyente.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+VI. Recibir y tramitar ante la Administración Central de Recaudación las solicitudes de devoluciones y compensaciones en materia de ingresos fiscales.
 
 VII. Tramitar ante del departamento correspondiente las solicitudes de acceso a la información pública que le competan.
 
@@ -1067,13 +1847,17 @@ XI. Realizar actos de verificación con objeto de mantener actualizado el padró
 
 XII. Autorizar y/o revocar el pago diferido o en parcialidades de acuerdo a la legislación, cuando el contribuyente lo solicite.
 
-XIII. Autorizar las credenciales y/o constancias de identificación del personal que se autorice para la práctica de diligencias.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIII. Designar y expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de diligencias.
 
 XIV. Certificar hechos, documentos y expedir las constancias correspondientes a los asuntos de su competencia.
 
 XV. Habilitar días y horas para la práctica de diligencias según lo establezcan las leyes fiscales federales y/o estatales.
 
-XVI. Tramitar ante la Administración Central de Recaudación la expedición de las licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que Incluyan el expendio de dichas bebidas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVI. Tramitar ante la Administración Central de Recaudación, y en su caso, expedir las licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que Incluyan el expendio de dichas bebidas.
 
 XVII. Expedir el permiso correspondiente al desarrollo de espectáculos públicos conforme a los requisitos establecidos en las disposiciones fiscales y a los lineamientos establecidos por la Administración Central de Recaudación.
 
@@ -1081,7 +1865,9 @@ XVIII. Recaudar a través de los inspectores e interventores autorizados el pago
 
 XIX. Clausurar o suspender espectáculos públicos a través de los inspectores e interventores autorizados cuando estos no reúnan los requisitos fiscales para su desarrollo o no se garantice el cumplimiento de la contribución fiscal correspondiente.
 
-XX. Requerir a los contribuyentes para que exhiban la documentación comprobatoria de sus obligaciones fiscales cuya vigilancia se encuentren encomendadas a dichas unidades administrativas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XX. Requerir la presentación de declaraciones, avisos, documentos e instrumentos autorizados, cuando los obligados no lo hagan en los plazos respectivos y simultánea o sucesivamente hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate o a la que resulte determinada por la autoridad, así como requerir la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos, documentos e instrumentos autorizados, en términos de las disposiciones fiscales, así como aplicar sanciones y multas que deriven de su incumplimiento.
 
 XXI. Revocar de oficio o a petición de parte, los actos emitidos por la misma, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales, y en su caso, ordenar su reposición.
 
@@ -1089,9 +1875,45 @@ XXII. Tramitar y resolver las solicitudes de aclaración que presenten los contr
 
 XXIII. Colaborar con las autoridades competentes cuando así sea solicitado en la investigación de hechos que puedan constituir infracciones administrativas, de seguridad pública, fiscales y de servidores pública (sic) delitos fiscales y delitos de servidores públicos en el ámbito de su competencia.
 
-XXIV. Resguardar los bienes que integran el patrimonio de la dependencia e intervenir en el proceso de entrega-recepción de las unidades administrativas, para efectos de verificar la existencia y condición de los activos, y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXV. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
+XXIV. Resguardar los bienes que integran el patrimonio de la dependencia e intervenir en el proceso de entrega-recepción de las unidades administrativas, para efectos de verificar la existencia y condición de los activos.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXV. Vigilar el cumplimiento, de las obligaciones fiscales estatales y federales coordinadas, notificar y requerir el cumplimiento, incluyendo requerimientos electrónicos a contribuyentes omisos, así como aplicar sanciones y multas que deriven de su incumplimiento.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVI. Tramitar y gestionar ante la Administración de Coordinación de Recaudación lo relativo a Recursos Materiales, Humanos y de Servicios, que sean necesarios para el correcto funcionamiento de las administraciones locales de recaudación, así como solicitar los cursos de capacitación que consideren necesarios para el mismo efecto.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVII. Determinar el importe de los honorarios por notificación y los gastos de ejecución en materia de su competencia, así como hacerlos efectivos en términos de las disposiciones fiscales aplicables.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVIII. Proporcionar información en materia de su competencia a las autoridades judiciales y administrativas que así lo soliciten, así como abstenerse de proporcionarla en términos del artículo 62 del Código Fiscal del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIX. Entregar a las personas habilitadas para el efecto, las nóminas de las dependencias del Gobierno del Estado que le encomiende la Secretaria de Finanzas.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXX. Validar e integrar los ingresos federales coordinados integrados en la contabilidad de ingresos a fin de reportar al área correspondiente para su integración a la Cuenta Mensual Comprobable.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXI. Coordinar los registros de información de pagos en las diferentes instituciones de crédito o establecimientos autorizados e internet.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por las Administraciones Locales de Recaudación y las oficinas adscritas a la misma, conforme a las disposiciones legales estatales o federales por ingresos coordinados, y.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXIII. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera su superior jerárquico inmediato.
 
 ###### ARTÍCULO 25.
 
@@ -1205,7 +2027,11 @@ XLVII. Solicitar a la Secretaría de Hacienda y Crédito Público el reintegro d
 
 XLVIII. Continuar con la práctica de los actos de fiscalización que hayan iniciado otras autoridades fiscales de otras entidades federativas, cuando los contribuyentes pasen a ser competencia de esta autoridad por haber cambiado su domicilio fiscal al territorio del Estado de Coahuila de Zaragoza.
 
-XLIX. Determinar el perjuicio económico que sufrió o pudo haber sufrido el fisco para efectos del artículo 81 del Código Fiscal para el Estado de Coahuila de Zaragoza, y
+XLIX. Determinar el perjuicio económico que sufrió o pudo haber sufrido el fisco para efectos del artículo 81 del Código Fiscal para el Estado de Coahuila de Zaragoza, y (sic)
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLIX-A. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administración Central de Fiscalización y las oficinas adscritas a la misma, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
 
 L. Las demás que las disposiciones legales le atribuyan, incluido este reglamento; así como aquéllas que le confiera el titular del Administrador Fiscal del Estado.
 
@@ -1219,39 +2045,137 @@ II. Determinar las infracciones e imponer las sanciones por incumplimiento a las
 
 III. Ejercer las facultades y ejecutar las acciones derivadas de los convenios de coordinación fiscal, celebrados por el Estado con la Federación o los municipios que en el ámbito de su competencia le corresponda en los términos de este articulo.
 
-IV. Determinar la responsabilidad solidaria respecto de créditos fiscales de carácter federal o estatal, conforme a las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-V. Requerir a los contribuyentes, responsables solidarios y terceros con ellos relacionados dentro del procedimiento de facultades de comprobación para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos y otros documentos e informes, así como recabar de los servidores públicos y de los fedatarios los informes y datos que con motivo de sus funciones obren en su poder para proceder a su revisión a fin de comprobar el debido cumplimiento de las disposiciones fiscales.
+IV. Designar al personal para la práctica de visitas domiciliarias, auditorias, inspecciones o verificaciones, el personal designado podrá actuar en dichas diligencias en forma conjunta o separada.
 
-VI. Verificar, a través de visitas de inspección, el uso de máquinas registradoras de comprobación fiscal en establecimientos o locales ubicados en el territorio del Estado, así como la expedición de comprobantes fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-VII. Habilitar días y horas para la práctica de diligencias, según lo establezcan las leyes fiscales.
+V. Ordenar y practicar visitas domiciliarias, auditorias, inspecciones y verificaciones, así como realizar los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de impuestos, derechos, contribuciones especiales, aprovechamientos, estímulos fiscales y accesorios de carácter estatal y federal en los términos de las leyes estatales, federales y del Convenio de Colaboración Administrativa en Materia Fiscal Federal del cual el Estado forme parte y sus anexos.
 
-VIII. Recibir de los contribuyentes, responsables solidarios y demás obligados fiscalmente, las objeciones que formulen y las pruebas que ofrezcan, en relación con los hechos asentados tanto en las actas de auditoría, como en los oficios de observaciones, así como estudiarlas y resolverlas al determinar los créditos fiscales correspondientes.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-IX. Determinar en cantidad liquida los montos a pagar por concepto de contribuciones omitidas y sus accesorios a cargo de los contribuyentes, responsables solidarios y demás obligados, derivadas del ejercicio de sus facultades de comprobación, en los términos de la legislación fiscal estatal y federal, así como de los convenios celebrados por el Estado con la Federación.
+VI. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de las visitas domiciliarias, auditorías, inspecciones o verificaciones correspondientes y los actos de autoridad que corresponda en ejercicio de sus facultades.
 
-X. Practicar en la forma y términos que conforme a las leyes proceda, el aseguramiento precautorio para asegurar el interés fiscal; cuando a su juicio hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales y en los demás casos previstos por las leyes fiscales; levantarlo cuando proceda en asuntos de su competencia así como designar a los ejecutores para la práctica y levantamiento del mismo, quienes podrán actuar en forma conjunta o separadamente.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XI. Vigilar y revisar el cumplimiento de la presentación de declaraciones en materia de contribuciones estatales y federales coordinadas y emitir liquidaciones y requerimientos para su presentación y liquidar las diferencias encontradas en su caso de acuerdo a las leyes y los Convenios de Colaboración en Materia Fiscal celebrados con la Federación aplicables.
+VII. Ampliar los plazos para concluir las visitas domiciliarias o las revisiones practicadas fuera del domicilio del contribuyente en los casos en que procedan conforme a la legislación federal y estatal aplicable.
 
-XII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de las facultades de comprobación, es decir, de la revisión de gabinete, dictámenes o visitas domiciliarias, derivadas de la legislación fiscal local y federal, así como de los Convenios de Colaboración celebrados con la Federación y hacer constar dichos hechos y omisiones en los oficios de conclusión, oficio de observaciones, en la última acta parcial que se levante según corresponda, así como las resoluciones en que se determinen las contribuciones omitidas derivadas de dichos procedimientos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIII. Designar a los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia.
+VIII. Requerir a los contribuyentes, responsables solidarios y terceros con ellos relacionados para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos y otros documentos e informes, así como recabar de los servidores públicos y de los fedatarios los informes y datos que con motivo de sus funciones obren en su poder para proceder a su revisión a fin de comprobar el debido cumplimiento de las disposiciones fiscales.
 
-XIV. Determinar las infracciones e imponer las multas por incumplimiento a disposiciones fiscales estatales y federales conforme a los Convenios celebrados con la Federación.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XV. Resolver sobre las solicitudes de prórroga para la presentación de documentos, datos o informes que requiera a los contribuyentes, en los asuntos de su competencia.
+IX. Requerir al contador público que haya formulado el dictamen lo siguiente:
 
-XVI. Notificar los actos, acuerdos o resoluciones que emita en ejercicio de las facultades de comprobación que se deben hacer del conocimiento de los contribuyentes, inclusive aquellos que determinen créditos fiscales y su accesorios.
+1. Cualquier información que conforme a la legislación aplicable debiera estar incluida en los estados financieros dictaminados para efectos fiscales.
 
-XVII. Continuar con la práctica de los actos de fiscalización que hayan iniciado otras autoridades fiscales de otras entidades federativas, cuando los contribuyentes pasen a ser competencia de esta autoridad por haber cambiado su domicilio fiscal al territorio del Estado de Coahuila de Zaragoza
+2. La exhibición de los papeles de trabajo elaborados en el dictamen con motivo de la auditoría practicada, los cuales, en todo caso, se entiende que son propiedad del contador público.
 
-XVIII. Informar al Administración (sic) Central de Fiscalización y a las dependencias y unidades administrativas que proceda, de los hechos que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales en el desempeño de sus funciones.
+3. La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
 
-XIX. Certificar las copias de documentos y constancias cuyos originales obren en los expedientes que se encuentren a su cargo.
+4. La exhibición de los sistemas y registros contables y documentación original, en aquellos casos en que así se considere necesario.
 
-XX. Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el Administrador Fiscal del Estado y su superior jerárquico inmediato.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+X. Verificar, a través de visitas de inspección, el uso de máquinas registradoras de comprobación fiscal, equipos de cómputo, software y redes informáticas en establecimientos o locales ubicados en el territorio del Estado, así como la expedición de comprobantes fiscales, de acuerdo con las disposiciones legales emitidas para tal efecto.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XI. Ordenar la revisión de los dictámenes formulados por contador público registrado, sobre las contribuciones federales coordinadas, relacionados con las declaraciones fiscales de los contribuyentes.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XII. Vigilar y revisar el cumplimiento de la presentación de declaraciones en materia de contribuciones estatales y federales coordinados (sic) y emitir liquidaciones y requerimientos para su presentación y liquidar las diferencias encontradas en su caso de acuerdo a las leyes y los convenios de colaboración celebrados con la federación aplicables.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIII. Ordenar y practicar las clausuras preventivas de los establecimientos de los contribuyentes por no expedir o no entregar comprobantes de sus actividades; que los expedidos no reúnan requisitos fiscales; o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o el uso de servicios, en los términos de la legislación estatal, federal y del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIV. Revocar los actos emitidos cuando no se hayan apegado a las disposiciones legales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XV. Decretar el embargo precautorio y el aseguramiento de los bienes o la negociación de los contribuyentes en los términos que establezcan las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVI. Solicitar a las instituciones bancarias, así como a las organizaciones auxiliares de crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVII. Determinar la responsabilidad solidaria respecto de créditos fiscales de carácter federal o estatal, conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVIII. Requerir a los contribuyentes, responsables solidarios y terceros con ellos relacionados dentro del procedimiento de facultades de comprobación para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos y otros documentos e informes, así como recabar de los servidores públicos y de los fedatarios los informes y datos que con motivo de sus funciones obren en su poder para proceder a su revisión a fin de comprobar el debido cumplimiento de las disposiciones fiscales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIX. Verificar, a través de visitas de inspección, el uso de máquinas registradoras de comprobación fiscal en establecimientos o locales ubicados en el territorio del Estado, así como la expedición de comprobantes fiscales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XX. Habilitar días y horas para la práctica de diligencias, según lo establezcan las leyes fiscales.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXI. Recibir de los contribuyentes, responsables solidarios y demás obligados fiscalmente, las objeciones que formulen y las pruebas que ofrezcan, en relación con los hechos asentados tanto en las actas de auditoría, como en los oficios de observaciones, así como estudiarlas y resolverlas al determinar los créditos fiscales correspondientes.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXII. Determinar en cantidad liquida los montos a pagar por concepto de contribuciones omitidas y sus accesorios a cargo de los contribuyentes, responsables solidarios y demás obligados, derivadas del ejercicio de sus facultades de comprobación, en los términos de la legislación fiscal estatal y federal, así como de los convenios celebrados por el Estado con la Federación.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIII. Practicar en la forma y términos que conforme a las leyes proceda, el aseguramiento precautorio para asegurar el interés fiscal; cuando a su juicio hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales y en los demás casos previstos por las leyes fiscales; levantarlo cuando proceda en asuntos de su competencia así como designar a los ejecutores para la práctica y levantamiento del mismo, quienes podrán actuar en forma conjunta o separadamente.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIV. Vigilar y revisar el cumplimiento de la presentación de declaraciones en materia de contribuciones estatales y federales coordinadas y emitir liquidaciones y requerimientos para su presentación y liquidar las diferencias encontradas en su caso de acuerdo a las leyes y los Convenios de Colaboración en Materia Fiscal celebrados con la Federación aplicables.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXV. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de las facultades de comprobación, es decir, de la revisión de gabinete, dictámenes o visitas domiciliarias, derivadas de la legislación fiscal local y federal, así como de los Convenios de Colaboración celebrados con la Federación y hacer constar dichos hechos y omisiones en los oficios de conclusión, oficio de observaciones, en la última acta parcial que se levante según corresponda, así como las resoluciones en que se determinen las contribuciones omitidas derivadas de dichos procedimientos.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVI. Designar a los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVII. Determinar las infracciones e imponer las multas por incumplimiento a disposiciones fiscales estatales y federales conforme a los Convenios celebrados con la Federación.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVIII. Resolver sobre las solicitudes de prórroga para la presentación de documentos, datos o informes que requiera a los contribuyentes, en los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIX. Notificar los actos, acuerdos o resoluciones que emita en ejercicio de las facultades de comprobación que se deben hacer del conocimiento de los contribuyentes, inclusive aquellos que determinen créditos fiscales y su (sic) accesorios.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXX. Continuar con la práctica de los actos de fiscalización que hayan iniciado otras autoridades fiscales de otras entidades federativas, cuando los contribuyentes pasen a ser competencia de esta autoridad por haber cambiado su domicilio fiscal al territorio del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXI. Informar al (sic) Administración Central de Fiscalización y a las dependencias y unidades administrativas que proceda, de los hechos que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales en el desempeño de sus funciones.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXII. Certificar las copias de documentos y constancias cuyos originales obren en los expedientes que se encuentren a su cargo.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXIII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por las Administraciones Locales de Fiscalización de Saltillo, Monclova, Torreón y Piedras Negras de la Administración Central de Fiscalización, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXIV. Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el Administrador Fiscal del Estado y su superior jerárquico inmediato.
 
 A fin de cumplir con las facultades señaladas anteriormente, los Administradores Locales serán auxiliados del personal adscrito a la Administración Central de Fiscalización, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -1353,23 +2277,45 @@ XXI. Resolver sobre las solicitudes de prórroga para la presentación de docume
 
 XXII. Notificar los actos, acuerdos o resoluciones que emita en ejercicio de las facultades de comprobación que se deben hacer del conocimiento de los contribuyentes, inclusive aquellos que determinen créditos fiscales y sus accesorios.
 
-XXIII. Designar los peritos que se requieran para la formulación de clasificaciones arancelarias, cotización y avalúo de mercancías de procedencia extranjera embargadas o solicitar a las autoridades Aduaneras Federales el dictamen de clasificación arancelaria, cotización y avalúo de mercancías embargadas.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXIV. Dar el destino legal que proceda a la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia del procedimiento aduanero que sea de su competencia, de conformidad con la Ley Aduanera, el Convenio de Colaboración Administrativa en Materia Fiscal Federal del cual el Estado forma parte y de acuerdo a la normatividad o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera.
+XXIII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administraciones (sic) Local de Comercio Exterior de la Administración Central de Fiscalización, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
 
-XXV. Coordinarse con las autoridades fiscales de la Federación, para la integración y seguimiento del Programa Operativo Anual.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXVI. Certificar las copias de documentos y constancias cuyos originales obren en los expedientes que se encuentren a su cargo.
+XXIV. Designar los peritos que se requieran para la formulación de clasificaciones arancelarias, cotización y avalúo de mercancías de procedencia extranjera embargadas o solicitar a las autoridades Aduaneras Federales el dictamen de clasificación arancelaria, cotización y avalúo de mercancías embargadas.
 
-XXVII. Determinar conforme a la Ley Aduanera, el valor en aduana de las mercancías de importación o el valor comercial de las mercancías de exportación, de acuerdo a lo establecido en los convenios celebrados con la Federación.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXVIII. Establecer, con base en el inventario, la naturaleza, características, clasificación arancelaria, origen y valor de las mercancías, de conformidad con las disposiciones legales aplicables, para la determinación a que se refiere el párrafo anterior.
+XXV. Dar el destino legal que proceda a la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia del procedimiento aduanero que sea de su competencia, de conformidad con la Ley Aduanera, el Convenio de Colaboración Administrativa en Materia Fiscal Federal del cual el Estado forma parte y de acuerdo a la normatividad o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera.
 
-XXIX. Emitir el dictamen de clasificación, cotización y avalúo de las mercancías, así como solicitar el dictamen o apoyo técnico que requiera a las autoridades aduaneras, al agente aduanal, al dictaminador aduanero o a cualquier otro perito en materia aduanera y de comercio exterior.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXX. Aplicar las cuotas compensatorias, regulaciones y restricciones no arancelarias y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, así como determinar los derechos, contribuciones, aprovechamientos u accesorios que se deriven del ejercicio de las facultades en materia aduanera, y
+XXVI. Coordinarse con las autoridades fiscales de la Federación, para la integración y seguimiento del Programa Operativo Anual.
 
-XXXI. Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el Administrador Fiscal del Estado y su superior jerárquico inmediato.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVII. Certificar las copias de documentos y constancias cuyos originales obren en los expedientes que se encuentren a su cargo.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVIII. Determinar conforme a la Ley Aduanera, el valor en aduana de las mercancías de importación o el valor comercial de las mercancías de exportación, de acuerdo a lo establecido en los convenios celebrados con la Federación.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIX. Establecer, con base en el inventario, la naturaleza, características, clasificación arancelaria, origen y valor de las mercancías, de conformidad con las disposiciones legales aplicables, para la determinación a que se refiere el párrafo anterior.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXX. Emitir el dictamen de clasificación, cotización y avalúo de las mercancías, así como solicitar el dictamen o apoyo técnico que requiera a las autoridades aduaneras, al agente aduanal, al dictaminador aduanero o a cualquier otro perito en materia aduanera y de comercio exterior.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXI. Aplicar las cuotas compensatorias, regulaciones y restricciones no arancelarias y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, así como determinar los derechos, contribuciones, aprovechamientos u accesorios que se deriven del ejercicio de las facultades en materia aduanera, y,
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXII. Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el Administrador Fiscal del Estado y su superior jerárquico inmediato.
 
 La Administración Local de Comercio Exterior estará a cargo de un Administrador, auxiliado en el ejercicio de sus facultades por los Jefes de Departamento, Coordinadores de Comercio Exterior, Enlaces, Auditores, Visitadores, Inspectores, Verificadores, Ayudantes de Auditor y Notificadores, así como con el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -1427,67 +2373,149 @@ VI. Revisar las declaraciones y pagos presentados por los contribuyentes, determ
 
 VII. Notificar en la forma y términos que establezcan las disposiciones legales aplicables, todo tipo de actos administrativos, las resoluciones que determinen créditos fiscales, estatales y federales coordinados, citatorios, requerimientos y solicitudes de informes, así como habilitar a terceros para que realicen notificaciones.
 
-VIII. Llevar a cabo en el ámbito de su competencia y en términos de las legislaciones estatal y federal coordinada, el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, incluyendo el embargo de cuentas bancarias y de inversiones a nombre de los contribuyentes deudores y responsables solidarios, así como hacer efectivas las garantías constituidas para asegurar el interés fiscal, inclusive las fianzas a favor del Gobierno del Estado o de la Tesorería de la Federación, otorgadas para garantizar los créditos fiscales respecto de los cuales ejerza el procedimiento administrativo de ejecución; enajenar dentro o fuera de remate bienes o negociaciones embargados, así como expedir el documento que ampare la enajenación de los bienes rematados y proceder a la ampliación del embargo en otros bienes del contribuyente cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-IX. Proporcionar a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, información relativa a los créditos fiscales exigibles de los contribuyentes, en el ámbito de su competencia.
+VIII. Llevar a cabo en el ámbito de su competencia y en términos de las legislaciones estatal y federal coordinada, el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales a cargo de los contribuyentes, responsables solidarios y demás obligados, incluyendo el embargo de cuentas bancarias y de inversiones a nombre de los contribuyentes deudores y responsables solidarios.
 
-X. Solicitar a las instituciones bancarias, así como a las organizaciones auxiliares de crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XI. Cobrar las multas impuestas por las unidades administrativas de la Administración Fiscal General, por autoridades administrativas no fiscales y por las demás autoridades que por disposición legal le corresponda su recaudación.
+IX. Hacer efectivas las garantías constituidas para asegurar el interés fiscal, inclusive las fianzas a favor del Gobierno del Estado o de la Tesorería de la Federación, otorgadas para garantizar los créditos fiscales respecto de los cuales ejerza el procedimiento administrativo de ejecución.
 
-XII. Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos de ejecución que lleve a cabo, así como determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIII. Revocar la autorización del pago en parcialidades, determinar y cobrar las diferencias, recargos, accesorios, honorarios y gastos extraordinarios que se causen en la aplicación del procedimiento administrativo de ejecución, a los contribuyentes, responsables solidarios y demás obligados, cuando soliciten el pago en parcialidades sin tener derecho a ello, o se hubiesen colocado en los supuestos de revocación de la autorización que establecen las disposiciones fiscales.
+X. Enajenar dentro o fuera de remate bienes o negociaciones embargados, así como expedir el documento que ampare la enajenación de los bienes rematados.
 
-XIV. Tramitar y aceptar o rechazar previa calificación, las garantías del interés fiscal que se otorguen con relación a contribuciones y accesorios, respecto de los cuales se ejerza el procedimiento administrativo de ejecución, o sobre los que se deba resolver acerca del pago en parcialidades; autorizar la sustitución de las citadas garantías y cancelarlas cuando proceda, asimismo, vigilar que dichas garantías sean suficientes tanto al momento de su aceptación como con posterioridad y en su caso, exigir su ampliación si no lo fueren; así como fijar los honorarios del depositario interventor de negociaciones o administrador de bienes raíces, en coordinación con las unidades administrativas competentes.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XV. Ordenar y practicar, en la forma y términos que conforme a las leyes proceda, el embargo precautorio, para asegurar el interés fiscal, cuando a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales; y en los demás casos previstos por las leyes fiscales, así como levantarlo cuando proceda.
+XI. Proceder a la ampliación del embargo en otros bienes del contribuyente cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente.
 
-XVI. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia y hacerlos exigibles mediante el procedimiento administrativo de ejecución.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVII. Ordenar, en el ámbito de su competencia, la suspensión del procedimiento administrativo de ejecución cuando proceda conforme a las disposiciones legales aplicables.
+XII. Declarar el abandono de los bienes y de las cantidades a favor del fisco estatal en los términos de la legislación federal y local aplicable.
 
-XVIII. Depurar y proponer para su cancelación al Administrador Fiscal del Estado, los créditos fiscales incobrables de contribuciones estatales y federales coordinadas, observando los lineamientos y requisitos señalados por las autoridades competentes; y participar en el diseño de los lineamientos para la cancelación de créditos por contribuciones estatales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIX. Designar y expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, requerimientos, embargos e intervenciones con cargo a la caja o de administración.
+XIII. Proporcionar a las sociedades de información crediticia que obtengan autorización de la Secretaria de Hacienda y Crédito Público, información relativa a los créditos fiscales exigibles de los contribuyentes, en el ámbito de su competencia.
 
-XX. Habilitar días y horas para la práctica de diligencias según lo establezcan las leyes fiscales federales o estatales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXI. Emitir requerimientos derivados de los programas de trabajo que se suscriban con el Servicio de Administración Tributaria.
+XIV. Solicitar a las instituciones bancarias, así como a las organizaciones auxiliares de crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda.
 
-XXII. Revocar de oficio o a petición de parte, las resoluciones emitidas por la Administración Central de Ejecución Fiscal y las de las unidades adscritas a la misma, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales y, en su caso, ordenar su reposición.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXIII. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la ejecución de créditos fiscales.
+XV. Cobrar las multas impuestas por las unidades administrativas de la Administración Fiscal General, por autoridades administrativas no fiscales y por las demás autoridades que por disposición legal le corresponda su recaudación.
 
-XXIV. Participar, en los términos de la normatividad, en los Comités que se integren para el estudio y resolución de solicitudes de dación o pago en especie con bienes o servicios, condonación de multas y en los demás que se constituyen y competan en atención a sus funciones y atribuciones.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXV. Someter a consideración del Comité que al efecto se integre, previo acuerdo de su superior jerárquico, las solicitudes de dación de bienes en pago de créditos fiscales.
+XVI. Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos de ejecución que lleve a cabo, así como determinar y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes.
 
-XXVI. Designar peritos, a efecto de que lleven a cabo el avalúo de los bienes a rematar en el procedimiento administrativo de ejecución fiscal, de lo que se ofrezcan como dación en pago y/o pago en especie de contribuciones; y en los demás casos que así se requiera.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXVII. Someter a la consideración de la instancia correspondiente, las solicitudes de condonación de multas determinadas e impuestas por las unidades administrativas de la Administración Fiscal General o las autoimpuestas por los contribuyentes conforme a la ley.
+XVII. Autorizar y revocar la autorización del pago en parcialidades, determinar y cobrar las diferencias, recargos, accesorios, honorarios y gastos extraordinarios que se causen en la aplicación del procedimiento administrativo de ejecución, a los contribuyentes, responsables solidarios y demás obligados, cuando soliciten el pago en parcialidades sin tener derecho a ello, o se hubiesen colocado en los supuestos de revocación de la autorización que establecen las disposiciones fiscales.
 
-XXVIII. Colaborar con las autoridades competentes en la investigación de hechos que puedan constituir infracciones administrativas, delitos fiscales y delitos de servidores públicos que sean de su conocimiento en el ejercicio de sus facultades.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXIX. Coordinarse en materia de su competencia con las autoridades fiscales federales y municipales, para el mejor ejercicio de sus facultades.
+XVIII. Tramitar y aceptar o rechazar previa calificación, las garantías del interés fiscal que se otorguen con relación a contribuciones y accesorios, respecto de los cuales se ejerza el procedimiento administrativo de ejecución, o sobre los que se deba resolver acerca del pago en parcialidades; autorizar la sustitución de las citadas garantías y cancelarlas cuando proceda, asimismo, vigilar que dichas garantías sean suficientes tanto al momento de su aceptación como con posterioridad y en su caso, exigir su ampliación si no lo fueren; así como fijar los honorarios del depositario interventor de negociaciones o administrador de bienes raíces, en coordinación con las unidades administrativas competentes.
 
-XXX. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXI. Delegar en los Sub-Administradores adscritos a la Administración Central de Ejecución Fiscal, para la mejor organización del trabajo, cualquiera de sus facultades, excepto aquellas que su superior jerárquico inmediato o el Administrador Fiscal del Estado establezcan que deban ser ejercidas por el titular de la Administración Central de Ejecución Fiscal.
+XIX. Ordenar y practicar, en la forma y términos que conforme a las leyes proceda, el embargo precautorio, para asegurar el interés fiscal, cuando a su juicio, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales; y en los demás casos previstos por las leyes fiscales, así como levantarlo cuando proceda.
 
-XXXII. Transferir a la instancia competente los bienes embargados en el ejercicio de sus facultades que hayan pasado a propiedad del Fisco o de los que pueda disponer en términos de la normatividad aplicable, así como realizar, de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la donación o destrucción de dichos bienes cuando no puedan ser transferidos a la instancia competente de acuerdo con las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXIII. Emitir anualmente un informe en el que se señale si se encuentran pagados o garantizados los créditos fiscales y la situación de la cartera a su cargo.
+XX. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia y hacerlos exigibles mediante el procedimiento administrativo de ejecución.
 
-XXXIV. Realizar la valuación de la cartera de créditos fiscales, así como mejorar los modelos de valuación de cartera y administración de riesgos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXV. Vigilar y supervisar la operación de las áreas de ejecución de las Administraciones Locales de Ejecución Fiscal, para comprobar que los procedimientos y acciones se ajusten a la normatividad, así como tomar las medidas correctivas y la propuesta de sanción, en caso necesario.
+XXI. Ordenar, en el ámbito de su competencia, la suspensión del procedimiento administrativo de ejecución cuando proceda conforme a las disposiciones legales aplicables.
 
-XXXVI. Certificar hechos, documentos y expedir las constancias correspondientes, así como expedir certificaciones de los documentos y expedientes relativos a los asuntos de su competencia.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXXVII. Participar en el diseño y elaboración de un marco geográfico fiscal que permita georeferenciar cualquier tipo de información.
+XXII. Depurar y proponer para su cancelación al Administrador Fiscal del Estado, los créditos fiscales incobrables de contribuciones estatales y federales coordinadas, observando los lineamientos y requisitos señalados por las autoridades competentes; y participar en el diseño de los lineamientos para la cancelación de créditos por contribuciones estatales.
 
-XXXVIII. Las demás que las disposiciones legales como autoridad fiscal le atribuyan, así como aquellas que le confiera el Administrador Fiscal del Estado o su superior jerárquico.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIII. Expedir las credenciales o constancias de identificación del personal a su cargo, así como habilitarlos para la práctica de actos relacionados con el ejercicio de sus facultades.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIV. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administraciones (sic) Central de Ejecución Fiscal, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXV. Habilitar días y horas para la práctica de diligencias según lo establezcan las leyes fiscales federales o estatales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVI. Emitir requerimientos derivados de los programas de trabajo que se suscriban con el Servicio de Administración Tributaria e imponer las sanciones y multas que se deriven de su incumplimiento.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVII. Revocar de oficio o a petición de parte, las resoluciones emitidas por la Administración Central de Ejecución Fiscal y las de las unidades adscritas a la misma, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales y, en su caso, ordenar su reposición.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVIII. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la ejecución de créditos fiscales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIX. Participar, en los términos de la normatividad, en los Comités que se integren para el estudio y resolución de solicitudes de dación o pago en especie con bienes o servicios, condonación de multas y en los demás que se constituyen y competan en atención a sus funciones y atribuciones.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXX. Someter a consideración del Comité que al efecto se integre, previo acuerdo de su superior jerárquico, las solicitudes de dación de bienes en pago de créditos fiscales.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXI. Designar peritos, a efecto de que lleven a cabo el avalúo de los bienes a rematar en el procedimiento administrativo de ejecución fiscal, de lo que se ofrezcan como dación en pago y/o pago en especie de contribuciones; y en los demás casos que así se requiera.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXII. Someter a la consideración de la instancia correspondiente, las solicitudes de condonación de multas determinadas e impuestas por las unidades administrativas de la Administración Fiscal General o las autoimpuestas por los contribuyentes conforme a la ley.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXIII. Colaborar con las autoridades competentes en la investigación de hechos que puedan constituir infracciones administrativas, delitos fiscales y delitos de servidores públicos que sean de su conocimiento en el ejercicio de sus facultades.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXIV. Coordinarse en materia de su competencia con las autoridades fiscales federales y municipales, para el mejor ejercicio de sus facultades.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXV. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXVI. Delegar en los Sub-Administradores adscritos a la Administración Central de Ejecución Fiscal, para la mejor organización del trabajo, cualquiera de sus facultades, excepto aquellas que su superior jerárquico inmediato o el Administrador Fiscal del Estado establezcan que deban ser ejercidas por el titular de la Administración Central de Ejecución Fiscal.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXVII. Transferir a la instancia competente los bienes embargados en el ejercicio de sus facultades que hayan pasado a propiedad del Fisco o de los que pueda disponer en términos de la normatividad aplicable, así como realizar, de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la donación o destrucción de dichos bienes cuando no puedan ser transferidos a la instancia competente de acuerdo con las disposiciones aplicables.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXVIII. Emitir anualmente un informe en el que se señale si se encuentran pagados o garantizados los créditos fiscales y la situación de la cartera a su cargo.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXIX. Realizar la valuación de la cartera de créditos fiscales, así como mejorar los modelos de valuación de cartera y administración de riesgos.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XL. Vigilar y supervisar la operación de las áreas de ejecución de las Administraciones Locales de Ejecución Fiscal, para comprobar que los procedimientos y acciones se ajusten a la normatividad, así como tomar las medidas correctivas y la propuesta de sanción, en caso necesario.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLI. Certificar hechos, documentos y expedir las constancias correspondientes, así como expedir certificaciones de los documentos y expedientes relativos a los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLII. Participar en el diseño y elaboración de un marco geográfico fiscal que permita georeferenciar cualquier tipo de información, y,
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XLIII. Las demás que las disposiciones legales como autoridad fiscal le atribuyan, así como aquellas que le confiera el Administrador Fiscal del Estado o su superior jerárquico.
 
 ###### ARTÍCULO 31.
 
@@ -1519,39 +2547,81 @@ XII. Someter a la consideración del superior jerárquico, en el ámbito de su c
 
 XIII. Proponer para su cancelación al superior jerárquico, los créditos fiscales de contribuciones estatales y federales coordinadas, observando los lineamientos y requisitos señalados por las autoridades competentes; y participar en el diseño de los lineamientos para la cancelación de créditos por contribuciones estatales.
 
-XIV. Habilitar días y horas para la práctica de diligencias según lo establezcan las leyes fiscales federales o estatales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XV. Revocar de oficio o a petición de parte, las resoluciones emitidas por la Administración Local de Ejecución Fiscal y las de las unidades adscritas a la misma, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales, y en su caso, ordenar su reposición.
+XIV. Asignar al personal para realizar la práctica de las diligencias de notificación, requerimientos, embargos, intervenciones con cargo a la caja o de administración y demás relacionados con el desempeño de sus funciones; así como habilitar días y horas para la práctica de diligencias, según lo establezcan las leyes fiscales estatales o federales.
 
-XVI. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la ejecución de créditos fiscales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XVII. Enviar al superior jerárquico, para el trámite correspondiente, las solicitudes de dación de bienes en pago y/o el pago en especie de los créditos fiscales.
+XV. Habilitar días y horas para la práctica de diligencias según lo establezcan las leyes fiscales federales o estatales.
 
-XVIII. Designar peritos, a efecto de que lleven a cabo el avalúo de los bienes a rematar en el procedimiento administrativo de ejecución fiscal, de los que se ofrezcan como dación en pago y/o pago en especie de contribuciones; y en los demás casos que así se requiera.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XIX. Integrar los expedientes de solicitudes de condonación, en los términos de las disposiciones aplicables, multas determinadas e impuestas por las unidades administrativas de la Administración Fiscal General o las autoimpuestas por los contribuyentes.
+XVI. Revocar de oficio o a petición de parte, las resoluciones emitidas por la Administración Local de Ejecución Fiscal y las de las unidades adscritas a la misma, cuando no reúnan los requisitos o elementos de validez requeridos por las leyes fiscales, y en su caso, ordenar su reposición.
 
-XX. Colaborar con las autoridades competentes en la investigación de hechos que puedan constituir infracciones administrativas, delitos fiscales y delitos de servidores públicos que sean de su conocimiento en el ejercicio de sus facultades.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXI. Emitir requerimientos derivados de los programas de trabajo que se suscriban con el Servicio de Administración Tributaria.
+XVII. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes y que no constituyan instancia de defensa, sobre problemas relacionados con la ejecución de créditos fiscales.
 
-XXII. Coordinarse en materia de su competencia con las autoridades fiscales federales y municipales, para el mejor ejercicio de sus facultades; previo acuerdo con el superior jerárquico.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXIII. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorías, inspecciones y visitas internas ordinarias y extraordinarias.
+XVIII. Enviar al superior jerárquico, para el trámite correspondiente, las solicitudes de dación de bienes en pago y/o el pago en especie de los créditos fiscales.
 
-XXIV. Transferir a la instancia competente los bienes embargados en el ejercicio de sus facultades que hayan pasado a propiedad del Fisco o de los que pueda disponer en términos de la normatividad aplicable, así como realizar, de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la donación o destrucción de dichos bienes cuando no puedan ser transferidos a la instancia competente de acuerdo con las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXV. Vigilar y supervisar la operación de las áreas bajo su responsabilidad, para comprobar que los procedimientos y acciones se ajusten a la normatividad, así como tomar las medidas correctivas y la propuesta de sanción, en caso necesario.
+XIX. Designar peritos, a efecto de que lleven a cabo el avalúo de los bienes a rematar en el procedimiento administrativo de ejecución fiscal, de los que se ofrezcan como dación en pago y/o pago en especie de contribuciones; y en los demás casos que así se requiera.
 
-XXVI. Integrar los expedientes para su cancelación o bajas por pago o por resolución judicial o administrativa, a fin de que la Administración Central de Ejecución Fiscal proceda a su baja de resultar procedente.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXVII. Resguardar los expedientes competencia de la oficina a su cargo, el archivo histórico y vigilar que se mantengan debidamente organizado el archivo a su cargo.
+XX. Integrar los expedientes de solicitudes de condonación, en los términos de las disposiciones aplicables, multas determinadas e impuestas por las unidades administrativas de la Administración Fiscal General o las autoimpuestas por los contribuyentes.
 
-XXVIII. Certificar hechos y expedir las constancias correspondientes, así como expedir certificaciones de los documentos y expedientes relativos a los asuntos de su competencia.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-XXIX. Solicitar el auxilio de la Administración Central de Ejecución Fiscal cuando lo considere pertinente, e informar sobre cualquier situación que requiera la atención y conocimiento de dicha área; y
+XXI. Colaborar con las autoridades competentes en la investigación de hechos que puedan constituir infracciones administrativas, delitos fiscales y delitos de servidores públicos que sean de su conocimiento en el ejercicio de sus facultades.
 
-XXX. Las demás que las disposiciones legales como autoridad fiscal le atribuyan, así como aquellas que le confiera el Administrador Fiscal del Estado o sus superiores jerárquicos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXII. Emitir requerimientos de contribuciones estatales, así como los que deriven de los programas de trabajo que se suscriban con el Servicio de Administración Tributaria, e imponer las sanciones y multas que se deriven de su incumplimiento.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIII. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por las Administraciones Locales de Ejecución Fiscal, conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIV. Coordinarse en materia de su competencia con las autoridades fiscales federales y municipales, para el mejor ejercicio de sus facultades; previo acuerdo con el superior jerárquico.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXV. Presentar ante las autoridades competentes la información requerida cuando se realicen auditorias, inspecciones y visitas internas ordinarias y extraordinarias.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVI. Transferir a la instancia competente los bienes embargados en el ejercicio de sus facultades que hayan pasado a propiedad del Fisco o de los que pueda disponer en términos de la normatividad aplicable, así como realizar, de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la donación o destrucción de dichos bienes cuando no puedan ser transferidos a la instancia competente de acuerdo con las disposiciones aplicables.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVII. Vigilar y supervisar la operación de las áreas bajo su responsabilidad, para comprobar que los procedimientos y acciones se ajusten a la normatividad, así como tomar las medidas correctivas y la propuesta de sanción, en caso necesario.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXVIII. Integrar los expedientes para su cancelación o bajas por pago o por resolución judicial o administrativa, a fin de que la Administración Central de Ejecución Fiscal proceda a su baja de resultar procedente.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXIX. Resguardar los expedientes competencia de la oficina a su cargo, el archivo histórico y vigilar que se mantengan debidamente organizado el archivo a su cargo.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXX. Certificar hechos y expedir las constancias correspondientes, así como expedir certificaciones de los documentos y expedientes relativos a los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXI. Solicitar el auxilio de la Administración Central de Ejecución Fiscal cuando lo considere pertinente, e informar sobre cualquier situación que requiera la atención y conocimiento de dicha área; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XXXII. Las demás que las disposiciones legales como autoridad fiscal le atribuyan, así como aquellas que le confiera el Administrador Fiscal del Estado o sus superiores jerárquicos.
 
 A fin de cumplir con las facultades señaladas anteriormente, las Administraciones Locales de Ejecución Fiscal de Acuña, Monclova, Sabinas, Saltillo, San Pedro, Piedras Negras y Torreón, estarán a cargo de un Administrador y podrán ser auxiliados por el personal adscrito a la Administración Central de Ejecución Fiscal, cuando así se requiera o lo determine dicha oficina.
 
@@ -1697,6 +2767,10 @@ VIII. Resolver las consultas que formulen los contribuyentes sobre la aplicació
 
 IX. Resolver las solicitudes de reconsideración planteadas por los contribuyentes, así como conocer y resolver las solicitudes de modificación o revocación de resoluciones administrativas de carácter individual no favorables a un particular, emitidas por los titulares de las unidades administrativas de la Administración Fiscal General.
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+IX-A. Notificar a través del buzón tributario asignado por el Servicio de Administración Tributaria o por el Estado a los contribuyentes, las resoluciones emitidas por la Administración Central de lo Contencioso conforme a las disposiciones legales estatales o federales por ingresos coordinados.
+
 X. Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el Administrador Fiscal del Estado y su superior jerárquico inmediato.
 
 Para el ejercicio de las facultades a que se refiere el presente artículo, la Administración Central de lo Contencioso tendrá competencia dentro de todo el territorio del Estado de Coahuila de Zaragoza.
@@ -1805,9 +2879,27 @@ XII. Vigilar el cumplimiento de los contratos que celebre la Administración Fis
 
 XIII. Someter a la aprobación del superior jerárquico los lineamientos que deban observarse para la contratación de servicios de la Administración Fiscal General.
 
-XIV. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan, las políticas y procedimientos para la celebración de contratos de bienes y servicios, y
+XIV. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan, las políticas y procedimientos para la celebración de contratos de bienes y servicios, y (sic)
 
-XV. Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el Administrador Fiscal del Estado y su superior jerárquico.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XV. Proporcionar el servicio de mensajería que requieran las unidades administrativas adscritas a la Administración Fiscal General.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVI. Establecer políticas y procedimientos para el mantenimiento y reparación del edificio, instalaciones, mobiliario y equipo de la Administración Fiscal General.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVII. Supervisar que se lleve un control de existencias de almacén de la Administración Fiscal General.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XVIII. Vigilar la distribución de material de acuerdo a las requisiciones recibidas de las unidades administrativas de la Administración Fiscal General.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+XIX. Las demás que las disposiciones legales le atribuyan, así como aquéllas que le confiera el Administrador Fiscal del Estado y su superior jerárquico.
 
 ###### ARTÍCULO 38.
 
@@ -1960,3 +3052,19 @@ EL SECRETARIO FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
