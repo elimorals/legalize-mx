@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2014-02-04"
+last_updated: "2014-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -883,11 +883,19 @@ IV.- De Asentamientos Humanos y Obras Públicas.
 
 V.- De Servicios Públicos Municipales.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
-VI.- De Equidad de Género; y,
+VI.- De igualdad de Género.
 
-VII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+VII.- Comisión de Transporte, la cual será nombrada en los municipios del Estado en que exista transporte público concesionado o autorizado dentro de su jurisdicción territorial.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
+VIII.- De Transparencia y Acceso a la Información Pública, integrada en forma que se considere la pluralidad política representada en el Ayuntamiento.
+
+IX.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -1489,7 +1497,7 @@ Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localiz
 
 ###### ARTICULO 105.
 
-- Para los efectos de este impuesto se considera:
+Para los efectos de este impuesto se considera:
 
 I.- Predios:
 
@@ -3535,7 +3543,7 @@ El Tribunal de Arbitraje para los Trabajadores al Servicio de los Municipios de 
 
 ###### ARTICULO DECIMO.
 
-Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y de la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
+Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -3547,7 +3555,7 @@ Cd. Victoria, Tam., a 2 de febrero de 1984.- Diputado Presidente, LIC. TITO RESE
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
+Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General del Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
@@ -4110,3 +4118,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los nombramientos de comisiones efectuados por las actuales administraciones públicas municipales previo a la entrada en vigor del presente Decreto tendrán plena validez, así como aquellos que se efectúen antes del 15 de enero de 2014.
+
+P.O. 29 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
