@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-64484
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-10"
-last_updated: "2008-11-10"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de noviembre de 2008.
 
@@ -49,9 +49,11 @@ La presente Ley tiene por objeto garantizar la igualdad entre mujeres y hombres 
 
 Son principios rectores de la presente Ley, la igualdad, la no discriminación, la equidad y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Baja California Sur.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
+
 ###### Artículo 3.
 
-Son sujetos de los derechos que protege esta Ley, las mujeres y los hombres que se encuentren en el territorio Estatal, independientemente de su edad, estado civil, profesión, cultura, origen étnico, condición social, salud, religión, capacidades o preferencias sexuales.
+Son sujetos de los derechos que protege esta Ley, las mujeres y los hombres que se encuentren en el territorio Estatal, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o discapacidad, o preferencias sexuales, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
 El incumplimiento a la presente Ley, se castigará de conformidad con la Ley de Responsabilidades para los Servidores Públicos del Estado y Municipios de Baja California Sur.
 
@@ -107,9 +109,15 @@ Corresponde al Poder Ejecutivo del Estado:
 
 I. Conducir la Política Estatal en Materia de Igualdad entre Mujeres y Hombres;
 
-II. Elaborar la Política Estatal en Materia de Igualdad, a fin de cumplir con lo establecido en la presente Ley;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+II. Elaborar la Política Estatal en materia de Igualdad, en el marco de la Planeación del desarrollo del Estado, a fin de cumplir con lo establecido en la presente Ley;
 
 III. Diseñar y aplicar los instrumentos de la Política Estatal en Materia de Igualdad garantizada en esta Ley;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+III Bis. Generar sistemas de información con perspectiva de género y por edades, en apoyo a la toma de decisiones para promover la efectiva igualdad entre mujeres y hombres.
 
 IV. Coordinar las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa, con los principios que la ley señala;
 
@@ -122,6 +130,10 @@ VII. Incorporar en los Presupuestos de Egresos del Estado la asignación de recu
 VIII. Fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres, mediante las instancias administrativas que se ocupen del adelanto de las mujeres en el Estado y los municipios;
 
 IX. Promover, en coordinación con las dependencias de la administración pública estatal la aplicación de la presente Ley;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IX Bis. Elaborar las políticas públicas locales, con una proyección de mediano y largo alcance, debidamente armonizadas con los programas nacionales, dando cabal cumplimiento a la presente Ley;
 
 X. Proponer iniciativas y desarrollar políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil; y
 
@@ -140,6 +152,10 @@ Corresponde a los ayuntamientos de Baja California Sur:
 I. Implementar la Política Municipal en Materia de Igualdad entre Mujeres y Hombres, en concordancia con las políticas Nacional y Estatal;
 
 II. Coadyuvar con las autoridades federales y estatales, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+II Bis. Generar sistemas de información con perspectiva de género y por edades, en apoyo a la toma de decisiones para promover la efectiva igualdad entre mujeres y hombres.
 
 III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores contenidos en la presente Ley; y
 
@@ -474,3 +490,11 @@ ING. NARCISO AGUNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 T.C.C. LUIS ARMANDO DÍAZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 30 DE ABRIL DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
