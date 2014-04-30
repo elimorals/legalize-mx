@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2014-03-19"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2014.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -38,11 +38,11 @@ que reforma la del año de 1888.
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO I.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ABRIL DE 2014)</small>
 
-DE LA SOBERANIA, INDEPENDENCIA, TERRITORIO, Y FORMA DE GOBIERNO DEL ESTADO Y DE LAS GARANTIAS INDIVIDUALES Y SOCIALES.
+### CAPITULO I. DE LA SOBERANIA, INDEPENDENCIA, TERRITORIO Y FORMA DE GOBIERNO DEL ESTADO Y DE LOS DERECHOS HUMANOS
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -50,11 +50,13 @@ DE LA SOBERANIA, INDEPENDENCIA, TERRITORIO, Y FORMA DE GOBIERNO DEL ESTADO Y DE 
 
 El Estado de Morelos, es Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estado Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, Laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la ciudad de Cuernavaca.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
 
 ###### Artículo 2.
 
-En el Estado de Morelos se reconoce que todo ser humano tiene derecho a la protección jurídica de su vida, desde el momento mismo de la concepción, y asegura a todos sus habitantes, el goce de las garantías individuales y sociales contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución y, acorde con su tradición libertaria, declara de interés público la aplicación de los artículos 27 y 123 de la Constitución Fundamental de la República y su legislación derivada.
+En el Estado de Morelos se reconoce que todo ser humano tiene derecho a la protección jurídica de su vida, desde el momento mismo de la concepción, y asegura a todos sus habitantes, el goce de los Derechos Humanos, contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución y, acorde con su tradición libertaria, declara de interés público la aplicación de los artículos 27 y 123, de la Constitución Fundamental de la República y su legislación derivada.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -104,7 +106,7 @@ En el Estado de Morelos se reconoce el derecho al acceso a la cultura y al disfr
 
 ###### Artículo 2
 
-BIS.- El Estado de Morelos tiene una composición pluriétnica, pluricultural y multilingüística, sustentada originalmente en sus pueblos y comunidades indígenas. Reconoce la existencia histórica y actual en su territorio de los pueblos y protege también los derechos de las comunidades asentadas en ellos por cualquier circunstancia.
+Bis.- El Estado de Morelos tiene una composición pluriétnica, pluricultural y multilingüística, sustentada originalmente en sus pueblos y comunidades indígenas. Reconoce la existencia histórica y actual en su territorio de los pueblos y protege también los derechos de las comunidades asentadas en ellos por cualquier circunstancia.
 
 El Estado reconoce y garantiza el derecho a la libre determinación de sus pueblos y comunidades indígenas, ejercida en sus formas internas de convivencia y organización, sujetándose al marco constitucional de autonomía que asegure la unidad nacional y estatal.
 
@@ -126,7 +128,11 @@ VII. En los términos que establece la Constitución Federal y demás leyes de l
 
 VIII. Se garantizará a los indígenas el efectivo acceso a la justicia, tanto municipal como estatal. Para garantizar este derecho en la fase preventiva o ejecutiva en los juicios y procedimientos en que sean parte, individual o colectivamente, se proveerá lo necesario en materia de prevención, procuración, administración de justicia y ejecución de sanciones y medidas de seguridad, tomando en consideración sus usos, costumbres y especificidades culturales;
 
-IX. Los pueblos y comunidades indígenas aplicarán internamente sus propios sistemas normativos comunitarios en la regulación y solución de conflictos internos sujetándose a los principios generales de la Constitución Federal y la del Estado y las leyes que de ellos emanen, respetando las garantías individuales, los derechos humanos, así como la dignidad e integridad de la mujer;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+IX. Los pueblos y comunidades indígenas, aplicarán internamente sus propios sistemas normativos comunitarios, en la regulación y solución de conflictos internos, sujetándose a los principios generales de la Constitución Federal y la del Estado y las leyes que de ellos emanen, respetando los Derechos Humanos, así como la dignidad e integridad de la mujer;
 
 X. Elegir a los representantes de su gobierno interno de conformidad con sus normas, procedimientos y prácticas tradicionales, garantizando la participación de las mujeres en condiciones de igualdad frente a los varones, respetando el pacto federal y la soberanía del Estado. En términos de la fracción anterior;
 
@@ -326,11 +332,13 @@ Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de ci
 
 La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
 
 ###### Artículo 19.
 
-La mujer y el varón tienen igualdad de derechos ante la Ley. De igual manera protegerán la organización y desarrollo de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con capacidades diferentes y los ancianos. La protección familiar e individual se dará conforme a las siguientes bases:
+La mujer y el varón tienen igualdad de derechos ante la Ley. Los ordenamientos respectivos, tutelarán la igualdad de estos derechos y sancionarán cualquier tipo de discriminación o menoscabo, producido en relación al género masculino y femenino, a la edad, religión, etnia, condición social, discapacidad, y cualquiera otra que vulnere o dañe la dignidad y la condición de los Derechos Humanos, reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los Tratados, Acuerdos e instrumentos internacionales a los que el país se haya adherido. De igual manera, protegerán la organización y desarrollo de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con capacidades diferentes y los ancianos. La protección familiar e individual se dará conforme a las siguientes bases:
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -352,11 +360,17 @@ b).- A que se le proporcione alimentación, a la educación básica, a la especi
 
 c).- Al sano esparcimiento para su desarrollo integral;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
+
+d) A salvaguardarles en todo momento la protección de los Derechos Humanos, que por su condición de personas en desarrollo, son reconocidos por la Constitución General de la República, por los Tratados Internacionales ratificados por el Estado mexicano, por la Constitución del Estado y las leyes que el Congreso del Estado emita. Para ello, el Estado establecerá un Sistema Integral de Justicia, que será aplicable a los adolescentes que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las Leyes Penales.
+
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2007)</small>
 
-d).- A salvaguardarles en todo momento la protección de los derechos y garantías fundamentales, que por su condición de personas en desarrollo son reconocidos por la Constitución General de la República, por los tratados internacionales ratificados por el Estado mexicano, por la Constitución del Estado y las leyes que el Congreso del Estado emita. Para ello, el estado establecerá un Sistema Integral de Justicia que será aplicable a los adolescentes que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales.
-
 La conducción y operación del Sistema estará a cargo de instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para adolescentes. Dicho Sistema deberá considerar formas alternativas de justicia que cumplan con las garantías del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión, de las que impongan las medidas y de las que ejecuten la medida impuesta, para ello, el Congreso del Estado emitirá el ordenamiento legal de la materia, a fin de establecer las formas y autoridades responsables de su ejercicio.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2007)</small>
 
 El sistema integral de justicia en el Estado de Morelos, garantizará la orientación, protección y tratamiento integral del adolescente, toda vez que su condición de personas en desarrollo es factor de interés superior para la aplicación en todos los procedimientos instaurados y con ello, reconocerles los valores universales de solidaridad, humanismo e integración social.
 
@@ -364,13 +378,19 @@ El sistema integral de justicia en el Estado de Morelos, garantizará la orienta
 
 Las personas menores de doce años que hayan realizado una conducta prevista como delito en la Ley, solo serán sujetos a rehabilitación y asistencia social. Las medidas impuestas a los adolescentes de doce años cumplidos y menores de dieciocho, estarán dotadas de contenido educativo, sin perder de vista la orientación, protección y tratamiento, aspectos que deberán estar claramente determinados en calidad y cantidad técnica multidisciplinaría. Será improcedente y contrario a derecho el que se habilite una medida que exceda el criterio de proporcionalidad por el acto cometido, toda vez que el propósito fundamental es el de atender a la protección integral y el interés superior del adolescente, incorporando al contenido educativo la prevención del delito.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2007)</small>
+
 Estas medidas tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará como medida extrema y por el menor tiempo que proceda y podrá aplicarse únicamente a los adolescente (sic) mayores de catorce años y menores de dieciocho, por la comisión de las conductas antisociales calificadas como graves.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2011)</small>
 
 e).- A vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso, o explotación, en condiciones de libertad, integridad y dignidad; por lo que para su protección las leyes que se expidan y las medidas que se tomen en todo momento deberán aplicar el principio del interés superior del menor. Los ascendientes, tutores y custodios tienen la obligación de preservar y hacer cumplir estos derechos y principios.
 
-El Estado garantizará a las niñas/niños/adolescentes, que se encuentren en situación vulnerable y que pongan en riesgo su vida, libertad, integridad y dignidad, su cuidado y protección a través del adecuado funcionamiento de instituciones y establecimientos públicos o privados que estén dedicados a ese fin.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
+
+El Estado garantizará a las niñas/niños/adolescentes, que se encuentren en situación vulnerable y que pongan en riesgo su vida, libertad, integridad, dignidad y Derechos Humanos y sus Garantías, su cuidado y protección a través del adecuado funcionamiento de instituciones y establecimientos públicos o privados que estén dedicados a ese fin.
 
 (REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
@@ -664,13 +684,25 @@ Los ciudadanos que sean designados como integrantes del Instituto a que se refie
 
 Se crea el organismo público autónomo denominado Comisión de Derechos Humanos del Estado de Morelos, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público estatal, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Contará con personalidad jurídica, patrimonio propios (sic), autonomía de gestión y presupuestaria.
 
-Este órgano formulará recomendaciones públicas, autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales, laborales y jurisdiccionales, ni de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y de la legislación reglamentaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Comisión de Derechos Humanos del Estado de Morelos, se integra por un Presidente, que será la máxima autoridad del organismo, y un Consejo Consultivo, integrado por seis consejeros con carácter honorífico y el Presidente, quienes no podrán desempeñar ningún cargo o comisión como servidores públicos. Serán electos por el voto aprobatorio de las dos terceras partes de los miembros del Congreso y durarán en su cargo tres años.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
+
+Este órgano formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente este Organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Pleno del Congreso del Estado o en sus recesos la Diputación Permanente, según corresponda, podrán llamar, a solicitud de este Organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos Órganos Legislativos, a efecto de que expliquen el motivo de su negativa. No será competente tratándose de asuntos electorales y jurisdiccionales, ni de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y de la legislación reglamentaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
+
+La Comisión de Derechos Humanos del Estado de Morelos, se integra por un Presidente, que será la máxima autoridad del Organismo, y un Consejo Consultivo, integrado por seis Consejeros con carácter honorífico y el Presidente, quienes no podrán desempeñar ningún cargo o comisión como servidores públicos. Serán electos por el voto aprobatorio de las dos terceras partes de los miembros del Congreso y durarán en su cargo tres años; el Presidente sólo podrá ser removido de sus funciones en los términos del Título Séptimo de esta Constitución.
 
 El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, lo será también del Consejo Consultivo, deberá contar con título y cédula profesional a nivel de licenciatura, expedido por la autoridad competente, y reunir los demás requisitos que prevea esta Constitución y la ley secundaria; será elegido y durará en su cargo en la forma y términos que para los consejeros se establece en el párrafo anterior, y podrá ser reelecto por una sola vez. Presentará anualmente su informe de actividades ante el Congreso del Estado, en los términos que prevea la ley.
 
-El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, y los integrantes del Consejo Consultivo, además de los requisitos que prevé este ordenamiento y la ley secundaria que se expida para su designación, deberán gozar de reconocido prestigio en la sociedad y haberse destacado por su interés en la promoción, difusión y defensa de los derechos humanos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
+
+El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, y los integrantes del Consejo Consultivo, además de los requisitos que prevé este ordenamiento y la ley reglamentaria, deberán gozar de reconocido prestigio en la sociedad y haberse destacado por su interés en la promoción, difusión y defensa de los Derechos Humanos. La elección del Titular de la Presidencia de la Comisión de Derechos Humanos del Estado, así como de los integrantes del Consejo Consultivo, se hará previa Convocatoria Pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
 
 ## TITULO TERCERO.
 
@@ -901,6 +933,12 @@ I.- (DEROGADA, P.O. 13 DE OCTUBRE DE 1993)
 II.- Expedir, aclarar, reformar, derogar o abrogar las leyes, decretos y acuerdos para el Gobierno y Administración interior del Estado.
 
 III.- Iniciar ante el Congreso de la Unión las leyes que estime convenientes, así como la reforma o derogación de las leyes Federales existentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+III Bis.- Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de Derechos Humanos.
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1274,15 +1312,19 @@ IV.- A los Ayuntamientos.
 
 V.- A los ciudadanos morelenses de conformidad con el artículo 19 bis de esta constitución.
 
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+VI.- A la Comisión de Derechos Humanos del Estado de Morelos, en asuntos relacionados con los Derechos Humanos.
+
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2013)</small>
 
 El Gobernador del Estado podrá presentar dos iniciativas preferentes el día de la apertura de cada período ordinario de sesiones o solicitar con este carácter dos que hubiera presentado en períodos anteriores que no tengan dictamen, cada iniciativa debe ser discutida y votada por el Pleno del Congreso en un plazo máximo de 40 días naturales. No tendrán carácter de preferentes las iniciativas de presupuesto, fiscal, electoral y reformas a la Constitución del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
 
 ###### Artículo 43.
 
-Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superior de Justicia, por los Ayuntamientos o las signadas por uno o más diputados y por los ciudadanos, pasarán desde luego a la comisión respectiva del Congreso.
+Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superior de Justicia, por los Ayuntamientos o las signadas por uno o más Diputados, por los ciudadanos y la Comisión de Derechos Humanos del Estado de Morelos, pasarán desde luego a la Comisión respectiva del Congreso.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1540,11 +1582,13 @@ En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la p
 
 DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 70.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
 
-Son facultades del Gobernador del Estado:
+###### ARTÍCULO 70.
+
+Son facultades del Gobernador:
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1591,6 +1635,12 @@ XI.- Conceder licencia a los funcionarios y empleados cuyo nombramiento y remoci
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 XII.- Excitar a los Poderes de la Unión para que presten protección al Estado, conforme al artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+XII Bis. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de Derechos Humanos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1838,29 +1888,49 @@ Los servidores públicos a que alude este precepto, así como aquellos que del m
 
 DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1322, PUBLICADO EN EL P.O. 30 DE ABRIL DE 2014, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
 
 ###### Artículo 79-A.
 
-El ejercicio de las funciones del Ministerio Público se realizará por medio de la Fiscalía General del Estado de Morelos, la que estará dotada de autonomía de gestión, técnica y de ejercicio y aplicación del gasto público que le asigne el Congreso del Estado en el presupuesto anual correspondiente. Su Titular será el Fiscal General del Estado.
+El Ministerio Público tiene las atribuciones fundamentales siguientes:
 
-En el Decreto del Presupuesto de Egresos del Gobierno del Estado, la asignación de recursos destinados a la Fiscalía General del Estado nunca será menor a la que le haya correspondido en el Ejercicio Fiscal del año anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Ministerio Público, además de las atribuciones que la Constitución Política de los Estados Unidos Mexicanos le confiere, tendrá las siguientes:
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
 
-I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a los Derechos Humanos en todos los asuntos en que intervenga;
+I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a los Derechos Humanos en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
 II.- Interponer los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita;
 
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
 III.- Investigar y perseguir ante los tribunales del orden común los delitos, en términos de lo dispuesto por las normas penales, tanto del fuero común como cuando se produzca la competencia concurrente en el ámbito federal;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
 IV.- Como participante de los Sistemas De Seguridad Pública, establecer la coordinación necesaria con las Policías Preventivas, Estatales y Municipales, para las acciones de investigación y persecución de los delitos, para una efectiva Seguridad Pública, diseñando y aplicando los protocolos pertinentes;
 
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+
 V.- Atender, en sus términos, la legislación relativa a la atención de víctimas de delitos y de violaciones de Derechos Humanos, incorporando estrategias, políticas y modelos de profesionalización de los recursos humanos que tenga asignados;
 
-VI.- Intervenir en los procedimientos judiciales en que tenga competencia, atendiendo las reglas del debido proceso y, en su caso, en los asuntos judiciales que interesen a la sociedad y a las personas a quienes la ley conceda especial protección, en la forma y términos que la misma determine;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+VI.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a los menores que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los Derechos Humanos y sus Garantías que reconoce la Constitución de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
 VII.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a quienes tengan entre doce años cumplidos y menos de dieciocho años de edad y se les atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
 VIII.- Ejercer las demás atribuciones que le encomienden las leyes.
 
@@ -2024,15 +2094,25 @@ El fenómeno de conurbación interestatal se presenta cuando dos o más centros 
 
 El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centros urbanos formen o tiendan a formar una unidad demográfica, económica y social entre dos o más Municipios del Estado.
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO VI.
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 30 DE ABRIL DE 2014)</small>
 
-DE LA PROTECCION DE LOS DERECHOS HUMANOS.
+### CAPITULO VI. DE LA PROTECCION DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2014)</small>
 
 ###### Artículo 85-C.
 
-(DEROGADO, P.O. 21 DE FEBRERO DE 2007)
+La protección de los Derechos Humanos y sus garantías, así como la educación, difusión y promoción de una cultura de conocimiento y respeto de los mismos, son políticas prioritarias en el Estado de Morelos. En consecuencia, todas las autoridades y servidores públicos, Estatales o Municipales, particulares y organizaciones de la sociedad civil, en el ámbito de sus respectivas responsabilidades, estarán obligados a promover, respetar, proteger, realizar y reparar los derechos humanos.
+
+La interpretación de todas las normas que contengan Derechos Humanos y sus garantías, se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+Cuando se presenten dos o más interpretaciones posibles de alguna norma de derechos humanos y sus garantías, se deberá preferir aquella que proteja con mayor eficacia a los titulares del derecho en cuestión o bien aquella que amplíe la esfera jurídicamente protegida por el mismo derecho.
+
+Ninguna Ley, Reglamento o cualquier otra norma, ya sea de carácter Estatal o Municipal, puede ser interpretada en el sentido de permitir, suprimir, limitar, excluir o coartar el goce y ejercicio de los derechos humanos, se debe optar por el sentido más favorable a la persona y atendiendo a su progresividad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -3134,9 +3214,13 @@ III.- Las adiciones y reformas hechas a la Constitución Política de los Estado
 
 El Congreso del Estado hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
+
 ###### Artículo 149.
 
-En caso de invasión o perturbación grave de la paz o del orden público, el Ejecutivo, con aprobación del Congreso, y en los recesos de éste, con la de la Diputación Permanente, podrá suspender, por un tiempo limitado y por medio de prevenciones generales, los efectos de la presente Constitución, con excepción de las garantías contenidas en la Constitución Política de los Estados Unidos Mexicanos, y sin que la suspensión pueda contraerse a determinado individuo. En estos casos, toca al Congreso del Estado otorgar al Ejecutivo las facultades extraordinarias de que se habla en el artículo 40, fracción IX, de esta Constitución.
+En caso de invasión o perturbación grave de la paz o del orden público, el Ejecutivo, con aprobación del Congreso, y en los recesos de éste, con la de la Diputación Permanente, podrá suspender, por un tiempo limitado y por medio de prevenciones generales, los efectos de la presente Constitución, con excepción de los Derechos Humanos, contenidas en la Constitución Política de los Estados Unidos Mexicanos, y sin que la suspensión pueda contraerse a determinado individuo. En estos casos, toca al Congreso del Estado otorgar al Ejecutivo las facultades extraordinarias de que se habla en el artículo 40, fracción IX, de esta Constitución.
 
 ###### Artículo 150.
 
@@ -4425,3 +4509,33 @@ El Procurador General de Justicia que se encuentre en funciones al momento de ex
 ###### ARTÍCULO CUARTO.
 
 A partir de la entrada en vigor de las reformas a que se refiere el Transitorio Segundo, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General del Estado que el propio Decreto establece, respetándose los derechos de los Servidores Públicos de la institución, en términos de la normativa que resulte aplicable a cada caso.
+
+P.O. 30 DE ABRIL DE 2014.
+
+DECRETO NÚMERO MIL TRESCIENTOS VEINTIDÓS POR EL QUE SE MODIFICA EL TÍTULO DE LOS CAPÍTULOS PRIMERO Y SEXTO; SE SUSTITUYE LA EXPRESIÓN GARANTÍAS INDIVIDUALES Y SOCIALES POR EL DE DERECHOS HUMANOS EN LOS SIGUIENTES ARTÍCULOS 2, PÁRRAFO PRIMERO; 2-BIS, FRACCIÓN IX; 19, PÁRRAFO PRIMERO Y FRACCIÓN II, INCISOS D) Y E), Y 79-A, PÁRRAFO PRIMERO, Y FRACCIONES I Y IV, Y 149, Y SE ADICIONA EL ARTÍCULO 85-C, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en los dispuesto por los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inicio su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas y adiciones se tienen como parte de esta Constitución.
+
+P.O. 30 DE ABRIL DE 2014.
+
+DECRETO NÚMERO MIL TRESCIENTOS VEINTITRÉS POR EL QUE SE REFORMA EL ARTÍCULO 23-B Y SE ADICIONAN LAS FRACCIONES III BIS AL ARTÍCULO 40 Y LA XII BIS AL ARTÍCULO 70, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en los dispuesto por los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inicio su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas y adiciones se tienen como parte de esta Constitución.
+
+TERCERO.- El Poder Ejecutivo y los Ayuntamientos del Estado, tendrán sesenta días naturales, a partir de la entrada en vigor del presente decreto, para adecuar o implementar la reglamentación correspondiente y llevar a cabo las acciones necesarias derivadas de la presente reforma; informando al Congreso del Estado del cumplimiento dado al presente, dentro de los diez días hábiles posteriores al término mencionado con anterioridad.
+
+P.O. 30 DE ABRIL DE 2014.
+
+DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA LA FRACCIÓN VI, AL ARTÍCULO 42 Y SE REFORMA EL ARTICULO 43, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en los (sic) dispuesto por los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Artículo Segundo.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inicio su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas y adiciones se tienen como parte de esta Constitución.
