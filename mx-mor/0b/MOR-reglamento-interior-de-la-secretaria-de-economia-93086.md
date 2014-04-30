@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-economia-93086"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-13"
-last_updated: "2014-03-12"
+last_updated: "2014-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ABRIL DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE ABRIL DE 2014.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de marzo de 2013.
 
@@ -521,53 +521,49 @@ IX. Elaborar y proponer estrategias que promuevan los negocios en los mercados n
 
 X. Participar y organizar reuniones con el sector público y privado para la promoción de las exportaciones así como colaborar en la solución de su problemática cuando sean de interés de la Secretaría;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XI. Promover la oferta y demanda de la micro, pequeña y mediana empresa morelense a nivel nacional e internacional; así como la organización y participación en las reuniones de trabajo de eventos en materia de comercio exterior;
+XI. Impulsar el desarrollo de programas que contribuyan a mejorar la comercialización de los bienes y servicios de la agroindustria y de las empresas morelenses;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XII. Impulsar el desarrollo de programas que contribuyan a mejorar la comercialización de los bienes y servicios de la agroindustria y de las empresas morelenses;
+XII. Atender y desarrollar la industria penitenciaria con apoyo de las demás Secretarías, Dependencias y Entidades de la Administración Pública Estatal con facultades para ello, a través de esquemas de producción asociación y comercialización que beneficien a los empresarios participantes y a los internos como trabajadores de la industria penitenciaria;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XIII. Atender y desarrollar la industria penitenciaria con apoyo de las demás Secretarías, Dependencias y Entidades de la Administración Pública Estatal con facultades para ello, a través de esquemas de producción asociación y comercialización, que beneficien a los empresarios participantes y a los internos, como trabajadores de la industria penitenciaria;
+XIII. Promover la oferta y demanda de la micro, pequeña y mediana empresa morelense a nivel nacional e internacional; así como la organización y participación en las reuniones de trabajo de eventos en materia de comercio exterior;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XIV. Promover la oferta y demanda de la micro, pequeña y mediana empresa morelense a nivel nacional e internacional; así como la organización y participación en las reuniones de trabajo de eventos en materia de comercio exterior;
+XIV. “(sic) Evaluar a personas físicas y morales del ramo agroindustrial, mediante la aplicación de herramientas de diagnóstico a fin de conocer su estado actual;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XV. Evaluar a personas físicas y morales del ramo agroindustrial, mediante la aplicación de herramientas de diagnóstico a fin de conocer su estado actual;
+XV. Difundir los programas gubernamentales Federales, Estatales y Municipales, dirigidos al fomento de agroindustrias, comercializadoras y empresas que prestan servicios y vincular estas con las instituciones que los generen;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XVI. Difundir los programas gubernamentales federales, estatales y municipales, dirigidos al fomento de agroindustrias, comercializadoras y empresas que prestan servicios y vincular estas con las instituciones que los generen;
+XVI. Promover, en el ámbito de sus facultades y en coordinación con la Secretaría de Desarrollo Agropecuario, la realización y promoción de Ferias, Exposiciones, Seminarios y Congresos afines a las actividades desarrolladas en la Agroindustria Morelense, a nivel Regional, Estatal, Nacional e Internacional;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XVII. Promover, en el ámbito de sus facultades y en coordinación con la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal, la realización y promoción de ferias, exposiciones, seminarios y congresos afines a las actividades desarrolladas en la agroindustria morelense, a nivel regional, estatal, nacional e internacional;
+XVII. Implementar y difundir programas de apoyo en materia de comercio interior y exterior, con la finalidad de impulsar la actividad productiva y exportadora del Estado relacionada a los (sic) agroindustria;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XVIII. Implementar y difundir programas de apoyo en materia de comercio interior y exterior, con la finalidad de impulsar la actividad productiva y exportadora del Estado relacionada a la agroindustria;
+XVIII. Elaborar, difundir y mantener permanentemente actualizado el catálogo de empresas del sector agroindustrial y de empresas que brinden productos o servicios relacionados al mismo;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XIX. Elaborar, difundir y mantener permanentemente actualizado el catálogo de empresas del sector agroindustrial y de empresas que brinden productos o servicios relacionados al mismo;
+XIX. Organizar, coordinar y participar en las reuniones de trabajo y logística de los eventos de entrega de premios y reconocimientos en materia de comercio agroindustrial;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XX. Organizar, coordinar y participar en las reuniones de trabajo y logística de los eventos de entrega de premios y reconocimientos en materia de comercio agroindustrial;
+XX. Participar y organizar reuniones en coordinación con el sector público y privado vinculadas con agronegocios y agroindustrias, para la promoción de las exportaciones, así como laborar en la solución de su problemática cuando sean de interés de la Secretaría, y
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+(REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XXI. Participar y organizar reuniones en coordinación con el sector público y privado, vinculadas con agronegocios y agroindustrias, para la promoción de las exportaciones, así como laborar en la solución de su problemática, cuando sean de interés de la Secretaría, y
-
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
-
-XXII. Promover la oferta y demanda de las agroindustrias morelenses a nivel nacional e internacional.
+XXI. Promover la oferta y demanda de las agroindustrias morelenses a nivel nacional e internacional.
 
 ###### Artículo 20.
 
