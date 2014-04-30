@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-53776
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-31"
-last_updated: "2006-12-31"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DEL ESTADO DE BAJA CALIFORNIA SUR -- ANTES LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DEL ESTADO DE BAJA CALIFORNIA SUR--
 
-LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 31 de diciembre de 2006.
 
@@ -51,9 +51,13 @@ Las disposiciones de esta Ley son de orden público, de interés social, obligat
 
 Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas, minorías, grupos o colectividades sean reales y efectivas, así como eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan su pleno desarrollo así como su efectiva participación en la vida política, económica, cultural y social del Estado, además de promover la participación tanto de los Ayuntamientos como de los particulares en la eliminación de dichos obstáculos.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+
 ###### Artículo 3.
 
-Todo servidor público y entidad de los poderes públicos, sean estatales o municipales, adoptarán las medidas que estén a su alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se hayan asignado para tal fin en el Plan Estatal de Desarrollo y en los Municipales para que toda persona, minoría o grupo ejerza y goce, sin discriminación alguna, de todos los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que México sea parte, en la Constitución Política del Estado, y en las demás leyes.
+Todo servidor público de las dependencias y entidades de los poderes públicos y municipios, adoptarán las medidas que estén a su alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se hayan asignado en los presupuestos de egresos, planes y programas que correspondan para tal fin, para que toda persona, minoría o grupo ejerza y goce, sin discriminación alguna, de todos los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que México sea parte, en la Constitución Política del Estado Libre y Soberano de Baja California Sur, y en las demás leyes.
+
+Deberán eliminarse aquellos obstáculos que limiten la ejecución y les impidan el pleno desarrollo de esos derechos, así como su efectiva participación en la vida política, económica, cultural y social del país.
 
 ###### Artículo 4.
 
@@ -61,41 +65,81 @@ Para los efectos de esta Ley se entenderá por:
 
 I.- LEY.- La presente Ley Estatal para prevenir y Eliminar la Discriminación en Baja California Sur;
 
-II.- DISCRIMINACIÓN.- Es la distinción, exclusión, rechazo o restricción que, por acción u omisión, con intención o sin ella, y sin motivo o causa que sea racionalmente justificable, produzca el efecto de privar de un bien, de anular, menoscabar o impedir, tanto los derechos o libertades, como la igualdad real de oportunidades y de trato, de las personas, de minorías, grupos o colectividades, sea por motivo de su origen étnico, nacionalidad, raza, sexo, edad, discapacidad, condición social o económica, de salud, embarazo, lengua, religión, opiniones, identidad o filiación política, preferencias sexuales, identidad de género, estado civil o cualquiera otro.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-También se entenderá como discriminación la xenofobia y el antisemitismo en cualquiera de sus manifestaciones.
+II.- DISCRIMINACIÓN.- Todo acto u omisión realizada por particulares, servidores públicos de los poderes Ejecutivo, Legislativo y Judicial; ayuntamientos, organismos autónomos o cualquier entidad de los poderes públicos estatales o municipales que generen negación, distinción, exclusión, rechazo, menoscabo, impedimento o restricción de los derechos o libertades, como la igualdad real de oportunidades y de trato de las personas, minorías o grupos o colectividades con intención o sin ella, y sin motivo o causa que sea racionalmente justificable, sea por motivo de su origen étnico, nacionalidad o el lugar de origen, color, raza, edad, discapacidad, condición social o económica, de salud, embarazo, lengua, religión, opiniones, identidad o filiación política, preferencias sexuales, género, estado civil o cualquier otro que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales y la igualdad real de oportunidades entre las personas.
 
-III.- MINORÍA.- Conjunto de individuos de una sociedad determinada por distinguirse de alguna manera a la que forman la categoría social predominante.
+También se entenderá como discriminación la xenofobia y el antisemitismo, en cualquiera de sus manifestaciones;
 
-IV.- GRUPO.- Organización de personas unidas en especial interrelación, caracterizado con rasgos o particularidades comunes a sus componentes.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-V.- COLECTIVIDAD.- Grupo social constituido por personas que comparten unos mismos intereses o ideas.
+III.- MINORÍA.- Conjunto de individuos de una sociedad determinada por distinguirse de alguna manera a la que forman la categoría social predominante;
 
-VI.- GENERO.- Es el conjunto de ideas, creencias, representaciones y atribuciones sociales conferidos al hombre y a la mujer en cada cultura, tomando como base la diferencia sexual.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-VII.- IDENTIDAD DE GENERO.- Es la forma como cada persona se percibe y, por tanto, se da a sí misma, como consecuencia de asumir la convicción y autodefinición de pertenecer a un género determinado, en relación con las construcciones sociales de masculinidad o feminidad.
+IV.- GRUPO EN SITUACIÓN DE DISCRIMINACIÓN.- Se consideran grupos en situación de discriminación: las niñas, niños, adolescentes, jóvenes, mujeres, personas que viven con VIH-SIDA, con discapacidad, con problemas de salud físico, mental, psicomotriz, orientación sexual, personas adultas mayores, privadas de su libertad, en situación de calle, migrantes, situación de pobreza, población indígena y aquellos que sufren algún tipo de discriminación incluso como consecuencia de las transformaciones sociales, culturales y económicas;
 
-VIII.- ORIENTACIÓN SEXUAL.- Es la atracción afectiva y/o erótica que siente una persona hacia personas del sexo opuesto, del mismo sexo, o de ambos sexos.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-IX.- CONSEJO.- El Consejo Estatal para Prevenir y Eliminar la Discriminación.
+V.- COLECTIVIDAD.- Grupo social constituido por personas que comparten los mismos intereses o ideas;
 
-X.- SERVIDORES PÚBLICOS.- Se consideran a los representantes de elección popular, a los miembros del poder Judicial y a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, en la administración pública estatal o municipal.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-XI.- PERSONAS ADULTAS MAYORES.- Aquéllas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado de Baja California Sur.
+VI.- GÉNERO.- Es el conjunto de ideas, creencias, representaciones y atribuciones sociales conferidos al hombre y a la mujer en cada cultura, tomando como base la diferencia sexual;
 
-XII.- GERONTOLOGÍA.- Servicio otorgado por personas dedicadas al estudio del envejecimiento desde una perspectiva biopsicosocial; y
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-XIII.- DISCAPACIDAD.- A cualquier restricción o impedimento para realizar toda actividad, ocasionada por una deficiencia motora o psicológica dentro del ámbito considerado como normal del ser humano.
+VII.- IDENTIDAD DE GÉNERO.- Es la forma como cada persona se percibe y, por tanto, se da a sí misma, como consecuencia de asumir la convicción y autodefinición de pertenecer a un género determinado, en relación con las construcciones sociales de masculinidad o feminidad;
 
-XIV.- PERSONA CON DISCAPACIDAD.- Todo ser humano cuyas posibilidades de integración educativa, laboral o social se hallen disminuidas o limitadas como consecuencia previsiblemente permanente, de carácter congénito o no, en sus capacidades físicas, psíquicas o sensoriales y toda persona con capacidad limitada para realizar las actividades necesarias para su normal desempeño y desarrollo físico, mental, ocupacional y económico, como consecuencia de una insuficiencia patológica, somática, sensorial o psicológica.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-XV.- VÍA PÚBLICA.- Los espacios terrestres de uso común destinados al tránsito de peatones y vehículos de fuerza motriz, propulsión humana o tracción animal.
+VIII.- ORIENTACIÓN SEXUAL.- Es la atracción afectiva y/o erótica que siente una persona hacia personas del sexo opuesto, del mismo sexo, o de ambos sexos;
 
-XVI.- LUGARES DE ACCESO AL PUBLICO.- Los inmuebles del dominio público o propiedad particular que por razón de su naturaleza, y de acuerdo a las actividades que en ellos se realizan, permiten el libre tránsito de las personas o de vehículos.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IX.- CONSEJO.- El Consejo Estatal para Prevenir y Eliminar la Discriminación;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+X.- SERVIDORES PÚBLICOS.- Se consideran a los representantes de elección popular, a los miembros del Poder Judicial y a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, en la administración pública estatal o municipal;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XI.- PERSONAS ADULTAS MAYORES.- Aquéllas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XII.- GERONTOLOGÍA.- Servicio otorgado por personas dedicadas al estudio del envejecimiento desde una perspectiva biopsicosocial;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XIII.- DISCAPACIDAD.- A cualquier restricción o impedimento para realizar toda actividad, ocasionada por una deficiencia física, mental, intelectual o sensorial dentro del ámbito considerado como normal del ser humano;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XIV.- PERSONA CON DISCAPACIDAD.- Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XV.- VÍA PÚBLICA.- Los espacios terrestres de uso común destinados al tránsito de peatones y vehículos de fuerza motriz, propulsión humana o tracción animal;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XVI.- LUGARES DE ACCESO AL PÚBLICO.- Los inmuebles del dominio público o propiedad particular que por razón de su naturaleza, y de acuerdo a las actividades que en ellos se realizan, permiten el libre tránsito de las personas o de vehículos;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XVII.- PERSONA EN SITUACIÓN DE CALLE.- Todo ser humano quién sin contar con un espacio que puede ser caracterizado como vivienda, aunque el mismo sea precario; se halle pernoctando en lugares públicos o privados; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XVIII.- PERSONA QUE VIVE CON VIH-SIDA.- Aquella que ha contraído el virus de inmunodeficiencia humana y aquella que ha desarrollado la sintomatología que aparece cuando el sistema inmunológico se merma significativamente y se presentan ciertos signos o síntomas que en conjunto se denominan Síndrome de Inmunodeficiencia Adquirida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### Artículo 5.
 
-Quedan prohibida toda práctica discriminatoria, sea por acción u omisión, con intención o sin ella, y sin motivo o causa que sea racionalmente justificable, que tenga por objeto o produzca el efecto de privar de un bien, de anular, menoscabar o impedir tanto los derechos fundamentales, como la igualdad real de oportunidades y de trato, de las personas, minorías, grupos o colectividades, por los motivos a que se refiere el artículo 4 de esta ley.
+Queda prohibida toda práctica discriminatoria, sea por acción u omisión, con intención o sin ella, y sin motivo o causa que sea racionalmente justificable, que tenga por objeto o produzca el efecto de privar de un bien, de anular, menoscabar o impedir tanto los derechos fundamentales, como la igualdad real de oportunidades y de trato, de las personas, minorías, grupos o colectividades, por los motivos señalados en la fracción II del Artículo 4 de esta ley.
 
 Se consideran conductas discriminatorias:
 
@@ -159,13 +203,19 @@ XXIX. Excluir a las personas internas en centros de readaptación social de los 
 
 XXX. En general cualquier otra conducta discriminatoria en términos del artículo 4 fracción II de esta Ley.
 
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+Se considera discriminatoria toda ley o acto que, siendo de aplicación igual para todas las personas, produzca consecuencias perjudiciales para las personas o grupos en situación de vulnerabilidad.
+
 ###### Artículo 6.
 
 No se considerarán conductas discriminatorias las siguientes:
 
 I. Las acciones legislativas, educativas o de políticas públicas positivas o compensatorias que sin afectar derechos de terceros establezcan tratos diferenciados con el objeto de promover la igualdad real de oportunidades;
 
-II. Las distinciones académicas que faculten a las personas para desempeñar una actividad determinada;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+II. Las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada o un empleo.
 
 III. La distinción establecida por las instituciones públicas de seguridad social entre sus asegurados y la población en general;
 
@@ -313,9 +363,13 @@ Los órganos públicos y toda autoridad estatal y municipal adoptarán las medid
 
 ### CAPÍTULO IV. DEL CONSEJO ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+
 ###### Artículo 17.
 
-Se crea el Consejo Estatal para Prevenir y Eliminar la Discriminación, como un organismo descentralizado, con personalidad jurídica y patrimonio propio, con autonomía técnica, para dictar las resoluciones que en términos de esta Ley se emitan en los procedimientos de reclamación y queja.
+Se crea el Consejo Estatal para Prevenir y Eliminar la Discriminación, como un organismo descentralizado, con personalidad jurídica y patrimonio propio y como órgano plural de consulta, asesoría, vinculación y evaluación entre gobierno y sociedad, que tiene como función promover y vigilar el respeto al derecho humano a la no discriminación, en beneficio de toda persona que se encuentre en el Estado de Baja California Sur.
+
+Contará con autonomía técnica, para dictar las resoluciones que en términos de esta Ley se emitan en los procedimientos de reclamación y queja.
 
 ###### Artículo 18.
 
@@ -341,15 +395,31 @@ II. Siete representantes de Asociaciones Civiles Organizadas cuyos objetivos sea
 
 Por cada una de las personas representantes mencionadas, se nombrará una persona que supla a estos en caso de ser necesario.
 
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### Artículo 18 Bis.
+
+El cargo de miembro del Consejo, será honorario.
+
 ###### Artículo 19.
 
 El Consejo tiene como objeto:
 
-I. Contribuir al desarrollo cultural, social y democrático del Estado;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-II. Llevar a cabo las acciones conducentes para prevenir y eliminar la discriminación; y
+I. Contribuir al desarrollo cultural, social y democrático del Estado en materia del derecho humano a la no discriminación;
 
-III. Formular y promover políticas públicas para la igualdad de oportunidades y de trato a favor de las personas que se encuentren en territorio del Estado.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+II. Llevar a cabo las acciones conducentes para prevenir y eliminar la discriminación;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+III. Formular y promover políticas públicas para la igualdad de oportunidades y de trato a favor de las personas que se encuentren en territorio del Estado; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IV. Coordinar las acciones de las dependencias y entidades del Estado y municipios en materia de prevención y eliminación de la discriminación.
 
 ###### Artículo 20.
 
@@ -357,7 +427,9 @@ Son atribuciones del Consejo Estatal para la Prevenir y Eliminar la Discriminaci
 
 I. En materia de prevención:
 
-a) Promover políticas públicas para la igualdad de oportunidades y de trato a favor de los habitantes del territorio del Estado;
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+a) Asesorar al gobernador y subsidiariamente a los ayuntamientos para la implementación de políticas públicas, proyectos y programas para prevenir y eliminar la discriminación en el Estado.
 
 b) Diseñar estrategias e instrumentos para Llevar a cabo acciones encaminadas a prevenir y eliminar la discriminación en el sector público y el privado;
 
@@ -383,9 +455,17 @@ l) Participar en las reuniones nacionales en materia de prevención y eliminaci�
 
 m) Promover la suscripción de convenios, celebración de acuerdos, de bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales o internacionales en el ámbito de su competencia;
 
-n) Designar una persona representante en cada municipio, para enlace, difusión y atención a la ciudadanía; y
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
 
-ñ) Las demás establecidas en esta ley y demás disposiciones aplicables.
+n) Designar una persona representante en cada municipio, para enlace, difusión y atención a la ciudadanía;
+
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+ñ) Expedir reconocimientos a las instituciones y organizaciones que se distingan por la instrumentación de medidas antidiscriminatorias y a favor de la igualdad de oportunidades en el Estado de Baja California Sur; y
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+o) Las demás, establecidas en esta ley y en otras disposiciones legales aplicables.
 
 II. En materia de reclamaciones y quejas:
 
@@ -421,13 +501,21 @@ IV. Por los fondos que obtenga por el financiamiento de programas específicos; 
 
 V. Las aportaciones que por donación y legados reciba de personas físicas o jurídicas.
 
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### Artículo 21 Bis.
+
+El Consejo difundirá periódicamente los avances, resultados e impactos de las políticas, programas, proyectos y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.
+
 #### SECCIÓN PRIMERA. FUNCIONAMIENTO DEL CONSEJO
 
 ###### Artículo 22.
 
 El Consejo sesionará válidamente cuando se encuentren presentes más de la mitad de las personas que la integran, y en su primera sesión mediante voto secreto, nombrará a su Presidente.
 
-Los acuerdos y resoluciones se adoptarán por mayoría de de votos, y en caso de empate, quien presida tendrá voto de calidad.
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+Los acuerdos y resoluciones se adoptarán por mayoría de votos y en caso de empate, quien presida tendrá voto de calidad.
 
 Las sesiones serán ordinarias y extraordinarias; las ordinarias se llevarán a cabo por lo menos cada tres meses, y las extraordinarias se celebrarán cuando lo convoque la Presidencia, por sí o a petición de dos de los consejeros.
 
@@ -451,7 +539,9 @@ I. Planear, organizar, coordinar y dirigir el funcionamiento del Consejo, con su
 
 II. Presentar a la consideración del Pleno del Consejo el proyecto del Programa Estatal para Prevenir y Eliminar la Discriminación;
 
-III. Someter a la consideración del Consejo el informe anual de actividades y el relacionado con el ejercicio presupuestal;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+III. Someter a la consideración del Consejo la aprobación de su Reglamento, así como el informe anual de actividades y el relacionado con el ejercicio presupuestal;
 
 IV. Ejercer la representación legal del Consejo, así como delegarla cuando no exista prohibición expresa para ello;
 
@@ -469,9 +559,17 @@ I.- Ejecutar los acuerdos y demás disposiciones emitidas por el Consejo, así c
 
 II.- Enviar al Poder Legislativo un informe anual de actividades y de su ejercicio presupuestal;
 
-III.- Citar a los Consejeros de conformidad con los acuerdos del Pleno del Consejo y organizar las Sesiones; y
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-IV.- Las demás que le confieran éste u otros ordenamientos.
+III.- Citar a los consejeros de conformidad con los acuerdos del Pleno del Consejo y organizar las sesiones;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IV.- Elaborar el Reglamento del Consejo, que incluya la normatividad necesaria para la organización y funcionamiento del mismo; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+V.- Las demás que le confieran éste u otros ordenamientos.
 
 ### CAPÍTULO V. DE LOS PROCEDIMIENTOS
 
@@ -728,3 +826,13 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 30 DE ABRIL DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Una vez instalado el Consejo Estatal contra la Discriminación, en el término de 30 días a partir de la fecha, deberá aprobarse el Reglamento Interno que lo regule y deberá ser publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+TERCERO.- A partir de la fecha en que entre en vigor este decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
