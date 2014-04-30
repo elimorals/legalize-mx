@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2013-08-20"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -43,45 +43,49 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJ
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 1°.
 
-Esta Ley es de orden público, de interés social y tiene por objeto garantizar a las mujeres en el Estado de Baja California Sur, su derecho a vivir libres de violencia en los ámbitos: familiar, laboral, docente, en la comunidad y en las instituciones, mediante las siguientes acciones:
+La presente ley tiene por objeto establecer la coordinación entre la Federación, el Estado y los Municipios para prevenir, sancionar y erradicar la violencia contra las mujeres, así como los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia, el desarrollo integral y sustentable que fortalezca la soberanía y el régimen democrático establecido en la Constitución Política del Estado de Baja California Sur.
 
-I.- Establecer bases de coordinación y cooperación entre las autoridades estatales y municipales, su coadyuvancia con las federales, así como con los organismos privados, para cumplir con el objeto de esta Ley;
+Las disposiciones de esta ley son de orden público, interés social y de observancia general en el Estado de Baja California Sur.
 
-II.- Establecer las bases para la prevención, atención, sanción y erradicación de la violencia contra las mujeres de cualquier edad en el ámbito público o privado;
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
-III.- Establecer las bases para diseñar el contenido de las políticas públicas, programas y acciones destinadas a erradicar la violencia de género y coadyuvar en la rehabilitación y reinserción social de los agresores de mujeres;
+###### ARTÍCULO 1° Bis.
 
-IV.- Garantizar que el sector público y privado apliquen, las medidas tendientes a erradicar la violencia contra las mujeres y les otorguen apoyos extraordinarios para garantizar su acceso a un (sic) vida libre de violencia y discriminación;
+El Gobierno Estatal y los Gobiernos Municipales en el ámbito de sus respectivas competencias tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con la Ley general en la materia y con los Tratados Internacionales en materia de Derechos Humanos de las Mujeres, ratificados por el Estado Mexicano.
 
-V.- Garantizar el derecho a la educación con perspectiva de género, libre de prejuicios, sin patrones estereotipados de comportamiento basados en conceptos de inferioridad o subordinación;
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
-VI.- La concientización y sensibilización a la comunidad con el propósito de prevenir y erradicar todas las formas de violencia contra las mujeres;
+###### ARTÍCULO 1° Ter.
 
-VII.- Responsabilizar, conforme a los ordenamientos legales aplicables, a los integrantes del Sector Salud, para que proporcionen un trato digno y atención integral a las victimas de violencia;
+Todas las medidas que se deriven de la presente ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
 
-VIII.- Responsabilizar mediante sanciones administrativas, a los servidores públicos estatales y municipales que obstaculicen la debida atención a las mujeres violentadas;
-
-IX.- El Estado y los Municipios establecerán en sus respectivos planes de desarrollo las políticas públicas encaminadas a la prevención y erradicación de la violencia contra las mujeres, en el marco de las atribuciones que les otorga esta Ley;
-
-X.- Promover el acceso oportuno y eficaz de las mujeres a medidas de protección y procedimientos legales que salvaguarden los derechos protegidos por esta Ley;
-
-XI.- Las demás que establezca esta Ley, sus reglamentos y demás disposiciones legales aplicables a la materia.
+> <small>(REFORMADO PÁRRAFO PRIMERO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 2°.
 
-A fin de garantizar el derecho de las mujeres a una vida libre de violencia, en concordancia con los tratados internacionales ratificados por el Estado Mexicano y las disposiciones legales en la materia, las normas, políticas y medidas presupuestales y administrativas que generen los Poderes Legislativo, Ejecutivo y Judicial, así como los Municipios del Estado deberán sujetarse a los siguientes principios rectores:
+Los principios rectores para el acceso de todas las mujeres a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas del Estado de Baja California Sur son:
 
-I. Igualdad jurídica y equidad entre mujeres y hombres;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-II. Respeto a la dignidad humana;
+I. La igualdad jurídica entre la mujer y el hombre;
 
-III. La no discriminación de género;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-IV. Libertad y autonomía de las mujeres;
+II. El respeto a la dignidad humana de las mujeres;
 
-V. Pleno desarrollo y progreso de las mujeres.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+III. La no discriminación de género; y
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IV. Libertad y autonomía de las mujeres.
+
+V. (DEROGADA, B.O. 30 DE ABRIL DE 2014)
 
 ###### ARTÍCULO 3°.
 
@@ -157,19 +161,61 @@ VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de da
 
 Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 5° Bis.
+
+Los modelos de atención, prevención y sanción que establezcan el Estado y los municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos, para ello deberán tomar en consideración:
+
+I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su plena rehabilitación y reparen el daño causado por dicha violencia;
+
+II. Brindar servicios integrales de orientación, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una reeducación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
+
+III. Evitar que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+IV. Evitar procedimientos de mediación o conciliación, por considerarse no equitativo en la víctima;
+
+V. Analizar y proponer en su caso la separación y alejamiento del agresor con respecto a la víctima, y
+
+VI. Garantizar la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 5° Ter.
+
+Con el objeto de contribuir a la erradicación de la violencia contra las mujeres en el ámbito familiar, las instancias facultadas para hacerlo, promoverán ante el Poder Legislativo en la esfera de su competencia, que considere:
+
+I. Tipificar el delito de violencia familiar y sus equiparaciones conducentes, que incluya como elementos del tipo los contenidos en la definición prevista en el artículo 5 de esta ley;
+
+II. Establecer la violencia familiar como causal de divorcio, de pérdida de la patria potestad y de restricción para el régimen de visitas, así como el impedimento para la guarda y custodia de niñas y niños;
+
+III. Disponer que cuando la pérdida de la patria potestad sea por causa de violencia familiar y/o incumplimiento de obligaciones alimentarias o de crianza, no podrá recuperarse la misma;
+
+IV. Incluir como parte de la sentencia, la condena al agresor a participar en servicios reeducativos integrales, especializados y gratuitos para modificar su conducta violenta.
+
 #### SECCIÓN SEGUNDA. VIOLENCIA LABORAL Y DOCENTE
+
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 6°.
 
-Ejerce Violencia Laboral y Docente:
+Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
 
-I.- Las personas que teniendo un vínculo laboral, docente o análogo con la mujer afectada, independientemente de la relación jerárquica, realiza un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de ésta impide su desarrollo y atenta contra la igualdad. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño e incluye el acoso y el hostigamiento sexual.
+Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
 
-El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la mujer frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
-El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la persona afectada, independientemente de que se realice en uno o varios eventos.
+###### ARTÍCULO 6° Bis.
 
-II.- Quien de forma ilegal se niega contratar a la mujer o respetar su permanencia o condiciones generales de trabajo; o descalifica su trabajo realizado, amenaza, intimida, humilla, explota o discrimina por su condición de género.
+Constituye violencia laboral: La negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 6° Ter.
+
+El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+
+El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 ###### ARTÍCULO 7°.
 
@@ -192,6 +238,20 @@ VII. Implementar sanciones administrativas para los superiores jerárquicos del 
 ###### ARTÍCULO 8°.
 
 Constituyen violencia docente aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestras o maestros.
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 8° Bis.
+
+El Estado y los Municipios, en función de sus atribuciones, tomarán en consideración:
+
+I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
+
+II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostigan y acosan;
+
+III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos, y
+
+IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores.
 
 #### SECCIÓN TERCERA. VIOLENCIA INSTITUCIONAL
 
@@ -291,11 +351,15 @@ Las órdenes de protección de emergencia y preventivas tendrán una temporalida
 
 Son órdenes de protección de emergencia las siguientes:
 
-l. Auxilio inmediato a favor de la víctima por parte de las corporaciones policiacas, con autorización expresa de ingreso al lugar donde se localice o se encuentre la mujer en el momento de solicitar el auxilio;
+I. Auxilio inmediato a favor de la víctima por parte de las corporaciones policiacas, con autorización expresa de ingreso al lugar donde se localice o se encuentre la mujer en el momento de solicitar el auxilio;
 
-II. Desocupación por el agresor del domicilio conyugal o donde habite la afectada independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-III. Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la mujer en riesgo;
+II. Desocupación inmediata por el agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+III. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
 IV. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad; y
 
@@ -359,17 +423,19 @@ Las personas mayores de 12 años de edad podrán solicitar a las autoridades com
 
 ### CAPÍTULO PRIMERO. INTEGRACIÓN
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
-El Sistema Estatal se crea para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, como una conjunción de esfuerzos del Estado y Municipios de Baja California Sur, para lograr la efectiva aplicación de esta Ley, mediante políticas públicas, servicios y acciones interinstitucionales.
+El Estado y los Municipios, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-Así mismo será objetivo del Sistema Estatal la vigilancia de la correcta aplicación de la Ley de Prevención y Atención Integral de la Violencia Familiar.
+Todas las medidas que lleve a cabo el Sistema deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 26.
 
-El Sistema Estatal estará presidido por quien ejerza la titularidad del Poder Ejecutivo, así como por las personas titulares de las siguientes dependencias:
+El Sistema Estatal estará presidido por quien ejerza la titularidad del Poder Ejecutivo, quien tendrá el cargo de presidente honorario, así como las personas titulares de las siguientes dependencias:
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
@@ -383,9 +449,9 @@ II.- Secretaría de Salud
 
 III.- Secretaría de Educación Pública
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-IV.- Secretaría de Seguridad Pública
+IV.- Secretaría General de Gobierno, quien fungirá como presidente ejecutivo.
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
@@ -407,9 +473,9 @@ XI.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
 
 XII.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
 
-> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
 
-De igual forma, por quienes ostenten la titularidad de las direcciones del Instituto Sudcaliforniano de la Mujer y del Sistema Estatal para el Desarrollo Integral de la Familia;
+De igual forma, por quien ostente la titularidad de la dirección del Instituto Sudcaliforniano de la Mujer, quien será la secretaria ejecutiva del sistema, así como por quien ejerza la titularidad del Sistema Estatal para el Desarrollo Integral de la Familia;
 
 > <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
 
@@ -422,6 +488,12 @@ La sociedad civil organizada tendrá cinco representantes que trabajen en materi
 > <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
 
 Los titulares de los organismos municipales encargados de la protección de los derechos de las mujeres también formarán parte del Sistema Estatal.
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 26 Bis.
+
+La Secretaría Ejecutiva del Sistema elaborará el proyecto de Reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES
 
@@ -437,7 +509,9 @@ El Poder Ejecutivo del Estado, tendrá las siguientes obligaciones:
 
 I. Tomar las medidas y realizar las acciones necesarias, en coordinación con las demás autoridades del sistema estatal para garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencia;
 
-II. Formular y conducir la política estatal transversalizando la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, incluyendo en el Plan Estatal de Desarrollo los programas correspondientes;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+II. Instrumentar y articular sus políticas públicas en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
 III. Vigilar el pleno cumplimiento de la presente ley así como de los instrumentos internacionales aplicables;
 
@@ -465,9 +539,49 @@ XIV. Difundir por todos los medios de comunicación el contenido de esta Ley, en
 
 XV. Realizar un diagnóstico estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres que lleven a cabo las dependencias y entidades de la administración pública estatal y municipal;
 
-XVI. Incluir en el Presupuestos de Egresos del Estado, la asignación de recursos económicos suficientes para el cabal cumplimiento de esta Ley; y
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-XVII. Las demás que la presente ley y demás ordenamientos legales le confiera.
+XVI. Proveer de los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran los sistemas locales a los programas estatales y el Programa;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XVII. Fortalecer e impulsar la creación de las instituciones públicas y privadas que presten atención a las víctimas;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XVIII. Impulsar programas locales para el adelanto y desarrollo de las mujeres y mejorar su calidad de vida;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XIX. Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XX. Impulsar programas reeducativos integrales de los agresores;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXI. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXII. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXIII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXIV. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXVI. Las demás que la presente ley y demás ordenamientos legales le confiera.
 
 #### SECCIÓN TERCERA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
@@ -481,7 +595,9 @@ II. Erradicar del personal de salud cualquier prejuicio que evite el ejercicio d
 
 III. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria la atención médica y psicológica con perspectiva de género a las mujeres afectadas;
 
-IV. Crear programas de capacitación y sensibilización para el personal del sector salud en materia de violencia contra las mujeres y especialmente para la detección de este tipo de actos contra las mismas;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IV. Crear programas de capacitación y sensibilización para el personal del sector salud en materia de violencia contra las mujeres y se garanticen la atención a las víctimas y la aplicación de las normas oficiales mexicanas vigentes en la materia;
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 2013)</small>
 
@@ -529,17 +645,49 @@ XVI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 Corresponde a la Procuraduría General de Justicia del Estado, a través de la Subprocuraduría de Atención a la Mujer y al Menor, las siguientes obligaciones:
 
-I. Ordenar la capacitación y actualización correspondiente, en materia de derechos humanos de las mujeres, con perspectiva de género, de los agentes del ministerio público, médicos legistas, actuarios, agentes ministeriales y en general todo personal que esté relacionado con la atención de la violencia en contra de las mujeres.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-II. Proporcionar a las mujeres afectadas de violencia la orientación y asesoría para su eficaz atención y protección;
+I. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y homicidio agravado por feminicidio;
+
+c) Incorporación de la perspectiva de género en los servicios periciales;
+
+d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+II. Proporcionar a las mujeres afectadas de violencia la orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley Orgánica del Ministerio Publico, su reglamento y demás ordenamientos aplicables;
 
 III. Brindar atención para salvaguardad (sic) la integridad física de las mujeres en su caso de quiénes denuncien cualquier tipo de violencia en su contra
 
-IV. Invocar y respetar los principios establecidos en el marco nacional e internacional de los derechos humanos de las mujeres de acuerdo con el objeto de esta ley; y
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IV. Invocar y respetar los principios establecidos en el marco nacional e internacional de los derechos humanos de las mujeres de acuerdo con el objeto de esta ley;
 
 V. Promover las órdenes de protección que correspondan a favor de las mujeres.
 
-#### SECCIÓN QUINTA. SECRETARÍA DE SEGURIDAD PÚBLICA
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+VI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+VII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, homicidio agravado por feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IX. Las demás previstas para el cumplimiento de la presente ley.
+
+#### SECCIÓN QUINTA. SECRETARÍA GENERAL DE GOBIERNO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 31.
 
@@ -547,7 +695,9 @@ Corresponde a la Secretaría de Educación Pública:
 
 I. Instaurar en las políticas educativas, los principios rectores a que se refiere el artículo 2° de esta Ley.
 
-II. Realizar programas educativos, en todos los niveles de escolaridad, a fin de fomentar la cultura de una vida libre de violencia hacia las mujeres, así como el respeto a su dignidad;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad; así como la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre; responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo de sus hijas e hijos;
 
 III. Promover que las escuelas formadoras de docentes, de todos los niveles educativos incluyan, de manera vertical y horizontal, en sus planes y programas de estudios la asignatura de perspectiva de género;
 
@@ -563,13 +713,15 @@ VIII. Celebrar convenios de coordinación y concertación en la materia; y
 
 IX. Las demás que disponga esta ley y demás ordenamientos de la materia.
 
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE ABRIL DE 2014)</small>
+
 #### SECCIÓN SEXTA. DE LA SECRETARÍA DE PROMOCIÓN Y DESARROLLO ECONÓMICO
 
 > <small>(F. DE E., B.O. 20 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 32.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Corresponde a la Secretaría General de Gobierno:
 
 I. Diseñar con visión transversal, la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
 
@@ -577,7 +729,9 @@ II. Capacitar en los términos de la presente ley, al personal de las diferentes
 
 III. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
-IV. Establecer acciones y medidas que se deberán tomar para la reeducación e (sic) reinserción social de las personas;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IV. Establecer acciones y medidas que se deberán tomar para la reeducación social del agresor;
 
 V. Integrar el banco estatal de datos e información acerca de casos de violencia contra las mujeres;
 
@@ -585,9 +739,17 @@ VI. Ejecutar y dar seguimiento a las acciones del programa que le correspondan;
 
 VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del sistema estatal y del programa;
 
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-IX. Las demás previstas para el cumplimiento de la presente ley.
+VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IX. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse en forma permanente; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+X. Las demás previstas para el cumplimiento de la presente ley.
 
 #### SECCIÓN SÉPTIMA. DEL SISTEMA PARA EL DESARROLLO DE LA FAMILIA DEL ESTADO Y MUNICIPIOS
 
@@ -671,9 +833,13 @@ I.- Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su titul
 
 II.- Ejecutar los acuerdos aprobados por los integrantes del Sistema Estatal;
 
-III.- Organizar y mantener actualizado el Banco Estatal de Datos e Información sobre los casos de violencia contra las mujeres en el que se integren, además las investigaciones realizadas por los sectores público, social y privado sobre las causas, características y consecuencias de la violencia, las medidas de prevención, atención, sanción y erradicación adoptadas en esta materia y la evaluación de las mismas, así como la información que generen las instituciones encargadas de promover los Derechos Humanos y la no discriminación en relación a la violencia contra mujeres;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-IV.- Proporcionar a las dependencias públicas y privadas los lineamientos e indicadores sobre los que se deba registrar la información relacionada con la violencia contra mujeres;
+III.- Organizar y mantener actualizado el Banco Estatal de Datos e Información sobre los casos de violencia contra las mujeres, por Municipios;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IV.- Solicitar a las dependencias de la Administración Pública Estatal y Municipal la información estadística correspondiente;
 
 V.- Proponer a los integrantes del Sistema, los programas, las medidas y las acciones permanentes y/o extraordinarias para su aprobación, con la finalidad de atender, prevenir, sancionar y erradicar la violencia contra las mujeres;
 
@@ -681,7 +847,9 @@ VI.- Promover una cultura de respeto a los derechos humanos de la mujer y exigir
 
 VII.- Promover y coadyuvar en la creación de refugios para la atención de mujeres violentadas, conforme al modelo de atención diseñado por el Sistema Nacional; así como centros de rehabilitación para agresores;
 
-VIII.- Participar con las instituciones del Sistema, en el diseño y evaluación del modelo de refugios, promoviendo al personal especializado.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+VIII.- Colaborar con las instituciones del Sistema, en el diseño y evaluación del modelo de refugios;
 
 IX.- Impulsar la creación de unidades de atención y protección a las mujeres afectadas por violencia, atendido por personal especializado, en los términos de la presente Ley;
 
@@ -691,49 +859,85 @@ XI.- Promover la capacitación con perspectiva de género a las diferentes insta
 
 XII.- Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, con respeto a los derechos humanos y sin prejuicios o discriminación alguna;
 
-XIII.- Canalizar a las mujeres violentadas a las instituciones que les presten atención médica, psicológica, jurídica y protección, junto con sus hijas e hijos. En caso necesario remitir a las afectadas y a sus familiares a un refugio, en los términos de los capítulos IV y V de esta Ley y demás normas legales aplicables;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XIII.- Canalizar a las mujeres violentadas a las instituciones para que les otorguen atención médica, psicológica, jurídica y protección, junto con sus hijas e hijos. En caso necesario remitir a las afectadas y a sus hijos a un refugio en los términos de esta ley;
 
 XIV.- Coadyuvar con las instituciones privadas dedicadas a prestar asistencia y protección a las mujeres afectadas de violencia;
 
-XV.- Realizar investigaciones especializadas sobre las causas, características y consecuencias de la violencia contra las mujeres en cada uno de los Municipios del Estado. Publicar los resultados para implementar el debate social y valorar las medidas para su erradicación.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XV.- Integrar las investigaciones promovidas por las dependencias de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación y la información derivada de cada una de las instituciones encargadas de promover los derechos fundamentales de las mujeres en el Estado y Municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia; sirviendo además en la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 XVI.- Establecer una línea de atención telefónica que sirva de medio de información y canalización para atender a las mujeres en materia de violencia;
 
 XVII.- Promover la cultura de denuncia de la violencia contra las mujeres;
 
-XVIII.- Promover el respeto de los derechos consagrados en el artículo 18 de esta Ley;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XVIII.- Representar al Estado ante el sistema nacional;
 
 XIX.- Coadyuvar en la promoción del conocimiento de los derechos, de los procesos y los mecanismos para acceder a la atención, prevención y erradicación de la violencia contra las mujeres;
 
 XX.- Rendir un informe anual sobre los avances de los programas estatal y municipales sobre los avances de los programas estatales y municipales relativos a la atención, prevención y erradicación de la violencia contra las mujeres;
 
-XXI.- Revisar y evaluar la eficacia de los programas estatales y municipales para la eliminación de la violencia hacia las mujeres;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXI.- Revisar y evaluar la eficacia de los programas estatales y municipales de prevención, atención, sanción y erradicación de la violencia hacia las mujeres;
 
 XXII.- Promover en las dependencias públicas la creación de procedimientos internos especializados para que las víctimas de violencia institucional puedan denunciar a sus agresores, con independencia de cualquier otro procedimiento jurídico que la víctima decida o no iniciar; y
 
-XXIII.- La (sic) demás que establezca esta Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-#### SECCIÓN DÉCIMO SEGUNDA. DE LA DIRECCIÓN DE TRABAJO Y PREVISIÓN SOCIAL
+XXIII.- Orientar y asesorar a los integrantes del Sistema Estatal en la elaboración y ejecución del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXIV.- Impulsar la armonización de las leyes en materia de los derechos fundamentales de las mujeres;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXV.- Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XXVI.- Las demás que establezca esta ley y otros ordenamientos aplicables.
+
+#### SECCIÓN DÉCIMO SEGUNDA. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 38.
 
 Les corresponde a los Municipios de Baja California Sur:
 
-I. Diseñar y aplicar las políticas públicas orientadas a la prevención, atención, sanción y erradicación de la violencia en contra de las mujeres;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-II. Participar en la integración y eficaz funcionamiento del sistema estatal;
+I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
 
-III. Promover la capacitación con perspectiva de género de los funcionarios, personal policiaco y administrativo, en especial aquellas personas que atienden a las mujeres víctimas de violencia;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+II. Coadyuvar con el Gobierno Estatal y la Federación, en la adopción y consolidación del Sistema;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+III. Promover en coordinación con el Gobierno Estatal la capacitación con perspectiva de género de los funcionarios, personal policiaco y administrativo, en especial aquellas personas que atienden a las mujeres víctimas de violencia;
 
 IV. Cuidar que dentro de sus corporaciones policíacas se prepare personal femenino, con enfoque de equidad, para la atención de mujeres privadas de su libertad;
 
-V. Celebrar convenios con el Gobierno del Estado, con otros municipios o con instituciones educativas públicas y privadas para lograr los objetivos de la presente ley;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-VI. Dar amplia difusión, de la cultura de no violencia hacia las mujeres en todas sus dependencias y hacia la comunidad urbana y rural;
+V. Celebrar convenios de cooperación, coordinación y concertación en la materia, con el Gobierno del Estado, con otros municipios o con instituciones educativas y privadas para lograr los objetivos de la presente ley;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+VI. Llevar a cabo, de acuerdo con el sistema, una amplia difusión con programas de información a la población respecto de la cultura de no violencia contra las mujeres, con extensión al área rural;
 
 VII. Implementar programas de prevención a efecto de que en las oficinas de Registro Civil, se informe a quiénes pretendan contraer matrimonio, acerca del concepto de la violencia y sus modalidades, así como las sanciones que se aplican por dichas conductas; de una cultura desde la perspectiva de género y la no violencia hacia las mujeres;
 
-VIII. Apoyar la instalación de refugios para mujeres víctimas de violencia;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+VIII. Apoyar la instalación de refugios seguros para mujeres víctimas de violencia;
 
 IX. Sancionar reglamentariamente la violencia de género, siempre y cuando no se trate de conductas consideradas como delito;
 
@@ -741,15 +945,29 @@ X. Adecuar su normatividad a la presente Ley; y
 
 XI. Coordinarse con las instituciones educativas y de salud para la aplicación de esta Ley.
 
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XII. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE ABRIL DE 2014)</small>
+
 #### SECCIÓN DÉCIMO TERCERA. DE LA SOCIEDAD CIVIL ORGANIZADA
 
 ###### ARTÍCULO 39.
 
-Corresponde a la Dirección de Trabajo y Previsión Social:
+Corresponde a la Secretaría del Trabajo y Previsión Social:
 
-I. Establecer las políticas públicas transversales y con perspectiva de género que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
-II. Vigilar el respeto de los derechos laborales de las mujeres tanto en el ámbito público como privado, estableciendo las relaciones para eliminar la discriminación de las mujeres por razones de género para el acceso y permanencia en el trabajo;
+I. Establecer las políticas públicas transversales y con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+II. Vigilar el respeto de los derechos laborales de las mujeres y hombres propiciando la igualdad de oportunidades y la no discriminación de mujeres y hombres en materia de trabajo y previsión social;
 
 III. Establecer mecanismos para erradicar el hostigamiento y el acoso sexual a las mujeres en los centros laborales;
 
@@ -757,7 +975,29 @@ IV. Denunciar ante la Contraloría General, a los servidores públicos que resul
 
 V. Implementar proyectos especiales para proteger los derechos .laborales de mujeres indígenas y campesinas víctimas de violencia; y
 
-VI. Celebrar convenios de colaboración con instancias gubernamentales y no gubernamentales para prevenir la violencia en contra de las mujeres.
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+VI. Celebrar convenios de cooperación, coordinación y concertación con instancias gubernamentales y no gubernamentales en la materia;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+VII. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+VIII. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+
+X. Las demás previstas para el cumplimento de la presente ley.
+
+#### SECCIÓN DÉCIMO CUARTA. DE LA SECRETARÍA GENERAL DE GOBIERNO
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 40.
 
@@ -769,11 +1009,79 @@ II. Dar su opinión sobre proyectos de reformas a las ya existentes; y
 
 III. Vigilar el cumplimiento de la presente Ley y denunciar en su caso las violaciones a la misma y las omisiones que se den por parte de los servidores públicos.
 
-### CAPÍTULO PRIMERO. ATENCIÓN A AFECTADAS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 40 Bis.
+
+Corresponde a la Secretaría General de Gobierno:
+
+I. Diseñar la política integral estatal con perspectiva de género para garantizar la cultura del respeto a los derechos humanos de las mujeres y la igualdad entre hombres y mujeres;
+
+II. Coadyuvar en la formulación de las bases jurídicas para la coordinación entre las autoridades federales, locales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+III. Coordinar y dar seguimiento a las acciones del gobierno estatal y municipal en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
+
+IV. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+
+V. Participar en la elaboración del Programa en coordinación con las demás autoridades integrantes del Sistema y ejecutar y dar seguimiento a las acciones del Programa, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
+
+VI. Participar en los trabajos de promoción y defensa de los derechos fundamentales de las mujeres que lleven a cabo las Dependencias y Entidades de la Administración Pública Estatal;
+
+VII. Vigilar y promover directrices para que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad y el respeto hacia las mujeres;
+
+VIII. Sancionar conforme a la ley a los medios de comunicación que no cumplan con lo estipulado en la fracción anterior;
+
+IX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+X. Las demás previstas para el cumplimiento de la presente ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 30 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO TERCERO. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 40 Ter.
+
+El Programa contendrá las acciones con perspectiva de género para:
+
+I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
+
+II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten (sic), fomentan y toleran la violencia contra las mujeres;
+
+III. Educar y capacitar en materia de derechos humanos al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
+
+IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
+
+V. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
+
+VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
+
+VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
+
+VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
+
+IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+
+X. Publicar periódicamente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco de Datos e Información sobre Casos de Violencia contra las Mujeres;
+
+XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
+
+XII. Promover la cultura de denuncia de la violencia contra las mujeres en el ámbito de competencia de las dependencias y entidades de la administración pública para garantizar su seguridad y su integridad; y
+
+XIII. Diseñar un modelo integral de atención a los derechos fundamentales de las mujeres que deberán instrumentar las dependencias, entidades y las instituciones públicas y privadas y los refugios encargados de la atención de las mujeres víctimas de violencia; y
+
+XIV. Fomentar la armonización legislativa para erradicar la discriminación y violencia de género.
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 40 Quáter.
+
+El titular del Ejecutivo Estatal propondrá en el Proyecto de Presupuesto de Egresos del Estado asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente ley.
 
 ## TÍTULO QUINTO. DE LA ATENCIÓN A MUJERES AFECTADAS Y LOS REFUGIOS
 
-### CAPÍTULO SEGUNDO. DE LOS REFUGIOS
+### CAPÍTULO PRIMERO. ATENCIÓN A AFECTADAS
 
 ###### ARTÍCULO 41.
 
@@ -801,6 +1109,22 @@ X. A que permanezcan en secreto sus datos personales al ser atendidas por cualqu
 
 XI. Las demás señaladas en esta Ley, su reglamento y otras disposiciones legales.
 
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+###### ARTÍCULO 41 Bis.
+
+Las autoridades en el ámbito de sus respectivas competencias deberán prestar atención a las víctimas, consistente en:
+
+I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+
+II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, así como de atención y de servicio, tanto públicas como privadas;
+
+III. Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita;
+
+IV. Proporcionar un refugio seguro a las víctimas; y
+
+V. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos.
+
 ###### ARTÍCULO 42.
 
 Es obligación de cualquier autoridad, atender de manera inmediata, cualquier petición de diversa autoridad o particular, los casos de violencia en contra de mujeres con discapacidad, de la tercera edad o menores.
@@ -812,6 +1136,8 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### ARTÍCULO 44.
 
 La persona agresora deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+
+### CAPÍTULO SEGUNDO. DE LOS REFUGIOS
 
 ###### ARTÍCULO 45.
 
@@ -863,7 +1189,13 @@ VIII. Capacitación para que puedan adquirir conocimientos para el desempeño de
 
 IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
 
-## TÍTULO SEXTO. APLICACIÓN DE SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE ABRIL DE 2014)</small>
+
+## TÍTULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+
+### CAPÍTULO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### ARTÍCULO 49.
 
@@ -934,3 +1266,11 @@ B.O. 10 DE JULIO DE 2013.
 B.O. 20 DE AGOSTO DE 2013.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE ABRIL DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La reestructuración de la conformación del Sistema Estatal, se integrará a los 30 días siguientes a la entrada en vigor del presente decreto.
+
+TERCERO.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
