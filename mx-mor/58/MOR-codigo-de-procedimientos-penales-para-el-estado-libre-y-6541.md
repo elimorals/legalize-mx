@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-para-el-estado-libre-y-6541"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2007-11-22"
+last_updated: "2014-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DE CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO ENTRE 2008 Y 2010.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DE CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LA MEDIDA EN QUE LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO QUEDEN AGOTADOS Y SUS DISPOSICIONES SE APLICARÁN A HECHOS QUE OCURRAN A PARTIR DE LAS CERO HORAS DEL DÍA 30 DE OCTUBRE DEL 2008, EN EL PRIMER DISTRITO JUDICIAL; A PARTIR DE LAS CERO HORAS DEL 1 DE JUNIO DEL 2009 EN EL SEXTO DISTRITO JUDICIAL CON SEDE EN CUAUTLA Y EN EL QUINTO DISTRITO JUDICIAL CON SEDE EN YAUTEPEC, MORELOS, Y A PARTIR DE LAS CERO HORAS DEL DÍA 1 DE FEBRERO DEL 2010, EN EL CUARTO DISTRITO JUDICIAL CON SEDE EN JOJUTLA, EN EL SEGUNDO DISTRITO JUDICIAL CON SEDE EN TETECALA, EN EL TERCER DISTRITO JUDICIAL CON SEDE EN PUENTE DE IXTLA Y EN EL SÉPTIMO DISTRITO JUDICIAL CON SEDE EN JONACATEPEC.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2014 (ABROGADO).
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1731,7 +1731,9 @@ Si el juez estima fundada la impugnación, sustituirá la resolución impugnada,
 
 Son apelables por ambas partes:
 
-I. Las sentencias, salvo las dictadas en los casos en que la ley dispone que se aplique una sanción no privativa de libertad o alternativa, o autorice la sustitución de la privativa de libertad, cuando el juzgador hubiese resuelto favorablemente dicha sustitución;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+I. Las sentencias definitivas;
 
 II. Las resoluciones cuyo efecto sea el sobreseimiento, con excepción de los casos en que no sea apelable la sentencia;
 
@@ -2397,7 +2399,7 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 
 Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-P.O. DE 22 DE NOVIEMBRE DE 2007.
+P.O. 22 DE NOVIEMBRE DE 2007.
 
 Artículo Primero. Inicio de Vigencia. El presente Código iniciará su vigencia con las modalidades y en las fechas que se precisan en el artículo siguiente.
 
@@ -2418,3 +2420,13 @@ Artículo Sexto. Prohibición de Acumulación de Procesos. No procederá la acum
 Artículo Séptimo. Eficacia Retroactiva. Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse en el curso del procedimiento regido por el Código anterior las disposiciones del presente Ordenamiento que se refieran: A) indemnización al imputado, B) aplicación de los criterios (sic) oportunidad en el ejercicio de la acción penal, salvo la que aluda a casos de delincuencia organizada, C) imposición de medidas cautelares personales, D) acuerdos reparatorios y suspensión del proceso a prueba E) procedimiento abreviado, F) pueblos o comunidades indígenas, G) procedimiento para inimputables y H) recurso de revisión.
 
 Artículo Octavo. Facultades del Tribunal Superior de Justicia. Para instrumentar la aplicación del presente Código, se autoriza al Pleno del Tribunal Superior de Justicia del Estado y o Consejo de la Judicatura del Poder Judicial Estatal, para que tome la medidas necesarias sobre: traslado de funcionarios, designación de jueces de garantía, integración de tribunales de juicio oral y salas de casación, redistribución de competencias territoriales, asignación del despacho de rezagos y creación de órganos que resulten pertinentes.
+
+P.O. 30 DE ABRIL DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
