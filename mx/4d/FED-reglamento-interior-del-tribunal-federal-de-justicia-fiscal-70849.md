@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2014-04-15"
+last_updated: "2014-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 15 DE ABRIL DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -1067,7 +1065,9 @@ IV. Llevar a cabo las demás tareas jurisdiccionales y administrativas que les e
 
 V. Las demás que les confieran otras disposiciones jurídicas aplicables.
 
-### Capítulo VII. Del Control del Acervo Documental y del Sistema Automático de Recepción
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE ABRIL DE 2014)</small>
+
+### Capítulo VII. Del Control del Acervo Documental
 
 ###### Artículo 37.
 
@@ -1117,53 +1117,19 @@ III. Registrar en el Sistema de Control y Seguimiento de Juicios o en el Sistema
 
 Se recibirán promociones en las Oficialías de Partes durante los días que determine el calendario oficial en el horario de 8:30 a 24:00 horas.
 
-La recepción de promociones a través del Sistema Automático de Recepción de Oficialías de Partes a que se refiere el artículo 40 del presente Reglamento es opcional y podrán presentarse de las 15:31 a las 24:00 horas.
-
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE ABRIL DE 2014)</small>
 
 ###### Artículo 40.
 
-El registro y control de las promociones que las partes presenten por sí o por conducto de su autorizado en términos del artículo anterior, se efectuará a través del Sistema Automático de Recepción de Oficialías de Partes, de acuerdo a lo siguiente:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2013)</small>
-
-I. Los promoventes obtendrán de los dispositivos del Sistema Automático de Recepción de Oficialías de Partes que se encuentren en las sedes de las Salas Regionales, dos boletos iguales, uno en formato de etiquetas adherible y otro en un formato en papel simple, que tendrán el carácter de recibo provisional. Ambos boletos contendrán el logo del Tribunal, la fecha, hora, número consecutivo y campos en blanco en los que el promovente asentará el nombre de quien promueve, el tipo de promoción y en su caso el número de expediente;
-
-II. Una vez que el promovente complete autógrafamente los campos en blanco de los boletos de referencia, añadirá la etiqueta adherible al sobre cerrado que contenga la promoción en cuestión. Posteriormente depositará dicho sobre en el buzón del dispositivo mencionado en la fracción anterior, conservando el formato en papel para ser canjeado por el acuse de recibo definitivo y así confirmar la presentación de la referida promoción;
-
-III. Al día hábil siguiente del depósito, el promovente, por sí o a través de su autorizado, deberá presentar al personal encargado de la Oficialía de Partes, el boleto de recibo provisional expedido por el Sistema Automático de referencia, quien en presencia del interesado abrirá el sobre respectivo, sacará la promoción, la sellará con la fecha del día de su depósito y le dará el trámite que corresponda, entregando al interesado el acuse de recibo definitivo con la fecha que obre en el acuse de recibo provisional;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2013)</small>
-
-IV. En caso de no presentarse el promovente o autorizado a canjear el boleto y confirmar el depósito de las promociones, el personal encargado de la Oficialía de Partes identificará los sobres depositados en el buzón del Sistema Automático de Recepción de Oficialías de Partes y procederá a estampar el sello en el que precisará la fecha y hora del depósito del sobre y la siguiente leyenda: “Promoción presentada a través del Sistema Automático de Recepción de Oficialías de Partes, no confirmada”. Hecho lo anterior, agregará a la promoción el sobre que contenga la etiqueta adherible y turnará la promoción a la Sala y Ponencia respectiva, para que el Secretario de Acuerdos realice una certificación en la que hará constar la descripción de los documentos exhibidos, los anexos que en su caso se acompañen, las fojas que contiene cada uno de ellos, y en general los datos que estime pertinentes para la mejor identificación de los documentos presentados, con lo cual estará en posibilidad de elaborar el proyecto de acuerdo que corresponda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-V. (DEROGADA, D.O.F. 25 DE JUNIO DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2013)</small>
-
-VI. Los responsables de la Oficialía de Partes que se encuentren a cargo en el primer y segundo turno, deberán cerciorarse de que el Sistema Automático de Recepción de Oficialías de Partes esté funcionando correctamente y en caso de percibir cualquier falla, deberán comunicarlo de inmediato a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2013)</small>
-
-En caso de falla en el funcionamiento del Sistema Automático de Recepción de Oficialías de Partes, el personal de la Oficialía de Partes deberá recibir las promociones mediante el procedimiento ordinario.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2014)
 
 ###### Artículo 41.
 
-El Sistema Automático de Recepción deberá contar con los mecanismos de seguridad necesarios para preservar la seguridad y confidencialidad de las promociones que se presenten.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2014)
 
 ###### Artículo 42.
 
-La modificación, alteración, destrucción o daño al Sistema Automático de Recepción, incluida la manipulación de los datos que genere, será motivo de responsabilidad civil, penal o administrativa, según corresponda, de conformidad con las disposiciones jurídicas aplicables.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2014)
 
 ###### Artículo 43.
 
@@ -1809,7 +1775,9 @@ V. Evaluar los requerimientos del Tribunal en materia de TICs, así como el cump
 
 VI. Revisar y determinar las acciones relacionadas con la administración de riesgos en el ámbito de TICs e implementar indicadores de gestión y medidas para asegurar el cumplimiento del Programa Institucional en TICs;
 
-VII. Vigilar la operación y funcionalidad del Sistema de Justicia en Línea, del Sistema de Control y Seguimiento de Juicios y, del Sistema Automático de Recepción de Oficialías de Partes;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2014)</small>
+
+VII. Vigilar la operación y funcionalidad del Sistema de Justicia en Línea, así como del Sistema de Control y Seguimiento de Juicios.
 
 VIII. Supervisar la ejecución de los programas de capacitación en TICs;
 
@@ -2894,3 +2862,15 @@ SEGUNDO.- Publíquese en el Diario Oficial de la Federación.
 TERCERO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en este ordenamiento.
 
 CUARTO.- Los asuntos que a la entrada en vigor de este Acuerdo deban pasar de una unidad administrativa de la Contraloría Interna a otra u otras, continuarán su trámite y serán resueltas por aquella o aquellas unidades a las que se les haya atribuido la competencia en el presente ordenamiento.
+
+D.O.F. 30 DE ABRIL DE 2014.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan sin efecto las disposiciones emitidas por la Junta de Gobierno y Administración, por el Pleno Jurisdiccional o por la propia Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa que se opongan a los términos del presente Acuerdo.
+
+TERCERO.- Las promociones presentadas conforme al Sistema Automático de Recepción de Oficialías de Partes que se deroga, hasta las 24 horas del día hábil inmediato anterior a la entrada en vigor del presente Acuerdo, se tramitarán y surtirán efectos en los términos y bajo las condiciones previstas en los artículos que se modifican y derogan mediante el presente Ordenamiento vigentes al día de su presentación, por lo que los interesados deberán cumplir las obligaciones impuestas por dicho Sistema para que se tengan por legalmente presentadas sus promociones, sin perjuicio de que cualquier aclaración o requerimiento relacionados con éstas, en su caso, se fundarán en los preceptos que se reforman y derogan por virtud del presente Acuerdo.
+
+CUARTO.- Los Coordinadores de Oficialía de Partes y Oficiales de Partes de la Sala Superior y del Pleno Jurisdiccional de la Sala Superior y Oficiales de Partes de las Salas Regionales, en coordinación con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, deberán tomar las medidas necesarias para asegurarse que a la entrada en vigor del presente Acuerdo, no se reciba ninguna promoción conforme al Sistema Automático de Recepción de Oficialías de Partes que se abroga por virtud del presente Acuerdo.
+
+QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
