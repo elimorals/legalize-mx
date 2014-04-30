@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-vivienda-del-estado-libre-y-soberano-de-morelos-84265"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2013-09-25"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de diciembre de 2011.
 
@@ -101,23 +101,25 @@ XII. Medio Ambiente: La preservación del equilibrio ecológico y la protección
 
 XIII. Estímulos: Las medidas e incentivos de carácter administrativo, fiscal y financiero para quienes desarrollen acciones de vivienda;
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+
 XIV. Tipos de Vivienda:
 
-Clasificación SMMGV
+Clasificación Meses de Salario Mínimo
 
-Morelos
+General vigente en el Estado
 
-Popular Hasta 158
+Popular Hasta 211
 
-Económica Hasta 180
+Económica Hasta 350
 
-Interés social Hasta 350
+Interés social Hasta 540
 
 Interés medio Hasta 750
 
 Residencial tipo A Hasta 1500
 
-Residencial tipo B Sin limite
+Residencial tipo B Sin límite
 
 XV. Densidades:
 
@@ -199,9 +201,17 @@ XI.- Sustentabilidad ambiental.- Toda acción de vivienda se entiende como un el
 
 XII.- Sustentabilidad de la vivienda.- Las acciones de producción y mejoramiento de vivienda deben integrarse al ambiente en forma armónica, mediante la utilización de materiales y con la utilización de eco-tecnologías y diseños adecuados a su ubicación geográfica y el aprovechamiento eficiente de la energía eléctrica, el agua, y el tratamiento de desechos;
 
-XIII.- Ordenación territorial y urbanística.- La acción de vivienda se considera como un factor para la adecuada ordenación urbanística y territorial; y
+XIII.- Ordenación territorial y urbanística.- La acción de vivienda se considera como un factor para la adecuada ordenación urbanística y territorial; y (sic)
 
 XIV.- Financiamiento asequible y crédito social.- Búsqueda de estrategias y esquemas financieros que favorezcan la adquisición y construcción de vivienda, de la población no sujeta a esquemas de crédito en el sistema financiero nacional; así como los apoyos e instrumentos necesarios para atender a la población en condiciones de pobreza, marginación y vulnerabilidad.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+XV.- Seguridad y Protección Civil.- Evitando el otorgamiento de autorizaciones Estatales y Municipales en la construcción de vivienda de cualquier nivel, en zonas de riesgo por eventos geológicos o hidrometeorológicos;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+XVI.- Accesibilidad para Discapacitados.- Con el objeto de que las personas con discapacidad puedan adquirir viviendas que se ajusten a sus necesidades, y éstas se realicen en cumplimiento con las normas y diseño universal para el acceso a las personas con discapacidad. Para lo cual, los desarrolladores de vivienda de cualquier tipo, de 10 unidades en adelante, están obligados a construir por lo menos el 10% para cubrir las necesidades de acceso universal para personas con discapacidad, destinando los niveles de planta baja para estos fines. Este porcentaje incluye las necesidades de adultos mayores con problemas de movilidad.
 
 ###### ARTÍCULO 6.
 
@@ -269,6 +279,12 @@ III.- La Secretaría de Desarrollo Social, y
 
 IV.- Los Ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2014)</small>
+
+ARTÍCULO 9 BIS.- Los Gobiernos Estatal y Municipales no otorgarán licencias, anuencias, permisos, autorizaciones para la construcción de vivienda de cualquier nivel, hasta en tanto no se emita un dictamen de riesgo por parte del Instituto Estatal de Protección Civil, a través del cual se garantice que el proyecto de construcción se encuentra libre de zonas de riesgo de eventos geológicos o hidrometeorológicos.
+
+La falta de cumplimiento a la presente disposición, será sancionada en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos, con independencias de otro tipo de responsabilidades que, en su caso, se generen a raíz de los actos u omisiones de los servidores públicos responsables.
+
 ###### ARTÍCULO 10.
 
 Corresponde al Ejecutivo ejercer las siguientes facultades:
@@ -281,9 +297,17 @@ III.- Fomentar y crear esquemas de concertación con los sectores privado y soci
 
 IV.- Fomentar y celebrar convenios de coordinación y colaboración con la Federación, otras entidades federativas y los Municipios, para el desarrollo de programas y acciones de suelo y vivienda;
 
-V.- Planear, programar y presupuestar, las acciones de suelo y vivienda, atendiendo al principio de igualdad social, pero otorgando preferencia a las personas de menores ingresos; y
+V.- Planear, programar y presupuestar, las acciones de suelo y vivienda, atendiendo al principio de igualdad social, pero otorgando preferencia a las personas de menores ingresos; y (sic)
 
 VI.- Apoyar a los Ayuntamientos que lo soliciten, en la planeación, gestión de recursos, operación de programas y en la ejecución de acciones en materia de suelo y vivienda.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+VII.- A través del Instituto Estatal de Protección Civil, extender los dictámenes a que se refiere el artículo 9 BIS de este ordenamiento, a los Municipios del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2014)</small>
+
+VIII.- Analizar la situación de las viviendas edificadas en zonas de riesgo provocadas por eventos geológicos o hidrometeorológicos, en los distintos Municipios del Estado de Morelos, con el objeto de llevar a cabo un programa permanente de remediación y reubicación de este tipo de viviendas, con independencia de que cuenten con la autorización de la autoridad correspondiente o sean asentamientos humanos irregulares.
 
 ###### ARTÍCULO 11.
 
@@ -680,3 +704,19 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 1,327 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 30 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 1,328 POR EL QUE SE REFORMA LA FRACCIÓN XIV, DEL ARTÍCULO 3, DE LA LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libe y Soberano de Morelos.
