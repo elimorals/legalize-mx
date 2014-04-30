@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-90518"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-05"
-last_updated: "2012-12-05"
+last_updated: "2014-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE MORELOS.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, PUBLICADO EN EL P.O. DE 30 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2012.
 
@@ -31,7 +33,7 @@ Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad
 
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70, FRACCIONES XVII YXXVI (SIC), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, 2, 10, 11 FRACCIÓN VI Y 25 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, Y CON BASE EN LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS...
 
 Por lo antes expuesto y fundado tengo a bien expedir el siguiente:
 
@@ -670,3 +672,15 @@ EL SECRETARIO DE DESARROLLO AGROPECUARIO
 MTRO. ROBERTO RUÍZ SILVA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE ABRIL DE 2014.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario, publicado en el Periódico Oficial "Tierra y Libertad", número 5048, de fecha cinco de diciembre de 2012 y se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango jerárquico normativo que se opongan al presente Reglamento.
+
+TERCERA. La Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal, contará con un plazo de ciento veinte días naturales, contados a partir de la entrada en vigor del presente Reglamento, para realizar las modificaciones necesarias a los respectivos Manuales de Organización, y de Políticas y Procedimientos; en tanto se expidan dichos Manuales, seguirán vigentes los anteriores y, en su caso, el Secretario resolverá las cuestiones de procedimientos y operación que se originen por la aplicación del presente ordenamiento.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este Reglamento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
