@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2013-12-09"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2014.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -2101,6 +2101,22 @@ El Ayuntamiento podrá realizar la condonación de multas y recargos de carácte
 
 En casos particulares, podrá condonar multas y recargos hasta el 50%, cuando se compruebe que la falta de pago se motivó por penuria económica de los contribuyentes.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2014)</small>
+
+Asimismo, los Ayuntamientos podrán autorizar al Presidente y al Tesorero Municipal de manera conjunta o separada para que, una vez iniciado el procedimiento administrativo de ejecución para el cobro de las contribuciones que les competa recaudar, realicen la condonación total o parcial de las multas y recargos que compongan la liquidación del crédito fiscal de que se trate, siempre que concurran las siguientes circunstancias:
+
+I. Que el crédito fiscal esté firme porque no se haya impugnado por el contribuyente dentro de los plazos legales para ello, o bien porque se haya desistido de los recursos administrativos o juicios de nulidad o de amparo que haya promovido para combatirlos; y
+
+II. Que el contribuyente lo solicite por escrito al Presidente o al Tesorero Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2014)</small>
+
+De igual manera, podrán autorizarlos para celebrar convenios de pago de créditos fiscales en parcialidades, hasta por 16 meses de plazo, siempre y cuando el vencimiento de dicho convenio no exceda la fecha del último día de la administración municipal de que se trate, y que se garantice el interés fiscal en cualquiera de las modalidades que esta Ley lo permite.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2014)</small>
+
+De presentarse el incumplimiento del contribuyente de sus obligaciones pactadas en el convenio a que se refiere el párrafo que antecede, la autoridad fiscal municipal hará efectiva la garantía que haya sido otorgada.
+
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 140.
@@ -3438,3 +3454,9 @@ P.O. 9 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE ABRIL DE 2014.
+
+PRIMERO. La vigencia del presente Decreto iniciará a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa" y concluirá el 31 de diciembre del año 2014.
+
+SEGUNDO. Los convenios celebrados por los contribuyentes y las autoridades fiscales de los Municipios, para el pago en parcialidades de los créditos fiscales, durante la vigencia del presente Decreto, continuarán surtiendo sus efectos hasta la fecha de su vencimiento.
