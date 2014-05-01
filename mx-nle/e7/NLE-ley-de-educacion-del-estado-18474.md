@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2014-03-14"
+last_updated: "2014-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -845,7 +845,7 @@ Los programas de Salud integral que se mencionan en el párrafo que antecede, de
 
 I.- Inculcar en el colectivo escolar, una mejor cultura de la salud basada en la acción comunitaria, con una visión amplia de causas y riesgos mediante análisis y acción comprometida para el control adecuado de enfermedades y prevención de las mismas.
 
-II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud integral de alta calidad y cobertura estatal.
+II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud Integral de alta calidad y cobertura estatal.
 
 III.- Establecer en las escuelas entornos saludables y seguros que garanticen la calidad en la salud.
 
@@ -1943,34 +1943,34 @@ P.O. 14 DE MARZO DE 2014.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2014)</small>
 
-Tercero.- Los derechos adquiridos por los trabajadores de la educación, así como, los convenios y acuerdos celebrados entre el Estado y el Órgano Sindical Titular del Contrato Colectivo de Trabajo de los trabajadores, serán respetados de conformidad con el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Servicio Profesional Docente, la Ley General de Educación y el presente ordenamiento.
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto, debiendo acatarse en lo conducente, lo dispuesto en los artículos transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Educación, publicado en el Diario Oficial de la Federación el 11 de septiembre de 2013, así como del Decreto por el que se expide la Ley General del Servicio Profesional Docente, publicado en el Diario Oficial de la Federación el 11 de septiembre de 2013.
 
-El Estado garantizará todas las prestaciones contenidas en los convenios ya celebrados con el titular del Contrato Colectivo de Trabajo con antelación a la presente Ley, de conformidad con el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Servicio Profesional Docente, la Ley General de Educación y el presente ordenamiento.
+Tercero.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Cuarto.- Con el propósito de dar cumplimiento a la obligación de garantizar la calidad en la educación obligatoria, en el marco de las disposiciones que regulan el Servicio Profesional Docente, la autoridad educativa, adecuará su normativa de naturaleza laboral y administrativa, debiendo dejar sin efectos lo que se oponga o limite el cumplimiento de la presente ley y de las disposiciones federales normativas.
+Cuarto.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo para el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, derivadas del presente Decreto.
+Quinto.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Sexto.- A efecto de dar cumplimiento a la obligación de garantizar la calidad en la educación, la autoridad educativa estatal, en el ámbito de su competencia deberá proveer lo necesario para revisar el modelo educativo en su conjunto con los planes y programas, los materiales y los métodos educativos.
+Sexto.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Séptimo.- La Autoridad Educativa Estatal, en el ámbito de su competencia, establecerá de forma paulatina y progresiva, conforme a la disponibilidad presupuestaria, un programa de subsidios escolares compensatorios para reducir condiciones de inequidad social en el sistema educativo.
+Séptimo.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Octavo.- El personal que se encuentre en servicio y cuente con nombramiento definitivo, en funciones de docencia, de dirección o de supervisión en la educación básica o media superior impartida por la Autoridad Educativa y los Organismos Descentralizados que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente, conforme al Artículo Octavo Transitorio de dicha Ley, será readscrito para continuar en otras tareas dentro de dicho servicio educativo, conservando todos sus derechos laborales, salariales y prestacionales conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado, escuchando la opinión del Organización Sindical reconocida, o bien, se le ofrecerá incorporarse a los programas de retiro que garanticen el pago de las prestaciones legales correspondientes, en concordancia con la Ley General del Servicio Profesional Docente y demás disposiciones legales aplicables.
+Octavo.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-En la readscripción a que se refiere el párrafo anterior, se procurara que sea dentro de la misma zona escolar.
+Noveno.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 53 de la Ley General del Servicio Profesional Docente, será separado del servicio público sin responsabilidad para la autoridad educativa o el Organismo Descentralizado, según corresponda.
+Décimo.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Noveno.- El personal docente y el personal con funciones de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados que tenga Nombramiento Provisional, continuará en la función que desempeña y será sujeto de la evaluación establecida en el artículo 52 de la Ley General del Servicio Profesional Docente. Al personal que obtenga resultados suficientes en dicha evaluación, se le otorgará Nombramiento Definitivo y quedará incorporado al Servicio Profesional Docente conforme a lo dispuesto en la mencionada Ley.
+Décimo Primero.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Décimo.- La promoción a cargos con funciones de dirección y de supervisión en la Educación Básica y Media Superior que imparta el Estado de Nuevo León y sus Organismos Descentralizados se regularán como lo establece la Ley General del Servicio Profesional Docente y con los parámetros e indicadores del Reglamento de Escalafón vigente correspondiente, previa autorización del Instituto Nacional para la Evaluación de la Educación en términos de la normativa aplicable.
+Décimo Segundo.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Décimo Primero.- A más tardar el 12 de septiembre de 2015, deberá estar en operación el Sistema de Información y Gestión Educativa Estatal que incluya, por lo menos, la información correspondiente a las estructuras ocupacionales autorizadas, las plantillas de personal de las escuelas y los datos sobre la formación y trayectoria del personal adscrito a las mismas.
+Décimo Tercero.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Décimo Segundo.- El Gobierno del Estado reconoce al Sindicato Nacional de Trabajadores de la Educación y demás Organizaciones Sindicales como titulares de las relaciones colectivas de los trabajadores de la educación, en los términos de su registro vigente y de acuerdo con las disposiciones legales aplicables correspondientes.
+Décimo Cuarto.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 
-Décimo Tercero.- En el marco de los convenios firmados con antelación con la Representación Sindical Legal Titular del Contrato Colectivo de Trabajo en relación con el Acuerdo Nacional para la Modernización de la Educación Básica, según lo establecido en el Artículo 26 del Decreto en el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental en Materia de Financiamiento Educativo, el Estado gestionará los recursos para el reconocimiento de los derechos adquiridos por los trabajadores para su cumplimiento.
+P.O. 1 DE MAYO DE 2014.
 
-Décimo Cuarto.- La autoridad educativa estatal implementará un Comité de Transparencia, mismo que tendrá por objeto vigilar que los procesos de evaluación a que se refiere la Ley General del Servicio Profesional Docente y esta Ley, se lleven a cabo conforme a los principios de legalidad, certeza, imparcialidad, objetividad y transparencia, así como para recibir inconformidades del personal evaluado y turnarlas a las autoridades competentes para su conocimiento y resolución. Dicho Comité estará integrado por tres representantes de la Autoridad Educativa, un representante del Consejo Estatal de Participación Social, un representante de la Asociación de Padres de Familia, y un representante de cada Organización Sindical, acorde a los lineamientos que emita la Autoridad Educativa.
+Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
