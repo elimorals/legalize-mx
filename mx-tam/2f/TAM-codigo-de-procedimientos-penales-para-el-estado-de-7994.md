@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2014-04-03"
+last_updated: "2014-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO LXII-232 MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADA EN EL P.O. DE 1 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES INICIADOS POR LOS DELITOS MENCIONADOS EN LA FRACCIÓN I DEL ARTÍCULO ÚNICO DEL PRESENTE DECRETO QUEDARÁ ABROGADO; SIN EMBARGO, RESPECTO A LOS PROCEDIMIENTOS PENALES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -4125,7 +4129,7 @@ II.- Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se a
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
 
-III.- Concluidos dichos plazos se citará a las partes, a la victima u ofendido y a los familiares del inculpado si tienen señalado domicilio en autos, para una audiencia oral dentro de los tres días siguientes, en la que el tribunal resolverá después de escuchar a los comparecientes y desahogadas las pruebas admitidas...(sic)
+III.- Concluidos dichos plazos se citará a las partes, a la victima u ofendido y a los familiares del inculpado si tienen señalado domicilio en autos, para una audiencia oral dentro de los tres días siguientes, en la que el tribunal resolverá después de escuchar a los comparecientes y desahogadas las pruebas admitidas...
 
 Las partes podrán formular preguntas al inculpado en relación con sus circunstancias personales y familiares, a efecto de que el Juez tenga mejores elementos de juicio para la determinación de las modalidades del sustitutivo penal que, en su caso, se le puedan imponer, de encontrarlo culpable. De igual forma se escuchará a la víctima u ofendido y a los familiares del procesado que podrán acudir si lo desean, para lo cual deberá citárseles oportunamente.
 
@@ -5188,3 +5192,21 @@ Las disposiciones relativas a los delitos de trata de personas previstas en la L
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto deberá ser notificado a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Tamaulipas; Legislativo, Ejecutivo y Judicial de las entidades federativas y el Distrito Federal, así como a los Ayuntamientos del Estado de Tamaulipas, para los efectos legales que procedan.
+
+###### ARTÍCULO TERCERO.
+
+El Código de Procedimientos Penales para el Estado de Tamaulipas, publicado en el Periódico Oficial del Estado, el 4 de junio de 2012, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedará abrogado; sin embargo, respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+###### ARTÍCULO CUARTO.
+
+El Código de Procedimientos Penales para el Estado de Tamaulipas, publicado en el Periódico Oficial del Estado, el 17 de enero de 1987 para efectos de su aplicación en los procedimientos penales iniciados por los delitos mencionados en la fracción I del artículo único del presente Decreto quedará abrogado; sin embargo, respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
