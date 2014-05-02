@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-9-2005-del-pleno-de-la-suprema-corte-de-44485"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-04-19"
-last_updated: "2005-04-19"
+last_updated: "2014-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2005-03-28"
 ---
 # ACUERDO NUMERO 9/2005 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LOS PROCEDIMIENTOS DE RESPONSABILIDADES ADMINISTRATIVAS]
 
-ACUERDO NUMERO 9/2005, DE VEINTIOCHO DE MARZO DE DOS MIL CINCO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LOS PROCEDIMIENTOS DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL Y DEL SEGUIMIENTO DE LA SITUACION PATRIMONIAL DE ESTOS Y DE LOS SERVIDORES PUBLICOS A LOS QUE SE REFIERE EL ARTICULO 222 DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
+ACUERDO NÚMERO 9/2005, DE VEINTIOCHO DE MARZO DE DOS MIL CINCO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LOS PROCEDIMIENTOS DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DE ESTE ALTO TRIBUNAL Y DEL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL DE ESTOS Y DE LOS SERVIDORES PÚBLICOS A LOS QUE SE REFIERE EL ARTÍCULO 222 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 19 de abril de 2005.
 
@@ -161,7 +161,9 @@ En cada una de las actuaciones se expresarán el lugar, la hora, el día, el mes
 
 Los instructores que lleven a cabo el procedimiento de responsabilidades administrativas deberán estar acompañados, en las diligencias que practiquen, de un secretario auxiliar, si lo tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquéllas acontezca.
 
-En el procedimiento de responsabilidades administrativas el titular del órgano instructor competente o el servidor público que éste designe presidirá los actos en los que se reciban pruebas y aquellos en los que, en su caso, se desahoguen y se rindan declaraciones.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+El titular del órgano instructor o el servidor público que éste designe presidirá las diligencias que sean ordenadas para la integración y substanciación de los expedientes de responsabilidades administrativas.
 
 En las diligencias podrán utilizarse, según el caso y a juicio del instructor que las practique, cualquier medio que tenga por objeto reproducir imágenes o sonidos, haciéndolo constar en el acta respectiva.
 
@@ -197,6 +199,10 @@ Las resoluciones definitivas emitidas por el Pleno, el Comité, o el Presidente 
 
 Las demás resoluciones -con excepción de las relativas a diligencias respecto de las cuales el órgano competente estime que deba guardarse sigilo para el éxito de la investigación- se notificarán por rotulón o lista.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+Las resoluciones en que el Presidente o la Contraloría desechen una queja, se notificarán por rotulón. En caso de que el particular haya proporcionado un correo electrónico, se le informará por ese medio para facilitar la comunicación pero no hará las veces de una notificación.
+
 ###### Artículo 16.
 
 Las notificaciones personales se realizarán en horas hábiles al probable responsable o a la persona que éste haya autorizado para el efecto.
@@ -221,13 +227,19 @@ IV. Día y hora en que se deja el citatorio y nombre de la persona a la que se l
 
 V. El señalamiento de la hora a la que al día siguiente deberá esperar la notificación.
 
-Al día siguiente, en la hora fijada en el citatorio, el notificador volverá al domicilio particular y si el interesado no se encuentra, de lo cual se asentará la razón correspondiente, se hará la notificación por lista o rotulón.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+Al día siguiente, en la hora fijada en el citatorio, el notificador volverá al domicilio particular y si el interesado no se encuentra, de lo cual se asentará la razón correspondiente, se hará la notificación por instructivo.
 
 Si a quien se busca se niega a recibir la notificación, o las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio o no se encuentra nadie en el lugar, éste se fijará en la puerta de entrada y de ello se asentará razón.
 
 Cuando se desconozca el domicilio particular del probable responsable que deba notificarse personalmente, por no corresponder al que se tiene registrado en su expediente, se dará cuenta al titular de la Contraloría para que dicte las medidas que estime pertinentes con el propósito de que se investigue su domicilio. Si a pesar de la investigación no se logra conocerlo, la primera notificación se hará por edictos con cargo al presupuesto de la Contraloría.
 
 Las notificaciones personales también podrán realizarse por comparecencia del interesado o su autorizado ante la Contraloría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+Tratándose de notificaciones personales o de actuaciones que deban practicarse fuera del Distrito Federal, se podrá solicitar el auxilio de los órganos jurisdiccionales federales.
 
 ###### Artículo 18.
 
@@ -275,47 +287,67 @@ El propio Presidente emitirá la resolución que ponga fin a los procedimientos 
 
 La Contraloría propondrá al Presidente, de oficio o previa denuncia o queja, el inicio del procedimiento de responsabilidades administrativas. Tratándose de los que no se ubiquen en el artículo 24 de este Acuerdo, la propia Contraloría dictará el proveído inicial, cualquiera que fuere su sentido.
 
-La Contraloría substanciará los procedimientos de responsabilidades administrativas diversos a los señalados en el párrafo primero del artículo 24 de este Acuerdo, realizará antes de su inicio o dentro de ellos las investigaciones pertinentes y tratándose de los que corresponda conocer al Presidente, emitirá un dictamen en el que proponga las consideraciones y el sentido de la resolución que culmine los referidos procedimientos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+La Contraloría sustanciará los procedimientos de responsabilidades administrativas diversos a los señalados en el párrafo primero del artículo 24 de este Acuerdo General, realizará antes de su inicio las investigaciones pertinentes y tratándose de los que corresponda conocer al Presidente, emitirá un dictamen en el que proponga las consideraciones y el sentido de la resolución respectiva.
 
 ### CAPITULO III. DE LAS AUDITORIAS Y DE LA INVESTIGACION DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 27.
 
-Con el propósito de vigilar el cumplimiento oportuno y adecuado de las disposiciones de observancia general que regulan la conducta de los servidores públicos de la Suprema Corte, la Contraloría deberá llevar a cabo auditorías, en términos de los lineamientos aprobados por el Comité.
-
-Dichas auditorías podrán ser ordinarias, cuando se realicen en los plazos previamente establecidos, conforme al calendario y las reglas básicas aprobadas por el Comité; o bien, extraordinarias, cuando así lo ordene el Pleno, el Comité o el Presidente.
-
-Las auditorías concluirán con los informes que se hagan del conocimiento del Comité, en los que se precisen las situaciones detectadas, su origen, las conclusiones y las recomendaciones u observaciones que la Contraloría considere pertinentes.
-
-Lo manifestado en dichos informes no implicará un pronunciamiento sobre la comisión de una falta administrativa, ya que los hechos u omisiones respectivos deberán calificarse por el órgano competente para iniciar, en su caso, el respectivo procedimiento de responsabilidades.
-
-El servidor público correspondiente deberá solventar las observaciones en un plazo de hasta diez días hábiles, acompañando la documentación que sea pertinente. Dicho plazo podrá ser prorrogado a petición razonada de aquél.
+Dentro de las investigaciones a que se refiere el artículo anterior, la Contraloría podrá ordenar la ejecución de las auditorías que se consideren necesarias, de conformidad con los lineamientos previstos para tal efecto.
 
 ###### Artículo 28.
 
-Si con motivo de la auditoría, una vez transcurrido el plazo al que se refiere el último párrafo del artículo anterior, existen elementos que hagan presumir la probable responsabilidad administrativa de algún servidor público, el titular de la Contraloría iniciará de oficio el procedimiento correspondiente, salvo que se trate de los procedimientos previstos en el artículo 24 de este Acuerdo, en los que se limitará a formular el dictamen respectivo.
-
-Cuando el titular de la Contraloría estime que en una auditoría se tuvo conocimiento de hechos que pudieran constituir una responsabilidad administrativa y sea necesario recabar mayores elementos para acreditar ese hecho o para conocer al o a los responsables del mismo, podrá ordenar de manera fundada y motivada las investigaciones correspondientes.
-
-Dicha orden deberá expresar las circunstancias que razonadamente justifiquen la investigación, y podrá dictarse antes de que se inicie el procedimiento o dentro de éste.
-
-En caso de que el titular de la Contraloría considere que no existen elementos suficientes para iniciar el procedimiento emitirá el acuerdo conducente el que se anexará al expediente de la auditoría respectiva o bien al que se hubiere abierto con motivo de la investigación.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)
 
 ###### Artículo 29.
 
 El Pleno, el Comité o el Presidente, en términos de lo previsto en los artículos 20 de la Ley y 134, fracción IV, de la Ley Orgánica, están facultados para ordenar al titular de la Contraloría la práctica de investigaciones respecto de las conductas que puedan constituir responsabilidades administrativas de los servidores públicos regulados por este Acuerdo. Tratándose de los Ministros sólo el Pleno podrá emitir la orden correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+La Contraloría, previo acuerdo del Presidente y notificación, en su caso, al titular de la Ponencia respectiva, también está facultada para practicar investigaciones cuando por cualquier medio tenga conocimiento de hechos que pudieran constituir responsabilidades administrativas de los servidores públicos de la Suprema Corte, con excepción de los Ministros.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 30.
 
-Para el desarrollo de las investigaciones el titular de la Contraloría podrá solicitar la información y los documentos que estime pertinentes, para lo cual los órganos de la Suprema Corte deberán brindarle el auxilio necesario.
+Para el desarrollo de las investigaciones el titular de la Contraloría podrá solicitar la información y los documentos que estime pertinentes, para lo cual los órganos de la Suprema Corte y del Poder Judicial de la Federación deberán brindarle el auxilio necesario.
 
-Si la información que se requiere se encuentra bajo resguardo de un órgano ajeno al Poder Judicial de la Federación, el titular de la Contraloría realizará la solicitud, salvo en el caso previsto en el párrafo segundo del artículo 66 de este Acuerdo, e informará mensualmente de los resultados obtenidos al Pleno, al Comité o al Presidente, según corresponda.
+Si la información y documentación que se requiere se encuentra bajo resguardo de un órgano público ajeno al Poder Judicial de la Federación o bien, de particulares, el titular de la Contraloría realizará la solicitud respectiva y, en su caso, ordenará las diligencias necesarias para obtenerla, salvo en el caso previsto en el párrafo segundo del artículo 66 de este Acuerdo General.
+
+Las solicitudes o diligencias que realice el titular de la Contraloría para la obtención de información y documentación que se encuentre bajo resguardo de particulares, deberán observar en todo momento las formalidades esenciales previstas en las leyes aplicables y en la Constitución, a fin de no vulnerar sus derechos.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+Artículo 30 A. La investigación deberá realizarse en un plazo no mayor a seis meses, salvo acuerdo expreso de quien la haya ordenado, considerando los términos de la prescripción.
+
+Finalizada la investigación o vencido su plazo, el órgano investigador, dentro de los diez días hábiles siguientes, emitirá un proyecto de dictamen, el cual someterá a consideración del órgano que la haya ordenado para que determine lo que corresponda.
+
+Si en el dictamen se concluye que no existen elementos suficientes para advertir la probable existencia de alguna causa de responsabilidad administrativa, la información o documentos recabados en esa investigación podrán valorarse en una posterior, siempre y cuando lo autorice el órgano que ordenó la nueva investigación y no haya prescrito la facultad sancionadora.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+Artículo 30 B. El acuerdo que ordena la investigación deberá expresar las circunstancias que la justifiquen, sin extenderse a hechos distintos de los señalados en dicho acuerdo.
+
+Si durante la investigación se descubren otros hechos probablemente constitutivos de responsabilidad, podrá ordenarse el inicio de una nueva investigación.
+
+Asimismo, el encargado de la investigación podrá solicitar al órgano que la ordenó autorización para ampliarla, siempre y cuando no varíen los hechos directos o conexos materia de la misma.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+Artículo 30 C. Durante la investigación se recabarán las pruebas que de manera fundada y motivada estime necesarias el órgano que hubiere ordenado su inicio o la Contraloría; el servidor público investigado únicamente podrá hacer alegaciones en torno a los hechos que se asienten en las actas que se levanten durante el curso de la investigación.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 31.
 
-El servidor público de la Suprema Corte al que la Contraloría solicite información o documentación con motivo de una investigación deberá proporcionarla dentro de un plazo que se fijará entre tres a diez días hábiles, el cual podrá ser prorrogado por igual plazo a petición razonada de aquél.
+La información o documentación solicitada con motivo de una investigación deberá proporcionarse dentro de un plazo que se fijará entre tres a diez días hábiles, el cual podrá ser prorrogado por igual plazo a petición razonada.
 
-Si los informes o la documentación requerida no se rindieran dentro del plazo otorgado, con independencia de la responsabilidad en que se incurra, se le solicitarán al superior jerárquico.
+Si la información o documentación requerida no se proporciona dentro del plazo otorgado, con independencia de la responsabilidad en que se incurra, se le solicitará al superior jerárquico y, en su caso, se podrán dictar las medidas de apremio necesarias consistentes en multa o auxilio de la fuerza pública, en términos de lo señalado en el artículo 59 del Código Federal de Procedimientos Civiles.
 
 ### CAPITULO IV. DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -323,9 +355,13 @@ Si los informes o la documentación requerida no se rindieran dentro del plazo o
 
 El procedimiento de responsabilidades administrativas puede iniciar mediante queja presentada ante este Alto Tribunal por algún gobernado, por denuncia realizada por cualquier órgano del Estado y de oficio cuando la Contraloría estime que cuenta con elementos que acrediten la comisión de una conducta infractora del marco jurídico que regula a los servidores públicos de la Suprema Corte.
 
-Las quejas anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales que acrediten una conducta infractora y la probable responsabilidad de algún servidor público en su comisión.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
 
-Si la queja o denuncia no reúne los elementos suficientes para establecer la existencia de una conducta infractora y la probable responsabilidad de algún servidor público, se desechará y se integrará el cuaderno auxiliar correspondiente.
+Las quejas anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales que acrediten una conducta infractora y la probable responsabilidad de algún servidor público en su comisión, en caso contrario, se integrará cuaderno auxiliar.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+Si la queja o denuncia no reúne los elementos suficientes para establecer la existencia de una conducta infractora y la probable responsabilidad de algún servidor público, se desechará y se integrará el cuaderno auxiliar correspondiente, sin menoscabo de que se ordene, de oficio, iniciar cuaderno de investigación a fin de allegarse de elementos de convicción que acrediten la conducta infractora y la probable responsabilidad de algún servidor público de la Suprema Corte.
 
 Si el Pleno, el Presidente o el titular de la Contraloría estimaren que la queja fue interpuesta sin motivo, se impondrá al querellante o a su representante o abogado, o a ambos, una multa de diez a ciento veinte días de salario mínimo tomando como base el vigente en el Distrito Federal al momento de interponerse la queja.
 
@@ -349,7 +385,7 @@ La audiencia tendrá lugar ante la Contraloría en los casos previstos en el pá
 
 En la referida audiencia el probable responsable rendirá su declaración en relación con los hechos que se le imputan y que puedan ser causa de responsabilidad en los términos de este Acuerdo y demás disposiciones aplicables; asimismo, se recibirán las pruebas ofrecidas.
 
-Si el probable responsable deja de comparecer sin causa justificada a la audiencia se tendrán por ciertos los actos u omisiones que se le imputan.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
 
 Si del resultado de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del probable responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias en su caso, siempre y cuando al o a los probables responsables se les permita ejercer plenamente sus defensas respecto de los nuevos hechos infractores.
 
@@ -365,7 +401,7 @@ En los procedimientos a los que se refiere el artículo anterior, se ordenará e
 
 El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de queja o denuncia, o advertidos en la investigación o auditoría, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar.
 
-Se presumirán confesados los hechos de la denuncia sobre los cuales el probable responsable no se manifieste explícitamente, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación de la validez de la adecuación de aquéllos a la norma que prevé la infracción atribuida.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 39.
 
@@ -375,9 +411,13 @@ Una vez recibido el informe y, en su caso, concluida la audiencia y desahogadas 
 
 Dentro de los veinte días hábiles siguientes la propia Contraloría emitirá dictamen en el que proponga el sentido de la resolución que ponga fin al procedimiento respectivo. Dicho dictamen se someterá a consideración del Presidente para que resuelva en ejercicio de la atribución prevista en el artículo 133, fracción II, de la Ley Orgánica.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 40.
 
-En las resoluciones que pongan fin a los procedimientos de responsabilidades administrativas deberá analizarse la existencia de la conducta infractora y, en su caso, la responsabilidad en su comisión, tomando en cuenta las circunstancias en que se dieron los hechos.
+En las resoluciones que dicten el Pleno o el Presidente con las que se ponga fin a los procedimientos de responsabilidades administrativas deberá analizarse la existencia de la conducta infractora y, en su caso, la responsabilidad en su comisión, tomando en cuenta las circunstancias en que se dieron los hechos. De igual manera se verificará que la substanciación del procedimiento se haya realizado conforme a las reglas que prevé este Acuerdo General y, en su caso, se ordenará que se subsane la omisión o deficiencia detectada.
+
+Las resoluciones que dicte el Pleno en los expedientes de responsabilidad administrativa no admitirán recurso alguno. En contra de las resoluciones que emita el Presidente procederá el recurso de inconformidad, en los términos señalados en el presente Acuerdo General.
 
 ### CAPITULO V. MEDIDAS CAUTELARES
 
@@ -389,9 +429,13 @@ Una vez iniciado un procedimiento de responsabilidad administrativa el órgano c
 
 Cuando exista riesgo inminente de que el presunto responsable no se localice o de que oculte, enajene o dilapide sus bienes, a juicio de la Contraloría, se solicitará a la Tesorería de la Federación, en cualquier fase del procedimiento de responsabilidad administrativa, proceda al embargo precautorio de sus bienes, a fin de garantizar el cobro de las sanciones económicas que llegaren a imponerse con motivo de la infracción cometida. Impuesta la sanción económica, el embargo precautorio se convertirá en definitivo y se procederá en términos del tercer párrafo del artículo 30 de la Ley.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 43.
 
-Las medidas cautelares no prejuzgan sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación correspondiente y estarán vigentes, en su caso, hasta que se emita la resolución que ponga fin al procedimiento respectivo.
+Además de la suspensión, el órgano instructor podrá ordenar las medidas cautelares que estime necesarias durante la tramitación del procedimiento sin prejuzgar sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación correspondiente y estarán vigentes, en su caso, hasta que se emita la resolución que ponga fin al procedimiento respectivo.
+
+No podrán dictarse medidas cautelares durante el desarrollo de una investigación, salvo las que excepcionalmente autorice el Pleno.
 
 ###### Artículo 44.
 
@@ -429,9 +473,13 @@ Para la individualización de las sanciones establecidas en el artículo 37 de l
 
 Para la ejecución de las sanciones previstas en este capítulo, se observarán las siguientes reglas:
 
-I. Apercibimiento o amonestación privada. Se ejecutará citando al servidor público en la sede de la Contraloría y corresponderá a su titular hacer efectiva la sanción;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
 
-II. Apercibimiento o amonestación pública. Se ejecutará citando al servidor público en la sede de la unidad a la que se encuentre adscrito, con el apoyo del titular de ésta, en donde el titular de la Contraloría hará efectiva la sanción ante la presencia del personal que labore en aquella unidad;
+I. Apercibimiento o amonestación privada. Se ejecutará mediante notificación personal del oficio que contenga la sanción;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+II. Apercibimiento o amonestación pública. Se ejecutará a partir de la publicación que haga la Contraloría en un lugar visible del área de adscripción del responsable de un extracto de la resolución, durante cinco días hábiles;
 
 III. Suspensión del empleo, cargo o comisión y destitución del puesto. El titular de la Contraloría dará aviso a la Dirección de Personal para los efectos legales conducentes. En caso de que el servidor público sancionado no acate la sanción correspondiente, se podrá solicitar auxilio a la Dirección de Seguridad;
 
@@ -440,6 +488,44 @@ IV. Sanción económica. El titular de la Contraloría deberá comunicar a la Di
 V. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público. El titular de la Contraloría dará aviso a la Dirección General de Personal, notificará a las Direcciones Generales de Recursos Humanos tanto del Consejo de la Judicatura Federal como del Tribunal Electoral del Poder Judicial de la Federación; así como a la Secretaría de la Función Pública y a las Controlarías de los Estados; y,
 
 VI. Sanciones previstas en el artículo 101 constitucional. El Secretario General de Acuerdos de la Suprema Corte comunicará a la Dirección General de Personal la resolución correspondiente para los efectos legales conducentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+Las sanciones deberán ejecutarse hasta que haya transcurrido el plazo previsto para hacer valer el recurso de inconformidad.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 48 Bis.
+
+La Contraloría llevará un Registro de Servidores Públicos Sancionados de la Suprema Corte, en el que se anotará, al menos, la siguiente información:
+
+I. Número de expediente en el que se emite;
+
+II. Nombre;
+
+III. Número de expediente personal;
+
+IV. Puesto;
+
+V. Adscripción;
+
+VI. Fecha de resolución y de notificación;
+
+VII. Infracción administrativa;
+
+VIII. Hechos infractores;
+
+IX. Órgano resolutor;
+
+X. Sanción impuesta, y
+
+XI. Duración de los efectos de la sanción impuesta y, en su caso, fecha de inicio y conclusión.
+
+La Contraloría expedirá constancias sobre la imposición de sanciones en contra de algún servidor público de la Suprema Corte; tratándose de suspensión o inhabilitación, se deberá precisar la fecha en que concluye la sanción.
+
+La información relativa al nombre de los servidores públicos sancionados del Consejo de la Judicatura Federal, del Tribunal Electoral o de cualquier otro órgano público, será registrada por la Contraloría en sistemas separados.
+
+La Contraloría publicará en medios electrónicos un catálogo de servidores públicos sancionados, que contendrá el número del expediente, puesto y área de adscripción del sancionado, la infracción administrativa y la sanción impuesta; en el caso de las sanciones de destitución e inhabilitación se publicará también el nombre del servidor público.
 
 ## TITULO TERCERO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
@@ -589,21 +675,33 @@ El titular de la Contraloría tendrá las siguientes atribuciones y facultades:
 
 I. Llevar, de conformidad con la Ley y este Acuerdo, el registro, control, seguimiento y análisis de la situación patrimonial de los servidores públicos a que este Acuerdo se refiere, con excepción de los Ministros;
 
-II. Rendir al Comité los siguientes informes:
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
 
-a) Sobre los servidores públicos que no hayan presentado su declaración anual de situación patrimonial, el cual deberá remitirse en la primera quincena de julio.
+II. Rendir al Presidente los siguientes informes:
 
-b) Resultado del análisis de las declaraciones recibidas en el mes de mayo en el que deberán señalarse los servidores públicos que en el ejercicio anterior tuvieron una modificación patrimonial que aparentemente carece de justificación, el cual deberá presentarse en la segunda quincena de octubre.
+a) Sobre los servidores públicos que no hayan presentado su declaración de modificación de situación patrimonial, el cual deberá remitirse en la primera quincena de julio;
 
-c) Resultado del análisis de las declaraciones de conclusión, en el que deberán señalarse los servidores públicos que tuvieron durante su encargo una modificación patrimonial que aparentemente carece de justificación, el cual deberá presentarse trimestralmente.
+b) Resultado del análisis de las declaraciones recibidas únicamente en aquellos casos en que se advierta una modificación patrimonial que aparentemente carezca de justificación, y
 
-III. Practicar, en términos de lo dispuesto en los artículos 27 al 31 de este Acuerdo, las auditorías e investigaciones que estime necesarias o las que, en su caso, le sean ordenadas por el Pleno, por el Comité o por el Presidente;
+c) (DEROGADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+III. Practicar, en términos de lo dispuesto en los artículos 27 al 31 de este Acuerdo General, las auditorías e investigaciones que estime necesarias o las que, en su caso, le sean ordenadas por el Pleno, por el Comité o por el Presidente;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
 
 IV. Comunicar al Pleno, al Comité o al Presidente, según corresponda, los resultados de las investigaciones y auditorías practicadas;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
 V. Llevar el registro de los bienes a que se refiere el artículo 45 de la Ley;
 
-VI. Hacer del conocimiento del Presidente del Tribunal Electoral cualquier irregularidad que advierta respecto de la evolución de la situación patrimonial de los servidores públicos adscritos al mismo con excepción de los Magistrados electorales; y,
+> <small>(REFORMADA [N. DE E. REPUBLICADA], POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+VI. Hacer del conocimiento del Presidente del Tribunal Electoral cualquier irregularidad que advierta respecto de la evolución de la situación patrimonial de los servidores públicos adscritos al mismo con excepción de los Magistrados electorales, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
 
 VII. Recibir y custodiar las declaraciones de situación patrimonial que presenten los servidores públicos, salvo las de los Ministros y las de los Magistrados electorales, lo que corresponderá al Presidente.
 
@@ -623,9 +721,11 @@ Tratándose de los servidores públicos del Tribunal Electoral que se rigen por 
 
 El personal que determine el titular de la Contraloría proporcionará asesoría y apoyo para el llenado de los formatos a los servidores públicos que se rigen por este Acuerdo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 62.
 
-El lugar y horario para la presentación de las declaraciones sobre situación patrimonial de los servidores públicos de la Suprema Corte será el domicilio de la Contraloría, de las ocho treinta a las veinte horas, todos los días, excepto los inhábiles por disposición de ley y aquellos en los que se suspendan las labores de la Suprema Corte.
+El lugar y horario para la presentación de las declaraciones sobre situación patrimonial de los servidores públicos de la Suprema Corte será el domicilio de la Contraloría, de las nueve a las diecinueve horas, todos los días, excepto los inhábiles por disposición de ley y aquéllos en los que se suspendan las labores de la Suprema Corte. Durante el mes de mayo el horario de atención será hasta las veinte horas.
 
 Tratándose de servidores públicos que no residan en el Distrito Federal o en su área metropolitana, podrán enviarlas a la dirección mencionada por correo certificado con acuse de recibo, o por medio de servicio de mensajería legalmente autorizado, dentro de los plazos señalados en el artículo 51 de este Acuerdo.
 
@@ -679,6 +779,94 @@ Dichas constancias podrán obtenerse del sistema electrónico que establezca la 
 
 La Contraloría de la Suprema Corte deberá celebrar convenios de colaboración con la Secretaría de la Función Pública y las Contralorías de los Estados para tener acceso a los datos correspondientes a la inhabilitación de los servidores públicos. La Dirección de Personal solicitará información a la Contraloría sobre los antecedentes de los servidores públicos a los que se otorgue un nombramiento en este Alto Tribunal.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+## TITULO CUARTO. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 71.
+
+En los procedimientos de responsabilidad administrativa no se admitiría más recurso que el de inconformidad.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 72.
+
+El recurso de inconformidad se interpondrá por el servidor público afectado contra las resoluciones del Presidente en las que determine la existencia de una infracción administrativa no grave y la responsabilidad del servidor público en su comisión.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 73.
+
+El plazo para interponer el recurso de inconformidad será de cinco días hábiles siguientes al en que surta efectos la notificación de la resolución que se recurra.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 74.
+
+Son competentes para resolver el recurso de inconformidad las Salas de la Suprema Corte, conforme al turno que para tal efecto se establezca.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 75.
+
+El recurso de inconformidad se interpondrá por escrito y deberá señalar lo siguiente:
+
+I. Autoridad a quien se dirige;
+
+II. Nombre del recurrente. Cuando el recurso de inconformidad se interponga por dos o más personas, deberán designar un representante común;
+
+III. Domicilio para oír y recibir notificaciones y autorizados;
+
+IV. Resolución recurrida y la fecha en que se le notificó o tuvo conocimiento de la misma, y
+
+V. Motivos de agravio sobre los argumentos que sustentan la resolución recurrida.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 76.
+
+La interposición del recurso de inconformidad suspende la ejecución de la sanción.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 77.
+
+El recurso se desechará por improcedente en los siguientes casos:
+
+I. Si el escrito se presenta sin firma;
+
+II. Se presenta fuera de plazo;
+
+III. Contra actos emitidos por el Pleno, y
+
+IV. Contra actos distintos a los señalados en el artículo 72 del presente Acuerdo General.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 78.
+
+Se sobreseerá en el recurso de inconformidad:
+
+I. Por desistimiento expreso, debidamente ratificado por el recurrente;
+
+II. Por fallecimiento del recurrente;
+
+III. Cuando durante la tramitación se advierta o actualice una causa de improcedencia, y
+
+IV. Cuando hayan cesado los efectos de la resolución recurrida o se dé un cambio de situación jurídica que impida resolver sobre la validez de aquélla, sin afectar la derivada de un nuevo acto.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIUNO DE ABRIL DE DOS MIL CATORCE, D.O.F. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 79.
+
+La resolución del recurso podrá confirmar, revocar o modificar total o parcialmente la resolución impugnada y expresará los efectos de la determinación; asimismo, podrá ordenar la reposición del procedimiento.
+
 TRANSITORIOS:
 
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -694,3 +882,13 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Mariano Azuela Güi
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación por unanimidad de once votos de los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Sergio Armando Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza, en su Sesión Privada celebrada el veintiocho de marzo de dos mil cinco emitió el Acuerdo General número 9/2005, RELATIVO A LOS PROCEDIMIENTOS DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL Y DEL SEGUIMIENTO DE LA SITUACION PATRIMONIAL DE ESTOS Y DE LOS SERVIDORES PUBLICOS A LOS QUE SE REFIERE EL ARTICULO 222 DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION.- México, Distrito Federal, a veintinueve de marzo de dos mil cinco.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de cincuenta fojas útiles, concuerda fiel y exactamente con su original consistente en el Acuerdo Número 9/2005; y se certifica para dar cumplimiento a lo dispuesto en su Punto Cuarto Transitorio.- México, Distrito Federal, a cinco de abril de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE MAYO DE 2014.
+
+PRIMERO. Este Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los medios de defensa interpuestos antes de la entrada en vigor del presente Instrumento Normativo contra resoluciones del Presidente en las que se haya impuesto una sanción por responsabilidad administrativa, se substanciarán conforme a lo previsto en los artículos del 71 al 79 de este Acuerdo General.
+
+TERCERO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Número 9/2005 en dichos medios electrónicos.
