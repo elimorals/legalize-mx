@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2014-02-14"
+last_updated: "2014-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -765,6 +765,10 @@ XX. De Energía y Minas;
 
 XXI. Instructora de Juicio Político y de Declaración de Procedencia en Materia de Responsabilidad Penal.
 
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XXII. La Comisión del (sic) Transparencia y Acceso a la Información.
+
 ###### ARTÍCULO 68.
 
 La Comisión de Gobernación, Puntos Constitucionales y Justicia conocerá de los asuntos relacionados con:
@@ -1228,6 +1232,24 @@ V. Abasto, ahorro y costo del servicio de energía eléctrica;
 VI. Abasto de gas y gasolina; y
 
 VII. Otros que sean o se consideren de la competencia de esta comisión.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2014)</small>
+
+ARTÍCULO 87 BIS. La Comisión de Transparencia y Acceso a la Información conocerá de los asuntos relacionados con:
+
+I. La actualización de la Legislación en materia de acceso a la información pública.
+
+II. Dar seguimiento a la solicitud de información pública que realicen los ciudadanos en la materia de la Ley de Acceso a la Información Pública, tratándose de asuntos que sean competencia de la Legislatura.
+
+III. Promover la cultura de la transparencia, mediante foros, mesas de debate, conferencias o talleres.
+
+IV. Difundir el acceso a la información pública como un derecho de todos los ciudadanos.
+
+V. Dar atención a las demandas ciudadanas, propuestas y aportaciones tendientes al fortalecimiento y apoyo de una nueva cultura de transparencia y acceso a la información pública.
+
+VI. Vigilar las actividades propias de la unidad de atención del Congreso del Estado, para que las respuestas a las solicitudes se hagan de manera eficiente en los tiempos marcados por la ley.
+
+VII. Otros aspectos que sean o se consideren de la competencia de esta comisión.
 
 ###### ARTÍCULO 88.
 
@@ -2838,3 +2860,11 @@ P.O. 14 DE FEBRERO DE 2014.
 DECRETO NÚMERO 453, POR EL QUE SE REFORMAN LOS ARTÍCULOS 67, FRACCIÓN VII Y 74, PRIMER PÁRRAFO, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE MAYO DE 2014.
+
+PRIMERO.- El presente decreto entrara en vigor al momento de su publicación en el Periódico Oficial de Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- La Comisión que se crea mediante el presente decreto se integrara por los coordinadores de las Comisiones de Gobernación, Puntos Constitucionales y Justicia, de Finanzas y de Hacienda y Cuenta Pública; así como por dos Diputados nombrados por el Pleno a propuesta de la Junta de Gobierno.
+
+TERCERO.- Se derogan todas las disposiciones contrarias al presente decreto
