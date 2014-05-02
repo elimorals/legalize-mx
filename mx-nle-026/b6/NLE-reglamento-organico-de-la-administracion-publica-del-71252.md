@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-del-71252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2013-11-04"
+last_updated: "2014-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -265,6 +265,10 @@ XVII. Llevar estadísticas sobre las personas detenidas por el ejercicio de acci
 
 XVIII. Elaborar en coordinación con la Secretaría de Seguridad Pública, programas de seguridad encaminados a preservar el orden público y contribuir en forma preventiva a la disminución del índice delictivo y de conductas antisociales en el municipio.
 
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XVIII. BIS.- Dirigir y supervisar el cumplimiento del Programa de Vecinos Vigilantes, cuyos objetivos son: fomentar la participación integral de la ciudadana (sic) en acciones de prevención y contención del delito, especialmente de los delitos de fuero común, mediante estrategias que fortalezcan el tejido social, vía reconstrucción y fortalecimiento de la cohesión y unidad en el núcleo base de la sociedad, que es la colonia, recuperando la convivencia y solidaridad vecinal, así como llevar a cabo, acciones de sinergia entre autoridades y sociedad, creando comités de vecinos vigilantes en cada colonia, cuya misión será la de promover la cultura cívica de la denuncia ciudadana, así como también colaborar, mediante la prevención el reforzamiento de la tranquilidad y paz social, para mejorar el ambiente social y calidad de vida de los guadalupenses.
+
 XIX. Supervisar las actividades que desarrollan los jueces calificadores, al aplicar el Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León.
 
 XX. Proporcionar apoyo a la Secretaría de Relaciones Exteriores en la recepción y resguardo de solicitudes, pasaportes y demás documentos que se tramitan por los habitantes del Municipio, así como en el traslado de los mismos a dicha oficina.
@@ -305,7 +309,9 @@ XXXII. Coordinarse con los planes de acción de todos los cuerpos de auxilio, de
 
 XXXIII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-Para el despacho de los asuntos de su competencia el Secretario del Ayuntamiento se auxiliará de las siguientes Direcciones: Jurídica, Política, de Espectáculos y Comercio; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
+Para el despacho de los asuntos de su competencia el Secretario del Ayuntamiento se auxiliará de las siguientes Direcciones: Jurídica, Política, de Espectáculos y Comercio, y del Programa Vecinos Vigilantes así como de las Coordinaciones, Jefaturas y demás personal que sea necesario
 
 ### CAPÍTULO V. DE LA SECRETARÍA DE FINANZAS Y TESORERÍA MUNICIPAL
 
@@ -1974,3 +1980,13 @@ P.O. 4 DE NOVIEMBRE DE 2013.
 Primero.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 2 DE MAYO DE 2014.
+
+PRIMERO. Las presentes reformas al artículo 13 del Reglamento Orgánico de la Administración Pública Municipal de Guadalupe, Nuevo León entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se instruye a la Secretaria del Ayuntamiento y a la Secretaria de Contraloría y Defensa Ciudadana, a fin de que lleven a cabo la incorporación en el Manual General de Organización de la Administración Pública Municipal, Periodo Constitucional 2012 -2015, la figura de la Dirección del Programa Vecino Vigilante, con su respectiva estructura organizativa, funciones y atribuciones derivadas de los objetivos del Programa Vecinos Vigilantes.
+
+TERCERO. Se instruye a la Secretaría del Ayuntamiento y a la Secretaría de Finanzas y Tesorería Municipal para que lleven a cabo las acciones pertinentes, administrativas y presupuestales, que en su caso correspondan, para garantizar el funcionamiento del Programa y de la Dirección creada en virtud de las presentes reformas
+
+CUARTO. Se instruye a la titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo, para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
