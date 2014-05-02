@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-procuraduria-general-de-justicia-del-94086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-05-03"
-last_updated: "2013-05-03"
+last_updated: "2014-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 3 de mayo de 2013.
 
@@ -37,23 +37,23 @@ NÚMERO 218.-
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 Índice
 
 ## TÍTULO I. DE LAS DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. Del Objeto de la Ley
 
-### CAPÍTULO II
+### CAPÍTULO II. De la función de la Procuraduría
 
-De la función de la Procuraduría.
+## TÍTULO II. DE LA ESTRUCTURA Y ATRIBUCIONES DE LA PROCURADURÍA
 
-## TÍTULO II. DE LA ESTRUCTURA Y ATRIBUCIONES DE LA PROCURADURÍA GENERAL DE JUSTICIA
+### CAPÍTULO I. De la Estructura Orgánica de la Procuraduría
 
-### CAPÍTULO I. De la Estructura Orgánica de la Procuraduría General de Justicia del Estado
+### CAPÍTULO II. Del Procurador y de los requisitos para ser designado
 
-### CAPÍTULO II. Del Procurador General de Justicia del Estado y de los requisitos para ser designado
-
-### CAPÍTULO III. De las relaciones del titular de la Procuraduría con los poderes públicos
+### CAPÍTULO III. De las relaciones del Procurador con los poderes públicos
 
 ## TÍTULO III. DEL MINISTERIO PÚBLICO Y DE LOS PRINCIPIOS QUE RIGEN SU ACTUACIÓN
 
@@ -63,9 +63,7 @@ De la función de la Procuraduría.
 
 ### CAPÍTULO III. De las funciones del Ministerio Público
 
-### CAPÍTULO IV
-
-De los requisitos de Ingreso y Permanencia.
+### CAPÍTULO IV. De los requisitos de Ingreso y Permanencia
 
 ### CAPÍTULO V. De las medidas de apremio y sanciones
 
@@ -81,9 +79,9 @@ De los requisitos de Ingreso y Permanencia.
 
 #### SECCIÓN SEGUNDA. DE LA POLICÍA
 
-### CAPÍTULO I. De la Organización de la Policía
+### CAPITULO I. De la Organización de la Policía
 
-### CAPÍTULO II. De las Funciones de la Policía
+### CAPITULO II. De las Funciones de la Policía
 
 ### CAPÍTULO III. De los requisitos de ingreso y permanencia
 
@@ -91,27 +89,25 @@ De los requisitos de Ingreso y Permanencia.
 
 ### CAPÍTULO ÚNICO. De sus funciones como auxiliares del Ministerio Público
 
-## TÍTULO V. DE LA FORMACIÓN, LA CAPACITACIÓN Y EL ADIESTRAMIENTO DEL PERSONAL DE LA INSTITUCIÓN
+## TITULO V. DE LA FORMACIÓN, LA CAPACITACIÓN Y EL ADIESTRAMIENTO DEL PERSONAL DE LA INSTITUCIÓN
 
 ### CAPÍTULO I. Disposiciones Generales
 
-### CAPÍTULO II. De la Dirección General del Centro de Profesionalización, Acreditación, Certificación y Carrera
+### CAPÍTULO II. Del Centro de Profesionalización
 
-### CAPÍTULO III
+### CAPÍTULO III. De las Atribuciones del Director General del Centro de Profesionalización
 
-De las Atribuciones de la Dirección General del Centro de Profesionalización, Acreditación, Certificación y Carrera.
-
-## TÍTULO VI. DEL SERVICIO PROFESIONAL DE CARRERA
+## TITULO VI. DEL SERVICIO PROFESIONAL Y CIVIL DE CARRERA
 
 ### CAPÍTULO I. Disposiciones Generales
 
-### CAPÍTULO II. Reglas para el Servicio Profesional de Carrera
+### CAPÍTULO II. Reglas para el Servicio Profesional y Civil de Carrera
 
-## TÍTULO VII. DE LOS ACTOS IMPUGNABLES Y LOS MEDIOS DE DEFENSA
+## TITULO VII. DE LOS ACTOS IMPUGNABLES Y LOS MEDIOS DE DEFENSA
 
 ### CAPÍTULO ÚNICO. De los Actos Impugnables y de los Medios de Defensa
 
-## TÍTULO VIII. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES
+## TITULO VIII. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES
 
 ### CAPÍTULO ÚNICO. De la Dirección General de Responsabilidades
 
@@ -131,43 +127,73 @@ La presente Ley es de orden público, interés social, observancia general y tie
 
 Glosario.- Para los efectos, aplicación e interpretación de esta ley se entiende por:
 
-I. Agente: El Agente del Ministerio Público
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+I. Agente del Ministerio Público: El servidor público cuya función es la investigación y persecución de los hechos probablemente constitutivos de delito.
 
 II. Constitución General: La Constitución Política de los Estados Unidos Mexicanos.
 
 III. Constitución del Estado: La Constitución Política del Estado de Coahuila de Zaragoza.
 
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
 IV. Centro de Profesionalización: El Centro de Profesionalización, Acreditación, Certificación y Carrera.
 
-V. Centro de Medios Alternos: El Centro de Medios de Solución de Conflictos.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-VI. Delegado: El Delegado de la Procuraduría General de Justicia del Estado en la Región respectiva.
+V. Delegado: El Delegado de la Procuraduría General de Justicia del Estado en la Región respectiva.
 
-VII. Estado: El Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-VIII. Facilitadores: Al auxiliar Técnico del Ministerio Público en aquellos casos en los que proceda la terminación anticipada de la investigación.
+VI. Estado: El Estado de Coahuila de Zaragoza.
 
-IX. Gobernador: El Gobernador Constitucional del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-X. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
+VII. Facilitador: El servidor público que funja como mediador y conciliador, en la aplicación de los procedimientos alternos de solución de conflictos en materia penal y de justicia para adolecentes (sic).
 
-XI. Ley de la Administración Pública: La ley de la Administración Pública del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-XII. Ley General: La Ley General del Sistema nacional de Seguridad Pública.
+VIII. Gobernador: El Gobernador Constitucional del Estado de Coahuila de Zaragoza.
 
-XIII. Ley: Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza; para efectos de la simplicidad gramatical, cada vez que se use el genérico masculino, se entenderá que se hace referencia a los hombres y a las mujeres por igual.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-XIV. Policía: La Policía Investigadora o los agentes que forman parte de ella.
+IX. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
 
-XV. Ministerio Público: El funcionario que tenga el carácter de Agente Ministerio (sic) Público, independientemente de su jerarquía o denominación; o la institución misma que ejerce dicha función.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-XVI. Procuraduría General: La Procuraduría General de Justicia del Estado.
+X. Ley Orgánica de la Administración Pública: La Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza.
 
-XVII. Procurador General: El Procurador General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-XVIII. Subprocuradores: Quienes ocupan la titularidad de las Subprocuradurías Ministerial; de Control de Juicios y Constitucionalidad; Jurídica, de Derechos Humanos, de Profesionalización y Proyectos; para la Investigación y Búsqueda de Personas No localizadas y Atención a Víctimas y Subprocuraduría Especializada para la Atención de Delitos electorales..(sic)
+XI. Ley General: La Ley General del Sistema Nacional de Seguridad Pública.
 
-XIX. Servicios Periciales: Las dependencias de la Procuraduría que tengan a su cargo lo relativo a los servicios periciales.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XII. Ley: Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XIII. Policía: La Policía Investigadora o los agentes que forman parte de ella.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XIV. Ministerio Público: La institución encargada de la investigación y persecución de los delitos.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XV. Procuraduría: La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XVI. Procurador: El Titular de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XVII. Subprocuradores: Quienes ocupan la titularidad de las Subprocuradurías Ministerial; de Control de Juicios y Constitucionalidad; Jurídica, de Derechos Humanos, Profesionalización y Proyectos; de Investigación y Búsqueda de Personas No localizadas y Atención a Víctimas, Ofendidos y Testigos; la Especializada para la Atención de Delitos Electorales, y la de Investigaciones Especiales, Atención a Delitos Contra Mujeres por Razón de Género, Trata de Personas, Libertad de Expresión y Servicios a la Comunidad.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XVIII. Servicios Periciales: La unidad administrativa de la Procuraduría que tiene a su cargo lo relativo a los servicios periciales.
 
 ### CAPÍTULO II. De la función de la Procuraduría
 
@@ -219,109 +245,189 @@ Objetivo de los procedimientos
 
 Los procedimientos seguidos en la persecución e investigación de los delitos a cargo del Ministerio Público, tendrán por objeto, el esclarecimiento de los hechos, determinar la procedencia o improcedencia del ejercicio de la acción penal, procurar que el culpable no quede impune, proteger al inocente, a las víctimas u ofendidos y testigos y que los daños causados por el delito se reparen.
 
-## TÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y ATRIBUCIONES DE LA PROCURADURÍA GENERAL DE JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
 
-### CAPÍTULO I. De la estructura orgánica de la Procuraduría General de Justicia
+## TÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y ATRIBUCIONES DE LA PROCURADURÍA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
+
+### CAPÍTULO I. De la estructura orgánica de la Procuraduría
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 10.
 
-Del Procurador General de Justicia
+Del Procurador
 
-El titular de la Procuraduría General de Justicia en el Estado de Coahuila, es el Procurador, quien ejerce autoridad jerárquica sobre todo el personal de la Procuraduría. Es el representante legal de la misma. Asimismo tendrá las obligaciones y facultades que al Ministerio Público le confiera la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, esta Ley, y demás ordenamientos legales aplicables, los cuales ejercerá personalmente o a través de los servidores públicos de la Institución de conformidad a esta Ley.
+El Procurador presidirá al Ministerio Público y será el titular y representante legal de la Procuraduría, con las facultades y obligaciones que establece la Constitución del Estado y las leyes, las cuales ejercerá personalmente o a través de los servidores públicos de la institución de conformidad con los ordenamientos legales aplicables. En el ámbito de la investigación y persecución de los delitos, las decisiones del Procurador únicamente estarán sujetas al mandato de la ley.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 11.
 
 Atribuciones y deberes del Procurador
 
-El Procurador General de Justicia ejerce las atribuciones y deberes que le confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, la Ley Orgánica de la Administración Pública Estatal, la presente Ley y demás ordenamientos aplicables.
+El Procurador ejerce las atribuciones y deberes que le confiere la Constitución General, la Constitución del Estado, la Ley Orgánica de la Administración Pública, la presente ley y demás ordenamientos aplicables.
 
-En el cumplimiento de su encargo, el Procurador actúa como Jefe del Ministerio Público, Titular y Representante de la Procuraduría General del Estado y como Representante del Gobierno del Estado.
+Son deberes y atribuciones del Procurador los siguientes:
 
-Son deberes y atribuciones los siguientes:
+I. Ser el titular, y rector de la Procuraduría y presidir al Ministerio Público;
 
-I. Establecer las bases de organización de la Institución.
+II. Velar por el respeto de las instituciones constitucionales y los derechos humanos, con cuantas actuaciones exijan su defensa;
 
-II. Asegurar la autonomía técnica del Ministerio Público.
+III. Participar en el Sistema Nacional de Seguridad Pública y en el Sistema de Seguridad Pública del Estado;
 
-III. Determinar la política institucional del Ministerio Público, así como los criterios y prioridades en la persecución e investigación de los delitos, y en su caso, el ejercicio de la acción penal.
+IV. Formular iniciativas de ley ante el Congreso del Estado, en materia de procuración de justicia, política criminal y seguridad pública;
 
-IV. Dictar los criterios generales que deberán regir la protección y atención a víctimas del delito y testigos de acuerdo a lo establecido por las Leyes existentes en tal materia.
+V. Emitir los reglamentos, circulares y demás disposiciones administrativas que regulen los procedimientos, materias, funciones y servicios públicos de su competencia;
 
-V. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la institución y ejercer la disciplina entre sus integrantes.
+VI. Acordar con el Gobernador los asuntos de su competencia;
 
-VI. Dirigir y coordinar el desarrollo de la función investigadora y acusatoria contra los imputados, directamente o a través de los servidores públicos facultados.
+VII. Nombrar y remover de conformidad con la ley, a los servidores públicos bajo su dependencia, siempre y cuando el nombramiento no esté previsto de manera especial por la Constitución del Estado o las leyes;
 
-VII. Coadyuvar en la Política Estatal de Seguridad Publica y Prevención del Delito.
+VIII. Asignar y desplazar libremente a los servidores públicos en las labores de procuración de justicia, investigación y atención de procesos. Asimismo, determinar el criterio y la posición que la Procuraduría asumirá en cada caso;
 
-VIII. Coadyuvar en la Política Criminal del Estado en los términos en que prevengan las Leyes.
+IX. Coordinar los trabajos tendientes a conformar las políticas públicas de procuración de justicia en el Estado;
 
-IX. Emitir los acuerdos, circulares, instructivos, manuales de organización y de procedimientos, bases, lineamientos y demás normas administrativas necesarias que rijan la actuación de las unidades administrativas y órganos técnicos, centrales y desconcentrados de la institución, así como de Agentes del Ministerio Público, Agentes de la Policía Investigadora y científica y en su caso, Peritos y Facilitadores.
+X. Investigar, por sí o por conducto del personal de la Procuraduría, de oficio o con base en las denuncias o querellas formuladas, los hechos que puedan constituir delito;
 
-X. Emitir instrucciones generales o particulares, al personal de la Institución sobre el ejercicio de sus funciones y la prestación del servicio.
+XI. Ejercitar las acciones penales y civiles que dimanan de delitos o de situaciones jurídicas en que exista interés público u oponerse a las ejercitadas por otros, cuando proceda;
 
-XI. Nombrar y remover de conformidad con esta Ley y las demás aplicables a los Sub procuradores, Directores Generales, Regionales, Delegados Regionales y en general a los titulares y demás funcionarios de la Procuraduría; siempre y cuando el nombramiento no este reservado al Gobernador. Además conceder licencias y aceptar renuncias de los servidores públicos de la Procuraduría.
+XII. Suministrar al Gobernador información sobre las investigaciones cuando sea necesario para la preservación del orden público;
 
-XII. Autorizar los cambios de adscripción de los funcionarios de la Institución.
+XIII. Elaborar cada año el proyecto de presupuesto de la Procuraduría y hacerlo llegar al Gobernador, para su inclusión en el presupuesto de egresos. Por la especialidad de la función, cualquier modificación deberá ser puesta a consideración del Procurador para que fundamente las necesidades planteadas o establezca prioridades;
 
-XIII. Emitir los acuerdos con relación a la aplicación de los criterios de oportunidad, las formas de terminación anticipada de la investigación y salidas alternas.
+XIV. Poner en conocimiento del Pleno del Tribunal Superior de Justicia del Estado las tesis que estime contradictorias para su depuración;
 
-XIV. Resolver por sí o a través del Subprocurador de Control de Juicios y Constitucionalidad, las inconformidades interpuestas por la víctima u ofendido en contra de las determinaciones del Ministerio Público sobre su negativa u omisión en determinados actos de investigación o el no ejercicio de la acción penal.
+XV. Presidir el Consejo Interior de Normatividad, Planeación y Evaluación;
 
-XV. Establecer las directrices del Programa de Protección y Asistencia a víctimas, testigos e intervinientes.
+XVI. Establecer las bases de organización de la Institución;
 
-XVI. Conocer y resolver sobre las excusas y recusaciones interpuestas contra los Agentes del Ministerio Público.
+XVII. Asegurar la autonomía técnica del Ministerio Público;
 
-XVII. Contratar profesionales, técnicos, expertos y asesores especializados en los casos donde se requiera.
+XVIII. Determinar la política institucional del Ministerio Público, así como los criterios y prioridades en la persecución e investigación de los delitos, y en su caso, el ejercicio de la acción penal;
 
-XVIII. Comparecer ante el Congreso del Estado para informar sobre los asuntos a su cargo.
+XIX. Dictar los criterios generales que deberán regir la protección y atención a víctimas, ofendidos, testigos del delito, de acuerdo a lo establecido por las leyes existentes en tal materia;
 
-XIX. Solicitar, según proceda, ante el Juez de Distrito competente, la intervención de comunicaciones entre particulares, cuando sea necesario para el éxito de las investigaciones o el esclarecimiento de los hechos considerados por la ley como delitos.
+XX. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la institución y ejercer la disciplina entre sus integrantes;
 
-XX. Administrar los recursos destinados para la procuración de justicia, de acuerdo a la partida del presupuesto de egresos del Estado.
+XXI. Coadyuvar en la Política Estatal de Seguridad Publica y Prevención del Delito;
 
-XXI. Celebrar convenios de colaboración con las autoridades federales y con los gobiernos del Distrito Federal, de los estados integrantes de la federación y municipios, de conformidad con la Constitución General y esta ley.
+XXII. Coadyuvar en la Política Criminal del Estado en los términos en que prevengan las leyes;
 
-XXII. Dirigir, conservar y fomentar las relaciones con la Procuraduría General de la República y con las procuradurías u organismos responsables de la investigación y persecución de los delitos.
+XXIII. Emitir instrucciones generales o particulares, al personal de la Institución sobre el ejercicio de sus funciones y la prestación del servicio;
 
-XXIII. Dirigir, conservar y fomentar las relaciones con las secretarías y dependencias de la Federación, del Distrito Federal, de los estados y municipios.
+XXIV. Proponer al Gobernador la designación de Subprocuradores y Directores Generales;
 
-XXIV. Asistir a las Conferencias Nacionales e Internacionales de Procuración de Justicia, así como los Congresos y reuniones nacionales e internacionales o sus equivalentes y hacer que se cumplan en el estado los acuerdos legítimamente tomados, siempre y cuando hayan sido aprobados de conformidad con lo establecido en la Constitución General y la Constitución del estado, según corresponda.
+XXV. Suspender de conformidad con esta Ley y las demás aplicables a los Directores, Subdirectores, Directores Regionales, Delegados Regionales y en general a los titulares y demás funcionarios de la Procuraduría. Además conceder licencias y aceptar renuncias de los servidores públicos de la Procuraduría;
 
-XXV. Solicitar y recabar de las autoridades, instituciones públicas o privadas, o de personas físicas los informes, datos, copias, certificaciones, o cualquier documento que necesitare para el ejercicio de sus funciones, en los términos de las disposiciones aplicables.
+XXVI. Emitir los acuerdos con relación a la aplicación de los criterios de oportunidad, las formas de terminación anticipada de la investigación y salidas alternas;
 
-XXVI. Ser responsable por la actuación de la Procuraduría ante las demás instituciones del estado y de la sociedad.
+XXVII. Resolver por sí o a través del Subprocurador de Control de Juicios y Constitucionalidad, las inconformidades interpuestas por la víctima u ofendido en contra de las determinaciones del Agente del Ministerio Público sobre su negativa u omisión en determinados actos de investigación o el no ejercicio de la acción penal;
 
-XXVII. Representar a la Institución en todos los negocios en que ésta sea parte o tenga interés jurídico, que podrá ejercer directamente o a través del Subprocurador Jurídico, de Derechos Humanos, Profesionalización y Proyectos.
+XXVIII. Establecer las directrices para la creación de los Programas de Protección y Asistencia a Víctimas, Testigos e Intervinientes;
 
-XXVIII. Nombrar a los Coordinadores, Agentes del Ministerio Público, Mandos Policiales, Policías y Peritos, de conformidad con las disposiciones del Servicio Profesional de Carrera, siempre que dichos funcionarios se encuentren dentro del régimen; en caso contrario, podrán ser nombrados entre aquellos que reúnan los requisitos previstos en la ley y removidos libremente.
+XXIX. Conocer y resolver sobre las excusas y recusaciones interpuestas contra los Agentes del Ministerio Público;
 
-XXIX. Las demás que otros ordenamientos le confieran.
+XXX. Contratar profesionales, técnicos, expertos y asesores especializados en los casos donde se requiera;
+
+XXXI. Comparecer ante el Congreso del Estado, previa anuencia del Gobernador del Estado, para informar sobre los asuntos a su cargo, cuando se discuta una ley o se estudie un negocio concerniente a la Procuraduría. En esas comparecencias y bajo la responsabilidad del Procurador, sólo podrá reservarse la información que ponga en riesgo alguna investigación o aquella que conforme a la ley se encuentre sujeta a reserva;
+
+XXXII. Solicitar, según proceda, ante el Juez de Distrito competente, la intervención de comunicaciones entre particulares, cuando sea necesario para el éxito de las investigaciones o el esclarecimiento de los hechos considerados por la ley como delitos;
+
+XXXIII. Administrar los recursos destinados para la procuración de justicia, de acuerdo a la partida del presupuesto de egresos del Estado;
+
+XXXIV. Celebrar convenios de colaboración con las autoridades federales y con los gobiernos del Distrito Federal, de los estados integrantes de la federación y municipios, de conformidad con la Constitución General y esta ley;
+
+XXXV. Dirigir, conservar y fomentar las relaciones con la Procuraduría General de la República y con las procuradurías u organismos responsables de la investigación y persecución de los delitos;
+
+XXXVI. Dirigir, conservar y fomentar las relaciones con las secretarías y dependencias de la federación, del Distrito Federal, de los estados y municipios;
+
+XXXVII. Asistir a las Conferencias Nacionales e Internacionales de Procuración de Justicia, así como los Congresos y reuniones nacionales e internacionales o sus equivalentes y hacer que se cumplan en el estado los acuerdos legítimamente tomados, siempre y cuando hayan sido aprobados de conformidad con lo establecido en la Constitución General y la Constitución del Estado, según corresponda;
+
+XXXVIII. Solicitar y recabar de las autoridades, instituciones públicas o privadas, o de personas físicas los informes, datos, copias, certificaciones, o cualquier documento que necesitare para el ejercicio de sus funciones, en los términos de las disposiciones aplicables;
+
+XXXIX. Ser responsable por la actuación de la Procuraduría ante las demás instituciones del estado y de la sociedad;
+
+XL. Representar a la Institución en todos los negocios en que ésta sea parte o tenga interés jurídico, que podrá ejercer directamente o a través del Subprocurador Jurídico, de Derechos Humanos, Profesionalización y Proyectos;
+
+XLI. Promover los juicios de control constitucional federales o locales, en los casos en que esté facultado por la ley o cuente con la representación legal para ello. Para el seguimiento de los procedimientos podrá designar representantes especiales, o delegados;
+
+XLII. Atender las obligaciones y relaciones con los Poderes Públicos y las dependencias del Poder Ejecutivo Federal, en los términos de la legislación aplicable;
+
+XLIII. Celebrar convenios de colaboración en materia de procuración de justicia, así como respecto a la extradición de imputados, procesados y sentenciados y las formas en que deban desarrollarse las funciones de auxilio en estos casos;
+
+XLIV. Presentar anualmente, por escrito, el informe de actividades de la Procuraduría, ante el Gobernador del Estado;
+
+XLV. Crear o modificar las unidades administrativas internas de la Procuraduría;
+
+XLVI. Cumplir con los deberes y atribuciones inherentes a la titularidad de la licencia oficial colectiva de armas, expedida por la Secretaría de la Defensa Nacional;
+
+XLVII. Resolver el recurso de revisión interpuesto en contra de las resoluciones emitidas por la Dirección General de Responsabilidades, en virtud de los procedimientos de responsabilidad administrativa sustanciados ante dicha dirección;
+
+XLVIII. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de la Comisión Nacional y de la Comisión de los Derechos Humanos del Estado;
+
+XLIX. Dirigir y coordinar las funciones de la Policía Investigadora, así como los demás organismos que señale la ley;
+
+L. Solicitar a cualquier órgano de la administración pública del estado, la comisión de servidores públicos, para que participen como auxiliares en las labores de la Procuraduría. Dichas comisiones tendrán la duración que se indique en el acuerdo correspondiente;
+
+LI. Tomar parte, en defensa de la legalidad y del interés público y social, en los procesos relativas (sic) al estado civil en los que se controviertan derechos difusos y en los demás casos que establezca la ley;
+
+LII. Asumir o promover la representación y defensa en juicio y fuera de él, de quien por carecer de capacidad de obrar o de representación legal, no pueda actuar por sí mismo;
+
+LIII. Defender el interés superior de la niñez en los procedimientos judiciales y administrativos;
+
+LIV. Ejercer por sí o por conducto de la subprocuraduría que corresponda, las acciones tendientes a establecer la responsabilidad del adolescente por los hechos punibles en que incurra, de acuerdo con lo previsto en la ley que rige la materia;
+
+LV. Fijar los criterios que deban aplicarse en materia de recursos humanos, remuneraciones, inversiones, gastos de los fondos respectivos, de planificación del desarrollo, administración y de finanzas de la institución observando, en todo caso, lo dispuesto en la ley y demás ordenamientos aplicables;
+
+LVI. Implementar los controles internos que permitan conocer y evaluar la eficiencia y oportunidad de su gestión de cada uno de los servidores públicos de la Procuraduría, en los términos de las leyes aplicables;
+
+LVII. Conceder los estímulos, reconocer los méritos y otorgar las menciones que procedan a los servidores públicos de la Procuraduría. Respecto a los integrantes de las instituciones ministerial, pericial y policial, deberá observar el modelo y la normatividad aplicable;
+
+LVIII. Suscribir, como representante legal de la Procuraduría todo acto jurídico de la naturaleza que fuere requerido para el buen funcionamiento de la misma;
+
+LIX. Crear consejos de asesores y de apoyo que coadyuven en la solución de la problemática que generan las distintas actividades de la institución;
+
+LX. Solicitar el apoyo de las autoridades federales, estatales y municipales, cuando ello sea necesario para el ejercicio de sus funciones;
+
+LXI. Autorizar los gastos y viáticos que resulten necesarios para el buen funcionamiento de la Procuraduría, y
+
+LXII. Las demás que otros ordenamientos le confieran.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 12.
 
 Atribuciones indelegables del Procurador como jefe del Ministerio Público
 
-Corresponde al Procurador ejercer en forma personal y directa las atribuciones señaladas en las fracciones I, III, IV, IX, XI, XII, XIII, XV, XIX, XXI y XXVI del artículo 10 de esta Ley.
+Corresponde al Procurador ejercer en forma personal y directa las atribuciones indelegables señaladas en las fracciones I, IV, V, VII, VIII, XIV, XV, XVI, XVIII, XIX, XXIV, XXV, XXVI, XXXI, XXXII, XXXIV, XLI, XLII, XLIII, XLIV, XLV, XLVII, y LVII del artículo 11 de esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 13.
 
 Atribuciones complementarias
 
-Además de las atribuciones y deberes señalados en esta Ley, el Procurador General de Justicia en el Estado, tendrá todas aquellas facultades y obligaciones previstas en los Códigos, Leyes y Reglamentos aplicables en cuanto no se opongan a la presente ley.
+Además de las atribuciones y deberes señalados en esta Ley, el Procurador, tendrá todas aquellas facultades y obligaciones previstas en los Códigos, Leyes y Reglamentos aplicables en cuanto no se opongan a la presente ley.
 
-### CAPÍTULO II. Del Procurador General de Justicia del Estado y de los requisitos para ser designado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
+
+### CAPITULO II. Del Procurador y de los requisitos para ser designado
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 14.
 
 De los requisitos para ser Procurador
 
-Para ser designado Procurador de Justicia, se requiere:
+Para ser designado Procurador, se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
 
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación.
 
-III. Contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada y contar con cédula profesional.
+III. Contar, con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente y contar con una antigüedad mínima de 10 años en el ejercicio de la profesión.
 
 IV. Gozar de buena reputación, y no haber sido condenado por delito doloso.
 
@@ -329,15 +435,13 @@ V. No estar suspendido ni haber sido destituido o inhabilitado por resolución f
 
 VI. Contar con cinco años de residencia en el Estado, anteriores al día de la designación.
 
-VII. En su caso, tener acreditado el Servicio Militar Nacional.
-
-VIII. Presentar y aprobar las evaluaciones de control de confianza previstas en las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 15.
 
 Protesta
 
-El titular de la Procuraduría, antes de tomar posesión de su cargo, deberá de rendir la protesta de ley ante el Gobernador del Estado. Y ser ratificado por el Congreso.
+El Procurador, antes de tomar posesión de su cargo, deberá de ser ratificado por el Congreso del Estado y rendir la protesta de ley ante el Gobernador del Estado.
 
 ###### Artículo 16.
 
@@ -351,133 +455,183 @@ Incompatibilidades
 
 El cargo de Procurador, será incompatible con cualquier otro empleo o comisión al servicio del gobierno federal, estatal y municipal, organismos desconcentrados o descentralizados o de personas físicas, así como con el ejercicio libre de la profesión de abogado. Sin embargo podrá realizar labores docentes y actividades de investigación académica.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 18.
 
 Estructura de la Procuraduría
 
 La Procuraduría contará para el cumplimiento de sus funciones y la prestación de los servicios a su cargo con la estructura orgánica siguiente:
 
-Administración Central:
-
 1. Despacho del Procurador:
 
-1.1 Secretaría Particular.
+1.1 Jefe del Despacho del Procurador.
 
-1.2 Dirección General de Responsabilidades
+1.2 Secretaría Técnica.
 
-1.3 Dirección General Administrativa
+1.3 Dirección General de Responsabilidades.
 
-1.4 Dirección General de Relaciones Públicas
+1.4 Dirección General Administrativa.
 
-1.5 Dirección General de Implementación del nuevo Sistema de Justicia Penal.
+1.5 Dirección General de Vinculación y Relaciones Públicas.
 
-1.6 Dirección General de Servicios Periciales
+1.6 Dirección General de Servicios Periciales.
 
-1.7 Dirección General de Informática y Sistemas.
+1.7 Dirección General de Informática y Telecomunicaciones.
 
-2. Subprocuradurías.
+1.8 Dirección General de Comunicación Social y Vocería.
 
-2.1 Subprocuraduría Ministerial
+1.9 Coordinación General de Análisis de Información y de Inteligencia Patrimonial y Económica
 
-2.1.1 Coordinación General de Investigaciones
+2. Consejo Interior de Normatividad, Planeación y Evaluación.
 
-2.1.2 Dirección General de Unidades de Atención Integral
+3. Subprocuradurías.
 
-2.1.3 Dirección General de Unidades de Justicia Alternativa
+3.1 Subprocuraduría Ministerial.
 
-2.1.4 Dirección General de Unidades de Investigación
+3.1.1 Dirección General de Unidades de Investigación.
 
-2.1.5 Dirección General de Policía Investigadora
+3.1.2 Dirección General de la Policía Investigadora.
 
-2.1.6 Dirección General de Narcomenudeo
+3.1.3 Dirección de Bienes Asegurados.
 
-2. 1.7 Dirección General de Delitos de Secuestro
+3.1.4 Dirección de Centros de Operaciones Estratégicas
 
-2.1.8 Unidad de Control de Gestión
+3.1.5 Unidad de Control Vehicular.
 
-2.1.9 Unidad de Análisis e Información
+3.1.6 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
 
-2.1.10 Las subdirecciones, coordinaciones y unidades necesarias
+3.2 Subprocuraduría de Control de Juicios y Constitucionalidad.
 
-2.2 Subprocuraduría de Control de Juicios y Constitucionalidad
+3.2.1 Secretaría Técnica.
 
-2.2.1 Dirección General de Control de Juicios
+3.2.2 Dirección General de Control de Juicios.
 
-2.2.2 Dirección General de Control de Procesos
+3.2.3 Dirección General de Control de Procesos.
 
-2.2.2.1 Dirección Regional de Control de Procesos
+3.2.3.1 Dirección Regional de Control de Procesos.
 
-2.2.3 Dirección General de Control de Constitucionalidad
+3.2.4 Dirección General de Control de Constitucionalidad.
 
-2.2.4 Unidad de Control de Gestión
+3.2.5 Unidad de Control de Gestión.
 
-2.2.5 Las subdirecciones, coordinaciones y unidades necesarias
+3.2.6 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
 
-2.3 Subprocuraduría Jurídica, de Derechos Humanos, Profesionalización y Proyectos.
+3.3 Subprocuraduría Jurídica, de Derechos Humanos, Profesionalización y Proyectos.
 
-2.3.1 Dirección General Jurídica, de Derechos Humanos y Consultiva.
+3.3.1 Secretaría Técnica.
 
-2.3.2 Dirección General del Centro de Profesionalización, Acreditación, Certificación, y Carrera.
+3.3.2 Dirección General Jurídica, de Derechos Humanos y Consultiva.
 
-2.3.2.1 Dirección del Instituto de Estudios Penales y Formación Profesional
+3.3.3 Centro de Profesionalización, Acreditación, Certificación, y Carrera.
 
-2.3.2.2 Dirección de Servicio Profesional y Civil de Carrera
+3.3.3.1 Dirección del Instituto de Estudios Penales y Formación Profesional.
 
-2.3.3 Dirección General de Política Criminal
+3.3.3.2 Dirección de Servicio Profesional y Civil de Carrera.
 
-2.3.4 Dirección de Administración Documental
+3.3.4 Dirección General de Política Criminal.
 
-2.3.5 Unidad de Control de Gestión
+3.3.5 Dirección de Administración Documental.
 
-2.3.6 Las subdirecciones, Coordinaciones y unidades necesarias
+3.3.6 Unidad de Control de Gestión.
 
-2.4 Subprocuraduría de Investigación y búsqueda de personas No localizadas y Atención a Víctimas, Ofendidos y Testigos.
+3.3.7 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
 
-2.4.1 Secretaria Técnica
+3.4 Subprocuraduría de Investigación y Búsqueda de Personas No Localizadas y Atención a Víctimas, Ofendidos y Testigos.
 
-2.4.2 Control de Gestión y Base de Datos
+3.4.1 Secretaria Técnica.
 
-2.4.3 Dirección General de Atención y Protección a Víctimas y Testigos.
+3.4.2 Control de Gestión y Base de Datos.
 
-2.4.4 Dirección General de Investigación y Búsqueda de Personas no localizadas.
+3.4.3 Dirección General de Atención y Protección a Víctimas y Testigos.
 
-2.4.5 Dirección General de Medios Alternos y Solución de Conflictos.
+3.4.4 Dirección General de Investigación y Búsqueda de Personas No Localizadas.
 
-2.4.6 Las subdirecciones, Coordinaciones y unidades necesarias
+3.4.5 Dirección General de Medios Alternos de Solución de Conflictos.
 
-2.5 Subprocuraduría Especializada para la Atención de Delitos Electorales.
+3.4.6 Dirección de Vinculación y Enlace Interinstitucional.
 
-2.5.1 Departamento de Investigaciones en Materia de Delitos Electorales.
+3.4.7 Dirección de Atención y Seguimiento a colaboraciones y derechos humanos.
 
-2.5.2 Departamento de Control de Procesos en Materia de Delitos Electorales.
+3.4.8 Coordinación Estatal para la Investigación y Búsqueda de Personas No Localizadas, Alerta Amber y Extraviados.
 
-2.5.3 Departamento de Biblioteca, Difusión y Prevención de Delitos
+3.4.9 Coordinación Estatal para la Investigación del Delito de Secuestro.
 
-2.6 Aquellas Subprocuradurías especiales o especializadas previstas en las leyes.
+3.4.10 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
 
-3. Delegaciones Regionales.
+3.5 Subprocuraduría Especializada para la Atención de Delitos Electorales.
 
-4. Agencias Especiales o Especializadas según lo ameriten las necesidades del servicio de procuración de justicia.
+3.5.1 Dirección de Investigaciones en Materia de Delitos Electorales.
+
+3.5.2 Dirección de Control de Procesos en Materia de Delitos Electorales.
+
+3.5.3 Dirección de Biblioteca, Difusión y Prevención de Delitos Electorales.
+
+3.6 Subprocuraduría de Investigaciones Especiales, Atención a Delitos Contra Mujeres por Razón de Género, Trata de Personas, Libertad de Expresión y Servicios a la Comunidad.
+
+3.6.1 Secretaría Técnica
+
+3.6.2 Dirección General de Operación y Estrategia.
+
+3.6.2.1 Subdirección de Reacción inmediata
+
+3.6.2.1.1 Unidad de Investigación de Violencia contra las Mujeres
+
+3.6.2.2 Coordinación de Unidades de Investigación
+
+3.6.2.2.1 Unidad de Investigación de Feminicidios
+
+3.6.2.2.2 Unidad de Investigación del Delito de Trata de Personas
+
+3.6.2.2.3 Unidad de Investigación de Delitos contra la Libertad de Expresión
+
+3.6.3 Dirección General de Investigaciones Especiales.
+
+3.6.3.1 Unidad de Investigación de Delitos de Alto Impacto Social.
+
+3.6.4 Dirección de Servicios a la Comunidad.
+
+3.6.4.1 Subdirección de Vinculación.
+
+3.6.5 Unidad de Control de Gestión.
+
+3.7 Aquellas Subprocuradurías especiales o especializadas previstas en las leyes.
+
+4. Delegaciones Regionales.
+
+5. Unidades Especiales o Especializadas según lo ameriten las necesidades del servicio de procuración de justicia.
 
 El Procurador, podrá crear o suprimir subprocuradurías especiales o especializadas, unidades administrativas, centros, direcciones generales, jefaturas y en general cualquiera que sea su denominación, conforme lo permitan las partidas presupuestales respectivas.
 
-### CAPÍTULO III. De las relaciones del titular de la Procuraduría con los Poderes Públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
+
+### CAPÍTULO III. De las relaciones del Procurador con los Poderes Públicos
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 19.
 
 De las relaciones con los poderes públicos del Estado
 
-En el cumplimiento de su encomienda constitucional, el Procurador General de Justicia del Estado se relaciona con los Poderes Públicos del Estado, cuya interacción se regula en forma institucional en los términos siguientes.
+En el cumplimiento de su encomienda constitucional, el Procurador se relaciona con los Poderes Públicos del Estado, cuya interacción se regula en forma institucional en los términos siguientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 20.
 
-Relaciones con el Poder Ejecutivo
+Relaciones del Procurador con el Poder Ejecutivo
 
-En la relación del Procurador General de Justicia del Estado con el Titular del Poder Ejecutivo, se observaran las reglas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
 
-I. El Procurador formara parte del Gabinete Legal del Gobernador.
+En la relación del Procurador con el Gobernador, se observarán las reglas siguientes:
 
-II. Participara y, en su caso, coordinará las comisiones intersecretariales que el Gobernador disponga.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+I. El Procurador formará parte del Gabinete Legal del Gobernador.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+II. Participará y, en su caso, coordinará las comisiones intersecretariales que el Gobernador disponga.
 
 III. Presentará al Gobernador los informes que le solicite y los que considere que deba hacer de su conocimiento.
 
@@ -485,17 +639,21 @@ IV. Informará al Gobernador de los abusos, irregularidades y deficiencias que, 
 
 V. Las demás que le atribuyan las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 21.
 
-Relaciones con el Poder Legislativo
+Relaciones del Procurador con el Poder Legislativo
 
-El Procurador General de Justicia del Estado, previa solicitud del Legislativo al Gobernador, podrá concurrir ante el Congreso cuando las Leyes que se discutan sean de su competencia.
+El Procurador, previa solicitud del Legislativo al Gobernador, podrá comparecer ante el Congreso cuando las leyes o asuntos que se discutan sean de su competencia.
 
 ###### Artículo 22.
 
-De las relaciones entre el Procurador y el Poder Judicial del Estado
+De las relaciones entre el Procurador y el Poder Judicial del Estado.
 
-El Titular de la Procuraduría tendrá los siguientes deberes y atribuciones en relación con el Poder Judicial del Estado:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
+
+El Procurador tendrá los siguientes deberes y atribuciones en relación con el Poder Judicial del Estado:
 
 I. Asistir al Pleno del Tribunal Superior de Justicia del Estado o del Consejo de la Judicatura en los casos y con las facultades previstas en la Ley Orgánica del Poder Judicial y la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza.
 
@@ -523,35 +681,33 @@ De las relaciones entre el Procurador, los órganos constitucionales autónomos 
 
 Las relaciones entre el Procurador, los órganos autónomos y los Municipios se regirán por las disposiciones de las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 24.
 
 Las Subprocuradurías
 
-Las Subprocuradurías serán los órganos auxiliares del titular de la Procuraduría para el gobierno, conducción y cumplimiento de las funciones de la Institución; tendrán los deberes y atribuciones que les confiere esta Ley y su Reglamento.
+Las Subprocuradurías serán los órganos auxiliares del Procurador para el gobierno, conducción y cumplimiento de las funciones de la Institución; tendrán los deberes y atribuciones que les confiere esta Ley y su Reglamento.
 
-###### Artículo 25.
-
-Responsabilidad
-
-Cada Subprocurador será responsable ante el titular de la Procuraduría de los asuntos de su competencia.
+Cada Subprocurador será responsable ante el Procurador de los asuntos de su competencia.
 
 Los subprocuradores, en el ámbito de sus respectivas competencias, tienen las siguientes atribuciones y deberes generales:
 
-I. Acordar con el titular de la Procuraduría el despacho de los asuntos de su competencia.
+I. Acordar con el Procurador el despacho de los asuntos de su competencia.
 
-II. Desempeñar las funciones y comisiones que les encomiende el titular de la Procuraduría en el despacho de los asuntos de su competencia, e informarle sobre el desarrollo y el resultado de las mismas.
+II. Desempeñar las funciones y comisiones que les encomiende el Procurador en el despacho de los asuntos de su competencia, e informarle sobre el desarrollo y el resultado de las mismas.
 
-III. Suplir al titular de la Procuraduría en los términos señalados en este ordenamiento o su reglamento.
+III. Suplir al Procurador en los términos señalados en este ordenamiento o su reglamento.
 
-IV. Someter a la aprobación del titular de la Procuraduría los estudios y proyectos que elaboren bajo su responsabilidad y que así lo ameriten.
+IV. Someter a la aprobación del Procurador los estudios y proyectos que elaboren bajo su responsabilidad y que así lo ameriten.
 
-V. Dictaminar los asuntos turnados por el titular de la Procuraduría.
+V. Dictaminar los asuntos turnados por el Procurador.
 
-VI. Proponer al titular de la Procuraduría la expedición de manuales, acuerdos, criterios, instrucciones y circulares.
+VI. Proponer al Procurador la expedición de manuales, acuerdos, criterios, instrucciones y circulares.
 
-VII. Dirigir, controlar, vigilar y evaluar el ejercicio de las atribuciones de las direcciones y dependencias de su adscripción, mando o autoridad.
+VII. Dirigir, controlar, vigilar y evaluar el ejercicio de las atribuciones de las unidades administrativas de su adscripción, mando o autoridad.
 
-VIII. Acordar con los directores generales de su adscripción y con los delegados regionales en los asuntos de su competencia.
+VIII. Acordar con los directores generales de su adscripción y con los delegados regionales en los asuntos de su competencia o aquellos asuntos encomendados por el Procurador.
 
 IX. Recibir en acuerdo extraordinario a cualquier otro servidor público.
 
@@ -563,7 +719,7 @@ XII. Revisar los escritos, dictámenes y opiniones que le remitan los funcionari
 
 XIII. Formular los anteproyectos de presupuesto y de los programas correspondientes a su área.
 
-XIV. Proporcionar la información o cooperación técnica que requiera el titular de la Procuraduría.
+XIV. Proporcionar la información o cooperación técnica que requiera el Procurador.
 
 XV. Vigilar que en los asuntos de su competencia se dé cumplimiento a los ordenamientos y a las demás disposiciones que resulten aplicables.
 
@@ -573,13 +729,41 @@ XVII. Vigilar el buen despacho de los asuntos a su cargo, atendiendo oportunamen
 
 XVIII. Preparar para su aprobación, el plan de trabajo y los proyectos correspondientes a su responsabilidad.
 
-XIX. Proponer al titular de la Procuraduría cuando sea procedente, la terminación del nombramiento del personal a su cargo.
+XIX. Proponer al Procurador cuando sea procedente, la terminación del nombramiento del personal a su cargo.
 
-XX. Notificar y hacer cumplir las resoluciones o acuerdos emitidos por el titular de la Procuraduría.
+XX. Notificar y hacer cumplir las resoluciones o acuerdos emitidos por el Procurador.
 
 XXI. Dirigir las delegaciones regionales en las áreas de sus competencias.
 
 XXII. Las demás que les confieran esta ley y los demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 25.
+
+Del régimen de suplencias y sustituciones
+
+A. Las ausencias temporales del Procurador serán cubiertas en el siguiente orden:
+
+I. Por el Subprocurador Ministerial.
+
+II. Por el Subprocurador de Control de Juicios y Constitucionalidad.
+
+III. Por el Subprocurador Jurídico, de Derechos Humanos, Profesionalización y Proyectos.
+
+IV. Por el Subprocurador de Investigación y Búsqueda de Personas no Localizadas y Atención a Víctimas, Ofendidos y Testigos.
+
+V. Por el Subprocurador Especializado para la Atención de Delitos Electorales.
+
+VI. Por el Subprocurador de Investigaciones Especiales, Atención a Delitos Contra Mujeres por Razón de Género, Trata de Personas, Libertad de Expresión y Servicios a la Comunidad.
+
+VII. A falta de todos los anteriores, en primer término por el Director General de Unidades de Investigación y en segundo término por el Director General de Control de Procesos.
+
+B. En caso de ausencia definitiva del Procurador, desempeñará el cargo el Subprocurador que designe el Gobernador con carácter de encargado del despacho, hasta que asuma el cargo el nuevo titular.
+
+C. Los subprocuradores y los otros servidores públicos de la Procuraduría, en las ausencias temporales serán suplidos por el servidor público que le siga en jerarquía; y en las ausencias definitivas, por el servidor público que le siga en jerarquía hasta en tanto se designe al nuevo titular.
+
+Los Agentes del Ministerio Público en sus ausencias temporales serán suplidos por otro Agente del Ministerio Público previo acuerdo del Delegado Regional.
 
 ###### Artículo 26.
 
@@ -587,11 +771,17 @@ Requisitos para ser Subprocurador
 
 Para ocupar este cargo se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-II. Tener cuando menos treinta años cumplidos el día de la designación.
+I. Ser ciudadano mexicano por nacimiento o por naturalización, en pleno ejercicio de sus derechos.
 
-III. Contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada y contar con cédula profesional.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+II. Tener cuando menos treinta y dos años cumplidos el día de la designación.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+III. Contar con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente y contar con una antigüedad mínima de 10 años en el ejercicio de la profesión.
 
 IV. Gozar de buena reputación, y no haber sido condenado por delito doloso.
 
@@ -621,27 +811,37 @@ IV. La revisión cuando lo juzgue conveniente de las determinaciones de no ejerc
 
 V. Las demás que establezcan las leyes.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 28.
 
-Deberes atribuciones (sic) de la Subprocuraduría de Control de Juicios y Constitucionalidad.-
+Deberes y atribuciones de la Subprocuraduría de Control de Juicios y Constitucionalidad
 
-Esta Subprocuraduría tendrá los deberes y atribuciones que le corresponden en materia de procuración de justicia, particularmente las que tienen que ver con la persecución de los delitos mediante el ejercicio de la acción penal, la acción de remisión y la revisión de las opiniones de no ejercicio.
+Estará a cargo de un subprocurador, quien tendrá los deberes y atribuciones que le sean conferidos por la Constitución General, la Constitución del Estado, la presente ley y los demás ordenamientos aplicables tanto en el sistema de justicia mixto tradicional, como en el de justicia acusatorio adversarial en materia de procuración de justicia, y particularmente las siguientes:
 
-El Subprocurador de Control de Juicios y Constitucionalidad será el responsable de dirigir, controlar y supervisar las siguientes funciones:
+I. La persecución de los delitos mediante el ejercicio de la acción penal.
 
-I. La persecución de los delitos ante los órganos jurisdiccionales de primera y segunda instancia del Estado; así como las conductas tipificadas como delitos cometidos por menores de dieciocho años.
+II. La acción de remisión en tratándose de menores infractores.
 
-II. La emisión, formalización y desahogo de vistas.
+III. La revisión de las consultas de no ejercicio.
 
-III. La revisión, cuando proceda, de las opiniones de no ejercicio de la acción penal.
+IV. La expresión de agravios y desahogo de vistas que correspondan a los recursos que se tramiten ante las salas del Tribunal Superior de Justicia del Estado.
 
-IV. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
+V. Dirigir, controlar, vigilar y supervisar que los Agentes del Ministerio Público tengan una adecuada y eficaz intervención en el desarrollo del proceso penal.
+
+VI. Emitir los lineamientos y directrices necesarios para que las actuaciones de los Agentes del Ministerio Público sean eficaces, eficientes y de calidad.
+
+VII. Resolver el recurso de inconformidad con respecto al acuerdo de abstención de investigar, el archivo temporal y la aplicación de los criterios de oportunidad decretados por los Agentes del Ministerio Público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 29.
 
-Deberes y atribuciones de la Subprocuraduría Jurídica, de Derechos Humanos, de Profesionalización y de Proyectos.
+Deberes y atribuciones de la Subprocuraduría Jurídica, de Derechos Humanos, Profesionalización y Proyectos
 
-Esta subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, de acuerdo con lo establecido en la constitución general, en la constitución del estado, en esta ley y los demás ordenamientos aplicables, y específicamente en lo relativo a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
+
+Esta Subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, de acuerdo con lo establecido en la Constitución General, en la Constitución del Estado, en esta ley y los demás ordenamientos aplicables, y específicamente en lo relativo a:
 
 I. Actividades de consultoría y asesoría jurídica.
 
@@ -655,43 +855,75 @@ V. Política Criminal
 
 VI. Administración documental.
 
-VII. Las demás que establezcan las leyes.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+VII. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 30.
 
-Deberes y atribuciones de la Subprocuraduría para la Investigación y Búsqueda de Personas no Localizadas y Atención a Víctimas, Ofendidos y Testigos.-
+Deberes y atribuciones de la Subprocuraduría de Investigación y Búsqueda de Personas no Localizadas y Atención a Víctimas, Ofendidos y Testigos
 
-Esta subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, de acuerdo con lo establecido en la constitución general, en la constitución del estado, en esta ley y los demás ordenamientos aplicables.
+Esta subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, de acuerdo con lo establecido en la Constitución General, en la Constitución del Estado, en esta ley y los demás ordenamientos aplicables.
 
-El subprocurador de investigación y búsqueda de personas no localizadas, será el competente para dirigir y supervisar las actividades siguientes:
+El Subprocurador de Investigación y Búsqueda de Personas No Localizadas, Atención y a Víctimas, Ofendidos y Testigos, será el competente para dirigir y supervisar las actividades siguientes:
 
 I. Planear, programar, organizar, dirigir, supervisar y evaluar el desarrollo de las funciones de la subprocuraduría a su cargo.
 
-II. Coordinar a los Agentes del Ministerio Público en la investigación y persecución de los delitos relacionados con la desaparición de personas, así como al personal policial, pericial y administrativo a su cargo.
+II. Supervisar la actuación de los Agentes del Ministerio Público en la investigación y persecución de los delitos relacionados con la desaparición de personas, así como del personal policial y administrativo a su cargo.
 
 III. Diseñar, instrumentar y coordinar el programa estatal de búsqueda de personas no localizadas.
 
 IV. Llevar la información estadística de las investigaciones.
 
-V. Las demás que sean consecuencia de sus funciones y necesarias para el buen funcionamiento de la subprocuraduría que le encomiende el Procurador.
+V. Planear, programar, organizar, dirigir, supervisar y evaluar el desarrollo de las funciones tendientes a la protección de víctimas y testigos.
+
+VI. Planear, programar, organizar, dirigir, supervisar y evaluar el desarrollo de las funciones en relación a los medios alternos de solución de conflictos.
+
+VII. Ser enlace con las unidades administrativas federales, estatales y municipales vinculadas con las funciones a su cargo.
+
+VIII. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 31.
 
-Deberes y Atribuciones de la Subprocuraduría Electoral.-
+Deberes y Atribuciones de la Subprocuraduría Especializada para la Atención de Delitos Electorales
 
-Al frente de la Subprocuraduría habrá un Subprocurador Especializado, que gozará de plena autonomía jurídica, técnica y funcional y será nombrado en términos del artículo 322 de la Ley de Procuración de Justicia del Estado de Coahuila, tendrá todos los deberes y atribuciones que le correspondan en la investigación de delitos de naturaleza electoral, que le sean conferidas en la Constitución General, en la Constitución del Estado, en la Ley de Procuración de Justicia, en el acuerdo publicado en el Periódico Oficial por el que se crea esta Subprocuraduría de fecha l de junio de 2012 y demás ordenamientos aplicables.
+Al frente de la Subprocuraduría habrá un Subprocurador Especializado, que gozará de plena autonomía jurídica, técnica y funcional, tendrá todos los deberes y atribuciones que le correspondan en la investigación de delitos de naturaleza electoral, que le sean conferidas en la Constitución General, en la Constitución del Estado, en esta ley y demás ordenamientos aplicables.
 
 El Subprocurador Especializado para la Atención de Delitos Electorales será el responsable de dirigir, controlar y supervisar las siguientes funciones:
 
-I. Investigar y persecución (sic) de oficio de los ilícitos cometidos contra las instituciones electorales y de delitos en materia electoral cometidos por particulares, funcionarios electorales y candidatos, competencia de las autoridades estatales.
+I. Investigar y perseguir los ilícitos cometidos contra las instituciones electorales y de delitos en materia electoral llevados a cabo por particulares, funcionarios electorales y candidatos, competencia de las autoridades estatales.
 
-II. Establecer mecanismos de coordinación y de interrelación con las autoridades federales, estatales y municipales; así como con las demás áreas de la Procuraduría General de Justicia, para el óptimo cumplimiento de sus atribuciones;
+II. Establecer mecanismos de coordinación y de interrelación con las autoridades federales, estatales y municipales; así como con las demás áreas de la Procuraduría, para el óptimo cumplimiento de sus atribuciones.
 
-III. Instrumentación de acciones de difusión, divulgación y prevención de los delitos electorales;
+III. Instrumentación de acciones de difusión, divulgación y prevención de los delitos electorales.
 
-IV. Mando directo e inmediato de los agentes del Ministerio Público y sus auxiliares que estén adscritos;
+IV. Mando directo e inmediato de los Agentes del Ministerio Público y sus auxiliares que estén adscritos.
 
-V. Las demás que le señalen los ordenamientos legales o el Procurador.
+V. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2014)</small>
+
+###### Artículo 31 Bis.
+
+Deberes y Atribuciones de la Subprocuraduría de Investigaciones Especiales, Atención a Delitos Contra Mujeres por Razón de Género, Trata de Personas, Libertad de Expresión y Servicios a la Comunidad
+
+Esta subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, de acuerdo con lo establecido en la Constitución General, en la Constitución del Estado, en esta ley y los demás ordenamientos aplicables, y específicamente en lo relativo a:
+
+I. Los casos en que debido a la naturaleza, gravedad y complejidad de los hechos constitutivos de delito o de las personas o derechos tutelados vulnerados, se requiera de un tratamiento especializado;
+
+II. Los delitos cometidos en agravio de mujeres por razón de género;
+
+III. La investigación del delito de trata de personas;
+
+IV. Los delitos cometidos en agravio de la libertad de expresión de personas físicas y morales que ejerzan la actividad periodística;
+
+V. En materia de servicios a la comunidad relativos a los Centros de Justicia para las Mujeres y,
+
+VI. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
 
 ###### Artículo 32.
 
@@ -703,11 +935,13 @@ Los titulares tendrán las facultades y deberes que se precisen en esta ley y su
 
 ### CAPÍTULO I. Del Ministerio Público
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 33.
 
 Definición
 
-El Ministerio Público es la Institución que dirige la investigación y persecución de los hechos que la ley considere como delitos y en su caso, promueve el ejercicio de la acción penal ante los tribunales de justicia, protege y brinda atención a las víctimas u ofendidos del delito y testigos, con el respeto irrestricto a los Derechos Humanos del imputado y demás intervinientes.
+El Ministerio Público es la Institución única e indivisible, que dirige la investigación y persecución de los hechos que la ley considere como delitos y en su caso, promueve el ejercicio de la acción penal ante los tribunales de justicia; protege y brinda atención a las víctimas u ofendidos del delito y testigos, con el respeto irrestricto a los Derechos Humanos del imputado y demás intervinientes.
 
 ### CAPÍTULO II. Principios de actuación del Ministerio Público
 
@@ -737,7 +971,9 @@ Autonomía del Ministerio Público
 
 El Ministerio Público actuará independientemente, por propio impulso y en cumplimiento de las funciones que le atribuyen las leyes sin subordinación a ninguno de los organismos del Estado ni autoridad alguna, salvo lo establecido en esta ley.
 
-Quien sea titular de la Procuraduría está facultado para dictar las normas reglamentarias de la dependencia, modificarlas o abrogarlas, así como determinar las decisiones de política y gestión institucional.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
+El Procurador está facultado para dictar las normas reglamentarias de la dependencia, modificarlas o abrogarlas, así como determinar las decisiones de política y gestión institucional.
 
 Anualmente la Procuraduría tendrá una partida en el Presupuesto de Egresos del Estado y sus recursos los administrará su titular en función a sus propios requerimientos, de acuerdo con la ley.
 
@@ -765,19 +1001,19 @@ Principio de transparencia
 
 Las atribuciones del Ministerio Público se ejercerán con claridad, de manera que permitan y promuevan la publicidad y el conocimiento de los procedimientos, contenidos y fundamentos de los actos que se realicen, sin perjuicio de la reserva o secreto establecido en las leyes, o cuando la publicidad impida o entorpezca el debido cumplimiento de las funciones de la institución.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 42.
 
 Honestidad
 
 Quienes conformen la Procuraduría tendrán el deber de actuar con honestidad, rectitud e integridad.
 
-El Reglamento de la presente Ley, establecerá los casos en los cuales, los servidores públicos de la Procuraduría, tendrán impedimento para conocer de un asunto, que impliquen una causal de excusa.
+Los servidores públicos de la Procuraduría, tendrán impedimento para conocer de un asunto, en los siguientes casos:
 
-Se consideran causas de impedimento las siguientes:
+I. Haber intervenido en la investigación o proceso como Agente del Ministerio Público, defensor, asesor jurídico, denunciante o querellante, acusador coadyuvante, haber ejercido la acción penal particular o haber actuado como perito, consultor técnico o conocer del hecho investigado como testigo, o tener interés directo en el proceso.
 
-I. Haber intervenido en el mismo proceso como ministerio público, defensor, asesor jurídico, denunciante o querellante, acusador coadyuvante, haber ejercido la acción penal particular o haber actuado como perito, consultor técnico o conocer del hecho investigado como testigo, o tener interés directo en el proceso.
-
-II. Ser conyugue, concubina o concubinario, o tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad y por afinidad hasta el segundo, con alguno de los interesados, o éste cohabite o haya cohabitado con alguno de ellos.
+II. Ser cónyuge, concubina o concubinario, o tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad y por afinidad hasta el segundo, con alguno de los interesados, o éste cohabite o haya cohabitado con alguno de ellos.
 
 III. Ser o haber sido tutor o curador o haber estado bajo tutela o curatela de alguno de los interesados o ser o haber sido administrador de sus bienes por cualquier título.
 
@@ -823,13 +1059,19 @@ El Ministerio Publico no percibe intereses propios o ajenos, sino que, como repr
 
 En la investigación de los delitos debe tomar en cuenta no solo las circunstancias que eventual mente (sic) le permitan probar su acusación, sino también las que sirvan para atenuar o excluir la responsabilidad del imputado.
 
-### CAPÍTULO III. De las funciones del Ministerio Público
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
+
+### CAPÍTULO III. De las funciones del Agente del Ministerio Público
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 47.
 
-De las funciones del Ministerio Público
+De las funciones del Agente del Ministerio Público
 
-Corresponde al Ministerio Público el ejercicio de las siguientes funciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
+
+Corresponde al Agente del Ministerio Público el ejercicio de las siguientes funciones:
 
 I. Ejercer la conducción y mando de la investigación de hechos que la ley considere como delito.
 
@@ -887,7 +1129,13 @@ XXVII. Todas aquellas que le permitan llegar con éxito al esclarecimiento de lo
 
 XXVIII. En materia de justicia penal para adolescentes, corresponderá al Agente del Ministerio Público encargado de dicha materia, la investigación de las conductas tipificadas por la ley como delito, con todas las atribuciones y facultades que señala la presente Ley y su Reglamento, para la debida investigación de los hechos.
 
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
 XXIX. Las demás funciones que le atribuyan otras disposiciones legales, aplicables a la materia civil y familiar, así como aquellas otras en las que se regulen facultades, obligaciones o intervención del Ministerio Público.
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XXX. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
 
 ### CAPÍTULO IV. De las medidas de apremio y sanciones
 
@@ -895,7 +1143,9 @@ XXIX. Las demás funciones que le atribuyan otras disposiciones legales, aplicab
 
 De las medidas de apremio
 
-Para hacer cumplir sus determinaciones y realizar los actos ordenados en el ejercicio de sus funciones, el Ministerio Público podrá aplicar las siguientes medidas de apremio:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
+
+Para hacer cumplir sus determinaciones y realizar los actos ordenados en el ejercicio de sus funciones, el Agente del Ministerio Público podrá aplicar las siguientes medidas de apremio:
 
 I. Apercibimiento.
 
@@ -909,11 +1159,15 @@ III. Arresto hasta por treinta y seis horas.
 
 Requisitos de ingreso y permanencia
 
-Para ingresar y permanecer como Agente del Ministerio Público de la Procuraduría General de Justicia del Estado, en cualquiera de sus categorías, es necesario acreditar los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
+
+Para ingresar y permanecer como Agente del Ministerio Público de la Procuraduría, en cualquiera de sus categorías, es necesario acreditar los siguientes requisitos:
 
 a) De ingreso:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+I. Ser ciudadano mexicano por nacimiento o naturalización, en pleno ejercicio de sus derechos.
 
 II. Contar con título de licenciado en derecho expedido y registrado legalmente, con la correspondiente cédula profesional.
 
@@ -1027,9 +1281,13 @@ XX. Las demás que sean necesarias
 
 La Dirección General de Servicios Periciales tendrá las siguientes atribuciones:
 
-I. Auxiliar al ministerio público en la búsqueda, preservación y obtención de indicios, a fin de coadyuvar en el cumplimiento de sus funciones constitucionales de investigación y persecución de los delitos.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-II. Establecer los mecanismos de atención y procedimientos de registro, de las solicitudes de servicios periciales en las diferentes especialidades, formuladas por el ministerio público y, en su caso, por los órganos jurisdiccionales y demás autoridades, así como la supervisión y seguimiento de la atención a tales solicitudes.
+I. Auxiliar al Agente del Ministerio Público en la búsqueda, preservación y obtención de indicios, a fin de coadyuvar en el cumplimiento de sus funciones constitucionales de investigación y persecución de los delitos.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+II. Establecer los mecanismos de atención y procedimientos de registro, de las solicitudes de servicios periciales en las diferentes especialidades, formuladas por el Agente del Ministerio Público y, en su caso, por los órganos jurisdiccionales y demás autoridades, así como la supervisión y seguimiento de la atención a tales solicitudes.
 
 III. Brindar asesoría técnica a las unidades administrativas de la Procuraduría, así como a otras instancias de procuración y administración de justicia que lo requieran, en el ámbito de su competencia.
 
@@ -1039,7 +1297,9 @@ V. Opinar sobre los anteproyectos de acuerdos, circulares, instructivos y manual
 
 VI. Supervisar técnica y administrativamente la emisión de los dictámenes periciales, a efecto de que estos cumplan con la metodología pericial y las normas vigentes.
 
-VII. Atender las instrucciones del ministerio público, los procedimientos y protocolos para la recolección, el levantamiento, la preservación y el traslado de indicios, huellas o vestigios del hecho delictuoso y de los instrumentos, objetos o productos del delito, así como para asegurar su integridad a través de la cadena de custodia.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+VII. Atender las instrucciones del Agente del Ministerio Público, los procedimientos y protocolos para la recolección, el levantamiento, la preservación y el traslado de indicios, huellas o vestigios del hecho delictuoso y de los instrumentos, objetos o productos del delito, así como para asegurar su integridad a través de la cadena de custodia.
 
 VIII. Dirigir, operar y supervisar los laboratorios
 
@@ -1101,11 +1361,13 @@ VII. Los demás requisitos que establezcan las disposiciones aplicables.
 
 ### CAPÍTULO I. De la organización de la policía
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 54.
 
 De la policía
 
-Para la eficaz investigación de los hechos que la ley considera como delito, el Ministerio Público se auxiliará de la Policía Investigadora.
+Para la eficaz investigación de los hechos que la ley considera como delito, el Agente del Ministerio Público se auxiliará de la Policía Investigadora.
 
 ### CAPÍTULO II. De las funciones de la policía
 
@@ -1115,31 +1377,47 @@ De las funciones de la policía
 
 La Policía Investigadora, contará con las siguientes funciones:
 
-I. Cuando la legislación procesal lo prevea, podrá recibir las denuncias sobre hechos que la ley considere como delito, sólo cuando debido a las circunstancias del caso aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que deberán informar de inmediato, así como de las diligencias practicadas.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-II. Cuando la legislación procesal lo prevea, también podrán recibir las denuncias anónimas y cerciorarse de la veracidad de los datos aportados. De confirmarse la información, lo notificará de inmediato al Ministerio Público.
+I. Cuando la legislación procesal lo prevea, podrá recibir las denuncias sobre hechos que la ley considere como delito, sólo cuando debido a las circunstancias del caso aquéllas no puedan ser formuladas directamente ante el Agente del Ministerio Público, al que deberán informar de inmediato, así como de las diligencias practicadas.
 
-III. Practicar detenciones en los casos de flagrancia; y en caso de urgencia cuando lo ordene por escrito el Ministerio Público; y en la aplicación de la medida de apremio consistente en el arresto; haciéndole saber sus derechos y garantías constitucionales.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+II. Cuando la legislación procesal lo prevea, también podrán recibir las denuncias anónimas y cerciorarse de la veracidad de los datos aportados. De confirmarse la información, lo notificará de inmediato al Agente del Ministerio Público.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+III. Practicar detenciones en los casos de flagrancia; y en caso de urgencia cuando lo ordene por escrito el Agente del Ministerio Público; y en la aplicación de la medida de apremio consistente en el arresto; haciéndole saber sus derechos y garantías constitucionales.
 
 IV. Poner a disposición de las autoridades ministeriales competentes, sin demora a la persona detenida, en estricto cumplimiento a los plazos constitucionales.
 
 V. Actuar en la investigación de los delitos; y en el aseguramiento de bienes u objetos o cualquier otro instrumento relacionado con la investigación del delito.
 
-VI. Registrar de inmediato en el Registro Administrativo de Detenciones del Centro Nacional de Información, la detención de cualquier persona, así como remitir sin demora y por cualquier medio la información al Ministerio Público.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-VII. Registrar de inmediato, en el asiento correspondiente la detención de cualquier persona, así como remitir sin demora y por cualquier medio la información al Ministerio Público.
+VI. Registrar de inmediato en el Registro Administrativo de Detenciones del Centro Nacional de Información, la detención de cualquier persona, así como remitir sin demora y por cualquier medio la información al Agente del Ministerio Público.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+VII. Registrar de inmediato, en el asiento correspondiente la detención de cualquier persona, así como remitir sin demora y por cualquier medio la información al Agente del Ministerio Público.
 
 VIII. Practicar los actos de investigación necesarios que permitan el esclarecimiento de los hechos que la ley considere como delito y la identidad de quien posiblemente lo cometió o participó en su comisión.
 
-IX. Cuando para el cumplimiento de ciertas diligencias se requiera de una autorización judicial, la policía lo informará al Ministerio Público para que éste con base en los elementos que aquél le proporcione, pueda solicitarla.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-X. Preservar el lugar de los hechos o del hallazgo y la integridad de los indicios y dar aviso al Ministerio Público conforme a las disposiciones aplicables.
+IX. Cuando para el cumplimiento de ciertas diligencias se requiera de una autorización judicial, la policía lo informará al Agente del Ministerio Público para que éste con base en los elementos que aquél le proporcione, pueda solicitarla.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+X. Preservar el lugar de los hechos o del hallazgo y la integridad de los indicios y dar aviso al Agente del Ministerio Público conforme a las disposiciones aplicables.
 
 XI. Sin perjuicio de la intervención pericial y siempre que así se requiera, la policía deberá recolectar, embalar conforme a los protocolos de cadena de custodia y trasladar los indicios encontrados en el lugar de los hechos o del hallazgo, en términos de las disposiciones aplicables.
 
 XII. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación.
 
-XIII. Solicitar a las autoridades competentes y a las personas físicas o morales, informes y documentos para fines de la investigación o en caso de negativa, informarlo al Ministerio Público para que, en su caso, éste lo requiera.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XIII. Solicitar a las autoridades competentes y a las personas físicas o morales, informes y documentos para fines de la investigación o en caso de negativa, informarlo al Agente del Ministerio Público para que, en su caso, éste lo requiera.
 
 XIV. Dejar registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas.
 
@@ -1165,7 +1443,9 @@ XVIII. Las demás que le confieran las disposiciones aplicables.
 
 De los requisitos de ingreso para la Policía Investigadora:
 
-a) De ingreso:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
+
+Para ingresar como Agente de la Policía Investigadora de la Procuraduría será necesario cumplir con los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -1223,37 +1503,47 @@ XI. Las demás que establezcan las disposiciones legales aplicables.
 
 ### CAPÍTULO ÚNICO. De sus funciones como auxiliares del Ministerio Público
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 58.
 
 De los facilitadores
 
-Los facilitadores, que conforman el Centro de Medios Alternos de Solución de Conflictos, dependiente de la Procuraduría, serán auxiliares técnicos del Ministerio Público, para aquellos casos en los que proceda la terminación anticipada de la investigación, mediante una salida alterna de solución de conflictos, cuyo procedimiento se establece en el reglamento respectivo.
+Los facilitadores, que conforman la Dirección General de Medios Alternos de Solución de Conflictos, dependiente de la Procuraduría, serán auxiliares técnicos del Ministerio Público, para aquellos casos en los que proceda la aplicación de los medios alternativos de solución de conflictos en materia penal y de justicia para adolecentes (sic), de acuerdo a lo previsto en la Ley de Medios Alternos de Solución de Controversias para el Estado de Coahuila de Zaragoza y el reglamento que para tal efecto se expida.
 
 ## TÍTULO V. DE LA FORMACIÓN, LA CAPACITACIÓN Y EL ADIESTRAMIENTO
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 59.
 
 De la formación, la capacitación y el adiestramiento
 
-A fin de coadyuvar en la formación, capacitación, profesionalización y actualización de los servidores públicos relacionados con las funciones de procuración de justicia, la Procuraduría contará con un Centro de Profesionalización, Acreditación, Certificación y Carrera.
+A fin de coadyuvar en la formación, capacitación, profesionalización y actualización de los servidores públicos relacionados con las funciones de procuración de justicia, la Procuraduría contará con un Centro de Profesionalización.
 
-### CAPÍTULO II
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
 
-De la Dirección General del Centro de Profesionalización, Acreditación, Certificación y Carrera.
+### CAPITULO II. Del Centro de Profesionalización
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 60.
 
-Función.
+Función
 
-La Dirección General del Centro de Profesionalización, Acreditación, Certificación y Carrera, es la dependencia de la Subprocuraduría Jurídica, de Derechos Humanos, Profesionalización y de Proyectos, cuya función será la prestación de los servicios de Formación, Capacitación, Actualización, Especialización y Adiestramiento del personal de la Procuraduría General de Justicia del Estado; así como lo atinente al servicio civil de carrera, para lo cual contará con las direcciones de área, subdirecciones, coordinaciones y demás personal que se requiera y el presupuesto lo permita.
+El Centro de Profesionalización, es la unidad administrativa de la Subprocuraduría Jurídica, de Derechos Humanos, Profesionalización y Proyectos, cuya función será la prestación de los servicios de Formación, Capacitación, Actualización, Especialización y Adiestramiento del personal de la Procuraduría; así como lo atinente al servicio civil de carrera, para lo cual contará con las direcciones de área, subdirecciones, coordinaciones y demás personal que se requiera y el presupuesto lo permita.
 
-### CAPÍTULO III. De las atribuciones del Centro de Profesionalización, Acreditación, Certificación y Carrera
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
+
+### CAPÍTULO III. De las atribuciones del Director General del Centro de Profesionalización
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 61.
 
-De las atribuciones del Centro de Profesionalización, Acreditación, Certificación y Carrera
+De las atribuciones del Director General del Centro de Profesionalización
 
 Para el desarrollo de sus funciones, tendrá las siguientes atribuciones:
 
@@ -1309,39 +1599,47 @@ XXV. Proponer la celebración de convenios con organismos e instituciones públi
 
 XXVI. Las demás que establezcan las disposiciones legales aplicables.
 
-## TÍTULO VI. DEL SERVICIO PROFESIONAL DE CARRERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
+
+## TITULO VI. DEL SERVICIO PROFESIONAL Y CIVIL DE CARRERA
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 62.
 
-Del servicio profesional de carrera
+Del Servicio Profesional y Civil de Carrera
 
-A fin de contar con elementos para valorar y considerar el cumplimiento de los requisitos de ingreso, formación, permanencia, promoción, especialización, evaluación, certificación, reconocimiento, prestaciones y sanciones del personal sustantivo de la Procuraduría General de Justicia en el Estado, se crea el Servicio Profesional de Carrera.
+A fin de contar con elementos para valorar y considerar el cumplimiento de los requisitos de ingreso, formación, permanencia, promoción, especialización, evaluación, certificación, reconocimiento, prestaciones y sanciones del personal sustantivo de la Procuraduría, se crea el Servicio Profesional y Civil de Carrera.
 
-### CAPÍTULO II. Reglas para el servicio profesional de carrera
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
+
+### CAPITULO II. Reglas para el Servicio Profesional y Civil de Carrera
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
 
 ###### Artículo 63.
 
-Reglas para el servicio profesional de carrera
+Reglas para el Servicio Profesional y Civil de Carrera
 
-El Servicio Profesional de carrera se regulará conforme a los lineamientos siguientes:
+El Servicio Profesional y Civil de Carrera se regulará conforme a los lineamientos siguientes:
 
 I. El ingreso comprende los requisitos y procedimientos de selección, formación y certificación inicial, así como registro.
 
-II. El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización, de evaluación para la permanencia, de evaluación del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del Servicio de Carrera.
+II. El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización, de evaluación para la permanencia, de evaluación del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del Servicio Profesional y Civil de Carrera.
 
-III. La terminación comprenderá las causas ordinarias y extraordinarias de separación del Servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
+III. La terminación comprenderá las causas ordinarias y extraordinarias de separación del servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
 
 IV. Tendrá carácter obligatorio y permanente; abarcará los planes, programas, cursos, evaluaciones, exámenes y concursos correspondientes a las diversas etapas que comprende.
 
-V. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto irrestricto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado. Tendrá como objetivos la preparación, competencia, capacidad y superación constante del personal en tareas de Procuración de Justicia.
+V. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto irrestricto a los derechos humanos reconocidos en la Constitución General y en la Constitución del Estado. Tendrá como objetivos la preparación, competencia, capacidad y superación constante del personal en tareas de Procuración de Justicia.
 
 VI. El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación fomentará que los miembros de la Procuraduría logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, habilidades, destrezas y actitudes necesarios para el desempeño del servicio público.
 
-VII. Determinará los perfiles que sean necesarios para la Institución, dentro del Servicio Profesional de Carrera.
+VII. Determinará los perfiles que sean necesarios para la Institución, dentro del Servicio Profesional y Civil de Carrera.
 
-VIII. El Servicio Profesional de Carrera, observará los procedimientos disciplinarios que marque la normatividad correspondiente.
+VIII. El Servicio Profesional y Civil de Carrera, observará los procedimientos disciplinarios que marque la normatividad correspondiente.
 
 IX. Buscará el desarrollo, ascenso y dotación de estímulos con base en el mérito y la eficiencia en el desempeño de sus funciones.
 
@@ -1349,7 +1647,7 @@ X. Contendrá las normas para el registro y el reconocimiento de los certificado
 
 XI. Contendrá las normas para el registro de las incidencias del personal.
 
-XII. Los niveles y el personal a quienes será aplicable el servicio civil de carrera y demás disposiciones necesarias para su aplicación y regulación, se determinaran en el Reglamento del mismo.
+XII. Los niveles y el personal a quienes será aplicable el Servicio Profesional y Civil de Carrera y demás disposiciones necesarias para su aplicación y regulación, se determinaran en el Reglamento del mismo.
 
 ## TÍTULO VII. DE LOS ACTOS IMPUGNABLES Y LOS MEDIOS DE DEFENSA
 
@@ -1359,7 +1657,9 @@ XII. Los niveles y el personal a quienes será aplicable el servicio civil de ca
 
 De los actos impugnables
 
-El denunciante, la víctima, el imputado, y quien tenga un interés legítimo en la investigación, podrá inconformarse ante el Procurador General de Justicia contra los actos y resoluciones del Ministerio Público relativos a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2014)</small>
+
+El denunciante, la víctima, el imputado, y quien tenga un interés legítimo en la investigación, podrá inconformarse ante el Subprocurador de Control de Juicios y Constitucionalidad contra los actos y resoluciones del Agente del Ministerio Público relativos a:
 
 I. La Abstención de Investigar.
 
@@ -1369,11 +1669,13 @@ III. Resolución de No Ejercicio de la Acción Penal
 
 IV. La aplicación de un Criterio de Oportunidad.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
 ###### Artículo 65.
 
 De los medios de defensa
 
-Para impugnar los actos, omisiones y abstenciones del Ministerio Público, sobre abstención de investigar, el archivo temporal, el no ejercicio de la acción penal o sobre la aplicación de un criterio de oportunidad, el denunciante, ofendido, víctima del delito, y quien tenga un interés legitimo, podrán interponer el Recurso de Inconformidad.
+Para impugnar los actos, omisiones y abstenciones del Agente del Ministerio Público, relativas a la investigación, el archivo temporal, el no ejercicio de la acción penal o sobre la aplicación de un criterio de oportunidad, el denunciante, ofendido, víctima del delito, y quien tenga un interés legítimo, podrán interponer el Recurso de Inconformidad.
 
 ## TÍTULO VIII. DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES
 
@@ -1385,7 +1687,9 @@ La Dirección General de Responsabilidades, tendrá las siguientes competencias:
 
 I. Es un órgano de investigación, supervisión, inspección y auditoria, mediante el cual se controla y evalúa el ejercicio del presupuesto, derechos, fondos e ingresos, conservación y uso de bienes de la Institución.
 
-II. Tratándose de responsabilidad administrativa, ejercerá las acciones penales, civiles, mercantiles o laborales, en contra de los servidores públicos de la dependencia que en el ejercicio de su encargo, puesto o comisión, violen las leyes aplicables.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+II. Tratándose de responsabilidad administrativa, ejercerá las acciones penales, en contra de los servidores públicos de la dependencia que en el ejercicio de su encargo, puesto o comisión, violen las leyes aplicables; y dará vista al Subprocurador Jurídico, de Derechos Humanos, Profesionalización y Proyectos para que se proceda a ejercer las acciones civiles, mercantiles o laborales, correspondientes.
 
 III. Sustanciar los procedimientos administrativos a que haya lugar por responsabilidad en el ejercicio del servicio público y aplicar las sanciones que correspondan.
 
@@ -1409,7 +1713,7 @@ VI. Y las demás atribuciones que se señalen en el Reglamento de esta ley y en 
 
 ###### Artículo 68.
 
-Causas de Responsabilidad y Sanciones.
+Causas de Responsabilidad y Sanciones
 
 Los servidores públicos de la Procuraduría, podrán ser sujetos de responsabilidades civiles, administrativas y penales que correspondan, por hechos u omisiones que realicen en ejercicio de sus funciones, conforme a lo dispuesto por el Reglamento de esta Ley, el Reglamento Interno de la Dirección General de Responsabilidades; y la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila, que establecen las causas de responsabilidad y las sanciones aplicables.
 
@@ -1433,9 +1737,13 @@ VIII. Abstenerse de ordenar o realizar la detención de persona alguna sin cumpl
 
 IX. Velar por la vida e integridad física de las personas detenidas.
 
-X. Atender los cursos de actualización y profesionalización a los que sea convocado por parte de la Institución.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
-XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por la Institución.
+X. Atender los cursos de actualización y profesionalización a los que sea convocado por parte de la Procuraduría.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por la Procuraduría.
 
 XII. Cuando se le requiera deberá participar en operativos y acciones de coordinación con otras Instituciones de Procuración de Justicia y Seguridad Pública.
 
@@ -1451,7 +1759,9 @@ XVII. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo 
 
 XVIII. Fomentar la disciplina, responsabilidad, decisión, integridad, sentido de pertenencia y profesionalismo, en sí mismo y en el personal bajo su mando.
 
-XIX. Inscribir las detenciones en el Registro Nacional Administrativo de Detenciones conforme a las disposiciones aplicables y los registros que para tal efecto se establezcan en la Institución.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XIX. Inscribir las detenciones en el Registro Nacional Administrativo de Detenciones conforme a las disposiciones aplicables y los registros que para tal efecto se establezcan en la Procuraduría.
 
 XX. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones.
 
@@ -1459,13 +1769,17 @@ XXI. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por c
 
 XXII. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda.
 
-XXIII. Abstenerse de introducir o consumir dentro de las instalaciones de la Institución, bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XXIII. Abstenerse de introducir o consumir dentro de las instalaciones de la Procuraduría, bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado.
 
 XXIV. Abstenerse de consumir, vender o transportar, dentro o fuera del servicio, sustancias adictivas de carácter ilegal, prohibidas o controladas, salvo en los casos en que el consumo sea mediante prescripción médica.
 
 XXV. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio.
 
-XXVI. No permitir que personas ajenas a la Institución, realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
+XXVI. No permitir que personas ajenas a la Procuraduría, realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio.
 
 XXVII. No realizar o encubrir conductas que atenten contra la autonomía del Ministerio Público, tales como aceptar o ejercer consignas, presiones, encargos, comisiones o cualquier otra acción que genere o aplique subordinación indebida respecto de alguna persona o autoridad.
 
@@ -1528,3 +1842,49 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE MAYO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+TERCERO.- Los nombramientos expedidos con anterioridad continuarán generando sus efectos hasta en tanto se expidan los nuevos, con todos los efectos legales y responsabilidades en ellos conferidos.
+
+CUARTO.- Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos respecto de las siguientes unidades administrativas, se entenderán hechas conforme a las siguientes denominaciones:
+
+a) Fiscalía Especializada para la Atención de Delitos Cometidos en Agravio de Mujeres y Periodistas: Subprocuraduría de Investigaciones Especiales, Atención a Delitos Contra Mujeres por Razón de Género, Trata de Personas, Libertad de Expresión y Servicios a la Comunidad.
+
+b) Coordinación General Administrativa: Dirección General Administrativa.
+
+c) Dirección General de Relaciones Públicas: Dirección General de Vinculación y Relaciones Públicas.
+
+d) Dirección General de Informática y Sistemas: Dirección General de Informática y Telecomunicaciones.
+
+e) Dirección de Comunicación Social: Dirección General de Comunicación Social y Vocería.
+
+f) Dirección General de Averiguaciones Previas: Dirección General de Unidades de Investigación.
+
+g) Dirección General de Control de Legalidad: Dirección General de Control de Constitucionalidad.
+
+h) Dirección General Jurídica, Consultiva y de Derechos Humanos: Dirección General Jurídica, de Derechos Humanos y Consultiva.
+
+i) Dirección General de Atención y Protección a Víctimas: Dirección General de Atención y Protección a Víctimas y Testigos.
+
+j) Centro de Medios Alternos de Solución de Conflictos y/o Dirección General de Medios Alternos y Solución de Conflictos: Dirección General de Medios Alternos de Solución de Conflictos.
+
+k) Departamento de Investigaciones en Materia de Delitos Electorales: Dirección de Investigaciones en Materia de Delitos Electorales.
+
+l) Departamento de Control de Procesos en Materia de Delitos Electorales: Dirección de Control de Procesos en Materia de Delitos Electorales.
+
+m) Departamento de Biblioteca, Difusión y Prevención de Delitos Electorales: Dirección de Biblioteca, Difusión y Prevención de Delitos Electorales.
+
+n) Coordinación Estatal para el Combate al Robo de Vehículos: Unidad de Control Vehicular.
+
+o) Dirección General de Delitos de Secuestro: Coordinación Estatal para la Investigación del Delito de Secuestro.
+
+p) Dirección General de Delitos de Narcomenudeo: Dirección de Centros de Operaciones Estratégicas.
+
+q) Unidad de Análisis de Información o Unidad de Análisis e Información: Coordinación General de análisis de Información y de Inteligencia Patrimonial y Económica.
