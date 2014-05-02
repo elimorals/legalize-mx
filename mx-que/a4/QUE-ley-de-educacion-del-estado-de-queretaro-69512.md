@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2014-03-12"
+last_updated: "2014-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -1627,11 +1627,9 @@ Para efectos de permanencia del personal docente y de quienes ejerzan funciones 
 
 La autoridad educativa local, de manera coordinada con la autoridad educativa federal, en los términos previstos por la ley de la materia, establecerán las estrategias para que los profesores puedan llevar a buen término sus responsabilidades en la conducción del proceso educativo.
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2014)</small>
-
 ###### Artículo 85.
 
-La autoridad educativa local respetará y reconocerá íntegramente todas las prestaciones alcanzadas en convenios, acuerdos, minutas y negociaciones celebradas por ésta a través de las instancias respectivas con la representación de la organización sindical acreditada, de conformidad con las disposiciones de la Fracción III y VIII del artículo 3o., de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, P.O. 2 DE MAYO DE 2014)
 
 ## TRANSITORIOS
 
@@ -1641,7 +1639,11 @@ Artículo Segundo. Se abroga la Ley de Educación del Estado de Querétaro publi
 
 Artículo Tercero. Los procedimientos que se encuentren en trámite al momento de entrar en vigor la presente Ley, se tramitarán hasta su conclusión conforme a las disposiciones legales vigentes en el momento en que dieron inicio.
 
-Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+
+Artículo Cuarto. El personal que a la entrada en vigor de la Ley General del Servicio Profesional Docente se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Título Segundo, Capítulo VIII, de la Ley General del Servicio Profesional Docente y lo correlativo al presente ordenamiento.
+
+El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente y lo correlativo a la presente Ley, no será separado de la función pública y será re adscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, con pleno respeto a los derechos constitucionales adquiridos, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
@@ -1782,3 +1784,9 @@ Artículo Cuarto. El personal que a la entrada en vigor de la presente Ley se en
 Artículo Quinto. Se reconoce la titularidad de las relaciones laborales colectivas al Sindicato Nacional de Trabajadores de la Educación, en términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes.
 
 Artículo Sexto. Las autoridades competentes respetarán íntegramente los derechos de los trabajadores de la Educación, la normatividad señalada en el Acuerdo Nacional para la Modernización de la Educación Básica y los convenios firmados con el Sindicato Nacional de Trabajadores de la Educación, en tanto no contravengan las disposiciones de la presente Ley y de las Leyes Federales aplicables.
+
+P.O. 2 DE MAYO DE 2014.
+
+Artículo Primero. La presente Ley reforma (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Remítase esta Ley al titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
