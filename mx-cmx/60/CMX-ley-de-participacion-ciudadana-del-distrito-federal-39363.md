@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2014-03-07"
+last_updated: "2014-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1123,6 +1123,14 @@ En el Distrito Federal existe el presupuesto participativo que es aquel sobre el
 Los recursos del presupuesto participativo corresponderán al 3 por ciento del presupuesto anual de las Delegaciones. Los rubros generales a los que se destinará la aplicación de dichos recursos serán los de obras y servicios, equipamiento, infraestructura urbana, prevención del delito, además de los que estén en beneficio de actividades recreativas, deportivas y culturales de las colonias o pueblos del Distrito Federal.
 
 Los recursos de presupuesto participativo serán ejercidos en los capítulos 2000, 3000, 4000, 5000 y 6000 conforme a lo dispuesto en el Clasificador por Objeto del Gasto vigente.
+
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2014)</small>
+
+En el caso de las erogaciones con cargo al Capítulo 4000 las Delegaciones, deberán emitir la autorización sólo cuando sean sobre bienes que no pertenezcan al dominio del poder público del Distrito Federal, dicha autorización contará con los lineamientos necesarios para ejercer el Presupuesto Participativo del año fiscal que corresponda, en los proyectos que resulten ganadores en la Consulta Ciudadana de conformidad con los artículos 97 y 101 de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2014)</small>
+
+Las erogaciones a que se refiere el párrafo anterior, deberán realizarse en apego con lo dispuesto en el Decreto de Presupuesto de Egresos del Distrito Federal del año correspondiente en lo relativo al ejercicio directo de los recursos por las Delegaciones.
 
 El Jefe de Gobierno y la Asamblea Legislativa están respectivamente obligados a incluir y aprobar en el decreto anual de presupuesto de egresos:
 
@@ -4143,5 +4151,11 @@ Segundo.- El presente Decreto entrará en vigor el día de su publicación en la
 G.O. 7 DE MARZO DE 2014.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 2 DE MAYO DE 2014.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
