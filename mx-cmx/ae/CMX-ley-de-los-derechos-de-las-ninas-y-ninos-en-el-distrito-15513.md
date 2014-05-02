@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2012-01-09"
+last_updated: "2014-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -48,7 +48,7 @@ LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
 ### CAPITULO ÚNICO. DEL ÁMBITO Y DEL OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE JULIO DE 2010)</small>
 
 ###### Artículo 1.
 
@@ -152,7 +152,9 @@ a) En la asignación de recursos públicos para programas sociales relacionados 
 
 b) En la atención a las niñas y niños en los servicios públicos; y
 
-c) En la formulación y ejecución de políticas públicas relacionadas con las niñas y niños;
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2014)</small>
+
+c) En la formulación y ejecución de políticas públicas para la protección, desarrollo y seguridad a las niñas y niños;
 
 II. La Corresponsabilidad o Concurrencia, que asegura la participación y responsabilidad de la familia, órganos locales de gobierno y sociedad en la atención de las niñas y niños;
 
@@ -162,9 +164,13 @@ IV. El de la familia como espacio preferente para el desarrollo de las niñas y 
 
 V. El de que la niña o niño tienen diversas etapas de desarrollo y diversas necesidades que deben llevar a la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, dependiendo de la etapa de desarrollo en la que se encuentre, con el objeto de procurar que todas las niñas y niños ejerzan sus derechos con equidad;
 
-VI. El de que las niñas y niños deben vivir en un ambiente libre de violencia; y
+VI. El de que las niñas y niños deben vivir en un ambiente libre de violencia; y (sic)
 
 VII. El del respeto universal a la diversidad cultural, étnica y religiosa.
+
+> <small>(ADICIONADA, G.O. 2 DE MAYO DE 2014)</small>
+
+VIII. De acceso a la justicia pronta y expedita.
 
 ### CAPITULO II. DE LOS DERECHOS
 
@@ -378,13 +384,13 @@ X. Crear los mecanismos o instancias correspondientes para el cumplimiento de es
 
 XI. Emitir el Programa de Protección a las niñas y niños del Distrito Federal.
 
-> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2014)</small>
 
-XII. Emitir los lineamientos por los que se regirán los hogares provisionales, así como el registro de los mismos.
+XII. Realizar acciones de prevención contra el abuso, maltrato y tráfico infantil; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2014)</small>
 
-XIII. Las demás que le confieran otros ordenamientos jurídicos.
+XIII. Las demás que le confiere la presente Ley y otros ordenamientos jurídicos.
 
 ### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -426,7 +432,7 @@ XIV. Instrumentar, en coordinación con el Sistema para el Desarrollo Integral d
 
 XV. Las demás que le confiere la presente Ley y otros ordenamientos jurídicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -482,21 +488,21 @@ XI. Orientar a la comunidad sobre el significado de la maternidad y paternidad r
 
 XII. Promover campañas de sensibilización a fin de mantener los vínculos de la madre con su hijo, con su familia y su comunidad; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2008)</small>
 
 XIII.- Realizar la evaluación del estado nutricional mediante indicadores antropométricos, y promover campañas de información nutricional, prevención y atención médica para las y los niños con desnutrición, sobrepeso, obesidad, particularmente aquellos con obesidad mórbida, trastornos alimenticios como bulimia, anorexia, y adicciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E., ADICIONADA], G.O. 27 DE OCTUBRE DE 2008)</small>
 
 XIV.- Las demás que le confieran la Ley de Salud para el Distrito Federal y otros ordenamientos jurídicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 21.
 
@@ -510,7 +516,7 @@ III. Asegurar que todos los sectores de la sociedad, y en particular los padres,
 
 IV. Desarrollar campañas en materia de educación sexual, encaminadas a la prevención de embarazos no deseados y enfermedades de transmisión sexual;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E., ADICIONADA], G.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -562,13 +568,13 @@ XVII. Comparecer ante las autoridades o instituciones competentes, en los casos 
 
 XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2008)</small>
 
 XIX.- Realizar campañas sobre educación nutricional y formación de hábitos alimenticios, de prevención del sobrepeso y la obesidad, trastornos alimenticios, como anorexia, bulimia, y adicciones; así como de detección y canalización de las y los niños que sufran dichas enfermedades a las instituciones competentes para que reciban la ayuda pertinente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -660,7 +666,7 @@ El Presidente del Consejo podrá invitar a participar en el Consejo Delegacional
 
 Las Funciones de dichos consejos se ajustarán a lo preceptuado en el Artículo 27, con excepción de lo previsto en la fracción II.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE JULIO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE JULIO DE 2010)</small>
 
 ### CAPITULO VII. DE LA DEFENSORIA DE LOS DERECHOS DE LA INFANCIA DEL DISTRITO FEDERAL
 
@@ -668,7 +674,7 @@ Las Funciones de dichos consejos se ajustarán a lo preceptuado en el Artículo 
 
 ###### Artículo 30 Bis.
 
-La Defensoría de los Derechos de la Infancia del Distrito Federal es una Dirección Ejecutiva del Sistema para el Desarrollo Integral del la Familia del Distrito Federal (DIF-DF), encargada de promover, proteger y velar por el cumplimiento de los derechos y beneficios de las niñas y los niños reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los Derechos del Niño, los tratados internacionales ratificados por el Estado Mexicano, la presente Ley y demás ordenamientos aplicables.
+La Defensoría de los Derechos de la Infancia del Distrito Federal es una Dirección Ejecutiva del Sistema para el Desarrollo Integral del (sic) la Familia del Distrito Federal (DIF-DF), encargada de promover, proteger y velar por el cumplimiento de los derechos y beneficios de las niñas y los niños reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los Derechos del Niño, los tratados internacionales ratificados por el Estado Mexicano, la presente Ley y demás ordenamientos aplicables.
 
 > <small>(ADICIONADO, G.O. 30 DE JULIO DE 2010)</small>
 
@@ -986,7 +992,7 @@ Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 21 de dici
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los veintisiete días del mes de diciembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO CORDERA PASTOR.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 9 DE JUNIO DE 2006.
 
@@ -1055,3 +1061,9 @@ G.O. 9 DE ENERO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 2 DE MAYO DE 2014.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
