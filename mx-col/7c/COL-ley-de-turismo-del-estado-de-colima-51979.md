@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2012-09-01"
+last_updated: "2014-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2014.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -77,9 +77,57 @@ VII. La coordinación y participación de las Autoridades Federales, Estatales, 
 
 VIII. Promover y fomentar la cultura turística entre los habitantes del Estado;
 
-IX. Establecer el marco normativo que regulará la relación entre las partes involucradas en la prestación de los servicios turísticos; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-X. Otorgar las facilidades a los prestadores de servicios para la defensa de sus derechos, de conformidad a las atribuciones de la Secretaría contempladas en la Ley Orgánica de la Administración Pública del Estado.
+IX. Establecer el marco normativo que regulará la relación entre las partes involucradas en la prestación de los servicios turísticos;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+X. Otorgar las facilidades a los prestadores de servicios para la defensa de sus derechos, de conformidad a las atribuciones de la Secretaría contempladas en la Ley Orgánica de la Administración Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XI. Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos estatales, preservando el patrimonio natural, cultural, y el equilibrio ecológico con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos turísticos, en apego al marco jurídico vigente;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XII. Formular las reglas y procedimientos para establecer el Programa de Reordenamiento Turístico del Territorio del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XIII. Promover y vigilar el desarrollo del turismo social, propiciando el acceso de todas las personas al descanso y recreación mediante esta actividad;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XIV. Facilitar a las personas con discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XV. Salvaguardar la igualdad de género en la instrumentación y aplicación de políticas de apoyo y fomento al turismo;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XVI. Establecer las reglas y procedimientos para la creación de las Zonas de Desarrollo Turístico Sustentable, su operación y las facultades concurrentes que, de manera coordinada, ejercerá el Ejecutivo Estatal y los Municipios;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XVII. Optimizar la calidad y competitividad de los servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XVIII. Impulsar la modernización de la actividad turística;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XIX. Fomentar la inversión pública, privada y social en la industria turística;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XX. Establecer las bases para la orientación y asistencia a los turistas nacionales y extranjeros, definiendo sus derechos y obligaciones; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XXI. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades.
 
 ###### Artículo 3.
 
@@ -91,35 +139,69 @@ La Secretaría podrá celebrar todo tipo de convenios o acuerdos con organismos 
 
 Para los efectos de esta ley, se entiende por:
 
-I. Ley: la presente Ley;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-II. Ley General: La Ley General de Turismo;
+I. Actividad Turística: Las acciones que realizan las personas físicas o morales destinadas a invertir, desarrollar y comercializar los destinos y atractivos turísticos, así como la prestación de los servicios necesarios y vinculados al turismo, y que se considera una de las principales actividades económicas y de alta prioridad en el Estado;
 
-III. Estado: El Estado Libre y Soberano de Colima;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+II. Atlas Turístico de Colima: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos del estado, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo.
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+III. Consejo: El Consejo Consultivo Turístico;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
 IV. Ejecutivo del Estado: El Titular del Poder Ejecutivo de Estado Libre y Soberano de Colima;
 
-V. Secretario: El Secretario de Turismo en el Estado;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-VI. Secretaría: La Secretaría de Turismo del Estado;
+V. Estado: El Estado Libre y Soberano de Colima;
 
-VII. Consejo: El Consejo Consultivo Turístico;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-VIII. Actividad Turística: Las acciones que realizan las personas físicas o morales destinadas a invertir, desarrollar y comercializar los destinos y atractivos turísticos, así como la prestación de los servicios necesarios y vinculados al turismo, y que se considera una de las principales actividades económicas y de alta prioridad en el Estado;
+VI. Ley: la presente Ley;
 
-IX. Prestador de Servicios Turísticos: La persona física o moral que habitualmente proporcione, intermedie o contrate con el Turista, la prestación de los servicios a que se refiere la presente ley;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-X. Programa de Ordenamiento: El Programa de Ordenamiento Turístico del Estado;
+VII. Ley General: La Ley General de Turismo;
 
-XI. Sector: Es el conjunto de organismos públicos, privados y sociales que por sus funciones y objetivos están vinculados al turismo;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-XII. Servicios Turísticos: Son aquellos proporcionados por cualquier prestador de servicios en zona turística;
+VIII. Prestador de Servicios Turísticos: La persona física o moral que habitualmente proporcione, intermedie o contrate con el Turista, la prestación de los servicios a que se refiere la presente ley;
 
-XIII. Turismo: Actividad que se presta cuando uno o más individuos se trasladan a uno o más sitios diferentes de su residencia habitual con el propósito de recreación, salud, descanso, trabajo y cultura, creando con esto beneficios económicos para la región, al consumir bienes y servicios;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-XIV Turista: La persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios a que se refiere esta ley, sin perjuicio de lo dispuesto por la Ley General de Población para los efectos migratorios; y
+IX. Programa de Ordenamiento: El Programa de Ordenamiento Turístico del Estado;
 
-XV. Zona Turística: Área destinada o desarrollada principalmente para la actividad turística y en la que se prestan servicios turísticos, incluyendo zonas arqueológicas.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+X. Secretaría: La Secretaría de Turismo del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XI. Secretario: El Secretario de Turismo en el Estado;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XII. Sector: Es el conjunto de organismos públicos, privados y sociales que por sus funciones y objetivos están vinculados al turismo;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XIII. Servicios Turísticos: Son aquellos proporcionados por cualquier prestador de servicios en zona turística;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XIV. Turismo: Actividad que se presta cuando uno o más individuos se trasladan a uno o más sitios diferentes de su residencia habitual con el propósito de recreación, salud, descanso, trabajo y cultura, creando con esto beneficios económicos para la región, al consumir bienes y servicios;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XV. Turista: La persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios a que se refiere esta ley, sin perjuicio de lo dispuesto por la Ley General de Población para los efectos migratorios; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XVI. Zona Turística: Área destinada o desarrollada principalmente para la actividad turística y en la que se prestan servicios turísticos, incluyendo zonas arqueológicas.
 
 ###### Artículo 5.
 
@@ -139,9 +221,11 @@ Los prestadores de los servicios que no se encuentren comprendidos en este artí
 
 ### CAPÍTULO II. DE LA PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2014)</small>
+
 ###### Artículo 6.
 
-La Secretaría coordinará el Programa Sectorial Turístico, que se sujetará a lo previsto en el Plan Estatal de Desarrollo y a lo que en particular disponga la Ley Federal de Turismo y la Ley Orgánica de la Administración Pública Estatal.
+La Secretaría coordinará el Programa Sectorial Turístico, que se sujetará a lo previsto en el Plan Estatal de Desarrollo y a lo que en particular disponga la Ley General de Turismo y la Ley Orgánica de la Administración Pública Estatal
 
 La planeación de la actividad turística especificará los objetivos, prioridades y políticas que normarán al sector, en congruencia con el Plan Nacional de Desarrollo y el Programa Sectorial Turístico Nacional.
 
@@ -157,9 +241,11 @@ La Secretaría promoverá ante el Ejecutivo del Estado, acuerdos de colaboració
 
 La Secretaría promoverá ante el Ejecutivo del Estado la coordinación con la Secretaría Federal de Turismo, a efecto de participar en los programas de promoción turística e inversión, que se llevaran a cabo a nivel nacional o en el extranjero, con el fin de impulsar y facilitar el intercambio y desarrollo turístico en el Estado.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2014)</small>
+
 ###### Artículo 10.
 
-Con base en este capítulo, la Secretaría planeará sus actividades, de manera que se cumplan con los objetivos y deberes que le imponen la Ley Federal de Turismo y la Ley Orgánica de la Administración Pública Estatal. Asimismo, formulará un programa de inversiones turísticas que pondrá a consideración del ejecutivo, para su aprobación.
+Con base en este capítulo, la Secretaría planeará sus actividades, de manera que se cumplan con los objetivos y deberes que le imponen la Ley General de Turismo y la Ley Orgánica de la Administración Pública Estatal. Asimismo, formulará un programa de inversiones turísticas que pondrá a consideración del ejecutivo, para su aprobación.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -167,7 +253,9 @@ Con base en este capítulo, la Secretaría planeará sus actividades, de manera 
 
 El Estado, a través de la Secretaria y los Municipios, en el ámbito de sus respectivas competencias, estimularán y promoverán entre la iniciativa privada y el sector social la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con objeto de detonar el desarrollo regional.
 
-Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo y el Atlas Turístico de México.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2014)</small>
+
+Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo, en el Atlas Turístico de México y en el Atlas Turístico de Colima.
 
 ### CAPÍTULO III. DE LOS ÓRGANOS MUNICIPALES DE TURISMO
 
@@ -179,9 +267,81 @@ I. Elaborar programas de desarrollo turístico local acordes con el programa sec
 
 II. Crear en el ámbito de su competencia los medios de apoyo y fomento a la inversión en materia turística en el municipio de que se trate;
 
-III. Promover y coordinar las obras de servicios públicos necesarios para la adecuada atención al turista y el propio desarrollo turístico de la comunidad; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-IV. En general promover la planeación, programación, fomento y desarrollo del turismo en forma armónica y acordes al desarrollo turístico de la comunidad, así como ser vigilantes del desempeño de la actividad turística en el ámbito de sus respectivas competencias.
+III. Promover y coordinar las obras de servicios públicos necesarios para la adecuada atención al turista y el propio desarrollo turístico de la comunidad;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+IV. Formular, conducir y evaluar la política turística municipal;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+V. Celebrar convenios en materia turística conforme a lo previsto en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+VI. Aplicar los instrumentos de política turística que les sean atribuidos por las leyes locales, así como la planeación, programación, fomento y desarrollo de la actividad turística en bienes y áreas de competencia municipal, en las materias que no estén expresamente atribuidas al Ejecutivo Estatal.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+VII. Formular, ejecutar y evaluar el Programa Municipal de Turismo, el cual considerará las directrices previstas en el Plan Estatal de Desarrollo, el Programa Sectorial de Turismo y el Programa Local;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+VIII. Establecer el Consejo Consultivo Municipal de Turismo; que tendrá por objeto coordinar, proponer y formular las estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la actividad turística en el Municipio. Será presidido por el titular del Ayuntamiento, y estará integrado por los funcionarios que éste determine, conforme a lo que establezcan las disposiciones reglamentarias. Podrán ser invitadas las instituciones y entidades públicas, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo en el Municipio, las cuales participarán únicamente con derecho a voz;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+IX. Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad turística;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+X. Participar en los programas locales de ordenamiento turístico del territorio;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XI. Participar en el diseño, instrumentación, ejecución y evaluación de los programas locales de investigación para el desarrollo turístico;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XII. Formular y conducir la política municipal de información y difusión en materia turística;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XIII. Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XIV. Promover el impulso de las micro, pequeñas y medianas empresas turísticas;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XV. Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XVI. Operar módulos de información y orientación al turista;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XVII. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XVIII. Atender los demás asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley u otros ordenamientos legales en concordancia con ella y que no estén otorgados expresamente al Ejecutivo Estatal;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XIX. Emitir opinión ante la Secretaría, en aquellos casos en que la inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos, dentro de su territorio;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XX. En general promover la planeación, programación, fomento y desarrollo del turismo en forma armónica y acordes al desarrollo turístico de la comunidad, así como ser vigilantes del desempeño de la actividad turística en el ámbito de sus respectivas competencias; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+XXI. Las demás previstas en éste y otros ordenamientos.
 
 ###### Artículo 12.
 
@@ -199,6 +359,10 @@ Los Consejos, son órganos colegiados de consulta, asesoría y apoyo técnico, l
 
 Habrá un Consejo como órgano supremo del sector, que fungirá como enlace directo con la Secretaría, y un Consejo Consultivo por cada uno de los municipios de la entidad, integrados ambos conforme a lo previsto en el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2014)</small>
+
+El Presidente Ejecutivo del Consejo Consultivo Turístico Estatal será nombrado por el Gobernador del Estado; y los Presidentes Ejecutivos de los Consejos Consultivos turísticos Municipales serán designados por el cabildo municipal correspondiente.
+
 Cada uno de los Consejos expedirá su reglamento, el cual establecerá la permanencia y renovación de sus miembros, la frecuencia de sus sesiones, los procedimientos para la toma y ejecución de sus decisiones y la forma de su organización interna.
 
 ###### Artículo 15.
@@ -215,17 +379,83 @@ IV. Formular las recomendaciones que en su caso procedan a los Prestadores de Se
 
 V. Proponer a la autoridad competente, a los Prestadores de Servicios Turísticos y autoridades que ameriten sanciones por violación a las disposiciones legales o administrativas aplicables y proponer asimismo, a aquellos empresarios que destaquen por su impulso al turismo, la calidad y calidez de los servicios que prestan.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2014)</small>
+
+### CAPITULO V. DE LA CONCURRENCIA Y COORDINACION DE LAS AUTORIDADES DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2014)</small>
+
+###### Artículo 15 Bis.
+
+Son atribuciones del Poder Ejecutivo Estatal, que se ejercerán a través de la Secretaría:
+
+I. Formular y conducir la política turística estatal;
+
+II. Promover, a través del Consejo de Promoción, la actividad turística estatal;
+
+III. Coordinar las acciones que lleven a cabo el Ejecutivo Estatal y los Municipios, en el ámbito de sus respectivas competencias, para el desarrollo turístico del estado, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos del Estado;
+
+IV. Atender los asuntos relacionados con la actividad turística del estado;
+
+V. Regular las acciones para la planeación, programación, fomento y desarrollo de la actividad turística en el estado;
+
+VI. Coadyuvar a la aplicación de los instrumentos de política ambiental en materia de turismo;
+
+VII. Formular las bases de coordinación entre los ámbitos de gobierno, para el establecimiento, regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable;
+
+VIII. Promover la infraestructura y equipamiento, que contribuyan al fomento y desarrollo de la actividad turística, en coordinación con los Municipios y con la participación de los sectores social y privado, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos del Estado;
+
+IX. Promover acuerdos de cooperación y coordinación con el sector privado y social para el impulso, fomento y desarrollo de la actividad turística;
+
+X. Participar en programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XI. Promover, realizar y difundir estudios, investigaciones e indicadores en materia turística;
+
+XII. Establecer la regulación para la clasificación de establecimientos hoteleros y de hospedaje, de cumplimiento obligatorio en todo el estado;
+
+Para el ejercicio de esta atribución el Ejecutivo Estatal podrá signar convenios de colaboración con los municipios en materia de registro de clasificación, verificación del cumplimiento de la regulación a que se refiere la fracción anterior, y la imposición de las sanciones a que haya lugar;
+
+XIII. Promover y vigilar el cumplimiento de esta Ley y los demás ordenamientos y Normas Oficiales que de ella deriven, en el ámbito de su competencia;
+
+XIV. Fijar e imponer, de acuerdo a esta Ley y los reglamentos correspondientes, el tipo y monto y de las sanciones por el incumplimiento y violación de las disposiciones en materia turística; y
+
+XV. Las demás previstas en éste y otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2014)</small>
+
+###### Artículo 15 Bis 1.
+
+El Ejecutivo Estatal, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los Municipios colaboren en el ejercicio de las siguientes atribuciones:
+
+I. Administrar y supervisar las Zonas de Desarrollo Turístico Sustentable, conforme a lo establecido por esta Ley y los programas de ordenamiento turístico del territorio;
+
+II. Elaborar y ejecutar programas de desarrollo de la actividad turística; y
+
+III. Realizar acciones operativas que complementen los fines previstos en este ordenamiento.
+
+En los convenios o acuerdos de coordinación a que se refiere este artículo se podrán establecer las políticas y acciones que habrán de instrumentar el gobierno Estatal y los Municipales, para fomentar las inversiones y propiciar el desarrollo integral y sustentable en beneficio de los habitantes de la Zona; así como los compromisos que asumen dichos órdenes de gobierno para coordinar sus acciones dentro de éstas.
+
+Corresponde a la Secretaría evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo.
+
+Para los efectos de lo antes dispuesto, los convenios o acuerdos de coordinación que celebre el Ejecutivo Estatal, por conducto de la Secretaría, con los gobiernos de los Municipios, deberán sujetarse a las bases previstas en el reglamento de esta Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2014)</small>
+
+### CAPITULO VI. DEL ATLAS TURÍSTICO DE COLIMA
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2014)</small>
+
+###### Artículo 15 Bis 2.
+
+Para elaborar el Atlas Turístico de Colima, la Secretaría se coordinará con otras dependencias e instituciones y en forma concurrente con la Entidad Estatal y las Municipales.
+
+El Atlas Turístico de Colima es una herramienta para la promoción de la actividad turística, teniendo carácter público.
+
 ### CAPÍTULO I. DEL PLAN ESTATAL DE TURISMO
-
-### CAPÍTULO II. TURISMO SOCIAL
-
-### CAPÍTULO III. ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
 
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO IV. DEL PROGRAMA DE REORDENAMIENTO TURÍSTICO DEL TERRITORIO DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO II. TURISMO SOCIAL
 
 ###### Artículo 16.
 
@@ -249,9 +479,7 @@ Cuando los programas derivados del Plan Estatal de Turismo sean susceptibles de 
 
 La Secretaría procurará que en toda región que se pretenda desarrollar turísticamente, se realicen obras que satisfagan las necesidades fundamentales de los prestadores de servicios y de los turistas, tales como: vías de acceso, energía eléctrica, agua potable y otros inherentes a la correcta prestación del servicio, además de lo dispuesto en los Planes de Ordenamiento Ecológicos y Territorial. Para tal propósito se coordinará con las autoridades correspondientes.
 
-### CAPÍTULO V. TURISMO ACCESIBLE
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO III. ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
 
 ###### Artículo 21.
 
@@ -273,7 +501,9 @@ La Secretaría promoverá inversiones que tiendan a incrementar las instalacione
 
 Los poderes públicos, los organismos autónomos, y los municipios del Estado promoverán entre sus trabajadores el turismo social.
 
-### CAPÍTULO I. DE LA PROMOCION Y FOMENTO TURÍSTICO
+### CAPÍTULO IV. DEL PROGRAMA DE REORDENAMIENTO TURÍSTICO DEL TERRITORIO DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 24.
 
@@ -289,7 +519,9 @@ La Secretaría, cuando se trate de proyectos de inversión en zonas de desarroll
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
+### CAPÍTULO V. TURISMO ACCESIBLE
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 26 Bis.
 
@@ -319,9 +551,7 @@ El programa será evaluado anualmente por la Secretaría, ciento ochenta días d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO III. CULTURA TURÍSTICA
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO I. DE LA PROMOCION Y FOMENTO TURÍSTICO
 
 ###### Artículo 26 Bis 3.
 
@@ -339,13 +569,13 @@ Los prestadores de servicios deberán proveer lo necesario para que las personas
 
 La Secretaría y los Órganos Municipales de Turismo del Estado vigilarán que las disposiciones establecidas por este capítulo se cumplan, así como las establecidas en la Ley para la Integración y Desarrollo Social de las Personas con Discapacidad del Estado de Colima y demás aplicables.
 
-### CAPÍTULO IV. REGISTRO NACIONAL DE TURISMO
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO II. DE LA CAPACITACIÓN TURÍSTICA
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO I. DEL TURISMO SUSTENTABLE
+### CAPÍTULO III. CULTURA TURÍSTICA
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 27.
 
@@ -383,7 +613,9 @@ Cuando se trate de inversiones en el sector turístico, la Secretaría en apego 
 
 La Comisión Dictaminadora de los Programas Económicos, una vez recibida la propuesta por parte de la Secretaría, actuará de conformidad a lo previsto en el Capítulo Tercero de la ley a que se refiere el artículo anterior.
 
-### CAPÍTULO II. TURISMO DE NATURALEZA
+### CAPÍTULO IV. REGISTRO NACIONAL DE TURISMO
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 34.
 
@@ -403,7 +635,7 @@ La Secretaría propondrá al Ejecutivo del Estado programas de capacitación, y 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO I. DEL TURISMO SUSTENTABLE
 
 ###### Artículo 37 Bis.
 
@@ -423,7 +655,7 @@ En conjunto con la Secretaría de Cultura, se establecerán programas que tengan
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
+### CAPÍTULO II. TURISMO DE NATURALEZA
 
 ###### Artículo 37 Bis 3.
 
@@ -442,6 +674,44 @@ De conformidad a lo dispuesto por la Ley General, el Estado y sus Municipios cue
 La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la Secretaría Federal, siendo responsabilidad de la Secretaría y de los Municipios constatar la veracidad de la información proporcionada por los prestadores de servicios turísticos en el Estado.
 
 ## TÍTULO CUARTO
+
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+###### Artículo 38.
+
+Para efectos de esta Ley se entiende por actividad turística sustentable la que se lleva a cabo en todo el territorio de la entidad, basada en el uso, estudio y apreciación de los recursos naturales, incluyendo las manifestaciones culturales que en ellos se encuentren.
+
+###### Artículo 39.
+
+Este tipo de actividad promoverá la preservación, conservación y restauración de los recursos naturales, garantizando la permanencia de los procesos biológicos y ecológicos, así como las diversas expresiones históricas, artísticas y culturales.
+
+###### Artículo 40.
+
+Se promoverá de manera especial la educación ambiental del turista y de los residentes locales, orientada a la práctica y desarrollo de una actividad turística sustentable.
+
+###### Artículo 41.
+
+Los centros de hospedaje que pretendan estar clasificados dentro de este capítulo, deberán contar con la infraestructura, operación y la filosofía del concepto del ecoalojamiento, el cual deberá garantizar la preservación, conservación y restauración de la naturaleza, tomando como herramienta al turismo.
+
+### CAPÍTULO II. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
+
+> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE MAYO DE 2014, PRECISA LA MODIFICACIÓN AL ARTÍCULO 49, SIN EMBARGO DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CORRESPONDE AL ACTUAL ARTÍCULO 48.</small>
+
+###### Artículo 42.
+
+Para los efectos de ésta Ley el turismo de naturaleza se clasifica en tres segmentos, a saber: ecoturismo, turismo de aventura y turismo rural.
+
+###### Artículo 43.
+
+El ecoturismo es el turismo de naturaleza en donde los viajes tiene como fin, el realizar actividades recreativas de apreciación y conocimiento de la naturaleza a través del contacto con la misma. Pudiendo ser las siguientes actividades: talleres de educación ambiental, observación de ecosistemas, observación de fauna, observación de fenómenos y atractivos especiales de la naturaleza, observación de flora, observación de fosile (sic), observación geológica, observación sideral, safari fotográfico, senderismo interpretito, participación en programas de rescate de flora y fauna, participación en proyectos de investigación biológica.
+
+###### Artículo 44.
+
+El turismo de Aventura es el turismo de naturaleza que considera a los viajes como fin del (sic) realizar actividades recreativas asociadas a desafíos impuestos por la naturaleza. Pudiendo ser las siguientes actividades: de Tierra: caminata, espeleísmo en roca, catonismo, ciclismo en montaña, alpinismo, rappel, cabalgata, De Agua: buceo libre, espeleobuceo, descenso en ríos, kayaquismo, pesca recreativa, De Aire: paracaidismo, vuelo en parapente, vuelo en ala delta, vuelo en globo, vuelo en ultraligero.
+
+###### Artículo 45.
+
+Turismo Rural es la categoría del turismo de naturaleza que considera a los viajes que tiene como fin el realizar actividades de convivencia e interacción con una comunidad rural en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma. Pudiendo ser las siguientes actividades: etnoturismo, agroturismo, talleres gastronómicos, vivencias místicas, aprendizaje de dialectos, ecoarquiología (sic), preparación y uso (sic) medicina tradicional, talleres artesanales y fotografía rural.
 
 ### CAPÍTULO III. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
 
@@ -463,41 +733,9 @@ Artículo 52 Bis 5 (SIC).- La Secretaría y los Ayuntamientos, en el ámbito de 
 
 > <small>(REFORMADO Y REUBICADO [ANTES CAPÍTULO III], P.O. 30 DE JUNIO DE 2012)</small>
 
-###### Artículo 38.
-
-Para efectos de esta Ley se entiende por actividad turística sustentable la que se lleva a cabo en todo el territorio de la entidad, basada en el uso, estudio y apreciación de los recursos naturales, incluyendo las manifestaciones culturales que en ellos se encuentren.
-
-###### Artículo 39.
-
-Este tipo de actividad promoverá la preservación, conservación y restauración de los recursos naturales, garantizando la permanencia de los procesos biológicos y ecológicos, así como las diversas expresiones históricas, artísticas y culturales.
-
-###### Artículo 40.
-
-Se promoverá de manera especial la educación ambiental del turista y de los residentes locales, orientada a la práctica y desarrollo de una actividad turística sustentable.
-
-###### Artículo 41.
-
-Los centros de hospedaje que pretendan estar clasificados dentro de este capítulo, deberán contar con la infraestructura, operación y la filosofía del concepto del ecoalojamiento, el cual deberá garantizar la preservación, conservación y restauración de la naturaleza, tomando como herramienta al turismo.
+## TÍTULO QUINTO
 
 ### CAPÍTULO IV. DE LA VERIFICACIÓN
-
-###### Artículo 42.
-
-Para los efectos de ésta Ley el turismo de naturaleza se clasifica en tres segmentos, a saber: ecoturismo, turismo de aventura y turismo rural.
-
-###### Artículo 43.
-
-El ecoturismo es el turismo de naturaleza en donde los viajes tiene como fin, el realizar actividades recreativas de apreciación y conocimiento de la naturaleza a través del contacto con la misma. Pudiendo ser las siguientes actividades: talleres de educación ambiental, observación de ecosistemas, observación de fauna, observación de fenómenos y atractivos especiales de la naturaleza, observación de flora, observación de fosile (sic), observación geológica, observación sideral, safari fotográfico, senderismo interpretito, participación en programas de rescate de flora y fauna, participación en proyectos de investigación biológica.
-
-###### Artículo 44.
-
-El turismo de Aventura es el turismo de naturaleza que considera a los viajes como fin del (sic) realizar actividades recreativas asociadas a desafíos impuestos por la naturaleza. Pudiendo ser las siguientes actividades: de Tierra: caminata, espeleísmo en roca, catonismo, ciclismo en montaña, alpinismo, rappel, cabalgata, De Agua: buceo libre, espeleobuceo, descenso en ríos, kayaquismo, pesca recreativa, De Aire: paracaidismo, vuelo en parapente, vuelo en ala delta, vuelo en globo, vuelo en ultraligero.
-
-###### Artículo 45.
-
-Turismo Rural es la categoría del turismo de naturaleza que considera a los viajes que tiene como fin el realizar actividades de convivencia e interacción con una comunidad rural en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma. Pudiendo ser las siguientes actividades: etnoturismo, agroturismo, talleres gastronómicos, vivencias místicas, aprendizaje de dialectos, ecoarquiología (sic), preparación y uso (sic) medicina tradicional, talleres artesanales y fotografía rural.
-
-## TÍTULO QUINTO
 
 ###### Artículo 46.
 
@@ -541,7 +779,7 @@ X. Aparecer en el Registro Nacional de Turismo, así como recibir los beneficios
 
 XI. Solicitar al personal encargado de las visitas de inspección y demás procedimientos de verificación, se identifiquen y presenten la documentación que autoriza su actuación.
 
-> <small>N. DE E. LA MODIFICACIÓN PUBLICADA POR DECRETO No. 642, EN EL P.O. DE 26 DE SEPTIEMBRE DE 2009, REFERENTE AL ARTÍCULO 49 CORRESPONDE AL ARTÍCULO 48 DE TEXTO ORIGINAL.</small>
+> <small>N. DE E. LA MODIFICACIÓN PUBLICADA POR DECRETO No. 299, EN EL P.O. DE 3 DE MAYO DE 2014, REFERENTE AL ARTÍCULO 49 CORRESPONDE AL ARTÍCULO 48 DE TEXTO ORIGINAL.</small>
 
 ###### Artículo 48.
 
@@ -553,7 +791,9 @@ II. Rembolsar, bonificar o compensar la suma correspondiente al servicio incumpl
 
 III. Proporcionar a la Secretaría toda la información y facilitar la documentación que ameriten presentar, para efectos de supervisión, inspección y estadística, cuando se requiera de éstos, siempre y cuando se refiera a documentación relacionada única y exclusivamente con la prestación del servicio turístico correspondiente;
 
-IV. Observar estrictamente las disposiciones de esta Ley y de la Ley Federal de Turismo y demás ordenamientos legales que normen su actividad y vigilar que sus dependientes y empleados cumplan con los mismos;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
+
+IV. Observar estrictamente las disposiciones de esta Ley y de la Ley General de Turismo y demás ordenamientos legales que normen su actividad y vigilar que sus dependientes y empleados cumplan con los mismos;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -575,9 +815,9 @@ X. Garantizar al usuario la tranquila y segura disposición y uso de los bienes 
 
 XI. Participar en el manejo responsable de los recursos naturales, arqueológicos, históricos y culturales, en términos de las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-XII. Inscribirse en el Registro Nacional de Turismo y actualizar los datos oportunamente;
+XII. Inscribirse en el Registro Nacional de Turismo y en el Registro Estatal de Turismo y actualizar los datos oportunamente;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -772,3 +1012,7 @@ P.O. 30 DE JUNIO DE 2012.
 P.O. 1 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
