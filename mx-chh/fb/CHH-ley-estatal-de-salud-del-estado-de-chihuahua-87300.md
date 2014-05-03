@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2013-10-02"
+last_updated: "2014-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -1767,6 +1767,10 @@ III.- La detección oportuna y el control del sobrepeso y obesidad.
 
 IV.- La práctica de ejercicios físicos, para lo cual el Estado promoverá la creación de espacios adecuados para ello.
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+V.- La promoción de medidas preventivas que inhiban o disminuyan en general el consumo de alimentos o bebidas con bajo contenido nutricional y excesivo contenido graso, sal o azúcares, así como aditivos alimentarios.
+
 Estas acciones estratégicas serán prioritarias a partir de la infancia, requiriendo la participación activa de los sectores educativo, público y privado; de la sociedad civil y la familia.
 
 ###### Artículo 188.
@@ -3448,3 +3452,7 @@ P.O. 2 DE OCTUBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
