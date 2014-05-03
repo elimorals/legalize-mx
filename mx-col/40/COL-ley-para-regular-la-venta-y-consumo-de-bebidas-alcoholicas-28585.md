@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2014-03-15"
+last_updated: "2014-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2014.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -91,7 +91,9 @@ e) Las demás que señale esta Ley o los reglamentos municipales.
 
 Corresponde al Titular del Ejecutivo del Estado la facultad de clausurar cualesquiera de los establecimientos a que alude el presente ordenamiento, cuando exista alguna razón de interés general, lo requiera el orden público o cuando se cometa en ellos algún delito contra la vida, la integridad corporal o la salud, de los señalados por el Código Penal del Estado. Esta última hipótesis la ejercerá por conducto del Ministerio Público, quién tendrá a su cargo la ejecución material del mandamiento de clausura.
 
-Así mismo, el Ejecutivo del Estado podrá dictar las medidas que juzgue necesarias para preservar la moral pública y el orden social, cuando por el número, ubicación o funcionamiento de los establecimientos se afecte la tranquilidad social o se lesionen intereses de la colectividad.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2014)</small>
+
+Asimismo, el Ejecutivo del Estado y los Ayuntamientos dictarán las medidas que juzgue necesarias para preservar la moral pública y el orden social, cuando por el número, ubicación o funcionamiento de los establecimientos se afecte la tranquilidad social o se lesionen intereses de la colectividad.
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 2003)</small>
 
@@ -107,9 +109,15 @@ III. Modificar el giro de las licencias, cuando a su juicio se presenten circuns
 
 IV. Fijar los horarios para que funcionen los establecimientos de sus respectivas demarcaciones;
 
-V. Negar la expedición o el refrendo de las licencias, así como revocar la autorización concedida cuando exista alguna razón de interés general o lo requiera el orden público; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2014)</small>
 
-VI. Las demás que les otorgue esta Ley o los reglamentos respectivos.
+V. Negar la expedición o el refrendo de las licencias, así como revocar la autorización concedida cuando exista alguna razón de interés general o lo requiera el orden público;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2014)</small>
+
+VI. Crear zonas libres de establecimientos en los que sólo se venda y consuma bebidas alcohólicas a las que hace referencia la fracción I, del artículo 9o de esta Ley; y
+
+VII. Las demás que les otorgue esta Ley o los reglamentos respectivos.
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 2003)</small>
 
@@ -200,6 +208,10 @@ Los establecimientos señalados en los incisos a), d), f), g), h) y j) de este a
 Para tramitar la autorización de funcionamiento, expedición, refrendo, traspaso de las licencias o cambio de domicilio de alguno de los establecimientos comprendidos y clasificados en esta Ley, los reglamentos municipales señalarán los requisitos que deben llenarse.
 
 La sola presentación de la solicitud y gestión de trámite de la licencia municipal, no autoriza al solicitante a iniciar la actividad o funcionamiento de los establecimientos a que alude esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2014)</small>
+
+En el caso de cambio de domicilio, no procederá éste en ningún caso cuando el traslado sea a una zona libre de establecimientos, así como se prevé en la fracción VI, del artículo 7o de esta Ley.
 
 ###### ARTICULO 12.
 
@@ -486,3 +498,11 @@ P.O. 13 DE MARZO DE 2013.
 P.O. 15 DE MARZO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día su aprobación, debiendo publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se otorga una (sic) plazo de noventa días naturales a los Ayuntamientos de la entidad para que realicen las adecuaciones correspondientes a sus respectivos reglamentos municipales.
+
+TERCERO.- Una vez que los ayuntamientos determinen zonas libres de establecimientos de los previstos en la fracción I, del artículo 9o, en relación con la fracción VI, del artículo 7o, de la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas, seguirán siendo válidas las licencias otorgadas con anterioridad a la declaratoria, sin embargo no podrán otorgarse nuevas licencias de funcionamiento para estas zonas.
