@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-espectaculos-publicos-3107
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-20"
-last_updated: "2008-01-04"
+last_updated: "2014-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTACULOS PUBLICOS Y CENTROS DE REUNION PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTACULOS PUBLICOS Y CENTROS DE REUNION PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de mayo de 1986.
 
@@ -161,7 +161,7 @@ Recibida la solicitud que será presentada por conducto del Secretario General d
 
 Si los interesados no cumplieren con la presentación de la documentación que deben adjuntar a su solicitud, conforme al Artículo 8o. de este Reglamento, dentro de un plazo de quince días contados a partir de la fecha en que el Secretario General del Ayuntamiento les hiciera saber la omisión cometida, se tendrá por no presentada la solicitud y se ordenará también que se devuelvan a los interesados los documentos que hubieren acompañado a la solicitud o solicitudes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### Artículo 11o.
 
@@ -233,7 +233,7 @@ Los espectáculos que requieran que se señalen reglas especiales para cada even
 
 De las Prohibiciones a las Empresas o Representantes de Espectáculos Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### Artículo 23o.
 
@@ -251,9 +251,9 @@ Queda estrictamente prohibido en consecuencia, que personas del público permane
 
 Para los efectos de este Artículo, las empresas al solicitar su respectiva licencia, manifestarán el número de asientos que en cada localidad existan y la categoría de los mismos, es decir el número de asientos en lunetas, el número de plateas y cuantos asientos existan en cada una, número de asientos de palcos y galerías.
 
-III.- Queda prohibido el acceso a los salones y lugares en que se desarrollen los programas autorizados a personas que no hayan pagado el correspondiente boleto, salvo el caso de las personas que en su carácter oficial tengan pase. Cuando los empresarios extiendan pases a lugares donde crucen apuestas en juegos permitidos por la Ley, los interesados deberán cubrir el impuesto respectivo.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-Los niños menores de diez años, pagarán la mitad del precio que paguen las personas adultas a juicio del empresario
+III.- Permitir el acceso a los salones y lugares en que se desarrollen los programas autorizados a personas que no hayan pagado el correspondiente boleto, salvo el caso de las personas que en su carácter oficial tengan pase. Cuando los empresarios extienden pases a lugares donde crucen apuestas en juegos permitidos por la Ley, los interesados deberán cubrir el impuesto respectivo.
 
 IV.- La Presidencia Municipal podrá censurar los programas que presenten para su aprobación, a fin de que, cuando así convenga, no se permita el acceso a los lugares en que se desarrollen esos programas, a niños o individuos menores de edad; para lo cual, los interesados deberán presentar solicitud escrita a la Autoridad Municipal acompañado (sic) a esta, dos ejemplares del programa respectivo a fin de que en virtud de este, se pueda conceder el permiso solicitado.
 
@@ -308,6 +308,10 @@ De la infracción de esta disposición serán responsables mancomunadamente los 
 XXII.- Queda prohibida la reventa de localidades de los espectáculos públicos. Para este efecto las empresas podrán establecer la venta de boletos en diversos lugares y poner a la disposición del público el boletaje varios días antes de la fecha en que ha de tener lugar el evento respectivo, a los precios autorizados.
 
 XXIII.- En los salones de bailes, kermesses y demás centros de esparcimiento, queda prohibido que se expendan bebidas alcohólicas o embriagantes si no se adquiere previamente la licencia respectiva de las autoridades competentes.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
+XXIV.- Permitir el ingreso de niños y jóvenes menores de edad, a aquellos espectáculos donde el objetivo principal sea el daño físico de un animal hasta la muerte del mismo.
 
 ### Capítulo Segundo.
 
@@ -467,9 +471,13 @@ Al hacerse la solicitud, las empresas deberán adjuntar, con carácter consultiv
 
 Los empleados encargados de colocar las apuestas, podrán deambular entre el público, pero siempre que lleven distintivo, e irán uniformados para ser fácilmente identificados por medio de un número claramente visible.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 40o.
 
-A ninguna persona se le permitirá el acceso a los lugares en que se celebren eventos en los que sea permitido cruzar apuestas, si no es pagado el correspondiente boleto de la localidad que ocupe, o bien si tuviere pase por tratarse de persona que tenga algún carácter oficial. Las personas a cuyo favor se expidan pases de cortesía, deberán pagar la cantidad correspondiente a los impuestos fiscales.
+A ninguna persona se le permitirá el acceso a los lugares en que se celebren eventos en los que sea permitido cruzar apuestas, si no es pagado el correspondiente boleto de la localidad que ocupe, o bien si tuviese pase por tratarse de persona que tenga algún carácter oficial. Las personas a cuyo favor se expidan pases de cortesía, deberán pagar la cantidad correspondiente a los impuestos fiscales.
+
+Así mismo como impedir la entrada de niños y jóvenes menores de edad a espectáculos de apuestas donde el objetivo principal sea el daño físico de un animal hasta la muerte del mismo.
 
 ###### Artículo 41o.
 
@@ -688,6 +696,14 @@ c).- En caso de violación a las distintas Fracciones del artículo 23o. de este
 22.- Por violación a la Fracción XXII, multa de dos a tres días o arresto de tres a cinco días.
 
 23.- Por violación a la Fracción XXIII, multa de cuatro a seis días o arresto de cinco a quince días.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+24.-Por violación a la fracción XXIV, multa de 300 días.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+d).- Por violación a lo dispuesto en el Artículo 40o. de este Reglamento, se aplicará multa de 300 días.
 
 II.- Infracciones cuya responsabilidad esté a cargo de los actores, trabajadores, escritores, libretistas, etc.
 
@@ -917,12 +933,18 @@ LIC. GUILLERMO VILLAVICENCIO GONZALEZ.
 
 ( Rúbrica )
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 31 DE MAYO DE 2002.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 4 DE ENERO DE 2008.
 
 UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE MAYO DE 2014.
+
+PRIMERO.- Inclúyase en la próxima ley de ingresos para el Municipio de Ensenada Baja California.
+
+SEGUNDO.- Una vez siendo aprobada la presente reforma, publíquese en el Diario Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
