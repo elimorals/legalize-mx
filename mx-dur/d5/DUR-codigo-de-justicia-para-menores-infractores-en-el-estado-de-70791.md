@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-en-el-estado-de-707
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-11"
-last_updated: "2009-12-10"
+last_updated: "2014-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "DUR"
 ---
 # CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
+CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL NUMERAL 1 DEL ARTICULO QUINTO DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA ENTRADO EN VIGOR.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 11 de octubre de 2009.
 
@@ -51,7 +49,7 @@ CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
 Las disposiciones del presente Código, son de orden público y de observancia en todo el territorio del Estado de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -87,7 +85,9 @@ II. Centro: Los Centros Especializados de Reintegración y Tratamiento para Meno
 
 III. Código Penal: El Código Penal para el Estado Libre y Soberano de Durango;
 
-IV. Código Procesal: Código Procesal Penal del Estado de Durango;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+IV. Código Nacional: Código Nacional de Procedimientos Penales;
 
 V. Código: El Código de Justicia para Menores Infractores en el Estado de Durango;
 
@@ -127,7 +127,7 @@ XXII. Sistema Integral de Justicia para Menores: El régimen jurídico especial 
 
 XXIII. Tratados internacionales: Los tratados, convenios o demás instrumentos internacionales, cualquiera que sea su denominación, celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que establezcan compromisos del Estado Mexicano en materia de personas menores de edad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -135,9 +135,11 @@ XXIV. Tribunal: El Tribunal para Menores Infractores del Poder Judicial del Esta
 
 XXV. Unidad de Diagnóstico: La Unidad de Diagnóstico del Tribunal para Menores Infractores del Estado de Durango.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 4.
 
-Todo menor que se le atribuya la realización de una conducta tipificada como delito en el Código Penal o en las Leyes Estatales, será considerado sujeto susceptible de la aplicación del presente Código.
+Todo menor de dieciocho años y mayor de doce años, que se le atribuya la realización de una conducta tipificada como delito en el Código Penal o en las Leyes Estatales, será considerado sujeto susceptible de la aplicación del presente Código.
 
 ###### Artículo 5.
 
@@ -155,7 +157,7 @@ I. La Procuraduría General de Justicia del Estado de Durango, por conducto del 
 
 II. El Tribunal para Menores Infractores del Estado de Durango, en lo relativo al juzgamiento de los menores, determinación de las medidas aplicables y su ejecución;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -279,9 +281,9 @@ XXIII. Lenocinio.
 
 La tentativa punible de los delitos antes mencionados en las fracciones anteriores se califica como delito grave.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 12.
 
@@ -299,15 +301,17 @@ V. Contra el libre desarrollo de la personalidad.
 
 Para los efectos de este artículo, sólo podrán considerarse delitos cometidos por medios violentos los siguientes: homicidio doloso, secuestro, desaparición forzada de personas, tortura, robo cometido con armas de fuego. Se consideran delitos contra el libre desarrollo de la personalidad: pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho; delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, lenocinio en menores de edad o que no tengan la capacidad de comprender el significado del hecho o de resistirlo; trata de personas en los términos del artículo 5, fracción III, incisos a) y c) del Código Penal.
 
-La tentativa punible de los delitos mencionados también se califica como delito grave.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 Con excepción de los delitos de homicidio calificado, secuestro, trata de personas y violación cometido en perjuicio de menores de edad o incapaces, las partes podrán solicitar al juzgador, respecto de los delitos anteriores, que no aplique oficiosamente el internamiento preventivo y el Juez lo acordará en consecuencia, si estima que el menor cumplirá con sus obligaciones procesales, no constituye un riesgo para el desarrollo de la investigación, para la víctima u ofendido o para terceros. El Juez, en estos casos, podrá no aplicar el internamiento preventivo, sustituyéndolo por otra medida cautelar, siempre que el Ministerio Público no se oponga.
 
 Tratándose de otros delitos, podrá aplicarse otras medidas cautelares, siempre que resulten procedentes de conformidad con las disposiciones de este código.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 13.
 
-En lo no previsto por este Código se aplicará la Ley de Justicia Alternativa del Estado de Durango, el Código Penal y el Código Procesal Penal, en todo cuanto no se oponga a este ordenamiento y a las normas mencionadas por el siguiente artículo.
+En lo no previsto por este Código se aplicará la Ley de Justicia Alternativa del Estado de Durango, el Código Penal y el Código Nacional, en todo cuanto no se oponga a este ordenamiento y a las normas mencionadas por el siguiente artículo.
 
 ###### Artículo 14.
 
@@ -461,6 +465,10 @@ El procedimiento para menores será acusatorio y oral y tendrá como objetivo es
 
 Si en el transcurso del procedimiento se comprueba que la persona señalada como autor o partícipe en la comisión de una conducta tipificada como delito en el Código Penal o en las Leyes Estatales, era mayor de 18 años al momento de cometerla, la autoridad minoril que este conociendo del asunto se declarará incompetente y remitirá los autos a la jurisdicción penal de adultos.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+La competencia por declinatoria no podrá resolverse sino hasta después de que se practiquen las actuaciones que no admitan demora como las providencias precautorias y, en caso de que exista detenido, cuando se haya resuelto sobre la legalidad de la detención, formulado la imputación, resuelto la procedencia de las medidas cautelares solicitadas y la vinculación a proceso.
+
 ###### Artículo 32.
 
 Si en el transcurso del procedimiento se comprueba que la persona señalada como autor o partícipe en la comisión de una conducta tipificada como delito en el Código Penal o en las Leyes Estatales era menor de 12 años al momento de cometerla, el procedimiento cesará, archivándose por tal motivo el proceso, poniendo de inmediato a éste a disposición del Sistema Estatal para el Desarrollo Integral de la Familia, remitiendo a dicha autoridad todo lo actuado.
@@ -533,11 +541,17 @@ El acta podrá ser reemplazada, total o parcialmente, por otra forma de registro
 
 Los gastos de las diligencias solicitadas por el menor o la defensa serán cubiertos por quienes las promuevan.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 46.
 
-Los órganos, los medios y los elementos de prueba aportados y admitidos, serán valorados en su conjunto por el juzgador, atendiendo a las reglas que este ordenamiento establece y sólo tendrán valor si han sido descubiertos, obtenidos, trasladados y manipulados conforme a las reglas de la cadena de custodia, producidos y reproducidos por medios lícitos e incorporados al proceso del modo que autoriza el Código Procesal.
+El Órgano jurisdiccional asignará libremente el valor correspondiente a cada uno de los datos y pruebas, de manera libre y lógica, debiendo justificar adecuadamente el valor otorgado a las pruebas y explicará y justificará su valoración con base en la apreciación conjunta, integral y armónica de todos los elementos probatorios.
 
-No tendrá valor la prueba obtenida mediante la violación de los derechos fundamentales.
+Los datos y las pruebas deberán ser obtenidos, producidos y reproducidos lícitamente y deberán ser admitidos y desahogados en el proceso en los términos que establece este Código.
+
+Se considera prueba ilícita cualquier dato o prueba obtenidos con violación de los derechos fundamentales, lo que será motivo de exclusión o nulidad.
+
+Las partes harán valer la nulidad del medio de prueba en cualquier etapa del proceso y el juez o magistrado deberá pronunciarse al respecto.
 
 ###### Artículo 47.
 
@@ -967,21 +981,29 @@ Incurrirá en falta grave el juzgador que omita apartarse del conocimiento de un
 
 En cuanto a la figura del Ministerio Público se estará a lo que disponen los ordenamientos de la materia, en todo cuanto no se contraponga a este código.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 112.
 
-Los cuerpos de seguridad pública y de policía actuarán como auxiliares del Ministerio Público o de la autoridad minoril jurisdiccional y estarán en cuanto a su regulación a lo ordenado por el Código Procesal.
+Los cuerpos de seguridad pública y de policía actuarán como auxiliares del Ministerio Público o de la autoridad minoril jurisdiccional y estarán en cuanto a su regulación a lo ordenado por el Código Nacional.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 113.
 
-Se entenderá como víctima u ofendido en la comisión de la conducta tipificada como delito:
+Se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva. Asimismo, se considerará ofendido a la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la ley penal como delito.
 
-I. Al directamente afectado por la comisión de la conducta tipificada como delito, ya sea que resienta el daño o perjuicio en su persona o en alguno de los bienes jurídicamente tutelados. La persona legitimada para querellarse, será la propietaria del bien jurídico, o en su caso, el poseedor o quien deba responder por cualquier causa, de hecho o de derecho, de dicho bien;
+En los delitos cuya consecuencia fuera la muerte de la víctima o en el caso en que ésta no pudiera ejercer personalmente los derechos que este Código le otorga, se considerarán como ofendidos, en el siguiente orden, el o la cónyuge, la concubina o concubinario, el conviviente, los parientes por consanguinidad en la línea recta ascendente o descendente sin limitación de grado, por afinidad y civil, o cualquier otra persona que tenga relación afectiva con la víctima.
 
-II. Al cónyuge, o la persona que haya vivido de forma permanente con la víctima u ofendido durante, por lo menos de dos años anteriores al hecho, los dependientes económicos, los descendientes económicos o ascendientes consanguíneos o civiles, los parientes colaterales, consanguíneos o civiles, hasta el segundo grado y al probable heredero, aunque no haya sido declarado como tal en la jurisdicción civil;
+La víctima u ofendido, en términos de la Constitución y demás ordenamientos aplicables, tendrá todos los derechos y prerrogativas que en éstas se le reconocen.
 
-III. A las comunidades indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de sus miembros o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural; y
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
-IV. A los socios, asociados o miembros, respecto de las conductas tipificadas como delitos que afecten una persona jurídica, cometidos por quienes la dirigen, administran o controlan.
+Artículo 113 bis. En el procedimiento minoril, la víctima u ofendido tendrán los derechos que les establece el artículo 109 del Código Nacional.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Artículo 113 ter. En cualquier etapa del procedimiento, las víctimas u ofendidos contaran con un asesor Jurídico en los términos del Código Nacional.
 
 ###### Artículo 114.
 
@@ -1205,13 +1227,17 @@ También se decretará la detención del menor cuya presencia en una audiencia j
 
 Los agentes policiales que ejecuten una orden de detención, conducirán inmediatamente al detenido ante la presencia del Juez que haya librado la orden, debiendo entregar al menor copia de la misma. Una vez que el detenido por orden judicial sea puesto a disposición del Juez de Menores, éste convocará de inmediato a una audiencia que se celebrará dentro del término de las cuarenta y ocho horas.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 145.
 
-El Ministerio Público, al solicitar el libramiento de la orden judicial de detención del menor, hará una relación de los hechos que se le atribuyan, sustentada en forma precisa en los registros correspondientes que exhibirá ante la autoridad judicial y expondrá las razones por las que considera que se actualizaron las exigencias señaladas en el artículo 16 de la Constitución Federal. Dicha solicitud deberá ser formulada por escrito en dos tantos, remitiendo las constancias de la misma y de las actuaciones en que se apoya en archivo magnético.
+El Ministerio Público, al solicitar el libramiento de la orden judicial de detención o comparecencia, del menor, hará una relación de los hechos que se le atribuyan, sustentada en forma precisa en los registros correspondientes que exhibirá ante la autoridad judicial y expondrá las razones por las que considera que se actualizaron las exigencias señaladas en el artículo 16 de la Constitución Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 146.
 
-El Juez de Menores dentro de las veinticuatro horas de recibida la solicitud de orden de detención, resolverá en audiencia privada con el Ministerio Público sobre la misma, debiendo pronunciarse sobre cada uno de los elementos planteados en la solicitud. El Juez de Menores podrá dar una clasificación jurídica distinta a los hechos que en ella se plantean, o a la participación que tuvo el menor en los mismos.
+El Juez de Menores dentro de las veinticuatro horas de recibida la solicitud de orden de detención o comparecencia, resolverá en audiencia privada con el Ministerio Público sobre la misma, debiendo pronunciarse sobre cada uno de los elementos planteados en la solicitud. El Juez de Menores podrá dar una clasificación jurídica distinta a los hechos que en ella se plantean, o a la participación que tuvo el menor en los mismos.
 
 En caso de que dicha solicitud no reúna alguno de los requisitos previstos en el artículo que antecede, el Juez de Menores, de oficio, prevendrá en esta audiencia al Ministerio Público para que los precise o aclare. No procederá la prevención cuando el Juez considere que los hechos que cita el Ministerio Público en su solicitud resulten atípicos.
 
@@ -1229,31 +1255,35 @@ El Ministerio Público podrá dejar sin efecto la detención u ordenar que el me
 
 En todos los casos, el Ministerio Público debe examinar inmediatamente después de que la persona es conducida a su presencia, las condiciones en las que se realizó la detención. Si ésta no fue conforme a las disposiciones de la ley, dispondrá la libertad inmediata de la persona y, en su caso, velará por la aplicación de las sanciones disciplinarias o penales que correspondan.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 148.
 
-Se podrá detener a un menor sin orden judicial de detención en caso de flagrancia.
+Se podrá detener a un menor sin orden judicial en caso de flagrancia. Se entiende que hay flagrancia cuando:
 
-Se entiende que hay flagrancia cuando:
+I. La persona es detenida en el momento de estar cometiendo un delito, o
 
-I. El menor es sorprendido en el momento de estar cometiendo la conducta tipificada como delito;
+II. Inmediatamente después de cometerlo es detenida, en virtud de que:
 
-II. Inmediatamente después de cometerla, es perseguido materialmente; y,
+a) Es sorprendida cometiendo el delito y es perseguida material e ininterrumpidamente, o
 
-III. Cuando el menor es señalado por la víctima, por algún testigo presencial de los hechos o por quien hubiere intervenido con él en la comisión de un hecho típico, y además se le encuentren objetos u otros indicios que hagan presumir fundadamente que acaba de participar en el suceso, y no haya transcurrido un plazo de cuarenta y ocho horas, contado a partir del momento de su comisión.
+b) Cuando la persona sea señalada por la víctima u ofendido, algún testigo presencial de los hechos o quien hubiere intervenido con ella en la comisión del delito y cuando tenga en su poder instrumentos, objetos, productos del delito o se cuente con información o indicios que hagan presumir fundadamente que intervino en el mismo.
 
-En el caso de menores detenidos en flagrancia, el Ministerio Público deberá ponerlo a disposición del Juez en un plazo máximo de 48 horas, atender el procedimiento de la audiencia de control de detención y, en su caso formular la imputación.
+Para los efectos de la fracción II, inciso b), de este precepto, se considera que la persona ha sido detenida en flagrancia por señalamiento, siempre y cuando, inmediatamente después de cometer el delito no se haya interrumpido su búsqueda o localización
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 149.
 
-Inmediatamente después de que el menor detenido en flagrancia sea puesto a disposición del Juez de Menores, éste deberá convocar a una audiencia en la que le informará de sus derechos constitucionales y legales si no se le informó de los mismos con anterioridad. El Juez procederá a calificar la detención y la ratificará si fuere procedente, en caso contrario, decretará la libertad con las reservas de ley. Si se ordena la libertad del menor y el Ministerio Público desea formularle imputación, ésta deberá llevarse a cabo en audiencia diversa.
+En los casos de flagrancia, el Ministerio Público deberá examinar las condiciones en las que se realizó la detención inmediatamente después de que la persona sea puesta a su disposición. Si la detención no fue realizada conforme a lo previsto en la Constitución y en este Código, dispondrá la libertad inmediata de la persona y, en su caso, velará por la aplicación de las sanciones disciplinarias o penales que correspondan.
 
-Para el caso del nombramiento de nuevo defensor, el Juez de Menores proveerá lo relativo a que se informe del contenido de la carpeta de investigación. Procederá a llevar a cabo la audiencia de formulación de imputación y se le concederá la oportunidad de impugnar la legalidad de la detención, solamente en caso de que no haya existido debate sobre dicho tema.
+Así también, durante el plazo de retención el Ministerio Público analizará la necesidad de dicha medida y realizará los actos de investigación que considere necesarios para, en su caso, ejercer la acción penal.
 
-Si no la convalida, dispondrá de inmediato la libertad del menor. Previamente le solicitará que señale domicilio donde pueda ser localizado y deberá designar defensor. Y a solicitud del Ministerio Público lo convocará para que asista a la audiencia de formulación de imputación.
+Inmediatamente después de que el imputado detenido en flagrancia o caso urgente sea puesto a disposición del Juez de control, se citará a la audiencia inicial en la que se realizará el control de la detención antes de que se proceda a la formulación de la imputación. El Juez le preguntará al detenido si cuenta con Defensor y en caso negativo, ordenará que se le nombre un Defensor público y le hará saber que tiene derecho a ofrecer datos de prueba, así como acceso a los registros.
 
-A la audiencia de control de detención deberá concurrir el Ministerio Público, quien justificará ante el Juez los motivos de la detención; su ausencia dará lugar a la liberación del detenido si ya se agotó el término de las cuarenta y ocho horas.
+El Ministerio Público deberá justificar las razones de la detención y el Juez de control procederá a calificarla, examinará el cumplimiento del plazo constitucional de retención y los requisitos de procedibilidad, ratificándola en caso de encontrarse ajustada a derecho o decretando la libertad en los términos previstos en este Código.
 
-Cuando el menor ha sido aprehendido después de habérsele formulado la imputación, por haber incumplido con las obligaciones a su cargo y ha sido puesto a disposición del Juez, éste convocará inmediatamente a una audiencia en la que, a solicitud del Ministerio Público, podrá revocar, modificar o sustituir la medida cautelar decretada con anterioridad.
+Ratificada la detención en flagrancia y cuando se hubiere ejecutado una orden de aprehensión, el imputado permanecerá detenido durante el desarrollo de la audiencia inicial, hasta en tanto no se resuelva si será o no sometido a prisión preventiva, sin perjuicio de lo dispuesto en el artículo anterior.
 
 ###### Artículo 150.
 
@@ -1291,9 +1321,11 @@ A solicitud del Ministerio Público, el Juez de Menores podrá imponer una sola 
 
 El Juez de Menores no podrá aplicar estas medidas desnaturalizando su finalidad, ni imponer otras más graves que las solicitadas o cuyo cumplimiento resulte imposible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 153.
 
-Para decidir acerca del peligro de no comparecencia del menor, el Juez de Menores tomará en cuenta, especialmente las siguientes circunstancias:
+Para decidir acerca del peligro de no comparecencia del menor, el Juez de Menores tomará en cuenta, cualquiera de las siguientes circunstancias:
 
 I. Arraigo en el Estado o en el distrito judicial en que debe ser juzgado determinado por el domicilio, residencia habitual, asiento de la familia, de sus negocios o trabajo y las facilidades para abandonar el Estado, el país o permanecer oculto. La falsedad o la negativa a otorgar su domicilio constituye presunción de que pretende sustraerse a la acción de la justicia;
 
@@ -1301,7 +1333,11 @@ II. La importancia del daño que debe ser resarcido; el máximo de la medida que
 
 III. El comportamiento del menor durante el proceso o en otro anterior, en la medida que indique su voluntad de someterse o no al proceso;
 
-IV. La inobservancia de medidas cautelares que se le hayan impuesto con anterioridad; y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+IV. La inobservancia de medidas cautelares que se le hayan impuesto con anterioridad; o
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 V. El desacato a citaciones en que sea indispensable su asistencia.
 
@@ -1381,7 +1417,9 @@ Si se ha dictado sentencia condenatoria y ésta ha sido impugnada, el plazo máx
 
 El Tribunal que conozca del recurso, excepcionalmente y de oficio podrá autorizar una prórroga de la medida de internamiento preventivo más allá del plazo anterior sin que en ningún caso exceda de otros tres meses cuando disponga la reposición del juicio.
 
-El plazo máximo del internamiento preventivo incluyendo sus prórrogas no podrá exceder de un año dos meses.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+El plazo máximo del internamiento preventivo incluyendo sus prórrogas no podrá exceder de un año.
 
 ###### Artículo 163.
 
@@ -1405,37 +1443,35 @@ En estos casos, si es imprescindible la medida de internamiento preventivo, se d
 
 Con apego a los principios de mínima intervención y subsidiariedad, se establecen los siguientes procedimientos alternativas al juzgamiento, sobre la base del interés superior del menor.
 
-### CAPITULO I. PROCEDIMIENTO ALTERNATIVO ANTE EL MINISTERIO PÚBLICO ESPECIALIZADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
+
+### CAPITULO I. DE LOS CRITERIOS DE OPORTUNIDAD
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 166.
 
-El Ministerio Público podrá prescindir total o parcialmente de la persecución penal, limitarla a una o varias conductas tipificadas como delitos por el Código Penal o las Leyes Estatales o alguna de las personas que hayan participado en el hecho, solamente en las conductas que no ameriten privación de libertad de acuerdo con este Código y con aprobación del Juez de Menores, cuando:
+Dentro del procedimiento el Agente del Ministerio Publico, podrá optar por la aplicación de criterios de oportunidad en los términos del Código Nacional, cuando así proceda.
 
-I. La conducta tipificada como delito por el Código Penal o en las Leyes Estatales no afecte el interés público ya sea por su insignificancia, lo exiguo de la participación del menor o su mínima culpabilidad;
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
-II. El menor haya sufrido un daño físico o moral grave a consecuencia de la conducta tipificada como delito por el Código Penal o en las Leyes Estatales investigada (sic), o
+### CAPITULO II. ACUERDOS REPARATORIOS
 
-III. La conducta tipificada como delito por el Código Penal o en las Leyes Estatales cuya persecución se prescinde, tenga una medida que carezca de importancia en consideración a la medida que se debe de esperar por las restantes conductas o infracciones.
-
-En estos casos, el Ministerio Público deberá tomar en cuenta lo manifestado por la víctima u ofendido.
-
-### CAPITULO II. PROCEDIMIENTO ANTE EL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 167.
 
-Para los efectos de esta medida, el Ministerio Público deberá informar de inmediato al Juez de Menores, en escrito fundado y motivado, las razones de su decisión incluidas las manifestaciones que sobre el particular hayan hecho la víctima o el ofendido.
+Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el imputado que, una vez aprobados por el Ministerio Público o el Juez de control y cumplidos en sus términos, tienen como efecto la conclusión del proceso.
 
-En consecuencia, decretará en el mismo acto la libertad con las reservas de Ley, al menor beneficiado con esta medida.
-
-Los menores beneficiados por esta determinación, serán entregados a sus padres, tutores, custodios o quienes ejerzan la patria potestad; a falta de todos los anteriores podrán ser remitidos a alguna institución de asistencia social de los sectores público o privado que se ocupen de la protección de los derechos del niño o de los menores.
-
-Corresponde al Juez de Menores aprobar la resolución del Ministerio Público, en cuyo caso se procederá de oficio a decretar la libertad absoluta del menor extinguiendo con ello la acción persecutoria del delito; en caso de no hacerlo, el Juez de Menores ordenará al Ministerio Público, también mediante escrito fundado y motivado, el ejercicio de la acción persecutoria del delito.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 168.
 
-Cuando se den las condiciones señaladas en el artículo anterior, si la acción persecutoria ya ha sido ejercida, el Ministerio Público podrá comunicar al Juez de Menores, mediante resolución fundada y motivada, su desistimiento en cualquier etapa del juicio hasta antes de que se dicte sentencia.
+Para su trámite, procedencia y oportunidad se estará a lo establecido por el Código Nacional.
 
-### CAPITULO III. SUSPENSIÓN DEL JUICIO A PRUEBA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 6 DE MAYO DE 2014)</small>
+
+### CAPITULO III. PROCEDIMIENTO ANTE EL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
 ###### Artículo 169.
 
@@ -1469,7 +1505,9 @@ Con independencia de lo anterior, el acuerdo certificado por el Juez de Menores,
 
 Sin perjuicio de todo lo anterior, durante la fase de investigación el Ministerio Público procurará en todo momento la conciliación entre el menor y el ofendido.
 
-### CAPITULO I. ETAPA DE LA INVESTIGACIÓN
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 6 DE MAYO DE 2014)</small>
+
+### CAPITULO IV. SUSPENSIÓN DEL JUICIO A PRUEBA
 
 ###### Artículo 175.
 
@@ -1529,17 +1567,19 @@ Si el menor cumplió con las obligaciones que el Juez de Menores le impuso duran
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO
 
-### CAPITULO II. FORMULACIÓN DE LA IMPUTACIÓN
+### CAPITULO I. ETAPA DE LA INVESTIGACIÓN
 
 ###### Artículo 181.
 
 La investigación de la realización de las conductas tipificadas como delitos por el Código Penal o en las Leyes Estatales cometidas por los menores, se iniciará por el Ministerio Público, de oficio o a petición de parte, a partir de la denuncia o querella que de manera verbal o escrita le formulen.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 182.
 
-En cuanto a la etapa de investigación se estará en estricto apego a lo dispuesto por el código procesal, en tanto no se oponga al presente código, bajo la salvedad de que cuando este ordenamiento haga referencia al Juez de Control, se referirá al Juez de Menores.
+En cuanto a la etapa de investigación se estará en estricto apego a lo dispuesto por el Código Nacional, en tanto no se oponga al presente código, bajo la salvedad de que cuando este ordenamiento haga referencia al Juez de Control, se referirá al Juez de Menores.
 
-### CAPITULO III. VINCULACIÓN A PROCESO DEL MENOR INFRACTOR
+### CAPITULO II. FORMULACIÓN DE LA IMPUTACIÓN
 
 ###### Artículo 183.
 
@@ -1583,7 +1623,7 @@ Las diligencias de investigación que en términos de la ley de la materia requi
 
 Si con posterioridad a la formulación de la imputación el Ministerio Público solicite proceder de la forma señalada en el párrafo anterior, el Juez lo autorizará, cuando la reserva resulte estrictamente indispensable para la eficacia de la diligencia. No obstante, lo previsto en este párrafo la información deberá ser siempre oportunamente revelada para no afectar el derecho de defensa.
 
-### CAPITULO IV. AUDIENCIA INTERMEDIA Y SUS GENERALIDADES
+### CAPITULO III. VINCULACIÓN A PROCESO DEL MENOR INFRACTOR
 
 ###### Artículo 189.
 
@@ -1649,17 +1689,11 @@ Los antecedentes de la investigación, los datos de prueba recibidos en la audie
 
 El Juez de Menores, de oficio o a solicitud de parte, al resolver sobre la vinculación del menor a proceso, fijará un plazo para el cierre de la investigación, tomando en cuenta la complejidad de la misma, sin que pueda ser mayor a dos meses.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 197.
 
-La vinculación a proceso producirá los siguientes efectos:
-
-I. Suspenderá el curso de la prescripción de la acción penal;
-
-II. Comenzará a correr el plazo para el cierre de la investigación;
-
-III. Fijará el hecho o los hechos delictuosos sobre los cuales se continuará el proceso de investigación en la etapa preliminar y que servirán, en las demás etapas del proceso, para determinar las formas anticipadas de terminación del proceso, el procedimiento abreviado, la apertura a juicio o el sobreseimiento; y
-
-IV. El Ministerio Público perderá la facultad de archivar temporalmente el proceso.
+La vinculación a proceso tendrá como efectos establecer el hecho o los hechos delictivos sobre los que se continuará el proceso o se determinarán las formas anticipadas de terminación del proceso, la apertura a juicio o el sobreseimiento.
 
 ###### Artículo 198.
 
@@ -1687,9 +1721,9 @@ VII. El hecho de que se trate haya sido materia de un proceso penal en el que se
 
 VIII. En los demás casos en que lo disponga la ley;
 
-IX. La resolución que determine el sobreseimiento será apelable, salvo que se produzca en el transcurso del juicio oral.
+IX. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
-Recibida la solicitud de sobreseimiento, el Juez la comunicará a las partes y citará dentro de las veinticuatro horas siguientes si lo considera pertinente, a una audiencia donde se resolverá.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 200.
 
@@ -1755,7 +1789,7 @@ III. Fue rendida en presencia de su defensor y se haya acreditado que se realiz�
 
 IV. Haya sido videograbada.
 
-### CAPITULO UNICO. AUDIENCIA DE JUICIO ORAL Y SUS GENERALIDADES
+### CAPITULO IV. AUDIENCIA INTERMEDIA Y SUS GENERALIDADES
 
 ###### Artículo 206.
 
@@ -1847,7 +1881,7 @@ Al finalizar la audiencia, el Juez dictará el auto de apertura de juicio oral.
 
 ## TITULO SEXTO. DE LA AUDIENCIA DE JUICIO ORAL Y SUS GENERALIDADES
 
-### CAPITULO I. MEDIDAS Y SU EJECUCIÓN
+### CAPITULO UNICO. AUDIENCIA DE JUICIO ORAL Y SUS GENERALIDADES
 
 ###### Artículo 215.
 
@@ -2159,7 +2193,7 @@ Una vez firme la medida, el Juez establecerá las condiciones y la forma en que 
 
 ## TITULO SEPTIMO. DE LAS MEDIDAS Y SU EJECUCIÓN
 
-### CAPITULO II. EJECUCIÓN Y CONTROL DE MEDIDAS
+### CAPITULO I. MEDIDAS Y SU EJECUCIÓN
 
 ###### Artículo 255.
 
@@ -2229,7 +2263,7 @@ La imposición de las medidas privativas de la libertad previstas en este Códig
 
 Para los efectos de la determinación de la medida privativa de la libertad, deberá tomarse en cuenta los criterios de individualización de sanciones previstos en el Código Penal en tanto no se opongan al presente Código.
 
-### CAPITULO III. PROCEDIMIENTO DE EJECUCIÓN
+### CAPITULO II. EJECUCIÓN Y CONTROL DE MEDIDAS
 
 ###### Artículo 261.
 
@@ -2309,7 +2343,7 @@ VI. Cualquier otro que contribuya al desarrollo integral del menor.
 
 Las personas mencionadas en este artículo colaborarán junto con las autoridades, para lograr que el menor cumpla efectivamente la medida.
 
-### CAPITULO IV. DE LAS MEDIDAS NO PRIVATIVAS DE LA LIBERTAD
+### CAPITULO III. PROCEDIMIENTO DE EJECUCIÓN
 
 ###### Artículo 271.
 
@@ -2361,7 +2395,7 @@ Dichas decisiones deberán ser notificadas inmediatamente al menor, a su defenso
 
 Contra las resoluciones dictadas por el Director del Centro, que lesionen derechos fundamentales o causen un daño irreparable al menor sometido a la medida, procederá el recurso de revisión ante el Juez de Ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2445,15 +2479,19 @@ El Juez de Ejecución podrá rechazar sin trámite la solicitud de modificación
 
 En todo caso, esta determinación deberá estar fundada y motivada.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 288.
 
-Contra las resoluciones de los Jueces de Ejecución, que afecten derechos fundamentales o causen un daño irreparable al menor, procede el recurso de casación.
+Contra las resoluciones de los Jueces de Ejecución, que afecten derechos fundamentales o causen un daño irreparable al menor, procede el recurso de apelación.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 289.
 
-Solo serán recurribles por el Ministerio Público, mediante casación, las resoluciones del Juez de Ejecución que concedan algún beneficio que implique la terminación anticipada de una medida o rechacen el incumplimiento injustificado de una medida por el menor.
+Solo serán recurribles por el Ministerio Público, mediante apelación, las resoluciones del Juez de Ejecución que concedan algún beneficio que implique la terminación anticipada de una medida o rechacen el incumplimiento injustificado de una medida por el menor.
 
-### CAPITULO V. MEDIDAS PECUNIARIAS
+### CAPITULO IV. DE LAS MEDIDAS NO PRIVATIVAS DE LA LIBERTAD
 
 ###### Artículo 290.
 
@@ -2499,7 +2537,7 @@ La inasistencia injustificada del menor sometido a una medida, por más de tres 
 
 En los casos en los que se acredite el incumplimiento, el Juez de Ejecución deberá ser notificado de inmediato por el órgano de ejecución para que se proceda conforme a este Código.
 
-### CAPITULO VI. MEDIDAS DE ORIENTACIÓN Y SUPERVISIÓN
+### CAPITULO V. MEDIDAS PECUNIARIAS
 
 ###### Artículo 294.
 
@@ -2557,7 +2595,7 @@ Cumplida la resolución por el menor, la Unidad de Diagnóstico, deberá comunic
 
 Una vez obtenida la reparación del daño por esta vía, la víctima o sus derechohabientes no podrán reclamarla por la vía civil.
 
-### CAPITULO VII. MEDIDAS RESTRICTIVAS Y PRIVATIVAS DE LA LIBERTAD
+### CAPITULO VI. MEDIDAS DE ORIENTACIÓN Y SUPERVISIÓN
 
 ###### Artículo 301.
 
@@ -2663,7 +2701,7 @@ Una vez firme la resolución que lo ordena, el Juez de Ejecución instruirá par
 
 Competerá a la Unidad de Diagnostico supervisar las reincorporación del menor a su familia dando cuenta de ello al Juez de Ejecución.
 
-### CAPITULO I. REGLAS GENERALES
+### CAPITULO VII. MEDIDAS RESTRICTIVAS Y PRIVATIVAS DE LA LIBERTAD
 
 ###### Artículo 312.
 
@@ -2761,7 +2799,7 @@ Ninguna unificación de condenas o concurso de conductas tipificados como delito
 
 ## TITULO OCTAVO. DE LOS RECURSOS
 
-### CAPITULO II. RECURSO DE APELACIÓN
+### CAPITULO I. REGLAS GENERALES
 
 ###### Artículo 329.
 
@@ -2771,225 +2809,175 @@ Las resoluciones judiciales serán recurribles sólo por los medios y en los cas
 
 En el proceso minoril, solo se admitirán los siguientes recursos.
 
-I. Apelación
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-II. Casación
+I. Revocación;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+II. Apelación, y
 
 III. Revisión
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 331.
 
-Estarán facultados para interponer el recurso de apelación y de casación el menor, su defensor o representante legal y el Ministerio Público.
+Estarán facultados para interponer los recursos las partes en el presente procedimiento en los términos del Código Nacional.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 332.
 
-Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en este Código, con indicación específica de la parte impugnada de la resolución recurrida.
+Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en el Código Nacional
 
-### CAPITULO III. RECURSO DE CASACIÓN
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+### CAPITULO II. DEL RECURSO DE REVOCACIÓN
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 333.
 
-Sólo podrán impugnar las decisiones judiciales que pudieran causarles agravio, siempre que no hayan contribuido a provocarlo. El recurso deberá sustentarse en el reproche de los defectos que causan la afectación.
-
-El menor podrá impugnar una decisión judicial aunque haya contribuido a provocar el agravio, en los casos en que se lesionen derechos fundamentales.
+La Procedencia y trámite del recurso de revocación se realizara en los términos previstos por el Código Nacional.
 
 ###### Artículo 334.
 
-La interposición de un recurso no suspenderá el cumplimiento de la decisión, a menos que se trate del recurso de casación y cuando la ley disponga lo contrario.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 335.
 
-El Ministerio Público podrá desistirse de sus recursos, mediante determinación motivada y fundada.
-
-Los sujetos procesales podrán desistirse de los recursos interpuestos por ellas (sic) o por sus representantes, sin perjudicar a los demás recurrentes.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 336.
 
-El tribunal que conozca de un recurso sólo podrá pronunciarse sobre los agravios expresados por los recurrentes, quedándole prohibido extender el examen de la decisión combatida a cuestiones no planteadas por ellos o más allá de los límites del recurso.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 337.
 
 Los errores en la citación de los artículos que se refieren a la fundamentación de la sentencia o resolución impugnadas, que no hayan influido en la parte resolutiva, así como los errores de forma en la designación o el cómputo de las penas, no anularán la resolución, pero serán corregidos en cuanto sean advertidos o señalados por alguna de las partes procesales, o aun de oficio.
 
-### CAPITULO IV. RECURSO DE REVISIÓN
+### CAPITULO III. RECURSO DE APELACIÓN
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 338.
 
-El recurso de apelación procede contra las siguientes resoluciones:
+El recurso de apelación en términos del Código Nacional, procede contra las siguientes resoluciones:
 
-I. Las dictadas por el Juez de Menores, que:
+A. Serán apelables las siguientes resoluciones emitidas por el Juez en la etapa inicial:
 
-a) Declaren procedente o improcedente la vinculación a proceso;
+I. Las que nieguen el anticipo de prueba;
 
-b) Las que se pronuncien sobre las medidas cautelares;
+II. Las que nieguen la posibilidad de celebrar acuerdos reparatorios o no los ratifiquen;
 
-c) Las que decreten, nieguen o revoquen la suspensión del juicio a prueba;
+III. La negativa o cancelación de orden de aprehensión o comparecencia;
 
-d) Las que nieguen la orden judicial de detención o cateo;
+IV. La negativa de orden de cateo;
 
-e) Las resoluciones denegatorias de prueba; y,
+V. Las que se pronuncien sobre las medidas cautelares y providencias precautorias;
 
-f) Decreten o nieguen el acuerdo conciliatorio y su cumplimiento o incumplimiento.
+VI. Las que pongan término al procedimiento o lo suspendan;
+
+VII. El auto que resuelve la vinculación del imputado a proceso;
+
+VIII. Las que concedan, nieguen o revoquen la suspensión del juicio a prueba, y
+
+IX. Las que excluyan algún medio de prueba.
+
+B. Serán apelables las siguientes resoluciones emitidas por el Juez en la etapa de Juicio Oral:
+
+I. Las que versen sobre el desistimiento de la acción penal por el Ministerio Público;
+
+II. La sentencia definitiva en relación a aquellas consideraciones contenidas en la misma, distintas a la valoración de la prueba siempre y cuando no comprometan el principio de inmediación, o bien aquellos actos que impliquen una violación grave del debido proceso.
+
+C. Serán apelables las resoluciones emitidas por los jueces de ejecución respecto a la situación jurídica de los menores sentenciados y las demás que establezca este código o la ley de la materia.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 339.
 
-Del recurso de apelación conocerán el Magistrado, y estarán facultados para interponerlo el menor, su defensor o su representante legal así como el Ministerio Público.
+Del recurso de apelación conocerá el Magistrado de la Sala Unitaria del Tribunal para Menores Infractores.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 340.
 
-El recurso tiene por objeto obtener la modificación, revocación o confirmación de las resoluciones impugnadas.
+El recurso se tramitara en los términos que establece el Código Nacional.
 
 ###### Artículo 341.
 
-El recurso de apelación se interpondrá por escrito ante el mismo Juez que dictó la resolución, dentro del plazo de tres días.
-
-En el escrito motivado en el cual se interponga el recurso, se deberán expresar los agravios que causa al recurrente la resolución impugnada.
-
-Cuando el tribunal competente para conocer de la apelación tenga su sede en un lugar distinto al del proceso, las partes deberán fijar un nuevo domicilio en la jurisdicción de aquél para recibir notificaciones o la forma para recibirlas.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 342.
 
-Presentado el recurso, el Juez ordenará emplazar a las partes procesales para que comparezcan ante la Sala de Apelación y remitirá la resolución y copia certificada de los registros de las actuaciones judiciales pertinentes así como los registros magnéticos correspondientes.
-
-Si se producen adhesiones durante el emplazamiento, correrá traslado a las otras partes procesales para que contesten la adhesión en un plazo igual. Integrado el recurso, se remitirán las actuaciones a la Sala de Apelación para que resuelva.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 343.
 
-Recibida la resolución apelada, los antecedentes y los registros, el tribunal competente resolverá de plano sobre la admisibilidad del recurso y la legitimación del recurrente. Si no se hubieran expresado agravios, se declarará inadmisible el recurso.
-
-Si al interponer el recurso, al contestarlo o al adherirse a él, alguno de los interesados considera necesario exponer oralmente sus argumentos, o bien, cuando el tribunal lo considere útil, éste citará a una audiencia oral dentro de los diez días siguientes, para resolver sobre la cuestión planteada.
-
-En caso de que no deba convocarse a la audiencia, el tribunal se pronunciará sobre el recurso en un plazo no mayor de tres días, a partir de la recepción de la resolución apelada y sus antecedentes.
-
-Excepcionalmente, de oficio o a petición de parte, la Sala de Apelación podrá solicitar los registros originales. Ello no implicará la paralización ni suspensión del proceso.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 344.
 
-La audiencia se celebrará con las partes procesales que comparezcan, quienes podrán hacer uso de la palabra.
-
-El menor será representado por su defensor, pero si es su deseo podrá asistir a la audiencia y, en ese caso, se le concederá la palabra en último término.
-
-En la audiencia, el magistrado podrá interrogar a los recurrentes sobre las cuestiones planteadas en el recurso.
-
-Concluido el debate, el tribunal pronunciará resolución de inmediato o, si no fuere posible, dentro de un plazo de tres días siguientes a la celebración de la audiencia, en fecha y hora que dará a conocer a los intervinientes en la misma. El tribunal podrá revocar, modificar o confirmar la resolución recurrida.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 345.
 
-El recurso será improcedente cuando quienes estén facultados para hacerlo valer se hubieren conformado expresamente con la resolución o no lo hubieren interpuesto dentro de los plazos previstos por este Código, o cuando ocurriere el desistimiento ulterior. Tampoco procederán los recursos planteados por personas que no estén expresamente facultadas para ello.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 346.
 
-Las sentencias del Magistrado tendrán el carácter de definitivas y no admitirán recurso alguno.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 2014)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+### CAPITULO IV. RECURSO DE CASACIÓN
 
 ###### Artículo 347.
 
-El recurso de casación tiene como objeto invalidar la audiencia de juicio oral, la sentencia o la resolución de sobreseimiento dictada en dicha audiencia, así como la resolución dictada por el Juez de ejecución para resolver sobre el cese, modificación o sustitución de las medidas impuestas, cuando en éstas se hubieren quebrantado las formalidades esenciales del procedimiento o sea vulnerado el principio de legalidad.
-
-Cuando el precepto legal que se invoque como inobservado o erróneamente aplicado provoque una nulidad, el recurso sólo será admisible si el interesado ha reclamado oportunamente su saneamiento o ha hecho protesta de recurrir en casación, salvo en los casos de violaciones a derechos fundamentales y los producidos después de clausurado el debate.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 348.
 
-El recurso de casación se interpondrá ante el Juez que emitió el acto o resolución impugnada, dentro de los diez días siguientes a la notificación de la resolución impugnada, mediante escrito en el que se precisarán las disposiciones legales que se consideren inobservadas o erróneamente aplicadas y se expresarán los motivos de agravio correspondientes.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 349.
 
-La interposición del recurso de casación suspende los efectos de la sentencia que declaró la culpabilidad del acusado así como los de las sentencias emitidas por el Juez de Ejecución, al decretar la modificación, sustitución o cese de la medida impuesta por el Juez de Menores.
-
-Interpuesto el recurso, no podrán invocarse nuevas causales de nulidad respecto del acto impugnado; sin embargo, el tribunal podrá hacer valer y reparar de oficio, a favor del sentenciado, las violaciones a sus derechos fundamentales.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 350.
 
-El tribunal competente para conocer del recurso de casación lo declarará inadmisible cuando:
-
-I. Haya sido interpuesto fuera del plazo;
-
-II. Se haya deducido en contra de una resolución que no sea impugnable por medio de este recurso;
-
-III. Lo interponga persona no legitimada para ello; o
-
-IV. El escrito de interposición carezca de agravios o peticiones concretas.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 351.
 
-El juicio y la sentencia emitida por el Juez de Menores serán motivos de nulidad cuando:
-
-I. En la tramitación de la audiencia de debate de juicio oral se hayan infringido derechos fundamentales;
-
-II. La sentencia haya sido pronunciada por un tribunal incompetente o que, en los términos de la ley, no garantice su imparcialidad;
-
-III. La audiencia del juicio oral haya tenido lugar en ausencia del Juez de Menores o de los sujetos procesales, cuya presencia ininterrumpida exige la ley;
-
-IV. Se haya violado el derecho de defensa o el de contradicción; o
-
-V. En el juicio oral se hayan violado las disposiciones establecidas por la ley sobre publicidad, oralidad y concentración del juicio, siempre que se vulneren derechos de las partes procesales.
-
-En estos casos, el tribunal competente ordenará la celebración de un nuevo juicio o audiencia.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 352.
 
-La sentencia emitida por el Juez de Menores será motivo de casación cuando:
-
-I. Violente en lo que atañe al fondo de la cuestión debatida, un derecho fundamental o la garantía de legalidad;
-
-II. Carezca de fundamentación, motivación o no haya pronunciamiento sobre la reparación del daño;
-
-III. Haya tomado en cuenta una prueba ilícita que trascienda al resultado del fallo;
-
-IV. No haya respetado el principio de congruencia con la acusación;
-
-V. Haya sido dictada en oposición a otra sentencia penal ejecutoriada;
-
-VI. Al apreciar la prueba, se determine que no se observaron las reglas de la sana crítica, de la experiencia o de la lógica. Asimismo, en caso de que la sentencia se funde en una información contraria o falsa al contenido de los medios de prueba que se rindieron en la audiencia de debate de juicio, siempre que trascienda al resultado del fallo; y,
-
-VII. La acción de responsabilidad minoril esté extinguida.
-
-En estos casos, el tribunal competente invalidará la sentencia y de acuerdo con las circunstancias particulares del caso, determinará si pronuncia directamente una resolución de reemplazo o si ordena la reposición de la audiencia de debate de juicio oral, en los términos del artículo anterior.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 353.
 
-La sentencia emitida por el Juez de Ejecución será motivo de casación cuando:
-
-I. Violente en lo que atañe al fondo de la cuestión debatida, un derecho fundamental o la garantía de legalidad;
-
-II. Carezca de fundamentación o motivación;
-
-III. Haya tomado en cuenta una prueba ilícita que trascienda al resultado del fallo;
-
-IV. Al apreciar la prueba, se determine que no se observaron las reglas de la sana crítica, de la experiencia o de la lógica. Asimismo, en caso de que la sentencia se funde en una información contraria o falsa al contenido de los medios de prueba que se rindieron en la audiencia, siempre que trascienda al resultado del fallo; y
-
-V. La acción de responsabilidad minoril esté extinguida.
-
-En estos casos, el tribunal competente invalidará la sentencia y de acuerdo con las circunstancias particulares del caso, determinará si pronuncia directamente una resolución de reemplazo o si ordena la reposición de la audiencia de debate de juicio oral, en los términos del artículo anterior.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 354.
 
-No causan nulidad los errores de la sentencia recurrida que no influyan en su parte dispositiva, sin perjuicio de que el tribunal competente pueda corregir los que advierta durante el conocimiento del recurso.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 355.
 
-En la tramitación del recurso de casación se seguirá el procedimiento previsto para la apelación, salvo disposición en contrario. El Tribunal de casación resolverá dentro de los diez días.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 356.
 
-En la sentencia el tribunal deberá exponer los fundamentos y motivos que sirvieron de base para su decisión y pronunciarse sobre todas las cuestiones controvertidas, salvo que acogiere el recurso con base en alguna causal que fuere suficiente para anular la sentencia.
-
-Si el tribunal de casación decreta procedente anular total o parcialmente la resolución impugnada, ordenará la reposición del juicio o de la resolución.
-
-Cuando la anulación sea parcial, se indicará el objeto concreto del nuevo juicio o resolución. En los demás casos, enmendará el defecto y resolverá el asunto de acuerdo con la ley aplicable.
-
-Si por efecto de la resolución del recurso deba cesar la prisión del sentenciado, el tribunal de casación ordenará directamente la libertad.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 357.
 
-No será susceptible de recurso alguno la sentencia que se dicte en el nuevo juicio que se realice, como consecuencia de la resolución que haya acogido el recurso de casación. No obstante, si la sentencia fuera condenatoria y la que se hubiera anulado sea absolutoria, procederá el recurso de casación en favor del acusado, conforme a las reglas generales.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
-### CAPITULO II. ATRIBUCIONES DEL TRIBUNAL PARA MENORES INFRACTORES DEL ESTADO DE DURANGO
+### CAPITULO V. RECURSO DE REVISIÓN
 
 ###### Artículo 358.
 
@@ -3017,7 +3005,11 @@ La interposición del recurso de revisión suspenderá la aplicación de la reso
 
 # LIBRO SEGUNDO. DE LA ESTRUCTURA Y FUNCIONAMIENTO DEL TRIBUNAL PARA MENORES INFRACTORES DEL ESTADO DE DURANGO
 
-### CAPITULO III. INTEGRACIÓN Y ORGANIZACIÓN DEL TRIBUNAL DE MENORES INFRACTORES DEL ESTADO DE DURANGO
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 363.
 
@@ -3039,7 +3031,7 @@ El Magistrado del Tribunal, deberán (sic) otorgar la protesta en la forma y té
 
 Los jueces del Tribunal, deberán otorgar la protesta en la forma y términos que establece el artículo 121 de la Constitución Local, ante el Magistrado Presidente del propio Tribunal.
 
-### CAPITULO IV. SALA UNITARIA
+### CAPITULO II. ATRIBUCIONES DEL TRIBUNAL PARA MENORES INFRACTORES DEL ESTADO DE DURANGO
 
 ###### Artículo 367.
 
@@ -3057,7 +3049,7 @@ El Tribunal es competente para conocer de la conducta de las personas mayores de
 
 La competencia del Tribunal, se establecerá atendiendo a la edad que hayan tenido los sujetos infractores, en la fecha de comisión de la infracción que se les atribuya; pudiendo, en consecuencia, conocer de las infracciones y ordenar las medidas de orientación, protección y tratamiento que correspondan, aun cuando aquéllos hayan alcanzado la mayoría de edad.
 
-### CAPITULO V. SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL
+### CAPITULO III. INTEGRACIÓN Y ORGANIZACIÓN DEL TRIBUNAL DE MENORES INFRACTORES DEL ESTADO DE DURANGO
 
 ###### Artículo 369.
 
@@ -3067,13 +3059,13 @@ I. Un magistrado de la Sala Unitaria y un Magistrado supernumerario;
 
 II. Un Secretario General de Acuerdos del Tribunal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 III. Los Jueces de Menores, que determine el Pleno del Tribunal Superior de Justicia y permita el presupuesto;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3087,11 +3079,7 @@ VII. Los secretarios administrativos adscritos a la Sala Unitaria, a los Juzgado
 
 VIII. Los actuarios.
 
-### CAPITULO VI. JUECES DEL TRIBUNAL
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+### CAPITULO IV. SALA UNITARIA
 
 ###### Artículo 370.
 
@@ -3099,7 +3087,7 @@ El Tribunal, tendrá un Presidente que a su vez será el Magistrado de la Sala U
 
 No podrá actuar como patrono, abogado o representante ante el Tribunal de Menores dentro del año siguiente a la fecha de que dejen su cargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3137,7 +3125,7 @@ El Magistrado, los Jueces de Menores, Jueces de Ejecución, Secretarios y Actuar
 
 El Magistrado será inamovible durante el período de su encargo y sólo podrán (sic) ser privado de su cargo en los términos y en los casos legalmente aplicables, conforme a los procedimientos que establezcan la Constitución Política del Estado Libre y Soberano de Durango y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO No. 417, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR ONCE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO No. 417, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR ONCE FRACCIONES.</small>
 
 ###### Artículo 376.
 
@@ -3149,55 +3137,55 @@ II. Vigilar el cumplimiento del presente Código;
 
 III. Ser el conducto para tramitar ante otras autoridades los asuntos del Tribunal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IV. Elaborar y someter a la consideración de la Comisión de Administración, el anteproyecto de presupuesto del Tribunal para Menores Infractores del Poder Judicial del Estado y proponerlo, una vez aprobado, al Presidente del Tribunal Superior de Justicia, para su inclusión en el correspondiente del Poder Judicial del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 V. Recibir y tramitar ante la autoridad competente las quejas sobre las irregularidades en que incurran los servidores públicos del Tribunal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VI. Calificar los impedimentos, excusas y recusaciones respecto de los Jueces y, en su caso, designar a quien deba sustituirlos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VII. Conocer y resolver las excitativas para que los Jueces emitan las resoluciones que correspondan de acuerdo con las prevenciones de este ordenamiento legal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VIII. Disponer la forma de distribución de los asuntos de que deban conocer los jueces de primera instancia cuando haya dos o más en la misma localidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IX. Proponer a la Comisión de Administración al Secretario General de Acuerdos del Tribunal, a los secretarios, a los actuarios, oficiales de partes, así como al personal administrativo y técnico que se requiera para el buen funcionamiento del Tribunal para Menores Infractores del Poder Judicial del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 X. Dictar las medidas necesarias para el buen servicio y disciplina en las oficinas del Tribunal; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 XI. Las demás que le confieran este Código y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3211,13 +3199,15 @@ Son atribuciones del Magistrado de la Sala Unitaria, las siguientes:
 
 I. Dictar los acuerdos y resoluciones pertinentes dentro del procedimiento para el despacho pronto y expedito de los asuntos que sean competencia de la Sala Unitaria;
 
-II. Conocer y resolver los recursos de apelación y casación que se interpongan según lo dispuesto en el presente ordenamiento;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+II. Conocer y resolver los recursos de apelación, que se interpongan según lo dispuesto en este ordenamiento y en el Código Nacional;
 
 III. Decretar los medios de apremio que considere convenientes, y
 
 IV. Las demás que le confieran este Código y demás disposiciones aplicables.
 
-### CAPITULO VII. UNIDAD DE DIAGNÓSTICO
+### CAPITULO V. SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL
 
 ###### Artículo 379.
 
@@ -3241,11 +3231,11 @@ VII. Las demás que determinen este Código, los reglamentos y el Presidente del
 
 Para ser Secretario General de Acuerdos del Tribunal, se requieren cumplir los requisitos establecidos para los Jueces de Menores o de Ejecución.
 
-### CAPITULO VIII. SECRETARIOS Y ACTUARIOS
+### CAPITULO VI. JUECES DEL TRIBUNAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 381.
 
@@ -3257,7 +3247,9 @@ II. Tener cuando menos veintiocho años cumplidos, al día de la propuesta de de
 
 III. Poseer para ese día de la designación una antigüedad mínima de cinco años en el título y Cedula profesional de Licenciado en Derecho o su equivalente, expedido por institución legalmente facultada para ello y registrado ante las autoridades correspondientes;
 
-IV. Tener experiencia mínima de dos años en materia de menores Infractores y conocimientos en los derechos de los niños; y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+IV. Tener conocimientos en la materia de menores Infractores y en los derechos de los niños; y
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad, de más de un año de prisión, pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama, en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena.
 
@@ -3329,7 +3321,7 @@ VIII. Evaluar, por lo menos cada tres meses, las medidas privativas de la libert
 
 IX. Dictar resolución mediante la cual se dé por cumplida la medida impuesta, así como la libertad total y definitiva del menor;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3339,13 +3331,19 @@ XI. Recibir y turnar a la Sala los recursos que se interpongan en contra de las 
 
 XII. Recibir y turnar a la Presidencia de este Tribunal los asuntos relacionados con impedimentos, excusas y recusaciones que afecten a las determinaciones tomadas por los propios Jueces de Menores;
 
-XIII. Los demás que este Código y demás ordenamientos prevengan.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-### CAPITULO IX. FALTAS Y SUPLENCIAS
+XIII. Librar las órdenes de detención que procedan en ejecución de sentencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+XIV. Visitar los Centros, con el fin de constatar el respeto de los derechos fundamentales y penitenciarios de los internos y proponer las medidas correctivas que estime convenientes; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
+XV. Los demás que este Código y demás ordenamientos prevengan.
+
+### CAPITULO VII. UNIDAD DE DIAGNÓSTICO
 
 ###### Artículo 385.
 
@@ -3357,27 +3355,35 @@ Son atribuciones de la Unidad de Diagnóstico, las siguientes:
 
 I. Apegarse en el ejercicio de sus funciones a los principios, derechos y demás lineamientos previstos en este Código, en aras del interés superior del menor;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
+II. Fungir como la autoridad encargada de la evaluación de riesgos del imputado, de supervisión de medidas cautelares y de la suspensión del juicio a prueba, en los términos de este Código y del Código Nacional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-II. Presentar en la audiencia de juicio oral el dictamen respecto a la situación del menor, las medidas de orientación y supervisión conducentes a su adaptación social, basados en los estudios psicológico y familiar que le realicen;
+III. Presentar en la audiencia de juicio oral el dictamen respecto a la situación del menor, las medidas de orientación y supervisión conducentes a su adaptación social, basados en los estudios psicológico y familiar que le realicen;
 
-III. Conocer el desarrollo y el resultado de las medidas de orientación, de protección y de tratamiento, y emitir el dictamen técnico correspondiente para efectos de la evaluación prevista en este ordenamiento;
+IV. Conocer el desarrollo y el resultado de las medidas de orientación, de protección y de tratamiento, y emitir el dictamen técnico correspondiente para efectos de la evaluación prevista en este ordenamiento;
 
-IV. Supervisar por lo menos cada mes meses (sic) o cuando el Juez de Ejecución así lo determine, los programas de medidas no privativas de la libertad;
+V. Supervisar por lo menos cada mes meses (sic) o cuando el Juez de Ejecución así lo determine, los programas de medidas no privativas de la libertad;
 
-V. Elaborar el Plan Individual de Ejecución; y,
+VI. Elaborar el Plan Individual de Ejecución; y,
 
-VI. Las demás que le confieran el presente Código.
+VII. Las demás que le confieran el presente Código.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VIII. SECRETARIOS Y ACTUARIOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 387.
 
 La Secretaria General de Acuerdos del Tribunal, los Jueces de Menores y los Jueces de Ejecución contarán con secretarios, actuarios y el personal administrativo de apoyo que autorice la Comisión de Administración.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3425,7 +3431,7 @@ X. Librar citatorios y notificaciones en el procedimiento que se tramite ante el
 
 XI. Remitir a la Unidad de Diagnóstico copia certificada de la sentencia dictada al menor, para los efectos que se señalan en el presente Código, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3437,7 +3443,7 @@ Son atribuciones de los secretarios administrativos de los Jueces de Menores y d
 
 I. Acordar con el Juez los asuntos de su competencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3473,7 +3479,11 @@ III. Suplir en sus faltas temporales a los secretarios de acuerdos, previa deter
 
 IV. Las demás que les señalen las leyes, los reglamentos y el Presidente del Tribunal.
 
-### CAPITULO II. DIRECTOR DEL CENTRO
+### CAPITULO IX. FALTAS Y SUPLENCIAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 393.
 
@@ -3505,7 +3515,7 @@ En caso de que la falta se prolongue por más de un mes, en el caso del Magistra
 
 # LIBRO TERCERO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS CENTROS ESPECIALIZADOS DE REINTEGRACIÓN Y TRATAMIENTO PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-### CAPITULO III. SUBDIRECTOR
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 396.
 
@@ -3539,7 +3549,7 @@ El personal directivo del Centro será nombrado por el Titular del Poder Ejecuti
 
 La Dirección General de Ejecución de Penas y Medidas de Seguridad, en representación del Ejecutivo del Estado, será el superior jerárquico del personal directivo y al servicio del Centro. Así mismo, tendrá bajo su responsabilidad directa, a todo personal que se encuentre comisionado, o destacamentado al servicio de la vigilancia del Centro.
 
-### CAPITULO IV. SERVICIOS DEL CENTRO
+### CAPITULO II. DIRECTOR DEL CENTRO
 
 ###### Artículo 402.
 
@@ -3585,13 +3595,13 @@ XIX. Informar al Juez de Ejecución y a la Unidad de Diagnóstico de los Trabajo
 
 XX. Fundar y motivar las decisiones que tome, las cuales deberán ser notificadas inmediatamente al menor, a su defensor y al Juez de Ejecución;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 XX (SIC). Ejecutar las resoluciones emitidas por los Jueces de Menores y de Ejecución que determinen el traslado del menor a otro Centro, ya sea en forma temporal o definitiva, solicitando en su caso, auxilio a la Secretaría de Seguridad Pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3608,6 +3618,8 @@ En la aplicación de correcciones disciplinarias a los menores, por parte del Di
 Para los efectos del artículo 415 del presente Código, la salida al exterior del Centro será autorizada por el tiempo más breve posible.
 
 El Director del Centro acordara con el Jefe de Vigilancia las medidas de seguridad en torno a la salida del menor del Centro o de su traslado a otro diverso. Así mismo, en caso de considerarlo necesario, solicitara el apoyo de quien corresponda para el efectivo cumplimiento de las medidas de seguridad.
+
+### CAPITULO III. SUBDIRECTOR
 
 ###### Artículo 405.
 
@@ -3627,9 +3639,11 @@ III. Participar en ausencia del Director y con las mismas facultades, y
 
 IV. Las demás que le encomiende las disposiciones legales y reglamentarias aplicables y las que por escrito el Director del Centro le asigne.
 
+### CAPITULO IV. SERVICIOS DEL CENTRO
+
 #### SECCIÓN PRIMERA. VIGILANCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3647,7 +3661,7 @@ El personal de custodia deberá recibir constante capacitación en materia de tr
 
 #### SECCIÓN SEGUNDA. DEPARTAMENTO DE TRABAJO SOCIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3705,7 +3719,7 @@ En el caso de que el menor necesite hospitalización o alguna clase de medicamen
 
 T R A N S I T O R I O S
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3713,7 +3727,7 @@ T R A N S I T O R I O S
 
 El presente decreto entrará en vigor en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3721,7 +3735,7 @@ El presente decreto entrará en vigor en la fecha que determine la Declaratoria 
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3729,7 +3743,7 @@ Se derogan todas las disposiciones legales que se opongan al contenido del prese
 
 La modificación o reubicación de cualquier tipo penal a que se refiere el Código Penal aprobado mediante Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009, no implicará la libertad de los responsables por las conductas tipificadas como delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3737,7 +3751,7 @@ La modificación o reubicación de cualquier tipo penal a que se refiere el Cód
 
 Las disposiciones de este Código, se aplicarán en la fecha que determine la declaratoria a que alude el artículo primero transitorio del presente decreto; las disposiciones del mismo, sólo se aplicarán a los procedimientos que se sigan por las conductas tipificadas como delitos a partir de las cero horas de la fecha que determine la referida declaratoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3745,7 +3759,7 @@ Las disposiciones de este Código, se aplicarán en la fecha que determine la de
 
 El Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el lunes 11 de septiembre de 2006, seguirá rigiendo, en los procedimientos que se sigan por las conductas tipificadas como delitos con anterioridad a la aplicación del presente ordenamiento, y quedará abrogado cuando el último de los procedimientos tramitados conforme al primero, haya causado ejecutoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3753,7 +3767,7 @@ El Código de Justicia para Menores Infractores del Estado de Durango, publicado
 
 Las conductas tipificadas como delitos permanentes y continuadas que inicien su comisión en la vigencia del Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006, se investigarán y juzgarán conforme a lo establecido en dicho ordenamiento, aún cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3765,7 +3779,7 @@ A los jueces, Secretaria General de Acuerdos del Tribunal, los secretarios proye
 
 Para los efectos del cumplimiento del presente, se entenderá que los Secretarios Proyectistas se denominaran en lo sucesivo, Secretarios Administrativos, conservando sus funciones y derechos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3773,7 +3787,7 @@ Para los efectos del cumplimiento del presente, se entenderá que los Secretario
 
 Para efectos de este ordenamiento se entenderá que el Centro Especializado de Readaptación y Tratamiento para Menores, será el Centro Especializado de Reintegración y Tratamiento para Menores Infractores en el Estado de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3809,11 +3823,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CÓDIGO.
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 417, POR EL QUE SE ADICIONAN Y REFORMAN DIVERSOS ARTICULOS AL CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO.
+DECRETO No. 417, POR EL QUE SE ADICIONAN Y REFORMAN DIVERSOS ARTÍCULOS AL CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO.
 
 Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -3837,7 +3851,7 @@ IV.- En la readscripción de los empleados y trabajadores del Tribunal para Meno
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
 
@@ -3845,7 +3859,7 @@ SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorab
 
 TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
 
-DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTÍCULOS DE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
 
@@ -3874,3 +3888,17 @@ Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Int
 2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
 
 3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor el día (7) siete de mayo del año dos mil catorce, en todo el Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos minoriles que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
