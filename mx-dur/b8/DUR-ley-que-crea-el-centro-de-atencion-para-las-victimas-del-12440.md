@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-centro-de-atencion-para-las-victimas-del-12440"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-25"
-last_updated: "1998-06-25"
+last_updated: "2014-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY QUE CREA EL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE VÍCTIMAS DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 6 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 180 DÍAS POSTERIORES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 25 de junio de 1998.
 
@@ -479,9 +481,7 @@ El Centro exigirá judicialmente del deudor de la responsabilidad civil, el pago
 
 Las cantidades que ingresen al Fondo se invertirán dentro de las veinticuatro horas hábiles siguientes a la recepción en una institución nacional de crédito, procurando que se obtenga el mayor rendimiento posible.
 
-### CAPÍTULO OCTAVO. De los Beneficios que Otorga el Centro y
-
-la Protección Económica Provisional
+### CAPÍTULO OCTAVO. De los Beneficios que Otorga el Centro y la Protección Económica Provisional
 
 ###### ARTÍCULO 36.
 
@@ -571,9 +571,7 @@ La persona absuelta o declarada inocente podrá pedir que el Centro sufrague el 
 
 El Centro podrá proporcionar protección a la víctima directa o indirecta de las conductas antisociales que cometan los menores de edad, en términos de la Ley respectiva.
 
-### CAPÍTULO DÉCIMO. De la Colaboración de las
-
-Autoridades y Servidores Públicos
+### CAPÍTULO DÉCIMO. De la Colaboración de las Autoridades y Servidores Públicos
 
 ###### ARTÍCULO 51.
 
@@ -658,3 +656,49 @@ LIC. ALFREDO BRACHO BARBOZA.- Rúbricas.
 P.O. 25 DE JUNIO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al (sic) su publicación en el Periódico Oficial del Gobierno del Estado
+
+P.O. 6 DE MAYO DE 2014.
+
+PRIMERO.
+
+La presente Ley entrará en vigor a los 180 (ciento ochenta) días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto por las siguientes prevenciones:
+
+I. Las disposiciones establecidas en los artículos 23, 31, 32, 63, 64, 65 y 66, relativas a la asesoría jurídica, entrarán en vigor a las cero horas con un minuto, del día 7 de mayo del año 2014, en el Primer Distrito Judicial y el día 10 de junio de 2014 a las cero horas con un minuto en los Segundo y Tercer Distritos Judiciales y en el resto de los Distrititos (sic) Judiciales, conforme a lo establezca la Declaratoria que emita este Poder Legislativo.
+
+II. Las disposiciones establecidas en los artículos 23, 31, 48, 49, 50, 51 y 55, relativas al Fondo Estatal, entrarán en vigor el día 1° de enero del año 2015. Con independencia a lo dispuesto a la presente fracción, el Gobierno del Estado, en su caso, dictará las medidas necesarias para destinar los recursos indispensables a efecto de garantizar los derechos de las víctimas de delitos y violaciones de derechos humanos.
+
+SEGUNDO.
+
+Se abroga la Ley que Crea el Centro de Atención para las Víctimas del Delito para el Estado de Durango, publicada mediante decreto número 500, en el Periódico Oficial del Estado número 51 de fecha 25 (veinticinco) de junio de 1998, así como sus reformas posteriores.
+
+TERCERO.
+
+Se abroga el Decreto Administrativo publicado en el Periódico Oficial del Gobierno del Estado número 44 de fecha dos de junio del año 2011, se extingue la Comisión de Atención a Familiares de Víctimas de la Violencia del Estado de Durango, creada mediante dicho decreto y se transfieren todos los recursos humanos, materiales y financieros a la Comisión Estatal de Atención Integral a Víctimas a que se refiere la presente Ley.
+
+CUARTO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+QUINTO.
+
+La designación de los Comisionados, deberá realizarseen (sic) un plazo no mayor de 55 días a partir de la entrada en vigor a que se refiere el artículo primero transitorio de la presente Ley.
+
+SEXTO.
+
+El Reglamento de la presente ley, así como lo relativo al Plan y al Programa Estatal a que se refiere la presente ley, deberán expedirse dentro de los seis meses siguientes a la entrada en vigor a que se refiere el artículo primero transitorio de la presente.
+
+SÉPTIMO.
+
+En un plazo de 240 días a partir de la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado, deberán armonizarse las leyes y reglamentos de las instituciones que prestan atención a las víctimas, a efecto de acatar su responsabilidad en la materia.
+
+OCTAVO.
+
+Todas las Instituciones encargadas de la atención a víctimas a que se refiere esta Ley, deberán establecer planes y programas tendientes a capacitar a su personal a efecto de dar cumplimiento a la misma, atendiendo a la disponibilidad presupuestal de cada una.
+
+NOVENO.
+
+Las instituciones ya existentes al momento de la entrada en vigor de la presente Ley operarán con su estructura y presupuesto, sin perjuicio de las asignaciones especiales que reciban para el cumplimiento de las obligaciones que esta Ley les impone.
+
+DÉCIMO.
+
+Los asuntos que a la entrada en vigor de la presente Ley se encuentren en trámite en el Centro de Atención para las Víctimas del Delito para el Estado de Durango y de la Comisión de Atención a Familiares de Víctimas de la Violencia, continuarán a cargo de la Comisión Estatal de Atención Integral a Víctimas, en los términos de la presente Ley.
