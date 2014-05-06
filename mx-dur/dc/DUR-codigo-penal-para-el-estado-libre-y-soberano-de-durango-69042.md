@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2013-05-30"
+last_updated: "2014-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -83,17 +83,33 @@ No podrá imponerse pena o medida de seguridad, si no se acredita la existencia 
 
 La ley penal sólo tendrá efecto retroactivo si favorece al imputado, acusado, sentenciado cualquiera que sea la etapa del procedimiento, incluyendo la ejecución de la sanción. En caso de duda, se aplicará la ley más favorable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 3.
 
-Prohibición de la responsabilidad objetiva.
+Prohibición de responsabilidad objetiva.
 
 Para que la acción o la omisión sean penalmente relevantes, deben realizarse en forma dolosa o culposa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+La sola causación del resultado no podrá fundamentar, por sí sola, la responsabilidad penal.
 
 ###### Artículo 4.
 
 Principio del bien jurídico y de la antijuridicidad material.
 
 Para que la acción o la omisión sean consideradas delictivas, se requiere que lesionen o pongan en peligro, sin causa justa, al bien jurídico tutelado por la ley penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Los tipos penales estarán limitados a la exclusiva protección de los bienes jurídicos necesarios para la adecuada convivencia social.
 
 ###### Artículo 5.
 
@@ -227,11 +243,23 @@ Delito Instantáneo, continuo o continuado.
 
 El delito atendiendo a su momento de consumación, puede ser:
 
-I. Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Permanente o continuo, cuando la consumación se prolongó de una manera ininterrumpida durante un lapso mayor o menor de tiempo; y,
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-III. Continuado, cuando con unidad de propósito delictivo y pluralidad de conducta se viola el mismo precepto legal.
+I. Instantáneo: Cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción legal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+II. Permanente o continuo: Cuando se viola el mismo precepto legal, y la consumación se prolonga en el tiempo; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+III. Continuado: Cuando con unidad de propósito delictivo, pluralidad de conductas e identidad de sujeto pasivo, se concretan los elementos de un mismo tipo penal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -275,31 +303,107 @@ Desistimiento y arrepentimiento.
 
 Si el sujeto se desiste voluntariamente o de propio impulso de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+###### Artículo 20 Bis.
+
+Delitos que se investigan por querella:
+
+Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de los siguientes delitos:
+
+I. Abandono, negación y práctica indebida del servicio médico;
+
+II. Abuso de confianza;
+
+III. Abuso sexual a que se refiere el artículo 178 de este Código;
+
+IV. Adulterio;
+
+V. Allanamiento de morada;
+
+VI. Amenazas;
+
+VII. Bigamia;
+
+VIII. Cometidos en el ejercicio de la profesión, responsabilidad profesional y técnica;
+
+IX. Contra la seguridad de la subsistencia familiar;
+
+X. Chantaje;
+
+XI. Daños, establecidos en los artículos 206 y 208 de este Código;
+
+XII. Despojo;
+
+XIII. Estupro;
+
+XIV. Exacción Fraudulenta;
+
+XV. Falsificación o alteración y uso indebido de documentos;
+
+XVI. Fraude;
+
+XVII. Hostigamiento sexual;
+
+XVIII. Intimidación;
+
+XIX. Lesiones, que tardan en sanar menos de quince días;
+
+XX. Lesiones, que tarden en sanar más de quince días y menos de sesenta;
+
+XXI. Negación del servicio público;
+
+XXII. Peligro de contagio;
+
+XXIII. Privación de libertad con fines sexuales;
+
+XXIV. Procreación asistida e inseminación artificial;
+
+XXV. Revelación de secretos o comunicación reservada;
+
+XXVI. Robo simple, cuando el valor de lo robado no exceda lo estipulado en la fracción I del artículo 196 de este Código;
+
+XXVII. Simulación de pruebas; y
+
+XXVIII. Violación a la intimidad personal o familiar.
+
 ### CAPÍTULO III. AUTORÍA Y PARTICIPACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 21.
 
-Formas de autoría y participación.
+Formas de intervención.
 
-Son responsables del delito, quienes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Lo realicen por sí;
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
-II. Concierten o preparen su realización;
+Las personas pueden intervenir en la realización de un delito, conforme a las siguientes disposiciones:
 
-III. Lo realicen conjuntamente con otro u otros autores:
+I. Es autor directo: quien lo realice por sí;
 
-IV. Lo lleven a cabo sirviéndose de otro como instrumento;
+II. Es coautor: quien lo realice conjuntamente con otro u otros autores;
 
-V. Determinen dolosamente al autor a cometerlo;
+III. Es autor mediato: quien lo lleve a cabo sirviéndose de otro como instrumento;
 
-VI. Dolosamente presten ayuda o auxilio al autor para su comisión; y,
+IV. Es partícipe inductor: quien determine dolosamente al autor a cometerlo;
 
-VII. Con posterioridad a su ejecución, auxilien al autor por acuerdo anterior al delito.
+V. Es partícipe cómplice: quien dolosamente preste ayuda o auxilio al autor para su comisión; y,
+
+VI. Es partícipe encubridor: quien con posterioridad a su ejecución, auxilie al autor por acuerdo anterior al delito.
 
 Quienes únicamente intervengan en la planeación o preparación del delito, así como quienes determinen a otro o le presten ayuda o auxilio, sólo responderán si el hecho antijurídico del autor alcanza al menos el grado de tentativa del delito que se quiso cometer.
 
-La instigación y la complicidad a que se refieren las fracciones V y VI, respectivamente, sólo son admisibles en los delitos dolosos. Para las hipótesis previstas en las fracciones VI y VII se impondrá la punibilidad dispuesta en el artículo 77 de este código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+La instigación y la complicidad a que se refieren las fracciones IV y V, respectivamente, sólo son admisibles en los delitos dolosos. Para las hipótesis previstas en las fracciones V y VI se impondrá la punibilidad dispuesta en el artículo 77 de este Código.
 
 ###### Artículo 22.
 
@@ -317,13 +421,27 @@ Culpabilidad del instigador.
 
 Los instigadores serán responsables únicamente de los actos de instigación cuando se tenga el dominio del hecho, pero no de los demás que ejecute el instigado, a no ser que éstos fueran racionalmente previsibles o consecuencia inmediata y necesaria del acto instigado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 24.
 
-Culpabilidad en los tipos complementados privilegiados y agravados.
+Culpabilidad en los tipos complementados.
 
-Las circunstancias modificativas o calificativas del delito aprovechan o perjudican a todos los imputados o acusados que tuvieren conocimiento de ellas en el momento de su intervención o debieran preverlas racionalmente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Las circunstancias modificativas o calificativas del delito aprovechan o perjudican a todos los imputados o acusados que tuvieren conocimiento de ellas en el momento de su intervención.
 
 Las circunstancias personales de alguno o algunos de los imputados o acusados que sean modificativas o calificativas del delito o constituyan un elemento de éste, aprovecharán o perjudicarán únicamente a aquellos en quienes concurran.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+En los delitos agravados por el resultado debe existir, al menos, culpa respecto del hecho que agrave la conducta.
 
 ###### Artículo 25.
 
@@ -341,25 +459,41 @@ No responderán del nuevo delito quienes hubieran tratado de impedir su ejecuci�
 
 Autoría indeterminada.
 
-Cuando varios sujetos, sin concierto alguno, intervengan en la comisión de un delito y no pueda precisarse el daño que cada quien produjo, para su punibilidad se estará el lo previsto en el artículo 78 de este código.
+Cuando varios sujetos, sin concierto alguno, intervengan en la comisión de un delito y no pueda precisarse el daño que cada quien produjo, para su punibilidad se estará a lo previsto en el artículo 78 de este código.
 
 ###### Artículo 27.
 
 Responsabilidad de las personas morales.
 
-Para los efectos de este código, sólo pueden ser penalmente responsables las personas físicas; sin embargo, cuando un miembro o representante de una persona moral, con excepción de las Entidades del Estado, cometa algún delito con los medios que para tal objeto la misma entidad le proporciona de modo que resulte cometido a nombre, bajo el amparo o en beneficio de ésta, el juzgador impondrá en la sentencia con audiencia e intervención de representante legal, las consecuencias previstas por este código para las personas jurídicas colectivas, sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas, miembros o representantes de una persona moral, con excepción de las instituciones estatales, las personas morales también serán penalmente responsables según sea la clasificación jurídica que se les atribuya, la forma de intervención y la naturaleza dolosa o culposa de su conducta, cuando se cometa algún un (sic) hecho delictivo con los medios que para tal objeto le haya proporcionado la persona jurídica a la persona física o sus representantes, de modo que resulte cometido a nombre, bajo el amparo o en beneficio de aquélla. A las personas morales se les impondrá las consecuencias jurídicas correspondientes.
 
 ### CAPÍTULO IV. CAUSAS QUE EXCLUYEN EL DELITO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 28.
 
-Causas de exclusión.
+Causas de exclusión del delito.
 
-El delito se excluye cuando:
+El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
+
+Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos del tipo penal, el consentimiento de la víctima que recaiga sobre algún bien jurídico disponible, el error de tipo vencible que recaiga sobre algún tipo penal que no sea susceptible de configurarse culposamente, así como el error de tipo invencible.
+
+Son causas de justificación: el consentimiento presunto, la legítima defensa, el estado de necesidad justificante, el ejercicio de un derecho y el cumplimiento de un deber.
+
+Son causas de inculpabilidad: el error de prohibición invencible, el estado de necesidad disculpante, la inimputabilidad, y la inexigibilidad de otra conducta.
+
+A. Causas de atipicidad:
 
 I. Ausencia de conducta: La actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo;
 
-II. Atipicidad: Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
+II. Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
 
 III. Consentimiento del titular: Se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
 
@@ -369,37 +503,35 @@ b) Que el titular del bien jurídico, o quien esté legitimado para consentir, t
 
 c) Que el consentimiento sea expreso o tácito y no medie algún vicio del consentimiento.
 
-Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento.
+IV. Error de tipo: Se realice la acción o la omisión bajo un error invencible, respecto de alguno de los elementos que integran la descripción legal del delito de que se trate. En caso de que el error de tipo sea vencible se estará a lo establecido en el artículo 85 de este Código.
 
-IV. Legítima defensa: Se repela una agresión real, ilegitima, actual o inminente, protegiendo bienes jurídicos propios o ajenos, de la cual resulte un peligro inmediato, siempre que no haya podido ser fácilmente evitada, exista necesidad racional del medio empleado para repelerla, no mediara provocación suficiente por parte del que se defiende o que el daño que iba a causar el agresor no hubiese podido ser fácilmente reparado después por medios legales.
+B. Causas de justificación:
+
+I. Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
+
+II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
 
 Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
 
-V. Estado de necesidad: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
+III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
-VI. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo;
+IV. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
 
-VII. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico el sujeto activo no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado voluntariamente su trastorno mental, en cuyo caso responderá por el resultado típico producido en tal situación;
+C. Causas de inculpabilidad:
+
+I. Error de prohibición invencible: Se realice la acción o la omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta. En caso de que el error de prohibición sea vencible se estará a lo establecido en el artículo 85 de este Código;
+
+II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
+
+III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación. Las acciones libres en su causa culposamente cometidas se resolverán conforme a las reglas generales de los delitos culposos.
 
 Cuando la capacidad a que se refiere el párrafo anterior se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 64 de este código.
 
-VIII. Error de tipo y error de prohibición: Se realice la acción o la omisión bajo un error invencible, respecto de:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-a) Alguno de los elementos que integran la descripción legal del delito de que se trate; o,
-
-b) La ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta.
-
-Si los errores a que se refieren los incisos anteriores son vencibles, se estará a lo dispuesto en el artículo 85 de este código.
-
-IX. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
+IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
 
 Las causas que excluyen el delito se resolverán de oficio, en cualquier estado del proceso.
 
-Si en los casos de las fracciones IV, V y VI de este artículo el sujeto se excediere, se estará a lo previsto en el artículo 85 de este código.
+Para el caso en que el sujeto se exceda en alguna de las distintas causas de justificación, se estará a lo establecido en el artículo 86 de este Código.
 
 ### CAPÍTULO V. CONCURSO DE DELITOS
 
@@ -423,7 +555,11 @@ II. Si uno o varios delitos constituyen un grado o grados de otro, o medio de ej
 
 III. Si un delito constituye un elemento de otro delito o una circunstancia agravante de su penalidad. En este caso se aplicará la disposición que castigue este último delito.
 
-## TÍTULO TERCERO. PENAS Y MEDIDAS DE SEGURIDAD Y CONSECUENCIAS JURÍDICAS ACCESORIAS PARA LAS PERSONAS MORALES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
+
+## TÍTULO TERCERO. PENAS, MEDIDAS DE SEGURIDAD Y CONSECUENCIAS JURÍDICAS APLICABLES A LAS PERSONAS MORALES
 
 ### CAPÍTULO ÚNICO. REGLAS GENERALES
 
@@ -1005,11 +1141,17 @@ En la aplicación de las penas o medidas de seguridad a que se refiere este art�
 
 ### CAPÍTULO III. CASOS DE COMPLICIDAD, AUXILIO EN CUMPLIMIENTO DE PROMESA ANTERIOR Y AUTORÍA INDETERMINADA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 77.
 
-Punibilidad de la complicidad;
+Punibilidad para los casos de participación delictiva.
 
-Para los casos a que se refieren las fracciones VI y VII del Artículo 21 de este código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva.
+Para los casos a que se refieren las fracciones V y VI del artículo 21 de este Código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva.
+
+La penalidad del partícipe inductor será de entre las tres cuartas partes del mínimo y hasta la máxima de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva. Salvo en los casos en que se prevea una pena concreta para ellos.
 
 ###### Artículo 78.
 
@@ -1053,6 +1195,16 @@ d) Si tuvo tiempo para obrar con la reflexión y cuidado necesarios; y,
 
 e) El estado del equipo, vías y demás condiciones de funcionamiento mecánico; tratándose de infracciones cometidas en los servicios de empresas transportadoras y en general por conductores de vehículos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+###### Artículo 79 Bis.
+
+Sólo podrán ser sancionados como delitos culposos los siguientes:
+
+Homicidio, a que se refiere el artículo 135; Lesiones, a que se refiere el artículo 140 fracciones I a VII; Peligro de Contagio, a que se refiere el artículo 189; Aborto, a que se refiere la fracción II del artículo 148; Daños, a que se refieren los artículos 206 y 208; Evasión de Presos, a que se refieren los artículos 376 y 377; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 238 y 239; Ataques a las Vías y a los Medios de Comunicación a que se refiere el artículo 247; Delitos contra el Ambiente a que se refieren los artículos 268, 270, 271, 273 y 274; y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
+
 ###### Artículo 80.
 
 En los casos a que se refiere el primer párrafo del artículo anterior, las penas por delito culposo, con excepción de la reparación del daño, no excederá de las tres cuartas partes de las que corresponderían si el delito de que se trata fuese doloso.
@@ -1089,15 +1241,17 @@ En caso de delito continuado, se aumentarán en una mitad las penas que la ley p
 
 ### CAPÍTULO VI. ERROR VENCIBLE EN LAS CAUSAS DE LICITUD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 85.
 
-Punibilidad en el caso de error vencible.
+Punibilidad en casos de error vencible.
 
-En caso de que sea vencible el error a que se refiere el inciso a), fracción VIII del artículo 28 de este Código, la penalidad será la del delito culposo, si el hecho de que se trata admite dicha forma de realización. Si el error vencible es el previsto en el inciso b) de la misma fracción, la penalidad será de una tercera parte del delito que se trate.
+En caso de que sea vencible el error de tipo a que se refiere el apartado A, fracción IV del artículo 28 de este Código, el hecho tendrá que atribuirse a título culposo, cuando el hecho de que se trate admita dicha forma de realización.
+
+En caso de que sea vencible el error de prohibición a que se refiere el apartado C fracción I del artículo 28 de este Código, la penalidad será de hasta una tercera parte del delito de que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1105,15 +1259,15 @@ En caso de que sea vencible el error a que se refiere el inciso a), fracción VI
 
 ### CAPÍTULO VII. EXCESO EN LAS CAUSAS DE LICITUD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 86.
 
-Punibilidad en el caso de exceso.
+Punibilidad en casos de exceso en las causas de justificación.
 
-Al que incurra en exceso, en los casos previstos en las fracciones IV, V y VI del artículo 28 de este código, se le impondrá la cuarta parte de las penas o medidas de seguridad, correspondientes al delito de que se trate.
+Al que incurra en exceso en alguna de las causas de justificación previstas en el artículo 28 de este Código, se le impondrá la cuarta parte de las penas o medidas de seguridad, correspondientes al delito de que se trate.
 
 ### CAPÍTULO VIII. SUSTITUCIÓN DE PENAS
 
@@ -2967,9 +3121,13 @@ Artículo 275 bis 4. Tratándose de los delitos previstos en este subtitulo, el 
 
 Artículo 275 bis 5. Cuando en la comisión de un delito previsto en este título intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor la pena de prisión se aumentara en una mitad y se le inhabilitara para ocupar cargo, empleo o comisión, por el mismo término de la pena privativa de libertad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
+
 SUBTÍTULO SÉPTIMO
 
-DELITOS CONTRA LA MORAL PÚBLICA
+DELITOS QUE ATENTAN CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD, DERIVADO DE LA DIGNIDAD HUMANA
 
 ###### Artículo 261.
 
@@ -3645,7 +3803,7 @@ I. Ejerza las funciones de un cargo o comisión sin haber rendido protesta const
 
 II. Ejerza las funciones de un cargo o comisión sin satisfacer los requisitos legales;
 
-III. Ejerza las funciones de un cargo o comisión después de haber sido notificado de la suspensión, destitución o revocación de su nombramiento o después de haber renunciado, salvo que por disposición legal o reglamentaria deba continuar ejerciendo sus funciones hasta ser relevado;
+III. Ejerza las funciones de un cargo o colusión después de haber sido notificado de la suspensión, destitución o revocación de su nombramiento o después de haber renunciado, salvo que por disposición legal o reglamentaria deba continuar ejerciendo sus funciones hasta ser relevado;
 
 IV. Se atribuya funciones o comisiones distintas a las que legalmente tenga encomendadas en perjuicio de terceros o de la función pública;
 
@@ -3743,7 +3901,7 @@ Cuando las conductas previstas en el artículo anterior produzcan beneficios eco
 
 ###### Artículo 336.
 
-Se impondrá de uno a cinco anos de prisión y multa de setenta y dos a trescientos sesenta días de salario, al servidor público que:
+Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, al servidor público que:
 
 I. Niegue o retarde a los particulares la protección, el auxilio o el servicio que tenga obligación de otorgarles; o,
 
@@ -4429,7 +4587,7 @@ XIII. Durante los ocho días previos a la jornada electoral y hasta que el Conse
 
 ###### Artículo 410.
 
-Se impondrán multa de de treinta y seis a doscientos dieciséis días de salario, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
+Se impondrán multa de de (sic) treinta y seis a doscientos dieciséis días de salario, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
 
 ###### Artículo 411.
 
@@ -4814,3 +4972,19 @@ DECRETO NÚMERO 498, POR EL QUE SE REFORMA EL NOMBRE DEL CAPITULO II, DEL SUBTIT
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor, conforme a las siguientes previsiones:
+
+I. A las 00:01 horas del día 7 de mayo del año 2014, en el Primer Distrito Judicial, el cual cuenta con Durango como residencia, y comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas.
+
+II. A las 00:01 horas del día 10 de junio del año 2014, en el Segundo y Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Segundo distrito: Ciudad Lerdo como residencia, comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito; Tercer distrito: Gómez Palacio como residencia; comprende el Municipio del mismo nombre y el de Tlahualilo.
+
+III. En el resto de los Distrititos Judiciales, conforme lo establezca la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, que al efecto emita este Poder Legislativo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
