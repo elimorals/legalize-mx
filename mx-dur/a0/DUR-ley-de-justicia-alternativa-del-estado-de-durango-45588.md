@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-alternativa-del-estado-de-durango-45588"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-14"
-last_updated: "2009-02-26"
+last_updated: "2014-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 14 de julio de 2005.
 
@@ -191,7 +191,9 @@ Son susceptibles de solución a través de los Procedimientos Alternativos, las 
 
 Los derechos y obligaciones pecuniarios de los menores o incapaces, serán susceptibles de someterse a los Procedimientos Alternativos por conducto de quienes ejerzan sobre ellos la patria potestad o tutela, sin embargo, el convenio resultante deberá someterse a autorización judicial con intervención del Ministerio Público.
 
-En materia penal los Procedimientos Alternativos se regularán en los términos establecidos en el capitulo de justicia restaurativa de la presente Ley.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+En materia penal los procedimientos alternativos se regularán en los términos del Código Nacional de Procedimientos Penales o de la legislación de la materia.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
 
@@ -967,11 +969,11 @@ Cuando el Estado sea víctima, para estos efectos, será representado por el Min
 
 La justicia restaurativa se rige por los principios de voluntariedad de las partes, confidencialidad, flexibilidad; neutralidad, imparcialidad, equidad, legalidad y honestidad.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 81.
 
-El Centro Estatal y los demás Centros de Justicia Alternativa podrán conocer de aquellos asuntos a que refiere el artículo 212 del Código Procesal Penal del Estado de Durango.
+El Centro Estatal y los demás Centros de Justicia Alternativa podrán conocer de aquellos asuntos a que se refieren los artículos 186 y 187 del Código Nacional de Procedimientos Penales.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
 
@@ -1039,25 +1041,17 @@ El convenio deberá ser aprobado por el Centro Estatal o por el Centro de Justic
 
 Los convenios que hayan sido resultado de la aplicación de mecanismos alternativos de solución de controversia en materia penal por parte del Centro Estatal en los cuales se establezcan obligaciones a futuro a cargo del imputado para cumplir con la reparación, restitución o resarcimiento del daño y/o perjuicios ocasionados a la víctima u ofendido, deberán ser sometidos a supervisión judicial.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
-
 ###### Artículo 91.
 
-La supervisión judicial de los mecanismos alternativos de solución de controversias, tendrá como finalidad verificar que se trata de derechos susceptibles de someterse a dichos mecanismos y que se cubra la reparación del daño.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 92.
 
-La supervisión judicial estará a cargo del Juez de Ejecución de Sentencia, para lo cual el Centro Estatal deberá remitir dentro de los dos días siguientes a la celebración del convenio respectivo, un ejemplar del mismo al Juez de Ejecución de Sentencia, quien lo registrará en un libro que para tal efecto llevará, sometiendo dicho convenio a supervisión judicial para su cumplimiento, para lo cual implementará todas las medidas necesarias para verificar el cumplimiento o incumplimiento de los acuerdos tomados.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 93.
 
-En caso de que el Juez de Ejecución de Sentencia advierta que el convenio sujeto a supervisión judicial no se ha cumplido en los plazos establecidos, se procederá en los términos de lo dispuesto por el párrafo tercero del artículo 216 del Código Procesal Penal del Estado de Durango.
-
-En caso de que los acuerdos celebrados se cumplan, se procederá en los términos de lo establecido por la fracción VI del artículo 93 y párrafo segundo del artículo 216 del Código Procesal Penal del Estado de Durango.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2009)</small>
 
@@ -1349,7 +1343,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE FEBRERO DE 2009.
 
@@ -1359,8 +1353,22 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el caso de la supervisión judicial de los mecanismos alternativos de solución de controversias empezará a operar una vez que se designe el funcionario judicial competente para tales efectos.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a las 00:01 (cero horas con un minuto) del día 07 de Mayo del año 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos alternativos que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
