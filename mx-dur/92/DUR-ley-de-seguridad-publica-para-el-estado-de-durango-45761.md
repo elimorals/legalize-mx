@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2014-01-19"
+last_updated: "2014-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -39,11 +39,11 @@ LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 1.
 
-La presente ley tiene su fundamento en los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos, y 9 de la Constitución Política del Estado Libre y Soberano de Durango y de la Ley General del Sistema Nacional de Seguridad Pública.
+La presente Ley tiene su fundamento en los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución Política del Estado Libre y Soberano de Durango y en la Ley General del Sistema Nacional de Seguridad Pública.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -1209,11 +1209,15 @@ I.- Recabar la información necesaria de los hechos delictuosos de que tengan no
 
 II.- Detener en flagrancia a quien realice un hecho que pueda constituir un delito;
 
-III.- Identificar y aprehender, por mandamiento judicial o ministerial, a los imputados.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+III.- Identificar y aprehender, por mandamiento judicial o ministerial, a los imputados y deberán informar de inmediato al Ministerio Público sobre la ejecución de la orden de aprehensión, para efectos de que éste solicite la celebración de la audiencia inicial a partir de la formulación de imputación.
 
 IV.- Aplicar los protocolos o disposiciones especiales para el adecuado resguardo de los derechos de las victimas u ofendidos en los casos de violencia familiar, contra la libertad e inexperiencia sexuales, contra la dignidad de las personas y en general que afecten el libre y normal desarrollo de menores de edad o incapaces; y de ser necesario, los trasladarán a recibir auxilio médico o psicológico de inmediato a los Centros o Instituciones previstos por las leyes respectivas.
 
-V.- Ejercer las facultades previstas en el artículo 127, fracciones I, III, IV, V, VII y VIII del Código Procesal Penal del Estado de Durango, cuando éstos sean los primeros en conocer de un hecho delictuoso, hasta que el Ministerio Público o la policía investigadora intervengan, y entregar a éstos los instrumentos, objetos y evidencias materiales que hayan asegurado. De las actuaciones se deberá elaborar un registro fidedigno.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+V.- Ejercer las facultades previstas en el artículo 132, fracciones I, II, III, IV, VI, VII, VIII, IX, X, XII, XIV y XV del Código Nacional de Procedimientos Penales, cuando éstos sean los primeros en conocer de un hecho delictuoso, hasta que el Ministerio Público o la policía investigadora intervengan, y entregar a éstos los instrumentos, objetos y evidencias materiales que hayan asegurado. De las actuaciones se deberá elaborar un registro fidedigno.
 
 VI.- Auxiliar al Ministerio Público o a la autoridad judicial y por instrucciones expresas reunir los antecedentes que aquéllos les soliciten.
 
@@ -1829,9 +1833,9 @@ Las autoridades de seguridad pública del Estado se coordinarán con la Federaci
 
 Para lograr los fines y objetivos de la seguridad pública, el Sistema Estatal estará enfocado a combatir las causas que generan la comisión de faltas administrativas, conductas antisociales y delitos; fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad; fortalecer y mejorar las actividades de la policía estatal y municipal, del ministerio público, de los responsables de la prisión preventiva, de los encargados de la ejecución de sanciones y tratamiento de menores infractores y de los encargados de protección civil.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
-ARTÍCULO 86 BIS.- Cuando las actividades delictivas se realicen, en todo o en parte, fuera del territorio estatal, o se les atribuyan a personas ligadas a una organización de carácter nacional, regional o internacional, el Ministerio Público se coordinará en el marco de los sistemas nacional y estatal de seguridad pública, para formar equipos conjuntos de recopilación, de información y, en su caso, de investigación con las autoridades competentes, tal como lo dispone el artículo 124 del Código Procesal Penal del Estado de Durango.
+ARTÍCULO 86 BIS.- Cuando las actividades delictivas se realicen, en todo o en parte, fuera del territorio estatal o se les atribuyan a personas ligadas a una organización de carácter nacional, regional o internacional, el Ministerio Público se coordinará en el marco de los sistemas nacional y estatal de seguridad pública, para formar equipos conjuntos de recopilación de información y en su caso, de investigación con las autoridades competentes.
 
 ### CAPITULO II. DE LA COORDINACIÓN ENTRE EL ESTADO, LA FEDERACIÓN, EL DISTRITO
 
@@ -2815,43 +2819,65 @@ VI. Proponer para su aprobación al personal Directivo y administrativo del Cent
 
 VII. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2009)</small>
+## TÍTULO SÉPTIMO
 
-## TÍTULO SÉPTIMO. DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
+DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS, MEDIDAS DE SEGURIDAD, SUPERVISIÓN DE MEDIDAS CAUTELARES Y DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO.
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 145.
 
-Facultades de la Dirección General de Ejecución de Penas y Medidas de Seguridad.
+Facultades de Dirección General de Ejecución de Penas, Medidas de Seguridad, Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+La Dirección, dependiente de la Secretaría de Seguridad Pública, tiene las siguientes facultades;
 
-La Dirección, dependiente de la Secretaría de Seguridad Pública, será el órgano del Poder Ejecutivo al que corresponda.
+I. En materia de evaluación de riesgos que representa el imputado.
 
-I. En materia de medidas judiciales dictadas durante el proceso.
+a) Elaborar un análisis de evaluación de riesgo, de manera objetiva, imparcial y neutral, dentro de las cuarenta y ocho horas siguientes a la detención del imputado.
 
-a) Ejecutar las medidas cautelares de prisión preventiva, presentación periódica, en su caso, y localización electrónica.
+II. En materia de medidas judiciales dictadas durante el proceso.
 
-b) Vigilar y coordinar la ejecución del resto de las medidas cautelares reales y personales, así como el cumplimiento de las condiciones impuestas durante la suspensión del proceso a prueba.
+a) Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva y las condiciones a cargo del imputado en caso de suspensión condicional del proceso, así como hacer sugerencias sobre cualquier cambio que amerite alguna modificación de las medidas u obligaciones impuestas;
 
-II. En materia de penas y medidas de seguridad.
+b) Entrevistar periódicamente a la víctima o testigo del delito, con el objeto de dar seguimiento al cumplimiento de la medida cautelar impuesta o las condiciones de la suspensión condicional del proceso y canalizarlos, en su caso, a la autoridad correspondiente;
 
-a) Ejecutar las penas de prisión y de relegación, sus modalidades y las resoluciones del Juez de Ejecución de Penas que de ella deriven.
+c) Realizar entrevistas así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el imputado;
 
-b) Vigilar y coordinar la ejecución de las penas y medidas de seguridad previstas en el Código Procesal Penal del Estado de Durango y demás leyes aplicables.
+d) Verificar la localización del imputado en su domicilio o en el lugar en donde se encuentre, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
 
-III. Dentro del sistema.
+e) Requerir que el imputado proporcione muestras, sin previo aviso, para detectar el posible uso de alcohol o drogas prohibidas o el resultado del examen de las mismas en su caso, cuando la modalidad de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+
+f) Supervisar que las personas e instituciones públicas y privadas a las que la autoridad judicial encargue el cuidado del imputado, cumplan las obligaciones contraídas;
+
+g) Solicitar al imputado la información que sea necesaria para verificar el cumplimiento de las medidas y obligaciones impuestas;
+
+h) Revisar y sugerir el cambio de las condiciones de las medidas impuestas al imputado, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
+
+i) Informar a las partes aquellas violaciones a las medidas y obligaciones impuestas que estén debidamente verificadas y puedan implicar la modificación o revocación de la medida o suspensión y sugerir las modificaciones que estime pertinentes;
+
+j) Conservar actualizada una base de datos sobre las medidas cautelares y obligaciones impuestas, su seguimiento y conclusión;
+
+k) Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de Entidades federativas dentro de sus respectivos ámbitos de competencia;
+
+l) Ejecutar las solicitudes de apoyo para la obtención de información que le requieran las oficinas con funciones similares de la Federación o de las Entidades federativas en sus respectivos ámbitos de competencia;
+
+m) Canalizar al imputado a servicios sociales de asistencia, públicos o privados, en materias de salud, empleo, educación, vivienda y apoyo jurídico, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera.
+
+III. En materia de penas y medidas de seguridad.
+
+a) Ejecutar las penas de prisión y de relegación, sus modalidades y las resoluciones del Juez de Ejecución de Penas que de ella deriven;
+
+b) Vigilar y coordinar la ejecución de las penas y medidas de seguridad previstas en el Código Penal del Estado de Durango en concordancia con el Código Nacional de Procedimientos Penales y demás leyes aplicables.
+
+IV. Dentro del Sistema:
 
 a) Dirigir y ordenar la prevención de la delincuencia en el Estado, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
-b) Organizar, supervisar y administrar los establecimientos penitenciarios en el Estado; expedir la normatividad y demás lineamientos de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento.
+b) Organizar, supervisar y operar los establecimientos penitenciarios en el Estado; expedir la normatividad y demás lineamientos de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento;
 
 c) Intercambiar, trasladar, custodiar, vigilar y brindar tratamiento a toda persona que fuere privada de su libertad por orden de los Tribunales del Estado o de la autoridad competente, desde el momento de su ingreso a cualquier establecimiento;
 
@@ -2859,17 +2885,17 @@ d) Proponer los reglamentos interiores de los centros de reinserción, con estri
 
 e) Aplicar los tratamientos adecuados a las personas internas, reglamentando su trabajo, sus actividades culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libre de estereotipos de género;
 
-f) Resolver sobre las modificaciones no esenciales a las medidas impuestas, tomando en cuenta la edad, sexo, salud o constitución física de reos;
+f) Resolver sobre las modificaciones no esenciales a las medidas impuestas, tomando en cuenta la edad, sexo, salud o constitución física de las personas sujetas a proceso penal;
 
-g) Organizar patronatos para reos liberados;
+g) Organizar patronatos para personas liberadas;
 
 h) Coadyuvar en el mantenimiento de la estadística criminal del Estado;
 
-i) Conocer e investigar las quejas de los internos sobre el trato de que sean objeto;
+i) Conocer de las quejas de los internos sobre el trato de que sean, objeto, y hacerla del conocimiento de la autoridad que corresponda;
 
-j) Determinar los lugares en que deben estar recluidos los sordomudos y enfermos mentales (sic) aplicarles el tratamiento que se estime adecuado;
+j) Determinar los lugares en que deben estar recluidos los sordomudos y enfermos mentales aplicarles el tratamiento que se estime adecuado;
 
-k) Asistir a las reuniones de la Conferencia Nacional del Sistema Penitenciario; y
+k) Por acuerdo del Secretario, asistir a las reuniones de la Conferencia Nacional del Sistema Penitenciario; y
 
 l) Las demás que otras leyes y reglamentos establezcan.
 
@@ -3478,3 +3504,9 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día 7 de mayo de 2014.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
