@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-penal-restaurativa-del-estado-de-durango-68334"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-26"
-last_updated: "2009-12-10"
+last_updated: "2014-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 LEY DE JUSTICIA PENAL RESTAURATIVA DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LA FRACCION II DEL ARTICULO CUARTO DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA ENTRADO EN VIGOR.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTÍCULO CUARTO DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA ENTRADO EN VIGOR.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO DE REFORMAS No. 156, PUBLICADO EN EL P.O. DE 6 DE MAYO DE 2014, VÉASE EL ARTÍCULO SEGUNDO TRANSITORIO DEL CITADO DECRETO, EL CUAL SEÑALA QUE SU ENTRADA EN VIGOR SERÁ EN FORMA GRADUAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -49,9 +51,11 @@ LEY DE JUSTICIA PENAL RESTAURATIVA DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 1.
 
-Corresponde la aplicación de la presente Ley a la Procuraduría General de Justicia, y tiene como objetivo asegurar la reparación del daño mediante los instrumentos considerados por la Ley, tales como la mediación, negociación, conciliación, entre otras, cuando procedan conforme a lo dispuesto por el Código Procesal Penal del Estado de Durango, sin afectar el orden público.
+Corresponde la aplicación de la presente Ley a la Fiscalía General del Estado de Durango y tiene como objetivo asegurar la reparación del daño mediante los instrumentos considerados por la Ley, tales como la mediación, negociación, conciliación, entre otras, cuando estas procedan conforme a lo dispuesto por el Código Nacional de Procedimientos Penales, sin afectar el orden público.
 
 ###### Artículo 2.
 
@@ -61,61 +65,59 @@ Los mecanismos alternativos de solución de conflictos o controversias se rigen 
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 I. Agente del Ministerio Público Orientador.- Servidor Público encargado de verificar los requisitos de procedibilidad y canalizar de manera inmediata los hechos, conflictos, controversias, denuncias o querellas que se presenten, así como informar a los interesados sobre la existencia y beneficios al utilizar los mecanismos alternativos de solución de conflictos o controversias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 II. Convenio Restaurativo.- El acuerdo encaminado a satisfacer las necesidades y responsabilidades individuales y colectivas de los interesados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 III. Departamento.- Departamento de Inmediata Atención;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IV. Dirección.- La Dirección de Justicia Penal Restaurativa, dependiente de la institución del Ministerio Público del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 V. Director.- El Titular de la Dirección de Justicia Penal Restaurativa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VI. Interesados.- Las personas físicas o morales que acuden a los mecanismos alternativos de solución de controversias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VII. Justicia Restaurativa.- Todo procedimiento no jurisdiccional al cual puede (sic) recurrir las partes en búsqueda de una solución acordada para poner fin a sus controversias, mediante la utilización de técnicas o instrumentos específicos aplicados por especialistas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+VIII. Personal Jurídico: Servidores Públicos con el carácter de Ministerio Público por disposición de la Ley Orgánica de la Fiscalía General del Estado de Durango, adscritos a la Dirección o Subdirección Regional de Justicia Penal Restaurativa;
 
-VIII. Personal Jurídico: Auxiliares Jurídicos con el carácter de ministerio publico por disposición de la Ley Orgánica de la Procuraduría General de Justicia adscritos a la Dirección o Subdirección Regional de Justicia Penal Restaurativa;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IX. Ley.- La Ley de Justicia Penal Restaurativa del Estado de Durango;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -131,23 +133,21 @@ XI. Personal Especializado.- Los servidores públicos con habilidades y destreza
 
 XII. Principio de Justicia Restaurativa.- Proceso en el que la víctima u ofendido y el imputado, participan conjuntamente, de forma activa en la resolución de las cuestiones derivadas del delito, en busca de un resultado restaurativo.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 4.
 
-En los asuntos de materia penal que sean de competencia de la Procuraduría, los mecanismos alternativos de solución de conflictos o controversias estarán a cargo de la dirección, a través del personal especializado adscrito a la misma, la cual se descentralizará mediante subdirecciones regionales.
+En los asuntos de materia penal que sean competencia de la Fiscalía General del Estado de Durango, los mecanismos alternativos de solución de conflictos o controversias, estarán a cargo de la Dirección, a través del personal especializado adscrito a las mismas y por conducto de Sub Direcciones Regionales.
 
-Dichos mecanismos alternativos de solución de conflictos o controversias se referirán a conductas que puedan constituir un delito y en los términos y condiciones que se establecen en el Código Procesal Penal del Estado de Durango.
+Dichos mecanismos alternativos de solución de conflictos o controversias, se referirán a conductas que puedan constituir un delito, en los términos y condiciones que se establecen en el Código Nacional de Procedimientos Penales.
 
 ### CAPÍTULO II. ORGANIZACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 5.
 
-La Dirección estará a cargo de un servidor público que será designado por el Procurador General de Justicia.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-El director se auxiliará para el ejercicio de sus funciones en los subdirectores regionales, personal jurídico adscrito a la Dirección, personal especializado y auxiliares.
+La Dirección estará a cargo de un servidor público que será designado por el Fiscal General del Estado.
 
 ###### Artículo 6.
 
@@ -169,7 +169,9 @@ El director tendrá las siguientes facultades:
 
 I. Representar, dirigir y vigilar las funciones de la dirección, conforme a las disposiciones de esta Ley y su reglamento;
 
-II. Proponer a quien ostente la titularidad de la procuraduría, al personal especializado que se designará de conformidad con el reglamento de la presente;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+II. Proponer a quien ostente la titularidad de la Fiscalía General del Estado, al personal especializado que se designará de conformidad con el reglamento de la presente;
 
 III. Coordinar las actividades del personal de la dirección;
 
@@ -215,9 +217,11 @@ VI. Las demás que les fije esta Ley, su reglamento y demás disposiciones aplic
 
 Las cuestiones relativas a las excusas y recusaciones se atenderán en los términos y condiciones dispuestas en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 12.
 
-El personal de la dirección estará sujeto a la responsabilidad administrativa y en su caso a los procedimientos disciplinarios establecidos en la Ley Orgánica de la Procuraduría General de Justicia y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Durango, independientemente de la responsabilidad penal en que pudiera incurrir.
+El personal de la Dirección estará sujeto a la responsabilidad administrativa y en su caso a los procedimientos disciplinarios establecidos en la Ley Orgánica de la Fiscalía General del Estado de Durango y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Durango, independientemente de la responsabilidad penal en que pudiera incurrir.
 
 ###### Artículo 13.
 
@@ -239,23 +243,33 @@ VI. Las demás que establezca esta Ley, su reglamento y demás disposiciones apl
 
 ###### Artículo 14.
 
-El departamento será el encargado de canalizar de manera inmediata los hechos, conflictos, controversias, denuncias o querellas que se presenten. Será facultad del mismo remitir los asuntos que se le presenten al área que corresponda, conforme a lo siguiente:
+El Departamento será el encargado de canalizar de manera inmediata los hechos, conflictos, controversias, denuncias o querellas que se presenten. Será facultad del mismo remitir los asuntos que se le presenten al área que corresponda, conforme a lo siguiente:
 
 I.- A la Dirección, cuando:
 
 a. Se trate de delitos culposos;
 
-b. El delito admita el perdón de la víctima u ofendido;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MAYO DE 2014)</small>
 
-c. Se trate de delitos patrimoniales que se hayan cometido sin violencia sobre las personas; los delitos que admitan la sustitución de sanciones o suspensión condicional de la ejecución de la pena;
+Se exceptúan de esta disposición los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción.
 
-d. En los delitos cuya pena media aritmética no exceda de cinco años de prisión. Siempre y cuando no se afecte un bien jurídico o interés público;
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
-e. En los delitos cuya pena media aritmética exceda de cinco años de prisión, los mecanismos alternativos de solución, sólo serán considerados para otorgar algún beneficio en cualquier etapa del procedimiento penal o relacionados con la disminución de la pena o la ejecución de la sentencia, y
+b. Delitos que se persiguen por querella o requisito equivalente de parte ofendida;
 
-f. Se exceptúan de esta disposición, salvo cuando lo solicite en forma expresa la víctima u ofendido o su representante legal, los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras substancias que impidan o perturben su adecuada conducción; y los demás que determine el Código Procesal Penal del Estado de Durango.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
-Tampoco procederá el uso de los mecanismos alternativos de solución de controversias, en los casos en que el imputado haya celebrado anteriormente otros pactos por hechos de la misma naturaleza, ni cuando se afecte un interés público prevalente y así lo solicite el Ministerio Público, en su caso, ante el Juez de Control.
+c. Se trate de delitos patrimoniales que se hayan cometido sin violencia sobre las personas;
+
+d. (DEROGADO, P.O. 6 DE MAYO DE 2014)
+
+e. (DEROGADO, P.O. 6 DE MAYO DE 2014)
+
+f. (DEROGADO, P.O. 6 DE MAYO DE 2014)
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+No procederán los mecanismos alternativos de solución de controversias, en los casos en que el imputado haya celebrado anteriormente otros pactos por hechos de la misma naturaleza jurídica, salvo que hayan transcurrido cinco años de haber dado cumplimiento al último mecanismo alternativo, o se trate de delitos de violencia familiar o sus equivalentes en la legislación Estatal.
 
 Si el delito afecta intereses difusos o colectivos, el Ministerio Público asumirá la representación para efectos de los acuerdos de que se trata en el presente capítulo, cuando no se haya apersonado como víctima u ofendido alguno de los sujetos autorizados en este Código;
 
@@ -281,7 +295,7 @@ Los mecanismos alternativos en la dirección se proporcionarán por el personal 
 
 El procedimiento ante la dirección dará comienzo con la comparecencia inicial documentada por el departamento a través de mecanismos electrónicos. Esta contendrá una descripción breve de los datos esenciales del hecho planteado, los nombres, domicilios y en su caso, teléfonos de los involucrados en el asunto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -289,7 +303,7 @@ El procedimiento ante la dirección dará comienzo con la comparecencia inicial 
 
 El especialista procederá de inmediato a elaborar la citación a la persona o personas contra quien o quienes se presenta el hecho, conflicto, controversia, denuncia o querella, a efecto de que comparezcan a la sesión inicial correspondiente, informándole la fecha, lugar y hora señaladas. Dicha sesión inicial se programará dentro de un plazo que no excederá de cinco días hábiles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -301,7 +315,7 @@ Iniciada la sesión, el personal especializado examinará los hechos y determina
 
 Si quien haya sido citado manifiesta su negativa para participar en el medio alternativo, se canalizará de inmediato el asunto a la unidad de investigación criminal que corresponda. Después de cerrado el caso por la causa señalada en el párrafo anterior, si persiste el interés de ambos, se reabrirá y se señalará día y hora para la sesión, la cual se llevará a cabo por única vez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -333,17 +347,15 @@ VI. Las firmas o huellas dactilares de quienes los suscriban y, en su caso, el n
 
 VII. La firma del especialista que intervino; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VIII. El señalamiento expreso de los efectos del incumplimiento; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-IX. El convenio deberá ser aprobado por la Dirección, reconociéndolo legalmente, si no se ha iniciado el procedimiento; por el Ministerio Público, una vez que inició éste o por el Juez de Control, si ya se dictó el auto de vinculación a proceso.
+IX. El convenio deberá ser aprobado por el Juez de Control cuando sean de cumplimiento diferido o cuando el proceso ya se haya iniciado; por el Ministerio Público o por la Dirección en la etapa de la investigación inicial, cuando sean de cumplimiento inmediato.
 
 ###### Artículo 25.
 
@@ -355,31 +367,31 @@ II. En caso de que alguno de los interesados realice un comportamiento irrespetu
 
 III. Por decisión de uno de los interesados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IV. Por dos inasistencias de los interesados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 V. Por la negativa de los interesados para la suscripción del acuerdo en los términos de la presente Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VI. Por resolución del director o del subdirector regional, cuando de la conducta de los interesados se desprenda que no hay voluntad para llegar a un arreglo; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VII. Por perdón del ofendido una vez que se haya reparado el daño.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -417,13 +429,13 @@ II. Conducirse con respeto y observar buen comportamiento durante el desarrollo 
 
 III. Signar, o en su caso, estampar la huella dactilar en el convenio celebrado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IV. Cumplir con las obligaciones de dar, hacer o no hacer, establecidas en el convenio;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -433,51 +445,25 @@ VI. Las demás que establezca esta Ley, su reglamento y demás disposiciones apl
 
 ### CAPÍTULO VII. DE LA SUPERVISIÓN JUDICIAL DE LOS MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 30.
 
-Los convenios que hayan sido resultado de la aplicación de mecanismos alternativos de solución de controversia en materia penal por parte de la Dirección, en los cuales se establezcan obligaciones a futuro para cumplir con la reparación, restitución o resarcimiento del daño ocasionado a la víctima u ofendido, deberán ser sometidos a supervisión judicial, en los siguientes casos:
-
-I. Homicidio culposo;
-
-II. Violencia familiar;
-
-III. Lesiones previstas en las fracciones III, IV, V, VI y VII del artículo 140 del Código Penal para el Estado Libre y Soberano de Durango;
-
-IV. Delitos contra el patrimonio cuando el monto exceda de 600 veces el salario y no se hayan cometido con violencia sobre las personas;
-
-V. Delitos contra la seguridad de la subsistencia familiar; y
-
-VI. Delitos que atenten contra la libertad y seguridad sexual.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 31.
 
-La supervisión judicial de los mecanismos alternativos de solución de controversias, tendrá como finalidad verificar que se trata de derechos susceptibles de someterse a dichos mecanismos y que se cubra la reparación del daño.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 32.
 
-La supervisión judicial estará a cargo del Juez de Ejecución de Sentencia, para lo cual la Dirección deberá remitir dentro de los dos días siguientes a la celebración del convenio respectivo, un ejemplar del mismo al citado Juez, quien lo registrará en un libro y medios electrónicos que para tal efecto se lleven, para lo cual implementará todas las medidas necesarias para verificar el cumplimiento o incumplimiento de los convenios.
-
-El debido cumplimiento del acuerdo o convenio extinguirá la acción penal.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### Artículo 33.
 
-En caso de que el Juez de Ejecución de Sentencia advierta que el convenio sujeto a supervisión judicial no se ha cumplido en la forma y plazo establecidos, se procederá conforme a lo siguiente: Si el interesado incumple las obligaciones pactadas dentro del término fijado por las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la suscripción del convenio ante la Dirección, el Ministerio Público o el Juez de Control, dependiendo del inicio del procedimiento o proceso, los interesados podrán presentar su denuncia o querella o continuar con el primero, según la etapa en que se encuentre.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ## TRANSITORIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -489,13 +475,13 @@ La Dirección de Justicia Penal Restaurativa, tendrá su sede en la ciudad de Vi
 
 II.- Para efectos de la designación del personal que laborará en la Dirección de Justicia Penal Restaurativa y en el Departamento de Inmediata Atención, en el Municipio de la Capital, la Procuraduría General de Justicia del Estado de Durango, expedirá la convocatoria respectiva, en un plazo que no exceda de 30 días a partir de la publicación de la presente Ley, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Segundo.- El Gobernador del Estado expedirá el reglamento de esta Ley, dentro de los noventa días naturales, contados a partir del día de inicio de su entrada en vigor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -529,7 +515,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
@@ -541,7 +527,7 @@ Artículo Segundo. Se derogan todas las disposiciones legales que se opongan al 
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
 
@@ -578,3 +564,23 @@ Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Int
 2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
 
 3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor, conforme a las siguientes previsiones:
+
+I. A las 00:01 horas del día 7 de mayo del año 2014, en el Primer Distrito Judicial, el cual cuenta con Durango como residencia, y comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas.
+
+II. A las 00:01 horas del día 10 de junio del año 2014, en el Segundo y Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Segundo distrito: Ciudad Lerdo como residencia, comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito; Tercer distrito: Gómez Palacio como residencia; comprende el Municipio del mismo nombre y el de Tlahualilo.
+
+III. En el resto de los Distrititos Judiciales, conforme lo establezca la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, que al efecto emita este Poder Legislativo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que contravengan a las contenidas en el presente Decreto.
