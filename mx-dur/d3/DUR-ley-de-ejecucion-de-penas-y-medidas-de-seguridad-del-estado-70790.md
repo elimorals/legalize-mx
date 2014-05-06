@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-707
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-15"
-last_updated: "2011-07-12"
+last_updated: "2014-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO
 
-LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO
+LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ DE LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, SE ADOPTARÁ EL DECRETO NÚMERO 416, PUBLICADO EN EL P.O DEL 10 DE DICIEMBRE DE 2009.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ DE LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, SE ADOPTARÁ EL DECRETO NÚMERO 416, PUBLICADO EN EL P.O. DEL 10 DE DICIEMBRE DE 2009.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de octubre de 2009.
 
@@ -55,7 +55,9 @@ Disposiciones.
 
 Las disposiciones contenidas en esta Ley son de orden público y de interés social y su aplicación corresponde, en el ámbito de sus respectivas competencias, a los Poderes Judicial y Ejecutivo del Estado, este último, a través de la Dirección General de Ejecución de Penas y Medidas de Seguridad, dependiente de la Secretaría de Seguridad Pública.
 
-Para efectos de esta Ley, el Juez de Ejecución de Sentencia a que hace referencia el Código Procesal Penal del Estado de Durango y la Ley Orgánica del Poder Judicial del Estado, se entenderá como Juez de Ejecución, encargado de ejecutar las penas y medidas de seguridad.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Para efectos de esta Ley, el Juez de Ejecución de Sentencia a que hace referencia la Ley Orgánica del Poder Judicial del Estado, será el encargado de ejecutar las penas y medidas de seguridad.
 
 ###### Artículo 2.
 
@@ -85,7 +87,9 @@ Vigilancia y coordinación interinstitucional.
 
 Los Poderes Judicial y Ejecutivo del Estado vigilarán, en el ámbito de sus respectivas competencias, el cumplimiento y aplicación de esta Ley, así como la organización y funcionamiento de las instituciones destinadas a la ejecución de las penas y medidas de seguridad y judiciales.
 
-En el cumplimiento de las penas, medidas de seguridad y judiciales dictadas durante el procedimiento o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el Juez de Control, el Tribunal de Juicio Oral, o el Juez de Ejecución, en su caso, remitirán sus proveídos a la Dirección, quien de conformidad a la naturaleza de aquellas, las ejecutará, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o instituciones privadas, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+En el cumplimiento de las penas, medidas de seguridad y judiciales dictadas durante el procedimiento o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el Juez de Control, el Tribunal de Enjuiciamiento, o el Juez de Ejecución, en su caso, remitirán sus proveídos a la Dirección, quien de conformidad a la naturaleza de aquellas, las ejecutará, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o instituciones privadas, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
 
 ###### Artículo 4.
 
@@ -101,7 +105,9 @@ I. Centro. Los Centros de Prevención y Reinserción Social del Estado, dependie
 
 II. Código Penal. El Código Penal para el Estado Libre y Soberano de Durango;
 
-III. Código Procesal Penal. El Código Procesal Penal del Estado de Durango;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+III. Código Nacional. El Código Nacional de Procedimientos Penales;
 
 IV. Consejo. El Consejo Técnico Interdisciplinario;
 
@@ -121,11 +127,13 @@ El imputado, acusado o sentenciado podrá ejercer, durante la ejecución de las 
 
 Los derechos y beneficios que esta Ley prevé para el sentenciado le serán informados al interesado por la autoridad penitenciaria desde el momento en que se empiece a ejecutar la sentencia.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 6.
 
 Competencia.
 
-El Tribunal de Juicio Oral o el Juez de Control, en su caso, será competente para realizar la primera fijación de la pena o las medidas de seguridad, así como de las condiciones de su cumplimiento. Lo relativo a las sucesivas fijaciones, extinción, sustitución o modificación de aquellas será competencia del Juez de Ejecución.
+El Tribunal de Enjuiciamiento o el Juez de Control, en su caso, será competente para realizar la primera fijación de la pena o las medidas de seguridad, así como de las condiciones de su cumplimiento. Lo relativo a las sucesivas fijaciones, extinción, sustitución o modificación de aquellas será competencia del Juez de Ejecución.
 
 ###### Artículo 7.
 
@@ -169,7 +177,9 @@ Si la sentencia en procedimiento abreviado resulta absolutoria para el acusado, 
 
 Del Juez de Ejecución.
 
-Los jueces de ejecución designados por el Tribunal Superior de Justicia tendrán su jurisdicción en todo el Estado de conformidad con lo establecido por las fracciones I y II del artículo primero transitorio del Código Procesal Penal para el Estado de Durango.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
+Los jueces de ejecución designados por el Tribunal Superior de Justicia tendrán su jurisdicción en todo el Estado de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado así como en las disposiciones generales que el Consejo de la Judicatura dicte.
 
 El Juez de Ejecución vigilará el respeto a las finalidades constitucionales y legales de la pena y de las medidas de seguridad, para lo cual, podrá hacer comparecer ante sí a los sentenciados o a los servidores públicos del Sistema, con fines de vigilancia y control de la ejecución, quien tendrá las siguientes atribuciones:
 
@@ -201,19 +211,31 @@ X. Las demás atribuciones que ésta Ley y otros ordenamientos le asignen.
 
 Audiencia ante el Juez de Ejecución.
 
-El Juez de Ejecución para llevar a cabo la audiencia a que se refiere la fracción IX del artículo 11, se sujetará a los principios que rigen la audiencia de debate de juicio oral y a las siguientes reglas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
+El Juez de Ejecución para llevar a cabo la audiencia a que se refiere la fracción IX del artículo 11, se sujetará a los principios que rigen la audiencia de juicio y a las siguientes reglas:
 
 I. Notificará previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del Agente del Ministerio Público, el o los funcionarios de la Dirección que sean designados para tal efecto, el sentenciado y su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo y quede constancia de ello;
 
-II. Si se requiere producción de prueba con el fin de sustentar la revisión, sustitución, modificación, revocación o cese de la pena o medida de seguridad impuesta, la parte oferente deberá anunciarla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y esté en aptitud de ofrecer prueba de su parte. La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de debate de juicio oral;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-III. Dirigirá el debate y ejercerá el poder de disciplina en la audiencia, previstas en los artículos 350 y 351 del Código Procesal Penal;
+II. Si se requiere producción de prueba con el fin de sustentar la revisión, sustitución, modificación, revocación o cese de la pena o medida de seguridad impuesta, la parte oferente deberá anunciarla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y esté en aptitud de ofrecer prueba de su parte. La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de juicio.
 
-IV. La resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 393 del Código Procesal Penal;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-V. Valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de debate de juicio oral; y
+III. Dirigirá el debate y ejercerá el poder de disciplina en la audiencia, previstas en los artículos 354 y 355 del Código Nacional.
 
-VI. De la resolución pronunciada en la audiencia a que se refieren las fracciones anteriores, deberá entregarse copia certificada a la Dirección y a la Procuraduría General de Justicia del Estado, para su conocimiento.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+IV. La resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 400 del Código Nacional.
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+V. Valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de juicio; y
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+VI. De la resolución pronunciada en la audiencia a que se refieren las fracciones anteriores, deberá entregarse copia certificada a la Dirección y a la Fiscalía General del Estado, para su conocimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ DE LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, ASÍ COMO EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -257,7 +279,9 @@ Para emitir sus resoluciones, los jueces de ejecución de penas se ajustarán a 
 
 I. Tratándose de pena o medida de seguridad impuesta por sentencia que haya causado ejecutoria, al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución penal, realizando la notificación a la autoridad administrativa correspondiente, al sentenciado, a su defensor y al Ministerio Público; y
 
-II. Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustará a las directrices generales que se contienen en el Código Procesal Penal.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+II. Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustará a las directrices generales que se contienen en el Código Nacional.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ DE LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, ASÍ COMO EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -265,17 +289,15 @@ II. Las notificaciones y los actos procesales relativos a los medios de prueba, 
 
 ### CAPÍTULO III. DE LOS RECURSOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ DE LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, ASÍ COMO EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 15.
 
 De los recursos.
 
-Las resoluciones emitidas por los jueces de ejecución respecto a la situación jurídica de los sentenciados, serán impugnadas, mediante el recurso de apelación en los términos del capítulo III del Título Décimo del Código Procesal Penal.
+Las resoluciones emitidas por los jueces de ejecución respecto a la situación jurídica de los sentenciados, serán impugnadas, mediante el recurso de apelación en los términos del Código Nacional.
 
-Las resoluciones que deriven del recurso de revisión, que tengan como consecuencia la anulación de sentencia por absolución del sentenciado o la disminución de la pena impuesta, serán comunicadas por la propia Sala a la autoridad administrativa correspondiente para su ejecución inmediata. Dicha resolución también se comunicará al Juez de Ejecución, al defensor del sentenciado y al Ministerio Público.
+Las resoluciones que deriven del reconocimiento de inocencia o anulación de sentencia en términos del Código Nacional serán comunicadas por la propia Sala a la autoridad administrativa correspondiente para su ejecución inmediata. Dicha resolución también se comunicará al Juez de Ejecución, al defensor del sentenciado y al Ministerio Público.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -553,19 +575,19 @@ Es admisible la póliza de fianza personal cuando el monto de la garantía econ�
 
 Depósito de valores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ DE LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, ASÍ COMO EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-Cuando la garantía económica fijada como medida cautelar consista en el depósito de valores distintos al dinero, dichos bienes serán recibidos e inventariados por el Juez de Control y puestos bajo custodia del administrador general de las salas de juicio oral.
+Cuando la garantía económica fijada como medida cautelar consista en el depósito de valores distintos al dinero, dichos bienes serán recibidos e inventariados por el Juez de Control y puestos bajo custodia del administrador general del Tribunal de Enjuiciamiento.
 
 El valor de los bienes deberá corresponder, cuando menos, a dos tantos más del monto fijado, y se constatará con un avalúo practicado por quienes estén autorizados para hacerlo, de conformidad con la legislación respectiva.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 32.
 
 Regla general para la garantía económica.
 
-Al formalizarse la garantía económica se hará saber a quién funja como garante que queda sujeto al procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado. También se le informará del contenido de los artículos 192 y 194 del Código Procesal Penal.
+Al formalizarse la garantía económica se hará saber a quién funja como garante que queda sujeto al procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado. También se le informará del contenido de los artículos 174 y 175 del Código Nacional.
 
 #### SECCIÓN SEGUNDA. PROHIBICIÓN DE SALIR DEL PAÍS, DE LA LOCALIDAD EN LA CUAL RESIDE O DEL ÁMBITO TERRITORIAL
 
@@ -671,11 +693,13 @@ Al imponerse la medida de prohibición de convivencia o comunicación con person
 
 #### SECCIÓN NOVENA. SEPARACIÓN INMEDIATA DEL DOMICILIO
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 43.
 
 Ejecución de la medida.
 
-Si se decreta la medida cautelar de separación inmediata del domicilio del imputado, se comunicará el proveído a la Secretaría de Seguridad Pública o a otros cuerpos de seguridad pública en el Estado, para su efectivo cumplimiento, en los términos del artículo 193 del Código Procesal Penal.
+Si se decreta la medida cautelar de separación inmediata del domicilio del imputado, se comunicará el proveído a la Secretaría de Seguridad Pública o a otros cuerpos de seguridad pública en el Estado, para su efectivo cumplimiento.
 
 #### SECCIÓN DECIMA. SUSPENSIÓN DE DERECHOS
 
@@ -771,23 +795,33 @@ Al decretarse la medida cautelar de embargo precautorio, se remitirá la resoluc
 
 Coordinación, ejecución y vigilancia de las condiciones.
 
-La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir durante la suspensión del proceso a prueba, en los términos del Capítulo II, Título Séptimo, del Código Procesal Penal, se llevará a cabo de la siguiente manera:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
+La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir durante la suspensión condicional del proceso, en los términos del Código Nacional, se llevará a cabo de la siguiente manera:
 
 I. Residir en un lugar determinado. Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del ámbito territorial que fije el juez;
 
-II. Acudir o dejar de acudir a determinados lugares o con alguna persona. Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares y de convivir o comunicarse con personas determinadas;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-III. Abstenerse de consumir drogas, estupefacientes o bebidas alcohólicas. Quedará sujeta a la revisión por parte de la Secretaría de Salud, la que por conducto de las instituciones correspondientes, verificará periódicamente el cumplimiento de la condición, mediante la práctica de exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes;
+II. Frecuentar o dejar de frecuentar determinados lugares o personas. Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares y de convivir o comunicarse con personas determinadas;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+III. Abstenerse de consumir drogas, estupefacientes o de abusar de las bebidas alcohólicas. Quedará sujeta a la revisión por parte de la Secretaría de Salud, la que por conducto de las instituciones correspondientes, verificará periódicamente el cumplimiento de la condición, mediante la práctica de exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes;
 
 IV. Participar en programas especiales para la prevención y tratamiento de adicciones. Quedará sujeta a la revisión por parte de la Secretaría de Salud, quien incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento;
 
-V. Comenzar a finalizar la educación básica si no la ha cumplido, aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez. Quedará sujeta a la revisión por parte de la Secretaría de Educación, quien dará seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el Juez de Control. Quedará sujeta a la revisión por parte de la Secretaría de Educación, quien dará seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso;
 
 VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública. Quedará sujeta a la revisión por parte de la Dirección, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, supervisará el trabajo del imputado periódicamente e informará sobre su cumplimiento;
 
 VII. Someterse a tratamiento médico o psicológico, de preferencia en instituciones públicas. Se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento en centro de salud u hospital psiquiátrico;
 
-VIII. Tener un trabajo, empleo u oficio en el plazo que el juez determine. Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en la adquisición de trabajo, oficio o empleo, se dará intervención al Servicio Estatal de Empleo de la Secretaría del Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+VIII. Tener un trabajo o empleo, o adquirir, en el plazo que el Juez de Control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia. Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en la adquisición de trabajo, oficio o empleo, se dará intervención al Servicio Estatal de Empleo de la Secretaría del Trabajo y Previsión Social;
 
 IX. Someterse a la vigilancia que determine el juez. Se sujetará a las disposiciones de ejecución de la medida cautelar de someterse al cuidado o vigilancia de una persona, institución pública, privada o de asistencia social, para recibir tratamiento especializado vinculado a la problemática que presenta el imputado y los encargados informarán regularmente al juez la evolución y resultados obtenidos del tratamiento;
 
@@ -795,9 +829,15 @@ X. No poseer ni portar armas o utilizar los instrumentos del delito. Al decretar
 
 XI. No conducir vehículos. Se sujetará a las disposiciones de ejecución de la medida cautelar de suspensión de derechos;
 
-XII. Abstenerse de viajar al extranjero. Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del país; y
+XII. Abstenerse de viajar al extranjero. Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del país; y (sic)
 
-XIII. Cumplir con los deberes de deudor alimentario. En su cumplimiento, quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al Juez de Control.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+XIII. Cumplir con los deberes de deudor alimentario, o
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
+XIV. Cualquier otra condición que, a juicio del Juez de Control, logre una efectiva tutela de los derechos de la víctima.
 
 ### CAPÍTULO IV. DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES Y SUSPENSIÓN DEL PROCESO A PRUEBA
 
@@ -831,7 +871,9 @@ La comunicación entre el Juez de Control y las autoridades señaladas como auxi
 
 Ejecución de las penas y medidas de seguridad.
 
-Para la ejecución de las penas y medidas de seguridad, el Juez de Control o el Tribunal de Juicio Oral que dictó la sentencia ejecutoriada, según corresponda, deberá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
+Para la ejecución de las penas y medidas de seguridad, el Juez de Control o el Tribunal de Enjuiciamiento que dictó la sentencia ejecutoriada, según corresponda, deberá:
 
 I. Tratándose de penas privativas de la libertad:
 
@@ -1279,25 +1321,33 @@ Publicación.
 
 Todas las resoluciones que concedan un indulto se publicarán en el Periódico Oficial del Gobierno Constitucional del Estado y se comunicarán a la autoridad judicial que pronunció la sentencia para que haga la anotación correspondiente en el proceso.
 
-#### SECCIÓN TERCERA. LIBERTAD O DISMINUCIÓN DE LA PENA POR REVISIÓN DE SENTENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
+
+#### SECCIÓN TERCERA. LIBERTAD O DISMINUCIÓN DE LA PENA POR RECONOCIMIENTO DE INOCENCIA O ANULACIÓN DE SENTENCIA
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 94.
 
 Procedencia.
 
-La libertad definitiva o disminución de la pena procederá como consecuencia de la resolución que las determine en el recurso de revisión, en los términos del Título Décimo, Capítulo V del Código Procesal Penal.
+La libertad definitiva o disminución de la pena procederá como consecuencia de la resolución que las determine, en los términos del Código Nacional.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 95.
 
 Libertad por revisión de sentencia.
 
-Cuando por revisión de sentencia se resuelva la absolución del sentenciado, la Sala Colegiada en materia penal que haya conocido del recurso remitirá la constancia de su resolución a la Dirección y al Juez de Ejecución para que sin demora la ejecuten; así mismo, a la Procuraduría General de Justicia del Estado, para su conocimiento.
+Cuando por reconocimiento de inocencia del sentenciado o anulación de sentencia se resuelva la absolución del sentenciado, la Sala Colegiada en materia penal que haya conocido remitirá la constancia de su resolución a la Dirección y al Juez de Ejecución para que sin demora la ejecuten; así mismo, a la Fiscalía General del Estado, para su conocimiento.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 96.
 
 Disminución de penas.
 
-Cuando la consecuencia del recurso de revisión sea la disminución de las penas impuestas al sentenciado, se aplicará, en lo conducente, lo dispuesto en el artículo anterior.
+Cuando la consecuencia de la anulación de sentencia sea la disminución de las penas impuestas al sentenciado se aplicará en lo conducente, lo dispuesto en el artículo anterior.
 
 #### SECCIÓN CUARTA. REHABILITACIÓN
 
@@ -1449,7 +1499,9 @@ La ejecución de la pena de prohibición de residir o concurrir a un lugar deter
 
 Ejecución.
 
-Al haberse indicado la forma de dar cumplimiento al pago de la reparación del daño, en los términos del artículo 407 del Código Procesal Penal, se enviará constancia de la sentencia firme al Juez de Ejecución, para llevar a cabo el seguimiento correspondiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
+Al haberse indicado la forma de dar cumplimiento al pago de la reparación del daño, en los términos de los artículos 408 y 409 del Código Nacional, se enviará constancia de la sentencia firme al Juez de Ejecución, para llevar a cabo el seguimiento correspondiente:
 
 I. Si no se pagó la reparación del daño en los términos fijados en la sentencia, el Juez de Ejecución dará inicio al procedimiento administrativo de ejecución en los términos del Código Fiscal del Estado;
 
@@ -1509,7 +1561,9 @@ Si el interesado no se presenta dentro de los treinta días naturales siguientes
 
 En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convengan, con la excepción prevista en el párrafo siguiente, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al Fondo General para la Reparación de las Víctimas u Ofendidos.
 
-Los bienes perecederos de consumo y durables podrán ser donados a instituciones de asistencia pública en el Estado, en los términos y condiciones que se establezcan mediante acuerdo que emita el Procurador General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Los bienes perecederos de consumo y durables podrán ser donados a instituciones de asistencia pública en el Estado, en los términos y condiciones que se establezcan mediante acuerdo que emita el Fiscal General del Estado.
 
 #### SECCIÓN TERCERA. INHABILITACIÓN, DESTITUCIÓN O SUSPENSIÓN DE CARGOS O EMPLEOS PÚBLICOS
 
@@ -2071,6 +2125,10 @@ Estas comunicaciones se celebrarán de manera que se respete al máximo la intim
 
 Las comunicaciones de los internos con el defensor no podrán ser suspendidas. Las citadas comunicaciones quedarán sujetas a las disposiciones del Código Procesal Penal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MAYO DE 2014)</small>
+
+Las citadas comunicaciones quedarán sujetas a las disposiciones del Código Nacional.
+
 ###### Artículo 174.
 
 Comunicación de la detención.
@@ -2306,3 +2364,17 @@ DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE
 ###### ARTÍCULO ÚNICO.
 
 Con fundamento en lo dispuesto por los artículos 18, 21 y Quinto Transitorio del Decreto por el que se reformó la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 (dieciocho) de junio de 2008 (dos mil ocho); 6, párrafo tercero, de la Constitución Política del Estado Libre y Soberano de Durango; primero transitorio fracción II del Decreto No. 232 de la LXIV Legislatura, por el que se expidió el Código Procesal Penal del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 11 de fecha 5 de diciembre de 2008, segundo transitorio del Decreto No. 416 de la LXIV Legislatura, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 47, de fecha 10 de diciembre de 2009, por el cual se expidió la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango, y 9, fracción XLI, de la Ley Orgánica del Poder Judicial del Estado de Durango, y 3, fracción I, y 7, fracción III de la Ley para la Reforma Penal del Estado de Durango, por lo que esta LXV Legislatura del H. Congreso del Estado de Durango, declara la entrada en vigor del Título Décimo Primero del Código Procesal Penal contenido en el decreto número 232, así como del decreto No. 416, que contiene la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango, ambos de la LXIV Legislatura, publicados en las fechas antes citadas en el ámbito espacial y temporal de validez de los distritos judiciales, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Décimo Primero, Décimo Segundo, y Décimo Tercero del Estado de Durango.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor a las 00:01, del día 7 de mayo de 2014.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
