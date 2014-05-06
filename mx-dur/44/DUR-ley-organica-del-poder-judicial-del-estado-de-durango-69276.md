@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2014-01-12"
+last_updated: "2014-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -63,11 +61,9 @@ III. El Tribunal para Menores Infractores del Poder Judicial del Estado;
 
 IV. El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
-
-V. Los Juzgados de Primera Instancia y Auxiliares; el Tribunal de Control y Juicio Oral, Juzgados de Ejecución y el Tribunal Laboral Burocrático;
+V. Los Juzgados de Primera Instancia y Auxiliares, los Jueces de Control, el Tribunales (sic) de Enjuiciamiento, los Juzgados de Ejecución y el Tribunal Laboral Burocrático;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -517,9 +513,9 @@ Corresponde conocer a las salas colegiadas del Tribunal
 
 Superior de Justicia:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-I. De las apelaciones de las sentencias definitivas dictadas en materia civil, mercantil y familiar. En materia penal, de los recursos de casación y de revisión que se interpongan contra resoluciones pronunciadas por los tribunales de Juicio Oral; estos recursos podrán ser resueltos incluso por magistrados que hubieren conocido en el mismo asunto en apelación. Así como de las apelaciones, revisiones forzosas y extraordinarias que le sean remitidas por los juzgados mixtos y especializados de primera instancia.
+I. De las apelaciones de las sentencias definitivas dictadas en materia civil, mercantil y familiar. En materia penal, del recurso de apelación que se interponga contra resoluciones pronunciadas por los tribunales de enjuiciamiento; este recurso podrá ser resuelto incluso por magistrados que hubieren conocido en el mismo asunto con anterioridad. Así como de las apelaciones, revisiones forzosas y extraordinarias que le sean remitidas por los juzgados mixtos y especializados de primera instancia.
 
 II. De las recusaciones y excusas de los magistrados de las salas unitarias, así como de las de sus propios integrantes, las que se calificarán por los dos restantes; y
 
@@ -813,17 +809,23 @@ III. Comunicar a los Centros Especializados de Readaptación y Tratamiento para 
 
 IV. Las que les confieran las leyes aplicables.
 
-#### SECCIÓN TERCERA. DE LOS JUZGADOS DE CONTROL, DE LOS TRIBUNALES DE JUICIO ORAL Y DE LOS JUZGADOS DE EJECUCION DE SENTENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
+
+#### SECCIÓN TERCERA. DE LOS JUECES DE CONTROL, DE LOS TRIBUNALES DE ENJUICIAMIENTO Y DE LOS JUZGADOS DE EJECUCIÓN DE SENTENCIA
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 46.
 
-La jurisdicción de primera instancia en materia penal estará a cargo de los juzgados de Control y de los tribunales de Juicio Oral, en los términos de la legislación procesal de la materia.
+La jurisdicción de primera instancia en materia penal estará a cargo de los Jueces de Control y los Tribunales de Enjuiciamiento, en los términos de la legislación procesal de la materia.
 
-Los juzgados de Control se integrarán por un Juez, y los tribunales de Juicio Oral por tres jueces.
+Los Tribunales de Enjuiciamiento se integrarán por uno o tres jueces, según acuerdo del Consejo de la Judicatura. El número de jueces de control lo determinará el Consejo de la Judicatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 47.
 
-Los juzgados y tribunales penales tendrán la competencia, facultades y obligaciones que les confieren las leyes respectivas, y en especial:
+Los jueces y tribunales penales tendrán la competencia, facultades y obligaciones que les confieren las leyes respectivas, y en especial:
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -845,13 +847,17 @@ I. Otorgar las autorizaciones judiciales previas que solicite el Ministerio Púb
 
 II. Dirigir las audiencias judiciales de la fase de investigación y resolver los incidentes que se promuevan en ellas;
 
-III. Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+III. Decidir sobre la imposición de medidas cautelares;
 
 IV. Conocer de las impugnaciones que se hagan en contra de los criterios de oportunidad que aplique el Ministerio Público;
 
 V. Resolver sobre la vinculación a proceso de los imputados;
 
-VI. Procurar la solución del conflicto a través de medios alternos, conforme a lo dispuesto en la ley;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+VI. Procurar la solución del conflicto a través de las salidas alternas, conforme a lo dispuesto en la ley;
 
 VII. Conocer y resolver del procedimiento abreviado;
 
@@ -859,11 +865,15 @@ VIII. Resolver del recurso de revocación; y
 
 IX. Las demás que le otorgue la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 49.
 
-Los jueces del Tribunal de Juicio Oral tendrán las siguientes atribuciones:
+Los jueces de los Tribunales de Enjuiciamiento tendrán las siguientes atribuciones:
 
-I. Conocer las causas penales en Juicio Oral;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+I. Conocer las causas penales en etapa de Juicio;
 
 II. Resolver todas las cuestiones que se presenten durante el Juicio;
 
@@ -897,7 +907,9 @@ X. Resolver, por vía de incidente, los reclamos que formulen los internos sobre
 
 XI. Las demás que le otorgue la ley.
 
-Los jueces de Control, Juicio Oral y los de Ejecución de Sentencia, tendrán la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Consejo de la Judicatura dicte, en los términos de las facultades otorgadas al Pleno en la presente ley.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Los Jueces de Control, los Tribunales de Enjuiciamiento y los Juzgados de Ejecución de Sentencia, tendrán la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Consejo de la Judicatura dicte, en los términos de las facultades otorgadas al Pleno en la presente ley.
 
 Los juzgados de ejecución contarán con un equipo interdisciplinario para el auxilio de sus funciones.
 
@@ -1035,7 +1047,9 @@ En los lugares donde hubiere dos o más juzgados municipales, cada Juez conocer�
 
 El personal de los juzgados de Primera Instancia se integrará con un Juez y el número de secretarios, actuarios, oficiales judiciales y empleados que determine el Consejo de la Judicatura y que permita el presupuesto.
 
-El personal de los juzgados de Control, del Tribunal de Juicio Oral y de los juzgados de Ejecución de Sentencia, se integrará con los jueces y servidores públicos que determine el Consejo de la Judicatura y que permita el presupuesto.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+El personal de los Jueces de Control y de los Tribunales de Enjuiciamiento y de los juzgados de Ejecución de Sentencia, se integrará con los jueces y servidores públicos que determine el Consejo de la Judicatura y que permita el presupuesto.
 
 ###### ARTÍCULO 62.
 
@@ -1457,7 +1471,9 @@ VIII. Dirección de Estadística;
 
 IX. Instituto de Defensoría Pública; y
 
-X. Dirección Administrativa de juzgados de Control, de Tribunal de Juicio Oral y de juzgados de Ejecución de Sentencia.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+X. Dirección Administrativa de los Jueces de Control, Tribunales de Enjuiciamiento y de Juzgados de Ejecución de Sentencia.
 
 Cada uno de estos órganos contará con un Director, quien deberá tener título profesional afín a las funciones que deba desempeñar, de reconocida probidad y experiencia mínima profesional de cinco años, con excepción de la Visitaduría Judicial, que será de diez años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año. Los órganos auxiliares contarán, además, con el personal que permita el presupuesto.
 
@@ -1709,6 +1725,10 @@ El Director del Archivo del Poder Judicial del Estado o quien designe el Consejo
 
 Para los efectos previstos en el penúltimo párrafo del artículo 130 bis del Código Penal del Estado Libre y Soberano de Durango, el Director del Archivo del Poder Judicial del Estado, deberá llevar un registro donde deje constancia de aquellos a los que se les han cancelado los antecedentes penales.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Asimismo, deberá llevar un registro para expedir constancias de celebración de acuerdos reparatorios, así como de la concesión de la suspensión condicional del proceso en términos de la legislación penal vigente.
+
 #### SECCIÓN SEXTA. DE LA DIRECCIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y DE COMUNICACIÓN SOCIAL
 
 ###### ARTÍCULO 113.
@@ -1825,29 +1845,43 @@ El Instituto de Defensoría Pública, es el órgano encargado de prestar el serv
 
 El funcionamiento, facultades y obligaciones del Instituto, se regirán por la Ley del Instituto de Defensoría Publica. Sus funciones son de orden público, sus servicios serán gratuitos y se prestarán bajo los principios de probidad, honradez, profesionalismo, calidad y de manera obligatoria y las desarrollará en el territorio del Estado.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LA DIRECCIÓN ADMINISTRATIVA DE JUZGADOS DE CONTROL, DE TRIBUNAL DE JUICIO ORAL Y DE JUZGADOS DE EJECUCIÓN DE SENTENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
+
+#### SECCIÓN DÉCIMA PRIMERA. DE LA DIRECCIÓN ADMINISTRATIVA DE LOS JUECES DE CONTROL, DE TRIBUNALES DE ENJUICIAMIENTO Y DE JUZGADOS DE EJECUCIÓN DE SENTENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 123.
 
-La Dirección Administrativa tiene como objetivo estructurar, organizar y planear los proyectos para la implementación del funcionamiento de los juzgados de control, de los tribunales de juicio oral y de juzgados de ejecución de sentencia, con las siguientes atribuciones:
+La Dirección Administrativa tiene como objetivo estructurar, organizar y planear los proyectos para la implementación del funcionamiento de Jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Sentencia, con las siguientes atribuciones:
 
-I. Establecer los modelos de gestión para el funcionamiento de los juzgados de Control, de Tribunal de Juicio Oral y de juzgados de Ejecución de Sentencia, adoptando las metodologías propias a la estructura, acorde a lo establecido en las leyes;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-II. Establecer y mantener actualizados los programas de capacitación al personal administrativo de los juzgados de Control, de Tribunal de Juicio Oral y de juzgados de Ejecución de Sentencia;
+I. Establecer los modelos de gestión para el funcionamiento de los Jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Sentencia, adoptando las metodologías propias a la estructura, acorde a lo establecido en las leyes;
 
-III. Establecer acciones, con las diferentes direcciones del Poder Judicial, con el objeto de realizar la puesta en marcha de los juzgados de Control, de Tribunal de Juicio Oral y de juzgados de Ejecución de Sentencia;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+II. Establecer y mantener actualizados los programas de capacitación al personal administrativo de los Jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Sentencia;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+III. Establecer acciones, con las diferentes direcciones del Poder Judicial, con el objeto de realizar la puesta en marcha de los Jueces de Control, Tribunales de Enjuiciamiento y de Juzgados de Ejecución de Sentencia;
 
 IV. Presentar al Consejo de la Judicatura, para su aprobación los manuales de operación de la Dirección Administrativa; y
 
 V. Las demás que señale el Reglamento.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 124.
 
-En los juzgados de Control, Tribunal de Juicio Oral y juzgados de Ejecución de Sentencia, deberá nombrarse un Administrador General y los subadministradores, auxiliares y demás servidores públicos que sean necesarios para el buen funcionamiento de los juzgados y tribunales.
+En la Dirección Administrativa de los Jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Sentencia, deberá nombrarse un Administrador General y los subadministradores, auxiliares y demás servidores públicos que sean necesarios para el buen funcionamiento de los juzgados y tribunales, según lo permita el presupuesto y lo determine el Consejo de la Judicatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 125.
 
-La Dirección Administrativa de los juzgados de Control, de Tribunal de Juicio Oral y juzgados de Ejecución de Sentencia, contará con un Departamento de Actuarios Notificadores en materia penal, que tendrá a su cargo la distribución de los asuntos que les remitan los administradores de los juzgados a instancia de los jueces penales.
+La Dirección Administrativa de los Jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Sentencia contará con un Departamento de Actuarios Notificadores en materia penal, que tendrá a su cargo la distribución de los asuntos que se les remitan.
 
 El Departamento de Actuarios Notificadores en materia penal se integrará con un Jefe y el número de actuarios y personal de apoyo que permita el presupuesto.
 
@@ -2153,9 +2187,11 @@ Si la falta se cometiere porque alguna de las salas del Tribunal Superior de Jus
 
 Si la falta se cometiere porque el Consejo de la Judicatura no dicte resolución dentro del término legal, solamente será responsable el Consejero ponente, cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás consejeros, quienes sólo serán responsables si habiéndose presentado la ponencia correspondiente, no concurrieran a la discusión del negocio o no emitan su voto dentro del mismo plazo legal, sin causa justificada.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 154.
 
-Cuando el Tribunal de Juicio Oral no emita el fallo en los plazos que fija la ley, serán responsables los integrantes del propio órgano jurisdiccional.
+Cuando los Tribunales de Enjuiciamiento no emitan el fallo en los plazos que fija la ley, serán responsables el o los integrantes del propio órgano jurisdiccional, según corresponda.
 
 ###### ARTÍCULO 155.
 
@@ -2207,11 +2243,13 @@ Si el servidor público suspendido temporalmente no resultare responsable de la 
 
 ### CAPÍTULO I. DE LA DIVISIÓN TERRITORIAL
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 158.
 
-Para los efectos de esta ley, el Estado de Durango se dividirá en el número de distritos judiciales, que mediante acuerdos generales, determine el Pleno del Tribunal Superior de Justicia, a propuesta del Consejo de la Judicatura, los que incluirán la competencia y especialización de los tribunales de Primera Instancia y auxiliares, así como de los jueces de Control, de Tribunal de Juicio Oral y de Ejecución de Sentencia que deban funcionar en cada Distrito.
+Para los efectos de esta ley, el estado de Durango se dividirá en el número de distritos judiciales, que mediante acuerdos generales, determine el Pleno del Tribunal Superior de Justicia, a propuesta del Consejo de la Judicatura, los que incluirán la competencia y especialización de los tribunales de Primera Instancia y auxiliares, así como de los Jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Sentencia que deban funcionar en cada distrito.
 
-Los acuerdos del Pleno del Tribunal Superior de Justicia relativos a esta materia, serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y otros medios idóneos de notificación.
+Los acuerdos del Pleno del Tribunal Superior de Justicia relativos a esta materia, serán publicados en el Periódico Oficial del Gobierno del Estado de Durango y otros medios idóneos de notificación
 
 ### CAPÍTULO II. DE LOS IMPEDIMENTOS Y PROHIBICIONES
 
@@ -2287,9 +2325,11 @@ Cuando alguno de los jueces en la capital del Estado deje de conocer de un asunt
 
 Las mismas reglas se observarán tratándose de los jueces de los distritos judiciales en que haya juzgados especializados por materia.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 166.
 
-En caso de impedimento, recusación o excusa de alguno de Los jueces de Control, será sustituido por otro Juez de Control, atendiendo al turno que corresponda. En caso de que alguno de los jueces que integren el Tribunal de Juicio Oral, esté impedido, será sustituido por un Juez de Juicio Oral integrante de otro Tribunal, por turno; de estar impedido éste, se recurrirá al que le siga.
+En caso de impedimento, recusación o excusa de alguno de los jueces de Control, será sustituido por otro Juez de Control, atendiendo al turno que corresponda. En caso de que alguno de los jueces que integren los Tribunales de Enjuiciamiento, estén impedidos, serán sustituidos por un Juez de Enjuiciamiento integrante de otro tribunal, por turno; de estar impedido éste, se recurrirá al que le siga.
 
 ###### ARTÍCULO 167.
 
@@ -2323,7 +2363,9 @@ Los consejeros en sus ausencias temporales que excedan de quince días y hasta p
 
 Los jueces serán suplidos automáticamente en sus ausencias que no excedan de quince días por el Secretario de Acuerdos; quien actuará con testigos de asistencia; si hubiere varios, por el de mayor antigüedad; y si estuvieren impedidos, por uno de los demás secretarios en su orden; para un plazo mayor, la sustitución se hará por la persona que designe el Consejo de la Judicatura, de la lista de profesionistas que hayan resultado triunfadores en el examen por oposición.
 
-Los jueces de Control serán suplidos por otro de igual naturaleza, de acuerdo al turno; los jueces que integren el Tribunal de Juicio Oral, lo serán por otro Juez de Tribunal de Juicio Oral distinto, conforme al turno.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Los Jueces de Control serán suplidos por otro de igual naturaleza, de acuerdo al turno; los jueces que integren el Tribunal de Enjuiciamiento, lo serán por otro juez de Tribunal de Enjuiciamiento distinto, conforme al turno.
 
 Los secretarios ejecutivos del Consejo de la Judicatura serán suplidos en sus ausencias por alguno de los secretarios técnicos, o en su defecto, por la persona que designe el Consejo de la Judicatura.
 
@@ -3425,17 +3467,17 @@ Vigencia de la ley.
 
 Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
 Funcionamiento de juzgados de primera instancia.
 
-En tanto entre en vigencia el nuevo Código Procesal Penal del Estado de Durango y demás leyes relativas, de manera gradual en todo el territorio, seguirán funcionando simultáneamente los juzgados de primera instancia con jurisdicción mixta, los especializados en materia penal y los auxiliares en materia penal, hasta que se agoten los expedientes del sistema tradicional.
+En tanto entre en vigencia el nuevo Código Nacional de Procedimientos Penales, de manera gradual en todo el territorio, se seguirán aplicando los códigos procesales penales vigentes a la fecha de la comisión de los hechos que se consideren delictuosos, hasta que se agoten los expedientes del sistema tradicional.
 
 ###### ARTÍCULO TERCERO.
 
-Actuaciones fuera del territorio de los jueces orales.
-
-De acuerdo a la implementación gradual del nuevo sistema penal, previo acuerdo del Consejo de la Judicatura, los jueces orales podrán resolver asuntos fuera del territorio dentro del cual ejercen su jurisdicción.
+(DEROGADO, P.O. 6 DE MAYO DE 2014)
 
 ###### ARTÍCULO CUARTO.
 
@@ -3471,7 +3513,9 @@ De las apelaciones, revisiones forzosas y extraordinarias seguirán conociendo l
 
 División Territorial.
 
-En tanto se dicten los acuerdos generales a que se refieren los artículos 16 y 158 de esta Ley, en el Primer Distrito Judicial con residencia en Durango existirán tres juzgados auxiliares, dos civiles y uno penal, en el Tercer Distrito Judicial con residencia en Gómez Palacio existirá un Juzgado Auxiliar Mixto, y los distritos judiciales continuarán siendo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
+En tanto se dicten los acuerdos generales a que se refieren los artículos 16 y 158 de esta Ley, en el Primer Distrito Judicial con residencia en Durango existirán dos juzgados auxiliares civiles, en el Tercer Distrito Judicial con residencia en Gómez Palacio existirá un Juzgado Auxiliar Mixto, y los distritos judiciales continuarán siendo:
 
 Primer distrito: Durango como residencia; comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas;
 
@@ -3654,3 +3698,17 @@ El Tribunal Superior de Justicia y el Gobierno del Estado, en el ámbito de sus 
 SEXTO.- Las menciones que las diversas disposiciones legales hagan del Tribunal de Conciliación y Arbitraje, se entenderán referidas al Tribunal Laboral Burocrático.
 
 SÉPTIMO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor a las 00:01, del día 7 de mayo de 2014.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
