@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2012-08-30"
+last_updated: "2014-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -71,9 +71,9 @@ La Fiscalía General del Estado de Durango, es la dependencia del Ejecutivo del 
 
 El Fiscal General, es el titular de la institución del Ministerio Público del Estado y tiene las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-I. Establecer los lineamientos generales del Ministerio Público, así como las estrategias que deben orientar la investigación de hechos que se estimen delictivos y los criterios para el ejercicio de la acción penal;
+I. Establecer los lineamientos generales del Ministerio Público, así como las estrategias que deben orientar la investigación de hechos que se estimen delictivos, los criterios para el ejercicio de la acción penal y para la aplicación de los criterios de oportunidad, el quantum de la pena tratándose del procedimiento abreviado, desistimiento de la acción penal, así mismo, para solicitar el sobreseimiento de la misma, la cancelación de las ordenes de comparecencia y aprehensión.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -281,13 +281,17 @@ La Institución del Ministerio Público constituye una entidad indivisible que e
 
 Tendrán el carácter de Agentes del Ministerio Público para todos los efectos legales y ejercerán las atribuciones que en términos de la presente Ley se le confiere a esta institución, el Fiscal General, los Vicefiscales, el Coordinador General de Agentes del Ministerio Público, los Agentes del Ministerio Público, así como los titulares de las direcciones generales, direcciones, unidades especializadas y departamentos a los que expresamente les confiera ese carácter el Reglamento Interno de la Fiscalía.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 9.
 
-A la Institución del Ministerio Público en ejercicio de sus funciones le corresponde la investigación de los delitos; igualmente tiene por objeto ejercer la representación y defensa de los intereses de la sociedad, velar por la exacta observancia de las leyes de interés general, investigar y perseguir los delitos del orden común, la protección de las víctimas de los mismos y ejercitar la acción penal ante los tribunales judiciales. Las policías actuarán bajo su conducción y mando en los casos señalados por las disposiciones legales aplicables.
+A la Institución del Ministerio Público en ejercicio de sus funciones le corresponde la conducción de la investigación, coordinar bajo su mando a las Policías y a los servicios periciales, así como a sus demás auxiliares durante la misma, ordenar las diligencias pertinentes y útiles para demostrar, o no, la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión, ejercer la representación y defensa de los intereses de la sociedad, velar por la exacta observancia de las leyes de interés general, la protección de las víctimas y resolver sobre el ejercicio de la acción penal.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 10.
 
-Los procedimientos seguidos en la persecución e investigación de delitos llevados a cabo por la institución del ministerio público, tendrán por objeto el esclarecimiento de los hechos, procurar que el culpable sea sancionado y que los daños causados por el delito se reparen.
+La investigación a cargo de la Institución del Ministerio Público, tiene por objeto reunir indicios para el esclarecimiento de los hechos y en su caso, los datos de prueba para sustentar el ejercicio de la acción penal, la acusación contra el imputado, procurar que el culpable sea sancionado y que los daños causados por el delito se reparen.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -297,19 +301,25 @@ Los procedimientos seguidos en la persecución e investigación de delitos lleva
 
 El Ministerio Público llevará un registro de las detenciones realizadas por cualquier persona tratándose de flagrancia o caso urgente.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 12.
 
-A toda persona imputada se le informará, tanto en el momento de su detención por autoridad competente, como en su comparecencia ante el Ministerio Público, los hechos que se le imputan y los derechos constitucionales que le asisten.
+Tanto al imputado como a la víctima u ofendido del delito, se les informará sobre los derechos que les reconocen la Constitución Política de los Estados Unidos Mexicanos, los Tratados y las leyes que de ellos emanen.
+
+Además, a toda persona imputada se le informará tanto en el momento de su detención por autoridad competente, como en su comparecencia ante el Ministerio Público respecto de los hechos que se le imputan.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 13.
 
-Toda víctima u ofendido del delito podrá coadyuvar con el Ministerio Público y exigir se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso.
+Toda víctima u ofendido del delito, podrá coadyuvar con el Ministerio Público y solicitar se le reciban todos los datos o elementos de prueba pertinentes con los que cuente, tanto en la investigación como en el proceso, además tendrá derecho a contar con un Asesor jurídico en cualquier etapa del procedimiento, el cual elegirá libremente; en caso de no contar con uno particular, el Estado se lo proporcionará de manera gratuita y será para orientar, asesorar o intervenir legalmente en el procedimiento penal en representación de la víctima u ofendido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 14.
 
-En las funciones de investigación y persecución de los delitos los agentes de la Dirección Estatal de Investigación además de las atribuciones que señalen otros ordenamientos tendrán las siguientes:
+En las funciones de investigación y persecución de los delitos, los Agentes de la Dirección Estatal de Investigación, además de las obligaciones que establece el artículo 132 del Código Nacional de Procedimientos Penales, tendrán las siguientes atribuciones:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -405,11 +415,9 @@ XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos minister
 
 XIV. Cumplir con todas las formalidades a las que se refieren los (sic)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-XV. Las demás que le confieran las disposiciones aplicables.
+XV. Las demás que le confieran o que le señalen otros ordenamientos o disposiciones legales.
 
 Artículo 14 BIS.- (DEROGADO, P.O. 11 DE JULIO DE 2011)
 
@@ -615,9 +623,11 @@ V. Las que le encomiende el Fiscal General y las demás disposiciones aplicables
 
 ### CAPÍTULO VI. DE LOS AGENTES DEL MINISTERIO PÚBLICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
 ###### Artículo 22.
 
-Son atribuciones de los agentes del Ministerio Público:
+Además de las obligaciones que establece el artículo 131 del Código Nacional de Procedimientos Penales, los Agentes del Ministerio Público, tendrán las siguientes atribuciones:
 
 I. Dirigir las investigaciones penales que les fueren asignadas;
 
@@ -641,11 +651,17 @@ IX. Vigilar la correcta aplicación de la ley en los casos de delitos cometidos 
 
 X. Intervenir en los asuntos relativos a los menores de edad, personas con discapacidad y adultos mayores, en los casos previstos en las leyes civiles y procesales que correspondan;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-XI. Conocer de la investigación de los delitos a que se refieren el CAPÍTULO VII del TITULO DECIMO OCTAVO, denominado de los "Delitos Contra la Salud en su modalidad de Narcomenudeo" de la ley General de Salud.
+XI. Conocer de la investigación de los delitos que contempla el CAPÍTULO VII del TÍTULO DÉCIMO OCTAVO, denominado de los "Delitos Contra la Salud en su modalidad de Narcomenudeo" de la Ley General de Salud;
 
-XII. Las demás que les otorguen las leyes correspondientes
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+XII. Ordenar fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
+XIII. Las demás que les otorguen las leyes correspondientes.
 
 ###### Artículo 23.
 
@@ -1392,6 +1408,16 @@ P.O. 30 DE AGOSTO DE 2012.
 Para la creación de las Unidades Especializadas a que se refiere el segundo párrafo del artículo 6 de este Decreto, se estará a lo establezca la presupuestación de la Ley de Egresos correspondiente.
 
 ARTÍCULO PRIMERO (SIC).- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a las 00:01 horas del día 7 de mayo del año 2014.
 
 ###### ARTÍCULO SEGUNDO.
 
