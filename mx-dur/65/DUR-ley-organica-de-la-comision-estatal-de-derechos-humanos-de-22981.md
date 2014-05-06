@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-comision-estatal-de-derechos-humanos-de-2298
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-30"
-last_updated: "2011-06-23"
+last_updated: "2014-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
+LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO, PUBLICADA EN EL P.O. DE 6 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -854,3 +856,47 @@ P.O. 23 DE JUNIO DE 2011.
 PRIMERO.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley Orgánica de la Comisión Estatal de los Derechos Humanos, expedida mediante el Decreto 115, publicado en el Periódico Oficial numero 50 de fecha 23 de Junio de 2011, así como sus reformas.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento Interior de la Comisión Estatal de Derechos Humanos, será elaborado dentro de los tres meses siguientes a la entrada en vigor de este decreto ajustándolo al contenido de la presente Ley y deberá ser publicado en el Periódico Oficial del Gobierno del Estado, mientras tanto seguirá aplicándose el Reglamento Interior vigente.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los seis meses siguientes a la entrada en vigor de la presente Ley, la Comisión deberá realizar las adecuaciones y gestiones necesarias para la implementación del Órgano de Control Interno de la Comisión; plazo en el cual, se deberá agotar el procedimiento establecido en la Ley para la designación del Titular del Órgano de Control Interno.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión de Derechos Humanos dentro de los noventa días siguientes a la entrada en vigor de la presente Ley deberá realizar las adecuaciones necesarias para la creación de las Direcciones de Orientaciones Jurídicas y de Seguimiento de Recomendaciones.
+
+Los recursos humanos y materiales pertenecientes a los Departamentos de Orientaciones Jurídicas y de Seguimiento de Recomendaciones corresponderán a las Direcciones respectivas.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor de la presente Ley, los recursos humanos y materiales pertenecientes a la Dirección de Difusión, Promoción y Capacitación de los Derechos Humanos corresponderán a la Dirección de Difusión y Capacitación de Derechos Humanos
+
+###### ARTÍCULO SEXTO.
+
+En un plazo máximo de tres meses, contados a partir de la entrada en vigor de la presente Ley, la Comisión deberá expedir el Reglamento del Servicio Profesional de Derechos Humanos y realizar las adecuaciones necesarias para su aplicación.
+
+###### ARTÍCULO SÉPTIMO.
+
+El actual Presidente y Consejeros de la Comisión Estatal de Derechos Humanos prevalecerán en sus cargos hasta la terminación del cargo al que fueron electos y ejercerán las facultades y obligaciones que en esta Ley se les atribuyen.
+
+###### ARTÍCULO OCTAVO.
+
+La Comisión, a efecto de instrumentar lo establecido en el presente Decreto, contemplará en su proyecto de presupuesto anual para el ejercicio fiscal 2015, lo relacionado con el establecimiento de la Contraloría Interna y el Servicio Profesional en Derechos Humanos, a efecto de instituirlos conforme a la Ley.
+
+###### ARTÍCULO NOVENO.
+
+. En la atención de los expedientes en trámite al momento de la entrada en vigor de la presente ley, podrán aplicarse las disposiciones de la misma, siempre y cuando beneficien a los quejosos o inconformes.
+
+###### ARTÍCULO DECIMO.
+
+Las disposiciones contenidas en la presente Ley entraran en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
