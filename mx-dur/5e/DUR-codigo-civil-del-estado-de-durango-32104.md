@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2014-04-13"
+last_updated: "2014-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -197,7 +197,7 @@ I. No podrá integrarse por más de dos sustantivos;
 
 II. No se constituirá con palabras denigrantes de la personalidad;
 
-III. No se emplearán apodos; y7
+III. No se emplearán apodos; y
 
 IV. No podrá constituirse con números.
 
@@ -6155,7 +6155,7 @@ ART. 1658.- Si el testador hubiere legado alguna pensión o renta vitalicia, sin
 
 ART. 1659.- En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión corresponderá a cada uno de los herederos luego que aquella se extinga.
 
-ART. 1660.- Cuando todos los herederos sean mayores y el interés del Fisco, si lo hubiere, este cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo o terminación de la testamentaría o del intestado.
+ART. 1660.- Cuando todos los herederos sean mayores y el interés del Fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo o terminación de la testamentaría o del intestado.
 
 Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al juez, y éste, oyendo al Ministerio Público, dará us (sic) aprobación, si no se lesionan los derechos de los menores.
 
@@ -9533,6 +9533,12 @@ ART. 2768.- El derecho y la obligación que resultan de la prenda son indivisibl
 
 ART. 2769.- Extinguida la obligación principal, sea por el pago, sea por cualquiera otra cosa legal, queda extinguido el derecho de prenda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+ART. 2769 BIS.- En materia penal, cuando el Juez imponga una garantía económica y la misma se constituya mediante prenda, ésta sólo se admitirá cuando se trate de muebles no perecederos y de fácil depósito, debiendo exhibir el constituyente la factura original solicitando su ratificación o promover la evaluación pericial del objeto, para demostrar que éste posee un valor dos veces mayor al monto de la garantía económica impuesta.
+
 ART. 2770.- Respecto de los montes de piedad, que con autorización legal prestan dinero sobre prenda, se observarán las leyes y reglamentos que les conciernen, y supletoriamente las disposiciones de este título.
 
 TITULO DECIMOQUINTO.
@@ -9626,6 +9632,12 @@ ART. 2795.- Cuando el crédito hipotecario exceda de cinco mil pesos, la hipotec
 ART. 2796.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
 ART. 2797.- La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios, y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre los bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+ART. 2797 BIS.- En materia penal, cuando el Juez imponga una garantía económica y la misma se constituya a través de hipoteca, ésta se constituirá mediante acta ministerial o judicial que firmará el propietario del inmueble, demostrando que éste no tiene ningún gravamen y que su valor catastral es dos veces mayor que el monto de la garantía económica impuesta. La autoridad judicial enviará oficio al Registro Público de la Propiedad para que anote el gravamen, el cual quedará exento del pago de derechos.
 
 ### CAPITULO II.
 
@@ -10454,3 +10466,23 @@ P.O. 13 DE ABRIL DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones jurídicas que resulten contradictorias con el contenido del presente Decreto.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor, conforme a las siguientes previsiones:
+
+I. A las 00:01 horas del día 7 de mayo del año 2014, en el Primer Distrito Judicial, el cual cuenta con Durango como residencia, y comprende el Municipio del mismo nombre y el de Mezquital así como las poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras del Municipio de San Dimas.
+
+II. A las 00:01 horas del día 10 de junio del año 2014, en el Segundo y Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Segundo distrito: Ciudad Lerdo como residencia, comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito; Tercer distrito: Gómez Palacio como residencia; comprende el Municipio del mismo nombre y el de Tlahualilo.
+
+III. En el resto de los Distrititos Judiciales, conforme lo establezca la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, que al efecto emita este Poder Legislativo.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que contravengan a las contenidas en el presente Decreto.
