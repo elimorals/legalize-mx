@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-de-defensoria-publica-del-estado-de-68129"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-08"
-last_updated: "2009-12-10"
+last_updated: "2014-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO
 
-LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO
+LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO CUARTO DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL DECRETO No. 261 DEL 18 DE FEBRERO DE 2009 Y LAS REFORMAS POSTERIORES A LA CITADA LEY HAN ENTRADO EN VIGOR.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN I DEL ARTÍCULO CUARTO DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL DECRETO No. 261 DEL 18 DE FEBRERO DE 2009 Y LAS REFORMAS POSTERIORES A LA CITADA LEY HAN ENTRADO EN VIGOR.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 8 de marzo de 2009.
 
@@ -45,9 +45,11 @@ LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+
 ARTÍCULO 1
 
-La presente Ley tiene por objeto regular la prestación del servicio de Defensoría Pública en asuntos del fuero común, a fin de garantizar el derecho a la defensa en materia penal y en la protección del interés del menor infractor; así como el acceso a la justicia mediante la orientación, asesoría, representación jurídica en asuntos del orden familiar, civil y laboral, en los términos que la misma establece.
+La presente Ley tiene por objeto regular la prestación del servicio de Defensoría Pública en asuntos del fuero común, a fin de garantizar el derecho a la defensa en materia penal y en la protección del interés del menor infractor; así como el acceso a la justicia mediante la orientación, asesoría, representación jurídica en asuntos del orden familiar, civil, mercantil, laboral burocrático, fiscal y administrativo, en los términos que la misma establece.
 
 Sus disposiciones son de orden público y de aplicación en todo el territorio del Estado de Durango.
 
@@ -85,11 +87,15 @@ Los servicios de Defensoría Pública se prestarán en los Distritos Judiciales 
 
 I. Defensores Públicos en asuntos del orden penal del fuero común y de protección del interés de los menores infractores; y
 
-II. Asesores jurídicos en asuntos del orden familiar, civil, mercantil y laboral.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+II. Asesores jurídicos en asuntos del orden familiar, civil, mercantil, laboral burocrático, fiscal y administrativo.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ARTÍCULO 6
 
-El Servicio Civil de Carrera para los Defensores Públicos y Asesores Jurídicos, comprende la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones; el mismo, se regirá por esta Ley, por su Reglamento y por la Ley Orgánica del Poder Judicial del Estado de Durango.
+El Servicio Civil de Carrera para los Defensores Públicos y Asesores Jurídicos, comprende la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones; el mismo, se regirá por esta Ley, por su Reglamento y por la Ley Orgánica.
 
 ARTÍCULO 7
 
@@ -127,9 +133,11 @@ Las personas que presten sus servicios en el Instituto, serán considerados serv
 
 Las relaciones laborales del personal que trabaje para el Instituto, se regirán por las disposiciones aplicables; además, deberán estar incorporados a las prestaciones de seguridad y servicios sociales correspondientes.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ARTÍCULO 9
 
-El sistema de ausencias, permisos y licencias de los servidores públicos del Instituto, se regulará conforme a lo dispuesto en la Ley Orgánica del Poder Judicial y en las demás disposiciones legales aplicables.
+El sistema de ausencias, permisos y licencias de los servidores públicos del Instituto, se regulará conforme a lo dispuesto en la Ley Orgánica y en las demás disposiciones legales aplicables.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN GENERAL
 
@@ -145,13 +153,17 @@ ARTÍCULO 12
 
 Para ser Director General, se requiere:
 
-I. Ser ciudadano duranguense, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener residencia mínima de cinco años en el Estado, inmediatos anteriores a la fecha de su designación;
 
 III. Tener como mínimo veintiocho años de edad cumplidos, al día de su designación;
 
-IV. Tener título de Licenciado en Derecho y Cédula Profesional expedidos por autoridad o institución legalmente facultada para ello y debidamente registrados;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+IV. Tener título de Licenciado en Derecho o su equivalente y Cédula Profesional expedidos por autoridad o institución legalmente facultada para ello y debidamente registrados;
 
 V. Contar con experiencia mínima de cinco años en el ejercicio de la abogacía, especialmente en las materias afines a sus funciones;
 
@@ -160,6 +172,10 @@ VI. Gozar de buena reputación y prestigio profesional;
 VII. No haber sido condenado por delito doloso que amerite pena privativa de libertad; y
 
 VIII. No estar inhabilitado para el desempeño de funciones públicas, ni estar sujeto a proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+
+El Consejo de la Judicatura procurará preferir, en igualdad de circunstancias, a quien haya desempeñado el cargo de defensor público o similar.
 
 ARTÍCULO 13
 
@@ -203,15 +219,33 @@ ARTÍCULO 15
 
 Para ser Subdirector Operativo del Instituto, se requieren los siguientes requisitos:
 
-I. Ser ciudadano mexicano, de preferencia duranguense, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Ser licenciado en derecho o su equivalente, con título registrado en la Dirección de Profesiones y en el Tribunal Superior de Justicia, con antigüedad mínima en la titulación de tres años;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de la libertad de más de un año de prisión, excepto en el caso de delito por culpa; pero si se tratare de robo, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo cualquiera que sea la pena, y
+II. Tener residencia mínima de cinco años en el Estado, inmediatos anteriores a la fecha de su designación;
 
-IV. Cumplir con los demás requisitos que señalen las leyes.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+III. Tener como mínimo veinticinco años de edad cumplidos al día de su nombramiento;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+IV. Tener título de Licenciado en Derecho o su equivalente, y Cédula Profesional expedidos por autoridad o institución legalmente facultada para ello y debidamente registrados, y con una antigüedad mínima en la titulación de tres años;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
+V. Gozar de buena reputación y prestigio profesional;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
+VI. No haber sido condenado por delito doloso que amerite pena privativa de libertad; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
+VII. No estar inhabilitado para el desempeño de funciones públicas, ni estar sujeto a proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto.
 
 ARTÍCULO 16
 
@@ -243,9 +277,13 @@ I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y político
 
 II. Tener como mínimo veinticinco años de edad cumplidos al día de su nombramiento;
 
-III. Tener Título de Licenciado en Derecho o su equivalente y Cédula Profesional, expedidos por autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
-IV. Contar con experiencia mínima de tres años de ejercicio de la profesión;
+III. Tener título de Licenciado en Derecho o su equivalente, y Cédula Profesional expedidos por autoridad o institución legalmente facultada para ello y debidamente registrados;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+IV. Contar con experiencia mínima de tres años en el ejercicio de la abogacía, especialmente en las materias afines a sus funciones;
 
 V. Gozar de buena reputación y prestigio profesional;
 
@@ -399,7 +437,9 @@ ARTÍCULO 34
 
 En caso de retiro del Servicio de Asesoría Jurídica, el Asesor correspondiente deberá rendir un informe pormenorizado al Área de Visitaduría correspondiente, en el que se acredite la causa que justifique el retiro del servicio. Se notificará al interesado el informe, concediéndole un plazo de tres días hábiles para que, por escrito, aporte los elementos que pudiesen, a su juicio, desvirtuar el informe.
 
-Un (sic) vez presentado el escrito por el interesado, o bien, transcurrido el plazo aludido en el párrafo anterior, el Visitador de Asesoría Jurídica, contará con un plazo de tres días hábiles para que resuelva lo conducente, haciéndolo del conocimiento del interesado y del Asesor Jurídico.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
+Una vez presentado el escrito por el interesado, o bien, transcurrido el plazo aludido en el párrafo anterior, el Visitador de Asesoría Jurídica, contará con un plazo de tres días hábiles para que resuelva lo conducente, haciéndolo del conocimiento del interesado y del Asesor Jurídico.
 
 #### SECCIÓN III. DEL INGRESO, EXCUSAS, OBLIGACIONES Y PROHIBICIONES DE LOS DEFENSORES PÚBLICOS Y ASESORES JURÍDICOS
 
@@ -449,7 +489,9 @@ II. Representar y ejercer ante las autoridades competentes los intereses y los d
 
 III. Brindar la información oportuna y completa a las personas representadas, relativa al procedimiento correspondiente, dejando constancia de ello;
 
-IV. Vigilar el respeto a las garantías individuales de sus representados y formular las demandas de amparo respectivas, cuando aquéllas se estimen violadas;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+IV. Vigilar el respeto a los Derechos Humanos de sus representados y formular las demandas de amparo respectivas, cuando aquéllas se estimen violadas;
 
 V. Llevar un registro y formar expedientes de control de todos los procedimientos o asuntos en que intervengan, desde que se les turnen hasta que termine su intervención;
 
@@ -459,7 +501,9 @@ VII. Atender con cortesía a los usuarios y prestar sus servicios con diligencia
 
 VIII. Asistir puntualmente a las reuniones convocadas por su superior jerárquico;
 
-IX. Observar respeto y subordinación legítimas respecto a sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+IX. Observar respeto y ejercicio del buen despacho respecto a sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten, en el ejercicio de sus atribuciones legales;
 
 X. Actualizarse constantemente y participar en los cursos respectivos que al efecto realicen el Instituto y el Consejo de la Judicatura; y
 
@@ -535,13 +579,17 @@ Las funciones que realice el prestador de servicio social, tienen el carácter d
 
 #### SECCIÓN I. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA DE LA DEFENSORÍA PÚBLICA
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ARTÍCULO 47
 
-El Sistema del Servicio Civil y Profesional de Carrera será especializado en la materia y garantizará la igualdad de oportunidades en el desempeño de sus funciones y en la remuneración, capacitación y garantías de seguridad social para el servidor público integrante del Instituto, en los términos de la Ley Orgánica y legislación correspondiente.
+El Sistema del Servicio Civil y Profesional de Carrera será especializado en la materia y garantizará la igualdad de oportunidades en el desempeño de sus funciones y en la remuneración, capacitación y derechos de seguridad social para el servidor público integrante del Instituto, en los términos de la Ley Orgánica y legislación correspondiente.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ARTÍCULO 48
 
-Los procedimientos para la selección, ingreso, formación, capacitación, actualización, especialización, ascenso, adscripción, rotación, reingreso, estímulos, reconocimientos y retiro del personal operativo de la Defensoría Pública, se establecerán a partir de las disposiciones generales de esta Ley, su Reglamento y de conformidad con la Ley Orgánica del Poder Judicial.
+Los procedimientos para la selección, ingreso, formación, capacitación, actualización, especialización, ascenso, adscripción, rotación, reingreso, estímulos, reconocimientos y retiro del personal operativo de la Defensoría Pública, se establecerán a partir de las disposiciones generales de esta Ley, su Reglamento y de conformidad con la Ley Orgánica.
 
 #### SECCIÓN II. CONSEJO TÉCNICO DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
@@ -623,7 +671,9 @@ IV. Ejecutar hechos o incurrir en omisiones, que tengan como consecuencia extrav
 
 V. Hacerse valer de cualquier medio para que se les revoque el nombramiento o abandonar la defensa sin causa justificada;
 
-VI. Cuando por negligencia se generen violaciones al procedimiento que afecten las garantías de libertad y seguridad respectivas;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+
+VI. Cuando por negligencia se generen violaciones al procedimiento que afecten los derechos de libertad y seguridad respectivas;
 
 VII. Cuando haya sido corregido disciplinariamente por más de tres veces consecutivas, con relación al ejercicio de su función; y
 
@@ -631,13 +681,15 @@ VIII. Dejar de cumplir cualquiera de las demás obligaciones que les estén señ
 
 #### SECCIÓN ÚNICA. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+
 ARTÍCULO 54
 
-Los Defensores Públicos y Asesores Jurídicos serán sancionados por el Consejo de la Judicatura en los términos de la Ley Orgánica del Poder Judicial.
+Los Defensores Públicos y Asesores Jurídicos serán sancionados por el Consejo de la Judicatura en los términos de la Ley Orgánica y demás ordenamientos legales aplicables.
 
 T R A N S I T O R I O S
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -647,7 +699,7 @@ La presente ley entrará en vigor en el ámbito espacial y temporal de validez e
 
 Hasta que se dé cumplimiento a lo dispuesto en el párrafo anterior, se abrogará la Ley del Instituto de Defensoría Pública del Estado, contenida en el Decreto No. 403, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 42, de fecha 27 de mayo del 2001.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -655,7 +707,7 @@ Hasta que se dé cumplimiento a lo dispuesto en el párrafo anterior, se abrogar
 
 La presente Ley, se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -673,7 +725,7 @@ Para efectos del cumplimiento de esta ley, se entenderá que la Unidad Administr
 
 En la readscripción de los empleados y trabajadores del Instituto de Defensoría Pública, del Poder Ejecutivo al Poder Judicial, se respetarán sus derechos adquiridos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -681,7 +733,7 @@ En la readscripción de los empleados y trabajadores del Instituto de Defensorí
 
 Con motivo de la entrada en vigor del Nuevo Sistema de Justicia Penal a que alude el artículo primero transitorio del Código Procesal Penal del Estado de Durango, aprobado mediante decreto 232 en fecha 4 de diciembre de 2008 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 Extraordinario, en fecha 5 de diciembre de 2008, y de conformidad con las previsiones presupuestales respectivas se seleccionará, capacitarán y designarán a los servidores públicos que se requieran para la implementación de dicha reforma. Asimismo, se designarán a los profesionistas de los servicios auxiliares que se requieran.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -725,11 +777,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE JUNIO DE 2009.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -737,7 +789,7 @@ P.O. 21 DE JUNIO DE 2009.
 
 El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -747,7 +799,7 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 419, POR EL QUE SE REFORMAN LOS TRANSITORIOS DE LOS DECRETOS No. 261 Y 281 QUE MODIFICAN LA LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO.
+DECRETO No. 419, POR EL QUE SE REFORMAN LOS TRANSITORIOS DE LOS DECRETOS No. 261 Y 281 QUE MODIFICAN LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO.
 
 Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -757,7 +809,7 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan al present
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
 
@@ -765,7 +817,7 @@ SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorab
 
 TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
 
-DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTÍCULOS DE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
 
@@ -794,3 +846,13 @@ Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Int
 2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
 
 3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
+
+P.O. 6 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a las 00:01 horas del día 7 de mayo del año 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan a las contenidas en el presente Decreto.
