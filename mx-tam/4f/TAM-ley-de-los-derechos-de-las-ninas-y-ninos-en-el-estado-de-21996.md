@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-estado-de-21996"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2013-09-24"
+last_updated: "2014-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio del 2001.
 
@@ -55,7 +55,9 @@ I.- Garantizar y promover el ejercicio de los derechos de las niñas y niños;
 
 II.- Establecer los principios que orienten las políticas públicas a favor de las niñas y niños;
 
-III.- Establecer las facultades y obligaciones de las autoridades competentes para su cumplimiento; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+III.- Establecer las facultades y obligaciones de las autoridades competentes para su cumplimiento;
 
 IV.- Establecer las bases para la instrumentación y evaluación de las políticas públicas y de las acciones de defensa y representación jurídica, así como las de asistencia, provisión, prevención, protección y participación tendientes a la promoción y vigencia de los derechos de las niñas y niños. La finalidad de estas acciones será:
 
@@ -64,6 +66,10 @@ a).- Impulsar y fortalecer la atención integral y la generación de oportunidad
 b).- Establecer los mecanismos que faciliten el ejercicio de los derechos de las niñas y niños; y
 
 c).- Promover la cultura de respeto hacia las niñas y niños en el ámbito personal, familiar y social.
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2014)</small>
+
+V.- Garantizar el cumplimiento de los derechos contenidos en la Convención sobre los Derechos del Niño.
 
 ###### ARTICULO 3º.
 
@@ -91,7 +97,9 @@ X.- Atención y Protección Integral Especial.- El conjunto de acciones compensa
 
 XI.- Ayuntamientos.- Los órganos de representación político-administrativa de los Municipios;
 
-XII.- Consejo.- El Consejo Promotor de los Derechos de las Niñas y Niños de Tamaulipas;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+XII. Comité.- Comité Estatal de Seguimiento y Vigilancia de la Aplicación de la Convención sobre los Derechos del Niño;
 
 XIII.- Hogar Provisional.- El lugar en el que se proporciona alojamiento temporal, cuidados y atenciones a una niña o niño en situación de desamparo con el objeto de brindarle un ambiente propicio para su atención integral;
 
@@ -105,7 +113,9 @@ XVII.- Maltrato Sexual.- Aquel acto u omisión que inflige burla y causa la humi
 
 XVIII.- Negligencia.- La omisión de cuidados y supervisión esenciales para la vida y el adecuado desarrollo psicológico y social;
 
-XIX.- Niña o Niño.- Todo ser humano menor de 16 años de edad;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+XIX. Niña o Niño.- Todo ser humano menor de 18 años de edad;
 
 XX.- Niña o Niño con Discapacidad.- El que padece, temporal o permanentemente, una disminución en sus facultades físicas, mentales o sensoriales que les impiden el desarrollo normal de sus actividades;
 
@@ -245,9 +255,11 @@ b).- Los demás que les reconozcan otros ordenamientos legales.
 
 Cuando se suscite un conflicto respecto de los derechos consignados en esta Ley, la autoridad aplicará los principios contemplados en ella, allegándose de los medios probatorios que acrediten la necesidad de ponderar la supremacía de un derecho respecto del otro, aplicando en forma armónica las normas concurrentes al caso concreto.
 
-###### ARTICULO 7º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2014)</small>
 
-Las autoridades competentes están obligadas a otorgar y garantizar, de la mejor forma posible, los servicios de defensa y representación jurídica para preservar los intereses de las niñas y niños, mismos que deberán ser gratuitos, a través del Sistema DIF Tamaulipas, la Defensoría de Oficio, la Procuraduría de la Defensa del Menor, la Mujer y la Familia y las demás dependencias o entidades, estatales o municipales, creadas para este fin.
+###### ARTICULO 7°.
+
+Las autoridades competentes están obligadas a otorgar y garantizar, de la mejor forma posible, los servicios de defensa y representación jurídica para preservar los intereses de las niñas y niños, mismos que deberán ser gratuitos, a través del Sistema DIF Tamaulipas, la Defensoría de Oficio, la Procuraduría de la Defensa del Menor y la Familia y las demás dependencias o entidades, estatales o municipales, creadas para este fin.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -291,11 +303,11 @@ Es obligación de los padres, miembros de la familia y responsables del cuidado 
 
 Es obligación de los padres, miembros de la familia y responsables del cuidado de las niñas y niños, el que éstos reciban la aplicación de las vacunas que comprenden el esquema básico, acudiendo para ello a las clínicas, centros de salud, o centros temporales de vacunación.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 12.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte en coordinación con el Sistema DIF Tamaulipas, establecerá los mecanismos conforme a los cuales las autoridades y las instituciones apoyarán y asistirán, en el cumplimiento de sus responsabilidades, a los padres, miembros de la familia y las personas encargadas del cuidado de las niñas y niños.
+La Secretaría de Desarrollo Social, en coordinación con el Sistema DIF Tamaulipas, establecerá los mecanismos conforme a los cuales las autoridades y las instituciones apoyarán y asistirán, en el cumplimiento de sus responsabilidades, a los padres, miembros de la familia y las personas encargadas del cuidado de las niñas y niños.
 
 ###### ARTICULO 13.
 
@@ -311,7 +323,9 @@ El Sistema DIF Tamaulipas establecerá los mecanismos para lograr que las niñas
 
 I.- La participación de hogares provisionales, como una de las opciones temporales, para su cuidado y protección, cuando se encuentren privados de su familia de origen; y
 
-II.- La adopción de conformidad con el Código Civil.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+II.- La adopción de conformidad con la Ley de Adopciones para el Estado de Tamaulipas.
 
 ###### ARTICULO 16.
 
@@ -341,21 +355,23 @@ VII.- Fomentar y promocionar la estabilidad y el bienestar familiar;
 
 VIII.- Implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos; así como programas de educación vial y acciones preventivas con la participación de la comunidad;
 
-IX.- Presidir el Consejo;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+IX.- Presidir el Comité;
 
 X.- Proveer lo necesario para el cumplimiento de la Ley; y
 
 XI.- Las demás que le confieran otros ordenamientos jurídicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2014)</small>
 
-### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL, CULTURA Y DEPORTE
+### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 18.
 
-Corresponde a la Secretaría de Desarrollo Social, Cultura y Deporte, en relación con las niñas y niños:
+Corresponde a la Secretaría de Desarrollo Social en relación con las niñas y niños:
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -379,7 +395,7 @@ VIII.- Establecer, fomentar, coordinar y ejecutar programas dirigidos al fortale
 
 IX.- Promover los servicios integrales en las diferentes unidades con las que cuenta la Administración Pública, así como optimizar el funcionamiento de los ya existentes;
 
-X.- Integrar el Consejo y actuar como Secretaría Técnica del mismo;
+X.- (DEROGADA, P.O. 7 DE MAYO DE 2014)
 
 XI.- Promover y garantizar el respeto a la dignidad humana, los derechos fundamentales y el desarrollo pleno de sus capacidades individuales;
 
@@ -395,11 +411,11 @@ XVI.- Elaborar, dentro del ámbito de sus atribuciones, lineamientos generales p
 
 XVII.- Las demás que le confieran otros ordenamientos jurídicos.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 19.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte, la Secretaría de Salud y el Sistema DIF Tamaulipas se coordinarán a fin promover y vigilar el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que la que reciban sea de calidad para su desarrollo integral.
+La Secretaría de Desarrollo Social, la Secretaría de Salud y el Sistema DIF Tamaulipas se coordinarán a fin promover (sic) y vigilar el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que la que reciban sea de calidad para su desarrollo integral.
 
 ### CAPITULO III. DE LA SECRETARIA DE SALUD
 
@@ -463,7 +479,9 @@ III.- Formular, coordinar e instrumentar los programas y acciones de defensa, as
 
 IV.- Patrocinar y representar a las niñas y niños ante los órganos jurisdiccionales en los trámites o procedimientos relacionados con éstos;
 
-V.- Realizar acciones de prevención y protección a niñas y niños maltratados, en desamparo o con problemas sociales, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas para su cuidado, formación e instrucción, así como para garantizar, en todo momento, su situación jurídica conforme a lo previsto en el Código Civil;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+V.- Realizar acciones de prevención y protección a niñas y niños maltratados, en desamparo o con problemas sociales, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas para su cuidado, formación e instrucción, así como para garantizar, en todo momento, su situación jurídica conforme a lo previsto en la Ley de Adopciones para el Estado de Tamaulipas;
 
 VI.- Coadyuvar con la Procuraduría General de Justicia en la atención y tratamiento de las niñas y niños víctimas del delito;
 
@@ -471,11 +489,15 @@ VII.- Impulsar y promover el reconocimiento y ejercicio de los derechos de las n
 
 VIII.- Ejecutar acciones y programas de protección especial para las niñas y niños en circunstancias de desventaja social;
 
-IX.- Promover, a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, mediante la vía conciliatoria, la solución a la problemática familiar cuando no se trate de delitos tipificados por el Código Penal o infracciones previstas en la Ley de Prevención, Atención y Asistencia de la Violencia Intrafamiliar;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+IX.- Promover, a través de la Procuraduría de la Defensa del Menor y la Familia, mediante la vía conciliatoria, la solución a la problemática familiar cuando no se trate de delitos tipificados por el Código Penal para el Estado de Tamaulipas o infracciones previstas en la Ley de Prevención de la Violencia Familiar del Estado de Tamaulipas;
 
 X.- Recibir quejas, denuncias e informes con relación a quienes ejerzan la patria potestad, la tutela, guarda y custodia o de quienes los tengan bajo su cuidado, sobre la violación de los derechos de las niñas o niños, haciéndolo del conocimiento de las autoridades competentes y, de ser procedente, ejercer las acciones legales correspondientes;
 
-XI.- Denunciar, a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, ante las autoridades competentes, cualquier caso de maltrato, lesiones, abuso físico, psíquico o sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acción que perjudique a la niña o niño;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+XI.- Denunciar, a través de la Procuraduría de la Defensa del Menor y la Familia, ante las autoridades competentes, cualquier caso de maltrato, lesiones, abuso físico, psíquico o sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acción que perjudique a la niña o niño;
 
 XII.- Poner a disposición del Ministerio Público o de cualquier órgano jurisdiccional los elementos a su alcance para la protección de las niñas y niños, y proporcionar a aquéllos la información que les requieran sobre el particular;
 
@@ -495,9 +517,17 @@ XIX.- Promover la realización de campañas de filiación, en coordinación con 
 
 XX.- Comparecer ante las autoridades o instituciones competentes cuando sea requerida o se le designe para ejercer la guarda y custodia provisional y, en su caso, la tutela de las niñas y niños en los términos de las disposiciones legales aplicables;
 
-XXI.- Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
 
-XXII.- Las demás que le confieran otros ordenamientos jurídicos.
+XXI.- Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+XXII.- Coordinar el funcionamiento del Comité; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2014)</small>
+
+XXIII.- Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPITULO V. DE LOS AYUNTAMIENTOS
 
@@ -511,93 +541,129 @@ II.- Impulsar, dentro de su demarcación, las actividades de defensa y represent
 
 III.- Promover la concertación entre los sectores público, privado y social para mejorar su calidad de vida en el ámbito municipal.
 
-### CAPITULO VI. DEL CONSEJO PROMOTOR DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL ESTADO DE TAMAULIPAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2014)</small>
+
+### CAPITULO VI. DEL COMITÉ ESTATAL DE SEGUIMIENTO Y VIGILANCIA DE LA APLICACIÓN DE LA CONVENCIÓN SOBRE LOS DERECHOS DEL NIÑO
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 25.
 
-Se crea el Consejo Promotor de los Derechos de las Niñas y Niños en Tamaulipas, como órgano honorario, de asesoría, apoyo y consulta, así como de concertación entre los sectores público, social y privado, teniendo por objeto promover, proponer y acordar acciones que favorezcan al pleno cumplimiento de sus derechos.
+Se crea el Comité Estatal de Seguimiento y Vigilancia de la Aplicación de la Convención Sobre los Derechos del Niño, como órgano honorario, de vigilancia, opinión, colaboración, consulta, promoción y asesoría del Gobierno del Estado, teniendo como objetivo general el seguimiento y vigilancia del cumplimiento de la Convención de los Derechos del Niño, así como la concertación entre los sectores público y privado para el cumplimiento de lo señalado en esta ley.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 26.
 
-El Consejo se integrará con 11 miembros titulares que serán:
+El Comité se integrará de la siguiente manera:
 
-I.- El Gobernador del Estado, quien lo presidirá;
+I.- Un Presidente, que será el Gobernador Constitucional del Estado;
 
-II.- La titular del Sistema DIF Tamaulipas, quien fungirá como vicepresidente;
+II.- Un Vicepresidente, que será la Presidenta del Patronato del Sistema para el Desarrollo Integral de la Familia Estatal;
 
-III.- El titular de la Secretaría General de Gobierno, como presidente suplente;
+III.- Un Coordinador General, que será el Director General del Sistema para el Desarrollo Integral de la Familia Estatal;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+IV.- Un Secretario Técnico, que será el Titular del Programa de Derechos de la Niñez del Sistema para el Desarrollo Integral de la Familia Estatal;
 
-IV.- El titular de la Secretaría de Desarrollo Social, Cultura y Deporte, con el carácter de secretario técnico;
+V.- Dos Vocales "A", que serán responsables operativos de áreas diversas del Sistema para el Desarrollo Integral de la Familia Estatal; y
 
-V.- El titular de la Secretaría de Salud, como vocal;
+VI.- Vocales "B" que serán:
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+a) Los titulares de ocho secretarías de estado que designe el Gobernador del Estado;
 
-VI.- El titular de la Secretaría de Educación;
+b) El titular de dos Organismos Autónomos que designe el Gobernador del Estado; y
 
-VII.- El Procurador General de Justicia, como vocal;
+c) 10 Instituciones de la sociedad civil organizada, de reconocida trayectoria que se hayan destacado por su trabajo, estudio o compromiso en favor de la niñez tamaulipeca.
 
-VIII.- El Presidente del Supremo Tribunal de Justicia, como vocal; y
+El Comité funcionará de manera permanente y la Asamblea podrá sesionar de manera ordinaria y extraordinaria. La sesión ordinaria se podrá realizar dentro de los primeros cuatro meses del año que corresponda. Las extraordinarias se realizarán cada vez que así lo amerite la importancia o urgencia del caso.
 
-IX.- Tres Diputados del Congreso del Estado, integrantes de las Comisiones relacionadas con el tema de las niñas y niños.
-
-Los cargos del Consejo serán honoríficos, y sus titulares podrán nombrar un representante que los supla; sus determinaciones se tomarán por mayoría de votos y, en caso de empate, el presidente contará con voto de calidad.
-
-De igual forma, el Consejo podrá invitar a sus reuniones a un representante responsable del sector educativo, dos representantes de instituciones académicas, dos representantes del sector empresarial, dos representantes de los medios de comunicación, cuatro representantes de las organizaciones sociales, así como a cualquier persona física o moral, pública o privada, de reconocida trayectoria que se hayan destacado por su trabajo, estudio o compromiso, en materia de niñas y niños.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 27.
 
-El Consejo tendrá las siguientes facultades:
+El Comité tendrá las siguientes facultades:
 
-I.- Proponer programas en beneficio de las niñas y niños;
+I.- Establecer estrategias interinstitucionales que permitan elaborar y mantener actualizado el análisis de la situación de la niñez en el Estado;
 
-II.- Proponer un programa de concertación de acciones entre las distintas dependencias de la Administración Pública, que fije lineamientos generales para unificar los criterios en el ejercicio de los recursos financieros destinados a los programas de atención a las niñas y niños;
+II.- Procurar el cumplimiento de los principios de la Convención sobre los Derechos del Niño;
 
-III.- Fomentar y fortalecer la colaboración, concertación, coordinación y participación corresponsable de instituciones públicas y privadas en la realización de acciones para garantizar el ejercicio de los derechos de las niñas y niños;
+III.- Promover una práctica cotidiana de derechos entre las niñas y niños;
 
-IV.- Proponer los mecanismos e instrumentos tendientes a la obtención de aportaciones y donaciones que realicen las personas físicas y morales, públicas o privadas, de carácter local, nacional o internacional, con el propósito de coadyuvar al cumplimiento, respeto y ejecución de los planes y programas dirigidos en beneficio de las niñas y niños;
+IV.- Difundir los derechos y la problemática que vive la niñez en el Estado;
 
-V.- Evaluar los logros y avances de los programas de la Administración Pública en la materia y proponer medidas para su optimización;
+V.- Diseñar y promover modelos de atención y prevención, dirigidos a la niñez tamaulipeca;
 
-VI.- Analizar y proponer a las instancias competentes programas de atención para las niñas y niños; y
+VI.- Incluir los principios de la Convención sobre los Derechos del Niño en la toma de decisiones y en la formulación e instrumentación de las políticas, programas y presupuestos que tengan impacto en las acciones a favor de la niñez;
 
-VII.- Contribuir a la difusión de los principios, derechos y deberes de las niñas y niños.
+VII.- Promover a nivel municipal la formación de estructuras similares al Comité Estatal de Seguimiento y Vigilancia de la Aplicación de la Convención sobre los Derechos del Niño;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+VIII.- Apoyar en el diseño y ejecución de los programas a favor de la niñez a nivel estatal y municipal;
+
+IX.- Promover las reformas legislativas a fin de hacer compatibles las leyes, normas y reglamentos estatales con los principios de la Convención sobre los Derechos del Niño y la Constitución Política de los Estados Unidos Mexicanos;
+
+X.- Enviar informes al Sistema Nacional de Seguimiento y Vigilancia de la Aplicación de la Convención sobre los Derechos del Niño;
+
+XI.- Establecer la integración de los Subcomités; y
+
+XII.- Los demás que tengan por objeto garantizar la aplicación de la Convención sobre los Derechos del Niño.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 28.
 
-La Secretaría Técnica del Consejo, a cargo del titular de la Secretaría de Desarrollo Social, Cultura y Deporte, tendrá las facultades siguientes:
+La Secretaría Técnica del Comité tendrá las facultades siguientes:
 
-I.- Convocar e invitar a las reuniones del Consejo;
+I.- Suplir al titular de la Coordinación General cuando por causa de fuerza mayor así requiera;
 
-II.- Coordinar los trabajos del Consejo;
+II.- Organizar y coordinar las sesiones de la Asamblea, así como la emisión de las convocatorias;
 
-III.- Dar seguimiento a los acuerdos adoptados por el Consejo; y
+III.- Integrar el orden del día de las sesiones de la Asamblea y remitirla al Coordinador General para su revisión;
 
-IV.- Las demás inherentes a su cargo.
+IV.- Integrar la carpeta o material que dé sustento a los asuntos a tratar en las sesiones de la Asamblea;
+
+V.- Verificar la participación e integración de quórum de las sesiones de la Asamblea;
+
+VI.- Elaborar el acta respectiva de cada sesión;
+
+VII.- Resguardar las actas y documentación emanada de las sesiones;
+
+VIII.- Integrar un directorio de instituciones y organismos públicos y privados que realicen actividades a favor de la niñez;
+
+IX.- Elaborar los instrumentos para la sistematización, organización y evaluación de las acciones del Comité;
+
+X.- Elaborar el Programa de Trabajo Anual del Comité, para someterlo a la aprobación de la Asamblea;
+
+XI.- Presentar a la Asamblea los resultados del funcionamiento de los Subcomités;
+
+XII.- Elaborar y recopilar los documentos e informes necesarios derivados de la operación del Comité;
+
+XIII.- Asesorar técnicamente a los Subcomités;
+
+XIV.- Mantener comunicación permanente con los vocales "A" y "B", participantes en los Subcomités;
+
+XV.- Motivar constantemente la participación de los integrantes del Comité, a partir de su sensibilización en los temas de protección a la niñez; y
+
+XVI.- Las demás que le sean delegadas por el Coordinador General.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 29.
 
-En cada uno de los Municipios se establecerá un Consejo encabezado por el Presidente Municipal e integrado por la titular del Sistema DIF Municipal, con el carácter de vicepresidente, el titular del área de Desarrollo Social, con el carácter de secretario técnico, y como vocales, el titular del área Jurídica y de Gobierno, y dos regidores designados por el Cabildo.
+En cada uno de los Municipios se establecerá un Comité encabezado por el Presidente Municipal y con estructura similar a la del Comité Estatal.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+Los cargos del Comité serán honoríficos, y sus titulares podrán nombrar un representante que los supla; sus determinaciones se tomarán por mayoría de votos y, en caso de empate, el presidente contará con voto de calidad.
 
-El Presidente del Consejo podrá invitar a participar en el Consejo Municipal a representantes de la Secretaría de Salud y de la Secretaría de Educación, así como a representantes de organizaciones sociales y privadas dedicadas a la atención de las niñas y niños, asociaciones de padres de familia y especialistas en el tema.
-
-Los cargos del Consejo serán honoríficos, y sus titulares podrán nombrar un representante que los supla; sus determinaciones se tomarán por mayoría de votos y, en caso de empate, el presidente contará con voto de calidad.
-
-Las funciones de dichos Consejos se ajustarán a lo preceptuado en el artículo 27, con excepción de lo previsto en su fracción II.
+Las funciones de dichos Comités se ajustarán a lo preceptuado en el artículo 27 en lo que resulte aplicable al ámbito municipal, así como en sus lineamientos.
 
 ## TITULO QUINTO. DE LAS ACCIONES DE GOBIERNO
 
 ### CAPITULO I. DE LA EDUCACION Y CULTURA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 30.
 
-En materia de educación y cultura, las niñas y niños tienen el derecho inalienable a las mismas oportunidades de acceso y permanencia a la educación obligatoria, el derecho a ser respetado por sus profesores, y el derecho a la educación básica de manera gratuita. Lo anterior, con el fin de lograr:
+En materia de educación y cultura, las niñas y niños tienen el derecho inalienable a las mismas oportunidades de acceso y permanencia a la educación obligatoria, el derecho a ser respetado por sus profesores, y el derecho a la educación básica y media superior de manera gratuita. Lo anterior, con el fin de lograr:
 
 I.- El estímulo de actividades de participación, colaboración, tolerancia, solidaridad y respeto a todas las actividades que realicen;
 
@@ -617,11 +683,11 @@ VIII.- Promover la democracia, no sólo como régimen jurídico o como forma de 
 
 IX.- Fomentar la deontología de las niñas y niños, entendida ésta como la suma de los deberes que cada niña y niño tienen consigo mismos y con los demás.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, como dependencia de la Administración Pública, promoverá, entre otras acciones, las siguientes:
+La Secretaría de Desarrollo Urbano y Medio Ambiente, como dependencia de la Administración Pública, promoverá, entre otras acciones, las siguientes:
 
 I.- El respeto y conocimiento de la naturaleza por parte de las niñas y niños, informándoles sobre la importancia de un medio ambiente saludable y capacitándoles para su aprovechamiento positivo; y
 
@@ -655,11 +721,11 @@ La Secretaría de Educación, como dependencia de la Administración Pública, p
 
 La Secretaría de Educación, en coordinación con dependencias, órganos desconcentrados y entidades competentes, establecerá programas alternativos de atención y educación extraescolar a través de actividades lúdicas, culturales y científicas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 36.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte, en coordinación con las dependencias y entidades competentes, fomentará:
+El Instituto Tamaulipeco para la Cultura y las Artes, en coordinación con las dependencias y entidades competentes, fomentará:
 
 I.- El acceso a los espacios culturales, favoreciendo la expresión y conocimiento de sus valores, historia y tradiciones;
 
@@ -677,15 +743,17 @@ El Instituto Tamaulipeco para la Cultura y las Artes fomentará la participació
 
 ### CAPITULO II. DE LA RECREACION Y DEPORTE
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 39.
 
-El Consejo promoverá que los medios de comunicación impresos y electrónicos protejan a las niñas y niños de toda información que resulte perjudicial para su formación integral.
+El Comité promoverá que los medios de comunicación impresos y electrónicos protejan a las niñas y niños de toda información que resulte perjudicial para su formación integral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 40.
 
-En materia de deporte y recreación la Secretaría de Educación, propiciará:
+En materia de deporte y recreación el Instituto Tamaulipeco del Deporte propiciará:
 
 I.- La inclusión en los programas, actividades, convenios, bases de colaboración, intercambios, apoyos, permisos, estímulos y demás actos similares o equivalentes que suscriba su titular, en ejercicio de sus atribuciones, la participación y presencia de niñas y niños, cuidando que no se afecte o excluya el goce de sus derechos;
 
@@ -749,9 +817,11 @@ La Secretaría de Salud establecerá las campañas preventivas tendientes a crea
 
 #### SECCION SEGUNDA. DE LAS NIÑAS Y NIÑOS VICTIMAS DE MALTRATO
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 48.
 
-Toda persona, autoridad o institución que tenga conocimiento de que alguna niña o niño haya sufrido maltrato o se encuentre en riesgo su integridad, tiene la obligación de hacerlo del conocimiento del Agente del Ministerio Público y del Sistema DIF. El incumplimiento de esta obligación será sancionado en los términos de la legislación penal vigente.
+Toda persona, autoridad o institución que tenga conocimiento de que alguna niña o niño haya sufrido maltrato o se encuentre en riesgo su integridad, tiene la obligación de hacerlo del conocimiento del Agente del Ministerio Público y del Sistema DIF Tamaulipas. El incumplimiento de esta obligación será sancionado en los términos de la legislación penal vigente.
 
 ###### ARTICULO 49.
 
@@ -763,17 +833,17 @@ El Agente del Ministerio Público, el Sistema DIF Tamaulipas, o el Sistema DIF M
 
 El Sistema DIF Tamaulipas, en coordinación con las dependencias de la Administración Pública competentes, y los Ayuntamientos establecerán un programa específico y prioritario para brindar a las niñas y niños en situación de calle, las medidas de defensa jurídica, de provisión, prevención, protección y asistencia.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 51.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte establecerá la coordinación y concertación, con organismos, instituciones e instancias competentes, para generar la participación efectiva de la comunidad y de las organizaciones sociales en las políticas en beneficio de las niñas y niños en situación de calle.
+La Secretaría de Desarrollo Social establecerá la coordinación y concertación, con organismos, instituciones e instancias competentes, para generar la participación efectiva de la comunidad y de las organizaciones sociales en las políticas en beneficio de las niñas y niños en situación de calle.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 52.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte y el Sistema DIF Tamaulipas impulsarán e implementará medidas tendientes a prevenir y evitar que las niñas y niños realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
+La Secretaría de Desarrollo Social y el Sistema DIF Tamaulipas impulsarán e implementarán medidas tendientes a prevenir y evitar que las niñas y niños realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
 
 #### SECCION CUARTA. DE LAS NIÑAS Y NIÑOS TRABAJADORES EN CIRCUNSTANCIA DE DESVENTAJA SOCIAL
 
@@ -787,17 +857,17 @@ La Administración Pública impulsará proyectos de empleo y capacitación, en c
 
 #### SECCION QUINTA. DE LAS NIÑAS Y NIÑOS CON DISCAPACIDAD
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 55.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte, la Secretaría de Salud y el Sistema DIF Tamaulipas propiciarán, con la participación de los organismos públicos e instituciones privadas y sociales, los programas dirigidos a la rehabilitación integral de las niñas y niños con discapacidad. Entre ellos se comprenderán los siguientes: Integración familiar, educativa y social, creación de talleres de capacitación para el trabajo, y recreación y participación en el deporte.
+La Secretaría de Desarrollo Social, la Secretaría de Salud y el Sistema DIF Tamaulipas propiciarán, con la participación de los organismos públicos e instituciones privadas y sociales, los programas dirigidos a la rehabilitación integral de las niñas y niños con discapacidad. Entre ellos se comprenderán los siguientes: Integración familiar, educativa y social, creación de talleres de capacitación para el trabajo, y recreación y participación en el deporte.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 56.
 
-El Sistema DIF Tamaulipas, en coordinación con la Secretaría de Desarrollo Social, Cultura y Deporte y las dependencias e instituciones especializadas, implementarán las acciones encaminadas a la protección y cuidado de las niñas y niños discapacitados. Los servicios inherentes a estas medidas se proporcionarán gratuitamente cuando las condiciones económicas de los afectados así lo requieran.
+El Sistema DIF Tamaulipas, en coordinación con la Secretaría de Desarrollo Social y las dependencias e instituciones especializadas, implementarán las acciones encaminadas a la protección y cuidado de las niñas y niños con discapacidad. Los servicios inherentes a estas medidas se proporcionarán gratuitamente cuando las condiciones económicas de los afectados así lo requieran.
 
 ## TITULO SEPTIMO. DE LAS INSTITUCIONES DEDICADAS A LA ATENCION DE NIÑAS Y NIÑOS
 
@@ -918,3 +988,13 @@ P.O. 24 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
+
+P.O. 7 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
