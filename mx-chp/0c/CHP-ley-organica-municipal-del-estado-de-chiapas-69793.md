@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2011-09-28"
+last_updated: "2014-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -97,11 +97,11 @@ En todo el Estado se dará entera fe, crédito y valor a los actos públicos, re
 
 ### Capítulo II. Los Municipios del Estado
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 12.
 
-El Estado de Chiapas para su organización política y administrativa, estará constituido por Municipios libres, de acuerdo con las bases contenidas en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 65 de la Particular del Estado, siendo los siguientes: 1. Acacoyagua; 2. Acala; 3. Acapetahua; 4. Aldama; 5. Altamirano; 6. Amatán; 7. Amatenango de la Frontera; 8. Amatenango del Valle; 9. Ángel Albino Corzo; 10. Arriaga; 11. Bejucal de Ocampo; 12. Bella Vista; 13. Benemérito de las Américas; 14. Berriozábal; 15. Bochil; 16. Cacahoatán; 17. Catazajá; 18. Cintalapa; 19. Coapilla; 20. Comitán de Domínguez; 21. Copainalá; 22. Chalchihuitán; 23. Chamula; 24. Chanal; 25. Chapultenango; 26. Chenalhó; 27. Chiapa de Corzo; 28. Chiapilla; 29. Chicoasén; 30. Chicomuselo; 31. Chilón; 32. El Bosque; 33. El Porvenir; 34. Escuintla; 35. Francisco León; 36. Frontera Comalapa; 37. Frontera Hidalgo; 38. Huehuetán; 39. Huitiupán; 40. Huixtán. 41. Huixtla; 42. Ixhuatán; 43. Ixtacomitán; 44. Ixtapa; 45. Ixtapangajoya; 46. Jiquipilas; 47. Jitotol; 48. Juárez; 49. La Concordia; 50. La Grandeza; 51. La Independencia; 52. La Libertad; 53. Las Margaritas; 54. Larráinzar; 55. Las Rosas; 56. La Trinitaria; 57. Mapastepec; 58. Maravilla Tenejapa; 59. Marqués de Comillas; 60. Mazapa de Madero; 61. Mazatán; 62. Metapa; 63. Mitontic; 64. Montecristo de Guerrero; 65. Motozintla; 66. Nicolás Ruiz; 67. Ocosingo; 68. Ocopetec; 69. Ocozocoautla de Espinosa; 70. Ostuacán; 71. Osumacinta; 72. Oxchuc; 73. Palenque; 74. Pantelhó; 75. Pantepec; 76. Pichucalco; 77. Pijijiapan; 78. Pueblo Nuevo Solistahuacán; 79. Rayón; 80. Reforma; 81. Sabanilla; 82. Salto de Agua; 83. San Andrés Duraznal; 84. San Cristobal de Las Casas; 85. San Fernando; 86. San Juan Cancuc; 87. San Lucas; 88. Santiago El Pinar; 89. Siltepec; 90. Simojovel; 91. Sitalá; 92. Socoltenango; 93. Solosuchiapa; 94. Soyaló; 95. Suchiapa; 96. Suchiate; 97. Sunuapa; 98. Tapachula; 99. Tapalapa; 100. Tapilula; 101. Tecpatán; 102. Tenejapa; 103. Teopisca; 104. Tila; 105. Tonalá; 106. Totolapa; 107. Tumbalá; 108. Tuxtla Gutiérrez; 109. Tuxtla Chico; 110. Tuzantán; 111. Tzimol. 112. Unión Juárez; 113. Venustiano Carranza; 114. Villa Comaltitlán; 115. Villa Corzo; 116. Villaflores; 117. Yajalón y 118. Zinacantán.
+El Estado de Chiapas para su organización política y administrativa, estará constituido por municipios libres, de acuerdo con las bases contenidas en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 65 de la Particular del Estado, siendo los siguientes: 1. Acacoyagua; 2. Acala; 3. Acapetahua; 4. Aldama; 5. Altamirano; 6. Amatán; 7. Amatenango de la Frontera; 8. Amatenango del Valle; 9. Ángel Albino Corzo; 10. Arriaga; 11. Bejucal de Ocampo; 12. Belisario Domínguez; 13. Bella Vista; 14. Benemérito de las Américas; 15. Berriozábal; 16. Bochil; 17. Cacahoatán; 18. Catazajá; 19. Chalchihuitán; 20. Chamula; 21. Chanal; 22. Chapultenango; 23. Chenalhó; 24. Chiapa de Corzo; 25. Chiapilla; 26. Chicoasén; 27. Chicomuselo; 28. Chilón; 29. Cintalapa; 30. Coapilla; 31. Comitán de Domínguez; 32. Copainalá; 33. El Bosque; 34. El Parral; 35. El Porvenir; 36. Emiliano Zapata; 37. Escuintla; 38. Francisco León; 39. Frontera Comalapa; 40. Frontera Hidalgo; 41. Huehuetán; 42. Huitiupán; 43. Huixtán; 44. Huixtla; 45. Ixhuatán; 46. Ixtacomitán; 47. Ixtapa; 48. Ixtapangajoya; 49. Jiquipilas; 50. Jitotol; 51. Juárez; 52. La Concordia; 53. La Grandeza; 54. La Independencia; 55. La Libertad; 56. La Trinitaria; 57. Larráinzar; 58. Las Margaritas; 59. Las Rosas; 60. Mapastepec; 61. Maravilla Tenejapa; 62. Marqués de Comillas; 63. Mazapa de Madero; 64. Mazatán; 65. Metapa; 66. Mezcalapa; 67. Mitontic; 68. Montecristo de Guerrero; 69. Motozintla; 70. Nicolás Ruiz; 71. Ocosingo; 72. Ocotepec; 73. Ocozocoautla de Espinosa; 74. Ostuacán; 75. Osumacinta; 76. Oxchuc; 77. Palenque; 78. Pantelhó; 79. Pantepec; 80. Pichucalco; 81. Pijijiapan; 82. Pueblo Nuevo Solistahuacán; 83. Rayón; 84. Reforma; 85. Sabanilla; 86. Salto de Agua; 87. San Andrés Duraznal; 88. San Cristóbal de Las Casas; 89. San Fernando; 90. San Juan Cancuc; 91. San Lucas; 92. Santiago El Pinar; 93. Siltepec; 94. Simojovel; 95. Sitalá; 96. Socoltenango; 97. Solosuchiapa; 98. Soyaló; 99. Suchiapa; 100. Suchiate; 101. Sunuapa; 102. Tapachula; 103. Tapalapa; 104. Tapilula; 105. Tecpatán; 106. Tenejapa; 107. Teopisca; 108. Tila; 109. Tonalá; 110. Totolapa; 111. Tumbalá; 112. Tuxtla Chico; 113. Tuxtla Gutiérrez; 114. Tuzantán; 115. Tzimol; 116. Unión Juárez; 117. Venustiano Carranza; 118. Villa Comaltitlán; 119. Villa Corzo; 120. Villaflores; 121. Yajalón; y 122. Zinacantán.
 
 ###### Artículo 13.
 
@@ -181,17 +181,27 @@ VIII.- Las demás que determine esta Ley, los bandos y reglamentos municipales y
 
 El Ayuntamiento es el Órgano de Gobierno Municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la gestión de los intereses de la comunidad.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
 Los Ayuntamientos estarán integrados por:
 
-Un Presidente, un Síndico y tres Regidores propietarios y sus suplentes de mayoría relativa, en aquellos municipios cuya población no exceda de 7,500 habitantes.
+I. Un Presidente, un Síndico y tres Regidores Propietarios y sus Suplentes de Mayoría Relativa, en aquellos municipios cuya población no exceda de 7,500 habitantes.
 
-Un Presidente, un Síndico propietario y un suplente, seis Regidores propietarios, tres suplentes de mayoría relativa en aquellos municipios cuya población sea de más de 7,500 habitantes y no exceda de 100,000 habitantes.
+II. Un Presidente, un Síndico Propietario y un Suplente; seis Regidores Propietarios y tres Suplentes de Mayoría Relativa en aquellos municipios cuya población sea de más de 7,500 habitantes y no exceda de 100,000 habitantes.
 
-Un Presidente, un Síndico propietario y un suplente y ocho Regidores propietarios, cuatro suplentes de mayoría relativa, en aquellos municipios cuya población sea de más de 100,000 habitantes.
+III. Un Presidente, un Síndico Propietario y un Suplente; ocho Regidores Propietarios y cuatro Suplentes de Mayoría Relativa en aquellos Municipios cuya población sea de más de 100,000 habitantes.
 
-Además de los regidores electos por el sistema de mayoría relativa, en los municipios con población hasta de cien mil habitantes, los ayuntamientos se integrarán con un regidor más; hasta doscientos mil habitantes con dos regidores más, y de más de doscientos mil habitantes, con tres regidores más, los que serán electos según el principio de representación proporcional. La ley reglamentaria determinará las fórmulas y procedimientos para la asignación de estas regidurías.
+Además de aquéllos electos por el sistema de mayoría relativa, los Ayuntamientos se integrarán con un número adicional de regidores, electos según el principio de representación proporcional y con base en las fórmulas y procedimientos determinados en el Código de Elecciones y Participación Ciudadana, conforme a lo siguiente:
+
+I. En los municipios con población hasta de siete mil quinientos habitantes, se integrarán con dos Regidores más.
+
+II. En los municipios con población de siete mil quinientos uno hasta cien mil habitantes, con cuatro Regidores más.
+
+III. En los municipios con población de más de cien mil habitantes, con seis Regidores más.
+
+La Ley reglamentaria determinará las fórmulas y procedimientos para la asignación de estas Regidurías.
 
 El desempeño de un cargo de los señalados para integrar los ayuntamientos, es incompatible con cualquier otro de la Federación o del Estado.
 
@@ -387,7 +397,7 @@ XIII.- Participar activamente ante las dependencias y entidades oficiales compet
 
 XIV.- Participar conjuntamente con las autoridades competentes, en la elaboración, revisión y ejecución de los planes municipales de desarrollo urbano, correspondientes a su jurisdicción, así como en la ejecución de sus acciones, para el mejoramiento integral de los municipios; de conformidad con la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano del Estado de Chiapas y demás ordenamientos relativos en la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -403,11 +413,9 @@ XIX.- Administrar el programa de desarrollo urbano y zonificación prevista en e
 
 XX.- Promover y apoyar el desarrollo de programas de vivienda popular y de interés social, suscribiendo convenios de coordinación de acciones con las dependencias y organismos correspondientes del Ejecutivo del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)
-
-XXI.- Otorgar licencias y permisos para construcción observando las disposiciones de la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano del Estado de Chiapas, la Ley de Fraccionamientos y Conjuntos Habitacionales para el Estado de Chiapas, la Ley sobre el Régimen de Propiedad en Condominio de Bienes Inmuebles del Estado de Chiapas, la Ley de Catastro para el Estado de Chiapas y demás disposiciones aplicables;
+XXI. Otorgar licencias y permisos para construcción observando las disposiciones de la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano del Estado de Chiapas, la Ley de Fraccionamientos y Conjuntos Habitacionales para el Estado de Chiapas, la Ley sobre el Régimen de Propiedad en Condominio de Bienes Inmuebles del Estado de Chiapas, la Ley de Catastro para el Estado de Chiapas y demás disposiciones aplicables. En ningún caso podrán otorgar licencias o permisos para construcción para centros donde se presentan espectáculos que atentan contra la moral, las buenas costumbres, fomenten la trata de personas y/o atenten contra la dignidad humana;
 
 XXII.- Participar en el ámbito de su competencia, y en coordinación con la Federación y el Estado, en la planeación y regulación del desarrollo de los centros urbanos involucrados en procesos de conurbación;
 
@@ -471,7 +479,7 @@ XLVII.- Vigilar que en el ejercicio de sus funciones las autoridades municipales
 
 XLVIII.- Proveer instalaciones adecuadas para los juzgados municipales y rurales;
 
-XLlX.- Acordar y ejecutar las obras de utilidad pública de acuerdo con la legislación aplicable;
+XLIX.- Acordar y ejecutar las obras de utilidad pública de acuerdo con la legislación aplicable;
 
 L.- Proponer por terna, ante el Poder Judicial, el nombramiento de jueces municipales;
 
@@ -483,7 +491,9 @@ Celebrar con el Poder Ejecutivo del Estado, convenios de coordinación fiscal y 
 
 Dichos convenios deberán ser sancionados por el Congreso del Estado;
 
-LIII.- Conceder licencia y permisos para el establecimiento de servicios públicos y comercios;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+LIII.- Conceder licencia y permisos para el establecimiento de servicios públicos y comercios. En ningún caso podrán conceder licencia o permiso de comercios para centros donde se presentan espectáculos que atentan contra la moral, las buenas costumbres, fomenten la trata de personas y/o atenten contra la dignidad humana;
 
 LIV.- Reglamentar los espectáculos públicos y vigilar que se desarrollen conforme a las disposiciones legales aplicables;
 
@@ -663,7 +673,9 @@ XXXI.- Rendir a la población del municipio en sesión solemne de cabildo un inf
 
 XXXII.- Vigilar la conducta oficial de los servidores públicos del municipio y corregir oportunamente las faltas que observe así como hacer del conocimiento de la autoridad competente las que a su juicio pudieren ser constitutivas de un delito;
 
-XXXIII.- Expedir las licencias para el funcionamiento de espectáculos, bailes, diversiones públicas y giros comerciales reglamentados en los términos de las disposiciones legales aplicables, mediante el pago a la tesorería de los derechos correspondientes;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2014)</small>
+
+XXXIII.- Expedir las licencias para el funcionamiento de espectáculos, bailes, diversiones públicas y giros comerciales reglamentados en los términos de las disposiciones legales aplicables, mediante el pago a la tesorería de los derechos correspondientes. En ningún caso se expedirán licencias para el funcionamiento de centros donde se presentan espectáculos que atentan contra la moral, las buenas costumbres, fomenten la trata de personas y/o atenten contra la dignidad humana;
 
 XXXIV.- Informar a los Poderes Públicos del Estado, de todos los negocios que tengan relación con ellos;
 
@@ -793,7 +805,7 @@ XII.- De Agricultura, Ganadería y Silvicultura;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
 
-XlII.- De equidad de género.
+XIII.- De equidad de género.
 
 ###### Artículo 47.
 
@@ -819,7 +831,7 @@ II.- Proponer al Ayuntamiento el mejoramiento o la creación de nuevos servicios
 
 III.- Las demás que le confiera esta Ley y sus Reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO X. De las Agencias, Subagencias y Delegaciones Municipales
 
@@ -1679,7 +1691,7 @@ IX.- Las características a que deban sujetarse las construcciones privadas y p�
 
 X.- Las características de la construcción y distribución de la infraestructura, servicios y equipos urbanos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1782,6 +1794,14 @@ II.- Por contrato.
 Son obras públicas por administración, las que se proyecten y ejecuten con personal del propio ayuntamiento.
 
 Son obras públicas por contrato, las que se proyecten o ejecuten por empresas constructoras particulares, previa convocatoria y licitaciones públicas y mediante contrato, cualquiera que sea su denominación.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Los Ayuntamientos del Estado, deberán prever y destinar espacios físicos para la gestión y el manejo final de residuos sólidos, los cuales comprenderán un almacenamiento sanitario ambientalmente adecuado, con sujeción a los principios de minimización, prevención de riesgos ambientales y protección de la salud; debiendo asimismo prever dentro de su presupuesto, los recursos necesarios para tal efecto.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+El Órgano de Fiscalización Superior del Congreso del Estado, en ejercicio de las atribuciones que le confiere la Constitución Política del Estado de Chiapas, dará seguimiento y vigilancia para el debido cumplimiento de lo establecido en el párrafo que antecede, excepto cuando la legislación federal correspondiente establezca disposición en contrario.
 
 ## Título VII. De los Consejos de Participación y Colaboración Vecinal
 
@@ -2409,7 +2429,7 @@ De conformidad con la fracción I, del artículo 42, de la Constitución Políti
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.-Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE OCTUBRE DE 2009.
 
@@ -2464,3 +2484,17 @@ Artículo Cuarto.- Los Ayuntamientos llevarán a cabo las acciones necesarias pa
 P.O. 28 DE SEPTIEMBRE DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Los municipios en términos de los párrafos cuarto y quinto del artículo 106 del presente ordenamiento, deberán realizar las acciones necesarias para lograr la implementación de los espacios físicos en los cuales se conservarán los residuos sólidos.
+
+P.O. 7 DE MAYO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
