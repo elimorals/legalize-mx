@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-la-infraestructura-fisica-educativa-58749"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-02-01"
-last_updated: "2013-03-14"
+last_updated: "2014-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58749&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-01-31"
 
 LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 1 de febrero de 2008.
 
@@ -113,9 +113,11 @@ Las universidades y demás instituciones de educación superior autónomas a que
 
 ### Capítulo II. De la Calidad de la Infraestructura Física Educativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2014)</small>
+
 ###### Artículo 7.
 
-La infraestructura física educativa del país deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad y pertinencia, de acuerdo con la política educativa determinada por el Estado -Federación, estados, Distrito Federal y municipios-, con base en lo establecido en el artículo 3o. constitucional; la Ley General de Educación; las leyes estatales de educación y del Distrito Federal; el Plan Nacional de Desarrollo; el Programa Sectorial; los programas educativos estatales y del Distrito Federal, así como los programas de desarrollo regional.
+La infraestructura física educativa del país deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, pertinencia y oferta suficiente de agua potable para consumo humano, de acuerdo con la política educativa determinada por el Estado –Federación, estados, Distrito Federal y municipios–, con base en lo establecido en el artículo 3o. constitucional; la Ley General de Educación; las leyes estatales de educación y del Distrito Federal; el Plan Nacional de Desarrollo; el Programa Sectorial; los programas educativos estatales y del Distrito Federal, así como los programas de desarrollo regional.
 
 Las autoridades en la materia promoverán la participación de sectores sociales para optimizar y elevar la calidad de la INFE, en los términos que señalan esta ley y su reglamento.
 
@@ -135,11 +137,11 @@ Los usuarios de los servicios educativos podrán solicitar los documentos que ac
 
 Las autoridades en la materia establecerán acciones para atender a los grupos y regiones con mayor rezago educativo según parámetros estatales y nacionales, mediante la creación de programas compensatorios tendentes a ampliar la cobertura y calidad de la infraestructura física educativa.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2014)</small>
 
 ###### Artículo 11.
 
-En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE deberán cumplirse las disposiciones de la Ley Federal de las Personas con Discapacidad y las leyes en la materia de las entidades federativas. Asimismo, se atenderán las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, se asegurará la aplicación de sistemas y tecnologías sustentables, y se tomarán en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
+En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE deberán cumplirse las disposiciones de la Ley General para la Inclusión de las Personas con Discapacidad y las leyes en la materia de las entidades federativas. Asimismo, se garantizará la existencia de bebederos suficientes y con suministro continuo de agua potable en cada inmueble de uso escolar conforme a los lineamientos que emita la Secretaría de Salud en coordinación con la Secretaría de Educación Pública. Se asegurará la atención a las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, se asegurará la aplicación de sistemas y tecnologías sustentables, y se tomarán en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
 
 ###### Artículo 12.
 
@@ -247,7 +249,9 @@ X. Realizar acciones de seguimiento técnico y administrativo de los diversos pr
 
 XI. Participar en coordinación con las instancias correspondientes en la planeación, programación y seguimiento técnico de los recursos autorizados para la ejecución de proyectos de inversión en INFE del país;
 
-XII. Construir, equipar, dar mantenimiento, rehabilitar, reforzar, reconstruir y habilitar en el Distrito Federal, en las entidades federativas en el caso de instituciones de carácter federal o cuando así se convenga con las autoridades estatales.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2014)</small>
+
+XII. Construir, equipar, dar mantenimiento, rehabilitar, reforzar, reconstruir y habilitar en el Distrito Federal, en las entidades federativas en el caso de instituciones de carácter federal o cuando así se convenga con las autoridades estatales, de acuerdo a lo dispuesto en el artículo 11 de esta Ley.
 
 Queda prohibido destinar recursos públicos federales para construir, equipar, dar mantenimiento, rehabilitar, reforzar, reconstruir o habilitar instituciones educativas privadas;
 
@@ -462,3 +466,17 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 14 DE MARZO DE 2013.
 
 Primero (sic).- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Con fundamento en el artículo 19, fracción I, de la Ley General de la Infraestructura Física Educativa, el Instituto Nacional de la Infraestructura Física Educativa en un plazo no mayor a 180 días, contados a partir del día siguiente a la publicación del presente Decreto, emitirá lineamientos generales en materia de bebederos escolares y calidad de agua para consumo humano en las instalaciones del Sistema Educativo Nacional.
+
+Tercero. Los planteles educativos particulares instalarán bebederos en cantidad suficiente a su matrícula inscrita en un plazo máximo de 18 meses a partir del día siguiente a la publicación del presente Decreto. El cumplimiento de lo anterior estará supervisado por la autoridad competente.
+
+Cuarto. El Presupuesto de Egresos de la Federación contemplará, con sujeción a la disponibilidad presupuestaria, una asignación para proveer bebederos con suministro de agua potable en los inmuebles escolares, en términos de los artículos 7 y 11 de la Ley General de la Infraestructura Física Educativa.
+
+Quinto. La Secretaría de Salud en coordinación con la Secretaría de Educación Pública, emitirán en un plazo de 90 días, los lineamientos previstos en el artículo 11.
+
+Sexto. El Instituto Nacional de la Infraestructura Física Educativa procurará que las instalaciones del Sistema Educativo Nacional cuenten con la infraestructura de bebederos de agua potable prevista en los artículos 7 y 11 de la Ley General de la Infraestructura Física Educativa, en un plazo máximo de 3 años a partir de la publicación del presente Decreto
