@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-del-comite-de-planeacion-para-el-desarrollo-del-8244
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-13"
-last_updated: "2011-07-13"
+last_updated: "2014-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE CHIAPAS
 
-REGLAMENTO DEL COMITE DE PLANEACION PARA EL DESARROLLO REGIONAL DEL ESTADO DE CHIAPAS
+REGLAMENTO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO REGIONAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO REGIONAL, PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Chiapas, el miércoles 13 de julio de 2011.
 
@@ -31,7 +33,7 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Juan Sabines Guerrero, Gobernador del Estado de Chiapas, en ejercicio de las facultades que me confieren los artículos 44 de la Constitución Política del Estado de Chiapas, 7°, fracción II, 8°, fracción III y 51 de la Ley de Planeación para el Estado de Chiapas, 5° y 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o...
 
 Por los fundamentos y consideraciones anteriores, el Ejecutivo a mi cargo tiene a bien expedir el presente:
 
@@ -544,3 +546,17 @@ Artículo Décimo Primero.- En cumplimiento de lo dispuesto por el artículo 13,
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintidós días del mes de noviembre del año dos mil diez.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MAYO DE 2014.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Los representantes del sector social y privado que conformarán la Comisión de Observancia del COPLADER, serán seleccionados de forma consensuada por la Comisión Regional, de acuerdo a criterios establecidos por la misma.
+
+Artículo Tercero.- Las situaciones particulares con respecto a la operatividad del COPLADER, no señaladas en el presente reglamento, se someterán a lo dispuesto en los Lineamientos para la Operatividad de los Comités de Planeación para el Desarrollo Regional.
+
+Artículo Cuarto.- Se abroga el Reglamento del Comité de Planeación de Desarrollo Regional, publicado en el Periódico Oficial número 312, de fecha 13 de julio de 2011.
+
+Artículo Quinto.- En cumplimiento de lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese en el Periódico Oficial.
