@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tribunal-de-lo-contencioso-34880"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-18"
-last_updated: "2013-11-29"
+last_updated: "2014-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE 
 
 > <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS, ADICIONES, MODIFICACIONES Y ADECUACIONES AL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MÉXICO APROBADAS EN EL ACUERDO PUBLICADO EN EL G.O. DE 29 DE NOVIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL EL PRESENTE ORDENAMIENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 18 de noviembre de 2003.
 
@@ -1487,15 +1487,23 @@ Son atribuciones y deberes de los Mediadores Conciliadores:
 
 I. La correcta aplicación de los medios alternos de solución de conflictos administrativos y fiscales;
 
-II. Realizar los citatorios para las pláticas de mediación y conciliación, que le soliciten; y
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2014)</small>
 
-III. Instrumentar y realizar los convenios correspondientes.
+II. Realizar los citatorios para las pláticas de mediación y conciliación, que le soliciten;
 
-> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 7 DE MAYO DE 2014)</small>
+
+III. Instrumentar y realizar los convenios correspondientes; y
+
+> <small>(ADICIONADA, G.G. 7 DE MAYO DE 2014)</small>
+
+IV. Expedir copias certificadas previo el pago de los derechos correspondientes, de los convenios celebrados cuando estos documentos fueren solicitados por los interesados o por las autoridades facultadas para ello.
+
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2014)</small>
 
 ###### Artículo 108.
 
-Cada Sección de la Sala Superior, así como cada Sala Regional, contarán por lo menos con un mediador conciliador.
+Cada Sección de la Sala Superior, así como cada Sala Regional, contarán por lo menos con un mediador conciliador, el cual tendrá fe pública de todo lo relativo al desempeño de sus funciones debiendo firmar junto con los interesados todo acuerdo o convenio.
 
 > <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -1718,3 +1726,9 @@ G.G. 29 DE NOVIEMBRE DE 2013.
 Primero.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de. México "Gaceta del Gobierno"; en el órgano de difusión interno del propio Tribunal y en los estrados de las secciones de la Sala Superior, de las Salas Regionales y Salas Supernumerarias.
 
 Segundo.- Las reformas, adiciones, modificaciones y adecuaciones al Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de México, entrarán en vigor, el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 7 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno”; y en el órgano de difusión interno del propio Tribunal.
+
+SEGUNDO.- La adición al Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de México entrará en vigor, el día de su publicación en el periódico oficial "Gaceta del Gobierno".
