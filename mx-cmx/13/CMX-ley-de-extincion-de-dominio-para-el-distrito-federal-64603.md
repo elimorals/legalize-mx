@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-extincion-de-dominio-para-el-distrito-federal-64603"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-08"
-last_updated: "2012-04-19"
+last_updated: "2014-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64603&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-12-03"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de diciembre de 2008.
 
@@ -68,25 +68,19 @@ III. Agente del Ministerio Público: Agente del Ministerio Público especializad
 
 IV. Bienes: Todos los que puedan ser objeto de apropiación que no estén excluidos del comercio, ya sean muebles e inmuebles, y que actualicen los supuestos señalados en el artículo 5 de esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+V. (DEROGADA, G.O. 7 DE MAYO DE 2014)
 
-> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2014)</small>
 
-V. Delincuencia organizada: Organización de hecho de tres o más personas para cometer, en forma permanente o reiterada, alguno de los delitos a que se refiere el artículo 254 del Código Penal para el Distrito Federal;
+VI. Delitos Patrimoniales: Robo de vehículos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+VII. Evento típico: Hecho, típico, constitutivo de cualquiera de los delitos de secuestro, delitos contra la salud en su modalidad de narcomenudeo, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
 
-VI. Delitos Patrimoniales: Robo de vehículos, extorsión, encubrimiento por receptación contemplado en el artículo 243, todos con relación a la delincuencia organizada;
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2012)</small>
-
-VII. Evento típico: Hecho típico, constitutivo de cualquiera de los delitos de delincuencia organizada, Delitos Contra la Salud en su modalidad de Narcomenudeo, secuestro, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
-
-> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2012)</small>
-
-VIII. Hecho Ilícito: Hecho típico y antijurídico, constitutivo de cualquiera de los delitos de delincuencia organizada, Delitos Contra la Salud en su modalidad de Narcomenudeo, secuestro, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
+VIII. Hecho ilícito: Hecho típico y antijurídico, constitutivo de cualquiera de los delitos de secuestro, Delitos contra la Salud en su modalidad de Narcomenudeo, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
 
 IX. Juez: Juez de Extinción de Dominio, del Tribunal Superior de Justicia del Distrito Federal;
 
@@ -102,11 +96,15 @@ XIV. Sala: Salas Civiles, del Tribunal Superior de Justicia del Distrito Federal
 
 XV. Secretaría de Finanzas: Secretaría de Finanzas del Gobierno del Distrito Federal;
 
-XVI. Secuestro: Delitos contemplados en el Capítulo III, del Título Cuarto, del Libro Segundo del Código Penal para el Distrito Federal;
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2014)</small>
+
+XVI. Secuestro: Delitos contemplados en la Ley General para prevenir y sancionar los delitos en materia de secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XVII. Tercero: Persona que, sin ser afectado en el procedimiento de Extinción de Dominio, comparece en él para deducir un derecho propio sobre los bienes materia de la acción;
 
-XVIII. Trata de Personas: Delitos contemplados en el Capítulo IV, del Título Sexto, del Libro Segundo, del Código Penal para el Distrito Federal; y (sic)
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2014)</small>
+
+XVIII. Trata de Personas: Delitos contemplados en la Ley general para prevenir, sancionar y erradicar los delitos en materia de trata de personas y para la protección y asistencia a las victimas de estos delitos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -144,11 +142,11 @@ IV. En los aspectos relativos la regulación de bienes u obligaciones, a lo prev
 
 ### CAPÍTULO II. DE LA ACCIÓN DE EXTINCIÓN DE DOMINIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE MAYO DE 2014)</small>
 
-###### ARTÍCULO 4.
+###### Artículo 4.
 
-La Extinción de Dominio es la pérdida de los derechos de propiedad de los bienes mencionados en el artículo 5 de esta Ley, sin contraprestación ni compensación alguna para el afectado, cuando se acredite el hecho ilícito en los casos de delincuencia organizada, Delitos Contra la Salud en su modalidad de Narcomenudeo, secuestro, robo de vehículos y trata de personas, y el afectado no logre probar la procedencia lícita de dichos bienes y su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita.
+La Extinción de Dominio es la pérdida de los derechos de propiedad de los bienes mencionados en el artículo 5 de esta Ley, sin contraprestación ni compensación alguna para el afectado, cuando se acredite el hecho ilícito en los casos de delitos contra la salud en su modalidad de narcomenudeo, secuestro, robo de vehículos y trata de personas, y el afectado no logre probar la procedencia lícita de dichos bienes y su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita.
 
 La Extinción de Dominio es de naturaleza jurisdiccional, de carácter real y de contenido patrimonial, y procederá sobre cualquier derecho real, principal o accesorio, independientemente de quien los tenga en su poder, o los haya adquirido.
 
@@ -170,13 +168,13 @@ II. Aquellos que no sean instrumento, objeto o producto del delito, pero que hay
 
 III. Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo;
 
-IV. Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales o de delincuencia organizada, y el acusado por estos delitos se comporte como dueño.
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV. Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y el acusado por estos delitos se comporte como dueño.
 
-> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 7 DE MAYO DE 2014)</small>
 
-El supuesto previsto en la fracción III será aplicable cuando el Agente del Ministerio Público cuando el Agente del Ministerio Público (sic) acredite que el tercero utilizó el bien para cometer delitos patrimoniales, delincuencia organizada, secuestro, trata de personas o robo de vehículos y que el dueño tenía conocimiento de esa circunstancia.
+El supuesto previsto en la fracción III, será aplicable cuando el Agente del Ministerio Público acredite que el tercero utilizó el bien para cometer secuestro, trata de personas o robo de vehículos y que el dueño tenía conocimiento de esa circunstancia.
 
 ###### ARTÍCULO 6.
 
@@ -440,6 +438,8 @@ El Agente del Ministerio Público podrá desistirse de la acción, en cualquier 
 
 Deberán notificarse personalmente:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 > <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
 I. La admisión del ejercicio de la acción al afectado;
@@ -687,3 +687,13 @@ Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente Decreto.
+
+G.O. 7 DE MAYO DE 2014.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Los procedimientos de extinción de dominio a los que se refiere la presente ley y que a la entrada en vigor del presente decreto se encuentren substanciándose, continuarán tramitándose de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+Las autoridades ministerial y jurisdiccional seguirán conociendo de las acciones de extinción de dominio por los delitos señalados en las fracciones XVI y XVIII del artículo 2 de conformidad a los tipos penales contenidos en la legislación local al momento de los hechos, cuando se haya iniciado una averiguación previa, sustanciado proceso penal o dictado una sentencia previo a la entrada en vigor del presente decreto.
