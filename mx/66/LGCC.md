@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2012-06-06"
+last_updated: "2014-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -204,7 +204,9 @@ IX. Crear, autorizar y regular el comercio de emisiones;
 
 X. Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático;
 
-XI. Promover la educación y difusión de la cultura en materia de cambio climático en todos los niveles educativos, así como realizar campañas de educación e información para sensibilizar a la población sobre los efectos de la variación del clima;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2014)</small>
+
+XI. Promover la educación y difusión de la cultura en materia de cambio climático en todos los niveles educativos, así como realizar campañas de educación e información para sensibilizar a la población sobre las causas y los efectos de la variación del clima;
 
 XII. Promover la participación corresponsable de la sociedad en las materias previstas en esta ley;
 
@@ -1282,7 +1284,7 @@ Se integrará un Sistema de Información sobre el Cambio Climático a cargo del 
 
 ###### Artículo 77.
 
-EI Sistema de Información sobre el Cambio Climático deberá generar, con el apoyo de las dependencias gubernamentales, un conjunto de indicadores clave que atenderán como mínimo los temas siguientes:
+El Sistema de Información sobre el Cambio Climático deberá generar, con el apoyo de las dependencias gubernamentales, un conjunto de indicadores clave que atenderán como mínimo los temas siguientes:
 
 I. Las emisiones del inventario nacional, de los inventarios estatales y del registro;
 
@@ -1675,3 +1677,9 @@ Artículo Décimo. El gobierno federal, las Entidades Federativas, y los Municip
 México, D.F., a 19 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Mariano Quihuis Fragoso, Secretario.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 7 DE MAYO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
