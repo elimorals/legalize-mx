@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-89420"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-17"
-last_updated: "2013-07-30"
+last_updated: "2014-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTICULO PRIMERO TRANSITORIO DEL CÓDIGO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DE 17 DE SEPTIEMBRE DE 2012, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR EN FORMA GRADUAL, INICIANDO EN LOS DISTRITOS JUDICIALES DÉCIMOPRIMERO Y DÉCIMOCUARTO EL DÍA ONCE DE MAYO DEL AÑO DOS MIL TRECE Y EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO SERÁ DE CONFORMIDAD CON EL PRIMERO TRANSITORIO INDICADO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DE 17 DE SEPTIEMBRE DE 2012, REFORMADO POR DECRETO NÚMERO 252, PUBLICADO EN LA G.O. DE 8 DE MAYO DE 2014, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR EN FORMA GRADUAL, INICIANDO EN LOS DISTRITOS JUDICIALES DÉCIMOPRIMERO Y DÉCIMOCUARTO CON CABECERAS EN LOS MUNICIPIOS DE XALAPA Y CÓRDOBA, RESPECTIVAMENTE, Y EL DÍA 11 DE NOVIEMBRE DEL AÑO 2013 EN LOS DISTRITOS JUDICIALES DÉCIMO Y DÉCIMO SEGUNDO, CON CABECERAS EN LOS MUNICIPIOS DE JALACINGO Y COATEPEC. EN LOS DEMÁS DISTRITOS JUDICIALES DEL ESTADO SE SEGUIRÁ APLICANDO EL CÓDIGO DE PROCEDIMIENTOS PENALES QUE HA REGIDO EN ELLOS HASTA EN TANTO ENTRE EN VIGOR EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN LOS TÉRMINOS DE SU ARTÍCULO SEGUNDO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2014.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el día lunes 17 de septiembre de 2012.
 
@@ -6481,9 +6481,9 @@ En lo relativo a la conciliación, la mediación y otros mecanismos alternativos
 
 T R A N S I T O R I O S
 
-(REFORMADO, G.O. 21 DE MARZO DE 2013) (F. DE E., G.O. 18 DE ABRIL DE 2013)
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2014)</small>
 
-Primero. El presente Código entrará en vigor el día once de mayo del año dos mil trece en los Distritos Judiciales siguientes: Decimoprimero y Decimocuarto, con cabeceras en los municipios de Xalapa y Córdoba, respectivamente, y en forma gradual en los demás Distritos Judiciales del Estado, conforme al orden siguiente: el día once de noviembre del año dos mil trece, en los Distritos Décimo y Décimo Segundo, con cabeceras en los municipios de Jalacingo y Coatepec, respectivamente; el día once de mayo del año dos mil catorce, en los Distritos Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo y Noveno, con cabeceras en los municipios de Pánuco, Ozuluama, Tantoyuca, Huayacocotla, Chicontepec, Tuxpan, Poza Rica de Hidalgo, Papantla y Misantla, respectivamente; y el día once de mayo del año dos mil quince, en los Distritos Decimotercero, Decimoquinto, Decimosexto, Decimoséptimo, Decimoctavo, Decimonoveno, Vigésimo y Vigésimo Primero, con cabeceras en los municipios de Huatusco, Orizaba, Zongolica, Veracruz, Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos, respectivamente.
+Primero. El presente Código entrará en vigor el día 11 de mayo del año 2013 en los distritos judiciales siguientes: Decimoprimero y Decimocuarto, con cabeceras en los municipios de Xalapa y Córdoba, respectivamente, y el día 11 de noviembre del año 2013 en los distritos judiciales Décimo y Décimo Segundo, con cabeceras en los municipios de Jalacingo y Coatepec. En los demás distritos judiciales del Estado se seguirá aplicando el Código de Procedimientos Penales que ha regido en ellos hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales, en los términos de su Artículo Segundo Transitorio.
 
 Segundo. A partir de la entrada en vigor de este ordenamiento en cada uno de los distritos judiciales quedará derogado el Código Número 590 de Procedimientos Penales para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el 7 de noviembre de 2003, asimismo se derogan todas las disposiciones de igual o menor rango que se opongan a este Código.
 
@@ -6528,3 +6528,9 @@ G.O. 30 DE JULIO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente Decreto.
