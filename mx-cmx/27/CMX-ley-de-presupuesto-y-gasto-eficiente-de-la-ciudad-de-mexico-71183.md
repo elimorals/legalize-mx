@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2014-03-14"
+last_updated: "2014-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -260,11 +260,11 @@ La información a que se refiere el párrafo anterior deberá remitirse a la Sec
 
 Los Órganos Autónomos y de Gobierno deberán seguir en lo conducente las disposiciones de esta Ley, de las leyes de su creación y demás normatividad aplicable en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 6.
 
-La Asamblea autorizará la afectación o retención de participaciones federales asignadas al Distrito Federal, para el pago de obligaciones contraídas por el Distrito Federal, de acuerdo con el siguiente procedimiento:
+La Asamblea autorizará la afectación o retención de participaciones federales asignadas al Distrito Federal, así como de los ingresos propios de las Entidades, para el pago de obligaciones contraídas por el Distrito Federal, de acuerdo con el siguiente procedimiento:
 
 I. El Jefe de Gobierno enviará a la Asamblea la solicitud correspondiente indicando:
 
@@ -279,6 +279,10 @@ d) Fuente de garantía, y e) Mecanismos de pago.
 II. La Asamblea, dentro de un plazo de 30 días, contados a partir de la presentación de la solicitud, deberá emitir el dictamen correspondiente. En todo caso, se aprobará por mayoría simple de los votos de los legisladores presentes en la Sesión.
 
 No se reconocerán compromisos adquiridos sin la autorización de la Asamblea.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2014)</small>
+
+Las Entidades podrán afectar y/o gravar como garantía y/o fuente de pago sus ingresos propios, previamente deberán solicitar a la Secretaría de Finanzas la opinión favorable para afectar sus ingresos y una vez que ésta otorgue dicha opinión, se procederá conforme a lo dispuesto en el párrafo primero de este artículo.
 
 La Secretaría llevará un Registro Único de Compromisos y Garantías que afecten los ingresos del Distrito Federal.
 
@@ -2081,3 +2085,13 @@ TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida o
 G.O. 14 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
