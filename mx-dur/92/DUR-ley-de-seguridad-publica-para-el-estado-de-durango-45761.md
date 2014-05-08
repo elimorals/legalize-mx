@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2014-05-06"
+last_updated: "2014-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,11 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
+NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN IV DEL ARTÍCULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, LAS REFORMAS PUBLICADAS EN EL P.O. 19 DE FEBRERO DE 2009 Y POSTERIORES RELACIONADAS CON EL SISTEMA PROCESAL PENAL ACUSATORIO DEL PRESENTE ORDENAMIENTO ENTRAN EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.
+
+NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 139 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, INTEGRADOS DE LA SIGUIENTE MANERA: SEGUNDO DISTRITO: CIUDAD LERDO COMO RESIDENCIA, COMPRENDE LOS MUNICIPIOS DE LERDO Y MAPIMÍ, EXCEPTO EN MATERIA PENAL QUE CORRESPONDE AL TERCER DISTRITO; TERCER DISTRITO: GÓMEZ PALACIO COMO RESIDENCIA; COMPRENDE EL MUNICIPIO DEL MISMO NOMBRE Y EL DE TLAHUALILO, POR LO QUE AL MISMO TIEMPO ENTRARÁ EN VIGOR LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO, RELACIONADAS CON EL SISTEMA PROCESAL PENAL ACUSATORIO, APROBADAS MEDIANTE DECRETO NÚMERO 259 DEL 18 DE FEBRERO DE 2009, PUBLICADAS EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, NÚMERO 15 BIS DE FECHA 19 DE FEBRERO DE 2009 Y LAS REFORMAS POSTERIORES A LA CITADA LEY EN LA MATERIA, PARA QUE SURTA SUS EFECTOS A PARTIR DE LAS CERO HORAS DEL DÍA 10 DE JUNIO DE 2014.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -3510,3 +3514,27 @@ P.O. 6 DE MAYO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día 7 de mayo de 2014.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE MAYO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 139 POR EL QUE SE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL, ASÍ COMO LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.</small>
+
+Artículo Primero. Se declara la entrada en vigor del Código Nacional de Procedimientos Penales, promulgado por el C. Licenciado Enrique Peña Nieto, Presidente de la República, y publicado en el Diario Oficial de la Federación en fecha 05 de marzo del año 2014, en el Segundo y Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Segundo distrito: Ciudad Lerdo como residencia, comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito; Tercer distrito: Gómez Palacio como residencia; comprende el Municipio del mismo nombre y el de Tlahualilo.
+
+Artículo Segundo. Se adopta el Sistema Penal Acusatorio, en el Segundo y Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Segundo distrito: Ciudad Lerdo como residencia, comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito; Tercer distrito: Gómez Palacio como residencia; comprende el Municipio del mismo nombre y el de Tlahualilo, por lo que al mismo tiempo entrarán en vigor los siguientes ordenamientos:
+
+I. Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 284 de fecha 11 de junio de 2009, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 48 de fecha 14 de junio de 2009.
+
+II. Ley de Seguridad Pública para el Estado de Durango, relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto número 259 del 18 de febrero de 2009, publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 15 Bis de fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la materia.
+
+Artículo Tercero. Quedan abrogados, el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 9 Bis, de fecha 30 de enero de 1992; el Título Décimo Primero del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232, en vigor en dichos distritos judiciales y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 extraordinario, de fecha 05 de diciembre de 2008 y el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004, y sus reformas posteriores; sin embargo, respecto de los procedimientos penales iniciados por hechos que hayan ocurrido antes de la entrada en vigor del Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante decreto 284 y el Código Nacional de Procedimientos Penales, y que se encuentren en trámite continuarán sus (sic) sustanciación hasta el final de los mismas (sic), de conformidad con la legislación aplicable al momento del inicio de los mismos.
+
+## ARTÍCULOS TRANSITORIOS
+
+Primero. Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno del Estado de Durango, para que surta sus efectos a partir de las cero horas del día 10 de junio de 2014.
+
+Segundo. Remítase para su conocimiento a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal, copia de la presente Declaratoria.
+
+Tercero. Hágase del conocimiento a los habitantes del Segundo y Tercer Distritos Judiciales del Estado de Durango, la presente Declaratoria, mediante Sesión Solemne que se llevará a cabo el día 10 de junio de 2014, en la ciudad de Gómez Palacio, Durango, así como por medios impresos, televisivos y electrónicos de dicha región.
+
+Cuarto. A medida que en los restantes distritos judiciales de nuestro Estado, se implemente el Sistema de Justicia Penal Acusatorio, se hará la Declaratoria respectiva para la aplicación del Código Nacional de Procedimientos Penales, la cual no deberá exceder del 18 de junio de 2016.
