@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-comunicaciones-y-transportes-del-estado-de-michoacan-598
 country: "mx"
 rank: "ley"
 publication_date: "1982-07-19"
-last_updated: "2007-08-23"
+last_updated: "2014-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "MIC"
 ---
 # LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN
 
-LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN
+LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2014.
 
 Publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 19 de julio de 1982.
 
@@ -436,6 +436,60 @@ II. Las autoridades, en la transmisión de comunicaciones relacionadas con la se
 
 III. Las personas, en la transmisión de comunicaciones, que se encuentren bajo la hipótesis de lo preceptuado en el artículo 31 en relación con el segundo párrafo del artículo 23 de la Ley de Amparo.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MAYO DE 2014)</small>
+
+## TITULO CUARTO. DEL CONSEJO CONSULTIVO DE COMUNICACIONES Y TRANSPORTES E INFRAESTRUCTURA CARRETERA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MAYO DE 2014)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2014)</small>
+
+###### ARTICULO 53.
+
+El Consejo Consultivo de Comunicaciones y Transportes e Infraestructura Carretera es la instancia de participación de los sectores gubernamental, académica y social, en la formulación y evaluación de la política pública, así como de seguimiento de los programas en materia de infraestructura carretera del Estado, de igual forma es un órgano consultivo del Ejecutivo, en la materia.
+
+Al Consejo Consultivo de Comunicaciones y Transportes e Infraestructura Carretera le corresponde:
+
+I. Proponer los criterios para la formulación y ejecución de la política pública en materia de infraestructura carretera;
+
+II. Evaluar la política en materia de infraestructura carretera y formular recomendaciones sobre los programas a implementarse en el Estado;
+
+III. Opinar sobre la política implementada en infraestructura carretera en el Estado;
+
+IV. Solicitar a las autoridades competentes información sobre los avances de los planes y proyectos a desarrollar en el Estado de Michoacán, en materia de infraestructura carretera;
+
+V. Instar ante las autoridades competentes la realización de las obras necesarias para la construcción, mantenimiento y modernización del sistema carretero en el Estado;
+
+VI. Promover la realización de estudios y proyectos relativos a la infraestructura carretera en el Estado;
+
+VII. Promover la participación de los sectores académico, privado y social en el mejoramiento de la infraestructura carretera en el Estado;
+
+VIII. Elegir de entre sus miembros a su Presidente;
+
+IX. Designar de entre sus miembros al Secretario Técnico; y,
+
+X Las demás que le encomienden las leyes.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2014)</small>
+
+###### ARTICULO 54.
+
+El Consejo Consultivo de Comunicaciones y Transportes e Infraestructura Carretera se integra con:
+
+I. El Titular de la Secretaria de Comunicaciones y Obras Públicas;
+
+II. El Director General de la Junta de Caminos;
+
+III. El Presidente de la Comisión de Comunicaciones y Transportes del H. Congreso del Estado;
+
+IV. Tres personas propuestas por las instituciones académicas, públicas o privadas del Estado; y,
+
+V. Una persona propuesta por el Colegio de Ingenieros Civiles del Estado de Michoacán.
+
+Los miembros del Consejo Consultivo de Comunicaciones y Transportes e Infraestructura Carretera, señalados en las fracciones IV y V serán elegidos mediante convocatoria pública emitida por el Poder Ejecutivo del Estado; todos los miembros tendrán carácter honorario, durarán tres años en su encargo y no podrán ser reelectos. El Secretario Técnico del Consejo, participará en las sesiones con derecho a voz, pero sin voto.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor el día dos de agosto de mil novecientos ochenta y dos.
@@ -454,7 +508,7 @@ Por tanto, mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Michoacán, a 12 de julio de 1982.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ING. CUAUHTEMOC CARDENAS SOLORZANO.- EL SECRETARIO DE GOBIERNO.- DR. ROBERTO ROBLES GARNICA.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE DICIEMBRE DE 1998.
 
@@ -471,3 +525,11 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 8 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Ejecutivo del Estado de Michoacán, contará con el término de seis meses a partir de la entrada en vigor del presente Decreto, para aprobar el Reglamento, lineamientos y manuales de procedimientos, a efecto de que se lleve a cabo la presente reforma.
+
+TERCERO. Notifíquese al Titular del Poder Ejecutivo del Estado para los fines de su publicación.
