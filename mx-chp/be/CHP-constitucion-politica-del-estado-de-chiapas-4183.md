@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2014-04-10"
+last_updated: "2014-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2014.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1065,7 +1065,9 @@ XXVI. Pedir la destitución por mala conducta, violación a los derechos humanos
 
 XXVII. Crear Patronatos en los cuales participe la ciudadanía como coadyuvante de la Administración Pública en actividad de interés social, dotándolos de los recursos necesarios para el mejor logro de sus fines, así como vigilar la correcta aplicación de dichos recursos por medio de supervisiones o auditorías.
 
-XXVIII. Otorgar previa autorización del Congreso del Estado, concesiones de transporte público de conformidad con la ley respectiva.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2014)</small>
+
+XXVIII. Otorgar concesiones de transporte público de conformidad con la ley respectiva.
 
 XXIX. Convocar a plebiscito en los términos que establezca esta Constitución y la ley. No podrán consultarse por esta vía los actos o resoluciones de los poderes Legislativo y Judicial del Estado.
 
@@ -4132,3 +4134,9 @@ P.O. 10 DE ABRIL DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 8 DE MAYO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
