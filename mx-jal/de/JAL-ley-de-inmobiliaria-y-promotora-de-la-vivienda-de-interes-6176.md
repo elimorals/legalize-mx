@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-inmobiliaria-y-promotora-de-la-vivienda-de-interes-6176"
 country: "mx"
 rank: "ley"
 publication_date: "1978-08-31"
-last_updated: "2003-03-04"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE INMOBILIARIA Y PROMOTORA DE LA VIVIENDA DE INTERES PUBLICO DEL ESTADO - ANTES LEY ORGANICA DE LA INMOBILIARIA DE INTERES PUBLICO DEL ESTADO-
 
-LEY ORGANICA DE LA INMOBILIARIA Y PROMOTORA DE LA VIVIENDA DE INTERES PUBLICO DEL ESTADO
+LEY ORGÁNICA DE LA INMOBILIARIA Y PROMOTORA DE LA VIVIENDA DE INTERÉS PÚBLICO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE LA VIVIENDA, PUBLICADA EN EL P.O. DE 9 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 31 de agosto de 1978.
 
@@ -73,7 +75,7 @@ VI.- Promover e integrar las dotaciones de tierra para el desarrollo de los prog
 
 VII.- Conceder, en la medida de sus posibilidades, financiamientos para la adquisición y construcción de vivienda popular y para la realización de acciones que tiendan a solucionar el problema de la vivienda.
 
-VIII.- Impulsar la creación de parques de materiales , sociedades cooperativas y de empresas dedicadas a la producción y comercialización de materiales e implementos para la vivienda, infraestructura y equipamiento urbano y participar o asociarse con estas últimas en sus actividades.
+VIII.- Impulsar la creación de parques de materiales, sociedades cooperativas y de empresas dedicadas a la producción y comercialización de materiales e implementos para la vivienda, infraestructura y equipamiento urbano y participar o asociarse con estas últimas en sus actividades.
 
 IX.- Enajenar, gravar o construir inmuebles, por cuenta propia o de terceros a que se refieren los anteriores objetivos.
 
@@ -607,7 +609,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO DE ALBA MARTÍN.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE MARZO DE 1990.
 
@@ -632,3 +634,27 @@ Cuarto. Se derogan todas las disposiciones que se opongan a la presente Ley.
 P.O. 4 DE MARZO DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
+
+P.O. 9 DE MAYO DE 2014.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Segundo. Se abroga la Ley Orgánica de la Inmobiliaria y Promotora de la Vivienda de Interés Público del Estado.
+
+Tercero. El organismo público descentralizado denominado Instituto Jalisciense de la Vivienda se integrará con la estructura orgánica, recursos humanos, financieros y materiales de la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado, facultándose a la Secretaría de Planeación, Administración y Finanzas, para que lleve las acciones necesarias para el cumplimiento de este artículo.
+
+Cuarto. En el proceso de instalación del organismo público descentralizado denominado Instituto Jalisciense de la Vivienda a que se refiere este Decreto, serán respetados los derechos laborales de los servidores públicos en los términos de Ley.
+
+Quinto. El Instituto Jalisciense de la Vivienda se subroga en todos los derechos y obligaciones de la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado, por lo que los recursos humanos y económicos, bienes muebles y demás equipo de trabajo, así como todo tipo de derechos u obligaciones a cargo de la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado, se transfieren al Instituto Jalisciense de la Vivienda.
+
+Sexto. Los asuntos en trámite de la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado ante dependencias y entidades de la administración pública federal, estatal o municipal, personas físicas y jurídicas, públicas o privadas, continuarán sustanciándose conforme a la Ley Orgánica de la Inmobiliaria y Promotora de la Vivienda de Interés Público del Estado y demás disposiciones legales aplicables, y serán resueltos por el Instituto Jalisciense de la Vivienda, facultándose a la Junta de Gobierno o al Director General del propio Instituto Jalisciense de la Vivienda, según corresponda, a realizar los actos y suscribir los documentos e instrumentos públicos inherentes.
+
+Séptimo. La Junta de Gobierno del organismo público descentralizado denominado Instituto Jalisciense de la Vivienda, deberá quedar instalada en un plazo no mayor de 60 días hábiles, contados a partir de la entrada en vigor del presente ordenamiento jurídico.
+
+Octavo. El Consejo Técnico Ciudadano del Instituto deberá quedar constituido en un plazo no mayor de 90 días hábiles, contados a partir de la instalación de la Junta de Gobierno.
+
+Noveno. La Junta de Gobierno aprobará el Reglamento Interno del Instituto Jalisciense de la Vivienda en un plazo no mayor a 90 días hábiles, contados a partir de la fecha de su instalación y derivarlo al titular del Poder Ejecutivo del Estado para su expedición.
+
+Décimo. Se deroga cualquier disposición legal o administrativa que contravenga la presente Ley.
+
+Décimo primero. Quedan vigentes todas las disposiciones reglamentarias, en cuanto no se opongan a este decreto.
