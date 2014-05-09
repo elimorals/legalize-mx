@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2013-05-21"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -2643,7 +2643,9 @@ En los casos en que los que ejerzan la patria potestad, gocen de la mitad del us
 
 Se suspende la obligación de dar alimentos:
 
-I. Cuando el que la tiene carece de medios para cumplirla;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2014)</small>
+
+I. Cuando el que la tiene esté en imposibilidad para cumplirla, por impedimento para poder trabajar y por carecer de bienes propios, en tanto subsistan estas circunstancias;
 
 II. Cuando el alimentista deja de necesitar los alimentos;
 
@@ -2674,6 +2676,12 @@ Lo dispuesto en los dos artículos anteriores, es aplicable a la mujer, cuando t
 ###### Art. 380.
 
 Cuando alguna persona muera, quede total y permanentemente incapacitada, por motivo del desempeño de funciones o empleos públicos, sin contar con bienes propios que basten al sostenimiento de sus hijos menores de 18 años de edad o incapacitados, el Estado y los Municipios según el caso tendrán la obligación de proporcionar alimentos a dichos hijos.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2014)</small>
+
+###### Art. 380-A.
+
+El Estado otorgará a través de las instituciones y programas establecidos, el acceso a los servicios de asistencia social, de salud y de educación, para el caso de los menores hijos o incapacitados que no logren la obtención del pago de alimentos por parte de quienes tienen la obligación de darlos.
 
 ## Título Séptimo. De la paternidad y filiación
 
@@ -6587,7 +6595,7 @@ El que posee por menos de un año, a título traslativo de dominio y con mala fe
 
 I. A restituir los frutos percibidos;
 
-II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el solo transcurso del tiempo.
+II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el sólo transcurso del tiempo.
 
 Tiene derecho a que se le reembolsen los gastos necesarios.
 
@@ -7357,7 +7365,7 @@ V. Cuando constituída en virtud de un derecho revocable, se venza el plazo, se 
 
 ###### Art. 1225.
 
-Si los predios entre los que está constituida una servidumbre legal pasan a poder de un mismo dueño, deja de existir la servidumbre, pero separadas nuevamente las propiedades, revive aquélla, aun cuando no se haya conservado ningún signo aparente.
+Si los predios entre los que está constituida una servidumbre legal pasan a poder de un mismo dueño, deja de existir la servidumbre, pero separadas nuevamente las propiedades, revive aquella, aun cuando no se haya conservado ningún signo aparente.
 
 ###### Art. 1226.
 
@@ -7531,7 +7539,7 @@ II. La acción de cualquier comerciante para cobrar el precio de objetos vendido
 
 La prescripción corre desde el día en que fueron entregados los objetos, si la venta no se hizo a plazo;
 
-III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
+III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquél en que se ministraron los alimentos;
 
 IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
 
@@ -8697,7 +8705,7 @@ El deudor solidario que paga por entero la deuda, tiene derecho de exigir de los
 
 Salvo convenio en contrario, los deudores solidarios están obligados entre sí por partes iguales.
 
-Si la parte que incumbe a un deudor solidario no puede obtenerse de él, el déficit debe ser repartido entre los demás deudores solidarios, aun entre aquéllos a quienes el acreedor hubiere libertado de la solidaridad.
+Si la parte que incumbe a un deudor solidario no puede obtenerse de él, el déficit debe ser repartido entre los demás deudores solidarios, aun entre aquellos a quienes el acreedor hubiere libertado de la solidaridad.
 
 En la medida que un deudor solidario satisface la deuda, se subroga en los derechos del acreedor.
 
@@ -8729,7 +8737,7 @@ Las obligaciones divisibles en que haya más de un deudor o acreedor se regirán
 
 Cada uno de los que han contraído conjuntamente una deuda indivisible, está obligado por el todo, aunque no se haya estipulado solidaridad.
 
-Lo mismo tiene lugar respecto de los herederos de aquel que haya contaído (sic) una obligación indivisible.
+Lo mismo tiene lugar respecto de los herederos de aquel que haya contaído una obligación indivisible.
 
 ###### Art. 1495.
 
@@ -9195,7 +9203,7 @@ Los gastos de entrega serán de cuenta del deudor, si no se hubiere estipulado o
 
 ###### Art. 1579.
 
-No es válido el pago hecho con cosa ajena; pero si el pago se hubiere hecho con una cantidad de dinero u otra cosa fungible ajena, no habrá reptición (sic) contra el acreedor que la haya consumido de buena fe.
+No es válido el pago hecho con cosa ajena; pero si el pago se hubiere hecho con una cantidad de dinero u otra cosa fungible ajena, no habrá repetición contra el acreedor que la haya consumido de buena fe.
 
 ###### Art. 1580.
 
@@ -11671,7 +11679,7 @@ Los actos que el mandatario practique a nombre del mandante, pero traspasando lo
 
 ###### Art. 2097.
 
-El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra éste, si le hubiere dado a conocer cuales fueron aquéllas y no se hubiere obligado personalmente por el mandante.
+El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra éste, si le hubiere dado a conocer cuales fueron aquellas y no se hubiere obligado personalmente por el mandante.
 
 ### Capítulo VI. De los diversos modos de terminar el mandato
 
@@ -12267,7 +12275,7 @@ IV. El importe del capital social y la aportación con que cada socio debe contr
 
 ###### Art. 2212.
 
-El contrato de sociedad debe inscribirse en el Registro Público para que produzca efectos contra tercero. Antes de que se inscriba en el Registro Público de la Propiedad el contrato de sociedad, surtirá efectos entre los socios. Los terceros sí podrán aprovecharse de la existencia de la sociedad, y de los términos del pacto social, aún cuando no haya sido registrada, pero la falta de registro no se les podrá oponer en su perjuicio.
+El contrato de sociedad debe inscribirse con el Registro Público para que produzca efectos contra tercero. Antes de que se inscriba en el Registro Público de la Propiedad el contrato de sociedad, surtirá efectos entre los socios. Los terceros sí podrán aprovecharse de la existencia de la sociedad, y de los términos del pacto social, aun cuando no haya sido registrada, pero la falta de registro no se les podrá oponer en su perjuicio.
 
 ###### Art. 2213.
 
@@ -12525,7 +12533,7 @@ El que hubiere firmado una obligación que en realidad tenía por causa de una d
 
 ###### Art. 2263.
 
-Si a una obligación de juego o de apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscriptor debe pagarla al portador de buena fe, y tendrá derecho de repetir contra el primitivo acreedor en los términos del artículo 2257.
+Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscritor debe pagarla al portador de buena fe, y tendrá derecho a repetir contra el primitivo acreedor en los términos del artículo 2257.
 
 ###### Art. 2264.
 
@@ -12649,7 +12657,7 @@ La fianza puede ser legal, judicial, convencional, gratuita o a título oneroso.
 
 ###### Art. 2291.
 
-La fianza puede constituirse no sólo en favor del deudor principal, sino en el del fiador, ya sea que uno u otro, en su respectivo caso, consienta en la garatnía (sic), ya sea que la ignore, ya sea que la contradiga.
+La fianza puede constituirse no sólo en favor del deudor principal, sino en el del fiador, ya sea que uno u otro, en su respectivo caso, consienta en la garantía, ya sea que la ignore, ya sea que la contradiga.
 
 ###### Art. 2292.
 
@@ -12823,7 +12831,7 @@ Si el fiador hubiese transigido con el acreedor, no podrá exigir del deudor sin
 
 ###### Art. 2327.
 
-Si el fiador hace el pago sin ponerlo en conocimiento del deudor, podría éste oponerle todas las excepciones que podrá oponer al acreedor al tiempo en que se hizo el pago.
+Si el fiador hace el pago sin ponerlo en conocimiento del deudor, podriá éste oponerle todas las excepciones que podrá oponer al acreedor al tiempo en que se hizo el pago.
 
 ###### Art. 2328.
 
@@ -13181,7 +13189,7 @@ Los bienes pertenecientes a personas que no tienen la libre disposición de ello
 
 ###### Art. 2397.
 
-La hipoteca constituida sobre derechos reales, sólo durará mientras éstos subsistan; pero si los derechos en que aquélla se hubiere constituido se han extinguido por culpa del que los disfrutaba, estará esté obligado a constituir una nueva hipoteca a satisfacción del acreedor, y en caso contrario a pagarle todos los daños y perjuicios.
+La hipoteca constituida sobre derechos reales, sólo durará mientras éstos subsistan; pero si los derechos en que aquélla se hubiere constituido se han extinguido por culpa del que los disfrutaba, estará éste obligado a constituir una nueva hipoteca a satisfacción del acreedor, y en caso contrario a pagarle todos los daños y perjuicios.
 
 ###### Art. 2398.
 
@@ -13535,7 +13543,7 @@ La proposición de convenio se discutirá y pondrá a votación, formando resolu
 
 ###### Art. 2461.
 
-Dentro de los ocho días siguientes a la celebración de la junta en que se hubiere aprobado el convenio, los acreedores dicidentes y los que no hubieren concurrido, a la junta podrán oponerse a la aprobación del mismo.
+Dentro de los ocho días siguientes a la celebración de la junta en que se hubiere aprobado el convenio, los acreedores desidentes (sic) y los que no hubieren concurrido, a la junta podrán oponerse a la aprobación del mismo.
 
 ###### Art. 2462.
 
@@ -13735,7 +13743,7 @@ En cada cabecera de Partido Judicial habrá una Oficina del Registro Público.
 
 Los títulos a que se refiere el artículo 2495 se inscribirán:
 
-a) En la Oficina del Partido Judicial de ubicación del inmueble aquéllos a que se refieren las fracciones I, II, III, IX, X, XI, y XIII.
+a) En la Oficina del Partido Judicial de ubicación del inmueble aquellos a que se refieren las fracciones I, II, III, IX, X, XI, y XIII.
 
 b) En la Oficina del Partido en donde se hubieren otorgado los contratos a que se refiere la fracción V.
 
@@ -13777,11 +13785,11 @@ En todos los casos comprendidos en el presente Capítulo, en los que se disponga
 
 Se inscribirán en el Registro:
 
-I. Los títulos por los cuales se adquiere, transmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles, así como aquéllos por los cuales se constituya fideicomiso sobre inmuebles;
+I. Los títulos por los cuales se adquiere, transmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles, así como aquellos por los cuales se constituya fideicomiso sobre inmuebles;
 
 II. La constitución del patrimonio de la familia;
 
-III. Los contratos de arrendamiento de bienes inmuebles por un periodo mayor de seis años y aquéllos en que haya anticipos de rentas por más de tres;
+III. Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres;
 
 IV. La condición resolutoria en las ventas a que se refieren las fracciones I y II del artículo 1808;
 
@@ -14401,7 +14409,7 @@ El heredero por testamento, que muera antes que el testador o antes de que se cu
 
 ###### Art. 2593.
 
-En los casos del artículo anterior la herencia pertenece a los herederos legítimos del testador, a no ser que éste haya dispuesto otra cosa o que deba tener lugar el derecho a crecer.
+En los casos del artículo anterior la herencia pertenece a los herederos legítimos del testador, a no ser que éste haya dispuesto otra cosa o que deba tener lugar el derecho a crecer (sic).
 
 ###### Art. 2594.
 
@@ -14409,7 +14417,7 @@ El que hereda en lugar del excluido, tendrá las mismas cargas y condiciones que
 
 ###### Art. 2595.
 
-Los deudores de la sucesión que fueren demandados y que no tengan el carácter de herederos, no podrán oponer, al que esté en en (sic) posesión del derecho de heredero o legatario, la excepción de incapacidad.
+Los deudores de la sucesión que fueren demandados y que no tengan el carácter de herederos, no podrán oponer, al que esté en posesión del derecho de heredero o legatario, la excepción de incapacidad.
 
 ###### Art. 2596.
 
@@ -14467,7 +14475,7 @@ Si la condición es puramente potestativa de dar o hacer alguna cosa, y el que h
 
 ###### Art. 2609.
 
-La condición potestativa se tendrá por cumplida aún cuando el heredero o legatario haya prestado la cosa o el hecho antes de que se otorgara el testamento, a no ser que la prestación pueda repetirse, en cuyo caso no será ésta obligatoria sino cuando el testador haya tenido conocimiento de la primera.
+La condición potestativa se tendrá por cumplida aun cuando el heredero o legatario haya prestado la cosa o el hecho antes de que se otorgara el testamento, a no ser que la prestación pueda repetirse, en cuyo caso no será ésta obligatoria sino cuando el testador haya tenido conocimiento de la primera.
 
 ###### Art. 2610.
 
@@ -15129,7 +15137,7 @@ II. Público cerrado;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-III. Público simplificado; y
+III. Público simplificado;
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -16787,7 +16795,7 @@ El presente decreto entrará en vigor a los sesenta días siguientes al de su pu
 
 ###### ARTICULO SEGUNDO.
 
-Las personas que hayan realizado el procedimiento de adopción, podrán optar por la adopción plena en los términos del presente decreto, siempre y cuando les soliciten al Juez competente el cambio de situación jurídica para que éste, sin más trámite, haga la declaratoria correspondiente.
+Las personas que hayan realizado el procedimiento de adopción, podrán optar por la adopción plena en los términos del presente decreto, siempre y cuando le soliciten al Juez competente el cambio de situación jurídica para que éste, sin más trámite, haga la declaratoria correspondiente.
 
 Para los efectos del artículo 458, en la declaratoria el Juez ordenará al Oficial del Registro Civil, la cancelación de las actas de nacimiento y adopción, así como para que levante el acta de nacimiento correspondiente.
 
@@ -16797,7 +16805,7 @@ En los procedimientos de adopción en trámite, a la entrada en vigor del presen
 
 ###### ARTICULO CUARTO.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia, se coordinará con los Ayuntamientos de la Entidad, a efecto de que la Procuraduría en materia de Asistencia Social, tengan la intervención que les señala este decreto en los procedimientos de adopción.
+El Sistema Estatal para el Desarrollo Integral de la Familia, se coordinará con los Ayuntamientos de la Entidad, a efecto de que la Procuraduría en materia de Asistencia Social, tengan la intervención que le señala este decreto en los procedimientos de adopción.
 
 P.O. 4 DE JULIO DE 1997.
 
@@ -16954,3 +16962,7 @@ En tanto se realizan los ajustes en el Reglamento Interior y demás normatividad
 Artículo Cuarto. La Secretaría de Turismo sustituye en todos los derechos, obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Turístico.
 
 Para todos los efectos legales correspondientes, la Secretaría de Turismo a que alude el presente Decreto, se entenderá referida a la Secretaría de Desarrollo Turístico, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+P.O. 9 DE MAYO DE 2014.
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
