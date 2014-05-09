@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-vivienda-para-el-estado-de-jalisco-y-sus-municipios-2020
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2000-12-28"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE VIVIENDA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 9 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 9 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en la Sección Trigésima del Periódico Oficial del Estado de Jalisco, el 28 de diciembre de 2000.
 
@@ -646,3 +648,21 @@ ING. ALBERTO CARDENAS JIMENEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FELIPE DE JESÚS PRECIADO CORONADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MAYO DE 2014.
+
+Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Segundo. Se abroga la Ley de Vivienda para el Estado de Jalisco y sus Municipios, contenida en el Decreto 18730 y sus posteriores reformas.
+
+Tercero. Los asuntos que se encuentren en trámite con fundamento en la Ley de Vivienda para el Estado de Jalisco y sus Municipios, seguirán sustanciándose y resolverán conforme a lo dispuesto en la misma.
+
+Cuarto. En tanto se expiden las disposiciones reglamentarias, administrativas y técnicas que se deriven de esta Ley, continuarán aplicándose los reglamentos y acuerdos que sobre la materia se hubieren expedido con anterioridad en todo lo que no se oponga a este ordenamiento.
+
+Quinto. Se concede un plazo de noventa días hábiles para que el Gobernador del Estado expida las disposiciones reglamentarias administrativas y técnicas a que se refiere el transitorio anterior.
+
+Sexto. Los recursos humanos, financieros y materiales del Organismo Público Descentralizado denominado "Inmobiliaria y Promotora de Vivienda de Interés Público”, pasarán a formar parte del Instituto Jalisciense de la Vivienda.
+
+Séptimo. Se derogan las disposiciones que se opongan a la presente Ley.
