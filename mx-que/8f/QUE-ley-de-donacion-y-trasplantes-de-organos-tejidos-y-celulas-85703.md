@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-donacion-y-trasplantes-de-organos-tejidos-y-celulas-8570
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-27"
-last_updated: "2012-01-27"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de enero de 2012.
 
@@ -193,7 +193,9 @@ VIII. Proponer a la autoridad competente, la revocación de autorizaciones sanit
 
 IX. Diseñar e impartir cursos de capacitación a quienes participen en el proceso de donación y trasplante de órganos, tejidos y células humanas, así como a la población en general;
 
-X. Contar con un Registro Estatal de Trasplantes, en coordinación con el Centro Nacional de Trasplantes;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2014)</small>
+
+X. Contar con un Registro Estatal de Trasplantes, en coordinación con el Centro Nacional de Trasplantes, así como con una base de datos digitalizada de donadores de órganos;
 
 XI. Asesorar en la integración de los expedientes de las instituciones médicas o establecimientos que cuenten con autorización para la disposición de órganos, tejidos y células humanas, así como en la creación de Coordinaciones Hospitalarias;
 
@@ -595,23 +597,41 @@ II. La donación de sangre, componentes sanguíneos y células progenitoras hema
 
 La donación expresa deberá producirse en los términos que establece la Ley General de Salud y en cualquiera de las siguientes modalidades:
 
-I. Mediante escrito privado, que deberá firmarse junto con dos testigos y podrá ratificarse ante Notario Público, en cuyo caso dicho trámite será gratuito;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2014)</small>
 
-II. Mediante testamento público;
+I. Mediante escrito privado, que deberá firmarse junto con dos testigos;
 
-III. Mediante consentimiento firmado ante dos testigos, al momento de obtener su licencia o permiso de conducir expedidos por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2014)</small>
+
+II. Mediante escrito ratificado ante Notario Público;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2014)</small>
+
+III. Mediante consentimiento firmado ante dos testigos, al momento de obtener la licencia de conducir expedida por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo;
 
 IV. Mediante consentimiento expresado ante el Oficial del Registro Civil, al momento de contraer matrimonio, asentándose razón de ello en el acta respectiva; o
 
 V. Mediante el uso de los formatos oficiales que defina el CONATRA, los cuales serán difundidos y distribuidos por el Centro y por las demás instituciones públicas y privadas que así lo soliciten a éste último.
 
-Los notarios públicos y los oficiales del registro civil ante quienes se ratifique la voluntad de ser donador de órganos y tejidos, bajo su más estricta responsabilidad, evitarán el acceso a dicha información, a terceros ajenos al propio donador.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2014)</small>
+
+Los Notarios Públicos, los funcionarios de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado y los Oficiales del Registro Civil ante quienes se ratifique la voluntad de ser donador de órganos y tejidos, evitarán, bajo su más estricta responsabilidad, que personas distintas al Centro Estatal de Trasplantes, tengan acceso a la información proporcionada por el donador.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2014)</small>
+
+El Poder Ejecutivo del Estado, generará convenios con los Notarios Públicos con el objeto de que sea gratuito el trámite señalado en la fracción II del presente artículo. La relación de Notarías convenidas, se publicará en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en los principales medios de comunicación de la Entidad.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2014)</small>
 
 ###### Artículo 37.
 
-Cuando se trate de testamento público abierto, el Notario deberá informar por escrito al Centro sobre la voluntad del disponente, solamente en lo que respecta al consentimiento expreso para la donación de su cuerpo o de órganos, tejidos y células humanas. La misma obligación tendrá cuando reciba testamento público cerrado, si tal disposición le es comunicada por el testador, haciendo las aclaraciones pertinentes y citando en todo caso, los datos de identificación del instrumento notarial correspondiente.
+En los casos referidos en las fracciones II y III, del artículo 36 de la presente Ley, se deberá ingresar la información del disponente en la base de datos digitalizada de donadores de órganos, así como la digitalización de sus huellas dactilares, para formar parte de la misma base de datos. El Notario y la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado deberán dar aviso de forma inmediata al Centro Estatal de Trasplantes sobre la voluntad del disponente, por escrito o por medios electrónicos.
 
-El Registro Civil, mediante convenio con el Centro, le proveerá oportunamente la información que sobre el consentimiento para la disposición de órganos, tejidos y células humanas, otorgaren ante sus oficiales quienes contraigan matrimonio.
+El programa de cómputo encargado de organizar la base de datos digitalizada de donadores de órganos, así como los implementos necesarios para su funcionamiento, se estandarizará para todas las Notarías del Estado y la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado; su instalación y verificación corresponderá al Centro. La base de datos digitalizada se enlazará por red cibernética con el Centro Estatal de Trasplantes, mismo que dispondrá de módulos de lectura, para consulta únicamente, en aquellos hospitales públicos y privados que cuenten con licencia para trasplantar y procurar órganos o los lugares que considere conveniente el mismo Centro, quien será el encargado de supervisar el buen manejo de la base de datos digitalizada y garantizar la privacidad de la información.
+
+La Dirección Estatal del Registro Civil, mediante convenio con el Centro Estatal de Trasplantes, proveerá oportunamente la información que otorgaren quienes contraigan matrimonio ante sus oficiales, sobre el consentimiento para la disposición de órganos, tejidos y células humanas.
+
+El Centro podrá llevar a cabo convenios con instituciones públicas y privadas, para que patrullas, ambulancias y otros vehículos, puedan contar con módulos de lectura para consulta únicamente.
 
 ###### Artículo 38.
 
@@ -647,7 +667,9 @@ VII. El nombre de la institución o instituciones educativas para las cuales se 
 
 VIII. Las demás circunstancias de modo, lugar y tiempo y cualquier otra que condicione la donación;
 
-IX. Nombre, firma y domicilio de los testigos, cuando se trate de testamento público cerrado, documento privado, permiso o licencia de conducir; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2014)</small>
+
+IX. Nombre, firma y domicilio de los testigos, cuando se trate de documento privado y licencia de conducir; y
 
 X. Firma o huella digital del disponente, asentando la fecha y hora de la formalización.
 
@@ -1124,3 +1146,11 @@ Dr. Mario César García Feregrino
 Secretario de Salud
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MAYO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
