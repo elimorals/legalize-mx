@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-vida-silvestre-52334"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-30"
-last_updated: "2014-04-17"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52334&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-11-29"
 
 REGLAMENTO DE LA LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2014.
 
 Reglamento publicado en la Séptima Sección del Diario Oficial de la Federación, el jueves 30 de noviembre de 2006.
 
@@ -39,9 +39,11 @@ REGLAMENTO DE LA LEY GENERAL DE VIDA SILVESTRE
 
 El presente ordenamiento tiene por objeto reglamentar la Ley General de Vida Silvestre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 2.
 
-Además de las definiciones contenidas en el artículo 3o., de la Ley General de Vida Silvestre y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para efectos del presente Reglamento se entendrá (sic) por:
+Además de las definiciones contenidas en el artículo 3o. de la Ley General de Vida Silvestre y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para efectos del presente Reglamento se entenderá por:
 
 I. Características físicas. Conjunto de particularidades observables en un ejemplar, población, especie o área determinada;
 
@@ -52,6 +54,10 @@ III. CITES. Convención sobre el Comercio Internacional de Especies Amenazadas d
 IV. CIVS. Los Centros para la Conservación e Investigación de la Vida Silvestre;
 
 V. Colecciones científicas o museográficas. Los acervos sistematizados de material biológico depositados en instituciones públicas o privadas con fines de investigación, educación o difusión;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+V Bis. Colección privada. Especímenes o ejemplares vivos de especies de vida silvestre, bajo manejo, que pertenecen o se encuentran en posesión de personas físicas o morales para fines que no involucren actividades comerciales o lucrativas. En esta definición se incluyen aquellos ejemplares vivos que por sus características no se consideran como mascotas o animales de compañía, así como las partes o productos transformados de cualquier ejemplar de vida silvestre;
 
 VI. Colecta científica. La captura, remoción o extracción temporal o definitiva de material biológico del medio silvestre, con propósitos no comerciales, para la obtención de información científica, la integración de inventarios o el incremento de los acervos de las colecciones científicas o museográficas. Esta actividad no incluye el acceso a recursos genéticos que se realiza con fines de utilización en biotecnología y bioprospección;
 
@@ -69,9 +75,17 @@ XII. Ley. Ley General de Vida Silvestre;
 
 XIII. Liberación. La acción de dejar en libertad de movimiento o dispersión a un individuo o grupo de individuos de una o más especies silvestres en un hábitat natural de la especie;
 
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XIII Bis. Mascota o animal de compañía. Ejemplares de especies de fauna silvestre que por su comportamiento o conducta natural, derivados o población microbiológica natural pueden convivir con el hombre en un ambiente doméstico bajo manejo y no representan riesgos físicos, sanitarios ni de seguridad para sus propietarios, poseedores o cualquier persona u otros animales. Se excluye de esta definición a las especies exóticas invasoras;
+
 XIV. Material parental. Los ejemplares, partes o derivados de especies silvestres colectados o capturados con fines de reproducción;
 
 XV. Medidas de contingencia. Las acciones que se aplicarán cuando se presenten situaciones que pudieran tener efectos sobre los ejemplares, poblaciones o especies de la vida silvestre y su hábitat, afectando negativamente el logro de las metas de que se traten y que se encuentran incorporadas en el plan de manejo;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XV Bis. Predios o instalaciones que manejan vida silvestre en forma confinada, fuera de su hábitat natural (PIMVS). Los criaderos intensivos, viveros, jardines botánicos o similares que manejen vida silvestre de manera confinada con propósitos de reproducción controlada de especies o poblaciones para su aprovechamiento con fines comerciales;
 
 XVI. Plan de manejo tipo. El plan de manejo elaborado por la Secretaría para homogenizar el desarrollo de las actividades de conservación, manejo y aprovechamiento sustentable de la vida silvestre en especies o grupo de especies que así lo requieran;
 
@@ -223,7 +237,13 @@ II. Transcurrido el plazo sin que se desahogue la prevención, se desechará el 
 
 III. Desahogado el requerimiento señalado en la fracción I, de este artículo, la Secretaría reanudará el plazo de resolución correspondiente, y
 
-IV. Transcurridos los plazos de resolución sin que la Secretaría haya emitido pronunciamiento alguno respecto a la solicitud, se entenderá resuelta en sentido afirmativo.
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+IV. Transcurridos los plazos de resolución sin que la Secretaría haya emitido pronunciamiento alguno respecto a la solicitud, se entenderá resuelta en sentido afirmativo, excepto en los supuestos para los que este Reglamento señale expresamente que la respuesta debe entenderse en sentido negativo.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+La Secretaría negará la autorización de aprovechamiento cuando se actualice cualquiera de los supuestos previstos en el artículo 47 Bis 3 de la Ley.
 
 ###### Artículo 14.
 
@@ -345,13 +365,19 @@ II. No extractivo, y
 
 III. Mixto.
 
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 26.
 
-Los predios o instalaciones que manejen vida silvestre de forma confinada, fuera de su hábitat natural, que no tengan como fin la recuperación de especies o poblaciones para su posterior reintegración a la vida libre, no requerirán aprobación de sus planes de manejo por parte de la Secretaría, y no serán consideradas como UMA en los términos establecidos en la Ley. Sin embargo, deberán elaborar su plan de manejo atendiendo, en lo que les resulte aplicable, a lo previsto en los artículos 40, incisos a) a h), y 78 de la Ley.
+Para efectuar el registro señalado en el artículo 78, segundo párrafo de la Ley, los zoológicos, espectáculos públicos fijos o itinerantes, circos y colecciones privadas se sujetarán a lo dispuesto en los artículos 131 y 131 Bis de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
 
 ###### Artículo 27.
 
-Quedan comprendidos en el supuesto establecido en el artículo anterior, los parques zoológicos y aquellos espectáculos públicos que manejen vida silvestre fuera de su hábitat.
+Los predios o instalaciones que manejan vida silvestre en forma confinada, fuera de su hábitat natural, distintos a los señalados en el artículo anterior, se inscribirán en el padrón a que se refiere el artículo 78, segundo párrafo de la Ley, para lo cual presentarán, para aprobación de la Secretaría, el plan de manejo correspondiente, que contendrá los elementos señalados en el artículo 78 Bis de la Ley y 42 del presente Reglamento.
+
+En estos casos, la Secretaría resolverá lo conducente en términos de lo previsto en el artículo 131 Bis de este ordenamiento.
 
 ###### Artículo 28.
 
@@ -387,13 +413,39 @@ I. Copia de los documentos que acrediten los derechos de propiedad o legítima p
 
 II. El plan de manejo o carta de adhesión a los planes de manejo tipo establecidos por la Secretaría;
 
-III. Descripción de las características físicas y biológicas del predio, que incluya carta topográfica del Instituto Nacional de Estadística, Geografía e Informática o la porción digitalizada del mismo, escala 1:50,000 o de escala adecuada al tamaño del predio, a efecto de trazar el polígono georeferenciado de la unidad de manejo, en que se señalen las coordenadas UTM e indiquen las colindancias mediante el trazo de caminos, rutas de acceso y, en su caso, instalaciones y estructuras tales como encierros, bardas, cercos, espiaderos, comederos, bebederos u otras estructuras que el interesado considere relevantes para la ubicación, y
+III. Descripción de las características físicas y biológicas del predio, que incluya carta topográfica del Instituto Nacional de Estadística, Geografía e Informática o la porción digitalizada del mismo, escala 1:50,000 o de escala adecuada al tamaño del predio, a efecto de trazar el polígono georeferenciado de la unidad de manejo, en que se señalen las coordenadas UTM e indiquen las colindancias mediante el trazo de caminos, rutas de acceso y, en su caso, instalaciones y estructuras tales como encierros, bardas, cercos, espiaderos, comederos, bebederos u otras estructuras que el interesado considere relevantes para la ubicación, y (sic)
 
 IV. En caso de manejo intensivo, deberá presentarse el inventario de ejemplares acompañados de la documentación que acredite su legal procedencia.
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+V. Cuando se trata de manejo en vida libre de fauna silvestre se deberá presentar el estudio de población de las especies que se pretendan aprovechar, conforme a los términos de referencia a que se refiere el artículo 30 Bis de este Reglamento.
 
 El formato de carta de adhesión a que se refiere la fracción II del presente artículo, se publicará en el Diario Oficial de la Federación y estará disponible tanto en la página electrónica de la Secretaría como en las oficinas de dicha dependencia.
 
 La Secretaría sólo otorgará el registro, previa evaluación y aprobación del plan de manejo presentado.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 30 Bis.
+
+La Secretaría formulará los términos de referencia a que se refiere el artículo 47 Bis de la Ley que servirán de base para la elaboración de los estudios de población considerando las especies o grupos de especies, sus características biológicas, ecológicas y los tipos de ecosistema en donde se desarrollan dichas características, así como sus rangos de distribución y cualquier otro aspecto indispensable que permita identificar su estatus poblacional.
+
+Los términos de referencia se difundirán en el portal electrónico de la Secretaría y contendrá los criterios específicos por especie o grupos de especies para facilitar al interesado la elaboración del estudio poblacional que corresponda.
+
+En caso de que no se hayan difundido los términos de referencia que servirán de base para la elaboración del estudio de población de una especie en particular, el interesado elaborará el estudio de poblaciones respectivo, el cual debe contener por lo menos:
+
+I. Especie de interés;
+
+II. Un muestreo de población, en el que se especifique:
+
+a) La superficie muestreada, los resultados del muestreo más reciente realizado sobre la abundancia relativa y estructura en el marco del estudio de poblaciones, con estimaciones estadísticas de natalidad y mortalidad, y el sistema, metodología o técnica de identificación, monitoreo y cuantificación empleado para determinar el número de individuos, especificando la época del año en la cual se llevó a cabo la cuantificación y el período de tiempo durante el cual se realizó, cuando se trate de especies de manejo en vida libre, o
+
+b) El control de movimientos de inventario de ejemplares (ingresos, liberaciones, canalizaciones, nacimientos y defunciones) en el que se deberá indicar la cantidad, género y especie, así como señalar el sistema de marca utilizado y los datos de identificación individual, en el caso de especies de manejo intensivo, y
+
+III. Sistema, metodología o técnica a emplear para la estimación de las tasas de natalidad y mortalidad de las especies de interés que el interesado aplicará con posterioridad a la obtención del registro de la UMA de que se trate.
+
+Los resultados de las estimaciones se integrarán en el informe a que se refiere el artículo 50 del presente Reglamento.
 
 ###### Artículo 31.
 
@@ -445,29 +497,79 @@ V. Treinta días hábiles, cuando se trate de especies en riesgo, objeto del pla
 
 VI. Treinta y cinco días hábiles, si se trata de especies en riesgo, objeto del plan de manejo, que no estén incorporadas en el SUMA por no existir otros planes de manejo que se hayan aprobado en la región.
 
-Dentro de los plazos señalados en el presente artículo, la Secretaría podrá constatar que la infraestructura y las actividades propuestas coincidan con las descritas en el plan de manejo presentado, para lo cual podrá realizar las visitas que sean necesarias, prioritariamente a los predios en los que se pretendan manejar ejemplares o poblaciones exóticos y de especies o poblaciones en riesgo, en los términos del artículo 14 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+Los plazos señalados en las fracciones que anteceden se ampliarán hasta en diez días hábiles más, cuando se trate del registro de UMA de fauna silvestre. En todo caso, dentro de los plazos establecidos en el presente artículo, la Secretaría podrá constatar que la infraestructura y las actividades propuestas coincidan con las descritas en el plan de manejo presentado, para lo cual podrá realizar las visitas que sean necesarias, prioritariamente a los predios en los que se pretendan manejar ejemplares o poblaciones exóticos y de especies o poblaciones en riesgo, en los términos del artículo 14 del presente Reglamento.
 
 Las UMA registradas serán incorporadas de oficio por la Secretaría al SUMA. Los particulares podrán consultar su registro en la página electrónica de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+La Secretaría negará el registro de la UMA de fauna silvestre cuando se actualice alguno de los supuestos previstos en el artículo 47 Bis 3 de la Ley.
 
 ###### Artículo 34.
 
 Los titulares de las UMA podrán fungir como responsables técnicos o designar a terceros para que lleven a cabo esa función, según se establezca en el plan de manejo aprobado.
 
-La designación de un tercero como responsable técnico será responsabilidad exclusiva del titular de la UMA. En los casos de los responsables señalados en el último párrafo del artículo 87 de la Ley, se deberán acreditar las capacidades establecidas en dicho ordenamiento de conformidad con lo dispuesto por el artículo 43 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+La designación de un tercero como responsable técnico será responsabilidad exclusiva del titular de la UMA.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+Los responsables técnicos señalados en los artículos 47 Bis 1 y 87 de la Ley, acreditarán sus capacidades exhibiendo cualquiera de los documentos siguientes:
+
+I. Título o cédula profesional en veterinaria, biología, ecología, oceanología, agronomía, o ciencias afines a éstas, el título respectivo podrá corresponder a cualquier grado académico reconocido por instituciones de educación media superior o superior, públicas o privadas, nacionales o internacionales;
+
+II. Constancias expedidas por institución u organismo nacional o internacional que pueden consistir en certificados, diplomas o cualquier tipo de constancias de estudios con validez oficial en el territorio nacional; o las reconocidas como válidas por las autoridades educativas nacionales, o las que se consideren válidas en el país de conformidad con los tratados internacionales de los que México sea parte, o aquéllas que deriven de acuerdos celebrados por la Secretaría con organismos internacionales en materia de capacitación en el manejo de fauna silvestre, o
+
+III. Tratándose de ejidos o comunidades rurales acta de asamblea en la que conste la experiencia mínima de dos años y que sea miembro del ejido o comunidad de que se trate.
 
 La responsabilidad solidaria de los responsables técnicos a que se refiere el artículo 40 de la Ley, persistirá hasta que cesen los efectos derivados de las medidas de manejo por ellos propuestas y aplicadas, así como de las actividades realizadas bajo su supervisión.
 
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 34 Bis.
+
+Los interesados en registrarse ante la Secretaría como responsables técnicos de UMA de fauna silvestre, presentarán una solicitud que contenga nombre, domicilio para oír y recibir notificaciones, así como teléfono, fax o correo electrónico, a la que se adjuntara la siguiente documentación:
+
+I. Copia de identificación oficial, y
+
+II. Copia de la documentación con la que acreditará su capacidad técnica, en los términos previstos en el artículo 34 del presente Reglamento.
+
+La Secretaría emitirá la resolución que corresponda dentro de los quince días hábiles siguientes a la recepción de la solicitud, para lo cual aplicará en lo conducente el procedimiento previsto en el artículo 13 del presente ordenamiento. Transcurrido dicho plazo sin que la Secretaría haya emitido la resolución, el registro se entenderá negado.
+
+El registro de responsable técnico de fauna silvestre tendrá una vigencia permanente.
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 35.
 
-La vigencia de los registros otorgados, en los casos en que se acredite la propiedad de los predios, será de carácter indefinido.
+La vigencia de los registros de UMA otorgados, en los casos en que se acredite la propiedad de los predios, será de carácter indefinido.
 
-En los casos en que se acredite sólo la legítima posesión de los predios, la vigencia del registro estará determinada por la vigencia de los derechos de posesión conferidos por los documentos presentados.
+En los casos en que se acredite sólo la legítima posesión de los predios, la vigencia del registro estará determinada por la vigencia de los derechos de posesión conferidos por los documentos presentados. Esta vigencia podrá renovarse, sin necesidad de presentar nuevamente más documentación que aquélla con la cual se acredite que se ha renovado, prorrogado o ampliado la vigencia de los derechos de posesión sobre predios sujetos a manejo.
+
+La Secretaría resolverá las solicitudes de renovación de registro señaladas en el párrafo anterior en un plazo de cinco días hábiles contados a partir del día hábil siguiente a aquél en que se presente la solicitud correspondiente.
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
 
 ###### Artículo 36.
 
-La vigencia de los registros a que se refiere el párrafo segundo del artículo anterior podrá renovarse para darle continuidad a las actividades de manejo aprobadas, sin necesidad de presentar nuevamente más documentación que aquélla con la cual se acredite que se ha renovado, prorrogado o ampliado la vigencia de los derechos de posesión sobre predios sujetos a manejo.
+La Secretaría podrá iniciar de oficio el procedimiento para la revocación del registro en los casos a que se refiere el artículo 47 Bis 2, fracciones I, II y IV de la Ley, conforme a lo siguiente:
 
-La Secretaría resolverá las solicitudes de renovación de registro en un plazo de cinco días hábiles contados a partir del día hábil siguiente a aquél en que se presente la solicitud correspondiente.
+I. Notificará al responsable técnico los actos o hechos detectados, que puedan actualizar las hipótesis señaladas en el párrafo anterior, otorgándole un plazo de quince días hábiles para que manifieste lo que a su derecho convenga y proporcione las pruebas que estime convenientes.
+
+Cuando se trate de la hipótesis prevista en la fracción I del artículo 47 Bis 2 de la Ley bastará con que le notifique el inicio del procedimiento anexando la copia certificada de la resolución definitiva por la que se haya suspendido o revocado el aprovechamiento de fauna silvestre en la UMA correspondiente, de la que se desprenda que las causas que motivaron dicha resolución son imputables al responsable técnico;
+
+II. Transcurrido el plazo señalado en el párrafo anterior, sin respuesta del responsable técnico, la Secretaría dictará la resolución que corresponda dentro de un plazo de quince días hábiles;
+
+III. Las pruebas que se admitan a trámite se desahogarán en única audiencia, que deberá verificarse dentro de los ocho días hábiles siguientes a la recepción de las manifestaciones a que se refiere la fracción I del presente artículo.
+
+Concluida dicha audiencia, se otorgará un plazo de tres días hábiles para presentar alegatos de manera escrita, y
+
+IV. Presentados los alegatos o transcurrido el plazo para ello sin que se presentaren, la Secretaría dictará la resolución que corresponda dentro de un plazo de quince días hábiles.
+
+Tratándose de la hipótesis prevista en la fracción III del artículo 47 Bis 2 de la Ley, la Secretaría, en ejecución de la resolución definitiva que en, su caso, haya expedido la PROFEPA, revocará el registro del responsable técnico.
 
 #### Sección Tercera. Planes de manejo
 
@@ -489,9 +591,11 @@ Para los casos establecidos en el artículo 73 de la Ley, el promovente podrá p
 
 Para el caso de las UMA que se ubiquen en la hipótesis contenida en el artículo 74 de la de Ley, la Secretaría promoverá la remoción o adecuación de los cercos y, en su caso, solicitará la modificación del plan de manejo correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 40.
 
-El plan de manejo deberá contener la propuesta del sistema de marca, el cual deberá ajustarse a lo prescrito en la regulación que expida la Secretaría.
+El plan de manejo deberá contener la propuesta del sistema de marca, el cual deberá ajustarse a lo prescrito en la regulación que expida la Secretaría, así como la información biológica de la o las especies sujetas a plan de manejo.
 
 Dentro del segundo tercio de los plazos previstos en el artículo 33 del presente Reglamento para la aprobación del plan de manejo, la Secretaría podrá requerir al interesado la presentación de muestras de la marca propuesta, de conformidad con lo establecido por el artículo 49 de la Ley Federal sobre Metrología y Normalización.
 
@@ -503,9 +607,17 @@ I. Tener experiencia en manejo de vida silvestre y sus hábitat, y
 
 II. Haber participado en la puesta en práctica de investigación de proyectos de manejo integral para la conservación.
 
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 42.
 
-Cuando se pretendan manejar ejemplares o poblaciones de especies exóticas, el plan de manejo deberá contener una evaluación del posible impacto sobre la vida silvestre nativa y su hábitat, así como las medidas de atención a contingencias y eventualidades, tales como fuga de ejemplares que puedan causar la diseminación de enfermedades infecto contagiosas, afectación a poblaciones nativas por competencia y riesgo de hibridación, entre otros.
+Cuando se pretendan manejar ejemplares o poblaciones de especies exóticas, el plan de manejo, que conforme al artículo 27 de la Ley deberá ser previamente aprobado por la Secretaría, contendrá, en lo que resulte técnicamente aplicable, los elementos que se describen en el artículo 78 Bis de dicho ordenamiento, así como:
+
+I. Una evaluación del posible impacto sobre la vida silvestre nativa y su hábitat y las medidas que se adoptarán para la prevención, atención y control de fugas de ejemplares que puedan causar la diseminación de enfermedades infecto contagiosas, afectación a poblaciones nativas por competencia y riesgo de hibridación, entre otros, cuando los ejemplares o poblaciones exóticos a manejar corresponden a especies de fauna silvestre, o
+
+II. Las medidas que se adoptarán para prevenir, evitar o controlar la dispersión o diseminación de partes vegetativas, cuando los ejemplares o poblaciones exóticos a manejar corresponden a especies de flora silvestre y las medidas para atender cualquier tipo de contingencia relacionada con este tipo de especies.
+
+Para la aprobación del plan de manejo a que se refiere este artículo aplicarán los requisitos y procedimiento previstos en los artículos 131 y 131 Bis del presente Reglamento.
 
 ###### Artículo 43.
 
@@ -517,7 +629,9 @@ I. Proceder al registro, aprobando el plan de manejo en los términos y condicio
 
 II. Otorgar el registro condicionado a la modificación del plan de manejo, para lo cual señalará los criterios técnicos para efectuar dicha modificación, o
 
-III. Negar el registro cuando el plan de manejo contravenga lo establecido en la Ley, el presente Reglamento, las normas oficiales mexicanas y demás disposiciones aplicables, o cuando exista falsedad en la información presentada por el interesado.
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+III. Negar el registro de la UMA cuando se actualicen los supuestos previstos en el artículo 41 de la Ley.
 
 En el supuesto de la fracción II del presente artículo, los interesados contarán con un plazo máximo de sesenta días naturales a partir de la notificación correspondiente, para presentar las adecuaciones correspondientes sin necesidad de iniciar nuevamente el trámite para la integración de los predios al SUMA. En caso de no presentar las adecuaciones en el plazo establecido, la Secretaría revocará el registro, sin perjuicio de efectuar el trámite nuevamente.
 
@@ -1027,6 +1141,12 @@ III. Señalar si se trata de especies sujetas a aprovechamiento ligado a zonas d
 
 A la solicitud se anexarán los documentos con los cuales se demuestren las condiciones establecidas en el artículo 84 de la Ley, los cuales podrán ser estudios de población, muestreos, inventarios o información vertida en el informe de monitoreo correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 91 Bis.
+
+La Secretaría podrá autorizar el aprovechamiento extractivo de ejemplares de especies en riesgo cuando se dé prioridad a la colecta y captura para actividades de restauración, repoblamiento, reintroducción e investigación científica, para lo cual el interesado deberá indicar las especificaciones sobre los programas, proyectos o actividades de restauración, recuperación, repoblación, reintroducción y vigilancia para los cuales se solicitan.
+
 ###### Artículo 92.
 
 El aviso de transferencia de derechos derivados de autorizaciones de aprovechamiento extractivo, se presentará ante la Secretaría en escrito libre que deberá contener:
@@ -1048,6 +1168,10 @@ El aprovechamiento extractivo será autorizado mediante tasas que indicarán la 
 La Secretaría emitirá respuesta a las solicitudes de aprovechamiento extractivo de ejemplares, partes o derivados de la vida silvestre dentro de los treinta días hábiles siguientes a su recepción.
 
 Las autorizaciones de aprovechamiento extractivo tendrán una vigencia de ciento ochenta días naturales a partir de la fecha de expedición; en el caso de autorizaciones de aprovechamiento extractivo de temporalidad, la vigencia estará ligada a la temporalidad de la especie.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+Tratándose de las autorizaciones de aprovechamiento extractivo en UMA de fauna cuando la Secretaría no emita resolución en el plazo señalado en el párrafo primero del presente artículo el aprovechamiento se entenderá negado.
 
 ###### Artículo 95.
 
@@ -1083,9 +1207,11 @@ El aprovechamiento sustentable en predios de las entidades federativas y de los 
 
 #### Sección Tercera. Ejemplares de especies silvestres migratorias y en alguna categoría de riesgo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 101.
 
-Los titulares de las UMA en vida libre interesados en llevar a cabo aprovechamiento extractivo de ejemplares de especies silvestres en alguna categoría de riesgo, por sí o a través del responsable técnico de las UMA, deberán solicitarlo a la Secretaría en los términos establecidos en los artículos 85 y 87 de la Ley, y de conformidad con lo prescrito en el artículo 91 del presente Reglamento, incluyendo, además, lo siguiente:
+Los titulares de las UMA en vida libre interesados en llevar a cabo el aprovechamiento extractivo de ejemplares de especies silvestres en alguna categoría de riesgo, por sí o a través del responsable técnico de las UMA, deberán solicitarlo a la Secretaría en los términos establecidos en los artículos 85 y 87 de la Ley, y de conformidad con lo prescrito en el artículo 91 y 91 Bis del presente Reglamento, incluyendo, además, lo siguiente:
 
 I. Los resultados del muestreo más reciente realizado sobre la abundancia relativa y estructura en el marco del estudio de poblaciones, con estimaciones estadísticas de natalidad y mortalidad, y
 
@@ -1417,27 +1543,49 @@ La Secretaría tomará en consideración los resultados del material parental au
 
 ### CAPÍTULO SÉPTIMO. Conservación de la Vida Silvestre fuera de su Hábitat Natural
 
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 131.
 
-La Secretaría integrará un padrón en el cual registrará las colecciones científicas y museográficas, públicas o privadas, de especímenes de especies silvestres, así como los parques zoológicos y espectáculos públicos que manejen vida silvestre fuera de su hábitat, conforme al siguiente procedimiento:
+La Secretaría integrará un padrón en el cual registrará las colecciones científicas y museográficas, públicas o privadas, de especímenes de especies silvestres, así como los predios o instalaciones que manejan vida silvestre en forma confinada, fuera de su hábitat natural, como zoológicos, espectáculos públicos, fijos o itinerantes, circos y colecciones privadas que manejen vida silvestre fuera de su hábitat, para lo cual los interesados presentarán ante la Secretaría una solicitud en el formato que para tal efecto establezca la Secretaría, la cual contendrá los requisitos previstos en las fracciones I, III, IV y V del artículo 12 del presente Reglamento. A dicha solicitud se anexará:
 
-Los titulares de las colecciones científicas y museográficas, públicas o privadas, los responsables de los zoológicos y propietarios de los espectáculos que, conforme al artículo 78 de la Ley, deban registrarse en el Padrón, presentarán ante la Secretaría una solicitud en escrito libre que contenga los requisitos previstos en las fracciones I, III, IV y V del artículo 12 del presente Reglamento, además de lo siguiente:
+I. La documentación que ampare la legal procedencia de los ejemplares. En el caso de colecciones científicas o museográficas dicha documentación incluirá las constancias foliadas en las que se integren los datos sobre el movimiento del material biológico y las copias simples de las fichas de depósito respectivas, y
 
-I. Cuando se trate de las colecciones a que se refiere este artículo, se indicarán los especímenes que integran el acervo de la colección y la información sobre el destino final de ejemplares colectados muertos en su traslado o en campo. A la solicitud se anexará:
+II. El plan de manejo que contenga los elementos descritos en el artículo 78 Bis de la Ley y el inventario de ejemplares de especies silvestres que se manejen, en el cual se indicará el nombre común y científico de la especie, su descripción, el sexo, el tipo y número de marca, así como la siguiente:
 
-La documentación que ampare la legal procedencia del material biológico que forme parte del acervo;
+a) La ubicación de predios o instalaciones, cuando se trate de zoológicos, espectáculos públicos fijos, circos establecidos de manera permanente y colecciones privadas;
 
-a) Las constancias foliadas en las que se integren los datos sobre el movimiento del material biológico, y
+b) La información prevista en el artículo 42 del presente Reglamento, cuando se trate de predios e instalaciones que manejen ejemplares y poblaciones de flora silvestre exóticos, o
 
-b) Las copias simples de las fichas de depósito respectivos.
+c) Los objetivos generales y específicos del plan de manejo, así como las actividades de educación ambiental e investigación que, en su caso, se pretendan realizar, sólo cuando se trate de PIMVS.
 
-II. Cuando se trate de parques zoológicos o de espectáculos públicos que manejen vida silvestre fuera de su hábitat, sus responsables o propietarios especificarán los datos de ubicación del parque zoológico o de la instalación donde se realice el espectáculo.
+En el caso de colecciones científicas o museográficas de ejemplares muertos o de partes o derivados de la vida silvestre, el requisito contenido en la fracción II del presente artículo se tendrá por cumplido únicamente con la presentación del inventario de las especies, partes o derivados que integran el acervo correspondiente, que contenga la información prevista en la propia fracción II.
 
-A la solicitud se anexará el inventario de ejemplares de especies silvestres que se manejen.
+Las personas físicas o morales que queden registradas en el padrón a que se refiere el presente artículo deberán presentar anualmente ante la Secretaría, la información actualizada a que se refieren las fracciones I y II del presente artículo, en el formato que para tal efecto expida la Secretaría. La actualización de la información se integrará en el padrón, una vez que la Secretaría la revise y apruebe y se tendrá por integrada al plan de manejo respectivo.
 
-Recibida la solicitud, se entenderá que la colección ha quedado registrada en el Padrón y la Secretaría expedirá la constancia respectiva dentro de los quince días hábiles siguientes.
+Cuando se trate de espectáculos itinerantes, incluidos los circos que no estén establecidos en algún lugar de manera permanente, a la actualización anual señalada en el párrafo anterior se integrará la información relativa al número de nacimientos: especificando las medidas adoptadas para la supervivencia del ejemplar; muertes: especificando su causa y la forma de disposición final del ejemplar; enfermedades; contingencias ocurridas: especificando las medidas adoptadas para su atención, así como el incremento derivado de la incorporación de nuevos ejemplares, caso en el cual se adjuntará la documentación con la que se acredite la legal procedencia de los mismos.
 
-Los titulares de las colecciones registradas deberán actualizar anualmente ante la Secretaría, la información a que se refieren las fracciones I y II del presente artículo mediante un escrito libre. Una vez recibido el aviso, se entenderá que la información ha quedado actualizada en el Padrón.
+El procedimiento para el registro en el padrón a que se refiere el presente artículo se sujetará a lo previsto en el artículo siguiente.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 131 Bis.
+
+La Secretaría resolverá las solicitudes a que se refiere el artículo anterior en un plazo de treinta días hábiles, conforme al siguiente procedimiento:
+
+I. Recibida la solicitud, y dentro del primer tercio del plazo establecido para la resolución del trámite correspondiente, la Secretaría revisará el plan de manejo correspondiente o los inventarios en el caso de excepción previsto en el artículo 131, fracción II del presente Reglamento y demás documentos presentados y, en su caso, prevendrá al interesado para que complete la información faltante, dentro de un término de quince días hábiles, contados a partir de la fecha en que surta efectos la notificación respectiva. El plazo de resolución se interrumpirá durante el término concedido al particular para desahogar la prevención;
+
+II. Transcurrido el plazo sin que se desahogue la prevención, se desechará el trámite;
+
+III. Desahogado el requerimiento señalado en la fracción I de este artículo, la Secretaría continuará con el análisis del plan de manejo y, en su caso, podrá requerir al interesado para que complemente, rectifique o aclare la información contenida en el mismo concediéndole para tal efecto un término de quince días hábiles, el cual interrumpirá el término de resolución, transcurrido el plazo sin respuesta del interesado, la Secretaría negará el registro solicitado;
+
+IV. Cuando el interesado complemente, aclare o rectifique la información, la Secretaría continuará con el procedimiento, podrá llevar a cabo la constatación física de predios e instalaciones en los términos del artículo 78 Bis de la Ley y, en su caso, resolverá sobre la aprobación o no del plan de manejo respectivo, y
+
+V. Aprobado el plan de manejo otorgará al interesado el número de registro con el que quede incorporado en el padrón a que se refiere el artículo anterior, indicándole, en su caso, las condicionantes y obligaciones de índole técnica que deberá cumplir para el manejo adecuado de las especies objeto del plan.
+
+En el caso de predios o instalaciones que manejan vida silvestre en forma confinada, como zoológicos, espectáculos públicos, fijos o itinerantes, circos y colecciones privadas, el registro que otorgue la Secretaría constituirá la autorización del plan de manejo que, conforme al artículo 78 de la Ley, requieren para su operación.
+
+Transcurrido el plazo de resolución sin que la Secretaría haya otorgado el número de registro solicitado, dicho registro se entenderá negado y, consecuentemente no se considerarán aprobados o autorizados los planes de manejo correspondientes.
 
 ### CAPÍTULO OCTAVO. Aprovechamiento No Extractivo
 
@@ -1491,9 +1639,53 @@ IX. La demás necesaria para evitar efectos negativos sobre la vida silvestre.
 
 Para la transferencia de derechos de aprovechamiento no extractivo, los titulares de autorizaciones seguirán el procedimiento establecido en el artículo 92 de este Reglamento.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 9 DE MAYO DE 2014)</small>
+
+### CAPÍTULO NOVENO. MASCOTAS O ANIMALES DE COMPAÑÍA
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 135 Bis.
+
+Sin perjuicio de los padrones estatales de mascotas de especies silvestres y aves de presa que conforme al artículo 10, fracción IX de la Ley, corresponde crear y administrar a las entidades federativas, la Secretaría expedirá la autorización para la posesión de ejemplares exóticos de fauna silvestre como mascota o animal de compañía.
+
+Los interesados presentarán una solicitud que contenga:
+
+I. Datos de identificación: nombre, domicilio donde se encuentra el ejemplar y, en su caso, domicilio para oír y recibir notificaciones, teléfono, fax o correo electrónico, en su caso;
+
+II. Datos del ejemplar: nombre común, edad aproximada y sexo;
+
+III. Información relativa al lugar en donde se encuentra el ejemplar: superficie en donde se alberga, describiendo las características de iluminación, ventilación y espacio para su movilidad, e
+
+IV. Información relativa a los cuidados que se brindan al ejemplar: alimentación, disponibilidad de agua y de sombra, limpieza, rutinas de ejercicio, vacunas, métodos de control de reproducción y calendario de supervisión médica, la que como mínimo será de una vez al año.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 135 Bis 1.
+
+A la solicitud señalada en el artículo anterior se anexará:
+
+I. Copia de identificación oficial del interesado;
+
+II. Copia del comprobante del domicilio donde se encuentre el ejemplar;
+
+III. Copia de la documentación con la que se demuestre la legal procedencia, en su caso;
+
+IV. Copia de las cartillas o demás documentación médica del ejemplar, y
+
+V. Carta compromiso en la que el interesado asuma la responsabilidad en el cuidado del ejemplar, así como la obligación de informar a la Secretaría sobre la defunción del mismo y sus causas.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 135 Bis 2.
+
+La Secretaría emitirá la resolución que corresponda dentro de los quince días hábiles siguientes a la recepción de la solicitud, para lo cual aplicará en lo conducente el procedimiento previsto en el artículo 13 del presente ordenamiento. Transcurrido dicho plazo sin que la Secretaría haya emitido la resolución, la autorización se entenderá negada.
+
+La autorización que expida la Secretaría será indefinida, personal e intransferible y no eximirá al interesado del cumplimiento de las disposiciones jurídicas estatales o municipales aplicables a las mascotas o animales de compañía.
 
 ## TÍTULO SEXTO. INSPECCIÓN, VIGILANCIA, MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 136.
 
@@ -1612,3 +1804,13 @@ D.O.F. 17 DE ABRIL DE 2014.
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, EN SU FRACCIÓN III, 62, PÁRRAFO PRIMERO, 65, PÁRRAFO PRIMERO, 70, 71 Y 72, PÁRRAFO PRIMERO Y EN SUS FRACCIONES I, IV Y V, Y SE ADICIONA UN ARTÍCULO 73 BIS, DEL REGLAMENTO DE LA LEY GENERAL DE VIDA SILVESTRE.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las personas morales que a la entrada en vigor del presente Decreto se encuentren registradas como responsable técnico de UMA de fauna silvestre, deberán registrar de manera individual a las personas que brindan los servicios respectivos en un plazo de 180 días hábiles contados a partir de la entrada en vigor de este instrumento.
+
+Tercero. Los titulares de predios o instalaciones que manejan vida silvestre en forma confinada, fuera de su hábitat natural, que a la entrada en vigor del presente Decreto cuenten con su plan de manejo, deberán actualizarlo atendiendo a lo previsto en el artículo 78 Bis de la Ley y 42 del presente Reglamento y presentarlo para aprobación de la Secretaría dentro del plazo de 180 días contados a partir de la entrada en vigor de este Decreto.
+
+Cuarto. La Secretaría difundirá en su sitio web información que oriente a los particulares sobre el cuidado y disposición final de ejemplares de fauna silvestre exótica invasora que a la entrada en vigor del presente Decreto se utilicen como mascotas o animales de compañía y cuya posesión no sea posible autorizar.
