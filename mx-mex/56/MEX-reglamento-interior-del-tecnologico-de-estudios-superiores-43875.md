@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4387
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-24"
-last_updated: "2005-02-24"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE JILOTEPEC
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE JILOTEPEC
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE JILOTEPEC
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE MAYO DE 2014.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 24 de febrero de 2005.
 
@@ -141,11 +141,33 @@ II. Subdirección de Vinculación y Extensión.
 
 III. Subdirección de Administración y Finanzas.
 
-IV. División de Ingeniería Industrial e Ingeniería Mecatrónica.
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
 
-V. División de Licenciatura en Informática e Ingeniería en Sistemas Computacionales.
+IV. División de Ingeniería Industrial.
 
-VI. Unidad Jurídica.
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
+
+V. División de Ingeniería en Sistemas Computacionales.
+
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
+
+VI. División de Ingeniería Mecatrónica.
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2014)</small>
+
+VII. División de Ingeniería Civil.
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2014)</small>
+
+VIII. División de Licenciatura en Informática.
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2014)</small>
+
+IX. División de Licenciatura en Administración.
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2014)</small>
+
+X. Unidad Jurídica
 
 La Dirección contará con las demás unidades administrativas que le sean autorizadas cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Tecnológico; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
@@ -195,9 +217,29 @@ A la Subdirección Académica le corresponde planear, coordinar, controlar y eva
 
 Quedan adscritas a la Subdirección Académica:
 
-I. División de Ingeniería Industrial e Ingeniería Mecatrónica.
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
 
-II. División de Licenciatura en Informática e Ingeniería en Sistemas Computacionales.
+I. División de Ingeniería Industrial.
+
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
+
+II. División de Ingeniería en Sistemas Computacionales.
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2014)</small>
+
+III. División de Ingeniería Mecatrónica.
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2014)</small>
+
+IV. División de Ingeniería Civil.
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2014)</small>
+
+V. División de Licenciatura en Informática
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2014)</small>
+
+VI. División de Licenciatura en Administración.
 
 ###### Artículo 15.
 
@@ -420,3 +462,13 @@ ING. JOSE MANUEL GARCIA VERA
 DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE JILOTEPEC Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
