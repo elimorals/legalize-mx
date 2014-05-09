@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2014-04-08"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "JAL"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 9 DE MAYO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE MAYO DE 2014.</small>
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -2786,7 +2786,9 @@ Para informarse del texto, vigencia, sentido y alcance legal del derecho extranj
 
 Después de la contestación de la demanda o, en su caso, de contestado el escrito en que se proponga compensación o reconvención, la denuncia del pleito a un tercero, y una vez desahogada la audiencia prevista por el artículo 282 bis, el juez deberá citar a la audiencia de pruebas y alegatos, la que tendrá verificativo dentro de los treinta días posteriores a la petición.
 
-La audiencia será oral y una vez abierta se procederá al desahogo, por su orden, de las pruebas ofertadas, primero las de la parte actora, posteriormente las del demandado y, una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes para oír sentencia, misma que deberá ser dictada dentro del término legal.
+> <small>(F. DE E., P.O. 9 DE MAYO DE 2014)</small>
+
+La audiencia será oral y una vez abierta se procederá a la presentación y al desahogo, por su orden, de las pruebas ofertadas, primero las de la parte actora, posteriormente las del demandado y, una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes para oír sentencia, misma que deberá ser dictada dentro del término legal.
 
 El auto en que se ordene que el negocio se reciba a prueba, no admite recurso, aquél en que se niegue será apelable en ambos efectos si lo fuere la sentencia definitiva.
 
