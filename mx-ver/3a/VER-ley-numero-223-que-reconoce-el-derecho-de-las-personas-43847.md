@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-223-que-reconoce-el-derecho-de-las-personas-43847"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-14"
-last_updated: "2005-02-14"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 223 QUE RECONOCE EL DERECHO DE LAS PERSONAS FISICAS, MAYORES DE SETENTA AÑOS DE EDAD, QUE NO TENGAN INGRESO ALGUNO Y SIN LA PROTECCION DE LOS SISTEMAS DE SEGURIDAD SOCIAL DEL ESTADO O DE LA FEDERACION, A RECIBIR UNA PENSION ALIMENTICIA DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY QUE RECONOCE EL DERECHO DE LAS PERSONAS FISICAS, MAYORES DE SETENTA AÑOS DE EDAD, QUE NO TENGAN INGRESO ALGUNO Y SIN LA PROTECCION DE LOS SISTEMAS DE SEGURIDAD SOCIAL DEL ESTADO O DE LA FEDERACION, A RECIBIR UNA PENSION ALIMENTICIA DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY QUE RECONOCE EL DERECHO DE LAS PERSONAS FÍSICAS, MAYORES DE SETENTA AÑOS DE EDAD, QUE NO TENGAN INGRESO ALGUNO Y SIN LA PROTECCIÓN DE LOS SISTEMAS DE SEGURIDAD SOCIAL DEL ESTADO O DE LA FEDERACIÓN, A RECIBIR UNA PENSIÓN ALIMENTICIA DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta Oficial, Organo del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 14 de febrero de 2005.
 
@@ -43,9 +43,11 @@ L E Y Número 223
 
 QUE RECONOCE EL DERECHO DE LAS PERSONAS FÍSICAS, MAYORES DE SETENTA AÑOS DE EDAD, QUE NO TENGAN INGRESO ALGUNO Y SIN LA PROTECCIÓN DE LOS SISTEMAS DE SEGURIDAD SOCIAL DEL ESTADO O DE LA FEDERACIÓN, A RECIBIR UNA PENSIÓN ALIMENTICIA DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y de interés social en el territorio del Estado de Veracruz de Ignacio de la Llave, con el objeto de reconocer el derecho de las personas físicas mayores de setenta años de edad que no tengan ingreso alguno y sin la protección de los sistemas de seguridad social del Estado o de la Federación, a recibir del Gobierno del Estado de Veracruz de Ignacio de la Llave una pensión alimenticia mensual correspondiente a la mitad del salario mínimo vigente en la ciudad de Xalapa.
+La presente ley es de orden público y de interés social en el territorio del Estado de Veracruz de Ignacio de la Llave, con el objeto de reconocer el derecho de las personas físicas mayores de setenta años de edad que no tengan ingreso alguno y sin la protección de los sistemas de seguridad social del Estado o de la Federación o que no cumplan con los requisitos de elegibilidad establecidos en el programa equivalente que para tal efecto creó el Gobierno Federal a favor de las personas de 65 años en adelante, a recibir del Gobierno del Estado de Veracruz de Ignacio de la Llave una pensión alimenticia mensual correspondiente a la mitad del salario mínimo vigente en la ciudad de Xalapa.
 
 ###### Artículo 2.
 
@@ -55,9 +57,13 @@ I. Ser vecino, con residencia permanente en el territorio del Estado, al menos p
 
 II. Tener como mínimo, setenta años cumplidos el día de la solicitud de la pensión;
 
-III. Que no cuenten con alguna pensión del IMSS, ISSSTE, IPE, PEMEX, CFE, Fuerzas Armadas o de cualquier sistema de Pensiones o de Seguridad Social ya sea Privado, del Estado, de la Federación, o de Empresas paraestatales; y
+III. Que no cuenten con alguna pensión del IMSS, ISSSTE, IPE, PEMEX, CFE, Fuerzas Armadas o de cualquier sistema de Pensiones o de Seguridad Social ya sea Privado, del Estado, de la Federación, o de Empresas paraestatales; (sic)
 
 IV. Que sean detectados y atendidos por los DIF municipales.
+
+> <small>(ADICIONADA, G.O. 9 DE MAYO DE 2014)</small>
+
+V. Que no cumplan con los requisitos de elegibilidad para recibir pensión alimenticia por parte de la Federación, en los términos que prevenga la normatividad respectiva.
 
 ###### Artículo 3.
 
@@ -112,3 +118,11 @@ LICENCIADO FIDEL HERRERA BELTRÁN.
 GOBERNADOR DEL ESTADO.
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 9 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
