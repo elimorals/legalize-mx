@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-de-la-defensoria-publica-del-estado-de-92530"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2012-12-29"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
 
 Ley publicada en el Suplemento S del Periódico Oficial del Estado de Tabasco, el sábado 29 de diciembre de 2012.
 
@@ -847,7 +847,9 @@ El Instituto promoverá la celebración de convenios con Instituciones públicas
 
 PRIMERO.- La presente ley entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Se abroga la Ley Orgánica de la Defensoría de Oficio del Estado, aprobada mediante decreto número 0344 y publicada en el Periódico Oficial del Estado, de fecha diecinueve de diciembre de 1984.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2014)</small>
+
+SEGUNDO.- Se abroga la Ley de Defensoría de Oficio del Estado de Tabasco, publicada en el Periódico Oficial del Estado de Tabasco, de fecha 15 de septiembre de 1993, mediante decreto número 0504.
 
 TERCERO.- Se derogan todas las demás disposiciones que contravengan lo establecido en la presente Ley.
 
@@ -884,3 +886,9 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MAYO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
