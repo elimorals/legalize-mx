@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-la-comision-estatal-de-derechos-humanos-7795"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-06"
-last_updated: "2006-09-12"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 9 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 6 de enero de 1993.
 
@@ -541,7 +543,7 @@ LIC. ENRIQUE PRIEGO OROPEZA
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
@@ -552,3 +554,21 @@ El presente Decreto que establece el Sistema Integral de Justicia para Adolescen
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
+
+P.O. 9 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Una vez iniciada la vigencia de esta Ley, quedará abrogada la Ley de la Comisión Estatal de Derechos Humanos, publicada en el Periódico oficial con fecha 6 de enero del año 1993 y todas las disposiciones que la contravengan.
+
+SEGUNDO.- Para efectos de la primera elección de los Consejeros, el Congreso procederá a revisar los nombramientos de los actuales miembros del Consejo Consultivo, para la sustitución de los mismos, en un plazo no mayor de noventa días a la publicación del presente ordenamiento. Pudiendo en todo caso participar en dicho procedimiento los actuales Consejeros que así lo manifiesten, cumpliendo las formalidades previstas en este ordenamiento jurídico.
+
+TERCERO.- Con motivo del cambio de naturaleza orgánica de la Comisión Estatal de los Derechos Humanos, como organismo descentralizado del Poder Ejecutivo, a Comisión Estatal de los Derechos Humanos, como órgano constitucional autónomo, los derechos y obligaciones generado de las relaciones laborales existentes serán respetados en todos sus términos.
+
+CUARTO.- Los activos patrimoniales constituidos por los bienes muebles e inmuebles y en general, los pasivos y obligaciones que tuviese la Comisión Estatal de Derechos Humanos, pasarán sin mayor trámite al patrimonio del órgano constitucional autónomo denominado Comisión Estatal de los Derechos Humanos, debiendo continuar con sus labores, ajustándose al presupuesto cuyo ejercicio se ejerce.
+
+QUINTO.- Las obligaciones y atribuciones conferidas en el artículo 46 de la presente Ley al Órgano de Control Interno, subsistirán en lo conducente en tanto no se realicen las adecuaciones legales correspondientes para de (sic) la Comisión Estatal de los Derechos Humanos como órgano autónomo constitucional.
+
+SEXTO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de la Comisión Estatal de Derechos Humanos, se entenderán referidas a la Comisión Estatal de los Derechos Humanos. En igual forma, la mención o alusión que se da en esta Ley a la Comisión Orgánica de los Derechos Humanos, se entenderá que se alude a la Comisión Orgánica denominada "de Derechos Humanos", prevista en la Ley Orgánica del Poder Legislativo del Estado de Tabasco, y su Reglamento.
+
+SÉPTIMO.- La Comisión, deberá tomar las medidas administrativas necesarias a fin de expedir el Reglamento de la presente Ley, en un periodo no mayor a 180 días siguientes a la publicación del presente ordenamiento jurídico. En tanto se expida el mismo, se aplicará en lo que no se oponga, el Reglamento y manuales de organización a la fecha vigentes.
