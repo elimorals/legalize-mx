@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-defensoria-de-oficio-del-estado-de-tabasco-7794"
 country: "mx"
 rank: "ley"
 publication_date: "1993-09-15"
-last_updated: "2012-12-29"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE DEFENSORÍA DE OFICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 105, PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2014, QUE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 269 PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 15 de septiembre de 1993.
 
@@ -555,7 +557,9 @@ P.O. 29 DE DICIEMBRE DE 2012.
 
 PRIMERO.- La presente ley entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Se abroga la Ley Orgánica de la Defensoría de Oficio del Estado, aprobada mediante decreto número 0344 y publicada en el Periódico Oficial del Estado, de fecha diecinueve de diciembre de 1984.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2014)</small>
+
+SEGUNDO.- Se abroga la Ley de Defensoría de Oficio del Estado de Tabasco, publicada en el Periódico Oficial del Estado de Tabasco, de fecha 15 de septiembre de 1993, mediante Decreto número 0504.
 
 TERCERO.- Se derogan todas las demás disposiciones que contravengan lo establecido en la presente Ley.
 
@@ -572,3 +576,7 @@ OCTAVO.- Las referencias jurídicas que en otros ordenamientos legislativos, leg
 NOVENO.- Con motivo de la entrada en vigor y por tanto en operación, de la primera fase del Nuevo Sistema de Justicia Penal, conforme las disposiciones legislativas que a la fecha ya se han expedido; luego, de conformidad con las previsiones presupuestarias respectivas, continúese con el proceso de selección, capacitación y designación oportuna, de los servidores públicos que cumplan cabalmente con los requisitos de profesionalización, con base en esta Ley y en el procedimiento correspondiente que se prevea en el Reglamento de la misma.
 
 DÉCIMO.- Lo concerniente a la hipótesis para el otorgamiento de cauciones y garantías económicas en apoyo de los imputados de escasos recursos económicos; quedará en suspenso, hasta en tanto no se dispongan las partidas presupuestales específicas que estarán limitadas a las previsiones financieras, aprobadas presupuestalmente en los términos de las disposiciones legales aplicables; por lo que estará sujeto a los recursos financieros públicos que en su oportunidad se destinen para la creación del fondo público correspondiente.
+
+P.O. 9 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
