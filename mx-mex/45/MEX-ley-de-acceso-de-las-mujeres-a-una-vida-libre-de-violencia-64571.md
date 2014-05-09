@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2011-03-18"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MEXICO
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MEXICO
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2014.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -93,7 +93,7 @@ IX. Programa: El Programa Integral para la Igualdad de Trato y Oportunidades ent
 
 X. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -377,7 +377,7 @@ b) La verificación de los hechos y la publicidad de la verdad.
 
 DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
@@ -437,13 +437,13 @@ l. El riesgo o peligro existente; y
 
 II. La seguridad de la víctima.
 
-> <small>(REFORMADO EN SU DENOMINACION, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
 ## TÍTULO CUARTO
 
 DE LAS POLÍTICAS DE GOBIERNO Y DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO EN SU DENOMINACION, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
 
@@ -461,7 +461,7 @@ El Sistema Estatal y los Sistemas Municipales tienen por objeto la conjunción d
 
 Todas las medidas que lleven a cabo sus integrantes deberán realizarse sin discriminación alguna. Por ello, considerarán el idioma, la edad, la condición social y económica, la condición étnica, la preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas de gobierno en la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -479,7 +479,9 @@ IV. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 V. El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
 
-VI. La Agencia de Seguridad Estatal;
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
+
+VI. La Secretaría de Seguridad Ciudadana;
 
 VII. El Instituto Mexiquense de la Juventud;
 
@@ -517,11 +519,11 @@ V. Las acciones conjuntas para la protección de las mujeres víctimas de violen
 
 VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
-> <small>(REFORMADO EN SU DENOMINACION, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 37.
 
@@ -599,7 +601,9 @@ XV. Promover y realizar investigaciones con perspectiva de género sobre las cau
 
 XVI. Promover ante las autoridades competentes la adopción de las medidas de protección previstas en esta Ley y demás disposiciones aplicables que requiere la mujer o la niña que haya sido víctima de violencia;
 
-XVII. Proporcionar a la Agencia de Seguridad Estatal, la información necesaria para la integración del Banco Estatal de Datos e Información de Casos de Violencia contra las Mujeres al que se refiere en la fracción V del artículo 52 de la presente Ley;
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
+
+XVII. Proporcionar a la Secretaria de Seguridad Ciudadana, la información necesaria para la integración del Banco Estatal de Datos e Información de Casos de Violencia contra las Mujeres al que se refiere en la fracción V del artículo 52 de la presente Ley;
 
 XVIII. Evaluar y considerar la eficacia de las acciones del Programa, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
@@ -997,9 +1001,11 @@ XXVII. Celebrar convenios de cooperación, coordinación y concertación en la m
 
 XXVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 52.
 
-Corresponde a la Agencia de Seguridad Estatal:
+Corresponde a la Secretaría de Seguridad Ciudadana:
 
 l. Diseñar con una visión transversal, la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
 
@@ -1123,7 +1129,7 @@ La persona agresora deberá participar obligatoriamente en los programas de reed
 
 Los refugios impulsados por organizaciones civiles deberán funcionar de acuerdo con el Programa Estatal y el Modelo de Atención aprobados por el Sistema Estatal. El CEMyBS propondrá al Sistema Estatal, el Modelo de Atención.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 Corresponde a los refugios, desde la perspectiva de género:
 
@@ -1251,7 +1257,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.G. 6 DE SEPTIEMBRE DE 2010.
 
@@ -1286,3 +1292,11 @@ QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la c
 SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
 
 SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
+
+G.G. 9 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se entenderá por Secretaría de Seguridad Ciudadana cualquier referencia que se haga, en los ordenamientos jurídicos estatales, a la Agencia de Seguridad Estatal.
