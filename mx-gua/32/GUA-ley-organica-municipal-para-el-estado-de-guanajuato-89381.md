@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2013-06-07"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1667,6 +1667,12 @@ XX. Las demás que le confiera esta u otras leyes, reglamentos, bandos municipal
 
 Contraloría municipal
 
+#### Sección Única. Del Cronista Municipal
+
+> <small>(ADICIONADO. P.O. 9 DE MAYO DE 2014)</small>
+
+Cronista municipal
+
 ###### Artículo 131.
 
 El control interno, evaluación de la gestión municipal y desarrollo administrativo, tendrá como finalidad el contribuir al adecuado desarrollo de la administración municipal, que estará a cargo de la Contraloría Municipal, cuyo titular será nombrado por el Ayuntamiento a propuesta en terna formulada por el presidente municipal.
@@ -1804,6 +1810,70 @@ Es obligación de los titulares de las dependencias y entidades de la administra
 El contralor y los servidores públicos de la contraloría que intervengan en la verificación y acompañamiento de procesos administrativos de las distintas entidades y dependencias de la administración municipal, son corresponsables de las acciones u omisiones realizadas en contravención de la ley, cuando habiendo participado en el proceso no hubiesen formulado en tiempo observaciones o bien, hubiesen validado los actos contrarios a derecho.
 
 El contralor y los servidores públicos de la contraloría tendrán responsabilidad de su actuar conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 140
+
+1. Para los efectos de la presente Ley, se considera como Cronista Municipal, al servidor público de la Administración Pública Municipal que tiene como objetivos fundamentales:
+
+I. El registro de sucesos notables acaecidos dentro de la circunscripción territorial del municipio al que pertenezca; y
+
+II. Investigar, rescatar, conservar, difundir y promover una cultura histórico-cultural entre la sociedad, dentro de su municipio y proyectarla en la Entidad y el país.
+
+El Cronista Municipal permanecerá indefinidamente en su cargo y sólo podrá ser removido por causa justificada a juicio del Ayuntamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+Percibirá la remuneración que se le fije conforme a la partida presupuestal que corresponda.
+
+> <small>(ADICIONADO. P.O. 9 DE MAYO DE 2014)</small>
+
+Funciones del cronista municipal
+
+###### Artículo 140
+
+2. El Cronista Municipal, para el desarrollo de sus funciones, contará con las siguientes atribuciones:
+
+I. Llevar el registro cronológico de los sucesos notables de su Municipio;
+
+II. Investigar, rescatar, conservar, difundir y promover la cultura municipal;
+
+III. Elaborar y mantener actualizada la monografía del municipio; compilar tradiciones, costumbres, leyendas y crónicas;
+
+IV. Elaborar el Calendario Cívico Municipal, derivándose de éste la promoción de eventos cívicos y efemérides a conmemorarse;
+
+V. Proponer al Ayuntamiento la regulación así como la modificación a la nomenclatura en las calles, avenidas y colonias dentro de la zona urbana y rural del municipio, basándose siempre en razones de índole histórica y social; y
+
+VI. Las demás que le confiera el Ayuntamiento, esta Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO. P.O. 9 DE MAYO DE 2014)</small>
+
+Causas de remoción del cronista municipal
+
+###### Artículo 140
+
+3. Son causas de remoción para ocupar el cargo de Cronista Municipal:
+
+I. Por enfermedad o incapacidad física o mental debidamente comprobada que le impida ejercer el cargo;
+
+II. Negligencia, falsedad y alteración de hechos históricos; así como la autenticación de hechos históricos falsos;
+
+III. Incumplimiento de las actividades señaladas y las propias de su función; y
+
+IV. El cambio de residencia fuera de su Municipio.
+
+> <small>(ADICIONADO. P.O. 9 DE MAYO DE 2014)</small>
+
+Forma de elección del cronista municipal
+
+###### Artículo 140
+
+4. La elección de la persona o las personas designadas por el Ayuntamiento para ocupar el cargo de Cronista Municipal, se realizará a través de las bases de una convocatoria pública, previo el análisis y evaluación de méritos, prestigio moral y capacidad del candidato o candidatos.
+
+En la convocatoria pública se establecerán los requisitos que deberán reunir los aspirantes a cronista municipal.
+
+La designación se hará por acuerdo y mayoría de votos en sesión del Ayuntamiento.
 
 ### Capítulo III. De los Delegados Municipales
 
@@ -3312,3 +3382,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 9 DE MAYO DE 2014
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+Artículo Segundo. El último párrafo del artículo 140-1 entrará en vigencia a partir del uno de enero del año dos mil quince.
