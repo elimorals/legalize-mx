@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2014-01-22"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2014.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -2901,6 +2901,10 @@ Abandono de bienes asegurados
 
 1. El ministerio público notificará el aseguramiento al propietario o poseedor de los bienes a que se refiere el artículo 258.1, cuya retención no sea necesaria legalmente, a fin de que se presente dentro del plazo de tres meses a manifestar lo que a su interés convenga respecto de los mismos, apercibido que de no hacerlo, los bienes causarán abandono a favor del Estado.
 
+> <small>(ADICIONADO, G.G. 9 DE MAYO DE 2014)</small>
+
+En el caso de que el bien asegurado sea madera, productos o subproductos derivados de ella, se iniciará el procedimiento de abandono, habiendo transcurrido diez días sin ser reclamado, y decretado el mismo, será destinado a la asistencia social, a través del Gobierno del Estado de México.
+
 > <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
 
 Reglas de notificación
@@ -2933,7 +2937,9 @@ Solicitud de audiencia
 
 3. En caso de que se presente el interesado y acredite tener derechos sobre los bienes, el ministerio público podrá ordenar el levantamiento del aseguramiento y la devolución de éstos, si ello resulta procedente, o bien, mantendrá el aseguramiento para los efectos legales a que haya lugar.
 
-Transcurrido el plazo a que se refiere el artículo 260.1, sin que ninguna persona se haya presentado a deducir derechos sobre los bienes asegurados o no haya demostrado estos, el ministerio público solicitará al juez de control que declare el abandono de los bienes.
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2014)</small>
+
+Transcurrido alguno de los plazos a que se refiere el artículo 260.1, sin que ninguna persona se haya presentado a deducir derechos sobre los bienes asegurados o no haya demostrado éstos, el ministerio público solicitará al juez de control que declare el abandono de los bienes.
 
 El juez de control citará al interesado, a la víctima u ofendido y al ministerio público a una audiencia dentro de los diez días siguientes a la solicitud a que se refiere el párrafo anterior.
 
@@ -5470,3 +5476,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento al presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 9 DE MAYO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
