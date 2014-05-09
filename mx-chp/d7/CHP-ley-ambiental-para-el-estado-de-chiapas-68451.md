@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-68451"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2012-04-04"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -155,9 +155,9 @@ XXIII. Ordenamiento Ecológico del Territorio: El instrumento de política ambie
 
 XXIV. Preservación: El conjunto de políticas y medidas para mantener las condiciones propicias para la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2014)</small>
 
-XXV. Secretaría: Secretaría de Medio Ambiente e Historia Natural.
+XXV. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y evitar su deterioro.
 
 XXVI. Residuos de manejo especial: Aquellos generados en los procesos productivos, y que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos.
 
@@ -551,15 +551,17 @@ En la planeación y realización de acciones a cargo de las dependencias y entid
 
 El ordenamiento ecológico del territorio es el instrumento de política ambiental y de desarrollo urbano de carácter obligatorio, que tiene por objeto definir y regular los usos del suelo, el aprovechamiento de los recursos naturales y las actividades productivas, para hacer compatible la conservación de la biodiversidad con el desarrollo urbano y rural, así como las actividades económicas que se realicen, sirviendo de base para la elaboración de los programas y proyectos de desarrollo, así como para la autorización de obras y actividades que se pretendan ejecutar.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 29.
 
-Conforme a lo dispuesto por el artículo 20 BIS 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, los programas de ordenamiento ecológico del territorio competencia del Estado son:
+Conforme a lo establecido por el artículo 20 Bis 2, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, el ordenamiento ecológico del territorio del Estado, se llevará a cabo a través de los siguientes programas:
 
-I. El Programa de Ordenamiento Ecológico y Territorial del Estado de Chiapas, que comprenderá la totalidad del territorio estatal;
+I. Regional del Territorio del Estado de Chiapas: comprenderá la totalidad del territorio estatal.
 
-II. Los programas regionales de ordenamiento ecológico y territorial, que comprenderán parte del territorio del Estado en dos o más municipios; y
+II. Regionales del territorio: comprenderán parte del territorio del Estado, en el que estén inmersos dos o más municipios.
 
-III. Los programas municipales de ordenamiento ecológico y territorial.
+III. Locales de Territorio: comprenderán la zona o región de un municipio.
 
 ###### Artículo 30.
 
@@ -1549,9 +1551,11 @@ El manejo, la elaboración de los programas y estudios técnicos serán realizad
 
 ### Capítulo Tercero. Declaratorias de Áreas Naturales Protegidas en el Estado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 117.
 
-Las áreas naturales protegidas en el Estado se establecerán de conformidad con esta ley y demás disposiciones legales aplicables, mediante declaratorias que expidan:
+Las áreas naturales protegidas de competencia estatal, se establecerán de conformidad con esta ley y las demás disposiciones legales aplicables, mediante declaratoria que expidan:
 
 I. El titular del Ejecutivo Estatal, en los casos previstos por las fracciones I, II y III del artículo 107 de esta ley; y,
 
@@ -1587,11 +1591,11 @@ I. Las restricciones o prohibiciones de las actividades que puedan alterar los e
 
 II. La promoción para generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad en el territorio de las áreas naturales protegidas y sus zonas de influencia.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2014)</small>
 
 ###### Artículo 120.
 
-Previamente a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas, se deberá contar con los estudios técnicos que justifiquen la constitución de las mismas, en los términos del presente Capítulo, asimismo, la Secretaría podrá solicitar la opinión de:
+Previamente a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas, se deberán realizar los estudios técnicos que justifiquen la constitución de las mismas, de llevarse a cabo los estudios citados, deberá notificarse a los propietarios o poseedores de los predios incluidos dentro del proyecto del área natural protegida, en forma personal cuando se conozca su domicilio, en caso contrario, la notificación se hará mediante dos publicaciones hechas en el Periódico Oficial, teniendo la segunda publicación efectos de notificación personal para que, dentro del término de 15 días hábiles contados a partir de que surta sus efectos, comparezcan ante la Secretaría a manifestar lo que a sus derechos correspondan o a interponer el recursos de revisión, el cual en su caso, será desahogado en términos de la Ley de Procedimientos Administrativos para el Estado de Chiapas. Asimismo, la Secretaría podrá solicitar la opinión de:
 
 I. Los Ayuntamientos Municipales en cuyas circunscripciones territoriales se localice el área natural de que se trate;
 
@@ -1601,15 +1605,19 @@ III. Las instituciones académicas, centros de investigación y organismos de lo
 
 Para el establecimiento de las áreas naturales protegidas de competencia municipal, se observarán los requisitos previstos en el artículo 118 de la presente ley.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2014)</small>
 
 ###### Artículo 121.
 
-Una vez declarada un área natural protegida, solo podrá ser modificada por la autoridad que la haya establecido.
+Una vez establecida un área natural protegida, sólo podrá ser modificada por la autoridad que lo haya establecido, siguiendo las formalidades previstas en esta ley para expedición de la declaratoria respectiva.
 
 ###### Artículo 122.
 
 El Gobierno del Estado promoverá ante la Federación la firma de los convenios para que en el otorgamiento o expedición de permisos, licencias, concesiones o en general de autorizaciones a que se sujetará la exploración, explotación, o aprovechamiento de recursos en áreas naturales protegidas, se observen las disposiciones de esta ley, las declaratorias de establecimiento correspondiente, así como los programas de manejo.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2014)</small>
+
+El Gobierno del Estado, a través de la Secretaría o la autoridad municipal correspondiente, con base en los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente la revocación del permiso, licencia, concesión o autorización, cuando la exploración, explotación o aprovechamiento de recursos, ocasionen o puedan ocasionar deterioro al ambiente o daños graves a los recursos naturales.
 
 ###### Artículo 123.
 
@@ -2451,13 +2459,17 @@ IV. Que causen daño ambiental en áreas naturales protegidas de competencia est
 
 En el caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la autoridad competente imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
-La autoridad correspondiente, por sí o a solicitud del infractor, podrá otorgar a éste al emitir la resolución correspondiente, la opción de pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre cuando se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 220 de esta ley, y la autoridad justifique plenamente su decisión.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2014)</small>
+
+La autoridad correspondiente, por sí o a solicitud del infractor, podrá otorgar a éste al emitir la resolución correspondiente, la opción de pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 221 de esta ley y la autoridad justifique plenamente su decisión.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2014)</small>
 
 ###### Artículo 220.
 
-Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones que de ella se deriven, se destinarán a la integración del Fondo Estatal Ambiental para desarrollar programas vinculados con la protección y mejoramiento del medio ambiente.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones que de ella se deriven, será destinada en su totalidad a la integración del Fondo Estatal Ambiental para desarrollar programas vinculados con la protección y mejoramiento del medio ambiente. El procedimiento para el pago se establecerá en el Reglamento de esta Ley.
 
-Los importes que por concepto de sanciones se impongan, tendrán el carácter de créditos fiscales y serán exigibles por las autoridades hacendarías conforme al procedimiento previsto por la ley de la materia. Del importe que se recabe, el 40% se mantendrá para la autoridad fiscal y el 60% restante se otorgará a la Secretaría o al municipio correspondiente, y será destinado para inversión en el mejoramiento de su estructura operativa.
+Los importes que por concepto de sanciones se impongan, tendrán el carácter de créditos fiscales y serán exigibles por las autoridades hacendarias conforme al procedimiento administrativo de ejecución previsto por la ley o código de la materia. En caso de que el pago de la sanción impuesta se exija mediante el procedimiento administrativo antes referido, del monto total cobrado, el 40% se mantendrá para la autoridad fiscal y el 60% restante se otorgara a la Secretaría o al municipio correspondiente, y será destinado para inversión en el mejoramiento de su estructura operativa.
 
 ### Capítulo Cuarto. Medidas de Seguridad
 
@@ -2640,3 +2652,13 @@ P.O. 4 DE ABRIL DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 9 DE MAYO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Todos y cada uno de los programas de ordenamiento ecológico de competencia estatal que fueron expedidos con anterioridad a la fecha de publicación del presente Decreto, continuarán vigentes y conservarán la denominación con la que fueron expedidos.
+
+Artículo Cuarto.- La Secretaría de Medio Ambiente e Historia Natural, someterá a consideración del Ejecutivo Estatal el Reglamento de la presente Ley, en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor de este Decreto, para su aprobación y publicación.
