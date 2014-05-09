@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-policia-preventiva-y-transito-del-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2013-03-11"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 7 de mayo de 2010.
 
@@ -2003,35 +2003,43 @@ Cuando el resultado de la evaluación del desempeño dentro del apartado de cono
 
 ### CAPÍTULO VIII. DEL INGRESO
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 146.
 
-Para ser miembro de la Dirección General de Seguridad Pública y Tránsito Municipal, el aspirante deberá cubrir, de manera indispensable, los requisitos siguientes:
+Para ser miembro de la Dirección General de Seguridad Pública y Tránsito Municipal, el aspirante deberá cubrir de manera indispensable los requisitos siguientes:
 
-I. Ser ciudadano mexicano sin tener otra nacionalidad, con edad mínima de 19, y máxima de 28 años;
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad; con edad mínima de 18 años y máxima de 33 años.
 
-II. Acreditar buena conducta y no estar sujeto a algún proceso penal;
+II.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal.
 
-III. No haber sido condenado por delito doloso;
+III.- En su caso, tener acreditado el Servicio Militar Nacional.
 
-IV. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+IV.- Acreditar que ha concluido, al menos, los estudios siguientes:
 
-V. No presentar tatuajes en ninguna parte de la superficie corporal ni perforaciones en los pabellones auditivos;
+a) Tratándose de aspirantes a las Unidades de Prevención y Vialidad, enseñanza Media Superior o equivalente (Preparatoria).
 
-VI. No padecer enfermedades contagiosas ni tener defectos físicos que lo inhabiliten para el ejercicio policial;
+b) En caso de aspirantes a la Unidad de Reacción, los estudios correspondientes a la enseñanza Media Básica (Secundaria).
 
-VII. No ser consumidor de drogas, enervantes o estupefacientes, así catalogados por la Ley General de Salud;
+V.- Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables.
 
-VIII. Tener liberada la Cartilla del Servicio Militar Nacional;
+VI.- No contar con tatuajes permanentes que resulten visibles aun vistiendo el pantalón y la camisa de manga corta de la Policía Preventiva. Además, en caso de tener y aunque los cubra el uniforme, que no hagan apología al delito y/o conducta antisocial.
 
-IX. Contar con licencia para conducir vigente;
+VII.- Aprobar los procesos de evaluación de Control de Confianza.
 
-X. Haber cumplido sus estudios de bachillerato o equivalente;
+VIII.- Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
 
-XI. Aprobar los procesos de evaluación de control y confianza;
+IX.- Someterse a exámenes para comprobar la ausencia de alcoholismo y el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
 
-XII. No padecer alcoholismo y,
+X.- No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
 
-XIII. Haber aprobado el concurso de ingreso y el curso de formación policial en el Instituto Estatal de Ciencias Penales y Seguridad Pública, o su equivalente en otros Estados de la República Mexicana.
+XI.- Contar con licencia para conducir vigente.
+
+XII.- Aprobar el concurso de ingreso y el curso básico de formación policial en el Instituto Estatal de Ciencias Penales y Seguridad Pública o su equivalente en otros Estados de la República Mexicana.
+
+XIII.- Cumplir con los deberes establecidos en este Reglamento, y
+
+XIV.- Los demás que establezcan otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 147.
 
@@ -2404,3 +2412,7 @@ El presente Decreto comenzará a surtir sus efectos a partir del día de su publ
 P.O. 11 DE MARZO DE 2013.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial" El Estado de Sinaloa".
+
+P.O. 9 DE MAYO DE 2014.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el “Órgano Oficial del Gobierno del Estado”.
