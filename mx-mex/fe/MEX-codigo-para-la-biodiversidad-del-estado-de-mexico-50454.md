@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2014-01-24"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2014.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -939,7 +939,7 @@ I. La Secretaría publicará por una vez, el aviso del inicio del proceso de ela
 
 II. La Secretaría elaborará los proyectos de programas o sus modificaciones y en coordinación con las dependencias involucradas, definirán los elementos de articulación de dichos programas;
 
-III Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta del Gobierno y en un diario de circulación estatal de acuerdo con las siguientes bases:
+III. Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta del Gobierno y en un diario de circulación estatal de acuerdo con las siguientes bases:
 
 a). En las publicaciones se indicará los plazos y mecanismos para garantizar la participación ciudadana, así como los lugares y las fechas de las audiencias públicas que se llevarán a cabo en ese periodo;
 
@@ -2969,7 +2969,7 @@ II. No mantengan sus instalaciones y equipos calibrados en las condiciones de fu
 
 III. No lleven el registro con la información de las verificaciones efectuadas o no remitan a la Secretaría los datos obtenidos en los términos fijados por ésta;
 
-IV. Cuando por cualquier causa se dejen de prestar los servicios de verificación, cuando los equipos e instalaciones no funcionen debidamente y realicen verificaciones sin dar no den aviso inmediato a la Secretaría;
+IV. Cuando por cualquier causa se dejen de prestar los servicios de verificación, cuando los equipos e instalaciones no funcionen debidamente y realicen verificaciones sin dar no den (sic) aviso inmediato a la Secretaría;
 
 V. Expidan o emitan reportes de verificación alterados o que no reúnan los requisitos correspondientes;
 
@@ -3661,9 +3661,9 @@ VII. Realizar programas de investigación para el desarrollo de los recursos y e
 
 VIII. Promover y coordinar con los sectores público, social y privado la creación de viveros y zonas de reforestación;
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2014)</small>
 
-IX. Inspeccionar y vigilar las zonas forestales, así como los aprovechamientos autorizados, para lo cual podrá solicitar el apoyo y coadyuvancia de la Agencia de Seguridad Estatal;
+IX. Inspeccionar y vigilar las zonas forestales, así como los aprovechamientos autorizados, para lo cual podrá solicitar el apoyo y coadyuvancia de la Secretaría de Seguridad Ciudadana;
 
 X. Promover la organización productiva de los poseedores y propietarios forestales en el ámbito municipal, regional y estatal, así como gestionar la asesoría técnica y capacitación necesarias para el mejoramiento de sus procesos productivos;
 
@@ -7758,3 +7758,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los ayuntamientos en el ámbito de su competencia proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto las disposiciones respectivas.
 
 CUARTO. El Secretario Técnico someterá a consideración del Consejo Rector para su aprobación el proyecto de manual de procedimientos y el reglamento que regirá su funcionamiento, dentro de los 90 días hábiles siguientes a su instalación.
+
+G.G. 9 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se entenderá por Secretaría de Seguridad Ciudadana cualquier referencia que se haga, en los ordenamientos jurídicos estatales, a la Agencia de Seguridad Estatal.
