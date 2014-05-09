@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-notariado-del-estado-de-mexico-23258"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2013-02-28"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE FEBRERO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 28 DE FEBRERO DE 2013, NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.G. DE 21 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 2002.
 
@@ -1207,6 +1205,26 @@ Dicho Consejo estará integrado por un Presidente, que será electo por la Asamb
 
 EL Colegio contará con un órgano responsable de mantener y preservar los valores éticos y jurídicos inherentes a la función notarial que se denominará Comité de Preservación de los Valores Éticos, el cual se integrará por el Presidente en funciones y los Ex-presidentes del Colegio, cuya organización y funcionamiento se determinarán en el Reglamento Interno.
 
+> <small>(ADICIONADO, G.G. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 138 Bis.
+
+El Colegio establecerá el Instituto de Estudios Notariales, órgano responsable de promover la superación profesional de sus miembros, debiendo tramitar las autorizaciones necesarias de las autoridades educativas con la finalidad de realizar las siguientes funciones:
+
+I. La formación de profesionales del Derecho, en el ámbito notarial y disciplinas vinculadas a su ejercicio, mediante la impartición de cursos, diplomados, especialidades, maestrías y doctorados, con reconocimiento de validez oficial;
+
+II. Realizar investigación jurídica en materia notarial, registral y disciplinas afines, así como difundirlas;
+
+III. Desarrollar programas de vinculación académica con otras instituciones educativas, que contribuyan a elevar la calidad de los estudios que impartirá;
+
+IV. Promover y fomentar el conocimiento de la cultura notarial.
+
+> <small>(ADICIONADO, G.G. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 138 Ter.
+
+El colegio emitirá el reglamento que regule la organización y funcionamiento del Instituto de Estudios Notariales.
+
 ### CAPITULO TERCERO. DEL FONDO DE GARANTIA DEL NOTARIADO
 
 ###### Artículo 139.
@@ -1237,9 +1255,11 @@ La Consejería designará un representante para que funja como vocal ante el pro
 
 Los depósitos que integran el Fondo de Garantía serán invertidos en valores de renta fija. El Colegio será el titular de los certificados y documentos que expidan las instituciones de crédito.
 
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2014)</small>
+
 ###### Artículo 143.
 
-Las cantidades que integran el fondo, sus productos y sus rendimientos se aplicarán en orden de prelación, para el pago de los conceptos siguientes:
+Las cantidades que integran el fondo se aplicarán en orden de prelación, para el pago de los conceptos siguientes:
 
 I. Impuestos y derechos que no hayan sido enterados;
 
@@ -1248,6 +1268,8 @@ II. Daños y perjuicios causados por los notarios del Estado de México, con mot
 III. Multas que se les hayan impuesto;
 
 IV. Otros que señale el Reglamento.
+
+Los productos, rendimientos e intereses del fondo se destinarán al cumplimiento de las atribuciones del colegio, sobre todo a aquellas encaminadas a la superación profesional de sus miembros, previa aprobación de la Asamblea General de Colegiados.
 
 ## TITULO SEXTO. DE LA SUPERVISION NOTARIAL Y DE LA RESPONSABILIDAD DE LOS NOTARIOS
 
@@ -1554,3 +1576,15 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
+
+G.G. 9 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- El colegio cumplirá con todos los requisitos que establezca la normatividad vigente en la materia.
+
+QUINTO.- Los productos, rendimientos e intereses generados por el Fondo de Garantía del Notariado, en el período comprendido del 4 de marzo de 2002, a la entrada en vigor de este Decreto, se aplicarán al cumplimiento de las atribuciones del Colegio de Notarios del Estado de México, sobre todo a aquellas destinadas a la superación profesional de sus miembros, previa aprobación de la Asamblea General de Colegiados.
