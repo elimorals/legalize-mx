@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2013-08-08"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2014.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2427,9 +2427,9 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
+(ADICIONADO, G.O. 18 DE AGOSTO DE 2011) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 SÉPTIMUS], G.O. 9 DE MAYO DE 2014)
 
-ARTICULO 323 Séptimus.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el articulo 309 del presente Código. Dicho registro contendrá:
+ARTICULO 323 Octavus.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el articulo 309 del presente Código. Dicho registro contendrá:
 
 I. Nombre, apellidos y Clave Única del Registro de Población del deudor alimentario moroso;
 
@@ -2445,9 +2445,9 @@ VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
+(ADICIONADO, G.O. 18 DE AGOSTO DE 2011) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 OCTAVUS], G.O. 9 DE MAYO DE 2014)
 
-ARTICULO 323 Octavus.- El certificado a que se refiere el artículo 35 de este Código contendrá lo siguiente:
+ARTICULO 323 Novenus.- El certificado a que se refiere el artículo 35 de este Código contendrá lo siguiente:
 
 I. Nombre, apellidos y Clave Única de Registro de Población del deudor alimentario moroso;
 
@@ -2722,6 +2722,18 @@ ARTICULO 323 Quintus.- También se considera violencia familiar la conducta desc
 ARTICULO 323 Sextus.- Los integrantes de la familia que incurran en violencia familiar, deberán reparar los daños y perjuicios que se ocasionen con dicha conducta, con autonomía de otro tipo de sanciones que éste y otros ordenamientos legales establezcan.
 
 En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refiere la fracción VII del artículo 282 de este Código.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2014)</small>
+
+ARTICULO 323 Septimus.- Comete violencia familiar el integrante de la familia que transforma la conciencia de un menor con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
+
+La conducta descrita en el párrafo anterior, se denomina alienación parental cuando es realizada por uno de los padres, quien, acreditada dicha conducta, será suspendido en el ejercicio de la patria potestad del menor y, en consecuencia, del régimen de visitas y convivencias que, en su caso, tenga decretado. Asimismo, en caso de que el padre alienador tenga la guarda y custodia del niño, ésta pasará de inmediato al otro progenitor, si se trata de un caso de alienación leve o moderada.
+
+En el supuesto de que el menor presente un grado de alienación parental severo, en ningún caso, permanecerá bajo el cuidado del progenitor alienador o de la familia de éste, se suspenderá todo contacto con el padre alienador y el menor será sometido al tratamiento que indique el especialista que haya diagnosticado dicho trastorno.
+
+A fin de asegurar el bienestar del menor, y en caso de que, por su edad, resulte imposible que viva con el otro progenitor, el departamento de psicología del Tribunal Superior de Justicia del Distrito Federal, evaluando a los parientes más cercanos del niño, determinará qué persona quedará encargada de su cuidado; mientras recibe el tratamiento respectivo que haga posible la convivencia con el progenitor no alienador.
+
+El tratamiento para el niño alienado será llevado a cabo en el Departamento de Alienación Parental del Servicio Médico Forense del Tribunal Superior de Justicia del Distrito Federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -14438,3 +14450,9 @@ El presente decreto entrará en vigor el día siguiente de su publicación en la
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
+
+G.O. 9 DE MAYO DE 2014.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
