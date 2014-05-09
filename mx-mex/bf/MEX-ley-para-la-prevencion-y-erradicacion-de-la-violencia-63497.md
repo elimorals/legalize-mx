@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-y-erradicacion-de-la-violencia-63497"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2011-09-01"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # LEY PARA LA PREVENCION Y ERRADICACION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MEXICO
 
-LEY PARA LA PREVENCION Y ERRADICACION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MEXICO
+LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 216, PUBLICADO EN LA G.G. DE 9 DE MAYO DE 2014, SE ENTENDERÁ POR SECRETARÍA DE SEGURIDAD CIUDADANA CUALQUIER REFERENCIA QUE SE HAGA, EN LOS ORDENAMIENTOS JURÍDICOS ESTATALES, A LA AGENCIA DE SEGURIDAD ESTATAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE MAYO DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de septiembre de 2008.
 
@@ -179,7 +181,9 @@ c. Procuraduría General de Justicia del Estado de México.
 
 d. Secretaría de Desarrollo Social.
 
-e. Agencia de Seguridad Estatal.
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2014)</small>
+
+e. Secretaría de Seguridad Ciudadana.
 
 f. Universidad Autónoma del Estado de México.
 
@@ -433,7 +437,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 18 DE MARZO DE 2011.
 
@@ -462,3 +466,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 9 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se entenderá por Secretaría de Seguridad Ciudadana cualquier referencia que se haga, en los ordenamientos jurídicos estatales, a la Agencia de Seguridad Estatal.
