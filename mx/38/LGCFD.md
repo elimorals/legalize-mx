@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2013-06-07"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -62,7 +62,9 @@ V. Fomentar el desarrollo de la activación física, la cultura física y el dep
 
 VI. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
 
-VII. Promover las medidas necesarias para erradicar la violencia y reducir los riegos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del doping;
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+VII. Promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riegos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del dopaje;
 
 VIII. Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva;
 
@@ -150,9 +152,25 @@ VII. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que 
 
 VIII. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional;
 
-IX. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas, y
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
-X. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
+IX. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas;
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+X. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XI. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XIII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
 
 ###### Artículo 6.
 
@@ -734,9 +752,51 @@ IV. Promover la construcción, adecuación, conservación y aprovechamiento ópt
 
 V. Formular y ejecutar políticas públicas, que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad;
 
-VI. Dar seguimiento y ejecutar las políticas y planes aprobados por el SINADE, y
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
-VII. Establecer procedimientos de promoción en materia de cultura física y deporte.
+VI. Dar seguimiento y ejecutar las políticas y planes aprobados por el SINADE;
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+VII. Establecer procedimientos de promoción en materia de cultura física y deporte, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+VIII. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 41 Bis.
+
+La coordinación y colaboración entre la Federación, el Distrito Federal, los Estados y los municipios, respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, será subsidiaria y se sujetará a lo siguiente:
+
+I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
+
+II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio o el Distrito Federal en los órganos políticos administrativos en cada una de las demarcaciones territoriales en que se celebren los eventos.
+
+La seguridad en la cancha o área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales, estatales o federales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios;
+
+III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales o autoridades del Distrito Federal en términos de lo que dispongan las leyes aplicables;
+
+IV. A solicitud de las autoridades municipales o delegacionales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades estatales y el Distrito Federal intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+
+V. A solicitud de las autoridades estatales o del Distrito Federal y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades federales intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+
+VI. En todo caso, para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad o de la Comisión Especial.
+
+Los representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando.
+
+Para los efectos de este artículo se considera que el evento deportivo, concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones;
+
+VII. Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
+
+VIII. En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones;
+
+IX. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse;
+
+X. Las autoridades de los tres órdenes de gobierno, capacitarán a los cuerpos policiacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido, y
+
+XI. Las leyes de Seguridad Pública de las Entidades Federativas y del Distrito Federal, deberán establecer lo conducente para la más eficaz prestación del servicio de seguridad pública entre una entidad y sus municipios o el Distrito Federal en los órganos políticos administrativos en cada una de las demarcaciones territoriales, para garantizar el desarrollo pacífico de los eventos deportivos, que se realicen en la jurisdicción estatal, municipal o en el caso del Distrito Federal, Delegacional, atendiendo a lo previsto en este artículo.
 
 ###### Artículo 42.
 
@@ -1172,6 +1232,14 @@ En el uso de las instalaciones a que se refiere este Capítulo, con fines de esp
 
 Asimismo, deberán respetarse los programas y calendarios previamente establecidos, así como acreditar por parte de los organizadores, ante la Comisión Especial, que se cuenta con póliza de seguro vigente que cubra la reparación de los daños a personas y bienes que pudieran ocasionarse, cuando así se acredite su responsabilidad y que sea sujeto de ser asegurado.
 
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 98 Bis.
+
+Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+
+Las autoridades municipales, o las correspondientes del Distrito Federal, serán competentes para verificar el cumplimiento de la presente disposición.
+
 ### Capítulo II. De la Enseñanza, Investigación y Difusión
 
 ###### Artículo 99.
@@ -1432,6 +1500,14 @@ En la Comisión Especial podrán participar dependencias o entidades de la Admin
 
 La coordinación y operación de los trabajos de la Comisión Especial, estarán a cargo de la CONADE.
 
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+Para la ejecución de los acuerdos, políticas y acciones que determine la Comisión Especial, en cada Estado de la República Mexicana y en el Distrito Federal funcionará una Comisión Local, encabezada por el titular del órgano estatal o del Distrito Federal en materia de cultura física y deporte. Su funcionamiento, integración y organización se establecerán en el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+Será obligación de las Comisiones Nacional y Estatales, la elaboración de un Programa Anual de Trabajo para la Prevención de la Violencia en Eventos Deportivos.
+
 ###### Artículo 140.
 
 Las atribuciones de dicha Comisión Especial además de las que se establezcan en el reglamento respectivo, serán:
@@ -1450,9 +1526,25 @@ VI. Fomentar programas y campañas de divulgación en contra de la violencia y l
 
 VII. Emitir recomendaciones y orientar a los miembros del SINADE sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
 
-VIII. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte, y
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
-IX. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
+VIII. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+IX. Realizar estudios e informes sobre las causas y los efectos de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+X. Conformar y publicar la estadística nacional sobre la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XI. Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes, y
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XII. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 141.
 
@@ -1472,7 +1564,9 @@ V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimula
 
 Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:
 
-I. Acatar las disposiciones normativas relacionadas con la celebración de eventos deportivos que emita la Comisión Especial, así como las de la localidad en donde se lleven a cabo, y
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, su Reglamento y las que emita la Comisión Especial, así como las de la localidad en donde se lleven a cabo, y
 
 II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
 
@@ -1488,7 +1582,9 @@ Los integrantes del SINADE, podrán revisar continuamente sus disposiciones regl
 
 Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
 
-### Capítulo VII. De las Infracciones y Sanciones
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE MAYO DE 2014)</small>
+
+### Capítulo VII. De las Infracciones, Sanciones y Delitos
 
 ###### Artículo 145.
 
@@ -1554,15 +1650,25 @@ h) La administración o utilización de sustancias o prácticas prohibidas en an
 
 II. Las distinciones, exclusiones, restricciones, preferencias u hostigamiento que se hagan en contra de cualquier deportista, motivadas por origen étnico o nacional, de género, la edad, las discapacidades, la condición social, la religión, las opiniones, preferencias sexuales, el estado civil o cualquier otra que atente contra su dignidad o anule o menoscabe sus derechos y libertades;
 
-III. El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos, y
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
-IV. El incumplimiento o violación a los estatutos de las Asociaciones Deportivas Nacionales, por cuanto hace a la elección de sus cuerpos directivos.
+III. El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos;
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+IV. El incumplimiento o violación a los estatutos de las Asociaciones Deportivas Nacionales, por cuanto hace a la elección de sus cuerpos directivos, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+V. El incumplimiento de las obligaciones establecidas en los artículos 41, 41 Bis y 98 Bis de la presente Ley.
 
 ###### Artículo 152.
 
 A las infracciones a esta Ley o demás disposiciones que de ella emanen, se les aplicarán las sanciones administrativas siguientes:
 
-I. A las Asociaciones y Sociedades Deportivas, Deportivas Nacionales, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+I. A las Asociaciones y Sociedades Deportivas, Deportivas Nacionales, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva, así como a los organizadores de eventos deportivos con fines de espectáculo:
 
 a) Amonestación privada o pública;
 
@@ -1580,23 +1686,83 @@ b) Suspensión temporal o definitiva de su inscripción al SINADE, y
 
 c) Desconocimiento de su representatividad;
 
-III. A deportistas:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+III. A deportista:
 
 a) Amonestación privada o pública;
 
 b) Limitación, reducción o cancelación de apoyos económicos, y
 
-c) Suspensión temporal o definitiva de su inscripción al SINADE, y
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+c) Suspensión temporal o definitiva de su inscripción al SINADE;
 
 IV. A técnicos, árbitros y jueces:
 
 a) Amonestación privada o pública, y
 
-b) Suspensión temporal o definitiva de su inscripción al SINADE.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+b) Suspensión temporal o definitiva de su inscripción al SINADE, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+V. A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudieran generarse y considerando la gravedad de la conducta y en su caso, la reincidencia:
+
+a) Expulsión inmediata de las instalaciones deportivas;
+
+b) Amonestación privada o pública;
+
+c) Multa de 10 a 90 días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, y
+
+d) Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo.
 
 ###### Artículo 153.
 
 Las sanciones por las infracciones previstas en el presente Capítulo se impondrán de conformidad con el procedimiento previsto en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 154.
+
+Comete el delito de violencia en eventos deportivos, el espectador o cualquier otra persona que sin ser juez, jugador o parte del cuerpo técnico de los equipos contendientes en eventos deportivos masivos o de espectáculo y encontrándose en el interior de los recintos donde se celebre el evento, en sus instalaciones anexas, en sus inmediaciones o en los medios de transporte organizados para acudir a los mismos, realice por sí mismo o incitando a otros, cualquiera de las siguientes conductas:
+
+I. Lance objetos contundentes que por sus características pongan en riesgo la salud o la integridad de las personas. En este supuesto, se impondrán de seis meses a dos años de prisión y de cinco a treinta días multa;
+
+II. Ingrese sin autorización a los terrenos de juego y agreda a las personas o cause daños materiales. Quien incurra en esta hipótesis será sancionado con seis meses a tres años de prisión y de diez a cuarenta días multa;
+
+III. Participe activamente en riñas, lo que se sancionará con seis meses a cuatro años de prisión y de diez a sesenta días multa;
+
+IV. Incite o genere violencia, se considera incitador a quién dolosamente determine a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes;
+
+V. Cause daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo, en sus instalaciones anexas o en las inmediaciones, o
+
+VI. Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
+
+Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con un año seis meses a cuatro años seis meses de prisión y de veinte a noventa días multa.
+
+Para efectos de lo dispuesto en este artículo, un día multa equivale a un día de los ingresos que por cualquier concepto perciba el inculpado, y a falta de prueba a un día de salario mínimo general, vigente el día y en el lugar donde se haya cometido el delito.
+
+A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de prisión que le resulte impuesta.
+
+Cuando en la comisión de este delito no resulten dañados bienes de la nación o afectados servidores públicos federales en el ejercicio de sus funciones, conocerán las autoridades del fuero común.
+
+No se castigará como delito la conducta de un asistente a un evento deportivo masivo o de espectáculo, cuando su naturaleza permita la interacción con los participantes.
+
+Las personas que, directa o indirectamente, realicen las conductas previstas en este artículo serán puestas inmediatamente a disposición de las autoridades correspondientes, para que se investigue su probable responsabilidad y se garantice la reparación del daño.
+
+En las conductas no sancionadas por esta Ley, se estará a lo que establece el Código Penal Federal y los Códigos Penales de los estados.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 155.
+
+Para los efectos señalados en este Capítulo, se instituye el padrón de personas sancionadas con suspensión del derecho de asistir a eventos deportivos, en el cual quedarán inscritas las personas a quienes se les imponga como sanción la prohibición o suspensión de asistencia a eventos deportivos masivos o con fines de espectáculo. Este padrón formará parte de las bases de datos del Sistema Nacional de Seguridad Pública, la información en él contenida será confidencial y su acceso estará disponible únicamente para las autoridades de la materia, quienes no podrán usarla para otro fin distinto a hacer efectivas las sanciones de prohibición de asistir a eventos deportivos masivos o con fines de espectáculo.
+
+Su organización y funcionamiento se regirán por lo que disponga el Reglamento que al efecto se expida en términos de la Ley General del Sistema Nacional de Seguridad Pública.
+
+La inscripción en este padrón será considerada información confidencial y únicamente tendrá vigencia por el tiempo de la sanción, transcurrido el cual, deberán ser eliminados totalmente los datos del interesado.
 
 ## Transitorios
 
@@ -1627,3 +1793,15 @@ Décimo Primero. Para los efectos de lo establecido en la presente Ley las autor
 México, D.F., a 23 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las Legislaturas de los Estados y del Distrito Federal, las autoridades municipales y los órganos políticos administrativos en las demarcaciones territoriales del Distrito Federal, deberán adecuar sus disposiciones legales a lo previsto en esta reforma, en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- El Ejecutivo Federal deberá expedir las reformas necesarias al Reglamento de esta Ley, en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Las comisiones locales a que alude el último párrafo del artículo 139 de esta Ley deberán quedar instaladas dentro de los 90 días posteriores a la publicación de las reformas al Reglamento.
