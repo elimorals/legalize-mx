@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-95702"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-20"
-last_updated: "2013-08-20"
+last_updated: "2014-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 20 de agosto de 2013.
 
@@ -133,7 +133,7 @@ III. La Coordinación Jurídica;
 
 IV. La Coordinación General de Planeación Estratégica e Información Económica; y
 
-V. La Dirección General de Minería.
+V. (DEROGADA, P.O. 9 DE MAYO DE 2014)
 
 Para su funcionamiento, estas unidades administrativas contarán con un titular, así como con los recursos humanos, financieros y materiales que les sean autorizados por el Ejecutivo, de acuerdo al Presupuesto de Egresos del Estado y a sus respectivos manuales de organización. Todos ellos serán nombrados y removidos libremente por el Ejecutivo o por el Titular de la Secretaría.
 
@@ -287,37 +287,13 @@ VII. Proponer al titular de la Secretaría y en su caso coordinar la elaboració
 
 VIII. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE MAYO DE 2014)</small>
+
 #### SECCIÓN V. DE LA DIRECCIÓN GENERAL DE MINERÍA
 
 ###### Artículo 17.
 
-Corresponde al titular de la Dirección General de Minería, además de las establecidas en el artículo 10 del presente reglamento, las siguientes facultades y obligaciones:
-
-I. Promover en coordinación con la Secretaría de Economía, la Secretaría de Energía y la Secretaría del Trabajo de la administración pública federal, la generación de infraestructura geológico-minera básica del estado, que permita conocer y planificar los recursos naturales del suelo y subsuelo;
-
-II. Realizar investigaciones y estudios geológico-mineros aplicados al óptimo aprovechamiento de los recursos minerales del estado;
-
-III. Promover y desarrollar la reactivación de la industria minera del estado, en los municipios de mayores posibilidades, a través de programas de asesoría y gestión;
-
-IV. Practicar estudios de exploración a mayor detalle, que determinen el potencial de desarrollo de yacimientos minerales seleccionados por la viabilidad de su comercialización;
-
-V. Integrar y promocionar una cartera de proyectos de exploración y explotación minera;
-
-VI. Alentar la creación de cadenas productivas para elevar las posibilidades de éxito en los proyectos mineros;
-
-VII. Gestionar ante las instancias correspondientes, la emisión de la normatividad correspondiente a la explotación de minerales no concesibles por el gobierno federal, a fin de que la actividad minera se lleve a cabo dentro de un marco de desarrollo sostenido, observando las disposiciones en materia de ecología y de uso de suelo;
-
-VIII. Mantener actualizado el padrón de concesionarios mineros y su ubicación geográfica para impulsar áreas susceptibles de desarrollo;
-
-IX. Realizar investigaciones aplicadas en materia de geología ambiental, enfocadas a la detección y prevención de riesgos naturales;
-
-X. Proponer a las instancias correspondientes, programas orientados a la mitigación del impacto ambiental provocado por la actividad minera, dispersión de residuos, sobre-explotación de mantos acuíferos y en general de aspectos relacionados con el entorno ecológico;
-
-XI. Estimular la rehabilitación de terrenos deteriorados por la actividad minera, así como la producción de materiales pétreos y otras sustancias no concesibles por el gobierno federal;
-
-XII. Crear y mantener actualizado un banco de información geológico-minera para ofrecer al inversionista un panorama técnico y económico confiable del sector; y
-
-XIII. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
+(DEROGADO, P.O. 9 DE MAYO DE 2014)
 
 ### CAPÍTULO QUINTO. INTEGRACIÓN Y FACULTADES DE LAS SUBSECRETARÍAS
 
@@ -330,6 +306,10 @@ I. La Subsecretaría de Promoción y Gestión de Inversiones.
 II. La Subsecretaría de Desarrollo Económico de la Laguna.
 
 III. La Subsecretaría de PYMES y Promoción al Mercado Interno.
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2014)</small>
+
+IV. La Subsecretaría de Energía y Recursos no Renovables.
 
 ###### Artículo 19.
 
@@ -475,9 +455,41 @@ XIV. Coordinar las acciones de los programas de apoyo a la microindustria; y
 
 XV. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE PROMOCIÓN ECONÓMICA
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE MAYO DE 2014)</small>
 
-#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE GESTIÓN
+#### SECCIÓN IV. DE LA SUBSECRETARÍA DE ENERGÍA Y RECURSOS NO RENOVABLES
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 23 Bis.
+
+Corresponden al titular de la Subsecretaría de Energía y Recursos no Renovables además de las establecidas en el artículo 20 del presente reglamento, las siguientes facultades y obligaciones:
+
+I. Asesorar al Secretario y a las unidades administrativas de la Secretaría, en la atención de asuntos con hidrocarburos sólidos, líquidos y gaseosos, además de fuentes de energía renovables, que competan a esta dependencia;
+
+II. Promover y fomentar el desarrollo de la actividad energética en el estado;
+
+III. Difundir a nivel nacional e internacional la infraestructura de servicios e instalaciones, así como los estímulos que ofrece el estado para el desarrollo y establecimiento de las industrias relacionadas (sic) fuentes de energía sustentable e hidrocarburos sólidos, líquidos o gaseosos;
+
+IV. Integrar y facilitar a los inversionistas interesados información actualizada sobre los recursos de hidrocarburos sólidos líquidos y gaseosos y de las fuentes de energía eólica, solar y geotérmica, y además las características del estado, otorgando datos oportunos y confiables;
+
+V. Promover, orientar, fomentar y estimular el desarrollo de las industrias de hidrocarburos y energía renovable en el estado;
+
+VI. Proponer al Secretario el proyecto de estímulos fiscales de carácter general y apoyos específicos que sirvan para atraer a (sic) inversión en materia energética al estado;
+
+VII. Aplicar, en el ámbito de su competencia, los ordenamientos legales y demás normas jurídicas que de estos deriven, cuyas disposiciones regulen o estén vinculadas con las actividades de explotación de hidrocarburos, las de proceso, transporte y almacenamiento que se relacionen directamente con las mismas, así como relativas a la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón, petróleo o del que provenga de fuentes no convencionales;
+
+VIII. Promover en el Estado la inversión de industrias relacionadas con la generación de energía sustentable por medio de fuentes renovables.
+
+IX. Promover dentro del ámbito de su competencia la realización de estudios, investigaciones y diagnósticos en la materia energética en el estado;
+
+X. Promover ante las autoridades competentes la instalación de obras de equipamiento en las áreas que se estimen necesarias para promover el establecimiento de la industria energética;
+
+XI. Acordar con el Titular de la Secretaría el despacho de los asuntos relevantes de las unidades administrativas adscritas a su cargo y responsabilidad, y
+
+XII. Coordinar las labores de las unidades encomendadas a su cargo y establecer mecanismos de integración y coordinación que propicien el trabajo en equipo para desempeñar las labores que les correspondan.
+
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE PROMOCIÓN ECONÓMICA
 
 ### CAPÍTULO SEXTO. INTEGRACIÓN Y FACULTADES DE LAS DIRECCIONES
 
@@ -529,7 +541,7 @@ II. La Dirección General de Gestión; y
 
 III. La Dirección General de Vinculación y Competitividad.
 
-#### SECCIÓN III. DE LA DIRECCIÓN GENERAL DE VINCULACIÓN Y COMPETITIVIDAD
+#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE GESTIÓN
 
 ###### Artículo 27.
 
@@ -557,7 +569,7 @@ X. Coordinar y gestionar la elaboración de material promocional para la difusi�
 
 XI. Organizar y realizar viajes de promoción y misiones comerciales a países donde se visualice la atracción efectiva de inversión.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PROMOCIÓN INTERNACIONAL
+#### SECCIÓN III. DE LA DIRECCIÓN GENERAL DE VINCULACIÓN Y COMPETITIVIDAD
 
 ###### Artículo 28.
 
@@ -589,7 +601,7 @@ XII. Apoyar a los inversionistas o directivos de empresas de nueva creación, en
 
 XIII. Diseñar, en el ámbito de su competencia, programas de identificación de necesidades y oportunidades de nuevas empresas.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE ATENCIÓN AL INVERSIONISTA
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PROMOCIÓN INTERNACIONAL
 
 ###### Artículo 29.
 
@@ -619,7 +631,7 @@ XI. Coordinar el proceso de recepción, revisión, trámite, operación, autoriz
 
 XII. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL PARA LAS MICROS, PEQUEÑAS Y MEDIANAS EMPRESAS
+#### SECCIÓN V. DE LA DIRECCIÓN DE ATENCIÓN AL INVERSIONISTA
 
 ###### Artículo 30.
 
@@ -651,6 +663,8 @@ VIII. Proporcionar información a inversionistas sobre los apoyos y ventajas que
 
 IX. Buscar nuevos proyectos de inversión extranjera a través de las tecnologías de información.
 
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL PARA LAS MICROS, PEQUEÑAS Y MEDIANAS EMPRESAS
+
 ###### Artículo 32.
 
 El titular de la Dirección de Atención al Inversionista tendrá además de las consignadas en el artículo 25 de este reglamento las facultades y obligaciones siguientes:
@@ -681,6 +695,38 @@ La Subsecretaría de PYMES y Promoción al Mercado Interno, contará con la sigu
 
 La Dirección General para las Micros, Pequeñas y Medianas Empresas.
 
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE MINERÍA
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2014)</small>
+
+Artículo 34 Bis A. Corresponde al titular de la Dirección General de Minería, además de las establecidas en el artículo 25 del presente reglamento, las siguientes facultades y obligaciones:
+
+I. Promover en coordinación con la Secretaría de Economía, la Secretaría de Energía y la Secretaría del Trabajo de la administración pública federal, la generación de infraestructura geológico-minera básica del estado, que permita conocer y planificar los recursos naturales del suelo y subsuelo;
+
+II. Realizar investigaciones y estudios geológico-mineros aplicados al óptimo aprovechamiento de los recursos minerales del estado;
+
+III. Promover y desarrollar la reactivación de la industria minera del estado, en los municipios de mayores posibilidades, a través de programas de asesoría y gestión;
+
+IV. Practicar estudios de exploración a mayor detalle, que determinen el potencial de desarrollo de yacimientos minerales seleccionados por la viabilidad de su comercialización;
+
+V. Integrar y promocionar una cartera de proyectos de exploración y explotación minera;
+
+VI. Alentar la creación de cadenas productivas para elevar las posibilidades de éxito en los proyectos mineros;
+
+VII. Gestionar ante las instancias correspondientes, la emisión de la normatividad correspondiente a la explotación de minerales no concesibles por el gobierno federal, a fin de que la actividad minera se lleve a cabo dentro de un marco de desarrollo sostenido, observando las disposiciones en materia de ecología y de uso de suelo;
+
+VIII. Mantener actualizado el padrón de concesionarios mineros y su ubicación geográfica para impulsar áreas susceptibles de desarrollo;
+
+IX. Realizar investigaciones aplicadas en materia de geología ambiental, enfocadas a la detección y prevención de riesgos naturales;
+
+X. Proponer a las instancias correspondientes, programas orientados a la mitigación del impacto ambiental provocado por la actividad minera, dispersión de residuos, sobre-explotación de mantos acuíferos y en general de aspectos relacionados con el entorno ecológico;
+
+XI. Estimular la rehabilitación de terrenos deteriorados por la actividad minera, así como la producción de materiales pétreos y otras sustancias no concesibles por el gobierno federal;
+
+XII. Crear y mantener actualizado un banco de información geológico-minera para ofrecer al inversionista un panorama técnico y económico confiable del sector; y
+
+XIII. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el o la Titular de la Subsecretaría de energía.
+
 ###### Artículo 34.
 
 El titular de la Dirección General para las Micros, Pequeñas y Medianas Empresas, tendrá además de las consignadas en el artículo 25 de este reglamento las facultades y obligaciones siguientes:
@@ -706,6 +752,20 @@ IX. Asistir a las dependencias y organismos descentralizados del gobierno del es
 X. Asistir a las áreas de promoción y desarrollo económico de los municipios del estado y ejercer programas en común para el desarrollo y promoción de las micro, pequeñas y medianas empresas; tener estrecha comunicación con las asociaciones de promoción para el desarrollo económico o su similar del estado para concretar programas, actividades e iniciativas dirigidas para acelerar el crecimiento de las micro, pequeñas y medianas empresas; y
 
 XI. Fungir como Delegado Estatal del Programa de Ventanilla de Fomento a la Microindustria y operar la ventanilla de fomento a la microindustria para coadyuvar en la formación o constitución de empresas de microindustria.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2014)</small>
+
+### CAPÍTULO OCTAVO BIS. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE ENERGÍA Y RECURSOS NO RENOVABLES
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 34 Bis.
+
+La Subsecretaría de Energía y Recursos No Renovables contará con la siguiente Dirección a su cargo:
+
+La Dirección General de Minería.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE MAYO DE 2014)</small>
 
 ### CAPÍTULO NOVENO. LOS NOMBRAMIENTOS Y LAS AUSENCIAS
 
@@ -764,3 +824,11 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD
 JOSÉ ANTONIO GUTIÉRREZ JARDÓN
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MAYO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
