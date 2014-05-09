@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2014-04-25"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -209,6 +209,24 @@ VII. Los afectivos derivados de la familia, la amistad y los bienes;
 
 VIII. El respeto, salvaguarda y protección de la integridad física, psicológica y patrimonial.
 
+> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 9 DE MAYO DE 2014)</small>
+
+Medios para acreditar la identidad de las personas físicas
+
+> <small>(ADICIONADO, G.G. 9 DE MAYO DE 2014)</small>
+
+###### Artículo 2.
+
+5 Bis.- Se consideran como medios aceptables y válidos para acreditar la identidad de las personas físicas, los documentos públicos ya sea en original o en copia certificada, expedidos por las autoridades competentes, de manera enunciativa y no limitativa, los siguientes:
+
+I. En caso de menores de edad, el acta de nacimiento, la carta de naturalización y las credenciales expedidas por autoridades educativas que cuenten con autorización o con reconocimiento de validez oficial;
+
+II. La Credencial para votar, el pasaporte, la matrícula consular mexicana, la licencia para conducir y la carta de naturalización;
+
+III. Las Credenciales expedidas por autoridades educativas, las cédulas profesionales o autorización provisional para ejercer como pasante, en las que se aprecie la identidad de la persona;
+
+IV. Las demás identificaciones reconocidas como oficiales.
+
 Capacidad de ejercicio para donar órganos
 
 ###### Artículo 2.
@@ -243,15 +261,15 @@ IV. Los hermanos mayores de edad;
 
 V. Cualquier pariente consanguíneo hasta cuarto grado.
 
+## TITULO TERCERO. De las Personas Jurídicas Colectivas
+
+Concepto de persona jurídica colectiva
+
 ###### Artículo 2.
 
 9.- Las personas jurídicas colectivas son las constituidas conforme a la ley, por grupos de individuos a las cuales el derecho considera como una sola entidad para ejercer derechos y asumir obligaciones.
 
 Personas jurídicas colectivas
-
-## TITULO TERCERO. De las Personas Jurídicas Colectivas
-
-Concepto de persona jurídica colectiva
 
 ###### Artículo 2.
 
@@ -279,15 +297,15 @@ Normas que rigen y órganos representativos de la persona jurídica colectiva
 
 12.- Las personas jurídicas colectivas se rigen por las leyes correspondientes, por su acto constitutivo y por sus estatutos; actúan y se obligan por medio de los órganos que las representan.
 
+## TITULO CUARTO. Del Nombre de las Personas
+
+Concepto del nombre de las personas
+
 ###### Artículo 2.
 
 13.- El nombre designa e individualiza a una persona.
 
 Composición del nombre de las personas físicas
-
-## TITULO CUARTO. Del Nombre de las Personas
-
-Concepto del nombre de las personas
 
 ###### Artículo 2.
 
@@ -305,15 +323,15 @@ Composición del nombre de las personas jurídicas colectivas
 
 16.- El nombre de las personas jurídicas colectivas se forma con la denominación o razón social, asignada en el acto de su constitución o en sus estatutos.
 
+## TITULO QUINTO. Del Domicilio
+
+Concepto de domicilio de las personas físicas
+
 ###### Artículo 2.
 
 17.- El domicilio de una persona física es el lugar donde reside con el propósito de establecerse en él; a falta de éste, el lugar en que tiene el principal asiento de sus negocios; y a falta de uno y otro, el lugar en que se halle.
 
 Domicilio presumible de las personas físicas
-
-## TITULO QUINTO. Del Domicilio
-
-Concepto de domicilio de las personas físicas
 
 ###### Artículo 2.
 
@@ -2443,7 +2461,7 @@ Respeto y consideración entre hijos y ascendientes
 
 ###### Artículo 4.
 
-199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Códig.
+199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Código.
 
 Seguimiento de las adopciones internacionales
 
@@ -17662,3 +17680,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El Ejecutivo del Estado proveerá en la esfera administrativa la exacta observancia del presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 9 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
