@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-servicio-profesional-de-carrera-policial-82561"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-13"
-last_updated: "2011-08-13"
+last_updated: "2014-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 13 de agosto de 2011.
 
@@ -2832,3 +2834,31 @@ Por tanto mando se imprima, publique circule y observe.
 Dado en Palacio de Gobierno, Residencia del Poder Ejecutivo del Estado de Colima, el día 12 del mes de agosto del año dos mil once.
 
 Atentamente. SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE MAYO DE 2014.
+
+PRIMERO.- El presente Reglamento, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Reglamento del Servicio Profesional de Carrera Policial para el Estado de Colima, publicado en el Periódico Oficial "El Estado de Colima" el día 13 de agosto de 2011, en el tomo 96, así como las demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Se otorga al Titular de la Secretaría de Seguridad Pública la más amplia facultad para resolver cualquier tipo de cuestión de índole operativa contenidas en los manuales administrativos correspondientes, en tanto que estos no se hayan publicado.
+
+CUARTO.- El Estado celebrará Convenios de Coordinación con los municipios que integran la entidad federativa siempre respetando la autonomía municipal, con objeto de ir implementando y homologando gradualmente el Servicio Profesional de Carrera Policial, en los términos de su legislación interna y el presente Reglamento.
+
+QUINTO.- Todo Integrante que ingrese a la Institución al entrar en vigor este Reglamento tendrá que sujetarse al mismo.
+
+SEXTO.- Los órganos a que se refiere el presente Reglamento, se integrarán en un término no mayor de sesenta días a la publicación del mismo.
+
+SÉPTIMO.- Cuando las funciones o atribuciones de alguna unidad administrativa Estatal, establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece, o cuando se cambie de adscripción, del personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que previamente se determine.
+
+OCTAVO.- Para efectos del personal en activo se dispondrá un período de migración que no excederá de un año para que los elementos de la Institución Policial cubran con los siguientes criterios:
+
+1. Que tengan las evaluaciones de control y confianza;
+
+2. Que tengan la equivalencia a la formación inicial; y
+
+3. Que cubran con el perfil de puesto con relación a la renivelación académica.
+
+Para tales efectos una vez cumplido el plazo, los elementos que no cubran con alguno de éstos criterios deberán ser separados de la Institución.
