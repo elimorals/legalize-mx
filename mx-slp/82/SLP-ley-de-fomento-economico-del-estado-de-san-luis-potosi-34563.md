@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-economico-del-estado-de-san-luis-potosi-34563"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2012-06-14"
+last_updated: "2014-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ECONÓMICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -173,7 +173,9 @@ IV. Emitir opinión respecto de las resoluciones que sobre modificación o cance
 
 V. Conocer y opinar sobre la constitución, administración, destino y presupuesto anual del Fondo, proponiendo a la Secretaría los ajustes que estime pertinentes;
 
-VI. Proponer a las autoridades federales, estatales y municipales la generación, implementación y desarrollo de incentivos, así como la entrega de recursos, en dinero o en especie, a través de los fideicomisos públicos que para tal fin constituya el Ejecutivo del Estado, a las personas físicas o morales o instituciones que resulten favorecidas en términos de esta Ley;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+VI. Proponer a las autoridades federales, estatales y municipales la generación, implementación y desarrollo de incentivos, así como la entrega de recursos, en dinero o en especie, a través de los fideicomisos públicos que para tal fin constituya el Ejecutivo del Estado, a las personas físicas o morales o instituciones que resulten favorecidas en términos de esta Ley, en igualdad de oportunidades entre mujeres y hombres;
 
 VII. Elaborar y proponer al Ejecutivo del Estado para su aprobación, el Reglamento del Consejo y del Fondo, y
 
@@ -225,7 +227,9 @@ III. Asesorar a los ayuntamientos de la región en la elaboración, ejecución y
 
 IV. Proponer reformas a las disposiciones municipales para facilitar la creación de, y funcionamiento de empresas productivas;
 
-V. Proponer a los ayuntamientos de la región, programas de estímulos para el establecimiento y desarrollo de empresas que contribuyan al incremento de la productividad regional, y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+V. Proponer a los ayuntamientos de la región, programas de estímulos para el establecimiento y desarrollo de empresas que contribuyan al incremento de la productividad regional, atendiendo a la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres, y
 
 VI. Las demás que establezca su Reglamento.
 
@@ -692,5 +696,11 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 14 DE JUNIO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
