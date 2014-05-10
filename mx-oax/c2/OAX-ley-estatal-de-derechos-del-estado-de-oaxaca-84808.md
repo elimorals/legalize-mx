@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2013-12-31"
+last_updated: "2014-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -959,6 +959,8 @@ a) Acceso al Museo, por persona: $20.00
 
 #### Sección Primera. Del Auditorio Guelaguetza
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
+
 #### Sección Segunda. Planetario Nundehui
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -1015,41 +1017,37 @@ Hasta 22 metros cuadrados: $13,393.00
 
 ###### Artículo 16.
 
-Por el uso, goce o aprovechamiento del Auditorio Guelaguetza e instalaciones de sonido e iluminación, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
+Por el uso, goce o aprovechamiento del Auditorio Guelaguetza, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
 
 Número de salarios
 
 mínimos
 
-I Actividades Artísticas, Culturales y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-Académicas, por 24 horas: 2400.00
+I Actividades Artísticas por 24 horas: 1490.00
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
 II Actividades Gubernamentales
 
-por 24 horas: 1200.00
+por 24 horas: 745.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+III Actividades Culturales y Sociales que
 
-III Equipo de Audio por 3 horas: 150.00
+no causen cobro de boletaje por 24 horas: 784.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV (DEROGADA, P.O. 10 DE MAYO DE 2014)
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-IV Equipo de iluminación por 3 horas: 150.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
 V Por hora adicional en cualquiera de las
 
-fracciones anteriores: 10.00
+fracciones anteriores: 24.00
 
-Para el caso de que no sea utilizado el rider técnico del Auditorio, se cobrará el 25% sobre el costo del derecho a pagar por el uso del inmueble, por concepto de uso de energía eléctrica.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1363,6 +1361,12 @@ VII. Reposición o modificación de
 
 constancias: 0.18
 
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+VIII. Reproducción en copia simple, de bases de
+
+licitación, por cada hoja: 0.01
+
 No generará el pago de derechos la expedición de documentos o copias certificadas que sean solicitadas por las autoridades judiciales federales, locales y municipales, siempre que la solicitud no derive de la petición de un particular.
 
 Cuando por causas imputables a los solicitantes de los servicios a que se refiere este artículo, fuere necesario reponer o modificar algún registro, documento o trámite, se pagarán derechos correspondientes por reposición o modificación.
@@ -1473,7 +1477,9 @@ anteriores, solicitados con carácter de urgente
 
 causarán, además: 2.20
 
-III Por Inscripción de sentencias ejecutorias de
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
+
+III Por inscripción de:
 
 a) Divorcio: 13.00
 
@@ -1487,7 +1493,9 @@ c) Anotaciones marginales ordenadas
 
 por la autoridad judicial: 0.00
 
-IV Por trámites administrativos
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
+
+IV Por trámites:
 
 a) Aclaración de acta: 1.20
 
@@ -1534,6 +1542,10 @@ certificación que se causen en el país emisor.
 j) Traducción de actas generadas en idioma
 
 extranjero: 5.00
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+k) Divorcio administrativo: 58.00
 
 V Por matrimonios
 
@@ -2267,6 +2279,12 @@ exclusivamente en actos del patrimonio inmobiliario
 
 federal: 25.00
 
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XVI Registro de la patente o fiat de Notario Auxiliar,
+
+por haber aprobado exámenes: 1650.00
+
 Los libros de los Notarios deberán reunir los requisitos que establecen los artículos 41 al 45 de la Ley del Notariado para el Estado de Oaxaca.
 
 #### Sección Segunda. De la Policía Auxiliar Bancaria, Industrial y Comercial
@@ -2332,6 +2350,10 @@ De 41 a 80 páginas: 2.00
 De 81 a 120 páginas: 3.00
 
 Más de 121 páginas: 4.00
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+e) Ejemplar del Periódico 0.50
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2823,15 +2845,7 @@ Número de salarios
 
 mínimos
 
-I Pericial para determinar las condiciones
-
-de seguridad, en su caso de comodidad, de
-
-los vehículos automotrices de servicio:
-
-a) De servicio público: 4.40
-
-b) De servicio privado: 3.30
+I (DEROGADA, P.O. 10 DE MAYO DE 2014)
 
 II Constancia de no infracción:
 
@@ -2847,9 +2861,7 @@ b) De servicio privado: 1.76
 
 IV Por toma de calcas, por unidad: 0.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-Los concesionarios propietarios y/o tenedores de vehículos destinados al servicio público deberán someter a la revisión pericial dichos vehículos en los primeros tres meses de cada año.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3103,15 +3115,25 @@ carga tipo general de alto tonelaje y
 
 especializada: 198.00
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-XIII Por la expedición de títulos de concesión
+XIII Por la expedición de transferencia
 
-de cualquier modalidad y tipo de unidad, por
+de derechos entre particulares, sea a
 
-cesión de derechos entre particulares,
+título gratuito, previa autorización expresa
 
-por causa hereditaria o invalidez: 40.00
+de la Secretaría de Vialidad y Transporte,
+
+por muerte o incapacidad física o
+
+mental, y por la integración de
+
+expedientes administrativos de regularización
+
+de concesionarios en cualquier modalidad y
+
+tipo de Unidad: 65.00
 
 XIV Por la expedición de permisos para
 
@@ -3229,11 +3251,23 @@ por unidad: 177.00
 
 XXXI Por trámite de cambio de vehículo: 1.05
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-XXXII Renovación de permiso por única
+XXXII. Por la expedición de permiso para
 
-ocasión hasta por seis meses: 3.50
+servicio especial y por la integración del
+
+expediente administrativo por unidad: 100.00
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXXIII. Por prórroga de permiso para servicio especial: 100.00
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXXIV. Por la expedición de constancia pericial: 4.40
+
+Los concesionarios, propietarios y/o tenedores de vehículos destinados al servicio público deberán someter a la revisión pericial dichos vehículos en los primeros tres meses de cada año.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3395,37 +3429,17 @@ placas, calcomanía y tarjeta de circulación
 
 de vehículos de demostración: 11.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
 
 ###### Artículo 42.
 
-Las personas físicas que soliciten la expedición de licencias de manejo causarán y pagarán derechos conforme a lo siguiente:
+Las personas físicas causarán y pagarán derechos por la expedición de licencias de conducir, de conformidad con los siguientes tipos:
 
 Número de salarios
 
 mínimos
 
-I Expedición de licencias en la modalidad
-
-de chofer, con vigencia de:
-
-a) 5 años 12.00
-
-b) 3 años 8.50
-
-c) 2 años 6.00
-
-II Expedición de licencias en la modalidad de automovilista, con vigencia de:
-
-a) 5 años 11.00
-
-b) 3 años 8.00
-
-c) 2 años 5.50
-
-III Expedición de licencias en la modalidad de motociclista, con vigencia de:
+I Tipo "A":
 
 a) 5 años 8.00
 
@@ -3433,21 +3447,43 @@ b) 3 años 7.00
 
 c) 2 años 5.00
 
-IV Expedición de licencias en la modalidad de moto taxis, con vigencia de:
+II Tipo "B":
 
-a) 5 años 9.00
+a) 5 años 11.00
 
-b) 3 años 7.50
+b) 3 años 8.00
 
 c) 2 años 5.50
 
-V Reposición de licencias por pérdida
+III Tipo "C":
 
-o extravío en cualquiera de sus modalidades: 4.00
+a) 5 años 12.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+b) 3 años 8.50
 
-Tratándose de personas adultas mayores, se les otorgará el descuento del 50% de la cuota a que se (sic) el presente artículo para lo cual deberán presentar la credencial emitida a su favor por dicha institución documento oficial con fotografía.
+c) 2 años 6.00
+
+IV Tipo "D":
+
+a) 5 años 14.00
+
+b) 3 años 10.50
+
+c) 2 años 8.00
+
+V Tipo "E", y
+
+a) 5 años 14.00
+
+b) 3 años 9.00
+
+c) 2 años 7.00
+
+VI Reposición de licencia por pérdida
+
+y extravío en cualquiera de sus tipos: 4.00
+
+Tratándose de personas adultas mayores, se les otorgará el descuento del 50% de la cuota a que se refiere el presente artículo, para lo cual deberán presentar documento oficial con fotografía.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4323,15 +4359,13 @@ Las personas físicas y morales que adquieran boletos para el evento "Lunes del 
 
 Pesos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
 I Preventa
 
-Sección A $850.00
+Sección A $950.00
 
-Sección B $600.00
+Sección B $750.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4343,9 +4377,9 @@ Sección A $1,050.00
 
 Sección B $700.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
 
-La preventa abarcará del 1 de abril al 10 de junio.
+La Secretaría de Finanzas acordará el plazo y porcentaje de la preventa anualmente.
 
 ### Capítulo Octavo. Por los Servicios que presta la Secretaría de Finanzas
 
@@ -5019,9 +5053,7 @@ de la Administración Pública Estatal: 30.00
 
 III (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
 IV Por la expedición de permisos
 
@@ -5029,11 +5061,9 @@ para el establecimiento de locales
 
 construidos en parques y unidades
 
-deportivas por mes: 20.00
+deportivas por mes: $1228.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
 V Por la expedición de permisos para
 
@@ -5041,17 +5071,17 @@ el establecimiento de puestos fijos o
 
 semifijos localizados en parques y
 
-unidades deportivas por mes: 14.00
+unidades deportivas por mes: $859.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
 VI Por la expedición de permisos para
 
-El establecimiento de comercio informal
+personas físicas por mes para el
 
-por mes: 2.00
+establecimiento de comercio temporal en parques
+
+y unidades deportivas: $123.00
 
 > <small>(ADICIONADA, P.O. 2 DE MARZO DE 2013)</small>
 
@@ -5074,6 +5104,24 @@ VIII Por la expedición de permisos para el
 establecimiento de antenas de telecomunicación
 
 en bienes del dominio público del Estado: 460.00
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+IX Por la expedición de permisos
+
+para personas morales o unidades
+
+económicas por mes para el
+
+establecimiento de comercio temporal
+
+en parques y unidades deportivas: $893.00
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+X Por la expedición de constancias
+
+de no adeudo patrimonial: 1.00
 
 ###### Artículo 79.
 
@@ -5138,10 +5186,6 @@ XVI Reproducción de documento
 digitalizado por hoja: 0.28
 
 ### Capítulo Segundo. Por los Servicios que presta la Universidad Tecnológica de los Valles Centrales de Oaxaca
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 80.
 
@@ -5298,6 +5342,10 @@ b) Técnico superior en gastronomía 23.00
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 c) Ingenierías 21.17
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+d) Licenciatura en gastronomía: 30.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -7085,13 +7133,13 @@ VIII Por dictamen de estudios
 
 de sistema escolarizado:
 
-a) Equivalencia de estudios
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
 
-realizados en el país: 8.80
+a) Dictamen de portabilidad
 
-b) Revalidación de estudios realizados
+de estudios: 8.80
 
-en el extranjero: 16.50
+b) (DEROGADO, P.O. 10 DE MAYO DE 2014)
 
 IX Curso propedéutico: 3.30
 
@@ -7285,13 +7333,13 @@ I. Por el suministro de agua potable, se pagará el importe en pesos mexicanos q
 
 a) Servicio medido, de conformidad con la siguiente tabla:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2012, PÁGINA 33.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 b) Servicio no medido de conformidad con la siguiente tabla:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2012, PÁGINA 33.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -7329,6 +7377,18 @@ e) Instalaciones destinadas a la educación,
 
 salud, culturales y deportivas: 250.00
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+Por los servicios de inspección, y la evaluación para la emisión del dictamen de factibilidad, se cobraran los derechos que resulten de la misma.
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+IV Descarga de aguas residuales que se
+
+realizan por medio de una cisterna móvil
+
+por metro cubico: $5.25
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Artículo 99 A. Los ingresos que se obtengan por los servicios a que se refiere este título serán destinados a los mismos.
@@ -7353,9 +7413,11 @@ Número de Salarios
 
 Mínimos
 
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
 I Por la Evaluación de Competencia
 
-Laboral: 14.00
+Laboral: 15.00
 
 II Por la Expedición de Certificados de:
 
@@ -7365,27 +7427,39 @@ b) Nivel 2: 5.00
 
 c) Nivel 3: 7.00
 
-d) Nivel 4: 11.00
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
 
-e) Nivel 5: 12.00
+d) Nivel 4: 12.00
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+
+e) Nivel 5: 13.00
 
 III Por Reposición de Certificados: 7.00
 
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
 IV Por la Acreditación de Centros
 
-de Evaluación: 317.00
+de Evaluación: 335.00
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
 V Por la Acreditación de Estándares de
 
-Competencia: 106.00
+Competencia: 112.00
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
 VI Por la Renovación de Estándares de
 
-Competencia: 106.00
+Competencia: 112.00
 
-VII Por la impartición de cursos en materia
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-de competencia laboral: 14.00
+VII Por la Impartición de
+
+Cursos de Capacitación: 15.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7702,3 +7776,7 @@ P.O. 2 DE MARZO DE 2013.
 P.O. 31 DE DICIEMBRE DE 2013.
 
 PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil catorce, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE MAYO DE 2014.
+
+Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
