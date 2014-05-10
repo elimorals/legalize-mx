@@ -4,7 +4,7 @@ identifier: "COL-ley-para-el-desarrollo-forestal-sustentable-del-estado-de-51607
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-02"
-last_updated: "2006-09-02"
+last_updated: "2014-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Ley publicada en el Suplemento No. 4 al Periódico Oficial del Estado de Colima, el sábado 2 de septiembre de 2006.
 
@@ -97,9 +97,33 @@ XIV. Garantizar la participación ciudadana, incluyendo las comunidades indígen
 
 XV. Promover instrumentos de apoyos económicos para fomentar el desarrollo forestal sustentable;
 
-XVI. Impulsar el desarrollo de la empresa social forestal y comunal en las comunidades indígenas; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-XVII. Promover la participación de Los Municipios en la formulación de su normatividad en materia forestal, acorde a sus necesidades locales.
+XVI. Impulsar el desarrollo de la empresa social forestal y comunal en las comunidades indígenas;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XVII. Promover la participación de los Municipios en la formulación de su normatividad en materia forestal, acorde a sus necesidades locales;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XVIII. Desarrollar los bienes y servicios ambientales y proteger, mantener y aumentar la biodiversidad que brindan los recursos forestales;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XIX. Desarrollar criterios e indicadores para el manejo forestal sustentable;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XX. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas, en la aplicación, evaluación y seguimiento de la política forestal;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXI. Promover instrumentos económicos para fomentar el desarrollo forestal; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXII. Fomentar la cultura, educación, capacitación, investigación y desarrollo tecnológico forestal.
 
 ###### ARTÍCULO 3.
 
@@ -119,9 +143,11 @@ V. La protección y conservación de las zonas que sirvan de refugio a la fauna 
 
 La propiedad de los recursos forestales comprendidos dentro del territorio estatal, corresponde a los ejidos, las comunidades, pueblos y comunidades indígenas, personas físicas o morales y Los Municipios que sean propietarios de los terrenos donde aquéllos se ubiquen. Los procedimientos establecidos por esta Ley, no alterarán el régimen de propiedad de dichos terrenos.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 5.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley General de Desarrollo Forestal Sustentable y Ley Ambiental para el Desarrollo Sustentable del Estado.
+En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley General de Desarrollo Forestal Sustentable, la Ley General de Equilibrio Ecológico y Protección al Ambiente, y Ley Ambiental para el Desarrollo Sustentable del Estado.
 
 ### CAPÍTULO II
 
@@ -287,9 +313,21 @@ XXXIII. Promover el desarrollo de plantaciones forestales comerciales;
 
 XXXIV. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico estatal;
 
-XXXV. Hacer del conocimiento de las autoridades competentes, y en su caso denunciar las infracciones faltas administrativas, o delitos que se cometan en materia forestal; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-XXXVI. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta ley u ordenamientos que no estén expresamente otorgados a la Federación o a los Municipios.
+XXXV. Hacer del conocimiento de las autoridades competentes, y en su caso denunciar las infracciones, faltas administrativas, o delitos que se cometan en materia forestal;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXXVI. Elaborar convenios con las organizaciones privadas dedicadas a la producción agrícola y de uso de recursos forestales, para que se establezcan y observen horarios nocturnos para la quema de productos agrícolas, si es necesario para el desarrollo de su proceso, dentro de los parámetros permitidos y sin dañar los recursos forestales; así como vigilar el cumplimento de estas disposiciones;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXXVII. Brindar atención, de forma coordinada con la Federación y los municipios, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas; y
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXXVIII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda la Ley General u otros ordenamientos, y que no estén expresamente otorgados a la Federación o a los Municipios.
 
 #### Sección 2. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -899,9 +937,21 @@ IV. Contribuir al diseño, formulación, elaboración y publicación de material
 
 V. Fomentar la capacitación de formadores y promotores forestales voluntarios;
 
-VI. Promover los criterios de política forestal previstos en la presente Ley; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-VII. Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
+VI. Promover los criterios de política forestal previstos en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+VII. Alentar la recopilación, análisis y divulgación de investigaciones forestales exitosas en el ámbito regional, nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+VIII. Promover y gestionar la actualización de los contenidos programáticos en materia de conservación, protección, restauración y aprovechamientos forestales en el sistema educativo nacional, que fortalezcan y fomenten la cultura forestal; y
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+IX. Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
 
 ###### ARTÍCULO 73.
 
@@ -1104,3 +1154,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día quince del mes de agosto del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, C. CARLOS SALAZAR PRECIADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
