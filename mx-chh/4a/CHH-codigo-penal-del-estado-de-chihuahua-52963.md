@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2014-03-29"
+last_updated: "2014-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2014 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1369,9 +1369,9 @@ Efectos y características de la prescripción
 
 La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, y para ello bastará el transcurso del tiempo señalado por la ley.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
 
-Los delitos de extorsión; desaparición forzada de personas; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura y, enriquecimiento ilícito, de acuerdo con el numeral 272; así como aquéllos previstos en los artículos 171, 172, 173, 174, 175, 178, 184, 185, 198 y 201 de este Código, cometidos en contra de personas menores de edad o de las que no tienen capacidad para comprender el significado del hecho o de resistirlo, son imprescriptibles.
+Los delitos de extorsión; desaparición forzada de personas; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura y, enriquecimiento ilícito, de acuerdo con el numeral 272; así como aquéllos previstos en los artículos 171, 172, 173, 174, 175, 178 y 184 de este Código, cometidos en contra de personas menores de edad o de las que no tienen capacidad para comprender el significado del hecho o de resistirlo, son imprescriptibles.
 
 ###### Artículo 106.
 
@@ -2057,7 +2057,7 @@ DELITOS CONTRA LA FORMACIÓN DE LAS PERSONAS MENORES DE EDAD Y PROTECCIÓN INTEG
 
 La cópula entre ascendientes y descendientes consanguíneos en línea recta o entre hermanos, se sancionará con prisión o tratamiento en libertad de uno a seis años.
 
-### CAPÍTULO II. PORNOGRAFÍA CON PERSONAS MENORES DE EDAD O QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+### CAPÍTULO II
 
 ###### Artículo 179.
 
@@ -2107,23 +2107,15 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá prisión de uno a tres años y de cincuenta a doscientos días de multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MAYO DE 2014)</small>
+
 ### CAPÍTULO ÚNICO. VIOLENCIA FAMILIAR
 
 ### CAPÍTULO I. ESTADO CIVIL
 
 ###### Artículo 185.
 
-Comete este delito:
-
-I. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
-
-II. Quien reproduzca, publique, publicite, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
-
-III. Quien ofrezca, posea o almacene intencionalmente para cualquier fin, imágenes o la voz de personas menores de edad o de personas que no tengan la capacidad de comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
-
-Al autor de los delitos previstos en este artículo se le impondrá prisión de seis meses a seis años y quinientos a dos mil días multa.
-
-A quien financie, dirija, administre o supervise cualquiera de las actividades anteriores con la finalidad de que se realicen las conductas previstas en las fracciones de este artículo, se le impondrá pena de prisión de siete a once años y multa de mil a cuatro mil días.
+(DEROGADO, P.O. 10 DE MAYO DE 2014)
 
 ### CAPÍTULO II. BIGAMIA
 
@@ -2169,7 +2161,7 @@ Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en de
 
 ## TÍTULO OCTAVO. DELITOS COMETIDOS EN CONTRA DE UN MIEMBRO DE LA FAMILIA
 
-### CAPÍTULO II. TRATA DE PERSONAS
+### CAPÍTULO II
 
 ###### Artículo 193.
 
@@ -2185,7 +2177,7 @@ Este delito se perseguirá de oficio.
 
 En cualquier momento, el Ministerio Público podrá solicitar a la autoridad judicial, la aplicación de medidas de protección para la víctima y esta última resolverá sin dilación.
 
-### CAPÍTULO III. LENOCINIO
+### CAPÍTULO III
 
 ## TÍTULO NOVENO. DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
@@ -2245,43 +2237,29 @@ No serán consideradas discriminatorias todas aquellas medidas tendientes a la p
 
 Este delito se perseguirá previa querella.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MAYO DE 2014)</small>
+
 ### CAPÍTULO ÚNICO. REVELACIÓN DE SECRETOS
 
 ###### Artículo 198.
 
-Comete el delito de trata de personas quien induzca, procure, promueva, facilite, reclute, mantenga, capte, ofrezca, traslade, entregue o reciba para sí o para un tercero a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a cualquier forma de explotación o para extirpar sus órganos, tejidos o sus componentes.
-
-Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas similares, la servidumbre, la mendicidad ajena o la extracción de órganos, tejidos o componentes.
-
-Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
+(DEROGADO, P.O. 10 DE MAYO DE 2014)
 
 ###### Artículo 199.
 
-El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
+(DEROGADO, P.O. 10 DE MAYO DE 2014)
 
 ###### Artículo 200.
 
-A quien cometa el delito de trata de personas se le aplicará:
+(DEROGADO, P.O. 10 DE MAYO DE 2014)
 
-I. De seis a doce años de prisión y de quinientos a mil quinientos días multa;
-
-II. De nueve a dieciocho años de prisión, si se emplease violencia física o moral, o el agente se valiese de la función pública que tuviere o hubiese ostentado sin tener. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por veinticinco años;
-
-III. Las penas que resulten de las fracciones I y II de este artículo se incrementarán hasta una mitad;
-
-a) Si el delito es cometido en contra de una persona menor de dieciocho años de edad;
-
-b) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
-
-c) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho;
-
-d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MAYO DE 2014)</small>
 
 ### CAPÍTULO I. ROBO
 
 ###### Artículo 201.
 
-A quien obtenga una ventaja financiera u otro beneficio procedente de los servicios sexuales de otra persona se le sancionará con una pena de dos a diez años y de quinientos a cinco mil días multa.
+(DEROGADO, P.O. 10 DE MAYO DE 2014)
 
 ## TÍTULO DÉCIMO PRIMERO. DELITOS CONTRA LAS NORMAS DE INHUMACIÓN Y EXHUMACIÓN Y CONTRA EL RESPETO A LOS CADÁVERES O RESTOS HUMANOS
 
@@ -4446,3 +4424,21 @@ DECRETO No. 1389/2013 XIV P.E. POR EL QUE SE REFORMA EL CÓDIGO PENAL DEL ESTADO
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de Trata de Personas, Pornografía con personas menores de edad o que no tienen la capacidad de comprender el significado del hecho y Lenocinio, previstas en el Código Penal del Estado, vigentes hasta la entrada en vigor de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para la emisión del Reglamento del Fondo Estatal de Protección y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
