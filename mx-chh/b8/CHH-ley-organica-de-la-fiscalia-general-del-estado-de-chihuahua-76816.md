@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2013-10-19"
+last_updated: "2014-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2014, EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -105,9 +107,15 @@ VIII. Ejercer el mando sobre la Policía Estatal Única en los términos de su L
 
 IX. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes Infractores;
 
-X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, los Laboratorios de la Dirección de Servicios Periciales y Ciencias Forenses, el Centro de Justicia Alternativa y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos, y
+X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, los Laboratorios de la Dirección de Servicios Periciales y Ciencias Forenses, el Centro de Justicia Alternativa y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos, y (sic)
 
-XI. Aplicar los mecanismos legales para el Ingreso, Promoción, Permanencia, Responsabilidades y Estímulos de los servidores de la Fiscalía General del Estado.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XI. Crear y operar la Unidad Especializada para la Investigación y persecución de los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la cual contará con Ministerios Públicos y policías especializados, así como con los recursos humanos, financieros y materiales que requiera para su efectiva operación. Esta Unidad se integrará con servicios periciales y técnicos especializados para el ejercicio de su función, y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XII. Aplicar los mecanismos legales para el Ingreso, Promoción, Permanencia, Responsabilidades y Estímulos de los servidores de la Fiscalía General del Estado.
 
 El Fiscal General intervendrá por sí o por conducto de las Fiscalías Especializadas, o de los Agentes del Ministerio Público, en el ejercicio de las atribuciones a que se refiere este apartado, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el Ejecutivo local o el propio Fiscal General. El Reglamento prevendrá la distribución de los asuntos entre las Unidades Técnicas y Administrativas de la Dependencia.
 
@@ -276,6 +284,10 @@ Este órgano estará a cargo de un Fiscal Especializado, quien contará con el a
 ###### Artículo 9.
 
 La Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito contará con cuatro coordinaciones regionales y las casas de atención a víctimas y ofendidos del delito que se establezcan, y ejercerá las atribuciones señaladas en el apartado C del artículo 2 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+La Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito establecerá albergues, refugios y casas de medio camino especializados para las víctimas, ofendidos y testigos, en los términos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, donde se garantice un alojamiento digno por el tiempo necesario, asistencia material, médica, psiquiátrica, psicológica, social, alimentación y cuidados atendiendo a sus necesidades y a su evolución.
 
 ###### Artículo 10.
 
@@ -610,3 +622,21 @@ P.O. 19 DE OCTUBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de Trata de Personas, Pornografía con personas menores de edad o que no tienen la capacidad de comprender el significado del hecho y Lenocinio, previstas en el Código Penal del Estado, vigentes hasta la entrada en vigor de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para la emisión del Reglamento del Fondo Estatal de Protección y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
