@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2014-04-23"
+last_updated: "2014-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ESTATAL DE EDUCACION DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2014, EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -203,7 +205,7 @@ XIV. Desarrollar e implementar las estrategias preventivas para la sensibilizaci
 
 XV. Formar personas responsables y respetuosas de la ley, con actitudes favorables a la participación comunitaria, la cooperación y la convivencia civilizada; procurar el aprecio y la práctica de la conducta ética;
 
-XVI. Propiciar el respeto a la diversidad ideológica, cultural y étnica; y
+XVI. Propiciar el respeto a la diversidad ideológica, cultural y étnica; y (sic)
 
 XVII. Promover el conocimiento y la práctica del derecho a la información pública y a la protección de datos personales, así como la transparencia y la rendición de cuentas, en el marco de los planes y programas de estudio, identificando de los objetivos, contenidos y materias aquello que se vincule con estos derechos fundamentales.
 
@@ -214,6 +216,10 @@ XIX. Promover, mediante el establecimiento de procedimientos y formas de organiz
 > <small>(REFORMADA, 24 DE SEPTIEMBRE DE 2011)</small>
 
 XX. Promover y fomentar el desarrollo de la cultura por la paz y la no violencia, basándose en la convivencia respetuosa y el fomento de la educación libre de cualquier forma de maltrato físico o psicológico entre estudiantes, así como el respeto a las demás personas, la igualdad entre hombres y mujeres y a los principios de equidad y no discriminación, de conformidad a lo establecido en la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia, la Ley para Prevenir y Eliminar la Discriminación en el Estado de Chihuahua y demás disposiciones relacionadas.
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXI. Prevenir la comisión de delitos en materia de trata de personas; desalentar la demanda que propicia cualquier forma de explotación, así como advertir de los riesgos por el uso del internet y las redes sociales, en los términos de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -3775,7 +3781,7 @@ A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Est
 
 P.O. 20 DE JULIO DE 2013.
 
-DECRETO No. 1274/2013 II P.O, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 1274/2013 II P.O. POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3920,3 +3926,21 @@ P.O. 23 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de Trata de Personas, Pornografía con personas menores de edad o que no tienen la capacidad de comprender el significado del hecho y Lenocinio, previstas en el Código Penal del Estado, vigentes hasta la entrada en vigor de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para la emisión del Reglamento del Fondo Estatal de Protección y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
