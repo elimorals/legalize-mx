@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-para-el-estado-de-chihuahua-73731"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-27"
-last_updated: "2011-10-08"
+last_updated: "2014-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE GANADERIA PARA EL ESTADO DE CHIHUAHUA
 
-LEY DE GANADERIA PARA EL ESTADO DE CHIHUAHUA
+LEY DE GANADERÍA PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2010.
 
@@ -265,9 +265,17 @@ XVII.- Determinar el destino del ganado, los productos y subproductos que hayan 
 
 XVIII.- Crear, modificar o suprimir zonas de inspección ganadera, tomando en cuenta vías de comunicación, vías pecuarias y centros de comercialización, pudiendo solicitar la opinión de los organismos auxiliares;
 
-XIX.- Crear, modificar o suprimir los puntos o casetas de verificación en el Estado, y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-XX.- Las demás que esta Ley y otras normas jurídicas aplicables le confieran.
+XIX.- Crear, modificar o suprimir los puntos o casetas de verificación en el Estado;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XX.- De manera coordinada con los organismos auxiliares, difundir los programas de gobierno orientados al impulso y desarrollo de la actividad pecuaria en el Estado, y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XXI.- Las demás que esta Ley y otras normas jurídicas aplicables le confieran.
 
 ###### Artículo 6.
 
@@ -1648,6 +1656,12 @@ P.O. 2 DE OCTUBRE DE 2010.
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
