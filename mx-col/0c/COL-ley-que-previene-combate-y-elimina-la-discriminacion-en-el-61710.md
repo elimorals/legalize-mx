@@ -4,7 +4,7 @@ identifier: "COL-ley-que-previene-combate-y-elimina-la-discriminacion-en-el-6171
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-14"
-last_updated: "2008-06-14"
+last_updated: "2014-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "COL"
 ---
 # LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACION EN EL ESTADO DE COLIMA
 
-LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACION EN EL ESTADO DE COLIMA
+LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial en el Estado de Colima, el sábado 14 de junio de 2008.
 
-LIC. JESÚS SILVERIO CAVAZOS CEVALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
+LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 
@@ -649,21 +649,31 @@ El Consejo Estatal está integrado por:
 
 l. Un Consejero Presidente, que será el Gobernador;
 
-II. Un Consejero Secretario Ejecutivo, que será el Titular de la Secretaría General de Gobierno que suplirá al Gobernador en caso de ausencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2014)</small>
 
-III. Un Consejero representante de la Legislatura Estatal, que será un Diputado Local seleccionado de entre los miembros de la comisión relacionada con los derechos humanos;
+II. Un Consejero Vicepresidente, que será el Titular de la Secretaría General de Gobierno, quien suplirá al Presidente en caso de ausencia;
 
-IV. Un Consejero representante de cada uno de los Ayuntamientos, que será el Presidente Municipal o, en su caso, un munícipe seleccionado de entre los miembros de la comisión relacionada con los derechos humanos;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE MAYO DE 2014)</small>
 
-V. Un Consejero representante de la Universidad de Colima, que será un investigador de reconocido prestigio; y
+III. Un Consejero Secretario Ejecutivo, que será el Titular de la Secretaría de Desarrollo Social;
 
-VI. Siete consejeros ciudadanos representantes de la sociedad civil.
+IV. Un Consejero representante de la Legislatura Estatal, que será un Diputado Local seleccionado de entre los miembros de la comisión relacionada con los derechos humanos;
 
-Para los supuestos previstos en las fracciones III a la VI de este artículo, por cada consejero titular se nombrará un suplente, quien podrá participar en las sesiones del Consejo Estatal en caso de ausencia del primero.
+V. Un Consejero representante de cada uno de los Ayuntamientos, que será el Presidente Municipal o, en su caso, un munícipe seleccionado de entre los miembros de la comisión relacionada con los derechos humanos;
+
+VI. Un Consejero representante de la Universidad de Colima, que será un investigador de reconocido prestigio; y
+
+VII. Siete consejeros ciudadanos representantes de la sociedad civil.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+
+Para los supuestos previstos en las fracciones IV a la VII de este artículo, por cada consejero titular se nombrará un suplente, quien podrá participar en las sesiones del Consejo Estatal en caso de ausencia del primero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
 
 ###### Artículo 35.
 
-Los consejeros ciudadanos previstos en la fracción VI del artículo anterior deberán reunir, al menos, los siguientes requisitos:
+Los consejeros ciudadanos previstos en la fracción VII del artículo anterior deberán reunir, al menos, los siguientes requisitos:
 
 l. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -675,13 +685,17 @@ IV. No ser funcionario público en cualquier nivel de gobierno; y
 
 V. No haber sido condenado por delito intencional que merezca pena corporal.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+
 ###### Artículo 36.
 
-La designación de los miembros del Consejo Estatal a que se refieren las fracciones III, IV y V del artículo 34 de esta Ley corresponderá a los propios órganos públicos a los que pertenezcan.
+La designación de los miembros del Consejo Estatal a que se refieren las fracciones IV, V y VI del artículo 34 de esta Ley corresponderá a los propios órganos públicos a los que pertenezcan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
 
 ###### Artículo 37.
 
-La designación de los consejeros ciudadanos a que se refiere la fracción VI del artículo 34 de esta Ley se hará por el Congreso del Estado con base en las propuestas que le hagan organizaciones civiles de conformidad con las siguientes reglas:
+La designación de los consejeros ciudadanos a que se refiere la fracción VII del artículo 34 de esta Ley se hará por el Congreso del Estado con base en las propuestas que le hagan organizaciones civiles de conformidad con las siguientes reglas:
 
 l. El Congreso del Estado formulará una convocatoria pública a efecto de recibir, durante un periodo de quince días hábiles contados a partir de la fecha de su publicación en dos periódicos de circulación estatal, las solicitudes para ocupar el cargo de consejero:
 
@@ -737,9 +751,101 @@ XI. Las demás establecidas en esta Ley y su Reglamento Interior.
 
 El Consejo difundirá periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.
 
-###### Articulo 42.
+###### Artículo 42.
 
 En las sesiones del Consejo Estatal se podrá invitar a participar, a propuesta de sus miembros, a funcionarios de gobierno, así como a integrantes de organizaciones sociales, civiles, empresariales, sindicales y académicas, y en general a cualquier persona vinculada a los temas de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+Artículo 42 BIS.- El Consejo Estatal sesionará en forma ordinaria cuando menos dos veces en el año y en forma extraordinaria cuando el Presidente lo considere necesario o a petición de la mayoría de sus miembros. Para cada sesión ordinaria deberá establecerse el orden del día con anticipación, la cual habrá de darse a conocer a los miembros del Consejo Estatal al menos con cinco días naturales de anticipación, excepto las extraordinarias, que serán dentro de las 24 horas anteriores a su celebración.
+
+En caso que la sesión convocada no pudiera llevarse a cabo en la fecha programada por caso fortuito o fuerza mayor, deberá celebrarse entre los cinco y diez días hábiles siguientes, sin necesidad de nueva convocatoria, notificándose a los miembros del Consejo Estatal de la nueva fecha.
+
+Los integrantes del Consejo Estatal podrán someter previamente a la consideración del Presidente los asuntos que estimen convenientes desahogar en las sesiones, que no se encuentren considerados en el orden del día, para ser incluidos en el mismo.
+
+El Presidente o su suplente, según sea el caso, deberán asistir a todas las sesiones del Consejo Estatal. Para considerar legalmente instalada una sesión, en primera convocatoria será necesaria la participación de la mitad más uno de los miembros; si no se reuniera ésta se hará una segunda convocatoria con expresión de esta circunstancia, la cual deberá realizarse dentro de las siguientes 24 horas. En segunda convocatoria, la sesión se llevará a cabo con los presentes y las resoluciones en ambos casos serán tomadas por mayoría de votos.
+
+Planteando un problema o punto de debate, se le dará lectura y el Presidente lo someterá a discusión, pudiendo intervenir en ésta el número de oradores que resulten pertinentes, a juicio del Presidente, limitando su intervención a quince minutos como máximo por cada uno.
+
+Terminada la intervención de los oradoras (sic) inscritos, el Presidente podrá declarar suficientemente discutido el punto, o bien, de considerarlo pertinente, ampliar la discusión en los términos establecidos en el párrafo anterior.
+
+Concluida la discusión, se procederá a la votación, asentándose el acta correspondiente.
+
+Los acuerdos del Consejo Estatal se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad. De cada sesión se levantará un acta circunstanciada.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+Artículo 42 BIS 1.- El Consejero Presidente tendrá las siguientes atribuciones:
+
+I. Convocar, a través del Secretario Ejecutivo, a los miembros del Consejo, a las sesiones que se desarrollen conforme al orden del día que para ese efecto se elabore;
+
+II. Dirigir las sesiones del Consejo Estatal y declarar resueltos los asuntos en el sentido de las votaciones;
+
+III. Resolver, bajo su más estricta responsabilidad, aquellos asuntos de los que deba conocer el Consejo Estatal, que obedezcan a caso fortuito o fuerza mayor y no admitan demora, debido a que sus consecuencias sean irreparables. En estos casos, deberá el Consejo Estatal reunirse cuanto antes para adoptar las medidas procedentes;
+
+IV. Suscribir y autorizar, en unión de los Consejeros y del Secretario Ejecutivo, las actas que se levanten de las sesiones que celebre el Consejo Estatal;
+
+V. Planear, organizar, coordinar y dirigir el funcionamiento del Consejo, con sujeción a las disposiciones aplicables;
+
+VI. Presentar a la consideración del Pleno del Consejo el proyecto del Programa Estatal para Prevenir y Eliminar la Discriminación;
+
+VII. Someter a la consideración del Consejo el informe anual de actividades y el relacionado con el ejercicio presupuestal;
+
+VIII. Ejercer la representación legal del Consejo, así como delegarla cuando no exista prohibición expresa para ello;
+
+IX. Proponer al Consejo la celebración de acuerdos de colaboración con organismos nacionales e internacionales para el desarrollo de las atribuciones del Consejo, de conformidad con las normas aplicables;
+
+X. Realizar todos los actos que fuesen necesarios para el eficiente funcionamiento del Consejo Estatal; y
+
+XI. Las demás que le otorgue esta Ley, su Reglamento y otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+Artículo 42 BIS 2.- El vicepresidente del Consejo Estatal tendrá las mismas facultades que el Presidente, quien sólo podrá ejercerlas cuando supla las ausencias de aquél.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+Artículo 42 BIS 3.- El Secretario Ejecutivo tendrá las atribuciones siguientes:
+
+I. Auxiliar al Presidente en el ejercicio de sus atribuciones;
+
+II. Comunicar a los miembros del Consejo Estatal e invitados, las convocatorias para las sesiones que se lleven a cabo;
+
+III. Llevar a efecto el escrutinio y cómputo de las votaciones de los miembros del Consejo Estatal en cada sesión;
+
+IV. Levantar y autorizar con su firma las actas correspondientes de las sesiones que celebre el Consejo Estatal;
+
+V. Expedir los testimonios o copias certificadas de las resoluciones y documentos del Consejo Estatal;
+
+VI. Tener a su cargo y bajo su responsabilidad, el archivo y demás documentos y objetos pertenecientes al Consejo Estatal;
+
+VII. Ejecutar los acuerdos y demás disposiciones emitidas por el Consejo, así como supervisar su cumplimiento;
+
+VIII. Enviar al Poder Legislativo un informe anual de actividades y de su ejercicio presupuestal;
+
+IX. Citar a los Consejeros de conformidad con los acuerdos del Pleno del Consejo y organizar las Sesiones; y
+
+X. Las demás facultades que le otorgue la presente Ley, su Reglamento y el Presidente del Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+Artículo 42 BIS 4.- Los Consejeros representantes de la Legislatura Estatal, de los Ayuntamientos, de la Universidad de Colima y de la Sociedad Civil tendrán las atribuciones siguientes:
+
+I. Asistir puntualmente a las sesiones a las que se les convoque;
+
+II. Tener voz y voto en las sesiones que celebre el Consejo Directivo;
+
+III. Sugerir las medidas necesarias para el adecuado cumplimiento del objeto del Consejo y el mejor desempeño de las funciones a su cargo;
+
+IV. Discutir y, en su caso, aprobar los asuntos, planes y programas que sean presentados en las sesiones;
+
+V. Tomar las decisiones y medidas que en cada caso se requieran, a efecto de que el Consejo cumpla con los objetivos que le competen;
+
+VI. Integrarse a los grupos de trabajo y participar en las comisiones que sean necesarias para el cumplimiento del objeto del Consejo;
+
+VII. Suscribir las actas de las sesiones a las que asistieren; y
+
+VIII. Las demás facultades que les sean expresamente señaladas por esta Ley, su Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 43.
 
@@ -966,3 +1072,9 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. HÉCTOR MICHEL CAMARENA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
