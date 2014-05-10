@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-a-la-fauna-para-el-estado-de-nayarit-53151"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-16"
-last_updated: "2006-12-16"
+last_updated: "2014-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE PROTECCION A LA FAUNA PARA EL ESTADO DE NAYARIT
 
-LEY DE PROTECCION A LA FAUNA PARA EL ESTADO DE NAYARIT
+LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Ley publicada en la Sección Décima Tercera al Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2006.
 
@@ -93,7 +93,9 @@ IX. Padrón Estatal de Mascotas.- Instrumento de información y control en mater
 
 X. INADES.- Instituto Nayarita para el Desarrollo Sustentable.
 
-XI. SEDER.- Secretaria de Desarrollo Rural.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XI. SAGADERP.- Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca.
 
 XII. Animales nocivos o peligrosos.- Aquellos que hayan sido afectados en su comportamiento debido a alteración biológica o genética; los que por su naturaleza sean agresivos o cuyas capacidades físicas les posibiliten causar un daño grave al ser humano.
 
@@ -137,9 +139,11 @@ VII. Participar a través del representante respectivo, en el Consejo Técnico C
 
 VIII. Promover y celebrar los convenios necesarios con la Federación, al objeto de asumir las funciones susceptibles de transferencia conforme a la Ley General de Vida Silvestre, revertirlas al gobierno federal y renovar dichos convenios cuando fueren temporales.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 8°.
 
-Las atribuciones que esta ley otorga al Ejecutivo del Estado serán ejercidas a través de la SEDER y del INADES en el ámbito de sus respectivas competencias de conformidad a la legislación vigente.
+Las atribuciones que esta ley otorga al Ejecutivo del Estado serán ejercidas a través de la SAGADERP y del INADES en el ámbito de sus respectivas competencias de conformidad a la legislación vigente.
 
 ### CAPITULO II. DE LAS COMISIONES ESTATAL Y MUNICIPALES DE PROTECCIÓN A LA FAUNA
 
@@ -157,7 +161,9 @@ II. Un Secretario.
 
 III. Un representante de la Secretaría de Salud.
 
-IV. Un representante de la SEDER.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+IV. Un representante de la SAGADERP.
 
 V. Un representante deI INADES.
 
@@ -191,7 +197,13 @@ VI. Promover y participar en cursos, talleres, reuniones, publicaciones y demás
 
 VII. Gestionar ante las autoridades competentes la creación de centros de asilo, reservorios o centros de custodia, para especies domésticas, silvestres y exóticas de la fauna estatal, a fin de que se canalicen animales abandonados, perdidos, sin dueño, lastimados enfermos, feroces o peligrosos;
 
-VIII. Las demás atribuciones que determinen la presente ley y su reglamento.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+VIII. Coadyuvar en los programas para la conservación, reproducción y reintroducción de la fauna en su hábitat, de especies y poblaciones prioritarias para la conservación, con la participación en su caso, de las personas que manejen dichas especies o poblaciones y demás involucrados, y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+IX. Las demás atribuciones que determinen la presente ley y su reglamento.
 
 ###### ARTÍCULO 13.
 
@@ -235,9 +247,17 @@ VII. Recibir las denuncias sobre maltrato a los animales y demás infracciones a
 
 VIII. Realizar visitas de inspección de domicilios particulares y establecimientos de entretenimiento, servicio y comercio, u otros servicios, como circos, laboratorios, rastros, criaderos, empresas que ofrecen seguridad privada, cuerpos policíacos o cualquier otro en donde se utilicen animales, con el objeto de verificar que las condiciones en que se encuentran correspondan a las establecidas por la ley y sus disposiciones reglamentarias;
 
-IX. Imponer las sanciones correspondientes, en caso de que se comprueben infracciones a esta ley, a través de las comisiones municipales; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-X. Ejercer las demás atribuciones que determine la presente ley y sus disposiciones reglamentarias.
+IX. Coadyuvar en los programas para la conservación, reproducción y reintroducción de la fauna en su hábitat, de especies y poblaciones prioritarias para la conservación, con la participación en su caso, de las personas que manejen dichas especies o poblaciones y demás involucrados;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+
+X. Imponer las sanciones correspondientes, en caso de que se comprueben infracciones a esta ley, a través de las comisiones municipales, y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+
+XI. Ejercer las demás atribuciones que determine la presente ley y sus disposiciones reglamentarias.
 
 ### CAPITULO III. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -710,3 +730,9 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez" recinto oficial de este Honora
 Dip. Jocelyn Patricia Fernández Molina, Presidente.- Rúbrica.- Dip. Oscar Zermeño Barragán, Secretario.- Rúbrica.- Dip. Angélica C. del Real Chávez, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los dieciséis días del mes de diciembre del año 2006.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE MAYO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
