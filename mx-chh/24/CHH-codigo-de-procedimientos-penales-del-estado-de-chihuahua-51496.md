@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2014-03-29"
+last_updated: "2014-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2014 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE MARZO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 1307 PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -329,7 +329,7 @@ Los actos procesales se registrarán por escrito, por video, audio o cualquier o
 
 Examen y copia de los registros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
 Salvo las excepciones expresamente previstas en la ley, los intervinientes siempre tendrán acceso al contenido de los registros, tales como videos, audios y transcripciones de los mismos en un plazo que no excederá de setenta y dos horas, a partir de concluida la audiencia.
 
@@ -403,7 +403,7 @@ Los medios de prueba que se desahoguen en una audiencia previa a la de juicio or
 
 Audiencias ante Juez de Garantía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
 En las audiencias ante el Juez de Garantía se observarán, en lo conducente, los principios previstos en el Artículo 3° del presente Código. El Juez de garantía no podrá revisar la carpeta de investigación antes de dictar sus resoluciones, salvo que exista una controversia entre los intervinientes respecto al contenido de dicha carpeta; sin embargo, el Ministerio Público, durante la audiencia, podrá apoyarse en la proyección de los medios de investigación, en instrumentos digitales de los elementos en que funda su pretensión y que obran en la carpeta de investigación, a efecto de que el juez y los demás intervinientes puedan constatar su contenido.
 
@@ -447,7 +447,7 @@ Resolución firme.
 
 Las resoluciones judiciales quedarán firmes y serán ejecutables, sin necesidad de declaración alguna, en cuanto no sean oportunamente recurridas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -535,7 +535,7 @@ Las notificaciones serán practicadas por quien disponga el Reglamento respectiv
 
 Lugar para las notificaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 Al comparecer ante la autoridad judicial, las partes deberán señalar domicilio dentro del lugar del proceso y modo para ser notificadas. Se tendrá como domicilio válido el que anteriormente haya sido señalado ante el Ministerio Público o ante Instituciones Policiales.
 
@@ -683,7 +683,7 @@ Todos los gastos que se originen con motivo de los actos de investigación, de l
 
 Los gastos de las diligencias solicitadas por el imputado o la defensa serán cubiertos por quienes las promuevan, salvo que el Juez estime que aquél esté imposibilitado para ello, caso en que serán sufragados por el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -861,7 +861,7 @@ III. El imputado haya sufrido, a consecuencia del hecho, daño físico o psicol�
 
 IV. La pena o medida de seguridad que pueda imponerse por el hecho de cuya persecución se prescinde, carezca de importancia en consideración a la pena o medida de seguridad ya impuesta, o a la que se debe esperar por los restantes hechos, o la que se le impuso o se le impondría en un proceso tramitado en otro fuero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -881,9 +881,9 @@ Los criterios de oportunidad podrán ejercerse hasta antes de dictado el auto de
 
 Decisiones y control.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 La decisión del agente del Ministerio Público que aplique un criterio de oportunidad deberá estar fundada y motivada, y será comunicada al Fiscal General del Estado, o a quien éste designe, a fin de que se revise que la misma se ajusta a las políticas generales del servicio y a las normas dictadas al respecto.
 
@@ -939,7 +939,7 @@ III. Cuando se trate de delitos cometidos fuera del Estado que se sigan cometien
 
 IV. Para conocer de los delitos continuos, es competente cualquier autoridad judicial en cuya jurisdicción se hayan ejecutado actos que por sí solos constituyan el o los delitos imputados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -1115,6 +1115,24 @@ Dirigirá la investigación bajo control jurisdiccional en los actos que así lo
 
 Se asegurará de resguardar la prueba y de establecer medidas especiales de protección para los intervinientes y testigos en riesgo y sus allegados, de acuerdo con la Ley Estatal de Protección a Testigos.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+El Ministerio Público, además de las facultades anteriores y de conformidad con lo establecido por el artículo 57 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, durante la fase de investigación podrá:
+
+I. Solicitar la intervención de comunicaciones, en términos de la legislación federal o local aplicable;
+
+II. Solicitar información a las empresas telefónicas y de comunicación, en términos de la legislación federal o local aplicable;
+
+III. Autorizar el seguimiento de personas hasta por un período de un mes, el cual podrá ser prorrogado siempre que existan motivos suficientes, sin que la misma tenga una duración mayor a seis meses, en términos de la normatividad aplicable;
+
+IV. Solicitar información a la Comisión Nacional Bancaria y de Valores sobre la actividad financiera de las personas sujetas a investigación, en términos de la legislación federal o local aplicable;
+
+V. Autorizar la colaboración de informantes, en los términos de los lineamientos mínimos que emita el Sistema Nacional de Seguridad Pública, así como demás disposiciones;
+
+VI. Autorizar la utilización de cualquier medio, instrumento o herramienta para la obtención de pruebas, siempre que ésta no contravenga los derechos humanos y no violente el orden jurídico, y
+
+VII. Toda aquella que determinen las leyes aplicables.
+
 ###### Artículo 107.
 
 Poder coercitivo
@@ -1155,7 +1173,7 @@ Cooperación interestatal.
 
 Cuando las actividades delictivas se realicen, en todo o en parte, fuera del territorio estatal, o se les atribuyan a personas ligadas a una organización de carácter nacional, regional o internacional, el Ministerio Público se coordinará en el marco de los sistemas nacional y estatal de seguridad pública, para formar equipos conjuntos de recopilación de información y, en su caso, de investigación con las autoridades competentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1167,7 +1185,7 @@ Excusa y recusación.
 
 En la medida en que les sean aplicables, los agentes del Ministerio Público deberán excusarse y podrán ser recusados por los mismos motivos establecidos respecto de los jueces, salvo por el hecho de haber intervenido como agentes del Ministerio Público en otro procedimiento seguido en contra del imputado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1179,13 +1197,13 @@ La excusa o la recusación serán resueltas por el Fiscal General del Estado o e
 
 Función de los cuerpos de seguridad pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 Los integrantes de los cuerpos de seguridad pública, distintos a la policía de investigación, recabarán la información necesaria de los hechos delictuosos de que tengan noticia, dando inmediato aviso al Ministerio Público; impedirán que los hechos se lleven a consecuencias ulteriores; detendrán en flagrancia a quien realice un hecho que pueda constituir un delito y asentarán en el registro de detenciones el aseguramiento de personas; identificarán y aprehenderán, por mandamiento judicial o ministerial, a los imputados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1201,17 +1219,17 @@ Así mismo, actuarán como auxiliares del Ministerio Público o de la autoridad 
 
 Los elementos policiales a que se refiere el presente Artículo no podrán informar a los medios de comunicación social, ni a persona alguna, acerca de la identidad de detenidos, imputados, víctimas u ofendidos, testigos, ni de otras personas que se encontraren o pudieren resultar vinculadas a la investigación de un hecho punible, en protección de sus derechos y de la función investigadora.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA LA DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA LA DENOMINACIÓN, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 114.
 
 Facultades y obligaciones de la policía de investigación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 La policía de investigación tendrá las siguientes facultades y obligaciones:
 
@@ -1221,7 +1239,7 @@ I. Recibir noticias de los hechos presuntamente constitutivos del delito y recop
 
 II. Confirmar la información que reciba, cuando ésta provenga de una fuente no identificada, y hacerla constar en un registro destinado a tales fines, en el que se asentarán el día, la hora, el medio y los datos del servidor público interviniente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1239,7 +1257,7 @@ VII. Recabar los datos que sirvan para la identificación del imputado;
 
 VIII. Reunir toda la información de urgencia que pueda ser útil al agente del Ministerio Público; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1248,6 +1266,20 @@ IX. Realizar detenciones en los casos que autoriza la Constitución Federal. En 
 Los agentes policíacos no realizarán, de propia autoridad, manipulación alguna, ni practicarán peritajes, sobre tales bienes.
 
 Cuando para el cumplimiento de estas facultades se requiera una orden judicial, la policía informará al Ministerio Público para que éste la solicite.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
+
+Además de las atribuciones señaladas anteriormente, la policía de investigación y de conformidad con la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, contará además con las siguientes:
+
+I. Recabar información en lugares públicos, mediante la utilización de medios e instrumentos y cualquier herramienta que resulten necesarios para la generación de inteligencia. En el ejercicio de esta atribución se deberán respetar los derechos particulares de los ciudadanos;
+
+II. Recabar información de bases de datos públicos, con el objeto de identificar a las víctimas, testigos, lugares de los hechos, forma de operar, sujetos involucrados o bienes de estos;
+
+III. Realizar análisis técnico táctico o estratégico de la información obtenida para la generación de inteligencia;
+
+IV. Verificar la información que reciba sobre hechos que puedan ser constitutivos de delito o delitos para, en su caso, informarlo al Ministerio Público;
+
+V. Efectuar el procesamiento del lugar de los hechos, para lo cual deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme al procedimiento previamente establecido por éste y en términos de las disposiciones aplicables, en caso de contar con personal calificado para tal fin.
 
 ###### Artículo 115.
 
@@ -1271,7 +1303,7 @@ Los policías respetarán las formalidades previstas para la investigación y su
 
 Los policías actuarán conforme a los principios de actuación de los Cuerpos de Seguridad Pública que contemple la ley Sobre el Sistema Estatal de Seguridad Pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -4011,7 +4043,7 @@ Métodos de autenticación e identificación.
 
 La autenticidad e identificación de los documentos no mencionados en el Artículo que antecede, se probará por métodos como los siguientes:
 
-l. Reconocimiento de la persona que lo ha elaborado, manuscrito, mecanografiado, impreso, firmado o producido.
+I. Reconocimiento de la persona que lo ha elaborado, manuscrito, mecanografiado, impreso, firmado o producido.
 
 II. Reconocimiento de la parte contra la cual se aduce.
 
@@ -5171,7 +5203,7 @@ Exclusión.
 
 La exclusión del actor civil o el desistimiento de su acción, cesará la intervención del tercero civilmente demandado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -5229,7 +5261,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRÍGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 27 DE DICIEMBRE DE 2006.
 
@@ -5486,3 +5518,21 @@ DECRETO NO. 1389/2013 XIV P.E. POR EL QUE SE REFORMA EL CÓDIGO DE PROCEDIMIENTO
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los delitos de Trata de Personas, Pornografía con personas menores de edad o que no tienen la capacidad de comprender el significado del hecho y Lenocinio, previstas en el Código Penal del Estado, vigentes hasta la entrada en vigor de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para la emisión del Reglamento del Fondo Estatal de Protección y Asistencia a las Víctimas de los Delitos en Materia de Trata de Personas.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
