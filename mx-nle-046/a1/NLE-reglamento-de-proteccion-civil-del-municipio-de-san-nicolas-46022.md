@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-del-municipio-de-san-nicolas-460
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-22"
-last_updated: "2010-08-25"
+last_updated: "2014-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2014.
 
 Reglamento publicado en el Periódico Oficial, el lunes 22 de agosto de 2005.
 
@@ -47,6 +47,10 @@ Las disposiciones de este Reglamento y de los manuales de las bases y tablas té
 
 El presente Reglamento tiene por objeto regular las acciones que en materia de protección civil se lleven a cabo en el municipio y establecer las bases de integración, coordinación y funcionamiento del Sistema Municipal de Protección Civil; además de regular las acciones de prevención, mitigación, auxilio, salvaguarda, y cuanto más sea necesario, de las personas, sus bienes, la propiedad pública y el medio ambiente; así como el restablecimiento y funcionamiento de los servicios públicos indispensables y sistemas estratégicos en casos de emergencia y desastre, provocados por riesgos geológicos, hidrometeorológicos, químicos, sanitarios y socio-organizativos o cualquier otro acontecimiento fortuito o de fuerza mayor.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2014)</small>
+
+La normatividad correspondiente precisará y detallará todos los rubros que atañen a los puestos de mando y jerarquias de las Unidades Municipales de Protección Civil.
+
 ###### Artículo 3.
 
 Los actos de autoridad para la aplicación de las disposiciones que establece este Reglamento y los manuales de las bases y tablas técnicas, comprenderán la inspección, control, vigilancia y certificación de las instalaciones y aparatos relacionados con la seguridad de las personas y de los bienes muebles, inmuebles o edificaciones, así como la imposición de sanciones por la infracción o incumplimiento de dichas normas.
@@ -54,6 +58,10 @@ Los actos de autoridad para la aplicación de las disposiciones que establece es
 ###### Artículo 4.
 
 El Sistema Municipal de Protección Civil como parte integrante del Sistema Nacional Y Estatal de la misma materia, establecerá las instancias, lineamientos y objetivos necesarios para la procuración de la Protección Civil.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2014)</small>
+
+En el Atlas Municipal de Riesgos deberán establecerse los diferentes niveles de peligro y riesgo, para todos los fenómenos que influyan en las distintas zonas. Dichos instrumentos deberán ser tomados en consideración por las autoridades competentes, para la autorización o no de cualquier tipo de construcciones, obras de infraestructura o asentamientos humanos.
 
 ###### Artículo 5.
 
@@ -163,7 +171,9 @@ XLIX.- Siniestro.- El evento de ocurrencia cotidiana o eventual determinada en t
 
 L.- Sistema Nacional.- Al Sistema Nacional de Protección Civil cuyas bases para su establecimiento fueron aprobadas por decreto del Ejecutivo Federal publicado en el Diario Oficial de la Federación del día 06 de Mayo de 1986.
 
-LI.- Tabla para Determinar el Grado de Riesgo.- Es la tabla para determinar el grado de riesgo de incencio del establecimiento, seleccionando el rubro de la tabla que más se apegue a las características del establecimiento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2014)</small>
+
+LI.- Tabla para Determinar el Grado de Riesgo.- Es la tabla para determinar el grado de riesgo del establecimiento, seleccionando el rubro de la tabla que más se apegue a las características del establecimiento.
 
 GRADO DE RIESGO
 
@@ -229,7 +239,11 @@ Indicaciones para la determinación del grado de riesgo.
 
 La clasificación se determinará por el grado de riesgo más alto que se tenga.
 
-En caso de quedar clasificado en el grado de riesgo alto o medio, se podrá separar el centro de trabajo en áreas aisladas para evaluarlas de acuerdo a la tabla, y si su grado de riesgo es menor, se podrán aplicar en esas áreas las medidas de control correspondientes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE MAYO DE 2014)</small>
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2014)</small>
+
+LII.- Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura critica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento; (sic)
 
 ### CAPÍTULO II. POLÍTICAS DE PROTECCIÓN CIVIL
 
@@ -433,9 +447,7 @@ j) Los Representantes de las Dependencias Federales, Estatales y Municipales est
 
 k) Los Coordinadores de las Unidades o Grupos de Trabajo creados dentro de la Dirección Municipal de Protección Civil, como Vocales.
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
-l) La Guardia Municipal;
+l) (DEROGADO, P.O. 12 DE MAYO DE 2014)
 
 II.- Los Representantes de los Grupos Voluntarios como los diferentes cuerpos de auxilio formados en patronatos o Asociaciones Civiles; que operen en el Municipio, que prestarán auxilio al Consejo Municipal de Protección Civil, interviniendo en las sesiones con voz y voto.
 
@@ -693,6 +705,18 @@ II.- Las Unidades o Departamentos operativos que sean necesarios; y
 
 III.- El personal técnico, administrativo u operativo acorde con el número de población, capacidad, tipos de contingencias y riesgos que se presenten y que autorice el presupuesto respectivo.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2014)</small>
+
+###### Artículo 34 Bis.
+
+A fin de fomentar la cultura de Protección Civil, las autoridades correspondientes dentro de sus respectivos ámbitos de competencia deberán:
+
+I.- Impulsar programas dirigidos a la población en general que le permita conocer de forma clara mecanismos de prevención y autoprotección;
+
+II.- Elaborar, estructurar y promocionar campañas de difusión sobre temas de su competencia relacionados con la protección civil.
+
+Las autoridades correspondientes en su ámbito de competencia llevarán a cabo proyectos, estudios e inversiones necesarias para ampliar y modernizar la cobertura de los sistemas de medición de los distintos agentes perturbadores, encaminados a prevenir riesgos que pongan en peligro la vida y que puedan provocar daños irreversibles a la población.
+
 ###### Artículo 35.
 
 La Dirección Municipal de Protección Civil tendrá las siguientes atribuciones:
@@ -801,9 +825,15 @@ XXXVI.- Coordinar a todos los cuerpos de emergencia, vocales o auxiliares del Co
 
 XXXVII.- Las demás que le confiera el Presidente Municipal, el presente Reglamento, los diversos ordenamientos municipales y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo Municipal de Protección Civil.
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2014)</small>
 
-XXXVIII.- Expedir el documento que hace referencia el artículo 75 Bis.
+XXXVIII.- En caso de que el estudio de ocupación máxima de personas en el establecimiento (aforo) sea previamente autorizado por esta Dirección; expedir el documento que hace referencia el artículo 75 Bis.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2014)</small>
+
+XXXIX.- Los inmuebles e instalaciones fijas y móviles de las dependencias, instituciones, organismos, industrias o empresas pertenecientes a los sectores público, privado y social, a que se refiere este Reglamento, deberán contar con un Programa Interno de Protección Civil.
+
+Dicho programa deberá ser elaborado, actualizado, operado y vigilado por la Unidad Interna de Protección Civil, la que podrá ser asesorada por una persona física o moral que cuente con el registro actualizado correspondiente.
 
 ###### Artículo 36.
 
@@ -1017,33 +1047,31 @@ Las Unidades Internas de Respuesta Inmediata de Protección Civil, a que se refi
 
 Las relaciones laborales, civiles o de otra índole que se generen entre los establecimientos y sus Unidades Internas de Respuesta Inmediata, se sujetarán a la legislación correspondiente, sin que el Municipio concurra con alguna obligación o derecho en dicha relación.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2014)</small>
+
 ###### Artículo 64.
 
-Los establecimientos listados en la fracción XXV artículo 35 de este Reglamento que sean considerados de bajo riesgo de incendio, según la tabla para determinar el grado de riesgo deberán contar con:
+Los establecimientos listados en la fracción XXV (sic) artículo 35 de este Reglamento que sean considerados de bajo riesgo, según la tabla para determinar el grado de riesgo deberán contar con:
 
-I.- Extinguidores tipo ABC de por lo menos 4.5 Kilogramos y llevar una bitácora de mantenimiento;
+I.- Equipo contra incendio del tipo y agente, determinado por el resultado del análisis de riesgo de incendio del establecimiento;
 
-II.- Instructivos oficiales de conductas a seguir en caso de presentarse alguna contingencia en el inmueble, así mismo deberá colocar en lugares visibles señalización de ruta de evacuación, salida de emergencia, extinguidores, alto voltaje y los demás señalamientos que sean necesarios para identificar y prevenir riesgos en los establecimientos;
+Contenido mínimo de agente extintor
 
-III.- Dar mantenimiento a las instalaciones eléctricas, hidráulicas y de gas por lo menos una vez al año, manteniéndolas en perfectas condiciones absteniéndose de utilizar manguera de plástico;
+Grupo Genérico Unidades de medida Capacidad nominal
 
-IV.- Rotular en un lugar visible un código de colores de las tuberías existentes, rotular dichas tuberías conforme a dicho código, indicando principalmente la del gas de color amarillo y señalizando el sentido del flujo;
+Líquidos Litros 9.5
 
-V.- Instalar un detector de humo ó calor cada 25m2 por unidad de área, a excepción de que las especificaciones de fábrica de dichos detectores, indiquen que abarcan otro nivel de espacio diferente, adicionalmente se deberán instalar dichos detectores en las áreas de riesgo.
+Sólidos Kilogramos 4.5
 
-VI.- Botiquín de primeros auxilios;
+Gases y Vapores Kilogramos 2.2
 
-VII.- Directorio de Emergencias;
+II.- Llevar a cabo las bitácoras de mantenimiento del equipo instalado para la atención de emergencias.
 
-VIII.- Manual de Procedimientos de Emergencias;
-
-IX.- Constancias de capacitación anual de todo el personal del uso y manejo del equipo extinguidor; y
-
-X.- En caso de laborar antes de las 07:00hrs. y/o después de las 19:00 hrs. o que por las condiciones propias del área, la luz natural no ilumine menos de 50 lux deberán de instalarse lámparas de emergencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2014)</small>
 
 ###### Artículo 65.
 
-Todos los establecimientos con excepción de los establecimientos de bajo riesgo de incendio según la Tabla para Determinar el Grado de Riesgo del artículo 6 fracción LI de este Reglamento, tienen la obligación de contar con Unidades Internas de Respuesta Inmediata de Protección Civil Municipal, debidamente avaladas por la Dirección Municipal de Protección Civil, las que deberán cumplir con los siguientes requisitos:
+Todos los establecimientos con excepción de los establecimientos de bajo riesgo según la Tabla para Determinar el Grado de Riesgo del artículo 6 fracción LI de este Reglamento, tienen la obligación de contar con Unidades Internas de Respuesta Inmediata de Protección Civil Municipal, debidamente avaladas por la Dirección Municipal de Protección Civil, las que deberán cumplir con los siguientes requisitos:
 
 I.- CAPACITACIÓN: El personal que integre las Unidades Internas de Respuesta deberá de estar apropiadamente capacitado, mediante un programa específico de carácter técnico-práctico, inductivo, formativo y de constante actualización;
 
@@ -1051,9 +1079,11 @@ II.- BRIGADAS: Cada Unidad Interna de Respuesta deberá contar cuando menos con 
 
 III.- SIMULACROS: Las Unidades Internas de Respuesta Inmediata deberán realizar ejercicios y simulacros, cuando menos dos veces al año en cada inmueble (que deberán realizarse en los meses de abril a octubre), con previa autorización de la Dirección Municipal de Protección Civil; los simulacros que por sus características sean considerados riesgosos deberán llevarse a cabo en campos de entrenamiento debidamente autorizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2014)</small>
+
 ###### Artículo 66.
 
-Todos los establecimientos con excepción de los establecimientos de bajo riesgo de incendio según la Tabla para Determinar el Grado de Riesgo del artículo 6 fracción LI de este Reglamento, tienen la obligación de contar con un Programa Interno y la Dirección Municipal de Protección Civil solicitará un:
+Todos los establecimientos con excepción de los establecimientos de bajo riesgo según la Tabla para Determinar el Grado de Riesgo del artículo 6 fracción LI de este Reglamento, tienen la obligación de contar con un Programa Interno y la Dirección Municipal de Protección Civil solicitará un:
 
 Sub-Programa de Prevención
 
@@ -1149,9 +1179,11 @@ Además la Dirección Municipal de Protección Civil solicitará un Sub -Program
 
 - Evaluación y análisis de las condiciones físicas
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2014)</small>
+
 ###### Artículo 67.
 
-Todos los establecimientos con excepción de los establecimientos de bajo riesgo de incendio según la Tabla para determinar el grado de riesgo del artículo 6 fracción LI de este Reglamento, tienen la obligación de contar permanentemente con un programa específico de Protección Civil que consta de Análisis de riesgo, Plan de Contingencias, constancias de capacitación del personal Brigadista para formar la Unidad Interna de Respuesta Inmediata.
+Todos los establecimientos con excepción de los establecimientos de bajo riesgo según la Tabla para determinar el grado de riesgo del artículo 6 fracción LI de este Reglamento, tienen la obligación de contar permanentemente con un programa específico de Protección Civil que consta de Análisis de riesgo, Plan de Contingencias, constancias de capacitación del personal Brigadista para formar la Unidad Interna de Respuesta Inmediata.
 
 ###### Artículo 68.
 
@@ -1170,6 +1202,14 @@ Cuando las emergencias o desastres rebasen la capacidad de repuesta de la Unidad
 ###### Artículo 71.
 
 Es obligación de quienes habiten, residan o transiten por el Municipio de San Nicolás de los Garza, prestar toda clase de colaboración a la Dirección Municipal de Protección Civil, ante situaciones de riesgo, alto riesgo, siniestro o desastre, siempre y cuando ello no implique un riesgo a su integridad física.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2014)</small>
+
+En caso de riesgo inminente, sin perjuicio de la emisión de una declaratoria de emergencia o desastre natural y de lo que establezcan otras disposiciones legales, las dependencias de la administración pública municipal, ejecutarán las medidas de seguridad que les competan, a fin de proteger la vida de la población y sus bienes, la planta productiva y su entorno, para garantizar el funcionamiento de los servicios esenciales de la comunidad, informando en forma inmediata a las autoridades de protección civil correspondientes sobre las acciones emprendidas, quienes instalarán en los casos que se considere necesario y conforme a la normatividad aplicable, el centro de operaciones, como centro de comando y de coordinación de las acciones en el sitio.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2014)</small>
+
+Cuando se apliquen las medidas de seguridad previstas en este artículo, se precisará su temporalidad y, en su caso, las acciones para su suspensión.
 
 ###### Artículo 72.
 
@@ -1227,13 +1267,13 @@ Tratándose de situaciones no programadas que puedan implicar algún riesgo Soci
 
 Es obligación de los propietarios, arrendatarios o usufructuarios de terrenos baldíos y de edificaciones habitadas o abandonadas, dentro del territorio Municipal, el mantener los predios libres de materiales combustibles como hierbas o pastos secos con altura mayor a 30 centímetros, maderas, llantas, solventes y basura, entre otros.
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2014)</small>
 
 ###### Artículo 75 Bis.
 
-Los establecimientos comerciales, en los que debido al uso que se destine, genere la concurrencia de personas, obligatoriamente deberá colocar en el acceso principal del mismo en un lugar visible, la capacidad máxima de personas que debido a las características físicas del establecimiento puede tener sin presentar un riesgo para los asistentes.
+Todos los establecimientos con excepción de los establecimientos de bajo riesgo, según la Tabla para Determinar el Grado de Riesgo del artículo 6 fracción LI de este Reglamento, en los que debido al uso que se destine, genere la concurrencia de personas, obligatoriamente deberán de contar con el estudio de ocupación máxima de personas en el establecimiento (aforo) y colocar en el acceso principal del mismo en un lugar visible, la capacidad máxima de personas que debido a las características físicas del establecimiento puede tener sin presentar un riesgo para los asistentes.
 
-La autoridad competente expedirá la constancia de la capacidad máxima de personas de los establecimientos comerciales.
+La autoridad competente expedirá la constancia de la capacidad máxima de personas de los establecimientos.
 
 ###### Artículo 76.
 
@@ -1553,6 +1593,38 @@ X.- El establecimiento de términos para la ejecución de lo ordenado; y
 
 XI.- Las demás que sean necesarias para la prevención, mitigación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de alto riesgo, emergencias y/o desastres.
 
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2014)</small>
+
+XII.- Identificación y delimitación de lugares o zonas de riesgo;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2014)</small>
+
+XIII.- Control de rutas de evacuación y acceso a las zonas afectadas;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2014)</small>
+
+XIV.- Acciones preventivas para la movilización precautoria de la población y su instalación y atención en refugios temporales;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2014)</small>
+
+XV.- Coordinación de los servicios asistenciales;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2014)</small>
+
+XVI.- El aislamiento temporal, parcial o total del área afectada;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2014)</small>
+
+XVII.- La suspensión de trabajos, actividades y servicios, y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2014)</small>
+
+XVIII.- Las demás que en materia de protección civil determinen las disposiciones reglamentarias y la legislación local correspondiente, tendientes a evitar que se generen o sigan causando daños.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2014)</small>
+
+Asimismo, las Unidades a que se refiere este artículo y la Secretaría del Ayuntamiento podrán promover ante las autoridades competentes, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
+
 ###### Artículo 115.
 
 Cuando en los establecimientos se realicen actos que constituyan riesgo a juicio de la Dirección Municipal de Protección Civil, esta autoridad en el ámbito de su competencia procederá como sigue:
@@ -1778,3 +1850,9 @@ P.O. 25 DE AGOSTO DE 2010.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para los establecimientos comerciales existentes, es decir, los que ya cuenten con las licencias y/o permisos necesarios para su operación, el artículo 75 Bis será aplicable hasta el mes de enero del año 2011 al momento de realizar los trámites de refrendo de las licencias y permisos correspondientes.
+
+P.O. 12 DE MAYO DE 2014.
+
+PRIMERO: La reforma por adición y modificación al Reglamento de Protección Civil del Municipio de San Nicolás de los Garza, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+SEGUNDO: Gírense las instrucciones al Secretario del R. Ayuntamiento para el exacto cumplimiento del presente acuerdo.
