@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-academia-de-policia-del-ayuntamiento-de-46512"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-14"
-last_updated: "2005-09-09"
+last_updated: "2014-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA ACADEMIA DE POLICIA DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO DE LA ACADEMIA DE POLICIA DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO DE LA ACADEMIA DE POLICÍA DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 12 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 1997.
 
@@ -603,8 +605,48 @@ PRIMERO.- Se deroga el Reglamento Interior de la Academia de Policía del Munici
 
 SEGUNDO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 9 DE SEPTIEMBRE DE 2005.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+P.O. 12 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Reglamento entrara en vigor al día siguiente del de su Publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Promociones, Ascensos y Reconocimientos de los Miembros de la Dirección de Segundad Pública del Municipio de Mexicali, Baja California, publicado en el Periódico Oficial de fecha 02 de septiembre de 2005 y demás reformas de que haya sido objeto dicho reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento del Servicio de Seguridad Pública para el Municipio de Mexicali, Baja California, publicado en el Periódico Oficial de fecha 26 de Febrero de 2010 y demás reformas de que haya sido objeto dicho reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento de la Academia de Policía del Municipio de Mexicali, Baja California.
+
+###### ARTÍCULO QUINTO.
+
+La Comisión de servicio de Carrera Policial y la Comisión de Honor y Justicia, se tendrán por instaladas conforme a la Sesión que para el efecto se convoque la cual deberá celebrarse en un plazo no mayor a sesenta días de la entrada en vigor del presente Reglamento
+
+###### ARTÍCULO SEXTO.
+
+En un período no mayor de noventa días siguientes a la entrada en vigor del presente Reglamento, la Comisión deberá emitir los manuales de:
+
+a) Manual de Organización del Servicio Profesional de Carrera de la Dirección de Seguridad Pública Municipal del Ayuntamiento de Mexicali, Baja California;
+
+b) Manual de Procedimientos del Servicio de Carrera Policial de la Dirección de Seguridad Pública Municipal del Ayuntamiento de Mexicali, Baja California;
+
+c) Catalogo de puestos del Servicio Profesional de carrera de la Dirección de Seguridad Pública Municipal del Ayuntamiento de Mexicali, Baja California.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Director deberá desarrollar un programa por virtud del cual se dé a conocer, en un período máximo de sesenta días siguientes a su entrada en vigor, el contenido del presente Reglamento a todos los miembros.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones municipales que se opongan a lo dispuesto en el presente Reglamento.
