@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2014-03-26"
+last_updated: "2014-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -71,7 +71,9 @@ VII. COEPES: La Comisión Estatal para la Planeación de la Educación Superior;
 
 VIII. CTE: Consejos Técnicos Escolares de Educación Básica; y
 
-IX. Organización Sindical: El Sindicato Nacional de Trabajadores de la Educación.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2014)</small>
+
+IX. Organización Sindical: El Sindicato Nacional de Trabajadores de la Educación y los Sindicatos que se constituyan conforme a las leyes aplicables.
 
 ###### Artículo 3°.
 
@@ -201,9 +203,19 @@ Los gobiernos estatal y municipales, además de impartir la educación preescola
 
 El Estado está obligado a prestar servicios educativos de calidad que garanticen el máximo logro de aprendizaje de los educandos de los niveles de educación básica, media superior y superior.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2014)</small>
+
 ###### Artículo 14.
 
-La planeación, organización, supervisión y evaluación del Sistema Educativo de la Entidad corresponderán al Gobierno del Estado, a través de la dependencia educativa estatal, de manera concurrente con las autoridades educativas federales, en los términos previstos en la Ley General, la Ley del Instituto Nacional para la Evaluación de la Educación, la Ley General del Servicio Profesional Docente, y las normas locales congruentes en la materia.
+La planeación, organización y supervisión del sistema educativo de la Entidad corresponderán al gobierno del Estado, a través de la dependencia educativa estatal, de manera concurrente con las autoridades educativas federales, en los términos previstos en la Ley General, la Ley del Instituto Nacional para la Evaluación de la Educación, la Ley General del Servicio Profesional Docente, y las normas locales congruentes en la materia.
+
+El Gobierno del Estado realizará las funciones de evaluación que le correspondan, sujetándose a lo dispuesto en: la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y los Lineamientos que expida dicho Instituto.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2014)</small>
+
+###### Artículo 14 Bis.
+
+En la Educación Básica y Media Superior el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y de supervisión, en las instituciones educativas dependientes del estado y sus organismos descentralizados, así como de los ayuntamientos, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación y el presente ordenamiento.
 
 ## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y OBLIGACIONES EN EL SERVICIO EDUCATIVO
 
@@ -213,7 +225,9 @@ La planeación, organización, supervisión y evaluación del Sistema Educativo 
 
 Son facultades y obligaciones del Gobierno del Estado, en materia educativa, las siguientes:
 
-I. Impartir el servicio público de educación en todos sus tipos y modalidades, cumplir y vigilar la observancia de los principios establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación, sus disposiciones reglamentarias; la presente Ley, la Ley del Instituto de Evaluación Educativa del Estado de Sinaloa y sus disposiciones reglamentarias, así como los planes y programas de estudio aplicables al sistema educativo estatal y garantizar que quienes impartan el servicio educativo sean profesionales de la educación, titulados en el perfil respectivo, cuidando que la preferencia para la prestación docente de servicios en instituciones educativas públicas, se determine mediante concursos de oposición por conocimientos y capacidades; o curricular, en su defecto;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2014)</small>
+
+I. Impartir el servicio público de educación en todos sus tipos y modalidades, cumplir y vigilar la observancia de los principios establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación, sus disposiciones reglamentarias; la presente Ley, la Ley del Instituto de Evaluación Educativa del Estado de Sinaloa y sus disposiciones reglamentarias en lo que resulten aplicables, así como los planes y programas de estudio aplicables al sistema educativo estatal y garantizar que quienes impartan el servicio educativo sean profesionales de la educación y que su incorporación, promoción o permanencia en la prestación de servicios docentes, en instituciones públicas de educación básica y media superior, se determine mediante concursos de oposición, preferentemente anuales, que garanticen la idoneidad de los conocimientos y las capacidades necesarias, con sujeción a lo dispuesto por el artículo 21 de la Ley General del Servicio Profesional Docente.
 
 II. Proponer a la Autoridad Educativa Federal los contenidos regionales a incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, con respeto a lo establecido por la Autoridad Educativa Federal, cuando ello resulte necesario en atención a los requerimientos específicos de la Entidad;
 
@@ -261,7 +275,9 @@ Asimismo, establecer estrategias y medidas que tiendan a desmotivar el consumo d
 
 XXIII. Fomentar la adopción de estilos de vida saludables, tanto individuales como colectivos, para lo cual, el Estado desarrollará acciones formativas y preventivas asociadas a los factores que inciden en la salud de los escolares, a fin de prevenir y disminuir los problemas de salud prioritarios en los alumnos de educación básica y media superior, así como el avance en la prevalencia de sobrepeso y obesidad; las enfermedades infectocontagiosas, y cualesquier otros problemas específicos de la población infantil y adolescente. Con este propósito, se deberá contar con el Registro de Salud del Escolar, dentro del programa permanente de Salud del Escolar;
 
-XXIV. Observar los lineamientos marcados por la Autoridad Educativa Federal respecto de las regulaciones sobre expendio de alimentos y bebidas para alumnos de educación básica y media superior, así como aquellos enfocados en la preparación de dichos alimentos para el consumo escolar, debiendo igualmente establecer acciones de observación, seguimiento y evaluación dirigidos principalmente a la aplicación de dichas regulaciones, con la finalidad de verificar que, en efecto, se cumpla con lo establecido por dichas disposiciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2014)</small>
+
+XXIV. Observar los lineamientos marcados por la Autoridad Educativa Federal respecto de las regulaciones sobre el expendio de alimentos y bebidas en todas las escuelas, así como aquellos enfocados a la preparación de dichos alimentos para el consumo escolar, debiendo igualmente establecer acciones de observación, seguimiento y evaluación, dirigidos principalmente a la aplicación de dichas regulaciones, con la finalidad de verificar que, en efecto, se cumpla con lo establecido por dichas disposiciones.
 
 Estas acciones en beneficio de la salud escolar, serán obligaciones complementarias y concurrentes de los ayuntamientos, en materia educativa. Su incumplimiento generará la aplicación de las sanciones que correspondan;
 
@@ -793,7 +809,7 @@ La educación secundaria, para llevar a cabo sus programas de trabajo, fomentar�
 
 ###### Artículo 75.
 
-Los profesores adscritos a los planteles de educación secundaria se nombrarán, preferentemente, entre los que tengan preparación especial adquirida en las escuelas normales superiores o en instituciones educativas afines y que cumplan lo previsto en la fracción I del artículo 15, de este ordenamiento legal.
+(DEROGADO, P.O. 12 DE MAYO DE 2014)
 
 ###### Artículo 76.
 
@@ -851,13 +867,7 @@ X. Asegurarán, en lo general, que los educandos adquieran ciertas competencias 
 
 ###### Artículo 83.
 
-Los requisitos que deben cumplir los profesores para poder impartir educación en este tipo educativo son los siguientes:
-
-I. Haber obtenido título universitario de educación superior o equivalente en la esfera cognoscitiva del área, asignatura o actividad que pretenda impartir, o en otra que tenga afinidad con ella.
-
-La dependencia competente del Estado, en los términos del reglamento correspondiente, podrá dispensar del cumplimiento de este requisito y otorgar autorizaciones a quienes gocen de reconocido prestigio o experiencia académica, o bien, se hayan significado en el conocimiento o investigación del área, asignatura o actividad cuya impartición se pretenda; y
-
-II. Tratándose de extranjeros, para ejercer la docencia, se deberá contar con autorización expedida en los términos de las disposiciones vigentes en materia de profesiones.
+(DEROGADO, P.O. 12 DE MAYO DE 2014)
 
 ###### Artículo 84.
 
@@ -1159,13 +1169,7 @@ Los planes y programas de estudio para cada nivel educativo a que se refiere est
 
 ###### Artículo 134.
 
-Corresponden al Instituto Nacional para la Evaluación de la Educación, y de manera concurrente a la institución homóloga, en esta Entidad, las atribuciones siguientes:
-
-I. Evaluar al Sistema Educativo Estatal en todos sus componentes, de conformidad con los lineamientos que expida dicha institución nacional, con base en lo dispuesto en la Ley del Instituto Nacional para la Evaluación de la Educación y la Ley correspondiente en la Entidad;
-
-II. Fungir como autoridad nacional en materia de evaluación educativa y emitir los lineamientos a que se sujetará la autoridad educativa local, para realizar las evaluaciones que le corresponden; y
-
-III. Emitir directrices, con base en los resultados de la evaluación del sistema educativo nacional, que sean relevantes para contribuir a las decisiones tendientes a mejorar la calidad de la educación y su equidad en el Estado.
+(DEROGADO, P.O. 12 DE MAYO DE 2014)
 
 ###### Artículo 135.
 
@@ -1185,21 +1189,7 @@ La evaluación de los educandos comprenderá la medición en lo individual de lo
 
 ###### Artículo 139.
 
-En el marco de las disposiciones que la Autoridad Educativa Federal establezca sobre la materia, el Gobierno del Estado, a través de la Autoridad Educativa Estatal, hará de manera sistemática y permanente, la evaluación del Sistema Educativo Estatal. Dicha evaluación cubrirá los aspectos siguientes:
-
-I. Aprovechamiento escolar;
-
-II. Proceso educativo;
-
-III. Administración educativa;
-
-IV. Participación social; y
-
-V. Política educativa.
-
-Consecuentemente, la evaluación educativa tendrá un enfoque integral, considerando los aportes de teorías metodológicas utilizadas en el proceso educativo y deberá incluir todos los elementos del campo educativo, como son: estudiantes, maestros, directivos, personal administrativo, planes y programas de estudio, equipamiento, libros y materiales didácticos, organización y administración del sistema, la participación social y los resultados mismos del proceso educativo.
-
-La Autoridad Educativa Estatal realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas a que se refiere el presente artículo, para mantenerlos permanentemente actualizados. En el caso de los programas de educación normal, y demás para la formación de maestros de educación básica, serán revisados y evaluados, al menos, cada cuatro años.
+(DEROGADO, P.O. 12 DE MAYO DE 2014)
 
 ###### Artículo 140.
 
@@ -1381,7 +1371,9 @@ XI. Las demás que les otorguen las leyes federales, locales y sus normas reglam
 
 Son obligaciones de los padres de familia o tutores:
 
-I. Hacer que sus hijas, hijos o pupilos menores de edad, reciban la educación preescolar, primaria y secundaria;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2014)</small>
+
+I. Hacer que sus hijas, hijos o pupilos menores de edad reciban la educación preescolar, la primaria, la secundaria y la media superior;
 
 II. Apoyar el proceso educativo de sus hijas, hijos o pupilos;
 
@@ -1423,9 +1415,11 @@ La organización y funcionamiento de las asociaciones de padres de familia, en l
 
 ### CAPÍTULO II. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2014)</small>
+
 ###### Artículo 162.
 
-La Autoridad Educativa Estatal y las municipales promoverán, de conformidad con los lineamientos que establezca la SEP y el Gobierno del Estado, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos.
+La Autoridad Educativa Estatal y las municipales promoverán, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos.
 
 ###### Artículo 163.
 
@@ -1441,7 +1435,9 @@ IV. Ex alumnos; y
 
 V. Representantes y demás integrantes de la comunidad con interés en el desarrollo de su propia escuela.
 
-Dichos consejos deberán ser instalados, a más tardar, el 30 de septiembre de cada año, y sancionados para su operación y funcionamiento por los supervisores escolares, en coordinación con el área de Vinculación Social de la SEPyC.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2014)</small>
+
+Dichos consejos deberán estar constituidos y operando en los plazos que determine la autoridad educativa federal, y sancionados para su operación y funcionamiento por los supervisores escolares, en coordinación con el área de Vinculación Social de la SEPyC.
 
 ###### Artículo 164.
 
@@ -1767,7 +1763,9 @@ SEGUNDO.- Se abroga la Ley de Educación para el Estado de Sinaloa, publicada en
 
 TERCERO.- Las autoridades competentes respetarán íntegramente los derechos adquiridos por los trabajadores de la educación y reconocerán la titularidad de las Condiciones Generales de Trabajo, las relaciones laborales colectivas, del Sindicato Nacional de Trabajadores de la Educación, en los términos de su registro vigente en la Entidad, sin menoscabo de las normas locales y federales sobre la materia que sean aplicables y de acuerdo con las disposiciones legales correspondientes al expedir esta Ley.
 
-CUARTO.- El personal que se encuentre en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente, conforme al artículo octavo transitorio de dicha Ley, será readscrito para continuar en otras tareas dentro de dicho servicio educativo, conforme a lo que determine la Autoridad Educativa, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2014)</small>
+
+CUARTO.- El personal que a la entrada en vigor de la Ley General del Servicio Profesional Docente se encuentre en servicio y cuente con nombramiento definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Estado que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente, conforme al artículo octavo transitorio de dicha Ley, será readscrito para continuar con otras tareas en dicho servicio, conforme a lo que determine la Autoridad Educativa, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
 
 QUINTO.- En tanto el Ejecutivo Estatal expide las normas reglamentarias que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, así como las disposiciones administrativas, en lo que no contravengan a la Ley General, a la presente Ley, y a las regulaciones federales aplicables.
 
@@ -1808,3 +1806,11 @@ C. GERARDO O. VARGAS LANDEROS
 Secretario de Educación Pública y Cultura
 
 C. FRANCISCO C. FRÍAS CASTRO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
