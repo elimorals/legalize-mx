@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2014-04-01"
+last_updated: "2014-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -211,7 +211,7 @@ IV. Recibir, en los términos que establece esta Ley y el Reglamento, el informe
 
 V. Otorgar al gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública, las que quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;
 
-VI Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
+VI. Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
 
 VII. Trasladar, a solicitud del Ejecutivo, la residencia de los poderes del Estado, cuando sea necesario por circunstancias extraordinarias;
 
@@ -485,9 +485,7 @@ IV. Solemnes: aquellas en que:
 
 a) Se tome la protesta a los diputados locales y se instale la Legislatura.
 
-b) Rinda la protesta de ley el titular del Poder Ejecutivo
-
-del Estado, al asumir su cargo.
+b) Rinda la protesta de ley el titular del Poder Ejecutivo del Estado, al asumir su cargo.
 
 c) Les sea tomada la protesta de ley a los servidores públicos que deban rendirla ante él.
 
@@ -1329,7 +1327,7 @@ III. Los relativos a nombramientos o ratificación de los titulares o integrante
 
 IV. Los referentes a la calificación de las excusas que expongan el gobernador, diputados y miembros de los ayuntamientos para no desempeñar sus cargos;
 
-V. Los tocantes a la concesión de licencias temporales al gobernador del Estado para separarse de su encargo, y para ausentarse de la Entidad por más de quince días;
+V. Los tocantes a la concesión de licencias temporales al Gobernador del Estado para separarse de su encargo, y para ausentarse de la Entidad por más de quince días;
 
 VI. Los relativos a la calificación de las renuncias de los magistrados del Poder Judicial, y de los tribunales autónomos;
 
@@ -1355,7 +1353,7 @@ XVI. Los que se refieran a la suspensión y desaparición de ayuntamientos, así
 
 XVII. En su carácter de comisión de examen previo conforme a la ley de la materia, los concernientes a los juicios políticos, de responsabilidad y de declaración de procedencia;
 
-XVIII. Los concernientes a las controversias que se susciten entre uno o más municipios, y entre éstos y el Poder Ejecutivo o el Poder Judicial del Estado, siempre y cuando no posean un carácter contencioso;
+XVIII. Los concernientes a las controversias que se susciten entre uno o más municipios, y entre éstos y el Poder Ejecutivo o el Poder Judicial del Estado, siempre y cuando no posean carácter contencioso;
 
 XIX. Los encaminados a obtener del Poder Legislativo, amnistías o indultos por delitos del orden común;
 
@@ -1571,13 +1569,17 @@ I. De Administración;
 
 II. Del Instituto de Investigaciones Legislativas;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
 
-III. De Orientación, Gestoría y Quejas, y
+III. De Orientación, Gestoría y Quejas;
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
 
-IV. De Reforma para la Competitividad y Desarrollo Sustentable del Estado.
+IV. De Reforma para la Competitividad y Desarrollo Sustentable del Estado, y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2014)</small>
+
+V. De Información.
 
 ###### ARTICULO 120.
 
@@ -1648,6 +1650,10 @@ XIII. Publicar periódicamente informes sobre las actividades realizadas, y
 XIV. Las demás que sean necesarias para el cumplimiento de los objetivos anteriores y que dicte su Mesa Directiva.
 
 El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado se regirá bajo los lineamientos que establezca su Reglamento.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2014)</small>
+
+ARTICULO 124 TER. El Comité de Información estará integrado y actuará en términos y conforme a las funciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
 
 ### Capítulo II. De los Órganos de Soporte Técnico, de Apoyo y de Control del Congreso del Estado
 
@@ -2192,5 +2198,11 @@ Segundo. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 1 DE ABRIL DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
