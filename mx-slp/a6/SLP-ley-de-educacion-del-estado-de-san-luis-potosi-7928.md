@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2014-04-15"
+last_updated: "2014-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -1123,11 +1123,17 @@ II BIS.- Contribuir para que los educandos se desarrollen a través de la práct
 
 III.- Coadyuvar en la construcción y mantenimiento de espacios deportivos y de recreación, evitando con ello la proliferación de centros de vicio;
 
-IV.- Impulsar la participación en actividades y competencias deportivas y recreativas, nacionales e internacionales; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+IV.- Impulsar la participación en actividades y competencias deportivas y recreativas, nacionales e internacionales;
 
-V.- Otorgar estímulos para alumnos y maestros matriculados en instituciones educativas de los niveles, básico, medio, o medio superior, destacados en el área deportiva, denominadas becas deportivas, mismas que corresponderán a un veinte por ciento del total de las otorgadas; para su asignación se atenderá a lo dispuesto por la Ley Estatal del Deporte.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
+
+V.- Otorgar estímulos para alumnos y maestros matriculados en instituciones educativas de los niveles, básico, medio, o medio superior, destacados en el área deportiva, denominadas becas deportivas, mismas que corresponderán a un veinte por ciento del total de las otorgadas; para su asignación se atenderá a lo dispuesto por la Ley Estatal del Deporte, y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2014)</small>
+
+VI.- Fomentar la práctica de actividades físicas en todos los centros educativos del Estado y municipios de San Luis Potosí, de nivel básico y medio superior, en un mínimo de treinta minutos diarios.
 
 ### Capítulo IV.
 
@@ -2184,6 +2190,12 @@ PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el 
 SEGUNDO. Se derogan las disposiciones normativas de igual o inferior jerarquía jurídica que se opongan a la presente Ley.
 
 P.O. 15 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
