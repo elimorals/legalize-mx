@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-el-examen-de-meritos-del-poder-judicial-del-550
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-21"
-last_updated: "2009-08-28"
+last_updated: "2014-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # REGLAMENTO PARA EL EXAMEN DE MERITOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO PARA EL EXAMEN DE MERITOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO PARA EL EXAMEN DE MÉRITOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 AGOSTO DE 2009
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el miércoles 21 de marzo de 2007.
 
@@ -157,7 +157,7 @@ El Instituto llevará un registro de solicitudes, e integrará un expediente a c
 
 Las solicitudes que se reciban y los expedientes formados se enviarán con una relación al Consejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 12.
 
@@ -189,7 +189,11 @@ II.- Fase de valoración de aptitudes; y
 
 III.- Fase de evaluación de méritos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2014)</small>
+
+Tratándose del cargo de Juez de Primera Instancia en Materia Penal, así como los especializados en las de Narcomenudeo y Adolescentes, las fases serán aquellas que el Consejo de la Judicatura determine mediante los acuerdos generales que al respecto emita, considerando las características y requerimientos del sistema de justicia penal acusatorio y oral, así como las necesidades del servicio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. DE LA FASE DE VALORACIÓN DE CONOCIMIENTOS
 
@@ -291,7 +295,7 @@ En cada una de las etapas de la fase de evaluación de conocimientos, el Institu
 
 El Consejo proveerá lo conducente para la metodología y aplicación de la fase de evaluación de conocimientos, a fin de garantizar la igualdad, imparcialidad y objetividad de las evaluaciones; sus decisiones en cuanto a su implementación y aplicación no admitirán recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. DE LA FASE DE VALORACIÓN DE APTITUDES
 
@@ -323,13 +327,13 @@ Sólo los aspirantes acreditados en esta fase pasarán a la evaluación de méri
 
 Mediante la fase de evaluación de méritos se valorarán las cualidades, éticas y deontológicas, así como laborales y académicas de los aspirantes para ocupar los cargos vacantes en los órganos jurisdiccionales o, en su caso, el orden de prelación en la reserva judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 26.
 
 La evaluación de esta fase estará a cargo del Consejo, a través del mecanismo que determine para el efecto, considerando invariablemente los indicadores a que se refiere el artículo 27 de este reglamento.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 27.
 
@@ -353,9 +357,9 @@ Para los efectos de este artículo, el Consejo podrá solicitar a los aspirantes
 
 La Visitaduría Judicial General del Poder Judicial tendrá voz, pero no voto, en esta fase del examen.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 28.
 
@@ -419,7 +423,7 @@ La lista de la reserva judicial será vigente hasta en tanto se integre aquella 
 
 Para los efectos del presente Capítulo, el titular de la Secretaría integrará todos los expedientes de los aspirantes que hayan sustentado el examen a que se refiere este Reglamento, señalando los resultados obtenidos en las fases del examen de méritos conforme a lo previsto por este ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2009)</small>
 
 ## TÍTULO CUARTO. DEL RECURSO DE REVISIÓN
 
@@ -527,7 +531,7 @@ LA SECRETARIA DE ACUERDO Y TRÁMITE
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE AGOSTO DE 2009.
 
@@ -558,3 +562,29 @@ Las disposiciones previstas en el artículo cuarto transitorio del Reglamento qu
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 13 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor a partir del mismo día en que se aprobó.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el Acuerdo mediante el cual se aprobó esta reforma en el Periódico Oficial del Estado y difúndase a través de los medios que determine el Consejo.
+
+###### ARTÍCULO TERCERO.
+
+A las personas adscritas al Poder Judicial del Estado que cuenten con nombramiento de carácter de interino, sujeto a una condición de temporalidad, y que hayan aprobado el examen de méritos acorde al cargo para el que sustentaron, les será respetado dicho requisito y serán tomados en cuenta, preferentemente, para las readscripciones y plazas de nueva creación, siempre y cuando vengan desempeñando el cargo en forma continua desde la fecha de su designación, así como, previa evaluación de su desempeño y méritos por parte del Consejo de la Judicatura, de conformidad con las disposiciones contenidas en este ordenamiento.
+
+Las personas a que se refiere este artículo que aspiren a diverso cargo del que vienen ocupando con carácter interino, deberán someterse a las evaluaciones previstas en el presente Reglamento..(sic)
+
+###### ARTÍCULO CUARTO.
+
+Los integrantes de los órganos jurisdiccionales en funciones que hayan sido designados en sus cargos con nombramientos de carácter interino que no cuenten con el requisito de haber sustentado y aprobado el examen de méritos, deberán inscribirse a aquel a que se convoque, una vez de conformidad con las presentes reformas, a fin de continuar en el desempeño del cargo que ocupan; desde luego, sujetos a su aprobación y a la calificación que se hagan acreedores en igualdad de circunstancias con los demás aspirantes. Sin este requisito no podrán continuar desempeñando los cargos asignados interinamente, terminando los efectos de su nombramiento interino en la fecha en que el Consejo les comunique que se ha concluido con el debido proceso de selección.
+
+Es obligación de los servidores judiciales a que se refiere este artículo cumplir con el requisito de examen de méritos, una vez que se convoque a éste, sin que se requiera de comunicación personal para esos efectos. Sin perjuicio de lo anterior, el Consejo de la Judicatura podrá, comunicar por escrito a los servidores judiciales que tengan un nombramiento con el carácter de interino, para los efectos conducentes.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan a la presente reforma.
