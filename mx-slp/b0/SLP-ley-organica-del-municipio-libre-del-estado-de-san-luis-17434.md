@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2013-11-14"
+last_updated: "2014-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -577,9 +577,17 @@ XXII. Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de
 
 XXIII. Constituir dentro de los primeros treinta días del inicio de la administración, el Consejo Municipal de Protección Civil, con el objeto de prevenir y actuar en casos de riesgo, siniestro o desastre en coordinación con las autoridades del Estado y la Federación. A este organismo concurrirán los sectores público, social y privado, con las funciones y atribuciones que para el efecto señalen la Ley de Protección Civil del Estado y el Reglamento Municipal correspondiente;
 
-XXIV. Designar por el voto de cuando menos las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, a los delegados municipales que correspondan según sea el caso, y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
 
-XXV. Las demás que señalen la presente Ley y los ordenamientos aplicables.
+XXIV. Designar por el voto de cuando menos las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, a los delegados municipales que correspondan según sea el caso;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
+
+XXV. Emitir recibos por todos y cada uno de los cobros que realice el ayuntamiento, los cuales deberán contener de forma enunciativa más no limitativa, el nombre del ayuntamiento, domicilio y logotipos oficiales, el número de folio impreso consecutivo, el importe total de la operación consignado con número y letra, el concepto que ampara, la vigencia del comprobante, y el área o departamento que lo emite; debiendo ser autorizados por la tesorería municipal, y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2014)</small>
+
+XXVI. Las demás que señalen la presente Ley y los ordenamientos aplicables.
 
 ###### ARTICULO 32.
 
@@ -2534,6 +2542,12 @@ PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 14 DE NOVIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
