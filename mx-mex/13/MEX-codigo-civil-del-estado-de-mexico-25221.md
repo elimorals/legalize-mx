@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2014-05-09"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -2437,7 +2437,21 @@ II. Aquellos cuya tutela legal haya sido conferida a las instituciones descritas
 
 III. Aquéllos sobre los que no existe quien ejerza la patria potestad o existiendo, no manifiesten su voluntad para ejercerla en beneficio del interés superior del menor;
 
-lV. Los hijos del cónyuge o concubino.
+IV. Los hijos del cónyuge o concubino.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Cuando se trate de un grupo de hermanos el Sistema para el Desarrollo Integral de la Familia del Estado de México decidirá si es conveniente dar en adopción a alguno por separado, siempre procurando que la separación signifique salvaguardar el bien superior de los hermanos.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de México para autorizar la separación de los hermanos deberá tomar en cuenta, por lo menos los siguientes supuestos:
+
+a) Que por el número de hermanos no sea factible su adopción por el mismo adoptante;
+
+b) Que alguno o algunos de los hermanos tengan problemas de salud;
+
+c) La diferencia de edad entre los hermanos.
 
 > <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
 
@@ -2669,7 +2683,7 @@ III. Por la mayoría de edad;
 
 > <small>(REFORMADA, G.G. 15 DE MAYO DE 2012)</small>
 
-lV. Por la adopción;
+IV. Por la adopción;
 
 > <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
 
@@ -2681,7 +2695,7 @@ VI. Cuando los menores se encuentren albergados y abandonados por sus familiares
 
 > <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
 
-Vll. Por la exposición que la madre o el padre hiciera de sus hijos.
+VII. Por la exposición que la madre o el padre hiciera de sus hijos.
 
 Pérdida de la patria potestad por sentencia
 
@@ -17686,3 +17700,13 @@ G.G. 9 DE MAYO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- El Ejecutivo del Estado proveerá en la esfera administrativa la exacta observancia del presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
