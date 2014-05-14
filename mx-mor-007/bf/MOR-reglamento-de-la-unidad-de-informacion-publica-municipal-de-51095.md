@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-unidad-de-informacion-publica-municipal-de-510
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-05"
-last_updated: "2006-07-05"
+last_updated: "2014-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA UNIDAD DE INFORMACION PUBLICA MUNICIPAL DE CUERNAVACA
 
-REGLAMENTO DE LA UNIDAD DE INFORMACION PUBLICA MUNICIPAL DE CUERNAVACA
+REGLAMENTO DE LA UNIDAD DE INFORMACIÓN PÚBLICA MUNICIPAL DE CUERNAVACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA UNIDAD DE INFORMACIÓN PÚBLICA DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS, PUBLICADO EN EL P.O. DE 14 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -526,3 +528,13 @@ C. LIBORIO ROMÁN CRUZ MEJÍA
 Secretario del Ayuntamiento
 
 Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE MAYO DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga el “Reglamento de la Unidad de Información Pública Municipal de Cuernavaca”, publicado en el Periódico Oficial “Tierra y Libertad” número 4472, de 5 de julio de 2006.
+
+TERCERO.- Lo no previsto por el presente Reglamento, se resolverá por el Ayuntamiento atendiendo a los principios que rigen el derecho a la información pública.
