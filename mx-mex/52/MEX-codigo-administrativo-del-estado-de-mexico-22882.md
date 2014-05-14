@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-03-27"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 27 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1037,7 +1035,9 @@ II. Vigilar y establecer medidas para controlar la contaminación originada por 
 
 6.- La dirección y administración del Instituto de Salud del Estado de México, estará a cargo de un consejo interno y de un director general.
 
-El consejo interno se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con nueve vocales que son los representantes de las secretarías de Finanzas y Planeación, del Trabajo y de la Previsión Social, de Educación, Cultura y Bienestar Social, de Desarrollo Urbano y Obras Públicas, de Desarrollo Agropecuario, de Administración y de Ecología, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+El consejo interno se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con ocho vocales que son los representantes de las secretarías de Finanzas, del Trabajo, de Educación, de Desarrollo Urbano, de Desarrollo Agropecuario, de Medio Ambiente, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
 
 (REFORMADO, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
 
@@ -1081,9 +1081,11 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 8.- El Consejo de Salud del Estado de México es una instancia permanente de coordinación, consulta y apoyo para la planeación, programación y evaluación de los servicios de salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 2.
 
-9.- El Consejo se integra por el Secretario de Salud, quien fungirá como presidente, los Secretarios de Educación, Cultura y Bienestar Social, y de Ecología, el Secretario Técnico del Consejo Estatal de Población, los Directores Generales del Instituto de Salud del Estado de México, del Instituto de Seguridad Social del Estado de México y Municipios, y del Sistema para el Desarrollo Integral de la Familia del Estado de México, el Director de la Facultad de Medicina de la Universidad Autónoma del Estado de México, el Director General de Protección Civil, así como con los delegados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto Mexicano del Seguro Social, y un representante de los municipios de la Entidad.
+9.- El Consejo se integra por el Secretario de Salud, quien fungirá como presidente, los Secretarios de Educación y de Medio Ambiente, el Secretario Técnico del Consejo Estatal de Población, los Directores Generales del Instituto de Salud del Estado de México, del Instituto de Seguridad Social del Estado de México y Municipios, del Sistema para el Desarrollo Integral de la Familia del Estado de México, el Director de la Facultad de Medicina de la Universidad Autónoma del Estado de México, el Director General de Protección Civil, así como con los delegados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto Mexicano del Seguro Social y un representante de los municipios de la Entidad.
 
 A invitación del Presidente, tres representantes de los sectores social y privado.
 
@@ -1471,7 +1473,9 @@ La Comisión se excusará del conocimiento de las inconformidades que se estable
 
 28.- La dirección y administración de la Comisión estará a cargo de un consejo y un comisionado.
 
-El consejo se integra con el comisionado, quien lo presidirá, ocho vocales que serán los representantes de las secretarías de Finanzas y Planeación, y de Administración, y seis representantes de los sectores social y privado, y un comisario que será el representante de la Secretaría de la Contraloría.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+El consejo se integra con el comisionado, quien lo presidirá, siete vocales que serán un representante de la Secretaría de Finanzas y seis representantes de los sectores social y privado, y un comisario que será el representante de la Secretaría de la Contraloría.
 
 El comisionado es nombrado por el Gobernador del Estado y deberá reunir los siguientes requisitos:
 
@@ -2595,6 +2599,8 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 #### SECCIÓN PRIMERA. De la Zonificación
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
@@ -2657,7 +2663,7 @@ VI. Los profesionistas y sus asociaciones o colegios.
 
 ###### Artículo 3.
 
-4.- Son autoridades para la aplicación de este Libro la Secretaría de Educación, Cultura y Bienestar Social, los municipios y sus organismos públicos descentralizados.
+4.- Son autoridades para la aplicación de este Libro la Secretaría de Educación, los municipios y sus organismos públicos descentralizados.
 
 En materia de educación, corresponde a las autoridades a que se refiere el párrafo anterior, el ejercicio de las atribuciones señaladas a favor del Estado y de los municipios, respectivamente, en las leyes General de Educación y para la Coordinación de la Educación Superior, así como las previstas en este Libro.
 
@@ -2665,7 +2671,9 @@ En materia de educación, corresponde a las autoridades a que se refiere el pár
 
 La Secretaría de Educación verificará a través de auditorías, revisiones e inspecciones, que los servicios educativos que presten los particulares en la entidad, cuenten con autorización o con reconocimiento de validez de estudios, asimismo que den cumplimiento a las disposiciones jurídicas, políticas y planes del sector, y en su caso, procederá a imponer las sanciones correspondientes, en términos de este Libro.
 
-Las atribuciones en las materias de ejercicio profesional y mérito civil corresponden a la Secretaría de Educación, Cultura y Bienestar Social, y las relativas a investigación científica y tecnológica al Consejo Mexiquense de Ciencia y Tecnología.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Las atribuciones en las materias de ejercicio profesional y mérito civil corresponden a la Secretaría de Educación y las relativas a investigación científica y tecnológica al Consejo Mexiquense de Ciencia y Tecnología.
 
 ## TITULO TERCERO. Del ejercicio profesional
 
@@ -2805,9 +2813,11 @@ V. Las instituciones de los particulares con autorización o reconocimiento de v
 
 VI. Las instituciones de educación superior a las que la ley otorga autonomía.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 3.
 
-11.- La Secretaría de Educación, Cultura y Bienestar Social contará con un Consejo Técnico de Educación que estará a cargo de la evaluación del sistema educativo estatal.
+11.- La Secretaría de Educación contará con un Consejo Técnico de Educación que estará a cargo de la evaluación del sistema educativo estatal.
 
 La evaluación será permanente y sistemática. Sus resultados serán tomados como base para que las autoridades educativas, en el ámbito de su competencia, adopten las medidas procedentes.
 
@@ -2855,6 +2865,8 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 ### CAPITULO SEPTIMO. De los particulares que imparten educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 3.
 
 20.- Para efectos de este Libro se entiende por participación social en la educación, las gestiones, recomendaciones, opiniones, intervenciones y acciones que realizan los padres de familia o tutores de los educandos y sus asociaciones.
@@ -2863,11 +2875,15 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 21.- En cada institución o establecimiento educativo de los diferentes niveles se podrá establecer una asociación de padres de familia en términos de lo que dispone la Ley General de Educación.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 3.
 
-22.- La Secretaría de Educación, Cultura y Bienestar Social promoverá la participación de la sociedad a través de los consejos de participación social estatal, municipales y escolares, como órganos de consulta, orientación y apoyo, de conformidad con lo previsto en la Ley General de Educación.
+22.- La Secretaría de Educación promoverá la participación de la sociedad a través de los consejos de participación social estatal, municipales y escolares, como órganos de consulta, orientación y apoyo, de conformidad con lo previsto en la Ley General de Educación.
 
 ### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 3.
 
@@ -2877,13 +2893,15 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 24.- La presea de "Honor Estado de México" se otorga a los profesionistas al servicio de la educación que se distingan en grado eminente por su eficiencia, constancia y méritos profesionales en el servicio de la educación pública y sus diversos tipos, modalidades y niveles educativos, tanto del subsistema educativo estatal como del federalizado. La presea se otorgará anualmente.
 
-Para su otorgamiento la Secretaría de Educación, Cultura y Bienestar Social contará con un Consejo Técnico, cuya integración y funcionamiento se regirá por la reglamentación correspondiente.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Para su otorgamiento la Secretaría de Educación contará con un Consejo Técnico, cuya integración y funcionamiento se regirá por la reglamentación correspondiente.
 
 ### CAPITULO SEGUNDO. De los profesionistas
 
 ###### Artículo 3.
 
-25.- Los particulares podrán impartir educación en todos sus tipos y modalidades mediante autorización o reconocimiento de validez oficial de estudios expedidos por la Secretaría de Educación, Cultura y Bienestar Social.
+25.- Los particulares podrán impartir educación en todos sus tipos y modalidades mediante autorización o reconocimiento de validez oficial de estudios expedidos por la Secretaría de Educación.
 
 La autorización o el reconocimiento se otorgarán cuando se satisfagan los requisitos que se establecen en la Ley General de Educación.
 
@@ -2897,9 +2915,11 @@ En los demás casos podrán obtener el reconocimiento de validez oficial de estu
 
 ### CAPITULO TERCERO. De las asociaciones de profesionistas
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 3.
 
-27.- Son atribuciones de la Secretaría de Educación, Cultura y Bienestar Social en materia de profesiones:
+27.- Son atribuciones de la Secretaría de Educación, en materia de profesiones:
 
 I. Fortalecer el ejercicio profesional de excelencia, ético y competitivo;
 
@@ -2923,11 +2943,15 @@ VII. Publicar anualmente en la Gaceta del Gobierno una relación de las asociaci
 
 29.- Los títulos expedidos en el extranjero podrán obtener la revalidación con apego a lo establecido en la reglamentación correspondiente.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 3.
 
-30.- El Gobernador del Estado, previo dictamen de la Secretaría de Educación, Cultura y Bienestar Social y oyendo la opinión de las instituciones de educación media superior y superior, de las asociaciones de profesionistas, y del Consejo Técnico de Educación, expedirá los reglamentos correspondientes a los distintos campos de acción profesional.
+30.- El Gobernador del Estado, previo dictamen de la Secretaría de Educación y oyendo la opinión de las instituciones de educación media superior y superior, de las asociaciones de profesionistas y del Consejo Técnico de Educación, expedirá los reglamentos correspondientes a los distintos campos de acción profesional.
 
 ### CAPITULO CUARTO. Del Registro Estatal de Educación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 3.
 
@@ -2971,9 +2995,9 @@ III. Cuando exista orden judicial escrita, salvo las excepciones que contemplen 
 
 ###### Artículo 3.
 
-38.- Los profesionistas de una misma rama podrán constituir en el Estado de México colegios, entendiéndose por éstos a las asociaciones de profesionistas que obtengan su registro ante la Secretaría de Educación, Cultura y Bienestar Social.
+38.- Los profesionistas de una misma rama podrán constituir en el Estado de México colegios, entendiéndose por éstos a las asociaciones de profesionistas que obtengan su registro ante la Secretaría de Educación.
 
-Los colegios de profesionistas para su reconocimiento, deberán contar con registro de la Secretaría de Educación, Cultura y Bienestar Social.
+Los colegios de profesionistas para su reconocimiento, deberán contar con registro de la Secretaría de Educación.
 
 ###### Artículo 3.
 
@@ -3009,7 +3033,9 @@ VII. Prestar la más amplia colaboración al poder público como cuerpos consult
 
 VIII. Formular propuestas a las dependencias y organismos auxiliares de la administración pública estatal y municipal, para desarrollar y ejecutar programas y acciones en materias relacionadas con su ámbito profesional;
 
-IX. Participar en el diseño, elaboración y ejecución de los programas de evaluación y acreditación de las instituciones de educación superior en las materias de sus respectivos campos profesionales, a invitación de la Secretaría de Educación, Cultura y Bienestar Social;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+IX. Participar en el diseño, elaboración y ejecución de los programas de evaluación y acreditación de las instituciones de educación superior en las materias de sus respectivos campos profesionales, a invitación de la Secretaría de Educación;
 
 X. Elaborar propuestas para mejorar y actualizar los planes de estudios profesionales;
 
@@ -3029,7 +3055,7 @@ XIII. Cumplir con lo establecido en el presente Título y la reglamentación que
 
 ###### Artículo 3.
 
-44.- La Secretaría de Educación, Cultura y Bienestar Social establecerá y operará el Registro Estatal de Educación que contendrá:
+44.- La Secretaría de Educación establecerá y operará el Registro Estatal de Educación que contendrá:
 
 I. Planes y programas de estudio de educación media superior y superior;
 
@@ -3049,9 +3075,11 @@ VIII. Certificados de profesionistas expedidos por los colegios de profesionista
 
 El Registro Estatal de Educación será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 3.
 
-45.- Las autoridades judiciales deberán comunicar oportunamente a la Secretaría de Educación, Cultura y Bienestar Social las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional cuando éstas hubiesen causado ejecutoria, con el objeto de que, en su caso, se cancele el registro correspondiente.
+45.- Las autoridades judiciales deberán comunicar oportunamente a la Secretaría de Educación las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional cuando éstas hubiesen causado ejecutoria, con el objeto de que, en su caso, se cancele el registro correspondiente.
 
 ## TITULO QUINTO. Del Instituto Mexiquense de Cultura
 
@@ -3097,9 +3125,9 @@ XIV. Las demás que se establezcan en otros ordenamientos.
 
 47.- La dirección y administración del Consejo está a cargo de una junta directiva y un director general.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con catorce vocales, que son los representantes de las secretarías de: Finanzas y Planeación, de Salud, del Trabajo y de la Previsión Social, de Desarrollo Urbano y Obras Públicas, de Desarrollo Agropecuario, de Desarrollo Económico, de Ecología, de Administración, de Comunicaciones y de Transporte, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C., y a invitación del presidente de la junta, dos científicos destacados en la materia.
+La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con trece vocales, que son los representantes de las secretarías de: Finanzas, de Salud, del Trabajo, de Desarrollo Urbano, de Desarrollo Agropecuario, de Desarrollo Económico, de Medio Ambiente, de Comunicaciones y de Transporte, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C. y a invitación del Presidente de la junta, dos científicos destacados en la materia.
 
 El director general será nombrado por el Gobernador del Estado, a propuesta del presidente de la junta.
 
@@ -3165,7 +3193,9 @@ XV. Las demás que se establezcan en otras disposiciones legales.
 
 50.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
 
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con tres vocales, que son los representantes de las secretarías de Finanzas y Planeación, y de Administración, y el Rector de la Universidad Autónoma del Estado de México.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con dos vocales, que son el representante de la Secretaría de Finanzas y el Rector de la Universidad Autónoma del Estado de México.
 
 El director general es nombrado por el Gobernador del Estado, a propuesta del presidente del consejo.
 
@@ -3219,7 +3249,9 @@ IX. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 53.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
 
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con cinco vocales, que son los representantes de las secretarías de Finanzas y Planeación, de Desarrollo Económico, y de Administración, y dos representantes del sector privado.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con cuatro vocales, que son los representantes de las secretarías de Finanzas, de Desarrollo Económico y dos representantes del sector privado.
 
 El director general es nombrado por el Gobernador del Estado, a propuesta del presidente del consejo.
 
@@ -3433,7 +3465,9 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 69.- Para efectos de este Libro, se consideran como infracciones de quienes presten servicios educativos, adicionalmente a aquellas previstas en la Ley General de Educación, las siguientes:
 
-I. Desatender las auditorías y revisiones que la Secretaría de Educación, Cultura y Bienestar Social ordene practicar a los archivos de los planteles con autorización o reconocimiento de validez oficial;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+I. Desatender las auditorías y revisiones que la Secretaría de Educación ordene practicar a los archivos de los planteles con autorización o reconocimiento de validez oficial;
 
 II. Discriminar a los educandos, a sus padres o tutores por su situación económica, de raza, de religión, de sexo o de ideología política;
 
@@ -3461,13 +3495,17 @@ Cuando la revocación se dicte durante un ejercicio lectivo la institución podr
 
 71.- El retiro del reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados en el lapso en que la institución contaba con reconocimiento, mantendrán su validez oficial.
 
-La Secretaría de Educación, Cultura y Bienestar Social adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+La Secretaría de Educación adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 3.
 
-72.- Las infracciones previstas en la Ley General de Educación y el artículo 3.69 serán sancionadas por la Secretaría de Educación, Cultura y Bienestar Social con arreglo a la ley general.
+72.- Las infracciones previstas en la Ley General de Educación y en el artículo 3.69 serán sancionadas por la Secretaría de Educación con arreglo a la Ley General.
 
-Para asegurar el cumplimiento de las disposiciones de este Libro, así como para imponer sanciones a los particulares que prestan servicios educativos, la Secretaría de Educación, Cultura y Bienestar Social podrá actuar de oficio o a petición de parte.
+Para asegurar el cumplimiento de las disposiciones de este Libro, así como para imponer sanciones a los particulares que prestan servicios educativos, la Secretaría de Educación podrá actuar de oficio o a petición de parte.
 
 ###### Artículo 3.
 
@@ -3481,9 +3519,11 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 75.- Los profesionistas que ejerzan sin contar con registro, en ningún caso podrán cobrar honorarios.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 3.
 
-76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, Cultura y Bienestar Social, serán sancionadas con multa de cien a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción.
+76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, serán sancionadas con multa de cien a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
@@ -4477,7 +4517,9 @@ III. Los municipios de la entidad, cuando se traten asuntos de su jurisdicción 
 
 Participarán como invitados en las sesiones de la Comisión, previa convocatoria, representantes de otras instancias gubernamentales, cuya competencia u objeto esté relacionado con el desarrollo urbano.
 
-Las instancias de gobierno integrantes de la Comisión y los invitados de este órgano colegiado, deberán emitir las opiniones o dictámenes técnicos respecto de los asuntos de su competencia y las que le sean solicitadas.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Las instancias de gobierno integrantes de la Comisión y los invitados de este órgano colegiado deberán emitir por escrito las opiniones o dictámenes técnicos respecto de los asuntos de su competencia tratados en la misma sesión y las que le sean solicitadas, deberán hacerlas llegar a la Secretaria Técnica, a más tardar cinco días hábiles antes de la siguiente sesión de la Comisión.
 
 La Comisión regulará su organización y funcionamiento conforme al reglamento interno que expida.
 
@@ -4923,11 +4965,11 @@ Asimismo, requieren dictamen de impacto regional los cambios de uso del suelo, d
 
 En aquellos casos en que el uso y aprovechamiento específico de los lotes de terreno resultantes de conjuntos urbanos, subdivisiones o condominios, no haya quedado autorizado en el acuerdo respectivo, para su posterior autorización se requerirá obtener dictamen de impacto regional, siempre que el uso pretendido se ubique en alguno de los supuestos de este artículo.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 5.
 
-36.- Sólo procederá la emisión del dictamen de impacto regional, cuando el uso de suelo de que se trate esté previsto en el plan municipal de desarrollo urbano o del parcial respectivo y tendrá una vigencia de un año, pudiendo prorrogarse por una sola vez. Tratándose de dictámenes de impacto regional para cambios de usos de suelo, su emisión solo procederá cuando el uso pretendido sea compatible con los usos previstos en el plan municipal de desarrollo urbano y en ambos casos se cumplan los requisitos y demás regulaciones establecidas en este Libro y su reglamentación.
+36.- Sólo procederá la emisión del dictamen de impacto regional, cuando el uso de suelo de que se trate esté previsto en el plan municipal de desarrollo urbano o del parcial respectivo, o bien, a falta de dicho plan se determinará su procedencia con la aprobación del cabildo del municipio que se trate, previa consulta con la Comisión de Planeación para el Desarrollo Municipal y la aprobación de la Secretaría, el cual tendrá una vigencia de un año, pudiendo prorrogarse por una sola vez. Tratándose de dictámenes de impacto regional para cambios de usos de suelo, su emisión solo procederá cuando el uso pretendido sea compatible con los usos previstos en el plan municipal de desarrollo urbano y en ambos casos se cumplan los requisitos y demás regulaciones establecidas en este Libro y su reglamentación.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4973,7 +5015,9 @@ Los conjuntos urbanos mixtos serán aquellos que comprendan a dos o más tipos.
 
 I. Deberá ser solicitada ante la Secretaría, acompañada de la documentación que establezca la reglamentación del presente Libro;
 
-II. El número de viviendas y de usos del suelo, será determinado en función de la factibilidad de agua potable y energía eléctrica que emitan las autoridades competentes;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+II. El número de viviendas y de usos del suelo dependerá de lo que establezca el Plan Municipal de Desarrollo Urbano y se determinará principalmente en función de la factibilidad de agua potable y energía eléctrica que emitan las autoridades competentes. Asimismo, se deberá cumplir con todas las condicionantes que se determinan en el presente Libro y su reglamentación correspondiente;
 
 III. Requerirán de constancia de viabilidad;
 
@@ -4985,7 +5029,9 @@ VI. No procederá su autorización en áreas no urbanizables;
 
 VII. El solicitante o los socios de la solicitante, en el caso de personas jurídicas colectivas, deberán acreditar que han cumplido con las obligaciones derivadas de autorizaciones urbanas que les hayan sido otorgadas con anterioridad, ya sea en forma personal o a través de personas jurídicas colectivas de las que también sean socios;
 
-VIII. Comprenderán, según el caso, las autorizaciones relativas a la lotificación en condominios, subdivisiones, fusiones y apertura, ampliación o modificación de vías públicas, usos específicos del suelo y sus normas de aprovechamiento, cambios de uso del suelo, de densidad de vivienda, coeficiente de ocupación del suelo, coeficiente de utilización del suelo y altura de edificaciones;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+VIII. Comprenderán, según el caso, las autorizaciones relativas a condominios, subdivisiones, fusiones y apertura, ampliación o modificación de vías públicas, usos específicos del suelo y sus normas de aprovechamiento, cambios de uso del suelo, de densidad de vivienda, coeficiente de ocupación del suelo, coeficiente de utilización del suelo y altura de edificaciones;
 
 IX. Emitida la autorización, no se podrá incrementar la superficie enajenable ni excederse el número de lotes y/o viviendas aprobadas;
 
@@ -5005,7 +5051,7 @@ c) Instalar un medidor electrónico de consumo para determinar el volumen del su
 
 d) Presentar a la Secretaría los proyectos ejecutivos, memorias de cálculo y especificaciones técnicas, debidamente aprobados por las autoridades competentes, de las obras de urbanización, infraestructura y equipamiento urbano que establezcan los respectivos acuerdos de autorización, así como las licencias de construcción de las obras de equipamiento urbano.
 
-Los que en su momento se entregarán en copia fiel certificada a la administración del conjunto urbano;
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 e) Iniciar las obras de urbanización, infraestructura y equipamiento urbano que establezcan los acuerdos de autorización de los desarrollos, en un plazo máximo de seis meses contados a partir de la publicación de la autorización en el Periódico Oficial “Gaceta del Gobierno”;
 
@@ -5035,9 +5081,13 @@ p) Las demás que establezcan otras disposiciones legales aplicables.
 
 XI. Serán solidariamente responsables del cumplimiento de las obligaciones previstas en este Libro, su reglamentación y en la autorización:
 
-a) El titular de la autorización del conjunto urbano y el propietario del terreno, cuando sean personas distintas, así como sus causahabientes; y
+a) El titular de la autorización del conjunto urbano y el propietario del terreno, cuando sean personas distintas, así como sus causahabientes; y (sic)
 
 b) En el caso de fideicomisos, el fideicomitente y la fiduciaria en lo que corresponda.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+c) Compradores de lotes en bloque.
 
 XII. La promoción y publicidad sobre lotes de un conjunto urbano deberá apegarse a la autorización respectiva y será de tal naturaleza, que permita una adecuada orientación al adquirente. Queda prohibida la propaganda engañosa que ofrezca condiciones, situaciones o bienes que no estén contemplados en la autorización; y
 
@@ -5065,11 +5115,13 @@ Para la venta de lotes o vivienda nueva en que intervenga una desarrolladora de 
 
 40.- La subdivisión y fusión de un predio requiere autorización de la Secretaría, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 5.
 
-41.- Las subdivisiones que adicionalmente impliquen la autorización de diez o más viviendas, o en usos diferentes al habitacional, un coeficiente de utilización de tres mil o más metros cuadrados de construcción, podrán ser autorizadas únicamente en áreas urbanas o urbanizables de conformidad con la tipología prevista para los conjuntos urbanos.
+41.- Las subdivisiones que impliquen la autorización de diez o más viviendas, o en usos diferentes al habitacional, un coeficiente de utilización de tres mil o más metros cuadrados de construcción, podrán ser autorizadas únicamente en áreas urbanas o urbanizables, de conformidad con la tipología prevista para los conjuntos urbanos.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 La autorización de las subdivisiones a que se refiere el presente artículo, quedará sujeta a los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación de ceder superficies de terreno para vías públicas.
 
@@ -5163,7 +5215,7 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 #### SECCIÓN PRIMERA. De la Cédula Informativa de Zonificación
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 5.
 
@@ -5175,13 +5227,17 @@ IV. Las que soliciten las autoridades federales, estatales y municipales respect
 
 49.- Los condominios horizontales, verticales y mixtos, requerirán autorización de la Secretaría, de manera previa a la constitución de dicho régimen de propiedad, de conformidad con lo que establece este Libro y su reglamentación.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 5.
 
-50.- Los condominios que impliquen el desarrollo de ocho o más viviendas, o en otros usos con un coeficiente de utilización de tres mil o más metros cuadrados de construcción, podrán ser autorizados únicamente en áreas urbanas o urbanizables de conformidad con la tipología prevista para los conjuntos urbanos.
+50.- Los condominios que impliquen el desarrollo de diez o más viviendas, o en otros usos, con un coeficiente de utilización de tres mil o más metros cuadrados de construcción, podrán ser autorizados únicamente en áreas urbanas o urbanizables de conformidad con la tipología prevista para los conjuntos urbanos.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Para la autorización de los condominios a que se refiere el presente artículo, serán aplicables los lineamientos que para los conjuntos urbanos establece el artículo 5.38 del presente Código, con excepción de la obligación prevista para el titular de la autorización, de ceder superficies de terreno para vías públicas, así como la relativa a entregar a las autoridades municipales o estatales de la materia, las obras de urbanización y equipamiento del condominio.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Los titulares de los condominios que se proyecte realizar en lotes provenientes de conjuntos urbanos o subdivisiones autorizados, en las cuales se hayan aprobado las normas de uso y aprovechamiento del suelo de los lotes mencionados, no estarán afectos a la obligación de ejecutar obras ni de donar áreas para equipamiento urbano.
 
@@ -5215,7 +5271,9 @@ Para tal efecto, la asamblea de ejidatarios o de comuneros respectiva, deberá s
 
 ###### Artículo 5.
 
-54.- Los interesados en conocer los usos del suelo, la densidad de vivienda, el coeficiente de ocupación del suelo, el coeficiente de utilización del suelo y la altura de edificaciones y las restricciones de índole federal, estatal y municipal que para un predio o inmueble determinado establezca el plan municipal de desarrollo urbano correspondiente, podrán solicitar a la autoridad competente la expedición de una cédula informativa de zonificación, la cual no constituirá autorización alguna, tendrá únicamente carácter informativo y estará vigente en tanto no se modifique el plan municipal del cual derive.
+54.- Los interesados en conocer los usos del suelo, la densidad de vivienda, el coeficiente de ocupación del suelo, el coeficiente de utilización del suelo y la altura de edificaciones y las restricciones de índole federal, estatal y municipal, que para un predio o inmueble determinado establezca el plan municipal de desarrollo urbano correspondiente, podrán solicitar a la autoridad competente la expedición de una cédula informativa de zonificación, la cual no constituirá autorización alguna y tendrá únicamente carácter informativo así como vigencia de un año.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Para su obtención, los interesados deberán incluir en la solicitud respectiva, el croquis de localización del predio de que se trate.
 
@@ -5269,7 +5327,9 @@ En caso de no estar instalada tal Comisión, la autoridad encargada del desarrol
 
 IV. Tratándose de cambios a usos del suelo de impacto regional, se requerirá de dictamen de impacto regional y demás requisitos que establezca la reglamentación de este Libro.
 
-Cuando se trate de cambios a usos de suelo de impacto regional, los municipios deberán remitir al Sistema Estatal dentro de los quince días hábiles siguientes a la fecha de la emisión, copia certificada de las autorizaciones de cambio de uso del suelo, de densidad, de los coeficientes de ocupación y utilización del suelo y de altura de edificaciones que hayan expedido.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Cuando se trate de cambios a usos de suelo de impacto regional, los municipios deberán remitir mensualmente al sistema estatal, copia certificada de las autorizaciones de cambio de uso del suelo, de densidad, de los coeficientes de ocupación y utilización del suelo y de altura de edificaciones que hayan expedido.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5369,11 +5429,13 @@ II. Demolición parcial o total de construcciones;
 
 III. Revocación de las autorizaciones, licencias o permisos otorgados;
 
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
 IV. Multa, atendiendo a la gravedad de la infracción:
 
-a) De mil a quinientas mil veces el salario mínimo general vigente del área geográfica que corresponda, tratándose de hechos que violen las disposiciones jurídicas que regulan los conjuntos urbanos, condominios, subdivisiones y los usos que generan impacto regional;
+a) De mil a quinientas mil veces el salario mínimo general vigente del área geográfica que corresponda, tratándose de hechos que violen las disposiciones jurídicas que regulan los conjuntos urbanos y los usos que generan impacto regional;
 
-b) De diez a cinco mil veces el salario mínimo general vigente del área geográfica que corresponda en los demás casos.
+b) De diez a cinco mil veces el salario mínimo general vigente del área geográfica que corresponda, tratándose de hechos que transgredan disposiciones jurídicas en la materia, incumplimientos de obligaciones establecidas en los acuerdos de autorizaciones emitidas por las autoridades estatales o municipales correspondientes.
 
 Las multas se duplicarán en caso de reincidencia y se podrán aplicar conjuntamente con cualquiera de las sanciones contempladas en las fracciones I a III de este artículo.
 
@@ -8275,7 +8337,9 @@ XII. Las demás que le asigne el Gobernador del Estado.
 
 11.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
 
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con cuatro vocales, que son los representantes de las secretarías de Finanzas y Planeación, de Desarrollo Agropecuario, de Administración y de Ecología.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con tres vocales, que son los representantes de las secretarías de Finanzas, de Desarrollo Agropecuario y de Medio Ambiente.
 
 Son invitados permanentes del consejo: siete líderes de la producción, en las áreas agropecuaria, acuícola y forestal de la entidad, a propuesta del presidente del órgano de gobierno y cuyo perfil responda al interés de sus representados, de entre los comuneros, ejidatarios y pequeños propietarios; los delegados de las secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Medio Ambiente y Recursos Naturales en la entidad; un representante del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias en la entidad; y dos representantes académicos, uno de la Universidad Autónoma del Estado de México y otro de la Universidad Autónoma de Chapingo.
 
@@ -8633,7 +8697,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.36 "... El Gobierno del Estado, a través de la Secretaría de Educación y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con discapacidad."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
 
 ###### Artículo 11.
 
@@ -8751,7 +8815,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 22.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.23 "Las guarderías, jardines de niños, escuelas, institutos y, en general, aquellos establecimientos, cualquiera que sea su denominación o régimen jurídico, en que se lleven a cabo actividades de educación especial y rehabilitación de discapacidades somáticas o psicológicas, se sujetarán a las normas técnicas estatales que para tal efecto establezca la Secretaría de Educación."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
 
 ###### Artículo 11.
 
@@ -8793,7 +8857,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 28.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.29 "Para efectos de este Capítulo, la Secretaría del Trabajo tendrá las atribuciones siguientes: I. a II ..."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
 
 ###### Artículo 11.
 
@@ -8895,7 +8959,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.42 "El Gobierno del Estado, a través de las Secretarías de Salud y de Educación, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con discapacidad, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
 
 ###### Artículo 11.
 
@@ -8977,7 +9041,9 @@ I. Dependencias, a las señaladas en las fracciones I y II del artículo 12.1;
 
 II. Entidades, a las mencionadas en la fracción IV del artículo 12.1;
 
-III. Secretaría de Finanzas, a la Secretaría de Finanzas y Planeación;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+III. Secretaría, a la Secretaría de Finanzas.
 
 IV. Contraloría, a la Secretaría de la Contraloría y órganos de control interno de las dependencias, entidades estatales y de los municipios;
 
@@ -9701,7 +9767,9 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 Las dependencias, entidades o ayuntamientos bajo cuya responsabilidad quede una obra pública concluida, estarán obligadas, por conducto del área responsable de su operación, a mantenerla en niveles apropiados de funcionamiento.
 
-Las dependencias y entidades deberán presentar a la Secretaría de Administración o a los ayuntamientos, una información detallada de las obras concluidas que se les entreguen para su operación, para los efectos de su asignación y registro en términos de la Ley de Bienes del Estado de México y sus Municipios.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Las dependencias y entidades deberán presentar a la Secretaría de Finanzas o a los ayuntamientos, una información detallada de las obras concluidas que se les entreguen para su operación, para los efectos de su asignación y registro en términos de la Ley de Bienes del Estado de México y sus Municipios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10591,7 +10659,9 @@ XXIX. Ley de Transparencia. A la Ley de Transparencia y Acceso a la Información
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Finanzas, Planeación y Administración;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+II. El Secretario de Finanzas;
 
 III. El Consejo Directivo del IGECEM;
 
@@ -10613,21 +10683,33 @@ IV. Aprobar el programa Estatal como sustento del Sistema de Planeación Democr�
 
 V. Las demás que expresamente le determine este Libro y otros ordenamientos aplicables.
 
-El Gobernador del Estado ejercerá estas atribuciones por si o a través del Secretario de Finanzas, Planeación y Administración, o por conducto del Director General de IGECEM.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+El Gobernador del Estado ejercerá estas atribuciones por sí o a través del Secretario de Finanzas o por conducto del Director General de IGECEM.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 14.
 
-6.- Al Secretario de Finanzas, Planeación y Administración corresponde:
+6.- Al Secretario de Finanzas corresponde:
+
+> <small>(ADICIONADA, G.G. 22 DE AGOSTO DE 2005)</small>
 
 I. Presidir el Consejo Directivo del IGECEM;
 
+> <small>(ADICIONADA, G.G. 22 DE AGOSTO DE 2005)</small>
+
 II. Coordinar la operación y relación del IGECEM con las dependencias y entidades de la administración pública estatal;
+
+> <small>(ADICIONADA, G.G. 22 DE AGOSTO DE 2005)</small>
 
 III. Ejecutar las políticas, criterios y lineamientos generales para la captación, generación, integración y organización en materia de información e investigación geográfica, estadística y catastral, conforme a los ordenamientos correspondientes;
 
+> <small>(ADICIONADA, G.G. 22 DE AGOSTO DE 2005)</small>
+
 IV. Programar, controlar y evaluar la integración y actualización de la información geográfica, estadística y catastral de la entidad;
+
+> <small>(ADICIONADA, G.G. 22 DE AGOSTO DE 2005)</small>
 
 V. Las demás que expresamente le determine este Libro y otros ordenamientos aplicables.
 
@@ -11157,7 +11239,9 @@ II. Un Director General.
 
 48.- El Consejo Directivo será la máxima autoridad del IGECEM y estará integrado por:
 
-I. Un presidente, que será el Secretario de Finanzas, Planeación y Administración;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+I. Un presidente, que será el Secretario de Finanzas;
 
 II. Catorce Vocales, que serán:
 
@@ -11169,7 +11253,9 @@ c. El Secretario del Medio Ambiente;
 
 d. El Secretario de Desarrollo Social;
 
-e. El Secretario de Desarrollo Urbano y Vivienda;
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+e. El Secretario de Desarrollo Urbano;
 
 f. El Secretario de Desarrollo Agropecuario;
 
@@ -11533,7 +11619,7 @@ II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de s
 
 III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
 
-IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+IV.- Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -16409,11 +16495,11 @@ CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 3 DE MAYO DE 2013.
 
-DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 26 DE OCTUBRE DE 2012.
+DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO”, DE FECHA 26 DE OCTUBRE DE 2012.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
@@ -16604,3 +16690,25 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los ayuntamientos en el ámbito de su competencia proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto las disposiciones respectivas.
 
 CUARTO. El Secretario Técnico someterá a consideración del Consejo Rector para su aprobación el proyecto de manual de procedimientos y el reglamento que regirá su funcionamiento, dentro de los 90 días hábiles siguientes a su instalación.
+
+G.G. 14 DE MAYO DE 2014.
+
+DECRETO NÚMERO 225, POR EL QUE SE REFORMAN LOS ARTÍCULOS 5.14, TERCER PÁRRAFO, 5.36, 5.38, FRACCIONES II Y VIII, 5.41, PRIMER PÁRRAFO, 5.50, PRIMER PÁRRAFO, 5.54, PRIMER PÁRRAFO, 5.57, TERCER PÁRRAFO, 5.63, FRACCIÓN IV, INCISOS A) Y B), SE ADICIONA AL ARTÍCULO 5.38, FRACCIÓN XI, INCISO C), Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL INCISO D) DE LA FRACCIÓN X DEL ARTÍCULO 5.38, TODOS DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Estado continuará prestando las funciones relacionadas con la expedición de las licencias de uso del suelo, cédulas informativas de zonificación, cambios de uso del suelo, coeficiente de ocupación del suelo y coeficiente de utilización del suelo, densidad de vivienda, así como de altura de edificaciones, en tanto se firmen los convenios de transferencia de funciones a los municipios.
+
+CUARTO.- Los procedimientos administrativos que se encuentren en trámite al entrar en vigor el presente Decreto, se substanciarán y resolverán conforme a las disposiciones del Libro Quinto del Código Administrativo del Estado de México vigentes al momento de haber iniciado.
+
+G.G. 14 DE MAYO DE 2014.
+
+DECRETO NÚMERO 227, POR EL QUE SE REFORMAN LOS ARTÍCULOS 2.6, SEGUNDO PÁRRAFO, 2.9, PRIMER PÁRRAFO, 2.28, SEGUNDO PÁRRAFO, 3.4, PRIMERO Y CUARTO PÁRRAFOS, 3.11, PRIMER PÁRRAFO, 3.22, 3.24, SEGUNDO PÁRRAFO, 3.25, PRIMER PÁRRAFO, 3.27, PRIMER PÁRRAFO, 3.30, 3.38, 3.42, FRACCIÓN IX, 3.44, PRIMER PÁRRAFO, 3.45, 3.47 SEGUNDO PÁRRAFO, 3.50, SEGUNDO PÁRRAFO, 3.53, SEGUNDO PÁRRAFO, 3.69, FRACCIÓN I, 3.71, SEGUNDO PÁRRAFO, 3.72, 3.76, 9.11, SEGUNDO PÁRRAFO, 11.23, 11.29, PRIMER PÁRRAFO, 11.36, SEGUNDO PÁRRAFO, 11.42, 12.3 FRACCIÓN III, 12.59, ÚLTIMO PÁRRAFO, 14.4, FRACCIÓN II, 14.5, ÚLTIMO PÁRRAFO, 14.6, PRIMER PÁRRAFO, 14.48, FRACCIONES I Y II, INCISO E, TODOS DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
