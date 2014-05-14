@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-documentos-administrativos-e-historicos-del-estado-5980"
 country: "mx"
 rank: "ley"
 publication_date: "1986-03-24"
-last_updated: "2004-04-30"
+last_updated: "2014-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO DE MEXICO
 
-LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO DE MEXICO
+LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 24 de marzo de 1986.
 
@@ -65,7 +65,7 @@ Todo documento que realicen los servidores públicos, deberá depositarse en los
 
 El servidor público, encargado de recibir documentos, los registrará en el acto de su recepción, indicando el destino que deba darse a cada uno.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 6.
 
@@ -77,7 +77,7 @@ En los casos de extravío, pérdida, robo o destrucción de un documento, el ser
 
 En caso de robo, deberá denunciar inmediatamente a las autoridades competentes, para realizar la investigación.
 
-> <small>(F. DE E., P.O. 29 DE MAYO DE 1986)</small>
+> <small>(F. DE E., G.G. 29 DE MAYO DE 1986)</small>
 
 ###### Artículo 8.
 
@@ -93,11 +93,11 @@ PODER EJECUTIVO
 
 El Poder Ejecutivo Estatal en la Administración de Documentos, se sujetará a las disposiciones de la presente Ley y de las normas que se dicten al respecto.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 10.
 
-El Archivo General del Poder Ejecutivo, funcionará bajo la responsabilidad de la Secretaría de Administración, y el Archivo Histórico del Estado, será operado por el Instituto Mexiquense de Cultura.
+El Archivo General del Poder Ejecutivo funcionará bajo la responsabilidad de la Secretaría de Finanzas, y el Archivo Histórico del Estado será operado por el Instituto Mexiquense de Cultura.
 
 ###### Artículo 11.
 
@@ -119,7 +119,7 @@ g) En el proceso de depuración de los archivos administrativos, se deberá cont
 
 h) El Archivo General del Poder Ejecutivo mantendrá comunicación directa con cada uno de los archivos de las Dependencias para efecto de coordinación, asesoría y control operativo.
 
-> <small>(F. DE E., P.O. 29 DE MAYO DE 1986)</small>
+> <small>(F. DE E., G.G. 29 DE MAYO DE 1986)</small>
 
 i) Se procurará utilizar técnicas especializadas en archivonomía y reproducción de documentos, cuando éstos contengan materias de interés general, histórico, institucional o bien, para efectos de seguridad, sustitución de documentos o facilidad de consulta.
 
@@ -149,7 +149,7 @@ c) Realizar la reproducción de documentos con valor histórico, cuando por su e
 
 d) El titular del Archivo Histórico del Estado, podrá celebrar convenios o en su caso, intercambiar información técnica con los responsables de los Archivos Históricos de otras Entidades Federativas, de asociaciones civiles o Instituciones particulares si se da el caso.
 
-> <small>(F. DE E., P.O. 29 DE MAYO DE 1986)</small>
+> <small>(F. DE E., G.G. 29 DE MAYO DE 1986)</small>
 
 ###### Artículo 15.
 
@@ -157,7 +157,7 @@ En el Poder Ejecutivo Estatal, habrá Archivos Histórico, de transferencia y de
 
 PODER LEGISLATIVO
 
-> <small>(F. DE E., P.O. 29 DE MAYO DE 1986)</small>
+> <small>(F. DE E., G.G. 29 DE MAYO DE 1986)</small>
 
 ###### Artículo 16.
 
@@ -173,7 +173,7 @@ d) Procurará utilizar técnicas especializadas en reproducción y conservación
 
 PODER JUDICIAL
 
-> <small>(F. DE E., P.O. 29 DE MAYO DE 1986)</small>
+> <small>(F. DE E., G.G. 29 DE MAYO DE 1986)</small>
 
 ###### Artículo 17.
 
@@ -253,11 +253,17 @@ e) Vigilar la aplicación de la presente Ley y demás disposiciones que al respe
 
 El encargado de la ejecución de las atribuciones del Sistema Estatal de Documentación será un Organo denominado «Comité Técnico de Documentación», el cual se integrará de la forma siguiente:
 
-Secretario de Gobierno.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-Secretario de Administración.
+Secretario General de Gobierno.
 
-Secretario de Educación, Cultura y Bienestar Social.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Secretario de Finanzas.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Secretario de Educación.
 
 Un Representante del Poder Legislativo.
 
@@ -267,9 +273,11 @@ El Director de Organización y Documentación de la Secretaría de Administraci�
 
 Un Representante de los Ayuntamientos.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 26.
 
-El Comité Técnico de Documentación, tendrá un Presidente, que será el Secretario de Gobierno; un Vicepresidente, que será el Secretario de Administración; y un Secretario Técnico que será el Director de Organización y Documentación.
+El Comité Técnico de Documentación tendrá un Presidente, que será el Secretario General de Gobierno; un Vicepresidente, que será el Secretario de Finanzas; y un Secretario Técnico que será el Director de Organización y Documentación.
 
 ###### Artículo 27.
 
@@ -441,15 +449,15 @@ Dr. Carlos F. Almada López
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 14 DE SEPTIEMBRE DE 1987
+G.G. 14 DE SEPTIEMBRE DE 1987
 
 ###### ARTICULO UNICO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 30 DE ABRIL DE 2004.
+G.G. 30 DE ABRIL DE 2004.
 
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -470,3 +478,11 @@ SEPTIMO.- Los Sujetos Obligados deberán elaborar el catálogo de información a
 OCTAVO.- Los particulares podrán presentar solicitudes de acceso a la información pública y corrección de datos personales en términos de la presente Ley, después de un año de la designación de los Consejeros y del Consejero Presidente.
 
 NOVENO.- El Instituto expedirá su reglamento interior dentro de los tres meses siguientes a su integración.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
