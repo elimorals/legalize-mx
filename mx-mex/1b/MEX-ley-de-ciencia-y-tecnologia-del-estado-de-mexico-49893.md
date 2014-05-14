@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ciencia-y-tecnologia-del-estado-de-mexico-49893"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2013-12-19"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 227, PUBLICADO EN LA G.G. DE 14 DE MAYO DE 2014, CUANDO EN LOS ORDENAMIENTOS JURÍDICOS ESTATALES SE HAGA REFERENCIA A LA SECRETARÍA DE FINANZAS, PLANEACIÓN Y ADMINISTRACIÓN; DE DESARROLLO URBANO Y OBRAS PÚBLICAS; DE EDUCACIÓN, CULTURA Y BIENESTAR SOCIAL; DEL TRABAJO Y DE LA PREVISIÓN SOCIAL Y, DE ECOLOGÍA, SE ENTENDERÁ, RESPECTIVAMENTE, A LA SECRETARÍA DE FINANZAS; DE DESARROLLO URBANO; DE EDUCACIÓN, DE TRABAJO Y, DE MEDIO AMBIENTE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Tercera Sección Bis de la Gaceta del Gobierno del Estado de México, el viernes 31 de diciembre de 2004.
 
@@ -261,7 +263,9 @@ III. En su integración se observarán los criterios de pluralidad, de renovaci�
 
 IV. Tendrá una organización basada en comités de trabajo especializados por disciplinas y áreas de la ciencia y la tecnología;
 
-V. Contará con una mesa directiva formada por: el Presidente de la Comisión de Educación, Cultura, Ciencia y Tecnología de la Legislatura Local; un representante de la Secretaría de Educación, Cultura y Bienestar Social; un representante de un centro de investigación público; un representante de un centro de investigación o desarrollo tecnológico privado; seis representantes del sector productivo; tres rectores o directores de instituciones de educación superior públicas del Estado de México; un rector o director de institución de educación superior privada del Estado de México; seis investigadores de prestigio académico de la entidad, y los demás que considere la Junta Directiva del COMECYT. De igual forma se invitará a un representante de la Secretaría de Educación Pública y uno del Consejo Nacional de Ciencia y Tecnología.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
+V. Contará con una mesa directiva formada por: el Presidente de la Comisión de Educación, Cultura, Ciencia y Tecnología de la Legislatura Local; un representante de la Secretaría de Educación; un representante de un centro de investigación público; un representante de un centro de investigación o desarrollo tecnológico privado; seis representantes del sector productivo; tres rectores o directores de instituciones de educación superior públicas del Estado de México; un rector o director de institución de educación superior privada del Estado de México; seis investigadores de prestigio académico de la entidad, y los demás que considere la Junta Directiva del COMECYT. De igual forma se invitará a un representante de la Secretaría de Educación Pública y uno del Consejo Nacional de Ciencia y Tecnología.
 
 La mesa directiva será coordinada por quien (sic) elijan sus propios integrantes, renovándose la presidencia cada dos años. En sus sesiones de trabajo y de acuerdo a la naturaleza de los asuntos a tratar, la mesa directiva podrá invitar a participar a los especialistas de áreas, disciplinas o sectores relacionados con los asuntos que estime pertinente;
 
@@ -575,7 +579,9 @@ Con la finalidad de promover la descentralización de la investigación científ
 
 La investigación científica y desarrollo tecnológico que el Ejecutivo del Estado apoye, tendrá como finalidad contribuir al desarrollo de la educación y a la formación y consolidación de recursos humanos de alta calidad académica en la entidad.
 
-La Secretaría de Educación, Cultura y Bienestar Social y el COMECYT, establecerán los mecanismos de coordinación y colaboración necesarios para apoyar en forma conjunta los estudios de posgrado, poniendo atención especial al incremento de su calidad, la formación y consolidación de grupos académicos de investigación y la investigación científica y el desarrollo tecnológico en todas las áreas del conocimiento.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+La Secretaría de Educación y el COMECYT, establecerán los mecanismos de coordinación y colaboración necesarios para apoyar en forma conjunta los estudios de posgrado, poniendo atención especial al incremento de su calidad, la formación y consolidación de grupos académicos de investigación y la investigación científica y el desarrollo tecnológico en todas las áreas del conocimiento.
 
 ###### ARTICULO 59.
 
@@ -652,3 +658,11 @@ TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o
 CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
 
 QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo. Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
