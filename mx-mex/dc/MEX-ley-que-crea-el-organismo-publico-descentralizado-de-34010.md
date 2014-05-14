@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-34010"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-23"
-last_updated: "2003-09-23"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno de fecha 23 de septiembre de 2003
 
@@ -87,7 +87,7 @@ IX. Establecer un banco de información integral para ofrecer servicios de consu
 
 X. Promover y difundir los programas estatales y regionales de suelo y vivienda social;
 
-Xl. Promover la investigación y la productividad en materia de suelo y vivienda social, para propiciar el desarrollo y capacitación de los diferentes sectores que intervienen en este proceso;
+XI. Promover la investigación y la productividad en materia de suelo y vivienda social, para propiciar el desarrollo y capacitación de los diferentes sectores que intervienen en este proceso;
 
 XII. Regular el mercado inmobiliario para evitar la especulación, a través del control de las reservas territoriales;
 
@@ -137,13 +137,17 @@ XXXII. Las demás que señalan otras leyes y reglamentos.
 
 El Consejo Directivo será la máxima autoridad del Instituto y estará integrado por:
 
-I. Un Presidente, quien será el Secretario de Desarrollo Urbano y Vivienda;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+I. Un Presidente, quien será el Secretario de Desarrollo Urbano;
 
 II. Un Secretario, quien será designado por el Consejo Directivo a propuesta de su Presidente;
 
 III. Un Comisario, quien será el representante de la Secretaría de la Contraloría;
 
-IV. Por el número de vocales que se consideren necesarios. En todo caso, siempre habrá dos vocales quienes representarán a la Secretaría de Finanzas y Planeación y a la Secretaria de Administración;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+IV. Por el número de vocales que se consideren necesarios. En todo caso, siempre habrá un vocal, quien representará a la Secretaría de Finanzas.
 
 Por cada uno de los integrantes, el Consejo Directivo aprobará el nombramiento de un suplente quien será propuesto por el propietario.
 
@@ -219,7 +223,7 @@ VI. Proponer al Consejo Directivo, las medidas adecuadas para el mejor funcionam
 
 VII. Proponer al Consejo Directivo las modificaciones a la estructura orgánica y funcional del Instituto;
 
-VIII. Presentar al Consejo Directivo para su aprobación. los proyectos de reglamento interior, manuales administrativos y demás disposiciones para que rijan la organización y funcionamiento del Instituto; de las condiciones generales de trabajo y de los manuales de organización, así como sus modificaciones en su caso;
+VIII. Presentar al Consejo Directivo para su aprobación, los proyectos de reglamento interior, manuales administrativos y demás disposiciones para que rijan la organización y funcionamiento del Instituto; de las condiciones generales de trabajo y de los manuales de organización, así como sus modificaciones en su caso;
 
 IX. Celebrar convenios, contratos y acuerdos con terceros, informando de ello al Consejo Directivo, previa aprobación del Consejo;
 
@@ -338,3 +342,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
