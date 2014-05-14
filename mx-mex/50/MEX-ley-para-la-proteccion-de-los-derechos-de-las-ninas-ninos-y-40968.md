@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-409
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-10"
-last_updated: "2011-09-06"
+last_updated: "2014-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
 
-LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
@@ -383,7 +383,7 @@ d) Psicología.
 
 Los dictámenes y, en su caso, el resultado integral de las evaluaciones, se remitirán al Sistema para el Desarrollo Integral de la Familia del Estado de México;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
 XXI. Al Sistema para el Desarrollo Integral de la Familia del Estado de México, elaborar y mantener actualizada una base de datos de los casos en que los padres, tutores o quien tenga legalmente la custodia de un menor de edad o discapacitado, incumplan las obligaciones alimentarias que la ley determina, realicen conductas u omisiones que pongan en riesgo la salud mental y/o física de los menores a su cargo, y dar seguimiento de los mismos en coordinación con los Sistemas para el Desarrollo Integral de la Familia de los Municipios.
 
@@ -483,9 +483,11 @@ XI. Garantizar a las niñas, niños y adolescentes el acceso a los Centros de Sa
 
 XII. Las demás acciones que coadyuven a asegurar el derecho a la salud en forma integral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 30.
 
-El Estado a través de la Secretaría de Educación Cultura y Bienestar Social, establecerá los mecanismos que garanticen el derecho de las niñas, los niños y adolescentes a recibir educación integral, orientada hacia el desarrollo de sus potencialidades a fin de prepararlos para una vida adulta responsable, llevando a cabo las acciones siguientes:
+El Estado a través de la Secretaría de Educación establecerá los mecanismos que garanticen el derecho de las niñas, los niños y adolescentes a recibir educación integral, orientada hacia el desarrollo de sus potencialidades a fin de prepararlos para una vida adulta responsable, llevando a cabo las acciones siguientes:
 
 I. La impartición de una educación que fomente el amor a la familia, al Estado, a la patria y a crear conciencia de solidaridad, independencia y justicia social;
 
@@ -503,9 +505,11 @@ VI. Evitar la discriminación en materia de oportunidades educativas; y
 
 VII. Las demás que contribuyan a asegurar su desarrollo integral.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 31.
 
-El Estado, a través de la Secretaría de Educación Cultura y Bienestar Social, los Institutos Mexiquenses de la Juventud y Cultura Física y Deporte, fomentarán la realización de actividades culturales, artísticas, recreativas y deportivas que contribuyan al pleno desarrollo de las niñas, niños y adolescentes para fortalecer los valores de solidaridad, tolerancia, identidad cultural y conservación del ambiente.
+El Estado, a través de la Secretaría de Educación, los Institutos Mexiquenses de la Juventud y Cultura Física y Deporte, fomentarán la realización de actividades culturales, artísticas, recreativas y deportivas que contribuyan al pleno desarrollo de las niñas, niños y adolescentes para fortalecer los valores de solidaridad, tolerancia, identidad cultural y conservación del ambiente.
 
 ###### ARTICULO 32.
 
@@ -575,11 +579,17 @@ b) El Secretario de Desarrollo Social;
 
 c) El Secretario de Salud;
 
-d) El Secretario de Educación, Cultura y Bienestar Social;
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-e) El Secretario de Finanzas, Planeación y Administración;
+d) El Secretario de Educación.
 
-f) El Secretario del Trabajo y de la Previsión Social;
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+e) El Secretario de Finanzas.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+f) El Secretario del Trabajo.
 
 g) El Presidente del Tribunal Superior de Justicia del Estado de México;
 
@@ -635,7 +645,7 @@ VII. Contribuir a la difusión de los principios, derechos y deberes de las niñ
 
 VIII. Rendir un informe anual de actividades al Ejecutivo Estatal y al Congreso Local, durante el mes de enero.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ## TITULO QUINTO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN CIRCUNSTANCIAS ESPECIALMENTE DIFICILES, DISCAPACITADOS, EN SITUACION DE CALLE Y CON ADICCIONES
 
@@ -645,11 +655,11 @@ VIII. Rendir un informe anual de actividades al Ejecutivo Estatal y al Congreso 
 
 Toda persona, autoridad o institución que tenga conocimiento de que alguna niña, niño o adolescente, se encuentre en condiciones de vulnerabilidad o desventaja social, considerándose como tales el maltrato, abandono, abuso y explotación sexual y en los supuestos de sustracción o suplantación ilegal de la tutela, tendrán la obligación de hacerlo del conocimiento de la Procuraduría de la Defensa del Menor y de la Familia, así como de las autoridades competentes, sin perjuicio del derecho que tendrá el menor de denunciar todo maltrato en sus diferentes modalidades o abuso de que sea objeto; esto es con el fin de tomar las medidas necesarias para su protección y en caso de situación de riesgo o peligro inminente, se solicitará al Ministerio Público, dicte las medidas de protección que permitan atender de manera urgente la situación que enfrenten las niñas, niños o adolescentes.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 42.
 
-Las Secretarías de Educación, Cultura y Bienestar Social, de Desarrollo Social, de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de México, impulsarán con la participación de las demás dependencias del Gobierno, Organismos Públicos e Instituciones Sociales y Privadas, los programas dirigidos a las niñas, niños y adolescentes para la prevención de discapacidades, su rehabilitación, su integración familiar, educativa y social, así como la creación de talleres para su capacitación en el trabajo, recreación y participación en el deporte, encaminados a su rehabilitación integral.
+Las Secretarías de Educación, de Desarrollo Social y de Salud; así como el Sistema para el Desarrollo Integral de la Familia del Estado de México, impulsarán con la participación de las demás dependencias del Gobierno, Organismos Públicos e Instituciones Sociales y Privadas, los programas dirigidos a las niñas, niños y adolescentes para la prevención de discapacidades, su rehabilitación, su integración familiar, educativa y social, así como la creación de talleres para su capacitación en el trabajo, recreación y participación en el deporte, encaminados a su rehabilitación integral.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -789,7 +799,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 6 DE MARZO DE 2010.
 
@@ -872,3 +882,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
