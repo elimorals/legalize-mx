@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-01-24"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -453,15 +453,17 @@ La reparación del daño proveniente del delito que deba cubrir el sentenciado t
 
 Quien se considere con derecho a la reparación del daño y no pueda obtenerla ante el órgano jurisdiccional penal en virtud de sobreseimiento o sentencia absolutoria, o del no ejercicio de la acción penal por el Ministerio Público, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 30.
 
-En caso de lesiones y homicidio y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base el doble de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo y el salario mínimo más alto del Estado. Esta disposición también se aplicará cuando el ofendido fuere menor de edad o discapacitado. En los casos de feminicidio, así como de los delitos antes mencionados, si se cometen en vehículos de transporte público de pasajeros, vehículos oficiales, de personal, escolar en servicio, u otro que sin contar con la autorización oficial preste un servicio equivalente, el monto de la reparación del daño será el triple de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo.
+En caso de lesiones, violación y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base el doble de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo y el salario mínimo general más alto del Estado.
 
-Tratándose del delito de violación, el monto del pago para la reparación del daño será el equivalente al del homicidio, en términos del párrafo anterior.
+Tratándose de homicidio, la indemnización será el equivalente a dos mil ciento noventa días de salario mínimo general vigente, más alto en el Estado.
+
+En los casos de feminicidio, así como de los delitos antes mencionados, si se cometen en vehículos de transporte público de pasajeros, vehículos oficiales, de personal, escolar en servicio u otro que sin contar con la autorización oficial preste un servicio equivalente, el monto de la reparación del daño será el triple de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo.
+
+Tratándose de lesiones y homicidio cometidos por la conducción de vehículos de transporte público de pasajeros, vehículos oficiales, de personal, escolar en servicio u otro que sin contar con la autorización oficial preste un servicio equivalente, y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base la tabulación de indemnizaciones que fija la Ley Federal del Trabajo y el salario mínimo general más alto del Estado.
 
 ###### Artículo 31.
 
@@ -2075,7 +2077,19 @@ III. Aceche, vigile, espíe o proporcione información, sobre las actividades qu
 
 IV. Para fines de asechanza, vigilancia o espionaje porte tres o más teléfonos celulares, sistemas de comunicación electrónica o de radio comunicación, o bien, no justifique su propiedad o legítima posesión.
 
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+
+V. Permita, tolere o facilite la introducción de teléfonos celulares, sistemas de comunicación electrónica o radiocomunicación, dinero, drogas o enervantes, armas, o cualquier objeto o substancia prohibida al interior de los Centros Preventivos y de Readaptación Social del Estado de México, con excepción de los casos previstos en las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+
+VI. Trafique o introduzca teléfonos celulares, sistemas de comunicación electrónica o de radiocomunicación, dinero, drogas o enervantes, armas, o cualquier otro objeto o substancia prohibida al interior de los Centros Preventivos y de Readaptación Social del Estado de México, con excepción de los casos previstos en las disposiciones jurídicas aplicables.
+
 Las conductas establecidas en este artículo se sancionarán con pena de 6 a 10 años de prisión y de cien a doscientos días multa (sic), sin perjuicio de las penas que les correspondan por los delitos que cometan.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+No se actualizará el delito en el caso de los visitantes que ingresen y salgan de los Centros Preventivos y de Readaptación Social portando dinero de su propiedad, hasta por un monto de 17 días de salario mínimo, el cual deberá ser declarado al ingreso.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
 
@@ -3409,6 +3423,14 @@ d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), 
 
 Al que abandone a una persona incapaz de valerse por si misma teniendo la obligación de cuidarla, se le impondrán de seis meses a dos años de prisión y treinta a trescientos días multa, o trabajo a favor de la comunidad, perdiendo además los derechos inherentes a la patria potestad, custodia o tutela, si fuere ascendiente o tutor del ofendido, así como del derecho a heredar si estuviere en aptitud legal para ello.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+No incurre en este delito la mujer que haya solicitado mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento, conforme a lo establecido en la ley que regula la materia.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+No incurre en este delito la mujer que dé en adopción, en los términos de las leyes y tratados en la materia, y haya solicitado mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento.
+
 ### CAPITULO X. REQUERIMIENTO ILICITO DE PAGO
 
 > <small>(ADICIONADO, G.G. 15 DE MARZO DE 2011)</small>
@@ -3673,15 +3695,21 @@ Si el sujeto activo fuera servidor público y utilizare los medios o circunstanc
 
 Artículo 269 BIS.- Comete el delito de acoso sexual, quien con fines de lujuria asedie reiteradamente a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima.
 
-> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-También incurre en acoso, quien, con fines eróticos o sexuales, produzca, fije, grabe, o videograbe imágenes, voz o sonidos de un menor de edad, o bien, de cualquier persona, sin su consentimiento, en instalaciones o vehículos destinados al transporte público de pasajeros.
+De igual forma incurre en acoso sexual quien, sin consentimiento del sujeto pasivo y con propósitos de lujuria o erótico sexual, grabe, reproduzca, fije, publique, ofrezca, almacene, exponga, envíe, transmita, importe o exporte de cualquier forma, imágenes, texto, sonidos o la voz, de una persona, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio.
 
-En ambos casos se impondrán de seis meses a dos años de prisión o de treinta a ciento veinte días multa.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2008)</small>
+Si la imagen obtenida, sin consentimiento, muestra al sujeto pasivo desnudo o semidesnudo, se acredita por ese sólo hecho, los propósitos señalados en el párrafo anterior.
 
-Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido de su cargo.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Comete también el delito de acoso sexual quien con fines de lujuria asedie reiteradamente a cualquier persona, sin su consentimiento, en instalaciones o vehículos destinados al transporte público de pasajeros.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+En estos casos se impondrán penas de un año a cuatro años de prisión y de cien a trescientos días de multa. Si el pasivo del delito fuera menor de edad o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena se incrementará en un tercio.
 
 ### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
@@ -5259,10 +5287,50 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
+G.G. 14 DE MAYO DE 2014.
+
+DECRETO NÚMERO 219, POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 254 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- El Ejecutivo del Estado proveerá en la esfera administrativa la exacta observancia del presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 14 DE MAYO DE 2014.
+
+DECRETO NÚMERO 220, POR EL QUE SE REFORMA EL ARTÍCULO 30 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
 ###### ARTÍCULO PRIMERO.
 
-Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 ###### ARTÍCULO SEGUNDO.
 
-Este decreto entrará en vigor el día de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 14 DE MAYO DE 2014.
+
+DECRETO NÚMERO 221, POR EL QUE SE ADICIONAN LAS FRACCIONES V Y VI Y UN ÚLTIMO PÁRRAFO, AL ARTÍCULO 166 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE MAYO DE 2014.
+
+DECRETO NÚMERO 222, POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 269 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
