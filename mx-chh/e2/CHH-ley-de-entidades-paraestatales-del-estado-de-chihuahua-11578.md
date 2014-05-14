@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2013-09-21"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -96,6 +96,10 @@ Artículo 5 bis.- La Junta Central de Agua y Saneamiento del Estado y sus organi
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2013)</small>
 
 El Colegio de Bachilleres del Estado de Chihuahua se regirá por su ley específica en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+El Instituto de Apoyo al Desarrollo Tecnológico del Estado de Chihuahua se regirá por su ley específica en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
 
 ###### Artículo 6º.
 
@@ -914,5 +918,31 @@ Se reconoce la continuidad, así como todas las gestiones realizadas por el Patr
 El personal, empleados o servidores públicos, sea cual fuere su categoría en las distintas unidades administrativas, áreas o instancias del Colegio de Bachilleres del Estado de Chihuahua, continuarán gozando de condiciones laborales, salariales y prestacionales iguales a las que guardaban antes de la entrada en vigor de la nueva Ley.
 
 ###### ARTÍCULO SÉPTIMO.
+
+Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
+
+P.O. 14 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se reconocen todas las funciones, facultades, derechos y obligaciones establecidos en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados por el Instituto de Apoyo al Desarrollo Tecnológico con dependencias o entidades del Gobierno del Estado, con dependencias o entidades de la Federación o de los municipios, así como con cualquier persona física o moral, subsisten en todos sus términos en cuanto no se opongan a las disposiciones de la Ley del INADET.
+
+###### ARTÍCULO TERCERO.
+
+El Director General que actualmente se encuentra en funciones, cumplirá con el período de gestión por el que fue nombrado, sin perjuicio de la posibilidad de ser removido libremente por parte del Ejecutivo Estatal.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Presidente del Consejo Directivo gestionará, convocará y realizará los actos conducentes, a fin de ajustar la integración del Consejo Directivo a la nueva composición prevista en el artículo 4 de la Ley.
+
+###### ARTÍCULO QUINTO.
+
+El personal, empleados o servidores públicos, sea cual fuere su categoría en las distintas unidades administrativas, áreas o instancias del Instituto de Apoyo al Desarrollo Tecnológico, continuarán gozando de condiciones laborales, salariales y prestaciones iguales a las que guardaban antes de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
 
 Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
