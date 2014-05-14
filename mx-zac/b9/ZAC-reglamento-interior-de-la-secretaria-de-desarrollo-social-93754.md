@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-desarrollo-social-93754
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2014-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2014.
 
 Reglamento publicado en el Suplemento 4 del Periódico Oficial del Estado de Zacatecas, el miércoles 27 de marzo de 2013.
 
@@ -191,9 +191,13 @@ XXVII. Imponer a los Servidores Públicos, las sanciones procedentes cuando incu
 
 XXVIII. Resolver las dudas que se susciten con motivo de interpretación o aplicación del presente Reglamento, así como los casos no previstos en el mismo;
 
-XXIX. Realizar las comisiones que el Titular del Ejecutivo le confiera así como informarle sobre el desarrollo de las mismas; y
+XXIX. Realizar las comisiones que el Titular del Ejecutivo le confiera así como informarle sobre el desarrollo de las mismas; y (sic)
 
-XXX. Las demás funciones que con carácter no delegable le confieran otras disposiciones o le encomiende el Titular del Ejecutivo.
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XXX. Expedir Certificaciones de las constancias que obran en la Secretaría;
+
+XXXI. Las demás funciones que con carácter no delegable le confieran otras disposiciones o le encomiende el Titular del Ejecutivo.
 
 ###### Artículo 7.
 
@@ -229,9 +233,13 @@ VII. Diseñar y operar el procedimiento para el acuerdo del Secretario con los r
 
 VIII. Dar seguimiento a los acuerdos, resoluciones y demás determinaciones del Secretario para que se cumplan en sus términos;
 
-IX. Dar cuenta de inmediato al Secretario de los casos que demandan soluciones urgentes; y
+IX. Dar cuenta de inmediato al Secretario de los casos que demandan soluciones urgentes; y (sic)
 
-X. Participar en las distintas comisiones y comités a que el Secretario le designe.
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2014)</small>
+
+X. Certificar las constancias y documentos que obran en la Secretaría.
+
+XI. Participar en las distintas comisiones y comités a que el Secretario le designe.
 
 ###### Artículo 9.
 
@@ -1234,3 +1242,9 @@ FRANCISCO ESCOBEDO VILLEGAS
 EL SECRETARIO DE DESARROLLO SOCIAL
 
 JOSÉ MA. GONZÁLEZ NAVA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto Gubernativo que reforma y adiciona el Reglamento Interior de la Secretaría de Desarrollo Social, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
