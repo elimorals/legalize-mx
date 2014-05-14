@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-04-21"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1303,6 +1303,10 @@ e). Elaborar los programas de trabajo para las delegaciones y subdelegaciones, c
 
 f). vigilar el estado de los canales, vasos colectores, barrancas, canales alcantarillados y demás desagües e informar al ayuntamiento para la realización de acciones correctivas.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+g). Emitir opinión motivada no vinculante, respecto a la autorización de la instalación de nuevos establecimientos comerciales, licencias de construcción y cambios de uso de suelo en sus comunidades.
+
 II. Corresponde a los jefes de sector o de sección y de manzana:
 
 > <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
@@ -1514,6 +1518,10 @@ III. Proponer al ayuntamiento las acciones tendientes a integrar o modificar los
 IV. Participar en la supervisión de la prestación de los servicios públicos;
 
 V. Informar al menos una vez cada tres meses a sus representados y al ayuntamiento sobre sus proyectos, las actividades realizadas y, en su caso, el estado de cuenta de las aportaciones económicas que estén a su cargo.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+
+VI. Emitir opinión motivada no vinculante, respecto a la autorización de nuevos proyectos inmobiliarios, comerciales, habitacionales o industriales y respecto de la autorización de giros mercantiles.
 
 ###### Artículo 75.
 
@@ -3966,3 +3974,9 @@ G.G. 21 DE ABRIL DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
