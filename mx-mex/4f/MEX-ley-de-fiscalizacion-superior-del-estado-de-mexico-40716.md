@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2014-04-21"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -67,7 +67,9 @@ IX. Gestión Financiera: A la actividad de las Entidades Fiscalizables respecto 
 
 X. Informe Trimestral: Al documento que como parte integrante de la cuenta pública, rinde el Ejecutivo del Estado de manera consolidada y trimestralmente en abril, julio, octubre y enero del año siguiente;
 
-XI. Informe Mensual: Al documento que mensualmente envían para su análisis al Organo Superior de Fiscalización de la Legislatura, las Tesorerías Municipales y la Secretaría de Finanzas, Planeación y Administración;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+XI. Informe Mensual: Al documento que mensualmente envían para su análisis al Órgano Superior de Fiscalización de la Legislatura, las Tesorerías Municipales y la Secretaría de Finanzas;
 
 XII. Informe de Resultados: Al documento que contiene el resultado de la fiscalización de las cuentas públicas, que el Organo Superior, por conducto de la Comisión, presenta a la Legislatura;
 
@@ -197,7 +199,9 @@ XXVI. Asesorar y proporcionar asistencia técnica de manera permanente a las ent
 
 XXVII. Establecer coordinación, en términos de esta Ley, con:
 
-a. Las Secretarías de Finanzas, Planeación y Administración y de la Contraloría, con las contralorías de los municipios y sus organismos auxiliares, órganos internos de control de los Poderes Legislativo y Judicial y de los organismos autónomos, a fin de determinar los procedimientos necesarios que permitan el eficaz cumplimiento de sus respectivas atribuciones;
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+a. Las Secretarías de Finanzas y de la Contraloría, con las contralorías de los municipios y sus organismos auxiliares, órganos internos de control de los Poderes Legislativo y Judicial y de los organismos autónomos, a fin de determinar los procedimientos necesarios que permitan el eficaz cumplimiento de sus respectivas atribuciones.
 
 b. Los órganos de fiscalización dependientes de las legislaturas de las entidades federativas y del Congreso de la Unión, para lograr el mejor cumplimiento de sus respectivas atribuciones, gozando de facultades para celebrar convenios de cooperación técnica o administrativa y en los aspectos relacionados con la capacitación de su personal; y
 
@@ -593,9 +597,11 @@ El Gobernador del Estado, por conducto del titular de la dependencia competente,
 
 Los Presidentes Municipales presentarán a la Legislatura las cuentas públicas anuales de sus respectivos municipios, del ejercicio fiscal inmediato anterior, dentro de los quince primeros días del mes de marzo de cada año; asimismo, los informes mensuales los deberán presentar dentro de los veinte días posteriores al término del mes correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 33.
 
-La Secretaría de Finanzas, Planeación y Administración y las Tesorerías Municipales, en el ámbito de sus respectivas atribuciones, expedirán las bases y normas de carácter administrativo para la baja de documentos justificativos y comprobatorios para efecto de guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
+La Secretaría de Finanzas y las tesorerías municipales, en el ámbito de sus respectivas atribuciones, expedirán las bases y normas de carácter administrativo para la baja de documentos justificativos y comprobatorios para efecto de guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
 
 Los microfilms y los archivos guardados mediante procesamiento electrónico a que se refiere el párrafo anterior, tendrán el valor que, en su caso, establezcan las disposiciones legales aplicables a las operaciones en que aquellos se apliquen.
 
@@ -1134,3 +1140,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
