@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2014-01-24"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -245,7 +245,9 @@ El gobierno y la administración del Instituto estarán a cargo del Consejo Dire
 
 El Consejo Directivo estará integrado por:
 
-I. Un presidente quien será el Secretario de Administración;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+I. Un presidente quien será el Secretario de Finanzas;
 
 II. Doce vocales que serán:
 
@@ -523,7 +525,9 @@ Las cuotas y aportaciones obligatoria tienen el carácter fiscal.
 
 El Instituto tiene atribuciones para determinar los créditos fiscales y las bases de su liquidación, así como para fijarlos en cantidad líquida, notificarlos y percibirlos de conformidad con la presente ley.
 
-El cobro de créditos fiscales a favor del Instituto, se aplicará a través de la Secretaría de Finanzas y Planeación, en términos de lo que señala el Código de Procedimientos Administrativos del Estado de México y Municipios.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+El cobro de créditos fiscales a favor del Instituto, se aplicará a través de la Secretaría de Finanzas, en términos de lo que señala el Código de Procedimientos Administrativos del Estado de México y Municipios.
 
 Los créditos fiscales a cargo de las instituciones públicas se actualizarán con los recargos y sanciones que establece el Código Financiero del Estado de México y Municipios.
 
@@ -1674,3 +1678,11 @@ G.G. 24 DE ENERO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
