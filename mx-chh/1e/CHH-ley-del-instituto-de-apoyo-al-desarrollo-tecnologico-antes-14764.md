@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-apoyo-al-desarrollo-tecnologico-antes-1476
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-30"
-last_updated: "2003-10-22"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLOGICO -ANTES LEY DEL INSTITUTO DE ENTRENAMIENTO EN ALTA TECNOLOGIA-
 
-LEY DEL INSTITUTO DE ENTRENAMIENTO EN ALTA TECNOLOGIA
+LEY DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLÓGICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS NO. 789/03 IX P.E. PUBLICADAS EN EL P.O. DE 22 DE OCTUBRE DE 2003, SE ESTABLECE QUE "... LAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLOGICO QUE ALUDEN AL INALTEC, EN LO SUCESIVO SE ENTENDERA QUE SE REFIEREN AL INSTITUTO DE APOYO AL DESARROLLO TECNOLOGICO, INADET O EL INADET, COMO EFECTO A LA REFORMA A QUE SE REFIERE EL PRESENTE DECRETO".</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 30 de junio de 1999.
 
@@ -45,9 +45,13 @@ DECRETA
 
 Se expide la Ley del "Instituto de Entrenamiento en Alta Tecnología" para quedar en los siguientes términos:
 
-LEY DEL INSTITUTO DE ENTRENAMIENTO EN ALTA TECNOLOGIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2014)</small>
 
-### CAPITULO PRIMERO. DEL OBJETO
+LEY DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLÓGICO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2014)</small>
+
+### CAPITULO PRIMERO. NATURALEZA, OBJETO Y ATRIBUCIONES
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
@@ -55,7 +59,9 @@ LEY DEL INSTITUTO DE ENTRENAMIENTO EN ALTA TECNOLOGIA
 
 Se crea un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios que se denominará INSTITUTO DE APOYO AL DESARROLLO TECNOLOGICO y tendrá su domicilio en la Ciudad de Chihuahua, Chih.
 
-Para los efectos de esta Ley, se entenderá Instituto de Apoyo al Desarrollo Tecnológico cuando se refiere a INADET o el INADET, indistintamente.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+
+Para los efectos de esta Ley, se entenderá Instituto de Apoyo al Desarrollo Tecnológico cuando se refiere a INADET o el INADET indistintamente, sectorizado a la Secretaría de Economía.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
@@ -63,61 +69,113 @@ Para los efectos de esta Ley, se entenderá Instituto de Apoyo al Desarrollo Tec
 
 El INADET tiene por objeto:
 
-a) Impartir e impulsar el aprendizaje y la formación para el trabajo en la Entidad, propiciando la mejor calidad y vinculación de dicha formación con el aparato productivo y las necesidades de desarrollo regional, estatal y nacional, proporcionando capacitación avanzada y entrenamiento en alta tecnología en el Estado de Chihuahua a técnicos y obreros para que puedan ingresar al mercado de trabajo como mano de obra altamente calificada, particularmente en todo lo relacionado a máquinas y herramientas y especialmente en la manufactura o elaboración de partes complejas y de precisión, construcción de equipo de alta tecnología, manufactura y reparación de moldes, manufactura de dados de precisión y en el diseño de maquinaria.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+
+a) Impartir e impulsar el aprendizaje y la formación para el trabajo en la Entidad, propiciando la mejor calidad y vinculación de dicha formación con el aparato productivo y las necesidades de desarrollo regional, estatal y nacional, proporcionando capacitación avanzada, entrenamiento y certificación en alta tecnología en el Estado de Chihuahua a profesionistas, técnicos y obreros para que puedan ingresar al mercado de trabajo como mano de obra altamente calificada, particularmente en todo lo relacionado a máquinas y herramientas y especialmente en la manufactura o elaboración de partes complejas y de precisión, construcción de equipo de alta tecnología, manufactura y reparación de moldes, manufactura de dados de precisión y en el diseño de maquinaria, teniendo la facultad el INADET de expedir diplomas, reconocimientos especiales, y otros documentos que así se requieren, conforme a las disposiciones aplicables.
 
 b) Mediante las funciones de capacitación y entrenamiento antes señaladas, proporcionar apoyo técnico a la industria existente y posibilitar una infraestructura industrial que facilite el establecimiento en el Estado de empresas de alta tecnología.
 
 c) El establecimiento de Centros de Entrenamiento en alta Tecnología para su operación en las localidades del Estado de Chihuahua, siempre y cuando la creación de dichas unidades quede debidamente justificada mediante los estudios de factibilidad correspondientes y conforme lo establecido por esta Ley o por los reglamentos y estatutos que en su oportunidad se dicten.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
-d) Impulsar mediante esquemas de apoyo financiero, el desarrollo de la investigación aplicada, así como de la modernización tecnológica de la micro y pequeña industria en el Estado.
+d) Impulsar mediante esquemas de apoyo técnico, financiero y material, el desarrollo de la investigación aplicada, así como de la competitividad y modernización tecnológica de la micro y pequeña industria en el Estado.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
-e) Promover la vinculación e impulsar el establecimiento de centros de infraestructura tecnológica en áreas estratégicas de desarrollo.
+e) Promover la vinculación e impulsar el establecimiento de centros de infraestructura tecnológica y de investigación en áreas estratégicas de desarrollo.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
-f) Supervisar y coadyuvar con otros organismos públicos estatales de su misma naturaleza con funciones análogas en su operación y funcionamiento y que se encuentren sectorizados en la Secretaría de Desarrollo Industrial.
+f) Supervisar y coadyuvar con otros organismos públicos estatales de su misma naturaleza con funciones análogas en su operación y funcionamiento.
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 g) Fomentar las actividades científicas y tecnológicas del Estado de Chihuahua.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+h) Impulsar a las Pymes del Estado de Chihuahua, en el desarrollo de prototipos, reingeniería, métodos, procesos y tecnologías que contribuyan a su productividad y competitividad.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+i) Desarrollo de pruebas e investigación, para el sector productivo con apoyo de Instituciones Educativas públicas y privadas, o Centros de Investigación, logrando así, el desarrollo de innovaciones o la mejora en procesos, equipos, materiales y herramientas.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+j) El establecimiento dentro de sus Centros de Capacitación, de laboratorios para pruebas destructivas y no destructivas que requieran las empresas de tecnologías avanzadas establecidas en el Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+k) Colaborar con los sectores público y privado en la consolidación del desarrollo tecnológico.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+l) Formular los planes y programas de capacitación o entrenamiento que imparta, autorizados por la Secretaría de Educación Pública Federal, así como las modalidades de capacitación o educativas que garanticen la estructuración de aprendizajes que sean acordes con los requerimientos de la industria y servicios.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+m) Acreditar y certificar el saber demostrado de los cursos realizados, conforme a la normatividad vigente emitida por la Secretaría de Educación Pública, a través de la Dirección General de Centros de Capacitación.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+n) Presentar servicios de asesoría y capacitación técnica a los sectores públicos, social y privado que lo soliciten, previo convenio donde se establezcan las condiciones de estos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+o) Celebrar convenios, contratos y acuerdos con los sectores productivos de bienes y servicios público (sic), social, privado e industrial, así como otras instituciones nacionales e internacionales de capacitación formal para el trabajo, conforme a lo dispuesto por la normatividad vigente aplicable.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+p) Promover esquemas de vinculación efectiva que permita la integración de la oferta y demanda de egresados de los niveles de educación media superior y superior de escuelas de corte tecnológico-industrial.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+q) Establecer programas para vincular a los egresados de las instituciones educativas de los niveles medio superior, superior y el sector industrial, con el fin de facilitar el ingreso temporal de alumnos destacados a empresas internacionales, para que realicen las prácticas profesionales en sus centros de investigación y desarrollo, ubicados en el extranjero.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 3°.
 
-Se crea como unidad del INALTEC, para su establecimiento y operación en Ciudad Juárez, Chih., un Centro de Entrenamiento en Alta Tecnología que cumplirá en dicha localidad la función de capacitación y entrenamiento que constituye el objeto de EL INALTEC, con el personal, equipo e infraestructura que se deriven de esta Ley y de su estatuto.
+Son unidades de capacitación del INADET, para su establecimiento y operación en Ciudad Juárez y Chihuahua, los Centros de Entrenamiento en Alta Tecnología, mismos que habrán de cumplir en dichas localidades la función de capacitación y entrenamiento que constituye el objeto del INADET, con el personal, equipo e infraestructura que se deriven de esta Ley y de su Estatuto.
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION Y FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 4°.
 
-La administración del INALTEC estará a cargo de un Consejo Directivo que será el órgano máximo de gobierno y de un Coordinador General.
+La administración del INADET estará a cargo de un Consejo Directivo que será el órgano máximo de Gobierno y de un Director General.
 
 El Consejo Directivo se integrará de la manera siguiente:
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-I. Por los CC. Secretarios de Desarrollo Industrial y de Educación y Cultura del Estado de Chihuahua, quienes fungirán como Presidente y Secretario, respectivamente;
+I. Por los CC. Secretarios de Economía y de Educación, Cultura y Deporte del Estado de Chihuahua.
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-II. Por el C. Secretario de Finanzas y Administración del Estado;
+II. Por el C. Secretario de Hacienda.
 
-III. Por el C. Subsecretario de Educación e Investigación Tecnológicas de la Secretaría de Educación Pública;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-IV. Un representante de la Secretaría de Educación Pública designado por el C. Secretario de Educación Pública;
+III. Por el C. Subsecretario de Educación Media Superior de la Secretaría de Educación Pública.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+IV. Dos representantes de la Secretaría de Educación Pública designados por el C. Secretario de Educación Pública.
 
 V. Un representante del sector social que será nombrado por el Consejo Directivo a propuesta del Titular del Poder Ejecutivo del Estado;
 
-VI. Tres representantes del sector productivo que participen en el financiamiento de EL INALTEC", mediante un patronato constituido para apoyar la dirección del mismo. Estos representantes serán designados por el propio Patronato de conformidad con sus estatutos, asistiendo con voz y voto.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 2002)</small>
+VI. Dos representantes del sector productivo que participen en el financiamiento del INADET, mediante un patronato constituido para apoyar la dirección del mismo. Estos representantes serán designados por el propio Patronato de conformidad con sus Estatutos, asistiendo con voz y voto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 5°.
 
-El Consejo Directivo será presidido por el Secretario de Desarrollo Industrial o por la persona que éste designe y deberá sesionar en forma ordinaria cuando menos seis veces por año.
+El Consejo Directivo será presidido por el Secretario de Economía o por la persona que este designe y deberá sesionar en forma ordinaria cuando menos cuatro veces por año, y en forma extraordinaria cuando sea necesario para su debido funcionamiento. El Secretario de Educación, Cultura y Deporte será el Secretario del Consejo.
 
 Para sesionar válidamente deberá estar presente la mitad más uno de sus miembros y la mayoría deberá ser del sector público estatal.
 
@@ -137,59 +195,97 @@ I. Establecer, en congruencia con los programas sectoriales, las políticas gene
 
 II. Establecer los criterios y políticas de operación que las unidades o centros deban observar tomando en cuenta la situación financiera del mismo y los objetivos y metas a alcanzar;
 
-III. Aprobar el estatuto orgánico y, por consecuencia, la estructura básica de la organización de EL INALTEC y las modificaciones que procedan a la misma, así como la estructura de sus unidades que se creen o establezcan en el Estado;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-IV. Autorizar el establecimiento y operación de unidades de EL INALTEC en las diversas localidades del Estado cuando su creación se justifique con los estudios de factibilidad que para tal efecto se lleven a cabo;
+III. Aprobar el Estatuto Orgánico y, por consecuencia, la estructura básica de la organización del INADET y las modificaciones que procedan a la misma, así como la estructura de sus unidades que se creen o establezcan en el Estado.
 
-V. Aprobar, supervisar y evaluar los planes y programas de capacitación avanzada y entrenamiento en alta tecnología que se impartirán en las unidades o centros que se establezcan y operen en las diversas localidades del Estado, así como sus modificaciones y los presupuestos de EL INALTEC en los términos de la Ley de Presupuesto y Egresos, Contabilidad y Gasto Público del Estado de Chihuahua y demás legislación aplicable;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 2003)</small>
+IV. Autorizar el establecimiento y operación de unidades del INADET en las diversas localidades del Estado cuando su creación se justifique con los estudios de factibilidad que para tal efecto se lleven a cabo.
 
-VI. Fijar y ajustar, en su caso, los precios de los bienes y servicios que produzca o presten las unidades o centros;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 2003)</small>
+V. Aprobar, supervisar y evaluar los planes y programas de capacitación avanzada y entrenamiento en alta tecnología que se impartirán en las unidades o centros que se establezcan y operen en las diversas localidades del Estado, así como sus modificaciones.
 
-VII. Aprobar anualmente, previo informe de los Comisarios, los dictámenes de las auditorías practicadas, los estados financieros de las unidades o centros y autorizar la publicación de los mismos;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 2003)</small>
+VI. Aprobar los anteproyectos de presupuestos del INADET en los términos de la Ley de Planeación del Estado de Chihuahua, de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, y demás normas que resulten aplicables y, en su caso, a las asignaciones de gasto y financiamiento autorizadas.
 
-VIII. Aprobar, de acuerdo con las leyes aplicables y el reglamento de la Ley de Entidades Paraestatales del Estado de Chihuahua, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que debe celebrar EL INADET, con terceros en obras públicas, adquisiciones, arrendamientos y prestaciones de servicios relacionados con bienes muebles, en sus unidades o centros;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-IX. Autorizar el apoyo, fomento y promoción de los planes y programas que sean propuestos por el Coordinador General de EL INALTEC, o por los Directores de las unidades que se establezcan en el Estado, para llevar a cabo la función de capacitación y entrenamiento propios del INALTEC;
+VII. Fijar y ajustar, en su caso, los precios de los bienes y servicios que produzca o presten las unidades o centros.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-X. Nombrar a propuesta del Coordinador General, y remover a los funcionarios de las unidades o centros que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquél; aprobar la fijación de sus sueldos y prestaciones de conformidad con los Presupuestos de las unidades o centros y a los lineamientos y políticas en la materia establecidos por la Secretaría de Finanzas y Administración, así como a lo establecido en esta Ley y en el estatuto del INADET;
+VIII. Conocer y observar, en su caso, los estados financieros del Instituto.
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-XI. Aprobar las estrategias y políticas generales tendientes a la vinculación del INALTEC con el sector industrial, para el cumplimiento de su objeto;
+IX. Aprobar, de acuerdo con las leyes aplicables y el reglamento de la Ley de Entidades Paraestatales del Estado de Chihuahua, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que debe celebrar el INADET, con terceros en obras públicas, adquisiciones, arrendamientos y prestaciones de servicios relacionados con bienes muebles, en sus unidades o centros.
 
-XII. Nombrar, a propuesta del Ejecutivo del Estado, al representante del sector social a que se refiere la fracción V del artículo 4 de esta Ley;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-XIII. Nombrar a los Directores de las unidades a partir de la terna propuesta por el Coordinador General, así como removerlos también a propuesta del Coordinador;
+X. Autorizar el apoyo, fomento y promoción de los planes y programas que sean propuestos por el Director General del INADET, o por los Directores de las unidades que se establezcan en el Estado, para llevar a cabo la función de capacitación y entrenamiento propios del INADET.
 
-XIV. Proponer, en caso de excedentes económicos, la constitución de reservas y su aplicación para su determinación por el Ejecutivo Estatal a través de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-XV. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que requiera para la prestación de sus servicios;
+XI. Nombrar a propuesta del Director General, y remover a los funcionarios de las unidades o centros que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquel; aprobar la fijación de sus sueldos y prestaciones de conformidad con los presupuestos de las unidades o centros y lineamientos y políticas en la materia establecidos por la Secretaría de Hacienda, así como a lo establecido en esta Ley y en el estatuto del INADET.
 
-XVI. Analizar y aprobar, en su caso, los informes periódicos que rinda el Coordinador General, con la intervención que corresponda a los Comisarios;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros a favor del INALTEC cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Finanzas y Administración a la Contraloría del Estado, por conducto del Presidente del Consejo;
+XII. Aprobar las estrategias y políticas generales tendientes a la vinculación del INADET con el sector industrial, para el cumplimiento de su objeto.
 
-XVIII. Proporcionar al Comisario la información que le solicite relacionada con las funciones que desarrolla el Consejo Directivo;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-XIX. Expedir reglamentos, circulares e instructivos para el eficaz funcionamiento de EL INALTEC, de acuerdo con los lineamientos de esta Ley;
+XIII. Nombrar, a propuesta del Ejecutivo del Estado, al representante del sector social a que se refiere la fracción V del artículo 4 de esta Ley.
 
-XX. Autorizar la creación de comités y subcomités de apoyo;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-XXI. Revisar los estados financieros de EL INALTEC;
+XIV. Nombrar a los Directores de las unidades a partir de la terna propuesta por el Director General, así como removerlos también a propuesta del Director.
 
-XXII. Acordar lo conducente para el correcto cumplimiento de las disposiciones de esta Ley;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-XXIII. Vigilar la administración del patrimonio y el funcionamiento del INALTEC; y
+XV. Proponer, en caso de excedentes económicos, la constitución de reservas y su aplicación para su determinación por el Ejecutivo Estatal, a través de la Secretaría de Hacienda.
 
-XXIV. Las demás consignadas en esta Ley y su estatuto.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XVI. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que requiera para la prestación de sus servicios.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XVII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General, con la intervención que corresponda a los Comisarios.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XVIII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros a favor del INADET cuando fuere notoria la imposibilidad práctica de su cobro, informando a las Secretarías de Hacienda y de la Contraloría del Estado, por conducto del Presidente del Consejo.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XIX. Proporcionar al Comisario la información que le solicite, relacionada con las funciones que desarrolla el Consejo Directivo.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XX. Expedir reglamentos, circulares e instructivos para el eficaz funcionamiento del INADET, de acuerdo con los lineamientos de esta Ley.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XXI. Autorizar la creación de comités y subcomités de apoyo.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XXII. Revisar los estados financieros del INADET.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XXIII. Acordar lo conducente para el correcto cumplimiento de las disposiciones de esta Ley.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XXIV. Vigilar la administración del patrimonio y el funcionamiento del INADET.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XXV. Las demás consignadas en esta Ley y su Estatuto.
 
 ###### Artículo 8°.
 
@@ -215,17 +311,21 @@ IV. Realizar y autorizar lo necesario para el mejor funcionamiento del INADET.
 
 V. Representar al Gobierno del Estado de Chihuahua ante los Organos de Gobierno y Asambleas de Asociados de los centros de investigación donde se tenga participación, cuando el titular del Poder Ejecutivo del Estado no pueda hacerlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 10°.
 
-El Coordinador General del INADET, será nombrado y removido libremente por el Gobernador del Estado. El Coordinador será el ejecutor de los acuerdos del Consejo Directivo y tendrá además las obligaciones y facultades siguientes:
+El Director General del INADET, será nombrado y removido libremente por el Gobernador del Estado. El Director será el ejecutor de los acuerdos del Consejo Directivo y tendrá además las obligaciones y facultades siguientes:
 
-I. Administrar y representar legalmente al INALTEC,
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+I. Administrar y representar legalmente al INADET;
 
 II. Formular los programas institucionales de corto, mediano y largo plazo, dentro de las directrices previstas por la Ley de entidades Paraestatales del Estado de Chihuahua y conforme a los criterios que establece su reglamento para definir la duración de dichos plazos y presentarlos para su aprobación al Consejo Directivo;
 
-III. Formular los presupuestos del INALTEC y presentarlos para su aprobación al Consejo Directivo en los términos de la Ley de Planeación y la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+III. Formular los anteproyectos de presupuestos del INADET y presentarlos para su aprobación al Consejo Directivo en los términos de la Ley de Planeación y la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua;
 
 IV. Formular los programas de organización;
 
@@ -233,19 +333,27 @@ V. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes
 
 VI. Tomar las medidas pertinentes a fin de que las funciones de la entidad se realicen de manera articulada, congruente y eficaz;
 
-VII. Establecer los procedimientos para controlar la calidad de los servicios del INALTEC.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+VII. Establecer los procedimientos para controlar la calidad de los servicios del INADET.
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 VIII. Proponer al Consejo Directivo el nombramiento de los servidores públicos de las unidades o centros de los dos primeros niveles jerárquicamente inferiores al suyo, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto del gasto corriente aprobado por el propio Consejo, de conformidad a lo establecido en el Artículo 7 fracción X de esta Ley; pero podrá nombrar y remover libremente a los demás funcionarios y empleados de confianza, y sólo por causa justificada podrá remover a los trabajadores de base;
 
-IX. Proponer al Consejo Directivo el nombramiento y remoción de los Directores de las unidades de EL INALTEC;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-X. Recabar información y elementos estadísticos que reflejen el estado de las funciones del INALTEC para así poder mejorar la gestión de la misma;
+IX. Proponer al Consejo Directivo el nombramiento y remoción de los Directores de las unidades del INADET.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+X. Recabar información y elementos estadísticos que reflejen el estado de las funciones del INADET para así poder mejorar la gestión de la misma;
 
 XI. Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos;
 
-XII. Presentar semestralmente al Consejo Directivo el informe del desempeño de las actividades del INALTEC, incluido el ejercicio de los presupuestos de ingresos y de egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Coordinación con las realizaciones alcanzadas;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XII. Presentar semestralmente al Consejo Directivo el informe del desempeño de las actividades del INADET, incluido el ejercicio de los presupuestos de ingresos y de egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección General con las realizaciones alcanzadas;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
@@ -253,39 +361,53 @@ XIII. Establecer en las unidades o centros, los mecanismos de evaluación que de
 
 XIV. Celebrar y otorgar toda clase de actos, contratos, convenios y documentos inherentes al objeto del Organismo;
 
-XV. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales del INALTEC con sus trabajadores, incluyendo al personal de las unidades de EL INALTEC que se establezcan en el Estado;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XV. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales del INADET con sus trabajadores, incluyendo al personal de las unidades del INADET que se establezcan en el Estado;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 XVI. Implantar planes y programas para el mejoramiento y actualización profesional de los profesores e instructores que impartan los cursos de entrenamiento y capacitación de las unidades o centros;
 
-XVII. Dirigir, supervisar y evaluar las funciones de las unidades de entrenamiento y capacitación de EL INALTEC, así como conocer los informes y propuestas de sus Directores, promoviendo así mismo el aseguramiento de la calidad de dicho servicio;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XVII. Dirigir, supervisar y evaluar las funciones de las unidades de entrenamiento y capacitación del INADET, así como conocer los informes y propuestas de sus Directores, promoviendo asimismo el aseguramiento de la calidad de dicho servicio;
 
 XVIII. Asistir a las sesiones del Consejo con derecho a voz pero sin voto;
 
 XIX. Someter a la decisión del Consejo Directivo los asuntos que sean de su competencia;
 
-XX. Realizar, con sujeción a las directrices fijadas por el Consejo Directivo, los convenios, contratos, pedidos o acuerdos que debe celebrar el INALTEC con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-XXI. Representar al INALTEC con todas las facultades generales de un apoderado general para pleitos y cobranzas, actos de administración y de dominio, incluyendo aquellas facultades especiales que requieran de autorización o cláusula especial conforme a esta Ley o al estatuto orgánico u otras disposiciones legales o reglamentarias; en todos los actos jurídicos que tengan el fin de cumplir con su objeto; comparecer en juicios civiles, laborales o administrativos, incluso los de amparo y, en su caso, desistirse legalmente de las acciones intentadas ante las autoridades de los diversos niveles de gobierno en lo que competa a las funciones y objetivos del organismo; formular querellas y otorgar perdón; comprometer asuntos en arbitraje y celebrar transacciones; otorgar poderes, con la salvedad de que cuando se trate de ejercer el poder para actos de dominio o se confieran facultades para ejercitar actos de dominio que se refieran al patrimonio del INALTEC, se requerirá la autorización expresa del Consejo Directivo y comparecerán y firmarán el acto respectivo cuando menos dos apoderados del organismo; y sustituir y revocar poderes generales o especiales.
+XX. Realizar, con sujeción a las directrices fijadas por el Consejo Directivo, los convenios, contratos, pedidos o acuerdos que debe celebrar el INADET con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
-Para el otorgamiento y validez de los poderes conferidos por el Coordinador General bastará con la comunicación oficial que dicho órgano social expida al mandatario, y los poderes generales otorgados en los términos establecidos anteriormente, para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-Para acreditar la personalidad y facultades de los miembros del Consejo, del Coordinador General, y de los apoderados generales del organismo, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados;
+XXI. Representar al INADET con todas las facultades generales de un apoderado general para pleitos y cobranzas, actos de administración y de dominio, incluyendo aquellas facultades especiales que requieran de autorización o cláusula especial conforme a esta Ley o al Estatuto Orgánico u otras disposiciones legales o reglamentarias; en todos los actos jurídicos que tengan el fin de cumplir con su objeto; comparecer en juicios civiles, laborales o administrativos, incluso los de amparo y, en su caso, desistirse legalmente de las acciones intentadas ante las autoridades de los diversos órdenes de gobierno en lo que competa a las funciones y objetivos del Organismo; formular querellas y otorgar perdón; comprometer asuntos en arbitraje y celebrar transacciones; otorgar poderes, con la salvedad de que cuando se trate de ejercer el poder para actos de dominio o se confieran facultades para ejercitar actos de dominio que se refieran al patrimonio del INADET, se requerirá la autorización expresa del Consejo Directivo y comparecerán y firmarán el acto respectivo cuando menos dos apoderados del Organismo; y sustituir y revocar poderes generales especiales.
 
-XXII. Informar al Consejo Directivo, cuando sea requerido por el mismo, de cualquier cuestión relativa al INALTEC;
+Para el otorgamiento y validez de los poderes conferidos por el Director General bastará con la comunicación oficial que dicho órgano social expida al mandatario, y los poderes generales otorgados en los términos establecidos anteriormente, para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados.
+
+Para acreditar la personalidad y facultades de los miembros del Consejo, del Director General, y de los apoderados generales del organismo, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XXII. Informar al Consejo Directivo, cuando sea requerido por el mismo, de cualquier cuestión relativa al INADET;
 
 XXIII. Conceder licencias al personal en los términos que fije el estatuto; vigilar que cumpla con sus obligaciones laborales e imponer las sanciones disciplinarias correspondientes;
 
 XXIV. Proponer al Presidente del Consejo Directivo la celebración de reuniones extraordinarias cuando existan asuntos que por su urgencia o trascendencia así lo ameriten;
 
-XXV. Solicitar la asesoría de organismos públicos o privados cuyas funciones se relacionen con los objetivos del INALTEC cuando lo estime conveniente; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+XXV. Solicitar la asesoría de organismos públicos o privados cuyas funciones se relacionen con los objetivos del INADET cuando lo estime conveniente; y
 
 XXVI. Las demás facultades y obligaciones establecidas en esta Ley y en el estatuto, así como en la Ley de Entidades Paraestatales del Estado de Chihuahua y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 11°.
 
-Para ser Coordinador General del INALTEC se requiere, además de lo dispuesto en el Artículo 20 de la Ley de Entidades Paraestatales:
+Para ser Director General del INADET se requiere, además de lo dispuesto en el Artículo 20 de la Ley de Entidades Paraestatales:
 
 I. Ser mayor de 30 y menor de 65 años;
 
@@ -299,9 +421,11 @@ V. No ser miembro del Consejo Directivo mientras dure su gestión; y
 
 VI. Ser persona cumplida, de amplia solvencia moral y de reconocido prestigio.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 12°.
 
-Los directores de las unidades dependientes del INALTEC serán nombrados por el Consejo Directivo a partir de una terna propuesta por el Coordinador General del mismo.
+Los directores de las unidades dependientes del INADET serán nombrados por el Consejo Directivo a partir de una terna propuesta por el Director General del mismo.
 
 ###### Artículo 13°.
 
@@ -313,37 +437,49 @@ II. Tener experiencia académica y profesional;
 
 III. Ser persona de solvencia moral y de prestigio profesional.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 14°.
 
-Para el mejor despacho de los asuntos de la competencia del Coordinador General, quedan adscritos orgánicamente y estarán bajo su directa dependencia los Departamentos de Asuntos Jurídicos y de Vinculación Tecnológica, que tendrán las funciones que se determinen en el Estatuto Orgánico que aprobará y expedirá el Consejo Directivo en los términos de ley.
+Para el mejor despacho de los asuntos de la competencia del Director General, quedan adscritos orgánicamente y estarán bajo su directa dependencia los Departamentos de Asuntos Jurídicos, de Planeación y de Vinculación Tecnológica, que tendrán las funciones que se determinen en el Estatuto Orgánico que aprobará y expedirá el Consejo Directivo en los términos de Ley.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 15°.
 
-El órgano de vigilancia del INALTEC estará integrado por un Comisario Público propietario y un suplente, designados por la contraloría del Estado, cuyas funciones serán las establecidas en la Ley de Entidades Paraestatales del Estado de Chihuahua y las que se determinen en el estatuto orgánico que expida el Consejo Directivo.
+El órgano de vigilancia del INADET estará integrado por un Comisario Público propietario y un suplente, designados por la Contraloría del Estado, cuyas funciones serán las establecidas en la Ley de Entidades Paraestatales del Estado de Chihuahua y las que se determinen en el Estatuto Orgánico que expida el Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 16°.
 
-El Comisario evaluará el desempeño general del INALTEC y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Contraloría le asigne específicamente conforme a la ley.
+El Comisario evaluará el desempeño general del INADET y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Contraloría le asigne específicamente conforme a la ley.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 17°.
 
-El comisario público desarrollará sus funcionales conforme a los lineamientos que emita la Secretaría de la Contraloría y de acuerdo a las siguientes bases:
+El Comisario Público desarrollará sus funcionales (sic) conforme a los lineamientos que emita la Secretaría de la Contraloría.
 
-I. Dependerá del Coordinador General.
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
 
-II. Realizará sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía.
+Artículo 17° BIS. Los órganos internos de control y evaluación serán parte integrante de la estructura del organismo descentralizado y funcionarán conforme a las siguientes bases:
 
-III. Examinará y evaluará los sistemas, mecanismos y procedimientos de control, efectuará revisiones y auditorías, vigilará que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables, presentará al Coordinador General y al Consejo Directivo los informes resultantes de las auditorias, exámenes y evaluaciones realizados.
+I. Dependerán del Director General.
+
+II. Realizarán sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía.
+
+III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control, efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables, presentarán al Director General y al Consejo Directivo los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
 
 ###### Artículo 18°.
 
 El Comisario asistirá con voz pero sin voto a las sesiones del Consejo Directivo.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 19°.
 
-La organización y funcionamiento del INALTEC se regirán por esta Ley y por los reglamentos que expida el Ejecutivo Estatal, así como por los estatutos que para su eficaz funcionamiento expida el Consejo Directivo conforme a lo dispuesto por esta Ley.
+La organización y funcionamiento del INADET se regirán por esta Ley y por los reglamentos que expida el Ejecutivo Estatal, así como por los Estatutos que para su eficaz funcionamiento expida el Consejo Directivo conforme a lo dispuesto por esta Ley.
 
 ### CAPITULO TERCERO. DEL PATRIMONIO
 
@@ -365,61 +501,83 @@ VI. Con los ingresos que obtenga por la realización de actividades y prestacion
 
 VII. Con los demás bienes o servicios que de cualquier otra fuente provengan.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 21°.
 
-EL INALTEC, en todos los actos que realice en cumplimiento de su objeto, estará exento de toda clase de contribuciones, impuestos y derechos fiscales de carácter estatal.
+El INADET, en todos los actos que realice en cumplimiento de su objeto, estará exento de toda clase de contribuciones, impuestos y derechos fiscales de carácter estatal.
 
 ###### Artículo 22°.
 
 El Ejecutivo deberá acompañar los estados financieros del Instituto a la Cuenta Pública Anual.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+Artículo 22° BIS. El Patronato del Instituto de Apoyo al Desarrollo Tecnológico tendrá como finalidad apoyar a la Institución en la obtención de recursos financieros y patrimoniales adicionales, para la óptima realización de sus funciones. Su organización y funcionamiento estarán regulados por el reglamento que expida la Junta Directiva del Instituto.
+
+El patronato también deberá coadyuvar con las autoridades de las unidades, en el desarrollo de programas de prácticas profesionales y estadías de capacitación, en las empresas con las que se establezcan convenios de colaboración.
+
 ### CAPITULO CUARTO. DEL CONTROL Y EVALUACION
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 23°.
 
-El control y evaluación de labores del INALTEC se ajustará a los siguientes lineamientos.
+El control y evaluación de labores del INADET se ajustará a los siguientes lineamientos:
 
-I. El Consejo Directivo controlará y evaluará la forma en que los objetivos del INALTEC sean alcanzados y deberá atender los informes que en materia de control y auditoría le sean turnados y vigilará la implantación de las medidas correctivas a que hubiere lugar.
+I. El Consejo Directivo controlará y evaluará la forma en que los objetivos del INADET sean alcanzados y deberá atender los informes que en materia de control y auditoría le sean turnados y vigilará la implantación de las medidas correctivas a que hubiere lugar.
 
-II. El Coordinador General definirá las políticas de instrumentación de los sistemas de control y evaluación que fueren necesarios, tomará las acciones correspondientes para corregir las deficiencias que se detecten y presentará al Consejo Directivo informes periódicos sobre el cumplimiento de los objetivos del sistema de control y evaluación, su funcionamiento y programas de mejoramiento.
+II. El Director General definirá las políticas de instrumentación de los sistemas de control y evaluación que fueren necesarios, tomará las acciones correspondientes para corregir las deficiencias que se detecten y presentará al Consejo Directivo informes periódicos sobre el cumplimiento de los objetivos del sistema de control y evaluación, su funcionamiento y programas de mejoramiento.
 
 ### CAPITULO QUINTO. DE LA EXTINCION Y LIQUIDACION DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 24°.
 
-En la extinción del INALTEC se observarán las mismas formalidades establecidas para su creación. Deberá ser comunicada al Congreso del Estado mediante formal iniciativa a fin de que proceda a abrogar la ley de creación. Para ello, el Ejecutivo proporcionará al Congreso toda la información relativa al procedimiento de liquidación y extinción.
+En la extinción del INADET se observarán las mismas formalidades establecidas para su creación. Deberá ser comunicada al Congreso del Estado mediante formal iniciativa a fin de que proceda a abrogar la ley de creación. Para ello, el Ejecutivo proporcionará al Congreso toda la información relativa al procedimiento de liquidación y extinción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 25°.
 
-El INALTEC se extinguirá:
+El INADET se extinguirá:
 
 I. Cuando deje de cumplir sus fines u objeto; o
 
 II. Cuando su funcionamiento no resulte ya conveniente desde el punto de las finanzas públicas del Estado o del interés público.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
-En todo caso, la Secretaría de Finanzas y Administración, atendiendo a la opinión de la Secretaría de Desarrollo Industrial del Estado, propondrá al Ejecutivo la disolución o extinción del INALTEC.
+En todo caso, la Secretaría de Hacienda, atendiendo a la opinión de la Secretaría de Economía del Estado, propondrá al Ejecutivo la disolución o extinción del INADET.
 
 Si la actividad combinada o separada redunda en un incremento de eficiencia y productividad, podrá proponer su fusión o escisión, la cual deberá ser aprobada por el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 26°.
 
-En caso de disolución del INALTEC y de sus unidades de aprendizaje y de formación, cualquiera que sea la causa, los bienes muebles e inmuebles que en ese momento existan en su patrimonio serán transferidos a la Secretaría de Educación Pública o a Gobierno del Estado, según se acuerde entre ambos, para que sigan siendo utilizados con el mismo objeto.
+En caso de disolución del INADET y de sus unidades de aprendizaje y de formación, cualquiera que sea la causa, los bienes muebles e inmuebles que en ese momento existan en su patrimonio serán transferidos a la Secretaría de Educación Pública o a Gobierno del Estado, según se acuerde entre ambos, para que sigan siendo utilizados con el mismo objeto.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 27°.
 
-En la liquidación del INALTEC, se seguirá el procedimiento que para el caso señalen los ordenamientos legales correspondientes.
+En la liquidación del INADET, se seguirá el procedimiento que para el caso señalen los ordenamientos legales correspondientes.
 
 ### CAPITULO SEXTO. DE LOS TRABAJADORES DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 28°.
 
-Las relaciones de trabajo entre el INALTEC y sus trabajadores, se regirán por el Código Administrativo del Estado de Chihuahua y, previo convenio, quedarán incorporados al régimen de seguridad social establecido por la Ley de Pensiones Civiles del Estado.
+Las relaciones de trabajo entre el INADET y sus trabajadores, se regirán por el Código Administrativo del Estado de Chihuahua y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado previo convenio, los trabajadores de base quedarán incorporados al régimen de seguridad social establecido por la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 29°.
 
-Serán considerados trabajadores de confianza el Coordinador General, Jefes de Departamento y de Oficina, Asesores y Consultores Técnicos, Contadores, Auditores, Técnicos y Directores de las unidades que establezca EL INALTEC en el Estado.
+Serán considerados trabajadores de confianza el Director General, Jefes de Departamento y de Oficina, Asesores y Consultores Técnicos, Contadores, Auditores, Técnicos y Directores de las unidades que establezca el INADET en el Estado.
 
 TRANSITORIOS:
 
@@ -464,3 +622,29 @@ P.O. 6 DE ABRIL DE 2002.
 P.O. 22 DE OCTUBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MAYO DE 2014
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se reconocen todas las funciones, facultades, derechos y obligaciones establecidos en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados por el Instituto de Apoyo al Desarrollo Tecnológico con dependencias o entidades del Gobierno del Estado, con dependencias o entidades de la Federación o de los municipios, así como con cualquier persona física o moral, subsisten en todos sus términos en cuanto no se opongan a las disposiciones de la Ley del INADET.
+
+###### ARTÍCULO TERCERO.
+
+El Director General que actualmente se encuentra en funciones, cumplirá con el período de gestión por el que fue nombrado, sin perjuicio de la posibilidad de ser removido libremente por parte del Ejecutivo Estatal.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Presidente del Consejo Directivo gestionará, convocará y realizará los actos conducentes, a fin de ajustar la integración del Consejo Directivo a la nueva composición prevista en el artículo 4 de la Ley.
+
+###### ARTÍCULO QUINTO.
+
+El personal, empleados o servidores públicos, sea cual fuere su categoría en las distintas unidades administrativas, áreas o instancias del Instituto de Apoyo al Desarrollo Tecnológico, continuarán gozando de condiciones laborales, salariales y prestaciones iguales a las que guardaban antes de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
