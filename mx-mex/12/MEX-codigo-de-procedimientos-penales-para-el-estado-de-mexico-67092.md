@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2014-05-09"
+last_updated: "2014-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2014.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 223, PUBLICADO EN LA G.G. DE 14 DE MAYO DE 2014, VÉASE ARTÍCULO SEGUNDO TRANSITORIO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -2033,7 +2035,7 @@ IX. La prohibición de realizar conductas de intimidación o molestia a la víct
 
 X. Las demás que determinen las disposiciones legales.
 
-> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
 
 Imposición de medidas de protección
 
@@ -4347,15 +4349,189 @@ Aplicación de la Ley de Derechos y Cultura Indígena del Estado de México
 
 Tratándose de delitos cometidos por miembros de comunidades o pueblos indígenas, en perjuicio de bienes jurídicos de éstos o de alguno de sus miembros, serán aplicables las disposiciones de este código, observando en lo conducente las disposiciones de la Ley de Derechos y Cultura Indígena del Estado de México.
 
-### CAPÍTULO I. REVOCACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE MAYO DE 2014)</small>
 
-Supuestos
+### CAPÍTULO V. SUSPENSIÓN CONDICIONAL DEL PROCEDIMIENTO A PRUEBA PARA PERSONAS QUE PRESENTAN ABUSO Y DEPENDENCIA DE SUSTANCIAS PSICOACTIVAS
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Objetivo
+
+###### Artículo 403.
+
+1. El presente capítulo tiene como objetivo regular la suspensión del proceso a prueba para personas que presentan abuso y dependencia de sustancias psicoactivas, el cual consiste en la aplicación de un programa de tratamiento de rehabilitación con supervisión judicial, a los imputados que hayan cometido conductas delictivas como consecuencia del consumo de bebidas alcohólicas, estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia. Lo anterior con base en los criterios de la justicia terapéutica, con la finalidad de evitar la reincidencia delictiva, la recaída en el consumo de sustancias y así lograr la reinserción social de los participantes en este programa.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Principios básicos del programa
+
+###### Artículo 403.
+
+2. Son principios y acciones básicas del programa de tratamiento de rehabilitación con supervisión judicial, los siguientes:
+
+l. Reconocer que el abuso y dependencia de sustancias psicoactivas es una enfermedad crónica y recurrente que afecta el comportamiento y las emociones de las personas, la cual se caracteriza por el consumo repetitivo de la sustancia a pesar de las consecuencias negativas y la aparición de estados físicos y psicológicos anormales al suspender el consumo;
+
+II. Implementar acciones sustentadas en la evidencia científica, el respeto de los derechos humanos y la garantía de la protección de los derechos procesales de los participantes, y de la víctima u ofendido;
+
+III. Desarrollar estrategias para la reinserción del participante a la comunidad, mediante la participación del sector público, privado y social;
+
+IV. Establecer mecanismos de seguimiento constante de la evolución de los participantes dentro del programa, con la participación de las instituciones involucradas;
+
+V. Considerar los problemas y enfermedades coexistentes, así como aspectos trascedentes que requieran de una atención diferenciada, tales como el origen étnico, el género, la edad y demás características propias de los participantes dentro del programa de tratamiento.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Instituciones Operadoras
+
+###### Artículo 403.
+
+3. Bajo la dirección y coordinación del juez de control especializado en materia de Tratamiento Contra el Abuso y Dependencia de Sustancias Psicoactivas es corresponsabilidad de la Procuraduría General de Justicia, el Instituto de la Defensoría Pública, la Secretaría de Salud y la Secretaría de Seguridad Ciudadana, a través de las unidades administrativas que designen su normatividad, dentro del ámbito de sus atribuciones, participar en el cumplimiento del objetivo de la suspensión del proceso a prueba para personas que presentan abuso y dependencia de sustancias psicoactivas.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Oportunidad
+
+###### Artículo 403.
+
+4. Podrá solicitarse después de dictado el auto de vinculación a proceso y hasta antes de dictarse el auto de apertura a juicio oral, previo trámite de elegibilidad.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Requisitos
+
+###### Artículo 403.
+
+5. Además de los requisitos para la procedencia de la suspensión condicional del proceso a prueba, el imputado deberá cubrir los siguientes:
+
+I. Que exista la solicitud libre, informada y voluntaria del participante;
+
+II. Que no tenga o haya tenido otro proceso suspendido a prueba para tratamiento contra el abuso y dependencia de sustancias psicoactivas;
+
+III. Que se comprometa ante el juez de control especializado a cumplir con las condiciones y medidas que le sean fijadas para el cumplimiento del tratamiento;
+
+IV. Que cuente con dictamen que determine la presencia de abuso o dependencia a sustancias psicoactivas por un profesional de salud designado por la Secretaría de Salud;
+
+V. Que el hecho delictuoso por el que se le vinculó esté relacionado al abuso o dependencia a bebidas alcohólicas, estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia;
+
+VI. Que no se trate de delitos por portación, tráfico y acopio de armas prohibidas;
+
+VII. Que tras una evaluación de las características de personalidad y cognoscitivas se acredite que es candidato para el modelo de tratamiento otorgado por el programa;
+
+VIII. Que su estado de salud físico y mental le permitan participar en las actividades dentro del programa de tratamiento;
+
+IX. Que no exista un padecimiento de salud que ponga en peligro su integridad al participar en el programa de tratamiento.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Procedimiento
+
+###### Artículo 403.
+
+6 Hecho del conocimiento del imputado sobre la existencia de este mecanismo alterno y presentada la solicitud por el ministerio público, por el imputado o su defensor, el juez de control especializado, dentro de los cinco días siguientes, convocará a una audiencia en la que verificará además de los requisitos establecidos para el otorgamiento de la suspensión condicional del proceso a prueba:
+
+I. Que el imputado otorgó de manera voluntaria, libre e informada su consentimiento para participar en el tratamiento contra el abuso y dependencia de sustancias psicoactivas planteado por la Secretaría de Salud;
+
+II. Que se comprometa ante el órgano jurisdiccional a cumplir con las condiciones y medidas que se le fijen para el cumplimiento del tratamiento;
+
+III. Que se determinó la presencia de abuso o dependencia a sustancias psicoactivas por un especialista en la materia designado por la Secretaría de Salud.
+
+En la misma audiencia el juez de control especializado dará a conocer al participante de manera enunciativa las condiciones bajo las que se suspende el proceso a prueba y preguntará al solicitante si se obliga a cumplir las condiciones impuestas y, en su caso, lo prevendrá sobre las consecuencias de su inobservancia.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Condiciones
+
+###### Artículo 403.
+
+7. Para el cumplimiento del programa el juez de control especializado podrá imponer a los imputados, adicionalmente a las condiciones establecidas en la suspensión condicional del proceso a prueba, las siguientes:
+
+I. Asistir a las audiencias de seguimiento en la aplicación del tratamiento;
+
+II. Someterse a pruebas de detección toxicológica para bebidas alcohólicas, estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia cuando le sea requerido;
+
+III. Cualquier otra que el órgano jurisdiccional estime conveniente para el éxito del tratamiento.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Resolución
+
+###### Artículo 403.
+
+8. En la misma audiencia el juez de control especializado resolverá sobre la suspensión condicional del proceso a prueba para personas que presentan abuso y dependencia de sustancias psicoactivas. En esta, de encontrarse presente, se escuchará a la víctima u ofendido de domicilio conocido. En la resolución se deberá:
+
+I. Aprobar o rechazar la solicitud para la aplicación de la suspensión;
+
+II. Fijar las condiciones bajo las que suspende el proceso a prueba;
+
+III. Señalar el plazo de la suspensión condicional del proceso a prueba, el que no podrá ser inferior a seis meses, ni superior a dieciocho meses;
+
+IV. Aprobar o modificar el plan de reparación del daño, conforme a criterios de razonabilidad;
+
+V. Determinar el plan de tratamiento individualizado.
+
+La sola falta de recursos del imputado no podrá aducirse para rechazar la posibilidad de la suspensión condicional del proceso a prueba para la aplicación de un tratamiento contra el abuso y dependencia de sustancias psicoactivas con supervisión judicial.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Evaluación y Seguimiento
+
+###### Artículo 403.
+
+9. La evaluación y seguimiento del tratamiento contra el abuso y dependencia de sustancias psicoactivas se llevará a cabo mediante la realización de reuniones previas con las instituciones operadoras del programa y de audiencias públicas a convocatoria del juez de control especializado, las que se celebrarán conforme a las necesidades del plan individualizado de tratamiento y a la evolución del participante.
+
+A las audiencias públicas deberán asistir los representantes de las instituciones operadoras y el participante.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Criterios de permanencia
+
+###### Artículo 403.
+
+10. Durante el tratamiento contra el abuso y dependencia de sustancias psicoactivas, el juez de control especializado acorde al cumplimiento de las condiciones que hubiere fijado, la puntualidad del participante en las audiencias, el grado de cooperación con el personal encargado del tratamiento y la predisposición a realizarse pruebas de detección de bebidas alcohólicas, estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, podrá imponer las sanciones que resulten más adecuadas para lograr el objetivo del mismo.
+
+Se consideran sanciones para los efectos del tratamiento con supervisión judicial, además de las señaladas por el artículo 76 del presente ordenamiento, las siguientes:
+
+I. Incrementar la frecuencia de solicitud de pruebas de detección de bebidas alcohólicas, estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia;
+
+II. Aumentar la frecuencia de las audiencias para seguimiento;
+
+III. Mayor supervisión en el tratamiento;
+
+IV. Realizar servicio comunitario no remunerado;
+
+V. Expulsión temporal del tratamiento;
+
+VI. Revocación de la suspensión condicional del proceso a prueba.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Modificación del plazo de suspensión
+
+###### Artículo 403.
+
+11. Si concluido el plazo de la suspensión condicional del proceso a prueba, no se logra el objeto del tratamiento contra el abuso y dependencia de sustancias psicoactivas, podrá solicitarse su modificación para la ampliación del plazo hasta por seis meses más.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Audiencia de conclusión de plazo de suspensión
+
+###### Artículo 403.
+
+12. Concluido el tratamiento, a petición del ministerio público, del participante o su defensor, el juez de control especializado fijará una audiencia en la que evaluará el cumplimiento de las condiciones de la suspensión del proceso a prueba por el participante, si la reparación del daño se encuentra satisfecha o fue resarcida conforme al plan de reparación, para determinar su egreso, su reinserción social y conclusión del procedimiento especial de tratamiento contra el abuso y dependencia de sustancias psicoactivas, procediendo, en su caso, a dictar el sobreseimiento correspondiente.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Supletoriedad
+
+###### Artículo 403.
+
+13. Siempre y cuando no se contravenga la naturaleza y finalidad de la aplicación del tratamiento contra el abuso y dependencia de sustancias psicoactivas, en lo no previsto en el presente capítulo se aplicará lo dispuesto en la suspensión condicional del proceso a prueba.
 
 ## TÍTULO NOVENO. RECURSOS
 
-### CAPÍTULO II. APELACIÓN
+### CAPÍTULO I. REVOCACIÓN
 
-Objeto
+Supuestos
 
 ###### Artículo 404.
 
@@ -4373,7 +4549,7 @@ La revocación de las resoluciones pronunciadas en audiencia deberá promoverse 
 
 La revocación de las resoluciones dictadas fuera de audiencia deberá interponerse por escrito, en el acto de su notificación o al día siguiente, en el que se deberán expresar los motivos por los cuales se solicita. El órgano jurisdiccional se pronunciará de plano, pero podrá oír a los demás intervinientes, si se hubiere deducido en un asunto cuya complejidad así lo amerite.
 
-### CAPÍTULO III. REVISIÓN EXTRAORDINARIA
+### CAPÍTULO II. APELACIÓN
 
 Objeto
 
@@ -4527,11 +4703,9 @@ La resolución que ordene la reposición del procedimiento determinará la causa
 
 Tratándose de sentencias, la reposición se deberá limitar a las actuaciones de la audiencia intermedia y la de juicio.
 
-### CAPÍTULO ÚNICO. PROCEDIMIENTO
+### CAPÍTULO III. REVISIÓN EXTRAORDINARIA
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-Legitimación
+Objeto
 
 ###### Artículo 424.
 
@@ -4603,9 +4777,11 @@ Presentada la petición, se solicitará el proceso. Recibido éste, se dará vis
 
 ## TÍTULO DÉCIMO. PROCEDIMIENTO POR DELITO DE ACCIÓN PRIVADA
 
-### CAPÍTULO I. TRÁMITE
+### CAPÍTULO ÚNICO. PROCEDIMIENTO
 
-Oportunidad para la ejecución
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Legitimación
 
 ###### Artículo 431.
 
@@ -4743,9 +4919,9 @@ Dictado el auto de vinculación a proceso, el procedimiento se tramitará de acu
 
 ## TÍTULO DÉCIMO PRIMERO. ETAPA DE EJECUCIÓN DE LA SENTENCIA
 
-### CAPÍTULO II. DEL JUEZ EJECUTOR
+### CAPÍTULO I. TRÁMITE
 
-Del juez ejecutor de sentencias
+Oportunidad para la ejecución
 
 ###### Artículo 444.
 
@@ -4803,11 +4979,9 @@ Plazo para adherirse a un sustitutivo penal
 
 Cuando al sentenciado que goza de libertad, se le haya otorgado un sustitutivo penal, se le hará saber el plazo que tiene para adherirse al mismo; si no se le ha otorgado o no se adhirió al mismo, dentro del plazo concedido, se ordenará su reaprehensión por el juez ejecutor para que sea puesto a su disposición en el centro preventivo y de readaptación social correspondiente.
 
-### CAPÍTULO III. BENEFICIOS Y TRATAMIENTO PRELIBERACIONAL
+### CAPÍTULO II. DEL JUEZ EJECUTOR
 
-Remisión parcial de la pena
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+Del juez ejecutor de sentencias
 
 ###### Artículo 453.
 
@@ -4836,6 +5010,12 @@ VII. Sustituir la pena de prisión por una medida de seguridad, de oficio o a pe
 VIII. Revocar la sustitución o suspensión concedida al sentenciado; y
 
 IX. Las demás que señale este código.
+
+### CAPÍTULO III. BENEFICIOS Y TRATAMIENTO PRELIBERACIONAL
+
+Remisión parcial de la pena
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
 
 ###### Artículo 455.
 
@@ -5287,7 +5467,7 @@ El sistema de justicia penal acusatorio, adversarial y oral entrará en vigor en
 
 2) El primero de abril de dos mil diez, en los distritos judiciales de Chalco, Otumba y Texcoco;
 
-3) El primero de octubre de dos mil diez, en los distritos judiciales de Netzahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+3) El primero de octubre de dos mil diez, en los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
 
 4) El primero de abril de dos mil once, en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
@@ -5482,3 +5662,17 @@ G.G. 9 DE MAYO DE 2014.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor en la forma y términos siguientes:
+
+l. En el Distrito Judicial de Toluca, el uno de junio de dos mil catorce.
+
+II. En los demás distritos judiciales, el uno de enero de dos mil quince.
+
+TERCERO.- Para los efectos de la aplicación del tratamiento contra el abuso y dependencia de sustancias psicoactivas con supervisión judicial, el Consejo de la Judicatura determinará el número de jueces de control especializados en materia de tratamiento contra el abuso y dependencia de sustancias psicoactivas que habrá en cada Distrito.
+
+CUARTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación que deberán recibir los jueces de control que conocerán del tratamiento contra el abuso y dependencia de sustancias psicoactivas con supervisión judicial, para adquirir la especialización correspondiente.
