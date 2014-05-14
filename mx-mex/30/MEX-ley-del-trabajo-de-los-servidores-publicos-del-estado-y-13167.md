@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2014-03-28"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MARZO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 28 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -211,9 +209,11 @@ Cuando en esta ley se enuncie el término institución pública, con respecto a 
 
 Los servidores públicos docentes o profesores del Subsistema Educativo Estatal son los servidores públicos generales que prestan servicios de docencia, investigación o difusión, o bien aquéllos que desempeñan funciones directivas o de supervisión en los planteles del propio Subsistema.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 25.
 
-Este capítulo regula las relaciones de trabajo entre la dependencia denominada Secretaría de Educación, Cultura y Bienestar Social y los servidores públicos a que se refiere el artículo anterior.
+Este capítulo regula las relaciones de trabajo entre la dependencia denominada Secretaría de Educación y los servidores públicos a que se refiere el artículo anterior.
 
 ###### Artículo 26.
 
@@ -1247,9 +1247,11 @@ En caso de que dicho Instituto no dictamine su incapacidad permanente, el servid
 
 Las licencias que con este motivo se concedan serán con goce de sueldo íntegro, mientras subsista la imposibilidad de trabajar, hasta que se dictamine la inhabilitación del servidor público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 134.
 
-Al ocurrir un accidente de trabajo, la institución pública o dependencia deberá proporcionar de inmediato la atención médica que requiere el servidor público y dar aviso al Instituto de Seguridad Social del Estado de México y Municipios y a la Secretaría del Trabajo y de la Previsión Social del Estado de México.
+Al ocurrir un accidente de trabajo, la institución pública o dependencia deberá proporcionar de inmediato la atención médica que requiere el servidor público y dar aviso al Instituto de Seguridad Social del Estado de México y Municipios y a la Secretaría del Trabajo.
 
 De no estar en posibilidades de proporcionar atención médica de urgencia en virtud de que no existan instalaciones cercanas del Instituto de Seguridad Social del Estado de México y Municipios o que la institución pública o dependencia no cuenten con servicio médico, éstas deberán cubrir el importe de la atención médica que tuvo que pagar el servidor público.
 
@@ -3072,3 +3074,11 @@ I. Se niegue a participar en los procesos de evaluación.
 II. No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo procesos de evaluación a que se refiere la Ley General del Servicio Profesional Docente.
 
 III. Obtenga resultados insuficientes en el tercer proceso de evaluación para la permanencia en el servicio.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
