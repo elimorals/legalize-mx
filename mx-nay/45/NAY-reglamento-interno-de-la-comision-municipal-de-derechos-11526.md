@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interno-de-la-comision-municipal-de-derechos-11526"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-06-17"
-last_updated: "1992-06-17"
+last_updated: "2014-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERNO DE LA COMISION MUNICIPAL DE DERECHOS HUMANOS Y JUSTICIA ADMINISTRATIVA DEL AYUNTAMIENTO DE TEPIC
 
-REGLAMENTO INTERNO DE LA COMISION MUNICIPAL DE DERECHOS HUMANOS Y JUSTICIA ADMINISTRATIVA
+REGLAMENTO INTERNO DE LA COMISIÓN MUNICIPAL DE DERECHOS HUMANOS Y JUSTICIA ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN MUNICIPAL DE DERECHOS HUMANOS, PUBLICADO EN EL P.O. DE 14 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2014 (DEROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de junio de 1992.
 
@@ -358,3 +360,19 @@ C. PROFR. CARLOS RUIZ FLORES
 C. JOSÉ MARÍA VIERA CARREÓN
 
 C. LORENZO DEL TORO VARGAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE MAYO DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en la Gaceta Municipal, Órgano Oficial de Difusión del H. Ayuntamiento de Tepic y/o en el Periódico Oficial, Órgano de Gobierno del Estado y deroga el Reglamento Interno de la Comisión Municipal de Derechos Humanos y Justicia Administrativa fechado el 29 de mayo de 1992.
+
+###### ARTICULO SEGUNDO.
+
+Para lo no previsto en el presente Reglamento se estará a lo dispuesto en las disposiciones en la Ley de la Comisión Estatal de Defensa de los Derechos Humanos del Estado de Nayarit y en los reglamentos que la norman.
+
+###### ARTICULO TERCERO.
+
+El H. Cabildo nombrará a los integrantes del Consejo Ciudadano dentro de los sesenta días posteriores al de la publicación del presente Reglamento en la Gaceta Municipal, Órgano Oficial de Difusión del H. Ayuntamiento de Tepic.
