@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-y-control-de-organismos-auxiliares-595
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-24"
-last_updated: "2012-12-19"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 24 de agosto de 1983.
 
@@ -147,9 +147,9 @@ Para efectos de esta Ley, los fondos a que se refiere el presente artículo, se 
 
 Los organismos auxiliares podrán modificar su estructura y bases de organización conforme al procedimiento que al efecto establezca el ordenamiento o acto jurídico de su creación, cuando sea necesario para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-Siempre que las modificaciones afecten la estructura orgánica o presupuestal o se reflejen en su reglamento interno, deberán ser aprobadas por el Gobernador del Estado a propuesta del titular de la dependencia coordinadora de sector respectiva, previa opinión de la Secretaría de Finanzas y Planeación o de la de Administración según corresponda.
+Siempre que las modificaciones afecten la estructura orgánica o presupuestal o se refleje en su reglamento interno, deberán ser aprobadas por el Gobernador del Estado a propuesta del titular de la dependencia coordinadora de sector respectiva, previa opinión de la Secretaría de Finanzas.
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -157,11 +157,11 @@ Siempre que las modificaciones afecten la estructura orgánica o presupuestal o 
 
 Los organismos auxiliares podrán extinguirse mediante el procedimiento que establezca el ordenamiento o acto jurídico de su creación, cuando estuviese cumplido su objeto o finalidad social, se hubiere agotado el término de su existencia o actualizado algún otro supuesto de extinción contemplado en el ordenamiento respectivo.
 
-> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 11.
 
-El Gobernador del Estado podrá decretar o solicitar a la Legislatura, en su caso, a propuesta o previa opinión del titular de la dependencia coordinadora del sector que corresponda, la fusión, disolución o liquidación de cualquier organismo auxiliar que no cumpla con sus fines u objeto social o cuyo funcionamiento resulte inconveniente para la economía del Estado o el interés público. En todo caso deberá recabarse la opinión fundada de la Secretaría de Finanzas, Planeación y administración.
+El Gobernador del Estado podrá decretar o solicitar a la Legislatura, en su caso, a propuesta o previa opinión del titular de la dependencia coordinadora del sector que corresponda, la fusión, disolución o liquidación de cualquier organismo auxiliar que no cumpla con sus fines u objeto social o cuyo funcionamiento resulte inconveniente para la economía del Estado o el interés público. En todo caso deberá recabarse la opinión fundada de la Secretaría de Finanzas.
 
 ### CAPITULO III. Del Control y Vigilancia por parte del Ejecutivo del Estado
 
@@ -175,11 +175,11 @@ Las facultades atribuidas al Ejecutivo Estatal, en el párrafo anterior, serán 
 
 Las atribuciones señaladas se entienden sin perjuicio de las que otorga al Poder Legislativo, la Constitución Política del Estado y demás leyes aplicables.
 
-> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 13.
 
-Las Secretarías de Finanzas, Planeación y Administración y de la Contraloría, se consideran como dependencias de coordinación global y serán responsables de dictar las disposiciones administrativas y de controlar y evaluar su cumplimiento en los organismos auxiliares, respecto de las atribuciones que en relación con los mismos les determine la Ley Orgánica de la Administración Pública y demás leyes aplicables.
+Las Secretarías de Finanzas y de la Contraloría, se consideran como dependencias de coordinación global y serán responsables de dictar las disposiciones administrativas y de controlar y evaluar su cumplimiento en los organismos auxiliares, respecto de las atribuciones que en relación con los mismos les determine la Ley Orgánica de la Administración Pública y demás leyes aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -311,9 +311,9 @@ La Secretaría de la Contraloría tendrá, respecto de los organismos auxiliares
 
 I. Vigilar que los acuerdos de coordinación que se realicen con dependencias federales dentro de su respectivo ámbito de competencia, se lleven a cabo dentro del marco de los convenios respectivos;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-II. Vigilar que las acciones que realicen los responsables del ejercicio del presupuesto de ingresos, de egresos y de inversiones, se ajusten a los lineamientos y políticas emitidas por la Secretaría de Finanzas y Planeación;
+II. Vigilar que las acciones que realicen los responsables del ejercicio del presupuesto de ingresos, de egresos y de inversiones, se ajusten a los lineamientos y políticas emitidas por la Secretaría de Finanzas;
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
@@ -393,9 +393,9 @@ II. Un secretario, quien será designado por el órgano de gobierno a propuesta 
 
 III. Un comisario, quien será el representante de la Secretaría de la Contraloría; y
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-IV. El número de vocales que dispongan los actos jurídicos de creación. En todo caso habrá un vocal designado por la Secretaría de Finanzas y Planeación y otro por la Secretaría de Administración.
+IV. El número de vocales que dispongan los actos jurídicos de creación. En todo caso habrá un vocal designado por la Secretaría de Finanzas.
 
 > <small>(REFORMADO, G.G. 29 DE AGOSTO DE 1995)</small>
 
@@ -680,3 +680,11 @@ SEXTO.- Las dependencias y entidades públicas del Gobierno del Estado dispondr�
 SÉPTIMO.- Para efectos de la reforma al artículo 216-F del Código Financiero del Estado de México y Municipios, el Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Vial, realizará las gestiones necesarias a fin de finiquitar la cuenta del fideicomiso que se aperturó para la administración de los recursos a que hace referencia el citado artículo, así como la transferencia de los mismos a la cuenta que determine la Secretaría de Finanzas, en un plazo máximo de seis meses.
 
 OCTAVO.- Se solicita a la Secretaría de Finanzas y al Instituto Hacendario del Estado de México, realicen una revisión minuciosa de los esquemas de cobro de los Derechos por Uso de Vías y Áreas Públicas, para el ejercicio de actividades comerciales o de servicios, así como del Impuesto sobre Loterías, Rifas, Sorteos, Concursos y Juegos permitidos con cruce de apuestas y, en su caso, se hagan las propuestas conducentes, a fin de coadyuvar con los Municipios de la Entidad, en eficientar la recaudación de los ingresos propios.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
