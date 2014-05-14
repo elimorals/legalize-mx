@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-33324"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-15"
-last_updated: "2003-07-15"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno, el 15 de julio del 2003.
 
@@ -147,21 +147,31 @@ II. Un Secretario, que será el Director del Instituto Mexiquense de la Pirotecn
 
 III. Un Comisario, que será el representante de la Secretaría de la Contraloría;
 
-IV. Veintiún Vocales, que serán:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
-a) Un representante de la Secretaría de Finanzas y Planeación.
+IV. Veinte Vocales, que serán:
 
-b) Un representante de la Secretaría de Administración.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-c) Un representante de la Secretaría del Trabajo y de la Previsión Social.
+a) Un representante de la Secretaría de Finanzas.
 
-d) Un representante de la Secretaría de Desarrollo Urbano y Vivienda.
+b) (DEROGADO, G.G. 14 DE MAYO DE 2014)
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+c) Un representante de la Secretaría del Trabajo.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+d) Un representante de la Secretaría de Desarrollo Urbano.
 
 e) Un representante de la Secretaría de Desarrollo Económico.
 
 f) Un representante de la Procuraduría General de Justicia del Estado de México.
 
-g) El Subsecretario de Seguridad Pública.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+g) Un representante de la Secretaría de Seguridad Ciudadana.
 
 h) El Director General de Protección Civil.
 
@@ -338,3 +348,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
