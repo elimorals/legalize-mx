@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-derechos-y-cultura-indigena-del-estado-de-mexico-26754"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-10"
-last_updated: "2013-11-12"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el martes 10 de septiembre del 2002.
 
@@ -427,9 +427,11 @@ Los pueblos y comunidades indígenas asentadas en territorios regionales, munici
 
 Tienen derecho social a conservar, proteger, mantener y desarrollar sus propias identidades; así como todas sus manifestaciones culturales; por tanto las autoridades tienen el deber de proteger y conservar los sitios arqueológicos y sagrados, centros ceremoniales y monumentos históricos, además de sus artesanías, vestidos regionales y expresiones musicales, con arreglo a las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 41.
 
-Corresponde a la Secretaría de Educación, Cultura y Bienestar Social:
+Corresponde a la Secretaría de Educación:
 
 I. En el ámbito de sus atribuciones y presupuestos, apoyar a los pueblos y comunidades indígenas en el mantenimiento, protección y desarrollo de sus manifestaciones culturales actuales y en el cuidado de las de sus ancestros que aún se conservan, promoviendo la instalación, conservación y desarrollo de museos comunitarios, tecnologías, artes, expresiones musicales, literatura oral y escrita;
 
@@ -693,9 +695,11 @@ Se procurará y garantizará que las niñas y niños de los pueblos indígenas n
 
 Las mujeres y los hombres, mayores de dieciocho años, tendrán derecho a participar en los procesos políticos, sociales y económicos, así como en la toma de decisiones fundamentales para el desarrollo de los pueblos y comunidades indígenas y para el mejoramiento de los territorios regionales, municipales o por localidad.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 77.
 
-La Secretaría del Trabajo y de la Previsión Social fomentará programas para la capacitación laboral y el otorgamiento de becas de empleo a los jóvenes indígenas.
+La Secretaría del Trabajo fomentará programas para la capacitación laboral y el otorgamiento de becas de empleo a los jóvenes indígenas.
 
 ###### Artículo 78.
 
@@ -774,3 +778,11 @@ G.G. 12 DE NOVIEMBRE DE 2013.
 PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
