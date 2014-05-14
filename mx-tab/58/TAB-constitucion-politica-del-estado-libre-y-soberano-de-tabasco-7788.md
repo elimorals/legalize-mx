@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2013-09-13"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2014 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2014.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -1331,9 +1333,13 @@ El Gobernador Constitucional del Estado sólo podrá solicitar licencia permanen
 
 Son facultades y obligaciones del Gobernador:
 
-I.- Promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo del Estado y expedir los reglamentos necesarios para la exacta observancia de los mismos;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
-II.- Nombrar y remover a los funcionarios y al personal que forman parte del Poder Ejecutivo;
+I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+
+II.- Nombrar y remover libremente a los servidores públicos de la administración pública del estado, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes;
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
 
@@ -1385,9 +1391,7 @@ XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de
 
 XVII.- Presentar un informe escrito al Congreso del Estado, el segundo domingo del mes de noviembre de cada año de su ejercicio constitucional, en el que manifieste el estado general que guarde la Administración Pública del Estado, salvo el último año de ejercicio, cuando dicho informe se presentará el tercer domingo del mes de agosto, en sesión extraordinaria del Congreso. Al presentar su informe, el Gobernador del Estado podrá además dirigir al Pleno un mensaje alusivo. En todo caso, el Presidente del Congreso, en términos generales y concisos, realizará la intervención que corresponda;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
-XVIII.- Acordar que concurra a las sesiones de la Legislatura el Secretario del ramo que corresponde, cuando sea citado por el Congreso para informar acerca de alguna iniciativa de Ley, presentada por el Ejecutivo, o tratar temas relevantes de interés para el Congreso, relacionados con su ramo.
+XVIII.- (DEROGADA, P.O. 14 DE MAYO DE 2014)
 
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
@@ -1401,9 +1405,9 @@ XX.- Solicitar a la Comisión Nacional de los Derechos Humanos, que investigue h
 
 XXI.- Las demás que le confiera esta Constitución y la Federal.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2014)</small>
 
-### CAPITULO III. DE LAS DEPENDENCIAS QUE INTEGRAN EL PODER EJECUTIVO
+### CAPITULO III. DE LA ADMINISTRACION PUBLICA DEL ESTADO
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1435,17 +1439,29 @@ El estado garantizará la existencia de un servicio de defensoría pública de c
 
 > <small>(DEROGADO PÁRRAFO NOVENO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 53.
 
-Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despachados por las diversas dependencias del Poder Ejecutivo, irán firmados por el titular de la dependencia que los despache y por el Gobernador del Estado. Sin este requisito no obligan.
+Todos los reglamentos, decretos, acuerdos y órdenes que dicte y suscriba el Gobernador deberán estar firmados también por el Titular de la Dependencia a que el asunto corresponda. Sin este requisito no serán obedecidos.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 54.
 
 Los titulares de las Dependencias son responsables por el despacho de los asuntos de su competencia que autoricen actos contrarios a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, leyes federales o de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
+ARTICULO 54 BIS.- La Cámara de Diputados podrá convocar a los Secretarios, al Procurador General de Justicia, Coordinadores Generales, a los titulares de las entidades paraestatales, así como a los titulares de los órganos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
+
+La Legislatura, a pedido de una tercera parte de sus miembros, podrá integrar comisiones especiales para investigar el funcionamiento de organismos descentralizados y empresas de participación estatal mayoritaria. Los resultados de las investigaciones se harán del conocimiento del Titular del Ejecutivo del Estado.
+
+La Cámara de Diputados podrá requerir información o documentación a los titulares de las dependencias y entidades del gobierno, mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a quince días naturales a partir de su recepción.
+
+Los titulares de las dependencias y entidades de la administración pública estatal, posteriormente a la presentación del informe del Gobernador al Congreso del Estado, darán cuenta del estado que guarden sus respectivos ramos, ya sea en el Pleno o en Comisiones.
+
+El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgánica del Poder Legislativo y sus reglamentos.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1637,7 +1653,9 @@ Las personas que hayan ocupado el cargo de Magistrado Numerario o Consejero de l
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2012)</small>
 
-ARTICULO 63,- La competencia del Tribunal Superior de Justicia, los periodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, del Consejo de la Judicatura, el número y competencia de los Juzgados de Primera Instancia, de Extinción de Dominio, para Adolescentes, y de Paz, de Control, de Tribunal de Juicio Oral y de Ejecución de Sanciones; así como las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución, las leyes aplicables y demás ordenamientos reglamentarios.
+###### ARTICULO 63.
+
+La competencia del Tribunal Superior de Justicia, los periodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, del Consejo de la Judicatura, el número y competencia de los Juzgados de Primera Instancia, de Extinción de Dominio, para Adolescentes, y de Paz, de Control, de Tribunal de Juicio Oral y de Ejecución de Sanciones; así como las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución, las leyes aplicables y demás ordenamientos reglamentarios.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
@@ -1730,20 +1748,6 @@ Asimismo, contará con un Órgano de Control y Evaluación cuyas atribuciones se
 El Tribunal Electoral de Tabasco, por conducto de su Presidente deberá dar cumplimiento a lo establecido en el artículo 41 de la Constitución del Estado, remitiendo al Congreso, a través de su Órgano Superior de Fiscalización su cuenta pública para el examen y calificación correspondiente.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 63.
-
-La competencia del Tribunal Superior de Justicia, los períodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, del Consejo de la Judicatura, el número y competencia de los Juzgados de Primera Instancia, de Paz y para Adolescentes; así como las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución y demás leyes y reglamentos respectivos.
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
-
-La remuneración que perciban los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuida durante su encargo.
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
-
-Los Magistrados y Jueces que integran el Poder Judicial del Estado, durarán ocho y cinco años, respectivamente, en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos los segundos a cargos superiores, solo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca esta Constitución y las leyes secundarias aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ## TITULO VII. RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
 
@@ -3146,3 +3150,17 @@ SÉPTIMO.- Comuníquese a las Cámaras de Senadores y de Diputados del Congreso 
 OCTAVO.- Las modificaciones a los Artículos 19, 21 y 27 de la Constitución Política del Estado Libre y Soberano de Tabasco contenidas en el presente Decreto entrarán en vigor a partir del 20 de agosto de 2018.
 
 NOVENO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política el Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 14 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, el Congreso del Estado realizará las adecuaciones legales y reglamentarias necesarias.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas y adiciones fueron aprobadas por los Ayuntamientos de la entidad.
