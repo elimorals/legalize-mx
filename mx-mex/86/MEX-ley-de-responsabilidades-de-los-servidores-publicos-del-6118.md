@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2014-01-22"
+last_updated: "2014-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -61,9 +61,11 @@ V. Las autoridades competentes y los procedimientos para declarar la procedencia
 
 VI. El registro patrimonial de los servidores públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 2.
 
-Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza en la administración pública estatal o municipal, en sus Organismos Auxiliares y Fideicomisos públicos, y en los Poderes Legislativo y Judicial del Estado, con independencia del acto jurídico que les dio origen.
+Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza en la administración pública estatal o municipal, en sus organismos auxiliares y fideicomisos públicos, y en los poderes Legislativo, Judicial del Estado y en el Tribunal de lo Contencioso Administrativo del Estado, con independencia del acto jurídico que les dio origen.
 
 También quedan sujetos a esta Ley, aquellas personas que manejen o administren recursos económicos estatales, municipales, concertados o convenidos por el Estado con la Federación o con sus Municipios; y aquellas que en los términos del artículo 73 de esta Ley, se beneficien con adquisiciones, enajenaciones, arrendamientos, mantenimientos y construcción de obras públicas, así como prestación de servicios relacionados, que deriven de actos o contratos que se realicen con cargo a dichos recursos.
 
@@ -79,15 +81,25 @@ I.- La Legislatura del Estado.
 
 II. El Consejo de la Judicatura del Estado.
 
-III.- La Secretaría de la Contraloría.
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-IV.- Las demás dependencias del Ejecutivo Estatal en el ámbito de atribuciones que les otorga este ordenamiento.
+III. El Consejo de la Justicia Administrativa.
 
-> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-V.- Los Ayuntamientos y los Presidentes Municipales, salvo las responsabilidades resarcitorias determinadas por el Órgano Superior de Fiscalización del Estado de México.
+IV. La Secretaría de la Contraloría.
 
-VI.- Los demás órganos que determinen las leyes.
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+V. Las demás dependencias del Ejecutivo Estatal en el ámbito de sus atribuciones que les otorga este ordenamiento.
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+VI. Los ayuntamientos y los presidentes municipales, salvo las responsabilidades resarcitorias determinadas por el órgano superior de fiscalización del Estado de México.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+
+VII. Los demás órganos que determinen las leyes.
 
 ###### Artículo 4.
 
@@ -557,33 +569,47 @@ Las sanciones por responsabilidad administrativa disciplinaria consistirán en:
 
 > <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
-I.- Amonestación;
+I. Amonestación;
+
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+II. Suspensión del empleo, cargo o comisión, sin goce de sueldo por un período no menor de tres días ni mayor a treinta días.
 
 > <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
-II.- Suspensión del empleo, cargo o comisión;
+III. Destitución del empleo, cargo o comisión;
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
-III.- Destitución del empleo, cargo o comisión;
+IV. Sanción económica, de uno a tres tantos de los beneficios obtenidos, o por daños y perjuicios causados por actos u omisiones.
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
-IV.- Sanción económica;
-
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
-
-V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+V. Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público por un período no menor de seis meses ni mayor a ocho años.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños o perjuicios a la administración pública, será de uno a diez años si el monto de aquellos no excede de quinientas veces el salario mínimo mensual vigente en la capital del Estado y de diez a veinte años si excede de dicho límite.
 
-Para que una persona que hubiere sido inhabilitada en los términos de Ley, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación o Fideicomiso Público de que se trate, solicite autorización a la Secretaría.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa para el Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación o Fideicomiso Público en los términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
+Para que una persona que hubiera sido inhabilitada en los términos de Ley pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el Titular de la dependencia u organismo auxiliar de que se trate, solicite a la Secretaría la información actualizada que para tal efecto se lleva en el Sistema del Registro de Sanciones y Procedimientos Administrativos, con el fin de tener la certeza jurídica de que la persona ha cumplido la sanción de inhabilitación que le fue impuesta.
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-VI.- Arresto hasta por 36 horas en los términos de la Ley de Seguridad Pública del Estado.
+La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa para el Titular de la dependencia u organismo auxiliar en los términos de esta Ley.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+En el supuesto de que la persona haya sido contratada en el servicio público y se acredite que no ha cumplido con la sanción de inhabilitación que le hubiera sido impuesta, quedará sin efecto el nombramiento o contrato que en su caso se haya realizado.
+
+VI. (DEROGADA, G.G. 14 DE MAYO DE 2014)
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+
+VII. Sanción económica de quince días a seis meses del total del sueldo base presupuestal asignado.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+La aplicación de las sanciones, excepto las que sean fijas, atenderá las disposiciones que para tal efecto prevé el Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 50.
 
@@ -667,7 +693,7 @@ En el desahogo de la garantía de audiencia, se podrá interrogar al servidor p�
 
 > <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
-II.- Al concluir la audiencia o dentro de los treinta días hábiles siguientes, se resolverá sobre la inexistencia de responsabilidad o se impondrán al infractor las sanciones administrativas correspondientes, notificándose la resolución dentro de las cuarenta y ocho horas siguientes al interesado, a su jefe inmediato, al representante designado por la Dependencia y al superior jerárquico.
+II. Al concluir la audiencia o dentro de los treinta días hábiles siguientes, se resolverá sobre la inexistencia de responsabilidad o se impondrán al infractor las sanciones administrativas correspondientes, notificándose la resolución dentro de las cuarenta y ocho horas siguientes al interesado, a su jefe inmediato, al representante designado por la Dependencia y al superior jerárquico.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -679,9 +705,9 @@ III. Si de la audiencia se desprende que no existen elementos suficientes para r
 
 Iniciado el procedimiento administrativo y de existir elementos suficientes que determinen un daño o beneficio indebido en detrimento del erario estatal o municipal, la autoridad ejecutora del posible crédito fiscal a solicitud de la Secretaría o del órgano de control interno podrá trabar embargo precautorio para asegurar la reparación del daño o perjuicio causado, pero en todos los casos el depositario será el presunto responsable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
-IV. En cualquier momento, previo o posterior al citatorio a que se refiere la fracción I, se podrá determinar, tratándose de servidores públicos, la suspensión temporal de los presuntos responsables de su cargo, empleos o comisiones, cuando causen perjuicio a la administración pública, si así conviene para la conducción o continuación de las investigaciones. Dicha suspensión no podrá exceder de 30 días.
+IV. En cualquier momento, previo o posterior al citatorio a que se refiere la fracción I, se podrá determinar, tratándose de servidores públicos, la suspensión temporal de los presuntos responsables de su cargo, empleos o comisiones, cuando causen perjuicio a la administración pública, si así conviene para la conducción o continuación de las investigaciones. Esta medida cautelar no será menor a tres días ni mayor a treinta días naturales y surtirá sus efectos desde el momento en que sea notificada al interesado o interesada.
 
 La suspensión temporal a que se refiere el párrafo anterior, interrumpe los efectos del acto que haya dado origen al empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio.
 
@@ -809,6 +835,10 @@ La prescripción se interrumpirá por cada trámite que las autoridades realicen
 
 En todo momento la Secretaría o el superior jerárquico podrán hacer valer la prescripción de oficio.
 
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Asimismo, la prescripción se interrumpirá durante la tramitación del proceso administrativo ante el Tribunal de lo Contencioso Administrativo que se formule en contra de las resoluciones que se dicten en términos de la presente Ley. Para estos efectos, la interrupción del plazo de prescripción se inicia con la interposición de la demanda y concluye cuando se notifique a la autoridad administrativa el auto por el que se declara que ha causado ejecutoria la sentencia definitiva.
+
 ### CAPITULO IV. Del Fincamiento de Responsabilidades Administrativas Resarcitorias
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
@@ -861,9 +891,11 @@ La Secretaría podrá dispensar las responsabilidades relativas en los términos
 
 La propia Secretaría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de doscientas veces el salario mínimo diario vigente en la capital del Estado, por incosteabilidad práctica de cobro.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 77.
 
-Las facultades de la autoridad para constituir responsabilidades en los términos de este Capítulo, prescriben en la misma forma que para los créditos fiscales establecen las leyes de la materia.
+Las responsabilidades previstas en este capítulo tendrán el carácter de créditos fiscales y las facultades de la autoridad para hacerlas exigibles prescriben en términos de las leyes de la materia.
 
 ## TITULO CUARTO
 
@@ -933,11 +965,17 @@ II. Dentro de los sesenta días naturales siguientes a la conclusión del cargo;
 
 III. Durante el mes de mayo de cada año.
 
-Si transcurrido los plazos a que hacen referencia las fracciones I y III no se hubiese presentado la Manifestación correspondiente, sin causa justificada, se aplicará al servidor público, previa instancia sumaria que conceda garantía de audiencia al omiso o extemporáneo, una sanción pecuniaria consistente de quince días a seis meses del total del sueldo base presupuestal que tenga asignado, previniéndosele en el primer caso, que de no rendir su Manifestación dentro de los quince días naturales siguientes a la fecha de notificación del citatorio, será separado de su cargo, previa notificación que de este hecho haga la Secretaría al superior jerárquico o a los titulares de las dependencias o entidades, para que proceda en los términos de Ley.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-Para el caso de que se omita la Manifestación contemplada en la fracción II, la Secretaría procederá a la investigación del patrimonio del infractor en los términos del artículo 83 de esta Ley, sin perjuicio de aplicar una sanción pecuniaria consistente de quince días a seis meses del último sueldo base presupuestal percibido por el servidor público, o inhabilitarlo por un período de uno a seis años, o ambas sanciones.
+Si transcurridos los plazos a que hacen referencia las fracciones I y III, no se hubiese presentado la manifestación correspondiente, sin causa justificada, se aplicará al servidor público, previa instancia sumaria que conceda garantía de audiencia al omiso o extemporáneo, una sanción económica conforme al artículo 49, fracción VII, previniéndosele en el primer caso, que de no rendir su manifestación dentro de los quince días naturales siguientes a la fecha de notificación del citatorio será separado de su cargo, previa notificación que de este hecho haga la Secretaría al Superior Jerárquico o a los titulares de las dependencias o entidades, para que proceda en los términos de Ley.
 
-Igual sanción pecuniaria se aplicará cuando la presentación de esta Manifestación se haga de manera extemporánea.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Para el caso de que se omita la manifestación contemplada en la fracción II, la Secretaría procederá a la investigación del patrimonio del infractor en los términos del artículo 83 de esta Ley, sin perjuicio de aplicar una sanción económica conforme al artículo 49, fracción VII o inhabilitarlo por un período de uno a seis años, o ambas sanciones.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Igual sanción económica se aplicará cuando la presentación de esta manifestación se haga de manera extemporánea.
 
 ###### Artículo 81.
 
@@ -1298,3 +1336,13 @@ G.G. 22 DE ENERO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, excepto las disposiciones relativas a la imposición de las sanciones de suspensión e inhabilitación, así como de la prescripción.
