@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienes-del-estado-de-mexico-y-de-sus-municipios-24529"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2013-12-19"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 14 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno el 7 de marzo del 2000.
 
@@ -61,7 +61,9 @@ La aplicación de esta ley corresponde:
 
 I. En los poderes Legislativo y Judicial a los órganos que determinen sus respectivas leyes orgánicas y reglamentos;
 
-II. En el Poder Ejecutivo, a las secretarías de: Finanzas y Planeación, Educación, Cultura y Bienestar Social, Desarrollo Urbano y Obras Públicas, Administración y de la Contraloría; y
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+II. En el Poder Ejecutivo, a las secretarías de: Finanzas, Educación, Desarrollo Urbano y de la Contraloría;
 
 III. En los municipios a los órganos que determine la Ley Orgánica Municipal del Estado de México y sus reglamentos.
 
@@ -81,15 +83,19 @@ V. Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos d
 
 VI. Ley de Expropiación para el Estado de México;
 
-VII. Ley de Obras Públicas del Estado de México;
+VII. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
-VIII. Ley de Asentamientos Humanos del Estado de México;
+VIII. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
 IX. Código Financiero del Estado de México y Municipios;
 
-X. Código de procedimientos Administrativos del Estado de México; y
+X. Código de procedimientos Administrativos del Estado de México; y (sic)
 
 XI. Código Civil del Estado de México.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+
+XII. Código Administrativo del Estado de México.
 
 ###### Artículo 4.
 
@@ -99,9 +105,11 @@ Las adquisiciones por vías de derecho público se regirán por la presente ley,
 
 ### CAPITULO SEGUNDO. DE LAS FACULTADES DE LAS AUTORIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 5.
 
-Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Administración y a los ayuntamientos:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Finanzas y a los ayuntamientos:
 
 I. La elaboración del padrón de bienes del dominio público y privado del Estado y de los ayuntamientos;
 
@@ -135,39 +143,51 @@ XV. Elaborar un programa de aprovechamiento de los bienes que integran el patrim
 
 XVI. Expedir las disposiciones administrativas para el cumplimiento de esta ley.
 
-Para el ejercicio de las facultades anteriores el Secretario de Administración y los ayuntamientos expedirán el acuerdo respectivo, el que deberá estar debidamente fundado y motivado.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Para el ejercicio de las facultades anteriores el Secretario de Finanzas y los ayuntamientos expedirán el acuerdo respectivo, el que deberá estar debidamente fundado y motivado.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 6.
 
-La Secretaría General de Gobierno informará a la Secretaría de Administración de los actos y procedimientos que impliquen la transmisión de bienes de propiedad privada a favor del Estado con motivo de la aplicación de la Ley de Expropiación para el Estado de México.
+La Secretaría General de Gobierno informará a la Secretaría de Finanzas de los actos y procedimientos que impliquen la transmisión de bienes de propiedad privada a favor del Estado con motivo de la aplicación de la Ley de Expropiación para el Estado de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 7.
 
-Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Urbano y Obras Públicas y a los ayuntamientos:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Urbano y a los ayuntamientos:
 
 I. Proponer políticas para el aprovechamiento de la reserva territorial que forma parte del patrimonio inmobiliario del Estado o municipios, en congruencia con los planes de desarrollo urbano; y
 
 II. Dictaminar, en el ámbito de su competencia, las propuestas que les formulen las dependencias, organismos auxiliares y entidades públicas, en cuanto a la asignación de usos, destinos y reservas para el equipamiento urbano.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas informará a la Secretaría de Administración de los actos y procedimientos que impliquen la transmisión de bienes de propiedad privada a favor del Estado con motivo de la aplicación de la Ley de Asentamientos Humanos.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+La Secretaría de Desarrollo Urbano, informará a la Secretaría de Finanzas de los actos y procedimientos que impliquen la transmisión de bienes de propiedad privada a favor del Estado con motivo de la aplicación de lo dispuesto en el Libro Quinto del Código Administrativo del Estado de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 8.
 
-Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Educación, Cultura y Bienestar Social y a los ayuntamientos:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Educación y a los ayuntamientos:
 
 I. Proteger, mantener y acrecentar el patrimonio cultural inmobiliario, artístico e histórico del Estado o municipios, así como llevar su registro; y
 
 II. Evaluar, determinar y dar seguimiento a las solicitudes de enajenación o utilización de bienes inmuebles que integren el patrimonio estatal o municipal, que presenten asociaciones civiles e instituciones de asistencia privada, para ser destinados al desarrollo de actividades de contenido social y de apoyo a la comunidad, de acuerdo por lo establecido por la Constitución Particular del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 9.
 
-Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Finanzas y Planeación y a los ayuntamientos:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Finanzas y a los ayuntamientos:
 
 I. Determinar la valoración actualizada de inmuebles que integran el patrimonio estatal o municipal, así como rentabilidades y valuaciones inmediatas, cuando sea necesario;
 
 II. Ejercer el procedimiento administrativo de ejecución de créditos fiscales que deriven del incumplimiento de obligaciones del aprovechamiento de inmuebles; e
 
-III. Informar a la Secretaría de Administración de las adquisiciones inmobiliarias derivadas de los procedimientos de adjudicación, como resultado del procedimiento económico coactivo.
+III. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
 ###### Artículo 10.
 
@@ -185,7 +205,9 @@ III. Formular las denuncias ante el Ministerio Público en los casos de ocupaci�
 
 IV. Ejecutar el programa de aprovechamiento de los bienes que tengan a su cargo.
 
-La Secretaría de Ecología informará a la Secretaría da Administración de los actos y procedimientos que impliquen la transmisión del uso o del dominio de los bienes de propiedad privada a favor del Estado con motivo de la aplicación de las leyes de Protección al Ambiente para el Desarrollo Sustentable y de Parques Estatales y Municipales del Estado de México.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+La Secretaría de Medio Ambiente informará a la Secretaría de Finanzas de los actos y procedimientos que impliquen la transmisión del uso o del dominio de los bienes de propiedad privada a favor del Estado con motivo de la aplicación del Código Administrativo del Estado de México y del Código para la Biodiversidad del Estado de México.
 
 ### CAPITULO TERCERO. DE LOS BIENES DEL ESTADO Y DE LOS MUNICIPIOS
 
@@ -255,7 +277,9 @@ VI. Los bienes muebles de propiedad estatal o municipal que tengan uso o utilida
 
 VII. Los demás a los que las leyes les asignen este carácter.
 
-Se equiparan a los bienes destinados a un servicio público, los inmuebles asignados por la Secretaría de Administración o a los ayuntamientos, en su caso, a los organismos auxiliares y fideicomisos públicos, estatales o municipales.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Se equiparan a los bienes destinados a un servicio público, los inmuebles asignados por la Secretaría de Finanzas o los ayuntamientos, en su caso, a los organismos auxiliares y fideicomisos públicos, estatales o municipales.
 
 ###### Artículo 19.
 
@@ -371,7 +395,9 @@ Los muebles del dominio privado del Estado y de los municipios son embargables y
 
 Conforme a las disposiciones de la presente ley, una vez realizada la desincorporación, los inmuebles de dominio privado del Estado o municipios podrán ser objeto de los siguientes actos jurídicos:
 
-I. Transmisión de dominio a título oneroso o gratuito, de conformidad con los criterios que determine la Secretaría de Administración o el ayuntamiento respectivo, en favor de entidades que tengan a su cargo desarrollar programas de interés social para atender necesidades colectivas;
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+I. Transmisión de dominio a título oneroso o gratuito, de conformidad con los criterios que determine la Secretaría de Finanzas o el ayuntamiento respectivo, en favor de entidades que tengan a su cargo desarrollar programas de interés social para atender necesidades colectivas.
 
 II. Permuta, con entidades públicas o con particulares, por otros que por su ubicación, características y aptitudes satisfagan necesidades públicas;
 
@@ -395,9 +421,11 @@ En las operaciones traslativas de dominio, el valor de los inmuebles no podrá s
 
 En los contratos de permuta sobre inmuebles del dominio privado o municipal, deberá acreditarse fehacientemente la necesidad de la permuta y el beneficio social que ésta reporta al Estado o a los municipios.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 34.
 
-Si el donatario no utiliza los bienes para el fin señalado dentro de un plazo de un año contado a partir de la entrega material del inmueble o si habiéndole hecho diere a éste un uso distinto o suspenda sus actividades por más de un año sin contar con la aprobación de la Secretaría de Administración o de los ayuntamientos, la donación será revocada y tanto el bien como sus mejoras revertirán de plano en favor de la autoridad donante, previa declaración administrativa.
+Si el donatario no utiliza los bienes para el fin señalado dentro de un plazo de un año contado a partir de la entrega material del inmueble o si habiéndolo hecho da a éste un uso distinto o suspenda sus actividades por más de un año sin contar con la aprobación de la Secretaría de Finanzas o de los ayuntamientos, la donación será revocada y tanto el bien como sus mejoras revertirán de plano en favor de la autoridad donante, previa declaración administrativa.
 
 ###### Artículo 35.
 
@@ -437,9 +465,11 @@ En estos casos, el documento en el que se contenga la operación tendrá el car�
 
 Los actos jurídicos relacionados con inmuebles del dominio privado del Estado y municipios, que en términos de esta ley requieran la intervención de notario, se celebrarán ante los notarios del Estado de México.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 42.
 
-Ningún notario del Estado de México podrá autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles del dominio privado del Estado o municipios, sin la aprobación previa de la Secretaría de Administración o de los ayuntamientos respectivos.
+Ningún notario del Estado de México podrá autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles del dominio privado del Estado o municipios, sin la aprobación previa de la Secretaría de Finanzas o de los ayuntamientos respectivos.
 
 ###### Artículo 43.
 
@@ -499,7 +529,9 @@ VII. Destino final, acto por medio del cual la autoridad administrativa competen
 
 Los actos a que se refiere el artículo anterior deberán documentarse en un acuerdo administrativo, que deberá reunir los siguientes requisitos:
 
-I. Ser emitido por el Secretario de Administración, o por los ayuntamientos; y
+> <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
+
+I. Ser emitido por el Secretario de Finanzas, o por los ayuntamientos;
 
 II. Estar fundado y motivado.
 
@@ -515,29 +547,39 @@ Los acuerdos de afectación de bienes del dominio público deberán atender las 
 
 Tratándose de muebles, éstos serán considerados en lo individual y en conjunto como integrantes del dominio público, por lo tanto bastará que los bienes se encuentren inventariados y asignados a la dependencia, organismo auxiliar estatal o municipal, para que se consideren como parte de este dominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 53.
 
-Para cambiar el uso, destino o usuario de los bienes de dominio público, los poderes Legislativo y Judicial, informarán al Ejecutivo del Estado, para que la Secretaría de Administración realice los actos jurídicos que se requieran.
+Para cambiar el uso, destino o usuario de los bienes de dominio público, los poderes Legislativo y Judicial, informarán al Ejecutivo del Estado, para que la Secretaría de Finanzas realice los actos jurídicos que se requieran.
 
-Las dependencias, organismos y entidades públicas, estatales y municipales, deberán solicitarlo a la Secretaría de Administración o a los ayuntamientos, exponiendo las razones y conveniencia que sustenten la petición, misma que podrá ser autorizada considerando los beneficios o utilidad que tenga la administración con el cambio respectivo.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Las dependencias, organismos y entidades públicas, estatales y municipales, deberán solicitarlo a la Secretaría de Finanzas o a los ayuntamientos, exponiendo las razones y conveniencia que sustenten la petición, misma que podrá ser autorizada considerando los beneficios o utilidad que tenga la administración con el cambio respectivo.
 
 > <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
 
 En todo caso deberá procurarse que en la determinación del destino final de bienes que formaron parte del patrimonio de las dependencias, organismos y entidades públicas estatales y municipales, se tenga en cuenta la posibilidad para la obtención de un beneficio económico que pueda ser aprovechado para la realización de las tareas de las administraciones públicas respectivas.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 54.
 
-Con base en las normas que al efecto dicten la Secretaría de Administración o los ayuntamientos, las dependencias, organismos auxiliares y entidades estatales y municipales, establecerán sistemas de verificación y supervisión del uso de los inmuebles que les sean destinados o asignados.
+Con base en las normas que al efecto dicten la Secretaría de Finanzas o los ayuntamientos, las dependencias, organismos auxiliares y entidades estatales y municipales, establecerán sistemas de verificación y supervisión del uso de los inmuebles que les sean destinados o asignados.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 55.
 
-Los poderes Legislativo y Judicial, así como las dependencias, organismos y entidades públicas, estatales y municipales, que tengan asignados bienes del dominio público o privado, cuyo uso o aprovechamiento no se tenga previsto para el cumplimiento de las funciones o la realización de programas autorizados, deberán hacerlo del conocimiento de la Secretaría de Administración o de los ayuntamientos, en su caso, para que sean reasignados y aprovechados conforme las respectivas políticas inmobiliarias.
+Los poderes Legislativo y Judicial, así como las dependencias, organismos y entidades públicas, estatales y municipales, que tengan asignados bienes del dominio público o privado, cuyo uso o aprovechamiento no se tenga previsto para el cumplimiento de las funciones o la realización de programas autorizados, deberán hacerlo del conocimiento de la Secretaría de Finanzas o de los ayuntamientos, en su caso, para que sean reasignados y aprovechados conforme las respectivas políticas inmobiliarias.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 56.
 
-La Secretaría de Administración y los ayuntamientos llevarán a cabo la adquisición y enajenación de bienes inmuebles y enajenación de bienes muebles, mediante licitación pública, a través de comités cuya integración, organización, funcionamiento y procedimientos, serán determinados por las disposiciones reglamentarias respectivas.
+La Secretaría de Finanzas y los ayuntamientos llevarán a cabo la adquisición y enajenación de bienes inmuebles y enajenación de bienes muebles, mediante licitación pública, a través de comités cuya integración, organización, funcionamiento y procedimientos, serán determinados por las disposiciones reglamentarias respectivas.
 
-La Secretaría de Administración y los ayuntamientos podrán arrendar bienes inmuebles para el servicio de los poderes públicos, organismos y entidades públicas, estatales y municipales que lo requieran, quienes deberán justificarlo.
+La Secretaría de Finanzas y los ayuntamientos podrán arrendar bienes inmuebles para el servicio de los poderes públicos, organismos y entidades públicas, estatales y municipales que lo requieran, quienes deberán justificarlo.
 
 ###### Artículo 57.
 
@@ -551,31 +593,39 @@ Los organismos auxiliares y fideicomisos públicos, estatales y municipales, só
 
 DEL SISTEMA DE INFORMACION INMOBILIARIA.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 58.
 
-La Secretaría de Administración y los ayuntamientos operarán los sistemas de información inmobiliaria, estatal y municipales, respectivamente, que tendrán por objeto integrar los datos de identificación física y antecedentes jurídicos, registrales y administrativos de los inmuebles propiedad del Estado y de los municipios.
+La Secretaría de Finanzas y los ayuntamientos operarán los sistemas de información inmobiliaria, estatal y municipal, respectivamente, que tendrán por objeto integrar los datos de identificación física y antecedentes jurídicos, regístrales y administrativos de los inmuebles propiedad del Estado y de los municipios.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 59.
 
-La Secretaría de Administración y los ayuntamientos dictarán las normas y procedimientos para el funcionamiento e integración de estos sistemas.
+La Secretaría de Finanzas y los ayuntamientos dictarán las normas y procedimientos para el funcionamiento e integración de estos sistemas.
 
 ###### Artículo 60.
 
 En los sistemas de información inmobiliaria se deberán recopilar y mantener actualizados, los avalúos, datos, documentos e informes necesarios para la plena identificación de los inmuebles de propiedad estatal y municipal.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 61.
 
-Los poderes Legislativo y Judicial, así como las dependencias, organismos auxiliares y entidades de la administración pública estatal o municipal, así como las instituciones privadas que usen o tengan a su cuidado inmuebles de propiedad estatal o municipal, deberán proporcionar a la Secretaría de Administración o al ayuntamiento respectivo, la información, datos y documentos que les sean requeridos.
+Los poderes Legislativo y Judicial, así como las dependencias, organismos auxiliares y entidades de la administración pública estatal o municipal, así como las instituciones privadas que usen o tengan a su cuidado inmuebles de propiedad estatal o municipal, deberán proporcionar a la Secretaría de Finanzas o al ayuntamiento respectivo, la información, datos y documentos que les sean requeridos.
 
-En el Poder Ejecutivo, las secretarías de Administración y de la Contraloría, en el ámbito de sus respectivas atribuciones, vigilarán el exacto cumplimiento de las disposiciones contenidas en el presente capítulo.
+En el Poder Ejecutivo, las secretarías de Finanzas y de la Contraloría, en el ámbito de sus respectivas atribuciones, vigilarán el exacto cumplimiento de las disposiciones contenidas en el presente capítulo.
 
 ### CAPITULO NOVENO
 
 DEL REGISTRO ADMINISTRATIVO DE BIENES DEL DOMINIO PUBLICO Y PRIVADO.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 62.
 
-El Ejecutivo del Estado por conducto de la Secretaría de Administración y los ayuntamientos, llevarán un registro de la propiedad de bienes del dominio público y del dominio privado que se denominará Registro Administrativo de la propiedad Pública Estatal o Municipal, según corresponda.
+El Ejecutivo del Estado por conducto de la Secretaría de Finanzas y los ayuntamientos, llevarán un registro de la propiedad de bienes del dominio público y del dominio privado que se denominará Registro Administrativo de la propiedad Pública Estatal o Municipal, según corresponda.
 
 ###### Artículo 63.
 
@@ -621,21 +671,27 @@ III. Cuando se declare la nulidad del título que originó la inscripción.
 
 En la cancelación de las inscripciones se anotarán los datos necesarios para precisar la inscripción que se cancela y las causas de ello.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 67.
 
-La Secretaría de Administración y los ayuntamientos determinarán los procedimientos para integrar el inventario de los bienes del dominio público y privado estatal o municipales.
+La Secretaría de Finanzas y los ayuntamientos determinarán los procedimientos para integrar el inventario de los bienes del dominio público y privado estatal o municipal.
 
 ###### Artículo 68.
 
 Los poderes Legislativo y Judicial, así como las dependencias, organismos auxiliares o entidades de la administración pública estatal o municipal que utilicen, administren o tengan a su cuidado los bienes a que se refiere esta ley, formularán los inventarios respectivos y los mantendrán actualizados, remitiendo la información al registro que corresponda.
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
 ###### Artículo 69.
 
-Las instituciones privadas que por cualquier concepto utilicen, administren o tengan a su cuidado bienes de propiedad estatal o municipal, tendrán a su cargo la elaboración y actualización del inventario de estos bienes y estarán obligadas a proporcionar los datos e informes que les soliciten la Secretaría de Administración o los ayuntamientos.
+Las instituciones privadas que por cualquier concepto utilicen, administren o tengan a su cuidado bienes de propiedad estatal o municipal, tendrán a su cargo la elaboración y actualización del inventario de estos bienes y estarán obligadas a proporcionar los datos e informes que les soliciten la Secretaría de Finanzas o los ayuntamientos
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
 ###### Artículo 70.
 
-La Secretaría de Administración y los ayuntamientos estarán obligados a informar de los documentos relacionados con el Registro Administrativo de la Propiedad Pública y expedirán, cuando sean solicitados de acuerdo con la ley, copias certificadas de las inscripciones y de los documentos relativos.
+La Secretaría de Finanzas y los ayuntamientos estarán obligados a informar de los documentos relacionados con el Registro Administrativo de la Propiedad Pública y expedirán, cuando sean solicitados de acuerdo con la ley, copias certificadas de las inscripciones y de los documentos relativos.
 
 ###### Artículo 71.
 
@@ -645,7 +701,7 @@ Los poderes Legislativo y Judicial y los ayuntamientos, expedirán, en términos
 
 ###### Artículo 72.
 
-Se sancionará con pena privativa de libertad de 1 a 5 años y multa de 15O a 500 veces el salario mínimo general diario vigente en la capital del Estado de México a quien concluido el plazo por el que se otorgó la concesión, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público no lo devuelva a la autoridad competente dentro del plazo de 30 días siguientes a la fecha del requerimiento administrativo que se le haya formulado.
+Se sancionará con pena privativa de libertad de 1 a 5 años y multa de 150 a 500 veces el salario mínimo general diario vigente en la capital del Estado de México a quien concluido el plazo por el que se otorgó la concesión, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público no lo devuelva a la autoridad competente dentro del plazo de 30 días siguientes a la fecha del requerimiento administrativo que se le haya formulado.
 
 ###### Artículo 73.
 
@@ -714,3 +770,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento al presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
