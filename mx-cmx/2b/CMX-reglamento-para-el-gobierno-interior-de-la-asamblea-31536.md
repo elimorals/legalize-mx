@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2014-01-09"
+last_updated: "2014-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -40,13 +40,17 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FED
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento regula el funcionamiento y fija los procedimientos de deliberación y resolución de la Asamblea Legislativa del Distrito Federal y establece la organización de las unidades administrativas de la misma.
+El presente Reglamento regula el funcionamiento y fija los procedimientos de deliberación y resolución de la Asamblea Legislativa del Distrito Federal y establece la organizacion de las unidades administrativas y del Canal de la misma
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
 
 ###### Artículo 2.
 
-Las disposiciones del presente Reglamento son obligatorias para los Diputados a la Asamblea, la Mesa Directiva, la Comisión de Gobierno, la Diputación Permanente, las Comisiones y Comités y los Grupos Parlamentarios constituidos en el seno de la misma; así como para las unidades administrativas que determine su presupuesto.
+Las disposiciones del presente Reglamento son obligatorias para los Diputados a la Asamblea, la Mesa Directiva, la Comisión de Gobierno, la Diputación Permanente, las Comisiones y Comités y los Grupos Parlamentarios constituidos en el seno de la misma, asi como para las unidades administrativas y el Canal que determinen su presupuesto
 
 > <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
@@ -55,6 +59,12 @@ Las disposiciones del presente Reglamento son obligatorias para los Diputados a 
 Para la interpretación e integración de las normas de este Reglamento, se estará a los principios y prácticas que mejor garanticen y reflejen la integración y las decisiones plurales de la Asamblea, la libre expresión de todos los diputados, la participación de todos los grupos parlamentarios, la eficacia y eficiencia de los trabajos de la Asamblea y al principio de transparencia y rendición de cuentas de acuerdo con lo establecido en los ordenamientos de la materia.
 
 Se entiende como práctica parlamentaria, los principios generales del Derecho que se desarrollan en el desahogo de los procesos parlamentarios, que permiten la toma de decisiones para garantizar una conducción imparcial e institucional de los trabajos de la Asamblea, de sus Comisiones y Comités.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### Artículo 3 Bis.
+
+Salvo disposición legal en contrario, para el cómputo de los plazos señalados en días, se consideran días naturales, los establecidos en meses, de fecha a fecha; y los indicados en horas, de momento a momento
 
 ###### Artículo 4.
 
@@ -68,53 +78,57 @@ I.- ACUERDO PARLAMENTARIO: la resolución tomada en el ámbito de su respectiva 
 
 II.- ASAMBLEA: la Asamblea Legislativa del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-III.- CONTADURÍA: la Contaduría Mayor de Hacienda de la Asamblea;
+III.- CANAL Canal Televisivo de la Asamblea Legislativa del Distrito Federal,
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-IV.- DIPUTADO: el diputado o diputada miembro de la Asamblea;
+IV.- CONTADURÍA la Contaduría Mayor de Hacienda de la Asamblea,
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-V.- ESTATUTO: el Estatuto de Gobierno del Distrito Federal;
+V.- DIPUTADO el diputado o diputada miembro de la Asamblea,
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-VI.- INICIATIVA: el acto legislativo consistente en la presentación de un proyecto de ley o decreto para principiar el proceso legislativo;
+VI.- ESTATUTO el Estatuto de Gobierno del Distrito Federal,
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-VII.- LEY ORGÁNICA: la Ley Orgánica de la Asamblea Legislativa del Distrito Federal;
+VII.- INICIATIVA el acto legislativo consistente en la presentación de un proyecto de ley o decreto para principiar el proceso legislativo;
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-VIII.- MESA DIRECTIVA: la Mesa Directiva de la Asamblea;
+VIII.- LEY ORGÁNICA la Ley Orgánica de la Asamblea Legislativa del Distrito Federal,
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-IX.- PLENO: el Pleno de la Asamblea;
+IX.- MESA DIRECTIVA la Mesa Directiva de la Asamblea,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-X.- PRESIDENTE: el o la titular de la presidencia de la Mesa Directiva;
+X.- PLENO el Pleno de la Asamblea,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-XI.- PROPOSICIÓN: la proposición con punto de acuerdo o el acuerdo parlamentario;
+XI.- PRESIDENTE el o la titular de la presidencia de la Mesa Directiva,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-XII.- PROPOSICIÓN CON PUNTO DE ACUERDO: la propuesta de uno o varios diputadas o diputados que tengan por objeto un pronunciamiento, exhorto, solicitud, recomendación o cualquier otro que se relacione con la competencia de esta Asamblea pero que no sea materia de iniciativas, propuestas de iniciativas o de acuerdos parlamentarios;
+XII.- PROPOSICIÓN la proposición con punto de acuerdo o el acuerdo parlamentario,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-XIII.- PROPUESTA DE INICIATIVA: el proyecto de iniciativa constitucional, de ley o decreto, de uno o varios diputados o diputadas y que tenga por finalidad ser presentado por la Asamblea como iniciativa ante el Congreso de la Unión; y
+XIII.- PROPOSICIÓN CON PUNTO DE ACUERDO la propuesta de uno o varios diputadas o diputados que tengan por objeto un pronunciamiento, exhorto, solicitud, recomendacion o cualquier otro que se relacione con la competencia de esta Asamblea pero que no sea materia de iniciativas, propuestas de iniciativas o de acuerdos parlamentarios,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-XIV.- UNIDADES ADMINISTRATIVAS: la Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios y Finanzas Públicas, y la Coordinación de Servicios Parlamentarios.
+XIV.- PROPUESTA DE INICIATIVA el proyecto de iniciativa constitucional, de ley o decreto, de uno o varios diputados o diputadas y que tenga por finalidad ser presentado por la Asamblea como iniciativa ante el Congreso de la Unión, y
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2014)</small>
+
+XV.- UNIDADES ADMINISTRATIVAS la Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicacion Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios y Finanzas Públicas, y la Coordinación de Servicios Parlamentarios
 
 ## TITULO SEGUNDO. DE LA INSTALACIÓN DE LA ASAMBLEA Y DE SU FUNCIONAMIENTO
 
@@ -354,7 +368,9 @@ Durante los primeros cinco días de cada mes, la Coordinación General de Servic
 
 Durante los primeros 15 días del mes de septiembre, la Coordinación General de Servicios Parlamentarios, hará un balance general de asistencia de los Diputados a la Asamblea Legislativa del último año, mandando a publicarla en cuando menos, dos diarios de circulación nacional.
 
-### CAPITULO III. DE LAS COMISIONES Y COMITÉS DE LA ASAMBLEA Y DE SUS UNIDADES ADMINISTRATIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE MAYO DE 2014)</small>
+
+### CAPITULO III. DE LAS COMISIONES Y COMITÉS DE LA ASAMBLEA Y DE SUS UNIDADES ADMINISTRATIVAS Y DEL CANAL TELEVISIVO DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
 PRIMERA PARTE
 
@@ -438,23 +454,29 @@ Los Diputados integrantes de las Comisiones no tendrán ninguna retribución ext
 
 Toda Comisión deberá presentar su dictamen en los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los hayan recibido. Todo dictamen se elaborará con perspectiva de género, se redactará en un lenguaje claro, preciso, incluyente y no sexista, y se compondrá de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los resolutivos. Deberá estar debidamente fundado y motivado y contendrá las modificaciones que en su caso se hayan realizado, concluyendo con proposiciones claras y sencillas que puedan someterse a votación.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
 
-Cuando la Comisión no pueda dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo atendiendo a lo dispuesto por la fracción X del artículo 58 de la Ley Orgánica. Tratándose de dictámenes que contengan proposiciones, la ampliación no podrá exceder de sesenta días más, contados a partir de que se venza el plazo regular; cuando se trate de dictámenes que contengan iniciativas, la ampliación no podrá exceder de noventa días más, contados a partir de que se venza el plazo regular.
+Cuando la Comisión o Comisiones no puedan dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo de los asuntos que sean de su competencia, pero de los que no lo sea, corresponderá la aprobación de la misma a la Comisión de Gobierno
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
 
-En caso de negativa respecto a la ampliación, el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, el Presidente enviará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, consultándole al Presidente de dicha Comisión el término en que se contará con el dictamen en materia.
+La solicitud de prórroga deberá contener el número de días por el que ésta se requiera, el cual que no podrá exceder de sesenta días, tratándose de dictámenes de proposiciones, ni de noventa, tratándose de dictámenes de iniciativas Lo mismo se observará en caso de no señalarse la duración del plazo solicitado Además de lo anterior, la prórroga se computará a partir del día en que se notifique su aprobación a la Comisión o Comisiones solicitantes
 
-Lo anterior sin detrimento de lo que dispone el artículo 89 del presente Reglamento.
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
+
+En caso de negativa respecto de la ampliación, el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, el Presidente enviará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, consultándole al Presidente de dicha Comisión el término en que se contará con el dictamen en materia
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
+
+Lo anteriormente señalado se realizará sin detrimento de lo que dispone el artículo 89 del presente Reglamento
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
 
 ###### Artículo 33.
 
-Para que haya dictamen de Comisión, el mismo deberá presentarse firmado por la mayoría de los Diputados que la componen. Si alguno o algunos de ellos disintiesen del parecer de dicha mayoría, podrán presentar voto particular por escrito.
+Para que haya dictamen de la Comisión o Comisiones, el mismo deberá presentarse firmado por la mayoría de los Diputados integrantes Quien disintiese del parecer de dicha mayoría, podrá presentar su voto particular por escrito Asimismo, quien vote en contra de la resolución del dictamen, hará dicha anotación junto a la firma respectiva.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
-
-Las Comisiones deberán remitir el dictamen de manera impresa y por medio electrónico, magnético, óptico u otros, a la Mesa Directiva del Pleno de la Asamblea o de la Diputación Permanente, para su discusión dentro de las siguientes cuarenta y ocho horas posteriores a su distribución.
+Las Comisiones deberán remitir el dictamen de manera impresa y por medio electrónico, magnético, óptico u otros, a la Mesa Directiva del Pleno de la Asamblea o de la Diputación Permanente, para su discusión dentro de las siguientes cuarenta y ocho horas posteriores a su distribución
 
 ###### Artículo 34.
 
@@ -844,6 +866,36 @@ III. Actuar de forma conjunta con la Comisión de Gobierno y la Comisión de Des
 
 IV. Emitir opiniones sobre asuntos legislativos que se discutan en los Estados.
 
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 56 Septies.
+
+Corresponde al Comité del Canal Televisivo de la Asamblea Legislativa del Distrito Federal
+
+I. Ratificar a los funcionarios del Canal, hasta el segundo nivel, a propuesta debidamente fundada y argumentada del Titular de la Dirección General del Canal,
+
+II. Evaluar, supervisar y aprobar el anteproyecto de presupuesto anual del Canal, conforme al programa de trabajo correspondiente presentado por el Titular del Canal, a más tardar al 30 de octubre de cada año y turnar al Comité de Administración este anteproyecto,
+
+III. Una vez aprobado, turnar el proyecto de presupuesto anual del Canal a la Comisión de Gobierno y a los funcionarios responsables de la administración de la Asamblea, a más tardar durante los primeros cinco días del mes de noviembre de cada año, para los efectos correspondientes,
+
+IV. Supervisar la imparcialidad, objetividad, probidad, equidad y autonomía editorial de la carta de programación y las transmisiones del trabajo legislativo La Comisión de Gobierno y la Mesa Directiva recibiran una copia del proyecto de programación y podrán remitir observaciones y propuestas,
+
+V. Emitir observaciones y propuestas a la bitacora de programación diaria del Canal
+
+Los diputados de la Asamblea Legislativa podrán hacer llegar al Comite propuestas de programacion o contenidos del Canal y seran analizados por dicho Comité para determinar la programacion del mismo
+
+VI. Sugerir las reglas de transmision de las sesiones plenarias, de comisiones y comités de la Asamblea y de todas las demas transmisiones que se realicen,
+
+VII. Solicitar a la gente competente en materia de control y fiscalización del gasto, la realización de auditorías al Canal,
+
+VIII. Analizar y aprobar, en su caso, el informe trimestral y el informe anual del Canal,
+
+IX. Emitir la convocatoria, y llevar a cabo los procesos de selección de los candidatos a integrar el Consejo
+
+X. Recibir, analizar y orientar las quejas, observaciones y solicitudes que Diputados de la Asamblea presenten sobre el funcionamiento del Canal
+
+XI. Remitir a la Comisión de Gobierno de la Asamblea y a la Comisión de Ciencia Tecnologia e Innovacion el Informe anual de labores del Canal Televisivo de la Asamblea Legislativa del Distrito Federal
+
 SEGUNDA PARTE
 
 DE LAS UNIDADES ADMINISTRATIVAS Y SUS FUNCIONES
@@ -1078,9 +1130,9 @@ VI.- Destinar de manera transparente y proporcional los recursos económicos, de
 
 VII.- Publicar en la página de internet de la Asamblea Legislativa y dos diarios de circulación nacional, la lista de asistencia de los Diputados en los términos que se establecen en el artículo 27 de este Reglamento;
 
-> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-VIII. Incluir en cualquier transmisión que se realice de las sesiones de la Asamblea, la imagen del interprete-traductor a que se refiere el artículo 35 párrafo cuarto de la Ley Orgánica, a fin de dar mayor difusión a algún tema solicitado con antelación por el diputado.
+VIII.- Incluir en cualquier transmision que se realice de las sesiones de la Asamblea, la imagen del interprete-traductor a que se refiere el artículo 35 parrafo cuarto de la Ley Organica, a fin de dar mayor difusión a algún tema solicitado con antelación por el diputado Para lo anterior, debera coordinarse con las autoridades del Canal correspondientes
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 66], G.O. 30 DE MARZO DE 2005)
 
@@ -1280,6 +1332,142 @@ Artículo 78 Quáter (sic).- (DEROGADO, G.O. 9 DE ENERO DE 2014)
 
 Artículo 78 Quinquies (sic).- (DEROGADO, G.O. 9 DE ENERO DE 2014)
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 15 DE MAYO DE 2014)</small>
+
+TERCERA PARTE
+
+DEL CANAL TELEVISIVO DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### Artículo 79 Bis.
+
+En el ejercicio de sus atribuciones, el Canal contará con autonomia de gestión, independencia editorial, autonomía de gestion financiera, garantías de participación ciudadana, reglas claras para la transparencia y rendicion de cuentas, defensa de sus contenidos, opciones de financiamiento, pleno acceso a las tecnologías, y reglas para la expresion de diversidades étnicas, ideológicas y culturales
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### Artículo 79 Ter.
+
+El Canal tendrá las siguientes funciones
+
+I.- Realizar la cobertura en aquellos espacios físicos en los que se produzcan eventos relacionados con su objeto,
+
+II.- Fomentar la difusión del análisis, la discusión y el debate de los problemas del Distrito Federal, para fortalecer la opinion pública, se realice con plena libertad y tolerancia,
+
+III.- Contribuir al fortalecimiento y desarrollo educativo y cultural, en particular de la cultura civica y política en la sociedad del Distrito Federal,
+
+IV.- Construir un vínculo entre la Asamblea y la sociedad, que permita establecer una mutua, sólida y fluida relación de información entre las partes,
+
+V.- Promover la libre expresion de las ideas y fomentar un permanente debate ciudadano sobre los temas vinculados con la actividad legislativa,
+
+VI.- Videograbar todas las sesiones públicas tanto del Pleno, ya sean ordinarias, extraordinarias, permanentes o solemnes, así como de la Diputación Permanente,
+
+VII.- Videograbar todas las sesiones de trabajo publicas de las Comisiones y Comités,
+
+VIII.- Videograbar los foros, conferencias magistrales, comparecencias, conferencias de prensa y demas actividades legislativas que se lleven a cabo en los salones y auditorios de la Asamblea,
+
+IX.- Videograbar los informes que rindan los diputados ante la ciudadanía,
+
+X.- Seleccionar, evaluar y clasificar el material videograbado para su archivo en la videoteca del recinto, según los indicadores establecidos en congruencia con política de difusion institucional,
+
+XI.- Elaborar programas televisivos para la difusión institucional
+
+XII.- Elaborar su informe anual y trimestral que se relacione con los asuntos derivados de su gestión,
+
+XIII.- Elaborar las normas, lineamientos y políticas relacionadas con las atribuciones del Canal y turnarlas para su divulgación y en su caso, aprobación,
+
+XIV.- Vigilar la eficiencia en el empleo de los recursos asignados al canal televisivo, y
+
+XV.- Las demás que deriven de la Ley Orgánica, del Reglamento para el Gobierno Interior de la Asamblea y de las normas, disposiciones y acuerdos aplicables
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### Artículo 79 Quáter.
+
+Para llevar a cabo sus tareas, el Canal contará con la siguiente estructura administrativa y de gobierno
+
+I.- Director General,
+
+II.- Consejo Consultivo, y
+
+III.- Comité del Canal Televisivo de la Asamblea Legislativa del Distrito Federal.
+
+Lo anterior con independencia de la estructura que se determine en el Reglamento que se emita para los efectos
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+Artículo 79 Sexies (SIC).- Para ser Director General se requiere
+
+I.- Poseer la ciudadanía mexicana, en pleno ejercicio de sus derechos;
+
+II.- Poseer y demostrar por lo menos tres años de ejercicio profesional y una experiencia laboral en áreas de Comunicación, periodismo, y en el ámbito legislativo de la que se pueda inferir que posee los conocimientos y habilidades suficientes para el ejercicio del cargo,
+
+III.- No tener un cargo directivo dentro de un Partido Político o estar registrado como candidato a cargo de elección popular, así como de alguna Agrupación Política, ni haberlo sido en los cinco años anteriores a su designación,
+
+IV.- No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones profesionales, laborales o de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte, y
+
+V.- No pertenecer al Estado Eclesiástico ni ser ministro de algún culto religioso
+
+El Director General del Canal Televisivo de la Asamblea del Distrito Federal durará en su encargo cinco años contados a partir del día siguiente de su designación, pudiéndose reelegir hasta por un periodo inmediato de la misma temporalidad
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### Artículo 79 Septies.
+
+Corresponde al Director General
+
+I.- Nombrar al personal de estructura del Canal
+
+II.- Formular el proyecto de Política Interna de Orden General que contenga la estructura y organización del Canal, que deberá incluir las relaciones de mando y supervisión, las áreas y oficinas que conformen el Canal de Televisión de la Asamblea Legislativa del Distrito Federal, así como sus modificaciones, para someterla a la consideración y aprobación de la Coordinación Directiva,
+
+III.- Rendir al Comité un informe general de actividades trimestralmente, así como un informe anual que sera presentado a mas tardar el día treinta de noviembre de cada año,
+
+IV.- Seleccionar, evaluar y clasificar el material videograbado en el Archivo Histórico de la Asamblea, según los indicadores establecidos en congruencia con la política de difusión institucional,
+
+V.- Supervisar los mantenimientos preventivos y correctivos del sistema de transmisión del circuito cerrado de televisión, así como resguardar debidamente la totalidad del equipo a su disposición,
+
+VI.- Elaborar informes, cuadros y, en general, todos los materiales videograbados que se requieran para difundir informacion,
+
+VII.- Elaborar programas televisivos especiales para la difusión institucional,
+
+VIII.- Elaborar su informe trimestral y anual que se relacionen con los asuntos derivados de su gestion y presentarlo ante el Comité del Canal de Televisión de la Asamblea Legislativa del Distrito Federal,
+
+IX.- Formular el anteproyecto de presupuesto anual del Canal y el programa de trabajo correspondiente y remitirlo al Comité del Canal de Televisión de la Asamblea Legislativa a más tardar el primer día del mes de octubre,
+
+X.- Formular el proyecto de Política Interna de Orden General que contenga la estructura y organización del Canal, que debera incluir las relaciones de mando y supervisión, las áreas y oficinas que conformen el Canal, asimismo, elaborar las normas, lineamientos y políticas relacionadas con las atribuciones del Canal Los documentos anteriores deberan ser turnados para su aprobación a la Comision de Gobierno,
+
+XI.- Vigilar la eficiencia en el empleo de los recursos asignados al Canal, y
+
+XII.- Las demas que deriven de la Ley Orgánica, del Reglamento para el Gobierno Interior, y disposiciones y acuerdos aplicables
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### Artículo 79 Octies.
+
+El Consejo Consultivo es un órgano plural de representación social, conformado por cinco ciudadanos Los miembros serán propuestos por la Comisión de Gobierno de la Asamblea y aprobados mediante mayoría calificada consistente en las dos terceras partes de los Diputados de la Asamblea Legislativa del Distrito Federal, presentes al momento de la votación Durarán en su encargo dos años y podrán ser reelectos
+
+Para formar parte del Consejo, los aspirantes deberán cubrir los requerimientos que se exigen para ser Director General y, ademas, deberán tener un amplio reconocimiento y prestigio profesional en los medios de comunicación
+
+El Consejo deberá reunirse por lo menos una vez cada seis meses Las reglas de funcionamiento y organizacion necesarias para sus labores deberán ser definidas por el pleno del Consejo
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### Artículo 79 Nonies.
+
+Corresponde al Consejo Consultivo
+
+I.- Coadyuvar al cumplimiento de los objetivos del Canal,
+
+II.- Sugerir mecanismos que vinculen a la sociedad con el Canal,
+
+III.- Fungir como órgano de consulta hacia los sectores público, social y privado,
+
+IV.- Promover la libertad, pluralidad, corresponsabilidad, calidad y rigor profesional en el desarrollo general de las actividades del Canal, así como vigilar la observancia de todos los principios señalados por el Artículo 84 Bis de la Ley Orgánica,
+
+V.- Presentar al Director General del Canal las sugerencias de la sociedad en materia de programación, y
+
+VI.- Contribuir a consolidar sistemas de evaluación del desarrollo del Canal
+
 ### CAPITULO IV. DE LA ORGANIZACIÓN DE LA ASAMBLEA
 
 #### SECCIÓN 1. DE LA COMISIÓN DE GOBIERNO
@@ -1378,33 +1566,37 @@ Si el retiro fuere solicitado estando la iniciativa en Comisión o Comisiones, l
 
 Tanto las iniciativas de ley o decreto presentadas por los Diputados, por el Jefe de Gobierno o por el Tribunal Superior de Justicia del Distrito Federal como las propuestas de iniciativas constitucionales, de leyes o decretos, previo turno dado por el Presidente de la Mesa Directiva o de la Comisión de Gobierno pasarán desde luego a la comisión o comisiones correspondientes, enviándose a no más de dos de éstas a excepción de lo que disponga la Comisión de Gobierno, mismas que deberán revisar, estudiar, analizar y modificar, en su caso, la iniciativa y formular su correspondiente dictamen.
 
-Toda iniciativa o propuesta de iniciativa constitucional, ley o decreto, deberá ser presentada de manera impresa y por medio electrónico, magnético, óptico u otros. Asimismo, deberá contener una exposición de motivos en la cual se fundamenten y motiven las razones del proyecto, los antecedentes necesarios para poder pronunciarse sobre ellos, y la firma cuando menos de su proponente.
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
+
+Todas las iniciativas deberán ir de manera impresa y por medio electrónico, magnético, óptico u otros Además, deberan contener una exposición de motivos en la cual se funde y motive la propuesta, así como contener los siguientes elementos
+
+I. Denominación del proyecto de ley o decreto,
+
+II. Objetivo de la propuesta,
+
+III. Planteamiento del problema que la iniciativa pretenda resolver y la solución que se propone,
+
+IV. Razonamientos sobre su constitucionalidad y convencionalidad,
+
+V. Ordenamientos a modificar,
+
+VI. Texto normativo propuesto,
+
+VII. Artículos transitorios, y
+
+VIII. Lugar, fecha, nombre y rúbrica de quienes la propongan
 
 El tiempo para hacer uso de la tribuna con tal efecto, no será mayor a diez minutos cuando se trate de iniciativas o propuestas de iniciativas, cinco minutos cuando se trate de propuestas con puntos de acuerdo o acuerdos parlamentarios considerados como de urgente y obvia resolución, conforme a lo establecido en el artículo 133 del presente Reglamento y tres minutos cuando se trate de puntos de acuerdo de conformidad a lo establecido en el artículo 132 del mismo ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 87.
 
-La Comisión elaborará el dictamen respectivo para ser presentado ante el Pleno en un plazo no mayor de treinta días naturales a partir de su recepción en la Comisión, salvo prórroga debidamente fundamentada que apruebe el Pleno, o en los recesos la Comisión de Gobierno, a petición de la Comisión dictaminadora.
+(DEROGADO, G.O. 15 DE MAYO DE 2014)
 
-> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
-
-Todo dictamen será elaborado con perspectiva de género, se redactará en un lenguaje claro, preciso, incluyente y no sexista, y se integrará por una adecuada fundamentación, motivación, con sus respectivos antecedentes, considerandos, las modificaciones que en su caso se hayan realizado y los puntos resolutivos. La parte considerativa contendrá las modificaciones que en su caso se hayan realizado.
-
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
-
-El dictamen de la Comisión deberá presentarse firmado por los miembros de la misma. Si alguno o algunos de los integrantes de la Comisión disienten del dictamen, se hará la anotación en contra, junto con la firma respectiva. Los Diputados podrán formular los votos particulares.
-
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
-
-Los dictámenes que se entreguen a la Mesa Directiva para su discusión en el Pleno de la Asamblea deberán estar acompañados de manera impresa y por medio electrónico, magnético, óptico u otros.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2014)</small>
 
 ###### Artículo 88.
 
-Si la Asamblea se encuentra en periodo de sesiones ordinarias y hubiere transcurrido el Plazo señalado en el artículo anterior, el Presidente hará una excitativa a la Comisión para que la dictamine, lo mismo se observará durante los periodos de receso por el Presidente de la Comisión de Gobierno.
+Si la Asamblea se encuentra en periodo de sesiones ordinarias y hubiere transcurrido el plazo para emitir el dictamen, el Presidente hará una excitativa a la Comisión para que la dictamine, lo mismo se observará durante los periodos de receso por el Presidente de la Comisión de Gobierno.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1528,7 +1720,7 @@ Las sesiones se celebrarán en el recinto que ocupa la Asamblea, salvo acuerdo e
 
 Las sesiones no podrán realizarse fuera del Distrito Federal.
 
-> <small>(REFORMADO, G.O.19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 98.
 
@@ -1536,19 +1728,21 @@ Las sesiones se desarrollarán de conformidad con el Orden del Día elaborado po
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 18 DE MAYO DE 2012)</small>
 
-El orden del día, deberá publicarse en la página de lnternet de la Asamblea a más tardar a las veintiún horas del día previo a la sesión.
+El orden del día, deberá publicarse en la página de Internet de la Asamblea a más tardar a las veintiún horas del día previo a la sesión.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 96], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2014)</small>
 
 ###### Artículo 99.
 
-El día 17 de septiembre de cada año, la Asamblea se reunirá a partir de las once horas en el Salón de Sesiones para inaugurar el primer periodo ordinario de sesiones.
+El día 17 de septiembre de cada año, la Asamblea se reunirá a partir de las nueve horas en el Salón de Sesiones para inaugurar el primer periodo ordinario de sesiones
 
 En dicha sesión inaugural el Presidente declarará en voz alta:
 
 "La Asamblea Legislativa del Distrito Federal de los Estados Unidos Mexicanos abre hoy 17 de septiembre de (año) el primer periodo de sesiones ordinarias, correspondiente al (primero, segundo o tercero) año de ejercicio de la (número) Legislatura".
 
-El Presidente hará igual declaratoria antes de iniciar el segundo periodo de sesiones ordinarias, a las once horas del 15 de marzo de cada año.
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
+
+El Presidente hará igual declaratoria antes de iniciar el segundo periodo de sesiones ordinarias, a las nueve horas del 15 de marzo de cada año
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 97], G.O. 30 DE MARZO DE 2005)
 
@@ -1558,11 +1752,11 @@ La primera sesión del primer periodo de sesiones ordinarias de cada año, tendr
 
 Se exceptúa de lo anterior la sesión inicial del primer periodo de sesiones de cada Legislatura, en el cual se tratarán los asuntos señalados por la Ley Orgánica de la Asamblea, debiéndose recibir el informe a que se refiere el presente artículo en la siguiente sesión del citado periodo que deberá llevarse a cabo en la misma fecha.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 98], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2014)</small>
 
 ###### Artículo 101.
 
-La Asamblea sesionará los días y a partir de la hora que el Presidente señale en la convocatoria respectiva.
+La Asamblea sesionará a las nueve horas de los días que el Presidente señale en la convocatoria respectiva
 
 > <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
@@ -1598,7 +1792,9 @@ Las sesiones podrán ser ordinarias, extraordinarias, privadas, permanentes o so
 
 Son ordinarias las sesiones que se celebran durante los periodos constitucionales y serán públicas, con excepción de los casos que establece el presente Reglamento.
 
-Se iniciarán, salvo disposición del Presidente y por mediar causa que lo justifique, a las once horas y concluirán a más tardar a las diecisiete horas. Las sesiones podrán prolongarse o suspenderse por acuerdo del Pleno a solicitud de su Presidente.
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
+
+Se iniciarán, salvo disposición del Presidente y por mediar causa que lo justifique, a las nueve horas y concluirán a más tardar a las diecisiete horas. Las sesiones podrán prolongarse o suspenderse por acuerdo del Pleno a solicitud de su Presidente
 
 En el caso de que la Asamblea acuerde citar a comparecer ante el Pleno a un Servidor Público de la Administración Pública del Distrito Federal, la Comisión de Gobierno propondrá al Pleno el formato conforme al cual se desarrollará la sesión.
 
@@ -1694,15 +1890,15 @@ El acceso del público al recinto oficial será garantizado por personal adminis
 
 Los asistentes que perturben el orden impidiendo el desarrollo normal de la sesión, podrán ser desalojados por disposición del Presidente. Si la falta lo amerita, quienes la cometan serán remitidos a las autoridades correspondientes.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 112], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
 
 ###### Artículo 115.
 
-La Mesa Directiva asegurará en todo tiempo el libre acceso de los medios de comunicación a las sesiones públicas de la Asamblea, a fin de garantizar que cumplan con su función.
+Todas las sesiones públicas deberán videograbarse y transmitirse por el Canal en los términos que dispongan la Ley Orgánica y este Reglamento Asimismo, la Mesa Directiva asegurará en todo tiempo el libre acceso de los medios de comunicación a las sesiones públicas de la Asamblea, a fin de garantizar que cumplan con su función
 
 #### SECCIÓN 4. DE LOS DEBATES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O.19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 116.
 
@@ -2902,13 +3098,13 @@ V. Los extranjeros, quienes tampoco podrán participar como terceros representad
 
 > <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
 
-###### Articulo 227.
+###### Artículo 227.
 
 Las actividades del cabildeo se regirán por los principios de publicidad, transparencia, accesibilidad y participación.
 
 > <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
 
-###### Articulo 228.
+###### Artículo 228.
 
 Es facultativo para todo servidor público de la Asamblea Legislativa aceptar ser contactado para fines de cabildeo.
 
@@ -2958,13 +3154,13 @@ Los documentos de cabildeo relacionados con iniciativas, dictámenes, acuerdos, 
 
 > <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
 
-###### Articulo 233.
+###### Artículo 233.
 
 Los documentos de cabildeo que no impliquen prohibición en su reproducción, deberán publicarse en la página electrónica de la Asamblea para que puedan ser objeto de consulta pública. La publicación deberá de hacerse de acuerdo a la Ley de Protección de Datos Personales del Distrito Federal y la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 18 DE MAYO DE 2012)</small>
 
-###### Articulo 234.
+###### Artículo 234.
 
 Los documentos de cabildeo, la información, opiniones, argumentaciones o cualquier otra manifestación hecha por los cabilderos no serán vinculatorias para la resolución del asunto en cuestión.
 
@@ -3289,3 +3485,61 @@ SÉPTIMO.- La Oficialía Mayor, dentro de los 30 días naturales siguientes a la
 OCTAVO.- A partir de la entrada en vigor del presente Decreto y hasta la extinción y liquidación del Fideicomiso “Fondo de Apoyo a la Educación y el Empleo de las y los jóvenes del Distrito Federal”, el Oficial Mayor será el responsable de cumplir con las obligaciones de transparencia y rendición de cuentas aplicables al caso, y en los términos que determina la Ley y su Reglamento.
 
 NOVENO.- Durante la vigencia del “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” será el Oficial Mayor el responsable de cumplir con las obligaciones de transparencia y rendición de cuentas aplicables al caso, y en los términos que determina la Ley y Reglamento.
+
+G.O. 15 DE MAYO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 86 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, Y SE ADICIONAN LAS FRACCIONES DE LA I A LA IX AL MISMO ARTÍCULO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación
+
+G.O. 15 DE MAYO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 2, 4, 68 Y 115, SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO, Y SE ADICIONA EL ARTÍCULO 56 SEPTIES, AL MENCIONADO CAPÍTULO UNA TERCERA PARTE Y LOS ARTÍCULOS 79 BIS A 79 NONIES, TODOS DEL REGLAMENTO PARA EL GOBIERNO INTERIOR.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto
+
+TERCERO.- A partir de la aprobación del presente Decreto, se constituirá el Comite del Canal Televisivo de la Asamblea Legislativa del Distrito Federal en un plazo no mayor a tres meses a propuesta de la Comisión de Gobierno
+
+CUARTO.- Para el inicio de las actividades del Canal Televisivo de la Asamblea Legislativa del Distrito Federal, se debera adquirir herramientas, equipo y tecnologia nueva y de vanguardia
+
+QUINTO.- Por única ocasión el Comité del Canal Televisivo de la Asamblea Legislativa del Distrito Federal contara con treinta días hábiles para emitir la convocatoria para la elección del Director General del Canal
+
+SEXTO.- Dentro de los treinta días hábiles siguientes a la designación del Director General, este debera presentar ante el Comité del Canal Televisivo de la Asamblea Legislativa el proyecto de Política Interna de Orden General que contenga la estructura y organización del Canal, que deberá incluir las relaciones de mando y supervisión, las áreas y oficinas que conformen el Canal, así como las normas, lineamientos y políticas relacionadas con las atribuciones de este
+
+SÉPTIMO.- El equipo tecnológico que sea adquirido por la Asamblea Legislativa del Distrito Federal para el funcionamiento del Canal Televisivo, debera comprender las características de funcionalidad, vanguardia, efectividad y durabilidad de acuerdo a la transición tecnológica
+
+OCTAVO.- La Asamblea Legislativa del Distrito Federal deberá celebrar un convenio con alguna Institución Publica a fin de evaluar la idoneidad, así como características de funcionalidad, vanguardia, efectividad y durabilidad del equipo y la tecnologia que será utilizada para la operación y las transmisiones del Canal Televisivo
+
+NOVENO.- Previo a la adquisición de cualquier herramienta tecnológica para llevar a cabo la operación y transmisiones del canal de televisión la Asamblea Legislativa del Distrito Federal deberá contar con la opinión del Instituto Federal de Telecomunicaciones
+
+DÉCIMO.- La Comision de Ciencia, Tecnologia e Innovación deberá emitir opinión respecto de las compras, adquisiciones y/o arrendamientos que realice la Asamblea Legislativa del Distrito federal, para el funcionamiento y operación del Canal Televisivo
+
+DÉCIMO PRIMERO.- A la entrada en vigor del presente decreto, se deberán asignar los recursos financieros, materiales y humanos suficientes para el buen desempeño del Canal
+
+DÉCIMO SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusion publíquese en el Diario Oficial de la Federación
+
+G.O. 15 DE MAYO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 99, PÁRRAFOS PRIMERO Y CUARTO; 101, PÁRRAFO PRIMERO; Y 104, PÁRRAFO SEGUNDO, TODOS DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación
+
+G.O. 15 DE MAYO DE 2014.
+
+DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 3 BIS; SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 32, 33 Y 88; Y SE DEROGA EL ARTÍCULO 87 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación
