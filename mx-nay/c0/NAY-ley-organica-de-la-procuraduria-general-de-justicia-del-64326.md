@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-procuraduria-general-de-justicia-del-64326"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-10-11"
-last_updated: "2012-05-25"
+last_updated: "2014-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 15 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 11 de octubre de 2008.
 
@@ -2120,3 +2122,19 @@ P.O. 25 DE MAYO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE MAYO DE 2014.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, salvo lo dispuesto en el párrafo siguiente.
+
+Para el caso de las disposiciones de la presente ley cuya observancia y aplicación esté condicionada a la implementación del Sistema de Justicia Penal Acusatorio, éstas entrarán en vigor en los términos que establezca la Declaratoria que al efecto emita el Congreso del Estado previa solicitud conjunta de las autoridades encargadas de la implementación de dicho sistema.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nayarit publicada el 11 de octubre del 2008 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y demás disposiciones que se opongan a la presente ley.
+
+Artículo Tercero.- El reglamento de esta ley deberá ser expedido en un plazo no mayor de 180 días naturales contados a partir de su entrada en vigor.
+
+Artículo Cuarto.- La Fiscalía General del Estado de Nayarit seguirá ejerciendo los recursos financieros y materiales asignados a la Procuraduría General de Justicia constituida mediante la ley que se abroga; asimismo quedan a salvo los derechos laborales adquiridos por los servidores públicos de dicha institución.
+
+Para el caso de los trabajadores sindicalizados, la relación laboral y demás temas relacionados con la permanencia, cambio de adscripción y terminación de los efectos del nombramiento, se estará a lo dispuesto por la legislación de la materia.
+
+Artículo Quinto.- Los procedimientos de responsabilidad administrativa, de remoción y demás que se encuentren en trámite a la entrada en vigor de esta ley deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron.
