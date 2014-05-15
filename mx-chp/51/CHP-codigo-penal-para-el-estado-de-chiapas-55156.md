@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2013-05-01"
+last_updated: "2014-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -2315,21 +2315,27 @@ Sólo se procederá por el delito de estupro por querella de la parte ofendida.
 
 Comete el delito de abuso sexual, la persona que sin consentimiento de otra, ejecute en ésta un acto sexual, distinto a la cópula y sin el propósito de llegar a ella, o la obligue a observarlo o ejecutarlo.
 
-Este delito se perseguirá por querella de parte ofendida, salvo que concurra violencia física o moral, o que el sujeto pasivo sea niña, niño o adolescente y que por otras circunstancias no pueda comprender el significado del hecho.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
+
+Este delito se perseguirá por querella de parte ofendida, salvo que ocurra violencia física o moral, o que el sujeto pasivo sea menor de edad, incapaz o cuando se realice a persona que por otras circunstancias no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
 
 ###### Artículo 242.
 
-Al que cometa el delito de abuso sexual, se le impondrá pena de tres a siete años de prisión.
+Al que cometa el delito de abuso sexual, se le impondrá pena de cinco a nueve años de prisión y multa de cien a doscientos días de salario mínimo.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+La pena prevista se aumentará en una mitad más en su mínimo y en su máximo cuando:
 
-Si para cometer el delito se hiciere uso de violencia física o moral o cuando el sujeto pasivo haya otorgado su consentimiento si éste es niña, niño o adolescente o que por otras circunstancias no puede comprender el significado del hecho, la pena prevista se aumentará en una mitad más.
+I. Sea cometida por dos o más personas.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+II. Se hiciere uso de la violencia física o moral.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+III. Se hubiera administrado a la víctima alguna sustancia tóxica.
+
+Cuando el sujeto pasivo se trate de persona menor de edad, incapaz o cuando se realice en persona que por otras circunstancias no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena aplicable será de seis a doce años de prisión y multa (sic) doscientos a seiscientos días de salario mínimo. A los autores y participes del delito previsto en éste párrafo no se les concederá ningún beneficio de libertad anticipada en ejecución de sentencia.
 
 ###### Artículo 243.
 
@@ -5266,3 +5272,9 @@ P.O. 1 DE MAYO DE 2013.
 Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+P.O. 15 DE MAYO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
