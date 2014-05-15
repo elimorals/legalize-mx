@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-para-el-estado-de-chiapas-8679
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-09"
-last_updated: "2012-05-17"
+last_updated: "2014-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS
 
 N. DE E EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 147 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, Y P.O. DE 17 DE MAYO DE 2012, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 9 de febrero de 2012.
 
@@ -1998,6 +1998,10 @@ Si la decisión se funda en criterios de política criminal, sus efectos se exti
 No obstante, en el caso de los incisos c), d), e; f) y g) del artículo 176, se suspenderá el ejercicio de la acción penal pública en relación con los hechos o las personas en cuyo favor se aplicó el criterio de oportunidad. Esa suspensión se mantendrá hasta quince días después de que tenga el carácter de firme la sentencia respectiva.
 
 Si la colaboración del sujeto o la sentencia no satisfacen las expectativas por las cuales se suspendió el ejercicio de la acción, el ministerio público podrá reanudar el proceso.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2014)</small>
+
+Para el caso de lo establecido en el inciso a), del artículo 176 de éste Código, cuando se cometa el delito previsto en el artículo 385 del Código Penal, el Ministerio Público podrá suspender el ejercicio de la acción penal, hasta en tanto la persona haya cumplido con un tratamiento para abstenerse de consumir drogas o bebidas alcohólicas ante alguno de los Centros Especializados para la Prevención y Tratamiento de Adicciones de la Procuraduría General de Justicia del Estado u otra institución especializada; si el sujeto no cumpliere con el tratamiento o reincidiera en la conducta o con las medidas que el Ministerio Público le fije, el proceso se reanudará. No será aplicable éste supuesto cuando se haya concedido el beneficio en procedimiento diverso, que de su actuar se desprenda la comisión de otros delitos; con excepción de los delitos de daños o lesiones que se persigan a instancia de parte, siempre y cuando sea reparado el daño.
 
 #### Sección 5. Mecanismos para Facilitar la Justicia Restaurativa
 
@@ -6174,3 +6178,9 @@ Artículo Primero.- El presente Decreto entrará en vigor el 21 de mayo de 2012.
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero.- Las averiguaciones previas, los procesos penales y los recursos iniciados o que se estén iniciando, con fundamento en las legislaciones previas a la implementación del sistema de justicia penal, a través del juicio de corte acusatorio, se tramitarán hasta su conclusión, y en su caso ejecución de sanciones, conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 15 DE MAYO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
