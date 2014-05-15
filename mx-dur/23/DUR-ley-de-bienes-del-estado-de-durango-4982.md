@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-bienes-del-estado-de-durango-4982"
 country: "mx"
 rank: "ley"
 publication_date: "1980-09-25"
-last_updated: "1980-09-25"
+last_updated: "2014-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE BIENES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 25 de septiembre de 1980.
 
@@ -233,13 +233,17 @@ Los bienes a que se refieren las Fracciones VII del Artículo 19 excepto los que
 
 Otorgada la autorización a que se refiere el párrafo anterior los bienes quedarán formados de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto a ellos, todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
+
 ###### Artículo 21.
 
-Cuando una Dependencia del Poder Ejecutivo llegare a considerar conveniente la adquisición de un inmueble para destinarlo al servicio público, o para usos comunes, lo comunicará al Oficial Mayor de Gobierno el que, estudiará las posibilidades del Gobierno para adquirirlos y previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta utilizarlos llegando al otorgamiento, registro y archivo de los documentos respectivos. La firma de los contratos de la venta y compra de inmuebles corresponde al Gobernador y al Oficial Mayor de Gobierno.
+Cuando una Dependencia del Poder Ejecutivo llegare a considerar conveniente la adquisición de un inmueble para destinarlo al servicio público, o para usos comunes, lo comunicará a la Secretaría de Finanzas y de Administración la que, estudiará las posibilidades del Gobierno para adquirirlos y previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta utilizarlos llegando al otorgamiento, registro y archivo de los documentos respectivos. La firma de los contratos de la venta y compra de inmuebles corresponde al Gobernador y al Secretario de Finanzas y de Administración.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
 
 ###### Artículo 22.
 
-Cuando se trate de adquisición por vías de derecho público, corresponderá a la Dependencia del Ramo respectivo, determinar la utilidad pública y a la Oficialía Mayor de Gobierno, todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la Dependencia del Ramo, o a la que designe el Gobernador los procedimientos encaminados a la ocupación administrativa de los bienes. No será necesario en este caso, la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado, desde la publicación del Decreto respectivo en el Periódico Oficial del Estado.
+Cuando se trate de adquisición por vías de derecho público, corresponderá a la Dependencia del Ramo respectivo, determinar la utilidad pública y a la Secretaría de Finanzas y de Administración, todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la Dependencia del Ramo, o a la que designe el Gobernador los procedimientos encaminados a la ocupación administrativa de los bienes. No será necesaria en este caso, la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado, desde la publicación del Decreto respectivo en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 23.
 
@@ -255,15 +259,19 @@ Para destinar un inmueble propiedad del Estado a determinado servicio público, 
 
 No pierden su carácter de bienes destinados a un servicio público, los que estándolo, fueren sin embargo, aprovechados temporalmente, en todo o en parte para otro objeto que no pueda considerarse como servicio público, mientras no se dicte la declaración respectiva en la forma prevista en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
+
 ###### Artículo 26.
 
-Los inmuebles destinados a un servicio público serán asignados a la Dependencia que tenga a su cargo dicho servicio, pero quedarán bajo el control de la Oficialía Mayor. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
+Los inmuebles destinados a un servicio público serán asignados a la Dependencia que tenga a su cargo dicho servicio, pero quedarán bajo el control de la Secretaría de Finanzas y de Administración. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
 
 ###### Artículo 27.
 
 Si estubieren (sic) alojados en un mismo inmueble propiedad del Estado, varias Instituciones u Oficinas de diversas dependencias, el inmueble quedará a cargo de la dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc., y no en las partes interiores del edificio, que sirvan para uso de las Instituciones u Oficinas dependientes de otros organismos.
 
-En caso de duda el Gobernador del Estado, por conducto de la Oficialía Mayor resolverá cuales dependencias deberán hacerse cargo de las partes comunes de los inmuebles de que se trata.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
+
+En caso de duda, el Gobernador del Estado por conducto de la Secretaría de Finanzas y de Administración, resolverá cuáles dependencias deberán hacerse cargo de las partes comunes de los inmuebles de que se trata.
 
 ###### Artículo 28.
 
@@ -277,7 +285,9 @@ Estará a cargo de las dependencias o Instituciones que tengan destinadas a su s
 
 Los inmuebles del dominio privado del Estado se destinarán preferentemente a los servicios de las distintas dependencias del Gobierno del Estado, de los Municipios o de instituciones públicas o privadas que contribuyan al beneficio colectivo.
 
-La posesión, conservación y administración de los bienes del Estado corresponden, por regla general, y a falta de prevención en contrario, a la Oficialía Mayor de Gobierno, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
+
+La posesión, conservación y administración de los bienes del Estado corresponden, por regla general, y a falta de prevención en contrario, a la Secretaría de Finanzas y de Administración, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
 ###### Artículo 30.
 
@@ -317,9 +327,11 @@ Salvo lo dispuesto en el Artículo anterior, cualquiera otra clase de enajenaci�
 
 Ninguna venta de inmuebles podrá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entere en dinero efectivo, cuando menos el 25% de dicho precio. En este caso se hipotecará la finca en primer lugar en favor de la Hacienda Pública del Estado para garantizar el pago del saldo insoluto de dicho plazo y de los intereses pagados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2014)</small>
+
 ###### Artículo 36.
 
-Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de terceros, ni tienen facultad para derribar las construcciones sin permiso expreso dado por escrito de la Oficialía Mayor, mientras no esté pagado íntegramente el precio.
+Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de terceros, ni tienen facultad para derribar las construcciones sin permiso expreso dado por escrito de la Secretaría de Finanzas y de Administración, mientras no esté pagado íntegramente el precio.
 
 En los contratos respectivos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este Artículo, dará causa para la rescisión del contrato, a cuyo efecto se transcribirá textualmente este Artículo en su clausulado.
 
@@ -331,9 +343,13 @@ Cuando se trate de permutar bienes estatales, los que deba recibir el Gobierno s
 
 La infracción de cualquiera de los preceptos anteriores, dará causa para la nulidad de la enajenación. Se sujetarán asímismo esos preceptos para su validez, las enajenaciones de los establecimientos públicos y empresas en que el Estado tenga interés y de inmuebles adquiridos del Gobierno del Estado, por cualquier título, durante los cinco años anteriores.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
+
 ###### Artículo 39.
 
-Los bienes de dominio privado pueden ser objeto de todos los contratos que regula en derecho común con el requisito de que la Legislatura los autorice cuando se trate de actos de dominio.
+Los bienes inmuebles de dominio privado, pueden ser objeto de todos los contratos que regula en derecho común, con el requisito de que la Legislatura los autorice cuando se trate de actos de dominio.
+
+Los bienes muebles de dominio privado podrán ser enajenados, destruidos o donados cuando ya no sean útiles para uso o aprovechamiento.
 
 ###### Artículo 40.
 
@@ -375,19 +391,35 @@ La subasta se practicará el día y la hora señalados en la Secretaría de Fina
 
 Pertenecen al Estado de Durango todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
 
-La clasificación y sistemas de inventario, así como la estimación de la depreciación de los muebles de propiedad estatal, quedará a cargo de la Oficialía Mayor.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
+
+La clasificación y sistemas de inventario, así como la estimación de la depreciación de los muebles de propiedad estatal, quedará a cargo de la Secretaría de Finanzas y de Administración, conforme a la Ley General de Contabilidad Gubernamental.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
 
 ###### Artículo 48.
 
-La adquisición administrativa y enajenación de los bienes muebles de propiedad estatal corresponde a la Oficialía mayor, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos procedan, a juicio del Gobernador.
+La adquisición administrativa y enajenación de los bienes muebles de propiedad estatal corresponderá a la Secretaría de Finanzas y de Administración, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos procedan, a juicio del Gobernador.
 
 ###### Artículo 49.
 
 Rige también, respecto a los muebles de dominio privado, lo establecido en preceptos anteriores sobre prescripción en favor de particulares y retención administrativa de la posesión y recuperación provisional o definitiva de la misma posesión.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
+
 ###### Artículo 50.
 
-Acordada la destrucción de un mueble inútil para el servicio, se dará de baja en el inventario, y podrá donarse con autorización del Gobernador del Estado, a las personas indigentes que lo soliciten.
+Cuando existan bienes muebles de dominio privado que ya no sean útiles para uso, aprovechamiento o servicio podrá acordarse su venta, destrucción o donación y serán dados de baja en el inventario.
+
+En el supuesto de que este tipo de muebles sean enajenados, se deberá seguir el siguiente procedimiento:
+
+Deberá realizarse un inventario de dichos bienes, para que posteriormente se proceda a realizar el avalúo de los mismos, en caso de que el valor resultado de estos no exceda de tres mil quinientos, salarios mínimos vigentes en el Estado, no será necesario que se realice una subasta pública para su enajenación.
+
+Si los bienes muebles son valuados en más de tres mil quinientos uno, salarios mínimos, su enajenación se realizará por medio de una subasta pública, conforme a los lineamientos que para tal efecto emita el Gobierno del Estado por conducto de la Secretaría de Finanzas y de Administración.
+
+Cuando se determine que este tipo de bienes muebles sean susceptibles de destrucción, la Secretaría de Finanzas y de Administración, dispondrá mediante acuerdo correspondiente el destino final de los mismos.
+
+En el caso de que se proceda a su donación, solo podrán ser beneficiados las instituciones educativas, asociaciones civiles y en su caso los grupos vulnerables, para lo cual se emitirá el acuerdo respectivo por parte de la Secretaría de Finanzas y de Administración.
 
 ###### Artículo 51.
 
@@ -395,11 +427,13 @@ Compete al Poder Ejecutivo del Estado, por sí o por medio de los organismos de 
 
 ### CAPITULO VI. DEL REGISTRO DE LA PROPIEDAD ESTATAL
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2014)</small>
+
 ###### Artículo 52.
 
-El Registro de la Propiedad Estatal, que llevará la Oficialía Mayor de Gobierno, será público y los encargados de él tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones que existen en los libros relativos y de los documentos relacionados con las inscripciones, que estén archivados en su apéndice y se expedirá, cuando sean solicitados y de acuerdo con la Ley, copias certificadas de las inscripciones, constancias y documentos.
+El Registro de la Propiedad Estatal, que llevará la Secretaría de Finanzas y de Administración, será público y los encargados de él tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones que existen en los libros relativos y de los documentos relacionados con las inscripciones, que estén archivados en su apéndice y se expedirá, cuando sean solicitados y de acuerdo con la Ley, copias certificadas de las inscripciones, constancias y documentos.
 
-Además del Registro que se señala en el párrafo anterior la Oficialía Mayor de Gobierno llevará un inventario de los bienes de dominio público y otro del de los de dominio privado.
+Además del Registro que se señala en el párrafo anterior, la Secretaría de Finanzas y de Administración llevará un inventario de los bienes de dominio público y otro de los de dominio privado.
 
 ###### Artículo 53.
 
@@ -484,3 +518,11 @@ DADO en el PALACIO del PODER EJECUTIVO, en Victoria de Durango, Dgo., a los quin
 El Gobernador Constitucional Substituto del Estado, Dr. SALVADOR GAMIZ FERNANDEZ.- Rúbrica.
 
 El Secretario General de Gobierno Lic. CARLOS GALINDO MARTINEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE MAYO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
