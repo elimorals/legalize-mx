@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2014-01-09"
+last_updated: "2014-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -134,9 +134,9 @@ XIII.- Designar a dos Consejeros de la Judicatura del Distrito Federal, en los t
 
 XIV.- Designar o remover a los titulares de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, en términos de lo dispuesto por esta ley y por la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-XV.- Nombrar a los titulares de la Oficialía Mayor, Tesorería General, Contraloría General, Coordinación General de Comunicación Social, Director de (sic) Instituto de Investigaciones Legislativas, Director de la Unidad de Estudios de Finanzas Públicas, así como al titular de la Coordinación de Servicios Parlamentarios, todos de la Asamblea Legislativa del Distrito Federal;
+XV.- Nombrar a los titulares de la Oficialía Mayor, Tesorería General, Contraloría General, Coordinación General de Comunicación Social, Director de (sic) Instituto de Investigaciones Legislativas, Director de la Unidad de Estudios de Finanzas Públicas, al titular de la Coordinación de Servicios Parlamentarios, así como al titular del Canal de Televisivo de la Asamblea Legislativa del Distrito Federal, todos de la Asamblea Legislativa del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -212,13 +212,17 @@ XXXIII.- Designar a los Comisionados Ciudadanos que integrarán el Instituto de 
 
 XXXIV.- Remover a los Jefes Delegacionales conforme al procedimiento que se establezca en la presente ley;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-XXXV.- Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley, y
+XXXV. Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-XXXVI.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
+XXXVI. Contar con un órgano técnico denominado “Canal Televisivo de la Asamblea Legislativa del Distrito Federal”, que se regirá conforme a lo establecido en este Ordenamiento y en el Reglamento para el Gobierno Interior, en concordancia con lo establecido por el artículo 10º Transitorio de la Reforma Constitucional en materia de Telecomunicaciones publicada en el Diario Oficial de la Federación el once de junio de 2013.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2014)</small>
+
+XXXVII. Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -692,9 +696,13 @@ XIII.- Recibir, durante los recesos, las iniciativas de ley dirigidas a la Asamb
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
-XIV.- Conocer y resolver, en los recesos, sobre las solicitudes de licencia que le sean presentadas por los Diputados, y
+XIV.- Conocer y resolver, en los recesos, sobre las solicitudes de licencia que le sean presentadas por los Diputados, y (sic)
 
 XV.- Las demás que le confiere esta ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2014)</small>
+
+XVI.- Proponer al titular del "Canal Televisivo de la Asamblea Legislativa del Distrito Federal".
 
 ### CAPITULO IV. DE LA DIPUTACIÓN PERMANENTE
 
@@ -848,9 +856,9 @@ IX.- Conocer de las Comunicaciones de los órganos de gobierno del Distrito Fede
 
 X.- Conocer de los pronunciamientos, propuestas, dictámenes y denuncias que no comprendan la aprobación, reforma, derogación o abrogación de leyes, decretos;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-XI.- Ratificar los nombramientos que haga la Comisión de Gobierno del encargado del despacho en caso de ausencia de alguno de los titulares de la Oficialía Mayor, Tesorería General, Contraloría Interna, Coordinación General de Comunicación Social, de la Dirección del Instituto de Investigaciones Parlamentarias, de la Dirección de la Unidad de Estudios de Finanzas Públicas, de la Coordinación General de Servicios Parlamentarios, todos de la Asamblea Legislativa del Distrito Federal;
+XI.- Ratificar los nombramientos que haga la Comisión de Gobierno del encargado del despacho en caso de ausencia de alguno de los titulares de la Oficialía Mayor, Tesorería General, Contraloría Interna, Coordinación General de Comunicación Social, de la Dirección del Instituto de Investigaciones Parlamentarias, de la Dirección de la Unidad de Estudios de Finanzas Públicas, de la Coordinación General de Servicios Parlamentarios, así como el nombramiento del Director General del Canal Televisivo de la Asamblea Legislativa, todos de la Asamblea Legislativa del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1294,6 +1302,10 @@ VIII. De Estudios y Estadística sobre la Ciudad de México, y
 
 IX. Asuntos Interinstitucionales.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2014)</small>
+
+X. Comité del Canal de Televisión de la Asamblea Legislativa del Distrito Federal.
+
 Los Comités son órganos auxiliares de carácter administrativo, para realizar tareas diferentes a las de las comisiones.
 
 Cada Comité tendrá una Secretaría Técnica, que estará bajo la dirección del Presidente del mismo, a la que corresponderá apoyar los trabajos del Comité, en los términos que disponga el Reglamento para el Gobierno Interior de la Asamblea Legislativa.
@@ -1304,9 +1316,9 @@ Cada Comité tendrá una Secretaría Técnica, que estará bajo la dirección de
 
 Los miembros integrantes de los Comités serán designados por el Pleno a propuesta de la Comisión de Gobierno. Su integración, actividad y funcionamiento se rige por lo establecido por esta ley y el Reglamento para el Gobierno Interior de la Asamblea Legislativa. Los Comités tomarán sus decisiones por mayoría de votos de sus miembros presentes.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO VII], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE MAYO DE 2014)</small>
 
-### CAPITULO VIII. DE LAS UNIDADES ADMINISTRATIVAS
+### CAPITULO VIII. DE LAS UNIDADES ADMINISTRATIVASY (SIC) DEL CANAL TELEVISIVO DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 76], G.O. 30 DE MARZO DE 2005)
 
@@ -1314,17 +1326,17 @@ Los miembros integrantes de los Comités serán designados por el Pleno a propue
 
 La Asamblea dispondrá de las unidades administrativas que sean necesarias para el mejor cumplimiento de sus atribuciones y que determine su presupuesto.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 77], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 82.
 
-El nombramiento del Oficial Mayor, Tesorero, Contralor General, Coordinador General de Comunicación Social, Director del Instituto de Investigaciones Parlamentarias, Director de la Unidad de Estudios de Finanzas, así como del titular de la Coordinación de Servicios Parlamentarios, serán propuestos por la Comisión de Gobierno y serán ratificados por el voto de la mayoría de los miembros presentes en la Sesión del Pleno respectiva. La Comisión de Gobierno establecerá los criterios que acrediten la formación profesional, experiencia y habilidades necesarias para desempeñar el cargo correspondiente.
+El nombramiento del Oficial Mayor, Tesorero, Contralor General, Coordinador General de Comunicación Social, Director del Instituto de Investigaciones Parlamentarias, Director de la Unidad de Estudios de Finanzas, del titular de la Coordinación de Servicios Parlamentarios y del titular del Canal de Televisión de la Asamblea Legislativa del Distrito Federal, serán propuestos por la Comisión de Gobierno y serán ratificados por el voto de la mayoría de los miembros presentes en la Sesión del Pleno respectiva. La Comisión de Gobierno establecerá los criterios que acrediten la formación profesional, experiencia y habilidades necesarias para desempeñar el cargo correspondiente.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 78], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 83.
 
-La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Parlamentarias, la unidad de Estudios de Finanzas Públicas, así como el titular de la Coordinación de Servicios Parlamentarios y las demás unidades administrativas que se creen, tendrán las atribuciones que les señale el Reglamento para el Gobierno Interior y otras disposiciones que emita la Asamblea.
+La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Parlamentarias, la unidad de Estudios de Finanzas Públicas, así como el titular de la Coordinación de Servicios Parlamentarios, las demás unidades administrativas que se creen y el Canal de Televisivo de la Asamblea Legislativa del Distrito Federal, tendrán las atribuciones que les señale el Reglamento para el Gobierno Interior y otras disposiciones que emita la Asamblea.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 79], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1339,6 +1351,12 @@ Asimismo, el Instituto es el órgano compilador de las leyes vigentes en el Dist
 El Instituto de Investigaciones Parlamentarias de la Asamblea se regirá por la presente ley y el Reglamento para el Gobierno Interior de la misma.
 
 ARTÍCULO 84 BIS.- (DEROGADO, G.O. 9 DE ENERO DE 2014)
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+ARTÍCULO 84 TER.- El Canal Televisivo de la Asamblea Legislativa del Distrito Federales (sic) el órgano técnico, con vigilancia, administración, manejo y operación de independencia editorial; autonomía de gestión financiera; garantías de participación ciudadana; reglas claras para la transparencia y rendición de cuentas; defensa de sus contenidos; opciones de financiamiento; pleno acceso a las tecnologías; y reglas para la expresión de diversidades étnicas, ideológicas y culturales. De conformidad con el artículo décimo transitorio de la reforma constitucional en materia de telecomunicaciones publicada en el Diario Oficial de la Federación el once de junio de dos mil trece.
+
+Su objetivo será difundir la actividad legislativa y parlamentaria que corresponda a las responsabilidades y actividades de la Asamblea Legislativa, así como contribuir e informar, analizar y discutir pública y ampliamente la situación del entorno local y nacional.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VIII], G.O. 30 DE MARZO DE 2005)
 
@@ -1410,11 +1428,21 @@ ARTÍCULO 87 QUARTER.- El Archivo Histórico de la Asamblea Legislativa podrá s
 
 ARTÍCULO 87 QUINTUS.- En el Archivo Histórico de la Asamblea Legislativa deberán estar depositados los siguientes documentos, además de aquellos que establezcan las disposiciones jurídicas correspondientes:
 
-I. Informes de diputados, comisiones y Mesas Directivas; y
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
-II. Comunicaciones, Iniciativas, Dictámenes, Propuestas, Denuncias y Efemérides presentadas por las diputadas y diputados;
+I. Informes de diputados, comisiones y Mesas Directivas;
 
-Los documentos que posean las diputadas y los diputados, las Comisiones, Comités y Unidades Administrativas, estarán en su posesión para resguardo y consulta del público en general, hasta el final de cada Legislatura, cuando deberán remitirse al Archivo Histórico de la Asamblea Legislativa.
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
+
+II. Comunicaciones, Iniciativas, Dictámenes, Propuestas, Denuncias y Efemérides presentadas por las diputadas y diputados; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2014)</small>
+
+III. Las videograbaciones que genere el Canal Televisivo de la Asamblea Legislativa del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2014)</small>
+
+Los documentos que posean las diputadas y los diputados, las Comisiones, Comités, Unidades Administrativas y el Canal Televisivo de la Asamblea Legislativa del Distrito Federal, estarán en su posesión para resguardo y consulta del público en general, hasta el final de cada Legislatura, cuando deberán remitirse al Archivo Histórico de la Asamblea Legislativa.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE JULIO DE 2007)</small>
 
@@ -1719,6 +1747,118 @@ IV.- Después de tres días de publicadas las propuestas se cerrará la recepci�
 V.- En un término de tres días, después de cerrado el período de entrevistas de los candidatos propuestos, la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal emitirá su dictamen, el cual será sometido al Pleno de la Asamblea para el efecto de su aprobación o no, dichos nombramientos requerirán del voto de la mayoría de los miembros presentes en la sesión de Pleno respectiva.
 
 VI.- En caso de que por cualquier motivo algún miembro del Consejo no concluya el período para el cual fue nombrado, el Presidente de la Comisión de Derechos Humanos del Distrito Federal notificará inmediatamente tal circunstancia a la Asamblea Legislativa del Distrito Federal, la cual procederá conforme a lo dispuesto en las fracciones II, III, IV y V del presente artículo, sin perjuicio de las sustituciones que deban efectuarse ordinariamente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2014)</small>
+
+### CAPÍTULO IV. DEL NOMBRAMIENTO DEL DIRECTOR GENERAL DEL CANAL DE TELEVISIÓN DE LA ASAMBLEA LEGISLATIVA
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 112.
+
+Compete a la Asamblea Legislativa del Distrito Federal nombrar al Director General del Canal Televisivo de la Asamblea Legislativa del Distrito Federal, en los términos que disponga esta Ley.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 113.
+
+El procedimiento para el nombramiento del Director General del Canal de Televisivo de la Asamblea Legislativa del Distrito Federal, se regirá conforme a lo siguiente:
+
+a) Faltando treinta días para la conclusión del período para el que fue nombrado el Director General del Canal Televisivo de la Asamblea Legislativa del Distrito Federal, o inmediatamente, en caso de falta absoluta de éste, el Comité del Canal Televisivo de la Asamblea Legislativa emitirá la convocatoria correspondiente a fin de contar con candidatos para seleccionar al nuevo titular. Cumplido dicho plazo, las propuestas recibidas se mandarán publicar en al menos dos de los diarios de mayor circulación nacional, a fin de que los interesados puedan aportar mayores elementos para la deliberación.
+
+b) Después de cinco días de publicadas las propuestas se cerrarán (sic) la recepción de opiniones y el Comité del Canal Televisivo de la Asamblea Legislativa Distrito Federal sesionará las veces que resulte necesario, citando a los ciudadanos propuestos que sus integrantes consideren necesario, para el efecto de que éste o éstos respondan a los cuestionamientos que les hagan los miembros del Comité.
+
+c) A más tardar siete días después de cerrado el período de entrevistas de los candidatos propuestos, el Comité del Canal Televisivo de la Asamblea Legislativa deberá remitir un informe a la Comisión de Gobierno a fin de que elabore el dictamen correspondiente, el cual será sometido al Pleno de la Asamblea para el efecto de su aprobación, en su caso.
+
+d) El Secretario de la Mesa Directiva leerá al Pleno el acuerdo emitido por la Comisión de Gobierno. Podrá inscribirse para argumentar un Diputado por cada grupo parlamentario, debiéndose cuidar que sea en igual número para los dos sentidos de argumentación, concediéndose el uso de la palabra de manera alternada a los oradores en contra y a los oradores en pro.
+
+e) Terminadas las intervenciones de los Diputados inscritos, el Presidente de la Mesa Directiva someterá a votación el acuerdo presentado por la Comisión de Gobierno de la Asamblea Legislativa.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 114.
+
+El nombramiento del Director General del Canal de Televisión de la Asamblea Legislativa del Distrito, requerirá del voto afirmativo de las dos terceras partes presentes en la sesión correspondiente.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 115.
+
+En caso de que el dictamen no fuese aprobado, se regresará a la Comisión de Gobierno de la Asamblea Legislativa, para que en el término de tres días elabore una nueva propuesta de dictamen considerando a otro de los propuestos a partir del informe que recibió del Comité y cuya aprobación se hará conforme a lo previsto por los artículos anteriores.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 116.
+
+Director General del Canal Televisivo de la Asamblea Legislativa del Distrito Federal rendirá protesta, en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el cargo de Director General del Canal Televisivo de la Asamblea Legislativa del Distrito Federal, mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal, y si así no lo hiciere, que el pueblo me lo demande".
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 117.
+
+El procedimiento para la designación de los miembros del Consejo Consultivo del Canal Televisivo de la Asamblea Legislativa del Distrito Federal, se regirá conforme a lo siguiente:
+
+I. Faltando treinta días para la conclusión del período para el que fue nombrado el Consejero del Canal Televisivo de la Asamblea Legislativa, el Director de éste notificará tal circunstancia a la Asamblea Legislativa del Distrito Federal
+
+II. La Asamblea Legislativa, por conducto de su Comité del Canal Televisivo de la Asamblea Legislativa, convocará de inmediato a los organismos, entidades e instituciones que estime convenientes que se hayan distinguido en materia de comunicación, periodismo para que presenten sus propuestas.
+
+III. Para las propuestas recibidas se mandarán publicar en por lo menos dos de los diarios de mayor circulación nacional, a fin de que los interesados puedan aportar mayores elementos de juicio respecto de las propuestas.
+
+IV. Después de tres días de publicadas las propuestas se cerrará la recepción de opiniones y Comité del Canal Televisivo de la Asamblea Legislativa sesionará las veces que resulte necesario, citando al o a los ciudadanos propuestos que sus integrantes consideren necesario, para el efecto de que respondan a los cuestionamientos que les hagan los miembros del Comité.
+
+V. En un término de tres días, después de cerrado el período de entrevistas de los candidatos propuestos, el Comité del Canal Televisivo de la Asamblea Legislativa deberá remitir un informe a la Comisión de Gobierno a fin de que elabore el dictamen correspondiente, el cual será sometido al Pleno de la Asamblea para el efecto de su aprobación, en su caso.
+
+VI. En caso de que por cualquier motivo algún miembro del Consejo no concluya el período para el cual fue nombrado, el Director General del Canal Televisivo de la Asamblea Legislativa notificará inmediatamente tal circunstancia al Comité, la cual procederá conforme a lo dispuesto en las fracciones II, III, IV y V del presente artículo, sin perjuicio de las sustituciones que deban efectuarse ordinariamente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2014)</small>
+
+## TÍTULO SEXTO. De la difusión e información de las actividades de la Asamblea Legislativa del Distrito Federal
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2014)</small>
+
+### CAPÍTULO ÚNICO. Del Canal Televisivo de la Asamblea Legislativa del Distrito Federal
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 118.
+
+La Asamblea Legislativa del Distrito Federal realizará la más amplia difusión de sus actividades y demás actos para dar cumplimiento a las funciones y obligaciones establecidas en la Constitución, el Estatuto de Gobierno y esta Ley.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 119.
+
+La Asamblea Legislativa, para la difusión de sus actividades, y de acuerdo con la legislación en la materia, contará con el Canal Televisivo que le asigne la autoridad competente, de conformidad con las normas técnicas aplicables.
+
+Todas las actividades del Canal de Televisión de la Asamblea Legislativa del Distrito Federal se realizarán bajo los principios de objetividad, veracidad, ética, pluralidad, equidad, suficiencia, transparencia, oportunidad y con pleno respeto a los derechos humanos.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 120.
+
+Para la conducción de las actividades que desarrolla el Canal, contará con órganos de dirección con autonomía de gestión, técnica y de vigilancia.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 121.
+
+Para la adecuada realización de sus actividades, el Canal Televisivo de la Asamblea Legislativa del Distrito Federal contará con la estructura siguiente:
+
+a) Director del Canal;
+
+b) Consejo Consultivo; y
+
+c) Comité del Canal Televisivo de la Asamblea Legislativa del Distrito Federal, en los términos establecidos por el artículo 79 y demás aplicables de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal y el Reglamento para el Gobierno Interior, así como el Reglamento Interno del propio Canal Televisivo.
+
+Lo anterior con independencia de la estructura que se determine en el Reglamento que se expida para los efectos correspondientes.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 122.
+
+El Canal Televisivo de la Asamblea Legislativa del Distrito Federal debe contribuir a la tarea educativa del Estado Nacional. Sus contenidos habrán de corresponderse a los valores establecidos en el artículo 3º de la Constitución: el amor a la Patria, la solidaridad internacional, la independencia y el ejercicio de la soberanía del Estado, la Justicia, los valores de la Democracia como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo; la dignidad de la persona, la familia, la comunidad; la fraternidad; el civismo en las relaciones ciudadanas; la igualdad de todos los seres humanos, el reconocimiento y el respeto a las comunidades originarias de México, evitando los privilegios de razas, de religión, de grupos, de sexos y de individuos; el respeto y la tolerancia ante las diferencias de ideas, creencias, posiciones políticas, lenguas, procedencia, cultura, nacionalidad, edad sexo y religión.
+
+Deberá contribuir a la educación como un bien irrenunciable y universal para combatir la ignorancia en todas sus manifestaciones; inducir la comprensión de los problemas nacionales y locales; expresar y reafirmar el carácter pluricultural del País; fortalecer el proceso de construcción de ciudadanía para fomentar el ejercicio de los derechos civiles, dando paso a la expresión de las inconformidades de la sociedad, a sus iniciativas y a su participación para resolver los problemas comunes; elevar la condición humana y exaltar los valores de la solidaridad social contra el individualismo y el egoísmo.
 
 ## TRANSITORIOS
 
@@ -2073,3 +2213,29 @@ SÉPTIMO.- La Oficialía Mayor, dentro de los 30 días naturales siguientes a la
 OCTAVO.- A partir de la entrada en vigor del presente Decreto y hasta la extinción y liquidación del Fideicomiso “Fondo de Apoyo a la Educación y el Empleo de las y los jóvenes del Distrito Federal”, el Oficial Mayor será el responsable de cumplir con las obligaciones de transparencia y rendición de cuentas aplicables al caso, y en los términos que determina la Ley y su Reglamento.
 
 NOVENO.- Durante la vigencia del “Programa de Apoyo a la Educación de la Juventud del Distrito Federal” será el Oficial Mayor el responsable de cumplir con las obligaciones de transparencia y rendición de cuentas aplicables al caso, y en los términos que determina la Ley y Reglamento.
+
+G.O. 15 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- A partir de la aprobación del presente Decreto, se constituirá el Comité del Canal Televisivo de la Asamblea Legislativa del Distrito Federal en un plazo no mayor a tres meses a propuesta de la Comisión de Gobierno.
+
+CUARTO.- Para el inicio de las actividades del Canal Televisivo de la Asamblea Legislativa del Distrito Federal, se deberá adquirir herramientas, equipo y tecnología nueva y de vanguardia.
+
+QUINTO.- Por única ocasión el Comité del Canal Televisivo de la Asamblea Legislativa del Distrito Federal contará con treinta días hábiles para emitir la convocatoria para la elección del Director General del Canal.
+
+SEXTO.- Dentro de los treinta días hábiles siguientes a la designación del Director General, este deberá presentar ante el Comité del Canal Televisivo de la Asamblea Legislativa el proyecto de Política Interna de Orden General que contenga la estructura y organización del Canal, que deberá incluir las relaciones de mando y supervisión, las áreas y oficinas que conformen el Canal; así como las normas, lineamientos y políticas relacionadas con las atribuciones de este.
+
+SÉPTIMO.- El equipo tecnológico que sea adquirido por la Asamblea Legislativa del Distrito Federal para el funcionamiento del Canal Televisivo, deberá comprender las características de funcionalidad, vanguardia, efectividad y durabilidad de acuerdo a la transición tecnológica.
+
+OCTAVO.- La Asamblea Legislativa del Distrito Federal deberá celebrar un convenio con alguna Institución Pública a fin de evaluar la idoneidad, así como características de funcionalidad, vanguardia, efectividad y durabilidad del equipo y la tecnología que será utilizada para la operación y las transmisiones del Canal Televisivo.
+
+NOVENO.- Previo a la adquisición de cualquier herramienta tecnológica para llevar a cabo la operación y transmisiones del canal de televisión la Asamblea Legislativa del Distrito Federal deberá contar con la opinión del Instituto Federal de Telecomunicaciones.
+
+DÉCIMO.- La Comisión de Ciencia, Tecnología e Innovación deberá emitir opinión respecto de las compras, adquisiciones y/o arrendamientos que realice la Asamblea Legislativa del Distrito federal, para el funcionamiento y operación del Canal Televisivo.
+
+DÉCIMO PRIMERO.- A la entrada en vigor del presente decreto, se deberán asignar los recursos financieros, materiales y humanos suficientes para el buen desempeño del Canal.
+
+DÉCIMO SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
