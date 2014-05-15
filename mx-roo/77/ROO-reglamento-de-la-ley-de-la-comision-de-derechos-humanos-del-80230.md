@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-ley-de-la-comision-de-derechos-humanos-del-802
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-18"
-last_updated: "2011-02-18"
+last_updated: "2014-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO DE LA LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO DE LA LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 18 de febrero de 2011.
 
@@ -1032,3 +1034,19 @@ Consejera
 Profesora Lilia María Conde Medina
 
 Consejera
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de la Comisión de Derechos Humanos del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado, número 15 Extraordinario, de fecha dieciocho de febrero del año dos mil once.
+
+TERCERO. Se abroga o se deroga cualquier otra disposición legal que se oponga al contenido del presente Reglamento.
+
+CUARTO. Dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Reglamento, el Presidente tomará las medidas necesarias para la operación de las diversas disposiciones contenidas en el mismo.
+
+QUINTO. El Manual de Organización de la Comisión, así como los manuales de procedimientos de cada una de las unidades administrativas, deberán elaborarse dentro de los trescientos sesenta y cinco días posteriores a la entrada en vigor del presente Reglamento.
