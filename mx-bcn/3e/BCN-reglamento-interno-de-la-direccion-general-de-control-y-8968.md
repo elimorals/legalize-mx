@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-direccion-general-de-control-y-8968"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-10-27"
-last_updated: "1995-10-27"
+last_updated: "2014-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA DIRECCION GENERAL DE CONTROL Y EVALUACION GUBERNAMENTAL DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DE LA DIRECCION GENERAL DE CONTROL Y EVALUACION GUBERNAMENTAL DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERNO DE LA DIRECCIÓN GENERAL DE CONTROL Y EVALUACIÓN GUBERNAMENTAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA DIRECCIÓN DE CONTROL Y EVALUACIÓN GUBERNAMENTAL, PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 1995.
 
@@ -662,3 +664,27 @@ LIC. RODOLFO VALDÉZ GUTIÉRREZ
 CONTRALOR GENERAL DEL ESTADO
 
 C.P. ISAURO LÓPEZ CÁRDENAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interno entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno de la Dirección General de Control y Evaluación Gubernamental, publicado en el Periódico Oficial del Estado, de fecha 27 de octubre de 1995.
+
+###### ARTÍCULO TERCERO.
+
+La denominación que en otras leyes, reglamentos y demás disposiciones jurídicas o administrativas de carácter federal, estatal o municipal, se haga de la Contraloría General del Estado, se entenderá referida a la Dirección de Control y Evaluación Gubernamental.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que hasta antes de la entrada en vigor del presente Reglamento Interno, se estuvieran substanciando en las unidades administrativas que en virtud de este ordenamiento se modifican en la estructura de la Dirección de Control y Evaluación Gubernamental, se turnan de inmediato a las unidades administrativas que por efecto del mismo, resulten competentes para la continuación de su trámite.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no se expidan los manuales administrativos que este Reglamento Interno menciona, el Contralor queda facultado para resolver los asuntos que conforme a dichos manuales se deben regular.
