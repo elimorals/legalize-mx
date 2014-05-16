@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5867
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2013-12-16"
+last_updated: "2014-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2014.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2007.
 
@@ -271,7 +271,13 @@ c) De las adjudicaciones directas: los motivos y fundamentos legales aplicados, 
 
 31. Los informes y documentos que presenten los partidos políticos ante el Instituto Estatal Electoral y que contengan: el monto sobre el origen, ejercicio y destino de los recursos que por financiamiento público o por cualquier otra modalidad se les entregue; las auditorias practicadas, las verificaciones o dictámenes que se ordenen y practiquen a dichos institutos; los expedientes que obren en el Instituto; el listado de partidos políticos y demás organizaciones registradas conforme a la ley; los nombres y funciones de quienes desempeñen dentro de los partidos un cargo de dirección partidista; las actas y acuerdos de los órganos internos de los partidos; y los cómputos totales de las elecciones.
 
-32. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por las personas.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
+
+32. La cuenta pública y los Informes de Avance de Gestión Financiera, en los términos y plazos que determina el derecho positivo local.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2014)</small>
+
+33. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por las personas.
 
 ###### Artículo 11.
 
@@ -1324,3 +1330,7 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo Segundo. El Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, deberá modificar su reglamentación en lo conducente dentro de los 60 días naturales contados a partir de su vigencia.
 
 Artículo tercero. Se derogan todas las disposiciones legales y administrativas que contravengan el presente decreto.
+
+P.O. 16 DE MAYO DE 2014.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
