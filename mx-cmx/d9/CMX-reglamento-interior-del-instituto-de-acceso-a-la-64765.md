@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-64765"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-26"
-last_updated: "2012-12-03"
+last_updated: "2014-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64765&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-12-10"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial de la Federación, el viernes 26 de diciembre de 2008.
 
@@ -1290,6 +1290,14 @@ Las ausencias del Secretario Técnico, del Secretario Ejecutivo, del Contralor y
 
 En caso de ausencia definitiva del Presidente, el Secretario Técnico, previa aprobación del Pleno, dará aviso a la Asamblea Legislativa del Distrito Federal, para que proceda conforme a los artículos 66, 67 y 68 de la Ley de Transparencia.
 
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2014)</small>
+
+En tanto la Asamblea Legislativa del Distrito Federal efectúa el nombramiento del Presidente en términos de los artículos referidos en el párrafo anterior, las atribuciones establecidas en las fracciones XVII, XXI y XXVI del artículo 13 del presente Reglamento, serán ejercidas de común acuerdo o por mayoría de los Comisionados Ciudadanos.
+
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2014)</small>
+
+En el caso de la atribución prevista en la fracción III del artículo 13 de este Reglamento, en relación con los artículos 70, 71, párrafo primero, y 72, fracción IV de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, el Comisionado Ciudadano designado por sus pares para presidir la sesión del Pleno del Instituto, antes de concluir ésta, convocará públicamente a la próxima sesión del Pleno, ordenando al Secretario Técnico la remisión del orden del día y documentos correspondientes conforme los procedimientos ordinarios establecidos para el efecto. En forma excepcional y para el tratamiento de asuntos con carácter de urgente resolución, la mayoría de los Comisionados Ciudadanos podrá convocar a sesión extraordinaria del Pleno del Instituto.
+
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Artículo 33.
@@ -1322,7 +1330,9 @@ I. Cualquiera de los Comisionados Ciudadanos podrá presentar propuestas de refo
 
 II. El Pleno del Instituto determinará lo conducente ya sea rechazando, aprobando o modificando la propuesta de reforma planteada; y
 
-III. Aprobada la modificación, quedará incorporada de inmediato al texto del Reglamento, debiendo ordenarse su publicación en la Gaceta Oficial del Distrito Federal para su entrada en vigor.
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2014)</small>
+
+III. Al momento de que el Pleno del INFODF apruebe la adición, modificación, derogación o abrogación que se indica, éstas entran en vigor, y se ordenará su publicación en la Gaceta Oficial del Distrito Federal para los efectos correspondientes.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -1337,3 +1347,7 @@ G.O. 28 DE OCTUBRE DE 2011.
 G.O. 3 DE DICIEMBRE DE 2012.
 
 ÚNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 16 DE MAYO DE 2014.
+
+Transitorio Único: Publíquese en la Gaceta Oficial de (sic) Distrito Federal.
