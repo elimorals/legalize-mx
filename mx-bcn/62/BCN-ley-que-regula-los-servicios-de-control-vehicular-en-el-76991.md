@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2014-01-24"
+last_updated: "2014-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2014.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -1029,10 +1029,14 @@ SEGUNDO.- No se encontrarán obligados a la realización de la verificación veh
 
 P.O. 24 DE ENERO DE 2014.
 
-PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- A partir de la vigencia del presente Decreto y dentro de los 100 días naturales contado a partir de su publicación, quienes realicen el canje de tarjetas de circulación de vehículos, no les será exigible el requisito a que hace referencia el artículo 29 fracción VII, de la Ley que regula los Servicios de Control Vehicular en el Estado de Baja California.
 
-TERCERO.- Los propietarios o poseedores de los automóviles que durante el 2012 y 2013 hubieren realizado la verificación vehicular conforme a los programas respectivos, estarán exentos de acreditar dicho requisito, para el canje de tarjeta de circulación.
+TERCERO.- (DEROGADO, P.O. 16 DE MAYO DE 2014)
 
 CUARTO.- El Ejecutivo del estado deberá adoptar de manera inmediata las medidas necesarias para la correcta aplicación del presente Decreto, debiendo en su caso, modificar el Programa de Verificación Vehicular 2014.
+
+P.O. 16 DE MAYO DE 2014.
+
+ÚNICO.- Las presentes reformas entraran en vigor al día siguiente de su publicación.
