@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2014-05-02"
+last_updated: "2014-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -233,6 +233,10 @@ I. Tener voz y voto en las sesiones del Pleno del Congreso y en las de la Diputa
 
 II. Ser integrantes de cuando menos una comisión o comité, pudiendo formar parte de más, sin que esta participación pueda exceder de cinco casos entre comisiones permanentes y comités;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MAYO DE 2014)</small>
+
+Excepcionalmente, los Diputados podrán formar parte de mas comisiones o comités de los señalados en el párrafo anterior, cuando así lo acuerden los integrantes de la Junta de Gobierno, tomando en consideración la proporcionalidad del numero de integrantes de los grupos parlamentarios y partidos políticos representados en el Congreso;
+
 III. Asistir a los trabajos de cualquier comisión o comité del que no forme parte, con voz pero sin voto;
 
 IV. Elegir y ser electos para integrar la Mesa Directiva y la Diputación Permanente del Congreso;
@@ -243,9 +247,15 @@ VI. Formar parte de un grupo parlamentario, siempre y cuando se cumpla con los r
 
 VII. Percibir por concepto de dieta, una remuneración que incluye en la misma, como parte integral, las prestaciones y viáticos que les permita desempeñar con decoro y eficacia su función. En ningún caso podrán percibir, durante su encargo o al finalizar este, retribuciones no autorizadas de manera expresa en el Presupuesto de Egresos, cualquiera que sea su denominación;
 
-VIII. Solicitar licencia para separarse del cargo en los términos de ley; y
+VIII. Solicitar licencia para separarse del cargo en los términos de ley; y (sic)
 
-IX. Contar con los recursos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades físicas, materiales y presupuestales del Congreso.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
+
+IX. Contar con acceso a todos los documentos e información del Congreso, de las comisiones y comités, así como de la Junta de Gobierno, sin restricción alguna; debiendo en su caso, guardar reserva sobre los datos conocidos si así los establecen las leyes o lo solicita con la debida justificación el Presidente de la Junta de Gobierno, el coordinador de la comisión responsable de la información dada a conocer, o por acuerdo previo de la Diputación Permanente o el Pleno.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2014)</small>
+
+X. Contar con los recursos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades físicas, materiales y presupuestales del Congreso.
 
 ###### ARTÍCULO 23.
 
@@ -267,7 +277,13 @@ VII. Responder de sus actos y omisiones en los términos de ley;
 
 VIII. Justificar ante la Mesa Directiva las inasistencias a las sesiones del Congreso; o ante la Diputación Permanente; o ante las Comisiones o Comités, cuando formen parte de las mismas;
 
-IX. Informar a la Mesa Directiva o, en su caso, a la Diputación Permanente del Congreso, sobre el cumplimiento y resultados de las encomiendas, representaciones y comisiones especiales que se les asignen.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
+
+IX. Informar a la Mesa Directiva o, en su caso, a la Diputación Permanente del Congreso, sobre el cumplimiento y resultados de las encomiendas, representaciones y comisiones especiales que se les asignen y;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2014)</small>
+
+X. Presentar por lo menos un informe anual por escrito sobre las actividades y trabajos desempeñados en el ejercicio de su función legislativa; dicho informe deberá publicarse en la página del Congreso.
 
 ### CAPÍTULO III. DE LOS GRUPOS PARLAMENTARIOS
 
@@ -379,6 +395,10 @@ Tratándose de faltas temporales, al presentarse el propietario, cesará en sus 
 
 Cuando un diputado se vea impedido para desempeñar su cargo por enfermedad o accidente, se le considerará en ejercicio hasta por tres meses, previa solicitud del mismo, y disfrutará de la dieta correspondiente, pero si transcurren éstos y la causa continúa, se llamará al suplente, acordándose respecto del diputado enfermo o incapacitado, lo que la Junta de Gobierno estime conveniente, considerando las circunstancias de cada caso.
 
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2014)</small>
+
+Cuando un diputado se vea impedido para desempeñar su cargo por enfermedad o accidente, se le considerará en ejercicio hasta por tres meses, previa solicitud del mismo, y disfrutará de la dieta correspondiente, pero si transcurren éstos y la causa continúa, se llamará al suplente, acordándose respecto del diputado enfermo o incapacitado, lo que la Junta de Gobierno estime conveniente, garantizándosele la atención medica y el seguro de vida, considerando las circunstancias de cada caso.
+
 ###### ARTÍCULO 38.
 
 Cuando algún diputado falte al Pleno por tres sesiones consecutivas, sin causa justificada o sin previa comunicación de acuerdo a lo previsto en esta Ley, el presidente de la Mesa Directiva informará al Pleno lo anterior en la sesión inmediata siguiente a aquella en que ocurra la tercera falta y se declarará que se tiene por entendido que el diputado renuncia a concurrir hasta el período ordinario inmediato, procediéndose, asimismo, a llamar al suplente, para que asuma las funciones a partir del momento que se determine.
@@ -401,7 +421,9 @@ Los diputados se conducirán, en todo momento, con apego a principios que privil
 
 Los diputados tendrán como deber fundamental la salvaguarda del principio de legalidad; desempeñándose con probidad, lealtad y decoro en el cargo o comisión que le han sido conferidos, quedando obligados a observar los siguientes deberes:
 
-I. Cumplir con diligencia sus funciones de diputado y abstenerse de efectuar cualquier acto que cause demora o negligencia en su actividad parlamentaria o implique el ejercicio indebido de su cargo o comisión;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
+
+I. Cumplir con diligencia sus funciones de diputado y abstenerse de efectuar cualquier acto que cause demora o negligencia en su actividad parlamentaria o implique el ejercicio indebido de su cargo o comisión; deberán abstenerse de participar en asuntos del Congreso, de las comisiones y comités en los que tenga un interés personal o conflicto de intereses, de conformidad a lo establecido en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
 
 II. Utilizar los recursos humanos y materiales a su servicio, así como la información privilegiada a la que tenga acceso con motivo de su función, exclusivamente para los fines de su cargo o comisión;
 
@@ -565,7 +587,9 @@ VIII. Participar en las discusiones, conforme a las reglas establecidas para los
 
 IX. Declarar, después de tomadas las votaciones por conducto de uno de los Secretarios, aprobadas o desechadas las mociones, proposiciones, proyectos o dictámenes que correspondan;
 
-X. Turnar a las comisiones correspondientes las iniciativas presentadas;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
+
+X. Turnar a las comisiones correspondientes las iniciativas presentadas, conforme a la materia de las mismas y, en su caso, a otra comisión que también debiera o pudiera conocer de las mismas;
 
 XI. Convocar de inmediato al Pleno a sesión para tratar los asuntos que no admitan demora;
 
@@ -773,7 +797,9 @@ XXII. La Comisión del (sic) Transparencia y Acceso a la Información.
 
 La Comisión de Gobernación, Puntos Constitucionales y Justicia conocerá de los asuntos relacionados con:
 
-I. Reformas a la Constitución Política de los Estados Unidos Mexicanos, iniciativas de reforma a la Constitución Política del Estado, iniciativas para la expedición o reforma de códigos en materia municipal y de leyes, iniciativas en materia de acceso a la información pública, e iniciativas de decretos relacionados con las materias y aspectos que sean o se consideren de su competencia;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
+
+I. Reformas a la Constitución Política de los Estados Unidos Mexicanos, iniciativas de reforma a la Constitución Política del Estado, iniciativas para la expedición o reforma de códigos en materia municipal y de leyes, iniciativas en materia de acceso a la información pública, e iniciativas de decretos relacionados con las materias y aspectos que sean o se consideren de su competencia; así como de las omisiones legislativas y errores plasmados en los ordenamientos que ya han sido promulgados.
 
 II. División territorial y organización política y administrativa del Estado y de los Municipios, y la modificación de límites intermunicipales;
 
@@ -1305,9 +1331,11 @@ Las reuniones de las comisiones se celebrarán en la fecha señalada en la convo
 
 De cada reunión de las comisiones, se levantará un registro sobre los datos fundamentales de la reunión y de los acuerdos a los cuales se llegue.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 99.
 
-Los dictámenes, informes o acuerdos que las comisiones elaboren sobre los asuntos que les hayan sido turnados y que no se lleguen a presentar para aprobación, se dejarán a disposición de la siguiente legislatura con el carácter de proyectos.
+Los dictámenes, informes o acuerdos que las comisiones elaboren sobre los asuntos que les hayan sido turnados y que no se lleguen a presentar para aprobación, se dejarán a disposición de la siguiente legislatura con el carácter de proyectos. La legislatura entrante deberá remitir los proyectos recibidos a las comisiones que estime pertinentes para continuar con el trámite respectivo de cada uno de ellos.
 
 ###### ARTÍCULO 100.
 
@@ -1373,7 +1401,13 @@ I. Comité de Adquisiciones;
 
 II. Comité Editorial; y
 
-III. Los demás que se creen conforme a las disposiciones de este capítulo.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
+
+III. Comité de Administración Presupuestal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2014)</small>
+
+IV. Los demás que se creen conforme a las disposiciones de este capítulo.
 
 ###### ARTÍCULO 111.
 
@@ -1413,9 +1447,29 @@ II. Establecer las bases para organizar, modernizar e impulsar las actividades, 
 
 III. Promover la difusión de las publicaciones editoriales;
 
-IV. Difundir los documentos legislativos, políticos e históricos existentes en archivo del Congreso del Estado; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
+
+IV. Publicar en la página del Congreso la relación de los documentos legislativos, políticos e históricos existentes en archivo del Congreso del Estado; así como las iniciativas de reforma a la legislación del Estado con sus respectivas exposiciones de motivos. Esto independientemente de que pueda difundirse esta información por otros medios.
 
 V. Las demás que se acuerden por el Pleno, la Diputación Permanente, o la Junta de Gobierno, en virtud de ser necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2014)</small>
+
+ARTÍCULO 112 BIS. El Comité de Administración Presupuestal tendrá el carácter de permanente, y se encargara de coadyuvar con la Presidencia de la Junta de Gobierno en el diseño del presupuesto anual del Congreso del Estado, dando seguimiento a su ejercicio. Su desempeño se regirá conforme a los principios de transparencia, eficiencia y rendición de cuentas.
+
+Para el cumplimiento de estas funciones, el Comité de Administración Presupuestal tendrá las siguientes atribuciones:
+
+I. Participar de manera conjunta con el Presidente de la Junta de Gobierno, en el diseño del presupuesto anual que será presentado en su momento a la Junta de Gobierno.
+
+II. Dar seguimiento trimestral al ejercicio del presupuesto anual asignado al Congreso del Estado.
+
+III. Presentar por escrito a la Junta de Gobierno el análisis, opiniones, observaciones y sugerencias respecto al ejercicio presupuestal del Congreso.
+
+IV. Participar en las tareas de enriquecer el patrimonio del Congreso del Estado y de incrementar sus recursos financieros.
+
+V. Reunirse cuando menos una vez al mes en las instalaciones del Congreso, para analizar y resolver los asuntos que sean de su competencia. A las reuniones que se celebren, tendrán derecho a asistir con voz pero sin voto, las demás Diputadas y Diputados que no formen parte del Comité.
+
+VI. El Comité se reunirá con el Presidente de la Junta de Gobierno o con el Tesorero del Congreso, cuando lo considere necesario, o cuando ellos así lo soliciten.
 
 ## TÍTULO QUINTO. DE LA DIPUTACIÓN PERMANENTE
 
@@ -1699,7 +1753,9 @@ Las disposiciones para el desarrollo de las sesiones, no contempladas en la Cons
 
 El derecho de iniciar leyes y decretos compete:
 
-I. A los Diputados;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
+
+I. A los Diputados, los cuales tendrán, además, la facultad exclusiva de modificar la presente ley;
 
 II. Al Gobernador del Estado;
 
@@ -1707,11 +1763,21 @@ III. Al Tribunal Superior, en materia de Administración de Justicia y Codificac
 
 IV. A los Ayuntamientos del Estado, en todo lo concerniente a su competencia municipal. En este caso, la iniciativa se presentará por conducto del Presidente Municipal, previo acuerdo de la mayoría de los miembros presentes del Ayuntamiento;
 
-V. Al Instituto Electoral y de Participación Ciudadana de Coahuila, en todo lo concerniente a su competencia. En este caso, la iniciativa se presentará por conducto del Consejero Presidente, previo acuerdo del Consejo General;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2014)</small>
+
+V. A los organismos públicos autónomos, que en la ley de su creación tienen facultades de iniciativa, en todo lo concerniente a su competencia. En estos casos, la iniciativa se presentara por conducto del Presidente del organismo, previo acuerdo del Consejo General.
 
 VI. Al Instituto Coahuilense de Acceso a la Información Pública, a través del Consejo General, en materia de acceso a la información pública; de protección de datos personales; y de administración, conservación y preservación de la documentación pública; y
 
 VII. A los ciudadanos coahuilenses y a los que sin serlo acrediten que han residido en el Estado por más de tres años. Este derecho se ejercerá en los términos que establezca la ley de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MAYO DE 2014)</small>
+
+Los Diputados podrán adherirse o en su caso, hacer propias las Iniciativas que sean presentadas por los sujetos a que se refiere (sic) las fracciones II a VI del presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MAYO DE 2014)</small>
+
+La reforma a la Ley Orgánica del Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, le corresponde única y exclusivamente a los Diputados
 
 ###### ARTÍCULO 145.
 
@@ -2865,6 +2931,24 @@ P.O. 2 DE MAYO DE 2014.
 
 PRIMERO.- El presente decreto entrara en vigor al momento de su publicación en el Periódico Oficial de Gobierno del Estado de Coahuila de Zaragoza.
 
-SEGUNDO.- La Comisión que se crea mediante el presente decreto se integrara por los coordinadores de las Comisiones de Gobernación, Puntos Constitucionales y Justicia, de Finanzas y de Hacienda y Cuenta Pública; así como por dos Diputados nombrados por el Pleno a propuesta de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
+
+SEGUNDO.- La Comisión que se crea mediante el presente Decreto se integrará por los coordinadores de las Comisiones de Gobernación, Puntos Constitucionales y Justicia, de Finanzas y de Hacienda y Cuenta Pública; así como por seis Diputados nombrados por el Pleno a propuesta de la Junta de Gobierno.
 
 TERCERO.- Se derogan todas las disposiciones contrarias al presente decreto
+
+P.O. 16 DE MAYO DE 2014.
+
+DECRETO NÚMERO 493, QUE MODIFICA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 488 EMITIDO CON FECHA 29 DE ABRIL DEL AÑO EN CURSO DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO.- El presente Decreto surtirá efectos a partir del momento de su aprobación y en forma inmediata se procederá a la integración de la Comisión de Transparencia y Acceso a la Información, conforme a lo establecido en el mismo.
+
+SEGUNDO.- Publíquese este Decreto en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 16 DE MAYO DE 2014.
+
+DECRETO NO. 494, QUE REFORMA LOS ARTÍCULOS 22 FRACCIÓN II, IX Y X, 23 FRACCIÓN X, 37, 41 FRACCIÓN I, 54 FRACCIÓN X, 68 FRACCIÓN I, 99, 110, 112, 144 Y SE ADICIONA UN ARTÍCULO 112 BIS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO.- El presente Decreto surtirá efectos a partir del momento de su aprobación.
+
+SEGUNDO.- Publíquese este Decreto en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
