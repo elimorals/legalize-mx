@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-99752"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2014-03-20"
+last_updated: "2014-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO EN LO RELATIVO A LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL, LA VIGENCIA SERÁ GRADUAL Y REGIONAL, DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE ESTA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -455,9 +455,17 @@ a) La apelación contra sentencias definitivas;
 
 b) La apelación contra resoluciones que concedan o nieguen cualquier tipo de libertad al inculpado;
 
-c) La apelación contra resoluciones que deriven de procesos que se sigan por delitos graves; y
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
 
-d) Las apelaciones derivadas de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
+c) La apelación contra resoluciones que deriven de procesos que se sigan por delitos graves;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
+
+d) Las apelaciones derivadas de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales; y
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2014)</small>
+
+e) Los recursos en el que les otorgue competencia objetiva esta Ley u otras disposiciones aplicables; y
 
 II. En el Sistema Penal Acusatorio Adversarial:
 
@@ -465,9 +473,17 @@ a) La apelación contra sentencias definitivas;
 
 b) La revisión extraordinaria;
 
-c) La apelación contra resoluciones que concedan o nieguen cualquier tipo de medida cautelar de carácter personal; y
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
 
-d) Las apelaciones derivadas de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
+c) La apelación contra resoluciones que concedan o nieguen cualquier tipo de medida cautelar de carácter personal;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2014)</small>
+
+d) Las apelaciones derivadas de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales; y
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2014)</small>
+
+e) Los recursos en el que les otorgue competencia objetiva esta Ley u otras disposiciones aplicables.
 
 En ambos sistemas, los demás asuntos se resolverán de manera unitaria, así como las apelaciones y demás recursos procedentes contra las resoluciones de los jueces de ejecución de sanciones penales.
 
@@ -491,7 +507,7 @@ V. Las demás que le confieran la presente Ley y otras disposiciones aplicables.
 
 La Sala Especializada en Justicia para Adolescentes, conocerá de los asuntos que señale la ley de la materia.
 
-Resolverá de manera colegiada, tratándose de sentencia; en los demás casos resolverá de forma unitaria.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE MAYO DE 2014)</small>
 
 ###### Artículo 39.
 
@@ -2455,6 +2471,10 @@ b) El 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Mont
 
 c) El 30 de marzo de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
 
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2014)</small>
+
+Por cuanto ve al Juzgado Especializado en Ejecución de Sanciones Penales, creado por el Pleno del Tribunal Superior de Justicia en sesión del 17 de junio de 2011, tendrá las facultades a que refiere el Artículo 94 de esta Ley, con excepción del último párrafo; las que deberá ejercer a partir de la implementación del Sistema Penal Acusatorio Adversarial, en la gradualidad que establecen los incisos anteriores.
+
 Artículo Tercero. Se abroga la Ley Orgánica del Poder Judicial del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” número 69, de fecha 17 de diciembre de 2008.
 
 Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
@@ -2498,3 +2518,11 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MAYO DE 2014.
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
