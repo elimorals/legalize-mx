@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-72610"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-23"
-last_updated: "2012-09-15"
+last_updated: "2014-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA
 
-LEY DEL SISTEMA DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA
+LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de enero de 2010.
 
@@ -67,7 +67,9 @@ V. Regular los servicios de seguridad privada en la entidad;
 
 VI. Promover e impulsar la participación social en la prevención de los delitos y faltas administrativas; y
 
-VII. Regular la información sobre seguridad pública.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2014)</small>
+
+VII. Regular la información sobre seguridad pública y la concerniente al Registro Público Vehicular.
 
 ###### ARTÍCULO 2.
 
@@ -159,23 +161,35 @@ XXI. Protocolo de evaluación: aquellos que se adopten como procedimientos de ev
 
 XXII. Protocolos de investigación: aquellos que se adopten como métodos de investigación que garanticen la recopilación técnica y científica de evidencias que permitan la acreditación del hecho delictivo y la probable responsabilidad del inculpado, por parte de las instituciones de seguridad pública;
 
-XXIII. Registro Estatal: al Registro Estatal de Personal de Seguridad Pública;
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
 
-XXIV. Secretaría: a la Secretaría General de Gobierno;
+XXIII. Registro: al Registro Público Vehicular del Estado de Colima;
 
-XXV. Secretario: al Secretario General de Gobierno;
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
 
-XXVI. Secretaría de Seguridad Pública: a la Secretaría de Seguridad Pública;
+XXIV. Repuve: Al Registro Público Vehicular;
 
-XXVII. Secretario de Seguridad Pública: al Secretario de Seguridad Pública;
+XXV. Registro Estatal: al Registro Estatal de Personal de Seguridad Pública;
 
-XXVIII. Secretario Ejecutivo: al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
+XXVI. Secretaría: a la Secretaría General de Gobierno;
 
-XXIX. Secretario Ejecutivo Municipal: al Secretario Ejecutivo del Consejo Municipal de cada Ayuntamiento;
+XXVII. Secretario: al Secretario General de Gobierno;
 
-XXX. Sistema: el Sistema Estatal de Seguridad Pública; y
+XXVIII. Secretaría de Seguridad Pública: a la Secretaría de Seguridad Pública;
 
-XXXI. Sistema Nacional: al Sistema Nacional de Seguridad Pública.
+XXIX Secretario de Seguridad Pública: al Secretario de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
+
+XXX. Secretariado Ejecutivo: al Secretariado Ejecutivo del Sistema Estatal De Seguridad Pública;
+
+XXXI. Secretario Ejecutivo: al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+XXXII. Secretario Ejecutivo Municipal: al Secretario Ejecutivo del Consejo Municipal de cada Ayuntamiento;
+
+XXXIII. Sistema: el Sistema Estatal de Seguridad Pública; y
+
+XXXIV. Sistema Nacional: al Sistema Nacional de Seguridad Pública.
 
 ###### ARTÍCULO 6.
 
@@ -187,29 +201,33 @@ II. Formular políticas integrales, sistemáticas, continuas y evaluables, así 
 
 III. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones, a través de las instancias previstas en esta Ley;
 
-IV. Proponer, ejecutar y evaluar los programas e instrumentos programáticos en materia de seguridad pública, previstos en esta Ley y los demás que se desprenden del Sistema Nacional y Estatal de Seguridad Pública;
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
 
-V. Distribuir a los integrantes del Sistema, actividades específicas para el cumplimiento de los fines de la seguridad pública;
+IV. Realizar las acciones de verificación física y documental de vehículos, bajo los lineamientos establecidos en la Ley del Registro Público Vehicular, su Reglamento y demás disposiciones aplicables;
 
-VI. Regular los procedimientos de selección, ingreso, formación, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación y registro de los servidores públicos de las instituciones de seguridad pública;
+V. Proponer, ejecutar y evaluar los programas e instrumentos programáticos en materia de seguridad pública, previstos en esta Ley y los demás que se desprenden del Sistema Nacional y Estatal de Seguridad Pública;
 
-VII. Regular los sistemas disciplinarios, así como de reconocimientos, estímulos y recompensas;
+VI. Distribuir a los integrantes del Sistema, actividades específicas para el cumplimiento de los fines de la seguridad pública;
 
-VIII. Determinar criterios uniformes para la organización, operación y modernización tecnológica de las Instituciones de seguridad pública;
+VII. Regular los procedimientos de selección, ingreso, formación, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación y registro de los servidores públicos de las instituciones de seguridad pública;
 
-IX. Establecer y controlar bases de datos criminalísticos y de persona;
+VIII. Regular los sistemas disciplinarios, así como de reconocimientos, estímulos y recompensas;
 
-X. Realizar acciones y operativos conjuntos de las instituciones de seguridad pública;
+IX. Determinar criterios uniformes para la organización, operación y modernización tecnológica de las Instituciones de seguridad pública;
 
-XI. Participar en la protección y vigilancia de las instalaciones estratégicas del Estado, en los términos de esta Ley y demás disposiciones aplicables;
+X. Establecer y controlar bases de datos criminalísticos y de persona;
 
-XII. Determinar la participación de la comunidad y de las instituciones académicas, en coadyuvancia de los procesos de evaluación de las políticas de prevención del delito, así como de las instituciones de seguridad pública, a través de mecanismos eficaces;
+XI. Realizar acciones y operativos conjuntos de las instituciones de seguridad pública;
 
-XIII. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
+XII. Participar en la protección y vigilancia de las instalaciones estratégicas del Estado, en los términos de esta Ley y demás disposiciones aplicables;
 
-XIV. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a estos; y
+XIII. Determinar la participación de la comunidad y de las instituciones académicas, en coadyuvancia de los procesos de evaluación de las políticas de prevención del delito, así como de las instituciones de seguridad pública, a través de mecanismos eficaces;
 
-XV. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
+XIV. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
+
+XV. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a estos; y
+
+XVI. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
 
 ###### ARTÍCULO 7.
 
@@ -580,6 +598,26 @@ XXII. Coordinar actividades formativas en materia de prevención social de la vi
 XXIII. Fortalecer la participación ciudadana en la prevención de la violencia y la delincuencia; y
 
 XXIV. Las demás que establezcan otras disposiciones, el Consejo Estatal y el Gabinete de Seguridad.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2014)</small>
+
+ARTÍCULO 19 TER.- El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, estará a cargo del Registro Público Vehicular, el cual fungirá como instrumento de información del Sistema Nacional de Seguridad Pública, mismo que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos.
+
+El Secretario Ejecutivo, en materia de Registro Público Vehicular, tendrá las siguientes atribuciones:
+
+I. Establecer los objetivos, líneas de acción y mecanismos para la operación, funcionamiento y administración de la base de datos del Repuve, acorde a la Legislación Federal;
+
+II. Implementar las acciones y procesos para el almacenamiento, grabado y colocación de las constancias de inscripción del Repuve, en coordinación con la Dirección General de Transporte y de la Seguridad Vial;
+
+III. Diseñar y operar las Reglas para el suministro, intercambio, sistematización, consulta y actualización de la información contenida en la base de datos del Repuve;
+
+IV. Integrar, coordinar, desarrollar y administrar la infraestructura tecnológica, los sistemas, procedimientos y lineamientos destinados a la conformación, actualización y operación en línea de la base de datos del Repuve;
+
+V. En coordinación con la Dirección General de Transporte y de la Seguridad Vial, la Procuraduría General de Justicia, la Secretaría de Seguridad Pública y las Direcciones de Seguridad Pública, Tránsito y Vialidad de los Ayuntamientos establecerá un programa permanente de verificación física y documental de vehículos bajo los lineamientos del Sistema Nacional de Seguridad Pública; y
+
+VI. Será el único facultado para la impresión, grabado y colocación de la constancia de inscripción del Repuve que a él le compete, para lo cual este trámite será gratuito.
+
+El acceso, suministro, consulta y actualización de datos del Repuve a cargo del Secretario Ejecutivo, será a través de los mecanismos de seguridad y mediante las claves de acceso establecidas por el Sistema Nacional de Seguridad Pública.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1386,6 +1424,18 @@ La Secretaría de Seguridad Pública y la Procuraduría General de Justicia, imp
 Los integrantes del Sistema están obligados a compartir la información sobre seguridad pública que obre en sus bases de datos, con las de la unidad de sistematización, en los términos de las disposiciones normativas aplicables.
 
 La información contenida en las bases de datos del Sistema Nacional de Información sobre seguridad pública, podrá ser certificada por la autoridad respectiva y tendrá el valor probatorio que las instancias de coordinación determinen.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2014)</small>
+
+ARTÍCULO 85 BIS.- La Procuraduría General de Justicia y la Secretaría de Seguridad Pública, informarán de manera permanente al Secretariado Ejecutivo los datos necesarios para el suministro y actualización de la base de datos del Repuve, informando en todo momento lo siguiente:
+
+I. Robo;
+
+II. Recuperación y entrega de vehículos;
+
+III. Destrucción, aseguramiento y decomiso; y
+
+IV. Otros datos con los que se cuente.
 
 ###### ARTÍCULO 86.
 
@@ -3400,3 +3450,15 @@ Asimismo, toda referencia que se haga a la Dirección General de la Policía Est
 CUARTO.- Toda referencia que se haga en las demás disposiciones legales, respecto de las funciones y obligaciones del Instituto de Formación Policial se entenderá que se refieren al Instituto de Capacitación Policial, por lo que los bienes y personal se transfieren.
 
 QUINTO.- Se autoriza al Ejecutivo del Estado, a realizar a través de la Secretaría de Finanzas y Administración, las transferencias de recursos financieros de las partidas presupuestales que correspondan, para el efecto de garantizar los recursos materiales y humanos necesarios para el funcionamiento de las instancias y estructuras establecidas en el presente Decreto.
+
+P.O. 17 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La colocación de las constancias de inscripción del Repuve dependiente del Secretariado Ejecutivo, se realizará durante el periodo de la presente administración gubernamental estatal.
+
+TERCERO.- Las acciones que en su caso deba realizar el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública para dar cumplimiento al presente Decreto, se sujetarán a los recursos humanos, financieros y materiales con los que actualmente cuenta.
+
+CUARTO.- Las inscripciones, avisos y demás actos que se hayan realizado con anterioridad a la entrada en vigor del presente Decreto, conservarán plena validez y vigencia.
+
+QUINTO.- La Secretaría de Seguridad Pública y la Procuraduría General de Justicia proporcionarán al Secretariado Ejecutivo en un plazo no mayor a 180 días naturales, a partir de la Publicación del presente Decreto, la información relativa a los hechos delictivos relacionados con vehículos y de la cual dispusieran a la entrada en vigor de esta disposición, a efecto de integrar la base de datos del Registro Público Vehicular.
