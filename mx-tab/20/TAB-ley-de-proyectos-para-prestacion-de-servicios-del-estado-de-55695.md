@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proyectos-para-prestacion-de-servicios-del-estado-de-556
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-02"
-last_updated: "2007-05-02"
+last_updated: "2014-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE PROYECTOS PARA PRESTACION DE SERVICIOS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-LEY DE PROYECTOS PARA PRESTACION DE SERVICIOS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
+LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 17 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 2 de mayo de 2007.
 
@@ -578,3 +580,13 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado emitirá el Reglamento de esta Ley.
+
+TERCERO. Se abroga la Ley de Proyectos para Prestación de Servicios del Estado de Tabasco y sus Municipios, publicada en el Periódico Oficial del Estado de Tabasco, suplemento C 6746, del 2 de mayo de 2007; así como cualquier otra disposición que contravenga la presente Ley.
