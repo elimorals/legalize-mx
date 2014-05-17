@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2014-02-01"
+last_updated: "2014-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2014 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -61,11 +63,11 @@ LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
 La presente Ley es de orden público e interés social y tiene por objeto regular el servicio de transporte en todas sus modalidades, así como de establecer las condiciones para la seguridad vial teniendo como prioridad la planeación, la prevención, la capacitación y el bienestar de la población en general dentro de la jurisdicción del Estado y sus municipios.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 2.
 
-El Ejecutivo del Estado, a través de la Secretaría y de la Dirección General, implementará políticas y acciones en materia de planeación, organización, regulación y otorgamiento, a personas físicas o morales, de concesiones, permisos y autorizaciones de los servicios auxiliares y demás elementos necesarios coadyuvantes e inherentes, para la prestación del servicio de transporte en el Estado y sus municipios, así como lo referente a las medidas de prevención, capacitación y sanción para fomentar la seguridad vial, conforme a lo dispuesto por este ordenamiento y legislación aplicable.
+El Ejecutivo del Estado, a través de la Secretaría, el Secretariado Ejecutivo y la Dirección General, implementará políticas y acciones en materia de planeación, organización, regulación y otorgamiento, a personas físicas o morales, de concesiones, permisos y autorizaciones de los servicios auxiliares y demás elementos necesarios coadyuvantes e inherentes, para la prestación del servicio de transporte en el Estado y sus municipios, así como lo referente a las medidas de prevención, capacitación y sanción para fomentar la seguridad vial, conforme a lo dispuesto por este ordenamiento y legislación aplicable.
 
 ###### ARTÍCULO 3.
 
@@ -133,41 +135,53 @@ I. Ejecutivo del Estado: Al Titular del Poder Ejecutivo del Estado de Colima;
 
 II. Secretaría: A la Secretaría General de Gobierno;
 
-III. Dirección General: A la Dirección General de Transporte y de la Seguridad Vial;
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
 
-IV. Dirección: A la Dirección General de la Policía Estatal Preventiva;
+III. Secretariado Ejecutivo: Al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-V. Consejo: Al Consejo Consultivo de Transporte;
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
 
-VI. Programa: al Programa Integral de Transporte y Seguridad Vial;
+IV. Secretario Ejecutivo: Al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-VII. Vías de Comunicación Terrestre: A todo espacio de dominio público y uso común, que por disposiciones de esta Ley o por razones del servicio, esté destinado al tránsito y transporte de personas, carga, mixto y especial, en jurisdicción Estatal y Municipal;
+V. Dirección General: A la Dirección General de Transporte y de la Seguridad Vial;
 
-VIII. Transporte: Al medio de traslado de personas y bienes, de un lugar a otro, con vehículos autorizados para una prestación del servicio de transporte;
+VI. Dirección: A la Dirección General de la Policía Estatal Preventiva;
 
-IX. Servicios Auxiliares: Los accesorios materiales y de infraestructura, complementarios a la prestación del servicio público y personal de transporte o a las vías de comunicación;
+VII. Consejo: Al Consejo Consultivo de Transporte;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
+VIII. Programa: al Programa Integral de Transporte y Seguridad Vial;
 
-X. Servicio de Transporte: Al transporte público, privado, de personal, mercantil, especial, de servicio social y de emergencias, así como el complementario al servicio de autotransporte público federal en el Estado de Colima;
+IX. Vías de Comunicación Terrestre: A todo espacio de dominio público y uso común, que por disposiciones de esta Ley o por razones del servicio, esté destinado al tránsito y transporte de personas, carga, mixto y especial, en jurisdicción Estatal y Municipal;
 
-XI. Reglamento: El ordenamiento que expida el Ejecutivo del Estado para regular en el ámbito administrativo los alcances de esta Ley;
+X. Transporte: Al medio de traslado de personas y bienes, de un lugar a otro, con vehículos autorizados para una prestación del servicio de transporte;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
-
-XII. Registro: Al Registro Público Vehicular del Estado de Colima;
-
-XIII. INCODIS: Al Instituto Colimense de la Discapacidad;
+XI. Servicios Auxiliares: Los accesorios materiales y de infraestructura, complementarios a la prestación del servicio público y personal de transporte o a las vías de comunicación;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
 
-XIV. Registro de solicitantes: Al registro estatal donde se inscriben los solicitantes o peticionarios de concesiones para los servicios de transporte público y especial; permisos para los servicios de transporte de personal y mercantil; y autorizaciones para los servicios de transporte privado y complementario al servicio de autotransporte público federal; en cualquiera de sus modalidades, clases, tipos o usos; y
+XII. Servicio de Transporte: Al transporte público, privado, de personal, mercantil, especial, de servicio social y de emergencias, así como el complementario al servicio de autotransporte público federal en el Estado de Colima;
 
-XV. Unidades: A la unidad de salario mínimo general vigente en el Estado.
+XIII. Reglamento: El ordenamiento que expida el Ejecutivo del Estado para regular en el ámbito administrativo los alcances de esta Ley;
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
 
-En el caso de las fracciones II, III y IV de este artículo, las atribuciones que la presente Ley le otorga a las dependencias respectivas serán ejercidas por sus titulares.
+XIV. Registro: Al Registro Público Vehicular del Estado de Colima;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
+
+XV. Repuve: Al Registro Público Vehicular;
+
+XVI. INCODIS: Al Instituto Colimense de la Discapacidad;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
+
+XVII. Registro de solicitantes: Al registro estatal donde se inscriben los solicitantes o peticionarios de concesiones para los servicios de transporte público y especial; permisos para los servicios de transporte de personal y mercantil; y autorizaciones para los servicios de transporte privado y complementario al servicio de autotransporte público federal; en cualquiera de sus modalidades, clases, tipos o usos; y
+
+XVIII. Unidades: A la unidad de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2014)</small>
+
+En el caso de las fracciones II, V y VI de este artículo, las atribuciones que la presente Ley le otorga a las dependencias respectivas serán ejercidas por sus titulares.
 
 ###### ARTÍCULO 8.
 
@@ -353,9 +367,15 @@ XXXIII. Convenir y coordinarse con la representación estatal de la Secretaría 
 
 XXXIV. Operar el registro, capacitar y expedir las credenciales de identificación de los Agentes Inspectores Honorarios del Transporte;
 
-XXXV. Las que le encomiende el Secretario; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2014)</small>
 
-XXXVI. Las demás que señale esta ley, su Reglamento y demás disposiciones aplicables.
+XXXV. Las que encomiende el Secretario;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
+
+XXXVI. En coordinación con el Secretariado Ejecutivo realizar las acciones de verificación física y documental, sólo para efectos del Repuve, bajo los lineamientos establecidos en la Ley del Registro Público Vehicular, su Reglamento y demás disposiciones aplicables; y
+
+XXXVII. Las demás que señale esta ley, su Reglamento y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -371,9 +391,17 @@ c).- Celebrar los Convenios que estimen pertinentes, por conducto de los Preside
 
 II.- Del Presidente por si o a través del Director de Tránsito:
 
-a).- Regular la circulación vehicular con respeto al peatón dentro del territorio de su competencia, manteniendo la paz pública, la tranquilidad social y el respeto a los derechos humanos de la población, procurando en todo momento la conservación del medio ambiente; y
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2014)</small>
 
-b).- Organizar la planeación, ordenación y operación del servicio de tránsito y dentro de la jurisdicción de sus respectivos municipios, ajustándose a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, del Estado de Colima, a lo establecido en los Reglamentos que se expiden al efecto, y demás ordenamientos aplicables, así como a los Convenios que se suscriban al efecto.
+a) Regular la circulación vehicular con respeto al peatón dentro del territorio de su competencia, manteniendo la paz pública, la tranquilidad social y el respeto a los derechos humanos de la población, procurando en todo momento la conservación del medio ambiente;
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2014)</small>
+
+b) Organizar la planeación, ordenación y operación del servicio de tránsito y-dentro de la jurisdicción de sus respectivos municipios, ajustándose a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, del Estado de Colima, a lo establecido en los Reglamentos que se expiden al efecto, y demás ordenamientos aplicables, así como a los Convenios que se suscriban al efecto; y
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2014)</small>
+
+c) Llevar a cabo la verificación física y documental de vehículos, sólo para efectos del Repuve, bajo los lineamientos establecidos en la Ley del Registro Público Vehicular, su Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO III. De las Vías Públicas
 
@@ -433,9 +461,9 @@ VI. De servicio social y de emergencias; y
 
 VII. Complementario al servicio de autotransporte público federal.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2014)</small>
 
-Para que circulen en las vías públicas, las unidades vehiculares de cualquier tipo o clase, deberán estar inscritas en el Registro, portar placas, calcomanías, tarjeta de circulación, hologramas, engomados de revisión y reunir las condiciones físicas y mecánicas requeridas por esta Ley y su Reglamento. Deberán contar, además, con los dispositivos y accesorios técnicos y de seguridad necesarios para su circulación, según sea el caso.
+Para que circulen en las vías públicas, las unidades vehiculares de cualquier tipo o clase, deberán estar inscritas en el Registro, portar placas de circulación vigentes, calcomanía de placas, tarjeta de circulación, calcomanía fiscal vehicular vigente, hologramas, engomados de revisión, conservar adherida la constancia de inscripción al Repuve, en el cristal delantero de la unidad y reunir las condiciones físicas y mecánicas requeridas por esta Ley y su Reglamento. Deberán contar, además, con los dispositivos y accesorios técnicos y de seguridad necesarios para su circulación, según sea el caso.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -717,6 +745,10 @@ Las licencias para manejar, pueden ser revocadas, suspendidas o canceladas media
 
 Anualmente y en los términos fijados por el Reglamento, la Dirección General efectuará la revisión física, mecánica, eléctrica y emisión de humos contaminantes de los vehículos que circulen en el Estado. Sin embargo, éstos podrán ser revisados cuando así lo requiera el interés público. Los que se encuentren afectos a la prestación del servicio de transporte público, de personal, especial y mercantil podrán ser revisados en cualquier tiempo.
 
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2014)</small>
+
+Asimismo, en coordinación con el Secretariado Ejecutivo verificará física y documentalmente los vehículos, sólo para efectos del Repuve, bajo los lineamientos establecidos en la Ley del Registro Público Vehicular, su Reglamento y demás disposiciones aplicables.
+
 ###### ARTÍCULO 35.
 
 Los propietarios de los vehículos acreditarán la revisión física de éstos a través de la calcomanía respectiva o su equivalente.
@@ -772,6 +804,10 @@ No será autorizada en los vehículos del servicio de transporte, la publicidad 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ARTÍCULO 41 BIS.- Estará a cargo de la Dirección General el Registro, el cual tiene encomendada el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y demás disposiciones jurídicas y administrativas aplicables. La Dirección General acordara con la Secretaría la estructura e integración del Registro, en los términos que corresponda del presupuesto de egresos.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2014)</small>
+
+En lo que se refiere a la impresión, grabado y colocación de las constancias de inscripción del Repuve dependiente del Secretariado Ejecutivo, este será el único facultado para establecer los objetivos, las líneas de acción y mecanismos para la operación, funcionamiento y administración de dicha base de datos.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -1249,6 +1285,10 @@ En la vía pública y en las bases de inicio y cierre de circuito, checaderos, p
 
 La Dirección General tendrá a su cargo la inspección y vigilancia del servicio de transporte público, con el propósito de garantizar el cumplimiento de esta Ley, los reglamentos y demás disposiciones legales aplicables. Para tal efecto, podrá requerir en cualquier tiempo a los concesionarios y permisionarios, informes que incluyan los datos técnicos y estadísticos que le permitan conocer la forma de operar las concesiones y permisos que tienen autorizados.
 
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2014)</small>
+
+Asimismo, en coordinación con el Secretariado Ejecutivo, podrá realizar acciones de verificación física y documental, bajo los lineamientos establecidos en la Ley del Registro Público Vehicular, su Reglamento y demás disposiciones aplicables.
+
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 90.
@@ -1513,11 +1553,15 @@ III. Acreditar la propiedad del vehículo y que se encuentren al corriente de lo
 
 IV. Presentar la unidad materia del permiso, que deberá contener todos los datos de identificación vehicular;
 
-V. Acreditar que han pasado revisión a sus unidades en los términos de los ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2014)</small>
 
-VI. Acreditar el pago de derechos correspondientes; y
+V. Acreditar el pago de derechos correspondientes;
 
-VII. Demostrar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables.
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
+
+VI. Contar con la constancia de inscripción del Repuve emitida por el Secretariado Ejecutivo; y
+
+VI (SIC). Demostrar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -1567,11 +1611,15 @@ I. Presentar solicitud por escrito a la Dirección General especificando la moda
 
 II. (DEROGADA, P.O. 22 DE AGOSTO DE 2009)
 
-III. Proporcionar todos los datos de identificación del o los vehículos materia del registro;
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2014)</small>
 
-IV. Acreditar el pago de los derechos correspondientes; y
+III. Contar con la constancia de inscripción del Repuve emitida por el Secretariado Ejecutivo;
 
-V. Cumplir con los demás requisitos establecidos en la presente Ley, el Reglamento de Tránsito vigente, y demás disposiciones jurídicas y administrativas aplicables.
+IV. Proporcionar todos los datos de identificación del o los vehículos materia del registro;
+
+V. Acreditar el pago de los derechos correspondientes; y
+
+VI. Cumplir con los demás requisitos establecidos en la presente Ley, el Reglamento de Tránsito vigente, y demás disposiciones jurídicas y administrativas aplicables.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -1845,6 +1893,36 @@ Las concesiones o permisos podrán ser rescatadas antes de su conclusión por el
 
 La persona física que haya dejado de ser titular de una concesión o permiso por enajenación o transmisión de derechos, revocación o cancelación, no podrá ser beneficiaria de otra autorización, aun en el caso que le fuere transferida o designado como beneficiario.
 
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2014)</small>
+
+ARTÍCULO 140 BIS.- El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, estará a cargo del proceso de instalación de la constancia de inscripción al Repuve, el cual será gratuito y fungirá como instrumento de información del Sistema Nacional de Seguridad Pública, mismo que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos. Es obligación del propietario del vehículo de motor conservar adherida la constancia de inscripción al Repuve, en el cristal delantero de la unidad.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2014)</small>
+
+ARTÍCULO 140 BIS 1.- La Dirección General, la Procuraduría General de Justicia, la Secretaría de Seguridad Pública y las Direcciones de Seguridad Pública, Tránsito y Vialidad de los Ayuntamientos, informarán de manera permanente al Secretario Ejecutivo los datos necesarios para el suministro y actualización de la base de datos del Repuve, informando en todo momento lo siguiente:
+
+I. Alta;
+
+II. Baja;
+
+III. Cambio de propietario;
+
+IV. Emplacamientos y permisos de circulación;
+
+V. Infracciones;
+
+VI. Robo;
+
+VII. Recuperación y entrega de vehículos;
+
+VIII. Pago de tenencia y contribuciones;
+
+IX. Licencias de conducir;
+
+X. Destrucción, aseguramiento y decomiso; y
+
+XI. Otros datos con los que se cuente.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO VI. Del Registro Público, Mercantil, Personal y de Privado del Transporte
@@ -1891,9 +1969,9 @@ II. Las limitaciones y restricciones que se establezcan con objeto de preservar 
 
 III. Las limitaciones y restricciones que se establezcan para el tránsito de vehículos en la vialidad, con objeto de mejorar la circulación y salvaguardar la seguridad de personas y fomentar la seguridad vial;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2014)</small>
 
-IV. La inscripción en el Registro Público Vehicular, la expedición de placas y tarjetas de circulación y engomados de identificación de los mismo (sic), control de la infraestructura, servicios y elementos inherentes o incorporados a la vialidad, bajo la vigilancia, verificación y supervisión de las autoridades correspondientes, a fin de que reúnan las condiciones y requisitos que establezcan las disposiciones jurídicas y administrativas aplicables;
+IV. La inscripción en el Registro Público Vehicular del Estado de Colima y en el Registro Público Vehicular del Sistema Nacional de Seguridad Pública, la expedición de placas y tarjetas de circulación y engomados de identificación de los mismos, control de la infraestructura, servicios y elementos inherentes o incorporados a la vialidad, bajo la vigilancia, verificación y supervisión de las autoridades correspondientes, a fin de que reúnan las condiciones y requisitos que establezcan las disposiciones jurídicas y administrativas aplicables;
 
 V. La determinación de lineamientos para permitir el aprovechamiento de la vialidad, siempre y cuando, se cumpla con las disposiciones aplicables en materia de construcción y diseño, así como las medidas de seguridad para el tránsito de vehículos, peatones y animales;
 
@@ -2233,7 +2311,7 @@ IV. Las causales de extinción, revocación, cancelación y caducidad establecid
 
 La Dirección General sancionará conforme a lo previsto en esta Ley, y su reglamento, tomando en cuenta la gravedad, reincidencia de la acción u omisión y demás circunstancias en que incurran los concesionarios y conductores, sea persona física o moral, conforme a lo siguiente:
 
-I. Son causas de apercibimiento las siguientes infracciones que por primera vez se provoquen:
+I.- Son causas de apercibimiento las siguientes infracciones que por primera vez se provoquen:
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -2259,7 +2337,7 @@ e) Prestar el servicio de transporte en vehículos que no reúnan las condicione
 
 f) No acatar el conductor del servicio de transporte público de pasajeros los horarios establecidos por la autoridad correspondiente.
 
-II. Son causas de multa de 5 a 20 unidades las siguientes infracciones:
+II.- Son causas de multa de 5 a 20 unidades las siguientes infracciones:
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -2273,7 +2351,7 @@ d) Operar con vehículos que no cumplan con los requisitos previstos en esta Ley
 
 e) Prestar el servicio de transporte público en vehículos que no hayan cumplido con las verificaciones que establezca la Dirección General para cada modalidad.
 
-III. Son causas de multa de 20 a 50 unidades las siguientes infracciones:
+III.- Son causas de multa de 20 a 50 unidades las siguientes infracciones:
 
 a) Destruir, inutilizar, apagar, quitar o cambiar señalamientos en caminos, carreteras y puentes de competencia estatal o medios de transporte que en ellos operan;
 
@@ -2291,7 +2369,11 @@ d) Los concesionarios o empresas de concesionarios y operadores del servicio de 
 
 e) Los concesionarios o empresas de concesionarios u operadores del servicio de transporte que autoricen a terceras personas conducir su unidad sin el gafete o sin licencia correspondiente.
 
-IV. Son causas de multa de 30 a 150 unidades las siguientes infracciones:
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2014)</small>
+
+f) los concesionarios o empresas que no cuenten con la constancia del Repuve expedida por el Secretario Ejecutivo.
+
+IV.- Son causas de multa de 30 a 150 unidades las siguientes infracciones:
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -2325,9 +2407,9 @@ h) Circular en transporte público o privado con cargas o sustancias peligrosas 
 
 V.- Son causales de suspensión:
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2014)</small>
 
-a) Cuando los concesionarios, permisionarios, empresas concesionarias y conductores del servicio de transporte reincidan por cuarta vez en seis meses en las conductas por las que fueron sancionados conforme a las fracciones II, incisos a), b), c) y d); III, incisos c), d) y e); y IV incisos e) y g) de este artículo; y
+a) Cuando los concesionarios, permisionarios, empresas concesionarias y conductores del servicio de transporte reincidan por cuarta vez en seis meses en las conductas por las que fueron sancionados conforme a las fracciones II, incisos a), b), c) y d); III, incisos c), d), e) y f); y IV incisos e) y g) de este artículo; y
 
 b) El oponerse u obstaculizar la práctica de las visitas de inspección a que se refiere esta Ley.
 
@@ -2490,3 +2572,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Instituto contará con un plazo de seis meses a partir de la entrada en vigor del presente decreto, para expedir las calcomanías de identificación de las personas adultas en plenitud.
 
 TERCERO.- Los sujetos obligados por el presente Decreto contarán con un plazo de 90 días naturales a partir de su entrada en vigor, para su debido cumplimiento.
+
+P.O. 17 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La colocación de las constancias de inscripción del Repuve dependiente del Secretariado Ejecutivo, se realizará durante el periodo de la presente administración gubernamental estatal, sin que se actualice la aplicación de lo previsto en el inciso f), fracción III, del artículo 180 del presente Decreto.
+
+TERCERO.- Las acciones que en su caso deba realizar el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública para dar cumplimiento al presente Decreto, se sujetarán a los recursos humanos, financieros y materiales con los que actualmente cuenta.
+
+CUARTO.- Las inscripciones, avisos y demás actos que se hayan realizado con anterioridad a la entrada en vigor del presente Decreto, conservarán plena validez y vigencia.
+
+QUINTO.- La Dirección General de Transporte y de la Seguridad Vial deberá proporcionar al Secretariado Ejecutivo, en un plazo no mayor a 180 días naturales, a partir de la Publicación del presente Decreto, la información histórica relativa a los números de identificación que tuviesen asignados los vehículos y de la cual dispusieran a la entrada en vigor de esta disposición a efecto de integrar la base de datos del padrón de vehículos que integran el Registro Público Vehicular.
