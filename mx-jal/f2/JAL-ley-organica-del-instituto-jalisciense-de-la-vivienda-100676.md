@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-la-vivienda-100676"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-09"
-last_updated: "2014-05-09"
+last_updated: "2014-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL INSTITUTO JALISCIENSE DE LA VIVIENDA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE MAYO DE 2014, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE LA VIVIENDA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE MAYO DE 2014.</small>
 
 Ley publicada en el Número Ter de la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 9 de mayo de 2014.
 
@@ -505,37 +505,25 @@ VIII. Con los rendimientos que obtenga de la inversión de los recursos a que se
 
 IX. Con el producto de las fuentes de ingresos que el Gobierno del Estado le asigna para su explotación.
 
-> <small>N. DE E. DEL ANÁLISIS DEL DECRETO PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2014 SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO ESTA INMERSO EN EL ACTUAL ARTÍCULO 32.</small>
+> <small>(F. DE E., P.O. 17 DE MAYO DE 2014)</small>
 
 ###### Artículo 29.
 
 Los bienes, recursos y derechos que integran el patrimonio del Instituto estarán afectados al objeto del mismo, y únicamente podrán ser dados en garantía para créditos que tengan por fin disponer de recursos para urbanizar terrenos, construcción o ampliación de viviendas en ellos o adquirir terrenos de reserva, la introducción de infraestructuras y equipamiento. Lo anterior de conformidad con los lineamiento aprobados previamente por la Junta de Gobierno.
 
-> <small>N. DE E. DEL ANÁLISIS DEL DECRETO PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2014 SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO ESTA INMERSO EN EL ACTUAL ARTÍCULO 33.</small>
+> <small>(F. DE E., P.O. 17 DE MAYO DE 2014)</small>
 
 ###### Artículo 30.
 
 El Instituto se considerará de acreditada solvencia y no estará obligado a constituir depósitos ni fianzas legales.
 
+> <small>(F. DE E., P.O. 17 DE MAYO DE 2014)</small>
+
 ### CAPÍTULO IX. Del Régimen Laboral
 
-> <small>N. DE E. DEL ANÁLISIS DEL DECRETO PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2014 SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO ESTA INMERSO EN EL ACTUAL ARTÍCULO 34.</small>
+> <small>(F. DE E., P.O. 17 DE MAYO DE 2014)</small>
 
 ###### Artículo 31.
-
-El Director General y demás personal del organismo serán retribuidos en la forma y términos que el presupuesto anual de egresos del Instituto establezca.
-
-###### Artículo 32.
-
-Los bienes, recursos y derechos que integran el patrimonio del Instituto estarán afectados al objeto del mismo, y únicamente podrán ser dados en garantía para créditos que tengan por fin disponer de recursos para urbanizar terrenos, construcción o ampliación de viviendas en ellos o adquirir terrenos de reserva, la introducción de infraestructuras y equipamiento. Lo anterior de conformidad con los lineamiento aprobados previamente por la Junta de Gobierno.
-
-###### Artículo 33.
-
-El Instituto se considerará de acreditada solvencia y no estará obligado a constituir depósitos ni fianzas legales.
-
-### CAPÍTULO IX (SIC). Del Régimen Laboral
-
-###### Artículo 34.
 
 El Director General y demás personal del organismo serán retribuidos en la forma y términos que el presupuesto anual de egresos del Instituto establezca.
 
