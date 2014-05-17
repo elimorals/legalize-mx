@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2013-11-02"
+last_updated: "2014-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -45,23 +45,23 @@ LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
 Se crean en el Estado de Colima, de manera permanente, para entregar a hombres y mujeres por su destacada labor en los diferentes ámbitos, las siguientes Insignias:
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 1968)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2014)</small>
 
-I.- a).- Condecoración "PROFESOR GREGORIO TORRES QUINTERO'', que se otorgará a miembros distinguidos del magisterio y a benefactores de la educación pública del Estado.
+I.- Premio Estatal "Profesor GREGORIO TORRES QUINTERO", en las siguientes modalidades:
 
-b).- Orden "Profr. Gregorio Torres Quintero'' y diploma de Honor, para los maestros en servicio que cumplan cincuenta años de labor profesional.
+a) Condecoración "Profesor GREGORIO TORRES QUINTERO", que se otorgará a miembros distinguidos del magisterio y benefactores de la educación pública del Estado;
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2011)</small>
+b) Orden "Profesor GREGORIO TORRES QUINTERO", Diploma de Honor y Numerario, para los docentes en servicio que cumplan cuarenta años de labor profesional en escuelas dependientes de la Dirección de Educación Pública del Estado.
 
-c) Galardón "Profesor Gregorio Torres Quintero" y Diploma de Honor a los docentes en servicio que cumplan 50 años de labor profesional en el Sistema Educativo Estatal.
+La Presea llevará grabados el escudo de Colima, el nombre del docente que la reciba, los años de servicios prestados, la autoridad que la concede y la fecha; y
 
-La presea llevará grabados el Escudo de Colima, el nombre del maestro que la recibe, los años de servicios prestados, la autoridad que la concede y la fecha.
+c) Galardón "Profesor GREGORIO TORRES QUINTERO" y Diploma de Honor a los docentes en servicio que cumplan cincuenta años de labor profesional en el Sistema Educativo Estatal.
 
-El cómputo de los servicios se hará tomando en cuenta los prestados en establecimientos oficiales del Estado, la Federación y Particulares Incorporados, en cualquier Entidad de la República, en forma ininterrumpida o no; pero en este último caso, se observará que la interrupción o interrupciones sumadas, no pasen, en total de cinco años.
+El cómputo de los servicios señalados en los incisos b) y c), se hará tomando en cuenta los prestados en forma ininterrumpida o no; pero en este último caso, se observará que la interrupción o interrupciones realizadas no sumen en total más de cinco años.
 
-La Orden y el Diploma citados pueden ser concedidos por el Ejecutivo del Estado o por la H. Legislatura Local, a los maestros que llenen los requisitos señalados debiendo dejarse constancia en las Dependencias correspondientes.
+La Condecoración, la Orden y el Diploma citados, pueden ser concedidos por el Ejecutivo del Estado o por el H. Congreso Local, a los docentes que reúnan los requisitos señalados, debiendo dejar constancia en las dependencias correspondientes.
 
-La entrega de estos estímulos se hará en la ceremonia conmemorativa del "Día del Maestro''.
+La entrega de estos estímulos se hará en la ceremonia conmemorativa del "Día del Maestro".
 
 II.- Condecoración "LIC. MANUEL RIVERA'', para distinguidos jurisconsultos y trabajadores en las ramas de ciencias sociales (abogados, penalistas, magistrados, economistas, especialistas en Derecho, tratadistas, diplomáticos, etc.);
 
@@ -226,3 +226,7 @@ P.O. 31 DE AGOSTO DE 2013.
 P.O. 2 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 17 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial el Estado de Colima.
