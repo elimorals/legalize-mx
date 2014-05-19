@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-comision-certificadora-de-competencia-82481"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-09"
-last_updated: "2011-08-09"
+last_updated: "2014-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA COMISION CERTIFICADORA DE COMPETENCIA LABORAL DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO
 
-REGLAMENTO DE LA COMISION CERTIFICADORA DE COMPETENCIA LABORAL DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO
+REGLAMENTO DE LA COMISIÓN CERTIFICADORA DE COMPETENCIA LABORAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA COMISIÓN CERTIFICADORA DE COMPETENCIA LABORAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 19 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 9 de agosto de 2011.
 
@@ -548,3 +550,17 @@ MTRA. SORAYA PÉREZ MUNGUÍA
 VOCAL EJECUTIVO DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 19 DE MAYO DE 2014.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de la Comisión Certificadora de Competencia Laboral de los Servidores Públicos del Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno”, el 9 de agosto de 2011.
+
+CUARTO. A partir de la publicación de las nuevas Normas Institucionales de Competencia Laboral "Funciones de la Hacienda Pública Municipal" y "Funciones de la Contraloría Municipal", las personas certificadas en el primer semestre de 2012 y años anteriores, podrán mantener la vigencia de su certificado, gestionando su recertificación durante el ejercicio 2014. Asimismo, quienes se certificaron a partir del segundo semestre de 2012 y hasta el 30 de junio de 2014, podrán mantener la vigencia de su certificado, gestionando su recertificación durante el ejercicio 2015; de acuerdo a los lineamientos que para tal efecto se establezcan.
+
+QUINTA (SIC). Para aquellas personas, cuyo certificado continúe vigente a la fecha de publicación de este Reglamento, una vez que la Norma Institucional de Competencia Laboral bajo la cual se certificaron, sea actualizada, tendrá un año a partir de la publicación de la misma para obtener el refrendo del certificado, de acuerdo a los lineamientos que para tal efecto se establezcan.
