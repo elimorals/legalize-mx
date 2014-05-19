@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "2012-04-09"
+last_updated: "2014-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -68,11 +68,11 @@ V.- Promover la plena integración de la mujer al proceso económico, educativo,
 
 VI.- Promover la plena integración de los grupos marginados al desarrollo nacional;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII.- (DEROGADA, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VIII.- (DEROGADA, D.O.F. 25 DE MAYO DE 2011)
 
@@ -122,19 +122,19 @@ El Consejo podrá contar con el auxilio de consultorías técnicas e integrar la
 
 ### CAPITULO II. Migración
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 7o.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 8o.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 9o.
 
@@ -604,15 +604,37 @@ Se consideran como repatriados a los emigrantes nacionales que regresan al país
 
 La Secretaría estará facultada para coordinar de manera institucional las acciones de atención y reintegración de mexicanos repatriados, poniendo especial énfasis en que sean orientados acerca de las opciones de empleo y vivienda que haya en el lugar del territorio nacional en el que manifiesten su intención de residir.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 84.
 
 La Secretaría en coordinación con la Secretaría de Relaciones Exteriores podrá suscribir acuerdos interinstitucionales con otros países y organismos internacionales, en materia de repatriación segura, digna y ordenada de mexicanos.
 
-Asimismo, la Secretaría vigilará que en la recepción de mexicanos regresados por gobiernos extranjeros, se respeten sus derechos y se cumpla con los acuerdos internacionales en la materia.
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2014)</small>
 
-Para efectos de la recepción de los mexicanos repatriados, la Secretaría promoverá acciones de coordinación interinstitucional para brindarles una adecuada recepción, poniendo especial énfasis en la revisión de su estado de salud, en la comunicación con sus familiares y apoyándolos en el traslado a su lugar de residencia en México.
+Asimismo, la Secretaría vigilará que en los lugares destinados para la recepción de mexicanos repatriados, se respeten los siguientes derechos y se cumpla con los acuerdos internacionales en la materia:
+
+I. Acceder a comunicación telefónica;
+
+II. Recibir agua y alimentos, un espacio digno, enseres básicos para su aseo personal y atención legal, psicológica y médica;
+
+III. Ser informado respecto de los diversos programas y apoyos que puede recibir;
+
+IV. No ser discriminado por las autoridades a causa de su origen étnico, sexo, género, edad, discapacidad, condición social o económica, estado de salud, embarazo, lengua, religión o cualquier otra circunstancia que tenga por objeto impedir el reconocimiento de los derechos y la igualdad real de oportunidades de las personas;
+
+V. Ser apoyado en el traslado a su lugar de residencia en México;
+
+VI. Que se cuente con áreas de estancia separadas para mujeres y hombres, garantizando el derecho a la preservación de la unidad familiar, excepto en los casos en los que la separación sea considerada en razón del interés superior de la niña, niño o adolescente;
+
+VII. Que se cuente con espacios separados para niñas, niños y adolescentes repatriados no acompañados para su alojamiento en tanto son canalizados a instituciones en donde se les brinde una atención adecuada;
+
+VIII. Que en las instalaciones se evite el hacinamiento, y
+
+IX. Recibir un trato digno y humano.
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2014)</small>
+
+Para efectos de la recepción de los mexicanos repatriados, la Secretaría promoverá acciones de coordinación interinstitucional para brindarles una adecuada recepción.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1992)</small>
 
@@ -1070,7 +1092,7 @@ México, D. F., a 11 de diciembre de 1973.- Rafael Hernández Ochoa, D.P.- Vicen
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los once días del mes de diciembre de mil novecientos setenta y tres.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Industria y Comercio, Carlos Torres Manzo.- Rúbrica.- El Secretario de Agricultura y Ganadería, Manuel Bernardo Aguirre.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro.- Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Porfirio Muñoz Ledo.- Rúbrica.- El Secretario de la Presidencia, Hugo Cervantes del Río.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Augusto Gómez Villanueva.- Rúbrica.- El Jefe del Departamento de Turismo, Julio Hirschfeld Almada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
@@ -1124,7 +1146,7 @@ SEGUNDO.- Para la fijación del monto de las sanciones pecuniarias que resulten 
 
 D.O.F. 26 DE DICIEMBRE DE 1990.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, ...
 
@@ -1144,7 +1166,7 @@ D.O.F. 8 DE NOVIEMBRE DE 1996.
 
 D.O.F. 4 DE ENERO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
 
@@ -1199,3 +1221,9 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 19 DE MAYO DE 2014.
+
+Primero.- Las erogaciones que deban realizarse a fin de dar cumplimiento con las disposiciones en materia de recepción de repatriados, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Segundo.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
