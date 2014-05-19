@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2013-12-30"
+last_updated: "2014-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA - ANTES CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA -
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 20 DE MAYO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -613,7 +615,11 @@ La autoridad que inicie el acto de aseguramiento está obligada a concluirlo en 
 
 La autoridad judicial o el Ministerio Público que decreten el aseguramiento, deberán notificar al interesado o a su representante legal dentro de los quince días naturales siguientes a su ejecución, entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta a que se refiere la fracción I del artículo anterior, para que manifieste lo que a su derecho convenga.
 
-En dicha notificación se apercibirá al interesado o a su representante legal para que no enajene o grave los bienes asegurados; asimismo, que de no manifestar lo que a su derecho convenga y acreditar la legal procedencia de los bienes, en un término de treinta días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+
+En dicha notificación se le informará al interesado o a su representante legal si es nombrado como depositario de los bienes o si éstos quedan a resguardo del Ministerio Público y se le apercibirá para que no enajene o grave los bienes asegurados; asimismo, que de no manifestar lo que a su derecho convenga y acreditar la legal procedencia de los bienes, en un término de treinta días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -715,11 +721,15 @@ En caso de billetes o piezas metálicas que por tener marcas, señas u otras car
 
 El Ministerio Público o la autoridad judicial que asegure depósitos, títulos de crédito y, en general, cualesquiera bienes o derechos relativos a operaciones, que las instituciones financieras establecidas en el país celebren con sus clientes, dará aviso inmediato a las autoridades de dichas instituciones, quienes tomarán las medidas necesarias para evitar que los titulares respectivos realicen cualquier acto contrario al aseguramiento. En caso contrario se observará lo previsto en el artículo 52 Ter de este Código.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
 
 ###### Artículo 56 Nonies.
 
-Los vehículos que se aseguren por delitos culposos ocasionados con motivo del tránsito de vehículos; se entregarán en depósito a quien se legitime como su propietario o poseedor cuando se haya garantizado la reparación del daño.
+Los vehículos que por ser necesarios para la práctica de diligencias ministeriales se aseguren por delitos culposos ocasionados con motivo del tránsito de vehículos serán entregados de inmediato a sus propietarios, poseedores o representantes legales, en depósito previa inspección ministerial.
+
+El depositario estará obligado a mantener el vehículo dentro del Distrito Judicial del que se trate, a disposición del Ministerio Público, conservándolo como hubiese quedado después de los hechos, salvo autorización expresa y por escrito del Ministerio Público, debiendo presentarlo a la autoridad cuando se le requiera para la práctica de diligencias.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -1129,9 +1139,11 @@ El Ministerio Público, para los efectos de la consignación, recabará los peri
 
 Las sanciones por los delitos de imprudencia se impondrán también a quien o quienes, aunque no fueren autores materiales o inmediatos de la acción o de la omisión en que consiste el delito, los motivaren imprudencialmente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 90.
 
-Cuando con motivo del tránsito de vehículos se cometiere algún delito, esos vehículos no se devolverán hasta que se haya cubierto o garantizado la reparación del daño.
+(DEROGADO, P.O. 19 DE MAYO DE 2014)
 
 ###### Artículo 91.
 
@@ -6162,5 +6174,11 @@ P.O. 30 DE DICIEMBRE DE 2013.
 DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 283 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto, entrará en vigor a los quince días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
