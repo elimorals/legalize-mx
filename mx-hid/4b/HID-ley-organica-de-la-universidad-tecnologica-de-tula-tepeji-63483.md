@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-universidad-tecnologica-de-tula-tepeji-63483
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-09-22"
-last_updated: "2011-06-13"
+last_updated: "2014-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE TULA-TEPEJI
 
-LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE TULA-TEPEJI
+LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de septiembre de 2008.
 
@@ -75,9 +75,9 @@ I.- Ampliar las posibilidades de la Educación Superior Tecnológica a fin de co
 
 II.- Formar Técnicos Superiores Universitarios, que hayan egresado del bachillerato, aptos para la aplicación de conocimientos y la solución creativa de problemas, con un sentido de innovación en la incorporación de los avances científicos y tecnológicos, vinculados con las necesidades regionales, Estatales y Nacionales;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-III.- Formar licenciados, que hayan egresado de la Universidad o de otras Instituciones de Educación Superior, del nivel Técnico Superior Universitario o Profesional Asociado, a través de los programas de continuidad de estudios;
+III.- Ofrecer programas de continuidad de estudios para sus egresados y para egresados del nivel Técnico Superior Universitario o Profesional Asociado de otras Instituciones de Educación Superior, que permitan a los estudiantes alcanzar todos los niveles académicos de tipo superior previstos en la Ley General de Educación;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -95,9 +95,9 @@ VI.- Contribuir al desarrollo del Sistema de Educación Superior del Estado de H
 
 VII.- Fomentar e impulsar la vinculación entre los diferentes niveles y subsistemas educativos, a través de órganos colegiados que permitan coordinar esfuerzos en materia educativa, de difusión cultural, deportiva y recreativa que contribuya al desarrollo integral de los educandos en un marco de fomento a los valores universales;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-VIII.- Desarrollar las funciones de vinculación, con los sectores productivos de carácter público, privado y social, estableciendo una red efectiva, con dichos sectores que coadyuve al desarrollo regional, a través de la aplicación y transferencia del conocimiento tecnológico y a la generación de bienes y servicios;
+VIII.- Establecer una red de vinculación efectiva, con los sectores productivos de carácter público, privado y social que coadyuve al desarrollo regional sustentable, pudiendo transferir el conocimiento tecnológico, bienes y servicios desarrollados por la Universidad;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -115,17 +115,17 @@ XI.- Establecer las bases para la operación, funcionamiento y desarrollo de edu
 
 XII.- Coadyuvar a la preparación técnica de los trabajadores para su mejoramiento económico, intelectual y social; y
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-XIII.- Promover y difundir los valores sociales y culturales de la Nación, a fin de crear entre los educandos la conciencia universal y actitudes a favor de la paz, la solidaridad y la democracia.
+XIII.- Promover y difundir los valores sociales y culturales de la nación, en toda su extensión, a fin de crear entre los educandos la conciencia nacional y actitudes a favor de la paz, la solidaridad y la democracia, por lo que podrá contar con diversos medios masivos de comunicación, previa autorización presupuestal para ello.
 
 ###### Artículo 5.
 
 Para cumplir con su objeto, la Universidad deberá:
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-I.- Impartir educación de calidad para la formación de Técnicos Superiores Universitarios que hayan egresado del bachillerato, aptos para la aplicación de conocimientos y la solución creativa de problemas con un sentido de innovación en la incorporación de los avances científicos y tecnológicos, vinculados con las necesidades regionales, Estatales y Nacionales;
+I.- Impartir educación superior de buena calidad para la formación de estudiantes en todos los niveles académicos de tipo superior;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -155,9 +155,9 @@ VII.- Planear, desarrollar y evaluar actividades de investigación aplicada e in
 
 VIII.- Impulsar estrategias de participación y concertación con los sectores público, privado y social, para la proyección de las actividades productivas, con eficiencia y sentido social, basadas en la vocación productiva de su área de influencia;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-IX.- Contar con un Sistema Integral de Gestión de Calidad;
+IX.- Contar con un Sistema Integral de Gestión de la Calidad, Ambiental y Equidad de Género;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -235,9 +235,13 @@ V.- Establecer los lineamientos de ingreso, permanencia y egreso de los estudian
 
 VI.- Fungir como centro capacitador y evaluador de competencias, así como centro incubador de empresas, de acuerdo con las normas y disposiciones aplicables;
 
-VII.- Administrar y acrecentar su patrimonio conforme a lo establecido en este Decreto, expidiendo las disposiciones internas que lo regulen;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-VIII.- Planear, desarrollar y evaluar programas de superación académica, administrativa y de actualización, dirigidos tanto a los integrantes de la comunidad universitaria como a la población en general;
+VII.- Administrar y acrecentar su patrimonio creando las figuras e instrumentos jurídicos que permitan a la Universidad transferir el conocimiento tecnológico, bienes y servicios desarrollados por la Universidad;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+VIII.- Planear, desarrollar y evaluar programas de superación académica, administrativa de actualización y de promoción y difusión de los valores sociales y culturales de la Nación, dirigidos tanto a los integrantes de la comunidad universitaria como a la población en general;
 
 IX.- Organizar y desarrollar programas de servicio social y estadías para sus alumnos conforme a la normatividad aplicable; y
 
@@ -349,7 +353,9 @@ i).- Las normas y bases para la adquisición, arrendamiento y enajenación de lo
 
 j).- Las normas y bases para cancelar los adeudos a cargo de terceros y a favor de La Universidad, cuando se determine la imposibilidad de recuperación, informando a las Autoridades correspondientes;
 
-k).- El sistema integral de gestión de la calidad; y
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+
+k).- El Sistema Integral de Gestión de la Calidad, Ambiental y Equidad de Género; y
 
 I).- El programa de becas que otorgue La Universidad;
 
@@ -417,9 +423,17 @@ IV.- Ser mayor de 30 años y menor de 70;
 
 V.- Poseer, como mínimo grado de maestría;
 
-VI.- Poseer reconocida experiencia académica y profesional; y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-VII.- Ser de reputada solvencia moral.
+VI.- Poseer reconocida experiencia académica y profesional;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+VII.- Ser de reputada solvencia moral; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2014)</small>
+
+VIII.- Cumplir con los requisitos que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento.
 
 ###### Artículo 19.
 
@@ -459,7 +473,9 @@ i).- Las normas y bases para la adquisición, arrendamiento y enajenación de lo
 
 j).- Las normas y bases para cancelar los adeudos a cargo de terceros y a favor de la, Universidad, cuando se determine la imposibilidad de recuperación, informando a las Autoridades correspondientes;
 
-k).- El sistema integral de gestión de la calidad;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+
+k).- El Sistema Integral de Gestión de la Calidad, Ambiental y Equidad de Género;
 
 l).- El Programa de Becas que otorgue la Universidad; y
 
@@ -725,7 +741,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE JUNIO DE 2011.
 
@@ -736,3 +752,11 @@ El presente Decreto entrará en vigor al día siguiente al de su Publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual rango o naturaleza que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A más tardar en el plazo de sesenta días, contados a partir de la fecha de publicación del presente Decreto, se reformará el Estatuto Orgánico, así como todas las disposiciones legales de la Universidad que estén vinculadas con el presente ordenamiento.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
