@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10095
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2013-12-30"
+last_updated: "2014-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
 
 Ley publicada en la Sexagésima Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -53,9 +53,11 @@ La presente Ley es de orden público, interés social y observancia general en e
 
 La aplicación de esta Ley corresponde al Ejecutivo por conducto de sus dependencias y entidades, y a los Municipios, en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 3.
 
-La interpretación administrativa de la Ley corresponderá a la Secretaría, a la Secretaría de Educación Pública, a la Secretaría de Salud y a la Secretaría General de Gobierno, en el ámbito de su competencia.
+La interpretación administrativa de la Ley corresponderá a las dependencias que integran el Consejo Estatal, en el ámbito de sus respectivas competencias y de conformidad con el Reglamento de la presente Ley.
 
 ###### ARTÍCULO 4.
 
@@ -67,17 +69,29 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Centros de Atención: Espacios, cualquiera que sea su denominación de modalidad pública, privada o mixta, donde se prestan servicios para la atención, cuidado y desarrollo integral infantil en un marco de ejercicio pleno de los derechos de niñas y niños desde los cuarenta y tres días de nacido.
 
-II. Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-III. Prestadores de servicios para la atención, cuidado y desarrollo integral infantil: Aquellas personas físicas o morales que cuenten con permiso o autorización, emitido por la autoridad competente, para instalar y operar uno o varios Centros de Atención en cualquier modalidad y tipo;
+II. Consejo Estatal: Consejo Estatal de Prestación de Servicios para la atención, cuidado y desarrollo integral infantil;
 
-IV. Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento: Conjunto de acciones para lograr una vigilancia efectiva del cumplimiento de la presente Ley y garantizar el mejoramiento progresivo y fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-V. Secretaría: Secretaría de Desarrollo Social del Estado de Puebla;
+III. Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad;
 
-VI. Servicios para atención, cuidado y desarrollo integral infantil: Medidas dirigidas a niñas y niños en los Centros de Atención, consistentes en la atención y cuidado para su desarrollo integral infantil, y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-VII. Sistema Estatal: Sistema Estatal de prestación de servicios para la atención, cuidado y desarrollo integral infantil.
+IV. Prestadores de servicios para la atención, cuidado y desarrollo integral infantil: Aquellas personas físicas o morales que cuenten con permiso o autorización, emitido por la autoridad competente, para instalar y operar uno o varios Centros de Atención en cualquier modalidad y tipo;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+V. Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento: Conjunto de acciones para lograr una vigilancia efectiva del cumplimiento de la presente Ley y garantizar el mejoramiento progresivo y fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+VI. Registro Estatal: Registro Estatal de centros de atención, cuidado y desarrollo integral infantil en el Estado de Puebla; y
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+VII. Servicios para atención, cuidado y desarrollo integral infantil: Medidas dirigidas a niñas y niños en los Centros de Atención, consistentes en la atención y cuidado para su desarrollo integral infantil.
 
 ### CAPÍTULO II. DE LOS SUJETOS DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
 
@@ -137,15 +151,19 @@ El ingreso de niñas y niños a los servicios para la atención, cuidado y desar
 
 ### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 10.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, en coordinación con las dependencias y entidades en el ámbito de sus respectivas competencias, las siguientes atribuciones:
+Corresponde a las dependencias y entidades que integran el Consejo, en el ámbito de sus respectivas competencias y de conformidad con el Reglamento de la presente Ley, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política estatal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, en congruencia con la política nacional en la materia;
 
 II. Elaborar, aprobar, ejecutar y evaluar el Programa Estatal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, de conformidad con las disposiciones relativas en materia de planeación;
 
-III. Organizar el Sistema Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil de la entidad correspondiente y coadyuvar con el Consejo;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+III. Organizar el Consejo Estatal de prestación de servicios para la atención, cuidado y desarrollo integral infantil y coadyuvar con el Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
 IV. Coordinar y operar el Registro Estatal de los Centros de Atención;
 
@@ -179,7 +197,9 @@ I. Formular, conducir y evaluar la política municipal en materia de prestación
 
 II. Elaborar, aprobar, ejecutar y evaluar el programa municipal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil. Para tal efecto se considerarán las directrices previstas en el Plan Estatal de Desarrollo y el Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil correspondientes;
 
-III. Coadyuvar con el Sistema Estatal, así como en la integración y operación del Registro Estatal de Centros de Atención;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+III. Coadyuvar con el Consejo Estatal, así como en la integración y operación del Registro Estatal de Centros de Atención;
 
 IV. Verificar en el ámbito de su competencia, que la prestación de los servicios cumpla con los estándares de calidad y seguridad que exige el principio del interés superior de la niñez;
 
@@ -201,11 +221,15 @@ XII. Hacer del conocimiento de la autoridad competente, toda aquella informació
 
 XIII. Las demás que les señale esta Ley y la normatividad aplicable.
 
-### CAPÍTULO IV. DEL SISTEMA ESTATAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2014)</small>
+
+### CAPÍTULO IV. DEL CONSEJO ESTATAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 12.
 
-Para hacer efectiva la procuración de los derechos contenidos en esta Ley, el Estado y los Municipios integrarán el Sistema Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, que tiene por objeto la coordinación de instrumentos, políticas y acciones interinstitucionales en la materia.
+Para hacer efectiva la procuración de los derechos contenidos en esta Ley, el Estado y los Municipios integrarán el Consejo Estatal de prestación de servicios para la atención, cuidado y desarrollo integral infantil, que tiene por objeto la coordinación de instrumentos, políticas y acciones interinstitucionales en la materia.
 
 ###### ARTÍCULO 13.
 
@@ -215,31 +239,41 @@ I. La capacitación del personal encargado de su prevención y atención;
 
 II. La recopilación, compilación, procesamiento y sistematización e intercambio de todo tipo de información en la materia, y
 
-III. Las demás relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a garantizar los derechos de niñas y niños.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+III. El registro de los Centros de Atención; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2014)</small>
+
+IV. Las demás relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a garantizar los derechos de niñas y niños.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 14.
 
-El Sistema Estatal se integrará y funcionará por los titulares de:
+El Consejo Estatal se integrará y funcionará por los Titulares de:
 
-I. El Poder Ejecutivo del Estado, quien fungirá como Presidente Honorario;
+I. La Secretaría General de Gobierno, quien fungirá como Coordinador;
 
-II. La Secretaría General de Gobierno, quien fungirá como Presidente Ejecutivo;
+II. La Secretaría de Educación Pública;
 
-III. La Secretaría de Desarrollo Social;
+III. La Secretaría de Salud del Estado;
 
-IV. La Secretaría de Educación Pública;
+IV. La Secretaría de Desarrollo Social;
 
-V. La Secretaría de Salud del Estado;
+V. La Comisión de Derechos Humanos del Estado;
 
-VI. El Sistema Estatal para el Desarrollo Integral de la Familia;
+VI. Siete Presidentes Municipales, en la forma que determine el Reglamento de esta Ley; y
 
-VII. La Comisión de Derechos Humanos del Estado, y
+VII. A invitación del Consejo Estatal, podrán participar representantes de las Instancias Federales en el Estado que cuenten con Centros de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 
-VIII. Siete Presidentes Municipales, en la forma que determine el Reglamento de esta Ley.
+Las decisiones del Consejo se aprobarán por mayoría; en caso de empate, el Coordinador tendrá voto de calidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 15.
 
-El Sistema Estatal tendrá las siguientes atribuciones:
+El Consejo Estatal tendrá las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política estatal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil; que permita articular las acciones del Estado y de los Municipios y de los sectores público, privado y social, en la promoción de condiciones favorables al cuidado y desarrollo integral de niñas y niños;
 
@@ -257,21 +291,37 @@ VII. Impulsar la investigación y la generación de estudios que contribuyan a l
 
 VIII. Diseñar políticas públicas, estrategias y acciones coordinadas para asegurar la atención integral a niñas y niños;
 
-IX. Impulsar acciones de gobierno para ofrecer un servicio de atención, cuidado y desarrollo integral infantil con criterios comunes de calidad, a través del fomento de actividades de capacitación, certificación, supervisión y seguimiento de los servicios, y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-X. Coadyuvar con el Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en términos de la legislación aplicable.
+IX. Impulsar acciones de gobierno para ofrecer un servicio de atención, cuidado y desarrollo integral infantil con criterios comunes de calidad, a través del fomento de actividades de capacitación, certificación, supervisión y seguimiento de los servicios;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+X. Coadyuvar con el Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2014)</small>
+
+XI. Elaborar el Reglamento de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2014)</small>
+
+XII. Aprobar sus reglas internas de operación.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 16.
 
-El Sistema Estatal se reunirá en sesiones ordinarias por lo menos dos veces al año, para dar seguimiento a las acciones acordadas entre sus integrantes, y de manera extraordinaria las veces que se requiera, las cuales serán convocadas por su Presidente a propuesta de cualquiera de los integrantes.
+El Consejo Estatal se reunirán (sic) en sesiones ordinarias por lo menos cuatro veces al año, para dar seguimiento a las acciones acordadas entre sus integrantes, y de manera extraordinaria las veces que se requiera, las cuales serán convocadas por su Presidente a propuesta de cualquiera de los integrantes.
 
-Los integrantes del Sistema Estatal, intercambiarán y analizarán información y datos referentes a los temas de su competencia, con el fin de cumplir con los objetivos establecidos.
+Los integrantes del Consejo Estatal, intercambiarán y analizarán información y datos referentes a los temas de su competencia con el fin de cumplir con los objetivos establecidos.
 
 ### CAPÍTULO V. DEL REGISTRO ESTATAL DE LOS CENTROS DE ATENCIÓN
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-La Secretaría contará con un registro público de los Centros de Atención autorizados, de cualquier modalidad y tipo. El Registro Estatal se organizará conforme a lo dispuesto por el Reglamento y se actualizará cada seis meses.
+El Registro Estatal de los Centros de Atención autorizados, será público y se organizará conforme a lo dispuesto por el Reglamento de la presente Ley. El Registro Estatal deberá actualizarse cada seis meses.
 
 ###### ARTÍCULO 18.
 
@@ -564,3 +614,13 @@ QUINTO.- Se derogan las disposiciones que se opongan a la presente Ley.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiocho días del mes de noviembre de dos mil trece.- Diputado Presidente.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputada Secretaria.- ANA MARÍA JIMÉNEZ ORTIZ.- Rúbrica.- Diputado Secretario.- JORGE LUIS BLANCARTE MORALES.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintinueve días del mes de noviembre de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones reglamentarias deberán ser expedidas dentro de los ciento ochenta días siguientes a la entrada en vigor de la misma.
+
+TERCERO.-Se derogan todas las disposiciones que se opongan al presente Decreto.
