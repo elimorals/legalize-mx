@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2014-02-24"
+last_updated: "2014-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,13 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
 EXPOSICION DE MOTIVOS
 
-.
+...
 
 Por las consideraciones que anteceden, las que se encuentran debidamente fundamentadas y motivadas, se publica el presente:
 
@@ -1045,7 +1045,7 @@ En todo lo no previsto en el presente Código, se recurrirá a las disposiciones
 
 ###### ARTICULO 99.
 
-Para el despacho de los asuntos de la Administración Pública Municipal, el Presidente Municipal se auxiliara de las siguientes Dependencias y Unidades Administrativas:
+Para el despacho de los asuntos de la Administración Pública Municipal, el Presidente Municipal se auxiliará de las siguientes Dependencias y Unidades Administrativas:
 
 I.- PRESIDENCIA MUNICIPAL
 
@@ -1183,35 +1183,25 @@ Departamento de Desarrollo Agropecuario; y
 
 Departamento de Desarrollo Turístico;
 
-V.- DIRECCION DE DESARROLLO URBANO
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+V.- DIRECCIÓN DE DESARROLLO
 
 Director;
 
 Departamento de Planes y Programas; y
 
-Departamento de Uso de Suelo.
+Departamento de Usos de Suelo.
 
-DIRECCION DE OBRAS PÚBLICAS:
+DIRECCIÓN DE OBRAS PÚBLICAS
 
 Director;
 
-Departamento de Supervisión de Costos y Licitaciones;
+Departamento de Proyectos;
 
-Departamento de Proyectos; y
+Departamento de Costos y Licitación;
 
-Departamento de Topografía.
-
-DIRECCION DE SERVICIOS PUBLICOS
-
-Director:
-
-Departamento de Limpia y Aseo Público;
-
-Departamento de Alumbrado Público;
-
-Departamento de Parques, Jardines y Panteones; y
-
-Departamento de Ecología.
+Departamento de Supervisión.
 
 ###### ARTICULO 100.
 
@@ -8205,7 +8195,7 @@ II. Tener su certificado de vacunación vigente;
 
 III. Pasear al animal sólo si éste lleva puesto el collar o pechera con su respectiva correa o cadena y en manos de su propietario o poseedor. El animal que sea considerado como agresivo deberá usar bozal; y
 
-IV. Dar un trato digno al animal y en su momento la atención clínica veterinaria adecuada.
+IV Dar un trato digno al animal y en su momento la atención clínica veterinaria adecuada.
 
 ###### ARTICULO 796.
 
@@ -15973,7 +15963,7 @@ III. En estos fraccionamientos se podrá autorizar comercio de tipo inmediato en
 
 Podrá existir comercio de tipo periódico sobre vialidades colectoras y en algunos casos servicios de tipo doméstico, los cuales quedarán condicionados a presentar el cuestionario de información básica ambiental y a la dictaminación del mismo, emitida por la autoridad correspondiente.
 
-IV Todo uso o destino que pretenda darse a cualquier predio o inmueble que forme parte de este tipo de fraccionamientos y que no sea compatible a la zona de acuerdo con lo establecido en el Programa de Desarrollo Urbano Municipal correspondiente, así como en el presente Código Municipal, quedará estrictamente prohibido.
+IV. Todo uso o destino que pretenda darse a cualquier predio o inmueble que forme parte de este tipo de fraccionamientos y que no sea compatible a la zona de acuerdo con lo establecido en el Programa de Desarrollo Urbano Municipal correspondiente, así como en el presente Código Municipal, quedará estrictamente prohibido.
 
 V. En caso de que se encuentren establecidos usos del suelo que no sean compatibles a la zona de su ubicación o que sean generadores de ruido mayor al establecido por la legislación vigente en la materia, o que generen y/o emitan sustancias contaminantes, quedarán condicionados a su reubicación en zonas aptas para el desarrollo de sus actividades, en los términos que señale el presente Código Municipal.
 
@@ -17707,7 +17697,7 @@ II. Tomar las medidas preventivas necesarias para evitar contingencias ambiental
 
 III. Inspeccionar y vigilar el cumplimiento de la Ley, su reglamento y las Normas Oficiales Mexicanas en materia de generación, recolección, transporte, almacenamiento, tratamiento, reuso, estaciones de transferencia, centros de confinamiento temporal y disposición final de residuos no peligros(sic) en el ámbito de su competencia; y
 
-IV Solicitar al generador o al prestador de servicios de residuos no peligrosos, un plan de contingencias ambientales.
+IV. Solicitar al generador o al prestador de servicios de residuos no peligrosos, un plan de contingencias ambientales.
 
 ###### ARTICULO 1651.
 
@@ -20870,5 +20860,11 @@ P.O. 5 DE DICIEMBRE DE 2011.
 P.O. 24 DE FEBRERO DE 2014.
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MAYO DE 2014.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
