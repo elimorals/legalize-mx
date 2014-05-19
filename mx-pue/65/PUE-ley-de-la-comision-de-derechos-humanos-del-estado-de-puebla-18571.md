@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-comision-de-derechos-humanos-del-estado-de-puebla-185
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2009-01-14"
+last_updated: "2014-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
 
-LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA.
+LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 24 de marzo de 2000.
 
@@ -79,9 +79,11 @@ LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
 
 La presente Ley es de orden público, interés social y de aplicación en todo territorio del Estado en materia de derechos humanos, en términos del Apartado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 2.
 
-La Comisión de Derechos Humanos del Estado de Puebla, es un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios de carácter autónomo en cuanto a sus resoluciones y funciones; tiene como objeto la protección, respeto, vigilancia, prevención, observancia, promoción, defensa, estudio y divulgación de los derechos humanos, según lo previsto por el orden jurídico mexicano.
+La Comisión de Derechos Humanos del Estado de Puebla, es un organismo público autónomo, con personalidad jurídica y patrimonio propios. Estará dotado de autonomía operativa, de gestión, decisión y presupuestaria; tiene como objeto la protección, respeto, vigilancia, prevención, observancia, promoción, defensa, estudio y divulgación de los derechos humanos, según lo previsto por el orden jurídico mexicano.
 
 La sede de la Comisión de Derechos Humanos, es la Ciudad de Puebla de Zaragoza, sin perjuicio del establecimiento de Delegaciones en cada Distrito Judicial del Estado.
 
@@ -145,7 +147,9 @@ III.- Los aspirantes a Presidente que reúnan los requisitos establecidos en la 
 
 La Comisión General de Derechos Humanos emitirá el dictamen respectivo y deberá presentarlo a la Gran Comisión para su aprobación correspondiente; y
 
-IV.- El Congreso en sesión de Pleno elegirá al Presidente de la Comisión de Derechos Humanos del Estado, requiriéndose para ello el voto de las dos terceras partes de los diputados presentes. El Presidente durará en su cargo tres años, pudiendo ser ratificado por el Congreso del Estado para un segundo periodo, sin mediar convocatoria.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+IV.- El Congreso en sesión de Pleno elegirá al Presidente de la Comisión de Derechos Humanos del Estado, requiriéndose para ello el voto de las dos terceras partes de los Diputados presentes. El Presidente durará en su cargo cinco años, pudiendo ser ratificado por el Congreso del Estado, sin mediar convocatoria.
 
 ###### ARTÍCULO 9.
 
@@ -259,7 +263,7 @@ I.- Actos y resoluciones de organismos y autoridades electorales;
 
 II.- Resoluciones de carácter jurisdiccional;
 
-III.- Conflictos de carácter laboral;
+III.- (DEROGADA, P.O. 19 DE MAYO DE 2014)
 
 IV.- Consultas formuladas por autoridades, particulares u otras entidades, sobre la interpretación de las disposiciones constitucionales y legales; y
 
@@ -737,7 +741,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de marzo del año dos mil.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 11 DE SEPTIEMBRE DE 2006.
 
@@ -762,3 +766,13 @@ Se derogan todas las disposiciones que contravengan el presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El nombramiento de los Consejeros deberá realizarse dentro del plazo de ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 19 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- La Comisión de Derechos Humanos del Estado de Puebla, deberá realizar las modificaciones necesarias a su Reglamento Interior.
+
+CUARTO.- Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal que apruebe el Congreso del Estado.
