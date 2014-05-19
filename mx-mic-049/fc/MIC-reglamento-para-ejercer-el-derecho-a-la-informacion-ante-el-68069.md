@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-680
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-13"
-last_updated: "2009-04-13"
+last_updated: "2014-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE MADERO, MICHOACAN
 
-REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE MADERO, MICHOACAN
+REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE MADERO, MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MADERO, MICHOACÁN, PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014 (DEROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el lunes 13 de abril del 2009.
 
@@ -370,3 +372,23 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Conforme a lo previsto en los artículos 145,149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, para su conocimiento y efectos legales conducentes.
 
 Villa Madero, Michoacán de Ocampo, a los 24 días del mes de marzo del año 2009 dos mil nueve. (Firmados)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los puntos no previstos en el presente Reglamento, serán resueltos por el Ayuntamiento.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Reglamento para Ejercer el Derecho a la Información de Villa Madero publicado el día 13 de abril de 2009 en la Segunda Sección del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+Conforme a lo dispuesto por el artículo 145, segundo párrafo de la Ley Orgánica Municipal, se ordena su debida publicación para su observancia en el Periódico Oficial del estado.
