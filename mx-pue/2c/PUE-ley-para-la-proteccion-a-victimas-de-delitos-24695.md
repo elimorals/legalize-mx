@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-a-victimas-de-delitos-24695"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-04"
-last_updated: "1998-07-15"
+last_updated: "2014-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY PARA LA PROTECCION A VICTIMAS DE DELITOS
 
-LEY PARA LA PROTECCION A VICTIMAS DE DELITOS
+LEY PARA LA PROTECCIÓN A VÍCTIMAS DE DELITOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE PROTECCIÓN A LAS VÍCTIMAS PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 19 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL PRIMERO DE ENERO DE DOS MIL QUINCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -266,3 +268,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2014.
+
+PRIMERO.- La presente Ley deberá ser publicada en el Periódico Oficial del Estado y entrará en vigor el primero de enero de dos mil quince, con la Ley de Egresos del Estado de Puebla para el ejercicio fiscal respectivo.
+
+SEGUNDO.- Se abroga la Ley para la Protección a Víctimas de Delitos, publicada en el Periódico Oficial del Estado el 4 de junio de 1996 y las demás disposiciones que se opongan al presente Decreto. El Reglamento de la Ley para la Protección a Víctimas de Delitos seguirá vigente en tanto se emiten las disposiciones reglamentarias de esta Ley, en todo aquello que no la contravenga.
+
+TERCERO.- Las disposiciones reglamentarias de esta Ley deberán emitirse en un plazo no mayor a ciento veinte días hábiles posteriores a la publicación del Reglamento de la Ley General de Víctimas en el Diario Oficial de la Federación.
+
+CUARTO.- La Comisión Ejecutiva deberá constituirse dentro de los noventa días hábiles posteriores al de la publicación de las disposiciones reglamentarias a que se refiere el punto inmediato anterior.
+
+QUINTO.- En tanto se constituyen las instituciones a que se refiere este ordenamiento legal, la Procuraduría atenderá a las víctimas del delito, a través de las áreas actualmente competentes que determina su Reglamento.
+
+SEXTO.- En tanto se actualizan los plazos a que se refieren los artículos anteriores, la Comisión de Derechos Humanos, en el ámbito de su competencia, proveerá lo conducente para atender a las víctimas de violaciones de derechos humanos en el Estado.
+
+SÉPTIMO.- El Fondo de Ayuda, Asistencia y Reparación Integral a Víctimas del Delito, una vez que se constituya, conforme las disposiciones reglamentarias que se emitan para tal efecto, se integrará inicialmente con el monto que a esa fecha integre el Fondo constituido en términos de la Ley para la Protección a Víctimas de Delitos.
+
+OCTAVO.- Las disposiciones legales, reglamentarias y normativas que a la entrada en vigor del presente Decreto mencionen a la Ley para la Protección a Víctimas de Delitos o al Fondo para la Protección a Víctimas del Delito, se entenderá que se refieren a esta Ley y al Fondo de Ayuda, Asistencia y Reparación Integral a Víctimas del Delito.
