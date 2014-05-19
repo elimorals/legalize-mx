@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2013-09-13"
+last_updated: "2014-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -355,9 +355,13 @@ ARTÍCULO 10 BIS.- Los distritos judiciales se agruparán, a su vez, en las sigu
 
 I.- Sur: comprendiendo los Distritos Judiciales de Acatlán, Chiautla y Matamoros, con sede en este último;
 
-II.- Norte: comprendiendo los Distritos Judiciales de Xicotepec de Juárez, Zacatlán, Alatriste y Huauchinango, con sede en este último;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
-III.- Oriente: comprendiendo los Distritos Judiciales de Teziutlán, Taltlauquitepec, Zacapoaxtla, San Juan de los Llanos, Tetela y Chalchicomula, con sede en el primero;
+II.- Norte: comprendiendo los Distritos Judiciales de Xicotepec de Juárez, Zacatlán, Alatriste, Tetela y Huauchinango, con sede en este último;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
+
+III.- Oriente: comprendiendo los Distritos Judiciales de Teziutlán, Tatlauquitepec, Zacapoaxtla, San Juan de los Llanos y Chalchicomula, con sede en el primero;
 
 IV.- Sur-Oriente: comprendiendo los Distritos Judiciales de Tehuacán, Tecamachalco y Tepexi, con sede en el primero;
 
@@ -709,11 +713,11 @@ V.- Conocer los demás asuntos que las leyes les encomienden expresamente.
 
 Corresponde a las Salas Penales:
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
 
 I.- Conocer en alzada, de los recursos que la Ley de la materia determine en los procesos seguidos ante la primera instancia.
 
-En materia penal los recursos de casación y de revisión deberán ser conocidos por Magistrados que no hubieren intervenido en el mismo asunto en apelación.
+En materia penal los recursos de casación y de revisión deberán ser conocidos por Magistrados que no hubieren intervenido en el mismo asunto en apelación, conforme a la Legislación Procesal Aplicable;
 
 II.- Conocer de los impedimentos, las recusaciones y las excusas de sus miembros, de sus subalternos y de los Jueces Penales, cuando medie oposición de parte;
 
@@ -881,11 +885,11 @@ IV.- Las demás que les confieran las leyes.
 
 Los Juzgados de Oralidad Penal ejercerán competencia territorial en cada una de las regiones judiciales señaladas en el artículo 10 Bis de esta Ley. Por acuerdo del Pleno del Tribunal, estos juzgados podrán comprender más de una región o existir varios de ellos en una sola; los Jueces Itinerantes y de Ejecución de Sanciones tendrán la competencia territorial que se señale en el acuerdo que dicte el Tribunal Pleno, en términos del artículo 70 segundo párrafo.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 43.
 
-Las atribuciones que corresponden a los Jueces de Control, al Tribunal de Juicio Oral, y de Ejecución de Sanciones son las previstas en el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, en la Ley en materia de ejecución de sanciones correspondiente, así como en las demás disposiciones aplicables.
+Las atribuciones que corresponden a los Jueces de Control, al Tribunal de Juicio Oral, y de Ejecución de Sanciones son las previstas en el Código Nacional de Procedimientos Penales, en su caso en el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, en la Ley en materia de ejecución de sanciones correspondiente, así como en las demás disposiciones aplicables.
 
 ARTÍCULO 43 BIS.- (DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
@@ -917,11 +921,11 @@ Las autoridades judiciales podrán utilizar los medios referidos para comunicars
 
 El Pleno del Tribunal Superior de Justicia dictará los reglamentos o los acuerdos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios para garantizar su seguridad y conservación, así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la ley.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
 
-###### ARTÍCULO 44 Quater.
+###### ARTÍCULO 44 Quáter.
 
-Las audiencias en que actúen Jueces de Control, especializados para adolescentes y de ejecución de sanciones, serán presididas por un solo Juez; las de Juicio Oral, se realizarán ante un panel de tres Jueces, que será presidido por uno de ellos, en calidad de Presidente.
+Las audiencias en que actúen Jueces de Control, especializados para adolescentes y de ejecución de sanciones, serán presididas por un solo Juez; las de Juicio Oral, se realizarán ante un panel de tres Jueces, que será presidido por uno de ellos, en calidad de Presidente. Cuando se considere necesario, en casos de delitos no graves, el Tribunal Superior de Justicia del Estado, funcionando en Pleno tendrá facultades para determinar que el Tribunal de enjuiciamiento esté integrado por un Juez.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -1047,11 +1051,11 @@ II.- En los casos de inhibición, por excusa o recusación de un Juez Municipal,
 
 III.- En los casos de inhibición, por excusa o recusación de un Juez Municipal del Distrito Judicial de Puebla, el asunto pasará al que le siga en número.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 58.
 
-En las cabeceras de los Municipios donde no existan Juzgados de lo Civil o Jueces de Control, los Jueces Municipales tendrán facultad para practicar diligencias urgentes y para decretar y ejecutar medidas cautelares, de su competencia, siempre que el no hacerlo cause perjuicios graves a los interesados.
+En las cabeceras de los Municipios donde no existan Juzgados de lo Civil, los Jueces Municipales tendrán facultad para practicar diligencias urgentes y para decretar y ejecutar medidas cautelares, de su competencia, siempre que el no hacerlo cause perjuicios graves a los interesados.
 
 ###### ARTÍCULO 59.
 
@@ -1793,6 +1797,8 @@ VI.- Contribuir al desarrollo de la vocación de servicio, así como al ejercici
 
 VII.- Promover intercambios con Instituciones de Educación Superior, y solicitar el apoyo de las dependencias afines de los Poderes Judiciales de los Estados y de la Federación, para la implementación de programas y cursos que tiendan a la actualización judicial.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 138.
 
 Los Magistrados y Jueces, al nombrar al personal judicial que dependa de ellos, deberán hacerlo entre aquéllos que hayan acreditado tener la formación necesaria, de conformidad con la carrera judicial, y además posean el perfil adecuado para el correcto desempeño de sus responsabilidades, de acuerdo con las disposiciones de esta Ley y del Reglamento respectivo.
@@ -1800,8 +1806,6 @@ Los Magistrados y Jueces, al nombrar al personal judicial que dependa de ellos, 
 ###### ARTÍCULO 137.
 
 La Comisión, en cabal cumplimiento de los criterios a que se hace referencia en el artículo anterior, procurará formar los cuadros de Servidores Públicos que requiera el Poder Judicial del Estado, mediante la impartición de cursos que se implementen, no sólo para la formación previa del interesado, sino para fomentar la actualización permanente de todos los miembros del Poder Judicial del Estado.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 139.
 
@@ -2882,3 +2886,13 @@ P.O. 13 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En materia de ejecución de sentencias, hasta en tanto no se publique la Ley General, el procedimiento continuará en vigor en el Estado, conforme al Título Décimo establecido en el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado con fecha catorce de septiembre de dos mil doce.
+
+CUARTO.- La implementación del Nuevo Sistema de Justicia Penal, con base en la gradualidad establecida en las disposiciones transitorias de la Ley Orgánica del Poder Judicial del Estado de Puebla, tendrá en cada caso una primera etapa de adaptación, armonización, capacitación, ajuste y adecuación de hasta seis meses, a partir de la entrada en vigor del presente Decreto.
