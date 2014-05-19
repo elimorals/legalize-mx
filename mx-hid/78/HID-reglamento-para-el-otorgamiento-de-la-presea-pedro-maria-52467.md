@@ -4,7 +4,7 @@ identifier: "HID-reglamento-para-el-otorgamiento-de-la-presea-pedro-maria-52467"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-04"
-last_updated: "2006-12-04"
+last_updated: "2014-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DE LA "PRESEA PEDRO MARIA ANAYA"
 
-REGLAMENTO PARA EL OTORGAMIENTO DE LA "PRESEA PEDRO MARIA ANAYA"
+REGLAMENTO PARA EL OTORGAMIENTO DE LA "PRESEA PEDRO MARÍA ANAYA"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 4 de diciembre de 2006.
 
@@ -71,9 +71,11 @@ El otorgamiento de la "Presea Pedro María Anaya", constará de Medalla de Oro y
 
 La Medalla tendrá en su anverso el Logotipo del Congreso del Estado Libre y Soberano del Estado de Hidalgo, la mención de los años de ejercicio, resaltando la inscripción "Presea Pedro María Anaya". En el reverso el Escudo Oficial del Estado, el nombre de la persona condecorada, el año en que se concede y penderá de una cinta con los colores Nacionales, para ser colgada en el cuello.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 5.
 
-El reconocimiento será de pergamino natural, donde se exaltarán las principales aportaciones que motivan el otorgamiento de la Presea y será firmado por el Coordinador de la Junta de Coordinación Legislativa, así como por el Presidente y Secretarios de la Directiva en turno.
+El reconocimiento será de pergamino natural, donde se exaltarán las principales aportaciones que motivan el otorgamiento de la Presea y será firmado por el Presidente de la Junta de Gobierno, así como por el Presidente y Secretarios de la Directiva en turno.
 
 ###### ARTICULO 6.
 
@@ -144,3 +146,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MAYO DE 2014.
+
+ÚNICO.- Envíese el presente decreto al Ejecutivo del Estado para su publicación.
