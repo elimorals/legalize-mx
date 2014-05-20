@@ -4,7 +4,7 @@ identifier: "LGSMIME"
 country: "mx"
 rank: "ley_general"
 publication_date: "1996-11-22"
-last_updated: "2008-07-01"
+last_updated: "2014-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9006&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGSMIME"
 ---
 # LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
+LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 22 de noviembre de 1996.
 
@@ -695,6 +695,14 @@ c) De no cumplirse con dichos requisitos, independientemente de los demás casos
 Artículo 43 Bis
 
 1. El recurso de apelación será procedente para impugnar la resolución del Órgano Técnico de Fiscalización del Instituto, que ponga fin al procedimiento de liquidación, y los actos que integren ese procedimiento, que causen una afectación sustantiva al promovente.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+Artículo 43 Ter
+
+1. El recurso de apelación será procedente para impugnar el informe que rinda el Secretario Ejecutivo del Instituto Nacional Electoral a la Cámara solicitante del Congreso de la Unión, relativo al resultado de la revisión del porcentaje de ciudadanos que hayan suscrito la iniciativa ciudadana, atendiendo lo señalado en el artículo 71, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+
+2. El recurso se interpondrá ante el Instituto Nacional Electoral dentro de los tres días siguientes a aquél en que el Presidente de la Cámara notifique el informe al representante de los promoventes de la iniciativa ciudadana.
 
 ### CAPITULO II. De la competencia
 
@@ -1570,7 +1578,7 @@ Los juicios de inconformidad relativos a la elección del Jefe de Gobierno del D
 
 Cuarto.- Si a la entrada en vigor de la presente ley se encuentra en trámite cualquier medio de impugnación ante el Tribunal Electoral, será resuelto conforme a las normas vigentes al momento de su interposición.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 1 DE JULIO DE 2008.
 
@@ -1585,3 +1593,11 @@ Artículo Tercero.- En tanto se inicia el ejercicio de las facultades constituci
 ## TRANSITORIO
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+
+Tercero. Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
