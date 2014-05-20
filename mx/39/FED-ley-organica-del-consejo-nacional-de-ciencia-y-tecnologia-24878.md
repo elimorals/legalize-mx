@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-consejo-nacional-de-ciencia-y-tecnologia-24878
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-05"
-last_updated: "2014-03-19"
+last_updated: "2014-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24878&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -49,7 +49,9 @@ El Consejo Nacional de Ciencia y Tecnología, en adelante CONACyT, es un organis
 
 ###### ARTÍCULO 2.
 
-El CONACyT, tendrá por objeto ser la entidad asesora del Ejecutivo Federal y especializada para articular las políticas públicas del Gobierno Federal y promover el desarrollo de la investigación científica y tecnológica, la innovación, el desarrollo y la modernización tecnológica del país. En cumplimiento de dicho objeto le corresponderá al CONACyT, a través de los órganos que establece esta Ley y de sus representantes, realizar lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+El CONACyT tendrá por objeto ser la entidad asesora del Ejecutivo Federal y especializada para articular las políticas públicas del Gobierno Federal y promover el desarrollo de la investigación científica y tecnológica, la innovación, el desarrollo y la modernización tecnológica del país. En cumplimiento de dicho objeto le corresponderá al CONACyT, a través de los órganos que establece esta Ley y de sus representantes, realizar lo siguiente:
 
 I. Formular y proponer las políticas nacionales en materia de ciencia y tecnología;
 
@@ -77,41 +79,49 @@ XI. Apoyar la generación, difusión y aplicación de conocimientos científicos
 
 Para ello, el CONACyT deberá emprender acciones que fomenten y fortalezcan las actividades de divulgación científica entre los investigadores del país y las organizaciones de la sociedad civil. De igual forma, deberá incentivar la vinculación entre estos actores y las instituciones del sistema educativo nacional a fin de fortalecer la capacitación de los educadores en materia de cultura científica y tecnológica;
 
-XII. Emitir los criterios generales, términos de referencia y parámetros de evaluación para medir el impacto, los resultados y beneficios de los recursos asignados a los programas de las dependencias, órganos administrativos desconcentrados y entidades paraestatales que realicen investigación científica y tecnológica, así como de los apoyos otorgados para la investigación científica y tecnológica;
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
 
-XIII. Dictaminar, administrar y evaluar los aspectos técnicos y científicos vinculados con la aplicación de los estímulos fiscales y otros instrumentos de fomento de apoyo a las actividades de investigación científica y desarrollo tecnológico;
+XII. Promover y fortalecer el Repositorio Nacional y los Repositorios, por disciplinas científicas y tecnológicas u otros que determine, a cuyo efecto emitirá los lineamientos a que se sujetarán los mismos. Establecer la conformación y funcionamiento del Repositorio Nacional a través de los lineamientos y reglas de operación que estime convenientes y de conformidad con las leyes aplicables a la materia, para incentivar la publicación en acceso abierto de las investigaciones, materiales educativos, académicos, científicos y de innovación, financiados con recursos públicos o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
-XIV. Proponer para su aprobación ante la Junta de Gobierno la creación, transformación, disolución o extinción de centros públicos de investigación con base en criterios de oportunidad de desarrollo, vinculación con necesidades y prioridades, y a un sistema de evaluación de calidad y productividad institucional; debiéndose contar con la opinión del Foro Consultivo Científico y Tecnológico;
+XIII. Emitir los criterios generales, términos de referencia y parámetros de evaluación para medir el impacto, los resultados y beneficios de los recursos asignados a los programas de las dependencias, órganos administrativos desconcentrados y entidades paraestatales que realicen investigación científica y tecnológica, así como de los apoyos otorgados para la investigación científica y tecnológica;
 
-XV. Promover y apoyar la conformación y funcionamiento de una Red Nacional de Grupos y Centros de Investigación para definir estrategias y programas conjuntos, articular acciones, potenciar recursos humanos y financieros, optimizar infraestructura, propiciar intercambios y concertar esfuerzos en áreas relevantes para el desarrollo nacional, así como definir los criterios y estándares de calidad institucional aplicados en los procesos de evaluación para ingreso y permanencia en dicho sistema;
+XIV. Dictaminar, administrar y evaluar los aspectos técnicos y científicos vinculados con la aplicación de los estímulos fiscales y otros instrumentos de fomento de apoyo a las actividades de investigación científica y desarrollo tecnológico;
 
-XVI. Promover y apoyar el desarrollo de la Red Nacional de Grupos y Centros de Investigación y los proyectos de investigación científica y tecnológica de las universidades e instituciones públicas de educación superior;
+XV. Proponer para su aprobación ante la Junta de Gobierno la creación, transformación, disolución o extinción de centros públicos de investigación con base en criterios de oportunidad de desarrollo, vinculación con necesidades y prioridades, y a un sistema de evaluación de calidad y productividad institucional; debiéndose contar con la opinión del Foro Consultivo Científico y Tecnológico;
 
-XVII. Formular estudios, programas y promover, conjuntamente con las autoridades competentes, planes de carrera orientados a ofrecer incentivos para la profesión de investigador y tecnólogo, fortalecer y multiplicar grupos de investigadores y fomentar la movilidad de investigadores entre centros, constituir nuevos centros e instituciones, incluyendo aquellos orientados a la formación de recursos humanos de alto nivel y especialización en áreas científicas y tecnológicas y crear redes en áreas estratégicas de propuestas de conocimiento. Dichos planes de carrera comprenderán catálogos de puestos y tabuladores de sueldos para los centros públicos de investigación;
+XVI. Promover y apoyar la conformación y funcionamiento de una Red Nacional de Grupos y Centros de Investigación para definir estrategias y programas conjuntos, articular acciones, potenciar recursos humanos y financieros, optimizar infraestructura, propiciar intercambios y concertar esfuerzos en áreas relevantes para el desarrollo nacional, así como definir los criterios y estándares de calidad institucional aplicados en los procesos de evaluación para ingreso y permanencia en dicho sistema;
 
-XVIII. Diseñar, organizar y operar programas de apoyo y un sistema nacional de estímulos e incentivos para la formación y consolidación de investigadores y grupos de investigadores en cualquiera de sus ramas y especialidades, así como promover el establecimiento y difusión de nuevos premios y estímulos;
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
 
-XIX. Aportar recursos a las instituciones académicas, centros de investigación y, en general, a personas físicas y morales, públicas, sociales y privadas, para el fomento y realización de investigaciones y desarrollos tecnológicos, en función de programas y proyectos específicos, en los términos de esta Ley, de la Ley de Ciencia y Tecnología y, en su caso, de los convenios que al efecto celebre el CONACyT con otros aportantes y con las instituciones o centros interesados, sin perjuicio de que dichas instituciones y centros sigan manejando e incrementando sus propios fondos y patrimonio;
+XVII. Emitir los lineamientos y criterios generales para el funcionamiento, coordinación y evaluación de la información. Definir las políticas, instrumentos y medidas de apoyo para el acceso abierto y el acceso a la información científica, tecnológica y de innovación, así como para el funcionamiento del Repositorio Nacional;
 
-XX. Formular y financiar programas de becas y en general de apoyo a la formación de recursos humanos, en sus diversas modalidades, y concederlas directamente, así como integrar la información de los programas de becas que ofrezcan para postgrado otras instituciones públicas nacionales o los organismos internacionales y gobiernos extranjeros, a fin de optimizar los recursos en esta materia y establecer esquemas de coordinación eficientes, en los términos de las convocatorias correspondientes;
+XVIII. Promover y apoyar el desarrollo de la Red Nacional de Grupos y Centros de Investigación y los proyectos de investigación científica y tecnológica de las universidades e instituciones públicas de educación superior;
 
-XXI. Operar en colaboración con las entidades federativas, el Sistema Integrado de Información sobre Investigación Científica y Tecnológica y el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, de conformidad con la Ley de Ciencia y Tecnología, y publicar la información estadística de dicho sistema;
+XIX. Formular estudios, programas y promover, conjuntamente con las autoridades competentes, planes de carrera orientados a ofrecer incentivos para la profesión de investigador y tecnólogo, fortalecer y multiplicar grupos de investigadores y fomentar la movilidad de investigadores entre centros, constituir nuevos centros e instituciones, incluyendo aquellos orientados a la formación de recursos humanos de alto nivel y especialización en áreas científicas y tecnológicas y crear redes en áreas estratégicas de propuestas de conocimiento. Dichos planes de carrera comprenderán catálogos de puestos y tabuladores de sueldos para los centros públicos de investigación;
 
-XXII. Apoyar a las dependencias y entidades de la Administración Pública Federal en los aspectos técnicos y científicos que requieran para sustentar la formulación y modificación de sus esquemas regulatorios y sus funciones de normalización y metrología, y promover la certificación tecnológica de las empresas, así como promover y verificar el cumplimiento de las disposiciones que establezcan compromisos para la realización de actividades de investigación científica y desarrollo tecnológico, en coordinación con las autoridades competentes;
+XX. Diseñar, organizar y operar programas de apoyo y un sistema nacional de estímulos e incentivos para la formación y consolidación de investigadores y grupos de investigadores en cualquiera de sus ramas y especialidades, así como promover el establecimiento y difusión de nuevos premios y estímulos;
 
-XXIII. Promover las publicaciones científicas mexicanas y fomentar la difusión sistemática de los trabajos realizados tanto por los investigadores nacionales como por los extranjeros que residan en el país, mediante la utilización de los medios más adecuados para ello, así como publicar anualmente avances relevantes de la ciencia y la tecnología nacionales, sus aplicaciones específicas y los programas y actividades trascendentes de los centros públicos de investigación;
+XXI. Aportar recursos a las instituciones académicas, centros de investigación y, en general, a personas físicas y morales, públicas, sociales y privadas, para el fomento y realización de investigaciones y desarrollos tecnológicos, en función de programas y proyectos específicos, en los términos de esta Ley, de la Ley de Ciencia y Tecnología y, en su caso, de los convenios que al efecto celebre el CONACyT con otros aportantes y con las instituciones o centros interesados, sin perjuicio de que dichas instituciones y centros sigan manejando e incrementando sus propios fondos y patrimonio;
 
-XXIV. Investigar en forma directa exclusivamente sobre el desarrollo y estado de la ciencia y la tecnología, para lo cual deberá:
+XXII. Formular y financiar programas de becas y en general de apoyo a la formación de recursos humanos, en sus diversas modalidades, y concederlas directamente, así como integrar la información de los programas de becas que ofrezcan para postgrado otras instituciones públicas nacionales o los organismos internacionales y gobiernos extranjeros, a fin de optimizar los recursos en esta materia y establecer esquemas de coordinación eficientes, en los términos de las convocatorias correspondientes;
+
+XXIII. Operar en colaboración con las entidades federativas, el Sistema Integrado de Información sobre Investigación Científica y Tecnológica y el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, de conformidad con la Ley de Ciencia y Tecnología, y publicar la información estadística de dicho sistema;
+
+XXIV. Apoyar a las dependencias y entidades de la Administración Pública Federal en los aspectos técnicos y científicos que requieran para sustentar la formulación y modificación de sus esquemas regulatorios y sus funciones de normalización y metrología, y promover la certificación tecnológica de las empresas, así como promover y verificar el cumplimiento de las disposiciones que establezcan compromisos para la realización de actividades de investigación científica y desarrollo tecnológico, en coordinación con las autoridades competentes;
+
+XXV. Promover las publicaciones científicas mexicanas y fomentar la difusión sistemática de los trabajos realizados tanto por los investigadores nacionales como por los extranjeros que residan en el país, mediante la utilización de los medios más adecuados para ello, así como publicar anualmente avances relevantes de la ciencia y la tecnología nacionales, sus aplicaciones específicas y los programas y actividades trascendentes de los centros públicos de investigación;
+
+XXVI. Investigar en forma directa exclusivamente sobre el desarrollo y estado de la ciencia y la tecnología, para lo cual deberá:
 
 A. Sistematizar y mantener actualizada la información de recursos humanos, materiales y financieros dedicados a la investigación científica y tecnológica y desarrollo tecnológico en el país;
 
 B. Realizar estudios prospectivos para identificar las necesidades nacionales en ciencia y tecnología, estudiar los problemas que la afecten y sus relaciones con la actividad general del país, y
 
-C. Promover la operación de servicios de información y documentación científica, en el marco del Sistema Integrado de Información Científica y Tecnológica.
+C. Promover la operación de servicios de información y documentación científica, en el marco del Sistema Integrado de Información Científica y Tecnológica;
 
-XXV. Coordinarse con los gobiernos de las entidades federativas para el establecimiento, operación, integración, desarrollo y evaluación tanto de los consejos locales de ciencia y tecnología como de los programas estatales en estas materias;
+XXVII. Coordinarse con los gobiernos de las entidades federativas para el establecimiento, operación, integración, desarrollo y evaluación tanto de los consejos locales de ciencia y tecnología como de los programas estatales en estas materias;
 
-XXVI. En lo que se refiere a asuntos internacionales en materia de ciencia y tecnología:
+XXVIII. En lo que se refiere a asuntos internacionales en materia de ciencia y tecnología:
 
 A. Ejecutar programas y proyectos de cooperación científica y tecnológica internacional, obtener información y dar a conocer las acciones de cooperación científica y tecnológica pactadas y desarrolladas por el CONACyT o por dependencias y entidades que apoyen la formulación e instrumentación de la política nacional de ciencia y tecnología, en coordinación con la Secretaría de Relaciones Exteriores. Tales actividades deberán observar las disposiciones legales aplicables;
 
@@ -121,11 +131,13 @@ C. Fomentar programas de formación de recursos humanos de alto nivel y de inter
 
 D. Concertar acuerdos de cooperación técnica que identifiquen y seleccionen oportunidades para establecer flujos positivos de conocimiento y recursos tecnológicos hacia las empresas nacionales, bajo criterios de asimilación inicial y posterior innovación;
 
-E. Asesorar, al titular del Ejecutivo Federal y a sus dependencias y entidades, la definición de posiciones relacionadas con la ciencia y la tecnología a ser presentadas por el Gobierno de México en los diversos foros y organismos internacionales en coordinación con la Secretaría de Relaciones Exteriores.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-XXVII. Ejercer las funciones que conforme a las leyes y demás ordenamientos corresponden a las dependencias coordinadoras de sector, respecto de las entidades paraestatales que el Presidente de la República determine, en los términos de los artículos 48, 49 y 50 de la Ley Orgánica de la Administración Pública Federal, y
+E. Asesorar, al Titular del Ejecutivo Federal y a sus dependencias y entidades, la definición de posiciones relacionadas con la ciencia y la tecnología a ser presentadas por el Gobierno de México en los diversos foros y organismos internacionales en coordinación con la Secretaría de Relaciones Exteriores;
 
-XXVIII. Realizar las demás actividades inherentes al cumplimiento de su objeto en los términos de esta Ley y de la Ley de Ciencia y Tecnología.
+XXIX. Ejercer las funciones que conforme a las leyes y demás ordenamientos corresponden a las dependencias coordinadoras de sector, respecto de las entidades paraestatales que el Presidente de la República determine, en los términos de los artículos 48, 49 y 50 de la Ley Orgánica de la Administración Pública Federal, y
+
+XXX. Realizar las demás actividades inherentes al cumplimiento de su objeto en los términos de esta Ley y de la Ley de Ciencia y Tecnología.
 
 ###### ARTÍCULO 3.
 
@@ -376,3 +388,15 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 19 DE MARZO DE 2014.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El CONACyT expedirá dentro de un plazo de 180 días siguientes a la entrada en vigor de este Decreto, los lineamientos y disposiciones correspondientes para el funcionamiento del Repositorio Nacional.
+
+TERCERO. El CONACyT contará con un plazo no mayor a 18 meses a partir de la expedición de los lineamientos y disposiciones correspondientes, para capacitar, convocar, organizar y coordinar a las instituciones e instancias en materia de acceso abierto, diseminación de la información y funcionamiento del Repositorio Nacional.
+
+El CONACyT procurará y promoverá la homologación de la normativa existente en los Estados e Instituciones que por su actividad estén sujetas a las disposiciones establecidas en este Decreto, ésta homologación deberá ejecutarse en el tiempo señalado en el párrafo anterior.
+
+CUARTO. El CONACyT dentro de su presupuesto anual, preverá los recursos necesarios para la creación, impulso y fortalecimiento de las plataformas tecnológicas, así como para el fortalecimiento del Consorcio Nacional de Recursos de Información Científica y Tecnológica, en lo conducente a las disposiciones establecidas en el presente Decreto.
