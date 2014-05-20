@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-57
 country: "mx"
 rank: "codigo"
 publication_date: "2008-01-14"
-last_updated: "2008-01-14"
+last_updated: "2014-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57988&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-01-11"
 ---
 # CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
+CÓDIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
 
 Código publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 14 de enero de 2008.
 
@@ -1959,37 +1959,41 @@ e) Orientar y coordinar las acciones de las direcciones ejecutivas y de las junt
 
 f) Participar en los convenios que se celebren con las autoridades competentes respecto a la información y documentos que habrá de aportar la Dirección Ejecutiva del Registro Federal de Electores para los procesos electorales locales;
 
-g) Suscribir, en unión del consejero presidente, los convenios que el Instituto celebre con las autoridades electorales competentes de las entidades federativas para asumir la organización de procesos electorales locales;
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-h) Coadyuvar con el contralor general en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores públicos del Instituto;
+g) Informar a la Cámara solicitante del Congreso de la Unión dentro de un plazo no mayor a treinta días naturales, contados a partir de la recepción del expediente que le remita el Presidente de la Mesa Directiva de dicha cámara, sobre el resultado de la revisión del porcentaje señalado en el artículo 71, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, en términos del párrafo cuarto del artículo 128 de este Código;
 
-i) Aprobar la estructura de las direcciones ejecutivas, vocalías y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados;
+h) Suscribir, en unión del consejero presidente, los convenios que el Instituto celebre con las autoridades electorales competentes de las entidades federativas para asumir la organización de procesos electorales locales;
 
-j) Nombrar a los integrantes de las juntas locales y distritales ejecutivas, de entre los miembros del Servicio Profesional Electoral del Instituto, de conformidad con las disposiciones aplicables;
+i) Coadyuvar con el contralor general en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores públicos del Instituto;
 
-k) Proveer a los órganos del Instituto de los elementos necesarios para el cumplimiento de sus funciones;
+j) Aprobar la estructura de las direcciones ejecutivas, vocalías y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados;
 
-l) Establecer un mecanismo para la difusión inmediata en el Consejo General, de los resultados preliminares de las elecciones de diputados, senadores y Presidente de los Estados Unidos Mexicanos; para este efecto se dispondrá de un sistema de informática para recabar los resultados preliminares. En este caso se podrán transmitir los resultados en forma previa al procedimiento establecido en los incisos a) y b) del párrafo 1 del artículo 291 de este Código. Al sistema que se establezca tendrán acceso en forma permanente los consejeros y representantes de los partidos políticos acreditados ante el Consejo General;
+k) Nombrar a los integrantes de las juntas locales y distritales ejecutivas, de entre los miembros del Servicio Profesional Electoral del Instituto, de conformidad con las disposiciones aplicables;
 
-ll) Actuar como secretario de la Junta General Ejecutiva y preparar el orden del día de sus sesiones;
+l) Proveer a los órganos del Instituto de los elementos necesarios para el cumplimiento de sus funciones;
 
-m) Recibir los informes de los vocales ejecutivos de las juntas locales y distritales ejecutivas y dar cuenta al presidente del Consejo General sobre los mismos;
+ll) Establecer un mecanismo para la difusión inmediata en el Consejo General, de los resultados preliminares de las elecciones de diputados, senadores y Presidente de los Estados Unidos Mexicanos; para este efecto se dispondrá de un sistema de informática para recabar los resultados preliminares. En este caso se podrán transmitir los resultados en forma previa al procedimiento establecido en los incisos a) y b) del párrafo 1 del artículo 291 de este Código. Al sistema que se establezca tendrán acceso en forma permanente los consejeros y representantes de los partidos políticos acreditados ante el Consejo General;
 
-n) Sustanciar los recursos que deban ser resueltos por la Junta General Ejecutiva o, en su caso, tramitar los que se interpongan contra los actos o resoluciones de ésta, en los términos de la ley de la materia;
+m) Actuar como secretario de la Junta General Ejecutiva y preparar el orden del día de sus sesiones;
 
-ñ) Apoyar la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral, cuando así lo ordene el consejero presidente;
+n) Recibir los informes de los vocales ejecutivos de las juntas locales y distritales ejecutivas y dar cuenta al presidente del Consejo General sobre los mismos;
 
-o) Elaborar anualmente, de acuerdo con las leyes aplicables, el anteproyecto de presupuesto del Instituto para someterlo a la consideración del presidente del Consejo General;
+ñ) Sustanciar los recursos que deban ser resueltos por la Junta General Ejecutiva o, en su caso, tramitar los que se interpongan contra los actos o resoluciones de ésta, en los términos de la ley de la materia;
 
-p) Ejercer las partidas presupuestales aprobadas;
+o) Apoyar la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral, cuando así lo ordene el consejero presidente;
 
-q) Otorgar poderes a nombre del Instituto para actos de dominio, de administración y para ser representado ante cualquier autoridad administrativa o judicial, o ante particulares. Para realizar actos de dominio sobre inmuebles destinados al Instituto o para otorgar poderes para dichos efectos, el secretario ejecutivo requerirá de la autorización previa del Consejo General;
+p) Elaborar anualmente, de acuerdo con las leyes aplicables, el anteproyecto de presupuesto del Instituto para someterlo a la consideración del presidente del Consejo General;
 
-r) Preparar, para la aprobación del Consejo General, el proyecto de calendario integral de los procesos electorales ordinarios, así como de elecciones extraordinarias, que se sujetará a la convocatoria respectiva;
+q) Ejercer las partidas presupuestales aprobadas;
 
-s) Expedir las certificaciones que se requieran; y
+r) Otorgar poderes a nombre del Instituto para actos de dominio, de administración y para ser representado ante cualquier autoridad administrativa o judicial, o ante particulares. Para realizar actos de dominio sobre inmuebles destinados al Instituto o para otorgar poderes para dichos efectos, el secretario ejecutivo requerirá de la autorización previa del Consejo General;
 
-t) Las demás que le encomienden el Consejo General, su presidente, la Junta General Ejecutiva y este Código.
+s) Preparar, para la aprobación del Consejo General, el proyecto de calendario integral de los procesos electorales ordinarios, así como de elecciones extraordinarias, que se sujetará a la convocatoria respectiva;
+
+t) Expedir las certificaciones que se requieran; y
+
+u) Las demás que le encomienden el Consejo General, su presidente, la Junta General Ejecutiva y este Código.
 
 ### Capítulo sexto. De las direcciones ejecutivas
 
@@ -2042,6 +2046,30 @@ o) Asistir a las sesiones de la Comisión del Registro Federal de Electores sól
 p) Las demás que le confiera este Código.
 
 2. Para coadyuvar en los trabajos relativos al Padrón Electoral se integrará la Comisión Nacional de Vigilancia, que presidirá el director ejecutivo del Registro Federal de Electores, con la participación de los partidos políticos nacionales.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+3. Las firmas a que se refiere el artículo 71, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, no se computarán para los efectos del porcentaje requerido cuando se presente alguna de las siguientes circunstancias:
+
+a) Nombres con datos incompletos, falsos o erróneos, que no permitan la identificación del ciudadano;
+
+b) No se acompañen la clave de elector o el número identificador ubicado al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente;
+
+c) Un ciudadano haya suscrito dos o más veces la misma iniciativa; en este caso, sólo se contabilizará una de las firmas;
+
+d) Cuando los ciudadanos hayan sido dados de baja de la lista nominal por alguno de los supuestos previstos en este Código.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+4. Finalizada la verificación de las firmas, la Dirección General Ejecutiva del Registro Federal de Electores remitirá al secretario ejecutivo del Instituto un informe detallado y desagregado que deberá contener:
+
+a) El número total de ciudadanos firmantes;
+
+b) El número de ciudadanos firmantes que se encuentran en la lista nominal de electores y su porcentaje;
+
+c) El número de ciudadanos firmantes que no se encuentran en la lista nominal de electores y su porcentaje;
+
+d) Los ciudadanos que hayan sido dados de baja de la lista nominal por alguno de los supuestos previstos en este Código.
 
 Artículo 129
 
@@ -5774,3 +5802,13 @@ Décimo Segundo.- Se derogan todas las disposiciones que se opongan al presente 
 México, D.F., a 11 de diciembre de 2007.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Claudia Sofía Corichi García, Secretaria.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+
+Tercero.- Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
