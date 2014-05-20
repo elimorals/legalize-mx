@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2014-04-11"
+last_updated: "2014-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 20 DE MAYO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1583,7 +1583,9 @@ La duración de la pena de prisión que se imponga por uno o más delitos nunca 
 
 1) Terrorismo del artículo 188.
 
-2) Desaparición forzada de personas del artículo 212 BIS.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
+
+2) Desaparición de personas del Artículo 212 BIS.
 
 3) Asociación delictuosa o cualquiera de sus relacionados, previstos en los artículos 272 y 272-BIS.
 
@@ -2979,7 +2981,7 @@ ARTÍCULO 174 (EFECTOS Y PAUTAS DE LA PRESCRIPCIÓN)
 
 La prescripción es personal y extingue la acción penal y las penas y las medidas de seguridad, para lo cual bastará el transcurso del tiempo señalado en la ley.
 
-La resolución respecto a la prescripción se dictará de oficio o a petición de parte.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE MAYO DE 2014)</small>
 
 Los términos para que opere la prescripción se duplicarán respecto de quienes se encuentren fuera del territorio del Estado de Coahuila de Zaragoza, si por dicha circunstancia no es posible concluir la investigación inicial o el proceso, o ejecutar la sentencia.
 
@@ -3377,55 +3379,81 @@ V. ABUSO CONTRA LA TRANQUILIDAD PERSONAL. Valiéndose de su cargo, amenace o int
 
 VI. ABUSO CONTRA LA SEGURIDAD PERSONAL. Estando encargado de la custodia o conducción de alguna persona detenida o presa, cometa contra ella cualquier acto prohibido por la ley.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2014)</small>
 
-ARTÍCULO 212 BIS. SANCIONES Y FIGURA TÍPICA DE DESAPARICIÓN FORZADA DE PERSONAS. Se aplicará una pena de veinte a sesenta años de prisión, además de la destitución e inhabilitación de forma vitalicia para el desempeño de cualquier cargo, empleo o comisión públicos, al servidor público que, detenga, arreste, aprehenda o prive de la libertad, cualquiera que fuere su forma a una o varias personas, o bien autorice, ordene, apoye o consienta que otros lo hagan, seguida del ocultamiento del paradero de la persona o de la negativa a reconocer dicha privación de libertad, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes.
+ARTÍCULO 212 BIS. SANCIONES Y FIGURA TÍPICA DE DESAPARICIÓN DE PERSONA. Se aplicará una pena de veinte a sesenta años de prisión, además de la destitución e inhabilitación de forma vitalicia para el desempeño de cualquier cargo, empleo o comisión públicos, al servidor público que detenga, arreste, aprehenda o prive de la libertad, cualquiera que fuere su forma a una o varias personas, o bien autorice, ordene, apoye o consienta que otros lo hagan, seguida del ocultamiento del paradero de la persona o de la negativa a reconocer dicha privación de libertad, sustrayéndola con ello de la protección de la ley.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 Las mismas penas se impondrán al particular que por orden, autorización, apoyo, consentimiento o aquiescencia de un servidor público participe en los actos descritos en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+Se le aplicará una pena de diez a cuarenta años de prisión a quien incurra en la conducta anteriormente descrita, cuando sea obra de personas o grupos de personas que actúen sin la autorización, el apoyo o el consentimiento del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
 Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de quien hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad cuando contribuya a lograr la aparición con vida o el paradero de la víctima.
 
-El delito de desaparición forzada de personas es de ejecución permanente en tanto no se tenga conocimiento del paradero de la víctima.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
-La acción penal derivada de la desaparición forzada de personas y la pena que se imponga judicialmente al responsable de la misma no estarán sujetas a prescripción.
+Los delitos a que se refiere este Artículo son de ejecución permanente hasta que se esclarezca el paradero de la víctima.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
+
+La acción penal derivada de los delitos a que se refiere este Artículo y la pena que se imponga judicialmente al responsable, no estarán sujetas a prescripción.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 Lo relativo a la reparación del daño a favor del ofendido o víctima en caso de resultar procedente, se atenderá a lo que se establece en el titulo quinto, capítulo noveno del presente ordenamiento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO SU ENCABEZADO, P.O. 20 DE MAYO DE 2014)</small>
 
-ARTÍCULO 212 BIS 1. CIRCUNSTANCIAS AGRAVANTES DEL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS:
+ARTÍCULO 212 BIS 1. CIRCUNSTANCIAS AGRAVANTES DEL DELITO DE DESAPARICIÓN DE PERSONAS.
 
-A quien cometa el delito de desaparición forzada de personas, se le incrementará la pena de prisión en una mitad de la que le corresponda, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2014)</small>
+
+A quien cometa el delito de desaparición de personas, se le incrementará la pena de prisión en una mitad de la que le corresponda, cuando:
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 I. La víctima del delito de desaparición forzada de personas fallezca durante o después del tiempo en que se encuentre privada de la libertad, debido a cualquier alteración de su salud que sea consecuencia de la privación de la misma, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito.
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
 II. Se haya infligido a la víctima grave daño físico o psicológico.
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 III. El sujeto pasivo del delito sea persona con discapacidad, migrante, menor de dieciocho años, mayor de sesenta años, indígena o mujer embarazada, o pertenezca a un grupo especialmente vulnerable.
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
 IV. Se cometa con el propósito de ocultar o asegurar la impunidad de otro delito; o
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 V. Se cometa como parte de un ataque generalizado o sistemático contra una población civil y con conocimiento de dicho ataque.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
-ARTÍCULO 212 BIS 2. SANCIONES PARA QUIEN OCULTE AL INFANTE QUE NAZCA DURANTE LA DESAPARICIÓN FORZADA DE LA MADRE: a quien retenga, mantenga oculto, o no entregue a su familia al infante que nazca durante el período de desaparición forzada de la madre se le impondrá una pena de diez a veinte años de prisión.
+ARTÍCULO 212 BIS 2. SANCIONES PARA QUIEN OCULTE AL INFANTE QUE NAZCA DURANTE LA DESAPARICIÓN DE LA MADRE. A quien retenga, mantenga oculto, o no entregue a su familia al infante que nazca durante el período de desaparición de la madre se le impondrá una pena de diez a veinte años de prisión.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
-ARTÍCULO 212 BIS 3. SANCIONES PARA QUIÉN CONOCIENDO EL PARADERO DEL INFANTE NACIDO DURANTE LA DESAPARICIÓN FORZADA DE LA MADRE NO PROPORCIONE INFORMACIÓN PARA SU LOCALIZACIÓN: A quien conociendo el paradero o destino final del infante que nazca durante el período de la desaparición forzada de la madre, no proporcione información para su localización se le aplicará una pena de dos a cinco años de prisión.
+ARTÍCULO 212 BIS 3. SANCIONES PARA QUIEN CONOCIENDO EL PARADERO DEL INFANTE NACIDO DURANTE LA DESAPARICIÓN DE LA MADRE NO PROPORCIONE INFORMACIÓN PARA SU LOCALIZACIÓN. A quien conociendo el paradero o destino final del infante que nazca durante el período de la desaparición de la madre, no proporcione información para su localización se le aplicará una pena de dos a cinco años de prisión.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
-ARTÍCULO 212 BIS 4. AMNISTÍA, PERDÓN Y OTROS BENEFICIOS QUE LAS LEYES ESTABLECEN PARA EL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS: Quien cometa el delito de desaparición forzada de persona no tendrá derecho a gozar del perdón, conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria, amnistía, indulto o cualquier otro beneficio que las leyes respectivas establezcan, salvo el caso estipulado en el artículo 212 BIS. Tampoco se le considerará de carácter político para los efectos de extradición.
+ARTÍCULO 212 BIS 4. AMNISTÍA, PERDÓN Y OTROS BENEFICIOS QUE LAS LEYES ESTABLECEN PARA EL DELITO DE DESAPARICIÓN DE PERSONAS. Quien cometa el delito de desaparición de personas no tendrá derecho a gozar del perdón, conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria, amnistía, indulto o cualquier otro beneficio que las leyes respectivas establezcan, salvo el caso estipulado en el artículo 212 BIS. Tampoco se le considerará de carácter político para los efectos de extradición.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
-ARTÍCULO 212 BIS 5. EXCLUYENTES DEL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS: No podrán invocarse como causas excluyentes del delito de desaparición forzada de personas, la obediencia por razones de jerarquía, las órdenes o instrucciones recibidas por superiores o circunstancias como inseguridad pública, inestabilidad política interna, o cualquier otra emergencia.
+ARTÍCULO 212 BIS 5. EXCLUYENTES DEL DELITO DE DESAPARICIÓN DE PERSONAS. No podrán invocarse como causas excluyentes del delito de desaparición de personas, la obediencia por razones de jerarquía, las órdenes o instrucciones recibidas por superiores o circunstancias como inseguridad pública, inestabilidad política interna, o cualquier otra emergencia.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
-ARTÍCULO 212 BIS 6. SANCIONES PARA LOS SERVIDORES PÚBLICOS QUE OBSTRUYAN LA INVESTIGACIÓN: Los servidores públicos que teniendo a su cargo la investigación del delito de desaparición forzada de persona o sus auxiliares, evidentemente la obstruyan o eviten hacerla, se les aplicará una pena de cinco a diez años de prisión además de la inhabilitación vitalicia para el desempeño de cualquier cargo, empleo o comisión públicos.
+ARTÍCULO 212 BIS 6. SANCIONES PARA LOS SERVIDORES PÚBLICOS QUE OBSTRUYAN LA INVESTIGACIÓN. Los servidores públicos que teniendo a su cargo la investigación del delito de desaparición de persona o sus auxiliares, evidentemente la obstruyan o eviten hacerla, se les aplicará una pena de cinco a diez años de prisión además de la inhabilitación vitalicia para el desempeño de cualquier cargo, empleo o comisión públicos.
 
 #### SECCIÓN NOVENA. COALICIÓN DE SERVIDORES PÚBLICOS
 
@@ -6724,3 +6752,9 @@ DECRETO NO. 437 POR EL QUE SE ADICIONA AL TÍTULO SEGUNDO, CAPÍTULO PRIMERO DEL
 P.O. 11 DE ABRIL DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ministerio Público y los jueces penales del Estado de Coahuila de Zaragoza, deberán capacitarse conforme a los estándares internacionales del delito de persona desaparecida, para garantizar de manera adecuada una búsqueda, persecución y sanción del delito.
