@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2013-09-11"
+last_updated: "2014-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -398,9 +398,9 @@ VI.- Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin 
 
 VII.- Promover permanentemente la investigación que sirva como base a la innovación educativa;
 
-> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
 
-VIII.- Promover la investigación y el desarrollo de la ciencia y la tecnología, y fomentar su enseñanza y divulgación;
+VIII.- Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, y fomentar su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o que se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
 IX.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
 
@@ -1641,3 +1641,15 @@ Décimo Primero.- Las erogaciones que se generen con motivo de la entrada en vig
 Décimo Segundo.- A efecto de dar cumplimiento a la obligación de garantizar la calidad en la educación, las autoridades educativas deberán proveer lo necesario para revisar el modelo educativo en su conjunto, los planes y programas, los materiales y métodos educativos.
 
 Décimo Tercero.- Las autoridades educativas, en el ámbito de sus respectivas competencias, establecerán de forma paulatina y progresiva, conforme a la disponibilidad presupuestaria, un programa de subsidios escolares compensatorios para reducir condiciones de inequidad social en el sistema educativo.
+
+D.O.F. 20 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El CONACyT expedirá dentro de un plazo de 180 días siguientes a la entrada en vigor de este Decreto, los lineamientos y disposiciones correspondientes para el funcionamiento del Repositorio Nacional.
+
+TERCERO. El CONACyT contará con un plazo no mayor a 18 meses a partir de la expedición de los lineamientos y disposiciones correspondientes, para capacitar, convocar, organizar y coordinar a las instituciones e instancias en materia de acceso abierto, diseminación de la información y funcionamiento del Repositorio Nacional.
+
+El CONACyT procurará y promoverá la homologación de la normativa existente en los Estados e Instituciones que por su actividad estén sujetas a las disposiciones establecidas en este Decreto, ésta homologación deberá ejecutarse en el tiempo señalado en el párrafo anterior.
+
+CUARTO. El CONACyT dentro de su presupuesto anual, preverá los recursos necesarios para la creación, impulso y fortalecimiento de las plataformas tecnológicas, así como para el fortalecimiento del Consorcio Nacional de Recursos de Información Científica y Tecnológica, en lo conducente a las disposiciones establecidas en el presente Decreto.
