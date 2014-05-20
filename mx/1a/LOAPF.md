@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2013-12-26"
+last_updated: "2014-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -326,7 +326,9 @@ A la Secretaría de Gobernación corresponde el despacho de los siguientes asunt
 
 I. Coordinar, por acuerdo del Presidente de la República, a los Secretarios de Estado y demás funcionarios de la Administración Pública Federal para garantizar el cumplimiento de las órdenes y acuerdos del Titular del Ejecutivo Federal. Para tal efecto, convocará por acuerdo del Presidente de la República a las reuniones de gabinete; acordará con los titulares de las Secretarías de Estado, órganos desconcentrados y entidades paraestatales las acciones necesarias para dicho cumplimiento, y requerirá a los mismos los informes correspondientes;
 
-II. Presentar ante el Congreso de la Unión las iniciativas de ley o decreto del Ejecutivo;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+II. Presentar ante el Congreso de la Unión las iniciativas de ley o decreto del Ejecutivo; y en su caso, comunicar el señalamiento formal del Presidente de la República del carácter preferente de hasta dos de las iniciativas que se hubieren presentado en periodos anteriores cuando estén pendientes de dictamen;
 
 III. Administrar el Diario Oficial de la Federación y publicar las leyes y decretos del Congreso de la Unión, de alguna de las dos Cámaras o la Comisión Permanente, así como los reglamentos que expida el Presidente de la República, en términos de lo dispuesto en la fracción I del artículo 89 constitucional y el inciso B del artículo 72 constitucional, y las resoluciones y disposiciones que por ley deban publicarse en dicho medio de difusión oficial;
 
@@ -2397,3 +2399,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO.- Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
+
+D.O.F. 20 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+
+Tercero.- Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
