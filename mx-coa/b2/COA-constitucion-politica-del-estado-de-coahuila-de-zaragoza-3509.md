@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2014-04-11"
+last_updated: "2014-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -177,6 +177,26 @@ f) Las demás atribuciones que establezca la ley.
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2006)</small>
 
 Las Cartas de los Derechos Fundamentales y esta Constitución, determinan los principios mínimos en los que se sustenta el ejercicio de los Derechos Humanos. Serán ley suprema en el régimen interior del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+Ninguna persona será sometida a desaparición, sea ésta cometida por agentes del Estado o por personas o grupos de personas que actúen sin la autorización, el apoyo o el consentimiento del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+El Estado tiene la obligación de adoptar todas las medidas apropiadas para proteger a las personas contra las desapariciones.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+Las personas desaparecidas y quienes hayan sufrido un perjuicio directo como consecuencia de una desaparición, tienen derecho a una búsqueda inmediata y efectiva, a la localización de la persona desaparecida, a conocer la verdad, a la justicia, a la protección judicial efectiva y a la reparación integral del daño y a las garantías de no repetición. El Estado garantizará estos derechos.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+Las personas desaparecidas tienen derecho a continuar con su personalidad jurídica con el fin de garantizar el ejercicio de todos sus derechos. El Estado adoptará las medidas apropiadas en relación con la situación legal de las personas desaparecidas cuyo paradero no haya sido esclarecido. La ley establecerá el procedimiento para la declaración de ausencia por desaparición de personas.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+Ninguna persona será sometida a cualquier forma de esclavitud, servidumbre, o a ejecutar un trabajo forzoso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -4887,3 +4907,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente.
 P.O. 11 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 20 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado presentará ante el Congreso de la Unión una Iniciativa de Reformas a la Constitución Política de los Estados Unidos Mexicanos, para proponer el reconocimiento de los derechos y garantías de las personas desaparecidas conforme a los contenidos similares previstos en este Decreto.
+
+TERCERO.- Dentro de los ochenta días siguientes a la entrada en vigor de este Decreto, se presentará ante el Congreso del Estado la Iniciativa de Carta de Derechos de las Personas Desaparecidas para desarrollar los derechos y garantías bajo los estándares internacionales.
+
+CUARTO.- Dentro de los ciento sesenta días siguientes a la entrada en vigor de este Decreto, se presentará la Ley General de Desaparición de Personas del Estado de Coahuila de Zaragoza conforme a las recomendaciones internacionales de organismos de derechos humanos.
