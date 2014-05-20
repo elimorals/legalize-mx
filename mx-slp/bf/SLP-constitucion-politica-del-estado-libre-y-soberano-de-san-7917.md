@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-04-22"
+last_updated: "2014-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -95,15 +95,29 @@ Para la prevalencia y conservación del estado de derecho, todas las autoridades
 
 En el Estado de San Luis Potosí la protección de los derechos de sus habitantes y la permanente búsqueda del interés público son la base y objeto de las instituciones políticas y sociales.
 
-Para la convivencia armónica de sus habitantes, queda asegurado el goce irrestricto de todas las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, las que el Estado adopta como propias. Las autoridades estatales y municipales deberán respetar y hacer respetar tanto dichas garantías como los derechos humanos, conforme lo dispongan las leyes reglamentarias y ordinarias respectivas.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+Para la convivencia armónica de sus habitantes, queda asegurado el goce irrestricto de los derechos humanos y las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales, las que el Estado adopta como propias. Las autoridades estatales y municipales deberán respetar y hacer respetar tanto dichas garantías, como los derechos humanos, conforme lo dispongan las leyes reglamentarias y ordinarias respectivas, así como los tratados internacionales de la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+Las normas relativas a los derechos humanos serán interpretadas de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 8o.
 
-En el Estado de San Luis Potosí todos los habitantes son libres e iguales en dignidad y derechos.
+En el Estado de San Luis Potosí todas las personas son libres e iguales en dignidad y derechos.
 
 El varón y la mujer son iguales ante la ley. El Estado promoverá la igualdad de oportunidades de los varones y las mujeres potosinos en la vida pública, económica, social y cultural.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2014)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
@@ -175,13 +189,13 @@ Es responsabilidad del Congreso del Estado vigilar que todas las leyes o decreto
 
 Todas las personas tienen el derecho de recibir educación. La educación que imparta el Estado en todos sus tipos y modalidades será gratuita. La educación preescolar, primaria, secundaria, y media superior, serán obligatorias.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
-La educación que imparta el Estado será laica y tendrá por objeto el pleno desarrollo de todas las facultades del ser humano. Promoverá el amor a la Patria y a sus símbolos; fortalecerá la identidad estatal y la conciencia en los valores de la independencia nacional, la libertad, la justicia, la democracia, la dignidad y la solidaridad social.
+La educación que imparte el Estado será laica y tendrá por objeto el pleno desarrollo de todas las facultades del ser humano. Promoverá el amor a la patria y a sus símbolos; fomentará el respeto a los derechos humanos; fortalecerá la identidad estatal y la conciencia en los valores de la independencia nacional, la libertad, la justicia, la democracia, la dignidad y la solidaridad social.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
-La educación en el Estado estará regida por los criterios y lineamientos que la Constitución Política de los Estados Unidos Mexicanos establece en relación a la democracia, su carácter nacional, sus contenidos y las condiciones para la mejor convivencia humana, la dignidad de la persona, la integridad de la familia y el interés general de la sociedad.
+La educación en el Estado estará regida por los criterios y lineamientos que la Constitución Política de los Estados Unidos Mexicanos establece en relación a la democracia, su carácter nacional, sus contenidos y las condiciones para la mejor convivencia humana, la dignidad de las personas, el respeto a los derechos humanos, la integridad de la familia y el interés general de la sociedad.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2014)</small>
 
@@ -1203,7 +1217,9 @@ XIX.- Celebrar y ejecutar actos de dominio sobre bienes muebles propiedad del Es
 
 XX.- Con la autorización del Congreso, concertar empréstitos y avalar los que soliciten los Ayuntamientos u otros organismos públicos;
 
-XXI.- Organizar el sistema penitenciario en el Estado, siempre sobre la base del trabajo, la educación, el deporte y las actividades culturales y recreativas, como medios de readaptación social; así como fijar el lugar y establecimiento donde los internos deban compurgar las penas impuestas por los tribunales;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2014)</small>
+
+XXI.- Organizar el sistema penitenciario en el Estado siempre sobre la base del respeto a los derechos humanos, el trabajo, la educación, el deporte y las actividades culturales y recreativas, como medios de readaptación social; así como fijar el lugar y establecimiento donde los internos deban compurgar las penas impuestas por los tribunales;
 
 XXII.- Celebrar convenios de carácter general con la Federación, para que los sentenciados por delitos del orden común cumplan su condena en establecimientos dependientes del Poder Ejecutivo Federal;
 
@@ -2113,17 +2129,25 @@ VI.- La Legislatura del Estado expedirá las leyes para sancionar penal y admini
 
 Todo funcionario, antes de tomar posesión de su empleo, hará la protesta de guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes emanadas de ambas y desempeñar fielmente sus deberes. Si son de los que han de ejercer autoridad, además deberán rendir protesta de hacerlas guardar.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 135.
 
-Las adquisiciones, arrendamientos y enajenaciones de toda clase de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra se llevarán a cabo y adjudicarán, de manera que se garanticen al Estado y sus municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, según las leyes respectivas.
+Los recursos económicos de que dispongan los poderes del Estado, sus entidades descentralizadas, los organismos constitucionales autónomos, y los ayuntamientos, se administrarán con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+La Auditoría Superior del Estado, y las contralorías de los poderes, Legislativo, Ejecutivo, y Judicial, así como de los ayuntamientos, y de los organismos constitucionales autónomos, en el ámbito de sus competencias, vigilarán el estricto cumplimiento de esta disposición, y evaluarán el ejercicio de los recursos económicos, con el fin de propiciar que éstos se incluyan en los respectivos presupuestos.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2006)</small>
+Las adquisiciones, arrendamientos y enajenaciones de toda clase de bienes, la prestación de servicios de cualquier naturaleza; y la contratación de obra, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria abierta para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado, organismos constitucionales autónomos, y ayuntamientos, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
-La Auditoría Superior del Estado y las contralorías de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos, en el ámbito de sus competencias, vigilarán el estricto cumplimiento de esta disposición.
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, organismos constitucionales autónomos, y ayuntamientos.
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Décimo Segundo de esta Constitución.
+
+Los servidores públicos del Estado, organismos constitucionales autónomos, y sus ayuntamientos, tienen, en todo tiempo, la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los organismos constitucionales autónomos, las dependencias y entidades de la administración pública, y cualquier otro ente de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso dicha propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes, en sus respectivos ambitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2143,13 +2167,17 @@ DE LAS REFORMAS E INVIOLABILIDAD A LA CONSTITUCIÓN
 
 Los funcionarios que, según el artículo 61 de esta Constitución, tienen derecho de iniciativa, lo tienen, igualmente, de iniciar las reformas a esta Constitución.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 138.
 
-Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requerirá su aprobación por el voto, cuando menos, de las dos terceras partes del número total de los Diputados y el voto posterior de cuando menos las tres cuartas partes de los Ayuntamientos.
+Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requerirá su aprobación por el voto de por lo menos las dos terceras partes del número total de los diputados, y el voto posterior de la mayoría de los ayuntamientos del Estado.
 
-El Congreso del Estado o la Diputación Permanente, en su caso, harán el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+Los ayuntamientos tendrán un plazo no mayor de tres meses para pronunciarse a favor o en contra de las adiciones o reformas que les sean enviadas por el Congreso; este plazo comenzará a partir de la recepción de las mismas. De no pronunciarse en el plazo estipulado, los cabildos serán sancionados de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+Una vez cumplida cualquiera de las hipótesis señaladas en los párrafos anteriores, el Congreso del Estado, o la Diputación Permanente, en su caso, harán el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+
+Tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la presente Constitución, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de los diputados, para que éstas formen parte de la misma.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2672,3 +2700,27 @@ P.O. 22 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación por el voto de cuando menos las tres cuartas partes de los ayuntamientos de la Entidad, en términos del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2014.
+
+DECRETO NÚMERO 578 POR EL QUE SE REFORMAN LOS ARTÍCULOS, 7° EN SU PÁRRAFO SEGUNDO, 8° EN SU PÁRRAFO PRIMERO, 10 EN SUS PÁRRAFOS SEGUNDO Y TERCERO, Y 80 EN SU FRACCIÓN XXI; Y ADICIONA A LOS ARTÍCULOS 7° LOS PÁRRAFOS TERCERO Y CUARTO, Y 8° EL PÁRRAFO TERCERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
+
+ÚNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2014.
+
+DECRETO NÚMERO 579 POR EL QUE SE REFORMA EL ARTÍCULO 138 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
+
+ÚNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2014.
+
+DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL ARTÍCULO 135 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los poderes del Estado, sus entidades descentralizadas, y los organismos constitucionales autónomos, deberán realizar las reformas que sean necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo de tres meses, contado a partir de la fecha de entrada en vigor del mismo.
+
+TERCERO. Los ayuntamientos y sus entidades descentralizados (sic) deberán hacer los ajustes indispensables a su normativa legal y administrativa, en un plazo de tres meses, contado a partir de la fecha de entrada en vigor de este Decreto.
+
+CUARTO. Las adquisiciones, arrendamientos y enajenaciones de toda dase de bienes; la prestación de servicios de cualquier naturaleza; y la contratación de obra, que se encuentren en proceso a la entrada en vigor de este Decreto, se seguirán realizando de acuerdo con la normativa en que se tramitaron.
