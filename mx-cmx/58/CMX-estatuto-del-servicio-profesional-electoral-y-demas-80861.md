@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-electoral-y-demas-80861"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-04-15"
-last_updated: "2014-02-18"
+last_updated: "2014-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80861&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-03-28"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMAS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMÁS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2014.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -294,9 +296,11 @@ La interpretación y aplicación de las disposiciones de este Estatuto se hará 
 
 Para lo no previsto en el Estatuto, se aplicará en forma supletoria la Ley Federal de los Trabajadores al Servicio del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MAYO DE 2014)</small>
+
 ###### Artículo 2.
 
-Para los efectos del Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral Distrito (sic) Federal, se entenderá:
+Para los efectos del Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal, se entenderá:
 
 A) En cuanto a los ordenamientos legales:
 
@@ -348,7 +352,9 @@ XII. Secretario Ejecutivo: Titular de la Secretaría Ejecutiva del Instituto Ele
 
 XIII. Tribunal: El Tribunal Electoral del Distrito Federal.
 
-C) En cuanto hace a los conceptos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MAYO DE 2014)</small>
+
+C) En cuanto a los conceptos:
 
 I. Ascenso: Movimiento al nivel inmediato superior en el mismo cargo del personal de estructura del Servicio Profesional Electoral y de la Rama Administrativa;
 
@@ -382,7 +388,9 @@ XV. Personal del servicio: Personal del Servicio Profesional Electoral;
 
 XVI. Personal de estructura: Personal del Servicio Profesional Electoral y el personal de la Rama Administrativa del Instituto Electoral;
 
-XVII. Personal administrativo: Titulares de Órganos Ejecutivos, Técnicos y con Autonomía de Gestión, así como aquellos servidores púbicos (sic) que no formen parte del Servicio Profesional Electoral ni se reputen como eventuales;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2014)</small>
+
+XVII. Personal administrativo: Consejeros Electorales, Titulares de Órganos Ejecutivos, Técnicos y con Autonomía de Gestión, así como aquellos servidores públicos que no formen parte del Servicio Profesional Electoral ni se consideren como eventuales;
 
 XVIII. Puesto: La denominación que se atribuye en la estructura para una función específica y que se define en el Catálogo;
 
@@ -838,9 +846,23 @@ II. El Centro, una vez recibida la solicitud del área, emitirá en el término 
 
 III. Con la solicitud y el dictamen correspondientes, el Centro remitirá al Secretario Administrativo la propuesta de encargaduría, a efecto que éste en su calidad de secretario de la Junta lo haga de su conocimiento y sea dicho órgano el que determine sobre la procedencia de la encargaduría de despacho solicitada. Cuando la Junta determine que es improcedente deberá dar las razones y fundamentos de su negativa;
 
-IV. La designación que se realice podrá tener una vigencia máxima de noventa días, prorrogables por un periodo igual, en cuyo caso el área correspondiente deberá realizar lo señalado en las fracciones I, II y III del presente artículo. En ningún caso procederá la prórroga automática de la encargaduría, y
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2014)</small>
+
+IV. La designación que se realice tendrá una vigencia máxima de seis meses, que podrá ser prorrogada por un periodo igual, en cuyo caso el área correspondiente deberá realizar lo señalado en las fracciones I, II y III del presente artículo; debiéndose procurar que el nombramiento de un titular se realice en cuanto se tengan las condiciones para ello. En ningún caso procederá automáticamente la prórroga de la encargaduría.
 
 V. En caso de que la Junta considere procedente la designación de encargado de despacho, instruirá al Secretario Administrativo para que a través de la Dirección de Recursos Humanos y Financieros, realice las notificaciones y los ajustes salariales correspondientes.
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2014)</small>
+
+VI. La encargaduría de despacho se dará por terminada anticipadamente a la vigencia autorizada por la Junta, en los siguientes casos:
+
+a) Por acuerdo de la Junta;
+
+b) Por la ocupación del cargo a través de los mecanismos ordinarios previstos en el presente Estatuto, y
+
+c) A petición del titular de la unidad administrativa correspondiente.
+
+En el caso del inciso c) de la presente fracción, el titular de la unidad administrativa correspondiente, por conducto del Centro, solicitará a la Junta la conclusión anticipada de la encargaduría de despacho, quien determinará la procedencia o improcedencia de la solicitud.
 
 ###### Artículo 32.
 
@@ -862,9 +884,19 @@ Líder de Proyecto o Analista Líder de Proyecto
 
 El Secretario Administrativo informará mensualmente a la Junta sobre el estado que guardan las encargadurías de despacho autorizadas por ésta de acuerdo con el Estatuto.
 
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2014)</small>
+
 ###### Artículo 34.
 
-El personal de estructura podrá ser readscrito o comisionado temporalmente para desempeñar funciones en un área del Instituto Electoral distinta a la de su adscripción en el mismo cargo y puesto, cuando se requiera por necesidades del servicio, siempre que sea acorde con los conocimientos y con el perfil requerido.
+El personal de estructura podrá ser readscrito o comisionado temporalmente, por un periodo máximo de seis meses, que podrá ser prorrogado por un lapso igual, para desempeñar funciones en un área del Instituto Electoral distinta a la de su adscripción en el mismo cargo o puesto, cuando se requiera por necesidades del servicio, siempre que sea acorde con los conocimientos y con el perfil requeridos.
+
+La readscripción o comisión se dará por terminada anticipadamente a la vigencia autorizada por la Junta, en los siguientes casos:
+
+a) Por acuerdo de la Junta, y
+
+b) A petición de alguno de los titulares de las unidades administrativas correspondientes.
+
+En el caso del inciso b) del párrafo anterior, el titular de la unidad administrativa correspondiente, por conducto del Centro, solicitará a la Junta la conclusión anticipada de la readscripción o comisión, quien determinará la procedencia o improcedencia de la solicitud.
 
 ###### Artículo 35.
 
@@ -1802,13 +1834,19 @@ III. Por retiro, por edad o tiempo de servicios;
 
 IV. Por incapacidad física o mental que haga imposible el desempeño de sus funciones;
 
-V. Por supresión de cargos y puestos por reforma legal o reestructura administrativa;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2014)</small>
+
+V. Por supresión de cargos y puestos, por reforma legal o reestructura administrativa;
 
 VI. Por no acreditar la evaluación del desempeño en términos de lo establecido en el artículo 116 del Estatuto;
 
 VII. Por rescisión, y
 
 VIII. Por fallecimiento del trabajador.
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2014)</small>
+
+En los casos de terminación de la relación laboral sin responsabilidad para el personal de estructura, previstos en las fracciones IV, V y VIII de este artículo, se otorgará al servidor o sus beneficiarios, según proceda, una indemnización conforme a lo previsto por el artículo 125 del Código y el procedimiento correspondiente.
 
 ###### Artículo 154.
 
@@ -1826,7 +1864,17 @@ Para cubrir el pago de las sumas que resulten con motivo de la terminación de l
 
 Únicamente se aceptará la representación cuando el apoderado exhiba la escritura pública en donde conste el poder.
 
-Tratándose de lo previsto en la fracción VIII del artículo 153 del Estatuto, se procederá en los términos que establezca la legislación común.
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2014)</small>
+
+Tratándose de lo previsto en la fracción VIII del artículo 153 del Estatuto, sin perjuicio de lo establecido en la legislación común, se otorgará a los beneficiarios del trabajador un pago equivalente a tres meses de salario bruto y 20 días de salario por año laborado, conforme al artículo 125 del Código y 120 del Estatuto.
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2014)</small>
+
+Se considerará beneficiario de un trabajador, al familiar que éste haya designado en el Formato de designación de beneficiarios o a quien acredite ser beneficiario en términos del artículo 501 de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2014)</small>
+
+Para realizar el pago de la indemnización señalada en el presente artículo, se procederá de acuerdo con el procedimiento que para tal efecto apruebe la Junta.
 
 ###### Artículo 157.
 
@@ -1872,9 +1920,11 @@ IV. Por no acreditar la evaluación del desempeño en términos de lo establecid
 
 V. Las demás que determine la legislación y normativa aplicable.
 
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2014)</small>
+
 ###### Artículo 162.
 
-Determinada la supresión o modificación de plazas por el Consejo General, derivado de una reestructuración o reorganización del Instituto Electoral, sin que haya sido factible la reubicación del personal conforme a los criterios emitidos para tal efecto, o con motivo de las causales de separación definitiva previstas en el artículo 116 del Estatuto, así como por las causales de rescisión de la relación laboral señaladas en las fracciones I, II y III del artículo 161, el Secretario Ejecutivo ordenará que se notifique al trabajador el aviso de rescisión.
+Determinada la supresión o modificación de plazas por el Consejo General o la autoridad competente, derivado de una reestructuración o reorganización del Instituto Electoral, sin que haya sido factible la reubicación del personal conforme a los criterios emitidos para tal efecto, o con motivo de las causales de separación definitiva previstas en el artículo 116 del Estatuto, así como por las causales de recisión de la relación laboral señaladas en las fracciones I, II y III del artículo 161, el Secretario Ejecutivo ordenará que se notifique al servidor el aviso de recisión.
 
 ###### Artículo 163.
 
@@ -1910,11 +1960,13 @@ El Secretario Ejecutivo, en su caso, instruirá al Jurídico para que realice la
 
 ### CAPÍTULO III. DEL CONVENIO
 
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2014)</small>
+
 ###### Artículo 166.
 
 El Instituto Electoral podrá acordar con el personal de estructura la terminación de la relación laboral mediante la celebración de un convenio, mismo que habrá de ser ratificado ante el Tribunal.
 
-El personal de estructura que pretenda acogerse a esta vía de separación definitiva, deberá contar con dos años de servicio continuo y efectivo laborado en el Instituto Electoral.
+El personal de estructura que pretenda acogerse a esta vía de separación definitiva, deberá contar con un año de servicio continuo y efectivo laborado en el Instituto Electoral.
 
 ###### Artículo 167.
 
@@ -1932,9 +1984,11 @@ El trámite y la recepción del pago respectivo deberá ser realizado personalme
 
 Únicamente se aceptará la representación cuando el apoderado exhiba la escritura pública en donde conste el poder.
 
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2014)</small>
+
 ###### Artículo 170.
 
-Una vez concluida la relación laboral por esta vía, el trabajador no podrá reincorporarse a la plantilla laboral del Instituto Electoral sino tras haber transcurrido un periodo de al menos dos años, o se incorpore por concurso abierto.
+Una vez concluida la relación laboral por esta vía, el trabajador no podrá reincorporarse a la plantilla laboral del Instituto Electoral sino tras haber transcurrido un periodo de al menos un año, salvo que se reincorpore por concurso abierto.
 
 ## TÍTULO SEXTO. ACCIONES DISCIPLINARIAS
 
@@ -2287,3 +2341,25 @@ CUARTO. Publíquese de inmediato este Acuerdo en los estrados del Instituto Elec
 QUINTO. Instruir a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, para que de manera inmediata realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio de Internet www.iedf.org.mx.
 
 SEXTO. Remítase el presente Acuerdo a la Gaceta Oficial del Distrito Federal para su publicación, dentro del plazo de diez días hábiles contados a partir de su entrada en vigor.
+
+G.O. 20 DE MAYO DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO. Aprobar la modificación de diversas disposiciones del Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal, en los términos del Considerando 25 del presente Acuerdo.
+
+SEGUNDO. Este Acuerdo y las modificaciones al Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal que por él se aprueban, entrarán en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral.
+
+TERCERO. Instruir a la Secretaría Ejecutiva que, mediante circular, haga del conocimiento del personal del Instituto Electoral el presente Acuerdo.
+
+CUARTO. Instruir a la Junta Administrativa para que, en el ámbito de su competencia, en un plazo de treinta días hábiles contados a partir de la entrada en vigor del presente Acuerdo, realice las modificaciones y adecuaciones que sean pertinentes en la normativa interna de este Instituto Electoral que así lo requiera.
+
+QUINTO. Se instruye a la Unidad Técnica del Centro de Formación y Desarrollo para que realice las adecuaciones que sean procedentes a los programas que con motivo de este Acuerdo hayan sido modificados.
+
+SEXTO. Se instruye a la Secretaría Administrativa para que, en el ámbito de sus atribuciones, atienda lo previsto por el Considerando 23 del presente Acuerdo.
+
+SÉPTIMO. Publíquese de inmediato este Acuerdo en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+OCTAVO. Instruir a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, para que de manera inmediata realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio de Internet www.iedf.org.mx.
+
+NOVENO. Remítase el presente Acuerdo a la Gaceta Oficial del Distrito Federal para su publicación, dentro del plazo de diez días hábiles contados a partir de su entrada en vigor.
