@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2013-10-15"
+last_updated: "2014-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -252,23 +252,29 @@ b) Realizar la interpretación de las normas de esta ley y de los demás ordenam
 
 c) Formular y cumplir el orden del día para las sesiones, el cual distinguirá claramente los asuntos que requieren votación de aquellos otros solamente deliberativos o de trámite, conforme al calendario legislativo establecido por la Conferencia para la Dirección y Programación de los Trabajos Legislativos;
 
-d) Determinar durante las sesiones las formas que puedan adaptarse en los debates, discusiones y deliberaciones, tomando en cuenta las propuestas de los grupos parlamentarios;
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-e) Cuidar que los dictámenes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su formulación y presentación;
+d) Incorporar en el orden del día de la siguiente sesión del Pleno las iniciativas o minutas con carácter preferente para su discusión y votación, en el caso de que la comisión o comisiones no formulen el dictamen respectivo dentro del plazo de treinta días naturales;
 
-f) Determinar las sanciones con relación a las conductas que atenten contra la disciplina parlamentaria;
+e) Determinar durante las sesiones las formas que puedan adaptarse en los debates, discusiones y deliberaciones, tomando en cuenta las propuestas de los grupos parlamentarios;
 
-g) Designar las comisiones de cortesía que resulten pertinentes para cumplir con el ceremonial;
+f) Cuidar que los dictámenes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su formulación y presentación;
 
-h) Elaborar el anteproyecto de la parte relativa del Estatuto por el cual se normará el servicio de carrera parlamentaria, a efecto de que la Conferencia para la Dirección y Programación de los Trabajos Legislativos lo considere para la redacción del proyecto de dicho instrumento normativo; e (sic)
+g) Determinar las sanciones con relación a las conductas que atenten contra la disciplina parlamentaria;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 21 DE ABRIL DE 2008)</small>
+h) Designar las comisiones de cortesía que resulten pertinentes para cumplir con el ceremonial;
 
-i) Expedir la convocatoria aprobada por el Pleno a propuesta de la Junta de Coordinación Política para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Federal Electoral; y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+i) Elaborar el anteproyecto de la parte relativa del Estatuto por el cual se normará el servicio de carrera parlamentaria, a efecto de que la Conferencia para la Dirección y Programación de los Trabajos Legislativos lo considere para la redacción del proyecto de dicho instrumento normativo;
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+j) Expedir la convocatoria aprobada por el Pleno a propuesta de la Junta de Coordinación Política para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Nacional Electoral; y
 
 > <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
 
-j) Las demás que le atribuyen esta ley, los ordenamientos aplicables y los acuerdos de la Cámara.
+k) Las demás que le atribuyen esta ley, los ordenamientos aplicables y los acuerdos de la Cámara.
 
 ###### ARTICULO 21.
 
@@ -332,19 +338,37 @@ n) Requerir a los diputados que no asistan, a concurrir a las sesiones de la Cá
 
 o) Ordenar el auxilio de la fuerza pública en los casos que resulten necesarios;
 
-> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-p) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, y
+p) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+q) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; y
 
 > <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-q) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria..
+r) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria..
 
-2. Asimismo, conforme a la declaración de Presidente Electo de los Estados Unidos Mexicanos que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación, corresponde al Presidente de la Cámara disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Diario Oficial de la Federación; y tomar las medidas necesarias para que se difunda en los Periódicos Oficiales de las entidades federativas y se fije en las principales oficinas públicas de los Estados, del Distrito Federal y de los Municipios.
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+2. En el caso de iniciativas y minutas preferentes tendrá las siguientes atribuciones:
+
+a) Turnar inmediatamente la iniciativa o minuta a una o más comisiones para su análisis y dictamen;
+
+b) Cuando se trate del señalamiento de una iniciativa que se hubiere presentado en periodos anteriores, y esté pendiente de dictamen, notificará a la comisión o comisiones que conozcan de la misma que ha adquirido el carácter de preferente;
+
+c) Solicitar a la Junta de Coordinación Política que constituya e integre de manera anticipada la comisión o comisiones que dictaminarán la iniciativa o minuta con carácter de preferente;
+
+d) Prevenir a la comisión o comisiones, siete días naturales antes de que venza el plazo para dictaminar la iniciativa o minuta con carácter de preferente a través de una comunicación que deberá publicarse en la Gaceta; y
+
+e) Emitir la declaratoria de publicidad inmediatamente después de concluido el plazo de la comisión o comisiones para dictaminar.
+
+3. Asimismo, conforme a la declaración de Presidente Electo de los Estados Unidos Mexicanos que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación, corresponde al Presidente de la Cámara disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Diario Oficial de la Federación; y tomar las medidas necesarias para que se difunda en los Periódicos Oficiales de las entidades federativas y se fije en las principales oficinas públicas de los Estados, del Distrito Federal y de los Municipios.
 
 > <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
 
-3. Si al comenzar el periodo constitucional no se presentase el Presidente electo, o la elección no estuviere hecha o declarada válida el 1 de diciembre, procederá a tomar las medidas necesarias para que el Congreso se erija en colegio electoral a efecto de designar Presidente interino, en los términos del artículo 84 Constitucional.
+4. Si al comenzar el periodo constitucional no se presentase el Presidente electo, o la elección no estuviere hecha o declarada válida el 1 de diciembre, procederá a tomar las medidas necesarias para que el Congreso se erija en colegio electoral a efecto de designar Presidente interino, en los términos del artículo 84 Constitucional.
 
 #### Sección Cuarta. De los Vicepresidentes y de los Secretarios
 
@@ -466,29 +490,33 @@ b) Presentar a la Mesa Directiva y al Pleno proyectos de puntos de acuerdo, pron
 
 c) Proponer al Pleno la integración de las comisiones, con el señalamiento de la conformación de sus respectivas Mesas Directivas, así como la designación de delegaciones para atender la celebración de reuniones interparlamentarias con órganos nacionales de representación popular de otros países o de carácter multilateral; con respecto a estas reuniones, en los recesos, la Junta de Coordinación Política podrá hacer la designación a propuesta de su Presidente;
 
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+d) Proponer al Pleno la integración de la comisión o comisiones a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura, cuando se presente una iniciativa con el carácter de preferente o se reciba el oficio del Ejecutivo Federal señalando dicho carácter a iniciativas presentadas con anterioridad;
+
 > <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2008)</small>
 
-d) Aprobar el anteproyecto del presupuesto anual de la Cámara de Diputados;
+e) Aprobar el anteproyecto del presupuesto anual de la Cámara de Diputados;
 
 > <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-e) Analizar y en su caso aprobar el informe de ejecución presupuestal que reciba de la Secretaría General, en donde se establezca el estado que guardan las finanzas de la Cámara;
+f) Analizar y en su caso aprobar el informe de ejecución presupuestal que reciba de la Secretaría General, en donde se establezca el estado que guardan las finanzas de la Cámara;
 
 > <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-f) Elaborar y proponer a la Conferencia para la Dirección y Programación de los Trabajos Legislativos el anteproyecto de la parte relativa del estatuto, por el cual se normará el servicio de carrera administrativo y financiero a efecto de que lo considere para la redacción del proyecto de dicho instrumento normativo;
+g) Elaborar y proponer a la Conferencia para la Dirección y Programación de los Trabajos Legislativos el anteproyecto de la parte relativa del estatuto, por el cual se normará el servicio de carrera administrativo y financiero a efecto de que lo considere para la redacción del proyecto de dicho instrumento normativo;
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-g) Asignar, en los términos de esta ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a los grupos parlamentarios, y (sic)
+h) Asignar, en los términos de esta ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a los grupos parlamentarios;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 21 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-h) Proponer al Pleno la convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Federal Electoral, en los términos establecidos en el Código Federal de Instituciones y Procedimientos Electorales, la presente Ley y el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, así como los procedimientos que de ella se deriven, con el consenso de los respectivos grupos parlamentarios, e
+i) Proponer al Pleno la convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Nacional Electoral, en los términos establecidos en el Código Federal de Instituciones y Procedimientos Electorales, la presente ley y el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, así como los procedimientos que de ella se deriven, con el consenso de los respectivos grupos parlamentarios; y
 
 > <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
 
-i) Las demás que le atribuyen esta ley o los ordenamientos relativos.
+j) Las demás que le atribuyen esta ley o los ordenamientos relativos.
 
 > <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
 
@@ -830,9 +858,9 @@ c) Impulsar y realizar los estudios que versen sobre disposiciones normativas, r
 
 ###### ARTICULO 43.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la legislatura, tendrán hasta treinta miembros y el encargo de sus integrantes será por el término de la misma. Los diputados podrán pertenecer hasta tres de ellas; para estos efectos, no se computará la pertenencia a las comisiones jurisdiccional y las de investigación.
+1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la legislatura, tendrán hasta treinta miembros y el encargo de sus integrantes será por el término de la misma, salvo aquéllas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura. Los diputados podrán pertenecer hasta tres de ellas; para estos efectos, no se computará la pertenencia a las comisiones jurisdiccional y las de investigación.
 
 > <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -1200,29 +1228,37 @@ a) Presidir los debates y votaciones del Pleno y determinar el trámite de los a
 
 b) Formular y cumplir el orden del día para las sesiones, el cual distinguirá claramente los asuntos que requieran votación de aquellos otros solamente deliberativos o de trámite, tomando en cuenta las propuestas de la Junta de Coordinación Política y de los senadores, de conformidad con las disposiciones reglamentarias;
 
-c) Asegurar que los dictámenes, acuerdos parlamentarios, mociones, comunicados y demás escritos, cumplan con las normas que regulan su formulación y tiempos de presentación;
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-d) Designar las comisiones de cortesía necesarias para cumplir con el ceremonial;
+c) Incorporar en el orden del día de la siguiente sesión del Pleno las iniciativas o minutas con carácter de preferente para su discusión y votación, en el caso de que las comisiones no formulen el dictamen respectivo dentro del plazo de treinta días naturales;
 
-e) Conducir las relaciones de la Cámara de Senadores con la otra Cámara, los otros Poderes de la Unión, los Poderes de los Estados y las autoridades locales del Distrito Federal; así como la diplomacia parlamentaria, designando para tal efecto a quienes deban representar a la Cámara en eventos de carácter internacional;
+d) Asegurar que los dictámenes, acuerdos parlamentarios, mociones, comunicados y demás escritos, cumplan con las normas que regulan su formulación y tiempos de presentación;
 
-f) Disponer que la información del trabajo de los senadores sea difundida a los medios de comunicación en condiciones de objetividad y equidad;
+e) Designar las comisiones de cortesía necesarias para cumplir con el ceremonial;
 
-g) Presentar al Pleno para su aprobación el proyecto de presupuesto anual de egresos de la Cámara, que le presente la Comisión de Administración, para su remisión al Titular del Poder Ejecutivo Federal a fin de que sea integrado al proyecto de Presupuesto de Egresos de la Federación; así como los presupuestos mensuales de la propia Cámara. En los recesos, el Presidente de la Mesa turnará el presupuesto mensual al Presidente de la Comisión Permanente para los efectos legales conducentes;
+f) Conducir las relaciones de la Cámara de Senadores con la otra Cámara, los otros Poderes de la Unión, los Poderes de los Estados y las autoridades locales del Distrito Federal; así como la diplomacia parlamentaria, designando para tal efecto a quienes deban representar a la Cámara en eventos de carácter internacional;
 
-h) Asignar los recursos humanos, materiales y financieros, así como los locales que correspondan a los grupos parlamentarios;
+g) Disponer que la información del trabajo de los senadores sea difundida a los medios de comunicación en condiciones de objetividad y equidad;
 
-i) Elaborar y proponer al Pleno los ordenamientos que regulen la organización de las secretarías generales, la Tesorería y el Servicio Civil de Carrera. La adopción de esos instrumentos se regirá, en lo conducente, por las reglas y procedimientos establecidos para la aprobación de leyes y decretos;
+h) Presentar al Pleno para su aprobación el proyecto de presupuesto anual de egresos de la Cámara, que le presente la Comisión de Administración, para su remisión al Titular del Poder Ejecutivo Federal a fin de que sea integrado al proyecto de Presupuesto de Egresos de la Federación; así como los presupuestos mensuales de la propia Cámara. En los recesos, el Presidente de la Mesa turnará el presupuesto mensual al Presidente de la Comisión Permanente para los efectos legales conducentes;
 
-j) Organizar y supervisar las funciones a cargo de las secretarías generales, la Tesorería, el servicio civil de carrera y crear las unidades administrativas que requiera la Cámara;
+i) Asignar los recursos humanos, materiales y financieros, así como los locales que correspondan a los grupos parlamentarios;
 
-k) Expedir el nombramiento o el oficio de remoción de los servidores públicos de la Cámara, mandos medios y superiores, acordados mediante los procedimientos señalados en esta Ley, las disposiciones reglamentarias y los acuerdos aplicables; y
+j) Elaborar y proponer al Pleno los ordenamientos que regulen la organización de las secretarías generales, la Tesorería y el Servicio Civil de Carrera. La adopción de esos instrumentos se regirá, en lo conducente, por las reglas y procedimientos establecidos para la aprobación de leyes y decretos;
 
-l) Las demás que se deriven de esta Ley o del Reglamento.
+k) Organizar y supervisar las funciones a cargo de las secretarías generales, la Tesorería, el servicio civil de carrera y crear las unidades administrativas que requiera la Cámara;
 
-2. Las facultades que se precisan en los incisos a), c), d), e), f), g) y k), serán ejercidas por el Presidente de la Mesa Directiva.
+l) Expedir el nombramiento o el oficio de remoción de los servidores públicos de la Cámara, mandos medios y superiores, acordados mediante los procedimientos señalados en esta Ley, las disposiciones reglamentarias y los acuerdos aplicables; y
 
-3. Las facultades que se precisan en los incisos b), h), i) y j), serán ejercidas de manera colegiada, por acuerdo de la mayoría absoluta de los miembros presentes de la Mesa Directiva. En caso de empate, el Presidente de la misma tendrá voto de calidad. Para sesionar válidamente deberán asistir más de la mitad de sus integrantes.
+m) Las demás que se deriven de esta Ley o del Reglamento.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+2. Las facultades que se precisan en los incisos a), d), e), f), g), h) y l), serán ejercidas por el Presidente de la Mesa Directiva.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+3. Las facultades que se precisan en los incisos b), c), i), j) y k), serán ejercidas de manera colegiada, por acuerdo de la mayoría absoluta de los miembros presentes de la Mesa Directiva. En caso de empate, el Presidente de la misma tendrá voto de calidad. Para sesionar válidamente deberán asistir más de la mitad de sus integrantes.
 
 #### Sección Segunda. De sus Atribuciones
 
@@ -1256,13 +1292,29 @@ k) Dirigir las tareas de las secretarías generales, la Tesorería, las unidades
 
 l) Otorgar poderes para actos de administración y para representar a la Cámara ante los tribunales en los juicios de cualquier naturaleza en que ésta sea parte;
 
-> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-m) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto en el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, y
+m) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-n) Las demás que le confieran esta Ley y el Reglamento.
+n) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+o) Las demás que le confieran esta Ley y el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+2. En el caso de iniciativas preferentes tendrá las siguientes atribuciones:
+
+a) Turnar inmediatamente la iniciativa a una o más comisiones para su análisis y dictamen;
+
+b) Cuando se trate del señalamiento de una iniciativa que se hubiere presentado en periodos anteriores, y esté pendiente de dictamen, notificará a las comisiones que conozcan de la misma que ha adquirido el carácter de preferente;
+
+c) Solicitar a la Junta de Coordinación Política que constituya e integre de manera anticipada las comisiones que dictaminarán la iniciativa o minuta con carácter de preferente;
+
+d) Prevenir a la comisión o comisiones, siete días naturales antes de que venza el plazo para dictaminar la iniciativa o minuta con carácter de preferente a través de una comunicación que deberá publicarse en la Gaceta; y
+
+e) Inmediatamente después de concluido el plazo de la comisión o comisiones para dictaminar, incluir el asunto en el Orden del Día para su discusión y votación.
 
 ###### ARTICULO 68.
 
@@ -1386,11 +1438,15 @@ b) Presentar al Pleno, por conducto de la Mesa Directiva, propuestas de puntos d
 
 c) Proponer al Pleno, a través de la Mesa Directiva, la integración de las comisiones, con el señalamiento de las respectivas juntas directivas, así como a los senadores que integrarán la Comisión Permanente;
 
-d) Elaborar el programa legislativo de cada periodo de sesiones, el calendario de trabajo para su desahogo y puntos del orden del día de las sesiones del Pleno, y realizar reuniones con la Mesa Directiva, o con su Presidente, para dichos efectos;
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
-e) Proponer al Presidente de la Mesa Directiva a los senadores que integren las delegaciones para atender la celebración de reuniones de carácter internacional; y
+d) Proponer al Pleno la integración de las comisiones a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura, cuando se presente una iniciativa con el carácter de preferente o se reciba el oficio del Ejecutivo Federal señalando dicho carácter a iniciativas presentadas con anterioridad;
 
-f) Las demás que se deriven de esta Ley y del Reglamento.
+e) Elaborar el programa legislativo de cada periodo de sesiones, el calendario de trabajo para su desahogo y puntos del orden del día de las sesiones del Pleno, y realizar reuniones con la Mesa Directiva, o con su Presidente, para dichos efectos;
+
+f) Proponer al Presidente de la Mesa Directiva a los senadores que integren las delegaciones para atender la celebración de reuniones de carácter internacional; y
+
+g) Las demás que se deriven de esta Ley y del Reglamento.
 
 ###### ARTICULO 83.
 
@@ -1592,7 +1648,9 @@ b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo F
 
 ###### ARTICULO 104.
 
-1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, tendrán hasta quince miembros y el encargo de sus integrantes será por el término de la misma. Ningún senador pertenecerá a más de cuatro de ellas.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, tendrán hasta quince miembros y el encargo de sus integrantes será por el término de la misma, salvo aquéllas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura. Ningún senador pertenecerá a más de cuatro de ellas.
 
 2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones. Al efecto, los grupos parlamentarios formularán los planteamientos que estimen pertinentes.
 
@@ -1612,7 +1670,9 @@ b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo F
 
 4. No habrá retribución extraordinaria alguna por las tareas que los senadores realicen como integrantes de las comisiones.
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. De la Iniciativa Ciudadana
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 106.
 
@@ -1830,19 +1890,183 @@ c) Los diputados y senadores elegirán por mayoría, en votación por cédula un
 
 1. La Comisión Permanente, el último día de su ejercicio en cada periodo, deberá tener formados dos inventarios, uno para la Cámara de Diputados y otro para la de Senadores. Dichos inventarios se turnarán a las Secretarías de las respectivas Cámaras y contendrán las memorias, oficios, comunicaciones y otros documentos que hubiere recibido durante el receso del Congreso.
 
-## TITULO QUINTO. De la difusión e información de las actividades del Congreso
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 2014)</small>
+
+## TITULO QUINTO. De la Iniciativa Ciudadana y Preferente
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 2014)</small>
+
+### CAPITULO SEGUNDO. De la Iniciativa Preferente
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 130.
 
-1. El Congreso de la Unión hará la más amplia difusión de los actos a través de los cuales las Cámaras lleven a cabo el cumplimiento de las funciones que la Constitución y esta Ley les encomiendan.
+1. El derecho de iniciar leyes o decretos compete a los ciudadanos en un número equivalente a cuando menos al cero punto trece por ciento de la lista nominal de electores.
+
+2. Los ciudadanos podrán presentar proyectos de iniciativas, respecto de las materias de competencia del Congreso de la Unión.
+
+3. Las iniciativas ciudadanas seguirán el procedimiento legislativo dispuesto por esta Ley y los reglamentos de cada Cámara, una vez que la autoridad electoral comunique el cumplimiento del requisito señalado en el numeral 1. Cumplidos los plazos en los términos que establecen los reglamentos respectivos, sin que haya dictamen de las comisiones, la Mesa Directiva incluirá el asunto en el Orden del Día de la sesión inmediata siguiente.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 131.
+
+1. La iniciativa ciudadana, además de los requisitos que establecen los reglamentos de las cámaras, según corresponda, deberá:
+
+a) Presentarse por escrito ante el Presidente de la Cámara de Diputados o de Senadores; y en sus recesos, ante el Presidente de la Comisión Permanente.
+
+La Cámara que reciba el escrito de presentación de la iniciativa ciudadana será la Cámara de origen, salvo que el proyecto respectivo se refiera a empréstitos, contribuciones, impuestos o reclutamiento de tropas. En estos casos la cámara de origen será siempre la de Diputados.
+
+Durante los recesos del Congreso, la Mesa Directiva de la Comisión Permanente determinará la Cámara de origen en caso de que la iniciativa no lo especifique.
+
+b) Contener los nombres completos de los ciudadanos, clave de elector o el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente y su firma. En caso de advertirse error en la identificación del ciudadano, siempre y cuando éste sea menor al 20% del total requerido, el Instituto prevendrá a los promoventes para que subsanen el error antes de que concluya el periodo ordinario de sesiones, debiendo informar de ello al Presidente de la Mesa Directiva, de no hacerlo se tendrá por desistida la iniciativa;
+
+c) Nombre completo y domicilio del representante para oír y recibir notificaciones; y
+
+d) Toda la documentación deberá estar plenamente identificada, señalando en la parte superior de cada hoja el nombre del proyecto de decreto que se propone someter.
+
+Cuando la iniciativa no cumpla con los requisitos señalados en los incisos a), c) o d) el Presidente de la Cámara prevendrá a los proponentes para que subsane los errores u omisiones en un plazo de quince días hábiles a partir de la notificación. En caso de no subsanarse en el plazo establecido, se tendrá por no presentada.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 132.
+
+1. La iniciativa ciudadana atenderá el siguiente procedimiento:
+
+a) El Presidente de la Mesa Directiva de la Cámara de origen, dará cuenta de ella y solicitará de inmediato al Instituto Nacional Electoral, la verificación de que haya sido suscrita en un número equivalente, a cuando menos el cero punto trece por ciento de la lista nominal de electores, dentro de un plazo no mayor a treinta días naturales contados a partir de la recepción del expediente.
+
+El Instituto, a través de la Dirección Ejecutiva del Registro Federal de Electores dentro del plazo a que se refiere el párrafo anterior, verificará que los nombres de quienes hayan suscrito la iniciativa ciudadana, aparezcan en las listas nominales de electores y que la suma corresponda en un número equivalente, a cuando menos el cero punto trece por ciento de la lista nominal de electores.
+
+Una vez que se alcanzó el requisito porcentual a que se refiere el párrafo anterior, la Dirección Ejecutiva del Registro Federal de Electores deberá realizar un ejercicio muestral para corroborar la autenticidad de las firmas de acuerdo a los criterios que defina al respecto la propia Dirección Ejecutiva;
+
+b) El Instituto Nacional Electoral contará con un plazo no mayor a treinta días naturales contados a partir de la recepción del expediente para realizar la verificación a que se refiere el inciso anterior;
+
+c) En el caso de que el Instituto Nacional Electoral determine en forma definitiva que no se cumple con el porcentaje requerido por la Constitución, el Presidente de la Mesa Directiva dará cuenta de ello al Pleno de la Cámara, lo publicará en la Gaceta, y procederá a su archivo como asunto total y definitivamente concluido notificando a los promoventes, por conducto de su representante.
+
+En caso de que el representante de los promoventes impugne la resolución del Instituto Nacional Electoral, el Presidente de la Mesa Directiva suspenderá el trámite correspondiente mientras el Tribunal Electoral del Poder Judicial de la Federación resuelve lo conducente;
+
+d) En el supuesto de que se verifique el cumplimiento del porcentaje señalado en el inciso a), el Presidente de la Mesa Directiva, turnará la iniciativa a comisión para su análisis y dictamen; y seguirá el proceso legislativo ordinario; y
+
+e) En el caso de que la iniciativa ciudadana sea aprobada por la Cámara de origen, pasará a la Cámara revisora, a efecto de que siga el procedimiento legislativo ordinario, conforme a lo dispuesto por el artículo 72 de la Constitución.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 133.
+
+1. En el proceso legislativo de dictamen en cada Cámara, el Presidente de la comisión deberá convocar al representante designado por los ciudadanos, para que asista a una reunión de la comisión que corresponda, a efecto de que exponga el contenido de su propuesta.
+
+2. Las opiniones vertidas durante la reunión a la que fue convocado, no serán vinculantes para la comisión y únicamente constituirán elementos adicionales para elaborar y emitir su dictamen, de acuerdo con lo establecido en el Reglamento de la Cámara respectiva.
+
+3. El procedimiento de dictamen no se interrumpirá en caso de que el representante no asista a la reunión a la que haya sido formalmente convocado.
+
+4. El representante podrá asistir a las demás reuniones públicas de la comisión para conocer del desarrollo del proceso de dictamen y podrá hacer uso de la voz hasta antes del inicio del proceso de deliberación y votación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 2014)</small>
+
+### CAPITULO UNICO
+
+> <small>(N. DE E. ANTES ARTÍCULO 130, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 134.
+
+1. La iniciativa preferente es aquella que es sometida al Congreso de la Unión por el Presidente de la República en ejercicio de su facultad exclusiva para trámite preferente, o señalada con tal carácter de entre las que hubiere presentado en periodos anteriores y estén pendientes de dictamen.
+
+2. La iniciativa referida en el numeral anterior, conservará su carácter preferente durante todo el proceso legislativo previsto en el artículo 72 de la Constitución.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 135.
+
+1. No podrán tener carácter preferente las iniciativas de adición o reforma a la Constitución.
+
+2. La iniciativa preferente podrá versar sobre cualquier materia y comprender uno o más ordenamientos cuando exista conexidad en los temas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 136.
+
+1. El día de la apertura de cada periodo ordinario de sesiones el Presidente de la República podrá presentar hasta dos iniciativas para trámite preferente o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores cuando estén pendientes de dictamen.
+
+2. En el caso de las iniciativas preferentes presentadas o señaladas con ese carácter, se observará lo siguiente:
+
+a) La Cámara de origen deberá discutirla y votarla en un plazo máximo de treinta días naturales, contados a partir de su presentación o de que se reciba el oficio del Ejecutivo Federal señalando dicho carácter a iniciativas presentadas con anterioridad.
+
+b) El plazo a que se refiere el numeral anterior será improrrogable.
+
+c) Si transcurre el plazo sin que se formule el dictamen correspondiente, procederá lo siguiente:
+
+I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día de la siguiente sesión del Pleno para su discusión y votación en sus términos, y sin mayor trámite.
+
+II. La discusión y votación sólo se abocará a la iniciativa preferente y deberá ser aprobada, de lo contrario, se tendrá por desechada, en términos de lo dispuesto en la fracción G del artículo 72 de la Constitución.
+
+III. El proyecto de decreto materia de la iniciativa con carácter preferente aprobado por la Cámara de origen, será enviado de inmediato a la Cámara revisora, en calidad de minuta, para los efectos del artículo 72 de la Constitución.
+
+d) La comisión o comisiones podrán trabajar en conferencia a fin de agilizar el análisis y dictamen de las iniciativas con carácter preferente, en cualquier etapa del proceso legislativo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 137.
+
+1. Para las minutas sobre iniciativas preferentes aprobadas y remitidas a la Cámara revisora para los efectos de la fracción A del artículo 72 constitucional, se observará lo siguiente:
+
+a) El Presidente turnará a la comisión o comisiones que corresponda, en cuanto se reciba y se dé cuenta de ésta al Pleno;
+
+b) El Presidente dará treinta días naturales a partir de la recepción del asunto por la Cámara revisora, para que la comisión o comisiones formulen el dictamen correspondiente;
+
+c) El plazo a que se refiere el inciso anterior es improrrogable;
+
+d) Cuando la minuta sea aprobada en sus términos se remitirá al Ejecutivo para los efectos de la fracción A del artículo 72 de la Constitución;
+
+e) Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora deberá devolverla a la Cámara de origen, para los efectos del artículo 72, fracciones D o E, de la Constitución;
+
+f) Si transcurre el plazo sin que se formule el dictamen correspondiente, procederá lo siguiente:
+
+I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día de la siguiente sesión del Pleno para su discusión y votación en sus términos, y sin mayor trámite.
+
+II. Cuando la minuta sea aprobada en sus términos se remitirá al Ejecutivo para los efectos de la fracción A del artículo 72 de la Constitución.
+
+III. Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora deberá devolverla a la Cámara de origen, para los efectos del artículo 72, fracciones D o E, de la Constitución, sin que la iniciativa, materia de la minuta, pierda su carácter de preferente.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 138.
+
+1. Para las minutas sobre iniciativas preferentes remitidas para los efectos de las fracciones D o E del artículo 72 constitucional, se observará lo siguiente:
+
+a) El Presidente turnará a la comisión o comisiones que corresponda, en cuanto se reciba y se dé cuenta de ésta al Pleno;
+
+b) La Cámara deberá discutirla y votarla en un plazo máximo de quince días naturales contados a partir de la recepción del asunto;
+
+c) El plazo a que se refiere el inciso anterior es improrrogable;
+
+d) Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora deberá devolverla a la Cámara de origen, para los efectos del artículo 72, fracciones D o E, de la Constitución, sin que la iniciativa, materia de la minuta, pierda su carácter de preferente;
+
+e) Si transcurre el plazo sin que se formule el dictamen correspondiente, procederá lo siguiente:
+
+I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día de la siguiente sesión del Pleno para su discusión y votación en sus términos, y sin mayor trámite.
+
+II. Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora, la cual deberá devolverla a la Cámara de origen, para los efectos del artículo 72, fracciones D o E, de la Constitución.
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES TÍTULO QUINTO], D.O.F. 20 DE MAYO DE 2014)</small>
+
+## TITULO SEXTO. De la difusión e información de las actividades del Congreso
+
+###### ARTICULO 139.
+
+1. El Congreso de la Unión hará la más amplia difusión de los actos a través de los cuales las Cámaras lleven a cabo el cumplimiento de las funciones que la Constitución y esta Ley les encomiendan.
+
+> <small>(N. DE E. ANTES ARTÍCULO 131, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 140.
 
 1. El Congreso de la Unión, para la difusión de sus actividades, y de acuerdo con la legislación en la materia, contará con el Canal de Televisión que le asigne la autoridad competente, de conformidad con las normas técnicas aplicables.
 
 2. El Canal tiene por objeto reseñar y difundir la actividad legislativa y parlamentaria que corresponda a las responsabilidades de las Cámaras del Congreso y de la Comisión Permanente, así como contribuir a informar, analizar y discutir pública y ampliamente la situación de los problemas de la realidad nacional vinculadas con la actividad legislativa.
 
-###### ARTICULO 132.
+> <small>(N. DE E. ANTES ARTÍCULO 132, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 141.
 
 1. Para la conducción de las actividades que desarrolla el Canal, se constituye la Comisión Bicamaral del Canal de Televisión del Congreso de la Unión.
 
@@ -1854,7 +2078,9 @@ c) Los diputados y senadores elegirán por mayoría, en votación por cédula un
 
 5. La organización y funcionamiento del Canal se sujetarán a las disposiciones legales aplicables y a las reglamentarias específicas que al efecto dicte el Congreso de la Unión, así como a las políticas internas de orden general y programas de trabajo que apruebe la Comisión Bicamaral.
 
-###### ARTICULO 133.
+> <small>(N. DE E. ANTES ARTÍCULO 133, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 142.
 
 1. Cada Cámara tendrá un órgano oficial denominado "Diario de los Debates" en el que se publicará la fecha y lugar en que se verifique la sesión, el sumario, nombre del que presida, copia fiel del acta de la sesión anterior, versión taquigráfica o estenográfica, en su caso, de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura.
 
@@ -1862,7 +2088,9 @@ c) Los diputados y senadores elegirán por mayoría, en votación por cédula un
 
 3. El Titular de la unidad administrativa responsable del Diario de los Debates en cada Cámara, será responsable de la custodia, salvaguarda y archivo de los expedientes, y deberá remitirlos en su oportunidad, conforme a los acuerdos que dicten las respectivas mesas directivas, al Archivo General de la Nación.
 
-###### ARTICULO 134.
+> <small>(N. DE E. ANTES ARTÍCULO 134, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 143.
 
 1. El Congreso de la Unión tendrá un Sistema de Bibliotecas que estará a cargo de las Cámaras de Diputados y de Senadores.
 
@@ -1870,7 +2098,9 @@ c) Los diputados y senadores elegirán por mayoría, en votación por cédula un
 
 3. La administración y operación de las Bibliotecas será responsabilidad de los servicios establecidos en cada Cámara, conforme a los Títulos Segundo y Tercero de esta ley, y a través de una Comisión Bicamaral del Sistema de Bibliotecas, integrada por tres diputados y tres senadores, electos por el Pleno de cada Cámara a propuesta de las respectivas juntas de coordinación política. En su caso, los legisladores de la Comisión representarán a sus grupos parlamentarios en ambas Cámaras.
 
-###### ARTICULO 135.
+> <small>(N. DE E. ANTES ARTÍCULO 135, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### ARTICULO 144.
 
 1. Las Cámaras podrán establecer instituciones de investigación jurídica y legislativa para la mejor información y realización de los trabajos.
 
@@ -2337,3 +2567,11 @@ SEGUNDO. Todos los asuntos turnados a la actual Comisión de Equidad y Género d
 D.O.F. 15 DE OCTUBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+
+Tercero.- Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
