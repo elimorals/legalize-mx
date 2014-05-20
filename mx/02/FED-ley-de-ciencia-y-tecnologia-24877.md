@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2013-06-07"
+last_updated: "2014-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -95,9 +95,9 @@ Se establecen como bases de una política de Estado que sustente la integración
 
 I. Incrementar la capacidad científica, tecnológica, de innovación y la formación de investigadores y tecnólogos para resolver problemas nacionales fundamentales, que contribuyan al desarrollo del país y a elevar el bienestar de la población en todos sus aspectos;
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
 
-II. Promover el desarrollo y la vinculación de la ciencia básica, el desarrollo tecnológico y la innovación asociados a la actualización y mejoramiento de la calidad de la educación y la expansión de las fronteras del conocimiento, así como convertir a la ciencia, la tecnología y la innovación en un elemento fundamental de la cultura general de la sociedad;
+II. Promover el desarrollo, la vinculación y diseminación de la investigación científica que se derive de las actividades de investigación básica y aplicada, el desarrollo tecnológico de calidad y la innovación, asociados a la actualización y mejoramiento de la calidad de la educación y la expansión de las fronteras del conocimiento apoyándose en las nuevas tecnologías de la información y, en su caso, mediante el uso de plataformas de acceso abierto. Así como convertir a la ciencia, la tecnología y la innovación en elementos fundamentales de la cultura general de la sociedad;
 
 > <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -180,6 +180,18 @@ X. Desarrollo tecnológico, el uso sistemático del conocimiento y la investigac
 > <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 XI. Unidades de vinculación y transferencia de conocimiento, las unidades creadas por las universidades e instituciones de educación superior o los Centros Públicos de Investigación, que tiene como propósito generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivos y de servicios.
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XII. Repositorio, la plataforma digital centralizada que siguiendo estándares internacionales, almacena, mantiene y preserva la información científica, tecnológica y de innovación, la cual se deriva de las investigaciones, productos educativos y académicos;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XIII. Repositorio Nacional, el Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XIV. Diseminación, la transmisión de información científica, tecnológica y de innovación desarrollada por parte de los investigadores o especialistas a sus pares, y que utiliza un lenguaje especializado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -1189,6 +1201,90 @@ La autonomía de gestión presupuestaria de los centros públicos de investigaci
 
 Los Centros Públicos de Investigación integrarán el Sistema Nacional de Centros Públicos de Investigación, como un órgano colegiado de carácter permanente de representación, asesoría, apoyo técnico y cooperación de estos centros. Este sistema y estos centros se regirán por la Ley Orgánica del Sistema Nacional de Centros Públicos de Investigación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 2014)</small>
+
+### CAPÍTULO X. Del Acceso Abierto, Acceso a la Información Científica, Tecnológica y de Innovación y del Repositorio Nacional
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### Artículo 64.
+
+El CONACyT diseñará e impulsará una estrategia nacional para democratizar la información Científica, Tecnológica y de Innovación, con el fin de fortalecer las capacidades del país para que el conocimiento universal esté disponible a los educandos, educadores, académicos, investigadores, científicos, tecnólogos y población en general. La estrategia buscará ampliar, consolidar y facilitar el acceso a la información científica, tecnológica y de innovación nacional e internacional a texto completo, en formatos digitales.
+
+Las instituciones de educación superior y Centros de Investigación podrán constituir Repositorios por disciplinas científicas y tecnológicas u otros que se determinen, a fin de diseminar la información científica y tecnológica que se derive de sus productos educativos y académicos, y en general de todo tipo de investigaciones que realicen, cualquiera que sea su presentación, de acuerdo con criterios de calidad y estándares técnicos que emita el CONACyT. Dichos Repositorios podrán establecerse a nivel de las instituciones y centros de investigación o mediante la creación de redes o asociaciones con otras instituciones, por disciplinas, por regiones u otros. El CONACyT emitirá los lineamientos a que se sujetarán los Repositorios a que se refiere la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### Artículo 65.
+
+Por Acceso Abierto se entenderá el acceso a través de una plataforma digital y sin requerimientos de suscripción, registro o pago, a las investigaciones, materiales educativos, académicos, científicos, tecnológicos y de innovación, financiados con recursos públicos o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### Artículo 66.
+
+Por Acceso a Recursos de Información Científica y Tecnológica de Calidad, se entenderá al conjunto de técnicas utilizadas para buscar, categorizar y acceder de manera inequívoca, al texto completo de publicaciones reconocidas por los sectores de ciencia, tecnología e innovación, y que son resultado de la revisión por pares.
+
+El acceso al que se hace referencia también incluye bases de datos que contienen los registros de citas e información bibliográfica de artículos de revistas científicas y tecnológicas, tesis y disertaciones, protocolos, memorias de congresos y patentes, entre otros.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### Artículo 67.
+
+El Acceso Abierto y el Acceso a la Información Científica, Tecnológica y de Innovación, tendrán la finalidad de fortalecer la capacidad científica, tecnológica y de innovación del país para que el conocimiento universal esté disponible, a texto completo y en formatos digitales a los educandos, educadores, académicos, investigadores, científicos, tecnólogos y población en general.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### Artículo 68.
+
+Para el adecuado funcionamiento y desarrollo del Acceso a la Información Científica, Tecnológica y de Innovación de Calidad, el CONACyT deberá:
+
+I. Actualizar permanentemente la adquisición de recursos de información científica y tecnológica publicada;
+
+II. Simplificar los procesos administrativos para la adquisición de bases de datos y colecciones de información científica y tecnológica en formato digital;
+
+III. Promover la operación y uso de bases de datos de publicaciones electrónicas en las instituciones de educación superior y centros de investigación;
+
+IV. Ampliar la cobertura temática de las publicaciones científicas y tecnológicas disponibles a los usuarios mediante el uso colectivo de las colecciones, y
+
+V. Promover la capacitación a los usuarios, con el apoyo y seguimiento de las instituciones de educación superior y centros de investigación, con la finalidad de hacer mejor uso y aprovechamiento de los acervos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### Artículo 69.
+
+Los investigadores, tecnólogos, académicos y estudiantes de maestría, doctorado y posdoctorado, cuya actividad de investigación sea financiada con recursos públicos o que hayan utilizado infraestructura pública en su realización, por decisión personal podrán, depositar o en su caso autorizar expresamente el depósito de una copia de la versión final aceptada para publicar en Acceso Abierto a través del Repositorio Nacional, comprobando que ha cumplido con el proceso de aprobación respectivo, lo anterior bajo los términos que al efecto establezca el CONACyT.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### Artículo 70.
+
+El CONACyT operará el Repositorio Nacional de conformidad con los lineamientos, bases de organización y demás disposiciones aplicables a fin de dar certeza a los contenidos y seguridad a los procesos de diseminación del conocimiento.
+
+La principal función del Repositorio Nacional será el acopio, preservación, gestión y acceso electrónico de información y contenidos de calidad, incluyendo aquellos de interés social y cultural que se producen en México con fondos públicos.
+
+El repositorio operará mediante el uso de estándares internacionales que permitan buscar, leer, descargar textos completos, reproducir, distribuir, importar, exportar, identificar, almacenar, preservar y recuperar la información que se reúna.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### Artículo 71.
+
+Los contenidos de información de calidad serán aquellos que resulten del proceso de publicación científica y tecnológica formalizado con revisión por los pares del autor y evaluadas por el CONACyT.
+
+El presente capítulo y los lineamientos que de él se deriven, respetarán en todo momento la legislación aplicable, incluida aquélla en materia del derecho de autor.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+###### Artículo 72.
+
+En materia de Acceso Abierto y operación del Repositorio Nacional, el CONACyT deberá:
+
+I. Crear, desarrollar, coordinar, dirigir, administrar y establecer las políticas que regulen la seguridad y sostenibilidad, así como la gestión y preservación a largo plazo de los recursos de información.
+
+II. Establecer la normativa a nivel nacional, para acopiar, integrar, estandarizar, interoperar, almacenar y difundir la información derivada de investigaciones así como de material académico, científico, tecnológico y de innovación.
+
+III. Crear y operar el Repositorio Nacional de acuerdo con normas internacionales impulsando la interoperabilidad con los demás repositorios a fin de garantizar la recuperación, autentificación y evaluación de la información.
+
 ## TRANSITORIOS
 
 Artículo Primero.
@@ -1282,3 +1378,15 @@ D.O.F. 28 DE ENERO DE 2011.
 D.O.F. 7 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El CONACyT expedirá dentro de un plazo de 180 días siguientes a la entrada en vigor de este Decreto, los lineamientos y disposiciones correspondientes para el funcionamiento del Repositorio Nacional.
+
+TERCERO. El CONACyT contará con un plazo no mayor a 18 meses a partir de la expedición de los lineamientos y disposiciones correspondientes, para capacitar, convocar, organizar y coordinar a las instituciones e instancias en materia de acceso abierto, diseminación de la información y funcionamiento del Repositorio Nacional.
+
+El CONACyT procurará y promoverá la homologación de la normativa existente en los Estados e Instituciones que por su actividad estén sujetas a las disposiciones establecidas en este Decreto, ésta homologación deberá ejecutarse en el tiempo señalado en el párrafo anterior.
+
+CUARTO. El CONACyT dentro de su presupuesto anual, preverá los recursos necesarios para la creación, impulso y fortalecimiento de las plataformas tecnológicas, así como para el fortalecimiento del Consorcio Nacional de Recursos de Información Científica y Tecnológica, en lo conducente a las disposiciones establecidas en el presente Decreto.
