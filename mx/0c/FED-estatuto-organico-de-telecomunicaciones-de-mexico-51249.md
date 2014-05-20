@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-telecomunicaciones-de-mexico-51249"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-14"
-last_updated: "2011-12-09"
+last_updated: "2014-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-06"
 
 ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de agosto de 2006.
 
@@ -35,15 +35,17 @@ ESTATUTO ORGANICO
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### Artículo 1.
 
-Telecomunicaciones de México es un Organismo Descentralizado del Gobierno Federal integrante del Sector Comunicaciones y Transportes, con personalidad jurídica y patrimonio propios, creado por Decreto Presidencial publicado en el Diario Oficial de la Federación el 20 de agosto de 1986, reformado por diversos publicados en el mismo medio informativo el 17 de noviembre de 1989, 29 y 30 de octubre de 1990, 6 de enero de 1997 y 14 de abril de 2011; encargado de ejercer las funciones del Estado en las áreas estratégicas y prioritarias que tiene a su cargo, de conformidad con lo dispuesto por los artículos 25 y 28 de la Constitución Política de los Estados Unidos Mexicanos.
+Telecomunicaciones de México es un Organismo Descentralizado del Gobierno Federal integrante del Sector Comunicaciones y Transportes, con personalidad jurídica y patrimonio propios, creado por Decreto Presidencial publicado en el Diario Oficial de la Federación el 20 de agosto de 1986, reformado por diversos publicados en el mismo medio informativo el 17 de noviembre de 1989, 29 y 30 de octubre de 1990, 6 de enero de 1997 y 14 de abril de 2011.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### Artículo 2.
 
-El objeto principal del Organismo es la prestación de los servicios públicos de telégrafos, giro telegráfico nacional e internacional, radiotelegrafía, comunicación vía satélite, la remisión de dinero, la interconexión de los sistemas de telecomunicaciones a su cargo con otros de entidades o empresas nacionales o extranjeras, así como combinar sus servicios y los de telecomunicaciones que expresamente se señalan en el artículo 3o. de su decreto de creación y cuarto transitorio de la Ley Federal de Telecomunicaciones, así como los de carácter prioritario que en su caso le encomiende el Ejecutivo Federal.
+El objeto del organismo es la prestación del servicio público de telégrafos, giros telegráficos, radiotelegrafía, así como los servicios públicos de telecomunicaciones que expresamente se señalan en el artículo 3o. de su Decreto de Creación.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
 
@@ -229,31 +231,27 @@ La falta de asistencia injustificada de los integrantes de la Junta Directiva a 
 
 ### CAPITULO IV. DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### Artículo 18.
 
 La Dirección y Administración del Organismo corresponde a la Junta Directiva y a un Director General, quien para el estudio, planeación, ejecución de los asuntos y ejercicio de las facultades que le competen, contará con las siguientes unidades administrativas:
 
-DIRECCION DE ASUNTOS JURIDICOS
+Dirección de Asuntos Jurídicos
 
-DIRECCION DE PLANEACION, EVALUACION E INFORMACION INSTITUCIONAL
+Dirección de Planeación, Evaluación e Información Institucional
 
-DIRECCION TECNICA DE INFORMATICA Y SERVICIOS FINANCIEROS BASICOS
+Dirección Técnica de Telecomunicaciones y Mexsat
 
-DIRECCION TECNICA DE TELECOMUNICACIONES Y MEXSAT
+Dirección Comercial
 
-DIRECCION COMERCIAL DE SERVICIOS FINANCIEROS BASICOS
+Dirección de Operaciones Telegráficas
 
-DIRECCION COMERCIAL DE TELECOMUNICACIONES
+Dirección de Administración Financiera
 
-DIRECCION DE OPERACION DE LA RED DE OFICINAS
+Dirección de Recursos Humanos
 
-DIRECCION DE FINANZAS Y ADMINISTRACION
-
-DIRECCION DE ADMINISTRACION DE RECURSOS HUMANOS
-
-DIRECCION DE LA UNIDAD ESTRATEGICA DE INTELIGENCIA
+Dirección de la Unidad Estratégica de Inteligencia
 
 ### CAPITULO V. DEL DIRECTOR GENERAL
 
@@ -337,7 +335,9 @@ XIV. Proporcionar la información y asistencia o cooperación técnica que les s
 
 XV. Desempeñar las comisiones que les encomiende el Director General y realizar las actividades necesarias para el cumplimiento de las funciones a su cargo;
 
-XVI. Coordinarse con la Dirección de Administración de Recursos Humanos en el diseño y elaboración del programa de capacitación;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XVI. Participar en coordinación con la Dirección de Recursos Humanos en el diseño y elaboración del programa de capacitación. Así como implementar las herramientas de gestión de recursos humanos que ésta desarrolle;
 
 XVII. Expedir las certificaciones de los documentos que obren en los archivos de sus respectivas unidades administrativas, para lo cual podrían delegar dicha atribución por escrito en sus Subdirectores y Gerentes;
 
@@ -369,15 +369,21 @@ IV. Representar al organismo en los asuntos administrativos o judiciales contenc
 
 V. Formular e instrumentar informes, interponer recursos y promover amparos y demás trámites procedimentales conducentes en los juicios en que el Organismo sea parte, así como llevar su registro;
 
-> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
 
-VI. Resolver las consultas jurídicas en el ámbito de su competencia, que formulen las unidades administrativas del organismo;
+VI. Resolver las consultas jurídicas en el ámbito de su competencia, que formulen las unidades administrativas del Organismo, así como una propuesta de solución a la consulta solicitada;
 
-VII. Dictaminar cuando lo solicite la Dirección de Administración de Recursos Humanos, la procedencia de las sanciones laborales, cuando exista plena responsabilidad de los trabajadores;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
 
-VIII. Imponer, reducir y revocar las sanciones a que se hagan acreedores los trabajadores del Organismo, con base en la normatividad vigente, previo dictamen de la documentación generada por el acto sancionable y a solicitud de la Dirección de Administración de Recursos Humanos;
+VII. Dictaminar cuando lo solicite la Dirección de Recursos Humanos, la procedencia de las sanciones laborales, cuando exista plena responsabilidad de los trabajadores;
 
-IX. Dictaminar cuando le solicite la Dirección de Finanzas y Administración, respecto de adeudos a favor del Organismo, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+VIII. Imponer, reducir y revocar las sanciones a que se hagan acreedores los trabajadores del Organismo, con base en la normatividad vigente, previo dictamen de la documentación generada por el acto sancionable y a solicitud de la Dirección de Recursos Humanos;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+IX. Dictaminar cuando le solicite la Dirección de Administración Financiera, respecto de adeudos a favor del Organismo, de conformidad con la normatividad aplicable;
 
 X. Aprobar el contenido de las garantías que constituyan los usuarios de los servicios a favor del Organismo, así como los proveedores y contratistas en materia de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles y obras públicas, respectivamente;
 
@@ -393,9 +399,17 @@ XIII. Asesorar a las unidades administrativas del Organismo en los procedimiento
 
 XIII Bis. Supervisar y coordinar el ejercicio y funciones del personal técnico de las áreas jurídicas adscritas a las unidades administrativas del organismo;
 
-XIV. Elaborar a solicitud del Director General, los poderes especiales o generales con las facultades que les competan a los distintos servidores públicos del Organismo, y
+XIV. Elaborar a solicitud del Director General, los poderes especiales o generales con las facultades que les competan a los distintos servidores públicos del Organismo, y (sic)
 
-XV. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden, cumpliendo en todo momento con la normatividad vigente y las que le encomiende expresamente el Director General.
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XV. Mantener vigentes los registros sobre los derechos de marcas y nombres comerciales;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XVI. Analizar e implementar las disposiciones jurídicas que se deriven de las reformas que se realicen a las diversas leyes, que deban de aplicarse en todas las Direcciones que integran el Organismo, con la finalidad de asegurar el cumplimiento de las disposiciones legales y el objetivo del Organismo; y
+
+XVII. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden, cumpliendo en todo momento con la normatividad vigente y las que le encomiende expresamente el Director General.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
 
@@ -451,57 +465,27 @@ XV. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2008)
 
 XVI. En coordinación con las unidades administrativas, participar en la evaluación del impacto de la aplicación de normas, proyectos y asuntos internacionales que afecten al Organismo;
 
-XVII. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
+XVII. Administrar el Museo del Telégrafo y el acervo museográfico del Organismo;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XVIII. Establecer lineamientos de imagen institucional y comunicación social;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XIX. Desarrollar la reingeniería a los procesos técnicos actuales para mejorar la calidad de los servicios del Organismo;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XX. Proponer convenios y alianzas estratégicas para diversificar los servicios del Organismo e implementar parámetros que midan la calidad de los servicios; y
+
+XXI. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
 
 ###### Artículo 24.
 
-Corresponde a la Dirección Técnica de Informática y Servicios Financieros Básicos:
-
-I. Proponer y coordinar la modernización de la infraestructura de telecomunicaciones y sistemas informáticos del Organismo, con los cuales preste servicios, en los términos de las disposiciones aplicables;
-
-II. Desarrollar y asesorar la implantación de los sistemas informáticos que faciliten la operación administrativa de las áreas requirentes;
-
-III. Coordinar los proyectos de Tecnologías de Información y Comunicaciones (TIC) que se determinen por el Organo de Gobierno en materias de TIC que determine;
-
-IV. Instalar, operar y mantener los sistemas informáticos y de telecomunicaciones;
-
-V. Coordinar la instalación, operación y mantenimiento de las líneas, equipos y servicios contratados de los que dependa la red para servicios telefónicos privados del Organismo; así como coadyuvar en el uso eficiente de los servicios telefónicos;
-
-VI. Establecer los procedimientos para la instalación, operación y mantenimiento de los equipos utilizados para las comunicaciones privadas del Organismo y que le provean de los servicios de voz y datos así como, proponer su modernización tecnológica;
-
-VII. Administrar la operación y coordinar el mantenimiento de los servicios y equipos que conformen las redes de comunicación digitales privadas del Organismo, para la transmisión de datos, correo electrónico e internet;
-
-VIII. Generar y proporcionar a las Direcciones autorizadas, los reportes de los sistemas informáticos desarrollados y administrado por la Dirección Técnica de Servicios Financieros, para la prestación de servicios del Organismo;
-
-IX. Emitir opiniones de carácter técnico, que soliciten las áreas del Organismo en su calidad de área requirente, ante proyectos que incluyan el uso de tecnologías de información y de comunicaciones;
-
-X. Administrar y establecer los lineamientos de acceso a los centros de cómputo que estén bajo la responsabilidad del Organismo y, a través de los cuales se brinden servicios de alojamiento, interconexión, administración de equipos y aplicaciones informáticas; así como los centros de cómputo que incluyan el alojamiento de los sistemas informáticos y equipos de telecomunicaciones para los servicios privados del Organismo;
-
-XI. Coordinar los mantenimientos de los equipos informáticos alojados en los centros de cómputo;
-
-XII. Apoyar en coordinación con la Dirección Comercial de Servicios Financieros Básicos, a las dependencias y entidades de la Administración Pública Federal en la realización de proyectos que incluyan redes de comunicación e informática y, que estén relacionados en la comercialización del giro y servicios asociados al giro telegráfico;
-
-XIII. Desarrollar e implantar los sistemas informáticos para llevar el registro electrónico de las operaciones relativas al giro y asociados a giro telegráfico, dar mantenimiento a los programas de cómputo a nivel central, y a nivel estatal, en coordinación con la Dirección de Operación de la Red de Oficinas;
-
-XIV. Elaborar los procedimientos técnicos para el desarrollo de sistemas de informática;
-
-XV. Desarrollar los programas informáticos y coordinar la liberación de los mismos para la operación de los servicios que brinda el Organismo a través de los puntos de atención a clientes y, que permitan operación continua en la prestación de servicios del giro y asociados al giro telegráfico;
-
-XVI. Coordinar con el resto de las Direcciones, la definición de los niveles de acceso a los sistemas informáticos del Organismo e implementarlos;
-
-XVII. Definir las políticas y procedimientos en materia de seguridad física y lógica de los sistemas informáticos y de telecomunicaciones privadas al Organismo.
-
-XVIII. Planear la instalación y coordinar el mantenimiento a los programas de cómputo en las oficinas y agencias telegráficas en coordinación con la Dirección de Operación de la Red de Oficinas.
-
-XIX. Establecer los lineamientos internos para el desarrollo, operación, control y mantenimiento de los sistemas informáticos, equipos de cómputo y de redes;
-
-XX. Generar y custodiar los respaldos de programas de cómputo y de información de los sistemas informáticos críticos del Organismo;
-
-XXI. Desarrollar la reingeniería a los procesos técnicos actuales para mejorar la calidad de los servicios del Organismo; y
-
-XXII. Vigilar por el cumplimiento de los estándares institucionales en materia de informática y telecomunicaciones que se definan por el órgano de gobierno en materias de TIC, determinado en el Organismo; para la adquisición, implantación y mantenimiento de equipos de cómputo, sistemas informáticos, accesorios y de telecomunicaciones;
+(DEROGADO, D.O.F. 20 DE MAYO DE 2014)
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
 
@@ -561,327 +545,211 @@ XXV. Dirigir la instalación, operación y explotación de estaciones terrenas y
 
 XXVI. Controlar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico;
 
-XXVII. Promover la participación de Mexsat en foros y organismos internacionales sobre telecomunicaciones, bajo la coordinación de la Secretaría de Comunicaciones y Transportes, y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+XXVII. Promover la participación de Telecomunicaciones de México en foros y organismos internacionales sobre telecomunicaciones, bajo la coordinación de la Secretaria de Comunicaciones y Transportes; y
 
 XXVIII. Realizar aquellas funciones que sean afines a las que anteceden y las que le encomiende expresamente el Director General.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 25.
 
-Corresponde a la Dirección Comercial de Servicios Financieros Básicos:
+(DEROGADO, D.O.F. 20 DE MAYO DE 2014)
 
-I. Conducir los programas de comercialización de los servicios financieros básicos, remisión de dinero, de interconexión de sistemas de telecomunicaciones a cargo del Organismo con otros de entidades o empresas nacionales o extranjeras, combinar sus servicios de comunicación, mensajería y reparto, de los servicios de valor agregado;
-
-II. Diseñar y desarrollar estudios y programas de comercialización, mercadotecnia y campañas de publicidad de los servicios de giros telegráficos nacionales e internacionales, así como asociados al giro telegráfico y los servicios integrales de comunicación, de valor agregado y participar en la elaboración de los análisis de costos de los servicios;
-
-III. Coordinar acciones estratégicas con agentes en el extranjero y en su caso, con las autoridades consulares para impulsar y mejorar los servicios de remisión de dinero del extranjero a México, así como con grandes usuarios de giros telegráficos nacionales y remisión de dinero;
-
-IV. Coordinar con las áreas del Organismo que intervengan en el desarrollo y aplicación en los programas de comercialización de los servicios;
-
-V. Establecer los programas y coordinar las estrategias para mejorar la atención al usuario;
-
-VI. Recomendar estrategias para optimizar la entrega de telegramas y servicios a domicilio;
-
-VII. Promover convenios y alianzas estratégicas para diversificar los servicios del organismo e implantar parámetros que midan la calidad de los servicios;
-
-VIII. Evaluar y migrar la prestación de los servicios financieros básicos a nuevos canales de distribución, mediante la utilización y aprovechamiento de nuevas tecnologías;
-
-IX. Proponer las metas de venta de los servicios telegráficos en coordinación con las áreas del organismo; desarrollar programas de atención a usuarios;
-
-X. Supervisar la aplicación de los lineamientos de comercialización de los servicios en oficinas telegráficas;
-
-XI. Establecer los lineamientos de imagen institucional;
-
-XII. Mantener vigentes los registros sobre los derechos de marcas y nombres comerciales;
-
-XIII. Definir la estrategia comercial de expansión de la red de oficinas, Agentes Comerciales y Sucursales Telegráficas, en coordinación con la Dirección de Operación de la Red de Oficinas;
-
-XIV. Proponer las tarifas de los servicios financieros básicos y de comunicación telegráfica;
-
-XV. Dirigir y evaluar la investigación de mercados para desarrollar nuevos productos y servicios telegráficos y de valor agregado;
-
-XVI. Coordinar el desarrollo de los estudios de mercado de los servicios financieros básicos, instrumentando las técnicas de búsqueda de la información, para evaluar las necesidades de los servicios, las condiciones de competencia y que puede ofrecer el Organismo;
-
-XVII. Proponer nuevos modelos de negocio, evaluando los estudios de mercado y análisis de viabilidad, para integrar y mantener el portafolio de productos y servicios del Organismo que asegure su rentabilidad en el largo plazo;
-
-XVIII. Ofrecer a los usuarios productos que les permitan obtener acceso a mecanismos de ahorro y/o de crédito, implantar esquemas con transacciones seguras, con menos efectivo y a precios accesibles; y
-
-XIX. Realizar aquellas funciones afines a las señaladas en las fracciones que anteceden y las que encomiende expresamente el Director General.
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### Artículo 25 Bis.
 
-Corresponde a la Dirección Comercial de Telecomunicaciones:
+Corresponde a la Dirección Comercial:
 
-I. Diseñar y desarrollar estudios y programas de comercialización, mercadotecnia y publicidad de los servicios integrales de comunicación, de valor agregado; participar en la elaboración de los análisis de costos de los servicios que presta el Organismo y proponer adecuaciones a las tarifa de los mismos;
+I. Diseñar y desarrollar estudios y programas de comercialización, mercadotecnia y campañas de publicidad de los servicios integrales de telecomunicaciones, de giros telegráficos nacionales e internacionales, así como asociados al giro telegráfico y los servicios integrales de comunicación, de valor agregado y participar en la elaboración de los análisis de costos de los servicios que presta el Organismo;
 
-II. Coordinarse con las áreas del Organismo que tengan intervención, en los programas de comercialización de los servicios;
+II. Coordinar con las áreas del Organismo que tengan intervención en los programas de comercialización de los servicios y productos;
 
-III. Establecer los programas y coordinar las estrategias para mejorar continuamente la atención al usuario en todos los servicios del Organismo;
+III. Establecer los programas y coordinar las estrategias para mejorar continuamente la atención al usuario en todos los servicios y productos del Organismo;
 
-IV. Promover convenios y alianzas estratégicas para diversificar servicios y medir la calidad de los servicios;
+IV. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
-V. Proponer a la Dirección General las estrategias tarifarias para impulsar los programas de comercialización;
+V. Proponer las tarifas y los precios de los servicios financieros básicos, de comunicación telegráfica, servicios integrales de comunicación y de valor agregado conjuntamente con la Dirección de Planeación, Evaluación e Información Institucional;
 
 VI. Concertar y suscribir los convenios y contratos para el suministro de los servicios, conforme a los lineamientos aprobados por la Junta Directiva y que emita la Dirección de Asuntos Jurídicos;
 
-VII. Desarrollar, dirigir y coordinar la ejecución del plan de ingresos proponiendo las metas en coordinación con las área operativas y técnicas del Organismo y llevar el control, registro y estadísticas de la comercialización de los servicios satelitales y de redes de telecomunicaciones;
+VII. Desarrollar, dirigir y coordinar la ejecución del plan de ingresos proponiendo las metas de venta de los servicios y productos en coordinación con las áreas operativas y técnicas del Organismo y llevar el control, registro y estadísticas de la comercialización de los servicios y productos;
 
-VIII. Comercializar los servicios y capacidad de las redes públicas de telecomunicaciones de concesionarios, así como permitir que éstos y los permisionarios comercialicen los servicios y capacidad adquirida de sus redes públicas de telecomunicaciones;
+VIII. Comercializar los servicios que presta el Organismo, así como los servicios y capacidad de las redes públicas de telecomunicaciones de concesionarios, necesarios para la prestación de servicios integrales de telecomunicaciones;
 
 IX. Desarrollar y definir los programas de comercialización de los servicios satelitales y de redes de telecomunicaciones, coordinando con las áreas técnicas del Organismo que intervengan en el aprovisionamiento de los servicios;
 
 X. Implantar los programas de calidad de los servicios;
 
-XI. Coordinar con la Dirección de Asuntos Jurídicos en los trámites para mantener vigentes los registros sobre los derechos de marcas y nombres comerciales del Organismo en lo referente a servicios satelitales, hospedaje y telecomunicaciones;
+XI. Coordinar con la Dirección de Asuntos Jurídicos en los trámites para mantener vigentes los registros sobre los derechos de marcas y nombres comerciales en lo referente a servicios satelitales, hospedaje y telecomunicaciones;
 
-XII. Generar y coordinar el programa de ventas;
+XII. Generar, coordinar y supervisar el programa de ventas;
 
 XIII. Establecer y supervisar programas para la mejora continua y atención a usuarios de los servicios satelitales y de telecomunicaciones;
 
-XIV. Participar en la elaboración de estudios de mercado de los servicios satelitales y de telecomunicaciones sobre las condiciones de precio, calidad y coberturas satelitales con la propuesta de la estrategia tarifaria de los mismos;
+XIV. Participar en la elaboración de estudios de mercado de todos los servicios satelitales y de telecomunicaciones sobre las condiciones de precio, calidad y coberturas satelitales con la propuesta de la estrategia tarifaria de los mismos;
 
-XV. Gestionar las facturas internacionales y las liquidaciones que se reciban de empresas extranjeras por servicios satelitales y de redes de telecomunicaciones; y
+XV. Gestionar las facturas internacionales y las liquidaciones que se reciban de empresas extranjeras por servicios satelitales y de redes de telecomunicaciones;
 
-XVI. Realizar aquellas funciones afines a las señaladas en los numerales que anteceden y las que encomiende expresamente el Director General.
+XVI. Coordinar acciones estratégicas con agentes en el extranjero y en su caso, con las autoridades consulares para impulsar y mejorar los servicios de remisión de dinero del extranjero a México, así como con grandes usuarios de giros telegráficos nacionales y remisión de dinero;
+
+XVII. Supervisar la aplicación de los lineamientos de comercialización de los servicios en sucursales telegráficas;
+
+XVIII. Definir la estrategia comercial de expansión en la red de sucursales telegráficas y Agentes Comerciales, en coordinación con la Dirección de Operaciones Telegráficas;
+
+XIX. Evaluar y migrar la prestación de los servicios financieros básicos a nuevos canales de distribución, mediante la utilización y aprovechamiento de nuevas tecnologías;
+
+XX. Dirigir y evaluar la investigación de mercados para desarrollar nuevos productos y servicios telegráficos y de valor agregado;
+
+XXI. Proponer nuevos modelos de negocio, evaluando los estudios de mercado y análisis de viabilidad, para integrar y mantener el portafolio de productos y servicios del Organismo que asegure su rentabilidad a largo plazo;
+
+XXII. Apoyar a las dependencias y entidades de la Administración Pública Federal en la realización de proyectos que incluyan redes de comunicación e informática así como aquello servicios relacionados con la comercialización del giro y servicios asociados al giro telegráfico y
+
+XXIII. Realizar aquellas funciones afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### Artículo 26.
 
-Corresponde a la Dirección de Operación de la Red de Oficinas:
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+Corresponde a la Dirección de Operaciones Telegráficas:
 
 I. Coordinar a nivel nacional, la ejecución de los procesos operativos de los servicios telegráficos, satelitales y de valor agregado que proporciona el Organismo;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-II. Desarrollar y ejecutar, con el apoyo de las Gerencias Regionales y Estatales, el programa de supervisión de las oficinas y agencias telegráficas;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+II. Desarrollar y ejecutar, con el apoyo de las Gerencias Regionales y Estatales, el Programa de Supervisión de las Sucursales Telegráficas;
 
 III. Establecer un sistema de información con las Gerencias Regionales y Estatales;
 
-IV. Servir de enlace entre las gerencias regionales y estatales con la Dirección General y las demás unidades administrativas del Organismo;
+IV. Servir de enlace entre las Gerencias Regionales y Estatales con la Dirección General y las demás unidades administrativas del Organismo;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+V. Coordinar, supervisar y hacer cumplir la ejecución oportuna y eficaz de los planes y programas de trabajo relativos a la operación de las Gerencias Regionales y Estatales y de las sucursales telegráficas, que les sean encomendados; así como participar y coadyuvar con otras direcciones en la coordinación, y supervisión, en las Gerencias Regionales y Estatales, de los otros planes y programas de trabajo del Organismo;
 
-V. Coordinar, supervisar y hacer cumplir la ejecución oportuna y eficaz de los planes y programas de trabajo relativos a la operación de las Gerencias Regionales y Estatales y de las oficinas telegráficas, que les sean encomendados; así como participar y coadyuvar con otras direcciones en la coordinación, y supervisión, en las Gerencias Regionales y Estatales, de los otros planes y programas de trabajo del organismo;
+VI. Promover el desarrollo de los servicios del Organismo en las Gerencias Regionales y Estatales, en coordinación con la Dirección Comercial;
 
-VI. Promover el desarrollo de los servicios del Organismo en las gerencias regionales y estatales, en coordinación con la Dirección Comercial;
+VII. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
-VII. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2008)
+VIII. Participar con la Dirección de Recursos Humanos y con la Dirección de Administración Financiera en las actividades de supervisión a cargo de esas unidades que se realicen a las Gerencias Regionales y Estatales, en la administración que realicen de los recursos humanos, materiales y financieros del Organismo, en estricto apego a la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+IX. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
-VIII. Participar con la Dirección de Administración de Recursos Humanos y con la Dirección de Finanzas y Administración en las actividades de supervisión a cargo de esas unidades administrativas que se realicen a las Gerencias Regionales y Estatales, en la administración que realicen de los recursos humanos, materiales y financieros del organismo, en estricto apego a la normatividad aplicable;
-
-IX. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2008)
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-X. Integrar la información de estadística de las Gerencias Regionales y Estatales para la elaboración, en coordinación con la Dirección de Planeación, de los indicadores de gestión y de desempeño, en la ejecución de los procesos operativos de los servicios telegráficos, satelitales y de valor agregado que proporciona el Organismo;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+X. Integrar la información de estadística de las Gerencias Regionales y Estatales para la elaboración, en coordinación con la Dirección de Planeación, Evaluación e Información Institucional de los indicadores de gestión y de desempeño, en la ejecución de los procesos operativos de los servicios telegráficos, satelitales y de valor agregado que proporciona el Organismo;
 
 XI. En coordinación con la Dirección Comercial, dar seguimiento al cumplimiento de los convenios y/o contratos, respecto de los servicios que proporciona el Organismo en las Gerencias Regionales y Estatales;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XII. Coordinar y supervisar el desarrollo y la operación de las Gerencias Regionales y Estatales, así como de las sucursales telegráficas, estableciendo mecanismos de supervisión de la calidad de los servicios;
 
-XII. Coordinar y supervisar el desarrollo y la operación de las Gerencias Regionales y Estatales, así como de las Oficinas y Agencias Telegráficas;
+XIII. Establecer los procedimientos de operación y de supervisión de las sucursales telegráficas;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XIV. Desarrollar los sistemas de supervisión y medición de la calidad de los servicios telegráficos, satelitales y de valor agregado que presta el Organismo;
 
-XIII. Establecer los procedimientos de operación y de supervisión de las Oficinas y Agencias Telegráficas;
+XV. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XVI. Coordinar el desarrollo de los estudios e investigaciones para el mejoramiento de la operación de los servicios telegráficos y de valor agregado que presta el Organismo;
 
-XIV. Desarrollar los sistemas de supervisión y medición de la calidad de los servicios telegráficos, satelitales y de valor agregado que presta el organismo;
+XVII. Emitir en coordinación con la Dirección de Planeación, Evaluación e Información Institucional, los manuales de procedimientos, instructivos, catálogos, circulares y demás disposiciones relacionadas con los servicios telegráficos, satelitales y de valor agregado que presta el Organismo, así como su integración y registro;
 
-XV. Establecer mecanismos de supervisión de la calidad de los servicios;
+XVIII. Analizar y determinar los requerimientos de equipamiento, mobiliario y servicios generales e insumos para la operación en coordinación con las unidades administrativas relacionadas;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XIX. Coadyuvar con la Dirección de Asuntos Jurídicos en la atención de asuntos de naturaleza jurídica que serán encomendadas a las Gerencias Regionales y Estatales; entre las que se encuentran: formular denuncias o querellas por hechos constitutivos de algún tipo penal cometidos contra el patrimonio del Organismo, entre otras;
 
-XVI. Coordinar el desarrollo de los estudios e investigaciones para el mejoramiento de la operación de los servicios telegráficos y de valor agregado que presta el organismo;
+XX. Coadyuvar con la Dirección de la Unidad Estratégica de Inteligencia en la aplicación de los programas de protección civil y de seguridad de las sucursales telegráficas;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XXI. Para la realización de sus funciones el Director de Operaciones Telegráficas, se auxiliará de Gerentes Regionales y Estatales que harán cumplir oportuna y eficazmente los planes y programas del Organismo y representarán a éste en su Entidad Federativa de conformidad con los poderes que le sean otorgados;
 
-XVII. Emitir en coordinación con la Dirección de Planeación, los manuales de procedimientos, instructivos, catálogos, circulares y demás disposiciones relacionadas con los servicios telegráficos, satelitales y de valor agregado que presta el organismo, así como su integración y registro;
+XXII. Proponer, instalar, operar, mantener y explotar los sistemas informáticos y de telecomunicaciones, coordinando la administración y modernización de la infraestructura de telecomunicaciones y sistemas informáticos del Organismo con los cuales preste servicios, así como de los equipos utilizados para las comunicaciones digitales privadas, desarrollando y dando asesoría en la implantación de los sistemas informáticos que faciliten la operación administrativa de las áreas requirentes;
 
-XVIII. Analizar y determinar los requerimientos de equipamiento, mobiliario y servicios generales e insumos para la operación. En coordinación con las unidades administrativas relacionadas;
+XXIII. Coordinar los proyectos de Tecnologías de Información y Comunicaciones (TIC) que se determinen por el Órgano de Gobierno en materia de TIC vigilando el cumplimiento de los estándares institucionales en materia de informática y telecomunicaciones;
 
-XIX. Coadyuvar con la Dirección de Asuntos Jurídicos en la atención de asuntos de naturaleza jurídica que serán encomendadas a las gerencias regionales y estatales; entre las que se encuentran: formular denuncias o querellas por hechos constitutivos de algún tipo penal cometidos contra el patrimonio del Organismo, entre otras;
+XXIV. Administrar la operación y coordinar el mantenimiento de los servicios y equipos que conformen las redes de comunicación digitales privadas del Organismo, para la transmisión de datos, correo electrónico e internet;
 
-XX. Coadyuvar con la Dirección de Administración de Recursos Humanos en la aplicación de los programas de protección civil y de seguridad de las oficinas telegráficas;
+XXV. Administrar y establecer los lineamientos de acceso a los centros de cómputo que estén bajo la responsabilidad del Organismo y, a través de los cuales se brinden servicios de alojamiento, interconexión, administración de equipos y aplicaciones informáticas; así como los centros de cómputo que incluyan el alojamiento de los sistemas informáticos y equipos de telecomunicaciones para los servicios privados del Organismo;
 
-XXI. Para la realización de sus funciones el Director de Operación de la Red de Oficinas, se auxiliará de Gerentes Regionales y Estatales que harán cumplir oportuna y eficazmente los planes y programas del Organismo y representarán a éste en su Entidad Federativa de conformidad con los poderes que le sean otorgados;
+XXVI. Generar y custodiar los respaldos de programas de cómputo y de información de los sistemas informáticos críticos del Organismo;
 
-XXII. Realizar aquellas funciones afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+XXVII. Conducir los programas de comercialización de los servicios financieros básicos, remisión de dinero, de interconexión de sistemas de telecomunicaciones a cargo del Organismo con otras entidades o empresas nacionales o extranjeras, combinar sus servicios de comunicación, mensajería y reparto, de los servicios de valor agregado;
+
+XXVIII. Ofrecer a los usuarios productos que les permitan obtener acceso a mecanismos de ahorro y/o de crédito, implantar esquemas con transacciones seguras, con menos efectivo y a precios accesibles; y
+
+XXIX. Realizar aquellas funciones afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### Artículo 27.
 
-Corresponde a la Dirección de Finanzas y Administración:
+Corresponde a la Dirección de Administración Financiera:
 
-I. Conducir el proceso de programación y presupuestación del Organismo, la estrategia financiera de ingreso y gasto, el control del ejercicio presupuestal, la contabilidad y los procedimientos de cobranza, así como las funciones de administración de recursos materiales, servicios generales y obras;
+I. Definir estrategias de rentabilidad y planeación financiera, fiscales, contables y de inversión, derivadas de la captación de los recursos que se obtienen de los productos y servicios que se ofrecen en el Organismo a nivel nacional, a fin de eficientar y garantizar los flujos de efectivo requeridos y homologar los criterios de operación de recursos en el gasto en todos los estados del país, a través de estudios de expansión y comerciales realizados por las diferentes Direcciones del Organismo;
 
-II. Coordinar la elaboración, registro y control de los programas, proyectos y modificaciones al presupuesto y su gestión ante las autoridades correspondientes, así como integrar la contabilidad del Organismo;
+II. Definir los procesos de facturación, cobranza y dispersión de fondos, mismos que son particulares y propios del Organismo, que están ligados a procesos sustantivos de servicios telegráficos, control y operación de Mexsat, servicios satelitales y redes de telecomunicaciones;
 
-III. Coordinar con las unidades administrativas del Organismo y de acuerdo con las disposiciones aplicables la integración de los anteproyectos de los presupuestos de ingresos y egresos y presentarlos para su autorización al Director General;
+III. Definir las estrategias de control derivadas de las atribuciones de servicios financieros que tiene definido el Organismo, atendiendo lo establecido para tal efecto el Art. 95 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, la cual forma parte de la normatividad que rige al Organismo;
 
-IV. Elaborar los análisis y registros de los costos de las unidades de negocio y los servicios que presta el Organismo;
+IV. Vigilar que la ejecución y la optimización del gasto y registro contable de las actividades del Organismo se encuentren debidamente alineadas a la normatividad vigente y que se ajusten a las medidas de racionalidad, disciplina y austeridad, elaborar y analizar los costos de las unidades de negocio y los servicios, administrar las disponibilidades en caja, bancos e inversiones financieras, supervisar el control y la conciliación de las cuentas de cheques e inversión, de las pólizas, de los cheques, de los facsímiles y de los documentos cobrables, así como establecer cartas de crédito internacionales cuando sean necesarias, para lo cual, autorizará la información del seguimiento presupuestal a las áreas de control y vigilancia;
 
-V. Mantener actualizado el sistema integral de información;
+V. Planear el proceso de programación y presupuesto, del ingreso y del gasto, el control del ejercicio presupuestal, la contabilidad y los procedimientos de cobranza del Organismo, así como las funciones de administración de los recursos materiales, de los servicios generales y de las obras a nivel nacional, informando lo conducente a cada una de las unidades administrativas;
 
-VI. Presentar la información presupuestaria del Organismo, para su gestión ante las autoridades competentes;
+VI. Coordinar la elaboración, registro y control de los programas, proyectos y modificaciones al presupuesto de ingresos y egresos, así como la integración de los anteproyectos de presupuesto y presentarlos para autorización del Director General y gestión ante las autoridades correspondientes, así como registrar y controlar el presupuesto autorizado;
 
-VII. Registrar y controlar el presupuesto autorizado y sus modificaciones;
+VII. Coordinar que el registro contable de las operaciones económicas y financieras del Organismo, den a conocer la situación financiera del mismo, verificando las operaciones financieras y presupuestales de cada Unidad Administrativa, para informar veraz, oportuna y eficientemente;
 
-VIII. Supervisar la aplicación de procedimientos para el control presupuestal;
+VIII. Supervisar la actualización del catálogo de cuentas para el registro y control de las operaciones contables;
 
-IX. Controlar el presupuesto de las partidas de racionalidad, disciplina y austeridad;
+IX. Supervisar que la integración, el resguardo y la glosa del archivo contable del Organismo, así como de los estados financieros e información contable se realicen oportuna y eficazmente, para lo cual deberá difundir la normatividad que corresponda, adecuar su aplicación, asesorar a las unidades administrativas sobre su implantación y operación y elaborar las observaciones correspondientes, así como informar a la Unidad competente de las irregularidades detectadas;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+X. Administrar y definir la estrategia para la captación, registro, control y seguimiento de ingresos propios, transferencias y productos financieros;
 
-X. Registrar y controlar el avance del ejercicio de los ingresos y del gasto corriente y de inversión e informar a las unidades administrativas de su avance;
+XI. Supervisar la recaudación y dispersión de fondos para los servicios de giro telegráfico y remisión de dinero;
 
-XI. Proporcionar la información de seguimiento presupuestal a las áreas de control y vigilancia;
+XII. Supervisar el registro de las liquidaciones de los compromisos del Organismo con terceros y que los saldos de las cuentas contables estén debidamente soportados; así como realizar los pagos a cargo del Organismo;
 
-XII. Registrar contablemente las operaciones económicas y financieras del Organismo, para informar veraz, oportuna y eficientemente;
+XIII. Autorizar la apertura y cancelación de las cuentas bancarias del Organismo, así como los traspasos con instituciones bancarias y financieras;
 
-XIII. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2008)
+XIV. Definir la estrategia de operación de la dispersión de fondos a las sucursales telegráficas en coordinación con la Dirección de Operaciones Telegráficas, Gerencias Regionales y Estatales;
 
-XIV. Mantener actualizado el catálogo de cuentas para el registro y control de las operaciones contables;
+XV. Definir la estrategia de control y seguimiento de cobranza de los servicios que factura el Organismo, garantizando el ingreso de recursos, así como controlar los procedimientos establecidos en materia de la cartera vencida;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XVI. Autorizar los programas de adquisiciones de bienes, servicios y obra pública, en coordinación con las unidades administrativas del Organismo; realizar las adquisiciones, arrendamientos, contratación y ejecución de procesos de recisión respectivos de bienes, servicios y obra pública que se requieran para el cumplimiento de los programas, de conformidad con la normatividad aplicable, así como integrar el registro de proveedores, licitaciones, fallos, adjudicaciones, y exenciones;
 
-XV. Integrar y resguardar el archivo contable del organismo y formular los estados financieros y demás información contable del organismo;
+XVII. Definir las normas e instructivos a nivel nacional que regulen las adquisiciones, el suministro, almacenamiento, control y registro de entradas y salidas de los bienes y servicios, así como lo relativo a la obra pública, conforme a las disposiciones legales aplicables y llevar la supervisión y registro de las mismas;
 
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XVIII. Aplicar la normatividad relativa a la ocupación, registro y control de inmuebles, así como garantizar la prestación de los servicios generales a su cargo y definir los de las demás unidades administrativas, considerando la contratación de seguros para los bienes muebles e inmuebles del Organismo, así como la administración de los servicios de mantenimiento y limpieza de los inmuebles a nivel nacional;
 
-XVa. Difundir las normas contables y adecuar su aplicación, así como asesorar a las unidades administrativas en su implantación y operación;
+XIX. Regular los bienes inmuebles propiedad o en posesión del Organismo, para lo cual deberá realizar las gestiones a las que haya lugar, incluyendo la actualización del inventario general de los mismos. Asimismo, coparticipará dentro del ámbito de su competencia en la adquisición, arrendamiento, enajenación, diseño arquitectónico y de ingeniería para la ejecución de obra de construcción básica y remodelación de los mismos;
 
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XX. Definir, integrar, difundir, administrar y vigilar los procedimientos de altas, bajas, enajenación, recepción, asignación y distribución de los bienes muebles del Organismo en coordinación con las unidades administrativas;
 
-XVb. Verificar los registros contables de las unidades administrativas del organismo sobre operaciones financieras y presupuestales;
+XXI. Definir los lineamientos para la administración de los talleres de recuperación y reparación de mobiliario, de impresión de formas y folletería y los de servicios;
 
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XXII. Definir los procesos de administración y operación de los comedores para los trabajadores de áreas centrales del Organismo, conforme a lo establecido en la normatividad aplicable;
 
-XVc. Glosar la contabilidad de las unidades administrativas, elaborar las observaciones correspondientes e informar a la unidad competente cuando puedan existir irregularidades;
+XXIII. Autorizar los recursos financieros para solventar los objetivos y las propuestas de mejora generadas en las diferentes comisiones instauradas en el Organismo conforme a la normatividad y leyes aplicables;
 
-XVI. Administrar la captación de ingresos y realizar los pagos a cargo del Organismo;
+XXIV. Definir y coordinar las funciones de administración de recursos materiales, servicios generales y obras, así como definir y mantener actualizado el Sistema Integral de Información;
 
-XVII. Controlar la recaudación y dispersión de fondos para los servicios de giro telegráfico y remisión de dinero;
+XXV. Difundir y vigilar la correcta aplicación de los procedimientos para el manejo de correspondencia, expedientes de archivo y su concentración, así como conservar los documentos de la misma y tramitar su baja de acuerdo a la normatividad vigente; y
 
-XVIII. Administrar las disponibilidades en caja, bancos e inversiones financieras;
+XXVI. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
 
-XIX. Llevar el registro de las liquidaciones de los compromisos del Organismo con terceros;
-
-XX. Supervisar que los saldos de las cuentas contables estén debidamente soportados;
-
-XXI. Establecer cartas de crédito internacionales;
-
-XXII. Controlar pólizas, cheques, facsímiles y documentos cobrables;
-
-XXIII. Establecer la conciliación de cuentas de cheques y de inversión;
-
-XXIV. Tramitar los contratos para el establecimiento de cuentas y traspasos con instituciones bancarias y financieras;
-
-XXV. Autorizar la apertura y cancelación de las cuentas bancarias del Organismo;
-
-XXVI. Operar la dispersión de fondos a las oficinas y agencias telegráficas en coordinación con la Dirección de Operación de la Red de Oficinas, las gerencias regionales y estatales;
-
-XXVII. Llevar el registro y control de los productos financieros;
-
-XXVIII. Registrar y dar seguimiento a los programas de captación de ingresos propios, y transferencias;
-
-XXIX. Realizar la cobranza de los servicios que factura el Organismo;
-
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2011)</small>
-
-XXIX Bis. Realizar y controlar la facturación de los servicios proporcionados por el Organismo.
-
-XXX. Aplicar los procedimientos establecidos en materia de la cartera vencida;
-
-XXXI. Establecer los sistemas de captación de ingresos;
-
-XXXII. Integrar los programas de adquisiciones de bienes, servicios y obra pública, en coordinación con las unidades administrativas del Organismo;
-
-XXXIII. Realizar las adquisiciones, arrendamientos y contratación de bienes, servicios y obra pública que se requieran para el cumplimiento de los programas, de conformidad con la normatividad aplicable;
-
-XXXIV. Llevar un registro de proveedores, así como de licitaciones, fallos, adjudicaciones y exenciones;
-
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-XXXIV Bis. Difundir a las Gerencias Estatales y Regionales las normas e instructivos que regulen las adquisiciones, el suministro y almacenamiento de los bienes y servicios, así como lo relativo a la obra pública, conforme a las disposiciones legales aplicables y llevar la supervisión y registro de las mismas;
-
-XXXV. Aplicar la normatividad relativa a la ocupación, registro y control de inmuebles, así como garantizar la prestación de los servicios generales a su cargo y definir los de las demás unidades administrativas;
-
-XXXVI. Contratar los seguros para los bienes muebles e inmuebles del Organismo;
-
-XXXVII. Administrar los servicios de mantenimiento y limpieza de los inmuebles de oficinas centrales y definir los de las demás unidades administrativas;
-
-XXXVIII. Operar los talleres de servicios;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-XXXIX. Registrar los contratos de arrendamiento e integrar la documentación para el registro y control de los inmuebles en propiedad y posesión del organismo y mantener actualizado el inventario general de los mismos;
-
-XL. Apoyar en el diseño arquitectónico y de ingeniería para la ejecución de obra de construcción básica y remodelación de inmuebles;
-
-XLI. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2008)
-
-XLII. Difundir y vigilar la correcta aplicación de los procedimientos para el manejo de correspondencia, expedientes de archivo y su concentración, así como conservar los documentos de la misma y tramitar su baja de acuerdo a la normatividad vigente;
-
-XLIII. Fomentar el ahorro en el consumo de energía eléctrica por parte de los trabajadores en las instalaciones del Organismo;
-
-XLIV. Realizar los trámites necesarios para la regularización de los inmuebles que ocupa el Organismo, e intervenir dentro de su ámbito de competencia en la adquisición, arrendamiento y enajenación de los mismos;
-
-XLV. Llevar el control y registro de las entradas y salidas de los bienes de consumo en los almacenes;
-
-XLVI. Administrar los talleres de impresión de formas y folletería;
-
-XLVII. Integrar y administrar el sistema de altas, bajas, enajenación, recepción, control y distribución de los bienes muebles, en coordinación con las unidades administrativas;
-
-XLVIII. Integrar el inventario de los bienes muebles y su asignación; administrar los talleres de recuperación y reparación de mobiliario;
-
-XLIX. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### Artículo 28.
 
-Corresponde a la Dirección de Administración de Recursos Humanos:
+Corresponde a la Dirección de Recursos Humanos:
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+I. Conducir de conformidad con la normatividad aplicable las funciones de administración de los recursos humanos, establecer los sistemas para su desarrollo y evaluación, y prestar apoyo y asesoría en la materia a las demás unidades administrativas del Organismo;
 
-I. Conducir de conformidad con la normatividad aplicable las funciones de administración de los recursos humanos, establecer los sistemas para su desarrollo y evaluación, y prestar apoyo y asesoría en la materia a las demás unidades administrativas del organismo;
+II. Elaborar y coordinar los programas de capacitación, adiestramiento e inducción del personal en coordinación con las unidades administrativas del Organismo y con las instituciones y Organizaciones que se requieran a nivel nacional, a fin de mejorar el servicio a clientes, y así contribuir a una mejor y mayor captación de recursos financieros;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+II a. Definir e implementar a nivel nacional la estrategia de capacitación en coordinación con las distintas unidades administrativas, contribuyendo al posicionamiento del Organismo como la mejor opción de servicios financieros básicos;
 
-II. Elaborar y coordinar los programas de capacitación y adiestramiento e inducción del personal en coordinación con las unidades administrativas del Organismo y con las instituciones y organizaciones que se requieran;
+II b. Coordinar las actividades de reclutamiento, selección, contratación, promoción, permutas, cambios de adscripción y demás movimientos del personal del Organismo;
 
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+II c. Coadyuvar con la Dirección de Administración Financiera en el proceso de programación presupuestal, para el ejercicio del mismo en servicios personales;
 
-IIa. Evaluar los resultados de los programas de capacitación en coordinación con las unidades administrativas del Organismo;
+III. Gestionar los registros de altas, bajas y modificaciones ante las instituciones de seguridad y servicios sociales para los trabajadores del Estado, y demás Instancias Globalizadoras incluyendo seguros, indemnizaciones y prestaciones;
 
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+III bis. Expedir, registrar y controlar las credenciales de identificación del personal;
 
-IIb. Coordinar las actividades de reclutamiento, selección, contratación y promoción del personal del Organismo;
-
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-IIc. Coadyuvar con la Dirección de Finanzas y Administración en el proceso de programación, presupuestación y ejercicio del presupuesto de servicios personales, y vigilar el cumplimiento de las normas y disposiciones establecidas en la materia;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-III. Gestionar los registros de altas, bajas y modificaciones ante las Instituciones de Seguridad y Servicios Sociales para los Trabajadores del Estado, incluyendo seguros, indemnizaciones y prestaciones;
-
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-III Bis. Expedir, registrar y controlar las credenciales de identificación del personal;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-IV. Coordinar las relaciones laborales con el sindicato del organismo y formar parte de la Comisión Nacional Mixta de Escalafón;
+IV. Coordinar las relaciones laborales con el sindicato del Organismo;
 
 V. Participar en la elaboración y revisión periódica de las Condiciones Generales de Trabajo y difundirlas entre el personal del Organismo y vigilar su cumplimiento;
 
@@ -891,59 +759,55 @@ VII. Establecer y supervisar los medios de control de asistencia y puntualidad d
 
 VIII. Fijar los horarios de trabajo de los trabajadores, en función de las necesidades de servicio del Organismo;
 
-IX. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2008)
+IX. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
 X. Actualizar el catálogo de puestos, plantilla de personal y tabuladores de sueldo, así como gestionar su registro;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-XI. Proponer al Director General la designación o remoción, en su caso, de quienes deban representar al organismo ante los Comités Mixtos de Escalafón y de Seguridad e Higiene;
+XI. Proponer al Director General la designación o remoción, en su caso, de quienes deban integrar los Comités y Comisiones, que deban conformar en el Organismo en materia de recursos humanos;
 
 XII. Promover actividades deportivas, culturales y de recreación para los trabajadores;
 
-XIII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2011)
+XIII. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XIII a. Coordinar las actividades de los prestadores de servicio social de las diferentes instituciones educativas, con las áreas que lo requieran;
 
-XIIIa. Coordinar las actividades de los prestadores de Servicio Social de las diferentes Instituciones Educativas, con las áreas que lo requieran;
+XIII b. Coordinar y supervisar la prestación de servicios médicos de urgencia con los consultorios instalados en los edificios que utiliza el Organismo;
 
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XIV. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
-XIIIb. Coordinar y supervisar la prestación de servicios médicos de urgencia con los consultorios instalados en los edificios que utiliza el organismo;
+XV. Elaborar las nóminas de sueldos y salarios, registrar y controlar las percepciones, registrar y controlar las deducciones del personal, conforme a la normatividad y niveles autorizados, así como supervisar la operación del sistema de nóminas conforme al calendario de pagos;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-XIV. Operar, coordinar y supervisar la operación de los comedores para los trabajadores;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-XV. Elaborar las nóminas de sueldos y salarios, registrar y controlar las percepciones y determinar, registrar y controlar las deducciones del personal, así como del organismo conforme a la normatividad y niveles autorizados, así como supervisar la operación del sistema de nóminas conforme al calendario de pagos;
-
-XVI. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2008)
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XVI. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
 XVII. Llevar el registro de las nóminas elaboradas, así como de los comprobantes de percepciones y deducciones emitidos y entregados;
 
-XVIII. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2008)
+XVIII. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
 XIX. Proponer y promover convenios de colaboración para la capacitación y adiestramiento del personal;
 
-XX. (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2008)
+XX. (DEROGADA, D.O.F. 20 DE MAYO DE 2014)
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
-
-XXI. Administrar la Escuela Nacional de Telecomunicaciones y Telegrafía, así como a través de ésta, el acervo museográfico, bibliográfico y hemerográfico del organismo;
+XXI. Administrar el Centro de Desarrollo TELECOMM y a través de éste, el acervo bibliográfico y hemerográfico del Organismo;
 
 XXII. Dictaminar e imponer las sanciones a que se hagan acreedores los trabajadores, con base a la normatividad vigente. Cuando el acto sancionable implique el cese o la rescisión de la relación laboral, solicitar el dictamen de la Dirección de Asuntos Jurídicos;
 
-> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
+XXII bis. Proporcionar asesoría y apoyo que en materia de relaciones laborales requieran las unidades administrativas y los servidores públicos del Organismo;
 
-XXII Bis. Proporcionar asesoría y apoyo que en materia de relaciones laborales requieran las unidades administrativas y los servidores públicos del organismo;
+XXIII. Desarrollar, difundir y verificar la implementación de herramientas de gestión de Recursos Humanos que propicien la integración, el desarrollo y el reconocimiento del personal del Organismo, que redunde en el mejoramiento de su calidad de vida;
 
-XXIII. Promover la implantación de estrategias que mejoren la productividad y calidad de servicio del personal;
+XXIV. Desarrollar y someter a la consideración del Director General, propuestas de modificaciones a la estructura orgánica de Telecomm, así como gestionar su autorización y registro ante las instancias globalizadoras que correspondan, de acuerdo con la normatividad aplicable;
 
-XXIV. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
+XXV. Definir e implementar la estrategia de medición de clima laboral en el Organismo y en cada una de las Direcciones de área, así como definir los esquemas, planes y programas que permitan incrementar el nivel de satisfacción laboral del personal;
+
+XXVI. Definir, implementar y supervisar el modelo de comunicación de requerimientos laborales, generando un vínculo directo con la Dirección de Asuntos Jurídicos y con el Sindicato que permita reducir la incidencia de demandas laborales y se traduzca en ahorros al Organismo;
+
+XXVII. Definir e implementar políticas y lineamientos de desarrollo de recursos humanos que permitan atraer, retener y desarrollar al personal del Organismo, así como identificar las posiciones clave de la estructura que permita documentar el conocimiento;
+
+XXVIII. Definir, ejecutar y supervisar los lineamientos, políticas y disposiciones normativas y presupuestarias para la correcta asignación y otorgamiento de las prestaciones de carácter social y económico de los trabajadores del Organismo;
+
+XXIX. Homologar los criterios de Administración de Recursos Humanos a nivel Nacional, derivado de ello las áreas de Recursos Humanos, en todos los Estados de la República reportaran de manera matricial a la Dirección de Recursos Humanos; y
+
+XXX. Realizar aquellas funciones que sean afines a las señaladas en las fracciones que anteceden y las que le encomiende expresamente el Director General.
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2008)</small>
 
@@ -965,9 +829,13 @@ VI. Planear, coordinar e instrumentar las acciones prioritarias en las zonas de 
 
 VII. Aplicar las políticas, programas, proyectos y la ejecución de acciones en materia de prevención del delito en la prestación de todos los servicios a cargo del Organismo;
 
-VIII. Planear y coordinar acciones para el adecuado control del ingreso y egreso de los recursos económicos a las oficinas telegráficas del Organismo;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
 
-IX. Instalar los sistemas y equipos de seguridad del organismo y supervisar el funcionamiento de los sistemas de vigilancia en las oficinas telegráficas y en los otros inmuebles del Organismo que se requieran;
+VIII. Planear, coordinar e instrumentar las acciones para el adecuado control del ingreso y egreso de los recursos económicos a las sucursales telegráficas del Organismo;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2014)</small>
+
+IX. Instalar los sistemas y equipos de seguridad del Organismo y supervisar el funcionamiento de los sistemas de vigilancia en las sucursales telegráficas y en los otros inmuebles del Organismo que se requiera;
 
 X. Coordinarse con las instancias de seguridad pública federales, estatales y municipales con objeto de prevenir y abatir el índice delictivo en contra del Organismo;
 
@@ -1089,7 +957,9 @@ El Comité de Control y Auditoría deberá sesionar en forma ordinaria por lo me
 
 El Comité de Adquisiciones, Arrendamientos y Servicios tiene las funciones que se establecen en el artículo 22 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y, en los términos del artículo 14 del Reglamento de esa Ley, se integra de la siguiente forma:
 
-El Director de Finanzas y Administración, quien lo presidirá, por el Subdirector de Recursos Materiales y Servicios Generales, quien fungirá como Secretario Ejecutivo, y por el Director Técnico, Director Comercial, Director de Operación de la Red de Oficinas, Director de Planeación, Director de Administración de Recursos Humanos, Director de la Unidad Estratégica de Inteligencia y Gerente de Adquisiciones, quienes fungirán como vocales.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+
+El Director de Administración Financiera quien lo presidirá, por el Subdirector de Recursos Materiales y Servicios Generales quien fungirá como Secretario Ejecutivo, y por el Director Técnico de Telecomunicaciones y Mexsat, Director Comercial, Director de Operaciones Telegráficas, Director de Planeación, Evaluación e Información Institucional, Director de Recursos Humanos, Director de la Unidad Estratégica de Inteligencia y Gerente de Adquisiciones, quienes fungirán como vocales.
 
 En las reuniones del Comité intervendrán con voz pero sin voto, el Titular del Organo Interno de Control y el Director de Asuntos Jurídicos como asesores, y un representante de la Secretaría de la Función Pública, como asesor externo (cuando dicha dependencia así lo decida); con la finalidad de que los procedimientos se realicen con apego a la normatividad aplicable en la materia.
 
@@ -1130,6 +1000,12 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Acuerdo, se seguirán substanciando por las áreas administrativas que conforme a este ordenamiento les competa.
 
 D.O.F. 9 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Acuerdo, se seguirán substanciando por las áreas administrativas que conforme a este ordenamiento les competa.
+
+D.O.F. 20 DE MAYO DE 2014.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
