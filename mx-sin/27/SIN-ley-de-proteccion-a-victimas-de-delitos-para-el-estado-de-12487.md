@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-proteccion-a-victimas-de-delitos-para-el-estado-de-12487
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-16"
-last_updated: "1999-07-09"
+last_updated: "2014-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE PROTECCION A VICTIMAS DE DELITOS PARA EL ESTADO DE SINALOA
 
-LEY DE PROTECCION A VICTIMAS DE DELITOS PARA EL ESTADO DE SINALOA
+LEY DE PROTECCIÓN A VÍCTIMAS DE DELITOS PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 21 DE MAYO DE 2014, LA VIGENTE LEY DE PROTECCIÓN A VÍCTIMAS DE DELITOS PARA EL ESTADO DE SINALOA, CONTINUARÁ APLICÁNDOSE HASTA LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 16 de octubre de 1998.
 
@@ -286,3 +288,17 @@ P.O. 9 DE JULIO DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado d Sinaloa".
+
+P.O. 21 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los sesenta días posteriores de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La vigente Ley de Protección a Víctimas de Delitos para el Estado de Sinaloa continuará aplicándose, hasta la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan a este Decreto.
