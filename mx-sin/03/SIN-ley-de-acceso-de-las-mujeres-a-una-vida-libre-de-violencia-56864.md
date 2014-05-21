@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2013-06-26"
+last_updated: "2014-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -311,25 +313,29 @@ III. La Secretaría de Seguridad Pública;
 
 IV. La Procuraduría General de Justicia del Estado;
 
-V. La Secretaría de Educación Pública y Cultura;
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
 
-VI. La Secretaría de Salud;
+V. La Subprocuraduría de Derechos Humanos y Atención a Víctimas;
 
-VII. El Instituto Sinaloense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
+VI. La Secretaría de Educación Pública y Cultura;
 
-VIII. DIF estatal;
+VII. La Secretaría de Salud;
+
+VIII. El Instituto Sinaloense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
+
+IX. DIF estatal;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-IX. Consejo Estatal para Prevenir y Atender la Violencia Intrafamiliar;
+X. Consejo Estatal para Prevenir y Atender la Violencia Intrafamiliar;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
-X. El H. Congreso del Estado, a través de la Comisión de Equidad, Género y Familia; y,
+XI. El H. Congreso del Estado, a través de la Comisión de Equidad, Género y Familia; y,
 
 > <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
 
-XI. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer.
+XII. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer.
 
 ###### Artículo 27.
 
@@ -527,9 +533,11 @@ e) Los recursos erogados en la atención de las víctimas; y,
 
 Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2014)</small>
+
 ###### Artículo 37.
 
-Corresponde a la Procuraduría General de Justicia del Estado, en materia de violencia en contra de las mujeres:
+Corresponde a la Subprocuraduría de Derechos Humanos y Atención a Víctimas, en materia de violencia en contra de las mujeres:
 
 I. Promover la formación y especialización de Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
 
@@ -854,3 +862,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 26 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE MAYO DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 335 DEL H. CONGRESO DEL ESTADO.- LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los sesenta días posteriores de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+La vigente Ley de Protección a Víctimas de Delitos para el Estado de Sinaloa continuará aplicándose, hasta la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan a este Decreto.
