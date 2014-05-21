@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2013-11-02"
+last_updated: "2014-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -207,7 +207,9 @@ El sistema estatal de salud, con la intervención que corresponda al comité de 
 
 El sistema estatal de salud tiene los siguientes objetivos:
 
-I.- Proporcionar servicios de salud en toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionan y causan daños a la salud, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionan y causan daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
 
 II.- Contribuir el desarrollo demográfico armónico del Estado;
 
@@ -259,15 +261,21 @@ XIII.- Coadyuvar a que la información y distribución de los recursos humanos p
 
 XIV.- Promover e impulsar la participación de la comunidad en el Estado en el cuidado de la salud;
 
-XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud, y (sic)
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-XVI.- Coadyuvar con la Secretaría de Salud Federal en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, mismo que será obligatorio en todos los establecimientos a cargo del Sistema, en términos de los mecanismos de coordinación y colaboración, y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+XVI.- Coadyuvar con la Secretaría de Salud Federal en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, mismo que será obligatorio en todos los establecimientos a cargo del Sistema, en términos de los mecanismos de coordinación y colaboración;
 
-XVII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XVII. Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas dirigidos a brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas, y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -477,7 +485,11 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+III.- La atención médica integral, que comprende la atención médica integrada de carácter preventivo, acciones curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
+
+Para efectos del párrafo anterior, la atención médica integrada de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo con la edad, sexo y los determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta.
 
 IV.- La atención materno-infantil;
 
@@ -941,11 +953,15 @@ La Secretaría de Salud de la entidad, concurrirá con las autoridades federales
 
 Asimismo, las autoridades sanitarias estatales procurarán el apoyo y coordinación con el Centro Nacional de Trasplantes, el Centro Estatal de Trasplantes de Nayarit y los Centros de las demás entidades federativas, las instituciones de educación superior a través de sus escuelas y facultades de medicina, los colegios y las academias legalmente reconocidos de medicina, cirugía y ciencias y las instituciones de salud públicas, sociales y privadas con autorización legal y capacidad técnica para realizar, conforme a los procedimientos jurídicos y protocolos médicos vigentes, la disposición de órganos y tejidos con fines terapéuticos.
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 70-F.
 
 La promoción de la cultura de donación órganos y tejidos entre la población del Estado será de interés público, como forma esencialmente humanista y de solidaridad entre los individuos, en virtud de que representa una alternativa para recobrar la salud de las personas.
+
+La Secretaría de Salud de la entidad dentro del ámbito de su competencia, deberá impulsar la donación de sangre, componentes sanguíneos y células troncales o progenitoras, para coadyuvar en el tratamiento o curación de los pacientes que las requieran. La Secretaría de Salud de la entidad fijará las bases y modalidades a las que se sujetará el Sistema Estatal de Salud al respecto.
+
+La Secretaría de Salud de la entidad, dentro del ámbito de su competencia podrá coadyuvar al cumplimiento de las disposiciones que regulen tanto la infraestructura con que deberán contar los bancos de sangre que lleven a cabo actos de disposición y distribución de células progenitoras hematopoyéticas, como la obtención, procesamiento y distribución de dichas células.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -3052,3 +3068,7 @@ Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su
 Artículo Segundo.- A la entrada en vigor de la presente reforma, quedará abrogada la Ley de Donación y Trasplantes de Órganos para el Estado de Nayarit, publicada el 25 de diciembre de 2004, mediante Decreto número 8556.
 
 Artículo Tercero.- En un término de 120 días el Titular del Poder Ejecutivo de la entidad a través de la Secretaría de Salud, deberá emitir el Reglamento del Centro Estatal de Trasplantes armonizando su contenido con el texto de esta reforma.
+
+P.O. 21 DE MAYO DE 2014.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
