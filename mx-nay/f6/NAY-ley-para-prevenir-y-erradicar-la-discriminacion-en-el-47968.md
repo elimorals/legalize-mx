@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-47968"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2010-09-22"
+last_updated: "2014-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE NAYARIT
 
-LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE NAYARIT
+LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 10 de diciembre de 2005.
 
@@ -39,19 +39,25 @@ El Congreso del Estado Libre y Soberano de Nayarit, representado por su XXVIII L
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE NAYARIT
 
-## TITULO SEGUNDO (SIC)
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+## TITULO PRIMERO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2014)</small>
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
 Las disposiciones de esta Ley son de orden público, de interés social y de observancia obligatoria en la entidad, sin perjuicio de la aplicación, en su caso; de las leyes generales expedidas por el Congreso de la Unión en la materia.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 2.
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, la discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda forma de discriminación, entendiéndose por esta, toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, la preferencia u orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
@@ -81,7 +87,9 @@ Para los efectos de esta Ley se entiende por discriminación, toda distinción, 
 
 No se considerarán conductas discriminatorias las siguientes:
 
-I. Las acciones legislativas, educativas o de políticas públicas positivas o compensatorias que sin afectar derechos de terceros establezcan tratos diferenciados con el objeto de promover la igualdad real de oportunidades;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+I. Las acciones legislativas, educativas, las políticas públicas o las acciones afirmativas que tengan por efecto promover la igualdad real de oportunidades de las personas o grupos. Tampoco será juzgada como discriminatoria la distinción basada en criterios razonables, proporcionales y objetivos cuya finalidad no sea el menoscabo de derechos;
 
 II. Las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada y, en el ámbito educativo, los requisitos académicos, de evaluación y, tratándose de educación preescolar, los límites por razón de edad.
 
@@ -93,11 +101,11 @@ V. Las distinciones, exclusiones, restricciones o preferencias que se hagan entr
 
 VI. En general, todas las que no tengan el propósito de anular o menoscabar los derechos, y libertades o la igualdad de oportunidades de las personas ni de atentar contra la dignidad humana.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 8.
 
-La interpretación del contenido de esta Ley, así como la actuación de las autoridades estatales y municipales será congruente con las disposiciones contenidas en la Constitución General de la Republica, en la particular del Estado y en los instrumentos internacionales suscritos y ratificados por el Estado Mexicano.
+La interpretación del contenido de esta Ley, así como la actuación de las autoridades estatales y municipales será congruente con las disposiciones contenidas en la Constitución General de la Republica, la particular del Estado, los instrumentos internacionales aplicables de los que el Estado Mexicano sea parte en materia de derechos humanos, así como con la jurisprudencia emitida por los órganos jurisdiccionales internacionales, las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales y demás legislación aplicable.
 
 ###### Artículo 9.
 
@@ -107,7 +115,7 @@ Para los efectos del Artículo anterior, cuando se presenten diferentes interpre
 
 En la aplicación de la presente Ley intervendrán las autoridades y los órganos públicos estatales y municipales, así como la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, en el ámbito de sus respectivas competencias.
 
-## TITULO TERCERO. COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
+## TITULO SEGUNDO
 
 ### CAPITULO I. MEDIDAS PARA PREVENIR LA DISCRIMINACIÓN
 
@@ -125,7 +133,9 @@ Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o an
 
 A efecto de lo anterior, se consideran como conductas discriminatorias:
 
-I. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+I. Impedir el acceso o la permanencia a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
 
 II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que difundan una condición de subordinación;
 
@@ -133,9 +143,13 @@ III. Prohibir la libre elección de empleo, o restringir las oportunidades de ac
 
 IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
 
-V. Limitar el acceso a los programas de capacitación y de formación profesional;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
 
-VI. Negar o limitar información sobre derechos reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas;
+V. Limitar el acceso y permanencia a los programas de capacitación y de formación profesional;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+VI. Negar o limitar información sobre derechos sexuales y reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas;
 
 VII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;
 
@@ -153,19 +167,23 @@ XIII. Impedir el ejercicio de los derechos de propiedad, administración y dispo
 
 XIV. Impedir el acceso a la procuración e impartición de justicia;
 
-XV. Impedir que se les escuche en todo procedimiento judicial o administrativo en que se vean involucrados, incluyendo a las niñas y los niños en los casos que la Ley así lo disponga, así como negar la asistencia de intérpretes en procedimientos administrativos o judiciales, de conformidad con las normas aplicables;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XV. Impedir, negar o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia; y a la asistencia de personas intérpretes o traductoras en los procedimientos administrativos o judiciales, de conformidad con las normas aplicables; así como el derecho de las niñas y niños a ser escuchados;
 
 XVI. Negar el derecho a ser atendido correctamente, sin vejaciones o malos tratos cuando sean víctimas de un delito;
 
 XVII. Cometer o incitar actos de violencia, maltrato, tortura o detención arbitraria;
 
-XVIII. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e integridad humana;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XVIII. Aplicar cualquier tipo de uso o costumbre que atente contra la igualdad, dignidad e integridad humana;
 
 XIX. Impedir la libre elección de cónyuge o pareja;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
 
-XX. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere el Artículo 2 de esta Ley a través de mensajes e imágenes en los medios de comunicación;
+XX. Ofender, ridiculizar o promover el odio y la violencia en los supuestos a que se refiere el Artículo 2 de esta Ley a través de mensajes e imágenes en los medios de comunicación;
 
 XXI. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, conciencia o religión, o de prácticas o costumbres religiosas, siempre que estas no atenten contra el orden público.
 
@@ -173,7 +191,9 @@ XXII. Negar asistencia religiosa a personas privadas de la libertad o que estén
 
 XXIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes aplicables;
 
-XXIV. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo saludable, especialmente de las niñas y los niños;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XXIV. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo integral, especialmente de las niñas y los niños, con base al interés superior de la niñez;
 
 XXV. Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la Ley así lo disponga;
 
@@ -191,155 +211,129 @@ XXXI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones 
 
 XXXII. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o la exclusión;
 
-XXXIII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar o por asumir públicamente su preferencia sexual, y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
 
-XXXIV. En general cualquier otra conducta discriminatoria en términos del Artículo 6 de esta Ley.
+XXXIII. Realizar o promover violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia u orientación sexual, o por cualquier otro motivo de discriminación;
 
-### CAPITULO II. MEDIDAS POSITIVAS Y COMPENSATORIAS A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XXXIV. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XXXV. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XXXVI. Estigmatizar o negar derechos a personas con adicciones; que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XXXVII. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XXXVIII. Difundir sin consentimiento de la persona agraviada información sobre su condición de salud;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XXXIX. Estigmatizar y negar derechos a personas con VIH/sida;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XL. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas, y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
+
+XLI. En general cualquier acto u omisión discriminatoria en términos del Artículo 6 de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2014)</small>
+
+### CAPITULO II. DE LAS MEDIDAS DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 14.
 
-Los órganos públicos y las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades para las mujeres:
+Cada uno de los órganos públicos y las autoridades estatales y municipales y aquellas instituciones que estén bajo su regulación o competencia, están obligados a realizar las medidas de nivelación, las medidas de inclusión y las acciones afirmativas necesarias para garantizar a toda persona la igualdad real de oportunidades y el derecho a la no discriminación.
 
-I. Incentivar la educación mixta, fomentando la permanencia en el sistema educativo de las niñas y las mujeres en todos los niveles escolares;
+La adopción de estas medidas forma parte de la perspectiva antidiscriminatoria, la cual debe ser incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas que lleven a cabo cada uno de los poderes públicos estatales.
 
-II. Crear mecanismos que fomenten la participación política de las mujeres y que aseguren la presencia equitativa en los puestos administrativos y de elección popular;
-
-III. Ofrecer información completa y actualizada, así como asesoramiento personalizado sobre salud reproductiva y métodos anticonceptivos;
-
-IV. Garantizar el derecho a decidir sobre el número y espaciamiento de sus hijas e hijos, estableciendo en las instituciones de salud y seguridad social las condiciones para la atención obligatoria de las mujeres que lo soliciten;
-
-V. Otorgar un trato fiscal favorable a las empresas que tengan entre su personal por lo menos un 40% de mujeres en puestos de supervisión y dirección; y
-
-VI. Procurar la creación de centros de desarrollo infantil y guarderías asegurando el acceso a los mismos para sus hijas e hijos cuando ellas lo soliciten.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 15.
 
-Los órganos públicos y las autoridades estatales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades de las niñas y los niños:
+Las medidas de nivelación son aquellas que buscan hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad.
 
-I. Instrumentar programas de atención médica y sanitaria para combatir la mortalidad y la desnutrición infantil;
-
-II. Impartir educación para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad responsable y el respeto a los derechos humanos;
-
-III. Garantizar el acceso a centros de desarrollo infantil, incluyendo a menores con discapacidad;
-
-IV. Promover el acceso a centros de desarrollo infantil, incluyendo a menores con discapacidad;
-
-V. Promover las condiciones necesarias para que los menores puedan convivir con sus padres o tutores, incluyendo políticas públicas de reunificación familiar para migrantes y personas privadas de la libertad;
-
-VI. Preferir, en igualdad de circunstancias, a las personas que tengan a su cargo menores de edad en el otorgamiento de becas, créditos u otros beneficios;
-
-VII. Alentar la producción y difusión de libros para niños y niñas;
-
-VIII. Promover la creación de instituciones que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales;
-
-IX. Promover la recuperación física, psicológica y la integración social de todo menor víctima de abandono, explotación o malos tratos;
-
-X. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita e intérprete en los procedimientos judiciales o administrativos, en que sea procedente;
-
-XI. Crear espacios públicos de calidad para la recreación y esparcimiento infantil, así como, instalaciones para la práctica deportiva; y
-
-XII. Promover la cultura de protección a los niños y niñas a través de los distintos medios con los que cuenta el Estado.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 16.
 
-Los órganos públicos y las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades para las personas mayores de sesenta años:
+Las medidas de nivelación incluyen, entre otras:
 
-I. Garantizar el acceso a los servicios de atención médica y seguridad social, según lo dispuesto en la normatividad en la materia;
+I. Ajustes razonables en materia de accesibilidad física, de información y comunicaciones;
 
-II. Crear los centros gerontológicos suficientes de acuerdo con la densidad poblacional y personal capacitado para la atención de este grupo social, con áreas especializadas de atención física, psicológica y emocional de calidad, con particular atención a ancianos demenciales;
+II. Adaptación de los puestos de trabajo para personas con discapacidad;
 
-III. Gestionar ante las instancias correspondientes el otorgamiento de descuentos en el pago por suministro o servicios públicos;
+III. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille o en lenguas indígenas;
 
-IV. Diseñar, instrumentar y ejecutar programas de apoyo financiero para la construcción de estancias y albergues suficientes y adecuados a su realidad, con equipo y personal especializado;
+IV. Uso de intérpretes de lengua de señas mexicana (sic) en los eventos públicos de todas las dependencias gubernamentales y en los tiempos oficiales de televisión;
 
-V. Garantizar la aplicación de la Norma Oficial Mexicana para los Centros de Atención de Personas Adultas Mayores, tanto en el sector público como en el privado, con programas de supervisión constante y por personal capacitado;
+V. Uso de intérpretes y traductores de lenguas indígenas;
 
-VI. Diseñar, instrumentar y ejecutar programas de recreación y cultura adecuados a este grupo;
+VI. La accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
 
-VII. Procurar un nivel mínimo y decoroso de ingresos a través de programas, conforme a las reglas de operación que al efecto se establezcan:
+VII. Derogación o abrogación de las disposiciones normativas que impongan requisitos discriminatorios de ingreso y permanencia a escuelas, trabajos, entre otros, y
 
-a) De apoyo financiero directo y ayudas en especie; y
+VIII. Creación de licencias de paternidad, homologación de condiciones de derechos y prestaciones para los grupos en situación de discriminación o vulnerabilidad.
 
-b) De capacitación para el trabajo y de fomento a la creación de empleos; y
-
-VIII. Garantizar, conforme a la legislación aplicable, asesoría jurídica gratuita así como la asistencia de un representante legal cuando el afectado lo requiera.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 17.
 
-Los órganos públicos y las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades para las personas con discapacidad:
+Las medidas de inclusión son aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato.
 
-I. Propiciar un entorno que permita el libre acceso y desplazamiento;
-
-II. Garantizar su incorporación, permanencia y participación en las actividades educativas regulares en todos los niveles;
-
-III. Propiciar el otorgamiento, en los niveles de educación obligatoria, de las ayudas técnicas necesarias para cada discapacidad;
-
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
-
-IV. Establecer mecanismos que promuevan su incorporación en la administración pública, así como los que aseguren su participación en la construcción de políticas públicas;
-
-V. Crear programas permanentes de capacitación para el empleo y fomento a la integración laboral;
-
-VI. Apoyar fiscalmente las actividades de quienes los capaciten;
-
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
-
-VII. Otorgar un trato fiscal favorable, a las empresas que tengan entre su personal a personas con discapacidad;
-
-VIII. Crear espacios de recreación adecuados;
-
-IX. Propiciar la accesibilidad en los medios de transporte público de uso general;
-
-X. Promover que todos los espacios e inmuebles públicos o que presten servicios al público, tengan las adecuaciones físicas y de señalización para su acceso, libre desplazamiento y uso;
-
-XI. Propiciar que las vías públicas cuenten con señalamientos adecuados para permitirles el libre tránsito;
-
-XII. Informar y asesorar a los profesionales de la construcción acerca de los requisitos para facilitar el acceso y uso de inmuebles;
-
-XIII. Asignar recursos para la capacitación especializada, la investigación y el desarrollo tecnológico en instituciones de educación superior dirigidos a la creación de aparatos prototipos y de sistemas para mejorar el desempeño de las actividades diarias de la población con algún tipo de discapacidad; y
-
-XIV. Garantizar que en las unidades del sistema de salud y de seguridad social reciban regularmente el tratamiento y medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 18.
 
-Los órganos públicos y las autoridades estatales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades para la población indígena:
+Las medidas de inclusión podrán comprender, entre otras, las siguientes:
 
-I. Establecer programas educativos bilingües y que promuevan el intercambio cultural;
+I. La educación para la igualdad y la diversidad;
 
-II. Crear un sistema de becas que fomente la alfabetización, la conclusión de la educación en todos los niveles y la capacitación para el empleo;
+II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y no discriminación;
 
-III. Crear programas permanentes de capacitación y actualización para los funcionarios públicos sobre la diversidad cultural;
+III. El desarrollo de políticas contra la homofobia, xenofobia, la misoginia, la discriminación por apariencia o el adulto centrismo;
 
-IV. Diseñar, instrumentar y ejecutar programas que impulsen el conocimiento, protección, desarrollo y utilización de la medicina tradicional;
+IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias, y
 
-V. Establecer los mecanismos adecuados que garanticen su participación en los cambios legislativos, así como en la toma de decisiones respecto de las políticas públicas susceptibles de afectarles;
+V. El llevar a cabo campañas de difusión al interior de los poderes públicos estatales.
 
-VI. Emprender campañas permanentes de información en los medios de comunicación que promuevan el respeto a las culturas indígenas en el marco de los derechos humanos y las garantías individuales;
-
-VII. En el marco de las leyes aplicables, cuando se fijen sanciones penales a indígenas, procurar que tratándose de penas alternativas, se imponga aquella distinta a la privativa de la libertad, así como promover la aplicación de sustitutivos penales y beneficios de preliberación, de conformidad con las normas aplicables;
-
-VIII. Garantizar que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se tomen en cuenta sus costumbres y especificidades culturales, respetando los preceptos de la Constitución; y
-
-IX. Garantizar, a lo largo de cualquier proceso legal, el derecho a ser asistidos, si así lo solicitan, por intérpretes y defensores que tengan conocimiento de su lengua.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 19.
 
-Los órganos públicos y autoridades estatales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de las personas privadas de su libertad:
+Las acciones afirmativas son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad. Estas medidas no serán consideradas discriminatorias en términos del artículo 7 de la presente Ley.
 
-I. Establecer las medidas necesarias a efecto de que las personas sujetas a proceso, tengan derecho al mismo trato dado a los sentenciados respecto al trabajo, capacitación para el mismo, educación, instrucción y la individualización del tratamiento;
-
-II. El Ejecutivo del Estado, a través de la Dirección General de Prevención y Readaptación Social deberá garantizar la cercanía de los internos con sus familiares, para una mejor readaptación.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 20.
 
+Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y sub representados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas.
+
+Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos indígenas, los afro descendientes, las mujeres, las niñas, niños y adolescentes, las personas con discapacidad, las personas en razón de su preferencia u orientación sexual y las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+
+###### Artículo 20 Bis.
+
 Los órganos públicos y las autoridades estatales y municipales adoptarán las medidas que tiendan a favorecer la igualdad real de oportunidades y a prevenir y erradicar las formas de discriminación de las personas a que se refiere el artículo 2 de esta Ley.
 
-### CAPÍTULO I. DE LA DENOMINACIÓN
+### CAPITULO I. DE LA DENOMINACIÓN
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES
+## TITULO TERCERO. COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
+
+### CAPITULO II. DE LAS ATRIBUCIONES
 
 ###### Artículo 21.
 
@@ -375,15 +369,15 @@ La Comisión difundirá periódicamente los avances, resultados e impactos de la
 
 ### CAPITULO IV. DE LOS PROCEDIMIENTOS
 
-###### Articulo 24.
+###### Artículo 24.
 
 La Comisión se regirá en esta materia por lo dispuesto en esta Ley y las que le son propias.
 
-###### Articulo 25.
+###### Artículo 25.
 
 Queda reservado a los Tribunales Estatales el conocimiento y resolución de todas las controversias en que sea parte la Comisión.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 26.
 
@@ -395,7 +389,7 @@ Las organizaciones de la sociedad civil podrán presentar reclamaciones o quejas
 
 Los procedimientos para el cumplimiento de la presente Ley se ceñirán a los establecidos para la actuación de la Comisión en el ordenamiento que la rige.
 
-###### Articulo 28.
+###### Artículo 28.
 
 La Comisión proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto a los derechos que les asisten y los medios para hacerlos valer.
 
@@ -415,7 +409,7 @@ En caso de que la reclamación o queja presentada ante la Comisión involucre ta
 
 Cuando de los hechos narrados en el escrito de queja o reclamación, se desprenda que el presunto agente discriminador es un servidor público, pero durante la investigación resulte que se trata de un particular, o a la inversa, quien conozca del procedimiento, mediante acuerdo debidamente fundado y motivado, remitirá el expediente al área competente, notificando su resolución a ambas partes involucradas en el procedimiento.
 
-#### SECCIÓN SEGUNDA. DE LA RECLAMACIÓN
+#### SECCION SEGUNDA. DE LA RECLAMACIÓN
 
 ###### Artículo 33.
 
@@ -441,7 +435,7 @@ Cuando las partes lleguen a un acuerdo, se celebrará el convenio respectivo, qu
 
 El convenio suscrito por las partes ante la Comisión, deja a salvo los derechos de los particulares para promover lo que a su interés legal convenga ante los tribunales competentes.
 
-#### SECCIÓN TERCERA. DE LA CONCILIACIÓN
+#### SECCION TERCERA. DE LA CONCILIACIÓN
 
 ###### Artículo 39.
 
@@ -493,9 +487,9 @@ El reconocimiento será otorgado previa solicitud de la organización o la insti
 
 El reconocimiento será de carácter honorífico y tendrá una vigencia de un año.
 
-#### SECCIÓN CUARTA. DE LA QUEJA Y DEL PROCEDIMIENTO CONCILIATORIO ENTRE PARTICULARES
+#### SECCION CUARTA. DE LA QUEJA Y DEL PROCEDIMIENTO CONCILIATORIO ENTRE PARTICULARES
 
-#### SECCIÓN QUINTA. DE LAS MEDIDAS ADMINISTRATIVAS
+#### SECCION QUINTA. DE LAS MEDIDAS ADMINISTRATIVAS
 
 ## TRANSITORIOS
 
@@ -507,8 +501,12 @@ Dip. Presidente, José Lucas Vallarta Chan.- Rúbrica.- Dip. Secretario, Blanca 
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los siete días del mes de diciembre del año dos mil cinco.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pineda Alonso.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE SEPTIEMBRE DE 2010.
 
 Artículo único.- El presente decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 21 DE MAYO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
