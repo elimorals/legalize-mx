@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2010-12-31"
+last_updated: "2014-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL, MORELOS
 
-LEY ORGANICA DEL PODER JUDICIAL
+LEY ORGÁNICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -197,9 +197,11 @@ El Tribunal Superior de Justicia tendrá su residencia en la Capital del Estado 
 
 Habrá también por los (sic) menos tres Magistrados Supernumerarios que serán igualmente nombrados en los términos previstos en el ordenamiento constitucional a que se refiere el artículo anterior. No adquirirán inamovilidad sino cuando se les nombre Magistrados Numerarios y satisfagan los requisitos señalados en la mencionada Constitución.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 21.
 
-Los Magistrados Supernumerarios cubrirán, en el orden que el Pleno determine, las ausencias temporales de los Magistrados Numerarios, y en el mismo orden los sustituirán en el conocimiento de determinados negocios, por excusa o recusación de éstos. Adicionalmente constituirán la Sala o Salas Auxiliares cuando el Pleno así lo determine, en los términos de la fracción VI del artículo 29 de esta Ley.
+Los Magistrados Supernumerarios cubrirán, en el orden que el Pleno determine, las ausencias temporales hasta por treinta días de los Magistrados Numerarios, y en el mismo orden los sustituirán en el conocimiento de determinados negocios, por excusa o recusación de éstos. Adicionalmente constituirán la Sala o Salas Auxiliares cuando el Pleno así lo determine, en los términos de la fracción VI, del artículo 29 de esta ley.
 
 ###### ARTICULO 22.
 
@@ -209,9 +211,21 @@ Los Magistrados que integran el Tribunal Superior de Justicia deberán residir e
 
 Los Magistrados Numerarios del Tribunal Superior de Justicia, ejercerán sus funciones en Pleno o en Salas, según lo determine esta Ley; podrán ser cambiados de adscripción de Sala cuando así lo aprueben, por lo menos, las dos terceras partes de los Magistrados Numerarios integrantes del propio Tribunal.
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+
+Los Magistrados Interinos, cubrirán las ausencias temporales superiores a treinta días y ausencias definitivas de los Magistrados Numerarios, en este último caso, hasta en tanto haga la designación correspondiente el Congreso del Estado de Morelos, y entre en funciones el profesionista designado como Magistrado Numerario.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+
+Durante su ejercicio, los Magistrados Interinos integrarán la Sala correspondiente a quien suplan, además tendrán voz y voto en el Pleno y tendrá las mismas consideraciones y prerrogativas que un Magistrado Numerario.
+
 ###### ARTICULO 24.
 
 El Presidente del Tribunal Superior de Justicia será uno de los Magistrados Numerarios, no integrará Sala durante el tiempo que desempeñe el cargo y será substituido por el Magistrado de número que designe el Pleno.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+
+Durante el ejercicio de su período no podrá ser removido del cargo, salvo por causa grave así determinada en la legislación.
 
 ###### ARTICULO 25.
 
@@ -2290,3 +2304,9 @@ Artículo Sexto.- El Comité Técnico de Administración del Fondo Auxiliar de J
 Los recursos económicos y bienes que actualmente tiene el fondo auxiliar del Tribunal Superior de Justicia, pasarán inmediatamente a la administración de los órganos que establece la presente Ley, debiendo regir en lo sucesivo lo que dispone esta norma jurídica; los casos no previstos o que requieran una interpretación, se resolverán mediante acuerdo que por unanimidad realicen los integrantes del Consejo de la Judicatura Estatal.
 
 Artículo Séptimo.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 21 DE MAYO DE 2014.
+
+Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Artículo Segundo.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, Órgano de difusión del Gobierno del Estado de Morelos.
