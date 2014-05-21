@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-agencias-de-colocacion-de-trabajadores-49483"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-03"
-last_updated: "2006-03-03"
+last_updated: "2014-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49483&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2006-02-28"
 ---
 # REGLAMENTO DE AGENCIAS DE COLOCACION DE TRABAJADORES
 
-REGLAMENTO DE AGENCIAS DE COLOCACION DE TRABAJADORES
+REGLAMENTO DE AGENCIAS DE COLOCACIÓN DE TRABAJADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2014.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 3 de marzo de 2006.
 
@@ -51,13 +51,19 @@ III. Ley: La Ley Federal del Trabajo;
 
 IV. Secretaría: La Secretaría del Trabajo y Previsión Social;
 
-V. Servicio de colocación de trabajadores: A todas las acciones cuyo objeto principal sea el reclutamiento, selección de personal y localización de vacantes, para vincular laboralmente a un trabajador con un empleador o a éste con aquél, bajo cualquier modalidad, y
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2014)</small>
 
-VI. Servicio Nacional del Empleo: Las unidades administrativas de la Secretaría del Trabajo y Previsión Social y de los gobiernos de las Entidades Federativas y del Distrito Federal, que prestan el servicio de colocación de trabajadores, en términos de los artículos 538 y 539-D de la Ley Federal del Trabajo.
+V. Servicio de colocación de trabajadores: Toda acción cuyo objeto principal es el reclutamiento y selección de personal, así como el registro y localización de vacantes, con el fin de vincular laboralmente a un solicitante de empleo con un empleador o a éste con aquél, y
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2014)</small>
+
+VI. Servicio Nacional de Empleo: La unidad administrativa de la Secretaría del Trabajo y Previsión Social y las unidades administrativas de los gobiernos de las Entidades Federativas y del Distrito Federal, que presten el servicio de colocación de trabajadores, en términos de los artículos 538, 539, fracción II, 539-D, 539-E y 539-F de la Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 3.
 
-Las oficinas del Servicio Nacional del Empleo, no serán consideradas como agencias de colocación de trabajadores, para los efectos del presente Reglamento.
+Las oficinas del Servicio Nacional de Empleo, no serán consideradas como agencias de colocación de trabajadores, para los efectos del presente Reglamento.
 
 ###### Artículo 4.
 
@@ -69,15 +75,19 @@ Las agencias oficiales y privadas de colocación de trabajadores sin fines lucra
 
 La prestación del servicio de colocación de trabajadores será gratuita para éstos en todos los casos. Queda prohibido cobrar cantidad alguna por cualquier razón o concepto a los solicitantes de empleo.
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
 ###### Artículo 6.
 
-Los prestadores del servicio de colocación de trabajadores no podrán establecer distinciones por motivo de origen étnico, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, que tenga por objeto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas.
+Los prestadores del servicio de colocación de trabajadores no podrán establecer distinciones por motivo de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, embarazo, religión, condición migratoria, opiniones, preferencias sexuales, estado civil o cualquier otra condición que pueda ser objeto de discriminación, que tenga por objeto impedir o anular el reconocimiento o el ejercicio de los derechos humanos y la igualdad real de oportunidades de las personas.
 
-No se considerarán discriminatorias las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada.
+No se considerarán discriminatorias las distinciones basadas en capacidades o conocimientos especializados, cuando sean necesarios para desempeñar una actividad determinada.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 7.
 
-Las agencias de colocación de trabajadores con fines de lucro que desarrollen acciones de vinculación para colocar trabajadores en campos agrícolas dentro del territorio nacional, estarán sujetas a las disposiciones de este Reglamento.
+Las agencias de colocación de trabajadores con fines de lucro que desarrollen acciones de vinculación para colocar trabajadores dentro y fuera del territorio nacional, estarán sujetas a las disposiciones de este Reglamento.
 
 ###### Artículo 8.
 
@@ -89,9 +99,15 @@ Procederá la inscripción de sucursales cuando se cumpla con los requisitos con
 
 Las agencias de colocación de trabajadores estarán obligadas a:
 
-I. Prestar sus servicios con pleno respeto a la dignidad de los trabajadores solicitantes de empleo, sin incurrir en conductas discriminatorias; así como participar en la integración de un sistema nacional de empleo;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2014)</small>
 
-II. Proporcionar semestralmente la información relativa a su participación en el mercado de trabajo, mediante las formas de registro estadístico que al efecto expida la Secretaría. Dicha información deberá presentarse a la Secretaría a más tardar los días 15 de los meses de enero y julio, según corresponda;
+I. Prestar sus servicios con pleno respeto a la dignidad humana de los trabajadores solicitantes de empleo, sin incurrir en conductas discriminatorias; así como participar en la integración de un sistema nacional de empleo;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2014)</small>
+
+II. Proporcionar trimestralmente la información relativa a su participación en el mercado de trabajo nacional, o en la colocación de trabajadores mexicanos para un empleo concreto en el exterior, mediante las formas de registro estadístico que al efecto expida la Secretaría. Dicha información deberá presentarse a la Secretaría, dentro de los primeros cinco días de los meses de enero, abril, julio y octubre, según corresponda.
+
+El incumplimiento de esta obligación, además de la sanción a que se refiere el artículo 33 de este Reglamento, dará lugar a que la agencia de colocación de trabajadores sea inspeccionada en forma extraordinaria;
 
 III. Ser veraces en su publicidad e informar ampliamente a los solicitantes de empleo respecto de las vacantes que se ofrezcan, especificando las características y condiciones del empleo, las cuales harán referencia exclusivamente a las capacidades o conocimientos especializados para desempeñar una actividad determinada;
 
@@ -105,7 +121,13 @@ b) La suspensión temporal de actividades, o
 
 c) El cierre definitivo de la agencia o sucursales.
 
-VI. Adoptar las medidas conducentes para que el transporte, alojamiento y alimentación para el traslado de los trabajadores que vayan a laborar en centros de trabajo que se encuentren a una distancia superior a 100 kilómetros del lugar de reclutamiento, sea debidamente proporcionado sin costo alguno para ellos;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2014)</small>
+
+VI. Adoptar las medidas conducentes para que el transporte, alojamiento y alimentación para el traslado de los trabajadores que vayan a laborar en centros de trabajo que se encuentren a una distancia superior a 100 kilómetros de su residencia habitual, sea debidamente proporcionado sin costo alguno para ellos;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2014)</small>
+
+VI Bis. Colocar la autorización y registro de funcionamiento en lugar visible para el público, así como la leyenda de que sus servicios son gratuitos para los trabajadores;
 
 VII. Permitir a las autoridades laborales la inspección y vigilancia de sus establecimientos, con el propósito de verificar el cumplimiento de las disposiciones aplicables al servicio de colocación de trabajadores, proporcionando la información que para tal efecto les sea requerida, y
 
@@ -113,7 +135,27 @@ VIII. Vigilar que su personal se abstenga de realizar actos de hostigamiento sex
 
 El cumplimiento de las obligaciones a que se refieren las fracciones II y V de este artículo se podrá realizar a través de medios electrónicos, para lo cual los interesados deberán ingresar a la página de Internet de la Secretaría.
 
-La Secretaría hará llegar copia de la información a que se refiere el párrafo anterior a la oficina del Servicio Nacional del Empleo que corresponda.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+La Secretaría hará llegar copia de la información a que se refiere el párrafo anterior a la oficina del Servicio Nacional de Empleo que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+###### Artículo 9 Bis.
+
+Además de las obligaciones señaladas en el artículo anterior, las agencias de colocación de trabajadores que participen en el reclutamiento y selección de trabajadores mexicanos para un empleo concreto en el exterior de duración determinada, deberán observar lo siguiente:
+
+I. Constatar la seriedad y solvencia del empleador ofertante, a través de los controles de información pertinentes, a efecto de salvaguardar los derechos de los trabajadores;
+
+II. Adoptar las medidas pertinentes para cerciorarse de la veracidad de las condiciones generales de trabajo que se ofrecen a los solicitantes en lo referente a vivienda, seguridad social y repatriación, a que estarán sujetos los trabajadores;
+
+III. Constatar que los aspirantes hayan realizado los trámites para la expedición de visa o permiso de trabajo por la autoridad consular o migratoria del país en donde se prestará el servicio;
+
+IV. Informar a los trabajadores sobre el derecho a solicitar protección consular y la ubicación de la Embajada o Consulados mexicanos en el país que corresponda, además de las autoridades competentes a las que podrán acudir para hacer valer sus derechos en el país de destino; así como respecto de las condiciones generales de vida y de trabajo a que estarán sujetos, y
+
+V. Garantizar y, en su caso, sufragar los gastos de repatriación de aquellos trabajadores a los que se les haya incumplido las condiciones de trabajo ofrecidas.
+
+Para los efectos de la fracción V, las agencias de colocación de trabajadores deberán presentar fianza o depósito para garantizar y de ser necesario cubrir los gastos de repatriación que correspondan.
 
 ###### Artículo 10.
 
@@ -123,27 +165,39 @@ I. Efectuar cualquier cobro a los trabajadores solicitantes de empleo, ya sea en
 
 II. Convenir directa o indirectamente con los empleadores a los que presten el servicio, que sus honorarios sean descontados parcial o totalmente del salario de los trabajadores colocados;
 
-III. Ofrecer un empleo ilícito, una vacante inexistente, características o condiciones de empleo falsas y, en general, cualquier acto u omisión que constituya un engaño para el solicitante, y
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2014)</small>
+
+II Bis. Retener los documentos personales de los trabajadores solicitantes de empleo;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2014)</small>
+
+II Ter. Gestionar por sí, o a través de intermediarios, la realización de trámites vinculados con la expedición de pasaportes, visas o permisos de trabajo que en su caso requieran los trabajadores solicitantes de empleo;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2014)</small>
+
+III. Ofrecer un trabajo que no sea digno o decente, o bien que no tutele la igualdad sustantiva o de hecho de trabajadores frente al patrón; una vacante inexistente; características o condiciones de empleo falsas y, en general, cualquier acto u omisión que constituya un engaño para el solicitante, y
 
 IV. Cobrar a los empleadores por la prestación del servicio, cuando se trate de agencias de colocación de trabajadores sin fines lucrativos, salvo la cuota que se apruebe en términos de este Reglamento, que tenga el propósito de recuperar los gastos administrativos de la agencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MAYO DE 2014)</small>
+
 ###### Artículo 11.
 
-Las agencias de colocación de trabajadores tienen derecho a solicitar a los usuarios del servicio, la información y documentación relativa a sus capacidades y conocimientos necesarios para gestionar la colocación o publicitar la oferta o demanda de empleo.
+Las agencias de colocación de trabajadores tienen derecho a solicitar a los usuarios del servicio, la información y documentación relativa a sus capacidades y conocimientos necesarios para gestionar la colocación o publicitar la oferta o demanda de empleo. Para tales efectos, deberán observar sin excepción la protección de datos personales y garantizar el aviso de privacidad en términos de las leyes aplicables.
 
 Las agencias de colocación de trabajadores serán responsables del uso indebido que se haga de la información y documentación que proporcionen los usuarios.
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
 ###### Artículo 12.
 
-Las agencias de contratación colectiva para la migración de trabajadores mexicanos sólo podrán establecerse en el país previa autorización de la Secretaría de Gobernación, en términos de lo dispuesto por la Ley General de Población y su Reglamento.
+La Secretaría, informará de manera semestral a la Secretaría de Gobernación de las autorizaciones y registros que expida a aquellas agencias privadas que se dediquen a la colocación de trabajadores mexicanos en el extranjero.
 
-Las agencias de colocación deberán proporcionar a los trabajadores mexicanos que vayan a laborar al extranjero, material informativo sobre las condiciones generales de vida y de trabajo a que estarán sujetos, así como sobre la protección consular a la que tienen derecho y la ubicación de la Embajada o Consulados mexicanos en el país que corresponda.
-
-El material informativo a que se refiere el párrafo anterior será elaborado por la Secretaría, en coordinación con las respectivas unidades administrativas de las Secretarías de Gobernación, de Economía y de Relaciones Exteriores.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 13.
 
-Corresponderá a la Secretaría vigilar, dentro del ámbito de su competencia, que en la contratación de nacionales para laborar fuera del país, se cumpla con las disposiciones contenidas en la fracción XXVI del Apartado “A” del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los artículos 28 y 29 de la Ley Federal del Trabajo y las aplicables de la Ley General de Población y su Reglamento.
+Corresponde a la Secretaría vigilar, dentro del ámbito de su competencia, que en la contratación de nacionales para laborar fuera del país, se cumpla con las disposiciones contenidas en la fracción XXVI del Apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los artículos 28, 28-A, 28-B y 29 de la Ley y demás disposiciones aplicables.
 
 En todo caso, las autoridades competentes vigilarán que las condiciones de trabajo pactadas sean iguales o superiores a las mínimas establecidas en la legislación del país de que se trate para la actividad respectiva, y que los derechos pactados en contratos subsecuentes no sean inferiores a aquéllos establecidos en contratos anteriores.
 
@@ -165,17 +219,27 @@ La Secretaría publicará en el Diario Oficial de la Federación el Acuerdo resp
 
 ### CAPÍTULO II. DE LAS AUTORIDADES EN MATERIA DEL SERVICIO DE COLOCACIÓN DE TRABAJADORES
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
 ###### Artículo 17.
 
 La aplicación de las disposiciones del presente Reglamento compete a la Secretaría.
 
-La Secretaría se auxiliará de las oficinas del Servicio Nacional de Empleo, en el ámbito de sus respectivas competencias, para el desempeño de las facultades que la Ley y el presente Reglamento establecen en materia de colocación de trabajadores.
+La Secretaría se auxiliará de las autoridades laborales estatales, en el ámbito de sus respectivas competencias, para el desempeño de las facultades que la Ley y el presente Reglamento establecen en materia de colocación de trabajadores.
 
-Para tales efectos, la Secretaría podrá acordar con las oficinas del Servicio Nacional de Empleo, que funjan como ventanilla para la recepción de documentos. En este caso, las solicitudes y los documentos que reciban serán turnados a la Secretaría para su atención y despacho, en la inteligencia de que los plazos con que cuente la Secretaría para contestar las solicitudes, comenzarán a correr hasta que ésta reciba la documentación respectiva.
+Para tales efectos, la Secretaría podrá celebrar convenios de coordinación con las autoridades laborales estatales, que funjan en coadyuvancia con las Delegaciones Federales del Trabajo, como ventanilla para la recepción de documentos para efecto de realizar la verificación y cotejo de la información que presenten los interesados.
+
+Las solicitudes y los documentos que reciban serán turnados a la Secretaría para su atención y despacho, en la inteligencia de que los plazos con que cuente la Secretaría para contestar las solicitudes, comenzarán a correr a partir de que ésta reciba la documentación respectiva.
+
+La Secretaría, podrá solicitar a las autoridades competentes la información necesaria para verificar la autenticidad de los documentos que los solicitantes le presenten.
 
 ###### Artículo 18.
 
 La Secretaría podrá celebrar convenios con los Gobiernos de los Estados y el del Distrito Federal, para establecer la coordinación, auxilio y unificación de procedimientos que permitan la adecuada vigilancia y cumplimiento de los preceptos jurídicos en materia del servicio de colocación de trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+En estos instrumentos se deberá prever el diseño e instrumentación de campañas permanentes para difundir e informar sobre los principales derechos y obligaciones relacionados con el servicio de colocación de trabajadores.
 
 ###### Artículo 19.
 
@@ -203,6 +267,10 @@ Tratándose de personas morales, el aviso deberá ir acompañado del original o 
 
 En el caso de personas físicas, se deberá acompañar el original de la constancia de inscripción en el Registro Federal de Contribuyentes y copia del mismo para su cotejo y certificación.
 
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+En los supuestos anteriores, también se deberá acompañar identificación oficial en original y copia para su cotejo y certificación y para el caso de las personas morales será la identificación del representante legal, así como copia del instrumento legal con el que acredite su personalidad.
+
 ###### Artículo 21.
 
 Las agencias privadas de colocación de trabajadores sin fines lucrativos, que pretendan establecer una cuota de recuperación para sufragar los gastos administrativos ocasionados por la prestación del servicio, deberán solicitar a la Secretaría la aprobación de la cuota respectiva, en el formato que al efecto emita.
@@ -217,27 +285,35 @@ Las agencias privadas de colocación de trabajadores sin fines lucrativos, que p
 
 ### CAPÍTULO IV. DE LAS AGENCIAS PRIVADAS DE COLOCACIÓN DE TRABAJADORES CON FINES DE LUCRO
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
 ###### Artículo 23.
 
 La autorización y registro de funcionamiento de las agencias de colocación de trabajadores con fines de lucro, así como la aprobación de sus tarifas, se deberán solicitar mediante la presentación del formato que emita la Secretaría.
 
 Para tales efectos, los interesados deberán proporcionar y presentar la siguiente información y documentación:
 
-I. Nombre, denominación o razón social del solicitante. Tratándose de personas morales deberán acompañar original o copia certificada del acta constitutiva y, de sus reformas, en los casos de cambio de objeto o denominación social, y del instrumento mediante el cual se acredite la personalidad jurídica de su representante, así como copias fotostáticas de dichos documentos para su cotejo y certificación;
+I. Nombre, denominación o razón social del solicitante. Tratándose de personas morales deberán acompañar original o copia certificada del acta constitutiva y, de sus reformas, en los casos de cambio de objeto o denominación social, y del instrumento mediante el cual se acredite la personalidad jurídica e identificación oficial de su representante, así como copias fotostáticas de dichos documentos para su cotejo y certificación;
 
-II. Domicilio;
+II. Comprobante de domicilio;
 
 III. Original y copia para cotejo de la constancia de inscripción en el Registro Federal de Contribuyentes;
 
-IV. Registro patronal ante el Instituto Mexicano del Seguro Social, en su caso, y
+IV. Registro patronal ante el Instituto Mexicano del Seguro Social, en su caso;
 
-V. La tarifa que se pretende cobrar.
+V. La tarifa que se pretende cobrar;
+
+VI. El contrato modelo que utilizará en la prestación de sus servicios, el cual deberá informar sobre su gratuidad a los solicitantes de empleo y contener un apartado para describir la naturaleza del trabajo, servicio o servicios especiales que, en su caso, desarrollará el trabajador, y
+
+VII. Para el caso de las agencias de colocación de trabajadores a que se refiere el artículo 9 Bis de este Reglamento, fianza o depósito por el monto que determine la Secretaría, para garantizar y en su caso sufragar, los gastos de repatriación que correspondan de aquellos trabajadores a los que se les haya incumplido las condiciones de trabajo ofrecidas. Para efectos de esta fracción, la Secretaría expedirá los Lineamientos que contendrán los criterios para la determinación de la fianza o depósito.
 
 ###### Artículo 24.
 
 La Secretaría, dentro de los 15 días hábiles siguientes a la recepción de la solicitud, resolverá acerca de la autorización y registro de funcionamiento y, en su caso, aprobará la tarifa correspondiente.
 
-De las resoluciones que emita la Secretaría se hará llegar copia a las oficinas del Servicio Nacional del Empleo, según corresponda al domicilio del solicitante.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+De las resoluciones que emita la Secretaría se hará llegar copia a las oficinas del Servicio Nacional de Empleo, según corresponda al domicilio del solicitante.
 
 ###### Artículo 25.
 
@@ -245,37 +321,57 @@ Cuando la solicitud no cumpla con los requisitos a que se refiere el artículo 2
 
 ###### Artículo 26.
 
-Si la Secretaría no resuelve dentro del término a que se refiere el artículo 24, se entenderá otorgada la autorización y registro de funcionamiento, así como la aprobación de la tarifa respectiva.
-
-A petición del interesado se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud correspondiente.
+(DEROGADO, D.O.F. 21 DE MAYO DE 2014)
 
 ###### Artículo 27.
 
 La autorización y registro de funcionamiento de las agencias de colocación de trabajadores con fines de lucro tendrá una vigencia de cinco años.
 
-Los interesados podrán solicitar que se prorrogue la vigencia de la autorización y registro de funcionamiento, por lo menos con quince días hábiles de anticipación a la fecha en que concluya la vigencia respectiva. En estos casos, la solicitud se deberá presentar en el formato que para tal efecto expida la Secretaría.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+Los interesados podrán solicitar que se prorrogue la vigencia de la autorización y registro de funcionamiento, por lo menos con quince días hábiles de anticipación a la fecha en que concluya la vigencia respectiva. La solicitud deberá presentarse en el formato que para tal efecto expida la Secretaría.
 
 ###### Artículo 28.
 
 Las agencias de colocación con fines de lucro que requieran modificar su tarifa, deberán presentar su solicitud a través de los formatos que para tal efecto emita la Secretaría, por lo menos con cinco días hábiles de anticipación a la fecha en que se desee hacer efectiva la nueva tarifa.
 
-Dentro de los tres días hábiles siguientes a la presentación de la solicitud, la Secretaría resolverá sobre el nuevo monto de la tarifa. De no emitir respuesta en dicho plazo, se tendrá por aprobada la modificación de la tarifa.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+Dentro de los tres días hábiles siguientes a la presentación de la solicitud, la Secretaría procederá a actualizar en sus registros el nuevo monto de la tarifa.
 
 ###### Artículo 29.
 
-Además de las obligaciones consignadas en el artículo 9 de este Reglamento, las agencias de colocación de trabajadores con fines de lucro estarán obligadas a colocar la autorización y registro de funcionamiento en lugar visible para el público, así como la leyenda de que sus servicios son gratuitos para los trabajadores.
+(DEROGADO, D.O.F. 21 DE MAYO DE 2014)
 
 ### CAPÍTULO V. DE LA VIGILANCIA, INSPECCIÓN Y SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 30.
 
 La Secretaría, a través de la Inspección Federal del Trabajo, tendrá a su cargo la vigilancia del cumplimiento de las disposiciones constitucionales, de la Ley, de sus reglamentos y demás aplicables en materia de colocación de trabajadores, la que contará con el auxilio de las autoridades del trabajo de las Entidades Federativas y del Distrito Federal, en términos de las disposiciones aplicables.
 
-Cuando la Secretaría detecte el incumplimiento de disposiciones jurídicas relacionadas con la materia de colocación de trabajadores, cuya aplicación y vigilancia competa a otras dependencias de la Administración Pública Federal, lo notificará a éstas dentro de los siguientes 5 días hábiles, enviando copia del acta de inspección respectiva para los efectos legales procedentes.
+Las agencias de colocación de trabajadores serán inspeccionadas dentro de los treinta días naturales siguientes a la fecha de su registro en la Secretaría. Los programas de inspección deberán prever la planeación, organización y calendarización correspondiente, a efecto de mantener una permanente asesoría y vigilancia de las obligaciones a cargo de las agencias.
+
+Cuando se detecte el incumplimiento de disposiciones jurídicas relacionadas con la materia de colocación de trabajadores, cuya aplicación y vigilancia competa a otras dependencias de la Administración Pública Federal, lo notificará a éstas dentro de los cinco días hábiles siguientes de la fecha de inspección, enviando copia del acta correspondiente para los efectos legales procedentes.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+###### Artículo 30 Bis.
+
+Cuando con motivo de las facultades de vigilancia e inspección se detecte la posible comisión de un delito, las autoridades del trabajo formularán denuncia de hechos ante el Ministerio Público competente.
 
 ###### Artículo 31.
 
 La función de inspección en materia de colocación de trabajadores se realizará en los términos que establece la Ley, sus reglamentos aplicables y la Ley Federal de Procedimiento Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+De acuerdo a las constancias de autorización y registro que obren en los expedientes, las órdenes de inspección deberán precisar si se trata de una agencia con o sin fines de lucro y, en su caso, si envía trabajadores mexicanos al extranjero, a efecto de que el inspector aplique el protocolo correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+La ausencia de información o registro ante la Secretaría, hará presumir que se trata de una agencia de colocación de trabajadores con fines de lucro, salvo prueba en contrario.
 
 ###### Artículo 32.
 
@@ -285,15 +381,17 @@ Las violaciones a las disposiciones que regulan el servicio de colocación de tr
 
 Las violaciones a las disposiciones que regulan el servicio de colocación de trabajadores, se sancionarán en los siguientes términos:
 
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2014)</small>
+
 I. Multa:
 
-a) De 3 a 105 veces el salario mínimo general, a las agencias de colocación de trabajadores que violen las disposiciones contenidas en los artículos 8, 9, fracciones II, IV y V, 15, 20 y 29 de este Reglamento;
+a) De 50 a 1500 veces el salario mínimo general, a las agencias de colocación de trabajadores que violen las disposiciones contenidas en los artículos 8, 9, fracciones II, IV y V, 10, fracción II Bis, 11, 15 y 20 de este Reglamento;
 
-b) De 3 a 210 veces el salario mínimo general, a las agencias de colocación de trabajadores que violen las disposiciones contenidas en los artículos 10, fracción IV, 21, primer párrafo y 28 de este Reglamento;
+b) De 50 a 3300 veces el salario mínimo general, a las agencias de colocación de trabajadores que violen las disposiciones contenidas en los artículos 10, fracción IV, 21, primer párrafo y 28 de este Reglamento;
 
-c) De 3 a 315 veces el salario mínimo general, a las agencias de colocación que violen las disposiciones contenidas en los artículos 4, primer párrafo, 5, 6, 9, fracciones I, III, VI y VIII, 10, fracciones I, II, y III y 22 del presente Reglamento;
+c) De 50 a 5000 veces el salario mínimo general, a las agencias de colocación que violen las disposiciones contenidas en los artículos 4, primer párrafo, 5, 6, 9, fracciones I, III, VI, VI Bis y VIII, 9 Bis, fracciones I, II, III, IV y V, 10, fracciones I, II, II Ter y III, y 22 del presente Reglamento, y
 
-d) De 15 a 315 veces el salario mínimo general, a las agencias de colocación de trabajadores que no permitan la inspección y vigilancia de sus establecimientos, con el propósito de verificar el cumplimiento de la Ley, este Reglamento y demás disposiciones jurídicas aplicables, proporcionando la información que para tal efecto les sea requerida.
+d) De 250 a 5000 veces el salario mínimo general, a las agencias de colocación de trabajadores que no permitan la inspección y vigilancia de sus establecimientos, con el propósito de verificar el cumplimiento de la Ley, este Reglamento y demás disposiciones jurídicas aplicables, proporcionando la información que para tal efecto les sea requerida.
 
 II. Suspensión temporal de la autorización de funcionamiento de la agencia de colocación, y
 
@@ -306,6 +404,12 @@ Si aplicada alguna de las multas a que se refiere la fracción I del artículo a
 ###### Artículo 35.
 
 Si aplicada la sanción a que se refiere el artículo anterior se detecta una nueva infracción a las disposiciones que regulan el servicio de colocación de trabajadores, se procederá a revocar la autorización de funcionamiento y a cancelar el registro respectivo a las agencias de colocación de trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+###### Artículo 35 Bis.
+
+Cualquier incumplimiento a lo previsto en el artículo 28-B de la Ley, será considerado como infracción grave.
 
 ### CAPÍTULO VI. DEL RECURSO DE REVISIÓN
 
@@ -324,3 +428,17 @@ TERCERO. Dentro de los quince días siguientes a la entrada en vigor del present
 CUARTO. Las agencias de colocación de trabajadores que se encuentren funcionando a la fecha de entrada en vigor del presente Reglamento, deberán realizar los trámites para efectos de registro y control a que se refiere este ordenamiento, en un plazo no mayor de tres meses contados a partir de la fecha en que la Secretaría del Trabajo y Previsión Social dé a conocer los requisitos y formatos de los trámites aplicables.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de febrero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Francisco Javier Salazar Sáenz.- Rúbrica.- El Secretario de Relaciones Exteriores, Luis Ernesto Derbez Bautista.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría del Trabajo y Previsión Social dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones pertinentes al Acuerdo por el que se dan a conocer los Lineamientos de operación y los formatos para la realización de los trámites administrativos, a que se refiere el Reglamento de Agencias de Colocación de Trabajadores, publicado en el Diario Oficial de la Federación el 27 de abril de 2006.
+
+Asimismo, en el mismo plazo, la Secretaría deberá expedir los Lineamientos a que se refiere la fracción VII del artículo 23 del presente Reglamento.
+
+TERCERO.- Dentro de los noventa días naturales contados a partir de la fecha en que se publiquen las modificaciones a que se refiere el artículo Segundo transitorio, las agencias de colocación de trabajadores deberán proporcionar a la Secretaría del Trabajo y Previsión Social, la información y requisitos que derivan del presente Decreto.
+
+CUARTO.- Las agencias de colocación de trabajadores que se dediquen a reclutar y seleccionar trabajadores mexicanos para un empleo concreto en el exterior de duración determinada, deberán observar las disposiciones aplicables a la presentación de la fianza o depósito prevista en los artículos 9 Bis y 23 de este Reglamento, una vez que entren en vigor los Lineamientos previstos en el segundo párrafo del artículo Segundo transitorio del presente instrumento.
