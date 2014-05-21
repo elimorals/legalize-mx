@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-1809
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-30"
-last_updated: "2004-12-28"
+last_updated: "2014-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18097&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2000-11-22"
 ---
 # REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE AREAS NATURALES PROTEGIDAS
 
-REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE AREAS NATURALES PROTEGIDAS
+REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE ÁREAS NATURALES PROTEGIDAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000.
 
@@ -467,7 +467,9 @@ II. Los instrumentos que modifiquen los decretos señalados en la fracción ante
 
 III. Los documentos en los que consten los resúmenes de los programas de manejo;
 
-IV. Los certificados de reconocimiento de áreas productivas dedicadas a una función de interés público, que la Secretaría hubiera emitido en los términos del segundo párrafo del artículo 59 de la Ley y el Capítulo II, Título Octavo del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2014)</small>
+
+IV. Los certificados de predios destinados voluntariamente a la conservación, que la Secretaría hubiera emitido en términos de lo dispuesto en el artículo 77 BIS de la Ley y este Reglamento.
 
 V. Los acuerdos de coordinación que se celebren con el objeto de determinar la forma en que deberán ser administradas y manejadas las áreas naturales protegidas;
 
@@ -741,9 +743,11 @@ VII. Procesos de desertificación acelerada y erosión, y
 
 VIII. Alteración ocasionada por fenómenos naturales y humanos.
 
-En estas subzonas deberán utilizarse preferentemente para su rehabilitación, especies nativas de la región; o en su caso especies compatibles con el funcionamiento y la estructura de los ecosistemas originales.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
-Las subzonas de recuperación tendrán carácter provisional y deberán ser monitoreadas y evaluadas periódicamente para detectar los cambios que se presenten. Una vez que estas subzonas hayan sido rehabilitadas, se les determinará cualquier otro tipo de las subzonas antes mencionadas.
+En estas subzonas sólo podrán utilizarse para su rehabilitación, especies nativas de la región o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales cuando científicamente se compruebe que no se afecta la evolución y continuidad de los procesos naturales.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ### CAPÍTULO III. DE LA MODIFICACIÓN DE LAS DECLARATORIAS DE ÁREAS NATURALES PROTEGIDAS
 
@@ -1573,93 +1577,335 @@ El promovente deberá elaborar el programa de manejo del área natural protegida
 
 Para el financiamiento del área natural protegida respectiva, el promovente podrá celebrar los instrumentos jurídicos que se requieran, con la participación, que en su caso, corresponda a la Secretaría, con instituciones dedicadas a la investigación y a la educación superior o con agrupaciones de los sectores social y privado.
 
-### CAPÍTULO II. DEL RECONOCIMIENTO DE ÁREAS PRODUCTIVAS DEDICADAS A UNA FUNCIÓN DE INTERÉS PÚBLICO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE MAYO DE 2014)</small>
+
+### CAPÍTULO II. DE LAS ÁREAS DESTINADAS VOLUNTARIAMENTE A LA CONSERVACIÓN
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 126.
 
-La Secretaría fomentará y propiciará que voluntariamente se destinen predios a la preservación, protección y restauración de los ecosistemas, para lo cual se difundirán los incentivos económicos y de apoyo técnico que para tal efecto se establezcan.
+Los predios que podrán destinarse voluntariamente a la conservación serán los que señala el artículo 55 BIS de la Ley.
+
+Los pueblos indígenas, organizaciones sociales, personas morales, públicas o privadas y demás personas interesadas en obtener el certificado a que se refiere el artículo 77 BIS de la Ley, presentarán su solicitud ante las unidades administrativas de la Comisión, de acuerdo con la circunscripción territorial donde se ubique el predio que se pretenda certificar.
+
+La solicitud que se presente ante la Comisión, contendrá:
+
+I. Nombre, denominación o razón social del propietario;
+
+II. Domicilio para recibir notificaciones;
+
+III. Nombre y domicilio de las personas que administrarán el área;
+
+IV. Manifestación de su interés para destinar sus predios voluntariamente a la conservación, señalando el plazo por el que quedarán destinados, el cual no podrá ser menor a quince años;
+
+V. Denominación del área;
+
+VI. Ubicación del predio, señalando superficie, colindancias, entidad federativa y municipio al que pertenece, y
+
+VII. Descripción de las características físicas y biológicas generales del área, especificando los ecosistemas presentes en el área, especies de flora y fauna relevantes a proteger, clima, topografía e hidrología.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 127.
 
-Los pueblos indígenas, las organizaciones sociales, públicas o privadas y demás personas interesadas que, en términos del segundo párrafo del artículo 59 de la Ley, deseen destinar voluntariamente los predios que les pertenezcan a acciones de preservación de los ecosistemas y su biodiversidad, deberán presentar a la Secretaría la siguiente información:
+A la solicitud señalada en el artículo anterior, se anexará:
 
-I.- Solicitud por escrito del o los interesados, en la que se manifieste el interés para destinar voluntariamente sus predios a acciones de preservación, por un período no menor a 10 años;
+I. Acta de asamblea ejidal o comunal, realizada en términos de la Ley Agraria, en la que se exprese la voluntad de destinar sus predios a la conservación, para el caso de ejidos y comunidades;
 
-II.- En caso de personas morales, la documentación que acredite su personalidad jurídica. Tratándose de los pueblos indígenas, ejidos y comunidades rurales, las solicitudes deberán ser presentadas por el representante del núcleo de población en términos de la Ley Agraria, adjuntando el acta de la asamblea correspondiente;
+II. Copia de la identificación oficial en caso de que el propietario sea persona física y, cuando se trate de personas morales, copia de la documentación que acredite su personalidad jurídica y la de su representante legal. Tratándose de ejidos y comunidades, copia del acta de asamblea por la que se elige al comisariado ejidal o comunal en funciones en términos de la Ley Agraria;
 
-III.- Documentación que compruebe la propiedad del predio o la titularidad de los derechos, en su caso, de los legítimos poseedores;
+III. Documentación que acredite la propiedad del predio que se destinará voluntariamente a la conservación;
 
-IV.- Denominación del área;
+IV. Mapa georreferenciado en un sistema de coordenadas UTM, especificando el Datum de referencia, así como fotografías que permita identificar las características del predio;
 
-V.- Superficie y colindancias con un plano de ubicación, preferentemente georreferenciado y fotografías del predio;
+V. Estrategia de manejo que se proponga para la conservación del predio, el cual deberá contener lo siguiente:
 
-VI.- Diagnóstico en el que se describa la importancia de los recursos existentes en el área, así como la necesidad de su preservación;
+a) La zonificación del área, precisando la superficie de cada zona;
 
-VII.- Caracterización de los aspectos físicos, biológicos y socioeconómicos del área;
+b) Las acciones de protección, conservación y restauración de los recursos naturales del predio, y
 
-VIII.- La carta compromiso del o los interesados para la preservación del área, y
+c) Los lineamientos para el uso y aprovechamiento de los recursos naturales del predio.
 
-IX.- Régimen de manejo a que se sujetará el área.
+Los interesados que requieran de la asistencia técnica de la Secretaría podrán acudir ante las unidades administrativas de la Comisión, para que se les apoye en el diseño de la estrategia de manejo del área a certificar.
+
+En las áreas privadas y sociales destinadas voluntariamente a la conservación, competencia de la Federación, los propietarios definirán libremente las zonas y subzonas para el manejo del predio, para lo cual podrán considerar lo previsto en el artículo 47 BIS de la Ley.
+
+Asimismo, decidirán libremente la denominación con la que el predio destinado voluntariamente a la conservación será reconocido como área natural protegida de competencia federal y podrán incluir en la misma la característica que destaque conforme a lo señalado en el artículo 133 QUÁTER del presente Reglamento.
+
+Cuando la superficie del área que se pretenda certificar involucre dos o más predios de distintos propietarios, podrá emitirse un solo certificado si se acredita con el instrumento jurídico correspondiente la voluntad de los mismos en constituir una sola área destinada voluntariamente a la conservación. En ese caso el certificado se expedirá a nombre de todos los propietarios.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 128.
 
-Una vez presentada la información a que se refiere el artículo anterior, la Secretaría efectuará, dentro de los sesenta días siguientes, una visita de campo para el reconocimiento del predio.
+Recibida la solicitud, la Secretaría, por conducto de la Comisión, resolverá en un plazo de noventa días hábiles contados a partir del día siguiente a aquél al de su recepción, conforme a lo siguiente:
+
+I. La Comisión revisará que la solicitud cumpla con los requisitos señalados en los artículos 77 BIS, fracción I, de la Ley y 126 y 127 del presente Reglamento. En caso de que la información esté incompleta, la Comisión, en un plazo que no exceda de treinta días hábiles contados a partir de la recepción de la solicitud, prevendrá al promovente para que subsane las omisiones o presente la información faltante dentro del plazo de veinte días hábiles contados a partir de la recepción de la notificación del requerimiento correspondiente, suspendiéndose el plazo para la resolución;
+
+II. Transcurrido el plazo señalado en la fracción anterior sin que el promovente desahogue el requerimiento correspondiente se desechará la solicitud, quedando a su disposición la documentación que hubiera anexado a la misma;
+
+III. Si la solicitud cumple con los requisitos o una vez que se haya desahogado el requerimiento a que se refiere la fracción I del presente artículo, la Comisión, dentro de los treinta días hábiles siguientes, realizará una visita de campo para evaluar y dictaminar el estado del predio que se propone destinar voluntariamente a la conservación, y
+
+IV. Dentro de los treinta días hábiles siguientes a la realización de la visita de campo, la Comisión resolverá lo conducente conforme a lo establecido en el artículo siguiente.
+
+Transcurrido el plazo de noventa días hábiles sin que medie respuesta de la Comisión, la solicitud se entenderá en sentido negativo al promovente.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 129.
 
-La Secretaría emitirá el certificado dentro de los noventa días naturales siguientes, contados a partir de la recepción de la solicitud. Una vez transcurrido dicho plazo sin que medie respuesta, la propuesta se entenderá como no aceptada.
+En la resolución que expida la Comisión podrá:
+
+I. Emitir el certificado, o
+
+II. Negar la emisión del certificado.
+
+El certificado que emita la Comisión, reconocerá al predio destinado voluntariamente a la conservación como área natural protegida de competencia federal y deberá contener:
+
+a) Nombre del propietario;
+
+b) Denominación, ubicación, superficie y colindancias del área;
+
+c) Características físicas y biológicas generales y el estado de conservación del predio que sustentan la emisión del certificado;
+
+d) Estrategia de manejo que deberá incluir:
+
+1. Las acciones de protección y conservación de los recursos naturales del predio;
+
+2. Los lineamientos para el uso y aprovechamiento de los recursos naturales del predio;
+
+3. La periodicidad y contenido de los reportes que presentará a la Secretaría, y
+
+4. En su caso, las acciones de restauración de zonas alteradas.
+
+e) Deberes del propietario, y
+
+f) Vigencia mínima de quince años.
+
+La Comisión realizará la anotación que corresponda en el Registro Nacional de Áreas Naturales Protegidas.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+
+Artículo 129 BIS.- La Comisión negará la emisión del certificado cuando:
+
+I. El solicitante no cumpla con los requisitos a los que se refieren los artículos 77 BIS, fracción I, de la Ley y 126 y 127 del presente Reglamento, y
+
+II. El plazo de certificación no sea congruente con el tiempo de la sucesión de la vegetación, en el caso que el predio no contenga elementos de los ecosistemas originales de la región o haya sido transformado totalmente por las actividades productivas.
+
+Una vez que el certificado haya sido emitido, la Comisión podrá llevar a cabo acciones de supervisión técnica y monitoreo con la finalidad de constatar que las actividades de conservación se estén realizando en los términos autorizados para el manejo.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 130.
 
-La Secretaría negará el certificado cuando el predio no contenga elementos de los ecosistemas originales de la región, o haya sido transformado total o irreversiblemente por actividades productivas.
+Para la determinación de los niveles de certificación que podrá establecer la Secretaría para que con base en dichos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de los predios destinados voluntariamente a la conservación o sean considerados por las dependencias competentes en la certificación de productos o servicios, deberá ponderar los siguientes aspectos:
+
+I. La dimensión de la zona que haya sido determinada por su propietario con características similares a las de una zona núcleo respecto de la superficie total del predio destinado voluntariamente a la conservación;
+
+II. El estado de conservación del predio destinado voluntariamente a la conservación, así como de las actividades que se desarrollan en los predios colindantes, con el fin de determinar los factores que pueden vulnerar los ecosistemas a proteger;
+
+III. La identificación del predio como un relicto bien conservado o como una superficie susceptible de acciones de recuperación o rehabilitación que favorezcan la conservación de ecosistemas;
+
+IV. La estrategia de manejo con medidas y acciones más estrictas que las establecidas para la subzona donde se ubique el predio destinado voluntariamente a la conservación, cuando éste se localice dentro de áreas naturales protegidas;
+
+V. La existencia de ecosistemas nativos o de relictos de ecosistemas nativos;
+
+VI. La coexistencia, en el mismo predio, de diferentes tipos de ecosistemas, suelos, eventos biológicos o especies, sin importar el tamaño de sus poblaciones o si se encuentran clasificadas o no en alguna categoría de riesgo;
+
+VII. El desarrollo, subsistencia o permanencia de especies nativas en el predio;
+
+VIII. La existencia de mayor diferencial de gradiente altitudinal en el predio destinado voluntariamente a la conservación;
+
+IX. La presencia de endemismos;
+
+X. El plazo para el cual se destinó el predio voluntariamente a la conservación que sea por lo menos del doble de la vigencia mínima que establece el artículo 77 BIS, fracción I, inciso h), de la Ley;
+
+XI. La efectividad de las acciones de manejo, determinada en función del ecosistema a conservar, a partir de la comparación entre el estado de conservación del predio al momento de la certificación y el estado que la Comisión observe en el predio una vez transcurrido al menos la mitad del plazo de vigencia del certificado, o
+
+XII. La actividad científica o académica comprobable que se desarrolle en el predio destinado voluntariamente a la conservación.
+
+Los aspectos previstos en el presente artículo podrán servir de apoyo a las dependencias de la Administración Pública Federal para dar prioridad a proyectos de conservación que representen beneficios significativos a los ecosistemas nativos, pero no podrán utilizarse como criterios de exclusión en la asignación de apoyos, estímulos o instrumentos económicos que señala la Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 131.
 
-El certificado que emita la Secretaría deberá contener:
+Los niveles de certificación que podrá establecer la Comisión a los predios destinados voluntariamente a la conservación serán:
 
-I.- Nombre del propietario o poseedor del predio;
+I. Prioritario: cuando los predios presenten siete o más de los aspectos señalados en el artículo anterior;
 
-II.- Denominación;
+II. Intermedio: cuando los predios presenten de cuatro a seis de los aspectos señalados en el artículo anterior, y
 
-III.- Ubicación, superficie, colindancias y delimitación;
+III. Básico: cuando los predios presenten al menos tres de los aspectos señalados en el artículo anterior.
 
-IV.- Plazo de vigencia;
+La Comisión realizará la ponderación en términos del artículo anterior, y asignará a cada certificado expedido el nivel de certificación que le corresponda, e incluirá el dictamen que emitió para determinar dicho nivel en el expediente respectivo de cada predio destinado voluntariamente a la conservación.
 
-V.- Características biológicas y fisiográficas generales, así como el estado de conservación del sitio;
+Durante el mes de junio de cada año, la Comisión publicará en su página web un listado que contendrán los datos a que se refiere el artículo 77 BIS, fracción II, de la Ley y el nivel establecido a los certificados que hubiera expedido.
 
-VI.- Obligaciones del propietario o poseedor, y
-
-VII.- Régimen de manejo, que deberá incluir las acciones de protección y conservación de los recursos naturales, los lineamientos para el uso y aprovechamiento de los recursos naturales, periodicidad y contenido de los reportes que presentará a la Secretaría y, en su caso, la restauración de zonas alteradas.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 132.
 
-Una vez que el certificado haya sido emitido, la Secretaría podrá llevar a cabo acciones de supervisión técnica y monitoreo con la finalidad de constatar que las actividades de preservación se estén realizando en los términos autorizados para el manejo.
+Las dependencias y entidades de la Administración Pública Federal, podrán solicitar a la Comisión información sobre el nivel de certificación asignado a un predio específico, así como asistencia técnica que requieran para que con base en los niveles de certificación establecidos por la Comisión puedan definir y determinar los instrumentos económicos de su competencia, el otorgamiento de cualquier tipo de apoyo o certificación de productos y servicios.
 
-En caso de que el o los promoventes no cumplan con el régimen de manejo autorizado por la Secretaría, la misma procederá, previa audiencia del interesado, a dejar sin efecto el certificado expedido.
+En ningún caso la solicitud de información o asistencia técnica señalada en el párrafo anterior implicará mayores requisitos para el solicitante que pretenda acceder a los instrumentos económicos, apoyos o certificación de productos y servicios, ni modificará los tiempos de respuesta o condicionará su otorgamiento.
 
-La Secretaría podrá apoyar en el ámbito de sus atribuciones y en la medida de sus posibilidades, a la inspección y vigilancia de los predios a que se refiere el presente Capítulo.
+Tratándose de los apoyos, estímulos o instrumentos económicos que, en su caso, determinen o apliquen las unidades administrativas o los órganos administrativos desconcentrados de la Secretaría, éstos se asignarán preferentemente considerando el nivel de certificación otorgado.
+
+Asimismo, las unidades administrativas o los órganos administrativos desconcentrados de la Secretaría, tomarán en consideración para la asignación de apoyos, estímulos u otros instrumentos económicos a aquellas personas que no siendo candidatos elegibles para la obtención de éstos conforme a las disposiciones que los regulan, hayan destinado voluntariamente su predio a la conservación o a aquellos predios que por sus dimensiones o por el transcurso del tiempo no puedan tener acceso a este tipo de apoyos, siempre que su estrategia de manejo implique la recuperación, conservación o preservación de ecosistemas nativos del país.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 133.
 
+El certificado a que se refiere este Capítulo se extinguirá por las siguientes causas:
+
+I. Por vencer el plazo por el que fue otorgado;
+
+II. Por muerte del titular. En caso de personas morales por liquidación, escisión o fusión;
+
+III. Por transmisión de la propiedad del predio, siempre que el nuevo propietario no manifieste expresamente su voluntad de continuar destinando el predio a la conservación, y
+
+IV. Por cancelación anticipada del titular, en términos del artículo 134 del presente Reglamento.
+
 El titular de un certificado en un plazo de seis meses previo al vencimiento del mismo, podrá solicitar una prórroga por un plazo mínimo equivalente al autorizado originalmente, siempre y cuando haya cumplido con las obligaciones a su cargo.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+Artículo 133 BIS.- Los titulares de los certificados a que se refiere este Capítulo podrán solicitar la modificación de:
+
+I. La titularidad del predio destinado voluntariamente a la conservación;
+
+II. La denominación con la que el predio destinado voluntariamente a la conservación se identificó en el certificado;
+
+III. La persona encargada de la administración del área;
+
+IV. La superficie, cuando se pretenda incrementar para conservación;
+
+V. El plazo de la vigencia;
+
+VI. La estrategia de manejo, o
+
+VII. La identificación e inclusión de características adicionales a los considerados originalmente para la expedición del certificado.
+
+La Comisión resolverá las solicitudes de modificación a que se refiere este artículo, en un plazo de noventa días hábiles contados a partir del día siguiente en que se haya presentado dicha solicitud, aplicando en lo conducente el procedimiento previsto en el artículo 128 del presente Reglamento y tomando en consideración los requisitos establecidos en los artículos 133 TER y 133 QUÁTER de este ordenamiento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+Artículo 133 TER.- Las solicitudes de modificación de los certificados deberán contener el número de certificado, el tipo de modificación que se pretenda llevar a cabo en términos del artículo anterior, y la información y documentación siguientes:
+
+I. Cuando se trate de modificación en la titularidad del predio:
+
+a) El nombre del nuevo titular;
+
+b) La manifestación del nuevo titular de que desea seguir destinando voluntariamente el predio a la conservación, así como de continuar aplicando la estrategia de manejo avalada por la Comisión o en su caso, las modificaciones que decida realizar a la misma.
+
+En su caso, acta de la asamblea ejidal o comunal realizada en términos de la Ley Agraria, en la que se exprese la voluntad de destinar sus predios a la conservación, para el caso de ejidos y comunidades;
+
+c) El título de propiedad que ampare su derecho sobre el predio, y
+
+d) Tratándose de personas morales, la documentación que acredite la personalidad jurídica de su representante legal, o tratándose de ejidos y comunidades, el acta de asamblea por la que se elige al comisariado ejidal o comunal en funciones en términos de la Ley Agraria;
+
+II. Cuando se trate de la denominación con la que el predio destinado voluntariamente a la conservación se identificó en el certificado: la nueva denominación propuesta.
+
+Si la modificación en la denominación deriva de la identificación e inclusión de características adicionales a los considerados originalmente para la expedición del certificado, la denominación deberá corresponder a la característica específica a destacar. En este caso, basta que el propietario presente la información y documentación que se describe en el artículo 133 QUÁTER de este Reglamento.
+
+Tratándose de personas morales, la documentación que acredite la personalidad jurídica de su representante legal, o tratándose de ejidos y comunidades, el acta de asamblea por la que se elige al comisariado ejidal o comunal en funciones en términos de la Ley Agraria, en caso de que exista una modificación respecto a los representantes legales;
+
+III. Cuando se trate del cambio en la persona encargada de la administración del predio destinado a la conservación: el nombre del nuevo administrador.
+
+Tratándose de personas morales, la documentación que acredite la personalidad jurídica de su representante legal, o tratándose de ejidos y comunidades, el acta de asamblea por la que se elige al comisariado ejidal o comunal en funciones en términos de la Ley Agraria, en caso de que exista una modificación respecto a los representantes legales;
+
+IV. Cuando se trate de modificación a la superficie del predio:
+
+a) La manifestación del propietario de que desea ampliar la superficie destinada a la conservación, estableciendo tal superficie. Tratándose de ejidos y comunidades, la resolución de la asamblea ejidal o comunal en términos de la Ley Agraria, en la que se manifieste la voluntad de modificar la superficie del predio destinado a la conservación;
+
+b) Tratándose de personas morales, la documentación que acredite la personalidad jurídica de su representante legal, o tratándose de ejidos y comunidades, el acta de asamblea por la que se elige al comisariado ejidal o comunal en funciones en términos de la Ley Agraria, en caso de que exista una modificación respecto a los representantes legales;
+
+c) Documentación que acredite la propiedad del predio, que ampare la nueva superficie propuesta;
+
+d) Mapa de ubicación en el que se especifique la superficie que se pretende incrementar; colindancias; cuadro de construcción del o los polígonos, y el Datum con el que fueron registradas las coordenadas;
+
+e) Anexo fotográfico que permita identificar las características de la nueva superficie;
+
+f) La descripción de las características físicas y biológicas generales de la nueva superficie, especificando especies relevantes a proteger de flora y fauna, clima, topografía e hidrología, en caso de que la superficie contemple uno o varios ecosistemas diferentes a los mencionados en el certificado expedido, y
+
+g) Estrategia de manejo que se proponga para la nueva superficie del predio, la cual deberá contener lo siguiente:
+
+1. La zonificación de la nueva superficie, precisando la superficie de cada zona;
+
+2. Las acciones de protección, conservación y restauración de los recursos naturales de la nueva superficie, y
+
+3. Los lineamientos para el uso y aprovechamiento de los recursos naturales de la nueva superficie;
+
+V. Cuando se trate del plazo de la vigencia, la manifestación del propietario de incrementar el plazo por el cual destinará voluntariamente a la conservación el predio.
+
+Tratándose de ejidos y comunidades, la resolución de la asamblea ejidal o comunal en términos de la Ley Agraria, en la que se manifieste la voluntad de modificar la vigencia del certificado del predio destinado voluntariamente a la conservación.
+
+Asimismo, en caso de personas morales, la documentación que acredite la personalidad jurídica de su representante legal, o tratándose de ejidos y comunidades, el acta de asamblea por la que se elige al comisariado ejidal o comunal en funciones en términos de la Ley Agraria, en caso de que exista una modificación respecto a los representantes legales, o
+
+VI. Cuando se trate de la estrategia de manejo, se señalarán los ajustes a realizar en las subzonas o, en su caso, en las actividades a realizar, explicando las razones de dichas modificaciones.
+
+Tratándose de ejidos y comunidades, la resolución de la asamblea ejidal o comunal en términos de la Ley Agraria, en la que se manifieste la voluntad de modificar la estrategia de manejo del predio destinado voluntariamente a la conservación.
+
+Asimismo, en caso de personas morales, la documentación que acredite la personalidad jurídica de su representante legal, o tratándose de ejidos y comunidades, el acta de asamblea por la que se elige al comisariado ejidal o comunal en funciones en términos de la Ley Agraria, en caso de que exista una modificación respecto a los representantes legales.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+Artículo 133 QUÁTER.- Cuando se trate de la identificación e inclusión de características a destacar distintas a las que originalmente se tomaron en consideración para la expedición del certificado, además de referir dichas características relevantes en la denominación del predio, se anexará la justificación técnica correspondiente en los siguientes términos:
+
+I. Se considerará que la característica a destacar es la alta biodiversidad, cuando en función de la superficie del predio, se presente un alto porcentaje de uno o varios grupos taxonómicos de flora o fauna, con respecto al total registrado en nuestro país. Para acreditar lo anterior, se deberá anexar el inventario biológico correspondiente;
+
+II. Se considerará que la característica a destacar es la importancia biológica con valor cultural del predio, cuando el mismo fusione valores de importancia biológica con elementos culturales importantes, especialmente para las comunidades, ejidos y pueblos indígenas, en lo relativo a su historia, usos y costumbres, así como sus tradiciones o creencias. Para ello, se deberá anexar el documento que explique el valor cultural que se desea proteger, especificando si es objeto de algún uso o actividad, de ritos, ceremonias, o visitas, así como sus características y procesos, y si éstos involucran el uso de recursos de la flora o la fauna;
+
+III. Se considerará que la característica a destacar es la existencia de germoplasma relevante, cuando esté presente algún grupo taxonómico de flora o fauna, conformado por especies endémicas o por la presencia y reproducción de especies prioritarias o en peligro de extinción o bien que sean importantes desde el punto de vista etnobotánico o etnozoológico, sin importar su origen, ni el tamaño de sus poblaciones. Para ello, se deberá anexar el documento en el que se describan el grupo o los grupos taxonómicos que sean relevantes;
+
+IV. Se considerará que la característica a destacar es la investigación científica, cuando la misma tenga por objeto la generación del conocimiento sobre la conservación, monitoreo y manejo a mediano y largo plazo de la biodiversidad y los procesos ecológicos, así como a la investigación sobre el aprovechamiento experimental y restauración de los recursos bióticos y abióticos presentes en el predio o su área de influencia. Para ello deberá presentarse documentación que compruebe las actividades de investigación científica o educación ambiental que se llevan a cabo en el mismo, o
+
+V. Se considerará que la característica a destacar es su carácter silvestre cuando en una superficie extensa se encuentren ecosistemas, hábitats, comunidades bióticas y procesos naturales predominantemente intactos, en los cuales no se presenta la huella de la civilización industrial y su infraestructura. En ellas las actividades que realice el promovente se desarrollan sin dejar rastros o evidencia de su presencia, para lo cual deberá anexar el documento donde conste el cumplimiento de tales características.
+
+Para la evaluación de las características a que se refiere el presente artículo, la Comisión podrá solicitar la opinión del Consejo Nacional de Áreas Naturales Protegidas cuando por la complejidad del asunto sea necesario, sin que ello represente mayores requisitos para el solicitante o la modificación del plazo de respuesta establecido en el artículo 133 BIS del presente Reglamento.
+
+Cuando los titulares de los certificados hayan solicitado la modificación de la denominación del certificado, como resultado de la inclusión de las características previstas en este artículo, señalarán en su solicitud la nueva denominación conforme a lo señalado en el artículo 133 BIS del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 134.
 
-El reconocimiento del destino voluntario de inmuebles para actividades de preservación puede darse por terminado anticipadamente, a solicitud del titular del certificado, por imposibilidad justificada para dar cumplimiento a las obligaciones adquiridas con la certificación del predio.
+El titular de un área destinada voluntariamente a la conservación podrá cancelar anticipadamente el certificado, presentando un escrito a la Comisión, en el que solicite la cancelación del certificado correspondiente. En el caso de ejidos y comunidades, deberán además presentar el acta de la asamblea respectiva donde se exprese la voluntad de solicitar que el predio ya no se destine a la conservación.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 135.
 
-La Secretaría podrá, en todo momento, revocar el certificado expedido, por cualquiera de las siguientes causas:
+La Comisión podrá revocar el certificado expedido por incumplimiento de alguna de las obligaciones establecidas en el certificado por el titular de dicho certificado o los administradores del área, conforme al siguiente procedimiento:
 
-I.- Cuando el predio se vea alterado por desastres, tales como, huracanes, ciclones, incendios, sismos, terremotos, y
+I. Notificará al titular del certificado la causa que motive el inicio del procedimiento y le concederá un plazo de quince días hábiles contados a partir del día siguiente al que se realizó la notificación para que comparezca por escrito, manifieste lo que a su derecho convenga y exhiba las pruebas que estime pertinentes, y
 
-II.- Incumplimiento de alguna de las obligaciones establecidas en el certificado a cargo del titular.
+II. Dentro de los veinte días hábiles siguientes a aquél en que haya recibido el escrito de comparecencia o, en su caso, transcurrido el plazo a que se refiere la fracción I de este artículo sin que dicho titular haya presentado su escrito de comparecencia, la Comisión resolverá lo conducente.
+
+Para la determinación, comprobación o conocimiento de los hechos en virtud de los cuales deba pronunciar su resolución, la Comisión podrá allegarse de toda la información disponible, incluida aquélla que se obtenga a través de medios electrónicos o tecnologías de la información.
+
+Asimismo, la Comisión podrá solicitar a la Procuraduría Federal de Protección al Ambiente la realización de visitas de verificación o requerir información a cualquier otra autoridad que esté relacionada con el asunto a resolver. En este supuesto, el plazo referido en la fracción II de este artículo se contará a partir de la fecha en que se haya recibido la respuesta de la Procuraduría Federal de Protección al Ambiente o de la autoridad requerida.
+
+En caso de que la Comisión revoque el certificado, realizará la anotación correspondiente en el Registro Nacional de Áreas Naturales Protegidas y se notificará personalmente al titular del certificado correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2014)</small>
+
+Artículo 135 BIS.- La Comisión, sin perjuicio de las atribuciones que corresponda a otras unidades administrativas de la Secretaría o a otras dependencias o entidades de la Administración Pública Federal, podrá autorizar a aquellos propietarios que elaboren productos derivados del aprovechamiento sustentable de los recursos naturales obtenidos de sus áreas destinadas voluntariamente a la conservación, la ostentación del sello de sustentabilidad a que se refiere el artículo 77 BIS, fracción V, de la Ley, en dichos productos, cuyas características se definirán en la norma oficial mexicana que para tal efecto se expida.
+
+Para tal efecto, los interesados deberán presentar una solicitud que señale la denominación del predio destinado voluntariamente a la conservación, el número de certificado y el producto que se pretende ostente el sello de sustentabilidad. A la solicitud se anexará, en su caso, el certificado de sustentabilidad de dicho producto expedido por la dependencia competente, de manera directa o a través de un organismo certificador, en los términos de las disposiciones jurídicas aplicables.
+
+La Comisión resolverá en un plazo de noventa días hábiles contados a partir de la recepción de la solicitud y podrá aplicar en lo conducente el procedimiento previsto en el artículo 128 del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 136.
 
-En el caso de controversia respecto de la titularidad del derecho de propiedad del inmueble afecto al destino voluntario, el certificado seguirá vigente hasta que no exista resolución definitiva que ponga fin al procedimiento.
+En el caso de controversia respecto de la titularidad del derecho de propiedad del predio destinado voluntariamente a la conservación, el certificado seguirá vigente hasta que no exista resolución definitiva que ponga fin al procedimiento.
 
-Si la resolución definitiva favorece a persona distinta del titular del certificado, éste se podrá revocar en los términos del artículo anterior.
+Si la resolución definitiva favorece a persona distinta del titular del certificado, éste quedará sin efectos, salvo que el nuevo propietario manifieste expresamente su voluntad de continuar destinando el predio a la conservación.
 
 ## TÍTULO OCTAVO. MEDIDAS DE CONTROL Y SEGURIDAD, Y SANCIONES
 
@@ -1733,8 +1979,22 @@ QUINTO.- Las actividades productivas en las áreas naturales protegidas que se d
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de noviembre de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
 
 D.O.F. 28 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las solicitudes de certificación de predios destinados voluntariamente a la conservación que a la entrada en vigor del presente Decreto se encuentren en trámite, se resolverán conforme a las disposiciones jurídicas vigentes en el momento en que se hubiere presentado la solicitud respectiva ante la Secretaría de Medio Ambiente y Recursos Naturales.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión Nacional de Áreas Naturales Protegidas establecerá los niveles de certificación a que se refiere el artículo 131 del presente Reglamento, respecto de los certificados que hubiera expedido con anterioridad a la entrada en vigor del presente Decreto dentro del término de un año, contado a partir del día siguiente a aquél en que entre en vigor el presente instrumento.
