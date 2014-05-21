@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2013-12-13"
+last_updated: "2014-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -15445,9 +15445,11 @@ Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición
 
 La herencia dejada a los menores y demás incapacitados será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
+
 ###### Artículo 2769.
 
-La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el Juez.
+El cónyuge no necesita la autorización del otro para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada a repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el juez.
 
 ###### Artículo 2770.
 
@@ -15549,7 +15551,7 @@ Del inventario y de la liquidación de la herencia.
 
 No podrá ser albacea el que no tenga la libre disposición de sus bienes.
 
-La mujer casada, mayor de edad, podrá serlo sin la autorización de su esposo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE MAYO DE 2014)</small>
 
 ###### Artículo 2794.
 
@@ -16121,7 +16123,7 @@ El Secretario Gral. de Gobierno
 
 Dr. J. Jesús Osuna Gómez
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE AGOSTO DE 1982.
 
@@ -16296,3 +16298,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 13 DE DICIEMBRE DE 2013.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE MAYO DE 2014.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
