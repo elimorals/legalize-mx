@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2014-03-26"
+last_updated: "2014-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -1995,6 +1995,58 @@ Concluida la etapa anterior, la Junta Política y de Gobierno analizará y calif
 
 La Junta Política y de Gobierno, reunida en sesión, por consenso o en su caso por mayoría calificada mediante el sistema de voto ponderado de los coordinadores de los grupos parlamentarios, seleccionará a los aspirantes que considere son los más idóneos para ser designados Magistrados del Tribunal Superior de Justicia, los cuales propondrá en el dictamen correspondiente, al Pleno del Congreso.
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+
+###### Artículo 124.
+
+La designación de Magistrados Interinos, procederá para cubrir las ausencias temporales o definitivas de los Magistrados Numerarios del Tribunal Superior de Justicia del Estado de Morelos, en los términos previstos en la fracción XXXVII, del artículo 40, de la Constitución Local.
+
+En el caso de que la ausencia sea temporal, durarán en su cargo el tiempo que dure la licencia.
+
+En tratándose de ausencias definitivas, durarán en su cargo hasta en tanto el Congreso del Estado de Morelos, haga la designación de los Magistrados Numerarios respectivos y éstos entren en funciones.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+
+###### Artículo 125.
+
+El procedimiento para la designación de Magistrados Interinos, será el siguiente:
+
+I.- Convocatoria e integración de expedientes. En esta fase la Junta Política y de Gobierno, publicará una convocatoria pública, a efecto de recibir propuestas para la designación respectiva.
+
+II.- Por tratarse de una designación con carácter de interino y con la finalidad de que no se vean afectadas las labores cotidianas del Tribunal Superior de Justicia, se procurará que la convocatoria contemple plazos abreviados.
+
+III.- Dictamen con Lista de Aspirantes a Magistrados para aprobación del Pleno del Congreso.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+
+###### Artículo 126.
+
+Para la integración de los expedientes de los aspirantes a que se refiere la primera fase del procedimiento a que hace mención el artículo que antecede, los aspirantes deberán reunir lo siguiente:
+
+I.- Cumplir con los requisitos establecidos en los artículos 89 y 90, de la Constitución del Estado y esta Ley, así como los que señale la convocatoria respectiva;
+
+II.- Presentar la solicitud respectiva y el formato de registro debidamente llenado; en el horario y fecha que se señale en la convocatoria, así como entregar la documentación correspondiente y el currículum vitae;
+
+III.- Escrito firmado y con huella dactilar en el que se manifieste bajo protesta de decir verdad:
+
+a) No haber sido condenado por delito que amerite pena corporal;
+
+b) Haber residido en el Estado durante los diez años inmediatos anteriores a la publicación de la convocatoria respectiva, con excepción de lo señalado en el artículo 90, fracción II, de la Constitución del Estado;
+
+c) No haber ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Fiscal General o Diputado local, durante el año previo al día de su designación.
+
+IV.- Los documentos que acrediten la preparación académica y experiencia laboral del aspirante.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2014)</small>
+
+###### Artículo 127.
+
+La Junta Política y de Gobierno, formará un expediente por cada uno de los aspirantes que hayan acreditado los requisitos establecidos en el artículo anterior y procederá a emitir el Dictamen respectivo, comunicando en todo caso, a los aspirantes que pasaron a la segunda etapa, dicha determinación mediante lista que se fijará en las oficinas de dicho cuerpo colegiado.
+
+La Junta Política y de Gobierno seleccionará a los aspirantes que considere son los más idóneos para ser designados en el cargo de Magistrado Interino, los cuales propondrá en el Dictamen correspondiente al Pleno del Congreso.
+
+La votación requerida para ser designado como Magistrado Interino, será la contemplada en la fracción XXXVII, del artículo 40, de la Constitución Local.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -2029,7 +2081,7 @@ A partir de la publicación de la presente Ley, el Congreso tendrá 30 días nat
 
 Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
 
-Recinto Legislativo a los trece días del mes de abril de dos mil siete.
+Recinto legislativo a los trece días del mes de abril de dos mil siete.
 
 ATENTAMENTE.
 
@@ -2209,7 +2261,7 @@ Se instruye a la Comisión de Reglamentos y Prácticas Parlamentarias, para que 
 
 ###### ARTÍCULO CUARTO.
 
-Publíquese en la Gaceta Legislativa del Congreso y remítase para su divulgación en el Periódico Oficial "Tierra y Libertad" órgano de" difusión del Gobierno del Estado de Morelos.
+Publíquese en la Gaceta legislativa del Congreso y remítase para su divulgación en el Periódico Oficial "Tierra y Libertad" órgano de" difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO QUINTO.
 
@@ -2380,3 +2432,9 @@ TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respe
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal (sic) Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 21 DE MAYO DE 2014.
+
+Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Artículo Segundo.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, Órgano de difusión del Gobierno del Estado de Morelos.
