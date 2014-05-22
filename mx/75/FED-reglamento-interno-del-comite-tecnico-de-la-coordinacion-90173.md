@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-comite-tecnico-de-la-coordinacion-90173"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2012-11-16"
+last_updated: "2014-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90173&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-11-06"
 
 REGLAMENTO INTERNO DEL COMITÉ TÉCNICO DE LA COORDINACIÓN NACIONAL DEL PROGRAMA DE DESARROLLO HUMANO OPORTUNIDADES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL COMITÉ TÉCNICO DE LA COORDINACIÓN NACIONAL DEL PROGRAMA DE DESARROLLO HUMANO OPORTUNIDADES, PUBLICADO EN EL D.O.F. DE 22 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de noviembre de 2012.
 
@@ -392,3 +394,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Esta publicación abroga el Reglamento Interno del Comité Técnico de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades publicado el jueves 12 de marzo de 2009 en el Diario Oficial de la Federación.
 
 México, D.F., a 6 de noviembre de 2012.- Por el Honorable Consejo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades: el Presidente Suplente del Honorable Consejo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades y Subsecretario de Prospectiva, Planeación y Evaluación de la Secretaría de Desarrollo Social, Marco Antonio Paz Pellat.- Rúbrica.- El Secretario Técnico del Honorable Consejo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades y Coordinador Nacional del Programa de Desarrollo Humano Oportunidades, Daniel Hernández Franco.- Rúbrica.- El Consejero Suplente del Honorable Consejo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades y Oficial Mayor de la Secretaría de Educación Pública, Guillermo Edmundo Bernal Miranda.- Rúbrica.- El Consejero Suplente del Honorable Consejo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades y Comisionado Nacional de Protección Social en Salud, David García Junco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE MAYO DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Esta publicación abroga el Reglamento Interno del Comité Técnico de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades publicado el 16 de noviembre de 2012 en el Diario Oficial de la Federación.
