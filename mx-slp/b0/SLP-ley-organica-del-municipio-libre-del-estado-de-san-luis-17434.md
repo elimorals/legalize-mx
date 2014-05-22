@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2014-05-13"
+last_updated: "2014-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -473,9 +473,17 @@ XI. Formular, aprobar y administrar la zonificación y planes de desarrollo urba
 
 XII. Celebrar con el acuerdo previo de las dos terceras partes de sus integrantes, convenios con la Federación para la administración y custodia de las zonas federales;
 
-XIII. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial, y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XIV. Asociarse en comisiones intermunicipales para enfrentar problemas comunes, para la ejecución y operación de obras, prestación de servicios públicos, concesiones de éstos, administración de ingresos y egresos o la asunción de atribuciones, a través de la celebración de los convenios respectivos.
+XIII. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando éstos afecten su ámbito territorial;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+
+XIV. Contar con atlas municipal de riesgos, y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
+
+XV. Asociarse en comisiones intermunicipales para enfrentar problemas comunes, para la ejecución y operación de obras, prestación de servicios públicos, concesiones de éstos, administración de ingresos y egresos, o la asunción de atribuciones, a través de la celebración de los convenios respectivos.
 
 b) En materia Normativa:
 
@@ -553,7 +561,7 @@ XI. Adquirir bienes en cualquiera de las formas previstas por la ley de la mater
 
 XII. Prevenir y combatir en coordinación con las autoridades competentes, el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que implique una conducta antisocial según las leyes del país y los tratados internacionales;
 
-XIII. Solicitar previo acuerdo aprobado por lo menos por las dos terceras partes de sus integrantes, al Congreso del Estado, la incorporación o desafectación de un bien del dominio público y su cambio de destino;
+XIII. (DEROGADA, P.O. 22 DE MAYO DE 2014)
 
 XIV. Intervenir en la regularización de la tenencia de la tierra urbana en los términos que establezca la ley;
 
@@ -1005,13 +1013,21 @@ XXXVII. En materia de seguridad pública ejercer las facultades que le confieren
 
 XXXVIII. Substanciar los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, sólo en los casos en los que no se encuentre en funciones el contralor interno, cuando por cualquiera de las razones establecidas en el artículo 56 fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, el contralor interno se encuentra impedido para conocer o, cuando sea el propio contralor interno el presunto responsable al que se someterá a procedimiento administrativo sancionatorio, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XXXIX. Asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo, y
+XXXIX. Asistir a los cursos de capacitación y formación que instrumente e imparta la Auditoría Superior del Estado, durante el tiempo del ejercicio de la administración para la cual fue electo;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XL. Las demás que se deriven de esta Ley u otros ordenamientos aplicables.
+XL. Constituir, dentro de los primeros treinta días del inicio de la administración, el Consejo Municipal de Protección Civil, con el objeto de prevenir y actuar en casos de riesgo, siniestro o desastre, en coordinación con las autoridades del Estado y la Federación. A este organismo concurrirán los sectores, público, social, y privado, con las funciones y atribuciones que para el efecto señalen, la Ley de Protección Civil del Estado; y el Reglamento municipal correspondiente;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
+
+XLI. Designar a los coordinadores municipales de protección civil, verificando que cuenten con la debida certificación de competencia, expedida por una institución avalada por la Escuela Nacional de Protección Civil, y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
+
+XLII. Las demás que deriven de esta Ley u otros ordenamientos aplicables.
 
 ###### ARTICULO 71.
 
@@ -2552,3 +2568,9 @@ P.O. 13 DE MAYO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
