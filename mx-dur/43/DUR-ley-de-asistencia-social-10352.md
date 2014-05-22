@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asistencia-social-10352"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-15"
-last_updated: "2013-05-05"
+last_updated: "2014-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de septiembre de 1996.
 
@@ -87,9 +87,31 @@ b). Promover la integración familiar y comunitaria en base a la alimentación, 
 
 c). Proporcionar servicios de asistencia social a menores, personas con deficiencia mental, discapacitados, ancianos, personas que sufran violencia familiar, mujeres que sufran violencia de género o se encuentren en estado de gravidez, personas en estado de abandono, y otros casos en circunstancias parecidas.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
 ###### Art. 4.
 
-En las disposiciones subsecuentes, cuando se haga mención al DIF Estatal, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
+Para el objeto de la presente Ley se entenderá por:
+
+I. Asistencia Social: al conjunto de servicios que promueven y prestan las Dependencias Públicas y dedicadas a la asistencia social;
+
+II. Asistencia Social Privada: a los servicios que promueven y prestan las instituciones privadas dedicadas a la asistencia social;
+
+III. DIF Estatal: al Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
+
+IV. Desarrollo Humano: proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas, para el logro de un mejoramiento y realización personal y de la sociedad en su conjunto;
+
+V. Equidad de género: es el reconocimiento y defensa de la igualdad entre hombres y mujeres, y así generar su participación en el diseño, programación, ejecución y evaluación de los planes y programas dentro de la asistencia social;
+
+VI. Equidad: la promoción del acceso de los sujetos del desarrollo social y humano a los programas y acciones de manera proporcional a su situación de desventaja, marginación y vulnerabilidad;
+
+VII. Igualdad de oportunidades: la distribución eficiente de los recursos que garantice la equidad y garantice la calidad de vida de las generaciones, a fin de que todas las personas tengan las mismas oportunidades de potenciar sus capacidades, sin distingos de sexo, edad, origen étnico o nacional, capacidades diferentes, condición social, de salud, religión, opinión, preferencias sexuales, estado o (sic) civil, o cualquier otra que atente contra la dignidad humana y tienda a menoscabar los derechos humanos de las personas;
+
+VIII. Marginación: características o situación en la que se encuentra un ser humano o grupo social, debido a su ubicación geográfica, condiciones físicas, económicas o de cualquier otra índole, que le impidan integrarse a la sociedad y que debido a ello requiera de la aplicación de políticas públicas compensatorias para acceder a la igualdad de oportunidades sociales y de desarrollo humano;
+
+IX. Personas y grupos sociales en situación de vulnerabilidad: aquellos individuos que debido a la conjugación de factores diversos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por ello, requieren de atención asistencial para el logro de su bienestar; y
+
+X. Vulnerabilidad: situación en la que se encuentra una persona, debido a situaciones de desventaja con respecto al resto de la población, bien sea por cuestiones de índole geográfica, condición física, desigualdad económica, entre otras.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2010)</small>
 
@@ -137,7 +159,9 @@ II.- Vigilar el estricto cumplimiento de esta Ley, así como las disposiciones q
 
 III.- Evaluar los resultados de los servicios asistenciales que se proporcionen;
 
-IV.- Realizar estudios e investigaciones científicas y tecnológicas específicas en materia de protección de menores, ancianos, mujeres, discapacitados, personas con deficiencia mental, y la familia en general; así como en materia de prestación de los servicios asistenciales;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+
+IV.- Realizar estudios e investigaciones científicas y tecnológicas especificas en materia de protección a niñas, niños, adolescentes, jóvenes, personas con deficiencia mental, personas con discapacidad adultos mayores, personas víctimas de violencia familiar, mujeres en periodo de gestación o lactancia, mujeres que presenten maltrato físico o psicológico, personas en estado de abandono, desamparo o maltrato, y la familia en general; así como en materia de prestación de los servicios asistenciales;
 
 V.- Elaborar y proponer anteproyectos legislativos en materia de asistencia social, así como los reglamentos internos que se requieran;
 
@@ -153,21 +177,29 @@ VIII.- Las demás que le otorguen esta Ley y otros ordenamientos.
 
 El DIF Estatal, sin que sea limitativo, tendrá a su cargo:
 
-I.- Promover el bienestar de la familia mediante la aplicación de las acciones de asistencia social, que serán acordes con los programas de trabajo del Sistema Nacional para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-II.- Prestar orientación nutricional para la adecuada preparación y consumo de alimentos;
+I.- Promover el bienestar de la familia atendiendo a la equidad de género, mediante la aplicación de las acciones de asistencia social, que serán acordes con los programas de trabajo del Sistema Nacional para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+
+II.- Promover estrategias de orientación nutricional para la adecuada preparación y consumo de alimentos;
 
 III.- Proporcionar ayuda alimentaria, distribuyendo productos alimenticios a las personas que más lo requieran por su precaria situación económica;
 
-IV.- Alentar los proyectos productivos y la producción de alimentos para el auto consumo;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+
+IV.- Fomentar la implementación de proyectos productivos y la preparación de alimentos para el auto consumo;
 
 V.- Fomentar la asistencia social en base a la salud y educación de la familia;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-VI.- La atención a menores y personas con deficiencia mental, discapacitados, y que sufran violencia familiar, mujeres víctimas de violencia de género o abandonadas, ancianos y otros casos de personas en circunstancias parecidas;
+VI.- La atención a personas en estado de vulnerabilidad;
 
-VII.- El fomento a la paternidad responsable, que propicie la vigencia de los derechos de los menores a la satisfacción de sus necesidades, y salud física y mental;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+
+VII.- El fomento a la paternidad y maternidad responsables, que propicie la vigencia de los derechos de los menores a la satisfacción de sus necesidades, y salud física y mental; con especial atención a las cuestiones de salud reproductiva y del ejercicio del derecho a una vida libre de violencia:
 
 VIII.- Realizar acciones de apoyo para prevenir la farmacodependencia;
 
@@ -175,41 +207,51 @@ IX.- Atender el ejercicio de la tutela de los menores en los términos de las di
 
 X.- El apoyo a la educación y capacitación para el trabajo;
 
-XI.- La vigilancia y denuncia en casos de incorrecta aplicación de la legislación laboral a menores;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XII.- La asistencia jurídica y protección a los menores, la mujer y la familia;
+XI.- La vigilancia y denuncia en casos de incorrecta aplicación de la legislación laboral en materia de menores de edad y los adultos mayores, que se encuentren en condiciones de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+
+XII.- La prestación de los servicios de asistencia jurídica, protección y orientación a las madres y padres de familia, a las niñas, niños y adolescentes, mujeres y hombres, personas con discapacidad, personas con deficiencia mental, adultos mayores y a la familia en general;
 
 XIII.- Los programas de rehabilitación y educación especial;
 
-XIV.- Acciones para apoyar el desarrollo comunitario;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XV.- La formación de grupos de promotores sociales voluntarios;
+XIV.- Acciones para fomentar y apoyar el desarrollo comunitario;
 
-XVI.- Patrocinar y poner a disposición del ministerio público los elementos a su alcance en la protección de discapacitados y en los procedimientos civiles y familiares que les afecten, de acuerdo con las leyes relativas;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
+XV.- La formación de grupos de promotores sociales voluntarios o patronatos que fortalezcan las acciones de asistencia social;
 
-XVII.- La operación de establecimientos de asistencia social, centros de atención inmediata para las víctimas de violencia de género, en los términos establecidos en la Ley de las Mujeres para una Vida sin Violencia;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XVIII.- Los servicios funerarios a personas de muy difícil situación económica;
+XVI.- Poner a disposición del ministerio público los elementos a su alcance en la protección de los sujetos de atención a los que se refiere la fracción XII;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+
+XVII.- La operación y supervisión de establecimientos de asistencia social;
+
+XVIII.- (DEROGADA, P.O. 22 DE MAYO DE 2014)
 
 XIX.- Fomentar la formación de instituciones de beneficencia privada;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XX.- Promover acciones que tiendan a establecer hábitos de conducta y valores que contribuyan a la protección y superación de los grupos vulnerables;
+XX.- Promover acciones que tiendan a establecer hábitos de conducta y valores que contribuyan a la protección y superación de los grupos vulnerables e implementar y sugerir la aplicación de políticas públicas que fomenten la integridad de la familia, así como su desarrollo humano.
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XXI.- Promover y atender, en general, cualquier otra actividad de asistencia social que beneficie a los miembros más vulnerables de la sociedad; y (sic)
+XXI.- De acuerdo a lo establecido en el artículo 6° del presente ordenamiento legal, promover y gestionar acciones de la asistencia social que beneficien a los grupos más vulnerables;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE MAYO DE 2014)</small>
 
 XXII.- Las atribuciones establecidas en el artículo 39 de la Ley de las Mujeres para una Vida sin Violencia; y
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
+(ADICIONADA, P.O. 21 DE ABRIL DE 2013) N. DE E. VÉASE P.O. DE 22 DE MAYO DE 2014, PÁGINA 5.
 
-XIII (SIC).- Implementar el Taller de Orientación Prematrimonial a los interesados en contraer matrimonio. Al término del Taller se le entregará el documento de asistencia autorizado para cumplir dicho requisito.
+XXIII.- Implementar el Taller de Orientación Prematrimonial a los interesados en contraer matrimonio. Al término del Taller se le entregará el documento de asistencia autorizado para cumplir dicho requisito.
 
 ### CAPITULO V. DE LOS SUJETOS DE LA ASISTENCIA SOCIAL
 
@@ -233,15 +275,27 @@ VI.- Víctimas en estado de abandono;
 
 VII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
 
-VIII.- Habitantes del medio rural o urbano que se encuentren marginados y que carezcan de lo indispensable para su subsistencia;
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
 
-IX.- Comunidades y personas afectadas por desastre;
+VIII.- Indígenas en situación de maltrato, explotación en cualquiera de sus modalidades, marginación, exclusión o pobreza alimentaria;
 
-X.- Menores infractores, en cuanto a su libertad vigilada e incorporación a la sociedad, sin menoscabo de lo que establezcan los ordenamientos legales relativos;
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XI.- Alcohólicos, farmacodependientes y menores con predisposición a la vagancia; y
+IX.- Enfermos terminales o adictas (sic);
 
-XII.- Todas aquellas personas que se encuentren en condiciones y circunstancias similares a las descritas en las fracciones anteriores.
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
+
+X.- Migrantes;
+
+XI.- Habitantes del medio rural o urbano que se encuentren marginados y que carezcan de lo indispensable para su subsistencia;
+
+XII.- Comunidades y personas afectadas por desastre;
+
+XIII.- Menores infractores, en cuanto a su libertad vigilada e incorporación a la sociedad, sin menoscabo de lo que establezcan los ordenamientos legales relativos;
+
+XIV.- Alcohólicos, farmacodependientes y menores con predisposición a la vagancia; y
+
+XV.- Todas aquellas personas que se encuentren en condiciones y circunstancias similares a las descritas en las fracciones anteriores.
 
 ### CAPITULO VI. DE LOS PROGRAMAS
 
@@ -435,11 +489,93 @@ XI.- Las demás que sean otorgadas por esta Ley y sus reglamentos.
 
 El Director General será ciudadano mexicano por nacimiento, mayor de edad, y con experiencia en materia administrativa y de asistencia social, designado y removido libremente por el Gobernador del Estado.
 
-### CAPITULO XIV. DEL PATRIMONIO DEL DIF ESTATAL
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE MAYO DE 2014)</small>
+
+### CAPÍTULO XIV. DE LAS ATRIBUCIONES DEL COMISARIO
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
 
 ###### Art. 36.
 
-El patrimonio del DIF Estatal se integrará con:
+El Comisario contara con las atribuciones siguientes:
+
+I. Vigilar que la administración de los recursos y el funcionamiento del DIF estatal, se lleven a cabo de acuerdo con esta ley, los planes y presupuestos aprobados, así como de las demás leyes aplicables;
+
+II. Practicar la auditoria de los estados financieros y las de carácter administrativo que se requieran, en coordinación con la auditoría interna del DIF estatal;
+
+III. Hacer las recomendaciones ante la Junta de Gobierno y de la presidencia, respecto a las medidas que sean convenientes para el mejoramiento de la organización y funcionamiento del DIF estatal; y
+
+IV. Las demás que sean necesarias para el ejercicio de las anteriores.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2014)</small>
+
+### CAPÍTULO XV. DE LAS RELACIONES LABORALES DEL SISTEMA
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 37.
+
+Las relaciones de trabajo entre el Sistema y su personal, se regirán por lo dispuesto en el Apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y demás legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 38.
+
+Quienes son trabajadores del Organismo quedarán sujetos al régimen de la Constitución Política de los Estados Unidos Mexicanos, en su apartado B, y disfrutarán de las demás prestaciones de seguridad social que determine la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 39.
+
+Además de las facultades y atribuciones consignadas en la presente ley, la Junta de Gobierno, con apoyo de la Dirección General, elaborará la plantilla de personal y expedirá las demás disposiciones que estime necesarias para la organización y administración de los recursos humanos del Organismo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2014)</small>
+
+### CAPÍTULO XVI. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 40.
+
+Los usuarios de DIF Estatal, o Municipal, tienen derecho a los servicios y programas de asistencia social, en circunstancias de igualdad y equidad, independientemente de su origen étnico, género, edad, capacidad física y mental, condición cultural, condición social, condiciones de salud, religión u orientación sexual.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 41.
+
+A los usuarios de DIF Estatal, o Municipal, en todo momento se les garantizará el respeto irrestricto a sus derechos humanos, a su integridad física y mental, a su dignidad, a su vida privada, a su cultura y valores, durante su estancia en cualquier centro de asistencia social.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 42.
+
+Los usuarios de DIF Estatal, o Municipal, recibirán información apropiada a su edad, condición de género, socioeducativa, cultural y étnica sobre los programas y acciones de asistencia social que se implementen.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 43.
+
+Los usuarios de los servicios de asistencia social de DIF Estatal, o Municipal, tienen la obligación de:
+
+Ajustarse a la reglamentación interna de las instituciones prestadoras de Asistencia Social;
+
+Privilegiar cuidado y diligencia en el uso y conservación de los materiales y equipos que se pongan a su disposición, en atención a los programas de Asistencia Social;
+
+Participar corresponsablemente en los programas y servicios de asistencia social; y
+
+Aportar con veracidad los datos que le sean solicitados por las Instituciones de asistencia social.
+
+> <small>N. DE E. SE RECORRIÓ EN SU ORDEN EL CAPÍTULO XIV Y SU ARTÍCULO 36, PARA PASAR A SER EL CAPÍTULO XVII CON EL ARTÍCULO 44, RESPECTIVAMENTE, P.O. 22 DE MAYO DE 2014.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO XVII. DEL PATRIMONIO DEL DIF ESTATAL
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 44.
+
+El Patrimonio del DIF Estatal se integrará con:
 
 I.- Los bienes muebles e inmuebles que sean de su dominio;
 
@@ -455,25 +591,41 @@ VI.- En general, los demás bienes e ingresos que obtenga por cualquier título.
 
 El patrimonio del DIF Estatal estará exento del pago de obligaciones fiscales estatales y municipales que de él se deriven.
 
-### CAPITULO XV. DEL SERVICIO VOLUNTARIO
+> <small>N. DE E. SE RECORRIÓ EN SU ORDEN EL CAPÍTULO XV Y SUS ARTÍCULOS 37 AL 39, PARA PASAR A SER EL CAPÍTULO XVIII Y ARTÍCULOS 45 AL 47, RESPECTIVAMENTE, P.O. 22 DE MAYO DE 2014.</small>
 
-###### Art. 37.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO XVIII. DEL SERVICIO VOLUNTARIO
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 45.
 
 Se establece una Unidad de Atención al Servicio Voluntario, integrada a la estructura orgánica del DIF Estatal.
 
-###### Art. 38.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 46.
 
 La Unidad a que se refiere el artículo anterior, tendrá como fin, apoyar a promotores voluntarios organizados para prestar servicios a la población.
 
-###### Art. 39.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 47.
 
 La estructura orgánica y operacional de la Unidad de Atención al Servicio Voluntario, se detallará en el Reglamento Interno correspondiente.
 
-### CAPITULO XVI. DE LA PARTICIPACION DE LOS PARTICULARES
+> <small>N. DE E. SE RECORRIÓ EN SU ORDEN EL CAPÍTULO XVI Y SU ARTÍCULO 40, PARA PASAR A SER EL CAPÍTULO XIX CON EL ARTÍCULO 48, RESPECTIVAMENTE, P.O. 22 DE MAYO DE 2014.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO XIX. DE LA PARTICIPACION DE LOS PARTICULARES
 
 EN ACCIONES DE BENEFICENCIA Y CULTURA
 
-###### Art. 40.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 48.
 
 El DIF Estatal, para ampliar la cobertura asistencial, estimulará:
 
@@ -481,21 +633,31 @@ a).- La creación de instituciones de asistencia social privada las que, con sus
 
 b).- A todas aquellas organizaciones y asociaciones Civiles que tengan por objeto realizar fines científicos, artísticos, recreativos, históricos, culturales o cualquier otro fin lícito, conforme a la ley, y cuyos destinatarios puedan ser grupos usufructuarios de los servicios diversos de la asistencia social.
 
-###### Art. 41.
+> <small>N. DE E. SE RECORRIÓ EN SU ORDEN EL CAPÍTULO XVII Y SUS ARTÍCULOS 41 AL 46, PARA PASAR A SER EL CAPÍTULO XX Y ARTÍCULOS 49 AL 54, RESPECTIVAMENTE, P.O. 22 DE MAYO DE 2014.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO XX. DE LOS SISTEMAS MUNICIPALES PARA EL
+
+DESARROLLO INTEGRAL DE LA FAMILIA
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 49.
 
 En cada uno de los municipios de la entidad, en base a sus características propias, se establecerá un organismo con estructura y funciones similares al Sistema para el Desarrollo Integral de la Familia del Estado de Durango, previo acuerdo del Ayuntamiento correspondiente.
 
-###### Art. 42.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 50.
 
 En las disposiciones subsecuentes, cuando se haga mención al "Sistema", se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
 
-###### Art. 43.
+###### Art. 51.
 
 El organismo a que se refiere el artículo anterior, tendrá como objetivos fundamentales:
-
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2010)</small>
 
 a).- Proporcionar servicios de asistencia social a menores y personas con deficiencia mental, discapacitados, y que sufran violencia familiar, mujeres que sufran violencia de género o se encuentren en estado de gravidez, ancianos y otros casos de personas en circunstancias parecidas;
 
@@ -507,17 +669,15 @@ Además de los objetivos generales y específicos contenidos en el Artículo 10 
 
 En los casos de desastre a que se refiere el Artículo 21 de esta Ley, el "Sistema" se coordinará con el DIF Estatal y autoridades federales, estatales y municipales, así como con organismos sociales y privados coadyuvantes, para la atención y apoyo a los sectores sociales afectados.
 
-### CAPITULO XVII. DE LOS SISTEMAS MUNICIPALES PARA EL
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
 
-DESARROLLO INTEGRAL DE LA FAMILIA
-
-###### Art. 44.
+###### Art. 52.
 
 El "Sistema" podrá celebrar contratos, acuerdos o convenios con los Sistemas Estatal y Nacional, y con instituciones públicas, sociales y privadas, así como con otros municipios, para la realización de acciones conjuntas.
 
-### CAPITULO XVIII. DE LAS RESPONSABILIDADES
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
 
-###### Art. 45.
+###### Art. 53.
 
 El "Sistema", para el estudio, planeación y despacho de los asuntos de su competencia, contará con los órganos superiores siguientes: Patronato, Junta de Gobierno y Dirección General, que serán vigilados por un comisario.
 
@@ -529,9 +689,9 @@ En la integración del Patronato, el Director General del "Sistema", deberá for
 
 El desempeño de los miembros del Patronato será honorífico y por consecuencia no percibirán remuneración alguna.
 
-El Patronato celebrará dos sesiones ordinarias al año, y las extraordinarias que se requieran, según la importancia de los asuntos. Los citatorios y quórum legal se establecerán conforme al Artículo 25 de esta Ley.
+El Patronato celebrará dos sesiones ordinarias al año, y las extraordinarias que se requieran, según la importancia de los asuntos. Los citatorios y quórum legal se establecerán conforme al Artículo 25 de esta ley.
 
-El Presidente del Patronato, rendirá un informe anual, durante el mes de agosto, sobre las actividades de asistencia social realizadas. Lo hará ante el Honorable Ayuntamiento y los demás miembros del Patronato. A este evento deberán asistir los miembros de la Junta y Funcionarios del Sistema.
+El Presidente del Patronato, rendirá un informe anual, durante el mes de agosto, sobre las actividades de asistencia social realizadas. Lo hará ante el Honorable Ayuntamiento y los demás miembros del Patronato. A este evento deberán asistir los miembros de la Junta y Funcionarios del "Sistema".
 
 II.- La Junta de Gobierno, que podrá tener otra denominación, y si así lo acuerda el Ayuntamiento, estará integrada en la forma siguiente:
 
@@ -547,13 +707,33 @@ Los miembros de la Junta serán suplidos en sus ausencias por quienes sean desig
 
 III.- El Director General del "Sistema", será designado por el Presidente Municipal, y tendrá las atribuciones del Artículo 34 y demás normas relativas de esta Ley.
 
-###### Art. 46.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
 
-El patrimonio del "Sistema" se formará con los bienes muebles e inmuebles que sean de su dominio, así como con los subsidios, aportaciones e ingresos que le otorguen los gobiernos federal, estatal, municipal, particulares y sector social; incluso con los demás ingresos a que se refieren los conceptos del Artículo 36 de esta Ley. El patrimonio del "Sistema", estará exento del pago de las obligaciones a que se refiere el último párrafo del Artículo 36 de esta Ley.
+###### Art. 54.
 
-El Municipio otorgará al Sistema, un porcentaje sobre el Ingreso Municipal, de acuerdo a los programas y necesidades que en asistencia social requiera la población.
+El patrimonio del "Sistema" se formará con los bienes muebles e inmuebles que sean de su dominio, así como con los subsidios, aportaciones e ingresos que le otorguen los gobiernos federal, estatal, municipal, particulares y sector social; incluso con los demás ingresos a que se refieren los conceptos del Artículo 44 de esta Ley. El patrimonio del "Sistema", estará exento del pago de las obligaciones a que se refiere el último párrafo del Artículo 44 de esta Ley.
 
-###### Art. 47.
+El Municipio otorgará al "Sistema", un porcentaje sobre el ingreso municipal, de acuerdo a los programas y necesidades que en asistencia social requiera la población.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO XVIII], P.O. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO XXI. DE LA INSPECCIÓN Y RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 55.
+
+La inspección y vigilancia del cumplimiento de la presente Ley, su Reglamento y demás disposiciones que de ellos deriven, corresponde al DIF Estatal y a los DIF municipales, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 56.
+
+El incumplimiento de las disposiciones de esta Ley, su Reglamento y las demás disposiciones legales que de ellos deriven, será sancionado administrativamente por el DIF Estatal conforme a sus atribuciones
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Art. 57.
 
 Todo servidor público de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia que incurra en responsabilidad penal, civil o administrativa en el desempeño de sus funciones, será sancionado según el caso, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios.
 
@@ -608,3 +788,13 @@ P.O. 5 DE MAYO DE 2013.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 22 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
