@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-administrativa-del-estado-de-san-luis-potosi-16
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2013-10-12"
+last_updated: "2014-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -1079,7 +1079,9 @@ Transcurrido el plazo de cinco días sin que se hubiere cumplido la ejecutoria, 
 
 Si una vez agotado el trámite anterior, persistiere el incumplimiento, el Tribunal decretará, si procediere, la destitución del servidor público renuente. Esta determinación, en su caso, se hará del conocimiento del titular de la entidad u órgano que corresponda, para que la destitución tenga efectos de inmediato.
 
-Si el servidor público que deba ser separado conforme al párrafo anterior, goza de fuero constitucional, se procederá conforme a la ley de la materia.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
+Si el servidor público que deba ser destituido conforme al párrafo anterior desempeña un cargo de elección popular, el Tribunal emitirá declaratoria del incumplimiento, y turnará al Congreso del Estado copias certificadas del expediente para que éste proceda conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
@@ -1400,5 +1402,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
 P.O. 12 DE OCTUBRE DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
