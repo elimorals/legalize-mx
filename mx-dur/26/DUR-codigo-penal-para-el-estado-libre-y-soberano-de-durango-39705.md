@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2014-05-08"
+last_updated: "2014-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CÓDIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISIÓN PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CÓDIGO SE APLICARÁN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO DE LA DECLARATORIA Y PRIMERO TRANSITORIO DEL DECRETO No. 139 DEL P.O. 8 DE MAYO DE 2014, POR EL QUE SE APRUEBA LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL, ASÍ COMO LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO ASÍ COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS A PARTIR DE LAS CERO HORAS DEL DÍA DIEZ DE JUNIO DE 2014, A MEDIDA QUE EN LOS RESTANTES DISTRITOS JUDICIALES DEL ESTADO, SE IMPLEMENTE EL SISTEMA DE JUSTICIA PENAL ACUSATORIO, SE HARÁ LA DECLARATORIA RESPECTIVA PARA LA APLICACIÓN DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, LA CUAL NO DEBERÁ EXCEDER DEL 18 DE JUNIO DE 2016.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -3965,15 +3963,31 @@ Si este delito se comete en bienes de dominio público o que por su valor histó
 
 Las penas señaladas en este capítulo se aumentarán hasta en una mitad más, cuando los daños en los bienes se causen con motivo u ocasión de un espectáculo deportivo, profesional, taurino, artístico u otros similares en que tiene lugar o en sus inmediaciones, antes durante o después de su desarrollo.
 
-### CAPÍTULO NOVENO. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
+### CAPÍTULO OCTAVO BIS. DELITOS CONTRA LA ECONOMÍA PECUARIA
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+ARTÍCULO 436 BIS.- A quien introduzca ganado bovino al Estado o zona de baja prevalencia y acreditada, o lo movilice con ánimo de comercialización sin cumplir con la normatividad aplicable, se le impondrán de seis meses a dos años de prisión y de diez a noventa y tres días multa.
+
+Si la introducción se realiza con la intención de comercializarlo para exportación, se le impondrán de dos a cinco años de prisión y de noventa y tres a trescientos sesenta días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+ARTÍCULO 436 BIS 1.- A quien presente o pretenda documentar ganado bovino como nacido en una zona de baja prevalencia y acreditada en la Entidad, sin serlo, se le impondrán de dos a ocho años de prisión y de noventa y tres a quinientos setenta y seis días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+ARTÍCULO 436 BIS 2.- Si en la comisión de cualquiera de las conductas previstas en los artículos 436 Bis y 436 Bis 1 se afecta el estatus zoosanitario del Estado, las sanciones se incrementarán en un tercio de la pena a imponer.
 
 ###### ARTÍCULO 436.
 
 Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél a sabiendas de estas circunstancias, o al que ayude a otro para los mismos fines se le aplicará de dos a seis años de prisión y de cien a trescientos días de multa.
 
-### CAPÍTULO DÉCIMO. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESIÓN DE INMUEBLES Y LÍMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2014)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A RÉGIMEN EJIDAL O COMUNAL
+### CAPÍTULO NOVENO. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
+
+### CAPÍTULO DÉCIMO. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESIÓN DE INMUEBLES Y LÍMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACIÓN
 
 ###### ARTÍCULO 437.
 
@@ -3997,7 +4011,7 @@ Cuando se trate de objetos de arte, históricos o de un valor estimativo especia
 
 Si el Juez lo creyere conveniente, además de las penas previstas para cada uno de los delitos mencionados en este Título, podrá imponer al delincuente suspensión de tres meses a seis años, para ser perito, depositario, interventor judicial, síndico, interventor en concursos o quiebras, asesor, representante de ausentes o en el ejercicio de cualquier profesión para las que se requiera título o autorización especial.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO DÉCIMO PRIMERO. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A RÉGIMEN EJIDAL O COMUNAL
 
 ###### ARTÍCULO 442.
 
@@ -4010,6 +4024,8 @@ Se impondrá de seis meses a dos años de prisión y de seis a setenta días mul
 ###### ARTÍCULO 444.
 
 Se impondrá de tres a seis meses de prisión y de tres a diez días multa, al que sin permiso y fuera de los casos en que la Ley lo permita, entre en un predio cercado con el ánimo de obtener un lucro indebido, causar un daño y/o un perjuicio.
+
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### ARTÍCULO 445.
 
@@ -4411,7 +4427,7 @@ PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicaci
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
 
-P.O. 30 DE MAYO DE 2013
+P.O. 30 DE MAYO DE 2013.
 
 DECRETO NÚMERO 498, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPITULO PRIMERO, DEL SUBTITULO PRIMERO DEL TITULO SEGUNDO, DEL LIBRO SEGUNDO; EL ARTICULO 243 Y EL ARTICULO 245; SE ADICIONA UN ARTICULO 243 BIS Y SE DEROGA EL ARTICULO 244 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO: (VIGENTE EN LOS PROCEDIMIENTOS INICIADOS ANTES DE LAS 00:00 HORAS DEL DIA 14 DE DICIEMBRE DEL AÑO 2009, CONFORME A LO DISPUESTO POR LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, NUMERO 47, DE FECHA 10 DE DICIEMBRE DEL AÑO 2009).
 
@@ -4419,26 +4435,8 @@ DECRETO NÚMERO 498, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPITULO PRIMERO
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 8 DE MAYO DE 2014.
+P.O. 22 DE MAYO DE 2014.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRASCRIBE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL, ASÍ COMO LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENAL, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.</small>
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
-Artículo Primero. Se declara la entrada en vigor del Código Nacional de Procedimientos Penales, promulgado por el C. Licenciado Enrique Peña Nieto, Presidente de la República, y publicado en el Diario Oficial de la Federación en fecha 05 de marzo del año 2014, en el Segundo y Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Segundo distrito: Ciudad Lerdo como residencia, comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito; Tercer distrito: Gómez Palacio como residencia; comprende el Municipio del mismo nombre y el de Tlahualilo.
-
-Artículo Segundo. Se adopta el Sistema Penal Acusatorio, en el Segundo y Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Segundo distrito: Ciudad Lerdo como residencia, comprende los municipios de Lerdo y Mapimí, excepto en materia penal que corresponde al tercer distrito; Tercer distrito: Gómez Palacio como residencia; comprende el Municipio del mismo nombre y el de Tlahualilo, por lo que al mismo tiempo entrarán en vigor los siguientes ordenamientos:
-
-I. Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 284 de fecha 11 de junio de 2009, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 48 de fecha 14 de junio de 2009.
-
-II. Ley de Seguridad Pública para el Estado de Durango, relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto número 259 del 18 de febrero de 2009, publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 15 Bis de fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la materia.
-
-Artículo Tercero. Quedan abrogados, el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 9 Bis, de fecha 30 de enero de 1992; el Título Décimo Primero del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232, en vigor en dichos distritos judiciales y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 extraordinario, de fecha 05 de diciembre de 2008 y el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004, y sus reformas posteriores; sin embargo, respecto de los procedimientos penales iniciados por hechos que hayan ocurrido antes de la entrada en vigor del Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante decreto 284 y el Código Nacional de Procedimientos Penales, y que se encuentren en trámite continuarán sus sustanciación hasta el final de los (sic) mismas, de conformidad con la legislación aplicable al momento del inicio de los mismos.
-
-## ARTÍCULOS TRANSITORIOS
-
-Primero. Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno del Estado de Durango, para que surta sus efectos a partir de las cero horas del día 10 de junio de 2014.
-
-Segundo. Remítase para su conocimiento a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal, copia de la presente Declaratoria.
-
-Tercero. Hágase del conocimiento a los habitantes del Segundo y Tercer Distritos Judiciales del Estado de Durango, la presente Declaratoria, mediante Sesión Solemne que se llevará a cabo el día 10 de junio de 2014, en la ciudad de Gómez Palacio, Durango, así como por medios impresos, televisivos y electrónicos de dicha región.
-
-Cuarto. A medida que en los restantes distritos judiciales de nuestro Estado, se implemente el Sistema de Justicia Penal Acusatorio, se hará la Declaratoria respectiva para la aplicación del Código Nacional de Procedimientos Penales, la cual no deberá exceder del 18 de junio de 2016.
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
