@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-comercio-exterior-79"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-12-30"
-last_updated: "2000-12-29"
+last_updated: "2014-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-12-23"
 
 REGLAMENTO DE LA LEY DE COMERCIO EXTERIOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 30 de diciembre de 1993.
 
@@ -53,7 +53,9 @@ Para los efectos de este Reglamento, se entenderá por:
 
 I. Ley, la Ley de Comercio Exterior;
 
-II. Secretaría, la Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+II. Secretaría, la Secretaría de Economía;
 
 III. Comisión, la Comisión de Comercio Exterior, y
 
@@ -65,69 +67,91 @@ Cuando este Reglamento se refiera a plazos en días se entenderán días hábile
 
 ### CAPITULO I. Estructura
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 2o.
 
-La comisión estará integrada por representantes de cada una de las siguientes dependencias y organismos:
+La Comisión estará integrada por representantes de cada una de las siguientes dependencias:
 
 I. Secretaría de Relaciones Exteriores;
 
 II. Secretaría de Hacienda y Crédito Público;
 
-III. Secretaría de Desarrollo Social;
+III. Secretaría de Medio Ambiente y Recursos Naturales;
 
-IV. Secretaría de Comercio y Fomento Industrial;
+IV. Secretaría de Economía;
 
-V. Secretaría de Agricultura y Recursos Hidráulicos;
+V. Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
 
-VI. Secretaría de Salud;
+VI. Secretaría de Salud.
 
-VII. Banco de México, y
+El Secretario de Economía invitará a que formen parte de esta Comisión a representantes de los órganos constitucionales autónomos Banco de México y Comisión Federal de Competencia Económica.
 
-VIII. Comisión Federal de Competencia.
+Estos representantes deberán ser designados por los presidentes de dichos órganos y tener un nivel jerárquico inmediato inferior. Contarán con los mismos derechos y obligaciones que los integrantes señalados en el primer párrafo de este artículo.
 
-Cuando la Comisión deba tratar asuntos de comercio exterior que involucren a un sector específico, podrá invitarse a representantes de otras dependencias o entidades de la Administración Pública Federal y Estatal.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 3o.
 
-La Comisión funcionará a dos niveles jerárquicos, el de subsecretarios o equivalentes y el de directores generales o equivalentes.
+La Comisión funcionará a dos niveles jerárquicos, el de subsecretarios y el de directores generales.
 
 En las sesiones de subsecretarios se analizarán, definirán y propondrán lineamientos de carácter general y medidas específicas en materia de comercio exterior. Además, se resolverán aquellos asuntos que le sean sometidos por acuerdo tomado en la Comisión a nivel de directores generales.
 
 A nivel de directores generales serán analizadas las medidas específicas que correspondan conforme a los lineamientos establecidos a nivel de subsecretarios, así como las propuestas que se considere pertinente elevar a la Comisión a nivel de subsecretarios.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 4o.
 
 Participarán en la Comisión a nivel de subsecretarios:
 
-I. Por la Secretaría, el Subsecretario de Negociaciones Comerciales Internacionales, quien la presidirá, el Subsecretario de Comercio Exterior e Inversión Extranjera, el Subsecretario de Industria y el Subsecretario de Comercio Interior. El Presidente de la Comisión a este nivel será suplido en sus ausencias por los otros subsecretarios de la Secretaría en el orden indicado en esta fracción, y
+I. Por la Secretaría, el Subsecretario de Industria y Comercio, quien la presidirá, y ejercerá el voto que corresponde a la dependencia; el Subsecretario de Comercio Exterior y el Subsecretario de Competitividad y Normatividad. El Presidente de la Comisión a este nivel será suplido en sus ausencias por los otros subsecretarios de la Secretaría en el orden indicado en esta fracción, y
 
-II. Por las demás Secretarías y entidades a que se refiere el artículo 2o. de este Reglamento, el subsecretario o equivalente designado por la dependencia u organismo correspondiente.
+II. Por las demás secretarías a que se refiere el artículo 2o. de este Reglamento, el subsecretario designado por la dependencia correspondiente.
 
-En este nivel fungirá como Secretario Técnico el Director General de Política de Negociaciones Comerciales Internacionales de la Secretaría.
+En este nivel fungirá como Secretario Técnico de la Comisión, el Director General de Comercio Exterior de la Secretaría, y en su ausencia, será suplido por el director general que designe el Subsecretario de Industria y Comercio.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 5o.
 
 Participarán en la Comisión a nivel de directores generales:
 
-I. Por la Secretaría, El Director General de Política de Negociaciones Comerciales Internacionales, quien la presidirá, y un representante con cargo de director general de la Subsecretaría de Comercio Exterior e Inversión Extranjera, de la Subsecretaría de Industria y de la Subsecretaría de Comercio Interior. El Presidente de la Comisión a este nivel será suplido en sus ausencias por los otros directores generales de la Secretaría en el orden indicado en esta fracción, y
+I. Por la Secretaría, el Director General de Comercio Exterior quien la presidirá, y ejercerá el voto que corresponde a la dependencia; un representante con cargo de director general adscrito a la Subsecretaría de Comercio Exterior y un representante con cargo de director general adscrito a la Subsecretaría de Competitividad y Normatividad, designados por el subsecretario correspondiente. El Presidente de la Comisión a este nivel será suplido en sus ausencias por el director general que designe el Subsecretario de Industria y Comercio, y
 
-II. Por las demás Secretarías y organismos a que se refiere el artículo 2o. de este Reglamento, un representante con cargo de director general o equivalente designado por la dependencia u organismo correspondiente.
+II. Por las demás secretarías a que se refiere el artículo 2o. de este Reglamento, un representante con cargo de director general designado por la dependencia correspondiente.
 
-Asimismo, podrá solicitarse la asistencia de un servidor público comisionado por el titular de la Administración General de Aduanas de la Secretaría de Hacienda y Crédito Público, para que funja como asesor de la Comisión en materia de clasificación arancelaria y nomenclatura. El Director General de Política de Negociaciones Comerciales Internacionales de la Secretaría designará al Secretario Técnico de la Comisión a este nivel.
+Asimismo, podrá solicitarse la asistencia de un servidor público comisionado por el titular de la Administración General de Aduanas del Servicio de Administración Tributaria para que funja como asesor de la Comisión en materia de clasificación arancelaria y nomenclatura. El Director General de Comercio Exterior de la Secretaría designará al Secretario Técnico de la Comisión a este nivel.
 
 ### CAPITULO II. Sesiones
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 6o.
 
-Para que la Comisión pueda sesionar, se requerirá la asistencia de por lo menos un representante de la Secretaría y de la mayoría de las dependencias y organismos a que se refiere el artículo 2o. de este Reglamento.
+Para que la Comisión pueda sesionar, se requerirá la asistencia de por lo menos un representante de la Secretaría y de la mayoría de las dependencias y órganos a que se refiere el artículo 2o. de este Reglamento.
 
 ###### Artículo 7o.
 
 Las sesiones de la Comisión podrán ser ordinarias o extraordinarias. Las sesiones ordinarias se convocarán cada seis meses a nivel de subsecretarios y cada tres meses a nivel de directores generales. Las sesiones extraordinarias serán convocadas, en cualquier tiempo, por el Secretario Técnico de la Comisión para tratar asuntos urgentes o prioritarios.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 8o.
 
-A las sesiones sólo podrán asistir los representantes de las dependencias y organismos a que se refiere el artículo 2o. de este Reglamento que se encuentren acreditados ante la Comisión. Con este fin, los titulares de dichas dependencias y organismos deberán comunicar oficialmente al titular de la Secretaría los nombres y cargos de sus representantes, titulares y suplentes, para los dos niveles a que se refiere el artículo 3o. de este Reglamento.
+A las sesiones sólo podrán asistir los representantes de las dependencias y que se encuentren acreditados ante la Comisión. Con este fin, los titulares de éstas deberán comunicar oficialmente al titular de la Secretaría los nombres y cargos de sus representantes, titulares y suplentes, para los dos niveles a que se refiere el artículo 3o. de este Reglamento.
+
+En las sesiones participarán como invitados permanentes, únicamente con voz:
+
+I. Procuraduría Federal del Consumidor;
+
+II. Servicio de Administración Tributaria, y
+
+III. Comisión Federal de Mejora Regulatoria.
+
+Los titulares del organismo descentralizado y de los órganos administrativos desconcentrados, a que se refiere este artículo, podrán designar a sus representantes ante la Comisión y éstos a su vez a sus respectivos suplentes, los cuales deberán tener un nivel jerárquico inmediato inferior en ambos casos. Tales designaciones deberán comunicarse al Secretario de Economía.
+
+Cuando la Comisión deba tratar asuntos de comercio exterior que involucren a un sector específico, podrá invitar a representantes de otras dependencias o entidades de la Administración Pública Federal y Estatal.
 
 ### CAPITULO III. Funciones
 
@@ -159,11 +183,23 @@ XI. El establecimiento de medidas de simplificación y eficiencia administrativa
 
 XII. El establecimiento de otras medidas administrativas de las dependencias y entidades de la Administración Pública Federal que tengan como propósito regular o restringir el comercio exterior del país y la circulación o tránsito de mercancías extranjeras;
 
-XIII. Los proyectos de resolución final en investigaciones en materia de prácticas desleales de comercio internacional y de determinación de cuotas compensatorias, y
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
 
-XIV. Los proyectos de resolución en los que la Secretaría, aceptando el compromiso de exportadores o gobiernos extranjeros, suspenda o termine una investigación en materia de prácticas desleales de comercio internacional.
+XIII. Los proyectos de resolución final en investigaciones en materia de prácticas desleales de comercio internacional y de determinación de cuotas compensatorias;
+
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+XIV. Los proyectos de resolución en los que la Secretaría, aceptando el compromiso de exportadores o gobiernos extranjeros, suspenda o termine una investigación en materia de prácticas desleales de comercio internacional, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+XV. Los criterios en materia de clasificación arancelaria que proponga la Secretaría de Hacienda y Crédito Público conforme a la Ley de los Impuestos Generales de Importación y de Exportación.
 
 La comisión revisará periódicamente las medidas de regulación y restricción al comercio exterior que se encuentren vigentes, tales como permisos previos, cupos máximos, marcado de país de origen, certificaciones de origen y cuotas compensatorias, a fin de recomendar las modificaciones a que haya lugar. Asimismo, le corresponderá ejercer las demás funciones que le confieran la Ley, este Reglamento y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Las medidas a que se refiere el primer párrafo del presente artículo, deberán publicarse en el Diario Oficial de la Federación.
 
 ###### Artículo 10.
 
@@ -185,21 +221,25 @@ III. Recibir y presentar a la Comisión los estudios y propuestas que formulen o
 
 IV. Elaborar las actas de las sesiones y recabar las firmas.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 12.
 
-Las dependencias y entidades de la Administración Pública Federal podrán presentar propuestas en el ámbito de su competencia a la Comisión. Dichas propuestas se deberán presentar a través del Secretario Técnico con por lo menos tres días de anticipación a la fecha de la sesión de la Comisión en la que pretendan desahogarse, salvo en caso de que se convoque a sesiones extraordinarias.
+Las dependencias y entidades de la Administración Pública Federal podrán presentar propuestas en el ámbito de su competencia a la Comisión. Dichas propuestas se deberán presentar a través del Secretario Técnico con por lo menos cinco días de anticipación a la fecha de la sesión de la Comisión en la que pretendan desahogarse, salvo en caso de que se convoque a sesiones extraordinarias.
 
 ### CAPITULO IV. Acuerdos de la Comisión
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 13.
 
 En ambos niveles, la Comisión emitirá sus acuerdos conforme al siguiente procedimiento:
 
-I. Se tomará cada acuerdo por mayoría de votos, una vez que todos los representantes e invitados presentes hayan expuesto sus opiniones. Se emitirá un voto por cada una de las dependencias y organismos a que se refieren las fracciones I a VIII del articulo 2o. de este Reglamento. En caso de empate, el Presidente de la Comisión tendrá voto de calidad;
+I. Se tomará cada acuerdo por mayoría de votos, una vez que todos los representantes e invitados presentes hayan expuesto sus opiniones. Se emitirá un voto por cada una de las dependencias y órganos constitucionales autónomos a que se refiere el artículo 2o. de este Reglamento. En caso de empate, el Presidente de la Comisión tendrá voto de calidad;
 
 II. El Secretario Técnico hará constar en el acta de la sesión cada una de las opiniones, la votación y el contenido del acuerdo. El acta deberá ser firmada por todos los representantes presentes, y
 
-III. Una vez votados todos los asuntos, el Presidente dará lectura de los acuerdos tomados y se enviará una copia de éstos a cada uno de los representantes y a los titulares de las dependencias y organismos participantes en un plazo no mayor a 15 días.
+III. Una vez votados todos los asuntos, el Presidente dará lectura de los acuerdos tomados y se enviará una copia de éstos a cada uno de los representantes y a los titulares de las dependencias y órganos constitucionales autónomos participantes en un plazo de quince días.
 
 ## TITULO III. PERMISOS PREVIOS Y CUPOS DE EXPORTACION E IMPORTACION
 
@@ -225,9 +265,11 @@ Las disposiciones de este Reglamento que se refieren a cupos de exportación o i
 
 ### CAPITULO II. Permisos previos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 17.
 
-La solicitud para el otorgamiento de un permiso, su prórroga o su modificación se presentará ante la Secretaría en el formato oficial que ésta determine. El formato y los requerimientos de información entrarán en vigor a los 15 días después de su publicación en el Diario Oficial de la Federación. Dicha información se referirá, entre otros, a los siguientes aspectos:
+La solicitud para el otorgamiento de un permiso, su prórroga o su modificación se presentará ante la Secretaría en el formato oficial que ésta determine. La información que deberá contener el formato será, entre otra, la siguiente:
 
 I. Nombre o razón social y actividad o giro principal del solicitante;
 
@@ -241,17 +283,25 @@ V. País de origen o destino, y
 
 VI. En su caso, especificaciones técnicas de la mercancía y documentación que la identifique.
 
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Artículo 17 A. Los trámites relacionados con la importación, exportación y tránsito de mercancías, así como regulaciones y restricciones no arancelarias, deberán presentarse mediante medios electrónicos en términos de la legislación aplicable en la materia. En caso de resultar necesario, para la atención de dichos trámites la Secretaría se coordinará con la dependencia, órgano o entidad que corresponda.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 18.
 
-Para presentar cada solicitud y recoger el permiso respectivo el interesado o su representante deberán satisfacer los requisitos que establezca la Ley y este Reglamento y acreditarse fehacientemente ante la Secretaría. Los usuarios habituales podrán obtener una credencial expedida por la Secretaría en la que se consignará el número de registro correspondiente.
+Para presentar cada solicitud y recoger el permiso respectivo el interesado o su representante deberán satisfacer los requisitos que establezcan la Ley y este Reglamento y acreditarse fehacientemente ante la Secretaría.
 
 ###### Artículo 19.
 
 Una vez presentada la solicitud, la Secretaría podrá requerir información o documentación adicional al solicitante, quien tendrá un plazo de cinco días para proporcionarla. De no cumplirse el requerimiento dentro del plazo señalado, la solicitud se tendrá por no presentada.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 20.
 
-La Secretaría resolverá la solicitud de permiso o prórroga del mismo dentro de los 15 días posteriores a la fecha de su aceptación. Transcurrido dicho plazo, el interesado deberá presentarse ante la Secretaría dentro de los 20 días siguientes para conocer la decisión y reclamar su derecho, sin perjuicio de que la Secretaría lo comunique directamente al interesado.
+La Secretaría resolverá la solicitud de permiso o prórroga del mismo dentro de los quince días posteriores a la fecha de su aceptación a trámite. Transcurrido dicho plazo, el interesado deberá presentarse ante la Secretaría dentro de los cinco días siguientes para conocer la decisión y reclamar su derecho.
 
 ###### Artículo 21.
 
@@ -281,9 +331,11 @@ II. El producto se encontraba en tránsito para ser trasladado a su destino.
 
 ### CAPITULO III. Cupos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 26.
 
-Las resoluciones a través de las cuales se establezcan cupos entrarán en vigor 20 días después de su publicación en el Diario Oficial de la Federación, debiendo contener los siguientes datos:
+Los instrumentos a través de las cuales se establezcan cupos se publicarán en el Diario Oficial de la Federación, debiendo contener los siguientes datos:
 
 I. El producto sujeto al cupo de que se trate;
 
@@ -297,7 +349,9 @@ IV. El procedimiento de asignación y los requisitos que deberán cubrir los int
 
 Cuando un cupo de exportación o importación se asigne por medio de licitación pública, la Secretaría:
 
-I. Publicará la convocatoria correspondiente en el Diario Oficial de la Federación, por lo menos 20 días antes de que inicie el periodo de registro, y
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+I. Publicará la convocatoria correspondiente en el Diario Oficial de la Federación, por lo menos cinco días antes de que inicie el periodo de registro, y
 
 II. Pondrá a disposición de los interesados, en la fecha en que se indique en la convocatoria, las bases conforme a las cuales se regirá la licitación pública.
 
@@ -333,9 +387,11 @@ VIII. El periodo de vigencia del certificado, y
 
 Los demás datos que la Secretaría considere necesarios.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 30.
 
-El acto de adjudicación se llevará a cabo en presencia de representantes de las secretarías de Comercio y Fomento Industrial, y de Hacienda y Crédito Público y, en su caso de la dependencia competente, pudiéndose invitar a un representante de la Secretaría de la Contraloría General de la Federación.
+El acto de adjudicación se llevará a cabo en presencia de representantes de las secretarías de Economía y de Hacienda y Crédito Público y, en su caso, de la dependencia competente, pudiéndose invitar a un representante del Órgano Interno de Control en la Secretaría de Economía.
 
 ###### Artículo 31.
 
@@ -359,9 +415,11 @@ II. Dentro de los siete días posteriores a la fecha en que se hayan aportado to
 
 La Secretaría asignará el monto del cupo que amparen los certificados que los ganadores de una licitación pública no hayan reclamado en el plazo determinado en las bases.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 35.
 
-Tratándose de asignación directa, una vez transcurrido el plazo a que se refiere la fracción II del artículo 33 de este Reglamento, el interesado deberá presentarse ante la Secretaría dentro de los 20 días siguientes para conocer la decisión y reclamar su derecho. En el caso de la parte final del artículo 31 del presente Reglamento, la autoridad aduandera (sic) competente expedirá y entregará el certificado en el momento de la asignación de los cupos.
+Tratándose de asignación directa, una vez transcurrido el plazo a que se refiere la fracción II del artículo 33 de este Reglamento, el interesado deberá presentarse ante la Secretaría dentro de los cinco días siguientes para conocer la decisión y reclamar su derecho. En el caso de la parte final del artículo 31 del presente Reglamento, la Secretaría establecerá la forma en que se reconocerá que la operación se hizo al amparo del cupo.
 
 ###### Artículo 36.
 
@@ -369,7 +427,9 @@ Los certificados otorgados por medio de licitación pública serán nominativos 
 
 ## TITULO IV. PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL
 
-### CAPITULO I. Definiciones
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 37.
 
@@ -382,6 +442,18 @@ II. Mercancías similares, los productos que, aun cuando no sean iguales en todo
 ###### Artículo 38.
 
 El margen de discriminación de precios de la mercancía se definirá como la diferencia entre su valor normal y su precio de exportación, relativa a este último precio.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Artículo 38 A. Para efectos del artículo 38 de la Ley, el monto de la subvención se calculará en función del beneficio obtenido por el receptor.
+
+La metodología para calcular el monto de la subvención en función del beneficio obtenido, podrá considerar las condiciones y características particulares de cada subvención, del país que la otorga; así como, si existe una investigación por discriminación de precios para la misma mercancía. La citada metodología deberá considerar las directrices establecidas en el artículo 14 del Acuerdo sobre Subvenciones y Medidas Compensatorias de la Organización Mundial del Comercio.
+
+Por regla general, cuando la subvención se conceda a la producción, el valor total del beneficio se asignará con base en la producción o las ventas; en caso de que la subvención se conceda a la exportación, dicho beneficio se asignará con base en las ventas de exportación del producto del que se trate.
+
+Cuando la subvención se conceda para la adquisición, presente o futura, de activo fijo, el beneficio se asignará a lo largo de un periodo que corresponda al de la depreciación normal de dicho activo fijo en la industria de que se trate.
+
+Cuando la subvención no pueda vincularse a la adquisición de activo fijo, el importe del beneficio obtenido durante el periodo de investigación, deberá atribuirse a dicho periodo, salvo que existan circunstancias especiales que justifiquen la atribución a un periodo diferente.
 
 ### CAPITULO II
 
@@ -407,21 +479,33 @@ Los precios de exportación se ponderarán según la participación relativa que
 
 Cuando, a juicio de la Secretaría, el número de tipos de mercancía o la cantidad de transacciones a investigar sea excepcionalmente grande, el margen de discriminación de precios podrá determinarse sobre la base de una muestra representativa. En ambos casos, las muestras deberán seleccionarse conforme a criterios estadísticos generalmente aceptados.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 42.
 
-Para los efectos del párrafo segundo del artículo 31 de la Ley, se considerará que las ventas no permiten una comparación válida cuando no sean representativas o tengan precios que no estén determinados en el curso de operaciones comerciales normales. En términos generales, los precios comparables de mercancías idénticas o similares en el mercado interno o, en su caso, los de exportación a un tercer país, se considerarán como representativos cuando contabilicen, por lo menos, el 15 por ciento del volumen total de ventas de la mercancía sujeta a investigación.
+Para los efectos del párrafo segundo del artículo 31 de la Ley, cuando la mercancía idéntica o similar no sea objeto de ventas en el curso de operaciones comerciales normales en el mercado interno del país exportador o cuando, a causa de una situación especial del mercado o del bajo volumen de las ventas en el mercado interno del país exportador, tales ventas no permiten una comparación válida, el margen de discriminación de precios se determinará mediante comparación con un precio comparable del producto similar cuando éste se exporte a un tercer país apropiado, a condición de que este precio sea representativo, o con el costo de producción en el país de origen más una cantidad razonable por concepto de gastos administrativos, de venta y de carácter general, así como por concepto de beneficios.
+
+Se considerará una cantidad suficiente para determinar el valor normal de las mercancías, las ventas del producto similar destinado al consumo en el mercado interno del país exportador si dichas ventas representan el 5 por ciento o más de las ventas del producto exportado a México; será aceptable una proporción menor cuando existan pruebas que demuestren que las ventas en el mercado interno, aunque representen esa menor proporción, son de magnitud suficiente para permitir una comparación adecuada.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 43.
 
-Para efectos de lo dispuesto por el segundo párrafo del artículo 32 de la Ley, el solicitante deberá aportar la información que justifique la exclusión correspondiente. En estos casos, la Secretaría podrá tener en cuenta el hecho que, durante el periodo de investigación, los precios de venta hayan sido excepcionalmente bajos o los costos y gastos excepcionalmente altos, debido a situaciones de carácter transitorio o coyuntural.
+Para efectos de lo dispuesto por el segundo párrafo del artículo 32 de la Ley, cuando el solicitante pida la exclusión correspondiente, deberá aportar la información que la justifique. En estos casos, la Secretaría podrá tener en cuenta el hecho que, durante el periodo de investigación, los precios de venta o los costos y gastos hayan sido excepcionalmente bajos o altos.
 
-Por regla general, las ventas internas con utilidades o las de exportación a un tercer país en la misma condición, se considerarán como representativas cuando contabilicen, por lo menos, el 30 por ciento del mercado relevante.
+Las ventas de la mercancía idéntica o similar en el mercado interno del país exportador, o las ventas a un tercer país a precios inferiores a los costos unitarios, fijos y variables, de producción más los gastos administrativos, de venta y de carácter general, podrán considerarse no realizadas en el curso de operaciones comerciales normales por razones de precio, y podrán no tomarse en cuenta en el cálculo del valor normal, únicamente si se determina que esas ventas se han efectuado durante un periodo prolongado en cantidades sustanciales y a precios que no permiten recuperar todos los costos dentro de un plazo razonable. Si los precios inferiores a los costos unitarios, en el momento de la venta, son superiores al promedio ponderado de los costos unitarios correspondientes al periodo objeto de investigación, se considerará que esos precios permiten recuperar los costos dentro de un plazo razonable.
+
+El periodo prolongado de tiempo deberá ser normalmente de un año, y nunca inferior a seis meses.
+
+Se considerará que se habrán efectuado ventas a precios inferiores a los costos unitarios en cantidades sustanciales, cuando las autoridades establezcan que el promedio ponderado de los precios de venta de las operaciones consideradas para la determinación del valor normal, es inferior al promedio ponderado de los costos unitarios, o que el volumen de las ventas efectuadas a precios inferiores a los costos unitarios, no representa menos del 20 por ciento del volumen vendido en las operaciones consideradas para el cálculo del valor normal.
 
 ###### Artículo 44.
 
 El costo de producción, los gastos generales y el margen de utilidad deberán corresponder a operaciones comerciales normales.
 
-En lo relativo al costo de producción, cuando los materiales y componentes se compren a proveedores vinculados en los términos del artículo 61 de este Reglamento, la Secretaría deberá comprobar que los precios de estas transacciones son semejantes a los de las operaciones de compra con partes no vinculadas. Si los precios de adquisición de partes vinculadas resultan ser inferiores a los precios de operaciones de compra con partes no vinculadas, para efecto de los cálculos del costo de producción, los primeros se reemplazarán por los segundos.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+En lo relativo al costo de producción, cuando los materiales y componentes se compren a proveedores vinculados en los términos del artículo 61 de este Reglamento, la parte interesada deberá probar que los precios de estas transacciones son semejantes a los de las operaciones de compra con partes no vinculadas. Si los precios de adquisición de partes vinculadas resultan ser inferiores a los precios de operaciones de compra con partes no vinculadas, para efecto de los cálculos del costo de producción, los primeros se reemplazarán por los segundos.
 
 Cuando sólo se hayan efectuado compras a proveedores vinculados, los precios de adquisición se compararán contra los precios a los que los proveedores vinculados hayan vendido los mismos materiales y componentes a empresas no vinculadas. Si este segundo método no es practicable, los precios de operaciones de compra con partes no vinculadas se obtendrán mediante cualquier otro método de investigación económica y con base en los hechos de que se tenga conocimiento.
 
@@ -503,29 +587,29 @@ Para efecto del cálculo de los conceptos anteriores, la Secretaría admitirá c
 
 ###### Artículo 47.
 
-En el caso de las empresas comercializadoras, el costo de adquisición se tomará como costo de producción. En los términos del primer párrafo del artículo 44 de este Reglamento, el costo de adquisición deberá determinarse en el curso de operaciones comerciales normales. Se considerarán como tales las compras por parte de las empresas comercializadoras que no impliquen pérdidas para las empresas proveedoras, es decir, las compras con precios superiores al costo de producción más los gastos generales de las empresas proveedoras. La Secretaría deberá verificar los costos de producción y los gastos generales de las empresas proveedoras antes de efectuar esta comparación.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-Cuando las compras de las empresas comercializadoras que generen utilidades a las empresas proveedoras sean representativas, el costo de producción para las primeras se calculará según el costo de adquisición registrado durante el periodo de investigación. En el caso contrario, el costo de producción se estimará mediante el valor reconstruido determinado por la Secretaría para las empresas proveedoras. Para efecto del cálculo de los gastos generales y el margen de utilidad, las proporciones derivadas a nivel empresa se aplicarán sobre los costos de adquisición efectivamente observados.
-
-Cuando la empresa comercializadora esté situada en un país diferente al país de origen de la mercancía, el costo de producción será el que se haya incurrido en el país de origen, incrementado por todos los costos y gastos involucrados en trasladar e internar la mercancía del país de origen al de procedencia. En este caso, los gastos generales y la utilidad serán aquellos del país de procedencia.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 48.
 
-Para los efectos del artículo 33 de la Ley, se entenderá por economías centralmente planificadas, independientemente del nombre con el que se les designe, salvo prueba en contrario, aquellas cuyas estructuras de costos y precios no reflejen principios de mercado, o en las que las empresas del sector o industria bajo investigación tengan estructuras de costos y precios que no se determinen conforme a dichos principios. Lo anterior, de manera que en ambos casos las ventas del producto idéntico o similar en tal país no reflejen el valor de mercado, o el valor de los factores de producción utilizados para fabricar un producto idéntico o similar en un tercer país con economía de mercado. A fin de determinar si una economía es de mercado, se tomarán en cuenta, entre otros, los siguientes criterios: que la moneda del país extranjero bajo investigación sea convertible de manera generalizada en los mercados internacionales de divisas; que los salarios de ese país extranjero se establezcan mediante libre negociación entre trabajadores y patrones; que las decisiones del sector o industria bajo investigación sobre precios, costos y abastecimiento de insumos, incluidas las materias primas, tecnología, producción, ventas e inversión, se adopten en respuesta a las señales de mercado y sin interferencias significativas del Estado; que la industria bajo investigación posea exclusivamente un juego de libros de registro contable que se utilizan para todos los efectos y que son auditados conforme a criterios de contabilidad generalmente aceptados; que los costos de producción y situación financiera del sector o industria bajo investigación no sufren distorsiones en relación con la depreciación de activos, deudas incobrables, comercio de trueque y pagos de compensación de deudas, u otros factores que se consideren pertinentes.
+Para los efectos del artículo 33 de la Ley, se entenderá por economías centralmente planificadas las economías que no sean de mercado, independientemente del nombre con el que se les designe, cuyas estructuras de costos y precios no reflejen principios de mercado, o en las que las empresas del sector o industria bajo investigación tengan estructuras de costos y precios que no se determinen conforme a dichos principios.
 
-Por país sustituto se entenderá un tercer país con economía de mercado similar al país exportador con economía centralmente planificada. La similitud entre el país sustituto y el país exportador se definirá de manera razonable, de tal modo que el valor normal en el país exportador, en ausencia de una economía planificada, pueda aproximarse sobre la base del precio interno en el país sustituto. En particular, para efectos de seleccionar al país sustituto, deberán considerarse criterios económicos tales como el costo de los factores que se utilizan intensivamente en la producción del bien sujeto a investigación.
+Para determinar si una economía es de mercado, se tomarán en cuenta, entre otros, los siguientes criterios: que la moneda del país extranjero bajo investigación sea convertible de manera generalizada en los mercados internacionales de divisas; que los salarios de ese país extranjero se establezcan mediante libre negociación entre trabajadores y patrones; que las decisiones del sector o industria bajo investigación sobre precios, costos y abastecimiento de insumos, incluidas las materias primas, tecnología, producción, ventas e inversión, se adopten en respuesta a las señales de mercado y sin interferencias significativas del Estado; que se permitan inversiones extranjeras y coinversiones con firmas extranjeras; que la industria bajo investigación posea exclusivamente un juego de libros de registro contable que se utilizan para todos los efectos, y que son auditados conforme a principios de contabilidad generalmente aceptados; que los costos de producción y situación financiera del sector o industria bajo investigación no sufren distorsiones en relación con la depreciación de activos, deudas incobrables, comercio de trueque y pagos de compensación de deudas, u otros factores que se consideren pertinentes.
 
-La mercancía sobre la cual se determine el valor normal deberá ser originaria del país sustituto. Cuando el valor normal se determine según el precio de exportación en un país sustituto, dicho precio deberá referirse a un mercado distinto a México. De no existir ningún país sustituto con economía de mercado en el cual se produzcan mercancías idénticas o similares a las exportadas por el país con economía centralmente planificada, podrá considerarse como país sustituto el propio mercado mexicano.
+Por país sustituto se entenderá un tercer país con economía de mercado similar al país exportador con economía que no sea de mercado. La similitud entre el país sustituto y el país exportador se definirá de manera razonable, de tal modo que el valor normal en el país exportador, pueda aproximarse sobre la base del precio interno en el país sustituto. En particular, para efectos de seleccionar al país sustituto, deberán considerarse criterios económicos tales como la similitud de los procesos de producción, la estructura del costo de los factores que se utilizan intensivamente en dicho proceso, correspondientes al producto investigado o, de no ser posible, al grupo o gama más restringido de productos que lo incluyan tanto en el país de origen como en el país sustituto.
+
+La mercancía sobre la cual se determine el valor normal deberá ser originaria del país sustituto. Cuando el valor normal se determine según el precio de exportación del país sustituto a un tercero, dicho precio deberá referirse a un mercado distinto a México. De no existir ningún país sustituto con economía de mercado en el cual se produzcan mercancías idénticas o similares a las exportadas por el país con economía que no sea de mercado podrá considerarse como país sustituto el propio mercado mexicano.
 
 ###### Artículo 49.
 
 Cuando, en los términos del segundo párrafo del artículo 34 de la Ley, el valor normal se determine conforme al precio de mercado del país de origen, el precio de exportación deberá llevarse a la misma base.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 50.
 
-Cuando el exportador y el importador estén vinculados por alguna de las formas a que alude el artículo 61 de este Reglamento y existan arreglos compensatorios entre ambos, el precio de exportación se podrá calcular conforme a lo dispuesto por el artículo 35 de la Ley.
+Cuando el exportador y el importador estén vinculados por alguna de las formas a que alude el artículo 61 de este Reglamento o existan arreglos compensatorios entre ambos, el precio de exportación se podrá calcular conforme a lo dispuesto por el artículo 35 de la Ley.
 
 En este caso, se deberán deducir todos los gastos incurridos entre la exportación y la reventa, incluidos los pagos por impuestos y aranceles en el país importador, así como los márgenes de utilidad por importación y distribución.
 
@@ -593,11 +677,15 @@ Los efectos de la inflación sobre la información que sirva de base para la det
 
 Para efectos de conversión de divisas, el tipo de cambio aplicable deberá corresponder a la fecha en la cual cada transacción se llevó a cabo.
 
-### CAPITULO III. Daño y amenaza de daño a la producción nacional
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO III. Daño a una rama de producción nacional
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 59.
 
-La Secretaría habrá de constatar a través del procedimiento de investigación correspondiente que el daño o amenaza de daño a que se refiere el artículo 39 de la Ley, deriva del análisis mínimo de todos los elementos a que se refieren los artículos 41 y 42 del mismo ordenamiento. En ningún caso, la autoridad investigadora determinará la existencia de daño conforme lo establece la legislación civil.
+La Secretaría habrá de constatar, a través del procedimiento de investigación correspondiente, que el daño a que se refiere el artículo 39 de la Ley deriva del análisis mínimo de todos los elementos a que se refieren los artículos 41 y 42 del mismo ordenamiento, según corresponda. En ningún caso, la autoridad investigadora determinará la existencia de daño conforme lo establece la legislación civil.
 
 ###### Artículo 60.
 
@@ -641,83 +729,99 @@ C. El insumo de origen agropecuario se utilice en la misma línea continua de pr
 
 La aplicación de esta disposición deberá ser consistente con los compromisos adquiridos por México en tratados o convenios internacionales.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 63.
 
-Para la determinación de la existencia de daño, la Secretaría deberá evaluar el impacto de las importaciones investigadas sobre la producción nacional total, o sobre aquellos productores nacionales cuya producción conjunta constituya la parte principal de la producción nacional total de la mercancía de que se trate.
+Para la determinación de la existencia de daño, la Secretaría deberá evaluar el impacto de las importaciones investigadas sobre la rama de producción nacional.
 
-Si los solicitantes no representan al total de la producción nacional, éstos deberán presentar a la Secretaría, a través de los formularios que ésta determine, la información de la producción nacional total siempre que las cifras requeridas se encuentren razonablemente disponibles para los solicitantes. En todo caso, siempre deberán presentar en la solicitud una estimación confiable, y la metodología correspondiente, de las cifras relativas a la producción nacional total considerada.
+Los solicitantes deberán presentar a la Secretaría, a través de los formularios de investigación respectivos, la información de la producción nacional total, siempre que las cifras requeridas se encuentren razonablemente disponibles. En todo caso, siempre deberán presentar en la solicitud una estimación confiable, y la metodología correspondiente, de las cifras relativas a la producción nacional total considerada.
 
-La Secretaría deberá asegurarse de que la determinación del daño correspondiente sea representativa de la situación de la producción nacional total. Para tal efecto, la Secretaría deberá allegarse de la información necesaria de los productores nacionales no solicitantes y estos últimos deberán presentar a la Secretaría la información que se les requiere.
+La Secretaría deberá asegurarse de que la determinación de daño correspondiente sea representativa de la situación de la rama de producción nacional.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 64.
 
 Para efectos del artículo 41 de la Ley, la Secretaría tomará en cuenta:
 
-I. Con respecto al volumen de las importaciones investigadas, si ha habido un aumento considerable de las mismas en términos absolutos o en relación con la producción nacional destinada al mercado interno o el consumo interno del país. La Secretaría evaluará si las importaciones investigadas concurren al mercado nacional para atender los mismos mercados o a los mismos consumidores actuales o potenciales de los productores nacionales y si utilizan los mismos canales de distribución;
+I. Con respecto al volumen de las importaciones investigadas, si ha habido un aumento considerable de las mismas en términos absolutos o en relación con la producción nacional o el consumo interno del país. La Secretaría evaluará si las importaciones investigadas concurren al mercado nacional para atender los mismos mercados o a los mismos consumidores actuales o potenciales de los productores nacionales y si utilizan los mismos canales de distribución;
 
-II. En relación a los efectos de las importaciones sujetas a investigación sobre los precios internos:
+II. En relación con los efectos de las importaciones sujetas a investigación sobre los precios internos:
 
 A. Se analizará el comportamiento y la tendencia de los precios de las importaciones investigadas y si éstos muestran una disminución en el periodo investigado con respecto a los que se habían observado en periodos comparables, o si éstos son inferiores al resto de las importaciones que no se realizan en condiciones de discriminación de precios o de subvención;
 
-B. Si existe una relación significativa entre la disminución de los precios de las importaciones y el crecimiento de los volúmenes importados;
+B. Si existe relación entre la disminución de los precios de las importaciones y el crecimiento de los volúmenes importados;
 
-C. Si las importaciones investigadas tienen un precio de venta considerablemente inferior al precio de venta comparable del producto nacional similar;
+C. Si las importaciones investigadas tienen un precio de venta considerablemente inferior al precio de venta comparable del producto nacional similar, o bien, si el efecto de las importaciones investigadas es deprimir los precios internos de otro modo, o impedir el alza razonable que en otro caso se hubiera producido, y
 
-D. Si el efecto de las importaciones investigadas es deprimir los precios internos o impedir en la misma medida el alza razonable que en otro caso se hubiera producido, y
+D. Si el nivel de precios a los que concurren las importaciones investigadas al mercado nacional es el factor determinante para explicar el comportamiento y la participación de las mismas en el mercado nacional;
 
-E. Si el nivel de precios a los que concurren las importaciones investigadas al mercado nacional es el factor determinante para explicar el comportamiento y la participación de las mismas en el mercado nacional;
+III. Con respecto a los efectos de las importaciones investigadas sobre la rama de producción nacional de mercancías idénticas o similares, deberá realizarse una evaluación sobre las operaciones de la industria en el territorio nacional. Dicha evaluación deberá incluir el impacto de las cantidades y los precios de las importaciones investigadas sobre todos los factores e índices económicos pertinentes que influyan sobre la condición de la rama de producción nacional correspondiente, tales como:
 
-III. Con respecto a los efectos de las importaciones investigadas sobre la producción nacional de mercancías idénticas o similares, deberá realizarse una evaluación sobre las operaciones de la industria en el territorio nacional. Dicha evaluación deberá incluir el impacto de las cantidades y los precios de las importaciones investigadas sobre todos los factores e índices económicos pertinentes que influyan sobre la condición de la industria correspondiente, tales como:
+A. La disminución real y potencial de las ventas, los beneficios, el volumen de producción, la participación en el mercado, la productividad, el rendimiento de las inversiones o la utilización de la capacidad instalada;
 
-A. La disminución real y potencial de la producción y el empleo, las ventas internas, la participación en el mercado, la productividad, la utilización de la capacidad instalada y el aumento real o potencial de los inventarios;
+B. Los factores que afecten a los precios internos;
 
-B. Los factores que repercutan en los precios internos tales como las condiciones o términos de venta, y
+C. La magnitud del margen de discriminación de precios o, en el caso de subvenciones en agricultura, si ha habido un aumento del costo de los programas de ayuda del gobierno, y
 
-C. Los efectos negativos reales o potenciales de la depresión o contención de los precios internos y de las ventas sobre las utilidades, el flujo de caja, el rendimiento de las inversiones, los salarios, la capacidad de reunir capital, la inversión y el crecimiento de la producción, y
+D. Los efectos negativos reales o potenciales en el flujo de caja, las existencias, el empleo, los salarios, el crecimiento, la capacidad para reunir capital o la inversión;
 
 IV. Otros elementos que considere convenientes, referidos a factores o índices económicos relevantes para la industria en cuestión no contemplados en los incisos anteriores. En este caso, la Secretaría deberá identificar dichos factores y explicar la importancia de los mismos en la determinación respectiva.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 65.
 
-La Secretaría deberá evaluar los factores económicos descritos en el artículo anterior dentro del contexto del ciclo económico y las condiciones de competencia específicas a la industria afectada. Para tal fin, los solicitantes aportarán la información de los factores e indicadores relevantes y característicos de la industria considerando por lo menos tres años previos a la presentación de la solicitud, incluyendo el periodo investigado, salvo que la empresa de que se trate se haya constituido en un lapso menor. Asimismo, los productores nacionales solicitantes o las organizaciones que los representen aportarán estudios económicos, monografías, literatura técnica y estadísticas nacionales e internacionales sobre el comportamiento del mercado en cuestión, o cualquier otra documentación que permita identificar los ciclos económicos y las condiciones de competencia específicas a la industria afectada.
+La Secretaría deberá evaluar los factores económicos descritos en los artículos 41 y 42 de la Ley, dentro del contexto del ciclo económico y las condiciones de competencia específicas a la industria afectada. Para tal fin, los solicitantes aportarán la información de los factores e indicadores relevantes y característicos de la industria considerando normalmente tres años previos a la presentación de la solicitud, incluyendo el periodo investigado, salvo que la empresa de que se trate se haya constituido en un lapso menor. Asimismo, las partes interesadas aportarán estudios económicos, monografías, literatura técnica y estadísticas nacionales e internacionales sobre el comportamiento del mercado en cuestión, o cualquier otra documentación que permita identificar los ciclos y las condiciones de competencia específicas a la industria afectada.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 66.
 
-El efecto de las importaciones en condiciones de prácticas desleales se evaluará en relación con la producción nacional del producto idéntico o similar cuando los datos disponibles permitan identificarla separadamente con arreglo a criterios tales como el proceso de producción, las ventas de los productores y sus beneficios. Si no es posible efectuar tal identificación separada de esa producción, el efecto de tales importaciones se evaluará analizando la producción del grupo o gama más restringido de productos que incluya el producto idéntico o similar y del que sí se pueda proporcionar toda la información necesaria para la prueba de daño.
+El efecto de las importaciones en condiciones de prácticas desleales se evaluará en relación con la rama de la producción nacional del producto idéntico o similar cuando los datos disponibles permitan identificarla separadamente con arreglo a criterios tales como el proceso de producción, las ventas de los productores y sus beneficios. Si no es posible efectuar tal identificación separada de esa producción, el efecto de tales importaciones se evaluará analizando la producción del grupo o gama más restringido de productos que incluya el producto idéntico o similar y del que sí se pueda proporcionar toda la información necesaria para la prueba de daño.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 67.
 
-Para la determinación de daño, cuando las importaciones de un producto procedente de más de un país sean objeto simultáneamente de investigaciones en materia de prácticas desleales de comercio internacional, la Secretaría evaluará acumulativamente el volumen y los efectos de esas importaciones, siempre que las importaciones procedentes de los países investigados compitan entre ellas y con los productos idénticos o similares a los importados que se fabriquen en México.
+Para la determinación de daño, cuando las importaciones de un producto procedente de más de un país sean objeto simultáneamente de investigaciones en materia de prácticas desleales de comercio internacional, la Secretaría podrá evaluar acumulativamente los efectos de las importaciones sólo si determina lo siguiente:
 
-La Secretaría podrá dejar de evaluar acumulativamente los efectos de las importaciones de determinada procedencia, si dichas importaciones no son significativas y no tienen algún efecto adverso identificable sobre la producción nacional. Con el fin de determinar lo anterior, la Secretaría realizará un análisis del comportamiento de tales importaciones y tomará en cuenta los factores económicos relevantes, considerando lo siguiente:
+I. Que el margen de discriminación de precios o el monto de la subvención establecido con relación a las importaciones investigadas de cada país proveedor es más que de minimis, y el volumen de las importaciones reales o potenciales originarias de cada país no es insignificante, y
 
-I. Si la tasa de crecimiento del volumen y la participación de las importaciones analizadas en el mercado nacional no muestra ningún indicio de un incremento sostenido durante el periodo investigado, ni la probabilidad real de que aumente en el futuro inmediato.
+II. Que procede la evaluación acumulativa de los efectos de las importaciones considerando las condiciones de competencia entre los productos importados y el producto nacional similar.
 
-II. Si las ventas del producto importado, procedente del país en cuestión, en el mercado nacional son aisladas y esporádicas, y
+Se considerará de minimis el margen de discriminación de precios cuando sea inferior al 2 por ciento sobre el precio de exportación o, normalmente, cuando la cuantía de la subvención sea inferior al 1 por ciento ad valorem.
 
-III. Si por la naturaleza del producto investigado y las características específicas del mercado nacional, la presencia de tales importaciones no tiene ninguna influencia identificable sobre los precios internos o los factores que influyen sobre los precios del producto nacional y las condiciones de la industria nacional que produce la mercancía idéntica o similar.
+Normalmente se considerará insignificante el volumen de las importaciones objeto de discriminación de precios cuando se establezca que las procedentes de un determinado país representan menos del 3 por ciento de las importaciones del producto similar, salvo que los países que individualmente representan menos de este porcentaje sumen en conjunto más del 7 por ciento de esas importaciones.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 68.
 
 Para efectos del artículo 42 de la Ley, la Secretaría tomará en cuenta:
 
-I. Si se observa una elevada tasa de crecimiento de las importaciones investigadas en el mercado nacional que indique la probabilidad fundada de que se produzca un aumento sustancial de dichas importaciones en el futuro inmediato. Asimismo, se evaluará si una consecuencia del crecimiento de tales importaciones es el incremento acelerado y sostenido de la participación de tales importaciones en el mercado nacional y la probabilidad fundada de que los índices de participación aumenten a un nivel que pueda causar daño a la producción nacional. Para tal efecto, La Secretaría considerará, entre otros elementos, si las importaciones investigadas concurren al mercado nacional para atender los mismos mercados o a los mismos consumidores actuales o potenciales de los productores nacionales y si utilizan los mismos canales de distribución;
+I. Si se observa una elevada tasa de crecimiento de las importaciones investigadas en el mercado nacional que indique la probabilidad fundada de que se produzca un aumento sustancial de dichas importaciones en el futuro inmediato a un nivel que pueda causar daño a la rama de producción nacional. Para tal efecto, la Secretaría considerará, entre otros elementos, si las importaciones investigadas concurren al mercado nacional para atender los mismos mercados o a los mismos consumidores actuales o potenciales de los productores nacionales y si utilizan los mismos canales de distribución;
 
-II. La capacidad libremente disponible del exportador o un aumento inminente y sustancial de la misma que indique la probabilidad fundada de un aumento significativo de las exportaciones en condiciones de precios discriminados o subvencionados al mercado mexicano, considerando la existencia de otros mercados de exportación que puedan absorber el posible aumento de dichas exportaciones;
+II. La capacidad libremente disponible del exportador o un aumento inminente y sustancial de la misma que indique la probabilidad de un aumento significativo de las exportaciones que sean objeto de discriminación de precios o de subvenciones al mercado mexicano, considerando la existencia de otros mercados de exportación que puedan absorber el posible aumento de las exportaciones;
 
-III. Si las importaciones investigadas se realizan a precios tales que repercutirán sensiblemente en los precios nacionales haciéndolos bajar o impidiendo que suban. Asimismo, se evaluará si existe una probabilidad real de que los precios a los que se realizan las importaciones investigadas harán aumentar significativamente la cantidad demandada de nuevas importaciones. En este caso se incluirán los factores que repercutan sobre los precios internos, entre otros, la modificación de condiciones o términos de venta a algunos clientes como consecuencia directa de las importaciones investigadas;
+III. Si las importaciones investigadas se realizan a precios tales que repercutirán sensiblemente en los precios nacionales haciéndolos bajar o impidiendo que suban. Asimismo, se evaluará si existe una probabilidad real de que los precios a los que se realizan las importaciones investigadas harán aumentar significativamente la cantidad demandada de nuevas importaciones. En este caso, se podrán incluir los factores que repercutan sobre los precios internos, entre otros, la modificación de condiciones o términos de venta a algunos clientes como consecuencia directa de las importaciones investigadas;
 
-IV. Los inventarios del producto investigado en el mercado nacional;
+IV. Las existencias de la mercancía objeto de investigación en el mercado nacional o del exportador;
 
-V. En su caso, la rentabilidad esperada de las inversiones factibles. Los proyectos de inversión deberán referirse a la línea de producción del producto investigado. Los productores nacionales afectados deberán aportar los estudios económicos y financieros que sirvieron de soporte para la realización del proyecto, así como los modelos de simulación financiera que muestren los efectos negativos de las importaciones investigadas sobre la rentabilidad esperada, y
+V. En su caso, la naturaleza de la subvención de que se trate y los efectos que es probable tenga en el comercio, y
 
-VI. Cualquier otra tendencia económica demostrable que permita inferir que las importaciones en condiciones de prácticas desleales causarán daño a la producción nacional. En la determinación de la amenaza de daño se utilizarán las técnicas disponibles generalmente aceptadas.
+VI. Cualquier otra tendencia económica demostrable que permita inferir que las importaciones en condiciones de discriminación de precios o de subvenciones causarán daño a la rama de producción nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 69.
 
-La Secretaría examinará otros factores de que tenga conocimiento, distintos de las importaciones objeto de investigación, que al mismo tiempo afecten a la producción nacional, para determinar si el daño o amenaza de daño alegados son causados directamente por dichas importaciones. Entre los factores que la Secretaría podrá evaluar estarán los siguientes:
+La Secretaría examinará otros factores de los que tenga conocimiento, distintos de las importaciones objeto de investigación, que al mismo tiempo afecten a la rama de producción nacional, para determinar si el daño alegado es causado por dichas importaciones. Entre los factores que la Secretaría podrá evaluar estarán los siguientes:
 
-I. El volumen y los precios de las importaciones que no se realizan en condiciones de discriminación de precios o de subvención;
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+I. El volumen y los precios de las importaciones que no se realizan en condiciones de discriminación de precios o de subvenciones;
 
 II. La contradicción de la demanda o variaciones en la estructura de consumo;
 
@@ -729,113 +833,105 @@ IV. La evolución de la tecnología, la productividad y los resultados de la act
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 70.
 
-Para determinar la procedencia de una medida de salvaguarda, la Secretaría llevará a cabo una investigación conforme al procedimiento administrativo previsto en la Ley, en los tratados o convenios internacionales suscritos por México y en este Reglamento. Sólo se podrán aplicar medidas de salvaguarda si como resultado de la investigación la Secretaría determina, sobre la base de pruebas, que las importaciones totales del producto investigado han aumentado en tal cantidad y se realizan en condiciones tales que constituyen una causa sustancial de daño serio o amenaza de daño serio a la producción nacional de mercancías idénticas, similares o directamente competitivas.
+Para determinar la procedencia de una medida de salvaguarda, la Secretaría llevará a cabo una investigación conforme al procedimiento administrativo previsto en la Ley, en este Reglamento y en los tratados o convenios internacionales de los que México sea parte.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 71.
 
-Para la determinación de daño serio o amenaza de daño serio, la Secretaría deberá evaluar el impacto de las importaciones investigadas sobre la producción nacional total de las mercancías idénticas, similares o directamente competitivas o de aquellos productores nacionales cuya producción conjunta constituya una proporción importante de la producción nacional total de dichas mercancías.
+Para la determinación de daño grave o amenaza de daño grave, la Secretaría deberá evaluar el impacto de las importaciones investigadas sobre la rama de producción nacional de las mercancías idénticas o similares o directamente competidoras.
 
-Si los solicitantes no representan al total de la producción nacional, éstos deberán presentar a la Secretaría, a través de los formularios de investigación respectivos, la información de la producción nacional total siempre que las cifras requeridas se encuentren razonablemente disponibles para los solicitantes. En todo caso, deberán presentar en la solicitud una estimación confiable, y la metodología correspondiente, de las cifras requeridas por la Secretaría relativas a la producción nacional total considerada.
+Los solicitantes deberán presentar a la Secretaría, a través de los formularios de investigación respectivos, la información de la producción nacional total, siempre que las cifras requeridas se encuentren razonablemente disponibles. En todo caso, deberán presentar en la solicitud una estimación confiable, y la metodología correspondiente, de las cifras relativas a la producción nacional total considerada.
 
-En cualquier caso, la Secretaría deberá constatar que la determinación de daño serio o amenaza de daño serio correspondiente sea representativa de la situación de la producción nacional total. Para tal efecto, la Secretaría deberá allegarse de la información necesaria de los productores nacionales no solicitantes y estos últimos deberán presentarla en la forma y términos requeridos.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 72.
 
-Para determinar que el incremento de las importaciones causa daño serio a la producción nacional, la Secretaría tendrá en cuenta:
-
-I. Si ha habido un crecimiento considerable de las importaciones totales del producto de que se trate en un periodo relativamente corto, tanto en términos absolutos como en relación al consumo o la producción nacional, así como si ha habido una pérdida sostenida de la participación de la producción nacional en el mercado interno;
-
-II. Los factores económicos pertinentes, de carácter objetivo y cuantificable, que muestren el deterioro de la producción nacional, en particular;
-
-A. La disminución sustancial de la utilización de la capacidad instalada;
-
-B. El que una parte sustancial de la producción nacional registre pérdidas sostenidas;
-
-C. El cierre de empresas;
-
-D. La disminución sostenida en los niveles de ocupación, y
-
-E. Otros factores que muestren condiciones de deterioro económico y financiero de la producción nacional considerada. En este caso, se deberá identificar cada uno de los factores tomados en cuenta y explicar la importancia de los mismos en la resolución respectiva.
+Para los efectos de lo dispuesto por el artículo 48 de la Ley, sólo se efectuará una determinación positiva en aquellos casos en que se demuestre, sobre la base de pruebas objetivas, la existencia de una relación de causalidad entre el aumento de las importaciones del producto de que se trate y el daño grave o la amenaza de daño grave. Cuando haya otros factores, distintos del aumento de las importaciones, que al mismo tiempo causen daño a la rama de producción nacional, este daño no se atribuirá al aumento de las importaciones.
 
 ###### Artículo 73.
 
-Para determinar que el incremento de las importaciones amenaza causar daño serio a la producción nacional, la Secretaría tendrá en cuenta:
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-I. El crecimiento considerable de las importaciones totales del producto de que se trate en un periodo relativamente corto, tanto en términos absolutos y relativos, así como la tendencia a una pérdida sostenida de participación de la producción nacional en el mercado interno, y
-
-II. Los factores económicos pertinentes, de carácter objetivo y cuantificable, que muestren el deterioro de la producción nacional, en particular:
-
-A. La disminución de las ventas, la producción, la productividad, el empleo y en su caso el aumento sostenido de los inventarios de la producción nacional;
-
-B. La disminución de las utilidades, así como la imposibilidad de financiar inversiones factibles y generar capital, y
-
-C. Otros factores que indiquen tendencias económicas adversas sobre la producción nacional. En este caso, se deberá identificar cada uno de los factores tomados en cuenta y explicar la importancia de los mismos en la determinación respectiva.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 74.
 
-La Secretaría evaluará los factores económicos relevantes para la industria dentro del contexto del ciclo económico y las condiciones de competencia específicas a la industria afectada. Para tal fin, los solicitantes aportarán la información de los factores e indicadores relevantes y característicos de la industria considerando por lo menos tres años previos a la presentación de la solicitud, incluyendo el periodo investigado, salvo que la empresa de que se trate se haya constituido en un lapso menor. Asimismo, los productores nacionales solicitantes o las organizaciones que los representen aportarán estudios económicos, monografías, literatura técnica y estadísticas nacionales e internacionales sobre el comportamiento del mercado en cuestión, o cualquier otra documentación que permita identificar los ciclos económicos y las condiciones de competencia específicas a la industria afectada.
+La Secretaría evaluará los factores señalados en el artículo 48 de la Ley, dentro del contexto del ciclo económico y las condiciones de competencia específicas de la rama de producción nacional en cuestión. Para tal fin, los solicitantes aportarán la información de los factores e indicadores relevantes y característicos de la industria considerando normalmente tres años previos a la presentación de la solicitud, incluyendo el periodo investigado, salvo que la empresa de que se trate se haya constituido en un lapso menor. Asimismo, las partes interesadas aportarán estudios económicos, monografías, literatura técnica y estadísticas nacionales e internacionales sobre el comportamiento del mercado en cuestión, o cualquier otra documentación que permita identificar los ciclos económicos y las condiciones de competencia específicas de la rama de producción nacional afectada.
 
 ## TITULO VI. PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 75.
 
-La solicitud de parte interesada por la que se inicie una investigación administrativa en materia de prácticas desleales de comercio internacional, además de presentarse por escrito y de cumplir con los requisitos previstos en el artículo 50 de la Ley, se presentará con el formulario que expida la Secretaría, el que contendrá lo siguiente:
+La solicitud de parte interesada por la que se inicie una investigación administrativa en materia de prácticas desleales de comercio internacional, además de presentarse por escrito y de cumplir con los requisitos previstos en los artículos 50 y 51 de la Ley, se presentará con el formulario que expida la Secretaría, dicha solicitud contendrá lo siguiente:
 
 I. La autoridad administrativa competente ante la cual se promueva;
 
 II. Nombre o razón social y domicilio del promovente y, en su caso, de su representante, acompañando los documentos que lo acrediten;
 
-III. Actividad principal a la que se dedica el promovente;
+III. Actividad principal del promovente;
 
 IV. Volumen y valor de la producción nacional del producto idéntico o similar al de importación;
 
 V. Descripción de la participación del promovente, en volumen y valor, en la producción nacional;
 
-VI. En su caso, los miembros de la organización a la que pertenezca, indicando el número de ellos y acompañando los elementos que demuestren la participación porcentual que tengan las mercancías que producen en relación con la producción nacional;
+VI. Los fundamentos legales en que se sustenta;
 
-VII. Los fundamentos legales en que se sustenta;
+VII. Descripción de la mercancía de cuya importación se trate, acompañando las especificaciones y características comparativamente con la de producción nacional y, los demás datos que la individualicen; el volumen y valor que se importó o pretenda importarse con base en la unidad de medida correspondiente y su clasificación arancelaria conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
 
-VIII. Descripción de la mercancía de cuya importación se trate, acompañando las especificaciones y elementos que demuestren su calidad comparativamente con la de producción nacional y, los demás datos que la individualicen; el volumen y valor que se importó o pretenda importarse con base en la unidad de medida correspondiente y su clasificación arancelaria conforme a la Tarifa de la Ley del Impuesto General de Importación;
+VIII. Nombre o razón social y domicilio de las personas que se tenga conocimiento efectuaron la importación o de quienes pretenden realizarla, aclarando si dicha importación se realizó o realizará en una o varias operaciones;
 
-IX. Nombre o razón social y domicilio de quiénes efectuaron la importación o de quiénes pretenden realizarla, aclarando si dicha importación se realizó o realizará en una o varias operaciones;
+IX. Nombre del país o países de origen y de procedencia de la mercancía, según se trate, y el nombre o razón social de la persona o personas que se tenga conocimiento que realizaron o pretendan realizar la exportación presuntamente en condiciones desleales a México;
 
-X. Nombre del país o países de origen o de procedencia de la mercancía, según se trate, y, el nombre o razón social de la persona o personas que hayan realizado o pretendan realizar la exportación en condiciones desleales a México;
+X. Manifestación de los hechos y datos, acompañados de las pruebas razonablemente disponibles, en los que se funde su petición. Estos hechos deberán narrarse sucintamente, con claridad y precisión, de los que se infiera la probabilidad fundada de la existencia de la práctica desleal de comercio internacional;
 
-XI. Manifestación de los hechos y datos, acompañados de las pruebas razonablemente disponibles, en los que se funde su petición. Estos hechos deberán narrarse sucintamente, con claridad y precisión, de los que se infiera la probabilidad fundada de la existencia de la práctica desleal de comercio internacional;
+XI. Indicación de la diferencia entre el valor normal y el precio de exportación comparables o, en su caso, de la incidencia de la subvención en el precio de exportación.
 
-XII. Indicación de la diferencia entre el valor normal y el precio de exportación comparables o, en su caso, de la incidencia de la subvención en el precio de exportación;
+Para efectos de lo señalado en el párrafo anterior, se describirá la metodología de cálculo que se empleó para la determinación del valor normal, el precio de exportación y los ajustes propuestos, indicando las fuentes de información consultadas en cada caso;
 
-XIII. En el caso de subvenciones, además, la información y los hechos relacionados con esta práctica desleal, la autoridad u órgano gubernamental extranjero involucrado, la forma de pago o transferencias y el monto de la subvención para el productor o exportador extranjero de la mercancía;
+XII. En el caso de subvenciones, además, la información y los hechos relacionados con esta práctica desleal, la autoridad u órgano gubernamental extranjero involucrado, la forma de pago o transferencias y el monto de la subvención para el productor o exportador extranjero de la mercancía;
 
-XIV. Los elementos probatorios que permitan apreciar que debido a la introducción al mercado nacional de las mercancías de que se trate, se causa o amenaza causar daño a la producción nacional;
+XIII. Los elementos probatorios que permitan apreciar que debido a la introducción al mercado nacional de las mercancías de que se trate, se causa daño a la rama de producción nacional;
 
-XV. En su caso, descripción de peticiones de otras medidas de regulación o restricción comercial relacionadas con la mercancía objeto de la solicitud, y
+XIV. En su caso, descripción de peticiones de otras medidas de regulación o restricción comercial relacionadas con la mercancía objeto de la solicitud, y
 
-XVI. Los demás que se considere necesarios.
+XV. Lo demás que se considere necesario.
 
-Las solicitudes a que se refiere este artículo deberán consignar, además de lo señalado en las fracciones anteriores, la firma autógrafa del interesado o de quien actúa en su nombre o representación.
+La solicitud a que se refiere este artículo deberá contar con la firma autógrafa del interesado o de quien actúa en su representación.
 
-La solicitud y documentos anexos deberán ser presentados en original y tantas copias como importadores, exportadores y, en su caso, gobiernos extranjeros nombren en su solicitud, así como una versión pública de los mismos contenida en los medios magnéticos que indique la Secretaría.
+La solicitud y documentos anexos deberán ser presentados en original y en tantas copias como señale la Secretaría en el formulario oficial.
+
+Las copias de traslado se deberán presentar a más tardar con la respuesta a la prevención, en tantas copias como importadores, exportadores y, en su caso, gobiernos extranjeros se nombren en su solicitud y en la respuesta a la prevención. Dichas copias deberán presentarse por el medio que determine la Secretaría. De no cumplir con esta obligación, la solicitud se tendrá por abandonada.
 
 El procedimiento de investigación no será obstáculo para el despacho ante la aduana correspondiente de las mercancías involucradas en la investigación.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 76.
 
-La investigación sobre prácticas desleales de comercio internacional versará sobre la existencia de discriminación de precios o de subvención y el daño causado o que pueda causarse a la producción nacional. Comprenderá un periodo que cubra las importaciones de mercancías idénticas o similares a las de la producción nacional que puedan resultar afectadas, que se hubiesen realizado durante un periodo de por lo menos seis meses anterior al inicio de la investigación.
+La investigación sobre prácticas desleales de comercio internacional comprenderá las importaciones de mercancías idénticas o similares a las de la producción nacional que se hubiesen realizado durante un periodo que será normalmente de un año y en ningún caso menor a 6 meses, el cual deberá ser lo más cercano posible a la presentación de la solicitud. El periodo de análisis para evaluar el daño normalmente será de tres años e incluirá el periodo investigado.
 
-El periodo de investigación a que se refiere el párrafo anterior podrá modificarse a juicio de la Secretaría por un lapso que abarque las importaciones realizadas con posterioridad al inicio de la investigación. En este caso, las resoluciones que impongan cuotas compensatorias provisionales o definitivas estarán referidas tanto al periodo original como al periodo ampliado.
+El periodo de investigación a que se refiere el párrafo anterior podrá modificarse a juicio de la Secretaría por un lapso que abarque las importaciones realizadas con posterioridad a la presentación de la solicitud.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 77.
 
-No obstante lo dispuesto en el artículo anterior, para la evaluación del daño o amenaza de daño a la producción nacional, la Secretaría podrá requerir al solicitante o a cualquier otro productor nacional o persona relacionada con la actividad económica de que se trate, la información o datos que considere pertinentes que correspondan a un periodo máximo de cinco años anterior a la presentación de la solicitud.
+No obstante lo dispuesto en el artículo anterior, para la evaluación del daño a la rama de producción nacional, la Secretaría podrá requerir al solicitante o a cualquier otro productor nacional o persona que estime conveniente, la información o los datos que considere pertinentes que correspondan a un periodo máximo de cinco años anterior a la presentación de la solicitud.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 78.
 
-Si la solicitud es oscura o irregular, la Secretaría deberá, por una sola vez, prevenir al solicitante para que la aclare, corrija o complete, para lo cual se le devolverá, indicándole en forma concreta sus defectos e imprecisiones. Transcurridos los 20 días a que se refiere la fracción II del artículo 52 de la Ley, la Secretaría le dará curso o la desechará, según proceda.
+La Secretaría podrá, por una sola vez, prevenir al solicitante para que aclare, corrija o complete su solicitud, indicándole en forma concreta sus deficiencias e imprecisiones. Transcurridos los veinte días a que se refiere la fracción II del artículo 52 de la Ley, la Secretaría le dará curso, la desechará, o la declarará abandonada, según proceda.
 
 ###### Artículo 79.
 
@@ -845,6 +941,8 @@ En la revisión a que se refiere el párrafo anterior, la Secretaría se cercior
 
 Para que la Secretaría declare el inicio de una investigación contra importaciones que pretendan efectuarse, el interesado deberá cumplir, además de lo señalado en este artículo, con las disposiciones establecidas en la Ley y en este Reglamento que resulten aplicables.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 80.
 
 Las resoluciones de inicio, preliminares y finales de las investigaciones en materia de prácticas desleales de comercio internacional contendrán los siguientes datos:
@@ -853,15 +951,15 @@ I. La autoridad que emite el acto;
 
 II. La fundamentación y motivación que sustenten la resolución;
 
-III. El o los nombres o razón social y domicilios del productor o productores nacionales de mercancías idénticas o similares;
+III. El nombre o razón social y domicilio del solicitante o solicitantes de la investigación;
 
-IV. El o los nombres o razón social y domicilios del importador o de los importadores, exportadores extranjeros o, en su caso, de los órganos o autoridades de los gobiernos extranjeros de los que se tenga conocimiento;
+IV. El nombre o razón social y domicilio del importador o de los importadores, exportadores extranjeros o, en su caso, de los órganos o autoridades de los gobiernos extranjeros de los que se tenga conocimiento;
 
 V. El país o países de origen o procedencia de las mercancías de que se trate;
 
-VI. La descripción detallada de la mercancía que se haya importado o, en su caso, pretenda importarse, presumiblemente en condiciones de discriminación de precios o que hubiera recibido una subvención, indicando la fracción arancelaria que le corresponda de la Tarifa del Impuesto General de Importación;
+VI. La descripción de la mercancía objeto de investigación, indicando la fracción arancelaria que le corresponda de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
 
-VII. La descripción de la mercancía nacional idéntica o similar a la mercancía que se haya importado o se esté importando;
+VII. La descripción de la mercancía nacional idéntica o similar a la mercancía objeto de investigación;
 
 VIII. El periodo objeto de investigación, y
 
@@ -869,33 +967,35 @@ IX. Los demás que considere la Secretaría.
 
 ### CAPITULO II. Resolución de inicio
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 81.
 
 Además de los datos señalados en el artículo anterior, la resolución de inicio a que se refiere el artículo 52 de la Ley deberá contener:
 
-I. Una convocatoria a las partes interesadas y, en su caso, a los gobiernos extranjeros, para que comparezcan a manifestar lo que a su derecho convenga;
+I. Una convocatoria a las partes interesadas y, en su caso, a los gobiernos extranjeros, para que comparezcan a manifestar lo que a su derecho convenga, y
 
-II. El periodo probatorio, y
-
-III. El día, la hora y lugar en que tendrá verificativo la audiencia pública y la presentación de los alegatos a que se refieren los artículos 81 y 82 de la Ley.
+II. El periodo probatorio.
 
 ### CAPITULO III. Resolución preliminar
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 82.
 
 La resolución preliminar a que se refiere el artículo 57 de la Ley, contendrá además de los datos señalados en los artículos 80 y 81, fracción II, de este Reglamento, los siguientes:
 
-I. En el caso de que se haya probado la existencia de prácticas desleales de comercio internacional:
+I. En el caso de que se haya determinado preliminarmente la existencia de prácticas desleales de comercio internacional:
 
 A. El valor normal y el precio de exportación obtenidos por la Secretaría, salvo que se trate de información que una parte interesada considere confidencial o comercial reservada;
 
-B. Una descripción de la metodología que se siguió para la determinación del valor normal y el precio de exportación, y, en su caso, del monto de la subvención y de su incidencia en el precio de exportación de conformidad con los Capítulos II y III del Título V de la Ley así como los artículos aplicables del Capítulo II del Título IV de este Reglamento, salvo que se trate de información que una parte interesada considere confidencial o comercial reservada;
+B. Una descripción de la metodología que se siguió para la determinación del valor normal y el precio de exportación y, en su caso, del monto de la subvención y de su incidencia en el precio de exportación, de conformidad con los Capítulos II y III del Título V de la Ley así como los artículos aplicables del Capítulo II del Título IV de este Reglamento, salvo que se trate de información que una parte interesada considere confidencial o comercial reservada;
 
-C. El margen de discriminación de precios, las características y el monto de la subvención, así como la incidencia de ésta en el precio de exportación;
+C. El margen de discriminación de precios, las características y el monto de la subvención;
 
-D. Una descripción del daño causado o que pueda causarse a la producción nacional;
+D. Una descripción del daño a la rama de producción nacional;
 
-E. La explicación sobre el análisis que realizó la Secretaría de cada uno de los factores indicados en los artículos 41 y 42 de la Ley, así como de los otros factores que haya tomado en cuenta, los cuales deberá identificarlos y explicar en detalle la importancia de cada uno de ellos en la resolución respectiva;
+E. La explicación sobre el análisis que realizó la Secretaría de los factores de daño previstos en la Ley y este Reglamento, así como de los otros factores que haya tomado en cuenta. Deberá identificar y explicar la importancia de cada uno de ellos en la resolución respectiva;
 
 F. En su caso, el precio de exportación no lesivo a la producción nacional y una descripción del procedimiento para determinarlo;
 
@@ -903,9 +1003,9 @@ G. El monto de la cuota compensatoria provisional que habrá de pagarse, y
 
 H. La mención de que se notificará a la Secretaría de Hacienda y Crédito Público para el cobro oportuno de las cuotas compensatorias;
 
-II. En caso de que no hayan variado las razones que motivaron el inicio de la investigación sobre prácticas desleales de comercio internacional, la mención de que continúa la investigación administrativa sin imponer cuotas compensatorias, con la fundamentación y motivación que corresponda, y
+II. En caso de que no hayan variado las razones que motivaron el inicio de la investigación sobre prácticas desleales de comercio internacional, la mención de que continúa la investigación administrativa sin imponer cuotas compensatorias, o
 
-III. En caso de que se compruebe la inexistencia de prácticas desleales de comercio internacional, la mención de que concluye la investigación administrativa sin imponer cuotas compensatorias, así como un resumen de la opinión de la Comisión sobre el sentido de la resolución.
+III. En caso de que se determine la inexistencia de prácticas desleales de comercio internacional, la mención de que concluye la investigación administrativa sin imponer cuotas compensatorias, así como la fecha en que se sometió el proyecto de resolución a opinión de la Comisión y el sentido en que ésta opinó.
 
 ### CAPITULO IV. Resolución final
 
@@ -921,9 +1021,13 @@ B. Una descripción de la metodología que se siguió para la determinación del
 
 C. El margen de discriminación de precios, las características y el monto de la subvención, así como la incidencia de ésta en el precio de exportación;
 
-D. Una descripción del daño causado o que pueda causarse a la producción nacional;
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-E. La explicación sobre el análisis que realizó la Secretaría de cada uno de los factores indicados en los artículos 41 y 42 de la Ley, así como de los otros factores que haya tomado en cuenta, los cuales deberá identificarlos y explicar en detalle la importancia de cada uno de ellos en la resolución respectiva;
+D. Una descripción del daño a la rama de producción nacional;
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+E. La explicación sobre el análisis que realizó la Secretaría de factores de daño previstos en la Ley y este Reglamento, así como de los otros factores que haya tomado en cuenta. Deberá identificar y explicar la importancia de cada uno de ellos en la resolución respectiva;
 
 F. En su caso, el precio de exportación no lesivo a la producción nacional y una descripción del procedimiento para determinarlo;
 
@@ -931,23 +1035,31 @@ G. El monto de las cuotas compensatorias definitivas que habrán de pagarse;
 
 H. La mención de que se notificará a la Secretaría de Hacienda y Crédito Público para el cobro de las cuotas compensatorias definitivas, y
 
-I. Un resumen de la opinión de la Comisión sobre el sentido de la resolución.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-II. En caso de que se compruebe la inexistencia de prácticas desleales de comercio internacional, la mención de que concluye la investigación administrativa sin imponer cuotas compensatorias, con la fundamentación y motivación que corresponda, así como un resumen de la opinión de la Comisión sobre el sentido de la resolución.
+I. La fecha en que se sometió el proyecto de resolución a opinión de la Comisión y el sentido de ésta.
+
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+II. En caso de que se determine la inexistencia de prácticas desleales de comercio internacional, la mención de que concluye la investigación administrativa sin imponer cuotas compensatorias, así como la fecha en que se sometió el proyecto de resolución a opinión de la Comisión y el sentido en que ésta opinó.
 
 ### CAPITULO V. Reuniones técnicas de información
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 84.
 
-La Secretaría llevará a cabo reuniones de información técnica con las partes interesadas que lo soliciten, dentro de un término de cinco días contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de las resoluciones preliminares y finales.
+La Secretaría llevará a cabo reuniones técnicas con las partes interesadas que lo soliciten dentro de un término de cinco días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de las resoluciones preliminares y finales de los procedimientos sobre discriminación de precios o de subvenciones.
 
-Las reuniones técnicas tendrán por objeto explicar la metodología que se utilizó para determinar los márgenes de discriminación de precios y los cálculos de las subvenciones, así como el daño o amenaza de daño y los argumentos de causalidad.
+Las reuniones técnicas tendrán por objeto explicar la metodología que se utilizó para determinar los márgenes de discriminación de precios y/o el monto de las subvenciones, así como el daño y la relación de causalidad.
 
-En dichas reuniones, los interesados tendrán derecho a obtener las hojas de cálculo y los programas de cómputo que, en su caso, la Secretaría hubiere empleado para dictar sus resoluciones.
+En dichas reuniones, las partes interesadas tendrán derecho a obtener un resumen de los cálculos que la Secretaría hubiere empleado para dictar sus resoluciones, siempre que se trate de su propia información.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 85.
 
-en las reuniones técnicas se levantará un reporte de información en el que se consignen los pormenores de la reunión. En el reporte se deberá plasmar la firma autógrafa de los asistentes. Las partes interesadas podrán formular las preguntas que estimen pertinentes siempre que se relacionen con la información que se revela y se observen las reglas de confidencialidad previstas en la Ley y en este Reglamento. El reporte deberá integrarse al expediente administrativo del caso.
+Se elaborará un reporte de las reuniones técnicas, el cual deberá integrarse al expediente administrativo correspondiente.
 
 ### CAPITULO VI. Audiencias conciliatorias
 
@@ -975,67 +1087,35 @@ En las audiencias conciliatorias no se aceptarán acuerdos, convenios o combinac
 
 Las cuotas compensatorias aplicadas a las importaciones procedentes de exportadores extranjeros que, habiéndoseles otorgado oportunidad de defensa, no hayan participado en la investigación, se fijarán conforme los márgenes de discriminación de precios de que tenga conocimiento la Secretaría.
 
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Artículo 89 A. En términos de lo dispuesto en el artículo 87 de la Ley, las cuotas compensatorias podrán establecerse en función de precios o valores de referencia. El monto de las cuotas compensatorias que así se determinen no podrá ser superior a los márgenes de discriminación de precios o al monto de la subvención calculado.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 90.
 
-Para los efectos del segundo párrafo del artículo 62 de la Ley, la cuota compensatoria podrá fijarse por debajo de los márgenes de discriminación de precios y del monto de las subvenciones, siempre que sea suficiente para eliminar el daño o amenaza de daño causado.
+Para los efectos del segundo párrafo del artículo 62 de la Ley, la cuota compensatoria podrá ser inferior al margen de discriminación de precios o al monto de la subvención, siempre que sea suficiente para eliminar el daño a la rama de producción nacional.
 
 ###### Artículo 91.
 
-Las partes interesadas podrán solicitar a la Secretaría, en cualquier tiempo, que resuelva si determinada mercancía está sujeta a una cuota compensatoria definitiva, en los términos del artículo 60 de la Ley, de conformidad con los siguientes requisitos y procedimientos:
-
-I. La solicitud deberá presentarse por escrito, ante la unidad administrativa competente de la Secretaría por el particular interesado o por quien actúe en su nombre y representación, acompañando los documentos que lo acrediten. En la solicitud se indicará con precisión y claridad:
-
-A. Los fundamentos legales y las razones que sustenten la petición, y
-
-B. La mercancía de que se trate, sus características físicas y especificaciones técnicas, origen, función, uso, calidad y naturaleza; en su caso, los componentes o insumos utilizados en su fabricación y demás datos que la individualicen, así como la descripción y clasificación arancelaria conforme a la Tarifa de la Ley del Impuesto General de Importación. La petición deberá acompañarse de muestras, catálogos y demás elementos que permitan identificar la mercancía.
-
-II. La Secretaría declarará el inicio del procedimiento mediante publicación en el Diario Oficial de la Federación. Además, notificará a las partes interesadas de que tenga conocimiento y convocará a las personas que consideren tener interés en el procedimiento, para que dentro de un plazo de 60 días contado a partir de la publicación del inicio del procedimiento en el Diario Oficial de la Federación, manifiesten lo que a su derecho convenga;
-
-III. Recibida la solicitud, la Secretaría dictará la resolución en un plazo máximo de 130 días contados a partir del día de la publicación en el Diario Oficial de la Federación del inicio del procedimiento;
-
-IV. La Secretaría valorará y analizará libremente los elementos y argumentaciones en que se sustenta la petición, para lo cual podrá proveerse de la información, datos, dictámenes y de otros medios que considere pertinentes para una resolución adecuada, y
-
-V. Si el solicitante considera que la mercancía debe estar excluida de la cuota compensatoria definitiva, tendrá derecho a no efectuar el pago respectivo, durante el procedimiento, siempre que exhiba ante la autoridad aduanera la garantía en alguna de las formas previstas en el Código Fiscal de la Federación.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ###### Artículo 92.
 
-Para los efectos del artículo anterior, si la Secretaría resolviere que la mercancía en cuestión debe estar sujeta al pago de la cuota compensatoria, el solicitante importador deberá pagarla junto con un recargo, de conformidad con las disposiciones fiscales aplicables.
-
-Si la Secretaría resolviere que el producto de que se trate no está sujeto al pago de la cuota compensatoria se cancelarán las garantías ofrecidas y, en su caso, se devolverán las cantidades pagadas, con los intereses correspondientes, los cuales se calcularán en la forma prevista en el párrafo anterior.
-
-El resultado del procedimiento a que se refiere el artículo anterior se publicará en el Diario Oficial de la Federación y se notificará a las partes interesadas. Esta resolución contendrá los datos indicados en el artículo 80 de este Reglamento y el sentido de la respuesta que corresponda.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ###### Artículo 93.
 
-Las partes interesadas podrán solicitar a la Secretaría, en cualquier tiempo, que aclare o precise determinado aspecto o aspectos de las resoluciones por las que se impongan cuotas compensatorias definitivas, de conformidad con los siguientes requisitos y procedimientos:
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-I. La solicitud deberá presentarse por escrito, ante la unidad administrativa competente de la Secretaría, por el particular interesado o por su quien actúe en su nombre y representación, acompañando los documentos que lo acrediten. En la solicitud se indicará con precisión y claridad:
-
-A. Las razones que sustenten la petición;
-
-B. La resolución de que se trate y la descripción del aspecto o aspectos que solicita se aclare o precise, y
-
-C. Los demás datos que permitan a la autoridad resolver la petición.
-
-II. Recibida la solicitud, la Secretaría dará respuesta al interesado en un plazo de 130 días contados a partir del día siguiente al de la presentación de la solicitud, y
-
-III. La Secretaría podrá requerir al particular interesado de la información, datos o cualquier documento que estime necesario para la solución de la cuestión planteada.
-
-La respuesta a la solicitud a que se refiere este artículo se publicará en el Diario Oficial de la Federación y notificará a las partes interesadas.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 94.
 
-Se procederá a cancelar o modificar las garantías que se hubieren constituido o, en su caso, a devolver, con los intereses correspondientes, las cantidades que se hubiesen enterado o la diferencia respectiva, según se trate, cuando la Secretaría elimine o modifique cuotas compensatorias definitivas:
+Además de lo dispuesto en los artículos 65 y 98 de la Ley, se podrá garantizar el pago de las cuotas compensatorias definitivas en los procedimientos de nuevo exportador, cobertura de producto, revisión y examen de vigencia de cuota compensatoria. La autoridad correspondiente podrá aceptar las garantías constituidas en la forma y términos previstos en el Código Fiscal de la Federación y su Reglamento.
 
-I. En los procedimientos de revisión de cuotas compensatorias definitivas;
-
-II. En los procedimientos de cobertura de producto a que se refiere el artículo 60 de la Ley;
-
-III. En los procedimientos que resuelvan los recursos de revocación;
-
-IV. En cumplimiento a sentencias dictadas por el Tribunal Fiscal de la Federación, y
-
-V. En las resoluciones finales que adopte la Secretaría como consecuencia de la decisión decretada en los mecanismos alternativos de solución de controversias en materia de prácticas desleales de comercio internacional contenidos en los tratados o convenios internacionales de los que México sea parte.
+Se procederá a cancelar o modificar las garantías que se hubiesen constituido o, en su caso, a devolver, con los intereses correspondientes, las cantidades que se hubieren enterado o la diferencia respectiva, según se trate, cuando la Secretaría elimine o modifique cuotas compensatorias.
 
 Los intereses a que se refiere este artículo serán los equivalentes al monto que correspondería a los rendimientos que se hubieran generado si el monto de las cuotas se hubiera invertido en Certificados de la Tesorería de la Federación, a la tasa más alta, desde la fecha en que se debió efectuar el pago de la cuota, hasta la fecha de la devolución.
 
@@ -1047,93 +1127,77 @@ Presentada la Solicitud y las pruebas que acrediten los hechos descritos en el p
 
 ###### Artículo 96.
 
-En los casos a que se refiere el artículo 71 de la Ley, la Secretaría publicará en el Diario Oficial de la Federación el inicio de un procedimiento y notificará al importador, exportador o, en su caso, al gobierno extranjero de que se trate, para que en un plazo máximo de 60 días contados a partir de la publicación referida manifiesten lo que a su derecho convenga.
-
-La Secretaría podrá requerir a las partes interesadas mayores elementos de prueba o datos, los que deberán proporcionarse dentro del plazo señalado por la autoridad. Si no se proporcionan en tiempo y forma las pruebas y datos requeridos, se procederá conforme a los hechos de que se tenga conocimiento.
-
-Agotado el procedimiento descrito en los párrafos anteriores, la Secretaría publicará en el Diario Oficial de la Federación la resolución que proceda, en un plazo máximo de 130 días contados a partir de la publicación a que se refiere el primer párrafo de este artículo y notificará a las partes interesadas de que tenga conocimiento.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ###### Artículo 97.
 
-La Secretaría aplicará las resoluciones firmes dictadas como consecuencia de un recurso de revocación, un juicio de nulidad o una resolución de la Secretaría por la que adopte la decisión de un mecanismo alternativo de solución de controversias en la medida en que sean pertinentes a las demás partes interesadas.
-
-Con el objeto de determinar si es pertinente la aplicación de las resoluciones firmes a las demás partes interesadas la Secretaría iniciará de oficio o a petición de parte un procedimiento sumario.
-
-La Secretaría publicará en el Diario Oficial de la Federación el inicio del procedimiento y lo notificará a las partes interesadas de que tenga conocimiento.
-
-Las partes interesadas o las personas que conforme a derecho participen en el procedimiento contarán con un plazo de 30 días para manifestar lo que convenga a sus intereses y rendir la información que la Secretaría le requiera.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ###### Artículo 98.
 
-Dentro de un plazo de 60 días contados a partir de la publicación del inicio del procedimiento, la Secretaría publicará en el Diario Oficial de la Federación la resolución que proceda, debiendo notificar a las partes interesadas que hayan comparecido.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-### CAPITULO VIII. Revisión de las cuotas compensatorias definitivas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO VIII. Revisión
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 99.
 
-En los términos del artículo 68 de la Ley, la Secretaría revisará las cuotas compensatorias definitivas con motivo de un cambio de las circunstancias por las que se determinó la existencia de discriminación de precios, o, en su caso, de la subvención.
+En los términos del artículo 68 de la Ley, la Secretaría llevará a cabo una revisión con motivo de un cambio de las circunstancias por las que se determinó:
 
-En el procedimiento de revisión de cuotas compensatorias definitivas se observarán las disposiciones sustantivas y de procedimiento previstas en la Ley y en este Reglamento, las relativas al inicio de los procedimientos, resolución preliminar, resolución final, audiencia conciliatoria, cuotas compensatorias, compromisos de exportadores y gobiernos, pruebas, alegatos, audiencias públicas, reuniones técnicas de información, notificaciones, verificaciones y otras disposiciones comunes a los procedimientos.
+I. La cuota compensatoria definitiva; o
+
+II. La existencia de discriminación de precios o, en su caso, de la subvención, y/o
+
+III. El daño a la rama de la producción nacional.
+
+En el procedimiento de revisión de cuotas compensatorias definitivas se observarán las disposiciones de procedimiento previstas en la Ley y en este Reglamento, relativas al inicio de los procedimientos, resolución preliminar, resolución final, audiencia conciliatoria, cuotas compensatorias, compromisos de exportadores y gobiernos, pruebas, alegatos, audiencias públicas, reuniones técnicas de información, notificaciones, verificaciones y otras disposiciones comunes a los procedimientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 100.
 
-El procedimiento de revisión podrá ser solicitado por las partes interesadas que hayan participado en el procedimiento que dio lugar a la cuota compensatoria definitiva o por cualquier productor, importador o exportador que sin haber participado en dicho procedimiento acredite su interés jurídico.
+El procedimiento de revisión podrá ser solicitado por las partes interesadas que hayan participado en el procedimiento que dio lugar a la cuota compensatoria definitiva o por cualquier otra que sin haber participado en dicho procedimiento acredite su interés jurídico.
 
 El inicio de una revisión y la conclusión del procedimiento respectivo se publicarán en el Diario Oficial de la Federación y se notificarán a las partes interesadas de que se tenga conocimiento conforme lo previsto en este Reglamento.
 
 La revisión de cuotas compensatorias definitivas iniciadas de oficio, estará sujeta a las disposiciones de procedimiento previstas para las investigaciones que dieron lugar a las cuotas que se revisan, en lo que corresponda.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 101.
 
-Cada año, durante el mes aniversario de la publicación en el Diario Oficial de la Federación de la cuota compensatoria definitiva, las partes interesadas podrán pedir por escrito que la Secretaría realice una revisión administrativa. En la solicitud de revisión de cuotas compensatorias definitivas, el interesado podrá pedir a la Secretaría:
-
-I. Si fuere exportador extranjero o importador de la mercancía de que se trate:
-
-A. Se examine o considere su margen individual de discriminación de precios, y
-
-B. En su caso, se modifique o elimine la cuota compensatoria.
-
-II. Si el solicitante es un productor nacional:
-
-A. Se examine el valor normal y el precio de exportación determinados en un periodo representativo, en el curso de operaciones comerciales normales, respecto de uno o varios exportadores extranjeros, y
-
-B. En su caso, se confirme o aumente la cuota compensatoria.
+Cada año, durante el mes aniversario de la publicación en el Diario Oficial de la Federación de la resolución final de la investigación que impuso originalmente la cuota compensatoria definitiva independientemente de que la misma se haya modificado, las partes interesadas podrán pedir por escrito que la Secretaría realice una revisión.
 
 En todo caso, el solicitante aportará la información y las pruebas pertinentes que justifiquen su petición.
-
-En el curso del procedimiento el productor nacional podrá solicitar se examine si al modificar o eliminar la cuota compensatoria definitiva, el daño o amenaza de daño volverían a producirse, para lo cual le incumbirá aportar las pruebas pertinentes.
 
 Las partes interesadas tendrán la obligación de acompañar a su solicitud, debidamente contestados, los formularios que para tal efecto establezca la Secretaría.
 
 ###### Artículo 102.
 
-El interesado tendrá la opción de garantizar el pago de la cuota compensatoria definitiva para el caso de que la resolución de la revisión confirme o modifique la cuota. La garantía se constituirá en la forma y términos previstos en el Código Fiscal de la Federación y su Reglamento.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ###### Artículo 103.
 
-Dentro de un plazo de 30 días contados a partir de la presentación de la solicitud, la Secretaría deberá:
-
-I. Aceptar la solicitud y declarar el inicio de la revisión, a través de la resolución respectiva que se notificará a las partes interesadas. La resolución a que se refiere esta fracción contendrá los datos señalados en el artículo 80 de este Reglamento.
-
-II. Requerir al solicitante mayores elementos de prueba o datos, los que deberán proporcionarse dentro de un plazo de 20 días contados a partir de la recepción de la prevención. De aportarse satisfactoriamente lo requerido, en un plazo de 20 días la Secretaría procederá conforme a lo dispuesto en la fracción anterior. Si no se proporcionan en tiempo y forma los elementos y datos requeridos, se tendrá por abandonada la solicitud y se notificará personalmente al solicitante, o
-
-III. Desechar la solicitud cuando no se presenta información o pruebas idóneas que la justifiquen y notificar personalmente al solicitante.
-
-Las resoluciones que se dicten conforme lo dispuesto en este artículo se publicarán en el Diario Oficial de la Federación.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ###### Artículo 104.
 
-Dentro de un plazo de 260 días, contados a partir del día siguiente al de la publicación en el Diario Oficial de la Federación de la resolución de inicio de la revisión, la Secretaría dictará la resolución correspondiente, la que se publicará en el Diario Oficial de la Federación y se notificará a las partes interesadas.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-La resolución por la que se declare concluida la revisión contendrá los datos a que se refieren los artículos 80 y 83 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 105.
 
-Si en la revisión se resuelve que no existe margen de discriminación de precios, se revocará la cuota compensatoria definitiva y la Secretaría revisará de oficio durante tres años en el mes aniversario.
+Si en la revisión se resuelve que no existe margen de discriminación de precios o monto de la subvención, no se aplicará la cuota compensatoria, y la Secretaría podrá llevar a cabo una revisión de oficio. En caso de que en la revisión se determine que las importaciones se realizaron en condiciones de discriminación de precios o de subvenciones, la Secretaría establecerá las cuotas compensatorias conforme a los resultados de dicha revisión.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 106.
 
-Si en la revisión resultan márgenes de discriminación de precios diferentes a los determinados en la investigación que dio lugar a las cuotas compensatorias definitivas, las nuevas cuotas compensatorias que se fijen sustituirán a las anteriores. Estas cuotas compensatorias tendrán el carácter de definitivas y podrán revisarse en los términos de la Ley y de este Reglamento.
+Si en una revisión resultan márgenes de discriminación de precios o monto de subvenciones diferentes a los establecidos en el último procedimiento por el que se determinó su existencia, se impondrán nuevas cuotas compensatorias que sustituirán a las anteriores. Estas cuotas compensatorias tendrán el carácter de definitivas y podrán revisarse en los términos de la Ley y de este Reglamento.
 
 ###### Artículo 107.
 
@@ -1145,19 +1209,23 @@ Los intereses a que se refiere este artículo se calcularán conforme a las disp
 
 ###### Artículo 108.
 
-La revisión de oficio se iniciará en cualquier tiempo. La resolución por la que se declare el inicio de la revisión contendrá los datos señalados en el artículo 80 de éste Reglamento, se publicará en el Diario Oficial de la Federación y se notificará a las partes interesadas.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ###### Artículo 109.
 
-La Secretaría procederá a declarar la eliminación de las cuotas compensatorias definitivas en los supuestos a que se refiere el artículo 70 de la Ley, siempre que notifique a las partes interesadas de que tenga conocimiento que ha transcurrido el plazo de ley. La declaratoria se publicará en el Diario Oficial de la Federación.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ### CAPITULO IX
 
 Compromisos de exportadores y gobiernos.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 110.
 
-Los compromisos de exportadores extranjeros y, en caso de subvenciones, de los representantes de gobiernos extranjeros a que se refiere el artículo 72 de la Ley podrán ser presentados a consideración de la Secretaría en cualquier momento del procedimiento y hasta antes del cierre del periodo probatorio respectivo.
+Los compromisos a que se refiere el artículo 72 de la Ley, podrán ser presentados una vez que la Secretaría haya determinado preliminarmente la existencia de la práctica desleal y hasta el cierre de la audiencia pública.
+
+La Secretaría podrá requerir la información, datos, documentos y los medios de prueba que estime pertinentes al exportador o gobierno extranjero interesados, a efecto de evaluar el compromiso.
 
 ###### Artículo 111.
 
@@ -1165,25 +1233,13 @@ Los compromisos a que alude este capítulo deberán ser presentados por escrito,
 
 ###### Artículo 112.
 
-Los exportadores o gobiernos extranjeros interesados podrán someter a la consideración de la Secretaría compromisos cuya ejecución elimine las prácticas de discriminación de precios o de subvenciones y el daño o amenaza de daño causados a la producción nacional. En consecuencia, los compromisos podrán consistir en:
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-I. Modificar los precios de exportación de la mercancía de que se trate;
-
-II. Eliminar completamente las causas que dan lugar a que el precio de exportación resulte un precio subvencionado;
-
-III. Limitar sus exportaciones, con la intervención del gobierno del país del exportador extranjero, a las cantidades que se convenga con la Secretaría;
-
-IV. Suspender completamente las exportaciones al país por el periodo que se convenga con la Secretaría;
-
-V. Limitar la subvención para la exportación de mercancías exportadas a México, y
-
-VI. Los demás que tengan efectos equivalentes a juicio de la Secretaría.
-
-La Secretaría podrá requerir la información, datos, documentos y los medios de prueba que estime pertinentes al exportador o gobierno extranjeros interesados, a efecto de evaluar libremente el compromiso.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 113.
 
-Recibido el compromiso a que se refiere el artículo anterior, la Secretaría remitirá la solicitud al expediente administrativo y notificará a las demás partes interesadas para que en un plazo de 10 días, contados a partir de que surta efectos la notificación, manifiesten sus opiniones. Si así se estimare conveniente, la Secretaría convocará a las partes interesadas en la investigación de que se trate, a una audiencia en la que se discutan la forma y términos de los compromisos asumidos y la factibilidad de su verificación.
+Recibido el compromiso, la Secretaría remitirá la solicitud al expediente administrativo y notificará a las demás partes interesadas para que en un plazo de 10 días, contados a partir de que surta efectos la notificación, manifiesten sus opiniones. Si así se estimare conveniente, la Secretaría convocará a las partes interesadas en la investigación de que se trate, a una audiencia en la que se discutan la forma y términos de los compromisos asumidos y la factibilidad de su verificación.
 
 ###### Artículo 114.
 
@@ -1199,9 +1255,11 @@ IV. El que los exportadores o los gobiernos extranjeros estén sujetos a investi
 
 No se aceptarán compromisos cuya verificación no resulte factible, sean de realización incierta a juicio de la Secretaría o impliquen acuerdos, convenios o combinaciones que atenten contra la libre concurrencia o impidan de algún modo la competencia económica.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 115.
 
-De aceptarse o rechazarse el compromiso del exportador o gobierno extranjeros interesados, la Secretaría establecerá en la resolución final correspondiente la forma y términos en que deberá ser cumplido el compromiso asumido, precisando si por virtud de él queda suspendido o concluido el procedimiento de que se trate y, en su caso, los fundamentos y motivos del rechazo.
+De aceptarse o rechazarse el compromiso del exportador o gobierno extranjero interesados, la Secretaría establecerá en la resolución correspondiente la forma y términos en que deberá ser cumplido el compromiso asumido, precisando si por virtud de él queda suspendido o concluido el procedimiento de que se trate y, en su caso, los fundamentos y motivos del rechazo.
 
 La resolución a que se refiere este artículo, se publicará en el Diario Oficial de la Federación y se notificará a las partes interesadas.
 
@@ -1229,59 +1287,143 @@ E. Las violaciones o agravios que le causa la resolución final, y
 
 II. Una vez presentada la solicitud, la Secretaría deberá solicitar, conforme a lo establecido en el tratado o convenio internacional de que se trate, el inicio del procedimiento de solución de controversias.
 
-### CAPITULO I. Disposiciones generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO XI. Procedimientos especiales
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Artículo 117 A. El procedimiento a que se refiere el artículo 89 A de la Ley, se substanciará de la siguiente forma:
+
+I. La solicitud deberá presentarse por escrito ante la unidad administrativa competente de la Secretaría, por el particular interesado o por quien actúe en su representación, acompañada de los documentos que lo acrediten, y reunir los requisitos siguientes:
+
+A. Los fundamentos legales y las razones que sustenten la petición;
+
+B. La descripción de la mercancía de que se trate, sus características físicas y especificaciones técnicas, origen, función, uso y naturaleza; en su caso, los componentes o insumos utilizados en su fabricación y demás datos que la individualicen, así como la descripción y clasificación arancelaria conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación. La petición deberá acompañarse de muestras, catálogos y demás elementos que permitan identificar la mercancía, y
+
+C. La firma autógrafa del interesado o de quien actúe en su representación;
+
+II. En caso de ser procedente, la Secretaría publicará en el Diario Oficial de la Federación la resolución de inicio del procedimiento dentro de los veinte días siguientes a la presentación de la solicitud o, en su caso, de la respuesta a la prevención y la notificará a las partes interesadas de que tenga conocimiento. En esta resolución se convocará a las personas que consideren tener interés en el procedimiento para que dentro de un plazo de quince días, contado a partir del día siguiente al de su publicación, manifiesten lo que a su derecho convenga, y
+
+III. La Secretaría publicará la resolución final en el Diario Oficial de la Federación dentro de un plazo de sesenta días, contado a partir del día siguiente de la publicación en el Diario Oficial de la Federación de la resolución de inicio del procedimiento y la notificará a las partes interesadas comparecientes.
+
+Si la Secretaría confirma que la mercancía en cuestión está sujeta al pago de la cuota compensatoria, ésta deberá pagarse junto con los recargos que correspondan de conformidad con las disposiciones fiscales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Artículo 117 B. El procedimiento de elusión de cuotas compensatorias o medidas de salvaguarda a que se refiere el artículo 89 B de la Ley, se substanciará de la siguiente forma:
+
+I. La solicitud deberá presentarse por escrito ante la unidad administrativa competente de la Secretaría, por el particular interesado o por quien actúe en su representación, acompañada de los documentos que lo acrediten y reunir los requisitos siguientes:
+
+A. Enunciar la resolución de que se trate y la descripción de los hechos que considera constituyen la elusión;
+
+B. Los fundamentos y las razones que sustenten la petición, y
+
+C. La firma autógrafa del interesado o de quien actúe en su representación;
+
+II. En caso de ser procedente, la Secretaría publicará en el Diario Oficial de la Federación la resolución de inicio del procedimiento dentro de los veinticinco días siguientes a la presentación de la solicitud o, en su caso, de la respuesta a la prevención y la notificará a las partes interesadas de que tenga conocimiento. En esta resolución convocará al importador, exportador o, en su caso, al gobierno extranjero de que se trate, para que en un plazo máximo de veintiocho días, contado a partir del día siguiente al de su publicación, manifiesten lo que a su derecho convenga;
+
+III. Posterior al vencimiento del periodo de ofrecimiento de pruebas, se celebrará una audiencia pública y se fijará el plazo para que las partes presenten sus alegatos, y
+
+IV. La Secretaría publicará la resolución final en el Diario Oficial de la Federación dentro de un plazo de ciento treinta días, contado a partir del día siguiente de la publicación de la resolución de inicio, y la notificará a las partes interesadas comparecientes.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Artículo 117 C. El procedimiento a que se refiere el artículo 89 C de la Ley, se substanciará de la siguiente forma:
+
+I. La solicitud deberá presentarse por escrito ante la unidad administrativa competente de la Secretaría, por el particular interesado o por quien actúe en su representación, acompañada de los documentos que lo acrediten, y reunir los requisitos siguientes:
+
+A. Enunciar la resolución de que se trate y la descripción del aspecto o aspectos que solicita se aclaren o precisen;
+
+B. Los fundamentos y las razones que sustenten la petición;
+
+C. Los demás que permitan a la autoridad resolver la petición, y
+
+D. La firma autógrafa del interesado o de quien actúe en su representación;
+
+II. Recibida la solicitud y, en caso de ser procedente, la Secretaría dará respuesta al interesado dentro de un plazo de sesenta días, contado a partir del día siguiente al de la presentación de la solicitud. La respuesta a la solicitud a que se refiere este artículo se publicará en el Diario Oficial de la Federación y se notificará a las partes interesadas de que tenga conocimiento.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Artículo 117 D. El procedimiento a que se refiere el artículo 89 D de la Ley, se substanciará de la siguiente forma:
+
+I. La solicitud deberá presentarse por escrito, ante la unidad administrativa competente de la Secretaría, por el particular interesado o por quien actúe en su representación, acompañada de los documentos que lo acrediten, cumplir con los requisitos previstos en la Ley, presentar debidamente requisitado el formulario respectivo que para tal efecto emita la Secretaría y consignar la firma autógrafa del interesado o de quien actúe en su representación;
+
+II. En caso de ser procedente, la Secretaría publicará en el Diario Oficial de la Federación la resolución de inicio del procedimiento dentro de los veinticinco días siguientes a la presentación de la solicitud o, en su caso, de la respuesta a la prevención. En esta resolución se convocará a las partes interesadas para que dentro de un plazo de veintiocho días, contado a partir del día siguiente al de su publicación, manifiesten lo que a su derecho convenga;
+
+III. Posterior al vencimiento del periodo de ofrecimiento de pruebas, se celebrará una audiencia pública y se fijará el plazo para que las partes presenten sus alegatos, y
+
+IV. La Secretaría publicará la resolución final en el Diario Oficial de la Federación dentro de un plazo de ciento treinta días, contado a partir del día siguiente de la publicación de la resolución de inicio, y la notificará a las partes interesadas de que tenga conocimiento.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Artículo 117 E. El procedimiento a que se refiere el artículo 89 E de la Ley sólo procederá para aquellas partes interesadas que presenten su solicitud y que, de conformidad con los tratados o convenios comerciales internacionales de los que México sea Parte, tengan ese derecho.
+
+La solicitud deberá presentarse por escrito, ante la unidad administrativa competente de la Secretaría, por el particular interesado o por quien actúe en su representación, y acompañar los documentos que lo acrediten.
+
+En caso de ser procedente, la Secretaría dará respuesta al interesado dentro de un plazo de sesenta días, contado a partir del día siguiente al de la presentación de la solicitud.
+
+La respuesta a la solicitud a que se refiere este artículo se publicará en el Diario Oficial de la Federación y se notificará al interesado.
 
 ## TITULO VII
 
 PROCEDIMIENTO EN MATERIA DE MEDIDAS DE SALVAGUARDA.
 
-### CAPITULO II. Resolución de inicio
+### CAPITULO I. Disposiciones generales
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 118.
 
-La solicitud de parte interesada por la que se inicie una investigación administrativa en materia de salvaguarda, además de presentarse por escrito y de cumplir con los requisitos previstos en el artículo 50 de la Ley, contendrá lo siguiente:
+La solicitud de parte interesada por la que se inicie una investigación administrativa en materia de salvaguarda, además de presentarse por escrito y de cumplir con los requisitos previstos en los artículos 50 y 51 de la Ley, se presentará con el formulario que expida la Secretaría, la que contendrá lo siguiente:
 
 I. La autoridad administrativa competente ante la cual se promueva;
 
 II. Su nombre o razón social y domicilio y, en su caso, de su representante, acompañando la documentación que lo acredite;
 
-III. Actividad principal a la que se dedica;
+III. Actividad principal del promovente;
 
-IV. Volumen y valor de la producción nacional del producto idéntico, similar o directamente competitivo al de importación;
+IV. Volumen y valor de la producción nacional del producto idéntico, similar o directamente competidor al de importación;
 
 V. Descripción de su participación, en volumen y valor, dentro de la producción nacional;
 
-VI. En su caso, los miembros de la organización a la que pertenezca, indicando el número de ellos y acompañando los elementos que demuestren la participación porcentual que tengan las mercancías que producen en relación con la producción nacional;
+VI. Los fundamentos legales en que se sustenta;
 
-VII. Los fundamentos legales en que se sustenta;
+VII. Descripción de la mercancía de cuya importación se trate, acompañando las especificaciones y características comparativamente con la de producción nacional y los demás datos que la individualicen; el volumen y valor que se importó con base en la unidad de medida correspondiente y su clasificación arancelaria conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
 
-VIII. Descripción de la mercancía de cuya importación se trate, acompañando las especificaciones y elementos que demuestren su calidad comparativamente con la de producción nacional y, los demás datos que la individualicen; el volumen y valor que se importó con base en la unidad de medida correspondiente y su clasificación arancelaria conforme a la Tarifa de la Ley del Impuesto General de Importación;
+VIII. Nombre o razón social y domicilio de quienes efectuaron la importación aclarando si se realizó en una o varias operaciones;
 
-IX. Nombre o razón social y domicilio de quienes efectuaron la importación aclarando si se realizó en una o varias operaciones;
+IX. Nombre del país o países de origen o de procedencia de la mercancía, según se trate y, el nombre o razón social de la persona o personas que hayan realizado la exportación;
 
-X. Nombre del país o países de origen o de procedencia de la mercancía, según se trate, y, el nombre o razón social de la persona o personas que hayan realizado la exportación;
+X. Análisis de la posición competitiva de la producción nacional que representa;
 
-XI. Análisis de la posición competitiva de la producción nacional que representa;
+XI. El programa de ajuste que se instrumentará en caso de imponerse una medida de salvaguarda, y su viabilidad;
 
-XII. El programa de ajuste que se instrumentará en caso de imponerse una medida de salvaguarda, y su viabilidad;
+XII. Descripción de los hechos y datos que demuestren que el aumento de las importaciones causa daño grave o amenaza de daño grave a la rama de producción nacional de la mercancía idéntica, similar o directamente competidora, y
 
-XIII. Descripción de los hechos y datos que demuestren que la causa única o principal de daño serio o amenaza de daño serio a la producción nacional de la mercancía idéntica, similar o directamente competitiva a la importada es el aumento sustancial de las importaciones, y
+XIII. En su caso, descripción de solicitudes de otras medidas de regulación o restricción comercial en relación a la mercancía objeto de la solicitud.
 
-XIV. En su caso, descripción de solicitudes de otras medidas de regulación o restricción comercial en relación a la mercancía objeto de la solicitud.
+La solicitud a que se refiere este artículo deberá contar con la firma autógrafa del interesado o de quien actúa en su representación.
 
-La solicitud a que se refiere este artículo deberá consignar la firma autógrafa del interesado o de su representante, y presentarse en original y tantas copias como importadores, exportadores o gobiernos extranjeros estén identificados en la solicitud.
+La solicitud y documentos anexos deberán ser presentados en original y en tantas copias como señale la Secretaría en el formulario oficial.
+
+Las copias de traslado se deberán presentar a más tardar con la respuesta a la prevención, en tantas copias como importadores, exportadores y, en su caso, gobiernos extranjeros nombren en su solicitud y en la respuesta a la prevención. Dichas copias deberán presentarse por el medio que determine la Secretaría. De no cumplir con esta obligación, la solicitud se tendrá por abandonada.
 
 El procedimiento de investigación no será obstáculo para el despacho ante la aduana correspondiente de las mercancías involucradas en la investigación.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 119.
 
-El procedimiento de investigación sobre medidas de salvaguarda versará sobre la existencia de importaciones en cantidades y condiciones tales que causen o amenacen causar un daño serio a la producción nacional. Comprenderá un periodo que cubra las importaciones de mercancías idénticas, similares o directamente competitivas a las de producción nacional que puedan resultar afectadas, que se hubiesen realizado en un periodo de seis meses anterior al inicio de la investigación, así como cualquier otro elemento relevante para el resultado de la misma.
+El procedimiento de investigación sobre medidas de salvaguarda comprenderá las importaciones de mercancías idénticas, similares o directamente competidoras a las de producción nacional que se hubiesen realizado durante un periodo que será normalmente de un año y en ningún caso menor a seis meses, el cual deberá ser lo más cercano posible a la presentación de la solicitud.
 
-El periodo de investigación a que se refiere el párrafo anterior podrá modificarse a juicio de la Secretaría. En este caso, las resoluciones que impongan medidas de salvaguarda estarán referidas al periodo modificado.
+El periodo de investigación a que se refiere el párrafo anterior podrá modificarse a juicio de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 120.
 
-Si la solicitud es oscura o irregular, la Secretaría deberá, por una sola vez, prevenir al solicitante para que la aclare, corrija o complete, para lo cual se le devolverá, indicándole en forma concreta sus defectos e imprecisiones. Transcurridos los 20 días a que se refiere la fracción II del artículo 52 de la Ley, la Secretaría le dará curso o la desechará, según proceda.
+La Secretaría podrá por una sola vez, prevenir al solicitante para que aclare, corrija o complete su solicitud, indicándole en forma concreta sus deficiencias e imprecisiones. Transcurridos los veinte días a que se refiere la fracción II del artículo 52 de la Ley, la Secretaría le dará curso, la desechará o la declarará abandonada, según proceda.
 
 ###### Artículo 121.
 
@@ -1295,31 +1437,35 @@ En la notificación a que se refiere el artículo anterior la Secretaría deber�
 
 La Secretaría evaluará la viabilidad del programa de ajuste competitivo que presenten los productores nacionales. Dicho programa se derivará de un análisis de los factores que influyen y determinan la competitividad del sector, a partir del cual se definirán las acciones y el tiempo estimado para su ejecución; estas acciones podrán variar como resultado de la evaluación que realice la Secretaría de la información aportada por las partes interesadas en el curso del procedimiento y de la que ella misma obtenga.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 124.
 
 Las resoluciones por las que se declare la aceptación de la solicitud y el inicio de la investigación administrativa, o impongan medidas de salvaguarda provisionales o definitivas deberán estar fundadas y motivadas. En consecuencia deberán contener los siguientes datos:
 
 I. La autoridad competente que emite el acto;
 
-II. El o los nombres o razón social y domicilios del productor o productores nacionales de la mercancía idéntica, similar o directamente competitiva;
+II. El nombre o razón social y domicilio del solicitante o de los solicitantes de la investigación;
 
-III. El o los nombres o razón social y domicilios del o de los importadores y de los exportadores;
+III. El nombre o razón social y domicilio del o de los importadores y de los exportadores de los que se tenga conocimiento;
 
-IV. El país o países de origen o procedencia de la mercancía idéntica, similar o directamente competitiva;
+IV. El país o países de origen o procedencia de la mercancía idéntica, similar o directamente competidora;
 
 V. La descripción del procedimiento de que se trata;
 
-VI. La descripción detallada de la mercancía que se haya importado o se esté importando, indicando la fracción arancelaria que le corresponda de la Tarifa de la Ley del Impuesto General de Importación;
+VI. La descripción de la mercancía objeto de investigación, indicando, entre otros datos, la fracción arancelaria que le corresponda de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
 
-VII. La descripción de la mercancía nacional idéntica, similar o directamente competitiva a la mercancía que se haya importado o se esté importando;
+VII. La descripción de la mercancía nacional idéntica, similar o directamente competidora a la mercancía objeto de investigación;
 
 VIII. El periodo objeto de investigación;
 
-IX. Los razonamientos y circunstancia consideradas por la autoridad para emitir la resolución, y
+IX. Los razonamientos y circunstancias consideradas por la autoridad para emitir la resolución, y
 
 X. Los demás datos que se acuerden en los tratados o convenios internacionales de los que México sea parte, y los que considere la Secretaría.
 
-### CAPITULO III. Resolución final
+### CAPITULO II. Resolución de inicio
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 125.
 
@@ -1327,21 +1473,19 @@ Además de los datos señalados en el artículo anterior, la resolución de inic
 
 I. Una convocatoria a las partes interesadas, y a los gobiernos extranjeros, a efecto de que comparezcan a manifestar lo que a su derecho convenga;
 
-II. El plazo en que dictará la resolución que imponga las medidas de salvaguarda que correspondan;
+II. El periodo para el ofrecimiento de pruebas, y
 
-III. El periodo para el ofrecimiento y, en su caso, desahogo de pruebas;
+III. La mención de que se notificará a los países signatarios del tratado o convenio internacional del que México sea parte, con el objeto de celebrar consultas.
 
-IV. Fecha, hora y lugar en que deberá celebrarse la audiencia pública y la presentación de alegatos a que se refieren los artículos 81 y 82 de la Ley, y
-
-V. La mención de que se notificará a los países signatarios del tratado o convenio internacional del que México sea parte, con el objeto de celebrar consultas.
-
-### CAPITULO IV. Medidas de salvaguarda provisionales ante circunstancias críticas
+### CAPITULO III. Resolución final
 
 ###### Artículo 126.
 
 Además de los datos señalados en el artículo 124 de este Reglamento, la resolución final deberá contener:
 
-I. La descripción del daño serio causado o que pueda causarse a la producción nacional;
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+I. La descripción del daño grave o amenaza de daño grave a la rama de producción nacional;
 
 II. La descripción del volumen y las condiciones en que se realizaron las importaciones;
 
@@ -1355,7 +1499,9 @@ VI. La mención de que se notificará a los países signatarios del tratado o co
 
 VII. La mención de que se notificará a la Secretaría de Hacienda y Crédito Público para la aplicación oportuna de la medida impuesta, y
 
-VIII. Un resumen de la opinión de la Comisión sobre el sentido de la resolución.
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+VIII. La fecha en que se sometió el proyecto de resolución final a opinión de la Comisión y el sentido en que ésta opinó.
 
 ###### Artículo 127.
 
@@ -1375,15 +1521,11 @@ VI. Otros factores relacionados con el interés público o la seguridad nacional
 
 Asimismo, la Secretaría podrá recomendar otro tipo de medidas o acciones que puedan contribuir al ajuste competitivo del sector sin restringir los flujos comerciales.
 
-### CAPITULO V. Otras disposiciones
+### CAPITULO IV. Medidas de salvaguarda provisionales ante circunstancias críticas
 
 ###### Artículo 128.
 
-Las medidas provisionales de salvaguarda a las que se refiere el artículo 78 de la Ley podrán establecerse siempre y cuando se cuente con pruebas o evidencias razonables de que el incremento de las importaciones constituye una causa sustancial de daño serio o amenaza de daño serio a la producción nacional de mercancías idénticas, similares o directamente competitivas y, además, de que:
-
-I. El incremento de las importaciones es sustancial en un periodo relativamente corto y de que este incremento ha generado condiciones tales para los productores nacionales que cualquier demora en la aplicación de las medidas provocará que el daño serio difícilmente pueda repararse en el tiempo previsto en el procedimiento, y
-
-II. En el caso de que se determine provisionalmente amenaza de daño serio, sólo podrán aplicarse medidas provisionales si los productos investigados son productos agrícolas perecederos y se determina que por la propia naturaleza del producto del daño serio no puede prevenirse en el tiempo previsto en el procedimiento.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ###### Artículo 129.
 
@@ -1397,7 +1539,9 @@ El programa de ajuste se deberá presentar dentro de un plazo que no excederá l
 
 La resolución que imponga medidas de salvaguarda provisionales a que se refiere el artículo 78 de la Ley contendrá, además de los datos señalados en el artículo 124 de este Reglamento, los siguientes:
 
-I. Descripción de las circunstancias críticas causadas por el daño serio o amenaza de daño serio;
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+I. Descripción de las circunstancias críticas causadas por el daño grave o amenaza de daño grave;
 
 II. El tipo de medida de salvaguarda que se establece, y
 
@@ -1407,9 +1551,13 @@ III. La mención de que se notificará a la Secretaría de Hacienda y Crédito P
 
 La resolución que imponga medidas de salvaguarda definitivas a que se refiere el artículo 79 de la Ley contendrá, además de los datos señalados en el artículo 124 de este Reglamento, los siguientes:
 
-I. En caso de que se confirme la existencia de un daño serio o amenaza de daño serio causado a la producción nacional por el aumento de las importaciones en volúmenes y condiciones a que se refiere la Ley y este Reglamento:
+> <small>(REFORMADA PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-A. Descripción del daño serio causado o que pueda causarse a la producción nacional;
+I. En caso de que se confirme la existencia de un daño grave o amenaza de daño grave causado a la rama de producción nacional por el aumento de las importaciones en volúmenes y condiciones a que se refiere la Ley y este Reglamento:
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+A. Descripción del daño grave o amenaza de daño grave a la rama de producción nacional;
 
 B. Descripción del volumen y las condiciones en que se realizaron las importaciones;
 
@@ -1417,13 +1565,15 @@ C. El tipo de medida de salvaguarda que se establece;
 
 D. La mención de que se notificará a la Secretaría de Hacienda y Crédito Público para la aplicación oportuna de la medida impuesta, y
 
-E. Un resumen de la opinión de la Comisión sobre el sentido de la resolución.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-II. En caso de que se compruebe que el aumento de las importaciones en volúmenes y condiciones tales no causa o amenaza causar daño serio a la industria nacional, la mención de que concluye el procedimiento de investigación administrativa sin imponer medidas de salvaguarda.
+E. La fecha en que se sometió el proyecto de resolución final a opinión de la Comisión y el sentido en que ésta opinó.
 
-### CAPITULO I
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
 
-Investigación de oficio, organizaciones legalmente constituidas, desistimiento, expediente administrativo y remisión de copias a los interesados.
+II. En caso de que se compruebe que el aumento de las importaciones en volúmenes y condiciones tales no causa o amenaza causar daño grave a la rama de producción nacional, la mención de que concluye el procedimiento de investigación administrativa sin imponer medidas de salvaguarda.
+
+### CAPITULO V. Otras disposiciones
 
 ###### Artículo 132.
 
@@ -1439,7 +1589,9 @@ Las medidas de salvaguarda se aplicarán únicamente durante el periodo que sea 
 
 ## TITULO VIII. DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA
 
-### CAPITULO II. Notificaciones
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 135.
 
@@ -1447,17 +1599,21 @@ A falta de disposición expresa en este Reglamento en lo concerniente a los proc
 
 El trámite y resolución de los procedimientos de investigación a que se refiere este título, que conforme a la ley se inicien de oficio, se sujetarán a las mismas disposiciones legales y reglamentarias correspondientes a las investigaciones promovidas a petición de parte.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 136.
 
-Para los efectos del artículo 50 de la Ley, se considerarán organizaciones legalmente constituidas las cámaras, asociaciones, confederaciones, consejos o cualquiera otra agrupación de productores constituida conforme a las leyes mexicanas, que tengan por objeto la representación de los intereses de las personas físicas o morales dedicadas a la producción de las mercancías idénticas, similares o, en el caso de medidas de salvaguarda, directamente competitivas con las de importación.
+Para los efectos del artículo 50 de la Ley, se considerarán organizaciones legalmente constituidas las cámaras, asociaciones, confederaciones, consejos o cualquiera otra agrupación de productores constituida conforme a las leyes mexicanas, que tengan por objeto la representación de los intereses de las personas físicas o morales dedicadas a la producción de las mercancías idénticas, similares o, en el caso de medidas de salvaguarda, directamente competidoras con las de importación.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 137.
 
-La parte interesada podrá desistirse de la solicitud a que se refiere el artículo 50 de la Ley, conforme a las reglas siguientes:
+Cualquier organización legalmente constituida, persona física o moral productora, que haya presentado la solicitud a que se refiere el artículo 50 de la Ley, podrá desistirse de la misma, conforme a lo siguiente:
 
-I. Si se efectúa antes de la publicación de la resolución de inicio de la investigación, la autoridad investigadora declarará la improcedencia de la investigación por desistimiento, y publicará al (sic) aviso correspondiente en el Diario Oficial de la Federación, y
+I. Si se efectúa antes de la publicación de la resolución de inicio de la investigación, la autoridad investigadora acordará la procedencia del desistimiento, y
 
-II. Si se efectúa después de la publicación de la resolución de inicio de la investigación, sólo podrá proceder cuando los importadores o exportadores extranjeros y, en el caso de subvenciones, los representantes de los gobiernos extranjeros, manifiesten por escrito su consentimiento ante la Secretaría. En este caso, la Secretaría dará por terminada la investigación, y publicará el aviso correspondiente en el Diario Oficial de la Federación.
+II. Si se efectúa después de la publicación de la resolución de inicio de la investigación, la autoridad investigadora declarará la procedencia del desistimiento y publicará un aviso en el Diario Oficial de la Federación.
 
 ###### Artículo 138.
 
@@ -1475,21 +1631,27 @@ D. Los avisos publicados en el Diario Oficial de la Federación en relación con
 
 E. Las actas levantadas en las sesiones de la Comisión en las que se trate el establecimiento de medidas de salvaguarda y los proyectos de resolución final en materia de prácticas desleales de comercio internacional, así como los proyectos de resolución en los que la Secretaría acepte el compromiso de exportadores o gobiernos extranjeros a que se refiere el artículo 72 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 139.
 
-De toda comunicación realizada de manera directa o por otro medio convencional o electrónico, entre la Secretaría y cualquier parte interesada, sus representantes o coadyuvantes durante los procedimientos de investigación y de revisión, se deberá elaborar un reporte por escrito en el que se sintetice su objeto, así como las conclusiones obtenidas. Dicho reporte contendrá, además, el nombre y cargo del servidor público que lo elabora, lugar y firma autógrafa, y deberá remitirse sin demora al expediente administrativo.
+De toda comunicación realizada de manera directa o por otro medio convencional o electrónico, entre la Secretaría y cualquier parte interesada, sus representantes o coadyuvantes durante los procedimientos de investigación en materia de prácticas desleales de comercio internacional y de salvaguarda, se deberá elaborar un reporte por escrito en el que se sintetice su objeto, así como las conclusiones obtenidas. Dicho reporte contendrá, además, el nombre y cargo del servidor público que lo elabora, lugar y firma autógrafa.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 140.
 
-El envío de copias de los informes, documentos o medios de prueba a que se refiere el artículo 56 de la Ley, se hará simultáneamente a su presentación ante la Secretaría. Las partes interesadas enviarán las copias a las otras partes interesadas que aparezcan en la lista de envío proporcionada por la Secretaría. Esta obligación no exime a la autoridad investigadora de notificar y proveer a las partes interesadas la información, los documentos o medios de prueba que obren en el expediente administrativo cuando se solicite.
+El envío de copias de los informes, documentos o medios de prueba a que se refiere el artículo 56 de la Ley, se hará el mismo día de su presentación ante la Secretaría. Las partes interesadas enviarán por cualquier medio, incluyendo el electrónico, las copias a las otras partes interesadas que aparezcan en la resolución de inicio de los procedimientos o en el listado de partes que la Secretaría les proporcione con posterioridad. Esta obligación no exime a la autoridad investigadora de proporcionar, a costa de los interesados que lo soliciten, copia certificada de la información pública que obre en el expediente administrativo.
 
-En el momento de la entrega de la documentación a que se refiere el párrafo anterior, las partes interesadas deberán presentar también una constancia del envió de la misma a las otras partes interesadas, así como el acuse de recibo correspondiente en el que conste el nombre del remitente y la fecha de recepción, de acuerdo con los formatos expedidos por la Secretaría.
+En el momento de la entrega de la documentación a que se refiere el párrafo anterior, las partes interesadas deberán presentar también una constancia del envío de la misma a las otras partes interesadas, así como el acuse de recibo correspondiente en el que conste el nombre del remitente y la fecha de recepción, de acuerdo con los formatos expedidos por la Secretaría.
+
+En caso de que las partes interesadas no cumplan con el traslado, la Secretaría podrá no tomar en cuenta la información de la cual no se haya corrido traslado y resolver con base en los hechos de que se tenga conocimiento. La parte que no haya recibido el traslado deberá informarlo a la Secretaría.
 
 ###### Artículo 141.
 
 La Secretaría podrá correr traslado de los documentos a que se refiere el segundo párrafo del artículo 53 de la Ley a través de medios electromagnéticos.
 
-### CAPITULO III. Información pública, confidencial, comercial reservada y gubernamental confidencial
+### CAPITULO II. Notificaciones
 
 ###### Artículo 142.
 
@@ -1507,9 +1669,11 @@ II. Tratándose de personas morales: el lugar en donde se encuentre la administr
 
 En las notificaciones, se deberá acusar recibo del envío correspondiente. Los acuses postales de recibo, las piezas certificadas devueltas, y cualquiera otra constancia de recepción se integrarán al expediente administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 145.
 
-En los casos en que la Secretaría no tenga conocimiento del domicilio de las personas a las que deba notificarles ya sea que residan en México o en el extranjero, la notificación se hará a través de la publicación en el Diario Oficial de la Federación y, por una sola vez, en uno de los diarios de mayor circulación en México; esta última publicación contendrá un resumen de la solicitud de que se trate y del procedimiento que se instruye.
+En los casos en que la Secretaría no tenga conocimiento del nombre o razón social o del domicilio de las personas a las que deba notificarles ya sea que residan en México o en el extranjero, la notificación se hará a través de la publicación de la resolución en el Diario Oficial de la Federación.
 
 Tratándose de las personas residentes fuera del país, la Secretaría enviará los comunicados a que se refiere el párrafo anterior a las representaciones diplomáticas de los gobiernos extranjeros, con el objeto de que provean lo necesario para difundir el contenido de las resoluciones.
 
@@ -1533,13 +1697,15 @@ VI. El o los nombres de las personas que realizarán la visita, las cuales podr�
 
 Las notificaciones se harán de tal forma que la parte interesada las reciba por lo menos con diez días de anticipación a la visita, en cuyo lapso el visitado deberá emitir su consentimiento ante la Secretaría.
 
-### CAPITULO IV. Solicitud de confidencialidad de la información
+### CAPITULO III. Información pública, confidencial, comercial reservada y gubernamental confidencial
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 147.
 
-Para los efectos del artículo 80 de la Ley, la Secretaría, previa solicitud por escrito, otorgará a las partes interesadas la oportunidad de examinar toda la información contenida en el expediente administrativo para la presentación de sus argumentaciones, en los términos establecidos en la Ley y en este Reglamento. Dicha información podrá ser revisada por las partes durante los procedimientos de investigación y de revisión, del recurso de revocación, del juicio ante la Sala Superior del Tribunal Fiscal de la Federación y de los mecanismos alternativos de solución de controversias en materia de prácticas desleales de comercio internacional referidos en los tratados o convenios internacionales de los que México sea parte y, en su caso, en materia de medidas de salvaguarda.
+Para los efectos del artículo 80 de la Ley, la Secretaría, previa solicitud por escrito, otorgará a las partes interesadas la oportunidad de examinar toda la información contenida en el expediente administrativo para la presentación de sus argumentaciones, en los términos establecidos en la Ley y en este Reglamento. Dicha información podrá ser revisada por las partes durante los procedimientos en materia de prácticas desleales de comercio internacional y de medidas de salvaguarda, del recurso de revocación, del juicio ante la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa y de los mecanismos alternativos de solución de controversias en materia de prácticas desleales de comercio internacional y de medidas de salvaguarda referidos en los tratados o convenios internacionales de los que México sea parte.
 
-La Secretaría expedirá a costa de los interesados las copias certificadas de todo o parte del expediente administrativo que le sean solicitadas, en caso de que fuese procedente, de conformidad con lo dispuesto en el artículo 80 de la Ley y en este Reglamento.
+La Secretaría expedirá a costa de los interesados copia certificada de la información que no esté clasificada como reservada o confidencial contenida en el expediente administrativo que le sea solicitada, en caso de que fuese procedente, de conformidad con lo dispuesto en el artículo 80 de la Ley y en este Reglamento.
 
 ###### Artículo 148.
 
@@ -1551,7 +1717,9 @@ II. Los resúmenes de información confidencial y de información comercial rese
 
 III. Las actas levantadas con motivo de las visitas de verificación y sus anexos, excepto en lo relativo a información confidencial, comercial reservada o gubernamental confidencial;
 
-IV. Cualquiera otra información o datos que conforme a la Ley, este Reglamento y otras disposiciones nacionales o extranjeras no tengan el carácter de información confidencial, comercial reservada, gubernamental confidencial y no se prohiba su divulgación.
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+IV. Cualquiera otra información o datos que conforme a la Ley y este Reglamento no tengan el carácter de información confidencial, comercial reservada, gubernamental confidencial y no se prohíba su divulgación, así como aquélla que en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental no sea reservada o confidencial.
 
 ###### Artículo 149.
 
@@ -1575,7 +1743,7 @@ VIII. Los montos de los ajustes por concepto de términos y condiciones de venta
 
 IX. Cualquier otra información específica de la empresa de que se trate cuya revelación o difusión al público pueda causar daño a su posición competitiva.
 
-La información sobre costos y precios a que se refieren las fracciones II, III, y VII de este artículo, podrá presentarse por la parte interesada o sus coadyuvantes en rangos de variación porcentual que no excedan el factor de diez por ciento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 150.
 
@@ -1597,7 +1765,9 @@ La parte interesada en que se le dé tratamiento confidencial o de comercial res
 
 Para los efectos de los procedimientos a que se refiere este título, se considerará información gubernamental confidencial aquélla cuya divulgación esté prohibida por las leyes y demás disposiciones de orden público, así como por los tratados o convenios internacionales de los que México sea parte.
 
-En todo caso, formarán parte de la información gubernamental confidencial los datos, estadísticas y documentos referentes a la seguridad nacional y a las actividades estratégicas para le desarrollo científico y tecnológico del país, así como la información contenida en comunicaciones de gobierno a gobierno que tenga carácter de confidencial.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+En todo caso, formarán parte de la información gubernamental confidencial los datos, estadísticas y documentos referentes a la seguridad nacional y a las actividades estratégicas para el desarrollo científico y tecnológico del país, así como la información contenida en comunicaciones internas de la Secretaría, entre dependencias gubernamentales, y de gobierno a gobierno que tengan carácter de confidencial conforme a la Ley.
 
 ###### Artículo 155.
 
@@ -1609,9 +1779,9 @@ Después de transcurrido el plazo a que se refiere el artículo 80 de la Ley, la
 
 ###### Artículo 157.
 
-En los procedimientos referidos en los artículos 60, 68 y 94 de la Ley se observarán las disposiciones relativas a la información pública, confidencial, comercial reservada y gubernamental confidencial contenidas en la Ley y en este Reglamento.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-### CAPITULO V. Pruebas, audiencia pública y alegatos
+### CAPITULO IV. Solicitud de confidencialidad de la información
 
 ###### Artículo 158.
 
@@ -1623,7 +1793,9 @@ II. Justificar por qué su información tiene el carácter de confidencial o de 
 
 III. Presentar un resumen de la información o, en su caso, la exposición de las razones por las cuales no pueda resumirse, y
 
-IV En su caso, manifestar por escrito su consentimiento expreso de que su información marcada como confidencial o comercial reservada podrá ser revisada por los representantes legales de las otras partes interesadas.
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+IV. En su caso, manifestar por escrito su consentimiento expreso de que su información marcada como confidencial podrá ser revisada por los representantes legales de las otras partes interesadas.
 
 ###### Artículo 159.
 
@@ -1631,9 +1803,7 @@ Para los efectos del artículo 80 de la Ley se considerará representante legal 
 
 I. Presentar ante la Secretaría una solicitud por escrito en la que manifieste la necesidad de revisar la información confidencial;
 
-II. Presentar los documentos oficiales con los que se acredite que el solicitante es abogado con título para ejercer en el territorio nacional, conforme a las leyes aplicables.
-
-La solicitud a que se refiere esta fracción también podrá ser presentada por cualquier otra persona siempre que cumpla con los requisitos establecidos en este artículo, con excepción del señalado en el párrafo anterior, y sea asistido por un abogado;
+II. (DEROGADA, D.O.F. 22 DE MAYO DE 2014)
 
 III. Presentar el documento original o copia certificada del mismo, con el que acredite su representación;
 
@@ -1645,53 +1815,77 @@ VI. Asumir y presentar el compromiso de confidencialidad, en los términos que d
 
 VII. Manifestar por escrito conocer las responsabilidades y sanciones en que podría incurrir en caso de violar la confidencialidad de la información que se le confía;
 
-VIII. Manifestar por escrito las razones por las que la información confidencial que solicita revisar es relevante para la defensa de su caso. Ante esta situación la Secretaría podrá calificar cuándo se considerará que la información confidencial podrá ser útil en la defensa del caso de que se trate, y
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
 
-IX. Comprometerse ante la Secretaría a devolver las versiones originales de sus notas o resúmenes formulados en la revisión de la información confidencial, dentro de los diez días siguientes de haberse dictado la resolución final.
+VIII. Manifestar por escrito las razones por las que la información confidencial que solicita revisar es relevante para la defensa de su caso. Ante esta situación la Secretaría podrá calificar cuándo se considerará que la información confidencial podrá ser útil en la defensa del caso de que se trate;
 
-La información confidencial que, conforme a este Reglamento, tengan derecho a revisar los representantes legales de las partes interesadas, será de uso estrictamente personal y no será transferible por ningún título. Para el caso previsto en la segunda parte de la fracción II de este artículo, el abogado que asista al representante legal autorizado, deberá cumplir con los requisitos a que se refieren las fracciones V a IX de este artículo y será responsable solidario por el indebido uso de la información confidencial.
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+IX. Comprometerse ante la Secretaría a devolver las versiones originales de sus notas o resúmenes formulados en la revisión de la información confidencial, dentro de los diez días siguientes de haberse dictado la resolución final, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+X. Presentar el formato que para tal efecto expida la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+La información confidencial que, conforme a este Reglamento, tengan derecho a revisar los representantes legales de las partes interesadas y las personas que conforme a los tratados o convenios internacionales de los que México sea parte puedan tener acceso a la misma, será de uso estrictamente personal y no será transferible por ningún título.
 
 ###### Artículo 160.
 
 Además de lo señalado en el artículo anterior, el representante legal deberá cumplir con los siguientes requisitos, sin los cuales no podrá ser autorizado para revisar la información confidencial:
 
-I. No haber sido condenado por sentencia ejecutoriada por delito internacional o infracción administrativa;
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+I. No haber sido condenado por sentencia ejecutoriada por delito doloso;
 
 II. Gozar de buena reputación personal y profesional;
 
 III. No haber sido socio, haber ocupado cargo directivo o haber fungido como apoderado o mandatario asalariado de la empresa que pretenda representar, ni de alguna de las contrapartes interesadas o coadyuvantes en los procedimientos en curso, en el último año, y
 
-IV. Exhibir cualquier forma de garantía por el monto que fije la Secretaría de conformidad con el Código Fiscal de la Federación, para el caso en que se incurra en alguno de los ilícitos descritos en la fracción VI del artículo 93 de la Ley. Las garantías podrán cancelarse después de la publicación de la resolución de que se trate.
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
 
-Cubiertos los requisitos, la Secretaría tendrá por acreditado al representante legal y le expedirá la constancia respectiva dentro de un plazo de diez días contados a partir de la presentación de la solicitud.
+IV. Exhibir cualquier forma de garantía por el monto que fije la Secretaría de conformidad con el Código Fiscal de la Federación, para el caso en que se incurra en alguno de los ilícitos descritos en la fracción VI del artículo 93 de la Ley. Las garantías podrán cancelarse después de la publicación de la resolución de que se trate, siempre y cuando se haya cumplido la obligación a que se refiere la fracción IX del artículo 159 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Cubiertos los requisitos, la Secretaría tendrá por acreditado al representante legal y le expedirá la constancia respectiva dentro de un plazo de diez días contados a partir de la presentación de la solicitud; este plazo no aplicará a las constancias o autorizaciones que se emitan con motivo de los procedimientos de solución de diferencias previstos en los tratados o convenios comerciales internacionales de los que México sea parte, o en las reglas de procedimiento o disposiciones que de éstos emanen.
 
 ###### Artículo 161.
 
 Para los efectos de los procedimientos a que se refiere este título, la revisión de la información confidencial se hará en las oficinas de la Secretaría, en presencia de un funcionario de esta dependencia. La Secretaría dará el tiempo razonable al representante legal con el objeto de que efectúe la revisión de la información confidencial, en la que podrá elaborar notas o resúmenes.
 
-Asimismo, cuando lo considere conveniente, la Secretaría podrá proporcionar copias de dicha información, señalando los requisitos que el representante legal deberá observar para el manejo de dicha información y para su devolución.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-### CAPITULO VI. Visitas de verificación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE MAYO DE 2014)</small>
+
+### CAPITULO V. Pruebas y alegatos
 
 ###### Artículo 162.
 
 La Secretaría aceptará como medios de prueba los documentos públicos y privados, los dictámenes periciales, el reconocimiento o verificación administrativa, las pruebas testimoniales, las presunciones y cualquier otro medio de prueba no prohibido por la Ley.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 163.
 
-El periodo de pruebas comprenderá desde el día siguiente de la publicación en el Diario Oficial de la Federación del inicio de la investigación administrativa y de la aceptación de la solicitud, hasta la fecha en que se declare concluida la audiencia pública a que se refiere el artículo 81 de la Ley.
+El periodo probatorio comprenderá desde el día siguiente de la publicación en el Diario Oficial de la Federación del inicio de la investigación administrativa, hasta el cierre de la audiencia pública a que se refiere el artículo 81 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 164.
 
-En el caso de los procedimientos contra prácticas desleales de comercio internacional, y de medidas de salvaguarda, publicado en el inicio de la investigación administrativa y la aceptación de la solicitud, los importadores, exportadores y, en su caso, los representantes de los gobiernos extranjeros que hayan sido notificados o que comparezcan por su propio derecho ante la Secretaría, tendrán un plazo de 30 días para formular su defensa y presentar la información requerida.
+Transcurrido el plazo a que se refiere el artículo 53 de la Ley, la Secretaría dará oportunidad a los solicitantes y, en su caso, a sus coadyuvantes, para que dentro de los ocho días siguientes presenten sus contra argumentaciones o réplicas.
 
-Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría dará oportunidad a los solicitantes y, en su caso, a sus coadyuvantes, para que dentro de los ocho días siguientes presenten sus contrargumentaciones o réplicas.
-
-A partir de la publicación en el Diario Oficial de la Federación de la resolución preliminar a que se refiere el artículo 57 de la Ley, la Secretaría otorgará un plazo de 30 días, para que las partes interesadas presenten las argumentaciones y pruebas complementarias que estimen pertinentes.
+A partir de la publicación en el Diario Oficial de la Federación de la resolución preliminar a que se refiere el artículo 57 de la Ley, la Secretaría otorgará un plazo de veinte días, para que las partes interesadas presenten las argumentaciones y pruebas complementarias que estimen pertinentes.
 
 ###### Artículo 165.
 
 La audiencia pública tendrá como finalidad que las partes interesadas y, en su caso, sus coadyuvantes interroguen o refuten a sus contrapartes respecto de la información, datos y pruebas que se hubieren presentado.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+La audiencia pública se celebrará en aquellos procedimientos en que se prevea expresamente en este Reglamento.
 
 ###### Artículo 166.
 
@@ -1699,7 +1893,7 @@ Abierta la audiencia, el representante de la Secretaría pondrá a discusión, e
 
 ###### Artículo 167.
 
-En el caso de la prueba pericial, de existir discrepancia entre los peritos, el representante de la Secretaría concederá a éstos el uso de la palabra, en los términos del artículo anterior.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ###### Artículo 168.
 
@@ -1713,37 +1907,43 @@ La ausencia de alguna de las partes interesadas, peritos y demás personas que p
 
 De la audiencia pública se levantará un acta en la que se consignen de manera pormenorizada los hechos acaecidos en la misma, la cual deberá ser firmada por las partes interesadas y el representante de la Secretaría, remitiéndose al expediente del caso.
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 171.
 
-Sólo durante el periodo probatorio las partes interesadas podrán presentar la información, pruebas y datos que estimen pertinentes en defensa de sus intereses. Sin embargo, la Secretaría podrá acordar fuera del periodo probatorio, la práctica, repetición o ampliación de cualquier prueba o diligencia probatoria, siempre que lo estime necesario y sea conducente para el mejor conocimiento de la verdad sobre los hechos que se investigan.
+Sólo durante los periodos de ofrecimiento de pruebas las partes interesadas podrán presentar la información, pruebas y datos que estimen pertinentes en defensa de sus intereses. Sin embargo, la Secretaría podrá acordar fuera del periodo probatorio, la práctica, repetición o ampliación de cualquier prueba o diligencia probatoria, siempre que lo estime necesario y sea conducente para el mejor conocimiento de la verdad sobre los hechos que se investigan.
 
 ###### Artículo 172.
 
 Una vez concluido el periodo probatorio, la Secretaría abrirá un periodo de alegatos en el que las partes interesadas podrán presentar por escrito sus conclusiones sobre el fondo o los incidentes acaecidos en el curso del procedimiento. En este caso se observarán las reglas de confidencialidad establecidas en la Ley y en este Reglamento.
 
-### CAPITULO I. Disposición general
+### CAPITULO VI. Visitas de verificación
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 173.
 
-Para las vistas (sic) de verificación a que se refiere el artículo 83 de la Ley deberán observarse las siguientes reglas:
+Para las visitas de verificación a que se refiere el artículo 83 de la Ley deberán observarse las siguientes reglas:
 
-I. Las visitas se realizarán en el lugar o lugares señalados en la notificación respectiva así como por las personas indicadas en la misma;
+I. Las visitas se realizarán en el lugar señalado por la parte interesada a visitar;
 
 II. Las visitas serán atendidas por el visitado o su representante acreditado, o por la persona que se encontrare en la fecha en que la visita se efectúe;
 
 III. Al iniciarse la visita, los visitadores que en ella intervengan se deberán identificar fehacientemente ante la persona o personas con quien se entienda la diligencia, requiriéndola para que designe a dos testigos. Si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta circunstancia en el acta que levante sin que ello invalide los resultados de la visita;
 
-IV. Las partes interesadas, sus representantes, o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por la Secretaría el acceso al lugar o lugares objeto de la diligencia y poner a su disposición la contabilidad y demás documentos que sustenten la información presentada en el curso de la investigación. En este caso, los visitadores podrán obtener copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados al acta que se levante con motivo de la visita. También deberán permitir la verificación de mercancías, documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga la parte interesada en los lugares visitados.
+IV. Las partes interesadas, sus representantes, o la persona con quien se entienda la visita, están obligados a permitir a los visitadores designados por la Secretaría el acceso al lugar o lugares objeto de la diligencia y poner a su disposición la contabilidad y demás documentos que sustenten la información presentada en el curso de la investigación. En este caso, los visitadores podrán obtener copia para que previo cotejo con sus originales sean anexados al acta que se levante con motivo de la visita. También deberán permitir la verificación de mercancías, documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga la parte interesada en los lugares visitados.
 
 Si la parte interesada a quien se visita lleva su contabilidad o parte de ella con el sistema de registro electrónico, se deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita;
 
-V. De toda visita se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores, determinándose las consecuencias legales de tales hechos u omisiones ante las partes interesadas;
+V. De toda visita se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores;
 
 VI. Concluida la verificación y levantada el acta respectiva, no se podrán levantar actas complementarias sin que exista una nueva notificación;
 
 VII. Concluida la verificación y levantada el acta respectiva, las partes interesadas o sus representantes podrán presentar ante la Secretaría sus objeciones, opiniones e información complementaria que la propia autoridad les hubiera requerido durante la verificación, dentro de los cinco días siguientes contados a partir del cierre del acta respectiva. Si en este plazo no hubieren opiniones u objeciones sobre el contenido del acta, se tendrán por aceptados los hechos u omisiones en ella consignados, y
 
 VIII. El acta que se levante en la visita de verificación será firmada por los visitadores, la parte interesada o su representante o con quien se haya entendido la diligencia y por los testigos. Si se negaren a firmar el acta respectiva cualquiera de las personas señaladas, los visitadores harán constar esta circunstancia en la propia acta sin que afecte su validez y valor probatorio.
+
+La Secretaría podrá realizar visitas de verificación en todos los procedimientos en materia de prácticas desleales de comercio internacional y de medidas de salvaguarda, incluidos los procedimientos especiales a que se refiere la Ley y este Reglamento.
 
 ###### Artículo 174.
 
@@ -1763,13 +1963,15 @@ La Secretaría podrá contratar los servicios de empresas asesoras especializada
 
 ## TITULO IX. COMISION MIXTA PARA LA PROMOCION DE LAS EXPORTACIONES
 
-### CAPITULO II. Estructura
+### CAPITULO I. Disposición general
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 177.
 
-En los términos de lo dispuesto por el artículo 7o. de la Ley, la Comisión Mixta tiene por objeto analizar, evaluar, proponer y concertar acciones entre los sectores público y privado en materia de exportaciones de bienes y servicios en el marco del Sistema Nacional de Promoción Externa.
+En los términos de lo dispuesto por el artículo 7o de la Ley, la Comisión Mixta tiene por objeto analizar, evaluar, proponer y concertar acciones entre los sectores público y privado en materia del comercio exterior de bienes y servicios en el marco del Sistema Nacional de Promoción Externa.
 
-### CAPITULO III. Funciones de la Comisión Mixta
+### CAPITULO II. Estructura
 
 ###### Artículo 178.
 
@@ -1781,13 +1983,21 @@ A. Secretaría de Relaciones Exteriores;
 
 B. Secretaría de Hacienda y Crédito Público;
 
-C. Secretaría de Desarrollo Social;
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-D. Secretaría de Energía, Minas e Industria Paraestatal;
+C. Secretaría de Medio Ambiente y Recursos Naturales;
 
-E. Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-F. Secretaría de Agricultura y Recursos Hidráulicos;
+D. Secretaría de Energía;
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+E. Secretaría de Economía;
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+F. Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 G. Secretaría de Comunicaciones y Transportes;
 
@@ -1795,21 +2005,33 @@ H. Secretaría de Salud;
 
 I. Secretaría del Trabajo y Previsión Social;
 
-J. Secretaría de Pesca;
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+J. Secretaría de la Defensa Nacional;
 
 K. Nacional Financiera, Sociedad Nacional de Crédito, y
 
 L. Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito.
 
-II. Organismos del sector privado:
+> <small>(ADICIONADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+I bis. Entidades federativas, previo acuerdo entre éstas y la Secretaría;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+II. Organismos del sector privado que manifiesten expresamente su voluntad, cuyos cargos serán honoríficos, y por su desempeño no cobrarán sueldo o emolumento alguno:
 
 A. Consejo Coordinador Empresarial;
 
 B. Asociación Nacional de Importadores y Exportadores de la República Mexicana;
 
-C. Consejo Nacional de Comercio Exterior;
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-D. Consejo Empresarial Mexicano para Asuntos Internacionales;
+C. Consejo Empresarial Mexicano de Comercio Exterior, Inversión y Tecnología, A.C.;
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+D. Confederación Latinoamericana de Agentes Aduanales;
 
 E. Confederación de Asociaciones de Agentes Aduanales de la República Mexicana;
 
@@ -1825,15 +2047,21 @@ J. Cámara Nacional de Comercio de la Ciudad de México, y
 
 K. Consejo Nacional Agropecuario.
 
-Además, la Comisión Mixta podrá invitar a sus reuniones a otros representantes de las dependencias y entidades de la Administración Pública Federal y Estatal, y del sector privado, cuando se traten asuntos relacionados con sus respectivas atribuciones o con los intereses que representen.
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-Cada una de las dependencias, entidades y organismos señalados en este artículo, designará un representante único y permanente ante los niveles estatal y regional, así como ante la modalidad sectorial.
+Además, la Comisión Mixta podrá invitar a integrarse a otros representantes de las dependencias y entidades de la Administración Pública Federal y Estatal, y del sector privado, cuando se traten asuntos relacionados con sus respectivas atribuciones o con los intereses que representen.
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+Cada una de las dependencias, entidades y organismos señalados en este artículo, designará un representante único y permanente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 179.
 
-La Comisión Mixta contará, en cada uno de los niveles y modalidades a que se refiere el capítulo IV de este Título, con un Presidente y un Secretario Técnico.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-### CAPITULO IV. De sus niveles y modalidades
+### CAPITULO III. Funciones de la Comisión Mixta
 
 ###### Artículo 180.
 
@@ -1857,165 +2085,81 @@ VIII. Fomentar la cultura exportadora a través de la organización de eventos y
 
 IX. Promover la participación de las empresas en el Premio Nacional de Exportación, y
 
-X. Las demás que le señale el Ejecutivo Federal y sean necesarias para el cumplimiento de los objetivos establecidos.
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
 
-### CAPITULO V. De los procedimientos de la Comisión Mixta
+X. Las demás que le señale el Ejecutivo Federal y sean necesarias para analizar, evaluar, proponer y concertar acciones entre los sectores público y privado en materia del comercio exterior de bienes y servicios.
+
+### CAPITULO IV. De sus niveles y modalidades
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 181.
 
-Para el mejor desempeño de sus funciones, la Comisión Mixta sesionará en los siguientes niveles y bajo las siguientes modalidades:
+Para el mejor desempeño de sus funciones, la Comisión Mixta trabajará a través de un sitio electrónico, mediante el cual, se podrán presentar propuestas o casos en materia de comercio exterior de bienes o servicios.
 
-I. Niveles:
+Los casos presentados deberán resolverse en un plazo máximo de treinta días naturales, contados a partir de su presentación.
 
-A. Estatal, que se integrará en cada entidad federativa con la participación de los gobiernos estatales y del Distrito Federal, previo acuerdo entre éstos y la Secretaría;
+La Secretaría publicará mediante reglas el procedimiento de atención y el formato para presentar casos, previa consulta con los miembros de la Comisión Mixta.
 
-B. Regional, que se integrará conforme a cada una de las siguientes regiones:
+La Secretaría coordinará el establecimiento y funcionamiento de un Servicio Nacional de Información de Comercio Exterior, cuyo objetivo será proveer información arancelaria, de regulaciones y restricciones no arancelarias de las dependencias y organismos involucrados en comercio exterior, así como aquella información pertinente relacionada con los procedimientos de tramitación de regulaciones y restricciones no arancelarias aplicables en la entrada y salida de mercancías del territorio nacional, por medios electrónicos y únicamente para efectos informativos.
 
-1. Centro: Distrito Federal, Estado de México, Hidalgo, Michoacán y Querétaro;
+El Servicio Nacional de Información de Comercio Exterior facilitará el acceso a la información mediante herramientas electrónicas, disponibles en un solo punto para su consulta, y establecerá mecanismos para la homogeneización, estandarización, monitoreo y actualización de la información presentada.
 
-2. Norte: Coahuila, Nuevo León, Tamaulipas, San Luis Potosí, Chihuahua y Durango;
-
-3. Noroeste: Baja California, Baja California Sur, Sinaloa y Sonora;
-
-4. Occidente: Aguascalientes, Colima, Guanajuato, Jalisco, Nayarit y Zacatecas;
-
-5. Sur: Guerrero, Morelos, Oaxaca, Puebla, Tlaxcala y Veracruz, y
-
-6. Sureste: Campeche, Chiapas, Quintana Roo, Tabasco y Yucatán.
-
-C. Nacional, que se conformará con la participación de las dependencias, entidades y organismos señalados en el artículo 178 de este Reglamento.
-
-II. Modalidades:
-
-A. Sectorial, que se establecerá en aquellos sectores donde sea necesario, para coadyuvar a resolver la problemática existente en materia de comercio exterior, y
-
-B. Internacional, que se establecerá en aquellos países donde sea necesario promover las exportaciones mexicanas y eliminar las barreras al comercio que enfrentan las empresas extranjeras que realizan negocios con México.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 182.
 
-En el nivel estatal, la Comisión Mixta operará conforme a los siguientes criterios:
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-I. Se reunirá durante la primera semana de cada mes, de acuerdo al calendario establecido por su Presidente en coordinación con el Secretario Técnico respectivo;
-
-II. Si así lo considera, el gobernador de la entidad respectiva podrá presidirla o designar a su suplente. En el caso del Distrito Federal fungirá como Presidente el Jefe del Departamento del Distrito Federal o quien éste designe. Las funciones de Secretario Técnico corresponderán al delegado federal de la Secretaría adscrito a la entidad federativa correspondiente;
-
-III. Cada una de las dependencias, entidades y organismos señalados en el artículo 178 de este Reglamento, designará a su delegado o director regional en la entidad federativa o región de que se trate como representante único y permanente que asistirá a las sesiones estatales de la Comisión Mixta, quien será el responsable del trámite y seguimiento de los planteamientos relacionados con la entidad u organismo que representa a nivel estatal;
-
-IV. La Comisión Mixta podrá invitar a sus reuniones a los representantes de organismos públicos o privados, ya sean federales o estatales, cuando se traten asuntos relacionados con sus respectivas atribuciones o con los intereses que representen, y
-
-V. La organización de las reuniones corresponderá al delegado federal de la Secretaría adscrito a la entidad federativa, quien deberá coordinarse con el Gobierno del Estado de acuerdo con el manual de procedimientos correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 183.
 
-En el nivel regional, la Comisión Mixta operará conforme a las siguientes reglas:
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-I. Se reunirá bimestralmente, durante la segunda semana del mes correspondiente, de manera rotativa de acuerdo al calendario establecido por su Presidente en coordinación con el Secretario Técnico respectivo;
-
-II. Fungirán como Presidente y como suplente los funcionarios que determine el titular de la Secretaría. Las funciones de Secretario Técnico serán responsabilidad del delegado federal de la Secretaría del estado sede;
-
-III. Cada una de las dependencias, entidades y organismos señalados en el artículo 178 de este Reglamento, designará a un representante único y permanente a nivel federal o nacional que asistirá a las sesiones regionales, da (sic) la Comisión Mixta, quien será el responsable del trámite y seguimiento de los planteamientos relacionado con la entidad u organismo que representa a nivel regional;
-
-IV. En representación de las entidades federativas podrán participar los gobernadores y el Jefe del Departamento del Distrito Federal, o quienes ellos designen como suplentes;
-
-V. La Comisión Mixta podrá invitar a sus reuniones a los representantes de organismos públicos o privados, ya sean federales o estatales, cuando se traten asuntos relacionados con sus respectivas atribuciones o con los intereses que representen, y
-
-VI. La organización de las reuniones corresponderá a los delegados de la entidad sede, en coordinación con el Gobierno del Estado de acuerdo con el manual de procedimientos correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 184.
 
-En el nivel nacional, la Comisión Mixta operará conforme a los siguientes criterios:
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-I. La Comisión Mixta se reunirá trimestralmente;
-
-II. Será presidida por el Secretario de Comercio y Fomento Industrial. El Secretario Técnico será el Subsecretario de Comercio Exterior e Inversión Extranjera;
-
-III. En las sesiones nacionales participarán los titulares de las dependencias, entidades y organismos a que se refiere el artículo 178 de este Reglamento. En estos casos no se aceptarán suplentes;
-
-IV. Las reuniones de los titulares de las entidades públicas y organismos privados tendrán por objeto analizar los casos de interés general que, en los niveles estatal y regional o bajo las modalidades sectorial e internacional, no pudieron resolverse;
-
-V. Cada seis meses, o antes en caso de ser necesario, se presentará al titular del Ejecutivo Federal un informe sobre los avances logrados, las labores desarrolladas y los resultados obtenidos, así como sobre aquellos asuntos que lo ameriten;
-
-VI. En estas reuniones el Ejecutivo Federal promoverá, por conducto de la Secretaría, convenios y acuerdos con las entidades federativas y con los sectores exportadores de las mismas para coordinar y concertar acciones que propicien el fomento y la promoción de las exportaciones de bienes y servicios;
-
-VII. El Secretario de Comercio y Fomento Industrial propondrá en el seno de la Comisión Mixta los mecanismos de coordinación y concertación de acciones para la consecución de los objetivos que en materia de promoción de exportaciones se determinen, y
-
-VIII. La organización de las reuniones nacionales será responsabilidad de la Subsecretaría de Comercio Exterior e Inversión Extranjera, de acuerdo con el manual de procedimientos correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 185.
 
-En la modalidad sectorial, la Comisión Mixta operará conforme a las siguientes reglas:
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-I. Se reunirá mensual o bimestralmente, dependiendo del número de casos que se presenten, durante la primera semana del mes correspondiente, de acuerdo al calendario establecido por su Presidente en coordinación con el Secretario Técnico respectivo;
-
-II. Fungirán como Presidente y como suplente los funcionarios que determine el titular de la dependencia coordinadora del sector correspondiente. El Secretario Técnico será designado por el titular de la Secretaría;
-
-III. Cada una de las dependencias, entidades y organismos señalados en el artículo 178 de este Reglamento, designará a un representante único y permanente a nivel federal o nacional que asistirá a las sesiones sectoriales del la Comisión Mixta, quien será el responsable del trámite y seguimiento de los planteamientos relacionados con la entidad u organismo que representa en la modalidad sectorial;
-
-IV. La Comisión Mixta podrá invitar a sus reuniones a funcionarios de los gobiernos de los estados y representantes empresariales cuando se traten asuntos relacionados con sus atribuciones o con los intereses que representen, y
-
-V. La organización de las reuniones sectoriales corresponderá al Presidente y al Secretario Técnico respectivos, en coordinación con los delegados de la Secretaría de la entidad sede, de acuerdo con el manual de procedimientos correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 186.
 
-En la modalidad internacional, la Comisión Mixta operará conforme a las siguientes reglas:
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-I. Sesionará semestralmente. Sin embargo, en caso de ser necesario, podrán llevarse a cabo reuniones extraordinarias en las sedes donde se haya instalado. Las fechas de las reuniones serán establecidas por el Presidente en coordinación con el Secretario Técnico, respectivos;
+### CAPITULO V. De los procedimientos de la Comisión Mixta
 
-II. Será presidida por el Subsecretario de Comercio Exterior e Inversión Extranjera, fungirá como Secretario Técnico la consejería comercial del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, en el país sede;
-
-III. La Comisión Mixta podrá invitar a participar en sus reuniones a instituciones públicas vinculadas con el comercio exterior, así como a empresas del sector privado del país sede;
-
-IV. La organización de las reuniones internacionales será responsabilidad de la consejería comercial del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, en el país sede, en coordinación con la representación de la Secretaría, de Acuerdo con el manual de procedimientos correspondiente, y
-
-V. En la reunión anual celebrada en México de consejeros comerciales en el exterior del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, se evaluará el desempeño de la Comisión Mixta en su modalidad internacional, en coordinación con la Subsecretaría de Comercio Exterior e inversión Extranjera.
-
-### CAPITULO VI. Funciones de los Presidentes de la Comisión Mixta
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 187.
 
-Los casos presentados a nivel estatal deberán resolverse en un plazo de 30 días naturales. De no existir respuesta dentro de este término se turnará al nivel regional o, en su caso, al nivel sectorial que corresponda.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-En el nivel regional y en la modalidad sectorial las resoluciones deberán dictarse dentro de un plazo de 30 días naturales. Una vez vencido dicho plazo sin que se haya dictado una resolución, y tratándose de aspectos de interés general, se pasará al nivel nacional.
+### CAPITULO VI. Funciones de los Presidentes de la Comisión Mixta
 
-Las resoluciones de la Comisión Mixta en la modalidad internacional deberán dictarse en un plazo de 90 días naturales. Una vez vencido dicho plazo sin que exista resolución por parte de la Comisión Mixta, y tratándose de asuntos de interés general, se turnarán a la instancia nacional.
-
-Los asuntos que no puedan ser resueltos a nivel nacional en un periodo de 30 días naturales, serán presentados a la consideración del Ejecutivo Federal, quien resolverá lo conducente a través de la Secretaría.
-
-### CAPITULO VII. Funciones de los Secretarios Técnicos
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 188.
 
-Los Presidentes de la Comisión Mixta, en cualquiera de sus niveles o modalidades, tendrán las siguientes atribuciones:
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
-I. Presidir y coordinar las reuniones ordinarias y extraordinarias de la Comisión Mixta, así como las demás actividades necesarias para su buen funcionamiento;
+### CAPITULO VII. Funciones de los Secretarios Técnicos
 
-II. Escuchar las opiniones de los miembros de la Comisión Mixta e invitados, promover la solución y desahogo de los asuntos presentados y, en su caso, formular las propuestas que procedan;
-
-III. Encomendar al Secretario Técnico la elaboración de nuevos estudios o la profundización de los presentados a la Comisión Mixta, cuando la información no resulte suficiente;
-
-IV. Turnar al Secretario Técnico los estudios e investigaciones para la adecuada concertación de acciones;
-
-V. Turnar a la unidad administrativa que señale el Reglamento Interior de la Secretaría los casos presentados en las reuniones, a fin de dar seguimiento a los asuntos ante las autoridades responsables del sector público de acuerdo con sus funciones;
-
-VI. En el caso del Presidente de la Comisión Mixta a nivel nacional, someter a la consideración del Ejecutivo Federal los asuntos que no puedan ser resueltos a nivel nacional, de conformidad con el párrafo final del artículo anterior;
-
-VII. Promover la participación activa en la Comisión Mixta de las entidades, empresas y personas del sector privado, así como la de los representantes del sector público, y
-
-VIII. Determinar en coordinación con el Secretario Técnico respectivo la fecha y hora en que se celebrarán las reuniones de la Comisión Mixta.
-
-### CAPITULO UNICO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 189.
 
-Las funciones de los Secretarios Técnicos serán las siguientes:
-
-I. Convocar a las sesiones de la Comisión Mixta con cinco días de anticipación;
-
-II. Recibir, integrar y revisar los proyectos y propuestas que se presenten; someterlos a la Comisión Mixta; dar seguimiento a las acciones acordadas y rendir informes de cada reunión a los demás miembros de la Comisión Mixta;
-
-III. Remitir a la Subsecretaría de Comercio Exterior e Inversión Extranjera, en los casos presentados a nivel regional y modalidades sectoriales e internacional, un reporte periódico de la situación de dichos casos, y
-
-IV. Las demás que le encomiende expresamente el Presidente de la Comisión Mixta.
+(DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 ## TITULO X. SISTEMA NACIONAL DE PROMOCION EXTERNA
 
@@ -2131,6 +2275,8 @@ La Secretaría dará a conocer el manual de procedimientos que permita la operac
 
 ## TITULO XI. PREMIO NACIONAL DE EXPORTACION
 
+### CAPITULO UNICO
+
 ###### Artículo 201.
 
 Se establece el Premio Nacional de Exportación como un instrumento del Gobierno Federal para premiar y reconocer anualmente el esfuerzo, la constancia y creatividad de los exportadores nacionales y de las instituciones que apoyen la actividad exportadora. En particular, el Premio tendrá los siguientes objetivos:
@@ -2211,9 +2357,11 @@ V. Que hayan efectuado una aportación relevante al conocimiento y aplicación d
 
 VI. Que hayan contribuido con una mejoría o técnica nueva en los servicios relacionados con las exportaciones, favoreciendo su incremento o su diversificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MAYO DE 2014)</small>
+
 ###### Artículo 207.
 
-Los aspirantes al Premio Nacional de Exportación deberán entregar al área coordinadora que designe la Subsecretaría de Comercio Exterior e Inversión Extranjera una descripción detallada sobre sus sistemas, procesos y logros en materia de exportaciones o actividades afines, así como la documentación y estadísticas con que cuenten respecto a los siguientes aspectos;
+Los aspirantes al Premio Nacional de Exportación deberán entregar al área coordinadora que designe la Subsecretaría de Comercio Exterior una descripción detallada sobre sus sistemas, procesos y logros en materia de exportaciones o actividades afines, así como la documentación y estadísticas con que cuenten respecto a los siguientes aspectos:
 
 I. Enfoque o estrategia utilizada en el proceso de exportación o actividad afín;
 
@@ -2249,9 +2397,13 @@ II. Fijar los criterios de evaluación de las empresas e instituciones y señala
 
 El Comité Evaluador estará integrado por los siguientes miembros:
 
-I. El Secretario de Comercio y Fomento Industrial, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
 
-II. El Subsecretario de Comercio Exterior e Inversión Extranjera, quien fungirá como Vicepresidente del Comité, y
+I. El Secretario de Economía, quien lo presidirá;
+
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2014)</small>
+
+II. El Subsecretario de Industria y Comercio, quien fungirá como Vicepresidente del Comité, y
 
 III. Un representante de cada una de las siguientes dependencias y entidades de la Administración Pública Federal:
 
@@ -2259,11 +2411,17 @@ A. Secretaría de Relaciones Exteriores;
 
 B. Secretaría de Hacienda y Crédito Público;
 
-C. Secretaría de Desarrollo Social;
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
 
-D. Secretaría de Energía, Minas e Industria Paraestatal;
+C. Secretaría de Medio Ambiente y Recursos Naturales;
 
-E. Secretaría de Agricultura y Recursos Hidráulicos;
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+D. Secretaría de Energía;
+
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2014)</small>
+
+E. Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 F. Secretaría de Comunicaciones y Transportes;
 
@@ -2271,7 +2429,7 @@ G. Secretaría de Educación Pública;
 
 H. Secretaría del Trabajo y Previsión Social;
 
-I. Secretaría de Pesca;
+I. (DEROGADO, D.O.F. 22 DE MAYO DE 2014)
 
 J. Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, y
 
@@ -2317,8 +2475,18 @@ SEXTO. Los procedimientos administrativos en materia de prácticas desleales y d
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres. Carlos Salinas de Gortari. Rúbrica. El Secretario de Hacienda y Crédito Público, Pedro Aspe. Rúbrica. El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 29 DE DICIEMBRE DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación con excepción de lo dispuesto en el cuarto transitorio de este Decreto, y será aplicable a la totalidad de las importaciones independientemente de su origen y procedencia, incluidas las de los Estados Unidos de América y Canadá.
+
+SEGUNDO. Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto se resolverán de conformidad con las disposiciones generales del Reglamento de la Ley de Comercio Exterior vigentes al momento de su inicio.
+
+TERCERO. La Secretaría de Economía y demás dependencias competentes realizarán las acciones necesarias para que la implementación del presente Decreto se realice con cargo a su presupuesto autorizado para el ejercicio fiscal correspondiente, por lo que no requerirán recursos adicionales para dicho propósito.
+
+CUARTO. Las reformas al artículo 181 y la derogación de los artículos 179, 182, 183, 184, 185, 186, 187, 188 y 189, entrarán en vigor a los seis meses siguientes, contados a partir de la entrada en vigor del presente Decreto.
