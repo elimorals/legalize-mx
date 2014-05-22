@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-organo-de-fiscalizacion-superior-del-estado-18884"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2013-11-19"
+last_updated: "2014-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2000.
 
@@ -355,7 +355,7 @@ No se impondrán las multas a que se refiere este artículo, cuando el incumplim
 
 Al frente del Órgano habrá un Auditor General cuyo nombramiento recaerá en la persona que cumpla los requisitos establecidos por la Constitución del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 9.
 
@@ -379,7 +379,7 @@ IV. Desahogadas las entrevistas, la Comisión formulará su dictamen en un plazo
 
 V. La persona designada para ocupar el cargo, previamente a tomar posesión del encargo protestará ante el Pleno del Congreso.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA LA LEY, EL PRESENTE PARRAFO COMPRENDE LOS ANTERIORES SEGUNDO Y TERCER PARRAFOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA LA LEY, EL PRESENTE PÁRRAFO COMPRENDE LOS ANTERIORES SEGUNDO Y TERCER PÁRRAFOS.</small>
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
@@ -525,7 +525,7 @@ Para el mejor desempeño de sus funciones, el Órgano en su estructura administr
 
 El Órgano contará además con una Contraloría Interna, en los términos que señale su Reglamento Interior, que será la responsable, entre otras funciones, de impulsar el desarrollo administrativo del Órgano para que cumpla con los objetivos, metas, programas y funciones que tiene encomendados, realizar auditorías, vigilar el cumplimiento de las funciones de sus servidores públicos, recibir las quejas y denuncias por incumplimiento de las obligaciones de aquéllos, a fin de aplicar, de iniciar y sustanciar el procedimiento disciplinario administrativo en los términos y con las formalidades que establece la Ley de Responsabilidades de los Servidores Públicos del Estado hasta ponerlo en estado de resolución. La resolución definitiva del procedimiento referido, así como, en su caso, la imposición de sanciones, la realizará el Auditor General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 15.
 
@@ -583,7 +583,7 @@ VIII. Coordinar y supervisar las auditorias, visitas e inspecciones practicadas 
 
 IX. Las demás que en la esfera de sus competencias les confieran las disposiciones normativas aplicables y el Auditor General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 17.
 
@@ -613,7 +613,7 @@ VIII. Por acuerdo del Auditor General desahogar el recurso de reconsideración y
 
 IX. Las demás que señale la ley, otras disposiciones aplicables y el Auditor General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 18.
 
@@ -707,7 +707,7 @@ La relación jurídica de trabajo se entiende establecida entre el Congreso, a t
 
 #### SECCIÓN PRIMERA. De sus atribuciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 29.
 
@@ -797,7 +797,7 @@ Analizados los elementos aportados por las partes, si la Comisión, por votació
 
 Los sujetos de fiscalización tendrán la facultad de formular queja ante la Comisión sobre los actos del Auditor General del Órgano que contravengan las disposiciones de esta ley, en cuyo caso, la Comisión substanciará la investigación preliminar a fin de determinar si se actualiza alguna de las hipótesis a que se refiere el artículo 20 de esta LEY, así como si ha lugar o no a iniciar el procedimiento previsto en los dos artículos anteriores, o los procedimientos previstos en la Ley de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO IV. DE LAS CUENTAS PÚBLICAS Y DE LOS
 
@@ -909,7 +909,7 @@ El Órgano conservará en su poder las Cuentas Públicas, mientras sean exigible
 
 Los Sujetos Fiscalizables tendrán la obligación de conservar en su poder durante cinco años, los libros, registros de contabilidad y la información financiera correspondiente, así como los documentos justificativos y comprobatorios de la cuenta de la Hacienda Pública, mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas, computándose el término a partir de que el Congreso del Estado haya recibido del Órgano el Informe del Resultado relativo al ejercicio fiscal en el que se haya generado dicha documentación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO V. DE LA PRESENTACIÓN DE LAS CUENTAS PÚBLICAS
 
@@ -963,7 +963,7 @@ El incumplimiento de los sujetos de fiscalización a la obligación de presentar
 
 Vencido el plazo para presentación de la Cuenta Pública y los Informes de Avance de Gestión Financiera sin que estos informes se hayan presentado en tiempo y forma y sin que medie justificación procedente, el Órgano procederá inmediatamente a fincar las responsabilidades administrativas y a promover las demás acciones de responsabilidad por esta omisión en contra de los titulares de los Sujetos Fiscalizables en los términos de las leyes de la materia, debiéndose hacer del conocimiento de dicha circunstancia al Congreso por conducto de la Comisión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO VI. DE LA REVISIÓN DE LA CUENTA PÚBLICA Y DE
 
@@ -1213,7 +1213,7 @@ El Órgano, en el informe del resultado, dará cuenta al Congreso de los procedi
 
 #### SECCIÓN PRIMERA. De la Determinación de Daños y Perjuicios
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 54.
 
@@ -1437,7 +1437,7 @@ Los servidores públicos y las personas afectadas por las resoluciones que emita
 
 ### CAPÍTULO XI. DE LA PRESCRIPCIÓN DE RESPONSABILIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 77.
 
@@ -1477,15 +1477,17 @@ El Organo contará con un Instituto de Capacitación y Desarrollo en Fiscalizaci
 
 Los cursos, diplomados, seminarios, maestrías y demás estudios que en su caso imparta el Instituto de Capacitación y Desarrollo para la Fiscalización Superior gozarán de validez y reconocimiento oficial; las constancias respectivas se expedirán con base a lo dispuesto por las leyes de la materia. Éste dispondrá del presupuesto que se le asigne anualmente, así como de los ingresos autogenerados que obtenga por la recuperación de cuotas por los servicios que preste y otras actividades que realice relacionadas con sus objetivos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2014)</small>
 
-### CAPÍTULO XIII. DE LA REVISIÓN DE SITUACIONES EXCEPCIONALES
+### CAPÍTULO XIII. DE LA REVISIÓN DE SITUACIONES EXCEPCIONALES O EXTRAORDINARIAS
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2014)</small>
 
 ###### Artículo 81.
 
-Cuando se presenten denuncias sustentadas en pruebas de las cuales pueda inferirse el probable manejo, aplicación o custodia irregular de recursos públicos estatales o municipales, o de su desvío; el Órgano, una vez valorada la denuncia estará facultado para, sin perjuicio del principio de posterioridad, proceder a requerir a los Sujetos de Fiscalización, revisiones de conceptos específicos durante el ejercicio fiscal en curso, vinculados de manera directa a las denuncias presentadas.
+Cuando se presenten denuncias sustentadas en pruebas de las cuales pueda inferirse el probable manejo, aplicación o custodia irregular de recursos públicos estatales o municipales, o de su desvío; el Órgano excepcionalmente, una vez valorada la denuncia estará facultado para, sin perjuicio del principio de posterioridad, proceder a requerir a los Sujetos de Fiscalización, revisiones de conceptos específicos durante el ejercicio fiscal en curso, vinculados de manera directa a las denuncias presentadas.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 En el requerimiento se deberá expresar el motivo que lo origine y los indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño al Estado o a los municipios en su hacienda pública.
 
@@ -1513,6 +1515,20 @@ e) El riesgo de que se paralice la prestación de servicios o funciones pública
 
 f) El uso de recursos financieros para fines distintos a los autorizados.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2014)</small>
+
+###### Artículo 83 Bis.
+
+Para los efectos de esta ley se entenderán por situaciones extraordinarias y como consecuencia procederá la fiscalización del ejercicio fiscal en curso, aplicando en lo conducente el proceso previsto para tal fin, los supuestos que a continuación se enuncian:
+
+I. Cuando el servidor público encargado del manejo de los recursos económicos o programas renuncia o se separa de su cargo, y dada la naturaleza del mismo implique un riesgo a las haciendas públicas;
+
+II. Derivado de sentencias o resoluciones que las autoridades competentes emitan destituyendo, suspendiendo o inhabilitando a servidores públicos encargados del manejo de los recursos económicos o programas;
+
+III. Tratándose del año de la conclusión del ejercicio constitucional de los sujetos fiscalizables o culminación del cargo de su titular, siempre y cuando los avances de gestión financiera y cuenta pública en su caso, de los ejercicios fiscales transcurridos durante su encargo, se hubieran entregado en tiempo y forma como lo dispone la presente ley, y/o
+
+IV. Cuando por la relevancia de alguna obra pública en lo particular y a criterio del sujeto fiscalizable sea necesario transparentar la utilización del recurso debido al interés social.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### Artículo 84.
@@ -1529,7 +1545,7 @@ El fincamiento de responsabilidades y la imposición de sanciones no relevará a
 
 Lo dispuesto en el presente capítulo, no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO XIV. CONTRALORÍA SOCIAL
 
@@ -1668,3 +1684,7 @@ Artículo Cuarto.- Los procedimientos resarcitorios que a la fecha de entrada en
 P.O. 19 DE NOVIEMBRE DE 2013.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 22 DE MAYO DE 2014.
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
