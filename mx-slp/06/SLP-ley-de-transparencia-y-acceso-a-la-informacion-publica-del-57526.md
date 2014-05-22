@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2014-04-05"
+last_updated: "2014-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -471,13 +471,17 @@ VIII. Los informes y cuentas públicas que por disposición legal deben entregar
 
 IX. Resoluciones diversas tomadas por las comisiones de gobierno interior y legislativas, por el Pleno o la Diputación Permanente;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-X. El número y la denominación de los grupos parlamentarios, y de las representaciones parlamentarias, existentes en el Congreso del Estado; el nombre de las diputadas y diputados que los integren, así como quien funja como coordinador del mismo y, si los hubiere, los demás nombramientos de sus integrantes, y
+X. El número y la denominación de los grupos parlamentarios, y de las representaciones parlamentarias, existentes en el Congreso del Estado; el nombre de las diputadas y diputados que los integren, así como quien funja como coordinador del mismo y, si los hubiere, los demás nombramientos de sus integrantes;
 
-> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
 
-XI. Las demás que establezcan su Ley Orgánica y demás disposiciones aplicables.
+XI. El marco jurídico vigente con sus modificaciones. Además, el Presupuesto de Egresos de los tres poderes del Estado; de los organismos constitucionales autónomos; y de los ayuntamientos; la Ley de Ingresos del Estado, y las de los ayuntamientos del año que correspondan, a más tardar dentro de los primeros diez días naturales a su publicación en el Periódico Oficial del Estado, y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
+
+XII. Las demás que establezcan su ley orgánica y demás disposiciones aplicables.
 
 ###### ARTICULO 22.
 
@@ -1461,7 +1465,7 @@ PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación
 
 SEGUNDO.- Se reforma (sic) los artículos transitorios: Décimo; Décimo Primero; y Décimo Segundo del Decreto Legislativo No. 234 publicado en el Periódico Oficial del Estado, el 18 de octubre de 2007, para quedar como sigue:
 
-ARTICULOS TRANSITORIOS DECRETO LEGISLATIVO No. 234
+ARTÍCULOS TRANSITORIOS DECRETO LEGISLATIVO No. 234
 
 PRIMERO a NOVENO.
 
@@ -1548,3 +1552,9 @@ P.O. 5 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición contraria al presente Decreto.
+
+P.O. 22 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
