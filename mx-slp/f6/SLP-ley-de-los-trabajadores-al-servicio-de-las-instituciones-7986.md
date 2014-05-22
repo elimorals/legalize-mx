@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2014-04-05"
+last_updated: "2014-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -217,9 +217,11 @@ VII.- El libre acceso y desplazamiento de las personas en general, así como tam
 
 VIII.- Las que fueran necesarias a fin de obtener más seguridad y eficacia en el trabajo.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 23.
 
-Deberán ser consultadas la Secretaría de Planeación y Finanzas y las tesorerías municipales correspondientes, para la fijación de las condiciones generales de trabajo que impliquen erogación con cargos a los gobiernos estatal y municipal.
+Deberán ser consultadas la Secretaría de Finanzas y las tesorerías municipales correspondientes, para la fijación de las condiciones generales de trabajo que impliquen erogación con cargos a los gobiernos estatal y municipal.
 
 ###### ARTICULO 24.
 
@@ -1479,9 +1481,11 @@ III.- El arresto hasta por treinta y seis horas.
 
 El Presidente del tribunal podrá castigar las infracciones a esta ley, que no tengan señalada otra sanción, con multa de hasta quince veces el salario mínimo diario general vigente en la Entidad, pero si se trata del trabajador, se estará a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 178.
 
-Para hacer efectivas las multas, deberá girarse oficio al Secretario de Planeación y Finanzas del Estado. Cumplimentada la multa, la oficina recaudadora rendirá informe al tribunal con los datos correspondientes que acrediten su recepción.
+Para hacer efectivas las multas deberá girarse oficio al titular de la Secretaría de Finanzas del Estado. Cumplimentada la multa, la oficina recaudadora rendirá informe al tribunal con los datos correspondientes que acrediten su recepción.
 
 ###### ARTICULO 179.
 
@@ -1721,7 +1725,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN JOSE RODRIGUEZ.
 
-> <small>N. DE E. A CONTINUACIóN SE TRANSCRIBEN LOS ARTíCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE OCTUBRE DE 2010.
 
@@ -1770,3 +1774,9 @@ P.O. 5 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
