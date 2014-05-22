@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-sistema-municipal-para-el-57092"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-07"
-last_updated: "2009-07-29"
+last_updated: "2014-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA HEROICA PUEBLA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO PUNTO DEL DICTAMEN POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL SISTEMA MUNICIPAL DIF, PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 7 de septiembre de 2007.
 
@@ -871,7 +873,7 @@ Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Me
 
 El Secretario del Honorable Ayuntamiento del Municipio de Puebla, en uso de las facultades que le confiere el artículo 138 fracción VII de la Ley Orgánica Municipal. CERTIFICA: Que las presentes copias compuestas de veintitrés fojas útiles su frente, son copia fiel de su original, a las que me remito, tuve a la vista y cotejé, relativas al Dictamen del Honorable Ayuntamiento del Municipio de Puebla, mediante el cual se aprueba reformar, adicionar y derogar disposiciones del Reglamento Interior del Sistema Municipal para el Desarrollo Integral de la Familia de la Heroica Puebla de Zaragoza, aprobado por unanimidad de votos en Sesión Ordinaria de Cabildo de fecha once de julio del presente año, mismas que obran en el archivo de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los dos días del mes de agosto del año dos mil siete, para los efectos legales a que se haya lugar, quedando registrada con el número 1642.- El Secretario del Honorable Ayuntamiento del Municipio de Puebla.- MOISÉS IGNACIO MIER VELASCO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 29 DE JULIO DE 2009.
 
@@ -884,3 +886,23 @@ SEGUNDO. Quedan sin efecto todas las disposiciones que se opongan al contenido d
 PRIMERO.- Se aprueban en todos sus términos las reformas, adiciones y derogaciones a diversas disposiciones del Reglamento Interior del Sistema Municipal para el Desarrollo Integral de la Familia de la Heroica Puebla de Zaragoza, en los términos que se señalan en el Considerando IX del presente Dictamen.
 
 SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento para que en la forma legal correspondiente realice los trámites necesarios, a fin de que se publique por una sola vez en el Periódico Oficial del Estado las reformas, adiciones y derogaciones a diversas disposiciones del Reglamento Interior del Sistema Municipal para el Desarrollo Integral de la Familia de la Heroica Puebla de Zaragoza, que se aprueban mediante el presente Dictamen.
+
+P.O. 22 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones municipales administrativas que se opongan al presente Reglamento.
+
+Por lo anteriormente expuesto y fundado, se aprueba el siguiente:
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL DICTAMEN QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- Se aprueba el Reglamento Interior del Sistema Municipal DIF, en términos de lo señalado en el Considerando XXI del presente Dictamen.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Sistema Municipal DIF, publicado en el Periódico Oficial del Estado de Puebla, el siete de septiembre de dos mil siete.
+
+TERCERO.- Se instruye al Secretario del Ayuntamiento para que en la forma legal correspondiente realice los trámites necesarios ante la Secretaría General de Gobierno del Estado y sea publicado por una sola vez en el Periódico Oficial del Estado de Puebla, el Reglamento Interior del Sistema Municipal DIF.
