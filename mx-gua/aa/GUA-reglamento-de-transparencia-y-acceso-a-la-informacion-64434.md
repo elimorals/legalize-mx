@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-transparencia-y-acceso-a-la-informacion-64434"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-31"
-last_updated: "2008-10-31"
+last_updated: "2014-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 23 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 31 de octubre del 2008.
 
@@ -420,3 +422,23 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 GUSTAVO ADOLFO GONZÁLEZ ESTRADA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MAYO DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Reglamento de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado de Guanajuato, contenido en el Decreto Gubernativo número 87, publicado en el Periódico Oficialdel (sic) Gobierno del Estado número 175, Segunda Parte, de fecha 31 de octubre de 2008.
+
+Requisitos para titulares de las Unidades de Enlace
+
+Artículo Tercero. Los requisitos para ser titulares de las Unidades de Enlace, serán exigibles para los nombramientos emitidos con posterioridad a la entrada en vigencia del presente reglamento.
+
+Programa de Transparencia
+
+Artículo Cuarto. El titular de la Unidad emitirá en el plazo de 180 días, un Programa de Transparencia que prevea las áreas de oportunidad en el Poder Ejecutivo para difundir información pública susceptible de ser publicada en el Portal de Transparencia, en el que se incluyan especificaciones de difusión, condiciones de sustentabilidad y requerimientos tecnológicos; cuya finalidad será generar una política dinámica que permita la ampliación de la información a disposición de la ciudadanía.
