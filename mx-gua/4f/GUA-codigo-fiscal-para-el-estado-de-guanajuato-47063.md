@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-47063"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-11-25"
-last_updated: "2013-06-07"
+last_updated: "2014-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014.
 
 Código publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de noviembre de 2005.
 
@@ -121,9 +121,11 @@ Se aplicarán de manera estricta las normas fiscales que establecen cargas a los
 
 Para la aplicación de las demás disposiciones fiscales se utilizará cualquier método de interpretación jurídica. A falta de disposición expresa de la legislación fiscal, siempre que no contravenga a ésta, se aplicarán supletoriamente las normas del derecho común vigente en el estado.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 7.
 
-Las leyes y demás disposiciones fiscales de carácter general, entrarán en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, salvo que en las mismas se señale una fecha posterior.
+Las leyes y demás disposiciones fiscales de carácter general, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, o en el término que ahí se establezca.
 
 ###### ARTÍCULO 8.
 
@@ -2444,3 +2446,7 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 23 DE MAYO DE 2014.
+
+Artículo Único. El presente Decreto entrará en vigencia el día de su publicación en el Periódico Oficial del Gobierno del Estado.
