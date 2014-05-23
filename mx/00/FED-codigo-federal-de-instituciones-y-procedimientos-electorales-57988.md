@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-57
 country: "mx"
 rank: "codigo"
 publication_date: "2008-01-14"
-last_updated: "2014-05-20"
+last_updated: "2014-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57988&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-01-11"
 
 CÓDIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, PUBLICADA EN EL D.O.F. DE 23 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014 (ABROGADO).
 
 Código publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 14 de enero de 2008.
 
@@ -5812,3 +5814,39 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
 
 Tercero.- Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
+
+D.O.F. 23 DE MAYO DE 2014.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Código Federal de Instituciones y Procedimientos Electorales publicado en el Diario Oficial de la Federación el 14 de enero de 2008, así como sus reformas y adiciones.
+
+Tercero. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior, sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
+
+Cuarto. El personal del Instituto Nacional Electoral que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Quinto. Cuando con motivo del presente Decreto, cualquier órgano, central o desconcentrado del Instituto cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo.
+
+Sexto. El Consejo General del Instituto Nacional Electoral dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley y deberá expedir los reglamentos que se deriven del mismo a más tardar en 180 días a partir de su entrada en vigor.
+
+Las disposiciones generales emitidas por el Instituto Federal Electoral o por el Instituto Nacional Electoral, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución y la presente Ley, hasta en tanto el Consejo General del Instituto Nacional Electoral no emita aquéllas que deban sustituirlas.
+
+Séptimo. Los partidos políticos deberán adecuar sus documentos básicos y demás reglamentación interna a lo previsto en esta Ley y en las demás disposiciones legales aplicables.
+
+Octavo. Las credenciales para votar con fotografía vigentes con nomenclatura del IFE se mantendrán como válidas hasta la fecha de su vencimiento. Lo anterior sin perjuicio de que éstas puedan ser renovadas por extravío, cambio de domicilio u otras circunstancias, o bien, sustituidas por los ciudadanos en los términos que determine el Instituto.
+
+Noveno. Por única ocasión, los procesos electorales ordinarios federales y locales correspondientes a las elecciones respectivas que tendrán lugar el primer domingo de junio del año 2015 iniciarán en la primera semana del mes de octubre del año 2014. Para tal efecto el Consejo General del Instituto Nacional Electoral aprobará los ajustes necesarios a los plazos establecidos en la presente Ley.
+
+Décimo. Para los procesos electorales locales cuya jornada electoral se realice en 2015, el Consejo General del Instituto deberá desarrollar el proceso de designación de los integrantes de los Consejos Generales de los órganos locales, en los términos de los párrafos 1, 2 y 3 del inciso c) de la fracción IV del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, a más tardar el 30 de septiembre de 2014. Respecto a las demás entidades federativas, la elección se habrá de realizar con antelación al inicio de su siguiente proceso electoral.
+
+El Consejo General del Instituto deberá realizar los nombramientos de forma escalonada, en los siguientes términos:
+
+a) Tres consejeros que durarán en su encargo tres años;
+
+b) Tres consejeros que durarán en su encargo seis años, y
+
+c) Un consejero que durará en su encargo siete años.
+
+Décimo Primero. Las elecciones ordinarias federales y locales que se verifiquen en el año 2018 se llevarán a cabo el primer domingo de julio.
+
+Décimo Segundo. Las funciones correspondientes a la capacitación electoral, así como la ubicación de las casillas y la designación de funcionarios de la mesa directiva, en los procesos electorales locales, delegadas a los Organismos Públicos Locales por virtud de la publicación del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, se mantendrán delegadas hasta en tanto no sean reasumidas por votación de la mayoría del Consejo General del Instituto Nacional Electoral, en términos del Octavo Transitorio de dicho Decreto.
