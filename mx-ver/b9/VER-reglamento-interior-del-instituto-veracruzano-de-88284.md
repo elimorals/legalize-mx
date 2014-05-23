@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-instituto-veracruzano-de-88284"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-20"
-last_updated: "2012-06-20"
+last_updated: "2014-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE BIOENERGÉTICOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE BIOENERGÉTICOS, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DE 23 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el miércoles 20 de junio de 2012.
 
@@ -484,3 +486,15 @@ Comisario de la Contraloría General
 Rúbrica.
 
 Estas firmas corresponden al Reglamento del Instituto Veracruzano de Bioenergéticos, aprobado mediante Acuerdo C.D./IVB/S.O./01-12-12 en la primera sesión ordinaria 2012 del Consejo Directivo del Instituto Veracruzano de Bioenergéticos, celebrada en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, el veintiocho de marzo de dos mil doce, mediante Acuerdo C.D ./IVB/S.O./01-12-12.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 23 DE MAYO DE 2014.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto Veracruzano de Bioenergéticos de 28 de marzo de 2012, publicado en la Gaceta Oficial del Estado número 201 el 20 de junio de 2012 y se derogan todas las demás disposiciones que se opongan al presente reglamento.
+
+Artículo Tercero. Los actos y procedimientos administrativos iniciados por las unidades administrativas que cambian de denominación, continuarán su trámite, hasta su conclusión, por las de nueva denominación y de funciones equivalentes.
+
+Artículo Cuarto. En un plazo de noventa días el Instituto deberá expedir el manual de Organización, Procedimientos y Servicio al Público.
