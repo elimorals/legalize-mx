@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2013-12-03"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -105,7 +105,7 @@ Quienes al realizar una conducta prevista como delito en las leyes penales sean 
 
 ###### Artículo 7o.
 
-Cuando se realice una conducta tipificada penalmente por otra ley y que deban aplicar los tribunales del Estado, será esa la que se aplique, observándose, en su caso, las disposiciones generales de este Código en lo no previsto por aquélla.
+Cuando se realice una conducta tipificada penalmente por otra ley y que deban aplicar los tribunales del Estado, será esa la que se aplique, observándose, en su caso, las disposiciones generales de este Código en lo previsto por aquélla.
 
 ## TÍTULO SEGUNDO. EL DELITO
 
@@ -475,13 +475,11 @@ IX.- Las demás que prevengan las leyes.
 
 ### CAPÍTULO II. PRISIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
 
 ###### Artículo 39.
 
-La prisión consiste en la privación de la libertad personal, en la institución penitenciaria que el Ejecutivo del Estado designe. Su duración podrá ser de dos meses a cuarenta años, salvo lo dispuesto en el artículo 31-a.
+La prisión consiste en la privación de la libertad personal, en la institución penitenciaria que el Ejecutivo del Estado designe. Su duración podrá ser de dos meses a cuarenta años, salvo lo dispuesto en los artículos 31-a y 153-a.
 
 ###### Artículo 40.
 
@@ -1685,11 +1683,25 @@ VI.- Que exista o haya existido con el activo relación íntima, de convivencia,
 
 VII.- Que su cuerpo sea expuesto o arrojado en un lugar público.
 
-Para los efectos de su punibilidad, el feminicidio será considerado como un homicidio calificado.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+
+Al responsable de feminicidio se le impondrá de treinta a sesenta años de prisión y de trescientos a seiscientos días multa.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+Si concurre con el mismo u otro delito, se acumularán las penas que por cada uno se impongan. La de prisión no podrá exceder de setenta años.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 153
+
+a-1.- Si no se llegaren a probar los supuestos establecidos en el artículo 153-a, pero quien fue privada de la vida hubiere sido mujer, se aplicarán las sanciones del homicidio según la clasificación que le corresponda.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 (REUBICADO, ANTES CAPÍTULO IV, P.O. 3 DE JUNIO DE 2011)
+
+### CAPÍTULO IX. DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
 
 ###### Artículo 153
 
@@ -1698,8 +1710,6 @@ b.- A quien prive de la vida a otro en forma culposa será sancionado con pena d
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO IX. DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
 
 ###### Artículo 154.
 
@@ -3109,7 +3119,7 @@ III.- Posea material de pornografía infantil, que no tenga otro destino que su 
 
 ###### Artículo 237.
 
-A quien procure, facilite o mantenga en la corrupción a un menor de dieciocho años de edad o a un incapaz, mediante actos lascivos o sexuales, o lo induzca a la mendicidad, ebriedad, a realizar una conducta sexual, al uso de substancias de cualquier naturaleza dañosas (sic) a la salud, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicará prisión de tres a ocho años y de cincuenta a doscientos días multa. Si el agente ejerce violencia sobre el pasivo la sanción se aumentará hasta una tercera parte.
+A quien procure, facilite o mantenga en la corrupción a un menor de dieciocho años de edad o a un incapaz, mediante actos lascivos o sexuales, o lo induzca a la mendicidad, ebriedad, a realizar una conducta sexual, al uso de substancias de cualquier naturaleza dañosa a la salud, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicará prisión de tres a ocho años y de cincuenta a doscientos días multa. Si el agente ejerce violencia sobre el pasivo la sanción se aumentará hasta una tercera parte.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3151,7 +3161,7 @@ a.- Además de las sanciones impuestas a quienes incurran en los delitos descrit
 
 ###### Artículo 240.
 
-A quien explote el cuerpo de otra persona por medio del comercio carnal u obtenga de él un lucro cualquiera, se le aplicará prisión de seis meses a tres años y de cinco a treinta días multa.
+A quien explote el cuerpo de otra persona por medio del comercio camal u obtenga de él un lucro cualquiera, se le aplicará prisión de seis meses a tres años y de cinco a treinta días multa.
 
 Si la víctima fuere menor de dieciocho años o incapaz, se castigará con pena de cuatro a ocho años de prisión y de cuarenta a ochenta días multa. Si emplea la violencia, las penas se aumentarán hasta una mitad más.
 
@@ -3795,7 +3805,7 @@ III.- Descargue o deposite residuos de manejo especial, residuos sólidos urbano
 
 IV.- Ocasione un incendio que dañe a los recursos, vegetación, cuencas hidrológicas o ecosistemas forestales.
 
-Cuando en la comisión de este delito intervenga un servidor público, la pena de prisión se aumentará en una mitad y se le inhabilitará de uno a cuatro años para ocupar cargo, empleo o comisión públicos.
+Cuando en la comisión de este delito intervenga un servidor público, la pena de prisión se aumentará en una mitad y se le in habilitará de uno a cuatro años para ocupar cargo, empleo o comisión públicos.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -3863,7 +3873,7 @@ I.- La muerte o mutilación de un animal vertebrado resultado de actividades lí
 
 II.- La muerte o mutilación de un animal vertebrado que constituya plaga.
 
-III.- La muerte o mutilación de un animal vertebrado por causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
+III.- La muerte o mutilación de un animal vertebrado par causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
 
 IV.- El sacrificio de un animal vertebrado para consumo humano.
 
@@ -4000,3 +4010,7 @@ Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguie
 P.O. 3 DE DICIEMBRE DE 2013.
 
 Único. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 23 DE MAYO DE 2014.
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
