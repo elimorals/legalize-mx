@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-archivos-generales-del-estado-y-los-600
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-15"
-last_updated: "2008-02-15"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO PARA EL PODER EJECUTIVO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de febrero de 2008.
 
@@ -55,7 +55,9 @@ El Archivo General del Poder Ejecutivo estará integrado por las siguientes áre
 
 I. Los archivos de trámite de las dependencias y entidades del Poder Ejecutivo;
 
-II. Los archivos de concentración de las dependencias y entidades del Poder Ejecutivo; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+II. El archivo de concentración de las dependencias y entidades del Poder Ejecutivo; y
 
 III. Un archivo histórico.
 
@@ -71,29 +73,37 @@ Encargado de las dependencias y entidades en materia archivística
 
 Las dependencias y entidades, por conducto de su titular, designarán a un encargado, el cual tendrá las atribuciones que prevé este Reglamento.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 5.
 
 Glosario de términos
 
 Para efectos de este Reglamento, además de los conceptos previstos en la Ley de Archivos Generales del Estado y los Municipios de Guanajuato, se entenderá por:
 
-I. Archivo General del Poder Ejecutivo: AGPE;
+I. AGPE: El Archivo General del Poder Ejecutivo;
 
-II. Clave de Clasificación: Marca numérica, alfabética o alfanumérica que se utiliza para clasificar documentos o expedientes;
+II. Baja documental: Eliminación de aquella documentación que haya prescrito su vigencia y valor administrativo, legal, fiscal o contable, y que no contenga valores históricos;
 
-III. Expediente: Unidad organizada de uno o varios documentos reunidos por la unidad que lo produce o integra para su uso corriente, durante el proceso de organización archivística referidos al mismo tema, actividad o asunto. El expediente es la unidad básica de la serie;
+III. Clave de Clasificación: Marca numérica, alfabética o alfanumérica que se utiliza para clasificar documentos o expedientes;
 
-IV. Ley: Ley de Archivos Generales del Estado y los Municipios de Guanajuato;
+IV. Documentos de Trabajo: Aquellos que se generan para apoyar las tareas administrativas y cuya utilidad reside en la información que contienen para el desarrollo de las mismas;
 
-V. Ordenación: Acción de unir secuencialmente los expedientes que conforman series mediante la aplicación de diferentes métodos;
+V. Expediente: Unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
 
-VI. Signatura de instalación: Referencia que permite identificar y localizar donde se encuentran depositados los documentos y expedientes;
+VI. Guía simple de archivo: Instrumento en el que se expone de manera general la estructura de los archivos del Poder Ejecutivo por medio de la descripción de las series documentales conforme al cuadro general de clasificación archivística, las características fundamentales y sus datos generales;
 
-VII. Transferencia primaria: Traslado controlado y sistemático de expedientes de un archivo de trámite al archivo de concentración;
+VII. Ordenación: Acción de unir secuencialmente los expedientes que conforman series, mediante la aplicación de diferentes métodos;
 
-VIII. Transferencia secundaria: Traslado controlado y sistemático de expedientes del archivo de concentración al archivo histórico que deben conservarse de manera permanente; y
+VIII. Signatura de instalación: Referencia que permite identificar y localizar donde se encuentran depositados los documentos y expedientes;
 
-IX. Valoración documental: Procedimiento que permite determinar el periodo de conservación de los documentos de archivo para establecer acciones de transferencia y criterios de disposición, mediante el análisis e identificación del valor primario o valor secundario.
+IX. Transferencia primaria: Traslado controlado y sistemático de expedientes de un archivo de trámite al archivo de concentración;
+
+X. Transferencia secundaria: Traslado controlado y sistemático de expedientes del archivo de concentración al archivo histórico, que deben conservarse de manera permanente;
+
+XI. Valoración documental: Actividad que consiste en el análisis e identificación de los valores que poseen los documentos para establecer su destino final; y
+
+XII. Vigencia documental: Periodo durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales o contables, de conformidad con las disposiciones jurídicas vigentes y aplicables.
 
 ### Capítulo II. De las Atribuciones del Responsable del Archivo General del Poder Ejecutivo y de los Encargados
 
@@ -113,13 +123,23 @@ IV. Presidir el Comité Técnico Consultivo;
 
 V. Programar reuniones de trabajo y realizar cursos de capacitación en materia archivística, dirigidos a los encargados de las dependencias y entidades;
 
-VI. Realizar visitas a las áreas de archivo de las dependencias y entidades para emitir opinión respecto a su organización y funcionamiento;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+VI. Realizar visitas a las dependencias y entidades para supervisar la conservación, organización y funcionamiento de sus áreas de archivo, elaborando el diagnóstico correspondiente, que podrá contener las observaciones que deberán subsanar o las medidas a implementar;
 
 VII. Proporcionar asesoría en materia archivística a los encargados cuando así lo soliciten;
 
-VIII. Difundir los alcances de este Reglamento entre los encargados de las dependencias y entidades del Poder Ejecutivo; y
+VIII. Difundir los alcances de este Reglamento entre los encargados de las dependencias y entidades del Poder Ejecutivo; y (sic)
 
 IX. Organizar individual o conjuntamente con instituciones culturales y académicas, exposiciones, conferencias, seminarios, entre otros, para promover y difundir actividades de extensión cultural en la materia.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+X. Promover una cultura de valoración de los archivos y su reconocimiento como sustento de la actividad gubernamental para la rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+Asimismo, en el supuesto de que no se subsanen o implementen las observaciones o medidas previstas en la fracción VI, lo hará del conocimiento de la Secretaría de la Transparencia y Rendición de Cuentas.
 
 ###### Artículo 7.
 
@@ -129,13 +149,27 @@ Los encargados de las dependencias y entidades tendrán las siguientes atribucio
 
 I. Observar la normativa archivística para el funcionamiento de los archivos de la dependencia o entidad correspondiente;
 
-II. Brindar apoyo al personal de las áreas de archivos de trámite y de concentración, en la elaboración y actualización del Cuadro General de Clasificación Archivística, el Catálogo de Disposición Documental e Inventarios Documentales;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+II. Coordinar al personal de área de archivos de trámite, con la participación del área jurídica de la dependencia o entidad, en la elaboración y actualización del Cuadro General de Clasificación Archivística, el Catálogo de Disposición Documental e Inventarios Documentales;
 
 III. Coadyuvar con el responsable del AGPE en las acciones de capacitación que deban impartirse en las dependencias y entidades;
 
 IV. Observar los manuales de organización y procedimientos en materia archivística expedidos por el responsable del AGPE, sin perjuicio de que elaboren los propios atendiendo a los primeros; y
 
 V. Proponer al titular de la dependencia o entidad correspondiente, la infraestructura y acciones básicas para el funcionamiento de los archivos de trámite y de concentración.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 7 Bis.
+
+Perfil del encargado en materia archivística
+
+Para ser encargado en materia archivística se requiere:
+
+I. Contar con nivel de licenciatura o carrera técnica o sus equivalentes, en cualquier rama del conocimiento, preferentemente en archivonomía, archivología, gestión documental o historia; y
+
+II. Tener experiencias en manejo de archivos y al menos dos años en la administración pública.
 
 ### Capítulo III. De la Unidad de Correspondencia
 
@@ -177,11 +211,15 @@ V. Anexos, registrando el número de documentos que acompañan la correspondenci
 
 ### Capítulo IV. Del Funcionamiento del Archivo General del Poder Ejecutivo
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 11.
 
-Archivos de trámite y de concentración para las dependencias y entidades
+Archivos de trámite y de concentración
 
-Las dependencias y entidades contarán con los archivos de trámite y de concentración que sean necesarios, de conformidad con su estructura administrativa, naturaleza de sus funciones y disponibilidad presupuestaria.
+Las dependencias y entidades contarán con los archivos de trámite que sean necesarios, de conformidad con su estructura administrativa, naturaleza de sus funciones y disponibilidad presupuestaria.
+
+Se contará con un archivo de concentración para las dependencias y entidades.
 
 #### Sección Primera. Del Archivo de Trámite
 
@@ -191,15 +229,25 @@ Funciones del área de archivo de trámite
 
 El área de archivo de trámite tendrá las siguientes funciones:
 
-I. Recibir los expedientes que contengan asuntos concluidos de uso cotidiano o de consulta frecuente y elaborar su portada;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+I. Integrar los expedientes de archivo y elaborar su portada;
 
 II. Establecer la ordenación de los expedientes, con base en el Cuadro General de Clasificación Archivística y respetando la integración de los mismos;
 
 III. Elaborar inventarios documentales, para la instalación de los expedientes, preferentemente en archiveros;
 
-IV. Conservar los expedientes por el tiempo que establezca el Catálogo de Disposición Documental; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
 
-V. Realizar transferencias primarias al archivo de concentración, al concluir el plazo de conservación establecido para el archivo de trámite.
+IV. Conservar los expedientes que se encuentran activos, por el tiempo que establezca el Catálogo de Disposición Documental;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+V. Realizar transferencias primarias al archivo de concentración, al concluir el plazo de conservación establecido para el archivo de trámite; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+VI. Previo a la transferencia primaria, deberá realizar el expurgo de los expedientes, mediante el retiro de los documentos de trabajo y objetos ajenos contenidos en los mismos.
 
 ###### Artículo 13.
 
@@ -233,19 +281,39 @@ En la ceja de la portada del expediente deberá señalarse la clave de clasifica
 
 #### Sección Segunda. Del Archivo de Concentración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 15.
 
-Funciones del área de archivo de concentración
+Funciones del archivo de concentración
 
-El área de archivo de concentración tendrá las siguientes funciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2014)</small>
+
+El archivo de concentración tendrá las siguientes funciones:
 
 I. Recibir de los archivos de trámite los documentos semiactivos y cotejar que el contenido de los inventarios documentales de transferencia primaria, coincida con los expedientes para su control y consulta;
 
 II. Colocar preferentemente los expedientes en cajas de archivo e instalarlas en estantería para su manejo;
 
-III. Conservar y seleccionar los expedientes por el tiempo que establezca el Catálogo de Disposición Documental; y
+III. Conservar y seleccionar los expedientes por el tiempo que establezca el Catálogo de Disposición Documental; y (sic)
 
 IV. Elaborar los inventarios documentales de transferencia secundaria o para baja documental, de acuerdo a lo establecido en el Catálogo de Disposición Documental.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+V. Orientar al personal involucrado en las actividades archivísticas de las dependencias y entidades del Poder Ejecutivo sobre el proceso de transferencias primarias al archivo de concentración;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+VI. Elaborar y actualizar el catálogo topográfico institucional del archivo de concentración;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+VII. Supervisar la organización del acervo documental del archivo de concentración; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+VIII. Supervisar conforme al Catálogo de Disposición Documental de las dependencias y entidades del Poder Ejecutivo, los plazos de conservación de las series documentales en el archivo de concentración.
 
 ###### Artículo 16.
 
@@ -269,13 +337,25 @@ Funciones del área de archivo histórico
 
 El área de archivo histórico tendrá las siguientes funciones:
 
-l. Recibir de los archivos de concentración los expedientes que contengan documentos históricos y cotejar que el contenido de los inventarios documentales coincida con los expedientes para su control y consulta;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+I. Recibir del archivo de concentración los expedientes que contengan documentos históricos y cotejar que el contenido de los inventarios documentales coincida con los expedientes para su control y consulta;
 
 II. Colocar los expedientes en cajas de archivo e instalarlas en estantería para su manejo;
 
-III. Restaurar, en su caso, los documentos que por su deterioro requieran ser intervenidos; y
+III. Restaurar, en su caso, los documentos que por su deterioro requieran ser intervenidos; y (sic)
 
-IV. Elaborar y actualizar guías y catálogos con el propósito de facilitar la consulta de los expedientes y acervos de apoyo, y en su caso, la exposición pública de documentos que obren en el mismo.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+IV. Elaborar y actualizar guías, inventarios y catálogos con el propósito de facilitar la consulta de los expedientes y documentos del archivo histórico y de los acervos de apoyo, y en su caso, realizar o autorizar la exposición pública de documentos que obren en el mismo;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+V. Supervisar las transferencias secundarias que se realicen al Archivo Histórico; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+VI. Llevar el Registro de Archivos Históricos del Estado.
 
 ###### Artículo 19.
 
@@ -323,13 +403,15 @@ a) Por series; y
 
 b) De documentos y expedientes.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 21.
 
 Elaboración y actualización del Cuadro General de Clasificación Archivística y del Catálogo de Disposición Documental
 
-El Cuadro General de Clasificación Archivística y el Catálogo de Disposición Documental deberán ser elaborados y actualizados por el personal de los archivos de trámite en coordinación con el encargado de la dependencia o entidad.
+El Cuadro General de Clasificación Archivística deberá ser elaborado y actualizado por el personal de los archivos de trámite en coordinación con el encargado de la dependencia o entidad.
 
-De igual forma, los titulares de las diferentes áreas administrativas brindarán el apoyo necesario para la elaboración de los instrumentos señalados en el párrafo anterior.
+De igual forma, los titulares de las diferentes áreas administrativas brindarán el apoyo necesario para la elaboración del instrumento señalado en el párrafo anterior y del Catálogo de Disposición Documental.
 
 #### Sección Primera. Del Cuadro General de Clasificación Archivística
 
@@ -365,7 +447,9 @@ IV. Valoración documental;
 
 V. Plazos de conservación;
 
-VI. Vigencia documental y, en su caso fundamento jurídico;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+VI. Fundamento jurídico que sustente los plazos de conservación o, en su caso, los motivos y argumentos para establecerlos;
 
 VII. Tipo de soporte documental, que es el material en el que está plasmada la información;
 
@@ -407,9 +491,15 @@ III. Descripción breve del contenido de cada expediente;
 
 IV. Volumen total de documentos o expedientes;
 
-V. Signatura de instalación; y
+V. Signatura de instalación; y (sic)
 
-VI. Nombre y firma de quien elabora el inventario.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+VI. Nombre y firma de quien elabora el inventario; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+VII. Lugar y fecha de elaboración.
 
 ### Capítulo VI. De la Conservación del Archivo General del Poder Ejecutivo
 
@@ -481,11 +571,13 @@ Los integrantes asistirán a las sesiones y ejercerán su derecho a voz y voto.
 
 Los cargos que desempeñen los integrantes del Comité Técnico Consultivo serán honoríficos, por lo que no recibirán retribución, compensación o emolumento alguno.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 32.
 
 Suplentes de los integrantes del Comité Técnico Consultivo
 
-Todos los integrantes del Comité Técnico Consultivo podrán nombrar a un suplente, los cuales tendrán las mismas facultades del integrante propietario.
+Los integrantes del Comité Técnico Consultivo deberán nombrar a un suplente, los cuales tendrán las mismas facultades de los integrantes propietarios.
 
 ###### Artículo 33.
 
@@ -493,11 +585,13 @@ Funciones del Presidente
 
 El Presidente del Comité Técnico Consultivo, por conducto del Secretario Técnico, convocará a sesiones, dirigirá las mismas, coordinará los trabajos del Comité y desempeñará las demás funciones inherentes a su cargo.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 34.
 
 Funciones del Secretario Técnico
 
-El Secretario Técnico tendrá por función proporcionar la información que requiera el Comité Técnico Consultivo para el desarrollo de las sesiones, levantar las actas en éstas y dar seguimiento a los acuerdos que se den al interior, y llevar el archivo correspondiente.
+El Secretario Técnico tendrá por función proporcionar la información que requiera el Comité Técnico Consultivo, para el desarrollo de las sesiones, levantar las actas en éstas, dar seguimiento a los acuerdos que se den al interior, y llevar su archivo. Asimismo, dará seguimiento a la publicación de las actas.
 
 ###### Artículo 35.
 
@@ -505,7 +599,9 @@ Funciones del Comité Técnico Consultivo
 
 El Comité Técnico Consultivo tendrá las siguientes funciones:
 
-I. Establecer el procedimiento al que deberán sujetarse las dependencias y entidades para la valoración documental que deban realizar;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+I. Desahogar el procedimiento, al que deberán sujetarse las dependencias y entidades, para la valoración documental que deba realizar;
 
 II. Asesorar a los encargados de las dependencias y entidades en el procedimiento de la valoración documental;
 
@@ -513,11 +609,135 @@ III. Atender las solicitudes de dictaminación que cumplan con los requisitos es
 
 IV. Dictaminar el destino de los expedientes que procedan del archivo de concentración de acuerdo al Catálogo de Disposición Documental e Inventario de Baja Documental.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 35 Bis.
+
+División del procedimiento para la dictaminación
+
+Los documentos depositados en el archivo de concentración, que no contengan valores primarios y hayan concluido sus plazos de conservación, podrán ser dictaminados por el Comité Técnico Consultivo del Archivo General del Poder Ejecutivo, a través del procedimiento de dictaminación que se divide en:
+
+I. Dictaminación de documentos de archivo de series documentales no dictaminadas; y
+
+II. Autorización de baja de documentos de archivo de series documentales dictaminadas, con base en lo establecido en el dictamen de baja documental.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 35 Ter.
+
+Procedimiento para la dictaminación de documentos de archivo de series documentales no dictaminadas
+
+El procedimiento para la dictaminación de documentos de archivos pertenecientes a series documentales no dictaminadas, inicia con la presentación mediante oficio de solicitud de dictaminación de documentos de archivo por unidad responsable, validada por el titular de la dependencia o entidad o por quien éste designe, dirigida al Presidente del Comité Técnico Consultivo del Archivo General del Poder Ejecutivo, por conducto del Secretario Técnico de dicho Comité, suscrito por el encargado en materia archivística que señala el artículo 4 de este reglamento, especificando:
+
+I. Nombre de la unidad responsable;
+
+II. Nombre de la serie documental, con un máximo de tres series documentales por solicitud;
+
+III. Volumen y periodo de la documentación, manifestando que ya se realizó el expurgo correspondiente;
+
+IV. Se deberá anexar la siguiente documentación:
+
+a) Copia de la solicitud mediante la cual la unidad responsable requiere a su encargado en materia archivística, tramite la dictaminación de los documentos de archivo;
+
+b) Organigrama vigente con sello y fecha, de la dependencia o entidad, donde se ubique la unidad responsable que solicita la dictaminación de documentos de archivo, expedida por el responsable de su área administrativa;
+
+c) Formato del fundamento jurídico en el que se transcriben los artículos de las leyes, reglamentos u otras disposiciones normativas aplicables al periodo de la generación de la documentación de la solicitud de dictaminación, así como, en su caso, los vigentes a la fecha de la solicitud, precisando la fecha de publicación en el Periódico Oficial del Gobierno del Estado que sustente:
+
+c.1. Las funciones y atribuciones de la unidad responsable de la dependencia o entidad que solicita la dictaminación de documentos de archivo; y
+
+c.2. Los plazos de conservación y los valores de la serie documental a dictaminar, mismos que se deberán incluir en el Catálogo de Disposición Documental.
+
+Deberá adjuntar copia fotostática de la publicación del Periódico Oficial del Gobierno del Estado de las leyes, reglamentos u otras disposiciones normativas de donde fue tomado el fundamento, resaltando los dispositivos;
+
+d) De existir acuerdo que haya clasificado la información como reservada en uno o varios expedientes de la serie documental solicitada, presentará copia del documento que contenga el dictamen emitido por la Unidad de Acceso a la Información Pública del Poder Ejecutivo, sobre la desclasificación de la información, cuando haya transcurrido el período de reserva o antes si se extinguen las causas que dieron origen a su clasificación;
+
+e) En su caso, el manual de procedimientos de la dependencia o entidad, que contenga la descripción del proceso y diagrama de flujo de la función o atribución (sección documental) que da origen a la actividad (serie documental);
+
+f) El Catálogo de Disposición Documental correspondiente a la serie documental cuya dictaminación se solicita, con nombre y firma de quien la genera;
+
+g) El Inventario Documental cuya baja o transferencia secundaria se solicita, con nombre y firma de quien lo elabora y valida; y
+
+h) Tres muestras representativas completas de la serie documental, en original, correspondientes al Inventario Documental cuya baja o transferencia secundaria se solicita. Las muestras deberán estar numeradas de conformidad a los tipos documentales descritos en el Catálogo de Disposición Documental.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 35 Quater.
+
+Autorización de baja de documentos de archivo de series documentales dictaminadas
+
+El procedimiento de autorización de baja de documentos de archivos de series documentales dictaminadas; inicia con la presentación del oficio de solicitud de autorización respectiva, validada por el titular de la dependencia o entidad o por quien éste designe, dirigida al presidente del Comité Técnico Consultivo del Archivo General del Poder Ejecutivo, por conducto del Secretario Técnico de dicho Comité, suscrito por el encargado en materia archivística que señala el artículo 4 de este reglamento, especificando:
+
+I. Nombre de la unidad responsable;
+
+II. Nombre de la serie documental, con un máximo de tres series documentales por solicitud;
+
+III. Volumen y periodo de la documentación, manifestando que ya se realizó el expurgo correspondiente;
+
+IV. Se deberá anexar la siguiente documentación:
+
+a) Copia de la solicitud mediante la cual la Unidad Responsable requiere a su encargado en materia archivística, trámite autorización de baja de documentos de archivo;
+
+b) Copia del dictamen de destino final;
+
+c) Inventario documental; y
+
+d) Muestra documental.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 35 Quinquies.
+
+Análisis para la dictaminación
+
+El Secretario Técnico realizará la revisión técnica de la solicitud de dictaminación de documentos de archivo y los anexos, en caso de cumplir con los requisitos señalados la pondrá a consideración del Comité Técnico Consultivo; de no cumplir con dichos requisitos, el Secretario Técnico generará un oficio de observaciones fundado y motivado, donde expondrá cuáles son las deficiencias que presenta la solicitud de dictaminación de documentos de archivo o los anexos, notificando al encargado en materia archivística con copia de conocimiento al titular de la unidad responsable que corresponda y al titular de la dependencia o entidad, devolviendo la documentación y anexos recibidos, para que una vez subsanadas se presente una nueva solicitud.
+
+Si el Comité Técnico Consultivo lo considera necesario, el Presidente por conducto del Secretario Técnico podrá invitar a participar al encargado en materia archivística y al titular de la unidad responsable, a fin de facilitar el análisis correspondiente a la solicitud de dictaminación de documentos de archivo.
+
+El abogado, contador e historiador con el apoyo de los demás integrantes del Comité Técnico Consultivo, realizarán los estudios correspondientes y emitirán opinión acerca del valor primario y secundario de la documentación en la serie documental a dictaminar.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 35 Sexies.
+
+Dictaminación por el Comité Técnico Consultivo
+
+En sesión del Comité Técnico Consultivo se procederá a la revisión y suscripción del dictamen de documentos de archivo.
+
+Los dictámenes por serie documental emitidos por el Comité Técnico Consultivo podrán ser de:
+
+I. Conservación en el archivo de concentración, cuando subsiste valor primario;
+
+II. Conservación en el archivo histórico, cuando contiene valor secundario;
+
+III. De baja documental, cuando no contienen valores primarios ni secundarios;
+
+IV. Mixto, cuando una parte de la serie documental tiene valor primario o secundario y la otra parte no contiene valores; y
+
+V. Improcedencia por incumplimiento de los requisitos de fondo.
+
+El Comité Técnico Consultivo, por conducto del Secretario Técnico, notificará el dictamen por oficio al encargado en materia archivística, con copia al titular de la dependencia o entidad.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 35 Septies.
+
+Plazo para la destrucción documental
+
+La destrucción que haya autorizado el Comité Técnico Consultivo de la documentación de archivo de series documentales dictaminadas, deberá efectuarse dentro de un plazo no mayor de seis meses; una vez realizado lo anterior, el encargado en materia archivística enviará de forma inmediata al Comité Técnico Consultivo el acta de destrucción documental correspondiente, debidamente suscrita por:
+
+I. Encargado en Materia Archivística o la persona que designe mediante oficio; y
+
+II. Dos testigos de la dependencia y entidad.
+
+El acta de destrucción documental deberá señalar la serie documental, volumen y periodo correspondiente al inventario y se deberá anexar copia del dictamen para que forme parte de la misma.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 36.
 
 Conservación de los inventarios de baja documental
 
-Los inventarios de baja documental autorizados por el Comité Técnico Consultivo deberán conservarse en el archivo de concentración de la dependencia o entidad correspondiente.
+Los inventarios de baja documental autorizados por el Comité Técnico Consultivo deberán conservarse en el archivo de concentración.
 
 ###### Artículo 37.
 
@@ -531,7 +751,13 @@ Celebración de sesiones y resoluciones del Comité Técnico Consultivo
 
 Las sesiones ordinarias se celebrarán al menos tres veces al año y las extraordinarias cuando a juicio del Presidente sea necesario. De cada sesión se levantará un acta, la cual deberá estar firmada por los participantes de la misma.
 
-Las resoluciones del Comité Técnico Consultivo se tomarán por mayoría de votos de los integrantes presentes y en caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+
+Los acuerdos y resoluciones del Comité Técnico Consultivo se tomarán por mayoría de votos de sus integrantes y en caso de empate, el Presidente tendrá voto definitorio.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+Para la dictaminación del destino final de los documentos de archivo, el Comité Técnico Consultivo emitirá su dictamen tomando como base la opinión especializada de los integrantes a que se refieren las fracciones III, IV y V del artículo 31 del presente reglamento, de conformidad a su área de conocimiento profesional; opinión que determinará la existencia o extinción de valores primarios o secundarios, a efecto de definir el tipo de dictamen que en su caso corresponda.
 
 ###### Artículo 39.
 
@@ -564,3 +790,29 @@ EL SUBSECRETARIO DE SERVICIOS A LA COMUNIDAD
 Encargado del Despacho de la Secretaría de Gobierno, con fundamento en el artículo 78 del Reglamento Interior de la Secretaría de Gobierno
 
 GERARDO GABRIEL GIL MORALES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MAYO DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Solicitudes previas para trámite de dictaminación de destino final
+
+Artículo Segundo. Las solicitudes de dictaminación del destino final de los expedientes y documentos de las dependencias y entidades del Poder Ejecutivo presentadas ante el Comité Técnico Consultivo, antes de la entrada en vigor del presente Decreto, serán atendidas y resueltas de conformidad con el procedimiento vigente al momento de la presentación de cada solicitud en particular.
+
+Autorización excepcional sobre el archivo de concentración
+
+Artículo Tercero. El responsable del Archivo General del Poder Ejecutivo podrá autorizar, excepcionalmente y bajo los criterios que fije, a las dependencias y entidades del Poder Ejecutivo, que administren sus documentos y expedientes que les correspondan del archivo de concentración, siempre y cuando cuenten con condiciones físicas que garanticen el debido resguardo, conservación y organización de los mismos.
+
+Capacitación de los encargados en materia archivística
+
+Artículo Cuarto. El perfil que se establece para los encargados en materia archivística no será aplicable a quienes a la entrada en vigencia del presente decreto desempeñen esta responsabilidad.
+
+A estos encargados y a quienes se designen con posterioridad, serán capacitados en materia archivística, por la Dirección del Archivo General del Estado, a más tardar en el mes de noviembre de 2014.
+
+Recursos
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración proporcionará los recursos necesarios para la implementación del archivo de concentración y programas de capacitación en la materia.
