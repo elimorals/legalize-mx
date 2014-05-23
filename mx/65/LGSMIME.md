@@ -4,7 +4,7 @@ identifier: "LGSMIME"
 country: "mx"
 rank: "ley_general"
 publication_date: "1996-11-22"
-last_updated: "2014-05-20"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9006&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSMIME"
 
 LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 22 de noviembre de 1996.
 
@@ -50,11 +50,17 @@ Artículo 1
 
 Artículo 2
 
-1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
 
-> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a la Constitución, los tratados o instrumentos internacionales celebrados por el Estado Mexicano, así como a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho.
 
-2. La conservación de la libertad de decisión política y el derecho a la auto organización de los partidos políticos, deberá ser considerada por las autoridades electorales competentes, al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+2. La interpretación del orden jurídico deberá realizarse conforme a los derechos humanos reconocidos en la Constitución, favoreciendo en todo tiempo a las personas con la protección más amplia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+3. En la interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos, se deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
 ### CAPITULO II. De los medios de impugnación
 
@@ -62,7 +68,9 @@ Artículo 3
 
 1. El sistema de medios de impugnación regulado por esta ley tiene por objeto garantizar:
 
-a) Que todos los actos y resoluciones de las autoridades electorales se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y de legalidad; y
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+a) Que todos los actos y resoluciones de las autoridades electorales en los procesos electorales y de consulta popular se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y de legalidad, y
 
 b) La definitividad de los distintos actos y etapas de los procesos electorales.
 
@@ -78,7 +86,13 @@ c) El juicio para la protección de los derechos político–electorales del ciu
 
 d) El juicio de revisión constitucional electoral, para garantizar la constitucionalidad de actos o resoluciones definitivos y firmes de las autoridades competentes de las entidades federativas para organizar y calificar los comicios o resolver las controversias que surjan durante los mismos;
 
-e) El juicio para dirimir los conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+e) El juicio para dirimir los conflictos o diferencias laborales entre el Instituto Nacional Electoral y sus servidores, y
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+f) El recurso de revisión en contra de las resoluciones y sentencias emitidas en los procedimientos especiales sancionadores para garantizar la legalidad de actos y resoluciones de la autoridad electoral federal y del Tribunal Electoral del Poder Judicial de la Federación.
 
 > <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
@@ -244,9 +258,17 @@ II. Los miembros de los comités nacionales, estatales, distritales, municipales
 
 III. Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello.
 
-b) Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro; y
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
 
-c) Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable.
+b) Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+c) Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable, y
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+d) Los candidatos independientes, a través de sus representantes legítimos, entendiéndose por éstos a los que se encuentren acreditados ante el Instituto.
 
 ### CAPITULO VII. De las pruebas
 
@@ -588,7 +610,9 @@ a) El recurso de revisión; y
 
 b) El recurso de apelación.
 
-2. Durante el proceso electoral, para garantizar la constitucionalidad y legalidad de los actos, resoluciones y resultados electorales, además de los medios de impugnación señalados en el párrafo anterior, podrán interponerse los siguientes, en los términos previstos en este Libro:
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+2. Durante el proceso electoral y de consulta popular, para garantizar la constitucionalidad y legalidad de los actos, resoluciones y resultados electorales, además de los medios de impugnación señalados en el párrafo anterior, podrán interponerse los siguientes, en los términos previstos en este Libro:
 
 a) El juicio de inconformidad; y
 
@@ -664,7 +688,9 @@ c) A los terceros interesados, por correo certificado.
 
 Artículo 40
 
-1. Durante el tiempo que transcurra entre dos procesos electorales federales, y durante la etapa de preparación del proceso electoral federal, el recurso de apelación será procedente para impugnar:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+1. Durante el tiempo que transcurra entre dos procesos electorales federales, y durante la etapa de preparación del proceso electoral federal o de consulta popular, el recurso de apelación será procedente para impugnar:
 
 a) Las resoluciones que recaigan a los recursos de revisión previstos en el Título Segundo del presente Libro; y
 
@@ -1226,6 +1252,32 @@ Artículo 78
 
 1. Las Salas del Tribunal Electoral podrán declarar la nulidad de una elección de diputados o senadores cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, en el distrito o entidad de que se trate, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes o sus candidatos.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 23 DE MAYO DE 2014)</small>
+
+### CAPITULO IV. De la nulidad de las elecciones federales y locales
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+Artículo 78 bis
+
+1. Las elecciones federales o locales serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+2. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+3. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+4. Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+
+5. Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+
+6. Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
+
+A fin de salvaguardar las libertades de expresión, información y a fin de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que, sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
+
+# LIBRO TERCERO. Del juicio para la protección de los derechos político-electorales del ciudadano
+
+## TITULO UNICO. De las reglas particulares
+
 ### CAPITULO I. De la procedencia
 
 > <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
@@ -1280,10 +1332,6 @@ a) En los procesos electorales federales, el candidato agraviado sólo podrá im
 
 b) En los procesos electorales de las entidades federativas, el candidato agraviado sólo podrá promover el juicio a que se refiere el presente Libro, cuando la ley electoral correspondiente no le confiera un medio de impugnación jurisdiccional que sea procedente en estos casos o cuando habiendo agotado el mismo, considere que no se reparó la violación constitucional reclamada.
 
-# LIBRO TERCERO. Del juicio para la protección de los derechos político-electorales del ciudadano
-
-## TITULO UNICO. De las reglas particulares
-
 ### CAPITULO II. De la competencia
 
 > <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
@@ -1336,6 +1384,10 @@ Artículo 85
 
 1. En los casos a que se refieren los incisos a) al c) del párrafo 1, del artículo 80 de este ordenamiento, cuando la sentencia que se dicte resulte favorable a los intereses de los promoventes y la autoridad responsable, federal o local, por razón de los plazos legales o por imposibilidad técnica o material, no los pueda incluir debidamente en la lista nominal de electores correspondiente a la sección de su domicilio, o expedirles el documento que exija la ley electoral para poder sufragar, bastará la exhibición de la copia certificada de los puntos resolutivos del fallo así como de una identificación para que los funcionarios electorales permitan que los ciudadanos respectivos ejerzan el derecho de voto el día de la jornada electoral, en la mesa de casilla que corresponda a su domicilio o, en su caso, en una casilla especial en los términos de la ley de la materia.
 
+# LIBRO CUARTO. Del juicio de revisión constitucional electoral
+
+## TITULO UNICO. De las reglas particulares
+
 ### CAPITULO I. De la procedencia
 
 Artículo 86
@@ -1355,10 +1407,6 @@ e) Que la reparación solicitada sea factible antes de la fecha constitucional o
 f) Que se hayan agotado en tiempo y forma todas las instancias previas establecidas por las leyes, para combatir los actos o resoluciones electorales en virtud de los cuales se pudieran haber modificado, revocado o anulado.
 
 2. El incumplimiento de cualquiera de los requisitos señalados en este artículo tendrá como consecuencia el desechamiento de plano del medio de impugnación respectivo.
-
-# LIBRO CUARTO. Del juicio de revisión constitucional electoral
-
-## TITULO UNICO. De las reglas particulares
 
 ### CAPITULO II. De la competencia
 
@@ -1429,6 +1477,40 @@ b) Revocar o modificar el acto o resolución impugnado y, consecuentemente, prov
 a) Al actor que promovió el juicio y, en su caso, a los terceros interesados, a más tardar al día siguiente al que se dictó la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en el Distrito Federal o en la ciudad donde tenga su sede la Sala Regional respectiva, según que la sentencia haya sido dictada por la Sala Superior o por alguna de las Salas Regionales. En cualquier otro caso, la notificación se hará por correo certificado, y
 
 b) A la autoridad responsable, por oficio acompañado de copia certificada de la sentencia, a más tardar al día siguiente al en que se dictó la sentencia.
+
+# LIBRO QUINTO. Del juicio para dirimir los conflictos o diferencias laborales de los servidores del Instituto Federal Electoral
+
+## TITULO UNICO. De las reglas especiales
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
+Artículo 94
+
+1. Son competentes para resolver el juicio para dirimir los conflictos o diferencias laborales de los servidores del Instituto Federal Electoral:
+
+a) La Sala Superior del Tribunal Electoral, en los casos de conflictos o diferencias laborales entre los órganos centrales del Instituto Federal Electoral y sus servidores, y
+
+b) La Sala Regional del Tribunal Electoral, en el ámbito en el que ejerza su jurisdicción, en los casos de conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores, distintos a los señalados en el inciso anterior.
+
+2. Las determinaciones a las que se refiere el artículo 207, párrafo segundo del Código Federal de Instituciones y Procedimientos Electorales, sólo podrán ser impugnados por el funcionario directamente interesado, en las causas expresamente establecidas en el estatuto y una vez agotados todos los medios de defensa internos.
+
+3. Para la promoción, sustanciación y resolución de los juicios previstos en este Libro, se considerarán hábiles, en cualquier tiempo, todos los días del año, con exclusión de los sábados, domingos y días de descanso obligatorio.
+
+Artículo 95
+
+1. En lo que no contravenga al régimen laboral de los servidores del Instituto Federal Electoral previsto en el Código Federal de Instituciones y Procedimientos Electorales y en el Estatuto del Servicio Profesional Electoral, se aplicarán en forma supletoria y en el orden siguiente:
+
+a) La Ley Federal de los Trabajadores al Servicio del Estado;
+
+b) La Ley Federal del Trabajo;
+
+c) El Código Federal de Procedimientos Civiles;
+
+d) Las leyes de orden común;
+
+e) Los principios generales de derecho; y
+
+f) La equidad.
 
 ### CAPITULO UNICO. Del trámite, de la sustanciación y de la resolución
 
@@ -1518,39 +1600,39 @@ Artículo 108
 
 1. Los efectos de la sentencia de la Sala competente del Tribunal Electoral podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnados. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Instituto Federal Electoral, este último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado, por concepto de prima de antigüedad.
 
-# LIBRO QUINTO. Del juicio para dirimir los conflictos o diferencias laborales de los servidores del Instituto Federal Electoral
+> <small>(ADICIONADO CON EL TÍTULO, EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2014)</small>
 
-## TITULO UNICO. De las reglas especiales
+# LIBRO SEXTO. Del Recurso de Revisión del Procedimiento Especial Sancionador
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2014)</small>
 
-Artículo 94
+## TITULO UNICO. De las Reglas Particulares
 
-1. Son competentes para resolver el juicio para dirimir los conflictos o diferencias laborales de los servidores del Instituto Federal Electoral:
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2014)</small>
 
-a) La Sala Superior del Tribunal Electoral, en los casos de conflictos o diferencias laborales entre los órganos centrales del Instituto Federal Electoral y sus servidores, y
+### CAPITULO UNICO. De la Procedencia y Competencia
 
-b) La Sala Regional del Tribunal Electoral, en el ámbito en el que ejerza su jurisdicción, en los casos de conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores, distintos a los señalados en el inciso anterior.
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
 
-2. Las determinaciones a las que se refiere el artículo 207, párrafo segundo del Código Federal de Instituciones y Procedimientos Electorales, sólo podrán ser impugnados por el funcionario directamente interesado, en las causas expresamente establecidas en el estatuto y una vez agotados todos los medios de defensa internos.
+Artículo 109
 
-3. Para la promoción, sustanciación y resolución de los juicios previstos en este Libro, se considerarán hábiles, en cualquier tiempo, todos los días del año, con exclusión de los sábados, domingos y días de descanso obligatorio.
+1. Procede el recurso de revisión respecto del procedimiento especial sancionador previsto en la Ley General de Instituciones y Procedimientos Electorales, en contra:
 
-Artículo 95
+a) De las sentencias dictadas por la Sala Regional Especializada del Tribunal Electoral;
 
-1. En lo que no contravenga al régimen laboral de los servidores del Instituto Federal Electoral previsto en el Código Federal de Instituciones y Procedimientos Electorales y en el Estatuto del Servicio Profesional Electoral, se aplicarán en forma supletoria y en el orden siguiente:
+b) De las medidas cautelares que emita el Instituto a que se refiere el Apartado D, Base III del artículo 41 de la Constitución, y
 
-a) La Ley Federal de los Trabajadores al Servicio del Estado;
+c) Del acuerdo de desechamiento que emita el Instituto a una denuncia.
 
-b) La Ley Federal del Trabajo;
+2. La Sala Superior del Tribunal Electoral será competente para conocer de este recurso.
 
-c) El Código Federal de Procedimientos Civiles;
+3. El plazo para impugnar las sentencias emitidas por la Sala Regional Especializada del Tribunal Electoral referidas en el presente artículo, será de tres días, contados a partir del día siguiente al en que se haya notificado la resolución correspondiente, con excepción del recurso que se interponga en contra de las medidas cautelares emitidas por el Instituto, en cuyo caso el plazo será de cuarenta y ocho horas, contadas a partir de la imposición de dichas medidas.
 
-d) Las leyes de orden común;
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
 
-e) Los principios generales de derecho; y
+Artículo 110
 
-f) La equidad.
+1. Para la tramitación, sustanciación y resolución del recurso previsto en este Libro, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta Ley y en particular las señaladas en el recurso de apelación contenidas en el Título Tercero del Libro Segundo.
 
 ## TRANSITORIOS
 
@@ -1601,3 +1683,13 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
 
 Tercero. Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
+
+D.O.F. 23 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en proceso, se resolverán conforme a las disposiciones vigentes al momento en que iniciaron, hasta en tanto entre en funcionamiento la Sala Especializada establecida en el Decreto que reforma y adiciona diversas disposiciones de la Ley Orgánica del Poder Judicial de la Federación.
+
+TERCERO. Todas las referencias al Instituto Federal Electoral contenidas en la Ley General del Sistema de Medios de Impugnación en Materia Electoral deberán entenderse realizadas al Instituto Nacional Electoral.
+
+CUARTO. Todas las referencias al Código Federal de Instituciones y Procedimientos Electorales contenidas en la Ley General del Sistema de Medios de Impugnación en Materia Electoral deberán entenderse a la Ley General de Instituciones y Procedimientos Electorales y a la Ley General de Partidos Políticos según corresponda.
