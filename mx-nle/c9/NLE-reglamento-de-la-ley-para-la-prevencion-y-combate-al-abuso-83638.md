@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-para-la-prevencion-y-combate-al-abuso-8363
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-14"
-last_updated: "2011-11-14"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de noviembre de 2011.
 
@@ -241,6 +241,10 @@ En caso de que se cumpla con la documentación y los requisitos establecidos par
 
 Si en el término señalado no se subsana la omisión, se tendrá por no presentada la solicitud.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
+
+En concordancia con lo establecido en la fracción XI del artículo 33 de la Ley, junto con la solicitud, deberá presentarse copia certificada del Convenio o Contrato de autorización que se haya celebrado con el o con los autores de la obra, o con la Sociedad de Gestión Colectiva que los represente, de acuerdo con las disposiciones de la Ley Federal del Derecho de Autor y con los lineamientos que para tal efecto expida la Secretaría de Finanzas y Tesorería General del Estado, cuando en el establecimiento o negocio que solicite la licencia, permisos especiales o refrendo, se utilice la música con ánimo de lucro directo o indirecto, como giro o servicio adicional al expendio, venta o consumo de bebidas alcohólicas, ya sea en vivo o grabada por cualquier medio electrónico o mecánico.
+
 ###### Artículo 23.
 
 Todo interesado podrá desistirse de su solicitud, mediante escrito que deberá presentarse ante la Tesorería. Si el escrito de solicitud se hubiere formulado por dos o más interesados, el desistimiento sólo afectará a aquél que lo hubiese formulado. Para estos efectos, el interesado deberá acudir a ratificar su escrito de desistimiento, personalmente o a través de representante acreditado.
@@ -356,3 +360,11 @@ JAVIER TREVIÑO CANTÚ
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 OTHÓN RUIZ MONTEMAYOR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MAYO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se instruye a la Secretaría de Finanzas y Tesorería General del Estado, para que en el ámbito de su competencia se implementen las medidas de carácter administrativo conducentes a la ejecución del presente Acuerdo.
