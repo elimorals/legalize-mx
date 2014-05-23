@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2014-03-14"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -4013,25 +4013,35 @@ IX.- Al que sin derecho realice cualquier sustracción o alteración de equipos 
 
 Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 254 bis.- Se sancionará con prisión de tres a diez años y con mil a tres mil días de multa, a quien celebre, ordene o ejecute contratos, convenios o arreglos entre agentes económicos competidores, cuyo objeto sea cualquiera de los siguientes:
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+ARTICULO 254 bis.- Se sancionará con prisión de cinco a diez años y con mil a diez mil días de multa, a quien celebre, ordene o ejecute contratos, convenios, arreglos o combinaciones entre agentes económicos competidores entre sí, cuyo objeto o efecto sea cualquiera de los siguientes:
 
 I. Fijar, elevar, concertar o manipular el precio de venta o compra de bienes o servicios al que son ofrecidos o demandados en los mercados;
 
 II. Establecer la obligación de no producir, procesar, distribuir, comercializar o adquirir sino solamente una cantidad restringida o limitada de bienes o la prestación o transacción de un número, volumen o frecuencia restringidos o limitados de servicios;
 
-III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado actual o potencial de bienes y servicios, mediante clientela, proveedores, tiempos o espacios determinados o determinables, o
+III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado actual o potencial de bienes y servicios, mediante clientela, proveedores, tiempos o espacios determinados o determinables;
 
-IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas públicas.
+IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas, y
 
-El delito previsto en este artículo se perseguirá por querella de la Comisión Federal de Competencia, la cual sólo podrá formularse cuando la autoridad competente haya determinado mediante resolución que haya causado estado, que un agente económico resultó responsable de haber cometido alguna práctica monopólica absoluta, en los términos de lo dispuesto en la Ley Federal de Competencia Económica.
+V. Intercambiar información con alguno de los objetos o efectos a que se refieren las anteriores fracciones.
 
-No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo 33 bis 3 de la Ley Federal de Competencia Económica, previa resolución de la Comisión que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
+El delito previsto en este artículo se perseguirá por querella de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, según corresponda, la cual sólo podrá formularse con el dictamen de probable responsabilidad, en los términos de lo dispuesto en la Ley Federal de Competencia Económica.
 
-Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno de la Comisión, cuando los procesados cumplan las sanciones administrativas impuestas y, además se cumplan los requisitos previstos en los criterios técnicos emitidos por la Comisión.
+No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo 103 de la Ley Federal de Competencia Económica, previa resolución de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
+
+Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, cuando los procesados cumplan las sanciones administrativas impuestas y, además se cumplan los requisitos previstos en los criterios técnicos emitidos por la Comisión Federal de Competencia Económica o el Instituto Federal de Telecomunicaciones.
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad a que se refiere el primer párrafo de este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+ARTICULO 254 bis 1. Se sancionará con prisión de uno a tres años y con quinientos a cinco mil días de multa, a quien por sí o por interpósita persona, en la práctica de una visita de verificación, por cualquier medio altere, destruya o perturbe de forma total o parcial documentos, imágenes o archivos electrónicos que contengan información o datos, con el objeto de desviar, obstaculizar o impedir la investigación de un posible hecho delictuoso o la práctica de la diligencia administrativa.
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -6930,3 +6940,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado Código Penal Federal.
 
 TERCERO. A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el Código Federal de Procedimientos Penales, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
+
+D.O.F. 23 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor a los cuarenta y cinco días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992.
+
+Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las unidades administrativas que establezca el estatuto orgánico emitido conforme al transitorio siguiente. Las resoluciones que recaigan en dichos procedimientos sólo podrán ser impugnadas mediante el juicio de amparo, conforme a lo dispuesto por el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Tercero. Para el caso de la designación del primer titular como Autoridad Investigadora, por cuanto hace al requisito establecido en la fracción VII del artículo 31 de esta Ley, deberá atenderse en el sentido de que durante los tres años previos a su nombramiento, no haya ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que haya estado sujeto a alguno de los procedimientos, previstos en la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992, vigente hasta antes de la entrada en vigor del presente Decreto.
+
+Cuarto. El Pleno de la Comisión deberá adecuar su Estatuto Orgánico a lo dispuesto en el presente Decreto en un plazo que no excederá de treinta días contados a partir de su entrada en vigor. En tanto se efectúe la adecuación, se continuará aplicando el Estatuto Orgánico vigente al momento de la entrada en vigor del presente Decreto, en lo que no se oponga a éste.
+
+Quinto. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Cámara de Diputados del Congreso de la Unión deberá integrar un grupo de trabajo técnico, con el objeto de analizar y formular propuestas de ajustes a legislación penal vigente, en la materia objeto del presente Decreto. El grupo de trabajo deberá presentar las propuestas correspondientes dentro de los sesenta días siguientes al de su instalación.
+
+Sexto. En un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, el Pleno publicará las Disposiciones Regulatorias a que hace referencia el artículo 12, fracción XXII de la Ley Federal de Competencia Económica.
+
+Séptimo. Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, el Congreso de la Unión deberá realizar las adecuaciones al marco jurídico a efecto de armonizarlo con los principios en materia de competencia y libre concurrencia previstos en el artículo 28 de la Constitución. Para lo anterior, el Congreso de la Unión podrá solicitar opinión a la Comisión Federal de Competencia Económica.
