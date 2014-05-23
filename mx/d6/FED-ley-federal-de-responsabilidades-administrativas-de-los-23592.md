@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-03-13"
-last_updated: "2012-06-15"
+last_updated: "2014-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-03-12"
 
 LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de marzo de 2002.
 
@@ -185,6 +187,14 @@ XIX-A.- Responder las recomendaciones que les presente la institución a la que 
 
 XIX-B.- Atender los llamados de la Cámara de Senadores o en sus recesos de la Comisión Permanente, a comparecer ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, en términos del Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos;
 
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2014)</small>
+
+XIX-C.- Cumplir en tiempo y forma los mandatos del Instituto Nacional Electoral y cualquiera de sus órganos, conforme lo establezca la legislación electoral aplicable, proporcionarles de manera oportuna y veraz la información que les sea solicitada y prestarles el auxilio y colaboración que les sea requerido por dichas autoridades electorales;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2014)</small>
+
+XIX-D.- Abstenerse de infringir, por acción u omisión, las disposiciones constitucionales, legales, reglamentarias y normativas en materia electoral, de propaganda gubernamental y aplicación imparcial de los recursos públicos, así como abstenerse de influir en la equidad de la competencia entre los partidos políticos;
+
 XX.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública o de servicios relacionados con ésta, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
 XXI.- Abstenerse de inhibir por sí o por interpósita persona, utilizando cualquier medio, a los posibles quejosos con el fin de evitar la formulación o presentación de denuncias o realizar, con motivo de ello, cualquier acto u omisión que redunde en perjuicio de los intereses de quienes las formulen o presenten;
@@ -247,7 +257,9 @@ Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que
 
 En el caso de infracciones graves se impondrá, además, la sanción de destitución.
 
-En todo caso, se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones VIII, X a XIV, XVI, XIX, XXII y XXIII del artículo 8 de la Ley.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+En todo caso, se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones VIII, X a XVI, XIX, XIX-C, XIX-D, XXII y XXIII del artículo 8 de la Ley.
 
 Para que una persona que hubiere sido inhabilitada en los términos de la Ley por un plazo mayor de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el titular de la dependencia o entidad a la que pretenda ingresar, dé aviso a la Secretaría, en forma razonada y justificada, de tal circunstancia.
 
@@ -720,5 +732,9 @@ D.O.F. 5 DE JUNIO DE 2012.
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 15 DE JUNIO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MAYO DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
