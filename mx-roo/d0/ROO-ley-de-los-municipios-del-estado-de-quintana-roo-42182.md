@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2013-09-30"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -992,6 +992,10 @@ XII. De igualdad de Género.
 > <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2013)</small>
 
 XII (SIC). Del Trabajo y Previsión Social.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2014)</small>
+
+XIII. Para la Igualdad de Género.
 
 ###### ARTÍCULO 73.
 
@@ -3336,3 +3340,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MAYO DE 2014.
+
+Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Honorables Ayuntamientos de los Municipios del Estado, deberán integrar la Comisión para la Igualdad de Género en los treinta días naturales posteriores a la entrada en vigor del presente decreto.
+
+En el caso de que los Ayuntamientos del Estado ya cuenten dentro de su estructura con una comisión en la materia de equidad de género, deberán efectuar la modificación de la denominación de la misma, con apego en lo establecido en el presente decreto en el mismo plazo a que alude el párrafo anterior.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
