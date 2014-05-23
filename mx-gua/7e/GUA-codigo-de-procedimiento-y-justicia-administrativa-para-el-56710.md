@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimiento-y-justicia-administrativa-para-el-56710
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-17"
-last_updated: "2012-09-11"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2014.
 
 Código Publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2007.
 
@@ -1121,7 +1121,9 @@ II. A partir de la fecha en que se configure la negativa ficta;
 
 III. A partir de la fecha de la certificación en caso de afirmativa ficta;
 
-IV. Cuando se trate de un acto administrativo que deba publicarse, a partir del cuarto día siguiente a su publicación, o bien, a partir de la fecha señalada para que surta sus efectos; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2014)</small>
+
+IV. Cuando se trate de un acto administrativo que deba publicarse, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, o en el término que ahí se establezca para que surta sus efectos; o
 
 V. Cuando se surta la condición o el término suspensivo a que se encuentre sujeto.
 
@@ -2666,3 +2668,7 @@ P.O. 11 DE SEPTIEMBRE DE 2012.
 Artículo Primero. El presente Decreto entrará en vigor el uno de enero del año dos mil trece, previa su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Tribunal de lo Contencioso Administrativo preverá en su anteproyecto de presupuesto para el ejercicio 2013, la partida para la implementación tecnológica a efecto de operar las notificaciones por correo electrónico.
+
+P.O. 23 DE MAYO DE 2014.
+
+Artículo Único. El presente Decreto entrará en vigencia el día de su publicación en el Periódico Oficial de Gobierno del Estado.
