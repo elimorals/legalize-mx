@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2014-01-10"
+last_updated: "2014-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -2158,11 +2158,11 @@ DE SU INTEGRACION Y FUNCIONAMIENTO
 
 De conformidad con el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, el Tribunal Electoral es el órgano especializado del Poder Judicial de la Federación y, con excepción de lo dispuesto en la fracción II del artículo 105 de la propia Constitución, la máxima autoridad jurisdiccional en materia electoral.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 185.
 
-El Tribunal Electoral funcionará en forma permanente con una Sala Superior y con cinco Salas Regionales; sus sesiones de resolución jurisdiccional serán públicas.
+El Tribunal Electoral funcionará en forma permanente con una Sala Superior, siete Salas Regionales y una Sala Regional Especializada; las sesiones de resolución jurisdiccional serán públicas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
 
@@ -2204,9 +2204,13 @@ e) Conflictos o diferencias laborales entre el Instituto Federal Electoral y sus
 
 f) Conflictos concernientes a impedimentos presentados contra los magistrados;
 
-> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
 
-g) Impugnaciones contra los actos del Consejo General, del Consejero Presidente o de la Junta General Ejecutiva del Instituto Federal Electoral;
+g) Impugnaciones contra los actos del Consejo General, del Consejero Presidente o de la Junta General Ejecutiva del Instituto Nacional Electoral, y
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+h) Los asuntos que el Instituto Nacional Electoral someta a su conocimiento por violaciones a lo previsto en la Base III del artículo 41 y párrafo octavo del artículo 134 de la Constitución; a las normas sobre propaganda política electoral, así como por la realización de actos anticipados de precampaña o campaña, e imponer las sanciones que correspondan.
 
 > <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2374,7 +2378,7 @@ SECCION 1A.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 190.
 
@@ -2462,11 +2466,17 @@ DEL PROCEDIMIENTO PARA SU ELECCION
 
 ###### ARTICULO 192.
 
-El Tribunal Electoral contará con cinco Salas Regionales que se integrarán por tres magistrados electorales y su sede será la ciudad designada como cabecera de cada una de las circunscripciones plurinominales en que se divida el país, de conformidad con lo dispuesto por el artículo 53 de la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia.
+El Tribunal Electoral contará con siete Salas Regionales y una Sala Regional Especializada que se integrarán por tres magistrados electorales, cada una; cinco de las Salas Regionales tendrán su sede en la ciudad designada como cabecera de cada una de las circunscripciones plurinominales en que se divida el país, de conformidad con lo dispuesto por el artículo 53 de la Constitución y la ley de la materia, la sede de las dos Salas Regionales restantes, será determinada por la Comisión de Administración, mediante acuerdo general y la Sala Regional Especializada tendrá su sede en el Distrito Federal.
 
-Los magistrados de las Salas Regionales durarán en su encargo nueve años improrrogables, salvo si son promovidos a cargos superiores. La elección de los magistrados será escalonada.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+Los magistrados de las Salas Regionales y de la Sala Regional Especializada durarán en su encargo nueve años improrrogables, salvo si fueren promovidos a cargos superiores. La elección de los magistrados será escalonada.
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 En caso de vacante definitiva se nombrará a un nuevo magistrado por el tiempo restante al del nombramiento original.
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 En los casos de elecciones extraordinarias la Sala Regional con competencia territorial en donde hayan de celebrarse resolverá las impugnaciones que pudieren surgir durante las mismas.
 
@@ -2492,19 +2502,27 @@ SECCION 2A.
 
 DE SUS ATRIBUCIONES
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 195.
 
-Cada una de las Salas Regionales, en el ámbito en el que ejerza su jurisdicción, tendrá competencia para:
+Cada una de las Salas Regionales, con excepción de la Sala Regional Especializada, en el ámbito en el que ejerza su jurisdicción, tendrá competencia para:
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
 I. Conocer y resolver, en única instancia y en forma definitiva e inatacable, los recursos de apelación que se presenten en contra de actos y resoluciones de la autoridad electoral federal, con excepción de los de órganos centrales del Instituto Federal Electoral, de conformidad con lo dispuesto en la ley de la materia;
 
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
 II. Conocer y resolver los juicios de inconformidad que se presenten en las elecciones federales de diputados y senadores por el principio de mayoría relativa, de conformidad con lo dispuesto en la ley de la materia;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
 III. Los juicios de revisión constitucional electoral, en única instancia y en los términos previstos en la ley de la materia, por actos o resoluciones definitivos y firmes de las autoridades competentes para organizar, calificar o resolver las impugnaciones en los procesos electorales de las entidades federativas, que pudiesen ser violatorios de los preceptos de la Constitución Política de los Estados Unidos Mexicanos y determinantes para el desarrollo del proceso electoral respectivo o el resultado final de las elecciones de diputados locales y a la Asamblea Legislativa del Distrito Federal, así como de ayuntamientos y de los titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal.
 
 Estas impugnaciones solamente procederán cuando habiéndose agotado en tiempo y forma todos los recursos o medios de defensa que establezcan las leyes por los que se pueda modificar, revocar o anular el acto o resolución impugnado, la violación reclamada ante el Tribunal Electoral pueda resultar determinante para el desarrollo del proceso electoral respectivo o el resultado final de las elecciones, y la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales, y ello sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios electos;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
 IV. Conocer y resolver, en única instancia y en forma definitiva e inatacable, los juicios para la protección de los derechos político-electorales del ciudadano que se promuevan por:
 
@@ -2516,27 +2534,53 @@ c) La violación al derecho de ser votado en las elecciones de los servidores p�
 
 d) La violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de diputados federales y senadores por el principio de mayoría relativa, diputados locales y a la Asamblea Legislativa del Distrito Federal, ayuntamientos, titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal y dirigentes de los órganos de dichos institutos distintos a los nacionales. La Sala Regional correspondiente admitirá el medio de impugnación una vez que los quejosos hayan agotado los medios partidistas de defensa;
 
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
 V. Calificar y resolver las excusas que presenten los magistrados electorales de la Sala respectiva;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
 VI. Encomendar a los secretarios y actuarios, la realización de diligencias que deban practicarse fuera de las instalaciones de la Sala;
 
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
 VII. Fijar la fecha y hora de sus sesiones públicas;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
 VIII. Elegir, a quien fungirá como su Presidente;
 
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
 IX. Nombrar, conforme a los lineamientos generales que dicte la Comisión de Administración, al secretario general, secretarios y actuarios, así como al demás personal jurídico y administrativo;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
 X. Resolver, en la esfera de su competencia, la no aplicación, en casos concretos, de leyes electorales que sean contrarias a la Constitución;
 
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
 XI. Resolver los asuntos relativos a los partidos políticos y a las agrupaciones o asociaciones políticas de carácter local;
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
 XII. Conocer y resolver en forma definitiva e inatacable, las diferencias laborales entre el Instituto Federal Electoral y sus servidores adscritos a los órganos desconcentrados;
 
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+
 XIII. Conceder licencias a los magistrados electorales que la integran, siempre que no excedan de un mes, en los términos del inciso d) del artículo 227-Bis de esta ley, y
+
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
 XIV. Las que les delegue la Sala Superior y las demás que señalen las leyes.
 
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+
 Las facultades antes establecidas se sujetarán a los acuerdos generales que emita la Sala Superior, los que en ningún caso podrán hacerlas nugatorias de manera permanente. Los acuerdos específicos que en uso de su facultad de delegación emita la Sala Superior no establecerán jurisprudencia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+Los procedimientos especiales sancionadores previstos en la Ley General de Instituciones y Procedimientos Electorales serán conocidos y resueltos por la Sala Regional Especializada con sede en el Distrito Federal, así como de lo establecido en las fracciones V, VI, VII, VIII, IX y XIII anteriores, sin perjuicio de que el Presidente del Tribunal Electoral pueda habilitarla para conocer de los asuntos a los que se refieren las demás fracciones del presente artículo.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2846,7 +2890,9 @@ La Comisión de Administración tendrá las atribuciones siguientes:
 
 I.- Elaborar el proyecto de Reglamento Interno del Tribunal y someterlo a la aprobación de la Sala Superior;
 
-II.- (DEROGADA, D.O.F. 1 DE JULIO DE 2008)
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2014)</small>
+
+II.- Emitir acuerdos generales para determinar la sede de las Salas Regionales;
 
 III.- Expedir las normas internas en materia administrativa y establecer las disposiciones generales necesarias para el ingreso, carrera, escalafón, régimen disciplinario y remoción, así como las relativas a estímulos y capacitación del personal del Tribunal Electoral;
 
@@ -2908,9 +2954,13 @@ XXVIII.- Fijar las bases de la política informática y estadística del Tribuna
 
 XXIX.- Establecer, por conducto del Consejo de la Judicatura Federal, la coordinación entre el Instituto de la Judicatura y el Centro de Capacitación Judicial Electoral;
 
-XXX.- Vigilar que los servidores de las Salas Regionales y de la propia Comisión de Administración y de sus órganos auxiliares cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial ante el Consejo de la Judicatura Federal, y
+XXX.- Vigilar que los servidores de las Salas Regionales y de la propia Comisión de Administración y de sus órganos auxiliares cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial ante el Consejo de la Judicatura Federal, y (sic)
 
-XXXI.- Desempeñar cualquier otra función que la ley o el Reglamento Interno del Tribunal Electoral le encomienden.
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2014)</small>
+
+XXXI.- Determinar, en su caso, el haber de retiro de los Magistrados de la Sala Superior, y
+
+XXXII.- Desempeñar cualquier otra función que la ley o el Reglamento Interno del Tribunal Electoral le encomienden.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -3482,7 +3532,7 @@ D.O.F. 7 DE NOVIEMBRE DE 1996.
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Los artículos 167, fracción IX, y l96 bis del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal.
+SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal.
 
 D.O.F. 22 DE NOVIEMBRE DE 1996.
 
@@ -3747,3 +3797,15 @@ V. Las normas procesales contenidas en el presente Decreto no serán aplicables 
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 23 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las dos Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación que se crean con motivo de la reforma a la Ley Orgánica del Poder Judicial de la Federación, deberán iniciar actividades en el mes de septiembre de 2017.
+
+La Sala Regional Especializada, deberá entrar en funcionamiento conforme a lo siguiente:
+
+1. Antes del inicio del proceso electoral 2014-2015, el Senado deberá designar a los Magistrados integrantes de la Sala Especializada conforme a lo dispuesto por el artículo 99 de la Constitución. Una vez integrada dicha Sala, deberá iniciar funciones y ejercer las atribuciones que le otorga el presente Decreto.
+
+2. El Instituto Nacional Electoral continuará conociendo de los procedimientos especiales sancionadores que se encuentren en trámite a la entrada en vigor del presente Decreto, así como de los que se interpongan posteriormente, hasta en tanto entre en funcionamiento la Sala Especializada establecida en el presente Decreto.
