@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-competencia-economica-112"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2012-04-09"
+last_updated: "2014-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LFCE"
 
 LEY FEDERAL DE COMPETENCIA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA, PUBLICADA EN EL D.O.F. DE 23 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CUARENTA Y CINCO DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -186,7 +188,7 @@ III.- Los costos y las probabilidades que tienen los usuarios o consumidores par
 
 IV.- Las restricciones normativas de carácter federal, local o internacional que limiten el acceso de usuarios o consumidores a fuentes de abasto alternativas, o el acceso de los proveedores a clientes alternativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 13.
 
@@ -526,7 +528,7 @@ Los Comisionados tendrán el personal necesario para el despacho eficaz de sus a
 
 Los comisionados serán designados para desempeñar sus puestos por períodos de diez años, no renovables, y sólo podrán ser removidos de sus cargos por causa grave, debidamente justificada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
 
@@ -534,7 +536,7 @@ Los comisionados serán designados para desempeñar sus puestos por períodos de
 
 El Presidente de la Comisión será designado por el Titular del Ejecutivo Federal por un periodo de cuatro años, con posibilidad de ser nombrado una sola vez por otro periodo igual, y al término del cual cumplirá, en su caso, su período restante como comisionado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2011)</small>
 
@@ -616,7 +618,7 @@ El Secretario Ejecutivo no podrá desempeñarse, durante el año posterior a que
 
 ### CAPITULO V. DEL PROCEDIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 30.
 
@@ -646,7 +648,7 @@ Si en cualquier estado de la investigación no se ha efectuado acto procesal alg
 
 La unidad administrativa encargada de la investigación dictará el acuerdo de conclusión del periodo de investigación, al día siguiente en el que concluya o al del vencimiento del plazo a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 31.
 
@@ -704,7 +706,7 @@ Si el visitado, sus funcionarios o los encargados de los establecimientos visita
 
 VI. El visitado tendrá derecho de hacer observaciones a los servidores públicos autorizados durante la práctica de la diligencia, mismas que se harán constar en el acta. Asimismo, podrá ofrecer pruebas en relación a los hechos contenidos en ella, o bien, hacer uso por escrito de tal derecho dentro del término de cinco días siguientes a la fecha en que se hubiere levantado;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
 
 VII. De toda visita se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los servidores públicos autorizados. El acta se levantará por los servidores públicos autorizados en presencia de dos testigos propuestos por la persona con la que se hubiese entendido la diligencia, o designados por los servidores públicos autorizados que la practicaron si aquélla se hubiese negado a proponerlos, haciendo constar esta circunstancia.
 
@@ -794,7 +796,7 @@ El Reglamento de esta Ley establecerá los requisitos para la presentación de l
 
 El Secretario Ejecutivo desechará las denuncias que sean notoriamente improcedentes. El desechamiento podrá ser revisado por el Pleno a petición del solicitante en los términos del Reglamento de esta Ley, quedando facultado el Pleno para confirmar o revocar el desechamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 33.
 
@@ -906,7 +908,7 @@ Recibido el escrito a que se refiere este artículo, el procedimiento quedará s
 
 Los agentes económicos solo podrán acogerse a los beneficios previstos en este artículo, una vez cada cinco años. Este período se computará a partir de la notificación de la resolución de la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
 
 ARTICULO 33 BIS 3.- Cualquier agente económico que haya incurrido o esté incurriendo en una práctica monopólica absoluta; haya participado directamente en prácticas monopólicas absolutas en representación o por cuenta y orden de personas morales; y el agente económico o individuo que haya coadyuvado, propiciado, inducido o participado en la comisión de prácticas monopólicas absolutas, podrá reconocerla ante la Comisión y acogerse al beneficio de la reducción de las sanciones establecidas en esta Ley, siempre y cuando:
 
@@ -1010,7 +1012,7 @@ La suspensión que dicte la Comisión no prejuzga respecto del fondo del asunto.
 
 ### CAPITULO VI. DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 35.
 
@@ -1108,15 +1110,15 @@ Los agentes económicos tendrán derecho a presentar programas alternativos de d
 
 La Comisión acudirá ante la autoridad judicial competente para solicitarle que ejecute la resolución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 38.
 
 Aquellas personas que hayan sufrido daños o perjuicios a causa de una práctica monopólica o una concentración prohibida podrán interponer las acciones en defensa de sus derechos o intereses de forma independiente a los procedimientos previstos en esta Ley. La autoridad judicial podrá solicitar la opinión de la Comisión en asuntos de su competencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
@@ -1134,7 +1136,7 @@ La Comisión tendrá veinte días para emitir resolución, contados a partir del
 
 ### CAPITULO VII. DEL RECURSO DE RECONSIDERACION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2011)</small>
 
@@ -1178,7 +1180,7 @@ México, D.F., a 18 de diciembre de 1992.- Dip. Salvador Abascal Carranza, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos noventa y dos. Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 23 DE ENERO DE 1998.
 
@@ -1265,3 +1267,21 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 23 DE MAYO DE 2014.
+
+Primero. El presente Decreto entrará en vigor a los cuarenta y cinco días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992.
+
+Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las unidades administrativas que establezca el estatuto orgánico emitido conforme al transitorio siguiente. Las resoluciones que recaigan en dichos procedimientos sólo podrán ser impugnadas mediante el juicio de amparo, conforme a lo dispuesto por el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Tercero. Para el caso de la designación del primer titular como Autoridad Investigadora, por cuanto hace al requisito establecido en la fracción VII del artículo 31 de esta Ley, deberá atenderse en el sentido de que durante los tres años previos a su nombramiento, no haya ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que haya estado sujeto a alguno de los procedimientos, previstos en la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992, vigente hasta antes de la entrada en vigor del presente Decreto.
+
+Cuarto. El Pleno de la Comisión deberá adecuar su Estatuto Orgánico a lo dispuesto en el presente Decreto en un plazo que no excederá de treinta días contados a partir de su entrada en vigor. En tanto se efectúe la adecuación, se continuará aplicando el Estatuto Orgánico vigente al momento de la entrada en vigor del presente Decreto, en lo que no se oponga a éste.
+
+Quinto. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Cámara de Diputados del Congreso de la Unión deberá integrar un grupo de trabajo técnico, con el objeto de analizar y formular propuestas de ajustes a legislación penal vigente, en la materia objeto del presente Decreto. El grupo de trabajo deberá presentar las propuestas correspondientes dentro de los sesenta días siguientes al de su instalación.
+
+Sexto. En un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, el Pleno publicará las Disposiciones Regulatorias a que hace referencia el artículo 12, fracción XXII de la Ley Federal de Competencia Económica.
+
+Séptimo. Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, el Congreso de la Unión deberá realizar las adecuaciones al marco jurídico a efecto de armonizarlo con los principios en materia de competencia y libre concurrencia previstos en el artículo 28 de la Constitución. Para lo anterior, el Congreso de la Unión podrá solicitar opinión a la Comisión Federal de Competencia Económica.
