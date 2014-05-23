@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-cultura-fisica-y-deporte-38539"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-16"
-last_updated: "2004-04-16"
+last_updated: "2014-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38539&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-04-14"
 ---
 # REGLAMENTO DE LA LEY GENERAL DE CULTURA FISICA Y DEPORTE
 
-REGLAMENTO DE LA LEY GENERAL DE CULTURA FISICA Y DEPORTE
+REGLAMENTO DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, PUBLICADO EN EL D.O.F. DE 23 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el viernes 16 de abril de 2004.
 
@@ -1094,3 +1096,23 @@ QUINTO. El Comité Nacional Antidopaje deberá celebrar su sesión de instalaci�
 SEXTO. Los formatos de inscripción y trámites a que se refiere este Reglamento, deberán expedirse a más tardar doce meses después de su entrada en vigor.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los catorce días del mes de abril de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE MAYO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley General de Cultura Física y Deporte, publicado en el Diario Oficial de la Federación el 16 de abril de 2004, y se derogan las demás disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. La Comisión Nacional de Cultura Física y Deporte expedirá los lineamientos y demás instrumentos jurídicos a que se refiere la Ley y el presente Reglamento, dentro de los doce meses siguientes a su entrada en vigor.
+
+CUARTO. La Comisión Nacional de Cultura Física y Deporte promoverá que el Sistema Nacional de Cultura Física y Deporte expida las normas de operación y las disposiciones señaladas en los artículos 10, 11, 13 y 22 de este ordenamiento, dentro de los doce meses siguientes a la entrada en vigor del presente Reglamento.
+
+QUINTO. El Comité Nacional Antidopaje deberá celebrar su sesión de instalación dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento. El referido Comité deberá expedir las disposiciones y procedimientos a que se refiere el artículo 89 de este Reglamento dentro de los doce meses siguientes a la entrada en vigor del presente Reglamento.
+
+SEXTO. La Comisión Especial Contra la Violencia en el Deporte deberá celebrar su sesión de instalación dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento, y dentro de los doce meses siguientes a la entrada en vigor de este Reglamento deberá expedir el Reglamento Interno, los lineamientos generales, disposiciones y procedimientos a que se refieren los artículos 10 6 y 109 de este Reglamento.
+
+SÉPTIMO. Los formatos de inscripción y trámites a que se refiere este Reglamento, deberán expedirse a más tardar doce meses después de su entrada en vigor.
+
+OCTAVO. La Comisión Nacional de Cultura Física y Deporte y la Comisión de Apelación y Arbitraje del Deporte realizarán las acciones y gestiones necesarias para que la implementación del presente Reglamento, se realice con los recursos aprobados en su presupuesto, por lo que no se requerirán de recursos adicionales.
