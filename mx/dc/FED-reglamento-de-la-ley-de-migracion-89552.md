@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-migracion-89552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-28"
-last_updated: "2013-12-02"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89552&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-09-28"
 
 REGLAMENTO DE LA LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de septiembre de 2012.
 
@@ -161,13 +161,139 @@ La Secretaría deberá realizar, promover, apoyar y coordinar estudios e investi
 
 El Instituto, previo acuerdo con el Subsecretario que conozca de la materia migratoria, de acuerdo con la estructura orgánica vigente, deberá registrar y recopilar en los sistemas disponibles, la información de los procedimientos administrativos y trámites migratorios realizados en sus oficinas, lugares destinados al tránsito internacional de personas y estaciones migratorias.
 
-## TÍTULO TERCERO. DE LOS PROCESOS DE PROFESIONALIZACIÓN Y CERTIFICACIÓN DEL PERSONAL DEL INSTITUTO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE MAYO DE 2014)</small>
 
-### CAPÍTULO PRIMERO. DEL PROCESO ANTE EL CENTRO DE EVALUACIÓN DEL INSTITUTO
+## TÍTULO TERCERO. DEL SERVICIO PROFESIONAL DE CARRERA MIGRATORIA, LA CERTIFICACIÓN Y DISPOSICIONES COMUNES AL PERSONAL DEL INSTITUTO
 
-### CAPÍTULO SEGUNDO. DEL INGRESO, PROMOCIÓN, PERMANENCIA, SEPARACIÓN, ROTACIÓN Y CAMBIO DE ADSCRIPCIÓN DEL PERSONAL DEL INSTITUTO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2014)</small>
+
+### CAPÍTULO PRIMERO. DEL SERVICIO PROFESIONAL DE CARRERA MIGRATORIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 12-A.
+
+El Servicio Profesional de Carrera Migratoria tiene por objeto promover la profesionalización de los servidores públicos del Instituto, a partir de acciones destinadas a fomentar su estabilidad, desarrollo y mejora en su desempeño laboral para elevar la calidad de su trabajo y fortalecer la eficacia y eficiencia institucional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 12-B.
+
+Forman parte del Servicio Profesional de Carrera Migratoria todos los servidores públicos con puestos de confianza que integran la estructura orgánica y ocupacional del Instituto hasta el nivel de Director de Área u Homólogo, de acuerdo a los catálogos de puestos y tabuladores de sueldos y salarios que emitan las autoridades competentes en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 12-C.
+
+Los puestos que forman parte de la estructura orgánica del Instituto, a partir del grupo jerárquico de Director General Adjunto, de conformidad con los catálogos de puestos y tabuladores de sueldos y salarios, serán de libre designación, así como el gabinete de apoyo del Comisionado del Instituto, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 12-D.
+
+El Servicio Profesional de Carrera Migratoria se integra por las disposiciones administrativas de carácter general, principios, procedimientos, instrumentos y estructuras administrativas que determinen los criterios y requisitos aplicables a la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de los servidores públicos del Instituto sujetos al mismo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 12-E.
+
+Adicionalmente a los principios establecidos en el artículo 22 de la Ley, el Servicio Profesional de Carrera Migratoria se regirá por los siguientes principios:
+
+I. Calidad. Obtención de los resultados y metas programadas, a través de la aplicación de las mejores prácticas y mejora continua en los procesos;
+
+II. Continuidad. Generación de condiciones de estabilidad, permanencia y desarrollo profesional de los servidores públicos sujetos al Servicio Profesional de Carrera Migratoria, basados en el mérito y en el desempeño;
+
+III. Dignificación del servicio migratorio. Cultura de vocación, superación y reconocimiento del servidor público, a partir de lo cual, desarrolle su capacidad, honestidad, dedicación, eficiencia y lealtad;
+
+IV. Equidad. Respeto al derecho de mujeres y hombres a competir en condiciones de igualdad para el ingreso y desarrollo profesional dentro del Instituto;
+
+V. Imparcialidad. Criterios objetivos para el ingreso y desarrollo profesional de los servidores públicos sujetos al Servicio Profesional de Carrera Migratoria, sin desvíos, prejuicios o tratos diferenciados por razones subjetivas;
+
+VI. Integridad. Vocación de servicio, trato digno, respeto a los derechos humanos, absoluto apego a la legalidad y vivencia cotidiana de los valores éticos;
+
+VII. Lealtad institucional. Fidelidad, apego y compromiso a los principios, misión y objetivos del Instituto;
+
+VIII. Mérito profesional. Consideración de las capacidades, desempeño laboral, cumplimiento de metas y evaluación de resultados, como criterios básicos para la permanencia y desarrollo profesional de los servidores públicos sujetos al Servicio Profesional de Carrera Migratoria, y
+
+IX. Rendición de cuentas. Apego a la transparencia a fin de contribuir a que el Instituto esté abierto al escrutinio permanente de la sociedad y de los usuarios de sus servicios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 12-F.
+
+Los programas de formación, capacitación y profesionalización que integran el Servicio Profesional de Carrera Migratoria, se llevarán a cabo a través de los sistemas siguientes:
+
+I. Planeación del Capital Humano. Estrategias y programas para cubrir con agilidad y oportunidad, las vacantes que se generen en el Instituto, con personal cuyas características se apeguen al perfil del puesto correspondiente;
+
+II. Ingreso. Mecanismos de reclutamiento para proveer al Instituto de personal competente y confiable para ocupar los puestos del Servicio Profesional de Carrera Migratoria, con base en la legalidad, el mérito, la experiencia, la igualdad de oportunidades, la objetividad y la imparcialidad;
+
+III. Permanencia. Mecanismos y modelos de confianza y de competencias, con fines de certificación, para determinar la permanencia de los servidores públicos sujetos al Servicio Profesional de Carrera Migratoria;
+
+IV. Formación y Capacitación. Mecanismos y modelos de profesionalización de los servidores públicos sujetos al Servicio Profesional de Carrera Migratoria, que les permita adquirir, desarrollar o fortalecer las competencias requeridas para el desempeño del puesto que ocupan, para ejercer otros cargos de igual o mayor responsabilidad y para contribuir al logro de la estrategia institucional;
+
+V. Gestión del Desempeño. Evaluaciones periódicas y sistemáticas del cumplimiento de las metas y nivel de desempeño de los servidores públicos sujetos al Servicio Profesional de Carrera Migratoria, así como su nivel de dominio de las competencias técnicas, gerenciales y actitudinales en el ejercicio de sus funciones;
+
+VI. Desarrollo Profesional. Planeación y gestión de la movilidad, de la promoción, así como de la aplicación de los planes de desarrollo;
+
+VII. Separación. Mecanismos y acciones para que los servidores públicos sujetos al Servicio Profesional de Carrera Migratoria concluyan sus servicios, y
+
+VIII. Control y Evaluación. Vigilancia y retroalimentación del desarrollo y desempeño de los diferentes Sistemas que integran el Servicio Profesional de Carrera Migratoria.
+
+El Instituto emitirá reglas operativas de observancia general para establecer especificaciones técnicas que permitan ejecutar las disposiciones del presente artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 12-G.
+
+El Instituto instalará el Comité del Servicio Profesional de Carrera Migratoria, para vigilar el cumplimiento del objeto, vigencia y continua actualización del Servicio Profesional de Carrera Migratoria.
+
+La integración, organización y funciones de este Comité se establecerán en disposiciones administrativas de carácter general que expida el Comisionado del Instituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 12-H.
+
+Los servidores públicos a que se refiere el artículo 12-B del presente Reglamento, ingresarán al Servicio Profesional de Carrera Migratoria a través de un concurso de selección mediante convocatoria publicada en el Diario Oficial de la Federación y sólo podrán ser designados y separados del mismo en los casos y bajo los procedimientos previstos por la Ley, el presente Reglamento y las demás disposiciones que de éstos se deriven, sin perjuicio de las sanciones administrativas o penales en que pudieran incurrir.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 12-I.
+
+En casos excepcionales derivados de situaciones que impliquen peligro, urgencia, alteración del orden social o riesgo a la seguridad nacional, la salubridad, la seguridad de las instalaciones en que se prestan servicios migratorios, o existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, el Comisionado del Instituto o el Director General de Administración del Instituto, podrán autorizar el nombramiento temporal para ocupar una plaza vacante del Servicio Profesional de Carrera Migratoria, el cual no excederá de diez meses, y deberá someterse a la certificación que prevé el artículo 23 de la Ley. Este personal no creará derechos respecto al ingreso al Servicio Profesional de Carrera Migratoria.
+
+Para efectos del párrafo anterior, el titular de la unidad administrativa, donde se encuentra la plaza vacante, deberá indicar por escrito el hecho que justifique y motive el caso excepcional.
+
+Al vencimiento del plazo o cuando haya desaparecido el caso excepcional que dio origen al nombramiento temporal, la plaza deberá concursarse de conformidad con el artículo anterior.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE MAYO DE 2014)</small>
+
+### CAPÍTULO SEGUNDO. DE LA CERTIFICACIÓN DEL PERSONAL DEL INSTITUTO
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2014)</small>
 
 ###### Artículo 13.
+
+Todos los servidores públicos del Instituto, están sujetos a la aprobación de las evaluaciones correspondientes al proceso de certificación.
 
 El Instituto emitirá los lineamientos de operación del Centro de Evaluación, detallando las características, términos, modalidades y periodicidad con que se practiquen las evaluaciones.
 
@@ -193,19 +319,45 @@ V. Antecedentes y entorno socioeconómico, y
 
 VI. Las demás que se consideren necesarias de acuerdo a la normativa vigente.
 
-Los resultados del proceso de certificación serán comunicados a los titulares del área de adscripción que propone al aspirante o de aquélla a la que estén adscritos los servidores públicos en servicio activo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
 
 ###### Artículo 16.
 
-Los resultados de las evaluaciones del proceso de certificación se valorarán en conjunto, salvo la evaluación toxicológica que se calificará por separado.
+Las evaluaciones del proceso de certificación se valorarán en conjunto, salvo la toxicológica que se calificará por separado, para lo cual se emitirá un resultado único.
 
-En el caso de que los aspirantes resulten no aprobados en la evaluación toxicológica quedarán excluidos inmediata y definitivamente del proceso de certificación, por lo que no se les aplicarán las evaluaciones restantes.
+En el caso de que el evaluado no apruebe el examen toxicológico, quedará excluido inmediata y definitivamente del proceso de certificación, por lo que no se le aplicarán las evaluaciones restantes.
+
+Para emitir el resultado único de la aplicación de las evaluaciones del proceso de certificación, se considerará de manera integral respecto de los perfiles de personalidad, éticos, socioeconómicos y médicos, así como la información que resulte de la aplicación técnica de instrumentos que permitan verificar el apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, para cumplir con el servicio público.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 16-A.
+
+El proceso de certificación deberá concluir con uno de los resultados siguientes:
+
+I. Aprobado. Cuando de la aplicación de las evaluaciones se compruebe que el evaluado cumple con los perfiles de personalidad, éticos, socioeconómicos y médicos previstos en la Ley, satisface los requisitos de ingreso o permanencia establecidos en el presente Reglamento, y que no se determinen factores de riesgo para el desarrollo de sus funciones o para el cumplimiento de las atribuciones del Instituto;
+
+II. Aprobado con Restricciones. Cuando de la aplicación de las evaluaciones se identifique algún factor de riesgo que sea controlable y que no influya sustantivamente en el desarrollo de las funciones del evaluado. En este caso será necesario dar seguimiento a su desempeño y, de ser procedente, brindar la capacitación y asesoría necesaria, o
+
+III. No Aprobado. Cuando de las evaluaciones realizadas se compruebe que el evaluado no cumple con los perfiles de personalidad, éticos, socioeconómicos y médicos previstos en la Ley o que no satisface los requisitos de ingreso o permanencia establecidos en el presente Reglamento, o que se determinen factores de riesgo que impidan el desarrollo de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 16-B.
+
+El resultado único será comunicado al titular de la unidad administrativa correspondiente. Tratándose de servidores públicos del Instituto, si el resultado es No Aprobado, el citado titular está obligado a informarlo de manera inmediata a la unidad administrativa competente del Instituto para los efectos correspondientes.
 
 ###### Artículo 17.
 
 Una vez que haya concluido el proceso de certificación, el Centro de Evaluación emitirá, en caso procedente, la certificación a que se refieren los artículos 96 y 97 de la Ley General del Sistema Nacional de Seguridad Pública y 23 de la Ley, que establecen que la certificación es requisito indispensable de ingreso, promoción y permanencia.
 
 La certificación a que se refiere el párrafo anterior deberá expedirse en un plazo no mayor a sesenta días naturales, contados a partir del inicio del proceso de certificación, para efectos de su registro. La certificación y el registro respectivo tendrán una vigencia de hasta tres años.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+Con independencia de la vigencia de la certificación, los servidores públicos del Instituto deberán ser sometidos nuevamente al proceso de certificación, aplicando una o más de las evaluaciones previstas en el artículo 15 del presente Reglamento, a solicitud expresa debidamente fundada y motivada del titular de la unidad administrativa a que se encuentre adscrito.
 
 ###### Artículo 18.
 
@@ -215,29 +367,37 @@ Para efectos de revalidación de la certificación y el registro, seis meses ant
 
 El proceso de certificación será realizado por el Centro de Evaluación, sin embargo, podrá auxiliarse de otras instancias, sujetándose a los criterios, normas, procedimientos técnicos y protocolos que se establezcan para tales efectos.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 20.
 
-Los exámenes y documentos que deriven de los procesos de certificación, así como la demás información contenida en los expedientes respectivos tendrán el carácter de reservado en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+Las evaluaciones y documentos que deriven de los procesos de certificación, así como la demás información contenida en los expedientes respectivos tendrán el carácter de reservados, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
 
 ###### Artículo 21.
 
-Los resultados del proceso de certificación tendrán el carácter de información confidencial y reservada, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de la Ley General del Sistema Nacional de Seguridad Pública.
+El resultado único de las evaluaciones del proceso de certificación tendrá el carácter de información confidencial, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 ###### Artículo 22.
 
 Los servidores públicos del Instituto que no obtengan la certificación a que se refiere el presente capítulo serán separados de su cargo de conformidad con las disposiciones jurídicas aplicables.
 
-### CAPÍTULO TERCERO. DE LA PROFESIONALIZACIÓN DEL PERSONAL DEL INSTITUTO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE MAYO DE 2014)</small>
+
+### CAPÍTULO TERCERO. DISPOSICIONES COMUNES AL PERSONAL DEL INSTITUTO
 
 ###### Artículo 23.
 
-Los mecanismos de ingreso, promoción y permanencia del personal del Instituto se establecerán en las disposiciones administrativas de carácter general que emita el Instituto y que serán publicadas en el Diario Oficial de la Federación.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2014)
 
 ###### Artículo 24.
 
 Para ingresar al Instituto, los aspirantes deberán de reunir los requisitos siguientes:
 
-I. Obtener la certificación correspondiente en términos del artículo 17 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2014)</small>
+
+I. Obtener la certificación de conformidad con lo establecido en el artículo 23 de la Ley;
 
 II. No haber sido sentenciado con pena privativa de libertad por delito doloso ni estar sujeto a proceso penal;
 
@@ -249,13 +409,17 @@ V. Contar con el grado académico que requiera el puesto, expedido por instituci
 
 VI. Aprobar el examen técnico relacionado con el perfil de puesto que va a ocupar.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 25.
 
-Los servidores públicos sujetos a promoción, deberán cubrir los requisitos establecidos por el Instituto, y aprobar los programas de formación, capacitación y profesionalización que se determinen en las disposiciones administrativas que emita el Instituto, así como contar con la certificación correspondiente.
+Los servidores públicos sujetos a promoción, deberán aprobar los programas de formación, capacitación y profesionalización que se determinen, así como contar con la certificación de conformidad con lo establecido en el artículo 23 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2014)</small>
 
 ###### Artículo 26.
 
-Los servidores públicos del Instituto sujetos a promoción que obtengan resultados negativos en las evaluaciones derivadas de la aplicación de los programas de formación, capacitación y profesionalización, tendrán la oportunidad de presentar nuevamente dichas evaluaciones, en los términos que establezcan las disposiciones administrativas que emita el Instituto.
+Los servidores públicos del Instituto sujetos a promoción que obtengan resultados negativos en las evaluaciones derivadas de la aplicación de los programas de formación y capacitación, tendrán la oportunidad de presentar nuevamente y por única ocasión dichas evaluaciones. De no presentar resultados aprobatorios en las nuevas evaluaciones, los servidores públicos serán separados del servicio o se darán por terminados los efectos de su nombramiento, según sea el caso.
 
 ###### Artículo 27.
 
@@ -265,9 +429,13 @@ I. Ser de notoria buena conducta y no haber sido sentenciado con pena privativa 
 
 II. Cumplir las instrucciones de rotación y cambios de adscripción;
 
-III. Aprobar los programas de formación, capacitación y profesionalización del Instituto, en términos del capítulo cuarto del título tercero de este Reglamento;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2014)</small>
 
-IV. Obtener la certificación a que se refiere el artículo 17 de este Reglamento;
+III. Aprobar los programas de formación, capacitación y profesionalización;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2014)</small>
+
+IV. Obtener la certificación de conformidad con lo establecido en el artículo 23 de la Ley;
 
 V. No estar impedido para prestar sus servicios, en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones jurídicas aplicables;
 
@@ -281,59 +449,57 @@ VIII. Las (sic) demás establecidos en las disposiciones jurídicas aplicables.
 
 Son causas de separación del cargo de los servidores públicos del Instituto, sin perjuicio de las previstas en otras disposiciones jurídicas aplicables:
 
-I. El incumplimiento de cualquiera de los requisitos de permanencia a que hace referencia el artículo anterior;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2014)</small>
 
-II. No obtener la certificación a que hace referencia el artículo 22 de este Reglamento.
+I. El incumplimiento de cualquiera de los requisitos de permanencia a que hace referencia el artículo anterior, y
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2014)</small>
+
+II. No obtener la certificación a que hace referencia el artículo 23 de la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2014)</small>
+
+###### Artículo 28-A.
+
+Para la consecución y cumplimiento de los programas de formación, capacitación y profesionalización, el Instituto podrá suscribir convenios de colaboración y coordinación con instituciones educativas, de investigación, así como con organismos nacionales e internacionales.
+
+Asimismo, el Instituto contará con un Centro de Capacitación Migratoria, el cual generará e impartirá dichos programas, incluyendo programas a nivel superior especializados en la gestión y atención de los servicios migratorios, a fin de contribuir a la profesionalización.
+
+El Comisionado expedirá las disposiciones administrativas de carácter general que regulen las funciones y organización del Centro de Capacitación Migratoria y ordenará su publicación en el Diario Oficial de la Federación.
 
 ###### Artículo 29.
 
 El Instituto podrá sujetar a sus servidores públicos a un sistema de rotación y cambio de adscripción que será definido de conformidad con las necesidades del servicio, mediante disposiciones administrativas de carácter general que serán publicadas en el Diario Oficial de la Federación.
 
-### CAPÍTULO PRIMERO. DEL ESTABLECIMIENTO Y SUPRESIÓN DE LUGARES DESTINADOS AL TRÁNSITO INTERNACIONAL DE PERSONAS
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2014)</small>
+
+### CAPÍTULO TERCERO. DE LA PROFESIONALIZACIÓN DEL PERSONAL DEL INSTITUTO
 
 ###### Artículo 30.
 
-El Instituto deberá instrumentar programas de formación, capacitación y profesionalización para sus servidores públicos, los cuales contendrán los siguientes aspectos:
-
-I. Inductivos o reinductivos: corresponden a las acciones que debe acreditar el personal de nuevo ingreso al Instituto, o aquellos que sean sujetos a promoción;
-
-II. Fortalecimiento del desempeño: acciones para reforzar, complementar y perfeccionar el desempeño de los servidores públicos del Instituto;
-
-III. Desarrollo profesional: acciones para incrementar conocimientos, habilidades y aptitudes, con el fin de preparar a los servidores públicos del Instituto para asumir funciones de mayor responsabilidad, y
-
-IV. Actualización: acciones que tienden a mantener vigentes los conocimientos y habilidades, para el desempeño de las funciones de los servidores públicos del Instituto.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2014)
 
 ###### Artículo 31.
 
-Para la instrumentación de los programas de formación, capacitación y profesionalización de los servidores públicos del Instituto, se deberá elaborar y mantener actualizado un diagnóstico de necesidades.
-
-Con independencia del diagnóstico de necesidades, los programas de formación, capacitación y profesionalización para los servidores públicos del Instituto deberán contener, entre otros, la impartición de temas sobre derechos humanos, normatividad migratoria, perspectiva de género y atención a grupos vulnerables dentro de los flujos migratorios.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2014)
 
 ###### Artículo 32.
 
-Con el propósito de medir el grado de avance en la instrumentación de los programas de formación, capacitación y profesionalización, el Instituto deberá evaluar los resultados alcanzados.
-
-Dichas evaluaciones tendrán por objeto identificar entre otros aspectos, los siguientes:
-
-I. Los temas impartidos por competencia;
-
-II. La deserción presentada durante su desarrollo;
-
-III. Las competencias adquiridas por los servidores públicos del Instituto, y
-
-IV. El costo beneficio de los resultados obtenidos.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2014)
 
 ###### Artículo 33.
 
-Para la consecución y cumplimiento de los programas de formación, capacitación y profesionalización, el Instituto podrá suscribir instrumentos de colaboración y coordinación con instituciones educativas, de investigación, así como con organismos nacionales e internacionales.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2014)
 
 ###### Artículo 34.
 
-El Instituto podrá emitir las disposiciones administrativas necesarias para la debida instrumentación de los programas de formación, capacitación y profesionalización.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2014)
 
 ## TÍTULO CUARTO. DEL MOVIMIENTO INTERNACIONAL DE PERSONAS
 
-### CAPÍTULO SEGUNDO. DE LAS INSTALACIONES DEL INSTITUTO EN LOS LUGARES DESTINADOS AL TRÁNSITO INTERNACIONAL DE PERSONAS
+### CAPÍTULO PRIMERO. DEL ESTABLECIMIENTO Y SUPRESIÓN DE LUGARES DESTINADOS AL TRÁNSITO INTERNACIONAL DE PERSONAS
 
 ###### Artículo 35.
 
@@ -353,7 +519,7 @@ El cierre temporal de lugares destinados al tránsito internacional de personas 
 
 Si el cierre fuera por menos de veinticuatro horas se dará aviso a la Secretaría de Comunicaciones y Transportes para su difusión por los medios establecidos para tal efecto.
 
-### CAPÍTULO TERCERO. DE LAS OBLIGACIONES DE LAS EMPRESAS DE TRANSPORTE INTERNACIONAL DE PERSONAS
+### CAPÍTULO SEGUNDO. DE LAS INSTALACIONES DEL INSTITUTO EN LOS LUGARES DESTINADOS AL TRÁNSITO INTERNACIONAL DE PERSONAS
 
 ###### Artículo 37.
 
@@ -385,7 +551,7 @@ En los lugares destinados al tránsito internacional de personas por tierra, mar
 
 Los concesionarios o permisionarios, que operen o administren lugares destinados al tránsito internacional de personas, informarán oportunamente al Instituto de todo cambio, modificación o cancelación de obras que se pretenda realizar en las instalaciones físicas que incidan en el desarrollo de sus funciones de control migratorio.
 
-### CAPÍTULO CUARTO. DE LA ENTRADA Y SALIDA DE PERSONAS AL TERRITORIO NACIONAL
+### CAPÍTULO TERCERO. DE LAS OBLIGACIONES DE LAS EMPRESAS DE TRANSPORTE INTERNACIONAL DE PERSONAS
 
 ###### Artículo 42.
 
@@ -527,7 +693,7 @@ A los polizones extranjeros que arriben en embarcaciones se les impedirá el des
 
 Aquellos que lleguen en un medio de transporte terrestre, se les impedirá su ingreso al territorio nacional y deberán regresar de inmediato al país de procedencia.
 
-### CAPÍTULO QUINTO. DEL CONTROL MIGRATORIO
+### CAPÍTULO CUARTO. DE LA ENTRADA Y SALIDA DE PERSONAS AL TERRITORIO NACIONAL
 
 ###### Artículo 51.
 
@@ -555,7 +721,7 @@ El Instituto podrá autorizar la salida del territorio nacional de personas extr
 
 En todo caso, el Instituto verificará las listas de control migratorio y, de no existir coincidencia, procederá a emitir un oficio de salida del país. Cuando exista una alerta migratoria la autoridad migratoria actuará de conformidad con la instrucción de la alerta.
 
-### CAPÍTULO SEXTO. DEL PROCEDIMIENTO EN AEROPUERTOS INTERNACIONALES
+### CAPÍTULO QUINTO. DEL CONTROL MIGRATORIO
 
 ###### Artículo 55.
 
@@ -717,7 +883,7 @@ Los comandantes de aeropuertos internacionales no autorizarán la salida del ter
 
 Los capitanes de puertos habilitados para la navegación de altura no autorizarán la salida del territorio nacional de embarcaciones hasta que el Instituto haya efectuado la inspección migratoria de Ley.
 
-### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO EN PUERTOS MARÍTIMOS INTERNACIONALES
+### CAPÍTULO SEXTO. DEL PROCEDIMIENTO EN AEROPUERTOS INTERNACIONALES
 
 ###### Artículo 74.
 
@@ -767,7 +933,7 @@ En los casos de aeronaves civiles que se dirijan al extranjero desde este país 
 
 En estos casos, el Instituto vigilará que no haya ascenso o descenso de personas de la aeronave y el piloto deberá entregar a la autoridad migratoria la declaración general firmada con la anotación de que ninguna persona embarca ni desembarca.
 
-### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO EN PUNTOS TERRESTRES
+### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO EN PUERTOS MARÍTIMOS INTERNACIONALES
 
 ###### Artículo 83.
 
@@ -847,7 +1013,7 @@ En el caso de que alguna persona extranjera haya fallecido a bordo de una embarc
 
 El Instituto notificará del hecho al representante consular que corresponda y, en su caso, al Agente del Ministerio Público que corresponda, si existen elementos para determinar la posibilidad de un hecho delictivo.
 
-### CAPÍTULO NOVENO. DE LAS LISTAS DE CONTROL MIGRATORIO
+### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO EN PUNTOS TERRESTRES
 
 ###### Artículo 93.
 
@@ -859,7 +1025,7 @@ En el caso de que se proceda al rechazo de una persona extranjera, la autoridad 
 
 El rechazo obliga a la persona extranjera a regresar al país de procedencia, pudiendo solicitar nuevamente su ingreso al territorio nacional, previo cumplimiento de los requisitos previstos en la Ley, este Reglamento y demás disposiciones administrativas aplicables.
 
-### CAPÍTULO DÉCIMO. DE LA READMISIÓN DE PERSONAS EXTRANJERAS
+### CAPÍTULO NOVENO. DE LAS LISTAS DE CONTROL MIGRATORIO
 
 ###### Artículo 95.
 
@@ -881,7 +1047,7 @@ Para efectos de lo dispuesto en el artículo 80 de la Ley, el Instituto establec
 
 Cuando el Instituto advierta que una persona que pretende ingresar al territorio nacional se ubica en alguno de los supuestos previstos en los artículos 43 u 80 de la Ley, lo informará de inmediato a las autoridades competentes y se procederá a efectuar una segunda revisión en términos del artículo 87 de la Ley y 60 de este Reglamento.
 
-### CAPÍTULO PRIMERO. DE LOS CRITERIOS PARA LA EMISIÓN DE VISAS
+### CAPÍTULO DÉCIMO. DE LA READMISIÓN DE PERSONAS EXTRANJERAS
 
 ###### Artículo 99.
 
@@ -919,7 +1085,7 @@ IV. Remitirá la resolución al área correspondiente de la Secretaría de Relac
 
 ## TÍTULO QUINTO. DE LOS CRITERIOS, REQUISITOS Y PROCEDIMIENTOS PARA LA EMISIÓN DE VISAS
 
-### CAPÍTULO SEGUNDO. DE LAS SOLICITUDES DE VISA ORDINARIA TRAMITADAS ANTE LA OFICINA CONSULAR
+### CAPÍTULO PRIMERO. DE LOS CRITERIOS PARA LA EMISIÓN DE VISAS
 
 ###### Artículo 101.
 
@@ -929,7 +1095,7 @@ La forma de acreditar los requisitos para la emisión de visas ordinarias a que 
 
 La Secretaría de Relaciones Exteriores expedirá lineamientos para el otorgamiento de visas no ordinarias en pasaportes ordinarios y no ordinarios, o en documentos de identidad y viaje reconocidos por el Estado mexicano; así como para establecer las temporalidades de permanencia permitidas a personas extranjeras titulares de pasaportes no ordinarios. Dichos lineamientos serán publicados en el Diario Oficial de la Federación.
 
-### CAPÍTULO TERCERO. DE LA UNIDAD FAMILIAR
+### CAPÍTULO SEGUNDO. DE LAS SOLICITUDES DE VISA ORDINARIA TRAMITADAS ANTE LA OFICINA CONSULAR
 
 ###### Artículo 102.
 
@@ -1085,7 +1251,7 @@ En su caso, exclusivamente se cubrirán los derechos por la expedición de visa 
 
 La persona extranjera deberá tramitar dentro de los treinta días naturales siguientes a su ingreso al territorio nacional, la reposición de la tarjeta de visitante o de residente que corresponda.
 
-### CAPÍTULO CUARTO. DE LAS SOLICITUDES DE VISA TRAMITADAS ANTE EL INSTITUTO
+### CAPÍTULO TERCERO. DE LA UNIDAD FAMILIAR
 
 ###### Artículo 111.
 
@@ -1157,7 +1323,7 @@ III. Nacionalidad en términos de lo previsto en la ley de la materia, en el cas
 
 La solicitud de una visa por unidad familiar en la oficina consular aplica para el mexicano o el residente temporal o permanente que se encuentra fuera del territorio nacional y acompaña a su familiar al momento de presentar la solicitud correspondiente. En caso contrario, la solicitud de visa deberá tramitarse ante el Instituto por la persona extranjera residente o por el mexicano, según corresponda.
 
-### CAPÍTULO PRIMERO. DE LAS CUOTAS
+### CAPÍTULO CUARTO. DE LAS SOLICITUDES DE VISA TRAMITADAS ANTE EL INSTITUTO
 
 ###### Artículo 114.
 
@@ -1255,7 +1421,7 @@ Una vez obtenida la visa y autorizado el ingreso al territorio nacional, únicam
 
 ## TÍTULO SEXTO. DE LA ESTANCIA DE PERSONAS EXTRANJERAS EN EL TERRITORIO NACIONAL
 
-### CAPÍTULO SEGUNDO. DEL SISTEMA DE PUNTOS
+### CAPÍTULO PRIMERO. DE LAS CUOTAS
 
 ###### Artículo 119.
 
@@ -1289,7 +1455,7 @@ La expedición de visas y el otorgamiento de condiciones de estancia por una ofe
 
 Para cumplir con lo anterior, la autoridad migratoria clasificará la oferta de empleo conforme al Sistema Nacional de Clasificación de Ocupaciones o el que en su momento sustituya a éste; posteriormente, verificará si existe cuota para dicha ocupación y, de ser el caso, si no se excede el límite establecido.
 
-### CAPÍTULO TERCERO. DEL OTORGAMIENTO DE LA CONDICIÓN DE ESTANCIA EN EL TERRITORIO NACIONAL
+### CAPÍTULO SEGUNDO. DEL SISTEMA DE PUNTOS
 
 ###### Artículo 124.
 
@@ -1333,7 +1499,7 @@ Para efecto de lo anterior, debe presentar la solicitud de trámite correspondie
 
 Lo anterior conforme al procedimiento y requisitos previstos en las disposiciones administrativas de carácter general que serán publicadas en el Diario Oficial de la Federación.
 
-### CAPÍTULO CUARTO. DE LOS DOCUMENTOS QUE ACREDITAN UNA CONDICIÓN DE ESTANCIA
+### CAPÍTULO TERCERO. DEL OTORGAMIENTO DE LA CONDICIÓN DE ESTANCIA EN EL TERRITORIO NACIONAL
 
 ###### Artículo 128.
 
@@ -1721,7 +1887,7 @@ Los apátridas que cuenten con documento que acrediten su residencia en otro Est
 
 Cuando no se haya obtenido reconocimiento de nacionalidad del Estado o Estados, respecto de los cuales la persona extranjera haya manifestado ser nacional, o bien, exista presunción fundada de que no se ha obtenido reconocimiento de nacionalidad o se tenga constancia de la negativa, por parte de las autoridades consulares o nacionales de dicho Estado sobre la imposibilidad de que la persona extranjera pueda ingresar a su país de origen, la autoridad migratoria emitirá un acuerdo en el que declare la determinación de apátrida y le otorgará la condición de estancia de residente permanente, en términos del artículo 59 de la Ley.
 
-### CAPÍTULO QUINTO. DEL PERMISO DE TRABAJO Y LOS AVISOS DE CAMBIO DE ESTADO CIVIL, DOMICILIO, ACTIVIDAD O NACIONALIDAD
+### CAPÍTULO CUARTO. DE LOS DOCUMENTOS QUE ACREDITAN UNA CONDICIÓN DE ESTANCIA
 
 ###### Artículo 152.
 
@@ -1845,7 +2011,7 @@ IV. Cuando sea utilizada para realizar actividades distintas a las que le permit
 
 V. Por otras causas señaladas en la Ley y este Reglamento.
 
-### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO PARA LA VALORACIÓN Y DETERMINACIÓN DEL INTERÉS SUPERIOR DE NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES EXTRANJEROS NO ACOMPAÑADOS
+### CAPÍTULO QUINTO. DEL PERMISO DE TRABAJO Y LOS AVISOS DE CAMBIO DE ESTADO CIVIL, DOMICILIO, ACTIVIDAD O NACIONALIDAD
 
 ###### Artículo 164.
 
@@ -1937,7 +2103,7 @@ En el caso de que las personas extranjeras incumplan con las disposiciones legal
 
 ## TÍTULO SÉPTIMO. DE LA PROTECCIÓN A LOS MIGRANTES QUE TRANSITAN POR EL TERRITORIO NACIONAL
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO PARA LA DETECCIÓN, IDENTIFICACIÓN Y ATENCIÓN DE PERSONAS EXTRANJERAS VÍCTIMAS DE DELITO
+### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO PARA LA VALORACIÓN Y DETERMINACIÓN DEL INTERÉS SUPERIOR DE NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES EXTRANJEROS NO ACOMPAÑADOS
 
 ###### Artículo 169.
 
@@ -2039,7 +2205,7 @@ III. Cualquier otra que las autoridades consideren pertinente para garantizarle 
 
 Cuando la complejidad del caso requiera de una decisión interinstitucional, el Instituto tomará en cuenta la opinión de aquellas instituciones que tengan competencia en la materia y se considere necesaria su participación para garantizar la protección de los derechos de la niña, niño o adolescente migrante extranjero no acompañado.
 
-### CAPÍTULO TERCERO. DE LA PROTECCIÓN A OTROS GRUPOS EN SITUACIÓN DE VULNERABILIDAD
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO PARA LA DETECCIÓN, IDENTIFICACIÓN Y ATENCIÓN DE PERSONAS EXTRANJERAS VÍCTIMAS DE DELITO
 
 ###### Artículo 178.
 
@@ -2127,7 +2293,7 @@ III. Se custodiará a la persona extranjera víctima que así lo haya solicitado
 
 De conformidad con lo dispuesto en el artículo 113 de la Ley y con la finalidad de respetar el período de reflexión de la persona extranjera, que presente un estado emocional que no le permita tomar una decisión respecto a si desea retornar a su país de origen o permanecer en el territorio nacional, se adoptarán las medidas necesarias a fin de que, si así lo requiere, se privilegie su estancia en instituciones públicas o privadas especializadas que pueda brindarle la atención que requiere. En el caso de que sea alojada en una estación migratoria o en una estancia provisional, se le otorgará un plazo que no excederá de quince días hábiles para tal efecto.
 
-### CAPÍTULO CUARTO. DE LOS GRUPOS DE PROTECCIÓN A MIGRANTES
+### CAPÍTULO TERCERO. DE LA PROTECCIÓN A OTROS GRUPOS EN SITUACIÓN DE VULNERABILIDAD
 
 ###### Artículo 185.
 
@@ -2139,7 +2305,7 @@ Dichas acciones incluirán las medidas pertinentes para asegurar que en los proc
 
 La Secretaría podrá establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas o municipios y con las organizaciones de la sociedad civil especializadas en la atención de personas en situación de vulnerabilidad, con el objeto de mejorar la condición de los migrantes con independencia de su situación migratoria y avanzar en el cumplimiento de los tratados y convenios internacionales de los cuales sea parte el Estado mexicano.
 
-### CAPÍTULO PRIMERO. DE LOS ACUERDOS INTERINSTITUCIONALES EN MATERIA DE RETORNO ASISTIDO DE PERSONAS EXTRANJERAS
+### CAPÍTULO CUARTO. DE LOS GRUPOS DE PROTECCIÓN A MIGRANTES
 
 ###### Artículo 187.
 
@@ -2165,7 +2331,7 @@ Atendiendo a las necesidades específicas de operación de cada grupo, la capaci
 
 ## TÍTULO OCTAVO. DEL RETORNO ASISTIDO
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE RETORNO ASISTIDO
+### CAPÍTULO PRIMERO. DE LOS ACUERDOS INTERINSTITUCIONALES EN MATERIA DE RETORNO ASISTIDO DE PERSONAS EXTRANJERAS
 
 ###### Artículo 191.
 
@@ -2201,7 +2367,7 @@ III. La participación de organizaciones nacionales e internacionales con el car
 
 IV. Los demás aspectos que las Partes consideren convenientes para dar cumplimiento al objeto de los instrumentos.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES COMUNES EN MATERIA DE VERIFICACIÓN Y REVISIÓN MIGRATORIA
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE RETORNO ASISTIDO
 
 ###### Artículo 193.
 
@@ -2219,7 +2385,7 @@ IV. Emitir resolución en la que se ordene sujetar a la persona extranjera prese
 
 ## TÍTULO NOVENO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS EN MATERIA MIGRATORIA
 
-### CAPÍTULO SEGUNDO. DE LAS VISITAS DE VERIFICACIÓN
+### CAPÍTULO PRIMERO. DISPOSICIONES COMUNES EN MATERIA DE VERIFICACIÓN Y REVISIÓN MIGRATORIA
 
 ###### Artículo 194.
 
@@ -2301,7 +2467,7 @@ Toda notificación deberá efectuarse en el plazo máximo de cinco días hábile
 
 La autoridad que, derivado de las funciones de su competencia o en auxilio del Instituto, realice la puesta a disposición, deberá exhibir el certificado médico correspondiente, así como la documentación migratoria que permita la identificación de la persona extranjera y deberá informar la situación jurídica en que se encuentra, para que la autoridad migratoria resuelva lo conducente.
 
-### CAPÍTULO TERCERO. DE LA REVISIÓN MIGRATORIA
+### CAPÍTULO SEGUNDO. DE LAS VISITAS DE VERIFICACIÓN
 
 ###### Artículo 207.
 
@@ -2359,7 +2525,7 @@ En los casos que no se pueda desahogar la visita de verificación por cualquier 
 
 Para efectos de lo dispuesto en el artículo 76 de la Ley, las organizaciones de la sociedad civil deberán estar legalmente constituidas y su objeto establecer (sic) expresamente alguna de las actividades a que se refiere el artículo 5 de Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, así como abstenerse de incurrir en las conductas a que se refiere el artículo 159 de la Ley.
 
-### CAPÍTULO CUARTO. DEL OTORGAMIENTO DE CUSTODIA DE PERSONAS EXTRANJERAS
+### CAPÍTULO TERCERO. DE LA REVISIÓN MIGRATORIA
 
 ###### Artículo 213.
 
@@ -2373,7 +2539,7 @@ De toda revisión migratoria, el personal comisionado deberá rendir un informe 
 
 Los servidores públicos que realicen el procedimiento de revisión migratoria deberán invariablemente sujetar su actuación a los principios a que hace referencia el artículo 22 de la Ley.
 
-### CAPÍTULO QUINTO. DEL ALOJAMIENTO EN LAS ESTACIONES MIGRATORIAS Y ESTANCIAS PROVISIONALES
+### CAPÍTULO CUARTO. DEL OTORGAMIENTO DE CUSTODIA DE PERSONAS EXTRANJERAS
 
 ###### Artículo 214.
 
@@ -2439,7 +2605,7 @@ En caso de que la obligación haya sido garantizada a través de la consignació
 
 En todo lo no previsto para la guarda, custodia, cancelación, devolución, efectividad, prescripción o algún tema relacionado a las garantías que sean presentadas al Instituto, a fin de garantizar la custodia de personas extranjeras, se deberá observar lo dispuesto en la Ley del Servicio de la Tesorería de la Federación y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO SEXTO. DE LA REGULARIZACIÓN DE LAS PERSONAS EXTRANJERAS ALOJADAS EN ESTACIONES MIGRATORIAS
+### CAPÍTULO QUINTO. DEL ALOJAMIENTO EN LAS ESTACIONES MIGRATORIAS Y ESTANCIAS PROVISIONALES
 
 ###### Artículo 222.
 
@@ -2657,7 +2823,7 @@ Para efectos de este Reglamento, se entiende por intérprete a la persona que te
 
 Las autoridades que tengan bajo su mando a la fuerza pública estarán obligadas a brindar el apoyo y colaboración que el Instituto les solicite para salvaguardar la seguridad de los traslados.
 
-### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO DE DEPORTACIÓN DE PERSONAS EXTRANJERAS
+### CAPÍTULO SEXTO. DE LA REGULARIZACIÓN DE LAS PERSONAS EXTRANJERAS ALOJADAS EN ESTACIONES MIGRATORIAS
 
 ###### Artículo 240.
 
@@ -2723,7 +2889,7 @@ a) Documento migratorio, y
 
 b) Los demás documentos previstos en las disposiciones administrativas de carácter general que emita la Secretaría y que serán publicadas en el Diario Oficial de la Federación para las condiciones de estancia de residente temporal, residente temporal estudiante, visitante con permiso para realizar actividades remuneradas y visitante sin permiso para realizar actividades remuneradas.
 
-### CAPÍTULO OCTAVO. DE LOS CRITERIOS PARA DETERMINAR LOS PERÍODOS DE RESTRICCIÓN DE INGRESO AL TERRITORIO NACIONAL
+### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO DE DEPORTACIÓN DE PERSONAS EXTRANJERAS
 
 ###### Artículo 242.
 
@@ -2741,7 +2907,7 @@ Las autoridades federales y locales, así como las empresas de transporte, dará
 
 Los casos de deportación constituyen antecedente negativo para un próximo trámite migratorio. No constituirá un antecedente negativo cuando la persona extranjera obtenga acuerdo de readmisión o cumpla con el período de restricción que se haya determinado, lo anterior con excepción del caso previsto en la fracción IV del artículo 244 de este Reglamento.
 
-### CAPÍTULO NOVENO. DE LAS SANCIONES
+### CAPÍTULO OCTAVO. DE LOS CRITERIOS PARA DETERMINAR LOS PERÍODOS DE RESTRICCIÓN DE INGRESO AL TERRITORIO NACIONAL
 
 ###### Artículo 244.
 
@@ -2756,6 +2922,8 @@ III. Cuando haya infringido leyes nacionales en materia penal o las disposicione
 IV. Cuando la persona extranjera, por sus antecedentes en los Estados Unidos Mexicanos o en el extranjero pudieran comprometer la seguridad nacional o la seguridad pública, la deportación será definitiva.
 
 Durante el período de restricción que la autoridad migratoria haya determinado en la resolución de deportación, la persona extranjera sólo podrá solicitar su internación al territorio nacional cuando exista un acuerdo de readmisión debidamente fundado y motivado que así lo autorice.
+
+### CAPÍTULO NOVENO. DE LAS SANCIONES
 
 ###### Artículo 245.
 
@@ -2842,3 +3010,17 @@ PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al
 SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
 
 TERCERO. La Secretaría de Gobernación deberá emitir las disposiciones administrativas de carácter general a que se refiere el presente Decreto, en un plazo no mayor a treinta días, contados a partir del día siguiente a la publicación del presente ordenamiento.
+
+D.O.F. 23 DE MAYO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Capítulo Primero del Título Tercero y el artículo 28-A del Reglamento de la Ley de Migración, entrarán en vigor hasta que se encuentren vigentes las disposiciones administrativas a que se refiere el presente Decreto.
+
+TERCERO. El Instituto emitirá las disposiciones administrativas a que se refiere el presente Decreto dentro de los doce meses siguientes a su entrada en vigor.
+
+CUARTO. Una vez que entren en vigor las disposiciones administrativas a que se refiere el Artículo Segundo Transitorio del presente Decreto, el Instituto iniciará la operación del Servicio Profesional de Carrera Migratoria de manera gradual, condicionado al estudio que realice sobre las características, particularidades, condiciones, requisitos y perfiles que conforman su estructura. El Servicio Profesional de Carrera Migratoria deberá operar en su totalidad en un período que no excederá de tres años a partir de la publicación del presente Decreto.
+
+QUINTO. A partir de un año, contado al inicio de la implementación del Servicio Profesional de Carrera Migratoria, los servidores públicos en activo que sean sujetos al Servicio Profesional de Carrera Migratoria, deberán acreditar el concurso respectivo y el proceso de certificación correspondiente, para pertenecer al Servicio Profesional de Carrera Migratoria, de lo contario, se procederá a la separación del cargo de conformidad con las disposiciones jurídicas aplicables.
+
+SEXTO. El Instituto realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados a dicho Instituto, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable, para el presente ejercicio fiscal.
