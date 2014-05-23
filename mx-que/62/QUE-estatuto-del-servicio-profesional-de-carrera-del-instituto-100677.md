@@ -4,7 +4,7 @@ identifier: "QUE-estatuto-del-servicio-profesional-de-carrera-del-instituto-1006
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-05-02"
-last_updated: "2014-05-02"
+last_updated: "2014-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO DE DEFENSORIA PUBLICA Y ASISTENCIA JURIDICA DEL ESTADO DE QUERETARO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE MAYO DE 2014 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA DEL ESTADO DE QUERÉTARO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE MAYO DE 2014.</small>
 
 Estatuto publicado en el Periódico Oficial del Estado de Querétaro, el viernes 2 de mayo de 2014.
 
@@ -59,11 +59,17 @@ V. Ley: la Ley de Defensoría Pública y Asistencia Jurídica del Estado de Quer
 
 VI. Poder Ejecutivo: el Poder Ejecutivo del Estado de Querétaro.
 
-VI (SIC). Principios rectores: los previstos como tales en el artículo 31 de la Ley.
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
 
-VII. Servicio profesional de carrera: el servicio profesional de carrera del Instituto.
+VII. Principios rectores: los previstos como tales en el artículo 31 de la Ley.
 
-VIII. Visitaduría: la Visitaduría del Instituto.
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+VIII. Servicio profesional de carrera: el servicio profesional de carrera del Instituto.
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+IX. Visitaduría: la Visitaduría del Instituto.
 
 ### Capítulo II. Reglas comunes para los servicios que presta el Instituto
 
@@ -147,9 +153,11 @@ Los integrantes de la cartera de reclutamiento estarán a disposición del Insti
 
 Se resolverá de la misma manera, la ocupación de plazas vacantes que se presenten por licencia o suspensión del defensor público o asesor jurídico, en cuyo caso los integrantes de cartera de reclutamiento que asigne el Director General, las podrán ocupar con el carácter de interinos o eventual, en tanto se reincorpora el titular de la plaza, o surja una plaza vacante definitiva en la cual pueda y decida el Instituto, en su caso, adscribirlos.
 
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 15.
 
-A los candidatos que hayan resultado triunfadores en los concursos de oposición a que se refiere el refiere (sic) el artículo 13 del presente Estatuto, se les entregará por el Director General, una constancia que los acredite como integrantes del servicio profesional de carrera, en su modalidad de cartera de reclutamiento. Dicha constancia no generará para su titular, derecho ni relación laboral o profesional alguna para con el Instituto, ni para con el Estado de Querétaro, tanto (sic) sólo brindará al Instituto, la potestad de llamar a tales profesionistas a cubrir las plazas de defensor público y de asesor jurídico, en los términos que establece el presente Estatuto.
+A los candidatos que hayan resultado triunfadores en los concursos de oposición a que se refiere el artículo 13 del presente Estatuto, se les entregará por el Director General, una constancia que los acredite como integrantes del servicio profesional de carrera, en su modalidad de cartera de reclutamiento. Dicha constancia no generará para su titular, derecho ni relación laboral o profesional alguna para con el Instituto, ni para con el Estado de Querétaro, tan sólo brindará al Instituto, la potestad de llamar a tales profesionistas a cubrir las plazas de defensor público y de asesor jurídico, en los términos que establece el presente Estatuto.
 
 ###### Artículo 16.
 
@@ -269,7 +277,9 @@ V. Fecha y lugar en que deba practicarse;
 
 VI. Periodo que durará la supervisión, y
 
-VI (SIC). Demás aspectos que fueren necesarios.
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+VII. Demás aspectos que fueren necesarios.
 
 ###### Artículo 30.
 
@@ -309,7 +319,9 @@ b) Oportunidad en los trámites legales que debe realizar el defensor público o
 
 c) Iniciativa y diligencia en la actuación del defensor público o asesor jurídico.
 
-d) Cumplimiento a las del presente Estatuto.
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+d) Cumplimiento a las disposiciones del presente Estatuto.
 
 e) Organización administrativa y condiciones de trabajo de la adscripción visitada;
 
@@ -329,21 +341,29 @@ El superior jerárquico del visitador debe verificar que el acta circunstanciada
 
 La evaluación es el conjunto de mecanismos, programas y procedimientos aprobados por el Consejo Directivo, que implementa de manera continua la Visitaduría, para calificar el desempeño de sus defensores públicos y asesores jurídicos, a efecto de constatar que las actuaciones que dichos servidores públicos realizan, satisfacen a favor de los usuarios y de la sociedad, tanto las condiciones de efectividad, eficacia y calidad del sistema de servicios que presta el Instituto, como los principios rectores aplicables al mismo.
 
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 34.
 
-En el componente procedimental se calificarán y evaluarán, con base en una (sic) porcentaje de cero a cien, los indicadores siguientes:
+En el componente procedimental se calificarán y evaluarán, con base en un porcentaje de cero a cien, los indicadores siguientes:
 
 I. Congruencia entre los hechos que motivan el asunto planteado y la estrategia de defensa del defensor público, la orientación y asesoría otorgadas o la estrategia de representación del asesor jurídico, mecanismos alternos de solución de controversias promovidos, acciones, excepciones y defensas hechas valer, y en función de ello, las pruebas aportadas, los incidentes, así como medios de impugnación ordinarios y extraordinarios promovidos, y demás actuaciones sustanciales efectuadas conducentes a la defensa adecuada de los intereses de sus patrocinados, con un valor hasta de 25 puntos;
 
 II. Iniciativa y diligencia demostrada por el servidor público al desempeñar sus funciones, así como la oportunidad de sus promociones y opiniones jurídicas, con un valor hasta de 25 puntos;
 
-III. Calidad jurídica en la actuación del servicio público, referente a su pertinencia, minuciosidad y sustancialidad, razonamiento técnico-jurídico, fundamentación y motivación en sus escritos, utilización de jurisprudencia, tratados internacionales o doctrina conducente, uso correcto del lenguaje jurídico y resultados obtenidos, con un valor hasta de 25 puntos; y,
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
 
-IV. Invocación de respeto a los derechos fundamentales del usuario, y cumplimiento a las demás aspectos previstos por este Estatuto, respecto de la actuación procesal, con un valor hasta de 25 puntos.
+III. Calidad jurídica en la actuación del servicio público, referente a su pertinencia, minuciosidad y sustancialidad, razonamiento técnico-jurídico, fundamentación y motivación en sus escritos, utilización de jurisprudencia, tratados internacionales o doctrina conducente, uso correcto del lenguaje jurídico y resultados obtenidos, con un valor hasta de 25 puntos, e
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+IV. Invocación de respeto a los derechos fundamentales del usuario, y cumplimiento a los demás aspectos previstos por este Estatuto, respecto de la actuación procesal, con un valor hasta de 25 puntos.
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
 
 ###### Artículo 35.
 
-En el componente administrativo se calificarán y evaluarán, con base en una (sic) porcentaje de cero a cien, los indicadores siguientes:
+En el componente administrativo se calificarán y evaluarán, con base en un porcentaje de cero a cien, los indicadores siguientes:
 
 I. Organización interna de la adscripción, con un valor hasta de 20 puntos;
 
@@ -369,19 +389,31 @@ IV. Características de la adscripción: son las circunstancias geográficas, me
 
 Las calificaciones concernientes a la evaluación del desempeño del defensor público y asesor jurídico, serán las siguientes:
 
-I. Excelente: obtener calificación de 95.0 a 10 puntos;
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+I. Excelente: obtener calificación de 95.0 a 100 puntos;
 
 II. Sobresaliente: obtener calificación de 90.0 a 94.9 puntos
 
-III. Bueno alto; obtener calificación de 85.0 a 89.9 puntos;
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
 
-IV. Bueno; obtener calificación de 80.0 a 84.9 puntos;
+III. Bueno alto: obtener calificación de 85.0 a 89.9 puntos;
 
-V. Regular alto.- obtener calificación de 75.0 a 79.9 puntos;
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
 
-VI. Regular.- obtener calificación de 70.0 a 74.9 puntos; y,
+IV. Bueno: obtener calificación de 80.0 a 84.9 puntos;
 
-VII. Deficiente.- obtener calificación de 69.9 puntos a 60.0 puntos
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+V. Regular alto: obtener calificación de 75.0 a 79.9 puntos;
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+VI. Regular: obtener calificación de 70.0 a 74.9 puntos; y,
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+VII. Deficiente: obtener calificación de 69.9 puntos a 60.0 puntos
 
 Para el cálculo de estas calificaciones, el resultado de la evaluación procedimental representa un 70 por ciento y el de la evaluación administrativa un 30 por ciento.
 
@@ -399,7 +431,9 @@ Cuando la puntuación obtenida por un defensor o asesor, en dos evaluaciones con
 
 Es obligación del servidor público evaluado, informar por escrito a la Visitaduría, con copia al Director General, el avance en el cumplimiento de los requerimientos, medidas correctivas y sugerencias que se le hayan establecido con motivo de la evaluación, en el plazo de sesenta días naturales contados a partir del día siguiente al en que se le notifiquen.
 
-La Visitaduría designará personal para constatar el informe del evaluado, y en caso de incumplimiento, se hará requerimiento por escrito a dicho servidor público, con copia a su expediente personal; de continuar sin atender lo solicitado se informar (sic) al Director General para los efectos legales que procedan.
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+La Visitaduría designará personal para constatar el informe del evaluado, y en caso de incumplimiento, se hará requerimiento por escrito a dicho servidor público, con copia a su expediente personal; de continuar sin atender lo solicitado se informará al Director General para los efectos legales que procedan.
 
 ###### Artículo 40.
 
@@ -515,9 +549,11 @@ También serán responsables de la información electrónica que, en su caso se 
 
 ### Capítulo XI. De los estímulos
 
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
 ###### Artículo 50.
 
-En el servicio profesional de carrera, los estímulos para los servidores públicos del Instituto, se sujetarán a lo dispuesto por el Plan Anual (sic) Estímulos, mismo que el Director General deberá proponer para su aprobación al Consejo Directivo del Instituto, a más tardar el último día hábil del mes de marzo de cada año.
+En el servicio profesional de carrera, los estímulos para los servidores públicos del Instituto, se sujetarán a lo dispuesto por el Plan Anual de Estímulos, mismo que el Director General deberá proponer para su aprobación al Consejo Directivo del Instituto, a más tardar el último día hábil del mes de marzo de cada año.
 
 ### Capítulo XII. De los servicios auxiliares
 
@@ -525,7 +561,9 @@ En el servicio profesional de carrera, los estímulos para los servidores públi
 
 Los servicios a que se refieren los artículos 29 y 42 de la Ley, podrán ser prestados por abogados, peritos o instituciones particulares, según corresponda, de reconocida experiencia y solvencia, ya sea pro bono o de manera honorífica, al tenor del convenio que al efecto previamente se celebre con el Instituto y bajo la supervisión de éste, así como gozar de los beneficios fiscales conducentes cuando se surtan los supuestos que establece el artículo 46 de dicho ordenamiento.
 
-### Capítulo XIV (SIC). Del servicio social
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+### Capítulo XIII. Del servicio social
 
 ###### Artículo 52.
 
@@ -541,7 +579,9 @@ I. Presentar solicitud por escrito en la que se expresen los motivos por los cua
 
 II. Exhibir documentos que acrediten la autorización de la institución educativa, para la prestación del servicio social en el Instituto;
 
-III. Prestar el servicio social por el término de seis meses ininterrumpidamente, salvo periodos vacacionales; y,
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+III. Prestar el servicio social por el término de seis meses ininterrumpidamente, salvo periodos vacacionales, y
 
 IV. Cumplir con el programa de servicio social para el cual se registró.
 
@@ -549,13 +589,17 @@ IV. Cumplir con el programa de servicio social para el cual se registró.
 
 Las funciones que realice el prestador de servicio social, tendrán el carácter de auxiliares, y en ningún caso podrán intervenir en las funciones sustantivas, ni orientar a las personas que reciben los servicios del Instituto, ya que dichas funciones son responsabilidad exclusiva del defensor público o asesor jurídico.
 
-## TRANSITORIOS
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+## Transitorios
 
 Artículo Primero. El presente Estatuto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan al presente Estatuto.
 
-Artículo Tercero. A más tardar el día 26 de mayo del 2014, el Secretario de Gobierno del Poder Ejecutivo, a propuesta del Director Jurídico y Consultivo de dicha Secretaría y éste con auxilio del Jefe de Departamento de Defensoría Pública, hará la designación de quienes deban cubrir las plazas de defensores públicos que habrán de operar el Sistema de Justicia Penal Acusatorio a que se refiere el inciso a) del Artículo Tercero del Decreto por el que la Legislatura del Estado Declara que la Legislación Loca (sic) ha Quedado Incorporado el Sistema Procesal Penal Acusatorio y Declara el Inicio de Vigencia del Código acional (sic) de Procedimientos Penales.
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+Artículo Tercero. A más tardar el día 26 de mayo del 2014, el Secretario de Gobierno del Poder Ejecutivo, a propuesta del Director Jurídico y Consultivo de dicha Secretaría y éste con auxilio del Jefe de Departamento de Defensoría Pública, hará la designación de quienes deban cubrir las plazas de defensores públicos que habrán de operar el Sistema de Justicia Penal Acusatorio a que se refiere el inciso a) del Artículo Tercero del Decreto por el que la Legislatura del Estado Declara que en la Legislación Local ha Quedado Incorporado el Sistema Procesal Penal Acusatorio y Declara el Inicio de Vigencia del Código Nacional de Procedimientos Penales.
 
 En tal virtud, deberá considerarse la capacitación, el desempeño, perfil y experiencia profesional demostrados con que cuenten como defensores públicos, aquellos servidores públicos que hayan de nombrarse como tales, así como, en su caso, los demás elementos que considere pertinentes el Secretario de Gobierno. Los nombramientos efectuados por éste último, podrán tener el carácter de definitivos o interinos.
 
@@ -563,7 +607,9 @@ Artículo Cuarto. Antes que finalice la primera semana de septiembre del 2014, t
 
 Quedan exceptuados de esta disposición el personal que desempeña funciones administrativas.
 
-Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la ciudad de Santiago de Querétaro, Qro., el día uno del mes de mayo del año dos mil catorce; para su publicación y observancia.
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2014)</small>
+
+Dado en el Palacio de La Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la ciudad de Santiago de Querétaro, Qro., el día uno del mes de mayo del año dos mil catorce; para su publicación y observancia.
 
 Lic. José Eduardo Calzada Rovirosa
 
