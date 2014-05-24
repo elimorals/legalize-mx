@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2014-05-13"
+last_updated: "2014-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -119,11 +119,11 @@ En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, l
 
 La educación que el Gobierno del Estado imparta será laica y por tanto se mantendrá por completo ajena a cualquier doctrina religiosa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 9º.
 
-La educación que el Gobierno del Estado y los municipios impartan; los organismos descentralizados y los particulares con autorización reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el párrafo segundo del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
+La educación que el Gobierno del Estado y los municipios impartan; los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en los párrafos segundo y tercero del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
@@ -195,11 +195,11 @@ XIX.- Difundir los derechos y deberes de niños, niñas y adolescentes, así com
 
 XX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad, o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 10.
 
-La educación -preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica- que impartan el Gobierno del Estado, municipios, organismos descentralizados, órganos desconcentrados y los particulares con autorización o reconocimiento de validez oficial de estudios, estará orientada por un criterio que se basará en los resultados del progreso científico, luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo instrumentar políticas públicas orientadas a la transversalidad de criterios en los órdenes de gobierno estatal y municipal; además:
+La educación -preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica- que impartan el Gobierno del Estado, municipios, organismos descentralizados, órganos desconcentrados y los particulares con autorización o reconocimiento de validez oficial de estudios, estará orientada por un criterio que se basará en los resultados del progreso científico, luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación, el acoso escolar, y la violencia, especialmente la que se ejerce contra las mujeres, niñas, niños, debiendo instrumentar políticas públicas orientadas a la transversalidad de criterios en los órdenes de gobierno estatal y municipal; además:
 
 I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
@@ -379,11 +379,13 @@ III.- Prestar los servicios de educación inicial y básica, incluyendo la indí
 
 IV.- Aplicar los planes y programas de estudios oficiales en las escuelas de educación básica, normal y demás para la formación de maestros de educación básica;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
 
-V.- Proponer a la Secretaría de Educación Pública de la Administración Pública Federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+V.- Proponer a la Secretaría de Educación Pública de la Administración Pública Federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación, preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica;
 
-VI.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo en las escuelas oficiales, particulares incorporadas de educación primaria, secundaria, normal y demás para la formación de maestros, de acuerdo con las necesidades del servicio educativo en la entidad, con respeto a lo establecido por la Secretaría de Educación de la Administración Pública Federal;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+
+VI.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo en las escuelas oficiales, particulares incorporadas de educación primaria, secundaria, media superior, normal y demás para la formación de maestros, de acuerdo con las necesidades del servicio educativo en la entidad, con respeto a lo establecido por la Secretaría de Educación de la Administración Pública Federal;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -391,17 +393,17 @@ VII.- Prestar los servicios de formación, actualización, capacitación y super
 
 VIII.- Expedir los certificados y otorgar las constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
 
-IX.- Revalidar y otorgar equivalencias de estudios de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación de la Administración Pública Federal expida;
+IX.- Revalidar y otorgar equivalencias de estudios de educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación de la Administración Pública Federal expida;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 X.- Concertar acciones y establecer convenios con instituciones de educación superior, para que sus egresados presten servicio social en escuelas de las comunidades rurales, zonas urbanas marginadas y regiones habitadas por las comunidades indígenas de la Entidad;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
 
-XI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+XI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -847,11 +849,11 @@ Los planes y programas de estudio de la Universidad Pedagógica Nacional, serán
 
 Los planes y programas de estudio destinados a la capacitación para el trabajo, se establecerán por el Gobierno del Estado a través de su Secretaría de Educación de acuerdo a la normatividad correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 46.
 
-Los planes y programas de estudio, aplicables y obligatorios en el Estado, de educación preescolar, primaria, secundaria, educación normal y demás para la formación de maestros de educación básica, así como sus modificaciones, deberán publicarse oportunamente en el Periódico Oficial del Estado y, previa su aplicación, se deberá capacitar a los maestros respecto de su contenido y métodos.
+Los planes y programas de estudio aplicables y obligatorios en el Estado, de educación, preescolar, primaria, secundaria, media superior, normal, y demás para la formación de maestros de educación básica, así como sus modificaciones, deberán publicarse oportunamente en el Periódico Oficial del Estado y, previa su aplicación, se deberá capacitar a los maestros respecto de su contenido y métodos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2196,6 +2198,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 13 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
