@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-academias-del-colegio-de-estudios-cientificos-839
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-09"
-last_updated: "2014-04-09"
+last_updated: "2014-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "NAY"
 ---
 # REGLAMENTO DE ACADEMIAS DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2014 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE ACADEMIAS DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NAYARIT
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO 1 Y 2 DEL REGLAMENTO DE ACADEMIAS DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NAYARIT (CECYTEN), PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014 (ABROGADO).
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 24 DE MAYO DE 2014.</small>
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 9 de noviembre de 2011.
 
@@ -593,7 +593,9 @@ LIC. JOSÉ SILVERIO LÓPEZ CUEVAS, Suplente del Presidente de la H. Junta Direct
 
 P.O. 9 DE ABRIL DE 2014.
 
-1. Se abroga el Reglamento de Academias, expedido el 1º de diciembre de 2001 (sic).
+> <small>(F. DE E., P.O. 24 DE MAYO DE 2014)</small>
+
+1. Se abroga el Reglamento de Academias, expedido el 09 de noviembre de 2011 dos mil once.
 
 2. El presente Reglamento entrará en vigor a partir de (sic) día siguiente de su autorización por la H. Junta Directiva del CECyTEN.
 
