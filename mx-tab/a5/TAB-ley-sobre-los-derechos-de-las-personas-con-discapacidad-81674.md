@@ -4,7 +4,7 @@ identifier: "TAB-ley-sobre-los-derechos-de-las-personas-con-discapacidad-81674"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-01"
-last_updated: "2011-06-01"
+last_updated: "2014-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2014.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 1 de junio de 2001.
 
@@ -121,37 +121,43 @@ XXIX. Transversalidad: Es el proceso mediante el cual se instrumentan las polít
 
 XXX. Vía pública: Los espacios terrestres de uso común, destinados al tránsito de peatones y vehículos de fuerza motriz, propulsión humana o tracción animal.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
-La aplicación de esta Ley, será conforme a los siguientes principios:
+La aplicación y cumplimiento de esta Ley se realizará por los sujetos obligados, invariablemente, conforme a los siguientes principios:
 
-I. Respeto por la diferencia;
+I. La justicia social y la solidaridad;
 
-II. Respeto a la dignidad y a la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de las personas con discapacidad;
+II. El respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas;
 
-III. Respeto y disfrute del derecho a la vida de las personas con discapacidad;
+III. El respeto a la dignidad y a la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de la (sic) las personas con discapacidad;
 
-IV. Progresividad en la defensa de los derechos económicos, sociales y culturales de las personas con discapacidad;
+IV. El respeto y disfrute del derecho a la vida de las personas con discapacidad;
 
-V. Educación inclusiva;
+V. La progresividad en la defensa de los derechos económicos, sociales y culturales de las personas con discapacidad;
 
-VI. Igualdad de oportunidades;
+VI. La participación e inclusión plenas y efectivas en la sociedad;
 
-VII. Igualdad entre el hombre y la mujer;
+VII. La igualdad de oportunidades;
 
-VIII. Respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad;
+VIII. La igualdad entre el hombre y la mujer;
 
-IX. De equidad;
+IX. El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad;
 
-X. De no discriminación;
+X. La no discriminación;
 
-XI. De la transversalidad; y
+XI. La transversalidad;
 
-XII. Los demás que resulten aplicables.
+XII. La accesibilidad; y
+
+XIII. Los demás que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 5.
 
-Son acciones prioritarias para el desarrollo de las personas con discapacidad, las siguientes:
+Son acciones prioritarias para el bienestar y el desarrollo de las personas con discapacidad, las siguientes:
 
 I. Acciones de Prevención;
 
@@ -169,11 +175,15 @@ VII. Las acciones necesarias para garantizar la accesibilidad y su inclusión pl
 
 VIII. Instrumentar acciones que conlleven a la obtención de recursos para su desarrollo integral; e
 
-IX. Impulsar programas para fortalecer la atención integral de las personas con discapacidad que no les permita integrarse a las actividades productivas en ninguna etapa de su vida.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+
+IX. Impulsar programas para fortalecer la atención integral de las personas cuya discapacidad no les permita valerse por sí mismas ni integrarse a las actividades productivas en ninguna etapa de su vida, así como otorgarles apoyos económicos para coadyuvar a su subsistencia.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 6.
 
-La familia tiene una labor esencial para el logro de las acciones y objetivos establecidos en esta Ley. El Estado de acuerdo a su capacidad presupuestal y de recursos humanos, ofrecerá a la familia capacitación integral en los aspectos educativo, deportivo, de salud y de incorporación laboral, para atender la presencia de alguna discapacidad en uno o varios miembros de la familia.
+La familia tiene una labor esencial para el logro de las acciones y objetivos establecidos en esta Ley. El Estado, de acuerdo a su capacidad presupuestal y de recursos humanos, ofrecerá apoyos económicos a las personas cuya discapacidad no les permita valerse por sí mismas; y a sus familias capacitación integral en los aspectos educativo, deportivo, de salud y de incorporación laboral, para atender la presencia de alguna discapacidad en uno o varios miembros de la familia.
 
 ###### ARTÍCULO 7.
 
@@ -239,11 +249,17 @@ El Consejo estará integrado por:
 
 I. Un Presidente, que será el Gobernador del Estado Libre y Soberano de Tabasco o el servidor público que éste designe;
 
-II. Un Secretario Ejecutivo, que será el titular de la Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
 
-III. Un Secretario Técnico, que será el titular de la Secretaría de Salud;
+II. Un Secretario Ejecutivo, que será el titular de la Secretaría de Desarrollo Social;
 
-IV. Los titulares de las Secretarías de Educación, Asentamientos y Obras Públicas, Comunicaciones y Transportes, Planeación y Desarrollo Social, Seguridad Pública, Turismo, Procuraduría General de Justicia, Instituto Estatal de Cultura, Instituto de la Juventud y del Deporte y del Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+
+III. Un Secretario Técnico, designado por el Secretario Ejecutivo de entre el personal de la Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+
+IV. Los titulares de las Secretarías de Educación, de Salud, de Ordenamiento Territorial y Obras Públicas, de Comunicaciones y Transportes, de Desarrollo Económico y Turismo, de Planeación y Finanzas, y de Seguridad Pública; del Instituto Estatal de Cultura, del Instituto de la Juventud, del Instituto del Deporte y del Sistema Estatal para el Desarrollo Integral de la Familia;
 
 V. Un representante de la Comisión Estatal de Derechos Humanos;
 
@@ -401,9 +417,11 @@ IX. Promover que en los diferentes sectores se destinen áreas adecuadas a las n
 
 X. Las demás que resulten de la aplicación de la presente Ley, y los ordenamientos legales aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
-La Secretaría de Educación en coordinación con la Secretaría de Planeación y Desarrollo Social, fomentará diversas actividades que permitan un desarrollo integral a las personas con algún tipo de discapacidad ante la familia, escuela, trabajo, así como en la recreación.
+La Secretaría de Educación en coordinación con la Secretaría de Desarrollo Social, fomentará diversas actividades que permitan un desarrollo integral a las personas con algún tipo de discapacidad ante la familia, escuela, trabajo, así como en la recreación.
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE SALUD
 
@@ -437,9 +455,11 @@ XII. Las demás que le encomiende el Ejecutivo del Estado.
 
 ### CAPÍTULO III. DEL DIF
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 27.
 
-Corresponde al DIF el ejercicio de las siguientes atribuciones:
+Corresponde al DIF, además de las que señala la Ley del Sistema Estatal de Asistencia Social, el ejercicio de las siguientes atribuciones:
 
 I. Difundir los programas que contribuyan al desarrollo integral de las personas con discapacidad en el Estado de Tabasco;
 
@@ -519,9 +539,11 @@ Las bases y modalidades del ejercicio coordinado de las atribuciones del Ejecuti
 
 ### CAPÍTULO ÚNICO. DEL PROGRAMA ESTATAL PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 32.
 
-El Programa para el Desarrollo e Inclusión de las Personas con Discapacidad, se conformará con los subprogramas que elaboren tanto la Secretaría de Desarrollo Económico en su calidad de Secretario Ejecutivo, la Secretaría de Salud y la Secretaría de Planeación y Desarrollo Social.
+El Programa para el Desarrollo e Inclusión de las Personas con Discapacidad, se conformará con los subprogramas que elaboren tanto la Secretaría de Desarrollo Social en su calidad de Secretariado Ejecutivo, como la Secretaría de Salud y la Secretaría de Desarrollo Económico y Turismo.
 
 ###### ARTÍCULO 33.
 
@@ -603,9 +625,11 @@ IX. Otros bienes y servicios análogos, de conformidad con la legislación aplic
 
 ### CAPÍTULO III. DE LA HABILITACIÓN Y REHABILITACIÓN MÉDICO-FUNCIONAL
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 41.
 
-La habilitación y rehabilitación médico-funcional a cargo de la Secretaría de Salud, estará dirigida a dotar de acuerdo a su capacidad presupuestal, las condiciones precisas a las personas con discapacidad, la cual deberá comenzar con la detección y diagnóstico de la misma y continuar hasta conseguir el máximo beneficio de funcionalidad.
+La habilitación y rehabilitación médico-funcional a cargo de la Secretaría de Salud y del DIF, estará dirigida a dotar de acuerdo a su capacidad presupuestal, las condiciones precisas a las personas con discapacidad, la cual deberá comenzar con la detección y diagnóstico de la misma y continuar hasta conseguir el máximo beneficio de funcionalidad.
 
 ###### ARTÍCULO 42.
 
@@ -627,9 +651,11 @@ La orientación y tratamiento psicológico de las personas con discapacidad, ten
 
 ### CAPÍTULO I
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 46.
 
-El Ejecutivo del Estado a través de la Secretaría de Desarrollo Económico organizará, intensificará y ampliará servicios y programas generales para los procesos de habilitación y rehabilitación socioeconómica y laboral o profesional, comprendiendo entre otros, los siguientes:
+El Ejecutivo del Estado a través de la Secretaría de Desarrollo Social organizará, intensificará y ampliará servicios y programas generales para los procesos de habilitación y rehabilitación socioeconómica y laboral o profesional, comprendiendo entre otros, los siguientes:
 
 I. Los tratamientos de habilitación y rehabilitación médico-funcional, específicos para el desempeño de la función laboral;
 
@@ -651,9 +677,11 @@ La formación para el trabajo procurará la adquisición de conocimientos, habil
 
 ### CAPÍTULO II. DE LOS EQUIPOS MULTIPROFESIONALES
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 49.
 
-Corresponde al Ejecutivo del Estado a través de la Secretaría de Desarrollo Económico, impulsar y promover entre las instituciones públicas y privadas, así como entre la propia comunidad, la creación de unidades de habilitación y rehabilitación socioeconómica y laboral con equipos multiprofesionales, que actuando en un ámbito sectorial del Estado presten la atención a las personas con discapacidad para garantizar su inclusión al entorno socioeconómico. El personal que integre los equipos multiprofesionales, deberá contar con la formación profesional y la capacidad necesaria para cumplir con la función encomendada.
+Corresponde al Ejecutivo del Estado a través de las Secretarías de Desarrollo Social y de Desarrollo Económico y Turismo, impulsar y promover entre las instituciones públicas y privadas, así como entre la propia comunidad, la creación de unidades de habilitación y rehabilitación socioeconómica y laboral con equipos multiprofesionales, que actuando en un ámbito sectorial del Estado presten la atención a las personas con discapacidad para garantizar su inclusión al entorno socioeconómico. El personal que integre los equipos multiprofesionales deberá contar con la formación profesional y la capacidad necesaria para cumplir con la función encomendada.
 
 ###### ARTÍCULO 50.
 
@@ -771,9 +799,11 @@ La finalidad primordial de la política de trabajo y capacitación de las person
 
 Los poderes del Estado y los ayuntamientos deberán contratar por lo menos el dos por ciento de personas con discapacidad del total de los trabajadores al servicio que realicen la misma labor profesional, técnica o manual que cualquier otro, atendiendo al principio de progresividad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 65.
 
-El Ejecutivo del Estado a través de la Secretaría de Desarrollo Económico establecerá entre otras, las siguientes medidas:
+El Ejecutivo del Estado a través de la Secretaría de Desarrollo Económico y Turismo establecerá entre otras, las siguientes medidas:
 
 I. Diseñar, ejecutar, evaluar y promover el establecimiento de políticas públicas en materia de trabajo encaminadas a la inclusión laboral de las personas con discapacidad; en ningún caso la discapacidad será motivo de discriminación para el otorgamiento de un empleo;
 
@@ -795,13 +825,17 @@ IX. Salvaguardar el ejercicio de los derechos laborales de las personas con disc
 
 X. Las demás que el Ejecutivo del Estado determine.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 66.
 
-El Consejo, en coordinación con la Secretaría de Desarrollo Económico, coadyuvará al fomento y desarrollo de programas de trabajo y capacitación de las personas con discapacidad, mediante el establecimiento de sistemas que faciliten su inclusión laboral; éstos podrán consistir en el cumplimiento de la presente Ley para los ajustes razonables de los centros de trabajo, la eliminación de barreras arquitectónicas que dificulten su movilidad en centros de producción y la posibilidad de establecerse como trabajadores autónomos.
+El Consejo, en coordinación con la Secretaría de Desarrollo Económico y Turismo, coadyuvará al fomento y desarrollo de programas de trabajo y capacitación de las personas con discapacidad, mediante el establecimiento de sistemas que faciliten su inclusión laboral; éstos podrán consistir en el cumplimiento de la presente Ley para los ajustes razonables de los centros de trabajo, la eliminación de barreras arquitectónicas que dificulten su movilidad en centros de producción y la posibilidad de establecerse como trabajadores autónomos.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 67.
 
-La Secretaría de Desarrollo Económico incluirá a las personas con discapacidad, que lo soliciten, en programas de promoción del trabajo.
+La Secretaría de Desarrollo Económico y Turismo incluirá a las personas con discapacidad, que lo soliciten, en programas de promoción del trabajo.
 
 ###### ARTÍCULO 68.
 
@@ -829,9 +863,11 @@ Las empresas, industrias, comercios y establecimientos en general cuyo capital s
 
 ### CAPÍTULO I. DE LAS ACTIVIDADES DEPORTIVAS, CULTURALES, RECREATIVAS Y TURÍSTICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 73.
 
-El Ejecutivo del Estado, a través del Instituto de la Juventud y el Deporte, y los ayuntamientos en el ámbito de sus competencias, formularán y desarrollarán políticas públicas, programas y acciones para la inclusión de las personas con discapacidad a la práctica deportiva, mediante facilidades administrativas y las ayudas técnicas, humanas y financieras necesarias, así como para acceder y disfrutar de la cultura, el esparcimiento, la recreación y el deporte.
+El Ejecutivo del Estado, a través del Instituto de la Juventud y del Instituto del Deporte, y los ayuntamientos en el ámbito de sus competencias, formularán y desarrollarán políticas públicas, programas y acciones para la inclusión de las personas con discapacidad a la práctica deportiva, mediante facilidades administrativas y las ayudas técnicas, humanas y financieras necesarias, así como para acceder y disfrutar de la cultura, el esparcimiento, la recreación y el deporte.
 
 Se otorgarán becas para deportistas con discapacidad, con el fin de apoyar su preparación, desarrollo y participación estatal, nacional e internacional, incluyendo nuevos valores y prospectos, de conformidad con las disposiciones legales aplicables.
 
@@ -855,9 +891,11 @@ V. Establecer condiciones de inclusión de las personas con discapacidad para lo
 
 VI. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 75.
 
-La Secretaría de Turismo y los ayuntamientos en el ámbito de sus competencias, promoverán el derecho de las personas con discapacidad para que se les brinde preferencia y accesibilidad para el fácil desplazamiento a los servicios turísticos, recreativos o de esparcimiento.
+La Secretaría de Desarrollo Económico y Turismo y los ayuntamientos en el ámbito de sus competencias, promoverán el derecho de las personas con discapacidad para que se les brinde preferencia y accesibilidad para el fácil desplazamiento a los servicios turísticos, recreativos o de esparcimiento.
 
 ###### ARTÍCULO 76.
 
@@ -955,23 +993,33 @@ La Secretaría de Seguridad Pública a través de la Dirección General de la Po
 
 ## TÍTULO XII. DE LA OBRA PÚBLICA
 
-### CAPÍTULO I. DE LA SECRETARÍA DE ASENTAMIENTOS Y OBRAS PÚBLICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2014)</small>
+
+### CAPÍTULO I. DE LA SECRETARÍA DE ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 95.
 
-La Secretaría de Asentamientos y Obras Públicas vigilará que se cumplan las especificaciones que señala el presente ordenamiento en materia de obra pública, para el libre desplazamiento de las personas con discapacidad, así como instrumentar las normas para que las nuevas construcciones que realice el sector público, con fines de uso comunitario, ya sea de servicios administrativos, recreativos o de cualquier otra naturaleza, cuenten con accesibilidad en los términos de la presente Ley.
+La Secretaría de Ordenamiento Territorial y Obras Públicas vigilará que se cumplan las especificaciones que señala el presente ordenamiento en materia de obra pública para el libre desplazamiento de las personas con discapacidad, así como instrumentar las normas para que las nuevas construcciones que realice el sector público, con fines de uso comunitario, ya sea de servicios administrativos, recreativos o de cualquier otra naturaleza, cuenten con accesibilidad en los términos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 96.
 
-La Secretaría de Asentamientos y Obras Públicas coadyuvará con las autoridades federales, estatales y municipales que así lo soliciten en el ámbito de su competencia, en las acciones que emprendan tendientes a la eliminación de todo tipo de obstáculos viales para el acceso o uso en los diversos espacios urbanos en la Entidad, tales como los existentes en la vía pública.
+La Secretaría de Ordenamiento Territorial y Obras Públicas coadyuvará con las autoridades federales, estatales y municipales que así lo soliciten en el ámbito de su competencia, en las acciones que emprendan tendientes a la eliminación de todo tipo de obstáculos viales para el acceso o uso en los diversos espacios urbanos en la entidad, tales como los existentes en la vía pública.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 97.
 
-La Secretaría de Asentamientos y Obras Públicas y los ayuntamientos en el ámbito de sus respectivas competencias, en todos los planos y proyectos arquitectónicos de edificios públicos y privados con acceso al público que se sometan a su aprobación, deberán observar que en ellos se establezca la infraestructura que permita la accesibilidad de las personas con discapacidad en interiores y exteriores.
+La Secretaría de Ordenamiento Territorial y Obras Públicas y los ayuntamientos en el ámbito de sus respectivas competencias, en todos los planos y proyectos arquitectónicos de edificios públicos y privados con acceso al público que se sometan a su aprobación, deberán observar que en ellos se establezca la infraestructura que permita la accesibilidad de las personas con discapacidad en interiores y exteriores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 98.
 
-Para los efectos del artículo anterior, la Secretaría de Asentamientos y Obras Públicas y los ayuntamientos en el ámbito de sus respectivas competencias, establecerán las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y privados de:
+Para los efectos del artículo anterior, la Secretaría de Ordenamiento Territorial y Obras Públicas y los ayuntamientos en el ámbito de sus respectivas competencias, establecerán las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y privados de:
 
 I. Urbanización, fraccionamiento y construcción que se sometan a su aprobación; y
 
@@ -979,9 +1027,11 @@ II. Ampliaciones, reparaciones y modificaciones de edificios existentes.
 
 ### CAPÍTULO II. DE LOS OBSTÁCULOS VIALES EN GENERAL
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 99.
 
-La Secretaría de Asentamientos y Obras Públicas y los ayuntamientos en el ámbito de sus respectivas competencias se abstendrán de autorizar la construcción de todas aquellas barreras arquitectónicas que impliquen un obstáculo vial, arriesgando o poniendo en peligro la integridad física de las personas con discapacidad, así como las que dificulten, entorpezcan o impidan su accesibilidad en lugares públicos, interiores o exteriores, o el uso de las instalaciones y servicios comunitarios.
+La Secretaría de Ordenamiento Territorial y Obras Públicas y los ayuntamientos en el ámbito de sus respectivas competencias se abstendrán de autorizar la construcción de todas aquellas barreras arquitectónicas que impliquen un obstáculo vial, arriesgando o poniendo en peligro la integridad física de las personas con discapacidad, así como las que dificulten, entorpezcan o impidan su accesibilidad en lugares públicos, interiores o exteriores, o el uso de las instalaciones y servicios comunitarios.
 
 ###### ARTÍCULO 100.
 
@@ -1035,9 +1085,11 @@ VIII. Sanitarios, elevadores, teléfonos públicos y cualquiera otra estructura 
 
 ### CAPÍTULO III. DE LAS MEDIDAS, FACILIDADES URBANÍSTICAS Y ARQUITECTÓNICAS
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 102.
 
-La Secretaría de Asentamientos y Obras Públicas y los ayuntamientos en el ámbito de sus respectivas competencias, procurarán la accesibilidad de las personas con discapacidad en las aceras, esquinas, intersecciones o cruces de calles que se encuentren construidas a distintos niveles, previendo las facilidades urbanísticas y arquitectónicas adecuadas para su fácil desplazamiento de manera independiente, con un máximo de seguridad.
+La Secretaría de Ordenamiento Territorial y Obras Públicas y los ayuntamientos en el ámbito de sus respectivas competencias, procurarán la accesibilidad de las personas con discapacidad en las aceras, esquinas, intersecciones o cruces de calles que se encuentren construidas a distintos niveles, previendo las facilidades urbanísticas y arquitectónicas adecuadas para su fácil desplazamiento de manera independiente, con un máximo de seguridad.
 
 ###### ARTÍCULO 103.
 
@@ -1227,7 +1279,7 @@ III. Autobuses; y
 
 IV. Botes, barcos, lanchas o cualquier medio de transporte marítimo.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. DE LOS ESTÍMULOS
 
 ###### ARTÍCULO 133.
 
@@ -1239,9 +1291,15 @@ Las personas con discapacidad acompañadas de perros de asistencia deberán llev
 
 El dueño de un perro de asistencia será civilmente responsable por los daños frente a terceros causados por el perro. Los daños incluyen aquellos ocurridos en bienes muebles e inmuebles.
 
-## TÍTULO XVI. DE LOS ESTÍMULOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2014)</small>
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+## TÍTULO XVI. DE LOS ESTÍMULOS Y APOYOS ECONÓMICOS
+
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 24 DE MAYO DE 2014)</small>
+
+### CAPÍTULO II. DE LOS APOYOS ECONÓMICOS
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 135.
 
@@ -1255,11 +1313,43 @@ El Ejecutivo del Estado otorgará estímulos y reconocimientos a las personas co
 
 El Ejecutivo del Estado y los ayuntamientos en el ámbito de su competencia, otorgarán estímulos fiscales a las empresas, industrias, comercios y establecimientos en general cuyo capital sea privado, de acuerdo al número de empleados con discapacidad que contraten, atendiendo al principio de progresividad y en términos de la legislación aplicable.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2014)</small>
+
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+
+###### ARTÍCULO 137-A.
+
+Las personas con discapacidad permanente que les impida valerse por sí mismas tienen derecho a recibir un apoyo económico mensual, determinado cada ejercicio fiscal de conformidad con las disponibilidades presupuéstales del Gobierno del Estado.
+
+El apoyo económico a que se refiere este artículo será entregado a los beneficiarios en forma mensual mediante las instituciones, mecanismos y reglas de operación que se establezcan en el programa respectivo.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 137-B.
+
+Los requisitos para tener derecho al apoyo económico referido en el artículo anterior son:
+
+I. Acreditar su discapacidad con documento expedido por la Secretaría de Salud;
+
+II. Hallarse en situación de pobreza, de conformidad con los indicadores utilizados para la medición de la misma; y
+
+III. Residir de forma permanente en el Estado de Tabasco con cuando menos un año de antigüedad.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 137-C.
+
+La Secretaría de Desarrollo Social elaborará y mantendrá actualizado el Padrón de beneficiarios del programa respectivo, que será publicado de conformidad con las normas y reglas en materia de transparencia y acceso a la información pública.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 137-D.
+
+El Titular del Poder Ejecutivo y el Congreso del Estado, en el ámbito de sus respectivas competencias, garantizarán que en el Presupuesto General de Egresos de cada ejercicio fiscal se establezcan las partidas correspondientes para hacer efectivo el derecho de las personas con discapacidad, a que se refiere este Capítulo.
 
 ## TÍTULO XVII. DE LA VIGILANCIA
 
-### CAPÍTULO III. DEL RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTÍCULO 138.
 
@@ -1339,7 +1429,7 @@ Cuando la denuncia sea presentada ante una autoridad incompetente, ésta la remi
 
 En contra de las sanciones impuestas en términos de esta Ley, el particular afectado podrá optar por promover el recurso administrativo ante la autoridad competente.
 
-### CAPÍTULO IV. DEL PROCEDIMIENTO
+### CAPÍTULO III. DEL RECURSO DE RECONSIDERACIÓN
 
 ###### ARTÍCULO 149.
 
@@ -1353,9 +1443,13 @@ III. Transcurrido el término antes señalado, si el presunto infractor hubiese 
 
 IV. Concluido el período probatorio o vencido el término de la fracción I de este artículo, en el supuesto de que el presunto infractor no comparezca o no ofrezca pruebas, la autoridad emitirá resolución, en un término no mayor de diez días hábiles, contados a partir del siguiente al término de su comparecencia, determinando si ha lugar o no a la aplicación de la sanción.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 150.
 
-El cobro de las multas que imponga la Dirección de Obras y Servicios Municipales, corresponderá a la Dirección de Finanzas del respectivo ayuntamiento, y las que impongan las autoridades dependientes del Ejecutivo del Estado corresponderá a la Secretaría de Administración y Finanzas, quienes para ello harán uso del procedimiento económico coactivo, previsto en la legislación fiscal que resulte aplicable.
+El cobro de las multas que imponga la Dirección de Obras y Servicios Municipales corresponderá a la Dirección de Finanzas del respectivo ayuntamiento, y las que impongan las autoridades dependientes del Ejecutivo del Estado corresponderá a la Secretaría de Planeación y Finanzas, quienes para ello harán uso del procedimiento económico coactivo, previsto en la legislación fiscal que resulte aplicable.
+
+### CAPÍTULO IV. DEL PROCEDIMIENTO
 
 ###### ARTÍCULO 151.
 
@@ -1472,3 +1566,9 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
