@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-referendum-y-plebiscito-del-estado-de-san-luis-potosi-61
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2011-10-15"
+last_updated: "2014-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE REFERENDUM Y PLEBISCITO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE REFERENDUM Y PLEBISCITO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE REFERÉNDUM Y PLEBISCITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -55,11 +55,17 @@ No podrán promover procesos de referéndum o plebiscito, ni votar en los mismos
 
 Sin perjuicio de las atribuciones que en materia electoral le establece la ley de la materia, el Consejo Estatal Electoral y de Participación Ciudadana, será el organismo encargado de preparar, desarrollar, vigilar y calificar los procesos de referéndum, y plebiscito, que les sean solicitados de conformidad con esta Ley.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
+
+Los gastos que se originen con la implementación del, referéndum, y el plebiscito, deberán ser erogados por sus iniciadores, por lo que el Gobernador del Estado, el Congreso del Estado, y los municipios, deberán contemplar en su presupuesto de egresos un rubro para tal efecto, siempre que las condiciones financieras lo permitan, y se encuentre una solicitud en tal sentido. Tratándose de los procesos promovidos por la ciudadanía, los gastos serán solventados por el Consejo Estatal Electoral y de Participación Ciudadana.
+
 ### CAPITULO II. Del Referéndum
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 4°.
 
-Para los efectos de esta la presente Ley, se entiende por referéndum, el proceso mediante el cual los ciudadanos del Estado expresan su aprobación o desaprobación a las reformas, adiciones o derogaciones a la Constitución Política del Estado, o a las leyes que expida el Congreso del Estado.
+Para los efectos de la presente Ley, el referéndum es el instrumento de participación participativa mediante el cual la ciudadanía ejerce el derecho para expresar su afirmativa o negativa respecto de los actos de gobierno, reformas, adiciones o derogaciones a la Constitución Política del Estado, y las leyes secundarias que expida el Congreso del Estado, que sean sometidas a su consideración.
 
 ###### ARTICULO 5º.
 
@@ -69,9 +75,29 @@ El referéndum será total cuando se someta a la decisión de la ciudadanía, el
 
 El referéndum no procederá cuando se trate:
 
-l. De leyes o disposiciones de carácter tributario o fiscal, y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
 
-II. De reformas a la Constitución Política del Estado y a las leyes locales, que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos.
+I. De las disposiciones constitucionales y legales en materia tributaria o fiscal, así como las leyes de, Ingresos; y del Presupuesto de Egresos del Estado, y de los municipios;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+
+II. De reformas a la Constitución Política del Estado y a las leyes locales, que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2014)</small>
+
+III. De la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2014)</small>
+
+IV. De la Ley Orgánica del Poder Legislativo y sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2014)</small>
+
+V. De la Ley Orgánica del Poder Judicial del Estado, y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2014)</small>
+
+VI. De disposiciones legales en materia de violencia y perspectiva de género, así como aquéllas que consagren derechos o acciones afirmativas a favor de las mujeres y personas con discapacidad.
 
 ###### ARTICULO 7°.
 
@@ -87,11 +113,15 @@ III. Las razones por las cuales el ordenamiento, o parte, de su articulado, deba
 
 Cuando la solicitud a que se refiere el artículo anterior, provenga de un ciudadano o grupo de ciudadanos, deberá reunir además, los siguientes requisitos:
 
-l. Tratándose de reformas o adiciones a la Constitución Política del Estado, deberá anexarse a la solicitud, el respaldo, con los nombres y apellidos completos, firma y clave de elector, de cuando menos el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado, y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+
+I. Tratándose de reformas o adiciones a la Constitución Política del Estado, deberá anexarse a la solicitud, el respaldo, con los nombres y apellidos completos, firma y clave de elector, de cuando menos el tres por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado, y
 
 II. En los demás casos, en los términos de la fracción anterior, el porcentaje requerido, será por lo menos el dos por ciento del total de los ciudadanos inscritos en la lista nominal de electores del Estado, o del municipio.
 
-En ambos supuestos, los promoventes designarán a las personas que los representen en común.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
+En ambos supuestos, los promoventes designarán a las personas que los representen en común, debiendo señalar domicilio procesal, para oír y recibir toda clase de notificaciones, el cual deberá encontrarse dentro del lugar de residencia del Consejo Estatal Electoral y de Participación Ciudadana.
 
 ### CAPITULO III. Del Plebiscito
 
@@ -117,11 +147,15 @@ Tratándose de supresión, el plebiscito deberá aplicarse a los ciudadanos de t
 
 El plebiscito podrá ser solicitado ante el Consejo Estatal Electoral y de Participación Ciudadana por:
 
-I. El Congreso del Estado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+
+I. El Congreso del Estado, con la aprobación de cuando menos la mayoría de sus integrantes;
 
 II. El Gobernador del Estado;
 
-III. Los ayuntamientos, y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+
+III. Los ayuntamientos, con la aprobación de cuando menos la mayoría de sus integrantes, y
 
 IV. Los ciudadanos del Estado.
 
@@ -143,11 +177,21 @@ Cuando la solicitud a que se refiere el artículo inmediato anterior, provenga d
 
 l. Cuando menos el dos por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado, en el caso de la fracción I del artículo 10 de esta Ley;
 
-II. Cuando menos el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio o municipios de que se trate, respecto de los actos trascendentes de las autoridades municipales, en el caso de la fracción II del artículo 10 de esta Ley, y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
 
-III. Cuando menos el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio o municipios de que se trate en el caso de la fracción III del artículo 10 de esta Ley.
+II. Cuando menos el dos por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio o municipios de que se trate, respecto de los actos trascendentes de las autoridades municipales, en el caso de la fracción II del artículo 10 de esta Ley, y
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+
+III. Cuando menos el tres por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio o municipios de que se trate, en el caso de la fracción III del artículo 10 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE MAYO DE 2014)</small>
 
 En todos los casos deberán anexarse los nombres y apellidos completos, firma y clave de elector de los ciudadanos inscritos en la lista nominal de electores, que den su respaldo a la solicitud.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2014)</small>
+
+Los promoventes designarán a las personas que los representen en común, debiendo señalar domicilio procesal para oír y recibir toda clase de notificaciones, el cual deberá encontrarse dentro del lugar de residencia del Consejo Estatal Electoral y de Participación Ciudadana.
 
 ###### ARTICULO 14.
 
@@ -159,11 +203,13 @@ II. Autorizar la enajenación a particulares, de los bienes inmuebles municipale
 
 III. Solicitar al Congreso del Estado, en los términos de la ley de la materia, la incorporación o desafectación de un bien del dominio público y su cambio de destino.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 15.
 
-El plebiscito que se realice de conformidad con lo previsto en la presente Ley, tendrá carácter obligatorio; sin embargo, cuando sea solicitado por los ciudadanos y el resultado obtenido al término del referéndum o plebiscito, sea menor al treinta por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado o del municipio, según sea el caso, el resultado del mismo tendrá carácter de recomendación para la autoridad, para que ésta, en uso de sus facultades, determine lo conducente.
+El plebiscito que se realice de conformidad con lo previsto en la presente Ley, tendrá carácter obligatorio para las autoridades que lo hayan promovido.
+
+Cuando sea solicitado por los ciudadanos, los resultados del plebiscito tendrán carácter vinculatorio siempre que se obtenga, por lo menos, las dos terceras partes de la votación válidamente emitida. Para el caso de que no se cumpla con este supuesto, el resultado del plebiscito tendrá carácter de recomendación para la autoridad, por lo que ésta en uso de sus atribuciones, podrá determinar lo conducente.
 
 ### CAPITULO IV. Del Procedimiento
 
@@ -217,7 +263,9 @@ VI. La declaración de validez de los resultados del referéndum o plebiscito, s
 
 Tratándose de referéndum, los ciudadanos inscritos en la lista nominal de electores, votarán por un "sí" en caso de que su voluntad sea que la ley u ordenamiento sometido a referéndum quede vigente; y por un "no" cuando consideren que el ordenamiento de que se trate deba ser abrogado o derogado, según sea el caso.
 
-Tratándose de plebiscito, los ciudadanos inscritos en la lista nominal de electores se limitarán a votar por un "sí''' o por un "no'" el acto de gobierno sometido a su consideración.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+
+Tratándose de plebiscito, los ciudadanos inscritos en la lista nominal de electores se limitarán a votar por un "sí", o por un "no", el acto de gobierno sometido a su consideración. Para la elaboración de las preguntas que se sometan a consulta pública, el Consejo Estatal Electoral y de Participación Ciudadana podrá pedir la colaboración de las autoridades estatales y municipales, instituciones educativas de nivel superior, o de los organismos sociales y civiles relacionados con la materia que trate el plebiscito.
 
 El voto será libre y secreto.
 
@@ -278,6 +326,12 @@ Lic. Alfonso José Castillo Machuca
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
