@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2014-05-14"
+last_updated: "2014-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2014 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MAYO DE 2014.</small>
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -1391,7 +1391,9 @@ XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de
 
 XVII.- Presentar un informe escrito al Congreso del Estado, el segundo domingo del mes de noviembre de cada año de su ejercicio constitucional, en el que manifieste el estado general que guarde la Administración Pública del Estado, salvo el último año de ejercicio, cuando dicho informe se presentará el tercer domingo del mes de agosto, en sesión extraordinaria del Congreso. Al presentar su informe, el Gobernador del Estado podrá además dirigir al Pleno un mensaje alusivo. En todo caso, el Presidente del Congreso, en términos generales y concisos, realizará la intervención que corresponda;
 
-XVIII.- (DEROGADA, P.O. 14 DE MAYO DE 2014)
+(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013) (F. DE E., P.O. 24 DE MAYO DE 2014)
+
+XVIII.- Acordar que concurra a las sesiones de la Legislatura el Secretario del ramo que corresponde, cuando sea citado por el Congreso para informar acerca de alguna iniciativa de Ley, presentada por el Ejecutivo, o tratar temas relevantes de interés para el Congreso, relacionados con su ramo.
 
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
