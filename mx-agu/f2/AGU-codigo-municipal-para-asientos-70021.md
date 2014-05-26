@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-asientos-70021"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-09-07"
-last_updated: "2013-10-14"
+last_updated: "2014-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de septiembre de 2009.
 
@@ -2223,245 +2223,247 @@ Cada una de las dependencias administrativas integrantes de la Administración P
 
 Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan Municipal de Desarrollo para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 224.
 
-Las dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
+LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CONTARÁN CON LAS SIGUIENTES UNIDADES ADMINISTRATIVAS:
 
-I. De la oficina del Presidente Municipal:
+I. DE LA OFICINA DEL PRESIDENTE MUNICIPAL:
 
-a) Secretaria Particular;
+A) SECRETARÍA PARTICULAR;
 
-b) Secretaria.
+B) SECRETARIA.
 
-II. De la Secretaria del H. Ayuntamiento:
+II. DE LA SECRETARÍA DEL H. AYUNTAMIENTO:
 
-a) Dirección de Asuntos Jurídicos;
+A) DIRECCIÓN DE ASUNTOS JURÍDICOS;
 
-b) Departamento de Reglamentos y Licencias;
+B) DEPARTAMENTO DE REGLAMENTOS Y LICENCIAS;
 
-c) Departamento de Comunicación Social y Relaciones Públicas;
+C) DEPARTAMENTO DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS:
 
-d) Jueces Calificadores;
+D) JUECES CALIFICADORES;
 
-e) Delegados y Comisarios.
+E) DELEGADOS Y COMISARIOS.
 
-III. Desarrollo Integral de la Familia:
+III. DESARROLLO INTEGRAL DE LA FAMILIA:
 
-a) Presidenta Honoraria;
+A) PRESIDENTA HONORARIA;
 
-b) Director General;
+B) DIRECTOR GENERAL;
 
-c) Departamento de Programas Gubernamentales;
+C) DEPARTAMENTO DE PROGRAMAS GUBERNAMENTALES;
 
-d) Departamento de Psicología;
+D) DEPARTAMENTO DE PSICOLOGÍA;
 
-e) Trabajadora Social;
+E) TRABAJADORA SOCIAL;
 
-f) Coordinadora de Grupos de la tercera edad;
+F) COORDINADORA DE GRUPOS DE LA TERCERA EDAD;
 
-g) Intendencia.
+G) INTENDENCIA.
 
-IV. Contraloría Municipal:
+IV. CONTRALORÍA MUNICIPAL:
 
-a) Departamento de Transparencia;
+A) DEPARTAMENTO DE TRANSPARENCIA;
 
-b) Departamento de Auditorias.
+B) DEPARTAMENTO DE AUDITORIAS.
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2013)</small>
+V. DELEGACIONES Y COMISARIAS MUNICIPALES
 
-V. Delegaciones y Comisarias Municipales (Autoridades Honorarias Auxiliares):
+I. DELEGACIONES:
 
-I. Delegaciones:
+a) VILLA JUÁREZ;
 
-a) Villa Juárez;
+b) GUADALUPE DE ATLAS;
 
-b) Guadalupe de Atlas;
+c) PILOTOS;
 
-c) Pilotos;
+d) ADOLFO LÓPEZ MATEOS; Y
 
-d) Adolfo López Mateos; y
+e) CIÉNEGA GRANDE.
 
-e) Ciénega Grande
+II. COMISARIAS MUNICIPALES POR DELEGACIONES:
 
-II. Comisarías Municipales por Delegaciones:
+A) DELEGACIÓN VILLA JUÁREZ
 
-a) Delegación Villa Juárez
+1. AMARILLAS
 
-1. Amarillas
+2. CHARCO AZUL
 
-2. Charco Azul
+3. COLONIA SAN PEDRO
 
-3. Colonia San Pedro
+4. EL LLAVERO
 
-4. El Llavero
+5. EL POLVO
 
-5. El Polvo
+6. EL TULE
 
-6. El Tule
+7. JILOTEPEC
 
-7. Jilotepec
+8. LA DICHOSA
 
-8. La Dichosa
+9. MOLINOS
 
-9. Molinos
+10. PINO SUÁREZ
 
-10. Pino Suárez
+11. SAN JOSÉ DEL RÍO
 
-11. San José del Río
+12. SAN RAFAEL DE OCAMPO
 
-12. San Rafael de Ocampo
+13. SAN VICENTE
 
-13. San Vicente
+14. VIUDAS DE PONIENTE
 
-14. Viudas de Poniente
+B) DELEGACIÓN GUADALUPE DE ATLAS
 
-b) Delegación Guadalupe de Atlas
+1. BIMBALETES ATLAS
 
-1. Bimbaletes Atlas
+2. BIMBALETES AGUASCALIENTES
 
-2. Bimbaletes Aguascalientes
+3. JARILLAS
 
-3. Jarillas
+4. NORIAS DEL BORREGO
 
-4. Norias del Borrego
+5. COLONIA LAS TORRES DE GPE.
 
-5. Colonia las Torres de Gpe.
+C) DELEGACIÓN PILOTOS
 
-c) Delegación Pilotos
+1. BAJÍO DE LOS CAMPOS
 
-1. Bajío de los Campos
+2. COLONIA EMANCIPACIÓN
 
-2. Colonia Emancipación
+3. EL EPAZOTE
 
-3. El Epazote
+4. EL SALITRE
 
-4. El Salitre
+5. FRANCISCO VILLA
 
-5. Francisco Villa
+6. LA ESPERANZA
 
-6. La Esperanza
+7. LAS ADJUNTAS
 
-7. Las Adjuntas
+8. LAS FRAGUAS
 
-8. Las Fraguas
+9. LAS NEGRITAS
 
-9. Las Negritas
+10. OJO DE AGUA DE LOS SAUCES
 
-10. Ojo de Agua de los Sauces
+11. SAN JOSÉ DEL TULILLO
 
-11. San José del Tulillo
+12. TANQUE DE GUADALUPE
 
-12. Tanque de Guadalupe
+13. TANQUE VIEJO
 
-13. Tanque Viejo
+14. TINAJUELA
 
-14. Tinajuela
+D) DELEGACIÓN ADOLFO LÓPEZ MATEOS
 
-d) Delegación Adolfo López Mateos
+1. CALDERA
 
-1. Caldera
+2. CHARCO PRIETO (PALOMAR)
 
-2. Charco Prieto (Palomar)
+3. CLAVELLINAS
 
-3. Clavellinas
+4. GORRIONES
 
-4. Gorriones
+5. OJO DE AGUA DE ROSALES
 
-5. Ojo de Agua de Rosales
+6. SAN ANTONIO DE LOS MARTÍNEZ
 
-6. San Antonio de los Martínez
+7. TEPETATILLO
 
-7. Tepetatillo
+E) DELEGACIÓN CIÉNEGA GRANDE
 
-e) Delegación Ciénega Grande
+1. LA GLORIA
 
-1. La Gloria
+2. LÁZARO CÁRDENAS
 
-2. Lázaro Cárdenas
+3. LOS ENCINOS
 
-3. Los Encinos
+4. CRISÓSTOMOS
 
-4. Crisóstomos
+5. SAN GIL
 
-5. San Gil
+6. COLONIA CALLES
 
-6. Colonia Calles
+7. COLONIA GÓMEZ PORTUGAL
 
-7. Colonia Gómez Portugal
+VI. TESORERÍA MUNICIPAL:
 
-VI. Tesorería Municipal:
+A) CONTADOR GENERAL;
 
-a) Contador General;
+B) ÁREA CONTABLE DE EGRESOS;
 
-b) Área Contable de Egresos;
+C) ÁREA CONTABLE DE INGRESOS;
 
-c) Área Contable de Ingresos;
+D) ÁREA DE CATASTRO;
 
-d) Área de Catastro;
+VII. DIRECCIÓN DE SERVICIOS PÚBLICOS MUNICIPALES Y ECOLOGÍA:
 
-VII. Dirección de Servicios Públicos Municipales y Ecología:
+A) SUBDIRECCIÓN DE SERVICIOS PÚBLICOS MUNICIPALES;
 
-a) Subdirección de Servicios Públicos Municipales;
+B) DEPARTAMENTO DE ATENCIÓN AL PÚBLICO Y CALIDAD DE LOS SERVICIOS;
 
-b) Departamento de Atención al Público y Calidad de los Servicios;
+C) ÁREA DE ASEO PÚBLICO;
 
-c) Área de aseo público;
+D) ÁREA DE ALUMBRADO PÚBLICO;
 
-d) Área de alumbrado público;
+E) PARQUES Y JARDINES;
 
-e) Parques y Jardines;
+F) ADMINISTRACIÓN Y MANTENIMIENTO DE SERVICIOS;
 
-f) Administración y mantenimiento de servicios;
+G) ÁREA DE MANTENIMIENTO DE VIALIDADES E INFRAESTRUCTURA URBANA;
 
-g) Área de mantenimiento de vialidades e infraestructura urbana;
+H) ÁREA DE ECOLOGÍA.
 
-h) Área de ecología.
+VIII. DIRECCIÓN DE DESARROLLO SOCIAL:
 
-VIII. Dirección de Desarrollo Social:
+A) DEPARTAMENTO DE PROGRAMAS GUBERNAMENTALES;
 
-a) Departamento de Programas Gubernamentales;
+B) DEPARTAMENTO DE PROMOCIÓN DEL DEPORTE;
 
-b) Departamento de Promoción del Deporte;
+C) SUBDIRECCIÓN DE DESARROLLO AGROPECUARIO.
 
-c) Subdirección de Desarrollo Agropecuario.
+IX. OFICIALÍA MAYOR ADMINISTRATIVA:
 
-IX. Oficialía Mayor Administrativa:
+A) DEPARTAMENTO DE RECURSOS HUMANOS;
 
-a) Departamento de Recursos Humanos;
+B) DEPARTAMENTO DE INFORMÁTICA;
 
-b) Departamento de Informática;
+C) DEPARTAMENTO DE PATRIMONIO, COMPRAS Y SUMINISTROS DE MATERIAL;
 
-c) Departamento de Patrimonio, compras y suministros de material;
+D) ÁREA DE CONTROL VEHICULAR;
 
-d) Área de Control Vehicular;
+E) ÁREA DE EVENTOS ESPECIALES.
 
-e) Área de eventos especiales.
+X. DIRECCIÓN DE OBRAS PÚBLICAS Y PLANEACIÓN:
 
-X. Dirección de Obras Públicas y Planeación:
+A) DEPARTAMENTO DE COSTOS Y PRECIOS UNITARIOS;
 
-a) Departamento de Costos y precios unitarios;
+B) DEPARTAMENTO DE PLANEACIÓN Y DESARROLLO URBANO;
 
-b) Departamento de Planeación y desarrollo urbano;
+C) DEPARTAMENTO DE PROYECTOS Y SUPERVISIÓN DE OBRAS;
 
-c) Departamento de proyectos y supervisión de obras;
+D) ÁREA ADMINISTRATIVA Y DE CONCERTACIÓN.
 
-d) Área administrativa y de concertación.
+XI. DIRECCIÓN DE AGUA POTABLE Y ALCANTARILLADO:
 
-XI. Dirección de Agua Potable y Alcantarillado:
+A) DEPARTAMENTO OPERATIVO;
 
-a) Departamento Operativo;
+B) DEPARTAMENTO ADMINISTRATIVO Y DE INGRESOS;
 
-b) Departamento administrativo y de ingresos;
+C) DEPARTAMENTO DE CULTURA DEL AGUA.
 
-c) Departamento de Cultura del Agua.
+XII. DIRECCIÓN DE SEGURIDAD PÚBLICA Y VIALIDAD:
 
-XII. Dirección de Seguridad Pública y Vialidad:
+A) SUBDIRECCIÓN DE SEGURIDAD PÚBLICA;
 
-a) Subdirección de Seguridad Pública;
+B) DEPARTAMENTO DE TRÁNSITO Y VIALIDAD;
 
-b) Departamento de Tránsito y Vialidad;
+C) DEPARTAMENTO DE PROTECCIÓN CIVIL.
 
-c) Departamento de Protección Civil. (Honorario)
+TODOS LOS FUNCIONARIOS QUE OSTENTEN ESTOS CARGOS DE LA ADMINISTRACIÓN MUNICIPAL TENDRÁN DERECHO A PERCIBIR LA REMUNERACIÓN QUE PARA TAL EFECTO SE FIJE EN LAS LEYES DE LA MATERIA O EN LOS ACUERDOS QUE SE EXPIDAN POR EL CABILDO.
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
@@ -14022,3 +14024,9 @@ SEGUNDO.- Se derogan todas las disposiciones reglamentarias municipales que se o
 P.O. 14 DE OCTUBRE DE 2013.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
+
+P.O. 26 DE MAYO DE 2014.
+
+PRIMERO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO. SE DEROGAN TODAS LAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA ASIENTOS QUE SE OPONGAN AL PRESENTE DECRETO.
