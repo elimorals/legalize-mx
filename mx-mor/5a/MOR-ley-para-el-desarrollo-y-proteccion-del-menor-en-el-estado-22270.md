@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-el-desarrollo-y-proteccion-del-menor-en-el-estado-2227
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-12"
-last_updated: "2013-10-09"
+last_updated: "2014-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN DEL MENOR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de marzo de 1997.
 
@@ -525,9 +525,11 @@ En las acciones de planeación sobre asistencia social, salud, educación, depor
 
 Todas aquellas personas físicas o jurídicas colectivas que constituyan albergues, casas de asistencia y en general, cualquier acción directa o indirectamente relacionadas con la atención, cuidado o educación de menores desamparados, quedan sujetas a la evaluación, inspección, vigilancia y sanción del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Morelos, por conducto de la Procuraduría de la Defensa del Menor, en los términos de este ordenamiento.
 
-###### ARTICULO 37.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-Toda persona que conozca y advierta de acciones u omisiones de maltrato, abandono, negligencia, abuso y en general de cualquier agresión que sufra un menor de edad a su integridad física o moral, bienes o derechos, está obligada a denunciarlas ante la Procuraduría de la Defensa del Menor, a efecto de que ésta lo ponga en conocimiento de las autoridades competentes, se inicien las acciones legales respectivas y se provea de protección y asistencia al menor victimado.
+###### ARTÍCULO 37.
+
+Toda persona que conozca y advierta de acciones u omisiones de maltrato, abandono, negligencia, abuso y, en general, de cualquier agresión que sufra un menor de edad a su integridad física, moral o psíquica, bienes o derechos, está obligada a denunciarlas ante la Procuraduría de la Defensa del Menor, a efecto de que ésta lo ponga en conocimiento de las autoridades competentes, se inicien las acciones legales respectivas y se provea de protección y asistencia al menor victimado.
 
 ## TITULO SEXTO. DE LAS INSPECCIONES
 
@@ -874,3 +876,9 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE MAYO DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
