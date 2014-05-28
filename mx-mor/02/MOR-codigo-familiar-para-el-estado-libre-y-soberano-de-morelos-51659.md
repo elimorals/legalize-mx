@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2013-06-26"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -643,9 +643,11 @@ El Registro Civil, cancelará las inscripciones a que se refiere el segundo pár
 
 IMPEDIMENTO DEL DEUDOR ALIMENTISTA. El deudor alimentista no podrá pedir que se incorpore a su familia el que deba recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO 46.
 
-PROPORCIONALIDAD ALIMENTARIA. Los alimentos han de ser proporcionados a la posibilidad del que deba darlos y a las necesidades del que deba recibirlos.
+Los alimentos han de ser proporcionados a la posibilidad del que deba darlos y a las necesidades del que deba recibirlos. En caso de que la forma de subvenirlos sea de manera porcentual, para realizar la retención se tomará como base la totalidad de las percepciones del deudor alimentario, disminuyendo deducciones de carácter legal.
 
 ###### ARTÍCULO 47.
 
@@ -6102,3 +6104,13 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
