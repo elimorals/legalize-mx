@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-3302
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-23"
-last_updated: "2007-05-17"
+last_updated: "2014-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 28 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 23 de junio de 2003.
 
@@ -185,9 +187,9 @@ XI. Participar, en el ámbito de su competencia, en la elaboración, ejecución 
 
 XII. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende su superior inmediato.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 17 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE MAYO DE 2007)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBDIRECCIONES, DIVISIONES, UNIDAD JURIDICA y CONTRALORIA INTERNA
+### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBDIRECCIONES, DIVISIONES, UNIDAD JURIDICA Y CONTRALORIA INTERNA
 
 > <small>(REFORMADO, G.G. 17 DE MAYO DE 2007)</small>
 
@@ -493,7 +495,7 @@ DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 17 DE MAYO DE 2007.
 
@@ -502,3 +504,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 28 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del Tecnológico de Estudios Superiores del Oriente del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 23 de junio de 2003.
