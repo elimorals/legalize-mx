@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-70314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-12"
-last_updated: "2013-08-28"
+last_updated: "2014-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de septiembre de 2009.
 
@@ -3371,7 +3373,9 @@ La información del Registro Federal de Electores será pública y mediante conv
 
 Artículo 225
 
-1. De conformidad con lo dispuesto en el artículo 37 de la Constitución Política del Estado Libre y Soberano de Chihuahua, el Tribunal Estatal Electoral es el órgano de legalidad y plena jurisdicción en la materia electoral, autónomo en su funcionamiento e independiente en sus decisiones, con patrimonio propio.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+l. De conformidad con lo dispuesto en el artículo 37 de la Constitución Política del Estado Libre y Soberano de Chihuahua, el Tribunal Estatal Electoral será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado.
 
 2. El Tribunal Estatal Electoral se regirá, en ejercicio de sus funciones, por los principios de certeza, legalidad, imparcialidad, objetividad, independencia y profesionalismo.
 
@@ -3393,11 +3397,9 @@ Artículo 226
 
 7. Los magistrados del Tribunal durarán en su encargo seis años y podrán ser reelectos por una sola ocasión. Asimismo, percibirán una remuneración igual a la que reciben los magistrados del Supremo Tribunal de Justicia del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
-
-8. En caso de renuncia, destitución, incapacidad, ausencia o muerte de los magistrados del Tribunal, se procederá a nombrar a quien los sustituya, bajo el mismo procedimiento señalado en el punto tres de este artículo. La ausencia temporal del Magistrado Presidente será suplida por el magistrado de mayor antigüedad en el cargo. Si estuvieren varios en ese caso, suplirá el de mayor edad. La ausencia temporal de cualesquiera de los otros Magistrados, solo cuando haya iniciado el Proceso Electoral, será suplida por el Secretario General del Tribunal.
+8. En caso de renuncia, destitución, incapacidad, ausencia o muerte de los magistrados del Tribunal, se procederá a nombrar a quien los sustituya, bajo el mismo procedimiento señalado en el punto tres de este artículo. La ausencia temporal del Magistrado Presidente será suplida por el magistrado de mayor antigüedad en el cargo. Si estuvieren varios en ese caso, suplirá el de mayor edad. La ausencia temporal de cualquiera de los otros Magistrados, solo cuando haya iniciado el Proceso Electoral, será suplida por el Secretario General del Tribunal.
 
 Artículo 227
 
@@ -3412,6 +3414,8 @@ c) Celebrar convenios de colaboración con otros tribunales, instituciones y aut
 d) Las demás que le señalen las leyes.
 
 2. El Tribunal Estatal Electoral, al resolver los asuntos de su competencia, garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 3. El Pleno del Tribunal Estatal Electoral es competente para:
 
@@ -3449,7 +3453,9 @@ i) Encomendar a los secretarios de estudio y cuenta, auxiliares y actuarios, la 
 
 j) Determinar la fecha y hora de sus sesiones públicas y privadas;
 
-k) Aprobar su proyecto de presupuesto de egresos;
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+k) Aprobar su anteproyecto de presupuesto de egresos y remitirlo para su aprobación al Pleno del Supremo Tribunal de Justicia del Estado;
 
 l) Solicitar al Magistrado Presidente, cuando proceda, la suspensión, remoción o cese del Secretario General;
 
@@ -3543,6 +3549,8 @@ Artículo 232
 
 1. El Magistrado Presidente del Tribunal será electo por el Pleno y durará en su cargo tres años y podrá ser reelecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+
 2. El Magistrado Presidente del Tribunal tendrá las siguientes atribuciones:
 
 a) Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieran para su buen funcionamiento;
@@ -3557,7 +3565,9 @@ e) Vigilar que se cumplan las determinaciones del Pleno;
 
 f) Despachar la correspondencia del Tribunal;
 
-g) Elaborar y someter a la aprobación del Pleno el proyecto de presupuesto anual de egresos. Una vez aprobado, lo remitirá al Gobernador del Estado, para los efectos que haya lugar;
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+g) Elaborar y someter a la aprobación del Pleno el anteproyecto de presupuesto anual de egresos. Una vez aprobado, lo remitirá al Pleno del Supremo Tribunal de Justicia del Estado, para los efectos que haya lugar;
 
 h) Convocar a reuniones internas a los magistrados y demás personal del Tribunal;
 
@@ -5659,6 +5669,8 @@ Las autoridades electorales del Estado proveerán lo necesario en cada caso, a f
 
 P.O. 28 DE AGOSTO DE 2013.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA.</small>
+
 ###### ARTÍCULO PRIMERO.
 
 Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
@@ -5678,3 +5690,27 @@ El patrimonio del Tribunal de Justicia Electoral y Administrativa del Estado se 
 ###### ARTÍCULO QUINTO.
 
 Una vez que entre en vigor la presente reforma se deberán hacer las adecuaciones legales pertinentes en un plazo de noventa días.
+
+P.O. 28 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a las modificaciones contenidas en los Artículos Primero y Segundo del presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Lo dispuesto en los demás Artículos del presente Decreto, surtirá vigencia un día después de que lo haga la reforma constitucional señalada en el Artículo Segundo.
+
+###### ARTÍCULO TERCERO.
+
+Con excepción de lo relativo a su adscripción al Poder Judicial del Estado, el Tribunal Estatal Electoral continuará ejerciendo sus funciones normalmente con la misma integración y atribuciones con que lo ha venido haciendo previo a la aprobación del presente Decreto, por lo que los actuales magistrados continuarán en el ejercicio de sus atribuciones hasta que culmine el tiempo por el que fueron designados.
+
+Los contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, continuarán bajo los mismos términos con los que se celebraron.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos con los que opere el Tribunal Estatal Electoral hasta el momento de la vigencia de las reformas legales incluidas en el presente Decreto, serán transferidos en ese acto como patrimonio del Poder Judicial del Estado, en conjunto con los recursos presupuestales y financieros que la Secretaría de Hacienda le asigne.
+
+###### ARTÍCULO QUINTO.
+
+Los servidores públicos y empleados del Tribunal Estatal Electoral, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral y continuarán con el sistema de seguridad social empleado hasta la entrada en vigor del presente Decreto.
