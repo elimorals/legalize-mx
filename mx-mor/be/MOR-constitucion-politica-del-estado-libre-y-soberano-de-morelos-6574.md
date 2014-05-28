@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2014-04-30"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2014.</small>
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -334,11 +336,15 @@ La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado l
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014) (F. DE E., P.O. 28 DE MAYO DE 2014)
 
 ###### Artículo 19.
 
-La mujer y el varón tienen igualdad de derechos ante la Ley. Los ordenamientos respectivos, tutelarán la igualdad de estos derechos y sancionarán cualquier tipo de discriminación o menoscabo, producido en relación al género masculino y femenino, a la edad, religión, etnia, condición social, discapacidad, y cualquiera otra que vulnere o dañe la dignidad y la condición de los Derechos Humanos, reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los Tratados, Acuerdos e instrumentos internacionales a los que el país se haya adherido. De igual manera, protegerán la organización y desarrollo de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con capacidades diferentes y los ancianos. La protección familiar e individual se dará conforme a las siguientes bases:
+La mujer y el varón tienen igualdad de derechos ante la Ley. De igual manera protegerán la organización y desarrollo de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con capacidades diferentes y los ancianos.
+
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
+
+La protección familiar e individual se dará conforme a las siguientes bases:
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -352,9 +358,17 @@ II.- Los niños, niñas y adolescentes tienen derecho:
 
 a).- A conocer a sus padres y ser respetado en su integridad física y psíquica por parte de ellos y de la sociedad;
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b).- A que se le proporcione alimentación, a la educación básica, a la especial en los casos que se requieran y a la superior de ser posible. Tendrá derecho a la protección y conservación de su salud, todo ello respetando su derecho a la libertad;
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+b) Para su sano e integral desarrollo:
+
+1.- A que se le proporcione alimentación;
+
+2.- A recibir del Estado, de manera obligatoria y con calidad, Educación Básica y Media Superior, Educación Especial, en los casos que se requiera y, superior de ser posible, por conducto de la Unidad Gubernamental correspondiente, con la necesaria participación de los poderes de familia y la sociedad, de conformidad con lo dispuesto en la normativa federal y local aplicable, y
+
+3.- A la protección y conservación de su salud, todo ello respetando su derecho a la libertad;
 
 (ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
@@ -425,6 +439,12 @@ g).- Las medidas de seguridad preventivas y definitivas a favor de las mujeres.
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
 
 Asimismo, los morelenses tienen el derecho de contar con las oportunidades y condiciones necesarias para su desarrollo físico y mental, en el ámbito de las diferentes disciplinas y niveles del deporte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+Los morelenses que de acuerdo a los estudios socioeconómicos de los distintos órganos de Gobierno, que se determinen que viven en condiciones de pobreza extrema, tienen derecho a acceder a los programas sociales y por lo tanto, el Poder Ejecutivo del Estado y los Ayuntamientos de la Entidad, tienen la obligación de llevar a cabo las acciones necesarias, a efecto de determinar quienes se encuentran en pobreza extrema, registrarlos en los padrones correspondientes y beneficiarlos prioritariamente con los apoyos derivados de los programas que a nivel Federal, Estatal y Municipal se otorgan y que son proporcionados a través o por las autoridades locales. Lo anterior, con independencia de la atención que debe otorgarse a los grupos vulnerables y en pobreza.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 1999)</small>
 
@@ -1014,11 +1034,17 @@ XVIII.- (DEROGADA, P.O. 3 DE JUNIO DE 1992)
 
 XIX.- Expedir leyes que establezcan los procedimientos para el fraccionamiento y enajenación de las extensiones de tierras que llegaren a exceder los límites señalados en el artículo 27 de la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XX.- Expedir Leyes relativas a la relación de trabajo entre los Poderes y los Ayuntamientos del Estado y sus Trabajadores y a seguridad social de dichos Trabajadores, sin contravenir las siguientes bases:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+
+XX.- Expedir Leyes relativas a la relación de trabajo entre los Poderes y los Ayuntamientos de los Municipios del Estado y sus trabajadores y la seguridad social de dichos trabajadores, sin contravenir las siguientes bases:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 a).- La jornada diaria máxima de trabajo diurna y nocturna, será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 b).- Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
 
@@ -1030,13 +1056,23 @@ c).- Los trabajadores gozarán anualmente de dos períodos vacacionales de diez 
 
 d).- Los salarios, emolumentos y demás prestaciones para los trabajadores o servidores públicos del Estado, sean sindicalizados, supernumerarios o de confianza, serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 131 de esta constitución y en las leyes respectivas. En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general del Estado;
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
 e).- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 f).- Sólo podrán hacerse retenciones, descuentos o embargos al salario, en los casos previstos en las Leyes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
 g).- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado establecerá academias en las que se impartan los cursos necesarios para que los trabajadores que lo deseen puedan adquirir los conocimientos necesarios para obtener ascensos conforme al Escalafón.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
 h).- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 i).- Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la Ley.
 
@@ -1044,7 +1080,11 @@ En caso de separación injustificada tendrán derecho a optar por la reinstalaci
 
 En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o a la indeminzación (sic) de Ley.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
 j).- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias de los poderes públicos, cuando se violen de manera general y sistemática los derechos que este artículo les consagra.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 k).- La seguridad social se organizará conforme a las siguientes bases mínimas:
 
@@ -1058,9 +1098,15 @@ d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y 
 
 e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, a los trabajadores conforme a los programas previamente aprobados.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
 l).- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal de Arbitraje.
 
-m).- La Ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+m).- La Ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen, disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1184,9 +1230,19 @@ XLVI.- Expedir leyes o decretos a fin de crear organismos descentralizados, empr
 
 XLVII.- Por conducto de la Auditoría Superior de Fiscalización, practicar toda clase de visitas, inspecciones, revisiones y auditorías de seguimiento, operación, cumplimiento, financieras y de evaluación, a las cuentas públicas del Gobierno del Estado y de los Municipios, verificando su congruencia con el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo, en su caso con los programas financieros o de deuda pública, determinando las responsabilidades que en su caso procedan.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLVIII.- Legislar dentro del ámbito de su competencia y en lo que no este expresamente reservado a la Federación, sobre la materia de derechos, desarrollo, cultura y educación de las comunidades indígenas, asentamientos humanos, regularización de la tenencia de la tierra, reservas ecológicas, territoriales y utilización del suelo. Asimismo, legislar sobre planeación estatal del desarrollo económico y social del estado y sobre programación, promoción, concertación y ejecución de acciones de orden económico.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+XLVIII.- Legislar dentro del ámbito de su competencia y en lo que no esté expresamente reservado a la Federación, sobre las materias de:
+
+a) Derechos, desarrollo, cultura y educación de las culturas indígenas;
+
+b) Educación Básica y Media Superior;
+
+c) Asentamientos humanos, regularización de la tenencia de la tierra, reservas ecológicas, territoriales y utilización del suelo, y
+
+d) Planeación Estatal del Desarrollo Económico y Social del Estado y sobre programación, promoción, concertación y ejecución de acciones de orden económico;
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1584,11 +1640,11 @@ DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 70.
 
-Son facultades del Gobernador:
+Son facultades del Gobernador del Estado:
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1658,9 +1714,17 @@ XV.- En el ámbito de su competencia, expedir y certificar títulos profesionale
 
 XVI.- Publicar y hacer publicar las leyes federales.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVII.- Promulgar y hacer cumplir las Leyes o decretos del Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia, así como expedir los reglamentos necesarios para la buena marcha de los asuntos estatales, para lo que tendrá a su cargo el Periódico Oficial del Estado, como órgano de difusión;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+XVII.- En materia de legislación y normatividad estatal:
+
+a) Promulgar y hacer cumplir las Leyes o Decretos del Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
+
+b) Expedir los Reglamentos necesarios para la buena marcha de los asuntos estatales, incluyendo las disposiciones derivadas del cumplimiento de la normativa federal, y
+
+c) Dirigir el Periódico Oficial del Estado, como Órgano de Difusión;
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -1690,9 +1754,11 @@ XX.- Como jefe de la Fuerza Pública Estatal, velar por la conservación del ord
 
 XXI.- Cuidar de la disciplina de la Guardia Nacional.
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXII.- Ejecutar y vigilar el cumplimiento y obligación del Gobierno con la educación pública del Estado para que esta permanezca laica, gratuita y obligatoria desde el nivel preescolar, primaria, secundaria, hasta la educación media superior, aportando en forma gratuita los libros de texto correspondientes a cada nivel escolar;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+XXII.- Ejecutar y vigilar el cumplimiento y obligación del Gobierno, por conducto de las Unidades Gubernamentales que estime pertinentes, con la Educación Pública del Estado, para que ésta sea de calidad con equidad y permanezca laica, gratuita y obligatoria desde el nivel Preescolar, Primaria, Secundaria, hasta la Educación Media Superior, con la participación activa de los padres de familia y la sociedad; tutelando el cumplimiento de las normas federales relativas al ingreso, promoción y permanencia del personal docente de los planteles del Estado, aportando en forma gratuita los libros de texto correspondientes a cada nivel escolar;
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1892,45 +1958,49 @@ DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014) (F. DE E., P.O. 28 DE MAYO DE 2014)
 
 ###### Artículo 79-A.
 
-El Ministerio Público tiene las atribuciones fundamentales siguientes:
+El ejercicio de las funciones del Ministerio Público se realizará por medio de la Fiscalía General del Estado de Morelos, la que estará dotada de autonomía de gestión, técnica y de ejercicio y aplicación del gasto público que le asigne el Congreso del Estado en el presupuesto anual correspondiente. Su Titular será el Fiscal General del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+En el Decreto del Presupuesto de Egresos del Gobierno del Estado, la asignación de recursos destinados a la Fiscalía General del Estado nunca será menor a la que le haya correspondido en el Ejercicio Fiscal del año anterior.
 
-I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a los Derechos Humanos en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita;
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+El Ministerio Público, además de las atribuciones que la Constitución Política de los Estados Unidos Mexicanos le confiere, tendrá las siguientes:
+
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
+
+I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a los derechos humanos en todos los asuntos en que intervenga;
+
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
 II.- Interponer los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
 III.- Investigar y perseguir ante los tribunales del orden común los delitos, en términos de lo dispuesto por las normas penales, tanto del fuero común como cuando se produzca la competencia concurrente en el ámbito federal;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
-IV.- Como participante de los Sistemas De Seguridad Pública, establecer la coordinación necesaria con las Policías Preventivas, Estatales y Municipales, para las acciones de investigación y persecución de los delitos, para una efectiva Seguridad Pública, diseñando y aplicando los protocolos pertinentes;
+IV.- Como participante de los Sistemas de Seguridad Pública, establecer la coordinación necesaria con las Policías Preventivas, Estatales y Municipales, para las acciones de investigación y persecución de los delitos, para una efectiva Seguridad Pública, diseñando y aplicando los protocolos pertinentes;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
 V.- Atender, en sus términos, la legislación relativa a la atención de víctimas de delitos y de violaciones de Derechos Humanos, incorporando estrategias, políticas y modelos de profesionalización de los recursos humanos que tenga asignados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+VI.- Intervenir en los procedimientos judiciales en que tenga competencia, atendiendo las reglas del debido proceso y, en su caso, en los asuntos judiciales que interesen a la sociedad y a las personas a quienes la ley conceda especial protección, en la forma y términos que la misma determine;
 
-VI.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a los menores que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los Derechos Humanos y sus Garantías que reconoce la Constitución de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley;
-
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
 VII.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los plazos que señale la Ley, a quienes tengan entre doce años cumplidos y menos de dieciocho años de edad y se les atribuya la realización de una conducta tipificada como delito por las leyes penales, garantizando los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por nuestro país para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. El Ministerio Público especializado en ningún caso podrá detener ni sujetar a investigación a las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, y
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
 
 VIII.- Ejercer las demás atribuciones que le encomienden las leyes.
 
@@ -2196,9 +2266,11 @@ El Consejo de la Judicatura elaborará un dictamen técnico en el que analizará
 
 El procedimiento para la evaluación y en su caso la designación para un periodo más de los magistrados del Tribunal Superior de Justicia por el Congreso, junto con la evaluación de los aspirantes que de acuerdo al procedimiento y convocatoria pública que emita el órgano político del Congreso, hayan reunido los requisitos que se señalen, se realizará conforme lo establezcan esta Constitución y las leyes en la materia.
 
-(NOTA: EL 9 DE JULIO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2008, DECLARÓ LA INVALIDEZ EN LA PORCIÓN NORMATIVA DEL PÁRRAFO DÉCIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JULIO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Congreso del Estado conforme a sus facultades, decide LIBRE Y SOBERANAMENTE sobre la designación de los magistrados, mediante el voto de las dos terceras partes de los diputados integrantes de la Legislatura. Si el Congreso resuelve que no procede la designación para un nuevo período, el magistrado cesará en sus funciones a la conclusión del período para el que fue nombrado.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+El Congreso del Estado conforme a sus facultades, decide sobre la designación de los Magistrados, mediante el voto de las dos terceras partes de los Diputados integrantes de la Legislatura. Si el Congreso resuelve que no procede la designación para un nuevo período, el Magistrado cesará en sus funciones a la conclusión del período para el que fue nombrado.
 
 El retiro forzoso de los Magistrados se producirá al cumplir sesenta y cinco años de edad o por sobrevenir incapacidad física o mental que imposibilite el desempeño del cargo o de manera voluntaria. La Ley preverá los casos en que tendrán derecho a un haber por retiro en forma proporcional al tiempo en que ejercieron sus funciones en los términos de ley.
 
@@ -2268,9 +2340,9 @@ Los Consejeros deberán reunir los requisitos exigidos para ser Magistrado del T
 
 Los integrantes del Consejo para su elección deberán ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades, y en el caso de los designados por el Poder Judicial, deberán gozar, además con reconocimiento en el ámbito judicial plenamente comprobados.
 
-(NOTA: EL 9 DE JULIO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2008, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE JULIO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LOS REPRESENTANTES DEL PODER EJECUTIVO Y LEGISLATIVO PODRÁN SER REMOVIDOS LIBREMENTE Y EN CUALQUIER MOMENTO POR QUIEN LOS DESIGNÓ, EN TÉRMINOS DE LO ESTABLECIDO EN EL TÍTULO SÉPTIMO DE LA PRESENTE CONSTITUCIÓN, SIN QUE POR ELLO SE ESTABLEZCA QUE EXISTIÓ RELACIÓN LABORAL BUROCRÁTICA ALGUNA CON ÉSTOS. LA DESIGNACIÓN DE QUIEN SUSTITUYA EN EL CARGO AL REPRESENTANTE QUE FUERE REMOVIDO DEBERÁ REALIZARSE DE MANERA INMEDIATA.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
 
 Salvo el Presidente del Consejo, los demás Consejeros durarán seis años en el cargo. Ninguno de los integrantes del Consejo podrá ser designado para un nuevo período. Durante su gestión los Consejeros podrán ser removidos además, en los términos que señale esta Constitución.
 
@@ -2950,15 +3022,25 @@ El matrimonio es la unión voluntaria de un hombre y una mujer, con igualdad de 
 
 En el estado se garantizará el derecho a la identidad de las personas a través del registro de nacimiento gratuito.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 121.
+
+La Educación que se imparta en la Entidad, deberá ser de calidad con equidad y garantizada por el Estado, a través de las Unidades Gubernamentales que estime pertinentes, ajustándose estrictamente a las disposiciones del artículo 3° y demás relacionados de la Constitución Política de los Estados Unidos Mexicanos, a efecto de asegurar el máximo aprendizaje de los educandos, a través de la participación social; así como la implementación de mecanismos y procedimientos de control que aseguren la evaluación y capacitación permanente de los docentes, tanto de Instituciones Públicas como particulares con autorización o reconocimiento oficial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+La enseñanza Media Superior y Superior se regirá por las Leyes Federales y Estatales correspondientes; la determinación de las profesiones que requieran de la expedición de títulos se ajustará a los términos del artículo 5° de la propia Constitución General de la República. Esta podrá ser impartida por instituciones creadas o autorizadas por el Gobierno del Estado, a las que en su caso podrá otorgar autonomía.
+
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
-###### Artículo 121.
-
-La educación en el Estado de Morelos se ajustará estrictamente a las disposiciones del Artículo 3º. y demás relacionados de la Constitución Federal.
-
-La enseñanza media superior y superior se regirá por las Leyes estatales correspondientes y se ajustarán a los términos del Artículo 5o. de la Constitución General de la República. Esta podrá ser impartida por instituciones creadas o autorizadas por el Gobierno del Estado, a las que en su caso podrá otorgar autonomía.
-
 Se otorga a la Universidad del Estado plena autonomía para impartir la enseñanza media superior y superior, crear las bases y desarrollar la investigación científica y humanística así como fomentar y difundir los beneficios de la cultura respetando la libertad de cátedra e investigación y el libre examen y discusión de las ideas; para determinar sus planes y programas; fijar los términos de ingreso, promoción y permanencia de su personal académico; tener la libre disposición y administración de su patrimonio, incluyendo el incremento del mismo por medio de fuentes propias, y realizar todos aquellos actos relacionados con sus fines.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 El Congreso del Estado proveerá los instrumentos legales necesarios para el cumplimiento de la función social educativa, expedir la Ley para el ejercicio de las profesiones en el Estado y para fijar las sanciones aplicables a quienes no cumplan o hagan cumplir las normas relativas a dicha función educativa o a las personas que las infrinjan.
 
@@ -4539,3 +4621,33 @@ DECRETO NÚMERO MIL TRESCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA LA FRACCIÓN
 Artículo Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en los (sic) dispuesto por los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Artículo Segundo.- Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inicio su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas y adiciones se tienen como parte de esta Constitución.
+
+P.O. 28 DE MAYO DE 2014.
+
+DECRETO NÚMERO MIL TRESCIENTOS SESENTA Y TRES, POR EL QUE SE REFORMA EL PÁRRAFO DÉCIMO, DEL ARTÍCULO 89 Y SE DEROGA EL PÁRRAFO QUINTO, DEL ARTÍCULO 92, POR LO QUE LOS ACTUALES PÁRRAFOS SEXTO Y SÉPTIMO PASAN A SER QUINTO Y SEXTO, RESPECTIVAMENTE, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, la reforma se tiene como parte de esta Constitución.
+
+TERCERO. En términos del artículo 42, fracción III, de la Constitución Política del Estado Libre y Soberano de Morelos, en un plazo no mayor a los treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Tribunal Superior de Justicia del Estado, debe presentar la iniciativa para adecuar la legislación conducente al presente ordenamiento.
+
+P.O. 28 DE MAYO DE 2014.
+
+DECRETO NÚMERO MIL TRESCIENTOS SESENTA Y CINCO, POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 19, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas se tienen como parte de esta Constitución.
+
+TERCERO. El Poder Ejecutivo y los Ayuntamientos del Estado, tendrán sesenta días naturales, a partir de la entrada en vigor del presente Decreto, para adecuar o implementar la reglamentación correspondiente y llevar a cabo las acciones necesarias derivadas de la presente reforma; informando al Congreso del Estado del cumplimiento dado al presente, dentro de los diez días hábiles posteriores al término mencionado con anterioridad.
+
+P.O. 28 DE MAYO DE 2014.
+
+DECRETO NÚMERO MIL TRECIENTOS SESENTA Y SEIS, POR EL QUE SE REFORMAN EL INCISO B), DE LA FRACCIÓN II, DEL ARTÍCULO 19; LAS FRACCIONES XX Y XLVIII, DEL ARTÍCULO 40; LAS FRACCIONES XVII, XXII Y XLII, DEL ARTÍCULO 70; Y LOS PÁRRAFOS PRIMERO Y SEGUNDO, DEL ARTÍCULO 121; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas se tienen como parte de esta Constitución.
+
+TERCERA. Se derogan todas las disposiciones de menor rango jerárquico normativo que contravengan lo dispuesto por el presente Decreto.
