@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-credito-para-los-trabajadores-al-6640"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-04"
-last_updated: "2000-08-23"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-LEY DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO
+LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -217,6 +217,8 @@ Los préstamos Quirografarios y sus intereses los cubrirá el deudor con abonos 
 
 ### CAPITULO IV. DEL GOBIERNO Y LA ADMINISTRACION
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 29.
 
 Transcurrido un año del vencimiento de Préstamos Quirografarios sin que éstos hubiesen sido cubiertos por los deudores, su importe se cubrirá con el Fondo de Reserva Especial, independientemente de que el Instituto proceda a hacer efectivo el adeudo en los términos legales que procedan.
@@ -237,9 +239,9 @@ Sección 3a. DE LOS PRESTAMOS HIPOTECARIOS.
 
 Los Trabajadores con más de tres años de cotización al Instituto, tendrán derecho a préstamos hipotecarios, los que serán otorgados por acuerdo expreso del Consejo Directivo y serán destinados exclusivamente a resolver el problema de la habitación familiar.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-El Instituto podrá contratar, con asesoría de la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado de Morelos, el desarrollo de programas de vivienda que satisfagan la demanda de sus trabajadores.
+El Instituto podrá contratar, con asesoría de las Secretarías de Obras Públicas, y de Desarrollo Sustentable del Poder Ejecutivo del Estado de Morelos, según sea el caso, el desarrollo de Programas de Vivienda que satisfagan la demanda de sus trabajadores.
 
 ###### ARTICULO 33.
 
@@ -315,31 +317,37 @@ En los casos de Trabajadores que se vean impedidos por separación y otras causa
 
 ###### ARTICULO 43.
 
-El Gobierno y la Administración del Instituto estará a cargo de un Consejo Directivo y un Director.
+El Gobierno y la Administración del Instituto, estará a cargo de un Consejo Directivo y un Director.
 
-El Consejo estará integrado por siete Consejeros, de la siguiente manera:
+El Consejo Directivo estará integrado por nueve Consejeros, de la siguiente manera:
 
-a).- Un representante del C. Gobernador del Estado;
+a).- El Gobernador del Estado, quien lo presidirá, por sí o por un representante que designe al efecto;
 
-b).- Un representante de la Secretaría de Finanzas;
+b).- Un representante de la Secretaría de Hacienda;
 
-c).- Un representante de la Secretaría de la Contraloría General;
+c).- Un representante de la Secretaría de la Contraloría;
 
-d).- Un representante de la Secretaría de Programación y Presupuesto;
+d).- Un representante de la Secretaría de Administración;
 
-e).- Un representante de la Oficialía Mayor;
+e).- Un representante Sindical del Poder Ejecutivo del Estado;
 
-f).- Un representante Sindical de cada uno de los tres Poderes del Estado;
+f).- Un representante Sindical del Poder Judicial del Estado;
 
-g).- Un representante de los Poderes Judicial y Legislativo.
+g).- Un representante Sindical del Poder Legislativo del Estado;
+
+h).- Un representante del Poder Judicial; y
+
+i).- Un representante del Poder Legislativo.
 
 ###### ARTICULO 44.
 
 El Director del Instituto tendrá únicamente voz informativa en el Consejo y será designado y removido libremente por el C. Gobernador del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 45.
 
-Los acuerdos se tomarán por mayoría de votos de los miembros del Consejo Directivo que asistan a la Sesión. Para que pueda efectuarse una Sesión será necesario la presencia de cinco de sus miembros, contando al Director del Instituto.
+Los acuerdos se tomarán por mayoría de votos de los miembros del Consejo Directivo que asistan a la Sesión. Para que haya quórum legal para sesionar, será necesaria la presencia de cinco de sus miembros.
 
 ###### ARTICULO 46.
 
@@ -461,7 +469,7 @@ Lic. David Jiménez González
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS EL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE AGOSTO DE 2000.
 
@@ -470,3 +478,13 @@ PRIMERO.- Aprobado que sea el presente Decreto, túrnese al titular del Poder Ej
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 TERCERO.- Los porcentajes previstos en este Decreto, serán aplicables a los créditos hipotecarios que se otorguen a partir del inicio de la vigencia del presente Decreto.
+
+P.O. 28 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
