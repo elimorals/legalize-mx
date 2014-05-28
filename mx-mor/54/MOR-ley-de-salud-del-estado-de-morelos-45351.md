@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2014-03-05"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -73,7 +73,9 @@ A).- Corresponde al Estado en materia de salubridad general:
 
 I.- La atención médica;
 
-II.- La atención a la salud del niño y del adolescente;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+II.- La atención a la salud de la niñez y de la adolescencia;
 
 III.- La salud reproductiva;
 
@@ -269,9 +271,11 @@ Este deberá de regirse por las bases marcadas en el Artículo 20 de la Ley Gene
 
 D.- DEL ORGANISMO PÚBLICO DENOMINADO SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 11.
 
-El organismo público descentralizado, denominado Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, será el organismo rector del Sistema Estatal de Asistencia Social, y que se regirá acorde a las bases marcadas en el Artículo 20 de la Ley General de Salud, así como en las atribuciones y obligaciones que le marca la Ley de Asistencia Social del Estado de Morelos y las que se contemplan en el Título Noveno de esta Ley.
+El Organismo Público Descentralizado, denominado Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, será el Organismo rector del Sistema Estatal de Asistencia Social, el cual se regirá acorde con las bases marcadas en el artículo 20, de la Ley General de Salud, así como en las atribuciones y obligaciones que le marca la Ley de Asistencia Social y Corresponsabilidad Ciudadana para el Estado de Morelos y las que se contemplan en el Título Noveno de esta Ley.
 
 ## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -367,59 +371,51 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE SALUD Y LOS CONSEJOS MUNICIPALES DE SALUD
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 19.
 
-El Consejo Estatal de Salud es el órgano de consulta y propuesta, según lo establece el reglamento que le da origen.
+El Consejo Estatal de Salud, es el Órgano de Consulta y Propuesta, dependiente del Poder Ejecutivo Estatal, cuyo objeto es fungir como una instancia permanente de coordinación del sector público y social para promover y apoyar las acciones en materia de salud en beneficio de la sociedad morelense.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 20.
 
 El Consejo Estatal de Salud se integrará por:
 
-I.- Un Presidente que será El Secretario de Salud del Estado.
+I.- El Gobernador del Estado, quien lo presidirá por sí o por el representante que designe al efecto;
 
-II.- Un Secretario que será el Director de los Servicios de Salud de Morelos.
+II.- La persona Titular de la Secretaría de Salud del Poder Ejecutivo Estatal;
 
-III.- Catorce Vocales que serán:
+III.- La persona Titular de la Dirección General del Organismo Descentralizado Servicios de Salud de Morelos;
 
-Los Directores de cada uno de las Organismos Públicos Descentralizados que pertenecen al sector salud:
+IV.- La persona Titular de la Delegación Estatal del Instituto Mexicano del Seguro Social;
 
-a.- El Director Médico del Hospital del Niño Morelense.
+V.- La persona Titular de la Delegación Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado;
 
-b.- El Director General de la Comisión Estatal de Arbitraje Médico de Morelos.
+VI.- La persona Titular de la Dirección General del Organismo Descentralizado Hospital del Niño Morelense;
 
-c.- El Director del Sistema para el Desarrollo Integral de la Familia.
+VII.- La persona Titular del Organismo Descentralizado Comisión Estatal de Arbitraje Médico, y
 
-d.- El Presidente del Consejo Administrativo de la Beneficencia Pública del Estado.
+VIII.- La persona Titular de la Dirección General del Organismo Descentralizado Sistema para el Desarrollo Integral de la Familia del Estado de Morelos.
 
-e.- El Presidente del Colegio de Médicos Cirujanos del Estado de Morelos.
+Los miembros señalados en las fracciones IV y V en su calidad de autoridades de la Federación, serán invitados en el Consejo, pero contarán con voz y voto.
 
-f.- El Presidente de la Asociación de Clínicas y Hospitales Privados de Morelos.
+A invitación de su Presidente podrán participar con voz aquellas Secretarías, Dependencias o Entidades, así como otros representantes de Instituciones u Organizaciones Nacionales e Internacionales, y de los Sectores Público, Social y Privado, cuyas actividades tengan relación con las funciones del Consejo.
 
-g.- El Delegado Estatal del Instituto Mexicano del Seguro Social.
+El Consejo Estatal de Salud, contará con un Secretario Técnico designado por éste, a propuesta de su Presidente.
 
-h.- El Delegado Estatal del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado.
+El desempeño del cargo en el Consejo será honorífico, en consecuencia, no se percibirá remuneración alguna por el mismo.
 
-Los Presidentes de cada una de las Asociaciones de Morelos de las Especialidades básicas:
+Los integrantes del Consejo, deberán designar suplentes para que los representen en las Sesiones a que fueren convocados, enviando para tal efecto oficio dirigido al Presidente de dicho Cuerpo Colegiado, que contenga la designación de un suplente fijo por un año calendario.
 
-i.- Cirugía General.
-
-j.- Medicina Interna.
-
-k.- Pediatría.
-
-l.- Ginecología y Obstetricia.
-
-m.- El representante de la Academia Mexicana de Cirugía Capítulo Sur.
-
-n.- El Director de la Facultad de Medicina de la Universidad Autónoma del Estado de Morelos.
-
-Contará con un Secretario Técnico que será elegido entre los vocales y que ostentará el cargo durante un año pudiendo reelegirse por una sola ocasión.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 21.
 
-El Consejo Estatal de Salud se reunirá en sesión ordinaria cuando menos una vez cada seis meses y en sesión extraordinaria cuantas veces sea necesario, con la asistencia de la mayoría de sus integrantes. Los acuerdos se tomarán por mayoría de votos; en caso de empate, el Presidente del Consejo, tendrá voto de calidad. El cargo de consejero será honorífico.
+El Consejo Estatal de Salud, sesionará de manera ordinaria por lo menos dos veces al año y de manera extraordinaria cuantas veces sea necesario. Los acuerdos serán tomados por mayoría de votos y, en caso de empate, el Presidente del Consejo tendrá voto de calidad.
 
-El Consejo Estatal de Salud podrá invitar a sus sesiones a los Diputados que conformen la Comisión Legislativa encargada de los asuntos del sector, así como a las personas que para el cumplimiento de sus objetivos se estime conveniente.
+Las Sesiones del Consejo se ajustarán a lo dispuesto por el artículo 82, de la Ley Orgánica de la Administración Pública del Estado de Morelos y, en lo aplicable, por el Acuerdo que establece los Lineamientos para la Convocatoria y Desarrollo de las Sesiones Ordinarias y Extraordinarias de los Órganos de Gobierno Colegiados de la Administración Central y de los Organismos Auxiliares que integran el sector paraestatal del Estado de Morelos; o, en su caso, al ordenamiento legal que regule tales actividades.
 
 ###### Artículo 22.
 
@@ -437,11 +433,35 @@ V.- Fungir como organismo consultivo en materia de salud ante el Ejecutivo Estat
 
 VI.- Promover la coordinación interinstitucional para el desarrollo de bancos de datos, estadísticas e información en salud;
 
-VII.- Procurar el desarrollo prioritario de los programas para la salud, salubridad general, local y Municipal;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+VII.- Procurar el desarrollo prioritario de los Programas para la salud, la seguridad alimentaria, y la salubridad general Local y Municipal;
 
 VIII.- Apoyar la coordinación entre las instituciones de salud y las educativas Estatales y Federales en la formación y capacitación de recursos humanos para la salud, y
 
 IX.- Promover la creación de los Consejos Municipales de Salud.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+Todas estas facultades se ejercerán con respeto a las que le correspondan a la Secretaría de Salud del Poder Ejecutivo Estatal y en coordinación con ésta.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+###### Artículo 22 Bis.
+
+El Consejo Estatal de Salud, para el cumplimiento de sus atribuciones, podrá realizar las siguientes actividades:
+
+I.- Analizar y, en su caso, aprobar el programa anual de trabajo del Consejo;
+
+II.- Aprobar el calendario de Sesiones Ordinarias para el año correspondiente;
+
+III.- Analizar y, en su caso, aprobar dentro de los treinta días siguientes a su recepción, el informe de actividades correspondiente al año anterior;
+
+IV.- Establecer, a propuesta del Presidente del Consejo, Comisiones Estatales, Subcomisiones y Grupos de Trabajo específicos, como instancias auxiliares del Consejo, de carácter permanente o temporal según sus necesidades;
+
+V.- Aprobar, a instancia del Presidente, la propuesta de modificación legal correspondiente para la incorporación al Consejo de nuevos integrantes, y
+
+VI.- Las demás que determinen otras disposiciones legales aplicables.
 
 ###### Artículo 23.
 
@@ -487,7 +507,7 @@ VII.- Las demás atribuciones que establezcan esta Ley y otras disposiciones leg
 
 ###### Artículo 25.
 
-El Ejecutivo Estatal podrá convenir con los Ayuntamientos, la desconcentración o descentralización por parte de estos, de la prestación de los servicios de salubridad general y de salubridad local cuando su desarrollo económico y social lo haga posible, solicitando en su caso la asesoría de la Secretaría de Salud del Gobierno Federal, así como para ejercer aquellas que siendo competencia de los H. Ayuntamientos no pudiesen ejercer por sí mismos.
+El Ejecutivo Estatal podrá convenir con los Ayuntamientos, la desconcentración o descentralización por parte de éstos, de la prestación de los servicios de salubridad general y de salubridad local cuando su desarrollo económico y social lo haga posible, solicitando en su caso la asesoría de la Secretaría de Salud del Gobierno Federal, así como para ejercer aquellas que siendo competencia de los H. Ayuntamientos no pudiesen ejercer por sí mismos.
 
 ###### Artículo 26.
 
@@ -577,7 +597,9 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias, así como los cuidados paliativos indispensables para enfermos con padecimientos crónico-degenerativos o en etapa terminal;
 
-IV.- La atención a la salud del niño;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+IV.- La atención a la salud de la niñez;
 
 V.- La salud reproductiva;
 
@@ -771,31 +793,27 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPÍTULO V. ATENCIÓN A LA SALUD DE LOS MENORES
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 68.
 
 Se reconoce el derecho de los menores al disfrute del más alto nivel posible de salud y servicios para el tratamiento de enfermedades y la rehabilitación de la salud.
 
-La atención a la salud de los menores tiene carácter prioritario, teniendo como objetivo general, mejorar sus actuales niveles de salud mediante la integración y desarrollo de programas de prevención y control de las enfermedades que más frecuentemente pueden afectarlos, comprendiendo las siguientes acciones:
+La atención a la salud de los menores tiene carácter prioritario, teniendo como objetivo general mejorar sus actuales niveles de salud, mediante la integración y desarrollo de Programas de prevención y control de las enfermedades que más frecuentemente pueden afectarlos, comprendiendo las siguientes acciones:
 
-I.- La atención al niño y la vigilancia de su crecimiento y desarrollo;
+I.- La prevención y control de las enfermedades más frecuentes;
 
-II.- Promoción de un esquema básico de vacunación oportuno y gratuito, de cobertura Estatal;
+II.- La educación para su salud;
 
-III.- La promoción de la integración y bienestar familiar;
+III.- Asegurar la prestación de la asistencia médica y la atención sanitaria que sea necesaria a todos los menores, haciendo hincapié en el desarrollo de la atención primaria de salud;
 
-IV.- La prevención y control de las enfermedades más frecuentes;
+IV.- Combatir las enfermedades y mal nutrición en el marco de la atención primaria de la salud, promoviendo la aplicación de tecnologías de fácil acceso y el suministro de alimentos nutritivos adecuados y agua potable salubre, teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente;
 
-V.- La educación para su salud;
+V.- Adoptar las medidas eficaces y apropiadas posibles para abolir las prácticas tradicionales que sean perjudiciales para la salud de los menores;
 
-VI.- Asegurar la prestación de la asistencia médica y la atención sanitaria que sea necesaria a todos los menores, haciendo hincapié en el desarrollo de la atención primaria de salud;
+VI.- La atención de la niñez y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar, y
 
-VII.- Combatir las enfermedades y mal nutrición en el marco de la atención primaria de la salud, promoviendo la aplicación de tecnologías de fácil acceso y el suministro de alimentos nutritivos adecuados y agua potable salubre, teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente;
-
-VIII.- Adoptar las medidas eficaces y apropiadas posibles para abolir las prácticas tradicionales que sean perjudiciales para la salud de los menores; y
-
-IX.- La atención de los problemas en el área de la comunicación humana y de la Psicología en el niño, como grupo prioritario y de alto riesgo;
-
-X.- (DEROGADA, P.O. 5 DE MARZO DE 2014)
+VII.- La atención de los problemas en el área de la comunicación humana y de la psicología de la niñez, como grupo prioritario y de alto riesgo.
 
 ###### Artículo 69.
 
@@ -809,7 +827,7 @@ La protección de la salud física y mental de los menores es una responsabilida
 
 En la organización y operación de los servicios de salud destinados a la atención de los menores, las autoridades sanitarias del Estado, establecerán:
 
-I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los menores;
+I.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
 
 II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la inscripción a programas federales de ayuda alimentaria directa, tendiente a mejorar el estado nutricional de los menores;
 
@@ -823,11 +841,11 @@ V.- Los programas de prevención contra las adicciones a los menores.
 
 Las autoridades sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I.- Los programas para padres, destinados a promover la atención a la salud de los menores;
+I.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
 
-II.- Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+II.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física mental de los menores y de las mujeres embarazadas;
+III.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
 
 IV.- Las acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta;
 
@@ -921,7 +939,7 @@ V.- Las demás que coadyuven a la salud del adulto y del adulto mayor.
 
 ###### Artículo 82.
 
-La Secretaría de Salud de Morelos promoverá la organización institucional de programas de atención a la salud del adulto y del adulto mayor, a efecto de conocer, sistematizar y evaluar el problema de las enfermedades crónico-degenerativas, para adoptar las medidas conducentes.
+La Secretaría de Salud de Morelos promoverá la organización institucional de programas de atención a la salud del adulto y del adulto mayor, a efecto de conocer, sistematizar y evaluar el problema de las enfermedades crónicodegenerativas, para adoptar las medidas conducentes.
 
 ###### Artículo 83.
 
@@ -1015,17 +1033,15 @@ La Secretaría de Educación del Estado en el ámbito de su competencia, coadyuv
 
 Artículo 88 Sexties.- La Secretaría de Salud del Estado podrá auxiliarse para la aplicación de los programas de salud bucodental a que se refiere el presente Capítulo, de los prestadores de servicio social en el Estado.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 28 DE MAYO DE 2014)</small>
 
-### CAPÍTULO XI (SIC). ATENCIÓN MATERNO-INFANTIL
+### CAPÍTULO X. ATENCIÓN MATERNO-INFANTIL
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 88 Septies.
 
-El objetodel (sic) presente Capítulo es la protección materno-infantil y la promoción de la salud maternal, que abarca el período que va del embarazo, parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentran la mujer y el recién nacido.
-
-La protección a la salud física y mental de los menores, es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+El objeto del presente Capítulo, es la protección materno-infantil y la promoción de la salud maternal, que abarca el período que va del embarazo, parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentran la mujer y el recién nacido.
 
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
 
@@ -1341,7 +1357,7 @@ III.- Orientar y capacitar a la población, preferentemente, en materia de nutri
 
 ###### Artículo 111.
 
-Las autoridades sanitarias estatales en coordinación con las autoridades municipales y federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+Las autoridades sanitaria estatales en coordinación con las autoridades municipales y federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
 
@@ -1555,7 +1571,7 @@ III.- Promoverá la participación de los sectores público y privado del Estado
 
 ###### Artículo 127.
 
-Las Autoridades Sanitarias del Estado, elaborarán programas o campañas temporales o permanentes para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de salud general a la población.
+Las Autoridades Sanitarias del Estado elaborarán programas o campañas temporales o permanentes para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de salud general a la población.
 
 Asimismo realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
@@ -1853,7 +1869,9 @@ Las autoridades sanitarias Estatales deberán coordinar la ejecución, del progr
 
 I.- La prevención y el tratamiento de alcoholismo, y en su caso, la rehabilitación del alcohólico;
 
-II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales dirigida a toda la población, y especialmente a niños, adolescentes y mujeres gestantes, a través de métodos individuales, sociales o de comunicación masiva; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales dirigida a toda la población, y especialmente a la niñez, los adolescentes y mujeres gestantes, a través de métodos individuales, sociales o de comunicación masiva; y
 
 III.- El fomento de actividades cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos considerados de alto riesgo.
 
@@ -1969,7 +1987,7 @@ III.- Brindarán la atención médica que se requiera, a las personas que realic
 
 IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de sustancias inhalantes.
 
-A los establecimientos que vendan o utilicen sustancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga el Gobierno Federal, del Estado y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de la presente Ley.
+A los establecimientos que vendan o utilicen sustancias inhalantes con efectos sicotrópicos que no se ajusten al control que disponga el Gobierno Federal, del Estado y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de la presente Ley.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS ESTABLECIMIENTOS DEDICADOS A PROCESO DE ALIMENTOS, BEBIDAS ALCOHÓLICAS Y NO ALCOHÓLICAS
 
@@ -2311,7 +2329,7 @@ El o la cónyuge, el concubinario, la concubina, los descendientes, los ascendie
 
 ###### Artículo 215.
 
-En el Estado de Morelos los cadáveres no pueden ser objeto de propiedad y siempre serán tratados con respeto, dignidad y consideración apegándose estrictamente a lo marcado en el Capítulo V del Título Décimo Cuarto de la Ley General de Salud.
+En el Estado de Morelos lo cadáveres no pueden ser objeto de propiedad y siempre serán tratados con respeto, dignidad y consideración apegándose estrictamente a lo marcado en el Capítulo V del Título Décimo Cuarto de la Ley General de Salud.
 
 ###### Artículo 216.
 
@@ -3813,8 +3831,18 @@ SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo, para los
 
 P.O. 5 DE MARZO DE 2014.
 
-DECRETO NÚMERO 1235, POR EL QUE SE ADICIONAN DOS FRACCIONES PARA SER LA XXIV Y LA XXV, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN QUE ERA XXIV, PARA SER XXVI, EN EL APARTADO A) DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN PARA SER LA XII Y SE RECORREN EN SU ORDEN LAS FRACCIONES QUE ERAN XII Y XIII, PARA SER XIII Y XIV, RESPECTIVAMENTE, EN EL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO XI, DENOMINADO "ATENCIÓN MATERNO-INFANTIL", AL TÍTULO TERCERO DENOMINADO "PRESTACIÓN DE LOS SERVICIOS DE SALUD", CON SIETE ARTÍCULOS PARA SER ARTÍCULO 88 SEPTIES, ARTÍCULO 88 OCTIES, ARTÍCULO 88 NONIES, ARTÍCULO 88 DECIES, ARTÍCULO 88 UNDECIES, ARTÍCULO 88 DUODECIES, Y ARTÍCULO 88 TERDECIES; ASÍ COMO SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 68, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 1235, POR EL QUE SE ADICIONAN DOS FRACCIONES PARA SER LA XXIV Y LA XXV, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN QUE ERA XXIV, PARA SER XXVI, EN EL APARTADO A) DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN PARA SER LA XII Y SE RECORREN EN SU ORDEN LAS FRACCIONES QUE ERAN XII Y XIII, PARA SER XIII Y XIV, RESPECTIVAMENTE, EN EL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO IX DENOMINADO “ATENCIÓN MATERNO-INFANTIL”, AL TÍTULO TERCERO DENOMINADO “PRESTACIÓN DE LOS SERVICIOS DE SALUD”, CON SIETE ARTÍCULOS PARA SER ARTÍCULO 88 SEPTIES, ARTÍCULO 88 OCTIES, ARTÍCULO 88 NONIES, ARTÍCULO 88 DECIES, ARTÍCULO 88 UNDECIES, ARTÍCULO 88 DUODECIES, Y ARTÍCULO 88 TERDECIES; ASÍ COMO SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 68, TODO EN LA LEY DE SALUD DEL ESTADO DE MORELOS.
 
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo para los efectos constitucionales procedentes.
+
+P.O. 28 DE MAYO DE 2014.
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos constitucionales procedentes.
+
+TERCERO. Una vez que entre en vigor el presente Decreto, deberá procederse a instalar el Consejo Estatal de Salud.
+
+CUARTO. El Reglamento Interior del Consejo Estatal de Salud, deberá ser adecuado conforme a las disposiciones del presente Decreto.
