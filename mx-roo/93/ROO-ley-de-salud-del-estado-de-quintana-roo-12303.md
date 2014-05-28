@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2013-09-06"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -743,25 +743,19 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. ATENCION MATERNO-INFANTIL
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 56.
 
-La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+El objeto del presente capítulo es la protección materno-infantil y la promoción de la salud materna, que abarca el período que va del embarazo, parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto.
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+La atención materno-infantil tiene carácter prioritario, motivará al cumplimiento de los derechos reproductivos de la mujer, la no violencia obstétrica y los derechos de la niñez y comprende las siguientes acciones:
 
-I.- La atención integral y tratamiento técnico profesional a la mujer, durante el embarazo, parto, puerperio y lactancia;
+I. La atención integral de la mujer durante el embarazo, el parto y el puerperio;
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, y (sic)
+II. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, y
 
-III.- La promoción de la integración y del bienestar familiar.
-
-ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)
-
-IV. La información a la mujer embarazada, sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna, y
-
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-V. La atención médica de las mujeres embarazadas y de las niñas y los niños que viven con VIH.
+III. La promoción de la integración y del bienestar familiar.
 
 ###### ARTICULO 57.
 
@@ -3678,3 +3672,7 @@ SEGUNDO. El Ejecutivo del Estado, a través de la Secretaría de Salud, expedir�
 TERCERO. El Ejecutivo del Estado, a través de los mecanismos legales correspondientes, deberá constituir el Fondo Estatal de Salud, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor el (sic) presente decreto.
 
 CUARTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 28 DE MAYO DE 2014.
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
