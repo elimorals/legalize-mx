@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2014-03-08"
+last_updated: "2014-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
+> <small>N. DE E. PARA EL CASO DE LAS DISPOSICIONES DEL PRESENTE DECRETO CUYA OBSERVANCIA Y APLICACIÓN ESTÉ CONDICIONADA A LA IMPLEMENTACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO, ÉSTAS ENTRARÁN EN VIGOR EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE AL EFECTO EMITA EL CONGRESO DEL ESTADO PREVIA SOLICITUD CONJUNTA DE LAS AUTORIDADES ENCARGADAS DE LA IMPLEMENTACIÓN DE DICHO SISTEMA, TOMANDO TAMBIÉN EN CONSIDERACIÓN LOS ACUERDOS QUE EMITA EL CONSEJO DE LA JUDICATURA DEL ESTADO DE NAYARIT.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -43,25 +45,41 @@ LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 Artículo 1
 
-La presente ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado de Nayarit.
+La presente Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado de Nayarit, a quien corresponde ejercer las atribuciones que le competen en materia de control constitucional local, en los asuntos de orden electoral, civil, familiar, penal, justicia para adolescentes, extinción de dominio y en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
 
 Artículo 2
 
-Corresponde al Poder Judicial:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+
+Para los efectos del artículo anterior, corresponde al Poder Judicial del Estado:
 
 1. Garantizar la supremacía de la Constitución, en los términos que ésta misma establece, así como la tutela de los derechos en ella contenidos, interpretarla, anular los actos, leyes y normas que la contravengan;
 
-2. Dirimir las controversias del fuero común en el orden civil, familiar, penal, de adolescentes y mercantil en jurisdicción concurrente;
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-3. Resolver los medios de impugnación en materia electoral, en los términos que disponga la ley de la materia; y
+2. Dirimir las controversias del fuero común en el orden civil, familiar, penal, de justicia para adolescentes, mercantil en jurisdicción concurrente y extinción de dominio;
 
-4. Las demás que con base en la Constitución federal, la Constitución local y demás leyes le confieran jurisdicción.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+3. Resolver los medios de impugnación en materia electoral, en los términos que disponga la ley de la materia;
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+4. Dirimir controversias en aquellas materias concurrentes, que la ley le confiera jurisdicción, y
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+5. Las demás que con base en la Constitución federal, la Constitución local y demás leyes le confieran jurisdicción.
 
 Artículo 3
 
-1. Son principios de la función judicial la gratuidad, integralidad, imparcialidad, prontitud, legalidad, honradez, eficiencia, eficacia, independencia, transparencia, impulso procesal, carrera judicial, sanción administrativa, oralidad, formalidad y publicidad, en los términos que dispongan la Constitución y las leyes.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+1. Son principios de la función judicial la excelencia, objetividad, gratuidad, integralidad, imparcialidad, profesionalismo, prontitud, legalidad, honradez, eficiencia, eficacia, independencia, transparencia, impulso procesal, carrera judicial, sanción administrativa, oralidad, formalidad, contradicción, concentración, continuidad, inmediación y publicidad, en los términos que dispongan la Constitución y las leyes.
 
 2. Para tales efectos se privilegiará la calidad en sus procesos operativos, administrativos y contables, así como el uso de recursos tecnológicos.
 
@@ -83,9 +101,13 @@ En los términos que dispongan las leyes, son auxiliares de la administración d
 
 2. Presidentes y síndicos municipales, así como los delegados, comisarios municipales y jueces auxiliares.
 
-3. Servidores públicos de las corporaciones de seguridad pública estatal o municipal.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-4. El titular del área de prevención y readaptación social en el estado así como los servidores públicos adscritos.
+3. Los servidores públicos e integrantes de las corporaciones e instituciones de seguridad pública estatales o municipales.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+4. El titular del área de prevención y reinserción social en el estado así como los servidores públicos adscritos.
 
 5. Directores o encargados del Registro Público de la Propiedad y del Comercio.
 
@@ -109,9 +131,21 @@ En los términos que dispongan las leyes, son auxiliares de la administración d
 
 13. Los demás a quienes las leyes les confieran ese carácter.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 Artículo 6
 
-Los árbitros conocerán de los asuntos que les encomienden los interesados conforme a los términos de los compromisos respectivos y observarán en sus trámites las formas y restricciones que establece la ley, sin que desempeñen por ello función pública.
+En su función de juzgar, los jueces y magistrados deben actuar con independencia de todos los miembros de los otros Poderes del Estado, de toda injerencia que pudiere provenir de los demás integrantes del Poder Judicial y de la ciudadanía en general.
+
+Esta ley, la Constitución federal y local, garantizan la independencia judicial para asegurar la imparcialidad de los jueces, motivo por el cual:
+
+1. Los jueces sólo están sometidos a la Constitución Política de los Estados Unidos Mexicanos, los Tratados que estén de acuerdo con la misma, la Constitución del Estado, y a la presente ley.
+
+2. Por ningún motivo, los otros Poderes del Estado podrán arrogarse el juzgamiento de las causas, ni la reapertura de las terminadas por decisión firme. En ningún caso podrán interferir en el desarrollo del proceso.
+
+3. Todas las autoridades están obligadas a prestar la colaboración que los jueces requieran en el ejercicio de sus funciones y deberán cumplir y hacer cumplir lo dispuesto por estos.
+
+4. En caso de interferencia en el ejercicio de su función, proveniente de otro Poder del Estado, del propio Poder Judicial o de la ciudadanía, el juez deberá informar sobre los hechos que afecten su independencia al Pleno del Tribunal Superior de Justicia del Estado, en cualquier caso éste deberá adoptar las medidas necesarias para que cese la interferencia, independientemente de las sanciones administrativas, civiles, penales y aquéllas previstas en la Constitución Política del Estado, a que la interferencia pudiera dar lugar.
 
 Artículo 7
 
@@ -439,6 +473,10 @@ Corresponde conocer y resolver a las salas de los asuntos siguientes:
 
 5. Emitir las medidas necesarias para el cumplimiento de los principios de la función judicial en las materias de su competencia.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+En materia penal, cuando un juez resuelva un asunto, la Sala correspondiente tendrá que conocer de los recursos que deriven de aquél.
+
 6. Las demás que expresamente les encomiende la ley.
 
 ### CAPÍTULO VI. DE LOS PRESIDENTES DE LAS SALAS
@@ -535,6 +573,14 @@ Artículo 41
 
 Los juzgados de primera instancia funcionarán con un juez y el número de secretarios, actuarios, notificadores y demás servidores judiciales que sean necesarios y que la disponibilidad presupuestal lo permita.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+Artículo 41 Bis
+
+En materia penal, el Poder Judicial contará con Jueces de Control, de Oralidad, de Justicia para adolescentes y de Ejecución.
+
+Asimismo, el Consejo de la Judicatura mediante los instructivos, acuerdos, manuales y demás disposiciones que al efecto emita, regulará lo relativo a los requisitos de ingreso, permanencia, atribuciones y todo lo inherente a la administración de justicia.
+
 ### CAPÍTULO II. DE LA COMPETENCIA
 
 Artículo 42
@@ -624,6 +670,12 @@ Son atribuciones de los jueces de primera instancia:
 Artículo 47
 
 Los juzgados de primera instancia deberán conservar y mantener actualizado el registro de entradas, salidas y estado de los asuntos de cada ramo; entrega y recibo de expedientes y comunicaciones; envío y recepción de expedientes al Archivo General del Poder Judicial; control de promociones diarias y los demás que sean necesarios con el formato autorizado por el Tribunal Superior de Justicia o el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+Artículo 47 Bis
+
+Los juzgados del Estado estarán expeditos para administrar justicia pronta y gratuita dentro de los plazos y los términos que establezcan las leyes, en consecuencia, queda prohibido a los funcionarios y empleados judiciales recibir cualquier ministración en dinero, aunque sea en concepto de gastos, así como gratificaciones, obsequios o contraprestación alguna por las diligencias que practiquen con motivo del ejercicio de su encargo, dentro o fuera de las horas de despacho.
 
 ### CAPÍTULO IV. DE LOS SECRETARIOS DE ACUERDOS
 
@@ -905,7 +957,7 @@ Para el otorgamiento de las licencias y permisos se estará a las siguientes bas
 
 Artículo 77
 
-Al término de un permiso, una licencia o el de su prórroga, deberá el interesado presentarse al día siguiente al desempeño de sus labores. Si no lo hiciera al cuarto día hábil siguiente, sin causa justificada, se tendrá por separado del cargo y se declarará vacante para efectos de nuevo nombramiento.
+Al término de un permiso, una licencia o el de su prórroga, deberá el interesado presentarse al día siguiente al desempeño de sus labores. Si no lo hiciera al cuarto día hábil siguiente, sin causa justificada, si el interesado no se presenta al desempeño de sus labores se tendrá por separado del cargo y se declarará vacante para efectos de nuevo nombramiento.
 
 ## TÍTULO SEXTO. DEL CONSEJO DE LA JUDICATURA
 
@@ -1067,7 +1119,13 @@ Son atribuciones del Consejo de la Judicatura:
 
 45. Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el pleno del Tribunal Superior de Justicia, sin perjuicio de las facultades que correspondan a la Secretaría de Vinculación y Control Jurisdiccional o a la Contraloría del Poder Judicial.
 
-46. Las demás que la ley le encomiende.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+46. Conocer del Recurso de Revisión Administrativa.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+47. Las demás que la ley le encomiende.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1523,19 +1581,17 @@ Artículo 121
 
 La acción disciplinaria y la sanción que corresponda, procede aún en los casos de renuncia o abandono del cargo.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 Artículo 122
 
-1. Serán competentes para conocer de las responsabilidades de los servidores públicos del Poder Judicial, así como para aplicar las sanciones a que se refiere esta ley:
+La Comisión de Disciplina será competente para conocer de las responsabilidades de los servidores públicos del Poder Judicial, así como para aplicar las sanciones a que se refiere esta ley y las demás normas y reglamentos aplicables. Sus decisiones son definitivas e inatacables, salvo los supuestos de procedencia del recurso de revisión administrativa.
 
-a. El Consejo de la Judicatura funcionando en Pleno, por conductas calificadas como graves.
-
-b. El órgano colegiado que determine el Consejo de la Judicatura, en los casos no comprendidos en el punto anterior.
-
-c. El Consejo de la Judicatura podrá señalar, mediante acuerdos, los casos en que la Contraloría Interna sea competente para conocer de los procedimientos de responsabilidad.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 Artículo 123
 
-La acción disciplinaria prescribe en tres años si se tratare de faltas graves y en un año en los demás casos; en ambos supuestos se computará desde el día siguiente a aquél en que se hubiere cometido la falta, o a partir del momento en que hubiese cesado, si fuere de carácter continuo. La iniciación del procedimiento interrumpe la prescripción.
+La acción disciplinaria y los antecedentes de sanción prescriben en tres años si se tratare de faltas graves y en un año en los demás casos. En ambos supuestos se computará desde el día siguiente a aquél en que se hubiere cometido la falta, a partir del momento en que hubiese cesado, si fuere de carácter continuo o en su caso a partir del momento en que se impuso la sanción. La iniciación del procedimiento interrumpe la prescripción.
 
 ### CAPÍTULO II. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
 
@@ -1543,11 +1599,15 @@ Artículo 124
 
 Serán causas de responsabilidad administrativa que atentan contra la función judicial, las siguientes:
 
-1. Incurrir en conductas que atenten contra la independencia de la función judicial.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+1. Incurrir en conductas que atenten contra la independencia de la función Judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier acción que genere o implique subordinación respecto de alguna persona, del Poder Judicial o cualquier otro Poder.
 
 2. Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial del Estado.
 
-3. Conducirse con ineptitud o descuido en el desempeño de las funciones o labores que deban realizar.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+3. Conducirse con notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar.
 
 4. Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legalmente les correspondan.
 
@@ -1573,7 +1633,13 @@ Serán causas de responsabilidad administrativa que atentan contra la función j
 
 15. Retirar de las instalaciones oficiales los expedientes de carácter administrativo, salvo en los casos que exista una instrucción expresa por escrito, del titular de la unidad de adscripción.
 
-16. Las demás que determine la ley.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+16. Incumplir las disposiciones constitucionales y legales en materia de propaganda y de informes de labores o de gestión.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+17. Las demás que determine la ley.
 
 ### CAPÍTULO III. DE LAS SANCIONES
 
@@ -1593,37 +1659,25 @@ Las sanciones aplicables a las faltas administrativas consistirán en:
 
 6. Inhabilitación temporal para desempeñar empleo, cargo o comisión en el servicio público.
 
-Artículo 126
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
 
-Para la aplicación de las sanciones a que se refiere el artículo anterior, se observarán las siguientes reglas:
+Se podrá suspender provisionalmente a un servidor público para el desahogo de la investigación o de la naturaleza propia de la infracción que haya motivado la iniciación del procedimiento disciplinario, sin que esta medida implique una sanción.
 
-1. El apercibimiento consiste en la prevención verbal o escrita que se haga al servidor público, se aplicará por la primera falta cometida, cuando sea (sic) trate de una conducta no grave; de incurrir en nueva falta, se le aplicará alguna de las sanciones previstas en el artículo anterior.
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
 
-2. La amonestación consiste en la reprimenda verbal o escrita que se haga al infractor por falta cometida. La amonestación se aplicará sólo tratándose de la acumulación de dos faltas no graves cometidas en un plazo de treinta días. Después de dos amonestaciones la nueva sanción será de multa que no excederá del haber de cinco días de salario.
+La multa procederá cuando la conducta implique la obtención de un beneficio o daño cuantificable económicamente y este sea ocasionado al justiciable o al Poder Judicial del Estado de Nayarit.
 
-3. La amonestación pública es aquella cuya constancia se remite y agrega al expediente de control de personal del servidor judicial amonestado. La amonestación privada es aquella cuya constancia solo queda en el expediente administrativo de responsabilidad.
+###### Artículo 126.
 
-4. El apercibimiento, la amonestación y la suspensión temporal del empleo, cargo o comisión por un período no menor de tres días ni mayor de un año, serán aplicadas por el superior jerárquico.
-
-5. La suspensión temporal podrá imponerse preventivamente para el desahogo de la investigación o de la naturaleza propia de la infracción que haya motivado la iniciación del procedimiento disciplinario.
-
-6. Entre tanto se substancia el procedimiento disciplinario y una vez suspendido temporalmente al presunto infractor, deberá proveerse a quien en forma interina deberá suplirlo, a menos que durante el tiempo en que se desahoga este procedimiento, hubiese expirado el período para el que fue nombrado el presunto infractor, caso en el que podrá hacerse nombramiento definitivo. Si se declarara improcedente o infundada la queja a la fecha en que ya se hubiese hecho una designación definitiva, se le cubrirán las percepciones que debió recibir durante el tiempo de la suspensión hasta la fecha en que concluya el período para el que hubiera sido nombrado.
-
-7. La destitución consiste en la privación definitiva del cargo, empleo o comisión de los servidores públicos, la que se aplicará en caso de faltas graves, o después de dos sanciones de suspensión.
-
-8. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución del Consejo de la Judicatura.
-
-9. La aplicación de sanciones económicas por beneficios obtenidos o daños y perjuicios causados por incumplimiento de las obligaciones establecidas, se aplicarán dos tantos del lucro obtenido o por los daños y perjuicios ocasionados.
-
-10. Cuando la destitución del cargo, empleo o comisión, afecte a un servidor público de base, se procederá a la terminación de su contrato ante quien corresponda por el Consejo de la Judicatura del Estado.
-
-11. Si los hechos materia de la queja fueren además constitutivos de responsabilidad política o penal, se ordenará ponerlos en conocimiento de la autoridad competente, acompañándole copia autorizada de lo necesario.
+(DEROGADO, P.O. 28 DE MAYO DE 2014)
 
 Artículo 127
 
 1. Para la imposición de las sanciones a que se refiere este apartado, se tomarán en cuenta los criterios previstos en el artículo 60 de la Ley de Responsabilidades de los Servidores Públicos.
 
-2. Se considerarán como faltas graves las previstas en los párrafos 1 al 6 y 13 al 15 del artículo 124 de esta ley, así como las previstas en el artículo 61 con relación al 54 de la Ley de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+2. Se considerarán como faltas graves las previstas en los párrafos 1 al 6 y 13 al 16 del artículo 124 de esta ley, así como las previstas en el artículo 61 con relación al 54 de la Ley de Responsabilidades de los Servidores Públicos.
 
 Artículo 128
 
@@ -1631,17 +1685,17 @@ Las sanciones impuestas se anotarán en la hoja de servicios del servidor públi
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 Artículo 129
 
-1. Para determinar las responsabilidades de los servidores públicos del Poder Judicial del Estado, por faltas previstas en el capítulo II de este título, se procederá de oficio, por queja o denuncia presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el ministerio público.
+1. El procedimiento para determinar las responsabilidades de los servidores públicos del Poder Judicial del Estado de Nayarit se sujetará a lo que enuncia esta ley. En aquellos supuestos no previstos específicamente se aplicará de manera supletoria el Código de Procedimientos Civiles de la entidad.
 
-2. Las denuncias que se formulen deberán hacerse por escrito, bajo protesta de decir verdad y estar suscrita por el denunciante, la que deberá ser ratificada, expresando sus generales; las cuales deberán estar apoyados en pruebas documentales o elementos probatorios suficientes para presumir la existencia de la infracción y la probable responsabilidad del servidor público denunciado.
+2. Su inicio será de oficio, por queja presentada por cualquier persona o por denuncia presentada por el servidor público que tenga conocimiento de los hechos o el ministerio público, en la que se narrarán de manera clara los hechos que la motivaron.
 
-3. Cuando el denunciante omita ofrecer pruebas al presentar el escrito de denuncia, se le prevendrá para que subsane la omisión en un plazo no mayor de tres días contados a partir del momento en que surta efectos la notificación de la prevención.
+3. Las denuncias anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales fehacientes.
 
-4. Las denuncias se interpondrán ante la Secretaría de Acuerdos del Consejo de la Judicatura, la cual dará cuenta al órgano competente de conformidad con esta ley.
-
-5. Si faltare alguno de los requisitos anteriores, la denuncia será desechada de plano. Las quejas anónimas o aquéllas que no sean ratificadas en el término de los cinco días posteriores a su recepción, no producirán efecto alguno.
+4. Las denuncias o quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado, además de guardar debida relación con los hechos denunciados. En caso de no satisfacerse este requisito se desechará de plano.
 
 Artículo 130
 
@@ -1649,29 +1703,21 @@ Artículo 130
 
 2. Incurre en responsabilidad el servidor público que por sí, o por interpósita persona, empleando cualquier medio, impida la presentación de alguna queja, o que con motivo de ésta, realice cualquier acto u omisión que lesione injustamente los intereses de quien la formule.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 Artículo 131
 
-1. La determinación de las responsabilidades a que se refiere este título, se realizará con sujeción al siguiente procedimiento:
+Una vez recibida una queja o denuncia, se turnará a uno de los integrantes de la Comisión de Disciplina a fin de que en ejercicio de sus facultades siga el siguiente procedimiento:
 
-a. En el auto inicial del proceso disciplinario, se señalará el nombre del instructor y se ordenará correr traslado al presunto infractor, con copia de la queja o el acta correspondiente y sus anexos, para que formule un informe por escrito dentro del término de cinco días y rinda las pruebas correspondientes.
+I. Se enviará una copia del escrito de denuncia y sus anexos al servidor público para que, en un término de cinco días hábiles, formule un informe sobre los hechos y rinda las pruebas correspondientes.
 
-b. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia.
+El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del denunciante.
 
-c. Asimismo, el superior jerárquico del presunto infractor deberá rendir un informe circunstanciado sobre el acto o los hechos denunciados, en un término de tres hábiles días, después que surta efectos la notificación.
+II. Recibido el informe, en caso de ser necesario se fijará una audiencia en que de ser posible se desahoguen todas las pruebas ofrecidas.
 
-d. Cuando la falta motivo de la queja fuese no grave, recibido los informes y desahogadas las pruebas, la autoridad competente resolverá dentro de los treinta días hábiles siguientes, sobre la inexistencia de responsabilidad o imponiendo al infractor la sanción administrativa que corresponda y dictará las medidas para su corrección o remedio inmediato, y se notificará la resolución al interesado dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en los párrafos I a 4 del artículo 124 de esta ley.
+III. Una vez desahogadas las pruebas, se turnará el expediente a quien instruyó el procedimiento indicado con antelación, quien presentará a la Comisión de Disciplina un proyecto dentro de los treinta días hábiles siguientes.
 
-e. Cuando se trate de faltas graves, la autoridad competente procederá en los términos del presente artículo y ordenará citar al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga por sí o por medio de un defensor.
-
-f. Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles.
-
-g. Si de los informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias en su caso.
-
-h. En cualquier momento, previo o posteriormente a la recepción del informe o celebración de la audiencia, el Presidente del Tribunal Superior de Justicia, el Consejo de la Judicatura o el órgano que determine éste, según corresponda, podrán determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, siempre que a su juicio así conviene (sic) para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo la suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
-
-2. Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
-
-3. En todo procedimiento se levantará acta circunstanciada de las diligencias que se practiquen, que suscribirán quienes intervengan en ellas, apercibidos de las sanciones en que incurren quienes faltan a la verdad.
+IV. La Comisión de Disciplina resolverá de manera definitiva e inatacable, salvo los supuestos previstos en esta ley.
 
 Artículo 132
 
@@ -1702,6 +1748,32 @@ a. Sanción económica hasta de veinte veces el salario mínimo diario vigente e
 b. Auxilio de la fuerza pública.
 
 2. Si existiere resistencia al mandamiento legítimo de autoridad se estará a lo dispuesto en las prevenciones que establezca la legislación penal.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+Artículo 135 Bis
+
+1. El Pleno del Consejo de la Judicatura conocerá del recurso de revisión administrativa, el cual procederá en contra de las resoluciones dictadas por la Comisión de Disciplina en que se inhabilite, destituya o suspenda por más de 6 seis meses, a un servidor público del poder judicial y tendrá por objeto que se verifique si la resolución fue apegada a la legalidad o no, confirmándola o revocándola.
+
+2. El recurso de revisión administrativa se deberá interponer dentro de los cinco días hábiles siguientes a la fecha en que se le notifique la resolución.
+
+3. El escrito deberá presentarse ante el Presidente del Consejo de la Judicatura y deberá contener por lo menos los siguientes requisitos:
+
+a) Nombre del Recurrente;
+
+b) Domicilio para oír y recibir notificaciones;
+
+c) Expresar los agravios que le causa la resolución, y
+
+d) Hacer constar su firma autógrafa.
+
+4. Una vez que el Presidente del Consejo de la Judicatura reciba el escrito por el que se interpone el recurso de revisión administrativa, verificará si reúne los requisitos formales y de procedencia. En caso de no satisfacer los requisitos desechará de plano.
+
+5. Si el escrito cumple con los requisitos se turnará de inmediato a un integrante del Consejo de la Judicatura distinto a los que conforman la Comisión de Disciplina, el cual en un término legal de diez días hábiles presentará al Consejo de la Judicatura un proyecto de resolución confirmando o revocando la determinación objeto del recurso.
+
+6. El proyecto se votará por mayoría entre los integrantes del Consejo de la Judicatura, con excepción de los miembros de la Comisión de Disciplina, quienes no tendrán derecho a votar. Si el proyecto se aprueba en sus términos, se elevará al grado de sentencia y se notificará al interesado.
+
+7. En caso de no aprobarse, de entre los Consejeros disidentes se designará uno, quien dentro de los diez días hábiles siguientes se encargará de elaborar una sentencia con el carácter de definitiva que se notificará al interesado.
 
 ## TÍTULO NOVENO. DE LA JURISPRUDENCIA
 
@@ -1906,3 +1978,15 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 8 DE MARZO DE 2014.
 
 Artículo único.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE MAYO DE 2014.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, salvo lo dispuesto en los párrafos siguientes:
+
+Para el caso de las disposiciones del presente decreto cuya observancia y aplicación esté condicionada a la implementación del Sistema Procesal Penal Acusatorio, éstas entrarán en vigor en los términos que establezca la Declaratoria que al efecto emita el Congreso del Estado previa solicitud conjunta de las autoridades encargadas de la implementación de dicho sistema, tomando también en consideración los acuerdos que emita el Consejo de la Judicatura del Estado de Nayarit
+
+A partir de la vigencia de esta reforma y hasta los dos años siguientes de la entrada en vigor en todo el Estado del Código Nacional de Procedimientos Penales, el Consejo de la Judicatura del Estado podrá establecer las disposiciones generales para el traslado, designación de funcionarios, nombramiento provisional de jueces de control, integración de Juzgados de Oralidad y redistribución de competencias territoriales, asignación del juzgado de rezagos y creación de órganos que resulten pertinentes. Las decisiones que adopte el Consejo de la Judicatura en virtud de esta norma deberán sustentarse siempre en un mejor servicio público y en la necesidad de instrumentar la aplicación del Código Nacional de Procedimientos Penales.
+
+Con el fin de coadyuvar con el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura en la ejecución, dentro del ámbito competencial del Poder Judicial, de los programas y acciones que faciliten la correcta y eficiente aplicación del Sistema Procesal Penal Acusatorio en el Poder Judicial del Estado, se creará la Dirección para la Implementación del Sistema Procesal Penal Acusatorio con las atribuciones, personal y adscripción que determine el Consejo de la Judicatura mediante acuerdos, lineamientos y demás normatividad que emita sobre la materia.
+
+Segundo. Quedan derogados los preceptos de la legislación estatal que se opongan a las disposiciones de este Ordenamiento.
