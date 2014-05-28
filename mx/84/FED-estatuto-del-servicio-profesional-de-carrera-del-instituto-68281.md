@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2014-02-24"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-24"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -387,15 +387,19 @@ La Evaluación del Desempeño.
 
 Los Servidores Públicos Profesionales de Carrera serán evaluados en su desempeño y en los cursos de capacitación que participen conforme a los términos que determine el Comité, por lo menos una vez cada tres años. Los Servidores Públicos Profesionales de Carrera que no puedan realizar cursos de capacitación por la falta de oferta de cursos vinculados a las funciones y/o necesidades de desarrollo de su puesto o debido a falta de recursos presupuestales para llevarlos a cabo, serán evaluados para efectos de su permanencia en el Sistema, con los otros elementos previstos para tal efecto.
 
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 32.
 
-La evaluación del desempeño de los Servidores Públicos Profesionales de Carrera calificará los aspectos cuantitativos y cualitativos del cumplimiento de sus funciones y metas. Así como por los resultados de su capacitación.
+La evaluación del desempeño de los Servidores Públicos Profesionales de Carrera calificará los aspectos cuantitativos y cualitativos del cumplimiento de sus funciones y, en su caso, de sus metas y de su capacitación.
 
 ###### Artículo 33.
 
 La evaluación del desempeño tiene como principales objetivos, los siguientes:
 
-I. Evaluar a los Servidores Públicos Profesionales de Carrera en el cumplimiento de sus funciones y metas, así como en los resultados de su capacitación;
+> <small>(REFORMADA, D.O.F. 28 DE MAYO DE 2014)</small>
+
+I. Evaluar a los Servidores Públicos Profesionales de Carrera en el cumplimiento de sus funciones y, en su caso, de sus metas y de su capacitación.
 
 II. Determinar, en su caso, el otorgamiento de estímulos al desempeño destacado de los Servidores Públicos Profesionales de Carrera;
 
@@ -489,7 +493,9 @@ Las licencias por motivos académicos con beca sólo podrán otorgarse cuando el
 
 Sólo se podrán autorizar al Servidor Público Profesional de Carrera en términos del Artículo 30 de este Estatuto, por un tiempo igual al que duren sus estudios de especialización.
 
-Las licencias para ocupar otra plaza dentro del Instituto no se autorizarán por un plazo mayor a un año, y se otorgarán siempre y cuando el Servidor Público Profesional de Carrera sea promovido temporalmente al desempeño de otro cargo de mayor jerarquía dentro del Sistema o a cualquier otro en el Instituto que no sea parte del Sistema; en este supuesto deberá reintegrarse a su plaza como Servidor Público Profesional de Carrera en los 15 días naturales siguientes al término del encargo temporal. En ningún caso un servidor público del Instituto podrá tener la titularidad de más de una plaza.
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2014)</small>
+
+Las licencias para ocupar otra plaza dentro del Instituto se autorizarán por un plazo de hasta un año y excepcionalmente hasta por el periodo que sea necesario cuando se trate de desarrollar proyectos con otras Unidades del Estado y/o con otros países u organismos internacionales, y se otorgarán siempre y cuando el Servidor Público Profesional de Carrera sea promovido temporalmente al desempeño de otro cargo de mayor responsabilidad dentro del Sistema o a cualquier otro en el Instituto que no sea parte del Sistema; en este supuesto deberá reintegrarse a su plaza como Servidor Público Profesional de Carrera en los 15 días naturales siguientes al término del encargo temporal. En ningún caso un servidor público del Instituto podrá tener la titularidad de más de una plaza.
 
 Para solicitar una nueva licencia, el Servidor Público Profesional de Carrera deberá laborar por lo menos un periodo igual al otorgado en la licencia inmediata anterior.
 
@@ -756,3 +762,7 @@ D.O.F. 23 DE MAYO DE 2013.
 D.O.F. 24 DE FEBRERO DE 2014.
 
 ÚNICO.- Las reformas al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE MAYO DE 2014.
+
+ÚNICO.- Las modificaciones al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
