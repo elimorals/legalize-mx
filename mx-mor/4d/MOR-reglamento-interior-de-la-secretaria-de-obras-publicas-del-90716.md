@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-obras-publicas-del-9071
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-02"
-last_updated: "2013-01-02"
+last_updated: "2014-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS, PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de enero de 2013.
 
@@ -762,3 +764,19 @@ LA SECRETARIA DE OBRAS PÚBLICAS
 ARQ. PATRICIA IZQUIERDO MEDINA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MAYO DE 2014.
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los diez días hábiles siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Obras Públicas del Poder Ejecutivo del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5054, de fecha 02 de enero de 2013.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Reglamento.
+
+CUARTA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría de Obras Públicas del Poder Ejecutivo Estatal deberá actualizar los Manuales de Organización, y de Políticas y Procedimientos y demás instrumentos administrativos que correspondan.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Obras Públicas del Poder Ejecutivo Estatal, dentro del plazo de diez días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno del Poder Ejecutivo Estatal, la supresión de las unidades administrativas de aquella, sufridos en virtud del presente Reglamento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno del Poder Ejecutivo Estatal, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales administrativos a que haya lugar.
+
+SEXTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Obras Públicas del Poder Ejecutivo Estatal, deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración del Poder Ejecutivo Estatal, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
