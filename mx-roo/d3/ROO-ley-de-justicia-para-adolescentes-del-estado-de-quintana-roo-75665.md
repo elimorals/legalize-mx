@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-para-adolescentes-del-estado-de-quintana-roo-75
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2014-04-21"
+last_updated: "2014-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014 (ABROGADA).
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio del 2010.
 
@@ -3052,3 +3054,19 @@ P.O. 21 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE MAYO DE 2014.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Justicia para Adolescentes del Estado de Quintana Roo publicada en el Periódico Oficial del Estado de fecha 28 de junio de 2010 y se derogan las demás disposiciones que se opongan a la presente ley.
+
+TERCERO. En virtud de la implementación gradual del Sistema de Justicia Penal Acusatorio en la Entidad, conforme a la Declaratoria de que el Sistema Procesal Penal Acusatorio ha sido incorporado en el Estado de Quintana Roo, que para tal efecto emita el Congreso del Estado y se publique en el Periódico Oficial del Estado, las disposiciones de esta ley se aplicarán en las fechas que contendrá la declaratoria señalada.
+
+Conforme a lo dispuesto en el párrafo anterior, los órganos que resulten competentes continuarán conociendo de las denuncias, querellas y sustanciación de los procedimientos de justicia para Adolescentes y ejecución de medidas establecidos en la Ley de Justicia para Adolescentes que se abroga, hasta que entre en vigor el Sistema de Justicia Penal Acusatorio en el Distrito Judicial al que correspondan.
+
+CUARTO. La Ley de Justicia para Adolescentes del Estado de Quintana Roo que se abroga, seguirá rigiendo en lo conducente en los procedimientos iniciados con anterioridad a la nueva Ley de Justicia para Adolescentes del Estado de Quintana Roo y, quedará abrogada en la medida en que aquellos queden concluidos, conforme a la calendarización establecida en la Declaratoria a que hace referencia el artículo tercero transitorio de la presente ley.
+
+QUINTO. La Dirección General de Ejecución de Medidas para Adolescentes deberá realizar las adecuaciones necesarias al Reglamento del Centro de Ejecución de Medidas para Adolescentes a que se refiere esta ley y se deberá emitir dentro de los treinta días naturales siguientes a la entrada en vigor de esta ley.
+
+En tanto no se realicen y emitan dichas adecuaciones al reglamento antes referido se continuará aplicando el vigente.
