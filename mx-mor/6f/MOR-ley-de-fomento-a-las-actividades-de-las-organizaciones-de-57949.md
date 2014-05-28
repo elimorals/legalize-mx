@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-57949
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2014-01-22"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -75,13 +75,21 @@ k) Fomento educativo, cultural, artístico, científico, tecnológico, y agríco
 
 l) Acciones de protección civil;
 
-m) Prestación de servicios y apoyo técnico a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley; y
+m) Prestación de servicios y apoyo técnico a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley; y (sic)
 
 n) Todas aquellas encaminadas al desarrollo y protección de los Derechos sociales;
 
-o) Asistencia Alimentaría, y
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-p) Cooperación para el desarrollo Comunitario y Asistencia Pública.
+o) Asistencia Alimentaria;
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+p) Cooperación para el desarrollo comunitario y asistencia pública; y
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+q) Fomento de la protección y bienestar de los animales.
 
 II. Establecer las atribuciones y deberes de las autoridades estatales y/o municipales, para la aplicación de la presente ley;
 
@@ -325,6 +333,14 @@ VI. Abstenerse de proporcionar la información mencionada en la fracción octava
 
 VII. La falta de justificación o justificación incompleta de los apoyos y estímulos públicos recibidos.
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2014)</small>
+
+VIII. Realizar cualquier tipo de actividades que pudiera generar resultados que impliquen proselitismo político, a favor o en contra, de algún partido o candidato a cargo de elección popular o de índole religioso.
+
+ADICIONADA, P.O. 28 DE MAYO DE 2014)
+
+IX. Realizar actividades de autobeneficio o beneficio mutuo, distribuir remanentes financieros o materiales provenientes de los apoyos o estímulos públicos entre sus integrantes.
+
 ###### Artículo 24.
 
 La Secretaría es el órgano encargado de sustanciar el procedimiento previsto en el Reglamento para aplicar las sanciones establecidas en esta ley, asimismo, se encargará de anotar en el Libro de Gobierno respectivo el registro de las sanciones que imponga la comisión a las organizaciones.
@@ -343,7 +359,7 @@ c) Multa.- Procederá la aplicación de la multa en los casos de reincidencia, l
 
 > <small>(F. DE E., P.O. 6 DE FEBRERO DE 2008)</small>
 
-d) Suspensión.- Procederá la suspensión temporal hasta por un plazo mínimo de seis meses en los casos previstos por las fracciones I, II, VI y VlI del artículo 23 de ésta Ley.
+d) Suspensión.- Procederá la suspensión temporal hasta por un plazo mínimo de seis meses en los casos previstos por las fracciones I, II, VI y VII del artículo 23 de ésta Ley.
 
 e) Cancelación.- Procederá la cancelación definitiva del registro de -la organización ante la Secretaría en los casos de reincidencia de las infracciones previstas por el inciso anterior.
 
@@ -430,6 +446,30 @@ DECRETO NÚMERO 1219, POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 9 DE 
 ###### ARTÍCULO PRIMERO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 28 DE MAYO DE 2014.
+
+DECRETO NÚMERO 1356, POR EL QUE SE REFORMAN LOS INCISOS O) Y P) Y SE ADICIONA UN INCISO Q), TODOS DE LA FRACCIÓN I, EN EL ARTÍCULO 1, DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47, y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 28 DE MAYO DE 2014.
+
+DECRETO NÚMERO 1357, POR EL QUE SE ADICIONAN LAS FRACCIONES VIII Y IX, AL ARTÍCULO 23, DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47, y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ###### ARTÍCULO SEGUNDO.
 
