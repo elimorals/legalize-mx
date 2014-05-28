@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2013-10-30"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -127,7 +127,9 @@ Para su organización administrativa y territorial, los municipios se dividirán
 
 I.- Cabeceras municipales;
 
-II.- Delegaciones municipales, para ciudades y poblaciones más importantes; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+II.- Delegaciones municipales, para ciudades y poblaciones que cuenten con mayor número de población y/o para aquellas que se encuentren asentadas en los lugares que geográficamente permitan el mejor desempeño de sus respectivas atribuciones, y
 
 III.- Juzgados auxiliares, para rancherías y pequeñas comunidades.
 
@@ -3734,3 +3736,7 @@ P.O. 30 DE OCTUBRE DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Tratándose de las fracciones III, V y VI del artículo 106, los Municipios de la entidad deberán realizar las reformas a la reglamentación correspondiente en un plazo no mayor a sesenta días posteriores a la entrada en vigor de la presente reforma.
+
+P.O. 28 DE MAYO DE 2014.
+
+Artículo Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
