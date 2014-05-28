@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-el-regimen-de-condominio-de-inmuebles-para-el-22267"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-02"
-last_updated: "2012-02-01"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE EL RÉGIMEN DE CONDOMINIO DE INMUEBLES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 2 de febrero de 1994.
 
@@ -683,6 +683,28 @@ El condominio de mercados legalmente constituido, sujetará su funcionamiento y 
 
 Los derechos y obligaciones de los condóminos se regirán por las disposiciones del Código Civil, la presente Ley, la Ley de Fraccionamientos, Condominios y Conjuntos Habitacionales y su Reglamento, la Escritura Constitutiva y el Reglamento de Condominio.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2014)</small>
+
+### CAPÍTULO XI. DE LA CULTURA CONDOMINAL
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+###### ARTICULO 54.
+
+Se entiende por cultura condominal, todo aquello que contribuya a generar las acciones y actitudes que permitan, en sana convivencia, el cumplimiento del objetivo del régimen de propiedad en condominio. Entendiéndose como elementos necesarios: el respeto y la tolerancia; la responsabilidad y cumplimiento; la corresponsabilidad y participación; la solidaridad y la aceptación mutua.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+###### ARTICULO 55.
+
+El Ayuntamiento proporcionará a los habitantes y administradores de inmuebles bajo el régimen de propiedad en condominio, en la medida de sus posibilidades, orientación y capacitación, a través de diversos cursos y talleres en materia condominal, en coordinación con los Organismos de vivienda y otras Dependencias e Instituciones Públicas y Privadas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+###### ARTICULO 56.
+
+El Ayuntamiento, de acuerdo a sus posibilidades, coadyuvará y asesorará en la creación y funcionamiento de Asociaciones Civiles, orientadas a la difusión y desarrollo de la cultura condominal, así como a iniciativas ciudadanas relacionadas con ésta.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico "Tierra y Libertad" órgano oficial del Gobierno del Estado.
@@ -730,3 +752,13 @@ TERCERO.- El Ejecutivo del Estado tendrá tres meses, contados a partir de la en
 CUARTO.- Se derogan todas aquellas que contravengan en lo dispuesto al presente decreto.
 
 QUINTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 28 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
