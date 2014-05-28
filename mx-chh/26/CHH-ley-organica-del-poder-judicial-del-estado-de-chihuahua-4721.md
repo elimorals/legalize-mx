@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2013-07-24"
+last_updated: "2014-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -43,15 +43,13 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
 Esta Ley reglamenta la estructura y funcionamiento del Poder Judicial del Estado de Chihuahua.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 2.
 
-Corresponde al Poder Judicial, en el fuero común y dentro del territorio del Estado, en materia civil, familiar, penal y de justicia para adolescentes infractores:
-
-I.- Aplicar las leyes; y,
-
-II.- Resolver las controversias que señala la Constitución Política del Estado.
+En el fuero común y dentro del territorio del Estado, la potestad de aplicar las leyes en las materias civil, familiar, penal, de adolescentes infractores y electoral, corresponde al Poder Judicial, que además estará facultado para resolver las controversias que señala la Constitución Política del Estado.
 
 ###### ARTICULO 3.
 
@@ -59,15 +57,29 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 I.- El Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Los Juzgados de Primera Instancia y los especializados para adolescentes infractores;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+II. El Tribunal Estatal Electoral;
 
-III.- Los Juzgados Menores; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Los Juzgados de Paz.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+III. Los Juzgados de Primera Instancia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+IV. Los Juzgados Menores; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2014)</small>
+
+V. Los Juzgados de Paz.
 
 ###### ARTICULO 4.
 
@@ -167,11 +179,13 @@ X. Los que tengan a su cargo la dirección o coordinación de las dependencias a
 
 XI. Los administradores de los Tribunales del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 17.
 
-Con excepción de los magistrados y jueces, los funcionarios a que alude el artículo precedente serán considerados como empleados de confianza para los efectos de su relación laboral con el Gobierno del Estado y al igual que los que se mencionan en el siguiente artículo, podrán ser removidos libremente por la autoridad que los designó.
+Con excepción de los magistrados y jueces, los funcionarios a que alude el artículo precedente serán considerados como empleados de confianza para los efectos de su relación laboral con el Gobierno del Estado y al igual que los que se mencionan en el siguiente artículo, podrán ser removidos libremente por la autoridad que los designó. Los servidores públicos y empleados del Tribunal Estatal Electoral se regirán conforme a la Ley Electoral del Estado de Chihuahua.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -3542,3 +3556,27 @@ P.O. 24 DE JULIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a las modificaciones contenidas en los Artículos Primero y Segundo del presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Lo dispuesto en los demás Artículos del presente Decreto, surtirá vigencia un día después de que lo haga la reforma constitucional señalada en el Artículo Segundo.
+
+###### ARTÍCULO TERCERO.
+
+Con excepción de lo relativo a su adscripción al Poder Judicial del Estado, el Tribunal Estatal Electoral continuará ejerciendo sus funciones normalmente con la misma integración y atribuciones con que lo ha venido haciendo previo a la aprobación del presente Decreto, por lo que los actuales magistrados continuarán en el ejercicio de sus atribuciones hasta que culmine el tiempo por el que fueron designados.
+
+Los contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, continuarán bajo los mismos términos con los que se celebraron.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos con los que opere el Tribunal Estatal Electoral hasta el momento de la vigencia de las reformas legales incluidas en el presente Decreto, serán transferidos en ese acto como patrimonio del Poder Judicial del Estado, en conjunto con los recursos presupuestales y financieros que la Secretaría de Hacienda le asigne.
+
+###### ARTÍCULO QUINTO.
+
+Los servidores públicos y empleados del Tribunal Estatal Electoral, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral y continuarán con el sistema de seguridad social empleado hasta la entrada en vigor del presente Decreto.
