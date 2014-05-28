@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-hacienda-93056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-06"
-last_updated: "2013-03-06"
+last_updated: "2014-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA, PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 6 de marzo de 2013.
 
@@ -1688,3 +1690,19 @@ LA SECRETARIA DE HACIENDA
 LIC. ADRIANA FLORES GARZA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MAYO DE 2014.
+
+PRIMERA. El presente Reglamento entrará en vigor a los cinco días hábiles siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Hacienda, publicado en el Periódico Oficial "Tierra y Libertad" número 5074, el 06 de marzo de 2013.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Reglamento.
+
+CUARTA. En un plazo no mayor a noventa días hábiles, la Secretaría de Hacienda, deberá emitir o actualizar sus Manuales de Organización, y de Políticas y Procedimientos; y en tanto se realiza dicha modificación serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente ordenamiento. Para estos efectos se atenderá, en los casos aplicables, a los lineamientos que fije la Secretaría de Administración.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Hacienda del Poder Ejecutivo Estatal, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este Decreto, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos Titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SEXTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Hacienda del Poder Ejecutivo Estatal, deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
