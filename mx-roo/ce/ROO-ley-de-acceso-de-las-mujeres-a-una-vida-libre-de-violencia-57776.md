@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2007-11-27"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -115,11 +115,17 @@ III. La violencia patrimonial.- Es cualquier acto u omisión que afecta la super
 
 IV. La violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y
+V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y (sic)
 
 VI. La violencia moral.- Se reputa como tal todo acto u omisión encaminados a la vejación, escarnio y mofa de la víctima que se sienta afectada en su calidad humana y en su moral como persona, cuya finalidad esencial sea exponerla al desprecio de los demás y le impida el buen desarrollo a la integración social.
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+VII. La violencia obstétrica.- Es toda acción u omisión intencional por parte del personal de salud, que dañe, lastime o denigre a la mujer durante el embarazo y parto, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, trayendo consigo pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y sexualidad; considerando como tales, la omisión de la atención oportuna y eficaz de las emergencias obstétricas y practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, sin obtener el consentimiento voluntario, expreso e informado de la mujer; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2014)</small>
+
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA
 
@@ -633,7 +639,9 @@ IV. Establecer programas y servicios profesionales y eficaces, con horario de ve
 
 V. Brindar servicios reeducativos integrales a las víctimas y a los agresores; a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
 
-VI. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+VI. Difundir en las instituciones del Sector Salud, material referente a la prevención y atención de la violencia contra las mujeres; así como a las personas físicas y morales del sector social y privado, que presten servicios de salud previa celebración del Acuerdo o Convenio respectivo;
 
 VII. Canalizar a las víctimas a las instituciones que prestan atención y protección a las mujeres;
 
@@ -657,9 +665,15 @@ d) Los efectos causados por la violencia en las mujeres; y
 
 e) Los recursos erogados en la atención de las víctimas.
 
-XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y (sic)
 
-XIV. Las demás previstas para el cumplimiento de la presente ley.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+XIV. Capacitar y sensibilizar a través de programas a los prestadores de servicios de salud, de los sectores público, social y privado, así como a sus trabajadores, respecto de la violencia obstétrica;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2014)</small>
+
+XV. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### Sección Séptima. De la Procuraduría General de Justicia del Estado
 
@@ -904,3 +918,9 @@ LIC. FÉLlX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTÍZ YELADAQUI
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MAYO DE 2014.
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
