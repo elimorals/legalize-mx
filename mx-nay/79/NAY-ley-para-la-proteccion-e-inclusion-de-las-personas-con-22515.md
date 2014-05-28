@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2006-12-22"
+last_updated: "2014-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY PARA LA PROTECCION E INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT -- ANTES LEY DE DISCAPACITADOS DEL ESTADO DE NAYARIT -- ANTES LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT--
 
-LEY DE DISCAPACITADOS DEL ESTADO DE NAYARIT
+LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -41,17 +41,21 @@ El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XXIV 
 
 D E C R E T A :
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2014)</small>
 
-LEY DE DISCAPACITADOS DEL ESTADO DE NAYARIT
+LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
 ## TITULO PRIMERO. DEL OBJETO DE LA LEY
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 1o.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por finalidad, el establecimiento de medidas y acciones que contribuyan al desarrollo integral de las personas que padecen algún tipo y grado de discapacidad en el Estado de Nayarit
+Las disposiciones de esta Ley son de orden público e interés social y tienen por finalidad, el establecimiento de medidas y acciones que contribuyan a promover, proteger y asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, asegurando su plena inclusión a la sociedad en un marco de respeto, igualdad y equiparación de oportunidades para el desarrollo integral de las personas que padecen algún tipo y grado de discapacidad en el Estado de Nayarit.
+
+Lo anterior de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos; los tratados internacionales en materia de protección de personas con discapacidad de los que el estado mexicano sea parte; la Ley General para la Inclusión de las Personas con Discapacidad y la Constitución Política del Estado Libre y Soberano de Nayarit.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -59,7 +63,9 @@ Las disposiciones de esta Ley son de orden público e interés social y tienen p
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Discapacitado.- Toda persona con capacidad disminuida o limitada para realizar las actividades necesarias en su normal desempaño físico, mental, ocupacional y económico como consecuencia de una insuficiencia somática o psicológica;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+I.- Acceso o Accesibilidad.- Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
 II.- Asistencia Social.- Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
 
@@ -67,13 +73,23 @@ III.- Comunidad de Sordos.- Todo aquel grupo social cuyos miembros tienen como c
 
 IV.- Consejo Estatal.- Consejo Estatal para las Personas con Discapacidad;
 
-V.- Prevención.- La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
 
-VI.- Rehabilitación.- Proceso de duración limitada y con el objeto definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social; y
+V.- Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
 
-VII.- Equiparación de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+VI.- Persona con discapacidad.- Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+VII.- Prevención.- La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales, y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2014)</small>
+
+VIII.- Rehabilitación.- Proceso de duración limitada y con el objeto definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 3o.
 
@@ -87,33 +103,45 @@ El diagnóstico que emita la comisión señalada deberá comprender los diversos
 
 El Gobierno del Estado y los Municipios, prestarán por sí o en coordinación con el gobierno federal, los recursos humanos, técnicos y financieros indispensables para el cumplimiento de los fines y ejercicio de los derechos a que se refiere el artículo 6o. del presente ordenamiento, por lo que deberá contemplarse en el Presupuesto de Egresos del Estado las partidas correspondientes para la aplicación de los programas dirigidos a las personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 5o.
 
-Las instituciones y organismos ejecutores de esta Ley, prestarán atención especial a las instituciones, asociaciones y fundaciones promovidas por los propios discapacitados, sus familiares o sus representantes legales, sin ánimo de lucro, promoviendo políticas públicas basadas en:
+Las instituciones y organismos ejecutores de esta Ley, prestarán atención especial a las instituciones, asociaciones y fundaciones promovidas por las propias personas con discapacidad, sus familiares o sus representantes legales, sin ánimo de lucro, promoviendo políticas públicas basadas en:
 
-a).- La equidad;
+I. La equidad;
 
-b).- La justicia social;
+II. La justicia social;
 
-c).- La equiparación de oportunidades;
+III. La igualdad de oportunidades;
 
-d).- El reconocimiento de la igualdad entre humanos;
+IV. El reconocimiento de la igualdad entre humanos;
 
-e).- La dignidad;
+V. El respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de las personas;
 
-f).- La integración;
+VI. La integración, que incluye la participación e inclusión plenas y efectivas en la sociedad;
 
-g).- El respeto; y
+VII. El respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humanas;
 
-h).- La accesibilidad.
+VIII. La accesibilidad;
 
-### Capítulo II. De los derechos de los discapacitados
+IX. La no discriminación;
+
+X. La igualdad entre mujeres y hombres con discapacidad;
+
+XI. La transversalidad, y
+
+XII. Las demás que resulten aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2014)</small>
+
+### Capítulo II. De los Derechos de las Personas con Discapacidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 6o.
 
-La Ley reconoce y protege en favor de los discapacitados los siguientes derechos:
+La Ley reconoce y protege en favor de las personas con discapacidad los siguientes derechos:
 
 I.- El derecho a un trato digno;
 
@@ -131,9 +159,11 @@ VII.- La facilidad en el acceso a los distintos medios de comunicación y transp
 
 VIII.- Los demás que establezca esta Ley, acuerden o convengan las autoridades competentes y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 7o.
 
-La prestación de servicios a los discapacitados comprenderá:
+La prestación de servicios a las personas con discapacidad comprenderá:
 
 I.- Programas de prevención;
 
@@ -215,9 +245,11 @@ En coordinación con otras instituciones o servicios gubernamentales y la inicia
 
 La rehabilitación médico-funcional dirigida a dotar de las condiciones precisas para su recuperación a aquellas personas que presenten una disminución de su capacidad física, sensorial o psíquica, deberá comenzar de forma inmediata a la detección y al diagnóstico de cualquier tipo de anomalía o deficiencia, debiendo continuarse hasta conseguir el máximo de funcionalidad, así como su conservación.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 13.
 
-Los procesos de rehabilitación se complementarán con la prescripción, adaptación y en su caso suministro de aparatos de prótesis y órtesis, así como de otros elementos auxiliares para los discapacitados cuya condición lo amerite.
+Los procesos de rehabilitación se complementarán con la prescripción, adaptación y en su caso suministro de aparatos de prótesis y órtesis, así como de otros elementos auxiliares para las personas con discapacidad cuya condición lo amerite.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -231,21 +263,29 @@ Los Servicios de Salud de Nayarit y el Sistema para el Desarrollo Integral de la
 
 Las personas con discapacidad en edad escolar se integrarán al sistema educativo general ordinario, asegurándole su acceso, permanencia y progreso en la educación formal. Para estos efectos, las autoridades educativas del Estado incorporarán las innovaciones curriculares que se hagan necesarias para la atención de los diferentes tipos de discapacidad.
 
-Los mayores de edad discapacitados que no hayan cursado o concluido la educación básica, serán incorporados al sistema estatal o nacional de educación para adultos.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+Las personas mayores de edad con discapacidad que no hayan cursado o concluido la educación básica, serán incorporadas al sistema estatal o nacional de educación para adultos.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 16.
 
-La educación especial será impartida a aquellos que les consulte imposible la integración en el sistema educativo ordinario, comprendiendo los diferentes niveles y grados del sistema de enseñanza, particularmente los considerados obligatorios y gratuitos, encaminados a conseguir la mayor integración social del discapacitado.
+La educación especial será impartida a aquellos que les resulte imposible la integración en el sistema educativo ordinario, comprendiendo los diferentes niveles y grados del sistema de enseñanza, particularmente los considerados obligatorios y gratuitos, encaminados a conseguir la mayor integración social de las personas con discapacidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 17.
 
-La educación especial, en cuanto proceso integrador de diferentes actividades, deberá contar con personal especializado a fin de que se garantice la atención que cada discapacitado requiera y tenderá a la consecución de los siguientes objetivos:
+La educación especial, en cuanto proceso integrador de diferentes actividades, deberá contar con personal especializado a fin de que se garantice la atención que cada persona con discapacidad requiera y tenderá a la consecución de los siguientes objetivos:
 
 I.- La superación de las deficiencias y de las consecuencias o secuelas derivadas de aquellas;
 
 II.- El desarrollo de habilidades y aptitudes y la adquisición de conocimientos que le permitan a la persona con discapacidad la mayor autonomía posible;
 
-III.- El fomento y la promoción de todas las potencialidades del discapacitado para el desarrollo armónico de la personalidad;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+III.- El fomento y la promoción de todas las potencialidades de la persona con discapacidad para el desarrollo armónico de su personalidad;
 
 IV.- La incorporación a la vida social y a un sistema de trabajo que permita a la persona con discapacidad autorrealizarse, servirse a sí misma y a la sociedad y;
 
@@ -267,17 +307,21 @@ Las escuelas de educación regular y especial contarán con las condiciones, mat
 
 ### Capítulo III. Orientación y Tratamiento Psicológico
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 21.
 
-La orientación y tratamiento psicológico se prestará durante las distintas etapas del proceso rehabilitador, y estarán encaminadas a lograr la superación de la situación y el más pleno desarrollo de la personalidad del discapacitado.
+La orientación y tratamiento psicológico se prestará durante las distintas etapas del proceso rehabilitador, y estarán encaminadas a lograr la superación de la situación y el más pleno desarrollo de la personalidad de la persona con discapacidad.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 22.
 
-La orientación y tratamiento psicológico tendrán en cuenta las características personales del discapacitado, sus motivaciones e intereses, así como los factores familiares y sociales que puedan condicionarle, y estarán dirigidos a optimizar al máximo el uso de sus capacidades potenciales.
+La orientación y tratamiento psicológico tendrán en cuenta las características personales de la persona con discapacidad, sus motivaciones e intereses, así como los factores familiares y sociales que puedan condicionarle, y estarán dirigidos a optimizar al máximo el uso de sus capacidades potenciales.
 
 ### Capítulo IV. Rehabilitación socioeconómica y laboral, y del empleo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 23.
 
@@ -303,7 +347,7 @@ El Gobierno del Estado y los Ayuntamientos, tanto en su administración centrali
 
 Esta disposición no podrá, en ningún caso, significar creación de empleos ni desplazamiento de trabajadores o servidores públicos ya contratados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 27.
 
@@ -337,15 +381,19 @@ En las dependencias estatales y municipales que se desarrollen programas y accio
 
 El Estado impulsará y fortalecerá, entre las personas con discapacidad, las actividades culturales, recreativas y deportivas como medios para su desarrollo personal e integración social y familiar.
 
-A este efecto, el Estado adoptará las previsiones necesarias para facilitar el acceso de los discapacitados a los centros culturales y recreativos, tales como museos, teatros, cines, bibliotecas públicas, hoteles, playas y estadios deportivos, y fortalecerá su capacidad creadora, artística e intelectual por medio de talleres, cursos y encuentros de carácter regional o nacional.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+A este efecto, el Estado adoptará las previsiones necesarias para facilitar el acceso de las personas con discapacidad a los centros culturales y recreativos, tales como museos, teatros, cines, bibliotecas públicas, hoteles, playas y estadios deportivos, y fortalecerá su capacidad creadora, artística e intelectual por medio de talleres, cursos y encuentros de carácter regional o nacional.
 
 ###### Artículo 33.
 
 Las actividades deportivas se desarrollarán, siempre que sea posible, en las instalaciones y con los medios ordinarios existentes en la comunidad, realizándose por los organismos y autoridades competentes en forma subsidiaria o complementaria la adecuación de instalaciones y servicios específicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 34.
 
-Atención especial se brindará a la formación de asociaciones, clubes, maestros, instructores, programas y escuelas técnicas deportivas especiales para discapacitados; así como a la promoción del uso de lenguaje braille y libro hablado en las bibliotecas públicas de la Entidad.
+Atención (sic) especial se brindará a la formación de asociaciones, clubes, maestros, instructores, programas y escuelas técnicas deportivas especiales para personas con discapacidad; así como a la promoción del uso de lenguaje braille y libro hablado en las bibliotecas públicas de la Entidad.
 
 Igual atención se prestará a la formación de personal capacitado para el establecimiento de la intercomunicación humana con lectura labio-facial, abecedario manual y expresión manual simbólica.
 
@@ -381,9 +429,11 @@ Deberán realizarse las adecuaciones de accesibilidad en los edificios que tenga
 
 Las autoridades competentes del Estado y Municipios en materia de asentamientos humanos aprobarán las normas urbanísticas y arquitectónicas básicas conteniendo las condiciones a que deberán ajustarse los proyectos, el catálogo de edificios a los que serán de aplicación las mismas y el procedimiento de autorización, fiscalización y, en su caso, sanción.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 39.
 
-Las aceras deben permitir en las esquinas o sitios propicios para el cruce de personas, las facilidades para que los discapacitados en sillas de ruedas puedan, en forma independiente y con el máximo de seguridad, descender o ascender de las mismas, por la cual los pavimentos deberán ser resistentes, rugosos y antiderrapantes.
+Las aceras deben permitir en las esquinas o sitios propicios para el cruce de personas, las facilidades para que las personas con discapacidad que utilicen silla de rueda puedan, en forma independiente y con el máximo de seguridad, descender o ascender de las mismas, por la cual los pavimentos deberán ser resistentes, rugosos y antiderrapantes.
 
 ###### Artículo 40.
 
@@ -415,13 +465,15 @@ Fuera de las zonas comerciales a que se refiere el artículo anterior, pero en s
 
 Las autoridades de Tránsito y Transporte del Estado dotarán a las personas con discapacidad que utilicen vehículos de motor, de una placa o calcomanía que contenga el logotipo adoptado internacionalmente, la cual se colocará en lugar visible del vehículo para efectos de identificación.
 
-Los conductores de vehículos automotores, que invadan u ocupen los espacios destinados a discapacitados, serán infraccionados en los términos que dispone esta Ley, dejándose nota en expediente correspondiente para que ésta se duplique en caso de reincidencia.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+Los conductores de vehículos automotores, que invadan u ocupen los espacios destinados a personas con discapacidad, serán infraccionados en los términos que dispone esta Ley, dejándose nota en el expediente correspondiente para que ésta se duplique en caso de reincidencia.
 
 ###### Artículo 46.
 
 Los edificios que tengan escaleras en su acceso desde la vía pública, deberán contar con un sistema de rampas para dar servicio a las personas con discapacidad, instalándose o adecuándose en su caso pasamanos, barandales o elevadores con las características de seguridad y diseño que disponga la autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 47.
 
@@ -435,7 +487,7 @@ Los Ayuntamientos asumirán, en los términos de este ordenamiento y convenios q
 
 ### Capítulo II. Del Servicio Público de Transporte
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 49.
 
@@ -449,15 +501,15 @@ Cuando en las poblaciones o localidades del Estado no existan transportes especi
 
 Estos asientos deberán estar situados cerca de la puerta de acceso del vehículo de que se trate y tendrán un emblema y leyenda para su identificación, pudiendo ser utilizados por los usuarios no discapacitados, siempre y cuando no sean requeridos por alguna persona con discapacidad.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 51.
 
-Las autoridades de Tránsito y Transportes del Estado y los Municipios, contribuirán a garantizar el uso adecuado de las zonas preferenciales o exclusivas para estacionamiento de vehículos de servicio público en los que viajen personas con discapacitados, tanto en la vía pública como en lugares de acceso público, cuidando que no se afecte gravemente el libre tránsito de peatones y vehículos.
+Las autoridades de Tránsito y Transportes del Estado y los Municipios, contribuirán a garantizar el uso adecuado de las zonas preferenciales o exclusivas para estacionamiento de vehículos de servicio público en los que viajen usuarios con personas con discapacidad, tanto en la vía pública como en lugares de acceso público, cuidando que no se afecte gravemente el libre tránsito de peatones y vehículos.
 
 ### Capítulo III. De los programas de educación vial, cortesía urbana y respeto a personas con discapacidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 52.
 
@@ -495,7 +547,9 @@ II.- El Secretario General de Gobierno;
 
 III.- El Secretario de Desarrollo Económico;
 
-IV.- El Secretario de Educación Pública;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+IV.- El Secretario de Educación;
 
 V.- El titular del Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -505,7 +559,9 @@ VII.-El Secretario de Planeación;
 
 VIII.- El Secretario de Salud;
 
-IX.- El Director General del Instituto Nayarita del Deporte y la Juventud;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+IX.- El Director General del Instituto Nayarita de Cultura Física y Deporte;
 
 X.- El Director General de los Servicios de Educación Pública;
 
@@ -521,9 +577,11 @@ Artículo 54 bis.- Podrán participar como miembros del Consejo Estatal seis int
 
 El Consejo Estatal, con la aprobación de la mayoría de sus asistentes, convocará a otras dependencias públicas federales, estatales o municipales, así como a otros organismos privados y sociales, los que tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes, para tratar asuntos de su competencia.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
 ###### Artículo 55.
 
-El Consejo sesionará de manera ordinaria dos veces por año y extraordinariamente tantas veces como se requiera y lo disponga su Presidente.
+El Consejo sesionará de manera ordinaria dos veces por año y extraordinariamente tantas veces como se requiera y lo disponga el Gobernador.
 
 ###### Artículo 56.
 
@@ -533,7 +591,9 @@ I.- Analizar la problemática estatal de las personas con discapacidad;
 
 II.- Formular, presentar o apoyar la elaboración de planes y programas sobre la materia;
 
-III.- Proponer al Titular del Poder Ejecutivo, en el marco del Programa Nacional y Estatal para el Bienestar y la Incorporación al desarrollo de las personas con discapacidad, la celebración de acuerdos de coordinación con la federación, los particulares y los municipios para hacer efectivos los derechos que esta Ley establece a favor de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+III.- Proponer al Titular del Poder Ejecutivo, en el marco de los Programas Nacional y Estatal para el Desarrollo y la Inclusión de las Personas con Discapacidad, la celebración de acuerdos de coordinación con la federación, los particulares y los municipios para hacer efectivos los derechos que esta Ley establece a favor de las personas con discapacidad;
 
 IV.- Vigilar y supervisar el estricto cumplimiento de las disposiciones de esta ley, por la autoridades encargadas de su aplicación;
 
@@ -543,9 +603,17 @@ VI.- Impulsar la investigación científica y desarrollo tecnológico sobre la d
 
 VII.- Proponer al Titular del Poder Ejecutivo y a los Ayuntamientos la modificación, reformas y adiciones del marco jurídico en materia de discapacidad;
 
-VIII.- Organizar y participar en eventos y foros de discusión y análisis relativos a la problemática de los discapacitados; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
 
-IX.- Los demás que sean necesarias para la consecución de los fines de su creación.
+VIII.- Organizar y participar en eventos y foros de discusión y análisis relativos a la problemática de las personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2014)</small>
+
+IX.- Presentar un informe anual de actividades al Gobernador del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 2014)</small>
+
+X.- Las demás que sean necesarias para la consecución de los fines de su creación.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -555,9 +623,19 @@ IX.- Los demás que sean necesarias para la consecución de los fines de su crea
 
 Artículo 56 bis.- El Consejo Consultivo es un órgano de asesoría y consulta, de carácter honorífico, que tendrá por objeto proponer y opinar sobre los programas o acciones que se emprendan a favor de las personas con discapacidad, así como recabar propuestas y presentarlas al Consejo Estatal.
 
-El Consejo Consultivo estará integrado por representantes de las organizaciones de discapacitados, que participarán en calidad de consejeros de acuerdo con la convocatoria pública que para estos efectos emitirá el Consejo Estatal.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO II], P.O. 22 DE DICIEMBRE DE 2006)</small>
+El Consejo Consultivo estará integrado por representantes de las organizaciones de personas con discapacidad, que participarán en calidad de consejeros de acuerdo con la convocatoria pública que para estos efectos emitirá el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+De igual manera el Consejo Consultivo se integrará por el Presidente de la Comisión de Asuntos Migratorios, Gestoría Social y Grupos Vulnerables del Congreso del Estado y el Presidente de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+
+El Consejo Consultivo será presidido por un representante electo de entre sus miembros.
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO II], P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ### Capítulo III. Del Cuerpo de Procuradores y de los Comités Municipales de Personas con Discapacidad
 
@@ -565,21 +643,27 @@ El Consejo Consultivo estará integrado por representantes de las organizaciones
 
 Con la finalidad de que las personas con discapacidad, sus familiares o las organizaciones constituidas por ellos puedan realizar los trámites administrativos y ejercicio de los derechos que esta Ley contempla, el Sistema Estatal para el desarrollo Integral de la Familia integrará un cuerpo de procuradores que asista, oriente y defienda a las personas con discapacidad, sin perjuicio de los derechos de asistencia que otros ordenamientos establecen.
 
-Dicho cuerpo de procuradores dependerá y será acreditado por el Titular del Sistema en el número que acuerde el Consejo Estatal, entre los que deberán figurar de manera preferente, profesionistas discapacitados en cualquier ramo de especialidad.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+
+Dicho cuerpo de procuradores dependerá y será acreditado por el Titular del Sistema en el número que acuerde el Consejo Estatal, entre los que deberán figurar de manera preferente, profesionistas con discapacidad en cualquier ramo de especialidad.
 
 ###### Artículo 58.
 
 En cada Municipio del Estado se establecerá y organizará un Comité de personas con Discapacidad como instancia de recepción de necesidades y órgano de apoyo y consulta de la autoridad municipal.
 
-En dichos Comités, además de la representación de los discapacitados deberán figurar los sectores social y privado, el Sistema Municipal para el Desarrollo Integral de la Familia correspondiente y el Presidente Municipal, quien presidirá y coordinará las actividades del Comité respectivo.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO III], P.O. 22 DE DICIEMBRE DE 2006)</small>
+En dichos Comités, además de la representación de las personas con discapacidad deberán figurar los sectores social y privado, el Sistema Municipal para el Desarrollo Integral de la Familia correspondiente y el Presidente Municipal, quien presidirá y coordinará las actividades del Comité respectivo.
 
-### Capítulo IV. De los Discapacitados de Custodia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2014)</small>
+
+### Capítulo IV. De las Personas con Discapacidad de Custodia
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 ###### Artículo 59.
 
-Son discapacitados de Custodia, aquellas personas que por secuelas irreversibles de un padecimiento vascular-cerebral, degenerativo o similares, se encuentra incapacitado para realizar sus actividades básicas cotidianas, tales como comunicarse, alimentarse y desplazarse voluntariamente, dependiendo necesariamente de la ayuda de otra persona para subsistir
+Son personas con discapacidad de custodia, aquellas personas que por secuelas irreversibles de un padecimiento vascular-cerebral, degenerativo o similares, se encuentra incapacitado para realizar sus actividades básicas cotidianas, tales como comunicarse, alimentarse y desplazarse voluntariamente, dependiendo necesariamente de la ayuda de otra persona para subsistir.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -591,11 +675,11 @@ Es obligación de las instituciones de salud, públicas y privadas, informar al 
 
 Recibido el aviso a que se refiere el artículo anterior, la Titular del Sistema Estatal para el Desarrollo Integral de la Familia, dictará las medidas de evaluación y seguimiento correspondientes con la participación de los especialistas del Centro de Rehabilitación y Educación Especial, prestando además la asesoría jurídica conducente a su tutela y curatela en los casos y términos previstos por el Código Civil.
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO IV], P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO IV], P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ### Capítulo V. Del Registro Estatal de Personas con Discapacidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 62.
 
@@ -603,7 +687,9 @@ El Consejo Estatal llevará el Registro de Personas con discapacidad, donde se a
 
 Dicho Registro contendrá, por lo menos, la información siguiente:
 
-I.- Nombre, domicilio, edad, estado civil, sexo, grado de escolaridad y ocupación del discapacitado, y en su caso, dependencia económica o personas que de él dependen;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+
+I.- Nombre, domicilio, edad, estado civil, sexo, grado de escolaridad y ocupación de la persona con discapacidad, y en su caso, dependencia económica o personas que de él dependen;
 
 II.- Tipo y grado de discapacidad que presenta y si ésta es temporal o permanente;
 
@@ -669,7 +755,7 @@ Son autoridades competentes para conocer y resolver acerca de las infracciones q
 
 Al Servidor Público del Estado o municipios que sin fundamento alguno niegue a una persona con discapacidad el acceso a los servicios, o no cumpla dentro del ámbito de su competencia con las obligaciones que esta ley les impone, será sancionado, según sea la culpa, en los términos y bajo los procedimientos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 70.
 
@@ -721,7 +807,7 @@ Dip. Secretario
 
 Lorenzo del Toro Vargas
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE AGOSTO DE 2002
 
@@ -768,3 +854,7 @@ P.O. 22 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 28 DE MAYO DE 2014.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
