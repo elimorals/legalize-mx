@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-04-03"
+last_updated: "2014-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -629,6 +629,8 @@ Este organismo se integrará con representantes de las instituciones públicas q
 
 (NOTA: EL 22 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 40/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
+> <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
+
 ###### ARTICULO 24.
 
 El Estado, los organismos públicos descentralizados y los ayuntamientos, para el ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan; deberán apegarse a lo dispuesto por el capítulo X de la presente Ley y observar lo establecido en la Ley General Docente, respetando en todo momento los derechos adquiridos de los trabajadores de la educación y reconociendo los acuerdos alcanzados a través de contratos colectivos, convenios, minutas y acuerdos celebrados por éste a través de las instancias respectivas y su Organización Sindical, que estipulan beneficios laborales, profesionales, salariales y sociales.
@@ -820,6 +822,14 @@ Los planes y programas que determine la Secretaria de Educación Pública, así 
 ###### ARTICULO 39.
 
 Los planes y programas que conforme a la Ley General y a la presente ley, correspondan al Gobierno del Estado, se elaborarán de acuerdo a las finalidades establecidas por los ordenamientos expresados con antelación.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2014)</small>
+
+###### ARTICULO 39 Bis.
+
+El Estado, a través de la Secretaría de Educación y Cultura, implementará programas de ecología en la educación básica, con la finalidad de crear conciencia de la necesidad de mejorar el ambiente, preservar el equilibrio ecológico, hacer un aprovechamiento racional de los recursos naturales y promover la cultura de la reforestación, mediante cursos, foros, programas y talleres de educación ambiental en los planteles educativos.
+
+Asimismo, inculcará conceptos y principios fundamentales para la prevención del cambio climático, así como elementos básicos de protección civil, adaptación y mitigación, ante los efectos adversos que representa el cambio climático y otros fenómenos naturales.
 
 > <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -2366,3 +2376,9 @@ A LA ENTRADA, EN VIGOR DE LA PRESENTE LEY, SE MANTENDRÁN VIGENTES TODOS LOS CON
 ###### ARTÍCULO SÉPTIMO.
 
 EL PERSONAL QUE A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO SE ENCUENTRE EN SERVICIO Y CUENTE CON NOMBRAMIENTO DEFINITIVO, CON FUNCIONES DE DOCENCIA, DE DIRECCIÓN O DE SUPERVISIÓN EN LA EDUCACIÓN BÁSICA O MEDIA SUPERIOR, IMPARTIDA POR EL ESTADO Y SUS ORGANISMOS DESCENTRALIZADOS, SE AJUSTARÁ A LOS PROCESOS DE EVALUACIÓN Y A LOS PROGRAMAS DE REGULARIZACIÓN A QUE SE REFIERE EL TÍTULO SEGUNDO, CAPÍTULO VIII DE LA LEY GENERAL DOCENTE. EL PERSONAL SEÑALADO EN ESTE ARTÍCULO QUE NO ALCANCE UN RESULTADO SUFICIENTE EN LA TERCERA EVALUACIÓN A QUE SE REFIERE EL ARTÍCULO 53 DE LA LEY GENERAL DOCENTE, NO SERÁ SEPARADO DE LA FUNCIÓN PÚBLICA Y SERÁ READSCRITO PARA CONTINUAR EN OTRAS TAREAS DENTRO DE DICHO SERVICIO, CONFORME A LO DISPUESTO POR EL ARTÍCULO 80 BIS 33 DE ESTE DECRETO.
+
+B.O. 29 DE MAYO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
