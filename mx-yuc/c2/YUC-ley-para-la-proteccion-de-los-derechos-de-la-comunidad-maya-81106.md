@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-la-comunidad-maya-811
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2011-05-03"
+last_updated: "2014-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LA COMUNIDAD MAYA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE MAYO DE 2014.
 
 Ley publicada en el suplemento del Diario Oficial del Estado de Yucatán, el martes 3 de mayo de 2011.
 
@@ -281,79 +281,61 @@ VII.- Acceso a la justicia, y
 
 VIII.- Los demás que se relacionen con preservación de la Cultura Maya.
 
-## TÍTULO QUINTO. JUSTICIA MAYA
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+## TÍTULO QUINTO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)</small>
+
+### CAPÍTULO I
 
 ###### Artículo 23.
 
-La Justicia Maya será impartida por los Jueces Mayas designados por la Comunidad Maya, y realizarán la función de encontrar la mejor solución de controversias que surjan entre los habitantes de la comunidad donde residan, de acuerdo a sus propios usos, costumbres y tradiciones.
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
 ###### Artículo 24.
 
-La impartición de la Justicia Maya estará a cargo de los jueces mayas, quienes resolverán los asuntos que se les presenten, sin contravenir a la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado y en las leyes y demás disposiciones reglamentarias que de ellas deriven, y con pleno respeto de los derechos de las partes en conflicto y de terceros, en su caso.
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
 ###### Artículo 25.
 
-Los jueces mayas solo tendrán competencia en el ámbito territorial de la Comunidad Maya que los designó.
-
-La Justicia Maya que apliquen los jueces mayas es optativa y alternativa a la vía jurisdiccional ordinaria del orden común, la cual se mantendrá expedita para los indígenas mayas que así lo determinen.
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
 ###### Artículo 26.
 
-La Justicia Maya a que se refiere esta Ley y su Reglamento, será aplicable a hechos que versen acerca de asuntos que puedan ser objeto de transacción entre particulares y, por excepción:
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
-I.- Las conductas señaladas como infracciones por leyes administrativas, y
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)</small>
 
-II.- Las conductas previstas como delitos, en la legislación penal aplicable en el Estado respecto de las cuales proceda el perdón del ofendido o éste manifieste desinterés jurídico en cuanto a la prosecución del procedimiento, y no se afecten la moral, los derechos de terceros, ni se contravengan disposiciones de orden público, o se trate de derechos irrenunciables.
-
-En los casos señalados en la fracción II de este artículo, el Juez Maya deberá asegurarse de que se repare el daño ocasionado a la parte afectada de conformidad con el Reglamento de la presente Ley.
-
-### CAPÍTULO II. De los requisitos para ser Juez Maya
+### CAPÍTULO II
 
 ###### Artículo 27.
 
-Para ser Juez Maya se requiere:
-
-I.- Tener la nacionalidad mexicana y tener la calidad de ciudadano Yucateco;
-
-II.- Estar en ejercicio de sus derechos civiles y políticos;
-
-III.- Conocer los usos, costumbres y tradiciones de la Comunidad Maya;
-
-IV.- Tener como mínimo treinta años de edad;
-
-V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal, y
-
-VI.- Ser hablante de la Lengua Maya.
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
 ###### Artículo 28.
 
-Las comunidades mayas con base en su autonomía reconocida por la Constitución Política de los Estados Unidos Mexicanos, designara a los jueces mayas en la forma y términos que determinen, para lo cual, de estimarlo necesario, podrán solicitar apoyo técnico al Ayuntamiento correspondiente o al Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
-### CAPÍTULO III. Del Procedimiento
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)</small>
+
+### CAPÍTULO III
 
 ###### Artículo 29.
 
-El procedimiento a seguir por los jueces mayas para la resolución de los asuntos que les presenten, se llevará a cabo de conformidad con los usos, tradiciones y costumbres de la Comunidad Maya, con la única limitante de que durante el mismo, deberán conducirse con pleno respeto a las garantías individuales y derechos previstos en la Constitución Política de los Estados Unidos Mexicanos, en la propia del Estado y en las leyes y demás disposiciones reglamentarias que de ellas deriven.
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
 ###### Artículo 30.
 
-Cuando antes del inicio del procedimiento o durante el mismo, ambas partes o alguna de ellas no acepte someterse a la jurisdicción del Juez Maya de su comunidad, el asunto podrá ser atendido por los jueces de primera instancia, en los términos que establecen las leyes aplicables.
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
 ###### Artículo 31.
 
-Si la parte afectada no está de acuerdo con la resolución que emita el Juez Maya, podrá:
-
-I.- Acudir a la autoridad municipal o estatal, según corresponda, para plantear el asunto en cuestión, o
-
-II.- Presentar la querella o denuncia correspondiente ante la autoridad ministerial competente.
-
-En ambos casos, a petición de la parte afectada y según corresponda, la autoridad municipal o el Instituto, deberán prestarle el apoyo necesario para los fines previstos en esta Ley y su Reglamento.
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
 ###### Artículo 32.
 
-Los servicios de impartición de Justicia Maya que presten los Jueces Mayas, estarán sujetos a la forma compensatoria que determine la Comunidad Maya.
+(DEROGADO POR ARTÍCULO TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE JUSTICIA MAYA DEL ESTADO DE YUCATÁN, D.O. 29 DE MAYO DE 2014)
 
 T R A N S I T O R I O S:
 
@@ -365,9 +347,11 @@ Esta Ley entrará en vigor el 1 de enero de 2012, previa su publicación en el D
 
 El Titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de esta Ley, mismo que deberá entrar en vigor el 1 de enero de 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 29 DE MAYO DE 2014)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán, a partir de la entrada en vigor de esta Ley, deberá implementar en un plazo no mayor de 180 días naturales, un programa que contenga los lineamientos, objetivos y metas para la elaboración del diagnóstico integral de los municipios donde existan comunidades mayas y en los cuales se implementaran y operaran las acciones de gobierno establecidas en esta Ley y su Reglamento.
+El Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán realizará las gestiones necesarias para integrar el Registro Estatal de Comunidades Mayas de Yucatán, el cual incluirá un diagnóstico integral de los municipios donde existan comunidades mayas, en los cuales se implementarán y operarán las acciones de gobierno establecidas en esta Ley y su Reglamento.
 
 ###### ARTÍCULO CUARTO.
 
@@ -398,3 +382,15 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 29 DE MAYO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación de otras disposiciones
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este decreto.
