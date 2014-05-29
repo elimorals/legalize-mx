@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2013-11-08"
+last_updated: "2014-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -711,7 +711,9 @@ El Consejo conocerá los resultados de las evaluaciones y Auditorías que remita
 
 Las zonas de atención para efecto de implementar los programas de desarrollo social y humano en el Estado, se clasifican en tres tipos:
 
-I. Zonas de atención prioritaria. Son áreas o regiones de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en los Tratados Internacionales, en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Oaxaca y en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2014)</small>
+
+I. Zonas de atención prioritaria. Son áreas o regiones de carácter predominantemente rural o urbano, cuya población registre cualquiera de los siguientes índices: pobreza y/o marginación, elevada intensidad migratoria o indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en los Tratados Internacionales, en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Oaxaca y en los términos de esta Ley;
 
 II. Zonas de atención inmediata. Son áreas o regiones de carácter· predominantemente rural o urbano, que además de las condiciones antes señaladas, presenten conflictos sociales, agrarios o de otra índole que requiere atención urgente a través de los programas de desarrollo social y humano previsto en esta Ley; y
 
@@ -1480,3 +1482,7 @@ P.O. 8 DE NOVIEMBRE DE 2013.
 PRIMERO. EI presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 29 DE MAYO DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
