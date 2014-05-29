@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -1897,9 +1897,9 @@ Serán de carácter gratuito el empadronamiento, traspaso, cambio de actividades
 
 En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión o sucesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2014)</small>
 
-Por el cambio de domicilio, tratándose de licencias para la venta al copeo permanente pagarán doscientos cincuenta salarios mínimos y tratándose de licencias para la venta en botella cerrada se pagarán ciento cincuenta salarios mínimos.
+Por el cambio de domicilio, tratándose de licencias para la venta y suministro de bebidas alcohólicas, para consumo inmediato pagarán doscientos cincuenta salarios mínimos; y tratándose de licencias para la venta en botella cerrada se pagarán ciento cincuenta salarios mínimos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2485,7 +2485,7 @@ VII. Por el análisis y la contestación de solicitud de exención, exclusión o
 
 Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en salarios mínimos:
 
-I. Por la recepción y evaluación de solicitud de permiso, 32, y (sic)
+I. Por la recepción y evaluación de solicitud de permiso, 32, y
 
 II. Actualización del permiso de operación, 20.
 
@@ -2529,7 +2529,7 @@ III. Instalación y operación de sistemas de acopio y almacenamiento de residuo
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-IV. Instalación y operación de sistemas de reciclaje, utilización, reutilización y tratamiento de residuos industriales no peligrosos de manejo especial, 40, y (sic)
+IV. Instalación y operación de sistemas de reciclaje, utilización, reutilización y tratamiento de residuos industriales no peligrosos de manejo especial, 40, y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3280,3 +3280,9 @@ P.O. 31 DE DICIEMBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor un día después al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que sean contrarias a lo dispuesto por el presente decreto.
+
+P.O. 29 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
