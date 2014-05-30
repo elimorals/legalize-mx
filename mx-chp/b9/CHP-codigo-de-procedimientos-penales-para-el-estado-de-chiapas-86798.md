@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-para-el-estado-de-chiapas-8679
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-09"
-last_updated: "2014-05-15"
+last_updated: "2014-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS
 
 N. DE E EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 147 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, Y P.O. DE 17 DE MAYO DE 2012, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 9 de febrero de 2012.
 
@@ -345,7 +345,7 @@ La inobservancia de las reglas sobre competencia sólo producirá la ineficacia 
 
 Efectos
 
-Las cuestiones de competencia no suspenderán el proceso. No obstante, si se producen antes de fijar la fecha de audiencia de juicio, lo suspenderán hasta la resolución del conflicto. En ambos casos, conocerá del proceso el órgano jurisdiccional que planteó el conflicto hasta tanto (sic) no se pronuncie el Tribunal Constitucional.
+Las cuestiones de competencia no suspenderán el proceso. No obstante, si se producen antes de fijar la fecha de audiencia de juicio, lo suspenderán hasta la resolución del conflicto. En ambos casos, conocerá del proceso el órgano jurisdiccional que planteó el conflicto hasta tanto no se pronuncie el Tribunal Constitucional.
 
 ### Capítulo III. Conexidad
 
@@ -1414,6 +1414,10 @@ d) Vigilar que los oficiales de investigación y, cuando corresponda, la policí
 e) Solicitar la reparación del daño a cargo del imputado o, de los terceros civilmente responsables, en los casos que resulte procedente.
 
 f) Proteger a la víctima, ofendidos y testigos de la acción ilícita y las consecuencias del hecho punible y facilitar las actuaciones procesales de la víctima.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2014)</small>
+
+g) Realizar las indagatorias necesarias para integrar un historial de violencia conformado por la existencia de datos, testimoniales o cualquier otro elemento que acrediten la ejecución de actos violentos basados por género, que le cause daño o sufrimiento psicológico, físico, patrimonial; económico o sexual a la víctima u ofendido.
 
 ###### Artículo 134.
 
@@ -4187,7 +4191,9 @@ b) El nombre y el domicilio del tercero civilmente responsable, si lo hubiere y 
 
 c) La relación clara, precisa, circunstanciada y específica de los hechos atribuidos, en modo y lugar y su calificación jurídica;
 
-d) La relación de las circunstancias modificatorias de la responsabilidad penal que concurrieren, aun subsidiariamente de la petición principal;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
+
+d) La relación de las circunstancias modificatorias de la responsabilidad penal que concurrieren, aun subsidiariamente de la petición principal; cuando se trate de los delitos de lesiones u homicidio y existan indicios de que éstos se cometieron por motivos de género, el Ministerio Público incluirá el historial de violencia de conformidad con el artículo 133 inciso g) de este Código.
 
 e) La participación que se atribuye al acusado;
 
@@ -4273,7 +4279,7 @@ b) Litispendencia;
 
 c) Cosa juzgada;
 
-d) Falta de autorización para proceder penalmente, cuando la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado o la ley lo exijan; y, (sic)
+d) Falta de autorización para proceder penalmente, cuando la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado o la ley lo exijan; y,
 
 e) Extinción de la acción penal.
 
@@ -5243,7 +5249,7 @@ El juez de juicio oral convocará a la audiencia conforme a lo establecido por e
 
 Responsabilidad de los altos funcionarios del estado
 
-Cuando se exija responsabilidad a los altos funcionarios del estado, a que se refiere el artículo 82 de la Constitución, se observará el procedimiento prevenido en el Título Décimo Segundo de la misma Constitución y en los capítulos II y II (SIC) de la Ley de Responsabilidades de Servidores Públicos.
+Cuando se exija responsabilidad a los altos funcionarios del estado, a que se refiere el artículo 82 de la Constitución, se observará el procedimiento prevenido en el Título Décimo Segundo de la misma Constitución y en los capítulos II y II (sic) de la Ley de Responsabilidades de Servidores Públicos.
 
 ###### Artículo 469.
 
@@ -6184,3 +6190,7 @@ P.O. 15 DE MAYO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 30 DE MAYO DE 2014.
+
+Artículo Único.-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
