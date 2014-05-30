@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-medio-ambiente-del-9346
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-22"
-last_updated: "2013-03-22"
+last_updated: "2014-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de marzo de 2013.
 
@@ -51,7 +51,9 @@ a) Dirección General de Control Ambiental.
 
 II. Subsecretaría de Recursos Naturales.
 
-a) Dirección de Mejoramiento Ambiental.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
+
+a) Dirección de Recursos Forestales, Vida Silvestre y Mejoramiento Ambiental.
 
 b) Dirección de Cultura Ambiental.
 
@@ -63,7 +65,9 @@ IV. Dirección Administrativa.
 
 V. Dirección Jurídica.
 
-VI. Dirección Región Laguna.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+VI. Coordinación de la Región Laguna.
 
 VII. Procuraduría de Protección al Ambiente del Estado de Coahuila.
 
@@ -181,7 +185,9 @@ XLII. Imponer a los servidores públicos de la Secretaría, las sanciones que co
 
 XLIII. Expedir las credenciales, oficios de comisión y documentos para identificar y/o acreditar al personal que realice diligencias que sean competencia de la Secretaría;
 
-XLIV. Aprobar la sustitución de multas en los términos de lo establecido en el artículo 184 de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza en y demás disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLIV. Firmar convenios que tengan por objeto la sustitución de multas en los términos de lo establecido en el artículo 184 de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza, en sus reglamentos y demás disposiciones aplicables, así como los convenios relativos a la compensación ambiental derivada de la evaluación de impacto ambiental respecto de proyectos y actividades que se sometan a la misma, y
 
 XLV. Las demás que le confieran expresamente este ordenamiento, otras disposiciones aplicables y aquellas que le encomiende el titular del Ejecutivo.
 
@@ -257,7 +263,7 @@ I. Formular, conducir, ejecutar y evaluar, en la esfera de su competencia, las p
 
 II. Proponer al titular de la Secretaría, mecanismos de coordinación entre la Federación y los municipios, con el objeto de fortalecer la gestión ambiental institucional de los actos de autoridad en las materias correspondientes relativas a su atribución;
 
-III. Formular los programas de ordenamiento ecológico territorial, con la participación que corresponda a los diferentes órdenes de gobierno, dependencias y entidades de la administración pública estatal;
+III. (DEROGADA, P.O. 30 DE MAYO DE 2014)
 
 IV. Poner a disposición del público en general, a través del portal electrónico de la Secretaría, los instructivos, formatos, guías, manuales y demás instrumentos necesarios para la gestión ambiental relativos a sus atribuciones;
 
@@ -343,7 +349,9 @@ XXI. Promover y consolidar en su caso conjuntamente con los tres niveles de gobi
 
 XXII. Proponer y promover la ejecución de estudios biológicos de cuencas y zonas de captación de agua en el Estado;
 
-XXIII. Prestar colaboración técnica a la Subsecretaría de Gestión Ambiental, en la formulación y ejecución de los programas de ordenamiento ecológico territorial regional o estatal y locales o municipales;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXIII. Formular los programas de ordenamiento ecológico territorial, con la participación que corresponda a los diferentes órdenes de gobierno, dependencias y entidades de la administración pública estatal;
 
 XXIV. Formular la política estatal sobre la conservación y aprovechamiento sustentable de la vida silvestre en el Estado;
 
@@ -357,9 +365,15 @@ XXVIII. Promover la restauración de las áreas degradadas del Estado;
 
 XXIX. Promover y difundir ante organismos locales nacionales e internacionales, el desarrollo de proyectos, estudios y actividades de educación, capacitación e investigación sobres las actividades encaminadas a la conservación y manejo de los recursos naturales, con el fin de lograr la presencia de la Secretaría, ante la comunidad mediante publicaciones, conferencias, talleres, cursos y demás de naturaleza análoga;
 
-XXX. Emitir dictámenes técnicos y disposiciones de manejo, conservación, aprovechamiento y restauración de los recursos naturales, y
+XXX. Emitir dictámenes técnicos y disposiciones de manejo, conservación, aprovechamiento y restauración de los recursos naturales, y (sic)
 
-XXXI. Las demás previstas en disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2014)</small>
+
+XXXI. Desarrollar y establecer, en conjunto con las unidades administrativas de la Secretaría, los lineamientos y mecanismos para implementar y actualizar el Sistema de Registros Administrativos sobre el Medio Ambiente, como instrumento estándar para el aprovechamiento de registros administrativos y la generación de estadísticas, básicas y derivadas, que describan el estado y las tendencias del medio ambiente en nuestro entidad; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXXII. Las demás previstas en disposiciones aplicables.
 
 ### CAPÍTULO IV. La Secretaría Técnica
 
@@ -491,23 +505,13 @@ XXII. Las demás relativas en la esfera de su competencia y que sean indispensab
 
 ###### ARTÍCULO 14.
 
-La Dirección de Información Estadística y Geográfica Ambiental previo acuerdo con su superior jerárquico y además de las previstas en el artículo 12 de este reglamento, tendrá las siguientes facultades y obligaciones:
+(DEROGADO, P.O. 30 DE MAYO DE 2014)
 
-I. Fungir como instancia interna de coordinación en la instrumentación del sistema de información estadística y geográfica ambiental de la Secretaría;
-
-II. Desarrollar e implementar métodos y mecanismos para la operación del sistema de información estadística y geográfica ambiental, con la participación que corresponda a las unidades administrativas de la Secretaría y los diferentes sectores de la sociedad;
-
-III. Administrar, organizar, actualizar y difundir la información estadística y geográfica ambiental, de conformidad con las disposiciones jurídicas aplicables, con la participación que corresponda a las unidades administrativas de la Secretaría;
-
-IV. Desarrollar, administrar, organizar, actualizar y difundir indicadores ambientales, con la participación que corresponda a las unidades administrativas de la Secretaría y los diferentes sectores de la sociedad, así como elaborar periódicamente informes públicos;
-
-V. Desarrollar y establecer, en conjunto con las unidades administrativas de la Secretaría, los lineamientos y mecanismos para implementar y actualizar el Sistema de Registros Administrativos sobre el Medio Ambiente, como instrumento estándar para el aprovechamiento de registros administrativos y la generación de estadísticas, básicas y derivadas, que describan el estado y las tendencias del medio ambiente en nuestro (sic) entidad; y
-
-VI. Las demás que le encomiende su superior jerárquico y las que le otorguen otras disposiciones legales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 15.
 
-Corresponde al titular de Dirección de Recursos Forestales y Vida Silvestre, previo acuerdo con el Titular de la Subsecretaría de Recursos Naturales, además de las previstas en el artículo 12 de este reglamento, las siguientes facultades y obligaciones:
+Corresponde al Director de Recursos Forestales, Vida Silvestre y Mejoramiento Ambiental, previo acuerdo con el Subsecretario de Recursos Naturales, además de las previstas en el artículo 12 de este reglamento, las siguientes facultades y obligaciones:
 
 I. Formular, dirigir y supervisar programas, proyectos y actividades en materia forestal y de vida silvestre;
 
@@ -569,55 +573,95 @@ XXIX. Fomentar la creación de empresas sociales forestales y de vida silvestre,
 
 XXX. Realizar y supervisar las labores de conservación, protección y restauración de los terrenos estatales forestales;
 
-XXXI. Promover los bienes y servicios ambientales de los ecosistemas forestales, elaborando estudios que sustenten las solicitudes al Ejecutivo Federal, el establecimiento de restricciones a la forestación y reforestación en el Estado; y
+XXXI. Promover los bienes y servicios ambientales de los ecosistemas forestales, elaborando estudios que sustenten las solicitudes al Ejecutivo Federal, el establecimiento de restricciones a la forestación y reforestación en el Estado; y (sic)
 
-XXXII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne su superior jerárquico.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXXII. Apoyar la coordinación general de la Comisión Intersecretarial para el fomento al Uso Racional de la Energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXXIII. Promover el diseño, expedición, difusión y ejecución del Plan Estatal de Ahorro de Energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXXIV. Proponer campañas para concientizar sobre el ahorro y uso racional de la energía a las entidades públicas y privadas;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXXV. Formular acciones y proyectos específicos que repercutan en una cultura de ahorro y uso eficiente de energía acorde con las características de las regiones y municipios del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXXVI. Fomentar la coordinación de acciones que se lleven a cabo en las regiones y municipios del Estado en materia de uso racional de energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXXVII. Promover la integración de comisiones u oficinas municipales especializadas en materia de uso racional de energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXXVIII. Realizar los diagnósticos necesarios a fin de identificar las condiciones de consumo de energía en el Estado y el uso racional de la energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXXIX. Proponer y ejecutar políticas estatales relacionadas con el ahorro y uso racional de energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XL. Apoyar la coordinación para el desarrollo de sus actividades con entidades públicas y privadas, para la implementación de campañas de asistencia técnica, capacitación, promoción, difusión, concientización y demás que se requieran para el cumplimiento del objeto de esta ley;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLI. Diseñar mecanismos de vinculación que faciliten la ejecución de proyectos de inversión para el cumplimiento de su objeto;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLII. Coadyuvar, en el ámbito de su competencia, en la debida observancia de las normas oficiales mexicanas en materia de eficiencia energética;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLIII. Elaborar y aplicar normas técnicas estatales que regulen el ahorro y uso racional de energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLIV. Proponer acciones para impulsar la participación de las instituciones de educación superior y asociaciones de profesionistas, en la investigación, capacitación y desarrollo de tecnologías en la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLV. Promover acciones en las instituciones educativas en todo el Estado, la realización de cursos, talleres, conferencias y diplomados en materia de uso racional de energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLVI. Proponer acciones en materia de iluminación, uso de aparatos electrodomésticos, equipos de aire acondicionado y calefacción, y demás enseres que para su funcionamiento consuman energía, en beneficio de la economía familiar;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLVII. Prestar asesoría técnica a los municipios y a los sectores público y privado que así lo soliciten en materia de ahorro y uso racional de energía y aprovechamiento de energías renovables;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLVIII. Realizar cuando así se acuerde con los titulares de las entidades públicas y privadas -cuando sea procedente- realización de visitas a sus instalaciones, a fin de verificar sus consumos de energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XLIX. Formular proyectos de recomendaciones a las entidades públicas y privadas, cuando sea procedente, para que procuren la aplicación de los criterios de uso racional de energía;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+L. Elaborar para su difusión el directorio de organismos relacionados con la materia de uso racional de energía y aprovechamiento de energía renovable;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+LI. Proponer celebrar convenios e instrumentos de coordinación con las instancias federales y municipales uso (sic) racional de energía y aprovechamiento de energía renovable; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+LII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera su superior jerárquico.
 
 ###### ARTÍCULO 16.
 
-Corresponde al titular de la Dirección de Mejoramiento Ambiental, además de las previstas en el artículo 12 de este reglamento, las siguientes facultades y obligaciones:
-
-I. Apoyar la coordinación general de la Comisión Intersecretarial para el fomento al Uso Racional de la Energía;
-
-II. Promover el diseño, expedición, difusión y ejecución del Plan Estatal de Ahorro de Energía;
-
-III. Proponer campañas para concientizar sobre el ahorro y uso racional de la energía a las entidades públicas y privadas;
-
-IV. Formular acciones y proyectos específicos que repercutan en una cultura de ahorro y uso eficiente de energía acorde con las características de las regiones y municipios del Estado;
-
-V. Fomentar la coordinación de acciones que se lleven a cabo en las regiones y municipios del Estado en materia de uso racional de energía;
-
-VI. Promover la integración de comisiones u oficinas municipales especializadas en materia de uso racional de energía;
-
-VII. Realizar los diagnósticos necesarios a fin de identificar las condiciones de consumo de energía en el Estado y el uso racional de la energía;
-
-VIII. Proponer y ejecutar políticas estatales relacionadas con el ahorro y uso racional de energía;
-
-IX. Apoyar la coordinación para el desarrollo de sus actividades con entidades públicas y privadas, para la implementación de campañas de asistencia técnica, capacitación, promoción, difusión, concientización y demás que se requieran para el cumplimiento del objeto de esta ley;
-
-X. Diseñar mecanismos de vinculación que faciliten la ejecución de proyectos de inversión para el cumplimiento de su objeto;
-
-XI. Coadyuvar, en el ámbito de su competencia, en la debida observancia de las normas oficiales mexicanas en materia de eficiencia energética;
-
-XII. Elaborar y aplicar normas técnicas estatales que regulen el ahorro y uso racional de energía;
-
-XIII. Proponer acciones para impulsar la participación de las instituciones de educación superior y asociaciones de profesionistas, en la investigación, capacitación y desarrollo de tecnologías en la materia;
-
-XIV. Promover acciones en las instituciones educativas en todo el Estado, la realización de cursos, talleres, conferencias y diplomados en materia de uso racional de energía;
-
-XV. Proponer acciones en materia de iluminación, uso de aparatos electrodomésticos, equipos de aire acondicionado y calefacción, y demás enseres que para su funcionamiento consuman energía, en beneficio de la economía familiar;
-
-XVI. Prestar asesoría técnica a los municipios y a los sectores público y privado que así lo soliciten en materia de ahorro y uso racional de energía y aprovechamiento de energías renovables;
-
-XVII. Realizar cuando así se acuerde con los titulares de las entidades públicas y privadas -cuando sea procedente- realización de visitas a sus instalaciones, a fin de verificar sus consumos de energía;
-
-XVIII. Formular proyectos de recomendaciones a las entidades públicas y privadas, cuando sea procedente, para que procuren la aplicación de los criterios de uso racional de energía;
-
-XIX. Elaborar para su difusión el directorio de organismos relacionados con la materia de uso racional de energía y aprovechamiento de energía renovable;
-
-XX. Proponer celebrar convenios e instrumentos de coordinación con las instancias federales y municipales (sic) uso racional de energía y aprovechamiento de energía renovable; y
-
-XXI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera su superior jerárquico.
+(DEROGADO, P.O. 30 DE MAYO DE 2014)
 
 ###### ARTÍCULO 17.
 
@@ -813,9 +857,13 @@ IV. Dirigir con estricto apego a la ley, las funciones de la Unidad de Atención
 
 V. Realizar las gestiones necesarias en las unidades administrativas de la Secretaría, para garantizar a los particulares el acceso a la información pública, así como asegurar el resguardo y conservación de documentos públicos, en cumplimiento a la normatividad aplicable;
 
-VI. Apoyar y asesorar a las unidades administrativas para que formulen las denuncias y querellas que legalmente procedan;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
 
-VII. Formular, en nombre y representación de la Secretaría, las denuncias y querellas que legalmente procedan;
+VI. Apoyar y asesorar a las unidades administrativas y servidores públicos de la Secretaría para que formulen las denuncias y querellas que legalmente procedan;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+VII. Formular, previa instrucción del titular de la Secretaría y en nombre y representación de ésta, las denuncias y querellas que legalmente procedan;
 
 VIII. Elaborar, revisar y registrar los convenios, contratos y acuerdos que celebre la Secretaría; atendiendo a los lineamientos que para tal efecto determine el titular de la Secretaría;
 
@@ -845,13 +893,21 @@ XX. Promover en coordinación con las Subsecretarías y demás unidades administ
 
 XXI. Tramitar la inscripción en los registros correspondientes de los planes, o programas, declaratorias y demás actos competencia de la Secretaría;
 
-XXII. Suscribir documentos en ausencia del titular de la Secretaría, y desahogar los trámites que correspondan a los casos urgentes relativos a términos, rendición de informes previos y justificados, imposición de recursos y recepción de notificaciones; y
+XXII. Suscribir documentos en ausencia del titular de la Secretaría, y desahogar los trámites que correspondan a los casos urgentes relativos a términos, rendición de informes previos y justificados, imposición de recursos y recepción de notificaciones; y (sic)
 
-XXIII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el titular de la Secretaría.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2014)</small>
+
+XXIII. Impartir cursos, pláticas, talleres y demás de naturaleza análoga al personal de la Secretaría, en las materias que le sean encomendadas por quien sea titular de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+
+XXIV. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el titular de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO 21.
 
-Corresponde al titular de la Dirección de la Región Laguna, además de las previstas en el artículo 12 de este reglamento, en los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca, las siguientes facultades y obligaciones:
+Corresponde al titular de la Coordinación de la Región Laguna, además de las previstas en el artículo 12 de este reglamento, en los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca, las siguientes facultades y obligaciones:
 
 I. Coordinar la ejecución de los programas y acciones relativas a las atribuciones que en este reglamento se le otorgan, con apego a las normas y lineamientos que determine el titular de la Secretaría y las unidades administrativas competentes, así como informar de los avances y resultados de su ejercicio;
 
@@ -1197,6 +1253,12 @@ Las licencias al personal de confianza podrán ser hasta por quince días con go
 
 La o el titular de la Secretaría, los titulares de las subsecretarías, Secretaría Técnica y direcciones determinarán la procedencia y naturaleza de las solicitudes de licencia, para lo cual deberán considerar las necesidades del servicio de sus respectivas áreas.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2014)</small>
+
+###### ARTÍCULO 42.
+
+Para el ejercicio de las garantías sociales de las personas que se desempeñen como trabajadores de la Secretaría, se estará a lo dispuesto en este Reglamento, en el Estatuto Jurídico para los trabajadores al Servicio del Estado de Coahuila y demás disposiciones que sean aplicables.
+
 T R A N S I T O R I O S
 
 PRIMERO. El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1224,3 +1286,11 @@ LA SECRETARIA DE MEDIO AMBIENTE
 EGLANTINA CANALES GUTIÉRREZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se dejan sin efectos las disposiciones que se opongan a lo establecido en el presente decreto.
