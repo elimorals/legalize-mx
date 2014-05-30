@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2014-02-28"
+last_updated: "2014-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -801,9 +801,9 @@ XXII.- Llevar el libro de registro de quejas y denuncias, y
 
 XXIII.- Las demás que determinen las disposiciones jurídicas y las que le sean encomendadas por el Presidente del Consejo, el Pleno, las Comisiones y los Consejeros.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2014)</small>
 
-### CAPITULO VI. DE LOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA DE LA JUDICATURA (SIC)
+### CAPITULO VI. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO
 
 Sección 1ª.
 
@@ -1041,39 +1041,49 @@ XII. Servir de enlace de comunicación entre la Presidencia del Consejo con los 
 
 XIII. Las demás inherentes a las funciones anteriores y las que le encomiende expresamente el Presidente del Consejo.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2014)</small>
 
-Sección 7a.
+Sección 7ª.
 
-De la dirección de difusión cultural
+De la Dirección de Gestión Judicial
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE MAYO DE 2014)</small>
 
-Artículo 60 Bis VI.- La Dirección de Difusión Cultural es la unidad administrativa encargada de desarrollar e implementar estrategias para llevar a los servidores públicos del Poder Judicial del Estado, actividades y programas culturales, de valores, de legalidad y de promoción del deporte, así como lograr su participación en la cultura y las artes en coordinación con las demás instituciones de esa materia de gobierno e iniciativa privada, motivando con ello su integración familiar, laboral y de desarrollo humano. Sus atribuciones y responsabilidades son las siguientes:
+Artículo 60 Bis VI.- La Dirección de Gestión Judicial es el órgano auxiliar del Consejo de la Judicatura, responsable de coordinar las funciones administrativas de los órganos jurisdiccionales en los términos de los Acuerdos Generales que este último emita; proporcionándoles soporte y apoyo necesarios en el uso de nuevas tecnologías, recursos humanos y materiales, conforme a criterios adecuados de gestión y con sujeción a los principios de separación de las cargas administrativas de las jurisdiccionales, de legalidad, simplificación, eficacia, innovación administrativa, economía, eficiencia, calidad, racionalidad, responsabilidad, coordinación, cooperación, aprovechamiento máximo de las tecnologías de la información, de los recursos humanos y materiales disponibles; además auxiliará al Consejo de la Judicatura en la implementación de los proyectos de mejora en temas vinculados a la optimización de los recursos judiciales que sean determinados, funcionando como órgano ejecutor y planificador de las tareas que se le encomienden.
 
-I. Encabezar la elaboración de políticas y ejecución de un plan de desarrollo cultural del Poder Judicial del Estado;
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2014)</small>
 
-II. Fortalecer y establecer mecanismos de acción, coordinación y cooperación en materia cultural, entre las diferentes entidades públicas y privadas del estado y del país;
+Artículo 60 Bis VII.- El titular de la Dirección de Gestión Judicial será nombrado y removido libremente por el Pleno del Consejo, a propuesta del Presidente.
 
-III. Elaborar, apoyar y ejecutar los diferentes programas, proyectos y eventos culturales, llevando entretenimiento, trabajo, creatividad e integración a los servidores públicos de esta institución, fomentando su formación integral y superación personal;
+Para ser Director de Gestión Judicial se requerirá contar con título profesional en materia de administración o ingeniería expedido por institución nacional o extranjera legalmente reconocida y facultada para ello, tener una experiencia mínima de cinco años en gestión judicial o en actividades análogas o afines, gozar de buena reputación y no haber sido condenado por la comisión de delito doloso alguno.
 
-IV. Participar como enlace con respecto a sus atribuciones entre el Poder Judicial del Estado con sus empleados, entidades de gobierno, los creadores de arte, promotores culturales y empresarios de cultura;
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2014)</small>
 
-V. Diseñar y ejecutar eventos deportivos y de promoción a la actividad física;
+Artículo 60 Bis VIII.- La Dirección de Gestión Judicial contará con el personal jurídico y administrativo que determine el Pleno del Consejo de la Judicatura.
 
-VI. Diseñar y ejecutar programas de convivencia e integración familiar, con el fin de que se compartan los valores de la impartición de justicia entre los empleados y sus familias;
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2014)</small>
 
-VII. Conducir las tareas propias de la imagen y opinión pública vinculadas con el Poder Judicial del Estado;
+Artículo 60 Bis IX.- Para el debido cumplimiento de su función, corresponde a la Dirección de Gestión Judicial:
 
-VIII. Diseñar la agenda y el calendario de eventos del Poder Judicial del Estado;
+I. Controlar y evaluar la gestión administrativa de los órganos jurisdiccionales en los términos que establezca el Consejo de la Judicatura, generando un registro histórico sobre el particular; asimismo realizar las propuestas para dar solución a los temas detectados;
 
-IX. Conducir y evaluar las tareas de comunicación social de la Presidencia;
+II. Coordinar aquellas acciones que permitan el buen desenvolvimiento de la función jurisdiccional y la gestión administrativa, realizando labores de enlace con las demás áreas administrativas y jurisdiccionales del Poder Judicial del Estado y dependencias de otros órdenes de gobierno;
 
-X. Ofrecer programas de capacitación y formación en la promoción y difusión de la cultura;
+III. Determinar los criterios para la programación de audiencias de los juzgados del sistema acusatorio y de juicios orales civiles, mercantiles y familiares, en los términos que establezca el Pleno del Consejo de la Judicatura, administrando la agenda de las salas y el funcionamiento de las mismas;
 
-XI. Vigilar, rescatar y preservar el patrimonio cultural del Poder Judicial del Estado, así como la creación y el buen funcionamiento de los espacios culturales;
+IV. Tener bajo su custodia los expedientes y/o carpetas judiciales, impulsando su continuidad, elaborando proyectos de acuerdos judiciales de mero trámite y, en general, de todas aquellas resoluciones que no sean competencia exclusiva de los jueces de acuerdo con el principio de inmediación;
 
-XII. Las demás que le sean encomendadas.
+V. Establecer, en coordinación con la Dirección de Informática, las acciones para el debido registro, eficacia, autenticidad y resguardo de los registros de las audiencias;
+
+VI. Dirigir las actividades de la Unidad de Medios de Comunicación y el Archivo Judicial y centralizar a su cargo los servicios que estas unidades prestan;
+
+VII. Remitir la noticia mensual sobre los asuntos desahogados en los juzgados respecto de los que tienen a cargo su administración;
+
+VIII. Rendir un informe semestral de actividades y estudios al Pleno del Consejo, proponiendo las mejoras que estime pertinentes al sistema de gestión judicial;
+
+IX. Proponer planes, políticas, estrategias y programas para impulsar la reestructura de los órganos jurisdiccionales del Consejo de la Judicatura orientados a su modernización y eficiencia; y
+
+X. Las demás que determine el Pleno del Consejo, sus Comisiones, o que se establezcan en las disposiciones legales o reglamentarias aplicables.
 
 ### CAPITULO VIII (SIC). DE LA ADMINISTRACIÓN Y TESORERIA
 
@@ -1359,7 +1369,7 @@ VII.- Planear la asignación o préstamo de los equipos de acuerdo a las necesid
 
 VIII.- Vigilar que el número de licencias de software instaladas corresponda con el número de licencias adquiridas;
 
-IX.- Definir los programas de mantenimiento al equipo del Pode Judicial de forma periódica, así como asignar la tarea de revisión y reparación de equipos reportados con fallas;
+IX.- Definir los programas de mantenimiento al equipo del Pode (sic) Judicial de forma periódica, así como asignar la tarea de revisión y reparación de equipos reportados con fallas;
 
 X.- Colaborar con las áreas afines de otras instancias de gobierno en proyectos de tecnología de beneficio común, que permitan el aprovechamiento de los recursos y el logro de sus objetivos;
 
@@ -2348,3 +2358,9 @@ P.O. 28 DE FEBRERO DE 2014.
 PRIMERO.- Vigencia. Este Acuerdo General entrará en vigor a partir del día siguiente de su publicación en el Boletín Judicial del Estado.
 
 TERCERO (SIC).- Publicación. Para conocimiento de las autoridades, litigantes y público en general, publíquese el presente Acuerdo General en el Boletín Judicial del Estado, así como en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2014.
+
+Primero: Vigencia. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Poder Judicial del Estado, para su mayor difusión publíquese en el Periódico Oficial del Estado.
+
+Segundo: El Consejo de la Judicatura, establecerá, mediante Acuerdos Generales, el funcionamiento de las unidades administrativas dependientes de la Dirección de Gestión Judicial.
