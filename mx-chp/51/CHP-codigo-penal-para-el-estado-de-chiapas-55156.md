@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2014-05-15"
+last_updated: "2014-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -1705,11 +1705,13 @@ Los delitos de homicidio, muerte cerebral y lesiones serán atenuados cuando se 
 
 I. Existe riña, cuando se presenta una contienda de obra, una agresión física entre dos o más personas con el propósito de causarse daño recíprocamente.
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
 
-II. Existe imputabilidad disminuida por emoción violenta, cuando el sujeto activo sorprenda al corruptor de su ascendiente, descendiente o hermanos que estén bajo su potestad o custodia en el acto sexual o en uno próximo a su consumación, siempre que el sujeto activo no haya tolerado o contribuido a la realización de tales actos.
+II. Existe imputabilidad disminuida por emoción violenta, cuando exista el cambio en la personalidad de quien comete el hecho delictivo, en virtud de un estímulo externo, que altera transitoriamente el comportamiento habitual de esa persona, impidiéndole dominar sus impulsos, y lo llevan a obrar irreflexivamente, aunque sí conscientemente; por lo que se atenúa en forma considerable y transitoria la imputabilidad del agente.
 
-III. Existe imputabilidad disminuida por emoción violenta, cuando en virtud de las circunstancias que desencadenaron el delito, se atenúa en forma considerable y transitoria la imputabilidad del agente.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+III. La imputabilidad disminuida por emoción violenta, existe cuando el sujeto activo sorprenda al corruptor de su ascendiente, descendiente o hermanos que estén bajo su potestad o custodia en el acto sexual o en uno próximo a su consumación, siempre que el sujeto activo no haya tolerado o contribuido a la realización de tales actos; o cuando el sujeto activo sea o haya sido víctima de violencia por género a cargo del sujeto pasivo. Para acreditar esta atenuante se deberá acompañar el informe de historial de violencia por género que el Ministerio Público realice, de conformidad con el artículo 133 del Código de Procedimientos Penales para el Estado de Chiapas.
 
 ###### Artículo 172.
 
@@ -5278,3 +5280,7 @@ P.O. 15 DE MAYO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 30 DE MAYO DE 2014.
+
+Artículo Único.-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
