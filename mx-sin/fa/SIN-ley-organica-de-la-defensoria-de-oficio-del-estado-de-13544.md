@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-defensoria-de-oficio-del-estado-de-13544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-18"
-last_updated: "2013-11-29"
+last_updated: "2014-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA DEFENSORÍA DE OFICIO DEL ESTADO DE SINALOA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 18 de agosto de 1993.
 
@@ -629,21 +629,11 @@ P.O. 25 DE SEPTIEMBRE DE 2013.
 
 La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 29 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE CINCO FRACCIONES.</small>
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-La prestación del servicio de Defensoría Pública en materia penal, con excepción de justicia para adolescentes, en términos del presente Decreto, se realizará de manera gradual y sucesiva en las regiones que comprenden los distritos judiciales del Estado de Sinaloa, según se precisa a continuación:
-
-I. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Angostura, Mocorito, Salvador Alvarado, Guasave y Sinaloa.
-
-II. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Ahome, El Fuerte y Choix.
-
-III. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil quince, en la circunscripción que comprenden los distritos judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
-
-IV. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil dieciséis, en la circunscripción que comprenden los distritos judiciales de Badiraguato, Culiacán y Navolato.
+Las disposiciones relativas a la prestación del servicio de Defensoría Pública en materia penal, con excepción de justicia para adolescentes, en términos del presente Decreto, entrarán en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
 
 ###### ARTÍCULO TERCERO.
 
@@ -716,3 +706,17 @@ NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 DÉCIMO. Los ARTÍCULOS SEGUNDO, TERCERO y CUARTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 DÉCIMO PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE MAYO DE 2014.
+
+PRIMERO. Las reformas a la Ley Orgánica del Poder Judicial del Estado, que establecen el artículo primero del presente Decreto, entrarán en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
+
+SEGUNDO. Dentro del plazo de entrada en vigor del presente Decreto, el Pleno del Supremo Tribunal de Justicia del Estado deberá expedir la normatividad necesaria para reglamentar los procedimientos y organización administrativa de los Juzgados de Primera Instancia de Control y de Enjuiciamiento Penal.
+
+TERCERO. Dentro del plazo de entrada en vigor del presente Decreto, el Pleno del Supremo Tribunal de Justicia del Estado deberá disponer los procesos para la selección del personal de los Juzgados de Primera Instancia de Control y de Enjuiciamiento Penal, así como las acciones de capacitación necesarias para dicho personal y demás servidores judiciales con intervención en el proceso penal acusatorio y su implementación.
+
+CUARTO. La reforma prevista en al (sic) artículo 21, fracción VII de la Ley Orgánica del Poder Judicial del Estado, entrará en vigor a partir del día siguiente de la publicación de este Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+QUINTO. Los ARTÍCULOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEXTO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
