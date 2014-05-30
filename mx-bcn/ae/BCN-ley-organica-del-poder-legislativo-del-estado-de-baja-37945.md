@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2014-02-07"
+last_updated: "2014-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1461,7 +1461,7 @@ El desempeño de las atribuciones y obligaciones de la Dirección de Comunicaci�
 
 La Contraloría Interna propondrá a la Comisión de Administración y Finanzas, las políticas, manuales de organización y funciones de ese Órgano y de los demás Órganos de Apoyo Parlamentario y Administrativo, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan.
 
-En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de los Titulares de los Órganos Apoyo (sic) Parlamentario y Administrativo y del Órgano de Fiscalización Superior.
+En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de los Titulares de los Órganos (sic) Apoyo Parlamentario y Administrativo y del Órgano de Fiscalización Superior.
 
 ARTICULO 81 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
@@ -1827,17 +1827,23 @@ Todas las sesiones del Congreso del Estado serán públicas, con excepción de l
 
 ### CAPITULO II. DE LAS INICIATIVAS
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 110.
 
-Los proyectos que se presenten al Congreso del Estado, podrán ser:
+Las iniciativas o proposiciones que se presenten al Congreso del Estado, podrán ser:
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2010)</small>
 
 I.- Iniciativa de Ley o de reformas a una Ley vigente;
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2010)</small>
+
 II.- Iniciativa con proyecto de decreto; y,
 
-III.- Proposición con Punto de Acuerdo.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+III.- Proposición de acuerdo económico.
 
 ###### ARTICULO 111.
 
@@ -1853,11 +1859,11 @@ Son Iniciativas de reformas de ley, las que tiendan a introducir reformas consis
 
 Es Iniciativa con proyecto de decreto aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales en mandamientos particulares y concretos.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 114.
 
-Es proposición con punto de acuerdo, la determinación que tienda a una resolución que por su naturaleza no requiera de sanción, promulgación y publicación o que fije la posición del Congreso del Estado respecto de algún hecho, acontecimiento o fenómeno social.
+Es proposición de acuerdo económico, la determinación que tienda a una resolución que por su naturaleza no requiera de sanción, promulgación y publicación o que fije la posición del Congreso del Estado respecto de algún hecho, acontecimiento o fenómeno social.
 
 ###### ARTICULO 115.
 
@@ -1921,11 +1927,11 @@ Si del estudio y análisis de las iniciativas dentro de las Comisiones de dictam
 
 El dictamen se presentará al Pleno del Congreso en los plazos señalados en el artículo 124 de esta Ley, para el cumplimiento de las fracciones II y III del artículo 29 Constitucional.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 119.
 
-Solo podrá dispensarse del trámite de ser turnada una iniciativa a la Comisión competente, en los asuntos que por acuerdo del Pleno del Congreso del Estado, por mayoría simple y en votación económica, se califiquen de urgente y de obvia resolución, de conformidad con lo dispuesto en la Constitución Local, la presente ley y su reglamento.
+Solo podrá dispensarse del trámite de ser turnada una iniciativa o proposición de acuerdo económico a la Comisión competente, en los asuntos que por acuerdo del Pleno del Congreso del Estado, por mayoría simple y en votación económica, se califiquen de urgente y de obvia resolución, de conformidad con lo dispuesto en la Constitución Local, la presente ley y su reglamento.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -1983,17 +1989,25 @@ Las discusiones sólo pueden producirse por:
 
 I.- El acta de la sesión anterior;
 
-II.- Los trámites;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+II.- Los trámites o sus dispensas;
 
 III.- Los dictámenes;
 
 IV.- Las iniciativas de leyes y decretos;
 
-V.- Las proposiciones;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+V.- Las proposiciones de acuerdo económico;
 
 VI.- Las mociones suspensivas; y,
 
 VII.- Las mociones de orden.
+
+> <small>(REFORMADO [N.DE E. ADICIONADO], P.O. 30 DE MAYO DE 2014)</small>
+
+Las discusiones sobre modificaciones y/o adiciones a los asuntos antes mencionados, se regirán por las reglas previstas en este capítulo.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -2087,9 +2101,11 @@ IV.- Por acuerdo del Pleno de dar preferencia a otro asunto de mayor urgencia o 
 
 V.- Por acuerdo del Pleno, en cuyo caso se deberá fijar de inmediato fecha y hora para su continuación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 139.
 
-En el caso de presentarse una moción suspensiva, el Presidente atenderá a su autor para los efectos de que la fundamente; enseguida someterá a discusión la proposición, pudiendo hacer uso de la palabra hasta dos oradores en contra y dos en pro. Agotada la discusión, la moción se someterá a votación del Pleno y, en caso de que ésta fuese negativa, se tendrá por desechada.
+En el caso de presentarse una moción suspensiva, el Presidente atenderá a su autor para los efectos de que la fundamente; enseguida la someterá a discusión, pudiendo hacer uso de la palabra hasta dos oradores en contra y dos en pro. Agotada la discusión, la moción se someterá a votación del Pleno y, en caso de que ésta fuese negativa, se tendrá por desechada.
 
 No podrá presentarse más de una moción suspensiva en la discusión de un asunto.
 
@@ -2121,9 +2137,25 @@ Si se declara que el asunto no se considera suficientemente discutido se continu
 
 Al momento de cerrarse un debate y antes de proceder a recoger la votación, el Presidente ordenará a la Secretaría y a la Secretaría de Servicios Parlamentarios, que hagan el anuncio correspondiente a fin de que todos los Diputados presentes en el recinto parlamentario pasen de inmediato a ocupar sus asientos en el salón de sesiones y puedan emitir su voto.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
+
 ###### ARTICULO 145.
 
-Cuando se dispense el trámite a que se refiere el Artículo 119 de esta Ley, se pondrá a discusión inmediatamente después de que su autor la haya presentado, pudiendo hacer uso de la palabra hasta dos Diputados en contra y dos en pro, e inmediatamente se preguntará al Pleno si se aprueba o no la proposición. De ser aprobada se le dará el trámite correspondiente y, en caso contrario se turnará a la Comisión correspondiente.
+Cuando se dispense el trámite a que se refiere el Artículo 119 de esta Ley, se pondrá a discusión inmediatamente después de que su autor la haya presentado, pudiendo hacer uso de la palabra hasta dos Diputados en contra y dos en pro, e inmediatamente se someterá a votación del Pleno la propuesta. De ser aprobada se le dará el trámite correspondiente y, en caso contrario se turnará a la Comisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2014)</small>
+
+ARTICULO 145 BIS.- Las proposiciones de acuerdo económico se presentarán por escrito y firmadas, con su exposición de motivos en la cual exponga su autor o autores las consideraciones jurídicas, políticas, sociales o económicas que justifican, explican, motivan y dan procedencia a la proposición, y se sujetarán al procedimiento siguiente:
+
+I.- El Presidente del Congreso someterá a solicitud del Diputado Inicialista la dispensa de trámite en los términos referidos en el artículo 119 de esta ley, en caso de no aprobarse por el Pleno o no solicitarse dispensa, se turnará invariablemente a la Comisión competente.
+
+II.- Aprobada la dispensa de trámite y abierto el debate por el Presidente del Congreso, los Diputados podrán adherirse o sumarse a la proposición de acuerdo económico presentada.
+
+III.- Sí algún Diputado considera necesario complementarla o clarificarla, podrá hacerlo mediante escrito que deberá leer, precisando la modificación o adición que sugiere, al punto de acuerdo económico presentado por el Diputado inicialista.
+
+IV.- Presentada la modificación o adición, el Presidente del Congreso preguntará al Diputado Inicialista si acepta la modificación o adición en cuyo caso se incorporarán los planteamientos propuestos al punto de acuerdo; en caso de no aceptarse se someterá la proposición inicial al trámite respectivo.
+
+V. Las modificaciones o adiciones a las proposiciones de acuerdo económico, que no sean presentadas por escrito al momento de que el Diputado haga uso de la palabra, sólo quedará registrada en el Diario de los Debates, sin que se someta al procedimiento señalado en el presente Artículo.
 
 ### CAPITULO V. DE LAS VOTACIONES
 
@@ -2175,7 +2207,9 @@ I.- El acta de la sesión anterior;
 
 II.- El orden del día;
 
-III.- Las proposiciones con punto de acuerdo, excepto en el caso previsto en el Artículo 149 de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+III.- Las proposiciones de acuerdo económico, excepto en el caso previsto en el Artículo 149 de esta Ley;
 
 IV.- La prolongación de las sesiones; y,
 
@@ -2367,11 +2401,15 @@ V. Las comunicaciones de particulares dirigidas al Congreso;
 
 VI. Los proyectos de ley iniciados por los ciudadanos o los ayuntamientos, y los proyectos de ley o decreto remitidos por el gobernador del estado;
 
-VII. Las proposiciones con punto de acuerdo o los acuerdos sobre el régimen interior del Congreso que presentan sus órganos de gobierno;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+VII. Las proposiciones de acuerdo económico o los acuerdos sobre el régimen interior del Congreso que presentan sus órganos de gobierno;
 
 VIII. Los cambios aprobados en la integración de las comisiones y los comités;
 
-IX. Las proposiciones con punto de acuerdo que presentan los legisladores;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+
+IX. Las proposiciones de acuerdo económico que presentan los legisladores;
 
 X. Las observaciones sobre proyectos de ley o decreto enviadas por el Titular del Poder Ejecutivo Estatal;
 
@@ -2678,3 +2716,7 @@ P.O. 7 DE FEBRERO DE 2014.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso, publíquese en la Gaceta Parlamentaria.
 
 SEGUNDO.- Remítase al Poder Ejecutivo para su publicación en el Periódico Oficial.
+
+P.O. 30 DE MAYO DE 2014.
+
+ÚNICO: Las presentes reformas se publicarán en la Gaceta Parlamentaria del Poder Legislativo del Estado y entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
