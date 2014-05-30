@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-crea-la-medalla-al-merito-ciudadano-monica-45758
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-05"
-last_updated: "2012-05-16"
+last_updated: "2014-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO QUE CREA LA MEDALLA AL MÉRITO CIUDADANO "MÓNICA RODRÍGUEZ" DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, FRACCIÓN I, DEL REGLAMENTO DE PARTICIPACIÓN Y ATENCIÓN CIUDADANA DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 5 de agosto de 2005.
 
@@ -372,3 +374,49 @@ PRIMERO. Se aprueba la REFORMA POR MODIFICACIÓN Y DEROGACIÓN AL REGLAMENTO QUE
 SEGUNDO. Mándese publicar el presente acuerdo en el Periódico Oficial del Estado. Hágase posteriormente su difusión a través de la Gaceta Municipal, en la página de Internet del Municipio en el hipervínculo www.sanpedro.gob.mx.
 
 TERCERO. Gírense las instrucciones al C. Presidente Municipal y al C. Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
+
+P.O. 30 DE MAYO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente hábil al de su publicación en el Periódico Oficial del Estado; y para mayor difusión será publicado en la Gaceta Municipal.
+
+###### ARTICULO SEGUNDO.
+
+Se abrogan los siguientes Reglamentos Municipales:
+
+I. Reglamento que Crea la Medalla al Mérito Ciudadano Mónica Rodríguez del Municipio de San Pedro Garza García, Nuevo León, aprobado por el Republicano Ayuntamiento en Sesión Ordinaria celebrada el 27 de julio de 2005 y publicado en el Periódico Oficial del Estado de fecha 5 de agosto de 2005.
+
+II. Reglamento de Jueces Auxiliares Municipales de San Pedro Garza García, Nuevo León, aprobado por el Republicano Ayuntamiento en Sesión Ordinaria celebrada el 28 de septiembre de 2010 y publicado en el Periódico Oficial del Estado de fecha 6 de octubre de 2010.
+
+III. Reglamento de Participación Ciudadana del Municipio de San Pedro Garza García, Nuevo León, aprobado por el Republicano Ayuntamiento en Sesión Ordinaria celebrada el 11 de octubre de 2011 y publicado en el Periódico Oficial del Estado de fecha 19 de octubre de 2011.
+
+IV. Reglamento del Presupuesto Participativo del Municipio de San Pedro Garza García, Nuevo León, aprobado por el Republicano Ayuntamiento en Sesión Ordinaria celebrada el 30 de abril de 2013 y publicado en el Periódico Oficial del Estado de fecha 3 de mayo de 2013.
+
+###### ARTÍCULO TERCERO.
+
+Los organismos de participación ciudadana actualmente en vigor continuarán en funciones hasta que terminen el período para el que fueron nombrados.
+
+###### ARTÍCULO CUARTO.
+
+Los integrantes de las Mesas Directivas de las Juntas de Vecinos actualmente en funciones continuaran en ejercicio de su encargo hasta el vencimiento del periodo para el que fueron electos; si están en su primer periodo en el cargo podrán ser reelectos por una vez más y si están en su segundo periodo o más de manera consecutiva ya no podrán reelegirse.
+
+###### ARTÍCULO QUINTO.
+
+Los integrantes de los Consejos Consultivos Ciudadanos actualmente en funciones continuaran en ejercicio de su encargo hasta el vencimiento del periodo para el que fueron electos. Los actuales integrantes de los Consejos Consultivos Ciudadanos podrán ser designados de nueva cuenta para ocupar el cargo hasta por cuatro años más de manera consecutiva.
+
+###### ARTÍCULO SEXTO.
+
+Los actuales Jueces Auxiliares Municipales Titulares y Suplentes continuarán en ejercicio de su encargo hasta el vencimiento del periodo para el que fueron nombrados.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los programas, proyectos, procesos o procedimientos a que refiere el presente Reglamento, iniciados con antelación a la entrada en vigor del presente Reglamento, en lo subsecuente se sujetarán al presente Reglamento en lo que les resulte aplicable, sin que ello implique que las actuaciones realizadas con fundamente (sic) en la normatividad anterior dejen de tener validez.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría de Participación y Atención Ciudadana difundirá entre los Ciudadanos del Municipio las disposiciones contenidas en el presente Reglamento.
+
+###### ARTÍCULO NOVENO.
+
+En lo que respecta al porcentaje establecido en el artículo 278, de este Reglamento, éste será del 3% para el ejercicio 2014 y del 4% para el ejercicio 2015.
