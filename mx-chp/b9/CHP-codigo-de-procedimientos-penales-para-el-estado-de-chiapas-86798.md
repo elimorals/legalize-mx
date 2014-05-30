@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-para-el-estado-de-chiapas-8679
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-09"
-last_updated: "2014-05-15"
+last_updated: "2014-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,63 @@ state: "CHP"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS
 
-CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL CUAL SE DA RESPUESTA A LA SOLICITUD FORMULADA POR LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA DEL GOBIERNO DE LA REPÚBLICA RELACIONADA CON LA PUESTA A DISPOSICIÓN DE LOS TIEMPOS EN RADIO Y TELEVISIÓN QUE ADMINISTRA ESTE INSTITUTO PARA LA DIFUSIÓN DE CAMPAÑAS PARA LA ATENCIÓN DE LA EMERGENCIA SANITARIA PROVOCADA POR EL VIRUS SARS-COV2
 
-N. DE E EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 147 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, Y P.O. DE 17 DE MAYO DE 2012, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2014.
+Acuerdo publicado en el Diario Oficial de la Federación, el martes 12 de enero de 2021.
 
-Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 9 de febrero de 2012.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG02/2021.
 
-Juan Sabines Guerrero, Gobernador del Estado de Chiapas, a sus habitantes hace saber: Que la Honorable Sexagésima Cuarta Legislatura del Congreso del Estado, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL CUAL SE DA RESPUESTA A LA SOLICITUD FORMULADA POR LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA DEL GOBIERNO DE LA REPÚBLICA RELACIONADA CON LA PUESTA A DISPOSICIÓN DE LOS TIEMPOS EN RADIO Y TELEVISIÓN QUE ADMINISTRA ESTE INSTITUTO PARA LA DIFUSIÓN DE CAMPAÑAS PARA LA ATENCIÓN DE LA EMERGENCIA SANITARIA PROVOCADA POR EL VIRUS SARS-CoV2
 
-Decreto Número 147
+GLOSARIO
 
-La Sexagésima Cuarta Legislatura Constitucional del Honorable Congreso del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
+Consejo General Consejo General del Instituto Nacional Electoral
 
-C o n s i d e r a n d o.
+CPEUM Constitución Política de los Estados Unidos Mexicanos
 
-Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
+DEPPP Dirección Ejecutiva de Prerrogativas y Partidos Políticos
 
-"Código de Procedimientos Penales para el Estado de Chiapas"
+DOF Diario Oficial de la Federación
+
+INE/Instituto Instituto Nacional Electoral
+
+LGIPE Ley General de Instituciones y Procedimientos
+
+Electorales
+
+LGPP Ley General de Partidos Políticos
+
+OPL Organismos Públicos Locales
+
+Reglamento Reglamento de Radio y Televisión en Materia Electoral
+
+ANTECEDENTES
+
+[…]
+
+CONSIDERACIONES
+
+[…]
+
+En razón de los Antecedentes y Considerandos expresados, este Consejo General del Instituto Nacional Electoral emite el siguiente:
+
+ACUERDO
+
+PRIMERO. Por las razones expuestas, no ha lugar a atender la solicitud formulada por la Coordinación General de Comunicación Social y Vocería del Gobierno de la República.
+
+En consecuencia, se exhorta al Gobierno de la Republica para que la solicitud relacionada con la puesta a disposición de los tiempos en radio y televisión que administra el INE para la difusión de campañas para la atención de la situación de emergencia con motivo de la pandemia provocada por la enfermedad Covid-19 se realice a través de la Secretaría de Gobernación o unidad facultada para ello.
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que, por conducto de la DEPPP notifique el presente instrumento a la Coordinación General de Comunicación Social y Vocería del Gobierno de la República, así como a la Unidad de Normatividad de Medios de Comunicación de la Secretaría de Gobernación para los efectos conducentes.
+
+TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+CUARTO. Publíquese el presente Acuerdo en el portal de Internet del Instituto.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 4 de enero de 2021, por diez votos a favor de los Consejeros Electorales, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y un voto en contra de la Consejera Electoral, Maestra Norma Irene De La Cruz Magaña.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 ## Título Primero. Disposiciones Generales
 
