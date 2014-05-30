@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2013-11-27"
+last_updated: "2014-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -3383,14 +3383,22 @@ P.O. 27 DE NOVIEMBRE DE 2013.
 
 PRIMERO. Las disposiciones relativas al régimen de modificación y duración de penas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-SEGUNDO. Las disposiciones que contiene los principios del Sistema Penal Acusatorio que aplicarán los jueces de ejecución de las consecuencias jurídicas del delito, entrarán en vigor de manera gradual y sucesiva en las regiones que comprenden los distritos judiciales del Estado de Sinaloa, según se precisa a continuación:
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
 
-I. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Angostura, Mocorito, Salvador Alvarado, Guasave y Sinaloa.
-
-II. Sus disposiciones se aplicarán a partir del día primero de diciembre del año dos mil catorce, en la circunscripción que comprenden los distritos judiciales de Ahome, El Fuerte y Choix.
-
-III. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil quince, en la circunscripción que comprenden los distritos judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
-
-IV. Sus disposiciones se aplicarán a partir del día primero de junio del año dos mil dieciséis, en la circunscripción que comprenden los distritos judiciales de Badiraguato, Culiacán y Navolato.
+SEGUNDO. Las disposiciones que contienen los principios del Sistema Penal Acusatorio que aplicarán los jueces de ejecución de las consecuencias jurídicas del delito, entrarán en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
 
 TERCERO. El Ejecutivo del Estado deberá realizar las modificaciones reglamentarias necesarias para el cumplimiento del presente Decreto.
+
+P.O. 30 DE MAYO DE 2014.
+
+PRIMERO. Las reformas a la Ley Orgánica del Poder Judicial del Estado, que establecen el artículo primero del presente Decreto, entrarán en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
+
+SEGUNDO. Dentro del plazo de entrada en vigor del presente Decreto, el Pleno del Supremo Tribunal de Justicia del Estado deberá expedir la normatividad necesaria para reglamentar los procedimientos y organización administrativa de los Juzgados de Primera Instancia de Control y de Enjuiciamiento Penal.
+
+TERCERO. Dentro del plazo de entrada en vigor del presente Decreto, el Pleno del Supremo Tribunal de Justicia del Estado deberá disponer los procesos para la selección del personal de los Juzgados de Primera Instancia de Control y de Enjuiciamiento Penal, así como las acciones de capacitación necesarias para dicho personal y demás servidores judiciales con intervención en el proceso penal acusatorio y su implementación.
+
+CUARTO. La reforma prevista en al (sic) artículo 21, fracción VII de la Ley Orgánica del Poder Judicial del Estado, entrará en vigor a partir del día siguiente de la publicación de este Decreto en el Periódico Oficial “El Estado de Sinaloa”.
+
+QUINTO. Los ARTÍCULOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEXTO. Publíquese el presente Decreto en el Periódico Oficial “El Estado de Sinaloa”.
