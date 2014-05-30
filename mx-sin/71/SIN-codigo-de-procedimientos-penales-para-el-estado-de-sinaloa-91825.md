@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-9182
 country: "mx"
 rank: "codigo"
 publication_date: "2013-01-25"
-last_updated: "2013-11-29"
+last_updated: "2014-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE SINALOA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR DE MANERA GRADUAL Y SUCESIVA EN LAS REGIONES QUE COMPRENDEN LOS DISTRITOS JUDICIALES DEL ESTADO DE SINALOA</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO DEL DECRETO NÚMERO 101, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 25 de enero de 2013.
 
@@ -5482,3 +5482,25 @@ NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 DÉCIMO. Los ARTÍCULOS SEGUNDO, TERCERO y CUARTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 DÉCIMO PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE MAYO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO SEXTO DEL DECRETO NÚMERO 101.</small>
+
+###### ARTÍCULO SEXTO.
+
+Se abroga el Decreto Número 738, mediante el cual se expide el Código de Procedimientos Penales para el Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa", No. 11, Segunda Sección, de fecha 25 de enero de 2013.
+
+## N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 101.
+
+PRIMERO. Las reformas a la Ley Orgánica del Poder Judicial del Estado, que establecen el artículo primero del presente Decreto, entrarán en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
+
+SEGUNDO. Dentro del plazo de entrada en vigor del presente Decreto, el Pleno del Supremo Tribunal de Justicia del Estado deberá expedir la normatividad necesaria para reglamentar los procedimientos y organización administrativa de los Juzgados de Primera Instancia de Control y de Enjuiciamiento Penal.
+
+TERCERO. Dentro del plazo de entrada en vigor del presente Decreto, el Pleno del Supremo Tribunal de Justicia del Estado deberá disponer los procesos para la selección del personal de los Juzgados de Primera Instancia de Control y de Enjuiciamiento Penal, así como las acciones de capacitación necesarias para dicho personal y demás servidores judiciales con intervención en el proceso penal acusatorio y su implementación.
+
+CUARTO. La reforma prevista en al artículo 21, fracción VII de la Ley Orgánica del Poder Judicial del Estado, entrará en vigor a partir del día siguiente de la publicación de este Decreto en el Periódico Oficial “El Estado de Sinaloa”.
+
+QUINTO. Los ARTÍCULOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEXTO. Publíquese el presente Decreto en el Periódico Oficial “El Estado de Sinaloa”.
