@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-74634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-23"
-last_updated: "2012-03-30"
+last_updated: "2014-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA EN MATERIA DE IMPACTO AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 23 de abril de 2010.
 
@@ -145,9 +145,15 @@ IX. Establecer y mantener actualizado el Registro, así como determinar los requ
 
 X. Vigilar la observancia y cumplimiento de las disposiciones previstas en la Ley, en este reglamento y demás disposiciones en materia de impacto ambiental;
 
-XI. Enviar a la Procuraduría las autorizaciones, dictámenes y demás resoluciones que emita, para que ésta proceda a vigilar su cumplimiento e imponer las sanciones y demás medidas necesarias, con arreglo a las disposiciones aplicables, y
+XI. Enviar a la Procuraduría las autorizaciones, dictámenes y demás resoluciones que emita, para que ésta proceda a vigilar su cumplimiento e imponer las sanciones y demás medidas necesarias, con arreglo a las disposiciones aplicables, y (sic)
 
-XII. Ejercer las demás facultades que les confieran las disposiciones legales y reglamentarias aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2014)</small>
+
+XII. Autorizar y signar, a través de su titular, los convenios que tengan por objeto la sustitución de multas en los términos de lo establecido en el artículo 184 de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza, así como los convenios relativos a la compensación ambiental derivada de la evaluación de impacto ambiental respecto de proyectos y actividades de competencia estatal, de acuerdo a lo previsto en este Reglamento, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MAYO DE 2014)</small>
+
+XIII. Ejercer las demás facultades que le confieran las demás disposiciones que sean aplicables.
 
 ###### Artículo 6.
 
@@ -401,7 +407,9 @@ EN M2 FRESNO (Fraxinus sp) PINOS (Pinus sp) TROENO (Ligustrum sp) NATIVOS DE LA 
 
 >40,000 16 por cada 1000 M2 8 por cada 1000 M2 excedentes excedentes
 
-Los promoventes entregarán a determinación de la Secretaría los árboles considerados en la columna A o B, o una combinación de las mismas, que deberán contar con una altura mínima de 2.00 metros, diámetro mínimo de una pulgada, en bolsa de plástico de medidas mínimas de 40 x 40 centímetros y de calibre 500; los cuales deberán ser entregados en el vivero de la Secretaría, que ésta determine.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
+
+Los promoventes entregarán a determinación de la Secretaría los árboles considerados en la columna A o B, árboles frutales, arbustos, plantas ornamentales o una combinación de las anteriores, que sean adecuadas a las necesidades de reforestación en el Estado y sus Municipios, los cuales deberán contar con una altura mínima de 2.00 metros, diámetro mínimo de una pulgada, envasados con por lo menos 45 días de anticipación a la entrega, en bolsa de plástico de medidas mínimas de 40 X 40 centímetros y de calibre 500, los cuales deberán ser entregados en el vivero de la Secretaría, que ésta determine.
 
 Los árboles serán destinados para programas de la Secretaría en el Estado.
 
@@ -555,7 +563,7 @@ VIII.1 Formatos de presentación
 
 VIII.1.1 Planos digitalizados debidamente georeferenciados, en formatos de Autocad (dwg, dxt), Shapefile (shp), o en el que determine la Secretaría.
 
-VlII.1.2 Fotografías.
+VIII.1.2 Fotografías.
 
 VIII.1.3 Videos.
 
@@ -1049,7 +1057,7 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 EL GOBERNADOR DEL ESTADO
 
-PROFR. HUMBERTO MORElRA VALDÉS
+PROFR. HUMBERTO MOREIRA VALDÉS
 
 (RÚBRICA)
 
@@ -1078,3 +1086,9 @@ P.O. 30 DE MARZO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones que se opongan a lo previsto es (sic) este decreto.
+
+P.O. 30 DE MAYO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se dejan sin efectos las disposiciones que se opongan a lo establecido en el presente decreto.
