@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-ejecutiva-del-sistema-7190
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-25"
-last_updated: "2009-12-25"
+last_updated: "2014-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71903&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA EJECUTIVA DEL SISTEMA Y DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA EJECUTIVA DEL SISTEMA Y DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA EJECUTIVA DEL SISTEMA Y DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA EJECUTIVA DEL SISTEMA Y CONSEJO ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADO EN LA G.O. DE 30 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 25 de diciembre de 2009.
 
@@ -540,3 +542,17 @@ Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 30 DE MAYO DE 2014.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría Ejecutiva del Sistema y del Consejo Estatal de Seguridad Pública, publicado en la Gaceta Oficial del estado número extraordinario 402 de fecha 25 de diciembre de 2009.
+
+Tercero. Los recursos humanos y materiales que hubieran estado asignados a las áreas administrativas que desaparezcan o modifiquen su competencia, en virtud de lo dispuesto en el presente ordenamiento, serán reasignados a las áreas administrativas que asuman las atribuciones que tuvieron aquellas, con intervención del Coordinador Administrativo y de conformidad con las instrucciones que al efecto emita el Secretario Ejecutivo.
+
+Cuarto. La Secretaría Ejecutiva, expedirá dentro de los 90 días siguientes a la entrada en vigor de este Reglamento, los manuales de organización, procedimientos y servicios al público correspondientes, así como los que sean necesarios para el buen funcionamiento de esta entidad.
+
+Quinto. Hasta en tanto se expidan los manuales a que se refiere el transitorio anterior, el Secretario Ejecutivo queda facultado para resolver las cuestiones que dichos ordenamientos deban regular.
