@@ -4,7 +4,7 @@ identifier: "COL-ley-de-justicia-alternativa-del-estado-de-colima-34293"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-27"
-last_updated: "2012-06-16"
+last_updated: "2014-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2014.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 27 de septiembre de 2003.
 
@@ -57,19 +57,29 @@ La presente Ley es reglamentaria del artículo 1º, fracción VII, de la Constit
 
 Esta Ley tiene por objeto:
 
-I. Hacer posible el acceso de los particulares a los procedimientos alternativos para la solución de controversias, establecidos en esta Ley;
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2014)</small>
 
-II. Establecer los principios, bases, requisitos y condiciones para desarrollar un sistema de métodos alternativos para la solución de las controversias entre particulares;
+I. Fomentar una convivencia social armónica y una cultura de paz en la sociedad, que favorezca la solución de conflictos a través del diálogo y de procedimientos basados en los principios de economía procesal y confidencialidad;
 
-III. Crear un órgano auxiliar del Poder Judicial, especializado en la conducción y aplicación de métodos alternativos para la solución de conflictos, y regular su funcionamiento;
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2014)</small>
 
-IV. Determinar y regular los procedimientos y órganos para la solución de controversias;
+II. Fortalecer la cultura de paz y de restauración de las relaciones interpersonales y sociales, a través de medios de solución de conflictos entre la sociedad colimense;
 
-V. Precisar los requisitos que deben reunir los especialistas en la conducción de procedimientos alternativos para la solución de controversias;
+III. Hacer posible el acceso de los particulares a los procedimientos alternativos para la solución de controversias, establecidos en esta Ley;
 
-VI. Establecer los requisitos y condiciones en que los particulares podrán aplicar los métodos alternativos de solución de controversias;
+IV. Establecer los principios, bases, requisitos y condiciones para desarrollar un sistema de métodos alternativos para la solución de las controversias entre particulares;
 
-VII. Establecer el régimen de responsabilidad administrativa de los servidores públicos encargados de conducir los procedimientos y órganos para la solución alternativa de conflictos.
+V. Crear un órgano auxiliar del Poder Judicial, especializado en la conducción y aplicación de métodos alternativos para la solución de conflictos, y regular su funcionamiento;
+
+VI. Determinar y regular los procedimientos y órganos para la solución de controversias;
+
+VII. Precisar los requisitos que deben reunir los especialistas en la conducción de procedimientos alternativos para la solución de controversias;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
+
+VIII. Establecer los requisitos y condiciones en que los particulares podrán aplicar los métodos alternativos de solución de controversias; y
+
+IX. Establecer el régimen de responsabilidad administrativa de los servidores públicos encargados de conducir los procedimientos y órganos para la solución alternativa de conflictos.
 
 ###### Artículo 3o.
 
@@ -104,6 +114,12 @@ XII. Ley de los Trabajadores, Ley de los Trabajadores al Servicio del Gobierno, 
 ###### Artículo 4o.
 
 Los medios alternativos de solución de conflictos previstos en este ordenamiento, pretenden fomentar la convivencia armónica e inducir a una cultura de paz social, solucionando los conflictos de naturaleza jurídica que surjan en la sociedad, a través del diálogo, mediante procedimientos basados en la oralidad, la economía procesal y la confidencialidad por lo que son principio (sic) rectores de esta Ley la no obligatoriedad, la imparcialidad, la buena fe y la equidad entre las partes.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+###### Artículo 4o Bis.
+
+Con el objeto de promover acciones que posibiliten prevenir la generación de conflictos entre los distintos sectores de la sociedad, y fomentar la autocomposición de las partes como forma de solución de los mismos, la autoridad encargada de su aplicación, promocionará y fomentará la participación de la cultura de la paz, y la sana convivencia social.
 
 ###### Artículo 5o.
 
@@ -217,9 +233,15 @@ XI. Establecer, mediante disposiciones generales, los métodos, políticas y est
 
 XII. Difundir los fines, funciones y logros del Centro y de los Centros Regionales;
 
-XIII. Elaborar investigaciones, análisis y diagnósticos relacionados con la justicia alternativa, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
 
-XIV. Las demás que establezcan esta Ley y cualquier otro ordenamiento aplicable, así como las que se impongan mediante acuerdo del Pleno del Tribunal.
+XIII. Elaborar investigaciones, análisis y diagnósticos relacionados con la justicia alternativa;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2014)</small>
+
+XIV. Diseñar un programa de acción que contenga las estrategias necesarias para el fomento de la cultura de paz y la legalidad, así como la promoción de los medios alternativos de solución de conflictos, y
+
+XV. Las demás que establezcan esta Ley y cualquier otro ordenamiento aplicable, así como las que se impongan mediante acuerdo del Pleno del Tribunal.
 
 ###### Artículo 18.
 
@@ -832,5 +854,9 @@ P.O. 13 DE AGOSTO DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima.
 
 P.O. 16 DE JUNIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE MAYO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
