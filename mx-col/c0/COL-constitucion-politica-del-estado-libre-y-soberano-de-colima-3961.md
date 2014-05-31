@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2013-10-05"
+last_updated: "2014-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2014.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -159,15 +159,19 @@ Por cada Diputado propietario electo por el principio de mayoría relativa se el
 
 Para la elección por representación proporcional y lista regional se deberá observar el Código Electoral. En todo caso el partido político que solicite el registro de su lista regional, deberá acreditar que tiene su registro y que participa con sus candidatos a Diputados por mayoría relativa en por lo menos la mitad de los distritos uninominales.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2014)</small>
 
-Todo partido político que alcance por lo menos el 2% de la votación emitida en la circunscripción electoral plurinominal, tendrá derecho a participar en la asignación de Diputados según el principio de representación proporcional y, en su caso, a que le sean atribuidos Diputados por dicho principio de conformidad con las reglas de asignación que determine el Código Electoral.
+Todo partido político que alcance por lo menos el 3% de la votación emitida en la circunscripción electoral plurinominal, tendrá derecho a participar en la asignación de Diputados según el principio de representación proporcional y, en su caso, a que le sean atribuidos Diputados por dicho principio de conformidad con las reglas de asignación que determine el Código Electoral.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+Ningún partido político o coalición podrá contar con más de 16 Diputados por ambos principios. De igual manera su número no representará un porcentaje total del Congreso que exceda en ocho puntos a su porcentaje de votación efectiva. Esta disposición no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de diputaciones del total del Congreso que rebase la suma de su porcentaje de votación más ocho puntos. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2014)</small>
 
 ###### Artículo 23.
 
-Los ciudadanos que hayan desempeñado el cargo de Diputado Propietario no podrán ser electos para el período inmediato. Los Diputados Suplentes podrán ser electos para el período inmediato siempre que no hubieren estado en ejercicio.
+Los ciudadanos podrán ser electos para desempeñar el cargo de Diputado Propietario y tendrán derecho a ser electos consecutivamente para el mismo cargo, por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 ###### Artículo 24.
 
@@ -309,9 +313,9 @@ VII.- Legislar sobre expropiación por causa de utilidad pública;
 
 VIII.- Legislar en materia educativa en los términos del artículo 3o. de la Constitución Federal y conforme a lo dispuesto por la legislación correspondiente;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
 
-IX.- Expedir leyes electorales conforme a la presente Constitución, así como los Estatutos laborales del Instituto y Tribunal Electorales;
+IX.- Expedir leyes electorales conforme a la presente Constitución;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -375,9 +379,9 @@ XIX.- Crear municipios conforme a las bases que fija esta Constitución, cuando 
 
 XX.- Dirimir las cuestiones que sobre límites se susciten entre municipios, de conformidad con la ley respectiva;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
 
-XXI.- Elegir a los Magistrados del Tribunal Electoral, a los Consejeros Electorales del Instituto Electoral, así como al Presidente y a los Consejeros de la Comisión de Derechos Humanos del Estado, en los términos que determinen esta Constitución y las leyes de la materia;
+XXI.- Elegir al Presidente y a los Consejeros de la Comisión de Derechos Humanos del Estado, en los términos que determinen esta Constitución y las leyes de la materia;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1043,9 +1047,7 @@ IX.- Ejercitar el derecho de iniciar leyes ante el Congreso local y nombrar, en 
 
 X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces de Paz y demás servidores públicos que establezca la Ley Orgánica del Poder Judicial, así como tomarles la protesta de ley;
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
-
-XI.- Proponer al Congreso del Estado a los Magistrados del Tribunal Electoral, en los términos que establezca la ley de la materia;
+XI.- (DEROGADA, P.O. 31 DE MAYO DE 2014)
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
@@ -1197,9 +1199,11 @@ La ley orgánica determinará la forma de integración, su estructura y funciona
 
 ### CAPITULO UNICO.. De los Partidos Políticos, Candidatos Independientes y Organismos Electorales
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2014)</small>
 
-Artículo 86 BIS.- La renovación de los poderes Legislativo y Ejecutivo del Estado, así como los Ayuntamientos, se realizarán mediante elecciones libres, auténticas y periódicas, las cuales deberán celebrarse ordinariamente el primer domingo del mes de julio del año que corresponda, conforme a las siguientes bases:
+Artículo 86 BIS.- La renovación de los poderes Legislativo y Ejecutivo del Estado, así como los Ayuntamientos, se realizarán mediante elecciones libres, auténticas y periódicas, las cuales deberán celebrarse ordinariamente el primer domingo del mes de junio del año que corresponda, conforme a las siguientes bases:
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
 
 I. Los partidos políticos son formas de organización política y constituyen entidades de interés público; la ley determinará las normas y requisitos para su registro legal y los modos específicos de su intervención en el proceso electoral. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatal, distritales y municipales, previa inscripción de la constancia de su registro ante el Instituto Electoral del Estado.
 
@@ -1211,7 +1215,9 @@ Las autoridades electorales solamente podrán intervenir en los asuntos internos
 
 Los partidos políticos promoverán y garantizarán la equidad y la paridad entre mujeres y hombres en sus órganos de dirección y en las candidaturas a cargos de elección popular.
 
-Para este último fin, podrán registrar hasta el 70% de candidatos de un mismo género a cargos de diputados por el principio de mayoría relativa, con excepción de las candidaturas de este tipo que sean resultado de un proceso de elección democrático, conforme a los estatutos de cada partido; tratándose de cargos de diputados por el principio de representación proporcional, quienes se ubicarán de manera alternada en la lista, no podrán incluir más del 50% de un mismo género.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2014)</small>
+
+Para este último fin, deberán registrar hasta el 50% de candidatos de un mismo género a cargos de diputados por el principio de mayoría relativa; tratándose de cargos de diputados por el principio de representación proporcional, quienes se ubicarán de manera alternada en la lista, no podrán incluir más del 50% de un mismo género.
 
 En el caso de los Ayuntamientos, cuyo número total de presidentes municipales, síndicos y regidores sea par, el porcentaje para cada uno de los géneros será del 50% y cuando se trate de un número impar, será hasta un 60% para un mismo género.
 
@@ -1239,6 +1245,8 @@ Cuando a juicio de la autoridad electoral local el tiempo en radio y televisión
 
 Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes estatales, como de los municipios, órganos autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
 II. La ley garantizará que los partidos políticos cuenten de manera equitativa, con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento ordinario de los propios partidos y de sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
 El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgará conforme a las siguientes bases y a lo que disponga la ley:
@@ -1265,67 +1273,189 @@ La ley establecerá las reglas y límites a que se sujetará el financiamiento d
 
 Los candidatos independientes registrados, en ningún caso, podrán participar en la asignación de diputados por el principio de representación proporcional.
 
-III. La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público de carácter permanente denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan el Poder Legislativo del Estado, los partidos políticos y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2014)</small>
+
+III. La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público de carácter permanente denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propio, cuya integración es facultad del Consejo General del Instituto Nacional Electoral, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 El Instituto Electoral del Estado será autoridad en la materia, profesional en su desempeño, autónomo e independiente en sus decisiones y funcionamiento. Contará en su estructura con órganos de dirección, ejecutivos y técnicos y se organizará de acuerdo con las siguientes bases:
 
-a) El Consejo General será su órgano superior de dirección y se integrará por siete Consejeros Electorales propietarios, designados por el Congreso del Estado, por mayoría calificada de sus integrantes, a propuesta de los grupos parlamentarios, previa convocatoria pública, mediante la realización de una amplia consulta a la sociedad y con la aplicación de una evaluación a los aspirantes. Durarán en su encargo siete años, sus requisitos y mecanismos de elección serán determinados en la ley de la materia. Uno de los Consejeros será Presidente, electo por un mínimo de cinco votos de los Consejeros. Tendrá un Secretario Ejecutivo, que deberá ser también Consejero y será electo por cinco votos de los Consejeros, a propuesta en terna de su Presidente. Ambos funcionarios durarán en su cargo 4 años pudiendo ser reelectos para completar el resto del período. Los Consejeros Electorales estarán sujetos al régimen de responsabilidades establecido en el Título XI de esta Constitución.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2014)</small>
 
-En caso de que no se reúna en una segunda vuelta la mayoría calificada a que se refiere el párrafo anterior, los funcionarios electorales serán electos por el sistema de insaculación.
+a) El Consejo General será su órgano superior de dirección y se integrará por siete Consejeros Electorales propietarios, tendrán un período de desempeño de siete años y no podrán ser reelectos, designados por el Consejo General del Instituto Nacional Electoral, uno de los Consejeros será Presidente, electo por un mínimo de cinco votos de los Consejeros. Tendrá un Secretario Ejecutivo sólo con derecho a voz, que será nombrado de conformidad con la legislación aplicable. Los Consejeros Electorales deberán ser originarios de la entidad federativa correspondiente o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. Los Consejeros Electorales estarán sujetos al régimen de responsabilidades establecido en el Título XI de esta Constitución.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE MAYO DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 Los Consejeros Electorales no podrán:
 
-1) Tener ningún otro empleo público durante el desempeño de su función;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2014)</small>
 
-2) Ser candidatos a cargos de elección popular durante los tres años posteriores a la conclusión o separación de su cargo; y
+1) Tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia;
 
-3) Ocupar un cargo en los Poderes Ejecutivo y Legislativo, así como en los Ayuntamientos de la entidad, hasta pasado un año de la conclusión o separación de su cargo.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2014)</small>
+
+2) Asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+3) (DEROGADO, P.O. 31 DE MAYO DE 2014)
 
 En el Consejo General y los Consejos Municipales participarán un representante acreditado por cada partido político o coalición, quienes sólo tendrán derecho a voz y gozarán de las prerrogativas que señale la ley.
 
-b) El órgano ejecutivo dispondrá del personal calificado necesario para prestar el servicio profesional electoral. Los servidores del Instituto regirán sus relaciones de trabajo por las disposiciones del Código Electoral y por el Estatuto que apruebe el Congreso del Estado, cuyos derechos y obligaciones no podrán ser menores a los preceptuados por el artículo 123 Apartado B de la Constitución Política de los Estados Unidos Mexicanos. Las mesas directivas de casillas estarán integradas por ciudadanos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2014)</small>
+
+b) El órgano ejecutivo dispondrá del personal calificado necesario para prestar el servicio profesional electoral. Los servidores del Instituto regirán sus relaciones de trabajo por las disposiciones del Código Electoral y por demás normas aplicables, cuyos derechos y obligaciones no podrán ser menores a los preceptuados por el artículo 123 Apartado B de la Constitución Política de los Estados Unidos Mexicanos. Las mesas directivas de casillas estarán integradas por ciudadanos.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 El Instituto Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón y lista de electores, geografía electoral, observación electoral, derechos y prerrogativas de las agrupaciones y partidos políticos, preparación de la jornada electoral, la regulación de encuestas o sondeos de opinión con fines electorales, cómputos, declaración de validez y otorgamiento de constancias, capacitación electoral, educación cívica e impresión de materiales electorales. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 La fiscalización de las finanzas de los partidos políticos, estará a cargo de una Comisión de Consejeros Electorales. La ley regulará la integración y funcionamiento de dicha comisión, así como las bases de coordinación con la autoridad administrativa electoral federal en la materia y los procedimientos para la aplicación de sanciones por el incumplimiento a las disposiciones legales de la materia.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales, además de las sanciones para quienes las infrinjan.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 La duración de las campañas no deberá exceder de noventa días para la elección de Gobernador, ni de sesenta días cuando se elijan diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la ley.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 El Instituto Electoral del Estado realizará el cómputo de cada elección; otorgará constancias de mayoría a los candidatos que hubieren obtenido el triunfo; declarará la validez de las elecciones de diputados de mayoría relativa y Ayuntamientos; y hará la declaratoria de validez y la asignación de diputados y regidores según el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 La ley señalará los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 El Instituto Electoral del Estado tendrá a su cargo, además, la realización del plebiscito y referéndum, en los términos de la Ley respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 El Instituto Electoral del Estado podrá convenir con la autoridad administrativa electoral federal, para que ésta se haga cargo de la organización de los procesos electorales locales.
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
 IV. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales, de los que conocerán, según la competencia, el Instituto Electoral del Estado o el Tribunal Electoral del Estado, en los términos que señale la Ley. Asimismo, se fijarán las causales de nulidad de las elecciones de Gobernador, Diputados Locales y Ayuntamientos.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2014)</small>
+
+La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes en los siguientes casos:
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
 En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos sobre el acto o la resolución impugnados.
 
 Los cómputos efectuados por los órganos electorales, las determinaciones sobre la declaración de validez, el otorgamiento de las constancias de mayoría y la asignación de diputados o regidores por el principio de representación proporcional podrán ser impugnadas ante el Tribunal Electoral del Estado, en los términos que señale la ley.
 
-V. El Tribunal Electoral del Estado será órgano autónomo en su funcionamiento e independiente en sus decisiones, de pleno derecho y máxima autoridad jurisdiccional electoral. Funcionará en pleno y sus sesiones de resolución serán públicas. Se organizará en los términos que señale la ley; regirá sus relaciones de trabajo conforme al Estatuto que apruebe el Congreso del Estado, en el que se establecerá que los derechos y obligaciones de sus trabajadores no podrán ser menores a los preceptuados por el artículo 123 Apartado B de la Constitución Política de los Estados Unidos Mexicanos, y los mecanismos de vigilancia y disciplina se establecerán en la ley electoral. Sus magistrados responderán solo al mandato de la ley; deberán satisfacer los requisitos establecidos en la legislación electoral, que no podrán ser menores de los que señala esta Constitución para ser Magistrado del Poder Judicial. Serán electos por el Congreso del Estado, por mayoría calificada de los diputados presentes, a propuesta del Supremo Tribunal de Justicia de conformidad con la ley de la materia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2014)</small>
+
+V. El Tribunal Electoral del Estado será órgano autónomo en su funcionamiento e independiente en sus decisiones, de pleno derecho y máxima autoridad jurisdiccional electoral. Funcionará en pleno y sus sesiones de resolución serán públicas. Se organizará en los términos que señale la ley; regirá sus relaciones de trabajo conforme las leyes aplicables, en el que se establecerá que los derechos y obligaciones de sus trabajadores no podrán ser menores a los preceptuados por el artículo 123 Apartado B de la Constitución Política de los Estados Unidos Mexicanos, y los mecanismos de vigilancia y disciplina se establecerán en la ley electoral.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2014)</small>
+
+Los magistrados del Tribunal Electoral del Estado, serán electos por la Cámara de Senadores, de conformidad con lo previsto en la Constitución General de la República, esta Constitución y la ley de la materia, responderán solo al mandato de la ley y deberán acreditar los siguientes requisitos:
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+a) Ser mexicano y vecino de la entidad, con una residencia efectiva acreditada de por lo menos cinco años anteriores a su elección;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+b) No tener menos de 30 años de edad al día de la elección;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+c) Estar en pleno ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+d) Gozar de buena reputación y no haber sido condenado por delito que amerite pena por más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+e) Estar inscrito en el Padrón Electoral y contar con credencial para votar con fotografía que expida la autoridad electoral competente;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+f) Poseer al día de la elección, título profesional de Licenciado en Derecho expedido por institución de educación superior legalmente facultada para ello, con una antigüedad mínima de cinco años;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+g) No haber tenido cargo alguno de elección popular ni haber sido postulado como candidato en los cinco años anteriores a su nombramiento;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+h) No haber desempeñado cargo de dirección en los órganos nacionales, estatales o municipales de algún partido político o de algún organismo, institución, colegio o agrupación ciudadana afiliada a algún partido político en los últimos tres años anteriores a su elección;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+i) No ser ni haber sido titular de una delegación o representación del Gobierno Federal o de organismo descentralizado de la Federación en la entidad; ni Secretarios de Gobierno o Procurador General de Justicia; ni Presidente Municipal, Secretario, Tesorero, Oficial Mayor o Contralor de un Ayuntamiento, en el año anterior a su designación; y
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+j) No ser ni haber sido ministro de culto religioso alguno, en los últimos cinco años anteriores a su nombramiento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2011)</small>
 
 El Tribunal Electoral del Estado tendrá competencia para:
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 a) Realizar el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiere obtenido el mayor número de votos;
 
-b) Substanciar y resolver en forma firme y definitiva, en los términos de esta Constitución y el Código o Ley respectiva, las impugnaciones que se susciten en materia electoral, de referéndum y plebiscito;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2014)</small>
+
+b) Substanciar y resolver en forma firme y definitiva, en los términos de esta Constitución y el Código o Ley respectiva, las impugnaciones que se susciten en materia electoral, de elección de autoridades auxiliares municipales, de referéndum y plebiscito;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 c) Dirimir los conflictos o diferencias laborales entre el Tribunal, el Instituto Electoral del Estado y sus servidores;
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 d) Determinar e imponer sanciones en la materia;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 e) Expedir su reglamento interior; y
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 f) Realizar las demás atribuciones que le confiera la ley.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 Las sentencias del Tribunal Electoral del Estado serán definitivas y sólo podrán ser impugnadas ante el Tribunal Electoral del Poder Judicial de la Federación, en los términos establecidos por el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 Las conductas delictuosas, las faltas en materia electoral, así como todo acto u omisión que atente contra la legalidad de los procesos democráticos de plebiscito y de referéndum, serán causa de responsabilidad. Las leyes respectivas determinarán las sanciones correspondientes.
 
@@ -1349,7 +1479,9 @@ I.- Cada municipio será gobernado por un Ayuntamiento de elección popular dire
 
 La competencia que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución otorgan al gobierno municipal, será ejercida exclusivamente por el Ayuntamiento y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
-Los presidentes municipales, síndicos y regidores de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato a ningún cargo de elección dentro del Ayuntamiento. Las personas que, por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualesquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato a ningún cargo de elección dentro del Ayuntamiento. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero, los que tengan este carácter si podrán ser electos para el período inmediato como propietarios, siempre y cuando no hayan estado en ejercicio.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2014)</small>
+
+Los presidentes municipales, síndicos y regidores de los Ayuntamientos electos popularmente por elección directa, tendrán derecho a ser electos consecutivamente para el mismo cargo, por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Las personas que, por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas para el mismo cargo para el período inmediato.
 
 En caso de que no se realizaran elecciones municipales o se declararan nulas, el Congreso designará un concejo municipal que estará en funciones hasta que tomen posesión los integrantes del Ayuntamiento que hayan sido electos en los comicios extraordinarios.
 
@@ -1511,13 +1643,9 @@ IV.- En los municipios con población superior a cien mil habitantes, el Ayuntam
 
 V.- La determinación del número de regidores será de conformidad con el último censo general de población; y
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
 
-VI.- Todo partido político o coalición que alcance por lo menos el 2% de la votación emitida en el municipio respectivo, tendrá derecho a participar en la asignación de regidores de representación proporcional, a excepción del partido o coalición que haya obtenido el triunfo por mayoría relativa.
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2013)</small>
-
-VI.- Todo partido político, coalición o planilla de candidatos independientes, que alcance por lo menos el 2% de la votación emitida en el municipio respectivo, tendrá derecho a participar en la asignación de regidores de representación proporcional, a excepción del partido, coalición o planilla de candidatos independientes, que haya obtenido el triunfo por mayoría relativa.
+VI.- Todo partido político, coalición o planilla de candidatos independientes, que alcance por lo menos el 3% de la votación emitida en el municipio respectivo, tendrá derecho a participar en la asignación de regidores de representación proporcional, a excepción del partido, coalición o planilla de candidatos independientes, que haya obtenido el triunfo por mayoría relativa.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2169,9 +2297,13 @@ El proceso penal será acusatorio y oral. Se regirá por los principios de publi
 
 El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medio para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
 
-VIII.- Por el carácter plural de la sociedad colimense, las autoridades están obligadas a fortalecerla, alentando la participación democrática de individuos, organizaciones y partidos políticos en el desarrollo del Estado.
+VIII.- Todos los ciudadanos tienen el derecho de participar libremente en la dirección de los asuntos públicos, directamente o por medio de representantes libremente elegidos.
+
+Este derecho incluye el de votar y ser elegidos en elecciones periódicas y auténticas, realizadas por sufragio universal e igual y por voto secreto que garantice la libre expresión de la voluntad de los electores, y de tener acceso, en condiciones generales de igualdad, a las funciones públicas en el Estado de Colima, siempre y cuando se reúnan los requisitos que establezcan esta Constitución y las leyes de la materia.
+
+La participación de los ciudadanos en la formación, ejecución, evaluación y control de la gestión pública es un medio necesario para lograr su pleno y completo desarrollo, tanto individual como colectivo. Es obligación del Estado y deber de la sociedad promover la generación de condiciones más favorables para su práctica.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -3062,6 +3194,22 @@ P.O. 5 DE OCTUBRE DE 2013.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 167 SE APRUEBA REFORMAR LA NOMENCLATURA DEL CAPÍTULO ÚNICO, DEL TÍTULO VI, PARA DENOMINARSE "DE LOS PARTIDOS POLÍTICOS, CANDIDATOS INDEPENDIENTES Y ORGANISMOS ELECTORALES", LOS PÁRRAFOS DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO CUARTO DE LA FRACCIÓN I, DEL ARTÍCULO 86 BIS Y LA FRACCIÓN VI DEL ARTÍCULO 89, ASÍ COMO ADICIONAR LA FRACCIÓN II BIS AL ARTÍCULO 86 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE MAYO DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 313 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Congreso del Estado deberá adecuar la legislación secundaria a más tardar 90 días antes del inicio del proceso electoral 2014 - 2015.
+
+TERCERO.- La reforma al artículo 23 de esta Constitución en materia de reelección de diputados locales, no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+CUARTO.- La reforma al tercer párrafo, de la fracción I, del artículo 87 de esta Constitución en materia de reelección de presidentes municipales, síndicos y regidores no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+QUINTO.- De conformidad con lo que dispone el primer párrafo del artículo 86 BIS del presente Decreto, la celebración de las elecciones locales se celebrarán el primer domingo de junio del año que corresponda, en los términos de esta Constitución, a partir del año 2015, salvo aquellas que se verifiquen en el año 2018, las cuales se llevarán a cabo el primer domingo de julio.
+
+SEXTO.- En virtud del principio de paridad de género en la designación de candidaturas a Diputados locales, dispuesto en la fracción I, del artículo 86 BIS del presente Decreto, los Partidos Políticos deberán tomar las previsiones necesarias que garanticen su cumplimiento.
 
 ###### ARTÍCULO ÚNICO.
 
