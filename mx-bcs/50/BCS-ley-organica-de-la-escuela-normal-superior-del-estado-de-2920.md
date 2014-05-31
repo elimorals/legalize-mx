@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-escuela-normal-superior-del-estado-de-2920"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-10-27"
-last_updated: "1982-12-20"
+last_updated: "2014-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR "PROFR. ENRIQUE ESTRADA LUCERO" - ANTES- LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY ORGÁNICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR, "PROFR. ENRIQUE ESTRADA LUCERO"
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1982.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2014.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial Estado de Baja California Sur, el 27 de octubre de 1976.
 
@@ -33,11 +33,15 @@ DECRETO No. 47
 
 EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR DECRETA:
 
-LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE MAYO DE 2014)</small>
+
+LEY ORGÁNICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR, "PROFR. ENRIQUE ESTRADA LUCERO".
+
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2014)</small>
 
 ###### ARTICULO PRIMERO.
 
-La Escuela Normal Superior del Estado de Baja California Sur, es la Institución educativa encargada de formar los profesionales de enseñanza media y superior que requieran las necesidades del Estado y demás entidades federativas, sin desatender la unidad orgánica del Sistema Educativo Nacional.
+La Escuela Normal Superior del Estado de Baja California Sur, "PROFR. ENRIQUE ESTRADA LUCERO", es la Institución Educativa encargada de formar los profesionales de enseñanza media y superior que requieran las necesidades del Estado y demás entidades federativas, sin desatender la unidad orgánica del Sistema Educativo Nacional.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1982)</small>
 
@@ -251,10 +255,14 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Guillermo Mercado Romero. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 20 DE DICIEMBRE DE 1982.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
