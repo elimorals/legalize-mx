@@ -4,7 +4,7 @@ identifier: "COL-ley-de-vivienda-para-el-estado-de-colima-89131"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-18"
-last_updated: "2012-08-18"
+last_updated: "2014-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2014.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 18 de agosto de 2012.
 
@@ -107,6 +107,10 @@ XVII. Población en situación de riesgo: A aquella que habita una vivienda en c
 
 XVIII. Población en situación de pobreza: Al grupo de personas con carencia de lo necesario para el sustento de la vida por la baja capacidad de ingreso o condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de bienestar;
 
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2014)</small>
+
+XVIII Bis. Población vulnerable: La constituida por los adultos mayores y discapacitados en situación de pobreza, jefas de familia, población indígena, así como población con empleo temporal y/o informal de bajos recursos económicos.
+
 XIX. Política Estatal de Vivienda: Al conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realicen el Estado y sus municipios, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;
 
 XX. Producción social de vivienda: A aquella que se realiza bajo el control de autoproductores y autoconstructores que operan sin fines de lucro y que se orienta prioritariamente a atender las necesidades habitacionales de la población de bajos ingresos, incluye aquella que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda por sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades y su capacidad de gestión y toma de decisiones;
@@ -169,7 +173,9 @@ II. Considerar la vivienda como factor de ordenamiento territorial, de desarroll
 
 III. Asegurar la congruencia de las acciones de vivienda con los programas de desarrollo urbano y ambiental, así como con los de desarrollo regional, económico y social;
 
-IV. Ampliar las posibilidades de acceso al suelo y la vivienda a un mayor número de personas, equilibrando y considerando las distintas regiones del Estado;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
+
+IV. Ampliar las posibilidades de acceso al suelo y la vivienda a un mayor número de personas que serán sujetas de la ayuda de beneficio social, preferentemente la población vulnerable de bajos recursos y en situación de riesgo.
 
 V. Fomentar, reconocer y concertar la participación de los diferentes productores de vivienda: personas, instituciones y organismos de los sectores público, social y privado;
 
@@ -359,7 +365,9 @@ El Instituto tiene por objeto:
 
 I. Coadyuvar con las dependencias de los gobiernos federal y municipales, en la ejecución de planes, adquisición de reservas territoriales y programas de vivienda en los que tenga interés el gobierno del Estado;
 
-II. Promover y realizar el mejoramiento y rehabilitación de las viviendas y fraccionamientos de interés social existentes, así como de las zonas urbanas que lo requieran;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
+
+II. En general promover el mejoramiento de las condiciones de habitación de los sectores de población de bajos recursos económicos;
 
 III. Promover la expropiación de terrenos de acuerdo con lo dispuesto en las leyes de la materia, cuyo destino sea para el establecimiento de programas de vivienda;
 
@@ -375,7 +383,9 @@ VIII. Propiciar la participación de la comunidad en la ejecución de acciones, 
 
 IX. Gestionar y obtener créditos para la realización de acciones de vivienda, adquisición de reservas territoriales e inversiones en materia de suelo, equipamiento, infraestructura y servicios urbanos;
 
-X. Conceder créditos para la adquisición de vivienda y terrenos, estableciendo los requisitos que deberán satisfacer los beneficiarios de los mismos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
+
+X. Conceder créditos, subsidios y apoyos para la adquisición de vivienda y terrenos, estableciendo los requisitos que deberán satisfacer los beneficiarios de los mismos;
 
 XI. Desarrollar, mediante la investigación, modelos de vivienda adecuados a las tradiciones y usos de materiales de la región;
 
@@ -730,6 +740,10 @@ III. El Programa Operativo Anual de Vivienda, a cargo del Instituto, el cual reg
 En el marco del Plan Estatal de Desarrollo, el Programa Estatal de Vivienda se formulará con el objeto de articular el desarrollo ordenado de los programas, acciones y la producción habitacional en la entidad, con la participación de los sectores público, social y privado.
 
 El Programa Estatal de Vivienda tendrá una visión de mediano y largo plazo, que permita la continuidad de las políticas y programas en la materia, más allá de los periodos de los gobiernos Estatal y Municipal. Se tomarán en consideración para la elaboración de la política y los programas de vivienda, las propuestas que formulen los sectores social y privado, a través de foros de consulta ciudadana.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+
+Este Plan contemplará además la construcción de viviendas sociales, las cuales se entregarán entre la población vulnerable y en situación de pobreza extrema que se encuentre debidamente identificada por la Secretaría de Desarrollo Social del Estado. La entrega de viviendas será implementada por el Instituto, mediante un sistema que garantice la transparencia e imparcialidad de este programa.
 
 ###### ARTÍCULO 45.
 
@@ -1168,3 +1182,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 17 diecisiete del mes de agosto del año 2012 dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ARQ. OSCAR ALEJANDRO TORRES CONTRERAS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MAYO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
