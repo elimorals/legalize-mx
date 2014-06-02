@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-registro-civil-del-estado-de-michoacan-de-3889
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-04-23"
-last_updated: "2010-11-09"
+last_updated: "2014-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 23 de abril del 2004.
 
@@ -168,6 +168,10 @@ VII. Proporcionar a los oficiales, las leyes, circulares y demás disposiciones 
 VIII. Resolver las consultas que le sean planteadas por servidores públicos de la dirección, de las oficialías o por cualquier persona sobre asuntos inherentes a la materia registral;
 
 IX. Autorizar y expedir constancias y copias certificadas de documentos en poder de la dirección;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2014)</small>
+
+IX BIS. Expedir actas del estado civil de las personas utilizando para ello, los medios electrónicos disponibles, así como la firma digital para garantizar su integridad, validación y autenticidad, las cuales tendrán la misma validez legal que las firmadas de manera autógrafa.
 
 X. Instrumentar los planes y estrategias de supervisión de las oficialías, así como comisionar al personal que se hará cargo de aquellas;
 
@@ -491,8 +495,18 @@ En cumplimiento a lo dispuesto por la facción I, del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE NOVIEMBRE DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+CUARTO. Remítase el presente Decreto al Titular de la Dirección del Registro Civil del Estado, para su conocimiento y efectos legales correspondientes.
