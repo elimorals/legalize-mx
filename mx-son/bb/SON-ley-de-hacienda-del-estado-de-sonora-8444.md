@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2014-01-09"
+last_updated: "2014-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -2157,7 +2157,7 @@ XI.- Primas de seguro de gastos médicos y de vida;
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre por una cantidad igual a la aportada por el trabajador y se retire una vez al año, y (sic)
+XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre por una cantidad igual a la aportada por el trabajador y se retire una vez al año, y
 
 > <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -2166,6 +2166,20 @@ XIII.- Pagos que resulten del crédito al salario conforme a la Ley del Impuesto
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 XIV.- Los premios por asistencia y puntualidad, siempre que el importe de cada uno no rebasen el 10% del salario base.
+
+> <small>(ADICIONADA, B.O. 2 DE JUNIO DE 2014)</small>
+
+XIV Bis.- Al patrón que contrate algún trabajador de recién ingreso para ocupar algún puesto de nueva creación, sin que pueda recibir este beneficio alguna entidad o dependencia pública, siendo aplicable únicamente respecto de trabajadores que perciban, diariamente, hasta seis veces el salario mínimo general vigente en el Estado prevaleciente en la zona donde se haya dado la contratación.
+
+Para los efectos de la presente fracción, se entenderá por trabajador de recién ingreso, la persona que preste sus servicios a su patrón y que cumpla con una o más de las siguientes características:
+
+a) Tener entre 18 y 29 años de edad, que no hayan causado previamente alta ante el Instituto Mexicano del Seguro Social, y que hayan terminado su educación obligatoria, salvo los casos de excepción que apruebe la autoridad correspondiente, en términos de lo dispuesto en el artículo 22 de la Ley Federal del Trabajo; así como también, la autorización de sus padres o tutores a que se refiere el artículo 23 de la misma Ley señalada;
+
+b) Ser recién egresado de una universidad, tecnológico, colegio de bachilleres u otro centro de preparación académica que no haya causado previamente alta ante el Instituto Mexicano del Seguro Social;
+
+c) Contar con 40 años cumplidos, haber estado registrado como trabajador en el Instituto Mexicano del Seguro Social o cualquier otro instituto de seguridad social legalmente reconocido, y acreditar haber perdido su empleo dentro de los seis meses anteriores a su nueva contratación; o
+
+d) Tener alguna discapacidad.
 
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -2977,17 +2991,9 @@ Las contribuciones a que se refieren los artículos 284, 285, 286 y 287 de este 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
-CapítuloTercero
-
-Contribuciones para el Consejo Estatal de Concertación para la Obra Pública
+### Capítulo Tercero. Contribuciones para el Consejo Estatal de Concertación para la Obra Pública
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-### Capítulo III Bis. Contribuciones para el Fortalecimiento de la Infraestructura Educativa
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 289.
 
@@ -3039,7 +3045,11 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo Cuarto. Otras Contribuciones
+### Capítulo III Bis. Contribuciones para el Fortalecimiento de la Infraestructura Educativa
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 292 Bis.
 
@@ -3063,7 +3073,7 @@ III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exp
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo Primero. Disposiciones Generales
+### Capítulo Cuarto. Otras Contribuciones
 
 ###### Artículo 292 Bis
 
@@ -3073,6 +3083,8 @@ III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exp
 
 De igual manera, esta Contribución se podrá afectar como garantía o en su caso como fuente de pago de los financiamientos obtenidos por el Gobierno del Estado de Sonora de manera específica para realizar obra pública consistente en mantener y crear infraestructura educativa.
 
+### Capítulo Primero. Disposiciones Generales
+
 ### Capítulo Segundo. Servicios de Empadronamiento
 
 ### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
@@ -3080,8 +3092,6 @@ De igual manera, esta Contribución se podrá afectar como garantía o en su cas
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
-
-### Capítulo Cuarto. Servicios de Ganadería
 
 ###### Artículo 293.
 
@@ -3201,9 +3211,7 @@ Estas contribuciones se recaudarán en la misma forma y simultáneamente con los
 
 ## TITULO CUARTO. De los Derechos
 
-### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+### Capítulo Cuarto. Servicios de Ganadería
 
 ###### Artículo 297.
 
@@ -3309,7 +3317,7 @@ Cuando no se compruebe que el pago de derechos se ha efectuado previamente a la 
 
 Cuando el pago de derechos deba efectuarse con posterioridad a la prestación del servicio por tratarse de servicios continuos o por que así se establezca, éste dejará de prestarse si no se efectúa dicho pago.
 
-### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
+### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3321,9 +3329,9 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
 
-### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
+### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 302.
 
@@ -3653,9 +3661,9 @@ Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
+### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 307.
 
@@ -3727,9 +3735,9 @@ h) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
-### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
+### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 308.
 
@@ -3753,9 +3761,9 @@ del punto anterior, por cada prórroga. N$ 50.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
+### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 309.
 
@@ -3891,7 +3899,7 @@ o actualización bianual de datos, a petición del
 
 solicitante: $ 240.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3917,13 +3925,11 @@ f).- Reposición de la constancia de revalidación trianual a petición del soli
 
 servidor público. $176.00
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
+### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 310.
 
@@ -3947,7 +3953,7 @@ de la sucesión. $77.00
 
 6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3973,25 +3979,25 @@ a).- Por notario y por cada año de búsqueda. $150.00
 
 13.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicita. Se considerarán servicios urgentes cuando se proporcione dentro de las veinticuatro horas siguientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 14.- Por la presentación de examen de aspirante a notario. $ 15,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 15.- Por presentación de examen de oposición para ser titular de una notaría pública. $ 25,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 16.- Por la autorización de proyectos de escrituras a los jueces locales en funciones de Notario Público por Ministerio de Ley, por cada instrumento, que requiera autorización. $ 250.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3999,7 +4005,11 @@ a).- Por notario y por cada año de búsqueda. $150.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### Capítulo Décimo Segundo. Inspección Sanitaria
+### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 311.
 
@@ -4071,9 +4081,7 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
-### Capítulo Décimo Tercero. Servicios del Registro Civil
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+### Capítulo Décimo Segundo. Inspección Sanitaria
 
 ###### Artículo 312.
 
@@ -4453,7 +4461,7 @@ La Secretaría de Hacienda podrá emitir normatividad simplificando los trámite
 
 La Secretaría de Hacienda deberá mantener permanentemente actualizado el Registro Estatal Vehicular, así como el Registro de Licencias para conducir vehículos, para lo cual podrá celebrar convenios de colaboración administrativa con los municipios del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 319.
 
@@ -4487,9 +4495,9 @@ antigüedad a y más
 
 $400.00 $200.00 $100.00
 
-### Capitulo Décimo Cuarto. Otros Servicios
+### Capítulo Décimo Tercero. Servicios del Registro Civil
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 320.
 
@@ -4741,7 +4749,9 @@ b) Carga $180.00
 
 Las personas físicas o morales titulares de concesiones o permisos para operar algunas de las concesiones en cualquier modalidad contemplada en la Ley de Transporte para el Estado de Sonora, deberán presentar el aviso de inscripción ante el registro estatal de contribuyentes, en la oficina recaudadora que corresponda a su domicilio fiscal.
 
-### Capítulo Unico
+### Capitulo Décimo Cuarto. Otros Servicios
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 321.
 
@@ -4941,6 +4951,8 @@ Asimismo, se exceptúan de los derechos por registro de documentos públicos o p
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
+### Capítulo Unico
+
 ###### Artículo 324.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
@@ -5057,7 +5069,7 @@ en línea y cajeros automáticos). $90.00
 
 1.2.- Trascripción del libro (mecanografiada). $90.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 1.3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
@@ -5135,13 +5147,13 @@ I.- Por la expedición de actas:
 
 1.2.- Transcripción del libro (mecanografiada). $50.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 1.3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 II.- Por la búsqueda que se efectúe para la localización de un acta, de uno a cinco años, cuando el acta no ha sido localizada en la base de datos del sistema de consulta. $50.00
 
@@ -5383,7 +5395,7 @@ de 6 lotes hasta 12 lotes. $175.00
 
 c).- Por el proceso de relotificación donde intervengan
 
-12 (sic) lotes en adelante. $70.00
+12 lotes en adelante. $70.00
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5439,13 +5451,13 @@ transporte concesionado por el Estado. N$3,000.00
 
 aspectos de desarrollo urbano $122.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 11.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2008)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 12.- Por los servicios de resolución y dictamen
 
@@ -5475,7 +5487,7 @@ d).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 e).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -5665,7 +5677,7 @@ manejo especial. $ 1,000.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-31.- Por la ínscripción en el registro como empresa
+31.- Por la inscripción en el registro como empresa
 
 generadora de residuos peligrosos (microgenerador). $1,089.00
 
@@ -5833,7 +5845,7 @@ cadáveres cuando esta sea decretada por autoridad
 
 judicial o por el Ministerio Público en un proceso penal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -5947,7 +5959,7 @@ técnicos, universitarios y tecnológicos. $140.00
 
 14.- Registro de colegio de profesionistas. $3,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -6525,7 +6537,7 @@ B.O. 31 DE DICIEMBRE DE 1979.
 
 PRIMERO: Esta Ley entrará en vigor, el día 1o. de Enero de 1980, previa publicación en el Boletín Oficial del Estado.
 
-SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a los preceptuados (sic) en dichos reformas o adiciones.
+SEGUNDO: A partir de la fecha en que entren en vigor las reformas, supresiones y adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a los preceptuados en dichos (sic) reformas o adiciones.
 
 TERCERO: Los impuestos, derechos, contribuciones causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
 
@@ -6577,7 +6589,7 @@ B.O. 29 DE DICIEMBRE DE 1983.
 
 LEY NÚMERO 35 DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrara en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1o. de Enero de 1984.
 
@@ -6996,3 +7008,13 @@ B.O. 9 DE ENERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 2 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría deberá expedir (sic) elaborar el Programa de Seguro del Desempleo y las disposiciones reglamentarias derivadas del presente Decreto en los siguientes 30 días siguientes a la entrada en vigor del mismo.
