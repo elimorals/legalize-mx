@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-surtimiento-de-recetas-y-abasto-de-90603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-24"
-last_updated: "2012-12-24"
+last_updated: "2014-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90603&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-11-28"
 
 REGLAMENTO PARA EL SURTIMIENTO DE RECETAS Y ABASTO DE MEDICAMENTOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 24 de diciembre de 2012.
 
@@ -96,6 +96,12 @@ XIX. Planeación de la Demanda.- El proceso por el que se estima el requerimient
 XX. Procedimientos de Contratación.- La licitación pública, invitación a cuando menos tres personas y adjudicación directa, subastas inversas y cualquier otro tipo de contrataciones autorizadas por la normativa.
 
 XXI. Receta Médica.- El formato autorizado, sea digital o manuscrito, expedido por el médico tratante, mediante el cual se prescribe el o los medicamentos necesarios para el tratamiento del paciente, y con el cual se surten los medicamentos por parte de las farmacias en las Unidades Médicas o de las farmacias alternas designadas por el Instituto.
+
+> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+XXI bis.- Receta Médica Resurtible
+
+El formato autorizado, preferentemente electrónico o en su caso manuscrito, expedido por el médico tratante, mediante el cual prescribe, a pacientes con enfermedades crónico degenerativas, los medicamentos necesarios para su tratamiento, por un periodo máximo de 90 días, que se suministrarán cada 30 días.
 
 XXII. Receta Colectiva.- El formato autorizado por la Dirección Médica, que debe requisitar el coordinador o jefe del servicio médico hospitalario de una Unidad Médica para surtir Medicamentos por la farmacia del hospital y aplicarlos en el tratamiento de los pacientes en las áreas hospitalarias; o en las Unidades Médicas que dotan a las Unidades de Medicina Familiar y Consultorios Auxiliares que otorgan al derechohabiente Medicamentos a granel, esto es, sin envase o sin empaquetar y que deberá ser soportado por las prescripciones que cada Médico Tratante reporte.
 
@@ -273,9 +279,11 @@ El Director de la Unidad Médica supervisará que el Servidor Público autorizad
 
 El Instituto otorgará los Medicamentos previstos en el Catálogo Institucional de Insumos para la Salud, mediante el formato vigente y autorizado por la Dirección Médica para la prescripción de medicamentos en la consulta externa, mismos que de acuerdo con el procedimiento respectivo, serán entregados por Receta Médica en las Unidades Médicas o en las farmacias alternas que se indique.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 42.
 
-El Médico Tratante determinará el número y la cantidad de los Medicamentos a prescribir, considerando la evolución y duración del padecimiento, debiendo dejar constancia en el Expediente Clínico. Para los pacientes con patología crónico-degenerativa se prescribirán los Medicamentos para un periodo de treinta días, en caso de no haber indicación médica contraria.
+El médico tratante determinará el número y la cantidad de medicamentos a prescribir, para lo cual tomará en consideración el diagnóstico, la evolución y la duración del padecimiento, de lo cual dejará constancia en el expediente clínico. En el caso de pacientes con patología crónico degenerativa se prescribirán los medicamentos mediante Recetas Médicas Resurtibles, para un periodo de 90 días, sin necesidad de consulta médica, en caso de no haber indicación médica en contrario.
 
 ###### ARTICULO 43.
 
@@ -300,6 +308,10 @@ El Médico Tratante deberá registrar su prescripción en forma clara en el Expe
 ###### ARTICULO 48.
 
 La Receta Médica que elabore el Médico Tratante deberá contar con su folio, de no tener acceso a éste, el Médico Tratante deberá suscribir un formato en papel requisitando todos sus campos, con letra legible, sin tachaduras, enmendaduras o mutilaciones, para que los Medicamentos prescritos sean surtidos en las farmacias de las Unidades Médicas en un lapso no mayor de 72 horas posteriores a su expedición.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+En el caso de las Recetas Médicas Resurtibles el paciente recibirá del médico tratante, tres formatos originales de la receta médica, mismos que deberá presentar para surtimiento en las 72 horas previas o posteriores a la fecha señalada en la receta, en las farmacias de las unidades médicas o en las farmacias alternas designadas por el Instituto, sin necesidad de nueva consulta. En caso de no hacerlo, la receta queda sin efecto y el paciente deberá solicitar nueva consulta.
 
 En una Receta Médica se deben prescribir un máximo de dos Medicamentos diferentes.
 
@@ -360,3 +372,9 @@ Quedo a sus órdenes.
 Atentamente
 
 México, D.F., a 28 de noviembre de 2012.- El Secretario General y Secretario de la Junta Directiva, Héctor De la Cruz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE JUNIO DE 2014.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
