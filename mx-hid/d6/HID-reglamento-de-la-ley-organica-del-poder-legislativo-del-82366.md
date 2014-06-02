@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2014-03-17"
+last_updated: "2014-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -473,9 +473,11 @@ II.- Coadyuvar con las instituciones competentes, en el apoyo integral a los hid
 
 III.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 37.
 
-Corresponde a la Comisión de Industria, Comercio y Servicios:
+Corresponde a la Comisión de Desarrollo Económico:
 
 I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relacionados con la micro, pequeña y mediana industria, crecimiento económico sustentable, intercambio de productos y servicios, la calidad y precio de los mismos, mercado interno, mercado interregional, importación y exportación, inversión mexicana y extranjera en el territorio del Estado y todo lo relacionado con la actividad productiva; y
 
@@ -1374,3 +1376,9 @@ P.O. 17 DE MARZO DE 2014.
 ÚNICO.- Envíese el Decreto al Titular del Poder Ejecutivo de la Entidad, para su publicación en el Periódico Oficial del Estado.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 2 DE JUNIO DE 2014.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO.
+
+Único.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
