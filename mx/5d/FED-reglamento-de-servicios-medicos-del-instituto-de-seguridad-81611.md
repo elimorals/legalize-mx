@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-servicios-medicos-del-instituto-de-seguridad-8161
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-09"
-last_updated: "2011-06-09"
+last_updated: "2014-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-04-14"
 ---
 # REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+REGLAMENTO DE SERVICIOS MÉDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2014.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2011.
 
@@ -501,9 +501,11 @@ El Médico Tratante asignado para visita domiciliaria, estará facultado de acue
 
 El Instituto otorgará los medicamentos y agentes terapéuticos prescritos por el Médico Tratante normados en el Catálogo Institucional de Insumos para la Salud, mediante el formato previsto en el procedimiento correspondiente, y serán entregados en las Unidades Médicas del Instituto o en aquellas farmacias que designe la Unidad Médica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 75.
 
-El Médico Tratante con base en la enfermedad del paciente, y derivado de los diagnósticos, resultados de estudios de laboratorio y gabinete; tratamientos farmacológicos; quirúrgicos o de rehabilitación; determinará el número y la cantidad de los medicamentos y agentes terapéuticos a prescribir, considerando la evolución y duración del padecimiento, debiendo dejar constancia en el Expediente Clínico o en su caso, en el Expediente Clínico Electrónico; para los pacientes con patología crónico-degenerativa, prescribirá los medicamentos por un periodo de treinta días, en caso de no existir indicación médica contraria.
+El Médico Tratante con base en la enfermedad del paciente, y derivado de los diagnósticos, resultados de estudios de laboratorio y gabinete; tratamientos farmacológicos; quirúrgicos o de rehabilitación; determinará el número y la cantidad de los medicamentos y agentes terapéuticos a prescribir, considerando la evolución y duración del padecimiento, debiendo dejar constancia en el Expediente Clínico o en su caso, en el Expediente Clínico Electrónico; para los pacientes con patología crónico-degenerativa, se prescribirán los medicamentos mediante Recetas Médicas Resurtibles, para un periodo de 90 días, sin necesidad de consulta médica, en caso de no haber indicación médica en contrario.
 
 El Médico Tratante deberá prescribir el o los medicamentos que requiera el paciente, cuando otorgue alta temporal hasta nueva valoración.
 
@@ -520,6 +522,10 @@ El Médico Tratante deberá registrar su prescripción en forma clara, en el cas
 ###### ARTICULO 78.
 
 Para que los medicamentos prescritos sean surtidos en las farmacias de las Unidades Médicas, las recetas deberán presentarse con letra legible, sin tachaduras, enmendaduras o mutilaciones y en un lapso no mayor de 72 horas después de su expedición; la prescripción de no más de dos medicamentos diferentes por receta quedará registrada a través de la aplicación informática institucional con excepción de las Unidades Médicas que no cuenten con ésta.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2014)</small>
+
+En el caso de la Receta Médica Resurtible, el paciente recibirá del médico tratante, tres formatos originales de la receta médica, mismos que deberá presentar para surtimiento en las 72 horas previas o posteriores a la fecha señalada en la misma, en las farmacias de las unidades médicas o en las farmacias alternas designadas por el Instituto, sin necesidad de nueva consulta. En caso de no hacerlo, la receta queda sin efecto y el paciente solicitará nueva consulta.
 
 ###### ARTICULO 79.
 
@@ -880,3 +886,9 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 14 de abril de 2011.- El Secretario General y Secretario de la Junta Directiva, Luis Felipe Castro Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE JUNIO DE 2014.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
