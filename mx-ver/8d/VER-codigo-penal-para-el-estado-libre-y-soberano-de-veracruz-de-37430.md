@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2013-11-06"
+last_updated: "2014-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2014.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1299,6 +1299,8 @@ En todos los casos previstos en este Capítulo, el Ministerio Público acordará
 
 ### CAPÍTULO II. OMISIÓN DE CUIDADO
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2014)</small>
+
 ###### Artículo 155.
 
 A quien omita prestar el auxilio necesario a una persona que, en su presencia, estuviere lesionada o amenazada de un peligro actual e inminente, siendo aquél capaz de otorgarlo sin riesgo de su parte, o a quien, no estando en condiciones de proporcionarlo, no diere aviso inmediato a la autoridad, se le impondrán de un mes a tres años de prisión y multa hasta de veinticinco días de salario.
@@ -1311,7 +1313,7 @@ A quien lesione a una persona, así sea culposa o fortuitamente, y no le preste 
 
 ###### Artículo 156.
 
-A quien abandone a una persona incapaz de valerse por sí misma, exponiéndola a un peligro en su integridad física, siempre que tenga la obligación de cuidarla, se le impondrán de uno a tres años de prisión y multa hasta de cincuenta días de salario.
+A quien abandone a una persona incapaz de valerse por sí misma, exponiéndola a un peligro en su integridad física, teniendo la obligación de cuidarla, se le impondrán de dos a seis años de prisión y multa hasta de trescientos días de salario. Además, si el activo fuese ascendiente o tutor del ofendido, se le privará de la patria potestad o de la tutela.
 
 ### CAPÍTULO IV. PELIGRO DE CONTAGIO
 
@@ -3952,3 +3954,9 @@ Primero. El presente Decreto iniciará su vigencia al día siguiente de su publi
 Segundo. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, efectuará las modificaciones reglamentarias que se requieran para dar cumplimiento al presente Decreto, en la parte relativa a la creación de la Unidad de Policía Científica Preventiva.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
