@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2014-04-28"
+last_updated: "2014-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 28 DE ABRIL DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -645,7 +643,7 @@ II.- Promover y fomentar la educación superior;
 
 III.- Mantener, por si o en coordinación con los Gobiernos Federal y Municipales, programas permanentes de educación para adultos;
 
-IV.- Coordinar con las instituciones de educación superior el servicio social de pasantes, la orientación vocacional y otros aspectos educativos y culturale; y
+IV.- Coordinar con las instituciones de educación superior el servicio social de pasantes, la orientación vocacional y otros aspectos educativos y culturales; y
 
 V.- Vigilar el cumplimiento de la (sic) leyes y reglamentos en materia de ejercicio de las profesiones en el Estado.
 
@@ -1025,9 +1023,17 @@ VI. Incentivar a las autoridades educativas para que sus programas o productos e
 
 VII. Promover la creación de fuentes de empleo mediante el fomento del desarrollo de la industria y del comercio;
 
-VIII. Elaborar estudios sobre el mercado de trabajo, proporcionar los servicios de información relacionados con el mismo, desarrollar programas y proyectos orientados a generar fuentes de empleo y promover la capacitación y adiestramiento de los trabajadores, de acuerdo a los requerimientos de calidad y servicio de los sectores industrial, comercial, de servicios, minero y turístico de la Entidad; y
+> <small>(REFORMADA, B.O. 2 DE JUNIO DE 2014)</small>
 
-IX. Promover jornadas de orientación laboral.
+VIII. Elaborar estudios sobre el mercado de trabajo, proporcionar los servicios de información relacionados con el mismo, desarrollar programas y proyectos orientados a generar fuentes de empleo y promover la capacitación y adiestramiento de los trabajadores, de acuerdo a los requerimientos de calidad y servicio de los sectores industrial, comercial, de servicios, minero y turístico de la Entidad;
+
+> <small>(REFORMADA, B.O. 2 DE JUNIO DE 2014)</small>
+
+IX. Promover jornadas de orientación laboral; y
+
+> <small>(ADICIONADA, B.O. 2 DE JUNIO DE 2014)</small>
+
+X. Coordinar y Supervisar el Programa de Seguro del Desempleo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE JULIO DE 2011)</small>
 
@@ -1319,7 +1325,7 @@ El propio Consejo deberá sesionar válidamente con la asistencia de por lo meno
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
-ARTICULO 46 BIS A.- Los directores generales de las empresas de participación estatal mayoritaria, sin perjuicio de las atribuciones que se les atribuyan (sic) en los estatutos de la empresa y legislación del caso, tendrán las que se mencionan en el artículo 42 de este ordenamiento.
+ARTICULO 46 BIS A.- Los directores generales de las empresas de participación estatal mayoritaria, sin perjuicio de las atribuciones que se les atribuyan en los estatutos de la empresa y legislación del caso, tendrán las que se mencionan en el artículo 42 de este ordenamiento.
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -1379,7 +1385,7 @@ En los contratos antes señalados, se deberá incluir la siguiente cláusula:
 
 ARTICULO 47 BIS G.- La información que generen las dependencias y entidades del Gobierno del Estado en materia de fideicomisos, mandatos o contratos análogos para la integración de los informes trimestrales que se envían al Congreso del Estado deberá incluir: ingresos de recursos públicos otorgados en el período, incluyendo rendimientos financieros y egresos realizados en el período, así como su destino.
 
-La información señalada en el párrafo anterior será de acceso público en los términos de la Ley de Acceso a la lnformación Pública del Estado de Sonora y deberá ser puesta a disposición del público en los términos del artículo 14 del mismo ordenamiento legal, así como la relación de los fideicomisos, mandatos o contratos análogos a los que aporten recursos presupuestarios, el monto de estos, programa al que está vinculado el fideicomiso o contrato, partida presupuestaria con cargo a la cual se aportaron o aportan los recursos y la unidad administrativa responsable de coordinarlos.
+La información señalada en el párrafo anterior será de acceso público en los términos de la Ley de Acceso a la Información Pública del Estado de Sonora y deberá ser puesta a disposición del público en los términos del artículo 14 del mismo ordenamiento legal, así como la relación de los fideicomisos, mandatos o contratos análogos a los que aporten recursos presupuestarios, el monto de estos, programa al que está vinculado el fideicomiso o contrato, partida presupuestaria con cargo a la cual se aportaron o aportan los recursos y la unidad administrativa responsable de coordinarlos.
 
 > <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
 
@@ -1994,3 +2000,13 @@ Los derechos de los trabajadores que se transfieren a la Oficialía Mayor se res
 ###### ARTICULO CUARTO.
 
 Las atribuciones que en otras leyes y en reglamentos se otorgan a la Secretaría de Hacienda, se tendrán por conferidas a la Oficialía Mayor que de conformidad con esta Ley asume dichas atribuciones.
+
+B.O. 2 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría deberá expedir elaborar el Programa de Seguro del Desempleo y las disposiciones reglamentarias derivadas del presente Decreto en los siguientes 30 días siguientes a la entrada en vigor del mismo.
