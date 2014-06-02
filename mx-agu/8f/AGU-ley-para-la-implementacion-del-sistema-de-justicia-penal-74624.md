@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-implementacion-del-sistema-de-justicia-penal-74624"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-26"
-last_updated: "2010-04-26"
+last_updated: "2014-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY PARA LA IMPLEMENTACION DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ADVERSARIAL EN EL ESTADO DE AGUASCALIENTES
 
-LEY PARA LA IMPLEMENTACION DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ADVERSARIAL EN EL ESTADO DE AGUASCALIENTES
+LEY PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ADVERSARIAL EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DE LA LEY PARA LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de abril de 2010.
 
@@ -296,3 +298,19 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Angel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Implementación del Sistema de Justicia Penal Acusatorio y Adversarial en el Estado de Aguascalientes, publicada mediante Decreto Número 388 en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de abril de 2010, así como las disposiciones reglamentarias que emanen de la misma y los demás ordenamientos que contravengan lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La designación de Secretario Técnico hecha bajo el amparo de la Ley que se abroga, seguirá vigente sin necesidad de hacer una nueva.
