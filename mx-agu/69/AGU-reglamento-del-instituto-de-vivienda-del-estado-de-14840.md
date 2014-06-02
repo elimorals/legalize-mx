@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-de-vivienda-del-estado-de-14840"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-03-09"
-last_updated: "1997-03-09"
+last_updated: "2014-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO DE VIVIENDA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES EN MATERIA DE ACCIONES DE VIVIENDA, PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2014 (DEROGADO).
 
 Reglamento publicado en el Suplemento al Núm. 10 del Periódico Oficial del Estado de Aguascalientes, el día 9 de marzo de 1997.
 
@@ -31,9 +33,7 @@ GOBIERNO DEL ESTADO
 
 OTTO GRANADOS ROLDAN, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, con fundamento en los Artículos 1o., 3o., 4o., 5o., 36, 46, Fracción I de la Constitución Política del Estado; 1o., 2o.; 3o., 10, 11, 14, 16, 43 y 45 de la Ley Orgánica del Poder Ejecutivo del Estado de Aguascalientes y a efecto de proveer en la esfera administrativa la exacta observancia de la Ley del Instituto de Vivienda del Estado de Aguascalientes; y
 
-CONSIDERANDO
-
-.
+CONSIDERANDO...
 
 He tenido a bien expedir el siguiente
 
@@ -805,7 +805,9 @@ VII.- Las demás actividades que sean afines a las aquí descritas y que le sean
 
 Compete a la Dirección de Comercialización, lo concerniente al mercado de los bienes y servicios que el Instituto ofrece en el Estado a la población. Para ello contará con los índices, estimaciones y sustentos científicos de costos del dinero, de bienes raíces, de niveles salariales y demás factores qué inciden en sus variaciones. Con estos soportes propondrá la comercialización que en materia de vivienda deberá realizar el Instituto con proyecciones a corto, mediano y largo plazo.
 
-ARI1CULO 51.- Serán facultades y obligaciones de la Dirección de Comercialización además las siguientes:
+###### ARTICULO 51.
+
+Serán facultades y obligaciones de la Dirección de Comercialización además las siguientes:
 
 I.- A partir de sustentos verificables, la Dirección de Comercialización del Instituto propondrá:
 
@@ -936,3 +938,11 @@ Lic. Jesús Orozco Castellanos.
 EL DIRECTOR GENERAL DEL INSTITUTO DE VIVIENDA DEL ESTADO,
 
 Lic. Fernando Paullada Santillán.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JUNIO DE 2014.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan las disposiciones del Reglamento del Instituto de Vivienda del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el 9 de marzo de 1997 en tanto sean contrarias a lo dispuesto por el presente Reglamento.
