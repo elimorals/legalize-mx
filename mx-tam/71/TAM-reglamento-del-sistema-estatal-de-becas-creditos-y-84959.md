@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-sistema-estatal-de-becas-creditos-y-84959"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2014-04-15"
+last_updated: "2014-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO DEL SISTEMA ESTATAL DE BECAS, CREDITOS Y ESTIMULOS EDUCATIVOS DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DEL SISTEMA ESTATAL DE BECAS, CRÉDITOS Y ESTÍMULOS EDUCATIVOS DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 3 DE JUNIO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO SIN NÚMERO PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2014.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 1 de diciembre de 2011.
 
