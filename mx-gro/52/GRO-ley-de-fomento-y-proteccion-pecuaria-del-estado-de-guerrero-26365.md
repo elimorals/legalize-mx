@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-y-proteccion-pecuaria-del-estado-de-guerrero-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-12"
-last_updated: "2007-11-16"
+last_updated: "2014-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE FOMENTO Y PROTECCION PECUARIA DEL ESTADO DE GUERRERO, NUMERO 451
 
-LEY NUMERO 451 DE FOMENTO Y PROTECCION PECUARIA DEL ESTADO DE GUERRERO
+LEY NÚMERO 451 DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DE LA LEY NÚMERO 469 DE GANADERÍA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 3 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A LOS 30 DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 12 de abril de 2002.
 
@@ -37,7 +39,7 @@ C O N S I D E R A N D O
 
 PRIMERO. Que es necesario fortalecer el sector ganadero para garantizar el abasto y comercialización de productos y subproductos derivados de las distintas especies pecuarias que se explotan en el Estado, impulsando un crecimiento sustentable de mediano y largo plazo, que reduzcan los índices de pobreza y marginación existentes en la población rural; motivando con ello, una comercialización más efectiva de los productos pecuarios.
 
-SEGUNDO. Que este panorama reclama modernizar nuestra legislación en la materia para incentivar las actividades productivas en el subsector pecuario, a fin de aumentar los niveles de rentabilidad y la capitabilización de quienes en nuestro Estado, se dedican a la ganadería. En este contexto, las organizaciones ganaderas, organismos colegiados de profesionales del sector pecuario y las instancias de Gobierno, relacionadas con la ganadería, toda vez que la Ley Ganadera vigente, es obsoleta, coinciden en que se debe expedir una nueva Ley de Fomento y Protección Pecuaria del Estado de Guerrero, que cumpla con las expectativas y exigencias del nuevo milenio.
+SEGUNDO. Que este panorama reclama modernizar nuestra legislación en la materia para incentivar las actividades productivas en el subsector pecuario, a fin de aumentar los niveles de rentabilidad y la capitalización de quienes en nuestro Estado, se dedican a la ganadería. En este contexto, las organizaciones ganaderas, organismos colegiados de profesionales del sector pecuario y las instancias de Gobierno, relacionadas con la ganadería, toda vez que la Ley Ganadera vigente, es obsoleta, coinciden en que se debe expedir una nueva Ley de Fomento y Protección Pecuaria del Estado de Guerrero, que cumpla con las expectativas y exigencias del nuevo milenio.
 
 TERCERO. Que como consecuencia de un análisis realizado a la actual Ley Ganadera del Estado de Guerrero, hecha con la participación de Organizaciones de Productores, personal de la Secretaría de Desarrollo Rural del Gobierno del Estado, personal de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación e integrantes de la Comisión de la Comisión de Desarrollo Agropecuario y Pesquero de este H. Congreso del Estado, se llegó a la conclusión de que es necesario expedir un nuevo ordenamiento legal, que tenga aplicabilidad para resolver los problemas que actualmente confronta el sector agropecuario.
 
@@ -49,7 +51,7 @@ SEXTO. Que sobre el particular, la iniciativa de Ley de Fomento y Protección Pe
 
 SEPTIMO. Que es de gran importancia mencionar que la nueva Ley contempla un instrumento jurídico y técnico que es más acorde a las necesidades y políticas de comercialización a nivel estatal y nacional, además de que se fortalecerá la responsabilidad compartida entre el Gobierno Estatal y los productos pecuarios.
 
-De esta forma, el ordenamiento jurídico en cuestión aborda al subsector pecuario de manera particular, pero no aislado de disposiciones que aplican otras disposiciones que aplican otras dependencia de la Administración Pública Estatal y Municipal, ni de las políticas y estrategias para la modernización sectorial.
+De esta forma, el ordenamiento jurídico en cuestión aborda al subsector pecuario de manera particular, pero no aislado de disposiciones que aplican otras disposiciones que aplican otras dependencias de la Administración Pública Estatal y Municipal, ni de las políticas y estrategias para la modernización sectorial.
 
 OCTAVO. Que cabe resaltar que la presente iniciativa, dentro de sus objetivos primordiales son los de llevar acorde la actividad pecuaria a los tiempos y formas actuales, permitiendo así un mejor desarrollo que beneficie a los productores y comercializadores de tipo pecuario; señalando de una manera más clara los derechos y obligaciones a quienes va dirigida.
 
@@ -221,7 +223,7 @@ LV.- MEDICO VETERINARIO ZOOTECNISTA: Profesional que ha terminado sus estudios u
 
 LVI.- INGENIERO AGRONOMO ZOOTECNISTA: Profesional que ha terminado sus estudios en las Universidades, Institutos Tecnológicos, Escuelas de Agricultura, acreditando con su título y cédula respectiva el ejercicio de su profesión;
 
-LVII.- TECNICO PECUARIO: Calidad que se obtiene por estudios efectuados en escuelas secundarias y prevocacionales agropecuarias, que lo hace apto para capacitar a productores del ramo y efectuar los trabajos supervisados por un Medico Veterinario Zootecnista, de quien recibirán indicaciones, ya que su preparación no incluye diagnosticar alteraciones del ganado ni prescribir tratamientos;
+LVII.- TECNICO PECUARIO: Calidad que se obtiene por estudios efectuados en escuelas secundarias y prevocacionales agropecuarias, que lo hace apto para capacitar a productores del ramo y efectuar los trabajos supervisados por un Médico Veterinario Zootecnista, de quien recibirán indicaciones, ya que su preparación no incluye diagnosticar alteraciones del ganado ni prescribir tratamientos;
 
 LVIII.- SECRETARIA: La Secretaría de Desarrollo Rural dependiente del Ejecutivo Estatal, encargada de regular las actividades de fomento y desarrollo del subsector pecuario, la cual se encuentra establecida en la Ley de la Administración Pública del Estado de Guerrero o su equivalente en su caso;
 
@@ -383,7 +385,7 @@ XXIV.- Las demás que esta Ley u otros ordenamientos jurídicos le confieran.
 
 ###### ARTICULO 11.
 
-La Secretaría de Finanzas y Administración tendrá a su cargo, como función especifica, el cobro de las sanciones económicas impuestas por la presente Ley.
+La Secretaría de Finanzas y Administración tendrá a su cargo, como función específica, el cobro de las sanciones económicas impuestas por la presente Ley.
 
 ###### ARTICULO 12.
 
@@ -463,7 +465,7 @@ I.- Inspeccionar el ganado en los lugares que establece la presente Ley, sus pro
 
 II.- Impedir que se hagan embarques de ganado, si los interesados no presentan la documentación que de acuerdo con esta Ley, deben acompañar;
 
-III.- Retener y poner a disposición de la Asociación Ganadera Local que corresponda, el ganado que no tenga identificación, el que teniéndola sea desconocida, y el que aparezca en terreno ajeno o vía publica, cuyo dueño se niegue a recogerlo; al efecto deberá dar aviso a la Dirección de Fomento y Normatividad Pecuaria del Gobierno del Estado.
+III.- Retener y poner a disposición de la Asociación Ganadera Local que corresponda, el ganado que no tenga identificación, el que teniéndola sea desconocida, y el que aparezca en terreno ajeno o vía pública, cuyo dueño se niegue a recogerlo; al efecto deberá dar aviso a la Dirección de Fomento y Normatividad Pecuaria del Gobierno del Estado.
 
 IV.- Inspeccionar los lugares donde se trabajen o comercialicen los productos y subproductos del ganado, para vigilar el cumplimiento de las disposiciones relativas;
 
@@ -511,7 +513,7 @@ III. Remitir anualmente a la Dirección de Fomento y Normatividad Pecuaria y por
 
 a) Informe anual de las actividades del Consejo Directivo;
 
-b) Copia del estado de cuenta que comprenderá el ultimo ejercicio social;
+b) Copia del estado de cuenta que comprenderá el último ejercicio social;
 
 c) Informe anual del Consejo de Vigilancia;
 
@@ -691,7 +693,7 @@ II. Cuando su titular carezca de ganado y manifieste su voluntad para la cancela
 
 III. Cuando en perjuicio de los derechos de terceros, su titular mantenga el ganado fuera del asiento de producción correspondiente;
 
-IV. Cuando por error, se expidan títulos de marca de herrar, señal de sangre o tatuaje en contravención a otro ya registrado, en este caso, el título que se cancelará será el mas reciente, y se procederá a la expedición de uno nuevo, sin costo para el interesado con pago del daño que se cause, y
+IV. Cuando por error, se expidan títulos de marca de herrar, señal de sangre o tatuaje en contravención a otro ya registrado, en este caso, el título que se cancelará será el más reciente, y se procederá a la expedición de uno nuevo, sin costo para el interesado con pago del daño que se cause, y
 
 V.- A solicitud de la Asociación Ganadera Local, cuando se aplique la exclusión del socio ganadero.
 
@@ -753,7 +755,7 @@ La autoridad municipal, tiene la obligación de procurar la identificación del 
 
 ###### ARTICULO 55.
 
-Si dentro del plazo a que se refiere el artículo anterior, no se presentare el propietario o no acreditare sus derechos, la autoridad municipal, previo aviso de la Dirección de Fomento y Normatividad Pecuaria, procederá a tasar por peritos de la Asociación Ganadera Local, al animal reportado, y siendo postura legal, la que cubra las dos terceras partes del precio del avalúo, fijándose edictos en los sitios públicos de costumbre, y en las Asociaciones Ganaderas Locales mas cercanas por tres veces dentro de nueve días, convocando postores.
+Si dentro del plazo a que se refiere el artículo anterior, no se presentare el propietario o no acreditare sus derechos, la autoridad municipal, previo aviso de la Dirección de Fomento y Normatividad Pecuaria, procederá a tasar por peritos de la Asociación Ganadera Local, al animal reportado, y siendo postura legal, la que cubra las dos terceras partes del precio del avalúo, fijándose edictos en los sitios públicos de costumbre, y en las Asociaciones Ganaderas Locales más cercanas por tres veces dentro de nueve días, convocando postores.
 
 ###### ARTICULO 56.
 
@@ -1231,7 +1233,7 @@ Se declaran de interés público y observancia obligatoria en el Estado, las acc
 
 ###### ARTICULO 138.
 
-La Dirección de Fomento y Normatividad Pecuaria en coordinación con la SAGARPA formulará un catalogo de enfermedades enzoóticas, epizoóticas y lo pondrá a disposición de los interesados.
+La Dirección de Fomento y Normatividad Pecuaria en coordinación con la SAGARPA formulará un catálogo de enfermedades enzoóticas, epizoóticas y lo pondrá a disposición de los interesados.
 
 ###### ARTICULO 139.
 
@@ -1585,7 +1587,7 @@ A los que especulen o trafiquen en cualquier forma con pieles o cueros, sin reca
 
 ###### ARTICULO 210.
 
-Se impondrá de 30 a 180 días de prisión y multa de 20 a 60 veces el salario mínimo general de la región, además de la sanción correspondiente por el delito que resulte, al ganadero que por negligencia, descuido o faltas de atención abandone o permita que sus animales transiten en las carreteras, caminos vecinales, vías publicas, o en los perímetros urbanos y suburbanos.
+Se impondrá de 30 a 180 días de prisión y multa de 20 a 60 veces el salario mínimo general de la región, además de la sanción correspondiente por el delito que resulte, al ganadero que por negligencia, descuido o faltas de atención abandone o permita que sus animales transiten en las carreteras, caminos vecinales, vías públicas, o en los perímetros urbanos y suburbanos.
 
 ###### ARTICULO 211.
 
@@ -1841,7 +1843,7 @@ C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE NOVIEMBRE DE 2007.
 
@@ -1854,3 +1856,25 @@ TERCERO.- Comuníquese las presente Ley al Titular del Ejecutivo Estatal para lo
 CUARTO.- Comuníquese la presente Ley a los 81 Ayuntamientos que conforman el Estado, para los efectos procedentes.
 
 QUINTO.- Los apicultores contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor de la presente Ley para hacer el registro en el Ayuntamiento correspondiente y marcar sus colmenas.
+
+P.O. 3 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley, surtirá efectos a los 30 días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor de la presente Ley, queda abrogada la Ley Número 451 de Fomento y Protección Pecuaria del Estado de Guerrero.
+
+###### ARTÍCULO CUARTO.
+
+A los 120 días naturales de la entrada en vigor de la presente Ley, la Secretaría de Desarrollo Rural, de acuerdo a su capacidad presupuestaria, deberá crear las áreas que sean necesarias para la aplicación de las materia (sic) a las que se refiere la actividad pecuaria, como son: salud animal, control de la movilización animal e inocuidad pecuaria.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, para el conocimiento general y efectos legales procedentes.
