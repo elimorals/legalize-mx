@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2014-04-02"
+last_updated: "2014-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2014.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -856,7 +856,9 @@ La construcción y equipamiento de los establecimientos dedicados a la prestaci�
 
 Los establecimientos de servicios de salud deberán presentar aviso de funcionamiento a la Secretaría de Salud, en el supuesto previsto en el primer párrafo del artículo 200 bis de esta ley. En el aviso se expresarán las características y tipo de servicios a que estén destinados y, en el caso de establecimientos particulares, se señalará también al responsable sanitario.
 
-El aviso a que se refiere el párrafo anterior deberá presentarse dentro de los diez días posteriores al inicio de operaciones y contener los requisitos establecidos en el artículo 200 bis de esta ley.
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
+El aviso a que se refiere el párrafo anterior deberá presentarse por lo menos treinta días anteriores a aquel en que se pretendan iniciar operaciones y contener los requisitos establecidos en el artículo 200 Bis de esta Ley.
 
 En la operación y funcionamiento de los establecimientos de servicios de salud se deberán satisfacer los requisitos que establezcan los reglamentos y normas oficiales mexicanas correspondientes.
 
@@ -3516,7 +3518,9 @@ Deberán dar aviso de funcionamiento los establecimientos que no requieran de au
 
 El acuerdo a que se refiere el párrafo anterior clasificará a los establecimientos en función de la actividad que realicen y se publicará en el Diario Oficial de la Federación.
 
-El aviso a que se refiere este artículo deberá presentarse por escrito a la Secretaría de Salud o a los gobiernos de las entidades federativas, dentro de los diez días posteriores al inicio de operaciones y contendrá los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
+El aviso a que se refiere este artículo deberá presentarse por escrito a la Secretaría de Salud o a los gobiernos de las entidades federativas, por lo menos treinta días anteriores a aquel en que se pretendan iniciar operaciones y contendrá los siguientes datos:
 
 I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
 
@@ -8057,3 +8061,7 @@ D.O.F. 2 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+
+D.O.F. 3 DE JUNIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
