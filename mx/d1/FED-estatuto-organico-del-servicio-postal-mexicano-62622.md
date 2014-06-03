@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-postal-mexicano-62622"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-09-04"
-last_updated: "2010-07-22"
+last_updated: "2014-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62622&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-08-22"
 ---
 # ESTATUTO ORGANICO DEL SERVICIO POSTAL MEXICANO
 
-ESTATUTO ORGANICO DEL SERVICIO POSTAL MEXICANO
+ESTATUTO ORGÁNICO DEL SERVICIO POSTAL MEXICANO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL SERVICIO POSTAL MEXICANO, PUBLICADO EN EL D.O.F. DE 3 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de septiembre de 2008.
 
@@ -1002,3 +1004,19 @@ Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 Artículo Quinto.
 
 Los asuntos pendientes a la entrada en vigor de este Acuerdo, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
+
+D.O.F. 3 DE JUNIO DE 2014.
+
+Artículo Primero.- El presente Estatuto Orgánico entrará en vigor a partir del día siguiente en que se publique en el Diario Oficial de la Federación, una vez obtenida la autorización y registro de la estructura orgánica por parte de las Secretarías de Hacienda y Crédito Público y de la Función Pública en sus respectivos ámbitos de competencia.
+
+Artículo Segundo.- Se abroga el Estatuto Orgánico del Servicio Postal Mexicano publicado en el Diario Oficial de la Federación el 4 de septiembre de 2008 y sus reformas de fecha 22 de julio de 2010, con excepción de lo dispuesto en los artículos transitorios siguientes.
+
+Artículo Tercero.- Continuarán vigentes los Manuales y Normas diversas expedidas por el Servicio Postal Mexicano siempre y cuando éstas no se opongan al presente.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan al presente.
+
+Artículo Quinto.- Los asuntos pendientes al entrar en vigor este Estatuto Orgánico, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
+
+Artículo Sexto.- Cuando en este Estatuto Orgánico se dé una denominación nueva o distinta a alguna unidad administrativa establecida con anterioridad a la vigencia del mismo, aquella unidad administrativa atenderá los asuntos a que se refiere este ordenamiento.
+
+Artículo Séptimo.- Los derechos de los trabajadores serán respetados conforme a la ley y en ningún caso sus prestaciones serán afectadas por la reorganización administrativa que implica el presente Estatuto Orgánico.
