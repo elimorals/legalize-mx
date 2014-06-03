@@ -4,7 +4,7 @@ identifier: "LGPSDMS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2010-11-30"
-last_updated: "2011-02-27"
+last_updated: "2014-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77437&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGPSDMS"
 ---
 # LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCION XXI DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCION XXI DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 30 de noviembre de 2010.
 
@@ -110,7 +110,9 @@ En todos los casos, la sentencia condenatoria que se dicte por los delitos conte
 
 Al que prive de la libertad a otro se le aplicarán:
 
-I. De veinte a cuarenta años de prisión y de quinientos a dos mil días multa, si la privación de la libertad se efectúa con el propósito de:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
+I. De cuarenta a ochenta años de prisión y de mil a cuatro mil días multa, si la privación de la libertad se efectúa con el propósito de:
 
 a) Obtener, para sí o para un tercero, rescate o cualquier beneficio;
 
@@ -124,7 +126,9 @@ d) Cometer secuestro exprés, desde el momento mismo de su realización, entendi
 
 Las penas a que se refiere el artículo 9 de la presente Ley, se agravarán:
 
-I. De veinticinco a cuarenta y cinco años de prisión y de dos mil a cuatro mil días multa, si en la privación de la libertad concurre alguna o algunas de las circunstancias siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
+I. De cincuenta a noventa años de prisión y de cuatro mil a ocho mil días multa, si en la privación de la libertad concurre alguna o algunas de las circunstancias siguientes:
 
 a) Que se realice en camino público o en lugar desprotegido o solitario;
 
@@ -138,7 +142,9 @@ e) Que la víctima sea menor de dieciocho años o mayor de sesenta años de edad
 
 f) Que la víctima sea una mujer en estado de gravidez;
 
-II. De veinticinco a cincuenta años de prisión y de cuatro mil a ocho mil días multa, si en la privación de la libertad concurren cualquiera de las circunstancias siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
+II. De cincuenta a cien años de prisión y de ocho mil a dieciséis mil días multa, si en la privación de la libertad concurren cualquiera de las circunstancias siguientes:
 
 a) Que el o los autores sean o hayan sido integrantes de alguna institución de seguridad pública, de procuración o administración de justicia, o de las Fuerzas Armadas Mexicanas, o se ostenten como tales sin serlo;
 
@@ -152,39 +158,49 @@ e) Que durante o después de su cautiverio, la víctima muera debido a cualquier
 
 Las sanciones señaladas en el presente artículo se impondrán, sin perjuicio o con independencia de las que correspondan por otros delitos que de las conductas a las que se aplican resulten.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
 ###### Artículo 11.
 
-Si la víctima de los delitos previstos en la presente Ley es privada de la vida por los autores o partícipes de los mismos, se impondrá a éstos una pena de cuarenta a setenta años de prisión y de seis mil a doce mil días multa.
+Si la víctima de los delitos previstos en la presente Ley es privada de la vida por los autores o partícipes de los mismos, se impondrá a estos una pena de ochenta a ciento cuarenta años de prisión y de doce mil a veinticuatro mil días multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2014)</small>
 
 ###### Artículo 12.
 
-Si espontáneamente se libera a la víctima del secuestro dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere el artículo 9 de esta Ley y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena será de dos a seis años de prisión y de cincuenta a ciento cincuenta días multa.
+Si espontáneamente se libera a la víctima del secuestro dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere el artículo 9 de esta Ley y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena será de cuatro a doce años de prisión y de cien a trescientos días multa.
 
 La misma pena se aplicará a aquél que habiendo participado en la planeación de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad y la víctima sea rescatada con vida.
 
 La pena señalada en el párrafo primero de este artículo se aplicará a aquél que habiendo participado en la comisión de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad para evitar que se cometa el delito y proporcione datos fehacientes o suficientes elementos de convicción contra los demás participantes del hecho o, ya cometido, antes de que se libere a la víctima, proporcione, los datos o elementos referidos, además dé información eficaz para liberar o localizar a la víctima.
 
-> <small>(REFORMADO, D.O.F. 27 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2014)</small>
 
-No obstante lo anterior, si a la víctima se le hubiere causado alguna lesión de las previstas en los artículos 291 a 293 del Código Penal Federal, la pena será de nueve a dieciséis años de prisión y de trescientos a quinientos días multa, así como la colocación de los dispositivos de localización y vigilancia por la autoridad policial hasta por los cinco años posteriores a su liberación.
+No obstante lo anterior, si a la víctima se le hubiere causado alguna lesión de las previstas en los artículos 291 a 293 del Código Penal Federal, la pena será de dieciocho a treinta y dos años de prisión y de seiscientos a mil días multa, así como la colocación de los dispositivos de localización y vigilancia por la autoridad policial hasta por los cinco años posteriores a su liberación.
 
-En caso de que espontáneamente se libere al secuestrado dentro de los primeros diez días, sin lograr alguno de los propósitos a que se refiere el artículo 9 de la presente Ley, y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena de prisión aplicable será de ocho a quince años y de doscientos cincuenta hasta quinientos días multa.
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
+En caso de que espontáneamente se libere al secuestrado dentro de los primeros diez días, sin lograr alguno de los propósitos a que se refiere el artículo 9 de la presente Ley, y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena de prisión aplicable será de dieciséis a treinta años y de quinientos hasta mil días multa.
+
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2014)</small>
 
 ###### Artículo 13.
 
-Se impondrá pena de cien a trescientas cincuenta jornadas de trabajo a favor de la comunidad, al que simule por sí o por interpósita persona, la privación de su libertad con alguno de los propósitos señalados en el artículo 9 de la presente Ley.
+Se impondrá pena de doscientas a setecientas jornadas de trabajo a favor de la comunidad, al que simule por sí o por interpósita persona, la privación de su libertad con alguno de los propósitos señalados en el artículo 9 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2014)</small>
 
 ###### Artículo 14.
 
-Se impondrán de dos a ocho años de prisión al que simule la privación de la libertad de una persona, con la intención de conseguir alguno de los propósitos señalados en el artículo 9 de esta Ley.
+Se impondrán de cuatro a dieciséis años de prisión al que simule la privación de la libertad de una persona, con la intención de conseguir alguno de los propósitos señalados en el artículo 9 de esta Ley.
 
 La misma pena se impondrá al que amenace de cualquier modo a una persona con privarla de la libertad o con privar de la libertad a algún miembro de su familia o con quien esté ligada por algún vínculo, con alguno de los propósitos señalados en el artículo 9 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
 ###### Artículo 15.
 
-Se aplicará pena de dos a ocho años de prisión y de setecientos a mil quinientos días multa, al que:
+Se aplicará pena de cuatro a dieciséis años de prisión y de mil cuatrocientos a tres mil días multa, al que:
 
 I. Después de la ejecución de cualquiera de las conductas previstas en los artículos 9 y 10 de la presente Ley, y sin haber participado en cualquiera de ellas, adquiera o reciba el producto de las mismas a sabiendas de esta circunstancia;
 
@@ -202,9 +218,11 @@ a) Los ascendientes o descendientes consanguíneos o afines directos, y
 
 b) El cónyuge, la concubina, el concubinario y parientes colaterales por consanguinidad hasta el segundo grado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
 ###### Artículo 16.
 
-Se aplicará pena de dos a ocho años de prisión, de doscientos a mil días multa, al servidor público que:
+Se aplicará pena de cuatro a dieciséis años de prisión y de cuatrocientos a dos mil días multa, al servidor público que:
 
 I. Divulgue, sin motivo fundado, información reservada o confidencial, relacionada con las conductas sancionadas por esta Ley, salvo que se refiera a la información o imágenes obtenidas en una intervención de comunicación privada, en este caso se aplicará lo dispuesto por el Código Penal Federal, o
 
@@ -212,9 +230,11 @@ II. Revele, sin motivo fundado, técnicas aplicadas a la investigación o persec
 
 Si el sujeto es o hubiere sido integrante de una institución de seguridad pública, de procuración de justicia, de los centros de reclusión preventiva o penitenciaria, la pena será de cuatro años seis meses a trece años de prisión, así como también, la multa y el tiempo de colocación de dispositivos de localización y vigilancia se incrementarán desde un tercio hasta dos terceras partes.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2014)</small>
+
 ###### Artículo 17.
 
-Se aplicará pena de cuatro años seis meses a trece años de prisión, de doscientos a mil días multa al servidor público que, teniendo atribuciones en materia de prevención, investigación, procuración o impartición de justicia o de vigilancia y custodia en los centros de privación de la libertad o penitenciaria, se abstenga de denunciar ante el Ministerio Público o, en caso de urgencia, ante la policía, la comisión de cualquiera de los delitos previstos en esta Ley, o de hacer saber de inmediato al Ministerio Público información, evidencias o cualquier otro dato relacionado, directa o indirectamente, con la preparación o comisión de las conductas previstas en esta Ley.
+Se aplicará pena de nueve años a veintiséis años de prisión y de cuatrocientos a dos mil días de multa al servidor público que, teniendo atribuciones en materia de prevención, investigación, procuración o impartición de justicia o de vigilancia y custodia en los centros de privación de la libertad o penitenciaria, se abstenga de denunciar ante el Ministerio Público o, en caso de urgencia, ante la policía, la comisión de cualquiera de los delitos previstos en esta Ley, o de hacer saber de inmediato al Ministerio Público información, evidencias o cualquier otro dato relacionado, directa o indirectamente, con la preparación o comisión de las conductas previstas en esta Ley.
 
 ###### Artículo 18.
 
@@ -600,7 +620,7 @@ Durante su reclusión, los inculpados y sentenciados por las conductas previstas
 
 Los procesados o sentenciados por las conductas previstas en esta Ley, que proporcionen datos fehacientes o suficientes elementos de convicción para la detención de los demás participantes, podrán beneficiarse con medidas de protección durante el tiempo y bajo las modalidades que se estime necesario. Además, se asegurará su reclusión y ejecución de sentencia, en establecimientos distintos a aquel en donde compurguen su sentencia los miembros del mismo grupo delictivo.
 
-.
+...
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -632,10 +652,14 @@ México, D. F., a 7 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Pre
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 29 de noviembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 27 DE FEBRERO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE JUNIO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
