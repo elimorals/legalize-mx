@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2014-04-03"
+last_updated: "2014-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -1317,11 +1317,11 @@ XXXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones ju
 
 #### Sección XIII. De la Procuraduría General de Justicia
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
 ###### ARTICULO 36.
 
-A la Procuraduría General de Justicia, además de las atribuciones que le confieren la Constitución Política del Estado, la Ley Orgánica del Ministerio Público del Estado de Tamaulipas y demás disposiciones vigentes, le corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2014)</small>
+
+A la Procuraduría General de Justicia, además de las atribuciones que le confieren la Constitución Política del Estado, la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas y demás disposiciones vigentes, le corresponde el despacho de los siguientes asuntos:
 
 I. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
@@ -1333,7 +1333,11 @@ II. Velar por el respeto y la exacta observancia de los derechos humanos en la e
 
 III. Opinar y participar en los proyectos de iniciativas de ley o de reformas legislativas para la exacta observancia de la Constitución Política de los Estados Unidos Mexicanos y que estén vinculadas con las materias de su competencia;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 IV. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado, en coordinación con la Contraloría Gubernamental;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 V. Prestar al Poder Judicial el auxilio necesario para el debido ejercicio de sus funciones;
 
@@ -1341,17 +1345,31 @@ V. Prestar al Poder Judicial el auxilio necesario para el debido ejercicio de su
 
 VI. Informar al Gobernador del Estado sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos o a la Constitución Política del Estado, que estén vinculadas con las materias de su competencia y proponer las enmiendas necesarias;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 VII. Suministrar los informes que le solicite la Comisión de Derechos Humanos del Estado, y resolver sobre las recomendaciones que emitan dicha Comisión y la Comisión Nacional de los Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 VIII. Fortalecer las relaciones de coordinación con el Gobierno Federal, los gobiernos de otras Entidades Federativas y los gobiernos municipales, a fin de lograr el mejor cumplimiento de la prevención del delito y persecución de ilícitos penales;
 
-IX. Dirigir y coordinar las actividades de la Policía Ministerial del Estado;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+IX. Dirigir y coordinar las actividades de las Policías Ministerial e Investigadora del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 X. Designar y remover, por acuerdo del Gobernador, a los Agentes del Ministerio Público y cambiarlos libremente de adscripción, según convenga al mejor servicio;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 XI. Coadyuvar con la Secretaría de Seguridad Pública en la elaboración de programas que tiendan a prevenir la delincuencia;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 XII. Llevar, en coordinación con la Secretaría de Seguridad Pública, la estadística e identificación delincuencial del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 XIII. Asesorar a los Municipios en el ejercicio de acciones patrimoniales y de todo orden, cuando así lo soliciten;
 
@@ -1359,9 +1377,15 @@ XIII. Asesorar a los Municipios en el ejercicio de acciones patrimoniales y de t
 
 XIV. Tramitar, por Acuerdo del Gobernador, las solicitudes de extradición;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 XV. Formular y desarrollar programas de capacitación para el personal de la dependencia;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 XVI. Adoptar las determinaciones de su competencia con relación a los delitos ambientales establecidos en los ordenamientos en materia ambiental y desarrollo sustentable del Estado y demás leyes aplicables, así como sustanciar las investigaciones que al efecto se inicien por conductas delictivas en materia ambiental, y deducir en los procesos penales que se instauren la representación de la sociedad; y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 XVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -1928,3 +1952,17 @@ DECRETO NO. LXII-219 POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DE
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En términos de las atribuciones que le confieren las normas constitucionales y legales aplicables, el Ejecutivo del Estado deberá reformar o en su caso expedir las disposiciones reglamentarias necesarias que se deriven del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
