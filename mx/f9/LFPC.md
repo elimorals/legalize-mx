@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2013-12-31"
+last_updated: "2014-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2013.
-
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -398,13 +396,17 @@ XX BIS. En el caso de que en ejercicio de sus atribuciones identifique aumentos 
 
 XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán;
 
-> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-XXII.- Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas, y
+XXII.- Coadyuvar con las autoridades competentes para salvaguardar los derechos de la infancia, adultos mayores, personas con discapacidad e indígenas;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+XXIII.- Publicar, a través de cualquier medio, los productos y servicios que con motivo de sus verificaciones y los demás procedimientos previstos por la Ley sean detectados como riesgosos o en incumplimiento a las disposiciones jurídicas aplicables, y
 
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XXIII. Las demás que le confieran esta ley y otros ordenamientos.
+XXIV.- Las demás que le confieran esta ley y otros ordenamientos.
 
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -2273,3 +2275,7 @@ D.O.F. 5 DE NOVIEMBRE DE 2013.
 D.O.F. 31 DE DICIEMBRE DE 2013.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2014.
+
+D.O.F. 4 DE JUNIO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
