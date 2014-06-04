@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2014-05-28"
+last_updated: "2014-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -609,7 +609,9 @@ VII.- La salud mental;
 
 VIII.- La prevención y el control de las enfermedades buco dentales;
 
-IX.- La disponibilidad de un cuadro básico de los servicios de salud, conforme a los niveles de atención médica;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+IX.- La dotación total de un cuadro básico de los servicios de salud, conforme a los niveles de atención médica;
 
 X.- La promoción del mejoramiento de la nutrición;
 
@@ -631,7 +633,9 @@ El Ejecutivo del Estado, de conformidad con las disposiciones legales aplicables
 
 Es atribución del Ejecutivo del Estado:
 
-I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+I.- Que se garantice a la población del Estado la dotación total de medicamentos básicos; y
 
 II.- Que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
 
@@ -939,7 +943,7 @@ V.- Las demás que coadyuven a la salud del adulto y del adulto mayor.
 
 ###### Artículo 82.
 
-La Secretaría de Salud de Morelos promoverá la organización institucional de programas de atención a la salud del adulto y del adulto mayor, a efecto de conocer, sistematizar y evaluar el problema de las enfermedades crónicodegenerativas, para adoptar las medidas conducentes.
+La Secretaría de Salud de Morelos promoverá la organización institucional de programas de atención a la salud del adulto y del adulto mayor, a efecto de conocer, sistematizar y evaluar el problema de las enfermedades crónico-degenerativas, para adoptar las medidas conducentes.
 
 ###### Artículo 83.
 
@@ -3846,3 +3850,11 @@ SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para los 
 TERCERO. Una vez que entre en vigor el presente Decreto, deberá procederse a instalar el Consejo Estatal de Salud.
 
 CUARTO. El Reglamento Interior del Consejo Estatal de Salud, deberá ser adecuado conforme a las disposiciones del presente Decreto.
+
+P.O. 4 DE JUNIO DE 2014.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos y en el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO. Respecto a la reforma constitucional, toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas se tienen como parte de esta Constitución.
+
+TERCERO. Respecto a la reforma a la Ley de Salud del Estado de Morelos, el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
