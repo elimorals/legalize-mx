@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2014-05-14"
+last_updated: "2014-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2475,15 +2473,17 @@ Para la aplicación de las sanciones, se tendrá por consumado el robo desde el 
 
 Comete el delito de robo de ganado quien se apodera de una o más cabezas de ganado, ajeno total o parcialmente, sin derecho y sin consentimiento de quien legalmente puede disponer de aquéllas.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2014)</small>
+
 ###### Artículo 216.
 
-El robo de ganado vacuno, caballar o mular se sancionará conforme a las siguientes reglas:
+El robo de ganado vacuno, caballar o mular, se sancionará conforme a las siguientes reglas:
 
-I. Si fuera una sola cabeza, se aplicará prisión de dos a cinco años y multa de treinta a sesenta veces el salario.
+I. Si fuera una sola cabeza, se aplicará prisión de tres años tres meses a seis años y multa de cien a doscientas veces el salario.
 
-II. Si excediera de una pero no de diez cabezas, se aplicará prisión de cuatro a nueve años y multa de treinta a cien veces el salario.
+II. Si excediera de una pero no de diez cabezas, se aplicará prisión de cuatro a nueve años y multa de ciento cincuenta a trescientas veces el salario.
 
-III. Cuando el número de cabezas fuera mayor de diez, se aplicará prisión de seis a quince años y multa de cincuenta a ciento cincuenta veces el salario.
+III. Cuando el número de cabezas fuera mayor de diez, se aplicará prisión de seis a quince años y multa de trescientas a quinientas veces el salario.
 
 ###### Artículo 217.
 
@@ -4442,3 +4442,9 @@ De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
+
+P.O. 4 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
