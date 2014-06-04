@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2014-04-03"
+last_updated: "2014-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -69,37 +69,35 @@ I. Agente del Ministerio Público: Agentes del Ministerio Público Investigadore
 
 II. Consejo: El Consejo del Servicio Profesional de Carrera;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 III. Delegaciones: Las Delegaciones de la Procuraduría General de Justicia del Estado;
 
 IV. Gobernador: El Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+V. (DEROGADA, P.O. 4 DE JUNIO DE 2014)
 
-V. Instituto: El Instituto de Atención a Víctimas del Delito;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VI. INCATEP: El Instituto de Capacitación Técnica y Profesional;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VII. Ley: Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VIII. Ministerio Público: La institución regulada en el presente ordenamiento;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IX. Procuraduría: La Procuraduría General de Justicia del Estado;
 
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 X. Procurador: El Procurador General de Justicia del Estado; y
 
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 XI. Reglamento: El Reglamento de la presente Ley.
 
@@ -523,17 +521,29 @@ IX. Delegados;
 
 X. Fiscal para Asuntos Electorales;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XI. Unidad Especializada en la Investigación y Persecución del Secuestro;
+XI. Coordinador Estatal Antisecuestro;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XII. Unidad Especializada en la Investigación y Persecución de los Delitos en Materia de Trata de Personas; y
+XII. Director de Ministerios Públicos de la Coordinación Estatal Antisecuestro;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XIII. Agentes del Ministerio Público.
+XIII. Unidad Especializada en la Investigación y Persecución de los delitos en Materia de Trata de Personas;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+XIV. Director General de Operación del Procedimiento Penal Acusatorio y Oral;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+XV. Coordinadores Regionales del Procedimiento Penal Acusatorio y Oral; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+XVI. Agentes del Ministerio Público.
 
 B) Con funciones auxiliares del Ministerio Público:
 
@@ -557,13 +567,25 @@ IV. Peritos;
 
 V. Director de la Policía Ministerial;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-VI. Agentes de la Policía Ministerial; y
+VI. Agentes de la Policía Ministerial;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-VII. Oficiales Ministeriales.
+VII. Oficiales Ministeriales y Auxiliares Profesionales;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+VIII. Director de Manejo de Crisis y Negociación de la Coordinación Estatal Antisecuestro;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+IX. Director de Operación de la Coordinación Estatal Antisecuestro; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+X. Director de Atención a Víctimas de la Coordinación Estatal Antisecuestro.
 
 C) Con funciones administrativas:
 
@@ -587,17 +609,15 @@ VI. Director de Informática;
 
 VII. Director de Administración;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Director de Normatividad, Control y Seguimiento;
+VIII. (DEROGADA, P.O. 4 DE JUNIO DE 2014)
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IX. Director de Comunicación Social;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-X. Director de Enlace con la Secretaría de Seguridad Pública Federal;
+X. Director de Enlace con la Comisión Nacional de Seguridad;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -611,13 +631,21 @@ XII. Titulares de los Centros de Mediación;
 
 XIII. Coordinador de Asesoría;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XIV. Coordinador de Vinculación y Enlace; y
+XIV. Coordinador de Vinculación y Enlace;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-XV. Coordinador para la implementación de la Reforma Penal.
+XV. Director para la implementación de la Reforma Penal;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+XVI. Director del Sistema de Justicia Alternativa; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+XVII. Secretario Particular de la Procuraduría General de Justicia.
 
 Los Agentes del Ministerio Público asignados como auxiliares de las distintas unidades administrativas que componen la Procuraduría, serán designados libremente por el titular de cada una de ellas, previo acuerdo con el Procurador.
 
@@ -647,7 +675,9 @@ I. Auxiliar al Procurador en las funciones que la ley le confiere;
 
 II. Suplir, en su orden, las ausencias temporales del Procurador;
 
-III. Conocer y decidir sobre la calificación del no ejercicio de la acción penal por perdón del ofendido y las incompetencias resueltas por los Agentes del Ministerio Público correspondientes;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+III. Conocer y decidir sobre la calificación del no ejercicio de la acción penal y las incompetencias resueltas por los Agentes del Ministerio Público correspondientes;
 
 IV. Conocer y decidir respecto de las colaboraciones a que se refiere la fracción VI del artículo 11 de este ordenamiento legal, conforme al Convenio de Colaboración celebrado al efecto;
 
@@ -815,11 +845,13 @@ VII. Informar mensualmente previo acuerdo con el Procurador al Consejo Estatal E
 
 VIII. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2014)</small>
 
-ARTICULO 20 BIS.- La Unidad Especializada en la Investigación y Persecución del Secuestro, será un órgano desconcentrado dependiente directamente del Procurador, estará integrada con personal especializado y deberá contar, al menos, con Ministerios Públicos, peritos, policías investigadores y ministeriales, así como con los recursos humanos, financieros y materiales necesarios para su efectiva operación.
+ARTICULO 20 BIS.- La Coordinación Estatal Antisecuestro, será un órgano desconcentrado dependiente directamente del Procurador, estará integrada con personal especializado y contará con las Direcciones de Manejo de Crisis y Negociación, de Operación, de Atención a Víctimas y de Ministerios Públicos, además de Agentes del Ministerio Público, peritos, policías investigadores y ministeriales, así como con los recursos humanos, financieros, materiales y las áreas que sean necesarias para su efectiva operación.
 
-Para ser integrante de la Unidad Especializada en la Investigación y Persecución del Secuestro deberán reunir los requisitos establecidos en la presente ley, así como los dispuestos en el artículo 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+Tiene por objeto llevar a cabo toda investigación e intervención para el esclarecimiento de los hechos que puedan ser constitutivos de los delitos en materia de secuestro, así como para dar seguimiento al juicio respectivo, con las atribuciones y obligaciones que para el Ministerio Público y Policía establecen, la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, la Constitución Política del Estado de Tamaulipas, la presente Ley Orgánica, así como las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
+
+Para ser integrante de la Coordinación Estatal Antisecuestro deberán reunir los requisitos establecidos en la presente ley, así como los dispuestos en el artículo 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2014)</small>
 
@@ -831,33 +863,57 @@ Para ser integrante de la Unidad Especializada en la Investigación y Persecuci�
 
 Los Agentes del Ministerio Público tendrán las atribuciones señaladas en esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 22.
 
-Los integrantes de la Unidad Especializada en la Investigación y Persecución del Secuestro tendrán las siguientes atribuciones:
+Los integrantes de la Coordinación Estatal Antisecuestro tendrán las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 I.- Solicitar que se le brinde atención médica, psicológica y jurídica a las víctimas de las conductas previstas como secuestro en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 II.- Decretar las providencias precautorias para la protección de la vida o integridad de las víctimas de secuestro o sus familiares;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 III.- Asesorar a los familiares en las negociaciones para lograr la libertad de las víctimas;
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 IV.- Recibir, por cualquier medio, las denuncias sobre los delitos e iniciar la investigación;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 V.- Utilizar las técnicas de investigación previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en los demás ordenamientos aplicables;
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 VI.- Vigilar, con absoluto respeto a los derechos constitucionales, a las personas respecto de las cuales se tenga indicios de que se encuentran involucradas en los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 VII.- Sistematizar la información obtenida para lograr la liberación de las víctimas y la detención de los probables responsables;
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 VIII.- Solicitar a personas físicas o morales la entrega inmediata de información que pueda ser relevante para la investigación del delito o la liberación de las víctimas;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 IX.- Proponer políticas para la prevención e investigación de las conductas previstas en esta Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 X.- Proponer al Procurador General de Justicia del Estado, en el marco de la colaboración de la Conferencia Nacional de Procuración de Justicia, la celebración de convenios con las empresas de telecomunicaciones para la obtención de datos adicionales contenidos en la base de datos prevista en la Ley Federal de Telecomunicaciones y sobre el uso de las mismas;
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 XI.- Utilizar cualquier medio de investigación que les permita regresar con vida a la víctima, identificar y ubicar a los presuntos responsables y cumplir con los fines de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando dichas técnicas de investigación sean legales y con pleno respeto a los derechos humanos, y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 XII.- Las demás que disponga la ley.
 
@@ -1081,33 +1137,33 @@ III. Las demás que otras disposiciones legales, el Procurador o el Segundo Subp
 
 (DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+ARTICULO 27 QUATER.- (DEROGADO, P.O. 4 DE JUNIO DE 2014)
 
-ARTICULO 27 quáter.- La Dirección de Normatividad, Control y Seguimiento tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2014)</small>
 
-I. Formular anteproyectos de iniciativas de leyes o de reformas legales que incidan en el ámbito de atribuciones de la Procuraduría;
+ARTICULO 27 QUINTUS.- El Director para la Implementación de la Reforma Penal tendrá las siguientes atribuciones y obligaciones:
 
-II. Sistematizar la normatividad e instrumentos convencionales suscritos por el Instituto;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
 
-III. Implantar las normas, sistemas y procedimientos necesarios para el control y evaluación administrativa y financiera del Instituto;
+I. Acordar con el Procurador o el Director General de Operación del Procedimiento Penal Acusatorio y Oral los asuntos de su competencia;
 
-IV. Participar en el diseño de instrumentos de presupuestación y de planeación, en los términos de la legislación aplicable; y
-
-V. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Procurador.
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-ARTICULO 27 quintus.- El Coordinador para la Implementación de la Reforma Penal tendrá las siguientes atribuciones y obligaciones:
-
-I. Acordar con el Procurador o el Subprocurador General los asuntos de su competencia;
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 II. Establecer la coordinación necesaria con otras áreas de la Procuraduría para cumplir con los objetivos en materia de Implementación del nuevo Sistema de Justicia Penal derivados del Plan Estatal de Desarrollo;
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
 III. Promover y ejecutar acciones sustantivas encaminadas a la óptima transición hacia el nuevo Sistema de Justicia Penal;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 IV. Proponer a la superioridad la metodología para operar y dirigir eficazmente el nuevo Sistema de Justicia Penal, a su inicio y hasta su total implementación en el Estado;
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
 V. Definir y proponer a la superioridad los mecanismos y estrategias necesarios para lograr la operación paralela del nuevo Sistema de Justicia Penal y del sistema procedente hasta la conclusión de este último; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Las demás que deriven de los ordenamientos federales, estatales, acuerdos del titular del Ejecutivo del Estado y del Procurador.
 
@@ -1359,21 +1415,25 @@ Los estímulos serán otorgados de conformidad a lo previsto en la Ley de Premio
 
 El Procurador será designado por el Gobernador, con la ratificación del Congreso del Estado, y removido libremente de conformidad con la Constitución del Estado.
 
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 45.
 
-Los Subprocuradores, Directores Generales, Directores, Subdirectores, Visitador, Coordinadores, Delegados, Jefes de Departamento, Titulares de Unidad y Fiscal para Asuntos Electorales serán designados y removidos libremente por el Gobernador, a propuesta del Procurador.
+Los Subprocuradores, el Coordinador Estatal Antisecuestro, Directores Generales, Directores, Subdirectores, Visitador, Coordinadores, Delegados, Jefes de Departamento, Titulares de Unidad y Fiscal para Asuntos Electorales serán designados y removidos libremente por el Gobernador, a propuesta del Procurador.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 Los Agentes del Ministerio Público, de la Policía Investigadora, de la Policía Ministerial así como los Peritos, serán nombrados y removidos de conformidad con lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
 El Procurador, para la mejor organización y funcionamiento de la Procuraduría General de Justicia del Estado y cuando así lo requieran las necesidades del servicio, podrá designar a Agentes del Ministerio Público, Agentes de la Policía Investigadora, Agentes de la Policía Ministerial y Peritos, siempre que se trate de personas de amplia y acreditada experiencia profesional, debiendo previamente haber acreditado los exámenes que comprenden los procesos de evaluación de control de confianza.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 46.
 
-Para ser designado Procurador, Subprocurador, Director General, Director, Visitador, Coordinador de Asuntos Internos, Delegado, Jefe de Departamento, Titular de Unidad y Fiscal para Asuntos Electorales, se requiere:
+Para ser designado Procurador, Subprocurador, Coordinador Estatal Antisecuestro, Director General, Director, Visitador, Coordinador de Asuntos Internos, Delegado, Jefe de Departamento, Titular de Unidad y Fiscal para Asuntos Electorales, se requiere:
 
 I. Ser ciudadano mexicano, originario de Tamaulipas o tener una residencia efectiva en el Estado de tres años anteriores a su designación;
 
@@ -3198,3 +3258,17 @@ Las disposiciones relativas a los delitos de trata de personas previstas en la L
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En términos de las atribuciones que le confieren las normas constitucionales y legales aplicables, el Ejecutivo del Estado deberá reformar o en su caso expedir las disposiciones reglamentarias necesarias que se deriven del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
