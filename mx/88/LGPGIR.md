@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2014-03-19"
+last_updated: "2014-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -478,15 +478,21 @@ VI. Residuos de tiendas departamentales o centros comerciales generados en grand
 
 VII. Residuos de la construcción, mantenimiento y demolición en general;
 
-> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 4 DE JUNIO DE 2014)</small>
 
 VIII. Residuos tecnológicos provenientes de las industrias de la informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil, por sus características, requieren de un manejo específico;
 
-> <small>(ADICIONADA, D.O.F. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-IX. Pilas que contengan litio, níquel, mercurio, cadmio, manganeso, plomo, zinc, o cualquier otro elemento que permita la generación de energía en las mismas, en los niveles que no sean considerados como residuos peligrosos en la norma oficial mexicana correspondiente, y
+IX. Pilas que contengan litio, níquel, mercurio, cadmio, manganeso, plomo, zinc, o cualquier otro elemento que permita la generación de energía en las mismas, en los niveles que no sean considerados como residuos peligrosos en la norma oficial mexicana correspondiente;
 
-X. Otros que determine, la Secretaría de común acuerdo con las entidades federativas y municipios, que así lo convengan para facilitar su gestión integral.
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+X. Los neumáticos usados, y
+
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+XI. Otros que determine la Secretaría de común acuerdo con las entidades federativas y municipios, que así lo convengan para facilitar su gestión integral.
 
 ###### Artículo 20.
 
@@ -586,11 +592,11 @@ I. Los productores, importadores, exportadores y distribuidores de los productos
 
 II. Los generadores de los residuos peligrosos a los que se refieren las fracciones XII a XV del artículo 31 y de aquellos que se incluyan en las normas oficiales correspondientes;
 
-> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-III. Los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las normas oficiales mexicanas correspondientes; así como los residuos de envases plásticos, incluyendo los de poliestireno expandido, y
+III. Los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las normas oficiales mexicanas correspondientes; los residuos de envases plásticos, incluyendo los de poliestireno expandido; así como los importadores y distribuidores de neumáticos usados, bajo los principios de valorización y responsabilidad compartida, y
 
-> <small>(ADICIONADA, D.O.F. 19 DE MARZO DE 2014)</small>
+(REPUBLICADA, D.O.F. 4 DE JUNIO DE 2014)
 
 IV. Los grandes generadores y los productores, importadores, exportadores y distribuidores de pilas y baterías eléctricas que sean considerados como residuos de manejo especial en la norma oficial mexicana correspondiente.
 
@@ -1166,9 +1172,11 @@ Las normas especificarán las condiciones que deben reunir las instalaciones y l
 
 Los municipios regularán los usos del suelo de conformidad con los programas de ordenamiento ecológico y de desarrollo urbano, en los cuales se considerarán las áreas en las que se establecerán los sitios de disposición final de los residuos sólidos urbanos y de manejo especial.
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
 ###### Artículo 98.
 
-Para la prevención de la generación, la valorización y la gestión integral de los residuos de manejo especial, las entidades federativas establecerán las obligaciones de los generadores, distinguiendo grandes y pequeños, y las de los prestadores de servicios de residuos de manejo especial, y formularán los criterios y lineamientos para su manejo integral.
+Para la prevención de la generación, la valorización y la gestión integral de los residuos de manejo especial, en particular de los neumáticos usados, las entidades federativas establecerán las obligaciones de los generadores, distinguiendo grandes y pequeños, y las de los prestadores de servicios de residuos de manejo especial, y formularán los criterios y lineamientos para su manejo integral.
 
 ###### Artículo 99.
 
@@ -1189,6 +1197,14 @@ I. Verter residuos en la vía pública, predios baldíos, barrancas, cañadas, d
 II. Incinerar residuos a cielo abierto, y
 
 III. Abrir nuevos tiraderos a cielo abierto.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+Asimismo prohibir la disposición final de neumáticos en predios baldíos, barrancas, cañadas, ductos de drenaje y alcantarillado, en cuerpos de agua y cavidades subterráneas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+Los fabricantes, importadores, distribuidores, gestores y generadores quedan obligados a hacerse cargo de la gestión de los neumáticos usados y a garantizar su recolección de acuerdo con lo determinado por la norma oficial mexicana correspondiente y sus planes de manejo.
 
 ## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
@@ -1543,3 +1559,19 @@ D.O.F. 19 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría de Medio Ambiente y Recursos Naturales, realizará las modificaciones necesarias a la Norma Oficial Mexicana correspondiente y demás disposiciones que considere aplicables a fin de adecuarlas al contenido del presente decreto, en un plazo no mayor de 180 días posteriores a la entrada en vigor.
+
+D.O.F. 4 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para la Prevención y Gestión Integral de los Residuos, el Ejecutivo Federal deberá desarrollar una “Estrategia Nacional para la Gestión Integral de Neumáticos Usados”.
+
+TERCERO.- Los responsables de formular los planes de manejo para los residuos que se incluyan en los listados a los que hace referencia el artículo 28, fracción III de la Ley General para la Prevención y Gestión Integral de los Residuos, así como los productores, fabricantes, importadores y distribuidores de neumáticos usados contarán con un plazo no mayor a dos años para formular y someter a consideración de la autoridad correspondiente dichos planes a partir de que sean publicadas las listas.
+
+CUARTO.- El Ejecutivo Federal deberá publicar la norma oficial mexicana que establezca los criterios de gestión, responsabilidad compartida y valorización para el manejo integral de los neumáticos usados.
+
+QUINTO.- Las concesiones y permisos otorgados para construir, operar, explotar, conservar y mantener los caminos y puentes federales con anterioridad a la entrada en vigor del presente Decreto continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
+
+Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la presente Ley de conformidad con las disposiciones aplicables al momento de iniciar dicho trámite.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
