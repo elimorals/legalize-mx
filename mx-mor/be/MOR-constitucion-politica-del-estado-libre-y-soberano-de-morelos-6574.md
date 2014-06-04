@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2014-05-28"
+last_updated: "2014-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -445,6 +443,12 @@ Asimismo, los morelenses tienen el derecho de contar con las oportunidades y con
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
 
 Los morelenses que de acuerdo a los estudios socioeconómicos de los distintos órganos de Gobierno, que se determinen que viven en condiciones de pobreza extrema, tienen derecho a acceder a los programas sociales y por lo tanto, el Poder Ejecutivo del Estado y los Ayuntamientos de la Entidad, tienen la obligación de llevar a cabo las acciones necesarias, a efecto de determinar quienes se encuentran en pobreza extrema, registrarlos en los padrones correspondientes y beneficiarlos prioritariamente con los apoyos derivados de los programas que a nivel Federal, Estatal y Municipal se otorgan y que son proporcionados a través o por las autoridades locales. Lo anterior, con independencia de la atención que debe otorgarse a los grupos vulnerables y en pobreza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2014)</small>
+
+Los habitantes de Morelos que ingresen a los Institutos de Salud Pública del Estado, recibirán la totalidad de medicamentos que comprende el cuadro básico, material de curación e insumos necesarios para su correcta recuperación.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 1999)</small>
 
@@ -4651,3 +4655,11 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas se tienen como parte de esta Constitución.
 
 TERCERA. Se derogan todas las disposiciones de menor rango jerárquico normativo que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 4 DE JUNIO DE 2014.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos y en el artículo 145, del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDO. Respecto a la reforma constitucional, toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas se tienen como parte de esta Constitución.
+
+TERCERO. Respecto a la reforma a la Ley de Salud del Estado de Morelos, el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
