@@ -4,7 +4,7 @@ identifier: "FED-reglamento-financiero-y-de-reservas-del-instituto-de-68561"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-28"
-last_updated: "2010-04-30"
+last_updated: "2014-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68561&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-31"
 
 REGLAMENTO FINANCIERO Y DE RESERVAS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el jueves 28 de mayo de 2009.
 
@@ -207,7 +207,7 @@ La Valuación incluirá la determinación de las reservas que permitan cumplir a
 
 La Valuación será elaborada anualmente por la Dirección de Finanzas, la cual podrá contar con una asesoría externa para este propósito. Asimismo deberá ser presentada a la Comisión, a fin de que ésta la examine y verifique la suficiencia de Cuotas y Aportaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 5.
 
@@ -233,7 +233,7 @@ c. Régimen de pensiones del Seguro de Invalidez y Vida.
 
 d. Transferencias del Gobierno Federal y transferencias hacia el Gobierno Federal, en los términos del décimo primero, décimo segundo, décimo octavo y décimo noveno transitorios de la Ley, hasta la extinción de la generación de pensiones en curso de pago y de los trabajadores activos al 30 de junio de 2008 que opten por el régimen de pensiones definido en el décimo transitorio de la Ley.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 6.
 
@@ -681,7 +681,7 @@ El déficit definido en el artículo anterior que presente el Instituto será cu
 
 La Junta aprobará la distribución y calendarización de las transferencias o aportaciones resultantes de los cálculos del párrafo anterior, y serán comunicados al Gobierno Federal y los gobiernos o Dependencias y Entidades de las Entidades Federativas o municipales que resultaren con importes a su cargo, para su pago o entero a la Tesorería General del Instituto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 35.
 
@@ -693,7 +693,7 @@ Hasta que no se realicen los pagos en la Tesorería General de las cantidades de
 
 ### CAPITULO SEGUNDO. DE LOS ORGANOS ESPECIALIZADOS DE INVERSION
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 36.
 
@@ -757,15 +757,17 @@ d) El Tesorero General del Instituto, y
 
 e) El Subdirector de Contaduría del Instituto.
 
-> <small>(DEROGADO ANTEPENULTIMO PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 Adicionalmente a los miembros e invitados permanentes antes mencionados, el Comité contará con un Secretario Técnico, quien contará únicamente con voz, que será nombrado y removido por el propio Comité a propuesta del Director General y, en su ausencia, será suplido por la persona que se designe entre los miembros o invitados permanentes del Comité, que se encuentren presentes en la sesión.
 
 El Comité, previo acuerdo del mismo, podrá invitar a sus sesiones a personas distintas a los invitados permanentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
 ###### Artículo 38.
 
-El Comité sesionará cuando menos una vez al mes, conforme al calendario que éste autorice en la primera sesión del año, en sus sesiones ordinarias. Asimismo, cuando así lo considere necesario, el Presidente del Comité podrá convocar a la celebración de sesiones extraordinarias.
+EL (SIC) Comité sesionará cuando menos una vez cada trimestre, conforme al calendario que éste autorice en la primera sesión del año, en sus sesiones ordinarias. Asimismo, cuando así lo considere necesario, el Presidente del Comité podrá convocar a la celebración de sesiones extraordinarias.
 
 Las sesiones ordinarias deberán ser convocadas, por lo menos con cuarenta y ocho horas de anticipación, remitiendo el orden del día y la carpeta que contenga los asuntos que se tratarán en las sesiones.
 
@@ -795,7 +797,9 @@ I. Presidir las sesiones del Comité y presentar los asuntos del orden del día;
 
 II. Representar al Comité ante otras Instancias;
 
-III. Presentar mensualmente al Comité los informes que elabore la Dirección de Finanzas;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+III. Presentar trimestralmente al Comité los informes que elabore la Dirección de Finanzas;
 
 IV. Convocar a las sesiones extraordinarias del Comité, y
 
@@ -825,7 +829,7 @@ VIII. Las demás que le encomiende el Comité.
 
 ### CAPITULO TERCERO. DE LA INVERSION DE LAS RESERVAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 42.
 
@@ -843,9 +847,9 @@ III. Aplicar las estrategias para cubrir el riesgo de inversión;
 
 IV. Establecer y operar los sistemas de información para las operaciones de inversión de las Reservas y de los excedentes de efectivo y sobre los factores de riesgo de inversión;
 
-> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-V. Elaborar y presentar al Comité, a través de la Dirección de Finanzas, un informe mensual pormenorizado de las operaciones y rendimientos obtenidos en la inversión de los excedentes de efectivo, y uno semestral, por las correspondientes a las Reservas del Instituto;
+V.- Elaborar y presentar al Comité, a través de la Dirección de Finanzas, un informe trimestral pormenorizado de las operaciones y rendimientos obtenidos en la inversión de los excedentes de efectivo, y uno semestral, por las correspondientes a las Reservas del Instituto;
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2010)</small>
 
@@ -895,7 +899,7 @@ La Coordinación de Inversiones informará dentro de los diez días naturales si
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE REFORMA EL PRESENTE ARTICULO, PUBLICADO EN EL D.O.F. DE 30 DE ABRIL DE 2010, SE MODIFICA LA ESTRUCTURA DEL MISMO, PARA QUEDAR CONFORMADO POR DOS FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO QUE REFORMA EL PRESENTE ARTÍCULO, PUBLICADO EN EL D.O.F. DE 30 DE ABRIL DE 2010, SE MODIFICA LA ESTRUCTURA DEL MISMO, PARA QUEDAR CONFORMADO POR DOS FRACCIONES.</small>
 
 ###### Artículo 49.
 
@@ -941,7 +945,7 @@ Atentamente
 
 México, D.F., a 31 de marzo de 2009.- El Secretario General y Secretario de la Junta Directiva, José Enrique Ampudia Mello.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 30 DE ABRIL DE 2010.
 
@@ -950,3 +954,7 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su public
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Acuerdo.
 
 TERCERO. Las funciones y responsabilidades previstas en el Reglamento continuarán desempeñándose por las mismas áreas, aún y cuando éstas cambien su denominación. Asimismo, una vez que se apruebe la nueva estructura de la Dirección de Finanzas, las funciones y responsabilidades encomendadas al Area actuarial de la Dirección de Finanzas, serán supervisadas y representadas por la Subdirección a la que quede adscrita.
+
+D.O.F. 4 DE JUNIO DE 2014.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
