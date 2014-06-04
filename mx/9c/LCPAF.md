@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2013-12-16"
+last_updated: "2014-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -166,6 +166,10 @@ Las concesiones se otorgarán hasta por un plazo de 30 años. Éstas podrán ser
 
 La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 60 días naturales contado a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
 
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+Las concesiones que se otorguen para construir, conservar y mantener los caminos y puentes federales, podrán solicitar en sus características de construcción que se emplee caucho reciclado proveniente de neumáticos usados.
+
 ###### ARTICULO 7o.
 
 Las concesiones a que se refiere este capítulo se otorgarán mediante concurso público, conforme a lo siguiente:
@@ -300,31 +304,37 @@ Las concesiones y permisos se podrán revocar por cualquiera de las causas sigui
 
 I. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
 
-II. Interrumpir el concesionario la operación de la vía total o parcialmente, sin causa justificada;
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-III. Interrumpir el permisionario la prestación del servicio de autotransporte de pasajeros total o parcialmente, sin causa justificada;
+II. No cumplir con las características de construcción y operación, establecidos en las concesiones y permisos;
 
-IV. Reincidir en la aplicación de tarifas superiores a las autorizadas o registradas;
+III. Interrumpir el concesionario la operación de la vía total o parcialmente, sin causa justificada;
 
-V. Ejecutar actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios o permisionarios que tengan derecho a ello;
+IV. Interrumpir el permisionario la prestación del servicio de autotransporte de pasajeros total o parcialmente, sin causa justificada;
 
-VI. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios;
+V. Reincidir en la aplicación de tarifas superiores a las autorizadas o registradas;
 
-VII. Cambiar de nacionalidad el concesionario o permisionario;
+VI. Ejecutar actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios o permisionarios que tengan derecho a ello;
 
-VIII. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, a algún gobierno o estado extranjero o admitir a éstos como socios de las empresas concesionarias o permisionarias;
+VII. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios;
 
-IX. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de la Secretaría;
+VIII. Cambiar de nacionalidad el concesionario o permisionario;
 
-X. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin autorización de la Secretaría;
+IX. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, a algún gobierno o estado extranjero o admitir a éstos como socios de las empresas concesionarias o permisionarias;
 
-XI. Prestar servicios distintos a los señalados en el permiso respectivo;
+X. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de la Secretaría;
 
-XII. No otorgar o no mantener en vigor la garantía de daños contra terceros;
+XI. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin autorización de la Secretaría;
 
-XIII. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en esta Ley o en sus reglamentos; y
+XII. Prestar servicios distintos a los señalados en el permiso respectivo;
 
-XIV. Las demás previstas en la concesión o el permiso respectivo.
+XIII. No otorgar o no mantener en vigor la garantía de daños contra terceros;
+
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+XIV. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en esta Ley o en sus reglamentos, y
+
+XV. Las demás previstas en la concesión o el permiso respectivo.
 
 El titular de una concesión o permiso que hubiere sido revocado, estará imposibilitado para obtener otro nuevo dentro de un plazo de 5 años, contado a partir de que hubiere quedado firme la resolución respectiva.
 
@@ -1057,3 +1067,19 @@ QUINTO. La Secretaría de Comunicaciones y Transportes gestionará ante la Secre
 SEXTO. Los ingresos provenientes de la venta de vehículos que causaron abandono, con menos de cinco años en depósito de guarda y custodia en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, se destinarán de conformidad con el artículo 89 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, incluyendo los gastos realizados por la Dirección General de Autotransporte Federal en el marco del presente Decreto y los lineamientos que al afecto se emitan. En este supuesto, a los permisionarios se les cubrirán los adeudos generados con el treinta por ciento de los remanentes de los ingresos y el resto se destinará a la modernización del autotransporte federal de carga.
 
 En el caso de los vehículos que causen abandono con más de cinco años en depósito de guarda y custodia, en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, serán adjudicados en forma directa al permisionario federal correspondiente, quien cubrirá los gastos administrativos en que incurra la Dirección General de Autotransporte Federal y el Servicio de Administración y Enajenación de Bienes. Asimismo, el permisionario federal aportará a la Dirección General de Autotransporte Federal, el uno por ciento de los ingresos que obtenga por este concepto, descontados los gastos administrativos mencionados en el presente párrafo, para el desarrollo de un sistema automatizado de control e información de los permisionarios del autotransporte federal.
+
+D.O.F. 4 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para la Prevención y Gestión Integral de los Residuos, el Ejecutivo Federal deberá desarrollar una “Estrategia Nacional para la Gestión Integral de Neumáticos Usados”.
+
+TERCERO.- Los responsables de formular los planes de manejo para los residuos que se incluyan en los listados a los que hace referencia el artículo 28, fracción III de la Ley General para la Prevención y Gestión Integral de los Residuos, así como los productores, fabricantes, importadores y distribuidores de neumáticos usados contarán con un plazo no mayor a dos años para formular y someter a consideración de la autoridad correspondiente dichos planes a partir de que sean publicadas las listas.
+
+CUARTO.- El Ejecutivo Federal deberá publicar la norma oficial mexicana que establezca los criterios de gestión, responsabilidad compartida y valorización para el manejo integral de los neumáticos usados.
+
+QUINTO.- Las concesiones y permisos otorgados para construir, operar, explotar, conservar y mantener los caminos y puentes federales con anterioridad a la entrada en vigor del presente Decreto continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
+
+Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la presente Ley de conformidad con las disposiciones aplicables al momento de iniciar dicho trámite.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
