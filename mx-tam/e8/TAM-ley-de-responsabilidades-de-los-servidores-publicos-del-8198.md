@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2013-05-15"
+last_updated: "2014-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -801,7 +801,9 @@ IV.- En los Ayuntamientos del Estado: Presidente Municipal, Regidores, Síndicos
 
 V.- En la Administración Pública Paraestatal y Paramunicipal: Consejeros, Comisarios, Directores Generales, Gerentes Generales, Subdirectores Generales, Subgerentes Generales, Directores, Gerentes, Subdirectores y Servidores Públicos, equivalentes de los órganos descentralizados, empresas de participación mayoritarias, sociedades, asociaciones, fideicomisos, juntas y patronatos.
 
-VI.- En la Procuraduría General de Justicia del Estado: Procurador, Subprocuradores, Directores, Subdirectores, Agentes del Ministerio Público y Policías Judiciales;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2014)</small>
+
+VI.- En la Procuraduría General de Justicia del Estado: Procurador, Subprocuradores, Coordinadores, Directores, Subdirectores, Agentes del Ministerio Público y Policías Ministeriales e Investigadores;
 
 VII.- En los Tribunales Administrativos y del Trabajo, Magistrados, miembros de las Juntas y Tribunales de Arbitraje, así como sus Secretarios;
 
@@ -982,3 +984,17 @@ P.O. 15 DE MAYO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En términos de las atribuciones que le confieren las normas constitucionales y legales aplicables, el Ejecutivo del Estado deberá reformar o en su caso expedir las disposiciones reglamentarias necesarias que se deriven del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
