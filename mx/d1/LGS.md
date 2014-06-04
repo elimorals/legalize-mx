@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2014-06-03"
+last_updated: "2014-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -1092,15 +1092,15 @@ La protección social en salud es un mecanismo por el cual el Estado garantizar�
 
 Las disposiciones reglamentarias establecerán los criterios necesarios para la secuencia y alcances de cada intervención que se provea en los términos de este Título.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 2.
 
-Para los efectos de esta Ley, se entenderá por Sistema de Protección Social en Salud a las acciones que en esta materia provean los Regímenes Estatales de Protección Social en Salud.
+Para los efectos de este Título, se entenderá por Sistema de Protección Social en Salud a las acciones que en esta materia provean la Secretaría de Salud y los Regímenes Estatales de Protección Social en Salud entendiéndose por éstos, a las estructuras administrativas que provean dichas acciones, que dependan o sean coordinadas por la encargada de conducir la política en materia de salud en las entidades federativas.
 
-La Secretaría de Salud coordinará las acciones de los Regímenes Estatales de Protección Social en Salud, los cuales contarán con la participación subsidiaria y coordinada de la Federación, de conformidad con lo dispuesto en este Título.
+La Secretaría de Salud coordinará las acciones de protección social en salud, que lleven a cabo los Regímenes Estatales de Protección Social en Salud en sus respectivas jurisdicciones, los cuales contarán con la participación subsidiaria y coordinada de la Federación, de conformidad con lo dispuesto en este Título y demás disposiciones aplicables.
 
-Para efectos de este Título se entenderá por Regímenes Estatales, a las acciones de protección social en salud de los Estados de la República y del Distrito Federal.
+Los Regímenes Estatales de Protección Social en Salud garantizarán las acciones a que se refiere el párrafo anterior, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la prestación de los servicios de salud a la persona del Sistema de Protección Social en Salud, los cuales deberán realizar su actividad de manera independiente de la prestación de servicios de salud.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1186,7 +1186,9 @@ Se considerarán como beneficiarios del Sistema de Protección Social en Salud a
 
 Para incrementar la calidad de los servicios, la Secretaría de Salud establecerá los requerimientos mínimos que servirán de base para la atención de los beneficiarios del Sistema de Protección Social en Salud. Dichos requerimientos garantizarán que los prestadores de servicios cumplan con las obligaciones impuestas en este Título.
 
-La Secretaría de Salud, los estados y el Distrito Federal, promoverán las acciones necesarias para que las unidades médicas de las dependencias y entidades de la administración pública, tanto federal como local, que se incorporen al Sistema de Protección Social en Salud provean como mínimo los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, de acuerdo al nivel de atención, y acrediten previamente su calidad.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+La Secretaría de Salud y las entidades federativas, promoverán las acciones necesarias para que las unidades médicas de las dependencias y entidades de la administración pública, tanto federal como local, que se incorporen al Sistema de Protección Social en Salud provean como mínimo los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, de acuerdo al nivel de atención, y acrediten previamente su calidad.
 
 La acreditación de la calidad de los servicios prestados deberá considerar, al menos, los aspectos siguientes:
 
@@ -1206,23 +1208,35 @@ VII. Prescripción y surtimiento de medicamentos, y
 
 VIII. Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 10.
 
-Los Regímenes Estatales de Protección Social en Salud proveerán de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas en el Capítulo V de este Título, siempre que los beneficiarios cumplan con sus obligaciones.
+Los Regímenes Estatales de Protección Social en Salud se ajustarán a las bases siguientes:
 
-Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, los Regímenes Estatales de Protección Social en Salud, a partir de las transferencias que reciban en los términos de este Título, deberán destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro que para el efecto elabore la Secretaría de Salud.
+I. Tendrán a su cargo la administración y gestión de los recursos que en términos de los Capítulos III y IV de este Título, se aporten para el financiamiento del Sistema de Protección Social en Salud; en el caso de los recursos transferidos por la federación a que se refiere el artículo 77 Bis 15, fracción I de esta ley, deberán abrir cuentas bancarias productivas específicas para su manejo;
+
+II. Verificarán que se provean de manera integral los servicios de salud, los medicamentos y demás insumos para la salud asociados, siempre que los beneficiarios cumplan con sus obligaciones;
+
+III. Fortalecerán el mantenimiento y desarrollo de infraestructura en salud, a partir de los recursos que reciban en los términos de este Título, destinando los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro que para el efecto elabore la Secretaría de Salud;
+
+IV. Deberán rendir cuentas y proporcionar la información establecida respecto a los recursos que reciban, en los términos de esta ley y las demás aplicables, y
+
+V. Las demás que se incluyan en los acuerdos de coordinación que se celebren.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 11.
 
-El Sistema de Protección Social en Salud será financiado de manera solidaria por la Federación, los estados, el Distrito Federal y los beneficiarios en los términos de este Capítulo y el Capítulo V.
+El Sistema de Protección Social en Salud será financiado de manera solidaria por la federación, las entidades federativas y los beneficiarios en los términos de este Capítulo y el Capítulo V.
+
+Los recursos que se transfieran por la Federación para el financiamiento del Sistema de Protección Social en Salud, en cualquiera de sus modalidades, deberán computarse como parte de la cuota social o de la aportación solidaria federal a que se refieren los artículos 77 Bis 12 y 77 Bis 13 de esta Ley, respectivamente.
+
+En los casos de incumplimiento a las obligaciones de pago por la prestación de servicios de salud a la persona, establecidas en los convenios de colaboración celebrados entre las entidades federativas, la Federación, por conducto de la Secretaría de Salud, de los recursos a los que se refiere el presente Título, correspondientes a la entidad federativa deudora, podrá destinar a la entidad federativa acreedora, el monto que representa el pago de los casos validados y no rechazados por concepto de compensación económica.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1234,21 +1248,19 @@ El Gobierno Federal cubrirá anualmente una cuota social por cada persona afilia
 
 Para los efectos de este artículo, la fecha de inicio para el cálculo de la actualización conforme al Índice Nacional de Precios al Consumidor será el primero de enero de 2009 y el salario mínimo general vigente diario para el Distrito Federal que se tomará en cuenta como punto de partida será el de ese mismo año.
 
-La aportación a que se refiere este artículo se entregará a los estados y al Distrito Federal cuando cumplan con lo previsto en el artículo siguiente.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+La aportación a que se refiere este artículo se entregará a las entidades federativas, cuando cumplan con lo previsto en el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 13.
 
-Para sustentar el Sistema de Protección Social en Salud, el Gobierno Federal y los gobiernos de los estados y del Distrito Federal efectuarán aportaciones solidarias por persona beneficiaría conforme a los siguientes criterios:
+Para sustentar el Sistema de Protección Social en Salud, el Gobierno Federal y los gobiernos de las entidades federativas efectuarán aportaciones solidarias por persona beneficiaria conforme a los siguientes criterios:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
-
-I. La aportación mínima de los estados y del Distrito Federal por persona será equivalente a la mitad de la cuota social que se determine con base en el artículo anterior, y
+I. La aportación mínima de las entidades federativas por persona será equivalente a la mitad de la cuota social que se determine con base en el artículo anterior, y
 
 > <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1266,7 +1278,11 @@ La Secretaría de Salud definirá las variables que serán utilizadas para estab
 
 Los términos bajo los cuales se hará efectiva la concurrencia del Gobierno Federal y estatal para cubrir la aportación solidaria se establecerán en los acuerdos de coordinación a que hace referencia el artículo 77 Bis 6 de la Ley.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+La composición y forma de entrega de los recursos correspondientes a las aportaciones a que hace referencia este artículo se determinarán en las disposiciones reglamentarias y serán incluidos en los acuerdos respectivos.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 72.
 
@@ -1408,7 +1424,7 @@ En caso de que el diagnóstico confirme la existencia de un trastorno mental y d
 
 ### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 4.
 
@@ -1436,13 +1452,17 @@ La competencia entre la Federación y las entidades federativas en la ejecución
 
 A) Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
 
-I. Desarrollar, coordinar, supervisar y establecer las bases para la regulación de los Regímenes Estatales de Protección Social en Salud, para lo cual formulará el plan estratégico de desarrollo del Sistema y aplicará, en su caso, las medidas correctivas que sean necesarias, tomando en consideración la opinión de los estados y el Distrito Federal, a través del Consejo a que se refiere el artículo 77 Bis 33 de esta Ley;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+I. Desarrollar, coordinar, supervisar y establecer las bases para la regulación de los Regímenes Estatales de Protección Social en Salud, para lo cual formulará el plan estratégico de desarrollo del Sistema y aplicará, en su caso, las medidas correctivas que sean necesarias, tomando en consideración la opinión de las entidades federativas a través del Consejo Nacional de Salud;
 
 II. Proveer servicios de salud de alta especialidad a través de los establecimientos públicos de carácter federal creados para el efecto;
 
 III. En su función rectora constituir, administrar y verificar el suministro puntual de la previsión presupuestal que permita atender las diferencias imprevistas en la demanda esperada de servicios a que se refiere el artículo 77 Bis 18 y el Fondo de Protección contra Gastos Catastróficos establecido en el artículo 77 Bis 29;
 
-IV. Transferir con puntualidad a los estados y al Distrito Federal las aportaciones que le correspondan para instrumentar los Regímenes Estatales de Protección Social en Salud, en los términos del Capítulo III de este Título;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+IV. Transferir con oportunidad a las entidades federativas, los recursos que les correspondan para operar, por conducto de los Regímenes Estatales de Protección Social en Salud, las acciones del Sistema de Protección Social en Salud, en los términos del artículo 77 Bis 15 y demás disposiciones aplicables del Capítulo III de este Título;
 
 V. Elaborar el modelo y promover la formalización de los acuerdos de coordinación a que se refiere el artículo 77 Bis 6 de esta Ley;
 
@@ -1450,33 +1470,61 @@ VI. Establecer el esquema de cuotas familiares que deberán cubrir los beneficia
 
 VII. Diseñar y elaborar los materiales de sensibilización, difusión, promoción y metodología de la capacitación que se utilizarán en la operación del Sistema;
 
-VIII. Definir el marco organizacional del Sistema de Protección Social de Salud en los ámbitos federal, estatal, del Distrito Federal y en su caso, municipal;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-IX. Diseñar, desarrollar y suministrar el instrumento para evaluar la capacidad de pago de los beneficiarios para efectos del esquema de cuotas familiares a que se refiere el artículo 77 Bis 21, en los estados y el Distrito Federal;
+VIII. Definir el marco organizacional del Sistema de Protección Social de Salud en los ámbitos federal y local;
+
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+IX. Diseñar, desarrollar y suministrar el instrumento para evaluar la capacidad de pago de los beneficiarios para efectos del esquema de cuotas familiares a que se refiere el artículo 77 Bis 21, en las entidades federativas;
 
 X. Establecer los lineamientos para la integración y administración del padrón de beneficiarios del Sistema de Protección Social en Salud y validar su correcta integración;
 
 XI. Solicitar al Consejo de Salubridad General el cotejo del padrón de beneficiarios del Sistema de Protección Social en Salud, contra los registros de afiliación de los institutos de seguridad social y otros esquemas públicos y sociales de atención médica;
 
-XII. Establecer la forma y términos de los convenios que suscriban los estados y el Distrito Federal entre sí y con las instituciones públicas del Sistema Nacional de Salud con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+XII. Establecer la forma y términos de los convenios que suscriban las entidades federativas, entre sí y con las instituciones públicas del Sistema Nacional de Salud con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios;
 
 XIII. A los efectos de intercambiar información y comprobar la situación de aseguramiento, suscribir los convenios oportunos con las entidades públicas de seguridad social;
 
 XIV. Tutelar los derechos de los beneficiarios del Sistema de Protección Social en Salud;
 
-XV. Definir los requerimientos mínimos para la acreditación de los centros públicos prestadores de los servicios inscritos en el Sistema de Protección Social en Salud;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-XVI. Definir las bases para la compensación económica entre entidades federativas, el Distrito Federal, instituciones y establecimientos del Sistema Nacional de Salud por concepto de prestación de servicios de salud, y
+XV. Definir los requerimientos mínimos para la acreditación de los establecimientos de salud prestadores de los servicios inscritos en el Sistema de Protección Social en Salud;
 
-XVII. Evaluar el desempeño de los Regímenes Estatales de Protección Social en Salud y coadyuvar en la fiscalización de los fondos que los sustenten, incluyendo aquellos destinados al mantenimiento y desarrollo de infraestructura y equipamiento.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-B) Corresponde a los gobiernos de los estados y el Distrito Federal, dentro de sus respectivas circunscripciones territoriales:
+XVI. Definir las bases para la compensación económica entre entidades federativas, instituciones y establecimientos del Sistema Nacional de Salud por concepto de prestación de servicios de salud, previa opinión de la Secretaría de Hacienda y Crédito Público.
 
-I. Proveer los servicios de salud en los términos de este Título, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
+Asimismo, para el caso en que proceda una compensación económica por incumplimiento a las obligaciones de pago entre entidades federativas, destinar al Régimen Estatal de Protección Social en Salud acreedor, el monto del pago que resulte por la prestación de servicios de salud que correspondan, con cargo a los recursos que en términos del presente Título deben transferirse directamente a las entidades federativas, o entregarse a la entidad federativa cuyo Régimen Estatal de Protección Social en Salud, sea considerado deudor, y
 
-II. Identificar e incorporar beneficiarios al Régimen Estatal de Protección Social en Salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en su entidad, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Salud;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-III. Aplicar de manera transparente y oportuna los recursos que sean transferidos por la Federación y las aportaciones propias, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para el efecto se celebren;
+XVII. Evaluar el desempeño de los Regímenes Estatales de Protección Social en Salud y coadyuvar con los órganos competentes federales y locales en el control y la fiscalización de los recursos que se les transfieran o entreguen, para llevar a cabo las acciones del Sistema de Protección Social en Salud en su respectiva jurisdicción, incluyendo aquéllos destinados al mantenimiento y desarrollo de infraestructura y equipamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+B) Corresponde a los gobiernos de las entidades federativas, dentro de sus respectivas circunscripciones territoriales:
+
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+I. Proveer los servicios de salud en los términos de este Título y demás disposiciones de esta Ley, así como de los reglamentos aplicables, disponiendo de la capacidad de insumos y del suministro de medicamentos necesarios para su oferta oportuna y de calidad;
+
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+II. Identificar e incorporar por conducto del Régimen Estatal de Protección Social en Salud, beneficiarios al Sistema de Protección Social en Salud, para lo cual ejercerán actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en su entidad, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Salud;
+
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+III. Aplicar, de manera transparente y oportuna, los recursos que sean transferidos por la Federación y las aportaciones propias, para la ejecución de las acciones del Sistema de Protección Social en Salud, en los términos de este Título, las demás disposiciones aplicables y los acuerdos de coordinación que para el efecto se celebren.
+
+Para tal efecto, las entidades federativas estarán a lo dispuesto en la Ley General de Contabilidad Gubernamental y demás disposiciones jurídicas aplicables, así como a lo siguiente:
+
+a) Una vez transferidos por la federación los recursos que corresponda entregar directamente a la entidad federativa de que se trate en los términos del artículo 77 Bis 15, fracción I de esta Ley, los mismos deberán ser ministrados íntegramente, junto con los rendimientos financieros que se generen al Régimen Estatal de Protección Social en Salud, dentro de los cinco días hábiles siguientes, y
+
+b) El Régimen Estatal de Protección Social en Salud, deberá informar a la Secretaría de Salud, dentro de los tres días hábiles siguientes el monto, la fecha y el importe de los rendimientos generados que le hayan sido entregados por la tesorería de la entidad federativa.
 
 IV. Programar, de los recursos a que se refiere el Capítulo III de este Título, aquellos que sean necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento conforme a las prioridades que se determinen en cada entidad federativa, en congruencia con el plan maestro que se elabore a nivel nacional por la Secretaría de Salud;
 
@@ -1486,15 +1534,29 @@ VI. Realizar el seguimiento operativo de las acciones del Régimen Estatal de Pr
 
 VII. Adoptar esquemas de operación que mejoren la atención, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación de establecimientos de atención médica; para tal efecto podrán celebrar convenios entre sí y con instituciones públicas del Sistema Nacional de Salud con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios, en términos de las disposiciones y lineamientos aplicables;
 
-VIII. Proporcionar a la Secretaría de Salud la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto, y
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+VIII. Recabar, custodiar y conservar por conducto del Régimen Estatal de Protección Social en Salud, la documentación justificante y comprobatoria original de las erogaciones de los recursos en numerario que le sean transferidos, en términos del presente Título, la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables, y proporcionar a la Secretaría de Salud y a los órganos de fiscalización competentes, la información que les sea solicitada, incluyendo los montos y conceptos de gasto, y
 
 IX. Promover la participación de los municipios en los Regímenes Estatales de Protección Social en Salud y sus aportaciones económicas mediante la suscripción de convenios, de conformidad con la legislación estatal aplicable.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 6.
 
-El Ejecutivo Federal, por conducto de la Secretaría de Salud, y los gobiernos de los estados y el Distrito Federal celebrarán acuerdos de coordinación para la ejecución del Sistema de Protección Social en Salud. Para esos efectos, la Secretaría de Salud establecerá el modelo nacional a que se sujetarán dichos acuerdos, en los cuales se determinarán, entre otros, los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema.
+El Ejecutivo federal, por conducto de la Secretaría de Salud, y las entidades federativas celebrarán acuerdos de coordinación para la ejecución del Sistema de Protección Social en Salud. Para esos efectos, la Secretaría de Salud establecerá el modelo nacional a que se sujetarán dichos acuerdos, tomando en consideración la opinión de las entidades federativas.
+
+En dichos acuerdos se estipulará como mínimo lo siguiente:
+
+I. Las modalidades orgánicas y funcionales de los Regímenes Estatales de Protección Social en Salud;
+
+II. Los conceptos de gasto;
+
+III. El destino de los recursos;
+
+IV. Los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema, y
+
+V. El perfil que los titulares de los Regímenes Estatales de Protección Social en Salud deben cubrir.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1512,27 +1574,45 @@ Para efectos de este Título, se considerarán gastos catastróficos a los que s
 
 Con el objetivo de apoyar el financiamiento de la atención principalmente de beneficiarios del Sistema de Protección Social en Salud que sufran enfermedades de alto costo de las que provocan gastos catastróficos, se constituirá y administrará por la Federación un fondo de reserva, sin límites de anualidad presupuestal, con reglas de operación definidas por la Secretaría de Salud.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 14.
 
-Cualquier aportación adicional a la establecida en el artículo anterior de los gobiernos de los estados y el Distrito Federal para las acciones de protección social en salud, tendrán que canalizarse directamente a través de las estructuras de los servicios estatales de salud.
+Cualquier aportación adicional a la establecida en el artículo anterior de los gobiernos de las entidades federativas para las acciones de protección social en salud, tendrán que canalizarse directamente a través de las estructuras de los servicios estatales de salud.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 15.
 
-El Gobierno Federal transferirá a los gobiernos de los estados y el Distrito Federal los recursos que por concepto de cuota social y de aportación solidaria le correspondan, con base en los padrones de familias incorporadas, que no gocen de los beneficios de las instituciones de seguridad social, validados por la Secretaría de Salud.
+El Gobierno Federal transferirá a los gobiernos de las entidades federativas, los recursos que por concepto de cuota social y de aportación solidaria le correspondan, con base en las personas afiliadas, que no gocen de los beneficios de las instituciones de seguridad social, validados por la Secretaría de Salud.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+La transferencia de recursos a que se refiere el párrafo anterior, podrá realizarse en numerario directamente a las entidades federativas, en numerario mediante depósitos en las cuentas que constituyan los Regímenes Estatales de Protección en Salud en la Tesorería de la Federación, o en especie, conforme los lineamientos que para tal efecto emitan la Secretaría de Salud y la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, y adicionalmente, se sujetará a lo siguiente:
+
+I. La transferencia de los recursos en numerario que se realice directamente a las entidades federativas, se hará por conducto de sus respectivas tesorerías, en los términos que determinen las disposiciones reglamentarias de esta Ley y demás disposiciones aplicables;
+
+II. La Tesorería de la Federación, con cargo a los depósitos a la vista o a plazos a que se refiere este artículo, podrá realizar pagos a terceros, por cuenta y orden del Régimen Estatal de Protección Social en Salud, quedando éste obligado a dar aviso de las disposiciones que realice con cargo a estos depósitos a la tesorería de su entidad para los efectos contables y presupuestarios correspondientes, y
+
+III. Los recursos en especie se entregarán a los servicios estatales de salud, quedando obligados a dar aviso de dicha entrega a la tesorería de su entidad para los efectos contables y presupuestarios correspondientes.
+
+Los recursos que se transfieran en especie se acordarán en el Anexo correspondiente.
+
+La Secretaría de Salud establecerá precios de referencia a los que se deberán sujetar las entidades federativas que reciban los recursos en numerario para la adquisición de medicamentos.
+
+Cuando una persona elegible beneficiaria del Sistema de Protección Social en Salud sea atendida en cualquier establecimiento de salud del sector público de carácter federal, la Secretaría de Salud canalizará directamente a dicho establecimiento, el monto correspondiente a las intervenciones prestadas, con cargo a los recursos a transferirse al respectivo Régimen Estatal de Protección Social en Salud, de acuerdo a los lineamientos que para tal efecto emita la propia Secretaría.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 16.
 
-Los recursos de carácter federal a que se refiere el presente Título, que se transfieran a los estados y al Distrito Federal no serán embargables, ni los gobiernos de los estados podrán, bajo ninguna circunstancia, gravarlos, afectarlos en garantía, ni destinarlos a fines distintos a los expresamente previstos en el mismo.
+Los recursos en numerario o en especie de carácter federal a que se refiere el presente Título, que se transfieran o entreguen, según sea el caso, a las entidades federativas, no serán embargables, ni los gobiernos de las mismas podrán, bajo ninguna circunstancia, gravarlos, afectarlos en garantía, ni destinarlos a fines distintos a los expresamente previstos en el mismo.
 
-Dichos recursos se administrarán y ejercerán por los gobiernos de los estados y el Distrito Federal conforme a sus propias leyes y con base en los acuerdos de coordinación que se celebren para el efecto. Los gobiernos de los estados deberán registrar estos recursos como ingresos propios destinados específicamente a los fines establecidos en el presente Título.
+Dichos recursos se administrarán y ejercerán por las entidades federativas, conforme a esta Ley y, en lo que no se oponga a la misma, de acuerdo con sus respectivas leyes, así como con base en los acuerdos de coordinación que se celebren para el efecto. Los gobiernos de las entidades federativas deberán incluir en sus respectivas leyes de ingresos y presupuestos de egresos u ordenamientos equivalentes, los recursos destinados específicamente a los fines establecidos en el presente Título.
 
-El control y supervisión del manejo de los recursos a que se refiere este Capítulo se realizará conforme a los términos establecidos en el Capítulo VII de este Título.
+En caso de que alguna entidad federativa no haya comprobado que los recursos a que se refiere este artículo se destinaron a los fines específicos para los que le fueron transferidos o entregados, las autoridades que tengan conocimiento de esta situación tendrán la obligación de informarlo a las autoridades competentes para que procedan a su investigación y sanción correspondiente. Lo anterior, sin perjuicio de que la entidad federativa reintegre los recursos a la Tesorería de la Federación, sin que se suspendan, parcial o totalmente, los servicios de salud a la persona.
+
+El control y la fiscalización del manejo de los recursos a que se refiere este Capítulo se realizará conforme a los términos establecidos en el Capítulo VII de este Título y demás disposiciones aplicables.
+
+Las entidades federativas llevarán la contabilidad y presentarán la información financiera respecto a los recursos a que se refiere este Título, conforme a lo dispuesto en la Ley General de Contabilidad Gubernamental.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1540,43 +1620,51 @@ El control y supervisión del manejo de los recursos a que se refiere este Capí
 
 De la cuota social y de las aportaciones solidarias a que se refieren los artículos 77 Bis 12 y 77 Bis 13, la Secretaría de Salud canalizará anualmente el 8% de dichos recursos al Fondo de Protección contra Gastos Catastróficos establecido en el Capítulo VI de este Título.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 18.
 
-De la cuota social y de las aportaciones solidarias a que se refieren los artículos 77 Bis 12 y 77 Bis 13, la Secretaría de Salud canalizará anualmente el 3% de dichos recursos para la constitución de una previsión presupuestal anual, aplicando dos terceras partes para atender las necesidades de infraestructura para atención primaria y especialidades básicas en los estados con mayor marginación social, y una tercera parte para atender las diferencias imprevistas en la demanda de servicios durante cada ejercicio fiscal, así como la garantía del pago por la prestación interestatal de servicios.
+De la cuota social y de las aportaciones solidarias a que se refieren los artículos 77 Bis 12 y 77 Bis 13, la Secretaría de Salud canalizará anualmente el 3% de dichos recursos para la constitución de una previsión presupuestal, aplicando, a través de un fondo sin límite de anualidad, dos terceras partes para las necesidades de infraestructura para atención primaria y especialidades básicas preferentemente en las entidades federativas con mayor marginación social, y una tercera parte, sujeta a anualidad, para atender las diferencias imprevistas en la demanda de servicios durante cada ejercicio fiscal.
 
-Con cargo a esta previsión presupuestal, que será administrada por la Secretaría de Salud, se realizarán transferencias a los estados conforme a las reglas que fije el Ejecutivo Federal mediante disposiciones reglamentarias.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-En caso de que existan remanentes de esta previsión presupuestal al concluir el ejercicio fiscal correspondiente, la Secretaría de Salud canalizará dichos remanentes al Fondo de Protección contra Gastos Catastróficos establecido en el Capítulo VI de este Título.
+Con cargo a esta previsión presupuestal, que será administrada por la Secretaría de Salud, se realizarán transferencias a las entidades federativas conforme a las reglas que fije el Ejecutivo Federal mediante disposiciones reglamentarias.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+En caso de que al concluir el ejercicio fiscal correspondiente, existan remanentes en la previsión presupuestal destinada a la atención de las diferencias imprevistas en la demanda de servicios, la Secretaría de Salud canalizará dichos remanentes al Fondo de Protección contra Gastos Catastróficos establecido en el Capítulo VI de este Título.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 Al término de cada ejercicio la Secretaría de Salud rendirá al Congreso de la Unión un informe pormenorizado sobre la utilización y aplicación de los recursos del fondo al que se refiere el presente artículo.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 19.
 
-Será causa de responsabilidad administrativa el incumplimiento en tiempo y forma de las obligaciones económicas establecidas en este Capítulo.
+Será causa de responsabilidad administrativa el incumplimiento en tiempo y forma de las obligaciones establecidas en el presente Título.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO VII. De la transparencia, supervisión, control y fiscalización del manejo de los recursos del Sistema de Protección Social en Salud
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 20.
 
-El Gobierno Federal establecerá un Fondo de Aportaciones para los Servicios de Salud a la Comunidad, mediante el cual aportará recursos que serán ejercidos por los estados y el Distrito Federal para llevar a cabo las acciones relativas a las funciones de rectoría y la prestación de servicios de salud a la comunidad, conforme a los objetivos estratégicos establecidos en el Plan Nacional de Desarrollo y el Programa Nacional de Salud, y de conformidad con los acuerdos de coordinación que para el efecto se suscriban.
+El gobierno federal establecerá un Fondo de Aportaciones para los Servicios de Salud a la Comunidad, mediante el cual se aportarán recursos que serán ejercidos, en los términos que disponga el Reglamento, por la Secretaría de Salud y las entidades federativas para llevar a cabo las acciones relativas a las funciones de rectoría y la prestación de servicios de salud a la comunidad, conforme a los objetivos estratégicos establecidos en el Plan Nacional de Desarrollo y el Programa Sectorial de Salud, y de conformidad con los acuerdos de coordinación que para el efecto se suscriban.
 
-La Secretaría de Salud determinará el monto anual de este fondo así como la distribución del mismo con base en la fórmula establecida para tal efecto en las disposiciones reglamentarias de esta Ley. Dicha fórmula deberá tomar en cuenta la población total de cada estado y un factor de ajuste por necesidades de salud asociadas a riesgos sanitarios y a otros factores relacionados con la prestación de servicios de salud a la comunidad.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+La Secretaría de Salud determinará el monto anual de este fondo, así como la distribución del mismo con base en la fórmula establecida para tal efecto en las disposiciones reglamentarias de esta Ley. Dicha fórmula deberá tomar en cuenta la población total de cada entidad federativa y un factor de ajuste por necesidades de salud asociadas a riesgos sanitarios y a otros factores relacionados con la prestación de servicios de salud a la comunidad.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 La Secretaría de Salud definirá las variables que serán utilizadas en la fórmula de distribución de los recursos del fondo y proporcionará la información utilizada para el cálculo, así como de la utilización de los mismos, al Congreso de la Unión.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+### CAPITULO VIII. De la Comisión Nacional de Protección Social en Salud
 
 ###### ARTICULO 77 Bis 21.
 
@@ -1584,23 +1672,23 @@ Los beneficiarios del Sistema de Protección Social en Salud participarán en su
 
 Las disposiciones reglamentarias establecerán los lineamientos para los casos en que por las características socioeconómicas de los beneficiarios éstos no aportarán cuotas familiares.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 22.
 
-Las cuotas familiares se recibirán, administrarán y aplicarán conforme a las disposiciones de esta Ley y serán destinadas específicamente al abasto de medicamentos, equipo y otros insumos para la salud que sean necesarios para el Sistema de Protección Social en Salud.
+Las cuotas familiares se recibirán, administrarán y aplicarán conforme a las disposiciones de esta Ley y serán destinadas específicamente a los conceptos de gasto que determinen las disposiciones reglamentarias de la misma y que sean necesarios para el Sistema de Protección Social en Salud.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 23.
 
-Las cuotas familiares y reguladoras, que en su caso se establezcan, serán recibidas, administradas y ejercidas por los Servicios Estatales de Salud, a través de los Regímenes Estatales de Protección Social en Salud, conforme a lo dispuesto por el artículo 77 Bis 22.
+Las cuotas familiares y reguladoras, que en su caso se establezcan, serán recibidas, administradas y ejercidas por los servicios estatales de salud, a través de los Regímenes Estatales de Protección Social en Salud, conforme a lo dispuesto en las disposiciones reglamentarias de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 24.
 
-Los Regímenes Estatales de Protección Social en Salud deberán presentar a la Secretaría de Salud, conforme a los lineamientos que la misma establezca, los informes que sean necesarios respecto del destino y manejo de las cuotas familiares.
+Los Regímenes Estatales de Protección Social en Salud deberán presentar a la Secretaría de Salud, conforme a los lineamientos que la misma establezca, los informes que sean necesarios respecto del destino, manejo y comprobación del ejercicio de los recursos correspondientes a las cuotas familiares.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1636,17 +1724,25 @@ Con el objeto de favorecer el uso responsable de los servicios de salud, el Cons
 
 ###### ARTICULO 77 Bis 30.
 
-Con el objetivo de fortalecer la infraestructura médica de alta especialidad y su acceso o disponibilidad regional, la Secretaría de Salud, mediante un estudio técnico, determinará aquellas unidades médicas de las dependencias y entidades de la administración pública, tanto federal como local, que por sus características y ubicación puedan convertirse en centros regionales de alta especialidad o la construcción con recursos públicos de nueva infraestructura con el mismo propósito, que provean sus servicios en las zonas que determine la propia dependencia.
+Con el objetivo de fortalecer la infraestructura médica de alta especialidad y su acceso o disponibilidad regional, la Secretaría de Salud, mediante un estudio técnico, determinará aquellas unidades médicas de las dependencias y entidades de la administración pública, tanto federal como local, que por sus características y ubicación puedan ser reconocidos como centros regionales de alta especialidad o la construcción con recursos públicos de nueva infraestructura con el mismo propósito, que provean sus servicios en las zonas que determine la propia dependencia.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 Para la determinación a que se refiere el párrafo anterior, la Secretaría de Salud tomará en cuenta los patrones observados de referencia y contrarreferencia, así como la información que sobre las necesidades de atención de alta especialidad le reporten de manera anual los Regímenes Estatales de Protección Social en Salud o a través de los sistemas de información básica que otorguen los servicios estatales de salud.
 
-Los centros regionales recibirán recursos del fondo a que se refiere este Capítulo de conformidad con los lineamientos que establezca la Secretaría de Salud, en las que se incluirán pautas para operar un sistema de compensación y los elementos necesarios que permitan precisar la forma de sufragar las intervenciones que provean los centros regionales.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+Los centros regionales y demás prestadores públicos de servicios de salud de alta especialidad podrán recibir recursos del fondo a que se refiere este Capítulo para el fortalecimiento de su infraestructura, de conformidad con los lineamientos que establezca la Secretaría de Salud, en los que se incluirán pautas para operar un sistema de compensación y los elementos necesarios que permitan precisar la forma de sufragar las intervenciones que provean los centros regionales.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 Con la finalidad de racionalizar la inversión en infraestructura de instalaciones médicas de alta especialidad y garantizar la disponibilidad de recursos para la operación sustentable de los servicios, la Secretaría de Salud emitirá un plan maestro al cual se sujetarán los servicios estatales de salud y los Regímenes Estatales de Protección Social en Salud.
 
-No se considerarán elegibles para la participación en los recursos del fondo que se establezca en los términos del presente Capítulo las instalaciones médicas de alta especialidad que no cuenten con el certificado que para el efecto expida la Secretaría de Salud, en congruencia con el plan maestro a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+No se considerarán elegibles para la participación en los recursos del fondo que se establezca en los términos del presente Capítulo las instalaciones médicas de alta especialidad que no cuenten con el Certificado de Necesidad que para el efecto expida la Secretaría de Salud, en congruencia con el plan maestro a que se refiere el párrafo anterior.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
 
@@ -1654,57 +1750,75 @@ No se considerarán elegibles para la participación en los recursos del fondo q
 
 ###### ARTICULO 77 Bis 31.
 
-Considerando el financiamiento solidario del Sistema de Protección Social en Salud, la Federación, los estados y el Distrito Federal, en el ámbito de sus respectivas competencias, dispondrán lo necesario para transparentar su gestión de conformidad con las normas aplicables en materia de acceso y transparencia a la información pública gubernamental.
+Los recursos del Sistema de Protección Social en Salud estarán sujetos a lo siguiente:
 
-Para estos efectos, tanto la Federación como los Regímenes Estatales de Protección Social en Salud, a través de los servicios estatales de salud, difundirán toda la información que tengan disponible respecto de universos, coberturas, servicios ofrecidos, así como del manejo financiero del Sistema de Protección Social en Salud, entre otros aspectos, con la finalidad de favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del Sistema.
+A) Considerando el financiamiento solidario del Sistema de Protección Social en Salud, la Federación y las entidades federativas, en el ámbito de sus respectivas competencias, dispondrán lo necesario para transparentar su gestión de conformidad con las normas aplicables en materia de acceso y transparencia a la información pública gubernamental.
+
+Para estos efectos, tanto la federación como los Regímenes Estatales de Protección Social en Salud, a través de los servicios estatales de salud, difundirán toda la información que tengan disponible respecto de universos, coberturas, servicios ofrecidos, así como del manejo financiero del Sistema de Protección Social en Salud, entre otros aspectos, con la finalidad de favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del Sistema.
 
 Asimismo, los Regímenes Estatales de Protección Social en Salud dispondrán lo necesario para recibir y evaluar las propuestas que le formulen los beneficiarios respecto de los recursos que éstos aporten y tendrán la obligación de difundir, con toda oportunidad, la información que sea necesaria respecto del manejo de los recursos correspondientes.
 
-La Secretaría de Salud presentará al Congreso de la Unión un informe semestral pormenorizado de las acciones que se desarrollen con base en este artículo.
+B) Para efectos del presente Título, la supervisión tendrá por objeto verificar el cumplimiento de las acciones que se provean en materia de protección social en salud, así como solicitar en su caso, la aclaración o corrección de la acción en el momento en que se verifican, para lo cual se podrá solicitar la información que corresponda. Estas actividades quedan bajo la responsabilidad en el ámbito federal, de la Secretaría de Salud, y en el local, de las entidades federativas, sin que ello pueda implicar limitaciones, ni restricciones, de cualquier índole, en la administración y ejercicio de dichos recursos.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+C) Además de lo dispuesto en esta ley y en otros ordenamientos, las entidades federativas deberán presentar la información a que se refiere el artículo 74 de la Ley General de Contabilidad Gubernamental.
+
+La Secretaría de Salud dará a conocer al Congreso de la Unión, semestralmente de manera pormenorizada la información y las acciones que se desarrollen con base en este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 32.
 
-El control y supervisión del manejo de los recursos federales a que se refiere este Título quedará a cargo de las autoridades siguientes, en las etapas que se indican:
+El control y la fiscalización del manejo de los recursos federales que sean transferidos a las entidades federativas en los términos de este Título quedará a cargo de las autoridades siguientes, en las etapas que se indican:
 
-I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a los estados y al Distrito Federal, corresponderá a la Secretaría de la Función Pública;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-II. Recibidos los recursos federales por los estados y el Distrito Federal, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna de los gobiernos de los estados.
+I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las entidades federativas, corresponderá a la Secretaría de la Función Pública;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+II. Recibidos los recursos federales por las entidades federativas, hasta su erogación total, corresponderá a las autoridades competentes de control, supervisión y fiscalización, sean de carácter federal o local.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 La supervisión y vigilancia no podrán implicar limitaciones, ni restricciones, de cualquier índole, en la administración y ejercicio de dichos recursos;
 
-III. La fiscalización de las cuentas públicas de los estados y el Distrito Federal, será efectuada por el Congreso Local que corresponda, por conducto de su órgano de fiscalización conforme a sus propias leyes, a fin de verificar que las dependencias y entidades del Ejecutivo Local aplicaron dichos recursos para los fines previstos en esta Ley, y
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-IV. La Auditoría Superior de la Federación al fiscalizar la Cuenta Pública Federal, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales, y por lo que hace a la ejecución de los recursos a que se refiere este Título, la misma se realizará en términos de la Ley de Fiscalización Superior de la Federación.
+III. La fiscalización de las cuentas públicas de las entidades federativas, será efectuada por el Congreso Local que corresponda, por conducto de su órgano de fiscalización conforme a sus propias leyes, a fin de verificar que las dependencias y entidades del Ejecutivo Local aplicaron dichos recursos para los fines previstos en esta Ley, y
 
-Cuando las autoridades estatales que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos federales señalados no han sido aplicados a los fines que señala la Ley, deberán hacerlo del conocimiento de la Secretaría de la Función Pública en forma inmediata.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
-Por su parte, cuando el órgano de fiscalización de un Congreso Local detecte que los recursos federales señalados no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación.
+IV. La Auditoría Superior de la Federación, al fiscalizar la Cuenta Pública Federal, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales, y por lo que hace a la ejecución de los recursos a que se refiere este Título, la misma se realizará en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+Cuando las autoridades federales o locales que en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos federales señalados no han sido aplicados a los fines que señala la Ley, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación y de la Secretaría de la Función Pública en forma inmediata y, en su caso, del Ministerio Público de la Federación.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+Por su parte, cuando el órgano de fiscalización de un Congreso Local detecte que los recursos federales señalados no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de las autoridades a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la Hacienda Pública Federal, a las aportaciones estatales y del núcleo familiar en que, en su caso, incurran las autoridades locales exclusivamente por motivo de la desviación de los recursos para fines distintos a los previstos en esta Ley, serán sancionadas en los términos de la legislación federal, por las autoridades federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas y aplicadas por las autoridades locales con base en sus propias leyes.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ###### ARTICULO 77 Bis 33.
 
-Se constituye el Consejo Nacional de Protección Social en Salud como órgano colegiado consultivo de las acciones del Sistema de Protección Social en Salud.
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+(DEROGADO, D.O.F. 4 DE JUNIO DE 2014)
 
 ###### ARTICULO 77 Bis 34.
 
-El Consejo Nacional de Protección Social en Salud estará integrado por los titulares de la (sic) Secretarías de Salud, quien lo presidirá y tendrá voto de calidad, de Desarrollo Social y de Hacienda y Crédito Público; por los titulares del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; por el Secretario del Consejo de Salubridad General; y por los titulares de los servicios estatales de salud de cinco entidades federativas, participantes en el Sistema de Protección Social en Salud y que representen a las distintas regiones del país, a invitación del Secretario de Salud, cuya participación se rotará conforme lo disponga el reglamento de operación de este Consejo. Asimismo, se invitará a las sesiones del Consejo a un representante del Sindicato Nacional de los Trabajadores de la Secretaría de Salud.
+(DEROGADO, D.O.F. 4 DE JUNIO DE 2014)
 
-El Consejo Nacional de Protección Social en Salud ejercerá las atribuciones que le otorgue su reglamento interior, que será expedido por el Titular del Ejecutivo Federal, en el cual establecerá, asimismo, las reglas para su organización y funcionamiento.
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77 Bis 35.
 
-El Sistema de Protección Social en Salud contará con una Comisión Nacional, como órgano desconcentrado de la Secretaría de Salud, con la estructura y funciones que le asigne su reglamento interno. El titular de la Comisión Nacional será designado por el Presidente de la República a propuesta del Secretario de Salud tras haber recogido las opiniones de los miembros del Consejo a que se refiere este Capítulo, que dispondrá para su operación de los recursos que le asigne la Federación.
+El Sistema de Protección Social en Salud contará con una Comisión Nacional, como órgano desconcentrado de la Secretaría de Salud, con la estructura y funciones que le asigne su reglamento interno. El titular de la Comisión Nacional será designado por el Presidente de la República a propuesta del Secretario de Salud, que dispondrá para la operación de la Comisión de los recursos previstos para la misma en el presupuesto de la Secretaría de Salud.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -7228,6 +7342,14 @@ Al profesional, técnico o auxiliar de la atención médica que sin causa justif
 
 Si se produjere daño por la falta de intervención, podrá imponerse, además, suspensión definitiva para el ejercicio profesional, a juicio de la autoridad judicial.
 
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+
+###### ARTICULO 469 Bis.
+
+Se impondrá pena de cuatro a siete años de prisión, y multa de mil a quinientos mil días de salario mínimo general vigente en el Distrito Federal, a cualquier persona que desvíe del objeto para el cual fueron transferidos o entregados los recursos en numerario o en especie, según el caso, a que se refiere el Título Tercero Bis de la presente Ley o para la prestación de servicios en materia de salubridad general, si por razón de sus funciones o actividades los hubiere recibido en administración o por cualquier otra causa.
+
+La pena prevista en el presente artículo es sin perjuicio de las sanciones administrativas u otras penas que puedan determinarse conforme a lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como en la Ley General de Contabilidad Gubernamental y demás disposiciones jurídicas aplicables.
+
 ###### ARTICULO 470.
 
 Siempre que en la comisión de cualquiera de los delitos previstos en este Capítulo, participe un servidor público que preste sus servicios en establecimientos de salud de cualquier dependencia o entidad pública y actúe en ejercicio o con motivo de sus funciones, además de las penas a que se haga acreedor por dicha comisión y sin perjuicio de lo dispuesto en otras leyes, se le destituirá del cargo, empleo o comisión y se le inhabilitará para ocupar otro similar hasta por un tanto igual a la pena de prisión impuesta, a juicio de la autoridad judicial.
@@ -8065,3 +8187,19 @@ SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, con
 D.O.F. 3 DE JUNIO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE JUNIO DE 2014.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Las obligaciones pendientes de pago que a la fecha de la entrada en vigor del presente decreto, existan por la prestación de servicios de salud a la persona y se encuentren reconocidas en términos de los convenios de colaboración celebrados entre entidades federativas, serán pagadas conforme a las disposiciones jurídicas vigentes al momento en que se generaron.
+
+Cuarto. Los asuntos relativos a las responsabilidades administrativas, civiles y penales, en que se hubiere incurrido con motivo de la desviación de recursos federales recibidos y que al entrar en vigor este Decreto se encuentren en trámite o pendientes de resolución, deberán sustanciarse conforme a las disposiciones legales aplicables con anterioridad a la entrada en vigor del presente decreto.
+
+Quinto. El Ejecutivo Federal deberá emitir las disposiciones reglamentarias a que se refiere el presente decreto, en un plazo que no excederá de los 180 días siguientes al de la entrada en vigor del mismo.
+
+Sexto. La Secretaría de Salud deberá emitir los lineamientos, previa opinión de la Secretaría de Hacienda y Crédito Público, a que alude el presente Decreto, en un plazo que no excederá de los 180 días siguientes al de la entrada en vigor del mismo.
+
+Séptimo. Los acuerdos de coordinación a que se refiere el artículo 77 bis 6 de la Ley General de Salud, deberán ser suscritos dentro de los 90 días siguientes al de la publicación de las disposiciones reglamentarias a que se refiere el presente Decreto.
