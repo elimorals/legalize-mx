@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-desarrollo-economico-15
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-28"
-last_updated: "2011-09-02"
+last_updated: "2014-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 4 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 2 DE SEPTIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 28 de febrero del 2000.
 
@@ -221,11 +221,11 @@ III. Atender y tramitar los asuntos que el Secretario le encomiende; y,
 
 IV. Agendar y manejar las audiencias del Secretario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2011)</small>
 
 #### SECCIÓN II. DE LA DIRECCIÓN GENERAL DEL SERVICIO NACIONAL DE EMPLEO SINALOA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2011)</small>
 
 ###### Artículo 10.
 
@@ -745,7 +745,7 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 
 HERIBERTO FÉLIX GUERRA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE ABRIL DE 2007.
 
@@ -758,3 +758,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 > <small>(F. DE E., P. O. 26 DE JULIO DE 2011)</small>
 
 Artículo Segundo.- Las funciones y atribuciones que las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Dirección del Servicio Estatal del Empleo y Productividad se entenderán hechas a la Dirección General del Servicio Nacional de Empleo Sinaloa.
+
+P.O. 4 DE JUNIO DE 2014.
+
+Artículo Primero. El presente reglamento entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, de fecha 22 de febrero de 2000, publicado en el Periódico Oficial "El Estado de Sinaloa", número 025, el día 28 de febrero de 2000.
+
+Artículo Tercero. Se derogan todas las disposiciones contenidas en otros ordenamientos expedidos en el ámbito de la Administración Pública, que se opongan al presente Reglamento.
