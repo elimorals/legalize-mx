@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2013-10-23"
+last_updated: "2014-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -401,7 +401,7 @@ II.- La Dirección General, cuando proceda sanción pecuniaria, suspensión, des
 
 III.- La Coordinación, en los casos que determine esta Ley.
 
-Podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y las circunstancias del infractor y el daño causado por éste, no exceda de cien veces el salario mínimo diario.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE JUNIO DE 2014)</small>
 
 Incurrirán en responsabilidad administrativa, los servidores públicos que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo no se ajusten a lo previsto por esta Ley. En este caso, la Coordinación aplicará las sanciones correspondientes, previo el procedimiento consignado en esta Ley.
 
@@ -798,3 +798,13 @@ P.O. 23 DE OCTUBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
