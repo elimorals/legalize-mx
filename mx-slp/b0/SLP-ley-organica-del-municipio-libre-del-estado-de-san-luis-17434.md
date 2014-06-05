@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2014-05-22"
+last_updated: "2014-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1239,19 +1239,17 @@ Para el control del erario municipal cada ayuntamiento contará con un Tesorero,
 
 El tesorero y todos los empleados que manejen fondos y valores, están obligados a caucionar su manejo de manera honrada y responsable, debiéndose fijar una fianza de por lo menos el equivalente a un mes de los ingresos propios, misma que deberá depositarse para su resguardo en la tesorería municipal; no podrá ejercerse el cargo sin que se haya otorgado dicha garantía, además de cumplir con todas las obligaciones y responsabilidades previstas por el Reglamento Interior Municipal; el presidente municipal, y el propio tesorero, serán responsables de que se realice dicho depósito.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 80.
 
-Para ser Tesorero del Ayuntamiento se requiere:
+Para ser Tesorero del ayuntamiento es necesario cumplir con los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+I. Contar con título profesional a nivel licenciatura en el área contable, y
 
-I. Haber concluido la educación preparatoria o su equivalente, tratándose de municipios que tengan menos de cincuenta mil habitantes;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
-
-II. Contar con título profesional a nivel licenciatura, en municipios cuya población sea mayor de cincuenta mil habitantes, y
-
-III. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad.
+II. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad.
 
 ###### ARTICULO 81.
 
@@ -1347,9 +1345,17 @@ X. Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPITULO VII. De la Contraloría
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 85.
 
-Los municipios del Estado tendrán en el Ayuntamiento un Contralor Interno, el cual deberá reunir los requisitos que se exigen para ser Tesorero municipal, con excepción de la caución administrativa.
+Los municipios del Estado tendrán en el ayuntamiento un Contralor Interno, el cual deberá cumplir con los requisitos siguientes:
+
+I. Contar con título profesional a nivel licenciatura, y
+
+II. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad.
 
 ###### ARTICULO 86.
 
@@ -2574,3 +2580,9 @@ P.O. 22 DE MAYO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor a partir del uno de octubre del año dos mil quince, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
