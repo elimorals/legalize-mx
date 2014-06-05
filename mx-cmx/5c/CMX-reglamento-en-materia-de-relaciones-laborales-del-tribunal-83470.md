@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-relaciones-laborales-del-tribunal-8347
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2014-01-28"
+last_updated: "2014-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83470&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE JUNIO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -1146,7 +1146,9 @@ I. Cumplir con la entrega de los documentos, bienes y recursos asignados a su cu
 
 II. Rendir los informes de los asuntos que tengan bajo su responsabilidad.
 
-Quienes por mutuo consentimiento terminen su relación laboral con el Tribunal, no podrán reingresar a laborar a este órgano jurisdiccional ni prestar sus servicios por honorarios asimilados a salarios o por recibo fiscal, sino hasta haber transcurrido un periodo de al menos un año.
+> <small>(REFORMADO, G.O. 5 DE JUNIO DE 2014)</small>
+
+Quienes por mutuo consentimiento terminen su relación laboral con el Tribunal, no podrán reingresar a laborar a éste, ni prestar en él sus servicios por honorarios asimilados a salarios o como prestador de servicios profesionales, sino hasta haber transcurrido un periodo equivalente al doble del número de meses de salario que hubiera recibido como pago por única vez. El periodo máximo para esta limitante será de un año.
 
 #### Sección IV. Del pago por única vez por renivelación
 
@@ -1219,6 +1221,12 @@ SECRETARIA TÉCNICA DE LA SECRETARÍA GENERAL
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 28 DE ENERO DE 2014.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 5 DE JUNIO DE 2014.
 
 PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
 
