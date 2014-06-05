@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-planeacion-92416"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-14"
-last_updated: "2013-02-14"
+last_updated: "2014-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE PLANEACIÓN, ADMINISTRACIÓN Y FINANZAS DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 14 de febrero de 2013.
 
@@ -1080,3 +1082,25 @@ MTRO. CARLOS EDUARDO ANGUIANO GÓMEZ
 Secretario de Planeación
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JUNIO DE 2014.
+
+Primero. El presente reglamento comenzará a surtir sus efectos a partir del día siguiente al que se publique en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Se abrogan las siguientes disposiciones reglamentarias:
+
+I. Reglamento Interior de la Secretaría de Administración;
+
+II. Reglamento Interior de la Secretaría de Finanzas; y
+
+III. Reglamento Interior de la Secretaría de Planeación.
+
+Tercero. En tanto se llevan a cabo las adecuaciones relativas en los cuerpos legales correspondientes, las alusiones que en éstos se haga a la Secretaría de Finanzas, se entenderán hechas a la Subsecretaría de Finanzas; las que se hagan a la Secretaría de Administración, se entenderán hechas a la Subsecretaría de Administración; y las que se hagan a la Secretaría de Planeación, se entenderán hechas a la Subsecretaría de Planeación y Evaluación.
+
+Cuarto. Con independencia del artículo anterior, el Secretario de Planeación, Administración y Finanzas podrá ejercer y determinar lo conducente respecto al ejercicio de las facultades, atribuciones y obligaciones que, en los términos del artículo que antecede, otros cuerpos legales le otorguen a la Subsecretaría de Planeación y Evaluación, a la Subsecretaría de Administración y/o a la Subsecretaría de Finanzas.
+
+Quinto. Se ordena actualizar los manuales, lineamientos, reglas, y demás disposiciones administrativas que regulan la organización y operación de la Secretaría de Planeación, Administración y Finanzas, para que guarden congruencia con las facultades que el presente ordenamiento confiere a las unidades administrativas de dicha dependencia gubernamental.
+
+Sexto. Las constancias de identificación expedidas al personal de la Dirección General de Ingresos de la Secretaría que esté obligado a identificarse, con anterioridad a la entrada en vigor del presente Reglamento Interior, continuarán vigentes hasta por el periodo que fueron expedidas, sin que rebasen el 31 de diciembre de 2014.
