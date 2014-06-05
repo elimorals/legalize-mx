@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2014-04-21"
+last_updated: "2014-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2014.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -3973,7 +3973,9 @@ El Pleno otorgará comisiones a los servidores públicos a que se refiere este A
 
 Las comisiones de los servidores públicos deberán estar debidamente fundadas y redundar en beneficio de las funciones sustantivas del Consejo.
 
-## TÍTULO SEXTO. DE LAS LICENCIAS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE JUNIO DE 2014)</small>
+
+## TÍTULO SEXTO. DE LAS LICENCIAS Y DÍAS ECONÓMICOS
 
 ###### Artículo 230.
 
@@ -4014,6 +4016,20 @@ Cuando se otorguen licencias por un término mayor a seis meses, no podrá conce
 ###### Artículo 238.
 
 Las licencias sin goce de sueldo no se computarán como tiempo de servicio prestado al Poder Judicial de la Federación, salvo en los casos en que el ISSSTE conceda licencia por enfermedad, en términos del artículo 37 de la Ley del citado Instituto, en correlación con el antepenúltimo párrafo del artículo 111 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2014)</small>
+
+###### Artículo 238 Bis.
+
+Se entiende por días económicos, a aquellos que podrán tener los trabajadores para inasistir a sus labores, con goce de sueldo, hasta por cinco días al año, para la atención de asuntos particulares de urgencia, conforme al procedimiento que al efecto establezca el Consejo.
+
+Los días económicos a que se refiere el párrafo anterior no serán acumulables año con año y se autorizarán con independencia del día de la semana de que se trate, pero no podrán otorgarse, en ningún caso, en períodos inmediatos a vacaciones.
+
+Podrán solicitar días económicos todos los servidores públicos de los órganos jurisdiccionales y áreas administrativas que tengan cuando menos un año de antigüedad ininterrumpido en el Poder Judicial de la Federación.
+
+La solicitud deberá hacerse por escrito al titular del órgano jurisdiccional o área administrativa de la adscripción del servidor público que lo solicite con cinco días de anticipación, a fin de no entorpecer las labores propias de su adscripción. Sólo en caso de extrema urgencia debidamente justificada, se hará el pedimento previo al otorgamiento de dicha prerrogativa con la anticipación que demande el caso.
+
+Para tales efectos los titulares deberán considerar que la causa por la que se solicita sea suficiente, válida y justificada, así como verificar que en ningún caso se entorpezca o afecte la administración de la justicia o el funcionamiento expedido de las actividades del órgano jurisdiccional o área administrativa, respectivamente.
 
 ## TÍTULO SÉPTIMO. DE LAS COMISIONES INTERINSTITUCIONALES
 
@@ -4562,3 +4578,9 @@ TERCERO. Las referencias que se hagan en otras disposiciones a la Secretaría Ej
 CUARTO. Los recursos humanos, materiales y financieros asignados a la Secretaría Ejecutiva del Pleno y a la Secretaría General de la Presidencia, deberán ser transferidos a la Secretaría Ejecutiva del Pleno y de la Presidencia.
 
 QUINTO. Los asuntos que estén siendo tramitados por la Secretaría Ejecutiva del Pleno y por la Secretaría General de la Presidencia, deberán ser atendidos por la Secretaría Ejecutiva del Pleno y de la Presidencia.
+
+D.O.F. 5 DE JUNIO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
