@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2013-10-26"
+last_updated: "2014-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951 , PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES , REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -323,9 +323,9 @@ XXXI. Presidir el Consejo Estatal de Consulta Ciudadana;
 
 XXXII. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
 
-XXXIII. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Público de la Propiedad;
+XXXIII. (DEROGADA, P.O. 5 DE JUNIO DE 2014)
 
 XXXIV. Establecer el calendario oficial y organizar los actos cívicos del Gobierno del Estado;
 
@@ -389,7 +389,9 @@ XXI. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, a
 
 XXII. Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado;
 
-XXIII. Llevar el catastro del Estado y fijar sus políticas, normas y lineamientos generales de acuerdo con las leyes respectivas;
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+
+XXIII. (DEROGADA, P.O. 5 DE JUNIO DE 2014)
 
 XXIV. Establecer las políticas y lineamientos del Sistema Estatal de Contabilidad Gubernamental y coordinar su funcionamiento;
 
@@ -1696,3 +1698,33 @@ P.O. 26 DE OCTUBRE DE 2013
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2014.
+
+PRIMERO. La presente Ley y modificaciones de este Decreto, entrarán en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia de este Decreto, se abroga la Ley del Registro Público de la Propiedad del Estado de San Luis Potosí publicada en el Periódico Oficial del Estado el once de julio del dos mil nueve.
+
+TERCERO. Con la vigencia de este Decreto, se abroga la Ley de Catastro del Estado y Municipios de San Luis Potosí publicada en el Periódico Oficial del Estado el nueve de octubre del dos mil doce; así como todas las disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
+
+CUARTO. Los trabajadores de base sindicalizable (sic) que actualmente prestan sus servicios en la Dirección del Registro Público de la Propiedad de la Secretaría General de Gobierno, y de la Dirección de Catastro de la Secretaría de Finanzas, seguirán adscritos, respectivamente, a la Secretaría General de Gobierno, y a la Secretaría de Finanzas del Gobierno del Estado, y prestarán sus servicios con el carácter de trabajadores del Gobierno del Estado en el Instituto Registral y Catastral, rigiéndose por la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
+
+QUINTO. El patrimonio constitutivo del Instituto se formará con los bienes muebles e inmuebles, así como los recursos materiales y financieros con los que actualmente cuenten o tengan asignados las Direcciones del Registro Público de la Propiedad y de Catastro del Estado; además por los que adicionalmente le sean transmitidos por el Ejecutivo del Estado. La transmisión de dichos bienes y recursos se hará por las secretarías, General de Gobierno; y de Finanzas, respectivamente, al Instituto, de conformidad con lo dispuesto en la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, con la intervención que corresponda a la Contraloría General del Estado.
+
+En consecuencia, los bienes muebles e inmuebles del Estado, así como los recursos administrativos y financieros afectados al funcionamiento de la Dirección General del Registro Público de la Propiedad, y de la Dirección de Catastro, serán transferidos al patrimonio del Instituto, con excepción de los recursos del capítulo de servicios personales que corresponda a los trabajadores a que se refiere al (sic) artículo transitorio cuarto de este Decreto, quedando facultado éste último para modificar y redistribuir las partidas del Presupuesto de Egresos que correspondan al ejercicio fiscal 2014 en que entra en vigor esta Ley, sin exceder los montos autorizados para las referidas dependencias.
+
+SEXTO. El Ejecutivo del Estado expedirá el Reglamento de la Ley, así como el Reglamento Interior del Instituto dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Las atribuciones, funciones y obligaciones en materia registral y catastral que estén conferidas por la legislación y la normatividad a cualquier dependencia o entidad del Gobierno del Estado, se entenderán conferidas y serán desempeñadas por el Instituto.
+
+Asimismo, las atribuciones, funciones y obligaciones que la legislación y la normatividad otorguen a las secretarías, General de Gobierno; y de Finanzas, con respecto de las materias registral y catastral, se entenderán conferidas y serán ejercidas por el Instituto Registral y Catastral del Estado, a partir de la entrada en vigor de Ley que expide este Decreto.
+
+Las atribuciones, funciones y obligaciones que la legislación y la normatividad otorguen al Gobernador del Estado, y a los secretarios, General de Gobierno y de Finanzas, con respecto de las materias registral y catastral, se entenderán conferidas al Director General del Instituto, a partir de la entrada en vigor del Ordenamiento que expide este Decreto.
+
+OCTAVO. Las funciones del Instituto, en su carácter de órgano fiscal autónomo, se regirán por lo establecido en la legislación aplicable.
+
+NOVENO. La substanciación y decisión de los asuntos y procedimientos que actualmente se encuentran en trámite, y que estén pendientes de resolución en la Dirección del Registro Público de la Propiedad, y en la Dirección de Catastro, cualquiera que sea su estado, serán resueltos por el Instituto, a través de sus órganos competentes y de conformidad con las disposiciones procedimentales legales vigentes a la fecha en que fueron iniciados los trámites respectivos.
+
+DÉCIMO. En cumplimiento a la Ley que expide este Decreto, el titular del Poder Ejecutivo del Estado podrá reorganizar la administración pública estatal, en las áreas que se afecten, quedando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el ejercicio fiscal 2014 en que entra en vigor esta Ley, sin exceder los montos autorizados, para las dependencias que se reorganicen.
+
+DÉCIMO PRIMERO. En términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado, las secretarías, General de Gobierno; y de Finanzas entregarán a la Junta Directiva del Instituto Registral y Catastral del Estado, los bienes y recursos públicos que tenían bajo su administración con la consiguiente intervención que corresponda a la Contraloría General del Estado.
