@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-los-articulos-121-y-122-de-la-ley-federal-del-922
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-05-02"
-last_updated: "1975-05-02"
+last_updated: "2014-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9226&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1975-05-01"
 ---
 # REGLAMENTO DE LOS ARTICULOS 121 Y 122 DE LA LEY FEDERAL DEL TRABAJO
 
-REGLAMENTO DE LOS ARTICULOS 121 Y 122 DE LA LEY FEDERAL DEL TRABAJO
+REGLAMENTO DE LOS ARTÍCULOS 121 Y 122 DE LA LEY FEDERAL DEL TRABAJO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS ARTÍCULOS 121 Y 122 DE LA LEY FEDERAL DEL TRABAJO, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 2 de mayo de 1975.
 
@@ -218,3 +220,15 @@ PRIMERO.- Este Decreto entrará en vigor el día de su publicación en el "Diari
 SEGUNDO.- La Comisión Intersecretarial establecerá su reglamento interno y las normas de su funcionamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, el día primero de mayo de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Porfirio Muñoz Ledo.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de los Artículos 121 y 122 de la Ley Federal del Trabajo, publicado en el Diario Oficial de la Federación el 2 de mayo de 1975.
+
+TERCERO.- Continuarán en vigor, en lo que no se opongan al Reglamento que se expide, las disposiciones contenidas en el Acuerdo por el que se establecen las bases para el funcionamiento de la Comisión Intersecretarial para la Participación de Utilidades a los Trabajadores, publicado en el Diario Oficial de la Federación, el 12 de noviembre de 1998, así como en las modificaciones a dicho acuerdo publicadas en el mismo medio de difusión, los días 31 de enero de 2006 y el 28 de abril de 2010.
+
+CUARTO.- Las denuncias de irregularidades relativas a las objeciones de los trabajadores a la declaración anual del impuesto sobre la renta y sus anexos, que se encuentren sin resolver a la entrada en vigor del presente Reglamento, se deberán concluir conforme al procedimiento vigente al momento de su presentación.
