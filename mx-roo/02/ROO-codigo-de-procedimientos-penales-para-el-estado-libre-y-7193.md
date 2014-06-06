@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2014-04-21"
+last_updated: "2014-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,11 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA RO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EMITE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2014, EL PRESENTE ORDENAMIENTO SE ABROGA, EL CUAL SEGUIRÁ RIGIENDO EN LO CONDUCENTE EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES DE CONFORMIDAD CON LA CALENDARIZACIÓN DE LOS DISTRITOS JUDICIALES QUE CONFORMAN LA JURISDICCIÓN DE LA ENTIDAD ESTABLECIDA EN ESTE DECRETO.</small>
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 121, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2014, LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL EN EL ESTADO, SERÁN CONCLUIDOS CONFORME A LAS DISPOSICIONES LEGALES VIGENTES CON ANTERIORIDAD A LA ENTRADA EN VIGOR DE DICHO SISTEMA EN EL DISTRITO JUDICIAL QUE CORRESPONDA.</small>
+
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+
+> <small>N. DE E. CONTIENE LA DECLARATORIA PUBLICADA EN EL P.O. DE 6 DE JUNIO DE 2014.</small>
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -4398,3 +4402,37 @@ P.O. 21 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE JUNIO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO NÚMERO 121 POR EL QUE SE EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL EN LOS ORDENAMIENTOS LEGALES DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.</small>
+
+PRIMERO. El Sistema Procesal Penal Acusatorio y Oral ha sido incorporado en los ordenamientos legales del Estado Libre y Soberano de Quintana Roo, y en consecuencia, las garantías que consagra la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Quintana Roo empezarán a regular la forma y los términos en que se substanciarán los procedimientos penales.
+
+SEGUNDO. El Sistema Procesal Penal Acusatorio y Oral entrará en vigor por distritos judiciales de manera progresiva hasta abarcar todos los distritos judiciales del Estado Libre y Soberano de Quintana Roo, de la siguiente manera:
+
+a) El 10 de junio de 2014 en el Distrito Judicial de Chetumal, con cabecera en la ciudad del mismo nombre, el cual comprende la circunscripción territorial del Municipio de Othón P. Blanco y Bacalar del Estado de Quintana Roo;
+
+b) El 10 de junio de 2015 en el Distrito Judicial de Felipe Carrillo Puerto, con cabecera en la ciudad del mismo nombre, el cual comprende la circunscripción territorial del Municipio de Felipe Carrillo Puerto del Estado de Quintana Roo;
+
+c) El 10 de junio de 2015 en el Distrito Judicial de José María Morelos, con cabecera en la ciudad del mismo nombre, que comprende la circunscripción territorial del Municipio de José María Morelos del Estado de Quintana Roo;
+
+d) El 10 de septiembre de 2015 en el Distrito Judicial de Lázaro Cárdenas, con cabecera en la ciudad de Kantunilkín, que comprende la circunscripción territorial del Municipio de Lázaro Cárdenas del Estado de Quintana Roo;
+
+e) El 10 de noviembre de 2015 en el Distrito Judicial de Cozumel, con cabecera en la ciudad del mismo nombre, que comprende la Isla de Cozumel del Estado de Quintana Roo;
+
+f) El 30 de enero 2016 (sic) en el Distrito Judicial de Solidaridad, con cabecera en la Ciudad de Playa del Carmen, el cual comprende la circunscripción territorial de los Municipios de Solidaridad y Tulum del Estado de Quintana Roo, así como los polígonos descritos en la fracción IV del Artículo 128 de la Constitución Política del Estado, predios conocidos como "Calica" y "Parque Ecológico de Xel-Há" pertenecientes al Municipio de Cozumel;
+
+g) El 30 de abril de 2016 en el Distrito Judicial de Isla Mujeres, con cabecera en la ciudad del mismo nombre, el cual comprende Isla Mujeres del Estado de Quintana Roo, y
+
+h) El 30 de abril de 2016 en el Distrito Judicial de Cancún, con cabecera en la ciudad del mismo nombre, el cual comprende la circunscripción territorial del Municipio de Benito Juárez del Estado de Quintana Roo y la Zona Continental del Municipio de Isla Mujeres del Estado de Quintana Roo.
+
+## TRANSITORIOS
+
+PRIMERO. La presente declaratoria entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del Sistema Procesal Penal Acusatorio y Oral en el Estado, serán concluidos conforme a las disposiciones legales vigentes con anterioridad a la entrada en vigor de dicho Sistema en el distrito judicial que corresponda.
+
+TERCERO. Remítase copia de la presente Declaratoria a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado de Quintana Roo, para su conocimiento y efectos a que haya lugar.
+
+CUARTO. Remítase copia de la presente Declaratoria a la Procuraduría General de Justicia, al Instituto de la Defensoría Pública del Estado, al Centro de Justicia Alternativa, a la Secretaría de Seguridad Pública y a los Honorables Ayuntamientos, todos del Estado de Quintana Roo, para los efectos correspondientes.
