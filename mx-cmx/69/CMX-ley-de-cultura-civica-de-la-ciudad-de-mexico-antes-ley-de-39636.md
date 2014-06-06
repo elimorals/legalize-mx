@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2014-03-10"
+last_updated: "2014-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JUNIO DE 2014.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -50,9 +50,13 @@ La presente Ley es de orden público e interés social, regirá en el Distrito F
 
 a) Establecer reglas mínimas de comportamiento cívico;
 
-b) Garantizar el respeto a las personas, los bienes públicos y privados y regular el funcionamiento de la Administración Pública del Distrito Federal en su preservación, y
+b) Garantizar el respeto a las personas, los bienes públicos y privados y regular el funcionamiento de la Administración Pública del Distrito Federal en su preservación, y (sic)
 
 c) Determinar las acciones para su cumplimento.
+
+> <small>(ADICIONADO, G.O. 6 DE JUNIO DE 2014)</small>
+
+d) La promoción de una cultura de la legalidad que fortalezca la convivencia armónica, la difusión del orden normativo de la ciudad además del conocimiento de los derechos y obligaciones de ciudadanos y servidores públicos.
 
 ###### Artículo 2.
 
@@ -66,9 +70,15 @@ III. La prevalencia del diálogo y la conciliación como medios de solución de 
 
 IV. El respeto por la diferencia y la diversidad de la población de la Ciudad de México;
 
-V. El sentido de pertenencia a la comunidad y a la Ciudad de México, y
+V. El sentido de pertenencia a la comunidad y a la Ciudad de México, y (sic)
 
-VI. La colaboración como una vertiente del mejoramiento del entorno y de la calidad de vida.
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2014)</small>
+
+VI. La colaboración como una vertiente del mejoramiento del entorno y de la calidad de vida, y
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2014)</small>
+
+VII. La legalidad como un sistema normativo y una cultura de acciones orientadas al ejercicio, respeto y cumplimiento a la ley por parte de ciudadanos y servidores públicos.
 
 ###### Artículo 3.
 
@@ -198,7 +208,9 @@ VII. Diseñar y desarrollar los contenidos del curso propedéutico correspondien
 
 VIII. Dotar a los Juzgados de personal eficaz y suficiente para el desempeño de sus labores, de acuerdo a la carga de trabajo;
 
-IX. Promover la difusión de la Cultura Cívica a través de campañas de información sobre sus objetivos y procedimientos;
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2014)</small>
+
+IX. Promover la difusión de la Cultura Cívica a través de campañas de información sobre sus objetivos y procedimientos, profundizando en el conocimiento y observancia de los derechos y obligaciones de ciudadanos y servidores públicos en la materia.
 
 X. Proponer al Jefe de Gobierno normas y criterios para mejorar los recursos y funcionamiento de la Justicia Cívica;
 
@@ -266,9 +278,17 @@ Corresponde a la Secretaría de Salud planear, dirigir, controlar y evaluar los 
 
 A los Jefes Delegacionales corresponde:
 
-I. Dotar de espacios físicos, de recursos materiales y financieros para la eficaz operación de los Juzgados, de acuerdo a los lineamientos que al efecto dicte la Consejería, y
+I. Dotar de espacios físicos, de recursos materiales y financieros para la eficaz operación de los Juzgados, de acuerdo a los lineamientos que al efecto dicte la Consejería, y (sic)
 
 II. Conservar los Juzgados en óptimas condiciones de uso.
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2014)</small>
+
+III. Promover la difusión de la Ley y la participación de los ciudadanos en el conocimiento, ejercicio, respeto y cumplimiento de sus derechos y obligaciones.
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2014)</small>
+
+IV. Impulsar y fomentar políticas públicas tendientes a la difusión de los valores y principios en materia de cultura cívica y de la legalidad.
 
 ###### Artículo 13.
 
@@ -322,9 +342,11 @@ VIII. Las demás funciones que le confiera la Ley y otras disposiciones legales.
 
 ### CAPÍTULO I
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JUNIO DE 2014)</small>
+
 ###### Artículo 14.
 
-Para la preservación del orden público, la Administración Pública del Distrito Federal promoverá el desarrollo de una Cultura Cívica, sustentada en los principios de corresponsabilidad, solidaridad, honestidad, equidad, tolerancia e identidad, con objeto de:
+Para la preservación del orden público, la Administración Pública del Distrito Federal promoverá el desarrollo de una Cultura Cívica, sustentada en los principios de corresponsabilidad, legalidad, solidaridad, honestidad, equidad, tolerancia e identidad, con objeto de:
 
 I. Fomentar la participación activa de los habitantes en la preservación del orden público, por medio del conocimiento, ejercicio, respeto y cumplimiento de sus derechos y obligaciones, y
 
@@ -402,15 +424,21 @@ XXII. Permitir a las autoridades el ejercicio de las funciones previstas en esta
 
 XXIII. Participar en los asuntos de interés de su colonia, barrio y Delegación, principalmente en aquellos dirigidos a procurar la seguridad ciudadana así como en la solución de los problemas comunitarios.
 
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2014)</small>
+
 ###### Artículo 16.
 
 En materia de Cultura Cívica, a la Administración Pública del Distrito Federal le corresponde:
 
-I. Diseñar y promover los programas necesarios para la promoción y desarrollo de la Cultura Cívica democrática, así como para el fomento de la educación cívica en la comunidad;
+I. Diseñar y promover los programas necesarios para la plena promoción, difusión, conocimiento y desarrollo de la Cultura Cívica democrática, así como para el fomento de la educación cívica en la comunidad,
 
-II. Promover programas permanentes para el fortalecimiento de la conciencia cívica a través de los medios de comunicación masiva; y
+II. Promover programas permanentes para el fortalecimiento de la conciencia cívica a través de los medios de comunicación masiva así como la plena difusión de los principios y valores de la legalidad.
 
-III. Promover la incorporación de contenidos cívicos en los diversos ciclos educativos, especialmente en el nivel básico, dando mayor atención a las conductas y a la prevención de las infracciones previstas en esta Ley, apoyándose con programas publicitarios dirigidos especialmente a los niños.
+III. Promover la incorporación de contenidos cívicos y de la cultura de la legalidad en los diversos ciclos educativos, especialmente en el nivel básico, dando mayor atención a las conductas y a la prevención de las infracciones previstas en esta Ley, apoyándose con programas publicitarios dirigidos especialmente a los niños.
+
+IV. Implementar e impulsar a través de todas las áreas de la Administración Pública local las políticas públicas, programas y líneas de acción sobre los valores y principios de la cultura cívica y el pleno conocimiento de los derechos y obligaciones de los ciudadanos y servidores públicos.
+
+V. Promover los valores de la cultura cívica a través de campañas de información en los medios de comunicación masiva puntualizando sus objetivos y alcances.
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN VECINAL
 
@@ -420,9 +448,13 @@ A la Administración Pública del Distrito Federal le corresponde diseñar y pro
 
 I. Procurar el acercamiento entre los Jueces y la comunidad de la circunscripción territorial que les corresponda, a fin de propiciar una mayor comprensión y participación en las funciones que desarrollan;
 
-II. Establecer vínculos permanentes con los grupos organizados y los habitantes en general, para la identificación de los problemas y fenómenos sociales que los aquejan, relacionados con esta Ley, y
+II. Establecer vínculos permanentes con los grupos organizados y los habitantes en general, para la identificación de los problemas y fenómenos sociales que los aquejan, relacionados con esta Ley, y (sic)
 
 III. Organizar la participación vecinal para la prevención de infracciones.
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2014)</small>
+
+IV. Promover, en el ámbito de su competencia, la difusión de los valores y alcances de la cultura cívica y de la legalidad así como de campañas de información y cursos formativos entre los órganos de representación ciudadana.
 
 ###### Artículo 18.
 
@@ -1597,3 +1629,7 @@ G.O. 10 DE MARZO DE 2014.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 6 DE JUNIO DE 2014.
+
+ÚNICO-. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
