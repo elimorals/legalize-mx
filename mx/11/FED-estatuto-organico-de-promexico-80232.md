@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-promexico-80232"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-03-10"
-last_updated: "2011-03-10"
+last_updated: "2014-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80232&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-02-18"
 ---
 # ESTATUTO ORGANICO DE PROMEXICO
 
-ESTATUTO ORGANICO DE PROMEXICO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE SEPTIEMBRE DE 2014, EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+ESTATUTO ORGÁNICO DE PROMÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 10 de marzo de 2011.
 
@@ -33,41 +35,29 @@ FEBRERO DE 2011
 
 El Comité Técnico del Fideicomiso Público ProMéxico, con fundamento en el Decreto por el que se ordena la constitución del Fideicomiso Público considerado Entidad Paraestatal denominado ProMéxico, emitido el 1 de junio de 2007 y publicado en el Diario Oficial de la Federación el 13 de junio del año 2007, así como, atendiendo a lo dispuesto por los artículos 40, párrafo segundo y 58, fracción VIII de la Ley Federal de las Entidades Paraestatales, y
 
+(ACTUALIZADO, D.O.F. 6 DE JUNIO DE 2014)
+
 CONSIDERANDO
 
-Que el Plan Nacional de Desarrollo 2007-2012 reconoce que el desarrollo humano sustentable es la premisa básica para el desarrollo integral del país, el cual consiste en crear una atmósfera en que todos puedan aumentar su capacidad y las oportunidades puedan ampliarse para las generaciones presentes y futuras;
+Que el Plan Nacional de Desarrollo 2013-2018 expone la ruta que el Gobierno de la República se ha trazado para contribuir de manera más eficaz a que los mexicanos podamos lograr que México alcance su máximo potencial, para lo cual establece cinco Metas Nacionales entre las que figuran la de un México Próspero y la de un México con Responsabilidad Global.
 
-Que contar con una economía competitiva y generadora de empleos, constituyen el eje 2 del referido Plan, mediante el cual se pretende lograr una mayor competitividad e incrementar la inversión, generando en consecuencia una mayor creación de empleos que permitan a los individuos elevar sus niveles de bienestar económico; así como la creación de condiciones favorables para el desarrollo de las empresas, especialmente las micro, pequeñas y medianas, y
+Que entre los objetivos enmarcados en la Meta México Próspero se encuentran los de garantizar reglas claras que incentiven el desarrollo de un mercado interno competitivo, así como desarrollar los sectores estratégicos del país, e impulsar a los emprendedores y fortalecer a las micro, pequeñas y medianas empresas.
 
-Que el objetivo número 5 de dicho Plan, consiste en potenciar la productividad y competitividad de la economía mexicana para lograr un crecimiento económico sostenido, para lo cual el Plan establece en su estrategia 5.6 aprovechar el entorno internacional para potenciar el desarrollo de la economía mexicana, mediante estrategias tales como:
+Que entre las estrategias y líneas de acción para alcanzar dichos objetivos, se encuentran las de promover mayores niveles de inversión a través de una regulación apropiada y una promoción eficiente, mediante el diseño e implementación de una estrategia integral transversal, con el fin de atraer inversiones, generar empleo, incrementar el contenido nacional en las exportaciones y posicionar a México como un país altamente competitivo, e impulsar a los emprendedores y fortalecer a las micro, pequeñas y medianas empresas incrementando su participación en encadenamientos productivos, así como su capacidad exportadora.
 
-Promover reformas que denotan la atracción de inversiones mediante instrumentos modernos de promoción y regulación de la actividad económica, y concentrar todos los esfuerzos del Gobierno Federal en materia de promoción de exportaciones así como de atracción de inversión extranjera directa, con la finalidad de hacer más eficientes las operaciones en la materia.
+Que asimismo, entre los objetivos que contempla la Meta México con Responsabilidad Global se encuentran el de promover el valor de México en el mundo mediante la difusión económica, turística y cultural, y reafirmar el compromiso del país con el libre comercio, la movilidad de capitales y la integración productiva.
 
-Que el Plan reconoce a la sustentabilidad ambiental como su 4o. eje rector, la cual será un criterio rector en el fomento de las actividades productivas, por lo que, en la toma de decisiones sobre inversión, producción y políticas públicas, se incorporarán consideraciones de impacto y riesgo ambientales, así como de uso eficiente y racional de los recursos naturales. Asimismo, se promoverá una mayor participación de todos los órdenes de gobierno y de la sociedad en su conjunto en este esfuerzo.
+Que entre las estrategias y líneas de acción para alcanzar los objetivos de la citada Meta Nacional, se establecen la de consolidar la red de representaciones de México en el exterior, como un instrumento eficaz de difusión y promoción económica, turística y cultural coordinada y eficiente que derive en beneficios cuantificables para el país, promoviendo en países y sectores prioritarios, un renovado interés para convertir a México en país clave para el comercio, inversiones y turismo, así como impulsar y profundizar la política de apertura comercial para incentivar la participación de México en la economía global, promoviendo la calidad de bienes y servicios en el exterior para fomentar las exportaciones e impulsando mecanismos que favorezcan la internacionalización de las empresas mexicanas.
 
-Que el objetivo número 5 de ese instrumento, mediante el cual se observa al eje descrito en el párrafo anterior, consiste en integrar la conservación del capital natural del país con el desarrollo social y económico, el cual plantea al patrimonio natural del país como la base del desarrollo económico, por lo que se requiere un desarrollo económico basado en el uso eficiente de los recursos naturales, la generación de valor agregado y en el desarrollo de capacidades que ofrezcan más y mejores oportunidades para todos los mexicanos.
+Que en cumplimiento a lo señalado en la Ley de Planeación y en alineación con lo dispuesto en el Plan Nacional de Desarrollo, la Secretaría de Economía emitió el Programa de Desarrollo Innovador 2013-2018, en el que se establecen los objetivos sectoriales y las estrategias y líneas de acción para alcanzarlos.
 
-Por ello, los programas y estrategias de las distintas dependencias y organismos de la Administración Pública Federal serán diseñados tomando en cuenta los tres elementos indispensables para alcanzar el desarrollo sustentable, esto es, el beneficio social, el desarrollo económico y el cuidado del medio ambiente y los recursos naturales.
+Que entre los objetivos sectoriales contemplados en el Programa de Desarrollo Innovador, se encuentran el de desarrollar una política de fomento industrial y de innovación que promueva un crecimiento económico equilibrado por sectores, regiones y empresas, y el de incrementar los flujos internacionales de comercio y de inversión, así como el contenido nacional de las exportaciones.
 
-En concordancia con el Plan Nacional de Desarrollo 2007-2012, el Programa Sectorial de Economía 2007-2012 plantea objetivos, indicadores y metas, debidamente estructurados en cuatro ejes rectores. El eje 3 del referido Programa consiste en fomentar el comercio exterior y la inversión extranjera directa.
+Que para el logro de esos objetivos sectoriales se incluyen como estrategias y líneas de acción, la de alinear los programas e instrumentos de la Secretaría y de otras dependencias a los requerimientos de los sectores, promoviendo las exportaciones y atrayendo inversión extranjera, alineadas a las necesidades de los sectores, así como coordinando e impulsando una agenda integral para promover mayor competitividad y un mejor ambiente de negocios; la de intensificar la actividad exportadora a través de estrategias de fomento y promoción, incrementando el número de proyectos de exportación a través de modelos de promoción de oferta y demanda, promoviendo los beneficios de los tratados de libre comercio y otros acuerdos comerciales, buscando la diversificación de productos y mercados a exportar y promoviendo a proveedores nacionales con las empresas matrices de las cadenas globales de valor; y la de articular e implementar un esquema integral para atraer inversión extranjera directa, mediante el diseño de esquemas de enlace institucional dentro de la Secretaría de Economía y otras dependencias para el inversionista extranjero; el impulso a la atracción de inversión extranjera para complementar las cadenas productivas; el diseño de criterios para la atracción de inversión extranjera entre las entidades federativas; la realización de análisis sectoriales que presenten oportunidades de negocio y fomenten la atracción de inversión extranjera directa, la implementación de proyectos que detonen zonas económicas estratégicas a través de la atracción de la inversión extranjera directa y la atracción de proyectos de inversión en los sectores industriales y el sector servicios, entre otras.
 
-Dentro de los objetivos rectores del citado eje, se consideran: 3.1. Fortalecer el proceso de integración de México en la economía mundial, así como 3.2. Incrementar la participación de México en los flujos de comercio mundial y en la atracción de inversión extranjera directa.
+Que conforme a lo dispuesto tanto en el Decreto por el que se orden su constitución, como en su Contrato Constitutivo, ProMéxico tiene entre sus objetivos el de coadyuvar en la conducción, coordinación y ejecución de las acciones que en materia de promoción al comercio exterior y atracción de inversión extranjera directa realicen las dependencias y entidades de la Administración Pública Federal; promover y apoyar la actividad exportadora y la internacionalización de las empresas mexicanas, a través de medidas que reordenen, refuercen, mejoren e innoven los mecanismos de fomento a la oferta exportable competitiva, principalmente de las pequeñas y medianas empresas, y promover las actividades tendientes a la atracción de inversión extranjera directa que lleven a cabo las dependencias y entidades de la Administración Pública Federal, así como apoyar a las entidades federativas en la ubicación de inversión extranjera directa en el territorio nacional.
 
-Para lograr los referidos objetivos el (sic) Programa se plantean líneas estratégicas, de entre las cuales corresponde a ProMéxico coadyuvar con la Secretaría de Economía en la atención de las siguientes:
-
-3.1.1. Optimizar la red de acuerdos comerciales internacionales y de inversión existentes. Para lograrlo se ejecutarán acciones que permitan potenciar los beneficios de los referidos acuerdos.
-
-3.1.4. Impulsar el desarrollo de un sistema multilateral de comercio sólido que dé mayor certeza al intercambio comercial y a los flujos de inversión extranjera directa. Participando activamente en distintos foros multilaterales y regionales.
-
-3.2.1. Conducir las políticas generales de comercio exterior y de inversión extranjera directa. Para ello, se impulsarán actividades tales como: Armonizar las acciones que en materia de promoción al comercio exterior y atracción de inversión extranjera directa realizan las Dependencias y Entidades de la Administración Pública Federal.
-
-3.2.2. Promover y apoyar la actividad exportadora y la internacionalización de las empresas mexicanas. Lo anterior, mediante acciones como: Organizar y apoyar la participación de empresas y productores en misiones, ferias y exposiciones comerciales, que se realicen en el extranjero para difundir los productos nacionales y promover el establecimiento de centros de distribución de dichos productos en otras naciones.
-
-3.2.3. Incrementar los flujos de inversión extranjera directa, a través de acciones consistentes en: Promover y coordinar las actividades tendientes a la atracción de la inversión extranjera directa, que llevan a cabo las Dependencias y Entidades de la Administración Pública Federal, así como, apoyar a las Entidades Federales, a la ubicación de la inversión extranjera directa en el territorio nacional, y enfocar los esfuerzos de promoción en los sectores económicos de mayor potencial de exportaciones y de atracción de inversión extranjera directa.
-
-En concordancia con los ejes, objetivos, estrategias y acciones del Plan y Programa Sectorial antes citado, con fecha 1 de junio del año 2007, el Titular del Ejecutivo Federal emitió el Decreto por el que se ordena la constitución del fideicomiso público considerado entidad paraestatal, denominado ProMéxico, el cual fue publicado en el Diario Oficial de la Federación el día 13 de junio del mismo año.
-
-Por lo expuesto y con el propósito de dotar a ProMéxico del marco de referencia necesario para su organización y operación, con el objeto de propiciar la consecución de sus fines de manera eficaz y eficiente, el Comité Técnico de la Entidad ha tenido a bien expedir el siguiente:
+Teniendo en cuenta que a esta Entidad le corresponde, como sector coordinado por la Secretaría de Economía, contribuir al logro de los objetivos contemplados en el Plan Nacional de Desarrollo y en el Programa de Desarrollo Innovador, por lo que en este sentido, el propio Plan Nacional dispone que la promoción económica, turística y cultural de México en el exterior está a cargo, entre otros, de ProMéxico, y que la promoción económica, entre otras tareas prioritarias en el ámbito externo, complementan y potencian los esfuerzos de desarrollo interno, resulta necesario dotar a ProMéxico del marco de referencia preciso para su organización y operación, con el objeto de propiciar la consecución de sus fines de manera eficaz y eficiente, por lo que el Comité Técnico de la Entidad ha tenido a bien expedir el siguiente:
 
 ESTATUTO ORGANICO DE PROMEXICO
 
@@ -349,7 +339,9 @@ VII.- Promover el establecimiento de centros de distribución de productos mexic
 
 VIII.- Realizar los actos que le correspondan por suplencia, y aquellos otros que, dentro de su ámbito de competencia, le instruya el Director General, o que le confieran otras disposiciones normativas aplicables.
 
-La Unidad de Promoción de Exportaciones estará a cargo de un Jefe de Unidad, quien será auxiliado en el ejercicio de sus facultades por las Direcciones Ejecutivas de Proyectos de Exportación, de Promoción Nacional, y de Proyectos de Cooperación Internacional.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2014)</small>
+
+La Unidad de Promoción de Exportaciones estará a cargo de un Jefe de Unidad, quien será auxiliado en el ejercicio de sus facultades por las Direcciones Ejecutivas de Proyectos de Exportación, de Proyectos de Internacionalización, de Promoción Nacional, y de Proyectos de Cooperación Internacional.
 
 ###### ARTICULO 16.
 
@@ -359,7 +351,7 @@ I.- Ejecutar la estrategia y el proceso de promoción de exportaciones, a fin de
 
 II.- Vincular, en coordinación con la Dirección Ejecutiva de Promoción Internacional, la demanda internacional con la oferta exportable de empresas mexicanas;
 
-III.- Detectar empresas mexicanas con potencial de internacionalización en coordinación con las direcciones ejecutivas de Promoción Nacional, así como de Promoción Internacional con el apoyo de la Unidad de Inteligencia de Negocios; y
+III.- (DEROGADA, D.O.F. 6 DE JUNIO DE 2014)
 
 IV.- Coordinarse con las demás áreas competentes de ProMéxico para el otorgamiento de los servicios autorizados en beneficio de las empresas mexicanas que tengan como objetivo incrementar, diversificar o consolidar sus exportaciones, o bien, que si no han exportado aún, demuestren estar preparadas para ello;
 
@@ -371,9 +363,13 @@ VI.- Realizar los actos que le correspondan por suplencia, y aquellos otros que,
 
 La Dirección Ejecutiva de Promoción Nacional tendrá las siguientes facultades:
 
-I.- Promover, a través de las oficinas en México, las acciones y las oportunidades de negocios identificadas en ProMéxico, en materia de impulso de las exportaciones e internacionalización de empresas mexicanas;
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2014)</small>
 
-II.- Operar, ejecutar y dar seguimiento a las relaciones entre ProMéxico y las entidades federativas, a través de las oficinas que se determinen en cada estado, para atender los procesos de promoción a la inversión extranjera directa, el impulso a las exportaciones y la internacionalización de empresas mexicanas, con la finalidad de contribuir al cumplimiento de los proyectos de inversión que beneficien a la economía estatal y en consecuencia a la nacional;
+I.- Promover, a través de las oficinas en México, las acciones y las oportunidades de negocios identificadas en ProMéxico, en materia de impulso de las exportaciones de empresas mexicanas;
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2014)</small>
+
+II.- Operar, ejecutar y dar seguimiento a las relaciones entre ProMéxico y las entidades federativas, a través de las oficinas que se determinen en cada estado, para atender los procesos de promoción a la inversión extranjera directa, el impulso a las exportaciones de empresas mexicanas, con la finalidad de contribuir al cumplimiento de los proyectos de inversión que beneficien a la economía estatal y en consecuencia a la nacional;
 
 III.- Identificar y contactar empresas con capacidad exportadora y operar los programas de ProMéxico en la República Mexicana tanto en materia de servicios como de convenios con Gobiernos Estatales;
 
@@ -384,6 +380,30 @@ V.- Identificar proyectos de inversión extranjera directa y de promoción a la 
 VI.- Apoyar y promover entre los sectores industriales y empresariales de las entidades federativas los diversos mecanismos y programas que tiene ProMéxico en materia de promoción del comercio, la atracción de inversión extranjera directa y la detección y apoyo de oferta exportable, a fin de contribuir al desarrollo regional y nacional mediante la materialización de proyectos; y
 
 VII.- Realizar los actos que le correspondan por suplencia, y aquellos otros que, dentro de su ámbito de competencia, le instruyan el Jefe de la Unidad, el Director General, o que le confieran otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2014)</small>
+
+###### Artículo 17 Bis.
+
+La Dirección Ejecutiva de Proyectos de Internacionalización tendrá las siguientes facultades:
+
+I.- Diseñar y elaborar el Plan de Trabajo de la Dirección Ejecutiva de Proyectos de Internacionalización, con la aprobación de la Jefatura de Unidad de Promoción de Exportaciones, y proponer a la Dirección General las estrategias y mecanismos para promover el apoyo y los servicios a las empresas mexicanas con oportunidad de iniciar un proyecto de internacionalización.
+
+II.- Establecer los mecanismos para fungir como único canal al interior de ProMéxico para la internacionalización de empresas mexicanas, a fin de llevar un orden sistemático, induciendo e involucrando a las otras unidades de la institución
+
+III.- Detectar empresas mexicanas con potencial de internacionalización en coordinación con las direcciones ejecutivas de Proyectos de Exportación, Promoción Nacional, así como de Promoción Internacional con el apoyo de la Unidad de Inteligencia de Negocios;
+
+IV.- Establecer, coordinar y acordar el Plan de Trabajo entre las empresas con interés de internacionalizarse con los diferentes actores de la institución;
+
+V.- Operar, ejecutar y dar seguimiento a los servicios y apoyos que se ofrecen en ProMéxico para la internacionalización de empresas;
+
+VI.- Dirigir, organizar y coordinar las acciones, relaciones y vínculos entre ProMéxico y las empresas mexicanas, que permitan apoyarlas en los procesos de establecimiento, instalación, desarrollo y permanencia de sus negocios en el extranjero;
+
+VII.- Diseñar en coordinación con el Jefe de la Unidad las acciones para apoyar la internacionalización de las empresas mexicanas mediante la prestación de los servicios en materia de información, capacitación, asistencia técnica y participación en misiones, y encuentros de negocios;
+
+VIII.- Operar, ejecutar y dar seguimiento en coordinación con la Dirección Ejecutiva de Promoción Nacional a las relaciones entre ProMéxico y las entidades federativas, a través de las oficinas que se determinen en cada estado, para atender los procesos de internacionalización de empresas mexicanas, con la finalidad de contribuir al cumplimiento de los proyectos de inversión que beneficien a la economía estatal y en consecuencia a la nacional;
+
+XIX (SIC).- Realizar los actos que le correspondan por suplencia, y aquellos otros que, dentro de su ámbito de competencia, le instruyan el Jefe de la Unidad, el Director General, o que le confieran otras disposiciones normativas aplicables.
 
 ###### ARTICULO 18.
 
@@ -853,7 +873,9 @@ Las ausencias o la falta de designación de los Jefes de Unidad, serán suplidas
 
 1. En la Unidad de Promoción de Inversiones y Negocios Internacionales, por el Director Ejecutivo de Proyectos de Inversión, en ausencia de éste, por el Director Ejecutivo de Promoción Internacional;
 
-2. En la Unidad de Promoción de Exportaciones, por el Director Ejecutivo de Proyectos de Exportación, en ausencia de éste, por el Director Ejecutivo de Promoción Nacional; en ausencia de éste, por el Director Ejecutivo de Proyectos de Cooperación Internacional;
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2014)</small>
+
+2. En la Unidad de Promoción de Exportaciones, por el Director Ejecutivo de Proyectos de Exportación, en ausencia de éste, por el Director Ejecutivo de Proyectos de Internacionalización, en ausencia de este por el Director Ejecutivo de Promoción Nacional; en ausencia de éste, por el Director Ejecutivo de Proyectos de Cooperación Internacional;
 
 3. En la Unidad de Inteligencia de Negocios, por el Director Ejecutivo de Oportunidades de Negocios, en ausencia de éste, por el Director Ejecutivo de Análisis Prospectivo e Innovación;
 
@@ -888,3 +910,15 @@ TERCERO.- Los asuntos en trámite a la entrada en vigor de este Estatuto serán 
 CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Estatuto, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Unidad de Administración y Finanzas deberá realizar las acciones necesarias para que se emitan los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda.
 
 México, D.F., a 18 de febrero de 2011.- El Coordinador General de Asuntos Jurídicos ProMéxico, Alfonso Cervantes Sánchez Navarro.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE JUNIO DE 2014.
+
+PRIMERO.- Este Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Del Estatuto Orgánico del Fideicomiso Público considerado Entidad Paraestatal denominado ProMéxico, publicado en el Diario Oficial de la Federación el día 11 (sic) de marzo de 2011 se actualiza el CONSIDERANDO, se modifica el último párrafo del artículo 15, se deroga la fracción III del artículo 16, se modifican las fracciones I y II del artículo 17, se agrega el artículo 17BIS (sic) y se modifica el numeral 2 del artículo 36.
+
+TERCERO.- Los asuntos en trámite a la entrada en vigor de este Estatuto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente en el presente Estatuto.
+
+CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Estatuto, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Unidad de Administración y Finanzas deberá realizar las acciones necesarias para que se emitan los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda.
