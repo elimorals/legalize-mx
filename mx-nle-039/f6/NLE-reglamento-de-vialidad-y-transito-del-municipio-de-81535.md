@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-vialidad-y-transito-del-municipio-de-81535"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-13"
-last_updated: "2013-09-09"
+last_updated: "2014-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE VIALIDAD Y TRÁNSITO DEL MUNICIPIO DE MONTERREY DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2014.
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 13 de diciembre de 2010.
 
@@ -355,11 +355,29 @@ ante la autoridad competente
 
 el retiro de su polarizado
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-28 La violación de cualquier otra 6 a 10
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2014)</small>
 
-disposición del presente reglamento.
+28 Conducir usando el teléfono celular, a
+
+menos que esté funcionando con sistema
+
+de manos libres, o cualquier otro aparato
+
+electrónico u objeto que pueda distraer al
+
+conductor y poner en riesgo la seguridad de
+
+los pasajeros y peatones. 6 a 10
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2014)</small>
+
+29 La violación a cualquier otra 6 a 10
+
+disposición del presente reglamento
 
 El costo de las multas, es el establecido en el recuadro anterior.
 
@@ -809,7 +827,11 @@ II. Circular a una velocidad lenta que obstaculice la circulación;
 
 III. Circular zigzagueando;
 
-IV. Circular mientras habla por teléfono o radio, a menos que estos dispositivos cuenten con sistema de manos libres;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2014)</small>
+
+IV. Conducir usando el teléfono celular, a menos que esté funcionando con sistema de manos libres, o cualquier otro aparato electrónico u objeto que pueda distraer al conductor y poner en riesgo la seguridad de los pasajeros y peatones.
 
 V. Circular en vehículos que expidan humo o ruido excesivo; y
 
@@ -861,13 +883,17 @@ VIII. Acreditar residencia en Monterrey; los extranjeros deberán acreditar adic
 
 Los tipos de licencia y su vigencia son los establecidos en la Ley que regula la expedición de licencias para conducir del Estado de Nuevo León.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 45.
 
 La licencia de conducir será suspendida por el término de tres meses al conductor que:
 
-I. Incurra en la infracción contemplada en el numeral 25 del recuadro del artículo 9 de este reglamento; o
+I. Incurra en las (sic) infracción contemplada en el numeral 25 del recuadro del artículo 9 de este reglamento; o
 
-II. Incurra en tres ocasiones en un plazo de un año en cualquiera de los supuestos de infracción contemplados en los numerales 1, 2 y 3 del recuadro del artículo 9 de este reglamento.
+II. Incurra en tres ocasiones en un plazo de un año en cualquiera de los supuestos de infracción contemplados en los numerales 1, 2, 3 y 28 del recuadro del artículo 9 de este reglamento
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1026,3 +1052,7 @@ P.O. 9 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO
 
 Las presentes reformas por modificación, adición y derogación del Reglamento de Vialidad y Tránsito del Municipio de Monterrey entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 6 DE JUNIO DE 2014.
+
+ÚNICO. Las presentes reformas entrarán en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Estado.
