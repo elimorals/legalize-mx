@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2014-05-14"
+last_updated: "2014-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 1201/2013 X P.E. PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -341,7 +339,7 @@ Los Municipios del Estado podrán celebrar, entre ellos, convenios sobre materia
 
 ###### Artículo 19.
 
-El Estado podrá celebrar con la Secretaría de Salud Federal acuerdos de coordinación, a fin de que ésta asuma temporalmente, a petición de la propia Entidad, la prestación de servicios o el ejercicio de las funciones de control y regulación sanitaria a que se refiere al (sic)artículo 13 de la Ley General de Salud.
+El Estado podrá celebrar con la Secretaría de Salud Federal acuerdos de coordinación, a fin de que ésta asuma temporalmente, a petición de la propia Entidad, la prestación de servicios o el ejercicio de las funciones de control y regulación sanitaria a que se refiere al (sic) artículo 13 de la Ley General de Salud.
 
 ###### Artículo 20.
 
@@ -1959,7 +1957,9 @@ VI.- Las demás de índole sanitaria que determinen las autoridades sanitarias c
 
 Sólo para efectos de sanidad y prevención, la autoridad sanitaria competente podrá requerir tarjeta de control sanitario, a las personas que realicen actividades mediante las cuales se pueda propagar alguna infección de transmisión sexual, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
 
-### CAPÍTULO VIII. PROGRAMA DE DONACIÓN Y TRASPLANTE DE CÉLULAS, ÓRGANOS Y TEJIDOS
+### CAPÍTULO VIII. PROGRAMA ESTATAL DE TRASPLANTES
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2014)</small>
 
 ###### Artículo 208.
 
@@ -2049,13 +2049,15 @@ C).- Para el Programa para la Atención de Cáncer de Próstata:
 
 I.- Promover la adopción de medidas de prevención, detección y tratamiento oportuno especializados en masculinos de 40 años en adelante.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2014)</small>
+
 ### CAPÍTULO X. PROGRAMA DE SALUD MENTAL Y ATENCIÓN A ESTOS TRASTORNOS
 
 ###### Artículo 218.
 
-Las disposiciones de este Capítulo tienen como objeto establecer el Programa de Donación y Trasplante de Células, Órganos y Tejidos, para generar en la sociedad una cultura altruista de la donación y cubrir las necesidades de la población afectada con patologías, cuya única alternativa de solución es el trasplante.
+Las disposiciones de este Capítulo tienen como objeto establecer el Programa Estatal de Trasplantes, para generar en la sociedad una cultura altruista de la donación y cubrir las necesidades de la población afectada con patologías, cuya única alternativa de solución es el trasplante.
 
-En lo relativo a los conceptos de donador o donante, receptor, órgano, tejido, trasplante y demás que contemple la materia regulada por el presente Capítulo, se estará a las definiciones que establezca la Ley General de Salud y las Normas Oficiales correspondientes.
+En lo relativo a los conceptos de donador o donante, receptor, órgano, tejido, trasplante y demás que contemple la materia regulada por el presente Capítulo, se estará a las definiciones que establezca la Ley General de Salud, la Ley de Donación y Trasplantes de Órganos, Tejidos y Células del Estado de Chihuahua, sus reglamentaciones y las Normas Oficiales correspondientes.
 
 ###### Artículo 219.
 
@@ -2069,9 +2071,11 @@ El Centro establecerá el registro estatal de los donadores de sangre voluntario
 
 La Secretaría atenderá las disposiciones establecidas en la Ley General de Salud, su Reglamento, las Normas Oficiales y los Convenios Internacionales que México ha suscrito en esta materia, en lo relativo a la donación y trasplante de células, órganos y tejidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2014)</small>
+
 ###### Artículo 221.
 
-El programa de donación y trasplante de células, órganos y tejidos, tiene como finalidad:
+El Programa Estatal de Trasplantes está a cargo del Consejo Estatal de Trasplantes y del Centro Estatal de Trasplantes. Además de lo dispuesto en la Ley de Donación y Trasplantes de Órganos, Tejidos y Células del Estado de Chihuahua, tiene como finalidad:
 
 I.- Instituir un sistema basado en los principios de gratuidad, solidaridad, transparencia y equidad.
 
@@ -2095,9 +2099,11 @@ X.- Establecer la metodología de evaluación y seguimiento de las actividades q
 
 XI.- La Secretaría, en la medida de sus posibilidades económicas, creará un banco regional de células, órganos y tejidos, con fines terapéuticos, garantizando así los principios de gratuidad, solidaridad, transparencia y equidad.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2014)</small>
+
 ###### Artículo 222.
 
-Por lo que tiene que ver con pérdida de la vida, deberá estarse a las disposiciones contenidas en la Ley General de Salud.
+Por lo que tiene que ver con pérdida de la vida, deberá estarse a las disposiciones contenidas en la Ley General de Salud y en la Ley de Donación y Trasplantes de Órganos, Tejidos y Células del Estado de Chihuahua.
 
 ### CAPÍTULO ÚNICO
 
@@ -3397,7 +3403,7 @@ ARTÍCULO SÉPTlMO.- Remítase el presente Decreto, para su publicación en el P
 
 DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los quince días del mes de septiembre del año dos mil once.
 
-PRESIDENTA. DIP. LlZ AGUILERA GARCÍA. Rúbrica. SECRETARIA. DIP. INÉS AURORA MARTÍNEZ BERNAL. Rúbrica. SECRETARIA. DIP. GLORIA GUADALUPE RODRÍGUEZ GONZÁLEZ. Rúbrica.
+PRESIDENTA. DIP. LIZ AGUILERA GARCÍA. Rúbrica. SECRETARIA. DIP. INÉS AURORA MARTÍNEZ BERNAL. Rúbrica. SECRETARIA. DIP. GLORIA GUADALUPE RODRÍGUEZ GONZÁLEZ. Rúbrica.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -3478,3 +3484,9 @@ De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
+
+P.O. 7 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
