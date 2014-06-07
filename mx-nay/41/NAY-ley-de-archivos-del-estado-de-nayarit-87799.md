@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-archivos-del-estado-de-nayarit-87799"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2012-05-05"
+last_updated: "2014-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ARCHIVOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2012.
 
@@ -71,15 +71,29 @@ IX. Cuadro General de Clasificación: Instrumento técnico que refleja la estruc
 
 X. Destino final: Selección en los archivos de trámite o unidades de concentración, de aquellos expedientes cuyo plazo de conservación o uso ha prescrito, con el fin de darlos de baja o transferirlos al archivo general o histórico del Estado.
 
-XI. Entidad: Los Poderes del Estado, Ayuntamientos, organismos desconcentrados y descentralizados de la administración pública estatal y municipal, organismos autónomos y aquellos que emitan y manejen información pública en términos de lo dispuesto por la legislación en materia de transparencia y acceso a la información pública.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
 
-XII. Inventario General: Instrumento de consulta que describe las series y expedientes de un archivo y que permiten su localización.
+XI. Digitalización de documentos: Procedimiento mediante el cual, se almacenan, administran y consultan documentos de forma electrónica.
 
-XIII. Sistema: Sistema Estatal de Archivos el cual será el mecanismo institucional de coordinación, vinculación e integración de los Archivos Estatales.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
 
-XIV. Transferencia: Traslado controlado y sistemático de expedientes de consulta esporádica, de un archivo de trámite a la unidad de concentración.
+XII. Entidad: Los Poderes del Estado, Ayuntamientos, organismos desconcentrados y descentralizados de la administración pública estatal y municipal, organismos autónomos y aquellos que emitan y manejen información pública en términos de lo dispuesto por la legislación en materia de transparencia y acceso a la información pública.
 
-XV. Vigencia documental: Periodo durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales, contables o históricos, de conformidad con las disposiciones jurídicas vigentes aplicables.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+
+XIII. Inventario General: Instrumento de consulta que describe las series y expedientes de un archivo y que permiten su localización.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+
+XIV. Sistema: Sistema Estatal de Archivos el cual será el mecanismo institucional de coordinación, vinculación e integración de los Archivos Estatales.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+
+XV. Transferencia: Traslado controlado y sistemático de expedientes de consulta esporádica, de un archivo de trámite a la unidad de concentración.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2014)</small>
+
+XVI. Vigencia documental: Periodo durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales, contables o históricos, de conformidad con las disposiciones jurídicas vigentes aplicables.
 
 ###### Artículo 3.
 
@@ -112,6 +126,16 @@ Cuando alguna Entidad desapareciere o se fusionare, sus archivos e inventarios d
 ###### Artículo 9.
 
 El propósito de la administración de archivos es asegurar que los documentos sirvan para el cumplimiento y sustento de las atribuciones o funciones institucionales, el trámite y gestión de asuntos, la transparencia de acciones, la rendición de cuentas y el acceso a la información, además de ser fuente para la investigación histórica.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2014)</small>
+
+Las entidades en todo momento deberán realizar respaldos de forma electrónica de los documentos que constituyan los archivos en base a la digitalización de documentos, que garanticen los principios y propósitos establecidos en la presente ley.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2014)</small>
+
+###### Artículo 9 Bis.
+
+Las unidades administrativas de las entidades públicas, deberán realizar sus archivos electrónicos, los cuales mantendrán en su poder y resguardo durante su vigencia, para su consulta y fácil acceso en los términos de la normativa en materia de transparencia.
 
 ###### Artículo 10.
 
@@ -211,9 +235,17 @@ VI. Diseñar, instrumentar, impulsar y promover eventos específicos de capacita
 
 VII. Promover y participar en eventos regionales, estatales y nacionales e Internacionales de intercambio de experiencias y de técnicas y procedimientos en la materia;
 
-VIII. Proponer acciones de concertación y de coordinación entre sí, y con los archivos de los sujetos obligados, así como de los otros Estados para el intercambio de documentos, de técnicas y rescate de documentos, principalmente históricos, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
 
-IX. Las demás inherentes a sus funciones.
+VIII. Proponer acciones de concertación y de coordinación entre sí, y con los archivos de los sujetos obligados, así como de los otros Estados para el intercambio de documentos, de técnicas y rescate de documentos, principalmente históricos;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+
+IX. Generar la digitalización de los documentos con un valor histórico, que facilite su consulta y la conservación de los documentos originales, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2014)</small>
+
+X. Las demás inherentes a sus funciones.
 
 ### Capítulo III. Conservación de los Archivos
 
@@ -231,9 +263,17 @@ Las entidades adoptarán medidas y procedimientos técnicos que garanticen la co
 
 I. Contar con espacios diseñados y destinados exclusivamente a la recepción, organización y resguardo temporal o definitivo de los documentos;
 
-II. Contar con sistemas de control ambiental y de seguridad para conservar los documentos, y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
 
-III. Desarrollar los sistemas informáticos y servicios reprográficos para apoyar la mejor conservación de sus acervos y la consulta y aprovechamiento de los mismos. La propia institución establecerá las políticas con que se ofrecerán al público estos servicios.
+II. Contar con sistemas de control ambiental y de seguridad para conservar los documentos;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+
+III. Desarrollar los sistemas informáticos y servicios reprográficos para apoyar la mejor conservación de sus acervos y la consulta y aprovechamiento de los mismos. La propia institución establecerá las políticas con que se ofrecerán al público estos servicios, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2014)</small>
+
+IV. Implementar los mecanismos tecnológicos, encaminados a desarrollar archivos de forma electrónica, por medio de la digitalización de documentos.
 
 ###### Artículo 23.
 
@@ -404,3 +444,13 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Luis Emilio González Macías, Presidente.- Rúbrica.- Dip. Sergio Eduardo Hinojosa Castañeda. Secretario.- Rúbrica.- Dip. Edgar Saúl Paredes Flores, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los cuatro días del mes de mayo del año dos mil doce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno.- Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JUNIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Para la instrumentación de los mecanismos tecnológicos referidos en la fracción IV del artículo 22, las Entidades deberán prever los recursos necesarios en sus presupuestos de egresos del siguiente ejercicio fiscal.
+
+Tercero.- La digitalización de documentos deberá realizarse dentro del plazo de dos años contados a partir de la instrumentación de los mecanismos tecnológicos referidos por la fracción IV del artículo 22 del presente Decreto.
