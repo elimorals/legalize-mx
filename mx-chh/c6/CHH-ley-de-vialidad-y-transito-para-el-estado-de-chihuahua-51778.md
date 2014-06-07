@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2013-11-20"
+last_updated: "2014-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -750,6 +750,10 @@ Para obtener la licencia de conducir en cualquiera de sus modalidades, se requie
 6. Ser residente de la localidad donde la solicite.
 
 La licencia de conducir deberá contener el dato que indique si el guiador a cuyo nombre se expidió la misma, realizó ante la autoridad competente su manifestación de donar o no sus órganos en caso de fallecimiento.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2014)</small>
+
+Cuando el solicitante de una licencia de conducir no haya otorgado su consentimiento expreso previamente, las autoridades de vialidad y tránsito, en coordinación con las de salud, le orientarán y facilitarán la documentación que cumpla con las formalidades correspondientes, a efecto de recabar su consentimiento y que el mismo pueda ser oportunamente señalado en el documento oficial a expedir.
 
 Para efecto de los extranjeros que requieran tramitar una licencia de conducir, deberán ajustarse a lo establecido respecto a su condición jurídica como extranjeros, previsto y sancionado en la Ley General de Población y su reglamento correspondiente y en la costumbre y tratados internacionales.
 
@@ -1708,6 +1712,12 @@ Por lo que respecta al Artículo Segundo del presente Decreto, no obstante su vi
 Las sanciones a las que hace referencia el presente Decreto, independientemente de su reglamentación correspondiente, iniciarán su vigencia con la entrada en funcionamiento de las rutas troncales del Sistema de Transporte Colectivo Integrado.
 
 P.O. 20 DE NOVIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2014
 
 ###### ARTÍCULO ÚNICO.
 
