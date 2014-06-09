@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2013-08-05"
+last_updated: "2014-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
 > <small>N. DE E. DE CONFORMIDAD DEL TRANSITORIO SEXTO, EL CÓDIGO DE PROCEDIMIENTOS PENALES PROMULGADO EL 9 DE JUNIO DE 1990 SEGUIRÁ RIGIENDO, EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO PUBLICADO EN EL P.O. DE FECHA 14 DE MARZO DE 2011, Y QUEDARA ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -355,9 +355,7 @@ VI.- Ordenar la libertad del indicado, inmediatamente que tenga conocimiento de 
 
 VII.- Conceder la libertad caucional al indiciado, conforme a las disposiciones constitucionales y de este Código;
 
-(ADICIONADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
-
-VIII.- Decretar la medida cautelar del arraigo, en los casos y circunstancias que prevé este Código;
+VIII.- (DEROGADA, P.O. 9 DE JUNIO DE 2014)
 
 (ADICIONADA, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
@@ -1203,17 +1201,11 @@ Además, se califica como delito grave el homicidio culposo, cuando deba aplicar
 
 Para los delitos contenidos en leyes especiales, se califican como graves aquéllos cuyo máximo de la punibilidad privativa de libertad exceda de diez años.
 
-(REFORMADO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 120.
 
-Al recibir el ministerio público a cualquiera detenido, revisará que la detención fuere legal; de no serlo, ordenará su inmediata libertad, sin perjuicio de decretar su arraigo. Si la detención fue legal, el ministerio público iniciará o continuará, según corresponda, las actuaciones de averiguación previa y, bajo su responsabilidad, decretará la retención del inculpado, siempre y cuando el delito que se le impute tenga señalada al menos pena privativa de libertad y estén satisfechos los requisitos de procedibilidad.
-
-Ningún indiciado podrá ser retenido por el ministerio público por más de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial; este plazo podrá duplicarse en los casos de delincuencia organizada.
-
-Para los efectos del párrafo anterior, los casos de delincuencia organizada serán aquéllos en los que tres o más personas, de manera organizada, cometen de modo violento o reiterado, o con fines predominantemente lucrativos, alguno de los delitos graves precisados en el artículo 119 de este Código.
-
-El ministerio público evitará que el indiciado sea incomunicado, intimidado o torturado. En los lugares de detención, le serán facilitados al inculpado los medios de comunicación con que se cuente para que pueda comunicarse con quien estime conveniente.
+Al recibir el ministerio público a cualquier detenido, revisará que la detención fuere legal; de no serlo, ordenará su inmediata libertad. Si la detención fue legal, el ministerio público iniciará o continuará, según corresponda, las actuaciones de averiguación previa y bajo su responsabilidad, decretará la retención del inculpado, siempre y cuando el delito que se le impute tenga señalada al menos pena privativa de libertad y estén satisfechos los requisitos de procedibilidad.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -1287,35 +1279,9 @@ Los integrantes del sistema de seguridad pública, que estuvieren sujetos a pris
 
 ### CAPITULO III. ARRAIGO
 
-(NOTA: EL 27 DE FEBRERO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 22/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, CON EFECTOS A PARTIR DEL 6 DE AGOSTO DE 2013, EN LA INTELIGENCIA DE QUE DICHOS EFECTOS SE SURTIRÁN CON MOTIVO DE LA NOTIFICACIÓN DEL FALLO AL CONGRESO DEL ESTADO DE HIDALGO, LA CUAL SE EFECTUÓ EL 7 DE MAYO DE 2014. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2013)</small>
-
 ###### ARTICULO 132.
 
-Cuando con motivo de la integración de una averiguación previa el Ministerio Público estime necesario el arraigo la persona a quien se le impute la comisión y/o su intervención en la comisión de un delito considerado como grave, podrá solicitarlo al Juez, siempre que sea necesario para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando existan pruebas que hagan posible, que el inculpado se sustraiga a la acción de la justicia.
-
-En el pedimento de arraigo, debe expresarse la proporcionalidad y necesidad de la medida y señalar el tiempo estrictamente indispensable para la debida integración de la averiguación previa, el cual no deberá exceder de diez días naturales, pudiendo prorrogarse exclusivamente hasta por cinco días naturales más, bajo los mismos requisitos, fundando y motivando la petición.
-
-La persona indiciada quedará arraigada, bajo vigilancia material del agente de investigación y la supervisión del Juez que otorga la medida, en el domicilio que señale la autoridad solicitante, que será distinto a las áreas de detención. La persona arraigada deberá ser presentada ante el Ministerio Público o ante el Juez cuantas veces sea requerida por éstos.
-
-Las pruebas que se desahoguen durante esta medida cautelar, deben sujetarse al principio de legalidad y pleno respeto (sic) los derechos humanos, para su validez.
-
-En casos de flagrante delito, resulta inoperante autorizar la medida cautelar de referencia.
-
-En caso de que la persona arraigada quebrante dicha medida precautoria, se considerará que existe riesgo fundado de que pretende sustraerse de la acción de la justicia, para los efectos previstos en el artículo 118 de este Código, sin perjuicio de los delitos que se configuren con dicha conducta.
-
-El Juez ante quien se solicite la medida precautoria, resolverá en un término no mayor de veinticuatro horas lo conducente; si considera procedente, dictará la autorización en la cual se deberá indicar:
-
-a) El tiempo de duración del arraigo para la práctica de las diligencias;
-
-b) El domicilio cierto en que habrá de cumplirse el arraigo;
-
-c) Ordenará la certificación médica del arraigado al inicio y conclusión de éste;
-
-d) Ordenará que el arraigado deberá ser presentado ante el Ministerio Público ó ante el Juez cuantas veces sea requerido por éstos, con las medidas de seguridad que se consideren pertinentes al caso; y
-
-e) Precisará que será el Juzgador quien ejercerá el control de la medida cautelar, por lo que ante el incumplimiento de cualesquiera de las condiciones en que deba cumplirse el arraigo, ordenará se levante dicha medida, sin perjuicio de las responsabilidades que por incumplimiento se deriven y se dará vista al Ministerio Público adscrito.
+(DEROGADO, P.O. 9 DE JUNIO DE 2014)
 
 ###### ARTICULO 133.
 
@@ -2933,9 +2899,9 @@ IV.- Los acuerdos que desechen pruebas;
 
 V.- Las resoluciones en que se nieguen la orden de aprehensión o la de comparecencia para preparatoria;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2014)</small>
 
-VI.- Los autos que nieguen el cateo, las medidas cautelares de carácter patrimonial o el arraigo del procesado;
+VI.- Los autos que nieguen el cateo y las medidas cautelares de carácter patrimonial;
 
 VII.- Los autos que resuelvan las excepciones fundadas en alguna de las causas de extinción de la acción penal o de la potestad de ejecutar las penas y medidas de seguridad, que sean de la competencia de los jueces de primera instancia; y
 
@@ -4520,3 +4486,11 @@ P.O. 5 DE AGOSTO DE 2013.
 DECRETO No. 513 POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTICULO 119 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO.
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Gírese el oficio señalado en el considerando Quinto del presente Decreto.
+
+TERCERO. Envíese copia certificada de este Decreto a la Suprema Corte de Justicia de la Nación.
