@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2014-02-11"
+last_updated: "2014-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2014.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -9562,6 +9562,674 @@ ARTICULO 1018
 
 La ejecución de los convenios celebrados ante los Jueces de Proceso Oral Civil y de las resoluciones dictadas por éstos, se hará en términos del capítulo V, del título séptimo de este código.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+## TÍTULO DÉCIMO OCTAVO. DEL JUICIO ORAL EN MATERIA FAMILIAR
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1019.
+
+Se tramitarán en este juicio conforme a las disposiciones de este Título, las controversias relacionadas con alimentos; guarda y custodia; régimen de convivencias; violencia familiar; nulidad de matrimonio; rectificación o nulidad de los atestados del registro civil; filiación; suspensión o pérdida de la patria potestad; constitución forzosa de patrimonio familiar; cambio de régimen patrimonial controvertido; y la interdicción contenciosa.
+
+Los procedimientos de jurisdicción voluntaria; divorcio; pérdida de patria potestad de menores acogidos por una institución pública o privada de asistencia social; de levantamiento de acta de reasignación para la concordancia sexo-genérica; y adopción nacional, se tramitarán conforme a sus reglas generales, ajustándose en lo conducente al procedimiento oral y sus principios. Solo en caso de pago de alimentos se podrá presentar la demanda y contestación por escrito o comparecencia personal.
+
+La modificación de las resoluciones definitivas dictadas en asuntos de alimentos, ejercicio y suspensión de la patria potestad, guarda y custodia, régimen de convivencias e interdicción contenciosa, se substanciarán en juicio oral autónomo.
+
+En este juicio no se requiere formalidad especial alguna, salvo los casos expresamente establecidos en este Título.
+
+No se tramitarán en este procedimiento los juicios sucesorios, nulidad de testamento, petición de herencia, incapacidad para heredar, modificación de inventario por error o dolo, declaración de ausencia y presunción de muerte, restitución de menores, adopción internacional, diligencias prejudiciales de interdicción y los demás juicios de tramitación especial.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1020.
+
+En el juicio oral familiar se observarán especialmente los principios de oralidad, publicidad, igualdad, inmediación, contradicción, continuidad, concentración, dirección, impulso y preclusión procesal. Estos principios se materializan de la siguiente forma:
+
+I. Oralidad: El procedimiento se desarrollará preponderantemente en audiencias orales, en las que las partes promoverán y el Juez resolverá oralmente. A ninguna promoción escrita presentada en las audiencias se dará trámite.
+
+II. Publicidad: Las audiencias serán públicas, atendiendo a lo dispuesto en la Ley de Protección de Datos Personales del Distrito Federal y la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, así como a los casos de excepción establecidos en este Código y los que el Juez consideré su tramitación privada.
+
+III. Igualdad: Las partes tendrán las mismas oportunidades, derechos y cargas procesales. El Juez deberá atender los casos de equidad establecidos en las leyes para grupos vulnerables.
+
+IV. Inmediación: El Juez tendrá contacto directo y personal con las partes, recibirá las pruebas en la audiencia de juicio, salvo las foráneas, y será quien dicte la sentencia definitiva, salvo lo previsto en la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, en caso de suplencia de su ausencia.
+
+V. Contradicción: Cada parte tiene derecho a oponerse y ser escuchada ante las promociones de su contraparte, antes de que el Juez decida lo conducente.
+
+VI. Dirección procesal: El Juez tiene la potestad para conducir el proceso, observando los principios del juicio oral y sus formalidades esenciales.
+
+VII. Impulso procesal: Las partes tienen la facultad para solicitar las diligencias necesarias que impidan la paralización del procedimiento, en aquellos casos en que expresamente la ley exija su petición.
+
+VIII. Preclusión: Los derechos procesales se extinguen o pierden por el sólo transcurso del tiempo, al no ejercerlos en el término o etapa procesal respectiva.
+
+IX. Continuidad y concentración: El Juez debe buscar en el menor tiempo posible y a través del menor número de actos procesales resolver la controversia planteada.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1021.
+
+Cuando alguno de los interesados no puedan hablar u oír, no hablen español, pertenezcan a una comunidad indígena, o se encuentren con alguna discapacidad que les impida comunicarse eficazmente, el Juez ordenará que se le formulen o responda las preguntas o contestaciones por escrito o por medio de un intérprete, que se designará de entre aquellos autorizados como auxiliares de la administración de justicia o por colegios, asociaciones, barras de profesionales, instituciones públicas o privadas, relatándose las mismas en la audiencia o junta correspondiente. El Juez vigilará que el intérprete permanezca junto al interesado durante toda la audiencia. En estos casos, se concederá el tiempo suficiente para que aquel pueda hacer la traducción respectiva, cuidando en lo posible que no se interrumpa la fluidez del debate.
+
+Los intérpretes al iniciar su función, serán advertidos de las penas en que incurren los falsos declarantes y sobre su obligación de traducir o interpretar fielmente lo dicho.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1022.
+
+El Juez tendrá las más amplias facultades de dirección procesal para decidir en forma pronta y expedita lo que en derecho convenga, bajo este principio y atendiendo a la naturaleza del juicio, el Juez, podrá subsanar sus resoluciones, con el objeto de mantener la debida substanciación del procedimiento, guardar el equilibrio procesal.
+
+Para hacer cumplir sus determinaciones, el Juez, podrá emplear cualquiera de los medios de apremio a que se refiere el artículo 73 de este Código.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1023.
+
+Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el Juez, registradas por personal técnico adscrito al Tribunal, por cualquiera de los medios referidos en los artículos 1046 y 1047 del presente Código y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en el juzgado.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1024.
+
+Los únicos incidentes que se tramitarán serán el de nulidad de actuaciones por defecto o falta de emplazamiento y el de impugnación de falsedad de documentos, que se interpondrán por escrito.
+
+El incidente de nulidad por defecto o falta de emplazamiento será de previo y especial pronunciamiento y suspenderá el procedimiento. En la demanda incidental y su contestación se ofrecerán las pruebas, mismas que de admitirse se desahogaran en audiencia especial si su naturaleza lo exige. En el mismo acuerdo que recaiga a la contestación de la demanda incidental o en el que declare la preclusión del término para hacerlo, se señalará la fecha para la audiencia especial y en su caso, para el desahogo de las mismas. De no requerirse audiencia para la recepción de pruebas, se citará para sentencia interlocutoria dentro de los tres días posteriores. Si se reciben las pruebas en audiencia especial el Juez, después de escuchar los alegatos, dictará la sentencia interlocutoria en el mismo acto o, en su defecto, citará a las partes dentro del mismo término para la emisión de la resolución respectiva. En todo caso, el Juez explicará brevemente la sentencia y sus resolutivos en la misma audiencia especial o su continuación. El incidente de impugnación de falsedad de documentos deberá promoverse conjuntamente en la contestación de demanda o la reconvención, salvo que se impugnen documentos exhibidos en dichos ocursos o con posterioridad. Las pruebas se ofrecerán en la demanda incidental y su contestación, se admitirán en el mismo acuerdo que recaiga a la contestación la (sic) demanda o en el que declare la preclusión del término para hacerlo, y se recibirán en la audiencia de juicio, resolviéndose conjuntamente con la sentencia definitiva.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1025.
+
+En el juicio oral familiar únicamente se notificará personalmente el emplazamiento de la demanda principal y cualquier acto procesal a juicio del Tribunal. Las demás determinaciones se notificarán a las partes en los términos que prevé el artículo 111 de este Código. Las determinaciones emitidas en audiencia se tendrán por notificadas en el momento de su pronunciamiento, estén o no presentes las partes o quienes debieron estar, sin formalidad alguna.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1026.
+
+En cualquier etapa del procedimiento, el tribunal exhortará a los interesados a lograr un avenimiento con el que pueda darse por terminado el asunto. Para este fin, las declaraciones, propuestas o aceptaciones de las partes no surtirán efecto legal alguno en juicio ni podrán ser utilizadas por la parte contraria. Las propuestas y pronunciamientos del Juez para este efecto no constituirán prejuzgamiento sobre el fondo del asunto.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1027.
+
+Las promociones de las partes deberán formularse oralmente durante las audiencias y la junta anticipada, salvo los casos expresamente señalados en este Título. El Juez no admitirá promociones frívolas o improcedentes y deberá desecharlas de plano, fundando y motivando su decisión.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1028.
+
+Las partes tienen la obligación de acudir a las audiencias y a la junta anticipada asesoradas por licenciado en derecho con cédula profesional. Si los interesados no pueden contratar los servicios de un abogado, deberán acudir previamente ante las instituciones públicas o privadas que proporcionen asesoría jurídica gratuita.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1029.
+
+Cuando alguna de las partes solicite la custodia y convivencia provisional de menores de edad lo hará por escrito en la demanda principal o reconvencional o en sus contestaciones, se dará vista a la contraria por el término de tres días, quien por escrito contestará la solicitud. El Juez escuchará al menor durante la audiencia preliminar atendiendo al caso concreto.
+
+En caso de rebeldía, por desacuerdo de las partes, o bien, a juicio del Tribunal se señalará día y hora para que el Juez en diligencia privada escuche al menor ante el Ministerio Público, sin la presencia de las partes, en la que podrá comparecer el asistente de menores, quien será profesional en psicología, pedagogía o trabajo social, adscritos al Sistema para el Desarrollo Integral de la Familia del Distrito Federal u otra institución, sólo para el efecto de facilitar la comunicación libre, espontánea y procurarle protección psicoemocional al menor. Sin que se requiera la protesta del cargo del citado profesional. Si la diligencia se encuentra debidamente preparada, no comparece el asistente y sí el menor, la audiencia se llevará a cabo, correspondiendo al Juez velar por el interés superior del menor.
+
+El Tribunal contará con una sala especial para escuchar al menor, que permita el desenvolvimiento adecuado para las niñas, los niños y adolescentes.
+
+Las personas que tengan a los menores bajo su cuidado, estarán obligados a presentarlos en las diligencias y audiencias respectivas para que sean escuchados, apercibidos que de no hacerlo se les aplicarán las medidas de apremio establecidas en este Código, sin perjuicio de que el Juez resuelva lo conducente respecto de la custodia y convivencia provisional solicitadas.
+
+El Juez deberá tomar en cuenta todos los elementos que estén a su alcance para decidir bajo el principio del interés superior del menor el derecho de convivencia de manera provisional. En caso de duda y para salvaguarda de los menores, deberá ordenar que las convivencias se realicen durante el procedimiento en los centros e instituciones destinados para tal efecto.
+
+Ante la falta o imposibilidad de los progenitores para detentar la custodia de los menores se estará a lo previsto en los artículos 414 y 418 del Código Civil para el Distrito Federal.
+
+El Juez resolverá en la misma diligencia o audiencia sobre la custodia y convivencia provisional.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1030.
+
+El ascendiente que no le sea otorgada la custodia podrá convivir con el menor, tal y como lo determine el Juez, diversos días de la semana fuera del horario escolar, sin desatender las labores escolares y debiendo auxiliarlo en dichas actividades. También en forma equitativa tiene derecho a convivencias en fines de semana alternados, períodos de vacaciones escolares y días festivos.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1031.
+
+El Juez fijará el importe de los alimentos provisionales inmediatamente a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1032.
+
+En todo lo no previsto regirán las reglas generales de este Código, en cuanto no se opongan a los principios y disposiciones del presente Título.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+### CAPITULO II. DEL PROCEDIMIENTO ORAL EN MATERIA FAMILIAR
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Primera. DE LA FASE POSTULATORIA
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1033.
+
+La demanda deberá formularse por escrito y cumplir los requisitos siguientes:
+
+I. El Tribunal ante el que se promueve.
+
+II. Nombre, apellidos, el domicilio para oír y recibir notificaciones dentro de esta jurisdicción o, en su caso, la dirección electrónica para los mismos efectos procesales.
+
+III. Nombre y apellidos de la parte demandada y su domicilio.
+
+IV. Las pretensiones reclamadas.
+
+V. Los hechos en que funde su pretensión, narrándolos de manera breve y concisa; acompañando los documentos base de la acción.
+
+VI. En su caso, los fundamentos de derecho.
+
+VII. El ofrecimiento de las pruebas, relacionándolas en forma pormenorizada con cada hecho.
+
+VIII. En los casos que proceda, se acompañará el formulario autorizado por el Tribunal para acreditar la fuente, monto de los ingresos de las partes y su nivel socioeconómico.
+
+IX. Acompañar una propuesta de convenio, cuando así proceda.
+
+X. La firma de la parte actora o su representante legal. Si éstos no supieren o no pudieren firmar, pondrán su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1034.
+
+Si la demanda fuere obscura, irregular o no cumpliera con algunos de los requisitos del artículo anterior, el Juez por una sola ocasión señalará con toda precisión en qué consisten los defectos de la misma en el proveído que al efecto se dicte para que en el término de tres días contados a partir del día siguiente a aquél en que surta efectos la notificación por Boletín Judicial, se desahogue.
+
+En caso de que no se cumplan los motivos de prevención o no se desahogue oportunamente, el Juez desechará el asunto y devolverá al interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda con la que se haya formado el expediente respectivo.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1035.
+
+Admitida la demanda, el Juez ordenará notificar personalmente al demandado, corriéndole traslado con copias de la misma, los documentos exhibidos por el actor y, en su caso, con la propuesta de convenio y el formulario correspondiente, emplazándolo para que dentro del término de nueve días, por escrito conteste la demanda.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1036.
+
+La contestación a la demanda deberá cumplir con los siguientes requisitos:
+
+I. Presentarse por escrito ante el Juez que lo emplazó.
+
+II. Nombre, apellidos, el domicilio para oír y recibir notificaciones dentro de esta jurisdicción o, en su caso, la dirección electrónica para los mismos efectos procesales.
+
+III. Contestará categóricamente cada uno de los hechos en que la parte actora funde su pretensión.
+
+IV. En su caso, los fundamentos de derecho.
+
+V. Anexar la contrapropuesta de convenio cuando el actor la haya presentado.
+
+VI. En los casos que proceda, se acompañará el formulario autorizado por el Tribunal para acreditar la fuente, monto de los ingresos de las partes y su nivel socioeconómico.
+
+VII. Las excepciones procesales y sustantivas que se tengan.
+
+VIII. Deberá ofrecer pruebas, relacionándolas en forma pormenorizada con los hechos que correspondan.
+
+IX. La firma de puño y letra de la parte demandada o de su representante legal. Si éstos no supieren o no pudieren firmar, pondrán su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1037.
+
+La reconvención se formulará en la contestación a la demanda y deberá satisfacer los requisitos aplicables señalados en el artículo 1033. Se notificará y correrá traslado a la contraria para que la conteste en el término de nueve días.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1038.
+
+En los escritos de demanda, contestación, reconvención y su contestación, las partes ofrecerán sus pruebas, relacionándolas pormenorizadamente con los puntos controvertidos. Deberá proporcionarse el nombre, apellidos y domicilio de las personas que deban rendir testimonio; y, en relación a la prueba pericial deberá señalarse la materia de la misma, las cuestiones y puntos a resolver, y se exhibirán los documentos que tengan en su poder.
+
+De no ser así, acreditarán haberlos solicitado con el escrito respectivo sellado e igualmente demostrarán haber dado el impulso procesal para su obtención o la negativa dada a su solicitud, manifestándolo bajo protesta de decir verdad, antes de la fase de admisión de pruebas en la audiencia preliminar. El Juez, de considerarlo justificado, ordenará el auxilio del oferente con los apercibimientos para tal efecto. No se admitirá prueba documental que no cumpla con estos requisitos, salvo aquéllas que surjan en la junta anticipada.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1039.
+
+Cuando se opongan excepciones procesales se exhibirán y ofrecerán pruebas en el mismo ocurso y se dará vista a la contraparte para que manifieste lo que a sus intereses convenga por escrito en el término de tres días.
+
+En las excepciones de conexidad, litispendencia y cosa juzgada sólo será admisible como prueba la inspección judicial o la documental.
+
+La excepción de conexidad sólo será procedente cuando el juicio señalado como conexo se trámite en juicio oral.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1040.
+
+Desde los autos que recaigan a los escritos de demanda, contestación, reconvención y su contestación, el Juez deberá pronunciarse sobre las medidas provisionales que se llegaren a solicitar, mismas que se resolverán a más tardar en la segunda fase de la audiencia preliminar.
+
+El Juez está facultado para decretar y modificar en cualquier momento del procedimiento y de forma oficiosa, las medidas provisionales que sean necesarias para preservar a la familia y proteger a sus miembros, especialmente tratándose de menores de edad y de aquellas que se encuentren en estado de interdicción.
+
+Las medidas provisionales pueden ser impugnadas mediante el recurso de apelación de tramitación inmediata en efecto devolutivo.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1041.
+
+Una vez contestada la demanda y, en su caso, la reconvención o transcurridos los términos para ello, el Juez señalará fecha y hora para la celebración de la audiencia preliminar, dentro de los quince días siguientes, siempre que la naturaleza del asunto lo permita.
+
+En el mismo auto, el Juez admitirá las pruebas que fueren ofrecidas en relación con las excepciones procesales opuestas para que se desahoguen en la audiencia preliminar. En caso de no exhibirse las pruebas en dicha audiencia, se declararán desiertas por causa imputable al oferente.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1042.
+
+Transcurrido el término fijado para contestar la demanda o la reconvención, sin que se hubiere hecho, el Juez examinará escrupulosamente y bajo su más estricta responsabilidad, si el emplazamiento fue practicado en forma legal. De ser así, a petición de parte hará la declaración de rebeldía correspondiente y en su defecto el Juez tendrá por precluído el derecho, y señalará fecha para la audiencia preliminar; en caso contrario, ordenará reponer el emplazamiento.
+
+Se tendrán por contestados los hechos de la demanda principal o reconvencional en sentido negativo cuando se deje de contestar en el término legal. Se observará lo dispuesto por el Título Noveno de este Código, en lo que no contravenga al presente juicio.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1043.
+
+En caso de allanamiento, se señalará fecha para audiencia de juicio dentro del término de quince días en la que se dictará sentencia definitiva.
+
+En el supuesto que cualquiera de las partes se conforme con la propuesta de convenio exhibido por su contraria, se ordenará ratificar el mismo y de ajustarse a derecho, el Juez lo aprobará de inmediato.
+
+Cuando la controversia se refiera solo a puntos de derecho, el Juez citará para la audiencia de juicio en el término antes citado y después de escuchar los alegatos, dictará la sentencia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Segunda. REGLAS GENERALES DE LAS AUDIENCIAS
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1044.
+
+Es obligación de las partes asistir a la junta anticipada y las audiencias del procedimiento, por sí o a través de sus representantes legales, quienes deberán estar asistidos por licenciado en derecho para su debida defensa.
+
+Al abogado que deje de asistir a la junta anticipada y a las audiencias, sin justa causa calificada por el Juez, se le impondrá una multa a favor del Fondo de Apoyo a la Administración de Justicia del Distrito Federal, equivalente a seis mil pesos, monto que se actualizará en los términos del artículo 62 de este Código. El Juez dictará proveído de ejecución al finalizar la audiencia.
+
+En caso de inasistencia de licenciado en derecho, se diferirá por una sola ocasión la junta o audiencia respectiva y se estará a lo ordenado en el artículo 46 de este Código.
+
+Con independencia de los profesionistas que las partes designen como autorizados en términos del párrafo cuarto del artículo 112 de este Código, deberán señalar quién de todos ellos quedará nombrado como su abogado patrono o su sustituto, los que habrán de comparecer a la junta anticipada así como a las audiencias del juicio, quedando vinculados a las responsabilidades y sanciones a que alude este numeral.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1045.
+
+En las audiencias del juicio oral se observarán, las siguientes reglas:
+
+I. Se ajustaran a los principios del procedimiento oral.
+
+II. El Juez tendrá la más amplia facultad para hacer a los testigos, peritos y a las partes las preguntas que estime conducentes a la investigación de la verdad respecto a los puntos controvertidos.
+
+III. El Juez tiene el deber de mantener el buen orden, evitar las disgresiones, faltas de decoro y probidad y exigir que se guarde el debido respeto, pudiendo imponer las sanciones establecidas en los artículos 61 y 62 de este Código e incluso ordenar la expulsión con uso de la fuerza pública.
+
+IV. Concluida cada una de las etapas de las audiencias, se tendrán por precluídos los derechos procesales que debieron ejercitar las partes.
+
+V. La parte que asista tardíamente a la junta anticipada o a las audiencias, se incorporará en la etapa en que éstas se encuentren, sin perjuicio de la facultad del Juez en materia de conciliación.
+
+VI. Podrán decretarse los recesos que razonablemente se consideren necesarios por parte del Juzgador.
+
+VII. La audiencia podrá diferirse o suspender por caso fortuito o fuerza mayor. En el mismo acto, en su caso, se señalará la fecha para su continuación o celebración, de la que se tendrá por notificadas a las partes conforme a lo establecido en este Título. Al reanudarse, el Juez expondrá una síntesis de los actos realizados hasta ese momento.
+
+VIII. Al terminar las audiencias, se levantará acta que deberá contener, cuando menos, el lugar, la fecha, el expediente y juzgado al que corresponda; el nombre de los participantes; una relatoría sucinta del desarrollo de la audiencia; y la firma autógrafa y electrónica del Juez y del Secretario Judicial.
+
+IX. En el trámite de los asuntos a que se refiere el presente Título, las actuaciones del Juez en el ejercicio de sus funciones serán plenamente válidas, en razón de su investidura, sin requerir la fe del Secretario Judicial.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1046.
+
+Las audiencias se registrarán por medios electrónicos o cualquier otro idóneo, a juicio del Juez, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido y el acceso al mismo.
+
+Al inicio de las audiencias el Secretario Judicial hará constar oralmente en el registro a que hace referencia el párrafo anterior, la fecha, hora y el lugar de realización, datos del asunto y el nombre del Juez que preside la audiencia.
+
+Las personas que intervengan en el desarrollo de las audiencias deberán identificarse y rendir previamente protesta de que se conducirán con verdad. Para tal efecto, el Secretario Judicial los identificará y les tomará protesta, previo al inicio de su intervención, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1047.
+
+El Secretario Judicial certificará el medio en donde se encuentre registrada la junta anticipada o audiencia respectiva e identificará dicho medio con el número de expediente. Se pondrá (sic) solicitar copia simple o certificada del acta de audiencia, o certificada del medio electrónico que la contenga, a costa del litigante.
+
+Cuando por cualquier causa se dañe el soporte material del registro, el Juez ordenará su reposición conforme a lo establecido en las reglas generales del procedimiento.
+
+En el Tribunal estarán disponibles los aparatos y el personal de auxilio para que las partes tengan acceso a los registros de audiencias, a fin de conocer su contenido.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Tercera. DE LA AUDIENCIA PRELIMINAR
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1048.
+
+La audiencia preliminar se integra por dos fases:
+
+I. Junta Anticipada, que se celebrará ante el Secretario Judicial; y
+
+II. Audiencia ante el Juez.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1049.
+
+La Junta Anticipada tiene por objeto:
+
+I. Cruzar información e intercambiar pruebas entre las partes;
+
+II. Formular propuestas de convenio;
+
+III. Establecer acuerdos sobre hechos no controvertidos; y,
+
+IV. Fijar acuerdos probatorios.
+
+El Secretario Judicial dará cuenta al Juez con el resultado de la junta.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1050.
+
+La audiencia ante el Juez tiene por objeto:
+
+I. Depuración del procedimiento, en la que se estudiará:
+
+a) Legitimación de las partes, y
+
+b) Excepciones procesales;
+
+II. La revisión y aprobación del convenio que hayan celebrado las partes;
+
+III. En su caso, la conciliación entre las partes;
+
+IV. Aprobación de acuerdos sobre hechos no controvertidos y probatorios;
+
+V. Resolver sobre las medidas provisionales pendientes; y
+
+VI. Admisión y preparación de las pruebas.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1051.
+
+Ambas partes deberán comparecer a la audiencia preliminar, directamente o por conducto de representante legal o mandatario judicial. En el caso de que la parte actora no comparezca, se le tendrá por desistida de la instancia. Si la parte demandada no comparece, se tendrán por aceptadas las propuestas de la parte actora en esta etapa.
+
+En los asuntos de alimentos y de aquellos que se encuentren en estado de interdicción, se diferirá la audiencia por una sola ocasión y, en el supuesto de que la parte actora reitere su incomparecencia, se le tendrá por desistida de la instancia. Si la parte demandada no comparece a la nueva cita se tendrán por aceptadas las propuestas de la parte actora en esta etapa.
+
+En el caso de procedimientos en rebeldía, el demandado tendrá derecho a comparecer a la junta anticipada a efecto de formular propuestas de convenio, intervenir en la audiencia preliminar, en la conciliación, en la resolución de medidas provisionales y participar en la audiencia de juicio, sin que ello implique retrotraer los efectos de su comparecencia a la fase en que su (sic) decretó su rebeldía.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1052.
+
+La Junta Anticipada se desarrollará oralmente ante el Secretario Judicial. Iniciará con el intercambio de pruebas e información entre las partes en forma libre, espontánea y directa, con el fin de identificar y explorar mayores elementos probatorios para apoyar sus acciones o desvirtuar las pretensiones del contrario.
+
+Las partes podrán proponer acuerdos sobre hechos no controvertidos, a fin de reducir la litis a los aspectos controvertidos. También, pueden celebrar acuerdos probatorios en relación con las pruebas ofrecidas, con el objeto de excluir las que resulten ociosas o no idóneas. Ambos acuerdos serán aprobados por el Juez en la segunda fase de la audiencia preliminar.
+
+Con el fin de dirimir la controversia a través de un convenio el Secretario Judicial podrá proponer alternativas de solución. Durante estas negociaciones las declaraciones propuestas o aceptaciones de las partes, no podrán ser utilizadas por la parte contraria.
+
+El Secretario Judicial dará cuenta al Juez con el resultado de la Junta Anticipada.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1053.
+
+El Juez en la segunda fase de la audiencia preliminar, procederá a depurar el procedimiento y en su caso, a examinar las propuestas de convenio formuladas en la Junta Anticipada. En caso de no existir propuestas, en la etapa de conciliación, propondrá alternativas de solución para que los interesados lleguen a un convenio. En todo caso, se aprobará el convenio que se ajuste a derecho, mismo que tendrá el carácter de sentencia firme.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1054.
+
+En las etapas respectivas el Juez revisará y, de proceder, aprobará los acuerdos sobre hechos no controvertidos y los probatorios. Posteriormente resolverá las medidas provisionales solicitadas, que se encuentren pendientes.
+
+Acto seguido se emitirá la admisión de pruebas, ordenándose su preparación. Se declararan desiertas aquellas que no se reciban por causas imputables al oferente, a cuyo cargo corresponderá su diligenciación.
+
+Una vez preparadas las pruebas documentales que se deban rendir, se fijará fecha y hora para la celebración de la audiencia de juicio dentro del término de quince días.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Cuarta. DE LA AUDIENCIA DE JUICIO
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1055.
+
+Abierta la audiencia, el Juez escuchará los alegatos de apertura de las partes, los cuales durarán un máximo de diez minutos y se integrarán de una exposición de los hechos y pruebas con las que demostrarán sus pretensiones. Posteriormente se iniciará de inmediato el desahogo de las pruebas, en el orden que el Juez establezca, para lo cual contará con las más amplias facultades como rector del procedimiento. Serán declaradas desiertas aquellas pruebas que no estén debidamente preparadas por causas imputables al oferente.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1056.
+
+En la audiencia solo se concederá el uso de la palabra, por una vez a cada una de las partes y por un máximo de diez minutos para formular los alegatos de apertura y cierre, respectivamente. El Juez tomará las medidas que procedan a fin de que las partes se sujeten al tiempo indicado.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1057.
+
+Concluido el desahogo de pruebas, se recibirán los alegatos de cierre de las partes hasta por diez minutos a cada una, declarando visto el procedimiento. Inmediatamente después el Juez dictará la sentencia definitiva, explicando brevemente las razones de hecho y de derecho en que se sustenta y se dará lectura a sus puntos resolutivos. Acto seguido quedará a disposición de las partes copia por escrito de la sentencia. En casos excepcionales, atendiendo a la complejidad del asunto, al cúmulo y naturaleza de las pruebas desahogadas, el Juez podrá diferir el dictado de la sentencia hasta por quince días, citando a las partes para escucharla.
+
+En caso de que las partes no estén presentes en la audiencia donde se emita la sentencia, se dispensará su explicación y lectura de puntos resolutivos, y se les notificará por boletín judicial.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+### CAPITULO III. DE LAS PRUEBAS
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1058.
+
+En el juicio oral se admitirán todos los medios de prueba, sea cual sea su naturaleza, siempre y cuando se cumpla con sus formalidades para el ofrecimiento y sean conducentes a la controversia.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1059.
+
+Cuando las pruebas hubieren de desahogarse en el interior de la República o en el extranjero, se contará con el término de treinta y sesenta días naturales, respectivamente, poniéndose a disposición del oferente los exhortos o cartas rogatorias para su diligenciación y, en caso de no rendirse dentro de dicho término, la probanza de que se trate se declarará desierta.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Primera. DE LOS TESTIMONIOS
+
+DE LA DECLARACIÓN DE PARTE
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1060.
+
+Desde los escritos de demanda y contestación y hasta la junta anticipada se podrá ofrecer la declaración voluntaria de parte propia o de la parte contraria, quedando las partes obligadas a declarar bajo protesta de decir verdad y realizarse de modo estrictamente personal.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1061.
+
+El interrogatorio será oral, deberá referirse a los hechos controvertidos, claro y preciso, abierto o cerrado y tendiente a acreditar el objeto del debate. Las partes pueden hacer las objeciones que consideren pertinentes, las que serán calificadas por el Juez, quien repelerá de oficio las inconducentes, sin perjuicio de atender al principio de contradicción.
+
+El interrogatorio abierto debe referirse a hechos controvertidos, el deponente contestará de manera amplia y libre. En el cerrado se contestará en forma afirmativa o negativa.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1062.
+
+La declaración de parte se desahogará conforme a las siguientes reglas:
+
+I. El oferente de la prueba formulará su interrogatorio en primer término, concluido éste la parte contraria a su vez tiene derecho a formular preguntas.
+
+II. Previo apercibimiento de ley, en caso de que el deponente no asista sin justa causa al desahogo de la declaración forzada, se tendrán por ciertas las afirmaciones que su colitigante pretenda acreditar, salvo prueba en contrario.
+
+III. En caso de que el deponente no asista sin justa causa se tendrá por desierta la prueba, cuando se trate de declaración voluntaria de parte propia.
+
+IV. Previo apercibimiento de ley, tratandose de la declaración forzada, cuando el deponente se rehúse a contestar las preguntas que le formule su colitigante o lo haga evasivamente, el Juez podrá tener por ciertas las afirmaciones de la otra parte.
+
+V. Tratándose de la declaración voluntaria de parte propia y no conteste las preguntas que le formule su abogado patrono o lo haga evasivamente, se hará efectivo el apercibimiento y se dará por concluido el testimonio, y tendrá entonces la parte contraria el derecho a interrogarlo, con el apercibimiento contenido en la fracción que antecede.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Segunda. DE LA DECLARACIÓN DE TESTIGOS
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1063.
+
+Para el examen de los testigos, el interrogatorio y contrainterrogatorio será formulado oral y directamente, el que deberá de desahogarse bajo protesta de decir verdad. Las preguntas tendrán relación con los puntos controvertidos y se articularán en términos claros y precisos. Las partes tienen el derecho de realizar las objeciones que consideren pertinentes, las que serán calificadas por el Juez, quien repelerá de oficio las preguntas y objeciones inconducentes, sin perjuicio del respeto al principio de contradicción de la contraparte.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1064.
+
+Cuando se trate de testigos que deban ser citados, se les apercibirá con un arresto por treinta y seis horas, en caso de inasistencia, declarándose desierta la prueba a su oferente.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Tercera. DE LA PERICIAL
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1065.
+
+En el ofrecimiento de la prueba pericial se deberá de observar lo previsto en el primer y segundo párrafo del artículo 346 de este Código, y señalar con toda precisión los puntos sobre los que versará y las cuestiones que se deban resolver, con el cual se dará vista a la parte contraria para que al momento de contestar la demanda principal o reconvencional, en su caso, amplíe el cuestionario correspondiente. En el supuesto de que se encuentre debidamente ofrecida, el Juez la admitirá y designará perito único, ya sea que pertenezca a instituciones públicas, privadas o bien de la lista de auxiliares de la administración de justicia, emitida por el Consejo de la Judicatura del Distrito Federal. En el caso de que el perito pertenezca a una institución pública, su designación se le hará saber mediante el oficio correspondiente, con la información necesaria para que pueda rendir oportunamente su dictamen, sin que se requiera su comparecencia para los efectos de su aceptación.
+
+Tratándose de peritos de instituciones privadas, se les hará saber su designación mediante notificación personal para el efecto de que en el término de tres días, presenten escrito de aceptación y, de ser necesario, precise los elementos que requiera para poder elaborar su dictamen, tales como entrevistas, exámenes o acceso a determinados, expedientes, archivos, bienes o cosas objeto de su dictamen. El dictamen será exhibido por escrito dentro del plazo de cinco días, que empezará a correr a partir del día siguiente en que cuente con todos los elementos suficientes para realizar su evaluación.
+
+El perito deberá comparecer a la audiencia de juicio para exponer sus conclusiones y responder a las preguntas que le formulen las partes o el Juez.
+
+Asimismo, el perito propondrá los gastos que deban erogarse y el monto de sus honorarios en términos de la legislación correspondiente, mismos que deberán ser autorizados por el Juez y posteriormente serán cubiertos por ambas partes en igual proporción. En caso de negativa de alguna de las partes, se despachará ejecución para su cobro.
+
+Tratándose del examen de bienes o cosas que pertenezcan a alguna de las partes, o bien de personas que se les deba de examinar para conocer su condición física, mental o de salud, las partes serán apercibidas cuando se nieguen a proporcionar las facilidades necesarias o no se presenten para su estudio y se tendrán por ciertas las afirmaciones de la oferente; salvo los casos en que se encuentren involucrados derechos de menores de edad y de aquellos que se encuentren en estado de interdicción, donde se podrán agotar como acto previo, la aplicación de medidas de apremio que a juicio del Juez resulten conducentes.
+
+En el caso de que se trate de acciones derivadas de la filiación, se apercibirá a la parte objeto de estudio que en caso de negativa para la práctica del examen correspondiente u otorgar las facilidades necesarias, se estará a lo ordenado por el artículo 382 del Código Civil para el Distrito Federal.
+
+Si el perito no exhibe su dictamen dentro del plazo señalado o deja de asistir sin justa causa a la audiencia de juicio, se le impondrá una sanción pecuniaria a favor del Fondo de Apoyo de la Administración de Justicia del Distrito Federal, equivalente a una cantidad igual a la que cotizó por sus servicios. En el mismo acto, el Tribunal dictará proveído de ejecución en contra de dicho perito, además de hacerlo saber al Consejo de la Judicatura del Distrito Federal, a la asociación, Colegio de Profesionistas o institución que lo hubiera propuesto, para los efectos correspondientes. Asimismo, el Juez designará otro perito, con las mismas obligaciones y apercibimientos señalados en los párrafos que anteceden.
+
+Si el perito no se presenta a la audiencia de juicio, pero éste ya exhibió en tiempo y forma su dictamen, la prueba se desahogará en sus términos por el Juez atendiendo a los principios de los juicios orales, haciendo efectivos los apercibimientos conducentes antes señalados.
+
+Cuando la parte que promueve lo haga a través de la Defensoría de Oficio y ésta no cuente con el perito solicitado, el Juez previa la comprobación de dicha circunstancia, nombrará un perito oficial de alguna institución pública que cuente con el mismo; cuando dichas instituciones no cuenten con el perito requerido, el juez nombrará perito en términos del primer párrafo del presente artículo, proveyendo al perito lo necesario para rendir su dictamen, así como en el caso de que se nombre perito tercero.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Cuarta. DE LA INSTRUMENTAL
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1066.
+
+Los registros del juicio oral, cualquiera que sea el medio, serán instrumentos públicos que harán prueba plena y acreditarán el contenido y modo en que se desarrolló la audiencia.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1067.
+
+Los documentos que presenten las partes en los escritos de demanda y contestación, podrán ser objetados en cuanto a su alcance y valor probatorio, una vez admitidos en la audiencia preliminar. Los documentos que lleguen con posterioridad, podrán ser objetados al tercer día de su recepción.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1068.
+
+En el reconocimiento de documentos u otros medios de prueba se observará lo dispuesto en los artículos 1060, 1061 y 1063.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1069.
+
+La impugnación de falsedad de un documento debe hacerse desde la contestación de la demanda y contestación a la reconvención y hasta la segunda fase de la audiencia preliminar. En el caso de documentos exhibidos con posterioridad se impugnarán al tercer día de su recepción. El impugnante deberá satisfacer, en lo conducente, los demás requisitos establecidos en los artículos 342, 343 y 386 de este Código.
+
+La pericial se desahogará en términos del artículo 1065.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Quinta. DE LA INSPECCIÓN JUDICIAL
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1070.
+
+La inspección judicial se practicará el día, hora y lugar que se señalen, la que se llevará a cabo antes de la audiencia de juicio para que en la misma se desahogue. Las partes, sus representantes o abogados, pueden concurrir a la inspección y hacer las observaciones que estimen oportunas.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1071.
+
+De la inspección judicial se levantará constancia a través de los medios referidos en los artículos 1046 y 1047.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Sexta. OTROS MEDIOS DE PRUEBA
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1072.
+
+Para acreditar hechos o circunstancias que tengan relación con el negocio que se ventile, pueden las partes presentar los escritos, notas taquigráficas, registros dactiloscópicos, fonográficos, fotografías, cintas cinematográficas, copias fotostáticas, archivos digitales o los obtenidos por cualquier medio cibernético, telemático, así como cualquier otro elementos (sic) producido por la ciencia y la tecnología que pueda producir convicción con el Juzgador.
+
+La parte que presente estos medios de prueba deberá ministrar al Tribunal los aparatos o elementos necesarios con el fin de reproducirse los sonidos y figuras. Los acompañará de ser necesario de su traducción y especificación del sistema empleado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 9 DE JUNIO DE 2014)</small>
+
+### CAPITULO IV. DE LA EJECUCIÓN
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1073.
+
+Las sentencias y convenios emitidos en un procedimiento oral, se ejecutarán de acuerdo a las formalidades establecidas en el capítulo V, del Título Séptimo, de este Código, por el Juez que conozca del asunto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+### CAPITULO V. DE LOS RECURSOS
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1074.
+
+En el juicio oral sólo se admitirán los recursos de apelación y queja, así como reposición en segunda instancia.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1075.
+
+En el juicio oral en materia familiar, las actuaciones ante el Tribunal de apelación se observarán los principios que rigen a este Título en lo que fuere aplicable.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Primera. DE LA APELACIÓN
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1076.
+
+El recurso de apelación procede contra todas las resoluciones emitidas por el Juez en el juicio oral. Se interpondrá por escrito y se admitirá en el efecto devolutivo de tramitación conjunta con la sentencia definitiva, con excepción del que se interponga contra la determinación que resuelva medidas provisionales y la pronunciada en el incidente de nulidad de actuaciones, el que procederá en el efecto devolutivo de tramitación inmediata.
+
+El recurso de apelación en contra de la sentencia definitiva será admitido en ambos efectos, salvo en materia de alimentos e interdicción que se tramitará en el efecto devolutivo de tramitación inmediata.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1077.
+
+Admitido y calificado el recurso, a juicio de la Sala o a petición de parte, se señalará fecha para una audiencia que presidirá el Magistrado Ponente, en la que se otorgará el uso de la palabra a los interesados directamente o por conducto de su mandatario judicial, para que realicen sus alegatos de apertura. Posteriormente, en su caso, se recibirán pruebas, supuesto en el cual, al concluir el desahogo, se recibirán también alegatos finales. Acto seguido se citará a las partes a oír sentencia, la que se pronunciará en los plazos previstos para tal efecto por este Código.
+
+De no comparecer ninguna de las partes, el secretario proyectista designado hará una exposición sucinta del asunto, procediendo a la (sic) declarar desiertas las pruebas no preparadas y, en su caso, a recibir las que proceda bajo la dirección procesal del Magistrado Ponente.
+
+Cuando el recurso deba resolverse en forma unitaria, la audiencia será presidida por el Magistrado designado, de acuerdo a las disposiciones anteriores.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Segunda. DE LA QUEJA
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1078.
+
+En el juicio oral será admisible el recurso de queja en los casos previstos el (sic) Capítulo III, del Título Décimo Segundo de este Código.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
+
+#### Sección Tercera. DE LA REPOSICIÓN
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1079.
+
+Procede el recurso de reposición de segunda instancia en contra de cualquier decreto o auto.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 1080.
+
+La reposición debe interponerse por escrito dentro de los tres días siguientes a la notificación hecha por Boletín Judicial, dándose vista a la contraria por el término de tres días para que exprese lo que a su derecho convenga. Se resolverá dentro de los cinco días siguientes, contados a partir de que surta sus efectos la notificación del auto que cita para sentencia, la que se pronunciará en Audiencia Pública por el Magistrado ponente de haberlo solicitado así las partes en los escritos correspondientes y a juicio del Tribunal.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(DEROGADO, G.O. 18 DE MARZO DE 2011)</small>
@@ -10613,3 +11281,15 @@ G.O. 11 DE FEBRERO DE 2014.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2014.
+
+Artículo Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+Artículo Segundo.- El presente decreto entrará en vigor a los treinta días hábiles siguientes de su publicación en la Gaceta Oficial del Distrito Federal, por lo que se refiere a los procedimientos o juicios de rectificación de acta, adopción nacional, acciones derivadas de la filiación, juicio especial de levantamiento de acta por reasignación para la concordancia sexo-genérica, pérdida de la patria potestad de menores acogidos por una institución pública o privada de asistencia social, interdicción contenciosa y nulidad de matrimonio.
+
+Artículo Tercero.- Las reformas y adiciones a la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, entrarán en vigor a los treinta días hábiles siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Cuarto.- Los demás procedimientos previstos en el artículo 1019 del Código de Procedimientos Civiles, entrarán en vigor a los trescientos sesenta y cinco días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Quinto.- Por lo que hace a los juicios del orden familiar en trámite, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente Decreto hasta su total conclusión.
