@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-para-el-municipio-de-apodaca-184
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-10"
-last_updated: "2000-05-10"
+last_updated: "2014-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE APODACA, NUEVO LEON
 
-REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE APODACA, NUEVO LEON
+REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE APODACA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de mayo de 2000.
 
@@ -829,7 +831,7 @@ Cuando en los establecimientos se presenten emergencias o desastres, inherentes 
 
 ###### ARTICULO 80.
 
-Las obras que se ordenen por parte de las Autoridades de Protección Civil, para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado y ocupante del establecimiento, sin perjuicio de que sea la propia Autoridad quien las realice en rebeldía del obligado. En este último caso, a demás del cobro de las cantidades correspondientes, se aplicarán las sanciones económicas que correspondan.
+Las obras que se ordenen por parte de las Autoridades de Protección Civil, para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado y ocupante del establecimiento, sin perjuicio de que sea la propia Autoridad quien las realice en rebeldía del obligado. En este último caso, a demás (sic) del cobro de las cantidades correspondientes, se aplicarán las sanciones económicas que correspondan.
 
 Tanto las sanciones económicas, como en su caso, las cantidades por concepto de cobros por obras realizadas en rebeldía de los obligados, se consideran créditos fiscales, y serán cobrados mediante el procedimiento económico-coactivo de ejecución, por la Tesorería Municipal.
 
@@ -996,3 +998,15 @@ PRESIDENTE MUNICIPAL
 LIC. RAMIRO ESTRADA SANCHEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JUNIO DE 2014.
+
+PRIMERO.- Se abroga el Reglamento Municipal de Protección Civil de Apodaca, publicado en el Periódico Oficial del Estado de Nuevo León en fecha 10-diez de Mayo del año 2000-dos mil.
+
+SEGUNDO.- El presente Reglamento y el Manual de Bases y Tablas técnicas de Protección Civil, entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Lo no previsto por este Reglamento, se seguirá el procedimiento y se aplicará supletoriamente lo establecido en la Ley de Protección Civil para el Estado de Nuevo León y en el Código de Procedimientos Civiles vigente en el Estado de Nuevo León.
+
+CUARTO.- Se deja sin efecto legal alguno, cualquier disposición que contravenga el presente Reglamento.
