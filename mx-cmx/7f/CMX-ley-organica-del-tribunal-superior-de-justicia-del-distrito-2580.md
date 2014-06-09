@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2014-03-13"
+last_updated: "2014-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -268,13 +268,13 @@ VIII. Participar y obtener resultado favorable en el concurso de oposición y en
 
 (DEROGADO, G.O. 10 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2014)</small>
 
 ###### Artículo 19.
 
-Para ser Secretario de Acuerdos en los Juzgados y en las Salas del Tribunal Superior de Justicia, así como para Secretario Proyectista de Segunda Instancia, se requiere:
+Para ser Secretario de Acuerdos en los Juzgados y en las Salas del Tribunal Superior de Justicia, así como para Secretario Judicial de Proceso Oral en materia Familiar, y Secretario Proyectista de Segunda Instancia, se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -310,13 +310,13 @@ IV. Tener una práctica profesional en el campo jurídico de seis meses y haber 
 
 Para ser Secretario Auxiliar Actuario de Sala se deben cubrir los requisitos del artículo 19 de esta Ley, a excepción del relativo a la práctica profesional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2014)</small>
 
 ###### Artículo 22.
 
-Para ser Secretario Proyectista de Juzgado y Secretario Conciliador, se deberán reunir los mismos requisitos señalados en el artículo 19, con excepción de la fracción III.
+Para ser Secretario Proyectista de Juzgado, Secretario Conciliador, Secretario Auxiliar de Juzgado de Proceso Oral en materia Familiar y Oficial Notificador, se deberán reunir los mismos requisitos señalados en el artículo 19, con excepción de la fracción III.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -334,25 +334,41 @@ Las incompatibilidades a que se refiere este precepto serán aplicables a los se
 
 Los nombramientos que se hagan para servidores públicos judiciales, del Consejo de la Judicatura y auxiliares de la administración de justicia, no podrán recaer en ascendientes, descendientes, cónyuges o colaterales dentro del cuarto grado por consanguinidad y segundo por afinidad, del servidor público que haga la designación.
 
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+Los funcionarios que ocupen los cargos a los que se refiere el párrafo anterior, deberán ser designados por las autoridades u órganos competentes en los plazos y términos previstos por las normas aplicables, sin que puedan dejarse vacantes por más de treinta días hábiles.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+Los nombramientos tanto de magistrados como de jueces se realizarán sin perjuicio de lo señalado en el Capítulo I, del Título Segundo y Capítulo I, del Título Décimo, respectivamente de la presente Ley.
+
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 25.
 
 Los servidores públicos de la administración de justicia, no podrán ser corredores, comisionistas, apoderados judiciales, tutores, curadores, albaceas, depositarios, síndicos, administradores, interventores, árbitros, peritos, asesores jurídicos ni ejercer la abogacía, salvo en asuntos de carácter personal.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2014)</small>
 
-###### Articulo 26.
+###### Artículo 26.
 
-El retiro de los Jueces y Magistrados se producirá, por sobrevenir incapacidad física o mental que imposibilite el adecuado desempeño del cargo, o al cumplir setenta años de edad.
+El retiro de los Jueces y Magistrados se producirá, por sobrevenir incapacidad física o mental que imposibilite el adecuado desempeño del cargo, y voluntariamente a los sesenta y cinco años o a más tardar al cumplir setenta años de edad.
 
-> <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2014)</small>
 
-Los Magistrados ratificados, tendrán derecho al haber por retiro de carácter vitalicio, equivalente al setenta por ciento de sus percepciones mensuales netas, durante los dos primeros años y al cincuenta por ciento de éstas durante el resto de su vida, cuando se encuentren bajo los siguientes supuestos:
+Los Magistrados ratificados, tendrán derecho al haber por retiro de carácter vitalicio, equivalente al cien por ciento de sus percepciones mensuales netas, durante los dos primeros años y al setenta por ciento de éstas durante el resto de su vida, cuando se encuentren bajo los siguientes supuestos:
 
 a).- Tener quince años o más como Magistrados; o
 
 b).- Tener treinta años o más al servicio del Tribunal Superior de Justicia del Distrito Federal
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+A los Magistrados ratificados que opten por el retiro, se les deberá elaborar el cálculo actuarial correspondiente para conocer la cantidad que deberá aportar el Tribunal al Fondo de Retiro.
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+Las cantidades resultantes de dicho estudio actuarial, se entregarán inmediatamente al Consejo de la Judicatura quien decidirá la forma de administrarlas.
 
 > <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
 
@@ -492,11 +508,11 @@ XX. Las demás que expresamente le confieran esta ley y otras disposiciones apli
 
 ### CAPITULO II. Del Presidente del Tribunal Superior de Justicia del Distrito Federal
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2014)</small>
 
 ###### Artículo 33.
 
-El Presidente del Tribunal Superior de Justicia del Distrito Federal durará en su cargo cuatro años y podrá ser reelecto, por una sola vez para el período siguiente. Será electo de entre los Magistrados que tengan una antigüedad no menor de tres años en su cargo, por el Pleno del Tribunal Superior de Justicia del Distrito Federal mediante escrutinio secreto, en la última sesión que habrá de celebrarse en el mes de diciembre del año previo a su mandato.
+El Presidente del Tribunal Superior de Justicia del Distrito Federal durará en su cargo tres años y podrá ser reelecto por una sola vez para el periodo siguiente. Será electo por el Pleno del Tribunal Superior de Justicia del Distrito Federal mediante escrutinio secreto, en sesión que habrá de celebrarse en el mes de noviembre del año previo a su mandato.
 
 El período de ejercicio del Presidente iniciará en el mes de enero del año que corresponda y rendirá la protesta de Ley ante el Pleno del Tribunal Superior de Justicia del Distrito Federal, en la primera sesión.
 
@@ -1012,15 +1028,25 @@ IV. De las demás diligencias, acuerdos y actividades que les encomiende la Ley 
 
 ### CAPITULO III. De la Organización Interna de los Juzgados
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2014)</small>
+
 ###### Artículo 56.
 
 Cada uno de los Juzgados a que se refiere este capítulo, tendrá:
 
-I. Un Juez, que atenderá proporcional y equitativamente las cargas de trabajo con el objeto de lograr la inmediatez y expeditez necesarias en el conocimiento de los asuntos a su cargo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
 
-II. Los Secretarios de Acuerdos, Conciliadores, Proyectistas y Actuarios que requiera el servicio; y
+I. Un Juez, que atenderá proporcional y equitativamente las cargas de trabajo con el objeto de lograr que el conocimiento de los asuntos a su cargo, se realice de manera inmediata y expedita;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+II. Los Secretarios de Acuerdos, Conciliadores, Proyectistas y Actuarios que requiera el servicio, y tratándose de Juzgados de Proceso Oral en materia Familiar, los Secretarios Judiciales y Secretarios Auxiliares que requiera el servicio; y
 
 III. Los servidores públicos de la administración de justicia que autorice el presupuesto.
 
@@ -1210,6 +1236,172 @@ Para los efectos del artículo 49 de esta Ley, el Consejo de la Judicatura del D
 
 Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado respectivo, para practicar notificaciones personales a excepción del emplazamiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G. O. 9 DE JUNIO DE 2014)</small>
+
+### CAPITULO III BIS. DEL PROCESO ORAL EN MATERIA FAMILIAR
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 63 Bis.
+
+Los Juzgados de Proceso Oral en materia Familiar conocerán de los asuntos señalados en el artículo 1019 del Código de Procedimientos Civiles para el Distrito Federal.
+
+Los Jueces de Proceso Oral en materia Familiar tendrán a su cargo, además, la etapa de conciliación durante la celebración de la audiencia preliminar, en los términos del segundo párrafo del artículo 1065 del Código de Procedimientos Civiles para el Distrito Federal.
+
+Los servidores públicos que integren los Juzgados de Proceso Oral en materia Familiar, señalados en las fracciones I y II del artículo 56 de la Ley, así como los que integren las áreas establecidas en el artículo 63 Quintus tendrán, sin excepción, la categoría de personal de confianza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 63 Ter.
+
+Los Jueces de Proceso Oral en materia Familiar podrán habilitar a los servidores públicos adscritos a sus juzgados para que, cuando las necesidades del servicio así lo requieran, auxilien a la Central de Comunicaciones Procesales, dando constancia del cumplimiento de las órdenes de visitas para convivencia y entregas y regreso de menores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 63 Quáter.
+
+Además de las señaladas en el artículo 58, son obligaciones de los Secretarios Judiciales de Proceso Oral en materia Familiar:
+
+I. Dirigir la junta anticipada, en los términos dispuestos en los artículos 1061 y 1064 del Código de Procedimientos Civiles para el Distrito Federal;
+
+II. Asistir al Juez en la celebración de las audiencias orales, emitiendo las constancias y las actas respectivas, en términos de los artículos 1058 y 1059 del Código de Procedimientos Civiles para el Distrito Federal;
+
+III. Hacer constar por escrito el medio en donde se encuentre (sic) registradas las audiencias identificando dicho medio con el número de expediente que corresponda;
+
+IV. Tramitar, previo pago de los derechos correspondientes, la expedición de copias, simples o certificadas, de las actas o medio electrónico de los registros que obren en el procedimiento, en los términos dispuestos por el artículo 1059 del Código de Procedimientos Civiles para el Distrito Federal;
+
+V. Formular los proyectos de resolución que se dicten en los procesos orales en materia familiar;
+
+VI. Auxiliar al Juez en el control de la agenda de audiencias orales, y supervisar su oportuna preparación;
+
+VII. Dar aviso a la Central de Comunicaciones de las notificaciones practicadas por el personal del juzgado tanto en la sede jurisdiccional, como aquellas llevadas a cabo fuera de ésta por instrucción y habilitación expresa del Juez, en términos del artículo 63 Bis de esta Ley;
+
+VIII. Certificar y dar constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos en que el Juez así lo ordene, en términos del tercer párrafo del artículo 63 Bis de esta Ley; y
+
+IX. Las demás que determine la normatividad aplicable y el Juez.”(sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+Artículo 63 Quintus. Los Secretarios Auxiliares de Juzgado de Proceso Oral en materia Familiar, asistirán a los Secretarios Judiciales en el desempeño de sus funciones y de las obligaciones consignadas en las fracciones II, V, VI, VII y XI del artículo 58, teniendo además, las siguientes obligaciones:
+
+I. Preparar los proyectos de acuerdo que recaigan en los asuntos de nuevo ingreso que sean turnados a la atención y trámite del Juzgado;
+
+II. Asistir al Secretario Judicial en la atención y trámite inmediato a los juicios de amparo interpuestos, elaborando los proyectos de informe que ordene la autoridad federal, así como en la integración y despacho de las constancias correspondientes;
+
+III. Preparar los proyectos de acuerdo que recaigan a las promociones y solicitudes presentadas por los justiciables fuera de las audiencias orales;
+
+IV. Dar aviso al Secretario Judicial de las notificaciones practicadas en la sede del juzgado tanto, como de aquellas llevadas a cabo fuera de ésta por instrucción y habilitación expresa del Juez, en términos del artículo 63 Bis de esta Ley;
+
+V. Dar fe y constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos en que el Juez así lo ordene, en términos del tercer párrafo del artículo 63 Bis de esta Ley;
+
+VI. Cuidar y vigilar que el archivo se arregle por orden alfabético, de apellidos del actor o del promovente en asuntos de jurisdicción voluntaria; y
+
+VII. Las demás que determinen el Juez, el Secretario Judicial y la normatividad aplicable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+Artículo 63 Sextus. Las comunicaciones procesales ordenadas por los Jueces de Proceso Oral en materia Familiar, y que en términos de ley deban realizarse de manera personal, serán practicadas por la Central de Comunicaciones Procesales, por conducto de su plantilla de Oficiales Notificadores.
+
+Los Oficiales Notificadores estarán obligados a asistir diariamente a la Central de Comunicaciones Procesales en el horario previsto, y tendrán bajo su responsabilidad:
+
+I. Recibir diariamente la asignación del turno de notificación que le corresponda, haciendo constar fecha y hora exacta de su recepción en el registro respectivo;
+
+II. Practicar las notificaciones personales que le sean asignadas, en los términos de las fracciones III y IV del artículo 61 de esta Ley y de la demás normatividad aplicable;
+
+III. Presentar las constancias de las diligencias de notificación realizadas a la Central de Comunicaciones Procesales, haciendo constar la fecha y hora exacta de entrega recepción en la Central, mediante el asiento del reloj checador;
+
+IV. Llevar el registro de las diligencias practicadas, cubriendo como mínimo los datos señalados en el artículo 62 de esta ley;
+
+V. Realizar la entrega de oficios, exhortos, informes y demás documentos cuya tramitación sea ordenada por los jueces de proceso oral en materia familiar;
+
+VI. Rendir a la Central de Comunicaciones Procesales los informes que ésta le requiera, relativos a su gestión;
+
+VII. Certificar y dar constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos ordenados por la autoridad jurisdiccional, para lo cual todos los días y las horas se tendrán por hábiles; y
+
+VIII. La (sic) demás que determinen la Ley, el Consejo, el titular de la Central de Comunicaciones, y la normatividad aplicable.
+
+Quedará inhabilitado para asumir el cargo de Oficial Notificador quien haya sido condenado por delito que amerite pena corporal de más de un año de prisión, y cualquiera que haya sido la pena en caso de que se trate de robo, fraude, falsificación, abuso de confianza u cualquier otro que lastime seriamente la buena fama en el concepto público. De igual forma quedará impedido en el caso de haber sido sancionado con inhabilitación administrativa por incurrir en responsabilidad durante el ejercicio del servicio público, sin importar la gravedad de la falta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+Artículo 63 Séptimus. Para su mejor desempeño, la operación de los Juzgados de Proceso Oral en materia Familiar, estará asistida en sus funciones por:
+
+I. Las Unidades de Gestión Administrativa que, conforme a las cargas de trabajo y las necesidades del servicio, determine el Consejo, y que tendrán a su cargo:
+
+a) El control, administración y supervisión de las Unidades de Apoyo Tecnológico y de la Central de Comunicaciones Procesales;
+
+b) Elaborar los despachos, exhortos, actas, diligencias y toda clase de documento cuya emisión sea ordenada por los Jueces de Proceso Oral en materia Familiar, dentro de los asuntos a su cargo;
+
+c) Auxiliar a los Juzgados de Proceso Oral en materia Familiar en la digitalización de aquellos documentos, que por su volumen no puedan ser procesados en estos sin afectar su carga de trabajo;
+
+d) Auxiliar a los Juzgados de Proceso Oral en materia Familiar en el trámite y remisión de expedientes al Archivo Judicial, a la superioridad o al substituto legal, previo registro en sus respectivos casos, conforme a los lineamientos marcados en esta ley;
+
+e) Supervisar la adecuada, oportuna y eficientemente preparación de las salas de audiencia oral para llevar a cabo las audiencias programadas por los Juzgados de Proceso Oral en materia Familiar;
+
+f) El control de agenda y asignación de las salas de audiencia oral;
+
+g) El trámite, administración y distribución de los insumos necesarios para la operación y el mantenimiento de los Juzgados de Proceso Oral en materia Familiar, y de las salas de audiencia oral; y
+
+h) Las demás que determinen la normatividad aplicable, el Consejo y/o el Oficial Mayor.
+
+II. Una Central de Comunicaciones Procesales, bajo cuya responsabilidad estarán las siguientes actividades:
+
+a) El control, evaluación y supervisión de los oficiales notificadores a su cargo;
+
+b) Coordinar y organizar equitativamente el turno de las notificaciones ordenadas por los Jueces de Proceso Oral en materia Familiar, y que deban ser practicadas por los oficiales notificadores a su cargo;
+
+c) Recibir y registrar, verificando que se cumpla con los términos legales, las constancias de las notificaciones practicadas por los oficiales notificadores, turnándolas al Juzgado de Proceso Oral en materia Familiar que corresponda;
+
+d) Diseñar y proponer al Consejo los mecanismos que hagan más eficiente el desarrollo de sus funciones; y
+
+e) Las demás que determine la normatividad aplicable, el Consejo y/o el Oficial Mayor;
+
+III. Las Unidades de Apoyo Tecnológico que, conforme a las cargas de trabajo y las necesidades del servicio, determine el Consejo, y que estarán encargadas de:
+
+a) La administración, control, operación y mantenimiento técnico de las Salas de Audiencia Oral;
+
+b) Preparar adecuada, oportuna y eficientemente las salas de audiencia oral para que se lleven a cabo las audiencias programadas por los Juzgados de Proceso Oral en materia Familiar;
+
+c) El auxilio técnico inmediato de los Jueces de Proceso Oral en materia Familiar durante la celebración de las audiencias orales;
+
+d) El auxilio de los Jueces de Proceso Oral en materia Familiar en la obtención de los soportes electrónicos de las audiencias que se celebren, identificándolos plenamente con el asunto al que pertenecen;
+
+e) Emitir los respaldos y las copias de seguridad de los soportes electrónicos de las audiencias que se celebren, y entregarlos al juez correspondiente para su debido resguardo;
+
+f) Emitir las copias de los soportes electrónicos de las audiencias que se celebren, y que le sean solicitadas por el Juzgado de Proceso Oral en materia Familiar que corresponda;
+
+g) Llevar el registro de los soportes electrónicos que se generen de las audiencias orales celebradas, identificados por juzgado, número de expediente, número consecutivo, fecha de emisión, y en su caso número de copias emitidas;
+
+h) Rendir a la Unidad de Gestión Administrativa los informes que ésta le requiera;
+
+i) Diseñar y proponer al Consejo los mecanismos que hagan más eficiente el desarrollo de sus funciones; y
+
+j) La (sic) demás que determinen el Consejo, el Oficial Mayor y/o la Unidad de Gestión Administrativa.
+
+Estas áreas serán autónomas con relación a los Juzgados de Proceso Oral en materia Familiar y dependerán de la Oficialía Mayor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+Artículo 63 Octavus. El Titular de la Unidad de Gestión Administrativa tendrá nivel de Director de Área, y contará con la fe pública y la autoridad suficiente para firmar y dar curso a los despachos, exhortos, actas, diligencias, autos y toda clase de documento cuya emisión y/o certificación sea ordenada por los Jueces de Proceso Oral en materia Familiar, dentro de los asuntos a su cargo.
+
+Por su parte, el titular de la Central de Comunicaciones Procesales tendrá nivel de Subdirector, y el titular de la Unidad de Apoyo Tecnológico tendrá nivel de Jefe de Unidad.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO IV
@@ -1217,12 +1409,6 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 ### CAPITULO V. De la Justicia de Paz
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-### CAPÍTULO VI. De la Justicia Civil de Cuantía Menor, del Proceso Oral Civil y Penal de Delitos no graves
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 64.
 
@@ -1238,7 +1424,11 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 
 > <small>(DEROGADO, G.O. 18 DE MARZO DE 2011)</small>
 
-### CAPITULO I. De los Magistrados
+### CAPÍTULO VI. De la Justicia Civil de Cuantía Menor, del Proceso Oral Civil y Penal de Delitos no graves
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 67.
 
@@ -1264,9 +1454,7 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 
 > <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
 
-### CAPITULO II. De los Jueces y Servidores Públicos de la Administración de Justicia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+### CAPITULO I. De los Magistrados
 
 ###### Artículo 71.
 
@@ -1372,7 +1560,9 @@ Los Juzgados a que se refieren los artículos 71, 71 Bis y 72 de esta ley para e
 
 ## TITULO QUINTO. Del Procedimiento para Suplir Ausencias de los Servidores de la Administración de Justicia
 
-### CAPITULO I. De los Síndicos
+### CAPITULO II. De los Jueces y Servidores Públicos de la Administración de Justicia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 73.
 
@@ -1404,17 +1594,29 @@ Si por defunción, renuncia o incapacidad faltare algún Magistrado, el Jefe de 
 
 En todo caso y mientras se hace la designación, la ausencia será suplida en los términos ya previstos.
 
-### CAPITULO II. De los Interventores, Albaceas, Tutores, Curadores y Depositarios
+### CAPITULO I. De los Síndicos
 
 ###### Artículo 76.
 
 Los Jueces serán suplidos en sus ausencias que no excedan de un mes, por el Secretario de Acuerdos respectivo, en los términos del artículo 57 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+En tratándose de las ausencias de los Jueces de Proceso Oral en materia Familiar, éstas serán suplidas por el Secretario Judicial que estos determinen.
 
 > <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
 Si la ausencia excede de un mes, pero no de tres meses, el Consejo de la Judicatura nombrará un Juez interino. Si éste tuviera que seguir desempeñando el cargo después de transcurridos los tres meses, deberá sujetarse a examen en términos del artículo 190 de esta Ley, y se tendrá en cuenta también su actitud durante el desempeño del servicio público.
 
 Los Secretarios, a su vez, serán suplidos por los Conciliadores o por testigos de asistencia; el Juez deberá nombrar de inmediato y de manera provisional a un Secretario de Acuerdos que lo sustituya.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+De igual manera los Secretarios Judiciales, serán suplidos por los Secretarios Auxiliares de Juzgado de Proceso Oral en materia Familiar, que al efecto determine el Juez.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1442,7 +1644,7 @@ En todo caso y cuando las ausencias no excedan de quince días los servidores p�
 
 ## TITULO SEXTO. De los Auxiliares de la Administración de Justicia
 
-### CAPITULO III. De los Peritos
+### CAPITULO II. De los Interventores, Albaceas, Tutores, Curadores y Depositarios
 
 ###### Artículo 81.
 
@@ -1518,9 +1720,7 @@ El Síndico que faltare al cumplimiento de las obligaciones que le impone esta L
 
 Los daños y perjuicios que se ocasionaren al concurso por culpa o negligencia del Síndico en el ejercicio de sus funciones, serán a cargo de éste en beneficio de los acreedores, procediéndose a retener la garantía que haya dado sin perjuicio de que se ejercite, por quienes corresponda, la acción o acciones procedentes a fin de asegurar debidamente los intereses del concurso, independientemente de la acción penal en que hubiere incurrido en fraude de acreedores. A este efecto, la garantía respectiva no será cancelada sino cuando hubiere concluido totalmente el procedimiento, aun cuando el Síndico hubiere renunciado o sido removido. Cuando hubiere habido dos o más síndicos, la garantía que cada uno hubiere otorgado responderá en su respectivo ejercicio.
 
-### CAPITULO IV. Del Instituto de Ciencias Forenses y de los Médicos Auxiliares
-
-> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+### CAPITULO III. De los Peritos
 
 ###### Artículo 95.
 
@@ -1552,9 +1752,9 @@ Asimismo, será causa de remoción del Interventor, no dar aviso oportuno al Jue
 
 Los Albaceas, Tutores, Curadores, Depositarios, así como Interventores diversos a los de concurso, ya sean provisionales o definitivos, designados por los Jueces, deberán llenar todos los requisitos establecidos en este título para los Síndicos, en aquello que sea compatible con su carácter y función.
 
-### CAPITULO I. De las Costas
+### CAPITULO IV. Del Instituto de Ciencias Forenses y de los Médicos Auxiliares
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 101.
 
@@ -1586,9 +1786,11 @@ Los honorarios de los Peritos designados por el Juez, serán cubiertos de acuerd
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE JULIO DE 2012)</small>
 
-### CAPITULO II. De los Aranceles
+### CAPITULO I. De las Costas
 
-### CAPITULO I. Del Archivo Judicial del Distrito Federal y del Registro Público de Avisos Judiciales
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+
+### CAPITULO II. De los Aranceles
 
 ###### Artículo 107.
 
@@ -1860,9 +2062,7 @@ A los auxiliares de la administración de justicia a que se refiere este título
 
 ## TITULO SEPTIMO. De las Costas y de los Aranceles
 
-### CAPITULO II. De la Dirección General de los Anales de Jurisprudencia y Boletín Judicial
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+### CAPITULO I. Del Archivo Judicial del Distrito Federal y del Registro Público de Avisos Judiciales
 
 ###### Artículo 126.
 
@@ -1972,7 +2172,7 @@ Si en un juicio civil o mercantil hubiere condenación en costas y los escritos 
 
 Los abogados que intervengan en juicios civiles o mercantiles por derecho propio, cobrarán las costas que fija el presente arancel, aun cuando no sean patrocinados por otro abogado.
 
-### CAPITULO III. De la Unidad de Trabajo Social, del Servicio de Informática y Biblioteca y del Centro de Convivencia Familiar Supervisada
+### CAPITULO II. De la Dirección General de los Anales de Jurisprudencia y Boletín Judicial
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2088,7 +2288,7 @@ Para regular la cuota anterior, se atenderá a la importancia del negocio, a las
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO IV. De la Dirección General de Procedimientos Judiciales
+### CAPITULO III. De la Unidad de Trabajo Social, del Servicio de Informática y Biblioteca y del Centro de Convivencia Familiar Supervisada
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2210,9 +2410,9 @@ Se llevará un registro histórico de los avisos publicados, para facilitar la i
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO V. De la Dirección de Consignaciones Civiles y de la Oficialía de Partes Común para los Juzgados
+### CAPITULO IV. De la Dirección General de Procedimientos Judiciales
 
-> <small>(REFORMADO G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Articulo 161.
 
@@ -2248,9 +2448,9 @@ Queda a cargo de la propia Dirección la publicación de las resoluciones que se
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes
+### CAPITULO V. De la Dirección de Consignaciones Civiles y de la Oficialía de Partes Común para los Juzgados
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 167.
 
@@ -2284,9 +2484,9 @@ Para ser Director del Centro de Convivencia Familiar deberá reunir los requisit
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO VII. Del Instituto de Estudios Judiciales
+### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 170.
 
@@ -2324,9 +2524,9 @@ La Oficialía permanecerá abierta durante las horas hábiles a que se refiere e
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO VIII. De la Oficialía Mayor
+### CAPITULO VII. Del Instituto de Estudios Judiciales
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 172.
 
@@ -2350,9 +2550,9 @@ Para los Juzgados del Ramo Civil, de Extinción de Dominio y Familiares, se cont
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-### CAPITULO IX. De la Dirección Jurídica
+### CAPITULO VIII. De la Oficialía Mayor
 
-> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 174.
 
@@ -2376,7 +2576,7 @@ El Director deberá reunir los requisitos señalados en el artículo 17 de esta 
 
 La Dirección estará en servicio en los días y horarios que señalen las reglas de turno de los jueces penales.
 
-### CAPITULO X. De la Coordinación de Relaciones Institucionales
+### CAPITULO IX. De la Dirección Jurídica
 
 > <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2418,7 +2618,7 @@ El Instituto de Estudios Judiciales llevará a cabo cursos de preparación para 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO XI. De la Dirección de Orientación Ciudadana y Derechos Humanos
+### CAPITULO X. De la Coordinación de Relaciones Institucionales
 
 > <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2466,11 +2666,17 @@ Las demás que le confiera el Pleno del Consejo de la Judicatura del Distrito Fe
 
 La instrumentación de esas Direcciones Generales de la Oficialía Mayor será congruente con las disponibilidades presupuestales del Tribunal y con las atribuciones y responsabilidades que se les confieran en el Reglamento Interior del mismo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+Asimismo, y en apoyo de la función jurisdiccional, la Oficialía Mayor tendrá a su cargo la administración, supervisión y control de las Unidades de Gestión Administrativa, la Central de Comunicaciones Procesales y las Unidades de Apoyo Tecnológico, propondrá al Consejo las políticas, lineamientos y criterios a los que dichas áreas deberán de sujetarse.
+
 La Oficialía Mayor estará a cargo de un servidor público que se denominará Oficial Mayor. Para desempeñar dicho cargo, se deben cumplir los requisitos establecidos por las fracciones I, II, IV, y V del artículo 16 de esta Ley. Además contar con título profesional a nivel de licenciatura y acreditar una experiencia mínima de diez años en áreas o actividades afines al desempeño del cargo.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO XII. De la Coordinación de Comunicación Social
+### CAPITULO XI. De la Dirección de Orientación Ciudadana y Derechos Humanos
 
 > <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2484,9 +2690,9 @@ La Dirección Jurídica contará con un Director y los demás servidores públic
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO XIII. Del Centro de Justicia Alternativa
+### CAPITULO XII. De la Coordinación de Comunicación Social
 
-> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 184.
 
@@ -2498,9 +2704,9 @@ El Coordinador de Relaciones Institucionales deberá cumplir con los requisitos 
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO XIII. Del Centro de Justicia Alternativa
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
 
 ###### Artículo 185.
 
@@ -2516,7 +2722,7 @@ El Director deberá cumplir con los requisitos del artículo 17 de esta ley, sal
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO I. Denominación, Objeto, Integración y Funcionamiento
+### CAPITULO UNICO
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2536,9 +2742,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE ENERO DE 2008)</small>
 
-### CAPITULO II. Facultades y Obligaciones del Consejo de la Judicatura del Distrito Federal
+### CAPITULO I. Denominación, Objeto, Integración y Funcionamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 186 Bis.
 
@@ -2652,9 +2858,7 @@ El Director General, los Directores y Subdirectores de Mediación del Centro de 
 
 ## TITULO NOVENO. De la Carrera Judicial
 
-### CAPITULO UNICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO II. Facultades y Obligaciones del Consejo de la Judicatura del Distrito Federal
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -2676,19 +2880,71 @@ I. Pasante de Derecho;
 
 II. Secretario Actuario;
 
-III. Secretario Proyectista de Juzgado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Secretario Conciliador;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
 
-V. Secretario de Acuerdos de Juzgado;
+III. Oficial Notificador;
 
-VI. Secretario de Acuerdos de Sala;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Secretario Proyectista de Sala;
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
 
-VIII. Juez, y
+IV. Secretario Proyectista de Juzgado;
 
-IX. Magistrado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+V. Secretario Conciliador;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+VI. Secretario Judicial de Juzgado de Proceso Oral en materia Familiar;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+VII. Secretario de Acuerdos de Juzgado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+VIII. Secretario Auxiliar de Juzgado de Proceso Oral en materia Familiar;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+IX. Secretario Auxiliar de Sala;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+X. Secretario de Acuerdos de Sala;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+XI. Secretario Proyectista de Sala;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+XII. Juez; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2014)</small>
+
+XIII. Magistrado.
 
 ###### Artículo 189.
 
@@ -2766,9 +3022,9 @@ VI. Aquellos elementos que presente el evaluado por escrito.
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 195.
 
@@ -2852,9 +3108,11 @@ La ejecución de las resoluciones deberá realizarse por conducto de los órgano
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
-### CAPITULO I. De las Responsabilidades de los Servidores Públicos de la Administración de Justicia
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 201.
 
@@ -3032,7 +3290,7 @@ XIV. Las demás que determinen las leyes y el reglamento interior del Consejo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO II. De las Faltas
+### CAPITULO I. De las Responsabilidades de los Servidores Públicos de la Administración de Justicia
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3102,11 +3360,9 @@ El Consejo de la Judicatura del Distrito Federal, podrá ordenar la realización
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
+### CAPITULO II. De las Faltas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 208.
 
@@ -3132,9 +3388,11 @@ Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasar
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO IV. Del Recurso de Revisión Administrativa
+### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 210.
 
@@ -3292,7 +3550,7 @@ La declaración de responsabilidad por faltas producirá el efecto de impedir al
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO IV. Del Recurso de Revisión Administrativa
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3540,7 +3798,23 @@ VI. No hacer del conocimiento del titular del órgano al que pertenezcan, las fa
 
 VII. No remitir al archivo oportunamente los expedientes cuya remisión sea forzosa, conforme a la ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+
+###### Artículo 226 Bis.
+
+Los Secretarios Judiciales, así como los Secretarios Auxiliares de Juzgado de Proceso Oral en materia Familiar incurrirán en faltas, si cometen alguna acción que pueda encuadrarse en cualquiera de los supuestos señalados en las fracciones II, III, IV, V, VI, y IX del artículo 224 y en el artículo 224 bis de esta Ley.
+
+Por su parte, las faltas de los Oficiales Notificadores se sujetarán a lo dispuesto en el artículo 225 de esta Ley.
+
+Los servidores públicos adscritos a la Unidad de Gestión Administrativa, a la Unidad de Apoyo Tecnológico y a la Central de Comunicaciones Procesales, cometerán falta si incurren en alguno de los supuestos previstos en las fracciones I, VI, VII y VIII del artículo 224; de la fracción III del artículo 224 bis; de las fracciones II y III del artículo 225; así como los supuestos establecidos en el artículo 226 de la presente Ley.
+
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 227.
 
@@ -3983,3 +4257,33 @@ G.O. 13 DE MARZO DE 2014.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JUNIO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 24, 26 Y 33 DE LA LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal el presente Decreto.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación.
+
+TERCERO.- Los jueces y magistrados que a la fecha de entrada en vigor cuenten con la edad de sesenta y cinco años o más, serán invitados a optar por la separación de sus cargos mediante jubilación, en los términos y condiciones previstos en el texto del artículo 26 que se reforma.
+
+CUARTO.- Las disposiciones contempladas para la elección del cargo del Presidente del Tribunal Superior de Justicia del Distrito Federal, aplicarán sólo a partir del siguiente periodo de elección, mismo que tendrá verificativo en el mes de noviembre del año 2015, para entrar en funciones el 1 de enero del año 2016.
+
+QUINTO.- Los cargos dentro del Consejo de la Judicatura que se encuentren como vacantes definitivas a la fecha de entrada en vigor del Decreto, tendrán que ser designados de inmediato por la Autoridad que corresponda según lo establece el artículo 83 del Estatuto de Gobierno del Distrito Federal, en relación con lo que señala el artículo 24 de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, en un plazo no mayor a treinta días hábiles contados a partir de la publicación de las presentes reformas.
+
+SEXTO.- Se derogan todas las disposiciones contrarias a las presentes reformas.
+
+G.O. 9 DE JUNIO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 19; EL PRIMER PÁRRAFO DEL ARTÍCULO 22; EL PRIMER PÁRRAFO Y SUS FRACCIONES I Y II DEL ARTÍCULO 56; LAS FRACCIONES III, IV, V, VI, VII, VIII Y IX DEL ARTÍCULO 188; Y SE ADICIONA UN CAPÍTULO III BIS "DEL PROCESO ORAL EN MATERIA FAMILIAR" Y LOS ARTÍCULOS 63 BIS, 63 TER, 63 QUÁTER, 63 QUINTUS, 63 SEXTUS, 63 SÉPTIMUS Y 63 OCTAVUS; UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES Y UN QUINTO PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTICULO 76; UN VIGÉSIMO SEGUNDO PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 182; LAS FRACCIONES X, XI, XII Y XIII DEL ARTÍCULO 188; Y EL ARTÍCULO 226 BIS DE LA LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL.
+
+Artículo Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+Artículo Segundo.- El presente decreto entrará en vigor a los treinta días hábiles siguientes de su publicación en la Gaceta Oficial del Distrito Federal, por lo que se refiere a los procedimientos o juicios de rectificación de acta, adopción nacional, acciones derivadas de la filiación, juicio especial de levantamiento de acta por reasignación para la concordancia sexo-genérica, pérdida de la patria potestad de menores acogidos por una institución pública o privada de asistencia social, interdicción contenciosa y nulidad de matrimonio.
+
+Artículo Tercero.- Las reformas y adiciones a la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, entrarán en vigor a los treinta días hábiles siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Cuarto.- Los demás procedimientos previstos en el artículo 1019 del Código de Procedimientos Civiles, entrarán en vigor a los trescientos sesenta y cinco días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Quinto.- Por lo que hace a los juicios del orden familiar en trámite, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente Decreto hasta su total conclusión.
