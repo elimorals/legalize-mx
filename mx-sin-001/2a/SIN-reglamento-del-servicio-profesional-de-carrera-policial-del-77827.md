@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-servicio-profesional-de-carrera-policial-del-778
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-17"
-last_updated: "2010-12-17"
+last_updated: "2014-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "SIN"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL MUNICIPIO DE AHOME, SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL MUNICIPIO DE AHOME, PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 17 de diciembre de 2010.
 
@@ -1314,3 +1316,27 @@ PRESIDENTE MUNICIPAL.
 LIC. BETHOVEN PACHECO GUTIERREZ.
 
 SECRETARIO DEL AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JUNIO DE 2014.
+
+PRIMERO. El presente Reglamento, entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga el Decreto Municipal No. 110 publicado en el Órgano Oficial del Gobierno del Estado con fecha 17 de diciembre del 2010.
+
+TERCERO. El Servicio Profesional de Carrera Policial, se establecerá gradualmente para su operación. La migración hacia el Servicio del personal operativo en activo contemplado para efectos del presente Reglamento, se dará desde el momento en que éste último inicie su vigencia y de acuerdo a la suficiencia presupuestal correspondiente.
+
+CUARTO. Para cumplir con la función del Servicio Profesional de Carrera se integrará y se instalará la Comisión del Servicio Profesional de Carrera Policial y de Honor y Justicia de la Dirección General de Seguridad Pública y Tránsito Municipal de Ahome, en un término no mayor de sesenta días naturales, a partir de la Publicación del Reglamento en el Periódico Oficial "El Estado de Sinaloa".
+
+QUINTO. De manera progresiva y en un plazo de dos años a partir de la entrada en vigor de este Reglamento se deberán practicar las evaluaciones periódicas a sus integrantes y cumplirán con todos los requisitos que demanda el Modelo Policial, especificados en la Ley General del Sistema Nacional de Seguridad Pública.
+
+SEXTO. Todo el personal en activo dentro del servicio profesional de carrera policial, se dispondrá un período dé migración de un año para que los elementos de la Institución Policial cubran con los siguientes criterios:
+
+1. Que tengan las evaluaciones de control de confianza;
+
+2. Que tengan la equivalencia a la formación inicial y;
+
+3. Que cubran con el perfil de puesto con relación a la re nivelación académica.
+
+De tal manera que una vez concluido el plazo, los elementos que no cubran con alguno de estos criterios quedaran fuera de la institución policial.
