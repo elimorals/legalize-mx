@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2014-06-02"
+last_updated: "2014-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -2001,7 +2001,7 @@ M BIS 1.- Será base de este Impuesto:
 
 I.- En los de juegos con apuestas, el monto total de las apuestas, y en los sorteos y las actividades a que se refiere el artículo 212-M de la presente Ley, el monto total del valor de la emisión, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
-II.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+Il.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
 III.- En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
@@ -2189,11 +2189,11 @@ XV.- El tiempo extraordinario dentro de los márgenes señalados en la Ley Feder
 
 Para que los conceptos mencionados en este articulo, se les excluya del objeto del Impuesto a que se refiere este Capítulo, deberán estar debidamente identificados y registrados en la Contabilidad del Contribuyente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2014)</small>
 
 ###### Artículo 218 Bis.
 
-Se otorga un estimulo fiscal consistente en una reducción de cien porciento (sic) en el pago del impuesto a personas físicas y morales que realicen aportaciones en efectivo, no onerosas, ni remunerativas, equivalentes al impuesto causado en el periodo, a instituciones de asistencia privada autorizadas por la Secretaría de Hacienda y cuyo objeto, preponderantemente, sea brindar apoyos económicos bajo un esquema de aportaciones paritarias con fines específicos a organizaciones e instituciones de la sociedad civil que proporcionen, gratuitamente, servicios de asistencia social a la población del Estado con niveles mayores de marginación económica y social.
+Se otorga un estímulo fiscal consistente en una reducción de cien por ciento en el pago del impuesto a personas físicas y morales que realicen aportaciones en efectivo, no onerosas, ni remunerativas, equivalentes al impuesto causado en el periodo, a instituciones de asistencia privada autorizadas por la Secretaría de Hacienda y cuyo objeto, preponderantemente, sea brindar apoyos económicos bajo un esquema de aportaciones paritarias con fines específicos a organizaciones e instituciones de la sociedad civil que proporcionen, gratuitamente, servicios de asistencia social a la población del Estado con niveles mayores de marginación económica y social. Dicho estímulo fiscal también deberá ser otorgado, reducido en un cincuenta por ciento, a personas físicas y morales por concepto de remuneración al trabajo personal prestado por adultos mayores.
 
 > <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
@@ -2657,7 +2657,7 @@ II.- Para servicios públicos, las personas que con ellos sean beneficiados.
 
 El poseedor será sujeto de la contribución, cuando el predio no tenga propietario, cuando el propietario no este definido o cuando el propietario se obligue a transmitir el dominio del inmueble, dando desde luego su posesión.
 
-Si el predio esta afectado en fideicomiso, recaudará y enterará la contribución la (sic) Institución Fiduciaria, con cargo al propietario del predio beneficiado.
+Si el predio esta afectado en fideicomiso, recaudará y enterará la contribución (sic) la Institución Fiduciaria, con cargo al propietario del predio beneficiado.
 
 Cuando sean personas distintas al propietario de la tierra.
 
@@ -3187,7 +3187,7 @@ El importe de las contribuciones que señala el Artículo anterior se entregará
 
 I.- Lo señalado en la fracción I al Centro de Investigación Pecuario del Estado de Sonora, A.C.;
 
-II.- Lo señalado en la fracción II, a la comisión Mixta de Control de Pizcadores de algodón de los distritos de Riego del Rió Mayo, del Rió Yaqui, del Valle de Guaymas, de la Costa de Hermosillo, Altar y Pitiquito-Caborca; y
+II.- Lo señalado en la fracción II, a la comisión Mixta de Control de Pizcadores de algodón de los distritos de Riego del Río Mayo, del Río Yaqui, del Valle de Guaymas, de la Costa de Hermosillo, Altar y Pitiquito-Caborca; y
 
 III.- Lo señalado en la fracción III, a los Comités locales de Caminos Vecinales a que alude el Decreto de 23 de Enero de 1975;
 
@@ -4043,7 +4043,9 @@ VII.- Por suscripción anual por correo dentro del país. N$ 1,300.00
 
 VIII.- Por Boletín Oficial que se adquiera en fecha Posterior a su publicación hasta una antigüedad de 30 años. $37.00
 
-Tratándose de publicaciones de convenios autorización de fraccionamientos habitacionales se aplicará la cuota correspondiente reducida en un 75%.
+Tratándose de publicaciones de convenios autorización de fraccionamientos
+
+habitacionales se aplicará la cuota correspondiente reducida en un 75%.
 
 > <small>(REFORMADO, B.O. 9 DE ENERO DE 2014)</small>
 
@@ -7018,3 +7020,9 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría deberá expedir (sic) elaborar el Programa de Seguro del Desempleo y las disposiciones reglamentarias derivadas del presente Decreto en los siguientes 30 días siguientes a la entrada en vigor del mismo.
+
+B.O. 9 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
