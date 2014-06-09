@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-59499
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-31"
-last_updated: "2013-04-29"
+last_updated: "2014-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ABRIL DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -137,11 +135,7 @@ XI.- Ordenar la detención o la retención de los indiciados, de conformidad a l
 
 XII.- Conceder la libertad provisional previa al indiciado, en los términos que prevé la Constitución Política de los Estados Unidos Mexicanos y consignada la averiguación previa, remitir la garantía y constancias relativas a la Autoridad Judicial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
-
-XIII.- Solicitar el arraigo, en los casos y circunstancias que prevé el Código de Procedimientos Penales para el Estado;
+XIII.- (DEROGADA, P.O. 9 DE JUNIO DE 2014)
 
 XIV.- Recibir para su debida guarda o custodia los valores, documentos y otros bienes con los que se haya garantizado la libertad provisional, la reparación del daño, multa o cualquier otra obligación a cargo del probable responsable y en su caso remitirlos a la Autoridad Judicial;
 
@@ -245,9 +239,9 @@ II.- Solicitar las medidas cautelares que procedan;
 
 III.- Solicitar a la Autoridad Judicial la expedición de orden de cateo para la captura del inculpado, en contra de quien se haya librado orden de aprehensión o para la búsqueda de objetos;
 
-IV.- Solicitar bajo su más estricta responsabilidad a la Autoridad Judicial, el arraigo del procesado, cuando no deba ser internado en prisión preventiva y existan motivos suficientes para temer que se sustraiga de la acción de la justicia;
+IV.- (DEROGADA, P.O. 9 DE JUNIO DE 2014)
 
-V.- Solicitar bajo su más estricta responsabilidad a la Autoridad Judicial, el arraigo de testigos, cuando hubiere la necesidad o el temor fundado de que se ausenten antes de que se les pueda declarar;
+V.- (DEROGADA, P.O. 9 DE JUNIO DE 2014)
 
 VI.- Solicitar al juez la negativa de la libertad caucional del inculpado, aún cuando se trate de delito no grave, en los casos que prevé la Constitución Política de los Estados Unidos Mexicanos y el Código de Procedimientos Penales para el Estado, cuando no haya sido solicitada al ejercitarse la acción penal;
 
@@ -2280,3 +2274,11 @@ P.O. 15 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Gírese el oficio señalado en el considerando Quinto del presente Decreto.
+
+TERCERO. Envíese copia certificada de este Decreto a la Suprema Corte de Justicia de la Nación.
