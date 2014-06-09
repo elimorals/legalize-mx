@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2014-01-09"
+last_updated: "2014-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -131,9 +131,17 @@ b).- Expresar su opinión libremente, conocer sus derechos y participar en el á
 
 c).- Recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo que los involucre;
 
-d).- Recibir el apoyo del gobierno estatal y de los municipales, de acuerdo a sus respectivas competencias, en lo relativo al ejercicio y respeto de sus derechos, a través de las instituciones preestablecidas o las creadas para tal efecto; y
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2014)</small>
 
-e).- Contar con asesoría jurídica gratuita y con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar.
+d).- Recibir el apoyo del gobierno estatal y de los municipales, de acuerdo a sus respectivas competencias, en lo relativo al ejercicio y respeto de sus derechos, a través de las instituciones preestablecidas o las creadas para tal efecto;
+
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2014)</small>
+
+e).- Contar con asesoría jurídica gratuita y con un representante legal, cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar; y
+
+> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
+
+f).- Contar con un descuento del 50% en todas las contribuciones y derechos a favor del Estado, y un descuento del 100% sobre recargos.
 
 III.- A la salud y alimentación, que comprende:
 
@@ -259,9 +267,17 @@ VIII.- Propiciar formas de organización y participación de los adultos mayores
 
 IX.- Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a los adultos mayores y garantizar la asistencia social para todos aquellos que por sus circunstancias requieran de protección especial por parte de las instituciones públicas y privadas;
 
-X.- Involucrar a los adultos mayores en alguna actividad productiva de manera permanente, para así ser útiles a la sociedad y a sí mismos, incrementando de esta manera su autoestima, preservando su potencialidad; y
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2014)</small>
 
-XI.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
+X.- Involucrar a los adultos mayores en alguna actividad productiva, de manera permanente, para así ser útiles a la sociedad y a sí mismos, incrementando de esta manera su autoestima, preservando su potencialidad;
+
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2014)</small>
+
+XI.- Fomentar y facilitar la creación de empresas, organizaciones que tengan como objetivo el mejoramiento social de los adultos mayores, o que sus empleados sean en su mayoría adultos mayores, mediante el descuento y asesoría gratuita de los procesos y permisos necesarios para lograr sus objetivos establecidos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 9 DE JUNIO DE 2014)</small>
+
+XII.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -307,9 +323,17 @@ VI.- Impulsar el otorgamiento de reconocimientos y estímulos a las personas fí
 
 VII.- Coordinar las acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar sus derechos;
 
-VIII.- Difundir los contenidos, programas y servicios establecidos en la presente ley y demás disposiciones; y
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2014)</small>
 
-IX.- Las demás que le confieran otros ordenamientos jurídicos.
+VIII.- Impulsar el otorgamiento de reconocimientos y estímulos a las personas morales que estén conformadas en su mayoría por adultos mayores.
+
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2014)</small>
+
+IX.- Difundir los contenidos, programas y servicios establecidos en la presente ley y demás disposiciones; y
+
+> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2014)</small>
+
+X.- Las demás que le confieran otros ordenamientos jurídicos.
 
 ###### ARTÍCULO 14.
 
@@ -871,7 +895,7 @@ Para ser Procurador de la Defensa del Adulto Mayor se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos; y
 
-II. Poseer título de licenciado en derecho debidamente registrado, con cédula profesional y tres años mínimo de ejercicio profesional; (sic)
+II. Poseer título de licenciado en derecho debidamente registrado, con cédula profesional y tres años mínimo de ejercicio profesional;
 
 > <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
 
@@ -966,3 +990,9 @@ EL Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del
 ###### ARTÍCULO TERCERO.
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, conforme a su presupuesto y con cargo a él, ejercerá las acciones que resulten necesarias para la asignación del personal y presupuesto para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
+
+B.O. 9 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
