@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-regular-el-otorgamiento-y-ejercicio-del-10146"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-01-15"
-last_updated: "1993-01-15"
+last_updated: "2014-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO PARA REGULAR EL OTORGAMIENTO Y EJERCICIO DEL PERIODO SABATICO PARA LOS TRABAJADORES EDUCATIVOS AL SERVICIO DEL ESTADO DE MEXICO
 
-REGLAMENTO PARA REGULAR EL OTORGAMIENTO Y EJERCICIO DEL PERIODO SABATICO PARA LOS TRABAJADORES EDUCATIVOS AL SERVICIO DEL ESTADO DE MEXICO
+REGLAMENTO PARA REGULAR EL OTORGAMIENTO Y EJERCICIO DEL PERÍODO SABÁTICO PARA LOS TRABAJADORES EDUCATIVOS AL SERVICIO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO PARA EL OTORGAMIENTO DEL PERÍODO SABÁTICO DE LOS DOCENTES DEL SUBSISTEMA EDUCATIVO ESTATAL, PUBLICADO EN LA G.G. DE 10 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de enero de 1993.
 
@@ -398,3 +400,13 @@ LIC. HUMBERTO LIRA MORA
 EL SECRETARIO DE EDUCACION CULTURA Y BIENESTAR SOCIAL
 
 LIC. JAIME ALMAZAN DELGADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE JUNIO DE 2014.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento que Regula el Otorgamiento y Ejercicio del Periodo Sabático para los Trabajadores Educativos al Servicio del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 15 de enero de 1993.
