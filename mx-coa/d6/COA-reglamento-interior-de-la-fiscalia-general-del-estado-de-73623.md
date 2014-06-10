@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-fiscalia-general-del-estado-de-73623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-12"
-last_updated: "2012-04-08"
+last_updated: "2014-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 11 DEL CONGRESO DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. 8 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el jueves 12 de noviembre de 2009.
 
@@ -4376,3 +4376,13 @@ SEXTO.- Todas las disposiciones contenidas en esta ley que se relacionen con el 
 SÉPTIMO.- La organización y funcionamiento del Centro de Evaluación y Control de Confianza previsto en la fracción II del artículo 8 y 284 del Artículo Primero del presente decreto, se regulará por las disposiciones que para tal efecto se emitan en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente.
 
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2014.
+
+PRIMERO.- El presente reglamento entrará en vigor a los 15 días naturales posteriores a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Fiscalía General del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado, en fecha 12 de noviembre de 2009.
+
+TERCERO.- Todas las disposiciones contenidas en este reglamento que se relacionen con el Sistema de Justicia Penal Acusatorio Adversarial, tendrán aplicación una vez que éste se implemente en los diversos Distritos Judiciales del Estado, de acuerdo al orden de gradualidad que determine el Consejo de la Judicatura del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
