@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2011-04-07"
+last_updated: "2014-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ABRIL DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 10 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS TREINTA DÍAS POSTERIORES A LOS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE JUNIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -40,7 +42,7 @@ DECRETA
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE ABRIL DE 2011)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES Y PADRÓN DE PROVEEDORES
 
@@ -306,7 +308,7 @@ Las dependencias, órganos desconcentrados, delegaciones y entidades de la Admin
 
 En lo no previsto por esta Ley, serán aplicables el Código Civil para el Distrito Federal y el Código de Procedimientos Civiles para el Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 13.
 
@@ -330,7 +332,7 @@ Los actos, contratos y convenios que se realicen en contravención a lo dispuest
 
 En los contratos y convenios que celebren las dependencias, órganos desconcentrados, delegaciones y entidades fuera del territorio nacional, la aplicación de esta Ley será sin perjuicio de lo dispuesto por la legislación del lugar donde se formalice el acto y de los tratados.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE ABRIL DE 2011)</small>
 
 ### Capítulo II. Del Padrón de Proveedores
 
@@ -426,7 +428,7 @@ II. Los objetivos, metas, actividades institucionales y previsiones de recursos 
 
 La planeación de las adquisiciones, arrendamientos y prestación de servicios tendrá como objetivo impulsar en forma preferente, en igualdad de circunstancias, a la micro, pequeña y mediana empresas como proveedores, arrendadores y prestadores de servicios y dentro de éstas, a las empresas locales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 16.
 
@@ -502,7 +504,7 @@ DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
 ### Capítulo I. Del Comité de Adquisiciones, Arrendamiento y prestación de Servicios
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 20.
 
@@ -580,7 +582,7 @@ Los Subcomités de las dependencias, órganos desconcentrados y entidades tendr�
 
 La Contraloría participará como asesor en los Subcomités de las dependencias, órganos desconcentrados y entidades, siempre fundando y motivando el sentido de sus opiniones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 22.
 
@@ -704,7 +706,7 @@ Podrá negarse la participación a extranjeros en licitaciones internacionales, 
 
 (DEROGADO, G.O. 11 DE JULIO DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 32.
 
@@ -742,7 +744,7 @@ X.- En el caso de arrendamiento, la indicación de si éste es con o sin opción
 
 XI.- Nombre y cargo del servidor público responsable de la licitación pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 33.
 
@@ -868,13 +870,21 @@ II. Cuando la omisión del requisito en la revisión cuantitativa se encuentre i
 
 La convocante deberá fundar y motivar la toma de decisión de no proceder a la descalificación.
 
-> <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 37.
 
-Las dependencias, órganos desconcentrados, delegaciones y entidades, podrán modificar los aspectos establecidos en la convocatoria y las bases de licitación, siempre que no implique la sustitución, variación o disminución de los bienes o servicios requeridos originalmente, las que podrán realizarse desde la publicación de la convocatoria y hasta la junta de aclaración a las bases, en cuyo caso se deberá seguir el siguiente procedimiento:
+Las dependencia (sic), órganos desconcentrados, delegaciones y entidades, podrán modificar los aspectos establecidos en la convocatoria y las bases de licitación, siempre que no implique la sustitución, variación o disminución de los bienes o servicios requeridos originalmente, con excepción de los casos a los que se refiere el artículo 44 de esta ley.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2014)</small>
+
+Las modificaciones podrán realizarse desde la publicación de la convocatoria y hasta la junta de aclaraciones a las bases, en cuyo caso se deberá seguir el siguiente procedimiento:
+
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
 I. Tratándose de modificaciones a la convocatoria, hacerse del conocimiento de las personas que hayan adquirido las bases, mediante notificación personal; y
+
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
 II. En el caso de modificaciones a las bases de la licitación, no será necesaria notificación personal, si las modificaciones derivan de la junta de aclaración y se entrega copia del acta respectiva a cada uno de los participantes que hayan adquirido las bases de la licitación, debiendo notificar personalmente a aquellos que habiendo adquirido bases, no asistieren a dicha junta.
 
@@ -884,7 +894,7 @@ II. En el caso de modificaciones a las bases de la licitación, no será necesar
 
 En las licitaciones públicas, la entrega de propuestas se hará por escrito en un sobre cerrado de manera inviolable, que contendrá la documentación legal y administrativa, propuesta técnica y económica incluyendo la garantía de formalidad de las ofertas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 39.
 
@@ -996,7 +1006,7 @@ En todos los casos las dependencias, órganos desconcentrados, delegaciones y en
 
 ### Capítulo IV. Del Procedimiento de Contratación de Adquisiciones, Arrendamientos y Prestación de Servicios
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 43.
 
@@ -1026,7 +1036,9 @@ I.- En la primera etapa de presentación y apertura de la propuesta, los licitan
 
 La documentación de carácter devolutivo como las garantías de la formalidad de las propuestas, las pruebas de laboratorio y/o las muestras presentadas en el acto de presentación y apertura de la propuesta, serán devueltas por la dependencia, órgano desconcentrado, delegación o entidad; transcurridos quince días hábiles contados a partir de la fecha en que se dé a conocer el fallo de la licitación, previa solicitud por escrito.
 
-Todos los participantes rubricarán las propuestas presentadas y quedarán en custodia de la convocante para salvaguardar su confidencialidad, procediendo posteriormente al análisis cualitativo de dichas propuestas, mismo que mediante dictamen será dado a conocer en el acto del fallo.
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2014)</small>
+
+Todos los licitantes rubricaran las propuestas presentadas y quedaran en custodia de la convocante para salvaguardar su confidencialidad, procediendo posteriormente al análisis cualitativo de dichas propuestas, mismo que mediante dictamen será dado a conocer en el acto del fallo.
 
 El dictamen comprenderá el análisis detallado de lo siguiente:
 
@@ -1038,13 +1050,13 @@ c) Propuesta económica.
 
 En el dictamen deberá establecerse si los rubros antes citados cubren con los requisitos solicitados en las bases, al igual que las especificaciones requeridas por la convocante, respecto de los bienes y servicios objeto de la licitación, para determinar si las propuestas cumplen con lo solicitado.
 
-> <small>(REFORMADA, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JUNIO DE 2014)</small>
 
-II.- En la segunda etapa, en junta pública la convocante comunicará el resultado del dictamen, el cual deberá estar debidamente fundado y motivado, se señalarán detalladamente las propuestas que fueron desechadas y las que no resultaron aceptadas, indicándose, en su caso, las que hayan cumplido con la totalidad de los requisitos legales y administrativos, técnicos y económicos, así como el nombre del participante que ofertó las mejores condiciones y el precio más bajo por los bienes o servicios objeto de la licitación, dando a conocer el importe respectivo.
+II. En la segunda etapa, en junta pública la convocante comunicara el resultado del dictamen, el cual deberá estar debidamente fundado y motivado, señalándose detalladamente las causas por las cuales fueron desechadas las propuestas y las que no resultaron aceptadas, indicándose, en su caso, las que hayan cumplido con la totalidad de los requisitos legales y administrativos, técnicos y económicos, así como el nombre del licitante que oferta las mejores condiciones y el precio más bajo por lo bienes o servicios objeto de la licitación, dando a conocer el importe respectivo.
 
-> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2014)</small>
 
-Se comunicará a los participantes que en ese mismo acto, podrán ofertar un precio más bajo por los bienes o servicios objeto de la licitación o invitación restringida, en beneficio del área convocante, con la finalidad de resultar adjudicados, respecto de la propuesta que originalmente haya resultado más benéfica para el área convocante, lo cual podrán efectuar, siempre y cuando, en el acto se encuentre presente la persona que cuente con poderes de representación de la persona física o moral licitante, lo que deberá ser acreditado en el mismo acto.
+Se comunicara a los licitantes que en ese mismo acto, podrán ofertar un precio más bajo por los bienes o servicios objeto de la licitación o invitación restringida, en beneficio del área convocante, con la finalidad de resultar adjudicados, respecto de la propuesta que originalmente haya resultado más benéfica para el área convocante, lo cual podrán efectuar siempre y cuando, en el acto se encuentre presente la persona que cuente con poderes de representación de la persona física o moral licitante, lo que deberá ser acreditado en el mismo acto.
 
 > <small>(ADICIONADO, G.O. 17 DE MAYO DE 2004)</small>
 
@@ -1054,17 +1066,17 @@ Los participantes estarán en posibilidades de proponer precios más bajos en di
 
 Si como resultado de la evaluación a las propuestas a que se refiere el párrafo anterior, existieran dos o más propuestas en igualdad de precio, la convocante aplicará los siguientes criterios para el desempate:
 
-> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2014)</small>
 
-a) Se adjudicará al participante que hubiere ofrecido mejores condiciones en su propuesta, adicionales a las mismas establecidas en las bases, con relación a los bienes, arrendamientos o servicios a contratar;
+a) Se adjudicara al licitante que hubiere ofrecido mejores condiciones en su propuesta, adicionales a las mismas establecidas en las bases, con relación a los bienes, arrendamientos o servicios a contratar;
 
 > <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
 
 b) Se adjudicará proporcionalmente en partes iguales, a las propuestas que reúnan las mismas condiciones y en igualdad de precio.
 
-> <small>(ADICIONADO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2014)</small>
 
-Una vez determinado el participante que haya ofertado el precio más bajo por los bienes o servicios requeridos, y como consecuencia haya resultado adjudicado, se levantará acta entregándose copia fotostática a cada uno de los asistentes y se notificará personalmente a los que no hubieren asistido.
+Una vez determinado el licitante que haya ofertado el precio más bajo por lo bienes o servicios requeridos, y como consecuencia haya resultado adjudicado, se levantara acta entregándose copia fotostática a cada uno de los asistentes y se notificara personalmente a los que no hubieren asistido.
 
 > <small>(ADICIONADO, G.O. 17 DE MAYO DE 2004)</small>
 
@@ -1098,7 +1110,9 @@ En este caso la convocante deberá recibir las propuestas originales y se absten
 
 El formato deberá reflejar la cantidad de bienes o servicios, precio unitario, monto total con y sin impuestos, originalmente propuestos, y las nuevas cantidades ajustadas de estos conceptos;
 
-c) Fallo hasta antes de su emisión, la convocante deberá proporcionar el formato y conceder un plazo no mayor a tres días para su presentación, sólo a aquellos participantes que hubieren cumplido con los requisitos legales, técnicos y económicos, y se abstendrá de realizar el mejoramiento de precios, debiendo señalar hora y fecha para la presentación del formato y continuación del acto.
+> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2014)</small>
+
+c) Fallo hasta antes de su emisión, la convocante deberá proporcionar el formato y conceder un plazo no mayor a tres días para su presentación, solo aquellos licitantes que hubieren cumplido con los requisitos legales, técnicos y económicos, y se abstendrá de realizar el mejoramiento de precios, debiendo señalar hora y fecha para la presentación del formato y continuación del acto.
 
 ###### ARTICULO 45.
 
@@ -1140,7 +1154,7 @@ Para determinar que los precios ofertados no resultan convenientes, la convocant
 
 Una vez que se declare desierta la licitación o alguna de sus partidas, la convocante procederá conforme a lo previsto por el artículo 54, fracción IV de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE ENERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE ENERO DE 2010)</small>
 
 ### Capítulo V. De las excepciones a la Licitación Pública
 
@@ -1158,7 +1172,7 @@ La facultad preferente que las dependencias, órganos desconcentrados, delegacio
 
 Los titulares de las dependencias, órganos desconcentrados, delegaciones y entidades, a más tardar dentro de los primeros diez días naturales de cada mes, enviarán un informe a la Secretaría, una copia a la Contraloría y otra a la Oficialía, en el que se referirán las operaciones autorizadas de conformidad con los artículos 54 y 55 de la Ley, realizadas en el mes calendario inmediato anterior, acompañando copia de las actas de los casos que hayan sido dictaminados al amparo del artículo 54 por el Comité o Subcomité correspondiente. Asimismo, las entidades enviarán además a su Órgano de Gobierno, el informe señalado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 54.
 
@@ -1260,7 +1274,7 @@ En cualquier supuesto se invitará principalmente a las personas cuyas actividad
 
 Para los efectos de la última parte del párrafo anterior, la Administración Pública del Distrito Federal, sus dependencias, órganos desconcentrados, entidades y delegaciones deberán optar por una sociedad cooperativa capaz de generar bien o proveer el servicio de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 55.
 
@@ -1350,7 +1364,7 @@ Los particulares podrán subcontratar para el proceso o elaboración de los bien
 
 En todos los casos que se permita la subcontratación, el proveedor adjudicado será el responsable del cumplimiento del contrato. El pago de las adquisiciones, arrendamientos y servicios contratados se realizará al proveedor adjudicado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 62.
 
@@ -1392,7 +1406,7 @@ Tratándose de pagos en exceso que haya recibido el proveedor, éste deberá rei
 
 Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales desde la fecha del pago, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia, órgano desconcentrado, delegación y entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 65.
 
@@ -1428,7 +1442,7 @@ Cualquier modificación a los contratos deberá constar por escrito, los instrum
 
 Las dependencias, órganos desconcentrados, delegaciones y entidades se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar mejores condiciones para el proveedor comparadas con las establecidas originalmente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 69.
 
@@ -1498,7 +1512,7 @@ La Secretaría podrá autorizar previa solicitud de las dependencias, órganos d
 
 Las garantías que deban otorgarse conforme a esta Ley por contratos que se celebren con las dependencias, órganos desconcentrados, y delegaciones, se constituirán a favor de la Secretaría cuando se trate de contratos que se celebren con las entidades, las garantías se constituirán a favor de éstas, de conformidad con el libro segundo, título cuarto del Código Financiero del Distrito Federal, mismas garantías que se otorgarán en la firma del contrato respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE MAYO DE 2004)</small>
 
 ARTICULO 75 bis.- Para efectos del artículo 73, las garantías de sostenimiento de la propuesta, la de cumplimiento de contrato y anticipo podrán presentarse mediante:
 
@@ -1741,3 +1755,9 @@ Primero: El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo: En el ejercicio fiscal 2011, las dependencias, órganos desconcentrados, delegaciones y entidades publicarán en la Gaceta Oficial del Distrito Federal, a más tardar el 31 de marzo, sus programas anuales de Adquisiciones, Arrendamientos y Prestación de Servicios a que se refiere el artículo 19 de la ley.
 
 Tercero: Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE JUNIO DE 2014.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrara en vigor a los treinta días posteriores a los de su publicación en la Gaceta Oficial del Distrito Federal.
