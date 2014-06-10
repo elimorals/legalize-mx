@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2014-05-22"
+last_updated: "2014-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -446,6 +446,10 @@ IX.- Cubrir las demás aportaciones que según las leyes de la materia correspon
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
 X.- Cuando fueren condenadas en virtud de laudo ejecutorio, cubrir las indemnizaciones por despido injustificado, cuando los trabajadores afectados hayan optado por esta solución o, en su caso, reinstalar a los trabajadores en los puestos de los cuales hubieren sido separados injustamente, y cubrir los salarios caídos conforme a los (sic) dispuesto en el artículo 59 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2014)</small>
+
+X BIS.- Tratándose de ayuntamientos, respecto de los laudos firmes que se hayan originado con motivo del despido o cese injustificado de un trabajador, y éste se haya generado durante su gestión, deberán acatarlo antes de concluir el periodo para el que fueron electos; en caso de no hacerlo, serán responsables en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
 
 XI.- Guardar hacia los trabajadores el debido respeto y consideración;
 
@@ -1749,7 +1753,7 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 25 DE FEBRERO DE 2014.
 
-DECRETO NO. 516 POR EL QUE SE ADICIONA PÁRRAFOS SEGUNDO Y TERCERO AL ARTICULO 141, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
+DECRETO NO. 516 POR EL QUE SE ADICIONA PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 141, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1757,7 +1761,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE FEBRERO DE 2014.
 
-DECRETO NO. 517 POR EL QUE SE REFORMAN LOS ARTÍCULOS, 140, Y 176 EN SU FRACCIÓN I, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
+DECRETO NO. 517 POR EL QUE SE REFORMAN LOS ARTÍCULOS, 140, Y 176 EN SU FRACCIÓN I, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1780,3 +1784,9 @@ P.O. 22 DE MAYO DE 2014.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
