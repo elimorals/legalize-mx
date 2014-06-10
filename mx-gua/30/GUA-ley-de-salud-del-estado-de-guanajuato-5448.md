@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2013-06-07"
+last_updated: "2014-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2014.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -1577,57 +1577,55 @@ El Gobierno del Estado y los Ayuntamientos proveerán la creación de establecim
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 140.
 
-El Organismo público descentralizado denominado Sistema para el Desarrollo Integral de la familia, podrá reconocer como instituciones de asistencia privada a las personas morales cuyo objeto sea la prestación de servicios asistenciales, y autorizar su funcionamiento en los términos de esta Ley y de la Ley sobre el Sistema Estatal de Asistencia Social.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
 
 ###### ARTICULO 141.
 
 (DEROGADO, P.O. 19 DE NOVIEMBRE DE 1993)
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 142.
 
-Se crea la Junta Estatal de Asistencia Privada como órgano dependiente del Sistema Estatal para el Desarrollo Integral de la Familia, por conducto del cual se ejercerá la promoción, evaluación y vigilancia de las Instituciones de Asistencia Privada.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
 
-La integración de la Junta, su funcionamiento y facultades, serán determinadas por el reglamento correspondiente.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 143.
 
-Serán consideradas instituciones de Asistencia Privada, las personas morales que sin propósito de lucro y sin designar individualmente a sus beneficiarios, se constituyan conforme a las leyes aplicables y sean reconocidas por el Sistema para el Desarrollo Integral de la Familia, al tenor de lo dispuesto por esta Ley y la Ley sobre el Sistema Estatal de Asistencia Social.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
 
 ###### ARTICULO 144.
 
 (DEROGADO, P.O. 19 DE NOVIEMBRE DE 1993)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 145.
 
-El organismo a que se refiere el Artículo 137 de esta Ley, vigilará y promoverá la creación de Instituciones de Asistencia Privada, estableciendo al efecto los mecanismos de coordinación necesarios.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 146.
 
-Las Instituciones de Asistencia Privada se consideran de interés público y por tanto quedan sujetas a la normatividad que sobre ellas establezca la legislación fiscal.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 147.
 
-La organización y funcionamiento de las Instituciones de Asistencia Privada, se regirán en los términos de sus estatutos, esta Ley; y la de Asistencia Social.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 148.
 
-Los servicios y acciones que presten y realicen las Instituciones de Asistencia Privada, se sujetarán a las disposiciones de esta Ley; a la Ley de Asistencia Social, a los programas Nacional y Estatal de salud y a las demás disposiciones legales aplicables.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172, P.O. 10 DE JUNIO DE 2014)
 
 ###### ARTICULO 149.
 
@@ -3078,3 +3076,17 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 10 DE JUNIO DE 2014.
+
+## N. DE E. TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 172.
+
+Inicio de vigencia del Decreto de derogación
+
+Artículo Único. El Decreto de derogación de diversos artículos de la Ley de Salud del Estado de Guanajuato, iniciará su vigencia a los ciento veinte días al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+## N. DE E. TRANSITORIO DEL DECRETO NÚMERO 172.
+
+Inicio de vigencia del Decreto
+
+Artículo Único. El presente Decreto iniciará su vigencia a los ciento veinte días al de su publicación en el Periódico Oficial del Gobierno del Estado.
