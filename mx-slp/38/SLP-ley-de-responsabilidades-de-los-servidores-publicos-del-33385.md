@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2014-04-15"
+last_updated: "2014-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -697,9 +697,13 @@ El último período de inhabilitación previsto en el artículo anterior tambié
 
 Las facultades para imponer las sanciones correspondientes a las responsabilidades administrativas en que incurran los servidores públicos, prescriben en los siguientes plazos:
 
-I. En un año si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo mensual vigente en el Estado, y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
 
-II. En tres años, en los demás casos.
+I. En tres años si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo mensual vigente en el Estado, y
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
+
+II. En diez años, en los demás casos.
 
 > <small>(F. DE E., P.O. 18 DE AGOSTO DE 2003)</small>
 
@@ -1130,3 +1134,9 @@ P.O. 15 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
