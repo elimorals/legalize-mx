@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-13-2007-del-pleno-del-consejo-de-la-55448"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-05-14"
-last_updated: "2010-07-09"
+last_updated: "2014-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2007-03-28"
 ---
 # ACUERDO GENERAL 13/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PJF]
 
-ACUERDO GENERAL 13/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
+ACUERDO GENERAL 13/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO, SUPERVISIÓN Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 14/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, ASÍ COMO LA DESIGNACIÓN, SUPERVISIÓN Y RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS QUE LAS INTEGRAN, PUBLICADO EN EL D.O.F. DE 11 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2007.
 
@@ -157,7 +159,7 @@ a) Fecha y hora de presentación;
 
 b) Número de registro consecutivo que corresponda;
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISIÓN Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 18 DE ABRIL DE 2008)</small>
 
 c) Número del folio del comprobante o contraseña que se otorga en el supuesto del artículo 7 de este Acuerdo;
 
@@ -187,7 +189,7 @@ o) El asunto o asuntos con el cual el sistema de turno relaciona.
 
 Cuando por algún motivo se interrumpa el sistema computarizado, el registro y turno de los asuntos se realizará de manera manual, como se establece en el artículo siguiente, entregándose una boleta de turno provisional con la firma del jefe de la oficina de correspondencia común que se canjeará por la que emita el sistema una vez que se restablezca.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 48/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 8 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 48/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISIÓN Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 8 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 9.
 
@@ -281,9 +283,9 @@ Registro y turno de asuntos relacionados.
 
 ###### ARTICULO 17.
 
-(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISIÓN Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 18 DE ABRIL DE 2008)
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISIÓN Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 18.
 
@@ -291,7 +293,7 @@ Cuando un juzgado de Distrito devuelva una consignación por omisiones, y una ve
 
 Exclusión de turno del órgano jurisdiccional señalado como autoridad responsable.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISIÓN Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 19.
 
@@ -333,7 +335,7 @@ En caso de error en la captura de los asuntos, el jefe de cada oficina de corres
 
 Casos urgentes.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 14/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 24.
 
@@ -345,7 +347,7 @@ Los oficios y promociones que se dirijan a los juzgados de Distrito de procesos 
 
 Informe de asuntos recibidos.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISIÓN Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 25.
 
@@ -411,17 +413,17 @@ SEXTO.- Los conflictos de turno que se encuentren en trámite ante la Comisión 
 
 Asimismo, en el caso de que a la entrada en vigor de este acuerdo el titular de un órgano jurisdiccional haya declinado el turno y se llegue a originar el conflicto, el mismo será resuelto en los términos del párrafo anterior.
 
-SEPTIMO.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)
+SEPTIMO.- (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISIÓN Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 18 DE ABRIL DE 2008)
 
 OCTAVO.- Las auditorías a las oficinas de correspondencia común llevadas a cabo por la Contraloría del Poder Judicial de la Federación y que se encuentren en trámite a la entrada en vigor del presente acuerdo, deberán ser concluidas por parte de ese Organo Interno de Control.
 
 NOVENO.- El personal adscrito a la Contraloría del Poder Judicial de la Federación que a la entrada en vigor de este acuerdo esté asignado para realizar auditorías a las oficinas de correspondencia común, deberá ser transferido a la Dirección General de Estadística y Planeación Judicial, una vez que se concluyan aquéllas que se encuentren en trámite.
 
-DECIMO.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISION Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 18 DE ABRIL DE 2008)
+DECIMO.- (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL 13/2007, QUE REGULA EL FUNCIONAMIENTO, SUPERVISIÓN Y CONTROL DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 18 DE ABRIL DE 2008)
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 13/2007, del Pleno del Consejo de la Judicatura Federal, que Regula el Funcionamiento, Supervisión y Control de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, fue aprobado por el Pleno del Propio Consejo, en sesión de veintiocho de marzo de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a veintisiete de abril de dos mil siete.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 30 DE NOVIEMBRE DE 2007.
 
@@ -456,3 +458,31 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 13/2007, del Pleno del Consejo de la Judicatura Federal, que Regula el Funcionamiento, Supervisión y Control de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación.
+
+D.O.F. 11 DE JULIO DE 2014.
+
+PRIMERO. Este acuerdo entrará en vigor el uno de julio de dos mil catorce.
+
+SEGUNDO. Se abroga el Acuerdo General 13/2007 del Pleno del Consejo de la Judicatura Federal y las demás disposiciones que se opongan al presente acuerdo.
+
+El turno de los asuntos en los Juzgados de Distrito en Materia Administrativa en el Distrito Federal continuará realizándose conforme a lo previsto en el Acuerdo General 74/2000 del Pleno del Consejo de la Judicatura Federal en lo que resulte aplicable.
+
+TERCERO. Lo dispuesto en el artículo 7 del presente acuerdo continuará vigente hasta en tanto el propio Consejo establezca alguna otra forma de distribución y turno de los asuntos competencia de los Juzgados de Distrito de Procesos Penales Federales en el Distrito Federal.
+
+La oficina de correspondencia común de los referidos juzgados continuará con el calendario que a la fecha observa a fin de no interrumpir el servicio.
+
+CUARTO. A la entrada en vigor del presente acuerdo, el buzón judicial instalado en la ciudad de Tepic, Nayarit, que presta servicio a la Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en el Estado de Nayarit, con sede en El Rincón, funcionará en el horario autorizado de las dieciocho horas con un minuto a las veinticuatro horas en días hábiles para la recepción de asuntos no urgentes.
+
+QUINTO. La Dirección General de Estadística Judicial y el Instituto de la Judicatura Federal contarán con un plazo de seis meses, a partir de la publicación en el Diario Oficial de la Federación del presente Acuerdo, para el lanzamiento de la primera convocatoria pública a que se refiere el artículo 45 del presente ordenamiento.
+
+En tanto se cuenta con una reserva de personas derivado de las convocatorias que se realicen y a fin de garantizar la operación continua de las unidades administrativas, los titulares de los órganos jurisdiccionales propondrán a la Dirección General de Estadística Judicial candidatos que reúnan los requisitos para ocupar las vacantes y ausencias del personal que ocurran en las oficinas de correspondencia común en las diversas residencias.
+
+SEXTO. La aplicación del sistema de movilidad periódica de los jefes de las oficinas de correspondencia común a que se refiere el artículo 44 del presente ordenamiento, comenzará a partir del dos de enero de dos mil quince, de conformidad con el protocolo que al efecto emitirá la Dirección General de Estadística Judicial, previa autorización de la Comisión de Administración.
+
+SÉPTIMO. La Dirección General de Estadística Judicial presentará ante la Comisión de Administración la solicitud de incremento en el número y condiciones laborales del personal de las oficinas de correspondencia común, así como la ampliación de la plantilla laboral, mobiliario y equipo de la propia Dirección General a fin de que cuente con los elementos materiales y humanos suficientes que le permitan gestionar de forma eficiente las incidencias del personal de las citadas oficinas en todo el país, su debida supervisión y la implementación de las convocatorias públicas, de conformidad con las funciones previstas en el presente ordenamiento.
+
+En la solicitud de ampliación de la plantilla laboral la Dirección General de Estadística Judicial contemplará una reserva de personal disponible para su traslado inmediato a diversos puntos del país, a fin de atender las eventualidades que ocurran por vacantes y ausencias en el servicio que no puedan ser cubiertas en el corto plazo. Dicho personal colaborará, además, en las tareas de capacitación y vigilancia en las referidas unidades administrativas.
+
+OCTAVO. Las consultas de turno que se encuentren radicadas y en trámite ante la Comisión de Creación de Nuevos Órganos a la fecha de entrada en vigor de este acuerdo, se resolverán conforme a las reglas establecidas en el artículo 9 del Acuerdo General 13/2007, en el Acuerdo General 48/2008 y en los lineamientos emitidos por el Pleno del Consejo de la Judicatura Federal.
+
+NOVENO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
