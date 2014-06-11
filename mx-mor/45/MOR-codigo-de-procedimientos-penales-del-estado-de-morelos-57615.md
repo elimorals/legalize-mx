@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2013-11-20"
+last_updated: "2014-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -3005,9 +3005,11 @@ Cuando dos o más agentes del Ministerio Público investiguen los mismos hechos 
 
 Cateo de recintos particulares.
 
-El cateo en recintos particulares, como domicilios, despachos, o establecimientos comerciales con acceso restringido, previa autorización judicial, se realizará personalmente por el Ministerio Público con el auxilio de la policía cuando se considere necesario o por el juez o fedatario judicial que éste designe cuando se trate de lo dispuesto por el artículo 154, párrafos segundo y tercero de este Código.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2014)</small>
 
-La autorización judicial no será necesaria cuando el propietario o encargado del recinto particular consintiere el ingreso de la autoridad en forma expresa, para lo cual se levantará una acta en forma previa; salvo que se trate de un recinto en posesión del imputado, sus familiares o concubino.
+El cateo en recintos particulares, como domicilios, despachos, o establecimientos comerciales con acceso restringido, previa autorización judicial se realizará personalmente por el Ministerio Público con el auxilio de la policía, cuando se considere necesario o por el Juez o Fedatario Judicial que éste designa cuando se trate de lo dispuesto por el artículo 154, párrafos segundo y tercero de este Código.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE JUNIO DE 2014)</small>
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2009)</small>
 
@@ -5428,3 +5430,13 @@ Remítase el presente Decreto al Gobernador Constitucional del Estado, para los 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 11 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
