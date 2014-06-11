@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-penales-para-el-estado-de-94226"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2013-11-11"
+last_updated: "2014-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULOS PRIMERO Y QUINTO TRANSITORIOS DEL DECRETO NÚMERO 331 PUBLICADO EN LA SEGUNDA SECCIÓN DEL P.O. DE 20 DE MAYO DE 2013, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO DE LA DECLARATORIA Y PRIMERO TRANSITORIO DEL DECRETO NO. 63 DEL P.O. DE 11 DE JUNIO DE 2014, POR EL QUE SE APRUEBA LA INCORPORACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL RÉGIMEN JURÍDICO LOCAL Y DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE AGUASCALIENTES, ASÍ COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS EL SIETE DE SEPTIEMBRE DE DOS MIL CATORCE PARA EL INICIO DE VIGENCIA DEL REFERIDO CÓDIGO, POR LO QUE QUEDARÁN DEROGADOS, DE MANERA PROGRESIVA Y GRADUAL, LOS PRECEPTOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES, CON LA SALVEDAD DE LOS PROCEDIMIENTOS QUE SE ESTÉN TRAMITANDO CON BASE EN SUS DISPOSICIONES, EN CUYO CASO SE SEGUIRÁN APLICANDO HASTA SU RESOLUCIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2657,43 +2659,15 @@ Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el
 
 ###### ARTÍCULO TERCERO.
 
-La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-I. El 16 de junio de 2014 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-II. El 5 de enero de 2015 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
-
-III. El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-IV. El 1º de junio de 2015 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-V. El 4 de enero de 2016 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de la totalidad de hechos punibles;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-VI. El 4 de enero de 2016 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-VII. El 18 de junio de 2016, en el primer, segundo, cuarto y quinto partidos judiciales con sede en Aguascalientes, Calvillo, Rincón de Romos y Jesús María, respecto de la totalidad de hechos punibles.
-
-Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
+(DEROGADO, P.O. 11 DE JUNIO DE 2014)
 
 ###### ARTÍCULO CUARTO.
 
-Las disposiciones del Código de Procedimientos Penales contenido en el Artículo Tercero del presente Decreto, se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y partidos judiciales en que de manera progresiva entre en vigencia el sistema procesal penal acusatorio, de acuerdo a lo dispuesto en el Artículo Segundo Transitorio.
+(DEROGADO, P.O. 11 DE JUNIO DE 2014)
 
 ###### ARTÍCULO QUINTO.
 
-Quedarán derogados los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del presente Decreto de manera progresiva y gradual, conforme a la incorporación del sistema procesal penal acusatorio en términos del Artículo Tercero Transitorio, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
+(DEROGADO, P.O. 11 DE JUNIO DE 2014)
 
 ###### ARTÍCULO SEXTO.
 
@@ -2748,3 +2722,61 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO NÚMERO 63, POR EL QUE SE APRUEBA LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL RÉGIMEN JURÍDICO LOCAL Y DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE AGUASCALIENTES.</small>
+
+###### ARTÍCULO PRIMERO.
+
+Para los efectos señalados en el Artículo Segundo Transitorio del Decreto de reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el dieciocho de junio del dos mil ocho, se declara que el Sistema Procesal Penal Acusatorio ha sido incorporado al régimen jurídico del Estado de Aguascalientes, ordenándose su entrada en vigor de manera gradual, por partido judicial, de acuerdo con lo siguiente:
+
+I. El siete de noviembre del dos mil catorce, en el Tercer Partido Judicial con sede en el Municipio de Pabellón de Arteaga, para los delitos de querella y patrimoniales no violentos contemplados en el Código Penal para el Estado de Aguascalientes.
+
+II. El primero de mayo del dos mil quince, en el Tercer Partido Judicial con sede en el Municipio de Pabellón de Arteaga, para el resto de los delitos contemplados en el Código Penal para el Estado de Aguascalientes. En la misma fecha, en el Quinto Partido Judicial con sede en el Municipio de Jesús María, respecto de los delitos de querella y patrimoniales no violentos señalados en el citado ordenamiento.
+
+III. El seis de noviembre del dos mil quince, en el Quinto Partido Judicial con sede en el Municipio de Jesús María, para el resto de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
+
+IV. El veintisiete de mayo del dos mil dieciséis, en el Primero, Segundo y Cuarto Partidos Judiciales con sede en los Municipios de Aguascalientes, Calvillo y Rincón de Romos, respecto de la totalidad de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En cumplimiento a lo previsto en el Artículo Segundo Transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día cinco de marzo del dos mil catorce, se fija el siete de septiembre del dos mil catorce, para que surta efectos la Declaratoria de inicio de vigencia del referido Código Nacional, que será el que regulará la forma y términos en que se substanciarán los procedimientos penales en el Estado.
+
+El Código Nacional de Procedimientos Penales, entrará en vigor en la fecha y mediante las modalidades siguientes:
+
+I. El siete de noviembre del dos mil catorce en el Tercer Partido Judicial con sede en el Municipio de Pabellón de Arteaga, para los delitos de querella y patrimoniales no violentos contemplados en el Código Penal para el Estado de Aguascalientes.
+
+II. El primero de mayo del dos mil quince en el Tercer Partido Judicial con sede en el Municipio de Pabellón de Arteaga, para el resto de los delitos contemplados en el Código Penal para el Estado de Aguascalientes. En la misma fecha, en el Quinto Partido Judicial con sede en el Municipio de Jesús María, respecto de los delitos de querella y patrimoniales no violentos señalados en el citado ordenamiento.
+
+III. El seis de noviembre del dos mil quince en el Quinto Partido Judicial con sede en el Municipio de Jesús María, para el resto de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
+
+IV. El veintisiete de mayo del dos mil dieciséis en el Primero, Segundo y Cuarto Partidos Judiciales con sede en los Municipios de Aguascalientes, Calvillo y Rincón de Romos, respecto de la totalidad de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
+
+Quedarán derogados, de manera progresiva y gradual, los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del Decreto Número 331 publicado en el Periódico Oficial del Estado, el veinte de mayo del dos mil trece, esto conforme vaya iniciando su vigencia el Código Nacional de Procedimientos Penales en términos del presente Artículo, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Código de Procedimientos Penales para el Estado de Aguascalientes, contenido en el Artículo Tercero del Decreto Número 331 publicado en el Periódico Oficial del Estado, el veinte de mayo del dos mil trece.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan los Artículos Tercero, Cuarto y Quinto de las disposiciones transitorias contenidas en el Decreto Número 331, publicado en el Periódico Oficial del Estado, el veinte de mayo del año dos mil trece, así como el Decreto Número 409 publicado en el Periódico Oficial del Estado, el once de noviembre del dos mil trece.
+
+###### ARTÍCULO QUINTO.
+
+El Decreto Número 326, publicado en el Periódico Oficial del Estado, el veinticinco de marzo del dos mil trece, iniciará su vigencia en las mismas fechas en que lo haga el Código Nacional de Procedimientos Penales, salvo en materia de Justicia para Adolescentes, en cuyo caso, entrará en vigor el primero de junio del dos mil quince.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en esta Entidad Federativa, se regirán por las disposiciones vigentes al momento de su inicio.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, salvo su Artículo Segundo, el cual entrará en vigor el siete de septiembre del dos mil catorce, fecha en que se tendrá por emitida la Declaratoria de inicio de vigencia del Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase copia del presente Decreto a los Poderes Ejecutivo y Judicial del Estado, para su conocimiento y efectos a que haya lugar.
