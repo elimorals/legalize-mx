@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2011-04-06"
+last_updated: "2014-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE RESIDUOS SOLIDOS Y DE ECONOMIA CIRCULAR -- ANTES LEY DE RESIDUOS SOLIDOS -- PARA EL ESTADO DE MORELOS
 
-LEY DE RESIDUOS SOLIDOS PARA EL ESTADO DE MORELOS
+LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -37,7 +37,7 @@ LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELO
 
 CONSIDERANDO.
 
-.
+...
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -47,9 +47,11 @@ LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS.
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de observancia general en el Estado de Morelos, sus disposiciones son de orden público e interés social y tiene por objeto regular la generación, aprovechamiento y gestión integral de los residuos sólidos urbanos y de manejo especial, los peligrosos de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos; así como la prevención de la contaminación y la remediación de suelos contaminados con Residuos Sólidos urbanos y de manejo especial; a fin de propiciar el desarrollo sustentable en la Entidad.
+La presente Ley es de observancia general en el Estado de Morelos, sus disposiciones son de orden público e interés social y tiene por objeto garantizar el derecho de toda persona a un ambiente sano mediante la regulación, la generación, aprovechamiento y gestión integral de los residuos sólidos urbanos y de manejo especial, los peligrosos de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos; así como la prevención de la contaminación y la remediación de suelos contaminados con Residuos Sólidos urbanos y de manejo especial; a fin de propiciar el desarrollo sustentable en la Entidad.
 
 ###### ARTÍCULO 2.
 
@@ -1365,7 +1367,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE ABRIL DE 2011.
 
@@ -1376,3 +1378,13 @@ SEGUNDO. Aprobado que sea el presente decreto, túrnese al Titular del Poder Eje
 TERCERO. La Comisión Estatal de Agua y Medio Ambiente, contará con un plazo de tres meses contados a partir de la entrada en vigor del presente Decreto, a efecto de establecer en su Reglamento estándares tecnológicos que se deben reunir para considerar que las bolsas de plástico son consideradas como biodegradables con la participación de la comunidad científica, tecnológica académica el sector productivo, asociaciones civiles y organismos representativos.
 
 CUARTO. La (sic) Ejecutivo del Estado a través de la Comisión Estatal de Agua y Medio Ambiente deberá implementar una campaña permanente para dar a conocer a la ciudadanía en general, los derechos y obligaciones que se derivan por la entrada en vigor del presente decreto. Para tal fin, se deberá prever en el Presupuesto de Egresos una partida suficiente para poder llevar a cabo acciones de promoción y publicidad en medios electrónicos e impresos.
+
+P.O. 11 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Tierra y Libertad”, órgano de difusión de (sic) Gobierno del Estado de Morelos.
