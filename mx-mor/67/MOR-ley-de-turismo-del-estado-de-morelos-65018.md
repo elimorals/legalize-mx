@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2013-10-30"
+last_updated: "2014-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -259,23 +259,25 @@ XII. Reembolsar, bonificar o compensar la suma, correspondiente al servicio incu
 
 XIII. Contar con los formatos foliados y de porte pagado en el sistema de quejas de turistas, en los términos de la Norma Oficial Mexicana respectiva;
 
-XV (SIC). Brindar y garantizar al turista servicios de seguridad, información y auxilio turístico; y (sic)
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+XIV. Brindar y garantizar al turista servicios de seguridad, información y auxilio turístico;
 
-XVI. Participar en el manejo responsable de los recursos naturales, arqueológicos, históricos y culturales; estableciendo anuncios visibles en las zonas que por su naturaleza requieran de cuidado y manejo especial por parte de los turistas, lo anterior en términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+XV. Participar en el manejo responsable de los recursos naturales, arqueológicos, históricos y culturales; estableciendo anuncios visibles en las zonas que por su naturaleza requieran de cuidado y manejo especial por parte de los turistas, lo anterior en términos de las disposiciones jurídicas aplicables;
 
-XVII. Capacitar a su personal para prestar los servicios de primeros auxilios; además de Instrumentar mecanismos para su realización;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+XVI. Capacitar a su personal para prestar los servicios de primeros auxilios; además de Instrumentar mecanismos para su realización;
 
-XVIII. Cumplir con los ordenamientos y normas en materia de protección al medio ambiente, así como implementar los mecanismos para la separación y reciclado de productos de desecho; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+XVII. Cumplir con los ordenamientos y normas en materia de protección al medio ambiente, así como implementar los mecanismos para la separación y reciclado de productos de desecho; y
 
-XIX. Las demás que les señalen esta Ley, su Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+XVIII. Las demás que les señalen esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO III. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
 
@@ -305,9 +307,9 @@ III. Informar a las autoridades turísticas o a las que corresponda, sobre cualq
 
 IV. Preservar la limpieza del patrimonio turístico, así como de los caminos que conducen hacia ellos.
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
 
-V. No propiciar conductas que puedan ser ofensivas o discriminatorias contra cualquier persona o comunidad.
+V. No realizar ni inducir acciones que puedan ser ofensivas o discriminatorias en contra de la comunidad, sus integrantes o de sus tradiciones.
 
 ###### Artículo 12.
 
@@ -954,3 +956,43 @@ Artículo Segundo.- Aprobado el presente Decreto, el Titular del Poder Ejecutivo
 Artículo Tercero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Artículo Cuarto.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 11 DE JUNIO DE 2014.
+
+DECRETO NO. 1455 POR EL QUE SE RECORREN EL NÚMERO DE LAS FRACCIONES XV, XVI, XVII, XVIII Y XIX, PARA SER XIV, XV, XVI, XVII Y XVIII TODAS EN EL ARTÍCULO 9, DE LA LEY DE TURISMO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobado el presente Decreto, el Titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 11 DE JUNIO DE 2014.
+
+DECRETO NO. 1456 POR EL QUE SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 11, DE LA LEY DE TURISMO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobado el presente Decreto, el Titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto
