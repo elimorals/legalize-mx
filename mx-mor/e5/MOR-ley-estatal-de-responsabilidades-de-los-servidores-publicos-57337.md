@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2013-11-20"
+last_updated: "2014-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -67,9 +67,11 @@ Autoridad Sancionadora.- Es la persona investida de atribuciones de investigaci�
 
 Juicio Político.- La controversia y decisión legitima ante el Congreso del Estado, ejercida en materia política, en contra de funcionarios públicos, en razón del indebido ejercicio de sus atribuciones, que estas se encuentren debidamente establecidas en la Ley y que concluya con una resolución definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 3.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad, podrá formular queja o denuncia ante la autoridad sancionadora, en los términos de la presente Ley respecto de los actos u omisiones que realicen los servidores públicos que den origen a responsabilidad administrativa por el incumplimiento de sus obligaciones.
+Cualquier ciudadano bajo su más estricta responsabilidad, podrá formular queja o denuncia ante la autoridad que corresponda, en los términos de la presente Ley, respecto de la (sic) acciones u omisiones que realicen los Servidores Públicos que den origen a alguna de las responsabilidades contempladas en el Título Séptimo, de la Constitución Política del Estado Libre y Soberano de Morelos, denominado: De la Responsabilidad de los Servidores Públicos.
 
 Todo servidor público que por cualquier causa tenga conocimiento de actos u omisiones que pudieran derivar en responsabilidad política o administrativa por parte de otro servidor público, se encuentra obligado a poner en conocimiento inmediato de la autoridad sancionadora correspondiente dichos actos u omisiones, con el propósito de que se inicien las investigaciones procedentes y en su caso el procedimiento de responsabilidad previsto por esta Ley.
 
@@ -83,17 +85,23 @@ II. Lugar y fecha de la presentación del escrito.
 
 III. El nombre del quejoso o denunciante. En caso de que sean varios los quejosos o denunciantes deberán designar un representante común a quien se le harán las notificaciones que correspondan. Para el caso de que no se realice la designación del representante común, la autoridad tendrá como representante a cualquiera de ellos.
 
-IV. El nombre y cargo del o los servidores públicos a quienes se les imputan los hechos, en caso de que sean de su conocimiento o la manifestación bajo protesta de decir verdad que lo desconocen.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+IV. El nombre, domicilio oficial y cargo del o los servidores públicos a quienes se les imputan los hechos, en caso de que sean de su conocimiento, o la manifestación bajo protesta de decir verdad que los desconocen.
 
 V. Relación sucinta de los hechos materia de su queja o denuncia, señalando de manera precisa el acto imputado, así como las circunstancias en que se realizo, tales como: lugar, hora y fecha.
 
 VI. Señalar domicilio en el lugar donde se siga el procedimiento, para que se le notifique el primer acuerdo que recaiga sobre la queja o denuncia presentada y en su caso la resolución definitiva. En este caso, será notificado siempre y cuando los actos u omisiones que deriven en responsabilidad provoquen un detrimento en la esfera patrimonial del quejoso o denunciante.
 
-VII. En caso de que el quejoso o denunciante cuente con elementos de prueba, deberá adjuntarlos a la queja o denuncia. Tratándose de juicio político, la aportación de dichos elementos será esencial.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+VII. En caso de que el quejoso o denunciante cuente con elementos de prueba, deberá adjuntarlos a la queja o denuncia, relacionando el hecho que pretende acreditar con cada prueba. Tratándose de juicio político, la aportación de dichos elementos será esencial.
 
 VIII. Firma autógrafa del quejoso o denunciante.
 
-En caso de que el quejoso o denunciante comparezca personalmente ante la autoridad, esta deberá recibir su declaración, asentando en ella el lugar, fecha, hora, sus generales, así como una relación sucinta de los hechos motivo de la comparecencia. Dichos datos deberán cubrir en esencia, los requisitos enumerados en las fracciones anteriores.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+En caso de que el quejoso o denunciante comparezca personalmente ante la autoridad, esta deberá recibir su declaración, asentando en ella el lugar, fecha, hora, sus generales, así como una relación sucinta de los hechos, motivo de la comparecencia, señalando de manera precisa el acto imputado y las circunstancias de modo, tiempo y lugar en que se realizó. En este supuesto se deberán cubrir los requisitos enumerados en las fracciones anteriores.
 
 ###### ARTÍCULO 5.
 
@@ -193,7 +201,9 @@ El procedimiento será de estricto derecho, manteniendo en todo momento el princ
 
 El juicio político se desahogará conforme al siguiente procedimiento:
 
-I. La denuncia será presentada ante la Secretaría del Congreso del Estado y dentro del término de tres días hábiles siguientes a su presentación deberá ser ratificada, y en la siguiente sesión se dará cuenta al Pleno para su turno correspondiente;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+I. La denuncia será presentada ante la Secretaría de Servicios Legislativos y Parlamentarios del Congreso del Estado, dentro del término de tres días hábiles siguientes a su presentación, deberá ser ratificada ante la misma Secretaría, y en la siguiente Sesión se dará cuenta al Pleno para su turno correspondiente.
 
 II. Turnada que sea la denuncia con la documentación que le acompaña, la Junta Política y de Gobierno procederá a calificar lo siguiente:
 
@@ -201,7 +211,7 @@ a) Si el denunciante cumple con los requisitos establecidos en el artículo 4 de
 
 b) Si el denunciado es considerado sujeto de juicio político, conforme lo establece el artículo 8 de este ordenamiento;
 
-c) Si la conducta atribuida corresponde a las enumeradas en el artículo 10 de esta ley; y
+c) Si la conducta atribuida corresponde a las enumeradas en el artículo 10 de esta Ley; y
 
 d) Si las pruebas aportadas tienen relación con los hechos denunciados;
 
@@ -227,9 +237,11 @@ X. Concluido el plazo señalado para emitir la resolución en que se contengan l
 
 XI. En la sesión del Pleno, el Congreso erigido en Jurado de Declaración, oirá al acusado, a su defensor o a ambos si quisieren; la Secretaría, por instrucciones de la Presidencia, dará lectura a las conclusiones contenidas en el dictamen emitido por la Comisión Instructora, sometiéndolo por instrucciones de la Presidencia a discusión y votación, debiéndose resolver el asunto por mayoría calificada del número de los integrantes del congreso.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-Si la declaración del Congreso del Estado fuere absolutoria, el procedimiento se tendrá por concluido y el servidor público continuará en el ejercicio de su encargo; caso contrario permanecerá en el cargo hasta que se pronuncie en definitiva el jurado de sentencia del Poder Judicial. El Congreso, dentro del término del término (sic) de veinticuatro horas, remitirá la resolución de procedencia junto con las constancias procésales existentes al Tribunal Superior de Justicia del Estado, corriéndole traslado de las mismas al Procurador General de Justicia del Estado para los efectos de su representación social y se designará una comisión de tres diputados para que sostengan la resolución emitida ante el Tribunal superior de Justicia como coadyuvantes del ministerio público.
+Si la declaración del Congreso del Estado fuere absolutoria, el procedimiento se tendrá por concluido y el servidor público continuará en el ejercicio de su encargo; en el caso de que las conclusiones del Congreso fueran acusatorias, y siendo aprobadas por la mayoría calificada de sus integrantes, a partir de ese momento el servidor público denunciado quedará separado de su encargo, hasta que se pronuncie en definitiva el jurado de sentencia del Poder Judicial. El Congreso, dentro del término de veinticuatro horas, remitirá la resolución de procedencia junto con las constancias procesales existentes al Tribunal Superior de Justicia del Estado, corriéndole traslado de las mismas al Procurador General de Justicia del Estado, para los efectos de su representación social y se designará una Comisión de tres Diputados, entre los que deberá figurar el Presidente de la Comisión de Gobernación y Gran Jurado, para que sostengan la resolución emitida ante el Tribunal Superior de Justicia como coadyuvantes del Ministerio Público.
 
 ###### ARTÍCULO 18.
 
@@ -275,7 +287,9 @@ Las declaraciones y resoluciones definitivas del Congreso local y del Tribunal S
 
 Para proceder en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Auditor Superior Gubernamental, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, los Consejeros de la Judicatura Estatal, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística y los Presidentes Municipales y Síndicos por la comisión de delitos durante el tiempo de su encargo, por la probable responsabilidad penal en que hubieren incurrido, el Congreso del Estado, por mayoría absoluta de los diputados, deberá declarar la procedencia o improcedencia de acuerdo al siguiente procedimiento:
 
-I.- la solicitud será presentada ante la Secretaría del Congreso del Estado, y dentro del término de tres días hábiles siguientes a su presentación deberá ser ratificada, y en la siguiente sesión se dará cuenta al Pleno para su turno correspondiente;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+I.- La solicitud será presentada ante la Secretaría de Servicios Legislativos y Parlamentarios, y dentro del término de tres días hábiles siguientes a su presentación, deberá ser ratificada ante la misma Secretaría, y en la siguiente Sesión se dará cuenta al Pleno para su turno correspondiente;
 
 II.- Turnada que sea la solicitud con la documentación que le acompaña, la Junta Política y de Gobierno, procederá a calificar lo siguiente:
 
@@ -291,7 +305,7 @@ III.- Si la denuncia no reúne los requisitos previstos en la fracción anterior
 
 IV.- Si la denuncia reúne los requisitos señalados en la fracción II de este artículo, emitirá en el mismo término señalado en la fracción que antecede, dictamen fundado y motivado en el que declara que la solicitud amerita la incoacción del procedimiento y turnará el expediente a la Comisión de Gobernación y Gran Jurado, que actuará como Comisión instructora del procedimiento;
 
-V.- Una vez radicada la solicitud por la Comisión de Gobernación y Gran Jurado en su carácter de Comisión Instructora se notificará al funcionario de que se trate en los términos previstos por la fracción V del artículo 16 de la presente Ley, y le dará vista por el término de cinco días hábiles para que señale domicilio en la ciudad de Cuernavaca y manifieste lo que en derecho proceda;
+V.- Una vez radicada la solicitud por la Comisión de Gobernación y Gran Jurado en su carácter de Comisión Instructora, se notificará al funcionario de que se trate en los términos previstos por la fracción V del artículo 16 de la presente Ley, y le dará vista por el término de cinco días hábiles para que señale domicilio en la ciudad de Cuernavaca y manifieste lo que en derecho proceda;
 
 VI.- Concluido el plazo previsto por la fracción anterior, la Comisión Instructora procederá a dictaminar la solicitud presentada, conforme a los procedimientos establecidos en la Ley Orgánica y el Reglamento para el Congreso del Estado, además deberá remitir las constancias al Pleno del Congreso;
 
@@ -389,11 +403,19 @@ XXII. Abstenerse de autorizar jubilaciones, pensiones, haberes de retiro o liqui
 
 XXIII. Cumplir, en tiempo y forma, con aquellas disposiciones transitorias de leyes y decretos, que en virtud de su competencia deba llevar a cabo.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+XXIV. Cumplir con lo establecido en el último párrafo, del artículo 1°, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+XXV. Realizar el procedimiento establecido en la Ley de Entrega Recepción de la Administración Pública para el Estado de Morelos y sus Municipios, en los términos señalados en la misma, en caso de que el servidor público concluya su función, renuncie o por cualquier otra causa se separe de su empleo, cargo o comisión.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 28.
 
-Se consideran graves las infracciones o violaciones a los deberes establecidos por las fracciones II, III, IV, VIII, IX, X, XI, XII, XV y XVI a la XXIII del artículo anterior.
+Se consideran graves las infracciones o violaciones a los deberes establecidos por las fracciones II, III, IV, VIII, IX, X, XI, XII, XV Y XVI a XXIV del artículo anterior.
 
 ###### ARTÍCULO 29.
 
@@ -464,6 +486,10 @@ IV. Cuando se trate de infracciones a los deberes contenidos en las fracciones X
 V. En los casos previstos en las fracciones XVII a XXIII del artículo anterior y en general, cuando la conducta desplegada por el servidor público responsable se advierta que causa daños o perjuicios al servicio y al erario público, la sanción será de destitución o inhabilitación hasta por ocho años, debiéndose imponer la multa prevista en la fracción III del artículo anterior.
 
 VI. Cuando del resultado de la conducta del servidor público se desprende además que se pusieron en riesgo inminente o se afectaron significativamente los intereses jurídicos del Estado o los valores máximos que el Estado tutela a sus gobernados, como son la vida, la salud y su libertad, se impondrá como sanción la inhabilitación por doce años para ejercer el servicio público, debiéndose imponer también la multa prevista por la fracción III del artículo anterior.
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+VII. Cuando del resultado de la conducta del servidor público se desprenda cualquier práctica discriminatoria, se impondrá como sanción suspensión del cargo, empleo o comisión por nueve meses sin goce de sueldo o inhabilitación hasta por tres años para ejercer el servicio público.
 
 ### CAPÍTULO II. NOTIFICACIONES Y TÉRMINOS
 
@@ -607,7 +633,9 @@ En el supuesto que el servidor público suspendido temporalmente no resultare re
 
 El servidor público en contra de quien se instaure el procedimiento de responsabilidad administrativa, formulará su contestación a la queja o denuncia dentro del plazo de quince días hábiles, refiriéndose a cada uno de los hechos que se le imputan, admitiéndolos o negándolos, expresando los que ignore por no ser propios o refiriéndose como considere que ocurrieron. Cuando el probable responsable aduzca hechos o Derecho incompatibles con los señalados por el actor en la queja o denuncia, se tendrá por contestada en sentido negativo de éstos últimos. El silencio y las evasivas harán que se tengan por admitidos los hechos y el Derecho sobre los que no se suscitó controversia. La negación de los hechos no entraña la admisión del Derecho, salvo lo previsto en el párrafo siguiente.
 
-Se presumirán confesados los hechos de la queja o denuncia que se deje de contestar; sin embargo, se tendrá por contestada en sentido negativo en los casos en que el emplazamiento se hubiere hecho por edictos.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+La falta de contestación de la queja o denuncia presumirá la aceptación de los hechos, la cual para constituir prueba plena debe ser adminiculada con otros probatorios que la favorezcan; sin embargo, se tendrá por contestada en sentido negativo, en los casos en que el emplazamiento se hubiere hecho por edictos.
 
 ###### ARTÍCULO 49.
 
@@ -627,7 +655,9 @@ Si el denunciado quiere llamar a procedimiento a un tercero, deberá manifestarl
 
 El ofrecimiento de pruebas se realizará conjuntamente con la contestación de la queja o denuncia, salvo que se trate de pruebas supervenientes.
 
-Son admisibles como medios de prueba aquellos elementos que puedan producir convicción en el ánimo de la autoridad sancionadora acerca de los hechos controvertidos o dudosos, salvo la confesional, declaración de parte y aquellas contrarias al derecho, a la moral y a las buenas costumbres.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+Son admisibles como medios de prueba, aquellos elementos que puedan producir convicción en el ánimo de la autoridad sancionadora acerca de los hechos controvertidos o dudosos, salvo la confesional por posiciones, declaración de parte y aquellas contrarias a derecho, a la moral y a las buenas costumbres.
 
 ###### ARTÍCULO 53.
 
@@ -737,7 +767,9 @@ V. Las condiciones exteriores del servidor público, como el ambiente y medios l
 
 VI. Los medios de ejecución utilizados por el servidor público al momento de cometer la falta administrativa. Deberá considerarse si el servidor público actuó premeditada, intencional o dolosamente, así como el ánimo de su actuación; y
 
-VII. La reincidencia en el incumplimiento de las obligaciones impuestas por la función pública a todos los servidores públicos. Para este efecto deberán considerarse las sanciones administrativas, penales, sentencias civiles, laborales o de cualquier otra naturaleza, impuestas al servidor público en ejercicio de sus atribuciones y que hayan sido declaradas firmes por las autoridades competentes.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+VIII (SIC). La reincidencia en el incumplimiento de las obligaciones impuestas por la función pública a todos los servidores públicos. Para tal efecto, se considera que existe reincidencia cuando al servidor público de que se trate se le haya impuesto, por resolución firme de autoridad competente, otra sanción derivada de responsabilidad administrativa.
 
 ###### ARTÍCULO 66.
 
@@ -1010,3 +1042,29 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 11 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 1236, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS.
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo, con la finalidad de dar cumplimiento a lo dispuesto en el artículo 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- Publíquese en la página oficial de internet del Congreso del Estado.
+
+QUINTO.- Los procedimientos de responsabilidad administrativa que se encuentren en trámite, así como las causas que le den origen, deberán ajustarse a las reglas previstas por la legislación vigente al día de su inicio o incumplimiento, hasta su conclusión definitiva.
+
+P.O. 11 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 1445, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 16 Y 25 DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS.
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo con la finalidad de dar cumplimiento a lo dispuesto en el artículo 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- Publíquese en la página oficial de internet del Congreso del Estado.
