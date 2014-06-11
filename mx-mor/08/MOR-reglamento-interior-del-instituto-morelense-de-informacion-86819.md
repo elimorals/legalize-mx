@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-morelense-de-informacion-8681
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-21"
-last_updated: "2012-03-21"
+last_updated: "2014-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MORELENSE DE INFORMACIÓN PÚBLICA Y ESTADÍSTICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO MORELENSE DE INFORMACIÓN PÚBLICA Y ESTADÍSTICA, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 21 de marzo de 2012.
 
@@ -820,3 +822,23 @@ Lic. Saúl Chavelas Bahena
 Director General Jurídico
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JUNIO DE 2014.
+
+Artículo Primero. Se abroga el Reglamento Interior del Instituto Morelense de Información Pública y Estadística, aprobado en Sesión Extraordinaria del Pleno, correspondiente al dos de febrero de dos mil doce.
+
+Artículo Segundo. Se aprueba el presente Reglamento Interior del Instituto Morelense de Información Pública y Estadística.
+
+Artículo Tercero. El presente ordenamiento entrará en vigor a partir del día siguiente de su aprobación por el Pleno del Instituto Morelense de Información Pública y Estadística.
+
+Artículo Cuarto. La implementación del Capitulo Décimo cuarto del Título II "Del Órgano de Control Interno", se llevará a cabo una vez que el Instituto cuente con la suficiencia presupuestaria para ello, mientras tanto, el Pleno conocerá de los casos que se presenten al respecto y, en su caso, designará a la persona que deberá avocarse al desahogo del procedimiento respectivo, en términos de las directrices que se acuerden.
+
+Artículo Quinto. El Titular del Órgano de Control Interno, contará con 60 días naturales, contados a partir de que surta efectos su nombramiento emitido por el Pleno del Instituto, para presentar al Consejero Presidente la propuesta del Procedimiento Administrativo Interno Disciplinario.
+
+Artículo Sexto. La implementación del Capítulo Décimo quinto del Título II "Coordinación del Sistema Estatal de Estadísticas, Sondeos y Encuestas", se llevará a cabo una vez que el Instituto cuente con la suficiencia presupuestaria.
+
+Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+Artículo Octavo. Remítase el presente Reglamento al Titular del Poder Ejecutivo del Gobierno del Estado, para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
