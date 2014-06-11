@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-para-el-desarrollo-metropolitano-del-78657"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-19"
-last_updated: "2011-01-19"
+last_updated: "2014-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE COORDINACION PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
 
-LEY DE COORDINACION PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
+LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de enero de 2011.
 
@@ -173,7 +173,9 @@ VII. Opinar y formular propuestas para el establecimiento y la concertación de 
 
 VIII. Proponer la creación de órganos que coadyuven con las Zonas Metropolitanas cuando sea necesario;
 
-IX. Promover entre los sectores público, social y privado la coordinación de acciones para el desarrollo al interior de las (sic) Zona Metropolitana;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+IX. Promover entre los sectores público, social y privado la coordinación de acciones para el desarrollo integral de las zonas conurbadas y metropolitanas;
 
 X. Coordinar con los Municipios integrantes de las (sic) Zona Metropolitana los convenios, acuerdos y lineamientos, para la elaboración de los programas del desarrollo metropolitano;
 
@@ -440,3 +442,15 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JUNIO DE 2014.
+
+Primera.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Segunda.- En un plazo no mayor de 90 días, el Ejecutivo del Estado, deberá realizar las reformas pertinentes al Reglamento de la Ley de Coordinación para el Desarrollo Metropolitano del Estado de Morelos, en relación a las modificaciones realizadas.
+
+Tercera.- Se derogan todas las disposiciones legales de igual o menor rango jerárquico que se opongan al presente Decreto, para los efectos legales correspondientes.
+
+Cuarto.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
