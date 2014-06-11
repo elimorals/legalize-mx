@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2013-08-21"
+last_updated: "2014-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -141,7 +141,9 @@ No estarán dentro del ámbito de aplicación de esta Ley, los contratos que cel
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Secretaría: la Secretaría del ramo de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+I. Secretaría: La Secretaría de Obras Públicas;
 
 II. Contraloría: El órgano de control, inspección y supervisión de la Administración Pública Estatal o Municipal;
 
@@ -1314,3 +1316,13 @@ Segundo.- Se le otorga 90 días para que el ejecutivo del Estado actualice el Re
 Tercer (sic).- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto. Lo que hago de su conocimiento para los efectos legales y administrativos.
+
+P.O. 11 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
