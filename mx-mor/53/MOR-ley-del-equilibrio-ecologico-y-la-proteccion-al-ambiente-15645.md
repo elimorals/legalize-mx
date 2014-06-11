@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2013-08-21"
+last_updated: "2014-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -247,11 +247,9 @@ LII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, 
 
 LIII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
 
-LIV. La Comisión.- La Comisión Estatal de Agua y Medio Ambiente.
-
-En lo subsiguiente todas las disposiciones que refieran en la presente Ley a la "Secretaría" deberán decir la "Comisión"
+LIV. Secretaría: La Secretaría de Desarrollo Sustentable;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -595,7 +593,7 @@ III. Los lineamientos para su ejecución, evaluación, seguimiento y modificaci�
 
 Los programas de Ordenamiento Ecológico Territorial a nivel regional y local, deberán actualizarse cada tres años, publicarse en el Periódico Oficial "Tierra y Libertad" e integrarse al Sistema Estatal de Información Ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 24.
 
@@ -699,7 +697,7 @@ Las autoridades educativas estatales y federales con la colaboración de la Secr
 
 ###### ARTÍCULO 33.
 
-EI Gobierno Estatal y los Municipios, fomentarán investigaciones científicas y promoverán programas para el conocimiento de los recursos naturales con que cuenta la entidad, para propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, buscando el rescate y reconocimiento de los conocimientos tradicionales, para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar, abatir la contaminación, así como también la prevención y difusión de los efectos del cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+El Gobierno Estatal y los Municipios, fomentarán investigaciones científicas y promoverán programas para el conocimiento de los recursos naturales con que cuenta la entidad, para propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, buscando el rescate y reconocimiento de los conocimientos tradicionales, para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar, abatir la contaminación, así como también la prevención y difusión de los efectos del cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
 Además se apoyará la vinculación de estas instituciones y centros con los grupos organizados de los sectores social y privado a fin de que la investigación generada sea aplicada a necesidades concretas.
 
@@ -937,7 +935,7 @@ En todo caso, deberán observarse las disposiciones legales relativas a la confi
 
 El Gobierno Estatal y los Municipios deberán promover la participación corresponsable de la sociedad y comunidad estudiantil en la planeación, ejecución, evaluación y vigilancia de la política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, así como en las acciones y medidas tendientes al desarrollo sustentable de la entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 54.
 
@@ -1237,7 +1235,7 @@ VI. Proteger poblados, vías de comunicación, instalaciones industriales y apro
 
 VII. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacional y de los pueblos indígenas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1273,7 +1271,7 @@ I. Las zonas de preservación ecológica de los centros de población; y
 
 II. Los parques municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 83.
 
@@ -1313,7 +1311,7 @@ En los parques estatales sólo podrá permitirse la realización de actividades 
 
 Las zonas de preservación ecológica de los centros de población podrán integrarse por cualquier área de uso público en zonas urbanas, industriales o circunvecinas de los asentamientos humanos en los que existan ecosistemas en buen estado, que se destinen a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población de la localidad correspondiente. Los municipios deberán establecer las medidas de protección, administración y vigilancia que consideren pertinentes para lograr los objetivos por los que se someta al presente régimen de este tipo de áreas protegidas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 88.
 
@@ -1927,6 +1925,10 @@ La autoridad de salud respectiva realizará los análisis, estudios, investigaci
 
 La Secretaría, en coordinación con organismos públicos o privados, nacionales o internacionales, integrarán la información relacionada con este tipo de contaminación, así como de métodos y tecnología de control y tratamiento de la misma.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+La Secretaría de Desarrollo Sustentable y los Ayuntamientos del Estado, deberán prever acciones y objetivos específicos en sus respectivos Programas relacionados con el medio ambiente, sobre la prevención y control de la contaminación ocasionada por ruido.
+
 ###### ARTÍCULO 158.
 
 Los gobiernos municipales deberán incorporar, en sus bandos y reglamentos, disposiciones que regulen obras, actividades, procesos a fin de prevenir y controlar la contaminación por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores, y bajo su precepto se fijarán los límites de emisión respectivos.
@@ -2087,7 +2089,7 @@ Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en est
 
 ###### ARTÍCULO 176.
 
-Las violaciones a los preceptos de ésta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría o por los Ayuntamientos, cuando así proceda, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría o por los Ayuntamientos, cuando así proceda, con una o más de las siguientes sanciones:
 
 I. Multa, por el equivalente de tres a veinte mil días de salario mínimo general vigente en el Estado al momento de imponer la sanción;
 
@@ -2577,7 +2579,7 @@ JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE SEPTIEMBRE DE 2001.
 
@@ -2656,3 +2658,13 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Tierra y Libertad”, órgano de difusión de Gobierno del Estado de Morelos.
