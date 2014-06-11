@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2012-02-29"
+last_updated: "2014-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
-
-> <small>N. DE E. LAS FE DE ERRATAS PUBLICADAS EN EL P.O. EL 29 DE FEBRERO DE 2012 NO APLICAN AL ARTICULADO DE LOS DECRETOS NÚMEROS 1633 Y 1634 PUBLICADOS EN EL P.O. DE 18 DE ENERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -3777,7 +3775,7 @@ SUSPENSIÓN DE LA PATRIA POTESTAD. Los asuntos que versen sobre suspensión de l
 
 La resolución que se dicte no es apelable.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO V. DEL JUICIO DE PÉRDIDA DE PATRIA POTESTAD DE MENORES ACOGIDOS POR ALGÚN CENTRO ASISTENCIAL PÚBLICO O PRIVADO
 
@@ -4251,6 +4249,10 @@ I. Ser mayores de edad,
 
 II. No tener hijos en común o teniéndolos sean mayores de 25 años que ya no tengan derecho a recibir alimentos, o siendo menores de 25 no tengan derecho a recibirlos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2014)</small>
+
+Se deberá presenta (sic) además, documento original de certificado médico, en donde conste que la cónyuge no está embarazada.
+
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
 La Oficialía del Registro Civil correspondiente, previa identificación de los consortes levantará un acta en la que se hará constar la solicitud de divorcio y citará a los cónyuges a que se presenten a ratificarla dentro de los quince días siguientes.
@@ -4259,9 +4261,9 @@ La Oficialía del Registro Civil correspondiente, previa identificación de los 
 
 Si los consortes ratifican, en ese acto se recibirán dos testigos debidamente identificados a quienes les consten los datos manifestados en la solicitud de divorcio y la Oficialía del Registro Civil correspondiente los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en el acta de matrimonio y en la de nacimiento.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
 
-El divorcio así obtenido, no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de veinticinco años de edad con los que tengan obligación alimentaria o que siendo mayores de esa edad dependen económicamente de los divorciantes, lo mismo sucederá si se acredita que no han liquidado la sociedad conyugal sufriendo ambos las penas que establezca el código de la materia.
+El divorcio así obtenido, no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de veinticinco años de edad con los que tengan obligación alimentaria o que siendo mayores de esa edad dependen económicamente de los divorciantes o que se acredite fehacientemente que la cónyuge se encontraba embarazada al momento de realizar el trámite de divorcio administrativo, lo mismo sucederá si se acredita que no han liquidado la sociedad conyugal, sufriendo ambos las penas que establezca el código de la materia.
 
 ## TÍTULO SÉPTIMO. PETICIÓN DE SEPARACIÓN DE CÓNYUGES
 
@@ -6830,3 +6832,13 @@ DECRETO NÚMERO 1634, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ART
 PRIMERO.- Aprobado que sea el presente remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 11 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
