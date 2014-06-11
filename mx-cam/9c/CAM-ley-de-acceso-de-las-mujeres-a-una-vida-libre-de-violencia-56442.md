@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2012-11-14"
+last_updated: "2014-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -123,9 +123,19 @@ III. Violencia patrimonial.- Es cualquier acto u omisión que afecta la superviv
 
 IV. Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad sexual, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y
+V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad sexual, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y (sic)
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+VI. Violencia Política.- Es cualquier acto u omisión que limite, niegue, obstaculice, lesione, dañe la integridad y libertad de las mujeres a ejercer en plenitud sus derechos políticos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
@@ -169,7 +179,7 @@ El Estado y los Municipios, en el ámbito de sus respectivas competencias, fomen
 
 ###### ARTÍCULO 13.
 
-El Estado y los Municipios promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas en contra de las mujeres ejercidas por servidores públicos, así como aquellas que, en su caso, sean necesarias a fin de que se repare el daño inflingido a las víctimas de conformidad con lo dispuesto por las disposiciones jurídicas aplicables.
+El Estado y los Municipios promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas en contra de las mujeres ejercidas por servidores públicos, así como aquellas que, en su caso, sean necesarias a fin de que se repare el daño inflingido (sic) a las víctimas de conformidad con lo dispuesto por las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
 
@@ -185,13 +195,53 @@ Cuando se presenten casos de violencia feminicida, el Gobierno del Estado y los 
 
 El Gobierno del Estado y los Municipios coadyuvarán con la Federación en la implementación de las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género y participarán en los grupos interinstitucionales y multidisciplinarios que se formen para dar seguimiento a las acciones y medidas señaladas.
 
-### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO V BIS. DE LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+ARTÍCULO 16 BIS.- La violencia contra las mujeres en el ámbito político es cualquier acto u omisión que limite, niegue, obstaculice, lesione, dañe la integridad y libertad de las mujeres a ejercer en plenitud sus derechos políticos en cuestiones como:
+
+a) Participación igualitaria en materia política;
+
+b) Acceso a puestos públicos por elección o designación estatal como municipal, en agrupaciones, partidos políticos o función pública;
+
+c) Acceso a los medios, información, recursos, espacios públicos, necesarios para su desarrollo, promoción, capacitación y participación;
+
+d) El acceso a programas, proyectos, actividades a los que sea sujeto de derecho;
+
+e) Liberad de expresión de sus ideas, filiación o visión política;
+
+f) Respeto a sus opiniones, imagen, posturas y posicionamientos;
+
+g) Erradicar el acoso, violencia y agresiones por razones políticas; (sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+ARTÍCULO 16 TER.- El gobierno estatal y los municipales, deberán garantizar e impulsar la defensa del pleno ejercicio de los derechos políticos de las mujeres. Con tal fin, los dos órdenes de gobierno y sus respectivos poderes, en el ámbito de sus competencias, deberán:
+
+I. Realizar las reformas necesarias a sus ordenamientos jurídicos a fin de garantizar a las mujeres una vida libre de violencia en el ámbito político, con disposiciones que garanticen la protección de las mujeres que incursionan en las actividades políticas y sancionen las acciones u omisiones que impidan o dificulten su participación.
+
+II. Establecer políticas públicas que garanticen a las mujeres el derecho a una vida libre de violencia en el ámbito político.
+
+III. Establecer acciones a fin de que las mujeres conozcan y hagan uso de las instituciones y los instrumentos legales que existen para defender sus derechos político electorales y, si son víctimas de discriminación o violencia, denuncien, demanden, impugnen.
+
+IV. Documentar los casos de violencia contra las mujeres en la actividad política.
+
+V. Impulsar la investigación en el tema.
+
+### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 17.
 
@@ -223,7 +273,7 @@ IX. Los organismos y dependencias instituidos en el ámbito municipal para la pr
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el Reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO II. DE LA COMPETENCIA DE LOS MUNICIPIOS
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### ARTÍCULO 20.
 
@@ -253,13 +303,19 @@ XI. Promover la cultura de denuncia de la violencia contra las mujeres en el mar
 
 XII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+XIII.- Vigilar que los usos y costumbres sociales no atenten contra los derechos humanos de las mujeres.
+
 ###### ARTÍCULO 21.
 
 Se procurará la participación de los sectores público, social y privado, especialmente de los organismos sociales en la formulación, ejecución y evaluación del Programa Estatal.
 
 ## TÍTULO CUARTO. DE LA COMPETENCIA EN MATERIA DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
-### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO II. DE LA COMPETENCIA DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 22.
 
@@ -433,7 +489,7 @@ XI. Difundir a través de diversos medios, los resultados del Sistema Estatal y 
 
 XII. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
 ###### ARTÍCULO 31.
 
@@ -463,13 +519,15 @@ XI. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LAS MEDIDAS DE PROTECCIÓN
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ###### ARTÍCULO 32.
 
 Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente inmediatamente que conozcan de hechos que impliquen violencia contra las mujeres, en los términos que para tal efecto dispone la legislación Penal del Estado.
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
+
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### ARTÍCULO 33.
 
@@ -570,3 +628,9 @@ P.O. 14 DE NOVIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 11 DE JUNIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
