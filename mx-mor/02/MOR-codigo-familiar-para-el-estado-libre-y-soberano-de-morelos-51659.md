@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2014-05-28"
+last_updated: "2014-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -909,7 +909,11 @@ X.- El adulterio habido entre las personas que pretendan contraer matrimonio, cu
 
 XI.- El atentado contra la vida de alguno de los casados para contraer matrimonio, con el que quede libre;
 
-XII.- La violencia o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+
+XII.- La Violencia o miedo graves.
+
+En caso de privación ilegal de la libertad personal o la comisión de otro ilícito en contra de la o el futuro contrayente, en el que se involucre como objeto la obtención de su voluntad para contraer matrimonio, subsiste el impedimento mientras la víctima no sea restituida a lugar seguro, o se haya extinguido el ilícito y pueda libremente manifestar su voluntad.
 
 XIII.- La embriaguez habitual, o el uso ilegal y persistente de drogas estupefacientes y psicotrópicas;
 
@@ -1945,9 +1949,11 @@ La recuperación de la patria potestad procederá únicamente en aquellos casos 
 
 Lo mismo se observará respecto de la recuperación de la custodia.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 224.
 
-PROCURACIÓN DEL RESPETO HACIA LOS PROGENITORES. Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alineación parental encaminada a producir en la niña o del (sic) niño, rencor o rechazo hacia el otro progenitor, sopena de suspendérsele en su ejercicio.
+PROCURACIÓN DEL RESPETO HACIA LOS PROGENITORES. Quien ejerza la patria potestad, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alienación parental encaminada a producir en la niña o en el niño, rencor o rechazo hacia el otro progenitor, sopena de suspendérsele en su ejercicio.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
@@ -3157,7 +3163,9 @@ RESTAURACIÓN DE LA SOCIEDAD CONYUGAL. Cuando el cónyuge ausente regrese o se p
 
 DECLARACIÓN DE LA PRESUNCIÓN DE MUERTE. Cuando hayan transcurrido tres años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
 
-Respecto de los individuos que hayan desaparecido por secuestro, o por tomar parte en una guerra, o movimiento armado, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante; o por un accidente encontrándose a bordo de un vehículo terrestre, aéreo o acuático bastará que haya transcurrido un año contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título. La sentencia que declare la presunción de muerte disuelve el vínculo matrimonial.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+
+Respecto de las víctimas de desaparición forzada de personas, desaparecidos por secuestro, o por tomar parte en una guerra, o movimiento armado, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante; o por un accidente encontrándose a bordo de un vehículo terrestre, aéreo o acuático bastara que haya transcurrido un año contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero si se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título, la sentencia que declare la presunción de muerte disuelve el vínculo matrimonial.
 
 ###### ARTÍCULO 411.
 
@@ -6114,3 +6122,35 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 11 DE JUNIO DE 2014.
+
+DECRETO NÚMERO MIL CUATROCIENTOS TREINTA Y OCHO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO, DEL ARTÍCULO 410, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva, de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Dese cuenta a la Cámara de Senadores, que en contestación a su oficio número DGPL-2P1A.-2933.16, de fecha dos de abril de dos mil trece, mediante el cual se exhorta a las Legislaturas de los Estados, a que legislen y tipifiquen el delito de Desaparición Forzada como un delito autónomo, el Congreso del Estado de Morelos, ha tipificado la conducta típica denominada DESAPARICIÓN FORZADA, dentro del Ordenamiento Penal de la Entidad.
+
+CUARTO.- Dese cuenta a la Cámara de Diputados del Congreso de la Unión, que en contestación a su oficio número D.G.P.L. 62-II-7-692, EXP. 1724, de fecha veintinueve de abril de dos mil trece, mediante el cual se exhorta a las Legislaturas de los Estados, a emprender las medidas legislativas conducentes para tipificar en su legislación, en los casos en que no lo hayan hecho, el delito de Desaparición Forzada de personas y para que, en aquellos Estados en donde el delito se prevé, realicen las adecuaciones con el objeto de que el tipo penal correspondiente guarde armonía con los estándares internacionales en la materia, como un delito autónomo; que el Congreso del Estado de Morelos, ha tipificado la conducta típica denominada DESAPARICIÓN FORZADA, dentro del Ordenamiento Penal de la Entidad.
+
+P.O. 11 DE JUNIO DE 2014.
+
+DECRETO NÚMERO MIL CUATROCIENTOS TREINTA Y NUEVE POR EL QUE SE REFORMA EL ARTÍCULO 224, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 11 DE JUNIO DE 2014.
+
+DECRETO NÚMERO MIL CUATROCIENTOS CUARENTA Y UNO POR EL QUE SE REFORMA LA FRACCIÓN XII, DEL ARTÍCULO 77, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
