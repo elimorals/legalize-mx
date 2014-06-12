@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-instituto-local-de-la-infraestructura-82864"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-09-20"
-last_updated: "2011-09-20"
+last_updated: "2014-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82864&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-06-29"
 ---
 # ESTATUTO ORGANICO INSTITUTO LOCAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL DISTRITO FEDERAL
 
-ESTATUTO ORGANICO INSTITUTO LOCAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL DISTRITO FEDERAL
+ESTATUTO ORGÁNICO INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 12 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 2014 (DEROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el martes 20 de septiembre de 2011.
 
@@ -873,3 +875,19 @@ DIRECTOR GENERAL
 (Firma)
 
 México, Distrito Federal a los veintinueve días del mes de junio de 2011
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 12 DE JUNIO DE 2014.
+
+Artículo Primero.- El presente Estatuto Orgánico entrará en vigor a partir del día de su aprobación por parte de la Junta de Gobierno.
+
+Artículo Segundo.- Se deroga el Estatuto Orgánico del Instituto publicado en la Gaceta Oficial del Distrito Federal de 20 de septiembre de 2011, y se derogan todas las disposiciones contenidas en manuales administrativos del Instituto que se opongan a lo establecido en el presente Estatuto.
+
+Artículo Tercero.- Para su mayor difusión, publíquese en la Gaceta Oficial del Distrito Federal.
+
+Artículo Cuarto.- Para las cuestiones no previstas en el presente Estatuto Orgánico, y en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, la Junta de Gobierno resolverá lo conducente.
+
+Artículo Quinto.- Las funciones del personal adscrito a las Unidades Administrativas del Instituto se detallarán en los manuales administrativos que apruebe la Junta de Gobierno.
+
+Artículo Sexto.- En tanto se expide el Manual Administrativo respectivo, el Director General resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
