@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-89420"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-17"
-last_updated: "2014-05-08"
+last_updated: "2014-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DE 17 DE SEPTIEMBRE DE 2012, REFORMADO POR DECRETO NÚMERO 252, PUBLICADO EN LA G.O. DE 8 DE MAYO DE 2014, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR EN FORMA GRADUAL, INICIANDO EN LOS DISTRITOS JUDICIALES DÉCIMOPRIMERO Y DÉCIMOCUARTO CON CABECERAS EN LOS MUNICIPIOS DE XALAPA Y CÓRDOBA, RESPECTIVAMENTE, Y EL DÍA 11 DE NOVIEMBRE DEL AÑO 2013 EN LOS DISTRITOS JUDICIALES DÉCIMO Y DÉCIMO SEGUNDO, CON CABECERAS EN LOS MUNICIPIOS DE JALACINGO Y COATEPEC. EN LOS DEMÁS DISTRITOS JUDICIALES DEL ESTADO SE SEGUIRÁ APLICANDO EL CÓDIGO DE PROCEDIMIENTOS PENALES QUE HA REGIDO EN ELLOS HASTA EN TANTO ENTRE EN VIGOR EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN LOS TÉRMINOS DE SU ARTÍCULO SEGUNDO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2014.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el día lunes 17 de septiembre de 2012.
 
@@ -3349,6 +3349,10 @@ d) Abigeato, previsto en los artículos 210, 211 y 212; y
 
 e) Estragos, previsto en el artículo 265;
 
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2014)</small>
+
+f) Engaño Telefónico, previsto en el artículo 173 bis.
+
 V. Delitos contra la seguridad del Estado:
 
 a) Conspiración, previsto en los artículos 299, párrafos segundo y tercero, y 300
@@ -6534,3 +6538,9 @@ G.O. 8 DE MAYO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente Decreto.
+
+G.O. 13 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
