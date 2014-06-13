@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2013-10-04"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2014.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -289,11 +289,13 @@ Las formas del Registro Civil serán suministradas por el Director del Registro 
 
 De las actas que se levanten en las formas mencionadas los Oficiales del Registro Civil entregarán un ejemplar de ellas al interesado, otro quedará en el archivo de la Oficialía y otro se remitirá a la Dirección del Registro Civil. El Director del Registro Civil, enviará la información relativa de las actas levantadas a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación y a cualquier dependencia que así lo solicite, mediante el sistema de reproducción que estime conveniente.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 44.
 
 En relación con las actas del Registro Civil se formará un apéndice, constituido por los documentos que se refieran a aquellas. Toda persona puede solicitar copia certificada de las actas y de los documentos del apéndice.
+
+Asimismo, se podrán expedir mediante el uso de Firma Electrónica copias certificadas de las actas del Registro Civil, las cuales deberán contar con elementos de seguridad que acrediten su autenticidad y validez legal e impidan su falsificación de conformidad con la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -371,23 +373,21 @@ Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera d
 
 La declaración de nacimiento se hará en el formato oficial denominado Certificado de Nacimiento, que al efecto expida la Secretaría de Salud.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
 
-Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la administración.
+Si el nacimiento tuviere lugar en una Institución de salud pública o privada, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la administración.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
 
 Para dar cumplimiento a la obligación antes señalada, las Instituciones de Salud Públicas o Privadas, de conformidad con las disposiciones correlativas en materia de salud, llevarán el registro correspondiente y expedirán el Certificado de Nacimiento, en el formato oficial correspondiente.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
 
-La Institución de Salud entregará el certificado a la madre, para la correspondiente inscripción ante la Oficialía del Registro Civil.
+Las instituciones de salud públicas o privadas entregarán el certificado de nacimiento dentro de los tres días hábiles siguientes de haberse realizado el alumbramiento, a quienes tiene (sic) la obligación de declarar el nacimiento en los términos del presente artículo, para la correspondiente inscripción ante la Oficialía del Registro Civil.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2009)</small>
 
 Recibido el certificado de nacimiento, el Oficial del Registro Civil tomará las medidas que sean necesarias a fin de que se levante el Acta de Nacimiento conforme a las disposiciones relativas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -403,9 +403,13 @@ ARTICULO 55 BIS.- En los términos del presente Capítulo se llevará a cabo el 
 
 A las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, se les sancionará con multa de diez a cincuenta veces el salario mínimo general vigente en el Estado, que impondrá la autoridad Municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento; excepto tratándose de jornaleros o asalariados, los que no excederán en su caso el importe de un salario mínimo.
 
-Igual sanción se aplicará a quienes no cumplan con la obligación de dar el aviso prevenido en los Párrafos Segundo y Tercero del Artículo anterior.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
 
-Tratándose de las instituciones hospitalarias que se nieguen a otorgar el aviso, además de aplicarles la sanción que señala el primer párrafo de este artículo, el Jefe del Departamento del Registro Civil, pondrá en conocimiento a la autoridad Estatal en materia de salud, para que tome las medidas conducentes a fin de que se cumpla con lo establecido en este Código.
+Igual sanción se aplicará a quienes no cumplan con la obligación de expedir el Certificado de Nacimiento prevenido en los Párrafos Segundo y Tercero del artículo 55 del presente Código.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+Tratándose de las Instituciones hospitalarias que se nieguen a otorgar el Certificado de Nacimiento, además de aplicarles la sanción que señala el primer párrafo de este artículo, el Jefe del Departamento del Registro Civil, pondrá en conocimiento a la autoridad Estatal en materia de salud, para que tome las medidas conducentes a fin de que se cumpla con lo establecido en este Código.
 
 El incumplimiento a lo dispuesto por el Artículo anterior, sólo dará lugar a las sanciones administrativas indicadas, pero el registro del nacimiento será válido para todos los efectos de Ley.
 
@@ -11997,6 +12001,10 @@ La enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la c
 
 Los contratos por los que el Gobierno Federal, del Estado, Municipios y Organismos Descentralizados enajenen terrenos o casas para la constitución del patrimonio familiar, para los trabajadores al servicio del Estado o para personas de escasos recursos económicos hasta por el valor de 10,000 salarios mínimos general vigente en el Estado de Baja California, podrán otorgarse en documento privado sin los requisitos de testigos y ratificación de firmas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2014)</small>
+
+En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Estado sobre inmuebles de propiedad particular, cuyo valor no rebase el que señala el primer párrafo de este artículo, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
+
 ###### ARTICULO 2192.
 
 Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el Párrafo Segundo del artículo 1721.
@@ -16242,3 +16250,25 @@ P.O. 20 DE SEPTIEMBRE DE 2013.
 P.O. 4 DE OCTUBRE DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE JUNIO DE 2014.
+
+DECRETO No. 54, POR EL QUE SE REFORMA EL ARTÍCULO 44 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Baja California.
+
+P.O. 13 DE JUNIO DE 2014.
+
+DECRETO No. 56, POR EL QUE SE REFORMA EL ARTÍCULO 2191 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE JUNIO DE 2014.
+
+DECRETO No. 57, POR EL QUE SE REFORMAN LOS ARTÍCULOS 55 Y 56 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Instituciones de salud pública y privadas del Estado contarán con un término de noventa días para entregar el Certificado de Nacimiento de los menores, que con anterioridad a esta reforma no se hayan expedido por dichas instituciones, a quien lo solicite y conforme a la legislación aplicable tenga derecho a recibirlo. La Secretaría de Salud hará del conocimiento a dichas instituciones de la presente reforma, así como de las sanciones previstas en ella.
+
+TERCERO.- Una vez aprobado, túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
