@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "2014-01-10"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -256,9 +256,9 @@ El endoso puede hacerse en blanco, con la sola firma del endosante. En este caso
 
 El endoso al portador produce los efectos del endoso en blanco.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito, certificados de participación y cheques, el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno. Lo previsto en este párrafo no será aplicable a los cheques expedidos por cantidades superiores a las establecidas por el Banco de México, a través de disposiciones de carácter general que publique en el Diario Oficial de la Federación.
+Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito, certificados de participación y cheques, el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno. Lo previsto en este párrafo no será aplicable a los cheques expedidos por cantidades inferiores a las establecidas por el Banco de México, a través de disposiciones de carácter general que publique en el Diario Oficial de la Federación.
 
 ###### ARTICULO 33.
 
@@ -1516,7 +1516,7 @@ XI.- La firma autógrafa del representante común de los obligacionistas, o bien
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1962)</small>
 
-ARTICULO 210 bis.- Las sociedades anónimas que pretendan emitir obligaciones convertibles en acciones se sujetarán a los siguientes requisitos:
+ARTICULO 210 BIS.- Las sociedades anónimas que pretendan emitir obligaciones convertibles en acciones se sujetarán a los siguientes requisitos:
 
 I.- Deberán tomar las medidas pertinentes para tener en tesorería acciones por el importe que requiera la conversión.
 
@@ -1556,7 +1556,9 @@ No se podrá hacer emisión alguna de obligaciones por cantidad mayor que el act
 
 La sociedad emisora no podrá reducir su capital sino en proporción al reembolso que haga sobre las obligaciones por ella emitidas, ni podrá cambiar su objeto, domicilio o denominación, sin el consentimiento de la Asamblea General de Obligacionistas.
 
-Las sociedades que emitan obligaciones, deberán publicar anualmente su balance, certificado por Contador Público. La publicación se hará en el "Diario Oficial" de la Federación.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Las sociedades que emitan obligaciones deberán publicar anualmente su balance, certificado por Contador Público. La publicación se hará en el sistema electrónico establecido por la Secretaría.
 
 ###### ARTICULO 213.
 
@@ -1746,7 +1748,7 @@ En el caso de los incisos b) y c), el derecho total de los tenedores de certific
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
-ARTICULO 228 a bis.- Los "certificados de vivienda" son títulos que representan el derecho, mediante el pago de lo (sic) totalidad de las cuotas estipuladas, a que se transmita la propiedad de una vivienda, gozándose entretanto del aprovechamiento directo del inmueble; y en caso de incumplimiento o abandono, a recuperar una parte de dichas cuotas de acuerdo con los valores de rescate que se fijen.
+ARTICULO 228 a BIS.- Los "certificados de vivienda" son títulos que representan el derecho, mediante el pago de lo (sic) totalidad de las cuotas estipuladas, a que se transmita la propiedad de una vivienda, gozándose entretanto del aprovechamiento directo del inmueble; y en caso de incumplimiento o abandono, a recuperar una parte de dichas cuotas de acuerdo con los valores de rescate que se fijen.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
 
@@ -2576,9 +2578,17 @@ II.- Fijarán, con toda precisión, los bienes que se afecten en garantía, y se
 
 III.- Se consignarán en contrato privado que se firmará por triplicado ante dos testigos conocidos y se ratificará ante el Encargado del Registro de que habla la fracción IV.
 
-IV.- Serán inscritos en el Registro de Hipotecas que corresponda, según la ubicación de los bienes afectos en garantía, o en el Registro de Comercio respectivo, cuando en la garantía no se incluya la de bienes inmuebles.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-Los contratos de habilitación o refacción no surtirán efectos contra tercero, sino desde la fecha y hora de su inscripción en el Registro.
+IV.- Serán inscritos en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Si en la garantía se incluyen bienes inmuebles, deberá inscribirse, adicionalmente, en el Registro Público de la Propiedad que corresponda, según la ubicación de los bienes inmuebles afectos en garantía.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Los contratos de habilitación o refacción surtirán efectos contra tercero desde la fecha y hora de su inscripción conforme a los párrafos anteriores.
 
 > <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 1932)</small>
 
@@ -2728,9 +2738,11 @@ El deudor podrá oponerse a la venta, haciendo el pago de los fondos requeridos 
 
 Si antes del vencimiento del crédito garantizado, se vencen o son amortizados los títulos dados en prenda, el acreedor podrá conservar en prenda las cantidades que por esos conceptos reciba, en substitución de los títulos cobrados o amortizados.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 344.
 
-El acreedor prendario no podrá hacerse dueño de los bienes o títulos dados en prenda, sin el expreso consentimiento del deudor, manifestado por escrito y con posterioridad a la constitución de la prenda.
+El acreedor prendario no podrá hacerse dueño de los bienes o títulos dados en prenda, sin el expreso consentimiento del deudor.
 
 ###### ARTICULO 345.
 
@@ -2752,11 +2764,13 @@ La prenda sin transmisión de posesión se regirá por lo dispuesto por esta sec
 
 En cualquier caso, el proceso de ejecución de la garantía se sujetará a lo establecido por el Libro Quinto Título Tercero Bis del Código de Comercio.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 347.
 
-Los contratos mediante los cuales se documente la constitución de garantías a través de la prenda sin transmisión de posesión, serán mercantiles para todas las partes que intervengan en ellos. Se exceptúan aquellos actos que se celebren entre dos o más personas físicas que no tengan el carácter de comerciantes en los términos del Código de Comercio, así como aquellos actos que, de conformidad con el mismo, no se reputen como actos de comercio.
+Los contratos mediante los cuales se documente la constitución de garantías a través de la prenda sin transmisión de posesión, serán mercantiles para todas las partes que intervengan en ellos. Se exceptúan aquellos contratos que se celebren entre dos o más personas físicas o morales que no tengan el carácter de comerciantes en los términos del Código de Comercio, así como aquellos actos que, de conformidad con el mismo, no se reputen como actos de comercio para ninguna de sus partes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
 En las controversias que se susciten con motivo de la prenda sin transmisión de posesión, se estará a lo dispuesto por los artículos 1049 y 1050 del mencionado Código.
 
@@ -2768,11 +2782,11 @@ El importe de la obligación garantizada podrá ser una cantidad determinada o d
 
 Salvo pacto en contrario, la obligación garantizada incluirá los intereses ordinarios y moratorios estipulados en el contrato respectivo o en su defecto los previstos en la ley, así como los gastos incurridos en el proceso de ejecución de la garantía.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 349.
 
-Cuando el deudor esté facultado para hacer pagos parciales, la garantía se reducirá desde luego y de manera proporcional con respecto de los pagos realizados, si ésta recae sobre varios objetos o éstos son cómodamente divisibles en razón de su naturaleza jurídica, sin reducir su valor, y siempre que los derechos del acreedor queden debidamente garantizados.
+Salvo pacto en contrario, cuando el deudor esté facultado para hacer pagos parciales, la garantía se reducirá desde luego y de manera proporcional con respecto de los pagos realizados, si ésta recae sobre varios objetos o éstos son cómodamente divisibles en razón de su naturaleza jurídica, sin reducir su valor, y siempre que los derechos del acreedor queden debidamente garantizados.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2780,11 +2794,13 @@ Cuando el deudor esté facultado para hacer pagos parciales, la garantía se red
 
 En caso de que el deudor se encuentre sujeto a un proceso concursal, los créditos a su cargo garantizados mediante prenda sin transmisión de posesión, serán exigibles desde la fecha de la declaración y seguirán devengando los intereses ordinarios estipulados, hasta donde alcance la respectiva garantía.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 351.
 
-En caso de concurso o quiebra del deudor, los bienes objeto de prenda sin transmisión de posesión que existan en la masa, podrán ser ejecutados por el acreedor prendario, mediante la acción que corresponda conforme a la ley de la materia, ante el juez concursal, el cual deberá decretar, sin más trámite, la ejecución solicitada.
+En caso de concurso del deudor, los bienes objeto de prenda sin transmisión de posesión que existan en la masa, podrán ser ejecutados por el acreedor prendario, mediante la acción que corresponda conforme a la ley de la materia, ante el juez de concurso mercantil, el cual deberá decretar, sin más trámite, la ejecución solicitada.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
 Si hubiera oposición, el litigio se resolverá por la vía incidental. La resolución que el juez dicte, haya habido o no litigio, sólo será apelable en el efecto devolutivo.
 
@@ -2794,37 +2810,47 @@ Si hubiera oposición, el litigio se resolverá por la vía incidental. La resol
 
 Podrá garantizarse con prenda sin transmisión de posesión cualquier obligación, con independencia de la actividad preponderante a la que se dedique el deudor.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 353.
 
 Pueden ser dados en prenda sin transmisión de posesión toda clase de derechos y bienes muebles, salvo aquellos que conforme a la Ley sean estrictamente personales de su titular.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
-
-No podrá constituirse prenda ordinaria u otra garantía, sobre los bienes que ya se encuentren pignorados con arreglo a esta Sección Séptima.
-
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 354.
 
-Los bienes pignorados deberán identificarse, salvo el caso en que el deudor dé en prenda sin transmisión de posesión a su acreedor todos los bienes muebles que utilice para la realización de su actividad preponderante, en cuyo caso éstos podrán identificarse en forma genérica.
+Los bienes pignorados deberán identificarse de forma individual, por categorías de bienes o genéricamente.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 355.
 
-Podrán darse en prenda sin transmisión de posesión los bienes muebles siguientes:
+Podrán darse en prenda sin transmisión de posesión los bienes muebles siguientes
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2000)</small>
 
 I. Aquellos bienes y derechos que obren en el patrimonio del deudor al momento de otorgar la prenda sin transmisión de posesión, incluyendo los nombres comerciales, las marcas y otros derechos;
 
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2000)</small>
+
 II. Los de naturaleza igual o semejante a los señalados en la fracción anterior, que adquiera el deudor en fecha posterior a la constitución de la prenda sin transmisión de posesión;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2000)</small>
 
 III. Los bienes que se deriven como frutos o productos futuros, pendientes o ya obtenidos, de los mencionados en las fracciones anteriores;
 
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2000)</small>
+
 IV. Los bienes que resulten de procesos de transformación de los bienes antes señalados, y
 
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2000)</small>
+
 V. Los bienes o derechos que el deudor reciba o tenga derecho a recibir, en pago por la enajenación a terceros de los bienes pignorados a que se refiere este artículo o como indemnización en caso de daños o destrucción de dichos bienes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Tratándose de bienes referidos en las fracciones III a V, los mismos quedarán comprendidos de manera automática como bienes pignorados, salvo pacto en contrario.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2840,21 +2866,9 @@ III. Enajenar los bienes pignorados, en el curso normal de su actividad preponde
 
 El derecho otorgado al deudor para vender o transferir, en el curso ordinario de sus actividades preponderantes, los bienes pignorados quedará extinguido desde el momento en que reciba notificación del inicio de cualquiera de los procedimientos de ejecución en su contra, previstos en el Libro Quinto, Título Tercero Bis del Código de Comercio. En caso de que los bienes pignorados representen más del 80% de los activos del deudor, éste podrá enajenarlos en el curso ordinario de sus actividades, con la previa autorización del Juez o del acreedor, según sea el caso.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 357.
 
-Para efectos de lo dispuesto en los artículos 355 y 356, las partes deberán convenir, al celebrar el contrato de prenda sin transmisión de posesión:
-
-I. En su caso, los lugares en los que deberán encontrarse los bienes pignorados;
-
-II. Las contraprestaciones mínimas que deberá recibir el deudor de su contraparte, por la venta o transferencia de los bienes pignorados;
-
-III. Las características o categorías que permitan identificar a la persona o personas, o a estas últimas de manera específica, a las que el deudor podrá vender o transferir dichos bienes, así como el destino que el deudor deberá dar al dinero, bienes o derechos que reciba en pago, y
-
-IV. La información que el deudor deberá entregar al acreedor sobre la transformación, venta, o transferencia de los mencionados bienes.
-
-En caso de incumplimiento a las estipulaciones convenidas con base en este artículo, el crédito garantizado con la prenda sin transmisión de posesión se tendrá por vencido anticipadamente.
+(DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2864,7 +2878,9 @@ No obstante que el deudor dé en prenda sin transmisión de posesión a su acree
 
 En este supuesto, el primer acreedor seguirá teniendo preferencia para el pago de su crédito sobre todos los bienes muebles que el deudor le haya dado en prenda sin transmisión de posesión, frente a cualquier acreedor, con excepción de los bienes adquiridos por el deudor con los recursos que le proporcione el nuevo acreedor, los cuales podrán servir de garantía a este último y asegurar su preferencia en el pago, respecto a cualquier otro acreedor del deudor, incluyendo al primer acreedor.
 
-La excepción a que se refiere este artículo, sólo procederá tratándose de bienes muebles que puedan identificarse con toda precisión y distinguirse del resto de los bienes muebles que el deudor haya dado en prenda al primer acreedor.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+La excepción a que se refiere este artículo, sólo procederá tratándose de bienes muebles que puedan distinguirse del resto de los bienes muebles que el deudor haya dado en prenda al primer acreedor.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2872,11 +2888,11 @@ La excepción a que se refiere este artículo, sólo procederá tratándose de b
 
 Pueden garantizarse con prenda sin transmisión de posesión obligaciones futuras, pero en este caso no puede ejecutarse la garantía, ni adjudicarse al acreedor, sin que la obligación principal llegue a ser exigible.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 360.
 
-En caso de que en el contrato respectivo se establezca que los bienes pignorados deban estar asegurados por una cantidad que alcance a cubrir su valor de reposición, el deudor tendrá la facultad de determinar la compañía aseguradora que se encargará de ello. En el mencionado seguro deberá designarse como beneficiario al acreedor prendario. El saldo insoluto del crédito garantizado, se reducirá en la proporción del pago que el acreedor reciba de la institución de seguros. De existir algún remanente, el acreedor deberá entregarlo al deudor, a más tardar el tercer día hábil siguiente a la fecha en que lo reciba.
+En caso de que en el contrato respectivo se establezca que los bienes pignorados deban estar asegurados por una cantidad que alcance a cubrir su valor de reposición, el deudor tendrá la facultad de determinar la compañía aseguradora que se encargará de ello. En el mencionado seguro deberá designarse como beneficiario al acreedor prendario. Salvo pacto en contrario, el saldo insoluto del crédito garantizado, se reducirá en una cantidad igual a la del pago que el acreedor reciba de la institución de seguros. En este último caso, de existir algún remanente, el acreedor deberá entregarlo al deudor, a más tardar el tercer día hábil siguiente a la fecha en que lo reciba.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -2900,13 +2916,15 @@ El deudor estará obligado a permitir al acreedor la inspección de los bienes p
 
 De convenirse así en el contrato, si el valor de mercado de los bienes dados en prenda sin transmisión de posesión disminuye de manera que no baste para cubrir el importe del principal y los accesorios de la deuda que garantizan, el deudor podrá dar bienes adicionales para restituir la proporción original. En caso contrario, el crédito podrá darse por vencido anticipadamente, una vez que se haya realizado el procedimiento previsto en el artículo siguiente, teniendo el acreedor que notificar al deudor de ello judicialmente o a través de fedatario. Al efecto, las partes deberán convenir el alcance que dicha reducción de valor de mercado habrá de sufrir, para que el crédito pueda darse por vencido anticipadamente.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 363.
 
-Desde la celebración del contrato constitutivo de prenda sin transmisión de posesión, las partes deberán establecer las bases para designar a un perito, cuya responsabilidad será dictaminar, una vez que haya oído a ambas partes, la actualización de los supuestos previstos en los artículos 361 y 362.
+Las partes deberán designar perito o acordar las bases para su designación, cuya responsabilidad será dictaminar, una vez que haya oído a ambas partes, la actualización de los supuestos previstos en los artículos 361 y 362.
 
-Las partes podrán designar como perito para los efectos de lo dispuesto en este artículo, a un almacén general de depósito, así como encomendar a éste la guarda y conservación de los bienes pignorados, en términos de la fracción I del artículo 357.
+Las partes podrán designar como perito para los efectos de lo dispuesto en este artículo, a un almacén general de depósito, así como encomendar a éste la guarda y conservación de los bienes pignorados.
+
+A falta del acuerdo referido en el primer párrafo de este artículo, el perito será designado por juez competente a solicitud de cualquiera de las partes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2916,13 +2934,15 @@ El acreedor está obligado a liberar la prenda, luego que estén pagados íntegr
 
 Cuando el acreedor no libere la prenda, de conformidad con lo establecido en el párrafo anterior, resarcirá al deudor los daños y perjuicios que con ello le ocasione, independientemente de que deberá liberar los bienes dados en prenda.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 365.
 
-El contrato constitutivo de la prenda sin transmisión de posesión, deberá constar por escrito y cuando la operación se refiera a bienes cuyo monto sea igual o superior al equivalente en moneda nacional a doscientos cincuenta mil Unidades de Inversión, las partes deberán ratificar sus firmas ante fedatario.
+El contrato constitutivo de la prenda sin transmisión de posesión, deberá constar por escrito y cuando el monto del crédito que garantiza sea igual o superior al equivalente en moneda nacional a doscientos cincuenta mil Unidades de Inversión, las partes deberán ratificar sus firmas ante fedatario.
 
-La garantía se tendrá por constituida a la firma del contrato, surtiendo efectos entre las partes desde la fecha de su celebración.
+El contrato de prenda sin transmisión de posesión será válido desde su constitución y la nulidad de alguna de sus cláusulas por contravenciones a lo dispuesto en esta ley no producirá la nulidad de la prenda.
+
+En caso de declararse nula alguna cláusula del contrato de prenda sin transmisión de posesión, se aplicará supletoriamente lo dispuesto por esta ley.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2930,17 +2950,27 @@ La garantía se tendrá por constituida a la firma del contrato, surtiendo efect
 
 La prenda sin transmisión de posesión surtirá efectos contra terceros a partir de la fecha de su inscripción en el registro.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 367.
 
-Los acreedores garantizados con prenda sin transmisión de posesión, percibirán el principal y los intereses de sus créditos del producto de los bienes objeto de esas garantías, con exclusión absoluta de los demás acreedores del deudor.
+Los acreedores garantizados con prenda sin transmisión de posesión, percibirán el principal y los intereses de sus créditos del producto de los bienes objeto de esas garantías, con exclusión absoluta de los demás acreedores del deudor que no sean preferentes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
 Lo dispuesto en el párrafo anterior, es sin perjuicio de las preferencias que conforme a la ley correspondan a los créditos laborales a cargo del deudor.
 
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
 En todo caso, los embargos por adeudos laborales que recaigan sobre bienes en posesión del deudor, deberán hacerse únicamente sobre aquellos que cubran el importe del crédito laboral correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
 Cuando los bienes objeto de la garantía hayan sido adquiridos con el producto del crédito garantizado, la prelación que establece este artículo, por lo que se refiere a los bienes mencionados, prevalecerá sobre la que corresponda a los acreedores de los créditos mencionados en el segundo párrafo de esta disposición.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 367 BIS.- En caso de que la totalidad o parte de los bienes objeto de la garantía sean bienes de importación temporal, tratándose de ejecución de la prenda, el juez podrá autorizar que el acreedor tramite por cuenta del deudor, cuando proceda de conformidad con las disposiciones aduaneras, la importación definitiva de los bienes para proceder a la venta de los mismos o para efectos de que queden a disposición del acreedor, en cuyo caso deberá pagarse preferentemente al erario público con el importe de la venta de los bienes, o a cargo del acreedor en caso de que los mismos queden a su disposición, los impuestos y derechos que procedan por la importación definitiva de los mismos. En caso de venta el monto remanente quedará a disposición del acreedor en los términos de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2950,11 +2980,11 @@ La prenda sin transmisión de posesión tendrá la prelación a la que se refier
 
 La prelación de los nuevos acreedores a que se refiere el artículo 358 no se verá afectada por el hecho de registrar sus garantías, con posterioridad al registro de aquellas mediante las cuales el deudor haya otorgado en garantía al otro acreedor todos los bienes muebles que utilice en la realización de sus actividades preponderantes.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 369.
 
-La garantía sobre un bien mueble constituida, en términos de esta Sección Séptima, tiene prelación sobre la garantía hipotecaria, refaccionaria o fiduciaria, si aquélla se inscribe antes de que el mencionado bien mueble se adhiera, en su caso, al bien inmueble objeto de dichas garantías.
+La garantía sobre un bien mueble constituida, en términos de esta Sección Séptima, tiene prelación sobre la garantía hipotecaria, refaccionaría o fiduciaria, si aquélla se inscribe antes de que el mencionado bien mueble se adhiera, en su caso, al bien inmueble objeto de dichas garantías, a menos que exista consentimiento del acreedor de la garantía mobiliaria para que la segunda garantía tenga prelación sobre la mobiliaria.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2962,17 +2992,17 @@ La garantía sobre un bien mueble constituida, en términos de esta Sección Sé
 
 La prelación entre las garantías que no hayan sido inscritas, será determinada por el orden cronológico de los contratos fehacientes respectivos.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 371.
 
-La prenda sin transmisión de posesión, registrada, tendrá prelación sobre:
+La prenda sin transmisión de posesión, registrada en el Registro Único de Garantías Mobiliarias, tendrá prelación sobre actos y gravámenes registrables y no registrados y sobre actos o gravámenes registrados con posterioridad.
 
-I. Los créditos quirografarios;
+I. (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-II. Los créditos con garantía real no registrados, y
+II. (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-III. Los gravámenes judiciales preexistentes no registrados.
+III. (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -2982,25 +3012,31 @@ La prelación que se establece en favor de los acreedores, garantizados conforme
 
 La nueva prelación establecida por las partes, surtirá efectos a partir de su inscripción.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 373.
 
-Se entenderá por adquirente de mala fe, para efectos de lo dispuesto en el artículo 356, a toda persona que, sabedora de la existencia de la garantía, adquiera los bienes muebles objeto de la misma sin consentimiento del acreedor.
+Se entenderá por adquirente de mala fe, para efectos de lo dispuesto en el artículo 356 y 398, a toda persona que adquiera, sin consentimiento del acreedor, bienes muebles del deudor, sabedora por cualquier medio, incluyendo el Registro Único de Garantías Mobiliarias, de:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+I. La existencia de la garantía sobre dichos bienes; y
+
+II. Que la enajenación de dichos bienes se encuentra fuera del curso normal de la actividad preponderante del deudor.
+
+Las enajenaciones realizadas sin contar con el consentimiento a que se refiere este artículo no harán que cesen los efectos de la garantía y el acreedor conservará el derecho de persecución sobre los bienes respectivos con relación a los adquirentes; sin perjuicio de que el acreedor exija al deudor el pago de los daños y perjuicios que dicha enajenación le cause.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 374.
 
 El deudor estará obligado a solicitar autorización por escrito del acreedor garantizado, para enajenar en términos del artículo 356, los bienes objeto de la garantía, a las siguientes personas:
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-I. Las físicas y morales que detenten más del cinco por ciento de los títulos representativos del capital del deudor;
+I. Las personas físicas y morales que tengan el control directo o indirecto de más del cinco por ciento de los títulos representativos del capital del deudor, o que estén sujetas a un control corporativo común con el deudor;
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-II. Los miembros propietarios y suplentes del consejo de administración del deudor;
+II. Los miembros propietarios y suplentes del consejo de administración del deudor o de las personas morales a que se refiere la fracción anterior;
 
 > <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -3014,13 +3050,21 @@ IV. Los empleados, funcionarios y acreedores del deudor.
 
 Para los efectos de la autorización que deberá otorgar el acreedor garantizado, éste tendrá diez días naturales para hacerlo; de no contestar, se entenderá tácitamente otorgada en favor del deudor.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-Las enajenaciones realizadas sin contar con la autorización a que se refiere este artículo y el anterior, en lo conducente, serán nulas, por lo que no cesarán los efectos de la garantía y el acreedor conservará el derecho de persecución sobre los bienes respectivos con relación a los adquirentes; sin perjuicio de que el acreedor exija al deudor el pago de los daños y perjuicios que dicha enajenación le cause.
+Las enajenaciones realizadas sin contar con la autorización a que se refiere este artículo serán nulas, por lo que no cesarán los efectos de la garantía y el acreedor conservará el derecho de persecución sobre los bienes respectivos con relación a los adquirentes; sin perjuicio de que el acreedor exija al deudor el pago de los daños y perjuicios que dicha enajenación le cause.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 Asimismo, podrá preverse en el contrato respectivo que, de realizarse enajenaciones en contravención a lo dispuesto por este artículo, el plazo del crédito se tendrá por vencido anticipadamente.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Para efectos de la fracción I anterior se entiende por control corporativo la capacidad de una persona o grupo de personas, de llevar a cabo cualquiera de los actos siguientes:
+
+a) Imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes, de una persona moral.
+
+b) Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -3028,17 +3072,15 @@ Asimismo, podrá preverse en el contrato respectivo que, de realizarse enajenaci
 
 Las acciones de los acreedores garantizados conforme a esta Sección Séptima, prescriben en tres años, contados desde que la obligación garantizada pudo exigirse.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 376.
 
-Los actos en los que se haga constar la constitución, modificación, extinción, cesión y las resoluciones judiciales sobre cancelaciones de la prenda sin transmisión de posesión a que se refiere esta Sección Séptima, deberán ser inscritos en el Registro Público de Comercio del lugar en el que se encuentre ubicado el domicilio del deudor o, en los casos que proceda, en el Registro Especial que corresponda según su naturaleza.
-
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+Los actos en los que se haga constar la constitución, modificación, extinción, cesión y las resoluciones judiciales sobre cancelaciones de la prenda sin transmisión de posesión a que se refiere esta Sección Séptima, deberán ser inscritos en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio o, en los casos que proceda, en el registro especial que corresponda según su naturaleza.
 
 ###### ARTICULO 377.
 
-Los registradores se abstendrán de suspender o denegar la inscripción de garantías sobre bienes muebles, cuya identificación se realice en forma genérica y correspondan a la actividad preponderante del deudor, en términos de lo dispuesto en el artículo 354.
+(DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -3086,11 +3128,17 @@ El fideicomisario podrá ser designado por el fideicomitente en el acto constitu
 
 El fideicomiso será válido aunque se constituya sin señalar fideicomisario, siempre que su fin sea lícito y determinado, y conste la aceptación del encargo por parte del fiduciario.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
-
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 Las instituciones mencionadas en el artículo 385 de esta Ley podrán reunir la calidad de fiduciarias y fideicomisarias únicamente tratándose de fideicomisos que tengan por fin servir como instrumentos de pago a su favor. En este supuesto, las partes deberán convenir los términos y condiciones para dirimir posibles conflictos de intereses, para lo cual podrán nombrar a un ejecutor o instructor, que podrá ser una institución fiduciaria o cualquier tercero, a fin de que determine el cumplimiento o incumplimiento del contrato para el solo efecto de iniciar el procedimiento de ejecución y para que cumpla los fines del fideicomiso en lo que respecta a la aplicación de los bienes afectos al fideicomiso como fuente de pago de obligaciones derivadas de créditos otorgados por la propia institución.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+En todo caso, el ejecutor o instructor ejercitará sus funciones en nombre y representación del fiduciario, pero sin sujetarse a sus instrucciones, obrando en todo momento de conformidad con lo pactado en el contrato y la legislación aplicable y actuando con independencia e imparcialidad respecto de los intereses del fideicomitente y fideicomisario.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Para efectos del párrafo anterior, se presume independencia e imparcialidad en el cumplimiento del contrato, cuando los títulos representativos del capital social, así como las compras e ingresos del último ejercicio fiscal o del que esté en curso del ejecutor o instructor, no estén vinculados con alguna de las partes del fideicomiso en más de un diez por ciento.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -3140,19 +3188,17 @@ La constitución del fideicomiso deberá constar siempre por escrito.
 
 El fideicomiso cuyo objeto recaiga en bienes inmuebles, deberá inscribirse en la Sección de la Propiedad del Registro Público del lugar en que los bienes estén ubicados. El fideicomiso surtirá efectos contra tercero, en el caso de este artículo, desde la fecha de inscripción en el Registro.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 354], D.O.F. 23 DE MAYO DE 2000)
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 389.
 
-El fideicomiso cuyo objeto recaiga en bienes muebles, surtirá efectos contra tercero desde la fecha en que se cumplan los requisitos siguientes:
+El fideicomiso cuyo objeto recaiga en bienes muebles, surtirá efectos contra tercero desde la fecha de su inscripción en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio.
 
-I.- Si se tratare de un crédito no negociable o de un derecho personal, desde que el fideicomiso fuere notificado al deudor;
+I. (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-II.- Si se tratare de un título nominativo, desde que éste se endose a la institución fiduciaria y se haga constar en los registros del emisor, en su caso;
+II. (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-> <small>(F. DE E., D.O.F. DE 10 DE FEBRERO DE 1933)</small>
-
-III.- Si se tratare de cosa corpórea o de títulos al portador, desde que estén en poder de la institución fiduciaria.
+III. (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
 (REUBICADO [N. DE E. ANTES ARTICULO 355], D.O.F. 23 DE MAYO DE 2000)
 
@@ -3200,7 +3246,7 @@ VIII.- En el caso del artículo 392 Bis.
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
-ARTICULO 392 bis.- En el supuesto de que a la institución fiduciaria no se le haya cubierto la contraprestación debida, en los términos establecidos en el contrato respectivo, por un periodo igual o superior a tres años, la institución fiduciaria podrá dar por terminado, sin responsabilidad, el fideicomiso.
+ARTICULO 392 BIS.- En el supuesto de que a la institución fiduciaria no se le haya cubierto la contraprestación debida, en los términos establecidos en el contrato respectivo, por un periodo igual o superior a tres años, la institución fiduciaria podrá dar por terminado, sin responsabilidad, el fideicomiso.
 
 En el supuesto a que se refiere el párrafo anterior, la institución fiduciaria deberá notificar al fideicomitente y al fideicomisario su decisión de dar por terminado el fideicomiso por falta de pago de las contraprestaciones debidas por su actuación como fiduciario y establecer un plazo de quince días hábiles para que los mismos puedan cubrir los adeudos, según corresponda. En el caso de que, transcurrido el citado plazo, no se hayan cubierto las contraprestaciones debidas, la institución fiduciaria transmitirá los bienes o derechos en su poder en virtud del fideicomiso, al fideicomitente o al fideicomisario, según corresponda. En el evento de que, después de esfuerzos razonables, la institución fiduciaria no pueda encontrar o no tenga noticias del fideicomitente o fideicomisario para efectos de lo anterior y siempre que haya transcurrido el plazo señalado sin haber recibido la contraprestación correspondiente, estará facultada para abonar los referidos bienes, cuando éstos se traten de recursos líquidos entre las opciones disponibles que maximicen la recuperación, a la cuenta global de la institución a que se refiere el artículo 61 de la Ley de Instituciones de Crédito, en cuyo caso los mencionados recursos se sujetarán a las disposiciones aplicables a la citada cuenta global. Tratándose de bienes que no sean recursos líquidos, la institución fiduciaria, sin responsabilidad alguna, estará facultada para enajenar los mismos y convertirlos en recursos líquidos, para su posterior abono en la cuenta global en los términos señalados. Contra los recursos líquidos que se obtengan, podrán deducirse los gastos relacionados con la recuperación.
 
@@ -3276,15 +3322,29 @@ Las instituciones fiduciarias a que se refieren las fracciones II a IV y VI de e
 
 Las instituciones y sociedades mencionadas en el artículo anterior, podrán reunir la calidad de fiduciarias y fideicomisarias, tratándose de fideicomisos cuyo fin sea garantizar obligaciones a su favor. En este supuesto, las partes deberán convenir los términos y condiciones para dirimir posibles conflictos de intereses.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Para tal efecto, las partes podrán nombrar un ejecutor o instructor, que podrá ser una institución fiduciaria o cualquier tercero, a fin de que determine el cumplimiento o incumplimiento del contrato para el sólo efecto de iniciar el procedimiento de ejecución y para que cumpla los fines del fideicomiso en lo que respecta a la realización y aplicación de la garantía, a partir de que se considere incumplida la obligación garantizada.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+En todo caso, el ejecutor o instructor ejercitará sus funciones en nombre y representación del fiduciario, pero sin sujetarse a sus instrucciones, obrando en todo momento de conformidad con lo pactado en el contrato y la legislación aplicable y actuando con independencia e imparcialidad respecto de los intereses del fideicomitente y fideicomisario.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Para efectos del párrafo anterior, se presume independencia e imparcialidad en el cumplimiento del contrato o ejecución de la garantía, cuando los títulos representativos del capital social, así como las compras e ingresos del último ejercicio fiscal o del que esté en curso del ejecutor o instructor, no estén vinculados con alguna de las partes del crédito garantizado en más de un diez por ciento.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 397.
 
-Cuando así se señale, un mismo fideicomiso podrá ser utilizado para garantizar simultánea o sucesivamente diferentes obligaciones que el fideicomitente contraiga, con un mismo o distintos acreedores, a cuyo efecto cada fideicomisario estará obligado a notificar a la institución fiduciaria que la obligación a su favor ha quedado extinguida, en cuyo caso quedarán sin efectos los derechos que respecto de él se derivan del fideicomiso. La notificación deberá entregarse mediante fedatario público a más tardar a los cinco días hábiles siguientes a la fecha en la que se reciba el pago.
+Cuando así se señale, un mismo fideicomiso podrá ser utilizado para garantizar simultánea o sucesivamente diferentes obligaciones que el fideicomitente contraiga, con un mismo o distintos acreedores, a cuyo efecto se estipularán las reglas y en su caso, las prelaciones aplicables.
 
-A partir del momento en que el fiduciario reciba la mencionada notificación, el fideicomitente podrá designar un nuevo fideicomisario o manifestar a la institución fiduciaria que se ha realizado el fin para el cual fue constituido el fideicomiso.
+En este caso, cada fideicomisario estará obligado a notificar a la institución fiduciaria cuando la obligación a su favor haya quedado extinguida, en cuyo caso quedarán sin efectos los derechos que respecto de él se derivan del fideicomiso. La notificación deberá entregarse mediante fedatario público a más tardar a los cinco días hábiles siguientes a la fecha en la que se reciba el pago.
 
-El fideicomisario que no entregue oportunamente al fiduciario la notificación a que se refiere este artículo, resarcirá al fideicomitente los daños y perjuicios que con ello le ocasione.
+En el caso de fideicomisos con fideicomisarios sucesivos y no simultáneos, a partir del momento en que el fiduciario reciba la mencionada notificación, el fideicomitente podrá designar un nuevo fideicomisario o manifestar a la institución fiduciaria que se ha realizado el fin para el cual fue constituido el fideicomiso.
+
+El fideicomisario que no entregue oportunamente al fiduciario la notificación a que se refiere este artículo, resarcirá a los demás fideicomisarios, en su caso, y al fideicomitente los daños y perjuicios que con ello les ocasione.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -3296,29 +3356,49 @@ I.- Hacer uso de los bienes fideicomitidos, los combinen o empleen en la fabrica
 
 II.- Percibir y utilizar los frutos y productos de los bienes fideicomitidos, y
 
-III.- Instruir al fiduciario la enajenación de los bienes fideicomitidos, sin responsabilidad para éste, siempre y cuando dicha enajenación sea acorde con el curso normal de las actividades del fideicomitente. En estos casos cesarán los efectos de la garantía fiduciaria y los derechos de persecución con relación a los adquirentes de buena fe, quedando afectos al fideicomiso los bienes o derechos que el fiduciario reciba o tenga derecho a recibir en pago por la enajenación de los referidos bienes.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+III. Instruir al fiduciario la enajenación de los bienes fideicomitidos, sin responsabilidad para éste, siempre y cuando dicha enajenación sea acorde con el contrato de fideicomiso y el curso normal de las actividades del fideicomitente. En estos casos cesarán los efectos de la garantía fiduciaria y los derechos de persecución con relación a los adquirentes de buena fe, quedando afectos al fideicomiso los bienes o derechos que el fiduciario reciba o tenga derecho a recibir en pago por la enajenación de los referidos bienes.
 
 El derecho que tengan el o los fideicomitentes para instruir al fiduciario la enajenación de los bienes muebles materia del fideicomiso conforme al párrafo anterior, quedará extinguido desde el momento en que se inicie el procedimiento previsto en el artículo 403 de esta Ley, o bien cuando el fiduciario tenga conocimiento del inicio de cualquiera de los procedimientos de ejecución previstos en el Libro Quinto Título Tercero Bis del Código de Comercio.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Las fracciones I y II referidas anteriormente, serán aplicables sólo a los fideicomisos de garantía en los cuales el deudor o un tercero conserve la posesión sobre los bienes muebles.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 399.
 
-Para efectos de lo dispuesto en el artículo anterior, las partes deberán convenir desde la constitución del fideicomiso:
+Para efectos de lo dispuesto en el artículo anterior, las partes podrán convenir desde la constitución del fideicomiso:
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 I.- En su caso, los lugares en que deberán encontrarse los bienes fideicomitidos;
 
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 II.- Las contraprestaciones mínimas que deberá recibir el fiduciario por la venta o transferencia de los bienes muebles fideicomitidos;
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 III.- La persona o personas a las que el fiduciario, por instrucciones del fideicomitente, podrá vender o transferir dichos bienes, pudiendo, en su caso, señalar las características o categorías que permitan identificarlas, así como el destino que el fiduciario deberá dar al dinero, bienes o derechos que reciba en pago;
 
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 IV.- La información que el fideicomitente deberá entregar al fideicomisario sobre la transformación, venta o transferencia de los mencionados bienes;
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 V.- La forma de valuar los bienes fideicomitidos, y
 
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 VI.- Los términos en los que se acordará la revisión del aforo pactado, en el caso de que el bien o bienes dados en garantía incrementen su valor.
 
-En caso de incumplimiento a los convenios celebrados con base en este artículo, el crédito garantizado por el fideicomiso se tendrá por vencido anticipadamente.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+En caso de incumplimiento a los convenios celebrados con base en este artículo, el crédito garantizado por el fideicomiso se podrá declarar vencido anticipadamente por el acreedor garantizado.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -3332,11 +3412,13 @@ En este caso, serán por cuenta del fideicomitente los gastos necesarios para la
 
 Si los bienes fideicomitidos se pierden o se deterioran, el fideicomisario tiene derecho de exigir al fideicomitente, cuando éste sea el deudor de la obligación garantizada, la transmisión en fideicomiso de otros bienes o el pago de la deuda aun antes del plazo convenido.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 401.
 
-Los riesgos de pérdida, daño o deterioro del valor de los bienes fideicomitidos corren por cuenta de la parte que esté en posesión de los mismos, debiendo permitir a las otras partes inspeccionarlos a efecto de verificar, según corresponda, su peso, cantidad y estado de conservación general.
+Salvo pacto en contrario, los riesgos de pérdida, daño o deterioro del valor de los bienes fideicomitidos corren por cuenta de la parte que este en posesión de los mismos, debiendo permitir a las otras partes inspeccionarlos a efecto de verificar, según corresponda, su peso, cantidad y estado de conservación general.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 De convenirse así en el contrato, si el valor de mercado de los bienes fideicomitidos disminuye de manera que no baste a cubrir el importe del principal y los accesorios de la deuda que garantizan, el deudor podrá dar bienes adicionales para restituir la proporción original. En caso contrario, el crédito podrá darse por vencido anticipadamente, teniendo el acreedor que notificar al deudor de ello judicialmente o a través de fedatario.
 
@@ -3346,21 +3428,33 @@ De convenirse así en el contrato, si el valor de mercado de los bienes fideicom
 
 En caso de incumplimiento de la obligación garantizada, si el depositario se niega a devolver al fiduciario los bienes depositados, su restitución se tramitará de conformidad con lo establecido en el Libro Quinto Título Tercero Bis del Código de Comercio.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 403.
 
-En el fideicomiso de garantía, las partes podrán convenir la forma en que la institución fiduciaria procederá a enajenar extrajudicialmente, a título oneroso, los bienes o derechos en fideicomiso, siempre que, cuando menos, se pacte lo siguiente:
+En el fideicomiso de garantía, las partes podrán convenir la forma en que la institución fiduciaria procederá a enajenar extrajudicialmente, a título oneroso, los bienes o derechos en fideicomiso, pudiendo en todo caso pactarse lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 I.- Que la institución fiduciaria inicie el procedimiento de enajenación extrajudicial del o los bienes o derechos en fideicomiso, cuando reciba del o los fideicomisarios comunicación por escrito en la que soliciten la mencionada enajenación y precisen el incumplimiento de la o las obligaciones garantizadas;
 
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 II.- Que la institución fiduciaria comunique por escrito al o los fideicomitentes en el domicilio señalado en el fideicomiso o en acto posterior, la solicitud prevista en la fracción anterior, junto con una copia de la misma, quienes únicamente podrán oponerse a la enajenación, si exhiben el importe del adeudo, acreditan el cumplimiento de la o las obligaciones precisadas en la solicitud por el o los fideicomisarios de conformidad con la fracción anterior, o presentan el documento que compruebe la prórroga del plazo o la novación de la obligación;
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 III.- Que sólo en caso de que el o los fideicomitentes no acrediten, de conformidad con lo previsto en la fracción anterior, el cumplimiento de la o las obligaciones garantizadas o, en su caso, su novación o prórroga, la institución fiduciaria procederá a enajenar extrajudicialmente el o los bienes o derechos fideicomitidos, en los términos y condiciones pactados en el fideicomiso, y
 
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 IV.- Los plazos para llevar a cabo los actos señalados en las fracciones anteriores.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 El texto que contenga el convenio de enajenación extrajudicial a que se refiere este artículo deberá incluirse en una sección especial del fideicomiso de garantía, la que contará con la firma del fideicomitente, que será adicional a aquélla con que haya suscrito dicho fideicomiso.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 A falta del convenio previsto en este artículo, se seguirán los procedimientos establecidos en el Libro Quinto Título Tercero Bis del Código de Comercio para la realización de los siguientes actos:
 
@@ -3368,11 +3462,17 @@ a) La enajenación de los bienes en fideicomiso que en su caso deba llevar a cab
 
 b) La tramitación del juicio que se promueva para oponerse a la ejecución del fideicomiso.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 404.
 
-Cuando el fideicomiso de garantía se refiera a bienes muebles y su monto sea igual o superior al equivalente en moneda nacional a doscientas cincuenta mil unidades de inversión, las partes deberán ratificar sus firmas ante fedatario público.
+El fideicomiso de garantía debe constar por escrito. Tratándose de fideicomisos cuyo objeto recaiga sobre bienes inmuebles deberá constar en escritura pública e inscribirse en el registro público de la propiedad correspondiente.
+
+Cuando el patrimonio del fideicomiso de garantía recaiga sobre bienes muebles y su monto sea igual o superior al equivalente en moneda nacional a doscientas cincuenta mil Unidades de Inversión, las partes deberán ratificar sus firmas ante fedatario público.
+
+El contrato de fideicomiso de garantía será válido desde su constitución y la nulidad de alguna de sus cláusulas por contravenciones a lo dispuesto en esta ley no producirá la nulidad del fideicomiso.
+
+En caso de declararse nula alguna cláusula del contrato de fideicomiso de garantía, se aplicará supletoriamente lo dispuesto por esta ley.
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -3404,7 +3504,9 @@ El fideicomiso de garantía se regirá por lo dispuesto en esta sección y, sól
 
 Por virtud del contrato de arrendamiento financiero, el arrendador se obliga a adquirir determinados bienes y a conceder su uso o goce temporal, a plazo forzoso, al arrendatario, quien podrá ser persona física o moral, obligándose este último a pagar como contraprestación, que se liquidará en pagos parciales, según se convenga, una cantidad en dinero determinada o determinable, que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios que se estipulen, y adoptar al vencimiento del contrato alguna de las opciones terminales a que se refiere el artículo 410 de esta Ley.
 
-Los contratos de arrendamiento financiero deberán otorgarse por escrito y podrán inscribirse en el Registro Público de Comercio, a solicitud de los contratantes, sin perjuicio de hacerlo en otros Registros que las leyes determinen.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Los contratos de arrendamiento financiero deberán otorgarse por escrito y deberán inscribirse en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio, en el folio electrónico del arrendador y del arrendatario, a fin de que surta efectos contra tercero, sin perjuicio de hacerlo en otros registros especiales que las leyes determinen.
 
 En los contratos de arrendamiento financiero en los que se convenga la entrega de anticipos, por parte del arrendador, a los proveedores, fabricantes o constructores de los bienes objeto de dichos contratos que, por su naturaleza, ubicación o proceso de producción, no sean entregados en el momento en que se pague su precio o parte del mismo, el arrendatario quedará obligado a pagar al arrendador una cantidad de dinero, determinada o determinable, que cubrirá únicamente el valor de las cargas financieras y demás accesorios de los anticipos hasta en tanto se entregue el bien de que se trate, condición que deberá estar contenida en el contrato de arrendamiento financiero.
 
@@ -3564,11 +3666,11 @@ La suscripción y entrega de dichos pagarés no se considerará como pago o daci
 
 En las operaciones de factoraje financiero la transmisión de los derechos de crédito comprende la de todos los derechos accesorios a ellos, salvo pacto en contrario.
 
-> <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 426.
 
-La transmisión de derechos de crédito efectuada con motivo de una operación de factoraje financiero surtirá efectos frente a terceros, desde la fecha en que haya sido notificada al deudor, en los términos del artículo 427 de esta Ley, sin necesidad de que sea inscrita en registro alguno u otorgada ante fedatario público.
+La transmisión de derechos de crédito efectuada con motivo de una operación de factoraje financiero surtirá efectos frente a terceros, desde la fecha en que haya sido inscrita en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio, sin necesidad de que sea otorgada ante fedatario público.
 
 > <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -4193,3 +4295,11 @@ XIV. Las disposiciones de carácter general a que se refieren los artículos 86 
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
