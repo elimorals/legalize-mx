@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fondos-de-inversion-antes-ley-de-sociedades-de-21343"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2014-01-10"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21343&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-31"
 
 LEY DE FONDOS DE INVERSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -1995,11 +1995,11 @@ Se exceptúa a los fondos de inversión de lo establecido en el artículo 177 de
 
 Los libros de contabilidad y los registros a que se refiere esta Ley, deberán conservarse disponibles en las oficinas del fondo de inversión, sociedad operadora de fondos de inversión, sociedad distribuidora de acciones de fondos de inversión o de las sociedades valuadoras de acciones de fondos de inversión.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 79.
 
-Las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y sociedades valuadoras de acciones de fondos de inversión, deberán publicar en medios impresos o electrónicos de amplia circulación o divulgación, los estados financieros formulados de acuerdo con lo previsto en el artículo 77 de esta Ley. Tales publicaciones serán bajo la estricta responsabilidad de los administradores, comisarios y auditores de las sociedades que hayan aprobado o dictaminado, según corresponda, la autenticidad de los datos contenidos en dichos estados financieros. Dichas personas deberán cuidar que los estados financieros revelen la verdadera situación financiera de las sociedades y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esta situación. Se exceptúa a las sociedades operadoras de fondos de inversión, a las sociedades distribuidoras de acciones de fondos de inversión y a las sociedades valuadoras de acciones de fondos de inversión, de lo establecido en el artículo 177 de la Ley General de Sociedades Mercantiles por lo que corresponde a la publicación de los estados financieros en el Diario Oficial de la Federación.
+Las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y sociedades valuadoras de acciones de fondos de inversión, deberán publicar en medios impresos o electrónicos de amplia circulación o divulgación, los estados financieros formulados de acuerdo con lo previsto en el artículo 77 de esta Ley. Tales publicaciones serán bajo la estricta responsabilidad de los administradores, comisarios y auditores de las sociedades que hayan aprobado o dictaminado, según corresponda, la autenticidad de los datos contenidos en dichos estados financieros. Dichas personas deberán cuidar que los estados financieros revelen la verdadera situación financiera de las sociedades y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esta situación. Se exceptúa a las sociedades operadoras de fondos de inversión, a las sociedades distribuidoras de acciones de fondos de inversión y a las sociedades valuadoras de acciones de fondos de inversión, de lo establecido en el artículo 177 de la Ley General de Sociedades Mercantiles.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -3168,3 +3168,11 @@ X. Las referencias que en otras Leyes, reglamentos o disposiciones se hagan resp
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
