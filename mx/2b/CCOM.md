@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2014-01-10"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CÓDIGO DE COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -152,7 +152,7 @@ DE LAS OBLIGACIONES COMUNES Á TODOS LOS QUE PROFESAN EL COMERCIO.
 
 Todos los comerciantes, por el hecho de serlo, están obligados:
 
-I. A la publicación, por medio de la prensa, de la calidad mercantil, con sus circunstancias esenciales, y en su oportunidad, de las modificaciones que se adopten;
+I. (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
 II. A la inscripción en el Registro público de Comercio, de los documentos cuyo tenor y autenticidad deben hacerse notorios;
 
@@ -168,17 +168,7 @@ Del anuncio de la calidad mercantil.
 
 ###### Art. 17.
 
-Los comerciantes tienen el deber:
-
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
-
-I. De participar la apertura del establecimiento o despacho de su propiedad, por los medios de comunicación que sean idóneos, en las plazas en que tengan domicilio, sucursales, relaciones o corresponsables mercantiles; esta información dará a conocer el nombre del establecimiento o despacho, su ubicación y objeto; si hay persona encargada de su administración, su nombre y firma; si hay compañía, su naturaleza, la indicación del gerente ó gerentes, la razón social ó denominación y la persona ó personas autorizadas para usar una ú otra, y la designación de las casas, sucursales ó agencias, si las hubiere;
-
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
-
-II. De dar parte, en igual forma, de las modificaciones que sufra cualquiera de las circunstancias antes referidas;
-
-III. (DEROGADA, D.O.F. 23 DE ENERO DE 1981)
+(DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
 ### CAPÍTULO II.
 
@@ -202,21 +192,15 @@ La Secretaría emitirá los lineamientos necesarios para la adecuada operación 
 
 La inscripción o matrícula en el registro mercantil será potestativa para los individuos que se dediquen al comercio y obligatoria para todas las sociedades mercantiles por lo que se refiere a su constitución, transformación, fusión, escisión, disolución y liquidación y para los buques. Los primeros quedarán matriculados de oficio al inscribir cualquier documento cuyo registro sea necesario.
 
-(REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### Art. 20.
 
-El Registro Público de Comercio operará con un programa informático y con una base de datos central interconectada con las bases de datos de sus oficinas ubicadas en las entidades federativas. Las bases de datos contarán con al menos un respaldo electrónico.
-
-Mediante el programa informático se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información registral.
-
-Las bases de datos del Registro Público de Comercio en las entidades federativas se integrarán con el conjunto de la información incorporada por medio del programa informático de cada inscripción o anotación de los actos mercantiles inscribibles, y la base de datos central con la información que los responsables del Registro incorporen en las bases de datos ubicadas en las entidades federativas.
+El Registro Público de Comercio operará con un programa informático mediante el cual se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información registral.
 
 El programa informático será establecido por la Secretaría. Dicho programa y las bases de datos del Registro Público de Comercio, serán propiedad del Gobierno Federal.
 
-En caso de existir discrepancia o presunción de alteración de la información del Registro Público de Comercio contenida en la base de datos de alguna entidad federativa, o sobre cualquier otro respaldo que hubiere, prevalecerá la información registrada en la base de datos central, salvo prueba en contrario.
-
-La Secretaría establecerá los formatos, que serán de libre reproducción, así como los datos, requisitos y demás información necesaria para llevar a cabo las inscripciones, anotaciones y avisos a que se refiere el presente Capítulo. Lo anterior deberá publicarse en el Diario Oficial de la Federación.
+La Secretaría establecerá los formatos, que serán de libre reproducción, así como los datos, requisitos y demás información necesaria para llevar a cabo los asientos a que se refiere el presente Capítulo, previo pago de los derechos establecidos por las entidades federativas. Lo anterior deberá publicarse en el Diario Oficial de la Federación.
 
 (ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
@@ -296,9 +280,9 @@ XVIII. (DEROGADA POR LA FRACCIÓN III DEL ARTÍCULO TERCERO TRANSITORIO DE LA LE
 
 XIX. Las autorizaciones de los corredores públicos para registrar información;
 
-> <small>(ADICIONADA, D.O.F. 27 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-XX. Las garantías mobiliarias que hubiere otorgado, así como los actos jurídicos por los que constituya un privilegio especial o derecho de retención sobre bienes muebles a favor de terceros, en los términos de lo dispuesto por los artículos 32 bis 1 a 32 bis 9 del presente Capítulo.
+XX. Las garantías mobiliarias que hubiere otorgado, así como cualesquiera otros actos jurídicos por los que constituya un privilegio especial o derecho de retención sobre bienes muebles a favor de terceros, en los términos de lo dispuesto por los artículos 32 bis 1 a 32 bis 9 del presente Capítulo, información que deberá residir en la base de datos nacional a que se refiere la Sección Única del presente Capítulo, de conformidad con las reglas de matriculación establecidas en el Reglamento del Registro Público de Comercio.
 
 (ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
@@ -330,15 +314,13 @@ El reglamento del presente Capítulo desarrollará el procedimiento registral de
 
 La prelación entre derechos sobre dos o más actos que se refieran a un mismo folio mercantil electrónico, se determinará por el número de control o en su caso por el sello digital de tiempo que otorgue el registro, cualquiera que sea la fecha de su constitución o celebración.
 
-(REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### Art. 22.
 
-Cuando, conforme a la ley, algún acto o contrato deba inscribirse en el Registro Público de la Propiedad o en registros especiales, su inscripción en dichos registros será bastante para que surtan los efectos correspondientes del derecho mercantil, siempre y cuando en el Registro Público de Comercio se tome razón de dicha inscripción y de las modificaciones a la misma.
+Cuando, conforme a la ley, algún acto o contrato deba inscribirse en el Registro Público de la Propiedad o en registros especiales para surtir efectos contra terceros, su inscripción en dichos registros será bastante.
 
-> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
-
-El registro de las garantías mobiliarias deberá sujetarse a lo establecido en la Sección Única del presente Capítulo.
+Las dependencias y organismos responsables de los registros especiales deberán coordinarse con la Secretaría de Economía para que las garantías mobiliarias y gravámenes sobre bienes muebles que hayan sido inscritos en dichos registros especiales puedan también ser consultados a través del Registro Único de Garantías Mobiliarias, en los términos que establezca el Reglamento del Registro Público de Comercio.
 
 (REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
@@ -374,11 +356,11 @@ Los documentos de procedencia extranjera que se refieran a actos inscribibles po
 
 Las sentencias dictadas en el extranjero sólo se registrarán cuando medie orden de autoridad judicial mexicana competente, y de conformidad con las disposiciones internacionales aplicables.
 
-(REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### Art. 27.
 
-La falta de registro de los actos cuya inscripción sea obligatoria, hará que éstos sólo produzcan efectos jurídicos entre los que lo celebren, y no podrán producir perjuicio a tercero, el cual sí podrá aprovecharse de ellos en lo que le fueren favorables.
+Los actos que deban inscribirse de acuerdo con las normas que los regulan, y que no se registren sólo producirán efectos jurídicos entre los que lo celebren.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -386,9 +368,11 @@ La falta de registro de los actos cuya inscripción sea obligatoria, hará que �
 
 Si el comerciante omitiere hacer la anotación o inscripción de los documentos que expresa la fracción X del artículo 21, podrá pedirla el otro cónyuge o cualquiera que tenga derecho de alimentos respecto de aquél.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### Art. 29.
 
-Los documentos inscritos producirán su efecto legal desde la fecha de su inscripción, sin que puedan invalidarlos otros anteriores ó posteriores no registrados.
+Los actos que deban inscribirse conforme a las normas que los regulan producirán efectos jurídicos contra terceros desde la fecha y hora de su inscripción, sin que puedan afectar su prelación otros actos que también deban inscribirse, ya sean anteriores o posteriores no registrados.
 
 (REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
@@ -478,21 +462,45 @@ El procedimiento para efectuar la rectificación en la base de datos lo determin
 
 Del Registro Único de Garantías Mobiliarias.
 
-> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### Art. 32 Bis 1.
 
-Las garantías mobiliarias que se constituyan con apego a éste u otros ordenamientos jurídicos del orden mercantil, su modificación, transmisión o cancelación, así como cualquier acto jurídico que se realice con o respecto de ellas, serán susceptibles de inscripción en los términos de esta Sección.
+Las garantías mobiliarias que se constituyan con apego a éste u otros ordenamientos jurídicos del orden mercantil, su modificación, transmisión o cancelación, así como cualquier acto jurídico que se realice con o respecto de ellas y, en general, cualquier gravamen o afectación sobre bienes muebles que sirva como garantía de manera directa o indirecta, deberán inscribirse en los términos de esta Sección para que surtan efectos jurídicos contra terceros, salvo que de acuerdo a las leyes que los regulan, los mismos deban inscribirse en algún registro especial.
 
-En las garantías mobiliarias quedan comprendidos, sin perjuicio de aquellos que por su naturaleza mantengan ese carácter, los actos jurídicos mercantiles por medio de los cuales se constituya, modifique, transmita o cancele un privilegio especial o derecho de retención sobre bienes muebles en favor de terceros.
+A. En las garantías mobiliarias quedan comprendidos, sin perjuicio de aquéllos que por su naturaleza mantengan ese carácter, los siguientes:
 
-Se presumen mercantiles todas las garantías mobiliarias otorgadas en favor de un comerciante, las cuales únicamente estarán sujetas a inscripción en los términos de esta Sección.
+I. La prenda sin transmisión de posesión;
 
-> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+II. La prenda ordinaria mercantil cuando el acreedor prendario no mantenga la posesión sobre los bienes;
+
+III. La prenda en los créditos refaccionarios o de habilitación o avío;
+
+IV. La hipoteca industrial por lo que hace a los bienes muebles sobre los que recae;
+
+B. Los siguientes actos deberán inscribirse en esta Sección:
+
+I. Los actos jurídicos mercantiles por medio de los cuales se constituya, modifique, transmita o cancele un privilegio especial o derecho de retención sobre bienes muebles en favor de terceros en los que el acreedor no mantenga la posesión sobre los bienes muebles;
+
+II. El arrendamiento financiero, por lo que hace a los bienes muebles sobre los que recae;
+
+III. El factoraje financiero;
+
+IV. Las cláusulas rescisoria y de reserva de dominio en compraventas mercantiles, cuando el comprador no mantenga la posesión de los bienes muebles;
+
+V. El fideicomiso de garantía en cuyo patrimonio existan bienes muebles;
+
+VI. Las resoluciones judiciales o administrativas que recaigan sobre bienes muebles, incluyendo los embargos sobre bienes muebles; y
+
+VII. Cualesquiera otros actos, gravámenes o afectaciones sobre bienes muebles de naturaleza análoga a los expresados en las fracciones anteriores, que sirvan directa o indirectamente como garantías, en los que el acreedor no mantenga la posesión sobre los mismos.
+
+Se presumen mercantiles, y por tanto sujetas a inscripción en los términos de esta Sección, todas las garantías mobiliarias y demás actos contenidos en el apartado B anterior que sean otorgadas en favor de un comerciante o que sirvan para garantizar una obligación de naturaleza mercantil.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### Art. 32 Bis 2.
 
-Se constituye el Registro Único de Garantías Mobiliarias, en adelante el Registro, como una sección del Registro Público de Comercio, en donde se inscribirán las garantías a que se refiere el artículo anterior, con lo que se dará publicidad de las mismas para los efectos que establezcan éste u otros ordenamientos jurídicos. Esta sección se sujetará a las bases especiales de operación a que se refieren los artículos siguientes.
+Se constituye el Registro Único de Garantías Mobiliarias, en adelante el Registro, como una sección del Registro Público de Comercio, en donde se inscribirán las garantías a que se refiere el artículo anterior. Esta Sección se sujetará a las bases especiales de operación a que se refieren los artículos siguientes.
 
 > <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
 
@@ -506,7 +514,13 @@ El Registro estará exclusivamente a cargo de la Secretaría; su operación se l
 
 La inscripción de las garantías mobiliarias, su modificación, transmisión o cancelación, así como la de cualquier acto vinculado con ellas, se realizará de manera inmediata a su recepción, previo pago de los derechos correspondientes, y en el folio de su otorgante.
 
-Salvo prueba en contrario, se presume que los otorgantes de garantías mobiliarias autorizan la inscripción de las mismas en el Registro.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Salvo prueba en contrario, se presume que los otorgantes de garantías mobiliarias autorizan la inscripción de las mismas en el Registro, así como su modificación, rectificación, transmisión, renovación, cancelación o algún aviso preventivo o anotación en relación con ellas o con sus bienes muebles.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Será responsabilidad de quien inscribe realizar los asientos en el folio electrónico del Registro, correspondiente al otorgante de la garantía mobiliaria, de conformidad con lo establecido en el Reglamento del Registro Público de Comercio.
 
 El procedimiento para la inscripción de garantías mobiliarias en el Registro se llevará de acuerdo a las bases siguientes:
 
@@ -516,13 +530,23 @@ II.- Las inscripciones, anotaciones o cualquier acto vinculado con ellas deberá
 
 III.- El Registro generará la boleta que corresponda, misma que se entregará de manera digital a su solicitante, y
 
-IV.- Serán inscribibles, en su caso y de acuerdo a lo establecido en el Reglamento, todos los documentos mercantiles a través de los cuales se constituya, modifique, transmita o cancele una garantía mobiliaria.
+IV.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
 Se encuentran facultados para llevar a cabo inscripciones o anotaciones en el Registro los fedatarios públicos, los jueces y las oficinas habilitadas de la Secretaría en las entidades federativas, así como las entidades financieras, los servidores públicos y otras personas que para tales fines autorice la Secretaría.
 
 Los acreedores, instancias de autoridad o personas facultadas que realicen inscripciones o anotaciones sobre garantías mobiliarias, serán responsables para todos los efectos legales de la existencia y veracidad de la información y documentación relativa a las inscripciones y anotaciones que lleven a cabo. Si una institución financiera o persona moral autorizada realiza la inscripción o anotación y es parte del contrato como acreedor prendario, fideicomisario o fiduciario, será responsable, independientemente del empleado o funcionario que realiza la inscripción.
 
-Será responsabilidad de quien realice una inscripción o anotación, llevar a cabo la rectificación de los errores materiales o de concepto que las mismas contengan. Se entiende que se comete un error de concepto, cuando al expresar en la inscripción o anotación alguno de los contenidos convencionales o formales de la garantía o acto objeto a registro, se altere o varíe su sentido en virtud de un juicio equivocado de quien la lleve a cabo. Todos los demás errores se considerarán materiales.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Será responsabilidad de quien realice una inscripción o anotación, llevar a cabo la rectificación de los errores que las mismas contengan.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Asimismo, será responsabilidad de quien realiza una inscripción, realizar la cancelación o modificación de los mismos, si se hubiere extinguido la garantía mobiliaria o si la garantía hubiere sido modificada.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Si quien aparece como acreedor de una inscripción no realiza la cancelación o modificación referida en el párrafo anterior, el deudor podrá solicitar a un juez la cancelación o modificación correspondiente, para lo cual el juez deberá emitir resolución en un plazo de 10 días hábiles a partir del cierre de instrucción ordenando la cancelación, modificación o la no procedencia de la petición, según corresponda, pudiendo el acreedor oponer la única excepción de falta de pago.
 
 Los acreedores, instancias de autoridad o personas facultadas para llevar a cabo inscripciones o anotaciones en el Registro, responden por los daños y perjuicios que se pudieren originar por tal motivo. El afectado podrá optar por reclamar los daños y perjuicios que se le ocasionen mediante su cálculo y acreditación o por sanción legal. La sanción legal se calculará y exigirá en un monto equivalente a 1,000 veces el salario mínimo diario general vigente en el Distrito Federal. Lo anterior, sin perjuicio de las sanciones penales o administrativas a que hubiere lugar.
 
@@ -534,11 +558,11 @@ Salvo que la vigencia de la inscripción o anotación se establezca en la forma 
 
 En los términos que establezca el Reglamento respectivo, de igual forma serán susceptibles de anotarse en el Registro, los avisos preventivos; las resoluciones judiciales o administrativas, así como cualquier acto que por su naturaleza constituya, modifique, transmita o cancele una garantía mobiliaria.
 
-> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### Art. 32 Bis 6.
 
-Las garantías mobiliarias inscritas de conformidad con la presente Sección, surtirán efectos frente a terceros de conformidad con las leyes respectivas.
+Las garantías mobiliarias inscritas de conformidad con la presente Sección, surtirán efectos contra terceros y tendrán prelación sobre cualesquiera otras posteriores o anteriores no inscritas.
 
 > <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2009)</small>
 
@@ -695,6 +719,14 @@ Para efectos de la conservación o presentación de originales, en el caso de me
 ###### Art. 50.
 
 Los tribunales pueden decretar de oficio, o a instancia de parte legítima, que se presenten en juicio las cartas que tengan relación con el asunto del litigio, así como que se compulsen de las respectivas copias las que se hayan escrito por los litigantes, fijándose de antemano, con precisión, por la parte que las solicite, las que hayan de ser copiadas o reproducidas.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+###### Art. 50 Bis.
+
+Las publicaciones que deban realizarse conforme a las leyes mercantiles se realizarán a través del sistema electrónico que para tal propósito establezca la Secretaría de Economía, y surtirán efectos a partir del día siguiente de su publicación.
+
+Lo anterior, sin perjuicio de las publicaciones que deban realizarse de conformidad con otras disposiciones o leyes especiales.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)</small>
 
@@ -1022,7 +1054,7 @@ II. Usando medios de identificación, tales como claves o contraseñas del Emiso
 
 III. Por un Sistema de Información programado por el Emisor o en su nombre para que opere automáticamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
@@ -1140,9 +1172,9 @@ Conforme al artículo 90, siempre que se entienda que el Mensaje de Datos provie
 
 Se presume que cada Mensaje de Datos recibido es un Mensaje de Datos diferente, salvo que el Destinatario sepa, o debiera saber, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que el nuevo Mensaje de Datos era un duplicado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 29 DE AGOSTO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ### CAPÍTULO II.
 
@@ -1214,9 +1246,9 @@ El Firmante será responsable de las consecuencias jurídicas que deriven por no
 
 IV. Responder por las obligaciones derivadas del uso no autorizado de su firma, cuando no hubiere obrado con la debida diligencia para impedir su utilización, salvo que el Destinatario conociere de la inseguridad de la Firma Electrónica o no hubiere actuado con la debida diligencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE AGOSTO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ### CAPÍTULO IV.
 
@@ -2456,7 +2488,7 @@ Siempre que con asentimiento del depositante dispusiese el depositario de las co
 
 (DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO 3° TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO I.
 
@@ -2464,75 +2496,75 @@ Del préstamo mercantil en general.
 
 ###### Art. 340.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 341.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 342.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 343.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 344.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 345.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 346.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 347.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 348.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 349.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 350.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 351.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 352.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 353.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 354.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 355.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 356.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 357.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ## TITULO QUINTO.
 
@@ -2580,7 +2612,7 @@ El recibo del capital por el acreedor, sin reservarse expresamente el derecho á
 
 Las entregas á cuenta, cuando no resulte expresa su aplicación, se imputarán en primer término al pago de intereses por orden de vencimientos, y después al del capital.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO I.
 
@@ -2588,29 +2620,29 @@ De la compraventa.
 
 ###### Art. 365.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 366.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 367.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 368.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 369.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 370.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE JUNIO DE 2000)</small>
 
 ## TITULO SEXTO.. DE LA COMPRAVENTA Y PERMUTA MERCANTILES, DE LA CESIÓN DE CRÉDITOS COMERCIALES Y DE LA CONSIGNACION MERCANTIL
 
@@ -2712,15 +2744,17 @@ De la Consignación Mercantil.
 
 Los créditos mercantiles que no sean al portador ni endosables, se trasferirán por medio de cesión.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### Art. 390.
 
-La cesión producirá sus efectos legales con respecto al deudor desde que le sea notificada ante dos testigos.
+La cesión producirá sus efectos legales con respecto al deudor, desde que le sea notificada ante dos testigos y contra terceros a partir de su inscripción en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio.
 
 ###### Art. 391.
 
 Salvo pacto en contrario, el cedente de un crédito mercantil responderá tan solo de la legitimidad del crédito y de la personalidad con que hizo la cesión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE JUNIO DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE JUNIO DE 2000)</small>
 
 ### CAPÍTULO I.
 
@@ -2782,13 +2816,13 @@ IV. El mutuo consentimiento; y,
 
 V. Incumplimiento de las obligaciones de alguna de las partes.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
 ## TITULO SÉPTIMO.
 
 DE LOS CONTRATOS DE SEGUROS.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
 ### CAPÍTULO II.
 
@@ -2796,17 +2830,17 @@ Del seguro contra incendios.
 
 ###### Art. 395.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 396.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 397.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
 ### CAPÍTULO III.
 
@@ -2814,115 +2848,115 @@ Del seguro sobre la vida.
 
 ###### Art. 398.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 399.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 400.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 401.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 402.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 403.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 404.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 405.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 406.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 407.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 408.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 409.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 410.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 411.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 412.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 413.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 414.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 415.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 416.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 417.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 418.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 419.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 420.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 421.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 422.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 423.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 424.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 ###### Art. 425.
 
-(DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
+(DEROGADO POR EL ARTÍCULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)</small>
 
@@ -3844,9 +3878,9 @@ Si un jefe de estación, un conductor de vehículo terrestre ó un patrón de em
 
 Los empresarios de transportes están obligados:
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-I. A publicar en el periódico oficial del Estado, o del Distrito Federal, y circular sus reglamentos, fijándolos en los parajes públicos, en la parte más visible de sus oficinas y en cada uno de los vehículos destinados a la conducción, poniendo los artículos relativos al reverso de los conocimientos de carga;
+I. A publicar en el sistema electrónico establecido por la Secretaría de Economía, y circular sus reglamentos, fijándolos en los parajes públicos, en la parte más visible de sus oficinas y en cada uno de los vehículos destinados a la conducción, poniendo los artículos relativos al reverso de los conocimientos de carga;
 
 II. A dar á los pasajeros billetes de asiento, y á los cargadores la carta de porte á que se refiere el artículo 581;
 
@@ -6005,6 +6039,10 @@ IV. Además de lo señalado en la fracción III, con la demanda y contestación 
 V. Copia simple o fotostática siempre que sean legibles a simple vista, tanto del escrito de demanda como de los demás documentos referidos, incluyendo la de los que se exhiban como prueba según los párrafos precedentes para correr traslado a la contraria.
 
 Lo dispuesto en la fracción anterior, se observará también respecto de los escritos en que se oponga la excepción de compensación o se promueva reconvención o algún incidente.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Art. 1,061 Bis. En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por el artículo 210-A del Código Federal de Procedimientos Civiles.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -8808,7 +8846,13 @@ I. Por el dictamen que rinda el perito que las partes designen para tal efecto d
 
 II. Por cualquier otro procedimiento que acuerden las partes por escrito.
 
-Al celebrar el contrato las partes deberán establecer las bases para designar a una persona autorizada, distinta del acreedor, para que realice el avalúo de los bienes, en caso de que éste no pueda llevarse a cabo, en términos de lo establecido en las fracciones de este artículo.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Al celebrar el contrato las partes deberán designar perito o establecer las bases para designar a una persona autorizada distinta del acreedor, para que realice el avalúo de los bienes, en caso de que éste no pueda llevarse a cabo, en términos de lo establecido en las fracciones de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+A falta de acuerdo respecto a la designación del perito o de la persona autorizada, éste será designado por el juez competente a solicitud de cualquiera de las partes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
@@ -9383,6 +9427,10 @@ Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el e
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 Tratándose de embargo de inmuebles, a petición de la parte actora, el juez requerirá que la demandada exhiba el o los contratos celebrados con anterioridad que impliquen la transmisión del uso o de la posesión de los mismos a terceros. Sólo se aceptarán contratos que cumplan con todos los requisitos legales y administrativos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Tratándose de embargo de bienes muebles, el mismo deberá realizarse en la Sección Única del Registro Único de Garantías Mobiliarias del Registro Público de Comercio.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -10489,3 +10537,11 @@ V. Las normas procesales contenidas en el presente Decreto no serán aplicables 
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
