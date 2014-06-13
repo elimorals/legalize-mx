@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2013-10-11"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -163,9 +163,9 @@ IX.- Girar las instrucciones e instructivos necesarios para el buen funcionamien
 
 X.- Resolver sobre el procedimiento de cancelación de actas del Registro Civil que se les presenten;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
 
-XI.- Expedir copia certificada de las actas y constancias que se encuentren en el Archivo General del Registro Civil; y
+XI.- Expedir copia certificada de las actas y constancias que se encuentren en el Archivo General del Registro Civil. Dichas copias podrán ser emitidas mediante el uso de Firma Electrónica, las cuales deberán contar con elementos de seguridad que acrediten su autenticidad y validez legal e impidan su falsificación de conformidad con la legislación aplicable; y
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -830,3 +830,7 @@ DECRETO NO. 558 POR EL QUE SE REFORMA EL ARTÍCULO 56 DE LA LEY ORGÁNICA DEL RE
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Túrnese el presente decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Baja California.
