@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-del-municipio-de-san-pedro-garza-259
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-07-22"
-last_updated: "1994-08-05"
+last_updated: "2014-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE ESPECTÁCULOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 1994.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE EVENTOS PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 13 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de Julio de 1991.
 
@@ -290,3 +292,23 @@ C.P. JESUS GUZMAN SEPULVEDA
 P.O. 5 DE AGOSTO DE 1994.
 
 PRIMERO.- Estas reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
+
+P.O. 13 DE JUNIO DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA PRIMERA SESIÓN ORDINARIA DEL MES DE JUNIO, CELEBRADA EL DÍA 10-DIEZ DE JUNIO DEL AÑO 2014-DOS MIL CATORCE, SE APRUEBA LA INICIATIVA DE REGLAMENTO DE EVENTOS PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León, previa consulta pública con la ciudadanía.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Municipal de Espectáculos del Municipio de San Pedro Garza García, Nuevo León, aprobado por el Republicano Ayuntamiento en Sesión Ordinaria celebrada el 22 de mayo de 1991 y publicado en el Periódico Oficial del Estado el 22 de julio de 1991.
+
+###### ARTÍCULO TERCERO.
+
+El proceso de organización para la celebración de espectáculos iniciados con antelación a la entrada en vigor del presente Reglamento, se sujetarán a la normatividad vigente al momento de su iniciación.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría del Republicano Ayuntamiento difundirá entre los ciudadanos del Municipio las disposiciones contenidas en el presente Reglamento.
