@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "2012-04-09"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,11 @@ abbreviation: "CJM"
 
 CÓDIGO DE JUSTICIA MILITAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
-Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR, PUBLICADO EN EL D.O.F. DE 13 DE JUNIO DE 2014, LAS DISPOSICIONES RELATIVAS A LOS JUECES DE EJECUCIÓN DE SENTENCIAS ENTRAN EN VIGOR SEIS MESES DESPUÉS DE SU PUBLICACIÓN.</small>
+
+Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 31 de agosto de 1933.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -42,17 +44,23 @@ CODIGO DE JUSTICIA MILITAR
 
 ### CAPITULO I. Disposiciones preliminares
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 1o.
 
-La justicia militar se administra:
+La administración de la justicia militar corresponde a:
 
-I.- Por el Supremo Tribunal Militar;
+I.- El Supremo Tribunal Militar;
 
-II.- por los consejos de guerra ordinarios;
+II.- Los Consejos de Guerra Ordinarios;
 
-III.- por los consejos de guerra extraordinarios;
+III.- Los Consejos de Guerra Extraordinarios;
 
-IV.- por los jueces.
+IV.- Los Jueces, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+V.- Los Jueces de Ejecución de Sentencia.
 
 ###### ARTICULO 2o.
 
@@ -60,7 +68,9 @@ Son auxiliares de la administración de justicia:
 
 I.- Los jueces penales del orden común;
 
-II.- la policía judicial militar y la policía común;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+II.- La policía ministerial militar y la policía común;
 
 III.- los peritos médico-legistas militares, los intérpretes y demás peritos;
 
@@ -140,11 +150,11 @@ Se nombrarán dos para la capital de la República, y uno para cada una de las d
 
 Tanto el presidente como los vocales propietarios y suplentes de los consejos de guerra ordinarios, serán nombrados por la Secretaría de la Defensa Nacional, y mientras tuvieren ese encargo, no podrán desempeñar comisiones del servicio de plaza.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 14.
 
-Cuando un acusado fuere de superior categoría militar a la de uno o varios de los miembros de un consejo de guerra o en el caso de impedimento o falta accidental de cualquiera de ellos, se integrará el tribunal, conforme a las reglas mandadas observar en el libro tercero, con los suplentes que fueren necesarios, para que todos sus miembros resulten de igual o superior categoría a la del acusado, y si ese medio no fuere suficiente para ello, la Secretaría de la Defensa Nacional designará los que deban integrar el consejo. Esta designación se hará por sorteo, de entre una lista de los generales hábiles para desempeñar ese servicio, formada a razón de tres por cada uno de los que deban ser sorteados y residan en el lugar en que haya de celebrarse el juicio o en el más cercano; y si ni así se lograre la integración, la propia Secretaría de la Defensa Nacional, habilitará con el grado correspondiente a los militares que, estando en aptitud de desempeñar el cargo, tengan grado inmediato inferior al acusado.
+Cuando un acusado fuere de superior categoría militar a la de uno o varios de los miembros de un consejo de guerra, o en el caso de impedimento o falta accidental de cualquiera de ellos, se integrará el Tribunal, conforme a las reglas mandadas observar en el libro tercero, con los suplentes que fueren necesarios, para que todos sus miembros resulten de igual o superior categoría a la del acusado, y si ese medio no fuere suficiente para ello, las Secretarías de la Defensa Nacional o de Marina, según corresponda, designarán los que deban integrar el consejo. Esta designación se hará por sorteo, de entre una lista de los generales hábiles para desempeñar ese servicio, formada a razón de tres por cada uno de los que deban ser sorteados y residan en el lugar en que haya de celebrarse el juicio o en el más cercano; y si ni así se lograre la integración, dichas Secretarías habilitarán con el grado correspondiente a los militares que, estando en aptitud de desempeñar el cargo, tengan grado inmediato inferior al acusado.
 
 ###### ARTICULO 15.
 
@@ -160,11 +170,11 @@ El consejo de guerra extraordinario se compondrá de cinco militares que deberá
 
 Sólo cuando no fuere posible formar el consejo sin los jefes u oficiales de la unidad en que sirva un acusado, figurarán sus nombres en la lista de que habla el artículo anterior; pero en ningún caso, ni por motivo alguno, serán comprendidos en ella, los oficiales de la compañía, escuadrón, batería o dependencia a que pertenezca el inculpado, ni quienes hubiesen denunciado los hechos o se hubieren presentado como querellantes.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 18.
 
-Los miembros del consejo a que el presente capítulo se refiere, se escogerán entre los militares de guerra; pero si el delito imputado al reo fuese propio de sus funciones técnicas, uno de aquellos, por lo menos, será escogido de la manera señalada en este mismo capítulo, entre los del cuerpo técnico correspondiente.
+Los miembros del consejo a que el presente capítulo se refiere, se escogerán entre los militares de guerra; pero si el delito imputado al procesado fuese propio de sus funciones técnicas, uno de aquellos, por lo menos, será escogido de la manera señalada en este mismo capítulo, entre los del cuerpo técnico correspondiente.
 
 ###### ARTICULO 19.
 
@@ -178,11 +188,11 @@ Tan pronto como terminen las operaciones de la campaña, el sitio o el bloqueo d
 
 El jefe militar que convoque un consejo de guerra extraordinario en lugar en donde no residieren funcionarios permanentes del servicio de justicia, designará, de entre los abogados titulados que en él radiquen, las personas que deben fungir como juez instructor, secretario y agente del Ministerio Público. Si no hubiere abogados o habiéndolos, existieren graves razones para no hacer de entre ellos la designación, nombrará para el desempeño de esos cargos a militares de guerra, haciendo constar, por medio de información especial, la falta de abogados o los fundamentos que hubiere tenido, para no designar a ninguno de los residentes.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 22.
 
-Los jefes militares que ejerzan las facultades a que se contrae el artículo anterior, deberán dar cuenta de sus actos, tan luego como les sea posible, a la Secretaría de la Defensa Nacional.
+Los jefes militares que ejerzan las facultades a que se contrae el artículo anterior, deberán dar cuenta de sus actos, tan luego como les sea posible, a la Secretaría de la Defensa Nacional o a la de Marina, según corresponda.
 
 ###### ARTICULO 23.
 
@@ -228,11 +238,17 @@ III.- las del oficial mayor, por el subalterno que le siga en categoría y, en i
 
 Cuando un juez foráneo tuviere impedimento para conocer de un negocio, lo sucederá el secretario. En las plazas en que residan dos o más jueces, al impedido lo sucederá el que siga en número, y en su caso, el de residencia más inmediata. Mientras se remiten los autos, el secretario deberá practicar las diligencias urgentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 30 BIS.- Los Juzgados de Ejecución de Sentencias se organizarán y regirán en los términos que establece el capítulo V de este Título.
+
 ### CAPITULO II. Del Cuerpo Médico Legal Militar
 
 ### CAPITULO III. Del archivo judicial y biblioteca
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ## TITULO SEGUNDO. De los auxiliares de la administración de justicia militar
 
@@ -266,7 +282,7 @@ IV.- por los médicos del personal técnico del Gabinete Antropométrico y los d
 
 ###### ARTICULO 34.
 
-El archivo judicial constituye parte integrante de la Dirección de Archivo Militar, a cuyo reglamento se sujetará en el orden técnico, sin perjuicio de que para su funcionamiento especial se rija por las instrucciones particulares que dé la Secretaría de la Defensa Nacional por conducto del presidente del Supremo Tribunal Militar, cuerpo al que el mencionado archivo quedará adscrito.
+El archivo judicial constituye parte integrante de la Dirección General de Archivo e Historia, a cuyo reglamento se sujetará en el orden técnico, sin perjuicio de que para su funcionamiento especial se rija por las instrucciones particulares que dé la Secretaría de la Defensa Nacional por conducto del presidente del Supremo Tribunal Militar, cuerpo al que el mencionado archivo quedará adscrito.
 
 ###### ARTICULO 35.
 
@@ -274,7 +290,7 @@ La biblioteca se formará, esencialmente, de todas las leyes, decretos y circula
 
 ### CAPITULO IV. De la policía judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ## TITULO TERCERO. De la organización del Ministerio Público
 
@@ -287,6 +303,10 @@ El Ministerio Público es el único capacitado para ejercitar la acción penal, 
 ###### ARTICULO 37.
 
 Toda denuncia o querella, sobre delitos de la competencia de los tribunales militares, se presentará, precisamente, ante el Ministerio Público; y a éste harán la consignación respectiva, las autoridades que tengan conocimiento de una infracción penal.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Cuando de las diligencias practicadas en la investigación de un delito se desprenda que éste no atenta contra la disciplina militar, en términos del artículo 57 de este Código, inmediatamente y bajo su más estricta responsabilidad del Ministerio Público Militar deberá remitir la indagatoria a la autoridad civil que corresponda, absteniéndose de ordenar ulteriores actuaciones, sin perjuicio de seguir actuando en la investigación de aquellos delitos del orden militar que resulten de los mismos hechos.
 
 ###### ARTICULO 38.
 
@@ -320,17 +340,17 @@ El Ministerio Público Militar, tendrá los empleados subalternos que sean neces
 
 Para ser Procurador General de Justicia Militar, se requieren las mismas condiciones que para ser magistrado; y su designación y protesta, se hará de la manera indicada para aquellos funcionarios.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 42.
 
-Para ser agente adscrito, deben llenarse los mismos requisitos que para ser juez; su nombramiento será hecho por la Secretaría de la Defensa Nacional y otorgarán la protesta de ley ante el Procurador General de Justicia Militar, los que residan en la capital de la República; los que deban residir fuera de ella, protestarán ante el comandante de la guarnición de la plaza en donde radique el juzgado a que sean adscritos, o ante el mismo procurador.
+Para ser agente adscrito, deben llenarse los mismos requisitos que para ser juez; su nombramiento será hecho por la Secretaría de la Defensa Nacional y otorgarán la protesta de ley ante el Procurador General de Justicia Militar, los que residan en la capital de la República; los que deban residir fuera de ella, protestarán ante el Comandante de Armas de la plaza en donde radique el juzgado a que sean adscritos o ante el mismo procurador.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 43.
 
-Los agentes auxiliares serán nombrados por la Secretaría de la Defensa Nacional, y dependerán del Procurador General como los demás agentes. Rendirán su protesta ante el comandante de la guarnición del lugar en que hayan de residir.
+Los agentes auxiliares serán nombrados por la Secretaría de la Defensa Nacional y dependerán del Procurador General como los demás agentes. Rendirán su protesta ante el Comandante de Armas de la plaza en que hayan de residir.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -356,33 +376,73 @@ La Procuraduría General de Justicia Militar, contará con un Laboratorio Cient�
 
 ###### ARTICULO 47.
 
-La Policía Judicial estará bajo la autoridad y mando del Ministerio Público y se compondrá:
+En el ejercicio de la investigación de los delitos que sean competencia de la jurisdicción militar, la Policía Ministerial Militar actuará bajo la conducción y mando del Ministerio Público, y se compondrá:
 
 I.- (DEROGADA, D.O.F. 22 DE JULIO DE 1994)
 
 II.- de un cuerpo permanente;
 
-III.- de los militares que en virtud de su cargo o comisión, desempeñen accidentalmente las funciones de policía judicial.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+III.- De los militares que en virtud de su cargo o comisión, desempeñen accidentalmente las funciones de Policía Ministerial Militar.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 48.
 
-La policía judicial permanente se compondrá del personal que designe la Secretaría de la Defensa Nacional, y dependerá directa e inmediatamente del Procurador General de Justicia Militar.
+La Policía Ministerial Militar permanente se compondrá del personal que designe la Secretaría de la Defensa Nacional o de Marina y dependerá directa e inmediatamente del Procurador General de Justicia Militar.
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 1937)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 49.
 
-La Policía Judicial a que se refiere la fracción III del artículo 47, se ejerce:
+Las funciones de la Policía Ministerial Militar a que se refiere la fracción III del artículo 47, se ejercen:
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 1937)</small>
 
 I.- Por los Jefes y Oficiales del Servicio de Vigilancia;
 
-II.- Por los Capitanes de Cuartel y Oficiales de Día;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+II.- Por los Oficiales de Cuartel, de Día, de Permanencia y sus equivalentes en la Armada;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 1937)</small>
 
 III.- Por los Comandantes de Guardia;
 
-IV.- Por los Comandantes de Armas, Partidas o Destacamento.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+IV.- Por Comandantes de los Servicios de Arma.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 49 BIS.- La Policía Ministerial Militar permanente, actuará bajo la conducción y el mando del Ministerio Público en la investigación de los delitos, tendrá las facultades y obligaciones siguientes:
+
+I.- Informar inmediatamente al Ministerio Público Militar competente cuando reciba la noticia de un hecho que pueda constituir una conducta delictiva;
+
+II.- Recopilar y confirmar la información que reciba sobre los hechos denunciados y hacerla constar en un registro destinado a tales fines, en el que se asentarán el día, la hora, el medio por el cual se obtuvo y los datos de los policías que intervinieron;
+
+III.- Prestar el auxilio que requieran las víctimas u ofendidos y proteger a los testigos;
+
+IV.- Realizar detenciones en los supuestos que autoriza la Constitución Federal poniendo de inmediato a las personas detenidas a disposición del Agente del Ministerio Público competente. Cuando se trate de delitos contra la disciplina militar los Agentes de la Policía Ministerial Militar estarán facultados para realizar inspecciones personales sobre el detenido y recoger los objetos que tenga en su poder, sujetándose para ello a las reglas que previene el presente Código;
+
+V.- Levantará un inventario de los objetos señalados en el párrafo anterior en presencia de la persona inspeccionada, que será firmado por ambos y las pondrá a disposición del Agente del Ministerio Público;
+
+VI.- Reunir toda la información urgente, que pueda ser útil al Agente del Ministerio Público;
+
+VII.- Cuidar que los rastros e instrumentos del delito sean conservados, preservando el lugar de los hechos. Para este efecto, impedirá el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a su clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará bajo su estricta responsabilidad que se alteren o borren de cualquier forma los vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo, hasta que intervengan el Ministerio Público y peritos. Quedará constancia por escrito en la cadena de custodia de los datos de identificación de los elementos que intervinieron en la protección del mismo;
+
+VIII.- Entrevistar a los testigos presumiblemente útiles para descubrir la verdad. Las entrevistas se harán constar en un registro de las diligencias policiales efectuadas;
+
+IX.- Practicar las diligencias orientadas a conocer los hechos y en su caso la individualización física de los autores y partícipes del hecho;
+
+X.- Recabar los datos personales que sirvan para la identificación del imputado, y
+
+XI.- Proporcionar seguridad a víctimas, ofendidos o testigos del delito, cuando lo considere necesario el Juez o el Ministerio Público.
+
+La Policía Ministerial Militar, por ningún motivo podrá realizar de propia autoridad, investigación sobre personas, manipulación y práctica de peritajes sobre los objetos asegurados.
+
+Cuando para el cumplimiento de estas facultades se requiera una orden judicial, la policía informará al Ministerio Público para que éste la solicite.
 
 ## TITULO CUARTO. De la organización del cuerpo de defensores de oficio
 
@@ -397,6 +457,8 @@ La defensa gratuita de los acusados por delitos de la competencia del fuero de g
 La acción del cuerpo de defensores de oficio, en favor de los acusados a quienes deba prestar sus servicios, no se limitará a los tribunales del fuero de guerra, sino se extenderá a los del orden común y federal.
 
 ### CAPITULO IV. Jueces y secretarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 52.
 
@@ -418,11 +480,11 @@ El cuerpo de defensores de oficio, tendrá los empleados subalternos que las nec
 
 Para ser jefe del cuerpo de defensores de oficio, deben llenarse los mismos requisitos que para ser agente del Ministerio Público; y para ser defensor, iguales condiciones, excepto el tiempo de ejercicio profesional en el fuero de guerra, que será de dos años.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 55.
 
-El jefe del cuerpo y defensores, serán nombrados por la Secretaría de la Defensa Nacional, ante la que otorgará su protesta el primero; los segundos que residan en la capital de la República, protestarán ante el citado jefe, y los que deban radicar fuera de ella, ante el propio jefe o ante el comandante de la guarnición del lugar de su destino. El resto del personal, protestará ante el mencionado jefe del cuerpo.
+El jefe del cuerpo y defensores, serán nombrados por la Secretaría de la Defensa Nacional, ante la que otorgará su protesta el primero; el resto de los defensores nombrados que residan en la capital de la República, protestarán ante el citado jefe, y los que deban radicar fuera de ella, ante el propio jefe o ante el Comandante de Armas de la plaza de su adscripción. El resto del personal, protestará ante el mencionado jefe del cuerpo.
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -440,25 +502,35 @@ En las faltas temporales, el jefe del cuerpo, será suplido por los defensores a
 
 Son delitos contra la disciplina militar:
 
-I.- Los especificados en el Libro Segundo de este Código;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-II.- los del orden común o federal, cuando en su comisión haya concurrido cualquiera de las circunstancias que en seguida se expresan:
+I.- Los especificados en el Libro Segundo de este Código, con las excepciones previstas en el artículo 337 Bis;
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+II.- Los del orden común o federal, siempre y cuando no tenga la condición de civil el sujeto pasivo que resiente sobre su persona la afectación producida por la conducta delictiva o la persona titular del bien jurídico tutelado o puesto en peligro por la acción u omisión prevista en ley penal como delito, en los siguientes supuestos:
 
 a).- Que fueren cometidos por militares en los momentos de estar en servicio o con motivo de actos del mismo;
 
-b).- que fueren cometidos por militares en un buque de guerra o en edificio o punto militar u ocupado militarmente, siempre que, como consecuencia, se produzca tumulto o desorden en la tropa que se encuentre en el sitio donde el delito se haya cometido o se interrumpa o perjudique el servicio militar;
+b).- Que fueren cometidos por militares en un buque de guerra o en edificio o punto militar u ocupado militarmente, siempre que, como consecuencia, se produzca tumulto o desorden en la tropa que se encuentre en el sitio donde el delito se haya cometido o se interrumpa o perjudique el servicio militar;
 
-c).- que fueren cometidos por militares en territorio declarado en estado de sitio o en lugar sujeto a la ley marcial conforme a las reglas del derecho de la guerra;
+c).- (DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
-d).- que fueren cometidos por militares frente a tropa formada o ante la bandera;
+d).- Que fueren cometidos por militares frente a tropa formada o ante la bandera;
 
-e).- que el delito fuere cometido por militares en conexión con otro de aquellos a que se refiere la fracción I.
+e).- Que el delito fuere cometido por militares en conexión con otro de aquellos a que se refiere la fracción I.
 
-Cuando en los casos de la fracción II, concurran militares y civiles, los primeros serán juzgados por la justicia militar.
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+Los delitos del orden común o federal que fueren cometidos por militares en tiempo de guerra, territorio declarado en ley marcial, o cualquiera de los supuestos previstos en la Constitución, corresponderán a la jurisdicción militar siempre y cuando el sujeto pasivo no tenga la condición de civil.
 
-Los delitos del orden común que exijan querella, necesaria para su averiguación y castigo, no serán de la competencia de los tribunales militares, sino en los casos previstos en los incisos (c) y (e) de la fracción II.
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+En todos los casos, cuando concurran militares y civiles como sujetos activos, solo los primeros podrán ser juzgados por la justicia militar.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Los delitos del orden común que exijan querella, necesaria para su averiguación y castigo, no serán de la competencia de los tribunales militares, sino en los casos previstos en el inciso (e) de la fracción II.
 
 ###### ARTICULO 58.
 
@@ -476,13 +548,15 @@ Cuando haya de juzgarse a un militar por delito de la competencia del fuero de g
 
 Si el ejército estuviere en territorio de una potencia amiga o neutral, se observarán en cuanto a competencia de los tribunales militares, las reglas que estuvieren estipuladas en los tratados o convenciones con esa potencia.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 62.
 
-Es tribunal competente para conocer de un proceso, el del lugar donde se cometa el delito.
+Es tribunal competente para conocer de un proceso, el de la jurisdicción del lugar donde se cometa el delito.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+La Secretaría de la Defensa Nacional, sin embargo, puede designar distinta jurisdicción a la del lugar en donde se cometió el delito, previa solicitud del procesado, o bien cuando las necesidades del servicio de justicia lo requieran.
 
-La Secretaría de la Defensa Nacional, sin embargo, puede designar distinta jurisdicción a la del lugar a donde se cometió el delito, cuando las necesidades del servicio de justicia lo requieran.
+En ambos casos la determinación correspondiente deberá emitirse debidamente fundada y motivada.
 
 ###### ARTICULO 63.
 
@@ -518,13 +592,11 @@ IV.- de las causas de responsabilidad de los funcionarios de la administración 
 
 V.- de las reclamaciones que se hagan contra las correcciones impuestas por los jueces y presidentes de consejo de guerra, confirmando, revocando o modificando dichas correcciones;
 
-VI.- de todo lo relativo a la libertad preparatoria y a la retención de los reos;
+VI.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-VII.- de las solicitudes de indulto necesario;
+VII.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
-
-VIII.- de la tramitación de las solicitudes de reducción de penas;
+VIII.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
 IX.- de consultas sobre dudas de ley que le dirijan los jueces;
 
@@ -658,13 +730,15 @@ II.- que la no inmediata represión del delito, implique, a juicio del jefe mili
 
 ###### ARTICULO 76.
 
-Corresponde a los jueces:
+Corresponde al juez de la causa:
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
 
 I.- Instruir los procesos de la competencia de los consejos de guerra, así como los de la propia; dictando al efecto las órdenes de incoación;
 
-II.- juzgar de los delitos penados con prisión que no exceda de un año, como término medio, con suspensión o con destitución. Cuando concurran diversas penas, la competencia se determinará por la corporal;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+II.- Juzgar los delitos penados con prisión que no exceda de un año, como término medio, con suspensión o con destitución. Cuando concurran diversas penas, la competencia se determinará por la pena privativa de libertad;
 
 > <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -685,6 +759,48 @@ VIII.- iniciar ante el Supremo Tribunal Militar, las leyes, reglamentos y medida
 IX.- llevar la correspondencia oficial, dictando los acuerdos económicos conforme al reglamento interior;
 
 X.- las demás atribuciones que determinen las leyes y reglamentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 76 BIS.- Los jueces de Ejecución de Sentencias, velarán porque el Sistema Penitenciario Militar se organice sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, el deporte y el adiestramiento militar como medios para mantener al sentenciado apto para su reincorporación a las actividades militares cuando corresponda y su reinserción a la sociedad, aprovechando el tiempo de intercambio para lograr, en lo posible, que el sentenciado una vez liberado, respete la ley y sea capaz de proveer sus necesidades.
+
+Así mismo, serán competentes para resolver sobre el otorgamiento de los beneficios que correspondan a las personas que hayan sido sentenciados por órganos del fuero militar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 76 TER.- El Juez de Ejecución de Sentencias, tendrá las facultades y obligaciones siguientes:
+
+I.- Modificar o declarar extintas las penas y/o las medidas de seguridad, garantizando el respeto de los derechos que asisten al sentenciado durante la ejecución de las mismas, siempre que se trate de penas impuestas por órganos del fuero militar.
+
+En ejercicio de esta función, el Director de la Prisión Militar con el apoyo de las áreas técnico administrativas del Sistema Penitenciario Militar estará obligado a informarle del contenido de los expedientes clínico-criminológicos de los sentenciados, así como de los avances e incidencias en su tratamiento;
+
+II.- Decidir sobre la libertad preparatoria y su revocación;
+
+III.- Comunicar a la autoridad penitenciaria la libertad inmediata de los sentenciados, por extinción de la pena privativa de libertad que les hubiera sido impuesta, con motivo de los indultos concedidos por el Ejecutivo Federal;
+
+IV.- Resolver sobre las solicitudes de reducción de penas;
+
+V.- Emitir las órdenes de aprehensión y reaprehensión que procedan en ejecución de sentencia;
+
+VI.- Pronunciarse sobre la cesación de la pena o medida de seguridad una vez transcurrido el plazo fijado por la sentencia y se haya cumplido en sus términos;
+
+VII.- Resolver en relación a la extinción o suspensión de la pena o de las medidas de seguridad;
+
+VIII.- Resolver en audiencia pública, de oficio o a petición de parte, las propuestas que formulen las autoridades penitenciarias o las solicitudes de reconocimiento de beneficios que supongan una modificación en las condiciones del cumplimiento de la condena o una reducción del tiempo de privación efectiva de la libertad, verificando que el daño haya sido reparado o, en su caso, se haya garantizado;
+
+IX.- Dejar sin efecto la sentencia condenatoria, cuando una ley elimine un hecho u omisión el carácter de delito que otra anterior le deba, ordenando la absoluta libertad del sentenciado;
+
+X.- Inspeccionar el lugar y condiciones en que se deban cumplir las penas y/o medidas de seguridad; asimismo, ejercer el control sobre las sanciones disciplinarias decretadas por las autoridades competentes e imponer las que correspondan, controlando además la forma en que se cumplan las medidas de seguridad impuestas a los inimputables;
+
+XI.- Ordenar la modificación o cesación de las medidas de seguridad, de acuerdo con los informes suministrados por las áreas responsables del cuidado, tratamiento y rehabilitación de quienes estén sujetos a ellas. Si lo estiman conveniente, podrán ordenar las verificaciones que procedan, acudiendo a los centros de asistencia oficial o privados, al efecto, los directores de las prisiones militares acatarán las resoluciones de dichos jueces en lo concerniente a las medidas de seguridad;
+
+XII.- Resolver sobre las impugnaciones que los internos formulen en relación con las sanciones que se les impongan en el régimen y el tratamiento penitenciario, sin que se suspenda la sanción con motivo de la impugnación, y
+
+XIII.- Las demás atribuciones que la ley y otros ordenamientos le asignen.
 
 ###### ARTICULO 77.
 
@@ -718,17 +834,31 @@ I.- Cuando se trate de delitos en los que sólo se puede proceder por querella n
 
 II.- cuando la ley exija algún requisito previo, o indispensable respecto del inculpado, si tal requisito no se hubiere llenado.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 80.
 
-Los representantes del Ministerio Público, en caso de notoria urgencia, cuando se trate de delito grave así señalado en el artículo 799 de este Código y ante el riesgo fundado de que el indiciado pueda substraerse a la acción de la justicia, podrán bajo su responsabilidad ordenar su detención, fundando y expresando los indicios que motivaron su proceder, lo anterior siempre y cuando no se pueda ocurrir ante la autoridad judicial militar por razón de la hora, lugar o circunstancia.
+El Ministerio Público, en casos urgentes, cuando se trate de delito que atente contra la disciplina militar y que sea grave de acuerdo con la ley, ante el riesgo fundado de que el indiciado pueda substraerse a la acción de la justicia, podrán bajo su responsabilidad ordenar su detención, fundando y expresando los motivos de su proceder, lo anterior siempre y cuando no se pueda ocurrir ante la autoridad judicial militar por razón de la hora, lugar o circunstancia. Realizada la detención, se procederá a su registro inmediato.
 
 En los casos de delitos flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo las reglas de disciplina y jerarquía para cometer de modo violento y reiterado o con fines predominantemente lucrativos algunos de los delitos señalados por la ley como graves.
 
-Cuando el indiciado fuese detenido o se presentare voluntariamente, el Ministerio Público en la averiguación previa, tendrá la obligación de hacerle saber las garantías consagradas en las fracciones I, II, V, VII y IX del artículo 20 Constitucional.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-Cuando proceda la libertad caucional del inculpado, el Ministerio Público cumplirá con el procedimiento establecido en los artículos 803 al 810 de este Código.
+Cuando el indiciado fuese detenido o se presentare voluntariamente será inmediatamente registrado por el Ministerio Público, quien tendrá la obligación de hacerle saber las garantías consagradas en el artículo 20 Constitucional.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+El registro que realicen la Policía Ministerial Militar y el Ministerio Público en todos los casos antes citados, deberá contener, al menos lo siguiente:
+
+I.- Nombre, grado y en su caso apodo del detenido;
+
+II.- Media filiación;
+
+III.- Motivo, circunstancias generales, lugar y hora en que se haya practicado la detención;
+
+IV.- Nombre de quien o quienes hayan intervenido en la detención. En su caso, grado y adscripción, y
+
+V.- Lugar donde será trasladado el detenido.
 
 ###### ARTICULO 81.
 
@@ -740,15 +870,17 @@ I.- Dictaminar personalmente sobre todas las dudas o conflictos de orden jurídi
 
 II.- ordenar a los agentes la formación de averiguaciones previas, sobre hechos que estime pudieran dar como resultado el esclarecimiento de que se ha cometido un delito de la competencia de los tribunales del fuero de guerra;
 
-III.- perseguir por sí mismo o por medio de sus agentes, ante los tribunales del fuero de guerra, los delitos contra la disciplina militar, solicitando las órdenes de aprehensión en contra de los reos, buscando y presentando las pruebas que acrediten la responsabilidad de éstos, cuidando de que los juicios se sigan con regularidad, pidiendo la aplicación de las penas que corresponda y vigilando que éstas sean debidamente cumplidas;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+III.- Perseguir por sí mismo o por medio de sus agentes, ante los tribunales del fuero de guerra, los delitos contra la disciplina militar, solicitando las órdenes de aprehensión en contra de los inculpados, buscando y presentando las pruebas que acrediten la responsabilidad de éstos, cuidando de que los juicios se sigan con regularidad, pidiendo la aplicación de las penas que corresponda. Promoviendo lo conducente para que éstas sean debidamente cumplidas;
 
-IV.- pedir instrucciones a la Secretaría de la Defensa Nacional, en los casos en que su importancia lo requiera, emitiendo su parecer. Cuando estimaré que las instrucciones que reciba no están ajustadas a derecho, hará por escrito a la propia Secretaría las observaciones que juzgue procedentes, y si ésta insiste en su parecer, las complementará desde luego;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+IV.- Pedir instrucciones a la Secretaría de la Defensa Nacional, en los casos en que por su importancia así se requiera, emitiendo las consideraciones y opinión que juzgue procedentes;
 
-V.- rendir los informes que la Secretaría de la Defensa Nacional o el Supremo Tribunal Militar le soliciten;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+V.- Rendir los informes que las Secretarías de la Defensa Nacional o de Marina, así como el Supremo Tribunal Militar le soliciten;
 
 VI.- dar a los agentes las instrucciones que estime necesarias para el mejor cumplimiento de su encargo, expedirles circulares y dictar todas las medidas económicas y disciplinarias convenientes, para lograr la unidad de acción del Ministerio Público;
 
@@ -758,37 +890,37 @@ VIII.- hacerse representar por sus agentes en diligencias a que deba concurrir, 
 
 IX.- calificar las excusas que presenten los agentes para intervenir en determinado negocio;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-X.- solicitar de la Secretaría de la Defensa Nacional las remociones que para el buen servicio estime necesarias;
+X.- Solicitar a las Secretarías de la Defensa Nacional y a la de Marina, según corresponda, las remociones que para el buen servicio estime necesarias;
 
 XI.- pedir que se hagan efectivas las responsabilidades en que incurran los funcionarios judiciales;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-XII.- otorgar licencias que no excedan de ocho días a los agentes y subalternos del Ministerio Público, dando aviso a la Secretaría de la Defensa Nacional;
+XII.- Otorgar licencias que no excedan de ocho días a los agentes y subalternos del Ministerio Público, dando aviso a las Secretarías de la Defensa Nacional y a la de Marina, según corresponda;
 
 XIII.- recabar de las oficinas públicas, toda clase de informes o documentación que necesitare en el ejercicio de sus funciones;
 
 XIV.- formar la estadística criminal militar;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-XV.- iniciar ante la Secretaría de la Defensa Nacional las leyes y reglamentos que estime necesarios para la mejor administración de justicia;
+XV.- Iniciar ante las Secretarías de la Defensa Nacional y la de Marina, las leyes y reglamentos que estime necesarios para la mejor administración de justicia;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-XVI.- formular el reglamento del Ministerio Público Militar, sometiéndolo a la aprobación de la Secretaría de la Defensa Nacional;
+XVI.- Formular el proyecto de reglamento del Ministerio Público Militar, sometiéndolo a la aprobación de las Secretarías de la Defensa Nacional y a la de Marina;
 
 XVII.- investigar, con especial diligencia, las detenciones arbitrarias que se cometan, promover el castigo de los responsables y adoptar las medidas legales para hacer que cesen aquéllas;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-XVIII.- celebrar acuerdo con las autoridades superiores de la Secretaría de la Defensa Nacional, dándoles cuenta de los principales asuntos técnicos de la institución;
+XVIII.- Celebrar acuerdo con las autoridades superiores de las Secretarías de la Defensa Nacional y de Marina, según corresponda, dándoles cuenta de los principales asuntos técnicos de la institución;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-XIX.- llevar con toda escrupulosidad y por duplicado, las hojas de actuación de todos los funcionarios y empleados que dependen de la Procuraduría General de Justicia Militar, haciendo las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de ellas y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado será enviado a la Secretaría de la Defensa Nacional;
+XIX.- Llevar con toda escrupulosidad y por duplicado, las hojas de actuación de todos los funcionarios y empleados que dependan de la Procuraduría General de Justicia Militar, haciendo las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de ellas y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado será enviado a las Secretarías de la Defensa Nacional y de Marina, según corresponda, y
 
 XX.- usar de las vías de apremio, en los casos en que fueren desatendidas las citas a que se refiere el artículo 38.
 
@@ -838,11 +970,23 @@ XII.- usar de las vías de apremio en los casos en que fueren desatendidas las c
 
 XIII.- los adscritos a los juzgados foráneos fungirán, por lo que toca a régimen carcelario, como asesores del Director de la Prisión Militar que haya en el lugar en que residan;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-XIV.- Atender a los derechos que tiene la víctima o el ofendido, contemplados en el último párrafo del artículo 20 Constitucional; y
+XIV.- Atender a los derechos que tiene la víctima o el ofendido, contemplados en el último párrafo del artículo 20 Constitucional;
 
-XV.- las demás que les encomiende el Procurador General y las leyes y reglamentos.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+XV.- Ordenar a la policía que, tratándose de delitos contra la disciplina militar, brinde protección a víctimas, ofendidos, testigos, jueces, magistrados, agentes del ministerio público y, en general, a todos los sujetos que intervengan en el procedimiento con el objetivo de prevenir cualquier acto que ponga en peligro la vida o la integridad física de dichas personas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+XVI.- Intervenir en las audiencias públicas ante el Juez de Ejecución de Sentencias, relativas a la concesión o revocación de beneficios que supongan una modificación en las condiciones del cumplimiento de la condena o una reducción del tiempo de privación efectiva de la libertad, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+XVII.- Las demás que les encomiende el Procurador General y las leyes y reglamentos.
 
 ###### ARTICULO 84.
 
@@ -874,9 +1018,9 @@ V.- solicitar de la Secretaría de la Defensa Nacional las remociones que se hag
 
 VI.- Resolver las quejas que el personal a que se refiere la fracción I, formulen en contra de los Defensores, acordando lo que proceda;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-VII.- conceder a los defensores y empleados subalternos del Cuerpo, licencias hasta por cinco días, con aviso a la Secretaría de la Defensa Nacional;
+VII.- Conceder a los defensores y demás personal subalterno del cuerpo, licencias hasta por cinco días, con aviso a la Secretaría de la Defensa Nacional y de Marina según corresponda;
 
 VIII.- recabar de las oficinas públicas toda clase de informes o documentos, que necesitare en el ejercicio de sus funciones;
 
@@ -898,9 +1042,9 @@ XIII.- formular el Reglamento del Cuerpo de Defensores, sometiéndolo a la aprob
 
 XIV.- celebrar acuerdo con las autoridades superiores de la Secretaría de la Defensa Nacional, dándoles cuenta de los principales asuntos técnicos de la institución;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-XV.- llevar por duplicado, con toda escrupulosidad, las hojas de actuación de todos los defensores y empleados que dependan del Cuerpo, haciendo en ellas las anotaciones que procedan, especialmente las que se refieren a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de las mismas; y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado se enviará a la Secretaría de la Defensa Nacional;
+XV.- Llevar por duplicado las hojas de actuación de los defensores y el demás personal que dependan del cuerpo, haciendo en ellas las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de las mismas; y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado se enviará a la Secretaría de la Defensa Nacional y de Marina, según corresponda, y
 
 XVI.- las demás que determinen las leyes y reglamentos.
 
@@ -918,7 +1062,13 @@ IV.- cumplimentar las instrucciones que el jefe del Cuerpo les diere;
 
 V.- dar aviso a la Jefatura del Cuerpo, de la incoación de los procesos en que intervengan;
 
-VI.- interponer en tiempo y forma los recursos procedentes, así como promover el juicio constitucional cuando se violen las garantías de los reos, y defender a éstos cuando lo soliciten ante los tribunales del orden común o federal;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+VI.- Interponer en tiempo y forma los recursos procedentes, así como promover el juicio de amparo cuando se violen los derechos humanos de los procesados y sentenciados y defender a éstos cuando lo soliciten ante los tribunales del orden común o federal.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+En la etapa de la ejecución de penas, asesorarán y representarán al sentenciado para la tramitación de los beneficios penitenciarios que la ley les concede;
 
 VII.- concurrir a las diligencias, audiencias y visitas de cárceles que practique el juzgado a que estén adscritos, informando al jefe del resultado;
 
@@ -964,11 +1114,11 @@ III.- cuando se trate de un prisionero de guerra de fuerza considerada beligeran
 
 El presidente del Consejo de Guerra tendrá facultades para designar, de entre los vocales, al que deba fungir como secretario.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 92.
 
-Los funcionarios del Servicio de Justicia Militar tendrán facultades para imponer amonestación y arresto en los términos de la Ley de Disciplina del Ejército y Armada Nacionales, como correcciones disciplinarias, a sus subalternos, por las faltas que cometan en el desempeño de sus cargos. El Supremo Tribunal de Justicia Militar, el Procurador General y el Jefe del Cuerpo de Defensores Militares podrán proponer, además, a la Secretaría de la Defensa Nacional, con el mismo carácter y por igual motivo, el cambio de adscripción de los jueces, agentes y defensores; y si tal cambio no fuese aprobado, podrán cambiar la corrección.
+Los funcionarios del Servicio de Justicia Militar tendrán facultades para imponer amonestación y arresto en los términos de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos y de la Ley de Disciplina para el Personal de la Armada de México, como correcciones disciplinarias, a sus subalternos, por las faltas que cometan en el desempeño de sus cargos. El Supremo Tribunal de Justicia Militar, el Procurador General y el Jefe del Cuerpo de Defensores Militares podrán proponer, además, a la Secretaría de la Defensa Nacional y a la de Marina, con el mismo carácter y por igual motivo, el cambio de adscripción de los jueces, agentes y defensores; y si tal cambio no fuese aprobado, podrán cambiar la corrección.
 
 ###### ARTICULO 93.
 
@@ -1034,25 +1184,25 @@ Es intencional el que se comete con el ánimo de causar daño o de violar la ley
 
 Es de imprudencia el que se comete por imprevisión, negligencia, impericia, falta de reflexión o de cuidado y que causa igual daño que un delito intencional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 102.
 
-La intensión (sic) delictuosa se presume, salvo prueba en contrario.
+La inocencia de todo imputado se presumirá mientras no se declare su responsabilidad mediante sentencia firme, emitida por el juez de la causa y conforme a las reglas establecidas en este Código.
 
-La presunción de que un delito es intencional no quedará destruida, aunque el acusado pruebe alguna de las siguientes circunstancias:
+I.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-I.- Que no se propuso ofender a determinada persona, si tuvo en general la intención de causar daño;
+II.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-II.- que no se propuso causar el daño que resultó, si éste fue consecuencia necesaria y notoria del hecho u omisión en que consistió el delito, o si el inculpado previó o pudo preveer (sic) esa consecuencia, por ser efecto ordinario del hecho u omisión y estar al alcance del común de las gentes, o si se resolvió a violar la ley, cualquiera que fuese el resultado;
+III.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-III.- que ignoraba la ley;
+IV.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-IV.- que creía que ésta era injusta, o moralmente lícito violarla;
+V.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-V.- que creía legítimo el fin que se propuso;
+VI.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
-VI.- que erró sobre la persona o cosa en que quiso cometer el delito, y
-
-VII.- que obró con consentimiento del ofendido, salvo el caso en que el perdón o el consentimiento extinguen la acción penal.
+VII.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
 ###### ARTICULO 103.
 
@@ -1266,6 +1416,10 @@ IV.- Destitución de empleo.
 
 V.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005)
 
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 122 BIS.- El Sistema Penitenciario Militar se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, el deporte, el adiestramiento, la instrucción militar y el respeto a los derechos humanos como medios para mantener al sentenciado apto para el servicio militar voluntario y evitar que vuelva a infringir la disciplina. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres.
+
 ###### ARTICULO 123.
 
 Toda pena temporal tiene tres términos: mínimo, medio y máximo. Cuando para la duración de la pena estuviere señalado en la ley un sólo término, éste será el medio; y el mínimo y el máximo, se formarán, respectivamente, deduciendo o aumentando de dicho término, una tercera parte. Cuando la ley fijare el mínimo y el máximo de la pena, el medio será la semisuma de estos dos extremos.
@@ -1274,13 +1428,17 @@ Toda pena temporal tiene tres términos: mínimo, medio y máximo. Cuando para l
 
 Siempre que la ley dispusiere que respecto de un delito se imponga, disminuída o aumentada, la pena expresamente señalada para otro, los términos de ésta serán disminuídos o aumentados como corresponda y el resultado se tendrá como término medio de la pena que deba aplicarse.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 125.
 
-No se tendrán por cumplidas las penas privativas de libertad, sino cuando el reo haya permanecido en el lugar señalado para la extinción de su condena todo el tiempo fijado para ellas, a no ser que se le conmute la pena, se le conceda amnistía, indulto o libertad preparatoria, o que no tenga culpa alguna en no ser conducido a su destino.
+No se tendrán por cumplidas las penas privativas de libertad, sino cuando el sentenciado haya permanecido en el lugar señalado para la extinción de su condena todo el tiempo fijado para ellas, a no ser que se le conmute la pena, se le conceda amnistía, indulto o libertad preparatoria, o que no tenga culpa alguna en no ser conducido a su destino.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 126.
 
-Las penas de prisión se contarán desde la fecha en que se hubiese restringido la libertad del inculpado, no abonándose al reo el tiempo que hubiere disfrutado de libertad provisional o bajo fianza ni tampoco el tiempo en que hubiese estado prófugo. Si el reo debiere quedar sujeto a una condena anterior, se contará la segunda desde el día siguiente del cumplimiento de la primera.
+Las penas de prisión se contarán desde la fecha en que se hubiese restringido la libertad del inculpado, no abonándose al sentenciado el tiempo que hubiere disfrutado de libertad provisional o bajo fianza ni tampoco el tiempo en que hubiese estado prófugo. Si el sentenciado debiere quedar sujeto a una condena anterior, se contará la segunda desde el día siguiente del cumplimiento de la primera.
 
 ###### ARTICULO 127.
 
@@ -1288,21 +1446,29 @@ No se estimarán como penas para los efectos de esta ley: la restricción de la 
 
 ### CAPITULO I. Reglas generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 128.
 
 La pena de prisión consiste en la privación de la libertad desde dieciséis días a sesenta años, sin que este segundo término pueda ser aumentado ni aún por causa de acumulación o de reincidencia, pues únicamente quedará sujeto a los efectos de la retención en su caso.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 129.
 
-Los condenados a prisión la compurgarán en la cárcel militar o común o en el lugar que la autoridad competente designe.
+Los militares que estuvieren sujetos a prisión preventiva por imputárseles la comisión de delitos cometidos en agravio de civiles, podrán permanecer en prisiones militares cuando la autoridad militar competente lo estime imprescindible para preservar los derechos del procesado o así lo requieran las necesidades del servicio de justicia. En este caso, a solicitud del imputado, dicha autoridad deberá elevar ante el juez que instruya el proceso la solicitud donde funde y motive tal necesidad a efecto de que se acuerde lo conducente. La autoridad militar colaborará con los órganos jurisdiccionales del fuero ordinario para que el procesado comparezca ante dichas instancias siempre que se requiera.
+
+Los sentenciados a pena privativa de libertad podrán compurgar la pena en prisión militar o en centros de reinserción social del orden común o federal, si lo estima necesario la autoridad militar competente para preservar los derechos del sentenciado. En este caso, a solicitud del sentenciado, la autoridad militar deberá elevar ante el órgano jurisdiccional que haya dictado la sentencia la solicitud donde funde y motive tal necesidad a efecto de que se acuerde lo conducente, observando lo dispuesto por el párrafo séptimo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
+
+No podrán considerarse prisión militar los buques, cuarteles u oficinas militares.
 
 ###### ARTICULO 130.
 
 (DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
 ### CAPITULO II. Aplicación de penas a los menores de dieciocho años y a los alumnos de los establecimientos de educación militar
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 131.
 
@@ -1316,9 +1482,11 @@ La suspensión de comisión militar que sólo podrá ser aplicada a los oficiale
 
 Los condenados a la pena de suspensión de empleo o comisión, no quedarán exentos durante el tiempo de ella de los deberes correspondientes a su carácter de militares que fueren compatibles con los efectos de esa misma pena.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 134.
 
-Se contará la suspensión desde que se notifique la sentencia irrevocable siempre que el reo no debiere sufrir además una pena privativa de libertad, pues en ese caso se contará desde el día siguiente al en que extinga ésta.
+Se contará la suspensión desde que se notifique la sentencia irrevocable siempre que el sentenciado no debiere sufrir además una pena privativa de libertad, pues en ese caso se contará desde el día siguiente al en que extinga ésta.
 
 ###### ARTICULO 135.
 
@@ -1338,25 +1506,31 @@ Los sargentos y cabos destituidos de sus respectivos empleos, perderán los dere
 
 Los oficiales destituídos de su empleo perderán los derechos adquiridos en virtud del tiempo de servicios prestados, y el de usar uniforme y condecoraciones, quedando inhabilitados para volver a pertenecer al ejército por el término que se fije en la condena.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 139.
 
-Cuando además de la destitución se hubiese impuesto una pena privativa de libertad, el término para la inhabilitación comenzará a correr desde que hubiere quedado extinguida la pena corporal, y en cualquier otro caso, desde la fecha de la sentencia irrevocable.
+Cuándo además de la destitución se hubiese impuesto una pena privativa de libertad, el término para la inhabilitación comenzará a correr desde que hubiere quedado extinguida la pena privativa de libertad y en cualquier otro caso, desde la fecha de la sentencia irrevocable.
 
 ###### ARTICULO 140.
 
 El tribunal que imponga la destitución como pena o como consecuencia de la pena de prisión, fijará el término de la inhabilitación para volver al ejército cuando la ley no lo señale. Cuando se imponga la pena de destitución concurriendo con una privativa de libertad, la inhabilitación no podrá exceder de un término igual al de esta pena ni bajar de un año ni pasar de diez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 141.
 
-El Ejecutivo podrá conceder por una sola vez la rehabilitación siempre que el sentenciado justifique ante la Secretaría de la Defensa Nacional haber transcurrido la mitad del tiempo por el que hubiese sido impuesta la inhabilitación y observado buena conducta.
+El Juez de Ejecución de Sentencias podrá conceder por una sola vez la rehabilitación siempre que el sentenciado justifique que ha transcurrido la mitad del tiempo por el que hubiese sido impuesta la inhabilitación y observado buena conducta.
 
-La rehabilitación devuelve al condenado la capacidad legal para volver a servir en el ejército.
+La rehabilitación devuelve al sentenciado la capacidad legal para volver a servir en las Fuerzas Armadas.
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ### CAPITULO IV. Aplicación de penas en los grados de conato y delito frustrado
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 142.
 
@@ -1368,7 +1542,9 @@ La rehabilitación devuelve al condenado la capacidad legal para volver a servir
 
 Es consecuencia necesaria de las penas privativas de libertad, interrumpir por todo el tiempo de su duración el de servicios o enganche; y si debieren durar más de dos años, la destitución del empleo de cabo en adelante, a no ser que en el precepto legal donde se fije la penalidad se disponga lo contrario.
 
-También como consecuencia necesaria de una sentencia condenatoria, los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, serán destruidos si sólo sirven para delinquir; en caso contrario, si son de la propiedad del delincuente o los hubiere usado con el consentimiento de su dueño, serán aplicados al Ejecutivo si le fueren útiles y si no, se venderán a personas que no tengan prohibición de usarlos, y su precio se destinará a la mejora material de las prisiones.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+También como consecuencia necesaria de una sentencia condenatoria, los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, serán destruidos si sólo sirven para delinquir; en caso contrario, si son de la propiedad del sentenciado o los hubiere usado con el consentimiento de su dueño, serán aplicados al Ejecutivo si le fuere útiles y si no, se venderán a personas que no tengan prohibición de usarlos, y su precio se destinarán a la mejora material de las prisiones.
 
 ###### ARTICULO 144.
 
@@ -1384,13 +1560,13 @@ A los sargentos, cabos y soldados procesados por el delito de deserción simple 
 
 ###### ARTICULO 145.
 
-Se prohibe imponer por simple analogía y aun por mayoría de razón, pena alguna que no esté decretada en una ley aplicable exactamente al delito de que se trate, y que estuviere vigente cuando éste se cometió. Se exceptúan en favor del reo los casos siguientes:
+Se prohíbe imponer por simple analogía y aun por mayoría de razón, pena alguna que no esté decretada en una ley aplicable exactamente al delito de que se trate, y que estuviere vigente cuando éste se cometió. Se exceptúan en favor del sentenciado los casos siguientes:
 
 I.- Cuando entre la perpetración del delito y la sentencia irrevocable que sobre él se pronuncie, se promulgasen una o más leyes que disminuyan la pena establecida en otra ley vigente al cometerse el delito, o la substituyan con otra menor, se aplicará la nueva ley;
 
-> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-II.- cuando pronunciada una sentencia irrevocable en que se haya impuesto una pena privativa de libertad, se dictare una ley que sólo disminuya la duración de la pena, si el reo lo pidiere y se hallare en el caso de la nueva ley, se reducirá la pena impuesta, en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la señalada en la posterior;
+II.- Cuando pronunciada una sentencia irrevocable en que se haya impuesto una pena privativa de libertad, se dictare una ley que sólo disminuya la duración de la pena, si el sentenciado lo pidiere y se hallare en el caso de la nueva ley, se reducirá la pena impuesta, en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la señalada en la posterior;
 
 III.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005);
 
@@ -1412,15 +1588,17 @@ No es imputable al acusado el aumento de gravedad proveniente de circunstancias 
 
 Las circunstancias calificativas o modificativas de la pena que tienen relación con el hecho u omisión penados, aprovechan o perjudican a todos los que intervengan en cualquier grado en la comisión de un delito.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 150.
 
-Si el reo ha permanecido preso mayor tiempo del que debiere durar la pena privativa de libertad que haya de imponérsele y hubiere que aplicarle además, la de suspensión de empleo o comisión, o la de destitución de empleo, el juez disminuirá del tiempo de la suspensión o de la inhabilitación para volver al ejército el exceso de la prisión sufrida.
+Si el sentenciado ha permanecido preso mayor tiempo del que debiere durar la pena privativa de libertad que haya de imponérsele y hubiere que aplicarle además la de suspensión de empleo o comisión o la de destitución de empleo, el juez disminuirá del tiempo de la suspensión o de la inhabilitación para volver al ejército el exceso de la prisión sufrida.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 151.
 
-Siempre que a determinado responsable de un delito se hubiere de imponer una pena que le resulte inaplicable por ser incompatible alguna de las circunstancias de ella con las personales del reo o se hubiere de imponer una parte proporcional de alguna pena indivisible, se observará lo siguiente:
+Siempre que a determinado responsable de un delito se hubiere de imponer una pena que le resulte inaplicable por ser incompatible alguna de las circunstancias de ella con las personales del sentenciado o se hubiere de imponer una parte proporcional de alguna pena indivisible, se observará lo siguiente:
 
 I.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005).
 
@@ -1442,11 +1620,13 @@ ARTICULO 152 BIS.- A partir del primero de agosto de mil novecientos noventa y c
 
 ###### ARTICULO 153.
 
-Los menores de dieciocho años que por cualquier causa estuvieren prestando sus servicios en el ejército, serán castigados con la mitad de las penas corporales señaladas en la presente ley, respecto del delito cometido.
+En caso de que algún alumno de los establecimientos de educación militar menor de dieciocho años de edad, cometa una conducta tipificada como delito en las leyes penales, será puesto a disposición de las autoridades del sistema integral de justicia para adolescentes que corresponda.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 154.
 
-A los alumnos de los establecimientos de educación militar se les aplicarán las penas en la misma proporción establecida en el artículo anterior.
+Los alumnos de los establecimientos de educación militar mayores de dieciocho años de edad que se encuentren en escuelas de formación y que cometan un delito contra la disciplina militar conforme a las disposiciones de este Código, serán castigados con la mitad de las penas señaladas para el delito respectivo.
 
 ###### ARTICULO 155.
 
@@ -1480,11 +1660,13 @@ En ningún caso la pena que se imponga excederá de las tres cuartas parte (sic)
 
 ### CAPITULO I. Ejecución de sentencias
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 158.
 
-El conato se castigará con la quinta parte de la pena que se aplicaría al delincuente, si hubiera consumado el delito.
+El conato se castigará con la quinta parte de la pena que se aplicaría al imputado, si hubiera consumado el delito.
 
 ###### ARTICULO 159.
 
@@ -1530,13 +1712,15 @@ II.- hasta de una cuarta, si ambos fueren de igual gravedad;
 
 III.- hasta de una tercia, si el último fuere más grave que el anterior.
 
-Si el reo hubiere sido indultado por gracia en el delito anterior o su reincidencia no fuere la primera, se podrá duplicar el aumento de que hablan las reglas anteriores.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Si el sentenciado hubiere sido indultado por gracia en el delito anterior o su reincidencia no fuere la primera, se podrá duplicar el aumento de que hablan las reglas anteriores.
 
 Para los efectos de este artículo queda al arbitrio judicial la calificación de la gravedad de los delitos.
 
 ### CAPITULO III. De la libertad preparatoria
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 165.
 
@@ -1592,11 +1776,11 @@ II.- cuando se trate de un delito que no haya causado daño ni escándalo, y la 
 
 III.- cuando la ley lo determine expresamente.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 175.
 
-En los casos de la fracción II del artículo anterior, no se ejecutará la sentencia, pero sí se amonestará al reo.
+En los casos de la fracción II del artículo anterior, no se ejecutará la sentencia, pero sí se amonestará al sentenciado.
 
 ###### ARTICULO 176.
 
@@ -1618,11 +1802,15 @@ En los casos de la fracción II del artículo anterior, no se ejecutará la sent
 
 ###### ARTICULO 179.
 
-Corresponde al Ejecutivo de la Unión, por conducto de la Secretaría de la Defensa Nacional, la ejecución de las sentencias.
+Corresponde al Juez de Ejecución de Sentencias, vigilar el cumplimiento de las penas y medidas de seguridad, impuestas por los Tribunales Militares, quienes deberán remitirle las constancias necesarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 180.
 
-No se ejecutará la sentencia cuando sea corporal la pena que en ella se impone, si después de pronunciada se pusiere el reo en estado de enajenación mental. En ese caso se ejecutará cuando recobre la razón.
+No se ejecutará la sentencia que imponga pena privativa de libertad, si después de pronunciada se pusiere el sentenciado en estado de enajenación mental. En ese caso, el Juez de Ejecución de Sentencia resolverá sobre la medida de seguridad aplicable sin que exceda el tiempo impuesto como pena privativa de libertad; en su caso, la pena privativa de libertad se ejecutará cuando recobre la salud mental.
 
 ###### ARTICULO 181.
 
@@ -1646,7 +1834,7 @@ La retención se hará efectiva cuando el condenado con esa calidad, tuviere mal
 
 ###### ARTICULO 184.
 
-Los reos condenados a sufrir una pena privativa de libertad por delito cuyo término medio no sea menor de dos años, tendrán derecho a que se les conceda el beneficio de libertad preparatoria, dispensándoles el tiempo restante, cuando hayan observado buena conducta durante la mitad de su condena.
+Los sentenciados condenados a sufrir una pena privativa de libertad por delito cuyo término medio no sea menor de dos años, tendrán derecho a que se les conceda el beneficio de libertad preparatoria, dispensándoles el tiempo restante, cuando hayan observado buena conducta durante la mitad de su condena.
 
 > <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
@@ -1700,7 +1888,9 @@ IV.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005)
 
 Cuando haya acumulación de delitos castigados con pena privativa de libertad, las acciones penales que de ellos resulten, se prescribirán en un término igual al de la pena que correspondería aplicar, según lo dispuesto en los artículos 160 a 163.
 
-Cuando concurra una pena corporal con la destitución o la de suspensión, estas últimas no se tomarán en cuenta.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Cuando concurra una pena privativa de libertad con la destitución o la de suspensión, estas últimas no se tomarán en cuenta.
 
 ###### ARTICULO 192.
 
@@ -1720,9 +1910,11 @@ La prescripción de una pena extingue el derecho de ejecutarla y de conmutarla.
 
 En la prescripción de las penas debe observarse lo dispuesto en el artículo 188, en lo que no se oponga a lo prevenido en este capítulo.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 196.
 
-Los términos para la prescripción de las penas serán continuos y correrán desde el día siguiente al en que el sentenciado se sustraiga de la acción de la autoridad, si las penas son corporales, y si no lo son, desde la fecha de la sentencia ejecutoria.
+Los términos para la prescripción de las penas serán continuos y correrán desde el día siguiente al en que el sentenciado se sustraiga de la acción de la autoridad, si las penas son privativas de libertad, en caso contrario, desde que cause ejecutoria la sentencia.
 
 ###### ARTICULO 197.
 
@@ -1734,13 +1926,17 @@ I.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005)
 
 II.- En un término igual al de su duración, más una cuarta parte de la pena impuesta, y
 
-III.- en un tiempo igual al que falte de la condena, más una cuarta parte, cuando el reo hubiere cumplido parcialmente aquélla.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+III.- En un tiempo igual al que falte de la condena, más una cuarta parte, cuando el sentenciado hubiere cumplido parcialmente aquélla.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 198.
 
-La prescripción de las penas corporales, sólo se interrumpe con la aprehensión del reo aunque ésta se ejecute por otro delito diverso.
+La prescripción de las penas privativas de libertad, sólo se interrumpe con la aprehensión del sentenciado aunque ésta se ejecute por otro delito diverso.
 
 ###### ARTICULO 199.
 
@@ -1832,11 +2028,11 @@ XXI.- sea cómplice o encubridor de los espías o exploradores del enemigo, y
 
 XXII.- esté de acuerdo con el gobierno o súbdito de una potencia extranjera, para ocasionar cualquier daño o perjuicio a la patria.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 204.
 
-En el caso de la fracción XX del artículo anterior, se impondrá la pena de nueve años de prisión, siempre que entre el reo y el prisionero a quien hubiere puesto en libertad o cuya evasión hubiere favorecido, existan circunstancias personales de parentesco por consanguinidad en línea recta sin limitación de grado, y en la colateral hasta el cuarto grado o por afinidad hasta el segundo, inclusive, u otras igualmente atendibles a juicio de los tribunales.
+En el caso de la fracción XX del artículo anterior, se impondrá la pena de nueve años de prisión, siempre que entre el procesado y el prisionero a quien hubiere puesto en libertad o cuya evasión hubiere favorecido, existan circunstancias personales de parentesco por consanguinidad en línea recta sin limitación de grado, y en la colateral hasta el cuarto grado o por afinidad hasta el segundo, inclusive, u otras igualmente atendibles a juicio de los tribunales.
 
 ###### ARTICULO 205.
 
@@ -2092,9 +2288,11 @@ El que falsifique o adultere, o haga falsificar o adulterar los víveres, forraj
 
 Si el delito de que habla el artículo anterior, se perpetrare por otro que no sea el guardián o encargado de los efectos a que este precepto se refiere, la pena aplicable será la de tres años de prisión.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 236.
 
-A los responsables de los delitos expresados en los cinco artículos precedentes, a quienes deba imponerse la destitución como consecuencia de la pena privativa de libertad que les corresponda, se les fijará para la inhabilitación otro tiempo igual al que deba durar la pena corporal.
+A los responsables de los delitos expresados en los cinco artículos precedentes, a quienes deba imponerse la destitución como consecuencia de la pena privativa de libertad que les corresponda, se les fijará para la inhabilitación otro tiempo igual al que deba durar la pena privativa de libertad.
 
 > <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
@@ -2114,9 +2312,9 @@ Será castigado con la pena de tres años de prisión:
 
 I.- En (sic) que en las listas de Revista o cualquier otro documento militar haga aparecer una cantidad de hombres, animales, haberes, jornales o forrajes mayor de la que justamente deba figurar, o algún individuo que realmente no exista o que existiendo no prestase servicio;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-II.- el que, en ejercicio de sus funciones o con miras interesadas, favorezca a un contratista o proveedor en la contrata respectiva, presente cuentas o relaciones inexactas sobre gastos del servicio, naturaleza, cantidad o calidad de los trabajos, mano de obra o provisiones destinadas al uso militar; efectúe compras de estas últimas a precio mayor que el de plaza, o celebre otros contratos onerosos; no dé cuenta oportunamente a la Secretaría de la Defensa Nacional de los fondos que tuviere en su poder por economías de forrajes o gasto común; firme o autorice orden, libramiento o cualquier otro documento de pago o de crédito extendido por los que se hallen a sus órdenes y que difiera en cantidad de lo que arroje la liquidación o ajuste correspondiente; ordene o haga consumos innecesarios de víveres, municiones, pertrechos, combustibles u otros efectos destinados al servicio; cambie sin autorización, las monedas o valores que hubiere recibido, por otros distintos o que de cualquiera otra manera no especificada en este o en alguno de los demás preceptos contenidos en el presente capítulo, alcance un lucro indebido, con perjuicio de los intereses del ejército o de los individuos pertenecientes a él, valiéndose para ello del engaño o aprovechándose del error de otra persona.
+II.- El que, en ejercicio de sus funciones o con miras interesadas, favorezca a un contratista o proveedor en la contrata respectiva, presente cuentas o relaciones inexactas sobre gastos del servicio, naturaleza, cantidad o calidad de los trabajos, mano de obra o provisiones destinadas al uso militar; efectúe compras de estas últimas a precio mayor que el de plaza, o celebre otros contratos onerosos; no dé cuenta oportunamente a la Secretaría de la Defensa Nacional o de Marina, según corresponda, de los fondos que tuviere en su poder por economías de forrajes o gasto común; firme o autorice orden, libramiento o cualquier otro documento de pago o de crédito extendido por los que se hallen a sus órdenes y que difiera en cantidad de lo que arroje la liquidación o ajuste correspondiente; ordene o haga consumos innecesarios de víveres, municiones, pertrechos, combustibles u otros efectos destinados al servicio; cambie sin autorización las monedas o valores que hubiere recibido, por otros distintos o que de cualquiera otra manera no especificada en este o en alguno de los demás preceptos contenidos en el presente capítulo, alcance un lucro indebido, con perjuicio de los intereses del ejército o de los individuos pertenecientes a él, valiéndose para ello del engaño o aprovechándose del error de otra persona.
 
 ###### ARTICULO 240.
 
@@ -2134,7 +2332,9 @@ II. Con prisión de dos años, si el valor de lo sustraído pasare de veinte sal
 
 III. Cuando excediere de doscientos salarios mínimos se impondrá la pena de la fracción anterior, aumentada en un mes por cada veinte salarios mínimos o fracción, pero sin que pueda exceder de doce años de prisión.
 
-En los casos de las fracciones anteriores, además de las penas corporales señaladas, se impondrá la destitución de empleo con inhabilitación de diez años para el servicio.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+En los casos de las fracciones anteriores, además de las penas privativas de libertad señaladas, se impondrá la destitución de empleo con inhabilitación de diez años para el servicio.
 
 ###### ARTICULO 242.
 
@@ -2152,7 +2352,9 @@ II.- A cuatro meses de prisión, si ese valor excediere de veinte salarios míni
 
 III.- A un año de prisión en los demás casos, aumentando quince días por cada veinte salarios mínimos o fracción de exceso, sobre doscientos, pero sin que la pena pueda exceder de ocho años de prisión.
 
-Si la devolución se efectuare después de tres días, y antes de que se pronuncie sentencia definitiva, la pena aplicable consistirá en el mínimo de la corporal correspondiente, conforme al indicado artículo 241 y en la destitución que el mismo precepto establece.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Si la devolución se efectuare después de tres días, y antes de que se pronuncie sentencia definitiva, la pena aplicable consistirá en el mínimo de la privativa de libertad correspondiente, conforme al indicado artículo 241 y en la destitución que el mismo precepto establece.
 
 ###### ARTICULO 244.
 
@@ -2182,7 +2384,9 @@ I.- Los individuos de tropa que extravíen en tiempo de paz el caballo, las arma
 
 II.- los soldados o clases que extravíen objetos militares o efectos destinados al uso del ejército, que tuvieren bajo su inmediata vigilancia, siempre que no debieren ser castigados administrativamente y sin perjuicio de que se haga el descuento del valor de los objetos extraviados.
 
-Los oficiales en el caso de la fracción II del presente artículo, además de la pena corporal, sufrirán la de suspensión de empleo o comisión, por el término de seis meses.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Los oficiales en el caso de la fracción II del presente artículo, además de la pena privativa de libertad, sufrirán la de suspensión de empleo o comisión, por el término de seis meses.
 
 ###### ARTICULO 248.
 
@@ -2326,7 +2530,9 @@ I.- En los casos a que se refieren los artículos 256, 257 y 263, se impondrá l
 
 Los sargentos y cabos serán además destituídos de su empleo.
 
-II.- En los casos previstos en los artículos 260, 261 y 262, se aumentarán en dos años, las penas corporales respectivamente señaladas en esos preceptos.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+II.- En los casos previstos en los artículo 260, 261 y 262, se aumentarán en dos años, las penas privativas de libertad respectivamente señaladas en esos preceptos.
 
 ###### ARTICULO 265.
 
@@ -2356,11 +2562,11 @@ III.- El que desertare estando de guardia, o de la escolta de municiones, con la
 
 IV.- El que sin estar desempeñando servicio de armas desertare al extranjero, con la de siete años de prisión; si estuviere desempeñando ese servicio, con la de nueve años, y si fuere el comandante de un punto, fuerza o buque, con la de once.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 268.
 
-En los casos del artículo anterior y en aquellos a que se refieren las fracciones I y II del 270, si la deserción se hubiere efectuado en campaña se aumentarán en dos años las penas corporales señaladas en esos preceptos.
+En los casos del artículo anterior y en aquellos a que se refieren las fracciones I y II del artículo 270, si la deserción se hubiere efectuado en campaña se aumentarán en dos años las penas privativas de libertad señaladas en esos preceptos.
 
 ###### ARTICULO 269.
 
@@ -2438,7 +2644,9 @@ Se impondrá la pena de un mes de prisión al miembro de las reservas del Ejérc
 
 Comete el delito de insumisión el conscripto que por virtud del sorteo le corresponda prestar servicio activo, no se presente a la autoridad respectiva dentro del plazo señalado para ser encuadrado en las unidades del Ejército.
 
-A los infractores se les impondrá la pena de un mes de prisión. La pena corporal no releva de la obligación de prestar el servicio.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+A los infractores se les impondrá la pena de un mes de prisión. La pena privativa de libertad no releva de la obligación de prestar el servicio.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -2931,6 +3139,10 @@ II.- al que sin necesidad apremiante abra las escotillas, rompa los sellos que l
 ###### ARTICULO 337.
 
 El que valiéndose de su posición o autoridad o de la fuerza que esté a sus órdenes, auxilie la introducción de contrabando en la República, o lo introduzca por sí mismo, o que requerido por autoridades o funcionarios competentes para que preste el auxilio de dicha fuerza a fin de impedir la introducción del contrabando o aprehenderlo, se rehuse a ello sin causa justificada, será castigado con prisión de cinco años.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 337 BIS. Las conductas descritas en los capítulos III y IV de este Título sólo serán consideradas como delitos contra la disciplina militar cuando se cometan en campaña. Fuera de este supuesto, las conductas que resulten en delitos del orden común o federal serán juzgados por tribunales federales ordinarios.
 
 TITULO DECIMOPRIMERO
 
@@ -3434,7 +3646,9 @@ Cualquier militar, aunque sea extraño a la tripulación de un buque, que grite 
 
 Serán castigados con la pena de dos años de prisión, los militares que cometan actos deshonestos entre sí o con civiles, en buque de guerra, edificios, puntos o puestos militares o cualquiera otra dependencia del ejército, si no mediaren violencias.
 
-Los oficiales, además de la pena corporal serán destituídos de sus empleos, quedando inhabilitados por diez años para volver al servicio, ya sea o no que proceda como consecuencia de la de prisión.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Los oficiales, además de la pena privativa de libertad serán destituidos de sus empleos, quedando inhabilitados por diez años para volver al servicio, ya sea o no que proceda como consecuencia de la de prisión.
 
 Si mediare violencia, se observarán las reglas generales sobre aplicación de penas.
 
@@ -3488,9 +3702,9 @@ II.- viole la palabra de honor empeñada;
 
 III.- venda o dé en prenda condecoraciones, despachos, diplomas o documentos de identificación, y
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-IV.- promueva colectas, haga suscripciones o lleve a cabo otras exacciones sin autorización de la Secretaría de la Defensa Nacional.
+IV.- Promueva colectas, haga suscripciones o lleve a cabo otras exacciones, sin autorización de la Secretaría de la Defensa Nacional o de Marina según corresponda.
 
 En caso de reincidencia, se impondrá la pena de destitución, fijándose en dos años el término de inhabilitación para volver al servicio.
 
@@ -3501,6 +3715,8 @@ Para los efectos de este artículo, se entenderá que hay reincidencia, cuando s
 Sufrirán las penas de seis meses de prisión y destitución de empleo, los sargentos y cabos que después de haber incurrido en dos correcciones disciplinarias, dentro del período de un año, persistieren en su mala conducta.
 
 ### CAPITULO IV. De los cateos
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 410.
 
@@ -3658,15 +3874,15 @@ Se impondrá la pena de diez años de prisión al que por medio de un desorden o
 
 Será castigado con la pena de dos años de prisión, el que declare falsamente como testigo en una averiguación o en un proceso, ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho u omisión imputados, o que aumente o disminuya su gravedad.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-La pena será de cinco años si al falso testimonio se le hubiere dado fuerza probatoria, y se ha impuesto al reo una pena mayor de la que le correspondería sin ese testimonio o si por éste se le hubiese condenado.
+La pena será de cinco años si al falso testimonio se le hubiere dado fuerza probatoria, y se ha impuesto al sentenciado una pena mayor de la que le correspondería sin ese testimonio o si por éste se le hubiese condenado.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 430.
 
-El funcionario o empleado que al ejecutar una sentencia de los Tribunales Militares, la altere en contra o a favor del reo, se le impondrá pena de uno a tres años de prisión.
+El funcionario o empleado que al ejecutar una sentencia de los Tribunales Militares, la altere en contra o a favor del sentenciado, se le impondrá pena de uno a tres años de prisión.
 
 ###### ARTICULO 431.
 
@@ -3716,7 +3932,9 @@ IX.- por orden del servicio la dictada para la ejecución de uno de los actos a 
 
 X.- por estar los militares en campaña:
 
-1o.- Cuando la guerra haya sido declarada;
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+1o.- Cuando la guerra haya sido declarada conforme a la Constitución;
 
 2o.- cuando se hallen en un lugar donde la guerra exista de hecho, o formando parte de fuerzas, de cualquiera clase que sean, destinadas a operaciones militares contra enemigos exteriores o rebeldes;
 
@@ -3726,9 +3944,9 @@ X.- por estar los militares en campaña:
 
 5o.- cuando se hayan embarcado con plaza o sin ella en escuadra, división, grupo o buque suelto, sea de guerra o corsario, apresado o fletado por el gobierno y destinado a operaciones de guerra, contra enemigos exteriores o rebeldes.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-En los casos que hubiere duda acerca de si la fuerza a que pertenecía el procesado, estaba o no en campaña al cometer el delito por el cual se le juzgue, se consultará sobre el particular a la Secretaría de la Defensa Nacional; y
+En los casos que hubiere duda acerca de si la fuerza a que pertenecía el procesado, estaba o no en campaña al cometer el delito por el cual se le juzgue, se consultará sobre el particular a la Secretaría de la Defensa Nacional o de Marina según corresponda, y
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
 
@@ -3740,9 +3958,11 @@ XI.- por estar frente al enemigo o durante la retirada, tenerlo a la vista o hal
 
 ## TITULO PRIMERO. Disposiciones preliminares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 435.
 
-La facultad de declarar que un hecho es o no delito del fuero de guerra, corresponde exclusivamente a los tribunales militares. A ellos toca también declarar la inocencia o culpabilidad de las personas y aplicar las penas que las leyes señalen.
+Corresponde a los tribunales militares declarar la inocencia o culpabilidad de las personas bajo su jurisdicción y aplicar las penas que las leyes señalen.
 
 Sólo aquella declaración se tendrá como verdad legal.
 
@@ -3814,13 +4034,19 @@ IV.- las pruebas relacionadas con el hecho delictuoso.
 
 La denuncia hecha por un militar, deberá ser formulada por escrito, y firmada por la persona que la hiciere. Cuando fuere hecha por el superior del delincuente, será acompañada, si fuere posible, con todos los documentos concernientes al mismo delito, y notas y constancias oficiales relativas al delincuente, que obraren en los documentos oficiales del cuerpo o unidad a que pertenezca el presunto responsable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 444.
 
-Fuera de los casos enumerados, las denuncias pueden hacerse de palabra o por escrito.
+Fuera de los casos enumerados, las denuncias pueden hacerse de palabra, por escrito o por cualquier otro medio.
 
 Cuando fueren verbales, se levantará una acta en la que en forma de declaración, se harán constar todas las circunstancias a que se refiere el artículo 442, firmando el que reciba la denuncia y el denunciante, si supiere, en todas las hojas o imprimiendo sus huellas digitales.
 
 Si la denuncia fuere por escrito, deberá firmarla el denunciante u otra persona a su ruego; si aquél no supiere o no pudiere hacerlo, deberán tomarse sus huellas digitales y rubricarse en todas sus fojas por el que la reciba.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Tratándose de informaciones anónimas sobre la posible comisión de un delito contra la disciplina militar, el Ministerio Público iniciará un acta circunstanciada en la que ordenará a la Policía que investigue la veracidad de los datos aportados; de confirmarse la información, iniciará la averiguación previa correspondiente.
 
 ###### ARTICULO 445.
 
@@ -3850,9 +4076,19 @@ La Secretaría de la Defensa Nacional, apreciando las razones aducidas por el co
 
 Si la Secretaría de la Defensa Nacional estima improcedente la suspensión, ordenará al comandante de la guarnición continúe el procedimiento de acuerdo con lo pedido por el Ministerio Público, consignando a dicho comandante, cuando hubiere responsabilidades que exigirle.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 450.
 
-El Ministerio Público y la Policía Judicial, deberán asentar en sus diligencias, que serán autorizadas por secretario o testigos de asistencia, la protesta de decir verdad que exigirán a quienes intervengan, así como la razón de su dicho. Igualmente harán constar las medidas que ordenaren para la mejor investigación y la razón o motivo para no haber practicado las que no se llevaren a cabo.
+El Ministerio Público y la Policía Ministerial Militar, deberán estar acompañados en las diligencias que practiquen, de sus secretarios si los tuviesen, o de dos testigos de asistencia, que darán fe de todo lo que pase, exigiendo la protesta de decir verdad a quienes intervengan en éstas, así como la razón de su dicho, a excepción de que se trate del indiciado. Igualmente harán constar las medidas que ordene para la mejor investigación y la razón o motivo para no haber practicado las que no se lleven a cabo.
+
+Al expediente de averiguación previa únicamente tendrán acceso el inculpado, su defensor y la víctima u ofendido o su representante legal. La averiguación previa así como todos los documentos, independientemente de su contenido o naturaleza, y los objetos, registros de voz e imágenes o cosas que le estén relacionados, son estrictamente reservados.
+
+Para efectos de acceso a la información pública gubernamental, únicamente deberá proporcionarse una versión pública de la resolución de no ejercicio de la acción penal, siempre que haya transcurrido un plazo igual al de la prescripción de los delitos de que se trate, de conformidad con lo dispuesto por el ordenamiento penal aplicable, sin que pueda ser menor de tres ni mayor de doce años, contado a partir de que dicha resolución haya quedado firme.
+
+Si la resolución de no ejercicio de la acción penal resulta de la falta de datos que establezcan que se haya cometido el delito, el Ministerio Público podrá proporcionar la información de acuerdo a las disposiciones aplicables, siempre y cuando no se ponga en riesgo indagatoria alguna.
+
+En ningún caso se podrá hacer referencia a información confidencial relativa a los datos personales del inculpado, víctima u ofendido, así como testigos, servidores públicos o cualquier persona relacionada o mencionada en la indagatoria; el Ministerio Público no podrá proporcionar información una vez que se haya ejercido la acción penal a quien no esté legitimado.
 
 ### CAPITULO VIII. De las pruebas
 
@@ -3940,9 +4176,11 @@ Cuando los objetos no sean susceptibles de otro medio de depósito que el de una
 
 Siempre que fuere preciso tener a la vista alguno de los objetos depositados, se comenzará la diligencia haciendo constar si los sellos han sido o no quebrantados, y si se encuentran los mismos objetos en el estado en que estaban al ser depositados; si han sufrido alguna alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir. La diligencia siempre terminará con constancias de la forma y estado en que queden los referidos objetos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 465.
 
-En caso de homicidio o lesiones, además de la descripción que de las lesiones haga el juez o el agente de la Policía Judicial Militar que intervenga en las diligencias, es de gran importancia el informe de dos peritos, y aun de uno solo, si no hubiere otro disponible, y el curso rápido de las actuaciones no permitiese espera. Los peritos harán en el caso de homicidio, la autopsia del cadáver, expresando con minuciosidad el estado que guarden y las causas que originaron la muerte.
+En caso de homicidio o lesiones, además de la descripción que de las lesiones haga el juez o el agente de la Policía Ministerial Militar que intervenga en las diligencias, es de gran importancia el informe de dos peritos, y aun de uno solo, si no hubiere otro disponible, y el curso rápido de las actuaciones no permitiese espera. Los peritos harán en el caso de homicidio, la autopsia del cadáver, expresando con minuciosidad el estado que guarden y las causas que originaron la muerte.
 
 Los peritos darán, por medio de certificados que ratificarán personalmente ante el juez respectivo, la esencia de las lesiones, dentro de cuarenta y ocho horas después de haberse encargado de la curación de un herido. Al cumplir con este precepto, tomarán siempre en consideración el arma empleada para inferir las lesiones, la región en que éstas estén situadas, sus dimensiones, los órganos interesados, y, en resumen, harán la clasificación con toda claridad posible, a fin de que pueda conocerse fácilmente en cuál precepto del libro segundo de este Código está comprendido el caso. Si el herido falleciere expondrán también, con toda exactitud y cuidado, si la muerte le sobrevino por causas extrañas a las lesiones mismas o procedentes de ellas.
 
@@ -4032,25 +4270,27 @@ Todos los delitos que por este Código no tengan señalada una prueba especial, 
 
 ###### ARTICULO 482.
 
-El cateo sólo podrá practicarse en virtud de orden escrita expedida por autoridad judicial, en la que se exprese el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse o los objetos que se buscan; a lo que únicamente deberá limitarse la diligencia, levatándose (sic) al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa por la autoridad que practique la diligencia.
+El Ministerio Público, al investigar delitos contra la disciplina militar, podrá solicitar la práctica de un cateo, para lo cual deberá acudir al Juez Militar, o si no lo hubiere al del orden federal o común, en auxilio de la justicia militar, formulando su petición por cualquier medio, expresando su objeto y necesidad, así como la ubicación del lugar a inspeccionar y persona o personas que han de localizarse o de aprehenderse, y los objetos que se buscan o han de asegurarse, a lo que únicamente debe limitarse la diligencia.
 
-Cuando el Ministerio Público actúe como investigador de delitos, podrá pedir a la autoridad judicial que practique cateos proporcionando a ésta los datos que justifiquen el registro. Si dicha autoridad concede el cateo, enviará al Ministerio Público, una vez practicada la diligencia, el acta correspondiente con los objetos recogidos y, en su caso, pondrá a su disposición al detenido, sólo para que practique desde luego las diligencias que le competan y pueda hacer la consignación si fuere procedente.
-
-El mandamiento judicial que se ha mencionado, no será necesario, cuando el ocupante o encargado del lugar solicitare la visita o manifestare su conformidad en que se lleve a cabo desde luego.
+Al concluir el cateo, se levantará acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad judicial que practique la diligencia.
 
 ###### ARTICULO 483.
 
 El cateo solamente podrá practicarse desde las seis hasta las dieciocho horas, a no ser en los casos de excepción que menciona el artículo anterior, o cuando la diligencia sea notoriamente de urgencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 484.
 
-Cuando la autoridad judicial visite las casas, edificios públicos o lugares cerrados, observará las reglas siguientes:
+Cuando el Ministerio Público Militar practique cateos, observará las reglas siguientes:
 
 I.- Si se tratare de delito flagrante, el funcionario procederá a la visita o reconocimiento, sin demora, llamando en el momento de la diligencia a dos vecinos que estime con la capacidad necesaria para intervenir en la diligencia que se practicará en los términos del artículo 16 constitucional;
 
 II.- si no hubiere peligro de hacer ilusoria o difícil la averiguación, se citará al inculpado, para que presencie el acto, y, en su defecto, ya por estar en libertad o no encontrársele, o por tener impedimento para asistir, será representado por dos vecinos que se designarán en el acto de la diligencia, y
 
-III.- en todo caso, el jefe, ocupante o encargado de la casa o finca que deba ser visitada, aunque no sea reo presunto del hecho que motive la diligencia, será llamado también para presenciar el acto, en el momento que tenga lugar, o antes, si por ello no es de temerse que no dé resultado dicha diligencia. Si no pudieren ser habidas esas personas, o se tratare de una casa en que haya dos o más familias, se llamará a dos vecinos que se estime tengan capacidad suficiente y con su asistencia se practicará la visita en los lugares que fueren necesarios.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+III.- En todo caso, el jefe, ocupante o encargado de la casa o finca que deba ser visitada, aunque no sea indiciado del hecho que motive la diligencia, será llamado también para presenciar el acto, en el momento que tenga lugar, o antes, si por ello no es de temerse que no dé resultado dicha diligencia. Si no pudieren ser localizadas esas personas, o se tratare de una casa en que haya dos o más familias, se llamará a dos vecinos que se estime tengan capacidad suficiente y con su asistencia se practicará la visita en los lugares que fueren necesarios.
 
 ###### ARTICULO 485.
 
@@ -4212,9 +4452,11 @@ Los encargados de ejecutar las órdenes de aprehensión, cuidarán de cumplir su
 
 Los directores de las prisiones no podrán recibir ninguna persona sin que exista constancia de que ya fue puesta a disposición del juez, salvo en el caso de reaprehensión.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 510.
 
-La orden de aprehensión debe substituirse con la simple cita de comparecencia, cuando el delito no merezca pena corporal; pero si el inculpado no comparece en virtud de la citación o hay temor de que se fugue, el juez dictará las medidas que juzgue conducentes para que comparezca o para que no se sustraiga a la acción de la justicia.
+La orden de aprehensión debe substituirse con la simple cita de comparecencia, cuando el delito no merezca pena privativa de libertad; pero si el inculpado no comparece en virtud de la citación o hay temor de que se fugue, el juez dictará las medidas que juzgue conducentes para que comparezca o para que no se sustraiga de la acción de la justicia.
 
 ###### ARTICULO 511.
 
@@ -4292,9 +4534,11 @@ El Ministerio Público no podrá solicitar dicha ampliación ni el juez acordarl
 
 La prórroga del plazo se deberá notificar a la autoridad responsable del establecimiento en donde, en su caso, se encuentre internado el indiciado, para los efectos a que se refiere el segundo párrafo del artículo 19 constitucional.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 516.
 
-Cuando por tener el delito únicamente señalada pena no corporal o alternativa, que incluya una no corporal, no pueda restringirse la libertad, el juez dictará auto de sujeción a proceso con efectos del de formal prisión.
+Cuando por tener el delito únicamente señalada pena no privativa de libertad o alternativa, no pueda restringirse la libertad, el juez dictará auto de sujeción a proceso con efectos del de formal prisión.
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -4316,9 +4560,11 @@ El auto de libertad de un detenido, se fundará en la falta de pruebas relativas
 
 El auto de libertad por falta de méritos, no impedirá que posteriormente, con nuevos datos, se proceda en contra del indiciado. Las diligencias practicadas, quedarán en calidad de averiguación a cargo del juez, quien deberá practicar todas las que pidan el Ministerio Público y el indiciado dentro de un término que no excederá de ciento veinte días; transcurrido el cual, si no hubiere nuevos datos que funden la detención y formal prisión, en su caso, declarará a petición de cualesquiera de las partes si hay o no delito qué perseguir.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 521.
 
-Cuando el juez deba dictar auto de libertad porque la ausencia de pruebas del cuerpo del delito o de la responsabilidad del indiciado dependan de omisiones del Ministerio Público o agente de la Policía Judicial, el mismo juez al dictar su determinación, mencionará expresamente tales omisiones.
+Cuando el juez deba dictar auto de libertad porque la ausencia de pruebas del cuerpo del delito o de la responsabilidad del indiciado dependan de omisiones del Ministerio Público o agente de la Policía Ministerial, el mismo juez al dictar su determinación, mencionará expresamente tales omisiones.
 
 ### CAPITULO XIV. De los careos
 
@@ -4618,11 +4864,11 @@ Si el testigo estuviere impedido para comparecer, el juez le tomará su declarac
 
 Si el testigo se hallare fuera de la población, pero dentro de la misma jurisdicción, si por la distancia no se le pudiere hacer concurrir al juzgado, o el juez no pudiere transladarse, lo examinará por exhorto dirigido al juez de su residencia. Si ésta se ignorare, se encargará a la policía que averigüe el paradero del testigo y lo cite. Si esta investigación no tuviere buen éxito, el juez podrá hacer la citación por medio de edicto en el periódico oficial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 572.
 
-Fuera del caso de enfermedad o de imposibilidad física, todas las personas están obligadas a presentarse en los tribunales cuando sean citadas, cuales quiera que sean su categoría y las funciones que ejerzan. Sin embargo, cuando hayan de ser examinados como testigos, se recibirán las declaraciones por medio de informe escrito que se les pedirá en oficio que contengan todas las preguntas necesarias, a quienes funjan como: Presidente de la República, secretarios, subsecretarios, oficiales mayores de las Secretarías de Estado, jefes de departamentos, gobernadores de territorios federales, miembros que integren un tribunal superior, comandantes de guarnición, generales de división y miembros del cuerpo diplomático, dirigiendo a estos últimos el oficio mencionado por conducto de la Secretaría de la Defensa Nacional, que lo enviará a la de Relaciones Exteriores.
+Fuera del caso de enfermedad o de imposibilidad física, todas las personas están obligadas a presentarse en los tribunales cuando sean citadas, cualesquiera que sean su categoría y las funciones que ejerzan. Sin embargo, cuando hayan de ser examinados como testigos, se recibirán las declaraciones por medio de informe escrito que se les pedirá en oficio que contenga todas las preguntas necesarias, a quienes funjan como: Presidente de la República, secretarios, subsecretarios, oficiales mayores de las Secretarías de Estado, jefes de departamentos, gobernadores de territorios federales, miembros que integren un tribunal superior, comandantes de guarnición, generales de división y miembros del cuerpo diplomático, dirigiendo a estos últimos el oficio mencionado por conducto de la Secretaría de la Defensa Nacional o de Marina según corresponda, que lo enviará a la de Relaciones Exteriores.
 
 Cuando sea necesario una ratificación de dichos funcionarios, ocurrirá el juez con su secretario a la casa u oficina de ellos.
 
@@ -4762,6 +5008,8 @@ Cuando sean varios los declarantes o las personas confrontadas, se verificarán 
 
 ### CAPITULO IV. De la policía de la audiencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 598.
 
 Las presunciones o indicios son las circunstancias y antecedentes que, teniendo relación con el delito, pueden razonablemente fundar una opinión sobre la existencia de los hechos investigados.
@@ -4790,7 +5038,9 @@ La confesión judicial hará prueba plena, cuando concurran las siguientes circu
 
 I.- Que esté plenamente comprobada la existencia del delito;
 
-II.- que se haga por persona mayor de catorce años, en su contra, con pleno conocimiento y sin coacción ni violencia;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+II.- Que se haga por persona mayor de dieciocho años, en su contra, con pleno conocimiento y sin coacción ni violencia;
 
 III.- que sea de hecho propio;
 
@@ -4980,15 +5230,19 @@ El día y hora designados para el juicio, el Presidente del Consejo, propietario
 
 El juez, su secretario, el representante del ministerio público y el defensor, a quienes corresponda intervenir en el juicio de que se trata, deberán siempre concurrir a éste; y respecto de la falta de asistencia de cualquiera de ellos, se observará por el supremo tribunal y el Procurador General lo dispuesto en el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 637.
 
-El acusado debe comparecer ante el Consejo; si se rehusare a hacerlo, el juez le intimará, en nombre de la ley, que cumpla con ese deber, haciendo constar en el proceso esa intimación y la respuesta del acusado. Si el reo se niega a comparecer, el presidente del Consejo podrá ordenar que sea conducido por la fuerza o que dándose lectura a la razón en que conste su resistencia, se lleven adelante los debates. Si el reo justificare estar impedido para concurrir a la audiencia por causa de enfermedad, el presidente, en vista de las circunstancias, resolverá desde luego, si se suspende el juicio hasta que cese ese impedimento, o si se continúa con sólo la asistencia del defensor.
+El acusado debe comparecer ante el Consejo; si se rehusare a hacerlo, el juez le intimará, en nombre de la ley, que cumpla con ese deber, haciendo constar en el proceso esa intimación y la respuesta del acusado. Si el acusado se niega a comparecer, el presidente del Consejo podrá ordenar que sea conducido por la fuerza o que dándose lectura a la razón en que conste su resistencia, se lleven adelante los debates. Si el acusado justificare estar impedido para concurrir a la audiencia por causa de enfermedad, el presidente, en vista de las circunstancias, resolverá desde luego, si se suspende el juicio hasta que cese ese impedimento, o si se continúa con sólo la asistencia del defensor.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 638.
 
-El defensor está también obligado a concurrir al juicio; si no lo hiciere y fuere de oficio, será castigado disciplinariamente, por el jefe del Cuerpo y se hará saber su falta al reo, si hubiere comparecido, para que nombre otro u otros defensores; a este efecto se le mostrará por el presidente, una lista de los defensores de oficio y de los oficiales francos, que hubieren asistido a la audiencia, y otra de las demás personas que estuvieren presentes y en aptitud para desempeñar la defensa.
+El defensor está también obligado a concurrir al juicio; si no lo hiciere y fuere de oficio, será castigado disciplinariamente, por el jefe del cuerpo y se hará saber su falta al procesado, si hubiere comparecido, para que nombre otro u otros defensores; a este efecto se le mostrará por el presidente, una lista de los defensores de oficio y de los oficiales francos, que hubieren asistido a la audiencia, y otra de las demás personas que estuvieren presentes y en aptitud para desempeñar la defensa.
 
-Si bajo cualquier pretexto, el procesado se rehusare a nombrar nuevo defensor, o nombrare a alguno que no estuviere presente, o que estándolo tenga impedimento legal para encargarse de la defensa, o no estando obligado a aceptarla, no la acepte, el mismo presidente designará como defensor a cualquiera de los de oficio o concurrentes que deban ocupar ese puesto, o que, teniendo aptitud para ello se preste a hacerlo voluntariamente. Cuando ni el reo ni su defensor hubieren comparecido, se hará igual designación, sin perjuicio de que se imponga al segundo el castigo disciplinario en que haya incurrido, ni de su responsabilidad para con el primero, tanto en este caso, como en el anterior. Lo mismo se observará cuando el defensor se presente después de abierta la audiencia, pudiendo entonces ocupar su puesto, sin que por este motivo se altere el curso de aquélla.
+Si bajo cualquier pretexto, el procesado se rehusare a nombrar nuevo defensor, o nombrare a alguno que no estuviere presente, o que estándolo tenga impedimento legal para encargarse de la defensa, o no estando obligado a aceptarla, no la acepte, el mismo presidente designará como defensor a cualquiera de los de oficio o concurrentes que deban ocupar ese puesto, o que, teniendo aptitud para ello se preste a hacerlo voluntariamente. Cuando ni el procesado ni su defensor hubieren comparecido, se hará igual designación, sin perjuicio de que se imponga al segundo el castigo disciplinario en que haya incurrido, ni de su responsabilidad para con el primero, tanto en este caso, como en el anterior. Lo mismo se observará cuando el defensor se presente después de abierta la audiencia, pudiendo entonces ocupar su puesto, sin que por este motivo se altere el curso de aquélla.
 
 ###### ARTICULO 639.
 
@@ -5204,9 +5458,11 @@ De todo lo acaecido durante la sesión secreta, se levantará un acta por el sec
 
 La resolución del consejo será leída íntegra y públicamente en el salón de la audiencia, por el juez, estando presentes todos los miembros del consejo, los concurrentes en pie, y la escolta presentando las armas.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 680.
 
-Si se hubiese hecho la declaración de inculpabilidad, el juez dispondrá que se ponga desde luego en libertad al acusado, si no debiere quedar detenido por otra causa. Igualmente se pondrá en libertad al reo a quien se dé por compurgado.
+Si se hubiese hecho la declaración de inculpabilidad, el juez dispondrá que se ponga desde luego en libertad al acusado, si no debiere quedar detenido por otra causa. Igualmente se pondrá en libertad al sentenciado a quien se dé por compurgado.
 
 ###### ARTICULO 681.
 
@@ -5254,7 +5510,7 @@ Los miembros del consejo de guerra no están obligados a ajustar sus procedimien
 
 ###### ARTICULO 688.
 
-La policía de la audiencia estará a cargo del presidente del consejo, a cuyas órdenes se pondrá la escolta que conduzca al reo y cualquiera otra fuerza cuya presencia sea necesaria en el local.
+La policía de la audiencia estará a cargo del presidente del Consejo, a cuyas órdenes se pondrá la escolta que conduzca al procesado y cualquiera otra fuerza cuya presencia sea necesaria en el local.
 
 Mientras el presidente esté en la sala de deliberaciones, la policía de la audiencia estará a cargo del juez y en ausencia de éste, del Agente del Ministerio Público, teniendo, cualquiera de ellos en esos momentos, las mismas facultades que el presidente.
 
@@ -5264,9 +5520,11 @@ Mientras el presidente esté en la sala de deliberaciones, la policía de la aud
 
 Las audiencias serán públicas, salvo lo prevenido en los artículos 692 y 918, y deberán concurrir a ellas los oficiales francos de la guarnición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 690.
 
-Todos los que no intervengan oficialmente en el juicio, cualquiera que sea su categoría militar o civil, ocuparán en el salón los lugares destinados al público. En la plataforma destinada al consejo, sólo podrán estar los miembros de éste, el juez, su secretario, el funcionario o funcionarios que representen al Ministerio Público, los defensores de los reos y los empleados necesarios para el servicio.
+Todos los que no intervengan oficialmente en el juicio, cualquiera que sea su categoría militar o civil, ocuparán en el salón los lugares destinados al público. En la plataforma destinada al consejo, sólo podrán estar los miembros de éste, el juez, su secretario, el funcionario o funcionarios que representen al Ministerio Público, los defensores de los procesados y los empleados necesarios para el servicio.
 
 Todo el que infrinja esta disposición será amonestado por el presidente y si reincidiere, se le hará salir del salón.
 
@@ -5282,13 +5540,17 @@ Cuando no sea posible restablecer el orden por los medios prescritos en este art
 
 En caso de resistencia, el referido funcionario hará uso de la fuerza pública para hacer cumplir sus determinaciones.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 693.
 
-El presidente puede hacer retirar de la audiencia y volver a la prisión a todo acusado que, con clamores, o por cualesquiera otros medios propios para causar tumulto, ponga obstáculo al libre ejercicio de la justicia, o que falte al respeto debido a la ley o a las autoridades. En este caso se procederá a los debates y se pronunciará sentencia con sólo la presencia del defensor, y haciéndose saber al reo la resolución, por medio del juez.
+El presidente puede hacer retirar de la audiencia y volver a la prisión a todo acusado que, con clamores, o por cualesquiera otros medios propios para causar tumulto, ponga obstáculo al libre ejercicio de la justicia, o que falte al respeto debido a la ley o a las autoridades. En este caso se procederá a los debates y se pronunciará sentencia con sólo la presencia del defensor, y haciéndose saber al sentenciado la resolución, por medio del juez.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 694.
 
-Si el defensor del reo perturbase el orden o injuriase u ofendiese a alguna persona presente, o faltare al respeto debido a la ley o a las autoridades, el presidente lo apercibirá, y si reincidiere, lo mandará expulsar del salón de la audiencia, imponiéndole al mismo tiempo la corrección disciplinaria que estime conveniente, o dará parte a la autoridad que corresponda, si el que debiere ser expulsado fuere de categoría igual o superior a la del presidente y fuere defensor de oficio; y procederá respecto del acusado, como está prevenido en el artículo 638.
+Si el defensor del acusado perturbase el orden o injuriase u ofendiese a alguna persona presente, o faltare al respeto debido a la ley o a las autoridades, el presidente lo apercibirá, y si reincidiere, lo mandará expulsar del salón de la audiencia, imponiéndole al mismo tiempo la corrección disciplinaria que estime conveniente, o dará parte a la autoridad que corresponda, si el que debiere ser expulsado fuere de categoría igual o superior a la del presidente y fuere defensor de oficio; y procederá respecto del acusado, como está prevenido en el artículo 638.
 
 ###### ARTICULO 695.
 
@@ -5308,9 +5570,11 @@ El acusado, durante la audiencia, sólo podrá comunicarse con sus defensores, c
 
 La infracción de ese precepto se castigará con arreglo a lo establecido en el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 698.
 
-A toda audiencia deberá concurrir, además de la escolta encargada de la custodia del reo, la tropa que el presidente del consejo considere necesaria para hacer cumplir sus disposiciones y conservar el orden.
+A toda audiencia deberá concurrir, además de la escolta encargada de la custodia del procesado, la tropa que el presidente del consejo considere necesaria para hacer cumplir sus disposiciones y conservar el orden.
 
 ### CAPITULO VI. De las excusas
 
@@ -5360,9 +5624,11 @@ Concluídos los debates, el presidente tomará a los vocales la protesta a que s
 
 Recogida la votación de todos los miembros del consejo, se procederá en vista de ella, como corresponda, con arreglo a lo que se previene en los dos artículos que siguen.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 709.
 
-Contestada negativamente la pregunta especificada en el artículo anterior, el consejo entregará el proceso y demás documentos con el acta que haya levantado el secretario del juez, a éste, si es permanente, quien seguirá conociendo del asunto, según su competencia; y si no fuere permanente el juez, el consejo remitirá el reo, el proceso y documentos por conducto del jefe que lo convocó al juez permanente que tenga competencia.
+Contestada negativamente la pregunta especificada en el artículo anterior, el consejo entregará el proceso y demás documentos con el acta que haya levantado el secretario del juez, a éste, si es permanente, quien seguirá conociendo del asunto, según su competencia; y si no fuere permanente el juez, el consejo remitirá al acusado, el proceso y documentos por conducto del jefe que lo convocó al juez permanente que tenga competencia.
 
 ###### ARTICULO 710.
 
@@ -5384,11 +5650,11 @@ Cuando se declare que el acusado es inculpable, se pronunciará su absolución y
 
 En la notificación y la ejecución de la sentencia, se observarán por la autoridad militar las solemnidades prevenidas por este Código y por las prescripciones disciplinarias, hasta donde sean compatibles con las circunstancias del delito.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 715.
 
-Del acta levantada de lo ocurrido en la audiencia, inclusive el fallo, se enviarán copias autorizadas al archivo del detalle de la corporación a que pertenezca el procesado y a la Secretaría de la Defensa Nacional.
+Del acta levantada de lo ocurrido en la audiencia, inclusive el fallo, se enviarán copias autorizadas al archivo del detalle de la corporación a que pertenezca el procesado y a la Secretaría de la Defensa Nacional o de Marina según corresponda.
 
 ###### ARTICULO 716.
 
@@ -5460,9 +5726,11 @@ En el oficio de inhibición que se libre, se insertará copia del escrito en que
 
 Recibido el oficio de inhibición, el juez oirá a las partes que ante él litiguen, señalando dos días a cada una para que evacuen el traslado y citando a audiencia verbal dentro de veinticuatro horas, en la que se dará cuenta del incidente y resolverá, concurran o no dichas partes.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 732.
 
-Si accede a la inhibición, remitirá los autos inmediatamente, y en su caso, al reo o reos, a la autoridad o tribunal que se le haya propuesto, con citación de las partes.
+Si accede a la inhibición, remitirá los autos inmediatamente, y en su caso, al procesado o procesados, a la autoridad o tribunal que se le haya propuesto, con citación de las partes.
 
 ###### ARTICULO 733.
 
@@ -5482,9 +5750,11 @@ Si la autoridad requerida contestare aceptando la competencia jurisdiccional, la
 
 Cuando a consecuencia de los oficios que se dirijan las autoridades que controviertan, alguna de ellas se disistiere (sic) de la competencia, la que lo haga, remitirá a la otra sus actuaciones.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 737.
 
-En caso de inhibitoria, si las dos autoridades competidoras hubieren comenzado a instruir diligencias, las continuarán separadamente hasta que, dirimida la competencia, se proceda a la acumulación. La autoridad a quien esté sujeto el reo, podrá resolver el incidente que por parte de éste se promueva, sobre libertad caucional.
+En caso de inhibitoria, si las dos autoridades competidoras hubieren comenzado a instruir diligencias, las continuarán separadamente hasta que, dirimida la competencia, se proceda a la acumulación. La autoridad a quien esté sujeto el procesado, podrá resolver el incidente que por parte de éste se promueva, sobre libertad caucional.
 
 ###### ARTICULO 738.
 
@@ -5814,6 +6084,10 @@ Cuando se conceda la libertad por haberse desvanecido los datos que sirvieron pa
 
 ### CAPITULO I. De la ejecución
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 795.
 
 Libertad protestatoria es la que se concede bajo la palabra de honor del procesado, siempre que se llenen los requisitos siguientes:
@@ -5851,6 +6125,10 @@ I.- En los casos del párrafo segundo de la fracción X del artículo 20 constit
 II.- cuando habiéndose pronunciado sentencia condenatoria en primera instancia, la haya cumplido íntegramente el acusado, y esté pendiente del recurso de apelación.
 
 ### CAPITULO II. De la liberatd (sic) preparatoria y retención
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 799.
 
@@ -5950,9 +6228,11 @@ Si la fianza fuere hipotecaria, la hipoteca se deberá constituir en primer luga
 
 El fiador propuesto, cuando se trate de fianza personal, salvo cuando sea dada por empresas afianzadoras legalmente autorizadas, deberá declarar ante el tribunal correspondiente, bajo protesta de decir verdad, acerca de las fianzas judiciales que con anterioridad hayan otorgado, así como de la cuantía y circunstancias de las mismas para que esa declaración se tome en cuenta al calificar su solvencia.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 808.
 
-Al notificarse al reo el auto que le concede su libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante su juez cuantas veces sea citado o requerido para ello; comunicar al mismo los cambios de domicilio que tuviere y presentarse ante el tribunal que conozca de su causa el día que se le señale de cada semana. En la notificación se hará constar que se hicieron saber al acusado las anteriores obligaciones; pero la omisión de este requisito no libra de ellas ni de sus consecuencias al acusado.
+Al notificarse al procesado el auto que le concede su libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante su juez cuantas veces sea citado o requerido para ello; comunicar al mismo los cambios de domicilio que tuviere y presentarse ante el tribunal que conozca de su causa el día que se le señale de cada semana. En la notificación se hará constar que se hicieron saber al acusado las anteriores obligaciones.
 
 > <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -5970,7 +6250,9 @@ II.- cuando lo solicite el mismo inculpado y se presente a su juez;
 
 III.- Cuando en el curso de la instrucción apareciere que el delito o los delitos imputados se encuentran calificados como graves por este Código;
 
-IV.- cuando en su proceso cause ejecutoria la sentencia dictada en primera o en segunda instancia y ella sea condenatoria sin dar al reo por compurgado, y
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+IV.- Cuando en su proceso cause ejecutoria la sentencia dictada en primera o en segunda instancia y ella sea condenatoria sin dar al sentenciado por compurgado, y
 
 > <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -5982,15 +6264,19 @@ Cuando un tercero haya garantizado la libertad del acusado por medio de depósit
 
 I.- En los casos que se mencionan en el artículo anterior;
 
-II.- cuando aquél pida que se le releve de la obligación y presente al reo;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+II.- Cuando aquél pida que se le releve de la obligación y presente al acusado;
 
 III.- cuando con posterioridad se demuestre la insolvencia del fiador, y
 
 IV.- en los casos del artículo 814 de este Código.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 811.
 
-En los casos de las fracciones I y V del artículo 809 se mandará reaprehender al reo y la caución se hará efectiva, a cuyo efecto el juez enviará el certificado de depósito, el testimonio de la hipoteca o copia del acta correspondiente a la Oficina de Hacienda respectiva, para su cobro.
+En los casos de las fracciones I y V del artículo 809 se mandará reaprehender al procesado y la caución se hará efectiva, a cuyo efecto el juez enviará el certificado de depósito, el testimonio de la hipoteca o copia del acta correspondiente a la Oficina de Hacienda respectiva, para su cobro.
 
 ###### ARTICULO 812.
 
@@ -6008,9 +6294,11 @@ III.- cuando resulte condenado el mismo y se presente a cumplir su condena, y
 
 IV.- cuando se dicte auto de libertad o de extinción de la responsabilidad penal.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 814.
 
-Cuando un tercero haya constituído depósito, fianza o hipoteca, para garantizar la libertad de un reo, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentar al reo, el juez podrá otorgarle un plazo hasta de cinco días para que lo haga, sin perjuicio de librar orden de aprehensión si lo estimare oportuno. Si concluído el plazo concedido al fiador, no se obtiene la comparecencia del acusado, se hará efectiva la garantía y se ordenará, si no se ha hecho, la reaprehensión del reo.
+Cuando un tercero haya constituido depósito, fianza o hipoteca, para garantizar la libertad de un procesado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentar al procesado, el juez podrá otorgarle un plazo hasta de cinco días para que lo haga, sin perjuicio de librar orden de aprehensión si lo estimare oportuno. Si concluido el plazo concedido al fiador, no se obtiene la comparecencia del acusado, se hará efectiva la garantía y se ordenará, si no se ha hecho, la reaprehensión del procesado.
 
 ###### ARTICULO 815.
 
@@ -6070,7 +6358,9 @@ I.- El auto denegatorio de la orden de aprehensión o de comparecencia en su cas
 
 II.- el auto de formal prisión, excepto lo previsto en el artículo 701; el de sujeción a proceso y el de libertad por falta de méritos;
 
-III.- el auto denegatorio de libertad caucional;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+III.- Las sentencias definitivas excepto en el caso del artículo 717. Cuando sean absolutorias, el sentenciado quedará en libertad mientras se resuelve el recurso.
 
 IV.- los autos denegatorios de prueba;
 
@@ -6122,9 +6412,11 @@ Declarado visto el proceso, quedará cerrado el debate, y el Supremo Tribunal Mi
 
 Cuando el Supremo Tribunal Militar, después de la vista, creyere necesario para ilustrar su criterio, la práctica de alguna diligencia, podrá decretarla para mejor proveer y la desahogará a la mayor brevedad, tomando en cuenta las disposiciones de este libro y el artículo 20 constitucional.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 833.
 
-El Supremo Tribunal Militar al pronunciar su sentencia, tendrá las mismas facultades que el tribunal de primera instancia; pero si sólo hubiese apelado el reo o su defensor, no podrá aumentarse la pena impuesta en la sentencia apelada.
+El Supremo Tribunal Militar al pronunciar su sentencia, tendrá las mismas facultades que el tribunal de primera instancia; pero si sólo hubiese apelado el sentenciado o su defensor, no podrá aumentarse la pena impuesta en la sentencia apelada.
 
 ###### ARTICULO 834.
 
@@ -6222,7 +6514,7 @@ En caso contrario, se mandará archivar el toca respectivo, remitiendo testimoni
 
 ###### ARTICULO 847.
 
-Las autoridades del fuero de guerra que reciban para su cumplimiento testimonio de una sentencia irrevocable, procederán a ejecutarla con apego a lo prevenido en ella, salvo lo que se establece en este capítulo.
+El Juez de Ejecución de Sentencias que reciba testimonio de una sentencia irrevocable, procederá a vigilar su cumplimiento con apego a lo prevenido en ella y a la ley aplicable.
 
 ###### ARTICULO 848.
 
@@ -6234,9 +6526,11 @@ II.- las sentencias de segunda instancia, y
 
 III.- aquellas contra las cuales no conceda la ley recurso alguno.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 849.
 
-En toda sentencia condenatoria se prevendrá que se amoneste al reo para que no reincida, advirtiéndole las penas a que se expone, y de ello se extenderá diligencia en el proceso; pero sin que la falta de ésta obste para hacer efectivas las penas de la reincidencia.
+En toda sentencia condenatoria se prevendrá que se amoneste al sentenciado para que no reincida, advirtiéndole las penas a que se expone, y de ello se extenderá diligencia en el proceso; pero sin que la falta de ésta obste para hacer efectivas las penas de la reincidencia.
 
 ###### ARTICULO 850.
 
@@ -6258,49 +6552,57 @@ IV.- en los demás casos especialmente señalados en este Código.
 
 (DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 853.
 
-Los jueces remitirán copia de la sentencia ejecutoria tanto al jefe de la prisión en donde estuviere el sentenciado, como al de aquella en que hubiere de extinguir su condena, en su caso; asimismo, enviará testimonio de ella a la Secretaría de la Defensa Nacional y a la comandancia de la guarnición.
+Los jueces remitirán copia de la sentencia ejecutoria tanto al jefe de la prisión en donde estuviere el sentenciado, como al de aquella en que hubiere de extinguir su condena, en su caso; asimismo, enviará testimonio de ella a la Secretaría de la Defensa Nacional o de Marina, según corresponda, y a la comandancia de su adscripción.
 
 ###### ARTICULO 854.
 
-El reo que tenga derecho a la libertad preparatoria de acuerdo con este Código, podrá solicitarla por escrito al Supremo Tribunal Militar, por conducto del jefe del establecimiento donde se halle extinguiendo su condena, el que deberá adjuntar un informe detallado de la conducta observada por el sentenciado.
+El sentenciado que tenga derecho a la libertad preparatoria de acuerdo con este Código, podrá solicitarla por escrito al Juez de Ejecución de Sentencias, por conducto del jefe del establecimiento donde se halle extinguiendo su condena, el que deberá adjuntar un informe detallado de la conducta observada por el sentenciado.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 855.
 
-El Supremo Tribunal Militar con audiencia del Ministerio Público, otorgará la gracia de la libertad preparatoria, si resulta acreditada la enmienda del reo. De la resolución dictada se dará aviso a la Secretaría de la Defensa Nacional, si es favorable.
+El Juez de Ejecución de Sentencias, con audiencia del Ministerio Público, otorgará el beneficio de la libertad preparatoria, si resulta acreditada la enmienda del sentenciado. De la resolución dictada, si es favorable, se le dará aviso a la Secretaría de la Defensa Nacional o de Marina, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 856.
 
-Los sentenciados que salgan a disfrutar de la libertad preparatoria, quedarán sometidos a la vigilancia de la autoridad militar, en el lugar que la Secretaría de la Defensa Nacional les designe para residencia, salvo el caso de que vayan a prestar sus servicios en el Ejército.
+Los sentenciados que salgan a disfrutar de la libertad preparatoria, quedarán sometidos a la vigilancia de la autoridad militar, en el lugar que la Secretaría de la Defensa Nacional o de Marina, según corresponda, les designe para residencia, salvo el caso de que vayan a prestar sus servicios en el Ejército.
 
 ###### ARTICULO 857.
 
 La sujeción a la vigilancia de la autoridad militar, importará:
 
-I.- La inspección prudentemente ejercitada por parte de esa autoridad, de sus agentes o de la Policía Judicial Militar, acerca de la conducta del reo;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+I.- La inspección prudentemente ejercitada por parte de esa autoridad, de sus agentes o de la Policía Ministerial Militar, acerca de la conducta del sentenciado;
 
 II.- la obligación por parte del vigilado, de presentarse a dicha autoridad, en los días que ésta le señale, y cada vez que fuere requerido para ello;
 
 III.- la obligación para el agraciado de dar parte a la autoridad de quien dependa, de su domicilio y los cambios que de él efectúe.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 858.
 
-Si el jefe militar de quien dependa el agraciado con la libertad preparatoria, observare que éste se conduce mal, dará parte inmediatamente al Supremo Tribunal Militar, acompañándole los datos en que funde su juicio.
+Si el jefe militar de quien dependa el agraciado con la libertad preparatoria, observare que éste se conduce mal, dará parte inmediatamente al Juez de Ejecución de Sentencias, acompañándole los datos en que funde su juicio.
 
 El citado jefe dará igualmente parte, cuando el agraciado no se presente el día que tenga señalado, o cuando sea requerido para ello, si no comprobare haber tenido motivo justificado que lo haya obligado a cometer la falta.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 859.
 
-Si los datos fueren fehacientes, el tribunal revocará la libertad preparatoria, dando aviso a la Secretaría de la Defensa Nacional, pero si no lo fueren, mandará que se haga la averiguación correspondiente, a fin de resolver, oyendo sumariamente, en ambos casos, al Ministerio Público y al defensor.
+Si los datos fueren fehacientes, el tribunal revocará la libertad preparatoria, dando aviso a la Secretaría de la Defensa Nacional o de Marina, según corresponda, pero si no lo fueren, mandará que se haga la averiguación correspondiente, a fin de resolver, oyendo sumariamente, en ambos casos, al Ministerio Público y al defensor.
 
 ###### ARTICULO 860.
 
@@ -6310,23 +6612,27 @@ La libertad preparatoria se revocará cuando el agraciado observe mala conducta,
 
 La revocación de la libertad preparatoria traerá como consecuencia que se reduzca de nuevo a prisión al sentenciado, para que sufra toda la parte de la pena de que se le había hecho gracia, sea cual fuere el tiempo que llevare de estar disfrutando de la expresada libertad.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 862.
 
-Cuando el término de la libertad preparatoria expire sin que haya habido motivo para revocarla, el jefe militar de quien dependa el agraciado, informará al Supremo Tribunal Militar, a fin de que éste declare que el reo queda en libertad absoluta. Esta determinación será comunicada a la Secretaría de la Defensa Nacional.
+Cuando el término de la libertad preparatoria expire sin que haya habido motivo para revocarla, el jefe militar de quien dependa el beneficiado, informará al Juez de Ejecución de Sentencias, a fin de que éste declare que el sentenciado queda en libertad absoluta. Esta determinación será comunicada a la Secretaría de la Defensa Nacional o de Marina, según corresponda.
 
 ###### ARTICULO 863.
 
 Contra las resoluciones dictadas sobre libertad preparatoria, no se admitirá recurso alguno.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 864.
 
-Al notificarse a los reos la sentencia irrevocable que los condene a sufrir prisión, por delito que tenga señalada en la ley una pena de dos años como término medio, se les harán saber las prevenciones de este capítulo, lo cual se ordenará en la sentencia, levantándose de ello, en su oportunidad, acta formal en autos que firmará o señalará con sus huellas digitales el reo.
+Al notificarse a los sentenciados la sentencia irrevocable que los condene a sufrir prisión, por delito que tenga señalada en la ley una pena de dos años como término medio, se les harán saber las prevenciones de este capítulo, lo cual se ordenará en la sentencia, levantándose de ello, en su oportunidad, acta formal en autos que firmará o señalará con sus huellas digitales el sentenciado.
 
 ###### ARTICULO 865.
 
-Cuando debe hacerse efectiva la retención, treinta días antes de que el reo extinga la pena, el director de la prisión está obligado a remitir informe de la conducta del sentenciado al Supremo Tribunal Militar.
+(DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
 ###### ARTICULO 866.
 
@@ -6336,9 +6642,13 @@ Recibido ese informe, se citará a una audiencia dentro de cinco días, oyendo a
 
 El día de la audiencia el secretario dará cuenta con el expediente y las partes alegarán lo que a sus intereses convenga, pronunciándose la resolución dentro de los tres días siguientes. La audiencia se verificará, concurran o no las partes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 868.
 
-Cumplido el término de la condena, si el director del establecimiento penal, no tuviere el fallo sobre la retención, deberá poner al reo inmediatamente en libertad.
+Cumplido el término de la condena, previa declaración de extinción de pena por parte del Juez de Ejecución de Sentencias, el Director del establecimiento penal deberá poner al sentenciado inmediatamente en libertad.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JUNIO DE 2005)</small>
 
@@ -6350,13 +6660,15 @@ Cumplido el término de la condena, si el director del establecimiento penal, no
 
 (DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 871.
 
-La reducción de pena se solicitará cuando se haya pronunciado sentencia que cause ejecutoria por medio de escrito que se presentará al tribunal que la hubiere pronunciado.
+La reducción de pena se solicitará cuando se haya pronunciado sentencia que cause ejecutoria por medio de escrito que se presentará ante el Juez de Ejecución de Sentencias.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-El tribunal, después de oír al Ministerio Público, elevará la instancia con el informe respectivo y testimonio del fallo, a la Secretaría de la Defensa Nacional para que se tome en consideración por el Presidente de la República.
+Dicho Juez de Ejecución, citará a una audiencia dentro de los cinco días siguientes en la que después de oír al Ministerio Público, emitirá la resolución correspondiente.
 
 > <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
@@ -6390,19 +6702,27 @@ IV.- cuando la sentencia se funde exclusivamente en pruebas que posteriormente s
 
 V.- cuando después de la sentencia aparecieren documentos públicos que invaliden la prueba en que se haya fundado aquélla.
 
-> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 875.
 
-El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia, ocurrirá por escrito al Supremo Tribunal Militar, alegando la causa o causas de las enumeradas en el artículo anterior en que funde su petición, acompañando las pruebas respectivas o protestando exhibirlas oportunamente.
+El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia, ocurrirá por escrito al Juez de Ejecución de Sentencias, alegando la causa o causas de las enumeradas en el artículo anterior en que funde su petición, acompañando las pruebas respectivas o protestando exhibirlas oportunamente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 876.
 
-Presentada la solicitud al Supremo Tribunal Militar, éste pedirá el proceso inmediatamente y tan luego como lo reciba citará al reo, al jefe del Cuerpo de Defensores y al Ministerio Público, para una audiencia que se efectuará dentro de los cinco días siguientes recibiendo en ella la prueba que se hubiere ofrecido.
+Presentada la solicitud al Juez de Ejecución de Sentencias, éste pedirá el proceso inmediatamente y tan luego como lo reciba citará al sentenciado, al jefe del Cuerpo de Defensores y al Ministerio Público, para una audiencia que se efectuará dentro de los cinco días siguientes recibiendo en ella la prueba que se hubiere ofrecido.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 877.
 
-El día señalado para la audiencia, el secretario hará relación de autos, y recibida la prueba, informará el (sic) reo o la persona por él designada para ese fin y, en defecto de ella, lo hará el jefe del Cuerpo de Defensores, oyéndose también al Ministerio Público.
+El día señalado para la audiencia, el secretario hará relación de autos, y recibida la prueba, informará al sentenciado o la persona por él designada para ese fin y, en defecto de ella, lo hará el jefe del Cuerpo de Defensores, oyéndose también al Ministerio Público.
 
 > <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
 
@@ -6434,9 +6754,9 @@ Todas las resoluciones en que se conceda indulto o reconocimiento de inocencia, 
 
 Las denuncias por delitos oficiales deberán dirigirse al Procurador General Militar.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-Cuando el funcionario acusado dependa directamente de la Secretaría de la Defensa Nacional la consignación deberá hacerse por conducto de ella.
+Cuando el funcionario acusado dependa directamente de la Secretaría de la Defensa Nacional o de Marina, según corresponda, la consignación deberá hacerse por conducto de ella.
 
 ###### ARTICULO 883.
 
@@ -6454,11 +6774,11 @@ Practicadas dichas diligencias y presentado el informe o transcurrido el términ
 
 El magistrado en funciones de juez, dará cuenta al Supremo Tribunal Militar de la averiguación practicada y del pedimento del Ministerio Público, a fin de que si hay lugar a enjuiciamiento, mande suspender en su encargo al inculpado, abriéndose desde luego la instrucción, y de que en caso contrario se archiven las diligencias practicadas.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 887.
 
-La suspensión del inculpado se comunicará a la Secretaría de la Defensa Nacional para los efectos legales.
+La suspensión del inculpado se comunicará a la Secretaría de la Defensa Nacional o de Marina según corresponda para los efectos legales.
 
 ###### ARTICULO 888.
 
@@ -6562,11 +6882,11 @@ Al Procurador General de Justicia Militar y a los agentes adscritos a la Procura
 
 Si se perdiere algún proceso o expediente, se repondrá a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen por la pérdida, quedando, además, sujeto a las disposiciones penales del fuero de guerra y del Código Penal para el Distrito Federal, si el acto fuere punible conforme a ellas.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 909.
 
-Todos los términos que señala este Código son improrrogables y se contarán desde el día siguiente al en que se hubiere hecho la notificación respectiva. En ningún término se contarán los días que la ley señale como festivos, ni aquellos en que la Secretaría de la Defensa Nacional ordene la suspensión de labores; a excepción de los señalados para tomar al inculpado su declaración indagatoria y para pronunciar el auto de prisión preventiva o de sujeción a proceso.
+Todos los términos que señala este Código son improrrogables y se contarán desde el día siguiente al en que se hubiere hecho la notificación respectiva. En ningún término se contarán los días que la ley señale como festivos, ni aquellos en que las Secretarías de la Defensa Nacional o de Marina, según corresponda, ordenen la suspensión de labores, a excepción de los señalados para tomar al inculpado su declaración indagatoria y para pronunciar el auto de prisión preventiva o de sujeción a proceso.
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
 
@@ -6644,7 +6964,9 @@ I.- La hora, fecha y lugar en que se dicte;
 
 II.- el nombre del juez, magistrados o miembros del consejo, en su caso, y secretarios;
 
-III.- el nombre y apellido del reo, su apodo si lo tiene, el lugar de su nacimiento, edad, categoría militar, corporación de que proceda y su oficio o profesión antes de ser militar;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+III.- El nombre y apellido del sentenciado, su apodo si lo tiene, el lugar de su nacimiento, edad, categoría militar, corporación de que proceda y su oficio o profesión antes de ser militar;
 
 IV.- la relación de los hechos que motiven el fallo; y
 
@@ -6737,3 +7059,15 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las disposiciones relativas a los Jueces de Ejecución de Sentencias entrarán en vigor seis meses después de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Tercero.- Los procedimientos penales relacionados con presuntos delitos contra la disciplina militar que hayan sido iniciados antes de la entrada en vigor del presente Decreto, serán tramitados y concluidos conforme a las disposiciones aplicables al momento de la comisión de los hechos probablemente delictivos. En tales casos, lo mismo se observará respecto de la ejecución de las sentencias emitidas con anterioridad a la entrada en vigor de este Decreto.
+
+Cuarto.- Las averiguaciones previas y las causas penales que hayan sido iniciadas antes de la entrada en vigor del presente Decreto por la presunta comisión de delitos que no atenten contra la disciplina militar, serán remitidas a las autoridades civiles competentes dentro de los 30 días posteriores a la entrada en vigor de este Decreto.
+
+Quinto.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
