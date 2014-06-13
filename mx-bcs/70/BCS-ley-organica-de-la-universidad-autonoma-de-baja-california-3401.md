@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-universidad-autonoma-de-baja-california-3401
 country: "mx"
 rank: "ley_organica"
 publication_date: "1978-10-06"
-last_updated: "2011-12-13"
+last_updated: "2014-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 13 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2014 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 6 de octubre de 1978.
 
@@ -79,7 +81,7 @@ IV.- Realizar convenios con otras instituciones nacionales y extranjeras.
 
 V.- Las demás que se deriven de ésta Ley, del Estatuto General Universitario y sus reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 4o.
 
@@ -139,11 +141,11 @@ VII.- Por las utilidades que se obtengan en promociones de carácter económico.
 
 VIII.- Por la generación de patentes y marcas que se desarrollen en programas y/o a través de convenios institucionales.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO III. DEL GOBIERNO DE LA UNIVERSIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 8o.
 
@@ -175,7 +177,7 @@ VI.- Los Jefes de Departamento Académico.
 
 VII.- El Patronato Universitario, figura de apoyo externo en la búsqueda de fuentes alternas de financiamiento para la Universidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 9o.
 
@@ -215,7 +217,7 @@ c).- Un representante por los alumnos.
 
 El Consejo General Universitario determinará otras representaciones que conforme al desarrollo de las funciones sustantivas de los Campus, se requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 10o.
 
@@ -231,7 +233,7 @@ III.- Crear, modificar o suprimqr (sic) áreas y departamentos a propuesta del R
 
 IV.- Expedir todas las normas y disposiciones generales encaminadas a la mejor organización y funcionamiento técnico, docente, estudiantil y administrativo de la Universidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE FEBRERO DE 2011)</small>
 
 V.- Elegir a los Miembros de la Junta Consultiva; observando las reglas siguientes:
 
@@ -387,7 +389,7 @@ VII.- No haber desempeñado cargo de elección popular durante el año anterior 
 
 VIII.- Tener conocimiento de la realidad institucional y capacidad de conducción con base en un proyecto de desarrollo para la Universidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 15.
 
@@ -531,7 +533,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. GUILLERMO MERCADO ROMERO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 28 DE SEPTIEMBRE DE 2007.
 
@@ -574,3 +576,37 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 B.O. 13 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 13 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Universidad Autónoma de Baja California Sur publicada en el Boletín Oficial del Gobierno del Estado, mediante decreto numero 117, el día 06 de octubre de 1978, así como sus correspondientes reformas contenidas en los decretos 1685, 1903 y 1960.
+
+###### ARTÍCULO TERCERO.
+
+El H. Consejo General Universitario deberá realizar las modificaciones que sean procedentes a la Legislación Universitaria, en un plazo que no excederá de un año, contado a partir de la fecha en que entre en vigor la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los integrantes de los órganos colegiados y los personales que hayan sido electos o designados conforme a la Ley que se abroga, continuarán en sus cargos hasta la conclusión del periodo para el que fueron designados o electos.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones de la presente Ley no serán aplicadas de forma retroactiva en perjuicio de quienes actualmente no cumplen los requisitos para ocupar los cargos.
+
+###### ARTÍCULO SEXTO.
+
+Los cambios y modificaciones en la organización académica y administrativa de la Universidad, que deriven de las disposiciones de la presente Ley, se realizarán de forma gradual a partir de la fecha en que entre en vigor la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+El H. Consejo General Universitario únicamente durante los primeros dos años contados a partir del inicio de vigencia de la presente Ley, no reemplazara a los integrantes de la junta Consultiva, según lo ordenado en el artículo 23, a efecto de que la integración total de los miembros de la Junta Consultiva se reduzca a 7, para así dar cumplimiento a lo ordenado en el artículo 22 de esta Ley. De igual forma, en esos dos primeros años los miembros de la Junta Consultiva que se encuentren en el último lugar de la lista de insaculación concluirán el último periodo anual que les corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+El H. Consejo General Universitario revisará la integración y funcionamiento de la Defensoría de los Derechos Universitarios y de la Junta Hacendaría en los términos de la presente Ley y podrá ratificar o revocar los nombramientos en un término no mayor de 30 días hábiles contados a partir de la fecha en que entre en vigor la presente Ley.
