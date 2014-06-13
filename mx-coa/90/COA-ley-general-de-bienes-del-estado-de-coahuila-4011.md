@@ -4,7 +4,7 @@ identifier: "COA-ley-general-de-bienes-del-estado-de-coahuila-4011"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-09-04"
-last_updated: "2012-05-08"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY GENERAL DE BIENES DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el miércoles 4 de septiembre de 1974.
 
@@ -413,6 +413,22 @@ En el caso de que los inmuebles sean propiedad municipal se requerirá, cuando e
 
 Los actos o contratos que tengan relación con los inmuebles de la propiedad del Estado y que para su validez, o por acuerdo entre las partes, requieran la intervención de Notario Público, serán pasados ante la fe del que designe libremente el Ejecutivo del Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 45 BIS.- No se requerirá intervención de notario en los casos siguientes:
+
+I.- Donaciones en las que intervenga el Gobierno del Estado, en su carácter de donante o donatario con la Federación, los municipios, entidades paraestatales y particulares;
+
+II.- Adquisiciones y enajenaciones a título oneroso que realice el Estado con la Federación, los municipios y entidades paraestatales;
+
+III.- Actos jurídicos que se deriven de los procesos de afectación de inmuebles para la realización de obras públicas;
+
+IV.- Declaratorias por las que se determine que un inmueble forma parte del patrimonio del Estado.
+
+V.- Las declaratorias, resoluciones judiciales y extrajudiciales promovidas en relación a los inmuebles del Gobierno Estatal.
+
+En los casos señalados con anterioridad, el documento que consigne el acto jurídico, la operación o contrato respectivo, tendrá el carácter de escritura pública y deberá ser inscrito en el Registro Público de del (sic) Estado de Coahuila de Zaragoza.
+
 ###### ARTICULO 46.
 
 El Estado estará facultado para retener los bienes que posea; pero cuando se trate de recuperar la posesión interina o definitiva, de reivindicar los inmuebles de dominio privado, o de obtener el cumplimiento, la rescisión o la nulidad de los contratos celebrados respecto de dichos bienes, deberá deducir ante los Tribunales las acciones que correspondan. Presentada la demanda, el Juez a solicitud del Ministerio Público y siempre que encuentre razón bastante que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervenientes.
@@ -459,7 +475,7 @@ El Gobierno del Estado, en casos especiales, podrá donar determinados bienes mu
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ### CAPITULO V.
 
@@ -493,9 +509,17 @@ IV.- Las informaciones ad-perpetuam promovidas por el Ejecutivo del Estado, para
 
 V.- Las resoluciones judiciales definitivas que produzcan alguno de los efectos mencionados en la fracción I;
 
-VI.- Los decretos que incorporen o desincorporen del dominio público los bienes inmuebles; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
 
-VII.- Los demás títulos que, conforme a la Ley, deban ser registrados.
+VI.- Los decretos que incorporen o desincorporen del dominio público los bienes inmuebles;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+VII.- Los demás títulos que, conforme a la Ley, deban ser registrados;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+VIII.- Los actos jurídicos que no requieren intervención de notario previstos en el artículo 45 BIS de esta Ley.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 1977)</small>
 
@@ -531,6 +555,74 @@ En la cancelación de las inscripciones se asentarán los datos necesarios, a fi
 
 (DEROGADO, P.O. 8 DE ABRIL DE 1977)
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2014)</small>
+
+### CAPITULO V BIS. DE LOS PROCEDIMIENTOS DE INCORPORACION Y RECUPERACION DE BIENES AL PATRIMONIO DEL ESTADO
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE JUNIO DE 2014)</small>
+
+#### SECCION I. DE LA DECLARATORIA DE INCORPORACION DE BIENES AL PATRIMONIO DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 61 A.- El Ejecutivo Estatal a través de la Secretaría de Finanzas tendrá la facultad de incorporar al patrimonio del estado los bienes inmuebles sobre los cuales alguna dependencia o entidad de la administración pública estatal acredite su posesión, uso o administración a título de dueño, siempre que no exista inscripción en el Registro Público del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 61 B.- El procedimiento para la incorporación de un inmueble al patrimonio del estado se substanciará por la Secretaría de Finanzas a través de su Coordinación General de Patrimonio.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 61 C.- En el supuesto del artículo 61 A, la Coordinación General de Patrimonio integrará un expediente que deberá incluir, los antecedentes, certificación o constancia de no inscripción en el Registro Público del Estado de Coahuila de Zaragoza, denominación en caso de que exista, uso, ubicación, superficie, medidas y colindancias, las pruebas que acrediten la posesión, así como el uso o administración por parte de alguna dependencia o entidad de la administración pública estatal, y lo someterá a consideración del titular de la Secretaría de Finanzas para la emisión del Acuerdo de Inicio del Procedimiento de Incorporación de Bienes al Patrimonio del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 61 D.- Integrado el expediente a que se refiere el artículo anterior, y una vez emitido el Acuerdo de Inicio del Procedimiento de Incorporación de Bienes al Patrimonio del Estado, éste se publicará en el Periódico Oficial del Estado y en uno de los periódicos locales de mayor circulación del lugar donde se ubique el bien, tales publicaciones surtirán efectos de notificación. Así mismo, dicho Acuerdo deberá notificarse personalmente, por conducto de la Coordinación General de Patrimonio, a los propietarios o poseedores de los predios colindantes del inmueble, para que todos aquellos que tengan interés jurídico, comparezcan ante esa Coordinación a una audiencia que se llevará a cabo en un plazo que no exceda de diez días hábiles contados a partir de su notificación.
+
+En la audiencia el interesado manifestará lo que a su derecho convenga en relación al procedimiento y deberá ofrecer las pruebas que a su interés corresponda, las cuales deberán desahogarse en la misma audiencia.
+
+Si una vez transcurrido el plazo señalado en el párrafo primero, ninguna persona comparece al procedimiento, compareciendo no se ofrecieren pruebas o cuando se determine que no existe oposición, la Coordinación General de Patrimonio formulará la declaratoria de que el inmueble correspondiente forma parte del patrimonio del Estado.
+
+La declaratoria deberá contener todos los datos relativos al procedimiento instaurado, constituirá el título de propiedad y deberá publicarse en el Periódico Oficial del Estado e inscribirse en el Registro Público del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 61 E.- En caso de que alguna persona manifestara oposición al procedimiento administrativo, dentro del plazo señalado en el artículo anterior, la Secretaría de Finanzas a través de la Coordinación General de Patrimonio, valorará las pruebas desahogadas dentro de los quince días hábiles siguientes y determinará si el opositor acredita su interés jurídico.
+
+En caso afirmativo, la Coordinación General de Patrimonio, se abstendrá de continuar con dicho procedimiento y tomará razón de tal situación, dando por terminado el mismo. Con el expediente respectivo lo hará del conocimiento del titular de la Secretaría de Finanzas, a efecto de que ejercite las acciones necesarias ante los tribunales competentes para obtener el título de propiedad del inmueble a favor del Estado, de conformidad con las disposiciones del Código Procesal Civil para el Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN II. DEL PROCEDIMIENTO DE RECUPERACIÓN ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 61 F.- La recuperación administrativa es la facultad que tiene el Estado de recuperar el uso, control y posesión de los inmuebles de dominio público o privado del Gobierno del Estado sin necesidad de declaración judicial.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 61 G.- La recuperación administrativa procede cuando alguien use o se aproveche de los bienes del dominio público y privado del Gobierno del Estado y no cuente con la concesión, autorización, permiso o licencia de la autoridad correspondiente o éstas se hayan cancelado, extinguido, anulado o revocado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 61 H.- Cuando se tenga conocimiento que un bien propiedad del Gobierno del Estado se encuentra dentro del supuesto señalado en el artículo anterior, la Coordinación General de Patrimonio integrará un expediente con la información correspondiente del bien, al cual deberá adjuntar la documentación que acredite la propiedad del bien a favor del Estado y lo someterá a consideración del titular de la Secretaría de Finanzas para la emisión del acuerdo de Inicio del Procedimiento de Recuperación Administrativa de Bienes del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 61 I.- El procedimiento para la recuperación administrativa se sujetará a las siguientes reglas:
+
+I.- Se notificará personalmente el inicio del procedimiento a la persona que ostente la posesión del bien propiedad del Gobierno del Estado; en caso de que no se logre la localización de los poseedores de los predios, el Acuerdo de Inicio del inicio (sic) del procedimiento deberá publicarse en el Periódico Oficial del Estado así como en uno de los periódicos de mayor circulación del lugar donde se localiza el inmueble, publicaciones que surtirán efectos de notificación, para que en un plazo de cinco días hábiles contados a partir de su notificación, comparezca ante la Coordinación General de Patrimonio, a una audiencia en la que manifieste lo que a su interés convenga y ofrezca las pruebas que estime pertinentes.
+
+En la misma audiencia se desahogarán las pruebas que se hayan admitido.
+
+II.- Una vez valoradas las pruebas desahogadas, si el poseedor no acredita la legítima posesión o propiedad del inmueble, la Secretaría de Finanzas a través de la Coordinación General de Patrimonio dictará la resolución correspondiente y el posesionario deberá hacer la entrega material del bien dentro del plazo de diez días hábiles contados a partir de que le sea notificada la resolución.
+
+III.- En caso de incumplimiento en la entrega material del inmueble por parte del poseedor, dentro del plazo establecido, la autoridad que emita la resolución tendrá la facultad de aplicar las medidas de apremio previstas en el Código Procesal Civil para el Estado de Coahuila de Zaragoza.
+
+IV.- Se podrá reclamar al despojante el pago de los daños y perjuicios que resienta el patrimonio del Gobierno del Estado por el tiempo que estuvo el bien en posesión del particular, cuantificando el menoscabo patrimonial sufrido por el Estado.
+
+El presente procedimiento se substanciará por parte de la autoridad competente, sin perjuicio de la responsabilidad administrativa o de carácter penal que correspondan de acuerdo a la legislación aplicable.
+
 ### CAPITULO VI.
 
 SANCIONES.
@@ -546,6 +638,18 @@ La misma pena se impondrá a quien, a sabiendas de que un bien pertenece al domi
 ###### ARTICULO 64.
 
 En los casos a que se refieren los dos artículos precedentes, sin perjuicio de la intervención de las autoridades a quienes corresponda perseguir y sancionar los delitos cometidos, la autoridad administrativa podrá recuperar, directamente, la tenencia material de los bienes de que se trate.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+###### ARTICULO 65.
+
+Los actos, negocios jurídicos, convenios y contratos que se realicen con violación de lo dispuesto por este capítulo, serán nulos de pleno derecho, sin perjuicio de las responsabilidades de carácter administrativo, civil o penal en que incurran los servidores públicos y notarios públicos que intervengan en estos actos.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
+
+###### ARTICULO 66.
+
+En todo lo no previsto en la presente ley, se aplicará supletoriamente lo señalado en la Ley del Procedimiento Administrativo para el Estado de Coahuila de Zaragoza.
 
 ## TRANSITORIOS.
 
@@ -601,7 +705,7 @@ LIC. OSCAR VILLEGAS RICO.
 
 (Rúbrica).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE ABRIL DE 1977.
 
@@ -615,7 +719,7 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente 
 
 P.O. 20 DE MARZO DE 2001.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -656,3 +760,9 @@ Las facultades y obligaciones a que se refiere este decreto, que en otras leyes,
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
