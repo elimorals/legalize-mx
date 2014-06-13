@@ -4,7 +4,7 @@ identifier: "LFMZAAH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-05-06"
-last_updated: "2012-04-09"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFMZAAH"
 
 LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 6 de mayo de 1972.
 
@@ -78,7 +78,63 @@ Las autoridades de los estados y municipios tendrán, en la aplicación de esta 
 
 Son monumentos arqueológicos, artísticos, históricos y zonas de monumentos los determinados expresamente en esta Ley y los que sean declarados como tales, de oficio o a petición de parte.
 
-El Presidente de la República, o en su caso el Secretario de Educación Pública, expedirá o revocará la declaratoria correspondiente, que será publicada en el "Diario Oficial" de la Federación.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+El Presidente de la República, o en su caso el Secretario de Educación Pública, previo procedimiento establecido en los artículos 5o. Bis y 5o. Ter de la presente Ley, expedirá o revocará la declaratoria correspondiente, que será publicada en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+###### ARTICULO 5o.
+
+BIS.- En los procedimientos de declaratorias que se inicien a petición de parte, la solitud respectiva deberá presentarse ante el Instituto competente y reunir los siguientes requisitos:
+
+a) El nombre, denominación o razón social de quién o quiénes la promuevan y, en su caso, de su representante legal;
+
+b) Domicilio para recibir notificaciones;
+
+c) Nombre de la persona o personas autorizadas para oír y recibir notificaciones;
+
+d) La información necesaria que permita identificar inequívocamente el bien o zona objeto de la petición de declaratoria;
+
+e) Nombre y domicilio de quienes pudieren tener interés jurídico, si los conociere, y
+
+f) Los hechos y razones por las que considera que el bien o zona de que se trate es susceptible de declaratoria.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+###### ARTICULO 5o.
+
+TER.- La expedición de las declaratorias a las que se refiere la presente Ley se sujetará al siguiente procedimiento:
+
+I. Se iniciará de oficio o a petición de parte, de conformidad con el acuerdo que al respecto emita el Presidente de la República o el Secretario de Educación Pública, por conducto del titular del Instituto competente, según corresponda, y será tramitado ante este último.
+
+Tratándose de declaratorias seguidas a petición de parte, el Instituto competente revisará si la solicitud respectiva reúne los requisitos señalados en el artículo que antecede, en cuyo caso se admitirá a trámite. En caso contrario, dentro de un plazo de diez días hábiles siguientes a la presentación de la solicitud, el Instituto competente prevendrá por una sola vez al promovente para que subsane las omisiones dentro del término de cinco días hábiles contados a partir de que haya surtido efectos la notificación. Transcurrido el término sin que la prevención haya sido desahogada, el trámite será desechado.
+
+II. El acuerdo de inicio de procedimiento de declaratorias de monumentos se notificará personalmente a quienes pudieren tener interés jurídico y, en su caso, al promovente con un resumen del acuerdo. Tratándose de declaratorias de zonas de monumentos arqueológicos, artísticos e históricos, el Instituto competente procederá a realizar la notificación mediante publicaciones que contendrán un resumen del acuerdo, el área que abarque la poligonal, precisando sus límites, así como la identificación de los inmuebles incluidos dentro del área que se pretende declarar. Dichas publicaciones deberán efectuarse por tres días consecutivos en el Diario Oficial de la Federación, en uno de los periódicos diarios de mayor circulación en la entidad en la que se localice la zona objeto de la declaratoria y en uno de mayor circulación nacional, dentro de los diez días hábiles siguientes a la emisión de dicho acuerdo.
+
+Tratándose de declaratorias de monumentos artísticos o de zonas de monumentos artísticos, previo a la notificación de inicio de procedimiento, el titular del Instituto Nacional de Bellas Artes y Literatura enviará el expediente del proyecto de declaratoria a la Comisión Nacional de Zonas y Monumentos Artísticos, para los efectos procedentes. En caso de que dicha Comisión Nacional emita opinión favorable respecto de la expedición de la declaratoria, el titular de dicho Instituto procederá en los términos establecidos en esta fracción. En caso contrario, el procedimiento se dará por concluido debiéndose emitir el acuerdo correspondiente por la autoridad que le dio inicio, por conducto del titular del Instituto competente. Si se tratara de una declaratoria seguida a petición de parte, el Instituto notificará la resolución al promovente dentro de un plazo de diez días hábiles contados a partir de la fecha en que ésta se emita, concluyendo así el procedimiento.
+
+III. Los interesados tendrán un término de quince días hábiles a partir de la notificación o de la última de las publicaciones a que se refiere la fracción anterior, para manifestar ante el Instituto competente lo que a su derecho convenga y presentar las pruebas y alegatos que estimen pertinentes.
+
+IV. Manifestado por los interesados lo que a su derecho convenga y presentadas las pruebas y alegatos o transcurrido el término para ello, el titular del Instituto competente enviará al Secretario de Educación Pública el expediente respectivo, junto con su opinión sobre la procedencia de la declaratoria, dentro de en un plazo de treinta días hábiles.
+
+V. Recibido el expediente por el Secretario de Educación Pública, si se tratara de una declaratoria que le corresponda expedir, tendrá un plazo de ciento veinte días hábiles para hacerlo o para emitir resolución en contrario, por conducto del titular del Instituto competente, la cual será notificada a los interesados dentro de un plazo de diez días hábiles contados a partir de la fecha de su emisión.
+
+Si se tratara de una declaratoria que corresponda expedir al Presidente de la República, el Secretario de Educación Pública enviará a aquél el expediente dentro de un plazo de noventa días hábiles. El Presidente de la República expedirá la declaratoria o emitirá resolución en contrario por conducto del titular del Instituto competente, dentro de un plazo de ciento veinte días hábiles. Dicha resolución será notificada a los interesados dentro de un plazo de diez días hábiles contados a partir de la fecha de su emisión.
+
+VI. Las resoluciones a que se refiere la fracción anterior únicamente podrán ser impugnadas en términos de lo dispuesto por el artículo 83 de la Ley Federal de Procedimiento Administrativo.
+
+VII. Durante la tramitación del procedimiento, el Presidente de la República o el Secretario de Educación Pública, según corresponda, por conducto del titular del Instituto competente, podrá dictar las medidas precautorias para preservar y conservar el bien de que se trate, en términos de esta Ley, la Ley Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles.
+
+El presente procedimiento no será aplicable en el caso previsto en el artículo 34 Bis de esta Ley.
+
+Para lo no previsto en la presente Ley se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+###### ARTICULO 5o.
+
+QUÁTER.- En los demás actos de autoridad a que se refiere la presente ley, diferentes a los señalados en el artículo anterior, la garantía de audiencia se otorgará conforme a lo establecido en la Ley Federal de Procedimiento Administrativo.
 
 ###### ARTICULO 6o.
 
@@ -186,7 +242,9 @@ Se crea el Registro Público de Monumentos y Zonas Arqueológicos e Históricos,
 
 Los Institutos respectivos harán el registro de los monumentos pertenecientes a la Federación, Estados y Municipios y los organismos descentralizados, empresas de participación estatal y las personas físicas o morales privadas, deberán inscribir ante el Registro que corresponda, los monumentos de su propiedad.
 
-La declaratoria de que un bien inmueble es monumento, deberá inscribirse, además, en el Registro Público de la Propiedad de su jurisdicción.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+La declaratoria de que un bien inmueble es monumento, deberá inscribirse, además, en el Registro Público de la Propiedad de su jurisdicción, en un plazo de quince días contados a partir de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO 23.
 
@@ -221,6 +279,14 @@ Son monumentos arqueológicos los bienes muebles e inmuebles, producto de cultur
 > <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ARTICULO 28 BIS.- Para los efectos de esta Ley y de su Reglamento, las disposiciones sobre monumentos y zonas arqueológicos serán aplicables a los vestigios o restos fósiles de seres orgánicos que habitaron el territorio nacional en épocas pretéritas y cuya investigación, conservación, restauración, recuperación o utilización revistan interés paleontológico, circunstancia que deberá consignarse en la respectiva declaratoria que expedirá el Presidente de la República.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 28 TER.- Las disposiciones sobre preservación e investigación en materia de monumentos y zonas de monumentos arqueológicos e históricos serán aplicables a los rastros de existencia humana que tengan un carácter cultural, histórico o arqueológico, localizados en la zona marina de los Estados Unidos Mexicanos, que hayan estado bajo el agua parcial o totalmente, de forma periódica o continua, tales como: los sitios, estructuras, edificios, objetos y restos humanos, junto con su contexto arqueológico y natural; los buques, aeronaves, otros medios de transporte o cualquier parte de ellos. Su cargamento u otro contenido, junto con su contexto arqueológico y natural; y los objetos de carácter prehistórico.
+
+Quedan exceptuados del párrafo anterior los buques y aeronaves de Estados extranjeros, cualquier parte de ellos, su cargamento u otro contenido, que gocen de inmunidad soberana conforme a derecho internacional.
+
+Las autorizaciones para realizar investigación y exploración de los bienes a que se refiere el primer párrafo, se sujetarán a lo establecido en el artículo 30 de esta Ley.
 
 ###### ARTICULO 29.
 
@@ -262,7 +328,9 @@ La obra mural de valor estético relevante será conservada y restaurada por el 
 
 Se crea la Comisión Nacional de Zonas y Monumentos Artísticos, la que tendrá por objeto dar su opinión a la autoridad competente sobre la expedición de declaratorias de monumentos artísticos y de zonas de monumentos artísticos.
 
-La opinión de la Comisión será necesaria para la validez de las declaratorias.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+La opinión de la comisión será necesaria para la emisión de las declaratorias.
 
 La Comisión se integrará por:
 
@@ -282,13 +350,13 @@ La Comisión sólo podrá funcionar cuando esté presente el Director General de
 
 > <small>(ADICIONADO, D.O.F. 26 DE NOVIEMBRE DE 1984)</small>
 
-###### ARTICULO 34 Bis.
-
-Cuando exista el riesgo de que se realicen actos de efectos irreparables sobre bienes muebles o inmuebles con valor estético relevante, conforme al artículo 33 de esta Ley, la Secretaría de Educación Pública, por conducto del Instituto Nacional de Bellas Artes y Literatura, sin necesidad de la opinión a que se refiere el artículo 34 podrá dictar una declaratoria provisional de monumento artístico o de zona de monumentos artísticos, debidamente fundada y motivada de acuerdo con la misma Ley, que tendrá efectos por un plazo de 90 días naturales a partir de la notificación de que esa declaratoria se haga a quien corresponda, en la que se mandará suspender el acto y ejecutar las medidas de preservación que resulten del caso.
+ARTICULO 34 BIS.- Cuando exista el riesgo de que se realicen actos de efectos irreparables sobre bienes muebles o inmuebles con valor estético relevante, conforme al artículo 33 de esta Ley, la Secretaría de Educación Pública, por conducto del Instituto Nacional de Bellas Artes y Literatura, sin necesidad de la opinión a que se refiere el artículo 34 podrá dictar una declaratoria provisional de monumento artístico o de zona de monumentos artísticos, debidamente fundada y motivada de acuerdo con la misma Ley, que tendrá efectos por un plazo de 90 días naturales a partir de la notificación de que esa declaratoria se haga a quien corresponda, en la que se mandará suspender el acto y ejecutar las medidas de preservación que resulten del caso.
 
 Los interesados podrán presentar ante el Instituto Nacional de Bellas Artes y Literatura objeciones fundadas, dentro del término de 15 días contados a partir de la notificación de la declaratoria, que se harán del conocimiento de la Comisión de Zonas y Monumentos Artísticos y de la Secretaría de Educación Pública para que ésta resuelva.
 
-Dentro del plazo de noventa días que se prevé en este artículo, se expedirá y publicará, en su caso, en el Diario Oficial de la Federación, la declaratoria definitiva de monumento o de zona de monumentos artísticos. En caso contrario, la suspensión quedará automáticamente sin efecto.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Dentro del plazo de noventa días que se prevé en este artículo, se dictará, en su caso, un acuerdo de inicio de Procedimiento y se seguirá lo previsto en el artículo 5o. Ter de la presente Ley. En caso contrario, la suspensión quedará automáticamente sin efectos.
 
 ###### ARTICULO 35.
 
@@ -360,67 +428,81 @@ Para los efectos de competencia, el carácter arqueológico de un bien tiene pri
 
 De las Sanciones.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 47.
 
-Al que realice trabajos materiales de exploración arqueológica, por excavación, remoción o por cualquier otro medio, en monumentos arqueológicos inmuebles, o en zonas de monumentos arqueológicos, sin la autorización del Instituto Nacional de Antropología e Historia, se le impondrá prisión de uno a diez años y multa de cien a diez mil pesos.
+Al que realice trabajos materiales de exploración arqueológica, por excavación, remoción o por cualquier otro medio, en monumentos arqueológicos inmuebles, o en zonas de monumentos arqueológicos, sin la autorización del Instituto Nacional de Antropología e Historia, se le impondrá prisión de tres a diez años y de mil a tres mil días multa.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+Al que ordene, induzca, dirija, organice o financie las conductas descritas en el presente artículo, se les incrementará hasta por una mitad las penas antes señaladas.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 48.
 
-Al que valiéndose del cargo o comisión del Instituto Nacional de Antropología e Historia o de la autorización otorgada por éste para la ejecución de trabajos arqueológicos, disponga para sí o para otro de un monumento arqueológico mueble, se le impondrá prisión de uno a diez años y multa de tres mil a quince mil pesos.
+Al que valiéndose del cargo o comisión del Instituto Nacional de Antropología e Historia o de la autorización otorgada por éste para la ejecución de trabajos arqueológicos, disponga para sí o para otro de un monumento arqueológico mueble, se le impondrá prisión de tres a diez años y de dos mil a cinco mil días multa.
 
-Si los delitos previstos en esta Ley, los cometen funcionarios encargados de la aplicación de la misma, las sanciones relativas se les aplicarán independientemente de las que les correspondan conforme a la Ley de Responsabilidades de Funcionarios y Empleados Públicos.
+Si los delitos previstos en esta Ley los cometen funcionarios encargados de la aplicación de la misma, las sanciones relativas se les aplicarán independientemente de las que les correspondan conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 49.
 
-Al que efectúe cualquier acto traslativo de dominio de un monumento arqueológico mueble o comercie con él y al que lo transporte, exhiba o reproduzca sin el permiso y la inscripción correspondiente, se le impondrá prisión de uno a diez años y multa de mil a quince mil pesos.
+Al que efectúe cualquier acto traslativo de dominio de un monumento arqueológico mueble o comercie con él y al que lo transporte, exhiba o reproduzca sin el permiso y la inscripción correspondiente, se le impondrá prisión de tres a diez años y de dos mil a tres mil días multa.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+Al que ordene, induzca, dirija, organice o financie los actos descritos en este artículo, se le incrementará hasta por una mitad las penas antes señaladas.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 50.
 
-Al que ilegalmente tenga en su poder un monumento arqueológico o un monumento histórico mueble y que éste se haya encontrado en o que proceda de un inmueble a los que se refiere la fracción I del artículo 36, se le impondrá prisión de uno a seis años y multa de cien a cincuenta mil pesos.
+Al que ilegalmente tenga en su poder un monumento arqueológico o un monumento histórico mueble y que éste se haya encontrado en o que proceda de un inmueble a los que se refiere la fracción I del artículo 36, se le impondrá prisión de tres a nueve años y de dos mil a tres mil días multa.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 51.
 
-Al que se apodere de un monumento mueble arqueológico, histórico o artístico sin consentimiento de quien puede disponer de él con arreglo a la Ley, se le impondrá prisión de dos a diez años y multa de tres mil a quince mil pesos.
+Al que se apodere de un monumento mueble arqueológico, histórico o artístico sin consentimiento de quien puede disponer de él con arreglo a la Ley, se le impondrá prisión de tres a diez años y de dos mil a tres mil días multa.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 52.
 
-Al que por medio de incendio, inundación o explosión dañe o destruya un monumento arqueológico, artístico o histórico, se le impondrá prisión de dos a diez años y multa hasta por el valor del daño causado.
+Al que por cualquier medio dañe, altere o destruya un monumento arqueológico, artístico o histórico, se le impondrá prisión de tres a diez años y multa hasta por el valor del daño causado.
 
-Al que por cualquier otro medio dañe o destruya un monumento arqueológico, artístico o histórico, se le impondrá prisión de uno a diez años y multa hasta por el valor del daño causado.
+Cuando el daño no sea intencional, se estará a lo dispuesto en el capítulo de aplicación de sanciones a los delitos culposos del Código Penal Federal.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 53.
 
-Al que por cualquier medio pretenda sacar o saque del país un monumento arqueológico, artístico o histórico, sin permiso del Instituto competente, se le impondrá prisión de dos a doce años y multa de cien a cincuenta mil pesos.
+Al que por cualquier medio pretenda sacar o saque del país un monumento arqueológico, artístico o histórico, sin permiso del Instituto competente, se le impondrá prisión de cinco a doce años y de tres mil a cinco mil días multa.
+
+Al que ordene, induzca, dirija, organice o financie las conductas descritas en el párrafo anterior, se les incrementará hasta por una mitad las penas antes señaladas.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+ARTICULO 53 BIS.- Al que introduzca al territorio nacional, saque del país o transfiera la propiedad de bienes culturales, infringiendo las disposiciones legales adoptadas en el país de origen de los mismos, se le impondrá prisión de tres a doce años y multa de dos mil a cuatro mil días de salario mínimo general vigente en el Distrito Federal.
+
+Los bienes de que se trate serán incautados y quedarán a disposición de las autoridades del país de origen.
 
 ###### ARTICULO 54.
 
 A los reincidentes en los delitos tipificados en esta Ley, se les aumentará la sanción desde dos tercios hasta otro tanto de la duración de la pena. La sanción para quienes resulten delincuentes habituales se aumentará de uno a dos tantos de la que corresponda al delito mayor.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-Para resolver sobre reincidencia y habitualidad se estará a los principios del Código Penal para el Distrito Federal, aplicable en toda la República en materia federal.
+Para resolver sobre reincidencia, habitualidad y determinación de multas, se estará a lo dispuesto en el Código Penal Federal.
 
 Los traficantes de monumentos arqueológicos serán considerados delincuentes habituales para los efectos de esta Ley.
 
 La graduación de las sanciones a que esta Ley se refiere se hará tomando en cuenta la educación, las costumbres y la conducta del sujeto, sus condiciones económicas y los motivos y circunstancias que lo impulsaron a delinquir.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 55.
 
-Cualquier infracción a esta Ley o a su Reglamento, que no esté prevista en este capítulo, será sancionada por los Institutos competentes, con multa de cien a cincuenta mil pesos, la que podrá ser impugnada mediante el recurso de reconsideración, en los términos del Reglamento de esta Ley.
+Cualquier infracción a esta Ley o a su Reglamento, que no esté prevista en este capítulo, será sancionada por los Institutos competentes, con multa de doscientos a mil días de salario mínimo general vigente para el Distrito Federal, la que podrá ser impugnada mediante el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo.
 
 ## TRANSITORIOS
 
@@ -469,3 +551,23 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 28 TER A LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JUNIO DE 2014
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 5o., SEGUNDO PÁRRAFO; 22, SEGUNDO PÁRRAFO; 34, SEGUNDO PÁRRAFO Y 34 BIS, TERCER PÁRRAFO, Y SE ADICIONAN LOS ARTÍCULOS 5o. BIS; 5o. TER Y 5o. QUÁTER DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Federal publicará las reformas conducentes al reglamento correspondiente.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 47, 48, 49, 50, 51, 52, 53, 54, SEGUNDO PÁRRAFO Y 55, SE ADICIONA EL ARTÍCULO 53 BIS DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
