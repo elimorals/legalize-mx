@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2013-12-30"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE DICIEMBRE DE 2013.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -1711,31 +1711,11 @@ fines no residenciales $826.61 $825
 
 XI.- Por la presentación extemporánea de los siguientes avisos:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a).- (DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
-a).- De uso del permiso para
+b).- (DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
-la constitución de sociedades
-
-o asociaciones y de cambio
-
-de denominación o razón
-
-social $1,638.32 $1,640
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b).- De liquidación, fusión o
-
-escisión de sociedades $1,638.32 $1,640
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c).- De modificación de la
-
-cláusula de exclusión por la
-
-de admisión de extranjeros $1,368.32 $1,640
+c).- (DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
@@ -28658,3 +28638,11 @@ Segundo. A la entrada en vigor del presente Decreto quedarán abrogadas la Ley d
 D.O.F. 30 DE DICIEMBRE DE 2013.
 
 LA RESOLUCIÓN DE ACTUALIZACIONES A LA MISCELÁNEA FISCAL PARA 2013 CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
