@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2014-05-20"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -1240,15 +1240,19 @@ XXVIII.- Fomentar el aprovechamiento de los recursos minerales y llevar el catas
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-XXIX.- Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y asignaciones en materia minera, en los términos de la legislación correspondiente, y
+XXIX.- Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y asignaciones en materia minera, en los términos de la legislación correspondiente, y (sic)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 10 DE JUNIO DE 2005)</small>
 
-XXX. Impulsar la reubicación de la industria de zonas urbanas con graves problemas demográficos y ambientales, en coordinación con las Entidades Federativas, para que se facilite su traslado con infraestructura industrial, y
+XXX. Impulsar la reubicación de la industria de zonas urbanas con graves problemas demográficos y ambientales, en coordinación con las Entidades Federativas, para que se facilite su traslado con infraestructura industrial, y (sic)
+
+> <small>(ADICIONADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+XXXI.- Determinar y operar el sistema electrónico en el que deberán realizarse las publicaciones que establezcan las leyes mercantiles;
 
 > <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 2005)</small>
 
-XXXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXXII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -2407,3 +2411,11 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
 
 Tercero.- Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+
+Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
