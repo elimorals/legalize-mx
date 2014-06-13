@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2014-03-14"
+last_updated: "2014-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO, UNA VEZ QUE ENTRE EN VIGOR A NIVEL FEDERAL GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE AL EFECTO EMITA EL CONGRESO DE LA UNIÓN PREVIA SOLICITUD CONJUNTA DEL PODER JUDICIAL DE LA FEDERACIÓN, LA SECRETARÍA DE GOBERNACIÓN Y DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA, SIN QUE PUEDA EXCEDER DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2669,13 +2669,15 @@ Se entenderá que el inculpado queda a disposición del juzgador, para los efect
 
 Las personas que se encuentren internadas en centros de reclusión de alta seguridad, podrán ser trasladadas a otro centro, hospital, oficina o cualquier lugar, notificándolo al Ministerio Público Federal y a su defensor.
 
-(REFORMADO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-###### ARTICULO 198.
+###### Artículo 198.
 
-Los miembros de la policía o de las Fuerzas Armadas Mexicanas, que estuvieren detenidos o sujetos a prisión preventiva deberán sufrir ésta en las prisiones especiales, si existieren, o en su defecto en las comunes. Lo anterior no será aplicable para los miembros de las Fuerzas Armadas Mexicanas que se encuentren en dicha situación por estárseles siguiendo un proceso penal por la comisión de un delito en contra de la salud, en cualesquiera de sus modalidades.
+Los miembros de la policía, que estuvieren detenidos o sujetos a prisión preventiva deberán cumplir ésta en las prisiones especiales, si existieren, o en su defecto en las comunes.
 
 No podrán considerarse prisiones especiales los cuarteles u oficinas.
+
+Tratándose de los miembros de las Fuerzas Armadas se estará a lo dispuesto en el Código de Justicia Militar, salvo en los casos de delitos contra la salud, en cualquiera de sus modalidades, en los que no podrán estar detenidos o sujetos a prisión preventiva los militares en prisiones especiales.
 
 ###### ARTICULO 199.
 
@@ -5910,3 +5912,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado Código Penal Federal.
 
 TERCERO. A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el Código Federal de Procedimientos Penales, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las disposiciones relativas a los Jueces de Ejecución de Sentencias entrarán en vigor seis meses después de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Tercero.- Los procedimientos penales relacionados con presuntos delitos contra la disciplina militar que hayan sido iniciados antes de la entrada en vigor del presente Decreto, serán tramitados y concluidos conforme a las disposiciones aplicables al momento de la comisión de los hechos probablemente delictivos. En tales casos, lo mismo se observará respecto de la ejecución de las sentencias emitidas con anterioridad a la entrada en vigor de este Decreto.
+
+Cuarto.- Las averiguaciones previas y las causas penales que hayan sido iniciadas antes de la entrada en vigor del presente Decreto por la presunta comisión de delitos que no atenten contra la disciplina militar, serán remitidas a las autoridades civiles competentes dentro de los 30 días posteriores a la entrada en vigor de este Decreto.
+
+Quinto.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
