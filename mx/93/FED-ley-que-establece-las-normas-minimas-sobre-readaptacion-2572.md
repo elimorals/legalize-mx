@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-las-normas-minimas-sobre-readaptacion-2572"
 country: "mx"
 rank: "ley"
 publication_date: "1971-05-19"
-last_updated: "2012-04-17"
+last_updated: "2014-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-02-08"
 
 LEY QUE ESTABLECE LAS NORMAS MÍNIMAS SOBRE READAPTACIÓN SOCIAL DE SENTENCIADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 19 de mayo de 1971.
 
@@ -72,6 +72,10 @@ Las hijas e hijos de internas que permanezcan con ellas dispondrán de los espac
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 En los convenios a que se refiere este artículo podrá acordarse que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+Tratándose de los miembros de las Fuerzas Armadas se estará a lo dispuesto en el Código de Justicia Militar.
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
@@ -418,3 +422,15 @@ D.O.F. 19 DE ENERO DE 2012.
 D.O.F. 17 DE ABRIL DE 2012.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JUNIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las disposiciones relativas a los Jueces de Ejecución de Sentencias entrarán en vigor seis meses después de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Tercero.- Los procedimientos penales relacionados con presuntos delitos contra la disciplina militar que hayan sido iniciados antes de la entrada en vigor del presente Decreto, serán tramitados y concluidos conforme a las disposiciones aplicables al momento de la comisión de los hechos probablemente delictivos. En tales casos, lo mismo se observará respecto de la ejecución de las sentencias emitidas con anterioridad a la entrada en vigor de este Decreto.
+
+Cuarto.- Las averiguaciones previas y las causas penales que hayan sido iniciadas antes de la entrada en vigor del presente Decreto por la presunta comisión de delitos que no atenten contra la disciplina militar, serán remitidas a las autoridades civiles competentes dentro de los 30 días posteriores a la entrada en vigor de este Decreto.
+
+Quinto.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
