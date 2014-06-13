@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-contraloria-y-transparencia-73744"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2013-10-30"
+last_updated: "2014-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2014.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -65,17 +65,15 @@ I. Dirección Jurídica;
 
 II. Dirección Administrativa;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
-
-III. Dirección de Calidad y Modernización Gubernamental;
+III. (DEROGADA, P.O. 13 DE JUNIO DE 2014)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
 
 IV. Dirección de Órganos de Control Interno y Vigilancia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
 
-V. Dirección de Transparencia Gubernamental;
+V. Dirección de Transparencia Gubernamental y Calidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -265,7 +263,9 @@ XIX. Tramitar y resolver las solicitudes, requerimientos y recomendaciones de lo
 
 XX. Designar a los servidores públicos adscritos a esta unidad administrativa, para efectuar las notificaciones que procedan conforme a las leyes aplicables;
 
-XXI. Apoyar y coadyuvar jurídicamente con la Dirección de Auditoría de Obra Pública, Dirección de Auditoría Gubernamental, Dirección de Auditoría Paraestatal, Dirección de Auditoría en Salud y la Dirección de Auditoría en Educación, en la vigilancia, inspección y control en materia de obra pública y servicios relacionados con las mismas, adquisiciones, arrendamientos y demás servicios, que se deriven de los acuerdos y convenios celebrados entre la Federación y el Estado, y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+XXI. Apoyar y coadyuvar jurídicamente con la Dirección de Control y Auditoría de Obra Pública, la Dirección de Control y Auditoría del Sector Central, y la Dirección de Control y Auditoría del Sector Paraestatal, en la vigilancia, inspección y control en materia de obra pública y servicios relacionados con las mismas, adquisiciones, arrendamientos y demás servicios, que se deriven de los acuerdos y convenios celebrados entre la Federación y el Estado, y
 
 XXII. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
 
@@ -285,7 +285,9 @@ V. Gestionar ante las dependencias correspondientes, las transferencias, recalen
 
 VI. Informar a los titulares de las unidades administrativas de la Contraloría y Transparencia Gubernamental, sobre el estado que guarda su presupuesto, así como de los trámites de sus requerimientos solicitados;
 
-VII. Establecer en coordinación con la Dirección de Calidad y Modernización Gubernamental, el Programa de Capacitación, promoviendo el desarrollo profesional del personal adscrito a la Contraloría y Transparencia Gubernamental;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+VII. Establecer en coordinación con la Dirección de Transparencia Gubernamental y Calidad, el Programa de Capacitación, promoviendo el desarrollo profesional del personal adscrito a la Contraloría y Transparencia Gubernamental;
 
 VIII. Establecer y coordinar sistemas de evaluación de desempeño del personal de la Contraloría y Transparencia Gubernamental;
 
@@ -309,95 +311,45 @@ XVII. Coordinar y supervisar el cumplimiento de los procesos de entrega-recepci�
 
 XVIII. Implementar y coordinar programas de capacitación para promover el desarrollo profesional del personal adscrito a la Contraloría y Transparencia Gubernamental;
 
-XIX. Apoyar y coadyuvar administrativamente con la Dirección de Auditoría de Obra Pública, en la vigilancia, inspección y control en materia de obra pública y servicios relacionados con las mismas, adquisiciones, arrendamientos y demás servicios, que se deriven de los acuerdos y convenios celebrados entre la Federación y el Estado;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
 
-XX. Autorizar, coordinar y verificar el cumplimiento del servicio social de los estudiantes asignados, y
+XIX. Apoyar y coadyuvar administrativamente con la Dirección de Control y Auditoría de Obra Pública, en la vigilancia, inspección y control en materia de obra pública y servicios relacionados con las mismas, adquisiciones, arrendamientos y demás servicios, que se deriven de los acuerdos y convenios celebrados entre la Federación y el Estado;
 
-XXI. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+XX.- Autorizar, coordinar y verificar el cumplimiento del servicio social de los estudiantes asignados;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+XXI. Elaborar los Manuales de Organización y Servicios, y de Procedimientos de las unidades administrativas de la Contraloría y Transparencia Gubernamental, así como su actualización y rediseño, a fin de optimizar los resultados de los mismos y someterlos a la aprobación del Contralor General;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+XXII. Proponer las políticas y lineamientos para proteger los recursos de tecnología de información y telecomunicaciones de la Contraloría y Transparencia Gubernamental, así como efectuar revisiones, verificaciones y evaluaciones internas respecto a su uso y aprovechamiento adecuado;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+XXIII. Proponer, ejecutar y dar seguimiento a estrategias, sistemas, acciones y procedimientos en materia de tecnología de información, seguridad informática y telecomunicaciones, en coordinación con las unidades administrativas de la Contraloría y Transparencia Gubernamental, que promuevan el incremento permanente de la productividad y eficiencia;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+XXIV. Administrar los recursos de tecnología de información y telecomunicaciones dedicada a apoyar las funciones de la Contraloría y Transparencia Gubernamental;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+XXV. Integrar un sistema de control de gestión en la Contraloría y Transparencia Gubernamental, para el seguimiento y evaluación de sus programas y proyectos;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+XXVI. Apoyar y coadyuvar, en lo relacionado con sistemas de tecnología e información y comunicación, con la Dirección de Control y Auditoría de Obra Pública, para facilitar la vigilancia, inspección y control en materia de obra pública y servicios relacionados con las mismas, adquisiciones, arrendamientos y demás servicios, que se deriven de los acuerdos y convenios celebrados entre la Federación y el Estado, y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2014)</small>
+
+XXVII. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
 
 ###### Artículo 12.
 
-El Director de Calidad y Modernización Gubernamental tendrá las siguientes facultades:
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-I. Proponer al Contralor General y en su caso, planear, implementar y establecer las acciones, políticas, planes, programas, lineamientos y criterios que sean necesarios para modernizar los sistemas de control y seguimiento de procesos de verificación y auditoría, de legalidad y transparencia, para fortalecer a las dependencias y entidades de la Administración Pública Estatal, en la rendición de cuentas;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-II. Proponer acciones, políticas, lineamientos y criterios para que las dependencias y entidades de la Administración Pública Estatal, presten los servicios públicos conforme a los principios de legalidad, eficiencia, honradez, transparencia, calidad e imparcialidad en beneficio de la comunidad;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-III. Promover e implementar acciones y programas para la difusión del Código de Ética de los Servidores Públicos, en las dependencias y entidades de la Administración Pública Estatal, y fomentar la cultura de la transparencia y la calidad en el servicio público;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-IV. Desarrollar programas y acciones hacia el interior de las dependencias y entidades de la Administración Pública Estatal, para implementar un sistema homogéneo de calidad y eficiente, en beneficio de la ciudadanía, así como promover acciones para establecer una agenda de coordinación y colaboración de esfuerzos entre las dependencias y entidades de la Administración Pública Estatal, para la consecución de un gobierno con servicios de calidad y transparentes;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-V. Establecer los mecanismos de operación y coordinación para la atención de manera conjunta con las dependencias y entidades de la Administración Pública Estatal y con las unidades administrativas de la Contraloría y Transparencia Gubernamental, respecto a las peticiones, quejas, denuncias, sugerencias y recomendaciones de los ciudadanos, así como darles el seguimiento correspondiente;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-VI. Realizar encuestas de opinión entre la ciudadanía y al interior de las dependencias y entidades de la Administración Pública Estatal, para evaluar que los servicios públicos que se prestan, sean conforme a los principios de legalidad, eficiencia, honradez, transparencia, calidad e imparcialidad;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-VII. Planear y desarrollar objetivos y metas tendientes a la modernización administrativa, en coordinación con las dependencias y entidades de la Administración Pública Estatal y con las unidades administrativas de la Contraloría y Transparencia Gubernamental, para elevar la calidad de los servicios públicos que se prestan;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-VIII. Impulsar los proyectos de gobierno digital, para incrementar la transparencia en las funciones públicas y facilitar las relaciones con los ciudadanos;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-IX. Proponer las políticas y procedimientos para el registro, control, seguimiento, consolidación e intercambio de información por medios electrónicos entre la Contraloría y Transparencia Gubernamental y otras dependencias y entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-X. Realizar estudios y evaluaciones de innovaciones técnicas en materia de control, con el propósito de optimizar y propiciar su modernización en las dependencias y entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XI. Participar en la instrumentación de sistemas e indicadores relacionados con las dependencias y entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XII. Elaborar los Manuales de Organización y Servicios, y de Procedimientos de las unidades administrativas de la Contraloría y Transparencia Gubernamental, así como su actualización y rediseño, a fin de optimizar los resultados de los mismos y someterlos a la aprobación del Contralor General;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XIII. Desarrollar en coordinación con las unidades administrativas de la Contraloría y Transparencia Gubernamental, normas, políticas y procedimientos para instrumentar la Auditoría Informática y Transparencia Gubernamental;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XIV. Proponer las políticas y lineamientos para proteger los recursos de tecnología de información y telecomunicaciones de la Contraloría y Transparencia Gubernamental, así como efectuar revisiones, verificaciones y evaluaciones internas respecto a su uso y aprovechamiento adecuado;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XV. Proponer, ejecutar y dar seguimiento a estrategias, sistemas, acciones y procedimientos en materia de tecnología de información, seguridad informática y telecomunicaciones, en coordinación con las unidades administrativas de la Contraloría y Transparencia Gubernamental, que promuevan el incremento permanente de la productividad y eficiencia;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XVI. Administrar los recursos de tecnología de información y telecomunicaciones dedicada a apoyar las funciones de la Contraloría y Transparencia Gubernamental;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XVII. Integrar un sistema de control de gestión en la Contraloría y Transparencia Gubernamental, para el seguimiento y evaluación de sus programas y proyectos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XVIII. Apoyar y coadyuvar, en lo relacionado con sistemas de tecnología e información y comunicación, con la Dirección de Control y Auditoría de Obra Pública, para facilitar la vigilancia, inspección y control en materia de obra pública y servicios relacionados con las mismas, adquisiciones, arrendamientos y demás servicios, que se deriven de los acuerdos y convenios celebrados entre la Federación y el Estado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XIX. Asesorar en el área de su competencia a las dependencias y entidades de la Administración Pública Estatal en el desarrollo de proyectos específicos, cuando así lo soliciten, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2013)</small>
-
-XX. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
+(DEROGADO, P.O. 13 DE JUNIO DE 2014)
 
 ###### Artículo 13.
 
@@ -425,37 +377,41 @@ VII. Formular con base en los resultados de las auditorías y evaluaciones efect
 
 VIII. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2014)</small>
+
 ###### Artículo 15.
 
-El Director de Transparencia Gubernamental, tendrá las siguientes facultades:
+El Director de Transparencia Gubernamental y Calidad, tendrá las siguientes facultades:
 
-I. Proponer al Contralor General, las acciones, políticas, planes, programas, lineamientos y criterios que sean necesarios, para que toda persona pueda tener acceso a la información pública en las dependencias y entidades de la Administración Pública Estatal, conforme a los procedimientos regulados en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
+I. Proponer las acciones, programas, lineamientos y criterios que sean necesarios, para que se cumpla con la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, y conforme a los procedimientos regulados en la misma toda persona pueda tener acceso a la información que obra en las dependencias y entidades de la Administración Pública Estatal;
 
-II. Coordinar, supervisar, asesorar y orientar a los Enlaces de Transparencia y de Información, que sean designados por las dependencias y entidades de la Administración Pública Estatal, conforme a los procedimientos regulados en la Ley de la materia;
+II. Proponer acciones para fomentar la cultura de la calidad en el servicio público, para que se preste por las dependencias y entidades de la Administración Pública Estatal conforme a los principios de calidad, legalidad, eficiencia, honradez, transparencia e imparcialidad en beneficio de la comunidad, así como para modernizar los procesos de verificación y auditoría que permitan fortalecer los programas de prevención y rendición de cuentas;
 
-III. Realizar congresos, cursos, talleres, seminarios y demás eventos orientados a la capacitación y especialización de los servidores públicos responsables de las unidades de Enlace de Transparencia e Información;
+III. Promover acciones y programas para la interiorización y difusión del Código de Ética de los Servidores Públicos, en las dependencias y entidades de la Administración Pública Estatal;
 
-IV. Llevar el padrón actualizado de los Enlaces de Transparencia y de Información que se hayan designado;
+IV. Promover acciones para fomentar un gobierno transparente y de calidad, tendiente a la modernización administrativa, así como implementar medidas para la mejora continua de la calidad, evaluando, mediante encuestas de opinión, que los servicios públicos se presten conforme a los principios de legalidad, eficiencia, honradez, transparencia, calidad e imparcialidad;
 
-V. Verificar que las dependencias, entidades y tribunales administrativos de la Administración Pública Estatal, cumplan con la Ley de Transparencia y Acceso a la Información, para garantizar que toda persona pueda tener acceso a la misma;
+V. Coordinar, supervisar, asesorar y orientar a los Enlaces de Transparencia, de Información y de Calidad, que sean designados por las dependencias, entidades y tribunales administrativos de la Administración Pública Estatal, conforme a la Ley de la materia, y llevar el padrón actualizado de los mismos;
 
-VI. Verificar, supervisar y dar seguimiento en el cumplimiento de la difusión de la información pública de oficio, así como la atención de las solicitudes de acceso a la información y de datos personales, por parte de las dependencias y entidades de la Administración Pública Estatal, incluyendo a la Contraloría y Transparencia Gubernamental;
+VI. Establecer las acciones necesarias y los mecanismos de operación y coordinación para atender de manera conjunta con las dependencias y entidades de la Administración Pública Estatal y unidades administrativas de la Contraloría y Transparencia Gubernamental, las peticiones, quejas, denuncias, sugerencias y recomendaciones de los ciudadanos, así como darles el seguimiento correspondiente;
 
-VII. Mantener, supervisar y actualizar los sistemas electrónicos autorizados y habilitados para la Administración Pública Estatal, para el cumplimiento de los procedimientos regulados en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
+VII. Realizar acciones orientadas a la capacitación y especialización de los servidores públicos responsables de las unidades de Enlace de Transparencia, de Información y de Calidad en la Administración Pública del Estado.
 
-VIII. Desarrollar e implementar lineamientos, programas y acciones en materia de clasificación, seguridad y conservación de documentos administrativos, así como la organización de archivos, de las dependencias y entidades de la Administración Pública Estatal, que tiendan a hacer más eficiente el trámite de los procedimientos regulados por la Ley de la materia;
+VIII. Garantizar que toda persona pueda tener acceso a la información, verificando que las dependencias, entidades y tribunales administrativos de la Administración Pública Estatal cumplan con la Ley de Transparencia y Acceso a la Información, difundan la información pública de oficio, atiendan las solicitudes de acceso a la información y den un trato adecuado a los datos personales;
 
-IX. Implementar la aplicación de indicadores de gestión para evaluar el grado de cumplimiento de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por parte de los sujetos obligados, así como de los Enlaces de Información y Transparencia;
+IX. Proponer, en conjunto con la Secretaría de Finanzas y Tesorería General del Estado, políticas en materia de gobierno digital y para el intercambio de información por medios electrónicos, así como supervisar y gestionar la actualización de los sistemas electrónicos autorizados y habilitados para la Administración Pública Estatal, para el cumplimiento de los procedimientos regulados en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
 
-X. Llevar la estadística relevante en materia de transparencia de la Administración Pública Estatal;
+X. Desarrollar e implementar lineamientos, programas y acciones en materia de clasificación, seguridad y conservación de documentos administrativos, así como la organización de archivos, de las dependencias y entidades de la Administración Pública Estatal, que tiendan a hacer más eficiente el trámite de los procedimientos regulados por la Ley de la materia;
 
-XI. Proponer al Contralor General, las modificaciones que resulten necesarias en el marco jurídico que rige el acceso a la información pública, para facilitar los procesos de transparencia y rendición de cuentas;
+XI. Participar en la implementación de indicadores en materia de transparencia y acceso a la información, en relación con los sujetos obligados de la Administración Pública del Estado y Enlaces de Información y Transparencia, así como llevar la estadística relevante en estas materias;
 
-XII. Dar seguimiento a los convenios de coordinación y colaboración que celebre el Gobierno del Estado en materia de transparencia con organismos y autoridades Federales, Estatales y Municipales;
+XII. Proponer al Contralor General, las modificaciones que resulten necesarias en el marco jurídico que rige el acceso a la información pública, para facilitar los procesos de transparencia y rendición de cuentas;
 
-XIII. Recibir, tramitar y dar contestación a las solicitudes de acceso a la información que sean presentadas ante la Contraloría y Transparencia Gubernamental conforme a los procedimientos regulados en la Ley de la materia, y
+XIII. Dar seguimiento a los convenios de coordinación y colaboración que celebre el Gobierno del Estado en materia de transparencia con organismos y autoridades Federales, Estatales y Municipales;
 
-XIV. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
+XIV. Recibir, tramitar y dar contestación a las solicitudes de acceso a la información que sean presentadas ante la Contraloría y Transparencia Gubernamental conforme a los procedimientos regulados en la Ley de la materia, y
+
+XV. Las demás que le confieran las disposiciones normativas aplicables y el Contralor General.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -581,11 +537,17 @@ XIII. Llevar el seguimiento de las recomendaciones preventivas y correctivas pro
 
 XIV. Las demás que le confieran las disposiciones legales aplicables y el Contralor General.
 
+> <small>(DEROGADO, P.O. 13 DE JUNIO DE 2014)</small>
+
 ### CAPÍTULO VI. DEL SUBCONTRALOR
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2014)</small>
 
 ###### Artículo 16.
 
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2013)
+Las facultades conferidas en el artículo 15 Bis, serán ejercidas por el Director de Control y Auditoría del Sector Central, en las entidades paraestatales del sector educativo de la Administración Pública del Estado.
+
+Las facultades conferidas en el artículo 15 Bis 1, serán ejercidas por el Director de Control y Auditoria del Sector Paraestatal, en la Secretaría de Salud del Estado.
 
 ### CAPÍTULO VII. DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA SUBCONTRALORÍA
 
@@ -656,5 +618,9 @@ JORGE MANJARREZ RIVERA
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE OCTUBRE DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
