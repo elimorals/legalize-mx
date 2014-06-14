@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2014-04-12"
+last_updated: "2014-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -75,7 +75,7 @@ III.- La protección y el acrecentamiento de los valores que coadyuven a la crea
 
 IV.- El desarrollo de actitudes responsables y solidarias de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población; y (sic)
+V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población; y
 
 VI.- El conocimiento de los servicios de salud para su adecuado aprovechamiento y utilización;
 
@@ -105,7 +105,9 @@ IV.- Educación para la salud, a la formación que tiene por objeto:
 
 a) Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerse de los riesgos que pongan en peligro su salud;
 
-b) Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+b) Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, así como de las medidas de adaptación a los efectos del cambio climático, y
 
 c) Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades;
 
@@ -161,7 +163,9 @@ f).- Educación para la salud;
 
 g).- Orientación y vigilancia en materia de nutrición, así como la promoción para la participación de organismos nacionales e internacionales de los sectores social y privado, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos;
 
-h).- Prevención y control de los efectos nocivos de los factores ambientales en la salud del ser humano; el desarrollo de investigación permanente y sistemática de los riesgos y daños para la salud de la población originada por la contaminación del ambiente; la vigilancia y certificación de la calidad del agua para uso y consumo humano y la vigilancia de la seguridad radiológica para uso médico;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+h).- Prevención y control de los efectos nocivos de los factores ambientales en la salud del ser humano, desarrollo de medidas de adaptación a los efectos del cambio climático; y desarrollo de investigación permanente y sistemática de los riesgos y daños para la salud de la población originada por la contaminación del ambiente y el cambio climático; la vigilancia y certificación de la calidad del agua para uso y consumo humano y la vigilancia de la seguridad radiológica para uso médico;
 
 i).- Salud ocupacional, para lo cual se promoverán, desarrollarán y difundirán investigaciones de carácter multidisciplinario que permitan prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del ser humano;
 
@@ -289,6 +293,10 @@ XVIII.- Las demás materias que determinen esta Ley y otras disposiciones aplica
 
 Corresponderá a la Secretaría, el ejercicio de las funciones de autoridad sanitaria federal que se le descentralicen y las de competencia local. Los derechos y demás conceptos derivados de esta Ley, se regirán por lo que disponga la normatividad correspondiente y los convenios de coordinación que en su caso se celebren.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+ARTICULO 8° BIS.- Las autoridades sanitarias establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños dependientes de las condiciones del ambiente, especialmente aquellos originados por el cambio climático.
+
 ###### ARTICULO 9º.
 
 La participación de la Secretaría en la prestación de los servicios de salubridad general a que se refieren las fracciones I, III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3° de la Ley General, se sujetará a lo dispuesto en las Bases de Coordinación que suscriban el Gobernador y la Secretaría de Salud, en los términos del artículo 18 del citado ordenamiento.
@@ -315,13 +323,15 @@ Corresponde a los Ayuntamientos:
 
 I. Asumir las atribuciones que se le deleguen en términos de esta Ley y de los convenios que se suscriban;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-II. Formular y desarrollar programas municipales de la materia en el marco de los Sistemas Nacional y Estatal de Salud y de acuerdo con los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo; y
+II.- Proporcionar a la población, en el ámbito de su competencia y en coordinación con la Secretaría, los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, así como de las medidas de adaptación a los efectos del cambio climático;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+III.- Formular y desarrollar programas municipales de la materia en el marco de los Sistemas Nacional y Estatal de Salud y de acuerdo con los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo; y
 
-III. Determinar y ejercer en el ámbito de su competencia en coordinación con la secretaria (sic), los medios de control y vigilancia necesarios para evitar y prevenir el uso y consumo así como la venta y utilización indebida de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, cuando se trate de menores de edad e incapaces, en los términos del Reglamento que para tal efecto el Gobierno Municipal expida.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+IV.- Determinar y ejercer en el ámbito de su competencia en coordinación con la secretaría, los medios de control y vigilancia necesarios para evitar y prevenir el uso y consumo así como la venta y utilización indebida de substancias inhalantes que produzcan efectos psicotrópicos en las personas, cuando se trate de menores de edad e incapaces, en los términos del Reglamento que para tal efecto el Gobierno Municipal expida.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
@@ -441,7 +451,9 @@ Así mismo, procurar la atención y tratamiento para los sujetos generadores de 
 
 V.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al adecuado crecimiento físico y mental de la niñez;
 
-VI.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que propicien el desarrollo satisfactorio de la vida;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VI.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que propicien el desarrollo satisfactorio de la vida, y la adaptación de la población a los efectos del cambio climático;
 
 VII.- impulsar un sistema racional para la formación y desarrollo de los recursos humanos para mejorar la salud de la población;
 
@@ -1886,3 +1898,9 @@ P.O. 12 DE ABRIL DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se otorga un plazo de 120 días naturales a la Secretaría de Salud y Bienestar Social, así como a los diez Ayuntamientos del Estado, para que realicen las adecuaciones correspondientes a sus respectivos reglamentos, con relación a lo dispuesto por el presente Decreto.
+
+P.O. 14 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los Ayuntamientos que cuenten con reglamentos en materia de salud, contarán con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para adecuarlos al mismo.
