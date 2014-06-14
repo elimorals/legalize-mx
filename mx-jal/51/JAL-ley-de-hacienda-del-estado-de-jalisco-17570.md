@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2013-12-14"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE HACIENDA DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JULIO DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -562,6 +564,26 @@ a) El Estado y Municipio, así como sus organismos descentralizados, organismos 
 b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas y que se encuentren registradas ante las autoridades estatales competentes del ramo; y
 
 c) Asociaciones de trabajadores y colegios de profesionistas.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+Artículo 44 bis. Los contribuyentes que otorguen mecenazgos para la creación, mantenimiento y promoción cultural, sin fines de lucro, de autores jaliscienses, podrán aplicar una exención, contra el pago del Impuesto Sobre Nóminas a su cargo, por una cantidad equivalente al 60% del apoyo previamente acreditado, conforme a lo siguiente:
+
+I. Solo podrá accederse a este incentivo fiscal si el contribuyente se encuentra al corriente del pago de las demás obligaciones tributarias que esta ley le establezca;
+
+II. El monto total del estímulo fiscal anual a distribuir no excederá de la seismilésima parte (0.006%) del total del Presupuesto del Gobierno del Estado;
+
+III. El monto anual del apoyo susceptible de aplicarse al estímulo fiscal no podrá exceder de siete mil setecientos cincuenta días de salario mínimo general en el municipio de Guadalajara por creador ni por proyecto;
+
+IV. El monto a acreditarse no podrá exceder del 20% del impuesto anual sobre nómina a cargo del contribuyente; y
+
+V. El contribuyente que otorgue el apoyo solo podrá obtener reconocimiento por el mismo, pero no podrá obtener contraprestaciones económicas directas.
+
+Los estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas a que se refiere la Ley Federal del Derecho de Autor y los que señale la Ley de Mecenazgo Cultural del Estado de Jalisco.
+
+Los apoyos serán inembargables, podrán proporcionarse en dinero o en especie y el contribuyente deberá entregarlo por conducto de la Dirección de Fomento, Mecenazgo y Relaciones Públicas de la Secretaría de Cultura del Estado de Jalisco conforme a las reglas de operación que se expidan.
+
+La Secretaría de Planeación, Administración y Finanzas del Estado, en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.
 
 De la estimación de erogaciones
 
@@ -1122,3 +1144,9 @@ P.O. 11 DE NOVIEMBRE DE 2006.
 P.O. 14 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE JUNIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de la fecha de publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO.- El Poder Ejecutivo dentro de los 30 días hábiles siguientes, contados a partir de la entrada en vigor del presente decreto, debe emitir las reglas que establecen los requisitos y trámites que deberán cumplir los interesados para hacerse merecedores del estímulo fiscal, así como los referentes a la entrega y transparencia de los recursos; mismo que será observado y aplicado por la Secretaría de Cultura del Estado de Jalisco.
