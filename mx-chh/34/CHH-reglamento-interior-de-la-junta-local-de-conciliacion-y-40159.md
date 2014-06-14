@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-junta-local-de-conciliacion-y-40159"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-03-15"
-last_updated: "1997-03-15"
+last_updated: "2014-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE CHIHUAHUA, CHIH
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE CHIHUAHUA
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE LA CIUDAD DE CHIHUAHUA, CHIHUAHUA, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 15 de marzo de 1997.
 
@@ -948,3 +950,13 @@ LIC. SONIA PALMA HERNANDEZ
 EL SECRETARIO GENERAL
 
 LIC. ABELARDO MORUA GARCIA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE JUNIO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Reglamento abroga cualquier otro reglamento que hubiera estado en vigor con anterioridad.
+
+TERCERO. Todo lo establecido en el presente Reglamento relativo a equipamiento, mobiliario, material de trabajo y en general recursos materiales y demás activos, estará siempre sujeto a la disponibilidad presupuestal aprobada por la Secretaria de Hacienda del Estado.
