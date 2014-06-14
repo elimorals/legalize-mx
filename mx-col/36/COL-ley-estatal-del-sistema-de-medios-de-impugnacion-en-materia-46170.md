@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia-461
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-31"
-last_updated: "2011-08-30"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
+LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2005.
 
@@ -103,9 +103,15 @@ o) CODIGO: el Código Electoral del Estado de Colima; y
 
 p) PLENO: el Pleno del Tribunal Electoral del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 ###### Artículo 4o.
 
-La resolución de los medios de impugnación previstos en esta LEY, deberá ser conforme a la letra o a la interpretación jurídica de la misma bajo los criterios gramatical, sistemático y funcional, y a falta de ésta se fundara en los principios generales del derecho.
+Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a la Constitución, los tratados o instrumentos internacionales celebrados por el Estado Mexicano, así como a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho.
+
+La interpretación del orden jurídico deberá realizarse conforme a los derechos humanos reconocidos en la Constitución, favoreciendo en todo tiempo a las personas con la protección más amplia.
+
+En la interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos, se deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2011)</small>
 
@@ -133,11 +139,11 @@ d) El juicio para la defensa ciudadana electoral.
 
 Para el caso de la elección extraordinaria, el PLENO deberá ajustar los términos tanto para la interposición de los medios de impugnación como para la sustanciación de los mismos, de acuerdo a los plazos que disponga la convocatoria que para tal efecto el CONGRESO expida.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 7o.
 
-Las autoridades estatales, municipales, así como los ciudadanos, PARTIDOS POLÍTICOS, candidatos, asociaciones políticas y todas aquellas personas físicas o morales que, con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere el artículo 5º de este ordenamiento jurídico, no cumplan con las disposiciones de esta LEY o desacaten las resoluciones que dicte el INSTITUTO o el TRIBUNAL, serán sancionados en los términos del CÓDIGO o de la Ley Estatal de Responsabilidades de los Servidores Públicos, según corresponda.
+Las autoridades estatales, municipales, así como los ciudadanos, PARTIDOS POLÍTICOS, candidatos, candidatos independientes, asociaciones políticas y todas aquellas personas físicas o morales que, con motivo del trámite, sustanciación y resolución de los medios de impugnación a que se refiere el artículo 5° de este ordenamiento jurídico, no cumplan con las disposiciones de esta LEY o desacaten las resoluciones que dicte el INSTITUTO o el TRIBUNAL, serán sancionados en los términos del CÓDIGO o de la Ley Estatal de Responsabilidades de los Servidores Públicos, según corresponda.
 
 ###### Artículo 8o.
 
@@ -161,13 +167,17 @@ II.- Las coaliciones a través de sus representantes legítimos en los términos
 
 III.- Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-IV.- Aquellos que estén autorizados para representarlos legalmente mediante mandato otorgado en escritura pública por los funcionarios del partido facultado estatutariamente para ello; y
+IV.- Los candidatos ciudadanos a través de sus representantes legítimos, registrados ante el INSTITUTO;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2011)</small>
+(CORRIMIENTO RESPECTIVO [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2014)
 
-V.- Los representantes legales de las personas morales que así lo acrediten, en términos del Código Civil vigente en el ESTADO.
+V.- Los ciudadanos, los candidatos o los candidatos independientes por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
+
+VI.- Aquellos que estén autorizados para representarlos legalmente mediante mandato otorgado en escritura pública por los funcionarios del partido facultado estatutariamente para ello; y
+
+VII.- Los representantes legales de las personas morales que así lo acrediten, en términos del Código Civil vigente en el ESTADO.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2011)</small>
 
@@ -253,17 +263,19 @@ Si no se encuentra presente el interesado, se entenderá la notificación con la
 
 Si el domicilio está cerrado o la persona con la que se entiende la diligencia se niega a recibir la cédula, el funcionario responsable de la notificación la fijará junto con la copia del auto, la resolución o sentencia a notificar, en un lugar visible del local, asentará la razón correspondiente en autos y procederá a fijar la notificación en los estrados.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 16.
 
-El partido político o coalición cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió y haya tenido a su alcance todos los elementos necesarios para quedar enterado de su contenido, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
+El partido político o candidato independiente cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió y haya tenido a su alcance todos los elementos necesarios para quedar enterado de su contenido, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
 
 ###### Artículo 17.
 
 Las resoluciones que recaigan a los recursos de revisión, serán notificadas de la siguiente manera:
 
-I.- A los PARTIDOS POLITICOS o coaliciones que no tengan representantes acreditados, la notificación se les hará por estrados; en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubiesen señalado o de no haber señalado domicilio, por estrados;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+I.- A los PARTIDOS POLITICOS o candidatos independientes que no tengan representantes acreditados, la notificación se les hará por estrados; en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubiesen señalado o de no haber señalado domicilio, por estrados;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
 
@@ -291,17 +303,17 @@ No requerirán de notificación personal y surtirán sus efectos al día siguien
 
 Serán partes en el procedimiento para tramitar los medios de impugnación en materia electoral:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-I.- El actor, que será el partido político, coalición, precandidato, candidato, ciudadano o militante que lo interponga, debiendo observar las reglas de legitimación previstas en esta LEY;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
-
-II.- La autoridad responsable, que es el organismo electoral o el partido político en su caso, que haya realizado el acto o resolución que se impugna; y (sic)
+I.- El actor, que será el partido político, precandidato, candidato, candidato independiente, ciudadano o militante que lo interponga, debiendo observar las reglas de legitimación previstas en esta LEY;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
 
-III.- El tercero interesado, que será el ciudadano, partido político, coalición, precandidato, candidato o cualquier persona que tenga un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
+II.- La autoridad responsable, que es el organismo electoral o el partido político en su caso, que haya realizado el acto o resolución que se impugna; y
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+III.- El tercero interesado, que será el ciudadano, partido político, precandidato, candidato, candidato independiente o cualquier persona que tenga un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
 
 > <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
@@ -359,15 +371,15 @@ Los recursos de revisión y apelación se interpondrán ante el órgano del INST
 
 El órgano del INSTITUTO que reciba un recurso de revisión, o apelación, lo hará del conocimiento público mediante cédula que fijará en los estrados, dentro de las 24 horas siguientes a su recepción.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-Los representantes de los PARTIDOS POLITICOS, coaliciones o coadyuvantes terceros interesados, podrán presentar los escritos que consideren pertinentes dentro de las 48 horas siguientes a la fijación de la cédula respectiva.
+Los representantes de los PARTIDOS POLITICOS, candidatos independientes o coadyuvantes terceros interesados, podrán presentar los escritos que consideren pertinentes dentro de las 48 horas siguientes a la fijación de la cédula respectiva.
 
 Los escritos mencionados en el párrafo anterior deberán cumplir con los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-I.- Hacer constar el nombre del partido político o coalición que lo presenta y su domicilio para recibir notificaciones. Si el promovente omite señalar domicilio para recibir notificaciones, éstas se practicarán por estrados;
+I.- Hacer constar el nombre del partido político o candidato independiente que lo presenta y su domicilio para recibir notificaciones. Si el promovente omite señalar domicilio para recibir notificaciones, éstas se practicarán por estrados;
 
 II.- Exhibir los documentos que acrediten la personería del promovente, en caso de que no la tuviera reconocida ante el órgano electoral competente;
 
@@ -527,15 +539,21 @@ IV.- Cuando durante el procedimiento de un juicio para la defensa ciudadana elec
 
 ### CAPÍTULO VIII. De la acumulación
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 34.
 
-De oficio o a petición de parte, podrán acumularse los expedientes de aquellos recursos de revisión o apelación en que se impugne simultáneamente, por dos o más PARTIDOS POLITICOS, el mismo acto o resolución.
+De oficio o a petición de parte, podrán acumularse los expedientes de aquellos recursos de revisión o apelación en que se impugne simultáneamente, por dos o más PARTIDOS POLÍTICOS o candidato independiente en su caso, el mismo acto o resolución.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
 El TRIBUNAL podrá acumular los expedientes de los juicios de inconformidad y los de para la defensa ciudadana electoral que así lo ameriten.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
 Los recursos de revisión y apelación, así como los juicios para la defensa ciudadana electoral interpuestos dentro de los 5 días anteriores a la elección, serán enviados al TRIBUNAL, para que sean resueltos junto con los juicios de inconformidad con los que guarden relación. El promovente deberá señalar la conexidad de la causa en la demanda del juicio de inconformidad.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
 Cuando los recursos y los juicios a que se refiere el párrafo anterior no guarden relación con uno de inconformidad, serán resueltos conforme a lo que en derecho proceda.
 
@@ -713,7 +731,9 @@ De la legitimación y la personería.
 
 Podrán interponer recurso de apelación:
 
-I.- Los PARTIDOS POLÍTICOS o la coalición, a través de sus legítimos representantes; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+I.- Los PARTIDOS POLÍTICOS o candidatos independientes, a través de sus legítimos representantes; y
 
 II.- Los ciudadanos o todo aquel que acredite su interés legítimo.
 
@@ -771,7 +791,9 @@ De la legitimación y la personería.
 
 Podrán interponer recurso de revisión:
 
-I.- Los PARTIDOS POLÍTICOS o la coalición, a través de sus legítimos representantes; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+I.- Los PARTIDOS POLÍTICOS o candidatos independientes, a través de sus legítimos representantes; y
 
 II.- Los ciudadanos o todo aquel que acredite su interés legítimo.
 
@@ -861,9 +883,13 @@ El TRIBUNAL será competente para resolver el juicio de inconformidad.
 
 Podrán interponer el juicio de inconformidad:
 
-I.- Los PARTIDOS POLÍTICOS o la coalición, a través de sus legítimos representantes;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-II.- Los candidatos a los distintos cargos de elección popular; y
+I.- Los PARTIDOS POLÍTICOS o candidatos independientes, a través de sus legítimos representantes;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+II.- Los candidatos o candidato independiente a los distintos cargos de elección popular; y
 
 III.- Los ciudadanos o todo aquel que acredite su interés legítimo.
 
@@ -1057,7 +1083,9 @@ V.- Se ejerza violencia física, cohecho, soborno o presión de alguna autoridad
 
 VI.- Se permita sufragar sin CREDENCIAL o cuando su nombre no aparezca en la LISTA, salvo los casos de excepción señalados en los artículos 215 y 219 del CÓDIGO y siempre que ello sea determinante para el resultado de la votación;
 
-VII.- Se impida el acceso a los representantes de PARTIDOS POLITICOS o se les expulse sin causa justificada y siempre que ello sea determinante para el resultado de la votación de dicha casilla;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VII.- Se impida el acceso a los representantes de PARTIDOS POLÍTICOS, candidatos independientes o se les expulse sin causa justificada y siempre que ello sea determinante para el resultado de la votación de dicha casilla;
 
 VIII.- Haya mediado error grave o dolo manifiesto en el cómputo de votos que beneficie a cualquiera de los candidatos, las fórmulas de candidatos o planillas y sea determinante para el resultado de la votación de dicha casilla;
 
@@ -1083,11 +1111,25 @@ I.- Cuando alguna o algunas de las causas señaladas en el artículo anterior se
 
 II.- Cuando no se instalen el 20% o más de las casillas correspondientes a un distrito electoral, MUNICIPIO o en la entidad y consecuentemente la votación no hubiese sido recibida;
 
-III.- Cuando exista violencia generalizada en el ámbito de la elección correspondiente; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
+III.- Cuando exista violencia generalizada en el ámbito de la elección correspondiente;
 
-IV.- Cuando el candidato o los integrantes de la fórmula de candidatos que hayan obtenido mayoría de votos en la elección respectiva, no reúnan los requisitos de elegibilidad contenidos en la CONSTITUCIÓN y en el CÓDIGO.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+IV.- Cuando el candidato o los integrantes de la fórmula de candidatos que hayan obtenido mayoría de votos en la elección respectiva, no reúnan los requisitos de elegibilidad contenidos en la CONSTITUCION y en el CODIGO;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+V.- Cuando se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VI.- Cuando se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley; y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VII.- Cuando se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
 Cuando se declare nula una elección se comunicará al CONGRESO del Estado para que proceda conforme a la LEY.
 
@@ -1099,11 +1141,11 @@ Sólo podrá ser declarada nula la elección en un distrito electoral o MUNICIPI
 
 Tratándose de la nulidad de votación de una o más casillas, se descontará la votación anulada de la votación total del distrito, MUNICIPIO o del ESTADO, con el propósito de obtener los resultados de la votación válida, siempre que no se esté en el supuesto de la fracción I del artículo 70 de esta LEY.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 72.
 
-Ningún partido político o coalición podrá invocar como causa de nulidad, hechos o circunstancias que ellos mismos hayan provocado dolosamente o contribuido a provocar, así sea circunstancial o accidentalmente.
+Ningún partido político o candidato independiente podrá invocar como causa de nulidad, hechos o circunstancias que ellos mismos hayan provocado dolosamente o contribuido a provocar, así sea circunstancial o accidentalmente.
 
 ###### Artículo 73.
 
@@ -1186,3 +1228,7 @@ P.O. 31 DE AGOSTO DE 2008.
 P.O. 30 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
