@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2013-08-21"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -645,7 +645,17 @@ XXVII. Aplicar las sanciones previstas en la presente Ley y demás ordenamientos
 
 XXVIII. Denunciar ante la autoridad competente las conductas que pudieran ser constitutivas de delito o infracción cometidas por personas físicas, asociaciones civiles o fundaciones que realicen actividades de asistencia social, y
 
-XXIX. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+XXIX. Expedir certificaciones de cualquier documento que obre en sus archivos, siempre que se encuentre vinculado a asuntos de su competencia, y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+XXX. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+Para el despacho de los asuntos a que se refiere el presente artículo, la persona titular de la Procuraduría se auxiliará de los servidores públicos con que cuente para tal efecto, en quienes podrá delegar las facultades que por disposición legal o reglamentaria no deba ejercer en forma personal.
 
 ###### Artículo 44.
 
@@ -1352,3 +1362,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Procuraduría de Asistencia Jurídica y Social del DIF Estatal determinará el perfil profesional de las personas que como equipo interdisciplinario habrán de conformar el Consejo Técnico Estatal de Adopciones.
+
+P.O. 14 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
