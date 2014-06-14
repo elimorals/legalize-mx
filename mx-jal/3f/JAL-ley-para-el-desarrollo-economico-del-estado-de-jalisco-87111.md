@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2013-12-07"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -441,7 +441,9 @@ III. Apoyar y orientar en todo momento el uso y consumo de productos jalisciense
 
 ###### Artículo 24.
 
-La Secretaría de Promoción Económica promoverá para el impulso de las micro, pequeñas y medianas empresas, en forma directa o por conducto de los organismos públicos de su sector, las siguientes acciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+
+La Secretaría promoverá para el impulso de las micro, pequeñas y medianas empresas, en forma directa o por conducto de los organismos públicos de su sector, las siguientes acciones:
 
 I. Estimular, en el otorgamiento de sus promociones y apoyos, la economía de escala en la operación empresarial, con el fin de mejorar su productividad y eficacia, así como el crecimiento de las regiones del estado en forma equitativa y equilibrada;
 
@@ -471,7 +473,9 @@ Las dependencias de la administración pública estatal, sus organismos público
 
 ## Título Segundo. De las Autoridades Sujetas a esta Ley
 
-### Capítulo I. De la Secretaria de Promoción Económica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2014)</small>
+
+### Capítulo I. De la Secretaría de Desarrollo Económico
 
 ###### Artículo 26.
 
@@ -681,9 +685,13 @@ VII. Autorizar la creación o cancelación de las plazas laborales del propio or
 
 VIII. Autorizar la condonación, reducción o conmutación de las sanciones impuestas por el Consejo;
 
-IX. Tramitar ante la Secretaría de Finanzas del Gobierno del Estado, la ejecución de fianzas, el cobro de garantías y créditos fiscales de que tenga conocimiento el Consejo, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-X. Las demás aplicables en los términos de esta Ley y su Reglamento.
+IX. Tramitar ante la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, la ejecución de fianzas, el cobro de garantías y créditos fiscales de que tenga conocimiento el Consejo; y
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+X. Las demás aplicables en los términos de esta ley y su reglamento.
 
 ###### Artículo 34.
 
@@ -695,17 +703,25 @@ II. Un Secretario Técnico, solo con derecho a voz, que será el Director Genera
 
 III. Los titulares, o sus respectivos representantes debidamente acreditados, de cada una de las secretarias del Gobierno del Estado y ayuntamientos siguientes, quienes contarán con derecho a voz y voto:
 
-a. Secretaría de Promoción Económica;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-b. Secretaría de Finanzas;
+a. Secretaría de Desarrollo Económico;
 
-c. Secretaría de Desarrollo Urbano;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+b. Secretaría de Planeación, Administración y Finanzas;
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+c. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 d. Secretaría de Turismo;
 
 e. Secretaría de Desarrollo Rural;
 
-f. Secretaría de Desarrollo Humano;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+f. Secretaría de Desarrollo e Integración Social;
 
 g. Secretaría del Trabajo y Previsión Social;
 
@@ -851,7 +867,9 @@ IX. Celebrar los convenios, contratos, acuerdos y actos jurídicos en general qu
 
 X. Elaborar y someter a la consideración de la Junta de Gobierno las bases para la contratación de empréstitos y suscribir los contratos, títulos de crédito y demás documentos que se requieran para este fin;
 
-XI. Gestionar ante la Secretaría de Finanzas la autorización del Congreso para que el Estado se constituya en Garante de Terceros;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+XI. Gestionar ante la Secretaría de Planeación, Administración y Finanzas la autorización del Congreso para que el Estado se constituya en Garante de Terceros;
 
 XII. Integrar, en los términos de lo establecido por esta Ley y su Reglamento, el expediente que habrá de darle respaldo a las iniciativas de enajenación o traslado de dominio de bienes propiedad del organismo y que haya que ponerse a consideración de la Junta de Gobierno, y
 
@@ -923,27 +941,39 @@ IV. Los presidentes municipales del área metropolitana de Guadalajara;
 
 V. El Secretario General de Gobierno;
 
-VI. El Secretario de Planeación, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-VII. El Secretario de Promoción Económica, quien fungirá como Secretario Ejecutivo;
+VI. El Secretario de Planeación, Administración y Finanzas, quien fungirá como Secretario Técnico;
 
-VIII. El Secretario de Educación Pública;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-IX. El Secretario de Finanzas;
+VII. El Secretario de Desarrollo Económico, quien fungirá como Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VIII. El Secretario de Educación;
+
+IX. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
 
 X. El Secretario de Desarrollo Rural;
 
 XI. El Secretario de Turismo;
 
-XII. El Secretario de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+XII. El Secretario de Medio Ambiente y Desarrollo Territorial;
 
 XIII. El Secretario de Trabajo y Previsión Social;
 
-XIV. El Secretario de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-XV. El Secretario de Vialidad y de Transporte;
+XIV. El Fiscal General del Estado;
 
-XVI. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+XV. El Secretario de Movilidad;
+
+XVI. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
 
 XVII. Los presidentes de los siguientes organismos del sector privado:
 
@@ -1071,7 +1101,9 @@ Para los efectos de esta Ley, se considera productividad como la relación entre
 
 Los poderes del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, adoptarán las medidas y realizarán las acciones necesarias para la mejora continua de la productividad de sus respectivos organismos y llevarán a cabo las acciones necesarias para la eliminación continua de obstáculos a la productividad del sector privado.
 
-El Gobierno del Estado, con la participación de la Secretaría de Promoción Económica, podrá celebrar convenios de coordinación con los gobiernos municipales para impulsar los diversos programas y planes de productividad contemplados en el presente capítulo.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+El Gobierno del Estado, con la participación de la Secretaría, podrá celebrar convenios de coordinación con los gobiernos municipales para impulsar los diversos programas y planes de productividad contemplados en el presente capítulo.
 
 ###### Artículo 62.
 
@@ -1432,3 +1464,7 @@ DÉCIMO SEGUNDO. Los asuntos que se encuentren pendientes de resolver ante los o
 DÉCIMO TERCERO. A la fecha de entrada en vigor del presente Decreto, el Instituto de Información Estadística y Geográfica del Estado de Jalisco se subrogará en todas las obligaciones que hubieren contraído las entidades que se fusionan.
 
 DÉCIMO CUARTO. El Ejecutivo Estatal deberá ordenar una auditoria interna que refleje el estado real y actual en que se encuentran los organismos públicos descentralizados que se fusionan y las condiciones y recursos humanos, materiales y financieros en que recibe el Instituto de Información Estadística y Geográfica del Estado de Jalisco.
+
+P.O. 14 DE JUNIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
