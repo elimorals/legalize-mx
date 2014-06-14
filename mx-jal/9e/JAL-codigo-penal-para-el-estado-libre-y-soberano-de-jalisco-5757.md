@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2014-04-08"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3905,6 +3905,12 @@ Se impondrán de seis meses a seis años de prisión y multa por el importe de c
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
+### CAPITULO UNICO. Crueldad contra los animales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 ###### Art. 254 Bis.
 
 Comete el delito de administración fraudulenta, el que teniendo una delegación parcial o total de facultades para el manejo, cuidado o administración de bienes ajenos, en todo o en parte, perjudique al titular de éstos, a terceros o genere menoscabo patrimonial, en los casos siguientes:
@@ -4383,6 +4389,12 @@ Para los fines del artículo que antecede se tomará en cuenta el monto de lo de
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
+## TITULO VIGESIMO CUARTO. DE LA VIOLENCIA CONTRA LOS ANIMALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
+
 ###### Art. 289.
 
 Para los efectos del presente Título, se estará a las definiciones establecidas en la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Jalisco, así como las determinadas en los ordenamientos aplicables.
@@ -4562,6 +4574,50 @@ Se impondrán de dos a seis años de prisión a quien:
 I. Proporcione o presente documentos falsos ante el Instituto de Pensiones del Estado, con la finalidad de obtener, en efectivo o en especie, una o más prestaciones que en derecho no le correspondan, sin importar si obtiene el beneficio pretendido, o
 
 II. Mienta intencionalmente sobre su antigüedad de servicio o de cotización ante el Instituto de Pensiones del Estado o ante cualquier otra autoridad administrativa o judicial, con la finalidad de obtener un beneficio con ello.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
+
+###### Art. 305.
+
+Se impondrán de veinte a ochenta jornadas de trabajo y multa por el equivalente de veinte a cincuenta días de salario mínimo general vigente en el área geográfica en que se cometa el delito, a quien de manera intencional y derivado de actos de maltrato y crueldad cause lesiones a cualquier animal y que de manera evidente se refleje un menoscabo en la salud del animal, sin afectar de manera permanente el desenvolvimiento y las funciones propias del animal.
+
+Se impondrán de ochenta a ciento veinte jornadas de trabajo y multa por el equivalente de cien a trescientos días de salario mínimo general vigente en el área geográfica en que se cometa el delito, a quien con la intención de causar un daño a un animal, realice actos de maltrato y crueldad que lesionen de forma evidente y afecten de manera permanente las funciones físicas de un animal o que pongan en riesgo la vida del mismo.
+
+Cuando el delito se cometa en perjuicio de los animales que se encuentren bajo su resguardo, la pena se agravará en una mitad y se asegurará a los animales maltratados.
+
+En los casos de reincidencia, se impondrá una pena de seis meses a dos años de prisión y multa por el equivalente de cien a trescientos días de salario mínimo en el área geográfica en que se cometa el delito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+###### Art. 306.
+
+A quien con la intención de causarle un daño le provoque la muerte a un animal, se le impondrán de seis meses a tres años de prisión y multa de doscientos a mil días de salario mínimo en el área geográfica en que se cometa el delito, la inhabilitación profesional en caso de ejercer profesión relacionada con el cuidado animal, así como el aseguramiento de los animales que estén bajo su resguardo.
+
+La pena se incrementará en una mitad cuando se ocasione un grave sufrimiento al provocar la muerte no inmediata, prolongando la agonía del animal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+###### Art. 307.
+
+El Ministerio Público asegurará de oficio los instrumentos y efectos, objetos o productos del delito, correspondiendo a la autoridad competente determinar el destino de éstos, así como el pago de la reparación del daño y multas.
+
+Para lo dispuesto en el presente Título se entenderá por animal cualquier especie de mamíferos no humanos, aves, reptiles, anfibios o peces.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+###### Art. 308.
+
+Quedan exceptuados de los delitos previstos en el presente Título los sacrificios humanitarios de animales, las corridas de toros, novillos, rejones, jaripeos, charreadas, carrera de caballos o perros, pesca o caza deportiva, y las peleas de gallos, los sacrificados para consumo humano, investigación científica y de enseñanza, tratamientos e intervenciones veterinarias, las cuales habrán de sujetarse a lo dispuesto en las leyes, reglamentos y demás ordenamientos jurídicos aplicables, así como el combate de plagas y aquellos que cuenten con licencia municipal o de autoridad competente.
+
+Será excluyente de los delitos contemplados en el presente capítulo cuando prevalezca un riesgo inminente en la integridad física de las personas o los que se originen por accidentes sin que medie la intención de causar un daño al animal.
 
 ## TRANSITORIOS
 
@@ -5264,3 +5320,13 @@ DECRETO NÚMERO 24549/LX/13 POR EL QUE SE REFORMAN LOS ARTÍCULOS 236 FRACCIONES
 P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 14 DE JUNIO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones a los reglamentos aplicables para el debido cumplimiento del presente decreto.
+
+TERCERO. Se autoriza a la Secretaría de Planeación, Administración y Finanzas para realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto, haciendo uso en su caso, de los recursos humanos y materiales ya existentes, en coordinación con la Fiscalía General del Estado de Jalisco, lo anterior con respecto de la creación de la Unidad Especializada de Protección Animal.
+
+CUARTO. Para el seguimiento de los delitos derivados de la violencia contra los animales, el Fiscal General designará las agencias especializadas para su conocimiento conforme a las disposiciones legales, reglamentarias y normativas aplicables.
