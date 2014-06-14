@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-04-12"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE ABRIL DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 293 PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -815,7 +813,7 @@ ART. 42.- El oficial del Registro Civil que no cumpla la prevención de remitir 
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 43.- No podrá asentarse en las actas físicas o electrónicas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+ART. 43.- No podrá asentarse en las actas físicas o electrónicas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que éste expresamente prevenido en la ley.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -979,7 +977,7 @@ ART. 79.- Lo dispuesto en el Artículo anterior se observará también, cuando s
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al encargado del Registro, dentro del término de quince días, en original o copia certificada del documento firmado en forma autógrafa o con la firma electrónica certificada que lo compruebe. En el acta se insertará la parte relativa de dicho documento en el que se omitirá cualesquiera de las menciones prohibidas por los artículos 58, 60, 62, 63, 64, 78, y 370, observándose las demás prescripciones contenidas en este capítulo y en el IV del título séptimo de este libro.
+ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al encargado del Registro, dentro del término de quince días, en original o copia certificada del documento firmado en forma autógrafa o con la firma electrónica certificada que lo compruebe. En el acta se insertará la parte relativa de dicho documento en el que se omitirá cualesquiera de las menciones prohibidas por los artículos 58, 60, 62, 63, 64, 78 y 370, observándose las demás prescripciones contenidas en este capítulo y en el IV del título séptimo de este libro.
 
 ART. 81.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
 
@@ -1087,7 +1085,13 @@ Si de acuerdo con lo dispuesto en el artículo 185 del presente ordenamiento fue
 
 VI.- Copia del acta de defunción del cónyuge fallecido firmada en forma autógrafa o con la firma electrónica certificada si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de la relación conyugal, en caso de que alguno de los pretendientes se hubiese unido en alguna relación conyugal a que se refiere el artículo139 (sic) de este Código;
 
-VII.- Copia de la dispensa de impedimentos, si los hubo.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VII.- Copia de la dispensa de impedimentos, si los hubo; y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VIII.- La constancia de que ambos pretendientes asistieron a las pláticas de orientación sobre relaciones conyugales, que estén avaladas por el Consejo Estatal de Población, misma que acreditará la instrucción en los siguientes temas: derechos y obligaciones de las relaciones conyugales; derechos protegidos de las relaciones conyugales; derechos y deberes de las niñas, los niños y adolescentes; deberes de los menores; patrimonio de familia; métodos anticonceptivos; violencia intrafamiliar; así como causas y procedimientos para el divorcio.
 
 ART. 99.- En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
@@ -1129,7 +1133,7 @@ Los cónyuges, uno y el otro, se deben y tendrán siempre y en todo lugar respet
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
-Las parejas deberán ser prudentes y atenuar sus faltas, nunca se dirán injurias, porque las injurias deshonran aun más a quien las vierte que a quien las recibe, mucho menos se maltratarán de obra, pues es vergonzoso y cobarde abusar de la fuerza.
+Las parejas deberán ser prudentes y atenuar sus faltas, nunca se dirán injurias, porque las injurias deshonran aún más a quien las vierte que a quien las recibe, mucho menos se maltratarán de obra, pues es vergonzoso y cobarde abusar de la fuerza.
 
 Ambos deberán prepararse, con el estudio amistoso y la mutua corrección de sus defectos para desempeñar de la mejor manera posible la mas alta magistratura de la vida que es la de ser padres de familia para que sus hijos encuentren en ustedes el buen ejemplo y una conducta digna de servirles de modelo.
 
@@ -1433,9 +1437,9 @@ ART. 146.- La relación conyugal debe celebrarse ante los funcionarios que estab
 
 ART. 147.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-ART. 148.- Para contraer una relación conyugal, cada uno de los contratantes necesitan haber cumplido dieciocho años. Los presidentes municipales pueden conceder dispensas de edad por causas graves y justificadas, siendo ésta dispensa hasta los dieciocho años.
+ART. 148.- Para contraer una relación conyugal, cada uno de los contratantes necesitan haber cumplido dieciocho años. Los presidentes municipales pueden conceder dispensas de edad por causas graves y justificadas, pero nunca se podrá dispensar a menores de dieciséis años.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
@@ -1498,6 +1502,10 @@ IX.- Padecer alguno de los contrayentes discapacidad intelectual, aunque pudiera
 X.- La relación conyugal subsistente con personas distintas de aquella con quien se pretenda contraer; y
 
 XI. (DEROGADA, P.O. 10 DE AGOSTO DE 2013)
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+XII.- No haber asistido a las pláticas de orientación sobre relaciones conyugales.
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
@@ -11312,3 +11320,7 @@ SEGUNDO.- La Dirección General del Registro Civil del Estado, así como las Ofi
 P.O. 5 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “EL ESTADO DE COLIMA”.
