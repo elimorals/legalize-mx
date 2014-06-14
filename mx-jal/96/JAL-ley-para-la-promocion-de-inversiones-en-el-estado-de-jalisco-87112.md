@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-promocion-de-inversiones-en-el-estado-de-jalisco-87
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2012-06-09"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE JUNIO DE 2012 NO APLICA AL ARTICULADO DE ESTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2012, SÓLO AL SUMARIO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -77,7 +75,9 @@ También se consideran actividades de promoción de inversiones, para los efecto
 
 ###### Artículo 3.
 
-Es competente para la ejecución de las disposiciones contenidas en esta Ley el Poder Ejecutivo del Estado, por conducto de la Secretaria de Promoción Económica y de las entidades públicas que este ordenamiento instituye.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+
+Es competente para la ejecución de las disposiciones contenidas en esta Ley el Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Económico, en adelante la Secretaría, y de las entidades públicas que este ordenamiento instituye.
 
 Los principios, procedimientos y normas establecidos en este ordenamiento sustentarán legalmente los convenios, acuerdos, convenciones y demás actos jurídicos que suscriban las entidades y dependencias del Gobierno del Estado de Jalisco con otras instituciones del orden federal o municipal, o con organismos privados o sociales cuyos fines guarden relación con las materias aquí reguladas.
 
@@ -117,7 +117,9 @@ Toda acción de promoción de inversiones que se instrumente con base en esta Le
 
 El Caso de Inversión constituirá la unidad básica de la política estatal de promoción de inversiones y será el instrumento cardinal de la rendición de cuentas en esta materia.
 
-La custodia, resguardo y accesibilidad de la información relacionada con los Casos de Inversión corresponderá, según sea el caso, al organismo público descentralizado Invierte en Jalisco, o al Fondo que para el caso instaure el Gobierno del Estado, conforme a la normatividad en materia de acceso e información pública.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+La custodia, resguardo y accesibilidad de la información relacionada con los Casos de Inversión corresponderá, según sea el caso, a la Secretaría, o al Fondo que para el caso instaure el Gobierno del Estado, conforme a la normatividad en materia de acceso e información pública.
 
 ### Capítulo II. Del Sistema Estatal de Promoción de Inversiones
 
@@ -159,27 +161,37 @@ Para la atención de los objetivos encomendados al Sistema Estatal de Promoción
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. El Presidente Empresarial del Organismo Público Descentralizado Invierte en Jalisco, quien fungirá como Secretario Técnico;
+II. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
 
-III. El Secretario de Promoción Económica, quien fungirá como Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-IV. El Secretario de Finanzas;
+III. El Secretario de Desarrollo Económico, quien fungirá como Secretario Técnico y Ejecutivo;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+IV. El Secretario de Planeación, Administración y Finanzas;
 
 V. El Secretario de Desarrollo Rural;
 
 VI. El Secretario de Turismo;
 
-VII. El Secretario de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VII. El Secretario de Medio Ambiente y Desarrollo Territorial;
 
 VIII. El Secretario de Trabajo y Previsión Social;
 
-IX. El Secretario de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-X. El Secretario de Vialidad y de Transporte;
+IX. El Fiscal General del Estado;
 
-XI. El Procurador General de Justicia del Estado, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-XII. El Director Ejecutivo del organismo público descentralizado Invierte en Jalisco.
+X. El Secretario de Movilidad;
+
+XI. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
+
+XII. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 10.
 
@@ -199,19 +211,23 @@ IV. Fijar las directrices para la distribución y administración de los recurso
 
 V. Autorizar los proyectos para la adquisición de reservas territoriales para fines productivos y los que se formulen para el desarrollo de infraestructura productiva, así como sus respectivos presupuestos;
 
-VI. Autorizar, a solicitud de la Junta de Gobierno del organismo público descentralizado Invierte en Jalisco, la oferta de incentivos para la captación y concreción de proyectos estratégicos de inversión;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VI. Autorizar, a solicitud de la Secretaría, la oferta de incentivos para la captación y concreción de proyectos estratégicos de inversión;
 
 VII. Adoptar las decisiones que sean necesarias para mejorar la posición de Jalisco en materia de competitividad para la inversión;
 
 VIII. Promover entre sus integrantes la realización de proyectos y acciones específicas para potenciar la atracción y captación de inversiones productivas, nacionales o extranjeras;
 
-IX. Analizar y formular observaciones sobre el Programa Institucional y los Programas Operativos Anuales del organismo público descentralizado Invierte en Jalisco, y remitirlas a su respectiva Junta de Gobierno para que sean atendidas;
+IX. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
 
 X. Fortalecer y favorecer la coordinación y la complementación de esfuerzos entre los organismos, entidades y dependencias que conforman el Sistema Estatal de Promoción de Inversiones, y entre éstas y los agentes privados y sociales, y las instituciones públicas de la federación y de los municipios que tengan incidencia en la captación de proyectos de inversión;
 
 XI. Supervisar el avance de los proyectos de inversión captados o concretados en los términos de esta Ley, y dictar las medidas necesarias para la maximización de sus beneficios;
 
-XII. Resolver los recursos administrativos que se interpongan en contra de sus propios acuerdos y decisiones, o en contra de los que fueran dictados por el Consejo Directivo del organismo público descentralizado Invierte en Jalisco, a partir del proyecto de resolución que someta a su consideración el representante legal de este último organismo descentralizado;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+XII. Resolver los recursos administrativos que se interpongan en contra de sus propios acuerdos y decisiones;
 
 XIII. Solicitar al titular del Poder Ejecutivo del Estado la asignación de recursos para el fondo señalado en el artículo 6.° de esta Ley;
 
@@ -251,7 +267,9 @@ I. Evaluación del desempeño estatal en materia de competitividad para la atrac
 
 II. Seguimiento y retroalimentación de la política estatal de promoción de inversiones y de los instrumentos de planeación aplicables en esta materia;
 
-III. Análisis de los informes de actividades del organismo público descentralizado Invierte en Jalisco y del fondo referido en el artículo 6º de esta Ley;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+III. Análisis de los informes de actividades del fondo referido en el artículo 6° de esta Ley;
 
 IV. Diagnóstico y rendición de cuentas sobre el uso y aplicación de recursos del Sistema Estatal de Promoción de Inversiones, valoración de la suficiencia de los montos disponibles y, en su caso, solicitud de nuevas asignaciones, en los términos de lo señalado por la Ley del Presupuesto de Egresos correspondiente;
 
@@ -275,197 +293,59 @@ Con la periodicidad establecida en la normatividad interior o en oficio de instr
 
 ###### Artículo 17.
 
-Se crea el organismo público descentralizado de la administración pública estatal, denominado Invierte en Jalisco, el cual estará dotado de personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Promoción Económica, que se especializa en la promoción de inversiones productivas en el estado de Jalisco.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 18.
 
-El patrimonio de Invierte en Jalisco se integrará con los bienes que legítimamente adquiera en propiedad bajo cualquier título. Sus recursos financieros serán los que determine anualmente el Presupuesto de Egresos del Estado, sumados al importe que obtenga por la prestación de servicios especializados o por los incentivos que le correspondan, y al remanente en las cuentas, acciones, títulos y operaciones de crédito de los que sea titular o beneficiario.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 19.
 
-El organismo público descentralizado Invierte en Jalisco tendrá las siguientes atribuciones:
-
-I. Definir las áreas prioritarias, las cadenas productivas preferenciales y los sectores estratégicos de la economía a los que deberá dirigirse de manera preeminente la política estatal de promoción de inversiones, conforme a las directrices que deriven de la Constitución Política del Estado de Jalisco y las leyes de desarrollo económico que de ella dimanan, y los lineamientos que establezcan el Plan Estatal de Desarrollo y el Programa Especial de Promoción de Inversiones;
-
-II. Intervenir en la formulación y actualización del Plan Estatal de Desarrollo y del Programa Especial de Promoción de Inversiones, en lo que concierne a la definición y revisión de programas, proyectos, objetivos, metas e indicadores en materia de atracción, captación y concreción de inversiones productivas;
-
-III. Emitir, evaluar y actualizar su Programa Institucional y sus Programas Operativos Anuales;
-
-IV. Realizar todo tipo de acciones para la atracción, captación y concreción de inversiones productivas, con apego a los principios establecidos en esta Ley;
-
-V. Suscribir convenios y acuerdos de coordinación, colaboración o asociación con todo tipo de personas físicas o jurídicas de carácter público, privado o social, con el objeto de acrecentar los alcances y mejorar los resultados de la política estatal de promoción de inversiones;
-
-VI. Otorgar incentivos para la captación y concreción de proyectos de inversión productiva, dentro de los rangos previstos por esta Ley;
-
-VII. Integrar y custodiar la documentación de los casos de inversión, y ordenar la realización de todo tipo de estudios que los sustenten;
-
-VIII. Monitorear el desenvolvimiento de la política estatal de promoción de inversiones, y hacer sugerencias al titular del Poder Ejecutivo de la entidad sobre las medidas que pueden adoptarse para elevar su desempeño;
-
-IX. Proponer al Consejo del Sistema Estatal de Promoción de Inversiones la constitución y equipamiento de reservas territoriales para fines productivos y sugerir proyectos para la dotación de infraestructura que sean necesarios para mejorar la competitividad para la atracción de inversiones del estado de Jalisco;
-
-X. Prestar servicios especializados de capacitación y asesoría para la atracción, captación y concreción de inversiones productivas;
-
-XI. Dar seguimiento a todos los Casos de Inversión aprobados por el Consejo del Sistema Estatal de Promoción de Inversiones, por el Comité Técnico del fondo señalado en el artículo 6° de esta Ley o por su propio Consejo Directivo; verificar el cumplimiento de las metas y compromisos pactados, e intervenir en la solución de los problemas e imprevistos que pudieran suscitarse durante las etapas de instrumentación, ejecución y evaluación del proyecto de inversión, inclusive después de su término;
-
-XII. Recibir, sustanciar y resolver los recursos administrativos que se interpongan en contra de las resoluciones del Comité Técnico del fondo contemplado en el artículo 6° de esta Ley;
-
-XIII. Recibir e integrar los recursos administrativos que en materia de otorgamiento de incentivos y Apoyos se interpongan en contra de las resoluciones de su Consejo Directivo o del Consejo del Sistema Estatal de Promoción de Inversiones y remitirlos a este último órgano por conducto de su Secretario Técnico, para que dicte la resolución definitiva;
-
-XIV. Realizar y publicar todo tipo de estudios e investigaciones en materia de promoción de inversiones;
-
-XV. Emitir su reglamentación interior y dictar las políticas y lineamientos que sean necesarios para el correcto ejercicio de sus atribuciones;
-
-XVI. Administrar su patrimonio y su presupuesto sin más limitaciones que las establecidas por la legislación aplicable en materia de responsabilidad hacendaria, control patrimonial y fiscalización superior;
-
-XVII. Proponer al Gobernador del Estado iniciativas para enajenación de bienes inmuebles, propiedad del organismo, para actos de promoción a la inversión del Estado, en los términos de lo señalado en esta Ley y siempre y cuando así conste en los títulos de adquisición correspondientes, y
-
-XVIII. Las demás que determine esta Ley u otros ordenamientos aplicables.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 20.
 
-Invierte en Jalisco se organizará internamente conforme lo determine su propia reglamentación y contará con el personal que requiera para el ejercicio de sus atribuciones.
-
-Los empleados de este organismo público descentralizado se reputarán como servidores públicos para todos los efectos legales; sus prestaciones de seguridad social serán las que determina la Ley del Instituto de Pensiones del Estado de Jalisco; sus relaciones laborales se regirán conforme a lo dispuesto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, y su régimen disciplinario será el que establecen la Constitución Política del Estado de Jalisco y la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
-
-El Director Ejecutivo del organismo fungirá como jefe de personal para todos los efectos legales.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 21.
 
-El órgano superior del organismo público descentralizado Invierte en Jalisco será su Consejo Directivo, quienes contarán con derecho a voz y voto, y el cual quedará integrado de la siguiente forma:
-
-I. Un Presidente Ejecutivo, que será el Secretario de Promoción Económica del Gobierno del Estado, quien lo presidirá;
-
-II. Un Presidente Honorífico, designado por el Gobernador del Estado conforme al procedimiento establecido por esta Ley;
-
-III. El Secretario de Finanzas;
-
-IV. El Secretario de Desarrollo Rural;
-
-V. El Secretario de Turismo;
-
-VI. El Secretario de Desarrollo Urbano;
-
-VII. El Secretario de Trabajo y Previsión Social;
-
-VIII. El Secretario de Planeación;
-
-IX. El Presidente del Consejo Empresarial Mexicano de Comercio Exterior, Inversión y Tecnología para la Región Occidente, COMCE de Occidente, Asociación Civil;
-
-X. El Coordinador del Consejo de Cámaras Industriales de Jalisco;
-
-XI. El Presidente del Consejo Directivo de la Cámara de Comercio, Servicios y Turismo de Guadalajara;
-
-XII. El Presidente del Centro Empresarial de Jalisco, Sindicato Patronal, y
-
-XIII. El Presidente del Consejo Agropecuario de Jalisco.
-
-A las sesiones del Consejo Directivo acudirá el Director Ejecutivo de Invierte en Jalisco, quien fungirá como Secretario y podrá participar en los debates con derecho a voz.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 22.
 
-Cada miembro titular del Consejo Directivo de Invierte en Jalisco podrá acreditar un suplente único para que lo represente en las sesiones con plenitud de derechos y obligaciones. La designación de un nuevo suplente revocará la acreditación del anterior.
-
-Los integrantes del Consejo Directivo de Invierte en Jalisco estarán obligados a guardar confidencialidad absoluta respecto de la información de personas morales o físicas privadas de los casos que conozcan, así como de los planes de promoción que darán al Estado una ventaja comparativa respecto de otros estados o países, o de los proyectos de inversión que se encuentran en competencia, respetando lo contemplado por la normatividad de acceso e información pública.
-
-Los consejeros firmarán convenios de confidencialidad respecto de la información reservada y de los secretos profesionales e industriales que en virtud de su encargo llegaren a conocer.
-
-Asimismo deberán excusarse de intervenir en la discusión y resolución de casos de inversión en el que puedan resultar beneficiadas las empresas o corporaciones con las que tengan amistad o enemistad manifiesta, o en las que figuren como propietarios, usufructuarios, socios, empleados, asesores o accionistas ellos mismos, o cualquiera de sus familiares, hasta el tercer grado.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 23.
 
-Corresponde al Presidente del Consejo Directivo encabezar las sesiones del órgano de gobierno, validar con su firma los acuerdos y resoluciones y ejercer el voto de calidad en caso de empate.
-
-Corresponde al Presidente Honorífico acordar con el Presidente del Consejo Directivo el orden del día de las sesiones y convalidar con su firma los acuerdos y resoluciones del órgano de gobierno.
-
-El Director Ejecutivo del organismo, en su carácter de Secretario Técnico del Consejo Directivo, levantará el acta de las sesiones y resguardará la documentación correspondiente. Sus ausencias serán suplidas conforme a las previsiones de la reglamentación interna.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 24.
 
-El Presidente Honorífico será designado mediante acuerdo del Gobernador del Estado, a propuesta en terna que de manera conjunta formulen los titulares del Consejo de Cámaras Industriales del Estado de Jalisco, del Centro Empresarial de Jalisco, de la Cámara de Comercio, Servicios y Turismo de Guadalajara, del Consejo Agropecuario de Jalisco y del Consejo Empresarial Mexicano de Comercio Exterior Inversión y Tecnología para la Región Occidente. Su nombramiento será honorífico y por lo tanto no será remunerado.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 25.
 
-El Consejo Directivo de Invierte en Jalisco sesionará de manera ordinaria con la periodicidad que determine su reglamentación interna y de forma extraordinaria cuantas veces sea necesario, a juicio del Presidente, del Presidente Ejecutivo o del Presidente Empresarial.
-
-La reglamentación interna dispondrá las formalidades para la emisión y notificación de las respectivas convocatorias.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 26.
 
-Las sesiones y decisiones del Consejo Directivo serán válidas cuando concurran y estén presentes al menos seis de sus integrantes, entre ellos el Presidente o quien haga sus veces.
-
-Sus acuerdos serán válidos cuando, sometidos a votación, reciban el apoyo de la mayoría absoluta de los miembros presentes.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 27.
 
-Son atribuciones del Consejo Directivo del organismo público descentralizado Invierte en Jalisco las siguientes:
-
-I. Intervenir en el ámbito de su competencia, en el proceso de planeación democrática del desarrollo económico y emitir los instrumentos de planeación que le competan, con base en los ordenamientos aplicables;
-
-II. Suscribir todo tipo de instrumentos jurídicos que sean compatibles con sus fines;
-
-III. Emitir el anteproyecto presupuestal del organismo y remitirlo a los órganos competentes;
-
-IV. Aprobar el Presupuesto Anual de Egresos del organismo, a partir de los recursos autorizados para este organismo en el Presupuesto de Egresos del Estado;
-
-V. Recibir, analizar y emitir pronunciamientos sobre los informes de actividades que le remita el Director Ejecutivo;
-
-VI. Dictar resolución sobre los casos de inversión que sean sometidos a su consideración, cuando el monto de los incentivos y apoyos aplicables se encuentre dentro de los rangos cuya autorización competa al organismo;
-
-VII. Conocer las resoluciones dictadas por el Consejo del Sistema Estatal de Promoción de Inversiones y por el Comité Técnico del Fondo señalado en el artículo 6° de esta Ley, respecto de los Casos de Inversión que sean sometidos a su consideración;
-
-VIII. Remitir al Consejo del Sistema Estatal de Promoción de Inversiones, o al Comité Técnico del Fondo mencionado en el artículo 6° de esta Ley, la documentación de los casos de inversión que respectivamente les competan, en razón de la cuantía de los incentivos y apoyos que se requieren;
-
-IX. Emitir lineamientos y directrices sobre el seguimiento que deba darse a los casos de inversión aprobados y proveer lo necesario para su atención y verificación, independientemente del órgano que los hubiere resuelto;
-
-X. Resolver las solicitudes de ampliación, modificación y revocación de los acuerdos y resoluciones que autoricen la asignación de los incentivos y apoyos previstos en esta ley, siempre que su cuantía no rebase el límite superior sobre el que este órgano puede otorgar incentivos;
-
-XI. Analizar y formular recomendaciones al Consejo del Sistema Estatal de Promoción de Inversiones, respecto de las solicitudes de ampliación, modificación y revocación de los acuerdos y resoluciones que autoricen la asignación de los incentivos y apoyos previstos en esta ley, cuando su monto rebase el límite superior sobre el que este Consejo Directivo sea competente;
-
-XII. Dictar resolución sobre los recursos administrativos que se interpongan en contra de las resoluciones del Comité Técnico del Fondo mencionado en el artículo 6° de esta Ley y dictar las medidas cautelares que se estimen procedentes;
-
-XIII. Sin perjuicio de las potestades del Director Ejecutivo para la promoción y atracción de inversiones, autorizar la conformación de misiones y comitivas para la promoción de inversiones fuera del estado de Jalisco y dotarlas de recursos;
-
-XIV. Aprobar los reglamentos interiores y demás disposiciones inherentes a la organización y funcionamiento del organismo;
-
-XV. Autorizar o rechazar los acuerdos de la delegación de facultades de representación y administración que le solicite el Director Ejecutivo;
-
-XVI. Integrar, en los términos de lo establecido por esta Ley y su Reglamento, el expediente que habrá de darle respaldo a las iniciativas de enajenación o traslado de dominio de bienes propiedad del organismo y que haya que ponerse a consideración de la Junta de Gobierno, y
-
-XVII. Las demás que le asignen éste u otros ordenamientos.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 28.
 
-Para la ejecución de los acuerdos del Consejo Directivo y el ejercicio de las atribuciones que no están expresamente conferidas a ese órgano de gobierno, así como para la conducción de los asuntos administrativos, Invierte en Jalisco contará con un Director Ejecutivo el cual para su nombramiento deberá contar con nivel académico mínimo de licenciatura y preferentemente de maestría, reconocida experiencia de cuando menos cinco años en labores de promoción y atracción de inversión directa, dominar el idioma inglés, el cual será nombrado por el Gobernador del Estado a sugerencia del Consejo Directivo del organismo Invierte en Jalisco.
-
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-La reglamentación interior del organismo determinará los demás órganos directivos y las áreas técnicas y operativas que se requieran para el cabal ejercicio de sus facultades y delimitará el ámbito de competencia específico de cada uno de ellos.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 29.
 
-La representación legal del organismo público descentralizado Invierte en Jalisco recae en su Director Ejecutivo, quien podrá delegarla en otros servidores públicos de la misma institución, previo acuerdo ratificado por el Consejo Directivo.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ###### Artículo 30.
 
-Para el financiamiento de las acciones de promoción de inversiones, la adquisición y equipamiento de reservas territoriales para fines productivos, la subvención de proyectos de infraestructura de servicios o de logística empresarial y para el otorgamiento de los incentivos económicos a los que se refiere esta ley, el titular del Ejecutivo del Estado podrá crear el Fondo señalado en el artículo 6° de esta Ley, bajo la estructura y forma jurídica que mejor convenga al cumplimiento de su objetivo general.
-
-Ello sin menoscabo de quienes integren el Comité Técnico o su ente de gobierno, deberán acreditar fehacientemente el cumplimiento de cuando menos tres de los siguientes requisitos:
-
-l. Contar con experiencia mínima de dos años en actividades de promoción de inversión directa;
-
-II. Contar con conocimientos de los beneficios socioeconómicos de la inversión directa;
-
-III. Contar con conocimientos especializados en las áreas de desarrollo económico o finanzas, en términos y grados que establezca el Reglamento de esta Ley,
-
-IV. Contar con conocimientos generales de la actividad económica y los sectores productivos del estado que tengan incidencia en la atracción de inversión, y
-
-V. Contar con conocimientos generales de evaluación de proyectos.
-
-Quiénes integren el Comité Técnico o el ente de gobierno mencionado en el párrafo anterior, ejercerán siempre su encargo de manera honorífica, bajo un período de dos años, con posibilidad de reelección, los cuales serán nombrados por el Consejo Directivo del organismo público Invierte en Jalisco, a partir de las propuestas de candidatos que remitan sus integrantes.
-
-Las asignaciones de promoción de inversiones y de infraestructura productiva que llegase a realizar el Fondo a que hace referencia este artículo, deberán atender cabalmente los criterios establecidos en los artículos 5.°, 32, 33, 38 y demás aplicables de esta Ley.
-
-El Reglamento de esta Ley establecerá, en el caso de su aprobación, las atribuciones, estructura y facultades de este Fondo, en apego irrestricto a los objetivos contemplados en esta Ley.
+(DEROGADO, P.O. 14 DE JUNIO DE 2014)
 
 ## Título Segundo. De las Actividades Sujetas a la Promoción de Inversiones
 
@@ -495,7 +375,9 @@ I. Subsidios o transferencias directas, reembolsables o no, de recursos pecuniar
 
 II. Pago parcial o total del importe para el arrendamiento de bienes muebles o inmuebles, con carácter reembolsable o no reembolsable;
 
-III. Asignación en préstamo, comodato, custodia, administración o cualquier otra forma lícita de usufructo, debidamente documentada, de bienes muebles o inmuebles propiedad del organismo público descentralizado Invierte en Jalisco, o fideicomitidos al Fondo señalado en el artículo 6° de esta Ley;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+III. Asignación en préstamo, comodato, custodia, administración o cualquier otra forma lícita de usufructo, debidamente documentada, de bienes muebles o inmuebles fideicomitidos al Fondo señalado en el artículo 6° de esta Ley;
 
 IV. Transmisión onerosa o gratuita de la propiedad, ocupación o dominio de bodegas, naves, oficinas, edificios industriales, talleres, instalaciones o terrenos con vocación productiva pertenecientes al Estado o a sus organismos, o que se encuentren fideicomitidos al Fondo señalado en el artículo 6.° de esta Ley y que para dichos fines así conste en su escritura pública, previa autorización del Consejo Directivo, condicionada al cumplimiento de metas preestablecidas en la respectiva resolución y previa suscripción de los contratos o instrumentos jurídicos necesarios;
 
@@ -505,7 +387,9 @@ VI. Ejecución o financiamiento de obras civiles y acciones urbanísticas para l
 
 VII. Pago parcial de los sueldos, salarios, honorarios o prestaciones de operarios, técnicos, peritos, consultores o profesionistas locales, nacionales o extranjeros, cuya contratación contribuya al desarrollo tecnológico del Estado, y
 
-VIII. Cualquier otro tipo de incentivo, que según sus competencias determinen el Consejo del Sistema Estatal de Promoción de Inversiones, el Consejo Directivo del organismo público descentralizado Invierte en Jalisco o el Comité Técnico del Fondo señalado en el artículo 6° de esta Ley, siempre y cuando se justifique, funde y motive debidamente.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+VIII. Cualquier otro tipo de incentivo, que según sus competencias determinen el Consejo del Sistema Estatal de Promoción de Inversiones, la Secretaría o el Comité Técnico del Fondo señalado en el artículo 6° de esta Ley, siempre y cuando se justifique, funde y motive debidamente.
 
 ###### Artículo 34.
 
@@ -527,17 +411,23 @@ La normatividad interior de cada uno de los órganos del Sistema Estatal de Prom
 
 Los incentivos se ofrecerán y, en su caso, se otorgarán en la cuantía necesaria para atraer, captar o concretar los proyectos de inversión prospectados.
 
-El Consejo del Sistema Estatal para la Promoción de Inversiones, el Consejo Directivo del organismo público descentralizado Invierte en Jalisco, y el Comité Técnico del Fondo mencionado en el artículo 6° de esta Ley, en el ejercicio de las atribuciones que esta Ley les otorga, estarán facultados para autorizar el otorgamiento de incentivos, mediante resolución que recaiga a cada uno de los casos de inversión que se sometan a su consideración, en las siguientes cuantías:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+
+El Consejo del Sistema Estatal para la Promoción de Inversiones, la Secretaría y el Comité Técnico del Fondo mencionado en el artículo 6° de esta Ley, en el ejercicio de las atribuciones que esta Ley les otorga, estarán facultados para autorizar el otorgamiento de incentivos, mediante resolución que recaiga a cada uno de los casos de inversión que se sometan a su consideración, en las siguientes cuantías:
 
 I. El Comité Técnico del Fondo mencionado en el artículo 6º de esta Ley, en caso de que el Titular del Poder Ejecutivo del Estado valoré conveniente su creación, tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos cuando la cuantía de estos beneficios sea inferior a 430 mil veces el salario mínimo general correspondiente al área geográfica a la que pertenezca la ciudad de Guadalajara, Jalisco, vigente al momento en que se expida la resolución respectiva;
 
-II. El Consejo Directivo del organismo público descentralizado Invierte en Jalisco tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos, por montos cuya cuantía se ubique entre 430 mil y 690 mil veces el salario mínimo general correspondiente al área geográfica a la que pertenezca la ciudad de Guadalajara, Jalisco, vigente al momento en que se apruebe la resolución respectiva, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+II. La Secretaría tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos, por montos cuya cuantía se ubique entre 430 mil y 690 mil veces el salario mínimo general correspondiente al área geográfica a la que pertenezca la ciudad de Guadalajara, Jalisco, vigente al momento en que se apruebe la resolución respectiva; y
 
 III. El Consejo del Sistema Estatal de Promoción de Inversiones tendrá facultades para autorizar el otorgamiento de incentivos a proyectos productivos cuando la cuantía de los beneficios supere el equivalente a 690 mil veces el salario mínimo general de la ciudad de Guadalajara, vigente al momento en que se apruebe la resolución respectiva.
 
 Los diversos órganos e instancias del Sistema Estatal de Promoción de Inversiones podrán recomendar el otorgamiento de incentivos a proyectos productivos, a la instancia que sea competente para autorizarlos, siempre que la recomendación se transmita por escrito, junto con la documentación inherente al caso de inversión respectivo.
 
-En caso de que no realice la creación de Fondo contemplado del artículo 6° de esta Ley, las facultades contempladas en el presente artículo para el mismo, serán otorgadas al organismo público descentralizado Invierte en Jalisco.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+En caso de que no realice la creación de Fondo contemplado del (sic) artículo 6° de esta Ley, las facultades contempladas en el presente artículo para el mismo, serán otorgadas a la Secretaría.
 
 ###### Artículo 37.
 
@@ -545,7 +435,9 @@ Corresponde al Consejo del Sistema Estatal de Promoción de Inversiones autoriza
 
 Se consideran proyectos de alto impacto todas las inversiones productivas que, por la cuantía de los incentivos susceptibles de obtención, requieran ser resueltos por el Consejo del Sistema Estatal de Promoción de Inversiones, en los términos del artículo anterior.
 
-Se clasifican, asimismo, como proyectos de alto impacto, todas las inversiones productivas o proyectos de infraestructura que, independientemente de su monto o del tamaño de los incentivos que sea susceptible de recibir, se consideren imprescindibles para la consolidación de alguna cadena productiva relevante en el Estado, para detonar el desarrollo económico o la creación de empleos en algún municipio o región que se considere prioritario por parte del Consejo Estatal de Promoción Económica de Jalisco, el Consejo Estatal para la Competitividad, y demás agencias estatales de desarrollo económico, o para favorecer la incursión de la planta productiva jalisciense en algún sector productivo que el Consejo del Sistema Estatal de Promoción de Inversiones, el Consejo Directivo de Invierte en Jalisco, el Plan Estatal de Desarrollo o los instrumentos de planeación derivados de éste consideren estratégicos para el desarrollo económico de la entidad.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+Se clasifican, asimismo, como proyectos de alto impacto, todas las inversiones productivas o proyectos de infraestructura que, independientemente de su monto o del tamaño de los incentivos que sea susceptible de recibir, se consideren imprescindibles para la consolidación de alguna cadena productiva relevante en el Estado, para detonar el desarrollo económico o la creación de empleos en algún municipio o región que se considere prioritario por parte del Consejo Estatal de Promoción Económica de Jalisco, el Consejo Estatal para la Competitividad, y demás agencias estatales de desarrollo económico, o para favorecer la incursión de la planta productiva jalisciense en algún sector productivo que el Consejo del Sistema Estatal de Promoción de Inversiones, la Secretaría, el Plan Estatal de Desarrollo o los instrumentos de planeación derivados de éste consideren estratégicos para el desarrollo económico de la entidad.
 
 ###### Artículo 38.
 
@@ -579,15 +471,13 @@ XIII. Certificaciones internacionales susceptibles de ser conferidas a los produ
 
 ### Capítulo II. De los Procedimientos para la Promoción de Inversiones
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 ###### Artículo 39.
 
-Corresponde al Consejo Directivo del organismo público descentralizado Invierte en Jalisco dictar los procedimientos y manuales para la formulación, aprobación, ejecución, supervisión y evaluación de las políticas, programas, proyectos y acciones tendientes a la atracción de inversiones, con base en las prioridades establecidas a través del Sistema Estatal de Planeación Democrática, y de acuerdo con los lineamientos y criterios generales definidos por el Consejo del Sistema Estatal de Promoción de Inversiones.
+Corresponde a la Secretaría dictar los procedimientos y manuales para la formulación, aprobación, ejecución, supervisión y evaluación de las políticas, programas, proyectos y acciones tendientes a la atracción de inversiones, con base en las prioridades establecidas a través del Sistema Estatal de Planeación Democrática, y de acuerdo con los lineamientos y criterios generales definidos por el Consejo del Sistema Estatal de Promoción de Inversiones.
 
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
-
-La participación en ferias y exposiciones promocionales, la realización de campañas publicitarias en medios de comunicación y el envío de misiones y comitivas para la promoción de inversiones, cuando se realicen fuera del territorio jalisciense y sean sufragados con recursos propios de Invierte en Jalisco o por el Fondo señalado en el artículo 6° de esta Ley, requerirán de la autorización del Consejo Directivo de Invierte en Jalisco, para lo cual se integrará un expediente en el que se consignarán la descripción detallada del evento o, en su caso, del proyecto, la erogación requerida y los beneficios que se pretende obtener con su ejecución.
-
-En el supuesto caso en que, a juicio del Director Ejecutivo de Invierte en Jalisco, se requiera efectuar un viaje que por razones de notoria urgencia no haya sido presentado previamente para su autorización ante el Consejo Directivo, éste podrá ser autorizado por el propio Director Ejecutivo, quien informará el Consejo Directivo en la siguiente· reunión ordinaria del mismo a partir de la conclusión del viaje, acerca de los motivos de su aprobación, costos y resultados del mismo.
+La participación en ferias y exposiciones promocionales, la realización de campañas publicitarias en medios de comunicación y el envío de misiones y comitivas para la promoción de inversiones, cuando se realicen fuera del territorio jalisciense y sean sufragados con recursos de la Secretaría o por el Fondo señalado en el artículo 6° de esta Ley, requerirán de la autorización del Secretario de Desarrollo Económico, para lo cual se integrará un expediente en el que se consignarán la descripción detallada del evento o, en su caso, del proyecto, la erogación requerida y los beneficios que se pretende obtener con su ejecución.
 
 ###### Artículo 40.
 
@@ -595,11 +485,17 @@ Los actos concernientes a la constitución, administración, equipamiento y util
 
 ###### Artículo 41.
 
-Los procedimientos, requisitos y plazos para la tramitación, autorización, otorgamiento, supervisión y evaluación de los incentivos previstos en esta ley se establecerán en las normas específicas que emitan, dentro de su ámbito particular de competencias, el Consejo del Sistema Estatal de Promoción de Inversiones, el Consejo Directivo de Invierte en Jalisco y el Comité Técnico del Fondo señalado en el artículo 6° de esta Ley, conforme a las siguientes bases generales:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
 
-I. A propuesta de cualquiera de los integrantes del Consejo de; Sistema Estatal de Promoción de Inversiones, del Consejo Directivo de Invierte en Jalisco y el Comité Técnico del Fondo mencionado en el artículo 6° de esta Ley, o de los municipios de la entidad por conducto de sus presidentes municipales, las autoridades responsables de la aplicación de esta Ley, podrán generar ofertas generales o específicas, con vigencia predefinida, para el otorgamiento de incentivos en favor de aquellas personas u organizaciones que se identificarán como prospectos para la captación de inversiones productivas;
+Los procedimientos, requisitos y plazos para la tramitación, autorización, otorgamiento, supervisión y evaluación de los incentivos previstos en esta Ley se establecerán en las normas específicas que emitan, dentro de su ámbito particular de competencias, el Consejo del Sistema Estatal de Promoción de Inversiones, la Secretaría y el Comité Técnico del Fondo señalado en el artículo 6° de esta Ley, conforme a las siguientes bases generales:
 
-II. Las personas o instituciones interesadas en recibir los incentivos previstos en esta ley podrán solicitarlo directamente, mediante escrito dirigido al Director Ejecutivo del organismo público descentralizado denominado Invierte en Jalisco, con las formalidades que establece la Ley del Procedimiento Administrativo del Estado de Jalisco para la tramitación de actos administrativos de naturaleza constitutiva;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+I. A propuesta de cualquiera de los integrantes del Consejo del Sistema Estatal de Promoción de Inversiones y el Comité Técnico del Fondo mencionado en el artículo 6° de esta Ley, o de los municipios de la entidad por conducto de sus presidentes municipales, las autoridades responsables de la aplicación de esta Ley, podrán generar ofertas generales o específicas, con vigencia predefinida, para el otorgamiento de incentivos en favor de aquellas personas u organizaciones que se identificarán como prospectos para la captación de inversiones productivas;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+II. Las personas o instituciones interesadas en recibir los incentivos previstos en esta Ley podrán solicitarlo directamente, mediante escrito dirigido al Secretario de Desarrollo Económico, con las formalidades que establece la Ley del Procedimiento Administrativo del Estado de Jalisco para la tramitación de actos administrativos de naturaleza constitutiva;
 
 III. A toda solicitud de asignación, modificación, desistimiento, suspensión o cancelación del otorgamiento de los incentivos previstos en esta Ley recaerá acuerdo fundado y motivado por parte de la autoridad competente;
 
@@ -609,17 +505,19 @@ V. El otorgamiento de incentivos requerirá invariablemente la celebración de u
 
 VI. La resolución de controversias relacionadas con el cumplimiento de las obligaciones asumidas por las partes en los contratos que se suscriban para el otorgamiento de los incentivos previstos en esta Ley, serán de naturaleza administrativa y se resolverán preferentemente a través de procedimientos de justicia alternativa.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 ###### Artículo 42.
 
-El seguimiento y valoración del cumplimiento de los compromisos recíprocos adquiridos en los contratos que se celebren para el otorgamiento de los incentivos previstos en esta Ley, le corresponde al Director Ejecutivo del organismo público descentralizado Invierte en Jalisco, independientemente del órgano que hubiere autorizado la resolución respectiva.
+El seguimiento y valoración del cumplimiento de los compromisos recíprocos adquiridos en los contratos que se celebren para el otorgamiento de los incentivos previstos en esta Ley, le corresponde a la Secretaría, independientemente del órgano que hubiere autorizado la resolución respectiva.
 
-Corresponde al Director Ejecutivo del organismo público descentralizado Invierte en Jalisco emprender todo tipo de acciones administrativas, jurisdiccionales o de justicia alternativa necesarios para asegurar el cumplimiento cabal de los contratos relativos al otorgamiento de incentivos, acordar su terminación anticipada o ejecutar las penalizaciones que deriven de su incumplimiento. En su caso y para tal fin, el Comité Técnico del Fondo señalado en el artículo 6 de esta Ley, deberá notificar al organismo Invierte en Jalisco de la existencia de tales controversias y promoverá la reversión de los derechos y bienes, que en su caso, se encuentren en controversia, para en favor del organismo Invierte en Jalisco.
+Corresponde a la Secretaría emprender todo tipo de acciones administrativas, jurisdiccionales o de justicia alternativa necesarios para asegurar el cumplimiento cabal de los contratos relativos al otorgamiento de incentivos, acordar su terminación anticipada o ejecutar las penalizaciones que deriven de su incumplimiento. En su caso y para tal fin, el Comité Técnico del Fondo señalado en el artículo 6° de esta Ley, deberá notificar a la Secretaría de la existencia de tales controversias y promoverá la reversión de los derechos y bienes, que en su caso, se encuentren en controversia, para en favor de la Secretaría.
 
-> <small>(F. DE E., P.O. 5 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 43.
 
-El organismo público descentralizado Invierte en Jalisco, por conducto de su representante legal, podrá solicitar a la Secretaria de Finanzas la constitución de créditos a favor de la Hacienda del Estado, y su ejecución coactiva, por los adeudos que se deriven del incumplimiento de las obligaciones contraídas en los contratos que se celebren para el otorgamiento de incentivos, para exigir el reintegro de los beneficios concedidos, para cubrir las penalizaciones que fueran aplicables, para cubrir los compromisos que deriven de convenios administrativos, judiciales o de justicia alternativa, o para resarcir los daños que se hubieren causado, previa resolución que determine su cuantía, dictada por autoridad competente.
+La Secretaría podrá solicitar a la Secretaría de Planeación, Administración y Finanzas la constitución de créditos a favor de la Hacienda del Estado, y su ejecución coactiva, por los adeudos que se deriven del incumplimiento de las obligaciones contraídas en los contratos que se celebren para el otorgamiento de incentivos, para exigir el reintegro de los beneficios concedidos, para cubrir las penalizaciones que fueran aplicables, para cubrir los compromisos que deriven de convenios administrativos, judiciales o de justicia alternativa, o para resarcir los daños que se hubieren causado, previa resolución que determine su cuantía, dictada por autoridad competente.
 
 ### Capítulo III. Del Acceso a la Información y la Protección de Datos
 
@@ -627,17 +525,23 @@ El organismo público descentralizado Invierte en Jalisco, por conducto de su re
 
 Los órganos del Sistema Estatal de Promoción de Inversiones serán sujetos obligados de las normas estatales en materia de transparencia e información pública, y conducirán bajo los principios de máxima revelación y de publicación y divulgación oportuna y veraz todas sus actividades relacionadas, la rendición de informes, el ejercicio presupuestal, la divulgación de sus actividades, la administración de sus sistemas de información y la conservación y resguardo de sus archivos.
 
-El Comité de Clasificación de Información Pública y la Unidad de Transparencia e Información de la Secretaría de Promoción Económica lo será también del Consejo del Sistema Estatal de Promoción de Inversiones.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
-El organismo público descentralizado Invierte en Jalisco contará con órganos propios para la clasificación de la información pública, la difusión de la información de carácter fundamental que obre en su poder, la recepción y trámite de solicitudes de información y para la administración, manejo, cuidado y consulta de los documentos públicos en su poder, en los términos de la leyes aplicables. Estos mismos órganos serán competentes para la administración, conservación y accesibilidad de la información del Fondo mencionado en el artículo 6° de esta Ley, en el caso de su constitución.
+El Comité de Clasificación de Información Pública y la Unidad de Transparencia e Información de la Secretaría lo será también del Consejo del Sistema Estatal de Promoción de Inversiones.
 
-Corresponde, asimismo, al organismo público descentralizado Invierte en Jalisco el resguardo, conservación, custodia, administración, clasificación y accesibilidad de todos los expedientes que contengan la información de los casos de inversión que sean atendidos por las diferentes instancias del Sistema Estatal de Promoción de Inversiones, incluida la resolución que recaiga sobre ellos y los documentos relativos a su seguimiento.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+Corresponde, asimismo, a la Secretaría el resguardo, conservación, custodia, administración, clasificación y accesibilidad de todos los expedientes que contengan la información de los casos de inversión que sean atendidos por las diferentes instancias del Sistema Estatal de Promoción de Inversiones, incluida la resolución que recaiga sobre ellos y los documentos relativos a su seguimiento.
 
 ###### Artículo 45.
 
 Los integrantes del Sistema Estatal de Promoción de Inversiones observarán las disposiciones legales para garantizar la protección, confidencialidad o reserva de la información que obre en su poder, cuando contenga secretos industriales, secretos profesionales, datos personales, acervos sobre los que existan derechos de propiedad intelectual o cualquier otro supuesto, información clasificada como estratégica o privada por los inversionistas y solicitantes, bajo los términos de esta Ley, o cualquier otra información sobre la que exista mandamiento legal que restrinja su acceso, bajo la normatividad de acceso e información pública aplicable.
 
-Los titulares y los servidores públicos que formen parte del Consejo del Sistema Estatal de Promoción de Inversiones, del organismo público descentralizado Invierte en Jalisco y del Fondo señalado en el artículo 6° de esta Ley, serán sujetos de responsabilidad administrativa, civil o penal, según corresponda, por las infracciones a los preceptos contenidos en el párrafo anterior.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+Los titulares y los servidores públicos que formen parte del Consejo del Sistema Estatal de Promoción de Inversiones, de la Secretaría y del Fondo señalado en el artículo 6° de esta Ley, serán sujetos de responsabilidad administrativa, civil o penal, según corresponda, por las infracciones a los preceptos contenidos en el párrafo anterior.
 
 La normatividad interior de los órganos del Sistema Estatal de Promoción de Inversiones, y sus correspondientes manuales de organización y procedimientos dispondrán las medidas necesarias para la plena identificación de los servidores públicos que tengan acceso a los expedientes, documentos o bases de datos que contengan información confidencial o reservada, a fin de deslindar las responsabilidades en los casos de revelación ilegal o uso indebido.
 
@@ -715,7 +619,7 @@ SÉPTIMO. Las solicitudes de apoyo que presenten las personas físicas o jurídi
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
-GUADALAJARA , JALISCO, 24 DE ENERO DE 2012
+GUADALAJARA, JALISCO, 24 DE ENERO DE 2012
 
 Diputado Presidente
 
@@ -750,3 +654,21 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE JUNIO DE 2014.
+
+Primero. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Segundo. Las obligaciones y atribuciones que la Ley para la Promoción de Inversiones en el Estado de Jalisco confería al organismo que mediante este decreto se extingue, pasarán a la Secretaría de Desarrollo Económico.
+
+Tercero. Se autoriza al Titular del Poder Ejecutivo para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, lleve a cabo las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento de este decreto.
+
+Cuarto. En tanto se realizan las adecuaciones o modificaciones reglamentarias correspondientes para el debido cumplimiento del presente decreto, continuarán aplicándose las disposiciones reglamentarias vigentes.
+
+Quinto. Todos los recursos materiales, financieros y humanos del Organismo Público Descentralizado "Invierte en Jalisco", pasarán a formar parte de la Secretaría de Desarrollo Económico.
+
+Sexto. Para los efectos del artículo anterior, deberán respetarse íntegramente y en todo momento los derechos laborales de los servidores públicos del Organismo Público Descentralizado que se extingue.
+
+Séptimo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
