@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2014-05-14"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2014, NO APLICA AL ARTICULADO DEL DECRETO 1201/2013 X P.E PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -173,7 +171,7 @@ La función social educativa de las universidades y demás instituciones de educ
 
 La educación que impartan el Estado, los municipios, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el segundo párrafo del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-l. Contribuir al desarrollo integral del educando, con perspectiva de género, en todo el Sistema Educativo Estatal, en un marco de equidad que permita una convivencia social armónica y justa;
+I. Contribuir al desarrollo integral del educando, con perspectiva de género, en todo el Sistema Educativo Estatal, en un marco de equidad que permita una convivencia social armónica y justa;
 
 II. Favorecer el desarrollo de las capacidades del educando de observación, análisis y reflexión críticos para la construcción de sus conocimientos;
 
@@ -202,6 +200,10 @@ XII. Impulsar el desarrollo armónico del educando para la formación de sus con
 XIII. Crear conciencia de la preservación de la salud a través de la alimentación saludable, el ejercicio físico y estimular la práctica del deporte;
 
 XIV. Desarrollar e implementar las estrategias preventivas para la sensibilización y toma de conciencia a los educandos sobre los perjuicios que ocasionan las sustancias nocivas y tóxicas como los narcóticos, estupefacientes, sicotrópicos, alcohol, tabaco, entre otras que determina la Ley General de Salud;
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+Apoyar y cooperar, en la medida de lo posible, a los centros de prevención y organizaciones no gubernamentales que tengan como objetivo reducir el abuso en el consumo del alcohol o sus consecuencias, o brindar tratamiento a las personas que así lo requieran, siempre que sean congruentes con los planes y programas establecidos en esta Ley;
 
 XV. Formar personas responsables y respetuosas de la ley, con actitudes favorables a la participación comunitaria, la cooperación y la convivencia civilizada; procurar el aprecio y la práctica de la conducta ética;
 
@@ -3944,3 +3946,7 @@ De conformidad con el Artículo Séptimo, se dispondrán de ciento ochenta días
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, para que la Unidad Especializada para la Investigación y Persecución de los Delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sea elevada a rango de Fiscalía Especializada en el plazo de un año contado a partir de la publicación del presente Decreto, y contará con el mismo término para implementar las acciones necesarias a efecto de dar cabal cumplimiento a las obligaciones previstas en el cuerpo del presente Decreto.
+
+P.O. 14 DE JUNIO DE 2014.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE CHIHUAHUA.
