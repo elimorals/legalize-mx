@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-97975"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-14"
-last_updated: "2014-01-11"
+last_updated: "2014-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2014
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 14 de diciembre de 2013.
 
@@ -513,9 +511,17 @@ Las empresas que hayan obtenido la exención del impuesto sobre nóminas en los 
 
 B. Asimismo, se les reducirá el 100% de la tasa del Impuesto sobre Nóminas y se ampliará dicho beneficio para el segundo año, en los supuestos siguientes:
 
-I. Para las empresas que contraten a profesionistas egresados en el presente ejercicio fiscal o en el inmediato anterior; o
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
-II. Para las empresas que contraten a personas que pertenezcan a grupos vulnerables en los términos del Código de Asistencia Social del Estado de Jalisco, entendiéndose para efectos de la normatividad en cita, que son sujetos de asistencia social entre otros, las personas con capacidades diferentes de conformidad con la Ley para la Atención y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco y, adultos mayores, considerados como tales a los hombres o mujeres que tengan más de sesenta años de edad.
+I. Para las empresas que contraten a profesionistas egresados en el presente ejercicio fiscal o en el inmediato anterior;
+
+> <small>(REFORMADA P.O. 14 DE JUNIO DE 2014)</small>
+
+II. Para las empresas que contraten a personas que pertenezcan a grupos vulnerables en los términos del Código de Asistencia Social del Estado de Jalisco, entendiéndose para efectos de la normatividad en cita, que son sujetos de asistencia social entre otros, las personas con capacidades diferentes de conformidad con la Ley para la Atención y Desarrollo Integral de Personas con Discapacidad del Estado de Jalisco, y adultos mayores, considerados como tales a los hombres o mujeres que tengan más de sesenta años de edad; o
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+
+III. Para las empresas que contraten a mujeres jefas de familia.
 
 Para que procedan cualquiera de las reducciones antes señaladas en la tasa, será necesario además cumplir con los requisitos y la normatividad que al efecto establezca la Secretaría de Planeación, Administración y Finanzas, la cual deberá ser publicada en el Periódico Oficial “El Estado de Jalisco”, dentro de los 30 días siguientes a aquél en que entre en vigor la presente Ley de Ingresos.
 
@@ -2778,3 +2784,11 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE JUNIO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. La Secretaría de Planeación, Administración y Finanzas deberá publicar dentro de los 30 días siguientes a la entrada en vigor del presente decreto, los requisitos y normatividad que regirán para la procedencia de la reducción establecida en el presente decreto.
