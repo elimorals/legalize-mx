@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-junta-local-de-conciliacion-y-40160"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-12"
-last_updated: "1998-08-12"
+last_updated: "2014-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE CIUDAD JUAREZ, CHIHUAHUA
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE CIUDAD JUAREZ CHIHUAHUA
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE CIUDAD JUÁREZ CHIHUAHUA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE CIUDAD JUÁREZ, CHIHUAHUA, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial No. 64 del Estado de Chihuahua, el miércoles 12 de Agosto de 1998.
 
@@ -1108,3 +1110,13 @@ PRESIDENTE DE LA JUNTA
 ESPECIAL NO. CUATRO
 
 LIC. BENITO ORTIZ FELIX.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE JUNIO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Reglamento abroga cualquier otro reglamento que hubiera estado en vigor con anterioridad.
+
+TERCERO. Todo lo establecido en el presente Reglamento relativo a equipamiento, mobiliario, material de trabajo y en general recursos materiales y demás activos, estará siempre sujeto a la disponibilidad presupuestal aprobada por la Secretaria de Hacienda del Estado.
