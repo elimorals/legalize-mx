@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-cuidado-de-los-animales-del-estado-de-90455
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-29"
-last_updated: "2012-11-29"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
@@ -83,6 +85,18 @@ IX. Médico: médico veterinario zootecnista titulado con cédula profesional vi
 
 X. Consejo: Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+###### Artículo 3° Bis.
+
+Los aspectos fundamentales para la protección y el debido cuidado de los animales por parte de las autoridades con la participación de la sociedad son los siguientes:
+
+I. La salud;
+
+II. La alimentación; y
+
+III. El buen trato.
+
 ### Capítulo II. De la competencia
 
 ###### Artículo 4.
@@ -136,6 +150,30 @@ I. Otorgar, a través del inspector de ganadería, las órdenes de sacrificio de
 II. Inspeccionar los rastros y otros lugares donde se sacrifiquen especies domésticas productivas, para verificar el estricto apego a las normas de la materia, y
 
 III. Las demás que establezcan la presente ley, los convenios que celebre el titular del Poder Ejecutivo del Estado, la Ley de Fomento y Desarrollo Pecuario del Estado de Jalisco y demás normatividades aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+###### Artículo 7° Bis.
+
+Corresponde a las Agencias del Ministerio Público en materia de violencia contra los animales:
+
+I. Auxiliarse de peritos del Instituto Jalisciense de Ciencias Forenses en materia de medicina veterinaria y zootecnia, biología, o de carreras afines para los delitos contra los animales; y
+
+II. Las demás establecidas en la Ley Orgánica de la Fiscalía General del Estado de Jalisco, y disposiciones legales, reglamentarias y normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+
+###### Artículo 7° Ter.
+
+Corresponde a la Fiscalía General del Estado en coordinación con los municipios, las siguientes facultades:
+
+I. Crear y operar la Unidad Especializada de Protección Animal, conforme a su capacidad presupuestal, la cual estará integrada por personal capacitado en las materias de medicina veterinaria, biología o carreras afines;
+
+II. La vigilancia y prevención de los delitos derivados de actos de violencia contra los animales;
+
+III. Intervenir en los casos de delitos de violencia y crueldad en contra de animales y, en su caso, poner a disposición de las autoridades municipales, estatales o federales los animales maltratados para su resguardo, lo anterior conforme las disposiciones legales aplicables; y
+
+IV. Las demás establecidas en la presente ley, en la Ley Orgánica de la Fiscalía General del Estado de Jalisco, y en las disposiciones legales, reglamentarias y normativas aplicables.
 
 ###### Artículo 8.
 
@@ -397,9 +435,11 @@ Las instalaciones creadas para alojar temporal o permanentemente a los animales 
 
 ### Capítulo IV. De la comercialización
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 ###### Artículo 41.
 
-Queda prohibida la venta de animales vivos o muertos sin el permiso o licencia de la autoridad municipal competente. El comercio de animales se hará obligatoriamente en establecimientos autorizados y vigilados por el ayuntamiento. En el caso de que además de la venta se proporcione cualquier otro servicio, éste deberá llevarse a cabo cumpliendo con lo dispuesto en el presente ordenamiento.
+Queda prohibida la venta de animales vivos o muertos sin el permiso o licencia de la autoridad municipal competente, y en su caso de las autoridades facultadas para ello. El comercio de animales se hará obligatoriamente en establecimientos autorizados y vigilados por el ayuntamiento y por las autoridades competentes. En el caso de que además de la venta se proporcione cualquier otro servicio, éste deberá llevarse a cabo cumpliendo con lo dispuesto en el presente ordenamiento.
 
 ###### Artículo 42.
 
@@ -547,9 +587,13 @@ En cualquier caso las autoridades del rastro serán responsables por el maltrato
 
 ### Capítulo I. De la denuncia
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 ## TÍTULO CUARTO. De la fauna silvestre
 
 ### Capítulo II. Del procedimiento de inspección y vigilancia
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 63.
 
@@ -577,7 +621,7 @@ Las autoridades estatales y municipales auxiliarán a las autoridades competente
 
 ###### Artículo 68.
 
-Toda persona podrá denunciar ante el municipio correspondiente todo hecho, acto u omisión que contravenga las disposiciones de la presente ley.
+Toda persona podrá denunciar ante las autoridades competentes todo hecho, acto u omisión que contravenga las disposiciones de la presente ley.
 
 ###### Artículo 69.
 
@@ -587,33 +631,43 @@ Si por la naturaleza de los hechos denunciados se tratare de asuntos de competen
 
 La denuncia podrá presentarse por escrito, comparecencia, vía telefónica o cualquier otro medio, siempre y cuando se revelen los actos denunciados y las circunstancias de tiempo y lugar en que se realizaron.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 ###### Artículo 71.
 
-Recibida la denuncia, la autoridad municipal procederá a verificar los hechos señalados por el denunciante.
+Recibida la denuncia, la autoridad competente procederá a verificar los hechos señalados por el denunciante.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 72.
 
-Cuando los animales estuvieren en condiciones de peligro para su salud, las autoridades municipales, fundando y motivando su resolución, podrán ordenar cualquiera de las siguientes medidas de seguridad:
+Cuando los animales estuvieren en condiciones de peligro para su salud, las autoridades competentes, fundando y motivando su resolución, podrán ordenar cualquiera de las siguientes medidas de seguridad:
 
 I. Aseguramiento precautorio de los animales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad;
 
-II. Clausura temporal de los establecimientos, y
+II. Clausura temporal de los establecimientos; y
 
 III. Cualquier acción legal análoga que permita la protección de los animales.
 
+Cuando existan causas para determinar la posible comisión de delitos por violencia contra los animales, se deberá realizar la denuncia ante la autoridad competente y en su caso se ordenará la orden de visita o verificación, de acuerdo a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+
 ###### Artículo 73.
 
-Cuando la autoridad ejecute algunas de las medidas de seguridad previstas en este capítulo, indicará al interesado las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+Cuando la autoridad ejecute algunas de las medidas de seguridad previstas en este capítulo, en su caso, indicará al interesado las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Artículo 74.
 
-Si el rescate no fuere posible por tratarse de animales abandonados en una finca deshabitada de propiedad privada, la autoridad municipal pedirá opinión a las autoridades sanitarias respecto al peligro que pudieren representar para la salud de las personas o de los animales, en cuyo caso, si el dictamen revela que efectivamente existe peligro para la salud, la autoridad municipal realizará las gestiones y operaciones necesarias para el desalojo y protección de los animales abandonados.
+Si el rescate no fuere posible por tratarse de animales abandonados en una finca deshabitada de propiedad privada, la autoridad competente pedirá opinión a las autoridades sanitarias respecto al peligro que pudieren representar para la salud de las personas o de los animales, en cuyo caso, si el dictamen revela que efectivamente existe peligro para la salud, la autoridad correspondiente realizará las gestiones y operaciones necesarias para el desalojo y protección de los animales abandonados.
 
 ### Capítulo IV. De los medios de defensa
 
 ###### Artículo 75.
 
-Los gobiernos municipales, en el ámbito de sus respectivas competencias, realizarán los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
+Los gobiernos municipales y las autoridades estatales en el ámbito de sus respectivas competencias, realizarán los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en la presente Ley, así como de las que del mismo se deriven.
 
 ###### Artículo 76.
 
@@ -688,3 +742,15 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE JUNIO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones a los reglamentos aplicables para el debido cumplimiento del presente decreto.
+
+TERCERO. Se autoriza a la Secretaría de Planeación, Administración y Finanzas para realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto, haciendo uso en su caso, de los recursos humanos y materiales ya existentes, en coordinación con la Fiscalía General del Estado de Jalisco, lo anterior con respecto de la creación de la Unidad Especializada de Protección Animal.
+
+CUARTO. Para el seguimiento de los delitos derivados de la violencia contra los animales, el Fiscal General designará las agencias especializadas para su conocimiento conforme a las disposiciones legales, reglamentarias y normativas aplicables.
