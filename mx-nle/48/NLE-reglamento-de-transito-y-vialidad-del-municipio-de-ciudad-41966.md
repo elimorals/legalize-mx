@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2014-01-29"
+last_updated: "2014-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -717,6 +717,10 @@ XV. Someterse a un examen para detectar el estado de ebriedad o ineptitud para c
 
 XVI. Reducir la velocidad ante cualquier concentración de peatones y/o vehículos.
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+XVII. El uso de teléfonos celulares que no posean manos libres, y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación.
+
 ### CAPÍTULO OCTAVO. DE LAS PROHIBICIONES A LOS CONDUCTORES DE VEHÍCULOS
 
 ###### ARTÍCULO 40.
@@ -797,6 +801,10 @@ XXXII. Dar vuelta en “U” por los carriles exclusivos de transporte público 
 
 XXXIII. Dar vuelta a la izquierda por los carriles exclusivos de transporte público de pasajeros, a excepción de aquellas que están controladas por semáforo.
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+XXXIV. El uso de los teléfonos celulares sin manos libres y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación.
+
 ###### ARTÍCULO 41.
 
 La velocidad máxima en el Municipio es de cincuenta kilómetros por hora, excepto en los lugares en los que se especifique mediante el señalamiento respectivo una velocidad diferente.
@@ -818,6 +826,10 @@ III. No remolcar o empujar otro vehículo;
 IV. No sujetarse a vehículos en movimiento;
 
 V. No rebasar a ningún vehículo de motor por el mismo carril, a excepción de aquéllos que pertenezcan a Policía o Tránsito en el cumplimiento de su trabajo;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+V (SIC). Hacer uso de teléfonos celulares que no posean manos libres, y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación
 
 VI. Circular siempre por la derecha, a menos que vayan a voltear a la izquierda;
 
@@ -869,6 +881,10 @@ X. Los peatones que pretendan cruzar una intersección o abordar un vehículo no
 
 XI. Ayudar a cruzar las calles a las personas con capacidad diferenciada y menores de ocho años, cuando se les solicite.
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+XII. a fin de prevenir accidentes, al Transitar por la vía pública y pasos peatonales deberán suspender el uso de cualesquier dispositivo móvil derivado de las nuevas tecnologías de la información y comunicación que distraigan su atención.
+
 ###### ARTÍCULO 46.
 
 Los peatones tienen prohibido lo siguiente:
@@ -900,6 +916,10 @@ XII. Abordar vehículos a mediación de calle o avenida, fuera de la banqueta o 
 XIII. Cruzar frente a vehículos en circulación, detenidos momentáneamente para bajar o subir pasaje;
 
 XIV. Cruzar las calles fuera de las zonas peatonales, cuando éstas estén marcadas con líneas.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+XV. El uso de dispositivos móviles o de cualesquier otro derivado de las nuevas tecnologías de la información y comunicación que distraigan su atención al cruzar las vialidades y los puentes peatonales.
 
 ###### ARTÍCULO 47.
 
@@ -1579,7 +1599,7 @@ C) Las banderolas, reflejantes u otros dispositivos que deben usar los conductor
 
 I (SIC). SEÑALES ESPECIALES PARA PROTECCION DE OBRAS: Son elementos diseñados para informar, advertir y proteger a conductores, peatones y obreros en las zonas donde se desarrollan obras de construcción, mantenimiento, reparación y cualquier otra actividad para los servicios públicos en las vías de circulación. Éstas incluyen: Señales preventivas, restrictivas e informativas de acuerdo a lo que considere necesario la dependencia correspondiente.
 
-II (SIC). DISPOSITIVOS DE VERIFICACIÓN: Dispositivos electrónicos para la verificación del cumplimiento de las normas de éste ordenamiento y aplicación de sanciones por infracción a las mismas.
+II. DISPOSITIVOS DE VERIFICACIÓN: Dispositivos electrónicos para la verificación del cumplimiento de las normas de éste ordenamiento y aplicación de sanciones por infracción a las mismas.
 
 ###### ARTÍCULO 108.
 
@@ -1903,6 +1923,10 @@ En todos los casos que se detecte que un conductor conduce de manera irregular, 
 
 En los supuestos del párrafo anterior, se impedirá la conducción del vehículo, el cual será retirado de la circulación con grúa y remitido al lote autorizado.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+Así mismo los oficiales de tránsito deberán prevenir y cuidar que los conductores usen los teléfonos celulares que no posean o sean sin manos libres, y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación.
+
 ###### ARTÍCULO 130.
 
 Los Oficiales de Tránsito deberán prevenir con todos los medios disponibles a sus alcances, los accidentes de tránsito y evitar que se cause o incremente un daño a personas o propiedades; en especial cuidarán de la seguridad de los peatones y que éstos cumplan sus obligaciones establecidas en este Reglamento, para el efecto anterior, los Oficiales actuarán de la siguiente manera:
@@ -1910,6 +1934,10 @@ Los Oficiales de Tránsito deberán prevenir con todos los medios disponibles a 
 I. Cuando uno o varios peatones estén en vías de cometer una infracción, cortésmente les indicarán que deben desistir de su propósito;
 
 II. Ante la comisión de infracción a este Reglamento, harán de manera eficaz pero comedida que la persona que esté cometiendo la infracción cumpla con la obligación que según el caso, le señale este Reglamento, al mismo tiempo el Oficial de Tránsito amonestará a dicha persona explicándole su falta a este ordenamiento.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+III. En especial atención y a fin de cuidar de la seguridad de los peatones, de manera comedida, les indicaran que por su seguridad al cruzar las vialidades y pasos peatonales, deberán suspender el uso de dispositivos móviles o cualesquier otro dispositivo derivado del uso de las nuevas tecnologías de la información y comunicación.
 
 ###### ARTÍCULO 131.
 
@@ -2013,6 +2041,10 @@ E) Jugar carreras de vehículos sin las autorizaciones correspondientes.
 
 F) Transportar personas en los vehículos fuera de los lugares permitidos, de acuerdo con el Artículo 40 Fracción IV, del presente Reglamento.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+G) Por el uso de teléfonos celulares que no posean manos libres, y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación.
+
 II. CANCELACIÓN DE LA LICENCIA DE CONDUCIR.- Se cancelará la licencia de conducir en los casos siguientes:
 
 A) Por abandonar injustificadamente el lugar de un accidente en más de una ocasión en un período de un año.
@@ -2021,7 +2053,7 @@ B) Por resultar responsable de más de dos accidentes graves en un período de u
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-C) Al conducir en estado de ebriedad o eneptitud bajo el influjo de drogas o sustancias toxicas, en tres ocasiones en un período de seis meses.
+C) Al conducir en estado de ebriedad o eneptitud (sic) bajo el influjo de drogas o sustancias toxicas, en tres ocasiones en un período de seis meses.
 
 D) Por orden judicial.
 
@@ -2032,6 +2064,10 @@ F). Cuando se compruebe que la licencia fue obtenida dando falsa información.
 G). Agredir físicamente a un Oficial de Tránsito en el cumplimiento de su función.
 
 Decretada la suspensión o cancelación de una licencia de conducir, se comunicará lo conducente a la Secretaría de Finanzas y Tesorería General del Estado para que proceda según sea el caso.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+H) Por el uso de teléfonos celulares que no posean manos libres, y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación
 
 III. DETENCIÓN DE VEHÍCULOS.- Serán detenidos los vehículos y remitidos al lote autorizado mediante el servicio de grúa por el municipio, en los casos siguientes:
 
@@ -2067,11 +2103,15 @@ Para la entrega de vehículos detenidos, será indispensable la presentación an
 
 IV. RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retirada por los elementos de la Autoridad Municipal cuando el conductor infractor sea menor de edad y cuando el conductor insulte al personal de tránsito en el ejercicio de sus funciones; en los casos en que proceda la suspensión o cancelación de la licencia de acuerdo con las Fracciones I y II de este Articulo.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+Por conducir haciendo uso de los teléfonos celulares sin manos libres o de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación
+
 V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
-> <small>N. DE E. VÉASE TABULADOR EN EL P.O. DE 26 DE NOVIEMBRE DE 2004, PAGS. 122-129.</small>
+> <small>N. DE E. VÉASE TABULADOR EN EL P.O. DE 26 DE NOVIEMBRE DE 2004, PÁGINAS 122-129.</small>
 
-> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PÁGINAS DE LA 102 A LA 133; 4 DE JULIO DE 2011, PÁGINA 30; 29 DE ENERO DE 2014, PÁGINA 62.</small>
+> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PÁGINAS DE LA 102 A LA 133; P.O. 4 DE JULIO DE 2011, PÁGINA 30; P.O. 29 DE ENERO DE 2014, PÁGINA 62; P.O. 16 DE JUNIO DE 2014, PÁGINA 46.</small>
 
 ###### ARTÍCULO 137.
 
@@ -2136,6 +2176,10 @@ XV. Dar vuelta a la izquierda por carril exclusivo de transporte público de pas
 > <small>(ADICIONADA, P.O. 29 DE ENERO DE 2014)</small>
 
 XVI. Estacionarse en carril exclusivo de transporte público de pasajeros.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+XVII. El uso de teléfonos celulares que no posean manos libres, y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación.
 
 ###### ARTÍCULO 141.
 
@@ -2243,7 +2287,7 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 ING. IGNACIO RODRÍGUEZ ZUÑIGA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE DICIEMBRE DE 2006.
 
@@ -2280,3 +2324,15 @@ SEGUNDO.- Quedan sin efecto todas las disposiciones jurídicas que se opongan a 
 TERCERO.- Instrúyase por parte del C. Presidente Municipal para que en corresponsabilidad y coordinación de esfuerzos, la Dirección de policía y Tránsito adscrita a la Secretaría de Seguridad Pública, la Dirección General de Obras Públicas y Vialidad adscrita a la Secretaría de Desarrollo Urbano y Obras Públicas así como a la Dirección General de Comunicación Social, organicen una campaña de orientación y difusión de las reformas efectuadas al reglamento de tránsito municipal, así mismo se lleve a cabo una intensa campaña de difusión de los cambios a la vialidad y señalización que con motivo de la operación del transporte público de pasajeros ECOVÍA se implementan, para que se dé cumplimiento a la normatividad en materia de tránsito, fortaleciendo la cultura de la legalidad y el comportamiento cívico ciudadano.
 
 CUARTO.- Instrúyase por parte del Presidente Municipal al Secretario de Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 16 DE JUNIO DE 2014.
+
+PRIMERO.- El presente acuerdo de reformas por adición al Reglamento de Tránsito y Vialidad del Municipio de Ciudad Guadalupe, Nuevo León, entrarán en vigor a los 30-treinta días naturales, a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Instrúyase a la (sic) Direcciones General de Comunicación Social y de Policía de Tránsito para que implemente (sic) y lleven a cabo un amplia e intensa campaña de fortalecimiento de la cultura de seguridad vial, y de difusión del (sic) las presentes reformas.
+
+TERCERO.- Instrúyase a la Dirección de Policía de Transito municipal para que implemente y lleve a cabo operativos periódicos de prevención de accidentes y de fortalecimiento de la cultura de la seguridad vial, a fin de dar vigencia permanente de las normas que por las presentes reforman se adicionan al Reglamento de Tránsito y Vialidad del Municipio de Ciudad Guadalupe, Nuevo León.
+
+CUARTO.- Instrúyase a la Dirección General de Comunicación Social y a la Dirección General del Sistema DIF municipales, para que diseñen e implementen una amplia campaña de sensibilización respecto del uso de las nuevas tecnologías de información y comunicación y su impacto en la interacción, capacidades, competencias y comunicación en el ser humano su familia y en la sociedad.
+
+QUINTO.- Instrúyase por parte del Presidente Municipal a la titular de la Secretaria del Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
