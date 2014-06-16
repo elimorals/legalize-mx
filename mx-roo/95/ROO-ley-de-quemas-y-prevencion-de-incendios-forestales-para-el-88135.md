@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-quemas-y-prevencion-de-incendios-forestales-para-el-8813
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-30"
-last_updated: "2013-08-19"
+last_updated: "2014-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE QUEMAS Y PREVENCIÓN DE INCENDIOS FORESTALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 30 de abril de 2012.
 
@@ -147,6 +147,10 @@ X. Las demás dependencias y organizaciones de la sociedad civil que sean convoc
 
 Las autoridades del Estado y de los Municipios, a efecto de que el cumplimiento de esta ley sea observado estrictamente, tomarán todas las medidas que sean necesarias y solicitarán en su caso, la colaboración de las autoridades federales correspondientes
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+Con la finalidad de coadyuvar en la prevención de incendios forestales y mantener una adecuada precaución en las quemas de las parcelas, los ayuntamientos tendrán la facultad de celebrar convenios de colaboración institucional con la SEMA y/o con la Comisión Nacional Forestal para llevar a cabo en conjunto, medidas de difusión y acciones de apoyo en materia de prevención.
+
 ###### Artículo 10.
 
 Son auxiliares de las autoridades señaladas en el artículo 8 de la presente ley, para los fines de la misma, los siguientes:
@@ -177,7 +181,17 @@ Es facultad exclusiva de los Ayuntamientos expedir los permisos para efectuar qu
 
 Los permisos a que se refiere este artículo, únicamente podrán expedirse a quienes demuestren haber cumplido con las medidas de seguridad necesarias para evitar daños a los recursos forestales; la Autoridad Municipal, bajo su estricta responsabilidad deberá efectuar las inspecciones previas tendientes a verificar la veracidad de la información proporcionada por los solicitantes y, en su caso, hacer las observaciones correctivas y preventivas que procedan.
 
-Si dentro del término de ocho días, la Autoridad Municipal no realiza la inspección señalada anteriormente, el interesado podrá acudir ante la misma para que se le expida a más tardar dentro de los dos días siguientes el permiso correspondiente sin más trámite.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+La Autoridad Municipal deberá realizar la inspección señalada anteriormente, dentro del término de quince días.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+En caso de que se autorice el permiso solicitado, la Autoridad Municipal remitirá por escrito a la autoridad ejidal a más tardar 24 horas antes de la quema de la parcela, pradera o predio rustico, la información relativa al tiempo, modo y lugar de la quema autorizada para que bajo su más estricta responsabilidad, coadyuve en las labores preventivas, o en su caso, haga del conocimiento de la Autoridad Municipal, las observaciones correctivas que procedan.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+A efecto de atender las solicitudes que les sean formuladas y el desahogo de la inspección prevista dentro del presente artículo, la Autoridad Municipal podrá solicitar a la SEMA o a la Comisión Nacional Forestal personal de apoyo para el único efecto de verificar la existencia de las medidas de seguridad necesarias para evitar daños a los recursos forestales previstos en esta ley, mediante los instrumentos y mecanismos de coordinación que al efecto convengan dichas autoridades.
 
 ###### Artículo 14.
 
@@ -502,3 +516,13 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
