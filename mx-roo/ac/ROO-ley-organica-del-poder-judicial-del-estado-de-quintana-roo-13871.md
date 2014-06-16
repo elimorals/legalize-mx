@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2014-03-19"
+last_updated: "2014-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -53,11 +53,11 @@ Corresponde al Poder Judicial del Estado de Quintana Roo, la atribución de impa
 
 También le corresponde proporcionar a los particulares, los mecanismos alternativos de solución a sus controversias jurídicas, por conducto del Centro de Justicia Alternativa, en los términos de la ley de Justicia Alternativa. Además tendrá la obligación de proporcionar los servicios de defensoría pública en términos de la Ley del Instituto de Defensoría Pública del Estado Quintana (sic) Roo.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ###### Artículo 2°.
 
-La impartición de justicia en el Estado es función exclusiva de los Tribunales, Juzgados y demás órganos auxiliares, que estarán a cargo de Magistrados y Jueces, los cuales podrán actuar de manera colegiada o unitaria, quienes gozarán de plena autonomía e independencia en sus determinaciones.
+La impartición de justicia en el Estado, es función exclusiva de los Tribunales, Juzgados y demás órganos auxiliares, que estarán a cargo de magistrados y jueces. Los Magistrados Numerarios o Supernumerarios, actuarán de manera colegiada o unitaria, gozarán de plena autonomía e independencia en sus determinaciones y ejercerán su función sin más sujeción que a las leyes, la equidad y los principios generales de derecho.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -151,11 +151,11 @@ Los auxiliares de la impartición de justicia cumplirán los mandamientos de la 
 
 El Tribunal Superior de Justicia residirá en la Capital del Estado y estará integrado por nueve Magistrados Numerarios y hasta tres Supernumerarios a juicio del Pleno, designados en los términos previstos por la Constitución Política del Estado y esta Ley.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ###### Artículo 11.
 
-Para el ejercicio de sus funciones el Tribunal Superior de Justicia actuará en Pleno, en Salas o en forma unitaria en los casos previstos por esta ley.
+Para el ejercicio de sus funciones el Tribunal Superior de Justicia actuará en Pleno, en Salas Colegiadas o Unitarias.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -221,105 +221,43 @@ II.- Constancia del voto y los razonamientos de los Magistrados que hayan disent
 
 #### Sección Tercera. De las atribuciones de carácter administrativo del Tribunal Pleno
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 ###### Artículo 21.
 
 Son atribuciones de carácter administrativo, exclusivas del Tribunal Pleno, las siguientes:
 
-I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
+I. Elegir al Presidente del Tribunal Superior de Justicia conforme a lo previsto por el artículo 99 de la Constitución Política del Estado, así como acordar su remoción, siempre y cuando exista causa justificada que lo amerite a juicio del propio pleno;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+II. Designar al Magistrado de Número que sustituirá en sus funciones al Presidente del Tribunal Superior de Justicia, en las ausencias temporales de éste;
 
-II.- Elegir al Presidente del Tribunal Superior de Justicia conforme a lo previsto por el artículo 99 de la Constitución Política del Estado, así como acordar su remoción, siempre y cuando exista causa justificada que lo americe a juicio del propio Pleno.
+III. Resolver sobre las quejas administrativas presentadas en contra del Presidente del Tribunal Superior de Justicia, y Magistrados;
 
-III.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
+IV. Discutir, aprobar o modificar, en su caso, el anteproyecto del Presupuesto de Egresos que para el ejercicio anual proponga el Consejo de la Judicatura y, por los conductos debidos, someterlo a la aprobación de la Legislatura del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+V. Conceder a los Magistrados, autorización para dejar de cumplir con las obligaciones inherentes a su encargo por incapacidad, enfermedad u otras causas análogas, hasta por tres meses;
 
-IV.- Designar al Magistrado de Número que sustituirá en sus funciones al Presidente del Tribunal Superior de Justicia, en las ausencias temporales de éste;
+VI. Establecer la conformación, integración, jurisdicción, residencia y competencia de cada una de las Salas;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+VII. Adscribir, readscribir y cambiar de acuerdo a las necesidades de la función jurisdiccional a los Magistrados de las Salas;
 
-V.- Resolver sobre las quejas administrativas presentadas en contra del Presidente del Tribunal Superior de Justicia y Magistrados.
+VIII. Iniciar ante la Legislatura del Estado las leyes y decretos que tengan por objeto mejorar la impartición y administración de justicia;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+IX. Expedir en el ámbito de su competencia el Reglamento Interior del Tribunal Superior de Justicia, remitiéndolo al Periódico Oficial del Estado de Quintana Roo para su publicación;
 
-VI.- Discutir, aprobar o modificar, en su caso, el anteproyecto del Presupuesto de Egresos que para el ejercicio anual proponga el Consejo de la Judicatura y, por los conductos debidos, someterlo a la aprobación de la Legislatura del Estado;
+X. Llamar y adscribir a los Magistrados Supernumerarios para que integren el Pleno o las Salas en los casos previstos en la Constitución Política del Estado de Quintana Roo y esta Ley;
 
-VII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
+XI. Acordar que algún Magistrado Supernumerario funja de manera provisional como Secretario General del Pleno;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+XII. Mandar a publicar los acuerdos y demás disposiciones de carácter general que se expidan;
 
-VIII.- Conceder a los Magistrados, autorización para dejar de cumplir con las obligaciones inherentes a su encargo por incapacidad, enfermedad u otras causas análogas, hasta por tres meses;
+XIII. Conocer de los impedimentos, de las recusaciones con causa, sin causa y de las excusas de los magistrados en los diversos asuntos de su competencia y en su intervención en los que sean de competencia del Pleno y asignar en su caso, a quien deba sustituirlos;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+XIV. Nombrar y remover a los Magistrados de Asuntos Indígenas y a los jueces tradicionales, en los términos de la ley respectiva;
 
-IX.- Establecer la jurisdicción, residencia y competencia de cada una de las Salas.
+XV. Elegir al Magistrado de Número que deba integrar el Consejo de la Judicatura quien no integrará Pleno ni Sala, y
 
-X.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XI.- Adscribir, readscribir y cambiar de acuerdo a las necesidades de la función jurisdiccional a los Magistrados de las Salas.
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XII.- Iniciar ante la Legislatura del Estado las leyes y decretos que tengan por objeto mejorar la impartición y administración de justicia;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XIII.- Expedir en el ámbito de su competencia el Reglamento Interior del Tribunal Superior de Justicia, remitiéndolo al Periódico Oficial del Gobierno del Estado para su publicación.
-
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
-
-XIV.- Llamar y adscribir a los Magistrados Supernumerarios para que integren el Pleno o las Salas en los casos previstos en la Constitución Política del Estado de Quintana Roo y esta Ley;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XV.- Acordar que algún Magistrado Supernumerario funja de manera provisional como Secretario General del Pleno;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVI.- Mandar a publicar los acuerdos y demás disposiciones de carácter general que se expidan;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XVII.- Conocer de los impedimentos, de las recusaciones con causa, sin causa y de las excusas de los magistrados en los diversos asuntos de su competencia y en su intervención en los que sean de competencia del Pleno y asignar en su caso, a quien deba sustituirlos;
-
-XVIII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XIX.- Nombrar y remover a los Magistrados de Asuntos Indígenas y a los jueces tradicionales, en los términos de la ley respectiva;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XX.- Elegir al Magistrado de Número que deba integrar el Consejo de la Judicatura quien no integrará Pleno ni Sala; y
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXI.- Las demás que le confieran esta ley y otras leyes aplicables.
-
-XXII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXIII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXIV.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXV.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXVI.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXVII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXVIII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXIX.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXX.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXXI.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
-
-XXXII.- (DEROGADA, P.O. 29 DE JUNIO DE 2001)
+XVI. Las demás que le confieran esta ley y otras leyes aplicables.
 
 #### Sección Cuarta. De las atribuciones de carácter judicial del Tribunal Pleno
 
@@ -351,29 +289,51 @@ Todos los demás asuntos de carácter judicial o administrativo cuyo conocimient
 
 #### Sección Quinta. De las Salas del Tribunal
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ###### Artículo 24.
 
-Las Salas Mixtas del Tribunal Superior de Justicia se integran con tres Magistrados de Número y el Pleno podrá aumentar o disminuir el número de Magistrados conforme a las necesidades del servicio y capacidad presupuestal; tendrán la competencia que este mismo acuerde, y serán presididas por el Magistrado que elija cada una de las Salas.
+Las Salas del Tribunal Superior de Justicia serán unitarias o colegiadas, éstas últimas estarán integradas por tres Magistrados Numerarios o Supernumerarios, según determine la ley o el Pleno con sujeción a la ley, conforme a las necesidades del servicio y capacidad presupuestal. Las salas colegiadas serán presididas por el Magistrado que elija cada una de las Salas.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
 
-El Presidente de cada Sala durará en su encargo un año, no pudiendo ser reelecto para los dos períodos inmediatos posteriores y tendrá las atribuciones siguientes:
+El Presidente de cada Sala tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
 
 I.- Presidir el Pleno de la Sala, dirigir los debates y poner a votación los asuntos respectivos al concluir dichos debates;
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
 II.- Acordar los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución, autorizándolos con su firma y la del Secretario respectivo;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
 
 III.- Distribuir entre los Magistrados, por riguroso sorteo, los tocas para su estudio, así como vigilar la presentación oportuna de los proyectos de resolución;
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
 IV.- Vigilar que la Secretaría de Acuerdos realice el extracto de los puntos que comprendan los asuntos resueltos por la Sala;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
 
 V.- Dar el trámite respectivo a los amparos y firmar, con la representación de la Sala, los informes previo y justificado;
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
 VI.- Llevar la correspondencia de la Sala, autorizándola con su firma; y
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
 VII.- Los demás asuntos que le confiera esta ley, así como otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+El Magistrado que se designe para conformar la sala unitaria, durará en su cargo el tiempo que determine el Pleno y tendrá las mismas atribuciones que corresponden al presidente de sala colegiada, excepto por lo señalado en las fracciones I y III de este artículo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+En los distritos judiciales donde tengan su sede las salas del tribunal superior de justicia, el Pleno designará a un magistrado coordinador para enlace y substanciación de los asuntos administrativos que competan a las Salas. La designación señalada tendrá una duración de dos años.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -407,11 +367,11 @@ Encontrándose la causa o proceso en estado de resolución, presentará el Magis
 
 Con excepción de las sentencias, no será necesario que los acuerdos o determinaciones se asienten en acta, bastando únicamente que se autorice la actuación en los expedientes con la firma de cada Magistrado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ###### Artículo 31.
 
-Las Salas conocerán de las materias Civil, Penal o ambas.
+Las Salas conocerán de las materias Civil, Familiar, Mercantil, Penal y de asuntos de carácter mixto, sobre los siguientes:
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -431,9 +391,7 @@ V.- De la imposición de correcciones disciplinarias a los litigantes, cuando en
 
 VI.- De los demás asuntos que le encomienden las leyes o acuerde el Tribunal Pleno mediante disposiciones generales.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-La Sala con sede en la Ciudad de Chetumal, tendrá jurisdicción en todo el Estado para conocer en forma exclusiva el recurso de apelación que se interponga en los juicios mercantiles, mismo que contempla el Código de Comercio; así como también conocerá de todos los recursos de apelación que se interpongan en contra de las sentencias definitivas en materia civil, excepción hecha de la materia familiar que continuará siendo competencia de ambas Salas.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -2315,7 +2273,7 @@ El Consejo de la Judicatura, por conducto de su Presidente, podrá ordenar la ce
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPÍTULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO VI. DEL INGRESO, FORMACION Y PERMANENCIA DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3416,3 +3374,9 @@ P.O. 19 DE MARZO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 16 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor previa publicación en el Periódico Oficial del Estado de Quintana Roo, al día siguiente a aquel en el que inicie la vigencia del Decreto por el que se reforma el párrafo tercero del articulo 98 y se adicionan los párrafos cuarto y quinto al artículo 98, así como un último párrafo al artículo 99 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a las contenidas en el presente decreto.
