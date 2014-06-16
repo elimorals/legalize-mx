@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2013-12-04"
+last_updated: "2014-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -455,7 +455,7 @@ XXVI. Formular los informes y estudios sobre el comportamiento del gasto públic
 
 XXVII. Aprobar, previo acuerdo del Gobernador del Estado, la participación del Estado en empresas, sociedades, asociaciones civiles y mercantiles, ya sea en su creación, aumento del capital o en la adquisición de todo o parte de éste, conforme lo dispongan las leyes aplicables. En caso de que lo anterior implique mayor presupuesto del autorizado anualmente para el Poder Ejecutivo, requerirá de la aprobación de la Legislatura del Estado;
 
-XXVIII. Ejecutar 1os convenios de coordinación que en materia impositiva se celebren con la Federación, los Municipios u otros Estados de la República y vigilar su cumplimiento;
+XXVIII. Ejecutar los convenios de coordinación que en materia impositiva se celebren con la Federación, los Municipios u otros Estados de la República y vigilar su cumplimiento;
 
 XXIX. Fungir como representante del Gobierno del Estado ante el Sistema Nacional de Coordinación Fiscal,
 
@@ -611,7 +611,9 @@ IV. Gestionar con las dependencias federales, estatales y municipales correspond
 
 V. Proporcionar asesoría y servicios tendientes a la conservación, restauración y aprovechamiento de los recursos naturales y el ambiente, y llevar el registro de las personas físicas y morales acreditadas para ello, así como el padrón correspondiente;
 
-VI. Celebrar convenios con instituciones públicas y privadas, que promuevan y fomenten la conservación, evaluación y restauración de los recursos naturales y el medio ambiente;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+VI. Celebrar convenios con instituciones públicas y privadas, que promuevan y fomenten la conservación, evaluación y restauración de los recursos naturales y el medio ambiente; de igual manera podrá celebrar convenios de colaboración institucional con los Ayuntamientos y la Comisión Nacional Forestal, en materia de prevención de incendios forestales;
 
 VII. Instrumentar e impulsar metodologías y procedimientos de evaluación económica del capital natural y de los bienes y servicios ambientales;
 
@@ -1436,3 +1438,13 @@ PRIMERO.- El presente decreto entrará en vigor el mismo día de su publicación
 SEGUNDO.- Cuando en otras disposiciones legales y administrativas se haga referencia a la Secretaría de Hacienda o a la Secretaría de Planeación y Finanzas, se entenderá que se refiere a la Secretaría de Finanzas y Planeación, hasta en tanto se efectúen las adecuaciones correspondientes.
 
 TERCERO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2014
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
