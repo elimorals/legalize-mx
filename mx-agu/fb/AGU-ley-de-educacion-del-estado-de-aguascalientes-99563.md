@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2014-03-11"
+last_updated: "2014-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -173,7 +173,23 @@ IV. Infundir el conocimiento y la práctica de la democracia como la forma de Go
 
 V. Instruir en la observancia de la ley, la justicia y los derechos humanos; así como promover el desarrollo de una cultura por la paz y la no violencia en cualquier tipo de sus manifestaciones;
 
-VI. Fomentar la protección del medio ambiente y el equilibrio ecológico, haciendo conciencia de la necesidad de un aprovechamiento racional de los recursos naturales;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+VI. Fomentar la protección del medio ambiente y el equilibrio ecológico, haciendo conciencia de la necesidad de un aprovechamiento racional de los recursos naturales. Con tal propósito, el Instituto de Educación de Aguascalientes, en coordinación con la Secretaría del Medio Ambiente, ejercerá las atribuciones siguientes:
+
+a) Promover el establecimiento de centros de educación y cultura ambiental;
+
+b) Promover la creación de textos que aborden temas y problemáticas ambientales como: el cuidado del agua, el aire, los suelos, la biodiversidad del Estado, el cambio climático y los demás temas y problemáticas ambientales que se presente (sic) en el Estado.
+
+c) Coadyuvar en la construcción y mantenimiento de áreas verdes en las escuelas y centros educativos;
+
+d) Promover la creación de espacios adecuados para la disposición y separación de sus residuos, de acuerdo a la Ley Ambiental Local aplicable;
+
+e) Promover y realizar acciones relacionadas con la protección, preservación y restauración del ambiente, involucrando a las diferentes personas del Sistema Estatal de Educación, a fin de desarrollar en ellos una mayor educación ambiental, y la difusión de las leyes ambientales del Estado, de la Federación y los Tratados Internacionales;
+
+f) Incentivar el uso de tecnología ambiental en las instalaciones educativas para un desarrollo sustentable; y
+
+g) Establecer programas de contingencia ambiental.
 
 VII. Fomentar la apreciación e impulso a la creación artística;
 
@@ -329,7 +345,21 @@ XXV. Las demás que con tal carácter establezcan la Ley General de Educación, 
 
 El Instituto de Educación de Aguascalientes con el fin de dar mejor cumplimiento a la obligación que le confiere el Artículo anterior en su fracción III, llevará a efecto las siguientes acciones:
 
-a) Propondrá a la consideración y, en su caso, autorización de la Autoridad Educativa federal, proyectos curriculares y programas de estudio con contenidos regionales que sin mengua del carácter nacional de la educación, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, el cuidado y conservación del ambiente, la formación en los valores, las costumbres, las tradiciones y demás aspectos propios de la Entidad y Municipios, así como los demás aspectos técnicos y científicos, a través de los documentos oficiales elaborados para este fin;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+a) Propondrá a la consideración y, en su caso, autorización de la Autoridad Educativa federal, proyectos curriculares y programas de estudio con contenidos regionales que sin mengua del carácter nacional de la educación, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, el cuidado y conservación del ambiente, la formación en los valores, las costumbres, las tradiciones y demás aspectos propios de la Entidad y Municipios, así como los demás aspectos técnicos y científicos, a través de los documentos oficiales elaborados para este fin. En el caso del cuidado y conservación del ambiente, dichos proyectos curriculares y programas tendrán por objeto:
+
+I. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
+
+II. El cuidado del medio ambiente y manejo sustentable de los recursos naturales como una práctica educativa integral, continua y permanente en los diferentes niveles educativos;
+
+III. Mejorar las medidas y estrategias para propiciar el fortalecimiento y la formación de nuevos valores y actitudes en relación con el entorno y hábitos de consumo responsable;
+
+IV. Divulgar las problemáticas ambientales que se generen en el entorno de los educandos a fin de crear conciencia sobre el cuidado al medio ambiente y proporcionar los conocimientos para enfrentarlas;
+
+V. Promover y difundir la riqueza natural del Estado y fomentar su cuidado y preservación; y
+
+VI. Las demás que determine la Autoridad Educativa federal.
 
 b) Definirá los proyectos curriculares, planes y programas de estudio, cuyo diseño no sea facultad exclusiva de la federación, en los cuales deberá establecerse:
 
@@ -943,7 +973,9 @@ La educación básica tiene como propósito que los educandos adquieran los valo
 
 I. Lenguajes básicos: el español y el matemático, así como el dominio funcional de un segundo idioma y del lenguaje computacional;
 
-II. Conocimientos fundamentales de las ciencias naturales, conocimiento del medio y las ciencias sociales;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+II. Conocimientos fundamentales de las ciencias naturales, conocimiento del medio ambiente y las ciencias sociales;
 
 III. Habilidades formativas básicas de índole científica, tecnológica y humanística, que permita aprender de forma independiente, tomar decisiones, resolver problemas, localizar, procesar y analizar la información;
 
@@ -955,7 +987,9 @@ VI. Conocimientos básicos, valores y hábitos para la conservación de la salud
 
 VII. Capacidad de relacionarse, comunicarse y colaborar en el trabajo con los demás para llevar a buen término una responsabilidad; y
 
-VIII. La capacidad para conocer su Entidad, su cultura y sus costumbres.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+VIII. La capacidad para conocer su Entidad, su cultura, sus costumbres y sus recursos naturales.
 
 ###### Artículo 70.
 
@@ -991,7 +1025,9 @@ II. El dominio funcional del uso de la computadora, la informática y otras tecn
 
 III. Los conocimientos, habilidades y actitudes para la resolución de problemas;
 
-IV. El desarrollo de una concepción humanística, científica y tecnológica y el fomento de intereses y actitudes positivas hacia la investigación y la innovación;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+IV. El desarrollo de una concepción humanística, científica y tecnológica y el fomento de intereses y actitudes positivas hacia la investigación y la innovación, así como de tecnologías sustentables;
 
 V. La obtención de conocimientos y actitudes positivos para el cuidado de la naturaleza, la salud, la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto de la dignidad de la persona, así como propiciar el rechazo a los vicios;
 
@@ -1193,7 +1229,9 @@ En su promoción, el Instituto de Educación de Aguascalientes debe:
 
 I. Vigilar que la prestación, la operatividad y supervisión de los servicios de educación inicial y públicos y los que ofrezcan los particulares se rijan por planes y programas dirigidos al propósito mencionado y se observe la normatividad que para tal efecto se emita;
 
-II. Supervisar que las instalaciones donde se imparta esta educación, cumplan con las exigencias pedagógicas, de higiene y de seguridad que la Autoridad Educativa determine;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+II. Supervisar que las instalaciones donde se imparta esta educación, cumplan con las exigencias pedagógicas, de higiene, seguridad y espacios adecuados para la disposición y separación de sus residuos, conforme estipule la autoridad educativa;
 
 III. Coordinar su vinculación con la educación preescolar;
 
@@ -1767,7 +1805,9 @@ Las asociaciones de padres de familia tendrán por objeto:
 
 I.- Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
 
-II.- Colaborar para una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+II.- Colaborar para una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles y del medio ambiente;
 
 III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por el Artículo 6° de esta Ley, en ningún caso se entenderán como contraprestaciones del servicio educativo;
 
@@ -1847,7 +1887,9 @@ El Instituto de Educación de Aguascalientes otorgará las autorizaciones y reco
 
 I. Con personal que acredite la preparación adecuada y, en su caso, satisfaga los demás requisitos a que se refieren la Ley General de Educación en sus Artículos 21, 42, y demás aplicables, así como con las disposiciones establecidas en la presente ley; Asimismo, el personal deberá presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y en la demás normatividad aplicable para cumplir con el Sistema Nacional de Evaluación Educativa y tomar las medidas, así como facilitar la inspección y vigilancia de las autoridades competentes;
 
-II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que el Instituto de Educación de Aguascalientes determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que el Instituto de Educación de Aguascalientes determine, además deberán contar con espacios adecuados para la disposición y separación de sus residuos, de acuerdo a la Ley Ambiental Local aplicable. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
 
 III. Para el caso de instituciones de educación superior, contar con la aprobación de la Comisión Estatal de Educación Superior, quien deberá resolver mediante el voto de la mayoría de sus integrantes, la procedencia de la autorización de reconocimiento de validez oficial de estudios, de conformidad con el Artículo 84 de esta Ley.
 
@@ -2206,3 +2248,11 @@ Salvador Dávila Montoya,
 DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 11 de marzo de 2014.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
