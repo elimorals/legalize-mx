@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2014-04-28"
+last_updated: "2014-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 28 DE ABRIL DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -2797,7 +2795,7 @@ La Ley de Responsabilidades de los servidores públicos del Estado, señalará l
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ## TITULO XI. PREVENCIONES GENERALES
 
@@ -2849,7 +2847,7 @@ La infracción a las disposiciones previstas en este Título será sancionada co
 
 ###### Artículo 158.
 
-Esta Constitución puede ser adicionada o reformada. Las iniciativas que tengan este objeto deberán estar suscritas por el Gobernador o por tres Diputados cuando menos, por el Tribunal Superior de Justicia, o por diez Ayuntamientos como mínimo, o por el Procurador General de Justicia en su ramo. Estas iniciativas se sujetarán a los trámites establecidos para la expedición de leyes señalados por esta Constitución, pero requerirán de la aprobación cuando menos de los dos tercios del número total de Diputados.
+Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se sujetaran a los trámites establecidos para la expedición de leyes señalados por esta Constitución y requieren de la aprobación cuando menos, de los dos tercios de (sic) número total de Diputados.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -3590,5 +3588,9 @@ P.O. 24 DE FEBRERO DE 2014.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 P.O. 3 DE MARZO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
