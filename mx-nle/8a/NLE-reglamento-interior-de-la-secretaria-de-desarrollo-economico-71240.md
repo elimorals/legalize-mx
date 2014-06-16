@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-desarrollo-economico-71
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-25"
-last_updated: "2011-08-22"
+last_updated: "2014-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de noviembre de 2009.
 
@@ -755,7 +757,7 @@ EL C. SECRETARIO DE DESARROLLO ECONÓMICO
 
 OTHÓN RUIZ MONTEMAYOR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE AGOSTO DE 2011.
 
@@ -764,3 +766,17 @@ PRIMERO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Se autoriza al Secretario de Finanzas y Tesorero General del Estado, para que en los términos de la Ley de Egresos vigente, realice las trasferencias presupuestales que sean necesarias para dar cumplimiento a lo dispuesto en el presente Acuerdo.
 
 TERCERO.- Cuando en la Ley de Egresos del Estado se dé una nueva denominación a cualesquiera de las unidades administrativas que se mencionan en este Reglamento, mientras se prevén las reformas pertinentes al presente, dicha unidad ejercerá las atribuciones que le correspondan conforme a su naturaleza, en los términos contenidos en este Acuerdo.
+
+P.O. 16 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Reglamento Interior de la Secretaría de Desarrollo Económico, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial del Estado el 25 de Noviembre de 2009.
+
+Los procedimientos administrativos que se encuentren pendientes de resolución, serán resueltos por las autoridades previstas por este Reglamento Interior, de acuerdo a sus atribuciones.
+
+TERCERO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y haya iniciado la Coordinación General de Promoción e Impulso a MIPYMES, así como las atribuciones conferidas por la Ley de Fomento a la Micro, Pequeña y Mediana Empresa del Estado de Nuevo León y su Reglamento, a la citada Coordinación General, los continuara y recaerán en la Subsecretaría de Industria, Comercio y Servicios.
+
+CUARTO.- Se instruye a la Secretaría de Finanzas y Tesorería General del Estado para implementar las medidas de carácter financiero y administrativo necesarias para la debida ejecución del presente instrumento.
+
+QUINTO.- La Secretaría de Desarrollo Económico podrá elaborar los lineamientos que sean necesarios para su mejor desempeño.
