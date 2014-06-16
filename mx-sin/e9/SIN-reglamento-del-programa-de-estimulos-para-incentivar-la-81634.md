@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-programa-de-estimulos-para-incentivar-la-81634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-08"
-last_updated: "2012-04-18"
+last_updated: "2014-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SIN"
 
 REGLAMENTO DEL PROGRAMA DE ESTÍMULOS PARA INCENTIVAR LA CARRERA JUDICIAL MEDIANTE LA PRODUCTIVIDAD Y LA EXCELENCIA EN EL DESEMPEÑO DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P. O. 13 DE ABRIL DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE ABRIL DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 8 de junio de 2011.
 
@@ -67,9 +65,9 @@ VII. SECRETARIO DE ACUERDOS DEL TRIBUNAL: El Secretario de Acuerdos del Supremo 
 
 VIII. OFICIAL MAYOR: El Oficial Mayor del Supremo Tribunal de Justicia;
 
-IX. DIRECTOR DE INFORMÁTICA Y ESTADÍSTICA: El Director de Informática y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
-Estadística del Supremo Tribunal de Justicia;
+IX. DIRECTOR DE TECNOLOGÍAS: El Director de Tecnologías de la Información y Comunicaciones del Supremo Tribunal de Justicia;
 
 X. INSTITUTO: El Instituto de Capacitación Judicial del Supremo Tribunal de Justicia;
 
@@ -77,7 +75,9 @@ XI. DIRECTOR DEL INSTITUTO: El Director del Instituto de Capacitación Judicial 
 
 XII. SERVIDORES JUDICIALES: Los servidores públicos del Poder Judicial del Estado;
 
-XIII. COMISIÓN EJECUTORA: Es la instancia compuesta por el Secretario de Acuerdos del Tribunal, quien la presidirá, el Oficial Mayor, el Director del Instituto, el Director de Informática y Estadística y la Visitaduría Judicial, que llevará a cabo la recepción, recopilación y sistematización de la información y documentación necesaria que acredite los requisitos para la obtención de los estímulos por parte de los servidores judiciales, para que la Comisión Evaluadora y Dictaminadora emita su resolución;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+XIII. COMISIÓN EJECUTORA: Es la instancia compuesta por el Secretario de Acuerdos del Tribunal, quien la presidirá, el Oficial Mayor, el Director del Instituto, el Director de Tecnologías y la Visitaduría Judicial, que llevará a cabo la recepción, recopilación y sistematización de la información y documentación necesaria que acredite los requisitos para la obtención de los estímulos por parte de los servidores judiciales, para que la Comisión Evaluadora y Dictaminadora emita su resolución;
 
 XIV. (DEROGADA, P.O. 13 DE ENERO DE 2012)
 
@@ -149,9 +149,11 @@ IV. Cuarto trimestre, correspondiente a los meses de octubre a diciembre, se pag
 
 Para poder participar en el programa, es necesario que los servidores judiciales cumplan con las actividades propias de la función que realizan dentro de los días y horarios normales, sin que, por cualquier causa, tengan que interferir o interrumpan las obligaciones que se tienen hacia la Institución.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 ###### Artículo 13.
 
-Tendrán derecho a participar por el beneficio de estímulos todos los servidores públicos que cuenten con nombramiento o contrato de confianza del Poder Judicial del Estado, que deseen evaluarse voluntariamente, según lo dispuesto por el presente reglamento.
+Tendrán derecho a participar por el beneficio de estímulos todos los servidores públicos que cuenten con nombramiento o contrato de confianza del Poder Judicial del Estado, según lo dispuesto por el presente reglamento.
 
 ###### Artículo 14.
 
@@ -447,55 +449,79 @@ GRUPO I. JUZGADORES
 
 A. NIVEL 1
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-a) Jueces en Materia Penal cuya carga de trabajo trimestral sea igual o superior a l00 cien asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 1500 mil quinientos acuerdos y 60 sesenta sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+a) Jueces en Materia Penal cuya carga de trabajo trimestral sea igual o superior a 100 cien asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 2175 dos mil ciento setenta y cinco acuerdos y 60 sesenta sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
 b) Jueces en Materia Civil cuya carga de trabajo trimestral sea igual o superior a 375 trescientos setenta y cinco asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 3750 tres mil setecientos cincuenta acuerdos y 100 cien sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-c) Jueces en Materia Familiar cuya carga de trabajo trimestral sea igual o superior a 625 seiscientos veinticinco asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 4000 cuatro mil acuerdos y 230 doscientas treinta sentencias definitivas; y no se le hayan revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+c) Jueces en Materia Familiar cuya carga de trabajo trimestral sea igual o superior a 750 setecientos cincuenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 6000 seis mil acuerdos y 360 trescientos (sic) sesenta sentencias definitivas; y no se le hayan revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
-d) Juzgadores de segunda instancia cuya carga de trabajo trimestral sea igual o superior a 60 sesenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 60 sesenta sentencias definitivas; y contra éstas no se le haya concedido amparo en más del 5 cinco por ciento.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+d) Juzgadores de segunda instancia, que conozcan de apelaciones de sentencias, cuya carga de trabajo trimestral sea igual o superior a 60 sesenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 60 sesenta sentencias definitivas; y contra éstas no se le haya concedido amparo en más del 5 cinco por ciento.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
 e) Jueces Especializados en Justicia para Adolescentes cuya carga de trabajo trimestral sea igual o superior a 60 asuntos iniciados; haya emitido al menos 17 sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+f) Juzgadores de segunda instancia, que conozcan de apelaciones de autos y sean de competencia especializada, cuya carga de trabajo trimestral sea igual o superior a 150 ciento cincuenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 150 ciento cincuenta sentencias definitivas y contra éstas no se le haya concedido amparo en más del 5 cinco por ciento.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+g) Juzgadores de segunda instancia, que conozcan de apelaciones de autos y sean de competencia mixta, cuya carga de trabajo trimestral sea igual o superior a 250 doscientos cincuenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 250 doscientas cincuenta sentencias definitivas y contra éstas no se le haya concedido amparo en más del 5 cinco por ciento.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+h) Jueces de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito cuya carta de trabajo trimestral sea igual o superior a 250 doscientos cincuenta asuntos iniciados e igual número de emisión de resoluciones definitivas; y haya emitido durante el periodo al menos 900 novecientos acuerdos.
+
 B. NIVEL 2
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-a) Jueces en Materia Penal cuya carga de trabajo trimestral sea igual o superior a 75 setenta y cinco asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 1400 mil cuatrocientos acuerdos y 45 cuarenta y cinco sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+a) Jueces en Materia Penal cuya carga de trabajo trimestral sea igual o superior a 75 setenta y cinco asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 1750 mil setecientos cincuenta acuerdos y 45 cuarenta y cinco sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
 b) Jueces en Materia Civil cuya carga de trabajo trimestral sea igual o superior a 250 doscientos cincuenta asuntos iniciados y 225 doscientos veinticinco asuntos terminados; haya emitido durante el periodo al menos 2300 dos mil trescientos acuerdos y 70 setenta sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de resoluciones -autos y sentencias-.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-c) Jueces en Materia Familiar cuya carga de trabajo trimestral sea igual o superior a 400 cuatrocientos asuntos iniciados y 300 trecientos (sic) asuntos terminados; haya emitido durante el periodo al menos 3000 tres mil acuerdos y 200 doscientas sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+c) Jueces en Materia Familiar cuya carga de trabajo trimestral sea igual o superior a 500 quinientos asuntos iniciados y 400 cuatrocientos asuntos terminados; haya emitido durante el periodo al menos 5000 cinco mil acuerdos y 300 trescientas sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
 d) Jueces Mixtos cuya carga de trabajo trimestral sea igual o superior a 250 doscientos cincuenta asuntos en materia civil y familiar y 50 cincuenta en materia penal iniciados e igual número de terminados; haya emitido durante el periodo al menos 1500 mil quinientos acuerdos en materia civil y familiar y 500 quinientos en la penal y 75 sentencias definitivas en la primera de las materias y 25 veinticinco en la segunda; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
-e) Juzgadores de segunda instancia cuya carga de trabajo trimestral sea igual o superior a 60 sesenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 50 cincuenta sentencias definitivas; de éstas no se le hayan revocado en virtud de juicio de amparo más del 5 cinco por ciento.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+e) Juzgadores de segunda instancia, que conozcan de apelaciones contra sentencias, cuya carga de trabajo trimestral sea igual o superior a 60 sesenta asuntos iniciados e igual número de terminados; haya emitido en el periodo al menos 50 cincuenta sentencias definitivas; de éstas no se le hayan revocado en virtud de juicio de amparo más del 5 cinco por ciento.
 
-f) Juzgadores que durante el periodo hayan tenido una tasa de asuntos terminados y sentencias definitivas emitidas que sea superior al menos en 35 treinta y cinco por ciento respecto del número de asuntos terminados y sentencias emitidas en el mismo periodo del año anterior; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+f) Juzgadores de todas las materias, excepto Especializados en Justicia para Adolescentes y de Vigilancia de la Ejecución de las Consecuencias jurídicas del Delito, que durante el periodo hayan tenido una tasa de asuntos terminados y sentencias definitivas emitidas que sea superior al menos en 35 treinta y cinco por ciento respecto del número de asuntos terminados y sentencias emitidas en el mismo periodo del año anterior; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-, siempre y cuando la tasa de asuntos iniciados sea igual o superior a la del mismo periodo del año anterior.
 
-g) Jueces Especializados en Justicia para Adolescentes que durante el periodo hayan tenido una tasa de sentencias definitivas emitidas que sea superior al menos en 35 treinta y cinco por ciento respecto del número de sentencias emitidas en el mismo periodo del año anterior; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+g) Jueces Especializados en Justicia para Adolescentes cuya carga de trabajo trimestral sea igual o superior a 40 cuarenta asuntos iniciados; haya emitido al menos 15 quince sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
-h) Jueces de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito cuya carga de trabajo trimestral sea igual o superior a 120 ciento veinte asuntos iniciados e igual número de emisión de resoluciones definitivas; y haya emitido durante el periodo al menos 350 trescientos cincuenta acuerdos.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+h) Jueces de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito cuya carga de trabajo trimestral sea igual o superior a 150 ciento cincuenta asuntos iniciados e igual número de emisión de resoluciones definitivas; y haya emitido durante el periodo al menos 750 setecientos cincuenta acuerdos.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+i) Juzgadores de segunda instancia, que conozcan de apelaciones de autos y sean de competencia especializada, cuya carga de trabajo trimestral sea igual o superior a 135 ciento treinta y cinco asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 135 ciento treinta y cinco sentencias definitivas y contra éstas no se le haya concedido amparo en más del 5 cinco por ciento.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+j) Juzgadores de segunda instancia, que conozcan de apelaciones de autos y sean de competencia mixta, cuya carga de trabajo trimestral sea igual o superior a 225 doscientos veinticinco asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 225 doscientas veinticinco sentencias definitivas y contra éstas no se le haya concedido amparo en más del 5 cinco por ciento.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
@@ -503,13 +529,21 @@ C. NIVEL 3
 
 a) Jueces Mixtos cuya carga de trabajo trimestral sea igual o superior a 150 ciento cincuenta asuntos en materia civil, familiar y penal iniciados e igual número de terminados; hayan emitido durante el periodo al menos 900 novecientos acuerdos en todas las materias y 70 sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
-b) Juzgadores que durante el periodo hayan tenido una tasa de asuntos terminados y sentencias definitivas emitidas que sea superior al menos en 20 veinte por ciento respecto del número de asuntos terminados y sentencias emitidas en el mismo periodo del año anterior; y no se le hayan revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-c) Jueces de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito que durante el periodo haya tenido una tasa de resoluciones definitivas superior al menos en 15 quince por ciento respecto del número de dictadas en el mismo periodo del año anterior; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+b) Juzgadores de todas las materias, excepto Especializados en Justicia para Adolescentes y de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, que durante el periodo hayan tenido una tasa de asuntos terminados y sentencias definitivas emitidas que sea superior al menos en 20 veinte por ciento respecto del número de asuntos terminados y sentencias emitidas en el mismo periodo del año anterior; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-, siempre y cuando la tasa de asuntos iniciados sea igual o superior a la del mismo periodo del año anterior.
 
-d) Jueces en Materia Penal cuya carga de trabajo trimestral sea igual o superior a 60 sesenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 1200 mil doscientos acuerdos y 40 cuarenta sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-e) Jueces Especializados en Justicia para Adolescentes que durante el periodo haya tenido una tasa de sentencias definitivas emitidas que sea superior al menos en 15 quince por ciento respecto del número de sentencias definitivas en el mismo periodo del año anterior; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+c) Jueces de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito cuya carga de trabajo trimestral sea igual o superior a 120 ciento veinte asuntos iniciados e igual número de emisión de resoluciones definitivas, y haya emitido en el periodo al menos 500 quinientos acuerdos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+d) Jueces en Materia Penal cuya carga de trabajo trimestral sea igual o superior a 60 sesenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 1500 mil quinientos acuerdos y 40 cuarenta sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+e) Jueces Especializados en Justicia para Adolescentes cuya carga de trabajo trimestral sea igual o superior a 30 treinta asuntos iniciados; haya emitido al menos 10 diez sentencias definitivas; y no se le haya revocado más del 10 diez por ciento de sus resoluciones -autos y sentencias-.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
@@ -517,27 +551,31 @@ GRUPO II. SECRETARIOS DE ESTUDIO Y CUENTA Y PROYECTISTAS
 
 A) NIVEL 1
 
-a) Secretarios de Estudio y Cuenta y Proyectistas que conozcan de apelaciones de sentencias, cuya carga de trabajo durante el periodo sea igual o superior a 36 treinta y seis asuntos y presente oportunamente y le sean aprobados al menos 36 treinta y seis proyectos.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+a) Secretarios de Estudio y Cuenta y Proyectistas que conozcan de apelaciones de sentencias, cuya carga de trabajo durante el periodo sea igual o superior a 40 cuarenta asuntos y presente oportunamente y le sean aprobados al menos 40 cuarenta proyectos.
 
 b) Secretarios de Estudio y Cuenta y Proyectistas que conozcan de apelaciones de autos, cuya carga de trabajo durante el periodo sea igual o superior a 60 sesenta asuntos y presente oportunamente y le sean aprobados al menos 60 sesenta proyectos.
 
 B) NIVEL 2
 
-a) Secretarios de Estudio y Cuenta y Proyectistas que conozcan de apelaciones de sentencias, cuya carga de trabajo durante el periodo sea igual o superior a 30 treinta y presente oportunamente y le sean aprobados al menos 30 treinta proyectos.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+a) Secretarios de Estudio y Cuenta y Proyectistas que conozcan de apelaciones de sentencias, cuya carga de trabajo durante el periodo sea igual o superior a 33 treinta y tres asuntos y presente oportunamente y le sean aprobados al menos 33 treinta y tres proyectos.
 
 b) Secretarios de Estudio y Cuenta y Proyectistas que conozcan de apelaciones de autos, cuya carga de trabajo durante el periodo sea igual o superior a 45 cuarenta y cinco asuntos y presente oportunamente y le sean aprobados al menos 45 cuarenta y cinco proyectos.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-c) Secretarios de Estudio y Cuenta y Proyectistas en materia penal, cuya carga de trabajo durante el periodo sea igual o superior a 33 treinta y tres asuntos y presente oportunamente y le sean aprobados al menos 33 treinta y tres proyectos de sentencia definitiva.
+c) Secretarios de Estudio y Cuenta y Proyectistas en materia penal, cuya carga de trabajo durante el periodo sea igual o superior a 40 cuarenta asuntos y presente oportunamente y le sean aprobados al menos 40 cuarenta proyectos de sentencia definitiva.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-d) Secretarios de Estudio y Cuenta y Proyectistas en materia civil, cuya carga de trabajo durante el periodo sea igual o superior a 65 sesenta y cinco asuntos y presente oportunamente y le sean aprobados al menos 65 sesenta y cinco proyectos de sentencia definitiva.
+d) Secretarios de Estudio y Cuenta y Proyectistas en materia civil, cuya carga de trabajo durante el periodo sea igual o superior a 75 setenta y cinco asuntos y presente oportunamente y le sean aprobados al menos 75 setenta y cinco proyectos de sentencia definitiva.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-e) Secretarios de Estudio y Cuenta y Proyectistas en materia familiar, cuya carga de trabajo durante el periodo sea igual o superior a 126 ciento veinte y seis asuntos y presente oportunamente y le sean aprobados al menos 126 ciento veinte y seis proyectos de sentencia definitiva.
+e) Secretarios de Estudio y Cuenta y Proyectistas en materia familiar, cuya carga de trabajo durante el periodo sea igual o superior a 150 ciento cincuenta asuntos y presente oportunamente y le sean aprobados al menos 150 ciento cincuenta proyectos de sentencia definitiva.
 
 (ADICIONADO, P.O. 13 DE ABRIL DE 2012) (F. DE E., P.O. 18 DE ABRIL DE 2012)
 
@@ -551,11 +589,17 @@ GRUPO III. SECRETARIOS DE ACUERDOS
 
 A. NIVEL 1
 
-a) Secretarios en materia penal que durante el periodo hayan desahogado al menos 87 ochenta y siete audiencias y emitido al menos 500 quinientos acuerdos.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-b) Secretarios en materia civil que durante el periodo hayan desahogado al menos 71 setenta y un audiencias y emitido al menos 1,729 un mil setecientos veinte y nueve acuerdos.
+a) Secretarios en materia penal que durante el periodo hayan desahogado al menos 150 ciento cincuenta audiencias y emitido al menos 750 setecientos cincuenta acuerdos.
 
-c) Secretarios en materia familiar que durante el periodo hayan desahogado al menos 250 doscientos cincuenta audiencias y emitido al menos 1,763 un mil setecientos sesenta y tres acuerdos.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+b) Secretarios en materia civil que durante el periodo hayan desahogado al menos 150 ciento cincuenta audiencias y emitido al menos 2,000 dos mil acuerdos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+c) Secretarios en materia familiar que durante el periodo hayan desahogado al menos 300 trescientas audiencias y emitido al menos 2,250 dos mil doscientos cincuenta acuerdos.
 
 d) Secretarios en materia especializada en Justicia para adolescentes que durante el periodo hayan emitido al menos 300 trescientos acuerdos.
 
@@ -747,15 +791,19 @@ V. Hacer explícitos y convertir a procedimientos y operaciones concretas los cr
 
 VI. Establecer un procedimiento eficaz para comunicar los resultados de la evaluación, con el propósito de dar transparencia a dicho proceso.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 ###### Artículo 41.
 
-Se impone al Área de Recursos Humanos de la Oficialía Mayor, la obligación de organizar el archivo de los expedientes individuales del personal elegible, de manera que sea progresivo y de información acumulable.
+Se impone al Área de Administración de Recursos Humanos de la Oficialía Mayor, la obligación de organizar el archivo de los expedientes individuales del personal elegible, de manera que sea progresivo y de información acumulable.
 
 ### CAPÍTULO NOVENO. DE LA COMISIÓN EVALUADORA Y DICTAMINADORA
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 ###### Artículo 42.
 
-De conformidad con el presente reglamento, la Comisión Evaluadora y Dictaminadora, analizará, en cada caso, la documentación comprobatoria que entregue junto con su solicitud cada uno de los aspirantes a obtener los estímulos.
+De conformidad con el presente reglamento, la Comisión Evaluadora y Dictaminadora, analizará además, en cada caso, la documentación comprobatoria que entregue cada uno de los aspirantes a obtener los estímulos.
 
 ###### Artículo 43.
 
@@ -904,3 +952,7 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- La evaluación correspondiente al primer trimestre del año en curso, se hará de conformidad a lo previsto en el presente acuerdo.
 
 TERCERO.- Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE JUNIO DE 2014.
+
+ÚNICO.- El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
