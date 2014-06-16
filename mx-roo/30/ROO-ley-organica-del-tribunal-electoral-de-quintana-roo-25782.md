@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-tribunal-electoral-de-quintana-roo-25782"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2013-04-09"
+last_updated: "2014-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -93,9 +93,13 @@ El Tribunal residirá en la capital del Estado y tendrá jurisdicción en todo e
 
 El patrimonio del Tribunal se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
+
 ###### Artículo 8.
 
-Para el ejercicio de sus atribuciones, el Tribunal se integrará permanentemente con tres Magistrados Numerarios, entre ellos el Presidente; un Secretario General de Acuerdos; los Jefes de las Unidades de Legislación y Jurisprudencia, Comunicación y Difusión, Informática y Documentación, y de Administración. Asimismo, contará con una Contraloría Interna, y el personal administrativo que se considere necesario.
+Para el ejercicio de sus atribuciones, el Tribunal se integrará permanentemente con tres Magistrados Numerarios, entre ellos el Presidente; un Secretario General de Acuerdos; los Jefes de las Unidades de Legislación y Jurisprudencia, Comunicación y Difusión, Informática y Documentación, Administración y Capacitación e Investigación. Asimismo, contará con una Contraloría Interna y el personal administrativo que se considere necesario.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -531,17 +535,35 @@ Los funcionarios a que se refiere el presente Capítulo, serán designados y rem
 
 ### Capítulo Quinto. De las Unidades Técnicas del Tribunal
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
+
 ###### Artículo 43.
 
-El Tribunal para su debido funcionamiento contará con cuatro unidades de apoyo técnico, adscritas directamente a la Presidencia del Tribunal, integradas con un Jefe de Unidad y el personal operativo y técnico necesario para el desempeño de sus atribuciones. Estas unidades serán las de:
+El Tribunal Electoral para su debido funcionamiento contará con cinco unidades de apoyo técnico, adscritas directamente a la Presidencia del Tribunal, integradas con un Jefe de Unidad y el personal operativo y técnico necesario para el desempeño de sus atribuciones. Estas unidades serán las de:
 
 I. Legislación y Jurisprudencia;
 
 II. Comunicación y Difusión;
 
-III. Informática y Documentación; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Administración.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+III. Informática y Documentación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+IV. Administración, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+V. Capacitación e Investigación.
 
 ###### Artículo 44.
 
@@ -642,6 +664,28 @@ VII. Controlar y mantener actualizado el inventario de mobiliario y equipo del T
 VIII. Acordar con el Presidente del Tribunal los asuntos de su competencia; y
 
 IX. Las demás que le encomiende el Presidente del Tribunal y la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+###### Artículo 48 Bis.
+
+La Unidad de Capacitación e Investigación, tendrá las siguientes atribuciones:
+
+l. Impartir cursos, seminarios y otras actividades docentes, a fin de formar y capacitar al personal jurídico especializado que requiere el Tribunal;
+
+II. Llevar a cabo cursos y jornadas de divulgación de Derecho Electoral, de cultura cívico-política y fomento de los valores democráticos para todos los sectores sociales y en los niveles de educación básica, media superior y superior;
+
+III. Organizar y realizar investigaciones orientadas a la comprensión de la actividad política, la función jurisdiccional y la normatividad electoral;
+
+IV. Difundir el conocimiento en materia electoral y su área contenciosa, así como la educación cívica y la cultura democrática, a través de publicaciones y la realización de diversos eventos académicos con el objeto de contribuir al fomento de la cultura política;
+
+V. Fomentar la participación del personal jurídico del Tribunal en actividades académicas, con instituciones docentes o de investigación, públicas o privadas;
+
+VI. Proponer al Magistrado Presidente, la celebración de convenios de colaboración, intercambio y auxilio con universidades, escuelas, colegios, asociaciones civiles, institutos y demás organismos que tengan como objeto la investigación y capacitación jurídico-electoral, que representan un enriquecimiento académico reciproco, y
+
+Vll. Las demás que le confiera el Presidente, esta Ley y demás disposiciones aplicables.
 
 ## TÍTULO TERCERO. DE LA CONTRALORIA INTERNA Y DE LAS RESPONSABILIDADES
 
@@ -799,7 +843,7 @@ IV. Destitución del cargo; e
 
 V. Inhabilitación para ocupar un cargo en los Organos del Tribunal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -1002,3 +1046,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 TERCERO.- El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
+
+P.O. 16 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor previa publicación en el Periódico Oficial del Estado de Quintana Roo, al día siguiente a aquel en el que inicie la vigencia del Decreto por el que se reforma el párrafo sexto de la fracción II del artículo 49, de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
