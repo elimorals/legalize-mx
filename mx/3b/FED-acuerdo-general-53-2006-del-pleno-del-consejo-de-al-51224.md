@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-53-2006-del-pleno-del-consejo-de-al-51224"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-08-11"
-last_updated: "2011-03-01"
+last_updated: "2014-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51224&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2006-07-10"
 ---
 # ACUERDO GENERAL 53/2006 DEL PLENO DEL CONSEJO DE AL JUDICATURA FEDERAL [ESTABLECIMIENTO DE LINEAMIENTOS PARA EL ARRENDAMIENTO Y ADQUISICION DE INMUEBLES EL PROPIO CONSEJO]
 
-ACUERDO GENERAL 53/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS PARA EL ARRENDAMIENTO Y ADQUISICION DE INMUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
+ACUERDO GENERAL 53/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS PARA EL ARRENDAMIENTO Y ADQUISICIÓN DE INMUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JUNIO DE 2014.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 11 de agosto de 2006.
 
@@ -93,21 +93,23 @@ DEL COMITE DE ADMINISTRACION INMOBILIARIA.
 
 De su creación. Se crea el Comité de Administración Inmobiliaria del Consejo de la Judicatura Federal, que sustituye al Comité de Arrendamiento de Inmuebles, en adelante “El Comité”, con carácter permanente, quien tendrá a su cargo el ejercicio de las atribuciones señaladas en el artículo 5 de este acuerdo, sin perjuicio del ejercicio directo de las mismas por parte de la Comisión de Administración.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 4.
 
-Integración. “El Comité” estará integrado en los siguientes términos:
+Integración. El Comité estará integrado en los siguientes términos:
 
-Presidente: El Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales;
+I. Presidente: Oficial Mayor; y
 
-Vocales: Los Secretarios Ejecutivos de Finanzas y de Administración;
-
-Los citados integrantes, que siempre serán tres, salvo ausencia de alguno de ellos, tendrán derecho a voz y voto durante las sesiones.
+II. Vocales: Secretario Ejecutivo de Administración y Coordinador de Administración Regional.
 
 ###### ARTICULO 5.
 
 Atribuciones del Comité. “El Comité” tendrá las siguientes atribuciones:
 
-I. Analizar, opinar y proponer a la autorización del Pleno, previa validación de la Comisión de Administración, los programas anuales y requerimientos para la adquisición y arrendamiento de inmuebles que presenten la Comisión de Creación de Nuevos Organos, así como las Direcciones Generales de Recursos Materiales y Servicios Generales y de Administración Regional, así como darles seguimiento;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
+
+I. Analizar, opinar y proponer a la autorización del Pleno, previa validación de la Comisión de Administración, los programas anuales y requerimientos para la adquisición y arrendamiento de inmuebles que atiendan las necesidades del Poder Judicial de la Federación, así como darles seguimiento;
 
 II. Valorar la información contenida en los puntos para acuerdo relativos al arrendamiento de inmuebles y, en su caso, previo informe que se rinda a la Comisión de Administración, autorizar la negociación de los contratos correspondientes;
 
@@ -132,6 +134,10 @@ XI. Determinar, previa la opinión de la Comisión de Administración, la adjudi
 XII. Valorar y proponer al Pleno, previa opinión de la Comisión de Administración, la devolución de bienes inmuebles federales al Instituto de Administración y Avalúos de Bienes Nacionales, que no sean susceptibles de aprovechamiento por parte del Consejo de la Judicatura Federal;
 
 XIII. Proponer a la Comisión de Administración, para su aprobación, los procedimientos de actualización y control del patrimonio inmobiliario del Poder Judicial de la Federación;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
+
+XIII. Bis. Emitir lineamientos para la adquisición de inmuebles;
 
 XIV. Disponer que se tramiten por conducto de la Dirección General de Asuntos Jurídicos, las inscripciones en el Registro Público de la Propiedad Federal de los títulos a que se refiere el artículo 42 de la Ley General de Bienes Nacionales;
 
@@ -175,9 +181,11 @@ VI. Cumplir las disposiciones establecidas en la Ley Orgánica del Poder Judicia
 
 VII. Las demás funciones que les sean encomendadas por el Pleno o la Comisión de Administración del Consejo de la Judicatura Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 8.
 
-Funciones del Secretario. “El Comité” se auxiliará en lo administrativo con un Secretario, que será el Secretario Técnico del Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales, quien se encargará de lo siguiente:
+Funciones del Secretario. El Comité se auxiliará en lo administrativo del Secretario Técnico de Comités de la Secretaría Ejecutiva de Administración, quien se encargará de lo siguiente:
 
 I. Convocar a las reuniones de “El Comité”;
 
@@ -221,9 +229,13 @@ El Secretario Técnico de la Comisión de Administración tendrá el carácter d
 
 Funcionamiento de “El Comité”. Las sesiones de “El Comité” se celebrarán de la siguiente forma:
 
-I. Tendrán lugar siempre que sea necesario y las decisiones se tomarán por mayoría de votos;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
 
-II. Para la validez de las sesiones será necesaria la presencia del Presidente y un vocal. En casos estrictamente necesarios, en ausencia del Presidente, las sesiones serán presididas por el Secretario Ejecutivo de Finanzas, con la asistencia del otro vocal;
+I. Tendrán lugar siempre que sea necesario y las decisiones se tomarán por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
+
+II. Para la validez de las sesiones será necesaria la presencia del Presidente y un vocal. En casos estrictamente necesarios, en ausencia del Presidente, las sesiones serán presididas por el Secretario Ejecutivo de Administración, con la asistencia del otro vocal;
 
 III. La convocatoria se notificará a los miembros de “El Comité” con un día hábil de anticipación; sin embargo, en sesiones extraordinarias dicho término podrá reducirse;
 
@@ -385,9 +397,11 @@ Modelos de contrato. La Dirección General de Asuntos Jurídicos deberá proporc
 
 Si hubiere discrepancia con alguna de sus cláusulas, o el arrendador propone otro modelo de contrato, dicha situación se hará del conocimiento de la Dirección General de Asuntos Jurídicos para su análisis y, en su caso, aprobación. Si el dictamen es el de respetar el modelo de contrato aprobado por el Consejo de la Judicatura Federal y el arrendador no lo acepta, el asunto se someterá a la consideración de “El Comité”, por conducto de la Dirección General de Recursos Materiales y Servicios Generales o de Administración Regional, para que decida en definitiva.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 24.
 
-Del monto de las erogaciones y el tiempo para realizar mejoras, excluyendo los equipos de recuperación. El monto de las erogaciones en mejoras y adaptaciones, con excepción de equipos de recuperación, no deberá exceder el equivalente a treinta y seis meses de la renta pactada y el tiempo requerido para la ejecución de las mejoras no deberá rebasar tres meses, salvo disposición en contrario de “El Comité”.
+Del monto de las erogaciones y el tiempo para realizar mejoras, excluyendo los equipos de recuperación. El monto de las erogaciones en mejoras y adaptaciones, con excepción de equipos de recuperación, no deberá exceder el equivalente a treinta y seis meses de la renta pactada y el tiempo requerido para la ejecución de las mejoras no deberá rebasar tres meses, contados a partir del inicio de la obra, salvo disposición en contrario de "El Comité".
 
 ###### ARTICULO 25.
 
@@ -533,63 +547,113 @@ La Comisión de Administración será la instancia competente para determinar re
 
 DE LA ADQUISICION DE INMUEBLES.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 41.
 
-Consideraciones previas. La adquisición de bienes inmuebles para el servicio del Poder Judicial de la Federación, deberá orientarse invariablemente a la satisfacción de las necesidades de espacio para el establecimiento de órganos jurisdiccionales, auxiliares y áreas administrativas, que formulen el Pleno, las Comisiones de Creación de Nuevos Organos y de Administración y la Secretaría Ejecutiva de Obra Recursos Materiales y Servicios Generales, conforme a los siguientes puntos:
+Condiciones previas. La adquisición de bienes inmuebles para el servicio del Poder Judicial de la Federación, deberá orientarse invariablemente a la satisfacción de sus necesidades de espacio, conforme a lo siguiente:
 
-I. Las propuestas de adquisición de inmuebles, deberán ajustarse a los programas que para la instalación, funcionamiento y reubicación de órganos jurisdiccionales formule anualmente la Comisión de Creación de Nuevos Organos, así como a los programas de reubicación que apruebe el Pleno o la Comisión de Administración;
+I. Las propuestas de adquisición de inmuebles, deberán ajustarse a los programas anuales y requerimientos para la adquisición y arrendamiento de inmuebles para atender las necesidades del Poder Judicial de la Federación;
 
-II. Una vez acreditada la justificación para la adquisición de un inmueble en una localidad determinada, previamente deberá revisarse el Sistema de Información Inmobiliaria Federal y Paraestatal, para determinar la existencia de inmuebles federales disponibles parcial o totalmente, adecuados o convenientes a las necesidades planteadas;
+II. Acreditada la justificación para la adquisición de un inmueble en localidad determinada, deberá revisarse previamente el Sistema de Información Inmobiliaria Federal y Paraestatal, con el objeto de verificar la existencia de inmuebles federales disponibles, parcial o totalmente, adecuados o convenientes a las necesidades planteadas;
 
-III. Independientemente de la gestión a que se refiere la fracción anterior, las Direcciones Generales de Recursos Materiales y Servicios Generales o de Administración Regional, por conducto de sus Administraciones Regionales y Delegaciones Administrativas, según corresponda, deberán promover ante las autoridades estatales o municipales de la localidad donde se requiera del inmueble, la donación, permuta, o en su caso comodato de inmuebles cuyas características, ubicación y dimensiones puedan ser aprovechados para la instalación, funcionamiento o reubicación de órganos jurisdiccionales, auxiliares o áreas administrativas. Tratándose de donación de terrenos, previamente a su aceptación, deberá verificarse que el término condicionante para iniciar la construcción por parte del Consejo de la Judicatura Federal, no sea menor a dos años;
+III. Independientemente de la gestión a que se refiere la fracción anterior, la Dirección General de Servicios Generales y la Coordinación de Administración Regional, por conducto de sus Administraciones Regionales y Delegaciones Administrativas, según corresponda, en los casos en que se estime conveniente, gestionarán ante las autoridades de las entidades federativas o municipales de la localidad donde se requiera el inmueble, la donación, permuta o, en su caso, comodato cuyas características, ubicación y dimensiones puedan ser aprovechados para la instalación, funcionamiento o reubicación de órganos jurisdiccionales, auxiliares o unidades administrativas. Tratándose de donación de terrenos, previamente a su aceptación, deberá verificarse que el término sujeto a condición para iniciar la construcción por parte del Consejo de la Judicatura Federal, no sea menor a dos años;
 
-IV. La Dirección General de Inmuebles y Mantenimiento deberá dictaminar si el inmueble a adquirir es viable para albergar a los órganos jurisdiccionales, auxiliares o administrativos de que se trate y realizará una estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado;
+IV. La Dirección General de Inmuebles y Mantenimiento deberá dictaminar si el inmueble que se pretende adquirir es viable para albergar a los órganos jurisdiccionales, auxiliares o unidades administrativas de que se trate y realizará la estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado;
 
-V. Las solicitudes de adquisición deberán contener la información relativa a la justificación de su adquisición; destino y ubicación del inmueble; su superficie; características técnicas y funcionales; la idoneidad de sus instalaciones; la preservación de la imagen institucional, así como las constancias a que se refieren las fracciones II y III precedentes;
+V. La Dirección General de Servicios Generales deberá recabar el dictamen favorable a que se refiere la fracción anterior, así como las opiniones de la Coordinación de Seguridad del Poder Judicial de la Federación y de la Dirección General de Protección Civil y Salud en el Trabajo;
 
-VI. Previamente a la solicitud a las instancias competentes para la adquisición de un inmueble, deberán preverse y gestionarse las disponibilidades presupuestales que permitan su pago, así como las autorizaciones para las inversiones que se requieran para su adaptación, remodelación, construcción en su caso, y los demás inherentes a la compraventa; y
+VI. A fin de garantizar los intereses del Consejo de la Judicatura Federal, la Dirección General de Servicios Generales recabará avalúo en el momento que lo estime oportuno;
 
-VII. La Dirección General de Inmuebles y Mantenimiento elaborará las normas con los datos técnicos de necesidades y requisitos que deban tener los inmuebles susceptibles de adquisición por parte del Consejo de la Judicatura Federal.
+VII. La Dirección General de Servicios Generales designará cuando lo estime oportuno, al Notario del Patrimonio Inmobiliario Federal.
+
+La designación del Notario se hará de entre aquellos que conforman la lista que elabora la Secretaría de la Función Pública; y deberá recaer preferentemente en aquél que se ubique en la entidad federativa en que se localice el inmueble.
+
+El Notario designado, al aceptar realizar la prestación de sus servicios profesionales para estos efectos, deberá hacerlo de conformidad con lo dispuesto en este Acuerdo y demás disposiciones aplicables;
+
+VIII. La Dirección General de Servicios Generales deberá obtener:
+
+a) Planos del inmueble;
+
+b) Dictamen de seguridad estructural;
+
+c) Constancia de uso de suelo;
+
+d) Escritura de propiedad del inmueble;
+
+e) En su caso, instrumento donde consten las facultades para actos de dominio del apoderado o representante legal;
+
+f) Identificación oficial del propietario, apoderado o representante legal;
+
+g) Certificado de existencia o inexistencia de gravámenes; y
+
+h) Los documentos que se requieran conforme a las disposiciones aplicables.
+
+Para la obtención de los documentos a que se refiere el párrafo anterior, la Dirección General de Servicios Generales podrá auxiliarse del Notario del Patrimonio Inmobiliario Federal designado, y de la Coordinación de Administración Regional a través de sus Administraciones Regionales y Delegaciones Administrativas.
+
+El Notario del Patrimonio Inmobiliario Federal deberá verificar que el uso de suelo sea compatible con la finalidad para la cual se pretende adquirir el inmueble; y el cumplimiento de los requisitos legales de los documentos a que se refieren los incisos c) y h) de ésta fracción;
+
+IX. Los documentos a que se refieren los incisos a) y b) de la fracción anterior, deberán contar con dictamen favorable de la Dirección General de Inmuebles y Mantenimiento;
+
+X. El Notario del Patrimonio Inmobiliario Federal deberá revisar la documentación necesaria para la adquisición del inmueble y elaborará el proyecto de instrumento jurídico que proceda para ese fin, para lo cual podrá solicitar a la Dirección General de Servicios Generales la información y documentación que estime necesaria.
+
+El proyecto que elabore el Notario del Patrimonio Inmobiliario Federal será remitido a la Dirección General de Asuntos Jurídicos para su dictamen. Si ésta considera que dicho proyecto cumple con los requisitos necesarios para su suscripción, lo remitirá al titular de la Dirección General de Servicios Generales. En el supuesto contrario, formulará los comentarios y las observaciones que estime procedentes y, en su caso, las remitirá al Notario del Patrimonio Inmobiliario Federal. El dictamen de la Dirección General de Asuntos Jurídicos debe precisar si los documentos a que se refiere la fracción VIII, incisos d) a g) de este artículo cumplen favorablemente con los requisitos legales.
+
+Cuando el Notario del Patrimonio Inmobiliario Federal considere que resulta jurídicamente improcedente realizar la adquisición o que falten requisitos para ello, elaborará un documento en el que especifique las razones de esa circunstancia y lo remitirá a la Dirección General de Asuntos Jurídicos, quien previa revisión y opinión del mismo lo remitirá a la Dirección General de Servicios Generales;
+
+XI. El expediente de viabilidad para la adquisición del inmueble deberá contener la información relativa a su justificación; destino y ubicación; superficie; características técnicas y funcionales; idoneidad de instalaciones; preservación de imagen institucional, así como las constancias a que se refieren las fracciones II y, en su caso, III de este artículo;
+
+XII. Antes de que ese expediente se someta a consideración del Comité, deberán preverse y gestionarse la disponibilidad presupuestal que permita la operación, así como las autorizaciones para las inversiones que, en su caso, se requieran para su adaptación, remodelación o construcción, y los demás que resulten o se consideren necesarias para su fin;
+
+XIII. La Dirección General de Servicios Generales deberá someter el expediente a consideración del Comité, para lo cual deberá acompañar los soportes documentales requeridos, salvo aquellos casos en que se estime conveniente presentarlo sin contar con la totalidad de estos; y
+
+XIV. El Comité deberá analizar el expediente y en caso de cumplir con los requisitos, emitir un dictamen de la adquisición, en el cual se precise que los documentos presentados cumplen con los fines que se pretenden con la adquisición.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 42.
 
-Formalidades. Una vez que la instancia competente determine aprobar la solicitud de adquisición de un inmueble para el Consejo de la Judicatura Federal, la Dirección General de Recursos Materiales y Servicios Generales dispondrá lo conducente para que se recabe del propietario, apoderado o representante legal, la siguiente documentación:
-
-I. Escritura de propiedad del inmueble;
-
-II. Testimonio donde consten las facultades para actos de dominio del apoderado o representante legal e identificación oficial;
-
-III. Planos del inmueble y dictamen de seguridad estructural;
-
-IV. Constancia de uso de suelo del inmueble; y
-
-V. Certificado de libertad de gravámenes.
+Normas técnicas. La Dirección General de Inmuebles y Mantenimiento elaborará las normas con los datos técnicos de necesidades, requisitos y condiciones que deban tener los inmuebles susceptibles de adquisición por parte del Consejo de la Judicatura Federal.
 
 ###### ARTICULO 43.
 
-Revisión legal. Una vez integrada la información a que se refiere el artículo anterior, la Dirección General de Recursos Materiales y Servicios Generales instruirá que ésta sea remitida a la Dirección General de Asuntos Jurídicos para su revisión legal. De cumplir con los requisitos exigidos la documentación será validada y devuelta, en caso contrario, se precisará la documentación omitida o incompleta para que se requiera su exhibición o corrección al propietario, apoderado o representante legal, quedando mientras tanto en suspenso el trámite respectivo.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 44.
 
-Avalúos. Para la adquisición de cualquier inmueble para uso del Poder Judicial de la Federación, se tomará en cuenta que el precio sea acorde a las condiciones del mercado inmobiliario de la localidad, lo cual se verificará mediante avalúo que podrá ser elaborado por las instituciones de crédito o sociedades nacionales de crédito o por la Sociedad de Ingenieros Civiles Valuadores (SICIV), afiliada al Colegio de Ingenieros de México, según se considere más conveniente; sólo por excepción podrá solicitarse avalúo distinto a los antes indicados y, en casos urgentes, prescindirse del avalúo.
+Avalúos. Para la adquisición de cualquier inmueble para uso del Poder Judicial de la Federación, se tomará en cuenta que el precio sea acorde a las condiciones del mercado inmobiliario de la localidad, lo cual se verificará mediante avalúo que será elaborado, a elección del Secretario Ejecutivo de Administración, por el Instituto de Administración y Avalúos de Bienes Nacionales; por instituciones de crédito; sociedades nacionales de crédito; o por la Sociedad de Ingenieros Civiles Valuadores (SICIV), afiliada al Colegio de Ingenieros de México. Excepcionalmente podrá solicitarse más de un avalúo o bien uno distinto a los antes indicados.
+
+El perito valuador designado deberá cumplir con la normatividad aplicable para la validez del avalúo.
 
 El precio de la adquisición no podrá exceder al determinado por el avalúo a que se refiere el párrafo precedente. En caso de negativa del vendedor a aceptar dicho precio, y por razones debidamente justificadas, el Pleno podrá realizar los ajustes que considere convenientes.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 45.
 
-Autorizaciones. Una vez satisfechos los requisitos precedentes, el Responsable Inmobiliario del Consejo de la Judicatura Federal, someterá a la consideración de la Comisión de Administración, con el visto bueno de “El Comité”, la viabilidad de la adquisición, para que en su caso, se proponga al Pleno para su aprobación definitiva. De ser aprobado por el Pleno, éste designará al funcionario que deba suscribir por parte del Consejo la escritura de compraventa respectiva.
+Autorizaciones. El titular de la Secretaría Ejecutiva de Administración, previo dictamen del Comité, someterá a la consideración de la Comisión de Administración la solicitud de autorización de la adquisición con el expediente debidamente integrado, el cual deberá contener la documentación a que alude el artículo 41 de este Acuerdo. Esto con el fin de que ese órgano colegiado proponga al Pleno, en su caso, la aprobación de la adquisición. De ser aprobada por el Pleno, éste designará al servidor público que deba suscribir por parte del Consejo de la Judicatura Federal el instrumento jurídico respectivo.
 
-En la recepción de los inmuebles, invariablemente se levantará acta circunstanciada en la que se haga constar el inventario, las condiciones de las instalaciones y equipos propios del inmueble, aplicándose en lo conducente, las prevenciones consignadas en el artículo 18 de este acuerdo.
+Cuando se considere aplicable la excepción a que se refiere el artículo 41, fracción XIII, de este Acuerdo, el expediente podrá presentarse sin que esté debidamente integrado en los términos que prevé el párrafo anterior. En este supuesto, el Pleno podrá autorizar la adquisición del inmueble condicionada al cumplimiento de los requisitos que exija la normatividad aplicable. En todo caso, el Comité será responsable de verificar dicho cumplimiento.
+
+En la recepción de los inmuebles, invariablemente se levantará acta circunstanciada en la que se haga constar el inventario, las condiciones de las instalaciones y equipos propios del inmueble, aplicándose en lo conducente, las prevenciones consignadas en el artículo 18 de este Acuerdo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 46.
 
-Designación de Notario. Aprobada por el Pleno la adquisición, el asunto se turnará a la Dirección General de Asuntos Jurídicos para que proceda a la designación del Notario Público y del Patrimonio Inmobiliario Federal ante quien se formalizará la adquisición.
+Formalización de la Adquisición. Aprobada por el Pleno la adquisición, el asunto se turnará a la Dirección General de Asuntos Jurídicos para que por su conducto se comunique al Notario del Patrimonio Inmobiliario Federal antes designado, que lleve a cabo las gestiones necesarias para formalizarla.
 
-Esta Dirección General aportará al fedatario toda la documentación legal que se requiera y verificará que una vez firmada la escritura respectiva, se inscriba en el Registro Público de la Propiedad Federal y en el que corresponda a la ubicación del inmueble, dando aviso de ello al Responsable Inmobiliario del Consejo.
+Esta Dirección General verificará que una vez firmado el instrumento jurídico respectivo, se inscriba en los Registros Públicos correspondientes, dando aviso de ello al Secretario Ejecutivo de Administración.
 
 ###### ARTICULO 47.
 
 Honorarios notariales. En las operaciones contractuales en que participe el Poder Judicial de la Federación, por conducto del Consejo de la Judicatura Federal, y en términos de lo dispuesto por el artículo 98 de la Ley General de Bienes Nacionales, los honorarios que correspondan conforme al arancel que establezca los honorarios de los notarios, se reducirán en un cincuenta por ciento.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2014)</small>
+
+Los honorarios comprenderán las gestiones y trámites que, en su caso, lleve a cabo el Notario del Patrimonio Inmobiliario Federal para la obtención de los documentos a que se refiere el artículo 41, fracción VIII, de este Acuerdo, con independencia de que se formalice la adquisición.
 
 ### CAPITULO VIII
 
@@ -894,3 +958,9 @@ PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en los medios electrónicos de consulta pública con los que cuente el Consejo de la Judicatura Federal.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para el Arrendamiento y Adquisición de Inmuebles en el Consejo de la Judicatura Federal.
+
+D.O.F. 16 DE JUNIO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
