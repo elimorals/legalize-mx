@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2014-06-09"
+last_updated: "2014-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JUNIO DE 2014.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2057,6 +2057,10 @@ XV.- Entregue o acuerde entregar numerario o bienes en especie a servidores púb
 
 La sanción correspondiente a este caso será independiente de la inhabilitación que en su caso proceda.
 
+> <small>(ADICIONADA, B.O. 16 DE JUNIO DE 2014)</small>
+
+XVI.- Omitir el registro de la detención correspondiente o dilatar injustificadamente la acción de poner al detenido a disposición de la autoridad correspondiente.
+
 ###### ARTICULO 181.
 
 Comete el delito de tortura el servidor público que, directamente o valiéndose de terceros y en ejercicio de sus funciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos, con el fin de obtener de ella o de un tercero su confesión, una información, un comportamiento determinado o con el propósito de castigarla por un hecho cierto o supuesto.
@@ -2923,7 +2927,79 @@ IV.- Al que contraiga matrimonio o a quienes autoricen su celebración con un in
 
 Se impondrán de seis meses a cinco años de prisión y de diez a doscientos días multa al que, estando unido con una persona en matrimonio no disuelto, ni declarado nulo, contraiga otro matrimonio con las formalidades legales. Estas mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al momento de celebrarse el matrimonio.
 
-### CAPITULO I. LESIONES
+### CAPITULO III. USURPACION DE PERSONALIDAD O IDENTIDAD
+
+> <small>(ADICIONADO, B.O. 16 DE JUNIO DE 2014)</small>
+
+ARTICULO 241 BIS.- Al que por cualquier medio usurpe la personalidad o identidad de otra persona, con fines ilícitos, se le impondrá una pena de dos a seis años de prisión y de cuatrocientos a seiscientos días multa.
+
+Al que otorgare su consentimiento para ser suplantado por un tercero en su persona o identidad, con fines ilícitos, se le considerará igualmente responsable del delito previsto en el párrafo anterior o del contemplado en el artículo siguiente, aplicándose las mismas penas que al usurpador.
+
+> <small>(ADICIONADO, B.O. 16 DE JUNIO DE 2014)</small>
+
+ARTICULO 241 BIS 1.- Cometerá también el delito de Usurpación de Personalidad o identidad y se impondrá una pena de dos a seis años de prisión y de cuatrocientos a seiscientos días multa, el que con el objeto de suplantar a otro con fines ilícitos, se acredite con la personalidad de éste, alterando, reproduciendo, falsificando, utilizando o proporcionando, ante terceros, cuando menos alguna de la siguiente información o documentos personales del suplantado:
+
+I. Nombre;
+
+II. Número de Seguridad Social;
+
+III.- Registro Federal de Contribuyentes;
+
+IV.- Clave Única de Registro de Población;
+
+V.- Clave de Elector;
+
+VI.- Números de Tarjeta de Crédito, números confidenciales y/o claves de acceso a servicios de banca por Internet, telefónicos o cualquier otro dato o elemento que permita el acceso a los servicios bancarios del afectado;
+
+VII.- Tarjetas de Crédito o plásticos bancarios del titular o adicionales;
+
+VIII.- Chequeras del titular de cuenta;
+
+IX.- Actas de Nacimiento o del Estado Civil;
+
+X.- Credencial para votar con fotografía o de elector;
+
+XI.- Licencia de conducir;
+
+XII.- Pasaporte;
+
+XIII.- Cédulas Profesionales;
+
+XIV.- Títulos Profesionales, Certificados o Constancias de Estudios;
+
+XV.- Credenciales Escolares o laborales;
+
+XVI.- Declaraciones Fiscales;
+
+XVII.-Documentos o Constancias laborales;
+
+XVIII.- Expedientes públicos o judiciales;
+
+XIX.- Boletas Prediales; Recibos de Agua, Teléfono, Suministro de Energía Eléctrica; Estado de Cuenta Bancarios y/o de Servicios;
+
+XX.- Poderes Notariales;
+
+XXI.- Huellas dactilares;
+
+XXII.- Grabaciones de voz;
+
+XXIII.- Imágenes de retina;
+
+XXIV.- Número de teléfono celular, de oficina, domicilio o cualquier otro que permita la ubicación del titular;
+
+XXV.- Firma Autógrafa;
+
+XXVI.- Firma Electrónica; o
+
+XXVII.- Cualquier otra información o documento que identifique física o electrónicamente a un individuo; o permita el acceso a sus bienes o patrimonio o responsabilidades.
+
+> <small>(ADICIONADO, B.O. 16 DE JUNIO DE 2014)</small>
+
+ARTICULO 241 BIS 2.- En caso de que quien usurpe la personalidad o identidad de otro, se valga para ello de una homonimia, de la igualdad física genética entre hermanos gemelos, o del parecido físico con el suplantado, para cometer el ilícito, se aumentarán en una mitad las sanciones previstas en el Artículo 241 Bis, para este delito. La misma pena a que refiere este artículo se aplicará cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serio (sic), se valga de su profesión o empleo para ello.
+
+TITULO DECIMOSEXTO
+
+DELITOS CONTRA LA VIDA Y LA SALUD
 
 ###### ARTICULO 232.
 
@@ -2943,7 +3019,7 @@ Para que el perdón concedido por la víctima u ofendido, o representante de los
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE MAYO DEL 2001)</small>
 
-### CAPITULO II. HOMICIDIO
+### CAPITULO I. LESIONES
 
 ###### ARTICULO 234-A.
 
@@ -3031,11 +3107,9 @@ TITULO DECIMOCUARTO
 
 DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
+### CAPITULO II. HOMICIDIO
+
 ### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
-
-### CAPÍTULO III BIS. FEMINICIDIO
-
-> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 235.
 
@@ -3063,7 +3137,9 @@ TITULO DECIMOQUINTO
 
 DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
+### CAPÍTULO III BIS. FEMINICIDIO
+
+> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 238.
 
@@ -3085,7 +3161,7 @@ Si el amenazador cumple su amenaza, y como consecuencia resultare cometido otro 
 
 Si el amenazador exigía que el amenazado ejecutara un delito y consigue su propósito, se aplicarán las reglas relativas al concurso de delitos, respecto de la sanción aplicable a la amenaza y la que corresponda por su participación en el delito que resulte.
 
-### CAPITULO V. ABORTO
+### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
 
 ###### ARTICULO 240.
 
@@ -3101,9 +3177,9 @@ Se impondrán de cuatro a veinte años de prisión, si el asalto lo cometen dos 
 
 A quienes asalten una población, poblado o ranchería, se les sancionará con prisión de diez a cuarenta años.
 
-TITULO DECIMOSEXTO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE JUNIO DE 2014)</small>
 
-DELITOS CONTRA LA VIDA Y LA SALUD
+### CAPITULO V. ABORTO
 
 ### CAPITULO VI. VENTA CLANDESTINA DE BEBIDAS ALCOHOLICAS
 
@@ -3112,8 +3188,6 @@ DELITOS CONTRA LA VIDA Y LA SALUD
 ### CAPITULO VII. ABANDONO DE PERSONAS
 
 ### CAPITULO I. INJURIAS Y DIFAMACION
-
-### CAPITULO II. CALUMNIA
 
 ###### ARTICULO 242.
 
@@ -3187,11 +3261,7 @@ Los padres o tutores que a sabiendas que sus hijos o pupilos padecen alguna enfe
 
 Cuando el contagio llegare a consumarse, el responsable será sancionado en los términos que para el delito de lesiones u homicidio fija este Código.
 
-### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+### CAPITULO II. CALUMNIA
 
 ###### ARTICULO 252.
 
@@ -3273,11 +3343,13 @@ No se considerará calificado el homicidio cometido por la madre que prive de la
 
 Al responsable de cualquier otro homicidio calificado se impondrá de veinte a cincuenta años de prisión.
 
+### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
 ### CAPITULO I. CHANTAJE
-
-### CAPITULO II. EXTORSION
-
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 259.
 
@@ -3317,9 +3389,9 @@ ARTICULO 263 BIS.- Cuando la comisión de los delitos de homicidio o lesiones se
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO I. PRIVACION ILEGAL DE LIBERTAD Y VIOLACION DE OTROS DERECHOS
+### CAPITULO II. EXTORSION
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 263 Bis 1.
 
@@ -3357,11 +3429,27 @@ En el delito de feminicidio se observará lo que señalan los artículos 252 BIS
 
 Al servidor público que maliciosamente o por negligencia, retarde o entorpezca la procuración o administración de justicia, se le sancionará conforme a lo establecido en el artículo 193 fracción VII de éste Código Penal.
 
+### CAPITULO I. PRIVACION ILEGAL DE LIBERTAD Y VIOLACION DE OTROS DERECHOS
+
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO II. SECUESTRO
 
 (NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 264.
+
+El que prestare auxilio o indujere a otro para que se suicide, será sancionado con prisión de uno a siete años; si el suicidio se consumare, la sanción será de dos a nueve años de prisión.
+
+Si la persona a quien se auxilie o induzca al suicidio fuere menor de edad o no tuviere capacidad para comprender el significado del hecho, se sancionará al auxiliador o instigador con prisión de uno a quince años; si el suicidio se consumare, la sanción será de ocho a veinte años de prisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
+
+Si se auxilia o induce al suicidio a una persona por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
 ### CAPITULO III. SUSTRACCION Y TRAFICO DE MENORES E INCAPACES
 
@@ -3380,24 +3468,6 @@ Se aplicará una mitad más de la pena señalada en el párrafo primero, a quien
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 Cuando el consentimiento, la entrega y recepción del menor o incapaz, se haga con el propósito de incorporarlo a un núcleo familiar y otorgarle los beneficios propios de esa incorporación, las penas a que se refiere éste artículo se reducirán una mitad en su término mínimo y máximo.
-
-###### ARTICULO 264.
-
-El que prestare auxilio o indujere a otro para que se suicide, será sancionado con prisión de uno a siete años; si el suicidio se consumare, la sanción será de dos a nueve años de prisión.
-
-Si la persona a quien se auxilie o induzca al suicidio fuere menor de edad o no tuviere capacidad para comprender el significado del hecho, se sancionará al auxiliador o instigador con prisión de uno a quince años; si el suicidio se consumare, la sanción será de ocho a veinte años de prisión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
-
-Si se auxilia o induce al suicidio a una persona por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
-
-### CAPITULO IV. TRATA DE PERSONAS
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 265.
 
@@ -3425,7 +3495,11 @@ No es punible el aborto causado por culpa de la mujer embarazada, o cuando el em
 
 No se aplicará sanción alguna cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO I. ROBO
+### CAPITULO IV. TRATA DE PERSONAS
+
+(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 271.
 
@@ -3459,7 +3533,7 @@ Además de las sanciones señaladas, se decretará el decomiso en beneficio del 
 
 Si las conductas a que se refieren las fracciones anteriores se llevan a cabo en más de una ocasión, la sanción será de dos a nueve años y de cincuenta a mil días multa.
 
-### CAPITULO II. ABIGEATO
+### CAPITULO I. ROBO
 
 ###### ARTICULO 272.
 
@@ -3495,9 +3569,9 @@ TITULO DECIMOSEPTIMO
 
 DELITOS CONTRA EL HONOR
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 276.
 
@@ -3531,7 +3605,7 @@ DELITOS CONTRA EL HONOR
 
 (DEROGADO, B.O. 12 DE JULIO DE 2007)
 
-### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
+### CAPITULO IV. FRAUDE
 
 ###### ARTICULO 284.
 
@@ -3573,7 +3647,7 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio, en la investigación de un delito o imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-### CAPITULO VI. DESPOJO
+### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
 
 ###### ARTICULO 288.
 
@@ -3603,7 +3677,7 @@ TITULO DECIMOCTAVO
 
 CHANTAJE Y EXTORSION
 
-### CAPITULO VII. DAÑOS
+### CAPITULO VI. DESPOJO
 
 ###### ARTICULO 292.
 
@@ -3611,7 +3685,7 @@ Comete el delito de chantaje, el que con ánimo de lucro u otro provecho, bajo l
 
 Al responsable del delito de chantaje se le impondrán de seis meses a diez años de prisión y de diez a trescientos días multa.
 
-### CAPÍTULO I. ENCUBRIMIENTO
+### CAPITULO VII. DAÑOS
 
 ###### ARTICULO 293.
 
@@ -3635,15 +3709,7 @@ PRIVACION ILEGAL DE LA LIBERTAD, VIOLACION DE OTROS DERECHOS, SECUESTRO Y TRATA 
 
 ## TITULO VIGESIMO. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
 
-### CAPÍTULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
-
-ARTÍCULO 329 TER.- Al que por sí o por interpósita persona posea, adquiera, enajene, administre, custodie, cambie, altere, deposite, dé en garantía, invierta, transporte o transfiera recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y de mil a cinco mil días multa.
-
-Las penas previstas en el párrafo anterior serán aumentadas, en una mitad, cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
-
-Para efectos de este artículo se entiende que proceden o representan el producto de una actividad ilícita, los recursos, derechos o bienes, de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de éste.
+### CAPÍTULO I. ENCUBRIMIENTO
 
 ###### ARTICULO 294.
 
@@ -3683,7 +3749,15 @@ ARTICULO 295 BIS.- Si el sujeto activo, espontáneamente, deja en libertad a la 
 
 Se equipara al delito de privación ilegal de libertad y se sancionará con la pena prevista en el artículo 294 de este Código a quien, por cualquier medio, ilegalmente obligue a otro a llevar a cabo una conducta o abstenerse de realizarla, afectándole su capacidad de actuar, de cualquier modo.
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPÍTULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
+
+ARTÍCULO 329 TER.- Al que por sí o por interpósita persona posea, adquiera, enajene, administre, custodie, cambie, altere, deposite, dé en garantía, invierta, transporte o transfiera recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y de mil a cinco mil días multa.
+
+Las penas previstas en el párrafo anterior serán aumentadas, en una mitad, cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
+
+Para efectos de este artículo se entiende que proceden o representan el producto de una actividad ilícita, los recursos, derechos o bienes, de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de éste.
 
 ###### ARTICULO 296.
 
@@ -3851,7 +3925,7 @@ Si además de los delitos previstos en este Título, resultare cometido otro, se
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
+### CAPITULO UNICO. DELITOS ELECTORALES
 
 ###### ARTICULO 301-B.
 
@@ -3904,6 +3978,8 @@ Si el agente devuelve al menor o incapaz espontáneamente, dentro de los tres d�
 A excepción del previsto por el artículo 301-E, el resto de los delitos previstos por este Capítulo sólo se perseguirán por querella de la víctima u ofendido o del legítimo representante.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE ABRIL DE 2008)</small>
+
+### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
 
 ###### ARTICULO 301-J.
 
@@ -4740,3 +4816,19 @@ DECRETO NÚMERO 104, POR EL QUE SE REFORMA EL ARTÍCULO 293 DEL CÓDIGO PENAL DE
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 16 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 113 POR EL QUE SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 180 DEL CÓDIGO PENAL PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 114 POR EL QUE SE ADICIONAN UN CAPÍTULO III DENOMINADO "USURPACIÓN DE PERSONALIDAD O IDENTIDAD" Y LOS ARTÍCULOS 241 BIS, 241 BIS 1 Y 241 BIS 2; AL TÍTULO DÉCIMOQUINTO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
