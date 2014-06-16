@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-sistema-de-participacion-ciudadana-municipal-573
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-15"
-last_updated: "2014-03-10"
+last_updated: "2014-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de octubre de 2007.
 
@@ -137,7 +137,7 @@ I. Consejo de la Ciudad de Aguascalientes;
 
 II. Consejo de Desarrollo Municipal. (CODEMUN);
 
-III. Consejos Regionales de Desarrollo;
+III. (DEROGADA, P.O. 16 DE JUNIO DE 2014)
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -343,43 +343,75 @@ III. El Titular del Instituto Municipal de Planeación, quien fungirá como Secr
 
 IV. (DEROGADA, P.O. 10 DE MARZO DE 2014)
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
-V. Un representante electo democráticamente de cada uno de los Consejos Regionales de Desarrollo que durarán en su cargo tres años;
+V. Un representante de cada una de las zonas de pobreza (AGEB´s o comunidades) proveniente de la Estructura de los Grupos de Acción y Participación Social. Las AGEB´s, Áreas Geoestadísticas Básicas, serán determinadas en base al Informe Anual sobre la situación de pobreza y rezago social en el Municipio emitido por la CONEVAL y los Lineamientos del Fondo de Aportaciones para la Infraestructura Social Municipal, emitidos por la Secretaria de Desarrollo Social Federal.
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+En caso de existir más de un grupo de acción y participación por AGEB, se nombrará un representante de entre los presidentes de los GAPS y en el caso de las comunidades el Comisario Municipal fungirá como consejero.
 
-VI. Un Vocal de Control y Vigilancia designado por los Delegados Municipales, el cual no podrá ser servidor público y durará en su cargo hasta tres años;
+Anualmente solo cambiara el representante de la AGEB o comunidad que deje de pertenecer al informe anual de la CONEVAL o los Lineamientos emitidos por la SEDESOL quienes durarán en su cargo no más de una administración municipal.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+VI. Un Vocal de Control y Vigilancia que será electo democráticamente de entre los integrantes del CODEMUN. El cual no podrá ser servidor público y será designado por cada ejercicio fiscal pudiendo este ser reelecto por un periodo igual.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2014, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DE LA PRESENTE FRACCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
 VII. Un equipo asesor coordinado por el Secretario de Desarrollo Social del Municipio de Aguascalientes e integrado por:
 
-a) El Secretario de Finanzas del Municipio de Aguascalientes.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-b) El Director de Desarrollo Social.
+a) El Secretario de Finanzas;
 
-c) El Director de Programas Sociales de la Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-d) El Coordinador de Delegaciones Rurales de la Secretaría de Desarrollo Social.
+b) El Secretario de Obras Públicas;
 
-e) El Secretario de Obras Públicas del Municipio de Aguascalientes.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-f) Un Representante de la Coordinación Estatal de Planeación y Proyectos del Gobierno del Estado.
+c) El Secretario de Servicios Públicos;
 
-g) Un representante de la Secretaría de Desarrollo Social Federal.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-h) El Regidor Presidente de la Comisión de Desarrollo Social.
+d) El Director General de la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes;
 
-i) El Regidor Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-j) Un representante de la Secretaría de Bienestar y Desarrollo Social de (sic) Gobierno del Estado de Aguascalientes.
+e) El Director de Desarrollo Social;
 
-k) Un representante de Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
-l) Los Delegados Municipales.
+f) El Director de Programas Sociales;
 
-Cuando se traten asuntos relacionados con el Fondo para la Infraestructura Social Municipal del Ramo 33, el equipo asesor sólo tendrá derecho a voz; a excepción de los Regidores Presidente de la Comisión de Desarrollo Social y Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes quienes además tendrán derecho a voto; y durará en el cargo el tiempo que dure su gestión.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+g) Un representante de la Secretaría de Desarrollo Social Federal;
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+h) Un representante de la Coordinación Estatal de Planeación y Proyectos;
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+i) El Regidor Presidente de la Comisión de Desarrollo Social; y (sic)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+j) El Regidor Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE JUNIO DE 2014)</small>
+
+k) Un representante de la Secretaría de Bienestar y Desarrollo Social Estatal, con voz únicamente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2014)</small>
+
+Cada integrante del equipo asesor designará a un suplente mediante oficio, presentado a la Secretaria de Desarrollo Social, mismo que cubrirá las ausencias del titular, previa justificación.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+Cuando se traten asuntos relacionados con el Fondo para la Infraestructura Social Municipal del Ramo 33, el equipo asesor sólo tendrá derecho a voz; a excepción de los Regidores Presidente de la Comisión de Desarrollo Social y Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes quienes además tendrán derecho a voto y durará en el cargo el tiempo que dure la Administración municipal.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -391,29 +423,57 @@ Cuando se traten asuntos relacionados con el Fondo para la Infraestructura Socia
 
 Para efectos de coordinación y buen funcionamiento del Sistema de Participación Ciudadana Municipal, corresponde al Consejo de Desarrollo Municipal lo siguiente:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
-I. Convocar, a través de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, a reuniones de los Consejos Regionales de Desarrollo.
+I. Convocar, a través de la Secretaria de Desarrollo Social del Municipio de Aguascalientes a reuniones del Consejo de Desarrollo Municipal.
+
+El Consejo de Desarrollo Municipal sesionará válidamente con la asistencia de la mitad más uno de los miembros, entre los cuales deberá estar el Presidente o su Suplente.
+
+Los acuerdos se tomarán por mayoría de votos de los asistentes, teniendo voto de calidad ya sea el Presidente, o el Secretario de Desarrollo Social si es el caso de que esté cubriendo la ausencia del primero.
 
 II. Promover los programas y acciones municipales a través del Sistema de Participación Ciudadana Municipal;
 
 III. Integrar, al Programa Anual de Obra Pública Municipal, las propuestas sobre obras a realizar con recursos provenientes de programas federales, que sean recopiladas a través de los órganos del Sistema y de las diversas vías de participación ciudadana;
 
-IV. Informar a la ciudadanía, a través de los órganos del Sistema de Participación Ciudadana Municipal, sobre los montos, obras y acciones a realizar con los recursos federales asignados o por asignar;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
-V. Promover e impulsar la participación social en la integración de la demanda de obras y servicios públicos que deban realizarse con recursos otorgados mediante programas federales, buscando el desarrollo de las comunidades, colonias o fraccionamientos;
+IV. Promover la creación de planes de desarrollo y superación de rezago social por AGEB o comunidad.
 
-VI. Vigilar que se cumpla con el compromiso de que los recursos sean dirigidos a atender las necesidades de las poblaciones de mayor rezago;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
-VII. Promover conjuntamente con los Delegados y Dependencias Municipales proyectos de interés común;
+V. Promover espacios de coordinación entre las diferentes expresiones organizativas que impulsen la comunicación y el desarrollo de las AGEB´s o comunidades en pobreza.
 
-VIII. Participar en el seno de la Coordinación Estatal de Planeación y Proyectos en la planeación del desarrollo del Estado y en particular en la orientación y aplicación de los recursos destinados a la obra pública y social contemplada en el Plan Nacional de Desarrollo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
-IX. Promover la elaboración de programas de desarrollo comunitario donde se identifiquen a partir de un diagnóstico los proyectos de desarrollo integral;
+VI. Informar a la ciudadanía, a través de los grupos de acción y participación social, sobre los montos, obras y acciones a realizar con los diferentes recursos federales asignados o por asignar y los indicadores de rezago social que serán abatidos.
 
-X. Atender y canalizar propuestas y demandas específicas no relacionadas con el uso de recursos fiscales expuestas por organizaciones civiles, gremiales u otras y darles el seguimiento que corresponda;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
 
-XI. Implementar mecanismos de comunicación y difusión entre los órganos del Sistema de Participación Ciudadana Municipal.
+VII. Vigilar que se cumpla con el compromiso de que los recursos sean dirigidos a atender las necesidades de las poblaciones de mayor rezago.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+VIII. Promover conjuntamente con los Delegados y Dependencias Municipales proyectos de interés común.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+IX. Participar en el seno de la Coordinación Estatal de Planeación y Proyectos en la planeación del desarrollo del Estado y en particular en la orientación y aplicación de los recursos destinados a la obra pública y social contemplada en el Plan Nacional de Desarrollo.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+X. Promover la elaboración de programas de desarrollo comunitario donde se identifiquen a partir de un diagnóstico los proyectos de desarrollo.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+XI. Atender y canalizar propuestas y demandas específicas no relacionadas con el uso de recursos fiscales expuestas por organizaciones civiles, gremiales u otras y darles el seguimiento que corresponda.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+XII. Implementar mecanismos de comunicación y difusión entre los órganos del Sistema de Participación Ciudadana Municipal.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+XIII. Promover la capacitación de los integrantes del CODEMUN.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -443,101 +503,33 @@ III. Las propuestas y proyectos de organizaciones intermedias.
 
 ### CAPITULO V. De los Consejos Regionales de Desarrollo
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
-
 ###### ARTÍCULO 22.
 
-Los Consejos Regionales de Desarrollo, son organismos de coordinación intercomunitarios que permiten establecer mecanismos de acercamiento, comunicación y coordinación entre los Grupos De Acción Y Participación Social (GAPS) y de estos, a su vez, con el Consejo de Desarrollo Municipal.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
+(DEROGADO, P.O. 16 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 23.
 
-Los Consejos Regionales de Desarrollo, como instancias intermedias entre los Grupos De Acción Y Participación Social (GAPS) y el Consejo de Desarrollo Municipal, se integrarán por un representante de cada uno de los Consejos de Zonas de Participación Ciudadana Municipales el cual deberá ser Presidente de alguno de los Grupos De Acción Y Participación Social (GAPS) a propuesta del Coordinador de Unidad Territorial, ubicados en el ámbito geográfico de las Zonas de Participación Ciudadana Municipales respectivas.
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+(DEROGADO, P.O. 16 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 24.
 
-Para el funcionamiento de cada Consejo Regional, se formará una Mesa Directiva, integrada por:
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
-
-I. Un representante de la Secretaría de Desarrollo Social de Aguascalientes, quien presidirá la Mesa Directiva;
-
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
-
-II. Un representante del Instituto Municipal de Planeación, quien fungirá como Secretario Técnico;
-
-III. Un representante de la Secretaría de Servicios Públicos de Aguascalientes;
-
-IV. Un representante de la Secretaría de Obras Públicas del Municipio de Aguascalientes;
-
-V. Un representante de la Ccapama;
-
-VI. Un representante de Organismos Intermedios;
-
-VII. (DEROGADA, P.O. 10 DE MARZO DE 2014)
-
-Esta Mesa será la encargada de presidir las reuniones, archivar y vigilar el cumplimiento de sus acuerdos.
+(DEROGADO, P.O. 16 DE JUNIO DE 2014)
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
 ### CAPITULO VI. De las atribuciones del Consejo Regional de Desarrollo
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
-
 ###### ARTÍCULO 25.
 
-Para lograr el consenso y coadyuvar en la participación ciudadana, cada Consejo Regional de Desarrollo, deberá:
-
-I. Nombrar democráticamente a uno de sus integrantes quienes fungirán como representante (sic) ante el Consejo de Desarrollo Municipal;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
-
-II. Asistir a todas las reuniones convocadas por la Secretaría de Desarrollo Social.
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
-
-III. Conjuntamente con el titular de la Delegación, y los representantes de las diferentes Dependencias Municipales, recopilar, ordenar y priorizar las demandas ciudadanas de obras y servicios públicos que, para el efecto reciba de los Grupos De Acción y Participación Social (GAPS), de la ciudadanía y organizaciones intermedias en general, misma que será propuesta al Consejo de Desarrollo Municipal.
-
-IV. Informar al Consejo de Desarrollo Municipal de los acuerdos tomados en el seno de cada Consejo Regional de Desarrollo;
-
-V. Formar comisiones de trabajo que considere necesarias para atender de manera eficaz y consensuada la demanda ciudadana;
-
-VI. Apoyar en su labor al Vocal de Control y Vigilancia del Consejo de Desarrollo Municipal a fin de hacer más eficiente la tarea de contraloría social;
-
-VII. Remover de sus cargos por causa justificada a sus representantes ante el Consejo de Desarrollo Municipal;
-
-VIII. En coordinación con el titular de la Delegación respectiva, implementar acciones de gestión a nivel delegacional que trasciendan el ámbito comunitario.
+(DEROGADO, P.O. 16 DE JUNIO DE 2014)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
 ### CAPITULO VII. De los Consejos de Zonas de Participación Ciudadana Municipal
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
-
 ###### ARTÍCULO 26.
 
-A fin de que las demandas y prioridades de la ciudadanía sean analizadas en el seno del Consejo de Desarrollo Municipal, los representantes de cada Consejo Regional de Desarrollo deberán:
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
-
-I. Asistir a todas las reuniones que, por conducto de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, convoque el Consejo de Desarrollo Municipal.
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
-
-II. Participar con voz y voto en las decisiones que tome el Consejo y representar al Consejo Regional de Desarrollo y a toda sus Zonas de Participación Ciudadana Municipales.
-
-III. Presentar ante el Consejo de Desarrollo Municipal la propuesta y priorización de obra y de servicios públicos aprobada por el Consejo Regional de Desarrollo;
-
-IV. Informar a su Consejo Regional de Desarrollo de los acuerdos tomados por el Consejo de Desarrollo Municipal;
-
-V. Velar porque la planeación y programación, de obras y servicios públicos aprobadas por el Consejo de Desarrollo Municipal respondan a las necesidades más sentidas de la ciudadanía y sus comunidades;
-
-VI. Verificar, supervisar y evaluar la ejecución de obra pública y la aplicación de los recursos destinados al desarrollo social e informar al Consejo de Desarrollo Municipal;
-
-VII. Las demás que para el efecto establezca la normatividad existente para la aplicación de los recursos públicos municipales, estatales y federales.
+(DEROGADO, P.O. 16 DE JUNIO DE 2014)
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -987,17 +979,15 @@ III. Mantener permanente coordinación e intercomunicación sobre los programas 
 
 Para la ejecución de programas sociales deberán tomar en cuenta a los Grupos De Acción Y Participación Social (GAPS), además de apoyar y propiciar el buen funcionamiento de los programas de desarrollo comunitario que éstos implementen.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 63.
 
-Las Dependencias Municipales deberán asistir a las reuniones o recorridos comunitarios a que fueran requeridos por los Grupos De Acción Y Participación Social (GAPS) y deberán tener representación en todas las reuniones de los Consejos Regionales de Desarrollo.
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+Las Dependencias Municipales deberán asistir a las reuniones o recorridos comunitarios a que fueran requeridos por los Grupos de Acción y Participación Social (GAPS).
 
 ###### ARTÍCULO 64.
 
-Corresponde a las Delegaciones Municipales propiciar el espacio físico, así como el mobiliario y material necesario para las reuniones de los Consejos Regionales de Desarrollo.
+(DEROGADO, P.O. 16 DE JUNIO DE 2014)
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1142,3 +1132,7 @@ SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguient
 P.O. 10 DE MARZO DE 2014.
 
 UNICO.- Publíquese en (sic) el Presente Reglamento en el Periódico Oficial del Estado de Aguascalientes para que surta los efectos legales a que haya lugar a partir del día de su publicación.
+
+P.O. 16 DE JUNIO DE 2014.
+
+Primero.- Publíquese para los efectos legales a que haya lugar, entrando en vigor al día siguiente de su publicación.
