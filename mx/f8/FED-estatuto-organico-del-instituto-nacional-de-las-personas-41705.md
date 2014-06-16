@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-personas-41705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-12-06"
-last_updated: "2004-12-06"
+last_updated: "2014-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2002-11-06"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
-ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES, PUBLICADO EN EL D.O.F. DE 16 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JUNIO DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de diciembre de 2004.
 
@@ -1236,3 +1238,15 @@ El presente Estatuto Orgánico fue aprobado por el "Consejo Directivo" del Insti
 El "Consejo Directivo" del Instituto Nacional de las Personas Adultas Mayores, con fundamento en lo dispuesto por los artículos 90 de la Constitución Política de los Estados Unidos Mexicanos; 1o., 3o., fracción I, 9o., 27, 31, 32, 37, 38, 39, 40 y 45 de la Ley Orgánica de la Administración Pública Federal; 15 párrafo segundo y 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, y en cumplimiento a lo ordenado en el artículo quinto transitorio de la Ley de los Derechos de las Personas Adultas Mayores, publicado en el Diario Oficial de la Federación el 25 de junio de 2002, expide el presente Estatuto Orgánico.
 
 La Presidenta del Consejo Directivo y Secretaria de Desarrollo Social, Josefina Eugenia Vázquez Mota.- Rúbrica.- Los Consejeros: el Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.- El Secretario de Salud, Julio José Frenk Mora.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Carlos María Abascal Carranza.- Rúbrica.- Por el Sistema Nacional para el Desarrollo Integral de la Familia, Ana Teresa Aranda Orozco.- Rúbrica.- Por el Instituto Mexicano del Seguro Social, Santiago Levy Algazi.- Rúbrica.- Por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Benjamín González Roaro.- Rúbrica.- El Secretario Técnico del H. Consejo Directivo del Instituto Nacional de las Personas Adultas Mayores, Rafael Domínguez Morfín.- Rúbrica.- El Director General del Instituto Nacional de las Personas Adultas Mayores, Pedro Borda Hartmann.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE JUNIO DE 2014.
+
+Primero.- El presente estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Estatuto Orgánico del Instituto Nacional de las Personas Adultas Mayores publicado en el Diario Oficial de la Federación el 06 de diciembre de 2004.
+
+Tercero.- Se deroga cualquier disposición que se oponga al contenido del presente Estatuto.
+
+Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente estatuto se realizarán con cargo al presupuesto autorizado para tal fin a las dependencias o entidades de la Administración Pública Federal que correspondan, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
