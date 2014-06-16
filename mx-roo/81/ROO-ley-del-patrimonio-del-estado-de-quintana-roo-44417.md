@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-patrimonio-del-estado-de-quintana-roo-44417"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2005-03-28"
+last_updated: "2014-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2014 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 28 de marzo de 2005.
 
@@ -33,7 +35,7 @@ LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO.
 
 LA HONORABLE X LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
 
-D C R E T A:
+D E C R E T A:
 
 LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
@@ -45,33 +47,35 @@ LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
 La presente Ley es de orden público e interés general, reglamenta los Artículos 112, 113 y 114 de la Constitución Política del Estado de Quintana Roo y tiene por objeto regular la administración, conservación y enajenación de los bienes del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 ###### Artículo 2.
 
 Para los efectos de esta Ley se entenderá por:
 
-Comité: El Comité del Patrimonio Inmobiliario Estatal;
+I. Comité: El Comité del Patrimonio Inmobiliario Estatal;
 
-Concesión: El acto administrativo por virtud del cual, el Ejecutivo Estatal confiere a una persona física o moral, bienes del dominio público para su uso, aprovechamiento, explotación o para la prestación de un servicio público, acto que deberá ser autorizado por la Legislatura del Estado;
+II. Concesión: El acto administrativo por virtud del cual, el Ejecutivo Estatal confiere a una persona física o moral, bienes del dominio público para su uso, aprovechamiento, explotación o para la prestación de un servicio público, acto que deberá ser autorizado por la Legislatura del Estado;
 
-Dependencias: Las referidas como tal en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, incluyendo sus Órganos desconcentrados y demás Unidades Administrativas;
+III. Dependencias: Las referidas como tal en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, incluyendo sus Órganos desconcentrados y demás Unidades Administrativas;
 
-Entidades: Los Organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, referidos como tal en la Ley de Entidades Paraestatales;
+IV. Entidades: Los Organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, referidos como tal en la Ley de Entidades Paraestatales;
 
-Estado: El Orden de Gobierno que en los términos de esta Ley ejerce sus facultades en materia de bienes, a través de los poderes Legislativo, Ejecutivo o Judicial, según corresponda;
+V. Estado: El Orden de Gobierno que en los términos de esta Ley ejerce sus facultades en materia de bienes, a través de los poderes Legislativo, Ejecutivo o Judicial, según corresponda;
 
-Instituto: El Instituto del Patrimonio Inmobiliario de la Administración Pública Estatal;
+VI. Instituto: El Instituto del Patrimonio Inmobiliario de la Administración Pública Estatal;
 
-Ley Orgánica: La Ley Orgánica de la Administración Pública del Estado;
+VII. Ley Orgánica: La Ley Orgánica de la Administración Pública del Estado;
 
-Ley: La Ley del Patrimonio del Estado de Quintana Roo;
+VIII. Ley: La Ley del Patrimonio del Estado de Quintana Roo;
 
-Oficialía Mayor: La Oficialía Mayor del Gobierno del Estado;
+IX. Oficialía Mayor: La Oficialía Mayor del Gobierno del Estado;
 
-Permiso: El acto administrativo por virtud del cual, el Ejecutivo del Estado entrega a una persona física o moral el uso de bienes inmuebles ya sea de dominio público o privado estatal, con carácter temporal y revocable;
+X. Permiso: El acto administrativo por virtud del cual, el Ejecutivo del Estado entrega a una persona física o moral el uso de bienes inmuebles ya sea de dominio público o privado estatal, con carácter temporal y revocable;
 
-Registro: El Registro del Patrimonio Público del Estado, y
+XI. Registro: El Registro del Patrimonio Público del Estado, y
 
-Secretaría: La Secretaría de Hacienda.
+XII. Secretaría: La Secretaría de Finanzas y Planeación.
 
 ###### Artículo 3.
 
@@ -291,9 +295,11 @@ Los muebles de dominio privado del Estado son inembargables. Los particulares po
 
 Corresponde a las Dependencias y Entidades, la enajenación mediante subasta pública, de los bienes muebles de dominio privado estatal que figuren en sus respectivos inventarios, y que por su uso, aprovechamiento o estado de conservación, no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando en el mismo.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
 ###### Artículo 34.
 
-La Convocatoria para la subasta pública que al efecto emita la Dependencia o Entidad de que se trate, o en su defecto la Oficialía Mayor, deberá publicarse en el Periódico Oficial del Gobierno del Estado, y en uno de los Diarios de mayor circulación en el Estado, cuando menos con treinta días naturales de anticipación a la celebración de la misma.
+La convocatoria para la subasta pública que al efecto emita la Dependencia o Entidad de que se trate, o en su defecto la Oficialía Mayor, deberá publicarse en el Periódico Oficial del Estado de Quintana Roo, y en uno de los diarios de mayor circulación en el Estado, cuando menos con treinta días naturales de anticipación a la celebración de la misma.
 
 ###### Artículo 35.
 
@@ -465,7 +471,9 @@ XIII. Emitir las disposiciones reglamentarias de esta Ley, y
 
 XIV. Las demás que se establezcan en este y otros ordenamientos legales aplicables.
 
-Estas atribuciones las ejercerá directamente, sin perjuicio de que las delegue e (sic) la Secretaría, el Instituto del Patrimonio Inmobiliario de la Administración Pública Estatal, que como organismo descentralizado al efecto se constituya, o la Oficialía Mayor, atendiendo a sus respectivos ámbitos de competencia, salvo disposición en contrario.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+Estas atribuciones las ejercerá directamente, sin perjuicio de que las delegue en la Secretaría, el Instituto del Patrimonio Inmobiliario de la Administración Pública Estatal, que como organismo descentralizado al efecto se constituya, la Oficialía Mayor o la Secretaría de Desarrollo Urbano y Vivienda, atendiendo a sus respectivos ámbitos de competencia, salvo disposición en contrario.
 
 ###### Artículo 58.
 
@@ -523,6 +531,58 @@ VI. Emitir los lineamientos administrativos de modernización y simplificación 
 
 VII. Las demás que se establezcan en este y otros ordenamientos legales correspondientes.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2014)</small>
+
+###### Artículo 60 Bis.
+
+Corresponde a la Secretaría de Desarrollo Urbano y Vivienda:
+
+I. Adquirir, administrar, destinar, custodiar y recuperar, en su caso, los bienes inmuebles que integran el patrimonio del Estado en las materias de su competencia;
+
+II. Informar a la Secretaría de los actos jurídicos, registros, altas y bajas que se realicen sobre los bienes inmuebles de su competencia regulados por esta ley;
+
+III. Asesorar, apoyar y promover técnica y jurídicamente, la incorporación de la tierra de origen rural al desarrollo urbano;
+
+IV. Constituir, adquirir y promover, en su caso, la desincorporación de reservas territoriales y de suelo apto para vivienda, en coordinación con los gobiernos Federal y Municipales, y con otras dependencias y entidades de la Administración Pública Estatal;
+
+V. Promover, gestionar y asesorar técnica y jurídicamente la regularización de los asentamientos humanos que se encuentren en terrenos ejidales ubicados en las áreas de crecimiento de los centros de población;
+
+VI. Convenir con los órganos de representación de los ejidos y comunidades, la realización de las acciones necesarias para la desincorporación de las tierras de régimen ejidal y la incorporación de las mismas al fundo legal del Estado y al desarrollo urbano, de manera ordenada y con estricto apego a las disposiciones agrarias y de desarrollo urbano aplicables;
+
+VII. Promover, gestionar y realizar técnica y jurídicamente, con la anuencia de las asambleas ejidales y comunales que corresponda, y con estricta observancia de las disposiciones legales correspondientes, las acciones necesarias para tramitar y adquirir en favor del Estado, según sea el caso, los siguientes procedimientos:
+
+a) La adopción del dominio pleno, tratándose de tierra ejidal formalmente parcelada;
+
+b) La expropiación por causa de utilidad pública;
+
+c) La terminación del régimen ejidal, cuando ya no existan en el núcleo agrario las condiciones para su permanencia, y
+
+d) La regularización e incorporación al Estado de las tierras ejidales cuando no hayan sido delimitadas y asignadas conforme la legislación agraria.
+
+VIII. Administrar las reservas territoriales, llevar su control e informar sobre las mismas a la autoridad responsable de su registro;
+
+IX. Convenir con el Gobierno Federal y en su caso, con los Ayuntamientos la formulación y ejecución de programas de adquisición de suelo y reserva territorial, y promover el traslado de dominio al Estado, de bienes del dominio de la Federación, aptos para los propósitos de esta ley y del desarrollo urbano de la Entidad;
+
+X. Promover en congruencia con el programa de desarrollo urbano aplicable, la desincorporación de porciones de tierra o predios de la reserva territorial, para que pasen a formar parte del área de expansión del centro de población correspondiente;
+
+XI. Fomentar la construcción, comercialización y enajenación, en su caso, de lotes con servicios, obras de equipamiento urbano, viviendas y fraccionamientos de interés social, para su venta o renta a personas que carezcan de vivienda y cuya capacidad económica no les permita adquirirla;
+
+XII. Promover y realizar programas de mejoramiento y rehabilitación de vivienda urbana y rural;
+
+XIII. Vigilar y asesorar que la construcción de vivienda, se realice preservando el equilibrio ecológico y procurando la utilización de materiales y tecnologías que coadyuven a elevar los niveles de habitabilidad de la vivienda, de salud y bienestar de las familias;
+
+XIV. Comercializar los predios propiedad del Gobierno del Estado, teniendo la facultad de vender, permutar o realizar cualquier contrato traslativo de dominio sobre los mismos a favor de terceros, con el propósito de que se construya vivienda, establecimientos comerciales, turísticos o de otra índole afín;
+
+XV. Coordinar los programas de ordenamiento de la propiedad y de vivienda necesarios en el Estado y operar los fondos que para el efecto se constituyan;
+
+XVI. Otorgar y suscribir las escrituras públicas y los títulos de propiedad sobre los predios que regularice o enajene, conforme a la legislación aplicable;
+
+XVII. Gestionar el financiamiento para la adquisición o construcción de vivienda, procurando el beneficio de la población, con escasos recursos;
+
+XVIII. Promover y realizar investigaciones, estudios y proyectos, sobre las necesidades en la materia, así como sobre la incorporación de nuevas tecnologías que propicien la satisfacción y mejora de dichas necesidades, y
+
+XIX. Las demás que se establezcan en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo de acuerdo a sus facultades y competencias plenas, así como las que se requieran para el cumplimiento de sus fines o que dispongan otros ordenamientos.
+
 ###### Artículo 61.
 
 Las Dependencias, Entidades y concesionarios, en su calidad de usuarios o depositarios de los bienes inmuebles del patrimonio del Estado, informarán al Instituto de los actos y procedimientos que realicen en relación a dichos bienes, cuando con motivo de tales actos, se alteren los registros o controles correspondientes.
@@ -541,7 +601,9 @@ II. La Oficialía Mayor;
 
 III. El Instituto;
 
-IV. La Secretaría de la Contraloría, y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+IV. La Secretaría de la Gestión Pública, y
 
 V. Las demás Dependencias y Entidades que a juicio del Ejecutivo Estatal deban participar, por razón de su competencia.
 
@@ -903,7 +965,9 @@ Los Permisos Administrativos podrán ser:
 
 I. A título gratuito, cuando no se exija al particular una contraprestación pecuniaria o en especie a cambio del uso y goce temporal del bien permisionado, y
 
-II. A título oneroso cuando se exija una contraprestación pecuniaria o en especie, a cambio del uso y goce del bien permisionado, la que en todo caso deberá estar fijada previamente por Oficialía Mayor o el Instituto, según se trate, y la Secretaría de Hacienda del Estado.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+II. A título oneroso cuando se exija una contraprestación pecuniaria o en especie, a cambio del uso y goce del bien permisionado, la que en todo caso deberá estar fijada previamente por Oficialía Mayor o el Instituto, según se trate, y la Secretaría.
 
 El presente Capítulo se aplicará de manera supletoria y en lo que no se oponga a los Permisos regulados por leyes específicas.
 
@@ -1152,3 +1216,9 @@ EL SECRETARIO DE GOBIERNO
 DEL ESTADO DE QUINTANA ROO
 
 PEDRO JOSE FLOTA ALCOCER
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE JUNIO DE 2014.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE QUINTANA ROO.
