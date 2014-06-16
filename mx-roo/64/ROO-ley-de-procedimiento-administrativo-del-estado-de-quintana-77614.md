@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-procedimiento-administrativo-del-estado-de-quintana-7761
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2010-11-05"
+last_updated: "2014-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 5 de noviembre de 2010.
 
@@ -374,6 +374,10 @@ Cuando se trate de autorizaciones o permisos las autoridades competentes deberá
 I.- Tratándose de las materias relativas a la salubridad general y las actividades riesgosas que se definan en los diferentes ordenamientos jurídicos o administrativos; y a falta de definición se considerará como tales aquellas en que forma (sic) directa o inminente ponga en peligro la seguridad o alteren o afecten el orden público;
 
 II.- En todos aquellos en que los ordenamientos jurídicos establezcan que la falta de resolución tendrá efectos de negativa ficta.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+
+III.- Tratándose de las materias relativas a la protección del medio ambiente y los recursos naturales.
 
 En los casos previstos en la fracción I de este artículo el interesado podrá considerar que su solicitud ha sido negada e interponer los medios de defensa que en derecho correspondan.
 
@@ -1142,3 +1146,15 @@ LIC. EDUARDO OVANDO MARTINEZ
 EL SECRETARIO ESTATAL DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 C.P. GONZALO ABELARDO HERRERA CASTILLA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
