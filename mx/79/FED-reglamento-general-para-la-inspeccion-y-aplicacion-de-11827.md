@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-para-la-inspeccion-y-aplicacion-de-11827"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-07-06"
-last_updated: "1998-07-06"
+last_updated: "2014-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11827&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-06-29"
 ---
 # REGLAMENTO GENERAL PARA LA INSPECCION Y APLICACION DE SANCIONES POR VIOLACIONES A LA LEGISLACION LABORAL
 
-REGLAMENTO GENERAL PARA LA INSPECCION Y APLICACION DE SANCIONES POR VIOLACIONES A LA LEGISLACION LABORAL
+REGLAMENTO GENERAL PARA LA INSPECCIÓN Y APLICACIÓN DE SANCIONES POR VIOLACIONES A LA LEGISLACIÓN LABORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO GENERAL DE INSPECCIÓN DEL TRABAJO Y APLICACIÓN DE SANCIONES, PUBLICADO EN EL D.O.F. DE 17 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS TRES MESES SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 6 de julio de 1998.
 
@@ -468,3 +470,15 @@ CUARTO.- Las autoridades del trabajo de las entidades federativas y del Gobierno
 QUINTO.- En los procedimientos administrativos para la aplicación de sanciones que se encuentren en trámite a la fecha de entrada en vigor del presente Reglamento, el interesado contará con un plazo de cinco días hábiles para optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de este ordenamiento. Si el interesado omite pronunciarse al respecto dentro del plazo señalado, se entenderá que ha elegido que la continuación del procedimiento se realice de acuerdo a las disposiciones vigentes al momento en que se dictó el emplazamiento para comparecer al procedimiento administrativo correspondiente.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de junio de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría.- Rúbrica.- El Secretario del Trabajo y Previsión Social, José Antonio González Fernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE JUNIO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Al momento de la entrada en vigor del presente ordenamiento, se abroga el Reglamento General para la Inspección y Aplicación de Sanciones por Violaciones a la Legislación Laboral, publicado en el Diario Oficial de la Federación el 6 de julio de 1998.
+
+TERCERO. Los procedimientos de Inspección y de aplicación de sanciones que se encuentren en trámite a la fecha de entrada en vigor del presente Reglamento, serán resueltos conforme a las disposiciones vigentes al momento de su inicio.
+
+CUARTO. Continuarán en vigor las disposiciones administrativas vigentes, en lo que no se opongan al presente Reglamento.
