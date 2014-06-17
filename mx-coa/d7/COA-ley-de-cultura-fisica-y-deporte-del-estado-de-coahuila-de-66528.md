@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-66528
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2009-02-06"
+last_updated: "2014-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 18 DE JULIO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de febrero de 2009.
 
@@ -549,7 +551,7 @@ II. Limitación, reducción o cancelación de apoyos económicos;
 
 III. Suspensión o cancelación en el uso de las instalaciones deportivas públicas estatales o municipales, y/o
 
-IV Suspensión o cancelación de los derechos a que se refieren los incisos a), b) y c) de la fracción VII del articulo 13 de esta ley.
+IV Suspensión o cancelación de los derechos a que se refieren los incisos a), b) y c) de la fracción VII del artículo 13 de esta ley.
 
 ###### ARTÍCULO 60.
 
@@ -616,3 +618,21 @@ EL SECRETARIO DE EDUCACIÓN Y CULTURA
 PROFR. MANUEL JAIME CASTILLO GARZA.
 
 (RÚBRICA)
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P. O. 17 DE JUNIO DE 2014.
+
+TRANSITORIOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Deporte para el Estado de Coahuila de Zaragoza publicada en el Periódico Oficial del Gobierno del Estado en fecha 27 de julio de 1999.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan a la presente ley.
