@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2014-02-10"
+last_updated: "2014-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2014.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -247,6 +247,10 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 1983)</small>
 
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2014)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2011)</small>
 
@@ -3516,9 +3520,9 @@ Para los efectos de las responsabilidades a que alude este Título se reputarán
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2014)</small>
 
-Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, así como los miembros de los organismos a los que las Constituciones Locales y el Estatuto de Gobierno del Distrito Federal les otorgue autonomía, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, los integrantes de los ayuntamientos, así como los miembros de los organismos a los que las Constituciones Locales y el Estatuto de Gobierno del Distrito Federal les otorgue autonomía, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo y aplicación indebidos de fondos y recursos federales.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -4296,9 +4300,9 @@ I.- La duración de la jornada máxima será de ocho horas.
 
 II.- La jornada máxima de trabajo nocturno será de 7 horas. Quedan prohibidas: las labores insalubres o peligrosas, el trabajo nocturno industrial y todo otro trabajo después de las diez de la noche, de los menores de dieciséis años.
 
-> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2014)</small>
 
-III.- Queda prohibida la utilización del trabajo de los menores de catorce años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
+III.- Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
 
 IV.- Por cada seis días de trabajo deberá disfrutar el operario de un día de descanso, cuando menos.
 
@@ -7317,3 +7321,29 @@ El Congreso de la Unión deberá expedir la ley que regirá al órgano autónomo
 En tanto el Congreso de la Unión expide la Ley a que se refiere el párrafo anterior, el Consejo Nacional para la Evaluación de la Política de Desarrollo Social que se crea por virtud del presente Decreto, una vez instalado, ejercerá sus atribuciones y competencias conforme a lo dispuesto en el mismo y en el Decreto por el que se regula el Consejo Nacional de Evaluación de la Política de Desarrollo Social, publicado en el Diario Oficial de la Federación el 24 de agosto de 2005.
 
 VIGÉSIMO PRIMERO.- Los Consejeros del Instituto Federal Electoral que a la entrada en vigor del presente Decreto se encuentren en funciones, continuarán en su encargo hasta que se integre el Instituto Nacional Electoral, en términos de lo previsto por el Quinto Transitorio del presente Decreto; por lo que los actos jurídicos emitidos válidamente por el Instituto Federal Electoral en los términos de la legislación vigente, surtirán todos sus efectos legales.
+
+D.O.F. 17 DE JUNIO DE 2014.
+
+DECRETO POR EL QUE SE ADICIONA UN OCTAVO PÁRRAFO AL ARTÍCULO 4o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, dispondrán de seis meses para establecer en sus haciendas o códigos financieros la exención de cobro del derecho por el registro de nacimiento y la expedición de la primera copia certificada del acta de nacimiento.
+
+TERCERO. El Congreso de la Unión en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, y previa opinión de las entidades federativas y la autoridad competente en materia de registro nacional de población, deberá realizar las adecuaciones a la ley que determinen las características, diseño y contenido del formato único en materia de registro de población, así como para la expedición de toda acta del registro civil que deberá implementarse a través de mecanismos electrónicos y adoptarse por las propias entidades federativas del país y por las representaciones de México en el exterior.
+
+CUARTO. La Secretaría de Gobernación a través del Registro Nacional de Población, remitirá al Instituto Nacional Electoral la información recabada por las autoridades locales registrales relativas a los certificados de defunción.
+
+D.O.F. 17 DE JUNIO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 108 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
+
+D.O.F. 17 DE JUNIO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL APARTADO A DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
