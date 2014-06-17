@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-proteccion-al-medio-ambiente-del-81500"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-26"
-last_updated: "2011-05-26"
+last_updated: "2014-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DE PROTECCION AL MEDIO AMBIENTE DEL ESTADO DE YUCATAN
 
-REGLAMENTO DE LA LEY DE PROTECCION AL MEDIO AMBIENTE DEL ESTADO DE YUCATAN
+REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE JUNIO DE 2014.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 26 de mayo de 2011.
 
@@ -1003,23 +1003,35 @@ Para el aprovechamiento de arena, se deben cumplir las disposiciones legales y n
 
 Las personas que realicen o pretendan realizar la exploración, Explotación y aprovechamiento de canteras, piedras, sascab o cualquier tipo de suelo, yacimiento o depósito de arena fuera de la zona marítima, terrestre y terrenos ganados al mar, tendrán que solicitar por escrito la autorización correspondiente al Ayuntamiento competente, en los términos de la Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN EN MATERIA DE CENOTES, CUEVAS Y GRUTAS, D.O. 17 DE JUNIO DE 2014)</small>
+
 ### Capítulo II. De la autorización en Cenotes y Cavernas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 90.
 
-La Secretaría establecerá los usos a que podrán sujetarse los Cenotes y Cavernas del Estado, así como cuidará que en el aprovechamiento de los ecosistemas y la biodiversidad, se observen las disposiciones de la Ley y este Reglamento.
+(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN EN MATERIA DE CENOTES, CUEVAS Y GRUTAS, D.O. 17 DE JUNIO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 91.
 
-Se requerirá la autorización de la Secretaría para la edificación de infraestructuras o realización de actividades en las áreas en que se ubiquen Cenotes, Cavernas o para instalaciones en el interior de éstos, en términos del artículo 67 de la Ley, de los programas de ordenamiento ecológico del Estado de Yucatán y demás lineamientos que al efecto se expidan.
+(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN EN MATERIA DE CENOTES, CUEVAS Y GRUTAS, D.O. 17 DE JUNIO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 92.
 
-Para obtener la autorización referida en el artículo anterior, el interesado la solicitará a la Secretaría por escrito y presentará los documentos señalados en el artículo 32 de este Reglamento, manifestando el uso que se pretende dar al Cenote, cueva o gruta, y anexando el estudio de Capacidad de Carga o Capacidad de Carga Turística del lugar de que se trate.
+(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN EN MATERIA DE CENOTES, CUEVAS Y GRUTAS, D.O. 17 DE JUNIO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 93.
 
-Se deberán instalar en las afueras de las Cavernas o Cenotes, depósitos para recolectar los residuos sólidos generados por los visitantes, los cuales serán retirados del sitio por lo menos una vez a la semana o con la frecuencia que lo amerite el flujo de turistas.
+(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN EN MATERIA DE CENOTES, CUEVAS Y GRUTAS, D.O. 17 DE JUNIO DE 2014)
 
 ### Capítulo III. De las áreas naturales protegidas
 
@@ -2340,3 +2352,19 @@ SECRETARIO GENERAL DE GOBIERNO
 C. EDUARDO ADOLFO BATLLORI SAMPEDRO
 
 SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 17 DE JUNIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los treinta días naturales siguientes contados a partir de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación
+
+Se deroga el capítulo II "De la Autorización en Cenotes y Cavernas", del título tercero "Conservación y Manejo de los Recursos Naturales", y los artículos 90, 91, 92 y 93, del Reglamento de la Ley de Protección al Medio Ambiente del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 26 de mayo de 2011.
+
+Tercero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor rango en lo que se opongan al contenido de este decreto.
