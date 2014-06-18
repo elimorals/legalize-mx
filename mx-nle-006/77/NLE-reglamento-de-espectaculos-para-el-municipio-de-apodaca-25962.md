@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-apodaca-25962"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-11-06"
-last_updated: "1992-11-06"
+last_updated: "2014-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE APODACA, NUEVO LEON
 
-REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE APODACA, NUEVO LEON
+REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 6 de noviembre 1992.
 
@@ -259,6 +259,10 @@ IV.- Conseguir el permiso correspondiente en la Dirección de Patrimonio Municip
 
 V.- Aceptar toda responsabilidad penal, civil, laboral, o de cualquier otra índole en que llegare a incurrir.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2014)</small>
+
+Quedará prohibida la celebración de espectáculos circenses públicos o privados en los cuales utilicen animales vivos sea cual sea su especie, con fines de explotación, exposición, exhibición y/o participación.
+
 ### CAPITULO SEXTO. DE LOS BAILES KERMESSES
 
 ###### ARTICULO 35o.
@@ -434,3 +438,9 @@ Se entiende como cuota, el equivalente a un día de salario mínimo general vige
 PRIMERO.- Este Reglamento entrará en vigor el día siguiente después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Este Reglamento abroga todas las disposiciones anteriores y los que se opongan al mismo.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2014.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ART. 3o DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
