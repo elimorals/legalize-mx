@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2013-03-15"
+last_updated: "2014-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-06-26"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MARZO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JUNIO DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -1900,3 +1902,21 @@ UNICO.- La reforma a que se refiere este Acuerdo entrará en vigor al día sigui
 D.O.F. 15 DE MARZO DE 2013.
 
 UNICO.- La reforma a que se refiere este Acuerdo entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JUNIO DE 2014.
+
+PRIMERO. Este Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2008, así como las disposiciones que se opongan al mismo. En tanto no entren en vigor los instrumentos normativos referidos en este Estatuto Orgánico, continuarán vigentes los ya existentes.
+
+TERCERO. Los Titulares de la Secretaría General y de las Unidades Administrativas del Instituto que sean responsables, de acuerdo con lo dispuesto por este Estatuto Orgánico, de formular y proponer a la Dirección General proyectos de Reglamento Orgánico, deberán hacerlo en un plazo que no exceda de noventa días naturales a la entrada en vigor del Estatuto Orgánico. Dichos proyectos deberán someterse a la consideración y aprobación de la Junta en la sesión inmediata.
+
+CUARTO. Para efectos de cumplir con lo previsto por este Estatuto Orgánico, en un lapso no mayor de 180 días naturales a partir de la entrada en vigor de este ordenamiento, deberán realizarse las transferencias de áreas y adscripciones que deriven del cambio estatutario, así como las modificaciones o adecuaciones a la normatividad que las rija.
+
+La Subdirección de Infraestructura Médica de la Dirección Médica y las Subdirecciones de Programación y Presupuesto, y de Aseguramiento de Riesgos Institucionales y de Fianzas de la Dirección de Finanzas, pasan a la Dirección de Administración.
+
+Estas subdirecciones se transfieren con todos sus recursos humanos, materiales y financieros y seguirán ocupando los espacios físicos en los que operan actualmente.
+
+La Subdirección de Innovación y Calidad de la Dirección de Tecnología y Estrategia Digital pasa a la Secretaría General. Su personal queda adscrito a la misma, salvo aquellos que poseen formación jurídica, quienes pasan a formar parte de la Dirección Jurídica.
+
+De igual forma, dentro del mismo plazo, se deberán adecuar los reglamentos y manuales de organización derivados.
