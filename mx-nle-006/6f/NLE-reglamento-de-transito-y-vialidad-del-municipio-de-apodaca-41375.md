@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-apodaca-4137
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2011-07-04"
+last_updated: "2014-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 6 de octubre de 2004.
 
@@ -781,6 +781,10 @@ XXVII. Manifestar una conducta evidente de hostigamiento hacia otros conductores
 XXVIII. Conducir el vehículo con un aparato de televisión encendido, ubicado en el tablero, asiento delantero o adherido al vehículo, de manera que el conductor del mismo pueda observar la pantalla del aparato televisivo; así como sostener el conductor, pasajero o acompañante el aparato de televisión encendido, de manera que el conductor pueda observar la pantalla del mismo.
 
 XXIX. Poseer, en el área de pasajeros de un vehículo, una botella, lata u otro envase que contenga una bebida alcohólica que ha sido abierta o tiene sellos rotos o el contenido parcialmente consumido; no se considerará como área de pasajeros aquella con asientos habitada (sic) habilitada para carga.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2014)</small>
+
+XXX. Conducir un vehículo utilizando a la vez, teléfonos celulares o cualquier tipo de aparato de comunicación y/o electrónico que distraiga la atención del conductor, a menos que estos cuenten con el sistema de manos libres, exceptuando a los vehículos oficiales de emergencia.
 
 ###### ARTÍCULO 41.
 
@@ -3264,6 +3268,32 @@ flujo de vehículos o
 
 peatones 54 VI 10 a 30
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2014)</small>
+
+222 Conducir un vehículo
+
+utilizando a la vez,
+
+teléfonos celulares
+
+o cualquier tipo de aparato
+
+de comunicación y/o
+
+electrónico que distraiga
+
+la atención del conductor,
+
+a menos que estos
+
+cuenten con el sistema
+
+de manos libres,
+
+exceptuando a los vehículos
+
+oficiales de emergencia 40 XXX 30 a 200
+
 ###### ARTÍCULO 137.
 
 Las infracciones cometidas por los ciclistas y conductores de vehículos de tracción animal serán sancionadas con el veinticinco por ciento los primeros y con cincuenta por ciento los segundos, de lo establecido en el tabulador.
@@ -3417,3 +3447,7 @@ N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECR
 P.O. 4 DE JULIO DE 2011
 
 ÚNICO.- La sanción a que se refiere la línea 22 del tabulador de infracciones de la fracción (sic) artículo 136 se aplicará después de la puesta en vigor de esta medida que será el 15 de julio de 2011.
+
+P.O. 18 DE JUNIO DE 2014.
+
+SEGUNDO.- Que se giren instrucciones para su publicación en el Periódico Oficial del Estado, para iniciar su vigencia a los 30 días natuales siguientes a su publicación.
