@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-economia-70322"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2012-12-05"
+last_updated: "2014-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -135,9 +135,13 @@ b) Dirección de Atención Empresarial
 
 c) Dirección de Atención a Mercados
 
-V. Órgano Administrativo Desconcentrado
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2014)</small>
 
-Comisión Estatal de Mejora Regulatoria
+V. Órganos Administrativos Desconcentrados:
+
+a) Comisión Estatal de Mejora Regulatoria.
+
+b) Coordinación Ejecutiva del Fondo de Fomento Económico Chiapas Solidario "FOFOE".
 
 ###### Artículo 8º.
 
@@ -569,7 +573,9 @@ IV. Coordinar la elaboración del Anteproyecto de Presupuesto Anual de Egresos d
 
 V. Establecer sistemas de control y seguimiento que permitan determinar el avance de los programas de los órganos administrativos bajo su adscripción y establecer conforme a los resultados obtenidos, las correcciones pertinentes con la autorización expresa del Secretario.
 
-VI. Coordinar la elaboración de los proyectos de inversión que implementen los órganos administrativos bajo su encargo y fungir como líder de los mismos, a fin de vigilar el eficiente, racional y transparente ejercicio de los recursos, así como el cumplimiento de los propósitos, objetivos y metas programadas conforme a la normatividad en la materia.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2014)</small>
+
+VI. Coordinar la elaboración de los proyectos de inversión que implementen los órganos administrativos bajo su encargo, vigilando el eficiente, racional y transparente ejercicio de los recursos, así como el cumplimiento de los propósitos, objetivos y metas programadas conforme a la normatividad en la materia.
 
 VII. Promover la incorporación de medidas que mejoren los sistemas de captación de la información que garanticen la efectividad de las operaciones realizadas por la Secretaría.
 
@@ -1123,19 +1129,19 @@ XV. Implementar las medidas técnicas administrativas, para la operación de las
 
 XVI. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2014)</small>
 
-## Título Cuarto. Del Órgano Administrativo Desconcentrado de la Secretaría
+## Título Cuarto. De los Órganos Administrativos Desconcentrados de la Secretaría
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2014)</small>
 
-### Capítulo Único. De la Comisión Estatal de Mejora Regulatoria
+### Capítulo Único. De la Comisión Estatal de Mejora Regulatoria y la Coordinación Ejecutiva del Fondo de Fomento Económico Chiapas Solidario "FOFOE"
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2014)</small>
 
 ###### Artículo 57 Bis.
 
-La Secretaría contará con un Órgano Administrativo Desconcentrado, jerárquicamente subordinado a ésta, denominado Comisión Estatal de Mejora Regulatoria, el cual tendrá la integración y atribuciones que establezca su Decreto de Creación, su Reglamento Interior y demás disposiciones legales y administrativas aplicables.
+La Secretaría contará con los Organismos Administrativos Desconcentrados, jerárquicamente subordinados a ésta, denominados Comisión Estatal de Mejora Regulatoria y Coordinación Ejecutiva del Fondo de Fomento Económico Chiapas Solidario "FOFOE", los cuales tendrán las atribuciones que se establezcan en sus respectivos Decretos de Creación, Reglamentos Interiores y demás disposiciones legales y administrativas aplicables.
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -1208,3 +1214,17 @@ Artículo Sexto.- La Secretaría deberá establecer, controlar y evaluar el Prog
 Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
 
 Artículo Séptimo.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 18 DE JUNIO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía que este Decreto y se opongan al mismo.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Los Manuales Administrativos de la Secretaría deberán actualizarse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Decreto.
+
+Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Secretario resolverá las incidencias de procedimientos y operación que se originen por la aplicación de este Decreto.
+
+Artículo Sexto.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
