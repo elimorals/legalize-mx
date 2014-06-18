@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-etica-de-la-universidad-politecnica-del-estado-de-522
 country: "mx"
 rank: "codigo"
 publication_date: "2006-11-01"
-last_updated: "2006-11-01"
+last_updated: "2014-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE ETICA DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
 
-CODIGO DE ETICA DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
+CÓDIGO DE ÉTICA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL CÓDIGO DE ÉTICA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2014 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de noviembre de 2006.
 
@@ -32,8 +34,6 @@ Al margen izquierdo un emblema de la Universidad Politécnica que dice: Universi
 JUNTA DIRECTIVA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS, CON FUNDAMENTO EN LOS ARTÍCULO (SIC) 3 FRACCIÓN XVIII Y 20 FRACCIÓN II DEL DECRETO QUE CREA LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS, Y
 
 CONSIDERANDO
-
-.
 
 Por lo antes expuesto tenemos a bien expedir el siguiente:
 
@@ -82,3 +82,11 @@ LIC. MARIO ALBERTO OLIVA RUIZ
 EL SECRETARIO TÉCNICO DE LA JUNTA DIRECTIVA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2014.
+
+PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado. Dado en las instalaciones de la Universidad Politécnica del Estado de Morelos, en el Municipio de Jiutepec, Estado de Morelos, a los 05 días del mes de junio del año 2014.
+
+SEGUNDO. Se abroga el Código de Ética de la Universidad Politécnica del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 4492, de fecha primero de noviembre de dos mil seis.
