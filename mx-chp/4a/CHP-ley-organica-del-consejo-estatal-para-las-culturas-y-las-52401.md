@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-consejo-estatal-para-las-culturas-y-las-52401"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-10-12"
-last_updated: "2011-09-14"
+last_updated: "2014-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS
 
-LEY ORGANICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS
+LEY ORGÁNICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -145,9 +145,13 @@ XXV. Proponer, diseñar y ejecutar programas que promuevan, desarrollen, fomente
 
 XXVI. Coordinar, administrar y ejecutar la operatividad del Museo del Café.
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2014)</small>
 
-XXVII. Las demás que le señale esta ley, la Ley de las Culturas y las Artes de Chiapas y demás disposiciones legales aplicables relativos a las funciones del Consejo.
+XXVII. Impulsar el reconocimiento, valoración, respeto y desarrollo de las culturas, lenguas, arte y literatura de los pueblos indígenas, con plena observancia a su diversidad.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2014)</small>
+
+XXVIII. Las demás que le señale esta Ley, la Ley de las Culturas y las Artes de Chiapas, y demás disposiciones legales aplicables relativos a las funciones del Consejo.
 
 ###### Artículo 5º.
 
@@ -185,7 +189,9 @@ b) Secretaría de Hacienda.
 
 c) Secretaría de Turismo.
 
-d) Secretaría de Pueblos y Culturas Indígenas.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2014)</small>
+
+d) Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
 
 e) Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas.
 
@@ -393,7 +399,7 @@ De conformidad con la fracción I, del artículo 42, de la Constitución Políti
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE MAYO DE 2011.
 
@@ -422,3 +428,17 @@ Artículo Cuarto.- Los recursos humanos, materiales y financieros que a la entra
 Artículo Quinto.- Las Dependencias Normativas del Ejecutivo Estatal, para el cumplimiento del presente Decreto, llevarán a cabo de inmediato las acciones necesarias para que los recursos humanos, materiales y financieros que actualmente se encuentran asignados al Consejo Estatal para las Culturas y las Artes del Estado de Chiapas, y que se relacionan con la operación y mantenimiento de los bienes muebles e inmuebles relativos a la cinematografía, pasen a formar parte del Sistema Chiapaneco de Radio, Televisión y Cinematografía.
 
 Artículo Sexto.- En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, el Consejo Estatal para las Culturas y las Artes del Estado de Chiapas, deberá realizar las adecuaciones necesarias a su normatividad interior, para el debido cumplimiento de lo establecido en este Decreto.
+
+P.O. 18 DE JUNIO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, con los que cuenta el Centro Estatal de Lenguas, Arte y Literatura Indígenas CELALI y que a la entrada en vigor del presente Decreto se encontraban asignados a la Secretaría de Pueblos y Culturas Indígenas, serán transferidos de inmediato al Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+Artículo Cuarto.- Las atribuciones y/o referencias que las disposiciones legales otorgan a la Secretaría de Pueblos y Culturas Indígenas, a través del Centro Estatal de Lenguas, Arte y Literatura Indígenas CELALI, se entenderán conferidas al Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+Artículo Quinto.- Las atribuciones, compromisos y procedimientos, que a la entrada en vigor del presente Decreto, hubiere contraído la Secretaría de Pueblos y Culturas Indígenas, a través del Centro Estatal de Lenguas, Arte y Literatura Indígenas CELALI, serán asumidos inmediatamente y se entenderán conferidas al Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+Artículo Sexto.- Las dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato, las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, con plena observancia a las disposiciones aplicables.
