@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2013-06-29"
+last_updated: "2014-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -185,9 +185,9 @@ XIV. La prevención y el control de las enfermedades no transmisibles y accident
 
 XV. La prevención y el control de las enfermedades bucodentales;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-XVI. La prevención, asistencia y rehabilitación de personas que sufren invalidez, discapacidad, así como la violencia familiar, violencia de género o son víctimas de trata; prostitución forzada o pornografía infantil;
+XVI. La prevención, asistencia y rehabilitación de personas que sufren discapacidad, así como violencia familiar, violencia de género, víctimas de trata, prostitución forzada o pornografía infantil;
 
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -657,11 +657,13 @@ I. Preventivas, que incluyen las de educación, promoción general y las de prot
 
 II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-III. Cuidados paliativos, y
+III. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario, y
 
-IV. De rehabilitación, que incluyen acciones tendientes a corregir las minusvalías físicas y mentales.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+IV. De rehabilitación, que incluyen acciones tendientes a recuperar las capacidades y funciones de las personas con discapacidad.
 
 ### CAPITULO IV. Usuarios de los Servicios de Salud y Participación de la Comunidad
 
@@ -1119,9 +1121,11 @@ III. Los convenios que al efecto se suscriban entre el Ejecutivo del Estado y la
 
 IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 69.
 
-Para el ejercicio de actividades profesionales en el campo de la salud, se requiere que los títulos profesionales o certificados de especialización, hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales relacionadas con las ciencias biológicas, químicas, de la salud y sus ramas, así como las demás que establezcan otras disposiciones legales aplicables, se requiere que las cédulas profesionales respectivas o, en su caso, los certificados o títulos que avalen dicha formación, hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 Todos los profesionales y técnicos del ramo de la salud que deseen ejercer su profesión en la Entidad, deberán obtener su registro respectivo ante la Secretaría de Salud del Estado.
 
@@ -1277,9 +1281,9 @@ IV. Se deberá contar con la aprobación de la Secretaría de Salud del Estado, 
 
 V. Sólo podrá realizarse por profesionales de salud en instituciones médicas que cuenten con los medios técnicos para ello, y que actúen bajo la vigilancia de las autoridades sanitarias competentes;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-VI. El o la profesional responsable suspenderá la investigación en cualquier momento si sobreviene el riesgo de lesiones graves, invalidez o muerte de la persona en quien se realice la investigación;
+VI. Él o la profesional responsable suspenderá la investigación en cualquier momento si sobreviene el riesgo de lesiones graves, discapacidad o muerte de la persona en quien se realice la investigación;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
 
@@ -1367,9 +1371,9 @@ II. Fomentar en la población el desarrollo de actitudes conductas que le permit
 
 III. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-IV. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar y salud reproductiva, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención y rehabilitación, violencia de género, discriminación y detección oportuna de enfermedades.
+IV. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, salud visual, salud auditiva, educación sexual, planificación familiar, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de la discapacidad y rehabilitación de las personas con discapacidad, violencia de género, discriminación, prevención de accidentes, y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
 
@@ -1407,7 +1411,7 @@ II. Normar el desarrollo de los programas y actividades de educación en materia
 
 III. Observar y recomendar, en coordinación con la Secretaría de Educación, que los alimentos y bebidas que se expendan al interior de las escuelas de educación básica obligatoria, posean alto contenido nutricional, que coadyuve a una alimentación saludable;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
 IV. Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población; y establecer las necesidades mínimas de nutrimentos para el mantenimiento de las buenas condiciones de salud de la población, y
 
@@ -1783,9 +1787,11 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 La Secretaría de Salud del Estado, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos y privados, se disponga de facilidades para las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 136.
 
-Para los efectos de esta Ley se entiende por discapacidad la limitación en la capacidad de una persona, para realizar por sí misma las actividades necesarias para el desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática psicológica o social.
+Para los efectos de esta Ley se entiende por discapacidad, a la o las deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, que por razón congénita o adquirida presenta una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en igualdad de condiciones con los demás.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -3894,6 +3900,22 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 29 DE JUNIO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2014.
+
+DECRETO No. 595, POR EL QUE SE REFORMA EL ARTÍCULO 69 EN SU PÁRRAFO PRIMERO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2014.
+
+DECRETO No. 596, POR EL QUE SE REFORMA LOS ARTÍCULOS, 5° EN SU LETRA A LA FRACCIÓN XVI, 28 EN SUS FRACCIONES, III, Y IV, 84 EN SU FRACCIÓN VI, 92 EN SU FRACCIÓN IV, Y 136, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
