@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-contratacion-publica-del-estado-de-9654
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-29"
-last_updated: "2013-10-29"
+last_updated: "2014-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE JUNIO DE 2014.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el martes 29 de octubre de 2013.
 
@@ -107,17 +107,33 @@ XXI. Procedimiento de adquisición: Conjunto de etapas por las que la Secretarí
 
 XXII. Proveedor: Persona que celebra contratos de adquisición de bienes con la Secretaría, las dependencias, organismos auxiliares, tribunales administrativos o municipios.
 
-XXIII. Reglamento: Reglamento de la Ley de Contratación Pública del Estado de México y Municipios.
+> <small>(ADICIONADA, G.G. 19 DE JUNIO DE 2014)</small>
 
-XXIV. Secretaría: Secretaría de Finanzas.
+XXIII. Proveedor social: A las Micro, Pequeñas y Medianas Empresas de conformidad con lo establecido por la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
 
-XXV. Servidor Público designado por la convocante: Servidor público que designa la convocante para llevar a cabo el desarrollo de los actos de junta de aclaraciones, recepción y apertura de propuestas y comunicación del fallo, con nivel mínimo de Jefe de Departamento.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
 
-XXVI. Sorteo de Insaculación: Consiste en depositar en una urna o recipiente las boletas con el nombre de cada participante empatado, extrayendo en primer lugar la boleta del licitante ganador y posteriormente las de los demás licitantes que resultaron empatados, con lo cual se determinarán los subsecuentes lugares que ocuparan tales proposiciones.
+XXIV. Reglamento: Reglamento de la Ley de Contratación Pública del Estado de México y Municipios.
 
-XXVII. Subasta pública: Procedimiento mediante el cual la Secretaría, organismos auxiliares, tribunales administrativos o municipios, previa convocatoria pública, enajenan bienes, y en el que aseguran las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
 
-XXVIII. Unidades Administrativas: Coordinación Administrativa o su equivalente, en las dependencias, organismos auxiliares y tribunales administrativos; o Dirección de Administración o su equivalente en los municipios.
+XXV. Secretaría: Secretaría de Finanzas.
+
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
+
+XXVI. Servidor Público designado por la convocante: Servidor público que designa la convocante para llevar a cabo el desarrollo de los actos de junta de aclaraciones, recepción y apertura de propuestas y comunicación del fallo, con nivel mínimo de Jefe de Departamento.
+
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
+
+XXVII. Sorteo de Insaculación: Consiste en depositar en una urna o recipiente las boletas con el nombre de cada participante empatado, extrayendo en primer lugar la boleta del licitante ganador y posteriormente las de los demás licitantes que resultaron empatados, con lo cual se determinarán los subsecuentes lugares que ocuparan tales propuestas.
+
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
+
+XXVIII. Subasta pública: Procedimiento mediante el cual la Secretaría, organismos auxiliares, tribunales administrativos o municipios, previa convocatoria pública, enajenan bienes, y en el que aseguran las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes.
+
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
+
+XXIX. Unidades Administrativas: Coordinación Administrativa o su equivalente, en las dependencias, organismos auxiliares y tribunales administrativos; o Dirección de Administración o su equivalente en los municipios.
 
 ###### Artículo 3.
 
@@ -219,9 +235,11 @@ IV. Consultar previamente a la substanciación de los procedimientos de adquisic
 
 ### CAPÍTULO SEGUNDO. DEL ESTUDIO Y PRECIOS DE MERCADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE JUNIO DE 2014)</small>
+
 ###### Artículo 17.
 
-Al inicio del procedimiento de adquisición y previo a la publicación de la convocatoria, los titulares de las unidades administrativas de las dependencias, organismos auxiliares, a excepción de los que otorguen servicios de salud, y tribunales administrativos serán responsables de obtener a través de la Secretaría, el estudio y los precios de mercado.
+Previo a la tramitación de sus adquisiciones, los titulares de las unidades administrativas de las dependencias serán responsables de obtener, a través de la Secretaría, el estudio de mercado, con el propósito de obtener los precios máximos a los que deberán adquirir los bienes y servicios; los organismos auxiliares y tribunales administrativos lo harán preferentemente, a través de ésta.
 
 En el caso de los municipios, sus autoridades determinarán lo conducente.
 
@@ -331,11 +349,15 @@ I. Acta constitutiva y su última modificación, tratándose de personas jurídi
 
 II. Cédula de Identificación Fiscal e Inscripción en el Registro Federal de Contribuyentes, que señale el domicilio fiscal vigente, así como actividad preponderante al momento de la solicitud de registro;
 
-III. Poder notarial suficiente de su representante legal;
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
+
+III. Poder suficiente del representante legal, emitido por Fedatario Público;
 
 IV. Identificación oficial del propietario o del representante legal;
 
-V. Declaración fiscal anual del ejercicio inmediato anterior o estados financieros del último ejercicio fiscal, dictaminados por contador público registrado en términos del Código Fiscal de la Federación;
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
+
+V. Declaración fiscal anual del ejercicio inmediato anterior o estados financieros del último ejercicio fiscal, dictaminados por contador público registrado en términos del Código Fiscal de la Federación; o los estados de cuenta bancarios, en los que se indiquen los movimientos realizados y el saldo al final del mes anterior a la fecha de solicitud de inscripción, para el caso de empresas de nueva constitución.
 
 VI. Estados financieros del mes inmediato anterior a la fecha de solicitud de inscripción, acompañados de la Cédula Profesional del Contador Público que los emite;
 
@@ -344,6 +366,10 @@ VII. Dos fotografías recientes tamaño infantil a color, del propietario o repr
 VIII. Carta compromiso de verificación y actualización de documentos.
 
 La Secretaría verificará que el solicitante cumpla con los requisitos y se cerciorará que cuente con capacidad jurídica y financiera, debiendo cumplir con las razones financieras de liquidez, solvencia y endeudamiento.
+
+> <small>(ADICIONADO, G.G. 19 DE JUNIO DE 2014)</small>
+
+Cualquier faltante de dichos documentos, a juicio de la Secretaría, para el caso de los proveedores sociales, será solventado por los mismos, en la visita de verificación que se realice con posterioridad y en la que se dará la validación final a la cédula que ya se haya otorgado, a través de los medios que estime la Secretaría.
 
 ###### Artículo 33.
 
@@ -623,7 +649,11 @@ IX. Al término de cada sesión se levantará acta que será firmada en ese mome
 
 X. Invariablemente se incluirá en el orden del día un apartado correspondiente al seguimiento de los acuerdos emitidos en las reuniones anteriores;
 
-XII (SIC). En la primera sesión de cada ejercicio fiscal se presentará a consideración del comité el calendario oficial de sesiones ordinarias, y el volumen anual autorizado para arrendamientos y para la adquisición de bienes inmuebles.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE JUNIO DE 2014)</small>
+
+XI. En la Primera Sesión de cada ejercicio fiscal se presentará a consideración del Comité el Calendario Oficial de Sesiones Ordinarias, y el Volumen Anual autorizado para arrendamientos y para la adquisición de bienes inmuebles.
+
+XII. (DEROGADA, G.G. 19 DE JUNIO DE 2014)
 
 ###### Artículo 59.
 
@@ -796,6 +826,10 @@ XXVII. La indicación de que en caso de violación a las patentes y derechos de 
 Asimismo que las patentes y derechos de autor para el caso de contratación de servicios de consultorías, asesorías, estudios e investigaciones, obras literarias, pasarán a favor de la convocante; y
 
 XXVIII. El lugar y fecha de la expedición de las bases de licitación y su autorización.
+
+> <small>(ADICIONADO, G.G. 19 DE JUNIO DE 2014)</small>
+
+En todo caso, las bases contendrán disposiciones que regulen la simplificación de requisitos que presenten los proveedores sociales, así como la excepción de la presentación de garantías de cumplimiento de contrato y de defectos o vicios ocultos, cuando se solicite.
 
 ###### Artículo 71.
 
@@ -1053,7 +1087,9 @@ La Secretaría, organismos auxiliares, tribunales administrativos y municipios p
 
 Para los procedimientos de adjudicación directa cuyo importe de la operación no rebase los montos establecidos en el Presupuesto de Egresos del Gobierno del Estado en el ejercicio correspondiente y, cuyo importe sea superior al monto determinado para el fondo fijo de caja; se deberá celebrar contrato pedido, sin que sea necesario observar las disposiciones de los demás artículos de esta Sección.
 
-En este supuesto, las dependencias, organismos auxiliares, a excepción de los que otorguen servicios de salud, y tribunales administrativos deberán obtener a través de la Secretaría, al menos dos cotizaciones, dentro de los treinta días naturales previos a la contratación; a efecto de seleccionar previa revisión y análisis, la que resulte más conveniente para los intereses del Estado.
+> <small>(REFORMADO, G.G. 19 DE JUNIO DE 2014)</small>
+
+En este supuesto, las dependencias, organismos auxiliares y tribunales administrativos deberán obtener preferentemente a través de la Secretaría dentro de los treinta días naturales anteriores a la fecha de la contratación, al menos dos cotizaciones, que deberán sujetarse al precio máximo derivado del estudio de mercado, al que deberán adjudicarse los bienes y servicios; analizando previamente su contenido técnico y económico para seleccionar la que presente las mejores condiciones para el Estado.
 
 En el caso de los municipios, las cotizaciones deberán obtenerse a través de sus áreas de administración.
 
@@ -1073,7 +1109,9 @@ El oficio justificatorio a que se refiere la fracción II, deberá formularse po
 
 En el procedimiento de adjudicación directa se observará lo siguiente:
 
-I. Las adquisiciones de bienes y la contratación de servicios, se efectuarán previa dictaminación del comité, a excepción de los casos previstos en las fracciones IV, VII, IX y XI del artículo 48 de la Ley; las contrataciones que se realicen con fundamento en las fracciones IV y VII, deberán corresponder a lo estrictamente necesario para atender la eventualidad o urgencia;
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
+
+I. Las adquisiciones de bienes y la contratación de servicios, se efectuaran previa dictaminación del comité, a excepción de los casos previstos en las fracciones IV, VII, IX y XI del artículo 48 de la Ley; las contrataciones que se realicen con fundamento en las fracciones IV y VII, deberán corresponder a lo estrictamente necesario para atender la eventualidad o urgencia y no deberán observar ninguna otra formalidad más que la suscripción del contrato respectivo.
 
 II. Se considerará a la persona que atendiendo al bien o servicio que se pretenda adquirir o contratar, pueda suministrarlo o prestarlo en las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
 
@@ -1517,11 +1555,15 @@ Serán aplicables en lo conducente, las disposiciones contenidas en el Capítulo
 
 Los organismos auxiliares, tribunales administrativos y municipios, podrán solicitar a la Secretaría con posterioridad al treinta y uno de enero del ejercicio fiscal respectivo, que ésta instaure el procedimiento de adquisición para la adquisición de bienes o contratación de servicios que requieran, mediante la celebración del acuerdo de coordinación respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE JUNIO DE 2014)</small>
+
 ###### Artículo 141.
 
-Los contratos pedido que se celebren al amparo del artículo 80 de la Ley, se realizarán directamente por las unidades administrativas de las dependencias, organismos auxiliares, tribunales administrativos y municipios, mediante la obtención de dos cotizaciones como mínimo seleccionando aquella que asegure las mejores condiciones de precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+Los contratos pedido que se celebren al amparo del artículo 80 de la Ley, se realizarán directamente por las unidades administrativas de las dependencias, organismos auxiliares, tribunales administrativos y municipios, y serán formalizados con el proveedor que resultó seleccionado del análisis de al menos dos cotizaciones obtenidas, en términos del artículo 92 del presente Reglamento y que garantice las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
-En el caso de las dependencias, organismos auxiliares, a excepción de los que otorguen servicios de salud, y tribunales administrativos las cotizaciones deberán obtenerse a través de la Secretaría, en los municipios a través de sus áreas de administración.
+> <small>(REFORMADO, G.G. 19 DE JUNIO DE 2014)</small>
+
+Los contratos pedidos de los organismos auxiliares que otorguen servicios de salud, serán formalizados por los titulares de las unidades médicas, a fin de asegurar el suministro inmediato en casos de urgencias médicas. En el caso de los municipios las cotizaciones deberán obtenerse a través de sus áreas de administración.
 
 Los contratos pedido deberán contener como mínimo lo siguiente:
 
@@ -1531,11 +1573,21 @@ II. Lugar y plazo de entrega de los bienes o de la prestación de los servicios;
 
 III. Precio unitario de los bienes y/o servicios e importe total; y
 
-IV. Garantía de defectos o vicios ocultos, la cual deberá ser hasta por un diez por ciento del importe total del contrato pedido y deberá estar vigente al menos por un año, contado a partir de la fecha de recepción de los bienes.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2014)</small>
+
+IV. Garantía de defectos o vicios ocultos, la cual deberá ser hasta por un diez por ciento del importe total del contrato pedido y deberá estar vigente al menos por un año, contado a partir de la fecha de recepción de los bienes. No aplicará lo dispuesto en esta fracción a los proveedores sociales.
+
+> <small>(ADICIONADO, G.G. 19 DE JUNIO DE 2014)</small>
+
+Los contratantes bajo su responsabilidad y previa justificación documental que deberá obrar en el expediente adquisitivo, podrán exceptuar a los proveedores de otorgar la garantía de defectos o vicios ocultos.
 
 En ningún caso se podrá fraccionar el importe de las operaciones con el propósito de quedar comprendidas en este supuesto.
 
 La Secretaría de la Contraloría y los órganos de control interno, en el ámbito de su competencia, vigilarán el cumplimiento de esta disposición. Para tal efecto, las dependencias, organismos auxiliares, tribunales administrativos y municipios, emitirán un reporte mensual de los contratos pedido que celebren en términos del presente artículo, y lo remitirán dentro de los cinco primeros días hábiles del mes siguiente al de su celebración, a sus órganos de control interno.
+
+> <small>(ADICIONADO, G.G. 19 DE JUNIO DE 2014)</small>
+
+Cuando no se puedan obtener las cotizaciones referidas en el primer párrafo, por razones de titularidad de patentes registros, derechos de autor o derechos exclusivos; mantenimientos correctivos; o bien, porque el área usuaria no lo considere conveniente por motivos de confidencialidad de la información o porque ponga en riesgo la seguridad del Estado, bastará con obtener sólo una cotización.
 
 ## TÍTULO DÉCIMO SEGUNDO. ARRENDAMIENTO INMOBILIARIO
 
@@ -1685,7 +1737,9 @@ La información de los procedimientos de adquisición y contratos celebrados, po
 
 La información de los procedimientos de adquisición y contratos celebrados deberá registrarse en el sistema COMPRAMEX y será de carácter público, por lo que cualquier persona podrá tener acceso libremente a ella.
 
-Las proposiciones que no resulten adjudicadas podrán ser devueltas a los licitantes, una vez transcurridos sesenta días naturales después del fallo, salvo que exista inconformidad, en cuyo caso serán devueltas hasta que éste cause estado o concluya; agotados dichos plazos, la convocante podrá proceder a su destrucción.
+> <small>(REFORMADO, G.G. 19 DE JUNIO DE 2014)</small>
+
+Las propuestas que no resulten adjudicadas podrán ser devueltas a los licitantes, una vez transcurridos sesenta días naturales después del fallo, salvo que exista inconformidad, en cuyo caso serán devueltas hasta que éste cause estado o concluya; agotados dichos plazos, la convocante podrá proceder a su destrucción.
 
 ###### Artículo 157.
 
@@ -1784,3 +1838,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN T. ROJAS DÁVILA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 19 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día hábil siguiente al de su publicación.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente.
