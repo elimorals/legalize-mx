@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2014-04-10"
+last_updated: "2014-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -429,7 +429,7 @@ III. Toda persona que se considere afectada podrá interponer los recursos respe
 
 El derecho a la información pública tendrá los siguientes fundamentos:
 
-I. La consolidación del estado democrático y de derecho en Jalisco;
+I. La consolidación del estado democrático y de derecho en Jalisco.
 
 II. La transparencia y la rendición de cuentas de las autoridades estatales y municipales, mediante la apertura de los órganos públicos y el registro de los documentos en que constan las decisiones públicas y el proceso para la toma de éstas;
 
@@ -703,11 +703,13 @@ Los poderes del Estado deben residir en la capital del mismo.
 
 Todos los órganos, dependencias, entidades u organismos estatales de carácter público que establezcan las leyes, formarán parte de los poderes del Estado a que se refiere el presente artículo, con excepción de los organismos públicos autónomos que crea esta Constitución.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Art. 15.
 
-Los órganos del poder público del Estado proveerán las condiciones para el ejercicio pleno de la libertad de los individuos y grupos que integran la sociedad y propiciarán su participación en la vida social, económica, política y cultural de la entidad. Para ello:
+Los órganos del poder público del Estado proveerán las condiciones para el ejercicio pleno de la libertad de las personas y grupos que integran la sociedad y propiciarán su participación en la vida social, económica, política y cultural de la entidad. Para ello:
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1994)</small>
 
 I. Las autoridades estatales y municipales colaborarán con la familia para su fortalecimiento, adoptarán y promoverán medidas que propicien el desarrollo integral de la población infantil; fomentarán la participación de la juventud en actividades sociales, políticas y culturales; y auspiciarán la difusión del deporte, la recreación y la cultura entre la población;
 
@@ -721,9 +723,9 @@ III. (DEROGADA, P.O. 29 DE ABRIL DE 2004)
 
 IV. El sistema educativo estatal se ajustará a los principios que se establecen en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos; estará orientado a promover la convivencia armónica y respetuosa entre la sociedad y la naturaleza, los valores cívicos y a fomentar el trabajo productivo para una convivencia social armónica; desarrollará además la investigación y el conocimiento de la geografía y la cultura de Jalisco, de sus valores científicos, arqueológico, histórico y artístico, así como de su papel en la integración y desarrollo de la nación mexicana;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-V. La legislación local protegerá el patrimonio ambiental y cultural de los jaliscienses. Las autoridades con la participación corresponsable de la sociedad, promoverán la conservación y difusión de la cultura del pueblo de Jalisco, y el respeto y preservación del entorno ambiental;
+V. La legislación local protegerá el patrimonio ambiental y cultural de los jaliscienses. Las autoridades con la participación corresponsable de la sociedad, promoverán la conservación y difusión de la cultura del pueblo de Jalisco, el respeto y preservación del entorno ambiental, y la protección y cuidado de los animales, en los términos y con las salvedades que establezca la legislación en la materia;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2008)</small>
 
@@ -731,9 +733,11 @@ VI. Las autoridades estatales y municipales organizarán el sistema estatal de p
 
 La ley establecerá los criterios para la instrumentación, control y evaluación del plan y los programas de manera objetiva, con base en indicadores que la doten de confiabilidad;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-VII. Las autoridades estatales y municipales para la preservación de los derechos a que alude el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, velarán por la utilización sustentable de todos los recursos naturales con el fin de conservar y restaurar el medio ambiente.
+VII. Las autoridades estatales y municipales para garantizar el respeto de los derechos a que alude el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, velarán por la utilización sustentable y por la preservación de todos los recursos naturales, con el fin de conservar y restaurar el medio ambiente. El daño y el deterioro ambiental generarán responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
+
+Toda persona tiene derecho al acceso y uso equitativo y sustentable, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará la defensa de este derecho en los términos de la ley, con la participación de la Federación, de los municipios y de la ciudadanía para la consecución de dichos fines;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -1949,7 +1953,7 @@ El municipio libre es base de la división territorial y de la organización pol
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-I. Cada municipio será gobernado por un Ayuntamiento de elección popular directa, que residirá en la cabecera municipal. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia entre éste y el gobierno del Estado.
+I. Cada municipio será gobernado por un Ayuntamiento de elección popular directa, que residirá en la cabecera municipal. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia entre éste y el gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -3304,3 +3308,7 @@ TERCERO. Los tres Poderes del Estado y los gobiernos municipales realizarán las
 CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 QUINTO. De conformidad con el artículo 118 de la Constitución Política del Estado de Jalisco, remítase el presente decreto al Titular del Poder Ejecutivo para su promulgación.
+
+P.O. 19 DE JUNIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
