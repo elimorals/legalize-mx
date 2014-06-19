@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-fomento-a-la-cultura-74969"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-29"
-last_updated: "2001-05-29"
+last_updated: "2014-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE FOMENTO A LA CULTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 29 de mayo de 2001.
 
@@ -134,9 +134,21 @@ V. Incluir como objetivos del Programa, aquellos que tengan como finalidad desar
 
 VI. Elaborar y presentar al titular del Ejecutivo del Estado, los proyectos de reglamentos o adecuaciones a los mismos, que sean necesarios para la exacta observancia de la Ley;
 
-VII. Asesorar y apoyar a los municipios cuando así lo soliciten por escrito, en la elaboración de los programas municipales de cultura; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-VIII. Las demás que le otorguen la Ley y demás ordenamientos aplicables.
+VII. Asesorar y apoyar a los municipios cuando así lo soliciten por escrito, en la elaboración de los programas municipales de cultura;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+VIII. Fijar las bases y publicar la convocatoria para la elección de consejeros;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+IX. Intervenir en la emisión de la convocatoria y en el proceso de asignación de becas del Fondo Estatal de Fomento a la Cultura y las Artes; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+X. Las demás que le confiera la Ley y otros ordenamientos aplicables.
 
 ## TITULO TERCERO. DEL SISTEMA ESTATAL DE CULTURA
 
@@ -278,19 +290,57 @@ La vigencia del Programa será la prevista por la legislación aplicable.
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### Artículo 29.
 
-El Consejo es un organismo público desconcentrado de la Secretaría, con funciones deliberativas, propositivas y de consulta, que funge como espacio de vinculación entre las autoridades en materia de cultura y la sociedad, y estará integrado en la forma y términos previstos en la Ley.
+El Consejo es un organismo público desconcentrado de la Secretaría, con autonomía operativa y funciones deliberativas, propositivas y de consulta, que funge como espacio de vinculación entre las autoridades en materia de cultura y la sociedad.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2014)</small>
+
+Artículo 29 bis.- El Consejo se integrará en los términos establecidos en el artículo 20 de la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 30.
 
-Los Consejeros sólo podrán ser sustituidos por el titular del Ejecutivo del Estado, por ausencia injustificada por más de cuatro meses, renuncia, muerte, incapacidad permanente o por la comisión de delitos que merezcan pena corporal.
+Para los efectos de la designación de los Consejeros a que se refiere el artículo 20 fracción IV de la Ley, se entenderá por integrantes de la comunidad cultural a los representantes de las manifestaciones culturales y artísticas, así como a los especialistas en patrimonio cultural edificado, que sean Consejeros al momento de emitirse la convocatoria para postulación de candidatos.
 
-En caso de ausencia por un lapso de cuatro meses continuos de alguno de los miembros del Consejo que representan a la comunidad cultural, el titular del Poder Ejecutivo podrá sustituirlos, siguiendo el mismo mecanismo de designación.
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2014)</small>
+
+Artículo 30 bis.- La designación de los Consejeros previstos en el artículo 20 fracción IV de la Ley se realizará conforme a lo siguiente:
+
+I. La Secretaría emitirá una convocatoria pública en la que fijará las bases para la postulación de candidatos a fungir como representantes de las manifestaciones culturales y artísticas en el Consejo, la cual deberá publicarse en el Periódico Oficial "El Estado de Jalisco", sin perjuicio de que pueda divulgarse por otros medios.
+
+II. Para aquellos Consejeros cuya designación corresponde al Gobernador del Estado, se estará a lo siguiente:
+
+a) La Secretaría recibirá las propuestas derivadas de la convocatoria y procederá a su revisión para determinar quiénes cumplen con los requisitos señalados en la misma; y
+
+b) Una vez revisadas, la Secretaría remitirá las candidaturas con los expedientes completos al Titular del Ejecutivo Estatal, para que designe de entre ellas a las dos terceras partes de los consejeros titulares y su respectivo suplente;
+
+III. Para la designación de los Consejeros que son electos por los integrantes de la comunidad cultural:
+
+a) La Secretaría remitirá al Secretario Ejecutivo los expedientes de los candidatos que no hayan sido designados como Consejeros en términos de la fracción anterior; y
+
+b) El Secretario Ejecutivo convocará a los integrantes de la comunidad cultural para que, constituidos en Comisión Especial, designen por mayoría simple de votos a los Consejeros titulares restantes y a su respectivo suplente.
+
+La Comisión Especial sólo tendrá por objeto efectuar la elección referida, sin que pueda tratar asuntos diversos.
+
+Para el desahogo de la reunión se observarán las reglas de las sesiones ordinarias del Consejo, en lo conducente.
+
+IV. Los Consejeros a que se refiere este artículo durarán en su cargo tres años contados a partir de la toma de protesta, y podrán ser ratificados por un período igual a condición de que hayan presentado su candidatura en la convocatoria correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2014)</small>
+
+###### Artículo 30 Ter.
+
+Cuando las propuestas recibidas no resulten suficientes o idóneas para designar a la totalidad de los consejeros representantes de las manifestaciones culturales y artísticas, la Secretaría de oficio emitirá una nueva convocatoria se seguirá el mismo mecanismo de designación, según corresponda.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 31.
 
-Por cada Consejero Propietario habrá un Suplente que cubrirá sus ausencias, quienes serán designados al mismo tiempo que los propietarios.
+Por cada Consejero Propietario habrá un suplente que cubrirá sus ausencias.
 
 ###### Artículo 32.
 
@@ -400,9 +450,17 @@ X. Llevar los trámites administrativos ante la Secretaría, los cuales tendrán
 
 XI. Las demás que le encomiende el Presidente.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### Artículo 36.
 
-Las faltas temporales del Secretario Ejecutivo, serán suplidas por la persona que designe el Presidente.
+Para efectos del desahogo de las sesiones, la ausencia del Presidente o del Secretario Ejecutivo, será cubierta en los siguientes términos:
+
+I. El Presidente será suplido por el representante de la Secretaría; y
+
+II. El Secretario Ejecutivo será suplido por quien designe el Consejo de entre sus integrantes, a propuesta del Presidente.
+
+Lo anterior, será sin perjuicio de las sanciones que procedan por dicha ausencia, de conformidad con las disposiciones aplicables.
 
 ###### Artículo 37.
 
@@ -412,31 +470,31 @@ El Consejo sesionará en forma ordinaria y extraordinaria.
 
 El Consejo debe celebrar como mínimo tres sesiones ordinarias en el año y las extraordinarias que sean necesarias, previa convocatoria de su Presidente o de una tercera parte de sus integrantes.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### Artículo 39.
 
-Las sesiones ordinarias deberán realizarse en las siguientes fechas:
+El Consejo celebrará al menos tres sesiones ordinarias al año de conformidad con el programa de trabajo que al efecto apruebe, y las extraordinarias que resulten necesarias.
 
-a) El primer día hábil de febrero;
-
-b) El primer día hábil de junio; y
-
-c) El primer día hábil de septiembre.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 40.
 
-Para la celebración de sesiones ordinarias, éstas deberán ser convocadas por el Presidente o una tercera parte de los Consejeros.
+Las sesiones ordinarias serán convocadas por el Presidente o, en su ausencia, por el titular de la Secretaría, con una anticipación mínima de cinco días naturales.
 
-La convocatoria para sesión ordinaria, deberá notificarse con cinco días hábiles como mínimo de anticipación y deberá contener el orden del día y copias simples de los asuntos que se vayan a tratar.
+Las sesiones extraordinarias podrán celebrarse cuando resulte necesario y deberán convocarse con una anticipación mínima de tres días naturales. En el caso de las sesiones extraordinarias, bajo ninguna circunstancia se podrán tratar asuntos distintos a los previstos en la convocatoria.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 41.
 
-Las sesiones extraordinarias podrán celebrarse cuantas veces sea necesario, para ello dichas sesiones deben ser convocadas como mínimo con tres días de anticipación y deberán contener la orden del día y copias de los asuntos que se vayan a tratar.
+La convocatoria contendrá el orden del día y los documentos relativos a los asuntos que deban tratarse, la cual podrá realizarse por medios electrónicos.
 
-Bajo ninguna circunstancia se podrán tratar en una sesión extraordinaria, asuntos distintos a los previstos en el orden del día.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 42.
 
-Para que haya quórum en primera convocatoria en cualquiera de los dos tipos de sesiones se requerirá la mitad más uno de los integrantes del Consejo e invariablemente tendrá que estar presente el Presidente.
+Para que exista quórum en primera convocatoria, independientemente del tipo de sesión, se requerirá la mitad más uno de los integrantes acreditados del Consejo e invariablemente deberá estar presente el Presidente o quien lo sustituya en términos del presente Reglamento.
 
 ###### Artículo 43.
 
@@ -472,81 +530,111 @@ Para los efectos del artículo 6 fracción V de la ley, se consideran como mecen
 
 Los mecenazgos, pueden consistir en legados, donaciones, permutas, comodatos y herencias, fideicomisos, patronatos, así como cualquier otro tipo de aportación que provenga de personas físicas o jurídicas, reguladas por el derecho privado, los cuales deberán destinarse a las partidas, ejercicios y objetivos que se señalen en los términos y condiciones que los mecenas establezcan o dispongan y que así sean aceptados por la Secretaría y el Consejo.
 
-### Capítulo III. De los Apoyos, las Becas, Estímulos y Reconocimientos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2014)</small>
+
+### Capítulo III. De los Apoyos Económicos
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 50.
 
-El Consejo distribuirá becas anuales para los artistas o personas jurídicas que hayan concursado previamente, hasta tres salarios mínimos, según lo prevea el Presupuesto de Egresos del Ejercicio Fiscal del que se trate, a efecto de que dichas personas puedan continuar con la realización de su obra, creaciones o proyectos en materia cultural y artística.
+El Consejo distribuirá apoyos económicos a través de los mecanismos referidos en el artículo 21 fracción IV de la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 51.
 
-El monto de las becas será otorgado por concurso mediante convocatoria pública y abierta.
+Los apoyos en la modalidad de becas serán otorgados anualmente por el Consejo, por concurso, previa convocatoria pública dirigida a las personas físicas o jurídicas que realicen obras, creaciones o proyectos en materia cultural y artística.
+
+El monto de las becas se determinará conforme al Presupuesto de Egresos del ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 52.
 
-La asignación de becas no constituye derechos de autor o manejo y administración de los proyectos a favor del Consejo o de la Secretaría, los derechos y administración de los mismos serán invariablemente de su titular.
+La asignación de los apoyos económicos no genera derechos de manejo y administración de los proyectos a favor del Consejo o de la Secretaría.
+
+Los beneficiarios conservarán invariablemente la titularidad de los derechos de autor de su obra, proyecto o actividad.- No obstante, durante el tiempo que reciban el apoyo económico correspondiente, la Secretaría o el Consejo podrán difundir, editar o presentar al público dichas obras o proyectos.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 53.
 
-Los becarios que reciban cualquier tipo de apoyo por parte del Consejo, deberán presentar informes de avances cada cuatro meses de la obra, invención o ejecución de la actividad cultural o artística que realicen.
+Los beneficiarios de cualquier tipo de apoyo por parte del Consejo, deberán presentar cada cuatro meses un informe de avance sobre la creación o ejecución de la actividad cultural o artística objeto de dicho apoyo, previa validación, en su caso, del Consejero asesor que se le haya asignado.
 
-A su vez, el becario permitirá que durante el tiempo que dure el apoyo económico, su obra o su proyecto sea difundido por la Secretaría, a través de la Dirección General de Fomento y Difusión, así como permitir se realicen exposiciones o presentaciones, o en su caso, editar su obra, por parte de la Dirección de Publicaciones de la Secretaría.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 54.
 
-Para obtener por concurso, cualquier tipo de apoyo determinado por el Consejo y a cargo del Fondo, los aspirantes deberán reunir los siguientes requisitos:
+Para concursar por cualquier tipo de apoyo determinado por el Consejo y a cargo del Fondo, los aspirantes deberán reunir los siguientes requisitos:
 
-a) Ser creador de un proyecto o en la realización de una obra o actividad artística o cultural;
+a) Ser creador o encontrarse en el proceso de creación de un proyecto u obra de carácter artístico o cultural;
 
-b) Demostrar que sin el apoyo del que se trate, sería de difícil realización su proyecto u obra, o en su caso, encontrarse dentro de la categoría de nuevo creador;
+b) Demostrar que su proyecto u obra sería de difícil realización de no recibir el apoyo en cuestión o, en su caso, encontrarse en la categoría de nuevo creador;
 
-c) Haberse desempeñado tres años anteriores de la solicitud, a una disciplina artística o cultural previstas por la Ley y este Reglamento;
+c) Acreditar experiencia de al menos tres años anteriores a la solicitud en el desempeño de alguna disciplina artística o cultural de las previstas por la Ley y este Reglamento;
 
-d) Ser originario de Jalisco o residir en él, por lo menos tres años anteriores a la solicitud que presente; y
+d) Ser originario del Estado de Jalisco o residir en él durante al menos tres años anteriores a la solicitud que se presente; y
 
-e) Poner a disposición para su difusión o publicación, a través de la Dirección de Fomento y Difusión de la Secretaría, su proyecto, obra o actividad artística o cultural que realice, por el tiempo que reciba cualquier tipo de apoyo.
+e) Cumplir con las bases que se establezcan en la convocatoria correspondiente.
 
-### Capítulo IV. De los Derechos y Obligaciones de los Beneficiarios del Fondo y Becarios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2014)</small>
+
+### Capítulo IV. De los Derechos y Obligaciones de los Beneficiarios
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 55.
 
-Son obligaciones de los beneficiarios del Fondo:
+Son derechos de los beneficiarios:
 
-I. Entregar cada cuatrimestre un informe del avance registrado en la realización del proyecto apoyado;
+l. Recibir los apoyos económicos que se les asignen en el marco de una convocatoria;
 
-II. Reconocer y difundir el apoyo de las instituciones culturales del estado, en los productos y representaciones y, en general, en los medios que utilice para la promoción de su trabajo; y
+II. Conservar y hacer valer la titularidad de los derechos de autor que les correspondan;
 
-III. Dar crédito a la Secretaría en los productos y presentaciones que reciban financiamiento del Fondo.
+III. Obtener y administrar los productos económicos derivados de su obra, proyecto o actividad; y
+
+IV. Difundir su proyecto con ayuda de la Secretaría o el Consejo, de acuerdo a las posibilidades administrativas y presupuestarias.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 56.
 
-Son derechos y obligaciones de los becarios:
+Son obligaciones de los beneficiarios:
 
-I. Los derechos de autor de su obra, proyecto o invención;
+I. Cumplir puntualmente con los compromisos derivados de la convocatoria para la cual hayan concursado;
 
-II. Otorgar el 25% de regalías o del boletaje, cuando se presente algún espectáculo o exposición, durante el tiempo que sea becario;
+II. Realizar sus obras, proyectos o actividades en los términos acordados para recibir el apoyo;
 
-III. Otorgar el 75% del total del tiraje, producto de publicaciones que realice la Dirección de Publicaciones, a favor de la Secretaría, a la par de recibir el 25% restante a su favor;
+III. Presentar al Consejero asesor que se le asigne, los informes cuatrimestrales sobre los avances en el desarrollo de la obra o proyecto;
 
-IV. Cumplir puntualmente con las bases de la convocatoria para la cual haya concursado para la obtención de cualquier apoyo económico, así como presentar informes cuatrimestrales sobre los avances, cuando se trate de un proyecto en específico, o en su caso, demostrar fehacientemente los avances de la elaboración de la obra, invención, proyecto o realización de la actividad artística o cultural a la que se dedique; y
+IV. Dar crédito a la Secretaría en los productos y presentaciones de las obras, proyectos o actividades que reciban financiamiento del Fondo, en los medios que utilice para la promoción de su trabajo;
 
-V. Permitir la difusión del proyecto, obra, invención o actividad artística o cultural, a través del Sistema o la Secretaría.
+V. Otorgar hasta el veinticinco por ciento de cortesías, a solicitud de la Secretaria o del Consejo, cuando su obra o proyecto se presente o exponga;
+
+VI. Otorgar a la Secretaría el veinticinco por ciento del total del tiraje de las publicaciones que realice de la obra materia del apoyo;
+
+VII. Poner su obra o proyecto a disposición de la Secretaría y el Consejo; y
+
+VIII. Las demás que se desprendan de la Ley, el Reglamento y demás disposiciones legales aplicables.
+
+Las obligaciones establecidas en las fracciones III a VII de este artículo subsistirán durante la vigencia del apoyo del Consejo, sin perjuicio de las demás obligaciones a cargo del beneficiario.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 57.
 
-Las becas otorgadas podrán ser canceladas cuando no se cumpla con los requisitos señalados en el artículo anterior, además por los siguientes supuestos:
+Los apoyos económicos otorgados podrán ser revocados en los siguientes supuestos:
 
-I. Dar destino distinto al dinero obtenido por cualquier tipo de apoyo a cargo del Fondo;
+I. Por incumplimiento de las obligaciones previstas en el artículo que antecede o en el convenio que al efecto se suscriba;
 
-II. Retirar la carta de intención a que se refiera la convocatoria a la que haya concurrido;
+II. Por destinar los recursos a fines distintos para los que fueron otorgados;
 
-III. Omitir refrendar el apoyo económico del que se trate;
+III. Por renuncia expresa;
 
-IV. Por renuncia al apoyo económico;
+IV. Por muerte del beneficiario; y
 
-V. Por muerte; y
-
-VI. Las demás que por su propia naturaleza impidan su uso, goce o disfrute.
+VII. (sic) En los demás supuestos que por su propia naturaleza impidan el uso, goce o disfrute del apoyo económico.
 
 ###### Artículo 58.
 
@@ -568,41 +656,53 @@ V. Duración y monto del apoyo económico del que se trate.
 
 Para efectos del artículos (sic) 27 de la ley, para otorgar beca o cualquier otro tipo de apoyo económico a los becarios o beneficiarios, a cargo del Fondo, la Secretaría deberá expedir una convocatoria pública y abierta, mediante la cual y en sus términos, el Consejo resolverá las solicitudes de asignación de los apoyos económicos.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### Artículo 60.
 
-Las convocatorias para concursar por los apoyos económicos previstos en el Fondo, deberán contener las bases y pliego de condiciones, las cuales tiene por objetivo los criterios de formulación del contrato a celebrar, en el que se detallará su regulación jurídica, así como los derechos y obligaciones de las partes.
+Las convocatorias para concursar por los apoyos económicos previstos en el Fondo, deberán contener las bases, requisitos y condiciones de participación, los criterios de evaluación, así como los compromisos a adquirir por el beneficiario en el convenio correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 61.
 
-Las convocatorias deberán publicarse cuando menos en dos diarios de mayor circulación del Estado y en el Periódico Oficial “El Estado de Jalisco”.
+Las convocatorias deberán publicarse en el Periódico Oficial "El Estado de Jalisco" y estar a disposición en la página de Internet de la Secretaría, sin perjuicio de que pueda divulgarse un extracto de la misma en dos diarios de mayor circulación en el Estado.
 
-Dichas publicaciones se harán durante los primeros quince días naturales del mes de septiembre del año que se trate, para la recepción de las solicitudes.
+Las convocatorias se publicarán anualmente durante el segundo trimestre del año, en las fechas que se determinen en el programa de trabajo del Consejo.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 62.
 
-La convocatoria deberá señalar:
+La convocatoria será publicada por el Consejo, previa validación de la Secretaría, y deberá señalar:
 
-I. La disciplina artística o cultural a la que se convoca;
+l. Las disciplinas artísticas o culturales participantes;
 
-II. Requisitos que deberán reunir los concursantes para estar en aptitud de concursar;
+II. Las fechas de apertura y cierre de la convocatoria;
 
-III. Condiciones a que se someterán tanto el Consejo, como los concursantes;
+III. Los requisitos que deberán reunir los concursantes y los impedimentos para concursar;
 
-IV. Período por el que se otorga el apoyo económico y sí es refrendable;
+IV. La documentación requerida y los términos para su presentación;
 
-V. Lugar, día y hora en que será la apertura de las propuestas y lectura del resumen ejecutivo de las mismas;
+V. Las condiciones a las que se someterán los concursantes en caso de resultar beneficiados;
 
-VI. Los consejeros que habrán de fungir como Jurado;
+VI. El periodo por el que se otorga el apoyo económico;
 
-VII. El Jurado deberá estar integrado necesariamente por los tres integrantes del Consejo a que se refiera la disciplina que se convoca, entre otros;
+VII. La integración del jurado;
 
-VIII. En caso de vacancia de alguno de los consejeros de la disciplina de que se trate, será sustituido por la Dirección de la Secretaría especializada en la actividad artística o cultural que se convoca; y
+VIII. Los lineamientos para la revisión y evaluación de las propuestas;
 
-IX. Día, hora y lugar en que habrá de resolverse la solicitud de la persona física o jurídica a que se le otorgará el apoyo económico a cargo del Fondo.
+IX. La fecha de resolución del Consejo para la asignación de apoyos;
+
+X. La forma de notificación y otorgamiento de los apoyos solicitados;
+
+XI. Las demás que se consideren necesarias para el proceso de selección y asignación de los apoyos.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 63.
 
-Las propuestas de proyectos, obras, invenciones o actividades artísticas o culturales a realizar, deberán presentarse en sobre cerrado.
+Las propuestas que participen en la convocatoria podrán presentarse en físico o en formato electrónico, en los términos establecidos en la convocatoria.
 
 ###### Artículo 64.
 
@@ -610,23 +710,25 @@ Las bases de las convocatorias para concursar por los apoyos económicos, produc
 
 ###### Artículo 65.
 
-Los concursantes presentarán sus proyectos, obras, invenciones o actividades, cubriendo los requisitos contemplados en este Reglamento y los propios que establezca la convocatoria, además de que sus propuestas obligarán a los concursantes a mantenerlas durante el plazo fijado de las bases de la convocatoria y en los términos de la carta de compromiso a la que se someta voluntaria y libremente.
+(DEROGADO, P.O. 19 DE JUNIO DE 2014)
 
-En caso de incumplimiento a lo dispuesto en el párrafo anterior, será causa suficientes para que el concursante pierda la garantía de seriedad que se le hubiera reconocido y no será sujeto al apoyo económico de que se trate.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 66.
 
-En la apertura de propuestas, intervendrán los Consejeros y servidores públicos de la Secretaría que intervengan asistiendo a aquellos y a los concursantes, a efecto de que se enteren públicamente de las propuestas ofertadas por los aspirantes.
+AI cierre de la convocatoria, la relación de propuestas recibidas será remitida a la Secretaría para su publicación en sus estrados, lo cual se hará constar en acta circunstanciada levantada por un representante de ésta.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 67.
 
-En la apertura de los sobres cerrados que contienen las propuestas de proyectos, invenciones, obras o actividades artísticas o culturales de que se trate, deberá levantarse un acta circunstanciada, en la que intervendrá el Secretario Ejecutivo del Consejo y la Dirección Jurídica de la Secretaría.
+La revisión y evaluación de las propuestas se desarrollará de acuerdo a los criterios y bases establecidos en el artículo 27 de la Ley, conforme a los lineamientos previstos en la convocatoria.
 
-En dicha acta se deberá incluir todo lo ocurrido en ese acto y las observaciones que refieran los presentes por alguna irregularidad durante su desarrollo.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 68.
 
-El acta a que se refiere el artículo anterior, debe ser firmada por los Consejeros, servidores públicos y oferentes que participen en la misma.
+La revisión y evaluación se hará constar en acta circunstanciada levantada por el Secretario Ejecutivo y suscrita por quienes participen en la evaluación.
 
 ###### Artículo 69.
 
@@ -680,7 +782,7 @@ V. Recibir los premios instituidos por ley, decreto, acuerdos o por resolución 
 
 VI. Limitar o establecer sus condiciones sobre la publicidad de su vida, obras, invenciones o actividades artísticas o culturales;
 
-VII. Recibir asesoría y poyo por parte de la Dirección Jurídica de la Secretaría para el registro de derechos de autor sobre sus obras, proyectos e invenciones;
+VII. Recibir asesoría y poyo (sic) por parte de la Dirección Jurídica de la Secretaría para el registro de derechos de autor sobre sus obras, proyectos e invenciones;
 
 VIII. Coadyuvar al Sistema en sus objetivos; y
 
@@ -915,3 +1017,11 @@ HÉCTOR PÉREZ PLAZOLA
 LA SECRETARIO (SIC) DE CULTURA
 
 SOFÍA GONZÁLEZ LUNA
+
+P.O. 19 DE JUNIO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los Consejeros representantes de las manifestaciones culturales y artísticas que se encuentren en funciones al momento de la entrada en vigor del presente Acuerdo, concluirán su encargo el 31 de diciembre de 2016.
+
+TERCERO. La Secretaría de Cultura deberá emitir la convocatoria para elección de consejeros representantes de las manifestaciones culturales y artísticas durante el tercer trimestre de 2016.
