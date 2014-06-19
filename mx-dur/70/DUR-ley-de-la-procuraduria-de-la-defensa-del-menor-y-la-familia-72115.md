@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-721
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2010-04-01"
+last_updated: "2014-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA PARA EL ESTADO DE DURANGO -- ANTES LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA PARA EL ESTADO DE DURANGO --
 
-LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA PARA EL ESTADO DE DURANGO
+LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -33,7 +33,7 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 24 de Noviembre del presente año el Titular del Poder Ejecutivo C. P. Ismael Hernández Deras; el Presidente del Tribunal Superior de Justicia en el Estado de Durango, el C. Magistrado Apolonio Betancourt Ruiz y por los CC. Diputados Jorge Herrera Delgado, Miguel Ángel Jáquez Reyes, José Arreola Contreras, Servando Marrufo Fernández, Francisco Villa Maciel y Mario Miguel Ángel Rosales Melchor, presentaron Iniciativa de Decreto que contiene LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA; misma que fue turnada a la Comisión de Asuntos de la Familia y Menores de Edad integrada por los CC. Diputados: José Arreola Contreras, Adán Sáenz Segovia, Mariano Soto Caldera, Juan Moreno Espinoza, Sonia Catalina Mercado Gallegos; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S...
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -111,7 +111,9 @@ Para ser Procurador o Subprocurador de la Defensa del Menor, la Mujer y la Famil
 
 I. Ser ciudadano duranguense, en pleno goce de sus derechos civiles y políticos;
 
-II. Poseer título de Licenciado en Derecho y cédula profesional, ambos con una antigüedad mínima de cinco años;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+II. Poseer título de Licenciado en Derecho y cédula profesional;
 
 III. Ser mayor de treinta años;
 
@@ -341,10 +343,20 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE ABRIL DE 2010.
 
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente.
+
+P.O. 19 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
