@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2014-02-20"
+last_updated: "2014-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SON"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE SONORA
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 167, PUBLICADO EN EL B.O. 27 DE SEPTIEMBRE DE 2012, LAS MENCIONES QUE EN DIVERSOS ORDENAMIENTOS LEGALES Y REGLAMENTARIOS SE HAGAN AL CONSEJO ESTATAL ELECTORAL SE ENTENDERÁN REFERIDAS AL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE JUNIO DE 2014.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -35,15 +33,17 @@ Que el Congreso Constituyente del mismo, ha tenido a bien decretar lo siguiente:
 
 EL CONGRESO CONSTITUYENTE DE SONORA, reunido en esta Villa, en virtud de las facultades que le conceden los Decretos Números 90 y 91, de fecha 29 de Marzo de 1917, expedidos por el C. Gobernador Interino del Estado, de conformidad con el Artículo 1º. del Decreto de 22 de Marzo de 1917 del Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y con apoyo en el Artículo 5º. del expresado Decreto, en nombre del pueblo sonorense ha tenido a bien expedir la siguiente:
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 167, PUBLICADO EN EL B.O. 27 DE SEPTIEMBRE DE 2012, LAS MENCIONES QUE EN DIVERSOS ORDENAMIENTOS LEGALES Y REGLAMENTARIOS SE HAGAN AL CONSEJO ESTATAL ELECTORAL SE ENTENDERÁN REFERIDAS AL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA.</small>
+
 Constitución Política del Estado de Sonora, que reforma la de 1º. de Noviembre de 1872.
 
 ## TITULO PRELIMINAR.
 
-> <small>(REFORMADO, B.O. 6 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
 
-###### Articulo 1.
+###### Artículo 1.
 
-Los Derechos del Hombre son la base y el objeto de las instituciones sociales. En el Estado de Sonora todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos. El Estado de Sonora tutela el derecho a la vida, al sustentar que desde el momento de la fecundación de un individuo, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural. Se exceptúa de este reconocimiento, el aborto causado por culpa de la mujer embarazada o cuando el embarazo sea resultado de una violación o cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora, así como los casos de donación de órganos humanos en los términos de las disposiciones legales aplicables.
+Los Derechos del Hombre son la base y el objeto de las instituciones sociales. En el Estado de Sonora toda persona gozará de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la propia Constitución Federal establezca. El Estado de Sonora tutela el derecho a la vida, al sustentar que desde el momento de la fecundación de un individuo, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural. Se exceptúa de este reconocimiento, el aborto causado por culpa de la mujer embarazada o cuando el embarazo sea resultado de una violación o cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora, así como los casos de donación de órganos humanos, en los términos de las disposiciones legales aplicables.
 
 Las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, las garantías y las prerrogativas que esta Constitución Local concede.
 
@@ -96,6 +96,38 @@ I).- Consultar a los pueblos indígenas en la elaboración de los planes estatal
 > <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 Para garantizar el cumplimiento de las obligaciones señaladas en el párrafo que antecede, el Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
+
+En el Estado de Sonora queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
+
+Las niñas y los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
+
+Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. El Estado proveerá lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
+
+El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
+
+Toda persona tiene derecho a la cultura física y al deporte. Corresponde al Estado conforme a las Leyes en la materia su promoción, normativa, fomento, estímulo y difusión.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
+
+El Estado garantizará como un derecho del hombre el tener la posibilidad de acceder a la conectividad de redes digitales de información y comunicación, como una política pública que otorga igualdad de oportunidades a sus habitantes en el acceso a nuevas tecnologías, con el fin de fortalecer el desarrollo cultural, económico, social y político del Estado.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
+
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a ese derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque, en términos de lo dispuesto por la Ley.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
+
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
 
 ###### Artículo 2.
 
@@ -327,103 +359,67 @@ Soberanía.
 
 El Estado de Sonora forma parte de la Federación de los Estados Unidos Mexicanos. Es libre e independiente de los demás Estados de la Federación y soberano en todo lo que se refiere a su administración y régimen interiores. Conserva con los demás Estados de la Unión las relaciones que le impone la Constitución General de la República.
 
-(REFORMADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 22.
 
-La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los Poderes Públicos del Estado. El Gobierno es emanación genuina del pueblo y se instituye para beneficio del mismo.
+La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los poderes públicos del Estado. El gobierno es emanación genuina del pueblo y se instituye para beneficio del mismo.
 
-La elección a Gobernador del Estado, de los Diputados al Congreso del Estado y de los integrantes de los Ayuntamientos, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones libres, auténticas y periódicas.
+La elección a gobernador del Estado, de los diputados al Congreso del Estado y de los integrantes de los ayuntamientos, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones libres, auténticas y periódicas. La jornada comicial tendrá lugar el primer domingo de junio del año en que corresponda.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Estatal Electoral y de Participación Ciudadana, dotado de personalidad jurídica y patrimonio propios, integrado por ciudadanos y partidos políticos. En el ejercicio de esa función estatal, por parte de las autoridades electorales, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
 
-La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo denominado Consejo Estatal Electoral y de Participación Ciudadana, dotado de personalidad jurídica y patrimonio propios, integrado por ciudadanos y partidos políticos, en los términos que ordene la Ley. En el ejercicio de esa función estatal, por parte de las autoridades electorales, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+El Instituto Estatal Electoral y de Participación Ciudadana será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño. El Consejo General será su máximo órgano de dirección y se integrará por un consejero Presidente y seis consejeros electorales con derecho a voz y voto, designados por el Instituto Nacional Electoral, en los términos que señala (sic) Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+Los siete consejeros electorales durarán en su encargo un período de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, en los términos dispuestos en las leyes aplicables.
 
-El Consejo Estatal Electoral y de Participación Ciudadana será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño, se integrará por ocho ciudadanos, de los cuales cinco fungirán como Consejeros Propietarios con derecho a voz y voto y tres como Consejeros Suplentes Comunes, quienes cubrirán las ausencias de aquellos de forma indistinta; asimismo, concurrirán con derecho a voz, un comisionado de cada uno de los partidos con registro. Las sesiones de los organismos electorales serán públicas.
+Los consejeros electorales deberán ser originarios del Estado de Sonora o contar con una residencia efectiva de, por lo menos, cinco años anteriores a su designación y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezcan la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+En caso de que ocurra una vacante de consejero electoral estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente, en términos de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
-La designación de los Consejeros Estatales Electorales compete al Congreso del Estado, previa convocatoria pública que emita el Consejo Estatal Electoral y de Participación Ciudadana, conforme a la Ley. El Congreso del Estado, una vez recibidas las solicitudes, integrará una Comisión Plural encargada de someter la lista de aspirantes a Consejero Estatal Electoral, ante el Pleno, para que lleve a cabo la designación de los ciudadanos que integrarán el Consejo Estatal Electoral y de Participación Ciudadana, mediante el voto de las dos terceras partes de sus integrantes.
+Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+Los consejeros electorales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-Los Consejeros Estatales Electorales durarán en su encargo dos procesos electorales ordinarios sucesivos. El Consejo Estatal Electoral y de Participación Ciudadana será renovado parcialmente cada proceso electoral ordinario.
+El Instituto contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por las leyes aplicables. La selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina de los servidores públicos del Instituto estará a cargo del Servicio Profesional Electoral Nacional, en los términos de las leyes aplicables.
 
-Los partidos políticos son entidades de interés público cuyo fin es promover la participación del pueblo en la vida democrática del Estado, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos. La Ley determinará las formas específicas de intervención de los partidos políticos en el proceso electoral.
+El Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones del Instituto solo con derecho a voz. Las sesiones de los organismos electorales serán públicas. Cada partido político contará con un representante propietario y su suplente en cada organismo electoral.
 
-Los partidos políticos con registro tendrán derecho a participar en las elecciones estatales, distritales y municipales. Tendrán, en igualdad de circunstancias, acceso a los medios de comunicación social, de acuerdo a la forma que establezca la Ley. Asimismo, promoverán y garantizarán, en los términos de esta Constitución y la Ley, la igualdad de oportunidades y la equidad entre las mujeres y los hombres en la vida política del Estado y sus municipios, a través de la postulación a cargos de elección popular en el Congreso del Estado y en los ayuntamientos, tanto de mayoría relativa como de representación proporcional.
+El Instituto Estatal Electoral y de Participación Ciudadana podrá convenir con el Instituto Nacional Electoral para que se haga cargo de la organización de los procesos electorales locales, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
-El Estado garantizará el financiamiento público a los partidos políticos con registro nacional o estatal que participen en la elección ordinaria inmediata anterior en la Entidad y mantengan actividades ordinarias permanentes en la Entidad, en los términos que establece esta Constitución y la Ley.
+Los partidos políticos son entidades de interés público cuyo fin es promover la participación del pueblo en la vida democrática del Estado, contribuir a la integración de los órganos de representación política estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
-El financiamiento público se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y en los términos que disponga la Ley:
+Tendrán el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2°, apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos, por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-A) El financiamiento público para el sostenimiento de las actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el Consejo Estatal Electoral y de Participación Ciudadana, el número de diputados a elegir, el número de planillas de ayuntamientos a elegir, el número de partidos políticos con representación en la legislatura local y la duración de las campañas electorales. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje que resulte de la suma total de votos obtenidos en las elecciones ordinarias inmediata anterior de ayuntamientos, diputados al Congreso del Estado y, en su caso, de Gobernador.
+Asimismo, promoverán, en los términos de esta Constitución y la Ley, la igualdad de oportunidades y la equidad entre las mujeres y los hombres en la vida política del Estado y sus municipios, a través de la postulación a cargos de elección popular en el Congreso del Estado y en los ayuntamientos, tanto de mayoría relativa como de representación proporcional. La intervención de los partidos políticos en el proceso electoral estará a lo dispuesto por las leyes aplicables.
 
-B) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales será igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año.
+El Estado garantizará el financiamiento público a los partidos políticos con registro nacional o estatal que participen en la elección ordinaria inmediata anterior en la Entidad y mantengan actividades ordinarias permanentes en el Estado, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
-C) Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, conforme lo establezca la Ley; y
+El partido político que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
 
-D) Los partidos políticos que hubieren obtenido su registro o inicien sus actividades ordinarias permanentes en la Entidad con fecha posterior a la última elección ordinaria estatal, tendrán derecho a que se les otorgue financiamiento público conforme lo establece la Ley.
+El partido político nacional que participe en las elecciones locales y que se encuentre en el supuesto del párrafo anterior, no obtendrá financiamiento con recursos públicos locales para actividades ordinarias.
 
-La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas.
+La ley establecerá los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes; también establecerá las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. En todo caso, la duración de las campañas será de sesenta a noventa días para la elección de gobernador y de treinta a sesenta días, cuando sólo se elijan diputados o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
-De igual manera, la Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales.
+Los ciudadanos sonorenses tendrán el derecho de solicitar su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular. Además, se establecerán los mecanismos para la postulación, registro, derechos y obligaciones de los candidatos independientes, garantizando su derecho al financiamiento público y al acceso a la radio y la televisión, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en las leyes aplicables.
 
-La Ley establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+La ley establecerá un sistema de nulidades y medios de impugnación de los que conocerá un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos, acuerdos y resoluciones se sujeten, invariablemente, al principio de legalidad. Sus sesiones serán públicas.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+El Tribunal Estatal Electoral tendrá plena autonomía operativa y de decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la sustanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes aplicables.
 
-El financiamiento público de los partidos políticos y de sus campañas electorales deberá prevalecer sobre los privados, para tal efecto, el Consejo Estatal Electoral y de Participación Ciudadana integrará un órgano de fiscalización que controlará y vigilará el uso de todos los recursos con que cuenten, sean de origen privado o público y propondrá las sanciones que deban imponerse por el uso indebido de estos recursos, de conformidad con lo que establezca la Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-La ley establecerá un sistema de medios (sic) impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad. Sus sesiones serán públicas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-El Tribunal Estatal Electoral tendrá plena autonomía operativa y de decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la sustanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes relativas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-El Tribunal estará compuesto por tres magistrados propietarios y dos magistrados suplentes comunes, los cuales serán nombrados por el Congreso del Estado el que deberá emitir una convocatoria pública para tal fin. El Congreso integrará una Comisión Plural que presentará al pleno la lista de aspirantes y mediante el voto de las dos terceras partes de sus integrantes, nombrará a los magistrados del Tribunal Estatal Electoral.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-Los magistrados del Tribunal Estatal Electoral durarán en su encargo nueve años. El Tribunal Estatal será renovado parcialmente cada tres años, salvo que se actualice algún supuesto de remoción de entre los previstos por la ley respectiva.
-
-Los Magistrados nombrados para concluir el periodo de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del periodo de aquél.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+El Tribunal se integrará por tres magistrados propietarios los cuales serán designados por la Cámara de Senadores, en términos de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
 La organización y competencia del Tribunal Estatal Electoral será fijada por la ley.
 
-En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+En materia electoral, la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+El Instituto Estatal Electoral y de Participación Ciudadana realizará el cómputo final de la elección de Gobernador del Estado y declarará la validez de la elección y de Gobernador Electo.
 
-El Consejo Estatal Electoral y de Participación Ciudadana realizará el cómputo final de la elección de Gobernador del Estado y declarará la validez de la elección y de Gobernador Electo.
+Las leyes en materia electoral deberán promulgarse y publicarse, por lo menos, noventa días naturales antes de que inicie el proceso electoral en que vayan a aplicarse y durante el mismo no podrá realizarse modificación alguna.
 
-Las leyes en materia electoral deberán promulgarse y publicarse por lo menos noventa días naturales antes de que inicie el proceso electoral en que vayan a aplicarse y durante el mismo no podrá realizarse modificación alguna.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-En la integración de los organismos electorales habrá paridad de género y se observará, en su conformación, el principio de alternancia de género. Asimismo, en la integración del Tribunal Estatal Electoral será obligatorio conformarlo por ambos géneros.
+Los delitos en materia electoral y la determinación de las penas correspondientes que por ellos se impongan se establecerán en la Ley.
 
 ###### Artículo 23.
 
@@ -439,11 +435,11 @@ Los Supremos Poderes del Estado ejercerán todas aquellas facultades que se les 
 
 Forma de Gobierno.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 25.
 
-De acuerdo con la Constitución General de de (sic) los Estados Unidos Mexicanos, el Estado de Sonora adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial y organización política y administrativa el Municipio Libre, según la presente Constitución y las leyes que de ella emanen.
+De acuerdo con la Constitución Política de los Estados Unidos Mexicanos, el Estado de Sonora adopta para su régimen interior la forma de gobierno republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y organización política y administrativa, el Municipio Libre, según la presente Constitución y las leyes que de ella emanen.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
@@ -521,25 +517,25 @@ El ejercicio del Poder Legislativo del Estado se depositará en una Asamblea de 
 
 Elección de Diputados.
 
-> <small>(REFORMADO, B.O. 24 DE FEBRERO DE 1943)</small>
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 30.
 
 Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+Los diputados podrán ser electos, de manera consecutiva, hasta por cuatro periodos consecutivos sin que la suma de dichos periodos exceda de doce años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. En los casos de los diputados que hayan accedido a tal cargo mediante una candidatura independiente, solo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición.
+
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 31.
 
-El Congreso del Estado estará integrado por 21 Diputados Propietarios y sus respectivos suplentes, electos en forma directa por el principio de mayoría relativa, en igual número de distritos uninominales, y hasta por 12 Diputados electos por el principio de representación proporcional.
+El Congreso del Estado estará integrado por 21 diputados propietarios y sus respectivos suplentes, electos en forma directa por el principio de mayoría relativa, en igual número de distritos uninominales y hasta por 12 diputados electos por el principio de representación proporcional.
 
-> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+Los diputados electos por mayoría relativa y los electos por el principio de representación proporcional, siendo ambos representantes del pueblo, tendrán idéntica categoría e igualdad de derechos y deberes.
 
-Los Diputados electos por mayoría relativa y los electos por el principio de representación proporcional, siendo ambos representantes del pueblo, tendrán idéntica categoría e igualdad de derechos y deberes.
+En ningún caso, un partido político podrá contar con un número de diputados, por ambos principios, que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación válida emitida en la elección de que se trate. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida, más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación válida que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
-
-La Ley establecerá la demarcación de cada distrito electoral.
+Las leyes aplicables establecerán la demarcación de cada Distrito Electoral.
 
 > <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
@@ -579,21 +575,21 @@ V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
-VII. No haber sido diputado propietario en el período en que se fectúe (sic) la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+
+VII. No haber sido Diputado Propietario durante cuatro periodos consecutivos al año en que se efectúe la elección.
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2011)</small>
 
-VIII.- No haber sido Diputado o Senador Propietario del Congreso de la Unión, a menos que se separe de dicho cargo, noventa días antes al día de la elección.
+VIII. No haber sido Diputado o Senador Propietario del Congreso de la Unión, a menos que se separe de dicho cargo, noventa días antes al día de la elección.
 
 > <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
 
 IX. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-X.- No haber sido magistrado propietario o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
+X. No haber sido magistrado propietario o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o haya transcurrido el plazo a que se refiere el artículo 22 de esta Constitución.
 
 ###### Artículo 34.
 
@@ -881,9 +877,9 @@ XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y 
 
 XIX Bis. Para ratificar o rechazar el nombramiento del Procurador General de Justicia que haga el Ejecutivo del Estado.
 
-> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
-XX. Para nombrar a los magistrados propietarios y a los magistrados suplentes comunes del Tribunal Estatal Electoral y a los consejeros estatales electorales propietarios y suplentes comunes del Consejo Estatal Electoral y de Participación Ciudadana, según el procedimiento establecido por esta Constitución y la ley;
+XX. Ratificar los nombramientos que realice el Gobernador del Estado de los Secretarios y titulares de las Entidades Paraestatales, en caso de que éste opte por un gobierno de coalición.
 
 > <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -1121,9 +1117,7 @@ El Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoría y
 
 La ley definirá formas alternativas de designación del Auditor Mayor del Instituto Superior de Auditoría y Fiscalización para la hipótesis de que, en un plazo breve, no se reúna la votación cameral requerida para dicho nombramiento. La falta de votos para el nombramiento referido nunca podrá ocasionar la permanencia en el cargo de quien haya ejercido la función en el período que concluye.
 
-> <small>(REFORMADO, B.O. 13 DE MAYO DE 2010)</small>
-
-El Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoría y Fiscalización durarán en su encargo un periodo de siete años. Dichos funcionarios solo podrán ser removidos por el Congreso por las causas graves que al efecto se determinen en la ley y por la misma mayoría que cada uno requiere para su nombramiento.
+> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
 
 > <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
 
@@ -1153,7 +1147,7 @@ Instrucción Pública.
 
 Poder Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
 
 #### SECCION IV.
 
@@ -1353,9 +1347,9 @@ XXII. Hacer observaciones por una sola vez en el improrrogable término de diez 
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
-XXIV. Nombrar y remover libremente a los Secretarios y Subsecretarios, así como nombrar al Procurador General de Justicia, sometiéndolo a la ratificación del Congreso del Estado.
+XXIV. Nombrar y remover libremente a los Secretarios y Subsecretarios, cuando no opte por un gobierno de coalición. Así como nombrar al Procurador General de Justicia sometiéndolo a la ratificación del Congreso del Estado.
 
 XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
@@ -1391,7 +1385,15 @@ XXXVIII. Organizar el sistema penal sobre la base de trabajo como medio de regen
 
 XXXIX. Conceder, conforme a las Leyes, indulto necesario a los reos sentenciados por delitos de la competencia de los Tribunales del Estado.
 
-XL. Las demás que le asignen las leyes, ya sean federales o del Estado.
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+
+XL. En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría absoluta de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición
+
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2014)</small>
+
+XLI. Las demás que le asignen las leyes, ya sean Federales o del Estado.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1697,11 +1699,9 @@ Integración y Organización de los Municipios.
 
 ###### Artículo 112.
 
-El Poder Judicial se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, en Juzgados de Primera Instancia y en Juzgados Locales.
+El Poder Judicial se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, en Juzgados de Primera Instancia y en Juzgados Locales. Existirá, además, el Consejo del Poder Judicial del Estado de Sonora, como un órgano permanente de la administración de la justicia.
 
-> <small>(ADICIONADO, B.O. 22 DE FEBRERO DE 2007)</small>
-
-La administración del Poder Judicial estará a cargo del Consejo del Poder Judicial del Estado, el cual ejercerá la vigilancia y disciplina del mismo Poder, a excepción del Supremo Tribunal de Justicia, y las demás funciones que señala esta Constitución, en los términos que establezcan las leyes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
 
 > <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
@@ -1765,7 +1765,9 @@ Las licencias de los Magistrados del Supremo Tribunal de Justicia, cuando no exc
 
 La competencia del Supremo Tribunal de Justicia, su funcionamiento en Pleno, Salas o Comisiones, la competencia de los Tribunales Regionales de Circuito y la de los Juzgados de Primera Instancia y Locales, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 19 DE JUNIO DE 2014)</small>
+
+El Supremo Tribunal de Justicia, funcionando en Pleno, determinará el número, división en circuitos, jurisdicción territorial y, en su caso, especialización por materia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia.
 
 Asimismo, el Pleno elegirá de entre sus miembros, en los plazos que determine la ley, al Presidente del Supremo Tribunal de Justicia, el cual no podrá ser reelecto para el período inmediato posterior, salvo que se trate de una suplencia; en cuyo caso el suplente sí podrá ser reelecto.
 
@@ -1785,35 +1787,45 @@ Cuando algún Magistrado del Supremo Tribunal de Justicia estuviere impedido par
 
 Cuando todos los magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal de Justicia se integrará por magistrados suplentes, correspondiendo presidir los debates y ser ponente, al primero que conforme a la ley hubiere sido llamado.
 
-> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 120.
 
-El Consejo del Poder Judicial del Estado será un órgano con independencia técnica, de gestión y para emitir sus resoluciones.
+El Consejo del Poder Judicial del Estado de Sonora funcionará en Pleno y se integrará hasta por los siguientes siete Consejeros:
 
-El Consejo se integrará por cinco Consejeros Propietarios y cuatro Suplentes, de los cuales uno de los primeros será el Presidente del Supremo Tribunal de Justicia del Estado, quien también lo será del Consejo; dos Consejeros nombrados por el Pleno del Supremo Tribunal de Justicia, el primero de entre los magistrados del Supremo Tribunal de Justicia o magistrados regionales de circuito y el segundo, de entre los jueces de primera instancia, ambos con su respectivo suplente; un Consejero Propietario y su Suplente designados por el Gobernador del Estado y un Consejero Propietario y su Suplente designados por el Congreso del Estado mediante el voto de las dos terceras partes de los integrantes. El Presidente del Consejo será suplido, en casos de impedimentos y faltas temporales, por los demás Magistrados del Supremo Tribunal de Justicia en el orden progresivo de su designación numérica.
+I. El Presidente del Supremo Tribunal de Justicia del Estado, quien fungirá también como su Consejero Presidente y representante;
 
-Todos los Consejeros deberán reunir los requisitos señalados en el artículo 114 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades; en el caso de los designados por el Supremo Tribunal de Justicia, deberán gozar además con reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la designación.
+II. Un Consejero nombrado por el Pleno del Supremo Tribunal de Justicia de entre sus magistrados;
 
-Los Consejeros del Poder Judicial rendirán la protesta de ley para ejercer el cargo ante el Supremo Tribunal de Justicia.
+III. Un Consejero designado por el Gobernador del Estado;
 
-Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo, serán sustituidos de manera escalonada, y los propietarios no podrán ser nombrados para un nuevo período.
+IV. El Procurador General de Justicia del Estado;
 
-Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Sexto de esta Constitución.
+V. Un Consejero designado por el Colegio de Notarios del Estado de Sonora, de entre los integrantes del propio Colegio; y
 
-La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, profesionalismo, imparcialidad e independencia y antigüedad, en su caso, y bajo los criterios de igualdad de oportunidades, méritos y capacidad.
+VI. Dos Consejeros designados por el Congreso del Estado mediante el voto de las dos terceras partes de sus integrantes.
 
-El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción, ratificación y remoción de Magistrados de los Tribunales Regionales de Circuito y Jueces, así como de los demás asuntos que la Ley determine.
+Los consejeros a que se refieren las fracciones III y VI de este artículo deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente mínimo siete años previos a la designación, asimismo contar con un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenados por delito intencional con sanción privativa de libertad mayor de un año, y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. En el caso del Consejero designado por el Supremo Tribunal de Justicia, deberá además gozar de reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la designación.
 
-El Consejo del Poder Judicial del Estado, funcionando en Pleno, determinará el número, división en circuitos, competencia territorial y, en su caso, especialización por materia, de los Tribunales Regionales de Circuito, Juzgados de Primera Instancia y Juzgados Locales.
+En los casos de las fracciones III y VI de este precepto, no podrán ser designados consejeros quienes hayan ejercido el cargo de Magistrado del Supremo Tribunal de Justicia
 
-De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Supremo Tribunal de Justicia podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional local.
+Para entrar al ejercicio del cargo, los consejeros del Poder Judicial rendirán protesta de ley ante el Supremo Tribunal de Justicia.
 
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede recurso alguno en contra de las mismas, salvo las que se refieran a acuerdos generales, a la designación, adscripción, ratificación y remoción de Magistrados de los Tribunales Regionales y Jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, por lo que podrá confirmarlas, modificarlas o revocarlas. Para el caso de revocación se requerirá la aprobación por mayoría de cuando menos las dos terceras partes del total de los integrantes del mismo Tribunal.
+El Presidente del Consejo y el diverso Magistrado de dicho órgano conservarán su calidad de consejeros mientras se encuentren en el ejercicio de sus cargos, los demás integrantes del Consejo serán designados por un período de seis años y no podrán ser reelectos.
 
-La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
+El Consejero designado por el Gobernador del Estado podrá ser un servidor público de cualquiera de los Poderes del Estado o de los Órganos Autónomos, en cuyo caso el consejero designado tendrá el carácter de honorario, sin recibir remuneración alguna, mientras conserve el carácter de servidor público diverso al de integrante del Consejo de (sic) Poder Judicial.
 
-El Consejo elaborará los proyectos de presupuesto anual de egresos del Poder Judicial del Estado y del Fondo para la Administración de Justicia, mismos que someterá a la aprobación del Pleno del Supremo Tribunal de Justicia, el cual podrá hacer las modificaciones que estime procedentes. Una vez aprobado por el Pleno del Supremo Tribunal de Justicia el proyecto del presupuesto anual de egresos del Poder Judicial, será remitido por el Presidente del Supremo Tribunal de Justicia al Gobernador del Estado para los efectos previstos en el artículo 79, fracción VII, de esta Constitución. El presupuesto anual de egresos, en lo correspondiente al Poder Judicial del Estado, que apruebe el Congreso y el presupuesto del Fondo para la Administración de Justicia aprobado por el Pleno del Supremo Tribunal de Justicia, serán administrados por el Consejo del Poder Judicial del Estado.
+Los consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Sexto de esta Constitución.
+
+El Consejo sesionará válidamente con la asistencia de su Presidente y de, cuando menos, la mayoría de sus integrantes, según corresponda.
+
+El Presidente del Supremo Tribunal de Justicia y del Consejo elaborará los anteproyectos de presupuesto de egresos del Poder Judicial del Estado y del Fondo para la Administración de Justicia, tomando en cuenta para ello la opinión del Consejo, y en su oportunidad someterá los respectivos proyectos al Pleno del Supremo Tribunal de Justicia para su aprobación.
+
+Una vez aprobado por el Pleno del Supremo Tribunal de Justicia el proyecto del presupuesto anual de egresos del Poder Judicial del Estado, el Presidente de aquél lo remitirá al Gobernador del Estado exclusivamente para los efectos previstos en el artículo 79, fracción VII, de esta Constitución, e igualmente deberá enviar una copia del mismo al Congreso del Estado.
+
+El Consejo del Poder Judicial del Estado de Sonora resolverá sobre la designación y adscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, así como de los demás asuntos que la ley determine.
+
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede recurso alguno en contra de las mismas, salvo las que se refieran a acuerdos generales, a la designación, adscripción y ratificación de Magistrados de los Tribunales Regionales y Jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, por lo que podrá confirmarlas, modificarlas o revocarlas. Para el caso de revocación, se requerirá la aprobación por mayoría de cuando menos las dos terceras partes del total de los integrantes del mismo Pleno. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -1831,15 +1843,17 @@ Los Magistrados Regionales de Circuito y los Jueces de Primera Instancia nombrar
 
 Artículo 122 A. (DEROGADO, B.O. 11 DE NOVIEMBRE DE 1996)
 
-> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 123.
 
-Los Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial del Estado, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Locales que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en causa ajena, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los municipios, o de particulares, salvo los cargos honoríficos en instituciones educativas y en asociaciones científicas o artísticas y los (sic) cargos docentes siempre y cuando éstos últimos no interfieran con el horario normal de las labores judiciales.
+Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Locales que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en causa ajena, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas, siempre y cuando estos últimos no interfieran con el horario normal de las labores judiciales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 124.
 
-(DEROGADO, B.O. 22 DE FEBRERO DE 2007)
+La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, profesionalismo, imparcialidad e independencia y antigüedad, en su caso, y bajo los criterios de igualdad de oportunidades, méritos y capacidad.
 
 > <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -1853,13 +1867,13 @@ Para ser Magistrado Regional de Circuito deberán reunirse los mismos requisitos
 
 Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 127.
 
-Para ser Juez Local se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año y tener la competencia necesaria para el desempeño del cargo.
+Para ser Juez Local se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año y tener la competencia necesaria para el desempeño del cargo, a juicio del Supremo Tribunal de Justicia del Estado.
 
-Los Jueces Locales serán nombrados cada dos años por el Consejo del Poder Judicial del Estado.
+Los Jueces Locales serán nombrados cada dos años por el Supremo Tribunal de Justicia del Estado.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1893,11 +1907,11 @@ Los Ayuntamientos serán órganos colegiados deliberantes, integrados por un Pre
 
 Todos los Regidores Propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 131.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente, por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos propietarios para el período inmediato, a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para un periodo adicional, en términos de lo dispuesto en el artículo 133 de esta Constitución, sin que la suma de dichos periodos exceda de 6 años. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electos para un período adicional, en los términos del presente artículo. En los casos de los integrantes del ayuntamiento que hayan accedido a tal cargo mediante una candidatura independiente, solo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición. Tomarán posesión el día 16 de septiembre del año de su elección.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1911,7 +1925,9 @@ I. Ser ciudadano sonorense en pleno ejercicio de sus derechos.
 
 II. Ser vecino del Municipio correspondiente, con residencia efectiva dentro del mismo, cuando menos de dos años si es nativo del Estado, o de cinco años si no lo es.
 
-III. No desempeñar ningún cargo público en el Municipio donde se hace la elección, ya dependa aquél del Estado o de la Federación; no estar en servicio activo en el Ejército, ni tener mando de fuerzas en el mismo Municipio, a menos que, quién esté comprendido en tales casos, se separe definitivamente de su empleo o cargo noventa días antes de la elección.
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+
+III. No estar en servicio activo en el Ejército, ni tener mando de fuerzas en el mismo Municipio, a menos que, quien esté comprendido en tales casos, se separe definitivamente de su empleo o cargo, noventa días antes de la elección;
 
 IV. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
@@ -1923,11 +1939,11 @@ V. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
 VI. No haber sido magistrado o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
 
 ###### Artículo 133.
 
-El Presidente Municipal y demás miembros del Ayuntamiento durarán en sus cargos tres años, y tomarán posesión el día 16 de septiembre del año de su elección.
+El Presidente Municipal y demás miembros del Ayuntamiento durarán en sus cargos tres años. Podrán ser electos para el mismo cargo por un periodo adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Tomarán posesión el día 16 de septiembre del año de su elección.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -2201,11 +2217,11 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
 
-###### ARTÍCULO 143.
+###### Artículo 143.
 
-Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal o municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral y los del Instituto de Transparencia Informativa del Estado de Sonora.
+Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal o municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Instituto Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral y los del Instituto de Transparencia Informativa del Estado de Sonora.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2219,9 +2235,9 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
-Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Consejo Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los vocales del Instituto de Transparencia Informativa del Estado de Sonora, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
+Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Instituto Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los vocales del Instituto de Transparencia Informativa del Estado de Sonora, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -2325,15 +2341,15 @@ Cuando las licitaciones a que hace referencia el párrafo anterior no sean idón
 
 El manejo de recursos económicos estatales se sujetará a las bases de esta Constitución.
 
-> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
-Artículo 150 A. En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señala la Ley.
+###### Artículo 150-A.
 
-(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
+En el Estado, las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señalan esta Constitución y las leyes aplicables.
 
-En los procesos electorales distritales y municipales que se rigen por el principio de mayoría relativa, los partidos políticos promoverán, en términos de equidad, que se postule una proporción paritaria de candidatos de ambos géneros, lo que será aplicable para candidatos propietarios y suplentes. Se exceptúa de lo anterior el caso de que las candidaturas de mayoría relativa sean resultado de un proceso de elección interna de democracia directa.
+Los partidos políticos que participen en los procesos electorales locales para integración del Congreso del Estado, deberán garantizar la paridad entre los géneros en la totalidad de sus candidaturas, debiendo sus fórmulas estar compuestas por candidatos del mismo género.
 
-(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
+En los procesos electorales municipales que se rigen por el principio de mayoría relativa, los partidos políticos promoverán, en términos de equidad, que se postule una proporción paritaria de candidatos de ambos géneros. Se exceptúa de lo anterior, el caso de que las candidaturas de mayoría relativa sean resultado de un proceso de elección interna de democracia directa. Las planillas deberán integrarse por candidatos propietarios y suplentes del mismo género.
 
 Las listas de representación proporcional a cargos de elección popular a nivel estatal y municipal de propietarios y suplentes, se conformarán y asignarán en fórmulas y planillas, bajo el principio de alternancia de ambos géneros, hasta agotar el derecho de cada partido político.
 
@@ -3316,6 +3332,42 @@ B.O. 20 DE FEBRERO DE 2014.
 La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo de que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado Libre y Soberano de Sonora en su artículo 163.
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+B.O. 19 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado de Sonora en su artículo 163.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan la ley número 164, aprobada el día 4 de octubre de 2011 y la Ley número 85, aprobada con fecha 27 de junio de 2013, por virtud de que sus disposiciones se recogen en el contenido de la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+Las elecciones locales que habrán de verificarse en los años 2015 y 2018 deberán realizarse en forma concurrente con la fecha de la Jornada Comicial de los procesos federales.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador del Estado, el Colegio de Notarios del Estado de Sonora y el Congreso del Estado, deberán efectuar las designaciones de consejeros que les corresponden, dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+Si una o más de las designaciones referidas en el párrafo inmediato anterior no se hacen en el término previsto, el Consejo podrá funcionar, sin perjuicio de que, una vez hecha o hechas las designaciones faltantes, los respectivos consejeros se incorporen a aquél.
+
+El Magistrado que, previo a la entrada en vigor de la presente Ley, hubiera sido designado por el Supremo Tribunal de Justicia para formar parte del Consejo del Poder Judicial constituido conforme a las Leyes 179 y 181 publicadas los días 11 de noviembre y 12 de diciembre de 1996, respectivamente, del Boletín Oficial del Gobierno del Estado, deberá integrarse al nuevo Consejo del Poder Judicial a que se refiere la presente Ley, como Consejero nombrado por el Supremo Tribunal de Justicia.
+
+###### ARTÍCULO QUINTO.
+
+La sesión de instalación del Consejo del Poder Judicial deberá celebrarse dentro del plazo comprendido entre los treinta y los cuarenta y cinco días hábiles contados a partir de la entrada en vigor de la presente Ley, previa convocatoria que para tal efecto emita su Presidente.
+
+###### ARTICULO SEXTO.
+
+La reforma al artículo 30 de esta Constitución, en materia de reelección, será aplicable a los diputados que sean electos a partir del proceso electoral que culmine en el año 2018.
+
+###### ARTÍCULO SÉPTIMO.
+
+La reforma al artículo 131 de esta Constitución, en materia de reelección, será aplicable a los integrantes de los ayuntamientos que sean electos a partir del proceso electoral que culmine en el año 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
