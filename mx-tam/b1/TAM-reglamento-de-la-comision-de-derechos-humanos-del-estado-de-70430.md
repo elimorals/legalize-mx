@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-la-comision-de-derechos-humanos-del-estado-de-704
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-29"
-last_updated: "2009-09-29"
+last_updated: "2014-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # REGLAMENTO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-REGLAMENTO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
+REGLAMENTO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el martes 29 de septiembre de 2009.
 
@@ -49,23 +49,43 @@ El presente ordenamiento tiene por objeto reglamentar la Ley de la Comisión de 
 
 Para los fines de este Reglamento se entenderá por:
 
-I. Comisión u Organismo: A la Comisión de Derechos Humanos del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-II. Ley: A la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas; y
+I. Comisión u Organismo: La Comisión de Derechos Humanos del Estado de Tamaulipas;
 
-III. Reglamento: Al Reglamento Interno de la Comisión de Derechos Humanos del Estado de Tamaulipas.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+II. Ley: La Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+III. Reglamento: El Reglamento Interno de la Comisión de Derechos Humanos del Estado de Tamaulipas.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+IV. Presidente: El o la titular de la Comisión de Derechos Humanos del Estado de Tamaulipas; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+V. Consejo: El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 3.
 
-En los términos de los artículos 126 de la Constitución Política del Estado, 2 y 3 de la Ley, la Comisión de Derechos Humanos del Estado de Tamaulipas es un organismo público autónomo e independiente, con personalidad jurídica y patrimonio propios, que tiene por objeto esencial la protección, observancia, promoción, estudio y difusión de los derechos humanos previstos en el orden jurídico mexicano. La Comisión es también un órgano de la sociedad y defensor de ésta. Para el cumplimiento de su función, contará con los órganos y estructura administrativa que establece su Ley y este Reglamento.
+En los términos de los artículos 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos, 126 de la Constitución Política del Estado, 2 y 3 de la Ley, la Comisión de Derechos Humanos del Estado de Tamaulipas es un organismo público que cuenta con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, que tiene por objeto esencial la protección, observancia, promoción, estudio y difusión de los derechos humanos previstos en el orden jurídico mexicano. La Comisión es también un órgano de la sociedad y de defensor de ésta. Para el cumplimiento de su función, contará con los órganos y estructura administrativa que establece su Ley y este Reglamento.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 4.
 
-La Comisión, como organismo autónomo e independiente, no queda comprendido en el concepto de entidad paraestatal establecido en los artículos 1, fracción III y 37 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; en consecuencia, este ordenamiento no le es aplicable a la Comisión.
+La Comisión, como organismo autónomo, no queda comprendido en el concepto de entidad paraestatal establecido en los artículos 1.3 y 38 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; en consecuencia, este ordenamiento no le es aplicable a la Comisión.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 5.
 
-La Comisión, en razón de su independencia, no recibirá instrucciones o indicaciones de autoridad o servidor público alguno. Sus resoluciones, informes y demás actuaciones estarán basadas en las evidencias obtenidas en el desempeño de sus funciones o que consten de manera fehaciente en los expedientes respectivos.
+La Comisión, en razón de su autonomía, no recibirá instrucciones o indicaciones de autoridad o servidor público alguno. Sus resoluciones, informes y demás actuaciones estarán basadas en las evidencias obtenidas en el desempeño de sus funciones o que consten de manera fehaciente en los expedientes respectivos.
 
 ###### ARTICULO 6.
 
@@ -79,17 +99,31 @@ Para el desarrollo de las funciones de la Comisión, se entiende que los Derecho
 
 De acuerdo con los principios que rigen su funcionamiento, la Comisión aplicará las siguientes reglas generales:
 
-I. Los procedimientos serán breves y sencillos, evitándose, en lo posible, formalismos o actuaciones innecesarias para la solución del caso;
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-II. Las actuaciones que realice el personal del Organismo, así como la información y documentación proporcionada por los servidores públicos y los quejosos, se manejará en forma reservada, sin perjuicio de las consideraciones que en los casos concretos se formulen en las resoluciones o informes;
+I. En todas las acciones de defensa y promoción de los derechos humanos se observarán los principios de interpretación conforme, pro persona, universalidad, interdependencia, indivisibilidad y progresividad;
 
-III. La Comisión no estará obligada a entregar constancias, pruebas o actuaciones que obren en los expedientes, a persona o autoridad alguna; de la misma manera, su personal no podrá ser obligado a rendir testimonio cuando esta prueba haya sido ofrecida en cualquier procedimiento jurisdiccional o administrativo, y se encuentre relacionada con su intervención en el trámite de quejas;
+II. Los procedimientos serán breves y sencillos, evitándose, en lo posible, formalismos o actuaciones innecesarias para la solución del caso;
 
-IV. Todas las actuaciones de la Comisión serán gratuitas, lo cual será informado explícitamente a quienes soliciten su intervención;
+III. Las actuaciones que realice el personal del Organismo, así como la información y documentación proporcionada por los servidores públicos y los quejosos, se manejará en forma reservada, sin perjuicio de las consideraciones que en los casos concretos se formulen en las resoluciones o informes;
 
-V. El personal de la Comisión deberá prestar sus servicios y ajustar su conducta a los principios y objetivos del Organismo. En consecuencia, procurará la protección de los derechos humanos de la población en toda circunstancia, participar en las acciones de promoción de los derechos humanos y comunicar a los superiores jerárquicos las iniciativas que contribuyan a la mejor realización de las finalidades de la institución; y
+IV. La Comisión no estará obligada a entregar constancias, pruebas o actuaciones que obren en los expedientes, a persona o autoridad alguna; de la misma manera, su personal no podrá ser obligado a rendir testimonio cuando esta prueba haya sido ofrecida en cualquier procedimiento jurisdiccional o administrativo, y se encuentre relacionada con su intervención en el trámite de quejas;
 
-VI. La Comisión contara con un órgano oficial de difusión que se denominará "Boletín de la Comisión de Derechos Humanos del Estado de Tamaulipas". Su periodicidad será cuatrimestral y en él se publicarán, íntegramente o en forma sintetizada, las recomendaciones; igualmente, se podrán publicar otras resoluciones trascendentes, así como informes especiales, estudios y demás materiales que se consideren importantes para su divulgación. Asimismo, se editará una revista denominada "El Defensor Tamaulipeco", cuya periodicidad será trimestral y su objetivo primordial será informar a la sociedad sobre los derechos humanos. Para tal fin se privilegiarán contenidos de fácil comprensión. El Presidente del Organismo podrá ordenar la publicación de ediciones extraordinarias de los medios de difusión antes señalados cuando la cantidad de material así lo amerite.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+V. Todas las actuaciones de la Comisión serán gratuitas, lo cual será informado explícitamente desde el primer momento a quienes soliciten su intervención;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+VI. El personal de la Comisión deberá prestar sus servicios y ajustar su conducta a los principios y objetivos del Organismo. En consecuencia, procurará la protección de los derechos humanos de la población en toda circunstancia, participar en las acciones de promoción de los derechos humanos y comunicar a los superiores jerárquicos las iniciativas que contribuyan a la mejor realización de las finalidades de la institución; el Consejo Consultivo aprobará el código de ética de los servidores públicos del Organismo; y (sic)
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+VII. La Comisión contará con un órgano oficial de difusión que se denominará “Boletín de la Comisión de Derechos Humanos del Estado de Tamaulipas”, su periodicidad será cuatrimestral y en él se publicarán, íntegramente o en forma sintetizada, las recomendaciones; igualmente, se podrán publicar otras resoluciones trascendentes, así como informes especiales, estudios, artículos científicos y demás materiales que se consideren importantes para su divulgación. Asimismo, se editará una revista denominada “El Defensor Tamaulipeco”, cuya periodicidad será trimestral y su objetivo primordial será informar a la sociedad sobre las actividades realizadas por el Organismo en materia de la defensa y promoción de los derechos humanos; para tal fin se privilegiarán contenidos de fácil comprensión. El Presidente del Organismo podrá ordenar la publicación de ediciones extraordinarias de los medios de difusión antes señalados. Para los efectos de la publicidad de sus actuaciones y resoluciones, la Comisión contará también con una página de internet.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+VIII. En los términos de lo dispuesto por los artículos 8 fracción IX y 22 fracción XI de la Ley, el titular de la Presidencia elaborará y propondrá al Consejo Consultivo un programa anual de seguimiento a las leyes, o normas generales que guarden relación con los derechos humanos, con el fin de facilitar el ejercicio de sus facultades de defensa de la constitucionalidad y convencionalidad en esa materia.
 
 ###### ARTICULO 9.
 
@@ -111,13 +145,17 @@ Para los efectos de lo dispuesto por los artículos 3 y 8 de la Ley, la Comisió
 
 Para los efectos de la Ley y este Reglamento se entiende por:
 
-I. Servidor Público, a toda persona que desempeñe una función, empleo, cargo o comisión al servicio del Estado (Federación-Estado-Municipio);
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-II. Actos u omisiones formalmente administrativos, todos aquellos provenientes de una autoridad o servidor público de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+I. Autoridad, la que con independencia de su naturaleza formal, dicta, ordena, ejecuta o trata de ejecutar el acto que violenta derechos humanos en forma unilateral y obligatoria; u omita el acto que de realizarse implicaría el deber de respeto a los derechos humanos; los particulares tendrán la calidad de autoridad cuando realicen actos equivalentes a los de autoridad que afecten derechos y cuyas funciones estén determinadas por una norma general;
 
-III. Actos u omisiones materialmente administrativos, todos aquellos que intrínsecamente no sean legislativos o jurisdiccionales, independientemente de la autoridad o servidor público que provengan; y
+II. Servidor Público, a toda persona que desempeñe una función, empleo, cargo o comisión al servicio del Estado (Federación-Estado-Municipio);
 
-IV. Ilícito, toda conducta de acción u omisión contraria a una norma jurídica.
+III. Actos u omisiones formalmente administrativos, todos aquellos provenientes de una autoridad o servidor público de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+
+IV. Actos u omisiones materialmente administrativos, todos aquellos que intrínsecamente no sean legislativos o jurisdiccionales, independientemente de la autoridad o servidor público que provengan; y
+
+V. Ilícito, toda conducta de acción u omisión contraria a una norma jurídica.
 
 ###### ARTICULO 13.
 
@@ -127,7 +165,7 @@ I. Actos y resoluciones de organismos y autoridades electorales;
 
 II. Resoluciones de naturaleza jurisdiccional;
 
-III. Conflictos de carácter laboral;
+III. (DEROGADA, P.O. 19 DE JUNIO DE 2014)
 
 IV. Actos u omisiones provenientes de autoridades o servidores públicos de la Federación;
 
@@ -137,19 +175,27 @@ VI. Conflictos entre particulares.
 
 El estudio de las causales de improcedencia será de orden preferente sin perjuicio de la competencia extraordinaria otorgada a este Organismo por la Ley para Prevenir y Erradicar la Discriminación en el Estado.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2014)</small>
+
+En el estudio de la causal de improcedencia prevista por la fracción V del presente artículo, se tendrán en cuenta la naturaleza del procedimiento de queja como garantía de los derechos humanos, el principio de interpretación conforme y el principio pro persona.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2014)</small>
+
+Se considerarán como conflictos entre particulares aquellos que se deriven estrictamente de la relación laboral entre uno o varios patrones y uno o más trabajadores o uno o más sindicatos; entre sindicatos y/o trabajadores, incluso cuando el patrón sea una autoridad o dependencia estatal o municipal.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 14.
 
-Para los efectos de la Ley y este Reglamento se entiende por:
-
-I. Resoluciones de carácter jurisdiccional, las sentencias, laudos y resoluciones definitivas que concluyan una instancia; las sentencias interlocutorias que decidan un incidente procesal y los autos, decretos o acuerdos para cuya expedición se haya realizado una valoración y determinación legal por el órgano jurisdiccional competente. Todos los demás actos u omisiones procedimentales serán considerados con el carácter de administrativos; y
-
-II. Conflictos laborales, aquellos que deriven de la relación laboral existente entre patrón y trabajadores, incluyendo los que formen parte del ente gubernamental, estatal o municipal.
+Para los efectos de la Ley y este Reglamento se entiende por resoluciones de carácter jurisdiccional, las sentencias, laudos y resoluciones definitivas que concluyan una instancia; las sentencias interlocutorias que decidan un incidente procesal y los autos, decretos o acuerdos para cuya expedición se haya realizado una valoración y determinación legal por el órgano jurisdiccional competente. Todos los demás actos u omisiones procedimentales serán considerados con el carácter de administrativos.
 
 ### CAPITULO II. ORGANOS Y ESTRUCTURA DE LA COMISION
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 15.
 
-La Comisión se integrará con un Presidente, Secretario Técnico, Subsecretario Técnico, hasta 3 Visitadores Generales, una Contraloría Interna, así como del número de Delegados Regionales y Especiales, Directores, Coordinadores, Jefes de Area, Visitadores Adjuntos, Auxiliares y demás personal técnico y administrativo necesario para el cumplimiento de sus funciones que determine el Presidente.
+La Comisión se integrará con el titular de la Presidencia, un Consejo Consultivo, un Secretario Técnico, un Subsecretario Técnico, tres Visitadores Generales, una Contraloría Interna, así como del número de Delegados Regionales y Especiales, Directores, Coordinadores, Jefes de Área, Visitadores Adjuntos, Auxiliares y demás personal técnico y administrativo necesario para el cumplimiento de sus funciones que determine el Presidente.
 
 ###### ARTICULO 16.
 
@@ -157,7 +203,9 @@ Los órganos de la Comisión son los siguientes:
 
 I. La Presidencia;
 
-II. El Consejo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+II. El Consejo Consultivo;
 
 III. La Secretaría Técnica;
 
@@ -189,19 +237,27 @@ De cada una de las sesiones del Consejo se levantará una acta que contendrá un
 
 ### CAPITULO IV. DE LA PRESIDENCIA
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 22.
 
-La Presidencia es el órgano ejecutivo de la Comisión. Está a cargo de un Presidente, a quién corresponde realizar, en los términos establecidos en la Ley y este Reglamento, las funciones directivas del Organismos, del cual es su representante legal.
+La Presidencia es el órgano ejecutivo de la Comisión. Está a cargo de un Presidente, a quien corresponde realizar, en los términos establecidos en la Ley y este Reglamento, las funciones directivas del Organismo, del cual es su representante legal, contando con las atribuciones de apoderado general para actos de administración y pleitos y cobranzas, con todas las facultades generales y las especiales que requieran de cláusula especial conforme a la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 23.
 
-El Presidente ejercerá directamente o por conducto de los funcionarios de la Comisión, las atribuciones siguientes:
+La Presidencia ejercerá directamente o por conducto de los funcionarios de la Comisión autorizados expresamente, las atribuciones siguientes:
 
-I. En su carácter de Representante Legal, podrá otorgar poderes para pleitos y cobranzas, representación legal y actos de administración;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+I. En su carácter de representante legal, podrá otorgar poderes para pleitos y cobranzas, representación legal y actos de administración; en materia de servicios bancarios, el titular de la Presidencia tendrá la facultad de abrir y cancelar cuentas de cheques pudiendo delegar las facultades a terceros para que puedan firmar en las mismas.
 
 II. Establecer, ejecutar y vigilar las aplicaciones de los lineamientos y programas generales de la Comisión, así como las normativas internas, manuales y los procedimientos administrativos necesarios para su buen funcionamiento;
 
-III. Designar, dirigir, coordinar al personal de la Comisión, así como reasignar, reubicar, comisionar y removerlo si así lo estima conveniente. El Presidente, firmará los nombramientos del Secretario Técnico, Subsecretario Técnico, Visitadores, Delegados Especiales y Regionales, Directores, Coordinadores y demás personal de la Comisión;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+III. Designar, dirigir y coordinar al personal de la Comisión, así como reasignar, reubicar, comisionar y removerlo si así lo estima conveniente. El o la titular de la Presidencia, firmará los nombramientos del Secretario Técnico, el Subsecretario Técnico, los Visitadores Generales, visitadores especiales y adjuntos, Delegados Especiales y Regionales, Directores, Coordinadores y demás personal de la Comisión;
 
 IV. Designar y remover al encargado del despacho, en caso de ausencia temporal de los titulares de la Contraloría Interna, Visitadurías, Delegaciones, Direcciones, Coordinaciones y unidades o áreas de apoyo;
 
@@ -215,9 +271,15 @@ VIII. Celebrar convenios, directamente o por delegación de facultades, a travé
 
 IX. Las demás que le confiere la Ley y el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 24.
 
-Durante las ausencias temporales del Presidente de la Comisión sus funciones serán cubiertas por el funcionario que corresponde en el siguiente orden: Secretario Técnico y en ausencia de éste, por el Subsecretario Técnico o el Primer Visitador General.
+Durante las ausencias temporales o definitivas del o la titular de la Presidencia de la Comisión sus funciones serán sustituidas interinamente por el Secretario Técnico, debiéndolo comunicar inmediatamente al Congreso del Estado.
+
+En el supuesto de que se trate de la conclusión del periodo para el que fue electo el Presidente, el Secretario Técnico deberá comunicarlo al Congreso del Estado a más tardar 60 días antes de la fecha en que concluye a fin de que se instruya el procedimiento de designación correspondiente.
+
+En ausencia del Secretario Técnico las funciones de la Presidencia serán cubiertas por el Primer Visitador General.
 
 ###### ARTICULO 25.
 
@@ -225,27 +287,37 @@ La Presidencia contará con una Secretaría Particular para el trámite y contro
 
 ### CAPITULO V. DE LA SECRETARIA TECNICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 26.
 
-El Secretario Técnico tendrá las atribuciones que le confieren los artículos 15 y 24 de la Ley, y las que le delegue el Presidente.
+El Secretario Técnico tendrá las atribuciones que le confieren los artículos 15, 21 y 24 de la Ley, y las que le delegue el Presidente.
 
 Asimismo será responsable del cumplimiento de las actuaciones previstas en los artículos 18 y 21 de este Reglamento. Un Subsecretario Técnico coadyuvará en las funciones señaladas en los párrafos precedentes y suplirá las ausencias del Secretario Técnico.
 
 ### CAPITULO VI. DE LAS VISITADURIAS GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 27.
 
-Los Visitadores Generales tendrán las atribuciones que les confiere el artículo 25 de la Ley y las que le delegue el Presidente. La Comisión tendrá hasta tres Visitadores Generales, los Delegados Especiales y Regionales, Visitadores adjuntos o especiales que designe el Presidente.
+Los Visitadores Generales tendrán las atribuciones que les confiere el artículo 25 de la Ley y las que le delegue quién ejerza la titularidad de la Presidencia. La Comisión tendrá tres Visitadores Generales, los Delegados Especiales y Regionales, Visitadores adjuntos o especiales que designe el Presidente.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 28.
 
-La asignación y distribución de funciones de las Visitadurías Generales se hará conforme a los lineamientos generales que acuerde el Consejo. Los titulares de las Delegaciones Especiales y Regionales coadyuvarán en el cumplimiento de las atribuciones y obligaciones conferidas a los Visitadores Generales en el artículo 25 de la Ley con plenas facultades para tramitar todo lo relacionado con la integración de los procedimientos de queja que se radiquen en su área de influencia. Además, contarán con las atribuciones y obligaciones que les sean señaladas por el Presidente de la Comisión.
+La asignación y distribución de funciones de las Visitadurías Generales se hará conforme a los lineamientos generales que acuerde el Consejo Consultivo. Los titulares de las Delegaciones Especiales y Regionales coadyuvarán en el cumplimiento de las atribuciones y obligaciones conferidas a los Visitadores Generales en el artículo 25 de la Ley con plenas facultades para tramitar todo lo relacionado con la integración de los procedimientos de queja que se radiquen en su área de influencia. Además, contarán con las atribuciones y obligaciones que les sean señaladas por el o la titular de la Presidencia de la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 29.
 
-Tendrán el carácter de Visitadores Adjuntos o Especiales los miembros del personal profesional que laboren en la Secretaría Técnica, las Visitadurías Generales, Delegaciones Regionales y Especiales, Direcciones, Coordinaciones y Unidades o Areas de apoyo, encargados de la integración de los expedientes de queja y de su consecuente investigación y dictamen, incluidos los peritos en medicina, medicina forense, criminología, psicología, criminalística y en otras disciplinas que resulten necesarias para el trabajo de la Comisión. Tal carácter dependerá de la designación expresa del Presidente o del Secretario Técnico. En esos términos se podrán nombrar como Visitadores Especiales al personal técnico y/o administrativo al que por necesidades del servicio le sean encomendadas determinadas actividades inherentes a las funciones propias de la Institución.
+Tendrán el carácter de Visitadores Adjuntos o Especiales los miembros del personal profesional que laboren en la Secretaría Técnica, las Visitadurías Generales, Delegaciones Regionales y Especiales, Direcciones, Coordinaciones y Unidades o Áreas de apoyo, encargados de la integración de los expedientes de queja y de su consecuente investigación y dictamen, incluidos los peritos en medicina, medicina forense, criminología, psicología, criminalística y en otras disciplinas que resulten necesarias para el trabajo de la Comisión. Tal carácter dependerá de la designación expresa del titular de la Presidencia o de la Secretaría Técnica. En esos términos se podrán nombrar como Visitadores Especiales al personal técnico y/o administrativo al que por necesidades del servicio le sean encomendadas determinadas actividades inherentes a las funciones propias de la Institución.
 
-La ausencia temporal del titular de las Visitadurías, Delegaciones, Direcciones, Coordinación y Unidad o áreas de apoyo, será cubierta por el funcionario que designe el Presidente.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
+La ausencia temporal del titular de las Visitadurías, Delegaciones, Direcciones, Coordinación y Unidad o áreas de apoyo, será cubierta por el funcionario que designe la Presidencia.
 
 Los Visitadores Adjuntos o Especiales, apoyarán al titular del área a la cual se encuentren adscritos, actuarán bajo su estricta supervisión y tendrán las funciones siguientes:
 
@@ -265,7 +337,9 @@ VII. Realizar los proyectos de resolución inherentes a la conclusión de un exp
 
 VIII. Realizar, por instrucciones de su superior inmediato, inspecciones a las oficinas administrativas, centros de reclusión o internamiento, de ejecución de sanciones, de procuración o impartición de justicia, inclusive sin necesidad que medie queja alguna; y
 
-IX. Las demás que les confiera la Ley y el Reglamento, el Presidente y su superior jerárquico inmediato de acuerdo con los ordenamientos internos.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+IX. Las demás que les confiera la Ley y el Reglamento, el o la titular de la Presidencia y su superior jerárquico inmediato de acuerdo con los ordenamientos internos.
 
 ### CAPITULO VII. DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -295,7 +369,9 @@ X. Coordinación de Seguimiento de Recomendaciones;
 
 XI. Coordinación de Informática; y
 
-XII. Las demás que sean creadas por acuerdo del Presidente de la Comisión.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+XII. Las demás que sean creadas por acuerdo de la Presidencia de la Comisión.
 
 ###### ARTICULO 31.
 
@@ -317,11 +393,15 @@ VII. Asistir a los actos de entrega-recepción de los servidores públicos de la
 
 VIII. Recibir, investigar y resolver las quejas y denuncias que se presenten en contra de servidores públicos de la Comisión y aplicar las sanciones que procedan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas; y
 
-IX. Los demás que le sean conferidas en otros ordenamientos y por el Presidente de la Comisión.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+IX. Los (sic) demás que le sean conferidas en otros ordenamientos y por el o la titular de la Presidencia de la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 32.
 
-La Dirección General de Administración dependerá del Presidente de la Comisión y tendrá las siguientes funciones que en todo caso desarrollará previo acuerdo del Presidente:
+La Dirección General de Administración dependerá de la Presidencia de la Comisión y tendrá las siguientes funciones que en todo caso desarrollará previo acuerdo con el o la titular de la Presidencia:
 
 I. Elaborar, con la aprobación del Presidente de la Comisión, las políticas, normas, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales del Organismo;
 
@@ -331,15 +411,21 @@ III. Formular los proyectos de presupuestos de la Comisión y una vez aprobados,
 
 IV. Planear, programar y presupuestar las actividades del personal administrativo del Organismo;
 
-V. Autorizar las adquisiciones de acuerdo con los preceptos legales y los lineamientos que fijen el Presidente o el Consejo de la Comisión;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+V. Autorizar las adquisiciones de acuerdo con los preceptos legales y los lineamientos que fijen el o la titular de la Presidencia o el Consejo Consultivo de la Comisión;
 
 VI. Custodiar, conservar, registrar y controlar los bienes muebles e inmuebles de la Comisión;
 
-VII. Rendir al Presidente de la Comisión los informes sobre la aplicación de los recursos económicos y financieros cuando los requiera el Presidente o cuando los solicite;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+VII. Rendir al titular de la Presidencia de la Comisión los informes sobre la aplicación de los recursos económicos y financieros cuando así los requiera o solicite;
 
 VIII. Elaborar la cuenta pública que, en su caso, se presentará a las distintas autoridades competentes que así lo requieran; y
 
-IX. Las demás que le sean conferidas por el Presidente del Organismo.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+IX. Las demás que le sean conferidas por el o la titular de la Presidencia del Organismo.
 
 ###### ARTICULO 33.
 
@@ -373,9 +459,11 @@ XIII. Administrar adecuadamente los recursos con que cuente la Delegación y sup
 
 XIV. Las demás que le sean encomendadas por la Presidencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 34.
 
-La Dirección de Atención a Grupos Vulnerables dependerá del Presidente de la Comisión y tendrá las siguientes funciones:
+La Dirección de Atención a Grupos Vulnerables dependerá de la Presidencia de la Comisión y tendrá las siguientes funciones:
 
 I. Preparar, promover y aplicar programas y acciones de prevención y solución de los problemas relacionados con los derechos humanos de los grupos vulnerables, así como participar en los foros que se organicen sobre el tema;
 
@@ -383,11 +471,15 @@ II. Auxiliar a la Secretaría Técnica en la elaboración, ejecución y coordina
 
 III. Auxiliar a las Visitadurías Generales y Delegaciones Regionales en la atención, investigación y dictamen de las quejas relacionadas con presuntas violaciones a los derechos humanos de los grupos vulnerables; y
 
-IV. Las demás que le asigne el Presidente de la Comisión.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+IV. Las demás que le asigne el o la titular de la Presidencia de la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 35.
 
-La Dirección de Divulgación, Capacitación y Vinculación, dependerá del Presidente de la Comisión y tendrá las siguientes funciones:
+La Dirección de Divulgación, Capacitación y Vinculación, dependerá de la Presidencia de la Comisión y tendrá las siguientes funciones:
 
 I. Programar, elaborar, seleccionar y distribuir material relacionado con las actividades editoriales de la Comisión;
 
@@ -421,9 +513,11 @@ VI. Las demás que le sean asignadas.
 
 La Coordinación de Procedimientos dependerá del Visitador General, a quien auxiliará en la recepción, distribución y control de quejas, informes y documentos, así como en las demás actividades que se requieran para la integración, tramitación y resolución de los expedientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 38.
 
-La Coordinación de Asuntos Educativos, dependerá del Secretario Técnico de la Comisión, y tendrá las siguientes funciones:
+La Coordinación de Asuntos Educativos, dependerá de la Tercera Visitaduría General y tendrá las siguientes funciones:
 
 I. Recepción y atención de quejas en contra de autoridades y servidores públicos del sistema educativo;
 
@@ -433,7 +527,7 @@ III. Privilegiar la solución conciliatoria en los asuntos cuya naturaleza del a
 
 IV. En el cumplimiento de su encomienda, podrá hacer uso de los medios de comunicación a su alcance para intervenir ante las autoridades educativas que se requiera;
 
-V. Informar al Presidente del Organismo de los hechos que tuviera conocimiento de presuntas violaciones a los derechos humanos de los educando, procediendo en su caso a conocer de oficio de los mismos;
+V. (DEROGADA, P.O. 19 DE JUNIO DE 2014)
 
 VI. Estrechar vínculos de coordinación con las instancias de asistencia social, a fin de gestionar se proporcione a menores y adolescentes atención profesional respecto a necesidades académicas, de conducta y orientación, para un mejor y sano desarrollo;
 
@@ -441,11 +535,15 @@ VII. Coordinarse con las Delegaciones Regionales, a fin de gestionar ante la Sec
 
 VIII. Llevar un control estadístico de los expedientes de queja radicados en las Delegaciones Regionales, relacionados con asuntos educativos, así como de las intervenciones realizadas que no ameritan un procedimiento formal de queja; y
 
-IX. Demás que le sean designadas por el Presidente del Organismo.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+IX. Las demás que le sean designadas por la Presidencia del Organismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 39.
 
-La Coordinación de Asuntos Penitenciarios, dependerá del Presidente de la Comisión, y tendrá a su cargo:
+La Coordinación de Asuntos Penitenciarios, dependerá de la Primera Visitaduría General, y tendrá a su cargo:
 
 I. Elaborar el programa de atención penitenciaria, con el fin de realizar periódicamente visitas a las diferentes instalaciones que forman el sistema de ejecución de sanciones y su equivalente en los municipios;
 
@@ -455,7 +553,9 @@ III. Coordinar con al área respectiva las visitas de los centros de reclusión 
 
 IV. Promover la práctica por parte de las autoridades estatales y municipales, de los principios para la protección de todas las personas sometidas a cualquier forma de detención o prisión, y los principios básicos para el tratamiento de los reclusos adoptados por el Sistema Jurídico Mexicano;
 
-V. Presentar ante el Presidente de la Comisión, los estudios y propuestas tendientes al mejoramiento del sistema de ejecución de sanciones y el sistema legal que los rige; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+V. Elaborar los estudios y propuestas tendientes al mejoramiento del sistema de ejecución de sanciones y el sistema legal que los rige; y
 
 VI. Supervisar el respeto de los derechos humanos de los internos en los centros de internamiento y de ejecución de sanciones del Estado, sin necesidad de que medie queja alguna.
 
@@ -487,9 +587,11 @@ IX. Sistematizar la información que sea recibida o se genere dentro de la Comis
 
 X. Proporcionar a la Presidencia información basada en estadísticas para su evaluación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 42.
 
-El Presidente podrá crear Delegaciones, Oficinas y Unidades de Apoyo, de acuerdo a las necesidades operativas y la capacidad presupuestal. El trabajo que se realice, se sujetará a lo dispuesto por la Ley y el Reglamento Interno.
+El o la titular de la Presidencia podrá crear Delegaciones, Oficinas y Unidades de Apoyo, de acuerdo a las necesidades operativas y la capacidad presupuestal. El trabajo que se realice, se sujetará a lo dispuesto por la Ley y el Reglamento Interno.
 
 Las Delegaciones podrán contar con un Delegado, Visitadores Adjuntos y Auxiliares, así como el personal administrativo y técnico que se requiera para el desempeño de sus funciones. Será responsabilidad del titular el buen funcionamiento de la Delegación.
 
@@ -587,17 +689,21 @@ En cualquier etapa del procedimiento los funcionarios de la Comisión deberán d
 
 La Comisión podrá formular denuncias ante las autoridades competentes cuando, en la tramitación de una queja, advierta la existencia de hechos ilícitos. El ejercicio de esta facultad no impedirá la continuación del procedimiento y la resolución de la queja.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 60.
 
-En los términos del artículo 13 de la Ley, el Presidente, el Secretario Técnico, los Visitadores, así como el Subsecretario Técnico, los Delegados, Directores, Coordinadores y demás personal que coadyuve en función de las atribuciones que les confiere la Ley y este Reglamento, tendrán fe pública en el desempeño de sus funciones.
+En los términos del artículo 13 de la Ley, el o la titular de la Presidencia, el Secretario Técnico, los Visitadores, así como el Subsecretario Técnico, los Delegados, Directores, Coordinadores y demás personal que coadyuve en función de las atribuciones que les confiere la Ley y este Reglamento, tendrán fe pública en el desempeño de sus funciones.
 
 Se entenderá por fe pública la facultad de autenticar documentos, declaraciones y todos aquellos actos y hechos celebrados o sucedidos en presencia de dichos funcionarios, sin perjuicio del valor probatorio o que se les dé conforme al artículo 39 de la Ley. Las actuaciones a que se refiere el párrafo anterior se harán constar en acta circunstanciada que al efecto levantará el funcionario correspondiente.
 
 ### CAPITULO II. DE LOS IMPEDIMENTOS Y EXCUSAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 61.
 
-Los Visitadores Generales, Directores, Delegados, Coordinadores, Visitadores Adjuntos, Auxiliares y demás personal de la Comisión que intervengan en la integración de las quejas, salvo el Presidente, están impedidos para conocer de asuntos por alguna de las causas siguientes:
+Los Visitadores Generales, Directores, Delegados, Coordinadores, Visitadores Adjuntos, Auxiliares y demás personal de la Comisión que intervengan en la integración de las quejas, salvo el o la titular de la Presidencia, están impedidos para conocer de asuntos por alguna de las causas siguientes:
 
 I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado o por afinidad con alguno de los interesados o sus representantes, o con el servidor público involucrado como presunto responsable en el asunto;
 
@@ -613,9 +719,11 @@ VI. Cualquier otra análoga a las anteriores.
 
 En estos supuestos, los servidores públicos de la Comisión deberán excusarse de inmediato del conocimiento del asunto y solicitar a su superior la calificación y determinación final sobre la excusa.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 62.
 
-La calificación de la excusa y el trámite que deba correr el expediente de queja será resuelta por Presidente de la Comisión o en su caso por el superior jerárquico del servidor público impedido, y también, determinará sobre el servidor público de la Comisión que conocerá del asunto.
+La calificación de la excusa y el trámite que deba correr el expediente de queja será resuelta por el o la titular de la Presidencia de la Comisión o en su caso por el superior jerárquico del servidor público impedido, y también, determinará sobre el servidor público de la Comisión que conocerá del asunto.
 
 ### CAPITULO III. DE LAS RESOLUCIONES
 
@@ -659,7 +767,9 @@ En los casos a que se refiere el artículo 9 de la Ley y de quejas extemporánea
 
 Las Recomendaciones se dictaran con base en lo dispuesto por el artículo 48 de la Ley.
 
-La Comisión también podrá formular Recomendaciones Generales a las autoridades estatales y municipales, a fin de que se promuevan los cambios y modificaciones de disposiciones normativas y prácticas administrativas que constituyan o propicien violaciones a los Derechos Humanos. Estas Recomendaciones se elaborarán de manera similar a las particulares y se fundamentarán en los estudios realizados por la propia Comisión, previo acuerdo del Presidente. Las Recomendaciones Generales no requerirán de aceptación por parte de las autoridades a quienes vayan dirigidas y se publicarán en el Boletín, pero se contabilizarán por separado y su seguimiento será general.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
+La Comisión también podrá formular Recomendaciones Generales a las autoridades estatales y municipales, a fin de que se promuevan los cambios y modificaciones de disposiciones normativas y prácticas administrativas que constituyan o propicien violaciones a los Derechos Humanos. Estas Recomendaciones se elaborarán de manera similar a las particulares y se fundamentarán en los estudios realizados por la propia Comisión, previo acuerdo del o la titular de la Presidencia. Las Recomendaciones Generales no requerirán de aceptación por parte de las autoridades a quienes vayan dirigidas y se publicarán en el Boletín, pero se contabilizarán por separado y su seguimiento será general.
 
 ###### ARTICULO 69.
 
@@ -673,11 +783,27 @@ III. Las conclusiones del caso, haciéndose un análisis lógico y axiológico-j
 
 IV. Los puntos resolutivos que definen la solución del caso y las consecuencias jurídicas de la queja; y
 
-V. La firma del Presidente de la Comisión o del funcionario autorizado por éste en los términos del artículo 22 fracción V de la Ley.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+V. La firma del o la titular de la Presidencia de la Comisión o del funcionario autorizado por éste en los términos del artículo 22 fracción V de la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 70.
 
-Las resoluciones mencionadas serán notificadas inmediatamente al quejoso y a la autoridad o servidor público señalado como responsable, o al superior jerárquico de éste. También podrán darse a conocer a la opinión pública a través de los medios de comunicación cuando no exista impedimento, a juicio del Presidente. Tratándose de una Recomendación, una vez notificada y en el supuesto de que la autoridad o servidor público omita responder sobre su aceptación o rechazo en el término fijado por la Ley, aquélla se tendrá por aceptada.
+Las resoluciones mencionadas serán notificadas inmediatamente al quejoso y a la autoridad o servidor público señalado como responsable, o al superior jerárquico de éste. También podrán darse a conocer a la opinión pública, con las prevenciones necesarias, a través de los medios de comunicación, cuando no exista impedimento, a juicio de la Presidencia.
+
+Tratándose de una Recomendación, se notificará de inmediato a la autoridad o servidor público a la que vaya dirigida, a fin de que adopte las medidas necesarias para su cumplimiento.
+
+Las recomendaciones serán notificadas a los quejosos por correo certificado dentro de los siguientes cinco días hábiles a aquél en que la suscriba el o la titular de la Presidencia.
+
+La versión pública de la recomendación se dará a conocer a la sociedad después de su notificación. Cuando las acciones solicitadas en la recomendación no requieran de discreción para su cabal cumplimiento, se podrán dar a conocer a los medios de comunicación.
+
+Una vez notificada una recomendación y en el supuesto de que la autoridad o servidor público omita responder sobre su aceptación o rechazo en el término fijado por la Ley, se tendrá por no aceptada.
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
+
+En los casos establecidos en el párrafo anterior, la Comisión podrá solicitar al Congreso del Estado que llame a comparecer a los servidores públicos que se nieguen a responder a las recomendaciones que emita, con objeto de que expliquen el motivo de su negativa.
 
 ###### ARTICULO 71.
 
@@ -707,9 +833,11 @@ VIII. Recomendaciones aceptadas, cuyo cumplimiento revísate características pe
 
 Expedida una recomendación, la Comisión dará seguimiento a la misma para verificar su cumplimiento cabal, pero en ningún caso podrá intervenir con la autoridad involucrada en una nueva investigación, formar parte de una comisión administrativa o participar en una averiguación previa sobre el contenido de la recomendación.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 74.
 
-Las Recomendaciones serán publicadas, íntegramente o en forma resumida, en el Boletín de la Comisión, así como otras resoluciones que, por su importancia, lo ameriten. El Presidente podrá determinar cuáles resoluciones no serán publicadas, de acuerdo con las circunstancias del caso, y sólo deban comunicarse a los interesados.
+Las recomendaciones serán dadas a conocer a la opinión pública mediante su publicación en el Boletín, un comunicado de prensa y en la página de Internet de la Comisión, así como mediante las directrices de comunicación social que acuerde la Presidencia. En todos los casos se protegerán los datos personales y se estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas. El o la titular de la Presidencia podrá determinar cuáles resoluciones no serán publicadas, de acuerdo con las circunstancias del caso, y sólo deban comunicarse a los interesados.
 
 ### CAPITULO IV. DEL RECURSO DE RECONSIDERACION
 
@@ -755,9 +883,11 @@ El personal que labora en la Comisión se considera como trabajadores de confian
 
 El Presidente determinará sobre el ingreso, adscripción, cambios de ésta, promoción, renuncias, sanciones y estímulos del personal, sin perjuicio de las disposiciones que regulan las relaciones de trabajo entre éste y el Organismo, en los términos del presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 83.
 
-Los cambios de adscripción del personal se efectuarán únicamente por el Presidente de la Comisión y podrá ser en los siguientes casos:
+Los cambios de adscripción del personal se efectuarán únicamente por el o la titular de la Presidencia de la Comisión y podrán ser en los siguientes casos:
 
 I. Por voluntad expresa del trabajador, siempre y cuando las condiciones del Organismo así lo permitan, en este caso el servidor público deberá presentar propuesta por escrito. Se entiende que existen condiciones para tal efecto cuando estructural y presupuesta mente es conveniente para el adecuado funcionamiento de la Comisión;
 
@@ -814,3 +944,11 @@ SEGUNDO. Se abroga el Reglamento de la Comisión de Derechos Humanos del Estado 
 Se elabora la presente certificación para su publicación en el Periódico Oficial del Estado. DAMOS FE.
 
 PRESIDENTE.- LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbrica.- SECRETARIO TECNICO.- LIC. JOSE MARTIN GARCIA MARTINEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE JUNIO DE 2014.
+
+PRIMERO. El presente acuerdo iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+SEGUNDO. Publíquese además en los órganos de comunicación de la Comisión de Derechos Humanos del Estado de Tamaulipas, para efectos de su mayor divulgación y conocimiento.
