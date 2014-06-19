@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2013-12-31"
+last_updated: "2014-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -643,9 +643,11 @@ Las disposiciones contenidas en este artículo son aplicables en lo conducente, 
 
 El divorcio sólo puede ser demandado por la o el cónyuge que no haya dado causa para éste; y dentro de los seis meses siguientes al día en que haya tenido conocimiento de los hechos en que se funde la demanda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 90.
 
-En la demanda de divorcio la parte actora podrá demandar de la o el otro cónyuge, una indemnización del cincuenta por ciento del valor de los bienes que hubiere adquirido durante el matrimonio, siempre que:
+En la demanda de divorcio la parte actora podrá demandar de la o el otro cónyuge, una compensación hasta del cincuenta por ciento del valor de los bienes que hubiere adquirido durante el matrimonio, siempre que:
 
 I. Hubieran estado casados bajo el régimen de separación de bienes;
 
@@ -653,7 +655,9 @@ II. El demandante se haya dedicado en el lapso que duró el matrimonio, preponde
 
 III. Durante el matrimonio el demandante no haya adquirido bienes propios, o habiéndolos adquirido, sean notoriamente menores a los de la contraparte.
 
-La autoridad judicial al dictar la sentencia de divorcio, resolverá sobre tal indemnización, atendiendo a las circunstancias especiales de cada caso.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2014)</small>
+
+La autoridad judicial al dictar la sentencia de divorcio, resolverá sobre tal indemnización, atendiendo circunstancias como son: la edad y el estado de salud; la cualificación profesional y las probabilidades de acceso a un empleo; el tiempo dedicado o que se dedicará a los hijos; la colaboración con su trabajo en las actividades mercantiles, industriales o profesionales del otro cónyuge; la duración del matrimonio y de la convivencia conyugal; la pérdida eventual de un derecho de pensión; el caudal y los medios económicos y las necesidades de uno y otro cónyuge; y cualquier otra que el Juez considere relevante.
 
 ###### ARTICULO 91.
 
@@ -717,11 +721,23 @@ I. Designación de la persona a quien sean confiadas las hijas o hijos del matri
 
 II. El modo de proveer a las necesidades de las hijas o hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
 
-III. La casa que servirá de habitación a la y el cónyuge durante el procedimiento, y
+III. La casa que servirá de habitación a la y el cónyuge durante el procedimiento;
 
-IV. Si hubiere sociedad conyugal, la manera de administrar los bienes de esta sociedad durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para tal efecto, se presentará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+IV. Si hubiere sociedad conyugal, la manera de administrar los bienes de esta sociedad durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para tal efecto, se presentará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad, y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2014)</small>
+
+V. En caso de que se haya celebrado el matrimonio bajo el régimen de separación de bienes, se podrá señalar una compensación hasta por el cincuenta por ciento del valor de los bienes adquiridos durante el matrimonio, a la que tendrá derecho el cónyuge; la forma y plazo en que se deberá pagar, presentando inventario y avalúo de los bienes muebles, o inmuebles con los que, en su caso, se solvente dicha compensación, siempre que:
+
+a) Hubieran estado casados bajo el régimen de separación de bienes.
+
+b) Que la parte a la que se compensará se haya dedicado en el lapso que duró el matrimonio, preponderantemente, al desempeño del trabajo del hogar y, en su caso, al cuidado de las hijas o hijos; o haya colaborado con su trabajo en las actividades mercantiles, industriales o profesionales del otro cónyuge.
+
+c) Durante el matrimonio la parte que se vaya a compensar no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los del otro cónyuge.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1405,7 +1421,7 @@ La o el menor de edad sólo puede reconocer a una hija o hijo con el consentimie
 
 ###### ARTICULO 213.
 
-El reconocimiento que realiza una o un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación dentro del año siguiente a que haya tenido conocimiento del engaño, siempre y cuando ya sea mayor de edad.
+El reconocimiento que realiza una o un menor es revocable si prueba que sufrió o engaño al hacerlo, pudiendo intentar la revocación dentro del año siguiente a que haya tenido conocimiento del engaño, siempre y cuando ya sea mayor de edad.
 
 ###### ARTICULO 214.
 
@@ -3404,6 +3420,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 31 DE DICIEMBRE DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
