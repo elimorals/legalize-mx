@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-64765"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-26"
-last_updated: "2014-05-16"
+last_updated: "2014-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64765&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-12-10"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial de la Federación, el viernes 26 de diciembre de 2008.
 
@@ -340,9 +340,15 @@ XXIII. Emitir observaciones y recomendaciones a los Entes Obligados que incumpla
 
 > <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-XXIV. Resolver los recursos de revisión, revocación y denuncias previstos en la Ley de Transparencia y la Ley de Datos Personales; y
+XXIV. Resolver los recursos de revisión, revocación y denuncias previstos en la Ley de Transparencia y la Ley de Datos Personales; y (sic)
 
-XXV. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Personales y otras disposiciones aplicables.
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2014)</small>
+
+XXV. En ausencia del Comisionado Presidente y del Secretario Técnico, autorizar el nombramiento de los encargados de despacho de las unidades administrativas; y
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2014)</small>
+
+XXVI. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Personales y otras disposiciones aplicables.
 
 > <small>(REFORMADA, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -500,15 +506,27 @@ XIV. Proponer al Pleno, a través del Presidente, la creación, modificación o 
 
 XV. Designar al encargo del tratamiento de los sistemas de datos personales en posesión de su unidad administrativa;
 
-XVI. Vigilar el cumplimiento de la Ley de Transparencia, la Ley de Datos Personales, el presente Reglamento y demás disposiciones aplicables; y
+XVI. Vigilar el cumplimiento de la Ley de Transparencia, la Ley de Datos Personales, el presente Reglamento y demás disposiciones aplicables; y (sic)
 
 > <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2012)</small>
 
 XVII. Informar a los Comisionados Ciudadanos sobre los recursos de revisión y las denuncias en materia de su competencia que ingresan semanalmente ante la Unidad de Correspondencia de este Instituto.
 
-> <small>(ADICIONADA, G.O. 3 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2014)</small>
 
-XVIII. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Personales, otras disposiciones aplicables y las que instruya el Pleno.
+XVIII. En ausencia del Comisionado Presidente, autorizar el nombramiento de los encargados de despacho de las unidades administrativas, previa consulta con los Comisionados Ciudadanos;
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2014)</small>
+
+XIX. En ausencia del Comisionado Presidente, aprobar los procedimientos administrativos y políticas de operación internas del Instituto, previo conocimiento de los mismos por parte de los Comisionados Ciudadanos;
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2014)</small>
+
+XX. En ausencia del Comisionado Presidente, autorizar el cambio de adscripción o las comisiones temporales de los servidores públicos del Instituto para desempeñar funciones en otra área del mismo, cuando se requiera por necesidades del servicio; y
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2014)</small>
+
+XXI. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Personales, otras disposiciones aplicables y las que instruya el Pleno.
 
 > <small>(REFORMADA, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -798,11 +816,15 @@ XXV. Contribuir al buen desarrollo de los eventos organizados por el Instituto
 
 > <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2012)</small>
 
-XXVI. Apoyar en la elaboración del Informe Anual de Actividades y Resultados del Instituto; y
+XXVI. Apoyar en la elaboración del Informe Anual de Actividades y Resultados del Instituto; y (sic)
 
-> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2014)</small>
 
-XXVII. Las demás que les confiera el Pleno, así como las disposiciones legales y administrativas que les sean aplicables.
+XXVII. En ausencia del Comisionado Presidente, Proponer al titular de la Dirección de Administración y Finanzas el nombramiento del personal a su cargo;
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2014)</small>
+
+XXVIII. Las demás que les confiera el Pleno, así como las disposiciones legales y administrativas que les sean aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -1218,11 +1240,15 @@ XV. Coordinar los trabajos necesarios para el cumplimiento de las obligaciones d
 
 > <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2012)</small>
 
-XVI. Presidir el Comité de Bienes Muebles del Instituto en los términos establecidos en la normatividad en la materia; y
+XVI. Presidir el Comité de Bienes Muebles del Instituto en los términos establecidos en la normatividad en la materia; y (sic)
 
-> <small>(ADICIONADA, G.O. 3 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2014)</small>
 
-XVII. Las demás que se deriven de la Ley de Transparencia y la Ley de Datos Personales y de otras disposiciones aplicables.
+XVII. En ausencia del Comisionado Presidente, autorizar el nombramiento de los servidores públicos del Instituto, a excepción de los titulares o encargados de despacho de las unidades administrativas, a propuesta de los titulares de las unidades administrativas que integran el Instituto; y
+
+> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2014)</small>
+
+XVIII. Las demás que se deriven de la Ley de Transparencia y la Ley de Datos Personales y de otras disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -1290,9 +1316,9 @@ Las ausencias del Secretario Técnico, del Secretario Ejecutivo, del Contralor y
 
 En caso de ausencia definitiva del Presidente, el Secretario Técnico, previa aprobación del Pleno, dará aviso a la Asamblea Legislativa del Distrito Federal, para que proceda conforme a los artículos 66, 67 y 68 de la Ley de Transparencia.
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2014)</small>
 
-En tanto la Asamblea Legislativa del Distrito Federal efectúa el nombramiento del Presidente en términos de los artículos referidos en el párrafo anterior, las atribuciones establecidas en las fracciones XVII, XXI y XXVI del artículo 13 del presente Reglamento, serán ejercidas de común acuerdo o por mayoría de los Comisionados Ciudadanos.
+En tanto la Asamblea Legislativa del Distrito Federal efectúa el nombramiento del Presidente en términos de los artículos referidos en el párrafo anterior, las atribuciones establecidas en la fracción XVII del artículo 13 del presente Reglamento, serán ejercidas de común acuerdo o por mayoría de los Comisionados Ciudadanos.
 
 > <small>(ADICIONADO, G.O. 16 DE MAYO DE 2014)</small>
 
@@ -1349,5 +1375,13 @@ G.O. 3 DE DICIEMBRE DE 2012.
 ÚNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 16 DE MAYO DE 2014.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL FEDERAL.
+
+Transitorio Único: Publíquese en la Gaceta Oficial de (sic) Distrito Federal.
+
+G.O. 19 DE JUNIO DE 2014.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL FEDERAL.
 
 Transitorio Único: Publíquese en la Gaceta Oficial de (sic) Distrito Federal.
