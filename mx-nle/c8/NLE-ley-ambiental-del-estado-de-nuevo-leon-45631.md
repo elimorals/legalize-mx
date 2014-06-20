@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2012-04-13"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -123,7 +123,7 @@ Centro de población: Las zonas constituidas por las áreas urbanas o urbanizada
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-XII. (sic) Condiciones particulares de descarga: La dictaminación que emita la Secretaría respecto de los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, fijados por las Normas Oficiales Mexicanas y la Ley de Aguas Nacionales;
+XII (sic). Condiciones particulares de descarga: La dictaminación que emita la Secretaría respecto de los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, fijados por las Normas Oficiales Mexicanas y la Ley de Aguas Nacionales;
 
 XIII. Conservación: El conjunto de políticas y medidas para mantener dinámicamente las condiciones que propicien la permanencia de los elementos naturales, a través de la planeación ambiental del desarrollo; así como proteger, cuidar, manejar, mantener y en su caso el aprovechamiento de los ecosistemas, los hábitat, las especies y las poblaciones de la vida silvestre, dentro o fuera de sus entornos naturales, de manera que se salvaguarden las condiciones naturales para su permanencia a largo plazo;
 
@@ -445,9 +445,17 @@ XLIX. Emitir recomendaciones a las autoridades federales y municipales, con el p
 
 L. Aplicar las sanciones administrativas, medidas correctivas y de seguridad que correspondan, por infracciones a la Ley General, en materias de competencia local;
 
-LI. Denunciar ante el Ministerio Público los hechos considerados como delitos; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2014)</small>
 
-LII. Las demás atribuciones que le otorguen la presente Ley, la Ley de la Agencia de Protección al Medio Ambiente y Recursos Naturales, y otros ordenamientos aplicables en la materia.
+LI. Denunciar ante el Ministerio Público los hechos considerados como delitos;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2014)</small>
+
+LII. Promover la investigación y el desarrollo de tecnologías que permitan prevenir, controlar y abatir la contaminación por el uso de bolsas de plástico; así como del poliestireno expandido; y que fomenten el reciclaje y el reuso de las mismas, además deberá promover la participación de todos los sectores de la sociedad mediante la difusión de información y promoción de actividades de cultura, educación y capacitación ambientales sobre el manejo integral de residuos sólidos; y
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2014)</small>
+
+LIII. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
 
 ###### Artículo 9.
 
@@ -2283,6 +2291,12 @@ El Reglamento de la presente Ley establecerá los casos en que se considere que 
 
 Para la prevención de la generación, valorización y manejo de los residuos que en esta Ley se regulan, se incluirán en el Reglamento las disposiciones para formular planes de manejo, guías y lineamientos para los grandes generadores de dichos residuos.
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2014)</small>
+
+###### Artículo 174 Bis.
+
+Las bolsas de plástico que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final, deberán cumplir con los criterios y normas de producción y consumo sustentable señalados en el reglamento u ordenamientos administrativos respectivos, conforme a lo establecido en la fracción XI del Artículo 7 de la presente Ley.
+
 ###### Artículo 175.
 
 Se consideran conductas violatorias o infracciones a esta Ley, en materia de residuos, las siguientes:
@@ -2689,7 +2703,7 @@ Toda petición deberá presentarse por escrito, especificando claramente la info
 
 Las autoridades en materia ambiental, negarán la entrega de información, únicamente en los casos que establece la Ley de Acceso a la Información Pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 214.
 
@@ -2877,7 +2891,7 @@ La autoridad ambiental competente podrá imponer la sanción de trabajo a favor 
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-La sanción de trabajo a favor de la comunidad sólo podrá reemplazar la multa cuando el infractor no tenga los recursos económicos para cubrirla, pero podrá ser una medida complementaria en todos los casos, no pudiendo exceder ese trabajo de 36·treinta y seis horas.
+La sanción de trabajo a favor de la comunidad sólo podrá reemplazar la multa cuando el infractor no tenga los recursos económicos para cubrirla, pero podrá ser una medida complementaria en todos los casos, no pudiendo exceder ese trabajo de 36 treinta y seis horas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3273,7 +3287,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NAPOLEÓN CANTÚ CERNA
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE DICIEMBRE DE 2005.
 
@@ -3334,3 +3348,9 @@ P.O. 13 DE ABRIL DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- En un término que no exceda de ciento veinte días a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones a las disposiciones reglamentarias vinculados con la presente reforma.
+
+P.O. 20 DE JUNIO DE 2014.
+
+Primero: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo: El reglamento o demás ordenamientos respectivos a los que hace mención el artículo 174 Bis de la Ley Ambiental para el Estado de Nuevo León, deberán publicarse dentro de un plazo de ciento ochenta días naturales contados a partir de la fecha de publicación del presente Decreto en el Periódico Oficial del Estado de Nuevo León.
