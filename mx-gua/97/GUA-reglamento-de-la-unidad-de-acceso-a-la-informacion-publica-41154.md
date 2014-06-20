@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4115
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-14"
-last_updated: "2008-11-25"
+last_updated: "2014-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DE SILAO, GUANAJUATO
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DE SILAO GUANAJUATO
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA DE SILAO GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE SILAO DE LA VICTORIA, GUANAJUATO, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 14 de septiembre de 2004.
 
@@ -663,10 +665,28 @@ SECRETARIO DEL H. AYUNTAMIENTO
 
 LIC. MARIO GALLARDO VELAZQUEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 25 DE NOVIEMBRE DE 2008.
 
 Artículo Primero. El presente Acuerdo de las reformas, adiciones y derogaciones del Reglamento de la Unidad de Acceso a la Información Pública del Municipio de Silao, Guanajuato entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Las solicitudes que antes de (sic) entrada en vigencia del presente Acuerdo, hayan presentado los solicitantes ante la Unidad de Acceso a la Información Pública, deberán concluir observándose las disposiciones contenidas en el Reglamento aplicable en su momento de la solicitud de información.
+
+P.O. 20 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Unidad de Acceso a la Información Pública del Municipio de Silao, Guanajuato publicado con fecha 14 de Septiembre del año 2004 en el Periódico Oficial del Gobierno del Estado, mediante ejemplar No. 148 sumario, así como la reforma mediante la cual se adicionan y derogan diversas disposiciones del Reglamento de la Unidad de Acceso a la Información Pública del Municipio de Silao, Gto, publicada en el Periódico Oficial del Gobierno del Estado con fecha 25 de Noviembre de 2008 mediante ejemplar No. 189 Tercera Parte.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga cualquier disposición que se oponga al presente reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Las solicitudes que antes de entrada en vigencia del presente Reglamento, hayan presentado los solicitantes ante la Unidad de Acceso a la Información Pública, deberán concluir observándose las disposiciones contenidas en el Reglamento aplicable en su momento de la solicitud de información.
