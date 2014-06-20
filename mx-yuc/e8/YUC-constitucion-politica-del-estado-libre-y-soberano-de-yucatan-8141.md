@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2014-04-01"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE JUNIO DE 2014.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -183,21 +183,25 @@ II.- Tener un modo honesto de vivir.
 
 Son derechos del ciudadano yucateco:
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
-I.- votar en los procedimientos de elección y de consulta popular. Las leyes respectivas establecerán la forma de garantizar el acceso de las personas con capacidades diferentes y de los residentes en el extranjero, al derecho al sufragio;
+I.- Votar en los procedimientos de elección. Las leyes respectivas establecerán la forma de garantizar el acceso de las personas con discapacidad y de los residentes en el extranjero al derecho al sufragio;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
-II.- poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, teniendo las cualidades que establezca la Ley;
+II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, teniendo las cualidades que establezca la ley de la materia;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
-III.- asociarse para tratar los asuntos políticos del Estado; y
+III.- Asociarse para tratar los asuntos políticos del Estado;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
-IV.- tomar las armas para la defensa del Estado o sus Instituciones, en los términos que prescriban las leyes.
+IV.- Tomar las armas para la defensa del Estado o sus Instituciones, en los términos que prescriban las leyes, y
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2014)</small>
+
+V.- Participar en los procedimientos de participación ciudadana en los términos previstos en la ley de la materia.
 
 > <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
 
@@ -283,13 +287,15 @@ El Estado de Yucatán es parte integrante de los Estados Unidos Mexicanos, y es 
 
 La soberanía reside esencial y originariamente en el pueblo, y la del Estado para su régimen interior, se ejerce por medio de los poderes públicos, los cuales dimanan del pueblo y se instituyen para su beneficio.
 
-El Estado de Yucatán adopta la forma de gobierno republicano, democrático, representativo y popular.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+El Estado de Yucatán adopta la forma de gobierno republicano, representativo, democrático, laico y popular.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ### CAPITULO UNICO. De la división de Poderes
 
-> <small>(REFORMADO, D.O. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 14.
 
@@ -313,187 +319,95 @@ Para su régimen político-administrativo, judicial, fiscal y electoral, el Terr
 
 ###### Artículo 16.
 
-El Poder Público del Estado de Yucatán se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
+El Poder Público del Estado de Yucatán se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un Congreso formado por menos diputados que los señalados en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un Congreso formado por menos diputados que los señalados en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
+Las elecciones del Gobernador, de los diputados y de los integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo, conforme a las siguientes disposiciones:
 
-> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
+Apartado A. De los Partidos Políticos y Agrupaciones Políticas.
 
-La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública estatal y cualquier otro ente de los órdenes de gobierno estatal y municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su participación en el proceso electoral, los derechos, obligaciones y prerrogativas que les corresponden, así como las reglas para garantizar la paridad de género en la asignación de candidaturas a diputados.
 
-> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
+Son fines esenciales de los partidos políticos: promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política estatal y, como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público; de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
 
-La ley reglamentaria garantizará el estricto cumplimiento de lo previsto en el párrafo anterior incluyendo el régimen de sanciones a que haya lugar.
+Solo los ciudadanos, de manera libre e individual, podrán afiliarse a los partidos y agrupaciones políticas; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa a ellos.
 
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+Los partidos políticos tendrán el derecho de solicitar el registro de candidatos a cargos de elección popular, quienes para ejercer ese derecho deberán cumplir con los requisitos establecidos en la ley de la materia.
 
-APARTADO A. DE LA ORGANIZACIÓN DE LAS ELECCIONES Y LOS PROCEDIMIENTOS DE PARTICIPACIÓN CIUDADANA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE JULIO DE 2009)</small>
-
-I.- La organización de los procedimientos locales de elección y consulta popular, es una función estatal que se realiza a través de un organismo público especializado, autónomo y profesional en su desempeño, denominado Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, dotado de personalidad jurídica y patrimonio propio, el cual contará en su estructura con una Contraloría Interna, una Unidad Técnica de Fiscalización, así como los organismos ejecutivos, técnicos y operativos necesarios para cumplir con sus funciones. En el ejercicio de esa función, son principios rectores: la legalidad, independencia, imparcialidad, objetividad, certeza y profesionalización.
-
-En la integración de este organismo participan el Poder Legislativo, los partidos políticos y los ciudadanos, en términos de ley.
-
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
-
-El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, es autoridad en la materia. Contará con un Consejo General, que será su órgano superior de dirección y estará integrado por cinco consejeros electorales, uno de los cuales tendrá el carácter de Presidente, y concurrirán con voz pero sin voto, los representantes de los partidos políticos y un Secretario Ejecutivo. Los consejeros electorales y dicho Secretario, durarán en su encargo 6 años y podrán ser reelectos por una sola vez. La renovación del Consejo General será de forma escalonada. El Presidente y el Secretario Ejecutivo serán designados por los miembros del Consejo General del Instituto.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
-
-Los Consejeros Electorales no podrán tener otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia. Y recibirán una retribución adecuada e irrenunciable, misma que no podrá ser disminuida durante su encargo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
-
-El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado contará con una Contraloría dotada de autonomía técnica y de gestión, encargada de fiscalizar todos los ingresos y egresos de dicho Instituto. Su titular será designado por el Congreso del Estado con el voto de las dos terceras partes de sus integrantes a propuesta de instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales debidamente registrados, en la forma y términos que determine la ley. Durará 6 años en el cargo y podrá ser reelecto por una sola vez.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
-
-La jornada electoral tendrá lugar el primer domingo de julio del año correspondiente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
-
-El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente deberá ser aprobada por las dos terceras partes de los Consejeros del Instituto. Para la aprobación del convenio deberán observarse los lineamientos que para ese fin disponga la Ley de la materia.
-
-Los consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado. De la misma forma, se elegirá a cinco consejeros electorales suplentes, señalando el orden de prelación respectivo.
-
-Las leyes establecerán las reglas y el procedimiento de elección o designación correspondiente, y atenderán las actividades relativas a la preparación de las jornadas electorales y de participación ciudadana, al desarrollo de éstas, a los cómputos y otorgamiento de constancia, capacitación electoral y educación cívica, al sistema de medios de impugnación y a la conformación de los organismos en la materia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-Se establecerá un sistema de medios de impugnación de los que conocerá el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
-
-La fiscalización de las finanzas de los partidos políticos estará a cargo de una Unidad Técnica de Fiscalización, dotada de autonomía de gestión, cuyo titular será designado por las dos terceras partes de los integrantes del Consejo General.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
-
-La integración y funcionamiento de la Unidad Técnica de Fiscalización, y el procedimiento de revisión y sanción que desarrolle, se realizará en los términos que señale la ley de la materia. Para superar la limitación de los secretos bancario, fiduciario o fiscal, la Unidad Técnica de Fiscalización, deberá convenir y coordinarse con el órgano que tenga tal atribución en el Instituto Federal Electoral, según lo establezcan la Constitución Política de los Estados Unidos Mexicanos y su ley reglamentaria en materia electoral.
-
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
-
-La Ley determinará las bases del servicio profesional electoral y las relaciones laborales de los servidores públicos en los organismos electorales.
-
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
-
-Las mesas directivas de casilla estarán integradas por ciudadanos y la votación se recepcionará en términos de ley, garantizando la efectividad y el secreto del sufragio.
-
-II.- Son medios de consulta popular: el plebiscito, el referéndum y la iniciativa popular, entre otros.
-
-El plebiscito es la consulta a través de la cual los ciudadanos yucatecos expresan su aprobación, a un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, siempre que sean considerados como trascendentales para el Estado o los Municipios.
-
-> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
-
-El referéndum es la consulta a través del cual los ciudadanos yucatecos manifiestan su aprobación a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos municipales.
-
-> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
-
-La iniciativa popular consiste en la presentación de un proyecto de expedición, reforma o adición de leyes o decretos ante el Congreso del Estado; así como de reglamentos municipales ante el Ayuntamiento, por parte de los ciudadanos yucatecos.
-
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
-
-APARTADO B. DE LOS PARTIDOS Y AGRUPACIONES POLÍTICAS
-
-Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su participación en el proceso electoral.
-
-Son fines esenciales de los partidos políticos: Promover la participación del pueblo en la vida democrática, intervenir en la integración de los órganos de representación popular estatal y, como organizaciones de ciudadanos, coadyuvar en el acceso de éstos al ejercicio del poder público; de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
-
-Tratándose de las agrupaciones políticas, la ley establecerá sus fines y sus prerrogativas.
-
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
-
-Los ciudadanos de manera libre e individualmente, podrán afiliarse a los partidos y agrupaciones políticas. Los partidos políticos tendrán el derecho de solicitar el registro de candidatos a cargos de elección popular, quienes para ejercer ese derecho deberán cumplir con los requisitos establecidos en la ley.
-
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
-
-Los ciudadanos de manera independiente, para ejercer el derecho a participar en las elecciones estatales, deberán cumplir con los requisitos establecidos en la ley respectiva, siempre que dicha posibilidad se encuentre establecida en la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
-
-Queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa a ellos.
-
-> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
-
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen ésta Constitución y la ley respectiva.
-
-> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
-
-La ley establecerá las reglas para el desarrollo de las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas no deberá exceder de noventa días para la elección de Gobernador, y cuando sólo se elijan diputados locales o ayuntamientos no podrán durar más de sesenta días; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
-
-> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta constitución y las leyes respectivas.
 
 En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos.
 
-> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2014)</small>
+La fiscalización de las finanzas de los partidos políticos se realizará a través de una Unidad Técnica dependiente del Instituto Electoral y de Participación Ciudadana de Yucatán; asimismo, contará con una estructura orgánica y de operación, debiendo ejercitar las facultades que en su caso, le delegue el Instituto Nacional Electoral de conformidad con lo previsto en la ley respectiva.
 
-La ley determinará las reglas para garantizar la paridad de género en la asignación de candidaturas a diputados.
+El partido político local que no obtenga, al menos, el 3 % del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
 
-> <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro así como el destino de sus bienes y remanentes.
 
-APARTADO C. DE LOS ORGANISMOS AUTÓNOMOS
+Apartado B. De los Candidatos Independientes.
 
-Conforme a esta Constitución, los organismos autónomos del Estado contarán con Autonomía, Personalidad Jurídica y Patrimonio Propios, y tendrán las facultades que esta Constitución y las leyes respectivas, establezcan.
+Los ciudadanos, para ejercer el derecho a participar en las elecciones estatales como candidatos independientes, deberán cumplir con los requisitos establecidos en la ley respectiva.
 
-Son organismos autónomos del Estado:
+La ley regulará el régimen de postulación, registro, derechos y obligaciones de los candidatos independientes y garantizará su derecho al financiamiento público, así como el acceso a la radio y televisión en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta constitución.
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
-
-I.- El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán;
-
-> <small>(REFORMADA, D.O. 18 DE AGOSTO DE 2008)</small>
-
-II.- La Comisión de Derechos Humanos del Estado de Yucatán;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-III.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
-
-> <small>(ADICIONADA, D.O. 18 DE AGOSTO DE 2008)</small>
-
-IV.- El Instituto Estatal de Acceso a la Información Pública.
-
-> <small>(ADICIONADO, D.O. 24 DE MAYO DE 2006)</small>
-
-###### Artículo 16 Bis.
+Apartado C. Del Financiamiento, acceso a medios de comunicación y propaganda.
 
 La ley garantizará que los partidos y agrupaciones políticas dispongan de los elementos para llevar a cabo sus actividades. Tendrán derecho en la forma que se establezca, al uso permanente de los medios de comunicación social y al financiamiento, garantizando en este caso, que los recursos públicos prevalezcan sobre los de origen privado; de igual modo, la ley establecerá las restricciones en los gastos de precampañas y campañas electorales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+I. Financiamiento:
 
-Los partidos solo podrán acceder a la radio y a la televisión, conforme a lo dispuesto en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+El financiamiento público de los partidos políticos se compondrá de los montos para el sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, se otorgará conforme a lo que disponga la ley y a lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+a) Para actividades ordinarias permanentes, los montos se fijarán anualmente. El 35 % de la cantidad total que resulte se distribuirá entre los partidos políticos en partes iguales y el 65 % restante se distribuirá de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados por el principio de mayoría relativa;
+
+b) Para actividades tendientes a la obtención del voto durante el año en el que se elija Gobernador, diputados y ayuntamientos equivaldrá al 60 % del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año. Cuando sólo se elijan diputados y ayuntamientos equivaldrá al 50 % de dicho financiamiento por actividades ordinarias, y
+
+c) Para actividades específicas equivaldrá al 7 % del monto total que corresponda cada año por actividades ordinarias. El 40 % de la cantidad que resulte de acuerdo con lo señalado anteriormente se distribuirá entre los partidos políticos de forma igualitaria y el 60 % restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. Los partidos políticos deberán destinar el 25 % del monto que les corresponda de las actividades específicas para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
+
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. El monto máximo que tendrán las aportaciones de sus simpatizantes no podrá exceder anualmente para cada partido del 10 % del tope de gastos establecido en la última campaña estatal para Gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+II. Acceso a radio y televisión:
+
+Los partidos políticos y los candidatos independientes solo podrán acceder a la radio y a la televisión, conforme a lo dispuesto en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos. El Instituto Nacional Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad, conforme a lo que determine la ley respectiva.
 
 Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas tiempos en cualquier modalidad de radio y televisión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
-
 Ninguna otra persona, física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en el Estado de este tipo de mensajes contratados en territorio nacional o en el extranjero.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+III. Propaganda Electoral:
 
-En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien o difamen a las personas.
+En la propaganda política o electoral que difundan los partidos o los candidatos independientes deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien o difamen a las personas.
 
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+La propaganda electoral en los artículos promocionales utilitarios sólo podrá ser elaborada con material textil, de conformidad con lo que establezca la ley respectiva.
 
-El financiamiento público se compondrá de los montos para el sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, se otorgará conforme a lo que disponga la ley y a lo siguiente:
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública estatal y cualquier otro ente de los órdenes de gobierno estatal y municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
-I.- Para actividades ordinarias permanentes, los montos se fijarán anualmente. El 35% de la cantidad total que resulte se distribuirá entre los partidos políticos en partes iguales y el 65% restante se distribuirá de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados por el principio de mayoría relativa;
+La ley reglamentaria garantizará el estricto cumplimiento de lo previsto en el párrafo anterior incluyendo el régimen de sanciones a que haya lugar.
 
-II.- Para las actividades tendientes a la obtención del voto durante el año en el que se elija Gobernador, diputados y ayuntamientos equivaldrá al sesenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año. Cuando sólo se elijan diputados y ayuntamientos equivaldrá al cincuenta por ciento de dicho financiamiento por actividades ordinarias, y
+Apartado D. De los Procesos Electorales.
 
-III.- Por actividades específicas equivaldrá al cinco por ciento del monto total que corresponda cada año por actividades ordinarias. El cuarenta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente se distribuirá entre los partidos políticos de forma igualitaria y el sesenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+La ley establecerá las reglas para el desarrollo de las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas será de sesenta a noventa días para la elección de gobernador y de treinta a sesenta días cuando sólo se elijan diputados locales o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+La jornada electoral tendrá lugar el primer domingo de junio de cada 6 años para elegir al Gobernador del Estado y de cada 3 años para elegir a los diputados locales, así como presidentes municipales, síndicos y regidores de los Ayuntamientos.
 
-La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. El monto máximo que tendrán las aportaciones de sus simpatizantes no podrá exceder anualmente para cada partido del diez por ciento del tope de gastos establecido en la última campaña estatal para Gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+Las mesas directivas de casilla estarán integradas por ciudadanos y la votación se recepcionará en términos de ley, garantizando la efectividad y el secreto del sufragio.
 
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+Apartado E. De la Organización de las Elecciones.
 
-La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro, así como el destino de sus bienes y remanentes.
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público especializado, autónomo y profesional en su desempeño, denominado Instituto Electoral y de Participación Ciudadana de Yucatán, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos y esta constitución. En el ejercicio de esa función, son principios rectores la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y profesionalización.
+
+Apartado F. Del Sistema de medios de impugnación y delitos electorales
+
+Para garantizar los principios constitucionales de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y profesionalización en los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos políticos electorales de los ciudadanos. El Instituto Electoral y de Participación Ciudadana de Yucatán y el Tribunal Electoral del Estado de Yucatán conocerán, en el ámbito de sus competencias, de este sistema.
+
+El Instituto Electoral y de Participación Ciudadana de Yucatán y el Tribunal Electoral del Estado de Yucatán podrán ordenar la realización de recuentos totales o parciales de votos; la ley determinará los casos en que podrán realizarse en los ámbitos administrativo y jurisdiccional.
+
+La ley fijará las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, considerando el principio de definitividad de las etapas de los procesos electorales. De igual forma, tipificará los delitos y determinará las faltas en materia electoral y las sanciones que por ellos deban imponerse.
+
+El Tribunal Electoral del Estado de Yucatán sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley de la materia.
+
+###### Artículo 16 Bis.
+
+(DEROGADO, D.O. 20 DE JUNIO DE 2014)
 
 > <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -533,17 +447,17 @@ El Presidente del Congreso en los términos de las leyes, velará por el respeto
 
 El Congreso del Estado de Yucatán se compondrá de veinticinco Diputados electos popularmente cada tres años, de los cuales, quince serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la Ley establezca. Por cada Diputado Propietario de mayoría relativa, se elegirá un Suplente.
 
-> <small>(REFORMADO (N. DE E. ADICIONADO], D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-Los partidos políticos tendrán derecho a que se les reconozca hasta quince diputados, sumando los de mayoría relativa y los de representación proporcional.
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 > <small>(REFORMADO (N. DE E. ADICIONADO], D.O. 24 DE MAYO DE 2006)</small>
 
 La ley determinará la forma de establecer la demarcación territorial de los distritos electorales uninominales.
 
-> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser reelectos para el período inmediato siguiente. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietario, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para dicho período ni con el carácter de Suplentes.
+Los diputados podrán ser electos hasta por cuatro períodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieran postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE JULIO DE 2009)</small>
 
@@ -573,11 +487,9 @@ I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadan
 
 II.- Tener veintiun años cumplidos el día de la elección;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-III.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, Consejero de la Judicatura, Regidor o Síndico, durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
+III.- No ser Gobernador del Estado; Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Fiscal y Administrativa o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios; Consejero de la Judicatura; regidor o síndico, durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
 
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -595,11 +507,9 @@ VI.- Residir en el Estado durante los dos años inmediatos anteriores a la fecha
 
 VII.- No ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-VIII.- No ser Magistrado o Secretario del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
+VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
 IX.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -619,35 +529,13 @@ El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo pú
 
 El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, declarará la validez de las elecciones de Gobernador, Diputados, Regidores y Síndicos; efectuará la asignación de diputados y regidores según el principio de representación proporcional y expedirá las constancias respectivas a los candidatos electos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-La declaración de validez, la asignación de Diputados y Regidores de representación proporcional y la expedición de las respectivas constancias, podrán ser impugnadas ante el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado en los términos que la ley señale, cuyas resoluciones serán definitivas y firmes en el ámbito estatal.
-
-> <small>(REFORMADO, D.O. 3 DE JULIO DE 2009)</small>
+La declaración de validez, la asignación de Diputados y Regidores de representación proporcional y la expedición de las respectivas constancias podrán ser impugnadas ante el Tribunal Electoral del Estado de Yucatán, en los términos que la ley señale.
 
 ###### Artículo 25.
 
-Para garantizar el principio de legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos político-electorales de los ciudadanos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado tendrá la organización y competencia que determine esta Constitución y la ley. Los poderes públicos del Estado, salvaguardarán su integración y funcionamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-El Instituto de Procedimientos Electorales y Participación Ciudadana y el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado podrán ordenar la realización de recuentos totales o parciales de votos; la ley determinará los casos en que podrán realizarse en los ámbitos administrativo y jurisdiccional.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
-
-La ley tipificará los delitos y determinará las faltas en materia electoral, establecerá los procedimientos aplicables para las sanciones que deban imponerse, y fijará las causales de nulidad de las elecciones de Gobernador, Diputados locales y ayuntamientos. El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley.
+(DEROGADO, D.O. 20 DE JUNIO DE 2014)
 
 (REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
@@ -663,19 +551,27 @@ El Congreso para tratar y resolver los asuntos programados y los demás que se l
 
 En los períodos ordinarios, se ocupará del estudio, discusión, dictaminación y votación de todos los asuntos, conforme a esta Constitución y la ley.
 
-> <small>(REFORMADO, D.O. 26 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 28.
 
-El Congreso celebrará el tercer domingo del mes de enero de cada año, una sesión solemne en la cual el Gobernador del Estado deberá comparecer a rendir un informe, por escrito y en formato digital, del estado de la Administración Pública Estatal del período comprendido entre el 1 de enero y el 31 de diciembre del año anterior, el cual deberá guardar congruencia con el Plan Estatal de Desarrollo. El informe deberá contener un apartado que incluya un resumen del mismo en lengua maya. Recibido el informe, el Congreso efectuará la glosa del mismo.
+El Gobernador del Estado presentará al Congreso del Estado, el tercer domingo del mes de enero de cada año, un informe por escrito y en formato digital, del estado de la Administración Pública Estatal del período comprendido entre el 1 de enero y el 31 de diciembre del año anterior, el cual deberá guardar congruencia con el Plan Estatal de Desarrollo. El informe deberá contener un apartado que incluya un resumen del mismo en lengua maya. Recibido el informe, el Congreso efectuará la glosa del mismo.
+
+> <small>(REFORMADO, D.O. 26 DE SEPTIEMBRE DE 2013)</small>
 
 Durante la glosa podrán comparecer los funcionarios de la Administración Pública Estatal que acuerde el Titular del Poder Ejecutivo, previa solicitud del Congreso del Estado; asimismo, los diputados durante el tiempo en que se realice ésta, podrán formular por escrito, preguntas derivadas de las comparecencias a los funcionarios respectivos, una vez concluidas las mismas.
 
-Se exceptúa de lo dispuesto en el primer párrafo, el primer informe que abarcará los 15 primeros meses del ejercicio del cargo, y deberá rendirse el tercer domingo del mes de enero del año posterior al inmediato siguiente al de la entrada en funciones del Gobernador del Estado.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-En el año que corresponda a la renovación ordinaria del Titular del Poder Ejecutivo, el Gobernador del Estado que concluya su período, deberá comparecer al Congreso, el segundo domingo de septiembre, para presentar su último informe.
+Se exceptúa de lo dispuesto en el primer párrafo, el primer informe que abarcará los 15 primeros meses del ejercicio del cargo, y deberá presentarse el tercer domingo del mes de enero del año posterior al inmediato siguiente al de la entrada en funciones del Gobernador del Estado.
 
-El Gobernador del Estado, dentro del informe a que se refiere este artículo, podrá dar respuesta a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, las cuales deberán ser presentadas a más tardar el 15 de diciembre del año anterior y tratándose del último, el 15 de julio o, en su caso, el 31 de agosto, en los términos de la parte final del párrafo segundo del artículo 27. Las preguntas comprenderán exclusivamente asuntos relativos a la Administración Pública del período comprendido en el informe del Ejecutivo. El Presidente del Congreso contestará a dicho informe en términos generales.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+En el año que corresponda a la renovación ordinaria del Titular del Poder Ejecutivo, el Gobernador del Estado que concluya su período, deberá presentar al Congreso, el segundo domingo de septiembre, su último informe.
+
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+El Gobernador del Estado, dentro del informe a que se refiere este artículo, podrá dar respuesta a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, las cuales deberán ser presentadas a más tardar el 15 de diciembre del año anterior y tratándose del último, el 15 de julio o, en su caso, el 31 de agosto, en los términos de la parte final del párrafo segundo del artículo 27. Las preguntas comprenderán exclusivamente asuntos relativos a la Administración Pública del período comprendido en el informe del Ejecutivo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -817,11 +713,7 @@ XIV.- conceder premios y recompensas por servicios eminentes prestados al Estado
 
 XV.- Expedir leyes sobre Educación y Cultura, con sujeción a las bases constitucionales federales y las previstas en esta Constitución;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-XVI.- Designar a los Consejeros Electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, de conformidad con la ley;
+XVI.- (DEROGADA, D.O. 20 DE JUNIO DE 2014)
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
@@ -1293,17 +1185,13 @@ VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas 
 
 IX.- no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+X.- No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Fiscal y Administrativa o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, Consejero de la Judicatura, Diputado local, Regidor o Síndico, a menos que se separe de su cargo 120 días antes de la fecha de la elección;
 
-X.- no ser Magistrado del Tribunal Superior de Justicia o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, Consejero de la Judicatura, Diputado local, Regidor o Síndico, a menos que se separe de su cargo 120 días antes de la fecha de la elección;
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-XI.- no ser Magistrado o Secretario del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, Consejero, Secretario Ejecutivo o sus equivalentes, de los órganos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
+XI.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, Consejero, Secretario Ejecutivo o sus equivalentes, de los órganos electorales locales o nacionales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
 XII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -1605,7 +1493,7 @@ Las ausencias de los servidores públicos y funcionarios del Poder Ejecutivo ser
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
-###### Artículo 62
+###### Artículo 62.
 
 El Ministerio Público es la Institución única e indivisible que representa los intereses de la sociedad, y tiene por objeto dirigir la investigación de los hechos que la ley señale como delitos; ejercitar la acción penal ante los tribunales y adoptar medidas para proteger a las víctimas y testigos, conforme a lo previsto por las leyes correspondientes.
 
@@ -1613,7 +1501,9 @@ La Institución del Ministerio Público, en su carácter de representante de la 
 
 Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado de Yucatán, la cual es una dependencia del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Fiscal General del Estado, quien será su representante legal; y se auxiliará de la policía responsable de la investigación de los delitos, la cual estará bajo su autoridad y mando inmediato, así como de las instancias policiales y de seguridad tanto públicas como privadas, de acuerdo con lo que establezcan las leyes.
 
-El Fiscal General del Estado será designado por el Titular del Ejecutivo del Estado, con ratificación del Congreso del Estado. Para ser Fiscal General del Estado se requiere cubrir los mismos requisitos que para ser Magistrado del Tribunal Superior de Justicia.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+El Fiscal General del Estado será designado por el Titular del Ejecutivo del Estado, con ratificación del Congreso del Estado. Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
 
 El Fiscal General del Estado podrá ser removido por el Ejecutivo en términos de la ley.
 
@@ -1625,9 +1515,7 @@ La Ley de la Fiscalía General del Estado, regulará su integración, estructura
 
 ### CAPITULO I. Del Poder Judicial
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 63.
 
@@ -1667,37 +1555,101 @@ La ley regulará la integración, funcionamiento, competencia y administración 
 
 ###### Artículo 64.
 
-El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de Justicia Electoral y Administrativa, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica.
+El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de Justicia Fiscal y Administrativa, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 La ley establecerá y organizará los Juzgados de Primera Instancia; así mismo, fijará el procedimiento para la designación de los jueces y los requisitos para su permanencia en el cargo.
 
-El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y estará integrado por once Magistrados, quienes tendrán su respectivo suplente para casos de ausencias mayores a tres meses; funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta Constitución y las leyes.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-Las Salas del Tribunal Superior de Justicia podrán ser unitarias o colegiadas, estas últimas estarán integradas por tres Magistrados cada una. Las Salas conocerán de las materias, recursos y procedimientos que establezcan esta Constitución y las leyes respectivas.
+El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y estará integrado por once Magistrados, quienes tendrán su respectivo suplente para casos de ausencias mayores a tres meses; funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes.
+
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+Las Salas del Tribunal Superior de Justicia podrán ser unitarias o colegiadas. Las Salas conocerán de las materias, recursos y procedimientos que establezcan esta constitución y las leyes respectivas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Sus sesiones serán públicas, salvo cuando lo exija la moral o el interés público y en los casos previstos en la ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
 Las resoluciones del Pleno del Tribunal Superior de Justicia serán definitivas e inatacables, por lo que contra ellas no procederá juicio, ni recurso alguno.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El Pleno del Tribunal Superior de Justicia, con la finalidad de realizar una adecuada distribución de los asuntos que le competen a las Salas del Tribunal, estará facultado para expedir acuerdos generales, que deberán ser publicados en el órgano de difusión oficial del Estado para todos los efectos legales que corresponda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
 Cada cuatro años, el Pleno del Tribunal Superior de Justicia elegirá de entre sus miembros al Presidente del Tribunal, quien no integrará Sala y podrá ser reelecto para un período más.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El Presidente del Tribunal Superior de Justicia será el representante legal del Poder Judicial, con las atribuciones que le confiere esta Constitución y la ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
 La ley fijará los términos en que sean obligatorios los criterios que establezcan las Salas y el Pleno del Tribunal Superior de Justicia, sobre la interpretación de esta Constitución, las leyes y reglamentos estatales o municipales, así como los requisitos para su interrupción y modificación, sin contravenir la jurisprudencia de los Tribunales de la Federación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Los Magistrados del Poder Judicial del Estado durarán en el ejercicio de su cargo seis años, contados a partir de la fecha en que rindan el Compromiso Constitucional, al término de los cuales podrán ser ratificados por un segundo período de hasta por nueve años más y durante el ejercicio de su cargo sólo podrán ser removidos en los términos que establezcan esta Constitución y las leyes de responsabilidades de los servidores públicos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
 Al término de los quince años a que se refiere este artículo, los Magistrados del Tribunal Superior de Justicia tendrán derecho a un haber por retiro vitalicio, con base en las percepciones de los Magistrados en activo y conforme lo que establezca la Ley Orgánica del Poder Judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Los Magistrados y Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
 La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia, estará a cargo del Consejo de la Judicatura del Poder Judicial, de conformidad con las bases que establezcan esta Constitución y las leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto al del año anterior y se fijará anualmente, en la forma y términos que establezca la ley.
 
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado es un órgano especializado del Poder Judicial, el cual se integrará con tres Magistrados, tendrá competencia para conocer, resolver y dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública centralizada y paraestatal del Estado y los Municipios, y los particulares, así como de las responsabilidades administrativas en que incurran los servidores públicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+
 El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios es un órgano jurisdiccional del Poder Judicial, que tendrá competencia para resolver los asuntos laborales que surjan entre las autoridades y sus trabajadores, con las atribuciones y la estructura que le confiera la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa para dirimir controversias y los órganos encargados de su aplicación.
 
@@ -1731,9 +1683,11 @@ VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dep
 
 Los Magistrados de la Sala especializada en Justicia para Adolescentes deberán acreditar tener los conocimientos suficientes en la materia.
 
-Los Magistrados del Tribunal de Justicia Electoral y Administrativa deberán acreditar experiencia y conocimientos en materias electoral y administrativa y no ser, ni haber sido dirigentes en los órganos nacionales, estatales o municipales, de algún partido político, durante los 3 años previos al de la elección, en términos de lo previsto en la Ley de la materia.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
 
-Los Magistrados del Tribunal de los Trabajadores al Servicio del Estado y Municipios deberán acreditar experiencia y conocimientos en materia laboral, en términos de lo previsto en la Ley de la materia.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+Los Magistrados del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de los Trabajadores al Servicio del Estado y Municipios deberán acreditar experiencia y conocimientos en la materia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -1745,7 +1699,7 @@ Las propuestas para ocupar el cargo de Magistrado del Poder Judicial deberán co
 
 El titular del Poder Ejecutivo formulará una terna que enviará al Congreso del Estado para que, una vez analizadas las propuestas y dentro del plazo de treinta días naturales, proceda a designar a un Magistrado con el voto de la mayoría de los miembros presentes en la sesión.
 
-En el caso de los Magistrados del Tribunal de Justicia Electoral y Administrativa deberán provenir de propuestas de Universidades y asociaciones de profesionistas del Derecho, en términos de lo previsto en la Ley de la materia.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
 
 Los Magistrados podrán ser ratificados por el Congreso del Estado, siempre que durante su ejercicio en el cargo hayan actuado con apego a los principios que rigen la función judicial.
 
@@ -1781,11 +1735,7 @@ Los impedimentos previstos en este artículo serán aplicables a los servidores 
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO V. Del Tribunal de Justicia Electoral y Administrativa
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+### CAPITULO V
 
 ###### Artículo 69.
 
@@ -1869,9 +1819,7 @@ Las decisiones del Pleno del Tribunal Superior de Justicia, adoptadas por medio 
 
 La ley determinará los procedimientos para la substanciación de las Cuestiones de Control Previo de Constitucionalidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
 
 ### CAPITULO VII. De las Disposiciones Generales
 
@@ -1881,23 +1829,15 @@ La ley determinará los procedimientos para la substanciación de las Cuestiones
 
 ###### Artículo 71.
 
-El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado es un órgano especializado del Poder Judicial, el cual se integrará con tres Magistrados, tendrá competencia para conocer y resolver los procedimientos, juicios e impugnaciones que se presenten contra actos y omisiones en materia electoral, en los términos que señale la ley; dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y paraestatal del Estado y los Municipios, y los particulares, así como de las responsabilidades administrativas en que incurran los servidores públicos.
-
-El Tribunal de Justicia Electoral y Administrativa contará con plena autonomía en el dictado de sus resoluciones, las cuales serán definitivas e inatacables; su organización y funcionamiento se establecerá en la Ley Orgánica del Poder Judicial.
-
-Los Magistrados del Tribunal de Justicia Electoral y Administrativa deberán cumplir los mismos requisitos que los Magistrados del Tribunal Superior de Justicia, además de los previstos en el párrafo tercero del artículo 65 de esta Constitución.
-
-La administración, vigilancia y disciplina en el Tribunal de Justicia Electoral y Administrativa corresponderá, en los términos que señale la ley, a una Comisión del Consejo de la Judicatura, el cual se integrará por el Presidente del Tribunal de Justicia Electoral y Administrativa quien la presidirá y dos miembros del Consejo de la Judicatura.
-
-El Tribunal de Justicia Electoral y Administrativa propondrá su presupuesto al Presidente del Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial. Asimismo, dicho Tribunal expedirá su Reglamento Interno y los acuerdos generales necesarios para su adecuado funcionamiento.
+(DEROGADO, D.O. 20 DE JUNIO DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPÍTULO I. De la Protección de los Derechos Humanos
+### CAPÍTULO I. De las Disposiciones Generales
 
-> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 72.
 
@@ -1945,11 +1885,9 @@ El Consejo de la Judicatura elaborará el presupuesto del Poder Judicial, el cua
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPÍTULO II. Del Acceso a la Información Pública y de la Protección de los Datos Personales
+### CAPÍTULO II. De la Comisión de Derechos Humanos del Estado de Yucatán
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
 
 ###### Artículo 73.
 
@@ -1991,13 +1929,33 @@ El internamiento se utilizará como medida extrema, en el menor tiempo posible, 
 
 ## TITULO SEPTIMO. De los Organismos Autónomos
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO III. De las Disposiciones Generales
+### CAPÍTULO III. Del Instituto Estatal de Acceso a la Información Pública
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+
+###### Artículo 73 Ter.
+
+Son organismos constitucionales autónomos del Estado de Yucatán:
+
+I.- La Comisión de Derechos Humanos del Estado de Yucatán;
+
+II.- El Instituto Estatal de Acceso a la Información Pública;
+
+III.- El Instituto Electoral y de Participación Ciudadana de Yucatán, y
+
+IV.- El Tribunal Electoral del Estado de Yucatán.
+
+Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo, rendirán informe de su cuenta pública en los términos que señale la ley en la materia.
+
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO IV. Del Instituto Electoral y de Participación Ciudadana de Yucatán
+
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 74.
 
@@ -2011,9 +1969,11 @@ La Comisión de Derechos Humanos del Estado de Yucatán estará facultada para c
 
 Todo servidor público del Estado de Yucatán está obligado a responder las recomendaciones que le presente la Comisión de Derechos Humanos del Estado de Yucatán. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado de Yucatán o, en sus recesos, la Diputación Permanente, podrá requerir, a solicitud de la Comisión de Derechos Humanos del Estado de Yucatán, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-(REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O. 17 DE MAYO DE 2010)
+### CAPÍTULO V. Del Tribunal Electoral del Estado de Yucatán
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 75.
 
@@ -2023,19 +1983,37 @@ El Instituto Estatal de Acceso a la Información Pública, tendrá un Consejo Ge
 
 La Ley determinará el procedimiento de designación de los Consejeros y del Secretario Ejecutivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 75 Bis.
 
-Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo; rendirán informe de su cuenta pública en los términos que señale la Ley en la materia.
+El Instituto Electoral y de Participación Ciudadana de Yucatán es un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio; autoridad en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño; en cuya integración participan el Instituto Nacional Electoral, los partidos políticos y los ciudadanos, en términos de ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+El Instituto Electoral y de Participación Ciudadana de Yucatán contará con un Consejo General, que será su órgano de dirección superior, integrado por siete consejeros electorales, con derecho a voz y voto, uno de los cuales tendrá el carácter de Presidente; y concurrirán, únicamente con derecho a voz, los representantes de los partidos políticos y un Secretario Ejecutivo. Los consejeros electorales durarán en su cargo siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
+
+Los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos en la ley.
+
+Los consejeros electorales y demás servidores públicos del Instituto Electoral y de Participación Ciudadana de Yucatán, que determine la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+Para el ejercicio de sus funciones, el Instituto Electoral y de Participación Ciudadana de Yucatán contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
+
+El Instituto Electoral y de Participación Ciudadana de Yucatán contará con una Contraloría dotada de autonomía técnica y de gestión, encargada de fiscalizar todos sus ingresos y egresos. Su titular será designado por el Congreso del Estado por el voto de las dos terceras partes de sus integrantes a propuesta de instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales debidamente registrados, en la forma y términos que determine la ley. Durará seis años en el cargo y no podrá ser reelecto.
+
+El Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán podrá convenir con el Instituto Nacional Electoral para que este se haga cargo de la organización de los procesos electorales locales, en los términos que disponga la legislación aplicable.
+
+La ley determinará las bases del servicio profesional electoral nacional y las relaciones laborales de los servidores públicos del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+El plebiscito, el referéndum y la iniciativa popular son mecanismos de participación ciudadana. Su organización, desarrollo, cómputo y declaración de los resultados es una función estatal que corresponde al Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 75 Ter.
 
-(DEROGADO, D.O. 17 DE MAYO DE 2010)
+El Tribunal Electoral del Estado de Yucatán es un organismo público, autónomo e independiente en sus decisiones, máxima autoridad jurisdiccional en la materia y órgano especializado, competente para conocer y resolver los procedimientos, juicios e impugnaciones que se presenten contra actos y omisiones en materia electoral, cuyas funciones deben cumplirse bajo los principios de certeza, imparcialidad, independencia, objetividad, legalidad, máxima publicidad y probidad; para su adecuado funcionamiento, contará con el personal jurídico y administrativo necesario.
+
+El Tribunal Electoral del Estado de Yucatán funcionará en Pleno, se integrará por tres magistrados quienes serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, durarán en su cargo siete años.
+
+El Magistrado Presidente será designado de entre sus integrantes, por la votación mayoritaria de los magistrados electorales, de conformidad con el procedimiento que establezca la ley respectiva.
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -2065,7 +2043,9 @@ Los municipios se organizarán administrativa y políticamente, conforme a las b
 
 Primera.- Los ayuntamientos entrarán en funciones, el 1 de septiembre inmediato a su elección, y durarán en su encargo tres años.
 
-Segunda.- El Presidente Municipal, los regidores y el síndico, no podrán ser reelectos para el período constitucional inmediato. La misma prohibición aplica para los integrantes de los Concejos Municipales.
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+
+Segunda.- El PresidenteMunicipal (sic), los regidores y el síndico, podrán ser reelectos para un período constitucional adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley.
 
 Tercera.- El primer regidor de la lista de candidatos electos por el principio de mayoría relativa, tendrá el carácter de Presidente Municipal, el cual será el órgano ejecutivo y político del Ayuntamiento y el segundo, tendrá el carácter de Síndico. Todos los regidores desempeñarán las funciones que la ley respectiva les señale.
 
@@ -2131,15 +2111,13 @@ VI.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de 
 
 VII.- No haber sido sentenciado, por la comisión de delito doloso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
-
-VIII.- No ser Magistrado o Secretario del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, ni Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separe de sus funciones 3 años antes de la fecha de la elección;
+VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, ni Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o nacionales, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
 
 IX.- No ser Consejero ciudadano electoral, local o federal, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
 
-X.- Estar inscrito en el Registro Federal del Electores y contar con Credencial para Votar vigente.
+X.- Estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
 
 Los cargos de Presidente Municipal y Síndico son incompatibles con cualquier otro u otra, comisión o empleo público del Estado o la Federación, y
 
@@ -2639,7 +2617,9 @@ Los servidores públicos del Estado y de los municipios, tienen en todo tiempo l
 
 Todo servidor público es responsable por la comisión de delitos en el ejercicio de su encargo.
 
-Para proceder penalmente en contra del Gobernador del Estado, los Diputados locales en funciones, los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Titulares y Consejeros de los Organismos Autónomos, con excepción de los consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán, los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales, es necesario la declaración de procedencia que emita el Congreso del Estado.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+
+Para proceder penalmente en contra del Gobernador del Estado; los Diputados locales en funciones; los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado; los Magistrados del Tribunal Electoral del Estado de Yucatán; los Titulares y Consejeros de los Organismos Autónomos, con excepción de los consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán; los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales, es necesario la declaración de procedencia que emita el Congreso del Estado.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -2661,13 +2641,11 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 Cualquier ciudadano, bajo su responsabilidad y mediante la presentación de pruebas, podrá formular denuncia, ante el Congreso del Estado, respecto de las conductas a que se refiere este título.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 99.
 
-Podrán ser sujetos a Juicio Político los Diputados locales en funciones, los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Titulares y Consejeros de los Organismos Autónomos, con excepción de los consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán, los Titulares de las Dependencias y los Directores Generales o equivalentes de las Entidades Paraestatales de la Administración Pública y los Presidentes Municipales.
+Podrán ser sujetos a Juicio Político los Diputados locales en funciones; los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado; los Titulares y Consejeros de los Organismos Autónomos, con excepción de los Consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán y los Consejeros del Instituto Electoral y de Participación Ciudadana de Yucatán; los Titulares de las Dependencias y los Directores Generales o equivalentes de las Entidades Paraestatales de la Administración Pública; y, los Presidentes Municipales.
 
 > <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -2687,13 +2665,11 @@ Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la
 
 Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 100.
 
-El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente contra los Diputados locales en funciones, los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Titulares y Consejeros de los Organismos Autónomos, con excepción de los consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán, los Titulares de las Dependencias y los Directores Generales o equivalentes de las Entidades Paraestatales de la Administración Pública Estatal y los Presidentes Municipales, por la comisión de delitos durante su encargo.
+El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente contra los Diputados locales en funciones; los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado; los Magistrados del Tribunal Electoral del Estado de Yucatán; los Titulares y Consejeros de los Organismos Autónomos, con excepción de los consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Yucatán; los Titulares de las Dependencias y los Directores Generales o equivalentes de las Entidades Paraestatales de la Administración Pública Estatal; y, los Presidentes Municipales, por la comisión de delitos durante su encargo.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -4036,3 +4012,61 @@ El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
+
+D.O. 20 DE JUNIO DE 2014.
+
+DECRETO 195/2014, POR EL QUE SE MODIFICAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN EN MATERIA ELECTORAL.
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. El Congreso del Estado deberá expedir las leyes y reformas a la legislación estatal con motivo de la entrada en vigor de este Decreto, a más tardar el 30 de junio del año en curso.
+
+Artículo tercero. La reelección de diputados del Congreso local no será aplicable para aquellos que se encuentren en funciones a la entrada en vigor de este decreto.
+
+Artículo cuarto. La reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el ayuntamiento que se encuentre en funciones a la entrada en vigor de este decreto.
+
+Artículo quinto. Los actuales consejeros electorales del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, continuarán en su encargo hasta en tanto se realicen las designaciones de los nuevos consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán, en términos de lo dispuesto por el artículo transitorio noveno del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político electoral, publicado el 10 de febrero de 2014 en el Diario Oficial de la Federación.
+
+En lo sucesivo, cuando en alguna norma se haga referencia al Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, se entenderá por el Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+Artículo sexto. El Consejero Presidente del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán que se encuentre en funciones a la entrada en vigor de este Decreto, asumirá el cargo de Presidente del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+Artículo séptimo. A partir de la entrada en vigor de este decreto, el patrimonio del Instituto de Procedimientos Electorales y Participación Ciudadana, lo será en su integridad del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+Artículo octavo. Los acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos, pendientes y en trámite en el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, que se encuentren bajo cualquier concepto, se transferirán y quedarán a cargo del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+Los derechos laborales de los servidores públicos y empleados del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán quedarán a salvo con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+
+Artículo noveno. Con objeto de no afectar derechos adquiridos con anterioridad al presente Decreto, los Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que hasta antes de la entrada en vigor de este Decreto se desempeñaban como tales, continuarán como Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado a partir de la entrada en vigor de este Decreto y concluirán sus cargos en los términos del Decreto de su nombramiento respectivo.
+
+Los Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, a partir de la entrada en vigor de este Decreto, continuarán ejerciendo su competencia en materia electoral hasta en tanto el Senado de la República realice los nombramientos de los nuevos Magistrados del Tribunal Electoral del Estado de Yucatán, en los términos previstos por la fracción IV, inciso c), del artículo 116 y del artículo transitorio décimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político electoral, publicado el 10 de febrero de 2014 en el Diario Oficial de la Federación.
+
+Artículo décimo. El Presidente del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado de Yucatán que se encuentre en funciones a la entrada en vigor de este Decreto, asumirá el cargo de Presidente del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, hasta finalizar el período para el que fue elegido.
+
+Artículo décimo primero. Los acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos, pendientes y en trámite en materia administrativa, que se encuentren bajo cualquier concepto en el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, se transferirán y quedarán a cargo del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, a partir de la entrada en vigor de este Decreto.
+
+Artículo décimo segundo. Los acuerdos, convenios, así como los asuntos, expedientes, medios de impugnación y demás actos jurídicos pendientes y en trámite en materia Electoral, que se encuentren bajo cualquier concepto en el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, se transferirán y quedarán a cargo del Tribunal Electoral del Estado de Yucatán, a partir de la entrada en vigor de este Decreto, en los términos de lo dispuesto en el segundo párrafo del artículo noveno transitorio de este Decreto.
+
+Artículo décimo tercero. Quedarán a salvo los derechos laborales de los servidores públicos y empleados del entonces Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+
+Artículo décimo cuarto. A partir de la entrada en vigor de este Decreto, los servidores públicos y empleados del entonces Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que pertenecían al Tribunal Contencioso Administrativo hasta antes de su incorporación al Poder Judicial, por disposición del decreto 341 publicado en el Diario Oficial del Gobierno del Estado de fecha 24 de noviembre de 2010, pasarán a formar parte del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
+
+Artículo décimo quinto. A partir de la entrada en vigor de este Decreto, los servidores públicos y empleados del entonces Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que pertenecían al Tribunal Electoral del Estado hasta antes de su incorporación al Poder Judicial, por disposición del decreto 341 publicado en el Diario Oficial del Gobierno del Estado de fecha 24 de noviembre de 2010, pasarán a formar parte del nuevo Tribunal Electoral del Estado de Yucatán, creado mediante este Decreto. Asimismo, los sueldos y prestaciones laborales de estos servidores públicos y empleados, se generarán del Presupuesto asignado al entonces Tribunal de Justicia Electoral y Administrativa del Poder Judicial, hasta en tanto sea asignada la partida presupuestal del nuevo Tribunal Electoral del Estado de Yucatán.
+
+Los Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que hasta antes de la entrada en vigor de este Decreto se desempeñaban como tales, y que continuarán como Magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado a partir de la entrada en vigor de este Decreto, deberán realizar las acciones necesarias a fin de salvaguardar la debida conformación administrativa del nuevo Tribunal Electoral del Estado de Yucatán conforme a este Decreto y a la Ley.
+
+Artículo décimo sexto. A partir de la entrada en vigor de este Decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Tribunal de justicia Electoral y Administrativa del Poder Judicial del Estado de Yucatán pasarán al dominio y uso del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Artículo décimo séptimo. Los Magistrados del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, que hasta antes de la entrada en vigor de este Decreto se desempeñaban como tales, y que continuarán como Magistrados del Tribunal de Justicia Fiscal y. Administrativa del Poder Judicial del Estado a partir de la entrada en vigor de este Decreto, deberán realizar las acciones necesarias a fin de presupuestar lo necesario para el funcionamiento del Tribunal Electoral del Estado de Yucatán para el año 2014 y deberán solicitar al Poder Ejecutivo del Estado, la asignación presupuestaria que sea necesaria para el cumplimiento de las disposiciones establecidas en este Decreto.
+
+Artículo décimo octavo. Quedan exentos el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán, el Tribunal Electoral del Estado de Yucatán y el Instituto Electoral y de Participación Ciudadana de Yucatán, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados en el proceso de regulación de los bienes y/o servicios relacionados con motivo de la entrada en vigor de este Decreto.
+
+Artículo décimo noveno. La celebración de elecciones locales tendrá lugar el primer domingo de junio del año que corresponda, en los términos de esta constitución, a partir del 2015, salvo aquella que se verifique en el año 2018, la cual se llevará a cabo el primer domingo de julio.
+
+Artículo vigésimo. Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
+
+D.O. 20 DE JUNIO DE 2014.
+
+DECRETO 196/2014, POR EL QUE SE REFORMAN LOS ARTÍCULOS 28 PÁRRAFOS PRIMERO, TERCERO, CUARTO Y QUINTO, Y 62 PÁRRAFO CUARTO, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN.
+
+Artículo Único.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
