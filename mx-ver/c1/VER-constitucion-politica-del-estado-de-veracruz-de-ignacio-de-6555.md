@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2013-08-29"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JUNIO DE 2014.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -229,7 +229,9 @@ Son veracruzanos:
 
 I. Los nacidos en el territorio del Estado; y
 
-II. Los hijos de padre o madre nativos del Estado, nacidos dentro del territorio nacional.
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+II. Los hijos de padre o madre nativos del Estado, nacidos en el territorio nacional o en el extranjero.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -2702,3 +2704,9 @@ G.O. 29 DE AGOSTO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 20 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
