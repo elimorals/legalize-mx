@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2014-05-09"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JUNIO DE 2014.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2723,7 +2723,7 @@ ARTICULO 323 Sextus.- Los integrantes de la familia que incurran en violencia fa
 
 En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refiere la fracción VII del artículo 282 de este Código.
 
-> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2014)</small>
+(ADICIONADO, G.O. 9 DE MAYO DE 2014) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 ACTAVUS], G.O. 9 DE MAYO DE 2014)
 
 ARTICULO 323 Septimus.- Comete violencia familiar el integrante de la familia que transforma la conciencia de un menor con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
 
@@ -13005,21 +13005,31 @@ Las certificaciones a que se refiere el párrafo anterior no podrán ser denegad
 
 ARTICULO 3,002.- La Ley Registral establecerá los requisitos necesarios para desempeñar el cargo del titular del Registro Público y de los registradores.
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JUNIO DE 2014)</small>
 
-ARTICULO 3,003.- Quienes desempeñen la función registral, además de las penas que les sean aplicables por los delitos en que puedan incurrir y de la responsabilidad administrativa que les resulte, responderán también civilmente de los daños y perjuicios a que dieren lugar, cuando:
+ARTICULO 3,003.- Son obligaciones de quienes desempeñan la función registral, las siguientes:
 
-I.- Rehúsen admitir el título, o no practiquen los asientos de presentación de avisos preventivos o de avisos de otorgamiento a que se refiere el artículo 3016 de este Código, por el orden de presentación de los documentos;
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
 
-II.- Practiquen algún asiento indebidamente, rehúsen practicarlo o no lo practiquen en los plazos señalados en el presente Código o en la Ley Registral;
+I.- Admitir el título, y practicar los asientos de presentación de avisos preventivos o de avisos de otorgamiento a que se refiere el artículo 3016 de este Código, por orden de presentación de los documentos, salvo que exista motivo fundado que lo impida.
 
-III.- Denieguen o suspendan algún asiento sin fundarlo y motivarlo debidamente, y en el supuesto previsto en el segundo párrafo del artículo 3022 del presente Código;
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
 
-IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los documentos que expidan, o no practiquen las rectificaciones o reposiciones de asientos, en los términos de las disposiciones legales aplicables; y
+II.- Practicar los asientos que le sean solicitados en los plazos señalados en el presente; o en su caso denegar o suspender la inscripción de un documento.
 
-V.- No expidan los certificados en los plazos fijados en el presente Código o en la Ley Registral.
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
 
-En los supuestos establecidos en este artículo se deberá observar lo dispuesto en el artículo 1927 del presente ordenamiento.
+III.- Expedir los certificados en los plazos fijados en el presente Código o en la Ley Registral, salvo que exista motivo fundado que lo impida.
+
+IV.- (DEROGADA, G.O. 20 DE JUNIO DE 2014)
+
+V.- (DEROGADA, G.O. 20 DE JUNIO DE 2014)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 20 DE JUNIO DE 2014)</small>
+
+Para quienes desempeñen la función registral de manera indebida, se deberá observar lo dispuesto en el título quinto, capítulo único de la Ley Registral para el Distrito Federal.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 20 DE JUNIO DE 2014)</small>
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -13075,7 +13085,15 @@ ARTICULO 3,010.- El derecho registrado se presume que existe y que pertenece a s
 
 No podrá ejercitarse acción contradictoria del dominio del inmueble o derechos reales sobre el mismo o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que previa o concomitantemente, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
 
-En el caso de cualquier procedimiento judicial o administrativo en el que se afecten bienes, derechos reales sobre los mismos o sus frutos, tal afectación quedará sin efecto, una vez que conste manifestación auténtica del Registro Público, que indique que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se dictó la ejecución, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece como titular en el Registro Público.
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+En el caso de cualquier procedimiento judicial o administrativo en el que se pretenda afectar o se afecten bienes, derechos reales sobre los mismos o sus frutos, tal afectación quedará sin efecto, una vez que conste manifestación auténtica del Registro Público, que indique que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se dictó la ejecución y también quedará sin efecto, si hay nota de presentación de aviso preventivo y/o aviso de otorgamiento en términos del artículo 3016 del presente Código y/o la anotación preventiva a que se refiere la fracción V del artículo 3043 de este Código, a no ser que se hubiere dirigido contra esa persona la acción, como causahabiente del que aparece como titular en el Registro Público.
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Si a pesar de la manifestación del Registro a que se refiere el párrafo anterior, la autoridad judicial o administrativa insiste en que se cumpla su mandamiento, se procederá conforme lo ordenado, tomándose razón en el asiento correspondiente, sin responsabilidad para el Registrador. En este último supuesto, el interesado podrá acreditar su interés en el procedimiento correspondiente y una vez que obtenga resolución favorable, la autoridad administrativa o judicial deberá ordenar la desafectación.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
 
 Todo lo inscrito o anotado goza de la presunción de autenticidad, veracidad, legalidad y exactitud, debiendo tomarse en cuenta lo dispuesto en el artículo 3014 de este Código.
 
@@ -13091,9 +13109,17 @@ Cualquiera de los cónyuges u otro interesado tienen derecho a pedir la inscripc
 
 No será necesario inscribir el régimen de sociedad conyugal cuando los documentos presentados los otorgue el titular registral y en los mismos se haga constar su comparecencia independientemente de la autorización o consentimiento de su cónyuge.
 
-Se requiere la inscripción del régimen de sociedad conyugal únicamente cuando por causa de muerte comparezca el cónyuge del titular registral o su sucesión para disponer de los bienes registrados.
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
 
-La solicitud de inscripción deberá hacerse de manera expresa, anexando el pago de derechos correspondientes y copia certificada o su reproducción auténtica del acta de matrimonio.
+Se requiere la inscripción del régimen de sociedad conyugal únicamente cuando por causa de muerte, divorcio o cambio de régimen patrimonial, comparezca el cónyuge del titular registral o su sucesión para disponer de los bienes registrados.
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+La solicitud de inscripción deberá hacerse de manera expresa, anexando copia certificada o su reproducción auténtica del acta de matrimonio, así como el correspondiente pago de derechos.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Cuando exista un documento ingresado que requiera del previo registro de un régimen de sociedad conyugal, la solicitud se ingresará al Registro señalándose por el interesado, como trámites de vinculación directa con número de entrada y trámite propio para remitirse al área donde se encuentre el documento al que esté vinculado.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -13119,13 +13145,23 @@ ARTICULO 3,015.- La prelación entre los diversos documentos ingresados al Regis
 
 ARTICULO 3,016.- Cuando vaya a otorgarse una escritura en la que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, deberá solicitar al Registro Público certificado sobre la existencia o inexistencia de gravámenes o anotaciones en relación con la misma y del titular o titulares registrales. El Registro entregará dicho certificado, en un plazo máximo de siete días. En dicha solicitud, que surtirá efectos de aviso preventivo, deberá mencionarse la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esa solicitud y sin cobro de derechos por este concepto, practicará inmediatamente la nota de presentación correspondiente a dicho aviso preventivo, en el folio relativo, asiento que tendrá vigencia por un término de sesenta días naturales a partir de la fecha de presentación de la solicitud.
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó, dará aviso de otorgamiento acerca de la operación de que se trate al Registro Público, dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso de otorgamiento citado, sin cobro de derecho alguno, ni calificación, practicará de inmediato la nota de presentación correspondiente. Ésta tendrá una vigencia de noventa días naturales contados a partir de la fecha de presentación del aviso de otorgamiento. Si este aviso se da dentro del término de sesenta días a que se contrae el párrafo anterior, sus efectos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que haya sido presentado y según el número de entrada que le corresponda. La presentación del aviso de otorgamiento podrá ser sustituida por la presentación física del testimonio del instrumento o por la presentación electrónica de formato precodificado con copia certificada electrónica.
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó dará aviso de otorgamiento acerca de la operación de que se trate al Registro Público y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El Registrador, con el aviso de otorgamiento citado, sin cobro de derecho alguno, practicará de inmediato la nota de presentación correspondiente. Ésta tendrá una vigencia de noventa días naturales contados a partir de la fecha de presentación del aviso de otorgamiento. Si este aviso se da dentro del plazo de sesenta días a que se contrae el párrafo anterior, sus efectos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que haya sido presentado y según el número de entrada que le corresponda.
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+La presentación del aviso de otorgamiento podrá ser sustituida por la presentación física del testimonio del instrumento o por la presentación electrónica del formato precodificado con copia certificada electrónica, caso en el cual surtirá los efectos que para el aviso de otorgamiento prevé este artículo, siempre y cuando la presentación se haga dentro del plazo de los sesenta días a que se refiere este párrafo.
 
 Si el testimonio respectivo o formato precodificado con copia certificada electrónica se presentaren al Registro Público dentro de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso preventivo y con arreglo a su número de entrada. Si el aviso de otorgamiento o el testimonio, formato precodificado con copia certificada electrónica se presentaren fenecidos los referidos plazos, su anotación o inscripción sólo surtirá efectos contra terceros desde la fecha de su respectiva presentación.
 
 Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso de otorgamiento, con vigencia por noventa días, el notario o el juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso de otorgamiento surtirá los mismos efectos que el dado por los notarios en el supuesto previsto en el segundo párrafo del presente artículo. Si el contrato se ratificara ante el registrador, éste deberá practicar en la misma fecha la anotación correspondiente.
 
 Los avisos notariales a que se refiere el presente artículo podrán entregarse por vía electrónica, debiendo de inmediato generarse y enviarse por la misma vía acuse de recibo.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Para el caso de que el aviso de otorgamiento a que se refiere este artículo, no coincida en alguno o varios datos con los que constan en el folio real, el registrador deberá publicar que se encuentra detenido para aclaración, informando de manera detallada, en el Boletín Registral las inconsistencias de que se trate, a fin de que el Notario o Autoridad, en un plazo de cinco días hábiles, contados a partir del día siguiente al de la publicación mencionada, presente, mediante sub-número, escrito de aclaración, de tal modo que no se rechace la anotación del aviso de otorgamiento que ha sido aclarado y se tome como número y fecha de prelación, la que corresponda al aviso de otorgamiento aclarado.
 
 > <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
 
@@ -13171,21 +13207,39 @@ III. En el documento conste acreditada la identidad, capacidad y legitimación d
 
 IV. Exista identidad entre el bien previamente inscrito y el descrito en el título. No habrá falta de identidad cuando no coincida la descripción en uno o algunos de los datos, si de los demás elementos comparados se desprende dicha identidad;
 
-V. No haya incompatibilidad entre el texto del documento y los asientos del registro, conforme a lo previsto por el artículo 3020 de este Código;
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+V. No haya incompatibilidad entre el texto del documento y los asientos regístrales; no se considerará incompatibilidad entre el texto del documento en relación con lo registrado en el antecedente registral sobre el cual se solicite su inscripción, cuando sea posible acreditar con los elementos aportados en el documento o los ingresados mediante subnúmero, su identidad con los asientos que constan en el Registro Público de la Propiedad del Distrito Federal, como pueden ser los otorgantes del acto jurídico, el inmueble sobre el que recae la operación o del gravamen sobre el cual se solicita su cancelación, modificación o ampliación, en cuyo caso se deberá continuar con el Procedimiento Registral.
+
+La incompatibilidad sólo tendrá lugar cuando los derechos de que se trate no puedan coexistir. No existirá incompatibilidad cuando se trate de una inexactitud por error material; sin embargo, cuando se aporten elementos, con los cuales sea posible realizar la rectificación correspondiente, los mismos serán ingresados por subnúmero para que el mismo Registrador que califique el documento, continúe con la calificación y él mismo, solicite a la Subdirección de Ventanilla Única y Control de Gestión que proporcione un número de entrada;
 
 VI. Esté fijada la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 3011 del presente Ordenamiento, cuando se den las bases para determinar el monto de la obligación garantizada;
 
 VII. En el acto consignado en el instrumento se observe el tracto sucesivo en los términos del artículo 3019 de este Código;
 
-VIII. El documento cumpla con los requisitos que deba llenar de acuerdo con el Código u otras leyes aplicables, como indispensables para su inscripción; y
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+VIII. El documento cumpla con los requisitos que deba llenar de acuerdo con el Código u otras leyes aplicables, como indispensables para su inscripción;
 
 IX. No haya operado el cierre de registro, en términos del artículo 3044 segundo párrafo del presente Ordenamiento;
+
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+X. En el caso de anotaciones preventivas tales como embargo, fianza o anotación de demanda, si ya caducaron, verificará que conste en el documento solicitud de cancelación del interesado y si no consta, el Registrador estará a lo dispuesto por el artículo 43 de la Ley Registral; y
+
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+XI. En el caso de anotaciones preventivas tales como embargo, fianza o anotación de demanda, que aún no hayan caducado, verificará que conste en el documento su reconocimiento por las partes y si no consta, el Registrador estará a lo dispuesto por el artículo 43 de la Ley Registral.
 
 Verificado lo anterior, el registrador deberá realizar la anotación o inscripción dentro del plazo mencionado en el artículo anterior.
 
 Los registradores no podrán exigir otros datos, requisitos e información que la necesaria para el llenado del formato precodificado.
 
 Lo dispuesto en este artículo no es aplicable a los avisos de otorgamiento a que se refiere el artículo 3016 de este Código.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+En el caso de errores ortográficos, tipográficos, inversión del orden u omisión de letras dentro de una misma palabra, que aparezcan entre el documento y los asientos registrales, estos no serán causa o motivo para suspender o negar la migración, la inscripción o la anotación solicitada, caso en el cual, el registrador practicará la inscripción o anotación, debiendo señalar lo anterior en la constancia de finalización de trámite, sin que exista responsabilidad de su parte.
 
 > <small>(ADICIONADO, G.O. 23 DE JULIO DE 2012)</small>
 
@@ -13216,6 +13270,26 @@ ARTICULO 3,023.- La rectificación de los asientos por causa de error material o
 > <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
 
 ARTICULO 3,024.- Se entenderá que se comete error material cuando se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoque cualquier otro dato que deba contener la inscripción, conforme a lo dispuesto en este Código y a la Ley Registral, sin cambiar por ello el sentido general de la inscripción ni de alguno de sus conceptos.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Los errores materiales se podrán rectificar con vista en el testimonio que se presentó para la inscripción correspondiente, testimonio ulterior del instrumento que dio origen al asiento a rectificar, o bien copia certificada de la escritura.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Asimismo los errores podrán rectificarse de oficio o a petición del interesado, Notario o Autoridad, cuando se cuente con respaldos en el sistema informático registral, incluyendo imágenes digitalizadas y microfichas legibles, legajos o con el texto de la inscripción con las que los asientos erróneos estén relacionados.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Cuando el Registrador cuente con todos los elementos para realizar la rectificación solicitada, procederá a efectuarla en un plazo de veinte días hábiles.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Para el caso de que sea negada (sic) solicitud de rectificación de errores a que se refiere este artículo, el Registrador deberá publicar, de manera detallada, en el Boletín Registral los motivos de la negativa, a fin de que el interesado, Notario o Autoridad, en un plazo de cinco días hábiles, contados a partir del día siguiente al de la publicación mencionada, presente, mediante sub-número, escrito de aclaración, el cual será valorado con los documentos con que se cuenten al negar la solicitud.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Cuando exista un documento ingresado que requiera del previo registro de una rectificación, reposición o inscripción de régimen de sociedad conyugal, éstos se ingresarán al Registro señalándose por el interesado, como trámites de vinculación directa con número de entrada y trámite propio para remitirse al área donde se encuentre el documento al que estén vinculados.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -13287,11 +13361,15 @@ VI.- Cuando tratándose de cédula hipotecaria o de embargo, hayan transcurrido 
 
 > <small>(ADICIONADO, G.O. 23 DE JULIO DE 2012)</small>
 
-Tratándose de cancelaciones de hipotecas, se consideraran accesorias a las mismas y en consecuencia deberán cancelarse simultáneamente de oficio, aún cuando no hayan sido mencionadas expresamente en el instrumento correspondiente, los asientos que contengan cédulas hipotecarias, reestructuras, ampliaciones o modificaciones a las mismas; y
+Tratándose de cancelaciones de hipotecas, se consideraran accesorias a las mismas y en consecuencia deberán cancelarse simultáneamente de oficio, aún cuando no hayan sido mencionadas expresamente en el instrumento correspondiente, los asientos que contengan cédulas hipotecarias, reestructuras, ampliaciones o modificaciones a las mismas; y (sic)
 
-> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
 
-VII.- Los gravámenes inscritos en el Registro Público, cuyo asiento exceda de 20 años, podrán cancelarse a solicitud de parte interesada, mediante escrito dirigido al titular del Registro Público de la Propiedad y de Comercio, previo pago de los derechos correspondientes.
+VII. Los gravámenes inscritos en el Registro Público, podrán cancelarse a solicitud de interesado, Notario o Autoridad, mediante escrito dirigido al Titular del Registro Público de la Propiedad del Distrito Federal, previo pago de los derechos correspondientes, después de que hubieren transcurrido diez años del vencimiento del plazo del crédito garantizado, que conste inscrito o anotado; para el caso de que no conste inscrito o anotado el plazo del crédito, podrán cancelarse después de veinte años de la fecha de su inscripción o anotación y bajo la misma forma y previo pago de los derechos mencionados; y
+
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+VIII. Los contratos de arrendamiento de parte o la totalidad de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipo de rentas por más de tres años, una vez que hayan transcurrido los periodos mencionados y que aparezcan inscritos o anotados y cuando por cualquier causa no conste inscrito o anotado plazo o periodo alguno, después de seis años de su fecha de inscripción o anotación; en estos casos la cancelación podrá ser solicitada por cualquier interesado, notario o autoridad.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -14456,3 +14534,17 @@ G.O. 9 DE MAYO DE 2014.
 PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 20 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor publicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- El Jefe de Gobierno deberá realizar las adecuaciones necesarias al Reglamento de la Ley Registral y del Registro Público de la Propiedad y de Comercio del Distrito Federal, en un plazo de sesenta días hábiles que se contarán a partir del día de su publicación.
+
+QUINTO.- El proceso registral en curso, deberá ajustarse a las disposiciones del presente Decreto.
+
+SEXTO.- Los recursos en trámite a la entrada en vigor del presente Decreto se acogerán a las disposiciones del mismo, en lo que beneficie al usuario del servicio registral.
