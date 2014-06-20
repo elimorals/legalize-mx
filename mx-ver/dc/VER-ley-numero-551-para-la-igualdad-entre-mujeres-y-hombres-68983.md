@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-551-para-la-igualdad-entre-mujeres-y-hombres-68983"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2009-06-22"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 551 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 551 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 551 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 20 DE JUNIO DE 2014.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 22 de junio de 2009.
 
@@ -341,9 +341,11 @@ XII. Impulsar la participación de la sociedad civil en la promoción de la igua
 
 XIII. Las demás que se requieran para el cumplimiento de los objetivos de la presente Ley.
 
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
 ###### Artículo 27.
 
-Los Ayuntamientos deberán integrar los Sistemas Municipales para la Igualdad entre Mujeres y Hombres, mismo que se articulará con el Sistema Estatal, para el cumplimiento y logro de los objetivos de esta Ley.
+Los Ayuntamientos deberán integrar, dentro de los primeros treinta días en que inicien sus funciones, los Sistemas Municipales para la Igualdad entre Mujeres y Hombres, mismos que se articularán con el Sistema Estatal, para el cumplimiento y logro de los objetivos de esta Ley.
 
 ###### Artículo 28.
 
@@ -580,3 +582,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 20 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Los ayuntamientos que a la entrada en vigor de este Decreto no tengan integrado su Sistema Municipal para la Igualdad entre Mujeres y Hombres, contarán con un plazo improrrogable de quince días para cumplir esta obligación.
