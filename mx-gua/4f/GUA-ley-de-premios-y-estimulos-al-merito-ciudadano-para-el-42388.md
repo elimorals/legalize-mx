@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-premios-y-estimulos-al-merito-ciudadano-para-el-42388"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2004-12-27"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE PREMIOS Y ESTIMULOS AL MERITO CIUDADANO PARA EL ESTADO DE GUANAJUATO
 
-LEY DE PREMIOS Y ESTIMULOS AL MERITO CIUDADANO PARA EL ESTADO DE GUANAJUATO
+LEY DE PREMIOS Y ESTÍMULOS AL MÉRITO CIUDADANO PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2014.
 
 Ley publicada en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el 27 de diciembre de 2004.
 
@@ -53,9 +53,11 @@ Los premios se otorgarán exclusivamente a los guanajuatenses, por nacimiento o 
 
 Los premios podrán concederse con carácter póstumo, en cuyo caso serán entregados a los familiares de los premiados.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2014)</small>
+
 ###### Artículo 4.
 
-Durante el tercer año en sesión solemne que se celebrará el día 8 de mayo, el Congreso del Estado otorgará los premios señalados en el artículo 5 de este ordenamiento, a excepción del Premio Estatal al Periodismo, que será entregado el día 7 de junio de cada año.
+Durante el tercer año en sesión solemne que se celebrará el día 8 de mayo, el Congreso del Estado otorgará los premios señalados en el artículo 5 de este ordenamiento, a excepción del Premio Estatal al Periodismo, que será entregado el día 7 de junio de cada año y del Premio Estatal a la Mujer que será entregado en el mes de marzo de cada año.
 
 ### Capítulo II. De los Premios Estatales
 
@@ -77,7 +79,11 @@ VI.- Premio Estatal al Trabajo y Servicio Civil;
 
 VII.- Premio Estatal del Deporte; y
 
-VIII.- Premio Estatal al Periodismo.
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2014)</small>
+
+VIII.- Premio Estatal a la Mujer "Emma Godoy Lobato"; y
+
+IX.- Premio Estatal al Periodismo.
 
 Además de los Premios señalados en el presente artículo, el Congreso del Estado podrá otorgar reconocimientos especiales de conformidad con lo establecido en el Capítulo XI.
 
@@ -88,6 +94,10 @@ Los premios consistirán en la entrega, a quienes lo obtengan, de:
 I.- Un diploma en el que se expresarán las razones por las que se confiere y una síntesis del acuerdo respectivo con la firma del Presidente y los Secretarios de la Mesa Directiva; y
 
 II.- Una medalla cuyas características serán aprobadas por el Comité de Premiación previsto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2014)</small>
+
+En el caso del Premio Estatal a la Mujer, se entregará también una estatuilla diseñada por una artista guanajuatense.
 
 ###### Artículo 7.
 
@@ -211,11 +221,31 @@ VI.- La actividad del propuesto durante el año que anteceda a la fecha de la pr
 
 VII.- Su apego, en el marco de la libertad de expresión, a la responsabilidad profesional y a los principios de ética que rijan la actividad periodística.
 
-### Capítulo XI. De los Reconocimientos Especiales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE JUNIO DE 2014)</small>
 
-### Capítulo XII. Del Comité de Premiación
+### Capítulo XI. Del Premio Estatal a la Mujer “Emma Godoy Lobato”
 
-### Capítulo XIII. Del Consejo Ciudadano Consultivo
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2014)</small>
+
+###### Artículo 20 Bis.
+
+El Premio Estatal a la Mujer “Emma Godoy Lobato” podrá otorgarse en una o varias de las siguientes categorías:
+
+I.- Trayectoria de vida;
+
+II.- Mujer Rural;
+
+III.- Mujer Emprendedora;
+
+IV.- Docencia; y
+
+V.- Letras y literatura.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XI], P.O. 20 DE JUNIO DE 2014)
+
+### Capítulo XII. De los Reconocimientos Especiales
+
+### Capítulo XIII. Del Comité de Premiación
 
 ###### Artículo 21.
 
@@ -239,7 +269,11 @@ El otorgamiento de un reconocimiento especial no inhabilita a una persona para o
 
 La entrega de los reconocimientos especiales a que se refiere este Capítulo podrá llevarse a cabo en la sesión solemne que se celebre el 8 de mayo o en la fecha que determine el Comité de Premiación.
 
-### Capítulo XIV. Del Procedimiento
+(REUBICADO [N. DE E. ANTES CAPÍTULO XII], P.O. 20 DE JUNIO DE 2014)
+
+### Capítulo XIV. Del Consejo Ciudadano Consultivo
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 26.
 
@@ -265,9 +299,13 @@ VI.- Resolver cualquier punto no previsto en las convocatorias que expida en los
 
 VII.- Las demás que resulten necesarias para el otorgamiento de los premios que corresponden de acuerdo con esta Ley y otras disposiciones aplicables.
 
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIII], P.O. 20 DE JUNIO DE 2014)
+
+### Capítulo XV. Del Procedimiento
+
 ###### Artículo 28.
 
-El Comité de Premiación podrá auxiliarse, para el análisis de las propuestas que se presenten para recibir alguno de los premios previstos en las fracciones I a VII del artículo 5, cuando así lo estime necesario o conveniente, de la opinión de los representantes de las instituciones de educación superior, colegios de profesionistas, asociaciones civiles, organismos no gubernamentales y personas físicas de reconocida trayectoria y prestigio en la comunidad constituidos en un Consejo Ciudadano Consultivo, en los términos del presente Capítulo.
+El Comité de Premiación podrá auxiliarse, para el análisis de las propuestas que se presenten para recibir alguno de los premios previstos en las fracciones I a VIII del artículo 5, cuando así lo estime necesario o conveniente, de la opinión de los representantes de las instituciones de educación superior, colegios de profesionistas, asociaciones civiles, organismos no gubernamentales y personas físicas de reconocida trayectoria y prestigio en la comunidad constituidos en un Consejo Ciudadano Consultivo, en los términos del presente Capítulo.
 
 ###### Artículo 29.
 
@@ -301,15 +339,19 @@ II.- Dos representantes de las Universidades del Estado, preferentemente aquéll
 
 III.- Un representante de los Colegios de Profesionistas o Asociaciones Civiles del Estado legalmente constituidas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2014)</small>
+
 ###### Artículo 34.
 
-La integración del Consejo Ciudadano Consultivo se hará durante el mes de mayo. Para tal efecto, la Junta de Gobierno y Coordinación Política hará las designaciones respectivas de entre las personas, asociaciones e instituciones educativas de reconocida trayectoria y prestigio en el Estado a que se refiere el artículo anterior.
+La integración del Consejo Consultivo se hará durante el mes de mayo, excepto cuando se trate del Premio Estatal a la Mujer, caso para el que deberá integrarse en el mes de febrero. Para tales efectos, la Junta de Gobierno y Coordinación Política hará las designaciones respectivas de entre las personas, asociaciones e instituciones educativas de reconocida trayectoria y prestigio en el Estado a que se refiere el artículo anterior.
 
 Si uno o varios de los integrantes del Consejo Ciudadano Consultivo son directores, administradores, presidentes o gerentes de los medios en los que colaboren las personas propuestas o desempeñan algún cargo directivo en los colegios, instituciones o asociaciones mencionadas en el artículo anterior, deberán excusarse de intervenir en las deliberaciones y votaciones del Consejo; pero esta circunstancia no será impedimento para que se admita el registro del medio o de las personas propuestas.
 
 ###### Artículo 35.
 
 El Consejo Ciudadano Consultivo contará con el auxilio de la Secretaría General del Congreso para el cumplimiento de las funciones que le encomiende el Comité de Premiación.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIV], P.O. 20 DE JUNIO DE 2014)
 
 ###### Artículo 36.
 
@@ -358,3 +400,11 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JUNIO DE 2014.
+
+Artículo primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo segundo. Para el caso del Premio Estatal a la Mujer “Emma Godoy Lobato” a otorgarse durante el año de 2014, el procedimiento se iniciará en el mes de agosto y se entregará durante el mes de octubre.
