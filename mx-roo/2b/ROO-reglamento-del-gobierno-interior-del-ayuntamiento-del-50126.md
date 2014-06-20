@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2009-12-26"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO
 
-REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO
+REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2014.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -911,7 +911,9 @@ Las Comisiones Ordinarias deberán funcionar por separado, pero podrán, previa 
 
 El Ayuntamiento establecerá, cuando menos, las siguientes Comisiones Ordinarias:
 
-I. De Asistencia a Grupos Vulnerables;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2014)</small>
+
+I. De Atención a la Niñez y Personas en situación de vulnerabilidad
 
 II. De Desarrollo Social y Participación Ciudadana;
 
@@ -949,9 +951,11 @@ XVII. De Turismo y Ecología.
 
 El Presidente Municipal asumirá la Presidencia de la Comisión de Gobierno y Régimen Interior y el Síndico Municipal la de Hacienda, Patrimonio y Cuenta Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2014)</small>
+
 ###### Artículo 108.
 
-Corresponde a la Comisión de Asistencia a Grupos Vulnerables:
+Corresponde a la Comisión de Atención a la Niñez y Personas en situación de vulnerabilidad:
 
 I. Proponer, analizar, estudiar y dictaminar las iniciativas en materia de protección de personas con discapacidad, adultos mayores y demás grupos vulnerables;
 
@@ -1773,8 +1777,14 @@ EL SECRETARIO GENERAL DEL AYUNTAMIENTO
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-P.O. 26 DE DICIEMBRE DE 2009
+P.O. 26 DE DICIEMBRE DE 2009.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
 
 TERCERO.- El presente acuerdo entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 20 DE JUNIO DE 2014.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+CUARTO.- En su caso, las modificaciones reglamentarias objeto del presente acuerdo, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
