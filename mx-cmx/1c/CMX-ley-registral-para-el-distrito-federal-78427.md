@@ -4,7 +4,7 @@ identifier: "CMX-ley-registral-para-el-distrito-federal-78427"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-21"
-last_updated: "2014-01-10"
+last_updated: "2014-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78427&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-18"
 
 LEY REGISTRAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JUNIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2011.
 
@@ -57,6 +57,10 @@ Esta Ley es de orden e interés público y tiene por objeto establecer las dispo
 ###### Artículo 2.
 
 El Registro Público de la Propiedad es la Institución a través de la cual el Gobierno del Distrito Federal, cumple la función de dar publicidad a la situación jurídica de bienes y derechos, así como los actos jurídicos que conforme a la ley deban registrarse para surtir efectos contra terceros.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+El Registro Público de la Propiedad proporcionará orientación y asesoría a los particulares y usuarios para la realización de los trámites que tiene encomendados. Todos los trámites a que se refiere esta Ley estarán disponibles para su consulta en el sitio de internet del Registro Público de la Propiedad de forma accesible para los ciudadanos.
 
 ###### Artículo 3.
 
@@ -216,13 +220,15 @@ Los registradores se excusarán de ejercer sus funciones, cuando ellos, su cóny
 
 Para ser Registrador se requiere ser licenciado en derecho y cumplir con los requisitos y condiciones que se establezcan en el Reglamento.
 
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
 ###### Artículo 11.
 
-Los términos previstos en esta Ley, salvo disposiciones en contrario, se contarán por días hábiles y comenzarán a correr al día siguiente al de la publicación de la notificación, o desde aquél en que se extienda la constancia de recibo si se trata de notificaciones por oficio.
+Los términos previstos en esta Ley, salvo disposición en contrario, se contarán por días hábiles y comenzarán a correr a partir del día hábil siguiente al en que surta sus efectos la publicación de la notificación o desde aquél en que se extienda la constancia de recibo si se trata de notificaciones por oficio.
 
 ### CAPÍTULO SEGUNDO. DE LOS PRINCIPIOS REGISTRALES
 
-###### Artículo 12
+###### Artículo 12.
 
 La función registral se prestará con base en los principios registrales contenidos en esta Ley y el Código, los cuales se enuncian a continuación de manera enunciativa más no limitativa:
 
@@ -234,13 +240,17 @@ III.- Especialidad o determinación: Principio en virtud del cual, el registro r
 
 IV.- Consentimiento: Consiste en la necesidad de la expresión de la voluntad acreditada fehacientemente de quien aparece inscrito como titular registral de un asiento, a efecto de que se modifique o cancele la inscripción que le beneficia.
 
-V.- Tracto Sucesivo: Es el concatenación ininterrumpido de inscripciones sobre una misma unidad registral, que se da desde su primera inscripción, la cual asegura que la operación a registrar proviene de quien es el titular registral.
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+V.- Tracto Sucesivo: Es la concatenación ininterrumpida de inscripciones sobre una misma unidad registral.
 
 VI.- Rogación: Es un principio que implica que el Registrador no puede actuar de oficio sino a petición o instancia de parte interesada.
 
 VII.- Prioridad o prelación: Principio que implica que la preferencia entre derechos sobre una finca se determine por el número de entrada que otorgue el Registro, que se basará en el día, hora, minuto y segundo de su presentación ante la ventanilla, lo que determinará la preferencia y el rango, con independencia de la fecha de otorgamiento del documento.
 
-VIII.- Legalidad: Este principio también conocido como principio de calificación registral, consiste en la función atribuida al Registrador para examinar cada uno de los documentos que se presenten para su inscripción y para determinar no sólo si es de los documentos susceptibles de inscribirse sino también si cumple con los elementos de existencia y validez satisfaciendo los requisitos legales que le otorgan eficacia; y en caso afirmativo, llevar a cabo la inscripción solicitada, o en su defecto suspender el trámite si contienen defectos que a su juicio son subsanables o denegarla en los casos en que los defectos sean insubsanables.
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+VIII.- Legalidad: Es la función atribuida al Registrador para examinar los documentos que se presenten para su inscripción y determinar si los mismos son susceptibles de inscribirse; y en caso afirmativo, llevar a cabo la inscripción solicitada, o en su defecto suspender el trámite si contienen defectos que a su juicio son subsanables o denegarla en los casos en que los defectos sean insubsanables.
 
 IX.- Legitimación: Principio en cuya virtud, prevalece lo inscrito mientras no se pruebe su inexactitud.
 
@@ -366,9 +376,15 @@ g) Registro Federal de Contribuyentes.
 
 A la apertura de cada folio electrónico se le dará el número progresivo que le corresponda y según la materia de que se trate.
 
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
 ###### Artículo 23.
 
-La migración que se haga para la apertura del folio electrónico, con base en los datos de libros, folios reales o folios de personas morales, se hará trasladando la información vigente, sin calificación alguna. De toda migración deberá dejarse constancia en el sistema informático, señalando el número del folio electrónico que le corresponda.
+Los Registradores, al realizar el proceso de migración de datos de un Folio Real, deberán analizar únicamente la inscripción del último titular registral.
+
+La migración que se haga para la apertura del folio electrónico, con base en los datos de libros, folios reales o folios de personas morales, se hará trasladando la información vigente, sin calificación alguna. De toda migración deberá dejarse constancia en el sistema informático, señalando el número de folio electrónico que le corresponda.
+
+Realizada la migración, se podrá revisar la misma, por errores u omisiones.
 
 ###### Artículo 24.
 
@@ -389,6 +405,10 @@ d) Generales de los otorgantes, si constan en el documento;
 e) Clave Única de Registro de Población (CURP) y Registro Federal de Contribuyentes (RFC); y
 
 f) Nombre y firma del registrador.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+El inciso e) sólo se asentará cuando el documento lo exprese.
 
 ### CAPÍTULO SEGUNDO. DEL SISTEMA INFORMÁTICO
 
@@ -560,17 +580,31 @@ III.- En el documento conste acreditada la identidad, capacidad y legitimación 
 
 IV.- Exista identidad entre el bien previamente inscrito y el descrito en el título. No habrá falta de identidad cuando no coincida la descripción en uno o algunos de los datos, si de los demás elementos comparados se desprende dicha identidad;
 
-V.- No haya incompatibilidad entre el texto del documento y los asientos del registro.
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
 
-La incompatibilidad sólo tendrá lugar cuando los derechos de que se trate no puedan coexistir, no existirá compatibilidad cuando se trate de una inexactitud por error material;
+V.- No haya incompatibilidad entre el texto del documento y los asientos regístrales; no se considerará incompatibilidad entre el texto del documento en relación con lo registrado en el antecedente registral sobre el cual se solicite su inscripción, cuando sea posible acreditar con los elementos aportados en el documento o los ingresados mediante subnúmero, su identidad con los asientos que constan en el Registro Público de la Propiedad del Distrito Federal, como pueden ser los otorgantes del acto jurídico, el inmueble sobre el que recae la operación o del gravamen sobre el cual se solicita su cancelación, modificación o ampliación, en cuyo caso se deberá continuar con el Procedimiento Registral.
+
+La incompatibilidad sólo tendrá lugar cuando los derechos de que se trate no puedan coexistir. No existirá incompatibilidad cuando se trate de una inexactitud por error material; sin embargo, cuando se aporten elementos con los cuales sea posible realizar la rectificación correspondiente, los mismos serán ingresados por subnúmero para que el mismo Registrador que califique el documento, continúe con la calificación y él mismo, solicite a la Subdirección de Ventanilla Única y Control de Gestión que proporcione un número de entrada;
 
 VI.- Esté fijada la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 3011 del Código, cuando se den las bases para determinar el monto de la obligación garantizada;
 
 VII.- En el acto consignado en el instrumento se observe el tracto sucesivo, lo que significa que para inscribir o anotar cualquier título deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquel o de la que vaya a resultar afectada por la inscripción, a no ser que se trate de una inscripción de inmatriculación judicial;
 
-VIII.- El documento cumpla con los requisitos que deba llenar de acuerdo con el Código u otras leyes aplicables, como indispensables para su inscripción; y
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
 
-IX.- No haya operado el cierre de registro, en términos del artículo 3044 segundo párrafo del Código.
+VIII.- El documento cumpla con los requisitos que deba llenar de acuerdo con el Código u otras leyes aplicables, como indispensables para su inscripción;
+
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+IX.- No haya operado el cierre de registro, en términos del artículo 3044 segundo párrafo del Código;
+
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+X.- En el caso de anotaciones preventivas tales como embargo, fianza o anotación de demanda, si ya caducaron, verificará que conste en el documento solicitud de cancelación del interesado y si no consta, el Registrador estará a lo dispuesto por el artículo 43 de la presente Ley; y
+
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2014)</small>
+
+XI.- En el caso de anotaciones preventivas tales como embargo, fianza o anotación de demanda, que aún no hayan caducado, verificará que conste en el documento su reconocimiento por las partes y si no consta, el Registrador estará a lo dispuesto por el artículo 43 de la presente Ley.
 
 Verificado lo anterior, el registrador deberá realizar la anotación o inscripción dentro del plazo mencionado en este artículo.
 
@@ -608,7 +642,9 @@ El registrador no calificará la legalidad de la sentencia, orden judicial o adm
 
 Si a pesar de ello ésta insiste en que se cumpla su mandamiento, se procederá conforme a lo ordenado tomándose razón en el asiento correspondiente.
 
-Cuando habiéndose prevenido a la autoridad ordenadora, ésta no reitere expresamente su requerimiento en el plazo de tres meses contados a partir de la notificación correspondiente, se dará por concluido el procedimiento y se publicará esa determinación en el Boletín.
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Cuando habiéndose prevenido a la autoridad ordenadora, ésta no reitere expresamente su requerimiento en el plazo de treinta días hábiles contados a partir de la notificación correspondiente, se dará por concluido el procedimiento y se publicará esa determinación en el Boletín.
 
 En los supuestos anteriores no habrá responsabilidad para el registrador.
 
@@ -684,7 +720,7 @@ V. Vigencia.
 
 ###### Artículo 52.
 
-Las inscripciones a que se refiere la fracción VII del artículo 3043 del Código, se practicarán conforme al texto del decreto expropiatorio, de ocupación temporal o de declaración de limitación de dominio, publicado en el Diario Oficial de la Federación o en la Gaceta Oficial del Distrito Federal.
+(DEROGADO, G.O. 20 DE JUNIO DE 2014)
 
 ###### Artículo 53.
 
@@ -830,15 +866,25 @@ Para los casos no previstos en este capítulo, serán aplicables a los asientos 
 
 Los errores materiales en los asientos registrales serán rectificados de oficio cuando de la revisión de los antecedentes se advierta que puedan corregirse con base en la información de los asientos con los cuales se encuentran relacionados, indicando las causas y motivos que generaron dicha rectificación.
 
-De lo contrario, se hará con vista en el testimonio original, testimonio ulterior del instrumento que dio origen al asiento a rectificar, o bien copia certificada de la escritura, en los que consten datos de su inscripción en el Registro.
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
 
-No será necesaria esta confrontación y los errores podrán rectificarse de oficio o a petición del interesado, cuando se cuente con respaldos en el sistema informático registral, incluyendo imágenes digitalizadas y microfichas legibles, legajos o con el texto de la inscripción con las que los asientos erróneos estén relacionados.
+También se podrá rectificar con vista en el testimonio original, testimonio ulterior del instrumento que dio origen al asiento a rectificar, o bien copia certificada de los mismos.
 
-Cuando el registrador cuente con todos los elementos y haya concluido su investigación, deberá hacer la rectificación en un plazo de diez días hábiles.
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
 
-Cuando para la rectificación de una anotación o inscripción sea necesaria la consulta de algún instrumento o documento que obre depositado en el Archivo General de Notarías, tal consulta deberá hacerla el Registrador directamente en el mencionado Archivo, sin necesidad de pago de derecho alguno, en un plazo de cinco días hábiles. .(sic)
+Asimismo los errores podrán rectificarse de oficio o a petición del interesado, cuando se cuente con respaldos en el sistema informático registral, incluyendo imágenes digitalizadas y microfichas legibles, legajos o con el texto de la inscripción con las que los asientos erróneos estén relacionados.
 
-Lo mismo se observará en tratándose de reposición de folios, asientos o inscripciones.
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Cuando el Registrador cuente con todos los elementos y haya concluido su investigación, hará la rectificación en un plazo de veinte días hábiles.
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Para el caso de que sea negada la solicitud de rectificación de errores a que se refiere este artículo, el Registrador deberá publicar, de manera detallada, en el Boletín Registral los motivos de la negativa, a fin de que el interesado, Notario, en un plazo de cinco días hábiles, contados a partir del siguiente al de la publicación mencionada, presente mediante subnúmero, escrito de aclaración, el cual será valorado con los documentos con que se cuenten al negar la solicitud.
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+Cuando exista un documento ingresado que requiera del previo registro de una rectificación o reposición, éstos se ingresarán al Registro Público de la Propiedad del Distrito Federal señalándose por el interesado, como trámites de vinculación directa con número de entrada y trámite propio para remitirse al área donde se encuentre el documento al que estén vinculados.
 
 ###### Artículo 71.
 
@@ -848,13 +894,13 @@ Se equipara al error material, la práctica de un asiento en folio distinto a aq
 
 Rectificado un asiento, se rectificarán todos los que estén relacionados y contengan el mismo error, siempre que sea susceptible de llevarse a cabo.
 
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
 ###### Artículo 73.
 
-Procede la reposición de los asientos registrales, cuando por su destrucción, mutilación o extravío se haga imposible realizar su consulta a fin de establecer el tracto sucesivo correspondiente.
+Procede la reposición de los folios y asientos regístrales, cuando por su destrucción, mutilación o extravío no sea posible realizar su consulta a fin de establecer el tracto sucesivo correspondiente.
 
-La reposición se hará con vista en el testimonio original, copia certificada del Archivo General de Notarías o bien testimonio ulterior del instrumento que dio origen al asiento o folio a reponer en los que, cuando fueren indispensables, consten datos de su inscripción en el Registro.
-
-Tratándose de documentos privados, en los casos en los que el asiento documental que se pretenda reponer cuente con respaldos en el sistema informático, procederá la reposición sin que sea obligatorio para el interesado exhibir la documentación original con sellos de registro.
+La reposición se hará con vista en el testimonio original, copia certificada del Archivo General de Notarías o bien testimonio ulterior o copia certificada del instrumento que dio origen al asiento o folio a reponer en los que, cuando fueren indispensables, consten datos de su inscripción en el Registro Público de la Propiedad del Distrito Federal.
 
 ###### Artículo 74.
 
@@ -886,9 +932,13 @@ IV. A petición del notario que haya solicitado la anotación a que se refiere e
 
 V. Cuando así lo ordene la autoridad competente o por sentencia firme.
 
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
 ###### Artículo 78.
 
-Las anotaciones preventivas a que se refiere el artículo 3035 del Código caducarán a los tres años contados a partir de la fecha que establezca el número de entrada y trámite ante el Registro.
+Las anotaciones preventivas a que se refiere el artículo 3035 del Código caducarán a los tres años contados a partir de la fecha que establezca el número de entrada y trámite ante el Registro Público de la Propiedad del Distrito Federal, salvo aquellas a las que la presente Ley o el Código les fijen un plazo de caducidad menor, siempre que no se trate de anotaciones preventivas de carácter definitivo o les indique un tratamiento diverso.
+
+No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea presentada al Registro Público de la Propiedad del Distrito Federal antes de que caduque el asiento.
 
 > <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
@@ -960,27 +1010,49 @@ Una vez recibida la solicitud del certificado de no inscripción, se expedirá e
 
 ### CAPÍTULO SÉPTIMO. DE LA CUSTODIA DE FOLIOS
 
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
 ###### Artículo 90.
 
-Cuando el titular del Registro detecte alguna anomalía u omisión en cualquiera de los libros o folios, pondrá en custodia el libro o folio de que se trate, previa resolución motivada y fundada, que al efecto dicte, publicándose ésta con sujeción al procedimiento que se establece en los artículos siguientes de esta Ley.
+Cuando el Titular detecte alguna anomalía u omisión en cualquiera de los libros o folios, pondrá en custodia el libro o folio de que se trate, previa resolución motivada y fundada, que al efecto dicte, publicándose ésta con sujeción al procedimiento que se establece en los artículos siguientes de esta Ley.
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
+Los motivos por los que el Titular pondrá en custodia el libro o folio de que se trate son:
 
-Igualmente se pondrán en custodia los antecedentes registrales por sentencia, resolución jurisdiccional o acuerdo ministerial que la ordene.
+I. Multiplicidad de folios;
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
+II. Falta de tracto sucesivo que no pueda ser rectificado;
+
+III. Todos los documentos que aún localizándose en los archivos de la bóveda del Registro Público de la Propiedad del Distrito Federal, carezcan de los elementos y de los requisitos que puedan probar su correcta elaboración y validez como asientos regístrales;
+
+IV. Múltiple titularidad;
+
+V. Información registral alterada;
+
+VI. Aquellas causas que presuman alteraciones en los asientos y el tracto registral.
+
+Igualmente se pondrán en custodia los antecedentes registrales por sentencia, resolución judicial o administrativa que la ordene.
 
 También procederá la custodia del folio real de un predio, cuando así lo determinen:
 
-I. El Tribunal de lo Contencioso Administrativo del Distrito Federal, en juicio de lesividad, nulidad o acción pública en el acuerdo correspondiente en el que se otorgue la suspensión del acto impugnado;
+a) El Tribunal de lo Contencioso Administrativo del Distrito Federal, en juicio de lesividad o nulidad, en el acuerdo correspondiente en el que se otorgue la suspensión del acto impugnado;
 
-II. El Instituto de Verificación Administrativa del Distrito Federal, dentro del procedimiento de verificación administrativa, en el acuerdo de suspensión que dicte como medida de seguridad;
+b) El Instituto de Verificación Administrativa del Distrito Federal, dentro del procedimiento de verificación administrativa, en el acuerdo de suspensión que dicte como medida de seguridad;
 
-III. Los Órganos Políticos Administrativos, dentro del procedimiento de revocación, en el que dicte acuerdo de suspensión;
+c) Los Órganos Políticos Administrativos, dentro del procedimiento de revocación y lesividad;
 
-IV. La Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal, dentro del procedimiento de revocación, en el que dicte el acuerdo de suspensión correspondiente; o,
+d) La Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal, dentro del procedimiento de revocación y de lesividad, en el que dicte el acuerdo de suspensión correspondiente; y
 
-V. La Procuraduría Ambiental y del Ordenamiento Territorial, en los procedimientos de investigación que conozcan con motivo de ilícitos ambientales.
+e) La Procuraduría Ambiental y del Ordenamiento Territorial, en los procedimientos de investigación que conozcan con motivo de ilícitos ambientales.
+
+En el caso de documentos que hayan sido ingresados dentro de la vigencia de los avisos a que hace referencia el artículo 3016 del Código, serán detenidos, notificando de dicha circunstancia al solicitante; lo anterior se realizará sin responsabilidad alguna para el Registrador ni para el Notario Público ante quien se haya otorgado el instrumento respectivo.
+
+En caso de que el Folio o Antecedente haya sido remitido a Custodia por el Titular, el solicitante dentro del término de diez días hábiles posteriores a la publicación que haga el registrador que está conociendo del proceso de inscripción deberá presentar la solicitud de liberación.
+
+Si no es presentada dentro del término la solicitud de liberación o la misma es negada, el trámite que se encontraba detenido se denegará.
+
+Ahora bien, cuando el motivo de Custodia del Antecedente Registral se derive de una orden de autoridad administrativa o judicial, el documento será detenido y se mantendrá así, hasta en tanto la autoridad correspondiente ordene el levantamiento de la custodia.
+
+Una vez subsanado el motivo de custodia o, para el supuesto de que la Custodia provenga de una autoridad administrativa o judicial, habiéndose recibido por parte de la autoridad correspondiente la orden de liberación, la Unidad Jurídica, informará al Área que tenga bajo su cargo el trámite detenido a efecto de que continúe con el proceso registral correspondiente
 
 ###### Artículo 91.
 
@@ -1030,13 +1102,49 @@ a) Cuando falte la firma del interesado;
 
 b) Ante la falta de legitimación del recurrente;
 
-c) Cuando haya salida sin registro a petición de parte, una vez calificado; y
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
 
-d) Cuando no se haya subsanado mediante los documentos idóneos.
+c) Cuando haya salida sin registro a petición de parte, una vez calificado;
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+d) Cuando no se haya subsanado el motivo de suspensión mediante los documentos idóneos;
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+e) Cuando se interponga en contra de aquellos trámites en los cuales no se realiza una calificación respecto del documento tales como liberaciones, rectificaciones, reposiciones; o bien en contra de la anotación preventiva a que alude el artículo 3016 del Código Civil para el Distrito Federal;
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+f) Cuando el recurso sea interpuesto extemporáneamente;
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+g) En contra de aquellos trámites que provengan de autoridades judiciales o administrativas, en uso de sus facultades; y
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+h) Cuando se interponga en contra de resoluciones que ya hayan sido materia de otro recurso.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2014)</small>
+
+###### Artículo 97 Bis.
+
+El recurso de inconformidad se sobreseerá en los siguientes casos:
+
+a) Cuando sobrevenga alguna causal de las señaladas en el artículo que antecede;
+
+b) Por desistimiento expreso del recurrente;
+
+c) Por falta de objeto o materia del acto; y
+
+d) Cuando no subsista el acto impugnado.
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 98.
 
-Si la resolución del Titular del Registro fuese favorable al recurrente, se remitirá al registrador para su inmediato cumplimiento. En caso contrario el documento será puesto a disposición del inconforme quedando sin efecto la anotación preventiva correspondiente.
+Si la resolución del Titular del Registro Público de la Propiedad del Distrito Federal fuese favorable al recurrente, o se ordenare la modificación del acto impugnado, se remitirá al Registrador para su inmediato cumplimiento. En caso contrario el documento será puesto a disposición del inconforme quedando sin efecto la anotación preventiva correspondiente.
 
 ## TÍTULO QUINTO
 
@@ -1143,3 +1251,17 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 20 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor publicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- El Jefe de Gobierno deberá realizar las adecuaciones necesarias al Reglamento de la Ley Registral y del Registro Público de la Propiedad y de Comercio del Distrito Federal, en un plazo de sesenta días hábiles que se contarán a partir del día de su publicación.
+
+QUINTO.- El proceso registral en curso, deberá ajustarse a las disposiciones del presente Decreto.
+
+SEXTO.- Los recursos en trámite a la entrada en vigor del presente Decreto se acogerán a las disposiciones del mismo, en lo que beneficie al usuario del servicio registral.
