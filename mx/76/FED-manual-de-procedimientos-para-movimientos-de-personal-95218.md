@@ -4,7 +4,7 @@ identifier: "FED-manual-de-procedimientos-para-movimientos-de-personal-95218"
 country: "mx"
 rank: "manual"
 publication_date: "2011-08-26"
-last_updated: "2013-07-30"
+last_updated: "2014-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95218&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,25 +21,25 @@ issue_date: "2010-01-22"
 
 MANUAL DE PROCEDIMIENTOS PARA MOVIMIENTOS DE PERSONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2014.
 
 Manual publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de agosto de 2011.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Electoral del Poder Judicial de la Federación.- Comisión de Administración.- Secretaría.- Secretaría Administrativa.- Coordinación de Recursos Humanos y Enlace Administrativo.- Jefatura de Unidad de Administración de Personal.
 
-> <small>N. DE E. LAS REFORMAS APROBADAS POR LA COMISIÓN DE ADMINISTRACIÓN MEDIANTE ACUERDO 170/S7(9-VII-2013) EMITIDO EN LA SÉPTIMA SESIÓN ORDINARIA DE 2013, MODIFICÓ DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL MANUAL DE FECHA DE 26 DE AGOSTO DE 2011, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 30 DE JULIO DE 2013.</small>
+> <small>N. DE E. LA MODIFICACIÓN EXPEDIDA POR LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, EN LA QUINTA SESIÓN ORDINARIA DE 2014, PUBLICADA EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 20 DE JUNIO DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+
+EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA PUBLICADA LA SEGUNDA SECCIÓN DEL D.O.F. DE 20 DE JUNIO DE 2014, VÉASE EL SEGUNDO TRANSITORIO QUE MODIFICA ESTE ORDENAMIENTO.
 
 MANUAL DE PROCEDIMIENTOS PARA MOVIMIENTOS DE PERSONAL
 
 RH-AP-MP-01-400
 
-> <small>(ADICIONADO D.O.F. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2014)</small>
 
-MANUAL DE PROCEDIMIENTOS PARA MOVIMIENTOS DE PERSONAL, APROBADO POR LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL, MEDIANTE ACUERDO 207/S7 (8-VII-2009).
+MANUAL DE PROCEDIMIENTOS PARA MOVIMIENTOS DE PERSONAL, APROBADOS (SIC) POR LA COMISIÓN DE AMINISTRACIÓN DEL TRIBUNAL ELECTORAL, MEDIANTE ACUERDO 207/S7 (8-VII-2009).
 
-> <small>(REFORMADO D.O.F. 30 DE JULIO DE 2013)</small>
-
-ÍNDICE
+> <small>(REFORMADO D.O.F. 20 DE JUNIO DE 2014)</small>
 
 I. PRESENTACIÓN
 
@@ -103,7 +103,7 @@ ANEXOS
 
 ## TRANSITORIO
 
-> <small>(REFORMADO D.O.F. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO D.O.F. 20 DE JUNIO DE 2014)</small>
 
 I. PRESENTACIÓN
 
@@ -115,7 +115,7 @@ Asimismo, mediante el Acuerdo 113/S4(6-V-2009) la Comisión de Administración, 
 
 Este documento constituye una herramienta de trabajo y de capacitación del personal responsable de su aplicación, así como una guía de control, permitiendo dar cumplimiento a las atribuciones que en materia de administración de recursos humanos le han sido conferidas a la Secretaría Administrativa.
 
-> <small>(REFORMADO D.O.F. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO D.O.F. 20 DE JUNIO DE 2014)</small>
 
 II. MARCO JURÍDICO [Modificado mediante acuerdo 170/S7(9-VII-2013)].
 
@@ -131,7 +131,7 @@ II. MARCO JURÍDICO [Modificado mediante acuerdo 170/S7(9-VII-2013)].
 
 6. Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
-7. Ley de Federal de Presupuesto y Responsabilidad Hacendaria.
+7. Ley de (sic) Federal de Presupuesto y Responsabilidad Hacendaria.
 
 8. Ley Federal para Prevenir y Eliminar la Discriminación.
 
@@ -169,13 +169,13 @@ II. MARCO JURÍDICO [Modificado mediante acuerdo 170/S7(9-VII-2013)].
 
 [Modificado mediante acuerdo 170/S7(9-VII-2013)].
 
-> <small>(REFORMADO D.O.F. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO D.O.F. 20 DE JUNIO DE 2014)</small>
 
 III. OBJETIVO
 
 Aplicar dentro del marco normativo, organizativo y racional, el análisis, validación, control, autorización y trámites necesarios a las propuestas de movimientos de personal: altas por nuevo ingreso, reingreso, cambios de nivel o rango salarial, de adscripción, otorgamiento de licencias con goce de sueldo o sin goce de sueldo, comisiones, y baja de personal, formuladas por los Titulares de las diferentes Unidades Administrativas que conforman el Tribunal Electoral.
 
-> <small>(REFORMADO D.O.F. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO D.O.F. 20 DE JUNIO DE 2014)</small>
 
 IV. DISPOSICIONES GENERALES
 
@@ -197,9 +197,9 @@ Lo anterior a efecto de observar y promover la ética judicial en el personal, r
 
 [Adicionado mediante acuerdo 170/S7(9-VII-2013)].
 
-1. DE LOS NOMBRAMIENTOS O DESIGNACIONES
+DE LOS NOMBRAMIENTOS O DESIGNACIONES
 
-1.1. Los nombramientos o designaciones de servidores públicos se deberán apegar a lo dispuesto en los ordenamientos jurídicos aplicables y que para tal efecto se enuncian en el Anexo No.1 de este documento.
+1.1. Los nombramientos o designaciones de servidores públicos se deberán apegar a lo dispuesto en los ordenamientos jurídicos aplicables y que para tal efecto se enuncian en el Anexo No. 1 de este documento.
 
 1.2. El Presidente del Tribunal Electoral es el servidor público facultado para suscribir los nombramientos del personal de este Órgano Jurisdiccional, de conformidad con lo dispuesto por la fracción XIX del Artículo 5 del Reglamento Interno, para lo cual se deberá utilizar el formato Anexo No. 2-A.
 
@@ -217,7 +217,15 @@ Lo anterior a efecto de observar y promover la ética judicial en el personal, r
 
 2.2. Con la finalidad de cubrir las Plazas-Puesto vacantes o movimientos a la plantilla de personal autorizada, los Titulares de las Unidades Administrativas, deberán elaborar y suscribir un oficio-propuesta, en el que consignarán el tipo de movimiento que solicitan, los datos del servidor público o candidato y las razones, causas, justificación y/o motivos por los cuales requiere del movimiento de personal respectivo.
 
-2.3. Todo movimiento de personal podrá surtir efectos en cualquier fecha, ajustándose los pagos de percepciones y deducciones, a las propuestas de autorización que formulen los titulares de las Unidades Administrativas.
+2.3. Las solicitudes de movimientos de personal deberán presentarse a la Secretaría Administrativa con una anticipación mínima de siete días a aquel que se pretenda surta efectos el nombramiento.
+
+La Coordinación de Recursos Humanos y Enlace Administrativo no podrá realizar movimiento alguno si la candidata o candidato no ha entregado la documentación obligatoria indicada en la normatividad vigente a más tardar siete días antes de la fecha de pago aprobada para abono en cuenta en el calendario de pagos del Poder Judicial de la Federación del año fiscal correspondiente.
+
+Solo podrá afectarse y considerarse la fecha original del movimiento siempre y cuando la candidata o candidato haya cumplido con lo establecido en el párrafo que antecede.
+
+En caso de que la documentación obligatoria no haya sido entregada conforme a lo dispuesto en el segundo párrafo del presente numeral, el Secretario Administrativo podrá autorizar el movimiento a partir de la fecha en que la candidata o candidato haya cumplido con los requisitos legales para el puesto respectivo, considerándose improcedente el pago de cualquier importe relativo a conceptos anteriores a la fecha de pago aprobada para el abono en cuenta en el calendario de pagos citado.
+
+Cumplido lo anterior, la Coordinación de Recursos Humanos y Enlace Administrativo procederá a hacer el movimiento de personal respectivo. [Modificado mediante acuerdo 134/S5(27-V-2014)]
 
 2.4. En el caso de que el titular del área proponga a un colaborador un cargo inferior al actual o una disminución del salario, en el oficio propuesta de dicho movimiento, el candidato tendrá que firmar en el mismo documento de conformidad.
 
@@ -227,7 +235,7 @@ ALTAS
 
 En estos casos, el personal de nuevo ingreso y reingreso, preferentemente se deberá ubicar en el rango mínimo del nivel salarial, para que se tenga la posibilidad de tener crecimiento con base en el desempeño y resultado del servidor público.
 
-2.6. Los Titulares de las Unidades Administrativas deberán garantizar que los candidatos propuestos para ocupar las vacantes existentes en sus plantillas de personal, reúnan los requisitos definidos en la Ley Orgánica del Poder Judicial de la Federación y en el Catálogo de Puestos vigente.
+2.6. Los Titulares de las Unidades Administrativas deberán garantizar que las candidatas o candidatos propuestos para ocupar las vacantes existentes en sus plantillas de personal, reúnan los requisitos definidos en la normatividad vigente entre las que se encuentran la Ley Orgánica del Poder Judicial de la Federación, el Manual de Procedimientos para la integración de los Expedientes de las y los Servidores Públicos del Tribunal Electoral del Poder Judicial de la Federación y el Catálogo de Puestos. [Modificado mediante acuerdo 134/S5(27-V-2014)]
 
 2.7. Para todo movimiento de personal de nuevo ingreso y reingreso, se deberá adjuntar al Oficio-Propuesta, el currículum vitae y recabar los documentos que exige el Manual de Procedimientos para la Integración de los Expedientes de los Servidores Públicos del Tribunal Electoral vigente.
 
@@ -277,13 +285,15 @@ CAMBIOS
 
 3.1. La Comisión de Administración, durante los procesos electorales, autorizará las plantillas tipo, así como la contratación de personal eventual de acuerdo a las políticas que ésta establezca.
 
-> <small>(REFORMADO D.O.F. 30 DE JULIO DE 2013)</small>
+> <small>(REFORMADO D.O.F. 20 DE JUNIO DE 2014)</small>
 
 V. PROCEDIMIENTOS
 
 > <small>N. DE E. VÉASE TABLAS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 30 DE JULIO DE 2013, PÁGINAS DE LA 6 A LA 20.</small>
 
-> <small>(REFORMADO D.O.F. 30 DE JULIO DE 2013)</small>
+> <small>N. DE E. VÉASE REFORMAS A LAS TABLAS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 20 DE JUNIO DE 2014, PÁGINAS DE LA 82 A LA 96.</small>
+
+> <small>(REFORMADO D.O.F. 20 DE JUNIO DE 2014)</small>
 
 VI. GLOSARIO
 
@@ -345,6 +355,8 @@ UNIDADES ADMINISTRATIVAS: Áreas que integran al Tribunal Electoral facultadas p
 
 > <small>N. DE E. VÉASE FORMATOS Y ANEXOS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 30 DE JULIO DE 2013, PÁGINAS DE LA 23 A LA 49.</small>
 
+> <small>N. DE E. VÉASE REFORMAS A LOS FORMATOS Y ANEXOS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 20 DE JUNIO DE 2014, PÁGINAS DE LA 98 A LA 128.</small>
+
 ## TRANSITORIO
 
 UNICO. El presente Manual de Procedimientos para Movimientos de Personal, entrará en vigor el día de su publicación en la página de intranet del Tribunal Electoral del Poder Judicial de la Federación.
@@ -382,3 +394,13 @@ PRIMERO. La modificación al "Manual de Procedimientos para Movimientos de Perso
 SEGUNDO. Para su mayor difusión, publíquese en la página de Internet del Tribunal Electoral del Poder Judicial de la Federación y en el Diario Oficial de la Federación.
 
 TERCERO. Se derogan aquellas disposiciones que contravengan al presente Acuerdo.
+
+D.O.F. 20 DE JUNIO DE 2014.
+
+PRIMERO. La Comisión de Administración aprueba las modificaciones del Manual de Procedimientos para Movimientos de Personal.
+
+SEGUNDO. El presente acuerdo entrará en vigor a partir del día siguiente de su publicación en la página de Intranet del Tribunal Electoral.
+
+TERCERO. Se derogan aquellas disposiciones que contravengan al presente Acuerdo.
+
+CUARTO. Para su mayor difusión, publíquese en la página de internet del TEPJF y en el Diario Oficial de la Federación.
