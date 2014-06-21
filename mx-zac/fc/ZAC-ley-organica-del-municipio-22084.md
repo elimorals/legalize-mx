@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-22084"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-14"
-last_updated: "2013-03-23"
+last_updated: "2014-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el viernes 14 de septiembre de 2001.
 
@@ -1171,6 +1171,10 @@ VI. La Dirección de Seguridad Pública Municipal;
 
 VII. La Dirección Municipal de atención a Migrantes en aquellos municipios de alta vocación migrante y previa aprobación del cabildo.
 
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+VIII. Dirección de Desarrollo Rural Integral Sustentable.
+
 ###### Artículo 91.
 
 Para ser Secretario de gobierno municipal se requiere:
@@ -1596,6 +1600,84 @@ XVI. Formular la política forestal y participar en la restauración de los ecos
 XVII. Participar, en el ámbito de su competencia, en la política nacional en materia de vida silvestre, de conformidad con la Ley General de Vida Silvestre y la legislación aplicable, y
 
 XVIII. Las demás señaladas en las leyes y reglamentos correspondientes.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Artículo 114 octies.- La Dirección de Desarrollo Rural Integral Sustentable, es el órgano encargado de promover el desarrollo rural integral sustentable en el ámbito de competencia municipal. Son requisitos para ser titular de ésta:
+
+I. Ser ciudadano mexicano en pleno uso de sus derechos políticos y estar avecinado en el municipio cuando menos un año antes de su designación;
+
+II. Tener preferentemente, en municipios mayores de cincuenta mil habitantes, título profesional expedido por autoridad competente;
+
+III. No haber sido condenado en sentencia ejecutoria por delito intencional; y
+
+IV. Contar con experiencia en temas relacionados con el desarrollo rural integral sustentable.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Artículo 114 nonies.- Corresponde a la Dirección, Coordinación, Departamento o Unidad Administrativa de Desarrollo Rural Sustentable, las siguientes atribuciones:
+
+I. Planear, diseñar y formular las propuestas de acciones, programas y políticas municipales de desarrollo rural integral sustentable;
+
+II. Diseñar proyectos en materia de desarrollo rural integral sustentable;
+
+III. Formular los estudios, proyectos y propuestas de actividades vinculados al Plan Municipal de Desarrollo, de conformidad con el enfoque de desarrollo rural integral sustentable;
+
+IV. Elaborar diagnósticos e información estadística del ámbito rural que se genere en el municipio;
+
+V. Coordinar los trabajos de integración y operación de los programas ordinarios, especiales, emergentes y concurrentes en los cuales participe el Ayuntamiento;
+
+VI. Coordinar los trabajos de integración y operación del Programa Estatal Especial Concurrente (PEEC); de Extensionismo Rural, de Autosuficiencia Alimentaria y demás establecidos en la legislación estatal;
+
+VII. Promover la participación de organismos públicos centralizados, descentralizados, privados, productivos y sociales no gubernamentales en proyectos estratégicos de desarrollo rural municipal;
+
+VIII. Establecer los vínculos institucionales del Municipio con los productores, comercializadoras, agroindustrias, organizaciones o asociaciones y demás instancias que se relacionen con el medio rural y, en su caso, sean beneficiarios de algún programa gubernamental;
+
+IX. Establecer en conjunto con las comunidades y en los grupos de trabajo del Consejo Municipal para el Desarrollo Rural Integral Sustentable, la problemática del entorno rural del Municipio y la identificación de las alternativas viables que contribuyan a mejorar las condiciones de vida de su población;
+
+X. Identificar y promover la vinculación del Ayuntamiento con programas prioritarios nacionales y estatales de desarrollo económico, hacia los cuales se canalicen apoyos financieros susceptibles de descentralizarse hacia los Municipios;
+
+XI. Promover y mantener coordinación con las diferentes instancias que celebren convenios con el Municipio y aquellas que provean servicios y programas institucionales para el desarrollo rural integral sustentable;
+
+XII. Promover y difundir los programas de apoyo al campo y a los productores, derivados de los convenios de colaboración que se celebren con el Estado y la Federación;
+
+XIII. Promover acciones de conservación, restauración y aprovechamiento de los recursos naturales como el suelo, agua, bosques, agostaderos, paisaje y biodiversidad, haciendo un uso racional y sustentable de los mismos;
+
+XIV. Organizar y operar la Ventanilla Única de trámites y servicios para el desarrollo rural;
+
+XV. Brindar asesoría y apoyo técnico a las dependencias municipales en materia de planeación, programación, supervisión y evaluación de planes y programas de desarrollo rural, que sean promovidos por la administración pública municipal;
+
+XVI. Coordinar los programas descentralizados y municipalizados derivados de los convenios celebrados por el Municipio con entidades del estado y la Federación y establecer las medidas necesarias para su control y evaluación de conformidad con las reglas de operación aplicables;
+
+XVII. Coordinar los programas, proyectos y servicios derivados de los acuerdos del Consejo Municipal de Desarrollo Rural Integral Sustentable y gestionar los apoyos institucionales requeridos para tal efecto;
+
+XVIII. Participar en los grupos de trabajo del Consejo Municipal de Desarrollo Rural Sustentable y demás consejos consultivos estatales y municipales, comités, comisiones y subcomisiones públicas, mixtas y privadas relativas al desarrollo rural en el Municipio;
+
+XIX. Promover convenios de concertación con los sectores públicos, social y privado para la creación de fuentes de empleo, impulsando el establecimiento de actividades productivas en el sector rural, así como el respaldo organizacional y técnico para la integración de cadenas productivas y capacitación de los agentes participantes de las mismas;
+
+XX. Coordinar sus programas y actividades con la unidad administrativa de ecología y medio ambiente municipal y auspiciar entre la población rural prácticas económicas sociales con enfoque de sustentabilidad;
+
+XXI. Integrar y mantener actualizados los registros, padrones y censos municipales del ámbito rural en cumplimiento de las competencias del Ayuntamiento, establecidas en la legislación federal y estatal aplicable;
+
+XXII. Proponer al Ayuntamiento la construcción, rehabilitación, remozamiento, ampliación y, en general, el mejoramiento de obras de infraestructura y equipamiento en el medio rural;
+
+XXIII. Asesorar a la población en general y a los agentes que participen en las cadenas productivas del campo, para la formación de organizaciones y asociaciones con fines de carácter social y de mejoramiento de la productividad de sus respectivos sectores;
+
+XXIV. Vincular a los productores del Municipio con los prestadores de servicios profesionales para contratar asesoría, capacitación y asistencia técnica, así como dar seguimiento y evaluar el desempeño de los prestadores que hayan desarrollado sus trabajos en el Municipio;
+
+XXV. Promover la realización de ferias, exposiciones y congresos vinculados a la promoción de los bienes y servicios que provee el medio rural al entorno local, regional y nacional;
+
+XXVI. Promover el establecimiento de medidas de fomento y protección del comercio de primera mano en los mercados y establecimientos comerciales que operan en el Municipio;
+
+XXVII. Gestionar el otorgamiento de permisos o autorizaciones para desarrollar el comercio de productos del medio rural en mercados, tianguis y otros espacios en las poblaciones del Municipio, siempre que no se afecte el interés público;
+
+XXVIII. Orientar a la población para el óptimo aprovechamiento de la infraestructura social disponible y la utilización de los servicios de desarrollo social y asistencial que brinda la administración municipal;
+
+XXIX. Promover y, en su caso, coordinar programas de capacitación de la fuerza laboral del medio rural en el Municipio;
+
+XXX. Colaborar con las autoridades correspondientes y con el área de seguridad pública del Municipio, en la vigilancia de los recursos forestales del entorno municipal, evitando y denunciando la tala sin autorización y previniendo la destrucción forestal y los incendios; y
+
+XXXI. Las demás que señalen las leyes y reglamentos correspondientes.
 
 ### CAPÍTULO SEGUNDO. De los Servicios Públicos Municipales y las Modalidades en su Prestación
 
@@ -2460,3 +2542,9 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 21 DE JUNIO DE 2014.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan el presente Decreto.
