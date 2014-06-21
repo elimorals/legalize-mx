@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2014-05-22"
+last_updated: "2014-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -471,17 +471,17 @@ VIII. Los informes y cuentas públicas que por disposición legal deben entregar
 
 IX. Resoluciones diversas tomadas por las comisiones de gobierno interior y legislativas, por el Pleno o la Diputación Permanente;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-X. El número y la denominación de los grupos parlamentarios, y de las representaciones parlamentarias, existentes en el Congreso del Estado; el nombre de las diputadas y diputados que los integren, así como quien funja como coordinador del mismo y, si los hubiere, los demás nombramientos de sus integrantes;
+X. El número y la denominación de los grupos parlamentarios, y de las representaciones parlamentarias existentes en el Congreso del Estado; el nombre de las diputadas y diputados que los integren, así como quien funja como coordinador del mismo y, si los hubiere, los demás nombramientos de sus integrantes;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-XI. El marco jurídico vigente con sus modificaciones. Además, el Presupuesto de Egresos de los tres poderes del Estado; de los organismos constitucionales autónomos; y de los ayuntamientos; la Ley de Ingresos del Estado, y las de los ayuntamientos del año que correspondan, a más tardar dentro de los primeros diez días naturales a su publicación en el Periódico Oficial del Estado, y
+XI. Los indicadores de gestión que debe publicar de oficio el Poder Legislativo deberán incluir numeralia general e individual de iniciativas y puntos de acuerdo que hayan promovido sus integrantes; dichos registros deberán clasificarse en rubros tales como: aprobados; improcedentes; pendientes; sin materia; archivados; y caducados, y
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE JUNIO DE 2014)</small>
 
-XII. Las demás que establezcan su ley orgánica y demás disposiciones aplicables.
+XII. Las demás que establezcan su Ley Orgánica y demás disposiciones aplicables.
 
 ###### ARTICULO 22.
 
@@ -1558,3 +1558,9 @@ P.O. 22 DE MAYO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
