@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-06-14"
+last_updated: "2014-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -813,7 +813,7 @@ ART. 42.- El oficial del Registro Civil que no cumpla la prevención de remitir 
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 43.- No podrá asentarse en las actas físicas o electrónicas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que éste expresamente prevenido en la ley.
+ART. 43.- No podrá asentarse en las actas físicas o electrónicas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -3049,7 +3049,7 @@ IV La documentación que los solicitantes presenten en idioma distinto al españ
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 410 R.- La adopción de una persona a favor de extranjeros sólo se concederá en su forma plena, pero el Juez en su resolución les impondrá la obligación de informarle en forma documental o por los medios electrónicos autorizados una vez por año, o cuantas veces se les requiera, hasta el cumplimiento de la mayoría de edad del adoptado, sobre las condiciones en que se desarrolla el nuevo vínculo paterno-filial, la salud y el trato que recibe el sujeto de la adopción; de no hacerlo, procederá la revocación de la adopción oficiosamente, bajo responsabilidad del juzgador en caso de que transcurra el término señalado y no la decrete.
+ART. 410 R.- La adopción de una persona a favor de extranjeros soló se concederá en su forma plena, pero el Juez en su resolución les impondrá la obligación de informarle en forma documental o por los medios electrónicos autorizados una vez por año, o cuantas veces se les requiera, hasta el cumplimiento de la mayoría de edad del adoptado, sobre las condiciones en que se desarrolla el nuevo vínculo paterno-filial, la salud y el trato que recibe el sujeto de la adopción; de no hacerlo, procederá la revocación de la adopción oficiosamente, bajo responsabilidad del juzgador en caso de que transcurra el término señalado y no la decrete.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -9203,9 +9203,9 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento;
 
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-IX.- Por abandono injustificado de la cosa por un plazo mínimo de tres meses, sin previo aviso por escrito al arrendador.
+IX.- Por abandono del bien mueble o inmueble materia del arrendamiento y a falta de pago de tres o más rentas en los términos del artículo 2386 Bis de este Código.
 
 ART. 2374.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2,368 y 2,369.
 
@@ -9248,6 +9248,10 @@ ART. 2384.- En el caso del artículo anterior se observará lo que dispone el ar
 ART. 2385.- Si el predio dado en arrendamiento fuere enajenado judicialmente, el contrato de arrendamiento subsistirá, a menos que aparezca que se celebró dentro de los sesenta días anteriores al secuestro de la finca, en cuyo caso el arrendamiento podrá darse por concluido.
 
 ART. 2386.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 2,346, 2,347 y 2,348.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+ART.- 2386 BIS.- Cuando la cosa arrendada, se encuentre abandonada y además se hayan dejado de pagar tres o más meses de rentas consecutivas. Agotado el trámite previsto en el Código de Procedimientos Civiles, se hará la entrega al arrendador de la cosa arrendada, cesando la obligación del arrendatario de seguir cubriendo las rentas, debiéndose dar por terminado el arrendamiento.
 
 ### CAPITULO I. Del depósito
 
@@ -11324,3 +11328,7 @@ P.O. 5 DE ABRIL DE 2014.
 P.O. 14 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “EL ESTADO DE COLIMA”.
+
+P.O. 21 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
