@@ -4,7 +4,7 @@ identifier: "COL-ley-de-profesiones-del-estado-de-colima-52082"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2006-10-07"
+last_updated: "2014-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LA LEY DE PROFESIONES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -413,7 +413,7 @@ Licenciatura en Educación Media Especialidad Inglés;
 
 Licenciatura en Educación Media Especialidad Física y Química;
 
-Licenciatura en Educación Media Especialidad En (sic) Biología;
+Licenciatura en Educación Media Especialidad En Biología;
 
 Licenciatura en Educación Media Lengua Extranjera;
 
@@ -451,7 +451,7 @@ Licenciatura en Educación Especialidad en área de Audición y Lenguaje;
 
 Licenciatura en Educación Especialidad para el área de Problemas de Aprendizaje;
 
-Licenciatura en Educación Especialidad con Especialidad en el área de Deficiencia Mental;
+Licenciatura en Educación Especialidad con Especialidad (sic) en el área de Deficiencia Mental;
 
 Maestría en Investigación Educativa;
 
@@ -519,7 +519,7 @@ Doctorado en Ciencias Fisiológicas;
 
 Especialidad en Medicina Familiar;
 
-Especialidad en Salud Física Y (sic) Fisioterapia;
+Especialidad en Salud Física Y Fisioterapia;
 
 Licenciatura como Médico Cirujano Dentista;
 
@@ -623,7 +623,7 @@ Licenciatura en Informática Administrativa;
 
 Licenciatura en Diseño Industrial;
 
-Licenciatura en Ingeniería en Electrónica Y (sic) Computación;
+Licenciatura en Ingeniería en Electrónica Y Computación;
 
 Maestría en Ciencias de la Computación;
 
@@ -657,7 +657,7 @@ Licenciatura en Sociología;
 
 Licenciatura en Periodismo;
 
-Licenciatura en Ciencias Políticas Y (sic) Administración Pública;
+Licenciatura en Ciencias Políticas Y Administración Pública;
 
 Licenciatura en Informática;
 
@@ -859,7 +859,7 @@ Técnico Profesional en Administración de Empresas Portuarias;
 
 Técnico Profesional en Acuicultura;
 
-Técnico Profesional en Pesca Y (sic) Navegación;
+Técnico Profesional en Pesca Y Navegación;
 
 Técnico en Administración Opción Servicios Portuarios;
 
@@ -919,13 +919,23 @@ Licenciatura en Docencia Tecnológica;
 
 Técnico en Enfermería;
 
-Técnico en Enfermería General; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-Técnico Como (sic) Contador Privado.
+Técnico en Enfermería General;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+Técnico Como Contador Privado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2014)</small>
+
+Licenciatura en Nutrición.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 16.
 
-El titular del Poder Ejecutivo actualizará el listado de las Profesiones y Ramas Profesionales contenidas en el artículo anterior a través del Reglamento, mismo que deberá actualizarse por lo menos cada tres años.
+El titular del Poder Ejecutivo podrá, cuando lo considere necesario, actualizar el listado de las Profesiones y Ramas Profesionales contenidas en el artículo anterior, mediante Iniciativa de Ley que presente ante el Congreso del Estado.
 
 ### CAPÍTULO IV. Del Registro Profesional Estatal
 
@@ -1551,7 +1561,7 @@ XII. Ostentarse como miembro de un colegio de profesionistas sin serlo;
 
 XIII. Ostentarse como profesionista certificado sin tener esa calidad;
 
-XIV. Incumplir con los términos y condiciones pactados para la prestación de sus servicios; y (sic)
+XIV. Incumplir con los términos y condiciones pactados para la prestación de sus servicios; y
 
 XV. Incumplir con los (sic) demás obligaciones establecidas por la presente Ley, su Reglamento y otras disposiciones normativas aplicables al ejercicio profesional.
 
@@ -1846,3 +1856,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 02 días del mes de octubre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE EDUCACIÓN, MTRO. CARLOS FLORES DUEÑAS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
