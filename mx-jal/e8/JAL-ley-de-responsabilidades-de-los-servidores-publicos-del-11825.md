@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2014-04-08"
+last_updated: "2014-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -1291,15 +1291,21 @@ II. En el Poder Ejecutivo, ante la Contraloría del Estado:
 
 a) Todos los servidores públicos de confianza, desde el Gobernador del Estado, los titulares de las secretarías, hasta los jefes de sección, incluyendo a los jefes y subjefes de recaudadoras de rentas, directores, cotizadores, glosadores, auditores, supervisores, encargados de almacén y quienes con motivo de sus funciones administren fondos y valores del Estado, así como los contralores internos de las secretarías y dependencias;
 
-b) En la Procuraduría General de Justicia, además de los anteriores señalados, incluyendo al titular, los subprocuradores generales y coordinadores, directores, agentes y secretarios del Ministerio Público, comandantes, jefes de grupo y agentes de la Policía Judicial;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+b) En la Fiscalía General del Estado, además de los anteriores señalados, incluyendo al titular, el Fiscal Central, el Comisionado de Seguridad Pública, los Fiscales Regionales, el Fiscal de Derechos Humanos, el Fiscal de Reinserción Social, los coordinadores, directores, agentes y secretarios del Ministerio Público, los Comisarios de la Fiscalía de Reinserción Social, los agentes de la policía estatal;
 
 c) En la Procuraduría Social, incluyendo al titular, los coordinadores, directores, secretarios y defensores de oficio;
 
 d) En la Contraloría del Estado, todos los servidores públicos de confianza;
 
-e) En la Secretaría de Vialidad y Transporte, los comandantes de escuadrón, peritos en accidentes y jueces calificadores del Departamento de Tránsito;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-f) En la Secretaría General de Gobierno, los comandantes y jefes de grupo de la Dirección de Seguridad Pública y los inspectores de Trabajo y Previsión Social, el Presidente y los secretarios de los Concejos Paternales en el Estado;
+e) En la Secretaría de Movilidad, los peritos oficiales;
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+f) En la Secretaría de Trabajo y Previsión Social, los inspectores del trabajo;
 
 g) En la Junta de Conciliación y Arbitraje, el presidente de la misma y los presidentes de las Juntas Especiales, así como los secretarios, incluyendo a los auxiliares;
 
@@ -1309,7 +1315,9 @@ i) Los demás servidores públicos que determine el titular del Ejecutivo.
 
 III. En el Poder Judicial, ante el órgano que determine su Ley Orgánica: los magistrados, los consejeros generales, los oficiales mayores y jueces de primera instancia, secretarios, así como directores y subdirectores, y los demás que determine el pleno del Consejo de la Judicatura;
 
-IV. En los Gobiernos Municipales, ante el Congreso del Estado por conducto de los ayuntamientos: los presidentes municipales o presidentes de los Consejos Municipales, regidores, concejales, síndicos, secretarios generales, tesoreros, encargados de la hacienda municipal, subtesoreros, secretarios, directores, subdirectores, delegados municipales, contralores, jefes y subjefes de departamento, jefes y subjefes de oficina, comandantes, oficiales mayores, oficiales del registro civil, supervisores, auditores, subauditores generales, contadores y subcontadores en general, administradores y cajeros generales, cajeros pagadores e inspectores y los demás servidores públicos que se establezcan para tal efecto en los reglamentos municipales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+
+IV. En los Gobiernos Municipales, ante el Congreso del Estado por conducto de los Ayuntamientos: los presidentes municipales o presidentes de los concejos municipales, regidores, concejales, síndicos, secretarios generales, tesoreros, encargados de la hacienda municipal, subtesoreros, secretarios, jueces municipales, coordinadores, directores, subdirectores, delegados municipales, contralores, jefes y subjefes de departamento, jefes y subjefes de oficina, elementos operativos de seguridad pública, oficiales mayores, oficiales del registro civil, supervisores, auditores, subauditores generales, contadores y subcontadores en general, administradores y, cajeros generales, cajeros pagadores e inspectores y los demás servidores públicos que se establezcan para tal efecto en las leyes y reglamentos municipales.
 
 Tendrán también la obligación de presentar su declaración los servidores de los organismos públicos descentralizados municipales que sean equiparables a los que señala la fracción II, inciso h), del presente artículo;
 
@@ -1322,6 +1330,12 @@ VII. En el Instituto Electoral y de Participación Ciudadana del Estado, ante el
 VIII. En el Instituto de Transparencia e Información Pública del Estado, ante el Congreso del Estado, por conducto del Presidente del Consejo, el Presidente, consejeros ciudadanos, Secretario Ejecutivo, directores y jefes de departamento y demás personal que determine su reglamento; y
 
 IX. En todas las entidades a que se contrae este artículo, los que ostenten la representación jurídica de la entidad para la que laboran, los jefes y subjefes de compras o quienes hagan sus veces ante los órganos que les correspondan, de conformidad con las fracciones que integran este artículo.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+###### Artículo 93 Bis.
+
+Las entidades públicas que fungen como patrones de los servidores públicos obligados a presentar declaración patrimonial, deben entregar a éstos, a más tardar el último día hábil del mes de febrero de cada año, una constancia anual de percepciones y deducciones para ser acompañada a la declaración patrimonial.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1391,11 +1405,13 @@ En caso de incumplimiento de la obligación contenida en la fracción III del ar
 
 Los formatos en los cuales se debe presentar la declaración patrimonial, deberán ser proporcionados oportunamente a los servidores públicos obligados a rendirla por los órganos a cargo de los cuales esté el control, registro y verificación de situación patrimonial, y en su caso proporcionarán los medios de identificación electrónica a solicitud expresa del servidor público interesado en presentar su declaración vía Internet.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
 ###### Artículo 100.
 
-Las declaraciones de situación patrimonial deberán presentarse bajo protesta de decir verdad y deben contener cuando menos los siguientes datos:
+Las declaraciones de situación patrimonial deberán presentarse bajo protesta de decir verdad, y en los casos de las fracciones II y III de este artículo deberán acompañarse de la constancia anual de percepciones y deducciones proporcionada por la entidad pública, y deben contener cuando menos los siguientes datos:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2013)</small>
 
 I. En la inicial:
 
@@ -1405,11 +1421,15 @@ b) Inversiones, cuentas bancarias y acciones, y
 
 c) Los gravámenes y adeudos que afectan el patrimonio;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2013)</small>
+
 II. En la anual:
 
 a) Los ingresos obtenidos y egresos realizados del primero de enero al treinta y uno de diciembre del año inmediato anterior al que se deba presentar la declaración, y
 
 b) Las modificaciones a sus inventarios iniciales de bienes muebles o inmuebles, así como el estado que guardan las cuentas bancarias, valores y sus gravámenes con saldos al treinta y uno de diciembre del año inmediato anterior al que se deba presentar la declaración, y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2013)</small>
 
 III. En la final o por conclusión del encargo:
 
@@ -1419,7 +1439,11 @@ b) Los ingresos obtenidos y egresos efectuados por todo el periodo de tiempo que
 
 c) El estado que guarden las cuentas bancarias, valores, así como los gravámenes o adeudos.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2013)</small>
+
 Los formatos bajo los cuales se deba rendir la información a que se refiere este Capítulo, establecerán la forma y detalle en que se deben realizar.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2013)</small>
 
 La publicitación de la información relativa a la declaración patrimonial por parte de los entes responsables a los que se refiere el artículo 93 de la presente ley, se hará siempre y cuando se cuente con la autorización previa y específica del servidor público de que se trate.
 
@@ -1666,3 +1690,7 @@ P.O. 3 DE DICIEMBRE DE 2013.
 P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JUNIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
