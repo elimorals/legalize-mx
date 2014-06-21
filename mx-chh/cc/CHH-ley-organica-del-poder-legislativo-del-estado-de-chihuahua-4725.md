@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2014-06-14"
+last_updated: "2014-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -903,9 +903,9 @@ XVIII. De Desarrollo Rural Integral;
 
 XIX. De Salud;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-XX. Comisión de Economía, Turismo y Servicios;
+XX. ón (sic) de Economía, Turismo y Servicios;
 
 XXI. De Juventud y Deporte, y (sic)
 
@@ -2400,6 +2400,12 @@ P.O. 20 DE NOVIEMBRE DE 2013.
 El presente Decreto entrará en vigor inmediatamente después de su aprobación, sin perjuicio de su posterior publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su aprobación, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
