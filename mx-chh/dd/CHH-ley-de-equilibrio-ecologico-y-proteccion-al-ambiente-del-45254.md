@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2013-01-19"
+last_updated: "2014-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -361,53 +361,49 @@ XI.- Concretar acciones con los sectores social y privado en las materias de est
 
 XII.- Proponer la celebración de convenios con instituciones de educación superior, centros de investigación, instituciones privadas, investigadores y especialistas en la materia, para promover y realizar programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciar el aprovechamiento racional de los recursos y la conservación de los ecosistemas;
 
-XIII.- Formular, conducir y evaluar la política estatal, así como elaborar los programas en materia de residuos de manejo especial, acordes al Programa Nacional para la Prevención y Gestión Integral de los Residuos y el de Remediación de Sitios Contaminados;
+XIII.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-XIV.- Expedir, conforme a sus atribuciones y de acuerdo a la Ley General para la Prevención y Gestión Integral de los Residuos, los lineamientos en materia de residuos de manejo especial, así como de prevención de la contaminación de sitios con dichos residuos y su remediación. Así mismo, autorizar el manejo integral de los mismos e identificar los que dentro del territorio del Estado, puedan estar sujetos a planes de manejo, tratamiento y confinamiento;
+XIV.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-XV.- Verificar el cumplimiento de los instrumentos y disposiciones jurídicas referidas en la fracción anterior e imponer las sanciones y medidas de seguridad que resulten aplicables;
+XV.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-XVI.- Autorizar y llevar a cabo el control de los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que se establezca en los convenios que se suscriban con la autoridad federal competente y con los municipios;
+XVI.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-XVII.- Establecer el registro de planes de manejo y programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente Ley, en las Normas Oficiales Mexicanas en materia ambiental y en las Normas Técnicas Ecológicas Estatales que al efecto se emitan, en el ámbito de su competencia;
+XVII.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-XVIII.- Promover, en coordinación con el Gobierno Federal y las autoridades correspondientes, la creación de infraestructura en la Entidad para el manejo integral de residuos sólidos urbanos, de manejo especial y residuos peligrosos, con la participación de los inversionistas y representantes de los sectores sociales interesados;
+XVIII.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+XIX. (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-XIX. Promover y dar seguimiento a programas estatales y municipales para el ahorro de energía eléctrica, clasificación, separación, manejo, recolección y transporte de residuos sólidos urbanos, orgánicos e inorgánicos, y de prevención y gestión integral de los residuos de su competencia, así como de prevención de la contaminación de sitios con tales residuos y su remediación, con la participación activa de las partes interesadas;
+XX.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-XX.- Participar en el establecimiento y operación, en el marco del Sistema Nacional de Protección Civil y en coordinación con la Federación, de un sistema para la prevención y control de contingencias y emergencias ambientales, derivadas de la gestión y tratamiento de residuos de su competencia;
+XXI.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-XXI.- Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de contaminantes provenientes del manejo integral de los residuos de su competencia;
-
-XXII.- Promover la participación de los sectores privado y social, en el diseño e instrumentación de acciones para prevenir la generación de residuos de manejo especial, y llevar a cabo su gestión integral adecuada, así como para la prevención de la contaminación de sitios con estos residuos y su remediación, conforme a los lineamientos de esta Ley y las Normas Oficiales Mexicanas correspondientes;
+XXII.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
 XXIII.- Promover la educación y capacitación de personas y grupos u organizaciones de todos los sectores de la sociedad, con el objeto de contribuir al cambio de hábitos negativos para el ambiente, en la producción y consumo de bienes;
 
-XXIV.- Coadyuvar con el Gobierno Federal en la integración de los subsistemas de información nacional sobre la gestión integral de residuos de su competencia;
+XXIV.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
 XXV.- Formular, establecer y evaluar los programas y acciones de manejo y mejoramiento ambiental del gobierno estatal;
 
-XXVI.- Diseñar y promover ante las dependencias competentes el establecimiento y aplicación de instrumentos económicos, fiscales, financieros y de mercado, que tengan por objeto prevenir o evitar la generación de residuos, su valorización y su gestión integral y sustentable, así como prevenir la contaminación de sitios por residuos y, en su caso, su remediación;
+XXVI.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
 XXVII.- Celebrar convenios en materia ambiental;
 
-XXVIII.- Regular y establecer las bases para el cobro por la prestación de uno o varios de los servicios de manejo integral de residuos de manejo especial, a través de mecanismos transparentes que induzcan la minimización y permitan destinar los ingresos correspondientes a esta actividad y al fortalecimiento de la infraestructura respectiva;
+XXVIII.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2005)</small>
+XXIX.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
-XXIX.- Someter a consideración de la Secretaría, los programas para el establecimiento de sistemas de gestión integral de residuos de manejo especial y la construcción y operación de rellenos sanitarios, con el objeto de recibir asistencia técnica del Gobierno Federal para tal fin;
-
-XXX.- Coadyuvar en la promoción de la prevención de la contaminación del suelo y sitios con desechos químicos, materiales y residuos peligrosos y su remediación;
+XXX.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
 XXXI.- Coadyuvar con la Federación en la protección y conservación de especies de flora y fauna nativas;
 
-XXXII.- Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales; y (sic)
+XXXII.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2009)</small>
 
-XXXIII.- Conducir el proceso de implementación y funcionamiento del Programa Estatal contra el Cambio Climático, así como coordinarse con las autoridades competentes para su aplicación en los Municipios del Estado, y (sic)
+XXXIII.- Conducir el proceso de implementación y funcionamiento del Programa Estatal contra el Cambio Climático, así como coordinarse con las autoridades competentes para su aplicación en los Municipios del Estado, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2010)</small>
 
@@ -495,7 +491,7 @@ XVII.- La participación con el Estado en la vigilancia de la extracción para s
 
 XVIII.- La preservación y restauración del equilibrio ecológico y la protección ambiental de los ecosistemas en los centros de población, en relación con los efectos derivados del crecimiento urbano, de los servicios de alcantarillado, aseo urbano, mercados y centrales de abasto, panteones, rastros, calles, parques urbanos y jardines, tránsito y transporte local, incluyendo corrales de ganado y criaderos de aves;
 
-XIX.- La promoción de programas encaminados a clasificar, separar, racionalizar y minimizar la generación de residuos sólidos no peligrosos e incorporar Normas Técnicas Ecológicas Estatales y procedimientos para su reuso y reciclaje;
+XIX.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
 XX.- La promoción y apoyo a la realización de proyectos y programas específicos de educación ecológica, a fin de desarrollar una mayor cultura ambiental y el mejor conocimiento y cumplimiento de esta Ley, así como programas de información ambiental, en coordinación con la Secretaría;
 
@@ -503,53 +499,13 @@ XXI.- La aplicación de las medidas necesarias en el ámbito de su competencia, 
 
 XXII.- La facultad de convenir acciones con los sectores social y privado en materia de su competencia, conforme a la presente Ley;
 
-XXIII.- El manejo integral de residuos sólidos urbanos, consistente en la clasificación, separación, recolección, traslado, tratamiento, y su disposición final, conforme a las siguientes facultades;
-
-A).- Formular, por sí o en coordinación con la Secretaría, y con la participación de representantes de los distintos sectores sociales, los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
-
-B).- Emitir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley y en las disposiciones legales aplicables en la materia;
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
-
-C) Controlar la recolección, transporte, tratamiento y disposición de los residuos sólidos urbanos, observando de manera irrestricta lo dispuesto por la presente Ley;
-
-D).- Prestar, por sí o a través de gestores, el servicio de manejo integral de residuos sólidos urbanos, observando lo dispuesto por esta Ley y su Reglamento;
-
-E).- Otorgar las autorizaciones y concesiones de una o más de las actividades que comprende la prestación de los servicios de manejo integral de los residuos sólidos urbanos;
-
-F).- Establecer y mantener actualizado el registro de los grandes generadores de residuos sólidos urbanos;
-
-G).- Verificar el cumplimiento de las disposiciones de esta Ley, de las Normas Oficiales Mexicanas en materia ambiental y demás ordenamientos jurídicos en materia de residuos sólidos urbanos e imponer las sanciones y medidas de seguridad que resulten aplicables;
-
-> <small>(F. DE E., P.O. 5 DE OCTUBRE DE 2005)</small>
-
-H).- Participar en el control de los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con las autoridades estatal y federal;
-
-I).- Coadyuvar en la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
-
-J).- Efectuar el cobro por el pago de los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la operación y el fortalecimiento de los mismos;
+XXIII.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2009)</small>
 
-XXIV.- Coadyuvar con la Secretaría, en la aplicación de las acciones que deriven del Programa Estatal contra el Cambio Climático, y (sic)
+XXIV.- Coadyuvar con la Secretaría, en la aplicación de las acciones que deriven del Programa Estatal contra el Cambio Climático, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2010)</small>
-
-XXV.- La prevención de las conductas prohibidas por el artículo 161 de esta Ley en materia de residuos sólidos urbanos, bajo los siguientes lineamientos generales:
-
-a) Ubicar geográficamente las zonas en las que se arrojan residuos sólidos frecuentemente, en contravención de esta Ley y sus reglamentos, que se traducen en tiraderos de basura a cielo abierto, e informar de ellos a la Secretaría para los efectos del artículo 7, fracción XXIII de esta Ley.
-
-b) Conducir la localización, vigilancia e investigación sobre la descarga, vertimiento y almacenamiento de residuos sólidos en tiraderos de basura ilegales a cielo abierto, con el propósito de aplicar las sanciones respectivas a los responsables y encontrar la causa de esa conducta antisocial, para que, en su caso, puedan establecerse las medidas idóneas para remediarla.
-
-c) Contar con un programa permanente de limpieza de tiraderos de basura ilegales a cielo abierto, mediante el cual se buscará coordinar los esfuerzos de los vecinos del área, grupos sociales de la comunidad, o cualquier corporación de la iniciativa privada, a fin de fomentar la participación ciudadana.
-
-d) Señalizar las zonas en las que se arrojan residuos sólidos frecuentemente y que constituyen tiraderos de basura ilegales a cielo abierto, mediante avisos públicos en los que se advierta la prohibición de arrojar basura o cualquier contaminación en dicho sitio, las sanciones correspondientes de incurrir en esa conducta, así como indicar que el área se encuentra bajo vigilancia de la autoridad municipal.
-
-En los lugares que se recibe escombro, se indicará el tipo de material que está permitido arrojar y el número de registro que haya otorgado la autoridad competente. Igualmente se tendrá que efectuar la señalización de prohibir tirar basura.
-
-e) Establecer infraestructura básica en las áreas susceptibles o que sean detectadas como tiraderos clandestinos a cielo abierto de residuos sólidos urbanos, colocando equipamiento como cercas, postes, rejas o cualquier barrera suficiente para obstaculizar el depósito de residuos en el lugar.
-
-f) Implementar operativos de vigilancia, que de manera aleatoria cubran uno o algunos de los sitios detectados como tiraderos de basura a cielo abierto, que se difundan ampliamente en los medios masivos de comunicación y que provoquen la disuasión de su uso;
+XXV.- (DEROGADA, P.O. 21 DE JUNIO DE 2014)
 
 XXVI.- Las demás facultades que conforme a esta Ley les corresponden.
 
@@ -1727,17 +1683,7 @@ VI.- De rehabilitación y preservación de cauces, arroyos y escurrimientos natu
 
 ###### ARTÍCULO 129.
 
-El confinamiento o la disposición final de residuos sólidos no peligrosos que se acumulen o puedan acumularse y se depositen en los suelos o se incineren, deberá realizarse exclusivamente en los sitios o instalaciones que para tal efecto opere el municipio o concesione a particulares. Estos sitios deberán contar con acreditación por parte de la Secretaría, y además deberán reunir las condiciones necesarias para prevenir o evitar:
-
-I.- La emisión o disolución de compuestos químicos que degraden la calidad del aire, agua o suelo;
-
-II.- Las alteraciones nocivas en los procesos biológicos que tienen lugar en los suelos o en el agua;
-
-III.- La modificación, trastornos o alteraciones en las características del suelo y del subsuelo, que limiten o impidan su aprovechamiento, uso o explotación;
-
-IV.- La contaminación de los ríos, cuencas, lagos, embalses, mantos acuíferos, aguas subterráneas, manantiales y aguas en general; y
-
-V.- Riesgos y problemas de salud.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ### CAPÍTULO IV. DE LA PROTECCIÓN Y APROVECHAMIENTO SOSTENIBLE DEL SUELO Y SUS ELEMENTOS
 
@@ -1795,279 +1741,127 @@ La Secretaría promoverá, ante las dependencias competentes, la introducción y
 
 En las zonas que presentan graves desequilibrios ecológicos, la Secretaría, con la participación de las demás autoridades competentes, formulará programas especiales para la restauración del equilibrio ecológico que resulten convenientes y promoverá su aprobación por el Ejecutivo Estatal.
 
-### CAPÍTULO V. RESIDUOS SÓLIDOS NO PELIGROSOS
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2014)</small>
 
-> <small>(F. DE E., P.O. 5 DE OCTUBRE DE 2005)</small>
+### CAPÍTULO V. RESIDUOS SÓLIDOS NO PELIGROSOS
 
 ###### ARTÍCULO 137.
 
-Para la prevención y control de la contaminación del suelo por residuos sólidos no peligrosos, se considerarán los siguientes criterios:
-
-I.- Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, a los municipios y a la sociedad, prevenir la contaminación del suelo;
-
-II.- Deben ser controlados los residuos sólidos no peligrosos, en tanto que constituyan la principal fuente de contaminación de los suelos;
-
-III.- Es necesario normar y regular el uso de envases, empaques y embalajes de materiales no biodegradables o no reciclables;
-
-IV.- Es imprescindible controlar y minimizar la generación de residuos, e incorporar técnicas o procedimientos para su reuso y reciclaje;
-
-V.- La utilización de plaguicidas, fertilizantes y substancias tóxicas no deberán causar impactos negativos a los ecosistemas;
-
-VI.- Los residuos de origen doméstico, comercial e industrial, contienen materiales que pueden ser reusados y reciclados, cuya recuperación mediante técnicas y procedimientos adecuados contribuye a reducir la depredación de materiales vírgenes y a racionalizar la generación de tales residuos.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 138.
 
-Los criterios para prevenir y controlar la contaminación del suelo por residuos sólidos no peligrosos, se considerarán especialmente en los siguientes casos:
-
-I.- En la ordenación, planeación y regulación del desarrollo urbano;
-
-II.- En la operación de los sistemas de limpia y de disposición final de residuos en rellenos sanitarios;
-
-III.- En el otorgamiento de autorizaciones para la realización de actividades relacionadas con plaguicidas, fertilizantes y substancias tóxicas, así como el control de sus envases y recipientes; y
-
-IV.- En el otorgamiento de autorizaciones para la instalación y operación de confinamientos o depósitos de dichos residuos.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 139.
 
-Queda sujeto a la autorización de la Secretaría, con arreglo a las bases que para tal efecto se expidan, la localización, instalación y funcionamiento de los sistemas de recolección, almacenamiento, transporte alojamiento, recuperación, tratamiento y disposición final de residuos no peligrosos, ya sea operados por los propios municipios o concesionados a particulares.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 140.
 
-Las personas físicas o morales que generen por cualquier proceso, obra o actividad, sea mercantil o de servicios, residuos no peligrosos, deberán registrar los residuos que generen ante la Secretaría.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 141.
 
-Las personas físicas y morales a que se refiere el artículo anterior, deberán entregar un reporte anual, de acuerdo a las disposiciones y el formato que para tal efecto determine la Secretaría, en el que informen el tipo de residuo, cantidad, período, lugar y destino de los residuos.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 142.
 
-Las personas físicas y morales que se dediquen al reciclado, composteo, de los residuos no peligrosos, con fines comerciales o en cantidades superiores a diez toneladas anuales, deberán contar con autorización de la Secretaría para el manejo, tratamiento, transporte y disposición final de los residuos que maneja, debiendo instrumentar un plan de manejo aprobado por la Secretaría.
-
-Las personas físicas o morales mencionadas en el párrafo anterior, deberán garantizar que al cierre de las operaciones en sus instalaciones, estas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente, conforme a lo dispuesto en el artículo 48 de la presente Ley.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 143.
 
-El Ejecutivo del Estado propondrá la celebración de acuerdos con el Ejecutivo Federal y deberá concertarlos con los Gobiernos Municipales para:
-
-I.- La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos no peligrosos; y
-
-II.- La identificación de alternativas de reutilización y disposición final de residuos sólidos no peligrosos, incluyendo la elaboración del inventario de los mismos.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 144.
 
-Para la localización, instalación y funcionamiento de sistemas de manejo de residuos no peligrosos, se tomarán en cuenta las disposiciones normativas aplicables; en todo caso, los residuos de esta naturaleza que se acumulen o puedan acumularse y se depositen en los suelos, deberán reunir las condiciones necesarias para prevenir o evitar:
-
-I.- La contaminación del suelo;
-
-II.- Las alteraciones nocivas en el proceso de formación de los suelos, de su fertilidad y propiedades físicas, químicas y biológicas;
-
-III.- Las alteraciones de las características del suelo que limiten o impidan su aprovechamiento, uso o explotación; y
-
-IV.- Riesgos y problemas de salud al ser humano y a la vida silvestre.
-
-La descarga o depósito de estos residuos en los suelos, se sujetarán a lo que disponga esta Ley y las normas reglamentarias estatales o municipales.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 145.
 
-Con las salvedades a que se refiere el siguiente artículo, los productores o distribuidores de bienes o servicios que generen la existencia de residuos sólidos no peligrosos, están obligados a:
-
-I.- Imprimir en los envases mensajes con el objeto de hacer conciencia en el consumidor, para que deposite los residuos sólidos no peligrosos en los lugares que para tales efectos se establezcan;
-
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
-
-II. En su caso destinar los residuos sólidos no peligrosos que generen, a disposición de los servicios de limpia correspondiente o en los lugares habilitados para su depósito y posterior recolección.
-
-III.- Realizar anualmente como mínimo dos campañas en diversos sectores de la sociedad con el objeto de concientizar a la población sobre el problema que genera la contaminación de los residuos sólidos no peligrosos, así como la manera de resolverlo.
-
-En los casos en que en un mismo municipio existan productores y distribuidores de un mismo bien o servicio, de aquellos a que se refiere este artículo, esta obligación recaerá en los primeros.
-
-En todo caso, el municipio estará obligado a reconocer públicamente a aquellas empresas que cumplan de manera eficiente con lo señalado en los párrafos anteriores.
-
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2005)</small>
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 146.
 
-Las obligaciones a que se refiere el artículo anterior, serán determinadas mediante un convenio que al efecto suscriban la Presidencia Municipal respectiva y la empresa de que se trate; para ello se analizarán en cada caso, la capacidad y las posibilidades del productor o distribuidor y las circunstancias especiales de los mismos.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
-El órgano encargado de la vigilancia y cumplimiento a lo preceptuado en el artículo anterior, será el Comité Municipal de Ecología del municipio respectivo; mismo que deberá rendir al ayuntamiento correspondiente, un informe semestral del estado que guarden los convenios suscritos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2014)</small>
 
 ### CAPÍTULO VI. CLASIFICACIÓN DE LOS RESIDUOS
 
 ###### ARTÍCULO 147.
 
-Los residuos sólidos urbanos deberán clasificarse en orgánicos e inorgánicos, con el objeto de facilitar su separación primaria y secundaria, de conformidad con los Programas Estatales y Municipales para la Prevención y la
-
-Gestión Integral de los Residuos, así como con los ordenamientos legales aplicables.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 148.
 
-Los residuos de manejo especial se clasifican como se indica a continuación, salvo cuando se trate de residuos considerados como peligrosos en las Normas Oficiales Mexicanas correspondientes:
-
-I.- Residuos de las rocas o los productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales de construcción o se destinen para este fin, así como los productos derivados de la descomposición de las rocas, excluidos de la competencia federal conforme a las fracciones IV y V del artículo 5 de la Ley Minera;
-
-II.- Residuos de servicios de salud, generados por los establecimientos que realicen actividades médico-asistenciales a las poblaciones humanas o animales, centros de investigación, con excepción de los biológico-infecciosos;
-
-III.- Residuos generados por las actividades pesqueras, agrícolas, silvícolas, forestales, avícolas, ganaderas, incluyendo los residuos de los insumos utilizados en esas actividades;
-
-IV.- Residuos de los servicios de transporte, así como los generados a consecuencia de las actividades que se realizan en puertos, aeropuertos, terminales ferroviarias y portuarias y en las aduanas;
-
-V.- Lodos provenientes del tratamiento de aguas residuales;
-
-VI.- Residuos de tiendas departamentales o centros comerciales generados en grandes volúmenes;
-
-VII.- Residuos de la construcción, mantenimiento y demolición en general;
-
-VIII.- Residuos tecnológicos provenientes de las industrias de la informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil, por sus características, requieren de un manejo específico; y
-
-IX.- Otros que determine la Secretaría.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 149.
 
-La clasificación de los residuos sólidos urbanos y los residuos que requieran de manejo especial y que puedan ser reutilizados, se llevará a cabo de conformidad con los criterios que se establezcan para tal efecto.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
-La Secretaría deberá publicar en el órgano de difusión oficial y diarios de circulación local, la relación de los residuos sujetos a planes de manejo y, en su caso, proponer a la Federación los residuos sólidos urbanos o de manejo especial que deban agregarse a los listados a los que hace referencia el párrafo anterior.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2014)</small>
 
 ### CAPÍTULO VII. PROGRAMAS PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
 ###### ARTÍCULO 150.
 
-La Secretaría elaborará e instrumentará los programas locales para la prevención y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con esta Ley, con el Diagnóstico Básico para la Gestión Integral de Residuos y demás disposiciones aplicables. Dichos programas deberán contener al menos lo siguiente:
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
-I.- El diagnóstico básico para la gestión integral de residuos de su competencia, en el que se precise la capacidad y efectividad de la infraestructura disponible para satisfacer la demanda de servicios;
+ARTÍCULO 150 bis. (DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
-II.- La política local en materia de residuos sólidos urbanos y de manejo especial;
-
-III.- La definición de objetivos y metas locales para la prevención de la generación y el mejoramiento de la gestión de los residuos sólidos urbanos y de manejo especial, así como las estrategias y plazos para su cumplimiento;
-
-IV.- Los medios de financiamiento de las acciones consideradas en los programas; y (sic)
-
-V.- Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias.
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2012)</small>
-
-VI.- Los mecanismos para promover la participación de los sectores social y privado.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
-
-ARTÍCULO 150 bis. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, realizar las acciones o, en su caso, formular los programas necesarios, para que en la Entidad se privilegie la distribución y utilización de bolsas reciclables o biodegradables.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2014)</small>
 
 ### CAPÍTULO VIII. PLANES DE MANEJO
 
 ###### ARTÍCULO 151.
 
-Los planes de manejo se establecerán para los siguientes fines y objetivos:
-
-I.- Promover la prevención y disminución de la generación de residuos, así como la reutilización de los mismos en otros procesos, a través de medidas que reduzcan los costos de su administración, faciliten y hagan más efectivos, desde la perspectiva ambiental, tecnológica, económica y social, los procedimientos para su manejo;
-
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2005)</small>
-
-II.- Establecer modalidades de manejo que respondan a las particularidades de los residuos y de los materiales que los constituyan, así como esquemas en los que aplique el principio de responsabilidad compartida de los distintos sectores involucrados;
-
-III.- Atender a las necesidades específicas de ciertos generadores que presentan características peculiares;
-
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2005)</small>
-
-IV.- Establecer programas de educación en materia de reducción en la generación de residuos y la creación de programas de reconocimiento a las empresas que obtengan logros en la minimización de los residuos; y
-
-V.- Alentar la innovación de procesos, métodos y tecnologías, para lograr un manejo integral de los residuos, que sea económicamente factible.
-
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2005)</small>
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 152.
 
-Estarán obligados a la manifestación de la generación de sus residuos y a la formulación y ejecución de los planes de manejo, los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las Normas Oficiales Mexicanas correspondientes y en las Normas Técnicas Ecológicas Estatales aplicables.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 153.
 
-La determinación de residuos que podrán sujetarse a planes de manejo, se llevará a cabo con base en lo que establezcan las Normas Oficiales Mexicanas y las Normas Técnicas Ecológicas Estatales correspondientes, bajo los criterios siguientes:
-
-I.- Que los materiales que los componen tengan un alto valor económico;
-
-II.- Que se trate de residuos de alto volumen de generación, producidos por un número reducido de generadores;
-
-III.- Que se trate de residuos que contengan sustancias tóxicas persistentes y bioacumulables; y
-
-IV.- Que se trate de residuos que representen un alto riesgo a la población, al ambiente o a los recursos naturales.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 154.
 
-Los elementos y procedimientos que se deben considerar al formular los planes de manejo, se especificarán en las Normas Oficiales Mexicanas y en las Normas Técnicas Ecológicas Estatales correspondientes, y estarán basados en los principios que señala la presente Ley.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 155.
 
-Las empresas o establecimientos responsables de los planes de manejo presentarán a la Secretaría, para su conocimiento y registro, los residuos de manejo especial, un listado de residuos sólidos no peligrosos que requieran un manejo especial para su reciclado. Para el mismo efecto, a los municipios de los residuos sólidos urbanos, de conformidad con lo dispuesto en esta Ley y según lo determinen su Reglamento y demás ordenamientos que de ella deriven.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
-Cuando se pretenda realizar cambios, modificaciones o alteraciones en sus actividades, que motiven incrementos en la cantidad de sus residuos generados, deberá solicitar previamente a la Dirección de Ecología, la actualización del registro de empresa generadora de residuos de manejo especial.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2014)</small>
 
 ### CAPÍTULO IX. DE LA PREVENCIÓN Y MANEJO INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
 
 ###### ARTÍCULO 156.
 
-La regulación de la generación y manejo integral de los residuos sólidos urbanos y los residuos no peligrosos que requieran de un manejo especial, se llevará a cabo conforme a lo que establezca la presente Ley y demás disposiciones aplicables.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 157.
 
-El Ejecutivo del Estado, por conducto de la Secretaría, y los municipios, en el ámbito de sus respectivas competencias, con el propósito de promover la reducción de la generación, el reciclado y la gestión integral de los residuos sólidos urbanos y el manejo especial de los residuos no peligrosos, a fin de proteger la salud y prevenir y controlar la contaminación ambiental producida por su manejo, deberán llevar a cabo las siguientes acciones:
-
-I.- El control y vigilancia del manejo integral de residuos en el ámbito de su competencia;
-
-II.- Diseñar e instrumentar programas para incentivar a los grandes generadores de residuos a reducir su generación y someterlos a un manejo integral;
-
-III.- Promover la suscripción de convenios con los grandes generadores de residuos, en el ámbito de su competencia, para que formulen e instrumenten los planes de manejo de los residuos que generen;
-
-IV.- Integrar el registro de los grandes generadores de residuos en el ámbito de su competencia y de empresas prestadoras de servicios de manejo de esos residuos, así como la base de datos en la que se recabe la información respecto al tipo, volumen y forma de manejo de los residuos;
-
-V.- Integrar la información relativa a la gestión integral de los residuos sólidos urbanos y de manejo especial, al Sistema Nacional de Información Ambiental y Recursos Naturales;
-
-VI.- Elaborar, actualizar y difundir el diagnóstico básico para la gestión integral de residuos sólidos urbanos y el manejo especial de los residuos no peligrosos;
-
-VII.- Coordinarse con las autoridades municipales, según proceda, y concertar con representantes de organismos privados y sociales, para alcanzar las finalidades a que se refiere esta Ley y para la instrumentación de planes de manejo de los distintos residuos que sean de su competencia;
-
-VIII.- Establecer programas para mejorar el desempeño ambiental de las cadenas productivas que intervienen en la segregación, acopio y preparación de los residuos sólidos urbanos y de manejo especial para su reciclaje;
-
-IX.- Desarrollar guías y lineamientos para la segregación, recolección, acopio, almacenamiento, reciclaje, tratamiento y transporte de residuos;
-
-X.- Organizar y promover actividades de comunicación, educación, capacitación, investigación y desarrollo tecnológico para prevenir la generación, valorizar y lograr el manejo integral de los residuos;
-
-XI.- Promover la integración, operación y funcionamiento de organismos consultivos en los que participen representantes de los sectores industrial, comercial y de servicios, académico, de investigación y desarrollo tecnológico, asociaciones profesionales y de consumidores, y redes intersectoriales relacionadas con el tema, para que tomen parte en los procesos destinados a clasificar los residuos, evaluar las tecnologías para su prevención, rutas de recolección, disposición, centros de acopio y tratamiento, planificar el desarrollo de la infraestructura para su manejo y desarrollar las propuestas técnicas de instrumentos normativos y de otra índole, que ayuden a lograr los objetivos en la materia; y
-
-XII.- Realizar las acciones necesarias para prevenir y controlar la contaminación por residuos susceptibles de provocar procesos de salinización de suelos e incrementos excesivos de carga orgánica en suelos y cuerpos de agua.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 158.
 
-Las Normas Oficiales Mexicanas en materia ambiental, establecerán los términos a que deberá sujetarse la ubicación de los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de los residuos sólidos urbanos y de aquellos que requieran un manejo especial, en rellenos sanitarios o en confinamientos controlados.
-
-Las normas especificarán las condiciones que deben reunir las instalaciones y los tipos de residuos que puedan disponerse en ellas, para prevenir la formación de lixiviados y la migración de éstos fuera de las celdas de confinamiento. Así mismo, plantearán en qué casos se puede permitir la formación de biogás para su aprovechamiento.
-
-Los municipios regularán los usos del suelo, de conformidad con los programas de ordenamiento ecológico y de desarrollo urbano, en los cuales se considerarán las áreas en las que se establecerán los sitios de disposición final de los residuos sólidos urbanos y de manejo especial.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 159.
 
-Para la prevención de la generación y la gestión integral de los residuos de manejo especial, el Ejecutivo del Estado, a través de la Secretaría, establecerá las obligaciones de los generadores, distinguiendo grandes y pequeños, y las de los prestadores de servicios en la recolección, disposición y tratamiento de residuos, se formularán los criterios y lineamientos para su manejo integral.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 160.
 
-Los municipios, de conformidad con esta Ley, llevarán a cabo las acciones necesarias para la prevención de la generación, el reciclado y la gestión integral de los residuos sólidos urbanos, considerando:
-
-I.- Las obligaciones a las que se sujetarán los generadores de residuos sólidos urbanos;
-
-II.- Los requisitos para la prestación de los servicios para el manejo integral de los residuos sólidos urbanos; y
-
-III.- Los ingresos que deberán obtener por brindar el servicio de su manejo integral.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 161.
 
-Queda prohibido:
-
-I.- Verter residuos en la vía pública, predios baldíos, barrancas, cañadas, ductos de drenaje y alcantarillado, cableado eléctrico o telefónico, de gas; en cuerpos de agua, cavidades subterráneas, áreas naturales protegidas y zonas de conservación ecológica, zonas rurales y lugares no autorizados por la legislación aplicable;
-
-II.- Incinerar residuos a cielo abierto; y
-
-III.- Abrir nuevos tiraderos a cielo abierto.
+(DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 > <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
@@ -2835,6 +2629,8 @@ P.O. 19 DE ENERO DE 2013
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 21 DE JUNIO DE 2014.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial del Estado, y su aplicación quedará sujeta a las disposiciones del Reglamento del Programa de Verificación Vehicular.
@@ -2842,6 +2638,14 @@ El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publica
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Ejecutivo del Estado deberá expedir el Reglamento del Programa de Verificación Vehicular dentro de los noventa días posteriores al inicio de la vigencia del presente Decreto.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los 180 días hábiles siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá el reglamento a que se refiere esta Ley, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
 
 ###### ARTÍCULO TERCERO.
 
