@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-04-12"
+last_updated: "2014-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE ABRIL DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 293 PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -4179,6 +4177,22 @@ ART. 497.- Al hacer el requerimiento que se dispone en el artículo 489, se emba
 
 ART. 498.- Para la ejecución del desahucio se tiene como domicilio legal del ejecutado la finca o departamento de cuya desocupación se trata.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+ART. 498 BIS.- Desde el momento de iniciado el juicio y antes de que se dicte sentencia, se informe que el bien mueble o inmueble materia de la litis, fue abandonado por el arrendatario, el juez que conozca de los autos, ordenará la inspección de la cosa arrendada en la que se cumplan los requisitos aplicables al cateo, para constatar tal hecho en los autos, de acuerdo a lo siguiente:
+
+I.- El arrendador o fiador podrán presentar el informe de abandono del bien mueble o inmueble arrendado, apoyado en la certificación de hechos realizada por notario público, o bien en la declaración de testigos que por su vecindad o parentesco con el arrendatario, tengan conocimiento de este hecho y lo ratifiquen mediante comparecencia ante el personal del juzgado;
+
+II.- El juez ordenará la inspección del bien mueble o inmueble materia de la litis para comprobar tal hecho. Para esta diligencia, el ejecutor, en el primer caso, se constituirá al lugar donde se encuentre abandonada la cosa arrendada y levantará acta circunstanciada, en presencia de dos testigos del lugar, si los hubiera, o en su defecto de dos testigos de asistencia, detallando las condiciones en que se localizó, y en el segundo supuesto, procederá en los mismos términos y antes de ingresar al bien raíz, deberá cerciorarse sobre la ausencia del arrendatario por un mes del inmueble arrendado, para luego, previa la autorización del Juzgador, proceda a romper las cerraduras del inmueble con cargo al denunciante.
+
+III.- El ejecutor que practique la diligencia de inspección, en el acta hará una relación pormenorizada del estado físico de la cosa mueble arrendada y, en su caso, del inmueble que reclama el arrendador, asentando en el acta, sobre el notorio abandono del bien mueble o del inmueble; hará inventario pormenorizado de los bienes muebles del arrendatario y de los que sean del arrendador, especificando el estado físico en el que se encuentran y procediendo al aseguramiento de los mismos, dejándolos en depósito del arrendador bajo su responsabilidad hasta que el arrendatario los reclame o, en su caso, declarada la sentencia en el expediente principal, podrán ser destinados al pago de las obligaciones de pago del arrendatario, señaladas en la sentencia; y
+
+IV. En el supuesto de que el funcionario judicial encargado de ejecutar el mandato, demuestre ya sea en forma personal o por conducto de los vecinos del lugar, que la cosa mueble no está abandonada, o bien acredite la ocupación física del inquilino en el inmueble, dará por terminada la diligencia y el trámite del Juicio Sumario o el Juicio Especial de Desocupación, según el caso, deberá continuar por sus etapas procesales;
+
+Concluida la diligencia, con base en el acta circunstanciada, y comprobado el abandono de la cosa arrendada, el juez dentro de los 05 cinco días siguientes, mediante resolución, determinará si en efecto el bien arrendado fue abandonado y declarará que en ese momento cesan de correr las rentas y restituirá al arrendador el uso y disfrute del bien mueble o inmueble, quedando rescindido el contrato en los términos de los artículos 2373, fracción IX, y 2386 del Código Civil. En caso contrario, impondrá a quien informó falsamente, una multa de veinte a doscientos días de salario mínimo y le condenara al pago de los daños que en su caso se ocasionen. Esta determinación admitirá el recurso de apelación.
+
+Las presentes diligencias podrán ser promovidas indistintamente, cuando se cumplan los requisitos de abandono de muebles o inmuebles del Código Civil y las propias del presente artículo, en el Juicio Especial de Desocupación, o en su defecto en cualquier juicio sumario promovido por el arrendador y que tenga por objeto la recuperación del inmueble o de la cosa mueble arrendada. Para el caso de que las presentes diligencias se hayan promovido y procedido en el Juicio Especial de Desocupación, se declarará sin materia el Juicio y quedará expedito el derecho del actor para reclamar las cuestiones inherentes del arrendamiento en la vía que proceda. Para el caso de que las presentes dirigencias se hayan promovido en un juicio sumario sobre cuestiones de arrendamiento de cosa mueble, o bien raíz, la cuestión inherente a la restitución quedará sin materia, sin embargo, podrá continuarse el juicio por las demás cuestiones reclamadas e inherentes al contrato de arrendamiento.
+
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO VI. De la vía de apremio
@@ -6434,3 +6448,7 @@ SEGUNDO.- La Dirección General del Registro Civil del Estado, así como las Ofi
 P.O. 5 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
