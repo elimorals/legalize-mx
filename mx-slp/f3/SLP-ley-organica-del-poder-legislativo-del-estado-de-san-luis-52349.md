@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2014-05-13"
+last_updated: "2014-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -979,13 +979,23 @@ La Comisión de Vigilancia no podrá ser integrada por quien haya formado parte 
 
 El turno de los asuntos que se presenten al Congreso del Estado, se hará conforme a la competencia que determina la presente Ley para cada comisión. En caso de que algún diputado disienta del turno determinado por el Presidente de la Directiva, solicitará que el mismo sea puesto a la consideración de la Asamblea para que ésta determine lo conducente.
 
-Las iniciativas deberán dictaminarse por las comisiones en un término máximo de seis meses. Si la complejidad de la misma lo requiere, la comisión podrá solicitar hasta dos prórrogas de tres meses cada una a la Directiva. Al término de estos plazos, la iniciativa deberá ser dictaminada aprobándola en sus términos, con modificaciones de las comisiones, o en su caso, desechándola por improcedente.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Las iniciativas deberán dictaminarse por las comisiones aprobándolas en sus términos, con modificaciones de las comisiones o, en su caso, desechándolas por improcedentes, en un término máximo de seis meses. Si la complejidad de la misma lo requiere, la comisión citada en primer término podrá solicitar hasta dos prórrogas de tres meses cada una a la Directiva.
 
 Los asuntos de trámite que se turnen a comisiones deberán desahogarse en un plazo máximo de tres meses. La comisión podrá acordar que estos asuntos puedan ser desahogados por el Presidente y Secretario de cada comisión.
 
-Los puntos de acuerdo que presenten los diputados al Pleno, se resolverán preferentemente en la misma sesión; cuando la Directiva lo determine serán turnados a comisiones, las que los presentarán para su resolución al Pleno, en un plazo máximo de treinta días naturales.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-Por determinación del Pleno, en caso de que los asuntos no sean resueltos en los plazos dispuestos en los párrafos anteriores, el asunto será turnado por la Directiva, a una comisión creada ex profeso, la que deberá resolver en un término máximo de tres meses.
+Los puntos de acuerdo que presenten los diputados se resolverán preferentemente en la misma sesión; cuando la Directiva lo determine serán turnados a comisiones, las que los presentarán para su resolución al Pleno, en un plazo máximo de treinta días naturales, que son improrrogables; de no ser resueltos en el plazo dispuesto, el Presidente de la Directiva, o el Presidente de la Diputación Permanente, declarará su caducidad, en términos del artículo 11 fracción XIV, del Reglamento para el Gobierno Interior del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Por determinación del Pleno, en caso de que los asuntos propuestos por ciudadanos no sean resueltos en los plazos dispuestos en los párrafos anteriores, el asunto será turnado por la Directiva a una comisión creada ex profeso, la que deberá resolver en un término máximo de tres meses.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Para el caso de las iniciativas presentadas por los diputados; el Gobernador del Estado; el Supremo Tribunal de Justicia; y los ayuntamientos, que no hayan sido resueltas en los plazos dispuestos en los párrafos anteriores, el Presidente de la Directiva, o de la Diputación Permanente, declarará su caducidad en términos de los artículos, 11 fracción XIV, y 157 fracción III, del Reglamento para el Gobierno Interior del Congreso del Estado, y sólo podrán volver a ser promovidas hasta el siguiente periodo ordinario.
 
 ###### ARTICULO 93.
 
@@ -1009,11 +1019,15 @@ Si alguno de los integrantes de una comisión disiente de una resolución o dict
 
 Para el mejor desempeño de sus funciones las comisiones, previo acuerdo de sus integrantes, tienen la facultad de:
 
-I. Solicitar por conducto de su Presidente, la información y copias de documentos que requieran de los archivos de dependencias y entidades del Estado y municipios, previo aviso que se haga a la Directiva y a la Junta, y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+I. Solicitar, por conducto de su Presidente, la información o documentación a las dependencias centralizadas o descentralizadas del Poder Ejecutivo del Estado, ayuntamientos u organismos autónomos, cuando se trate de un asunto sobre su ramo, o se analice una iniciativa relativa a las materias que les corresponda atender de acuerdo con los ordenamientos aplicables, y
 
 II. Citar y entrevistarse, por conducto de su Presidente, con los funcionarios públicos para una mejor sustentación de su juicio en el estudio de los asuntos que les encomienden.
 
-Las autoridades y funcionarios municipales, estatales y de sus organismos descentralizados, así como los organismos constitucionales autónomos, están obligados a proporcionar la información solicitada por el Congreso o sus comisiones. La reticencia o negativa para entregarla en los términos o plazos pertinentes, autorizará al Poder Legislativo a dirigirse oficialmente en queja al superior jerárquico que corresponda, sin perjuicio de las sanciones que sean aplicables a los funcionarios responsables, conforme a la ley de la materia.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Las autoridades y funcionarios municipales, estatales y de sus organismos descentralizados, así como los organismos constitucionales autónomos, están obligados a proporcionar la información solicitada por las comisiones, en plazo no mayor de diez días hábiles contados a partir del día en que fueran notificados; apercibidos que para el caso de no hacerlo, o se negaren a entregarla dentro del término señalado, o no entreguen satisfactoriamente la información o documentos solicitados por las comisiones, el Presidente de éstas podrá dirigirse oficialmente en queja al superior jerárquico que corresponda, sin perjuicio de la responsabilidad administrativa aplicable a los funcionarios, en términos de la fracción XXIII Ter del artículo 56 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 97.
 
@@ -1327,7 +1341,7 @@ III. Los relativos a nombramientos o ratificación de los titulares o integrante
 
 IV. Los referentes a la calificación de las excusas que expongan el gobernador, diputados y miembros de los ayuntamientos para no desempeñar sus cargos;
 
-V. Los tocantes a la concesión de licencias temporales al Gobernador del Estado para separarse de su encargo, y para ausentarse de la Entidad por más de quince días;
+V. Los tocantes a la concesión de licencias temporales al gobernador del Estado para separarse de su encargo, y para ausentarse de la Entidad por más de quince días;
 
 VI. Los relativos a la calificación de las renuncias de los magistrados del Poder Judicial, y de los tribunales autónomos;
 
@@ -1353,7 +1367,7 @@ XVI. Los que se refieran a la suspensión y desaparición de ayuntamientos, así
 
 XVII. En su carácter de comisión de examen previo conforme a la ley de la materia, los concernientes a los juicios políticos, de responsabilidad y de declaración de procedencia;
 
-XVIII. Los concernientes a las controversias que se susciten entre uno o más municipios, y entre éstos y el Poder Ejecutivo o el Poder Judicial del Estado, siempre y cuando no posean carácter contencioso;
+XVIII. Los concernientes a las controversias que se susciten entre uno o más municipios, y entre éstos y el Poder Ejecutivo o el Poder Judicial del Estado, siempre y cuando no posean un carácter contencioso;
 
 XIX. Los encaminados a obtener del Poder Legislativo, amnistías o indultos por delitos del orden común;
 
@@ -2202,6 +2216,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 13 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
