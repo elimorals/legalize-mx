@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2014-04-05"
+last_updated: "2014-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -871,7 +871,7 @@ Para la determinación del monto, forma y plazos de pago, se estará a lo que di
 
 ###### ARTICULO 54.
 
-No se pagará esta contribución por los bienes del dominio público de la federación, del Estado y de los municipios, salvo que tales bienes sean utilizados por entidades paraestateles (sic), paramunicipales o por particulares, bajo cualquier título para fines administrativo o propósitos distintos a los de su objeto público.
+No se pagará esta contribución por los bienes del dominio público de la federación, del Estado y de los municipios, salvo que tales bienes sean utilizados por entidades paraestatales (sic), paramunicipales o por particulares, bajo cualquier título para fines administrativo o propósitos distintos a los de su objeto público.
 
 ###### ARTICULO 55.
 
@@ -3369,11 +3369,19 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO SEPTIMO.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-Para el ejercicio fiscal 2014 se amplía el plazo de pronto pago por anualidad adelantada que establece el segundo párrafo del artículo 19 de esta Ley hasta el 16 de abril, concediéndoseles una bonificación del 10 por ciento, sin que se generen recargos y multas.
+###### ARTICULO SÉPTIMO.
+
+Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago del Impuesto Predial correspondiente al ejercicio fiscal 2014 y anteriores, dentro de los meses de julio a diciembre del actual ejercicio fiscal, se les aplicará el cobro en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes que van del 0% al 40%, en los siguientes periodos:
+
+PERIÓDO JULIO AGOSTO SEPTIEMBRE OCTUBRE NOVIEMBRE DICIEMBRE
+
+BASE 0% 20% 40%
+
+Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -3518,3 +3526,7 @@ P.O. 15 DE MARZO DE 2014.
 P.O. 5 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
