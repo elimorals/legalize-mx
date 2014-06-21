@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2014-05-24"
+last_updated: "2014-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -419,45 +417,75 @@ El pueblo ejerce su soberanía por medio de los Poderes del Estado en los casos 
 
 La Renovación de los Poderes Legislativo y Ejecutivo y de los gobiernos municipales, se realizará mediante elecciones libres, auténticas y periódicas, a través del sufragio universal, libre, secreto, directo, personal e intransferible, cuyo ejercicio está garantizado por esta Constitución. Dicha renovación se sujetará a las siguientes bases:
 
-APARTADO A.- De los Partidos Políticos.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2014)</small>
 
-I.- Los partidos políticos son entidades de interés público, la ley determinará las normas y requisitos para su registro legal, así como las formas específicas de su intervención en el proceso electoral. Los partidos políticos nacionales y locales, tendrán derecho a participar en las elecciones estatal, distritales y municipales, por sí mismos o en coaliciones totales o parciales, sujetándose a las disposiciones locales;
+APARTADO A.- De los Partidos Políticos y los Candidatos Independientes.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación nacional o estatal, según corresponda, y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e Intransferible;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+l. Los partidos políticos son entidades de interés público, la ley determinará las normas y requisitos para su registro legal, así como las formas específicas de su intervención en el proceso electoral, incluyendo otras formas de participación o asociación, con el fin de postular candidatos, conforme lo señala el artículo 85, párrafo 5, de la Ley General de Partidos Políticos.
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
 
 II.- Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa; la infracción a esta disposición será castigada con multa o cancelación del registro del partido político en los términos que establezca la ley;
 
-III.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2013)
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-IV.- Los partidos políticos en la selección de sus candidatos deberán cumplir con los principios de equidad y paridad de género en los términos que establezca la ley;
+III. Los ciudadanos tendrán derecho de solicitar por sí mismos, su registro como candidatos independientes a cargos de elección popular por el principio de mayoría relativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+De conformidad con lo señalado por el artículo 116, fracción IV, inciso k), de la Constitución Política de los Estados Unidos Mexicanos, la ley electoral del estado regulará el régimen aplicable a la postulación, registro, derechos y obligaciones de los candidatos independientes, garantizando su derecho al financiamiento público y al acceso a la radio y la televisión en los términos establecidos en la Constitución de la República y en las leyes correspondientes;
 
-V.- La ley regulará los procesos internos de selección de candidatos y el proselitismo que realicen los aspirantes a ocupar los diversos puestos de elección popular al interior de los partidos políticos, asimismo establecerá las reglas para la realización de precampañas y campañas electorales. Del mismo modo se fijarán en la ley los impedimentos para la participación de servidores públicos en activo durante las precampañas de los partidos.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+IV. Los partidos políticos en la selección de sus candidatos garantizarán la paridad de género en las candidaturas a legisladores locales y regidores, por ambos principios, conforme lo disponga la ley. Esta disposición será aplicable, en lo referente a planillas de regidores, para las candidaturas independientes;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+
+V. La ley regulará los procesos de selección de candidatos y el proselitismo que realicen los aspirantes a ocupar los diversos puestos de elección popular al interior de los partidos políticos, así como los procesos de obtención de apoyos ciudadanos de los aspirantes a las candidaturas independientes; asimismo establecerá las reglas para la realización de precampañas y campañas electorales. Del mismo modo se fijarán en la ley los impedimentos para la participación de servidores públicos en activo durante las precampañas de los partidos.
 
 Las precampañas sólo tendrán lugar dentro de los procesos internos de selección de candidatos de los partidos políticos;
 
 Toda persona que realice actos de proselitismo o de promoción personal de cualquier índole sin sujetarse a las disposiciones o tiempos que señale la ley, se hará acreedora, según el caso, a las sanciones que en la misma se establecen;
 
-VI.- La duración de las campañas en el año de elecciones para Gobernador, diputados, presidentes municipales y regidores, no será mayor a sesenta días; en el año en que sólo se elijan Diputados locales y Ayuntamientos, las campañas no podrán exceder de cuarenta y cinco días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales respectivas;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-La violación a estas disposiciones por los partidos o cualquier otra persona física o jurídica colectiva será sancionada conforme a la ley;
+VI. La duración de las campañas en el año de elecciones para Gobernador, diputados, presidentes municipales y regidores, será de setenta y cinco días; en el año en que sólo se elijan Diputados locales y Ayuntamientos, las campañas serán de cuarenta y cinco días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales respectivas;
+
+La violación a estas disposiciones por los partidos, aspirantes, candidatos o cualquier otra persona física o jurídica colectiva será sancionada conforme a la ley;
 
 VII.- La ley garantizará que los partidos políticos nacionales y locales cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos para sus precampañas y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado;
 
-VIII.- El financiamiento público para los partidos políticos que mantengan su registro y alcancen el 2% de la votación en la elección de Diputados por el principio de mayoría relativa inmediata anterior, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, así como las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, el que se otorgará conforme a lo siguiente y a lo que disponga la ley:
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Al partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+
+VIII. El financiamiento público para los partidos políticos que mantengan su registro y alcancen el tres por ciento de la votación en la elección para Gobernador o de Diputados por el principio de mayoría relativa inmediata anterior, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, así como las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, el que se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
 a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del estado por el sesenta y cinco por ciento del salario mínimo diario vigente para el estado. El 30% de la cantidad total que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior;
 
-b) El financiamiento público para las actividades tendentes a la obtención del voto durante el año en que se elija Gobernador del Estado, Diputados Locales, Presidentes Municipales y Regidores, equivaldrá al cincuenta por ciento que le corresponda a cada partido por actividades ordinarias en ese mismo año; cuando sólo se elija a Diputados Locales, Presidentes Municipales y Regidores, equivaldrá al cuarenta por ciento de dicho financiamiento por actividades ordinarias; y
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al ocho por ciento del monto total del financiamiento público que corresponda a cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos de forma igualitaria y el setenta por ciento restante de acuerdo a su fuerza electoral, calculada con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+b) El financiamiento público para las actividades tendentes a la obtención del voto durante el año en que se elijan Gobernador del Estado, diputados locales, presidentes municipales y regidores, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados locales, presidentes municipales y regidores, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias; y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+
+c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda a cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos de forma igualitaria y el setenta por ciento restante de acuerdo a su fuerza electoral, calculada con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
 La ley fijará los límites a las erogaciones de las campañas electorales de los partidos políticos.
 
-De la misma forma, establecerá los criterios para determinar las erogaciones en las precampañas cuyo monto no será mayor al veinte por ciento establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecidos para la última campaña de gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y establecerá las sanciones que deban imponerse por el incumplimiento de éstas disposiciones.
+De la misma forma, establecerá los criterios para determinar las erogaciones en las precampañas cuyo monto será equivalente al veinte por ciento establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+La propia ley establecerá el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y establecerá las sanciones que deban imponerse por el incumplimiento de éstas disposiciones.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+VIII-Bis. Asimismo las leyes, general o estatal, según corresponda, establecerán las reglas y límites a que se sujetará el financiamiento público y privado de las actividades de los ciudadanos que obtengan su registro como candidatos independientes dentro de un proceso electoral, así como los procedimientos para el control y vigilancia del origen, uso y destino de todos los recursos con los que cuenten, incluyendo aquellos que hubiesen utilizado para financiar las actividades tendentes a obtener dicho registro y dispondrán las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
 IX.- Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley; y
 
@@ -465,71 +493,111 @@ X.- En la ley se establecerá el procedimiento para la liquidación de las oblig
 
 Los partidos políticos nacionales que pierdan su registro, deberán reintegrar al estado los bienes y remanentes adquiridos con financiamiento público de origen estatal.
 
-APARTADO B.- Del acceso de los partidos políticos a los medios de comunicación social.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2014)</small>
+
+APARTADO B. Del acceso de los partidos políticos y los candidatos independientes a los medios de comunicación social.
 
 En el ámbito estatal los partidos políticos tendrán derecho al uso en forma permanente de los medios de comunicación social.
 
-I.- El Instituto Federal Electoral administrará el tiempo que corresponda al Estado de Tabasco en radio y televisión, destinado para fines electorales y al ejercicio del derecho de los partidos políticos en el ámbito estatal, conforme a lo que establece el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-II.- Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión;
+I. El Instituto Nacional Electoral administrará el tiempo que corresponda al Estado de Tabasco en radio y televisión, destinado para fines electorales y al ejercicio del derecho de los partidos políticos y, en su caso, de los candidatos independientes en el ámbito estatal, conforme a lo que establecen el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+II. Los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular, no podrán contratar o adquirir en ningún momento, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión;
 
 III.- Ninguna persona física o jurídicas-colectivas, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor, ni en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio de la entidad de este tipo de mensajes contratados en otras entidades federativas o en el extranjero;
 
-IV.- En la propaganda política o electoral se privilegiará la difusión de la ideología, principios, propuestas de los partidos o candidatos, el respeto a las instituciones o la promoción de la participación ciudadana para el ejercicio del poder público. Los partidos políticos, simpatizantes, militantes, candidatos o cualquier otra persona física o jurídicas-colectivas deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-V.- Durante el tiempo que comprendan las precampañas y campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos autónomos, organismos descentralizados, fideicomisos públicos, órganos desconcentrados, empresas paraestatales y paramunicipales, y cualquier otro ente público; las personas físicas o jurídicas-colectivas, tampoco podrán difundir las acciones, obras y cualquier función gubernamental o administrativa.
+IV. En la propaganda política o electoral se privilegiará la difusión de la ideología, principios, propuestas de los partidos o candidatos, el respeto a las instituciones o la promoción de la participación ciudadana para el ejercicio del poder público. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+
+V. Durante el tiempo que comprendan las precampañas y campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos autónomos, organismos descentralizados, fideicomisos públicos, órganos desconcentrados, empresas paraestatales y paramunicipales, y cualquier otro ente público.
 
 Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Las infracciones a lo dispuesto en este Apartado serán investigadas y sancionadas de conformidad con lo que establece el Apartado D de la Base III del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
+
 APARTADO C.- Del Instituto Electoral y de Participación Ciudadana de Tabasco.
 
-I.- La organización de las elecciones estatal, distritales y municipales es una función pública del Estado que se realiza a través de un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana de Tabasco, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo del Estado, los partidos políticos, nacionales y locales, que hayan alcanzado el 2% de la votación estatal emitida en la elección inmediata anterior, así como los ciudadanos en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán sus principios rectores. El Instituto cumplirá sus funciones conforme a las siguientes bases:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-a) El Instituto Electoral y de Participación Ciudadana de Tabasco será autoridad competente en la materia, autónomo en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo Estatal será su órgano superior de dirección y se integrará por un Consejero Presidente, seis Consejeros Electorales, y concurrirán, con voz pero sin voto, los Consejeros del Poder Legislativo, los Consejeros Representantes de los partidos políticos que hayan alcanzado el 2% de la votación estatal emitida en la elección inmediata anterior y un Secretario Ejecutivo. La ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos de dirección, ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la ley electoral y del estatuto del servicio profesional electoral que con base en ella apruebe el Consejo Estatal, regirán las relaciones de trabajo de los servidores del organismo público. Las mesas directivas de casilla estarán integradas por ciudadanos;
+I. La organización de las elecciones estatal, distritales y municipales es una función pública del Estado que se realiza a través de un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana de Tabasco, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Instituto Nacional Electoral, el Poder Legislativo del Estado, los partidos políticos, nacionales y locales, así como los ciudadanos en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán sus principios rectores. El Instituto cumplirá sus funciones conforme a las siguientes bases:
 
-El Instituto Electoral y de Participación Ciudadana de Tabasco, podrá convenir con el Instituto Federal Electoral, previa aprobación de su Consejo Estatal, para que éste último asuma la organización de procesos electorales locales, en los términos que disponga la legislación aplicable;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-b) El Consejero Presidente y los Consejeros Electorales del Consejo Estatal serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados. En los recesos, por la Comisión Permanente a propuesta de las fracciones parlamentarias. Durarán en su cargo 7 años, serán renovados de manera escalonada y no podrán ser reelectos. Se elegirán cuatro Consejeros Electorales suplentes generales. La ley establecerá las reglas y el procedimiento correspondiente, así como el mecanismo para que los suplentes sustituyan a los propietarios;
+a) El Instituto Electoral y de Participación Ciudadana de Tabasco será autoridad competente en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo Estatal será su órgano de dirección superior y se integrará por un Consejero Presidente y seis consejeros electorales, y concurrirán, con voz pero sin voto los consejeros representantes de los partidos políticos y un Secretario Ejecutivo. La ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos de dirección, ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral, el cual se integrará conforme lo establezca la ley general. Las mesas directivas de casilla estarán integradas por ciudadanos;
 
-c) El Consejero Presidente, los Consejeros Electorales no podrán ocupar otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del Consejo Estatal y de los que resulten de la docencia, de actividades científicas, culturales, de investigación o beneficencia, siempre que no sea remunerado, ni se afecte su desempeño, independencia, imparcialidad y equidad de su función electoral, sin perjuicio de sus derechos laborales adquiridos;
+El Instituto Electoral y de Participación Ciudadana de Tabasco, podrá convenir con el Instituto Nacional Electoral, previa aprobación de su Consejo Estatal, para que éste último asuma la organización de procesos electorales locales, en los términos que disponga la legislación aplicable;
 
-d) El Secretario Ejecutivo será nombrado por el voto de las dos terceras partes de los miembros del Consejo Estatal a propuesta en terna de su Presidente, al inicio de su periodo o vacante, según sea el caso, en los términos que disponga la Ley;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+b) El Consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales estatales deberán ser originarios del Estado de Tabasco o contar con una residencia efectiva en su territorio, de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley.
+
+En caso de que ocurra una vacante de consejero electoral estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de este artículo y la ley. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
+
+Los consejeros electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+c) Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+d) El Secretario Ejecutivo será nombrado por el voto de las dos terceras partes de los miembros del Consejo Estatal a propuesta de su Presidente, al inicio de su periodo, según sea el caso, en los términos que disponga la Ley;
 
 e) Los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral y de Participación Ciudadana de Tabasco deberán contar con experiencia y conocimiento en la materia electoral, la ley establecerá los mecanismos para acreditarlo así como los demás requisitos que deberán reunir para su designación;
 
-El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo, el Contralor General y demás integrantes del Instituto Electoral y de Participación Ciudadana de Tabasco, desde el momento en que sean nombrados estarán sujetos al régimen de responsabilidades administrativas establecido en el Título Séptimo de esta Constitución, sin perjuicio de las de orden penal, civil o patrimonial, en los términos de las leyes en la materia;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-Quienes se hayan desempeñado como Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo o Contralor General no podrán ser candidatos en el siguiente proceso electoral a aquel en el que hayan fungido, ni podrán ocupar dentro de los dos años siguientes a la fecha de su retiro, cargo, empleo o comisión en los poderes públicos en cuya renovación y elección constitucional hayan participado,
+El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo, el Contralor General y demás integrantes del Instituto Electoral y de Participación Ciudadana de Tabasco, desde el momento en que sean nombrados estarán sujetos al régimen de responsabilidades administrativas establecido en el Título Séptimo de esta Constitución, sin perjuicio de las de orden penal, civil o patrimonial, en los términos de las leyes en la materia. El Consejero Presidente y los Consejeros Electorales sólo podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
 
-f) Los Consejeros del Poder Legislativo serán acreditados por las fracciones parlamentarias con representación en la Legislatura; por cada propietario habrá un suplente;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Quienes se hayan desempeñado como Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo o Contralor General no podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+f) (DEROGADO, P.O. 21 DE JUNIO DE 2014)
 
 g) El Instituto Electoral y de Participación Ciudadana de Tabasco contará con una Contraloría General, dotada de autonomía técnica y de gestión, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del propio Instituto, sin perjuicio de la función que desarrolla el Órgano Superior de Fiscalización a que se refieren los artículos 40 y 41 de ésta (sic) Constitución;
 
-El titular de la Contraloría General será designado por el voto de las dos terceras partes de los miembros presentes de la. Cámara de Diputados, a propuesta de las fracciones parlamentarias. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la presidencia del Consejo Estatal y mantendrá la coordinación técnica necesaria con el Órgano Superior de Fiscalización;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-h) La fiscalización de las finanzas de los partidos políticos estará a cargo de un órgano técnico del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, cuyo titular será designado, por las dos terceras partes del propio Consejo, a propuesta del Consejero Presidente. La ley indicará la integración y funcionamiento de dicho órgano de control, así como los procedimientos para la aplicación de sanciones por el Consejo Estatal;
+El titular de la Contraloría General será designado por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, a propuesta de instituciones públicas de educación superior Durará siete años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la presidencia del Consejo Estatal y mantendrá la coordinación técnica necesaria con el Órgano Superior de Fiscalización;
 
-La fiscalización de los recursos de los partidos políticos que realice el Instituto Electoral y de Participación Ciudadana de Tabasco, no estará limitada por los secretos bancario, fiduciario y fiscal. Para el ejercicio de esta facultad y superar la limitación a que se refiere este párrafo se estará a los términos que al respecto se establecen en la Base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-i) El Instituto Electoral y de Participación Ciudadana de Tabasco tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos, al padrón electoral y lista nominal de electores conforme al convenio y los documentos técnicos que al respecto se suscriban con el Instituto Federal Electoral, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias, así como la regulación de la observación electoral y las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señala la ley;
+h) El Instituto contará con una oficialía electoral investida de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+i) El Instituto Electoral y de Participación Ciudadana de Tabasco tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a: los derechos y prerrogativas de los partidos políticos y candidatos; educación cívica; preparación de la jornada electoral; impresión de documentos y producción de materiales electorales; escrutinios y cómputos en los términos que señale la ley; resultados preliminares; encuestas o sondeos de opinión con fines electorales; observación electoral, y conteos rápidos, conforme a los lineamientos que establezca el Instituto Nacional Electoral; organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local; así como todas las no reservadas al Instituto Nacional Electoral. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señala la ley;
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 j) El Instituto Electoral y de Participación Ciudadana de Tabasco, en los términos establecidos en la ley de la materia, está facultado para verificar el cumplimiento de los requisitos legales de las propuestas de iniciativa ciudadana. Será el órgano responsable de organizar y realizar los procesos de consulta popular en la forma y términos que señalen las leyes de la materia; tendrá además la obligación de comunicar los resultados a los Poderes de la Entidad y ordenará su publicación en el Periódico Oficial del Estado; y
 
-k) El Instituto Electoral y de Participación Ciudadana de Tabasco declarará la validez de las elecciones de Gobernador, Diputados, Presidentes Municipales y Regidores de acuerdo con lo que disponga la ley; otorgará las constancias de mayoría respectivas al candidato o a las fórmulas de candidatos, según la elección de que se trate, que hubiesen obtenido mayoría de votos; y hará la declaración de validez y la asignación de Diputados y Regidores según el Principio de Representación Proporcional de conformidad con lo previsto en esta Constitución y la propia ley. Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y las asignaciones respectivas podrán ser impugnadas ante el Pleno del Tribunal Electoral de Tabasco, en los términos que señale la ley;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+k) El Instituto Electoral y de Participación Ciudadana de Tabasco declarará la validez de las elecciones de Gobernador, Diputados, Presidentes Municipales y Regidores de acuerdo con lo que disponga la ley; otorgará las constancias de mayoría respectivas al candidato, o a las fórmulas y planillas de candidatos, según la elección de que se trate, que hubiesen obtenido mayoría de votos; y hará la declaración de validez y la asignación de Diputados y Regidores según el Principio de Representación Proporcional de conformidad con lo previsto en esta Constitución y la propia ley. Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y las asignaciones respectivas podrán ser impugnadas ante el Pleno del Tribunal Electoral de Tabasco, en los términos que señale la ley;
 
 II.- El Consejo Estatal, a través del Consejero Presidente, deberá remitir al Ejecutivo Estatal el anteproyecto de egresos de cada año, para su inclusión en el proyecto del Presupuesto General de Egresos del Estado, mismo que será revisado y, en su caso, aprobado por el Congreso. En los años electorales se aumentará conforme a lo dispuesto por las leyes en la materia, tomando en cuenta las elecciones de que se trate;
 
 III.- La retribución económica que perciban los Consejeros Electorales, incluyendo la de su Presidente, no será superior, en ningún caso, a la que perciban los Magistrados Numerarios del Tribunal Superior de Justicia del Estado; y
 
-IV.- El Consejo Estatal, por conducto de su Consejero Presidente deberá dar cumplimiento a lo establecido en el artículo 41 de esta Constitución, remitiendo al Congreso, a través de su Órgano Superior de Fiscalización, su cuenta pública para su examen y fiscalización correspondiente.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+IV. El Consejo Estatal, por conducto de su Consejero Presidente deberá dar cumplimiento a lo establecido en el artículo 41 de esta Constitución, remitiendo al Congreso, a través del Órgano Superior de Fiscalización, su cuenta pública para su examen y fiscalización correspondiente.
 
 APARTADO D.- Del Sistema de Medios de Impugnación.
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-I.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, así como en los procesos de consulta popular, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y de consulta popular, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos del artículo 63 bis de esta Constitución y de las demás disposiciones jurídicas aplicables;
+l. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, así como en los procesos de consulta popular, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley, mismo que incluirá las causales de nulidad para las elecciones locales por violaciones graves, dolosas y determinantes, previstas en el párrafo segundo, Base VI, del Artículo 41 de la Constitución General de la República. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y de consulta popular, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos del artículo 63 bis de esta Constitución y de las demás disposiciones jurídicas aplicables;
 
 II.- La ley establecerá los presupuestos, requisitos de procedencia y el trámite del sistema de impugnación;
 
@@ -537,9 +605,17 @@ III.- Los supuestos y las reglas para la realización de recuentos totales o par
 
 IV.- La ley fijará los procedimientos y plazos convenientes para el desahogo de todas las instancias impugnativas respecto a las causales de nulidad de las elecciones de Gobernador, Diputados y Ayuntamientos que se establezcan en la ley;
 
-V.- Los fallos del Pleno del Tribunal Electoral de Tabasco serán definitivos; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-VI.- En materia electoral la interposición de los medios de impugnaciones constitucionales o legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+V. Los fallos del Pleno del Tribunal Electoral de Tabasco serán definitivos;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+VI. En materia electoral la interposición de los medios de impugnación, constitucionales y legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+VII. Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de la Constitución General de la República, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, según lo determine la ley.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -597,9 +673,9 @@ La elección de esos Diputados se sujetará a las bases Generales siguientes, y 
 
 I.- Para obtener el registro de sus listas regionales, el Partido Político que lo solicite, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-II.- Todo partido político que alcance por lo menos el 2% del total de la votación emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que se le asigne un Diputado según el principio de representación proporcional;
+II. Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que se le asigne un Diputado según el principio de representación proporcional;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -609,9 +685,9 @@ III.- Al partido político que cumpla con las dos fracciones anteriores, indepen
 
 IV.- En ningún caso, un partido político podrá contar con más de 21 diputados por ambos principios;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-V.- Ningún partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento; y
+V. Ningún partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento; asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido Político no será menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales; y
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -641,9 +717,9 @@ II.- Tener veintiún años cumplidos el día de la elección;
 
 III.- No estar en servicio activo en el Ejército ni tener mando de algún cuerpo policial en el distrito donde se haga la elección, cuando menos noventa días naturales antes de la fecha de la elección;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-IV.- No ser titular de alguna dependencia de la Administración Pública Estatal, ni Procurador General de Justicia; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, o del Tribunal de Conciliación y Arbitraje; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales, ni legislador o servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
+IV. No ser titular de alguna dependencia de la Administración Pública Estatal, ni Fiscal General del Estado de Tabasco; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, o del Tribunal de Conciliación y Arbitraje; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales, ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -665,11 +741,13 @@ V.- No ser ministro de culto religioso alguno.
 
 Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a Diputado, se requiere ser originario de alguno de los municipios o distrito que comprende la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de dos años anteriores a la fecha en que la misma se celebre.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 16.
 
-Los Diputados al Congreso del Estado no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+Los Diputados al Congreso del Estado podrán ser electos en forma consecutiva hasta por cuatro períodos. En este caso, la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+Los diputados que se hayan postulado en forma independiente, podrán ser reelectos del mismo modo, cumpliendo con los requisitos establecidos en la ley; podrán ser postulados por un partido o coalición para ser reelectos en forma consecutiva, siempre y cuando se hayan afiliado, antes de la mitad de su mandato, al partido que les postule o a un partido de los que integren la coalición, en su caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -951,13 +1029,19 @@ XV.- Decretar recompensas y honores a los que se distingan por servicios prestad
 
 XVI.- Legislar de acuerdo con las facultades concedidas por la Constitución Política de los Estados Unidos Mexicanos;
 
-XVII.- (DEROGADA, P.O. 7 DE JULIO DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+XVII. Aprobar el Plan Estatal de Desarrollo que proponga el Titular del Ejecutivo en el plazo que disponga la ley. En caso de que la Cámara de Diputados no se pronuncie en dicho plazo, el Plan se entenderá aprobado;
 
 XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIX.- Designar al Consejero Presidente, a los Consejeros Electorales y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco, a los Magistrados del Tribunal Electoral de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como al Presidente del Tribunal de Conciliación y Arbitraje, propuestos por el Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública; así como ratificar, en su caso, previa comparecencia ante el Pleno o, en su caso, ante la Comisión Permanente, al Procurador General de Justicia que designe el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+XIX. Designar al Fiscal General del Estado y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como al Presidente del Tribunal de Conciliación y Arbitraje, propuestos por el Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, así como a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública;
 
 XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
 
@@ -993,9 +1077,9 @@ XXVIII.- Expedir la Ley Orgánica de los Municipios y demás leyes sobre la orga
 
 XXIX.- Autorizar la enajenación o gravámen de bienes inmuebles del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-XXX.- Recibir la protesta constitucional a los diputados, al gobernador, a los magistrados del Tribunal Superior de Justicia, a los magistrados del Tribunal de lo Contencioso Administrativo; al titular de la presidencia de la Comisión Estatal de los Derechos Humanos; al consejero presidente, a los consejeros y al contralor general del Instituto Electoral y de Participación Ciudadana de Tabasco; a los magistrados electorales; a los consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al magistrado presidente del Tribunal de Conciliación y Arbitraje;
+XXX. Recibir la protesta constitucional a los diputados, al gobernador, a los magistrados del Tribunal Superior de Justicia, a los magistrados del Tribunal de lo Contencioso Administrativo; al titular de la Presidencia de la Comisión Estatal de los Derechos Humanos; al Fiscal General del Estado, al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco; a los consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al Magistrado Presidente del Tribunal de Conciliación y Arbitraje;
 
 XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
 
@@ -1175,7 +1259,9 @@ d). Poseer el día de la designación, cédula profesional, indistintamente, de 
 
 e). Haber residido en el país durante los dos años anteriores al día de la designación;
 
-f). No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Procurador General de Justicia, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento; y
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+f) No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento; y
 
 g). Las demás que se señalen en la Ley de Fiscalización Superior del Estado.
 
@@ -1247,9 +1333,9 @@ II.- Tener treinta años o más al día de la elección;
 
 III.- No ser ministro de culto religioso alguno;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-IV.- No ser titular de alguna dependencia de la Administración Pública del Estado, ni Procurador General de Justicia; o titular de Organismos Autónomos; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje; ni diputado al Congreso del Estado; ni ser miembro de las fuerzas armadas, ni haber tenido mando de fuerza pública o policial alguna, ni legislador o servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde ciento veinte días naturales antes de la fecha de la elección;
+IV. No ser titular de alguna dependencia de la Administración Pública del Estado, ni Fiscal General del Estado de Tabasco; o titular de Organismos Autónomos; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje; ni diputado al Congreso del Estado; ni ser miembro de las fuerzas armadas, ni haber tenido mando de fuerza pública o policial alguna, ni legislador o servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde ciento veinte días naturales antes de la fecha de la elección;
 
 No ser titular de alguno de los organismos descentralizados u órganos desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones ciento veinte días naturales antes de la fecha de la elección;
 
@@ -1289,7 +1375,9 @@ El Gobernador, al tomar posesión de su cargo, rendirá ante el Congreso o ante 
 
 En caso de falta absoluta del Gobernador, en tanto el Congreso nombra al Gobernador interino o substituto, lo que deberá ocurrir en un término no mayor a sesenta días, el Secretario de Gobierno asumirá provisionalmente la titularidad del Poder Ejecutivo. En este caso no será aplicable lo establecido en las fracciones II y IV del artículo 44 de esta Constitución.
 
-Quien ocupe provisionalmente la Gubernatura no podrá remover o designar a los Secretarios, ni al Procurador General de Justicia, sin autorización previa del Congreso. Asimismo, entregará al Congreso un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Quien ocupe provisionalmente la Gubernatura no podrá remover o designar a los Secretarios, ni al Fiscal General del Estado de Tabasco, sin autorización previa del Congreso. Asimismo, entregará al Congreso un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
 
 Cuando la falta absoluta del Gobernador ocurriese en los dos primeros años del período respectivo, si el Congreso se encontrase en sesiones y concurriendo, cuando menos, las dos terceras partes del número total de sus integrantes, se constituirá inmediatamente en Colegio Electoral y nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino, en los términos que disponga la Ley del Congreso. El mismo Congreso expedirá, dentro de los diez días siguientes a dicho nombramiento, la convocatoria para la elección del Gobernador que deba concluir el periodo respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de la jornada electoral, un plazo no menor de siete meses ni mayor de nueve. El así electo iniciará su encargo y rendirá protesta ante el Congreso siete días después de concluida la última etapa del proceso electoral.
 
@@ -1411,35 +1499,23 @@ XXI.- Las demás que le confiera esta Constitución y la Federal.
 
 ### CAPITULO III. DE LA ADMINISTRACION PUBLICA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 52.
 
-Para el despacho de los asuntos de la Administración Pública del Estado, habrá el número de dependencias que establezca la Ley Orgánica del Poder Ejecutivo, que distribuirá las funciones que a cada una corresponda y señalará los requisitos que el Gobernador observará para nombrar los titulares de las mismas.
+Para el despacho de los asuntos de su competencia, el Titular del Poder Ejecutivo, contará con el auxilio de la Administración Pública Estatal, la cual será centralizada y paraestatal conforme a las leyes que expida el Congreso, mismas que establecerán el número y competencia de las dependencias centralizadas y definirán las bases generales de creación de las entidades paraestatales, así como las relaciones entre dependencias y entidades.
 
-El Ministerio Público se organizará y funcionará de acuerdo con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y las leyes correspondientes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél; en el ejercicio de esta función, se organizarán y funcionarán para la investigación del delito.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
-
-El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
-
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
-
-El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
 
 El estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones de un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
-
-> <small>(DEROGADO PÁRRAFO SÉPTIMO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
-
-> <small>(DEROGADO PÁRRAFO OCTAVO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
-
-> <small>(DEROGADO PÁRRAFO NOVENO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -1453,17 +1529,65 @@ Todos los reglamentos, decretos, acuerdos y órdenes que dicte y suscriba el Gob
 
 Los titulares de las Dependencias son responsables por el despacho de los asuntos de su competencia que autoricen actos contrarios a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, leyes federales o de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-ARTICULO 54 BIS.- La Cámara de Diputados podrá convocar a los Secretarios, al Procurador General de Justicia, Coordinadores Generales, a los titulares de las entidades paraestatales, así como a los titulares de los órganos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
+ARTICULO 54 BIS. La Cámara de Diputados podrá convocar a los secretarios, al Fiscal General del Estado, a los coordinadores generales, a los titulares de las entidades paraestatales, así como a los titulares de los órganos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
 
 La Legislatura, a pedido de una tercera parte de sus miembros, podrá integrar comisiones especiales para investigar el funcionamiento de organismos descentralizados y empresas de participación estatal mayoritaria. Los resultados de las investigaciones se harán del conocimiento del Titular del Ejecutivo del Estado.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
 La Cámara de Diputados podrá requerir información o documentación a los titulares de las dependencias y entidades del gobierno, mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a quince días naturales a partir de su recepción.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
 
 Los titulares de las dependencias y entidades de la administración pública estatal, posteriormente a la presentación del informe del Gobernador al Congreso del Estado, darán cuenta del estado que guarden sus respectivos ramos, ya sea en el Pleno o en Comisiones.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+
 El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgánica del Poder Legislativo y sus reglamentos.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2014)</small>
+
+## TITULO IV BIS. DE LA FISCALIA GENERAL DEL ESTADO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE JUNIO DE 2014)</small>
+
+### CAPITULO UNICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+ARTICULO 54 TER. El Ministerio Público se organizará en una Fiscalía General del Estado de Tabasco, como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios.
+
+Para ser Fiscal General del Estado de Tabasco se requiere: Ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
+
+El Fiscal General durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
+
+l. A partir de la ausencia definitiva del Fiscal General, el Gobernador del Estado contará con veinte días para integrar una terna de candidatos al cargo, la cual enviará al Congreso del Estado.
+
+II. El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+
+Si el Congreso no hace la designación en el plazo que establece el párrafo anterior, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la terna respectiva.
+
+III. El Fiscal General podrá ser removido por el Titular del Ejecutivo por las causas graves que establezca la ley. La remoción deberá ser ratificada por el voto de la mayoría de los miembros presentes de la Cámara de Diputados dentro de un plazo de diez días hábiles; de no ser ratificada expresamente, el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+
+IV. En los recesos del Congreso, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o ratificación a la remoción del Fiscal General.
+
+V. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+
+Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden local; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que la (sic) leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades. Comparecerá ante el Congreso cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+La función de procuración de justicia a cargo de la Fiscalía General del Estado se realizará invariablemente en apego a los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+
+El Fiscal General del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1474,14 +1598,6 @@ El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgá
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
-
-## TITULO VI. MUNICIPIO LIBRE
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 55.
 
@@ -1597,9 +1713,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-VI.- No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Procurador General de Justicia, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento.
+VI. No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento.
 
 > <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
@@ -1667,17 +1783,19 @@ La remuneración que perciban los Magistrados del Tribunal Superior de Justicia,
 
 Los Magistrados y Jueces que integran el Poder Judicial del Estado, durarán ocho y cinco años, respectivamente, en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos los segundos a cargos superiores, solo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca esta Constitución y las leyes secundarias aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-ARTICULO 63 BIS.- El Tribunal Electoral de Tabasco será la máxima autoridad jurisdiccional de la materia en el Estado, funcionará de manera permanente, estará dotado de personalidad jurídica y patrimonio propios, independiente en sus resoluciones y autónomo en su funcionamiento.
+ARTICULO 63 BIS.- El Tribunal Electoral de Tabasco será la máxima autoridad jurisdiccional de la materia en el Estado, funcionará de manera permanente, estará dotado de personalidad jurídica y patrimonio propios, independiente en sus decisiones y autónomo en su funcionamiento. Desarrollará sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 El Tribunal funcionará siempre en Pleno y sus resoluciones serán acordadas en sesiones públicas y por mayoría de votos. Expedirá su reglamento interior que habrá de ser publicado en el Periódico Oficial del Estado, y realizará las demás atribuciones que le confiere la ley.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-Al Tribunal Electoral de Tabasco le corresponde resolver en forma definitiva, en los términos de esta Constitución y según lo disponga la ley, sobre:
+Con excepción de los asuntos que corresponde resolver directamente al Tribunal Electoral del Poder Judicial de la Federación en relación con la materia electoral local, al Tribunal Electoral de Tabasco le corresponde resolver en forma definitiva, en los términos de esta Constitución y según lo disponga la ley, sobre:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 I.- Las impugnaciones en las elecciones de Diputados;
 
@@ -1685,7 +1803,11 @@ I.- Las impugnaciones en las elecciones de Diputados;
 
 II.- Las impugnaciones que se presenten sobre la elección ordinaria o extraordinaria de Gobernador del Estado;
 
-III.- Las impugnaciones que se presenten en las elecciones de Presidentes Municipales y Regidores;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+III.- Las impugnaciones que se presenten en las elecciones de presidentes municipales y regidores, así como las relativas a delegados y subdelegados municipales;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 IV.- Las impugnaciones de actos o resoluciones de la autoridad electoral estatal, distintas a las señaladas en las tres fracciones anteriores, que violen normas constitucionales o legales;
 
@@ -1697,9 +1819,9 @@ V.- Las impugnaciones de actos y resoluciones que violen los derechos político 
 
 VI.- La determinación e imposición de sanciones por parte del Instituto Electoral y de Participación Ciudadana de Tabasco a partidos o agrupaciones políticas o personas físicas o jurídicas colectivas, locales, nacionales o extranjeras, que infrinjan disposiciones de esta Constitución y demás ordenamientos aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-VII.- Los conflictos laborales entre el Instituto Electoral y de Participación Ciudadana y sus servidores públicos; así como los que surjan entre el Tribunal Electoral y sus servidores públicos, en términos de las disposiciones aplicables;
+VII.- Los conflictos laborales entre el Instituto Electoral y de Participación Ciudadana y sus servidores públicos; con excepción de aquellos que formen parte del Servicio Profesional Electoral Nacional, así como los que surjan entre el Tribunal Electoral y sus servidores públicos, en términos de las disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1721,21 +1843,21 @@ La organización del Tribunal, los procedimientos para la resolución de los asu
 
 El Tribunal Electoral de Tabasco hará uso de los medios de apremio necesarios para hacer cumplir de manera pronta sus sentencias y resoluciones, en los términos que fije la ley.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-El Tribunal Electoral de Tabasco estará integrado con tres Magistrados Electorales Numerarios permanentes, con tres suplentes y dos Magistrados Supernumerarios que sólo fungirán durante el proceso electoral, todos ellos serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados. Dos de los Magistrados Electorales Numerarios Permanentes y los dos Supernumerarios serán aprobados de entre siete Magistrados que proponga el Pleno del Tribunal Superior de Justicia. El Magistrado Electoral Numerario restante, será electo de una lista de diez Jueces integrada por cinco jueces de Primera Instancia de la Judicatura y cinco jueces de instrucción del Tribunal Electoral, que reúnan los requisitos para ser Magistrados, que presente ante el Congreso del Estado, el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, previa aprobación del Pleno de éste. La elección de quienes las integren será escalonada.
+El Tribunal Electoral de Tabasco estará integrado con tres Magistrados Electorales permanentes, que deberán cumplir los requisitos señalados en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-Los Magistrados durarán en su cargo siete años. La ley señalará las demás reglas y el procedimiento correspondiente para su elección.
+De conformidad con lo señalado por la Ley General de Instituciones y Procedimientos Electorales los Magistrados durarán en su cargo siete años, y serán electos en forma escalonada por el Senado de la República. Gozarán de los derechos y tendrán las obligaciones y limitaciones que dicha ley señala.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-Los Magistrados Electorales Numerarios elegirán de entre ellos al que deba fungir como Presidente, quien durará en su encargo un año, pudiendo ser reelecto por una sola ocasión.
+Los Magistrados Electorales elegirán de entre ellos al que deba fungir como Presidente, quien durará en su encargo dos años. La Presidencia será rotatoria entre los tres magistrados.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-Las ausencias temporales y licencias de los Magistrados Electorales del Tribunal, serán tramitadas, cubiertas y otorgadas por el pleno del Tribunal Electoral de Tabasco, las renuncias serán tramitadas por el Congreso del Estado, según corresponda, en los términos de las disposiciones jurídicas aplicables. En caso de vacante definitiva se nombrará a un nuevo Magistrado por el tiempo restante al del nombramiento original.
+Las vacantes temporales de los Magistrados Electorales del Tribunal, serán tramitadas, cubiertas y otorgadas por el pleno del Tribunal Electoral de Tabasco conforme a la ley local, las vacantes definitivas serán cubiertas por la Cámara de Senadores, los términos de las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -1751,6 +1873,14 @@ El Tribunal Electoral de Tabasco, por conducto de su Presidente deberá dar cump
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
+## TITULO VI. MUNICIPIO LIBRE
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
+
 ## TITULO VII. RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
@@ -1758,14 +1888,6 @@ El Tribunal Electoral de Tabasco, por conducto de su Presidente deberá dar cump
 ### CAPITULO UNICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
-
-## TITULO VIII. PREVENCIONES GENERALES
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 64.
 
@@ -1783,7 +1905,9 @@ II.- El Ayuntamiento se integrará con el número de Regidores que determine la 
 
 III.- (DEROGADA, P.O. 25 DE JULIO DE 2001)
 
-IV.- Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, Electos Popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les de, no podrán ser electas para el período inmediato. Todos los servidores públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietario, a menos que hubieren estado en ejercicio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+
+IV. Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para el período inmediato por una sola ocasión. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado para el primer período, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Quienes hayan sido registrados como candidatos independientes podrán ser reelectos para un período inmediato, cumpliendo con los requisitos establecidos en la ley; igualmente, podrán ser postulados por un partido o coalición para ser reelectos, siempre y cuando se hayan afiliado al partido que les postule o a un partido de los que integren la coalición, en su caso, antes de la mitad de su mandato.
 
 > <small>(ADICIONADO, P.O. 25 DE JULIO DE 2001)</small>
 
@@ -1817,9 +1941,9 @@ d) No tener antecedentes penales;
 
 e) Haber cumplido 21 años antes del día de la elección;
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-f) No ser titular en alguna de las dependencias de la Administración Pública Estatal, ni Procurador General de Justicia; o titular de Organismos Autónomos, Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, ni del Tribunal de Conciliación y Arbitraje; Secretario de Ayuntamiento o titular de alguna de las direcciones de la propia administración municipal; ni servidor público de elección popular federal o local; ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
+f).- No ser titular en alguna de las dependencias de la Administración Pública Estatal, Fiscal General del Estado de Tabasco; o titular de Organismos Autónomos, Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, ni del Tribunal de Conciliación y Arbitraje; Secretario de Ayuntamiento o titular de alguna de las direcciones de la propia administración municipal; ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
 
 No ser titular de alguna de las entidades u organismos descentralizados o desconcentrados de la Administración Pública Estatal, a menos que se separe definitivamente de sus funciones noventa días naturales antes de la fecha de la elección;
 
@@ -1969,13 +2093,13 @@ IX. Convocar en los términos establecidos por esta Constitución y las leyes re
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
-## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
+## TITULO VIII. PREVENCIONES GENERALES
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO I. REFORMAS DE LA CONSTITUCION
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 66.
 
@@ -2009,15 +2133,15 @@ Las Leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de pruebas, podrán formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 68.
 
-Podrán ser sujetos de Juicio Político los Diputados a la Legislatura Local, los Magistrados del Tribunal Superior de Justicia, los Jueces del Fuero Común, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral de Tabasco, los Magistrados del Tribunal Electoral de Tabasco, los Titulares de las Secretarías, los Directores de la Administración Pública Estatal, el Procurador General de Justicia, los Subprocuradores, los Agentes del Ministerio Público, los Presidentes Municipales, los Concejales, los Síndicos de Hacienda, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetos de Juicio Político los Diputados a la Legislatura Local, los Magistrados del Tribunal Superior de Justicia, los Jueces del Fuero Común, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral de Tabasco, los Magistrados del Tribunal Electoral de Tabasco, los Titulares de las Secretarías, los Directores de la Administración Pública Estatal, el Fiscal General del Estado y los servidores públicos de mando superior de la Fiscalía hasta el nivel de director, los Agentes del Ministerio Público, los Presidentes Municipales, los Concejales, los Síndicos de Hacienda, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-Las sanciones consistirán en la destitución del servidos (sic) Público en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+Las sanciones consistirán en la destitución del servidor público, en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público. En el caso de los consejeros Presidente y Electorales del Instituto Electoral y de Participación Ciudadana de Tabasco, su remoción será tramitada por el Consejo General del instituto Nacional Electoral, cuando incurran en alguna de las causas graves que establece la Ley General aplicable.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
@@ -2031,11 +2155,11 @@ Conociendo de la acusación, el Tribunal Superior de Justicia, erigido en Jurado
 
 Las declaraciones y resoluciones de la Cámara de Diputados y del Tribunal Superior de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 69.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Tabasco, Magistrados del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura, titulares de las Secretarías, Procurador General de Justicia, Presidentes Municipales, los Concejales, los Sindicos de Hacienda, así como el Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral del Instituto Electoral de Tabasco, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión si ha o no lugar a proceder contra el imputado.
+Para proceder penalmente contra los Diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Tabasco, Magistrados del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura, titulares de las Secretarías, Fiscal General del Estado de Tabasco, Presidentes Municipales, los Concejales, los Síndicos de Hacienda, así como el Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral del Instituto Electoral y de Participación Ciudadana de Tabasco, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el imputado.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
 
@@ -2115,17 +2239,19 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
+### CAPITULO I. REFORMAS DE LA CONSTITUCION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
+## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ### CAPITULO II. INVIOLABILIDAD DE LA CONSTITUCION
 
 > <small>N. DE E. DE LA LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 13 DE SEPTIEMBRE DE 2013, PÁGINA 17, SE ADVIERTE LA ADICIÓN DEL CONTENIDO AL PRIMER PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL ANTERIOR PRIMERO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
-## Título Décimo.
-
-PREVENCIONES GENERALES.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
 ###### ARTICULO 74.
 
@@ -2175,13 +2301,17 @@ La Ley, establecerá los mecanismos que faciliten la organización y expansión 
 
 La Ley alentará y protegerá la actividad económica que realizan los particulares y proveerá condiciones para el desenvolvimiento de la empresa privada en los términos legales.
 
-El Estado organizará un sistema de planeación Democrática del Desarrollo Estatal que imprima solidez, dinamismo, permanencia y equidad, al crecimiento de la economía y a la democratización Política, Social y Cultural del Estado.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+El Estado organizará un sistema de planeación Democrática del Desarrollo Estatal que imprima solidez, dinamismo, permanencia y equidad, al crecimiento de la economía y a la democratización Política, Social y Cultural del Estado. De igual modo, conforme lo establecen la Constitución General de la República y la ley, el Estado y sus municipios se coordinarán con el Consejo Nacional de Evaluación de la Política de Desarrollo Social, responsable de la medición de la pobreza y de la evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social, para el ejercicio de sus funciones.
 
-Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática buscando la participación de los diversos sectores de la sociedad, particularmente de los pueblos y comunidades indígenas, para incorporar en lo conducente, sus recomendaciones y propuestas al plan y a los programas de desarrollo. Por tanto, habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública del Estado. La Ley facultará al Ejecutivo para que pueda establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Democrática, así como los criterios de la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. Asimismo, determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los Gobiernos de las entidades municipales, e induzca y concerte con los particulares las acciones a realizar para su elaboración y ejecución.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
-El Ejecutivo informará al congreso del Estado de los criterios que sirvan de base al plan estatal de desarrollo, con el fin de que los tome en consideración al ejercer sus atribuciones constitucionales.
+Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática y deliberativa buscando la participación de los diversos sectores de la sociedad, particularmente de los pueblos y comunidades indígenas, para incorporar en lo conducente, sus recomendaciones y propuestas al plan y a los programas de desarrollo. Por tanto, habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública del Estado. La Ley facultará al Ejecutivo para que pueda establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Democrática, así como los criterios de la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. Asimismo, determinará cuáles serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los Gobiernos de las entidades municipales, e induzca y concierte con los particulares las acciones a realizar para su elaboración y ejecución.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+El Ejecutivo informará al Congreso del Estado de los criterios que sirvan de base al Plan Estatal de Desarrollo, con el fin de que los tome en consideración al ejercer sus atribuciones constitucionales, específicamente la de aprobar el Plan Estatal de Desarrollo.
 
 El Estado coadyuvará con la Federación, promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado. Igualmente, fomentará la actividad agropecuaria y forestal para el mejor uso de la tierra, con obras de infraestructura, insumos, creditos y servicios de capacitación y extensionismo.
 
@@ -3166,3 +3296,35 @@ En un plazo de ciento ochenta días a partir de la entrada en vigor del presente
 ###### ARTÍCULO TERCERO.
 
 De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas y adiciones fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 21 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto tendrá vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco, sin perjuicio de lo establecido en los siguientes artículos transitorios.
+
+SEGUNDO.- El Congreso del Estado deberá realizar las adecuaciones normativas a las leyes locales en materia electoral, ordenadas en las leyes generales aplicables y en esta Constitución, a más tardar el 30 de junio de 2014.
+
+TERCERO.- Por única ocasión, el proceso electoral ordinario para elegir regidores de los ayuntamientos y diputados a la LXII Legislatura del H. Congreso del Estado que tendrán lugar el primer domingo de junio del año 2015 iniciará en la primera semana del mes de octubre del año 2014.
+
+Para tal efecto el Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco aprobará los ajustes necesarios a los plazos establecidos en la Constitución y en la Ley Electoral.
+
+CUARTO. Conforme al artículo Noveno transitorio del Decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos publicada el 10 de febrero de 2014, los actuales consejeros del Consejo Estatal del instituto Electoral y de Participación Ciudadana continuarán en su encargo hasta en tanto el Consejo General del instituto Nacional Electoral realice las designaciones de los nuevos consejeros. En todo caso, dichos nombramientos deberán verificarse con antelación al proceso electoral 2014-2015.
+
+QUINTO. Los magistrados del Tribunal Electoral de Tabasco continuarán en su encargo hasta en tanto el Senado de la República realice los nuevos nombramientos, en los términos previstos por la fracción IV, inciso e), de los artículos 116 de la Constitución General de la República y décimo transitorio del Decreto de reformas a la propia Constitución, del 10 de febrero de 2014.
+
+SEXTO. La adición de la fracción XVII al artículo 36 de esta Constitución, entrará en vigor el 1º de enero de 2019.
+
+SÉPTIMO.- La reforma a los artículos 16 y 64 de esta Constitución en materia de reelección de diputados locales y regidores, no será aplicable a quienes hayan protestado el cargo en la legislatura o ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+OCTAVO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 36, fracción XIX, por lo que se refiere a la supresión de la ratificación del Procurador General de Justicia del Estado por el Congreso, y 54 Ter por lo que se refiere al Fiscal General del Estado, entrarán en vigor en la misma fecha en que lo hagan las normas secundarias que expida el Congreso del Estado, necesarias por virtud de las adiciones, reformas y derogaciones a que se refiere el presente transitorio. Previamente, el propio Congreso deberá realizar la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General del Estado.
+
+El Procurador General de Justicia del Estado que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el párrafo anterior, quedará designado por virtud de este Decreto como Fiscal General del Estado de Tabasco por el tiempo que establece el artículo 54 Ter, de esta Constitución, contabilizado a partir de la fecha en que haya sido designado como Procurador General de Justicia, sin perjuicio del procedimiento de remoción previsto en dicho artículo.
+
+NOVENO.- Una vez que entren en vigor las disposiciones de este Decreto referidas en el transitorio anterior, los asuntos en los que la Procuraduría General de Justicia ejerza la representación del Poder Ejecutivo, que se encuentren en trámite a la entrada en vigor de las disposiciones a que se refiere el transitorio anterior, deberán remitirse dentro de los veinte días hábiles siguientes a la Coordinación General de Asuntos Jurídicos del Gobierno del Estado.
+
+Los procedimientos señalados en el párrafo que antecede se suspenderán por un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de las disposiciones a que se refiere el transitorio anterior; en cada caso, la suspensión será decretada de oficio por los órganos jurisdiccionales ante los cuales se desahoguen dichos procedimientos.
+
+DÉCIMO.- A partir de la entrada en vigor de las reformas a que se refiere el transitorio anterior, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia del Estado pasarán al órgano autónomo que el propio Decreto establece.
+
+DÉCIMO PRIMERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+DÉCIMO SEGUNDO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
