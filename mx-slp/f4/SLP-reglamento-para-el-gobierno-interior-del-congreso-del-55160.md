@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2014-04-01"
+last_updated: "2014-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -213,7 +213,9 @@ XII. Someter los puntos de acuerdo que presenten los diputados a la aprobación 
 
 XIII. Cuidar que las determinaciones recaídas a los puntos de acuerdo turnados a comisiones, sean presentadas para su validación al Pleno dentro de los siguientes treinta días naturales, contados a partir de la fecha de turno;
 
-XIV. Turnar, en cumplimiento de la determinación del Pleno, en caso de que los asuntos no sean resueltos en los plazos dispuestos en la Ley Orgánica, los asuntos a una comisión creada ex profeso, la que deberá resolver en un término máximo de tres meses;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+XIV. Turnar, en cumplimiento de la determinación del Pleno, los asuntos propuestos por ciudadanos, que no sean resueltos en los plazos dispuestos por la Ley Orgánica, a una comisión creada ex profeso, la que deberá resolver en un término máximo de tres meses; además, declarar la caducidad de las iniciativas presentadas por, los diputados; el Gobernador del Estado; el Supremo Tribunal de Justicia; y los ayuntamientos, que no hayan sido dictaminadas en los plazos establecidos en la Ley Orgánica del Poder Legislativo y este Reglamento; así como declarar la caducidad de los puntos de acuerdo presentados por los diputados, que no hayan sido resueltos en los plazos establecidos en la Ley Orgánica del Poder Legislativo;
 
 XV. Cuidar el orden en las sesiones y, si se altera, solicitar en caso necesario, el auxilio de la fuerza pública;
 
@@ -652,6 +654,10 @@ g) Números arábigos.
 III. Las reformas podrán comprender desde la modificación de redacción de un número arábigo, inciso, fracción, artículo, sección, capí tulo (sic) o tí tulo (sic); y establecidos con precisión en un artículo proyecto de decreto, en el que se establezca con precisión los elementos de prelación enunciados en la fracción inmediata anterior que se reforman, adicionan o derogan, y
 
 IV. Las iniciativas deberán dirigirse a los diputados secretarios del Congreso; y deberán contener exposición de motivos, proyecto de decreto y estructura jurídica.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+En el caso de las iniciativas que presente el titular del Poder Ejecutivo del Estado, éste deberá adjuntar dictamen sobre el posible impacto presupuestario que originen éstas o, señalar, bajo su más estricta responsabilidad, que dicho efecto no se producirá, en términos de lo dispuesto por la Ley del Presupuesto de Egresos del Estado para el ejercicio fiscal correspondiente.
 
 ###### ARTICULO 63.
 
@@ -1465,9 +1471,11 @@ III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativa
 
 Una vez firmados por los integrantes de la comisión, los dictámenes deberán entregarse a la Secretaría de la Directiva, en original y copia, adjuntando el dispositivo de almacenamiento de datos correspondiente, a través de la Coordinación de Servicios Parlamentarios, para que sean publicados en la Gaceta Parlamentaria, dentro del término que establece la ley; la copia deberá ser firmada y sellada de recibida y devuelta al Presidente de la comisión respectiva. En caso de que el asunto haya sido dictaminado por dos o más comisiones, la copia firmada y sellada de recibida, será devuelta al Presidente de la comisión en primer turno.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 158.
 
-Las comisiones y comités podrán apoyarse en el Instituto de Investigaciones Legislativas para allegarse información, estudios comparativos, doctrina, jurisprudencia, o cualquier otro material de consulta que sea de utilidad, para contar con elementos suficientes previos a la emisión de sus dictámenes o resoluciones; debiendo formalizar sus solicitudes a través del director, o del coordinador del mismo; quienes designarán a un investigador para que se encargue del asunto.
+Las comisiones y comités podrán apoyarse en el Instituto de Investigaciones Legislativas para allegarse información, estudios comparativos, doctrina, jurisprudencia, datos y análisis financieros, o cualquier otro material de consulta que sea de utilidad, para contar con elementos suficientes previos a la emisión de sus dictámenes o resoluciones; debiendo formalizar sus solicitudes a través del director, o del coordinador del mismo; quienes designarán a un investigador para que se encargue del asunto.
 
 ###### ARTICULO 159.
 
@@ -2310,3 +2318,9 @@ P.O. 1 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
