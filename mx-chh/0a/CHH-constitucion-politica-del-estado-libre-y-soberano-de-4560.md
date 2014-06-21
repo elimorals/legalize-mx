@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2014-05-28"
+last_updated: "2014-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -68,6 +66,10 @@ En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en l
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2013)</small>
 
 Toda persona tiene derecho a la identidad. El Estado garantizará que el registro sea universal, oportuno y gratuito de acuerdo con lo establecido en la ley.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
 Todos los habitantes del Estado tienen derecho a acceder en igualdad de oportunidades a los beneficios del desarrollo social. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad de la persona y de los grupos en que se integra, sean reales y efectivas; y remover los obstáculos que impidan o dificulten su plenitud.
 
@@ -4090,3 +4092,9 @@ Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos 
 ###### ARTÍCULO QUINTO.
 
 Los servidores públicos y empleados del Tribunal Estatal Electoral, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral y continuarán con el sistema de seguridad social empleado hasta la entrada en vigor del presente Decreto.
+
+P.O. 21 DE JUNIO DE 2014.
+
+PRIMERO.- Remítase copia de la Iniciativa, del Dictamen y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado; lo anterior, en cumplimiento a lo establecido por el Artículo 202 de la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
