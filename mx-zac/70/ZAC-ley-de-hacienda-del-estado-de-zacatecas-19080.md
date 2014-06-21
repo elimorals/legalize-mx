@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2014-01-15"
+last_updated: "2014-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE ENERO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO No. 41 PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -547,7 +545,9 @@ ARTICULO 34 QUINQUIES.- Los contribuyentes del impuesto sobre loterías, rifas, 
 
 a) El 6% sobre los ingresos que se obtengan por la enajenación de boletos, billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente.
 
-b) El 6% sobre el valor de los premios que obtengan los beneficiarios en loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, sin deducción alguna.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+b) El 1.5% sobre el valor de los premios que obtengan los beneficiarios derivados de loterías, rifas, sorteos, apuestas, juegos permitidos con máquinas de sistemas, programas automatizados o computarizados y concursos de toda clase autorizados legalmente, sin deducción alguna.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
@@ -3900,3 +3900,9 @@ P.O. 28 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 1° de enero de (sic) año 2014, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 21 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que contravengan este Decreto.
