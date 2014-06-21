@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2014-06-10"
+last_updated: "2014-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -451,7 +451,7 @@ Asimismo, la Legislatura Local notificará al Congreso de la Unión las resoluci
 
 ###### ARTICULO 54.
 
-En todo lo relativo al procedimiento no previsto en este Título, así como en la apreciación y valorización de las pruebas, se observarán las disposiciones del Código del Procedimientos Penales del Estado. Asimismo, se aplicarán, en lo conducente, las del Código Penal del Estado.
+En todo lo relativo al procedimiento no previsto en este Título, así como en la apreciación y valorización de las pruebas, se observarán las disposiciones del Código del (sic) Procedimientos Penales del Estado. Asimismo, se aplicarán, en lo conducente, las del Código Penal del Estado.
 
 ## TITULO TERCERO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -529,7 +529,11 @@ XXIII. Proporcionar en forma oportuna y veraz la información y datos solicitado
 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
-XXIII Bis. Proporcionar en forma oportuna y veraz, la información y datos solicitados en materia financiera, administrativa y legal, a las instituciones a quienes legalmente competa la vigilancia, o fiscalización, en su caso, del ejercicio de los recursos públicos estatales, municipales, así como de los organismos autónomos, con el objetivo de que aquéllas puedan cumplir con las facultades y obligaciones que les correspondan;
+XXIII BIS. Proporcionar en forma oportuna y veraz, la información y datos solicitados en materia financiera, administrativa y legal, a las instituciones a quienes legalmente competa la vigilancia, o fiscalización, en su caso, del ejercicio de los recursos públicos estatales, municipales, así como de los organismos autónomos, con el objetivo de que aquéllas puedan cumplir con las facultades y obligaciones que les correspondan;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2014)</small>
+
+XXIII TER. Comparecer y proporcionar en forma oportuna y veraz, la información o documentación solicitada por el Congreso del Estado, o sus comisiones, cuando se trate de un asunto sobre su ramo, o se analice una iniciativa relativa a las materias que les corresponda atender de acuerdo con los ordenamientos aplicables;
 
 XXIV. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
 
@@ -1136,6 +1140,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 10 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
