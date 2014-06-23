@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-desarrollo-social-78653
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-25"
-last_updated: "2010-02-25"
+last_updated: "2014-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JUNIO DE 2014.
 
 Reglamento publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 25 de febrero de 2010.
 
@@ -417,9 +417,11 @@ XV. Generar y mantener actualizada la información relativa a los avances de los
 
 XVI. Las demás que le confieran las disposiciones normativas aplicables y el Secretario dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE JUNIO DE 2014)</small>
+
 ###### Artículo 16.
 
-La Dirección General del Programa CreSer estará adscrita a la Subsecretaría de Desarrollo Social y Humano y le corresponden las siguientes atribuciones:
+La Dirección General del Programa CreSer estará adscrita directamente al Secretario, y le corresponden las siguientes atribuciones:
 
 I. Impulsar el mejoramiento de las condiciones y calidad de vida de la población, a través de la conjunción de programas y acciones de la política social federal, estatal y municipal;
 
@@ -551,4 +553,12 @@ EL SECRETARIO DE GOBIERNO
 
 HÉCTOR LARIOS CÓRDOVA
 
-> <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION IV DEL B.O. DE 25 DE FEBRERO DE 2010, PAGINA 19.</small>
+> <small>N. DE E. VÉASE ORGANIGRAMA EN LA SECCIÓN IV DEL B.O. DE 25 DE FEBRERO DE 2010, PÁGINA 19.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 23 DE JUNIO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Las modificaciones a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Secretaría de Desarrollo Social que deban efectuarse con motivo de la presente reforma al Reglamento Interior deberán expedirse dentro de los sesenta días posteriores a su publicación en el mencionado órgano oficial de difusión. El titular de esta Secretaría queda facultado para resolver las cuestiones que se presenten relacionadas con las materias de los referidos manuales administrativos en tanto éstos se expidan.
