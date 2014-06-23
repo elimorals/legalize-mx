@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-mexiquense-del-emprendedor-48
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-27"
-last_updated: "2008-12-09"
+last_updated: "2014-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MEXIQUENSE DEL EMPRENDEDOR
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JUNIO DE 2014.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el viernes 27 de enero de 2006.
 
@@ -169,7 +169,29 @@ IX. Proponer mecanismos de mejora con el fin de fortalecer los diferentes proces
 
 X. Impulsar la participación de instituciones educativas, gobiernos municipales e instituciones empresariales en la formulación de los programas y acciones a cargo del Instituto.
 
-XI. Las demás que le establecen otros ordenamientos legales y aquellas que le establezca el Director General.
+> <small>(REFORMADA, G.G. 23 DE JUNIO DE 2014)</small>
+
+XI. Asesorar a los emprendedores sobre las opciones existentes para la elaboración y realización de su plan de negocios;
+
+> <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
+
+XII. Diseñar e impulsar programas de capacitación para los emprendedores que busquen invertir en el Estado, ampliar la empresa que ya tengan establecida, o fortalecer la actividad económica que realizan;
+
+> <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
+
+XIII. Diseñar e impulsar programas que incidan en mejorar la competitividad y modernización de las MIPYMES, especialmente de aquellas que generen innovaciones tecnológicas, así como programas de capacitación y estudios de mercado que sean necesarios para consolidar su actividad económica;
+
+> <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
+
+XIV. Integrar el Comité Organizador del Premio Mexiquense a la Excelencia Empresarial;
+
+> <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
+
+XV. Coordinar la integración y actualización del padrón de beneficiarios de los programas que le correspondan en razón de su competencia;
+
+> <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
+
+XVI. Las demás que le establecen otros ordenamientos legales y aquellas que le establezca el Director General.
 
 ###### Artículo 14.
 
@@ -219,9 +241,13 @@ XVI. Administrar la cartera de los programas de financiamiento vigentes.
 
 XVII. Coordinar y mantener actualizado el padrón de beneficiarios de los programas de financiamiento vigentes.
 
-> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 23 DE JUNIO DE 2014)</small>
 
-XVIII. Las demás que le confieren otros ordenamientos legales y aquellas que le establezca el Director General.
+XVIII. Proveer a la concreción de los proyectos que le sean presentados por emprendedores, en la medida en lo que lo permitan sus recursos y el Programa Anual de Incentivos que apruebe el Consejo;
+
+> <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
+
+XIX. Las demás que le establecen otros ordenamientos legales y aquellas que le establezca el Director General.
 
 ###### Artículo 15.
 
@@ -259,9 +285,13 @@ IX. Proponer al Director General proyectos productivos de integración regional 
 
 X. Difundir entre los ayuntamientos, cámaras y organismos empresariales, los programas implementados por el Instituto para apoyar a las micro, pequeñas y medianas empresas.
 
-> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 23 DE JUNIO DE 2014)</small>
 
-XI. Las demás que le confieren otros ordenamientos legales y aquellas que le establezca el Director General.
+XI. Impulsar la creación y aprobar la consolidación de cadenas productivas;
+
+> <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
+
+XII. Las demás que le establecen otros ordenamientos legales y aquellas que le establezca el Director General.
 
 ###### Artículo 16.
 
@@ -395,7 +425,7 @@ DIRECTOR GENERAL DEL INSTITUTO MEXIQUENSE DEL EMPRENDEDOR Y SECRETARIO DEL CONSE
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 9 DE DICIEMBRE DE 2008.
 
@@ -404,3 +434,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 23 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
