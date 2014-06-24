@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-servicio-profesional-en-derechos-humanos-93787"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-15"
-last_updated: "2013-01-15"
+last_updated: "2014-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SLP"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 15 de enero de 2013.
 
@@ -344,9 +344,11 @@ III. La elaboración de estudios e investigaciones que aporten notorios benefici
 
 IV. Las propuestas útiles en materia de derechos humanos, así como los proyectos de desarrollo y de administración.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+
 ###### Artículo 31.
 
-La acreditación de la evaluación del desempeño, es un elemento indispensable para la permanencia del Personal Profesional, el cual podrá ser separado del Servicio en caso de no obtener calificaciones aprobatorias en dos evaluaciones semestrales consecutivas, sin perjuicio de sus derechos laborales. Será calificación aprobatoria, la obtención de setenta puntos, en una escala de cero a cien. En casos excepcionales, el Comité Directivo podrá otorgar un periodo adicional de seis meses para que el personal profesional acredite la evaluación inmediata siguiente, en cuyo caso se podrá reincorporar al servicio.
+La acreditación de la evaluación del desempeño, es un elemento indispensable para la permanencia del Personal Profesional, el cual podrá ser separado del Servicio en caso de no obtener calificaciones aprobatorias en dos evaluaciones semestrales consecutivas, sin prejuicio de sus derechos laborales. Será calificación aprobatoria, la obtención de ochenta puntos, en una escala de cero a cien. En casos excepcionales derivados de una excelente y probada trayectoria, así como con previa deliberación del Comité Directivo podrá otorgar un periodo adicional de seis meses para que el personal profesional acredite la evaluación inmediata siguiente, en cuyo caso se podrá reincorporar al servicio.
 
 ### CAPITULO SEXTO. DE LAS PROMOCIONES
 
@@ -557,3 +559,11 @@ C. Marcela García Vázquez
 Consejera
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE JUNIO DE 2014.
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan a la presente reforma.
