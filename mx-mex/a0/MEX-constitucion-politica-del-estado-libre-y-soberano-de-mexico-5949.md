@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2013-12-19"
+last_updated: "2014-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JUNIO DE 2014.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -51,11 +51,13 @@ El Estado de México es parte integrante de la Federación de los Estados Unidos
 
 El Estado de México tiene la extensión y límites que le corresponden históricamente y los que se precisen en los convenios que se suscriban con las entidades colindantes o los que deriven de las resoluciones emitidas de acuerdo a los procedimientos legales.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 3.
 
-El Estado de México adopta la forma de gobierno republicana, representativa y popular.
+El Estado de México adopta la forma de gobierno republicana, representativa, democrática, laica y popular.
+
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 El ejercicio de la autoridad se sujetará a esta Constitución, a las leyes y a los ordenamientos que de una y otras emanen.
 
@@ -207,69 +209,53 @@ Una vez tomadas las primeras medidas para atender las causas mencionadas, el Eje
 
 El sufragio constituye la expresión soberana de la voluntad popular.
 
-Los ciudadanos, los partidos políticos y las autoridades velarán por su respeto y cuidarán que los procesos electorales sean organizados, desarrollados y vigilados por órganos profesionales conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad.
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+Los ciudadanos, los partidos políticos y las autoridades velarán por su respeto y cuidarán que los procesos electorales sean organizados, desarrollados y vigilados por órganos profesionales conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
 La ley establecerá las sanciones por violaciones al sufragio.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 11.
 
-La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Gobernador, Diputados a la Legislatura del Estado y miembros de Ayuntamientos, es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, denominado Instituto Electoral del Estado de México, en cuya integración participarán el Poder Legislativo, los partidos políticos y los ciudadanos, en los términos dispuestos por esta Constitución y la ley de la materia. En el ejercicio de esta función, la certeza, legalidad, independencia, imparcialidad, objetividad y el profesionalismo, serán principios rectores.
+La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Gobernador, Diputados a la Legislatura del Estado y miembros de Ayuntamientos es una función que se realiza a través del Instituto Nacional Electoral y el Organismo Público Electoral del Estado de México, denominado Instituto Electoral del Estado de México, dotado de personalidad jurídica y patrimonio propios, éste contará con un Órgano de Dirección Superior, integrado por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, designados por el Consejo General del Instituto Nacional Electoral. Asimismo, se integrará con un representante de cada partido político y un Secretario Ejecutivo, quienes asistirán con voz, pero sin voto. En el ejercicio de esta función, la certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad serán principios rectores.
 
-El Instituto Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento, y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos, operativos y de vigilancia. Los órganos dispondrán del personal calificado necesario para prestar el servicio electoral profesional. El Consejo General será su órgano superior de dirección; se integrará por un Consejero Presidente y por seis Consejeros electorales, electos en sesión del Pleno de la Legislatura del Estado, con el voto de las dos terceras partes de los Diputados presentes, previa convocatoria pública y mediante el mecanismo que para tal efecto establezca la Junta de Coordinación Política de la propia Legislatura. Asimismo, se integrará con un representante de cada partido político y un Secretario Ejecutivo General, quienes asistirán con voz pero sin voto.
+El Instituto Electoral del Estado de México será autoridad en la materia, independiente en sus decisiones y funcionamiento, y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos, operativos y de vigilancia.
 
-Por cada Consejero Electoral Propietario se elegirá un suplente, quien en caso de falta absoluta concluirá el periodo de la vacante respectiva.
+El Secretario Ejecutivo será nombrado por el Consejo General del Instituto Electoral del Estado de México en la forma y términos que señale la ley, durará en su cargo seis años y fungirá como Secretario del Consejo General.
 
-> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2013)</small>
+El Instituto Electoral del Estado de México contará con una Contraloría General adscrita al Consejo General, que tendrá a su cargo la fiscalización de las finanzas y recursos que este ejerza y conocerá de las responsabilidades administrativas de sus servidores públicos. El Titular de la Contraloría General del Organismo será designado por la Legislatura del Estado, mediante las dos terceras partes de la votación de sus integrantes presentes, en la forma y términos que señale la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez y mantendrá la coordinación técnica necesaria con el Órgano Superior de Fiscalización del Estado de México.
 
-La legislación determinará los casos en los que los representantes de los candidatos independientes registrados participarán en los Consejos del Instituto Electoral.
+El Consejero Presidente y los Consejeros Electorales durarán en su cargo siete años y no podrán ser reelectos. Durante su ejercicio no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-El Secretario Ejecutivo General será nombrado por la Legislatura del Estado en la forma y términos que señale la ley y fungirá como Secretario del Consejo General.
+El Instituto Electoral, de ser el caso que ejecute las funciones de fiscalización delegadas por el Instituto Nacional Electoral, contará con su respectivo órgano técnico de fiscalización.
 
-El Instituto Electoral contará con una Contraloría General adscrita al Consejo General, que tendrá a su cargo la fiscalización de las finanzas y recursos del Instituto Electoral; su titular será nombrado por la Legislatura del Estado en la forma y términos que señale la ley.
+El Consejero Presidente y los Consejeros Electorales, cuando no haya proceso electoral, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral, de participación ciudadana y de educación cívica.
 
-El Consejero Presidente y los Consejeros Electorales durarán en su cargo cuatro años y podrán ser reelectos hasta por un periodo más. El Consejero Presidente y los Consejeros electorales tendrán voz y voto. Durante su ejercicio no podrán tener ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de la docencia, de regalías, de derechos de autor o publicaciones, siempre que no se afecte la independencia, autonomía, imparcialidad y equidad que debe regir el ejercicio de su función; podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
-
-El Consejero Presidente y los Consejeros Electorales, durante el tiempo que transcurra entre dos procesos electorales, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral y de participación ciudadana.
-
-> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2013)</small>
-
-El Consejo General se auxiliará de un Órgano Técnico de Fiscalización dotado de autonomía de gestión para llevar a cabo la fiscalización de las finanzas de los partidos políticos y los candidatos independientes, la ley determinará su integración y funcionamiento. El titular de dicho Órgano será electo en sesión del Pleno del Consejo General, con el voto de las dos terceras partes de los Consejeros Electorales.
-
-La ley establecerá los requisitos que deberán reunirse para ocupar los cargos de Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo General y los titulares de la Contraloría General y del Órgano Técnico de Fiscalización.
-
-El Secretario Ejecutivo General y los titulares de la Contraloría General y del Órgano Técnico de Fiscalización durarán en su cargo cuatro años, pudiendo ser reelectos para un periodo más.
-
-Quienes hayan fungido como Consejero Presidente, Consejeros Electorales, Secretario Ejecutivo General y los titulares de la Contraloría General y del Órgano Técnico de Fiscalización, no podrán ocupar cargos en los poderes públicos del Estado y el Poder Público municipal, dentro del año siguiente a aquel en el que se hayan separado del encargo.
+La ley establecerá los requisitos que deberán reunirse para ocupar los cargos de Secretario Ejecutivo y titular de la Contraloría General.
 
 La ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto Electoral del Estado de México, así como las relaciones jerárquicas y administrativas entre éstos.
 
-Los emolumentos que perciban el Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo General, el titular de la Contraloría General y el titular del Órgano Técnico de Fiscalización serán los previstos en el Presupuesto de Egresos del Estado.
+Los emolumentos que perciban el Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y el titular de la Contraloría General serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
 
-Las leyes determinarán los regímenes laboral y de responsabilidades de los servidores públicos del Instituto Electoral.
+Las leyes determinarán los regímenes laboral y de responsabilidades de los servidores públicos del Instituto Electoral del Estado de México.
 
-> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2013)</small>
+El Instituto Electoral del Estado de México contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley de la materia.
 
-El Instituto Electoral del Estado de México tendrá a su cargo, además de las que determine la ley, las actividades relativas al desarrollo de la democracia y la cultura política; a la capacitación y educación cívica; geografía electoral, demarcación distrital; organización de consultas populares y del referéndum, derechos, prerrogativas y fiscalización del financiamiento y gastos de los partidos políticos y candidatos independientes; vigilancia, auditoría y actualización del padrón y la lista nominal de electores; preparación de la jornada electoral; los cómputos, declaraciones de validez y otorgamiento de constancias de mayoría en la elección de Gobernador, diputados y ayuntamientos, así como la expedición de las constancias de representación proporcional en los términos que señale la ley; la regulación de los observadores electorales y de las encuestas o sondeos de opinión con fines electorales. Asimismo, se faculta al Instituto Electoral a celebrar convenios con los ayuntamientos de los municipios del Estado de México para la organización, desarrollo y vigilancia de las elecciones de autoridades auxiliares municipales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
+El Instituto Electoral del Estado de México tendrá a su cargo, además de las que determine la ley de la materia, las actividades relativas al desarrollo de la democracia y la cultura política, derecho y acceso a las prerrogativas de los candidatos y partidos políticos, educación cívica, preparación de la jornada electoral, impresión de documentos y la producción de materiales electorales, escrutinios y cómputos, declaración de validez y otorgamiento de constancias en las elecciones locales, resultados preliminares, encuestas o sondeos de opinión, observación electoral, conteo rápido y sobre mecanismos de participación ciudadana, así como las que le delegue el Instituto Nacional Electoral.
 
-> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2013)</small>
+Asimismo, se faculta al Instituto Electoral del Estado de México a celebrar convenios con los ayuntamientos del Estado de México para la organización, desarrollo y vigilancia de las elecciones de autoridades auxiliares municipales. A petición de los partidos políticos locales y con cargo a sus prerrogativas, en los términos que establezca la ley, podrá organizar las elecciones de sus dirigentes. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
 
-La ley determinará las facultades y atribuciones que en materia de candidaturas independientes y de consulta popular, tendrá el Instituto Electoral del Estado de México.
+La ley determinará las facultades y atribuciones que en materia de candidaturas independientes y de consulta popular tendrá el Instituto Electoral del Estado de México.
 
-> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2013)</small>
+El Instituto Electoral del Estado de México podrá convenir con el Instituto Nacional Electoral que se haga cargo de la organización de los procesos electorales locales, en los términos que disponga la legislación aplicable.
 
-El Instituto Electoral del Estado de México deberá coordinarse con el órgano técnico del Consejo General del Instituto Federal Electoral, a través de la suscripción de convenio en el que se establezcan las bases y los procedimientos para superar las limitaciones derivadas de los secretos bancario, fiduciario y fiscal en la fiscalización de las finanzas de los partidos políticos y de los candidatos independientes en el ámbito de la Entidad.
-
-El Instituto Electoral del Estado de México podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente deberá ser aprobada por, al menos, cinco de los Consejeros Electorales del Consejo General y deberá contener los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio, el proyecto de reestructuración administrativa, financiera y laboral del propio Instituto Electoral, los montos a erogar y la forma en que habrán de cubrirse al Instituto Federal Electoral.
-
-El acuerdo del Consejo General que autorice la celebración del convenio, antes del inicio del proceso, deberá ser sometido a ratificación de la Legislatura, la que, en su caso, deberá aprobarlo por el voto de las dos terceras partes de los miembros presentes. Para la aprobación del convenio deberán observarse los lineamientos que para ese fin disponga la Ley de la materia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 12.
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la integración de la representación popular y como organizaciones de ciudadanos, facilitar el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan. Su participación en los procesos electorales estará garantizada y determinada por la ley. Es derecho de los partidos políticos solicitar el registro de candidatos a cargos de elección popular. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, sin la intervención de organizaciones gremiales o con objeto social diferente y sin que medie afiliación corporativa.
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propio, con registro ante el Instituto Nacional Electoral y el Instituto Electoral del Estado de México, tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, facilitarles el acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros en candidaturas a Diputados Locales e integrantes de los Ayuntamientos. Su participación en los procesos electorales estará determinada por la ley. Es derecho de los partidos políticos solicitar el registro de candidatos a cargos de elección popular. Solo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, sin la intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente a la creación de partidos y sin que medie afiliación corporativa.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -279,11 +265,13 @@ Las autoridades electorales solamente podrán intervenir en los asuntos internos
 
 En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos o en coalición con otros partidos.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-La coalición deberá formalizarse mediante convenio, que se presentará para su registro ante el Consejo General del Instituto Electoral del Estado de México, a más tardar quince días antes de que se inicie el registro de candidatos de la elección de que se trate y éste resolverá la procedencia del registro de coalición dentro de los siete días siguientes a su presentación.
+La coalición podrá ser total, parcial o flexible y deberá formalizarse, mediante convenio por el cual no podrá existir transferencia o distribución de votación entre los partidos coaligados, de acuerdo con lo que establece la legislación de la materia.
 
-> <small>(DEROGADO PÁRRAFO QUINTO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE JUNIO DE 2014)</small>
+
+Cada partido político en lo individual, independiente de participar coaligado, deberá garantizar la paridad entre los géneros, en las candidaturas locales correspondientes.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -291,9 +279,9 @@ Ningún ciudadano podrá ser registrado como candidato a distintos cargos de ele
 
 > <small>(DEROGADO PÁRRAFO SÉPTIMO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-Para conservar el registro como partido político y para tener derecho a participar en la asignación de Diputados de representación proporcional, los partidos políticos deberán haber obtenido al menos el 1.5% de la votación válida emitida en la elección para Diputados de mayoría a la Legislatura del Estado.
+El partido político local que no obtenga, al menos el tres por ciento de la votación válida emitida en la elección para Gobernador o Diputados a la Legislatura del Estado, le será cancelado el registro. Para tener derecho a participar en la asignación de Diputados de representación proporcional, los partidos políticos deberán haber obtenido al menos el tres por ciento de la votación válida emitida en la elección para Diputados.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -315,17 +303,17 @@ Ninguna otra persona, física o moral, sea a título propio o por cuenta de terc
 
 La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para el desarrollo de las precampañas. También establecerá los plazos para el desarrollo de las campañas electorales de los partidos políticos y los candidatos independientes.
 
-> <small>(REFORMADO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-La duración máxima de las campañas será de cuarenta y cinco días para la elección de Gobernador y de treinta y cinco días cuando se elijan Diputados locales o Ayuntamientos; la ley establecerá con precisión la duración de las mismas. Asimismo, las precampañas no podrán exceder del término de diez días.
+La duración máxima de las campañas será de sesenta días para la elección de Gobernador y de treinta y cinco días cuando se elijan Diputados locales o Ayuntamientos. Asimismo, las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales; la ley de la materia fijará los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de los militantes y simpatizantes.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
 La violación a estas disposiciones por los partidos o cualquier otra persona física o moral, será sancionada conforme a la ley.
 
-> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-La propaganda política o electoral, no deberá contener expresiones que denigren o calumnien a las instituciones, a los propios partidos, a los candidatos o a cualquier otra persona.
+La propaganda política o electoral que realicen y difundan los partidos políticos y candidatos deberán abstenerse de expresiones que calumnien a las personas.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -335,17 +323,17 @@ Desde el inicio de las campañas electorales y hasta la conclusión de la respec
 
 La propaganda impresa deberá ser reciclable, preferentemente deberá elaborarse con materiales reciclados o biodegradables que no contengan sustancias tóxicas ni materiales que produzcan riesgos a la salud de las personas.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-Las infracciones a lo dispuesto en materia de propaganda electoral darán motivo a la imposición de sanciones en los términos que determine la ley. El Instituto Electoral del Estado de México impondrá las sanciones en el ámbito de su competencia mediante procedimientos expeditos, o en su caso, solicitará a la autoridad competente la imposición de las mismas.
+Las infracciones a lo dispuesto en materia de propaganda electoral darán motivo a la imposición de sanciones en los términos que determine la ley. El Instituto Electoral del Estado de México impondrá las sanciones en el ámbito de su competencia mediante procedimientos ordinarios y especiales expeditos o, en su caso, solicitará a la autoridad competente la imposición de las mismas.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-El Instituto y el Tribunal Electoral podrán ordenar la realización de recuentos de alguna o algunas casillas, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la ley, la que determinará los casos en que podrán realizarse recuentos totales o parciales en los ámbitos administrativo y jurisdiccional.
+El Instituto Electoral del Estado de México y el Tribunal Electoral podrán ordenar la realización de recuentos de alguna o algunas casillas, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la ley, la que determinará los casos en que podrán realizarse recuentos totales o parciales en los ámbitos administrativo y jurisdiccional.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-La ley tipificará los delitos y determinará las faltas en materia electoral, establecerá los procedimientos aplicables y las sanciones que deban imponerse.
+La ley determinará las faltas en materia electoral, estableciendo los procedimientos aplicables y las sanciones que deba (sic) imponerse.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -355,13 +343,25 @@ Para garantizar los principios de constitucionalidad y legalidad de los actos y 
 
 Habrá un Tribunal Electoral autónomo, de carácter permanente con personalidad jurídica y patrimonio propios, independiente en sus decisiones que será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen esta Constitución y la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-El Tribunal Electoral funcionará en Pleno, se integrará por cinco Magistrados que durarán en su cargo seis años y no podrán ser reelectos. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado.
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-Corresponde a la Legislatura designar, de entre los ciudadanos propuestos por el Consejo de la Judicatura del Tribunal Superior de Justicia y con el voto de las dos terceras partes de los miembros presentes, a los Magistrados del Tribunal Electoral y de entre éstos a su Presidente, quien fungirá por tres años y podrá ser reelecto por un periodo más, conforme al procedimiento y requisitos establecidos en la ley.
+El Tribunal Electoral funcionará en Pleno, se integrará por cinco Magistrados designados por el Senado de la República en los términos que establece la legislación de la materia y gozarán de todas las garantías judiciales previstas en la Constitución Política de los Estados Unidos Mexicanos, a efecto de garantizar su independencia y autonomía. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
 
-En caso de falta absoluta de alguno de los Magistrados, el sustituto será elegido por la Legislatura para concluir el periodo de la vacante, en los mismos términos que se señalan en el párrafo anterior.
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-Al Tribunal Electoral le corresponderá resolver de forma definitiva e inatacable las impugnaciones en contra de los actos y resoluciones del Instituto Electoral a través de los medios establecidos en la ley de la materia; los conflictos o diferencias laborales entre el Tribunal y sus servidores y entre el Instituto Electoral y sus servidores públicos electorales, así como las determinaciones sobre imposición de sanciones por parte del Instituto Electoral.
+Los Magistrados del Tribunal Electoral designarán a su Presidente, por mayoría de votos, entre ellos; la Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+En caso de falta absoluta de alguno de los Magistrados, el Magistrado Presidente del Tribunal lo hará del conocimiento al Senado. Si ocurriera una vacante temporal, corresponderá a la Legislatura designar, de entre una terna de ciudadanos propuestos por el Pleno del Tribunal Electoral y con el voto de las dos terceras partes de los miembros presentes, a quien cubrirá la vacante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE JUNIO DE 2014)</small>
+
+Quienes hayan fungido como magistrados electorales no podrán asumir un cargo público en los órganos emanados de las elecciones celebradas durante su periodo, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 24 DE JUNIO DE 2014)</small>
+
+Al Tribunal Electoral le corresponderá resolver de forma definitiva e inatacable las impugnaciones en contra de los actos y resoluciones del Instituto Electoral del Estado de México a través de los medios establecidos en la ley de la materia; los conflictos o diferencias laborales entre el Tribunal Electoral y sus servidores y entre el Instituto Electoral del Estado de México y sus servidores públicos electorales, así como las determinaciones sobre imposición de sanciones por parte del Instituto Electoral del Estado de México.
 
 El Tribunal Electoral expedirá su reglamento interno y los acuerdos generales para su adecuado funcionamiento, en los términos que señale la ley.
 
@@ -381,7 +381,9 @@ El Gobernador del Estado podrá someter a referéndum total o parcial las reform
 
 Los ciudadanos de la Entidad podrán solicitar al Gobernador que sean sometidas a referéndum total o parcial esos ordenamientos, siempre y cuando lo hagan al menos el 20 por ciento de los inscritos en las listas nominales de electores, debidamente identificados y dentro de los 30 días naturales siguientes a su publicación en el diario oficial del Estado.
 
-La ley reglamentaria correspondiente determinará las normas, términos y procedimiento a que se sujetarán el referéndum Constitucional y el Legislativo.
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+La ley de la materia determinará las normas, términos y procedimiento a que se sujetarán el referéndum constitucional y el legislativo.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -416,6 +418,14 @@ La ley protegerá y promoverá el desarrollo de sus culturas, lenguas, usos, cos
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 Las autoridades promoverán el bienestar de estos grupos mediante las acciones necesarias, convocando incluso a la sociedad, en especial en las materias de salud, educación, vivienda y empleo, así como en todas aquellas que con respeto a las expresiones y manifestaciones de su cultura, faciliten e impulsen la participación de quienes los integran en todos los ámbitos del desarrollo del Estado y en igualdad de condiciones y oportunidades que los demás habitantes.
+
+> <small>(ADICIONADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, representantes ante los Ayuntamientos, con el propósito de fortalecer su participación y representación política, de conformidad con sus tradiciones y normas internas.
+
+> <small>(ADICIONADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+Los pueblos y comunidades indígenas podrán elegir, de acuerdo con sus principios, normas, procedimientos y prácticas tradicionales a sus autoridades o sus representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de equidad, de conformidad con esta Constitución y la ley respectiva.
 
 > <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -577,11 +587,15 @@ Con excepción de la hipótesis prevista en el inciso c) anterior, la petición 
 
 3°. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, y la particular del Estado; los principios consagrados en el artículo 40 de la Constitución Federal; los principios consagrados en el artículo 3 de esta Constitución; la materia electoral; los ingresos y gastos del Estado y, la seguridad estatal. La Sala Constitucional del Tribunal Superior de Justicia del Estado resolverá, previo a la convocatoria que realice la Legislatura, sobre la constitucionalidad de la materia de la consulta;
 
-4°. El Instituto Electoral del Estado de México tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 10 de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+4°. El Instituto Electoral del Estado de México tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1° de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
 
 5°. La consulta popular se realizará el mismo día de la jornada electoral local;
 
-6°. Las resoluciones del Instituto Electoral Estatal podrán ser impugnadas en los términos de lo dispuesto en el artículo 13 de esta Constitución, y
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+6°. Las resoluciones del Instituto Electoral del Estado de México podrán ser impugnadas en los términos de lo dispuesto en el artículo 13 de esta Constitución.
 
 7°. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
 
@@ -687,19 +701,29 @@ El o los diputados electos en elecciones extraordinarias concluirán el período
 
 La Legislatura del Estado se integrará con 45 diputados electos en distritos electorales según el principio de votación mayoritaria relativa y 30 de representación proporcional.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
-
-La base para realizar la demarcación territorial de los 45 distritos electorales será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de los distritos señalados, teniendo también en cuenta para su distribución, los factores geográfico y socioeconómico, así como los elementos y las variables técnicas que determine la ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
 
 La asignación de diputaciones por el principio de representación proporcional se efectuará conforme a las siguientes bases:
 
 I. Se constituirán hasta tres circunscripciones electorales en el Estado, integradas cada una por los distritos electorales que en los términos de la ley de la materia se determinen.
 
-II. Para tener derecho a la asignación de diputaciones de representación proporcional, el partido político de que se trate deberá acreditar la postulación de candidatos propios de mayoría relativa en por lo menos 30 distritos electorales y haber obtenido al menos el porcentaje que marque la ley correspondiente del total de la votación válida emitida en el Estado.
+> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
 
-III. La asignación de diputaciones de representación proporcional se hará conforme a las disposiciones que señale la ley de la materia.
+II. Para tener derecho a la asignación de diputaciones de representación proporcional, el partido político de que se trate deberá acreditar la postulación de candidatos propios de mayoría relativa en por lo menos 30 distritos electorales y de haber obtenido al menos el tres por ciento de la votación válida emitida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que haya obtenido;
+
+> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
+
+III. Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional, conforme a la fórmula establecida en la ley.
 
 Los diputados de mayoría relativa y los de representación proporcional tendrán iguales derechos y obligaciones.
+
+> <small>(ADICIONADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura del Estado que exceda en ocho puntos su porcentaje de votación emitida.
+
+> <small>(ADICIONADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura del Estado superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Así mismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -717,13 +741,25 @@ IV. Tener 21 años cumplidos el día de la elección;
 
 V. No ser ministro de algún culto religioso, a menos de que se separe formal, material y definitivamente de su ministerio cuando menos 5 años antes del día de la elección;
 
-VI. No ser diputado o senador al Congreso de la Unión en ejercicio;
+> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
 
-VII. No ser juez, magistrado ni integrante del Consejo de la Judicatura del Poder Judicial, servidor público federal, estatal o municipal; y
+VI. No ser consejero presidente o consejero electoral, en los consejos distritales o municipales del Instituto Electoral del Estado de México, salvo que se hubiera separado del cargo dos años antes del día de la elección;
 
-VIII. No ser militar o jefe de las fuerzas de seguridad pública del Estado o de los municipios en ejercicio de mando en el territorio del distrito o circunscripción por el que pretenda postularse.
+> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
 
-En los casos a que se refieren las dos fracciones anteriores, podrán postularse si se separan del cargo 60 días antes de las elecciones ordinarias y 30 de las extraordinarias.
+VII. No ser diputado local, diputado federal o senador en ejercicio;
+
+> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
+
+VIII. No ser juez, magistrado ni integrante del Consejo de la Judicatura del Poder Judicial, servidor público federal, estatal o municipal;
+
+> <small>(ADICIONADA, G.G. 24 DE JUNIO DE 2014)</small>
+
+IX. No ser militar o jefe de las fuerzas de seguridad pública del Estado o de los municipios en ejercicio de mando en el territorio del distrito o circunscripción por el que se pretenda postularse.
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+En el caso a que se refieren las tres fracciones anteriores, podrán postularse si se separan del cargo noventa días antes de las elecciones ordinarias y treinta de las extraordinarias.
 
 El Gobernador del Estado, durante todo el período del ejercicio, no podrá ser electo diputado.
 
@@ -747,11 +783,15 @@ Los presidentes de la Legislatura y de la Diputación Permanente velarán por el
 
 El ejercicio del cargo de diputado es incompatible con cualquier comisión o empleo del Gobierno Federal, del Estado o de los municipios y de sus organismos auxiliares por el que se disfrute sueldo. La Legislatura podrá conceder licencia a sus miembros, según los casos, para desempeñar otras funciones que les hayan sido encomendadas.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>N. DE E. LA REFORMA AL PRESENTE ARTÍCULO SERÁ APLICABLE A LOS DIPUTADOS LOCALES E INTEGRANTES DE LOS AYUNTAMIENTOS QUE SEAN ELECTOS A PARTIR DEL PROCESO ELECTORAL DE 2015.</small>
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 44.
 
-La Legislatura se renovará en su totalidad cada tres años; la ley de la materia determinará la fecha de la elección. Los Diputados no podrán ser reelectos para el período inmediato.
+La Legislatura del Estado se renovará en su totalidad cada tres años, la ley de la materia determinará la fecha de la elección. Los Diputados podrán ser electos de manera consecutiva hasta por cuatro periodos; la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiera postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+La Ley establecerá las medidas para que la elección conserve el carácter de libre y auténtica, garantizando la observancia de los principios consagrados en esta Constitución.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -759,7 +799,9 @@ La Legislatura se renovará en su totalidad cada tres años; la ley de la materi
 
 Las elecciones de diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia.
 
-El cómputo y la declaración de validez de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será hecha por el organismo público estatal encargado de la organización, desarrollo y vigilancia de las elecciones.
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+El cómputo y la declaración de validez de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será hecha por el Instituto Electoral del Estado de México encargado de la organización, desarrollo y vigilancia de las elecciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1003,9 +1045,9 @@ XIX. Recibir el aviso del Ejecutivo del Estado, cuando salga al extranjero en mi
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
 
-XXI. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Estado, del Tribunal Estatal Electoral, del Auditor Superior de Fiscalización y del Presidente y miembros del Consejo de la Comisión de Derechos Humanos;
+XXI. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Estado, del Auditor Superior de Fiscalización y del Presidente y miembros del Consejo de la Comisión de Derechos Humanos;
 
 El Gobernador del Estado protestará en los siguientes términos:
 
@@ -1165,13 +1207,13 @@ Así como, emitir las normas que establezcan los procedimientos mediante los cua
 
 XLVII. Aprobar la afectación de los ingresos del Estado y, en su caso, el derecho a percibirlos, derivados de contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o proyectos para prestación de servicios que contraten el Estado y los municipios. Igualmente corresponderá a la Legislatura, a solicitud del Gobernador, la aprobación de la desafectación de esos ingresos o derechos en términos de la legislación aplicable;
 
-> <small>(ADICIONADA, G.G 7 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
 
-XLVIII. Legislar en materia de participación ciudadana, iniciativa ciudadana y consultas populares;
+XLVIII. Legislar en materia de participación ciudadana;
 
-> <small>(ADICIONADA, G.G 7 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 24 DE JUNIO DE 2014)</small>
 
-XLIX. Convocar a consultas populares en los términos de esta Constitución y de la Ley reglamentaria;
+XLIX. Convocar a consultas populares en los términos de esta Constitución y de la ley en la materia;
 
 L. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
@@ -1255,7 +1297,7 @@ Se entenderá por residencia efectiva para los efectos de esta Constitución, el
 
 III. Tener 30 años cumplidos el día de la elección;
 
-IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección; y (sic)
+IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección; y
 
 V. No ser servidor público en ejercicio de autoridad, ni militar en servicio activo o con mando de fuerzas dentro del Estado en los últimos 90 días anteriores al día de la elección ordinaria, o a partir del quinto día de la fecha de la publicación de la convocatoria para la elección extraordinaria.
 
@@ -1567,11 +1609,13 @@ El Ministerio Público y las policías se coordinarán en términos de la Ley Ge
 
 El Ministerio Público y las policías, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos.
 
-> <small>(ADICIONADO, G.G. 24 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 86 Bis.
 
-La Seguridad Pública, en la Entidad, es una función a cargo del Estado y los municipios, en sus respectivos ámbitos de competencia que comprende la prevención e investigación de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+La Seguridad Pública, en la Entidad, es una función a cargo del Estado y los municipios, en sus respectivos ámbitos de competencia que comprende la prevención e investigación de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, responsabilidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
+
+> <small>(ADICIONADO, G.G. 24 DE FEBRERO DE 2011)</small>
 
 Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las Instituciones Policiales, deberán de coordinarse entre si para cumplir los objetivos de la Seguridad Pública y conformarán los Sistemas Nacional y Estatal de Seguridad Pública.
 
@@ -1955,11 +1999,15 @@ El cargo de miembro del ayuntamiento no es renunciable, sino por justa causa que
 
 En ningún caso los ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del presidente municipal, ni éste por sí solo las de los ayuntamientos, ni el ayuntamiento o el presidente municipal, funciones judiciales.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>N. DE E. LA REFORMA AL PRESENTE ARTÍCULO SERÁ APLICABLE A LOS DIPUTADOS LOCALES E INTEGRANTES DE LOS AYUNTAMIENTOS QUE SEAN ELECTOS A PARTIR DEL PROCESO ELECTORAL DE 2015.</small>
+
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 116.
 
-Los ayuntamientos serán asamblea deliberante y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los presidentes municipales. Durarán en sus funciones tres años y ninguno de sus miembros propietarios o suplentes que hayan asumido las funciones podrá ser electo para el período inmediato siguiente.
+Los ayuntamientos serán asamblea deliberante y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de esta corresponderá exclusivamente a los presidentes municipales, quienes durarán en sus funciones tres años.
+
+La elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, será por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato y de conformidad con lo establecido en la ley respectiva.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2013,7 +2061,9 @@ V. Los militares y los miembros de las fuerzas de seguridad pública del Estado 
 
 VI. Los ministros de cualquier culto, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
 
-Los servidores públicos a que se refieren las fracciones III, IV y V, serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos 60 días antes de la elección.
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
+
+Los servidores públicos a que se refieren las fracciones de la I a la V serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos noventa días antes de la elección.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -3756,3 +3806,17 @@ G.G. 19 DE DICIEMBRE DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 24 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- La reforma a los artículos 44 y 116 de esta Constitución será aplicable a los Diputados Locales e integrantes de los Ayuntamientos que sean electos a partir del proceso electoral de 2015.
+
+CUARTO.- La Legislatura Estatal deberá adecuar el marco jurídico-electoral secundario a más tardar el 30 de junio de 2014.
+
+QUINTO.- El Ejecutivo del Estado y la Legislatura Local proveerán lo necesario para la ampliación del Presupuesto de Egresos del ejercicio fiscal corriente, en la esfera de su competencia, para el exacto cumplimiento de este Decreto.
+
+SEXTO.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
