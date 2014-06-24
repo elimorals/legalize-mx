@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2014-01-14"
+last_updated: "2014-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -190,6 +190,10 @@ XII. Dirección general: a la Dirección General de Comunicaciones y Transportes
 XIII. Dirección general del transporte colectivo metropolitano: a la Dirección General del Transporte Colectivo Metropolitano de la Secretaría de Comunicaciones y Transportes;
 
 XIV. Equipamiento auxiliar de transporte: a todos los accesorios directos e indirectos, complementarios de la operación del servicio de transporte público;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+XIV Bis. Estudiante: persona que se encuentra cursando estudios académicos, ciencia, arte u oficio, en un centro docente público o privado con reconocimiento oficial;
 
 XV. Itinerario: a los puntos de recorrido de una ruta;
 
@@ -1017,7 +1021,7 @@ V. Relativos a la aplicación de la tarifa:
 
 a) Utilizar los sistemas de tarifa que se determinen en los términos de esta Ley para cada tipo de servicio, y que los sistemas de prepago sean obligatorios en primera instancia para la aplicación de la tarifa especial, en los casos que esta misma Ley determine.
 
-b) Que la distribución de formas diferentes de prepago sea la que marque la Secretaría, con el fin de garantizar que los estudiantes, adultos mayores o cualquiera de los beneficiados por la .ley, tengan la posibilidad de obtenerlos y usarlos con la mayor facilidad.
+b) Que la distribución de formas diferentes de prepago sea la que marque la Secretaría, con el fin de garantizar que los estudiantes, adultos mayores o cualquiera de los beneficiados por la ley, tengan la posibilidad de obtenerlos y usarlos con la mayor facilidad.
 
 Lo establecido en este artículo será obligatorio, sin perjuicio de la aplicación de otras disposiciones establecidas por la presente Ley y sus reglamentos.
 
@@ -1379,7 +1383,7 @@ La Secretaría establecerá los sistemas para el cobro de tarifas del servicio p
 
 ###### ARTICULO 96.
 
-Tomando en cuenta el interés social, la Secretaría podrá autorizar el establecimiento de tarifas especiales que se aplicarán de manera general en beneficio de sectores específicos de la población, tales como: los menores de seis años; estudiantes; personas con discapacidad; adultos mayores, y jubilados; (sic)
+Tomando en cuenta el interés social, la Secretaría podrá autorizar el establecimiento de tarifas especiales que se aplicarán de manera general en beneficio de sectores específicos de la población, tales como: los menores de seis años; estudiantes; personas con discapacidad; adultos mayores, y jubilados;
 
 ###### ARTICULO 97.
 
@@ -1871,7 +1875,7 @@ h) Por utilizar como terminal la vía pública en lugares no autorizados por la 
 
 i) Por modificar o alterar sin autorización de la Secretaría, los itinerarios, rutas, horarios, frecuencias de servicio, terminales, o condiciones autorizadas para la prestación del servicio público de transporte, multa de cincuenta a cien salarios mínimos.
 
-j) Por permitir que personas que carezcan de la licencia o el gafete para conducir vehículos de servicio público, sean éstos insuficientes, o de modalidad distinta a la del servicio que se presta, o se encuentren vencidos, multa de cincuenta a cien a trescientos salarios mínimos. (sic)
+j) Por permitir que personas que carezcan de la licencia o el gafete para conducir vehículos de servicio público, sean éstos insuficientes, o de modalidad distinta a la del servicio que se presta, o se encuentren vencidos, multa de cincuenta a cien a trescientos (sic) salarios mínimos.
 
 k) Por no portar póliza de seguro vigente a bordo de vehículo afecto a una concesión de servicio público de transporte, multa de cincuenta, a trescientos salarios mínimos; y el vehículo será retirado de la circulación.
 
@@ -2086,6 +2090,12 @@ PRIMERO. Este Decreto entrará en vigor el uno de enero de 2014, previa publicac
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 14 DE ENERO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
