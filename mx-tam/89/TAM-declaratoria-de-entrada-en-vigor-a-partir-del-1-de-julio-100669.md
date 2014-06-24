@@ -4,7 +4,7 @@ identifier: "TAM-declaratoria-de-entrada-en-vigor-a-partir-del-1-de-julio-100669
 country: "mx"
 rank: "otro"
 publication_date: "2014-05-01"
-last_updated: "2014-05-01"
+last_updated: "2014-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # DECLARATORIA DE ENTRADA EN VIGOR, A PARTIR DEL 1°. DE JULIO DEL 2014, DEL CODIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 DECRETO NÚMERO LXII-232 MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ENTRADA EN VIGOR, A PARTIR DEL 1o. DE JULIO DEL 2014, DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO, CON CABECERA EN CIUDAD VICTORIA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE JUNIO DE 2014.</small>
 
 Decreto publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 1 de mayo de 2014.
 
@@ -57,9 +57,11 @@ El presente Decreto entrará en vigor a partir de su expedición, y deberá publ
 
 El presente Decreto deberá ser notificado a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Tamaulipas; Legislativo, Ejecutivo y Judicial de las entidades federativas y el Distrito Federal, así como a los Ayuntamientos del Estado de Tamaulipas, para los efectos legales que procedan.
 
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El Código de Procedimientos Penales para el Estado de Tamaulipas, publicado en el Periódico Oficial del Estado, el 4 de junio de 2012, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedará abrogado; sin embargo, respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+El Código de Procedimientos Penales del Estado de Tamaulipas, publicado en el Anexo al Periódico Oficial del Estado, el 4 de julio de 2012, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedará abrogado; sin embargo, respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 
 ###### ARTÍCULO CUARTO.
 
