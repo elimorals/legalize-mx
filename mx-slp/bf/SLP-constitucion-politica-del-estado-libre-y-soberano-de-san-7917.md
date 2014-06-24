@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-05-20"
+last_updated: "2014-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1375,7 +1375,9 @@ Los consejeros no representan a quien los designa, por lo que ejercerán sus fun
 
 La organización, funcionamiento y demás atribuciones del Consejo de la Judicatura del Estado, serán determinados por la ley, conforme a lo establecido en esta Constitución.
 
-Salvo el Presidente del Consejo, los demás durarán cinco años en su encargo, serán sustituidos de manera escalonada y podrán ser reelectos por una sola vez.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+Salvo el Presidente del Consejo, los demás durarán cinco años en su encargo, serán sustituidos de manera escalonada y podrán ser reelectos por una sola vez. Al concluir su periodo tendrán derecho a un haber de retiro consistente en un único emolumento equivalente a un año de salario, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que les correspondan. Dicha remuneración se cubrirá con base en el último salario percibido, siempre y cuando el Consejero no haya sido reelecto, o habiéndolo sido termine el periodo para el cual fue designado; o, padezca incapacidad física o mental que le impida el desempeño del encargo.
 
 El Consejo funcionará en Pleno o en comisiones, y sus decisiones plenarias se tomarán válidamente por mayoría calificada de tres votos.
 
@@ -2724,3 +2726,9 @@ SEGUNDO. Los poderes del Estado, sus entidades descentralizadas, y los organismo
 TERCERO. Los ayuntamientos y sus entidades descentralizados (sic) deberán hacer los ajustes indispensables a su normativa legal y administrativa, en un plazo de tres meses, contado a partir de la fecha de entrada en vigor de este Decreto.
 
 CUARTO. Las adquisiciones, arrendamientos y enajenaciones de toda dase de bienes; la prestación de servicios de cualquier naturaleza; y la contratación de obra, que se encuentren en proceso a la entrada en vigor de este Decreto, se seguirán realizando de acuerdo con la normativa en que se tramitaron.
+
+P.O. 24 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
