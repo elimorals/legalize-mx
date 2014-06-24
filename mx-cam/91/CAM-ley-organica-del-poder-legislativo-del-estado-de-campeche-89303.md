@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2013-09-02"
+last_updated: "2014-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL DECRETO No. 136, PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL 1° DE JULIO DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -53,9 +55,11 @@ La interpretación de esta ley se realizará conforme a los criterios gramatical
 
 Sólo el Pleno del Congreso, por mayoría de votos, puede modificar los precedentes interpretativos de esta ley. A este propósito la Mesa Directiva deberá identificar expresamente el precedente que se deroga y el que lo sustituye, y las razones de la modificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2014)</small>
+
 ###### Art. 2.
 
-El ejercicio del Poder Legislativo del Estado se deposita en una asamblea de representantes populares o diputados electos directamente cada tres años. La asamblea se denomina Congreso del Estado.
+El ejercicio del Poder Legislativo del Estado se deposita en una asamblea de representantes populares o diputados electos directamente cada tres años, que podrán ser electos hasta por cuatro períodos consecutivos, de conformidad con lo dispuesto en la Constitución Política del Estado de Campeche. La asamblea se denomina Congreso del Estado.
 
 El Congreso funcionará en Pleno o mediante comisiones, y tendrá como órganos de apoyo:
 
@@ -115,11 +119,17 @@ Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobr
 
 Para la integración de la Legislatura entrante, la Diputación Permanente de la Legislatura saliente observará el procedimiento siguiente:
 
-I. Con la documentación que, en términos de la legislación electoral aplicable, el Consejo General y los Consejos Distritales del Instituto Electoral del Estado, y, en su caso, los Juzgados Electorales, la Sala Electoral del Tribunal Superior de Justicia del Estado o la Sala Regional del Tribunal Electoral del Poder Judicial de la Federación, remitan en su oportunidad a la Secretaría General del Congreso, el secretario de la Diputación Permanente elaborará una relación de las fórmulas de diputados electos por el principio de mayoría relativa y de diputados asignados por el principio de representación proporcional que deberán integrar la Legislatura entrante;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
 
-II. Hecho lo anterior, la Diputación Permanente emitirá un acuerdo convocando a los diputados electos por ambos principios para que, a las dieciocho horas del día treinta de septiembre del año del proceso electoral, se presenten en el Salón de Sesiones del Palacio Legislativo a efecto de rendir la protesta de ley. Ese acuerdo se publicará tanto en el Periódico Oficial como en los diarios de mayor circulación en la Entidad y por medio de oficio se hará del conocimiento de las dirigencias de los partidos políticos interesados;
+I. Con la documentación que, en términos de la legislación electoral aplicable, las autoridades electorales competentes remitan en su oportunidad a la Secretaría General del Congreso, el secretario de la Diputación Permanente elaborará una relación de las fórmulas de diputados electos por el principio de mayoría relativa y de diputados asignados por el principio de representación proporcional que deberán integrar la Legislatura entrante;
 
-III. En la hora, fecha y lugar antes señalados, el secretario de la Diputación Permanente dará lectura a la relación de diputados que hayan resultado electos por ambos principios y comprobará si los interesados se encuentran presentes;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+II. Hecho lo anterior, la Diputación Permanente emitirá un acuerdo y convocará a los diputados electos por ambos principios para que, a las dieciocho horas del día treinta de septiembre del año del proceso electoral, se presenten en el Salón de Sesiones del Palacio Legislativo a efecto de rendir la protesta de ley. Ese acuerdo se publicará tanto en el Periódico Oficial como en los diarios de mayor circulación en la Entidad y, por medio de oficio, se hará del conocimiento de las dirigencias de los partidos políticos interesados;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+III. En la hora, fecha y lugar antes señalados, el secretario de la Diputación Permanente dará lectura a la relación de diputados que hayan resultado electos por ambos principios y comprobará si se encuentran presentes;
 
 IV. Comprobada su presencia, el presidente de la Diputación pedirá a los diputados electos y al público asistente se pongan de pie y dirigiéndose a dichos diputados les preguntará: "CC. Diputados Electos, ¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Diputados al Congreso del Estado, que el pueblo os ha conferido?"; los interrogados contestarán: "¡Sí, protesto!"; y el presidente replicará: "Si no lo hiciereis así, que la Nación y el Estado os los demanden.";
 
@@ -127,7 +137,9 @@ V. Acto seguido, bajo la dirección de la Diputación Permanente, los diputados 
 
 VI. Hecho el cómputo de la elección, el secretario de la Diputación Permanente proclamará los resultados de la misma y el presidente de aquélla les tomará, a los que resultaren electos, la protesta de ley; y
 
-VII. El presidente de la Diputación procederá a declarar el cierre de la sesión, convocando a todos los diputados entrantes para que a las once horas del primer día del mes de octubre del año de la elección nuevamente se presenten en el mismo Salón de Sesiones del Palacio Legislativo, o recinto habilitado como tal, para que la Legislatura proceda a su instalación y a la apertura del primer período ordinario de sesiones del primer año de su ejercicio constitucional.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+VII. El presidente de la Diputación procederá a declarar el cierre de la sesión y convocará a todos los diputados entrantes para que a las once horas del primer día del mes de octubre del año de la elección nuevamente se presenten en el mismo Salón de Sesiones del Palacio Legislativo, o recinto habilitado como tal, para que la Legislatura proceda a su instalación y a la apertura del primer período ordinario de sesiones del primer año de su ejercicio constitucional.
 
 El diputado electo que, sin mediar causa justificada, omita rendir protesta quedará por ese hecho sin lugar en el Congreso, siendo llamado para sustituirlo el respectivo suplente o quien le siga en el orden de la respectiva lista, según corresponda.
 
@@ -179,7 +191,9 @@ II. Determinar los trámites que deban seguirse en los asuntos con que se dé cu
 
 III. Conducir los debates y las deliberaciones de la asamblea;
 
-IV. Llamar al orden a los diputados y al público asistente a las sesiones, imponiendo las sanciones que el caso amerite;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+IV. Llamar al orden a los diputados y al público asistente a las sesiones e imponer las sanciones que el caso amerite;
 
 V. Requerir y sancionar a los diputados faltistas y conceder licencia a los diputados, sólo por causa grave debidamente justificada, para faltar hasta por tres sesiones consecutivas. Cuando la licencia importe mayor número de sesiones o el ausentarse de la residencia del Poder Legislativo, deberá ser concedida por la Asamblea;
 
@@ -191,13 +205,41 @@ VIII. Determinar el orden en que deba darse cuenta a la asamblea con los asuntos
 
 IX. Programar la presentación de iniciativas y dictámenes;
 
-X. Nombrar las comisiones de mera ceremonia y protocolo;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
 
-XI. Llamar, cuando corresponda, previo acuerdo con los demás miembros de la Mesa Directiva, a quienes deban suplir a los diputados en ejercicio;
+X. Respecto a iniciativas preferentes:
 
-XII. Tener por recibidos los informes que sobre el estado general que guarden la Administración Pública y la Administración de Justicia presenten respectivamente el Gobernador del Estado y el Pleno del Tribunal Superior de Justicia del Estado, por conducto de su Magistrado Presidente, turnándolos a las comisiones especiales para su análisis, respuesta y, en su caso, emisión de recomendaciones; y
+a) Incorporar la iniciativa, en el orden del día de la siguiente sesión que siga a su presentación;
 
-XIII. Las demás que le señalen esta ley y otras disposiciones legales y reglamentarias, así como las que no se reserven expresamente a otro miembro de la Mesa Directiva y sean necesarias para el eficaz desempeño de la función legislativa.
+b) Turnar la iniciativa a una o más comisiones para su análisis y dictamen;
+
+c) Cuando se trate del señalamiento de una iniciativa que se hubiere presentado en periodos anteriores, y esté pendiente de dictamen, notificar a la comisión o comisiones que conozcan de la misma que ha adquirido el carácter de preferente;
+
+d) Prevenir a la comisión o comisiones, siete días naturales antes de que termine el plazo para dictaminar la iniciativa con carácter de preferente a través de una comunicación que deberá publicarse en la Gaceta Legislativa;
+
+e) Emitir la declaratoria de publicidad inmediatamente después de concluido el plazo de la comisión o comisiones para dictaminar; e
+
+f) Incorporar en el orden del día de la siguiente sesión del Pleno las iniciativas con carácter preferente para su discusión y votación, en el caso de que la comisión o comisiones no formulen el dictamen respectivo dentro del plazo de treinta días naturales.
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+XI. Solicitar al Organismo Público Local Electoral denominado Instituto Electoral del Estado de Campeche la verificación del porcentaje requerido para la presentación de Iniciativas Ciudadanas de conformidad con el artículo 46 fracción VI de la Constitución Política del Estado de Campeche;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+XII. Nombrar las comisiones de ceremonia y protocolo;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+XIII. Llamar, cuando corresponda, previo acuerdo con los demás miembros de la Mesa Directiva, a quienes deban suplir a los diputados en ejercicio;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+XIV. Tener por recibidos los informes que sobre el estado general que guarden (sic) la Administración Pública y la Administración de Justicia presenten respectivamente el Gobernador del Estado y el Pleno del Tribunal Superior de Justicia del Estado, éste a través de su Magistrado Presidente, turnándolos a las comisiones especiales para su análisis, respuesta y, en su caso, emisión de recomendaciones; y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+XV. Las demás que le señalen esta Ley y otras disposiciones legales y reglamentarias, así como las que no se reserven expresamente a otro miembro de la Mesa Directiva y sean necesarias para el eficaz desempeño de la función legislativa.
 
 ###### Art. 18.
 
@@ -225,13 +267,17 @@ II. Dar cuenta a la asamblea, previo acuerdo del presidente, con los asuntos en 
 
 III. Extender las actas de las sesiones y firmarlas en unión del presidente y del segundo secretario. Las actas deberán contener una relación sucinta y ordenada de lo que se trate y resuelva en la sesión. Lo manifestado en las intervenciones que se susciten con motivo de los debates de iniciativas y dictámenes se plasmarán en el correspondiente Diario de Debates; en acta sólo constará si fueron en pro o en contra;
 
-IV. Remitir por oficio a las presidencias de las comisiones de dictamen legislativo las iniciativas que el presidente de la Mesa Directiva ordene se les turne;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
 
-> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+IV. Remitir por oficio a las presidencias de las comisiones de dictamen legislativo las iniciativas que el presidente de la Mesa Directiva ordene que se les turne y señalar aquellas que tengan el carácter de preferentes;
 
-V. Firmar la correspondencia y demás comunicaciones de mero trámite del Congreso pudiendo delegar esta atribución en el Secretario General del Congreso;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
 
-VI. Registrar y controlar el número de iniciativas en estudio por las comisiones de dictamen legislativo, informando al presidente con toda oportunidad;
+V. Firmar la correspondencia y demás comunicaciones de mero trámite del Congreso, atribución que podrá delegar en el Secretario General del Congreso;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+VI. Registrar y controlar el número de iniciativas en estudio por las comisiones de dictamen legislativo. Llevar un control especial de aquellas que tengan el carácter de preferentes, e informará al presidente con toda oportunidad;
 
 VII. Distribuir entre los diputados copia de las iniciativas y de los dictámenes que vayan a discutirse en sesión; y
 
@@ -543,15 +589,19 @@ Cuando la presidencia de una comisión ordinaria reciba el asunto que se turne a
 
 El miembro de una comisión que disienta de lo dictaminado por la mayoría podrá expresar sus razones por escrito, mismo que deberá agregarse al dictamen, informe u opinión, como voto particular para hacerlo del conocimiento de la asamblea. Las sesiones de las comisiones ordinarias podrán ser públicas o privadas, según lo determine su presidente, atendiendo a la naturaleza del asunto.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+
 ###### Art. 40.
 
-Las comisiones ordinarias podrán citar a los titulares de las dependencias y entidades de la administración pública estatal, centralizada o descentralizada, para que informen cuando se estudie y discuta una ley o asunto relativo a su dependencia, entidad o cargo. Si una comisión ordinaria juzgare necesario llevar a consulta pública el asunto turnado a su consideración, para su mejor resolución, lo hará del conocimiento de la Junta de Gobierno y Administración para que ésta se encargue, en unión de aquélla, de convocar y realizar los correspondientes foros.
+Las comisiones ordinarias podrán citar a los titulares de las dependencias y entidades de la administración pública estatal, centralizada o descentralizada, para que informen cuando se estudie y discuta una ley o asunto relativo a su dependencia, entidad o cargo. Si una comisión ordinaria juzgare necesario llevar a consulta técnica y de opinión pública el asunto turnado a su consideración, para su mejor resolución, lo hará del conocimiento de la Junta de Gobierno y Administración para que ésta se encargue, en unión de aquélla, de convocar y realizar los correspondientes foros.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### Art. 41.
 
-Toda comisión deberá emitir dictamen sobre el asunto que se le turne en un plazo no mayor de quince días, contados a partir de la fecha en que su presidente lo reciba. Si para la emisión del dictamen se ameritase la consulta pública, el término se contará a partir del día siguiente a aquél en que se realice el foro de presentación de conclusiones.
+Toda comisión deberá emitir dictamen sobre el asunto que se le turne en un plazo no mayor de quince días, contados a partir de la fecha en que su presidente lo reciba. Si para la emisión del dictamen se ameritase la consulta técnica y de opinión pública, el término se contará a partir del día siguiente a aquel en que se realice el foro de presentación de conclusiones.
 
-Si por la naturaleza del asunto se requiriese de un plazo mayor para la emisión del dictamen, el Congreso a petición del presidente de la comisión ordinaria, formulada antes de que expire el plazo, podrá prorrogarlo por un lapso no mayor a treinta días.
+Si por la naturaleza del asunto se requiriese de un plazo mayor para la emisión del dictamen, el Congreso a petición del presidente de la comisión ordinaria formulada (sic) antes de que expire el plazo, podrá prorrogarlo por un lapso no mayor a treinta días.
 
 ###### Art. 42.
 
@@ -621,9 +671,15 @@ XIV. Percibir la dieta que se apruebe en el presupuesto correspondiente la que s
 
 XV. Solicitar y, en su caso, obtener licencia para separarse temporalmente del ejercicio de su cargo;
 
-XVI. Solicitar a la Mesa Directiva y, en su caso, obtener la protección a la inviolabilidad de la función parlamentaria por el impulso de actos y opiniones de orden parlamentario. Este derecho se extenderá a quienes hayan sido diputados y una vez concluido su encargo se les pretenda exigir responsabilidad penal, civil o administrativa por esos actos u opiniones; y
+XVI. Solicitar a la Mesa Directiva y, en su caso, obtener la protección a la inviolabilidad de la función parlamentaria por el impulso de actos y opiniones de orden parlamentario. Este derecho se extenderá a quienes hayan sido diputados y una vez concluido su encargo se les pretenda exigir responsabilidad penal, civil o administrativa por esos actos u opiniones; y (sic)
 
-XVII. Los demás que les confieran otras disposiciones legales y reglamentarias.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+XVII. Ser electos hasta por cuatro periodos consecutivos, siempre y cuando la postulación sea realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado con las salvedades que establece la Constitución Política del Estado de Campeche, y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2014)</small>
+
+XVIII. Los demás que les confieran otras disposiciones legales y reglamentarias.
 
 #### Sección Segunda. De sus obligaciones
 
@@ -671,9 +727,11 @@ XIX. Las demás que les impongan esta ley u otras disposiciones legales y reglam
 
 #### Sección Tercera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+
 ###### Art. 49.
 
-Los diputados, a partir del momento en que queden investidos como tales, bajo la orientación ideológica del partido político que los haya postulado, representan a todo el pueblo campechano, sin importar el distrito por el cual fueron electos.
+Los diputados, a partir del momento en que queden investidos como tales, bajo la orientación ideológica del partido político que los haya postulado representan a todo el pueblo campechano, sin importar el distrito por el cual fueron electos o reelectos.
 
 ###### Art. 50.
 
@@ -961,15 +1019,47 @@ VII. Cuando una iniciativa sea desechada por el Congreso, tal decisión se dará
 
 Por mayoría de votos de los diputados presentes en la sesión, el Congreso podrá discutir y resolver respecto de una iniciativa o proyecto, sin que el mismo pase a comisiones. En estos casos la minuta de ley, decreto o acuerdo se redactará y someterá a la consideración de la asamblea en la misma sesión, o en la sesión siguiente.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+
 ###### Art. 75.
 
-Las iniciativas de ley presentadas por el Gobernador serán analizadas, discutidas y votadas de manera preferente, cuando así lo solicite expresamente el autor de la iniciativa a la Mesa Directiva, en un plazo no mayor de treinta días.
+La iniciativa preferente es aquella que es sometida al Congreso por el Gobernador en ejercicio de su facultad exclusiva para trámite preferente, o señalada con tal carácter de entre las que hubiere presentado en periodos anteriores y estén pendientes de dictamen.
+
+La iniciativa preferente conservará su carácter durante todo el proceso legislativo previsto en el artículo 73 de la Constitución Política del Estado de Campeche.
+
+No podrán tener carácter preferente las iniciativas de modificación a la Constitución Política del Estado de Campeche.
+
+La iniciativa preferente podrá versar sobre cualquier materia y comprender uno o más ordenamientos cuando exista conexidad en los temas, salvo la iniciativa de Ley de Presupuesto de Egresos del Estado, aunque sí las modificaciones que establece el artículo 85 de esta Ley.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### Art. 76.
 
-La prerrogativa a que se refiere el artículo anterior la ejercerá el Gobernador para una sola iniciativa en cada período ordinario de sesiones.
+EI día de la apertura de cada período ordinario de sesiones el Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores cuando estén pendientes de dictamen
 
-Las modificaciones a la Constitución Política del Estado en ningún caso será objeto de este procedimiento abreviado. Tampoco lo será la iniciativa de ley de presupuesto de egresos del Estado aunque sí las modificaciones a que se contrae el artículo 85 de esta ley orgánica.
+En el caso de las iniciativas preferentes presentadas o señaladas con ese carácter, se observará para su trámite lo siguiente:
+
+I. La iniciativa preferente será dada a conocer a la asamblea en la sesión inmediata posterior a su presentación, mediante la lectura íntegra de su texto. Podrá dispensarse la lectura cuando a cada uno de los miembros de la asamblea legislativa presentes en la sesión se le entregue copia de ella. En este caso sólo se dará lectura a su exposición de motivos.
+
+II. Leída la iniciativa o, en su caso, únicamente su exposición de motivos, el presidente de la Mesa Directiva dispondrá que se turne a la comisión o comisiones ordinarias que correspondan, en atención a su materia;
+
+En el caso de iniciativas que se hubieren presentado en periodos anteriores y estén pendientes de dictamen, solicitado el carácter de preferente por parte del Gobernador, la Mesa Directiva notificará en un plazo no mayor a dos días a la comisión o comisiones que conozcan de la misma que ha adquirido el carácter de preferente;
+
+III. La comisión o comisiones ordinarias tendrán un plazo de treinta días naturales, contados a partir del día siguiente en que se le haya turnado la iniciativa preferente o se haya realizado la notificación por parte de la Mesa Directiva de alguna iniciativa que se le haya turnado con anterioridad y que ahora tenga el carácter de preferente, para analizar la iniciativa y emitir dictamen, y prevendrá a la asamblea la aprobación, en su integridad o con modificaciones, o el rechazo de la incitativa de ley. El plazo señalado en este párrafo será improrrogable.
+
+En caso de aprobación, el dictamen contendrá la minuta del proyecto de ley que proponga la comisión o comisiones ordinarias;
+
+IV. El dictamen se hará del conocimiento de la asamblea en sesión mediante su lectura y se procederá a realizar el procedimiento de trámite señalado en las fracciones IV, V, VI y VII del artículo 73 de esta Ley;
+
+V. En los casos en que transcurra el plazo sin que se formule el dictamen correspondiente por parte de la comisión o comisiones, procederá lo siguiente:
+
+a) La Mesa Directiva deberá incluir la iniciativa preferente como primer asunto en el orden del día de la siguiente sesión de la asamblea para su discusión y votación en sus términos, y sin mayor trámite;
+
+b) La discusión y votación sólo se abocará a la iniciativa preferente y deberá ser aprobada, de lo contrario, se tendrá por desechada; y
+
+c) Aprobada la iniciativa con carácter preferente por la asamblea, la minuta de ley se enviará al Ejecutivo para su sanción, promulgación y publicación en el Periódico Oficial del Estado.
+
+VI. La comisión o comisiones podrán trabajar en conjunto a fin de agilizar el análisis y dictamen de las iniciativas con carácter preferente, en cualquier etapa del proceso legislativo.
 
 ###### Art. 77.
 
@@ -1049,9 +1139,55 @@ C. _________________
 
 Diputado Secretario
 
-### Capítulo Décimo. De las iniciativas de leyes de ingresos y egresos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JUNIO DE 2014)</small>
 
-### Capítulo Undécimo. De los debates
+### Capítulo Noveno Bis. De la Iniciativa Ciudadana
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+Art. 80 bis.- El derecho de iniciar leyes compete a los ciudadanos en un número equivalente a cuando menos el cero punto trece por ciento de la lista nominal de lectores (sic) de la entidad, de conformidad con el artículo 46 fracción VI de la Constitución Política del Estado de Campeche. Los ciudadanos podrán presentar proyectos de iniciativas respecto de las materias de competencia del Congreso del Estado.
+
+Las iniciativas ciudadanas seguirán el procedimiento legislativo dispuesto por esta Ley una vez que el Instituto Electoral del Estado comunique el cumplimiento de lo dispuesto por la Constitución Política del Estado de Campeche, en los términos que establece el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+Art. 80 ter.- La iniciativa ciudadana deberá cumplir con los siguientes requisitos:
+
+I.- Presentarse por escrito ante el Presidente de la Mesa Directiva, y en sus recesos, ante el Presidente de la Diputación Permanente.
+
+II. Contener los nombres completos de los ciudadanos, clave de elector o el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar vigente y su firma. En caso de advertirse error en la identificación del ciudadano, siempre y cuando éste sea menor al veinte por ciento del total requerido, el Instituto Electoral del Estado de Campeche prevendrá a los promoventes para que subsanen el error antes de que concluya el período ordinario de sesiones, y deberá informar de ello al presidente de la Mesa Directiva. Si los promoventes no subsanan el error en el plazo establecido, se tendrá por desistida la iniciativa;
+
+III. Nombre completo y domicilio del representante para oír y recibir notificaciones, y
+
+IV. Toda la documentación deberá estar plenamente identificada, señalando en la parte superior de cada hoja el nombre del proyecto de decreto que se propone someter.
+
+Cuando la iniciativa no cumpla con los requisitos señalados en las fracciones I, III o IV de este artículo, el Presidente de la Mesa Directiva prevendrá a los promoventes para que subsanen los errores u omisiones en un plazo de quince días hábiles a partir de la notificación. En caso de no subsanarse en el plazo establecido se tendrá por no presentada.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+Art. 80 quater.- La iniciativa ciudadana atenderá el siguiente procedimiento:
+
+I. El Presidente de la Mesa Directiva dará cuenta de ella y solicitará de inmediato al Instituto Electoral del Estado de Campeche la verificación de que haya sido suscrita en un número equivalente a cuando menos el cero punto trece por ciento de la lista nominal de electores de la entidad. La verificación deberá absolverse dentro de un plazo no mayor a treinta días naturales contados a partir de la recepción del expediente por parte del Instituto Electoral. Para ello, el Instituto Electoral solicitará a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Nacional Electoral, dentro del plazo referido, verifique que los nombres de quienes hayan suscrito la iniciativa ciudadana aparezcan en las listas nominales de electores y que la suma corresponda en un número equivalente a cuando menos el cero punto trece por ciento de la lista nominal de electores de la entidad.
+
+Una vez que se haya alcanzado el requisito porcentual a que se refiere el párrafo anterior, el Instituto Electoral solicitará a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Nacional Electoral realizar un ejercicio muestral para corroborar la autenticidad de las firmas de acuerdo a los criterios que defina al respecto la propia Dirección Ejecutiva;
+
+II. El Instituto Nacional Electoral contará con un plazo no mayor a treinta días naturales contados a partir de la recepción del expediente, para realizar la verificación a que se refiere la fracción anterior, hecho esto comunicará el resultado al Instituto Electoral para los trámites correspondientes;
+
+III. En el caso de que el Instituto Electoral determine en forma definitiva que no se cumple con el porcentaje requerido por la Constitución Política del Estado, el Presidente de la Mesa Directiva dará cuenta de ello a la asamblea, ordenará su publicación en la Gaceta Legislativa, y procederá a su archivo como asunto total y definitivamente concluido, notificando a los promoventes, por conducto de su representante;
+
+IV. En el supuesto de que se verifique el cumplimiento del porcentaje señalado en la fracción I, el Presidente de la Mesa Directiva turnará la iniciativa a la comisión que corresponda para su análisis y dictamen, y seguirá el proceso legislativo señalado en el artículo 73 de esta Ley, y
+
+V. En caso de que el representante de los promoventes impugne la resolución del Instituto Electoral, el Presidente de la Mesa Directiva suspenderá el trámite correspondiente mientras la autoridad electoral jurisdiccional competente resuelve lo conducente.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+Art. 80 quintus.- En el proceso legislativo de dictamen, el Presidente de la Mesa Directiva podrá convocar, si se estima necesario, al representante designado por los ciudadanos, para que asista a una reunión de la comisión que corresponda, a efecto de que exponga el contenido de su propuesta.
+
+Las opiniones vertidas durante la reunión a la que fue convocado, no serán vinculantes para la comisión y únicamente constituirán elementos adicionales para elaborar y emitir su dictamen.
+
+El procedimiento de dictamen no se interrumpirá en caso de que el representante no asista a la reunión a la que haya sido formalmente convocado.
+
+### Capítulo Décimo. De las iniciativas de leyes de ingresos y egresos
 
 ###### Art. 81.
 
@@ -1073,7 +1209,7 @@ El Congreso deberá verificar que venga incluido en la iniciativa de ley de pres
 
 La Ley de Presupuesto de Egresos del Estado podrá ser objeto de modificaciones durante el ejercicio fiscal en el que se aplique. La correspondiente iniciativa del Gobernador deberá ser analizada, discutida y resuelta en un plazo no mayor a quince días contados a partir de la fecha de su recepción en el Congreso.
 
-### Capítulo Duodécimo. De las votaciones
+### Capítulo Undécimo. De los debates
 
 ###### Art. 86.
 
@@ -1127,7 +1263,7 @@ Cuando se discuta una iniciativa de ley o decreto presentada por el Gobernador d
 
 En este supuesto se le concederá el mismo tratamiento que a los diputados en cuanto al derecho del uso de la palabra.
 
-### Capítulo Vigésimo. De las Infracciones y Sanciones
+### Capítulo Duodécimo. De las votaciones
 
 ###### Art. 90.
 
@@ -1655,7 +1791,7 @@ XII. Los dictámenes y votos particulares presentados; y
 
 XIII. Los resultados de las votaciones.
 
-### Capítulo Vigésimo Primero. Disposiciones Complementarias
+### Capítulo Vigésimo. De las Infracciones y Sanciones
 
 ###### Art. 149.
 
@@ -1732,6 +1868,8 @@ IV. Cese del ejercicio del cargo o empleo.
 ###### Art. 155.
 
 La calificación de las infracciones y aplicación de las sanciones a que se refiere el artículo 154 corresponderá a la Junta de Gobierno y Administración, cuando se trate del personal al servicio de dicha Junta, de la Secretaría General y de la Contraloría Interna; a la Comisión de Enlace en Materia de Fiscalización por lo que respecta a su personal y al de la Auditoría Superior del Estado; a la Comisión de Enlace en Materia de Estudios Legislativos en lo que se refiera al personal a su servicio o al del Instituto de Estudios Legislativos; salvo que en esta ley u otras disposiciones legales o reglamentarias se atribuya a la presidencia de la Mesa Directiva del Congreso o de la Diputación Permanente, al propio Congreso en Pleno, al Auditor Superior o a la Contraloría Interna.
+
+### Capítulo Vigésimo Primero. Disposiciones Complementarias
 
 ###### Art. 156.
 
@@ -1888,3 +2026,11 @@ SEGUNDO.- Todos los asuntos turnados a las Comisiones de Puntos Constitucionales
 TERCERO.- Las referencias hechas en otras disposiciones legales a la Comisión de Puntos Constitucionales, se tendrán como hechas a la Comisión de Puntos Constitucionales y Control Interno de Convencionalidad del Congreso del Estado.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 24 DE JUNIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el 1° de julio de 2014, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones relativas a la reelección serán aplicables a partir del año 2018.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
