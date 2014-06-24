@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2014-03-06"
+last_updated: "2014-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -891,13 +891,21 @@ Los partidos políticos locales sólo podrán constituirse por ciudadanos sin in
 
 Al partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo en el Estado, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
 
-La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado o los municipios, según corresponda; en el caso del financiamiento público a partidos nacionales, debe reintegrarse al Estado, incluyendo el patrimonio adquirido con financiamiento público estatal, reportándolo en la rendición de cuentas al Consejo Estatal Electoral.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
-La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos y de las candidaturas independientes. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido o candidato independiente, al diez por ciento del tope de gastos establecido para la última campaña para Gobernador del Estado; asimismo, ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos locales que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado o los municipios, según corresponda; en el caso del financiamiento público a partidos nacionales, debe reintegrarse al Estado el patrimonio adquirido con financiamiento público estatal, reportándolo en la rendición de cuentas al Instituto Nacional Electoral.
 
-La organización, preparación, desarrollo y vigilancia de los procesos electorales locales, es una función del Estado que se ejercerá a través del órgano constitucional autónomo regulado por la presente Constitución y la ley. Para resolver las impugnaciones que se presenten en materia electoral, existirá un sistema de medios de impugnación y un Tribunal Electoral, que se sujetaran invariablemente a los principios de constitucionalidad, jurisprudenciales y de legalidad. La ley señalará los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación; igualmente fijará las causales de nulidad de las elecciones de Gobernador del Estado, diputados e integrantes de los ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que expresamente señalen esta Constitución y la ley.
+La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos y de las candidaturas independientes. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, y ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+La organización, preparación, desarrollo y vigilancia de los procesos electorales locales, es una función del Estado que se ejercerá a través del Instituto Nacional Electoral y del órgano público electoral local regulado por la presente Constitución, de conformidad con las atribuciones conferidas en la Constitución Política de los Estados Unidos Mexicanos, las leyes generales respectivas, y la ley local. Para resolver las impugnaciones que se presenten en materia electoral, existirá un sistema de medios de impugnación y un Tribunal Electoral, que se sujetará invariablemente a los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos, en los términos que expresamente señalen la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
 Los ciudadanos duranguenses tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales y de participación ciudadana.
 
@@ -943,11 +951,11 @@ Ningún partido político podrá contar con más de quince diputados asignados p
 
 En ningún caso, un partido político podrá contar, con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 67.
 
-La demarcación territorial de los distritos electorales uninominales, será la que resulte de dividir la población total del Estado entre los distritos señalados y será fijada en la ley.
+La determinación de los distritos electorales locales y su división en secciones electorales, así como el establecimiento de cabeceras, será realizado por el Instituto Nacional Electoral, con base al último censo general de población, de conformidad con lo dispuesto en la ley y los criterios generales que emita dicho Instituto.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1555,7 +1563,9 @@ IV. No haber sido condenado por delito doloso.
 
 El Poder Judicial del Estado, es autónomo y en el ejercicio de sus funciones, actuará con absoluta independencia y sólo estará sujeto a las normas constitucionales y leyes que de ellas emanen.
 
-El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, el Tribunal Electoral, el Tribunal de Justicia Fiscal y Administrativa, el Tribunal Laboral Burocrático, el Tribunal de Menores Infractores, los juzgados de Primera Instancia y municipales, y el Centro Estatal de Justicia Alternativa.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, el Tribunal de Justicia Fiscal y Administrativa, el Tribunal Laboral Burocrático, el Tribunal de Menores Infractores, los juzgados de Primera Instancia y municipales, y el Centro Estatal de Justicia Alternativa.
 
 El Presidente del Tribunal Superior de Justicia representa al Poder Judicial, sus actividades se dirigirán a vigilar el estricto cumplimiento de las determinaciones del Tribunal Superior de Justicia y a cuidar de la administración de justicia, conforme a las atribuciones y obligaciones que le fijen las leyes.
 
@@ -1657,13 +1667,13 @@ Estos nombramientos, deberán recaer preferentemente entre aquellas personas que
 
 Los magistrados del Tribunal Superior de Justicia, rendirán la protesta de ley ante el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 111.
 
 El Tribunal Superior de Justicia tendrá la competencia que establezca esta Constitución y las leyes. Las sesiones del Pleno serán públicas o privadas, según lo determine la ley. Invariablemente serán públicas y con carácter de solemnes, aquéllas en las que el Presidente debe rendir el informe anual de la situación que guarda la administración de justicia, así como las que el propio Pleno acuerde en ese sentido.
 
-El Pleno del Tribunal Superior está facultado para expedir los acuerdos generales y los particulares que requiera el régimen interno del Poder Judicial para su adecuado funcionamiento; sus decisiones serán definitivas e inatacables.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE JUNIO DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1687,25 +1697,15 @@ VII. Autorizar las asignaciones presupuestales a los tribunales y demás órgano
 
 VIII. Las demás que le confieren esta Constitución y las leyes.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 113.
 
-El Tribunal Electoral es la autoridad jurisdiccional dotada de autonomía en sus resoluciones, encargada de conocer y resolver los conflictos en materia electoral; en cuanto a las sesiones que celebre serán públicas en los términos que disponga la ley.
+El Pleno del Tribunal Superior está facultado para expedir los acuerdos generales y los particulares que requiera el régimen interno del Poder Judicial para su adecuado funcionamiento; sus decisiones serán definitivas e inatacables.
 
-El Tribunal Electoral tendrá la competencia que determine la ley, funcionará de manera permanente, y podrá usar los medios de apremio necesarios para el cumplimiento de sus resoluciones.
+> <small>N. DE E. SE DEROGA LA SECCIÓN TERCERA, DENOMINADA "DEL TRIBUNAL ELECTORAL", QUE SE ENCONTRABA DENTRO DEL CAPÍTULO VI, DENOMINADO "DEL PODER JUDICIAL", INSERTO EN EL TÍTULO CUARTO, DENOMINADO "DE LA SOBERANÍA Y FORMA DE GOBIERNO, POR LO QUE EL ORDEN DE LAS SECCIONES Y EL ARTÍCULO SE RECORREN EN SU ORDEN DE APARICIÓN EN EL MENCIONADO CAPÍTULO.</small>
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
-
-Se integrará por tres Magistrados, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley.
-
-Los requisitos para ocupar el cargo de Magistrado del Tribunal Electoral, serán los mismos que para el de los magistrados del Tribunal Superior de Justicia, además de los que disponga la ley.
-
-El Presidente del Tribunal será electo por los mismos magistrados, durará en el cargo tres años y podrá ser reelecto por igual periodo.
-
-Para que un ciudadano pueda acudir a la jurisdicción del Tribunal Electoral por violaciones a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas, la ley establecerá las reglas y plazos aplicables.
-
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN CUARTA], P.O. 24 DE JUNIO DE 2014)
 
 ### Capítulo I. Disposiciones generales
 
@@ -1723,9 +1723,9 @@ El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, s
 
 Los magistrados del Tribunal de Justicia Fiscal y Administrativa durarán en su encargo seis años pudiendo ser ratificados por un periodo igual, previa evaluación de su desempeño por parte del Congreso del Estado; los requisitos para ocupar el cargo y la forma de elección, serán los mismos que establece esta Constitución para ser Magistrado del Tribunal Superior de Justicia, además de los que disponga la ley.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN QUINTA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección tercera. Del Tribunal Electoral
+#### Sección tercera. Del Tribunal de Justicia Fiscal y Administrativa
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1737,9 +1737,9 @@ El Tribunal se integrará por jueces en los términos que determine la ley.
 
 La ley establecerá las normas para su organización y funcionamiento.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN SEXTA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección cuarta. Del Tribunal de Justicia Fiscal y Administrativa
+#### Sección cuarta. Del Tribunal laboral Burocrático
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1753,9 +1753,9 @@ Los magistrados del Tribunal para Menores Infractores, serán electos mediante e
 
 Los jueces en materia de menores, serán nombrados previo examen por oposición y en base a lo dispuesto por la ley, la cual además establecerá las bases para la organización y funcionamiento del Tribunal.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN SÉPTIMA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección quinta. Del Tribunal laboral Burocrático
+#### Sección quinta. Del Tribunal para Menores Infractores
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1823,9 +1823,9 @@ Las sentencias dictadas por la Sala de Control de Constitucional, que declaren i
 
 Las resoluciones que fueren aprobadas por dos votos, únicamente tendrán efectos particulares.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN OCTAVA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección sexta. Del Tribunal para Menores Infractores
+#### Sección sexta. Del Control Constitucional
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1859,9 +1859,9 @@ La readscripción de los jueces la hará el Consejo de la Judicatura mediante el
 
 Las decisiones del Consejo en materia de designación y readscripción de jueces podrán ser impugnadas por los interesados ante el Tribunal Superior de Justicia.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN NOVENA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección séptima. Del Control Constitucional
+#### Sección séptima. De los jueces
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1913,9 +1913,9 @@ El servicio de defensoría pública será gratuito, se prestará bajo los princi
 
 La organización y funcionamiento del instituto de defensoría se determinará en la ley.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección octava. De los jueces
+#### Sección octava. Del Consejo de la Judicatura
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1929,7 +1929,7 @@ Los procedimientos alternativos para la resolución de controversias se regirán
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-#### Sección novena. Del Consejo de la Judicatura
+#### Sección novena. Del Centro Estatal de Justicia Alternativa
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2027,13 +2027,15 @@ La inobservancia a las disposiciones en materia de acceso a la información púb
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo V. Del Instituto de Evaluación de Políticas Públicas del Estado de Durango
+### CAPITULO V. Del Tribunal Electoral
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 138.
 
-El Instituto Electoral y de Participación Ciudadana es la autoridad que tiene a su cargo la organización de las elecciones, así como de los procedimientos de plebiscito, referéndum y, en su caso, de consulta popular; goza de autonomía en su funcionamiento e independencia en sus decisiones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2014)</small>
+
+El Instituto Electoral y de Participación Ciudadana es la autoridad que tiene a su cargo la organización de las elecciones, de conformidad con las atribuciones conferidas en la Constitución Política de los Estados Unidos Mexicanos y las leyes; así como de los procedimientos de plebiscito, referéndum y, en su caso, de consulta popular; goza de autonomía en su funcionamiento e independencia en sus decisiones.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2065,7 +2067,9 @@ Los consejeros electorales y demás servidores públicos que establezca la ley, 
 
 Al Consejo General concurrirán con voz pero sin voto, los consejeros representantes del Poder Legislativo, un representante de cada uno de los partidos políticos y el Secretario Ejecutivo, en los términos de la ley.
 
-El Secretario Ejecutivo del Instituto será elegido por el voto de las dos terceras partes del Consejo General.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+El Secretario Ejecutivo del Instituto será elegido por el voto de la mayoría del Consejo General.
 
 Las sesiones del Consejo General serán públicas, salvo las excepciones previstas en la ley.
 
@@ -2081,21 +2085,45 @@ El Consejo General del Instituto, realizará la declaración de validez de la el
 
 Las determinaciones sobre las declaraciones de validez, el otorgamiento de las constancias de mayoría y la asignación de diputados y de los miembros de ayuntamientos podrán ser impugnadas ante el Tribunal Electoral, en los términos que señale la ley.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
 
-### Capítulo VI. De la Comisión Anticorrupción del Estado de Durango
+El Instituto contará con una Contraloría General como órgano de control interno, que tendrá a su cargo la fiscalización de los ingresos y egresos del mismo; en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Su titular será designado por el Congreso del Estado en los términos que señale la ley.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+El Consejo General integrará una Comisión de Fiscalización, que tendrá a su cargo la recepción y revisión integral de los informes que presenten las agrupaciones políticas estatales, respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como su destino y aplicación. La ley establecerá las sanciones por el incumplimiento a estas disposiciones.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
+
+### Capítulo VI. Del Instituto de Evaluación de Políticas Públicas del Estado de Durango
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 141.
 
-El Instituto contará con una Contraloría General como órgano de control interno, que tendrá a su cargo la fiscalización de los ingresos y egresos del mismo; en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Su titular será designado por el Congreso del Estado en los términos que señale la ley.
+El Tribunal Electoral del Estado de Durango, es el órgano jurisdiccional especializado, dotado de autonomía en su funcionamiento e independencia en sus decisiones, encargado de conocer y resolver los conflictos en materia electoral; en cuanto a las sesiones que celebre serán públicas en los términos que disponga la ley.
 
-El Consejo General integrará una Comisión de Fiscalización, que tendrá a su cargo la recepción y revisión integral de los informes que presenten los partidos y candidatos ciudadanos respecto del origen y monto de los recursos que reciben por cualquier modalidad de financiamiento, así como su destino y aplicación. La ley establecerá las sanciones por el incumplimiento a estas disposiciones.
+El Tribunal Electoral tendrá la competencia que determine la ley, funcionará de manera permanente, y podrá usar los medios de apremio necesarios para el cumplimiento de sus resoluciones.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
+Se integrará por tres Magistrados, que actuarán en forma colegiada y permanecerán en su encargo durante siete años, prorrogables por una sola ocasión. Serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley.
 
-### Capítulo I. Del gobierno municipal
+Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+
+Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+
+Los requisitos para ocupar el cargo de Magistrado del Tribunal Electoral, serán los que disponga la ley.
+
+En caso de presentarse alguna vacante temporal de alguno de los magistrados que componen el Tribunal Electoral, ésta se cubrirá de conformidad con el procedimiento que disponga la ley.
+
+Tratándose de una vacante definitiva de magistrado, ésta será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
+
+El Presidente del Tribunal será electo por los mismos magistrados, durará en el cargo tres años. La presidencia será rotativa. La ley establecerá el procedimiento para cubrir las ausencias temporales del Presidente.
+
+La ley establecerá los impedimentos y las excusas bajo los cuales los Magistrados Electorales deben abstenerse de votar.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 24 DE JUNIO DE 2014)</small>
+
+### Capítulo VII. De la Comisión Anticorrupción del Estado de Durango
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2115,9 +2143,9 @@ El Instituto tendrá un Consejo General, será el órgano máximo de autoridad y
 
 La organización y funcionamiento del Instituto se realizará en los términos establecidos en su ley.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 24 DE JUNIO DE 2014)</small>
 
-### Capítulo II. De las facultades y obligaciones de los municipios
+### Capítulo I. Del gobierno municipal
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2155,7 +2183,7 @@ La Comisión contará con un consejo consultivo denominado Consejo Estatal de É
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo III. De la colaboración entre municipios y otras entidades públicas
+### Capítulo II. De las facultades y obligaciones de los municipios
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2163,7 +2191,7 @@ La Comisión contará con un consejo consultivo denominado Consejo Estatal de É
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo I. Del manejo de los recursos públicos
+### Capítulo III. De la colaboración entre municipios y otras entidades públicas
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2233,7 +2261,7 @@ En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absolu
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo II. Del Sistema Estatal de Rendición de Cuentas
+### Capítulo I. Del manejo de los recursos públicos
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2283,7 +2311,7 @@ Los miembros del Ayuntamiento deberán concurrir al Congreso del Estado a solici
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo III. De las responsabilidades de los servidores públicos
+### Capítulo II. Del Sistema Estatal de Rendición de Cuentas
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2307,7 +2335,7 @@ Cuando dos o más centros urbanos situados en territorios municipales de dos o m
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo I. De la reforma de la Constitución
+### Capítulo III. De las responsabilidades de los servidores públicos
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2373,7 +2401,7 @@ Los servidores públicos están obligados a pagar los daños y perjuicios que ca
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo II. De la inviolabilidad de la Constitución
+### Capítulo I. De la reforma de la Constitución
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2385,9 +2413,9 @@ Son mecanismos del Sistema Estatal de Rendición de Cuentas, el informe de gesti
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-#### Sección décima. Del Centro Estatal de Justicia Alternativa
+#### Sección primera. De los informes de gestión gubernamental
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 164.
 
@@ -2437,10 +2465,6 @@ Al término del periodo constitucional de cada Ayuntamiento, sus presidentes mun
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-#### Sección primera. De los informes de gestión gubernamental
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 170.
 
 La fiscalización superior es una facultad exclusiva del Congreso del Estado que se ejerce a través de la Entidad de Auditoria Superior del Estado que tiene por objeto evaluar el desempeño de la gestión gubernamental, comprendiéndose en el examen, el cumplimiento de los objetivos y metas de los planes y programas de gobierno y la conformidad y justificación de las erogaciones realizadas con las partidas autorizadas en los correspondientes presupuestos de egresos.
@@ -2472,6 +2496,10 @@ VI. Los resultados de la evaluación del desempeño de los programas ejercidos d
 Las cuentas públicas se entregarán a más tardar en el mes de febrero del año siguiente al del ejercicio fiscal anual que será objeto de fiscalización. Previamente, los entes obligados deberán entregar a la Entidad de Auditoría Superior del Estado, informes mensuales preliminares del avance de la gestión financiera y el desempeño gubernamental, en los términos que disponga la ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
+
+### Capítulo II. De la inviolabilidad de la Constitución
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 173.
 
@@ -3552,3 +3580,15 @@ SEXTO.- En términos de lo dispuesto por el inciso c) de la fracción IV del Art
 SÉPTIMO.- La integración y funcionamiento del Servicio Profesional Electoral Nacional, se regirá conforme a lo previsto en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, así como en razón de los lineamientos que emita el Instituto Nacional Electoral, para garantizar la incorporación de todos los servidores públicos del Instituto Federal Electoral y de los organismos locales en materia electoral, al Servicio Profesional Electoral Nacional, así como las demás normas para su integración total.
 
 OCTAVO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 24 DE JUNIO DE 2014.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- El Congreso del Estado, a más tardar el treinta de junio del presente año, deberá adecuar el marco normativo electoral que corresponda, para hacerlo conforme al presente decreto de reformas.
+
+Tercero.- Para efectos de cumplir con lo dispuesto en el artículo 116, fracción IV, inciso n), de la Constitución Política de los Estados Unidos Mexicanos, en el sentido de verificar, al menos, una elección local en la misma fecha en que tenga lugar alguna de las elecciones federales; los diputados que sean electos en el año dos mil dieciséis, durarán dos años en el ejercicio de su encargo.
+
+Cuarto.- Los recursos humanos, presupuestales, financieros y materiales del Tribunal Electoral del Poder Judicial del Estado, pasarán a formar parte del Tribunal Electoral del Estado de Durango, sin menoscabo de los derechos laborales. La referencia contenida en la Fracción IV, del artículo 112 de esta Constitución deberá atender a la presente reforma.
+
+Quinto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
