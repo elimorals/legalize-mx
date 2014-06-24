@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-del-estado-de-tamaulipas-88613
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-04"
-last_updated: "2014-05-01"
+last_updated: "2014-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TAMAULIPAS
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO ÚNICO DE LA DECLARATORIA PUBLICADA EN EL P.O. DE 1 DE MAYO DE 2014, DECLARA QUE EN EL ESTADO DE TAMAULIPAS SE INCORPORA A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2014, Y ENTRARÁ EN VIGOR DE MANERA GRADUAL, EMPEZANDO A REGIR EL 1° DE JULIO DEL 2014, EN LA CIRCUNSCRIPCIÓN TERRITORIAL QUE COMPRENDE EL PRIMER DISTRITO JUDICIAL, CON CABECERA EN CIUDAD VICTORIA, PERTENECIENTE A LA PRIMERA REGIÓN JUDICIAL Y SÓLO PARA LOS DELITOS DE DAÑO EN PROPIEDAD, LESIONES Y HOMICIDIO, TODOS DE CARÁCTER CULPOSO, EXCEPTUANDO CUANDO SE COMETAN EN LAS CIRCUNSTANCIAS PREVISTAS EN EL ARTÍCULO 318 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, ABANDONO DE OBLIGACIONES ALIMENTICIAS Y VIOLENCIA FAMILIAR; EN EL RESTO DE LOS DISTRITOS JUDICIALES O REGIONES Y EL CATÁLOGO DE DELITOS, SUS DISPOSICIONES SE APLICARÁN EN LA FECHA QUE CONTENGAN LOS DECRETOS DE LAS DECLARATORIAS RESPECTIVAS QUE DEBERÁN SER EMITIDOS POR EL CONGRESO DEL ESTADO O LA DIPUTACIÓN PERMANENTE, EN SU CASO.]</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2014.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 24 DE JUNIO DE 2014.]</small>
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -6951,9 +6951,11 @@ El presente Decreto entrará en vigor a partir de su expedición, y deberá publ
 
 El presente Decreto deberá ser notificado a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Tamaulipas; Legislativo, Ejecutivo y Judicial de las entidades federativas y el Distrito Federal, así como a los Ayuntamientos del Estado de Tamaulipas, para los efectos legales que procedan.
 
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El Código de Procedimientos Penales para el Estado de Tamaulipas, publicado en el Periódico Oficial del Estado, el 4 de junio de 2012, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedará abrogado; sin embargo, respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+El Código de Procedimientos Penales del Estado de Tamaulipas, publicado en el Anexo al Periódico Oficial del Estado, el 4 de julio de 2012, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del presente Código, quedará abrogado; sin embargo, respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 
 ###### ARTÍCULO CUARTO.
 
