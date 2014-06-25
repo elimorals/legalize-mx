@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-procuraduria-social-de-la-ciudad-de-mexico-antes-7906
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2011-02-03"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79064&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-02-02"
 ---
 # LEY DE LA PROCURADURIA SOCIAL DE LA CIUDAD DE MEXICO -- ANTES LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL--
 
-LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL
+LEY DE LA PROCURADURÍA SOCIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 3 de febrero de 2011.
 
@@ -246,11 +246,15 @@ V. Opinar sobre el Informe del Procurador respecto al ejercicio administrativo y
 
 VI. Opinar sobre el proyecto de Informe Anual que el Procurador enviará al Jefe de Gobierno y a la Asamblea Legislativa del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2014)</small>
+
 ###### Artículo 20.
 
 El Consejo de Gobierno funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos.
 
-Las sesiones ordinarias se verificarán cuando menos una vez al mes y las extraordinarias podrán ser convocadas a petición del Procurador, cuando estime que hay razones de importancia para ello o a solicitud de cuando menos el veinticinco por ciento de los miembros.
+Las sesiones ordinarias se verificarán una vez cada tres meses y las extraordinarias podrán ser convocadas a petición del Procurador, cuando estime que existen razones de importancia para ello o a solicitud de cuando menos el veinticinco por ciento de los miembros.
+
+Asimismo, en caso de fuerza mayor o ausencia del Presidente, las sesiones ordinarias o extraordinarias del Consejo de Gobierno podrá iniciarlas o desahogarlas el Secretario Técnico.
 
 ###### Artículo 21.
 
@@ -859,3 +863,11 @@ SEXTO: Los recursos económicos que deriven de las sanciones impuestas en los pr
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dos días del mes de febrero del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.-LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 25 DE JUNIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Túrnese al Jefe de Gobierno para efectos de su promulgación y publicación.
