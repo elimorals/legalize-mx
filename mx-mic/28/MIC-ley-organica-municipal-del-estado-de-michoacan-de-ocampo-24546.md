@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2012-12-14"
+last_updated: "2014-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -445,7 +445,7 @@ Por cada síndico y por cada uno de los regidores, se elegirá un suplente.
 
 El Ayuntamiento residirá en la cabecera del municipio, y solo podrá cambiar su residencia con la aprobación del Congreso del Estado, por mayoría de votos de los diputados presentes, previo estudio que lo justifique.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -813,7 +813,7 @@ Los responsables de las distintas áreas de las (sic) administración pública m
 
 Las comisiones propondrán al Ayuntamiento, los proyectos de solución a los problemas de su conocimiento, a efecto de atender todas las ramas de la administración municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2010)</small>
 
 ###### Artículo 37.
 
@@ -853,7 +853,7 @@ XIII. De asuntos migratorios donde se requiera; y,
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE AGOSTO DE 2007)</small>
 
-XlV. Las demás que en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de sus miembros determine.
+XIV. Las demás que en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de sus miembros determine.
 
 ###### Artículo 38.
 
@@ -1065,7 +1065,7 @@ VII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las i
 
 VIII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2010)</small>
 
 ###### Artículo 47.
 
@@ -1475,7 +1475,7 @@ I. Fomentar la participación ciudadana en los programas de beneficio social;
 
 II. Organizar, operar y actualizar el archivo administrativo e histórico de la Tenencia;
 
-lII. Elaborar las certificaciones sobre actos y resoluciones de competencia de la Tenencia, debiendo recabar la firma del jefe de tenencia;
+III. Elaborar las certificaciones sobre actos y resoluciones de competencia de la Tenencia, debiendo recabar la firma del jefe de tenencia;
 
 IV. Coadyuvar en la elaboración de los informes administrativos anuales para presentar al Ayuntamiento;
 
@@ -1525,11 +1525,11 @@ Para ser Jefe de Tenencia, Secretario de la Tenencia, Encargado del Orden y Jefe
 
 Los Auxiliares de la Administración Municipal no podrán contravenir las instrucciones del Presidente Municipal o del Ayuntamiento según sea el caso; ni podrán convenir con el estado, la federación, otros municipios o entidades públicas o privadas ni particulares por cuenta propia, sino únicamente a través del Ayuntamiento. Deberán dar seguimiento cabal a los Planes de Desarrollo Municipal y cumplir con los lineamientos del manual de presupuesto y gasto público.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2009)</small>
 
 ### Capítulo VIII. De las Unidades Municipales de Desarrollo Integral de la Familia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2009)</small>
 
 ###### Artículo 66.
 
@@ -2049,7 +2049,7 @@ El Congreso del Estado expedirá las disposiciones que determinen los procedimie
 
 Los Ayuntamientos fomentarán la participación ciudadana, con el propósito de fortalecer el régimen de democracia participativa, vincular permanentemente a gobernantes y gobernados y propiciar la colaboración directa y efectiva de los ciudadanos en el cumplimiento de sus fines, mediante el trabajo y la solidaridad en el desarrollo vecinal y cívico y para el beneficio colectivo del municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 118.
 
@@ -2195,29 +2195,19 @@ Los bienes de domino (sic) público de uso común y los destinados a un servicio
 
 La compra, venta, donación, cesión o gravamen de bienes inmuebles municipales, requerirá de la aprobación de las dos terceras partes de los miembros del Ayuntamiento.
 
-(NOTA 1**: EL 21 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-(NOTA 2**: EL 21 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 75/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+I. (DEROGADA, P.O. 25 DE JUNIO DE 2014)
 
-(NOTA 3**: EL 21 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 78/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+II. (DEROGADA, P.O. 25 DE JUNIO DE 2014)
 
-**[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO [ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
+Las áreas verdes de donación que reciban los ayuntamientos, deberán ser espacios jardinados, el fraccionador tendrá la obligación de equiparlas para tales efectos en términos del Código de Desarrollo Urbano del Estado, deberán ser incorporadas como áreas de uso común de dominio público.
 
-NO PODRÁN SER SUJETOS DE VENTA, PERMUTA, DONACIÓN, CESIÓN, COMODATO O CUALQUIER ACTO DE ENAJENACIÓN, LOS BIENES INMUEBLES MUNICIPALES ADQUIRIDOS POR:
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE JUNIO DE 2014)</small>
 
-I. DONACIÓN DE DESARROLLOS HABITACIONALES; Y,
-
-II. TRANSFERENCIA O ENAJENACIÓN DE ÁREAS DE DONACIÓN ESTATAL DE DESARROLLOS HABITACIONALES.
-
-> <small>(REFORMADO [ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
-
-Las áreas verdes de donación, deberán ser espacios jardinados, el fraccionador tendrá la obligación de equiparlas para tales efectos. El Ayuntamiento deberá incorporarlas como áreas de uso común de dominio público.
-
-> <small>(REFORMADO [ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
-
-Los proyectos de construcción de obras de equipamiento urbano que se pretendan realizar en áreas de donaciones estatales o municipales, deberán contar con la aprobación mayoritaria de los vecinos del desarrollo que generó el área de donación.
+Los proyectos de construcción de obras de equipamiento urbano que se pretendan realizar en áreas de donaciones estatales o municipales, deberán contar con la aprobación mayoritaria de los vecinos del desarrollo que generó el área de donación, en los términos de la Ley de Participación Ciudadana para el Estado de Michoacán de Ocampo.
 
 ### Capítulo III
 
@@ -2375,7 +2365,7 @@ Los Ayuntamientos tendrán la facultad de expedir el Bando de Gobierno Municipal
 
 ## TÍTULO DÉCIMO. DEL PROCEDIMIENTO ADMINISTRATIVO MUNICIPAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ### Capítulo I. De la Justicia Administrativa Municipal
 
@@ -2389,7 +2379,7 @@ La integración, funcionamiento y atribuciones de los organismos de justicia, se
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
-###### Articulo 151.
+###### Artículo 151.
 
 Los actos y resoluciones dictadas por el Ayuntamiento, por el Presidente Municipal y por las dependencias y entidades de la Administración Pública Municipal, podrán ser impugnadas mediante el recurso de revisión, cuando afecten intereses jurídicos de los particulares.
 
@@ -2467,7 +2457,7 @@ Las sanciones y los procedimientos que deban aplicarse por infracciones a las no
 
 Los Ayuntamientos, para asegurar el cumplimiento de las leyes y evitar los daños inminentes o los ya perjudiciales, podrán adoptar y ejecutar de inmediato contra los responsables, las medidas de seguridad necesarias de conformidad con las disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ### Capítulo IV. Procedimiento del Recurso de Revisión
 
@@ -2525,11 +2515,11 @@ La notificación personal se hará directamente al recurrente, si acude a las of
 
 Podrá suspenderse la ejecución del acto reclamado, cuando no se afecte el interés público y se garanticen suficientemente, mediante fianza o depósito fijado por la autoridad, los posibles daños o perjuicios que pudieran causarse al confirmarse la resolución impugnada.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2006)</small>
 
 ## TÍTULO DÉCIMO PRIMERO. DEL CONSEJO DE LA CRÓNICA MUNICIPAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2006)</small>
 
 ### Capítulo Único
 
@@ -2669,7 +2659,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. VÍCTOR MANUEL TINOCO RUBÍ.- EL SECRETARIO DE GOBIERNO.- LIC. JUAN BENITO COQUET RAMOS. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE DICIEMBRE DE 2002.
 
@@ -2820,3 +2810,7 @@ P.O. 14 DE DICIEMBRE DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
