@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-instituto-de-innovacion-y-80542"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-01"
-last_updated: "2014-01-03"
+last_updated: "2014-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INNOVACIÓN Y TRANSFERENCIA DE TECNOLOGÍA DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de abril de 2011.
 
@@ -261,9 +261,11 @@ En caso de presentarse la renuncia, fallecimiento, incapacidad permanente, inasi
 
 #### SECCIÓN SEGUNDA. DE LAS SESIONES DEL COMITÉ CIUDADANO
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### Artículo 26.
 
-El Comité Ciudadano sesionará trimestralmente de manera ordinaria; y en forma extraordinaria las veces que sea necesario cuando lo solicite el Presidente o la mayoría de sus miembros, previo acuerdo con el Presidente.
+El Comité Ciudadano sesionará por lo menos dos veces por año de manera ordinaria y en forma extraordinaria las veces que sea necesario cuando lo solicite el Presidente o la mayoría de sus miembros, previo acuerdo con el Presidente.
 
 ###### Artículo 27.
 
@@ -628,3 +630,7 @@ JAVIER TREVIÑO CANTÚ
 P.O. 3 DE ENERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 25 DE JUNIO DE 2014.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
