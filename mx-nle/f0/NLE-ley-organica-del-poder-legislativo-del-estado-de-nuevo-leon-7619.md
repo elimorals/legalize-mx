@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2014-04-02"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -193,61 +193,71 @@ En el año de la elección del Titular del Poder Ejecutivo, el Pleno del Congres
 
 (DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
-### CAPITULO V. DE LA INSTALACION DEL CONGRESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+### CAPITULO V. DE LA CONSTITUCIÓN DE LA LEGISLATURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 25.
 
-Una vez calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado y a la Ley Electoral del Estado, y recibidas por los interesados las credenciales respectivas, el Presidente de la Diputación Permanente citará a los Diputados Electos para que se presenten al Recinto del Congreso, el 16 de agosto del año de la elección, para iniciar las Juntas Preparatorias correspondientes.
+Una vez calificadas las elecciones de Diputados Electos con arreglo a la Constitución Política del Estado y a la Ley Electoral del Estado, y recibidas por los interesados las constancias respectivas expedidas por la autoridad electoral, la Diputación Permanente citará a los Diputados Electos para que se presenten al Recinto del Congreso, el día 31 de agosto del año de la elección a fin de (sic) se constituya la Legislatura.
 
-Con la citación anterior la Comisión Instaladora concluirá sus funciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 26.
 
-La Primera Junta Preparatoria se instalará con la mayoría de los Diputados Electos, bajo la Presidencia del Diputado que haya obtenido el mayor número de votos o en su defecto en el orden progresivo del número de votos y exclusivamente se elegirá la Directiva de las Juntas Preparatorias la que estará integrada por un Presidente, dos Secretarios y dos Suplentes que cubrirán las faltas de cualquiera de ellos.
+La Legislatura se constituirá con la mayoría de los Diputados Electos, bajo la Presidencia del Diputado que haya obtenido el mayor número de votos o en su defecto en el orden progresivo del número de votos, en dicha sesión se rendirá la protesta de ley, se hará la declaratoria de constitución de la Legislatura y también en dicha sesión se elegirá a la Directiva que fungirá durante el primer año de ejercicio constitucional.
 
-Electa la Directiva de las Juntas Preparatorias a que se refiere el artículo anterior, los presuntos Diputados entregarán sus credenciales al Presidente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 27.
 
-Los presuntos Diputados designarán una Comisión integrada por tres de ellos que revisará las credenciales de los restantes, y otra integrada por igual número, que revisará las de los miembros de la primera comisión.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 ###### Artículo 28.
 
-El día 19 de agosto del año de la elección, se rendirán los dictámenes formulados por las comisiones a que se refiere el artículo anterior, los que se pondrán a consideración de la Asamblea para su estudio o aprobación en su caso.
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 ###### Artículo 29.
 
-Para conocer y en su caso aprobar los dictámenes relativos a la revisión de las credenciales de los presuntos Diputados, se celebrarán las Juntas Preparatorias que sean necesarias, las que se llevarán a cabo diariamente.
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 30.
 
-El día anterior al de la Apertura de Sesiones del Período Ordinario del año de la elección, los presuntos Diputados celebrarán la última de las Juntas Preparatorias, en la que todos, cuyas credenciales hubiesen sido aprobadas rendirán su protesta. A ese respecto, todos de pié, el Presidente de la Directiva dirá: "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON, Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO ME HA CONFERIDO. SI NO LO HICIERE ASI, QUE LA NACION Y EL ESTADO ME LO DEMANDEN".
+El mismo día 31 de agosto del año de la elección, los Diputados Electos celebrarán sesión en el Recinto del Congreso, en la que todos, rendirán su protesta. A ese respecto, todos de pie, el Diputado que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda rendirá su protesta al cargo, para lo cual dirá: “PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN, Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO ME HA CONFERIDO. SI NO LO HICIERE ASÍ, QUE LA NACIÓN Y EL ESTADO ME LO DEMANDEN”.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 31.
 
-Luego de prestar el Presidente de las Juntas Preparatorias su protesta, todos de pié, preguntará a los Diputados electos: "¿PROTESTAIS GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE NUEVO LEON Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO OS HA CONFERIDO?". Los Diputados electos contestarán: "SI PROTESTO; y el Presidente agregará: SI NO LO HICIEREIS ASI QUE LA NACION Y EL ESTADO OS LO DEMANDEN".
+Luego de rendir protesta el Diputado Electo que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda, tomará protesta a los demás Diputados Electos, para lo cual dirá: "¿PROTESTÁIS GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE NUEVO LEÓN Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO OS HA CONFERIDO?" . Los Diputados Electos contestarán: "SI PROTESTO", y quien les toma la protesta contestará: "SI NO LO HICIEREIS ASÍ QUE LA NACIÓN Y EL ESTADO OS LO DEMANDEN.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 32.
 
-Cuando uno o más de los Diputados se presentaren después de la protesta a que se refiere el artículo anterior, deberán prestarla a su vez en los términos indicados, sin cuyo requisito no podrán tomar posesión de su cargo.
+Cuando uno o más de los Diputados Electos se presentaren después de la protesta a que se refiere el artículo anterior, deberán rendirla a su vez en los términos indicados, sin cuyo requisito no podrán tomar posesión de su cargo. Dicha protesta deberá tomarse en la sesión del Pleno del Congreso más próxima, por el Presidente de la Directiva.
 
 ## TITULO SEGUNDO
 
 ### CAPITULO UNICO. DE LA APERTURA DE SESIONES
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 33.
 
-El día anterior a la apertura de sesiones, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vicepresidentes y dos Secretarios, quienes entrarán en el desempeño de sus funciones a partir del día 1º de septiembre, concluyendo los trabajos de la Directiva de las Juntas Preparatorias.
+El día 31 de agosto del año de la elección, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vicepresidentes y dos Secretarios, quienes entrarán en desempeño de sus funciones a partir del día 1º de septiembre.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 34.
 
-La directiva comunicará la instalación del Congreso a los Poderes Ejecutivo y Judicial, independientemente de que se haga por medio de oficio, así como a las demás autoridades.
+La Directiva comunicará por oficio la Constitución de la Legislatura y la conformación de la Directiva del Congreso, a los Poderes Ejecutivo y Judicial independientemente de que se haga por medio de oficio, así como a las demás autoridades.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
@@ -365,11 +375,17 @@ Los Diputados que integran un Grupo Legislativo tomarán asiento en las curules 
 
 Los Grupos Legislativos dispondrán de locales adecuados en las instalaciones del Congreso, así como Asesores, Personal y elementos materiales necesarios para el cumplimiento de sus funciones de acuerdo con las posibilidades financieras del Congreso.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### Artículo 49.
 
-Del presupuesto aprobado para la función legislativa se destinarán partidas de gastos para ser dispuestas por cada Grupo Legislativo proporcionalmente al número de diputados que los integran, y de acuerdo a los criterios que emita el Comité de Administración.
+Del presupuesto aprobado para la función legislativa se destinarán partidas de gastos para ser dispuestas por cada Grupo Legislativo proporcionalmente al número de Diputados que los integran y de acuerdo a la legislación y reglamentación aplicable y a los lineamientos que emita el Comité de Administración.
 
-La aplicación de las cantidades a que se hace referencia en este Artículo, deberán ser justificadas y cumplirse con las disposiciones vigentes en materia de Contabilidad Pública y Control Administrativo Interno.
+Los Grupos Legislativos tendrán el derecho para administrar por sí mismos los recursos financieros que les sean asignados para el cumplimiento de la función legislativa.
+
+El Congreso del Estado abrirá una cuenta bancaria para cada Grupo Legislativo.
+
+La aplicación de los recursos financieros deberá justificarse cumpliendo siempre con las disposiciones administrativas internas de control del gasto que dicte la Tesorería del Congreso.
 
 ## TITULO CUARTO
 
@@ -407,9 +423,7 @@ a) Oficialía Mayor;
 
 b) Tesorería;
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
-
-c) Órgano de Fiscalización Superior; y
+c) (DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 d) Centro de Estudios Legislativos;
 
@@ -422,6 +436,12 @@ b) Dirección de Informática;
 c) Coordinación de Seguridad; y
 
 d) Unidad de Adquisiciones.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+IV. Órgano Auxiliar del Congreso:
+
+a) Auditoría Superior del Estado.
 
 ###### Artículo 51.
 
@@ -697,9 +717,9 @@ d) El Presupuesto Anual del Poder Legislativo; y
 
 e) Proyectos de acuerdo sobre asuntos que le sean turnados.
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-IV.- Dirigir por sí, o a través de su Presidente por acuerdo de sus integrantes, los servicios administrativos internos del Congreso, con excepción del Órgano de Fiscalización Superior;
+IV.- Dirigir por sí, o través de su Presidente por acuerdo de sus integrantes, los servicios administrativos internos del Congreso, con excepción del Órgano Auxiliar del Congreso;
 
 V.- Administrar el ejercicio del presupuesto del Congreso a través de la Tesorería;
 
@@ -751,9 +771,9 @@ I.- Comisiones Permanentes:
 
 a) Comisiones de Dictamen Legislativo;
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-b) Comisión de Vigilancia del Órgano de Fiscalización Superior; y
+b) Comisión de Vigilancia; y
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -762,6 +782,10 @@ c) Comisión de Estudio Previo;
 II.- Comisiones Temporales:
 
 a) Comisiones Jurisdiccionales;
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+b) Comisiones Investigadoras.
 
 III.- Comisiones Especiales:
 
@@ -785,11 +809,11 @@ En el caso de la Comisión de Equidad y Género, el cargo de Presidente, invaria
 
 Las Comisiones de Dictamen Legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 68.
 
-La Comisión de Vigilancia del Órgano de Fiscalización Superior se integrará por nueve Diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de Diputados; el Pleno designará al resto de los integrantes.
+La Comisión de Vigilancia se integrará por nueve diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de diputados; el Pleno designará al resto de los integrantes.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -955,9 +979,9 @@ En dicho acuerdo se especificarán los propósitos de su creación y el tiempo p
 
 El Comité de Administración vigila la operación de los servicios administrativos y el correcto ejercicio del presupuesto del Congreso. Al Comité de Administración le corresponde:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-I.- Definir los criterios generales para la operación administrativa de los Órganos de Soporte Técnico y de Apoyo del Congreso, con la excepción del Órgano de Fiscalización Superior. Dichos criterios tendrán la finalidad de optimizar los recursos y el desarrollo de la función legislativa, así como orientar la elaboración de:
+I.- Definir los criterios generales para la operación administrativa de los Órganos de Soporte Técnico y de Apoyo del Congreso con excepción del Órgano Auxiliar del Congreso. Dichos criterios tendrán la finalidad de optimizar los recursos y el desarrollo de la función legislativa, así como orientar la elaboración de:
 
 a) El Anteproyecto de Presupuesto de Egresos del Congreso;
 
@@ -983,9 +1007,9 @@ VII.- Recibir del Tesorero, el Informe de la Cuenta Pública del Congreso del Es
 
 VIII.- Conocer de los informes de los Órganos de Soporte Técnico y de Apoyo y en su caso, hacer las recomendaciones correspondientes para la mejora continua de los servicios administrativos;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-IX.- Recomendar a la Tesorería, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo, con la excepción del Órgano de Fiscalización Superior;
+IX.- Recomendar a la Tesorería, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo;
 
 X.- Ordenar la realización de auditorías trimestrales externas a la Tesorería, sobre la administración financiera y contable de los recursos del Congreso;
 
@@ -1025,11 +1049,11 @@ III. Informar cada mes al Pleno del Congreso del seguimiento y situación que gu
 
 ### CAPITULO III. DE LOS ORGANOS DE SOPORTE TECNICO Y DE APOYO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 79.
 
-Los Órganos de Soporte Técnico y de Apoyo del Congreso son dependencias especializadas y responsables en los ámbitos de competencia que, respectivamente, les señala la normatividad vigente. Dependen orgánicamente de la Comisión de Coordinación y Régimen Interno, con la excepción del Órgano de Fiscalización Superior. Tienen la finalidad de apoyar a los Órganos Legislativos del Congreso en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
+Los Órganos de Soporte Técnico y de Apoyo del Congreso son dependencias especializadas y responsables en los ámbitos de competencia que, respectivamente, les señala la normatividad vigente. Dependen orgánicamente de la Comisión de Coordinación y Régimen Interno. Tienen la finalidad de apoyar a los Órganos Legislativos del Congreso en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1037,13 +1061,11 @@ I.- De los Órganos de Soporte Técnico:
 
 a) De la Oficialía Mayor: la atención de los aspectos legislativos y jurídicos del Congreso, así como la asistencia a la Directiva durante el desarrollo de las sesiones del Pleno y de la Diputación Permanente;
 
-b) De la Tesorería: la administración de los recursos financieros, humanos y de los servicios generales del Congreso;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-c) De la Contaduría Mayor de Hacienda: la fiscalización, control y evaluación de las finanzas públicas de las entidades señaladas en la Ley de la Contaduría Mayor de Hacienda; y
+b) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictámenes de las Comisiones y el desarrollo de programas de investigación y análisis de los aspectos técnicos de los asuntos que son competencia del Congreso;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
-
-d) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictamen de las Comisiones y el desarrollo de programas de investigación y análisis en los aspectos técnicos de los asuntos que son competencia del Congreso.
+c) (DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1396,3 +1418,7 @@ Segundo.- Por única ocasión, la Agenda Temática Mínima que regirá los traba
 P.O. 2 DE ABRIL DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2014.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
