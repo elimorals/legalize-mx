@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-transportes-61269"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-23"
-last_updated: "2008-04-23"
+last_updated: "2014-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TRANSPORTES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TRANSPORTES
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TRANSPORTES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 23 de abril de 2008.
 
@@ -63,7 +63,7 @@ La Secretaría de Transportes, en coordinación con las Dependencias y sus Órga
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-l. Titular del Ejecutivo: Al Titular del Poder Ejecutivo del Estado de Chiapas.
+I. Titular del Ejecutivo: Al Titular del Poder Ejecutivo del Estado de Chiapas.
 
 II. Secretaría: A la Secretaría de Transportes.
 
@@ -219,7 +219,7 @@ XII. Proponer al Titular del Ejecutivo, los proyectos de iniciativas de leyes, d
 
 XIII. Comparecer ante el Honorable Congreso del Estado, en términos de la Constitución Política del Estado de Chiapas, para informar sobre la situación que guardan los asuntos propios de la Secretaría, cuando sea requerido para ello, se discuta una iniciativa de ley o se estudie un asunto relacionado con el ámbito de su competencia.
 
-XlV. Refrendar los reglamentos, decretos, acuerdos y órdenes que se refieran a asuntos competencia de la Secretaría.
+XIV. Refrendar los reglamentos, decretos, acuerdos y órdenes que se refieran a asuntos competencia de la Secretaría.
 
 XV. Delegar en servidores públicos subalternos, las atribuciones que le corresponden, excepto las señaladas en este artículo y aquellas en las que su ejercicio sea personalísimo, por su naturaleza indelegable.
 
@@ -335,7 +335,9 @@ V. Verificar que los bienes muebles asignados a la Secretaría, se mantengan en 
 
 VI. Contabilizar las operaciones financieras y generar la información presupuestal y contable de la Secretaría, en las formas y términos establecidos por las instancias normativas correspondientes.
 
-VII. Vigilar el cumplimiento de las políticas, normas y lineamientos que en materia de presupuesto y contabilidad establezcan las Secretarías de Planeación y Desarrollo Sustentable y de Finanzas y los que para control de recursos humanos y materiales establezca la Secretaría de Administración.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+VII. Vigilar que el control de recursos humanos y materiales, se realice de conformidad con la normatividad aplicable.
 
 VIII. Supervisar el inventario y resguardo de los bienes muebles de la Secretaría.
 
@@ -349,7 +351,7 @@ XII. Proveer a los distintos órganos y subórganos de la Secretaría, de los re
 
 XIII. Controlar y administrar los recursos humanos de la Secretaría, de conformidad con la normatividad aplicable.
 
-XlV. Tramitar el ingreso, la promoción y las licencias del personal de la Secretaría, así como las remociones o cambios de adscripción, que por sanción o necesidades del servicio se apliquen.
+XIV. Tramitar el ingreso, la promoción y las licencias del personal de la Secretaría, así como las remociones o cambios de adscripción, que por sanción o necesidades del servicio se apliquen.
 
 XV. Comunicar las remociones o cambios de adscripción, que por sanción o necesidades del servicio se apliquen al personal de la Secretaría, en ausencia del titular del órgano administrativo correspondiente o cuando así se requiera.
 
@@ -455,7 +457,7 @@ XII. Establecer mecanismos de seguimiento, control y evaluación del proceso de 
 
 XIII. Asesorar a los órganos administrativos en la integración de los expedientes técnicos.
 
-XlV. Integrar el anteproyecto del presupuesto anual de Egresos, con base a los programas de obras y necesidades de recursos, presentados por los diferentes órganos administrativos y efectuar los trámites sobre las modificaciones al Presupuesto.
+XIV. Integrar el anteproyecto del presupuesto anual de Egresos, con base a los programas de obras y necesidades de recursos, presentados por los diferentes órganos administrativos y efectuar los trámites sobre las modificaciones al Presupuesto.
 
 XV. Elaborar en coordinación con los órganos administrativos, el programa operativo anual de la Secretaría, de acuerdo con los techos financieros; efectuando el trámite de autorización ante la Secretaría de Planeación y Desarrollo Sustentable.
 
@@ -531,7 +533,7 @@ XII. Dar seguimiento a los asuntos de interés que los Titulares de las Represen
 
 XIII. Informar al Secretario sobre los avances y desarrollo de los programas asignados a las Representaciones Regionales.
 
-XlV. Las demás que en el ámbito de su competencia, le confieran las disposiciones aplicables vigentes; así como las que le asigne el Secretario.
+XIV. Las demás que en el ámbito de su competencia, le confieran las disposiciones aplicables vigentes; así como las que le asigne el Secretario.
 
 ### Capítulo II. De la Integración de las Subsecretarías y de las Atribuciones de sus Titulares
 
@@ -565,7 +567,7 @@ XII. Promover la participación de funcionarios y empleados en las acciones tend
 
 XIII. Evaluar la información que reciban de los órganos administrativos bajo su adscripción, acordando de manera oportuna con el Secretario sobre los asuntos que así lo requieran.
 
-XlV. Formular reportes de seguimiento y evaluación de las acciones de cada órgano administrativo bajo su adscripción.
+XIV. Formular reportes de seguimiento y evaluación de las acciones de cada órgano administrativo bajo su adscripción.
 
 XV. Implementar acciones que fundamenten y desarrollen un mayor acercamiento entre la Secretaría y los demás órganos de la administración pública estatal.
 
@@ -685,7 +687,7 @@ XII. Elaborar de conformidad con la normatividad aplicable los proyectos para cr
 
 XIII. Desempeñar las comisiones y representaciones que les encomiende el Titular de la Subsecretaría de su adscripción, o directamente el Secretario en el ámbito de su competencia e informar su resultado.
 
-XlV. Vigilar que la normatividad aplicable a sus funciones, se mantenga actualizada, elaborando directamente o en coordinación con la Unidad de Apoyo Jurídico de la Secretaría, los proyectos de modificación tendentes a la actualización del Reglamento Interior, los manuales de la Secretaría, lineamientos y demás normatividad legal o administrativa que correspondan.
+XIV. Vigilar que la normatividad aplicable a sus funciones, se mantenga actualizada, elaborando directamente o en coordinación con la Unidad de Apoyo Jurídico de la Secretaría, los proyectos de modificación tendentes a la actualización del Reglamento Interior, los manuales de la Secretaría, lineamientos y demás normatividad legal o administrativa que correspondan.
 
 XV. Vigilar que las funciones de los órganos y personal adscrito bajo su responsabilidad, se realicen con eficacia, eficiencia, oportunidad y de conformidad con la normatividad aplicable.
 
@@ -960,3 +962,15 @@ Artículo Sexto.- En cumplimiento de lo dispuesto por el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencial Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintiocho días del mes de marzo del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Alfredo Martínez de la Torre, Secretario de Transportes.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JUNIO DE 2014.
+
+Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo Tercero.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Cuarto.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial del Estado.
