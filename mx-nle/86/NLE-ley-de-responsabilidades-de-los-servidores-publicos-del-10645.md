@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2013-06-29"
+last_updated: "2014-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -734,6 +734,10 @@ VI. En la Comisión Estatal de Derechos Humanos, el Pleno, respecto a las faltas
 ###### Artículo 70.
 
 En los Municipios se entenderá por superior jerárquico, para los efectos de esta Ley, el Ayuntamiento en Pleno, tratándose de los servidores públicos municipales de elección popular; y al Presidente Municipal para los demás servidores públicos municipales, quien se podrá auxiliar en los procedimientos de responsabilidades por los Síndicos o por los órganos de control interno municipal. El Congreso del Estado aplicará las sanciones en los términos del artículo 63 fracción VI de la Constitución Política del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Para los casos en que los Municipios cuenten con un Tribunal de Justicia Administrativa Municipal, se entenderá por superior jerárquico el Pleno del Tribunal de Justicia Administrativa del Estado de Nuevo León, respecto a las fallas, infracciones, acciones u omisiones de responsabilidad administrativa cometidas por los Magistrados del Tribunal Municipal de lo Contencioso Administrativo; y para los demás servidores públicos adscritos al Tribunal, lo será el Magistrado Presidente.
 
 ###### Artículo 71.
 
@@ -1460,3 +1464,7 @@ P.O. 29 DE JUNIO DE 2013.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- En lo que respecta a la Ley para Incentivar la Denuncia de Actos de Corrupción de Servidores Públicos del Estado de Nuevo León, la Contraloría y Transparencia Gubernamental del Gobierno del Estado emitirá los lineamientos relativos a los requisitos y procedimientos para el otorgamiento de medidas de protección en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE JUNIO DE 2014.
+
+ÚNICO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
