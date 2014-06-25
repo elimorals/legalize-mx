@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2014-05-08"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -61,21 +61,199 @@ P.O. 30 DE NOVIEMBRE DE 1926.
 
 ### CAPÍTULO I. DE LOS DERECHOS HUMANOS
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 3°.
+
+Es voluntad del pueblo Chiapaneco adoptar la forma de gobierno republicana, representativa, democrática, laica y popular.
+
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-###### ARTICULO 3.
+Toda persona en el Estado de Chiapas gozará de las garantías individuales y sociales establecidas en la Constitución Política de los Estados Unidos Mexicanos; así como de los Derechos Humanos contenidos en la Declaración Universal de los Derechos Humanos proclamados y reconocidos por la Organización de las Naciones Unidas, que son los siguientes:
 
-El Estado garantiza a todos sus habitantes la igualdad ante la ley, siendo obligaciones de éstos:
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
 
-I.- Respetar y cumplir las leyes;
+I. Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.
 
-II.- Contribuir para los gastos públicos de la manera proporcional y equitativa que determine la Ley;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
 
-III.- Manifestar, en el Municipio en que residan, la propiedad que tengan, y la industria, profesión o trabajo de que subsistan, y
+II. Toda persona tiene todos los derechos y libertades proclamados en la Declaración Universal de los Derechos Humanos de la Organización de las Naciones Unidas, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición.
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-IV.- Cooperar al mantenimiento del orden y la paz pública.
+Además, no se hará distinción alguna fundada en la condición política, jurídica o internacional del país o territorio de cuya jurisdicción dependa una persona, tanto si se trata de un país independiente, como de un territorio bajo administración fiduciaria, no autónomo o sometido a cualquier otra limitación de soberanía.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+III. Todo Individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+IV. Nadie estará sometido a esclavitud ni a la servidumbre, la esclavitud y la trata de personas están prohibidas en todas sus formas.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+V. Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+VI. Todo ser humano tiene derecho en todas partes al reconocimiento de su personalidad jurídica.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+VII. Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección de la ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta Constitución y contra toda provocación a tal discriminación.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+VIII. Toda persona tiene derecho a un medio de defensa efectivo, que la proteja contra actos que violen sus derechos humanos reconocidos por la Constitución o por la ley.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+IX. Nadie podrá ser arbitrariamente detenido, preso ni desterrado.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+X. Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus derechos y obligaciones de cualquier acusación contra ella en materia penal.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XI. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad, conforme a la ley y en juicio público en el que se le hayan asegurado todas las garantías necesarias para su defensa.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
+Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron delictivos según el Derecho Nacional e Internacional. Tampoco se impondrá pena más grave que la aplicable en el momento de la comisión del delito.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XII. Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación. Toda persona tiene derecho a la protección de la ley contra tales injerencias o ataques.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XIII. Toda Persona tiene derecho a transitar libremente y a elegir su residencia en el territorio del Estado.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XIV. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en términos de la Constitución Política de los Estados Unidos Mexicanos y de la legislación respectiva.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XV. Toda persona tiene derecho a una nacionalidad.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XVI. Los hombres y las mujeres, tienen derecho, sin restricción alguna por motivos de origen cultural, nacionalidad, credo o ideología, a casarse y fundar una familia, y disfrutarán de iguales derechos en cuanto al matrimonio, durante y en caso de disolución del mismo.
+
+Solo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse matrimonio.
+
+La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XVII. Toda persona tiene derecho a la propiedad, individual y colectiva.
+
+Nadie será privado arbitrariamente de su propiedad.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XVIII. Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de credo; este derecho incluye la libertad de cambiar de religión o de creencia, así como la libertad de manifestar su religión o su creencia, individual y colectivamente, tanto en público como en privado, por la enseñanza, la práctica, el culto y la observancia, conforme lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y a la ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2011)</small>
+
+XIX. Toda persona tiene derecho a la libertad de opinión y de expresión; este derecho incluye el de no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+Toda persona tiene derecho a acceder de forma libre y universal a Internet y a las tecnologías de la información y la comunicación.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+
+El Estado está obligado a garantizar este derecho.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XX. Toda persona tiene derecho a la libertad de reunión y de asociación pacífica.
+
+Nadie podrá ser obligado a pertenecer a una asociación.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXI. Los ciudadanos chiapanecos tienen derecho a participar en el gobierno del Estado, directamente o por medio de representantes libremente escogidos en los términos que señalen las leyes respectivas.
+
+Los ciudadanos chiapanecos tienen el derecho de acceso, en condiciones de igualdad, a las funciones públicas del Estado.
+
+La voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal e igual y por voto secreto, de conformidad a lo dispuesto en la ley de la materia.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXII. Toda persona, como miembro de la sociedad, tiene derecho a la seguridad social, y a obtener, mediante el esfuerzo estatal, nacional y la cooperación internacional, de conformidad con la organización y los recursos del estado, la satisfacción de los derechos económicos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad, en términos de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución particular y de la legislación respectiva.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXIII. Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo, en términos de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución particular y de la legislación respectiva
+
+Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo de igual valor.
+
+Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le asegure, así como a su familia, una existencia conforme a la dignidad humana.
+
+Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXIV. Todo trabajador tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas, de acuerdo a la ley respectiva.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXV. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y los servicios sociales necesarios.
+
+La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+
+XXVI. Toda persona tiene derecho a la educación de calidad. El Estado impartirá educación inicial, preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.
+
+Toda la educación que el Estado imparta será gratuita.
+
+Además:
+
+A) La educación tendrá por objeto el pleno desarrollo de la personalidad humana, y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, a la continuidad y acrecentamiento de nuestra cultura; a la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.
+
+B) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos; y
+
+C) Será de calidad, con base en el mejoramiento constante y el máximo logro académico de los educandos.
+
+Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse a sus hijos.
+
+El Estado garantizará la calidad en la educación obligatoria de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa y la idoneidad de los docentes y los directivos garanticen el máximo logro de aprendizaje de los educandos. Adicionalmente, el ingreso al servicio docente y la promoción a cargos con funciones de dirección o de supervisión en la educación básica y media superior que imparta el Estado, se llevarán a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y capacidades que correspondan. La evaluación obligatoria para el ingreso, la promoción, el reconocimiento y la permanencia en el servicio profesional se hará con pleno respeto a los derechos constitucionales de los trabajadores de la educación y conforme a lo dispuesto en la ley. Serán nulos todos los ingresos y promociones que no sean otorgados conforme a la ley.
+
+Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXVII. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.
+
+Toda persona tiene derecho a la protección de los intereses morales y materiales que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora, en términos de las leyes respectivas.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXVIII. Toda persona tiene derecho a que se establezca un orden social en el que los derechos y libertades proclamados en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución particular, se hagan plenamente efectivos.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXIX. Toda persona tiene deberes respecto a la comunidad, puesto que sólo en ella puede desarrollar libre y plenamente su personalidad.
+
+En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.
+
+Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los propósitos y principios de las Naciones Unidas que consagra esta Constitución.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXX. Nada en esta Constitución podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades o realizar actos tendientes a la supresión de cualquiera de los derechos y libertades proclamados en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución particular.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+Los derechos consagrados en esta Constitución Política y las leyes reglamentarias emanadas de la misma, así como las referencias a las personas o de quienes conforman los Poderes Públicos, instituciones públicas y los organismos autónomos del Estado, deberán entenderse siempre con un ánimo de lenguaje incluyente y perspectiva de género, por encima de la cuestión gramatical con que se encuentren redactados; en ese tenor los nombramientos que para tal efecto se expidan, deberán referirse en cuanto a su género.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 4°.
 
@@ -263,7 +441,9 @@ I. Poder ser votado para todos los cargos de elección popular. El derecho de so
 
 Los aspirantes a candidatos independientes que hayan participado en un proceso de selección y no hayan resultado ganadores, no podrán ser postulados por un partido político o coalición, de conformidad con la ley de la materia aplicable.
 
-II. Votar en las elecciones correspondientes.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+II. Votar en las elecciones correspondientes. En el caso de los ciudadanos chiapanecos residentes en el extranjero, estos podrán votar de acuerdo a los convenios que podrá celebrar el Instituto Local con el Instituto Nacional Electoral en los términos que especifique la ley de la materia.
 
 III. Ser nombrados para cualquier cargo o comisión, siempre que satisfagan los requisitos que la ley exige.
 
@@ -278,6 +458,38 @@ VI. Afiliarse libre, personal e independientemente a un partido político.
 VII. Ejercer la democracia participativa conformando Asambleas de Barrio en términos de esta constitución y la ley en materia.
 
 VIII. Exigir que los actos de los Poderes del Estado sean transparentes y públicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+IX. Solicitar el registro de candidatos independientes ante la autoridad electoral cumpliendo con los requisitos, condiciones y términos que determine la legislación aplicable en la materia;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+X. Votar en las consultas populares sobre temas de trascendencia estatal, las que se sujetarán a lo siguiente:
+
+1°. Serán convocadas por el Congreso del Estado, a petición de:
+
+a) El Gobernador del Estado;
+
+b) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado, o
+
+c) Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores de la entidad con corte a la fecha que se haga la petición, debiéndose atender los términos que determine la ley.
+
+Con excepción de la hipótesis prevista en el inciso c) anterior, la petición deberá ser aprobada por la mayoría de la Legislatura.
+
+2°. Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores con corte a la fecha que se haga la consulta, en el respectivo ámbito, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo locales y para las autoridades estatales competentes;
+
+3°. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, y la particular del Estado; los principios consagrados en el artículo 40 de la Constitución Federal; los principios consagrados en el artículo 3 de esta Constitución; la materia electoral; los ingresos y gastos del Estado. El Tribunal Constitucional resolverá, previo a la convocatoria que realice el Congreso del Estado, sobre la constitucionalidad de la materia de la consulta;
+
+4°. El Instituto de Elecciones y Participación Ciudadana tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1° de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
+
+5°. La consulta popular se realizará en términos de la Ley de la materia;
+
+6°. Las resoluciones del Instituto de Elecciones y Participación Ciudadana, podrán ser impugnadas en los términos de lo dispuesto en esta Constitución, y
+
+7°. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -325,7 +537,9 @@ La soberanía del Estado reside esencial y originalmente en el pueblo, quien la 
 
 ### CAPÍTULO II. DE LAS ELECCIONES
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 35/2014 Y SUS ACUMULADAS 74/2014, 76/2014 Y 83/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO, PRIMERA PARTE DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 16.
 
@@ -341,27 +555,41 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o corporaci�
 
 ###### Artículo 17.
 
-Las elecciones de Diputados al Congreso del Estado e integrantes de los Ayuntamientos del Estado, se celebrarán el primer domingo de julio del año de la elección, y deberán efectuarse en términos de no discriminación. El Estado y sus instituciones deberán promover la inclusión y participación política de las mujeres en todo el territorio.
+LAS ELECCIONES DE DIPUTADOS AL CONGRESO DEL ESTADO E INTEGRANTES DE LOS AYUNTAMIENTOS DEL ESTADO, SE CELEBRARÁN EL TERCER DOMINGO DE JULIO DEL AÑO DE LA ELECCIÓN, en tanto que la elección de Gobernador se efectuará en la misma fecha en que se celebre la elección de Presidente de la República, y deberán efectuarse en términos de no discriminación. El Estado y sus instituciones deberán promover la inclusión y participación política de las mujeres en todo el territorio.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 La actuación de los Poderes Públicos durante los procesos electorales será imparcial; toda persona que tenga algún cargo en el servicio público, deberá abstenerse de intervenir directa o indirectamente a favor o en contra de cualquier partido político, coalición, candidatura o precandidatura.
 
-Las autoridades estatales, municipales, así como las delegaciones del órgano Ejecutivo federal, así como los órganos constitucionales autónomos deberán cesar la difusión pública de obras y programas durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada electoral. Se exceptúa de lo anterior la difusión de campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia, así como aquellos en los que resulte imprescindible su difusión derivado de caso fortuito o fuerza mayor.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Cualquier violación a esta disposición, será sancionada en términos de esta Constitución y de la legislación de la materia, con independencia de lo dispuesto en el Código Penal.
+Las autoridades estatales, municipales, así como las delegaciones del órgano Ejecutivo federal, así como los órganos constitucionales autónomos deberán cesar la difusión pública de obras y programas durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada electoral, no así la realización de las mismas. Se exceptúa de lo anterior la difusión de campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia, así como aquellos en los que resulte imprescindible su difusión derivado de caso fortuito o fuerza mayor.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Cualquier violación a esta disposición, será sancionada en términos de esta Constitución y de la legislación de la materia, con independencia de lo dispuesto en la Ley General en materia de Delitos Electorales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JUNIO DE 2014)</small>
 
 Apartado A.- De los Ciudadanos Chiapanecos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+La ciudadanía participará en la vigilancia, preparación y desarrollo de los procesos electorales ordinarios y extraordinarios, así como en la fiscalización del origen, uso, aplicación y destino del financiamiento público y privado de los partidos políticos, empleado en sus actividades ordinarias, de precampaña, campaña y demás obligaciones, en los términos establecidos en esta Constitución y las leyes generales respectivas.
 
-La ciudadanía participará en la vigilancia, preparación y desarrollo de los procesos electorales ordinarios y extraordinarios, así como en la fiscalización del origen, uso, aplicación y destino del financiamiento público y privado de los partidos políticos, empleado en sus actividades ordinarias, de precampaña, campaña y demás obligaciones, en los términos establecidos en esta Constitución y las leyes respectivas.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 La ciudadanía ejercerá sus derechos consagrados en el párrafo anterior y de acceso a cualquier información relativa a los partidos políticos, coaliciones, precandidaturas o candidaturas de conformidad con lo señalado por las normas que regulan la materia. Tendrán expedito el derecho de denunciar ante las autoridades competentes, cualquier discriminación, violencia o irregularidad observada.
 
-La solicitud de información deberá presentarse ante el Instituto de Elecciones y Participación Ciudadana o la Comisión de Fiscalización Electoral, según corresponda. Este derecho se ejercerá bajo las mismas condiciones que regulan al derecho de petición, consagrado en la Constitución Federal.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+La solicitud de información deberá presentarse ante el organismo público electoral local denominado Instituto de Elecciones y Participación Ciudadana, según corresponda. Este derecho se ejercerá bajo las mismas condiciones que regulan al derecho de petición, consagrado en la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 La ciudadanía tendrá derecho a la afiliación a los partidos políticos, el cual se ejercerá de manera personal, libre e independiente y sin coacción o violencia. Toda afiliación corporativa o de grupo será nula y sancionada por la Ley.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 La ciudadanía tendrá derecho a participar en las consultas ciudadanas de conformidad con lo establecido en la Ley.
 
@@ -371,127 +599,189 @@ La ciudadanía tendrá derecho a participar en las consultas ciudadanas de confo
 
 La ciudadanía tendrá derecho a participar en las elecciones para ocupar los cargos de elección popular como candidatos independientes o de cualquier partido político y la ley de la materia reglamentará el ejercicio de éste derecho.
 
-Apartado B.- De los Partidos Políticos
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JUNIO DE 2014)</small>
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la participación de la ciudadanía en la vida democrática del Estado; como organizaciones de ciudadanos, hacen posible el acceso de estas personas al ejercicio del poder público, de acuerdo con los principios y programas que postulen. Su participación en los procesos electorales se sujetará a lo dispuesto por esta Constitución y las leyes aplicables
+Apartado B.- De los Partidos Políticos.
 
-La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta constitución y las leyes respectivas.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Los partidos políticos son entidades de interés público que tienen como fin promover la participación de la ciudadanía en la vida democrática del Estado; como organizaciones de ciudadanos, hacen posible el acceso de estas personas al ejercicio del poder público, de acuerdo con los principios y programas que postulen. Su participación en los procesos electorales se sujetará a lo dispuesto por esta Constitución y las leyes generales respectivas.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta Constitución y las leyes generales respectivas.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 La ley garantizará que en la postulación y registro de candidatos a diputados del Congreso del Estado y a integrantes de los ayuntamientos, los partidos garanticen la paridad de género, así como la participación de los jóvenes
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
 En caso de incumplimiento de lo establecido en el párrafo anterior, la ley determinará las sanciones aplicables
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Asimismo, en las zonas con predominancia en población indígena, los partidos políticos podrán registrar preferentemente candidatos de origen indígena, haciendo labor para incorporar la participación política de las mujeres
 
-En la Ley se establecerán los fines, derechos, prerrogativas, obligaciones y responsabilidades de los partidos políticos estatales y nacionales así como las formas de su intervención en los procesos electorales estatales y locales.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Asimismo, se fijarán las reglas y criterios a que se sujetará la asignación y distribución del financiamiento público de acuerdo con la disponibilidad presupuestal, garantizando que lo reciban en forma equitativa y que éste sea destinado para su sostenimiento y el desarrollo de sus actividades ordinarias y las tendentes a la obtención del voto durante los procesos electorales. Del mismo modo se regularán el financiamiento privado, que en ningún caso podrá ser superior ni equivalente al del total del financiamiento público, los gastos que podrán erogar los partidos políticos, coaliciones, precandidaturas y candidaturas en las precampañas y campañas electorales; los métodos de financiación, procedimientos de fiscalización y vigilancia de los recursos de los partidos políticos, y las sanciones correspondientes.
+En las leyes generales respectivas se encuentran establecidos los fines, derechos, prerrogativas, obligaciones y responsabilidades de los partidos políticos estatales y nacionales así como las formas de su intervención en los procesos electorales estatales y locales. Es derecho de los partidos políticos el uso de manera permanente de los medios de comunicación social para difundir su propaganda política que tenga por objeto crear, transformar o confirmar opiniones a favor de ideas y creencias, así como estimular determinadas conductas políticas, en los términos establecidos por las leyes de la materia.
 
-Los partidos políticos deberán comprobar el gasto del financiamiento público asignado para sus actividades, así como lo relativo al financiamiento privado, en términos de la Ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 2014)</small>
+
+De igual forma los partidos políticos podrán difundir, en todo momento salvo dentro de campañas electorales logros de gobierno de candidatos de su partido o bien de los partidos en caso de existir coaliciones.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+En la ley se fijarán las reglas y criterios a que se sujetará la asignación y distribución del financiamiento público de acuerdo con la disponibilidad presupuestal, garantizando que lo reciban en forma equitativa y que éste sea destinado para su sostenimiento y el desarrollo de sus actividades ordinarias y las tendentes a la obtención del voto durante los procesos electorales. Del mismo modo se regularán el financiamiento privado, que en ningún caso podrá ser superior ni equivalente al del total del financiamiento público, los gastos que podrán erogar los partidos políticos, coaliciones, precandidaturas y candidaturas en las precampañas y campañas electorales, los métodos de financiación, quedando los procedimientos de fiscalización y vigilancia de los recursos de los partidos políticos, y las sanciones correspondientes, reservados a lo que dispongan las leyes generales respectivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 2014)</small>
+
+En el caso en el cual el Consejo General del Instituto Nacional Electoral delegue la facultad de llevar a cabo la revisión de los Ingresos y Egresos de los Partidos Políticos en cuanto a sus gastos trimestrales, ordinarios de precampaña o bien de campaña será el Consejo General del Instituto de Elecciones y Participación Ciudadana quien se hará cargo de la revisión a través de las comisiones y áreas especializadas que para tales fines determine.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Los partidos políticos deberán comprobar el gasto del financiamiento público asignado para sus actividades, así como lo relativo al financiamiento privado, en términos de las leyes generales respectivas.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Los partidos políticos que pierdan su registro o acreditación, deberán reintegrar al erario estatal el excedente económico y los bienes muebles e inmuebles que hayan adquirido con recursos provenientes del financiamiento público estatal. La Ley establecerá el procedimiento de liquidación y devolución de los bienes.
 
-Los partidos políticos registrados o acreditados ante el Instituto, para efectos de su intervención en los procesos electorales, podrán formar coaliciones en los términos que señale la Ley, a fin de postular a los mismos candidatos en las elecciones en que participen.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Los partidos políticos o acreditados ante el Instituto, para efectos de su intervención en los procesos electorales, podrán formar coaliciones en los términos que señale la ley, a fin de postular a los mismos candidatos en las elecciones en que participen. Para ello deberán contar con la aprobación de los órganos directivos nacional y estatal de cada uno de los partidos que la integren. Lo anterior, con independencia de cualquier otra forma de participación o asociación que establezca la ley.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Los partidos políticos que realicen coaliciones o alianzas sin sujetarse a las reglas establecidas en la Ley, deberán reintegrar el financiamiento público que se les asignó para la elección de que se trate, con independencia de las sanciones a que se hagan acreedores conforme a la Ley.
 
-Los partidos políticos y coaliciones, podrán celebrar procesos de selección interna para elegir a las personas que serán registradas como candidatas para contender a los cargos de elección popular, de conformidad con lo que establezca las leyes de la materia. La duración de las precampañas electorales no podrá exceder de treinta días.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Los partidos políticos y coaliciones, podrán celebrar procesos de selección interna para elegir a las personas que serán registradas como candidatas para contender a los cargos de elección popular, de conformidad con lo que establezca (sic) las leyes de la materia. La duración de las precampañas electorales no podrá exceder de diez días.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Las campañas políticas tendrán como finalidad, la obtención del voto a favor de los candidatos que representan a los partidos políticos o coaliciones que los postulan, a través de la difusión de su plataforma electoral y el debate ideológico; en la propaganda política o electoral que difundan los partidos o coaliciones deberán abstenerse de expresiones que denigren o calumnien a las instituciones, a los propios partidos o a las personas.
 
-La campaña electoral para Gobernador; la de Diputados al Congreso del Estado y la de miembros de Ayuntamientos, no podrán exceder de treinta días.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Los candidatos que postulen los partidos políticos y las coaliciones estarán obligados a participar en los debates organizados por la autoridad electoral correspondiente. Cualquier partido político o candidato que no cumpla con las anteriores disposiciones será sancionado en los términos de la Ley de la materia.
+La duración de la campaña a Gobernador no podrá exceder de 60 días; para Diputados al Congreso del Estado y la de miembros de Ayuntamientos no podrá exceder de 30 días y las mismas se sujetarán a los términos establecidos en el Código de la materia.
 
-Toda persona que realice actos de proselitismo o promoción personal de cualquier índole sin sujetarse a las disposiciones o tiempos que señale la legislación de la materia, se hará acreedora según el caso a las sanciones siguientes:
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-a. No podrá participar en los procesos de selección interna de candidatos que realicen los partidos políticos o coaliciones.
+La ley dispondrá que el Consejo General del Instituto de Elecciones y Participación Ciudadana organice debates entre todos los candidatos a Gobernador y promoverá la celebración de debates entre candidatos a diputados locales y a presidentes municipales, debiendo ser difundidos en términos de lo establecido en la ley general respectiva.
 
-b. No será registrado como candidato al cargo de elección popular por el cual realizó dichos actos.
+> <small>N. DE E. DE CONFORMIDAD CON EL PÁRRAFO SÉPTIMO DE LOS CONSIDERANDOS DEL DECRETO NÚMERO 514, PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2014, SE DEROGA EL ANTERIOR DÉCIMO SÉPTIMO PÁRRAFO.</small>
 
-c. Será cancelado su registro como candidato.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 La difusión de encuestas y sondeos de opinión, será regulada por la Ley, pero en ningún caso permitirá su divulgación durante la jornada electoral y los tres días anteriores.
 
-El Instituto de Elecciones y Participación Ciudadana, distribuirá a los partidos políticos en forma equitativa y de conformidad con la Ley, los tiempos en radio y televisión que otorgue el Gobierno del Estado.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Se prohíbe a los partidos políticos y coaliciones por sí, por tercero o por interpósita persona, la contratación o adquisición de tiempos en radio y televisión. Asimismo, ninguna persona pública o privada, a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión, dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de determinadas candidaturas o precandidaturas a puestos de elección popular. El Instituto de Elecciones y Participación Ciudadana en su caso, será el único facultado para la contratación de tiempo aire adicional en términos de la Ley de la materia.
+El Instituto de Elecciones y Participación Ciudadana distribuirá a los partidos políticos en forma equitativa y de conformidad con la Ley, los tiempos en radio y televisión que otorgue el Instituto Nacional Electoral.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Se prohíbe a los partidos políticos y coaliciones por sí, por tercero o por interpósita persona, la contratación o adquisición de tiempos en radio y televisión. Asimismo, ninguna persona pública o privada, a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión, dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de determinadas candidaturas o precandidaturas a puestos de elección popular.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Las prohibiciones mencionadas en los párrafos anteriores, comprenden la contratación en el extranjero o en estados aledaños, de todo tipo de mensajes en los canales de radio y televisión que tengan cobertura en el Estado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JUNIO DE 2014)</small>
+
 Apartado C.- De las Autoridades Electorales
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Las autoridades garantizarán a la ciudadanía que el ejercicio del sufragio sea libre, igual, universal, secreto y directo.
 
-La certeza, seguridad, veracidad, legalidad, independencia, imparcialidad y objetividad, serán los principios rectores del proceso electoral que regirán la actuación de las autoridades electorales en el ejercicio de sus atribuciones.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+La certeza, seguridad, veracidad, legalidad, independencia, imparcialidad, objetividad y máxima publicidad, serán los principios rectores del proceso electoral que regirán la actuación de las autoridades electorales en el ejercicio de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Las autoridades garantizarán el derecho a la información de los ciudadanos chiapanecos en los términos señalados en este artículo y las leyes de la materia.
 
-El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, el Instituto de Elecciones y Participación Ciudadana y la Comisión de Fiscalización Electoral, serán autoridades en la materia electoral y ejercerán las atribuciones de acuerdo con lo establecido en esta Constitución y las leyes secundarias que de ella emanen.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+El Tribunal Electoral del Estado de Chiapas y el Instituto de Elecciones y Participación Ciudadana, serán autoridades en la materia electoral y ejercerán las atribuciones de acuerdo con lo establecido en esta Constitución y las leyes secundarias que de ella emanen.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Las demás autoridades y los particulares estarán obligados a acatar sus requerimientos.
 
-La calificación de las elecciones estará a cargo del Instituto de Elecciones y Participación Ciudadana y el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, en el ámbito de sus respectivas atribuciones y de conformidad con lo que disponga la Ley respectiva.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-I. El Instituto de Elecciones y Participación Ciudadana, es un organismo público del Estado, autónomo, permanente, independiente, con personalidad jurídica y patrimonio propios.
+La calificación de las elecciones estará a cargo del Instituto de Elecciones y Participación Ciudadana y el Tribunal Electoral del Estado de Chiapas, en el ámbito de sus respectivas atribuciones y de conformidad con lo que disponga la Ley respectiva.
 
-Será el único responsable de la preparación y organización de los procesos electorales estatales, municipales y de los relacionados con las consultas ciudadanas. El Instituto, en términos de la Ley en la materia, podrá convenir con el Instituto Federal Electoral para que éste organice procesos electorales locales.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-El Consejo General será el órgano máximo de dirección y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia de preparación y organización de los procesos electorales. El ejercicio de sus atribuciones se desarrollará acatando el contenido de los principios rectores del proceso electoral. Estará integrado por cinco Consejeros Electorales, cada uno de ellos con voz y voto, de entre los cuales se elegirá al Presidente por el voto mayoritario de los integrantes del Consejo General. Concurrirán con voz pero sin voto a las sesiones del Consejo General, los representantes de los partidos políticos y un Secretario Ejecutivo.
+I. El Instituto de Elecciones y Participación Ciudadana es un organismo público local electoral dotado de personalidad jurídica y patrimonio propio, gozara de autonomía en su funcionamiento e independencia en sus decisiones mismo que tendrá a su cargo la organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Gobernador, Diputados locales y miembros de Ayuntamientos en función concurrente con el Instituto Nacional Electoral.
 
-Los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana, serán nombrados por el Congreso del Estado, y en sus recesos, por la Comisión Permanente, con el voto de las dos terceras partes de sus miembros presentes, de entre las propuestas que formulen las fracciones parlamentarias. Durarán en el cargo siete años y podrán ser reelectos para otro periodo igual. Queda prohibido que durante su encargo los Consejeros desempeñen otro empleo, cargo o comisión, a excepción de la docencia o aquellos que realicen para asociaciones científicas, culturales, de investigación o de beneficencia pública, no remunerados. El Secretario Ejecutivo del Instituto, será nombrado por el voto de las dos terceras partes del Consejo General, a propuesta de su Presidente. La renovación de los Consejeros se hará siempre en forma escalonada.
+Contará con un órgano de dirección superior, integrado por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, designados por el Consejo General del Instituto Nacional Electoral. Asimismo, se integrará con un representante de cada partido político y un Secretario Ejecutivo quienes asistirán con voz, pero sin voto.
 
-Los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y participación Ciudadana, deberán reunir los requisitos que establezca la legislación electoral y estarán sujetos al régimen de responsabilidades establecido en esta Constitución y las leyes respectivas.
+El Secretario Ejecutivo será nombrado por el Consejo General del Organismo Público Local Electoral en la forma y términos que señala la ley, durarán en su cargo seis años y fungirá como Secretario del Consejo General. Asimismo la Secretaria Ejecutiva contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
-El Instituto contará en su estructura con los órganos necesarios para el desarrollo de sus atribuciones, el personal calificado necesario para prestar el servicio profesional electoral, de acuerdo a lo que se establezca en Ley respectiva. La Ley determinará las reglas para la organización y funcionamiento de sus órganos, las relaciones de mando entre éstos, así como el ingreso, promoción y remoción de sus servidores públicos. En el reglamento que para su efecto emita el propio Consejo General, se regulará lo relativo a la relación laboral del Instituto de Elecciones y Participación Ciudadana y personal que labore.
+El Instituto de Elecciones y Participación Ciudadana contará con una Contraloría General, que tendrá a su cargo la fiscalización de las finanzas y recursos del Organismo Público Local Electoral. El Titular de la Contraloría General del Instituto de Elecciones y. Participación Ciudadana será designado por la Legislatura del Estado en la forma y términos que señale la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la Presidencia del Consejo General y mantendrá la coordinación técnica necesaria con el Órgano Superior de Fiscalización del Estado de Chiapas.
 
-El Instituto de Elecciones y Participación Ciudadana tendrá a su cargo en forma integral y directa, además de las señaladas en esta Constitución, las actividades relativas a la capacitación y educación cívica, los derechos y prerrogativas de las asociaciones y partidos políticos, la impresión de materiales electorales, la preparación de la jornada electoral, la calificación de las elecciones y entrega de las constancias de mayoría o asignación respectivas, así como la regulación de la observación electoral y los sondeos y encuestas con fines electorales, en los términos que señale la Ley. Asimismo, organizará debates obligatorios entre los candidatos, en los términos de la Ley de la materia, mismos que deberán ser difundidos en los medios de comunicación.
+El Consejero Presidente y los Consejeros Electorales durarán en su cargo siete años y no podrán ser reelectos. Durante su ejercicio no podrán tener ningún otro empleo, cargo o comisión y sólo podrán recibir percepciones derivadas de la docencia, de regalías, de derechos de autor o publicaciones, siempre que no se afecte la independencia, autonomía, imparcialidad y equidad que debe regir el ejercicio de su función; podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
-El Instituto de Elecciones y Participación Ciudadana, será competente para conocer de los medios de impugnación administrativos en los términos que establezca la Ley.
+Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Consejero Presidente y los Consejeros Electorales, cuando no haya proceso electoral, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral, de participación ciudadana y de educación cívica y proyección electoral y socio-política.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2013)</small>
+La ley establecerá los requisitos que deberán reunirse para ocupar los cargos de Secretario Ejecutivo y el (sic) titular de la Contraloría General.
 
-II. La Comisión de Fiscalización Electoral, será el órgano del Estado de Chiapas, público, autónomo, con personalidad jurídica y patrimonio propios; será responsable de vigilar y fiscalizar, los gastos de las precampañas, campañas electorales, la transparencia y fiscalización del financiamiento que las candidaturas independientes, partidos políticos, coaliciones, precandidaturas y candidaturas empleen en sus gastos ordinarios permanentes, de precampaña y campaña electorales; así como de velar por el respeto a las leyes electorales e investigar las violaciones a éstas.
+El Código y el Estatuto de la materia, determinará las reglas para la organización y funcionamiento de los órganos ejecutivos, técnicos y administrativos, del Instituto de Elecciones y Participación Ciudadana, así como las relaciones jerárquicas y administrativas entre éstos. Así mismo el Consejo General expedirá y aprobara su reglamento interno.
 
-Estará integrada por un Presidente y dos Contralores Electorales, nombrados por el Congreso del Estado o la Comisión Permanente en su caso, por el voto de la mayoría de sus miembros presentes, a propuesta del Titular del Ejecutivo del Estado. Durarán en su encargo siete años, pudiendo ser reelectos para otro periodo igual, y únicamente podrán ser removidos en los términos del Título Décimo Segundo de esta Constitución. El funcionamiento de la Comisión de Fiscalización Electoral, estará determinada en la ley de la materia. Concurrirán únicamente con voz, a las sesiones del Pleno, los representantes de los partidos políticos y un Secretario Ejecutivo, quien será designado por el voto mayoritario de los integrantes del Pleno, a propuesta del Presidente.
+Los emolumentos que perciban el Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y el titular de la Contraloría General serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
 
-La Comisión de Fiscalización Electoral, contará con los órganos necesarios para el adecuado desempeño de sus atribuciones, de acuerdo con lo señalado en la Ley respectiva.
+Las leyes y el estatuto correspondiente determinarán los regímenes laboral y de responsabilidades de los servidores públicos del organismo público local electoral.
 
-En la legislación se establecerán los procedimientos a efecto que la Comisión de Fiscalización Electoral, pueda suspender de manera expedita la difusión de espacios publicitarios en medios de comunicación que discriminen, denigren, injurien o dañen la imagen de partidos políticos, coaliciones, precandidaturas, candidaturas, autoridades electorales, gubernamentales o en general a cualquier institución relacionada con el proceso electoral
+El organismo público local electoral tendrá a su cargo, además de las que determine la ley, las actividades relativas al desarrollo de la democracia y la cultura política, derecho y acceso a las prerrogativas de los candidatos y partidos políticos, educación cívica, preparación de la jornada electoral, impresión de documentos y la aprobación de materiales electorales, escrutinios y cómputos, declaración de validez y otorgamiento de constancias en las elecciones locales, resultados preliminares, encuestas o sondeos de opinión, observación electoral, conteo rápido y sobre mecanismos de participación ciudadana. El Instituto de Elecciones y Participación Ciudadana contará en su estructura ordinaria con una dirección general especializada para la recepción, atención y trámite de las quejas y denuncias relacionadas con los procedimientos administrativos sancionadores y de fiscalización del gasto ordinario o de campaña según convenga con el Instituto Nacional Electoral.
 
-Asimismo, podrá solicitar la participación de coadyuvantes de la labor fiscalizadora de las actividades de los partidos políticos durante los procesos de precampañas y campañas electorales.
+Asimismo, se faculta al Instituto de Elecciones y Participación Ciudadana para organizar, desarrollar y vigilar las elecciones de autoridades auxiliares municipales.
 
-Resultan inoponibles a la Comisión de Fiscalización Electoral los secretos bancario, fiduciario y fiscal, en razón de su atribución fiscalizadora de recursos públicos de conformidad con lo prescrito por la Constitución Política de los Estados Unidos Mexicanos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO NÚMERO 514, PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2014 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las autoridades y particulares estarán obligadas a acatar los requerimientos que en el ámbito de sus atribuciones emita la Comisión de Fiscalización Electoral.
+La ley determinará las facultades y atribuciones que en materia de candidaturas independientes y de consulta popular tendrá el Instituto de Elecciones y Participación Ciudadana.
 
-En el Estatuto que para su efecto emita la Comisión de Fiscalización Electoral, se regulará lo relativo a la relación laboral de ésta y sus trabajadores.
+Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, representantes ante los Ayuntamientos, con el propósito de fortalecer su participación y representación política, de conformidad con sus tradiciones y normas internas.
 
-III. El Tribunal de Justicia Electoral y Administrativa es un órgano del Poder Judicial del Estado con autonomía en su funcionamiento, patrimonio y presupuesto propios. Es la máxima autoridad jurisdiccional en las materias electoral y administrativa, conforme a la competencia y atribuciones conferidas en los ordenamientos legales de las respectivas materias
+Los pueblos y comunidades indígenas elegirán, de acuerdo con sus principios, normas procedimientos y prácticas tradicionales a sus autoridades para el ejercicio de sus formas propias de gobierno interno, de conformidad con esta Constitución y la ley respectiva.
 
-Estará integrado por siete Magistrados, uno de los cuales por decisión del Pleno fungirá como su Presidente, por un período de tres años con la posibilidad de ser reelecto para el periodo inmediato por una sola vez. Los Magistrados durarán en su encargo siete años, pudiendo ser reelectos para otro período igual. La renovación de los magistrados electorales será escalonada, y en caso de ausencia definitiva de alguno de ellos, se designará un sustituto para concluir el período del ausente.
+El Instituto de Elecciones y Participación Ciudadana podrá convenir con el Instituto Nacional Electoral se haga cargo de la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente deberá ser aprobada por al menos cuatro de los Consejeros Electorales del Consejo General y deberá contener los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio, el proyecto de reestructuración administrativa, financiera y laboral del propio organismo público local electoral, los montos a erogar y la forma en que habrán de cubrirse al Instituto Nacional Electoral.
 
-Funcionará en Pleno y única instancia para la resolución de los asuntos en materia electoral, y sus resoluciones serán emitidas con plenitud de jurisdicción. Podrá emitir criterios de jurisprudencia de conformidad con lo previsto en la Ley respectiva. El Tribunal Electoral únicamente podrá declarar la nulidad de una elección por causas expresamente señaladas en la Ley.
+Las infracciones a lo dispuesto en materia de propaganda electoral darán motivo a la imposición de sanciones en los términos que determine la ley. El Instituto de Elecciones y Participación Ciudadana impondrá las sanciones en el ámbito de su competencia mediante procedimientos expeditos o, en su caso, solicitará a la autoridad competente la imposición de las mismas.
 
-El Tribunal de Justicia Electoral y Administrativa, contará con la fuerza coactiva del Estado para hacer cumplir sus ejecutorias.
+El Instituto de Elecciones y Participación Ciudadana y el Tribunal Electoral del Estado de Chiapas, podrán ordenar la realización de recuentos de alguna o algunas casillas, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la ley, la que determinará los casos en que podrán realizarse recuentos totales o parciales en los ámbitos administrativo y jurisdiccional.
 
-La integración, organización, funcionamiento y competencia del Tribunal de Justicia Electoral y Administrativa, será la que determine esta Constitución y la Ley que lo rige.
+II.- (DEROGADA, P.O. 25 DE JUNIO DE 2014)
 
-En el reglamento que para su efecto emita el Tribunal de Justicia Electoral y Administrativa, se regulará lo relativo a la relación laboral de ésta y sus trabajadores.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la Ley establecerá un sistema de medios de impugnación que tendrá como objetivo dar definitividad a las distintas etapas del proceso electoral y garantizar la protección de los derechos políticos-electorales de la ciudadanía consagrados en esta Constitución y leyes respectivas.
+III.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos político-electorales de los ciudadanos.
 
-El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, es el órgano jurisdiccional competente para conocer las impugnaciones en los términos que establezca la Ley, la cual fijará los plazos suficientes para el desahogo de todas las instancias impugnativas.
+El Tribunal Electoral del Estado de Chiapas es un organismo constitucional autónomo, de carácter permanente con personalidad jurídica y patrimonio propios, independiente en sus decisiones que será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen la Constitución Política de los Estados Unidos Mexicanos, las Leyes Generales, esta Constitución y la ley local de la materia. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-En materia electoral, la interposición de los medios de impugnación legales no producirá efectos suspensivos sobre la resolución o acto impugnado.
+El Tribunal Electoral del Estado de Chiapas funcionará en Pleno, se integrará por cinco Magistrados designados por el Senado de la República y sus emolumentos serán los previstos en el presupuesto de egresos del Estado del ejercicio fiscal del año correspondiente.
 
-La Ley determinará las faltas y responsabilidades en materia electoral, así como las sanciones que por ellos deban imponerse.
+Los Magistrados del Tribunal Electoral del Estado Chiapas designarán de entre ellos, por mayoría de votos, a su Presidente. La Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
 
-La Ley establecerá las conductas tipificadas como delitos electorales y las sanciones que por ellas se deba imponer. La persecución e investigación de los delitos electorales, lo hará la fiscalía especializada en materia electoral, en términos de lo previsto por esta Constitución y la Ley correspondiente.
+En caso de falta absoluta de alguno de los Magistrados, el Magistrado Presidente del Tribunal lo hará del conocimiento al Senado. Si ocurriera una vacante temporal, la ley respectiva establecerá el procedimiento atinente.
 
-Las autoridades electorales mencionadas en este apartado, deberán guardar las reservas en el ejercicio de sus competencias.
+Al Tribunal Electoral del Estado de Chiapas le corresponderá resolver de forma definitiva e inatacable las impugnaciones en contra de los actos y resoluciones del Instituto de Elecciones y Participación Ciudadana a través de los medios establecidos en la ley de la materia; los conflictos o diferencias laborales entre el Tribunal y sus servidores y entre el Instituto de Elecciones y Participación Ciudadana y sus servidores públicos electorales, así como las determinaciones sobre imposición de sanciones por parte del Instituto de Elecciones y Participación Ciudadana.
+
+El Tribunal Electoral del Estado de Chiapas expedirá su reglamento interno y los acuerdos generales para su adecuado funcionamiento, en los términos que señale la ley.
+
+El Tribunal Electoral del Estado de Chiapas contará con una Contraloría General adscrita al Pleno, que tendrá a su cargo la fiscalización de las finanzas y recursos del Tribunal Electoral; su titular será nombrado por el Congreso del Estado en la forma y términos que señale la ley.
+
+El Magistrado Presidente y los Magistrados Electorales, durante el tiempo que transcurra entre dos procesos electorales, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral y de participación ciudadana.
+
+La ley fijará las causales de nulidad de las elecciones de Gobernador, Diputados locales y Ayuntamientos. El Tribunal Electoral del Estado de Chiapas sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley. La ley establecerá los supuestos y las reglas para el ejercicio de los medios de apremio para hacer cumplir de manera expedita sus resoluciones.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -511,15 +801,21 @@ Los Diputados, en su carácter de representantes del pueblo, tienen derecho de o
 
 El Congreso del Estado, para su adecuado funcionamiento, contará con las áreas necesarias; mismas que estarán contempladas en la Ley Orgánica del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 35/2014 Y SUS ACUMULADAS 74/2014, 76/2014 Y 83/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 19.
 
-El Congreso del Estado se integrará en su totalidad con diputados electos cada tres años. La elección de diputados se verificará el primer domingo de julio del año de la elección. Por cada diputado propietario se elegirá una persona suplente, en los términos que señale la ley.
+EL CONGRESO DEL ESTADO SE INTEGRARÁ EN SU TOTALIDAD CON DIPUTADOS ELECTOS CADA TRES AÑOS. LA ELECCIÓN DE DIPUTADOS SE VERIFICARÁ EL TERCER DOMINGO DE JULIO DEL AÑO DE LA ELECCIÓN. POR CADA DIPUTADO PROPIETARIO SE ELEGIRÁ UNA PERSONA SUPLENTE, EN LOS TÉRMINOS QUE SEÑALE LA LEY.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 La renovación del Congreso del Estado se realizará a través de elecciones auténticas, periódicas y mediante sufragio universal, libre, secreto y directo, sujeta a los principios de mayoría relativa y de representación proporcional, en los términos de esta Constitución y de la Legislación Electoral.
 
-Los Diputados Propietarios no podrán ser reelectos para el período inmediato, ni aún como Suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietarios, si no hubieren ejercido el cargo.
+(DEROGADO TERCER PÁRRAFO, P.O. 25 DE JUNIO DE 2014).
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 El Congreso del Estado, se integrará con veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y por dieciséis diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en cuatro circunscripciones plurinominales, conforme lo determine la Ley.
 
@@ -543,9 +839,21 @@ I. Que haya registrado candidatos a diputados de mayoría relativa en cuando men
 
 II. Que haya obtenido por lo menos el 3% de la votación total válida de diputados en el Estado.
 
-La legislación respectiva determinará las reglas y el procedimiento a que se sujetará la asignación de Diputados de Representación Proporcional, en los que invariablemente deberá asegurarse que se mantenga la representación del partido que haya resultado favorecido en la asignación de Diputaciones Plurinominales.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Ningún partido tendrá derecho a que le sean reconocidos más de veinticuatro diputados por ambos principios, aún cuando hubiere obtenido un porcentaje de votos superior.
+Al partido que obtenga el 3% de la votación válida emitida en esa elección se le asignará una curul por el principio de representación proporcional, con independencia de los triunfos por el principio de mayoría relativa obtenidos. Hecho lo anterior, se procederá a asignar el resto de las diputaciones de representación proporcional, conforme a la fórmula establecida en la ley local.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso del Estado que exceda en ocho puntos su porcentaje de votación emitida.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total del Congreso del Estado superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Así mismo, en la integración del Congreso del Estado, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+El cómputo y la declaración de validez de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será hecha por el Instituto de Elecciones y Participación Ciudadana encargado de la organización, desarrollo y vigilancia de las elecciones.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -572,6 +880,8 @@ IV. Haber residido en el Estado, al menos, durante los cinco años previos a la 
 V. No ejercer o haber ejercido el cargo de Gobernador del Estado, aún cuando se separe definitivamente de su puesto.
 
 VI. No ejercer los cargos de Secretario de Despacho, Subsecretario de Gobierno, Presidente Municipal, Magistrado, Consejero o Juez del Tribunal Superior de Justicia del Estado, Presidente de la Junta Local de Conciliación y Arbitraje, salvo que se hubieren separado de su encargo, de manera definitiva noventa días antes de la elección.
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NUMERO 514, PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2014, SE EXTINGUE LA COMISIÓN DE FISCALIZACIÓN ELECTORAL, Y SUS RECURSOS Y ASUNTOS PASAN AL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA.</small>
 
 No ser Consejero Presidente, Consejero Electoral ni Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, o personal profesional directivo del propio Instituto, Presidente y los Contralores de la Comisión de Fiscalización Electoral, o sus equivalentes de los organismos locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
@@ -610,6 +920,10 @@ La infracción de esta disposición será sancionada con la pérdida del cargo d
 ###### Artículo 26.
 
 El Congreso del Estado deberá quedar instalado el día primero de octubre del año de la elección, debiendo iniciar su primer periodo ordinario de sesiones ese mismo día de ese mismo mes, terminando el día treinta y uno de diciembre, y el segundo periodo ordinario iniciará el día primero de abril, terminando el treinta de junio, en los cuales se ocupará del estudio, discusión y votación de las iniciativas de ley o decretos que se le presenten y demás asuntos que le correspondan conforme a esta Constitución.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+La elección consecutiva de los diputados a la Legislatura del Estado podrá ser hasta por cuatro periodos consecutivos. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato y de conformidad con lo establecido en la ley respectiva.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -751,9 +1065,11 @@ XXXVII. Sancionar las licencias mayores de quince días que soliciten los integr
 
 XXXVIII. Expedir todas las leyes que sean necesarias con objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los otros Poderes del Estado.
 
-XXXIX. Instituir al Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, así como al Instituto de Elecciones y Participación Ciudadana en términos de lo dispuesto por esta Constitución y demás legislación aplicable.
+XXXIX. (DEROGADA, P.O. 25 DE JUNIO DE 2014)
 
-XL. Legislar en materia de plebiscito e iniciativa popular.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+XL. Legislar en materia de participación ciudadana.
 
 XLI. Expedir la Ley que regule el Órgano de Fiscalización Superior del Congreso Estado.
 
@@ -764,6 +1080,14 @@ XLIII. Aprobar la creación de Delegaciones Municipales en Centros Urbanos a sol
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2013)</small>
 
 XLIV. Citar a comparecer a los funcionarios del Gobierno del Estado y los Municipios a solicitud de la Comisión Estatal de los Derechos Humanos para exponer las razones de no aceptación o incumplimiento de recomendaciones en materia de Derechos Humanos.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+XLV. Convocar a consultas populares en los términos de esta Constitución y de la ley en la materia.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+XLVI. Nombrar al Contralor General del Instituto de Elecciones y Participación Ciudadana y del Tribunal Electoral del Estado de Chiapas.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1407,7 +1731,7 @@ I. El Tribunal Superior de Justicia.
 
 II. El Consejo de la Judicatura.
 
-III. El Tribunal de Justicia Electoral y Administrativa.
+III. (DEROGADA, P.O. 25 DE JUNIO DE 2014)
 
 IV. El Tribunal del Trabajo Burocrático.
 
@@ -1529,7 +1853,9 @@ III. Emitir acuerdos generales a fin de lograr una adecuada distribución entre 
 
 IV. Establecer y ejecutar el sistema de carrera judicial en los términos y condiciones que establece esta Constitución.
 
-V. Administrar los recursos humanos, materiales y financieros del Poder Judicial, con excepción del Tribunal Constitucional cuya administración corresponderá a su Presidente; así como del Tribunal de Justicia Electoral y Administrativa y el Tribunal del Trabajo Burocrático, quienes lo harán a través de una comisión de administración.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+V. Administrar los recursos humanos, materiales y financieros del Poder Judicial, con excepción del Tribunal Constitucional cuya administración corresponderá a su Presidente; así como del Tribunal del Trabajo Burocrático, quienes lo harán a través de una comisión de administración.
 
 VI. Determinar los distritos judiciales en que se divida el Estado, el número de salas, juzgados de primera instancia, juzgados y salas especializados en justicia para adolescentes, juzgados de paz y conciliación indígena, juzgados municipales y subdirecciones del Centro Estatal de Justicia Alternativa; así como la residencia, adscripción, jurisdicción territorial y especialización que por materia les corresponda.
 
@@ -1545,23 +1871,15 @@ La Visitaduría estará integrada por cinco magistrados del Tribunal Superior de
 
 El Consejo de la Judicatura adscribirá a quienes funjan como magistrados visitadores, uno de los cuales será su coordinador.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JULIO DE 2011)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 59.
 
-El Tribunal de Justicia Electoral y Administrativa, será la máxima autoridad jurisdiccional en las materias de que conoce. Gozará de autonomía en su funcionamiento e independencia en sus decisiones. Sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos; sesionará en Pleno y en Salas y sus sesiones serán públicas.
-
-Estará integrado por siete magistrados, uno de los cuales, por decisión del Pleno, fungirá como su presidente. De los siete magistrados, cinco serán nombrados por el Pleno del Congreso del Estado o por la Comisión Permanente, en su caso, de entre las propuestas que formulen los grupos parlamentarios, los restantes serán designados por el Tribunal Constitucional de entre aquellos que ocupen un cargo de magistrado en el Tribunal Superior de Justicia. Durarán en el cargo siete años con posibilidad de ser reelectos para otro periodo igual.
-
-Para los efectos de la fracción V del párrafo sexto del artículo 58, la administración, vigilancia y disciplina de los recursos presupuestales del Tribunal de Justicia Electoral y Administrativa corresponderán en los términos que señale el Código, a la Comisión de Administración que estará integrada por el Presidente y un magistrado designado por el Pleno del Tribunal de Justicia Electoral y Administrativa y un consejero de la Judicatura.
-
-La Comisión de Administración será presidida por el Titular del Tribunal y tendrá atribución para presentar su anteproyecto de presupuesto al Consejo de la Judicatura para su inclusión en el proyecto del presupuesto del Poder Judicial.
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JULIO DE 2011)</small>
 
 ### CAPÍTULO IV. DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 60.
 
@@ -1629,7 +1947,7 @@ Los jueces, magistrados del Poder Judicial y consejeros de la Judicatura no podr
 
 La remuneración de los jueces, magistrados del Poder Judicial y consejeros de la Judicatura, no podrá ser disminuida durante el tiempo de su gestión.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 63.
 
@@ -1645,11 +1963,13 @@ IV. Conocer de oficio, los casos de contradicción de criterios que se susciten 
 
 V. Resolver los conflictos de competencia que se susciten entre salas regionales o entre juzgados de primera instancia.
 
-VI. Designar a los miembros del Consejo de la Judicatura y del Tribunal de Justicia Electoral y Administrativa que correspondan al Poder Judicial.
+VI. Designar a los miembros del Consejo de la Judicatura que correspondan al Poder Judicial.
 
 VII. Conocer de los asuntos que por su interés o transcendencia así lo ameriten a petición fundada del Procurador General de Justicia del Estado.
 
-VIII. Las demás atribuciones que les confieran esta Constitución y la ley.
+VIII. Conocer y resolver las controversias en materia administrativa de conformidad con las disposiciones legales aplicables.
+
+IX. Las demás atribuciones que les confieran esta Constitución y la ley.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
@@ -1781,27 +2101,37 @@ VI. No ser cónyuge o concubino, hermana o hermano, madre, padre, hija, hijo, o 
 
 VII. Los demás que establezca la legislación respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 69.
 
-Los ayuntamientos deberán tomar posesión el día primero de octubre, del año de la elección; los presidentes municipales, regidores y síndicos de los ayuntamientos, electos popularmente por elección directa, durarán en su encargo tres años y no podrán ser reelectos para el período inmediato.
+Los ayuntamientos deberán tomar posesión el día primero de octubre, del año de la elección; los ayuntamientos serán asambleas deliberantes y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de estas corresponderá exclusivamente a los presidentes municipales, quienes durarán en sus funciones tres años.
 
-Las personas que por elección indirecta o por nombramiento o designación desempeñen las funciones propias de esos cargos, cualquiera que sea el nombre que se les dé, tampoco podrán ser electos para el siguiente período. Todos los servidores públicos antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato como suplentes, pero los que tengan carácter de suplentes y no hayan estado en ejercicio podrán ser electos como propietarios para el siguiente período. La prohibición anterior comprende a todos los miembros del Ayuntamiento sin importar el cargo que hayan desempeñado.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+La elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, será por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato y de conformidad con lo establecido en la ley respectiva.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 Si por cualquier circunstancia no se hubiese efectuado la elección del Ayuntamiento en la fecha prevista o fuera declarada nula la elección, el Congreso del Estado tendrá la facultad para decidir la celebración de elecciones extraordinarias o para designar un Concejo Municipal integrado por un mínimo de tres y un máximo de cinco personas.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves establecidas en la Ley Orgánica Municipal, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
 En caso de renuncia o falta definitiva de algunos de los miembros del ayuntamiento, el Congreso del Estado designará, de entre los miembros del ayuntamiento que quedaren, las sustituciones procedentes, en caso de declararse desaparecido un ayuntamiento o por renuncia o falta definitiva de la mayoría de sus miembros, el Congreso del Estado designará, un Consejo Municipal integrado por un mínimo de tres y un máximo de cinco personas que deberán cumplir los mismos requisitos señalados para ser miembro de un Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 El Congreso del Estado designará de entre los vecinos que gocen de buena reputación y sobresalgan por sus méritos culturales y sociales, a los integrantes de los concejos municipales encargados de concluir los períodos respectivos.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO VII. DEL CONTROL CONSTITUCIONAL
+### CAPÍTULO VII. DEL CONTROL CONSTITUCIONAL Y ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 70.
 
@@ -2027,11 +2357,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 81.
 
-Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; El Presidente de la Comisión Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
+Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Subprocurador General de Justicia y el Fiscal Electoral; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; El Presidente de la Comisión Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
@@ -2049,11 +2379,11 @@ En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribuna
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 82.
 
-Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado, por el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; El Presidente de la Comisión Estatal de los Derechos Humanos; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado, por el Subprocurador General de Justicia y el Fiscal Electoral; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; El Presidente de la Comisión Estatal de los Derechos Humanos; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
@@ -2103,11 +2433,11 @@ Todos los servidores públicos y demás personas empleadas del Estado y de los M
 
 Todos los servidores públicos del Estado percibirán una compensación por sus servicios, que será determinada por la Ley y pagada por el erario estatal. Esta compensación no será renunciable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 87.
 
-El Gobernador, los Magistrados, el Procurador General de Justicia del Estado, los Fiscales de Distrito, el Fiscal Electoral, los Fiscales Especializados y Especiales, los Agentes del Ministerio Público, el Presidente y los Contralores de la Comisión de Fiscalización Electoral, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios de Despacho, los Secretarios y Actuarios del Poder Judicial del Estado, los Servidores Públicos y Delegados del Registro Público de la Propiedad, así como los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, y el Presidente de la Comisión Estatal de los Derechos Humanos; no podrán fungir como árbitros, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición no comprende a servidores públicos y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
+El Gobernador, los Magistrados, el Procurador General de Justicia del Estado, los Fiscales de Distrito, el Fiscal Electoral, los Fiscales Especializados y Especiales, los Agentes del Ministerio Público, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios de Despacho, los Secretarios y Actuarios del Poder Judicial del Estado, los Servidores Públicos y Delegados del Registro Público de la Propiedad, así como los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, y el Presidente de la Comisión Estatal de los Derechos Humanos; no podrán fungir como árbitros, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición no comprende a servidores públicos y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -2121,11 +2451,11 @@ Los cargos de Gobernador, de Diputado y los de elección popular de los Ayuntami
 
 Las solicitudes de licencia por más de un año o por tiempo indefinido, serán calificadas como renuncias y, por lo tanto, el Congreso del Estado resolverá lo conducente.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 89.
 
-La propaganda bajo cualquier modalidad de comunicación social, que difundan como tales los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública federal, estatal y municipal deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. La Comisión de Fiscalización Electoral vigilará y garantizará el estricto cumplimiento de lo previsto en este artículo incluyendo la aplicación de sanciones a que haya lugar, de conformidad con lo previsto por la Ley respectiva.
+La propaganda bajo cualquier modalidad de comunicación social, que difundan como tales los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública federal, estatal y municipal deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -2611,129 +2941,11 @@ DECRETO NÚMERO 67, QUE REFORMA VARIOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA 
 
 ###### Artículo 3º.
 
-Toda persona en el Estado de Chiapas gozará de las garantías individuales y sociales establecidas en la Constitución Política de los Estados Unidos Mexicanos; así como de los Derechos Humanos contenidos en la Declaración Universal de los Derechos Humanos proclamados y reconocidos por la Organización de las Naciones Unidas, que son los siguientes:
+La presente ley surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
 
-I. Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.
+P.O. 14 DE ENERO DE 1931.
 
-II. Toda persona tiene todos los derechos y libertades proclamados en la Declaración Universal de los Derechos Humanos de la Organización de las Naciones Unidas, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición.
-
-Además, no se hará distinción alguna fundada en la condición política, jurídica o internacional del país o territorio de cuya jurisdicción dependa una persona, tanto si se trata de un país independiente, como de un territorio bajo administración fiduciaria, no autónomo o sometido a cualquier otra limitación de soberanía.
-
-III. Todo Individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.
-
-IV. Nadie estará sometido a esclavitud ni a la servidumbre, la esclavitud y la trata de personas están prohibidas en todas sus formas.
-
-V. Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.
-
-VI. Todo ser humano tiene derecho en todas partes al reconocimiento de su personalidad jurídica.
-
-VII. Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección de la ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta Constitución y contra toda provocación a tal discriminación.
-
-VIII. Toda persona tiene derecho a un medio de defensa efectivo, que la proteja contra actos que violen sus derechos humanos reconocidos por la Constitución o por la ley.
-
-IX. Nadie podrá ser arbitrariamente detenido, preso ni desterrado.
-
-X. Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus derechos y obligaciones de cualquier acusación contra ella en materia penal.
-
-XI. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad, conforme a la ley y en juicio público en el que se le hayan asegurado todas las garantías necesarias para su defensa.
-
-Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron delictivos según el Derecho Nacional e Internacional. Tampoco se impondrá pena más grave que la aplicable en el momento de la comisión del delito.
-
-XII. Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación. Toda persona tiene derecho a la protección de la ley contra tales injerencias o ataques.
-
-XIII. Toda Persona tiene derecho a transitar libremente y a elegir su residencia en el territorio del Estado.
-
-XIV. En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en términos de la Constitución Política de los Estados Unidos Mexicanos y de la legislación respectiva.
-
-XV. Toda persona tiene derecho a una nacionalidad.
-
-XVI. Los hombres y las mujeres, tienen derecho, sin restricción alguna por motivos de origen cultural, nacionalidad, credo o ideología, a casarse y fundar una familia, y disfrutarán de iguales derechos en cuanto al matrimonio, durante y en caso de disolución del mismo.
-
-Solo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse matrimonio.
-
-La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado.
-
-XVII. Toda persona tiene derecho a la propiedad, individual y colectiva.
-
-Nadie será privado arbitrariamente de su propiedad.
-
-XVIII. Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de credo; este derecho incluye la libertad de cambiar de religión o de creencia, así como la libertad de manifestar su religión o su creencia, individual y colectivamente, tanto en público como en privado, por la enseñanza, la práctica, el culto y la observancia, conforme lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y a la ley de la materia.
-
-XIX. Toda persona tiene derecho a la libertad de opinión y de expresión; este derecho incluye el de no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión.
-
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
-
-Toda persona tiene derecho a acceder de forma libre y universal a Internet y a las tecnologías de la información y la comunicación.
-
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
-
-El Estado está obligado a garantizar este derecho.
-
-XX. Toda persona tiene derecho a la libertad de reunión y de asociación pacífica.
-
-Nadie podrá ser obligado a pertenecer a una asociación.
-
-XXI. Los ciudadanos chiapanecos tienen derecho a participar en el gobierno del Estado, directamente o por medio de representantes libremente escogidos en los términos que señalen las leyes respectivas.
-
-Los ciudadanos chiapanecos tienen el derecho de acceso, en condiciones de igualdad, a las funciones públicas del Estado.
-
-La voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal e igual y por voto secreto, de conformidad a lo dispuesto en la ley de la materia.
-
-XXII. Toda persona, como miembro de la sociedad, tiene derecho a la seguridad social, y a obtener, mediante el esfuerzo estatal, nacional y la cooperación internacional, de conformidad con la organización y los recursos del estado, la satisfacción de los derechos económicos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad, en términos de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución particular y de la legislación respectiva.
-
-XXIII. Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo, en términos de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución particular y de la legislación respectiva
-
-Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo de igual valor.
-
-Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le asegure, así como a su familia, una existencia conforme a la dignidad humana.
-
-Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.
-
-XXIV. Todo trabajador tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas, de acuerdo a la ley respectiva.
-
-XXV. Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y los servicios sociales necesarios.
-
-La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.
-
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
-
-XXVI. Toda persona tiene derecho a la educación de calidad. El Estado impartirá educación inicial, preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.
-
-Toda la educación que el Estado imparta será gratuita.
-
-Además:
-
-A) La educación tendrá por objeto el pleno desarrollo de la personalidad humana, y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, a la continuidad y acrecentamiento de nuestra cultura; a la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.
-
-B) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos; y
-
-C) Será de calidad, con base en el mejoramiento constante y el máximo logro académico de los educandos.
-
-Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse a sus hijos.
-
-El Estado garantizará la calidad en la educación obligatoria de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa y la idoneidad de los docentes y los directivos garanticen el máximo logro de aprendizaje de los educandos. Adicionalmente, el ingreso al servicio docente y la promoción a cargos con funciones de dirección o de supervisión en la educación básica y media superior que imparta el Estado, se llevarán a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y capacidades que correspondan. La evaluación obligatoria para el ingreso, la promoción, el reconocimiento y la permanencia en el servicio profesional se hará con pleno respeto a los derechos constitucionales de los trabajadores de la educación y conforme a lo dispuesto en la ley. Serán nulos todos los ingresos y promociones que no sean otorgados conforme a la ley.
-
-Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
-
-XXVII. Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.
-
-Toda persona tiene derecho a la protección de los intereses morales y materiales que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora, en términos de las leyes respectivas.
-
-XXVIII. Toda persona tiene derecho a que se establezca un orden social en el que los derechos y libertades proclamados en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución particular, se hagan plenamente efectivos.
-
-XXIX. Toda persona tiene deberes respecto a la comunidad, puesto que sólo en ella puede desarrollar libre y plenamente su personalidad.
-
-En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.
-
-Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los propósitos y principios de las Naciones Unidas que consagra esta Constitución.
-
-XXX. Nada en esta Constitución podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades o realizar actos tendientes a la supresión de cualquiera de los derechos y libertades proclamados en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución particular.
-
-> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2012)</small>
-
-Los derechos consagrados en esta Constitución Política y las leyes reglamentarias emanadas de la misma, así como las referencias a las personas o de quienes conforman los Poderes Públicos, instituciones públicas y los organismos autónomos del Estado, deberán entenderse siempre con un ánimo de lenguaje incluyente y perspectiva de género, por encima de la cuestión gramatical con que se encuentren redactados; en ese tenor los nombramientos que para tal efecto se expidan, deberán referirse en cuanto a su género.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+DECRETO NÚMERO 67, QUE REFORMA VARIOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA ESTATAL.
 
 ###### Artículo 1o.
 
@@ -2743,13 +2955,39 @@ Por una sola vez, de los nueve Diputados que resultaren electos para integrar la
 
 Quedan derogadas todas las leyes y disposiciones que se opongan a la presente Constitución.
 
-###### Artículo 3º.
+###### Artículo 3o.
 
-La presente ley surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+La presente ley empezará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 14 DE ENERO DE 1931.
+P.O. 1 DE MARZO DE 1933.
 
-DECRETO NÚMERO 67, QUE REFORMA VARIOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA ESTATAL.
+1º.- Quedan derogados todas las Leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
+
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 28 DE NOVIEMBRE DE 1934.
+
+DECRETO NÚMERO 103/8 QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+1º.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
+
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 28 DE NOVIEMBRE DE 1934.
+
+DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
+
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 25 DE DICIEMBRE DE 1935.
+
+1º.- Quedan derogados todas las leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
+
+2º.- Este decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 16 DE FEBRERO DE 1938.
 
 ###### Artículo 1º.
 
@@ -2795,39 +3033,9 @@ Este decreto empezará a regir desde la fecha de su publicación en el Periódic
 
 P.O. 21 DE MARZO DE 1951.
 
-###### Artículo 3o.
+###### ARTICULO 3o.
 
-La presente ley empezará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 1 DE MARZO DE 1933.
-
-1º.- Quedan derogados todas las Leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
-
-2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 28 DE NOVIEMBRE DE 1934.
-
-DECRETO NÚMERO 103/8 QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
-
-1º.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
-
-2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 28 DE NOVIEMBRE DE 1934.
-
-DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
-
-1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
-
-2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 25 DE DICIEMBRE DE 1935.
-
-1º.- Quedan derogados todas las leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
-
-2º.- Este decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 16 DE FEBRERO DE 1938.
+El artículo 68 de la presente Constitución, en lo que se refiere al período de duración de los Ayuntamientos, entrará en vigor a partir del 1o. de enero de 1953, entretanto, los Ayuntamientos que se elijan durarán, dos años los de primera y segunda categoría y uno los de tercera.
 
 ###### ARTICULO 4o.
 
@@ -3021,6 +3229,12 @@ La presente Constitución entrará en vigor a partir de la fecha de su publicaci
 
 Quedan derogadas todas las Leyes, Decretos, Circulares, Reglamentos o cualesquiera otras disposiciones que contravengan la presente Constitución.
 
+###### Artículo 2o.
+
+Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 1970.
+
 ###### ARTICULO 3o.
 
 El Ejecutivo dispondrá se promulgue, circule y publique por bando solemne, para su debido cumplimiento.
@@ -3042,16 +3256,6 @@ P.O. 13 DE NOVIEMBRE DE 1974.
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 13 DE JULIO DE 1977.
-
-###### Artículo 2o.
-
-Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE JUNIO DE 1970.
-
-###### ARTICULO 3o.
-
-El artículo 68 de la presente Constitución, en lo que se refiere al período de duración de los Ayuntamientos, entrará en vigor a partir del 1o. de enero de 1953, entretanto, los Ayuntamientos que se elijan durarán, dos años los de primera y segunda categoría y uno los de tercera.
 
 ###### ARTICULO PRIMERO.
 
@@ -4140,3 +4344,27 @@ P.O. 8 DE MAYO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los ámbitos y órdenes de gobierno de la entidad, deberán observar las presentes disposiciones.
+
+Artículo Cuarto.- El Congreso del Estado deberá expedir y aprobar a más tardar el 30 de junio de 2014, las reformas y adiciones al Código de Elecciones y Participación Ciudadana y demás ordenamientos aplicables en el ámbito local.
+
+(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VIGÉSIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 35/2014 Y SUS ACUMULADAS 74/2014, 76/2014 Y 83/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+Artículo Quinto.- La actual Comisión de Fiscalización Electoral se extinguirá a la entrada en vigor del presente decreto. Los recursos humanos, materiales, financieros y presupuestales de la Comisión de Fiscalización Electoral, pasarán a formar parte del Instituto de Elecciones y Participación Ciudadana, quien conocerá de todos los asuntos que a la entrada en vigor de este decreto se encuentren en trámite en la referida Comisión, a través de la Unidad Técnica de Fiscalización del Instituto, CUYO TITULAR SERÁ EL ACTUAL PRESIDENTE DE LA COMISIÓN DE FISCALIZACIÓN ELECTORAL. A efecto de salvaguardar los derechos laborales de los trabajadores del Instituto, el Secretario Ejecutivo, así como el personal directivo, técnico y administrativo, continuarán en el ejercicio de sus funciones debiendo ser ratificados en su oportunidad por el nuevo Consejo General.
+
+Artículo Sexto.- A la entrada en vigor del presente decreto, los asuntos sustanciados ante el Tribunal de Justicia Electoral y Administrativa en materia administrativa, continuarán desahogándose hasta en tanto se realicen las reformas a las disposiciones legales aplicables; los procedimientos que se encuentren a la entrada en vigor del presente decreto serán resueltos conforme a las normas vigentes al momento de su inicio. Los asuntos en materia electoral de competencia local continuarán desahogándose por el Tribunal de Justicia Electoral y Administrativa en tanto el Senado de la Republica designe a los magistrados integrantes del Tribunal Electoral del Estado de Chiapas.
+
+Artículo Séptimo.- La Secretaria de Hacienda proveerá al 30 de septiembre de 2014, los recursos presupuestales y financieros para la creación e instalación de las autoridades jurisdiccionales señaladas en el transitorio anterior.
+
+Artículo Octavo.- El Congreso del Estado proveerá lo necesario para el nombramiento de los Contralores Generales del Instituto de Elecciones y Participación Ciudadana y del Tribunal Electoral del Estado de Chiapas a más tardar el 30 de septiembre de 2014.
+
+Artículo Noveno.- La Secretaria de Hacienda dispondrá en tiempo y forma, previo a la nueva instalación del Consejo General del Instituto de Elecciones y Participación Ciudadana, la ampliación presupuestal para el cumplimiento de las disposiciones constitucionales a que se refiere el presente decreto y para el debido desarrollo del proceso electoral local ordinario 2014-2015.
+
+Artículo Décimo.- Las disposiciones relativas a Candidaturas Independientes entrarán en vigor a partir del proceso electoral local ordinario 2014-2015.
