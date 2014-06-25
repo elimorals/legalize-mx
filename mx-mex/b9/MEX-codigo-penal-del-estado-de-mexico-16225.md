@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-05-14"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JUNIO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1767,6 +1767,8 @@ Al que sin causa justificada impida o restrinja de cualquier forma el flujo del 
 
 ### CAPITULO XVIII. PRESTACION ILICITA DEL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE JUNIO DE 2014)</small>
+
 ###### Artículo 146.
 
 Incurren en la responsabilidad penal, a que se refiere este capítulo, los servidores públicos de la hacienda pública estatal, municipal y de organismos del sector auxiliar en los siguientes casos:
@@ -1807,7 +1809,7 @@ A los autores intelectuales, a quienes dirijan la comisión de este delito y a q
 
 ###### Artículo 148.
 
-A quien preste el servicio público de transporte de pasajeros sin concesión, permiso o autorización correspondiente, se le impondrá de uno a cinco años de prisión y de treinta a ciento cincuenta días multa y suspención (sic) por un año del derecho de manejar, en caso de reincidencia privación definitiva del derecho de manejar.
+A quien preste el servicio público de transporte de pasajeros sin concesión, permiso o autorización correspondiente se le impondrá de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, y suspensión por un año del derecho de manejar.
 
 Si en este delito tuviere intervención cualquier integrante del consejo de administración, socio o representante legal de una empresa concesionaria o permisionaria del servicio público de transporte y se cometiere bajo el amparo de aquélla, la pena aplicable se aumentará de una a dos terceras partes de las que le correspondan por el delito cometido y se le impondrá además la suspensión y privación de derechos para prestar el servicio público que se haya otorgado.
 
@@ -5334,3 +5336,13 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 25 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
