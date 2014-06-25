@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2013-12-16"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2014 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -71,7 +73,7 @@ Los padres están obligados a alimentar, educar e instruir a sus hijos, fomentan
 
 Toda persona tiene derecho a una existencia digna, a la educación, a la cultura y al trabajo. El Estado promoverá el desarrollo físico, moral, intelectual, social y económico del pueblo.
 
-(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, EXCEPTUANDO LOS PÁRRAFOS SEGUNDO Y TERCERO, REFORMADOS EL 25 DE JUNIO DE 2014. DICHA INVALIDEZ SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -81,15 +83,27 @@ Toda persona tiene derecho a una existencia digna, a la educación, a la cultura
 
 El Estado de Michoacán tiene una composición multicultural, pluriétnica y multilingüe sustentada originalmente en sus pueblos y comunidades indígenas.
 
-Se reconoce la existencia de los pueblos indígenas, originarios, p'urhépecha, Nahua, Hñahñú u Otomí, Jñatjo o Mazahua, Matlatzinca o Pirinda y a todos aquellos que preservan todas o parte de sus instituciones económicas, sociales, culturales, políticas y territoriales.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Las comunidades indígenas son aquellas que se autodeterminan pertenecientes a un pueblo indígena, las cuales constituyen estructuras de organización política, social, económica y cultural, asentadas en un territorio, que tienen autoridades, formas de elección y representación propias, de acuerdo a sus sistemas normativos y de gobierno interno.
+Se reconoce la existencia de los pueblos indígenas, originarios, p'urhépecha, Nahua, Hñahñú u Otomí, Jñatjo o Mazahua, Matlatzinca o Pirinda y a todos aquellos que preservan todas o parte de sus instituciones económicas, sociales, culturales, políticas y territoriales, garantizándole los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Instrumentos Internacionales relacionados en la materia.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Las comunidades indígenas son aquellas que se autodeterminan pertenecientes a un pueblo indígena, las cuales constituyen estructuras de organización política, social, económica y cultural, asentadas en un territorio, que tienen autoridades, formas de elección y representación propias, de acuerdo a sus sistemas normativos y de gobierno interno y, en consecuencia, el derecho a elegir en los municipios con población indígena, representantes ante los Ayuntamientos, o a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de igualdad, en los términos de la ley de la materia.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 La conciencia de identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. En la aplicación serán considerados los principios de autoidentidad y autoadscripción.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
 El derecho a la libre determinación de los pueblos indígenas, asentados en el Estado de Michoacán, se ejercerá en un marco constitucional de autonomía en sus ámbitos comunal, regional y como pueblo indígena.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
 El Estado reconoce a los pueblos y comunidades indígenas como personas morales, con personalidad jurídica y patrimonio propio, para ejercer derechos y contraer obligaciones.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 Los pueblos y las comunidades indígenas tendrán los derechos siguientes:
 
@@ -134,6 +148,8 @@ XIX. A que la normatividad en la materia, procure asegurar el acceso a la repres
 XX. A que los partidos políticos, bajo los principios del pluralismo político y cultural, procuren la participación de los pueblos y comunidades indígenas para el acceso a los cargos de elección y representación popular; y,
 
 XXI. El Gobernador del Estado, establecerá los mecanismos para el reconocimiento de una instancia estatal de representación y vinculación de autoridades indígenas ante los órganos de gobierno; para participar en las instituciones y determinaciones de políticas públicas de atención a los pueblos y comunidades indígenas;
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
 Las leyes correspondientes fijarán los medios, formas y términos para garantizar el ejercicio de los derechos de los pueblos y comunidades indígenas establecidos en esta Constitución.
 
@@ -237,29 +253,29 @@ El Estado adopta para su régimen interior, la forma de gobierno republicano, de
 
 Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, observando las reglas para garantizar la paridad entre los géneros en candidaturas a legisladores, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible, con la salvedad de las candidaturas independientes.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Los partidos políticos tienen derecho a participar en las elecciones estatales, distritales y municipales.
+Los partidos políticos tienen derecho a participar en las elecciones estatales, distritales y municipales, teniendo el derecho de solicitar el registro de candidatos a cargos de elección popular por ambos principios. Los ciudadanos tendrán derecho de solicitar su registro como candidatos independientes a cargos de elección popular únicamente por el principio de mayoría relativa. Los partidos políticos locales que no alcancen el 3 por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado su registro.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Los partidos políticos deberán contar, de acuerdo con la disponibilidad presupuestal y en forma equitativa, con los elementos necesarios para la consecución de sus fines y desarrollar sus actividades permanentes. Las tendientes a la obtención del voto en los procesos electorales y conforme a la Ley, recibirán financiamiento para actividades específicas.
+Los partidos políticos contarán de manera equitativa y gratuita con elementos para llevar a cabo sus actividades, por lo tanto, tendrán derecho al uso de los medios de comunicación, de acuerdo a la legislación aplicable. Además la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, así como las reglas para el acceso de los candidatos independientes a dichas prerrogativas, a efecto de que se encuentren en aptitud de participar en la elección en la cual se hayan registrado.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus simpatizantes, las cuales no excederán el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador. La Ley establecerá los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos, así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes, las cuales no excederán el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador. La Ley establecerá los procedimientos para la fiscalización oportuna, control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos y los ciudadanos que participen de manera independiente, así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Las campañas electorales no excederán de sesenta días para la elección de Gobernador, ni de cuarenta y cinco días para la elección de diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. La Ley fijará las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan.
+Las campañas electorales no excederán de sesenta días para la elección de Gobernador, ni de cuarenta y cinco días para la elección de diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. La Ley fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y de los ciudadanos registrados que participen de manera independiente, así como las sanciones para quienes las infrinjan.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-La propaganda política o electoral, deberá abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+La propaganda política o electoral, deberá abstenerse de expresiones que denigren a las instituciones, a los propios partidos o a los ciudadanos registrados como candidatos, o que calumnien a las personas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
 
@@ -359,11 +375,11 @@ Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominar�
 
 #### SECCION I. De la Formación del Poder Legislativo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 20.
 
-El Congreso del Estado se integra con representantes del pueblo, electos en su totalidad cada tres años. La elección se celebrará el primer domingo del mes de julio del año en que concluya su función la Legislatura.
+El Congreso del Estado se integra con representantes del pueblo, electos en su totalidad cada tres años, con opción de ser electos hasta por cuatro periodos consecutivos. La elección se celebrará el primer domingo del mes de junio del año en que concluya su función la Legislatura.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
@@ -379,13 +395,15 @@ El Congreso del Estado estará integrado por veinticuatro diputados electos seg�
 
 Para la elección de los diputados de mayoría relativa, el Estado se dividirá en veinticuatro distritos electorales, cuya denominación y demarcación territorial señalará la ley.
 
-Ningún partido político podrá contar con más de veinticuatro diputados electos mediante ambos principios.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Este supuesto no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 22.
 
-Los diputados no podrán ser reelectos para el período inmediato siguiente; los suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubiesen estado en ejercicio; pero los propietarios no podrán ser reelectos para el período inmediato con el carácter de suplentes.
+El diputado suplente que haya ejercido el cargo de propietario, para efectos del artículo 20 de esta Constitución, se le contabilizará como un periodo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -793,9 +811,9 @@ XXI B.- Privar del cargo a los integrantes del Consejo del Poder Judicial, por l
 
 XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales, mediante el voto de las dos terceras partes de sus miembros;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del Estado, conforme al procedimiento que establezca la ley;
+XXIII.- Nombrar a las personas que cubran las vacantes temporales de alguno de los magistrados que integran el Tribunal Electoral del Estado;
 
 XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
 
@@ -939,11 +957,11 @@ d) Los consejeros y funcionarios electorales federales o estatales, a menos que 
 
 Las personas a que se refieren los incisos a), b) y c) anteriores, podrán ser electas si se separan de sus cargos noventa días antes de la elección.
 
-(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 51.
 
-La elección de Gobernador se celebrará el primer domingo del mes de julio del año en que concluya el período constitucional. El Gobernador entrará a ejercer su cargo el día primero del mes de octubre del año de la elección y no podrá durar en él más de seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, substituto o encargado del despacho.
+La elección de Gobernador se celebrará el primer domingo del mes de junio del año en que concluya el período constitucional. El Gobernador entrará a ejercer su cargo el día primero del mes de octubre del año de la elección y no podrá durar en él más de seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea el de elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1675,77 +1693,55 @@ Los consejeros serán electos por un período de tres años con posibilidad de u
 
 #### SECCION IV. Del Instituto Electoral de Michoacán
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 98.
 
-La organización de las elecciones y de los procesos de participación ciudadana es una función estatal que se realiza a través de un organismo publico autónomo, dotado de personalidad jurídica y patrimonio propios denominado Instituto Electoral de Michoacán, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos, según lo disponga la Ley. La certeza, imparcialidad, independencia, legalidad, objetividad, equidad y profesionalismo serán principios rectores en el ejercicio y desarrollo de esta función estatal.
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios denominado Instituto Electoral de Michoacán, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos, según lo disponga la Ley. La certeza, legalidad, máxima publicidad, objetividad, imparcialidad, independencia, equidad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones, contará en su estructura con órganos de dirección, ejecutivos y desconcentrados. El órgano superior de dirección se integrará en la forma y términos que establezca la ley de la materia.
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones, contará en su estructura con órganos de dirección, ejecutivos, técnicos, de vigilancia y desconcentrados. El órgano superior de dirección se integrará por un Consejero Presidente y seis consejeros electorales en la forma y términos que establezca la Ley de la materia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
 
 Las autoridades estatales y municipales están obligadas a proporcionar información, previo requerimiento fundado, a los órganos electorales del Estado.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-El organismo público cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas a la preparación y desarrollo de la jornada electoral, otorgamiento de constancias, capacitación electoral e impresión de materiales electorales, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Deberá tomar las medidas cautelares que considere convenientes para hacer prevalecer los principios que rigen el proceso electoral, en los términos señalados en la Ley.
+El organismo público cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas a la preparación y desarrollo de la jornada electoral, otorgamiento de constancias e impresión de materiales electorales, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos y de los candidatos que de manera independiente participen en el proceso electoral. Deberá tomar las medidas cautelares que considere convenientes para hacer prevalecer los principios que rigen el proceso electoral, en los términos señalados en la Ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
 
 Las sesiones de los órganos colegiados electorales deben ser públicas en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Los consejeros electorales y el Consejero Presidente del órgano superior de dirección, deben satisfacer los requisitos que señale la Ley y serán electos por un periodo improrrogable de seis años, por el voto de las dos terceras partes de los diputados del Congreso del Estado, mediante convocatoria publica y de manera sucesiva para su renovación escalonada. La Ley señalará las reglas y el procedimiento correspondientes.
+El Consejero Presidente y los Consejeros Electorales del órgano superior de dirección, serán designados por un periodo improrrogable de siete años debiendo satisfacer los requisitos de elegibilidad y cumplir con el procedimiento que señala la Constitución Política de los Estados Unidos Mexicanos y la normatividad de la materia.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
 
 #### SECCION V. Del Tribunal Electoral del Estado
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 Artículo 98 A.- Se establecerá un sistema de medios de impugnación, en los términos que señale esta Constitución y la Ley, de los que conocerá el organismo público previsto en el artículo anterior y el Tribunal Electoral del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
 
 En materia electoral, la interposición de los recursos, en ningún caso produce efectos suspensivos del acto o resolución impugnado.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-El Tribunal Electoral del Estado será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral. El Poder Legislativo, garantizará su debida integración.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+El Tribunal Electoral del Estado será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral.
 
 El Tribunal Electoral cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas al fomento de la cultura de la legalidad en materia de justicia electoral y participación ciudadana, consistentes en tareas de capacitación, investigación y difusión.
-
-El Tribunal Electoral del Estado tendrá competencia para resolver en única instancia y en forma definitiva, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral.
 
 El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
 
 El Tribunal Electoral del Estado se organizará en los términos que señale la ley de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados, que serán electos por un periodo improrrogable de seis años, por el voto de las dos terceras partes de los diputados del Congreso del Estado, mediante convocatoria pública y de manera sucesiva para su renovación escalonada. La Ley señalara las reglas y el procedimiento correspondientes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados, quienes serán electos por un período de siete años conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y la normatividad de la materia.
 
 Deberá sesionar por lo menos una vez al mes y todas sus determinaciones serán tomadas por mayoría. En el caso de las sesiones de resolución jurisdiccional serán siempre públicas, en los términos que establezca la Ley.
 
-El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados; sus sesiones de resolución serán públicas, en los términos que establezca la Ley.
-
-Los magistrados del Tribunal, los cuales serán independientes y responderán al mandato de la Ley, deberán satisfacer cuando menos los requisitos que señala ésta Constitución para ser Magistrado del Supremo Tribunal de Justicia del Estado.
-
-El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública.
-
-Los magistrados tendrán un periodo constitucional de dos procesos electorales ordinarios sucesivos. Al término de su periodo cesarán en sus funciones y no podrán ser reelectos. La Ley señalará las reglas y el procedimiento correspondientes.
-
-El Congreso del Estado conocerá de las quejas en contra de los magistrados, podrá privarlos de su encargo, por las causas previstas en el artículo 77 de esta Constitución.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
-
-Los magistrados del tribunal no podrán ocupar, dentro de los dos años siguientes al término de su encargo, cargos en los poderes públicos en cuya elección hayan participado.
+Las personas que cubran las vacantes temporales de alguno de los magistrados que integran el Tribunal, deberán satisfacer los mismos requisitos que para ser magistrado electoral, conforme al procedimiento que se establezca en la ley de la materia.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1957,17 +1953,19 @@ Los presidentes, los síndicos y los regidores de los ayuntamientos, serán elec
 
 Si alguno de los miembros de los ayuntamientos dejare de desempeñar su cargo, el Ayuntamiento valorará y acordará el tipo de ausencia en la sesión inmediata siguiente, procediendo de acuerdo a lo dispuesto en esta Constitución y en la Ley Orgánica Municipal del Estado de Michoacán de Ocampo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 116.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos electos directa o indirectamente que desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectos para el período inmediato.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+Los funcionarios antes mencionados, cuando teniendo el carácter de suplentes, hayan ejercido el cargo de propietarios, se les contabilizará como un período. Lo anterior, también será aplicable a las autoridades electas por los sistemas normativos y de gobierno interno de las comunidades indígenas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 117.
 
-Los ayuntamientos tendrán un período de ejercicio de tres años. La elección de la totalidad de sus integrantes se celebrará el primer domingo del mes de julio del año en que concluya el período constitucional, y tomarán posesión de su cargo el día primero del mes de septiembre del año de su elección.
+Los ayuntamientos tendrán un período de ejercicio de tres años, con opción de elegirse por un periodo más. La elección de la totalidad de sus integrantes se celebrará el primer domingo del mes de junio del año en que concluya el período constitucional, y tomarán posesión de su cargo el día primero del mes de septiembre del año de su elección.
 
 Por cada Síndico y Regidor, se elegirá un suplente.
 
@@ -3201,17 +3199,9 @@ DECRETO NÚMERO 69 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 20; E
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, salvo los artículos 20, 29, 31 párrafo primero, 33, 51, 54, 60 fracción X, 112 párrafo segundo y 117, que entrarán en vigor el día primero del mes de enero del año dos mil quince.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+SEGUNDO. (DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-SEGUNDO. El Gobernador del Estado en funciones, concluirá su ejercicio constitucional el día catorce de febrero de dos mil ocho, periodo para el que fue electo.
-
-La Septuagésima Legislatura, concluirá su ejercicio constitucional el día catorce de enero del año dos mil ocho, periodo para el que fue electa.
-
-Los ayuntamientos del Estado, concluirán su ejercicio constitucional el día treinta y uno de diciembre del año dos mil siete, periodo para el que fueron electos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-TERCERO. La elección de Gobernador del Estado, diputados y ayuntamientos, se celebrará el segundo domingo del mes de noviembre del año dos mil siete, y tomarán posesión de su encargo al concluir el periodo de los actuales.
+TERCERO. (DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -3494,6 +3484,102 @@ Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notif
 (NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
+###### Artículo 3°.
+
+El Estado de Michoacán tiene una composición multicultural, pluriétnica y multilingüe sustentada originalmente en sus pueblos y comunidades indígenas.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Se reconoce la existencia de los pueblos indígenas, originarios, p'urhépecha, Nahua, Hñahñú u Otomí, Jñatjo o Mazahua, Matlatzinca o Pirinda y a todos aquellos que preservan todas o parte de sus instituciones económicas, sociales, culturales, políticas y territoriales, garantizándole los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Instrumentos Internacionales relacionados en la materia.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Las comunidades indígenas son aquellas que se autodeterminan pertenecientes a un pueblo indígena, las cuales constituyen estructuras de organización política, social, económica y cultural, asentadas en un territorio, que tienen autoridades, formas de elección y representación propias, de acuerdo a sus sistemas normativos y de gobierno interno y, en consecuencia, el derecho a elegir en los municipios con población indígena, representantes ante los Ayuntamientos, o a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de igualdad, en los términos de la ley de la materia.
+
+(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
+La conciencia de identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. En la aplicación serán considerados los principios de autoidentidad y autoadscripción.
+
+(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
+El derecho a la libre determinación de los pueblos indígenas, asentados en el Estado de Michoacán, se ejercerá en un marco constitucional de autonomía en sus ámbitos comunal, regional y como pueblo indígena.
+
+(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
+El Estado reconoce a los pueblos y comunidades indígenas como personas morales, con personalidad jurídica y patrimonio propio, para ejercer derechos y contraer obligaciones.
+
+(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
+Los pueblos y las comunidades indígenas tendrán los derechos siguientes:
+
+I. A decidir y ejercer sus formas internas de gobierno, sus propios sistemas de participación, elección y organización social, económica, política y cultural, a través de las diversas formas y ámbitos de autonomía comunal, regional y como pueblo indígena;
+
+II. A la libre asociación y coordinación de sus acciones y aspiraciones como comunidades, regiones y pueblos indígenas;
+
+III. A participar en la integración plural en los órganos y entidades de gobierno estatal y municipal;
+
+IV. A elegir, en los municipios con población indígena, representantes ante los ayuntamientos;
+
+V. A la consulta y a los mecanismos de participación ciudadana previstos en esta Constitución, cuando se prevean ejecutar acciones y medidas administrativas o legislativas que los afecten;
+
+VI. A la aplicación de sus sistemas normativos para la regulación y solución de sus conflictos en la jurisdicción interna, respetando la interpretación intercultural de los derechos humanos y los principios generales de esta Constitución. La ley establecerá los casos y procedimientos de validación por los jueces y tribunales correspondientes;
+
+VII. Al acceso a la procuración e impartición de justicia en su propia lengua; en los juicios y procedimientos en que sean parte de forma individual o colectiva, se considerarán durante todo el proceso y en las resoluciones, sus sistemas normativos y especificidades culturales; serán asistidos preferentemente con defensores, y con traductores intérpretes en lenguas, culturas y sistemas normativos indígenas;
+
+VIII. Al acceso, uso, disfrute, protección y conservación de sus tierras, territorios, recursos naturales y biodiversidad, conforme a las formas y modalidades de propiedad y tenencia de la tierra;
+
+IX. Al reconocimiento, ejercicio y salvaguarda de los derechos de propiedad, posesión de tierras, territorios y recursos naturales, donde se encuentren asentados los pueblos, comunidades y regiones indígenas. El Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+
+X. A preservar, desarrollar, controlar, difundir y promover su patrimonio cultural tangible e intangible. La ley reglamentaria y las autoridades indígenas establecerán las medidas que permitan proteger la titularidad de los derechos sobre el patrimonio de los pueblos indígenas;
+
+XI. Al ejercicio, fortalecimiento y desarrollo de la medicina tradicional e indígena; y a los sistemas de salud comunitaria;
+
+XII. Al reconocimiento, uso, rescate, preservación, fortalecimiento y difusión de las lenguas indígenas. El Estado y los pueblos indígenas fomentarán las políticas públicas y creación de instancias para el estudio y desarrollo de las lenguas originarias;
+
+XIII. A una educación indígena, intercultural, multilingüe y multicultural, en todos los niveles educativos, a través de un sistema que defina y reconozca sus propios modelos y métodos culturales de enseñanza y aprendizaje, cuyos enfoques y contenidos serán diseñados, reconocidos y garantizados de manera conjunta entre el Estado y los pueblos indígenas;
+
+XIV. A adquirir, desarrollar, operar y administrar medios y sistemas de comunicación y difusión, de conformidad con las leyes de la materia. El Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;
+
+XV. Al desarrollo local con identidad cultural y territorial, a partir de modelos propios de economía, en los ámbitos comunal y regional, que de forma coordinada se implementen con los diferentes órdenes de gobierno;
+
+XVI. A la participación y consulta en la elaboración del Plan Estatal de Desarrollo y en los Planes de Desarrollo Municipales, incorporando las recomendaciones y propuestas que se realicen en los presupuestos;
+
+XVII. Al reconocimiento y protección de derechos de las mujeres indígenas, a través de normas, políticas y acciones que garanticen su desarrollo y la igualdad de oportunidades en los ámbitos económico, social, cultural, político, educativo, civil y agrario; considerando la especificidad cultural comunitaria y promoviendo su participación ciudadana;
+
+XVIII. A la protección de derechos de los migrantes indígenas, mediante normas, políticas y acciones que garanticen el desarrollo de las personas, familias y comunidades migrantes. Los migrantes indígenas de otras entidades federativas, que residan temporal o permanentemente en el Estado, gozarán de los mismos derechos;
+
+XIX. A que la normatividad en la materia, procure asegurar el acceso a la representación política de los pueblos y comunidades indígenas en los cargos de elección y representación popular;
+
+XX. A que los partidos políticos, bajo los principios del pluralismo político y cultural, procuren la participación de los pueblos y comunidades indígenas para el acceso a los cargos de elección y representación popular; y,
+
+XXI. El Gobernador del Estado, establecerá los mecanismos para el reconocimiento de una instancia estatal de representación y vinculación de autoridades indígenas ante los órganos de gobierno; para participar en las instituciones y determinaciones de políticas públicas de atención a los pueblos y comunidades indígenas;
+
+(NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, LA CUAL SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249). CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
+Las leyes correspondientes fijarán los medios, formas y términos para garantizar el ejercicio de los derechos de los pueblos y comunidades indígenas establecidos en esta Constitución.
 
 P.O. 16 DE MARZO DE 2012.
 
