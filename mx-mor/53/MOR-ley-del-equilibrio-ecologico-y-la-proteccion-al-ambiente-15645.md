@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2014-06-11"
+last_updated: "2014-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -997,9 +997,11 @@ V. Concertará acciones e inversiones con los sectores social y privado y con in
 
 ### CAPÍTULO III (SIC). Derecho a la información ambiental
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 57.
 
-La Secretaría desarrollará un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental nacional y de la entidad, que estará disponible para su consulta y que se coordinará y complementará con el Sistema de Cuentas Nacionales a cargo del Instituto Nacional de Estadística, Geografía e Informática.
+La Secretaría desarrollará un Sistema Estatal de Información Ambiental y de Recursos Naturales, que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental nacional y de la Entidad, que estará disponible para su consulta y que se coordinará y complementará con el Sistema de Cuentas Nacionales a cargo del Instituto Nacional de Estadística y Geografía.
 
 En dicho Sistema, la Secretaría deberá integrar, entre otros aspectos, información relativa a los inventarios de recursos naturales existentes en el territorio estatal, a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo, al ordenamiento ecológico del territorio y la correspondiente a los registros, programas y acciones que se realicen para la preservación del equilibrio ecológico y la protección al ambiente.
 
@@ -2660,6 +2662,16 @@ SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publica
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 11 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Tierra y Libertad”, órgano de difusión de Gobierno del Estado de Morelos.
+
+P.O. 25 DE JUNIO DE 2014.
 
 ###### ARTÍCULO PRIMERO.
 
