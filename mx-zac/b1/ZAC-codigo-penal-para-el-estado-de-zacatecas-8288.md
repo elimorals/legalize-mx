@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2014-02-15"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE FEBRERO DE 2014 Y REPUBLICADA EN EL SUPLEMENTO 6 DEL P.O. DE 15 DE FEBRERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2755,6 +2753,12 @@ III.- Al que en los términos de las fracciones anteriores cometa despojo de agu
 
 A las sanciones que señala este artículo se sumarán las que correspondan por la violencia, la amenaza o por las de cualquier otro delito que resulte cometido.
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+345 bis.- Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, además de la pena señalada en el artículo anterior, se aplicará a los autores intelectuales y a quienes dirijan la invasión, de uno a seis años de prisión.
+
+A quienes se dediquen en forma reiterada a promover el despojo de inmuebles, se les aplicará una sanción de dos a nueve años de prisión. Se considera que se dedican a promover el despojo de inmuebles en forma reiterada, quienes hayan sido anteriormente condenados por esta forma de participación en el despojo, o bien, se les hubiere decretado en más de dos ocasiones auto de formal prisión por este mismo delito, salvo cuando en el proceso correspondiente se hubiese resuelto el desvanecimiento de datos, el sobreseimiento o la absolución del inculpado.
+
 ### CAPITULO VIII. DAÑO EN LAS COSAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 1999)</small>
@@ -3800,3 +3804,7 @@ DECRETO NÚMERO 24, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 34 DE
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 (SIC) Segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 25 DE JUNIO DE 2014.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
