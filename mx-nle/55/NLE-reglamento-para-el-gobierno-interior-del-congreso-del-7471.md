@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2013-01-23"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE AGOSTO DE 2015 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -35,7 +37,9 @@ DECRETO NUM. 81
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-## TITULO PRIMERO. DE LA INSTALACION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2014)</small>
+
+## TITULO PRIMERO. DE LA CONSTITUCION DE LA LEGISLATURA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -47,75 +51,65 @@ El presente Reglamento contiene la normatividad para la organización interna de
 
 El Congreso del Estado tiene las facultades que expresamente le señala la Constitución Política del Estado de Nuevo León, la Ley Orgánica del Poder Legislativo y el presente Reglamento.
 
-### CAPITULO II. DE LAS JUNTAS PREPARATORIAS Y DE LA INSTALACION DE LA LEGISLATURA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+### CAPITULO II. DE LA CONSTITUCION DE LA LEGISLATURA
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 3o.
 
-Calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado de Nuevo León y a los Artículos 167 al 171, de la Ley Electoral del Estado y entregadas las respectivas credenciales, los interesados se presentarán al Recinto del Congreso el día 16 de agosto del año de su instalación a las once horas para iniciar las Juntas Preparatorias correspondientes.
+Calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado de Nuevo León y a la Ley Electoral del Estado y entregadas las respectivas Constancias de Diputados Electos, los interesados se presentarán al Recinto del Congreso el día 31 de agosto del año de su constitución a las once horas a fin de efectuar la Constitución de la Legislatura.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 4o.
 
-En las Juntas preparatorias habrá quórum con la presencia de la mayoría del total de los presuntos Diputados.
+En la sesión de Constitución de la Legislatura habrá quórum con la presencia de la mayoría del total de los Diputados Electos.
 
-Bajo la Presidencia del presunto Diputado que hubiere recibido el mayor número de votos y en su ausencia, por el presunto Diputado que siga en el orden de la numeración decreciente de los votos recibidos, en la primera de las Juntas Preparatorias se procederá a elegir la Directiva, integrándose por un Presidente, dos Secretarios y dos Suplentes que cubran las faltas de cualquiera de ellos.
+Bajo la Presidencia del Diputado Electo que hubiere recibido el mayor número de votos y en su ausencia, por el Diputado Electo que siga en el orden de la numeración decreciente de los votos recibidos, en dicha sesión se procederá a elegir la Directiva del Congreso del Estado que fungirá durante el primer año de ejercicio constitucional.
 
-En caso de no haber quórum el presunto Diputado a quien le haya correspondido la Presidencia citará a todos los interesados, para las once horas del día siguiente a fin de realizar la Primera Junta Preparatoria.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 5o.
 
-En la Primer Junta Preparatoria se seguirá el siguiente procedimiento:
-
-a) Se elegirá una Directiva integrada por un Presidente, dos Secretarios y dos Suplentes para presidir los trabajos de las Juntas Preparatorias.
-
-b) Entrega de Credenciales de presuntos Diputados al Presidente.
-
-c) Designación de dos Comisiones Revisoras integradas por tres miembros cada una.
-
-d) Se le dará el uso de la palabra a los presuntos Diputados para asuntos generales.
-
-e) Clausura de la Primer Junta Preparatoria.
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 ###### Artículo 6o.
 
-Las dos Comisiones Revisoras estarán integradas por tres miembros, un Presidente y dos vocales, la primera se encargará de revisar las credenciales del resto de los presuntos Diputados y la segunda revisará las credenciales de los integrantes de la Primera Comisión Revisora.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 ###### Artículo 7o.
 
-En la Junta Preparatoria que se efectuará a partir de las once horas del 19 de agosto del año de la elección, las Comisiones revisoras rendirán sus dictámenes a la consideración de los presuntos diputados para su aprobación.
-
-Los dictámenes constarán de dos partes. La primera contendrá una Exposición de Motivos, en donde se razone que las cartas-credenciales de presuntos Diputados son legítimas y si fueron expedidas de acuerdo a los procedimientos establecidos en la Constitución Política Local y en la Ley Electoral Estatal, y la segunda contendrá un punto resolutivo estableciendo la conclusión sobre el estudio de cada una de las cartas-credenciales, lo que se someterá a votación para su aprobación y en su caso para su posterior publicación en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 ###### Artículo 8o.
 
-Para conocer, discutir y aprobar los dictámenes de que se trata, se celebrarán las Juntas Preparatorias que sean necesarias, debiendo llevarse a cabo éstas diariamente, bajo un orden del día que aprobarán previamente los presuntos Diputados.
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 9o.
 
-El 31 de agosto del año de la elección, los presuntos Diputados celebrarán la última de las Juntas Preparatorias, en la que todos aquellos cuyas credenciales hayan sido aprobadas, rendirán su protesta, en los términos de los Artículos 30, 31 y 32 de la Ley Orgánica del Poder Legislativo.
+El día 31 de agosto del año de la elección, los Diputados Electos, rendirán su protesta, en los términos de los artículos 30, 31 y 32 de la Ley Orgánica del Poder Legislativo.
 
 ###### Artículo 10.
 
 Otorgada la protesta a que se refiere el artículo anterior, por votación secreta y mediante cédula se procederá a la elección de la Directiva del Congreso, en los términos del Artículo 33 de la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 11.
 
-El día 1º de septiembre a las once horas se reunirán los diputados en el Recinto Oficial en Sesión Solemne para instalar la Legislatura y declarar la apertura del Primer Período Ordinario de Sesiones.
+El día 1º de septiembre a las once horas se reunirán los Diputados en el Recinto Oficial en Sesión Solemne para declarar la apertura del Primer Período Ordinario de Sesiones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 12.
 
-Iniciados los trabajos, el Presidente del H. Congreso hará la siguiente declaración: "La (número) Legislatura al H. Congreso del Estado de Nuevo León, queda legalmente instalada y abre hoy 1º de septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional".
+Iniciados los trabajos, el Presidente del H. Congreso hará la siguiente declaración: “La (número) Legislatura al H. Congreso del Estado de Nuevo León, abre hoy 1º de septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional”.
 
-Esta declaración será materia de un Decreto que sin más trámite se expedirá ese día y se publicará en el Periódico Oficial del Gobierno del Estado.
+Esta declaración será materia de un Decreto que sin más trámite se expedirá ese día y se publicará en el Periódico Oficial del Estado.
 
 ### CAPITULO III. DE LOS DIPUTADOS
 
@@ -351,7 +345,9 @@ a) En los actos oficiales a que deba concurrir, pudiendo ser suplido en dicha re
 
 b) Para celebrar convenios, otorgar poderes o mandatos y designar delegados para que representen al Congreso, pudiendo éstos ejercer las facultades de administración, pleitos y cobranzas, aún aquéllas que requieran de cláusula especial.
 
-XVI.- (DEROGADA, P.O. 16 DE AGOSTO DE 2000)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2014)</small>
+
+XVI. Ordenar a la Oficialía Mayor a solicitud de algún Diputado, la utilización de los medios audiovisuales o demás medios tecnológicos con que cuente el Recinto, para servir de apoyo a la exposición del orador.
 
 ###### Artículo 25.
 
@@ -469,11 +465,11 @@ Las comisiones son órganos de trabajo legislativo integradas por Diputados, que
 
 Las Comisiones serán las señaladas en el artículo 66 de la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 38.
 
-Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia del Órgano de Fiscalización Superior se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en su conjunto, exceptuando lo establecido en el segundo párrafo del artículo 67 de la Ley Orgánica del Poder Legislativo.
+Las Comisiones Permanentes de Dictamen Legislativo y la Comisión de Vigilancia se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en su conjunto, exceptuando lo establecido en el segundo párrafo del artículo 67 de la Ley Orgánica del Poder Legislativo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2001)</small>
 
@@ -489,11 +485,11 @@ a) Los relacionados con la extensión territorial y límites municipales;
 
 b) Las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado;
 
-c) Las renuncias y licencias del Titular del Poder Ejecutivo y de los Diputados;
+c) Las renuncias y licencias del Titular del Poder ejecutivo y de los Diputados;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-d) La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral, los Comisionados de la Comisión de Transparencia y Acceso a la Información y de los Magistrados del Tribunal Electoral del Estado;
+d) La designación de los Comisionados de la Comisión de Transparencia y Acceso a la Información del Estado;
 
 e) El establecimiento o supresión de municipalidades;
 
@@ -551,11 +547,11 @@ i) Las leyes orgánicas y reglamentarias de los dispositivos de la Constitución
 
 j) La expedición y reforma a la legislación civil, en su aspecto sustantivo y adjetivo;
 
-k) La designación de los Comisionados Ciudadanos a la Comisión Estatal Electoral;
+k) (DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
 l) Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las leyes emanadas de la misma;
 
-m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia de técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
+m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
 
 n) La expedición y reforma de disposiciones de carácter general que no estén comprendidas en la competencia de otra Comisión; y
 
@@ -571,9 +567,9 @@ a) La expedición y reforma de la legislación penal, en su aspecto sustantivo y
 
 b) La expedición y reforma de las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia;
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-c) Los nombramientos, licencias y renuncias de los Magistrados del Tribunal Superior de Justicia y de los Consejeros de la Judicatura del Estado; además de la aprobación para la designación del Presidente de la Comisión Estatal de Derechos Humanos, y su renuncia;
+c) La aprobación para la designación de los Magistrados del Tribunal de Justicia Administrativa para el Estado y Municipios;
 
 d) La aprobación para la designación de los Magistrados del Tribunal de lo Contencioso Administrativo del Estado;
 
@@ -595,9 +591,11 @@ j) La expedición y reforma de la legislación en materia de justicia para adole
 
 k) Por medio de su Presidente, participar en los trabajos de implementación sobre el sistema de justicia, que sean organizados por las diversas autoridades de gobierno, instituciones, o cualquier otro organismo, y
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+l) La expedición y reforma de las leyes en materia de responsabilidades de los servidores públicos y de la responsabilidad patrimonial de la administración pública, reglamentarias del Título VII de la Constitución Política del Estado; y
+
+m) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -619,9 +617,19 @@ g) Representar al Congreso ante los organismos e instancias de Derechos Humanos 
 
 h) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones;
 
-i) Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo; y
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+i) Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo;
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+j) Las iniciativas y asuntos relativos a los derechos y al mejoramiento de la calidad de vida de los indígenas del Estado;
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+k) Las iniciativas y asuntos relativos a la protección y derechos humanos de los niños, niñas y adolescentes del Estado; y
+
+l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
@@ -683,9 +691,9 @@ b) La legislación relativa al agua potable, saneamiento y tratamiento del agua,
 
 c) La legislación relativa a la protección de los animales;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-d) Lo referente al cumplimiento de la Ley de Ordenamiento Territorial de los Asentamiento (sic) Humanos y de Desarrollo Urbano, en lo concerniente al aspecto ambiental;
+d) Lo referente al cumplimiento a la Ley de Desarrollo Urbano y demás leyes, en lo concerniente al aspecto ambiental;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -735,7 +743,7 @@ c) Lo concerniente a los asuntos fronterizos del Estado que estimulen su desarro
 
 d) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2006)
 
-e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamientos del Estado y sus respectivos trabajadores;
+e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamiento del Estado y sus respectivos trabajadores;
 
 f) La legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios;
 
@@ -885,9 +893,9 @@ g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XVI.- Comisión Primera de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y, en su caso, aprobación de las cuentas públicas de Aramberri, Doctor Arroyo, Galeana, General Zaragoza, Guadalupe, Iturbide, Mier y Noriega y Monterrey, Nuevo León; y
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Aramberri, Doctor Arroyo, Galeana, General Zaragoza, Guadalupe, Iturbide, Mier y Noriega, y Monterrey, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -895,9 +903,9 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XVII.- Comisión Segunda de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de, Allende, Apodaca, Cadereyta, Jiménez, General Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago, Nuevo León; y
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Allende, Apodaca, Cadereyta Jiménez, General Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -905,9 +913,9 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XVIII.- Comisión Tercera de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios; así como la revisión y en su caso aprobación de las cuentas públicas de Anáhuac, Bustamante, General Escobedo, lampazos de Naranjo, Sabinas Hidalgo, San Nicolás de los Garza, Villecillo y Villaldama, Nuevo León; y
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Anáhuac, Bustamante, General Escobedo, Lampazos de Naranjo, Sabinas Hidalgo, San Nicolás de los Garza, Vallecillo y Villaldama, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -915,9 +923,9 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XIX.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de Aguascalientes, Cerralvo, China, Doctor Coss, Doctor González, General Bravo, General Treviño, Juárez, Los Aldama, Los Herreras, Los Ramones, Marín, Melchor Ocampo, parás, y Pesquería, Nuevo León; y
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Agualeguas, Cerralvo, China; Doctor Coss; Doctor González, General Bravo, General Treviño, Juárez, Los Aldamas, Los Herreras, Los Ramones, Marín, Melchor Ocampo, Parás y Pesquería, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -925,9 +933,9 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 XX.- Comisión Quinta de Hacienda y Desarrollo Municipal:
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santana Catarina, Nuevo León; y
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así como la revisión y en su caso aprobación de las cuentas públicas de los Municipios de Abasolo, El Carmen, Ciénega de Flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santa Catarina, Nuevo León, y la aprobación o rechazo de las propuestas de los valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria que presenten tales Ayuntamientos; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -968,6 +976,10 @@ Cuando algún miembro de cualquiera de las Comisiones tuviere interés en el asu
 ###### Artículo 46.
 
 El Presidente de cada Comisión es responsable de los expedientes turnados a ella para su estudio y a este efecto, deberá firmar el recibo de ellos en el libro de turno que llevará la Oficialía Mayor, cesando aquélla responsabilidad cuando los mismos sean devueltos a este órgano de soporte técnico.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Los expedientes que tengan el carácter de exhortos, que no sean dictaminados en el lapso de 365 días naturales podrán ser dados de baja mediante acuerdo emitido por la Comisión a la que fueron turnados y serán dados de baja por la Oficialía Mayor del listado de asuntos pendientes.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -1015,15 +1027,21 @@ En caso de aprobarse el Voto Particular, y éste contenga un resolutivo que modi
 
 En caso de no aprobarse el Voto Particular, se seguirá el procedimiento de deliberación del dictamen tal como lo establecen los Artículos 126 y 129 de este Reglamento, y se archivará en el expediente formado sobre la iniciativa materia del dictamen.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### Artículo 50.
 
-Las Comisiones podrán, por medio de su Presidente:
+Los Presidentes de las Comisiones podrán:
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 a) Pedir a cualquier oficina del Estado o Municipal, todas las instrucciones y exhibición de documentos que estimen convenientes para el despacho de los negocios que se les hayan turnado, y esas constancias deben serle proporcionadas, siempre que el asunto de que se trate no sea de los que deben conservarse en secreto. Cuando la solicitud respectiva no sea atendida, podrá el Presidente dirigirse al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia o al Ayuntamiento correspondiente;
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
 b) Solicitar por escrito a los Presidentes de las Comisiones de trabajo legislativo y Comités, cualquier información que obre en su poder y que sea necesaria para el desempeño de sus funciones, o
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
 c) Solicitar a los titulares de los Órganos de Soporte Técnico y de Apoyo del Congreso, que presenten por escrito las opiniones sobre los asuntos de su competencia que requieran para el desempeño de sus funciones.
 
@@ -1199,7 +1217,9 @@ XV.- Realizar, a través de su titular y por instrucciones del Presidente de la 
 
 XVI.- Estar a cargo del Tablero de Avisos del Congreso;
 
-XVII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2007)
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+XVII.- Recibir y hacer del conocimiento del Pleno, las propuestas para ocupar un cargo, derivadas de convocatoria pública que expida el Congreso conforme a las leyes. Para tal efecto, las mismas serán recibidas en días y horas hábiles. Serán hábiles los días de lunes a viernes, excepto los sábados y domingos y los días de asueto que establezca la Ley Federal del Trabajo; serán horas hábiles de las 9:00 a las 18:00 horas;
 
 XVIII.- Proveer el apoyo que se requiera para la organización y realización de las sesiones de trabajo de las Comisiones de Dictamen Legislativo;
 
@@ -1363,7 +1383,7 @@ X.- Mantener actualizada, en formato electrónico, en coordinación con la Ofici
 
 XI.- Asesorar a las autoridades competentes del Congreso del Estado en lo relativo a la celebración de convenios institucionales de intercambio de información legislativa en formato electrónico; y
 
-XII.- Proponer al área correspondiente, contenidos temáticos de informática para que sean incluidos en los cursos de capacitación del personal del Congreso.
+XII.- Proponer al área correspondiente, contenidos temáticos de informática para que sean incluidos en los cursos de capacitación de personal del Congreso.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1457,9 +1477,11 @@ XI.- Coordinar sus actividades con los demás órganos del Congreso para proveer
 
 Las sesiones del Congreso por su carácter serán Ordinarias y Extraordinarias y podrán tener las modalidades de Públicas, Secretas y Solemnes, y por acuerdo del Pleno cualquiera de ellas podrá constituirse en Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### Artículo 79.
 
-Serán Sesiones Ordinarias las que se celebren durante los períodos a que se refiere el Artículo 55 de la Constitución Política Local, y tendrán lugar a partir de las once horas los días lunes, martes y miércoles de cada semana, salvo acuerdo del Pleno en otro sentido.
+Serán Sesiones Ordinarias las que se celebren durante los períodos a que se refiere el Artículo 55 de la Constitución Política Local, y tendrán lugar a parir (sic) de las once horas los días lunes, martes y miércoles de cada semana, salvo los casos de día de asueto que señale la Ley Federal del Trabajo y el Convenio Laboral entre el Sindicato del personal del Congreso y las Autoridades Estatales correspondientes, o por acuerdo del Pleno en otro sentido.
 
 Serán Sesiones Extraordinarias las que se celebren en día distinto a los señalados en el párrafo anterior y deberán ser convocadas por el Presidente de la Directiva y a falta de este por quien deba sustituirlo de acuerdo al Artículo 21 del presente Reglamento.
 
@@ -1543,17 +1565,21 @@ Toda sesión se sujetará a un orden del día, que se aprobará previamente por 
 
 I.- Aprobación del acta de la sesión anterior;
 
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+II. Asuntos en cartera;
+
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2006)</small>
 
-II.- Presentación de iniciativas de ley o decreto por los Diputados, punto en el que se podrá dar lectura a la propuesta cuando su extensión no exceda de 5 páginas. En caso contrario se autorizará a leer únicamente una síntesis de la misma que deberá contener como máximo dicha extensión;
+III.- Presentación de iniciativas de ley o decreto por los Diputados, punto en el que se podrá dar lectura a la propuesta cuando su extensión no exceda de 5 páginas. En caso contrario se autorizará a leer únicamente una síntesis de la misma que deberá contener como máximo dicha extensión;
 
-III.- Informe de las Comisiones y de los Comités; y
+IV.- Informe de las Comisiones y de los Comités; y
 
-IV.- Asuntos Generales, punto en el que se concederá el uso de la palabra a los Diputados, en el orden en que lo soliciten.
+V.- Asuntos Generales, punto en el que se concederá el uso de la palabra a los Diputados, en el orden en que lo soliciten.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Se otorgará el uso de la palabra a los Diputados que inicien un tema, hasta por diez minutos. A los oradores que utilicen la Tribuna para hablas a favor o en contra en este punto del orden del día, incluyendo las subsecuentes intervenciones del Diputado que dio inicio al tema, tendrán un tiempo límite de hasta cinco minutos cada uno.
+Se otorgará el uso de la palabra a los Diputados que inicien un tema, hasta por diez minutos. A los oradores que utilicen la Tribuna para hablar a favor o en contra en este punto del orden del día, incluyendo las subsecuentes intervenciones del Diputado que dio inicio al tema, tendrán un tiempo límite de hasta cinco minutos cada uno. Los Diputados, durante sus intervenciones, podrán solicitar al Presidente de la Directiva el uso de medios gráficos o audiovisuales.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2006)</small>
 
@@ -1643,9 +1669,11 @@ Las iniciativas a que se refiere el artículo anterior, deberán presentarse por
 
 Las iniciativas que presenten los Diputados o cualquier autoridad pública en el Estado, deberán acompañarse además en archivo electrónico, incluyendo los anexos que contenga. Será potestativo para el ciudadano acompañar a su iniciativa la versión en archivo electrónico de la misma.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### Artículo 104.
 
-Las iniciativas formuladas por los Poderes Ejecutivo y Judicial o por cualquier Diputado de la Legislatura del Estado y las que dirigiere algún Ayuntamiento sobre asuntos privados de su Municipalidad, pasarán desde luego a la comisión respectiva. Todas las demás se considerarán en forma debida por la Asamblea y podrán ser desechadas desde que se dé cuenta de ellas, si fuese evidente su improcedencia.
+Las iniciativas formuladas por los ciudadanos mexicanos residentes en el Estado, los Poderes Ejecutivo y Judicial o por cualquier Diputado de la Legislatura y las que dirigiere algún Ayuntamiento sobre asuntos privados de su municipalidad, pasarán desde luego a la comisión respectiva. Todas las demás se considerarán en forma debida por la Asamblea y podrán ser desechadas desde que se dé cuenta de ellas, si fuese evidente su improcedencia.
 
 ###### Artículo 105.
 
@@ -1914,6 +1942,10 @@ IV.- A continuación los Secretarios computarán los votos y comunicarán el res
 ###### Artículo 138.
 
 La votación por Cédula, se llevará a cabo mediante boletas individuales que la Secretaría entregará a los Diputados asistentes, en ella éstos anotarán el sentido en que voten. El Secretario pasará lista de los Diputados asistentes quienes depositarán su boleta en una ánfora transparente colocada para el efecto. El Secretario recogerá del ánfora las boletas sin verlas, posteriormente los Secretarios harán el conteo dando a conocer en voz alta el sentido del voto, haciendo constar el resultado.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Las boletas, previamente impresas, contendrán tres opciones de votación: a favor, en contra, y en abstención; cada una con un renglón frente al respectivo texto, en el que el Diputado ejercerá el sentido de su voto.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -2384,3 +2416,7 @@ P.O. 2 DE ABRIL DE 2012.
 P.O. 23 DE ENERO DE 2013.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2014.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
