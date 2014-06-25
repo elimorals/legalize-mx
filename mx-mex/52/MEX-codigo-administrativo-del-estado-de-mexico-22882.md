@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-05-14"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JUNIO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -79,7 +79,7 @@ XII. Adquisiciones, enajenaciones, arrendamientos y servicios;
 
 > <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
 
-XIII. Información e investigación geográfica, estadística y catastral; y (sic)
+XIII. Información e investigación geográfica, estadística y catastral; y
 
 > <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -1835,7 +1835,7 @@ IV. Centros nocturnos y cabarets, de las 20:00 a las 02:00 horas del día siguie
 
 > <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-V. Bailes públicos, de las 17:00 a las 02:00 horas del día siguiente; y (sic)
+V. Bailes públicos, de las 17:00 a las 02:00 horas del día siguiente; y
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -2503,7 +2503,7 @@ II. Con multa equivalente de cincuenta a quinientas veces el salario mínimo gen
 
 (REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
-III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55; y (sic)
+III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55; y
 
 (REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2523,7 +2523,7 @@ I. Con multa equivalente de doscientos cincuenta a quinientas veces de salario m
 
 II. Con multa equivalente de dos mil a dos mil quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción y la suspensión definitiva, por el incumplimiento a lo dispuesto en la fracción V del artículo 2.47 Bis;
 
-III. Con multa equivalente de quinientas a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en el artículo 2.37 Ter; y (sic)
+III. Con multa equivalente de quinientas a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en el artículo 2.37 Ter; y
 
 IV. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en los artículos 2.37 Bis y 2.47 Ter primer párrafo.
 
@@ -4051,7 +4051,7 @@ III. Obtener los documentos que acrediten los términos de su contratación, y e
 
 IV. Recibir los servicios sin ser discriminado;
 
-V. No se considerarán discriminatorias, las tarifas y precios para el uso, consumo o disfrute de los bienes o servicios ofertados, ni los requisitos de edad e las restricciones para el uso de instalaciones turísticas, cuando sean de carácter general y guarden relación directa con la especialización que el prestador de servicios turísticos decida otorgar, y siempre que las mismas no sean violatorias de otras leyes. (DR)IJ (sic)
+V. No se considerarán discriminatorias, las tarifas y precios para el uso, consumo o disfrute de los bienes o servicios ofertados, ni los requisitos de edad e las restricciones para el uso de instalaciones turísticas, cuando sean de carácter general y guarden relación directa con la especialización que el prestador de servicios turísticos decida otorgar, y siempre que las mismas no sean violatorias de otras leyes. (DR)IJ
 
 VI. Contar con las condiciones de higiene y seguridad de su persona y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente; y
 
@@ -4175,7 +4175,7 @@ h) Derechos de los habitantes al suelo urbano, a la vivienda, a la calidad de vi
 
 3.- Para los efectos de este Libro, se entenderá como:
 
-I. Áreas de Conservación Patrimonial y Cultural: Las que por sus características forman parte del patrimonio cultural y del entorno, así como las que cuenten con declaratoria federal de zona de monumentos históricos, arqueológicas (sic) o artísticos;
+I. Áreas de Conservación Patrimonial y Cultural: Las que por sus características forman parte del patrimonio cultural y del entorno, así como las que cuenten con declaratoria federal de zona de monumentos históricos, arqueológicas o artísticos;
 
 II. Áreas Urbanas: Las previstas en los planes de desarrollo urbano, constituidas por zonas edificadas parcial o totalmente, en donde existen al menos estructura vial y servicios de agua potable, drenaje y energía eléctrica, sin perjuicio de que coexistan con predios baldíos o carentes de servicios;
 
@@ -4373,7 +4373,7 @@ i) Cualquier otra que requiera autorización.
 
 V. Establecer políticas específicas para la autorización de conjuntos urbanos de carácter habitacional, en función de la demanda y de las políticas de ordenamiento territorial señaladas en los planes de desarrollo urbano;
 
-VI. Supervisar la ejecución de las obras de urbanización, infraestructura y equipamiento urbano de conjuntos urbanos, subdivisiones y condominios, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y demás ordenamientos jurídicos aplicables, en aquellos casos en que dicha facultad no esté específicamente atribuida a otra dependencia u organismos (sic) auxiliar del ámbito federal, estatal o municipal;
+VI. Supervisar la ejecución de las obras de urbanización, infraestructura y equipamiento urbano de conjuntos urbanos, subdivisiones y condominios, de conformidad con lo que establezcan las disposiciones reglamentarias del presente Libro y demás ordenamientos jurídicos aplicables, en aquellos casos en que dicha facultad no esté específicamente atribuida a otra dependencia u organismos auxiliar del ámbito federal, estatal o municipal;
 
 VII. Coordinar la entrega-recepción a los municipios y a las autoridades estatales competentes, de las áreas de donación y de las obras de urbanización, infraestructura primaria y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios;
 
@@ -5045,7 +5045,7 @@ b) Construir las obras de infraestructura, urbanización y equipamiento urbano, 
 
 Tratándose de obras de equipamiento urbano regional, el titular de la autorización podrá cumplir con dicha obligación, mediante el depósito de su valor económico al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional, de conformidad con lo que establezcan las disposiciones reglamentarias de este Libro.
 
-La realización de estas obras se hará del conocimiento público de conformidad con lo que establezca (sic) los proyectos ejecutivos, las memorias de cálculo y lo que corresponda de acuerdo con la normatividad aplicable;
+La realización de estas obras se hará del conocimiento público de conformidad con lo que establezca los proyectos ejecutivos, las memorias de cálculo y lo que corresponda de acuerdo con la normatividad aplicable;
 
 c) Instalar un medidor electrónico de consumo para determinar el volumen del suministro de agua por cada unidad privativa que se ubique en el conjunto urbano autorizado;
 
@@ -5081,7 +5081,7 @@ p) Las demás que establezcan otras disposiciones legales aplicables.
 
 XI. Serán solidariamente responsables del cumplimiento de las obligaciones previstas en este Libro, su reglamentación y en la autorización:
 
-a) El titular de la autorización del conjunto urbano y el propietario del terreno, cuando sean personas distintas, así como sus causahabientes; y (sic)
+a) El titular de la autorización del conjunto urbano y el propietario del terreno, cuando sean personas distintas, así como sus causahabientes; y
 
 b) En el caso de fideicomisos, el fideicomitente y la fiduciaria en lo que corresponda.
 
@@ -6497,7 +6497,7 @@ IX. Someter los vehículos a la revisión físico-mecánica con la periodicidad 
 
 X. Mantener los vehículos y servicios auxiliares o conexos en condiciones de seguridad, comodidad e higiene para el servicio;
 
-XI. Obtener las inscripciones en el Registro Estatal de Transporte, conforme a los (sic) dispuesto en este Libro y su reglamentación;
+XI. Obtener las inscripciones en el Registro Estatal de Transporte, conforme a los dispuesto en este Libro y su reglamentación;
 
 XII. Solicitar autorización previa de la Secretaría de Transporte para sustituir el vehículo o vehículos con que se presta el servicio;
 
@@ -6517,7 +6517,7 @@ XIX. Tratándose de los concesionarios del servicio público de transporte de pa
 
 XX. En la prestación del transporte de pasajeros en las modalidades de colectivo, individual y mixto, entregar boleto o comprobante autorizado por la Secretaría de Transporte a través del Instituto del Transporte;
 
-XXI. En la prestación del servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y del servicio auxiliar de arrastre y traslado, entregar factura fiscal por la prestación del mismo; y (sic)
+XXI. En la prestación del servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y del servicio auxiliar de arrastre y traslado, entregar factura fiscal por la prestación del mismo; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE AGOSTO DE 2011)</small>
 
@@ -6641,7 +6641,9 @@ VI. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derech
 
 VII. Modificar o alterar sustancialmente la naturaleza o condiciones de los servicios sin previa autorización;
 
-VIII. Prestar servicios distintos a los señalados en la concesión o permiso respectivo;
+> <small>(REFORMADA, G.G. 25 DE JUNIO DE 2014)</small>
+
+VIII. Prestar servicios distintos a los señalados en la concesión o permiso o sin la cromática respectiva para los concesionarios, y que la misma sea reproducida y utilizada por vehículos concesionados en una modalidad o tipo diferente, según la normatividad administrativa en bases y derroteros autorizados;
 
 IX. No otorgar o no mantener en vigor la garantía de daños contra terceros;
 
@@ -7049,7 +7051,7 @@ Las especificaciones para los equipos de salvamento y arrastre quedarán estable
 
 ###### Artículo 7.
 
-59.- Únicamente podrán prestar los servicios con grúas con capacidad de 3,500 kilogramos como mínimo de carga o doble rodada, queda prohibido el uso de equipos de (sic) levante como garruchas, poleas o polipastos.
+59.- Únicamente podrán prestar los servicios con grúas con capacidad de 3,500 kilogramos como mínimo de carga o doble rodada, queda prohibido el uso de equipos de levante como garruchas, poleas o polipastos.
 
 La capacidad máxima de arrastre o traslado por tipo de grúa estará en función del peso bruto vehicular especificado por el fabricante, así como el peso vehicular incluyendo la grúa o plataforma y el peso del vehículo por arrastrar o trasladar.
 
@@ -7391,7 +7393,9 @@ Las sanciones anteriores se impondrán cuando para la infracción cometida no ex
 
 84.- La multa prevista en el artículo anterior, se impondrá por los montos e infracciones siguientes:
 
-I. Multa de quinientas a dos mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente;
+> <small>(REFORMADA, G.G. 25 DE JUNIO DE 2014)</small>
+
+I. Multa de quinientas a dos mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente o sin la cromática respectiva para los concesionarios, y que la misma sea reproducida y utilizada por vehículos no concesionados;
 
 II. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien modifique o altere las tarifas, itinerarios, horarios y no contar con un seguro de viajero o cualquier otra transgresión a las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores;
 
@@ -11619,7 +11623,7 @@ II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de s
 
 III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
 
-IV.- Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -13615,7 +13619,7 @@ VI. Efectuar el cobro de los derechos que señale la ley, entre otros, por la ex
 
 > <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
-VII. Proporcionar servicios técnicos a terceros, cuando le sean solicitados, para la realización de obras de infraestructura vial; y (sic)
+VII. Proporcionar servicios técnicos a terceros, cuando le sean solicitados, para la realización de obras de infraestructura vial; y
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -13741,7 +13745,7 @@ XV. Adquirir en forma directa o a través de terceros los inmuebles necesarios p
 
 XVI. Proporcionar en el ámbito de su competencia asesoría a los municipios que lo soliciten;
 
-XVII. Coadyuvar con las concesionarias en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones, autorizaciones y permisos, relacionados con la materia de su competencia; y (sic)
+XVII. Coadyuvar con las concesionarias en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones, autorizaciones y permisos, relacionados con la materia de su competencia; y
 
 > <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2013)</small>
 
@@ -15135,7 +15139,7 @@ La imposición y cumplimiento de las sanciones no exime al infractor de la oblig
 
 I. Multa de entre 10 a 250 días de salario mínimo general vigente en el municipio que corresponda, cuando:
 
-A) Se obstaculicen las funciones de los verificadores o no muestre a su solicitud la licencia otorgada, así como los planos y memoria (sic) calculo autorizados;
+A) Se obstaculicen las funciones de los verificadores o no muestre a su solicitud la licencia otorgada, así como los planos y memoria calculo autorizados;
 
 B) Se ocupe la vía pública con materiales de cualquier naturaleza, sin contar con la licencia de construcción correspondiente;
 
@@ -15907,7 +15911,7 @@ SÉPTIMO.- El Sistema Único de Gestión Empresarial seguirá funcionando en los
 
 OCTAVO.- El Ejecutivo Estatal publicará el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios, dentro de los sesenta días naturales siguientes a la entrada en vigor de la presente Ley.
 
-NOVENO.- En tanto se expida el nuevo Reglamento, se aplicarán las disposiciones reglamentarias vigentes en lo que no se oponga a los (sic) establecido en el presente Decreto.
+NOVENO.- En tanto se expida el nuevo Reglamento, se aplicarán las disposiciones reglamentarias vigentes en lo que no se oponga a los establecido en el presente Decreto.
 
 G.G. 23 DE SEPTIEMBRE DE 2010.
 
@@ -15951,7 +15955,7 @@ G.G. 12 DE OCTUBRE DE 2010.
 
 ###### ARTÍCULO PRIMERO.
 
-Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno" del Estado de México.
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -16149,7 +16153,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día 1° de enero de 2012.
 
 TERCERO.- Se ratifican las retenciones efectuadas al amparo de los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, por el periodo de enero de 2010 a diciembre de 2011.
 
-CUARTO.- El Registro Estatal de Especialistas en Valuación y en Levantamiento Topográfico Catastral se creará dentro de (sic) plazo de un año contado a partir de la entrada en vigor del presente Decreto; mientras tanto, para los efectos del artículo 390 segundo párrafo, se estará a lo dispuesto en el segundo párrafo del artículo 410 del presente Código, hasta en tanto se establezca el citado Registro.
+CUARTO.- El Registro Estatal de Especialistas en Valuación y en Levantamiento Topográfico Catastral se creará dentro de plazo de un año contado a partir de la entrada en vigor del presente Decreto; mientras tanto, para los efectos del artículo 390 segundo párrafo, se estará a lo dispuesto en el segundo párrafo del artículo 410 del presente Código, hasta en tanto se establezca el citado Registro.
 
 QUINTO.- En los casos en que este Código y otras disposiciones legales refieran al Impuesto Sobre Tenencia o Uso de Vehículos Automotores (ISTUVA), se entenderá que se refiere al Impuesto contenido en la Sección Segunda del Capítulo Primero del Título Tercero de este Código.
 
@@ -16347,7 +16351,7 @@ El Ejecutivo del Estado, expedirá dentro de los 90 días hábiles siguientes a 
 
 ###### ARTÍCULO SEXTO.
 
-Los Reglamentos, planes y programas a que se refiere la presente Ley, se realizarán y aprobarán en un plazo de seis meses contados (sic) partir de su entrada en vigor.
+Los Reglamentos, planes y programas a que se refiere la presente Ley, se realizarán y aprobarán en un plazo de seis meses contados partir de su entrada en vigor.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -16367,7 +16371,7 @@ Los permisos, autorizaciones o licencias concedidas hasta antes de la entrada en
 
 G.G. 11 DE OCTUBRE DE 2012.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del (sic) "Gaceta del Gobierno".
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -16712,3 +16716,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 25 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
