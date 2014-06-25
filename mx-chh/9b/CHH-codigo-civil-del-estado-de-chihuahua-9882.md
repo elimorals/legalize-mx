@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2014-03-29"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE MARZO DE 2014 NO APLICA AL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 1307/2013 II P.O., PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -6233,9 +6231,17 @@ Si el testador retira el testamento porque lo revoca, deberá informarlo así al
 
 ### CAPITULO IV. DEL TESTAMENTO PUBLICO SIMPLIFICADO
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-1455.- Testamento público simplificado es el que se refiere a un determinado inmueble destinado o que vaya a destinarse a vivienda por el adquirente y que se otorga ante Notario, en la misma escritura que consigne su adquisición, o en la que se consigne la regularización que lleven a cabo las autoridades del Estado o de los municipios de la entidad, o cualquier dependencia u organismo públicos, aún los desconcentrados o descentralizados, o en acto posterior, de conformidad con lo dispuesto en este Capítulo.
+1455.- Testamento público simplificado es el que se refiere a un determinado inmueble y que se otorga ante Notario, en la misma escritura en que se formalice su adquisición, o en el documento en el que se consigne su regularización, que lleven a cabo las autoridades de la Administración Pública federal, estatal y municipal, o cualquier dependencia u organismos públicos, aun los desconcentrados o descentralizados, o en acto posterior, de conformidad con lo dispuesto en este Capítulo y el acuerdo que emita el Poder Ejecutivo, por conducto de la Dirección del Registro Público de la Propiedad y del Notariado.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+En el caso de solares urbanos y parcelas con dominio pleno, segregados a consecuencia de la delimitación y asignación de tierras ejidales, el Poder Ejecutivo, en coordinación con el Registro Agrario Nacional o la Procuraduría Agraria, en base al convenio de colaboración que celebren para tal efecto y cuando así lo estimen conveniente, podrán tomar nota pública del otorgamiento del testamento simplificado, ya sea en el acto en que sea individualizado y expedido el título del solar urbano o parcela con dominio pleno de que se trate, o en acto posterior cuando así lo solicite el ejidatario o cualquier sujeto de derecho agrario interesado.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Cuando el testamento simplificado sea otorgado con posterioridad a la emisión del título de propiedad, la autoridad que reciba el testamento levantará el acta correspondiente, donde asentará la voluntad del testador, así como sus datos generales, huella digital y firma; de igual forma, llevará el registro de los mismos en el libro de testamentos que para tal efecto autorice la Dirección el (sic) Registro Público de la Propiedad y del Notariado y proporcionará el aviso correspondiente, lo anterior de conformidad con lo dispuesto por los artículos 52 y 83 de la Ley del Notariado del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -12922,6 +12928,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 18 DE DICIEMBRE DE 2013.
 
 DECRETO NÚMERO 1345/2013 XII P.E. POR EL QUE SE REFORMA EL ARTÍCULO 2176 DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
