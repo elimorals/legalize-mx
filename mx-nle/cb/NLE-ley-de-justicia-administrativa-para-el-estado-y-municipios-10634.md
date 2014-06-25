@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2013-04-12"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -2607,12 +2607,6 @@ Las copias certificadas de constancias jurisdiccionales, obtenidas del Tribunal 
 
 Los registros electrónicos generados y publicados en el Tribunal Virtual Administrativo, harán fe una vez cotejados los mismos con los que obren en el expediente electrónico del cual se refiera haber sido obtenidos por el oferente.
 
-(NOTA: EL 1 DE ABRIL DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 79/2013, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL, EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE SEÑALAMIENTO DE LA AUTORIDAD COMPETENTE PARA IMPONER SANCIONES POR RESPONSABILIDAD ADMINISTRATIVA A LOS MAGISTRADOS DE LOS TRIBUNALES DE JUSTICIA ADMINISTRATIVA MUNICIPAL Y A SUS SERVIDORES PÚBLICOS ADSCRITOS, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERIODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN QUE INICIA EL PRIMERO DE MARZO Y TERMINA EL PRIMERO DE JUNIO DE DOS MIL CATORCE, Y SURTIÓ EFECTOS EL 2 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
-
-CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2013)</small>
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO MUNICIPAL
@@ -2697,13 +2691,7 @@ I. Padecer incapacidad física o mental que imposibilite el desempeño de sus fu
 
 II. La renuncia;
 
-(NOTA: EL 1 DE ABRIL DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 79/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
-
-CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-III. LA DESIGNACIÓN DE OTRO EN SU LUGAR;
+III. (DEROGADA, P.O. 25 DE JUNIO DE 2014)
 
 IV. Haber desempeñado su cargo durante 10 años; y
 
@@ -2732,6 +2720,10 @@ Ante la falta definitiva de cualquiera de los Magistrados, se procederá conform
 ###### Artículo 186.
 
 Al Tribunal de Justicia Administrativa Municipal, le es aplicable todo lo previsto en la presente Ley, respecto a la organización, atribuciones y funcionamiento del Tribunal de Justicia Administrativa del Estado de Nuevo León, en cuanto sea de su competencia y que no se oponga a lo previsto en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+En relación a las responsabilidades de los Magistrados y del Personal del Tribunal de Justicia Administrativa Municipal, se estará a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
 Las atribuciones de la Sala Superior del Tribunal Estatal, las de su Presidente, y las de los Magistrados que la integran, señaladas en esta Ley, serán las que respectivamente correspondan y sean compatibles en la Sala Ordinaria Colegiada Municipal.
 
@@ -2865,10 +2857,8 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- En las leyes a que se haga referencia a la Ley de Justicia Administrativa para el Estado de Nuevo León, se entenderá que se refiere a la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
-(NOTA: EL 1 DE ABRIL DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 79/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TERCERO TRANSITORIO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+TERCERO.- (DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+P.O. 25 DE JUNIO DE 2014.
 
-CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-TERCERO.- En los supuestos en que el Municipio decida ya no contar con un Tribunal Municipal se deberá notificar al Congreso del Estado de Nuevo León, A EFECTO DE INFORMAR EL MAGISTRADO DESIGNADO COMO RESPONSABLE DE CONCLUIR LOS ASUNTOS EN TRÁMITE RECIBIDOS HASTA ANTES DEL ACUERDO DE SU EXTINCIÓN.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
