@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2014-06-11"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -155,7 +155,9 @@ I. Almacenamiento: El depósito temporal de residuos, con carácter previo a su 
 
 II. Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley;
 
-III. Comisión: la Comisión Estatal del Agua y Medio Ambiente;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+III. Secretaría: la Secretaría de Desarrollo Sustentable;
 
 IV. Compostaje: Tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
 
@@ -207,9 +209,11 @@ XXVII. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defen
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 8.
 
-Corresponde al Ejecutivo Estatal, a través de la Comisión Estatal de Agua y Medio Ambiente, las siguientes atribuciones:
+Corresponde al Ejecutivo Estatal, a través de la Secretaría, las siguientes atribuciones:
 
 I. La formulación y conducción de la política de residuos sólidos del Estado de Morelos;
 
@@ -263,15 +267,17 @@ XXIV. Promover de acuerdo a su competencia la integración, operación y funcion
 
 XXV. Elaborar, difundir y aplicar programas mediante los cuales se dé a conocer a la población del Estado, sobre los efectos que genera la utilización de plásticos no biodegradables, con el fin de reducir el consumo de bolsas, envases, embalajes o empaques no biodegradables;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-XXVI. Vigilar que la producción y el consumo de productos plásticos se sujeten a los criterios de sustentabilidad, que establezca para tal efecto la Comisión en su reglamento.
+XXVI. Vigilar que la producción y el consumo de productos plásticos se sujeten a los criterios de sustentabilidad, que establezca para tal efecto la Secretaría.
 
 ###### ARTÍCULO 9.
 
 Corresponde a los Gobiernos Municipales el ejercicio de las siguientes atribuciones:
 
-I. La formulación, conducción y evaluación de la política de residuos sólidos en el ámbito Municipal con base en la política que expida el Ejecutivo Estatal, a través de su órgano responsable que en este caso será la Comisión Estatal de Agua y Medio Ambiente
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+I. La formulación, conducción y evaluación de la política de residuos sólidos en el ámbito Municipal con base en la política que expida el Ejecutivo Estatal, a través de su instancia responsable que en este caso será la Secretaría;
 
 II. La aplicación de los instrumentos de política de residuos sólidos, en el ámbito de su competencia;
 
@@ -329,9 +335,11 @@ El Ejecutivo Estatal y los Municipios, en el marco de su competencia, instrument
 
 ### CAPÍTULO III. DE LA COORDINACIÓN Y DE LOS ORGANISMOS OPERADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
-La Comisión, podrá suscribir convenios o acuerdos de coordinación con la Federación y ésta a su vez con sus Municipios para asumir las siguientes facultades:
+La Secretaría podrá suscribir Convenios o Acuerdos de coordinación con la Federación y ésta a su vez con sus Municipios para asumir las siguientes facultades:
 
 I. Autorizar y llevar a cabo el control de los residuos peligrosos generados o manejados por microgeneradores;
 
@@ -339,9 +347,11 @@ II. Autorizar y controlar las actividades realizadas por los microgeneradores de
 
 III. Establecer y actualizar los registros que correspondan en los casos anteriores e imponer las sanciones aplicables, relacionadas con los actos a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 12.
 
-La Comisión podrá suscribir con la Federación, otros Estados y los Ayuntamientos, convenios de colaboración administrativa respecto de programas en materia de residuos sólidos urbanos y de manejo especial con la participación responsable de grupos y organizaciones sociales, públicas o privadas, siempre que se asegure la capacidad técnica, económica y operativa.
+La Secretaría podrá suscribir con la Federación, otros Estados y los Ayuntamientos, Convenios de Colaboración Administrativa respecto de Programas en materia de residuos sólidos urbanos y de manejo especial con la participación responsable de grupos y organizaciones sociales, públicas o privadas, siempre que se asegure la capacidad técnica, económica y operativa.
 
 ###### ARTÍCULO 13.
 
@@ -363,9 +373,11 @@ Los Municipios del Estado, previo convenio entre sus Ayuntamientos, se podrán c
 
 Convenio que surtirá sus efectos a partir de la publicación en el Periódico Oficial Tierra y Libertad, órgano informativo del Gobierno del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 15.
 
-Posteriormente al convenio entre los Ayuntamientos, estos deberán celebrar convenio con la Comisión, en el que se establezca que con el carácter de intermunicipal, proporcionarán, el o los servicios de limpia, recolección, acopio, almacenamiento, traslado, tratamiento y disposición final.
+Posteriormente al Convenio entre los Ayuntamientos, éstos deberán celebrar Convenio con la Secretaría, en el que se establezca que con el carácter de intermunicipal, proporcionarán, el o los servicios de limpia, recolección, acopio, almacenamiento, traslado, tratamiento y disposición final.
 
 ###### ARTÍCULO 16.
 
@@ -377,9 +389,11 @@ II. Que su objeto derive de la falta de capacidad para proporcionar el servicio,
 
 III. Que la organización y operación del organismo público que se constituya, se sujete a lo establecido en la presente Ley.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-Los convenios mencionados en este Capítulo, previa aprobación del Congreso, podrán ser de vigencia indefinida y sólo podrán darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de fuerza mayor y previa la celebración del convenio respectivo con la Comisión, una vez que el Ayuntamiento así lo determine en la sesión de Cabildo respectiva.
+Los Convenios mencionados en este Capítulo, previa aprobación del Congreso, podrán ser de vigencia indefinida y sólo podrán darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de fuerza mayor y previa la celebración del convenio respectivo con la Secretaría, una vez que el Ayuntamiento así lo determine en la sesión de Cabildo respectiva.
 
 ###### ARTÍCULO 18.
 
@@ -401,9 +415,11 @@ El organismo operador regirá su funcionamiento conforme al reglamento interior 
 
 ### CAPÍTULO IV. PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 22.
 
-El Ejecutivo del Estado de Morelos, a través de la Comisión, y los Municipios, en la esfera de su competencia, promoverán la participación de todos los sectores de la sociedad en la prevención de la generación, la valorización y gestión integral de residuos, previendo lo establecido en los ordenamientos vigentes aplicables, para lo cual:
+El Ejecutivo del Estado de Morelos, a través de la Secretaría, y los Municipios, en la esfera de su competencia, promoverán la participación de todos los sectores de la sociedad en la prevención de la generación, la valorización y gestión integral de residuos, previendo lo establecido en los ordenamientos vigentes aplicables, para lo cual:
 
 I. Fomentarán y apoyarán la conformación, consolidación y operación de grupos intersectoriales interesados en participar en el diseño e instrumentación de políticas y programas correspondientes, así como para prevenir la contaminación de sitios con materiales y residuos y llevar a cabo su remediación;
 
@@ -419,15 +435,17 @@ V. Promoverán el reconocimiento a los esfuerzos más destacados de la sociedad 
 
 VI. Se prohíbe a los establecimientos mercantiles, así como a los comerciantes ambulantes, otorgar bolsas de plástico que no estén sujetas a las bases de producción y consumo sustentable.
 
-Sólo se podrán utilizar bolsas de plástico que reúnan los estándares tecnológicos para su degradación, que para tal efecto establezca la Comisión en su Reglamento.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Sólo se podrán utilizar bolsas de plástico que reúnan los estándares tecnológicos para su degradación, que para tal efecto establezca la Secretaría.
 
 ###### ARTÍCULO 23.
 
 El Ejecutivo del Estado de Morelos y los Municipios, integrarán órganos de consulta en los que participen entidades y dependencias de la administración pública, instituciones académicas, organizaciones sociales y empresariales que tendrán funciones de asesoría, evaluación y seguimiento en materia de la política de prevención y gestión integral de los residuos y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento, se sujetarán a las disposiciones que para tal efecto se expidan; así como a los ordenamientos vigentes.
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Así mismo, el Ejecutivo del Estado a través de la Comisión, consultará a los investigadores, productores, distribuidores y demás sectores involucrados, sobre los criterios para la producción y el consumo sustentable de productos plásticos, tales como bolsas, envases, embalajes y materiales para empaques, los cuales deberán atender a las características específicas requeridas para cada producto, vigilando que sus cualidades sean biodegradables, para su autorización al mercado.
+Así mismo, el Ejecutivo del Estado a través de la Secretaría, consultará a los investigadores, productores, distribuidores y demás sectores involucrados, sobre los criterios para la producción y el consumo sustentable de productos plásticos, tales como bolsas, envases, embalajes y materiales para empaques, los cuales deberán atender a las características específicas requeridas para cada producto, vigilando que sus cualidades sean biodegradables, para su autorización al mercado.
 
 ### CAPÍTULO V. DE LA POLÍTICA DE RESIDUOS SÓLIDOS
 
@@ -481,9 +499,11 @@ En la planeación de la política de Residuos sólidos y la realización de las 
 
 #### SECCIÓN II. DE LOS PROGRAMAS SOBRE RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 26.
 
-La Comisión, en coordinación con las autoridades competentes, elaborará el programa de manejo de residuos Sólidos del Estado de Morelos, el cual deberá contener los objetivos, criterios, lineamientos, estrategias y metas de la gestión de residuos sólidos. Así mismo, los Municipios elaborarán el programa municipal correspondiente, con base en el programa de manejo en la materia expedido por el Ejecutivo Estatal, incluyendo los lineamientos particulares y específicos de cada municipio.
+La Secretaría, en coordinación con las autoridades competentes, elaborará el Programa de manejo de residuos sólidos del Estado de Morelos, el cual deberá contener los objetivos, criterios, lineamientos, estrategias y metas de la gestión de residuos sólidos. Así mismo, los Municipios elaborarán el Programa Municipal correspondiente, con base en el Programa de Manejo en la materia expedido por el Ejecutivo Estatal, incluyendo los lineamientos particulares y específicos de cada Municipio.
 
 La elaboración de los programas se sujetará a lo establecido en el Artículo 26 de la ley general de residuos.
 
@@ -491,9 +511,11 @@ Las autoridades competentes promoverán la participación de la sociedad y los d
 
 #### SECCIÓN III. PLANES DE MANEJO
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 27.
 
-El ejecutivo estatal a través de la comisión en coordinación con los ayuntamientos y respetando el ámbito de su competencia, promoverá la elaboración de Planes de manejo correspondientes a los generadores obligados.
+El Ejecutivo Estatal, a través de la Secretaría en coordinación con los Ayuntamientos y respetando el ámbito de su competencia, promoverá la elaboración de Planes de manejo correspondientes a los generadores obligados.
 
 ###### ARTÍCULO 28.
 
@@ -599,15 +621,19 @@ XI. La promoción de la cultura, la educación continua y capacitación en mater
 
 El Ejecutivo Estatal y los Municipios sistematizarán y pondrán a disposición del público la información obtenida en el ejercicio de sus funciones vinculadas a la gestión de los residuos sólidos, sin perjuicio de la debida reserva de aquella información protegida por las Leyes en la Materia.
 
-Así mismo, remitirán a la Comisión un informe anual sobre el manejo integral de los residuos sólidos generados por las actividades comprendidas en el ámbito de su competencia, considerando todas las operaciones y procesos adoptados de acuerdo a lo establecido en la presente Ley.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+Así mismo, remitirán a la Secretaría un informe anual sobre el manejo integral de los residuos sólidos generados por las actividades comprendidas en el ámbito de su competencia, considerando todas las operaciones y procesos adoptados de acuerdo a lo establecido en la presente Ley.
 
 ###### ARTÍCULO 41.
 
 El Ejecutivo del Estado y los Municipios, en el ámbito de sus competencias, elaborarán y difundirán informes periódicos, sobre los aspectos relevantes contenidos en los sistemas de información a los que se hace referencia en el presente capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 42.
 
-El Ejecutivo del Estado y los Municipios, en el ámbito de sus competencias, elaborarán, actualizarán y difundirán los inventarios de generación residuos sólidos urbanos, de acuerdo con sus atribuciones respectivas, para lo cual se basarán en los datos que les sean proporcionados por los generadores y las empresas de servicios de manejo de residuos, conforme a lo dispuesto en la presente Ley y en los ordenamientos jurídicos que de ella deriven, así como de la Ley General y los datos proporcionados por la Comisión.
+El Ejecutivo del Estado y los Municipios, en el ámbito de sus competencias, elaborarán, actualizarán y difundirán los inventarios de generación residuos sólidos urbanos, de acuerdo con sus atribuciones respectivas, para lo cual se basarán en los datos que les sean proporcionados por los generadores y las empresas de servicios de manejo de residuos, conforme a lo dispuesto en la presente Ley y en los ordenamientos jurídicos que de ella deriven, así como de la Ley General y los datos proporcionados por la Secretaría.
 
 Además, elaborarán un registro de los sitios donde se han abandonado clandestinamente residuos de diferente índole en cada municipio, en los cuales se asienten datos acerca de su ubicación, el origen, características y otros elementos de información que sean útiles a las autoridades, para desarrollar medidas tendientes para su remediación.
 
@@ -615,9 +641,11 @@ Además, elaborarán un registro de los sitios donde se han abandonado clandesti
 
 Los responsables del transporte, plantas de transferencia, tratamiento y/o de disposición final de Residuos sólidos deberán presentar mensualmente a la autoridad correspondiente un informe sobre los servicios prestados.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 44.
 
-La Comisión está facultada para solicitar a la autoridad federal competente toda la información sobre el manejo y transporte de residuos peligrosos en el territorio del Estado de Morelos.
+La Secretaría está facultada para solicitar a la autoridad federal competente toda la información sobre el manejo y transporte de residuos peligrosos en el territorio del Estado de Morelos.
 
 ## TÍTULO SEGUNDO. DEL MANEJO INTEGRAL DE RESIDUOS
 
@@ -695,9 +723,11 @@ Los habitantes del Estado de Morelos tienen la obligación de separar los Residu
 
 Los residuos se entregarán a los servicios de recolección o a los centros de acopio según corresponda y de conformidad con lo que establezcan los programas municipales correspondientes.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 51.
 
-La Comisión y los Municipios instrumentarán una campaña permanente para fomentar la separación de residuos sólidos desde su fuente para contribuir en el sistema de manejo de dichos residuos.
+La Secretaría y los Municipios instrumentarán una campaña permanente para fomentar la separación de residuos sólidos desde su fuente para contribuir en el sistema de manejo de dichos residuos.
 
 ###### ARTÍCULO 52.
 
@@ -897,9 +927,11 @@ La entidad pública o privada encargada de la prestación de alguna o todas de l
 
 Así mismo, tienen la obligación de contemplar medidas de emergencia en caso de fallas provocadas por cualquier circunstancia, y que impidan de una manera u otra la prestación del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 80.
 
-Las personas interesadas en prestar los servicios de manejo integral de residuos, deberán contar con la autorización de la Comisión para:
+Las personas interesadas en prestar los servicios de manejo integral de residuos, deberán contar con la autorización de la Secretaría para:
 
 I. La instalación y operación de centros de acopio;
 
@@ -951,7 +983,9 @@ Los propietarios o poseedores de predios de dominio privado y los titulares de �
 
 Las personas que transfieran a terceros los inmuebles que hubieran sido contaminados por materiales o residuos de cualquier especie, en virtud de las actividades que en ellos se realizaron, deberán informar de ello a quienes les transmitan la propiedad o posesión de dichos bienes.
 
-La Comisión vigilará que se lleven a cabo las acciones correctivas de sitios o zonas donde se declare la contaminación ambiental, de los recursos naturales o a la biodiversidad.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+La Secretaría vigilará que se lleven a cabo las acciones correctivas de sitios o zonas donde se declare la contaminación ambiental, de los recursos naturales o a la biodiversidad.
 
 Estas acciones deberán garantizar dentro de los avances científicos y tecnológicos, la aplicación de la metodología o técnica más adecuada para corregir el problema de que se trate.
 
@@ -983,13 +1017,17 @@ Las acciones en materia de remediación de sitios, previstas en este capítulo, 
 
 ### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ## TÍTULO CUARTO. RECURSO DE REVISIÓN
 
 ### CAPÍTULO II. INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 93.
 
-La Comisión y los Ayuntamientos en el ámbito de su competencia, podrán realizar actos de inspección y vigilancia en materia de residuos sólidos, por conducto del personal autorizado, con el objeto de verificar el cumplimiento de lo dispuesto en esta Ley, en la Ley General de Residuos, las Normas Oficiales Mexicanas aplicables y las demás disposiciones que de ellas se deriven, ajustando su actuación en materia de residuos peligrosos a lo dispuesto en los convenios que para tal efecto suscriba y en su defecto en la Ley General de Residuos.
+La Secretaría y los Ayuntamientos en el ámbito de su competencia, podrán realizar actos de inspección y vigilancia en materia de residuos sólidos, por conducto del personal autorizado, con el objeto de verificar el cumplimiento de lo dispuesto en esta Ley, en la Ley General de Residuos, las Normas Oficiales Mexicanas aplicables y las demás disposiciones que de ellas se deriven, ajustando su actuación en materia de residuos peligrosos a lo dispuesto en los convenios que para tal efecto suscriba y en su defecto en la Ley General de Residuos.
 
 ###### ARTÍCULO 94.
 
@@ -999,7 +1037,7 @@ Si como resultado de la inspección se detecta la comisión de un delito, se har
 
 ###### ARTÍCULO 95.
 
-Las violaciones que las personas físicas o morales, entidades públicas y privadas, cometan a las disposiciones de la presente Ley, a su Reglamento y demás ordenamientos que de ella emanen, constituyen infracciones que serán sancionadas administrativamente por la Comisión o por la autoridad municipal competente, según corresponda, sin perjuicio de las responsabilidades penales que resulten de conformidad con los ordenamientos aplicables, mismas que serán sancionadas con:
+Las violaciones que las personas físicas o morales, Entidades Públicas y Privadas, cometan a las disposiciones de la presente Ley, a su Reglamento y demás ordenamientos que de ella emanen, constituyen infracciones que serán sancionadas administrativamente por la Secretaría o por la autoridad municipal competente, según corresponda, sin perjuicio de las responsabilidades penales que resulten de conformidad con los ordenamientos aplicables, mismas que serán sancionadas con:
 
 I. La amonestación con apercibimiento;
 
@@ -1099,9 +1137,11 @@ Para la imposición de las multas, servirá de base el salario mínimo general d
 
 Si una vez concluido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, y resulta que dicha infracción o infracciones aún subsisten, podrá imponerse una multa por cada día que transcurra sin acatar el mandato, sin que el total de las multas exceda del máximo permitido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 101.
 
-La Comisión o la autoridad municipal competente, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor, cuando no haya comisión de delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de regularización o restauración de sitios contaminados con Residuos sólidos, siempre y cuando se garanticen las obligaciones del infractor, que no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas.
+La Secretaría o la autoridad municipal competente, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor, cuando no haya comisión de delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de regularización o restauración de sitios contaminados con residuos sólidos, siempre y cuando se garanticen las obligaciones del infractor, que no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas.
 
 Cuando se determine la comisión de dos o más infracciones a que refiere el Artículo 84, se tomará en cuenta la más alta. Cuando en una sola acta de inspección aparezca que se han cometido diversas infracciones, deberán ser sancionadas individualmente. Las actas que se levanten en casos de flagrancia, deberán hacer constar con precisión en ésta tal circunstancia.
 
@@ -1136,6 +1176,8 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley y en las demás disposiciones que de ella se deriven, se destinarán a la remediación de sitios contaminados que presenten un riesgo inminente al ambiente o a la salud; o en todo caso, a las acciones que para el manejo integral de los residuos, las autoridades competentes establezcan.
 
 ### CAPÍTULO IV. MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 105.
 
@@ -1181,7 +1223,7 @@ VI. Los Residuos sólidos deberán ser removidos prontamente; y asegurar que se 
 
 ###### ARTÍCULO 111.
 
-Se consideran medidas de seguridad, las disposiciones que dicten la Comisión o los Ayuntamientos, en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger el ambiente o la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+Se consideran medidas de seguridad, las disposiciones que dicten la Secretaría o los Ayuntamientos, en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger el ambiente o la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
 ###### ARTÍCULO 112.
 
@@ -1197,9 +1239,11 @@ IV. La suspensión temporal, parcial o total del aprovechamiento o de las activi
 
 V. Las demás que determinen la autoridad competente con el objeto de evitar que se causen o continúen causando riesgos o daños al ambiente o a la salud.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 113.
 
-Cuando la Comisión imponga las medidas de seguridad previstas en esta Ley, se indicarán, en su caso, las acciones que deberán llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para revisarlas, a fin de que una vez satisfechas éstas, se ordene el retiro de las mismas.
+Cuando la Secretaría imponga las medidas de seguridad previstas en esta Ley, se indicarán, en su caso, las acciones que deberán llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para revisarlas, a fin de que una vez satisfechas éstas, se ordene el retiro de las mismas.
 
 ###### ARTÍCULO 114.
 
@@ -1301,9 +1345,11 @@ Igualmente, deberá dejar sin efectos legales los actos administrativos cuando a
 
 La substanciación del recurso de revisión a que se refiere el Artículo anterior de esta Ley, se sujetará a lo dispuesto en la Ley del Procedimiento Administrativo del Estado de Morelos, en sus preceptos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 123.
 
-Toda persona, grupo social, organización no gubernamental, asociación y sociedad podrá denunciar ante la Comisión, autoridades municipales o ante otras autoridades, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico derivado de indebido manejo integral de los residuos, o contravenga las disposiciones de la presente Ley y los demás ordenamientos que regulen las materias relacionadas.
+Toda persona, grupo social, Organización No Gubernamental, asociación y sociedad podrá denunciar ante la Secretaría, autoridades municipales o ante otras autoridades, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico derivado de indebido manejo integral de los residuos, o contravenga las disposiciones de la presente Ley y los demás ordenamientos que regulen las materias relacionadas.
 
 El denunciante deberá aportar todos los elementos de prueba con que cuente para sustentar su denuncia. Para el trámite respectivo se estará a lo dispuesto en la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Morelos.
 
@@ -1388,3 +1434,13 @@ Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artí
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Tierra y Libertad”, órgano de difusión de (sic) Gobierno del Estado de Morelos.
+
+P.O. 25 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Tierra y Libertad”, órgano de difusión de Gobierno del Estado de Morelos.
