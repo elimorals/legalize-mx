@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2014-02-04"
+last_updated: "2014-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. LXI-586, PUBLICADO EN EL P.O. 18 DE DICIEMBRE DE 2012, TODA MENCIÓN, O REFERENCIA QUE SE HAGA DE LA "SUBSECRETARÍA DE REINSERCIÓN SOCIAL Y DE LA COORDINACIÓN GENERAL DE REINSERCIÓN SOCIAL Y EJECUCIÓN DE SANCIONES O DE SUS TITULARES", EN CUALQUIER DISPOSICIÓN JURÍDICA DEL ESTADO, SE ENTENDERÁ HECHA A LA "SUBSECRETARÍA DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL Y A SU TITULAR, EL SUBSECRETARIO DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL".</small>
 
@@ -35,7 +35,7 @@ Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decr
 
 Al margen un sello que dice: - "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLlTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
 D E C R E T O No. LIX-1086
 
@@ -585,9 +585,9 @@ VIII.- Colaborar en auxilio de cualquier autoridad que se los requiera formalmen
 
 IX.- Participar en operativos conjuntos con otras instituciones policiales federales, estatales o municipales, que se determinen en el seno del Consejo Estatal de Seguridad Pública, o a solicitud formal del titular de cualquier institución de seguridad pública que lo requiera;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-X.- Practicar detenciones o aseguramientos en casos de flagrancia o cuasi-flagrancia, poniendo a las personas detenidas y los bienes que se hayan asegurado o que estén bajo su custodia, a disposición de las autoridades competentes en los términos y plazos constitucionales y legales establecidos;
+X.- Practicar detenciones o aseguramientos en casos de flagrancia o caso urgente, poniendo a las personas detenidas y los bienes que se hayan asegurado o que estén bajo su custodia, a disposición de las autoridades competentes en los términos y plazos constitucionales y legales establecidos;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -637,9 +637,9 @@ XXI.- Sistematizar y, en su caso, procesar para su propuesta al Subsecretario de
 
 XXII.- Disponer las previsiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XXIII.- Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas;
+XXIII.- Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley. En los casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y el Código Penal para el Estado de Tamaulipas;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -651,23 +651,21 @@ XXIV.- Dar vista al Consejo de Desarrollo Policial sobre las faltas, a los princ
 
 XXV.- Promover la profesionalización de los integrantes de esta Institución policial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2014)</small>
+XXVI.- Llevar a cabo las funciones y obligaciones establecidas en el Código Nacional de Procedimientos Penales;
 
-XXVI.- Llevar a cabo las funciones y obligaciones establecidas en el Código de Procedimientos Penales del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVII.- Otorgar y garantizar la protección y auxilio en todo momento a las víctimas de los delitos;
 
-> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XXVII.- Otorgar y garantizar la protección y auxilio en todo momento a las víctimas de los delitos; y
+XXVIII.- Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2014)</small>
-
-XXVIII.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+XXIX.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -721,11 +719,9 @@ V.- Proponer al Subsecretario de Operación Policial las medidas de prevención,
 
 VI. Disponer las provisiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-VII. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas;
+VII.- Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley. En los casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y el Código Penal para el Estado de Tamaulipas;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
@@ -843,11 +839,9 @@ XIII. Dar vista al Consejo de Desarrollo Policial de las irregularidades en que 
 
 XIV.- Proponer al Secretario de Seguridad Pública, en su caso, los estímulos y reconocimientos a los integrantes de las instituciones policiales a su mando que se destaquen en el cumplimiento de sus atribuciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2014)</small>
-
-XV.- Llevar a cabo las funciones y obligaciones establecidas en el Código de Procedimientos Penales del Estado de Tamaulipas;
+XV.- Llevar a cabo las funciones y obligaciones establecidas en el Código Nacional de Procedimientos Penales;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1635,7 +1629,7 @@ XI. Por obligar, compeler o inducir a sus subalternos a entregarle dinero o cual
 
 XII. Causar dolosamente el deterioro del equipo de trabajo o por hacer uso indebido de éste;
 
-XIII. Resultar positivo en el examen de detección de uso o consumo de sustancias tóxicas prohibidas; y (sic)
+XIII. Resultar positivo en el examen de detección de uso o consumo de sustancias tóxicas prohibidas; y
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
@@ -1767,11 +1761,11 @@ Las resoluciones que dicte el Pleno del Consejo deberán estar debidamente funda
 
 Los acuerdos dictados durante el procedimiento serán firmados por el Presidente del Consejo y autentificados por el Secretario.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-###### ARTICULO 103.
+###### ARTÍCULO 103.
 
-En las actuaciones que se practiquen en los procedimientos a que se refiere este título, también se observarán las disposiciones conducentes del Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado, y el no previsto en ambos ordenamientos, se aplicará de manera supletoria el Código de Procedimientos Penales del Estado de Tamaulipas.
+En las actuaciones que se practiquen en los procedimientos a que se refiere este título, también se observarán las disposiciones conducentes del Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado, y lo no previsto en ambos ordenamientos, se aplicará de manera supletoria el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -1817,21 +1811,19 @@ P.O. 16 DE DICIEMBRE DE 2010.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 21 de agosto del 2012.
 
-ARTlCULO SEGUNDO. Los titulares de las instituciones policiales del Estado y de los Municipios implementarán la capacitación permanente de su personal con base en las disposiciones que establece el presente Decreto.
-
-P.O. 29 DE DICIEMBRE DE 2010.
-
 ###### ARTICULO SEGUNDO.
 
-En términos de las atribuciones que le confieren las normas constitucionales y legales aplicables, el Ejecutivo del Estado contará con 180 días a partir de la publicación del presente Decreto para reformar o en su caso expedir las disposiciones reglamentarias necesarias que se deriven del mismo.
+Los titulares de las instituciones policiales del Estado y de los Municipios implementarán la capacitación permanente de su personal con base en las disposiciones que establece el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2010.
 
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir las Normas de Funcionamiento del Instituto de Reclutamiento y Formación Policial del Estado de Tamaulipas.
+En términos de las atribuciones que le confieren las normas constitucionales y legales aplicables, el Ejecutivo del Estado contará con 180 días a partir de la publicación del presente Decreto para reformar o en su caso expedir las disposiciones reglamentarias necesarias que se deriven del mismo.
 
 ###### ARTICULO TERCERO.
 
@@ -1847,7 +1839,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Toda referencia que se haga de la Coordinación General de Reinserción Social y Ejecución de Sanciones o a la Dirección General de Ejecución de Sanciones o de su titular, en cualquier disposición jurídica del Estado, se entenderá hecha a la Subsecretaría de Reinserción Social y a su titular, el Subsecretario de Reinserción Social.
+En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir las Normas de Funcionamiento del Instituto de Reclutamiento y Formación Policial del Estado de Tamaulipas.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1861,7 +1853,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto en todos sus términos, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
+Toda referencia que se haga de la Coordinación General de Reinserción Social y Ejecución de Sanciones o a la Dirección General de Ejecución de Sanciones o de su titular, en cualquier disposición jurídica del Estado, se entenderá hecha a la Subsecretaría de Reinserción Social y a su titular, el Subsecretario de Reinserción Social.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1875,7 +1867,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Toda referencia que se haga de las Subsecretaría de Reinserción Social y de la Coordinación General de Reinserción Social y Ejecución de Sanciones o de sus titulares, en cualquier disposición jurídica del Estado, se entenderá hecha a la Subsecretaría de Ejecución de Sanciones y Reinserción Social y a su titular, el Subsecretario de Ejecución de Sanciones y Reinserción Social.
+Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto en todos sus términos, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1889,9 +1881,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-La reubicación de funciones que con motivo de la expedición de este Decreto deban realizarse de una dependencia a otra, incluirán los recursos humanos, los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, los programas y calendarios financieros, así como los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente, para la atención de las funciones asignadas, de conformidad con su anterior asignación administrativa.
-
-Lo dispuesto en el presente artículo no afectará los derechos adquiridos por los trabajadores de las dependencias antes mencionadas.
+Toda referencia que se haga de las Subsecretaría de Reinserción Social y de la Coordinación General de Reinserción Social y Ejecución de Sanciones o de sus titulares, en cualquier disposición jurídica del Estado, se entenderá hecha a la Subsecretaría de Ejecución de Sanciones y Reinserción Social y a su titular, el Subsecretario de Ejecución de Sanciones y Reinserción Social.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1921,6 +1911,12 @@ P.O. 30 DE SEPTIEMBRE DE 2013.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+###### ARTÍCULO SEGUNDO.
+
+La reubicación de funciones que con motivo de la expedición de este Decreto deban realizarse de una dependencia a otra, incluirán los recursos humanos, los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, los programas y calendarios financieros, así como los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente, para la atención de las funciones asignadas, de conformidad con su anterior asignación administrativa.
+
+Lo dispuesto en el presente artículo no afectará los derechos adquiridos por los trabajadores de las dependencias antes mencionadas.
+
 ###### ARTÍCULO TERCERO.
 
 Cuando con motivo del presente Decreto se confiera una denominación nueva o distinta a alguna dependencia cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que conforme a este Decreto cuente con la atribución correspondiente.
@@ -1944,3 +1940,25 @@ P.O. 4 DE FEBRERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto deberá ser publicado en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación, con excepción de las atribuciones inherentes al nuevo sistema de justicia penal, las cuales entrarán en vigor de manera sucesiva, conforme a las fechas de aplicación del Código de Procedimientos Penales del Estado de Tamaulipas, expedido mediante Decreto No. LXI-475 y reformado mediante Decreto No. LXI-862, publicado en el Periódico Oficial del Estado extraordinario al número 3 de fecha 7 de junio de 2013.
+
+P.O. 26 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de julio de 2014, y de manera sucesiva, conforme a las fechas de aplicación que se establecen en el artículo único del Decreto No. LXII-232 publicado en el Periódico Oficial del Estado número 53 de fecha 01 de mayo del 2014, mediante el cual se emite la Declaratoria de entrada en vigor, a partir del 1° de julio del 2014, del Código Nacional de Procedimientos Penales, en el Primer Distrito Judicial del Estado, con cabecera en Ciudad Victoria, perteneciente a la primera región judicial, para los delitos de daño en propiedad, lesiones y homicidio todos de carácter culposo, exceptuando cuando se cometan en las circunstancias previstas en el artículo 318 del Código Penal para el Estado de Tamaulipas, abandono de obligaciones alimenticias y violencia familiar, en los términos de los párrafos segundo y tercero del artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme a lo establecido en el artículo que antecede, a partir de la entrada en vigor del presente decreto, se derogan todas aquellas disposiciones del ámbito estatal que se contrapongan con el Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO TERCERO.
+
+Respecto a los procedimientos penales que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado proveerá lo conducente para contar con los órganos judiciales y auxiliares necesarios del Sistema de Justicia Penal Acusatorio y Oral, conforme a los requerimientos y gradualidad de la implementación.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Enjuiciamiento para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Enjuiciamiento, designación de Jueces de Control el Consejo podrá habilitar a Jueces de Primera Instancia, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
