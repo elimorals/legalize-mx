@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-05-29"
+last_updated: "2014-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -450,6 +450,10 @@ II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y sa
 II Bis B.- Coordinarse con la Secretaría de Salud y las Asociaciones de Padres de Familia de las escuelas de nivel básico para implementar acciones de inspección y vigilancia en las tiendas escolares, con el fin de evitar la venta de alimentos con bajo o nulo valor nutricional;
 
 III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública;
+
+> <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2014)</small>
+
+III Bis.- Coordinarse con la Comisión de Educación y Cultura del Congreso del Estado de Sonora para seleccionar a los 4 maestros con mayores cualidades en términos educativos, uno de cada nivel básico de educación, para la entrega anual de la medalla al mérito docente que se entregará en el recinto oficial del Poder Legislativo del Estado de Sonora y sentar las bases para dicha selección.
 
 > <small>(REFORMADA, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -2382,3 +2386,9 @@ B.O. 29 DE MAYO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 26 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación el (sic) Boletín Oficial del Estado de Sonora.
