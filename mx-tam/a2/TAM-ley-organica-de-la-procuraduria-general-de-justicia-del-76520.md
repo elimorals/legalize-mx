@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2014-06-04"
+last_updated: "2014-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -283,9 +283,9 @@ II. Atender y proteger a la víctima y al ofendido por un delito, que comprende:
 
 14. Solicitar al juez especializado las órdenes de aprehensión y comparecencia del adolescente, cuando procede;
 
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-15. Solicitar, en los casos en que resulte procedente, la suspensión del proceso a prueba;
+15. Solicitar, en los casos en que resulte procedente, la suspensión condicional del proceso;
 
 > <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -435,9 +435,17 @@ XVII. Contribuir en la integración de la cuanta (sic) pública relativa al ejer
 
 XVIII. Solicitar a la autoridad competente anuencia para intervenir y asegurar comunicaciones y correspondencia, en términos de lo previsto en el Código de Procedimientos Penales;
 
-XIX. Adscribir y rotar a los servidores públicos de carrera oyendo el parecer del Consejo; y,
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XX. Las demás que prevean otras disposiciones legales aplicables
+XIX. Adscribir y rotar a los servidores públicos de carrera oyendo el parecer del Consejo;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XX. Solicitar al Juez Federal de Control competente, por cualquier medio, la autorización para practicar la intervención de comunicaciones privadas; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXI. Las demás que prevean otras disposiciones legales aplicables.
 
 ###### ARTICULO 10.
 
@@ -463,15 +471,13 @@ V. Las incompetencias que se susciten entre los Agentes del Ministerio Público 
 
 VI. En materia de colaboraciones que conforme al artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, sean solicitadas por las Procuradurías de los Estados, de la Procuraduría General de la República y del Distrito Federal, y las ordenadas por esta institución; y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-VII. El archivo temporal y la abstención de investigar.
+VII. (DEROGADA, P.O. 26 DE JUNIO DE 2014)
 
 El Procurador podrá delegar a los Subprocuradores o a los servidores públicos que él mismo determine conforme a la presente Ley, para conocer y resolver al respecto sobre los supuestos a que se refiere el presente artículo, en los términos de lo previsto en el Reglamento respectivo.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-Además de las anteriores atribuciones, el Procurador o el funcionario a quien éste designe, revisarán que el criterio de oportunidad aplicado por el Agente del Ministerio Público se ajuste a la normatividad.
+Además de las anteriores atribuciones, el Procurador o el funcionario a quien éste designe, autorizará la aplicación de los criterios de oportunidad y en el marco de una investigación la entrega vigilada y las operaciones encubiertas. Así mismo, por sí o por conducto del servidor público que éste designe, solicitará a los concesionarios o permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, la localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados con los hechos que se investigan.
 
 ### CAPITULO III. DE LA ESTRUCTURA
 
@@ -1573,7 +1579,7 @@ En el Reglamento de esta Ley se determinarán las facultades y obligaciones espe
 
 ### CAPITULO II. DE LAS ATRIBUCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 60.
 
@@ -1613,7 +1619,9 @@ XVI. Reunir la información de datos y elementos necesarios que puedan ser útil
 
 XVII. Incorporar a las bases de datos criminalísticas y de personal del Sistema Nacional de Información sobre Seguridad Pública, la información que pueda ser útil en la investigación de los delitos y utilizar su contenido para el desempeño de sus atribuciones;
 
-XVIII. Llevar a cabo operaciones encubiertas, previa autorización del Agente del Ministerio Público, el Director General de Averiguaciones Previas o los Subprocuradores, bajo los lineamientos precisos que se les instruyan, para la investigación y persecución de hechos delictuosos, así como la captura de sus responsables;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XVIII. Llevar a cabo operaciones encubiertas y la entrega vigilada, en el marco de una investigación, previa autorización del Procurador o por el servidor público en quien éste delegue dicha facultad, bajo los lineamientos precisos que se les instruyan, para la investigación y persecución de hechos delictuosos, así como la captura de sus responsables;
 
 XIX. Realizar análisis técnico táctico o estratégico de la información obtenida para generar inteligencia para la investigación;
 
@@ -1633,9 +1641,33 @@ XXVI. Suscribir convenios con instituciones policiales de los tres órdenes de g
 
 XXVII. Realizar acciones de vigilancia, identificación, monitoreo y rastreo en la red pública de Internet sobre sitios web con el fin de investigar conductas delictivas;
 
-XXVIII. Cumplir puntualmente los compromisos asumidos por el Estado con la Federación y otras Entidades, respecto de acciones relativas al Sistema Nacional de Seguridad Pública; y,
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XXIX. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran, así como las que le instruya el Ministerio Público.
+XXVIII. Cumplir puntualmente los compromisos asumidos por el Estado con la Federación y otras Entidades, respecto de acciones relativas al Sistema Nacional de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXIX. Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXX. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXXI. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXXII. Practicar las inspecciones y otros actos de investigación, así como reportar sus resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXXIII. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXXIV. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran, así como las que le instruya el Ministerio Público.
 
 > <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2659,7 +2691,7 @@ Las Unidades de Investigación estarán conformadas y encabezadas por Agentes de
 
 Son facultades y obligaciones del Ministerio Público de Procedimiento Penal Acusatorio y Oral, Titular de la Unidad de Investigación, además de las facultades y obligaciones que esta ley y otros ordenamientos confieren al Ministerio Público, las siguientes:
 
-I. Dirigir la investigación de los hechos presuntamente constitutivos del delito;
+I.- Dirigir la investigación de los hechos presuntamente constitutivos del delito;
 
 II.- Recabar los antecedentes y elementos de convicción tendientes al esclarecimiento de los hechos materia de la denuncia o querella;
 
@@ -2673,37 +2705,75 @@ VI.- Promover la solución de los conflictos surgidos como consecuencia de los d
 
 VII.- Aplicar los criterios de oportunidad en los supuestos previstos por las leyes;
 
-VIII. Solicitar la suspensión del proceso a prueba y la apertura del procedimiento abreviado, en los supuestos previstos por las leyes;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-IX. Promover las acciones penales y administrativas, e interponer los recursos correspondientes conforme a lo establecido en las disposiciones normativas aplicables;
+VIII.- Solicitar la suspensión condicional del proceso y la apertura del procedimiento abreviado, en los supuestos previstos por las leyes;
 
-X. Solicitar la reparación del daño a favor de la víctima u ofendido;
+IX.- Promover las acciones penales y administrativas, e interponer los recursos correspondientes conforme a lo establecido en las disposiciones normativas aplicables;
 
-XI. Vigilar y asegurar que durante la investigación y el proceso se respeten los derechos humanos del imputado, de la víctima u ofendido del delito y de los testigos;
+X.- Solicitar la reparación del daño a favor de la víctima u ofendido;
 
-XII. Adoptar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos; e implementar medidas de protección hacia sus propios funcionarios cuando el caso lo requiera;
+XI.- Vigilar y asegurar que durante la investigación y el proceso se respeten los derechos humanos del imputado, de la víctima u ofendido del delito y de los testigos;
 
-XIII. Solicitar al Órgano Jurisdiccional medidas cautelares y providencias precautorias en los términos previstos por la ley;
+XII.- Adoptar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos; e implementar medidas de protección hacia sus propios funcionarios cuando el caso lo requiera;
 
-XIV. Dirigir a la Policía Investigadora y al resto de las instituciones policiales del Estado cuando éstos actúen como auxiliares en la investigación y persecución de delitos, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos y conforme a los principios de legalidad y objetividad;
+XIII.- Solicitar al Órgano Jurisdiccional medidas cautelares y providencias precautorias en los términos previstos por la ley;
 
-XV. Decretar el no ejercicio de la acción penal o el archivo temporal de la investigación cuando así proceda;
+XIV.- Dirigir a la Policía Investigadora y al resto de las instituciones policiales del Estado cuando éstos actúen como auxiliares en la investigación y persecución de delitos, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos y conforme a los principios de legalidad y objetividad;
 
-XVI. Solicitar el sobreseimiento del proceso en los supuestos previstos por las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XVII. Formular la acusación en los términos del Código de Procedimientos Penales del Estado de Tamaulipas;
+XV.- Determinar el archivo temporal y el no ejercicio de la acción penal, así como ejercer la facultad de no investigar en los casos cuando así proceda;
 
-XVIII. Asistir a las audiencias que con motivo de los recursos interpuestos sean convocadas por el tribunal competente;
+XVI.- Solicitar el sobreseimiento del proceso en los supuestos previstos por las disposiciones normativas aplicables;
 
-XIX. Rendir mensualmente, o cuando le sea solicitado por el Coordinador Regional, un informe de las actividades desarrolladas dentro de la Unidad de Investigación;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XX. Informar de manera inmediata al Coordinador Regional, sobre el desarrollo, avance y resultados de los asuntos que sean de carácter relevante y que sean de su competencia;
+XVII.- Formular la acusación en los términos del Código de Procedimientos Penales aplicable;
 
-XXI. Asistir y conducirse con diligencia en las actuaciones en que tenga que intervenir de acuerdo a sus atribuciones;
+XVIII.- Asistir a las audiencias que con motivo de los recursos interpuestos sean convocadas por el tribunal competente;
 
-XXII. Coadyuvar con el Ministerio Público de la Federación y con el de las demás entidades federativas en los términos de las leyes y los convenios de colaboración respectivos; y
+XIX.- Rendir mensualmente, o cuando le sea solicitado por el Coordinador Regional, un informe de las actividades desarrolladas dentro de la Unidad de Investigación;
 
-XXIII. Las demás que le encomiende el Procurador, los Subprocuradores, el Director General de Procedimiento Penal Acusatorio y Oral y el Coordinador Regional y aquellas que le confieran otras disposiciones normativas aplicables.
+XX.- Informar de manera inmediata al Coordinador Regional, sobre el desarrollo, avance y resultados de los asuntos que sean de carácter relevante y que sean de su competencia;
+
+XXI.- Asistir y conducirse con diligencia en las actuaciones en que tenga que intervenir de acuerdo a sus atribuciones;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXII.- Coadyuvar con el Ministerio Público de la Federación y con el de las demás entidades federativas en los términos de las leyes y los convenios de colaboración respectivos;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXIII.- Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXIV.- Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia del mismo, así como cerciorarse de que se han seguido las reglas y protocolos para su preservación y procesamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXV.- Iniciar la investigación correspondiente cuando así proceda y, en su caso, ordenar la colección de indicios y medios de prueba que deberán servir para sus respectivas resoluciones y las del Órgano jurisdiccional, así como recabar los elementos necesarios que determinen el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXVI.- Instruir a las Policías sobre la legalidad, pertinencia, suficiencia y contundencia de los indicios recolectados o por recolectar, así como las demás actividades y diligencias que deben ser llevadas a cabo dentro de la investigación;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXVII.- Solicitar al Órgano jurisdiccional la autorización de actos de investigación y demás actuaciones que sean necesarias dentro de la misma;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXVIII.- Ordenar en términos de lo dispuesto por el Código Nacional de Procedimientos Penales, las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXIX.- Decretar el aseguramiento de los instrumentos, objetos o productos del delito, así como los bienes en que existan huellas o pudieran tener relación con éste, a fin de que no se alteren, destruyan o desaparezcan; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XXX.- Las demás que le encomiende el Procurador, los Subprocuradores, el Director General de Procedimiento Penal Acusatorio y Oral y el Coordinador Regional y aquellas que le confieran otras disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -2889,7 +2959,9 @@ V. Recibir y registrar las denuncias o querellas de los ciudadanos, y una vez ag
 
 VI. Recibir, en su caso, los objetos que le son turnados y cumplir con la cadena de custodia, remitiéndolos en un término no mayor de veinticuatro horas a la Unidad de Investigación, Agencia del Ministerio Público o a la Dirección de Servicios Periciales, según corresponda;
 
-VII. Dictar las determinaciones de archivo temporal, de abstenerse de investigar, y de aplicación de los criterios de oportunidad, de conformidad con las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+VII. Dictar las determinaciones de no ejercicio de la acción penal, de archivo temporal, de abstenerse de investigar y de aplicación de los criterios de oportunidad, de conformidad con las disposiciones normativas aplicables;
 
 VIII. Rendir los informes de autoridad que se le requieran conforme a derecho; y
 
@@ -3272,3 +3344,25 @@ En términos de las atribuciones que le confieren las normas constitucionales y 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de julio de 2014, y de manera sucesiva, conforme a las fechas de aplicación que se establecen en el artículo único del Decreto No. LXII-232 publicado en el Periódico Oficial del Estado número 53 de fecha 01 de mayo del 2014, mediante el cual se emite la Declaratoria de entrada en vigor, a partir del 1° de julio del 2014, del Código Nacional de Procedimientos Penales, en el Primer Distrito Judicial del Estado, con cabecera en Ciudad Victoria, perteneciente a la primera región judicial, para los delitos de daño en propiedad, lesiones y homicidio todos de carácter culposo, exceptuando cuando se cometan en las circunstancias previstas en el artículo 318 del Código Penal para el Estado de Tamaulipas, abandono de obligaciones alimenticias y violencia familiar, en los términos de los párrafos segundo y tercero del artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme a lo establecido en el artículo que antecede, a partir de la entrada en vigor del presente decreto, se derogan todas aquellas disposiciones del ámbito estatal que se contrapongan con el Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO TERCERO.
+
+Respecto a los procedimientos penales que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado proveerá lo conducente para contar con los órganos judiciales y auxiliares necesarios del Sistema de Justicia Penal Acusatorio y Oral, conforme a los requerimientos y gradualidad de la implementación.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Enjuiciamiento para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Enjuiciamiento, designación de Jueces de Control el Consejo podrá habilitar a Jueces de Primera Instancia, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
