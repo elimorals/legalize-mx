@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2013-12-31"
+last_updated: "2014-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -2358,11 +2358,35 @@ En el caso de fraccionamientos de inmuebles, el impuesto se causará por cada fr
 
 Tratándose de subdivisión o fusión de inmuebles, el impuesto se causará a partir del bimestre siguiente a aquél en que se formalice la escritura respectiva, misma que deberá ser presentada ante la autoridad competente en un plazo que no excederá de los 30 días hábiles siguientes a su formalización.
 
-Para el caso de inmuebles en proceso de construcción, el valor catastral que servirá de base para calcular el impuesto predial a pagar, se determinará a partir de la clasificación que de dichos inmuebles se efectúe, tomando como base los datos proporcionados en la manifestación de construcción respectiva.
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2014)</small>
+
+Para el caso de inmuebles en proceso de construcción, el valor catastral que servirá de base para calcular el impuesto predial a pagar, se determinará a partir de la clasificación que de dichos inmuebles se efectúe, tomando como base los datos proporcionados en la manifestación respectiva, o en su caso, en la última manifestación que modifique el original de dichos documentos.
 
 Para tales efectos, el uso, rango y la clase de la construcción se definirán por las características y datos contenidos en la manifestación respectiva, definiendo así los datos catastrales conforme a los cuales se calculará el valor de la construcción, considerando solamente el 25% de la superficie de construcción total registrada en la manifestación respectiva, durante los bimestres que abarquen el tiempo de vigencia de tal manifestación o de las ampliaciones correspondientes, aplicando las tablas de valores unitarios de construcción vigentes en el ejercicio fiscal que corresponda. A lo anterior, se le adicionará el valor del suelo determinado conforme a las tablas de valores unitarios de suelo vigentes.
 
-En relación con el párrafo anterior, para el caso en que se suspenda o interrumpa el proceso de construcción de la obra respectiva por más de un bimestre, se deberá presentar ante la autoridad fiscal la manifestación correspondiente debidamente justificada, anexándola a la declaración que corresponda al bimestre siguiente a aquel en que se presente esta circunstancia y hasta que la misma desaparezca. En este supuesto, se determinará el valor real que corresponda a la construcción, debiendo dar aviso a dicha autoridad cuando se reanude la ejecución de la obra, en el bimestre siguiente al en que esto suceda, en cuyo caso se volverá a calcular el valor de la construcción considerando solamente el 25% de la superficie de construcción total registrada en la manifestación respectiva.
+> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2014)</small>
+
+En aquellos desarrollos proyectados con más de una unidad de construcción de inmuebles como en el caso de los conjuntos condominales, representada en fases, etapas, torres y que éstas sean susceptibles de uso y aprovechamiento independiente, se deberá tomar además de lo señalado en éste párrafo, para establecer la base gravable y el cobro del Impuesto Predial, el 25% de la superficie total de construcción destinada a cada una de ellas, para lo cual el contribuyente deberá presentar, por lo menos, la memoria descriptiva autorizada en el registro de manifestación, en donde señale la superficie de suelo y de construcción que corresponda a cada unidad o el régimen de propiedad en condominio y la tabla de valores indivisos, quedando a salvo el derecho de la autoridad fiscal para realizar la comprobación correspondiente.
+
+> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2014)</small>
+
+Tratándose de inmuebles que cuenten con la terminación parcial de la obra, se les calculará el cien por ciento de la parte proporcional de la construcción terminada.
+
+> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2014)</small>
+
+Las unidades de construcción que hayan sido objeto de empadronamiento o individualización de cuentas, para el cálculo subsecuente del Impuesto Predial se sustraerá la superficie de terreno que le o les haya correspondido, de acuerdo a la memoria descriptiva y los documentos soporte que haya presentado. La individualización de cuentas antes referida en estos casos se realizará conforme a la autorización de uso y ocupación del inmueble.
+
+> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2014)</small>
+
+En relación con los párrafos precedentes, para el caso en que se suspenda o interrumpa el proceso de construcción de la obra respectiva por más de un bimestre, se deberá presentar ante la autoridad fiscal, la manifestación correspondiente, anexándola a la declaración que corresponda al bimestre siguiente a aquel en que se presente esta circunstancia y hasta que la misma desaparezca. La suspensión de la obra para efectos de este artículo podrá ser por una o por la totalidad de las etapas de la construcción. En este supuesto, se determinará el valor real que corresponda a la construcción, debiendo dar aviso a dicha autoridad cuando se reanude la ejecución de la obra, en el bimestre siguiente al en que esto suceda, en cuyo caso se volverá a calcular el valor de la construcción considerando lo previsto en este artículo.
+
+> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2014)</small>
+
+Si la manifestación de construcción registrada, no se ejecuta en los términos originalmente proyectados que implique una disminución en metros de construcción y ya se hubieran individualizado cuentas de alguna de las etapas de la construcción, se deberá modificar y calcular la base gravable de manera proporcional, tomando en consideración los datos manifestados en la modificación al proyecto original.
+
+> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2014)</small>
+
+Tratándose de inmuebles a los que se les otorgó el registro de obra ejecutada, por no contar inicialmente con la manifestación de construcción, éste será el documento que sirva de base para el cobro del impuesto predial de conformidad con lo previsto en los artículos 126 y 130 de este Código.
 
 ###### ARTICULO 133.
 
@@ -14847,3 +14871,17 @@ Para efectos de lo dispuesto en el artículo 291 BIS de este Código, la Secreta
 ###### ARTÍCULO VIGÉSIMO QUINTO.
 
 Las reformas aprobadas al artículo 186 del Código Fiscal del Distrito Federal entrarán en vigor a los sesenta días naturales siguientes a su publicación en la Gaceta Oficial del Distrito Federal. Durante el periodo antes referido, la Tesorería del Distrito Federal emitirá criterios de aplicación para su debida observancia.
+
+G.O. 26 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+###### ARTÍCULO TERCERO.
+
+Tratándose de inmuebles en proceso de construcción el impuesto correspondiente se causará conforme se realice (sic) las situaciones jurídicas o de hecho previstas por las disposiciones fiscales vigentes al momento de su nacimiento a menos que el contribuyente manifieste su voluntad expresa de acogerse a las disposiciones en vigor contenidas en este Código al momento por estimarlas más favorables.
