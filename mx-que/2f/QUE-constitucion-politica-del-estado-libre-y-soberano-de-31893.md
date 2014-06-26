@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2014-04-04"
+last_updated: "2014-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO --
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ABRIL DE 2015 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -57,13 +59,13 @@ Son ley suprema en la entidad, las disposiciones que establezcan la Constitució
 
 En el Estado de Querétaro, toda persona gozará de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano sea parte, las leyes federales, esta Constitución y las leyes que de ella emanen, así como de las garantías para su protección. Las normas relativas a los derechos humanos se interpretarán de conformidad con los ordenamientos antes citados.
 
-EI Estado garantizará el respeto y protección a la persona y a los derechos humanos, promoverá su defensa y proveerá las condiciones necesarias para su ejercicio de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos y generar acciones afirmativas a favor de las personas en situación de vulnerabilidad, en los términos que establezca la ley.
+El Estado garantizará el respeto y protección a la persona y a los derechos humanos, promoverá su defensa y proveerá las condiciones necesarias para su ejercicio de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos y generar acciones afirmativas a favor de las personas en situación de vulnerabilidad, en los términos que establezca la ley.
 
 Toda persona tiene derecho a estar informada y a manifestar libremente sus ideas, sin más límites que los señalados por la Constitución Política de los Estados Unidos Mexicanos; el derecho de réplica será ejercido en los términos dispuestos por la ley.
 
 La procuración y la administración de justicia en el Estado, se regirá por las disposiciones y principios contenidos en la Constitución Política de los Estados Unidos Mexicanos.
 
-EI Estado respeta, reconoce, protege y garantiza el derecho a la vida de todo ser humano, desde el momento de la fecundación, como un bien jurídico tutelado y se le reputa como nacido para todos los efectos legales correspondientes, hasta la muerte. Esta disposición no deroga las excusas absolutorias ya contempladas en la legislación penal.
+El Estado respeta, reconoce, protege y garantiza el derecho a la vida de todo ser humano, desde el momento de la fecundación, como un bien jurídico tutelado y se le reputa como nacido para todos los efectos legales correspondientes, hasta la muerte. Esta disposición no deroga las excusas absolutorias ya contempladas en la legislación penal.
 
 Las autoridades del Estado salvaguardarán el régimen de los derechos y libertades de todas las personas, por el sólo hecho de encontrarse en el territorio estatal. Los derechos humanos no podrán ser limitados o restringidos; en su interpretación se resolverá siempre a favor del gobernado.
 
@@ -93,7 +95,7 @@ En el Estado de Querétaro el Gobierno se sustenta en el valor de la ética, por
 
 La educación que se imparta en el Estado, promoverá el conocimiento de su geografía, cultura, derechos humanos, características sociales y económicas, valores arqueológicos, históricos y artísticos, tradiciones, lenguas y creencias de los grupos indígenas y el papel de estos en la historia e identidad de los queretanos y de la Nación Mexicana.
 
-EI Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a propiciar el conocimiento, la defensa y respeto a los derechos humanos; a fomentar el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines.
+El Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a propiciar el conocimiento, la defensa y respeto a los derechos humanos; a fomentar el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines.
 
 La cultura de los queretanos constituye un bien irrenunciable y un derecho fundamental. Las leyes protegerán el patrimonio y las manifestaciones culturales; las autoridades, con la participación responsable de la sociedad, promoverán el rescate, la preservación, el fortalecimiento, la protección, la restauración y la difusión del patrimonio cultural que define al pueblo queretano, mismo que es inalienable e imprescriptible.
 
@@ -131,9 +133,9 @@ El Estado está obligado a implementar las políticas necesarias para hacer efec
 
 La soberanía del Estado reside esencial y originariamente en el pueblo, de éste emana el Poder Público que se instituye exclusivamente para su beneficio; adopta para su régimen interior la forma de gobierno republicano, representativo, democrático y popular, teniendo como base de su organización política y administrativa el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-Los partidos políticos son entidades de interés público, cuyo fin es promover la participación ciudadana en la vida democrática del Estado.
+Los partidos políticos son entidades de interés público, cuyo fin es promover la participación ciudadana en la vida democrática del Estado. Están obligados a establecer las reglas para garantizar la paridad de género en candidaturas a diputados y fórmulas de Ayuntamientos, en los términos que establezca la Ley. Los partidos políticos podrán formar coaliciones electorales y postular candidatos en común con otros partidos, pero en ninguno de estos casos podrá producirse entre ellos transferencia de votos. El cómputo de votos que los partidos coaligados obtengan en cada proceso electoral, se sujetará exclusivamente a las reglas que al efecto establezcan las leyes generales en materia electoral expedidas por el Congreso de la Unión.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
 
@@ -141,7 +143,7 @@ Los ciudadanos podrán ejercer sus derechos políticos electorales a través de 
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
 
-EI derecho de solicitar el registro de candidatos ante la autoridad electoral para todos los cargos de elección popular, corresponde a los partidos políticos así como a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación.
+El derecho de solicitar el registro de candidatos ante la autoridad electoral para todos los cargos de elección popular, corresponde a los partidos políticos así como a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación.
 
 La ley regulará las figuras de participación ciudadana.
 
@@ -161,9 +163,17 @@ III. Tener residencia efectiva en el Estado para el caso de diputados, de cuando
 
 IV. No ser militar en servicio activo o tener un mando en los cuerpos policíacos;
 
-V. No desempeñar empleo en la Federación, en los Estados o en los Municipios, ni ejercer en términos generales funciones de autoridad, a menos que se separe de ellos, mediante licencia en los términos de ley o renuncia, por lo menos sesenta días naturales antes del día de la elección;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-VI. No ser ministro de algún culto.
+V. No ser Presidente Municipal, ni ser titular de ninguno de los organismos a los que esta Constitución otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la Administración Pública Federal, Estatal o Municipal, a menos que se separe de sus funciones, mediante licencia o renuncia en los términos de ley, por lo menos noventa días naturales antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+VI. No desempeñarse como Magistrado del Órgano Jurisdiccional Especializado en Materia Electoral del Estado, como Consejero, Secretario Ejecutivo o Director Ejecutivo del Instituto Electoral del Estado de Querétaro, ni pertenecer al Servicio Profesional Electoral Nacional, salvo que, en cualquier caso, se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+VII. No ser ministro de algún culto.
 
 Se pierde el derecho a ser votado para cargos de elección popular en el Estado, por residir más de tres años consecutivos fuera del mismo, salvo en los casos de estudios y de empleo fuera de Querétaro, cargo o comisión gubernamental, así como en el caso de queretanos migrantes al extranjero que se hubieren reintegrado a su domicilio, por lo menos seis meses antes del día de la elección y se acredite que su familia haya permanecido en el Estado durante su ausencia.
 
@@ -275,23 +285,27 @@ El estado constituirá un registro público con criterios homologados y comunes 
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa, error judicial, funcionamiento irregular o por la ilegal privación de su libertad, se causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 15.
 
-Cuando se declaren desaparecidos los Poderes, será Gobernador provisional, por ministerio de ley, el último Presidente de la Legislatura anterior a la desaparecida, a falta de éste, en orden regresivo y de prelación, los Presidentes anteriores. El Instituto Electoral de Querétaro emitirá convocatoria a elecciones para Gobernador del Estado y diputados a la Legislatura, en un plazo no mayor a quince días naturales; de no ocurrir así, la convocatoria será expedida por el Gobernador provisional en un plazo igual, tomando las provisiones necesarias para realizarlas.
+Cuando se declaren desaparecidos los Poderes, será Gobernador provisional, por ministerio de ley, el último Presidente de la Legislatura anterior a la desaparecida, a falta de éste, en orden regresivo y de prelación, los Presidentes anteriores. El Instituto Electoral del Estado de Querétaro emitirá convocatoria a elecciones para Gobernador del Estado y diputados a la Legislatura, en un plazo no mayor a quince días naturales; de no ocurrir así, la convocatoria será expedida por el Gobernador provisional en un plazo igual, tomando las provisiones necesarias para realizarlas.
 
 > <small>(ADICIONADA, P. O. 31 DE MARZO DE 2008)</small>
 
 #### Sección Segunda. Poder Legislativo
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 16.
 
-El Poder Legislativo se deposita en una asamblea que se nombrará Legislatura del Estado, integrada por representantes populares denominados diputados, los que serán electos cada tres años. Quince según el principio de mayoría relativa y diez según el principio de representación proporcional. Por cada diputado propietario se elegirá un suplente.
+El Poder Legislativo se deposita en una asamblea que se nombrará Legislatura del Estado, integrada por representantes populares denominados diputados, los que serán electos cada tres años y podrán ser electos consecutivamente hasta por cuatro periodos, en los términos de la ley de la materia. Habrá quince según el principio de mayoría relativa y diez según el principio de representación proporcional. Por cada diputado propietario se elegirá un suplente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Los diputados tienen la misma categoría e iguales derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 La Legislatura del Estado se instalará el 26 de septiembre del año que corresponda, con la concurrencia de los diputados electos que se presenten; el funcionamiento y demás disposiciones necesarias para el ejercicio de la función legislativa se establecerán en la ley.
 
@@ -307,9 +321,9 @@ II. Aprobar las leyes en todas las materias, con excepción de las expresamente 
 
 III. Elegir, con el voto de las dos terceras partes de sus integrantes, al ciudadano que deba asumir el cargo de Gobernador con el carácter de provisional, interino o sustituto, en los casos y términos que esta Constitución prescribe;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-IV. Elegir, con el voto de las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Magistrado del Tribunal de lo Contencioso Administrativo, al Presidente de la Comisión Estatal de Derechos Humanos, a los Comisionados de la Comisión Estatal de información Gubernamental, a los Consejeros Electorales del Instituto Electoral de Querétaro, al titular de la Entidad Superior de Fiscalización y a los demás que determine la ley; procurando mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
+IV. Elegir, con el voto de las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Magistrado del Tribunal de lo Contencioso Administrativo, al Presidente de la Defensoría de los Derechos Humanos de Querétaro, a los Comisionados de la Comisión Estatal de Información Gubernamental, al titular de la Entidad Superior de Fiscalización y a los demás que determine la ley; debiendo mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
 
 V. Conceder licencia a los diputados, al gobernador; así como conceder las licencias y admitir las renuncias a los Magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
@@ -407,7 +421,9 @@ IX. Si la ley, decreto o acuerdo no señala el día en el que deba comenzar a ob
 
 El Poder Ejecutivo se deposita en un ciudadano que se denominará Gobernador del Estado quien será el representante legal de esta Entidad Federativa y entrará a ejercer su cargo el día primero de octubre del año de su elección y su ejercicio durará seis años.
 
-La declaración del Gobernador electo se hará por el Consejo General del Instituto Electoral de Querétaro o por la autoridad jurisdiccional competente; y por decreto de la Legislatura, para el caso de Gobernador interino o sustituto.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+La declaración del Gobernador electo se hará por el Instituto Electoral del Estado de Querétaro o por la autoridad jurisdiccional competente y por decreto de la Legislatura, para el caso de Gobernador interino o sustituto.
 
 El Gobernador del Estado se auxiliará de las Dependencias y Entidades que señale la ley. Nombrará un Secretario de Gobierno que será además responsable de las relaciones con el Poder Legislativo, para lo cual podrá estar presente en las sesiones de la Legislatura del Estado; asistirá a éstas, comparecerá cuando sea requerido y rendirá los informes que la propia Legislatura le solicite.
 
@@ -497,11 +513,11 @@ XIV. Las que le otorga la Constitución Política de los Estados Unidos Mexicano
 
 Todos los reglamentos, decretos y acuerdos del Gobernador, deberán ser firmados por el Secretario de Gobierno y por el secretario o secretarios del ramo que correspondan.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 24.
 
-El Ministerio Público es la institución que tiene por objeto velar por el cumplimiento de las leyes, ejercer las acciones que procedan en contra de quienes las transgredan, hacer efectivos los derechos del Estado e intervenir en los juicios que afecten a las personas a quienes la ley otorga protección. Ejercerán las facultades del Ministerio Público, un Procurador General de Justicia y los Agentes que la ley determine.
+El Ministerio Público es la institución que tiene por objeto velar por el cumplimiento de las leyes, ejercer las acciones que procedan en contra de quienes las transgredan, hacer efectivos los derechos del Estado e intervenir en los juicios que afecten a las personas a quienes la ley otorga protección. Ejercerán las facultades del Ministerio Público, un Procurador General de Justicia, un fiscal especial para la atención de delitos electorales que dependerá jerárquicamente de éste y los Agentes que la ley determine.
 
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
 
@@ -529,11 +545,11 @@ La administración de justicia en el Estado será expedita, aplicando los princi
 
 El Estado instituirá un sistema integral de justicia aplicable a quienes, teniendo entre doce años cumplidos y menos de dieciocho años de edad, se les atribuya la realización de una conducta tipificada como delito por las leyes penales. Los menores de doce años de edad, sólo serán sujetos a rehabilitación y asistencia social.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 26.
 
-Compete al Poder Judicial la facultad de resolver controversias puestas a su consideración, conforme a las leyes y procedimientos judiciales vigentes en el Estado en asuntos del fuero común, en materia civil, familiar, penal, justicia de menores, electoral y materias federales cuando así lo faculten las leyes.
+Compete al Poder Judicial la facultad de resolver controversias puestas a su consideración, conforme a las leyes y procedimientos judiciales vigentes en el Estado, en asuntos del fuero común, en materia civil, familiar, penal, justicia de menores y materias federales cuando así lo faculten las leyes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -585,7 +601,9 @@ IX. Revisar y, en su caso, revocar los acuerdos que emita el Consejo de la Judic
 
 X. Las demás que establezca esta Constitución y las demás leyes.
 
-Se exceptúan de la competencia del Pleno previstas en las fracciones II, III y IV del presente artículo, las leyes en materia hacendaria, fiscal y presupuestal.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Se exceptúan de la competencia del Pleno las previstas en las fracciones II, III y IV del presente artículo, las leyes en materia hacendaria, fiscal, presupuestal y electoral.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
 
@@ -631,17 +649,17 @@ Los Poderes del Estado y demás entidades públicas, independientemente de su na
 
 El Auditor Superior del Estado durará en su encargo siete años y podrá ser ratificado por una sola vez por un periodo igual. Solo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 32.
 
-El Instituto Electoral de Querétaro, es un organismo público autónomo; será la autoridad competente para la función estatal de organizar las elecciones locales. En su integración participan los partidos políticos y los ciudadanos, a través de siete consejeros electos por la Legislatura. En el ejercicio de esa función estatal, la certeza, la legalidad, la independencia, la imparcialidad, la equidad y la objetividad serán principios rectores.
+El Instituto Electoral del Estado de Querétaro, es el organismo público local en materia electoral en la Entidad, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ambas emanan. Gozará de autonomía en su funcionamiento e independencia en sus decisiones y contará con un órgano de dirección superior integrado conforme a las leyes.
 
-El Instituto Electoral de Querétaro podrá convenir con el Instituto Federal Electoral que éste organice procesos electorales locales.(3)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 26 DE JUNIO DE 2014.</small>
 
-(3) En cumplimiento a la resolución de la Suprema Corte de Justicia de la Nación recaída en la acción de inconstitucionalidad 76/2008 y sus acumuladas 77/2008 y 78/2008, se modificó el segundo párrafo del artículo 32 de esta Constitución.
+El Tribunal Electoral del Estado de Querétaro es la autoridad jurisdiccional local especializada en materia electoral del Estado. Dicho órgano gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Estará integrado por cinco Magistrados, de los cuales tres serán propietarios y dos supernumerarios, quienes serán designados por el Senado.
 
-Los Consejeros del Instituto Electoral de Querétaro durarán en su encargo siete años, pudiendo ser reelectos por un periodo igual y sólo podrán ser removidos por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
+El Instituto y el Tribunal previstos en este artículo, cumplirán sus funciones bajo los principios de certeza, imparcialidad, independencia, máxima publicidad, objetividad, legalidad y probidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
@@ -655,7 +673,7 @@ Apartado A
 
 La Defensoría de los Derechos Humanos de Querétaro, es un organismo público, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, mediante el que el Estado garantizará el respeto a los derechos humanos; promoverá su defensa y proveerá las condiciones necesarias para el cabal ejercicio de los mismos.
 
-EI Presidente de la Defensoría de los Derechos Humanos de Querétaro, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
+El Presidente de la Defensoría de los Derechos Humanos de Querétaro, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
@@ -715,13 +733,21 @@ III. Hasta tres Síndicos.(5)
 
 Los ayuntamientos se renovarán en su totalidad cada tres años y los miembros que los integran protestarán el cargo entre ellos mismos al entrar en funciones el primero de octubre del año de su elección.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Los Presidentes Municipales, los Regidores y los Síndicos, podrán ser electos consecutivamente, por un período adicional, en términos de la ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 36.
 
-Las faltas temporales y absolutas del Presidente Municipal, serán suplidas por el Regidor propietario que nombre el Ayuntamiento.
+Las faltas temporales y absolutas del Presidente Municipal, serán suplidas por el Regidor o Síndico propietarios que nombre el Ayuntamiento.
 
-El cargo de Regidor es renunciable por causa grave y justificada que calificará y resolverá el mismo Ayuntamiento.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Los cargos de los integrantes del Ayuntamiento son renunciables por causa grave y justificada que calificará y resolverá el mismo Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Cuando el Ayuntamiento haya desaparecido o por falta absoluta de la mayoría de sus integrantes, la Legislatura del Estado nombrará un Concejo Municipal que fungirá hasta terminar el período municipal.
 
@@ -977,7 +1003,7 @@ II.- La presente Ley entrará en vigor el día primero de noviembre de mil novec
 
 P.O. 23 DE FEBRERO DE 1939
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÍN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 6 DE JULIO DE 1939
 
@@ -1482,3 +1508,43 @@ Artículo Primero. La presente Ley, entrará en vigor al día siguiente de su pu
 Artículo Segundo. La Legislatura del Estado, dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, adecuará las leyes secundarias incluyendo su Ley Orgánica al contenido de este ordenamiento legal.
 
 Artículo Tercero. La Mesa Directiva de la Legislatura del Estado reordenara el trámite de las cuentas públicas municipales recibidas a partir del 26 de septiembre del 2013 a través de la Entidad Superior de Fiscalización de Estado de Querétaro, para que sean revisadas y fiscalizadas en los términos de la presente Ley.
+
+P.O. 26 DE JUNIO DE 2014.
+
+Artículo Primero. La presente Ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado de Querétaro.
+
+Artículo Segundo. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Artículo Tercero. En materia de elección consecutiva de diputados locales, no será aplicable a los legisladores que hayan protestado el cargo en la Legislatura que se encuentre en funciones a la entrada en vigor de la presente Ley.
+
+Artículo Cuarto. En materia de elección consecutiva de Presidentes Municipales, Regidores y Síndicos, no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor de la presente Ley.
+
+Artículo Quinto. Hasta en tanto entre en funciones el Tribunal Electoral del Estado de Querétaro, seguirá conociendo de los asuntos la Sala Electoral del Tribunal Superior de Justicia.
+
+El segundo párrafo del artículo 32 de la Constitución Política del Estado de Querétaro, entrará en vigor en la misma fecha en que comience a regir la ley orgánica que regule su organización y funcionamiento, a más tardar el 30 de junio de 2014. Entre tanto, el Poder Ejecutivo del Estado considerará las providencias presupuestales necesarias para garantizar que, al entrar en vigor las referidas disposiciones, el Tribunal Electoral del Estado de Querétaro cuente con recursos suficientes para desempeñar sus atribuciones.
+
+Dentro de los tres días hábiles siguientes a la publicación de la presente Ley, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el Presidente de la Mesa Directiva de la Legislatura remitirá al Senado de la República, atenta solicitud a efecto de que se consideren las previsiones pertinentes para la selección y designación de los Magistrados Propietarios y Supernumerarios del Tribunal Electoral del Estado de Querétaro.
+
+Artículo Sexto. La Legislatura del Estado, al adecuar la legislación secundaria local en materia electoral, en los términos del Artículo Tercero Transitorio de la Ley General de Partidos Políticos publicada en el Diario Oficial de la Federación el 23 de mayo de 2014, establecerá:
+
+I. Que cuando se postulen candidatos comunes, éstos deberán aparecer por separado en la boleta electoral, tantas veces como sean los partidos que los postulen; es decir, prohibiéndose los logotipos comunes y la imagen única del candidato en la boleta;
+
+II. Que para efectos de escrutinio y cómputo, tratándose de candidatos comunes, el voto contará siempre a favor del candidato postulado en común, a razón de un voto por cada boleta válida, independientemente del número de marcas que haya realizado el elector a favor del mismo candidato; y, en relación con los partidos postulantes, el voto se contabilizará conforme a las mismas reglas de distribución que para las coaliciones electorales se fijen a través de las leyes generales que en materia electoral expida el Congreso de la Unión;
+
+III. Que las coaliciones electorales no podrán postular candidaturas comunes con otros partidos, a menos que, a más tardar en la fecha límite establecida para la presentación de la solicitud de registro del convenio de coalición ante el órgano superior de dirección del Instituto Electoral del Estado de Querétaro, manifiesten por escrito ante esa instancia su intención de postular dicha candidatura común, indicando con qué partido o partidos habrá de realizarse dicha postulación y para cuál o cuáles candidaturas, sin que pueda la coalición o partido solicitantes definir ni publicitar en ese momento la identidad del o los candidatos comunes, sino hasta el momento de solicitar el registro formal de la candidatura, so pena de pérdida del derecho de registro de la misma.
+
+La carta de intención a que se refiere el párrafo anterior será vinculante, no podrá ser modificada después de su presentación y el Instituto Electoral del Estado de Querétaro, a más tardar el día natural siguiente a su recepción, deberá solicitar su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, señalando la hora y fecha en que fue presentada.
+
+Los partidos políticos a los que el Instituto Electoral del Estado de Querétaro les hubiese aprobado convenio de coalición o que hayan inscrito carta de intención para apoyar candidaturas comunes con otros partidos, desarrollarán en los tiempos de precampaña sus propios procesos internos para definir a los candidatos que habrán de postular;
+
+IV. Que la sustitución de candidatos no procederá en ningún caso, a favor de otro candidato previamente registrado como independiente o postulado por otro partido o coalición electoral;
+
+V. Tratándose de coaliciones electorales, además de lo establecido en el artículo 7 de esta Constitución, la legislación electoral del Estado de Querétaro no podrá fijar para las coaliciones totales, parciales y flexibles, porcentajes distintos a los señalados en la Ley General de Partidos Políticos. En cualquier caso, en el primer proceso electoral local en el que participe un partido político nacional o local, no podrá coaligarse bajo ninguna circunstancia; y
+
+VI. Que, en todo caso, la fecha de la jornada electoral local será concurrente con la federal.
+
+Artículo Séptimo. Conforme al Artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, los actuales consejeros del Instituto Electoral de Querétaro y su estructura orgánica, continuarán en su encargo hasta que en tanto el Consejo General del Instituto Nacional Electoral realice las designaciones de los nuevos integrantes del Instituto Electoral del Estado de Querétaro. Hechas estas designaciones, deberá procederse en los términos de la Ley de Entrega Recepción del Estado de Querétaro.
+
+La liquidación del Instituto Electoral de Querétaro, se sujetará a las leyes que resulten aplicables en la materia.
+
+Artículo Octavo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
