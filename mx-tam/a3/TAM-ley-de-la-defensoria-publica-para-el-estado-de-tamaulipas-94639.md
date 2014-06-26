@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-defensoria-publica-para-el-estado-de-tamaulipas-94639
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-07"
-last_updated: "2013-06-27"
+last_updated: "2014-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE JUNIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
 
 Ley publicada en el Anexo al Extraordinario No. 3 del Periódico Oficial del Estado de Tamaulipas, el viernes 7 de junio de 2013.
 
@@ -331,13 +329,19 @@ I. Asumir y ejercer inmediatamente la defensa del imputado o acusado, sin más r
 
 II. Velar para que en todo momento a quien se le atribuya la autoría o participación de un hecho considerado como delito, sea considerado y tratado como inocente por las autoridades, en tanto no demuestre su responsabilidad penal;
 
-III. Intervenir en el debate ante las solicitudes planteadas por el Ministerio Público de medidas cautelares para que éstas sean acordes, o procurando su no imposición o la aplicación de las menos gravosas;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+III. Intervenir en lo conducente, con motivo de la aplicación de las medidas de protección y providencias precautorias aplicadas por el ministerio público, así como en las solicitudes de medidas cautelares para que éstas sean acordes, o procurando su no imposición o la aplicación de las menos gravosas;
 
 IV. Solicitar el no ejercicio de la acción penal, la suspensión condicional del proceso o la aplicación de algún criterio de oportunidad, o bien cualquier otro mecanismo previsto en la ley en beneficio del defendido;
 
-V. Impulsar el uso de mecanismos alternativos de solución de controversias;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-VI. Entrevistar cuantas veces sean necesarias al imputado para conocer la versión personal de los hechos que motivaron la investigación o detención, así como los argumentos, datos y medios de prueba que le sirvan para tratar de justificar o explicar su participación en los mismos hechos, con el propósito de que pueda hacerlos valer ante el Ministerio Público o la autoridad jurisdiccional;
+V. Impulsar las soluciones alternas y formas de terminación anticipada del proceso;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+VI. Entrevistar cuantas veces sean necesarias al imputado, acusado o sentenciado para conocer la versión personal de los hechos que motivaron la investigación o detención, así como los datos de prueba, medios de prueba y pruebas que le sirvan para tratar de justificar o explicar su participación en los mismos hechos, con el propósito de que pueda hacerlos valer ante el Ministerio Público o la autoridad jurisdiccional;
 
 VII. Comparecer a todos los actos y audiencias del proceso en que se requiera su intervención, realizando las solicitudes, objeciones o manifestaciones que estime procedentes a favor de su defendido;
 
@@ -347,13 +351,19 @@ IX. Analizar las constancias que obren en la carpeta de investigación, expedien
 
 X. Preparar la estrategia de defensa, realizando todos los actos, diligencias y solicitudes con base en las previsiones contenidas en la legislación de la materia, con objeto de lograr el resultado más favorable a su defendido;
 
-XI. Hacer valer los argumentos y datos de prueba que desvirtúen la existencia del hecho que la ley señala como delito o de la probable comisión o participación del imputado, en la audiencia de vinculación a proceso;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XII. Promover la revisión, sustitución, modificación o cancelación de las medidas cautelares;
+XI. Hacer valer los datos de prueba, medios de prueba y pruebas, incluyendo la prueba anticipada cuando resulte necesario que desvirtúen la existencia del hecho que la ley señala como delito o de la probable comisión o participación del imputado, en la audiencia de vinculación a proceso;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XII. Promover la revocación, sustitución o modificación de las medidas cautelares;
 
 XIII. Proponer la aplicación de algún procedimiento especial, cuando lo estime procedente;
 
-XIV. Ofrecer en la etapa de preparación de juicio oral los medios de prueba que se desahogarán en la audiencia de juicio y promover la exclusión o depuración de los ofrecidos por el Ministerio Público o el acusador coadyuvante; así como todas aquellas actuaciones que conforme a la ley sean procedentes;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+XIV. Ofrecer en la etapa de preparación de juicio oral los medios de prueba que se desahogarán en la audiencia de juicio y promover la exclusión o depuración de los ofrecidos por el Ministerio Público o el coadyuvante en el proceso; así como todas aquellas actuaciones que conforme a la ley sean procedentes;
 
 XV. Comparecer e intervenir en la audiencia de debate de juicio oral, exponiendo sus alegatos iniciales, desahogando sus pruebas y controvirtiendo las de los otros intervinientes y formular sus alegatos de finales; así como todas aquellas actuaciones (sic) conforme a la ley le correspondan;
 
@@ -844,3 +854,27 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de junio del año dos mil trece.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de julio de 2014, y de manera sucesiva, conforme a las fechas de aplicación que se establecen en el artículo único del Decreto No. LXII-232 publicado en el Periódico Oficial del Estado número 53 de fecha 01 de mayo del 2014, mediante el cual se emite la Declaratoria de entrada en vigor, a partir del 1° de julio del 2014, del Código Nacional de Procedimientos Penales, en el Primer Distrito Judicial del Estado, con cabecera en Ciudad Victoria, perteneciente a la primera región judicial, para los delitos de daño en propiedad, lesiones y homicidio todos de carácter culposo, exceptuando cuando se cometan en las circunstancias previstas en el artículo 318 del Código Penal para el Estado de Tamaulipas, abandono de obligaciones alimenticias y violencia familiar, en los términos de los párrafos segundo y tercero del artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme a lo establecido en el artículo que antecede, a partir de la entrada en vigor del presente decreto, se derogan todas aquellas disposiciones del ámbito estatal que se contrapongan con el Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO TERCERO.
+
+Respecto a los procedimientos penales que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado proveerá lo conducente para contar con los órganos judiciales y auxiliares necesarios del Sistema de Justicia Penal Acusatorio y Oral, conforme a los requerimientos y gradualidad de la implementación.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Enjuiciamiento para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Enjuiciamiento, designación de Jueces de Control el Consejo podrá habilitar a Jueces de Primera Instancia, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
