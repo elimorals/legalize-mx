@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2014-01-09"
+last_updated: "2014-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2014.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -363,9 +363,13 @@ El registro de nacimiento es el acto jurídico mediante el cual, el Estado garan
 
 Los apellidos corresponderán, por su orden, el primero del padre y el primero de la madre. En el caso de hijos monoparentales se usará el primer apellido de la madre y en caso de solicitar el asentamiento del segundo apellido de la madre, será a petición de ésta.
 
+> <small>(REFORMADO, B.O. 26 DE JUNIO DE 2014)</small>
+
 ###### Artículo 46.
 
-Queda prohibido al Oficial del Registro Civil registrar al menor con nombre propio que sea peyorativo, discriminatorio, infamante, denigrante, carente de significado o que constituya un signo o siglas, que se componga de más de dos nombres, o bien que exponga al registrado a ser objeto de burla.
+El oficial del registro civil orientará a quien comparezca a registrar a una persona, sobre la importancia en la selección del nombre propio, con el objeto de que el mismo, contribuya adecuadamente en el proceso del menor para forjarse una identidad.
+
+La Dirección General podrá realizar campañas de concientización entre la población, a efecto de reforzar lo dispuesto en el párrafo anterior.
 
 ###### Artículo 47.
 
@@ -1054,3 +1058,11 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Hermosillo, Sonora, a los ocho días del mes de enero del año dos mil catorce. - SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO. - GUILLERMO PADRÉS ELÍAS.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO ROMERO LÓPEZ. – RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 26 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
