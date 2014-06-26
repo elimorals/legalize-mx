@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2014-02-16"
+last_updated: "2014-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -591,13 +591,15 @@ V.- La incapacidad física o mental o inhabilitación manifiesta del trabajador,
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
-###### Artículo 62º.
+###### Artículo 62o.
 
 Son causas de rescisión de la relación del trabajo, sin responsabilidad para la Dependencia o Entidad Administrativa, las siguientes:
 
 I.- Incurrir el empleado en faltas de probidad u honradez o en actos de violencia, amagos, injurias o malos tratos contra los jefes o compañeros, o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio.
 
-II.- Faltar por más de tres días consecutivos a sus labores sin causa justificada.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+II.- Tener el trabajador más de tres faltas de asistencia en un período de treinta días, sin permiso del patrón o sin causa justificada;
 
 III.- Destruir el trabajador intencionalmente edificios, obras, maquinaria, instrumentos, materia prima o demás objetos relacionados con el trabajo.
 
@@ -621,19 +623,35 @@ En los casos a que se refiere este Artículo, el trabajador que diere motivo par
 
 Si el Tribunal resuelve que fué justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### Artículo 63o.
 
-El Trabajador podrá optar por solicitar ante el Tribunal Laboral Burocrático, que se le reinstale en el trabajo que desempeñaba, o bien, que se le indemnice con el importe de tres meses de salario.
+El trabajador podrá solicitar ante el Tribunal Laboral Burocrático, a su elección, que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de salario.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-Si en el Juicio correspondiente no comprueba el Titular de la Dependencia o Entidad Administrativa respectiva, la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios caídos desde la fecha del despido hasta que se cumplimente la sentencia.
+Si en el Juicio correspondiente no comprueba el Titular de la Dependencia o Entidad Administrativa respectiva, la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un período máximo de doce meses.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de cien a mil veces el salario mínimo general.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario. En caso de reincidencia se sancionará con la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
-###### Artículo 64º.
+###### Artículo 64o.
 
 El Titular de la Dependencia o Entidad Administrativa de que se trate, quedará eximido de la obligación de reinstalar al trabajador, mediante el pago de las indemnizaciones que se determinan en el Artículo 65º. de esta Ley, en los casos siguientes:
 
@@ -893,7 +911,7 @@ II.- La intensidad y la calidad del trabajo.
 
 III.- Las horas de entrada y salida de los Trabajadores.
 
-IV.- Medidas que deben adoptarse para prevenir las realizaciones (sic) de riesgos profesionales.
+IV.- Medidas que deben adoptarse para prevenir las realizaciones de riesgos profesionales.
 
 V.- Las disposiciones disciplinarias y la forma de aplicarlas.
 
@@ -1486,6 +1504,12 @@ SÉPTIMO.- Los Trabajadores de la Educación al Servicio del Estado que al momen
 Los Trabajadores de la Educación al Servicio del Estado que ingresen al servicio a partir de la entrada en vigor del presente decreto, se regirán por todas las disposiciones contenidas en la presente ley y sus disposiciones reglamentarias.
 
 P.O. 16 DE FEBRERO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
