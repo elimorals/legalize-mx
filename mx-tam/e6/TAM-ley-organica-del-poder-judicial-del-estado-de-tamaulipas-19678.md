@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2014-04-03"
+last_updated: "2014-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO No. LXII-249, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL 1° DE JULIO DE 2014, Y DE MANERA SUCESIVA, CONFORME A LAS FECHAS DE APLICACIÓN QUE SE ESTABLECEN EN EL ARTÍCULO ÚNICO DEL DECRETO No. LXII-232 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 53 DE FECHA 01 DE MAYO DEL 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -555,13 +557,11 @@ XXV.- Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el infor
 
 XXVI.- Calificar los impedimentos de los jueces de primera instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XXVII.- Dar trámite a los impedimentos de los Jueces de Tribunal (sic) de Juicio Oral que éste le remita, resolviendo lo que corresponda;
+XXVII.- Dar trámite a los impedimentos de los Jueces de Control y del Tribunal de Enjuiciamiento, que éstos le remitan, resolviendo lo que corresponda;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-XXVIII.- Conocer y resolver los recursos de revisión, conforme a lo establecido en el Código de Procedimientos Penales del Estado, expedido mediante Decreto número LXI-475; y
+XXVIII.- (DEROGADA, P.O. 26 DE JUNIO DE 2014)
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -725,11 +725,11 @@ X.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores p
 
 XI.- Ejercer las demás atribuciones que le asigne esta ley y los acuerdos generales del Pleno del Supremo Tribunal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 27.
 
-Los Magistrados de número podrán actuar en segunda instancia en forma colegiada y unitaria para conocer de apelaciones contra autos, sentencias interlocutorias y resoluciones que pongan fin al juicio conforme lo determine el Pleno del Supremo Tribunal de Justicia. Las Salas Colegiadas serán una en materia penal y dos en asuntos de carácter civil y familiar.
+Los Magistrados de número podrán actuar en segunda instancia en forma colegiada y unitaria para conocer de apelaciones contra autos, sentencias interlocutorias y resoluciones que pongan fin al proceso conforme lo determine el Pleno del Supremo Tribunal de Justicia. Las Salas Colegiadas serán una en materia penal y dos en asuntos de carácter civil y familiar.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2008)</small>
 
@@ -747,17 +747,15 @@ b).- Cuando el Ministerio Público formule las conclusiones reclasificando el de
 
 c).- En los casos en que algún asunto se esté conociendo por algún Magistrado en forma unitaria y a petición de éste se considere que deba conocerse en forma colegiada, en este caso, deberá someterse a la aprobación del Pleno del Supremo Tribunal de Justicia; y
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-d).- Contra sentencias definitivas en el procedimiento abreviado, así como del recurso de casación, conforme lo establecido en el Código de Procedimientos Penales del Estado, expedido mediante Decreto número LXI-475.
+d).- Contra sentencias definitivas en procedimiento abreviado, así como contra las emitidas por el Tribunal de Enjuiciamiento en los términos del Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2008)</small>
 
 En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-Asimismo, las Salas Unitarias conocerán de la reclamación a que se refiere el artículo 222 del Código de Procedimientos Penales del Estado, expedido mediante Decreto número LXI-475.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -3353,9 +3351,7 @@ La Comisión de Administración, Vigilancia y Disciplina del Tribunal Electoral 
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 204.
 
@@ -3389,7 +3385,11 @@ La jurisprudencia del Tribunal Electoral será obligatoria en todos los casos pa
 
 ###### ARTICULO 206.
 
-El Tribunal Electrónico es el sistema integral de procesamiento de información, de forma electrónica o digital, que permite la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado; conforme a lo establecido en los Códigos de Procedimientos Civiles del Estado de Tamaulipas y de Procedimientos Penales para el Estado de Tamaulipas, así como, en el Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado, que apruebe el Pleno del Supremo Tribunal de Justicia.
+El Tribunal Electrónico es el sistema integral de procesamiento de información, de forma electrónica o digital, que permite la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado; conforme a lo establecido en las leyes aplicables, así como en el Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado, que apruebe el Pleno del Consejo de la Judicatura.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 El objeto principal del Tribunal Electrónico es constituirse en una herramienta tecnológica que contribuya a que los servicios de impartición de justicia se presten con mayor agilidad, calidad, eficacia, eficiencia, seguridad y transparencia, en beneficio de los justiciables.
 
@@ -3417,9 +3417,9 @@ V.- El fungir como medio de comunicación procesal entre autoridades jurisdiccio
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
 
-### CAPITULO II. DE LOS TRIBUNALES DE JUICIO ORAL
+### CAPITULO II. DE LOS TRIBUNALES DE ENJUICIAMIENTO
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 208.
 
@@ -3427,93 +3427,129 @@ Son órganos judiciales del Sistema de Justicia Penal Acusatorio y Oral:
 
 I.- El Pleno del Supremo Tribunal de Justicia;
 
-II.- Las Salas Colegiadas, Unitarias y Regionales;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-III.- Los Tribunales de Juicio Oral;
+II.- Las Salas Colegiadas, Unitarias y Regionales que conocen materia penal;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+III.- Tribunales de Enjuiciamiento;
 
 IV.- Los Jueces de Control; y
 
 V.- Los Jueces de Ejecución de Sanciones.
 
-Los Jueces de Control y los que integran los Tribunales de Juicio Oral, administrativamente serán considerados como Jueces de Primera Instancia.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+Los Jueces de Control y los que integran los Tribunales de Enjuiciamiento, administrativamente serán considerados como Jueces de Primera Instancia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 209.
 
-Para ser Juez de Control o Juez de Tribunal de Juicio Oral, se requiere:
+Para ser Juez de Control o Juez de Tribunal de Enjuiciamiento, se requiere:
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos; originario del Estado o con residencia en el mismo por más de cinco años ininterrumpidos inmediatamente anteriores a la fecha de la designación, salvo el caso de ausencia en cumplimiento de un servicio público, o actividades de investigación o mejoramiento académico;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 II.- Tener más de veintisiete años de edad y menos de setenta el día de su designación;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 III.- Ser Licenciado en Derecho o su equivalente, con título registrado en el Supremo Tribunal de Justicia;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 IV.- Tener práctica profesional de cinco años cuando menos, contados a partir de la obtención de la licenciatura para ejercer la profesión;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 VI.- Aprobar el examen de conocimientos que al efecto formule el Consejo de la Judicatura del Estado, por conducto del Centro de Actualización Jurídica e Investigación Procesal. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 VII.- Los demás requisitos y evaluaciones que previamente determine el Consejo de la Judicatura del Estado.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 210.
 
-La competencia territorial de los Jueces de Control y Tribunales de Juicio Oral quedará determinada por esta ley, el Código de Procedimiento (sic) Penales del Estado expedido mediante Decreto LXI-475 y por el Consejo de la Judicatura del Estado.
+La competencia territorial de los Jueces de Control y Tribunales de Enjuiciamiento, quedará determinada por esta ley, el Código Nacional de Procedimientos Penales y el Consejo de la Judicatura del Estado.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2014)</small>
 
 ### CAPITULO III. DE LOS JUECES DE CONTROL
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 211.
 
-Los Tribunales de Juicio Oral en materia penal se integrarán colegiadamente por tres jueces, actuarán bajo los lineamientos aplicables contenidos en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y tendrán las atribuciones que señale el Código de Procedimientos Penales del Estado expedido mediante Decreto número LXI-475 y la presente ley.
+Los Tribunales de Enjuiciamiento en materia penal se integrarán colegiadamente por tres jueces, actuarán bajo los lineamientos aplicables contenidos en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y tendrán las atribuciones que señale el Código Nacional de Procedimientos Penales y la presente ley.
 
-Las resoluciones de los Tribunales de Juicio Oral se tomarán por unanimidad o por mayoría de votos.
+Las resoluciones de los Tribunales de Enjuiciamiento se tomarán por unanimidad o por mayoría de votos.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+Los Jueces integrantes del Tribunal de Enjuiciamiento podrán actuar como Jueces de Control, respetando la previsión contenida en el artículo 20, apartado A, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 212.
 
-Los Tribunales de Juicio Oral contarán con un Juez Presidente, quien dirigirá las sesiones, el debate de las mismas y conservará el orden. La sentencia constará por escrito, señalará el nombre del juez redactor y, en su caso, el del disidente.
+Los Tribunales de Enjuiciamiento contarán con un Juez Presidente, quien dirigirá las audiencias, el debate de las mismas y conservará el orden. La sentencia constará por escrito, señalará el nombre del juez redactor y, en su caso, el del disidente.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-###### ARTICULO 213.
+###### ARTÍCULO 213.
 
-El Juez Presidente del Tribunal de Juicio Oral será designado, en cada asunto, mediante el sistema aleatorio que para tal efecto implemente el Consejo de la Judicatura del Estado y conforme a los lineamientos que sean señalados por éste en el acuerdo respectivo.
+El Juez Presidente del Tribunal de Enjuiciamiento será designado, en cada asunto, mediante el sistema aleatorio que para tal efecto implemente el Consejo de la Judicatura del Estado y conforme a los lineamientos que sean señalados por éste en el acuerdo respectivo.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
-###### ARTICULO 214.
+###### ARTÍCULO 214.
 
-Son funciones de los Tribunales de Juicio Oral las siguientes:
+Son funciones de los Tribunales de Enjuiciamiento, las siguientes:
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 I.- Conocer y juzgar las causas penales de su competencia;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 II.- Resolver los incidentes y planteamientos que se presenten durante la etapa de juicio;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 III.- Resolver los recursos de revocación que les corresponda conocer;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
+
 IV.- Pronunciar sentencia en los términos de ley;
 
-V.- Resolver sobre la admisión de los recursos de casación; y
+V.- (DEROGADA, P.O. 26 DE JUNIO DE 2014)
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 VI.- Las demás que les otorgue la ley.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2013)</small>
 
-### CAPITULO IV. DEL ADMINISTRADOR DE SALA DE AUDIENCIAS
+### CAPITULO IV. DE LA ADMINISTRACIÓN
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
-###### ARTICULO 215.
+###### ARTÍCULO 215.
 
-Corresponde a los Jueces de Control, además de tener a su cargo el ejercicio de las atribuciones de control judicial establecidas en el artículo 16 párrafo decimocuarto de la Constitución Política de los Estados Unidos Mexicanos, las funciones siguientes:
+Los Jueces de Control tienen a su cargo el ejercicio de las atribuciones de control judicial establecidas en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; sin embargo, podrán actuar como integrantes del Tribunal de Enjuiciamiento, siempre que no se contravenga lo dispuesto por el artículo 20, apartado A, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+ARTÍCULO 215 BIS.- Son funciones de los Jueces de Control, las siguientes:
 
 I.- Conocer y resolver las impugnaciones contra las resoluciones que otorguen el ejercicio de criterios de oportunidad;
 
@@ -3543,85 +3579,83 @@ XIII.- Dirigir la audiencia de vinculación a proceso del imputado, resolviendo 
 
 XIV.- Dictar auto de sobreseimiento de la causa o de suspensión del proceso, cuando proceda;
 
-XV.- Dirigir la audiencia de preparación de juicio oral, resolviendo las situaciones procesales inherentes, y dictar auto de apertura de juicio oral;
+XV.- Dirigir la audiencia de preparación de juicio oral resolviendo las situaciones procesales inherentes, y dictar auto de apertura de juicio oral;
 
-XVI.- Tramitar el procedimiento abreviado y pronunciar la sentencia que al mismo corresponda;
+XVI.- Conocer y resolver las impugnaciones sobre las determinaciones del Ministerio Público relativas a la abstención de investigar, archivo temporal o de no ejercicio de la acción penal; y
 
-XVII.- Resolver los recursos de revocación que ante ellos se interpongan; y
+XVII.- Las demás que le otorgue la ley.
 
-XVIII.- Las demás que le otorgue la ley.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+### CAPITULO V. DE LA UNIDAD DE SEGUIMIENTO DE CAUSAS
 
-### CAPITULO V. DEL SECRETARIO DE SALA DE AUDIENCIAS
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 216.
 
-El Sistema de Justicia Penal Acusatorio y Oral tendrá Administradores de Sala de Audiencias, que contarán con el personal de apoyo que determine el Consejo de la Judicatura del Estado y permita el presupuesto.
+La administración del Sistema de Justicia Penal Acusatorio y Oral estará a cargo de un titular, designado por el Consejo de la Judicatura del Estado y contará con el personal de apoyo que éste determine y permita el presupuesto.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 217.
 
-Las funciones del Administrador de Sala de Audiencias en el Sistema de Justicia Penal Acusatorio y Oral, serán:
+Las funciones del titular de la administración del Sistema de Justicia Penal Acusatorio y Oral, serán:
 
-I.- Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en la Sala de Audiencias a su cargo y, en general, las medidas necesarias para el correcto funcionamiento del recinto en la aplicación del Sistema;
+I.- Planificar, organizar y controlar la gestión administrativa del procedimiento penal acusatorio y oral, en el ámbito judicial;
 
-II.- Remitir a la Presidencia del Supremo Tribunal de Justicia informe estadístico mensual y acumulado anual sobre el movimiento de asuntos atendidos por los jueces y tribunales que actúan en la Sala de Audiencias a su cargo;
+II.- Dirigir y supervisar la logística para el correcto funcionamiento de las salas de audiencias, así como el sistema de asignación de jueces para las mismas;
 
-III.- Mantener el resguardo de la Sala de Audiencias, así como de los bienes asignados a la misma, y en caso de deterioro dar aviso inmediato al Departamento de Servicios Generales;
+III.- Evaluar el desempeño del personal de apoyo;
 
-IV.- Ejercer la custodia de los bienes y valores que se encuentren a disposición de los órganos jurisdiccionales, con motivo de la tramitación de los asuntos vinculados a la Sala de Audiencias a su cargo;
+IV.- Llevar la estadística general, rindiendo los informes respectivos;
 
-V.- Recibir y entregar, bajo riguroso inventario, los bienes y valores a que se refieren las dos fracciones anteriores;
+V.- Proponer al Consejo de la Judicatura los manuales de organización requeridos;
 
-VI.- Operar el sistema aleatorio para la designación de Juez Presidente a que se refiere el artículo 213 de la presente ley;
+VI.- Vigilar el buen uso y conservación de la infraestructura y equipamiento de las salas de audiencias; y
 
-VII.- Supervisar el uso eficiente de las tecnologías diseñadas para el registro de los actos procesales derivados del Sistema y vinculados al recinto a su cargo;
+VII.- Las demás que señale (sic) ley y el Consejo de la Judicatura.
 
-VIII.- Elaborar y mantener actualizado el registro de los sujetos procesales que intervienen en cada caso; y
-
-IX.- Las demás que determine la ley o el Pleno del Consejo de la Judicatura del Estado.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 218.
 
-El Consejo de la Judicatura del Estado fijará los requisitos y perfil de quienes aspiren a fungir como Administrador de Salas de Audiencia en el Sistema Penal Acusatorio y Oral.
+El Consejo de la Judicatura del Estado fijará los requisitos y perfil del titular de la administración del Sistema de Justicia Penal Acusatorio y Oral.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 219.
 
-Las Salas de Audiencias del Sistema de Justicia Penal Acusatorio y Oral contarán con un Secretario, que asistirá al Juez de Control y al Tribunal de Juicio Oral, según sea el caso
+El Sistema de Justicia Penal Acusatorio y Oral tendrá las Unidades de Seguimiento de Causas que resulten necesarias, y contarán con el personal de apoyo que determine el Consejo de la Judicatura del Estado y permita el presupuesto.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 220.
 
-Las funciones del Secretario de Sala de Audiencias en el Sistema de Justicia Penal Acusatorio y Oral, serán:
+Las funciones de la Unidad de Seguimiento de Causas, serán las siguientes:
 
-I.- Certificar y expedir copias de documentación y registros que soliciten los interesados y autorice el órgano titular;
+I.- Expedir a las partes las copias de registros que autorice el órgano jurisdiccional;
 
-II.- Certificar la presencia del Juez o de los integrantes del Tribunal en las audiencias que correspondan;
+II.- Conservar los documentos, registros o actuaciones que se generen durante el proceso y hasta que la resolución cause ejecutoria;
 
-III.- Conservar los documentos, registros o actuaciones que se generen durante el proceso;
+III.- Una vez concluido el proceso, enviar la carpeta administrativa y registros de audiencias al Archivo Judicial para su resguardo;
 
-IV.- Enviar copia de las actuaciones y audiencias efectuadas en el proceso al Archivo Judicial para su resguardo;
+IV.- Verificar que se reúnan las condiciones para iniciar la audiencia e informar el resultado al órgano jurisdiccional;
 
-V.- Identificar a testigos y peritos, en presencia de los integrantes del Tribunal de Juicio Oral, así como tomarles la protesta de decir verdad;
+V.- Recibir y despachar la correspondencia de los órganos jurisdiccionales a quienes asiste;
 
-VI.- Recibir y despachar la correspondencia de los órganos jurisdiccionales a quienes asiste; y
+VI.- Dar seguimiento a los mandatos judiciales originados dentro y fuera de audiencia;
 
-VII.- Las demás que determine la ley o el Pleno del Consejo de la Judicatura del Estado.
+VII.- Llevar la agenda y dar cuenta al órgano jurisdiccional de los términos o actos que tengan efectos procesales;
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
+VIII.- Elaborar el acta que contenga los datos mínimos de las audiencias; y
+
+IX.- Las demás que determine la ley, el Consejo de la Judicatura del Estado o el titular de la administración del Sistema de Justicia Penal Acusatorio y Oral.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 221.
 
-El Consejo de la Judicatura del Estado fijará el perfil y requisitos de admisión para los aspirantes al cargo de Secretario de Sala de Audiencias en el Sistema de Justicia Penal Acusatorio y Oral.
+El Consejo de la Judicatura del Estado fijará el perfil y requisitos del titular de la Unidad de Seguimiento de Causas en el Sistema de Justicia Penal Acusatorio y Oral.
 
 T R A N S I T O R I O S
 
@@ -3882,3 +3916,27 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de julio de 2014, y de manera sucesiva, conforme a las fechas de aplicación que se establecen en el artículo único del Decreto No. LXII-232 publicado en el Periódico Oficial del Estado número 53 de fecha 01 de mayo del 2014, mediante el cual se emite la Declaratoria de entrada en vigor, a partir del 1° de julio del 2014, del Código Nacional de Procedimientos Penales, en el Primer Distrito Judicial del Estado, con cabecera en Ciudad Victoria, perteneciente a la primera región judicial, para los delitos de daño en propiedad, lesiones y homicidio todos de carácter culposo, exceptuando cuando se cometan en las circunstancias previstas en el artículo 318 del Código Penal para el Estado de Tamaulipas, abandono de obligaciones alimenticias y violencia familiar, en los términos de los párrafos segundo y tercero del artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme a lo establecido en el artículo que antecede, a partir de la entrada en vigor del presente decreto, se derogan todas aquellas disposiciones del ámbito estatal que se contrapongan con el Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO TERCERO.
+
+Respecto a los procedimientos penales que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Estado proveerá lo conducente para contar con los órganos judiciales y auxiliares necesarios del Sistema de Justicia Penal Acusatorio y Oral, conforme a los requerimientos y gradualidad de la implementación.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Enjuiciamiento para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Enjuiciamiento, designación de Jueces de Control el Consejo podrá habilitar a Jueces de Primera Instancia, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
