@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-06-24"
+last_updated: "2014-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -429,9 +429,15 @@ IV.- Votar en las elecciones populares en los términos que señale la ley.
 
 Son prerrogativas de los ciudadanos potosinos:
 
-I.- Votar en las elecciones populares y en los procesos de referéndum y plebiscito que lleven a cabo las autoridades competentes;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+I.- Votar en las elecciones populares y consultas ciudadanas que lleven a cabo las autoridades competentes;
 
 II.- Poder ser votados para todos los cargos de elección popular y nombrados para ocupar cualquier empleo o comisión, teniendo las calidades que esta Constitución y las leyes establezcan;
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 III.- Ejercer individual y libremente el derecho de asociarse y reunirse para tomar parte en forma pacífica en los asuntos políticos del Estado y los Municipios; y
 
@@ -485,19 +491,27 @@ La ley fijará el procedimiento para la pérdida y suspensión de los derechos o
 
 El sufragio es el derecho que otorga la ley a los ciudadanos para participar en la vida política del Estado y constituye un deber cívico y legal que se ejerce a través del voto para expresar la voluntad soberana del individuo. El voto deberá ser libre, universal, secreto y directo. Las autoridades garantizarán la libertad y secreto del mismo.
 
-Corresponde a los ciudadanos, partidos políticos y al Consejo Estatal Electoral la preparación, desarrollo y vigilancia de los procesos electorales, así como velar porque los mismos se lleven a cabo bajo los principios de certeza, legalidad, imparcialidad, independencia, objetividad y equidad.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Corresponde a los ciudadanos, partidos políticos y al Consejo Estatal Electoral, la preparación, desarrollo y vigilancia de los procesos electorales, así como velar porque los mismos se lleven a cabo bajo los principios de, certeza, legalidad, imparcialidad, independencia, máxima publicidad, objetividad y equidad.
 
 La ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 31.
 
-El Consejo Estatal Electoral y de Participación Ciudadana, es un organismo de carácter permanente, autónomo, independiente en sus decisiones y funcionamiento; con personalidad jurídica y patrimonio propios; encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral; de preparar, desarrollar y vigilar los procesos electorales estatales y municipales; así como los procesos de referéndum y plebiscito; integrado conforme lo disponga la ley respectiva. El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, designará a los consejeros ciudadanos que lo integran y, de entre ellos, nombrará al Presidente de este Organismo.
+El Consejo Estatal Electoral y de Participación Ciudadana es un organismo de carácter permanente, autónomo, independiente en sus decisiones y funcionamiento; con personalidad jurídica y patrimonio propios; encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral; de preparar, desarrollar y vigilar los procesos electorales estatales y municipales; así como los procesos de consulta ciudadana; integrado conforme lo disponga la ley respectiva.
 
-La calificación de las elecciones de Gobernador, diputados locales, y ayuntamientos, corresponde al Consejo Estatal Electoral y de Participación Ciudadana, conforme lo disponga la ley de la materia.
+La calificación de las elecciones de Gobernador, diputados locales, y ayuntamientos, corresponde al Consejo Estatal Electoral y de Participación Ciudadana o, en su caso, al Instituto Nacional Electoral, de conformidad con la Constitución Federal y de acuerdo a las leyes federales y locales electorales.
 
-El Consejo Estatal Electoral y de Participación Ciudadana, es competente para imponer las sanciones administrativas por infracción a las disposiciones electorales, en que incurran tanto los partidos políticos y agrupaciones políticas estatales, como los particulares; y para hacer del conocimiento de las autoridades competentes, las conductas infractoras atribuibles a servidores públicos, extranjeros y ministros de culto, para efecto de la imposición de las sanciones correspondientes.
+El Consejo Estatal Electoral y de Participación Ciudadana es competente para imponer las sanciones administrativas, por infracción a las disposiciones electorales, en los términos que establezca la ley.
+
+El Consejo Estatal Electoral y de Participación Ciudadana contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; un secretario ejecutivo y representantes de los partidos políticos y, en su caso, el representante del candidato independiente a Gobernador del Estado; quienes concurrirán a las sesiones sólo con derecho a voz.
+
+Los consejeros electorales integrantes del Consejo Estatal Electoral y de Participación Ciudadana durarán en su encargo un periodo de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones; serán nombrados por el Consejo General del Instituto Nacional Electoral, y podrán ser removidos por causas graves que establezca la ley.
+
+Los consejeros electorales y demás servidores públicos del Consejo Estatal Electoral y de Participación Ciudadana, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
 > <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
 
@@ -505,25 +519,31 @@ ARTÍCULO 31 BIS.- La Contraloría Interna es el órgano del Consejo Estatal Ele
 
 El titular de la Contraloría será electo, previa convocatoria pública, por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, y sólo podrá ser removido por las causas y en la forma que establezca la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 32.
 
-Para resolver las impugnaciones que se presenten en los procesos electorales, se instituirá un Tribunal Electoral, como órgano permanente y especializado del Poder Judicial del Estado, que será la máxima autoridad jurisdiccional en la materia.
+El Tribunal Electoral del Estado es el órgano jurisdiccional de única instancia y especializado en materia electoral en el Estado; gozará de autonomía técnica, gestión en su funcionamiento, e independencia en sus decisiones. Éste deberá cumplir sus funciones bajo los principios de, certeza, imparcialidad, objetividad, legalidad y probidad.
 
-El procedimiento ante el Tribunal Electoral será de doble instancia dentro del proceso electoral, y de única instancia fuera del mismo; los magistrados que lo integren serán nombrados por el voto de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta del Supremo Tribunal de Justicia, de conformidad con lo establecido por la ley. Las salas de primera instancia podrán ser regionales y en el número que determine el Pleno del Supremo Tribunal de Justicia.
+El Tribunal Electoral del Estado no formará parte del Poder Judicial del Estado, y se integra por tres magistrados que actuarán en forma colegiada, y permanecerán en su encargo durante siete años.
 
-Sin perjuicio de la competencia que le corresponde, la Sala de Segunda Instancia funcionará como Sala Auxiliar, con la competencia que al efecto le designe el Pleno del Supremo Tribunal de Justicia del Estado.
+Los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, de conformidad con lo que establecen, la Constitución Federal, y las leyes generales en materia electoral que de ella emanen.
 
-El Presidente de la Sala de Segunda Instancia será electo por los integrantes de la misma.
+Los magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes locales en la materia.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+
+Todas las sesiones del Tribunal Electoral del Estado serán públicas.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 33.
 
-En materia electoral, la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnados.
+La ley establecerá el sistema de medios de impugnación jurisdiccionales, por los cuales deban resolverse las controversias que se susciten con motivo de los procesos electorales locales, así como las derivadas de los actos y resoluciones que emitan las autoridades electorales locales.
 
-Los fallos de segunda instancia serán definitivos e inatacables.
+Estos procedimientos jurisdiccionales tienen por objeto garantizar los principios de, certeza y definitividad de las diferentes etapas de los procesos electorales, así como el de legalidad de los actos y resoluciones de las autoridades en la materia.
+
+En materia electoral los recursos se tramitarán en términos de la ley local de la materia.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -541,27 +561,29 @@ Los organismos electorales competentes, con la participación de los partidos po
 
 ### CAPÍTULO II. De los Partidos Políticos
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 36.
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática y hacer posible el acceso de sus candidatos, mediante el sufragio universal, libre, secreto y directo de los electores, al ejercicio del poder público, de acuerdo con los programas, principios e ideas postulados por aquéllos.
+Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática, y hacer posible el acceso de sus candidatos, mediante el sufragio universal, libre, secreto y directo de los electores, al ejercicio del poder público, de acuerdo con los programas, principios e ideas postulados por aquéllos; así como las reglas para garantizar la paridad entre los géneros, en candidaturas a diputados locales, y ayuntamientos.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 37.
 
-Con las prerrogativas y derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos, los partidos políticos con registro nacional o estatal tienen derecho a participar en los procesos electorales que se lleven a cabo en el Estado, siempre y cuando observen lo dispuesto por la ley de la materia.
+Con las prerrogativas y derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos, los partidos políticos con registro nacional o estatal tienen derecho a participar en los procesos electorales que se lleven a cabo en el Estado, siempre y cuando observen lo dispuesto por las leyes federales y locales en la materia.
+
+Para conservar el registro o inscripción que da acceso a las prerrogativas económicas en el Estado, los partidos políticos deberán obtener por lo menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones locales, ya sea para la elección del Poder Ejecutivo, o Poder Legislativo, en el último proceso electoral.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPÍTULO III. Del Referéndum y Plebiscito
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 38.
 
-El referéndum y el plebiscito son instrumentos de consulta popular para decidir los actos de Gobierno que determine la ley.
+La consulta ciudadana es el mecanismo de participación por el cual los potosinos ejercen su derecho a través del voto emitido, y mediante el cual expresan su opinión respecto de uno o varios temas de trascendencia estatal o municipal. Esta Constitución reconoce como instrumentos de consulta ciudadana, el referéndum y plebiscito. La ley en la materia establecerá las materias, requisitos, alcances, términos y procedimientos para llevarla a cabo.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
 
@@ -609,11 +631,11 @@ La ley establecerá las materias, requisitos, alcances, términos y procedimient
 
 ### CAPÍTULO I. Del Congreso del Estado
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 40.
 
-El ejercicio del Poder Legislativo se deposita en una asamblea de Diputados, que se denomina Congreso del Estado, la cual se renovará totalmente cada tres años.
+El ejercicio del Poder Legislativo se deposita en una asamblea de Diputados, que se denomina Congreso del Estado, la cual se elegirá cada tres años.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -681,21 +703,37 @@ No pueden ser Diputados:
 
 I.- El Gobernador del Estado;
 
-II.- Los funcionarios de nombramiento estatal o municipal con atribuciones de mando y en ejercicio de autoridad o con funciones jurisdiccionales;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+II.- Los secretarios, subsecretarios o Procurador General del Estado; ni los titulares de los organismos descentralizados o desconcentrados de la administración; o a los que esta Constitución otorga autonomía;
 
 III.- Los funcionarios de elección popular de los Ayuntamientos;
 
-IV.- Los miembros de las Fuerzas Armadas que estén en servicio activo o que tengan mando en el Estado, así como los que ejerzan mando y atribuciones en la policía en el distrito en donde se celebre la elección; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+IV.- Los miembros de las Fuerzas Armadas que estén en servicio activo o que tengan mando en el Estado, así como los que ejerzan mando y atribuciones en la policía en el distrito en donde se celebre la elección;
 
 V.- Los ministros de culto religioso.
 
-No estarán impedidos los ciudadanos a que se refiere la fracción II si se separan de sus cargos ciento veinte días antes del día de la elección, ni los ciudadanos a que se refieren las fracciones III y IV si se separan de sus cargos noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Federal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+VI.- Los Magistrados y secretarios del Tribunal Electoral del Estado; el Consejero Presidente o los consejeros electorales del Consejo Estatal Electoral y de Participación Ciudadana, el secretario ejecutivo, o personal profesional directivo del propio Consejo, salvo que se hubiere separado de su encargo tres años antes del día de la elección, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+VII.- Los Magistrados y Jueces del Supremo Tribunal de Justicia del Estado, no podrán ser electos en la Entidad de sus respectivas jurisdicciones.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Quienes se encuentren en los supuestos que señalan las fracciones, II, III, IV, y VII de este artículo, estarán impedidos a menos que se separen definitivamente de sus funciones noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 48.
 
-Los Diputados propietarios no podrán ser reelectos para el período inmediato, ni aún como suplentes. Los Diputados suplentes podrán ser electos para el período inmediato como propietarios, siempre que no hubieran estado en ejercicio de sus funciones.
+Los Diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
@@ -901,17 +939,17 @@ XXXII.- AUTORIZAR LAS CONCESIONES QUE OTORGUEN LOS AYUNTAMIENTOS, CUANDO SU VIGE
 
 XXXIII.- Elegir, en los términos de esta Constitución, a los magistrados del Supremo Tribunal de Justicia, así como a los magistrados del Tribunal Estatal de lo Contencioso Administrativo;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XXXIV.- Ratificar, en los términos de esta Constitución, a dos integrantes del Consejo de la Judicatura del Estado; designar a uno más; y a propuesta del Supremo Tribunal de Justicia, elegir a los magistrados del Tribunal Electoral;
+XXXIV.- Ratificar, en los términos de esta Constitución, a dos integrantes del Consejo de la Judicatura del Estado; y designar a uno más;
 
 > <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
 
 XXXV.- Calificar las renuncias de los magistrados de los tribunales del Estado y de los consejeros de la Judicatura, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-XXXVI.- Nombrar al Presidente del Consejo Estatal Electoral, al de la Comisión Estatal de Derechos Humanos y al del Tribunal Estatal de Conciliación y Arbitraje, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
+XXXVI.- Nombrar al presidente de la Comisión Estatal de Derechos Humanos, y al del Tribunal Estatal de Conciliación y Arbitraje, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
 
 XXXVII.- Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado que le someta el titular del Ejecutivo;
 
@@ -1097,17 +1135,29 @@ El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomin
 
 Para ser Gobernador del Estado se requiere:
 
-I.- Ser mexicano por nacimiento y ciudadano potosino en ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-II.- Si se tiene la calidad de potosino por nacimiento, contar con una residencia efectiva no menor de un año inmediato anterior al día de la elección y, si se trata de potosino por vecindad, la residencia efectiva deberá ser no menor de tres años contados a partir de la adquisición de la calidad de vecino;
+I.- Ser mexicano por nacimiento y ciudadano potosino en pleno goce de sus derechos;
 
-III.- Tener cuando menos treinta y cinco años de edad;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-IV.- No ser servidor público estatal o municipal con atribuciones de mando y en ejercicio de autoridad, a menos que se separe seis meses antes del día de la elección;
+II.- Si se tiene la calidad de potosino por nacimiento, contar con una residencia efectiva no menor de un año inmediato anterior al día de la elección y, si se trata de potosino por vecindad, la residencia efectiva deberá ser no menor de cinco años contados a partir de la adquisición de vecino;
 
-V.- No estar en servicio activo en el Ejército Nacional, a menos que se separe del mismo con licencia absoluta por lo menos un año antes de la fecha de la elección;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-VI.- No tener pendiente ninguna responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal y no haber sido condenado por delito doloso; y
+III.- Tener treinta años cumplidos al día de la elección;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+IV.- No estar en el servicio activo del Ejército Nacional, a menos que se separe de su encargo por lo menos un año antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+V.- No ser secretarios o subsecretarios de Estado, Procurador General de Justicia del Estado, Presidente Municipal, a menos de que se separe de su encargo ciento veinte días antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+VI.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión, y
 
 > <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
@@ -1351,27 +1401,45 @@ Los miembros de los cuerpos de seguridad pública, por la naturaleza de su funci
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 90.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Supremo Tribunal de Justicia, un Tribunal Electoral, en Juzgados de Primera Instancia y en Juzgados Menores.
+Se deposita el ejercicio del Poder Judicial del Estado, en un Supremo Tribunal de Justicia, en Juzgados de Primera Instancia, y en Juzgados Menores.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 El Poder Judicial contará con el apoyo de Jueces Auxiliares cuando así lo requiera, de conformidad con lo previsto por la ley de la materia.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+
 El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. Las sesiones del Pleno en las que se discutan y decidan los asuntos jurisdiccionales serán públicas, excepto aquellas que por su naturaleza se considere que deban ser reservadas.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 La administración, vigilancia y disciplina del Poder Judicial del Estado, así como la carrera judicial, estarán a cargo del Consejo de la Judicatura, en los términos de esta Constitución y conforme lo establezcan las leyes. La vigilancia respecto de la función jurisdiccional de los magistrados, así como las resoluciones disciplinarias sobre los mismos, estarán a cargo del Pleno del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+
 El Consejo de la Judicatura Estatal es un órgano del Poder Judicial del Estado, con independencia técnica, de gestión y para emitir sus resoluciones; funcionará en Pleno o en comisiones, y tendrá las atribuciones que determine la ley.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 El Consejo se integrará con cuatro miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia, quien también lo será del Consejo; uno designado por el Congreso del Estado; otro por el Supremo Tribunal de Justicia; y uno más, por el Titular del Ejecutivo. Los designados por éstos dos últimos, serán ratificados por el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+
 Todos los consejeros deben reunir los requisitos señalados en el artículo 99 de esta Constitución, y ser personas que se hayan distinguido por su capacidad profesional, experiencia y honorabilidad en el ejercicio de sus actividades.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 Las decisiones del Consejo serán definitivas e inatacables; salvo las que se refieren a la designación, adscripción, remoción y no ratificación de jueces, las cuales podrán ser recurridas ante el Pleno del Supremo Tribunal de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+
 Los consejeros no representan a quien los designa, por lo que ejercerán sus funciones con independencia e imparcialidad. Durante su encargo sólo podrán ser removidos en los términos del Título Décimo Segundo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 La organización, funcionamiento y demás atribuciones del Consejo de la Judicatura del Estado, serán determinados por la ley, conforme a lo establecido en esta Constitución.
 
@@ -1379,9 +1447,15 @@ La organización, funcionamiento y demás atribuciones del Consejo de la Judicat
 
 Salvo el Presidente del Consejo, los demás durarán cinco años en su encargo, serán sustituidos de manera escalonada y podrán ser reelectos por una sola vez. Al concluir su periodo tendrán derecho a un haber de retiro consistente en un único emolumento equivalente a un año de salario, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que les correspondan. Dicha remuneración se cubrirá con base en el último salario percibido, siempre y cuando el Consejero no haya sido reelecto, o habiéndolo sido termine el periodo para el cual fue designado; o, padezca incapacidad física o mental que le impida el desempeño del encargo.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+
 El Consejo funcionará en Pleno o en comisiones, y sus decisiones plenarias se tomarán válidamente por mayoría calificada de tres votos.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+
 De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Supremo Tribunal de Justicia podrá solicitar al Consejo, la expedición de aquellos acuerdos que considere necesarios para asegurar un adecuado ejercicio de la función judicial.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 El Consejo de la Judicatura determinará el número y especialización por materia, de los juzgados y de las salas.
 
@@ -1671,11 +1745,11 @@ No se hará pago alguno que no esté previsto en la Ley del Presupuesto de Egres
 
 El Municipio Libre constituye la base de la división territorial y de la organización política y administrativa del Estado y tendrá a su cargo la administración y gobierno de los intereses municipales, conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. La competencia del gobierno municipal se ejercerá por el ayuntamiento de manera exclusiva y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. La competencia del gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Los ayuntamientos se compondrán por un presidente municipal y el número de regidores y síndicos que la ley determine, electos popularmente por votación directa, quienes podrán reelegirse por un período adicional por el mismo cargo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Las personas que, por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen la función propia de sus cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectas para el período inmediato siguiente.
 
-Los ayuntamientos se compondrán por un Presidente Municipal y el número de regidores y síndicos que la ley determine, electos popularmente por votación directa, quienes no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de sus cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio;
+En el caso de los funcionarios suplentes, podrán ser electos para el período inmediato siguiente sin ser considerado como reelección, siempre que no hayan ejercido funciones u ostentado el carácter de propietarios en el Ayuntamiento respectivo.
 
 II.- Los Municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
@@ -1839,9 +1913,13 @@ Los Ayuntamientos podrán someter a plebiscito los actos que por su trascendenci
 
 Para ser miembro del Ayuntamiento, Concejo o Delegado Municipal, se requiere:
 
-I.- Ser ciudadano potosino en ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-II.- Ser originario del municipio y con un año, por lo menos, de residencia efectiva en el mismo, inmediata anterior a la fecha de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de dos años inmediata anterior al día de la elección o designación; y
+I.- Ser ciudadano potosino en pleno goce de sus derechos;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+II.- Ser originario del municipio y con un año, por lo menos, de residencia efectiva en el mismo, inmediata anterior al día de la elección o designación, en su caso; o ser vecino del mismo, con residencia efectiva de tres años inmediata anterior al día de la elección, o designación, y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2008)</small>
 
@@ -1857,13 +1935,31 @@ Están impedidos para ser miembros propietarios o suplentes de los ayuntamientos
 
 I.- El Gobernador del Estado;
 
-II.- Los funcionarios de nombramiento estatal o municipal con atribuciones de mando y en ejercicio de autoridad;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
-III.- Los miembros de las Fuerzas Armadas que estén en servicio activo o que tengan mando en el Estado, así como los que ejerzan cargo y atribuciones de mando de policía en el municipio respectivo; y
+II.- Los secretarios, subsecretarios o Procurador General del Estado; los titulares de organismos descentralizados o desconcentrados de la administración; o a los que esta Constitución otorga autonomía;
 
-IV.- Los ministros de culto religioso.
+III.- Los miembros de las Fuerzas Armadas que estén en servicio activo o que tengan mando en el Estado, así como los que ejerzan cargo y atribuciones de mando de policía en el municipio respectivo; y (sic)
 
-No estarán impedidos los ciudadanos a que se refiere la fracción II si se separan de sus cargos ciento veinte días antes del día de la elección. Tampoco lo estarán los ciudadanos a que se refiere la fracción III si se separan de su cargo noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+IV.- Los Magistrados y secretarios del Tribunal Electoral del Estado; el Consejero Presidente o los consejeros electorales del Consejo Estatal Electoral y de Participación Ciudadana, el secretario ejecutivo, o personal profesional directivo del propio Consejo, salvo que se hubiere separado de su encargo tres años antes del día de la elección;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+V.- Los ministros de culto religioso, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+
+VI.- Los Magistrados y Jueces del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Estarán impedidos los ciudadanos a que se refieren las fracciones, II, y III, de este artículo, a menos que se separen de sus funciones noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+
+Los síndicos reunirán además los requisitos previstos en la ley orgánica respectiva.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2732,3 +2828,29 @@ P.O. 24 DE JUNIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo procedimiento a que se refiere el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. Una vez hecha la declaratoria de validez de la presente Minuta constitucional, el Congreso del Estado deberá adecuar las leyes secundarias en materia político-electoral que de ella emanan, a más tardar el 30 de junio de 2014. Dichas modificaciones observarán las garantías electorales que la Constitución Federal, y la Local establece como marco general, y respecto de las facultades y competencias que no están expresamente concedidas a la Federación.
+
+TERCERO. Los actuales Presidente y consejeros del Consejo Estatal Electoral y de Participación Ciudadana, continuarán en su encargo hasta en tanto se realicen las designaciones a que se refiere el transitorio Noveno del Decreto Legislativo, por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014. Los consejeros podrán ser elegibles para un nuevo nombramiento.
+
+CUARTO. Los Magistrados de Tribunal Electoral del Poder Judicial del Estado, que se encuentren en funciones a la entrada en vigor de las normas previstas en los transitorios Segundo y Décimo del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos, en los términos previstos por la fracción IV, inciso c), del artículo 116 de la Constitución Federal. Los Magistrados podrán ser elegibles para un nuevo nombramiento.
+
+QUINTO. Una vez que sean nombrados los magistrados electorales por el Senado de la República, los recursos humanos, materiales, presupuestales y financieros para el año 2014 del Tribunal Electoral, seguirán formando parte y ejercidos por el Poder Judicial del Estado; sin menoscabo de los derechos laborales de todos y cada uno de los trabajadores que actualmente lo integran, y de conformidad con las leyes de la materia.
+
+Los procedimientos jurisdiccionales relacionados con las agrupaciones políticas, y partidos políticos, así como de sus militantes o simpatizantes, iniciados con anterioridad al inicio de la vigencia del Decreto por el que se expide la Ley General de Instituciones y Procedimientos Electorales, de fecha veintidós de mayo del presente año, expedido por el Congreso de la Unión, seguirán bajo la competencia del actual Tribunal Electoral hasta su conclusión.
+
+Los medios de impugnación en materia electoral que sean promovidos en contra de actos y resoluciones de la autoridad administrativa electoral del Estado, con fundamento en la Ley del Sistema de Medios de Impugnación en materia electoral del Estado, a partir de la vigencia del presente Decreto y, hasta en tanto sea integrado el órgano constitucional autónomo denominado Tribunal Electoral del Estado, serán recibidos y substanciados por el actual Tribunal Electoral del Estado, el que deberá entregar, a través del proceso de entrega – recepción, los asuntos en trámite y el estado que guardan los mismos, al órgano de nueva creación.
+
+Los procedimientos jurisdiccionales que se están tramitando ante el actual Tribunal Electoral en su carácter de sala auxiliar, en razón de las competencias designadas por el Pleno del Supremo Tribunal de Justicia del Estado, continuarán recibiéndose y substanciándose por la misma, hasta en tanto se cumplan las disposiciones a que se refiere el párrafo segundo de este Transitorio; cumplido el supuesto, deberá iniciarse y ejecutarse el proceso de entrega-recepción de los asuntos en trámite, de acuerdo con la asignación que para este efecto determine el Poder Judicial del Estado.
+
+SEXTO. El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas del Estado, deberá destinar las partidas presupuestales para la creación y funcionamiento del Tribunal Electoral del Estado, como Organismo Constitucional Autónomo, para el debido cumplimiento de sus atribuciones de conformidad con la normativa aplicable; así como, de las diversas obligaciones que se desprendan del presente Decreto.
+
+SÉPTIMO. La reforma a los artículos, 40, y 48 de esta Constitución en materia de reelección de diputados, no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del Decreto.
+
+OCTAVO. La reforma al artículo 114 de esta Constitución en materia de reelección de presidentes municipales, regidores y síndicos, no será aplicable a los integrantes que hayan protestado el cargo en el ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+NOVENO. Quedan sin efecto, la Minuta con Proyecto de Decreto que reformó los artículos, 26, y 48, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, aprobada en Sesión Ordinaria del Pleno del Honorable Congreso del Estado de San Luis Potosí, con fecha 28 de junio de 2011; y la Minuta con Proyecto de Decreto que reformó la fracción II, y el párrafo último del artículo 118, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, aprobada en Sesión Ordinaria del Pleno del Honorable Congreso del Estado de San Luis Potosí, con fecha 22 de noviembre de 2012, en razón de oponerse éstas, a las disposiciones constitucionales que han sido establecidas mediante este Decreto.
