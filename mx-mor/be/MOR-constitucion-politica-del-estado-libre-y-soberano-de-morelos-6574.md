@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2014-06-04"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -44,11 +44,11 @@ DISPOSICIONES PRELIMINARES.
 
 ### CAPITULO I. DE LA SOBERANIA, INDEPENDENCIA, TERRITORIO Y FORMA DE GOBIERNO DEL ESTADO Y DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 1.
 
-El Estado de Morelos, es Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estado Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, Laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la ciudad de Cuernavaca.
+El Estado de Morelos, es Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estados Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, democrático, laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la Ciudad de Cuernavaca.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -134,7 +134,11 @@ VIII. Se garantizará a los indígenas el efectivo acceso a la justicia, tanto m
 
 IX. Los pueblos y comunidades indígenas, aplicarán internamente sus propios sistemas normativos comunitarios, en la regulación y solución de conflictos internos, sujetándose a los principios generales de la Constitución Federal y la del Estado y las leyes que de ellos emanen, respetando los Derechos Humanos, así como la dignidad e integridad de la mujer;
 
-X. Elegir a los representantes de su gobierno interno de conformidad con sus normas, procedimientos y prácticas tradicionales, garantizando la participación de las mujeres en condiciones de igualdad frente a los varones, respetando el pacto federal y la soberanía del Estado. En términos de la fracción anterior;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+X. Los pueblos y comunidades indígenas tienen derecho a elegir, en los Municipios con población indígena, representantes a los Ayuntamientos, en los términos que señale la normatividad en la materia.
+
+Elegir a los representantes de su gobierno interno de conformidad con sus normas, procedimientos y prácticas tradicionales, garantizando la participación de las mujeres en condiciones de paridad frente a los varones, respetando el pacto federal y la soberanía del Estado.
 
 XI. La ley reconocerá a los integrantes de los pueblos y comunidades indígenas el derecho a su etnicidad y al etnodesarrollo, residan temporal o permanentemente en el territorio del Estado de Morelos;
 
@@ -164,7 +168,9 @@ k) El Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas 
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-ARTÍCULO 2 TER.- El Estado deberá de instrumentar los mecanismos necesarios para garantizar eficientemente el acceso de toda persona a una alimentación suficiente y de calidad, que le permita satisfacer sus necesidades nutricionales que aseguren su desarrollo físico y mental.
+###### Artículo 2
+
+Ter.- El Estado deberá de instrumentar los mecanismos necesarios para garantizar eficientemente el acceso de toda persona a una alimentación suficiente y de calidad, que le permita satisfacer sus necesidades nutricionales que aseguren su desarrollo físico y mental.
 
 De la misma manera deberá garantizar políticas y programas para el desarrollo rural integral, para la generación de empleo y bienestar a la población campesina, y el fomento a la producción agropecuaria y forestal, capacitación y asistencia técnica.
 
@@ -276,7 +282,9 @@ Los ciudadanos morelenses radicados en el extranjero solo podrán participar en 
 
 II.- Participar del derecho de iniciar leyes, de conformidad con lo que establecen esta Constitución y la ley de la materia; y
 
-III.- Los demás establecidos en el artículo 35 de la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+III.- Solicitar su registro como candidato independiente en las elecciones locales a los diferentes puestos de representación popular, bajo las normas que establezca la normatividad aplicable y los demás establecidos en el artículo 35 de la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
@@ -468,7 +476,7 @@ I.- Se entiende por Plebiscito la consulta a los ciudadanos para que expresen su
 
 a).- Podrán someterse a Plebiscito:
 
-1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y (sic)
+1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y
 
 2.- Los actos o decisiones de gobierno, de las autoridades municipales, siempre que se consideren como trascendentes para la vida pública del municipio.
 
@@ -578,9 +586,13 @@ Entre los objetivos del Consejo estará además el promover y desarrollar Planes
 
 2.- El Consejo será el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de Plebiscito, Referéndum, Revocación de Mandato, Iniciativa Popular y Rendición de Cuentas que se presenten.
 
-El Consejo Estatal de Participación Ciudadana, con el apoyo ejecutivo del Instituto Estatal Electoral se encargará de preparar, desarrollar, vigilar y calificar los procesos de Revocación de Mandato, Rendición de Cuentas, Referéndum y de Plebiscito, que sean promovidos de conformidad con la Constitución Política del Estado y la ley de la materia.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-Corresponde al Instituto Estatal Electoral hacerse cargo del desarrollo operativo de dichos procesos.
+El Consejo Estatal de Participación Ciudadana, con el apoyo ejecutivo del Organismo Público Electoral de Morelos, se encargará de preparar, desarrollar, vigilar y calificar los procesos de Revocación de Mandato, Rendición de Cuentas, Referéndum y de Plebiscito, que sean promovidos de conformidad con la Constitución Política del Estado y la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+Corresponde al Organismo Público Electoral de Morelos, la organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana previstos por la Legislación Local.
 
 En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
 
@@ -614,79 +626,113 @@ Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas gra
 
 INSTITUCIONES Y PROCESOS ELECTORALES.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 23.
 
-Los procesos electorales del Estado se efectuarán conforme a las bases que establece la presente Constitución y las leyes de la materia y se sujetarán a los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, y equidad de género.
+Los procesos electorales del Estado, se efectuarán conforme a las bases que establecen la presente Constitución y las Leyes de la materia y se sujetarán a los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad y paridad de género.
 
-Las elecciones de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se realizarán en las mismas fechas en que se efectúen las federales. La duración de las campañas no deberá exceder de setenta y cinco días para la elección de gobernador, ni de sesenta días para la elección de diputados locales o ayuntamientos. Las precampañas de los partidos políticos para elegir a sus candidatos a cargos de elección popular no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+Las fórmulas para Diputados al Congreso del Estado que registren los Partidos Políticos, tanto en el caso de mayoría relativa, como de representación proporcional, estarán compuestas cada una por un Propietario y un Suplente ambos del mismo género. La Lista de Representación Proporcional de Diputados al Congreso del Estado, se integrarán alternando las fórmulas de distinto género para garantizar el principio de paridad hasta agotar la lista.
 
-I.- Los partidos políticos son entidades de interés público. Tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo.
+Las listas de candidatos a Regidores que presenten los Partidos Políticos, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género. Con el objeto de garantizar la paridad de género, la lista de regidores alternará las fórmulas de distinto género, hasta agotar la lista correspondiente.
 
-La ley determinará las formas específicas de su intervención en los procesos electorales del estado. Los partidos políticos sólo se constituyen por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa.
+En el caso de candidatos de mayoría relativa al Congreso del Estado, y con objeto de garantizar la paridad de género, la mitad de los distritos se integrará con candidatos de un género diferente. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sea (sic) asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
-La ley establecerá las reglas para la Constitución, registro, vigencia y liquidación, de los partidos políticos.
+En el caso de candidatos independientes que se registren para contender por el principio de mayoría relativa, la fórmula de propietario y suplente, deberá estar integrada por el mismo género.
 
-II.- En los procesos electorales del estado, la ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso de los medios de comunicación, conforme a las normas establecidas por el Apartado B de la fracción III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+Cada Partido Político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a Legisladores Locales. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
 
-Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales bajo los siguientes lineamientos:
+Las elecciones de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se realizarán en las mismas fechas en que se efectúen las federales. La duración de las campañas será de sesenta días para la elección de Gobernador, y cuarenta y cinco días para Diputados Locales y Ayuntamientos. Las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
-1).- El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y por actividades específicas, conforme a las siguientes bases:
+I. El derecho de solicitar el registro de candidatos ante la autoridad electoral, corresponde a los Partidos Políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos y términos que determine la normatividad en la materia. Los candidatos independientes tendrán derecho de acceso a prerrogativas y tiempo en los medios de comunicación para las campañas electorales en los términos que señale la misma normatividad correspondiente.
 
-A.- En ambos casos se garantizará el reparto igualitario del 10% del total del financiamiento entre todos los partidos con registro en el estado;
+II. Los Partidos Políticos son Entidades de Interés Público, tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo. Para mantener el registro el Partido Político Local deberá obtener al menos el tres por ciento de la votación válida emitida en la elección de Diputados, según lo dispuesto en la normatividad relativa.
 
-B.- El resto del financiamiento se asignará a los partidos políticos que obtengan, al menos, el 3.5% de la votación estatal válida en la elección de diputados locales inmediata anterior, conforme lo disponga la ley reglamentaria de la materia;
+La Ley normativa aplicable, determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral, los derechos, obligaciones y prerrogativas que les corresponden. Los Partidos Políticos sólo se constituyen por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La Ley normativa establecerá las reglas para la constitución, registro, vigencia y liquidación de los Partidos Políticos.
 
-C.- Los recursos públicos prevalecerán sobre los de origen privado.
+III. La normatividad señalará las reglas a que se sujetará el financiamiento para los Partidos Políticos y los candidatos independientes en las campañas electorales.
 
-2).- La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales; establecerá los montos máximos que tendrán las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador;
+El financiamiento público para los Partidos Políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las de carácter específico y las tendientes a la obtención del voto durante los Procesos Electorales. Se otorgará conforme a lo siguiente y a lo que disponga la Ley normativa de la materia:
 
-Asimismo, fijará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y señalará las sanciones que deban imponerse por incumplimiento de estas disposiciones.
+a) El financiamiento público del Estado para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del salario mínimo diario vigente en el Distrito Federal.
 
-3).- Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión de toda propaganda gubernamental en los medios de comunicación social tanto en los poderes federales y estatales, como de los municipios. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Queda prohibida la propaganda política electoral que denigre a las instituciones, los partidos o las personas.
+El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los Partidos Políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior;
 
-Las violaciones a lo dispuesto en el presente inciso serán sancionadas por las autoridades electorales competentes.
+b) El financiamiento público del Estado por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los Partidos Políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior.
 
-4).- Los servidores públicos de la federación, el estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos a su disposición, sin afectar la igualdad de oportunidades de los partidos políticos.
+c) El financiamiento público del Estado para las actividades tendientes a la obtención del voto durante el año en que se elija Gobernador del Estado, Congreso Local y Ayuntamientos, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada Partido Político por actividades ordinarias en ese mismo año; cuando sólo se elijan Diputados y Ayuntamientos, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias.
 
-5).- La propaganda bajo cualquier modalidad de comunicación social, de acciones, programas, políticas públicas, obras, servicios y campañas de todo tipo que emprendan los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente público de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+La Ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y en las campañas electorales. La propia Ley establecerá el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes; ordenará los procedimientos para el control, fiscalización oportuna y vigilancia, durante la campaña, del origen y uso de todos los recursos con que cuenten; asimismo, dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-Las leyes, en los respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+De igual manera, la Ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Federación.
 
-III.- La organización, dirección y vigilancia de las elecciones en el Estado y los procesos plebiscitarios y de referéndum, estarán a cargo de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, autoridad en la materia, en cuya integración participan el poder legislativo del estado, los partidos políticos y los ciudadanos. Tendrá carácter permanente, personalidad jurídica y patrimonio propios, así como las facultades que le señale la presente Constitución y la ley e instituirá las bases obligatorias para la coordinación con el Instituto Federal Electoral en materia de fiscalización de las finanzas de los partidos políticos, en los términos establecidos en artículo 116 fracción IV inciso k) de la Constitución General de la República y se establecerá en la ley de la materia.
+IV. El candidato independiente, es el ciudadano en pleno ejercicio de sus derechos políticos que se postule para ser votado para cualquier cargo de elección popular, que obtenga de la autoridad electoral el acuerdo de registro, teniendo las calidades que establezca la normatividad en la materia.
 
-El Instituto Estatal Electoral podrá convenir con el Instituto Federal Electoral que este se haga cargo de la organización de los procesos electorales locales previa autorización del Congreso del Estado en los términos que establezca la ley de la materia.
+La Ley señalará las reglas a que se sujetará el financiamiento de los candidatos independientes y sus campañas electorales bajo los siguientes lineamientos:
 
-El Instituto Estatal Electoral dispondrá de los medios necesarios para brindar el servicio profesional electoral.
+a) Las erogaciones para candidatos independientes serán solo para la campaña electoral respectiva;
 
-El Instituto Estatal Electoral, a su vez, calificará la procedencia o improcedencia de las solicitudes de plebiscito o referéndum, y se encargará de la organización, dirección y vigilancia de estos procedimientos de participación ciudadana, salvaguardando los derechos ciudadanos, de conformidad con el artículo 19 Bis de esta Constitución y la ley de la materia.
+b) El tiempo en medios de comunicación establecido como derecho de los Partidos Políticos y, en su caso, de los candidatos independientes, se regulará conforme a la normatividad en la materia; y
 
-IV.- El órgano superior de dirección del Instituto Estatal Electoral, se denominará Consejo Estatal Electoral y se integrará de la siguiente forma:
+c) Los recursos públicos prevalecerán sobre los de origen privado, los cuales se fijarán conforme a la normatividad en la materia.
 
-A).- Por un Consejero Presidente y cuatro Consejeros Electorales, quienes deberán reunir los requisitos que la ley señale, entre los cuales se considerará no haberse desempeñado como alto funcionario de la federación, del estado y de los municipios, tanto de la administración central como del sector paraestatal y hasta por siete años anteriores a la designación; o haber ejercido cargos de elección popular o directivos a nivel nacional, estatal, distrital o municipal de algún partido político en siete años anteriores a su designación.
+V. La organización de las elecciones, es una función estatal que se realiza a través Organismo (sic) Público Electoral de Morelos, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
 
-Serán nombrados por el voto de las dos terceras partes del total de los diputados integrantes del congreso, de entre las propuestas que para tal efecto hagan los grupos parlamentarios que conformen la legislatura en la forma y términos que disponga la ley correspondiente. El consejero presidente y los consejeros electorales serán electos sucesivamente por el mismo Congreso del Estado, o en sus recesos, por la Diputación Permanente.
+Las elecciones locales estarán a cargo del Organismo Público Electoral de Morelos y podrá delegarla al Instituto Nacional de Elecciones en los términos de esta Constitución y la Ley en la materia.
 
-De la misma forma, se elegirán cuatro consejeros electorales con el carácter de suplentes, en orden de prelación, que suplirán las ausencias temporales o definitivas de los consejeros electorales propietarios.
+El Organismo Público Electoral de Morelos ejercerá las funciones en las siguientes materias:
 
-El Consejero Presidente y los consejeros electorales durarán en su cargo cuatro años, con posibilidad de ser electos para una segunda ocasión, y no podrán tener ningún otro empleo, cargo o comisión, de la federación, del estado, de los municipios o de los particulares; excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia, en tanto no impidan el ejercicio expedito de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
+1. Derechos y el acceso a las prerrogativas de los candidatos y Partidos Políticos;
 
-B).- Por el Secretario Ejecutivo del Instituto Estatal Electoral, quien será designado por el voto de las dos terceras partes de los integrantes del Consejo Estatal Electoral, de entre las propuestas que presenten en terna ellos mismos.
+2. Educación cívica;
 
-C).- Por un representante de cada uno de los grupos parlamentarios que existan en el Congreso del Estado.
+3. Preparación de la jornada electoral;
 
-D).- Por un representante de cada uno de los partidos políticos con registro en el Estado.
+4. Impresión de documentos y la producción de materiales electorales;
 
-Los integrantes del Consejo Estatal Electoral tendrán derecho a voz, y sólo el Consejero Presidente y los consejeros electorales tendrán derecho a voto.
+5. Escrutinios y cómputos en los términos que señale la Ley;
 
-V.- El Instituto Estatal Electoral a través de sus órganos y de acuerdo con lo que disponga la ley, realizará los cómputos respectivos y declarará la validez de las elecciones de gobernador, diputados y ayuntamientos; otorgará las constancias a los candidatos que hubiesen obtenido la mayoría de votos y hará la asignación de diputados y regidores de representación proporcional; asimismo regulará la observación electoral.
+6. Declaración de validez y el otorgamiento de constancias en las elecciones locales;
 
-Las sesiones de todos los órganos colegiados del Instituto Estatal Electoral serán públicas y sus resoluciones recurribles en los términos de la ley.
+7. Cómputo de la elección del Titular del Poder Ejecutivo;
 
-VI.- Para garantizar los principios de legalidad y constitucionalidad de los actos y resoluciones electorales, así como de los procedimientos de plebiscito y referéndum, se establecerá un sistema de medios de impugnación, tanto administrativo como jurisdiccional, en los términos que esta Constitución y la ley señalen. Este sistema además garantizará los recuentos totales o parciales de votación que así lo requieran, las causas de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos y la protección de los derechos políticos de los ciudadanos para votar, ser votado participar en los procedimientos de plebiscito y referéndum y de asociación en los términos del artículo 14 de esta Constitución. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+8. Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme a los lineamientos establecidos;
 
-VII.- Quienes hubieren ejercido los cargos de Consejero Presidente y consejeros estatales electorales, los magistrados del Tribunal Estatal Electoral y personal directivo del Instituto Estatal Electoral, estarán impedidos para ocupar puestos de elección popular en el siguiente proceso electoral.
+9. Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local;
+
+10. Todas las no reservadas al Instituto Nacional Electoral; y
+
+11. Las que determine la normatividad correspondiente.
+
+Corresponde al Instituto Nacional Electoral designar y remover a los integrantes del órgano superior de dirección del Organismo Público Electoral de Morelos.
+
+Al Organismo Público Electoral de Morelos se le dispondrán los medios necesarios para acceder al Servicio Profesional Electoral.
+
+El Consejo Estatal de Participación Ciudadana, calificará la procedencia o improcedencia de las solicitudes de plebiscito, referéndum o revocación de mandato y se encargará de la organización, dirección y vigilancia de estos procedimientos de participación ciudadana, con la participación ejecutiva del Organismo Público Electoral de Morelos, salvaguardando los derechos ciudadanos, de conformidad con el artículo 19 Bis de esta Constitución y la ley reglamentaria.
+
+A solicitud expresa del Organismo Público Electoral de Morelos, el Instituto Nacional Electoral asumirá la organización integral del proceso electoral correspondiente, con base en el convenio que celebren, en el que se establecerá de manera fehaciente las circunstancias de tiempo, modo y lugar que justifique la solicitud. A petición de los Partidos Políticos y con cargo a sus prerrogativas, en los términos que establezca la Ley, el Instituto Nacional Electoral podrá organizar las elecciones de sus dirigentes responsables de sus Órganos de Dirección.
+
+El Organismo Público Electoral de Morelos podrá, con la aprobación de la mayoría de votos de su Consejo, solicitar al Instituto Nacional Electoral la asunción parcial de alguna actividad propia de la función electoral que les corresponde. Dicho Instituto resolverá sobre la asunción parcial en los términos establecidos en la legislación general de la materia.
+
+La solicitud a que se refiere el párrafo anterior podrá presentarse en cualquier momento del proceso electoral de que se trate y, en su caso, sólo tendrá efectos durante el mismo.
+
+En el caso de la facultad de atracción a que se refiere el inciso c), del Apartado C, de la Base V, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, la petición sólo podrá formularse por al menos cuatro de los Consejeros Electorales del Consejo del Organismo Público Electoral de Morelos.
+
+VI. El Organismo Público Electoral de Morelos, se integrará por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, un Secretario Ejecutivo y un representante por cada uno de los Partidos Políticos con registro, quienes concurrirán a las sesiones sólo con derecho a voz.
+
+El Consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la normatividad aplicable.
+
+El Consejero Presidente y los Consejeros Electorales Estatales deberán ser originarios del Estado de Morelos o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la normatividad aplicable.
+
+En caso de que ocurra una vacante de Consejero Electoral Estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos que establece la Ley en la materia. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un Consejero para un nuevo período.
+
+El Consejero Presidente y los Consejeros Electorales Estatales, tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley en la materia.
+
+El Consejero Presidente y los Consejeros Electorales Estatales y demás servidores públicos que establezca la Ley en la materia, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+VII. El Tribunal Electoral del Estado de Morelos, es la Autoridad Electoral Jurisdiccional Local en materia electoral que gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Deberán cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
+
+Éste órgano jurisdiccional no estará adscrito al Poder Judicial del Estado de Morelos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -736,23 +782,27 @@ DEL PODER LEGISLATIVO.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 24.
 
-El poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado de Morelos, integrada por dieciocho Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales, y por doce Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial. La ley determinará la demarcación territorial de cada uno de los distritos y el territorio del Estado comprenderá una circunscripción plurinominal única.
+El Poder Legislativo se deposita en una Asamblea que se denomina Congreso del Estado de Morelos, integrada por dieciocho Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales y por doce Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial. La ley determinará la demarcación territorial de cada uno de los distritos y el territorio del Estado comprenderá una circunscripción plurinominal única.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+Al Partido Político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, se le asignará una diputación por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
 
-Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en las listas Regionales o Distritales de la Circunscripción Plurinominal, tendrá derecho a que le sean atribuidos Diputados según el principio de representación proporcional en los términos de la ley.
+Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional conforme a la fórmula establecida en la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
+La Legislatura del Estado se integrará con Diputados Electos, según los principios de mayoría relativa y de representación proporcional, en los términos que señale la ley.
 
-El Congreso del Estado se renovará en su totalidad cada tres años. Por cada diputado propietario se elegirá un suplente; los diputados propietarios no podrán ser electos para el período inmediato, ni aún tratándose de distinto distrito electoral.
+En ningún caso, un Partido Político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al Partido Político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un Partido Político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+El Congreso del Estado se renovará cada tres años. Por cada Diputado Propietario se elegirá un Suplente; los Diputados Propietarios podrán ser electos hasta por tres períodos consecutivos.
 
-Ningún partido político podrá contar con más de dieciocho Diputados por ambos principios.
+La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la Coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su encargo.
+
+Los Diputados Locales Suplentes podrán ser electos para el período inmediato con el carácter de Propietario, pudiendo reelegirse de conformidad con la normatividad.
+
+Ningún Partido Político podrá contar con más de dieciocho Diputados por ambos principios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
@@ -768,9 +818,9 @@ I.- Ser morelense por nacimiento, o ser morelense por residencia con antigüedad
 
 II.- Tener una residencia efectiva por más de un año anterior a la elección del Distrito que represente, salvo que en un Municipio exista más de un Distrito Electoral, caso en el cual los candidatos deberán acreditar dicha residencia en cualquier parte del Municipio de que se trate;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-III.- Ser ciudadano del Estado en ejercicio de sus derechos.
+III.- Ser ciudadano del Estado en ejercicio de sus derechos y estar inscrito en el Registro Federal de Electores, contando con credencial para votar actualizada; y
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
@@ -784,39 +834,27 @@ Para poder figurar en las listas de las circunscripciones electorales plurinomin
 
 La vecindad no se pierde por ausencia en el desempeño de los cargos públicos de elección popular.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 26.
 
 No pueden ser Diputados:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1999)</small>
+I.- El Gobernador del Estado, ya sea con carácter de interino, sustituto o provisional, no podrá ser electo para el período inmediato de su encargo, aun cuando se separe definitivamente de su puesto;
 
-I.- El Gobernador del Estado, ya sea con carácter de interino, sustituto o provisional, no podrá ser electo para el periodo inmediato de su encargo, aun cuando se separe definitivamente de su puesto.
+II.- Los Magistrados Electorales o los Secretarios del Tribunal Electoral del Estado de Morelos, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-II.- (DEROGADA [N. DE E. REPUBLICADA], P.O. 1 DE OCTUBRE DE 1999)
+III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Magistrados del Tribunal Superior de Justicia, Tribunal de lo Contencioso Administrativo y Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas Estatales o Municipales, los Delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo y los Jefes o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y los Presidentes Municipales o los titulares de algún Órgano Político-Administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+IV.- El Consejero Presidente o los Consejeros Electorales del Organismo Público Electoral de Morelos, el Secretario Ejecutivo o el Director Ejecutivo del Organismo Público Electoral del Estado, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y los Consejeros del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución;
 
-III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Magistrados del Tribunal Superior de Justicia, Tribunal de lo Contencioso Administrativo, Tribunal Estatal Electoral y del Magistrado del Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas estatales o municipales, los delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo, los jefes o mandos superiores de Policía de Seguridad Pública Estatal o Municipal y los Presidentes Municipales;
+V.- Quienes pertenezcan al Servicio Profesional Electoral, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+VI.- Los Diputados Locales que pretendan su reelección y hayan sido postulados por un Partido Político o Coalición distintos al que los postuló, así como los que habiendo sido candidatos independientes sean propuestos por un Partido o Coalición, en términos de lo dispuesto por el artículo 24 de esta Constitución.
 
-IV.- El Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral y los Consejeros del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en la fracción VIII del artículo 23 de la presente Constitución.
+VII.- Los que hayan tomado parte directa o indirectamente en alguna asonada, motín o cuartelazo; y
 
-V.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1999)
-
-VI.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1999)
-
-VII.- Los que hayan tomado parte directa o indirectamente en alguna asonada, motín o cuartelazo.
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
-
-VIII.- Los Ministros de cualquier culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del artículo 130 de la Constitución Federal.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)</small>
-
-Los Diputados locales no podrán ser electos para el período inmediato. Los Diputados suplentes podrán ser electos al período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio. Los Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplente.
+VIII.- Los ministros de cualquier culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del Artículo 130 de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
@@ -858,9 +896,11 @@ Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al de
 
 El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1 de septiembre y terminará el 15 de diciembre; el segundo empezará el 1 de febrero y concluirá el 15 de julio. El Congreso se ocupará, conforme a sus facultades, del examen y la revisión de la cuenta pública del Estado misma que se presentará trimestralmente, a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario, conforme al avance de gestión financiera en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar y, en su caso, del programa financiero.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA TERCERA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El congreso del estado a más tardar el 1 de octubre de cada año recibirá la iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los Ayuntamientos, para su exámen, discusión y aprobación. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de presupuesto de egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año. Teniendo la obligación el Congreso del Estado de aprobarlas a más tardar el 15 de diciembre de cada año. Los presidentes municipales que inicien su encargo, presentarán al Congreso del Estado, a más tardar el 1 de febrero la Iniciativa de Ley de Ingresos del ejercicio fiscal actual. Teniendo la obligación el Congreso del Estado de aprobarla a más tardar el último día de febrero del año que corresponda. De manera transitoria, se utilizarán los parámetros aprobados para el ejercicio fiscal inmediato anterior de cada ayuntamiento, para los meses de enero y febrero o hasta en tanto la Legislatura apruebe la nueva Ley de Ingresos.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+El Congreso del Estado a más tardar el 1 de octubre de cada año, recibirá la Iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los Ayuntamientos, para su examen, discusión y aprobación. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año; de igual forma los Presidentes Municipales que inicien su encargo, presentarán al Congreso del Estado sus iniciativas de Ley de Ingresos en la misma fecha. El Congreso del Estado deberá aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos Municipales a más tardar el 15 de diciembre de cada año. Los Ayuntamientos presentarán al Congreso, a más tardar el día 31 de enero de cada año, la Cuenta Pública correspondiente al año anterior, debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 31 de octubre, la cuenta pública correspondiente a los meses de enero a septiembre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la cuenta pública, correspondiente a los meses octubre, noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
@@ -890,9 +930,9 @@ La falta de presentación oportuna, en los plazos que señala esta Constitución
 
 Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en la Auditoría Superior de Fiscalización, en todo caso, cualquier entidad privada que ejerza recursos públicos será sujeta de fiscalización en los términos de esta Constitución y la Ley.
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
+Los Poderes Legislativo, Ejecutivo y Judicial, el Organismo Público Electoral del Estado, el Tribunal Electoral del Estado de Morelos, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del Presupuesto de Egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1136,9 +1176,9 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-XXVII.- Recibir de los Diputados, Gobernador, Fiscal General del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor Superior de Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución;
+XXVII.- Recibir de los Diputados, Gobernador, Fiscal General del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrado del Tribunal Unitario de Justicia para Adolescentes, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor Superior de Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -1160,13 +1200,13 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los diputado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, Tribunal Estatal Electoral, Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral, del Fiscal General del Estado, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior de Fiscalización; del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como de los Titulares de los órganos superiores de los Organismos Constitucionales Autónomos;
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Fiscal General del Estado, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior de Fiscalización; del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los Órganos Superiores de los Organismos Constitucionales Autónomos;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, al del Tribunal Unitario de Justicia para Adolescentes, al Fiscal General del Estado y al Auditor Superior de Fiscalización, siempre que su ausencia exceda de treinta días;
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Tribunal Unitario de Justicia para Adolescentes, al Fiscal General del Estado y al Auditor Superior de Fiscalización, siempre que su ausencia exceda de treinta días;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1180,13 +1220,13 @@ XXXV.- Designar al representante del Poder Legislativo ante el Consejo de la Jud
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal Estatal Electoral; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y al Magistrado del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; al Consejero Presidente y Consejeros Electorales del Consejo Estatal Electoral, así como al Fiscal General del Estado, éste último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y al Magistrado del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; así como al Fiscal General del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
 
-Asimismo, designar si fuera procedente, por un período más a los Magistrados Numerarios del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrados del Tribunal Estatal Electoral y Magistrado del Tribunal Unitario de Justicia para Adolescentes.
+Asimismo, designar si fuera procedente, por un período más a los Magistrados Numerarios del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Magistrado del Tribunal Unitario de Justicia para Adolescentes.
 
-Las designaciones y en su caso la remoción a que alude esta fracción, deberán reunir el voto aprobatorio de las dos terceras partes de los integrantes del Congreso.
+Las designaciones y en su caso la remoción a que alude esta fracción, deberán reunir el voto aprobatorio de las dos terceras partes de los integrantes del Congreso;
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2007)</small>
 
@@ -1260,17 +1300,17 @@ L.- Expedir leyes en el ámbito de su competencia, en materia de protección al 
 
 LI.- Expedir la Ley que instituya el tribunal de lo Contencioso-Administrativo del Estado, dotado de plena Autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal o de los Ayuntamientos y los particulares; y establezca las normas para su Organización, su funcionamiento, el procedimiento y los recursos contra su resolución.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-LII.- Expedir el bando solemne para dar a conocer en todo el Estado, la declaración de Gobernador electo que hubiere hecho el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en su caso.
+LII.- Expedir el Bando Solemne para dar a conocer en todo el Estado, la declaración de Gobernador electo que hubiere hecho el Organismo Público Electoral de Morelos o el Tribunal Electoral del Estado de Morelos, en su caso;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
 LIII.- Aprobar por la mayoría simple de los integrantes de la Legislatura, la solicitud de remoción del Fiscal General del Estado que presente el Titular del Poder Ejecutivo del Estado.
 
-(REFORMADA, P.O. 11 DE AGOSTO DE 2003) (F. DE E., P.O. 19 DE NOVIEMBRE DE 2003)
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-LIV.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral se lleven a cabo los procesos de referéndum y plebiscito; y al Instituto Morelense de Información Pública y Estadística que realice algún sondeo, encuesta o estadística, para cumplir con sus funciones.
+LIV.- Solicitar al Consejo de Participación Ciudadana y al Organismo Público Electoral de Morelos se lleven a cabo los procesos de referéndum y plebiscito; y al Instituto Morelense de Información Pública y Estadística que realice algún sondeo, encuesta o estadística, para cumplir con sus funciones;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2002)</small>
 
@@ -1296,9 +1336,9 @@ a) Establecer, mediante la expedición de una ley, las bases conforme a las cual
 
 b) Autorizar, en su caso, conforme a las bases que se establezcan en la ley, al Estado, a los Municipios, a los organismos descentralizados estatales o municipales, a las empresas de participación estatal o municipal mayoritaria y a los fideicomisos públicos que formen parte de la Administración Pública Paraestatal y Paramunicipal, para la celebración de contratos de colaboración público privada; para la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de dichos contratos o de cualesquier otros actos jurídicos relacionados con los mismos; y para la celebración de las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran.
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-LVIII.- Recibir las propuestas que formule el Gobernador Constitucional del Estado respecto de iniciativas de leyes generales, de competencia concurrente, o sus reformas, dando a las mismas el tratamiento legislativo que en el ámbito estatal se previene en esta Constitución; y
+LVIII.- Recibir las propuestas que formule el Gobernador Constitucional del Estado, respecto de Iniciativas de Leyes Generales, de competencia concurrente, o sus reformas, así como del convenio y programa de Gobierno de Coalición, en este último caso para su aprobación, dando a las mismas el tratamiento legislativo que en el ámbito estatal se previene en esta Constitución; y
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
@@ -1398,11 +1438,11 @@ Para que una iniciativa tenga el carácter de ley o decreto, necesita en votaci�
 
 El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Poder Ejecutivo Estatal y a los Consejeros del Instituto Morelense de Información Pública y Estadística a cualquiera de sus sesiones secretas o públicas para pedirle los informes verbales que necesiten sobre asuntos relacionados con el desempeño de sus funciones y estos funcionarios deberán presentarse a ministrarlos.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 46.
 
-El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Magistrados del Tribunal Estatal Electoral, al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
+El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
 
@@ -1578,9 +1618,9 @@ b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquiera d
 
 VI.- Los Presidentes Municipales si no se separan de sus funciones 90 días antes del día de la elección; y
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-VII.- El Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral ni los Consejeros del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en la fracción VIII del artículo 23 de la presente Constitución.
+VII.- El Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, así como el personal directivo del Organismo Público Electoral de Morelos ni los Consejeros del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1746,6 +1786,12 @@ Para su aprobación:
 
 c).- Las iniciativas de Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, deberán entregarse de conformidad con lo dispuesto en el artículo 32 de esta Constitución, con las excepciones previstas en éste;
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+d).- La Solicitud del Convenio y el Programa de Gobierno de Coalición con uno o varios de los Partidos Políticos representados en el Congreso del Estado, misma que podrá presentarse en cualquier momento.
+
+El Convenio y el Programa respectivos, deberán ser aprobados por la mayoría calificada de los integrantes del Congreso del Estado. El Convenio establecerá las causas de la disolución del Gobierno de Coalición;
+
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
 
 XIX.- Remitir al Congreso del Estado la cuenta pública, misma que será congruente con el avance de los programas operativos anuales por sector, dependencia u organismo auxiliar durante cada trimestre del ejercicio fiscal y en los treinta días posteriores al cierre de cada uno de los mismos.
@@ -1802,9 +1848,9 @@ XXX.- Conducir las acciones que conforme a la Ley y en concurrencia con los Muni
 
 XXXI.- Intervenir en todos los negocios en que el Estado sea parte o en los que se vea afectado el interés público.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-XXXII.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral inicien los procesos de Plebiscito y Referéndum, en los términos que disponga la Constitución y la Ley de la materia; y al Instituto Morelense de Información Pública y Estadística que realice algún sondeo o estadística necesarias para el cumplimiento de sus funciones.
+XXXII.- Solicitar al Consejo de Participación Ciudadana y al Organismo Público Electoral de Morelos inicien los procesos de Plebiscito, Referéndum y Revocación de Mandato en los términos que disponga la Constitución y la Ley de la Materia;
 
 (REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
@@ -1816,7 +1862,7 @@ XXXIV.- Presentar al Congreso del Estado la terna de ciudadanos de entre quienes
 
 (ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
-XXXV.- Administrar y controlar los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la readaptación social integral de los individuos, mediante los principios de educación y trabajo, conforme lo disponen las leyes de la materia; y (sic)
+XXXV.- Administrar y controlar los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la readaptación social integral de los individuos, mediante los principios de educación y trabajo, conforme lo disponen las leyes de la materia; y
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
@@ -2128,7 +2174,9 @@ Sin perjuicio del principio de anualidad, la Auditoria Superior de Fiscalizació
 
 II.- Podrá revisar el desempeño en el cumplimiento de los objetivos contenidos en los programas de gobierno del estado y de los municipios. En el caso de que existan recomendaciones al desempeño las entidades fiscalizadas, estas deberán precisar ante la Auditoria Superior de Fiscalización las mejoras realizadas o, en su caso, justificar su improcedencia.
 
-III.- Realizar visitas, inspecciones, revisiones, auditorías operativas, financieras, de cumplimiento, de evaluación de la gestión social a las dependencias o entidades del sector paraestatal, del Poder Ejecutivo, del Poder Judicial en cualesquiera de los Tribunales Estatales, del propio Poder Legislativo, del Instituto Estatal Electoral y los ayuntamientos del Estado, organismos constitucionales autónomos, en cualquier entidad, persona física o moral, pública o privada, en los términos de la legislación en la materia.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+III.- Realizar visitas, inspecciones, revisiones, auditorías operativas, financieras, de cumplimiento, de evaluación de la gestión social a las Dependencias o Entidades del sector Paraestatal, del Poder Ejecutivo, del Poder Judicial en cualesquiera de los Tribunales Estatales, del propio Poder Legislativo, del Organismo Público Electoral de Morelos, del Tribunal Electoral del Estado de Morelos y los Ayuntamientos del Estado, Organismos Constitucionales Autónomos, en cualquier Entidad, persona física o moral, pública o privada, en los términos de la legislación en la materia;
 
 IV.- En su caso, determinar las responsabilidades administrativas en que incurran los servidores públicos del Estado, y municipios, promover juicios civiles y presentar denuncias o querellas y actuar como coadyuvante del ministerio público;
 
@@ -2214,7 +2262,7 @@ El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integra
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ## TITULO QUINTO.
 
@@ -2228,11 +2276,7 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 86.
 
-El ejercicio del Poder Judicial se deposita en el Pleno del Tribunal Superior de Justicia del Estado, en el Tribunal Estatal Electoral, en el Tribunal de lo Contencioso Administrativo y en el Tribunal Unitario de Justicia para Adolescentes, cada uno en el ámbito de competencia que les corresponde.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
-
-El Consejo de la Judicatura tendrá las atribuciones que se señalan en el artículo 92-A de esta Constitución.
+El ejercicio del Poder Judicial se deposita en el Pleno del Tribunal Superior de Justicia del Estado, en el Tribunal de lo Contencioso Administrativo y en el Tribunal Unitario de Justicia para Adolescentes, cada uno en el ámbito de competencia que les corresponde.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
 
@@ -2296,7 +2340,7 @@ II.- Haber residido en el Estado durante los últimos diez años, salvo el caso 
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
-III.- Poseer al momento de su designación, con antigüedad mínima de diez años el título y la cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello: (sic)
+III.- Poseer al momento de su designación, con antigüedad mínima de diez años el título y la cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello:
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
 
@@ -2372,9 +2416,9 @@ IV.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judi
 
 V.- Iniciar, a solicitud del pleno del Tribunal Superior de Justicia, investigación sobre la conducta de algún Juez u otro funcionario o empleado del Poder Judicial.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los juzgados y demás órganos judiciales e integrar el propuesto por el Tribunal Estatal Electoral, sujetándose a las bases previstas en el artículo 131 de esta constitución y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los Juzgados, y demás Órganos Judiciales así como recibir del Tribunal Electoral del Estado de Morelos su propuesta de presupuesto, sujetándose a las bases previstas en el artículo 131 de esta constitución y remitirlos para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
 VII.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial, con excepción de los Secretarios de Acuerdos, Secretarios de Estudio y Cuenta y Actuarios del Tribunal Superior de Justicia, cuyo nombramiento y remoción será facultad del pleno y las Salas del Tribunal, según el caso y de acuerdo con lo que la ley establezca.
 
@@ -2454,9 +2498,9 @@ XI.- Conceder licencias a los Magistrados del Tribunal Superior que no excedan d
 
 XII.- Dirimir las controversias que se susciten entre los Poderes Legislativo y Ejecutivo, por Leyes o actos de aquél que este último considere contrarias a la Constitución del Estado.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-XIII.- Dirimir las controversias que se susciten entre el Instituto Morelense de Información Pública y Estadística y el Poder Legislativo o el Poder Ejecutivo del Estado, o entre el primero y los Municipios, el Instituto Estatal Electoral, la Universidad Autónoma del Estado de Morelos o cualquier órgano estatal regulado por esta Constitución. El procedimiento que se sustancie ante el Tribunal Superior de Justicia se sujetará al procedimiento previsto en el artículo 100 de esta Constitución.
+XIII.- Dirimir las controversias que se susciten entre el Instituto Morelense de Información Pública y Estadística y el Poder Legislativo o el Poder Ejecutivo del Estado, o entre el primero y los Municipios, o el Organismo Público Electoral de Morelos, o la Universidad Autónoma del Estado de Morelos o cualquier Órgano Estatal regulado por esta Constitución. El procedimiento que se sustancie ante el Tribunal Superior de Justicia se sujetará al procedimiento previsto en el artículo 100 de esta Constitución;
 
 XIV.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
@@ -2520,11 +2564,9 @@ La Ley determinará los asuntos de la competencia de los Jueces de Primera Insta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
 
-### CAPITULO V.
+### CAPITULO V. DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
-DEL TRIBUNAL ESTATAL ELECTORAL.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ### CAPITULO VI.
 
@@ -2596,7 +2638,7 @@ Las percepciones de los defensores no podrán ser inferiores a las que correspon
 
 El personal de la Defensoría Pública dependerá del Ejecutivo del Estado y será nombrado y removido libremente por el Secretario de Gobierno.
 
-> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2014)</small>
 
 ### CAPITULO II.
 
@@ -2606,23 +2648,15 @@ DE SU INTEGRACIÓN Y ELECCION.
 
 ###### Artículo 108.
 
-Los Magistrados del Tribunal Estatal Electoral durarán en su encargo un período de cuatro años consecutivos, o en su defecto hasta que sean nombrados los magistrados del siguiente período, podrán ser designados únicamente por un período más, de conformidad con lo que establece esta constitución y les serán aplicables las disposiciones previstas para los Magistrados del Tribunal Superior de Justicia en cuanto al haber por retiro y el retiro forzoso.
+La Autoridad Electoral Jurisdiccional se compondrá de tres Magistrados, que integrarán el Tribunal Electoral del Estado de Morelos; actuarán en forma colegiada y permanecerán en su encargo durante siete años.
 
-La designación para un período más sólo procederá, de los resultados que arroje la evaluación del desempeño que realice el propio Congreso a través del órgano político del Congreso, mediante los mecanismos, procedimientos e indicadores de gestión que para dicha evaluación establezca esta Constitución y la Ley Orgánica del Congreso.
+Éste Órgano Jurisdiccional no estará adscrito al Poder Judicial del Estado de Morelos.
 
-Los magistrados del Tribunal Estatal Electoral, serán designados por el Congreso del Estado, mediante el voto de las dos terceras partes de los diputados que integren la legislatura.
-
-Para dar cumplimiento a lo dispuesto en el párrafo anterior, se conformará una comisión calificadora integrada por tantos diputados como grupos parlamentarios integren el congreso del estado; esta comisión emitirá una convocatoria pública y previo el análisis que haga de los aspirantes remitirá la propuesta al pleno del congreso.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+Los Magistrados Electorales serán designados en términos de lo dispuesto por la normativa aplicable y serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales.
 
 ###### Artículo 109.
 
-Ningún magistrado podrá ocupar el cargo por más de ocho años. Asimismo, ninguna persona que haya sido designada como magistrado y designada para un segundo periodo, podrá volver a ocupar el cargo.
-
-En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo con el carácter de titular, provisional o interino, podrán rebasar ocho años en el cargo.
-
-En caso de retiro y retiro forzoso, les serán aplicables las disposiciones previstas para los Magistrados del Tribunal Superior de Justicia.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2736,11 +2770,23 @@ El Presidente Municipal y el Síndico serán electos conforme al principio de ma
 
 Por cada Presidente Municipal, Síndico y Regidores propietarios, se elegirá un suplente.
 
-Los Partidos Políticos para participar en la integración del Ayuntamiento, deberán postular planilla de candidatos a Presidente y Síndico, así como la lista de Regidores en número igual al previsto para ese municipio en la Ley respectiva.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-Para la asignación de Regidores se estará al principio de cociente natural y resto mayor, de conformidad como lo establezca la ley electoral.
+Los Partidos Políticos deberán postular una fórmula de candidatos a Presidente y Síndico; los Partidos Políticos deberán postular la lista de Regidores en número igual al previsto para ese Municipio en la normatividad respectiva.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, por elección directa, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el periodo inmediato como propietarios a menos que hayan estado en ejercicio.
+> <small>N. DE E. VÉASE LITERALIDAD DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 1498, PÁGINA 24, PRIMERA COLUMNA; Y PÁGINA 30, SEGUNDA COLUMNA.</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, por elección directa, podrán ser reelectos únicamente para un período adicional de gestión consecutiva. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectos para el período inmediato. Todos los representantes populares antes mencionados, cuando tengan el carácter de propietarios, podrán ser reelectos para el período inmediato con el carácter de suplentes, los que tengan el carácter de suplentes, podrán ser electos para el período inmediato como propietarios a menos que tengan alguna causa de exclusión por haber sido reelectos en el período constitucional establecido. La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>N. DE E. VÉASE LITERALIDAD DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 1498, PÁGINA 24, PRIMERA COLUMNA; Y PÁGINA 30, SEGUNDA COLUMNA.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA TERCERA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+El ejercicio de los Ayuntamientos electos será de tres años y se iniciará el cinco de octubre del año de la elección, salvo lo que disponga esta Constitución y la normatividad aplicable para el caso de elecciones extraordinarias.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2009)</small>
 
@@ -2920,13 +2966,9 @@ III.- Saber leer y escribir.
 
 IV.- No ser ministro de algún culto, salvo que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley reglamentaria del Artículo 130 de la Constitución Federal.
 
-(NOTA: EL 8 DE DICIEMBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO, FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 8 DE DICIEMBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "... V.- No ser funcionario o empleado de la Federación, del Estado o de los Municipios si no se separan de sus respectivos cargos noventa días antes del día de la elección."]. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
-
-V.- NO SER FUNCIONARIO O EMPLEADO DE LA FEDERACIÓN, DEL PODER EJECUTIVO O DEL PODER JUDICIAL O DE LOS MUNICIPIOS SI NO SE SEPARAN DE SUS RESPECTIVOS CARGOS NOVENTA DÍAS ANTES DEL DÍA DE LA ELECCIÓN.
-
-El Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral, aún si se separan de sus funciones, conforme a lo dispuesto en la fracción VIII del Artículo 23 de la presente Constitución.
+V.- No ser Consejero Presidente o Consejero Electoral del Organismo Público Electoral de Morelos ni Magistrado del Tribunal Electoral del Estado de Morelos, así como formar parte del personal directivo del Organismo Público Electoral de Morelos, aún si se separan de sus funciones, conforme a lo dispuesto en el Artículo 23 de la presente Constitución;
 
 VI.- Tampoco podrán ser, los que tuvieren mando de fuerza pública, si no se separan de su cargo o puesto noventa días antes del día de la elección; y
 
@@ -2938,7 +2980,7 @@ VII.- El padre en concurrencia con el hijo; el esposo o esposa con el cónyuge, 
 
 DE LA DECLARACION Y SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 118.
 
@@ -3140,9 +3182,9 @@ El Gobernador del Estado protestará en los términos siguientes:
 
 "Protesto, bajo palabra de honor, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así que la Nación y el Estado me lo demanden".
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
-El Presidente del Congreso protestará en iguales términos al instalarse el Congreso. En el mismo acto protestarán ante él los demás Diputados. Los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo, protestarán ante el Congreso en los términos antes expuestos. Los demás funcionarios y empleados rendirán su protesta ante su superior inmediato jerárquico en la forma siguiente:
+El Presidente del Congreso protestará en iguales términos al instalarse el Congreso. En el mismo acto protestarán ante él los demás Diputados. Los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes, protestarán ante el Congreso en los términos antes expuestos. Los demás funcionarios y empleados rendirán su protesta ante su superior inmediato jerárquico en la forma siguiente:
 
 "Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de......................que el Estado os ha conferido"? El interrogado contestará. "Sí Protesto. Acto continuo, la misma autoridad que tome la Protesta dirá. "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
@@ -3150,11 +3192,17 @@ El Presidente del Congreso protestará en iguales términos al instalarse el Con
 
 ###### Artículo 133
 
-BIS.- Tienen obligación de presentar declaraciones patrimoniales los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos, los integrantes y funcionarios del Instituto Estatal Electoral, en los términos que disponga la ley de la materia.
+Bis.- Tienen obligación de presentar declaraciones patrimoniales los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos y los integrantes y funcionarios del Organismo Público Electoral de Morelos, así como del Tribunal Electoral del Estado de Morelos, en los términos que disponga la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 Dichas declaraciones serán: de situación patrimonial al inicio de su gestión y se presentarán dentro de los primeros 30 días naturales de haber tomado posesión del cargo, empleo o puesto; de modificación patrimonial, dentro del mes de enero de cada año de su función; y la declaración patrimonial al término del cargo, empleo o puesto, dentro de los treinta días naturales siguientes, de conformidad con la ley reglamentaria.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 Las declaraciones deberán contener los bienes propios, de todo tipo, los de su cónyuge y los de sus ascendientes o descendientes y demás personas que dependan económicamente del servidor público, así como los demás datos e informes que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 La presentación se hará ante el propio Congreso del Estado.
 
@@ -3162,7 +3210,7 @@ La presentación se hará ante el propio Congreso del Estado.
 
 ###### Artículo 133
 
-TER.- La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cauce en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezca la ley de la materia. Para tal efecto, el Estado y los Municipios deberán incluir en sus respectivos presupuestos de egresos una partida para atender esta responsabilidad.
+Ter.- La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cauce en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezca la ley de la materia. Para tal efecto, el Estado y los Municipios deberán incluir en sus respectivos presupuestos de egresos una partida para atender esta responsabilidad.
 
 El pago de la indemnización se efectuará después de seguir los procedimientos que la ley establezca, el cual estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal correspondiente.
 
@@ -3172,11 +3220,11 @@ El pago de la indemnización se efectuará después de seguir los procedimientos
 
 DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 134.
 
-Para los efectos de las responsabilidades a que se refiere este título se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los consejeros electorales del Instituto Estatal Electoral, el Consejero Presidente y los consejeros del Instituto Morelense de Información Pública y Estadística, los Magistrados Electorales, los Magistrados del tribunal de lo Contencioso Administrativo y en general todo aquel que desempeñe un cargo, comisión empleo de cualquier naturaleza en la administración pública estatal o paraestatal o en las entidades mencionadas con anterioridad.
+Para los efectos de las responsabilidades a que se refiere este título se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los consejeros electorales del Organismo Público Electoral de Morelos, el Consejero Presidente y los consejeros del Instituto Morelense de Información Pública y Estadística, los Magistrados del Tribunal Electoral del Estado de Morelos, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado del Tribunal Unitario de Justicia para Adolescentes y en general todo aquel que desempeñe un cargo, comisión empleo de cualquier naturaleza en la Administración Pública Estatal o Paraestatal o en las Entidades mencionadas con anterioridad.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -3206,15 +3254,15 @@ La Comisión correspondiente del Congreso del Estado, instruirá el expediente s
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor Superior de Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Estatal Electoral, así como el Consejero Presidente y los Consejeros Estatales Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
+Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor Superior de Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 137.
 
-Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Fiscal General del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión Estatal de Derechos Humanos.
+Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Fiscal General del Estado, los Magistrados del Tribunal Superior de Justicia, los representantes del Poder Legislativo y Poder Ejecutivo al Consejo de la Judicatura Estatal, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión Estatal de Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -4663,3 +4711,25 @@ PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDO. Respecto a la reforma constitucional, toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas se tienen como parte de esta Constitución.
 
 TERCERO. Respecto a la reforma a la Ley de Salud del Estado de Morelos, el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 27 DE JUNIO DE 2014.
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del Estado de Morelos, lo anterior, conforme lo dispuesto por el artículo 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145 del Reglamento para el Congreso del Estado.
+
+SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la Declaratoria a que se refieren los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. La reforma a los artículos 32, segundo párrafo y 112, párrafo sexto de esta Constitución, será aplicable a los integrantes de los Ayuntamientos que sean electos a partir del Proceso Electoral de 2018. Por única ocasión, los integrantes de los Ayuntamientos electos en el proceso electoral del año 2015, iniciarán sus encargos el 1 de enero de 2016 y concluirán el 4 de octubre de 2018. El derecho de reelección de Diputados, Presidentes Municipales, Síndicos y Regidores no será aplicable a los que hayan protestado el cargo en el que se encuentren en funciones a la entrada en vigor del presente Decreto.
+
+CUARTA. La legislación secundaria dispondrá la extinción del Órgano Constitucional Autónomo denominado Instituto Estatal Electoral, considerando además las transferencias de recursos humanos, materiales y presupuestales que tenga asignados y velará por los derechos de los servidores públicos asignados al mismo.
+
+QUINTA. Las obligaciones, la representatividad jurídica, las acciones judiciales y administrativas que hayan sido generadas hasta la vigencia del presente Decreto por el Instituto Estatal Electoral, se entenderán como propias del Organismo Público Electoral de Morelos.
+
+SEXTA. La entrada en vigor de las presentes reformas no afectará de ninguna forma los asuntos tramitados actualmente en el Instituto Estatal Electoral.
+
+SÉPTIMA. Toda mención que se haga en ordenamientos normativos respecto al Instituto Estatal Electoral, se entenderá que se hace referencia al Organismo Público Electoral de Morelos.
+
+OCTAVA. Para la designación del Consejero Presidente y los Consejeros Electorales que integrarán el Organismo Público Electoral de Morelos, en su primera conformación, se estará a las disposiciones transitorias contenidas en el Decreto de reforma constitucional federal en materia político electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, así como en las contenidas en la Ley General de Instituciones y Procedimientos Electorales.
+
+NOVENA. Los Magistrados Electorales del Tribunal Electoral del Estado de Morelos, serán designados en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la normativa que resulte aplicable.
+
+DÉCIMA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
