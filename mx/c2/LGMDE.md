@@ -4,7 +4,7 @@ identifier: "LGMDE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2014-05-23"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100931&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGMDE"
 
 LEY GENERAL EN MATERIA DE DELITOS ELECTORALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -124,7 +124,9 @@ V. Recoja en cualquier tiempo, sin causa prevista por la ley, una o más credenc
 
 VI. Retenga durante la jornada electoral, sin causa justificada por la ley, una o más credenciales para votar de los ciudadanos;
 
-VII. Solicite votos por paga, promesa de dinero u otra recompensa, o bien mediante violencia o amenaza, presione a otro a asistir a eventos proselitistas, o a votar o abstenerse de votar por un candidato, partido político o coalición, durante la campaña electoral, el día de la jornada electoral o en los tres días previos a la misma.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE JUNIO DE 2014)</small>
+
+VII. Solicite votos por paga, promesa de dinero u otra contraprestación, o bien mediante violencia o amenaza, presione a otro a asistir a eventos proselitistas, o a votar o abstenerse de votar por un candidato, partido político o coalición, durante la campaña electoral, el día de la jornada electoral o en los tres días previos a la misma.
 
 Si la conducta especificada en el párrafo anterior es cometida por un integrante de un organismo de seguridad pública, se aumentará hasta un tercio de la pena prevista en el presente artículo.
 
@@ -146,7 +148,9 @@ Si el apoderamiento se realiza en lugar cerrado o con violencia, se aumentará h
 
 XIII. Obstaculice o interfiera el traslado y entrega de los paquetes y documentos públicos electorales;
 
-XIV. Impida la instalación o clausura de una casilla. Si la conducta se realiza por una o varias personas armadas o que utilicen o porten objetos peligrosos, a la pena señalada se aumentará hasta en una mitad, con independencia de las que correspondan por la comisión de otros delitos;
+> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 2014)</small>
+
+XIV. Impida, sin causa legalmente justificada, la instalación o clausura de una casilla. Si la conducta se realiza por una o varias personas armadas o que utilicen o porten objetos peligrosos, a la pena señalada se aumentará hasta en una mitad, con independencia de las que correspondan por la comisión de otros delitos;
 
 XV. Durante los tres días previos a la elección y hasta la hora del cierre oficial de las casillas que se encuentren en las zonas de husos horarios más occidentales del territorio nacional, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos;
 
@@ -206,7 +210,9 @@ V. Divulgue, de manera pública y dolosa, noticias falsas en torno al desarrollo
 
 VI. Impida la instalación, apertura o clausura de una casilla, así como el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
-VII. Se abstenga de rendir cuentas o de realizar la comprobación o justificación de los gastos ordinarios o gastos de eventos proselitistas de campaña de algún partido político, coalición, agrupación política nacional o candidato, una vez que hubiese sido legalmente requerido;
+> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 2014)</small>
+
+VII. Se abstenga de rendir cuentas o de realizar la comprobación o justificación de los gastos ordinarios o gastos de eventos proselitistas de campaña de algún partido político, coalición, agrupación política nacional o candidato, una vez que hubiese sido legalmente requerido dentro del ámbito de sus facultades;
 
 VIII. Durante la etapa de preparación de la elección o en la jornada electoral, solicite votos por paga, promesa de dinero, recompensa o cualquier otra contraprestación;
 
@@ -214,13 +220,19 @@ IX. Oculte, altere o niegue la información que le sea legalmente requerida por 
 
 X. Utilice facturas o documentos comprobatorios de gasto de partido político o candidato, alterando el costo real de los bienes o servicios prestados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 10.
 
-Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al que:
+Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, a quien:
 
-I. Se abstenga de informar o rinda información falsa de los recursos y bienes públicos remanentes de los partidos políticos o agrupaciones políticas que hayan perdido su registro, habiendo sido requerido por la autoridad;
+> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 2014)</small>
 
-II. Se abstenga de transmitir la propiedad o posesión de los bienes adquiridos con financiamiento público o los remanentes de dicho financiamiento, una vez que haya perdido el registro el partido político o la agrupación política del cual forme o haya formado parte, previo requerimiento de la autoridad electoral competente;
+I. Dentro del ámbito de sus facultades, se abstenga de informar o rinda información falsa de los recursos y bienes públicos remanentes de los partidos políticos o agrupaciones políticas que hayan perdido su registro, habiendo sido requerido por la autoridad;
+
+> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 2014)</small>
+
+II. Dentro del ámbito de sus facultades, se abstenga de transmitir la propiedad o posesión de los bienes adquiridos con financiamiento público o los remanentes de dicho financiamiento, una vez que haya perdido el registro el partido político o la agrupación política del cual forme o haya formado parte, previo requerimiento de la autoridad electoral competente;
 
 III. Sin estar autorizado enajene, grave o done los bienes muebles o inmuebles, que integren el patrimonio del partido político o la agrupación política que haya perdido su registro.
 
@@ -228,7 +240,9 @@ III. Sin estar autorizado enajene, grave o done los bienes muebles o inmuebles, 
 
 Se impondrán de doscientos a cuatrocientos días multa y prisión de dos a nueve años, al servidor público que:
 
-I. Coaccione, induzca o amenace a sus subordinados para que participen en eventos proselitistas de precampaña o campaña, para que voten o se abstengan de votar por un candidato, partido político o coalición;
+> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 2014)</small>
+
+I. Coaccione o amenace a sus subordinados para que participen en eventos proselitistas de precampaña o campaña, para que voten o se abstengan de votar por un candidato, partido político o coalición;
 
 II. Condicione la prestación de un servicio público, el cumplimiento de programas gubernamentales, el otorgamiento de concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un precandidato, candidato, partido político o coalición; a la abstención del ejercicio del derecho de voto o al compromiso de no votar a favor de un precandidato, candidato, partido o coalición.
 
@@ -270,9 +284,11 @@ Se impondrá de mil a cinco mil días multa y de cinco a quince años de prisió
 
 La pena prevista en el párrafo anterior, se aumentará hasta en una mitad más cuando la conducta se realice en apoyo de una precampaña o campaña electoral.
 
+> <small>(REFORMADO, D.O.F. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 16.
 
-Se impondrán de cien hasta quinientos días multa a los ministros de culto religioso que, en el desarrollo de actos propios de su ministerio, o a quien en el ejercicio del culto religioso, presionen u orienten el sentido del voto o induzcan expresamente al electorado a votar o abstenerse de votar por un candidato, partido político o coalición.
+Se impondrán de cien hasta quinientos días multa a los ministros de culto religioso que, en el desarrollo de actos propios de su ministerio, o a quien en el ejercicio del culto religioso, presionen el sentido del voto o induzcan expresamente al electorado a votar o abstenerse de votar por un candidato, partido político o coalición.
 
 ###### Artículo 17.
 
@@ -379,3 +395,9 @@ Artículo Séptimo. Conforme a lo dispuesto en el artículo Décimo Octavo trans
 México, D. F., a 14 de mayo de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE JUNIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
