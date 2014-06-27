@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2014-05-09"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -395,6 +395,10 @@ l. De Emergencia; y
 
 II. Preventivas.
 
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+III. De naturaleza Civil.
+
 > <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
 Las órdenes de protección de emergencia y preventivas deberán expedirse de inmediato. La autoridad competente determinará su temporalidad.
@@ -428,6 +432,24 @@ IV. Entrega inmediata de objetos de uso personal y documentos de identidad de la
 V. Ejecución de medidas educativas, integrales, especializadas y gratuitas a la persona agresora para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía de género y los patrones misóginos que generaron su violencia; y
 
 VI. Las demás establecidas en otras disposiciones legales.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 31 Bis.
+
+Son órdenes de protección de naturaleza civil las siguientes:
+
+l. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
+II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Instituto de la Función Registral del Estado de México, a efecto de garantizar las obligaciones alimentarias; y
+
+V. Obligación alimentaria provisional e inmediata.
+
+Serán tramitadas ante los juzgados de lo familiar o a falta de éstos ante los juzgados civiles que correspondan.
 
 ###### Artículo 32.
 
@@ -1300,3 +1322,9 @@ PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se entenderá por Secretaría de Seguridad Ciudadana cualquier referencia que se haga, en los ordenamientos jurídicos estatales, a la Agencia de Seguridad Estatal.
+
+G.G. 27 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
