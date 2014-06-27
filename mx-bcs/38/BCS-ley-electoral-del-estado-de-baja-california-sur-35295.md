@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-35295"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-20"
-last_updated: "2013-12-10"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de noviembre de 2003.
 
@@ -254,8 +254,6 @@ Por cada miembro de los Ayuntamientos habrá un suplente.
 ###### ARTÍCULO 21.
 
 Las elecciones ordinarias de Diputados al Congreso del Estado y de los miembros de los Ayuntamientos se celebrarán cada tres años; las de Gobernador del Estado se efectuarán cada seis años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -4027,107 +4025,9 @@ B.O. 12 DE MARZO DE 2010.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, con las salvedades a que se refieren las siguientes disposiciones transitorias.
 
-SEGUNDO.- Para efectos de lo dispuesto por el artículo 21 a que se refiere esta reforma, el presente decreto entrará en vigor el 30 de junio del año 2014.
+SEGUNDO.- (DEROGADO POR ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 27 DE JUNIO DE 2014)
 
-TERCERO.- Toda vez que en el año 2011 por última ocasión las elecciones tendrán lugar el primer domingo de febrero, las disposiciones contenidas en los artículos 96 primer párrafo, 108 primer párrafo, 109 fracción I, 112, 118 segundo párrafo, 119 fracción I, 133 fracciones I, II, IV y VI, 142 primer párrafo, fracción VI primer párrafo e inciso a), 148, 154 párrafos segundo, 156 y 157 fracciones I y II, a las que se refiere el presente decreto, entrarán en vigor el 30 de junio del año 2014.
-
-En consecuencia, para efectos del proceso electoral relacionado con la jornada electoral del primer domingo de febrero del. año 2011, de manera transitoria a partir del día siguiente al de la publicación del presente decreto y hasta la total conclusión del proceso en cita, las fechas que aplicarán para cada una de las disposiciones legales referidas en el párrafo que antecede, se establecen de la siguiente manera:
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE ABRIL DE 2010)</small>
-
-###### ARTÍCULO 96.
-
-El Consejo General del Instituto Estatal Electoral iniciará sus sesiones el día dos de agosto del año anterior al de la elección con el objeto de preparar el proceso electoral, debiendo publicar en el Boletín Oficial del Gobierno del Estado, la forma como quedó integrado y su domicilio legal. A partir de esa fecha hasta la conclusión del proceso electoral, el Consejo General sesionara por lo menos una vez al mes.
-
-.siguiente párrafo igual
-
-###### ARTÍCULO 108.
-
-En cada uno de los Municipios del Estado, funcionará un Comité Municipal Electoral, con residencia en la cabecera municipal y ejercerán sus funciones sólo durante el proceso electoral. Dichos Comités se instalarán a más tardar el día veintiuno de agosto del año anterior al de la elección.
-
-.siguiente párrafo igual
-
-###### ARTÍCULO 109.
-
-.primer párrafo igual
-
-I.- Por un Consejero Presidente, con voz y voto, que será nombrado por el Consejo General del Instituto Estatal Electoral, a más tardar el día 17 de agosto del año anterior al de las elecciones ordinarias;
-
-.Fracciones de la II a la IV iguales
-
-###### ARTÍCULO 112.
-
-Los partidos políticos deberán acreditar a sus representantes ante el Consejo General del Instituto Estatal Electoral, para que los representen en los Comités Municipales Electorales, a más tardar el día 17 de agosto del año anterior al de la elección respectiva; si no lo hicieren dentro de dicho término los podrán acreditar con posterioridad, sin que tengan derecho a combatir los actos o resoluciones dictados con antelación por los citados órganos electorales.
-
-###### ARTÍCULO 118.
-
-...primer párrafo igual
-
-Se instalarán a más tardar el día veintiuno de agosto del año anterior al de la elección y sesionarán por lo menos una vez al mes, previa convocatoria de su Presidente y en forma extraordinaria, cuando éste lo estime necesario o a petición que le formulen la mayoría de los representantes de los partidos políticos acreditados en los términos de esta Ley.
-
-###### ARTÍCULO 119.
-
-...primer párrafo igual
-
-I.- Por un Consejero Presidente con voz y voto, que será nombrado por el Consejo General del Instituto Estatal Electoral, a más tardar el día 17 de agosto del año anterior al de las elecciones ordinarias;
-
-Fracciones de la II a la IV iguales
-
-###### ARTÍCULO 133.
-
-...primer párrafo Igual
-
-I.- Recibida la información del número de ciudadanos, empadronados en la lista nominal de las secciones comprendidas en el Distrito Electoral uninominal de que se trate, el Comité Distrital Electoral respectivo celebrará, a más tardar el día 10 de septiembre del año anterior al de la elección, una sesión en la que su Presidente presentará al pleno del Comité el proyecto del número de casillas a instalarse, para su aprobación;
-
-II.- Del 11 al 15 de septiembre del año anterior al de la elección, los Comités Distritales procederán a insacular de los listados básicos a un 10% de ciudadanos de cada Sección Electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a veinticinco;
-
-.Fracción III...Igual;
-
-IV.- A los ciudadanos seleccionados se les impartirá un curso de capacitación durante los meses de octubre y noviembre del año anterior al de la elección;
-
-Fracciones de la V a la VIII... Iguales
-
-###### Artículo 142.
-
-Los procesos internos de selección de los partidos políticos, podrán iniciar a partir del día quince del mes de julio del año previo a la elección y concluirán con la elección del candidato respectivo.
-
-.Segundo párrafo igual
-
-.Fracciones de la I a la V Iguales
-
-VI.- La fecha de celebración de la asamblea estatal, distrital o municipal o, en su caso, de realización de la jornada comicial interna, la que deberá verificarse a más a tardar el día veinte de octubre del año previo al de la elección, de conformidad con lo siguiente:
-
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2010)</small>
-
-a).- Las precampañas de los procesos electorales en que se renueven el Titular del Poder Ejecutivo Estatal, los Diputados y Planillas de Ayuntamiento, iniciarán el día dos del mes de agosto del año previo a la elección y concluirán el día treinta de septiembre del mismo año. Con la etapa de las precampañas, inicia formalmente el proceso electoral en términos del artículo 150 de esta Ley.
-
-.Inciso b), párrafos del primero al sexto Iguales.
-
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2010)</small>
-
-###### ARTÍCULO 148.
-
-El Consejo General, dentro de los primeros quince días del mes de mayo del año previo a la elección, fijará el tope de gastos de precampaña por cada elección. La suma total del gasto de cada uno de los precandidatos de un partido político no podrá ser superior al veinte por ciento del tope de gastos de la campaña inmediata anterior, fijada por el Instituto para cada elección. La fijación del tope de gastos de precampaña, no forma parte de ninguna de las etapas del proceso electoral, en términos de lo establecido en el artículo 150 de esta ley, por tanto, no serán considerados como parte del proceso electoral.
-
-###### ARTÍCULO 154.
-
-...
-
-El Consejo General del Instituto Estatal Electoral, a más tardar el dos de agosto del año anterior al de la elección, sesionará a efecto de aprobar y publicar la división del territorio del Estado en los Distritos Electorales Uninominales que resulten necesarios de acuerdo a las condiciones geográficas, económicas, sociales y culturales de la entidad y el número de Secciones Electorales que resulten convenientes para el apropiado desarrollo del proceso electoral con apego a las disposiciones contempladas en el artículo 41 Fracción I de la Constitución Política del Estado.
-
-.
-
-###### ARTÍCULO 156.
-
-El Instituto Estatal Electoral, publicará a más tardar el día 20 de agosto del año anterior al de la elección, en el Boletín Oficial del Gobierno del Estado, la convocatoria y avisos para las elecciones de Diputados; y en su caso Gobernador del Estado e integrantes de Ayuntamientos de la entidad.
-
-###### ARTÍCULO 157.
-
-...
-
-I.- En el año de la elección en que se renueven el Titular del Poder Ejecutivo Estatal, los integrantes del Congreso del Estado e integrantes de los Ayuntamientos, todos los candidatos podrán ser registrados en el periodo comprendido del día diez al día quince de noviembre inclusive, del año anterior al de la elección; y
-
-II.- (DEROGADA, B.O. 30 DE ABRIL DE 2010)
+TERCERO.- (DEROGADO POR ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 27 DE JUNIO DE 2014)
 
 B.O. 30 DE ABRIL DE 2010.
 
@@ -4138,3 +4038,29 @@ B.O. 10 DE DICIEMBRE DE 2013.
 Primero.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- El Instituto Estatal Electoral, deberá realizar las adecuaciones legales que correspondan a su reglamentación, para armonizarla con el presente decreto, en un plazo no mayor a 60 días naturales, contados a partir de su entrada en vigor.
+
+B.O. 27 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Una vez que entre en vigor el presente Decreto, el Congreso del Estado deberá adecuar las leyes secundarias en materia político-electoral que de ella emanen, a más tardar el 30 de junio de 2014. Dichas modificaciones observarán las garantías electorales que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución establecen como marco general; así como respecto de las facultades y competencias que no están expresamente concedidas a la Federación.
+
+TERCERO.- Los procesos electorales ordinarios locales correspondientes a las elecciones para renovar a los integrantes de la Legislatura e integrantes de los Ayuntamientos, que tendrán lugar el año 2018, por única ocasión y en cumplimiento al Decreto de reforma a la Constitución Política de los Estados Unidos Mexicanos de fecha 22 de enero de 2014, y publicada el 10 de febrero del mismo año en el Diario Oficial de la Federación, se realizarán el primer domingo de julio de 2018.
+
+CUARTO.- Los actuales Consejeros del Instituto Estatal Electoral, seguirán sujetos a lo dispuesto por el Transitorio Noveno del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidas Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014.
+
+QUINTO.- Los Magistrados del Tribunal Estatal Electoral seguirán sujetos a las normas previstas en los transitorios Segundo y Décimo del Decreto Legislativo, por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, y continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos en los términos previstos por la fracción IV, inciso c), del artículo 116 de la Constitución Federal.
+
+SEXTO.- La reforma al artículo 46 de esta Constitución en materia de reelección de diputados, no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- La reforma al artículo 141 de esta Constitución en materia de reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+OCTAVO.- Una vez que entren en vigor las disposiciones de este Decreto, los recursos humanos, financieros y materiales que en la actualidad se encuentren adscritos al Tribunal Estatal Electoral del Estado de Baja California Sur y que forman parte del Poder Judicial del Estado, pasaran a formar parte del primero, por lo que los titulares de ambos órganos realizarán las previsiones necesarias para que dichos recursos queden transferidos el mismo día en que entren en vigor las disposiciones señaladas en el Quinto Transitorio de este Decreto.
+
+NOVENO.- A partir de la entrada en vigor del presente Decreto, se derogan los Artículos Quinto y Sexto Transitorios del decreto 1732 de fecha 06 de marzo de 2008 y publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 15 de fecha 10 de Marzo del año 2008.
+
+DÉCIMO.- A partir de la entrada en vigor del presente Decreto, se derogan los Artículos Segundo y Tercero Transitorios del decreto 1839 de fecha 10 de marzo de 2010, publicado en el Boletín Oficial extraordinario del Gobierno del Estado de Baja California Sur numero 10 de fecha 12 de Marzo del año 2010.
+
+DÉCIMO PRIMERO.- El Procurador General de Justicia del Estado en cumplimiento a lo dispuesto por la fracción VIII del artículo 36 de este Decreto, deberá crear una Agencia del Ministerio Público Especializada en Delitos Electorales, para efectos del Proceso Electoral que iniciará en la primera semana del mes de octubre del año 2014, de conformidad a lo establecido en el Artículo 25 de la Ley General en Materia de Delitos Electorales.
+
+DÉCIMO SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
