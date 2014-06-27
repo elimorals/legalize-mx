@@ -4,7 +4,7 @@ identifier: "BCS-codigo-procesal-penal-para-el-estado-de-baja-california-sur-941
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-07"
-last_updated: "2013-05-07"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 2081, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL B.O. DE 7 DE MAYO DE 2013, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR EN FORMA SUCESIVA Y TERRITORIALMENTE POR PARTIDO JUDICIAL.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 2176 POR EL QUE SE EMITEN LAS DECLARATORIAS DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PUBLICADAS EN EL B.O. DE 27 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014 (ABROGADO).
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 7 de mayo de 2013.
 
@@ -5882,3 +5882,19 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 ARMANDO MARTÍNEZ VEGA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 27 DE JUNIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se Abroga el Código Procesal Penal para el Estado de Baja California Sur, publicado mediante Decreto 2081 en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 20, en fecha 07 de Mayo de 2013.
+
+Tercero.- En el momento que inicie su vigencia el Código Nacional de Procedimientos Penales en los términos y modalidades adoptados en las presentes declaratorias, queda abrogado el Código de Procedimientos Penales para el Estado de Baja California Sur en vigor. Sin embargo, respecto de los hechos que se inicien con fecha anterior a la incorporación del sistema de justicia penal acusatorio y oral, o de los procedimientos penales que a la entrada en vigor de la normatividad nacional de mérito se encuentren en trámite, iniciarán, continuarán y serán concluidos respectivamente en su sustanciación de conformidad con la legislación aplicable al momento de la comisión del hecho delictivo o del inicio de la sustanciación de los mismos, declarándose éstos plenamente válidos en las actuaciones procesales que se hubieren practicado.
+
+Cuarto.- Las leyes reglamentarias así como las diversas leyes del Estado de Baja California Sur, relativas a la organización y funcionamiento de las Instituciones involucradas en la seguridad pública, procuración y administración de justicia y todas aquellas en las que se establecen los diversos dispositivos que inciden en la aplicación del sistema de justicia penal acusatorio y oral, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, en las fechas de incorporación al sistema procesal penal acusatorio señaladas en el presente decreto y a partir de que el Código Nacional de Procedimientos Penales entre en vigor en los términos y modalidades enunciadas en las presentes declaratorias.
+
+Quinto.- Se derogan las disposiciones que contravengan este Decreto.
+
+Sexto.- Remítase una copia de este Instrumento Legislativo para su conocimiento a las Legislaturas de las Entidades Federativas, así como al H. Congreso de la Unión.
