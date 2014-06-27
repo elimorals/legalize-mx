@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-social-de-atencion-a-86296
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-02-24"
-last_updated: "2012-02-24"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86296&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-01-13"
 
 ESTATUTO ORGÁNICO DE LA PROCURADURÍA SOCIAL DE ATENCIÓN A LAS VÍCTIMAS DE DELITOS (PROVÍCTIMA)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS, PUBLICADO EN EL D.O.F. DE 27 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JUNIO DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de febrero de 2012.
 
@@ -688,3 +690,19 @@ Artículo Segundo.- Quedan sin efectos, las disposiciones normativas provisional
 Artículo Tercero.- La persona titular de PROVICTIMA, por conducto del Coordinador General de Administración y Finanzas, procederá en una primera etapa a registrar ante la secretarías de la Función Pública y de Hacienda y Crédito Público la Estructura Básica de PROVICTIMA hasta el nivel de las Subprocuradurías, para en una segunda etapa y conforme vaya concluyéndose la transferencia material y formal de los recursos humanos, presupuestarios, materiales y tecnológicos por parte de la Procuraduría General de la República, de la Secretaría de Seguridad Pública y de otras dependencias de la Administración Pública Federal, lleve a cabo el registro de la Estructura Orgánica de PROVICTIMA en su integridad.
 
 El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno de la Procuraduría Social de Atención a las Víctimas de Delitos en la Segunda Sesión Ordinaria celebrada el día trece de enero de dos mil doce.- La Procuradora Social, Sara Irene Herrerías Guerra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE JUNIO DE 2014.
+
+Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Para efectos internos y de estructura, este Estatuto entrará en vigor al día siguiente de su aprobación y emisión por el Pleno.
+
+Segundo. Se abroga el Estatuto Orgánico de la Procuraduría Social de Atención a Víctimas de delitos (PROVÍCTIMA) de fecha 24 de febrero de 2012.
+
+Tercero. En cuanto se emita y publique en el Diario Oficial de la Federación el Reglamento de la Ley General de Víctimas, el Pleno de la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones necesarias en caso de que existan incompatibilidades entre aquella norma y el presente Estatuto Orgánico.
+
+Cuarto. La Subprocuraduría de Personas Desaparecidas o No Localizadas permanecerá adscrita a la Entidad hasta en tanto no se transfiera a la Procuraduría General de la República, de conformidad con el TRANSITORIO QUINTO del Decreto por el que se Transforma la Procuraduría Social de Atención a las Víctimas de Delitos en la Comisión Ejecutiva de Atención a Víctimas.
+
+Quinto. El personal de la Subprocuraduría Jurídica y de Asuntos Procesales quedará adscrito a la Dirección General de la Asesoría Jurídica Federal, con excepción del personal a cargo de la Dirección General Jurídico Consultiva.
+
+Sexto. Los Centros de Atención a Víctimas y Ofendidos (CAVs) ubicados en distintas entidades federativas, se transformarán en Delegaciones Regionales de la Comisión Ejecutiva de Atención a Víctimas.
