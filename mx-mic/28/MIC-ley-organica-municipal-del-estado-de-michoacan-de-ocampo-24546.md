@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2014-06-25"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -531,7 +531,7 @@ IX. La documentación relativa a los proyectos aprobados y ejecutados, así como
 
 X. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles propiedad del municipio, así como el inventario de los bienes inmuebles propiedad del municipio que se encuentren en comodato;
 
-XI. La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y, (sic)
+XI. La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y,
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
@@ -735,7 +735,7 @@ VIII. Publicar en el Periódico Oficial del Estado los presupuestos de egresos, 
 
 IX. Publicar trimestralmente en la tabla de avisos del Ayuntamiento o en el periódico de mayor circulación en el municipio, el estado de origen y aplicación de los recursos públicos a su cargo;
 
-X. Enviar al Titular del Poder Ejecutivo del Estado, dentro de los primeros quince días del mes de diciembre de cada año, un informe de labores desarrolladas en el ejercicio; y (sic),
+X. Enviar al Titular del Poder Ejecutivo del Estado, dentro de los primeros quince días del mes de diciembre de cada año, un informe de labores desarrolladas en el ejercicio; y,
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -841,19 +841,29 @@ IX. De Fomento Industrial y Comercio;
 
 X. De Desarrollo Rural;
 
-XI. De Asuntos Indígenas, en donde exista población indígena; y, (sic)
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+XI. De Asuntos Indígenas, en donde exista población indígena;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2007)</small>
 
 XII. De acceso a la Información Pública;
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
 XIII. De asuntos migratorios donde se requiera; y,
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
 XIV. Las demás que en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de sus miembros determine.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+En los Municipios donde se considere necesario podrá crearse la Comisión de Igualdad, Integración y Diversidad Social con el objeto de vigilar, fomentar y coordinar que los empleados y funcionarios municipales respeten los derechos humanos, durante su ejercicio incluida la discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales de acuerdo con su orientación sexual o identidad de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+Asimismo se encargará de coordinar en conjunto y mediante consulta con la sociedad civil organizada de adultos mayores, discapacitados y de los ciudadanos con preferencias sexuales de acuerdo con su orientación sexual o identidad de género, la generación por parte de los gobiernos municipales de políticas públicas, programas y acciones sociales en beneficio de los mismos, cuidando su incorporación en los planes y presupuestos municipales; también tendrá la facultad de recibir, dar trámite y resolver las quejas que por discriminación, negación de los servicios públicos o violación de sus derechos por parte de funcionarios y empleados municipales sean objeto los ciudadanos, así como de aquellas facultades que le confiera la legislación vigente en la Materia de protección, fomento y vigilancia de los Derechos humanos.
 
 ###### Artículo 38.
 
@@ -2349,7 +2359,7 @@ XX. Horarios Comerciales;
 
 XXI. Rastros y Expendios de Carne;
 
-XXII. Anuncios, Espectáculos y Diversiones Públicos; y, (sic)
+XXII. Anuncios, Espectáculos y Diversiones Públicos; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2007)</small>
 
@@ -2814,3 +2824,7 @@ SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para
 P.O. 25 DE JUNIO DE 2014.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 27 DE JUNIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
