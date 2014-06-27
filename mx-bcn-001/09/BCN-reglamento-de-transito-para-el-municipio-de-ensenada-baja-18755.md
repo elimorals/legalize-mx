@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-ensenada-baja-18755
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-22"
-last_updated: "2013-05-17"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de diciembre de 2000.
 
@@ -443,7 +443,7 @@ Todo vehículo automotor que utilice aire comprimido para el funcionamiento de s
 
 Además deberá estar provisto de un manómetro visible por el conductor que indique en kilogramos por centímetro cuadrado, la presión disponible para el frenado.
 
-Los vehículos automotores que utilicen vacío para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolcado deberá estar provisto de una señal de advertencia, fácilmente audible o visible por el conductor que entre en funcionamiento en todo momento en que el vacío del depósito alimentador de los vehículos sea inferior a 20 milímetros de mercurio.; (sic) Además deberán estar provistos de un vacuómetro visible por el conductor que indique el vacío en milímetros de mercurio disponible para el frenado.
+Los vehículos automotores que utilicen vacío para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolcado deberá estar provisto de una señal de advertencia, fácilmente audible o visible por el conductor que entre en funcionamiento en todo momento en que el vacío del depósito alimentador de los vehículos sea inferior a 20 milímetros de mercurio.; Además deberán estar provistos de un vacuómetro visible por el conductor que indique el vacío en milímetros de mercurio disponible para el frenado.
 
 ### CAPITULO IV (SIC). DE LOS CONDUCTORES DE VEHICULOS
 
@@ -829,9 +829,11 @@ B).- INDICADORES DE ALINEAMIENTO FANTASMAS.- Son postes cortos de color blanco c
 
 ### CAPITULO IV. ESTACIONAMIENTO PROHIBIDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 73.
 
-Los colores oficiales que prohiben o delimitan al estacionamiento son los siguientes:
+Los colores oficiales que prohíben o delimitan al estacionamiento son los siguientes:
 
 I.- El color rojo, indica restricción.
 
@@ -839,7 +841,9 @@ II.- El color blanco, indica ascenso y descenso de pasajeros para vehículos de 
 
 III.- El color amarillo indica estacionamiento privado y procede la infracción únicamente a petición de parte interesada.
 
-IV.- El color azul, indica estacionamiento para discapacitados, cuando exhiba el logotipo de una silla de ruedas.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+IV.- El color azul, indica estacionamiento para personas con discapacidad, cuando exhiba el logotipo de una silla de ruedas; el vehículo que haga uso de él tiene que portar el tarjetón distintivo mismo que puede ser transferible mientras la persona titular viaje en el vehículo.
 
 V.- El color azul, indica zona de carga y descarga.
 
@@ -1485,7 +1489,7 @@ I.- Unidades sencillas de dos o tres ejes deben medir 9.15 metros de lago máxim
 
 II.- Vehículos combinados, con una articulación de tres o cuatro ejes, deben medir 13 metros de largo máximo.
 
-III.- Vehículos combinados, de dos articulaciones con cuatro ejes deben medir 17.50 metros largo (sic) máximo.
+III.- Vehículos combinados, de dos articulaciones con cuatro ejes deben medir 17.50 metros (sic) largo máximo.
 
 IV.- Como máximo entre los ejes laterales del vehículo o de la carga, será de 2.60 metros.
 
@@ -1631,7 +1635,7 @@ LUCES:
 
 I.- El tractor con luces delanteras y posteriores.
 
-II.- La unidad remolcada durante el día con banderolas rojas rectangulares de 40 Cms.. (sic) durante la noche dos lámparas en la parte posterior que emitan la luz roja visible a una distancia no menor de 100 metros y dos reflejantes rojos que sean visibles al ser afocados a una distancia de 150 Mts.., (sic) con las luces altas de la parte delantera de otro vehículo.
+II.- La unidad remolcada durante el día con banderolas rojas rectangulares de 40 Cms.. durante la noche dos lámparas en la parte posterior que emitan la luz roja visible a una distancia no menor de 100 metros y dos reflejantes rojos que sean visibles al ser afocados a una distancia de 150 Mts.., con las luces altas de la parte delantera de otro vehículo.
 
 III.- Dos lugares ámbar indicando con la mayor exactitud posible el ancho de la unidad remolcada.
 
@@ -1667,7 +1671,7 @@ En cualquier vehículo automotor se podrán instalar hasta dos faros buscadores 
 
 ###### ARTICULO 169.
 
-Se podrán instalar en el frente de los vehículos, faros de nieblas (sic) a una altura no menor de 40 Cms.. (sic) ni mayor de un metro.
+Se podrán instalar en el frente de los vehículos, faros de nieblas (sic) a una altura no menor de 40 Cms.. ni mayor de un metro.
 
 Sólo podrán encenderse cuando sea necesario por la presencia de niebla y podrán utilizarse simultáneamente con la “LUZ BAJA” de los faros principales.
 
@@ -1865,7 +1869,7 @@ IV.- Hacer uso de las luces altas y faros buscadores.
 
 ###### ARTICULO 198.
 
-Las grúas así como los vehículos motorizados de aseo y limpia, deberán estar previstos de una torreta fija en la parte superior de la cabina que emita luz ámbar giratoria visible a una distancia de 150 Mts.. (sic) Las Carrozas fúnebres deberán estar dotadas de una torreta color morado, la cual se usará solamente durante el cortejo.
+Las grúas así como los vehículos motorizados de aseo y limpia, deberán estar previstos de una torreta fija en la parte superior de la cabina que emita luz ámbar giratoria visible a una distancia de 150 Mts.. Las Carrozas fúnebres deberán estar dotadas de una torreta color morado, la cual se usará solamente durante el cortejo.
 
 ###### ARTICULO 199.
 
@@ -2195,7 +2199,7 @@ Cualquier otra infracción a las disposiciones de este Reglamento, que no esté 
 
 ## TITULO DECIMO. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 244.
 
@@ -2203,13 +2207,11 @@ El Presidente Municipal, el Secretario de Seguridad Pública Municipal, los Juec
 
 El infractor que cubra el importe de las multas que establece este Reglamento dentro de los Quince Días Naturales de haber sido impuesta, tiene derecho a que se le descuente un 50% del monto de la misma.
 
-La autoridad podrá conmutar la multa por trabajo comunitario o por asistir y acreditar el curso de manejo, siempre y cuando se trate de primo-infractores y la solicite antes de los quince días de haber sido impuesta. Vencido este plazo no procederá descuento o conmutación alguna.
+La autoridad podrá conmutar la multa por trabajo comunitario o por asistir y acreditar el curso de manejo, siempre y cuando se trate de primo-infractores y lo solicite antes de los quince días de haber sido impuesta. Vencido este plazo no procederá descuento o conmutación alguna.
 
-La conmutación y el descuento de la multa no aplican si fue impuesta por conducir en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, participar en competencias de velocidad o resultar responsable del accidente de tránsito, conforme a lo dispuesto en los artículos 40, 41, 94, 200 y 205.
+La conmutación y el descuento de la multa no aplican si fue impuesta por conducir en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, estacionarse en lugares exclusivos para personas con discapacidad sin el distintivo correspondiente, participar en competencias de velocidad, resultar responsable del accidente de tránsito, conforme a lo dispuesto en los artículos 40, 41, 73 fracción IV, 94, 200 y 205.
 
 De no ser pagada dentro de los Treinta Días Naturales de haber sido impuesta, será cobrada de acuerdo al procedimiento económico coactivo que señala la Ley de Hacienda Municipal.
-
-> <small>N. DE E. VEASE REFORMAS AL TABULADOR EN EL P.O. DE 1 DE AGOSTO DE 2008, PAGINA 173.</small>
 
 ###### ARTICULO 245.
 
@@ -2265,11 +2267,11 @@ PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación
 
 SEGUNDO.- Se derogan los Reglamentos y demás disposiciones de Tránsito que se encuentren en vigor, así como todas las disposiciones dictadas sobre la materia, en cuanto se opongan a lo que ordene el presente Reglamento.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE AGOSTO DE 2004.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 24 DE MARZO DE 2006.
 
@@ -2292,3 +2294,7 @@ SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan 
 P.O. 17 DE MAYO DE 2013.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE JUNIO DE 2014.
+
+UNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
