@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2014-05-23"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -2956,9 +2956,7 @@ XXIX.- Establecer, por conducto del Consejo de la Judicatura Federal, la coordin
 
 XXX.- Vigilar que los servidores de las Salas Regionales y de la propia Comisión de Administración y de sus órganos auxiliares cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial ante el Consejo de la Judicatura Federal, y (sic)
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2014)</small>
-
-XXXI.- Determinar, en su caso, el haber de retiro de los Magistrados de la Sala Superior, y
+XXXI.- (DEROGADA, D.O.F. 27 DE JUNIO DE 2014)
 
 XXXII.- Desempeñar cualquier otra función que la ley o el Reglamento Interno del Tribunal Electoral le encomienden.
 
@@ -3809,3 +3807,7 @@ La Sala Regional Especializada, deberá entrar en funcionamiento conforme a lo s
 1. Antes del inicio del proceso electoral 2014-2015, el Senado deberá designar a los Magistrados integrantes de la Sala Especializada conforme a lo dispuesto por el artículo 99 de la Constitución. Una vez integrada dicha Sala, deberá iniciar funciones y ejercer las atribuciones que le otorga el presente Decreto.
 
 2. El Instituto Nacional Electoral continuará conociendo de los procedimientos especiales sancionadores que se encuentren en trámite a la entrada en vigor del presente Decreto, así como de los que se interpongan posteriormente, hasta en tanto entre en funcionamiento la Sala Especializada establecida en el presente Decreto.
+
+D.O.F. 27 DE JUNIO DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
