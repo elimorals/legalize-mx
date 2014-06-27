@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-06-25"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1645,19 +1645,33 @@ III. Instrumentar mecanismos para la adecuada prestación de los servicios de or
 
 IV. Llevar a cabo programas y acciones encaminadas a la prevención y atención del consumo de sustancias psicoactivas;
 
-V. Vigilar en su caso, el cumplimiento de las disposiciones jurídicas en materia de prevención y atención de las adicciones por parte de quienes brinden los servicios especializados en la materia;
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
 
-VI. Promover la formación y capacitación de recursos humanos especializados para la prevención y atención de las adicciones;
+IV Bis. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente, de conformidad con el artículo 192 Quáter de la Ley General de Salud;
 
-> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
 
-VII. Crear y actualizar permanentemente el padrón de instituciones y organismos que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
+V. Crear y actualizar permanentemente el padrón de instituciones y organismos públicos, privados y del sector social que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
 
-VII Bis. Crear y actualizar el registro de establecimientos mercantiles que cuenten con Dictamen de Factibilidad de Impacto Sanitario para la solicitud o refrendo de licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo;
+VI. Promover la formación y capacitación de recursos humanos de las instituciones y organismos públicos, privados y del sector social especializados para la prevención y atención de las adicciones;
 
-VIII. Proporcionar asistencia técnica y apoyo a los establecimientos de rehabilitación y atención privados y sociales, con base en los lineamientos que fije el Ejecutivo del Estado;
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+VII. Realizar periódicamente las visitas de inspección que permitan vigilar el cumplimiento de las disposiciones jurídicas en materia de prevención y atención de las adicciones por parte de quienes brinden los servicios especializados en la materia;
+
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+VII. Bis. Proporcionar asistencia técnica necesaria a los establecimientos de rehabilitación y atención privados, con base en los lineamientos que fije el Ejecutivo del Estado;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+VII. Ter. Promover el apoyo para la formación y capacitación de los recursos humanos, el financiamiento para la operación y funcionamiento, la atención médica general de las personas que se atiendan por parte de las Instituciones de Asistencia Privada del Estado de México, organismos públicos y sociales nacionales e internacionales y los particulares, atendiendo las disposiciones legales respectivas;
+
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+VIII. Crear y actualizar el registro de establecimientos mercantiles que cuenten con el permiso sanitario para la solicitud o renovación de licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas, en botella cerrada, para el consumo inmediato o al copeo;
 
 > <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
 
@@ -1669,9 +1683,7 @@ X. Llevar a cabo, a través del Instituto Mexiquense contra las Adicciones, los 
 
 XI. Atender los reportes de la autoridad ministerial para promover la correspondiente orientación médica o de prevención; o bien, brindar el tratamiento al farmacodependiente, en términos de lo establecido en los artículos 193 Bis y 478 de la Ley General de Salud;
 
-> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
-
-XII. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente, de conformidad con el artículo 192 Quáter de la Ley General de Salud; y
+XII. (DEROGADA, G.G. 27 DE JUNIO DE 2014)
 
 > <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
 
@@ -1777,7 +1789,9 @@ V. Las demás que señalen las leyes y disposiciones de la materia.
 
 I. Realizar acciones que tiendan a la prevención del consumo de sustancias psicoactivas, en congruencia con los programas nacional y estatal;
 
-II. Coadyuvar a través de las corporaciones de tránsito, protección y seguridad pública municipales, con las autoridades de procuración de justicia y seguridad pública estatales, en la identificación de los lugares y sitios de distribución y venta de sustancias psicoactivas, para los efectos legales procedentes;
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+II. Coadyuvar a través de las corporaciones de tránsito, protección y seguridad pública municipales, con las instituciones de seguridad pública estatales, en la identificación de los lugares y sitios de distribución y venta de sustancias psicoactivas, para los efectos legales procedentes;
 
 III. Denunciar ante las Procuradurías General de la República y General de Justicia del Estado de México, en el ámbito de sus competencias, respectivamente, sobre la existencia de conductas que pueden constituir delitos contra la salud;
 
@@ -1791,9 +1805,27 @@ IV Bis. Implementar y ejecutar medidas y programas permanentes, de forma aleator
 
 V. Conformar una red preventiva ciudadana para prevenir el uso y abuso de sustancias psicoactivas;
 
-VI. Realizar un diagnóstico sobre el estado que guarda el consumo de drogas a nivel municipal; y
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+VI. Realizar un diagnóstico sobre el estado que guarda el consumo de drogas a nivel municipal;
 
 VII. Promover la creación de Unidades de Prevención y Tratamiento de las adicciones, en términos de las disposiciones legales correspondientes.
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+VIII. Crear y actualizar permanentemente el padrón municipal de instituciones y organismos públicos, privados y del sector social que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+IX. Promover la formación y capacitación de recursos humanos de las instituciones y organismos públicos y del sector social especializados para la prevención y atención de las adicciones;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+X. Realizar periódicamente las visitas de inspección que permitan vigilar el cumplimiento de las disposiciones jurídicas en materia de prevención y atención de las adicciones por parte de quienes brinden los servicios especializados en la materia;
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+XI. Promover el apoyo para la formación y capacitación de los recursos humanos, el financiamiento para la operación y funcionamiento, la atención médica general de las personas que se atiendan por parte de las Instituciones de Asistencia Privada del Estado de México, organismos públicos y sociales estatales, nacionales e internacionales y los particulares, atendiendo las disposiciones legales respectivas.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
@@ -16722,3 +16754,13 @@ G.G. 25 DE JUNIO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
