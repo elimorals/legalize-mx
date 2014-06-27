@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-ciudad-25658"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-10-09"
-last_updated: "2009-06-05"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
+REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de octubre de 1991.
 
@@ -51,6 +51,14 @@ ART. 3o.- Se denominarán espectáculos culturales, todos aquellos que sirvan pa
 ART. 4o.- Cualquier espectáculo comprendido en el artículo 1°. de este Reglamento, deberá solicitar y obtener de la Autoridad Municipal, su respectivo permiso, sin el cual no podrá ser abierto al público.
 
 ART. 5o.- A fin de que la Autoridad Municipal conceda el permiso que se menciona en el artículo 4o., el lugar en que se presentará dicho espectáculo, deberá reunir las condiciones de higiene, seguridad y demás señaladas en este Reglamento y en otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+Todos los propietarios, representantes, o encargados de los establecimientos en los que se lleven a cabo espectáculos deportivos o recreativos en general ya sea en forma permanente o temporal, que realicen un cobro por concepto de entrada o asistencia, además acatar las medidas de seguridad que les dicte Protección Civil municipal y/o estatal, deberán de contar con un seguro de gastos médicos o de responsabilidad civil hacia terceros, que cubra los gastos médicos de los asistentes al evento.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+En el caso de espectáculos en establecimientos de cualesquier actividad deportiva, o de recreación en general deberán presentar y comprometerse a llevar a cabo una campaña permanente de prevención de la violencia, que concientice a los asistentes sobre sus efectos negativos para la convivencia social, y así mismo sobre las consecuentes sanciones en caso de violencia y lo (sic) realización de actos vandálicos.
 
 ART. 6o.- Por motivo de seguridad, en todas las puertas de los lugares en los que se efectuen cualquier tipo de espectáculos, deberán existir letreros con la palabra “salida”, sobre los muros, habrá flechas que indiquen la dirección de la misma, en éstas flechas deberá existir también la palabra “salida”. Las letras deberán tener una altura mínima de 15 cms. y los letreros deberán estar iluminados en su interior, a fin de que sean fácilmente localizables. Estos letreros estarán encendidos 15 minutos antes de dar principio el espectáculo y hasta que haya sido completamente desalojado el local.
 
@@ -142,7 +150,7 @@ ART. 33.- Las empresas cinematográficas, deberán hacer del conocimiento del p�
 
 ### CAPITULO QUINTO. DE LOS CIRCOS, CARPAS Y JUEGOS ELECTROMECANICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 1993)</small>
 
 ART. 34.- La Presidencia Municipal, autoriza discrecionalmente el funcionamiento de Carpas, Circos y Juegos Electromecánicos, que deberán sujetarse a las siguientes disposiciones:
 
@@ -152,7 +160,7 @@ II.- Instalarse por lo menos a 2 cuadras de distancia de otro lugar destinado a 
 
 III.- Sujetarse a una inspección por parte de peritos del Municipio, y en su caso, otorgar la garantía que se les exija;
 
-IV.- Conseguir el permiso correspondiente en la Dirección de Patrimonio Municipal; y (sic)
+IV.- Conseguir el permiso correspondiente en la Dirección de Patrimonio Municipal; y
 
 V.- Aceptar toda responsabilidad penal, civil, laboral, o de cualquier otra índole en que llegare a incurrir;
 
@@ -307,3 +315,11 @@ PRIMERO.- Las presentes reformas al Reglamento de Espectáculos, entrarán en vi
 SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan ala (sic) contenido de las presentes reformas.
 
 TERCERO.- Se remita el presente al C. Encargado del Despacho de la Presidencia Municipal, a fin de que tenga a bien instruir al C. Secretario del Ayuntamiento para que se sirva enviar el acuerdo para su debida publicación en el Periódico Oficial del Estado. Así mismo, se proceda también por el C. Secretario del Ayuntamiento, a su publicación en la Gaceta Municipal.
+
+P.O. 27 DE JUNIO DE 2014.
+
+PRIMERO.- El presente acuerdo de reformas por adición al Reglamento de Espectáculos de Guadalupe. Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Instrúyase a la Dirección de Espectáculos y Comercio para que en coordinación con la Dirección General de Comunicación Social implemente y lleve a cabo un amplia e intensa campaña de difusión de los objetivos y normas emanadas de las presentes reformas.
+
+TERCERO.- Instrúyase por parte del Presidente Municipal a la titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
