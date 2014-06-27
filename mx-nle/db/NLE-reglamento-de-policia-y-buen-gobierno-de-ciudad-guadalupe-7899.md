@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2013-01-30"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -123,7 +123,7 @@ La Secretaría de Seguridad, a través de la Dirección de Policía y de Transit
 
 Todas las infracciones a las (sic) normatividad establecida en el municipio constituyen faltas administrativas; las sanciones a las infracciones administrativas cometidas a este Reglamento, serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 4.
 
@@ -213,7 +213,7 @@ En dicho convenio se deberá prever la determinación de reglas operativas para 
 
 DE LAS FACULTADES Y OBLIGACIONES DE LA DIRECCION DE POLICÍA MUNICIPAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 7.
 
@@ -315,11 +315,11 @@ XXIII. El ejercicio de las facultades y/o competencias establecidas y asignadas 
 
 XXIV. Las demás conferidas por las leyes y los Reglamentos vigentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 29 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 7 BIS.- La Secretaría de Pública, orientará su organización y funcionamiento a que la conservación del orden, la paz y tranquilidad pública; prevenir los delitos y las infracciones administrativas, privilegiando la proximidad y comunicación con la ciudadanía, procurando su participación en actividades relacionadas con la seguridad pública municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 1.- La Secretaría de Seguridad Pública, a través de la Dirección de Policía orientará el ejercicio de sus atribuciones conforme a lo ordenado por la Ley de Seguridad Pública para el Estado de Nuevo León aplicando los siguientes principios:
 
@@ -379,7 +379,7 @@ La policía podrá constituirse en instancia de Coordinación Intermunicipal Reg
 
 III.- El Municipio se coordinará con las autoridades de Seguridad Pública del Estado para ejercer funciones de intervención, control o de reacción frente a delitos de alto impacto social o que la legislación penal los califica de graves.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 8.
 
@@ -797,29 +797,69 @@ II.- Multa.
 
 III.- Arresto hasta por 36 horas.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2013)</small>
+> <small>N. DE E. VÉASE EL P.O. DE 27 DE JUNO DE 2014, DE LA PÁGINA 95 A LA 96.</small>
 
-Las sanciones aplicables a la falta administrativa establecida en el artículo 14 Fracción VIII, una vez recibida la queja del o de los vecinos, serán las siguientes:
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-I.- Entrega de un acta en la que conste la sanción de amonestación escrita y apercibimiento para que acate la normatividad;
+Las sanciones aplicables a la falta administrativa establecida en el artículo 14 Fracción VIII del presente reglamento, una vez recibida la queja del o de los vecinos, y constatado la falta, las sanciones serán aplicadas en el siguiente orden:
 
-De no acatar, el ordenamiento municipal y reincidir en su conducta se procederá a:
+1) En horario de 6:00 am a 12:59 pm se entregara notificación, en la que se comunique la amonestación por escrito por la comisión de la falta administrativa y apercibimiento para que en lo sucesivo acate la normatividad;
 
-II.- Entrega de citatorio comunicando la notificación de la imposición de una sanción, cuyo monto determinará e impondrá el Juez Calificador bajo los siguientes criterios.
+2) En el horario de 1:00 am a 5.59 am se entregará citatorio comunicando la notificación de la imposición de una sanción por reincidencia, cuyo monto determinará e impondrá el Juez Calificador citatorio notificación de sanción administrativa;
 
-HORARIO EN LA QUE SE MONTO DE SANCIÓN EN
+3) Si derivado de la queja de los vecinos, se constata que el vecino que provoca la alteración de la tranquilidad y paz vecinal, posee antecedentes de amonestación y apercibimiento, se entenderá esta conducta como reincidente.
 
-APLICA LA COMISIÓN DE SALARIOS MÍNIMOS
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-LA FALTA ADMINISTRATIVA VIGENTE EN LA ZONA
+En todos los casos de acatarse el apercibimiento, se hará constar ello en el parte que se rinda, del cual se dará copia al Juez Calificador, de no acatar la petición de cese del ruido, o de acatarla solo momentáneamente, y dado que una vez que la autoridad se retiro, se reanude el ruido, que motivo la queja de los vecinos, la autoridad acudirá una vez más y entregara citatorio al infractor comunicándole la imposición de la sanción derivada de tal conducta, misma que se entenderá como reincidente y se hará constar en el parte citado,
 
-De 12:00 a 1:00 am De 5 a 10 cuotas
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-De 1:00 a 5:00 am De 25 a 50 cuotas
+Los criterios de aplicación de la sanción son los siguientes:
 
-En todo caso la sanción impuesta, podrá ser conmutada a través de la mediación y los métodos alternos de solución pacífica de los conflictos.
+HORARIO EN LA TIPO Y MONTO MONTO DE
 
-III.- Aplicación de medios de apremio
+QUE SE COMETE DE SANCIÓN SANCIÓN
+
+LA FALTA EN CUOTAS DE EN CUOTAS
+
+ADMINISTRATIVA SALARIO MÍNIMO DE SALARIO
+
+EN LA ZONA MÍNIMO DE
+
+LA ZONA, EN
+
+CASO DE
+
+REINCIDENCIA
+
+De 6:00 a 12:59 am Amonestación por 21 a 50
+
+Escrito y apercibi-
+
+miento de
+
+acatar la
+
+normatividad
+
+De 1:00 a 5:59 am 21 a 50 51 a 100
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+La autoridad policiaca y jueces calificadores deberán llevar un registro de las infracciones a la norma aquí establecida, a efecto de normar su criterio sobre la aplicación de la sanción en caso de reincidencia.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+En todo caso la sanción impuesta, podrá ser conmutada a través de la mediación y los métodos alternos de solución pacifica de los conflictos o conmutada por trabajo comunitario.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+III (SIC).- Aplicación de medios de apremio.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+Indexación e incorporación del pago de la sanción al pago del impuesto predial.
 
 ###### ARTICULO 32.
 
@@ -913,13 +953,13 @@ Dentro de un término no mayor de 15-quince días hábiles, después de concluir
 
 DE LA COMISIÓN DE HONOR Y JUSTICIA.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2001)</small>
 
 ### CAPITULO 19
 
 DE LA ACTUALIZACION DE ESTE REGLAMENTO.
 
-> <small>[N. DE E. ANTES ARTICULO 48]</small>
+> <small>[N. DE E. ANTES ARTÍCULO 48]</small>
 
 ###### ARTICULO 42.
 
@@ -1005,13 +1045,13 @@ Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública de
 
 (DEROGADO, P.O. 16 DE MARZO DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 ## TITULO VII
 
 DE LA ACTUALIZACION DE ESTE REGLAMENTO.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 63.
 
@@ -1037,7 +1077,7 @@ LIC. JOSÉ ÁNGEL RAMÓN LOZANO.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE DICIEMBRE DE 2000.
 
@@ -1150,3 +1190,13 @@ Instrúyase a la Dirección General de Comunicación Social, a efecto de que ini
 Instrúyase a la Dirección Jurídica para que en coordinación con la Secretaría de Seguridad Pública, se avoquen a implementar los formatos y mecanismos requeridos del procedimiento, así mismo se proceda a la capacitación de los elementos policiacos.
 
 Instrúyase al C. Secretario del Ayuntamiento para que remita a su publicación el presente Acuerdo en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 27 DE JUNIO DE 2014.
+
+PRIMERO.- El presente acuerdo de reformas por adición al artículo 5 del "Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León", entrarán en vigor a los 30 treinta días naturales, a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Instrúyase a la (sic) Direcciones General de Comunicación Social y de Policía de Tránsito para que implementen y lleven a cabo un amplia e intensa campaña de fortalecimiento y sensibilización de la práctica de la cultura de convivencia social y armonía vecinal, y de difusión de las presentes reformas.
+
+TERCERO.-. Instrúyase a la Dirección de Policía de Transito municipal para que implemente y lleve a cabo operativos de prevención y de respuesta expedita a la queja de los vecinos sobre alteración de la paz y la tranquilidad producida por ruido de los vecinos, a fin de dar vigencia a la normatividad aquí acordada.
+
+CUARTO.- Instrúyase por parte del Presidente Municipal a la titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
