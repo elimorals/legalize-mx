@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "2011-06-15"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 4 de diciembre de 1980.
 
@@ -45,11 +45,11 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
 La presente ley regula la estructura y funcionamiento del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 2o.
 
-Corresponde a los Tribunales de Justicia del Estado de Campeche, la facultad de aplicar las Leyes en asuntos civiles, penales, contencioso-administrativos y electorales del fuero común, así como en asuntos de orden federal, en los casos en que expresamente las leyes de la materia les confieran competencia.
+Corresponde a los Tribunales de Justicia del Estado de Campeche, la facultad de aplicar las Leyes en asuntos civiles, penales y contencioso-administrativos del fuero común, así como en asuntos de orden federal, en los casos en que expresamente las leyes de la materia les confieran competencia.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -67,7 +67,7 @@ IV. Los jueces mercantiles;
 
 V. Los jueces penales;
 
-VI. Los jueces electorales;
+VI. (DEROGADA, P.O. 27 DE JUNIO DE 2014)
 
 VII. Los jueces de justicia para adolescentes;
 
@@ -143,17 +143,15 @@ V.- Quinto distrito, cuya cabecera será la ciudad de Palizada, que comprende to
 
 Para la creación de nuevos Distritos Judiciales o la reducción de los señalados en este artículo, el Pleno del Tribunal Superior de Justicia del Estado, conformará una Comisión que realice los estudios pertinentes, los cuales deberán de adjuntarse a la iniciativa que en su caso dicho Tribunal, someta a consideración del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
-
 ###### Artículo 8o.
 
-Los juzgados electorales ejercerán jurisdicción en todo el Estado, conforme a los turnos u orden que disponga la Sala Administrativa erigida en Sala Electoral.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 9o.
 
-Los juzgados de primera instancia podrán ser de los ramos civil, familiar, mercantil, electoral, penal, mixtos y de cuantía menor. Ejercerán jurisdicción en el distrito que les corresponda y residirán en su cabecera, salvo determinación del Pleno del H. Tribunal en sentido diverso. Cuando existan dos o más juzgados del mismo ramo, se les denominará en forma ordinal y se señalará su ramo.
+Los juzgados de primera instancia podrán ser de los ramos civil, familiar, mercantil, penal, de justicia para adolescentes, mixtos y de cuantía menor. Ejercerán jurisdicción en el distrito que les corresponda y residirán en su cabecera, salvo determinación del Pleno del Honorable Tribunal en sentido diverso. Cuando existan dos o más juzgados del mismo ramo, se les denominará en forma ordinal y se señalará su ramo.
 
 ###### Artículo 10.
 
@@ -189,15 +187,15 @@ Los juzgados de conciliación tendrán competencia dentro de la circunscripción
 
 ### CAPITULO PRIMERO. Del Tribunal Superior
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 13.
 
-El Tribunal Superior de Justicia estará integrado por no menos de diez magistrados numerarios y dos supernumerarios, quienes serán designados en la forma y términos que previenen los artículos 78 y 82-1 de la Constitución Política del Estado y funcionará en Pleno y en cuando menos tres Salas Permanentes, especializadas en materias penal, civil y contenciosa-administrativa respectivamente, según lo determine la Ley.
+El Tribunal Superior de Justicia estará integrado por no menos de catorce magistrados numerarios y tres supernumerarios, quienes serán designados en la forma y términos que previene el artículo 78 de la Constitución Política del Estado y funcionará en Pleno y en cuando menos cuatro Salas Permanentes, especializadas en materias penal, civil, contenciosa-administrativa y de justicia para adolescentes, respectivamente, y una Sala Mixta Permanente, según lo determine la Ley.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-Uno de los magistrados numerarios, excepción hecha de los que integren la Sala Administrativa, será el Presidente del Tribunal.
+Uno de los magistrados numerarios será el Presidente del Tribunal.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 1996)</small>
 
@@ -233,9 +231,7 @@ I.- Iniciar ante el Congreso del Estado los proyectos de leyes o promover las re
 
 II.- Expedir los reglamentos interiores del Tribunal Superior de Justicia y de los juzgados;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1997)</small>
-
-III.- Hacer ante el Congreso del Estado las propuestas para elección de magistrados de la Sala Administrativa y jueces electorales;
+III.- (DEROGADA, P.O. 27 DE JUNIO DE 2014)
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -251,17 +247,17 @@ VII.- Conocer y calificar las recusaciones y excusas del presidente del Tribunal
 
 VIII.- Elegir presidente del Tribunal Superior de Justicia entre los magistrados numerarios que lo integran;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-IX.- Con excepción de los magistrados de la Sala Administrativa, asignar a los magistrados que deben integrar cada una de las Salas especializadas en materias penal y civil;
+IX.- Asignar a los magistrados que deben integrar cada una de las Salas;
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 1996)</small>
 
 X.- Conferir a los magistrados supernumerarios, cuando éstos no estén supliendo a uno numerario o integrando Sala auxiliar o desempeñándose como visitadores, las comisiones y representaciones que se estimen pertinentes en beneficio de la administración de justicia;
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-XI.- Distribuir anualmente a los magistrados supernumerarios y, en su caso, a los numerarios integrantes de las Salas Permanentes especializadas en materias penal y civil, para que, con arreglo a lo que sobre el particular dispongan los Reglamentos y Acuerdos que al efecto emita el Pleno practiquen visitas, cada cuatro meses, a los juzgados de primera instancia y menores del Estado. Queda prohibido al visitador ordinario o extraordinario el extraer, de la oficina del juzgado, expediente, libro o documento alguno, salvo que cuente con autorización expresa por escrito del Presidente del Tribunal. Configurará falta oficial en perjuicio del visitador, así como del funcionario o empleado del juzgado que lo permita, la infracción de la indicada prohibición. Las visitas a los juzgados de conciliación se arreglarán conforme a lo que el Tribunal Pleno disponga en los referidos Reglamentos y Acuerdos;
+XI.- Distribuir anualmente a los magistrados supernumerarios y, en su caso, a los numerarios integrantes de las Salas Permanentes, para que, con arreglo a lo que sobre el particular dispongan los Reglamentos y Acuerdos que al efecto emita el Pleno, practiquen visitas, cada cuatro meses, a los juzgados de primera instancia y menores del Estado. Queda prohibido al visitador ordinario o extraordinario el extraer, de la oficina del juzgado, expediente, libro o documento alguno, salvo que cuente con autorización expresa por escrito del Presidente del Tribunal. Configurará falta oficial en perjuicio del visitador, así como del funcionario o empleado del juzgado que lo permita, la infracción de la indicada prohibición. Las visitas a los juzgados de conciliación se arreglarán conforme a lo que el Tribunal Pleno disponga en los referidos Reglamentos y Acuerdos;
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -499,9 +495,7 @@ Cuando un magistrado sea recusado o se excuse o faltare accidentalmente o estuvi
 
 En los casos de excusa o recusación de un presidente de sala lo suplirá el presidente de la sala que al efecto designe el Pleno y en su defecto por el magistrado numerario que el Tribunal Pleno determine.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
-
-Tratándose de la Sala Administrativa su Presidente solo podrá ser suplido por otro de los magistrados numerarios que integren la misma.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 33.
 
@@ -533,9 +527,7 @@ En los mismos términos, si uno de los magistrados estuviese conforme con los pu
 
 Si el proyecto presentado en segunda ocasión no alcanzase mayoría, se turnará al Pleno y el presidente del Tribunal, deberá designar a uno de los magistrados, integrantes de la otra sala, para que formule un nuevo proyecto, resolviéndose el negocio en la próxima sesión ordinaria del Tribunal en Pleno.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
-
-Lo anterior procederá en el caso de la Sala Administrativa cuando se trate de asuntos de índole contencioso-administrativo, no así en los de materia electoral.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
@@ -589,7 +581,7 @@ VI.- Conocer de los demás asuntos que determinen las leyes.
 
 Corresponde a la Sala Administrativa:
 
-I.- Conocer de los asuntos a que se contrae el artículo 82-1 de la Constitución Política del Estado;
+I.- (DEROGADA, P.O. 27 DE JUNIO DE 2014)
 
 II.- Conocer de los juicios que se promuevan en materia de lo contencioso-administrativo;
 
@@ -705,11 +697,11 @@ En cada cabecera distrital, excepto en la del primer distrito, el Pleno podrá a
 
 ### CAPITULO PRIMERO. De los Juzgados de Primera Instancia
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 48.
 
-En el Estado habrá el número de juzgados civiles, familiares, mercantiles, penales, electorales, de justicia para adolescentes, mixtos y de cuantía menor que establezca la ley y que el Pleno del H. Tribunal considere necesario para que la administración de justicia sea expedita, pronta, completa e imparcial.
+En el Estado habrá el número de juzgados civiles, familiares, mercantiles, penales, de justicia para adolescentes, mixtos y de cuantía menor que establezca la ley y que el Pleno del Honorable Tribunal considere necesario para que la administración de justicia sea expedita, pronta, completa e imparcial.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -731,9 +723,11 @@ III. Haber residido en el Estado durante los cinco años anteriores al día de s
 
 IV. No haber ocupado un cargo de elección popular ni haber participado como candidato en el proceso electoral anterior a su designación.
 
-Para ser Juez Electoral deberán reunir, además de los anteriores, los requisitos establecidos en el artículo 506 del Código de Instituciones y Procedimientos Electorales para el estado de Campeche.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
-Para ocupar el cargo de Jueces Penales o de justicia para adolescentes es necesario, además de los requisitos señalados en este artículo, no haberse desempeñado como Procurador o Subprocurador de Justicia, Fiscal, Agente del Ministerio Público o Agente de la Policía Ministerial Investigadora.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+Para ocupar el cargo de jueces penales o de justicia para adolescentes es necesario, además de los requisitos señalados en este artículo, no haberse desempeñado como Procurador o Subprocurador de Justicia, Fiscal, Agente del Ministerio Público o Agente de la Policía Ministerial Investigadora.
 
 ###### Artículo 50.
 
@@ -901,11 +895,9 @@ Artículo. 58.- Los jueces civiles, penales y mixtos de primera instancia asumir
 
 Los procesos en materia de narcomenudeo se desarrollarán siempre ante los jueces penales, independientemente de la cuantía del asunto, y será competente el juzgado más cercano al lugar en que se cometieron los hechos.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
-
 ###### Artículo 58 Bis.
 
-Los jueces electorales conocerán de los asuntos que les atribuye el artículo 82-2 de la Constitución Política del Estado, así como de los que el Tribunal Pleno, mediante el correspondiente acuerdo, les asigne cuando hayan concluido los procesos electorales.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ### CAPITULO SEGUNDO. De la Organización Interna de los Juzgados de Primera Instancia
 
@@ -985,9 +977,7 @@ XIX.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondenci
 
 XX.- Desempeñar todas las demás funciones que esta ley, el reglamento respectivo y el Tribunal en Pleno determinen.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
-
-Artículo. 60 Bis.- Los secretarios de los juzgados electorales tendrán las atribuciones y obligaciones que se señalan en las fracciones II a XIX del artículo anterior, así como las que específicamente les señale el Código Electoral del Estado.
+Artículo. 60 Bis.- (DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -1033,11 +1023,11 @@ III. No haber sido condenado por la comisión de algún delito doloso; y
 
 IV. Aprobar los exámenes que para tal efecto aplique el Centro de Capacitación y Actualización del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 61.
 
-Los actuarios en los juzgados civiles, familiares, mixtos y electorales, tendrán las obligaciones siguientes:
+Los actuarios en los juzgados de primera instancia tendrán las obligaciones siguientes:
 
 I.- Concurrir diariamente al juzgado en que presten sus servicios, en las horas que determine el juez, acorde con los lineamientos señalados por el reglamento interior de los juzgados o, en su caso, por el Tribunal en Pleno;
 
@@ -1929,13 +1919,13 @@ III.- No obedecer las órdenes que, conforme a sus atribuciones, les impongan su
 
 IV.- No despachar oportunamente los oficios o llevar a cabo las diligencias que se les encomienden.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 161.
 
-Las faltas oficiales en que incurran los funcionarios y empleados del Poder Judicial del Estado serán sancionadas, conforme a su gravedad a juicio del órgano encargado de aplicar la sanción, la primera con apercibimiento y nota de demérito en el expediente personal o multa equivalente hasta cinco días de sueldo y anotación en el expediente personal y la segunda y siguientes con suspensión de cinco días hasta tres meses, sin goce de sueldo.
+Las faltas oficiales en que incurran los funcionarios y empleados del Poder Judicial del Estado serán sancionadas conforme a su gravedad, a juicio del órgano encargado de aplicar la sanción, la primera con apercibimiento y nota de demérito en el expediente personal o multa equivalente hasta cinco días de sueldo y anotación en el expediente personal y la segunda y siguientes con suspensión de cinco días hasta tres meses, sin goce de sueldo.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
-
-Durante el curso de los procesos electorales quedan temporalmente exceptuados de las disposiciones de este Capítulo los jueces electorales y los magistrados de la Sala Administrativa.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 > <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1996)</small>
 
@@ -2095,11 +2085,11 @@ Los funcionarios y empleados del Tribunal Superior de Justicia rendirán su prot
 
 El Tribunal en Pleno para destituir de sus cargos a los secretarios de acuerdos del pleno o de las salas, secretarios auxiliares de las salas, secretarios de juzgados, actuarios y demás funcionarios de confianza, conforme a lo dispuesto por la Ley de los Trabajadores al Servicio de los Poderes, Municipio e Instituciones descentralizadas del Estado deberá seguir el procedimiento instituido para sancionar las faltas oficiales y dictará resolución motivada y fundada, expresando las razones y circunstancias en que se apoye para estimar que los funcionarios destituidos han perdido la confianza que se les depositó.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 166.
 
-Cuando lo ameriten las necesidades del servicio, el Tribunal Pleno tiene facultad para cambiar de adscripción a cualesquiera de los secretarios de Tribunal Superior y de los juzgados, así como a los actuarios y demás empleados del Poder Judicial del Estado, excepto a los de la Sala Administrativa y juzgados electorales.
+Cuando lo ameriten las necesidades del servicio, el Tribunal Pleno tiene facultad para cambiar de adscripción a cualesquiera de los secretarios de Tribunal Superior y de los juzgados, así como a los actuarios y demás empleados del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
 
@@ -2278,3 +2268,13 @@ P.O. 15 DE JUNIO DE 2011.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Las disposiciones referentes a los Juzgados de Control y a los Tribunales de Juicio Oral, serán aplicables hasta que se declare establecido el Sistema de Justicia Acusatorio Adversarial. Entretanto los actuales Jueces de Primera Instancia del Ramo Penal continuarán ejerciendo sus atribuciones de conformidad con el sistema penal vigente.
+
+P.O. 27 DE JUNIO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el 1° de julio de 2014, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El nombramiento de la Magistrada Suplente de la Sala Administrativa del Honorable Tribunal Superior de Justicia del Estado, tendrá las mismas atribuciones, facultades, obligaciones y efectos que el de un Magistrado Supernumerario.
+
+TERCERO. El Tribunal Pleno procederá, en el término de treinta días naturales, contados a partir de la vigencia de este decreto, a hacer las adecuaciones correspondientes en los reglamentos y acuerdos administrativos respectivos, así como a emitir aquellos que con motivo de este decreto sean necesarios.
+
+CUARTO. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las de este decreto
