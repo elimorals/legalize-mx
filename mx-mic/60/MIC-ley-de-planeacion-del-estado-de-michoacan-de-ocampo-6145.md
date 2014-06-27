@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-del-estado-de-michoacan-de-ocampo-6145"
 country: "mx"
 rank: "ley"
 publication_date: "1989-04-17"
-last_updated: "2008-02-28"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE PLANEACION DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE PLANEACION DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE PLANEACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 17 de abril de 1989.
 
@@ -231,9 +231,11 @@ En lo conducente, las entidades paraestatales se ajustarán además, a la ley qu
 
 Los programas especiales se referirán a las prioridades del desarrollo integral del Estado, así como a la solución de problemas estratégicos o emergentes y al enlace ordenado de las actividades de dos o más dependencias coordinadoras del sector.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 26.
 
-Para la ejecución del plan y los programas sectoriales, regionales y especiales, las dependencias, entidades y ayuntamientos, elaborarán programas anuales que incluirán los aspectos administrativos y de política económica y social; estos programas deberán ser congruentes entre sí y servirán de base para la composición del presupuesto de egresos.
+Para la ejecución del plan y los programas sectoriales, regionales y especiales, las dependencias, entidades y ayuntamientos, elaborarán programas anuales que incluirán los aspectos administrativos y de política económica, social y de protección, fomento y difusión de los derechos humanos; estos programas deberán ser congruentes entre sí y servirán de base para la composición del presupuesto de egresos.
 
 ###### ARTICULO 27.
 
@@ -267,7 +269,7 @@ El Ejecutivo del Estado podrá autorizar que comparezcan ante el Congreso los ti
 
 El Gobernador al solicitar a la Legislatura del Estado la aprobación de la Ley de Ingresos y Presupuesto de Egresos de cada año, le dará a conocer en las iniciativas correspondientes el contenido y orientación que pretenda dar a los ingresos y egresos, relacionando sus alcances con los objetivos, metas y prioridades de los programas anuales que operarán en el ejercicio fiscal siguiente, mismos que serán entregados al Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 33.
 
@@ -289,11 +291,11 @@ La información a que se refiere el párrafo anterior deberá efectuarse en el m
 
 Los planes de desarrollo y los programas estatales: sectoriales, subregionales y especiales; así como los municipales, se referirán a los mecanismos de coordinación entre las diferentes instancias de gobierno y podrán concertarse conforme a esta Ley con las representaciones de los grupos sociales interesados o con los particulares.
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 28 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 35.
 
-El Plan de Desarrollo Integral del Estado de Michoacán y los planes de desarrollo municipales, se publicarán en el Periódico Oficial del Estado, en ambos casos se procurará su más amplia difusión.
+El plan de desarrollo integral del Estado de Michoacán, se publicará en el Periódico Oficial del Estado y los planes de desarrollo municipales, por bando municipal, en ambos casos se procurará su más amplia difusión tanto en español, como en las lenguas originarias del Estado de Michoacán, en el caso de los planes municipales, en aquellas lenguas de más amplia presencia en el Municipio correspondiente y a través de cualquier medio tecnológico, así como el sistema braille.
 
 Las modificaciones sustanciales al plan y programas de desarrollo, seguirán el mismo procedimiento que se señala en esta Ley, para su aprobación y publicación.
 
@@ -381,9 +383,11 @@ Las acciones del Estado para fomentar, promover, persuadir, encauzar, restringir
 
 La función del Gobierno del Estado en materia de Planeación del Desarrollo tomará en cuenta la participación organizada, conciente y responsable de los individuos y grupos sociales de la entidad.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 50.
 
-Las acciones y opiniones de las representaciones de obreros y campesinos y demás organizaciones del sector social, de los empresarios, profesionales e instituciones de investigación científica, académica y de desarrollo cultural y artístico, se realizarán dentro del sistema de planeación integral del Estado.
+Las acciones y opiniones de las representaciones de obreros, campesinos, mujeres, indígenas, personas con discapacidad, jóvenes, adultos mayores y de los ciudadanos con preferencias sexuales de acuerdo con su orientación sexual o identidad de género y demás organizaciones del sector social, de los empresarios, profesionales e instituciones de investigación científica, académica y de desarrollo cultural y artístico, se realizarán dentro de los foros de consulta que para tal efecto llevan a cabo las autoridades del Estado y municipales ya integrados en la medida de su factibilidad y viabilidad en el Plan Estatal y Municipal de desarrollo, dentro del sistema de planeación integral del Estado.
 
 ###### ARTICULO 51.
 
@@ -449,7 +453,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO.- DR. JAIME GENOVEVO FIGUEROA ZAMUDIO.- EL SECRETARIO DE GOBIERNO.- LIC. JORGE MENDOZA ALVAREZ.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE FEBRERO DE 2007.
 
@@ -460,3 +464,7 @@ P.O. 28 DE FEBRERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE JUNIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
