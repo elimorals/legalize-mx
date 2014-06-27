@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2014-02-28"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -31,7 +31,9 @@ El C. LIC. AGUSTIN ALCOCER, Gobernador Constitucional del Estado Libre y Soberan
 
 Que la XXVI H. Legislatura del mismo, con el carácter de Congreso Constituyente, se ha servido decretar la siguiente
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 64, PUBLICADO EN EL P.O. 17 DE MAYO DE 2013, TODA REFERENCIA QUE EN LAS LEYES, DECRETOS U OTROS ORDENAMIENTOS EXISTA AL MUNICIPIO DE "SILAO", SE ENTENDERÁN HECHAS AL "MUNICIPIO DE SILAO DE LA VICTORIA".</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 64, PUBLICADO EN EL P.O. 17 DE MAYO DE 2013, TODA REFERENCIA QUE EN LAS LEYES, DECRETOS U OTROS ORDENAMIENTOS EXISTA AL MUNICIPIO DE "SILAO", SE ENTENDERÁN HECHAS AL "MUNICIPIO DE SILAO DE LA VICTORIA".</small>
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NUMERO 176, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2014, SE EXTINGUEN EL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y EL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO, Y LOS RECURSOS HUMANOS Y MATERIALES PASARÁN A FORMAR PARTE DEL PATRIMONIO DE LAS AUTORIDADES ELECTORALES ADMINISTRATIVA Y JURISDICCIONAL LOCALES, SIN MENOSCABO DE LOS DERECHOS ADQUIRIDOS DE LOS TRABAJADORES.</small>
 
 CONSTITUCION.
 
@@ -513,53 +515,39 @@ Todo ciudadano guanajuatense tiene derecho a participar en la vida política del
 
 Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libremente, al Partido o Asociación Política de su preferencia, cumpliendo con los requisitos estatutarios de ingreso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 17.
 
-Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Para ello tendrán el derecho exclusivo de postular candidatos por sí mismos o a través de coaliciones en los términos que establezca la Ley de la materia.
+El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que lo hagan de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+Apartado A. Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo, así como establecer las reglas para garantizar la paridad entre los géneros, en las candidaturas a diputados al Congreso del Estado y regidores en el caso de los ayuntamientos. Para ello tendrán el derecho de postular candidatos por sí mismos o a través de coaliciones en los términos que establezca la Ley de la materia. En las candidaturas a diputado y regidor, las fórmulas de propietario y suplente deberán ser del mismo género, tratándose de candidatos bajo el principio de representación proporcional, las listas se integrarán de manera alternada entre los géneros. En el caso de candidatos a diputados locales uninominales cada partido o coalición deberá postular el cincuenta por ciento de las fórmulas de un mismo género salvo cuando el número de registros sea impar, en cuyo caso habrá una fórmula más de un género.
 
-Sólo los ciudadanos guanajuatenses podrán formar partidos políticos estatales y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatal y municipal.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+Sólo los ciudadanos guanajuatenses podrán formar partidos políticos estatales y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos políticos y cualquier forma de afiliación corporativa.
 
 El Estado garantizará que los partidos políticos cuenten, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su intervención en los procesos electorales, sus derechos, prerrogativas, formas y reglas de financiamiento, los topes y bases a sus gastos de precampaña y de campaña, así como el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+El financiamiento público para los partidos políticos que mantengan su registro después de cada elección se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico.
 
-El financiamiento público para los partidos políticos que mantengan su registro o acreditación después de cada elección se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico.
+El partido político estatal que no obtenga, al menos, el tres por ciento de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado su registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+La Ley fijará los criterios para establecer los límites a las erogaciones en los procesos internos de selección de candidatos y en las campañas electorales de los partidos políticos; asimismo, establecerá el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes, ordenará los procedimientos para el control, fiscalización oportuna y vigilancia, durante la campaña, del origen y uso de todos los recursos con que cuenten; y, dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-Para que un Partido Político Estatal conserve su registro, reciba financiamiento y goce de los derechos y las prerrogativas que esta Constitución y la Ley le conceda, deberá obtener el dos por ciento de la votación válida estatal de Diputados al Congreso del Estado bajo el principio de mayoría relativa, lo cual deberá ser declarado por el Consejo General del Instituto Electoral del Estado de Guanajuato en la sesión que siga a la calificación de la elección.
+La Ley establecerá los plazos para la realización de los procesos partidistas de selección de candidatos a cargos de elección popular y las reglas para las precampañas y las campañas electorales. La duración de las campañas será de sesenta a noventa días para la elección de Gobernador y de treinta a sesenta días cuando sólo se elijan Diputados al Congreso o ayuntamientos. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+Apartado B. La Ley regulará el régimen aplicable a la postulación, registro, derechos y obligaciones de los candidatos independientes, garantizando su derecho al financiamiento público.
 
-Para que un Partido Político Nacional tenga derecho a recibir financiamiento público, deberá haber conservado su acreditación y obtenido cuando menos el dos por ciento de la votación válida estatal de Diputados al Congreso del Estado bajo el principio de mayoría relativa, lo cual deberá ser declarado por el Consejo General del Instituto Electoral del Estado de Guanajuato en la sesión que siga a la calificación de la elección.
+Apartado C. Los partidos políticos nacionales y locales, así como los candidatos independientes tendrán derecho de acceso a la radio y la televisión, conforme a las normas establecidas por el artículo 41 de la Base III Apartado B de la Constitución Política de los Estados Unidos Mexicanos y la Ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+En la propaganda política o electoral que difundan los partidos políticos y candidatos deberán abstenerse de expresiones que calumnien a las personas.
 
-Los partidos políticos deberán rendir informes justificados sobre el origen y uso de todos los recursos con que cuenten, para efectos de la fiscalización a que se refiere el artículo 31 de esta Constitución, en los términos de la Ley de la materia. Dichos informes serán públicos.
+Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, de los poderes estatal y municipal, y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que expresamente señale la Ley de la materia.
 
-La Ley fijará los criterios para establecer los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia Ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-La Ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales. La duración de las campañas en el año de elecciones para Gobernador no durarán más de setenta y cinco días, las campañas para elegir Diputados al Congreso no durarán más de cuarenta y cinco días y las campañas para elegir ayuntamientos no durarán más de sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales. La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la Ley.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-Los partidos políticos accederán a la radio y la televisión, conforme a las normas establecidas por el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la Ley de la materia.
+La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -629,23 +617,31 @@ Son prerrogativas del ciudadano guanajuatense:
 
 I.- Tomar las armas en el Ejército o en la Guardia Nacional para la defensa de la República, del Estado y de sus instituciones;
 
-II.- Votar en las elecciones populares;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-III.- Poder ser votado o nombrado, respectivamente, para cargos de elección popular o para empleos o comisiones públicas;
+II.- Votar en las elecciones populares. En el caso de los ciudadanos guanajuatenses que residen en el extranjero podrán votar para la elección de Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+III.- Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la Ley;
 
 IV.- Asociarse para tratar los asuntos políticos del Estado;
 
 V.- Ejercer el Derecho de Petición;
 
-VI.- Ser preferido, en igualdad de condiciones, sobre los no guanajuatenses, para el otorgamiento de empleo, cargo o comisión pública; y,
+VI.- Ser preferido, en igualdad de condiciones, sobre los no guanajuatenses, para el otorgamiento de empleo, cargo o comisión pública; y, (sic)
 
 > <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
 
 VII.- Participar en los procesos de plebiscito y referéndum, así como en el procedimiento de iniciativa popular previstos en esta Constitución y en la Ley correspondiente;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-VIII.- Las demás que señalen las leyes.
+VIII.- Poder ser nombrado, para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la Ley; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+IX.- Las demás que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -679,9 +675,9 @@ Las prerrogativas del ciudadano guanajuatense se suspenden:
 
 I.- Por incumplimiento de las obligaciones a que se refiere el artículo anterior. En este caso la suspensión durará un año y se impondrá independientemente de las demás sanciones a que se haga acreedor;
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-II.- Por estar sujeto a un proceso penal que merezca pena privativa de libertad, a partir de la fecha en que se ordene la prisión preventiva;
+II.- Por estar sujeto a un proceso penal que merezca pena corporal, siempre y cuando se encuentre materialmente privado de su libertad;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -741,99 +737,67 @@ Todo Poder Público dimana del pueblo y se instituye para su beneficio.
 
 El referéndum, el plebiscito y la iniciativa popular son formas de participación ciudadana.
 
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-El Organismo Público Autónomo a que se refiere el Artículo 31 de esta Constitución tendrá a su cargo la declaración de procedencia, organización, desarrollo y validación, en su caso, de las formas de participación ciudadana que señala esta Constitución en los términos de la Ley correspondiente.
+El organismo público electoral local a que se refiere el artículo 31 de esta Constitución tendrá a su cargo la organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana que señala esta Constitución y en los términos de la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-Los actos y resoluciones que emita el Organismo Público Autónomo en materia de participación ciudadana podrán ser impugnados en los términos que disponga la Ley correspondiente.
+Los actos y resoluciones que emita el organismo público electoral local en materia de participación ciudadana podrán ser impugnados en los términos que disponga la Ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA MODIFICACIÓN A LA COMPETENCIA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO A QUE SE REFIERE LA MODIFICACIÓN AL PRESENTE ARTÍCULO, VER SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 163, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2008.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 31.
 
-La Soberanía del Estado reside originalmente en el pueblo y en el nombre de éste la ejercen los Titulares del Poder Público, del modo y en los términos que establecen la Constitución Federal, esta Constitución y las Leyes.
+La soberanía del Estado reside originalmente en el pueblo y en el nombre de éste la ejercen los titulares del Poder Público, del modo y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+La organización de las elecciones locales es una función estatal que se realizará a través del organismo público electoral local y por el Instituto Nacional Electoral, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y la Ley. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda.
 
-La organización de las elecciones es una función estatal que se realiza a través de un Organismo Público Autónomo denominado Instituto Electoral del Estado de Guanajuato, con la concurrencia de los poderes del Estado, de los partidos políticos y de los ciudadanos según lo disponga la Ley. Dicho Instituto será funcionalmente independiente, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
+La certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores en el ejercicio de esta función estatal.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+El organismo público electoral local será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones, conforme lo determinen las leyes; se estructurará con órganos de dirección, ejecutivos y técnicos.
 
-La certeza, legalidad, independencia, imparcialidad, definitividad, equidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+El órgano superior de dirección del organismo público electoral local, se integrará por un Consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho de voz; cada partido político contará con un representante en dicho órgano. Las mesas directivas de casilla estarán integradas por ciudadanos.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+El Consejero Presidente y los consejeros electorales del organismo público electoral local serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Ley. Los consejeros electorales deberán ser ciudadanos guanajuatenses por nacimiento o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la Ley. En caso de que ocurra una vacante de consejero electoral, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de la Ley. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero electoral para un nuevo periodo.
 
-El Instituto Electoral del Estado de Guanajuato será autoridad en la materia. Profesional en su desempeño y autónomo en sus decisiones; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+Los consejeros electorales locales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+Los consejeros electorales locales y demás servidores públicos que establezca la Ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-La Ley establecerá los requisitos mínimos que deberán reunir los funcionarios de los órganos ejecutivos y técnicos del organismo público autónomo, para garantizar la eficacia del principio de imparcialidad, que conforme al párrafo tercero de este artículo es propio de la función electoral.
+En los casos previstos y conforme al procedimiento que determine la Ley de la materia, el organismo público electoral local podrá convenir con el Instituto Nacional Electoral se haga cargo de la organización de los procesos electorales locales.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+El organismo público electoral local, en los términos que determine la Ley, realizará las actividades propias e inherentes al ejercicio de la función estatal electoral, otorgará las constancias de mayoría y declarará la validez de las elecciones de Gobernador, de Ayuntamiento en cada uno de los municipios de la Entidad, así como de los diputados al Congreso del Estado, hará la asignación de regidores y de diputados de representación proporcional en los términos de los artículos 44 y 109 de esta Constitución, y ejercerá funciones de organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que establezca esta Constitución.
 
-El Organo de Dirección, como jerárquicamente superior, se integrará por Consejeros Ciudadanos, por Representantes de los Poderes Legislativo y Ejecutivo y de los Partidos Políticos. Los órganos Ejecutivos y Técnicos dispondrán del personal calificado, el estrictamente necesario, para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los Partidos Políticos. Las Mesas Directivas de casilla estarán integradas por ciudadanos.
+El organismo público electoral local contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la Ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+Para dar definitividad y garantizar la legalidad de las distintas etapas de los procesos electorales, la Ley establecerá un sistema de medios de impugnación. También establecerá los casos y los procedimientos conforme a los cuales, en los ámbitos administrativo y jurisdiccional, se realizarán el recuento total o parcial de votación, de la elección de Gobernador, de diputados al Congreso del Estado o de los Ayuntamientos.
 
-En los casos previstos y conforme al procedimiento que determine la Ley de la materia, el Instituto Electoral del Estado de Guanajuato podrá convenir con el Instituto Federal Electoral que asuma la organización de los procesos electorales en el Estado. Asimismo, podrá celebrar convenios con la autoridad electoral federal en materia del Registro Federal de Electores.
+La autoridad jurisdiccional electoral local se integrará por tres magistrados, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la Ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnados. La legislación penal y la electoral, respectivamente, tipificarán los delitos y determinarán las faltas en materia electoral, así como las sanciones que les correspondan.
 
-Los Consejeros Ciudadanos del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Legislatura. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
+La Ley establecerá el sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
 
-El Instituto Electoral del Estado de Guanajuato, en los términos que determine la Ley, realizará las actividades propias e inherentes al ejercicio de la función estatal electoral, otorgará las constancias de mayoría y declarará la validez de las elecciones de Gobernador, de Ayuntamiento en cada uno de los Municipios de la Entidad, así como de los Diputados al Congreso del Estado, hará la asignación de regidores y de Diputados de representación proporcional en los términos de los artículos 44 y 109 de esta Constitución, así mismo fiscalizará el origen y uso de todos los recursos con que cuenten los partidos políticos, coordinándose cuando así proceda, con el órgano técnico del Instituto Federal Electoral, en los términos de la legislación de la materia. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la Ley.
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la Ley; y
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
-Para dar definitividad y garantizar la legalidad de las distintas etapas de los Procesos Electorales, la Ley establecerá un sistema de medios de impugnación, de los que conocerán, según la competencia, el Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato. También establecerá los casos y los procedimientos conforme a los cuales el Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato, en las etapas del proceso electoral que corresponda, realizarán el recuento total o parcial de votación, de la elección de Gobernador, de Diputados al Congreso o de los Ayuntamientos.
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-El Tribunal Electoral del Estado de Guanajuato es el órgano autónomo y máxima autoridad jurisdiccional electoral, se integrará con cinco magistrados, que conformarán Salas Unitarias que podrán ser regionales, mismos que serán designados por las dos terceras partes de los miembros presentes del Congreso, dos a propuesta del Ejecutivo y tres a propuesta del Pleno del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley. Los Poderes Ejecutivo, Legislativo y Judicial garantizarán su debida integración.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-La designación de Magistrados propuestos por el Pleno del Supremo Tribuna (sic) de Justicia, deberá recaer entre sus miembros quienes actuarán durante el proceso electoral, y en los supuestos que disponga la Ley.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-El Tribunal Electoral del Estado de Guanajuato tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral, en materia de participación ciudadana y las diferencias laborales que se presenten entre las autoridades electorales y sus servidores.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-Para el ejercicio de su competencia, el Tribunal Electoral del Estado de Guanajuato contará con Magistrados y Jueces Instructores.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-Los Magistrados del Tribunal Electoral del Estado de Guanajuato, deberán satisfacer los mismos requisitos que esta Constitución señala para ser Magistrado del Supremo Tribunal de Justicia del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-El Pleno del Tribunal Electoral del Estado de Guanajuato, será competente para resolver en segunda instancia los recursos que se interpongan contra la declaratoria de validez de las elecciones de Gobernador, de Diputados o de Ayuntamiento y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las Autoridades Electorales competentes.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-En materia electoral los recursos o medios de impugnación no producirán, en ningún caso, efectos suspensivos del acto o resolución impugnados. La legislación penal y la electoral, respectivamente, tipificarán los delitos y determinarán las faltas en materia electoral, así como las sanciones que les correspondan.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
-
-La Ley garantizará que los consejeros ciudadanos que integrarán el organismo autónomo, a que se refiere este artículo, y los Magistrados del Tribunal Electoral del Estado de Guanajuato, no tengan antecedentes de militancia partidaria.
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO SEGUNDO. DE LA FORMA DE GOBIERNO
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 32.
 
-El Gobierno del Estado es Republicano, Representativo y Democrático, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio libre.
+El Gobierno del Estado es republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio libre.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -935,21 +899,23 @@ El Congreso del Estado de Guanajuato se compondrá de representantes populares e
 
 El Congreso del Estado estará integrado por veintidós Diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y catorce Diputados electos según el principio de representación proporcional, mediante el sistema de listas a que se refiere la fracción I del Artículo 44 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 43.
 
-El Congreso del Estado, a propuesta del organismo autónomo a que se refiere el artículo 31 de esta Constitución, aprobará la demarcación de los Distritos Electorales Uninominales, la cual se ajustará a los criterios de carácter técnico que la Ley disponga, relativos a continuidad geográfica y número de electores que comprenderán, a fin de garantizar el equilibrio en la representación popular. La resolución que contenga la propuesta de demarcación distrital, podrá recurrirse por los partidos políticos en los términos que señale la Ley, antes de ser turnada al Congreso del Estado.
+Para los procesos electorales locales, el Instituto Nacional Electoral determinará los distritos electorales y la división del territorio en secciones electorales, en los términos de la Base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y la Ley.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 44.
 
-La elección de los Diputados según el principio de representación proporcional mediante el sistema de listas, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+La elección de los catorce diputados según el principio de representación proporcional mediante el sistema de listas, se regulará a lo que en lo particular disponga la Ley y se sujetará a las bases generales siguientes:
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
 I.- Para obtener el registro de sus listas de candidatos el partido político que lo solicite deberá acreditar que participa con candidatos a diputados por mayoría relativa, en por lo menos quince de los distritos uninominales y que cuenta con registro como partido político nacional o estatal.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 La lista de candidatos de cada partido político se integrará con:
 
@@ -957,21 +923,29 @@ a).- Las propuestas que los partidos políticos presenten; y
 
 b).- Los candidatos de las fórmulas por el principio de mayoría relativa que no hayan obtenido constancia de mayoría pero sean los que hayan obtenido el mayor porcentaje de votación del partido político que los postuló.
 
-La asignación de los Diputados que correspondan a cada partido político la hará el Organismo Público Autónomo de manera alternada cada tres asignaciones de entre las opciones que integran la lista anterior, iniciando por las propuestas contenidas en el inciso a); en la forma y términos que señale la Ley de la materia;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+La asignación de los diputados que correspondan a cada partido político la hará el organismo público electoral local de manera alternada cada tres asignaciones de entre las opciones que integran la lista anterior, iniciando por las propuestas contenidas en el inciso a); en la forma y términos que señale la Ley de la materia;
 
-II.- Se distribuirán en total dos Diputaciones de representación proporcional; una para cada partido político que habiendo cumplido con lo dispuesto en la fracción anterior, no hubiere alcanzado mayoría en ninguno de los Distritos Uninominales y hubiese obtenido una votación superior al dos por ciento y menor al tres por ciento de los sufragios válidamente emitidos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-III.- En el caso de que fueren más de dos los Partidos Políticos que se encuentren en el supuesto de la fracción anterior, las asignaciones se harán exclusivamente en favor de los dos partidos políticos que, en tal caso, hubieren obtenido mayor número de votos;
+II.- Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, se le asignará una diputación por el principio de representación proporcional; independientemente de los triunfos de mayoría que hubiese obtenido;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-IV.- Doce Diputaciones por el principio de representación proporcional, serán asignadas a los partidos políticos cuyo porcentaje de la votación obtenida hubiere sido cuando menos el tres por ciento de la votación total válidamente emitida;
+III.- Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional conforme a la fórmula que se establezca en la Ley para estos efectos, considerando la participación de todos los partidos políticos que se encuentren en el supuesto de las fracciones anteriores de acuerdo con su votación válida emitida;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-V.- Los Partidos Políticos que se encuentren en el supuesto de la fracción anterior tendrán derecho a que les sean asignadas Diputaciones según el Principio de Representación Proporcional, de modo que la suma de sus diputados, por ambos principios, representen el porcentaje más aproximado posible al que de la votación total válidamente emitida, hubiesen obtenido en la elección. En ningún caso un partido político podrá contar con más de veinticinco diputados por ambos principios; y
+IV.- En la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor ni superior en ocho puntos porcentuales respecto al porcentaje de votación que hubiere recibido. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de diputaciones del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
+
+Ningún partido político en virtud de la asignación de diputados de representación proporcional a que se refiere la fracción anterior podrá contar con un número de diputados por uno o ambos principios que exceda el número de distritos uninominales en los que se divida el estado; y (sic)
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+V.- En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos atendiendo a su porcentaje de votación.
+
+Esta fórmula se aplicará una vez que se haya cumplido con lo establecido en la fracción II de este artículo. Asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -1009,15 +983,25 @@ I.- El Gobernador del Estado, cualquiera que sea su denominación, origen y form
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos de las leyes respectivas; y,
+II.- Los que sean Ministros de cualquier culto religioso en los términos de las leyes respectivas; y, (sic)
 
-III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+III.- El Consejero Presidente o Consejero Electoral en los consejos general, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección.
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NUMERO 176, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2014, LA REFORMA AL PRESENTE ARTÍCULO, NO SERÁ APLICABLE A LOS DIPUTADOS LOCALES, PRESIDENTES MUNICIPALES, REGIDORES Y SÍNDICOS QUE HAYAN PROTESTADO EL CARGO EN LA LEGISLATURA O AYUNTAMIENTO QUE SE ENCUENTRE EN FUNCIONES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 47.
 
-Los Diputados no podrán ser reelectos para el período inmediato. Los Suplentes sólo podrán ser electos para el período inmediato con el carácter de Propietarios, siempre que no hubieren estado en ejercicio. Los Diputados Propietarios no podrán ser electos como Suplentes para el período inmediato.
+Los Diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos políticos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+Ninguno de los Diputados mencionados en el párrafo anterior, cuando hayan tenido el carácter de propietarios durante cuatro periodos consecutivos, podrán ser electos para el periodo inmediato como suplentes, pero éstos sí podrán ser electos para el periodo inmediato como propietarios si en su última elección tuvieron el cargo de suplentes.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -1067,7 +1051,9 @@ Los presentes reunidos el día señalado por la Ley para la instalación del Con
 
 En el caso de las vacantes, en cualquier tiempo, de los miembros del Congreso electos por el Principio de Representación Proporcional, si no concurren los suplentes, dentro de los quince días siguientes, se declarará vacante el puesto y se llamará al candidato de la fórmula que figure como siguiente en el orden de prelación de la lista del mismo partido.
 
-Incurrirán en responsabilidades y se harán acreedores a las sanciones que la Ley señala, quienes habiendo sido electos Diputados no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo, dentro del plazo señalado en el segundo párrafo de este artículo. Se sancionará con la pérdida de su registro a los Partidos Políticos que, habiendo postulado candidatos en una elección, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+Incurrirán en responsabilidades y se harán acreedores a las sanciones que la Ley señala, quienes habiendo sido electos Diputados no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo, dentro del plazo señalado en el segundo párrafo de este artículo.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1197,9 +1183,7 @@ V.- (DEROGADA, P.O. 20 DE MARZO DE 2001)
 
 VI.- Autorizar el cambio de residencia de las Cabeceras Municipales, erigir nuevos municipios y formular la declaratoria de su inexistencia, siempre que fuere aprobado por el voto de las dos terceras partes de los Diputados y de la mayoría de los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
-
-VII.- Aprobar con el voto de cuando menos el setenta por ciento de sus miembros, a propuesta del organismo a que se refiere el artículo 31 de esta Constitución, la división del Estado en Distritos Electorales, atendiendo a criterios de carácter objetivo y técnico, para garantizar el equilibrio en la representación popular. De no aprobarse la propuesta; regresará al organismo autónomo para que formule una nueva;
+VII.- (DEROGADA, P.O. 27 DE JUNIO DE 2014)
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -1207,21 +1191,21 @@ VIII.- Nombrar entre los vecinos, cuando se declare la nulidad de elección de a
 
 Convocar a elecciones extraordinarias para Diputados, cuando se declare la nulidad de la elección en uno o varios distritos, o en el caso previsto por el segundo párrafo del artículo 53 de esta Constitución. La convocatoria para elecciones extraordinarias de Diputados, deberá expedirse en un plazo igual al señalado en el párrafo anterior;
 
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-Si de los cómputos de una elección de Ayuntamientos o de Diputados por al (sic) principio de mayoría relativa, resultara en el primer lugar un número igual de votos para dos o más planillas o fórmulas de candidatos, respectivamente, el órgano electoral competente hará la declaratoria del empate correspondiente, misma que hará del conocimiento del Congreso del Estado, una vez que haya quedado firme. El Congreso del Estado convocará a quienes hayan obtenido el empate para que se lleve a cabo una nueva elección, en un plazo no mayor de dos meses. En el caso de que el empate se presente en una elección de Ayuntamiento, se nombrará un concejo municipal en los términos del primer párrafo de esta fracción;
+Si de los cómputos de una elección de Ayuntamientos o de Diputados por el principio de mayoría relativa, resultara en el primer lugar un número igual de votos para dos o más planillas o fórmulas de candidatos, respectivamente, el organismo público electoral local competente hará la declaratoria del empate correspondiente, misma que hará del conocimiento del Congreso del Estado, una vez que haya quedado firme. El Congreso del Estado convocará a quienes hayan obtenido el empate para que se lleve a cabo una nueva elección, en un plazo no mayor de dos meses. En el caso de que el empate se presente en una elección de Ayuntamiento, se nombrará un Concejo Municipal en los términos del primer párrafo de esta fracción;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-IX.- Declarar Gobernador electo, mediante formal decreto, a quien en los términos de la declaratoria del Organismo Autónomo Estatal o, en su caso, de la resolución del Tribunal Estatal Electoral haya obtenido mayoría de votos en la elección correspondiente;
+IX.- Declarar Gobernador electo, mediante formal decreto, a quien en los términos de la declaratoria del organismo público electoral local o, en su caso, de la resolución de la autoridad electoral jurisdiccional local haya obtenido mayoría de votos en la elección correspondiente;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 X.- Convocar a elecciones de Gobernador, en caso de nulidad de los comicios, si el electo no se presenta a tomar posesión del cargo, o en caso de falta absoluta ocurrida dentro de los tres primeros años del período constitucional, dicha convocatoria deberá expedirse en un plazo no mayor de seis meses;
 
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-En los mismos términos se procederá cuando el organismo electoral competente comunique, una vez que quede firme, la declaratoria del empate en primer lugar de la votación en una elección de Gobernador. En este caso la elección se efectuará entre quienes hayan obtenido el empate en un plazo no mayor de dos meses;
+En los mismos términos se procederá cuando el organismo público electoral local competente comunique, una vez que quede firme, la declaratoria del empate en primer lugar de la votación en una elección de Gobernador. En este caso la elección se efectuará entre quienes hayan obtenido el empate en un plazo no mayor de dos meses.
 
 XI.- Reformar, mediante el voto de las dos terceras partes de los Diputados y con aprobación de la mayoría de los Ayuntamientos, la división política del Estado;
 
@@ -1285,9 +1269,7 @@ Designar a los Magistrados Supernumerarios a propuesta del Pleno del Supremo Tri
 
 Designar a los Consejeros del Poder Judicial en los términos que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
-
-Designar de entre sus miembros, a sus representantes ante el Organismo Autónomo a que se refiere el artículo 31 de esta Constitución, a los Consejeros Ciudadanos en términos de su competencia y a los integrantes del Tribunal Estatal Electoral, de conformidad con la Ley.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1511,15 +1493,25 @@ III.- Tener por lo menos treinta años cumplidos al día de la elección.
 
 No son elegibles al cargo de Gobernador del Estado:
 
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Corte de Justicia de la Nación, el Fiscal General de la República, el Jefe de Gobierno del Distrito Federal, los Magistrados del Supremo Tribunal de Justicia del Estado, los Titulares o Encargados de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, los Militares en servicio activo y los ciudadanos con mando de fuerza en el estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;
+
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Corte de Justicia de la Nación, el Procurador General de Justicia de la República, el Jefe del Distrito Federal, los Magistrados del Supremo Tribunal de Justicia del Estado, los Titulares o Encargados de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, los Militares en servicio activo y los ciudadanos con mando de fuerza regular o irregular en el Estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;
+II.- Los que sean Ministros de cualquier culto religioso en los términos que señalen las leyes respectivas; y (sic)
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos que señalen las leyes respectivas; y
+III.- El Consejero Presidente o Consejero Electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+V.- No estar comprendido en alguno de los supuestos establecidos en el artículo 70 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1547,9 +1539,21 @@ En el acto de Toma de Posesión de su cargo el Gobernador deberá rendir protest
 
 El Congreso elegirá por mayoría de votos y en escrutinio secreto, un Gobernador Interino, debiendo el electo llenar los requisitos y no estar comprendido en algunas de las prohibiciones que, para desempeñar el cargo, establece esta Constitución, en los siguientes casos:
 
-I.- Cuando el Gobernador electo no se presentare a tomar posesión de su cargo; o,
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-II.- En caso de falta absoluta ocurrida en los tres primeros años de ejercicio Constitucional.
+I.- En caso de nulidad de los comicios;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+II.- Por declaratoria de empate en primer lugar de la votación en una elección de Gobernador;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2014)</small>
+
+III.- Cuando el Gobernador electo no se presentare a tomar posesión de su cargo; o,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2014)</small>
+
+IV.- En caso de falta absoluta ocurrida en los tres primeros años de ejercicio constitucional.
 
 El Gobernador Interino durará en funciones hasta que tome posesión el que resulte electo en los comicios a que debe convocar el Congreso, de conformidad con lo dispuesto en la Fracción X del Artículo 63 de este Ordenamiento. De no estar en Período de Sesiones el Congreso, la Diputación Permanente lo convocará de inmediato y desde luego designará un Gobernador Provisional.
 
@@ -2315,7 +2319,15 @@ En todos los Municipios, los Ayuntamientos serán electos por votación popular 
 
 I.- El Presidente Municipal y los Síndicos de los Ayuntamientos serán electos conforme al Principio de Mayoría Relativa; y,
 
-II.- Los Regidores serán electos por el Principio de Representación Proporcional, de acuerdo con lo que señale la Ley respectiva.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+II.- Los regidores serán electos por el principio de representación proporcional, y el procedimiento para su asignación es el siguiente:
+
+a) Sólo a los partidos políticos y planilla de candidatos independientes que, en la elección municipal correspondiente, hubieren obtenido el tres por ciento o más del total de la votación válida emitida en la municipalidad, se les asignarán regidores de representación proporcional;
+
+b) Se dividirán los votos válidos obtenidos por todos los partidos políticos y planilla de candidatos independientes contendientes en el municipio, entre las regidurías que integren el ayuntamiento, a fin de obtener el cociente electoral; verificada esta operación, se asignarán a cada partido político o planilla de candidatos independientes en forma decreciente de acuerdo a su lista, tantas regidurías como número de veces contenga su votación el cociente obtenido; y
+
+c) Si después de la aplicación del cociente mencionado en el inciso anterior, quedan regidurías por asignar, estas se distribuirán por el sistema de resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados por cada uno de los partidos políticos y planilla de candidatos independientes.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2353,9 +2365,15 @@ I.- Los militares en servicio activo o el Secretario y Tesorero del Ayuntamiento
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos que establezcan las leyes respectivas; y
+II.- Los que sean Ministros de cualquier culto religioso en los términos que establezcan las leyes respectivas; y (sic)
 
-III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+III.- El Consejero presidente o consejero electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2367,17 +2385,19 @@ Si alguno de los integrantes propietarios del Concejo Municipal dejare de desemp
 
 Para ser miembro de un Concejo Municipal deberán satisfacerse los requisitos que señalan los artículos anteriores.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NUMERO 176, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2014, LA REFORMA AL PRESENTE ARTÍCULO, NO SERÁ APLICABLE A LOS DIPUTADOS LOCALES, PRESIDENTES MUNICIPALES, REGIDORES Y SÍNDICOS QUE HAYAN PROTESTADO EL CARGO EN LA LEGISLATURA O AYUNTAMIENTO QUE SE ENCUENTRE EN FUNCIONES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 113.
 
-Los Presidentes Municipales, Regidores o Síndicos electos popularmente, durarán en su encargo tres años y no podrán ser reelectos para el mismo cargo en el período inmediato. Los Miembros de los Concejos Municipales no podrán ser electos para el período inmediato.
+Los presidentes municipales, regidores y síndicos electos popularmente, durarán en su encargo tres años y podrán ser electos consecutivamente, para el mismo cargo por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido político o por cualquiera de los partidos políticos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Los miembros de los Concejos Municipales no podrán ser electos para el período inmediato.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 114.
 
-Ninguno de los Funcionarios Municipales mencionados en el artículo anterior, cuando hayan tenido el carácter de Propietarios, podrán ser electos para el período inmediato como Suplentes, pero éstos sí podrán ser electos para el período inmediato como Propietarios, a menos que hayan estado en ejercicio.
+Ninguno de los funcionarios municipales mencionados en el artículo anterior, cuando hayan tenido el carácter de Propietarios durante los dos periodos consecutivos, podrán ser electos para el periodo inmediato como suplentes, pero éstos sí podrán ser electos para el periodo inmediato como propietarios, pudiendo ser electos para el mismo cargo hasta por un periodo adicional.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2621,7 +2641,9 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 Para los efectos de las responsabilidades a que alude este Título, se reputarán como Servidores Públicos a los representantes de elección popular, a los Miembros del Poder Judicial, a los Funcionarios y Empleados del Estado y de los Municipios, y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal, así como en los organismos a los que esta Constitución y la Ley otorguen autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-Los Servidores Públicos, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+Los servidores públicos, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos y los candidatos.
 
 La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente público estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
@@ -2653,11 +2675,11 @@ Las sanciones correspondientes se aplicarán en un período no mayor de un año,
 
 Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales, Magistrados del Supremo Tribunal de Justicia y miembros del Consejo del Poder Judicial, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, recibida por el Congreso del Estado, la declaración de procedencia, éste resolverá, en ejercicio de sus atribuciones lo que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 126.
 
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo del Poder Judicial, los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos, los Consejeros Ciudadanos integrantes del Organo Estatal de Dirección del Organismo Autónomo Electoral, a que se refiere el artículo 31 de esta Constitución, los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Estatal Electoral, durante el tiempo de su encargo, sólo podrán ser juzgados por delitos intencionales del orden común que merezcan penas privativas de libertad, pero para ello es necesario que, previamente el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
+Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo del Poder Judicial, los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos y los Magistrados del Tribunal de lo Contencioso Administrativo, durante el tiempo de su encargo, sólo podrán ser juzgados por delitos intencionales del orden común que merezcan penas privativas de libertad, pero para ello es necesario que, previamente el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -3644,3 +3666,25 @@ P.O. 28 DE FEBRERO DE 2014.
 DECRETO NÚMERO 159 POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE JUNIO DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. A partir de 2015, se celebrarán las elecciones a Diputados y Ayuntamientos, el primer domingo de junio del año que corresponda, salvo la elección de Gobernador, la cual se realizará el primer domingo de julio de 2018.
+
+Artículo Tercero. Al extinguirse el Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato, los recursos humanos y materiales pasarán a formar parte del patrimonio de las autoridades electorales administrativa y jurisdiccional locales, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+El Poder Ejecutivo, por conducto de la Secretaría de Finanzas, Inversión y Administración, contará con un término de cuarenta y cinco días para realizar los ajustes presupuestales respecto de las autoridades electorales administrativas y jurisdiccional locales, en cumplimiento de lo establecido en el presente Decreto, garantizando la continuidad de la operación y de las actividades de las mismas.
+
+Asimismo en los términos de las leyes de la materia harán entrega de sus patrimonios documentales.
+
+La situación presupuestal y laboral de las actuales autoridades electorales administrativa y jurisdiccional locales, serán reguladas en la ley secundaria respectiva.
+
+Artículo Cuarto. Los actuales Consejeros Ciudadanos del Instituto Electoral del Estado de Guanajuato y Magistrados del Tribunal Electoral del Estado de Guanajuato continuarán en su encargo hasta en tanto el Instituto Nacional Electoral realice las designaciones de los Consejeros Electorales del organismo público electoral local y el Senado de la República lleve a cabo los procedimientos para el nombramiento de los magistrados electorales.
+
+Los magistrados a que se refiere el párrafo anterior serán elegibles para un nuevo nombramiento.
+
+Artículo Quinto. Las reformas a los artículos 47 y 113 de esta Constitución, no serán aplicables a los Diputados Locales, Presidentes Municipales, Regidores y Síndicos que hayan protestado el cargo en la Legislatura o Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+Artículo Sexto. La referencia que esta Constitución hace al Fiscal General de la República, se entenderá realizada al Procurador General de la República, hasta en tanto entre en vigor la autonomía constitucional de la Fiscalía General de la República.
