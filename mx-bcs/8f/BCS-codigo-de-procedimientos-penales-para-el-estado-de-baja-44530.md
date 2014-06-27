@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2014-02-07"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA SUCESIVA Y TERRITORIALMENTE POR PARTIDO JUDICIAL DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL EXTRAORDINARIO DEL B.O. DE 7 DE MAYO DE 2013, INICIANDO EN EL PARTIDO JUDICIAL DE COMONDÚ EL 1 DE JULIO DE DOS MIL CATORCE.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO 2176 POR EL QUE SE EMITEN LAS DECLARATORIAS DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PUBLICADAS EN EL B.O. DE 27 DE JUNIO DE 2014, EN EL MOMENTO QUE INICIE SU VIGENCIA EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS TÉRMINOS Y MODALIDADES ADOPTADOS EN LAS PRESENTES DECLARATORIAS EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ENERO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 7 DE FEBRERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -3778,3 +3776,39 @@ B.O. 27 DE ENERO DE 2014.
 ###### ARTÍCULO UNICO
 
 El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 27 DE JUNIO DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO 2176 QUE EMITE LAS DECLARATORIAS DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.</small>
+
+PRIMERO. DECLARATORIA DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.- Se declara la adopción e inicio de vigencia del Código Nacional de Procedimientos Penales en el Estado Libre y Soberano de Baja California Sur, en los ámbitos de validez territorial y temporal, conforme a lo siguiente:
+
+a) En el Partido Judicial de Comondú, Baja California Sur, entrará en vigor a las cero horas del primero de julio de dos mil quince.
+
+b) En el Partido Judicial de La Paz, Baja California Sur, entrará en vigor a las cero horas del primero de enero de dos mil dieciséis.
+
+c) En los Partidos Judiciales de Loreto, Mulegé y Los Cabos, Baja California Sur, entrará en vigor a las cero horas del primero de junio de dos mil dieciséis.
+
+SEGUNDO. DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.- Se declara la incorporación al orden jurídico del Estado Libre y Soberano de Baja California Sur del Sistema Constitucional de Justicia Penal Acusatorio y Oral a que refiere el Decreto publicado en el Diario Oficial de la Federación el 18 de junio de 2008, por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21 y 22; las fracciones XXI y XXIII del artículo 73; la fracción VII del artículo 115 y la fracción XIII del apartado B del artículo 123, todos de la Constitución Política de los Estados Unidos Mexicanos; adoptándolo en los ámbitos de validez territorial y temporal, conforme a la gradualidad siguiente:
+
+a) En el Partido Judicial de Comondú, Baja California Sur, entrará en vigor a las cero horas del primero de julio de dos mil quince.
+
+b) En el Partido Judicial de La Paz, Baja California Sur, entrará en vigor a las cero horas del primero de enero de dos mil dieciséis.
+
+c) En los Partidos Judiciales de Loreto, Mulegé y Los Cabos, Baja California Sur, entrará en vigor a las cero horas del primero de junio de dos mil dieciséis.
+
+TERCERO. PUBLICIDAD DE GARANTÍAS CONSTITUCIONALES.- Las garantías consagradas por la reforma Constitucional publicada en el Diario Oficial de la Federación el 18 de junio de 2008, mediante el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21 y 22; las fracciones XXI y XXIII del artículo 73; la fracción VII del artículo 115 y la fracción XIII del apartado B del artículo 123, todos de la Constitución Política de los Estados Unidos Mexicanos, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales que a partir de la entrada en vigor del Código Nacional de Procedimientos Penales ocurran en el ámbito territorial y temporal establecidos en cada uno de los Partidos Judiciales.
+
+TRANSITORIOS:
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se Abroga el Código Procesal Penal para el Estado de Baja California Sur, publicado mediante Decreto 2081 en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 20, en fecha 07 de Mayo de 2013.
+
+Tercero.- En el momento que inicie su vigencia el Código Nacional de Procedimientos Penales en los términos y modalidades adoptados en las presentes declaratorias, queda abrogado el Código de Procedimientos Penales para el Estado de Baja California Sur en vigor. Sin embargo, respecto de los hechos que se inicien con fecha anterior a la incorporación del sistema de justicia penal acusatorio y oral, o de los procedimientos penales que a la entrada en vigor de la normatividad nacional de mérito se encuentren en trámite, iniciarán, continuarán y serán concluidos respectivamente en su sustanciación de conformidad con la legislación aplicable al momento de la comisión del hecho delictivo o del inicio de la sustanciación de los mismos, declarándose éstos plenamente válidos en las actuaciones procesales que se hubieren practicado.
+
+Cuarto.- Las leyes reglamentarias así como las diversas leyes del Estado de Baja California Sur, relativas a la organización y funcionamiento de las Instituciones involucradas en la seguridad pública, procuración y administración de justicia y todas aquellas en las que se establecen los diversos dispositivos que inciden en la aplicación del sistema de justicia penal acusatorio y oral, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, en las fechas de incorporación al sistema procesal penal acusatorio señaladas en el presente decreto y a partir de que el Código Nacional de Procedimientos Penales entre en vigor en los términos y modalidades enunciadas en las presentes declaratorias.
+
+Quinto.- se derogan las disposiciones que contravengan este Decreto.
+
+Sexto.- Remítase una copia de este instrumento Legislativo para su conocimiento a las Legislaturas de las Entidades Federativas, así como al H. Congreso de la Unión.
