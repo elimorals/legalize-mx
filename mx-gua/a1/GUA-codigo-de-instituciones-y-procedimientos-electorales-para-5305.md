@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-instituciones-y-procedimientos-electorales-para-5305"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-11-22"
-last_updated: "2011-10-07"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
+CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 27 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014 (ABROGADO).
 
 Código publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de noviembre de 1994.
 
@@ -4409,7 +4411,7 @@ EL ESCRITO DE INTERPOSICION DEBERA PRESENTARSE DENTRO DE LOS CINCO DIAS SIGUIENT
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-RECIBIDA LA DEMANDA EN LA OFICIALIA DE PARTES SE REMITIRA A LA SECRETARIA GENERAL DE ACUERDOS, LA QUE DARA CUENTA AL PRESIDENTE,·PARA QUE POR TURNO LA ASIGNE AL MAGISTRADO ENCARGADO DE ELABORAR EL PROYECTO QUE CORRESPONDA.
+RECIBIDA LA DEMANDA EN LA OFICIALIA DE PARTES SE REMITIRA A LA SECRETARIA GENERAL DE ACUERDOS, LA QUE DARA CUENTA AL PRESIDENTE, PARA QUE POR TURNO LA ASIGNE AL MAGISTRADO ENCARGADO DE ELABORAR EL PROYECTO QUE CORRESPONDA.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
@@ -4583,7 +4585,7 @@ I.- CUANDO SE IMPUGNE SIMULTANEAMENTE POR DOS O MAS ACTORES EN CUALQUIER MEDIO D
 
 II.- EN EL SUPUESTO EN QUE EL ACCIONANTE INTERPONGA DOS O MAS MEDIOS DE IMPUGNACION CONTRA ACTOS QUE EMANEN DE UNA MISMA RESOLUCIÓN; Y
 
-IlI.- CUANDO DOS O MAS MEDIOS DE IMPUGNACION TENGAN CONEXIDAD Y LA RESOLUCION DE UNO PUDIESE TRASCENDER EN LA DEL OTRO.
+III.- CUANDO DOS O MAS MEDIOS DE IMPUGNACION TENGAN CONEXIDAD Y LA RESOLUCION DE UNO PUDIESE TRASCENDER EN LA DEL OTRO.
 
 LA ACUMULACION PODRA DECRETARSE, A PETICION DE PARTE O DE OFICIO, Al INICIO O DURANTE LA SUSTANCIACION DE LOS MEDIOS DE IMPUGNACION, HASTA ANTES DE DICTARSE SENTENCIA.
 
@@ -6163,7 +6165,7 @@ LIC. FELIPE ARTURO CAMARENA GARCIA.
 
 (RUBRICAS)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 26 DE OCTUBRE DE 1999.
 
@@ -6244,3 +6246,49 @@ P.O. 7 DE OCTUBRE DE 2011.
 Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. La reforma al artículo 179 del presente decreto, iniciará su vigencia de manera simultánea a la entrada en vigor de las reformas constitucionales a los artículos 45 y 110 de la Constitución Política para el Estado de Guanajuato, en materia de migrantes.
+
+P.O. 27 DE JUNIO DE 2014.
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga el Decreto número 20 publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 93, tercera parte de fecha 22 de noviembre de 1994, que expide el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato, así como sus reformas y adiciones.
+
+Artículo Tercero. Para el proceso electoral del año 2015, el plazo señalado para la instalación del Consejo General del Instituto Estatal señalado en el artículo 87 de esta Ley, se ajustará a los tiempos en que el Instituto Nacional Electoral designe a los consejeros electorales que integrarán dicho consejo. De igual forma se ajustarán los plazos para la convocatoria en la integración e instalación de los consejos distritales y municipales electorales, así como para la acreditación de representantes de los partidos políticos y de candidatos independientes ante dichos órganos electorales.
+
+Artículo Cuarto. Hasta en tanto el Instituto Nacional Electoral emita el Estatuto del Servicio Profesional Electoral Nacional que contenga los niveles o rangos y el catálogo general de cargos y puestos del personal ejecutivo y técnico, así como los requisitos de selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina, el Instituto Estatal Electoral aplicará la estructura orgánica prevista en el Capítulo I del Título Tercero de esta Ley.
+
+Artículo Quinto. Las facultades correspondientes a la capacitación electoral, así como la ubicación de las casillas y la designación de funcionarios de la mesa directiva delegadas a los consejos General, distritales y municipales electorales previstas en el Capítulo I del Título Tercero de esta Ley, se ejercerán hasta en tanto el Consejo General del Instituto Nacional Electoral las reasuma, en los términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+Artículo Sexto. Los ciudadanos guanajuatenses que residan en el extranjero podrán votar para la elección de Gobernador del Estado, ejerciendo su derecho a partir del año 2018.
+
+Artículo Séptimo. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con los partidos políticos, así como de sus militantes o simpatizantes, que el Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato hayan iniciado o se encontraban en trámite al 25 de mayo de 2014, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio. Los gastos realizados por los partidos políticos, hasta antes de dicha fecha, serán fiscalizados por el Instituto Electoral del Estado de Guanajuato con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos a más tardar el último día de diciembre de 2014.
+
+Artículo Octavo. Por única ocasión, las elecciones ordinarias locales que se realizarán el primer domingo de julio del año 2018, los plazos previstos en esta Ley para los actos previos y durante las diferentes etapas del proceso electoral, serán ajustados por acuerdo del Consejo General del Instituto Estatal Electoral.
+
+Artículo Noveno. Se extinguen el Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato creados mediante el Decreto número 20 publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 93, tercera parte de fecha 22 de noviembre de 1994, que expidió el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato. Los recursos materiales pasarán a formar parte del patrimonio de las autoridades electorales administrativa y jurisdiccional locales, mientras el personal de ambas dependencias, conforme a su estatus laboral pasarán (sic) a integrar las nuevas instituciones, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+El Poder Ejecutivo, por conducto de la Secretaría de Finanzas, Inversión y Administración, contará con un término de cuarenta y cinco días para realizar los ajustes presupuestales respecto de las autoridades electorales administrativas y jurisdiccional locales, en cumplimiento de lo establecido en el presente Decreto, garantizando la continuidad de la operación y de las actividades de las mismas.
+
+Asimismo en los términos de las leyes de la materia harán entrega de sus patrimonios documentales.
+
+La situación presupuestal y laboral de las actuales autoridades electorales administrativa y jurisdiccional locales, serán reguladas en la ley secundaria respectiva.
+
+Los servidores públicos del Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato que, con motivo de la extinción de estos organismos, les sea concluida su relación laboral, de ser nuevamente contratados, lo serán bajo las condiciones establecidas en la ley de la materia.
+
+Artículo Décimo. Los actuales Consejeros Ciudadanos del Instituto Electoral del Estado de Guanajuato y Magistrados del Tribunal Electoral del Estado de Guanajuato continuarán en su encargo y en ejercicio de sus funciones aplicarán esta Ley para garantizar la continuidad y la operación de dichos organismos electorales hasta en tanto el Instituto Nacional Electoral realice las designaciones de los Consejeros Electorales del organismo público electoral local y el Senado de la República lleve a cabo los procedimientos para el nombramiento de los magistrados electorales.
+
+Artículo Undécimo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes. Lo anterior, sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
+
+Artículo Duodécimo. El Consejo General del Instituto Electoral del Estado de Guanajuato dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley y deberá expedir los reglamentos que se deriven del mismo a más tardar en 60 días a partir de su entrada en vigor.
+
+Las disposiciones generales emitidas por el Instituto Electoral del Estado de Guanajuato, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución del Estado y la presente Ley.
+
+Artículo Décimo Tercero. Para efectos del proceso electoral local que tendrá lugar el primer domingo de junio del año 2015, por única ocasión, iniciará en la primera semana del mes de octubre del año 2014. Para tal efecto el Consejo General del Instituto Electoral del Estado de Guanajuato aprobará los ajustes necesarios a los plazos establecidos en la presente Ley.
+
+De igual forma para el proceso electoral de 2015, la convocatoria que emita el Consejo General del Instituto Electoral del Estado de Guanajuato para la elección ordinaria deberá expedirse en la primera semana de septiembre de 2014.
+
+Artículo Décimo Cuarto. El Poder Ejecutivo, por conducto de la Secretaría de Finanzas, Inversión y Administración, realizará los ajustes presupuestales respecto del Instituto Electoral del Estado de Guanajuato o del Tribunal Electoral del Estado de Guanajuato en cumplimiento de lo establecido en el presente Decreto, garantizando la continuidad de la operación y de las actividades de las mismas, de conformidad con la normativa aplicable y sujeto a la suficiencia presupuestaria.
+
+Artículo Décimo Quinto. Lo dispuesto en el párrafo quinto del artículo 195 de esta Ley, en relación con los informes de labores o de gestión de los servidores públicos, estará vigente hasta en tanto no se expida y entre en vigor la Ley Reglamentaria del párrafo octavo del artículo 134 de la Constitución General de la República, que con carácter de general expida el Congreso de la Unión.
+
+Artículo Décimo Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.
