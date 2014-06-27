@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ejecucion-de-sanciones-penales-del-estado-de-81799"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-14"
-last_updated: "2011-06-14"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE EJECUCION DE SANCIONES PENALES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE EJECUCION DE SANCIONES PENALES DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el martes 14 de junio de 2011.
 
@@ -105,9 +105,17 @@ Para lograr los objetivos de la reinserción social, la ejecución de sanciones 
 
 I. Legalidad: La administración de las sanciones se administrará ajustándose a la Ley de la materia y en los términos de la sentencia dictada por la autoridad judicial;
 
-II. Dignidad e igualdad: La administración de las penas y medidas de seguridad se desarrollarán respetando, los derechos e intereses jurídicos no afectados por la sentencia, sin establecerse diferencia alguna por razón de raza, opiniones políticas, creencias religiosas, condición social o cualesquier otra circunstancia de análoga naturaleza;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-III. Trato humano: Se prohíbe el maltrato físico, la aplicación automática de sanciones y todo procedimiento vejatorio de las personas sometidas al cumplimiento de cualquiera de las sanciones y medidas de seguridad;
+II. Igualdad y no discriminación: La administración de las penas y medidas de seguridad se desarrollarán respetando los derechos e intereses jurídicos no afectados por la sentencia, sin establecerse diferencia alguna por razón de origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, la preferencia sexual conforme su orientación sexual e identidad de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades de las que debe gozar aún en su estado de privación de la libertad.
+
+No serán consideradas discriminatorias y estarán permitidas, en tanto no representen menoscabo alguno de los derechos de las personas implicadas las medidas que se adopten a fin de proteger y promover exclusivamente los derechos e integridad de las mujeres; menores de edad, adultos mayores; enfermos, en particular de las personas que padezcan alguna enfermedad infecto-contagiosa; de las personas con discapacidad física, mental o sensorial; con preferencia sexual de acuerdo a su orientación sexual e identidad de género y de los indígenas y extranjeros.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+III. Respeto a la dignidad humana: A toda persona penalmente privada de su libertad, se le tratará con respeto absoluto a su integridad física y psíquica; a su dignidad humana, su preferencia sexual conforme su orientación sexual o identidad de género y a sus derechos y garantías fundamentales, en apego a los instrumentos internacionales sobre derechos humanos suscritos y ratificados por el estado mexicano.
+
+Queda prohibido todo tipo maltrato (sic) o tortura sea física o psicológica, incluyendo la que afecte el equilibrio físico, sexual y psíquico de quienes las sufrieren.
 
 IV. Jurisdiccionalidad: La legal ejecución de las penas y medidas de seguridad recaerá en el Juez de Ejecución, quien garantizará la ejecución de las mismas y resolverá todo incidente conforme al proceso de ejecución previsto en la Ley;
 
@@ -315,7 +323,7 @@ Cuando la naturaleza de los hechos que se invoquen en la revisión lo permita, e
 
 En la resolución que recaiga al recurso de revisión, se determinará si el derecho de la persona interna o visitante ha sido violado y en su caso:
 
-l. La restitución al agraviado en el goce de su derecho; y,
+I. La restitución al agraviado en el goce de su derecho; y,
 
 II. La adopción de medidas para evitar la repetición de los actos u omisiones impugnados, para lo cual se prevendrá a las autoridades penitenciarias.
 
@@ -333,9 +341,9 @@ Cuando el titular del Centro aduzca que no cuenta con los recursos materiales y 
 
 El recurso de apelación procede contra:
 
-l. Las resoluciones de los procedimientos ordinarios, por los que se declara la acreditación parcial de beneficios de reducción de la sanción; la extinción de la sanción o medida de seguridad; la denegación de extinción de la sanción o medida de seguridad; y la adecuación de la sanción privativa de la libertad o medida de seguridad;
+I. Las resoluciones de los procedimientos ordinarios, por los que se declara la acreditación parcial de beneficios de reducción de la sanción; la extinción de la sanción o medida de seguridad; la denegación de extinción de la sanción o medida de seguridad; y la adecuación de la sanción privativa de la libertad o medida de seguridad;
 
-Il. Las resoluciones de incidentes;
+II. Las resoluciones de incidentes;
 
 III. Las resoluciones de los procedimientos de impugnación en contra de las determinaciones del titular de la Dirección del Centro;
 
@@ -397,7 +405,7 @@ VII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
 Son autoridades administrativas encargadas de la ejecución de las sanciones y medidas de seguridad previstas en el Código Penal y en las leyes penales especiales:
 
-l. El titular del Poder Ejecutivo;
+I. El titular del Poder Ejecutivo;
 
 II El titular de la Secretaría;
 
@@ -439,9 +447,15 @@ VIII. Proponer al titular de la Secretaría, la celebración de convenios de car
 
 IX. Llevar el registro y seguimiento de los sustitutivos penales y medidas de seguridad impuestas por el Juez de Ejecución que se decreten en los centros para su debido cumplimiento;
 
-X. Administrar, supervisar y vigilar la operación y funcionamiento de los centros; y,
+X. Administrar, supervisar y vigilar la operación y funcionamiento de los centros; y (sic),
 
-XI. Las demás que le confieran otras disposiciones normativas.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+XI. Implementar cursos de capacitación entre el personal del sistema penitenciario a su cargo, con el fin de promover la protección de los derechos humanos, la cultura de la igualdad y la no discriminación, así como el respeto a la equidad de género y la preferencia sexual conforme la orientación sexual e identidad de género; y,
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+XII. Las demás que le confieran otras disposiciones normativas.
 
 ###### ARTÍCULO 37.
 
@@ -841,7 +855,7 @@ A fin de preparar paulatinamente al interno a su reinserción social, el tratami
 
 I. Información y orientación especiales y discusión con el interno y sus familiares de los aspectos personales y prácticos de su vida en libertad;
 
-Il. Métodos colectivos, que son aquellos que se pueden aplicar a varios internos al mismo tiempo o que implican una participación grupal;
+II. Métodos colectivos, que son aquellos que se pueden aplicar a varios internos al mismo tiempo o que implican una participación grupal;
 
 III. Concesión de mayor libertad dentro del Centro;
 
@@ -1165,7 +1179,7 @@ Son sustitutivos penales:
 
 I. Ejecución de la sanción en externación;
 
-ll. Preliberación;
+II. Preliberación;
 
 III. Libertad condicional;
 
@@ -1209,7 +1223,7 @@ VI. En caso de haber sido condenado a la reparación del daño, ésta se haya ga
 
 Cuando un sentenciado haya estado en prisión preventiva por sus características personales, así como por la dinámica del delito, al causar ejecutoria la sentencia definitiva, podrá someterse también a la ejecución de la sanción en externación cuando reúna los requisitos siguientes:
 
-l. La pena de prisión impuesta no exceda de siete años;
+I. La pena de prisión impuesta no exceda de siete años;
 
 II. Sea primo delincuente, por delito doloso;
 
@@ -1299,7 +1313,7 @@ VI. Contar con una persona de su conocimiento, que se comprometa y garantice el 
 
 No se otorgará libertad condicional al sentenciado que:
 
-l. Hubiera incurrido en segunda reincidencia o a los habituales; y,
+I. Hubiera incurrido en segunda reincidencia o a los habituales; y,
 
 II. Cuando exista prohibición expresa en el Código Penal u otras disposiciones normativas aplicables.
 
@@ -1543,8 +1557,14 @@ El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 09 nueve días del mes de junio de 2011, dos mil once.
 
-ATENTAMENTE "SUFRAGIO EFECTIVO. NO REELECCIÓN." PRESIDENTE DE LA MESA DIRECTIVA.- IVÁN MADERO NARANJO.- PRIMER SECRETARIO.- DlP. MARTÍN CARDONA MENDOZA.- SEGUNDO SECRETARIO.- DlP. JOSÉ ANTONIO SALAS VALENCIA.- TERCER SECRETARIO.- DlP. JUAN MANUEL MACEDO NEGRETE. (Firmados).
+ATENTAMENTE "SUFRAGIO EFECTIVO. NO REELECCIÓN." PRESIDENTE DE LA MESA DIRECTIVA.- IVÁN MADERO NARANJO.- PRIMER SECRETARIO.- DIP. MARTÍN CARDONA MENDOZA.- SEGUNDO SECRETARIO.- DIP. JOSÉ ANTONIO SALAS VALENCIA.- TERCER SECRETARIO.- DIP. JUAN MANUEL MACEDO NEGRETE. (Firmados).
 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 10 diez días del mes de Junio del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS.</small>
+
+P.O. 27 DE JUNIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
