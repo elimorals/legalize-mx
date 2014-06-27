@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2013-11-15"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE NOVIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -269,15 +267,33 @@ III. Que cuando hayan estado presentes en la ejecución del nuevo delito, no hay
 
 Hay complicidad correspectiva o autoría indeterminada cuando varias personas intervienen en la comisión de un delito y no se precisa el resultado que cada quien produjo.
 
-### CAPÍTULO V. PERSONAS MORALES
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO VI. CAUSAS QUE EXCLUYEN EL DELITO Y LA RESPONSABILIDAD
+### CAPÍTULO IV BIS. REINCIDENCIA Y HABITUALIDAD
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 31 Bis.
+
+Se considera reincidente a la persona que haya sido condenada en virtud de sentencia que haya causado ejecutoria dictada por cualquier juez o tribunal de la república mexicana, y que se le condene por la comisión de un nuevo delito de la misma naturaleza, siempre y cuando no haya transcurrido, desde el cumplimiento de la condena o desde el indulto de la misma, un término igual al de la prescripción de la sanción penal, salvo el caso de los delitos imprescriptibles establecidos en el presente código y las excepciones fijadas en la ley.
+
+La sentencia puesta en otra Entidad Federativa sólo se tendrá en cuenta si proviene de un delito que tenga ese carácter en el presente Código o en leyes generales o especiales estatales.
+
+No habrá reincidencia cuando el condenado haya obtenido el reconocimiento judicial de inocencia respecto de la sentencia posterior a la comisión del nuevo delito.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 31 Ter.
+
+Se considera delincuente habitual a la persona que haya sido condenada en dos ocasiones anteriores en virtud de sentencias que hayan causado ejecutoria dictadas por cualquier juez o tribunal de la república mexicana o del extranjero, y que se le condene por la comisión de un nuevo delito, sin importar la naturaleza del mismo.
+
+### CAPÍTULO V. PERSONAS MORALES
 
 ###### Artículo 32.
 
 Para los efectos de este Código, sólo pueden ser penalmente responsables las personas físicas. Sin embargo, cuando un miembro o representante de una persona moral, con excepción de las entidades públicas del Estado, cometa algún delito con los medios que para tal objeto la misma persona moral le proporcione, de modo que el delito resulte cometido a su nombre, bajo el amparo o en beneficio de aquélla, el juez competente impondrá en la sentencia, previo el procedimiento correspondiente, con intervención del representante legal, las consecuencias previstas en este Código, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por los delitos cometidos.
 
-### CAPÍTULO PRELIMINAR. DE LAS SANCIONES, CONSECUENCIAS JURÍDICAS DE LAS PERSONAS MORALES Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO VI. CAUSAS QUE EXCLUYEN EL DELITO Y LA RESPONSABILIDAD
 
 ###### Artículo 33.
 
@@ -329,7 +345,7 @@ Las causas de exclusión se investigarán y se harán valer de oficio o a petici
 
 ## TÍTULO CUARTO. DE LAS CONSECUENCIAS JURÍDICAS DEL DELITO
 
-### CAPÍTULO I. PRISIÓN
+### CAPÍTULO PRELIMINAR. DE LAS SANCIONES, CONSECUENCIAS JURÍDICAS DE LAS PERSONAS MORALES Y MEDIDAS DE SEGURIDAD
 
 ###### Artículo 35.
 
@@ -381,7 +397,7 @@ V. Tratamiento especializado para alcoholismo;
 
 VI. Tratamiento psicológico o psiquiátrico.
 
-### CAPÍTULO II. TRATAMIENTO EN LIBERTAD Y SEMILIBERTAD DE IMPUTABLES
+### CAPÍTULO I. PRISIÓN
 
 ###### Artículo 36.
 
@@ -401,7 +417,7 @@ VI. Cuando varios delitos dolosos sean cometidos por miembros de corporaciones p
 
 VII. Lo dispuesto en la fracción anterior será aplicable a los exintegrantes de las instituciones o corporaciones citadas, cuando empleen cualquier tipo de conocimiento, habilidad o información que hubiesen adquirido u obtenido durante el ejercicio del cargo, siempre y cuando se trate de los delitos dolosos de homicidio, extorsión, robo, o daños ocasionados mediante incendio, inundación o explosión. En estos casos, podrá aumentarse a la suma total de la sanción impuesta una tercera parte de aquella, aún cuando con ello se exceda el máximo de la sanción de prisión señalada en la fracción IV del presente artículo.
 
-### CAPÍTULO III. REPARACIÓN DEL DAÑO
+### CAPÍTULO II. TRATAMIENTO EN LIBERTAD Y SEMILIBERTAD DE IMPUTABLES
 
 ###### Artículo 37.
 
@@ -411,7 +427,7 @@ El tratamiento en libertad de imputables consiste en la aplicación, según el c
 
 La semilibertad implica alternación de períodos de privación de libertad y de tratamiento en libertad. Se aplicará conforme a lo establecido en la legislación estatal en materia de ejecución de sanciones y medidas de seguridad.
 
-### CAPÍTULO IV. MULTA
+### CAPÍTULO III. REPARACIÓN DEL DAÑO
 
 ###### Artículo 39.
 
@@ -519,7 +535,7 @@ Una vez que la sentencia que imponga la reparación del daño haya causado ejecu
 
 El juzgador o la autoridad a quien le corresponda el cobro, en base al monto del daño y la situación económica del obligado, podrá fijar plazos para el pago de la reparación del daño, los que en su conjunto no excederán de tres años, por lo que se podrá exigir garantía, si lo considera conveniente.
 
-### CAPÍTULO V. TRABAJO A FAVOR DE LA COMUNIDAD
+### CAPÍTULO IV. MULTA
 
 ###### Artículo 50.
 
@@ -545,7 +561,7 @@ Si el sentenciado no paga la multa en el tiempo establecido o se negare sin caus
 
 El importe de la multa se destinará al Instituto de Acceso a la Justicia del Estado de Campeche.
 
-### CAPÍTULO VI. SUSPENSIÓN DE DERECHOS
+### CAPÍTULO V. TRABAJO A FAVOR DE LA COMUNIDAD
 
 ###### Artículo 54.
 
@@ -563,7 +579,7 @@ El juzgador, en uso de su arbitrio judicial, podrá imponer como sanción autón
 
 Cuando se encuentre en tal hipótesis, deberá atender a lo establecido en los artículos que anteceden, además tomar en cuenta las circunstancias generales y especiales a que se refieren los artículos 97 y 98 de este ordenamiento.
 
-### CAPÍTULO VII. DECOMISO DE INSTRUMENTOS, OBJETOS Y PRODUCTOS DEL DELITO
+### CAPÍTULO VI. SUSPENSIÓN DE DERECHOS
 
 ###### Artículo 57.
 
@@ -587,7 +603,7 @@ La sanción de prisión, sea o no sustituida, produce la suspensión de los dere
 
 Se aplicarán las reglas de la suspensión de derechos a la sanción de suspensión del derecho para conducir vehículos de motor.
 
-### CAPÍTULO VIII. SUSPENSIÓN, DESTITUCIÓN O INHABILITACIÓN DE CARGOS, COMISIONES O EMPLEOS
+### CAPÍTULO VII. DECOMISO DE INSTRUMENTOS, OBJETOS Y PRODUCTOS DEL DELITO
 
 ###### Artículo 61.
 
@@ -607,7 +623,7 @@ En el caso de bienes que se encuentren a disposición de la autoridad judicial, 
 
 Cuando los referidos efectos e instrumentos sean de lícito comercio y su valor no guarde proporción con la naturaleza o gravedad de la infracción penal, o se haya satisfecho la reparación del daño, podrá el juez o tribunal no decretar el decomiso.
 
-### CAPÍTULO IX. TRABAJO OBLIGATORIO PARA LA REPARACIÓN DEL DAÑO
+### CAPÍTULO VIII. SUSPENSIÓN, DESTITUCIÓN O INHABILITACIÓN DE CARGOS, COMISIONES O EMPLEOS
 
 ###### Artículo 65.
 
@@ -617,13 +633,13 @@ La destitución consiste en la privación definitiva del empleo, cargo o comisi�
 
 La inhabilitación consiste en la incapacidad temporal para obtener y ejercer cargos, comisiones o empleos en el servicio público. En la inhabilitación se aplicarán las reglas de la suspensión de derechos.
 
-### CAPÍTULO X. SUSPENSIÓN DE ACTIVIDADES, DISOLUCIÓN, PROHIBICIÓN, REMOCIÓN E INTERVENCIÓN DE LAS PERSONAS MORALES
+### CAPÍTULO IX. TRABAJO OBLIGATORIO PARA LA REPARACIÓN DEL DAÑO
 
 ###### Artículo 66.
 
 El trabajo obligatorio como sanción tiene como objeto la reparación del daño a la víctima u ofendido. Tendrá lugar como sanción sustitutiva a la privativa de libertad, cuando el sentenciado acredite que con su empleo podrá cubrir el importe decretado por la autoridad judicial, en la forma y términos establecidos en la ley aplicable.
 
-### CAPÍTULO XI. VIGILANCIA DE LA AUTORIDAD
+### CAPÍTULO X. SUSPENSIÓN DE ACTIVIDADES, DISOLUCIÓN, PROHIBICIÓN, REMOCIÓN E INTERVENCIÓN DE LAS PERSONAS MORALES
 
 ###### Artículo 67.
 
@@ -647,7 +663,7 @@ La intervención consiste en la vigilancia de las funciones que realizan los ór
 
 Al imponer las sanciones previstas en este capítulo, el juez tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona moral, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona moral sancionada.
 
-### CAPÍTULO XII. PROHIBICIÓN DE RESIDIR O ACUDIR A UN LUGAR DETERMINADO
+### CAPÍTULO XI. VIGILANCIA DE LA AUTORIDAD
 
 ###### Artículo 72.
 
@@ -657,7 +673,7 @@ La autoridad judicial deberá disponer esta supervisión cuando en la sentencia 
 
 Su duración no deberá exceder de la correspondiente a la sanción o medida de seguridad impuesta.
 
-### CAPÍTULO XIII. TRATAMIENTO DE INIMPUTABLES
+### CAPÍTULO XII. PROHIBICIÓN DE RESIDIR O ACUDIR A UN LUGAR DETERMINADO
 
 ###### Artículo 73.
 
@@ -665,7 +681,7 @@ En atención a las circunstancias del delito, del responsable y de la víctima o
 
 Estas sanciones no podrán ser menores a seis meses ni mayores al término de la sanción de prisión a la que correspondería imponer.
 
-### CAPÍTULO XIV. TRATAMIENTO ESPECIALIZADO PARA FARMACODEPENDENCIA
+### CAPÍTULO XIII. TRATAMIENTO DE INIMPUTABLES
 
 ###### Artículo 74.
 
@@ -681,13 +697,13 @@ Queda prohibido aplicar la medida de seguridad en instituciones de reclusión pr
 
 La autoridad competente podrá entregar al inimputable a sus familiares o a las personas que conforme a la ley tengan la obligación de hacerse cargo de él, siempre y cuando reparen el daño, se obliguen a tomar las medidas adecuadas para el tratamiento y vigilancia del inimputable y garanticen, a satisfacción de la autoridad judicial, el cumplimiento de las obligaciones contraídas.
 
-### CAPÍTULO XV. TRATAMIENTO ESPECIALIZADO PARA ALCOHOLISMO
+### CAPÍTULO XIV. TRATAMIENTO ESPECIALIZADO PARA FARMACODEPENDENCIA
 
 ###### Artículo 76.
 
 Cuando el sujeto haya sido sentenciado por un delito cuya comisión haya sido determinada por la adicción en el uso de estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, independientemente de la sanción que corresponda, se le aplicará tratamiento especializado para farmacodependencia, el cual no podrá exceder del término de la sanción impuesta por el delito cometido.
 
-### CAPÍTULO XVI. TRATAMIENTO PSICOLÓGICO O PSIQUIÁTRICO
+### CAPÍTULO XV. TRATAMIENTO ESPECIALIZADO PARA ALCOHOLISMO
 
 ###### Artículo 77.
 
@@ -695,7 +711,7 @@ El tratamiento especializado para alcoholismo se destinará a cualquier sentenci
 
 No podrá exceder del término de la sanción impuesta por el delito cometido.
 
-### CAPÍTULO I. REGLAS GENERALES
+### CAPÍTULO XVI. TRATAMIENTO PSICOLÓGICO O PSIQUIÁTRICO
 
 ###### Artículo 78.
 
@@ -705,7 +721,7 @@ No podrán exceder del término de la sanción impuesta por el delito cometido.
 
 ## TÍTULO QUINTO. DE LA APLICACIÓN DE LAS SANCIONES
 
-### CAPÍTULO II. DELITOS CULPOSOS
+### CAPÍTULO I. REGLAS GENERALES
 
 ###### Artículo 79.
 
@@ -779,7 +795,7 @@ Las circunstancias personales de alguno o algunos de los delincuentes, cuando se
 
 No es imputable al acusado el aumento de gravedad proveniente de circunstancias particulares de la víctima u ofendido, si las ignoraba inculpablemente al cometer el delito.
 
-### CAPÍTULO III. ERROR VENCIBLE Y EXCESO
+### CAPÍTULO II. DELITOS CULPOSOS
 
 ###### Artículo 87.
 
@@ -807,7 +823,7 @@ V. El estado de las cosas, entorno y demás condiciones externas que hayan contr
 
 VI. Cualesquiera otras circunstancias relevantes.
 
-### CAPÍTULO IV. TENTATIVA
+### CAPÍTULO III. ERROR VENCIBLE Y EXCESO
 
 ###### Artículo 90.
 
@@ -819,7 +835,7 @@ Al que por error vencible actúe bajo la creencia errónea de que su conducta se
 
 La misma sanción se impondrá a quien por error vencible se exceda en alguna de las excluyentes del delito y responsabilidad penal previstas en las fracciones III a VI del artículo 33 de esta ley.
 
-### CAPÍTULO V. CONCURSO Y DELITO CONTINUADO
+### CAPÍTULO IV. TENTATIVA
 
 ###### Artículo 92.
 
@@ -827,7 +843,7 @@ La punibilidad aplicable a la tentativa, salvo disposición en contrario, será 
 
 En los casos de tentativa en que no fuere posible determinar el daño que se pretendió causar, cuando éste fuera determinante para la correcta adecuación de la conducta al tipo penal, se impondrá la mitad de la sanción señalada en el párrafo anterior.
 
-### CAPÍTULO VI. AUTORÍA INDETERMINADA
+### CAPÍTULO V. CONCURSO Y DELITO CONTINUADO
 
 ###### Artículo 93.
 
@@ -841,13 +857,13 @@ En caso de concurso ideal se aplicará la penalidad que corresponda al delito qu
 
 En caso de delito continuado se aumentará la sanción en una mitad de la establecida, para cuyos efectos el juzgador tomará en cuenta el daño causado y el número de actos ejecutivos realizados, sin que se exceda del máximo que dispone este Código, salvo las excepciones que se establecen en el artículo 27 del mismo.
 
-### CAPÍTULO VII. SUSTITUCIÓN DE SANCIONES
+### CAPÍTULO VI. AUTORÍA INDETERMINADA
 
 ###### Artículo 96.
 
 Cuando varios sujetos, sin concierto alguno, intervengan en la comisión de un delito, y no pueda precisarse el daño que cada quien produjo, la penalidad para cada uno será de las tres cuartas partes del mínimo a las tres cuartas partes del máximo de las sanciones o medidas de seguridad correspondientes para el delito cometido, según su modalidad.
 
-### CAPÍTULO VIII. CONDENA CONDICIONAL
+### CAPÍTULO VII. SUSTITUCIÓN DE SANCIONES
 
 ###### Artículo 97.
 
@@ -901,169 +917,283 @@ Cuando un tercero sea el garante, deberá comunicar al juez competente su insolv
 
 En caso de muerte del garante, el sentenciado deberá informarlo al juez competente.
 
-### CAPÍTULO PRELIMINAR. REGLAS GENERALES
+### CAPÍTULO VIII. CONDENA CONDICIONAL
 
 ###### Artículo 105.
 
 La condena condicional es una facultad por la cual la autoridad judicial, al emitir sentencia, podrá suspender la ejecución de la sanción de prisión. Tiene por objeto fundamental permitir al sentenciado incorporarse a la sociedad. La condena condicional se aplicará de conformidad con lo dispuesto en la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche.
 
-## TÍTULO SEXTO. EXTINCIÓN DE LA RESPONSABILIDAD PENAL
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO I. CUMPLIMIENTO DE LA SANCIÓN
+## TÍTULO SEXTO. DE LA PRETENSIÓN PUNITIVA Y DE LA RESPONSABILIDAD PENAL
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO ÚNICO. PROCEDENCIA
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 106.
 
-La responsabilidad penal se extingue por cualquiera de las siguientes causas:
+La pretensión punitiva y la potestad para ejecutar las sanciones y medidas de seguridad se extinguirán por las siguientes causas:
 
-I. Cumplimiento de la sanción;
+I. Cumplimiento de la sanción o medida de seguridad;
 
-II. Reconocimiento de inocencia;
+II. Muerte del imputado, acusado o sentenciado;
 
-III. Muerte del sentenciado;
+III. Reconocimiento de inocencia del sentenciado o anulación de la sentencia;
 
-IV. Amnistía;
+IV. Perdón de la persona ofendida en los delitos de querella o por cualquier otro acto equivalente;
 
-V. Perdón del ofendido;
+V. Indulto;
 
-VI. Indulto;
+VI. Amnistía;
 
 VII. Prescripción;
 
 VIII. Supresión del tipo penal;
 
-IX. Existencia de una sentencia anterior dictada en proceso seguido por los mismos hechos.
+IX. Existencia de una sentencia anterior dictada en proceso instaurado por los mismos hechos; o
 
-#### SECCIÓN PRIMERA. APREHENSIÓN ILEGAL
+X. El cumplimiento del criterio de oportunidad o la solución alterna correspondiente.
 
-###### Artículo 107.
-
-La extinción de la responsabilidad penal podrá decretarse de oficio o a solicitud de parte.
-
-#### SECCIÓN SEGUNDA. RETARDO ILEGÍTIMO EN LA ENTREGA DE UN DETENIDO
-
-###### Artículo 108.
+La extinción de la pretensión punitiva o de la responsabilidad penal podrá decretarse de oficio o a solicitud de parte.
 
 La extinción a que se refiere el presente Capítulo no abarca el decomiso de instrumentos, objetos y productos del delito, ni afecta la reparación del daño, salvo cuando la extinción de ésta sea consecuencia necesaria de la causa extintiva correspondiente.
 
-#### SECCIÓN TERCERA. EJERCICIO INDEBIDO DE LA FUNCIÓN INVESTIGADORA
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-###### Artículo 109.
+#### SECCIÓN PRIMERA. CUMPLIMIENTO DE LA SANCIÓN O MEDIDA DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 107.
 
 Se extingue la responsabilidad penal por el cumplimiento de la sanción impuesta o por el cumplimiento de las sanciones por las que se hubiera sustituido.
 
-#### SECCIÓN CUARTA. INCUMPLIMIENTO DE UNA MEDIDA DE PROTECCIÓN
+La sanción privativa de libertad que haya sido sustituida se extinguirá por el cumplimiento de los requisitos establecidos para el otorgamiento de la sustitución, en los términos y dentro de los plazos legalmente aplicables.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. MUERTE DEL ACUSADO O SENTENCIADO
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 108.
+
+La muerte del imputado, acusado o sentenciado extingue la pretensión punitiva así como las sanciones y medidas de seguridad impuestas, a excepción de la reparación del daño y del decomiso de los instrumentos, objetos y productos del delito.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN TERCERA. RECONOCIMIENTO DE INOCENCIA DEL SENTENCIADO O ANULACIÓN DE LA SENTENCIA
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 109.
+
+La tramitación y procedencia del reconocimiento de inocencia, así como de la anulación de la sentencia se realizarán de conformidad con lo dispuesto en el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN CUARTA. PERDÓN DE LA PERSONA OFENDIDA
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 110.
 
-La sanción privativa de libertad que haya sido sustituida se extinguirá por el cumplimiento de los requisitos establecidos para el otorgamiento de la sustitución, en los términos y dentro de los plazos legalmente aplicables.
+El perdón del ofendido o del legitimado para otorgarlo extingue la pretensión punitiva y la responsabilidad penal respecto de los delitos que se persiguen por querella, cuando se expresa ante el Ministerio Público o la autoridad judicial competente antes de que cause ejecutoria la sentencia.
+
+El perdón del ofendido sólo beneficia al imputado, acusado o sentenciado a favor de quien se otorga. Una vez otorgado el perdón del ofendido, no podrá revocarse.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 111.
 
-Procede la anulación de la sanción impuesta mediante sentencia que haya causado ejecutoria, cuando se pruebe la inocencia del sentenciado en revisión, por concurrir alguno de los siguientes supuestos:
+Si la sentencia ha causado ejecutoria, el ofendido deberá otorgar el perdón legal ante el Juez de Ejecución de Sanciones, quien dictará resolución que declare extinta la responsabilidad penal y pondrá en libertad al sentenciado.
 
-I. Que las pruebas en las que se funde la sentencia sean declaradas falsas con posterioridad a la emisión de aquélla;
-
-II. Cuando después de dictada la sentencia, aparezcan documentos públicos que invaliden las pruebas en que se haya fundado aquélla;
-
-III. Cuando después de dictada la sentencia se demuestre por prueba indubitable que no hubo delito o que el sentenciado no tuvo participación alguna en los hechos. En este supuesto, las pruebas exculpatorias deben haber sido conocidas por el inculpado o por su defensa con posterioridad al dictado de la sentencia.
-
-El reconocimiento de inocencia extingue la reparación del daño.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 112.
 
-Si el sentenciado ha cumplido con la sanción impuesta y se encuentra en el supuesto que establece el artículo anterior, podrá comparecer ante la autoridad judicial competente para solicitar la nulidad de la resolución y la declaración que reconozca su inocencia.
+Cuando sean varias las víctimas y los ofendidos, y cada una pueda ejercer separadamente la facultad de perdonar al responsable del delito, el perdón sólo surtirá efectos en relación con quien lo otorga.
 
-En caso que el sentenciado haya fallecido, la facultad de solicitar el reconocimiento de inocencia corresponde a su cónyuge, concubina, concubinario, descendientes o ascendientes en línea recta sin límite de grado.
+En el caso de los delitos que se cometan contra personas menores de edad o con discapacidad, la autoridad judicial ante quien se otorgue el perdón del ofendido o del legitimado para otorgarlo, oirá al ministerio público y al representante del menor o del discapacitado, para resolver lo relativo a la eficacia del perdón otorgado.
 
-#### SECCIÓN PRIMERA. PREVARICACIÓN
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN QUINTA. INDULTO
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 113.
 
-La resolución que declare la inocencia deberá publicarse en el Periódico Oficial del Estado y en el diario de mayor circulación en el lugar de residencia del beneficiado con la resolución.
+El indulto extingue la responsabilidad penal del sentenciado cuando queden satisfechos los requisitos y se otorgue de conformidad con lo establecido en la Constitución Política del Estado de Campeche y demás normas jurídicas aplicables.
 
-#### SECCIÓN SEGUNDA. EJERCICIO INDEBIDO DE LA FUNCIÓN JUDICIAL
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN SEXTA. AMNISTÍA
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 114.
 
-Si la sanción impuesta consistió en sanción privativa de libertad, la persona que resulte beneficiada con la resolución que reconozca su inocencia podrá solicitar el pago por indemnización de un día de salario mínimo vigente en el Estado por cada día de reclusión que hubiera sufrido. El pago de la indemnización estará a cargo del Instituto de Acceso a la Justicia del Estado de Campeche.
+Se extingue la responsabilidad penal por amnistía en los términos de la ley que se dicte concediéndola y, si no lo determina, se entenderá que la acción penal, así como las sanciones y medidas de seguridad impuestas se extinguen con todos sus efectos y respecto a todos los responsables del delito.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN SÉPTIMA. PRESCRIPCIÓN
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 115.
 
-La muerte del sentenciado extingue las sanciones y las medidas de seguridad impuestas, a excepción de la reparación del daño y del decomiso de los instrumentos y productos del delito.
+La prescripción extingue la pretensión punitiva y la responsabilidad penal, así como las sanciones y medidas de seguridad impuestas. Es personal y para ella bastará el simple transcurso del tiempo señalado por la ley.
+
+La prescripción de la pretensión punitiva producirá su efecto aunque no lo alegue en su defensa el imputado, acusado o sentenciado.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 116.
 
-Se extingue la responsabilidad penal por amnistía en los términos de la ley que se dicte concediéndola y, si no lo determina, se entenderá que la acción penal y las sanciones impuestas se extinguen con todos sus efectos y respecto a todos los responsables del delito.
+Los plazos para la prescripción de la pretensión punitiva del Estado serán continuos y se les aplicarán las siguientes disposiciones:
+
+I. Se contarán desde el día señalado por la Ley;
+
+II. Se aumentarán un tercio si el imputado permanece fuera del territorio del Estado; y
+
+III. Se aumentarán en dos tercios si el imputado permanece fuera del país.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 117.
 
-El perdón del ofendido o del legitimado para otorgarlo extingue la responsabilidad penal respecto de los delitos que se persiguen por querella, cuando se expresa ante la autoridad judicial competente antes de que cause ejecutoria la sentencia. El perdón del ofendido sólo beneficia al sentenciado a favor de quien se otorga. Una vez otorgado el perdón del ofendido, no podrá revocarse.
+Los plazos para la prescripción de la pretensión punitiva del Estado se contarán:
+
+I. A partir del día en que se consumó el delito, si se trata de delito instantáneo;
+
+II. Desde el día en que se realizó el último acto de ejecución, si se trata de delito continuado o en grado de tentativa; y
+
+III. Desde el día en que cesó la consumación del delito, si éste es permanente.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 118.
 
-Si la sentencia ha causado ejecutoria, el ofendido deberá otorgar el perdón legal ante el Juez de Ejecución de Sanciones, quien dictará resolución que declare extinta la responsabilidad penal y pondrá en libertad al sentenciado.
+La pretensión punitiva del Estado que provenga de la probable comisión de un delito que se persiga de oficio prescribirá:
+
+I. Si mereciere sanción privativa de libertad, en un plazo igual al término medio aritmético de la que corresponda para el delito de que se trate, pero en ningún caso será menor de tres años; y
+
+II. Si la sanción correspondiente al delito no es privativa de libertad, en un plazo de dos años.
+
+Se exceptúan de la regla anterior los delitos imprescriptibles señalados en el artículo 122 de este Código.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 119.
 
-Cuando sean varias las víctimas y los ofendidos, y cada una pueda ejercer separadamente la facultad de perdonar al responsable del delito, el perdón sólo surtirá efectos en relación con quien lo otorga.
+La pretensión punitiva del Estado que provenga de la probable comisión de un delito que se persiga por querella prescribirá en un año, contado a partir del día en el que la víctima o el ofendido tengan conocimiento del delito y del nombre del imputado. Fuera de esta circunstancia o cuando haya un convenio derivado del uso de algún mecanismo de solución de controversias, el término de prescripción será de tres años.
 
-En los delitos cometidos contra algún menor o discapacitado, la autoridad judicial ante quien se otorgue el perdón del ofendido o del legitimado para otorgarlo, oirá al ministerio público y al representante del menor o discapacitado, para resolver lo relativo a la eficacia del perdón otorgado.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 120.
 
-El indulto extingue la responsabilidad penal del sentenciado cuando queden satisfechos los requisitos y se otorgue en los términos que establecen la Constitución Política del Estado del Campeche y la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche.
+En los casos de concurso ideal de delitos, la pretensión punitiva del Estado prescribe conforme a las reglas aplicables al delito que merezca la sanción mayor.
+
+En los casos de concurso real de delitos, los plazos para la prescripción de la pretensión punitiva del Estado empezarán a correr simultáneamente y prescribirán separadamente para cada uno de los delitos.
+
+Se exceptúan de la regla anterior los delitos imprescriptibles señalados en el artículo 122 de este Código.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 121.
 
-La prescripción extingue la responsabilidad penal y las sanciones. Es personal y para ella bastará el simple transcurso del tiempo señalado por la ley.
+La prescripción de la pretensión punitiva del Estado se interrumpe por las actuaciones que el ministerio público practique en la investigación del delito. Si se dejare de actuar, la prescripción comenzará a contarse de nuevo desde el día siguiente al de la última actuación.
 
-La prescripción producirá su efecto aunque no lo alegue en su defensa el inculpado. La autoridad investigadora o la autoridad judicial competente la declararán de oficio, en todo caso, en el momento en que tengan conocimiento de ella, sea cual fuere el estado del proceso.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 122.
 
-Los plazos para la prescripción de la responsabilidad penal o de la facultad para ejecutar las sanciones serán continuos, y se les aplicarán las siguientes disposiciones:
+Serán imprescriptibles los siguientes delitos:
 
-I. Se contarán en cada caso desde el día señalado por la ley;
+I. Homicidio calificado;
 
-II. Se aumentarán un tercio si el acusado o sentenciado permanece fuera del territorio del Estado;
+II. Feminicidio;
 
-III. Se aumentarán en dos tercios si el acusado o sentenciado permanece fuera del país.
+III. Violación;
+
+IV. Tortura;
+
+V. Desaparición forzada de personas;
+
+VI. Secuestro; y
+
+VII. Trata de personas.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 123.
 
-Las sanciones impuestas por sentencia que haya causado ejecutoria prescriben:
+La prescripción extingue la responsabilidad penal, así como las sanciones y medidas de seguridad impuestas.
 
-I. En un tiempo igual a la sanción privativa o restrictiva de libertad que se haya impuesto, pero no podrá ser inferior a tres años;
-
-II. En cinco años cuando se trate de sanciones pecuniarias o sanciones restrictivas de otros derechos, con independencia de la reparación del daño y del decomiso de instrumentos, objetos y productos del delito.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 124.
 
-Cuando el sentenciado haya cumplido parcialmente su sanción, para que opere la prescripción deberá transcurrir el tiempo que le falte para el cumplimiento total de la sanción impuesta.
+Los plazos para la prescripción de la responsabilidad penal o de la facultad para ejecutar las sanciones y medidas de seguridad serán continuos, y se les aplicarán las siguientes disposiciones:
+
+I. Se contarán en cada caso desde el día señalado por la ley;
+
+II. Se aumentarán un tercio si el acusado o sentenciado permanece fuera del territorio del Estado; y
+
+III. Se aumentarán en dos tercios si el acusado o sentenciado permanece fuera del país.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 125.
 
-Los plazos para la prescripción de las sanciones se computarán desde la fecha en que cause ejecutoria la sentencia dictada. Para el caso de sanciones privativas de libertad, el plazo comenzará a contarse desde el día en que el sentenciado se sustraiga de la acción de la autoridad competente.
+Las sanciones impuestas por sentencia que haya causado ejecutoria prescriben:
 
-###### Artículo 126.
+I. En un tiempo igual a la sanción privativa o restrictiva de libertad que se haya impuesto, pero no podrá ser inferior a tres años; y
+
+II. En cinco años cuando se trate de sanciones pecuniarias o sanciones restrictivas de otros derechos, con independencia de la reparación del daño y del decomiso de instrumentos, objetos y productos del delito.
+
+Cuando el sentenciado haya cumplido parcialmente su sanción, para que opere la prescripción deberá transcurrir el tiempo que le falte para el cumplimiento total de la sanción impuesta.
+
+Los plazos para la prescripción de las sanciones se computarán desde la fecha en que cause ejecutoria la sentencia dictada. Para el caso de sanciones privativas de libertad, el plazo comenzará a contarse desde el día en que el sentenciado se sustraiga de la acción de la autoridad competente.
 
 Cuando alguna sanción deba ser cumplida con posterioridad a una sanción privativa de libertad, el plazo para la prescripción de aquélla comenzará a computarse desde la extinción de la sanción anterior.
 
-###### Artículo 127.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 126.
 
 La prescripción de la sanción privativa de libertad sólo se interrumpe con la aprehensión del sentenciado, aunque se ejecute por delito diverso, o por la solicitud formal de entrega que la autoridad judicial competente haga a la autoridad judicial competente de otra entidad federativa en la que se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive a aplazar el cumplimiento de lo solicitado.
 
 La prescripción de las demás sanciones se interrumpirá por cualquier acto de la autoridad judicial competente para hacerlas efectivas.
 
-###### Artículo 128.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 127.
 
 Las medidas de seguridad prescriben en un término de cinco años, a partir del día en que se hayan decretado.
 
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN OCTAVA. SUPRESIÓN DEL TIPO PENAL
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 128.
+
+Cuando la ley suprima un tipo penal se extinguirá la pretensión punitiva respectiva o la de ejecutar las sanciones o medidas de seguridad impuestas, se pondrá en absoluta e inmediata libertad al imputado, al acusado o al sentenciado y cesarán de derecho todos los efectos del procedimiento penal o de la sentencia.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN NOVENA. EXISTENCIA DE UNA SENTENCIA ANTERIOR DICTADA EN PROCESO INSTAURADO POR LOS MISMOS HECHOS
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 129.
-
-Cuando la ley suprima un tipo penal se extinguirá la pretensión punitiva respectiva o la de ejecutar las sanciones o medidas de seguridad impuestas, se pondrá en absoluta e inmediata libertad al imputado o al sentenciado y cesarán de derecho todos los efectos del procedimiento penal o de la sentencia.
-
-###### Artículo 130.
 
 Nadie puede ser juzgado dos veces por los mismos hechos, ya sea que en el juicio anterior se le absuelva o se le condene.
 
@@ -1075,13 +1205,23 @@ II. Una sentencia y un procedimiento distinto, se archivará o se sobreseerá de
 
 III. Dos sentencias dictadas en procesos distintos, se hará la declaratoria de nulidad de la sentencia que corresponda al proceso que se inició en segundo término y se extinguirán sus efectos.
 
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+#### SECCIÓN DÉCIMA. CUMPLIMIENTO DEL CRITERIO DE OPORTUNIDAD O LA SOLUCIÓN ALTERNA CORRESPONDIENTE
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 130.
+
+El cumplimiento del criterio de oportunidad o de la solución alterna, de conformidad con lo establecido en el Código Nacional de Procedimientos Penales, extinguen la pretensión punitiva del Estado.
+
 # LIBRO SEGUNDO. PARTE ESPECIAL
 
 DE LOS DELITOS Y SUS SANCIONES
 
 ## TÍTULO PRIMERO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPÍTULO II. RECONOCIMIENTO DE INOCENCIA
+### CAPÍTULO I. HOMICIDIO
 
 ###### Artículo 131.
 
@@ -1105,7 +1245,7 @@ A quien cometa homicidio calificado se le impondrán de veinticinco a cincuenta 
 
 A quien prive de la vida a otro en riña se le impondrán de cinco a diez años de prisión, si se tratare del provocador y de tres a siete años, si se tratare del provocado.
 
-### CAPÍTULO III. MUERTE DEL SENTENCIADO
+### CAPÍTULO II. LESIONES
 
 ###### Artículo 136.
 
@@ -1143,9 +1283,9 @@ A quien infiera a otro lesiones en riña, se le impondrán dos terceras partes d
 
 Cuando las lesiones sean calificadas, la sanción correspondiente a las lesiones simples se aumentará en una mitad.
 
-### CAPÍTULO IV. AMNISTÍA
+### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
-### CAPÍTULO V. PERDÓN DEL OFENDIDO
+### CAPÍTULO IV. OMISIÓN DE AUXILIO O DE CUIDADO
 
 ###### Artículo 141.
 
@@ -1213,7 +1353,7 @@ Cuando por imprudencia se cause homicidio de dos o más personas, en las circuns
 
 En todos los casos de homicidio, además de la sanción señalada para cada uno de los tipos penales, se deberá imponer por la autoridad judicial un tratamiento psicológico o psiquiátrico al sujeto activo del delito el cual tendrá la duración que dicha autoridad disponga, sin que exceda del tiempo establecido para la sanción de prisión y sin perjuicio de la aplicación de otros tratamientos.
 
-### CAPÍTULO VI. INDULTO
+### CAPÍTULO V. AYUDA O INDUCCIÓN AL SUICIDIO
 
 ###### Artículo 149.
 
@@ -1229,7 +1369,7 @@ A quien después de lesionar a una persona, imprudencial o fortuitamente, no le 
 
 A quien exponga en una institución o ante cualquier otra persona a un incapaz de valerse por sí mismo, respecto del cual tenga la obligación de cuidar o se encuentre legalmente a su cargo, se le impondrán de tres meses a un año de prisión y pérdida de los derechos de familia y sucesorios que pudieran corresponderle con respecto a la víctima.
 
-### CAPÍTULO VII. PRESCRIPCIÓN
+### CAPÍTULO VI. ABORTO
 
 ###### Artículo 152.
 
@@ -1249,7 +1389,7 @@ Si la persona a quien se induce o ayuda al suicidio fuese menor de edad o no tuv
 
 En todos los casos del presente Capitulo, si el agente y la víctima tuvieren parentesco ascendente o descendente consanguíneo en línea recta sin limitación de grado, pariente consanguíneo colateral hasta el cuarto grado, adoptante o adoptado, cónyuge, concubina o concubinario, pareja, ex pareja, con conocimiento de esa relación, a juicio de la autoridad judicial, se podrá decretar la suspensión o pérdida de los derechos de familia y hereditarios.
 
-### CAPÍTULO VIII. SUPRESIÓN DEL TIPO PENAL
+### CAPÍTULO VII. FEMINICIDIO
 
 ###### Artículo 155.
 
@@ -1291,9 +1431,13 @@ En el caso de la fracción II de este artículo, bastará con los dictámenes m�
 
 En los casos de las fracciones II y III del presente artículo, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
 
-### CAPÍTULO IX. EXISTENCIA DE UNA SENTENCIA ANTERIOR DICTADA EN PROCESO SEGUIDO POR LOS MISMOS HECHOS
+### CAPÍTULO I. VIOLACIÓN
 
-### CAPÍTULO I. HOMICIDIO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO II. ESTUPRO
 
 ###### Artículo 160.
 
@@ -1313,11 +1457,11 @@ VI. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
 
 El delito de feminicidio se sancionará conforme a lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-### CAPÍTULO II. LESIONES
+### CAPÍTULO III. ASEDIO SEXUAL
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA LIBERTAD Y EL NORMAL DESARROLLO PSICOSEXUAL
 
-### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
+### CAPÍTULO IV. ABUSO SEXUAL
 
 ###### Artículo 161.
 
@@ -1367,7 +1511,7 @@ VI. Sea cometido por agente que ejerciere autoridad sobre la víctima o se trate
 
 Si la violación fuere cometida con participación de dos o más personas, la prisión será de ocho a veinte años y la multa de veinte a doscientas veces el salario mínimo diario vigente en el Estado en el momento de la comisión del delito.
 
-### CAPÍTULO IV. OMISIÓN DE AUXILIO O DE CUIDADO
+### CAPÍTULO V. DISPOSICIÓN COMÚN
 
 ###### Artículo 164.
 
@@ -1385,7 +1529,7 @@ En caso de estupro, la acción penal se extinguirá si el sujeto activo y el pas
 
 Este delito se perseguirá por querella de parte.
 
-### CAPÍTULO V. AYUDA O INDUCCIÓN AL SUICIDIO
+### CAPÍTULO I. AMENAZAS
 
 ###### Artículo 167.
 
@@ -1399,7 +1543,7 @@ Si el asediador fuese servidor público y utilice los medios o circunstancias qu
 
 El delito previsto en este artículo será perseguido por querella de parte.
 
-### CAPÍTULO VI. ABORTO
+### CAPÍTULO II. ALLANAMIENTO DE MORADA O DE ESTABLECIMIENTO PÚBLICO O PRIVADO
 
 ###### Artículo 168.
 
@@ -1419,7 +1563,7 @@ IV.- Se hubiera administrado a la víctima alguna sustancia tóxica que afecte s
 
 Este delito se perseguirá por querella de parte.
 
-### CAPÍTULO VII. FEMINICIDIO
+### CAPÍTULO III. VIOLACIÓN A LA INTIMIDAD PERSONAL
 
 ###### Artículo 170.
 
@@ -1427,11 +1571,7 @@ En todos los casos del presente Título, además de la sanción señalada para c
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA PAZ Y LA SEGURIDAD SOCIAL
 
-### CAPÍTULO I. VIOLACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+### CAPÍTULO IV. TORTURA
 
 ###### Artículo 171.
 
@@ -1443,7 +1583,7 @@ En este caso, el delito será perseguible por querella de parte.
 
 Se impondrán de dos a cuatro años de prisión y multa de cien a trescientos días de salario a quien, por cualquier forma, ya sea escrita, oral, electrónica o medio de comunicación, informe a un servidor público o particular, a sabiendas de su falsedad, la existencia de explosivos, sustancias tóxicas, biológicas, incendiarias o de cualquier otro medio capaz de causar daños en instalaciones públicas o privadas, que produzcan alarma, temor o terror a las personas que se encuentren en su interior, perturben la paz pública o suspendan un servicio.
 
-### CAPÍTULO II. ESTUPRO
+### CAPÍTULO V. DESAPARICIÓN FORZADA DE PERSONAS
 
 ###### Artículo 173.
 
@@ -1453,7 +1593,13 @@ Se impondrán de dos a cuatro años de prisión y multa de veinte a ciento veint
 
 Las mismas sanciones del artículo anterior se impondrán al que, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la ley lo permite, se introduzca furtivamente o con engaño o violencia, o sin permiso de la persona autorizada para darlo, en algún establecimiento o espacio público o privado mientras se encuentre cerrado.
 
-### CAPÍTULO III. ASEDIO SEXUAL
+### CAPÍTULO VI. ASALTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+
+#### SECCIÓN PRIMERA. APREHENSIÓN ILEGAL
 
 ###### Artículo 175.
 
@@ -1467,7 +1613,11 @@ III. Utilice medios técnicos para escuchar u observar, transmitir, grabar o rep
 
 Este delito se perseguirá por querella de parte.
 
-### CAPÍTULO IV. ABUSO SEXUAL
+#### SECCIÓN SEGUNDA. RETARDO ILEGÍTIMO EN LA ENTREGA DE UN DETENIDO
+
+#### SECCIÓN TERCERA. EJERCICIO INDEBIDO DE LA FUNCIÓN INVESTIGADORA
+
+### CAPÍTULO ÚNICO. REVELACIÓN DE SECRETOS
 
 ###### Artículo 176.
 
@@ -1503,7 +1653,11 @@ Ninguna declaración que haya sido obtenida mediante tortura podrá invocarse co
 
 Se impondrá multa de doscientos a cuatrocientos días de salario al servidor público que conozca de un hecho de tortura y no lo denuncie de inmediato.
 
-### CAPÍTULO V. DISPOSICIÓN COMÚN
+### CAPÍTULO I. ROBO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 181.
 
@@ -1517,7 +1671,7 @@ Se impondrán dos terceras partes de la sanción, cuando el sujeto activo sumini
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
-### CAPÍTULO I. AMENAZAS
+### CAPÍTULO II. ABIGEATO
 
 ###### Artículo 181 Bis.
 
@@ -1537,7 +1691,7 @@ Si los salteadores atacaren una población, se aplicarán de veinte a treinta a�
 
 ## TÍTULO CUARTO. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO
 
-### CAPÍTULO II. ALLANAMIENTO DE MORADA O DE ESTABLECIMIENTO PÚBLICO O PRIVADO
+### CAPÍTULO III. ABUSO DE CONFIANZA
 
 ###### Artículo 182.
 
@@ -1551,7 +1705,7 @@ Se impondrán de dos a cuatro años de prisión y multa de ciento sesenta a dosc
 
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO III. VIOLACIÓN A LA INTIMIDAD PERSONAL
+### CAPÍTULO IV. FRAUDE
 
 ###### Artículo 184.
 
@@ -1667,7 +1821,7 @@ La sanción que conforme a este Código deba imponerse por la comisión del deli
 
 En todo caso de robo, la autoridad judicial podrá suspender al delincuente por un tiempo igual al de la sanción de prisión impuesta, en el ejercicio de los derechos de patria potestad, tutela, curatela, perito, depositario o interventor judicial, síndico o interventor en concursos o quiebras, asesor o representante de ausentes y en el ejercicio de cualquier profesión de las que exijan título.
 
-### CAPÍTULO IV. TORTURA
+### CAPÍTULO V. USURA
 
 ###### Artículo 196.
 
@@ -1715,13 +1869,9 @@ Si el apoderamiento a que se refiere este Capítulo se verifica con violencia, o
 
 Siempre serán considerados como instrumentos del delito de abigeato las cabalgaduras de que se sirvan los abigeos para arrear el ganado y los vehículos en que se realice el transporte de ganado o sus productos o de colonias de abejas o sus productos, así como los demás objetos que sirvan para su comisión.
 
-### CAPÍTULO V. DESAPARICIÓN FORZADA DE PERSONAS
+### CAPÍTULO VI. EXTORSIÓN
 
-### CAPÍTULO VI. ASALTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+### CAPÍTULO VII. DESPOJO
 
 ###### Artículo 204.
 
@@ -1753,7 +1903,7 @@ IV. Al que reciba mercancía con subsidio o franquicia para darles un destino de
 
 V. Al gerente, directivo, administrador, mandatario o intermediario de personas morales, o constructor o vendedor que reciba dinero, títulos o valores por el importe total o parcial del precio de alguna compraventa de inmuebles o para constituir un gravamen real sobre éstos y no los destine en todo o en parte al objeto de la operación concertada y disponga de ellos en provecho propio o de tercero.
 
-### CAPÍTULO ÚNICO. REVELACIÓN DE SECRETOS
+### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
 
 ###### Artículo 206.
 
@@ -1807,11 +1957,11 @@ XIII. Con ánimo de lucro, por sí o por interpósita persona, cause perjuicio a
 
 XIV. Alcance un lucro indebido para sí o para otro valiéndose de alguna manipulación informática, alteración de programas sistematizados, o del empleo no autorizado de datos, o engaño semejante.
 
-### CAPÍTULO I. ROBO
+### CAPÍTULO IX. ENCUBRIMIENTO POR RECEPTACIÓN
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 208.
 
@@ -1821,7 +1971,7 @@ Se considerarán ganancias notoriamente superiores a las usuales en el mercado, 
 
 Este delito será perseguido por querella de parte.
 
-### CAPÍTULO II. ABIGEATO
+### CAPÍTULO I. DELITOS CONTRA EL ESTADO CIVIL
 
 ###### Artículo 209.
 
@@ -1843,7 +1993,11 @@ V. Se cometa por servidor público o exservidor público o por miembro o exmiemb
 
 VI. Si es cometido en contra de un menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años.
 
-### CAPÍTULO III. ABUSO DE CONFIANZA
+### CAPÍTULO II. DELITOS QUE ATENTAN CONTRA El CUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 211.
 
@@ -1899,7 +2053,7 @@ Cuando el despojo se realice por grupo o grupos de tres o más personas, a los i
 
 Artículo 214 ter.- Estos delitos se perseguirán por querella, salvo el caso previsto en el artículo anterior en que se procederá de oficio.
 
-### CAPÍTULO IV. FRAUDE
+### CAPÍTULO III. VIOLENCIA FAMILIAR
 
 ###### Artículo 215.
 
@@ -1929,7 +2083,7 @@ Si además de los daños directos resulta consumado algún otro ilícito, se apl
 
 Los delitos previstos en el presente Capítulo serán perseguidos por querella de parte, salvo que los delitos se cometan mediante incendio, inundación o explosión.
 
-### CAPÍTULO V. USURA
+### CAPÍTULO IV. SUSTRACCIÓN DE MENORES O INCAPACES
 
 ###### Artículo 218.
 
@@ -1971,11 +2125,11 @@ Se aumentará hasta en una mitad la sanción de prisión impuesta, si quien come
 
 Se aplicará la mitad de las sanciones que correspondan a quien de acuerdo con las circunstancias en que adquiera o reciba, debió suponer la procedencia ilegítima de los vehículos.
 
-### CAPÍTULO VI. EXTORSIÓN
+### CAPÍTULO I. DELITOS CONTRA EL SERVICIO PÚBLICO DE COMUNICACIÓN
 
 ## TÍTULO SEXTO. DELITOS CONTRA LA FAMILIA
 
-### CAPÍTULO VII. DESPOJO
+### CAPÍTULO II. SUPRESIÓN DE DISPOSITIVOS O DE SEÑALES DE SEGURIDAD
 
 ###### Artículo 220.
 
@@ -2001,7 +2155,7 @@ En el caso a que se refiere la fracción I de este artículo, la autoridad judic
 
 Este delito se perseguirá por querella de parte.
 
-### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
+### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
 
 ###### Artículo 221.
 
@@ -2035,11 +2189,7 @@ La misma pena se aplicará a aquellas personas que, estando obligadas a informar
 
 Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en desacato de una resolución judicial, las sanciones se incrementarán en una mitad.
 
-### CAPÍTULO IX. ENCUBRIMIENTO POR RECEPTACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+### CAPÍTULO I. FALSIFICACIÓN DE TÍTULOS O DOCUMENTOS DE CRÉDITO PÚBLICO
 
 ###### Artículo 224.
 
@@ -2053,7 +2203,7 @@ La educación o formación del menor de edad o incapaz no será, en ningún caso
 
 En cualquier momento, el ministerio público podrá solicitar a la autoridad judicial la aplicación de medidas de protección para la víctima, conforme a la legislación correspondiente, y la autoridad judicial resolverá sin dilación.
 
-### CAPÍTULO I. DELITOS CONTRA EL ESTADO CIVIL
+### CAPÍTULO II. FALSIFICACIÓN Y USO DE SELLOS, MARCAS, LLAVES Y OTROS
 
 ###### Artículo 226.
 
@@ -2071,11 +2221,7 @@ Se impondrán de dos meses a dos años de prisión y multa de ochenta a ciento c
 
 ## TÍTULO SÉPTIMO. DELITOS CONTRA LA SEGURIDAD DE LA COMUNICACIÓN
 
-### CAPÍTULO II. DELITOS QUE ATENTAN CONTRA El CUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+### CAPÍTULO III. FALSIFICACIÓN O ALTERACIÓN DE DOCUMENTOS PÚBLICOS O PRIVADOS
 
 ###### Artículo 228.
 
@@ -2117,13 +2263,13 @@ Al que, cuando emplee explosivos o materias incendiarias, destruya total o parci
 
 Al que para la comisión de un delito utilice o permita que se utilicen, con conocimiento de causa, instalaciones o medios de comunicación o de transporte públicos, que sean de su propiedad o que tenga bajo su cuidado, se le impondrán de dos a cuatro años de prisión y multa de ciento veinte a ciento sesenta días de salario.
 
-### CAPÍTULO III. VIOLENCIA FAMILIAR
+### CAPÍTULO IV. USO INDEBIDO DE DOCUMENTOS
 
 ###### Artículo 234.
 
 Se impondrán de doce a setenta y dos jornadas de trabajo a favor de la comunidad y multa de veinte a ciento cincuenta días de salario, a quien destruya, inutilice, quite o modifique, dolosamente, dispositivos o señales para el control de tránsito en las vías públicas.
 
-### CAPÍTULO IV. SUSTRACCIÓN DE MENORES O INCAPACES
+### CAPÍTULO V. DISPOSICIONES COMUNES
 
 ###### Artículo 235.
 
@@ -2135,7 +2281,7 @@ Este delito se perseguirá por querella.
 
 ## TÍTULO OCTAVO. DELITOS CONTRA LA FE PÚBLICA Y LA AUTENTICIDAD DOCUMENTAL
 
-### CAPÍTULO I. DELITOS CONTRA EL SERVICIO PÚBLICO DE COMUNICACIÓN
+### CAPÍTULO I. DELITOS DE ODIO
 
 ###### Artículo 236.
 
@@ -2145,7 +2291,7 @@ I. Falsifique o altere acciones, obligaciones u otros documentos de crédito pú
 
 II. Introduzca al territorio del Estado o ponga en circulación los documentos mencionados en la fracción anterior, a sabiendas de su falsedad o alteración.
 
-### CAPÍTULO II. SUPRESIÓN DE DISPOSITIVOS O DE SEÑALES DE SEGURIDAD
+### CAPÍTULO II. CALUMNIA
 
 ###### Artículo 237.
 
@@ -2165,7 +2311,7 @@ V. Use o enajene los objetos falsificados o alterados señalados en las fraccion
 
 Cuando las conductas descritas en el artículo anterior se cometan en perjuicio de un particular, se impondrán de seis meses a cuatro años de prisión y multa de cien a doscientos cincuenta días de salario.
 
-### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
+### CAPÍTULO I. CORRUPCIÓN DE MENORES O INCAPACES
 
 ###### Artículo 239.
 
@@ -2201,15 +2347,15 @@ XI. En su calidad de médico, falsamente haga constar en un documento que una pe
 
 Se incrementará en una mitad la sanción prevista en el artículo 239, cuando la falsificación sirva como medio para la comisión de otros delitos.
 
-### CAPÍTULO I. FALSIFICACIÓN DE TÍTULOS O DOCUMENTOS DE CRÉDITO PÚBLICO
+### CAPÍTULO II. PORNOGRAFÍA CON PERSONAS MENORES DE EDAD O QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
 ###### Artículo 242.
 
 Se impondrán de tres meses a tres años de prisión y multa de cincuenta a ciento cincuenta días de salario al que haga uso de un documento falso o alterado, o use indebidamente un documento verdadero expedido a favor de otro, como si hubiere sido expedido legalmente a su nombre.
 
-### CAPÍTULO II. FALSIFICACIÓN Y USO DE SELLOS, MARCAS, LLAVES Y OTROS
+### CAPÍTULO III. LENOCINIO
 
-### CAPÍTULO III. FALSIFICACIÓN O ALTERACIÓN DE DOCUMENTOS PÚBLICOS O PRIVADOS
+### CAPÍTULO IV. DISPOSICIONES COMUNES
 
 ###### Artículo 243.
 
@@ -2217,7 +2363,7 @@ Cuando alguno de los delitos previstos en este Título sea cometido por un servi
 
 ## TÍTULO NOVENO. DELITOS CONTRA LA DIGNIDAD Y EL HONOR DE LAS PERSONAS
 
-### CAPÍTULO IV. USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO ÚNICO. DELITOS CONTRA LAS NORMAS DE INHUMACIÓN Y EXHUMACIÓN DE CADÁVERES Y RESTOS HUMANOS
 
 ###### Artículo 244.
 
@@ -2259,7 +2405,7 @@ Cuando alguno de los delitos previstos en este capítulo sea cometido por un ser
 
 Los delitos contenidos en este capítulo se perseguirán por querella, excepto el tipo penal establecido en el artículo 246 que se perseguirá de oficio.
 
-### CAPÍTULO V. DISPOSICIONES COMUNES
+### CAPÍTULO ÚNICO. PORTACIÓN Y FABRICACIÓN DE ARMAS PROHIBIDAS
 
 ###### Artículo 249.
 
@@ -2271,7 +2417,7 @@ Si el responsable del delito recibió o le prometieron alguna recompensa o dádi
 
 ## TÍTULO DÉCIMO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
-### CAPÍTULO I. DELITOS DE ODIO
+### CAPÍTULO I. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
 ###### Artículo 250.
 
@@ -2325,7 +2471,7 @@ Las sanciones establecidas en los artículos anteriores se aumentarán en una mi
 
 No se actualizarán los delitos de este Capítulo cuando se trate de programas educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, particulares en el ejercicio profesional, ascendientes en línea recta sin límite de grado, tutores, o quienes ejerzan la patria potestad, siempre que tengan por objeto la educación sexual, la educación sobre la función reproductiva, la prevención de infecciones de transmisión sexual y el embarazo no deseado de adolescentes.
 
-### CAPÍTULO II. CALUMNIA
+### CAPÍTULO II. REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACIÓN
 
 ###### Artículo 260.
 
@@ -2343,15 +2489,15 @@ A quien financie, dirija, administre o supervise cualquiera de las actividades p
 
 A quien ofrezca, posea o almacene intencionalmente sin fines de comercialización, el material a que se refieren las fracciones I y II del artículo 260 de este Código, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, se le impondrán de uno a cinco años de prisión y multa de doscientos a quinientos días de salario.
 
-### CAPÍTULO I. CORRUPCIÓN DE MENORES O INCAPACES
+### CAPÍTULO III. USURPACIÓN DE PROFESIÓN
 
 ###### Artículo 263.
 
 A quien obtenga una ventaja financiera u otro beneficio procedente de los servicios sexuales de otra persona, con consentimiento de ésta, sin que medie engaño, violencia física o moral, abuso de poder, aprovechamiento de una situación de vulnerabilidad, daño grave o amenaza de daño grave, amenaza de denunciarle ante autoridades respecto de su situación migratoria en el país o cualquier otro abuso de la utilización de ley o de procedimientos legales que provoque que el sujeto pasivo se someta a las exigencias del activo, o se trate de personas menores de edad o personas que no tienen capacidad para comprender el significado del hecho, se le impondrán de dos a siete años de prisión y multa de quinientos a mil días de salario.
 
-### CAPÍTULO II. PORNOGRAFÍA CON PERSONAS MENORES DE EDAD O QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+### CAPÍTULO I. PROVOCACIÓN A LA COMISIÓN DE UN DELITO O APOLOGÍA DEL DELITO
 
-### CAPÍTULO III. LENOCINIO
+### CAPÍTULO II. PANDILLA Y ASOCIACIÓN DELICTUOSA
 
 ###### Artículo 264.
 
@@ -2367,7 +2513,7 @@ En todos los casos del presente Título, además de la sanción señalada para c
 
 ## TÍTULO DÉCIMO PRIMERO. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES
+### CAPÍTULO III. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### Artículo 267.
 
@@ -2401,7 +2547,7 @@ En todos los casos de este Capítulo, si el hecho punible derivara en la ejecuci
 
 ## TÍTULO DÉCIMO SEGUNDO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO ÚNICO. DELITOS CONTRA LAS NORMAS DE INHUMACIÓN Y EXHUMACIÓN DE CADÁVERES Y RESTOS HUMANOS
+### CAPÍTULO I. EJERCICIO INDEBIDO O ABANDONO DE SERVICIO PÚBLICO
 
 ###### Artículo 272.
 
@@ -2423,7 +2569,7 @@ Se impondrán de uno a cuatro años de prisión, multa de doscientos a cuatrocie
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS CONTRA LA PRESTACIÓN ADECUADA DEL SERVICIO PROFESIONAL
 
-### CAPÍTULO ÚNICO. PORTACIÓN Y FABRICACIÓN DE ARMAS PROHIBIDAS
+### CAPÍTULO II. ABUSO DE AUTORIDAD
 
 ###### Artículo 274.
 
@@ -2451,7 +2597,7 @@ En caso de reincidencia se impondrá sanción de inhabilitación de cargo, comis
 
 Para efectos del presente Capítulo, si con motivo de los hechos punibles se produjeran otros ilícitos, se aplicarán las reglas del concurso de delitos.
 
-### CAPÍTULO I. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
+### CAPÍTULO III. COALICIÓN
 
 ###### Artículo 278.
 
@@ -2463,7 +2609,7 @@ II. Retener sin motivo justificado a un recién nacido;
 
 III. Retardar o negar la entrega de un cadáver, excepto cuando se requiera orden de autoridad competente.
 
-### CAPÍTULO II. REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACIÓN
+### CAPÍTULO IV. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
 
 ###### Artículo 279.
 
@@ -2481,7 +2627,7 @@ V. Con objeto de lucrar, se una a profesionales legalmente autorizados con fines
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA LA SEGURIDAD DE LOS BIENES JURÍDICOS
 
-### CAPÍTULO III. USURPACIÓN DE PROFESIÓN
+### CAPÍTULO V. CONCUSIÓN
 
 ###### Artículo 280.
 
@@ -2489,7 +2635,7 @@ Se impondrán de veinticuatro a ciento cuarenta y cuatro jornadas de trabajo a f
 
 Para los efectos de este Capítulo, se entiende por provocación cuando directamente se incita por cualquier medio que facilite la publicidad, o ante una concurrencia de personas, a la comisión de un delito. Se entiende por apología la exposición ante una concurrencia de personas o por cualquier medio que facilite la publicidad, de ideas o doctrinas que ensalcen el crimen o enaltezcan a su autor. La apología sólo será delictiva como forma de provocación y si por su naturaleza y circunstancias constituye una incitación directa a cometer un delito.
 
-### CAPÍTULO I. PROVOCACIÓN A LA COMISIÓN DE UN DELITO O APOLOGÍA DEL DELITO
+### CAPÍTULO VI. INTIMIDACIÓN
 
 ###### Artículo 281.
 
@@ -2511,7 +2657,7 @@ II. Cuando la asociación o alguno de sus miembros, utilice a menores de edad o 
 
 En todos los casos de este Capítulo, se aplicará el decomiso, en beneficio del Instituto de Acceso a la Justicia del Estado de Campeche, de aquellos bienes cuya procedencia lícita no se logre acreditar de acuerdo con lo dispuesto en la legislación correspondiente.
 
-### CAPÍTULO II. PANDILLA Y ASOCIACIÓN DELICTUOSA
+### CAPÍTULO VII. COHECHO
 
 ###### Artículo 284.
 
@@ -2521,7 +2667,7 @@ Este delito se perseguirá por querella.
 
 ## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL ERARIO Y EL SERVICIO PÚBLICOS
 
-### CAPÍTULO III. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPÍTULO VIII. PECULADO
 
 ###### Artículo 285.
 
@@ -2561,7 +2707,7 @@ Las sanciones se aumentarán en una mitad a quien otorgue cualquier identificaci
 
 Las mismas sanciones se impondrán a quien acepte la identificación.
 
-### CAPÍTULO I. EJERCICIO INDEBIDO O ABANDONO DE SERVICIO PÚBLICO
+### CAPÍTULO IX. ENRIQUECIMIENTO ILÍCITO
 
 ###### Artículo 289.
 
@@ -2595,17 +2741,17 @@ Al que incurra en alguna de las conductas previstas en las fracciones II, IV y V
 
 Al que incurra en alguna de las conductas previstas en las demás fracciones, se le impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución o suspensión para desempeñar empleo, cargo o comisión públicos por un término igual al de la sanción de prisión.
 
-### CAPÍTULO II. ABUSO DE AUTORIDAD
+### CAPÍTULO I. DELITOS COMETIDOS POR LA AUTORIDAD INVESTIGADORA
 
-### CAPÍTULO III. COALICIÓN
+### CAPÍTULO II. DELITOS COMETIDOS POR LOS JUECES
 
-### CAPÍTULO IV. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
+### CAPÍTULO III. DENEGACIÓN DE JUSTICIA
 
 ###### Artículo 290.
 
 Se le impondrán de dos a siete años de prisión, multa de doscientos a quinientos días de salario, destitución y suspensión para desempeñar empleo, cargo o comisión públicos por igual término, a los servidores públicos que se coaliguen para tomar medidas contrarias a una ley, reglamento o disposición de carácter general, para evitar su ejecución, o impedir o suspender las funciones legislativas, administrativas o jurisdiccionales.
 
-### CAPÍTULO V. CONCUSIÓN
+### CAPÍTULO IV. DELITOS COMETIDOS POR SERVIDORES PÚBLICOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### Artículo 291.
 
@@ -2641,11 +2787,11 @@ C. Cuando se trate de las hipótesis contenidas en el inciso e) de la fracción 
 
 D. Cuando se trate de las hipótesis contenidas en el inciso f) de la fracción I del presente artículo, se impondrá al servidor público de tres a nueve años de prisión y multa de mil a cinco mil días de salario mínimo, independientemente de que su conducta pueda incurrir en responsabilidad administrativa.
 
-### CAPÍTULO VI. INTIMIDACIÓN
+### CAPÍTULO I. OBSTRUCCIÓN DE LA JUSTICIA
 
-### CAPÍTULO VII. COHECHO
+### CAPÍTULO II. EVASIÓN DE PRESOS, DETENIDOS O RETENIDOS
 
-### CAPÍTULO VIII. PECULADO
+### CAPÍTULO III. QUEBRANTAMIENTO DE SANCIONES
 
 ###### Artículo 292.
 
@@ -2655,7 +2801,7 @@ I. Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equiv
 
 II. Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos salarios mínimos, de tres a nueve años de prisión, multa de cuatrocientos a novecientos días de salario, destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos.
 
-### CAPÍTULO IX. ENRIQUECIMIENTO ILÍCITO
+### CAPÍTULO IV. REVELACIÓN DE INFORMACIÓN SOBRE SUJETOS EN SITUACIÓN DE RIESGO
 
 ###### Artículo 293.
 
@@ -2665,9 +2811,9 @@ I. Por sí, o por interpósita persona, utilice violencia física o psicológica
 
 II. Por sí, o por interpósita persona, ejerza represalia contra persona que ha formulado denuncia o querella o aportado información o pruebas sobre la presunta comisión de un delito o sobre el presunto incumplimiento de algún servidor público en una conducta sancionada por la legislación penal o por la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, o ejerza cualquier represalia contra persona ligada por vínculo afectivo o de negocios con el denunciante, querellante o informante.
 
-### CAPÍTULO I. DELITOS COMETIDOS POR LA AUTORIDAD INVESTIGADORA
+### CAPÍTULO V. DELITOS DE ABOGADOS, DEFENSORES O LITIGANTES
 
-### CAPÍTULO II. DELITOS COMETIDOS POR LOS JUECES
+### CAPÍTULO I. FRAUDE PROCESAL
 
 ###### Artículo 294.
 
@@ -2685,7 +2831,7 @@ Al particular que cometa delito de cohecho se le impondrán de tres meses a dos 
 
 En ningún caso se devolverá el dinero o dádivas entregadas, las que se destinarán al Instituto de Acceso a la Justicia del Estado de Campeche.
 
-### CAPÍTULO III. DENEGACIÓN DE JUSTICIA
+### CAPÍTULO II. FALSEDAD ANTE AUTORIDAD
 
 ###### Artículo 295.
 
@@ -2709,7 +2855,7 @@ Al particular que solicite o acepte realizar la promoción de la imagen polític
 
 Se impondrán las sanciones establecidas en el artículo 296, en lo que corresponda, al particular que obligado legalmente a la custodia, administración o aplicación de recursos públicos estatales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
-### CAPÍTULO IV. DELITOS COMETIDOS POR SERVIDORES PÚBLICOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
+### CAPÍTULO III. VARIACIÓN DEL NOMBRE O DOMICILIO
 
 ###### Artículo 300.
 
@@ -2731,15 +2877,19 @@ En ambos casos, en términos del artículo 109 de la Constitución Política de 
 
 Se le impondrá un tercio de las sanciones señaladas en el artículo anterior al particular que haga figurar como suyos bienes que un servidor público adquiera o haya adquirido en contravención de lo dispuesto en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado.
 
-### CAPÍTULO I. OBSTRUCCIÓN DE LA JUSTICIA
+### CAPÍTULO I. IMPOSICIÓN FORZADA DE UN ACTO ILEGAL
 
 ## TÍTULO DÉCIMO SEXTO. DELITOS COMETIDOS POR SERVIDORES PÚBLICOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO II. EVASIÓN DE PRESOS, DETENIDOS O RETENIDOS
+### CAPÍTULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+
+#### SECCIÓN CUARTA. INCUMPLIMIENTO DE UNA MEDIDA DE PROTECCIÓN
 
 ###### Artículo 303.
 
 Se impondrán de dos a seis años de prisión, multa de doscientos a cuatrocientos cincuenta días de salario, destitución y suspensión por igual término para desempeñar empleo, cargo o comisión públicos, al servidor público que, sin orden de aprehensión librada por la autoridad judicial competente, detenga a una persona, fuera de los casos de delito flagrante o urgencia, en términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+#### SECCIÓN PRIMERA. PREVARICACIÓN
 
 ###### Artículo 304.
 
@@ -2750,6 +2900,8 @@ Se impondrán de uno a cinco años de prisión, multa de ciento cincuenta a dosc
 Al agente ministerial que reciba a un detenido en flagrante delito por un particular o por otro servidor público y no lo ponga a disposición de la autoridad judicial competente dentro del término de las cuarenta y ocho horas siguientes al momento en que dicho detenido le fue entregado, se le impondrán de uno a cuatro años de prisión, multa de trescientos a quinientos días de salario y suspensión por igual término para desempeñar empleo, cargo o comisión públicos. En caso de reincidencia, procederá la destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos.
 
 La misma sanción será impuesta al policía ministerial o de seguridad pública que, al realizar la detención de un inculpado en los casos de delito flagrante o casos urgentes, no ponga injustificadamente al detenido a disposición de la autoridad competente sin dilación alguna.
+
+#### SECCIÓN SEGUNDA. EJERCICIO INDEBIDO DE LA FUNCIÓN JUDICIAL
 
 ###### Artículo 306.
 
@@ -2781,7 +2933,7 @@ En los casos establecidos en el artículo anterior, se impondrá al responsable 
 
 El agente del ministerio público a quien corresponda acatar la medida de protección dictada por autoridad judicial a favor de los sujetos en situación de riesgo, que no le diere cabal cumplimiento en los términos y condiciones establecidos en la legislación en la materia, se le impondrán multa de cien a quinientos días de salario y suspensión de hasta un año en el desempeño del empleo, cargo o comisión.
 
-### CAPÍTULO III. QUEBRANTAMIENTO DE SANCIONES
+### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
 
 ###### Artículo 309.
 
@@ -2831,7 +2983,7 @@ IV. Prolongue injustificadamente la prisión preventiva, sin sentencia definitiv
 
 V. No otorgue la libertad provisional legalmente procedente, cuando ésta haya sido solicitada.
 
-### CAPÍTULO IV. REVELACIÓN DE INFORMACIÓN SOBRE SUJETOS EN SITUACIÓN DE RIESGO
+### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
 
 ###### Artículo 312.
 
@@ -2845,7 +2997,7 @@ III. Retarde o entorpezca la administración de justicia;
 
 IV. Bajo el pretexto de oscuridad o silencio de la ley o cualquier otro, se niegue injustificadamente a despachar, dentro del plazo legal, un negocio pendiente ante él.
 
-### CAPÍTULO V. DELITOS DE ABOGADOS, DEFENSORES O LITIGANTES
+### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
 
 ###### Artículo 313.
 
@@ -2859,11 +3011,11 @@ Se impondrán de uno a cuatro años de prisión, multa de ciento cincuenta a tre
 
 Se impondrán de dos a cinco años de prisión, multa de ciento cincuenta a trescientos días de salario, destitución y suspensión por igual término para desempeñar empleo, cargo o comisión públicos, al servidor público que no cumpla con las disposiciones constitucionales y demás leyes, referentes a la inmunidad constitucional de los servidores públicos.
 
-### CAPÍTULO I. FRAUDE PROCESAL
+### CAPÍTULO I. USO INDEBIDO DE CONDECORACIONES O UNIFORMES
 
 ## TÍTULO DÉCIMO SÉPTIMO. DELITOS CONTRA LA ADMINISTRACIÓN DE LA JUSTICIA
 
-### CAPÍTULO II. FALSEDAD ANTE AUTORIDAD
+### CAPÍTULO II. ULTRAJE O USO INDEBIDO DE INSIGNIAS PÚBLICAS
 
 ###### Artículo 316.
 
@@ -2907,7 +3059,7 @@ Al que, sin ser parte en un procedimiento judicial, influya, por cualquier medio
 
 Las sanciones a que se refiere el artículo anterior se aumentarán en una mitad cuando se trate de un servidor público que tenga un interés personal sobre el caso y utilice los medios derivados de su cargo, en ejercicio de sus funciones. En este caso, procederá la destitución del empleo, cargo o comisión y, en su caso, suspensión por un término igual al de la sanción de prisión.
 
-### CAPÍTULO III. VARIACIÓN DEL NOMBRE O DOMICILIO
+### CAPÍTULO ÚNICO. PRIVACIÓN ILEGAL DE LA LIBERTAD
 
 ###### Artículo 322.
 
@@ -2933,7 +3085,7 @@ II. Siendo servidor público, indebidamente ponga en libertad o favorezca la eva
 
 Si la reaprehensión del prófugo se lograre por gestión del responsable de la evasión, se impondrán a éste un tercio de las sanciones que correspondan al delito cometido.
 
-### CAPÍTULO I. IMPOSICIÓN FORZADA DE UN ACTO ILEGAL
+### CAPÍTULO I. RIESGOS PARA LA SALUD
 
 ###### Artículo 327.
 
@@ -2955,13 +3107,13 @@ II. A quien se le hubiere prohibido ir a determinado lugar o a residir en él y 
 
 Al que esté suspendido o inhabilitado para ejercer su empleo, cargo, comisión, profesión u oficio, y quebrante su condena, se le impondrá multa de doscientos a cuatrocientos días de salario.
 
-### CAPÍTULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPÍTULO II. PELIGRO DE CONTAGIO Y PROPAGACION DE ENFERMEDADES
 
 ###### Artículo 331.
 
 Con independencia de las responsabilidades civiles y administrativas que pudieren corresponder, al que revele información relacionada con las medidas de protección acordadas para algún sujeto en situación de riesgo, y comprometa con ello la vida, la integridad corporal o la seguridad de la persona protegida, se le impondrán de uno a tres años de prisión y multa de cien a doscientos cincuenta días de salario. En caso de tratarse de un servidor público, la sanción se incrementará en una tercera parte, y se impondrá destitución del cargo e inhabilitación para ejercer empleo, cargo o comisión por un tiempo igual al de la sanción de prisión.
 
-### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
+### CAPÍTULO III. ALTERACIÓN Y DAÑOS AL AMBIENTE
 
 ###### Artículo 332.
 
@@ -2987,13 +3139,13 @@ Si el responsable de los delitos previstos en este Capítulo fuere defensor part
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA VERACIDAD NECESARIA PARA LA ADECUADA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 334.
 
 Al que sin ser abogado, defensor o litigante, simule un acto jurídico o escrito judicial, altere algún elemento de prueba o realice cualquier otro acto tendiente a inducir a error a la autoridad para obtener una resolución judicial o administrativa de la que derive algún perjuicio o beneficio indebido, se le impondrá de seis meses a cuatro años de prisión y multa de cien a quinientos días de salario.
 
-### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
+### CAPÍTULO I. REBELIÓN
 
 ###### Artículo 335.
 
@@ -3003,7 +3155,7 @@ Al que rinda protesta, ante cualquier autoridad, de que en sus declaraciones se 
 
 Si antes de la resolución correspondiente, la persona se retracta espontáneamente de sus declaraciones falsas, se reducirán en un tercio las sanciones previstas en el artículo anterior.
 
-### CAPÍTULO I. USO INDEBIDO DE CONDECORACIONES O UNIFORMES
+### CAPÍTULO II. SABOTAJE
 
 ###### Artículo 337.
 
@@ -3011,7 +3163,7 @@ Se impondrá de tres meses a un año de prisión, o de cincuenta a ciento veinte
 
 ## TÍTULO DÉCIMO NOVENO. DELITOS CONTRA EL EJERCICIO LEGÍTIMO DE LA AUTORIDAD
 
-### CAPÍTULO II. ULTRAJE O USO INDEBIDO DE INSIGNIAS PÚBLICAS
+### CAPÍTULO III. MOTÍN
 
 ###### Artículo 338.
 
@@ -3019,7 +3171,9 @@ Se impondrán de uno a cuatro años de prisión y multa de ochenta a ciento sese
 
 Cuando el delito se cometiere por grupo o grupos de tres o más personas, a los instigadores, dirigentes o autores intelectuales se les aumentará en una mitad las sanciones señaladas en el párrafo anterior.
 
-### CAPÍTULO ÚNICO. PRIVACIÓN ILEGAL DE LA LIBERTAD
+### CAPÍTULO I. NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS Y DELITOS ELECTORALES
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 339.
 
@@ -3037,7 +3191,7 @@ El que cuando esté obligado a declarar ante la autoridad u otorgar la protesta 
 
 Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares se producirá en el momento en que se agote el empleo de tales medidas de apremio.
 
-### CAPÍTULO I. RIESGOS PARA LA SALUD
+### CAPÍTULO II. PROTECCIÓN CIVIL
 
 ###### Artículo 343.
 
@@ -3191,155 +3345,51 @@ I. La realización de las acciones necesarias para restablecer las condiciones d
 
 II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2014)</small>
+
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS EN MATERIA ELECTORAL
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 363.
 
-Para los efectos de este Título se entiende por:
-
-I. Servidor público, las personas mencionadas en el artículo 89 de la Constitución Política del Estado de Campeche;
-
-II. Funcionario electoral, quien, en los términos de la legislación electoral local, integre los órganos que cumplen funciones electorales;
-
-III. Funcionario partidista, al dirigente de algún partido político, sus candidatos o los ciudadanos a quienes se les otorgue representación en los procesos electorales;
-
-IV. Candidato, el ciudadano registrado formalmente como tal por la autoridad competente;
-
-V. Documentos públicos electorales, las actas oficiales de la jornada electoral y, en general, los documentos expedidos en el ejercicio de sus funciones por los funcionarios del Instituto Electoral del Estado;
-
-VI. Material electoral, los elementos físicos, tales como urnas o elementos modulares para la emisión del voto, marcadoras de credencial, tinta indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ###### Artículo 364.
 
-Se impondrán de dos meses a un año de prisión y multa de cincuenta a doscientos cincuenta días de salario, a quien:
-
-I. Realice actos de propaganda política a favor de cualquier partido o candidato dentro de los tres días anteriores al de la jornada electoral y en la propia jornada;
-
-II. Impida de cualquier manera la instalación, funcionamiento o cierre de alguna casilla electoral;
-
-III. Destruya o altere boletas o documentos electorales fuera de los casos permitidos por la ley;
-
-IV. Vote cuando esté impedido por la ley;
-
-V. Vote más de una vez o suplante a otro elector;
-
-VI. Organice personalmente reuniones de cualquier tipo el día de la elección con el propósito deliberado e inequívoco de trasladar electores a votar unánimemente por un determinado candidato o partido político;
-
-VII. Obligue a votar por determinado partido o candidato a las personas que se encuentren bajo su autoridad o dependencia económica;
-
-VIII. Induzca a otro a votar por determinado partido o candidato, mediante paga, dádiva, promesa de dinero u otra recompensa, o presión intimidatoria de causarle un daño a su persona, patrimonio o familia;
-
-IX. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que, mediante amenaza o promesa de paga o dádiva, comprometa su voto a favor de un determinado partido político, coalición o candidato;
-
-X. Introduzca en, o sustraiga de, las urnas, ilícitamente, una o más boletas electorales;
-
-XI. Recoja, sin causa prevista por la ley, credenciales de elector de los ciudadanos;
-
-XII. Viole de cualquier manera el secreto del voto;
-
-XIII. Destruya materiales electorales;
-
-XIV. Impida de cualquier forma el traslado o entrega de los documentos públicos electorales o entrega a los órganos correspondientes;
-
-XV. Publique o difunda los resultados de encuestas o sondeos de opinión que dé a conocer las preferencias de los ciudadanos, durante los quince días previos a la elección y hasta la hora oficial del cierre de casillas;
-
-XVI. Acuse sin prueba o denuncie injustificadamente por los delitos que prevé este Título a otro ciudadano, a cualquier funcionario electoral, servidor público o funcionario partidista.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ###### Artículo 365.
 
-Se impondrán de uno a cuatro años de prisión y multa de ciento veinte a trescientos días de salario al funcionario electoral que en el ejercicio de sus funciones:
-
-I. Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos relativos al Registro de Electores;
-
-II. Se abstenga de cumplir, sin causa justificada, con las obligaciones propias de su cargo, en perjuicio del proceso electoral;
-
-III. Se niegue, injustificadamente, a reconocer la personalidad de los funcionarios partidistas;
-
-IV. No entregue o impida la entrega oportuna de documentos públicos electorales o materiales electorales, sin mediar causa justificada;
-
-V. Instale, abra o cierre una casilla fuera de los tiempos y formas previstos por el Código Electoral del Estado, o sin causa justificada, la instale en lugar distinto al legalmente señalado o impida su instalación;
-
-VI. Se niegue sin causa justificada a admitir el voto de los electores que tengan derecho a sufragar;
-
-VII. Altere los resultados electorales, sustraiga o destruya indebidamente la documentación electoral;
-
-VIII. Obstruya el desarrollo normal de la jornada electoral;
-
-IX. Ejerza presión sobre los electores y los obligue a votar por un determinado candidato o partido político o a abstenerse de emitir sufragio;
-
-X. Expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coalición o coarte los derechos que la ley les concede;
-
-XI. Se niegue expresamente sin causa justa a recibir algún recurso previsto en la ley;
-
-XII. Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales;
-
-XIII. Propale de manera pública noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ###### Artículo 366.
 
-Se impondrán de uno a cinco años de prisión, multa de cien a quinientos días de salario, destitución e inhabilitación por igual término para desempeñar empleo, cargo o comisión públicos, al servidor público que:
-
-I. Impida u obstaculice la reunión de una asamblea o manifestación pública, o cualquier acto legal de propaganda política;
-
-II. Proporcione apoyo a través de sus subordinados y utilice el tiempo correspondiente a sus labores para que éstos presten servicio a un partido político o candidato, o destine para éstos, fondos, bienes, equipos o servicios que tenga a su disposición en virtud de su cargo. Si con motivo de los hechos se cometieren otros ilícitos, se aplicarán las reglas del concurso de delitos;
-
-III. Impida a sus subordinados cumplir con las funciones electorales que le han sido encomendadas;
-
-IV. Intimide expresamente a sus subordinados para votar, o abstenerse de hacerlo, respecto a algún candidato o partido determinado;
-
-V. Condicione la prestación de un servicio público o el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio en favor de algún partido político o candidato;
-
-VI. Se niegue a prestar el servicio público al que está obligado, conforme al Código Electoral del Estado;
-
-VII. Realice funciones electorales que legalmente no le hayan sido encomendadas;
-
-VIII. Prive de la libertad a los candidatos o a los representantes de partidos políticos y pretexte delitos o faltas inexistentes.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ###### Artículo 367.
 
-Se impondrán de dos a seis años de prisión y multa de doscientos a seiscientos días de salario al funcionario partidista que:
-
-I. Impida la instalación o cierre de una casilla, o abra o cierre la casilla fuera de los tiempos previstos por el Código Electoral del Estado;
-
-II. Sustraiga, destruya, altere o haga uso indebido del material electoral;
-
-III. Ejerza violencia sobre los funcionarios electorales y obstaculice el desarrollo normal de la votación;
-
-IV. Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
-
-V. Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido en la casilla o en el lugar en donde los electores se encuentren formados;
-
-VI. Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de los resultados oficiales, con objeto de alterar el orden;
-
-VII. Simule un acto jurídico o falsifique un escrito relacionado con el proceso electoral;
-
-VIII. Obtenga y utilice a sabiendas y en su calidad de candidato, fondos o bienes provenientes de actividades ilícitas para su campaña electoral.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ###### Artículo 368.
 
-Se impondrá multa de doscientos a seiscientos días de salario, al ministro de cualquier culto o asociación religiosa que, por cualquier medio, induzca al electorado a votar a favor o en contra de determinado partido o candidato o fomente la abstención.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ###### Artículo 369.
 
-Se impondrá multa de cuarenta a ciento cuarenta días de salario al notario público o a quien desempeñe esa función por ministerio de ley que, sin causa justificada, se niegue a dar fe de los actos en que deba intervenir en los términos de la ley electoral.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ###### Artículo 370.
 
-Se impondrá suspensión de sus derechos políticos por un año a quienes, cuando hayan sido electos diputados o presidente, regidor o síndico de un H. Ayuntamiento o H. Junta Municipal o comisario Municipal, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado por la ley.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ###### Artículo 371.
 
-Se impondrán de un mes a dos años de prisión y multa de cincuenta a doscientos cincuenta días de salario a quien:
-
-I. Proporcione documentos o información falsa al Registro de Electores para obtener la credencial de elector;
-
-II. Altere en cualquier forma, sustituya, destruya o haga uso indebido de la credencial que le expida el Registro de Electores;
-
-III. Altere las listas nominales de Electores.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ###### Artículo 372.
 
-Las sanciones a que se refiere el artículo anterior se podrán aumentar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro de Electores.
+(DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
@@ -3381,9 +3431,11 @@ Se impondrán de uno a siete años de prisión y multa de cien a doscientos día
 
 ## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTENIDOS EN LEYES ESPECIALES
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 379.
 
-En los casos de Narcomenudeo, Secuestro y Trata de Personas se aplicarán las disposiciones contenidas en la Ley General de Salud, la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General para Prevenir, Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, respectivamente.
+En los casos de Narcomenudeo, Secuestro, Trata de Personas y Delitos Electorales se aplicarán las disposiciones contenidas en la Ley General de Salud, la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, y la Ley General en Materia de Delitos Electorales, respectivamente.
 
 ###### Artículo 380.
 
@@ -3424,3 +3476,11 @@ PRIMERO.- El presente decreto entrará en vigor tres días después de su public
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes a su inicio.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto
+
+P.O. 27 DE JUNIO DE 2014.
+
+PRIMERO.-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones del presente decreto no se aplicarán a los hechos ejecutados anteriormente a la entrada de su vigencia, salvo que estas disposiciones beneficien al imputado, acusado o sentenciado o que manifiesten su voluntad de acogerse a estas disposiciones.
+
+TERCERO.-Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
