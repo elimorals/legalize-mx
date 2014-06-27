@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-coordinacion-hacendaria-del-estado-de-campeche-13671"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "2012-12-26"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Campeche, el martes 31 de diciembre de 1996.
 
@@ -939,7 +939,9 @@ Los recursos que reciban los municipios derivados de este Fondo, deberán destin
 
 Décimo.- Los recursos que reciba el Estado del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal, previstos en el artículo 36 de la Ley de Coordinación Fiscal, los distribuirá a los municipios de acuerdo con lo señalado en el artículo 38 de esa Ley.
 
-Los recursos que reciban los municipios derivados de este Fondo, deberán destinarse exclusivamente a lo dispuesto en el artículo 37 de la Ley de Coordinación Fiscal. Estos mismos recursos podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua, de conformidad con lo dispuesto por el artículo 51 de la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+Los recursos que reciban los municipios derivados de este Fondo, deberán destinarse exclusivamente a lo dispuesto en el artículo 37 de la Ley de Coordinación Fiscal. Estos mismos recursos podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y de derechos por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, de conformidad con lo dispuesto por el artículo 51 de la Ley de Coordinación Fiscal.
 
 Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 30 de Diciembre de 1996.- Dip. Vicente Castellot Castro, Presidente de la Directiva en turno del H. Congreso del Estado.- Dip. Marta I. Novelo Lara, Secretaria.- Dip. Edilberto Vázquez Ríos, Secretario.- Rúbricas.
 
@@ -978,3 +980,9 @@ Quinto.- Los entes públicos a que se refiere el Artículo 3 de la Ley de Deuda 
 Sexto.- El Ejecutivo expedirá la reglamentación de las Leyes de Deuda Pública del Estado de Campeche y sus Municipios y, de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche en lo que fuere necesario para su correcta observancia.
 
 Séptimo.- La Comisión Intersecretarial a que se refiere el artículo 43 de la Ley de Control Presupuestal y Responsabilidad Hacendaria deberá quedar constituida dentro de los sesenta días siguientes a la entrada en vigor de este decreto.
+
+P.O. 27 DE JUNIO DE 2014.
+
+PRIMERO.-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, del marco jurídico estatal, que se opongan al contenido del presente decreto.
