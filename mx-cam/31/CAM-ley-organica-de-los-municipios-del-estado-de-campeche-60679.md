@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2011-10-27"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
+LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -193,7 +193,9 @@ VI. Prestar auxilio a las autoridades municipales cuando sean legalmente requeri
 
 VII. Inscribirse en los padrones que determinen las leyes federales o estatales y los reglamentos municipales;
 
-VIII. Votar y ser votados para los cargos públicos municipales de elección popular al adquirir la mayoría de edad; y,
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+VIII.- Votar y ser votados para los cargos públicos municipales de elección popular, así como en todos los mecanismos de participación ciudadana que establezca la ley, al adquirir la mayoría de edad; y,
 
 IX. Los que resulten de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes federales o estatales y de los reglamentos y bandos municipales.
 
@@ -215,9 +217,11 @@ Los ayuntamientos se renovarán en su totalidad cada tres años. El período con
 
 Los integrantes de los ayuntamientos deberán satisfacer los requisitos y no estar sujetos a los impedimentos previstos en la Constitución Política del Estado de Campeche y en la ley electoral.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 23.
 
-No podrán ser electos para el período inmediato siguiente ni aún con el carácter de suplentes los integrantes de un Ayuntamiento que hubieren estado en ejercicio. Los suplentes podrán ser electos con el carácter de propietarios, a menos que hubiesen estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos podrán ser reelectos hasta por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 ###### ARTÍCULO 24.
 
@@ -381,7 +385,7 @@ VII. Por abandono de sus funciones en un lapso de quince días consecutivos, sin
 
 VIII. Por incapacidad física o legal;
 
-IX. En los demás supuestos previstos por las leyes; (sic)
+IX. En los demás supuestos previstos por las leyes;
 
 ###### ARTÍCULO 49.
 
@@ -725,9 +729,13 @@ La Junta Municipal se integra mediante elección popular directa conforme a lo p
 
 A cada regidor se asignará un número ordinal. El Síndico tendrá a su cargo tanto los asuntos jurídicos, como los de hacienda.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 81.
 
-Las Juntas Municipales se renovarán cada tres años. El período de su gestión inicia el primer día del mes de octubre del año en que se celebren las elecciones ordinarias y concluye el treinta de septiembre del año en (sic) se celebren las elecciones ordinarias para su renovación.
+Las Juntas Municipales se renovarán cada tres años y sus autoridades podrán ser reelectas hasta por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+El período de su gestión inicia el primer día del mes de octubre del año en que se celebren las elecciones ordinarias y concluye el treinta de septiembre del año en se celebren las elecciones ordinarias para su renovación.
 
 ###### ARTÍCULO 82.
 
@@ -1023,7 +1031,7 @@ XI. Otorgar y revocar los permisos, autorizaciones y licencias conforme a las di
 
 XII. Celebrar convenios con la Federación, con la participación que corresponda al Estado, en materia de administración y custodia de las zonas federales;
 
-XIII. Las demás que le atribuyan ésta y otras disposiciones legales; (sic)
+XIII. Las demás que le atribuyan ésta y otras disposiciones legales;
 
 ###### ARTÍCULO 105.
 
@@ -1143,7 +1151,7 @@ III. La conservación, valoración, protección y fomento de bellezas naturales 
 
 IV. El mejoramiento del medio ambiental urbano y rural; y
 
-V. Conservación del suelo, flora, fauna y reforestación; (sic)
+V. Conservación del suelo, flora, fauna y reforestación;
 
 ###### ARTÍCULO 113.
 
@@ -1347,7 +1355,7 @@ III. Ser de reconocida probidad a juicio del ayuntamiento;
 
 IV. No haber sido condenado en proceso penal por delito intencional;
 
-V. No haber sido inhabilitado para el desempeño de un cargo o puesto público; y, (sic)
+V. No haber sido inhabilitado para el desempeño de un cargo o puesto público; y,
 
 VI. Satisfacer los demás requisitos que en su caso determine el cabildo o junta municipal;
 
@@ -1435,7 +1443,7 @@ III. Pérdida de la calidad de vecino del Municipio;
 
 IV. Circunstancias graves debidamente calificadas por el Cabildo;
 
-V. Renuncia; (sic)
+V. Renuncia;
 
 #### SECCIÓN CUARTA. DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
@@ -1485,7 +1493,7 @@ VIII. Los capitales y créditos a favor del Municipio, así como las donaciones,
 
 IX. Los Fondos de Aportaciones Federales; y,
 
-X. Todos aquellos otros bienes, ingresos o derechos que por cualquier título incorpore a su patrimonio; (sic)
+X. Todos aquellos otros bienes, ingresos o derechos que por cualquier título incorpore a su patrimonio;
 
 ###### ARTÍCULO 136.
 
@@ -1679,7 +1687,7 @@ III. En su caso, valor conforme avalúo con vigencia inferior a seis meses;
 
 IV. Consideraciones respecto a la conveniencia para los intereses municipales en la celebración del acto jurídico;
 
-V. Documentación que acredite la propiedad municipal sobre el inmueble; y (sic)
+V. Documentación que acredite la propiedad municipal sobre el inmueble; y
 
 VI. Destino que se dará a los fondos que se obtengan de la operación;
 
@@ -2009,7 +2017,7 @@ V. Suspensión temporal, o revocación o cancelación de la autorización, permi
 
 VI. Clausura temporal o permanente, parcial o total;
 
-VII. Las demás que en su caso determinen las leyes, o con arreglo a éstas, los reglamentos o bandos municipales; (sic)
+VII. Las demás que en su caso determinen las leyes, o con arreglo a éstas, los reglamentos o bandos municipales;
 
 ###### ARTÍCULO 190.
 
@@ -2050,3 +2058,11 @@ Primero.- El presente decreto entrará en vigor a los quince días siguientes de
 Segundo.- Los municipios tendrán noventa días para adecuar su reglamentación a partir de la entrada en vigor de este decreto.
 
 Tercero.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido de este decreto.
+
+P.O. 27 DE JUNIO DE 2014.
+
+Primero.-El presente decreto entrará el día 1° de julio de 2014, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.-Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido de este decreto.
+
+Tercero.-La reelección de presidentes municipales, regidores y síndicos de los Ayuntamientos y los integrantes de las Juntas Municipales, no será aplicable a quienes hayan protestado el cargo y se encuentren en funciones a la entrada en vigor del presente decreto.
