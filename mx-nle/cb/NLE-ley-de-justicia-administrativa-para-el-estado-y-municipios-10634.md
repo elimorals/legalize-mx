@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2014-06-25"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -871,7 +871,9 @@ En la demanda deberá expresarse lo siguiente:
 
 I.- El nombre y domicilio del actor o, en su caso, de quien promueva en su nombre;
 
-II.- La autoridad o autoridades demandadas o el nombre y domicilio del particular demandado en el caso previsto en el segundo párrafo del artículo 46 de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+II.- La autoridad o autoridades demandadas, precisas y específicas, que hayan dictado, ordenado, ejecutado, tratado de ejecutar u omitido la resolución o acto impugnado; o el nombre y domicilio del particular demandado en el caso previsto en el segundo párrafo del artículo 46 de esta Ley;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -921,11 +923,11 @@ IX.- La manifestación de someterse o no a algún método alterno para la soluci
 
 Cuando se omitan estos requisitos, el Magistrado que conozca del asunto requerirá mediante notificación personal al demandante para que los proporcione en un plazo de cinco días, apercibiéndolo de que de no hacerlo, se tendrá por no presentada la demanda. Cuando no obstante el apercibimiento se omitiere señalar el nombre y domicilio del tercero perjudicado o los motivos por los cuales deba ser llamado con ese carácter, el Magistrado resolverá lo que corresponda en los términos de la fracción IV del Artículo 33 de esta Ley. Si no se hiciere manifestación respecto de someterse o no a un método alterno para la solución de conflictos, se entenderá que no hay voluntad para someterse a alguno de ellos, pudiéndolo hacer en cualquier etapa del procedimiento; y cuando se omitiere ofrecer o acompañar pruebas, solamente se tendrá por perdido el derecho de ofrecerlas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 46.
 
-El plazo para interponer la demanda será de treinta días hábiles, contados desde el día siguiente al en que haya surtido efectos la notificación de la resolución realizada al afectado, el procedimiento o el acuerdo que reclama, o al en que haya tenido conocimiento de ellos o de su ejecución, o al en que se hubiere ostentado sabedor de los mismos.
+El plazo para interponer la demanda será de treinta días hábiles. Dicho término se contará desde el día siguiente al en que haya surtido efectos, conforme a la ley del acto, la notificación al accionante de la resolución o acuerdo que reclame, o al en que haya tenido conocimiento de ellos o de su ejecución, o al en que se hubiere ostentado sabedor de los mismos.
 
 Cuando la autoridad promueva la nulidad de una resolución favorable a un particular, la demanda podrá presentarse dentro de los cinco años siguientes a la fecha en que haya sido notificada la resolución, salvo que la misma haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar su nulidad en cualquier tiempo; pero los efectos de la sentencia, en este último caso, si se declaran nulos, solo se retrotraerán hasta los cinco años anteriores a la presentación de la demanda.
 
@@ -993,13 +995,11 @@ I.- Si encontrare motivo manifiesto o indudable de improcedencia; y
 
 II.- Si fuera obscura o irregular y habiéndose prevenido al actor para subsanarla, éste no lo hiciere en el plazo de cinco días.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 49.
 
-No encontrándose irregularidades en la demanda o subsanadas éstas, se admitirá y correrá traslado de ella a la parte demandada y a los terceros, emplazándolos para que la contesten dentro del término de treinta días hábiles, apercibiéndolos de que de no hacerlo se presumirán ciertos los hechos que el actor le impute de manera precisa al demandado, salvo prueba en contrario, o que por hechos notorios resulten desvirtuados. Si se estima prudente, en el mismo acuerdo se citará para la audiencia del juicio que deberá celebrarse en plazo no mayor de quince días, contados a partir de que concluya el término del emplazamiento, y se dictarán las demás providencias que procedan con arreglo a la Ley. No se citará para audiencia en aquellos casos en que las pruebas ofrecidas y admitidas no requieran desahogo especial, aplicándose en lo conducente lo previsto en el Artículo 55 de esta Ley.
+No encontrándose irregularidades en la demanda o subsanadas éstas, se admitirá y correrá traslado de ella a la parte demandada y a los terceros, emplazándolos para que la contesten dentro del término de treinta días hábiles, apercibiéndolos de que de no hacerlo se presumirán ciertos los hechos que el actor le impute de manera precisa al demandado, salvo prueba en contrario, o que por hechos notorios resulten desvirtuados.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -1041,13 +1041,11 @@ Si la parte actora no da cumplimiento a un Convenio validado, la autoridad deman
 
 ### CAPITULO VI. DE LA CONTESTACION
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 50.
 
-El plazo para contestar la demanda será de treinta días hábiles, y para la ampliación de ésta, será de quince días hábiles y correrá individualmente a partir del día siguiente al en que surta efectos el emplazamiento.
+El plazo para contestar la demanda será de treinta días hábiles, y para la ampliación de ésta, será de quince días hábiles y correrá individualmente a partir del día siguiente al en que surta efectos el emplazamiento. Pero si con motivo de la ampliación se incorpora a juicio como autoridad demandada alguna que no estuviere comprendida entre las señaladas en la demanda original, se le concederá un plazo de treinta días para contestar.
 
 Los demandados y el tercero perjudicado expresarán en la contestación de demanda y en la ampliación de ésta lo siguiente:
 
@@ -1133,15 +1131,11 @@ Si la parte emplazada no contesta la demanda dentro del término legal, el Tribu
 
 No obstante existir tercero perjudicado, los demandados podrán allanarse a la demanda, en cuyo caso se dictará la resolución correspondiente sin mayor trámite.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 55.
 
-En el auto en que se admita la contestación de la demanda o se tenga por no contestada, se podrá señalar, si se estima pertinente, fecha para la audiencia de pruebas y alegatos, la cual se celebrará dentro de un plazo que no excederá de quince días, y si durante la audiencia alguna de las partes objeta un documento o firma, se observará lo dispuesto en la fracción IV del Artículo 84 de esta Ley.
-
-Si ninguna de las pruebas admitidas requiere especial desahogo, se concederá a las partes un término común de diez días a fin de que formulen alegatos. Transcurrido dicho término, con alegatos o sin ellos, quedará el juicio en estado de sentencia.
+En el auto en que se admita la contestación de la demanda o se tenga por no contestada, siempre y cuando ninguna de las pruebas admitidas requiera especial desahogo, se concederá a las partes un término común de diez días a fin de que formulen alegatos. Transcurrido dicho término, con alegatos o sin ellos, quedará el juicio en estado de sentencia.
 
 Si en el caso del párrafo anterior alguna de las partes objetare de falso un documento o firma dentro de los primeros cinco días del término para alegar, se señalará fecha para la audiencia en que deberán desahogarse las pruebas y formularse los alegatos respecto de la objeción, hecho lo cual quedará el juicio en estado de sentencia.
 
@@ -1391,9 +1385,17 @@ b).- Para el caso de que sea algunas de las contrapartes del oferente de la prue
 
 El Magistrado instructor está facultado para calificar la pertinencia de las pruebas ofrecidas por las partes, y desechará aquellas que no se relacionen con los puntos controvertidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+En el acuerdo en el que se realice la calificación de pruebas, se fijará la fecha de la audiencia del juicio, misma que se celebrará dentro de un plazo que no excederá de quince días.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+No se citará para audiencia en aquellos casos en que las pruebas ofrecidas y admitidas no requieran desahogo especial, aplicándose en lo conducente lo previsto en el Artículo 55 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+
+La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre, sin perjuicio de la facultad del Juez en materia de conciliación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1903,13 +1905,11 @@ Los criterios de interpretación que sustente la Sala Superior, así como aquél
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-###### Artículo 102.
+###### Articulo 102.
 
-La Sala Ordinaria que conozca el juicio oral, substanciará y resolverá, conforme a las normas que regulan el procedimiento oral, las controversias a que se refiere el artículo 1° de esta Ley, y que versen sobre sanciones no corporales por infracción a Leyes y Reglamentos Estatales y Municipales en materia de: Ecología y protección al medio ambiente; de servicios públicos de limpia, recolección y traslado de residuos sólidos; protección civil; prevención, combate, abuso, consumo y comercialización de bebidas alcohólicas; espectáculos; anuncios; comercio y de vialidad y tránsito.
-
-En los casos en que el Magistrado advierta de la demanda la impugnación de diversos actos y que contra algunos de ellos no proceda el procedimiento oral, la controversia se sujetará a lo previsto en el Título Segundo de la presente ley.
+la Sala Ordinaria que conozca el juicio oral, substanciará y resolverá, conforme a las normas que regulan el procedimiento oral, las controversias a que se refiere el artículo 1° de esta Ley, que se susciten por los actos administrativos referidos en el artículo 17.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -2107,11 +2107,11 @@ El Magistrado tendrá, durante la celebración de las audiencias la facultad de 
 
 ### CAPÍTULO III. DE LA AUDIENCIA PRELIMINAR
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 128.
 
-La Audiencia Preliminar se llevará a cabo con o sin la asistencia de las partes, sancionando a quien no acuda en los términos de lo previsto en el diverso 104 de esta Ley.
+La Audiencia Preliminar se llevará a cabo con o sin la asistencia de las partes, sancionando con una multa hasta por el monto establecido en el artículo 31 Bis 1 de esta Ley, a quien no comparezca sin justa causa calificada por el Magistrado.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -2221,11 +2221,11 @@ IV.- Escuchar los alegatos que verbalmente formulen las partes del juicio.
 
 V.- (DEROGADA, P.O. 1 DE FEBRERO DE 2012)
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 140.
 
-La Audiencia de Juicio se llevará a cabo con o sin la asistencia de las partes, sancionando a quien no acuda en los términos de lo previsto en esta Ley.
+La Audiencia de Juicio se llevará a cabo con o sin la asistencia de las partes, sancionando con una multa hasta por el monto establecido en el artículo 31 Bis 1 de esta Ley, a quien no comparezca sin justa causa calificada por el Magistrado.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -2533,11 +2533,9 @@ Se entenderá por Tribunal Virtual Administrativo el sistema de procesamiento de
 
 El promovente, al presentar su demanda, podrá hacer la solicitud expresa de substanciar el procedimiento mediante el Tribunal Virtual Administrativo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Las partes podrán solicitar la autorización por si o persona autorizada en los términos del Artículo 34 de esta Ley, el acceso a la página electrónica que para tal efecto tiene el Tribunal de Justicia Administrativa del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual Administrativo, lo que les permitirá consultar en forma completa el expediente electrónico. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de internet del Tribunal Virtual Administrativo. Igualmente, si así lo desean, podrán las partes autorizar que se les realicen notificaciones en vía electrónica, que implicará, en este último caso, la aceptación expresa del solicitante en el sentido de que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por los Artículos 40 y 43 de esta Ley. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual Administrativo que se establezcan por el Tribunal de Justicia Administrativa del Estado a través del reglamento que para tal efecto se emita. Se excluye de la anterior forma de notificación el emplazamiento a juicio, además de las que el Magistrado considere necesarias.
+Las partes podrán solicitar la autorización por sí o persona autorizada en los términos del Artículo 34 de esta Ley, el acceso a la página electrónica que para tal efecto tiene el Tribunal de Justicia Administrativa del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual Administrativo, lo que les permitirá consultar en forma completa el expediente electrónico. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de internet del Tribunal Virtual Administrativo. Igualmente, si así lo desean, podrán las partes autorizar que se les realicen notificaciones en vía electrónica, que implicará, en este último caso, la aceptación expresa del solicitante en el sentido de que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas a las quince horas del segundo día que siga a la fecha en que el acuerdo o resolución sea publicado en el sistema del Tribunal Virtual y surtirán sus efectos en los 1érminos (sic) de lo previsto por los Artículos 40 y 43 de esta Ley. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual Administrativo que se establezcan por el Tribunal de Justicia Administrativa del Estado a través del reglamento que para tal efecto se emita. Se excluye de la anterior forma de notificación el emplazamiento a juicio, además de las que el Magistrado considere necesarias.
 
 De igual manera el demandado y en su caso los terceros perjudicados, al contestar su demanda, podrán hacerlo mediante el Tribunal Virtual Administrativo con la reserva antes enunciada. Las partes se reservarán la posibilidad de presentar en cualquier momento algún otro tipo de promoción por escrito ante la autoridad que conozca el asunto.
 
@@ -2862,3 +2860,41 @@ TERCERO.- (DEROGADO, P.O. 25 DE JUNIO DE 2014)
 P.O. 25 DE JUNIO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 27 DE JUNIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La operación de lo dispuesto en el artículo 102, relativo a la implementación de la oralidad en los juicios contenciosos administrativos, se aplicará de manera gradual y sucesiva considerando como factor el tipo de actos administrativos impugnados, conforme a las siguientes reglas:
+
+I. A partir del día siguiente al de la publicación del presente Decreto en el Periódico Oficial del Estado, iniciará la operación del procedimiento oral en los juicios contenciosos administrativos que versen sobre:
+
+1. Fracción V del Artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+2. Fracción VIII del Artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+II. A partir de los noventa días naturales siguientes al de la publicación del presente Decreto en el Periódico Oficial del Estado, iniciará la operación del procedimiento oral en los juicios contenciosos administrativos que versen sobre los asuntos que se refieren en el artículo 17, fracción III de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+III. La operación gradual de la oralidad en relación con los actos a que se refieren las demás fracciones del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, se operará conforme a las siguientes etapas:
+
+PRIMERA ETAPA: A partir del primero de junio del 2016, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en las fracciones I y II del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+SEGUNDA ETAPA: A partir del primero de septiembre del 2016, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en la fracciones, VII, VIII y XI del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+TERCERA ETAPA: A partir del primero de enero del 2017, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en la fracciones IV y VI del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+CUARTA ETAPA: A partir del primero de marzo del 2017, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en la fracciones V, IX y XII del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+QUINTA ETAPA: A partir del primero de Junio del 2017, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en las fracciones X, XIII y XIV del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+Tercero.- La Sala Superior del Tribunal de Justicia Administrativa deberá emitir la declaratoria de inicio de operaciones de cada una de las etapas antes referidas. La declaratoria surtirá sus efectos legales al día siguiente de la publicación en el Periódico Oficial del Estado.
+
+Cuarto.- Para los juicios contenciosos administrativos que versen sobre actos que de acuerdo con las reglas anteriores aún no les fuera aplicable la vía oral prevista en la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, se seguirá aplicando lo previsto en el título Segundo, titulado "DEL PROCEDIMIENTO ORDINARIO" de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+Quinto.- En los casos en que el Magistrado advierta de la demanda la impugnación de diversos actos y que contra algunos de ellos no proceda el procedimiento oral, la controversia se sujetará a lo previsto en el Título Segundo de la presente ley, salvo que se trate de actos conexos en cuyo caso prevalecerá la vía vigente para el caso conexo.
+
+Sexto.- El Titular del Poder Ejecutivo del Estado al presentar la iniciativa de Ley de Egresos del Estado especificará los conceptos y montos destinados para la implementación del juicio oral en la materia administrativa.
+
+Séptimo.- Los procedimientos en trámite en el Tribunal de Justica Administrativa del Estado, seguirán su procedimiento hasta su sentencia conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Octavo.- Los procedimientos bajo el sistema de oralidad ante el Tribunal de Justica Administrativa del Estado, o Municipales en su caso, deberán operar a más tardar el 31 de diciembre de 2017.
