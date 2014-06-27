@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2014-01-22"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -1549,9 +1549,11 @@ El personal que integre los organismos antes referidos deberá sujetarse a las d
 
 El Servicio Profesional de Carrera es el sistema de administración y control del personal que promueve su profesionalización, desarrollo y permanencia, asegurando la igualdad de oportunidades de ingreso, ascensos, estímulos y beneficios con base en el mérito y la experiencia a fin de contar con servidores públicos capaces, mejorar la calidad del servicio y fortalecer la confianza ciudadana en sus instituciones.
 
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 105.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de cualquier ministerio público, perito o elemento de las Instituciones Policiales, es injustificada, la Institución respectiva sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho el servidor público, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con el artículo 123, Apartado B, fracción XIII de la Constitución Federal. Tal circunstancia será inscrita en el Registro Nacional de Personal de las Instituciones de Seguridad Pública del Sistema Nacional, y en la Base de Datos de Personal de Instituciones de Seguridad Pública del Sistema Estatal.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de cualquier ministerio público, perito o elemento de las Instituciones Policiales, es injustificada, la Institución respectiva sólo estará obligada a pagar la indemnización y las demás prestaciones a que tenga derecho el servidor público, estas, por el último año en que prestó sus servicios, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con el artículo 123, apartado B, fracción XIII de la Constitución Federal. Tal circunstancia será inscrita en el Registro Nacional de Personal de las Instituciones de Seguridad Pública del Sistema Nacional, y en la Base de Datos de Personal de Instituciones de Seguridad Pública del Sistema Estatal.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1853,11 +1855,19 @@ V. En contra de las resoluciones por las que se resuelva la separación, remoci�
 
 VI. De interponerse el recurso ante la autoridad que lo emitió, resolverá el Procurador en su calidad de superior jerárquico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 130.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la Procuraduría sólo estará obligada a la indemnización de tres meses de sueldo y al pago de las prestaciones de ley, entendiendo éstas por el pago de la parte proporcional de aguinaldo, vacaciones y las demás contempladas en las leyes.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la Procuraduría solo estará obligada a la indemnización de tres meses de sueldo y al pago de prestaciones de ley, estas, por el último año en que prestó sus servicios.
 
-En ningún caso procede el pago de sueldo, salarios caídos, haberes dejados de percibir o remuneración diaria ordinaria por el tiempo en que el servidor público haya estado suspendido, separado o removido del cargo, de conformidad con el artículo 123, Apartado B, fracción XIII de la Constitución Federal. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+En aquellos juicios en que las instancias jurisdiccionales condenen al pago de haberes dejados de percibir o remuneración diaria ordinaria por el tiempo en que el servidor público haya estado suspendido, separado o removido del cargo de conformidad, se cubrirán hasta por un periodo máximo de doce meses. La determinación que resultare injustificada por los órganos jurisdiccionales deberá anotarse en el o registros correspondientes.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+El pago referido en el párrafo anterior se hará con base al tabulador vigente de la fecha en que se exhiba.
 
 ### CAPÍTULO TERCERO. DE LA SELECCIÓN, INGRESO Y PERMANENCIA DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES
 
@@ -2413,9 +2423,17 @@ Las resoluciones sancionadoras podrán ser impugnadas mediante el Recurso Admini
 
 Es improcedente la reinstalación o restitución de los integrantes de las Instituciones Policiales separados de su cargo por resolución de remoción, baja o cese, cualquiera que sea el resultado del juicio o medio de defensa que hubiere promovido y, en su caso, sólo procederá la indemnización.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, las Instituciones Policiales sólo estarán obligadas a la indemnización de tres meses de sueldo y al pago de las prestaciones de ley, entendiendo éstas por el pago de la parte proporcional de aguinaldo, vacaciones y las demás contempladas en las leyes.
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
 
-En ningún caso procede el pago de sueldo, salarios caídos, haberes dejados de percibir o remuneración diaria ordinaria por el tiempo en que el servidor público haya estado suspendido, separado o removido del cargo, de conformidad con el artículo 123, Apartado B, fracción XIII de la Constitución Federal. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, las Instituciones Policiales solo estarán obligadas a la indemnización de tres meses de sueldo y al pago de prestaciones de ley, estas, por el último año en que prestó sus servicios.
+
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+En aquellos juicios en que las instancias jurisdiccionales condenen al pago de haberes dejados de percibir o remuneración diaria ordinaria por el tiempo en que el servidor público haya estado suspendido, separado o removido del cargo de conformidad, se cubrirán hasta por un periodo máximo de doce meses. La determinación que resultare injustificada por los órganos jurisdiccionales deberá anotarse en el o registros correspondientes.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+El pago previsto en el párrafo anterior se hará con base al tabulador vigente de la fecha en que se exhiba.
 
 ### CAPÍTULO ÚNICO
 
@@ -2678,3 +2696,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 27 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cualquier asunto en trámite se sustanciará hasta su conclusión, de conformidad con lo establecido en las disposiciones vigentes hasta antes de entrar en vigor el presente Decreto.
